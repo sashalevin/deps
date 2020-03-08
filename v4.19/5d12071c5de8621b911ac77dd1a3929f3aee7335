@@ -1,0 +1,4 @@
+5d12071c5de8 ("mm/memory_hotplug: drop local variables in shrink_zone_span()")
+950b68d9178b ("mm/memory_hotplug: don't check for "all holes" in shrink_zone_span()")
+7ce700bf11b5 ("mm/memory_hotplug: don't access uninitialized memmaps in shrink_zone_span()")
+49ba3c6b37b3 ("mm/hotplug: prepare shrink_{zone, pgdat}_span for sub-section removal")

@@ -1,0 +1,6 @@
+8fe1d36100c8 ("drm/omap: Make the video_mode pointer to .set_timings() const")
+ec68cd5a18e1 ("drm/omap: dss: hdmi: Rename hdmi_display_(set|check)_timing() functions")
+b93109d7dc9e ("drm/omap: dss: Move common device operations to common structure")
+e0528c944058 ("drm/omap: dss: Constify omap_dss_driver operations structure")
+9976782f331b ("drm/omap: dss: Remove DSS encoders get_timings operation")
+52dd898a30e0 ("drm/omap: dss: Remove omapdss_atv_ops get_wss and set_wss operations")

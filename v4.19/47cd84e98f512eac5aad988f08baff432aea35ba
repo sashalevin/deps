@@ -1,0 +1,5 @@
+47cd84e98f51 ("x86/mce/amd: Make disable_err_thresholding() static")
+71a84402b93e ("x86/MCE/AMD: Don't report L1 BTB MCA errors on some family 17h models")
+45d4b7b9cb88 ("x86/MCE: Add an MCE-record filtering function")
+30aa3d26edb0 ("x86/MCE/AMD: Carve out the MC4_MISC thresholding quirk")
+c95b323dcd35 ("x86/MCE/AMD: Turn off MC4_MISC thresholding on all family 0x15 models")

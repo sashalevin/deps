@@ -1,0 +1,7 @@
+451e448ff4bb ("s390/bpf: Use lgrl instead of lg where possible")
+e0491f64795b ("s390/bpf: Align literal pool entries")
+6ad2e1a00729 ("s390/bpf: Wrap JIT macro parameter usages in parentheses")
+166f11d11f6f ("s390/bpf: Use kvcalloc for addrs array")
+1c8f9b91c456 ("bpf: s390: add JIT support for multi-function programs")
+591006b9e754 ("s390: bpf: eliminate zero extension code-gen")
+475c8e9e89db ("s390: Convert IS_ENABLED uses to __is_defined")

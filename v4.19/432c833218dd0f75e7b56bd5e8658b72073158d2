@@ -1,0 +1,4 @@
+432c833218dd ("x86/mm: Handle physical-virtual alignment mismatch in phys_p4d_init()")
+eccd906484d1 ("x86/mm: Do not use set_{pud, pmd}_safe() when splitting a large page")
+ba6f508d0ec4 ("x86/mm: Drop usage of __flush_tlb_all() in kernel_physical_mapping_init()")
+0a9fe8ca844d ("x86/mm: Validate kernel_physical_mapping_init() PTE population")

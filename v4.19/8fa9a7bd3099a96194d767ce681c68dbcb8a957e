@@ -1,0 +1,7 @@
+8fa9a7bd3099 ("scsi: hisi_sas: use wait_for_completion_timeout() when clearing ITCT")
+e74006edd0d4 ("scsi: hisi_sas: Fix the conflict between device gone and host reset")
+b6c9b15e4409 ("scsi: hisi_sas: Fix losing directly attached disk when hot-plug")
+d6a9000b81be ("scsi: hisi_sas: Add support for DIF feature for v2 hw")
+488cf558e3d7 ("scsi: hisi_sas: Add support for interrupt converge for v3 hw")
+c3566f9a617d ("scsi: hisi_sas: Create separate host attributes per HBA")
+784b46b7cba0 ("scsi: hisi_sas: Use block layer tag instead for IPTT")

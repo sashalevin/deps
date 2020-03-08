@@ -1,0 +1,6 @@
+0fbb027b44e7 ("ALSA: pcm: Fix double hw_free calls")
+66f2d19f8116 ("ALSA: pcm: Fix memory leak at closing a stream without hw_free")
+1e850beea278 ("ALSA: pcm: Add the support for sync-stop operation")
+0dba808eae26 ("ALSA: pcm: Introduce managed buffer allocation mode")
+d39789912f15 ("ALSA: pcm: Create proc files only for non-empty preallocations")
+a55eaf177a36 ("ALSA: pcm: Warn if doubly preallocated")

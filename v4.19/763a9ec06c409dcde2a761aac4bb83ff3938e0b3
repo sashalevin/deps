@@ -1,0 +1,6 @@
+763a9ec06c40 ("sched/fair: Fix -Wunused-but-set-variable warnings")
+de53fd7aedb1 ("sched/fair: Fix low cpu usage with high throttling by removing expiration of cpu-local slices")
+c0ad4aa4d841 ("sched/fair: Robustify CFS-bandwidth timer locking")
+b5c0ce7bd184 ("sched/fair: Add lsub_positive() and use it consistently")
+92a801e5d5b7 ("sched/fair: Mask UTIL_AVG_UNCHANGED usages")
+c469933e7721 ("sched/fair: Fix cpu_util_wake() for 'execl' type workloads")

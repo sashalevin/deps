@@ -1,0 +1,8 @@
+e8c66efbfe3a ("drm/vmwgfx: Make user resource lookups reference-free during validation")
+1b9a01d62cb1 ("drm/vmwgfx: Don't refcount cotable lookups during command buffer validation")
+508108ea2747 ("drm/vmwgfx: Don't refcount command-buffer managed resource lookups during command buffer validation")
+fc18afcf5fb2 ("drm/vmwgfx: Use a validation context allocator for relocations and validations")
+9c079b8ce8bf ("drm/vmwgfx: Adapt execbuf to the new validation api")
+84e1bf06bc45 ("drm/vmwgfx: Modify the resource validation interface")
+038ecc503236 ("drm/vmwgfx: Add a validation module v2")
+0b8762e997df ("drm/ttm, drm/vmwgfx: Move the lock- and object functionality to the vmwgfx driver")

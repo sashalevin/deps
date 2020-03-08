@@ -1,0 +1,5 @@
+e8c2307e6a69 ("scsi: mpt3sas: Add support IOCs new state named COREDUMP")
+d04a6edfed0b ("scsi: mpt3sas: Register trace buffer based on NVDATA settings")
+9c067c053f94 ("scsi: mpt3sas: Handle fault during HBA initialization")
+306eaf276b02 ("scsi: mpt3sas: Replace readl with ioc->base_readl")
+919d8a3f3fef ("scsi: mpt3sas: Convert uses of pr_<level> with MPT3SAS_FMT to ioc_<level>")

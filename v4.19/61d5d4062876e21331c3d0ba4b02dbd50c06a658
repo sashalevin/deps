@@ -1,0 +1,5 @@
+61d5d4062876 ("sctp: fix err handling of stream initialization")
+2075e50caf5e ("sctp: convert to genradix")
+2e990dfd1397 ("sctp: remove sched init from sctp_stream_init")
+cfe4bd7a257f ("sctp: check and update stream->out_curr when allocating stream_out")
+e1e46479847e ("sctp: not increase stream's incnt before sending addstrm_in request")

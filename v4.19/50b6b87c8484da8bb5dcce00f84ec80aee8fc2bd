@@ -1,0 +1,7 @@
+50b6b87c8484 ("OPP: Improve error handling in dev_pm_opp_of_cpumask_add_table()")
+2a4eb7358aba ("OPP: Don't remove dynamic OPPs from _dev_pm_opp_remove_table()")
+d0e8ae6c26da ("OPP: Create separate kref for static OPPs list")
+f06ed90e7051 ("OPP: Parse OPP table's DT properties from _of_init_opp_table()")
+3d2556992a87 ("OPP: Protect dev_list with opp_table lock")
+404b1369ea26 ("OPP: Don't try to remove all OPP tables on failure")
+2fbb8670b4ff ("OPP: Free OPP table properly on performance state irregularities")

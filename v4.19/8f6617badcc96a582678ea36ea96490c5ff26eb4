@@ -1,0 +1,8 @@
+8f6617badcc9 ("ixgbevf: Fix secpath usage for IPsec Tx offload")
+2fdb435bc0d7 ("drivers: net: intel: use secpath helpers in more places")
+48e01e001da3 ("ixgbe/ixgbevf: fix XFRM_ALGO dependency")
+d0bcacd0a130 ("ixgbe: add AF_XDP zero-copy Rx support")
+46515fdb1adf ("ixgbe: move common Rx functions to ixgbe_txrx_common.h")
+7f68d4306701 ("ixgbevf: enable VF IPsec offload operations")
+0062e7cc955e ("ixgbevf: add VF IPsec offload code")
+726982404637 ("ixgbe: add VF IPsec offload request message handling")

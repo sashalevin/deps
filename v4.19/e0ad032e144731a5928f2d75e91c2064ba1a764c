@@ -1,0 +1,4 @@
+e0ad032e1447 ("net: netem: correct the parent's backlog when corrupted packet was dropped")
+a7fa12d15855 ("net: netem: fix error path for corrupted GSO frames")
+177b8007463c ("net: netem: fix backlog accounting for corrupted GSO frames")
+5845f706388a ("net: netem: fix skb length BUG_ON in __skb_to_sgvec")

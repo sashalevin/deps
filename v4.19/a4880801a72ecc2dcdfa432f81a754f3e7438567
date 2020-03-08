@@ -1,0 +1,5 @@
+a4880801a72e ("ARCv2: entry: rewrite to enable use of double load/stores LDD/STD")
+ab854bfcd310 ("ARCv2: entry: avoid a branch")
+23c0cbd0c75c ("ARCv2: entry: push out the Z flag unclobber from common EXCEPTION_PROLOGUE")
+45869eb0c0af ("ARCv2: entry: comments about hardware auto-save on taken interrupts")
+e494239a007e ("ARCv2: support manual regfile save on interrupts")

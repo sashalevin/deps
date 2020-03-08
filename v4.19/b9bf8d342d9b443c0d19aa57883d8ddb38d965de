@@ -1,0 +1,7 @@
+b9bf8d342d9b ("mm/memory_hotplug: remove "zone" parameter from sparse_remove_one_section")
+9d1d887d785b ("mm/memory_hotplug: make __remove_section() never fail")
+4e0d2e7ef14d ("mm, sparse: pass nid instead of pgdat to sparse_add_one_section()")
+dd33ad7b251f ("memory_hotplug: cond_resched in __remove_pages")
+d15e59260f62 ("mm/memory_hotplug: make remove_memory() take the device_hotplug_lock")
+063b8b1251fd ("powerpc/pseries/memory-hotplug: Only update DT once per memory DLPAR request")
+3f7daf3d7582 ("powerpc/memtrace: Remove memory in chunks")

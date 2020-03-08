@@ -1,0 +1,6 @@
+a20bb0583751 ("dma-direct: add an explicit dma_direct_get_required_mask")
+bc3ec75de545 ("dma-mapping: merge direct and noncoherent ops")
+f3ecc0ff0457 ("dma-mapping: move the dma_coherent flag to struct device")
+e0a9317d9004 ("hexagon: use generic dma_noncoherent_ops")
+f406f222d4b2 ("hexagon: implement the sync_sg_for_device DMA operation")
+37fca4bd018f ("hexagon: remove the sync_single_for_cpu DMA operation")

@@ -1,0 +1,7 @@
+a39c66cc2f61 ("crypto: shash - convert shash_free_instance() to new style")
+1e212a6a562f ("crypto: xcbc - use crypto_grab_cipher() and simplify error paths")
+3b4e73d8ca81 ("crypto: vmac - use crypto_grab_cipher() and simplify error paths")
+1d0459cd83f5 ("crypto: cmac - use crypto_grab_cipher() and simplify error paths")
+166729709775 ("crypto: cbcmac - use crypto_grab_cipher() and simplify error paths")
+39e7a283b308 ("crypto: hmac - use crypto_grab_shash() and simplify error paths")
+c28817895464 ("crypto: shash - allow essiv and hmac to use OPTIONAL_KEY algorithms")

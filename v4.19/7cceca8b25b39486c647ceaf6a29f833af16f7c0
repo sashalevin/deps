@@ -1,0 +1,6 @@
+7cceca8b25b3 ("crypto: arm64/aes - implement support for XTS ciphertext stealing")
+cc3cc4897237 ("crypto: arm64/aes-blk - ensure XTS mask is always loaded")
+2e5d2f33d1db ("crypto: arm64/aes-blk - improve XTS mask handling")
+6e7de6af91b2 ("crypto: arm64/aes-blk - revert NEON yield for skciphers")
+557ecb4543d1 ("crypto: arm64/aes-blk - remove pointless (u8 *) casts")
+ed6ed11830a9 ("crypto: arm64/aes-modes - get rid of literal load of addend vector")

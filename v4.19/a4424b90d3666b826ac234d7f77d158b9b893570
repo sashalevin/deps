@@ -1,0 +1,4 @@
+a4424b90d366 ("tty/serial: Migrate 8250_omap to use has_sysrq")
+7d470ebf586b ("serial: 8250_omap: Use clk_get_rate() to obtain fclk frequency")
+d6ce4ec0b816 ("serial: 8250_omap: Drop check for of_node")
+596f63da42b9 ("serial: 8250: Process sysrq at port unlock time")

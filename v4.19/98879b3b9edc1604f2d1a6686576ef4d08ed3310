@@ -1,0 +1,4 @@
+98879b3b9edc ("mm: vmscan: correct some vmscan counters for THP swapout")
+886cf1901db9 ("mm: move recent_rotated pages calculation to shrink_inactive_list()")
+060f005f0747 ("mm/vmscan.c: do not allocate duplicate stack variables in shrink_page_list()")
+a9e7c39fa9fd ("mm/vmscan.c: remove 7th argument of isolate_lru_pages()")

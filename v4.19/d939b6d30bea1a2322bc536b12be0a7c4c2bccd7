@@ -1,0 +1,5 @@
+d939b6d30bea ("net: rmnet: fix bridge mode bugs")
+037f9cdf72fb ("net: rmnet: use upper/lower device infrastructure")
+c026d970102e ("net: rmnet: remove rcu_read_lock in rmnet_force_unassociate_device()")
+102210f76644 ("net: rmnet: fix suspicious RCU usage")
+e7a86c687e64 ("net: qualcomm: rmnet: Fix potential UAF when unregistering")

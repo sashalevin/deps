@@ -1,0 +1,8 @@
+24811637dbfd ("locking/lock_events: Use raw_cpu_{add,inc}() for stats")
+51816e9e1139 ("locking/lock_events: Use this_cpu_add() when necessary")
+ad53fa10fa9e ("locking/qspinlock_stat: Introduce generic lockevent_*() counting APIs")
+412f34a82ccf ("locking/qspinlock_stat: Track the no MCS node available case")
+d682b596d993 ("locking/qspinlock: Handle > 4 slowpath nesting levels")
+0fa809ca7f81 ("locking/pvqspinlock: Extend node size when pvqspinlock is configured")
+1222109a5363 ("locking/qspinlock_stat: Count instances of nested lock slowpaths")
+53bf57fab732 ("locking/qspinlock: Re-order code")

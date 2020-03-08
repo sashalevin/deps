@@ -1,0 +1,2 @@
+3975b097e577 ("*: convert stream-like files -> stream_open, even if they use noop_llseek")
+10dce8af3422 ("fs: stream_open - opener for stream-like files so that read and write can run simultaneously without deadlock")

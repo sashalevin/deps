@@ -1,0 +1,4 @@
+de5147b8ce6d ("drm/i915: Add a wakeref getter for iff the wakeref is already active")
+5f22e5b3116c ("drm/i915: Rename intel_wakeref_[is]_active")
+dfdeaff29396 ("drm/i915: Avoid tainting i915_gem_park() with wakeref.lock")
+25d851adbf4c ("drm/i915: Only reschedule the submission tasklet if preemption is possible")

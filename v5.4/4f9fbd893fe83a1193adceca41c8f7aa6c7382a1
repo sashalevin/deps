@@ -1,0 +1,6 @@
+4f9fbd893fe8 ("y2038: rename itimerval to __kernel_old_itimerval")
+bd40a175769d ("y2038: itimer: change implementation to timespec64")
+ddbc7d0657e9 ("y2038: move itimer reset into itimer.c")
+4c22ea2b9120 ("y2038: use compat_{get,set}_itimer on alpha")
+c1745f84be26 ("y2038: itimer: compat handling to itimer.c")
+94c467ddb273 ("y2038: add __kernel_old_timespec and __kernel_old_time_t")

@@ -1,0 +1,4 @@
+569d767087ef ("rcu: Make kfree_rcu() use a non-atomic ->monitor_todo")
+a35d16905efc ("rcu: Add basic support for kfree_rcu() batching")
+79ba7ff5a992 ("rcutorture: Emulate dyntick aspect of userspace nohz_full sojourn")
+366237e7b083 ("stop_machine: Provide RCU quiescent state in multi_cpu_stop()")

@@ -1,0 +1,8 @@
+353e16bf6045 ("ASoC: soc-core: remove snd_soc_rtdcom_del_all()")
+753ace0a34fb ("ASoC: soc-core: call list_del(&rtd->list) at soc_free_pcm_runtime()")
+1c93a9e00e40 ("ASoC: soc-core: move soc_free_pcm_runtime()")
+32d2c172fe88 ("ASoC: soc-core: reuse rtdcom at snd_soc_rtdcom_add()")
+bcb1fd1fcd65 ("ASoC: add for_each_card_rtds() macro")
+98061fdbfccc ("ASoC: add for_each_card_links() macro")
+e894efef9ac7 ("ASoC: core: add support to card rebind")
+0b7990e38971 ("ASoC: add for_each_rtd_codec_dai() macro")

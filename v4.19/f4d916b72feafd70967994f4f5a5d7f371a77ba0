@@ -1,0 +1,8 @@
+f4d916b72fea ("tpm: move tpm_getcap to tpm1-cmd.c")
+1ad6640cd614 ("tpm: move tpm1_pcr_extend to tpm1-cmd.c")
+70a3199a7101 ("tpm: factor out tpm_get_timeouts()")
+d856c00f7d16 ("tpm: add tpm_calc_ordinal_duration() wrapper")
+b2d6e6de005e ("tpm: factor out tpm 1.x duration calculation to tpm1-cmd.c")
+100b16a6f290 ("tpm: sort objects in the Makefile")
+899102bc4518 ("tpm2: add new tpm2 commands according to TCG 1.36")
+2ba5780ce305 ("tpm: tpm_i2c_nuvoton: use correct command duration for TPM 2.x")

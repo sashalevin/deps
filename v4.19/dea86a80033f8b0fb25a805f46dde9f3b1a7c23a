@@ -1,0 +1,6 @@
+dea86a80033f ("arm64: Use arch_timer_read_counter instead of arch_counter_get_cntvct")
+50de013d22e4 ("arm64: compat: Add CNTVCT trap handler")
+2a8905e18c55 ("arm64: compat: Add cp15_32 and cp15_64 handler arrays")
+1f1c014035a8 ("arm64: compat: Add condition code checks and IT advance")
+70c63cdfd6ee ("arm64: compat: Add separate CP15 trapping hook")
+bd7ac140b82f ("arm64: Add decoding macros for CP15_32 and CP15_64 traps")

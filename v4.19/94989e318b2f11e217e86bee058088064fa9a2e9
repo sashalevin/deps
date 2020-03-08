@@ -1,0 +1,5 @@
+94989e318b2f ("ALSA: hda - Force runtime PM on Nvidia HDMI codecs")
+ade49db337a9 ("ALSA: hda/hdmi - Allow audio component for AMD/ATI and Nvidia HDMI")
+4914da2fb0c8 ("ALSA: hda - Don't resume forcibly i915 HDMI/DP codec")
+b5a236c175b0 ("ALSA: hda - Enforces runtime_resume after S3 and S4 for each codec")
+98081ca62cba ("ALSA: hda - Record the current power state before suspend/resume calls")

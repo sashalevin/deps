@@ -1,0 +1,8 @@
+b7ff0b099089 ("media: vb2: skip request checks for VIDIOC_PREPARE_BUF")
+9ac8090fda77 ("media: videobuf2-v4l2: refuse qbuf if queue uses requests or vv.")
+394dc5888091 ("media: videobuf2-v4l2: integrate with media requests")
+fd89e0bb6ebf ("media: videobuf2-core: integrate with media requests")
+55028695c3bb ("media: vb2: drop VB2_BUF_STATE_PREPARED, use bool prepared/synced instead")
+db6e8d57e2cd ("media: vb2: store userspace data in vb2_v4l2_buffer")
+0af4e80bf24a ("media: videobuf2-v4l2: replace if by switch in __fill_vb2_buffer()")
+5f89ec80f1e0 ("media: videobuf2-v4l2: move __fill_v4l2_buffer() function")

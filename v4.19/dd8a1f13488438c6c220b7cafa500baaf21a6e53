@@ -1,0 +1,5 @@
+dd8a1f134884 ("arm64: ftrace: Ensure synchronisation in PLT setup for Neoverse-N1 #1542419")
+b6143d10d23e ("arm64: ftrace: Ensure module ftrace trampoline is coherent with I-side")
+4e69ecf4da1e ("arm64/module: ftrace: deal with place relative nature of PLTs")
+5a3ae7b314a2 ("arm64/ftrace: fix inadvertent BUG() in trampoline check")
+bdb85cd1d206 ("arm64/module: switch to ADRP/ADD sequences for PLT entries")

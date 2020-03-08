@@ -1,0 +1,8 @@
+f4941d75b9cb ("LSM: Lift LSM selection out of individual LSMs")
+657d910b52a3 ("LSM: Provide separate ordered initialization")
+3f6caaf5ff33 ("LSM: Don't ignore initialization failures")
+9b8c7c14059a ("LSM: Provide init debugging infrastructure")
+5b89c1bd4c7e ("LSM: Convert from initcall to struct lsm_info")
+6907e3746fa1 ("LSM: Remove initcall tracing")
+b048ae6e6c70 ("LSM: Rename .security_initcall section to .lsm_info")
+1e80cd1672bc ("vmlinux.lds.h: Avoid copy/paste of security_init section")

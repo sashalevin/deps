@@ -1,0 +1,7 @@
+70ddf65184ec ("x86/vdso: Zap vvar pages when switching to a time namespace")
+af34ebeb866f ("x86/vdso: Handle faults on timens page")
+afaa7b5ac7c8 ("time: Allocate per-timens vvar page")
+6f74acfde20a ("x86/vdso: Restrict splitting VVAR VMA")
+89dd8eecfe96 ("time: Add do_timens_ktime_to_host() helper")
+af993f58d69e ("time: Add timens_offsets to be used for tasks in time namespace")
+769071ac9f20 ("ns: Introduce Time Namespace")

@@ -1,0 +1,5 @@
+aa86f1a38875 ("mmc: tmio: Fixup runtime PM management during probe")
+ac1e25c870d3 ("mmc: tmio: enable module clock before resetting when resuming")
+acb9fce7309a ("mmc: tmio: move MFD variant reset to a platform hook")
+0196c8db8363 ("mmc: tmio: move tmio_mmc_set_clock() to platform hook")
+74005a01f1ff ("mmc: tmio: replace tmio_mmc_clk_stop() calls with tmio_mmc_set_clock()")

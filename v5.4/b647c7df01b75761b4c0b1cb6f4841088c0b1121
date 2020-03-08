@@ -1,0 +1,4 @@
+b647c7df01b7 ("drm/i915: Fixup preempt-to-busy vs resubmission of a virtual request")
+0d7cf7bc15e7 ("drm/i915/execlists: Refactor -EIO markup of hung requests")
+c0bb487dc19f ("drm/i915: Only enqueue already completed requests")
+3231f8c01121 ("drm/i915/execlists: Drop redundant list_del_init(&rq->sched.link)")

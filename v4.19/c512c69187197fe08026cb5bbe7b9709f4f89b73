@@ -1,0 +1,5 @@
+c512c6918719 ("uaccess: implement a proper unsafe_copy_to_user() and switch filldir over to it")
+9f79b78ef744 ("Convert filldir[64]() from __put_user() to unsafe_put_user()")
+e74deb11931f ("x86/uaccess: Introduce user_access_{save,restore}()")
+a959dc88f9c8 ("Use __put_user_goto in __put_user_size() and unsafe_put_user()")
+75045f77f7a7 ("x86/extable: Introduce _ASM_EXTABLE_UA for uaccess fixups")

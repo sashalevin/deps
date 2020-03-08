@@ -1,0 +1,7 @@
+59d8cc6b2e37 ("rcu: Forgive slow expedited grace periods at boot time")
+df1e849ae455 ("rcu: Enable tick for nohz_full CPUs slow to provide expedited QS")
+de8cd0a533bf ("rcu: Update tree_exp.h function-header comments")
+6c7d7dbf5b7f ("rcu: Rename sync_rcu_preempt_exp_done() to sync_rcu_exp_done()")
+15c7c972cd26 ("rcu: Use *_ONCE() to protect lockless ->expmask accesses")
+66e4c33b51bc ("rcu: Force tick on for nohz_full CPUs not reaching quiescent states")
+01b4c39901e0 ("nohz: Add TICK_DEP_BIT_RCU")

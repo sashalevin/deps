@@ -1,0 +1,8 @@
+8d1d4ff5e239 ("perf trace: Factor out the initialization of syscal_arg_fmt->scnprintf")
+dea87bfb7b28 ("perf trace: Associate more argument names with the filename beautifier")
+ce05539f20b3 ("perf trace: Show NULL when syscall pointer args are 0")
+bb39ccb204cc ("tools lib traceevent, perf tools: Rename enum format_flags to enum tep_format_flags")
+2c92f9828b3c ("tools lib traceevent, perf tools: Rename struct format{_field} to struct tep_format{_field}")
+4963b0f88bb9 ("tools lib traceevent, perf tools: Rename struct event_format to struct tep_event_format")
+266b851cc287 ("tools lib traceevent, perf tools: Split trace-seq related APIs in a separate header file")
+7a983a0fe2a2 ("perf trace: Pass augmented args to the arg formatters when available")

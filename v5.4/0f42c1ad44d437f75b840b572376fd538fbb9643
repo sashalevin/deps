@@ -1,0 +1,7 @@
+0f42c1ad44d4 ("x86/ftrace: Get rid of function_hook")
+6dcc5627f6ae ("x86/asm: Change all ENTRY+ENDPROC to SYM_FUNC_*")
+f13ad88a984e ("x86/asm/ftrace: Mark function_hook as function")
+26ba4e5738a5 ("x86/asm: Use SYM_INNER_LABEL instead of GLOBAL")
+e9b9d020c487 ("x86/asm: Annotate aliases")
+74d8b90a8890 ("x86/asm/crypto: Annotate local functions")
+ffedeeb780dc ("linkage: Introduce new macros for assembler symbols")

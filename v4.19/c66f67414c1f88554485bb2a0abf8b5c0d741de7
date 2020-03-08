@@ -1,0 +1,7 @@
+c66f67414c1f ("IB/core: Don't register each MAD agent for LSM notifier")
+805b754d492f ("IB/core: Eliminate a hole in MAD agent struct")
+6e88e672b69f ("IB/core: Fix potential memory leak while creating MAD agents")
+d60667fc398e ("IB/core: Unregister notifier before freeing MAD security")
+896de0090a85 ("RDMA/core: Use dev_name instead of ibdev->name")
+e349f858d29f ("RDMA: Fully setup the device name in ib_register_device")
+adee9f3f3bbb ("RDMA/core: Depend on device_add() to add device attributes")

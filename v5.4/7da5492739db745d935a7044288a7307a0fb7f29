@@ -1,0 +1,7 @@
+7da5492739db ("drm/gma500: fix null dereference of pointer fb before null check")
+6b7ce2c4161a ("drm/gma500: Remove struct psb_fbdev")
+0a8ec2ed0783 ("drm/gma500: Store framebuffer in struct drm_fb_helper")
+0471c9f57d07 ("drm/gma500: Pass struct drm_gem_object to framebuffer functions")
+e18da8ce7d73 ("drm/gma500: Replace struct psb_framebuffer with struct drm_framebuffer")
+86eda5a4c167 ("drm/gma500: Remove field 'fbdev' from struct psb_framebuffer")
+641099fe0cf8 ("drm/gma500: Remove addr_space field from psb_framebuffer")

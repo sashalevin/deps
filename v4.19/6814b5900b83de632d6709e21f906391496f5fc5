@@ -1,0 +1,7 @@
+6814b5900b83 ("net: hns3: code optimization for command queue' spin lock")
+8b0195a30585 ("net: hns3: fix for cmd queue memory not freed problem during reset")
+b2f74dbaf12b ("net: hns3: bugfix for the initialization of command queue's spin lock")
+fa7a4bd564cc ("net: hns3: Add handle for default case")
+d9f28fc23d54 ("net: hns3: Fix client initialize state issue when roce client initialize failed")
+49dd80541c75 ("net: hns3: Clear client pointer when initialize client failed or unintialize finished")
+37dc9cdbdc1b ("net: hns3: Fix cmdq registers initialization issue for vf")

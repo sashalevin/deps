@@ -1,0 +1,8 @@
+df7415bfc06f ("drm/i915: Do not unmask PSR interruption in IRQ postinstall")
+4ab4fa103217 ("drm/i915/psr: Make PSR registers relative to transcoders")
+b16b2a2f70b1 ("drm/i915: fully convert the IRQ initialization macros to intel_uncore")
+65f42cdc6e65 ("drm/i915: convert the IRQ initialization functions to intel_uncore")
+9d9523d8c122 ("drm/i915: add GEN2_ prefix to the I{E, I, M, S}R registers")
+2918c3caefc1 ("drm/i915: don't specify the IRQ register in the gen2 macros")
+68eb49b140c3 ("drm/i915: refactor the IRQ init/reset macros")
+a087bafeeac7 ("drm/i915/icl: Handle rps interrupts without irq lock")

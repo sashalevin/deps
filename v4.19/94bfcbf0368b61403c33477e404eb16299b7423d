@@ -1,0 +1,6 @@
+94bfcbf0368b ("gpio: em: use devm_platform_ioremap_resource()")
+66ad66293ede ("gpio: em: use a helper variable for &pdev->dev")
+19ec11a2233d ("gpio: em: remove the gpiochip before removing the irq domain")
+8764c4ca5049 ("gpio: em: use the managed version of gpiochip_add_data()")
+715ed72801ff ("gpio: em: Return early on error in em_gio_probe()")
+4c411ce35b86 ("gpio: em: Remove error messages on out-of-memory conditions")

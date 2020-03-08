@@ -1,0 +1,8 @@
+04d1446bce27 ("regulator: axp20x: Use rdev_get_id at appropriate places")
+969697de7fa6 ("regulator: axp20x: Remove unneeded NULL test against rdev")
+ea7b971cd64b ("regulator: axp20x: remove a redundant null check on rdev")
+6f3656f3552a ("regulator: axp20x: check rdev is null before dereferencing it")
+918446c96595 ("regulator: axp20x: fix set_ramp_delay for AXP209/dcdc2")
+77e3e3b165db ("regulator: axp20x: add software based soft_start for AXP209 LDO3")
+d29f54df8b16 ("regulator: axp20x: add support for set_ramp_delay for AXP209")
+db4a555f7c4c ("regulator: axp20x: use defines for masks")

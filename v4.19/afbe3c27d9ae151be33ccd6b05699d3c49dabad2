@@ -1,0 +1,8 @@
+afbe3c27d9ae ("samples: bpf: Update outdated error message")
+a1270fe95b74 ("bpf: User program for testing HBM")
+187d0738ff35 ("bpf: Sample HBM BPF program to limit egress bw")
+743e568c1586 ("samples/bpf: Add a "force" flag to XDP samples")
+6a5457618f62 ("samples/bpf: Extend RLIMIT_MEMLOCK for xdp_{sample_pkts, router_ipv4}")
+bbaf6029c49c ("samples/bpf: Convert XDP samples to libbpf usage")
+7313798b144c ("samples/bpf: xdp_redirect_cpu have not need for read_trace_pipe")
+58c50ae4a0b6 ("samples/bpf: add -c/--copy -z/--zero-copy flags to xdpsock")

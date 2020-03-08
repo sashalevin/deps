@@ -1,0 +1,5 @@
+24ba14406c5c ("route: Add multipath_hash in flowi_common to make user-define hash")
+962924fa2b7a ("ip_gre: Refactor collect metatdata mode tunnel xmit to ip_md_tunnel_xmit")
+6e6b904ad4f9 ("ip_tunnel: Fix route fl4 init in ip_md_tunnel_xmit")
+20704bd1633d ("erspan: build the header with the right proto according to erspan_ver")
+bf1c3ab8d357 ("net: reorder flowi_common fields to avoid holes")

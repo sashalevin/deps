@@ -1,0 +1,6 @@
+ee258d79159a ("CIFS: Move credit processing to mid callbacks for SMB3")
+8a26f0f781f5 ("CIFS: Fix credits calculation for cancelled requests")
+8544f4aa9dd1 ("CIFS: Fix credit computation for compounded requests")
+33fa5c8b8a7d ("CIFS: Do not set credits to 1 if the server didn't grant anything")
+43de1db36424 ("smb3: add debug for unexpected mid cancellation")
+cb5c2e639484 ("cifs: fix a credits leak for compund commands")

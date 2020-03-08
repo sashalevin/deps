@@ -1,0 +1,5 @@
+97a93cea8873 ("scsi: qla2xxx: Fix SRB allocation flag to avoid sleeping in IRQ context")
+6a6294689201 ("scsi: qla2xxx: Move {get|rel}_sp to base_qpair struct")
+9ba1cb25c151 ("scsi: qla2xxx: Remove all rports if fabric scan retry fails")
+e112761a4f1d ("scsi: qla2xxx: Turn off IOCB timeout timer on IOCB completion")
+49cecca7dd49 ("scsi: qla2xxx: Use correct qpair for ABTS/CMD")

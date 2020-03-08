@@ -1,0 +1,8 @@
+b73484b2fc0d ("ethtool: Check for vlan etype or vlan tci when parsing flow_rule")
+eca4205f9ec3 ("ethtool: add ethtool_rx_flow_spec to flow_rule structure translator")
+1661d3466281 ("ethtool: don't allow disabling queues with umem installed")
+b8c8a2e2e375 ("ethtool: rename local variable max -> curr")
+c9b47cc1fabc ("xsk: fix bug when trying to use both copy and zero-copy on one queue id")
+f5bd91388e26 ("net: xsk: add a simple buffer reuse queue")
+a29c8bb640ca ("xsk: remove unnecessary assignment")
+902540342096 ("xsk: expose xdp_umem_get_{data,dma} to drivers")

@@ -1,0 +1,8 @@
+15de9cb5c9c8 ("drm/i915/gt: Avoid resetting ring->head outside of its timeline mutex")
+49a24e71b247 ("drm/i915/gt: Ignore stale context state upon resume")
+639f2f24895f ("drm/i915: Introduce new macros for tracing")
+88a4655e75ac ("drm/i915/gt: Adapt engine_park synchronisation rules for engine_retire")
+5cba288466e9 ("drm/i915/gt: Unlock engine-pm after queuing the kernel context switch")
+31b61f0ef9af ("drm/i915/execlists: Move reset_active() from schedule-out to schedule-in")
+b0b102488664 ("drm/i915/execlists: Verify context register state before execution")
+797a615357ac ("drm/i915/gt: Call intel_gt_sanitize() directly")

@@ -1,0 +1,7 @@
+67e977f32461 ("tty/serial: 8250_exar: use true,false for bool variable")
+3f72879e005e ("serial: 8250_exar: Replace msleep(1) with usleep_range()")
+653d00c8d0f1 ("serial: 8250_exar: Consolidate callback assignments in default_setup()")
+47b1747f705e ("serial: 8250_exar: Clear buffer before shutdown")
+b2b4b8ed3c06 ("serial: 8250_exar: Move custom divisor support out from 8250_port")
+ef4e281ecccd ("serial: 8250_exar: Extract PM routine from 8250_port")
+6be254c2113d ("serial: 8250_exar: No need to autoconfigure Exar ports")

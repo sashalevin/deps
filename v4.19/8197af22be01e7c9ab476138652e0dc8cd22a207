@@ -1,0 +1,8 @@
+8197af22be01 ("powerpc/mm: split asm/hugetlb.h into dedicated subarch files")
+8ef5cbde6daf ("arch/powerpc/mm/hugetlb: NestMMU workaround for hugetlb mprotect RW upgrade")
+3fb69c6a1a13 ("powerpc/8xx: Enable 512k hugepage support with HW assistance")
+22569b881d37 ("powerpc/8xx: Enable 8M hugepage support with HW assistance")
+5af543be14cd ("powerpc/8xx: Temporarily disable 16k pages and hugepages")
+1e03c7e2ea83 ("powerpc/mm: fix a warning when a cache is common to PGD and hugepages")
+0356656284ca ("powerpc/mm: replace hugetlb_cache by PGT_CACHE(PTE_T_ORDER)")
+f1981b5b302f ("powerpc/mm/hugetlb/book3s: add _PAGE_PRESENT to hugepd pointer.")

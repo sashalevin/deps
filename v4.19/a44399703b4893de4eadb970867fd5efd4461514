@@ -1,0 +1,7 @@
+a44399703b48 ("perf/x86: Install platform specific ->swap_task_ctx() adapter")
+81ec3f3c4c4d ("perf/x86: Add check_period PMU callback")
+602cae04c486 ("perf/x86/intel: Delay memory deallocation until x86_pmu_dead_cpu()")
+67266c1080ad ("perf/x86/intel: Add generic branch tracing check to intel_pmu_has_bts()")
+ed6101bbf626 ("perf/x86/intel: Move branch tracing setup to the Intel-specific source file")
+af3bdb991a5c ("perf/x86/intel: Add a separate Arch Perfmon v4 PMI handler")
+ba12d20edc5c ("perf/x86/intel: Factor out common code of PMI handler")

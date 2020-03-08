@@ -1,0 +1,5 @@
+89a59c1ca73b ("rbd: copyup with an empty snapshot context (aka deep-copyup)")
+3a482501cf70 ("rbd: introduce rbd_obj_issue_copyup_ops()")
+13488d53775b ("rbd: stop copying num_osd_ops in rbd_obj_issue_copyup()")
+6484cbe987e0 ("rbd: handle DISCARD and WRITE_ZEROES separately")
+24639ce56040 ("libceph: osd_req_op_cls_init() doesn't need to take opcode")

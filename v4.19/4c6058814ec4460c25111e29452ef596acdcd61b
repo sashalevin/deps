@@ -1,0 +1,8 @@
+4c6058814ec4 ("mm: factor out next_present_section_nr()")
+3f1353552e25 ("mm/page_alloc: skip non present sections on zone initialization")
+2491f0a2c0b1 ("mm: section numbers use the type "unsigned long"")
+1811582587c4 ("drivers/base/memory: pass a block_id to init_memory_block()")
+3b6fd6ffb27c ("drivers/base/memory.c: remove an unnecessary check on NR_MEM_SECTIONS")
+a9a9e77fbf27 ("mm: move mirrored memory specific code outside of memmap_init_zone")
+d3035be4ce23 ("mm: calculate deferred pages after skipping mirrored memory")
+d483da5bc78b ("mm: create non-atomic version of SetPageReserved for init use")

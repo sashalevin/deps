@@ -1,0 +1,5 @@
+cfaa1181097f ("CIFS: Use memdup_user() rather than duplicating its implementation")
+8d8b26e58432 ("cifs: add support for ioctl on directories")
+f70556c8cae9 ("smb2: fix uninitialized variable bug in smb2_ioctl_query_info")
+f5b05d622a3e ("cifs: add IOCTL for QUERY_INFO passthrough to userspace")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

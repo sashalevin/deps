@@ -1,0 +1,6 @@
+ee2eb3d4ee17 ("ACPI / APEI: Generalise the estatus queue's notify code")
+7d49f2c75af2 ("ACPI / APEI: Remove spurious GHES_TO_CLEAR check")
+eeb255577947 ("ACPI / APEI: Don't store CPER records physical address in struct ghes")
+93066e9aefa1 ("ACPI / APEI: Remove silent flag from ghes_read_estatus()")
+78b0b690f655 ("ACPI / APEI: Don't wait to serialise with oops messages when panic()ing")
+98cff8b23ed1 ("ACPI/APEI: Clear GHES block_status before panic()")

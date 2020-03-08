@@ -1,0 +1,5 @@
+8fed04d0f6ae ("powerpc/64s/hash: remove user SLB data from the paca")
+82d8f4c22f35 ("powerpc/64s/hash: Use POWER9 SLBIA IH=3 variant in switch_slb")
+5141c182d75b ("powerpc/64s/hash: Use POWER6 SLBIA IH=1 variant in switch_slb")
+8b92887ced2e ("powerpc/64s/hash: move POWER5 < DD2.1 slbie workaround where it is needed")
+505ea82eabd2 ("powerpc/64s/hash: avoid the POWER5 < DD2.1 slb invalidate workaround on POWER8/9")

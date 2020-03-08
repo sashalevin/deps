@@ -1,0 +1,4 @@
+29d9a0b50736 ("x86/boot: Preserve boot_params.secure_boot from sanitizing")
+7846f58fba96 ("x86/boot: Fix boot regression caused by bootparam sanitizing")
+a90118c445cc ("x86/boot: Save fields explicitly, zero out everything else")
+182ddd16194c ("x86/boot: Clear RSDP address in boot_params for broken loaders")

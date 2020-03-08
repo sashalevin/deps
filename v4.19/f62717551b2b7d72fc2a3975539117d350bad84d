@@ -1,0 +1,6 @@
+f62717551b2b ("arm64: fix warnings without CONFIG_IOMMU_DMA")
+886643b76632 ("arm64: use the generic swiotlb_dma_ops")
+fafadcd16595 ("swiotlb: don't dip into swiotlb pool for coherent allocations")
+c4dae366925f ("swiotlb: refactor swiotlb_map_page")
+dff8d6c1ed58 ("swiotlb: remove the overflow buffer")
+8088546832aa ("swiotlb: do not panic on mapping failures")

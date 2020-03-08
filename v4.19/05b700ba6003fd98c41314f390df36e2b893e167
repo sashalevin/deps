@@ -1,0 +1,3 @@
+05b700ba6003 ("block: fix segment calculation for passthrough IO")
+bbcbbd567cc1 ("block: optimize blk_bio_segment_split for single-page bvec")
+dcebd755926b ("block: use bio_for_each_bvec() to compute multi-page bvec count")

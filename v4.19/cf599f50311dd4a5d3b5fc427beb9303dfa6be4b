@@ -1,0 +1,8 @@
+cf599f50311d ("nfp: bpf: relax prog rejection through max_pkt_offset")
+44b6fed0c16e ("nfp: bpf: double check vNIC capabilities after object sharing")
+fb1981654129 ("nfp: bpf: account for additional stack usage when checking stack limit")
+389f263b60c9 ("nfp: bpf: add main logics for BPF-to-BPF calls support in nfp driver")
+bcfdfb7c962d ("nfp: bpf: ignore helper-related checks for BPF calls in nfp verifier")
+c5da54d93eb4 ("nfp: bpf: copy eBPF subprograms information from kernel verifier")
+1a7e62e6329c ("nfp: bpf: rename nfp_prog->stack_depth as nfp_prog->stack_frame_depth")
+c941ce9c282c ("bpf: add verifier callback to get stack usage info for offloaded progs")

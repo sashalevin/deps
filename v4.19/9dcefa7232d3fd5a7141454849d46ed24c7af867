@@ -1,0 +1,8 @@
+9dcefa7232d3 ("ASoC: sh: rsnd: remove snd_pcm_ops")
+859fd6cbf1fb ("ASoC: rsnd: Support hw_free() callback at DAI level")
+e9b5daad4e9b ("ASoC: rsnd: move pcm_new from snd_soc_component_driver to snd_soc_dai_driver")
+b76c7fe6c99d ("ASoC: sh: Drop superfluous PCM preallocation error checks")
+8f74ae398aa0 ("ASoC: sh: Avoid passing NULL to memory allocators")
+7e7fe06de376 ("ASoC: rsnd: move .get_status under rsnd_mod_ops")
+6ab6a2474e0d ("ASoC: rsnd: merge .nolock_start and .prepare")
+d47f9580a6ea ("Merge branch 'asoc-4.19' into asoc-4.20 for rcar dep")

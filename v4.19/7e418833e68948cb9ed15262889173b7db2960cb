@@ -1,0 +1,7 @@
+7e418833e689 ("scsi: zfcp: diagnostics buffer caching and use for exchange port data")
+92953c6e0aa7 ("scsi: zfcp: signal incomplete or error for sync exchange config/port data")
+b76becde2b84 ("scsi: zfcp: fix request object use-after-free in send path causing seqno errors")
+f9eca0227600 ("scsi: zfcp: drop duplicate fsf_command from zfcp_fsf_req which is also in QTCB header")
+a0e86d955584 ("scsi: zfcp: move scsi_eh & non-ERP timeout defines owned by and local to zfcp_fsf.c")
+c24635acce1e ("scsi: zfcp: drop unnecessary forward prototype for struct zfcp_reqlist")
+58f3ead54752 ("scsi: zfcp: move SG table helper from aux to fc and make them static")

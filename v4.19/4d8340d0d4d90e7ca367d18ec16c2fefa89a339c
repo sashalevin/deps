@@ -1,0 +1,7 @@
+4d8340d0d4d9 ("block, bfq: remove ifdefs from around gets/puts of bfq groups")
+3f758e844aa9 ("block, bfq: move update of waker and woken list to queue freeing")
+08d383a74948 ("block, bfq: reset last_completed_rq_bfqq if the pointed queue is freed")
+13a857a4c4e8 ("block, bfq: detect wakers and unconditionally inject their I/O")
+766d61412ef8 ("block, bfq: reset inject limit when think-time state changes")
+2341d662e9a2 ("block, bfq: tune service injection basing on request service times")
+d0edc2473be9 ("block, bfq: inject other-queue I/O into seeky idle queues on NCQ flash")

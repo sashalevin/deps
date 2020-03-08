@@ -1,0 +1,7 @@
+babfb1b55ca3 ("drm/i915: Skip scanning for signalers if we are already inflight")
+e2f3496e93be ("drm/i915: Pull scheduling under standalone lock")
+b16c765122f9 ("drm/i915: Priority boost for new clients")
+85f5e1f385b7 ("drm/i915: Combine multiple internal plists into the same i915_priolist bucket")
+7651a4452ddf ("drm/i915: Reserve some priority bits for internal use")
+a2bf92e8cc16 ("drm/i915/execlists: Avoid kicking priority on the current context")
+97f061580004 ("drm/i915: Pull seqno started checks together")

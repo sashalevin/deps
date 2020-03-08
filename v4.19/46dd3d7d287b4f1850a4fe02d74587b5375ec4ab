@@ -1,0 +1,4 @@
+46dd3d7d287b ("bpf, riscv: Enable zext optimization for more RV64G ALU ops")
+1e692f09e091 ("bpf, riscv: clear high 32 bits for ALU32 add/sub/neg/lsh/rsh/arsh")
+fe121ee531d1 ("bpf, riscv: clear target register high 32-bits for and/or/xor on ALU32")
+2353ecc6f91f ("bpf, riscv: add BPF JIT for RV64G")

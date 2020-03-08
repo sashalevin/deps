@@ -1,0 +1,4 @@
+d53ec8af56d5 ("RDMA/iwcm: Don't copy past the end of dev_name() string")
+896de0090a85 ("RDMA/core: Use dev_name instead of ibdev->name")
+e349f858d29f ("RDMA: Fully setup the device name in ib_register_device")
+adee9f3f3bbb ("RDMA/core: Depend on device_add() to add device attributes")

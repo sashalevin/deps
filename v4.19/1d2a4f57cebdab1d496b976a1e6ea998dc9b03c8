@@ -1,0 +1,3 @@
+1d2a4f57cebd ("cifs:smbd When reconnecting to server, call smbd_destroy() after all MIDs have been called")
+214bab448476 ("cifs: Call MID callback before destroying transport")
+050b8c374019 ("smbd: Make upper layer decide when to destroy the transport")

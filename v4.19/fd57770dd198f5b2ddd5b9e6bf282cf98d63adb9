@@ -1,0 +1,4 @@
+fd57770dd198 ("net/smc: wait for pending work before clcsock release_sock")
+b03faa1fafc8 ("net/smc: postpone release of clcsock")
+26d92e951fe0 ("smc: move unhash as early as possible in smc_release()")
+78abe3d0dfad ("net/smc: fix TCP fallback socket release")

@@ -1,0 +1,7 @@
+17ccd0e48722 ("mtd: spi-nor: Drop explicit cast to int to already int value")
+ebe04bfe26dd ("mtd: spi-nor: Stop compare with negative in Reg Ops methods")
+502c4b0a1445 ("mtd: spi-nor: Group all Reg Ops to avoid forward declarations")
+40b04958fab5 ("mtd: spi-nor: Drop duplicated new line")
+567c2983efb9 ("mtd: spi-nor: Prepend spi_nor_ to all Reg Ops methods")
+453977875364 ("mtd: spi-nor: Introduce 'struct spi_nor_controller_ops'")
+1a21bdfeac05 ("mtd: spi-nor: hisi-sfc: Drop nor->erase NULL assignment")

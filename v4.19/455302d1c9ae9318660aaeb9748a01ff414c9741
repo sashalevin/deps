@@ -1,0 +1,7 @@
+455302d1c9ae ("xdp: fix hang while unregistering device bound to xdp socket")
+01d76b531700 ("xdp: check device pointer before clearing")
+044175a06706 ("xsk: fix umem memory leak on cleanup")
+1d0dc06930a9 ("net: xsk: track AF_XDP sockets on a per-netns list")
+541d7fdd7694 ("xsk: proper AF_XDP socket teardown ordering")
+c9b47cc1fabc ("xsk: fix bug when trying to use both copy and zero-copy on one queue id")
+a29c8bb640ca ("xsk: remove unnecessary assignment")

@@ -1,0 +1,6 @@
+e531f76757eb ("net: mvpp2: handle cases where more CPUs are available than s/w threads")
+074c74dfcb33 ("net: mvpp2: map the CPUs to threads")
+543ec376e3cb ("net: mvpp2: do not use the CPU number to access the per-thread registers")
+ecfed8d9b387 ("net: mvpp2: make the per-cpu helpers static")
+850623b3823a ("net: mvpp2: cpu should always be unsigned")
+a9aac38599ec ("net: mvpp2: rename the IRQs to match the hardware")

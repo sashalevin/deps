@@ -1,0 +1,8 @@
+3a5a5f06d4d2 ("net: hns3: revert to old channel when setting new channel num fail")
+90c68a41db7d ("net: hns3: fix rss configuration lost problem when setting channel")
+672ad0ede179 ("net: hns3: fix user configuration loss for ethtool -L")
+af95882728e3 ("net: hns3: remove redundant codes in hclge_knic_setup")
+65749f7375ae ("net: hns3: reuse reinitialization interface in the hns3_set_channels")
+be5929b89002 ("net: hns3: remove unnecessary hns3_adjust_tqps_num")
+e4fd75022c24 ("net: hns3: Fix loss of coal configuration while doing reset")
+0d43bf45f4a8 ("net: hns3: Modify hns3_get_max_available_channels")

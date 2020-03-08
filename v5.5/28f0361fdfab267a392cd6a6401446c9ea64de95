@@ -1,0 +1,4 @@
+28f0361fdfab ("rcu: Replace synchronize_sched_expedited_wait() "_sched" with "_rcu"")
+de8cd0a533bf ("rcu: Update tree_exp.h function-header comments")
+6c7d7dbf5b7f ("rcu: Rename sync_rcu_preempt_exp_done() to sync_rcu_exp_done()")
+4bc6b745e5cb ("rcu: Allow only one expedited GP to run concurrently with wakeups")

@@ -1,0 +1,8 @@
+cff2e4d27826 ("rtc: rv3029: correctly handle PON and VLOW2")
+7518dd9a93b9 ("rtc: rv3029: drop rv3029_read_regs and rv3029_write_regs")
+bb72dbba83eb ("rtc: rv3029: get rid of rv3029_get_sr")
+35c2daaf554b ("rtc: rv3029: avoid reading the status register uselessly")
+54c5970df449 ("rtc: rv3029: remove race condition when update STATUS")
+609e97fe31a4 ("rtc: rv3029: remove open coded regmap_update_bits")
+c509e4344bc0 ("rtc: rv3029: let regmap validate the register ranges")
+a6f26606ddd0 ("rtc: rv3029: revert error handling patch to rv3029_eeprom_write()")

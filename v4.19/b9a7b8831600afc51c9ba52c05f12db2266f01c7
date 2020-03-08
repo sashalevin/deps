@@ -1,0 +1,8 @@
+b9a7b8831600 ("sched/fair: Skip LLC NOHZ logic for asymmetric systems")
+a0fe2cf086ae ("sched/fair: Tune down misfit NOHZ kicks")
+e25a7a944f19 ("sched/fair: Comment some nohz_balancer_kick() kick conditions")
+892d59c22208 ("sched/fair: Explain LLC nohz kick condition")
+7edab78d7400 ("sched/fair: Simplify nohz_balancer_kick()")
+011b27bb5d31 ("sched/topology: Add lowest CPU asymmetry sched_domain level pointer")
+df054e8445a4 ("sched/topology: Add static_key for asymmetric CPU capacity optimizations")
+05484e098448 ("sched/topology: Add SD_ASYM_CPUCAPACITY flag detection")

@@ -1,0 +1,8 @@
+ab87f9a56c8e ("namei: LOOKUP_{IN_ROOT,BENEATH}: permit limited ".." resolution")
+8db52c7e7ee1 ("namei: LOOKUP_IN_ROOT: chroot-like scoped resolution")
+adb21d2b526f ("namei: LOOKUP_BENEATH: O_BENEATH-like scoped resolution")
+72ba29297e14 ("namei: LOOKUP_NO_XDEV: block mountpoint crossing")
+4b99d4996979 ("namei: LOOKUP_NO_MAGICLINKS: block magic-link resolution")
+278121417a72 ("namei: LOOKUP_NO_SYMLINKS: block symlink resolution")
+740a16782750 ("namei: allow set_root() to produce errors")
+1bc82070fa27 ("namei: allow nd_jump_link() to produce errors")

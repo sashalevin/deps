@@ -1,0 +1,6 @@
+9ce632a28a41 ("xfs: add a flag to release log items on commit")
+ddf92053e45c ("xfs: split iop_unlock")
+195cd83d1b88 ("xfs: don't use xfs_trans_free_items in the commit path")
+8e4b20ea83c2 ("xfs: remove the dummy iop_push implementation for inode creation items")
+e8b78db77d48 ("xfs: don't require log items to implement optional methods")
+086252c34bc2 ("xfs: fix a trivial comment typo in xfs_trans_committed_bulk")

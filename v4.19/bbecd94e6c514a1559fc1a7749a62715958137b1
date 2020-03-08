@@ -1,0 +1,3 @@
+bbecd94e6c51 ("mm, hmm: replace hmm_devmem_pages_create() with devm_memremap_pages()")
+58ef15b765af ("mm, hmm: use devm semantics for hmm_devmem_{add, remove}")
+966cf44f637e ("mm: defer ZONE_DEVICE page initialization to the point where we init pgmap")

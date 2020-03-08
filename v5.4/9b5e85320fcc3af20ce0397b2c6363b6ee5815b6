@@ -1,0 +1,7 @@
+9b5e85320fcc ("KVM: x86: Take a u64 when checking for a valid dr7 value")
+b91991bf6b70 ("KVM: nVMX: Check GUEST_DR7 on vmentry of nested guests")
+139a12cfe1a0 ("KVM: x86: Move IA32_XSS-swapping on VM-entry/VM-exit to common x86 code")
+9753d68865c5 ("KVM: VMX: Use wrmsr for switching between guest and host IA32_XSS on Intel")
+312a1c87798e ("KVM: SVM: Use wrmsr for switching between guest and host IA32_XSS on AMD")
+78958563d802 ("KVM: x86: Remove unneeded kvm_vcpu variable, guest_xcr0_loaded")
+c034f2aa8622 ("KVM: VMX: Fix conditions for guest IA32_XSS support")

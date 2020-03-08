@@ -1,0 +1,5 @@
+a22d570aee77 ("arm64: kprobes: Avoid calling kprobes debug handlers explicitly")
+6a019a92aa58 ("arm64: kprobes: Use arch_populate_kprobe_blacklist()")
+6e08af0f10dc ("arm64: kprobes: Move exception_text check in blacklist")
+a872fc8bf030 ("arm64: kprobes: Move extable address check into arch_prepare_kprobe()")
+f2b3d8566d81 ("arm64: kprobe: Always blacklist the KVM world-switch code")

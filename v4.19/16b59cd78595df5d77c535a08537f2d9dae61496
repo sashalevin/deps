@@ -1,0 +1,7 @@
+16b59cd78595 ("kbuild: move the Module.symvers check for external module build")
+7e13191879d6 ("kbuild: do not create empty modules.order in the prepare stage")
+1d8001ef358d ("kbuild: generate modules.order only when CONFIG_MODULES=y")
+059bc9fc375e ("kbuild: make 'archprepare' depend on 'scripts'")
+65bba0423ecf ("kbuild: fix UML build error with CONFIG_GCC_PLUGINS")
+e07db28eea38 ("kbuild: fix single target build for external module")
+77b0bf55bc67 ("kbuild/Makefile: Prepare for using macros in inline assembly code to work around asm() related GCC inlining bugs")

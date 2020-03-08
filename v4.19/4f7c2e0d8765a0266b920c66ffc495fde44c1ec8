@@ -1,0 +1,5 @@
+4f7c2e0d8765 ("thunderbolt: Make sure device runtime resume completes before taking domain lock")
+dfe40ca486f6 ("thunderbolt: Assign remote for both ports in case of dual link")
+09f11b6c99fe ("thunderbolt: Take domain lock in switch sysfs attribute callbacks")
+8f965efd215a ("thunderbolt: Drop duplicated get_switch_at_route()")
+1830b6eeda1f ("thunderbolt: Prevent root port runtime suspend during NVM upgrade")

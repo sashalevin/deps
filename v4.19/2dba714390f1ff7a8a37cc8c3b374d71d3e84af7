@@ -1,0 +1,7 @@
+2dba714390f1 ("btrfs: compression: let workspace manager cleanup take only the type")
+92ee55303616 ("btrfs: move to function pointers for get/put workspaces")
+929f4baf9317 ("btrfs: add compression interface in (get/put)_workspace")
+1666edabc8b4 ("btrfs: add helper methods for workspace manager init and cleanup")
+10b94a51cafb ("btrfs: unify compression ops with workspace_manager")
+ca4ac360af94 ("btrfs: manage heuristic workspace as index 0")
+acce85de12e6 ("btrfs: rename workspaces_list to workspace_manager")

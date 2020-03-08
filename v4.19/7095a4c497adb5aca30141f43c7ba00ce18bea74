@@ -1,0 +1,8 @@
+7095a4c497ad ("net: dsa: mv88e6xxx: lock mutex in vlan_prepare")
+c9acece064e3 ("net: dsa: mv88e6xxx: introduce helpers for handling chip->reg_lock")
+fcf15367cbd9 ("net: dsa: mv88e6xxx: lock mutex in port_fdb_dump")
+342a0ee70acb ("net: dsa: mv88e6xxx: Release lock while requesting IRQ")
+f6d9758b1266 ("net: dsa: mv88e6xxx: Add lockdep classes to fix false positive splat")
+4f85901f0063 ("net: dsa: mv88e6xxx: add support for bridge flags")
+7c0db24cc431 ("dsa: mv88e6xxx: Ensure all pending interrupts are handled prior to exit")
+4382172fa778 ("net: dsa: mv88e6xxx: Add SERDES phydev_link_change for 6352")

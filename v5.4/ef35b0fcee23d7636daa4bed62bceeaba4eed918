@@ -1,0 +1,6 @@
+ef35b0fcee23 ("x86/mm/pat: Create fixed width output in /sys/kernel/debug/x86/pat_memtype_list, similar to the E820 debug printouts")
+aee7f91369a8 ("x86/mm/pat: Update the comments in pat.c and pat_interval.c and refresh the code a bit")
+91298f1a302d ("x86/mm/pat: Fix off-by-one bugs in interval tree search")
+511aaca834fe ("x86/mm/pat: Drop the rbt_ prefix from external memtype calls")
+6a9930b1c50d ("x86/mm/pat: Do not pass 'rb_root' down the memtype tree helper functions")
+8d04a5f97a5f ("x86/mm/pat: Convert the PAT tree to a generic interval tree")

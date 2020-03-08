@@ -1,0 +1,6 @@
+3ca47e958a64 ("y2038: remove CONFIG_64BIT_TIME")
+f3d964673b2f ("y2038: Make CONFIG_64BIT_TIME unconditional")
+3876ced476c8 ("timex: change syscalls to use struct __kernel_timex")
+1a596398a3d7 ("sparc64: add custom adjtimex/clock_adjtime functions")
+4d5f007eedb7 ("time: make adjtime compat handling available for 32 bit")
+b12a9124eeb7 ("Merge tag 'y2038-for-4.21' of ssh://gitolite.kernel.org:/pub/scm/linux/kernel/git/arnd/playground")

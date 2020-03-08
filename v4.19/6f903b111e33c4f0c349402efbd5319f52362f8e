@@ -1,0 +1,5 @@
+6f903b111e33 ("SUNRPC: Remove the redundant 'zerocopy' argument to xs_sendpages()")
+50f484e29821 ("SUNRPC: Treat the task and request as separate in the xprt_ops->send_request()")
+6c7a64e5a44d ("SUNRPC: Add socket transmit queue offset tracking")
+e1806c7bfb80 ("SUNRPC: Move reset of TCP state variables into the reconnect code")
+d1109aa56c71 ("SUNRPC: Rename TCP receive-specific state variables")

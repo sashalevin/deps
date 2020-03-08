@@ -1,0 +1,4 @@
+6d46964230d1 ("block: remove the lock argument to blk_alloc_queue_node")
+68fc68f2ff62 ("umem: don't override the queue_lock")
+8295a69bdc3c ("drbd: don't override the queue_lock")
+5e27891e8855 ("block: remove bogus check for queue_lock assignment")

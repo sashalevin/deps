@@ -1,0 +1,7 @@
+533d49b37a2b ("x86/mm/pat: Clean up <asm/memtype.h> externs")
+eb243d1d2866 ("x86/mm/pat: Rename <asm/pat.h> => <asm/memtype.h>")
+ecdd6ee77b73 ("x86/mm/pat: Standardize on memtype_*() prefix for APIs")
+f9b57cf80c8b ("x86/mm/pat: Move the memtype related files to arch/x86/mm/pat/")
+baf65855baac ("x86/mm/pat: Harmonize 'struct memtype *' local variable and function parameter use")
+ef35b0fcee23 ("x86/mm/pat: Create fixed width output in /sys/kernel/debug/x86/pat_memtype_list, similar to the E820 debug printouts")
+aee7f91369a8 ("x86/mm/pat: Update the comments in pat.c and pat_interval.c and refresh the code a bit")

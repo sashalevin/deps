@@ -1,0 +1,6 @@
+0b4e61c1c26e ("mtd: rawnand: Move function prototypes after struct declarations")
+871a4073f438 ("mtd: rawnand: Make maxchips an unsigned int")
+2b356ab46ebe ("mtd: rawnand: Pass a nand_chip object to nand_wait_ready()")
+00ad378f304a ("mtd: rawnand: Pass a nand_chip object to nand_scan()")
+52f05b6b87de ("mtd: rawnand: Add the nand_wait_rdy_op() helper and use it")
+85e08e586445 ("mtd: rawnand: Add the nand_wait_readrdy() helper and use it")

@@ -1,0 +1,4 @@
+5273a191dca6 ("rxrpc: Fix NULL pointer deref due to call->conn being cleared on disconnect")
+b960a34b73e4 ("rxrpc: Allow the kernel to mark a call as being non-interruptible")
+930c9f9125c8 ("rxrpc: Fix client call connect/disconnect race")
+c7e86acfcee3 ("rxrpc: Fix lockup due to no error backoff after ack transmit error")

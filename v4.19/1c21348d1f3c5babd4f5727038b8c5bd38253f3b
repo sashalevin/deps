@@ -1,0 +1,5 @@
+1c21348d1f3c ("drm/i915: move intel connector specific functions to intel_connector.c")
+360fa66ae857 ("drm/i915: rename intel_modes.c to intel_connector.c")
+d4b26e4f438f ("drm/i915: add a common connector type independent destroy hook")
+bc3213c44415 ("drm/i915: Drop the eDP check from intel_dp_connector_destroy()")
+19dfe5726bab ("drm/i915: Do intel_panel_destroy_backlight() later")

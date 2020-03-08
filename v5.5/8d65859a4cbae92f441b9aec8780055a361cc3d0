@@ -1,0 +1,8 @@
+8d65859a4cba ("drm/i915/gem: Comment on inability to check args.pad for MMAP_OFFSET")
+126d5de38542 ("drm/i915/gem: Hook user-extensions upto MMAP_OFFSET_IOCTL")
+cc662126b413 ("drm/i915: Introduce DRM_I915_GEM_MMAP_OFFSET")
+1af65515e363 ("drm/i915/selftests: Fill all the drm_vma_manager holes")
+1d1d0af67939 ("drm/i915/selftests: Verify mmap_gtt revocation on unbinding")
+6fedafacae1b ("drm/i915/selftests: Wrap vm_mmap() around GEM objects")
+9e678fc9baaa ("drm/i915: FB backing gem obj should reside in LMEM")
+bee0a70a9eab ("drm/i915/gem: Early rejection of no-aperture map_ggtt")

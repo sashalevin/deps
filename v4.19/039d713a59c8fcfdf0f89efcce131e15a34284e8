@@ -1,0 +1,6 @@
+039d713a59c8 ("IB/umad: Do not check status of nonseekable_open()")
+ee848721f60d ("IB/umad: Avoid additional device reference during open()/close()")
+e9dd5daf884c ("IB/umad: Refactor code to use cdev_device_add()")
+cf7ad3030271 ("IB/umad: Avoid destroying device while it is accessed")
+900d07c12d4e ("IB/umad: Simplify and avoid dynamic allocation of class")
+551d315e34a5 ("RDMA/umad: Use kernel API to allocate umad indexes")

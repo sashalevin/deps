@@ -1,0 +1,6 @@
+94dd54c51a41 ("powerpc/32s: Avoid crossing page boundary while changing SRR0/1.")
+5e04ae85fbed ("powerpc/mm/32s: add setibat() clearibat() and update_bats()")
+e4d6654ebe6e ("powerpc/mm/32s: rework mmu_mapin_ram()")
+14e609d693ef ("powerpc/mm/32: add base address to mmu_mapin_ram()")
+9efc74ff5295 ("powerpc/book3s/32: Use patch_site to patch hash functions")
+4a3a224c5ae3 ("powerpc/book3s/32: Use MMU_FTR_HPTE_TABLE in head_32.S")

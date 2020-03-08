@@ -1,0 +1,6 @@
+09a32cb7b45f ("drm/i915: Make GuC GGTT reservation work on ggtt")
+9937e16b2820 ("drm/i915/guc: Move intel_guc_reserved_gtt_size to intel_wopcm_guc_size")
+911800765ef6 ("drm/i915/uc: Reserve upper range of GGTT")
+dd18cedfa36f ("drm/i915/guc: Move the pin bias value from GuC to GGTT")
+9936ef55f254 ("drm/i915/guc: Avoid wasting memory on incorrect GuC pin bias")
+7a859c655d8f ("drm/i915: Eliminate use of PAGE_SIZE as a virtual alignment")

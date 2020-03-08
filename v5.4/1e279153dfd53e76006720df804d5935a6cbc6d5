@@ -1,0 +1,4 @@
+1e279153dfd5 ("Revert "block: split bio if the only bvec's length is > SZ_4K"")
+6952a7f8446e ("block: split bio if the only bvec's length is > SZ_4K")
+59db8ba2f652 ("block: still try to split bio if the bvec crosses pages")
+fa5322872187 ("block: avoid blk_bio_segment_split for small I/O operations")

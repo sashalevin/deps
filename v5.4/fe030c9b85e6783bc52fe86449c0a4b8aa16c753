@@ -1,0 +1,6 @@
+fe030c9b85e6 ("powerpc/pseries/cmm: Implement balloon compaction")
+1ef2f06b7179 ("powerpc/pseries/cmm: Convert loaned_pages to an atomic_long_t")
+7659f5d64480 ("powerpc/pseries/cmm: Rip out memory isolate notifier")
+287b89773d81 ("powerpc/pseries/cmm: Use adjust_managed_page_count() insted of totalram_pages_*")
+4a1745c5bf92 ("powerpc/pseries/cmm: Drop page array")
+022da2231801 ("powerpc/pseries/cmm: Report errors when registering notifiers fails")

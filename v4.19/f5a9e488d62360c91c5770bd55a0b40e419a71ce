@@ -1,0 +1,4 @@
+f5a9e488d623 ("powerpc/powernv/idle: Fix restore of SPRN_LDBAR for POWER9 stop state.")
+e9cef0189c5b ("powerpc/powernv/idle: Restore AMR/UAMOR/AMOR/IAMR after idle")
+10d91611f426 ("powerpc/64s: Reimplement book3s idle code in C")
+19f8a5b5be28 ("powerpc/powernv: Don't reprogram SLW image on every KVM guest entry/exit")

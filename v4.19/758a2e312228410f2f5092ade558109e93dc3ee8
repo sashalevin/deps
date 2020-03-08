@@ -1,0 +1,4 @@
+758a2e312228 ("x86/irq/64: Rename irq_stack_ptr to hardirq_stack_ptr")
+df835e7083be ("x86/irq/64: Sanitize the top/bottom confusion")
+4f44b8f0b33b ("x86/irq/64: Remove a hardcoded irq_stack_union access")
+7dbcf2b0b770 ("x86/irq/64: Limit IST stack overflow check to #DB stack")

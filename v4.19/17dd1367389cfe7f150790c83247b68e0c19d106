@@ -1,0 +1,4 @@
+17dd1367389c ("vsock/virtio: stop workers during the .remove()")
+9c7a5582f5d7 ("vsock/virtio: use RCU to avoid use-after-free on the_virtio_vsock")
+85965487abc5 ("vsock/virtio: reset connected sockets on device removal")
+22b5c0b63f32 ("vsock/virtio: fix kernel panic after device hot-unplug")

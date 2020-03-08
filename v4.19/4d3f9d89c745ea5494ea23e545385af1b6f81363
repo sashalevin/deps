@@ -1,0 +1,6 @@
+4d3f9d89c745 ("crypto: arm64/aes-ce-cipher - use AES library as fallback")
+e52b7023cdad ("crypto: arm64 - convert to use crypto_simd_usable()")
+8336bdf12a9e ("crypto: arm64/crct10dif - register PMULL variants as separate algos")
+d72b9d4acd54 ("crypto: arm64/crct10dif - revert to C code for short inputs")
+cc7cf991e9eb ("crypto: arm64/chacha20 - add XChaCha20 support")
+a00fa0c88774 ("crypto: arm64/nhpoly1305 - add NEON-accelerated NHPoly1305")

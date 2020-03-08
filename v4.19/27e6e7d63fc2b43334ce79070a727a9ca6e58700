@@ -1,0 +1,4 @@
+27e6e7d63fc2 ("arm64/cpufeature: Convert hook_lock to raw_spin_lock_t in cpu_enable_ssbs()")
+8f04e8e6e29c ("arm64: ssbd: Add support for PSTATE.SSBS rather than trapping to EL3")
+d71be2b6c0e1 ("arm64: cpufeature: Detect SSBS and advertise to userspace")
+86d0dd34eaff ("arm64: cpufeature: add feature for CRC32 instructions")

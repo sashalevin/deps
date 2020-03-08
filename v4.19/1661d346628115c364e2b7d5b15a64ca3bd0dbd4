@@ -1,0 +1,6 @@
+1661d3466281 ("ethtool: don't allow disabling queues with umem installed")
+b8c8a2e2e375 ("ethtool: rename local variable max -> curr")
+c9b47cc1fabc ("xsk: fix bug when trying to use both copy and zero-copy on one queue id")
+f5bd91388e26 ("net: xsk: add a simple buffer reuse queue")
+a29c8bb640ca ("xsk: remove unnecessary assignment")
+902540342096 ("xsk: expose xdp_umem_get_{data,dma} to drivers")

@@ -1,0 +1,6 @@
+12de2eadf878 ("bnxt_en: Fix RDMA driver failure with SRIOV after firmware reset.")
+c16d4ee0e397 ("bnxt_en: Refactor logic to re-enable SRIOV after firmware reset detected.")
+737d7a6c5596 ("bnxt_en: Call recovery done after reset is successfully done")
+937f188c1f4f ("bnxt_en: Fix the logic that creates the health reporters.")
+e4e38237d7e3 ("bnxt_en: Report health status update after reset is done")
+f3a6d206c25a ("bnxt_en: Call bnxt_ulp_stop()/bnxt_ulp_start() during error recovery.")

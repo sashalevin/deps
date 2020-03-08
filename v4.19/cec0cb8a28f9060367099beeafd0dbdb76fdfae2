@@ -1,0 +1,7 @@
+cec0cb8a28f9 ("crypto: skcipher - remove crypto_has_ablkcipher()")
+c79b411eaa72 ("crypto: skcipher - remove remnants of internal IV generators")
+37db69e0b492 ("crypto: user - clean up report structure copying")
+9f4debe38415 ("crypto: user - Zeroize whole structure given to user space")
+f43f39958beb ("crypto: user - fix leaking uninitialized memory to userspace")
+cac5818c25d0 ("crypto: user - Implement a generic crypto statistics")
+b350bee5ea0f ("crypto: skcipher - Introduce crypto_sync_skcipher")

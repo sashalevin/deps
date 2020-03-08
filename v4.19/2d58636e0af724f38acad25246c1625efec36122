@@ -1,0 +1,6 @@
+2d58636e0af7 ("char/nvram: Allow the set_checksum and initialize ioctls to be omitted")
+d5bbb5021ce8 ("char/nvram: Adopt arch_nvram_ops")
+a084dbf6592c ("m68k/atari: Implement arch_nvram_ops struct")
+1278cf66cf4b ("nvram: Replace nvram_* function exports with static functions")
+cb8d8006d43f ("char/nvram: Re-order functions to remove forward declarations and #ifdefs")
+437ace3777ab ("m68k/atari: Move Atari-specific code out of drivers/char/nvram.c")

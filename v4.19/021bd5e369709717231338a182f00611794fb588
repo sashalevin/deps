@@ -1,0 +1,8 @@
+021bd5e36970 ("net: stmmac: Let TX and RX interrupts be independently enabled/disabled")
+8d07a7930434 ("net: stmmac: xgmac: Do not enable TBU interrupt")
+3ba07debfc8d ("net: stmmac: Only disable interrupts if NAPI is scheduled")
+a66b58849ffe ("net: stmmac: Do not disable interrupts when cleaning TX")
+ae9f346dd38c ("net: stmmac: dwxgmac2: Also use TBU interrupt to clean TX path")
+4ccb45857c2c ("net: stmmac: Fix NAPI poll in TX path when in multi-queue")
+fa0be0a43f10 ("net: stmmac: Prevent RX starvation in stmmac_napi_poll()")
+fcc509eb10ff ("net: stmmac: dwxgmac2: Only clear interrupts that are active")

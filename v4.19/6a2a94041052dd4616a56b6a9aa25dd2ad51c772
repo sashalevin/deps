@@ -1,0 +1,8 @@
+6a2a94041052 ("drm/i915/tv: Fix return value for intel_tv_compute_config()")
+690157f0a9e7 ("drm/i915/tv: Fix >1024 modes on gen3")
+e3bb355c7d8b ("drm/i915/tv: Generate better pipe timings for TV encoder")
+5023520fd372 ("drm/i915/tv: Use drm_mode_set_name() to name TV modes")
+65ddf7f968b8 ("drm/i915/tv: Deobfuscate preferred mode selection")
+bda5f53206e5 ("drm/i915/tv: Nuke silly 0 initialzation of xpos/ypos")
+6801603d3d7d ("drm/i915/tv: Fix interlaced ysize calculation")
+d9facae6afe1 ("drm/i915: Introduce CRTC output format")

@@ -1,0 +1,4 @@
+c01e8da2cdb9 ("drm/i915: Initialise basic fence before acquiring seqno")
+85bedbf191e8 ("drm/i915/gt: Eliminate the trylock for reading a timeline's hwsp")
+f1925f3309d1 ("drm/i915: Use EAGAIN for trylock failures")
+67a3acaab716 ("drm/i915: Use a ctor for TYPESAFE_BY_RCU i915_request")

@@ -1,0 +1,4 @@
+32d1fe8fcb32 ("mm/hotplug: reorder memblock_[free|remove]() calls in try_remove_memory()")
+d9eb1417c77d ("mm/memory_hotplug: release memory resource after arch_remove_memory()")
+2c2a5af6fed2 ("mm, memory_hotplug: add nid parameter to arch_remove_memory")
+69324b8f4833 ("mm, devm_memremap_pages: add MEMORY_DEVICE_PRIVATE support")

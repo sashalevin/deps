@@ -1,0 +1,6 @@
+c6ae99605633 ("ALSA: aloop: Support runtime change of snd_timer via info interface")
+26c53379f98d ("ALSA: aloop: Support selection of snd_timer instead of jiffies")
+fd1f7c743d30 ("ALSA: aloop: Move CABLE_VALID_BOTH to the top of file")
+8e3bf7cde433 ("ALSA: aloop: Rename all jiffies timer specific functions")
+133f37593eb6 ("ALSA: aloop: Use callback functions for timer specific implementations")
+09419f1ace21 ("ALSA: aloop: Support return of error code for timer start and stop")

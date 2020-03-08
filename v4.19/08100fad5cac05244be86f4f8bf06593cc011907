@@ -1,0 +1,6 @@
+08100fad5cac ("IB/mlx5: Add ODP SRQ support")
+fbeb4075c670 ("IB/mlx5: Let read user wqe also from SRQ buffer")
+6ff7414a17b2 ("IB/mlx5: Clean mlx5_ib_mr_responder_pfault_handler() signature")
+8e3b68830186 ("RDMA/mlx5: Delete unreachable handle_atomic code by simplifying SW completion")
+34f4c9554d8b ("IB/mlx5: Use fragmented QP's buffer for in-kernel users")
+032080ab43ac ("IB/mlx5: Lock QP during page fault handling")

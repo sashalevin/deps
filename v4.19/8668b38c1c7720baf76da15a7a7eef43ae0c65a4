@@ -1,0 +1,5 @@
+8668b38c1c77 ("sparc/iommu: move per-page flushing into __sbus_iommu_map_page")
+b82059428c05 ("sparc/iommu: pass a physical address to iommu_get_one")
+ce65d36f3ea7 ("sparc: remove the sparc32_dma_ops indirection")
+53b7670e5735 ("sparc: factor the dma coherent mapping into helper")
+7227b2026239 ("sparc: remove not needed sbus_dma_ops methods")

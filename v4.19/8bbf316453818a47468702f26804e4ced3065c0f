@@ -1,0 +1,6 @@
+8bbf31645381 ("pwm: meson: Add the per-channel register offsets and bits in a struct")
+a50a49a45140 ("pwm: meson: Add the meson_pwm_channel data to struct meson_pwm")
+33cefd84d26b ("pwm: meson: Change MISC_CLK_SEL_WIDTH to MISC_CLK_SEL_MASK")
+181164b669c9 ("pwm: meson: Use GENMASK and FIELD_PREP for the lo and hi values")
+084f137600f4 ("pwm: meson: Unify the parameter list of meson_pwm_{enable, disable}")
+f173747fffdf ("pwm: meson: Use the spin-lock only to protect register modifications")

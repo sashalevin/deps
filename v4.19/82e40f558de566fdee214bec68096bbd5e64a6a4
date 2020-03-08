@@ -1,0 +1,3 @@
+82e40f558de5 ("KVM: arm/arm64: vgic-v2: Handle SGI bits in GICD_I{S,C}PENDR0 as WI")
+8fa3adb8c6be ("KVM: arm/arm64: vgic: Make vgic_irq->irq_lock a raw_spinlock")
+9009782a4937 ("KVM: arm/arm64: vgic: Consider priority and active state for pending irq")

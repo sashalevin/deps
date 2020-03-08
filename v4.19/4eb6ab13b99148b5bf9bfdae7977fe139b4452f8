@@ -1,0 +1,7 @@
+4eb6ab13b991 ("RDMA: Remove rdma_user_mmap_page")
+ddcdc368b103 ("RDMA/mlx5: Use get_zeroed_page() for clock_info")
+67f269b37f9b ("RDMA/ucontext: Fix regression with disassociate")
+c660133c339f ("RDMA/mlx5: Do not allow the user to write to the clock page")
+e2cd1d1ad204 ("RDMA/mlx5: Use rdma_user_mmap_io")
+5f9794dc94f5 ("RDMA/ucontext: Add a core API for mmaping driver IO memory")
+c5c4d92e70f3 ("RDMA/uverbs: Use cdev_device_add() instead of cdev_add()")

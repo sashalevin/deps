@@ -1,0 +1,8 @@
+e6b98ce6145a ("crypto: s5p - switch to skcipher API")
+c4624488665f ("crypto: s5p - use correct block size of 1 for ctr(aes)")
+84a0b00aa486 ("crypto: s5p - deal gracefully with bogus input sizes")
+e8e3c1ca57d4 ("crypto: s5p - update iv after AES-CBC op end")
+cdf640a69f44 ("crypto: s5p-sss: Add aes-ctr support")
+b1b4416ffd42 ("crypto: s5p-sss: Minor code cleanup")
+6c12b6ba4549 ("crypto: s5p-sss: Fix Fix argument list alignment")
+5842cd447860 ("crypto: s5p-sss: Fix race in error handling")

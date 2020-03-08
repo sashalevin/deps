@@ -1,0 +1,7 @@
+ff5cbec0c3ea ("sparc/iommu: create a common helper for map_sg")
+f25b23bc156f ("sparc/iommu: merge iommu_release_one and sbus_iommu_unmap_page")
+031abf0b70cb ("sparc/iommu: use !PageHighMem to check if a page has a kernel mapping")
+6c503d0d88db ("sparc/iommu: fix ->map_sg return value")
+ce65d36f3ea7 ("sparc: remove the sparc32_dma_ops indirection")
+53b7670e5735 ("sparc: factor the dma coherent mapping into helper")
+7227b2026239 ("sparc: remove not needed sbus_dma_ops methods")

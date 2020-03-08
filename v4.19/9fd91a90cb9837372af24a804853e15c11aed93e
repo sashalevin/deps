@@ -1,0 +1,3 @@
+9fd91a90cb98 ("vfs: strengthen checking of file range inputs to generic_remap_checks")
+1383a7ed6749 ("vfs: check file ranges before cloning files")
+5b49f64db299 ("vfs: vfs_clone_file_prep_inodes should return EINVAL for a clone from beyond EOF")

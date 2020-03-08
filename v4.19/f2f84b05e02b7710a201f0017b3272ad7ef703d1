@@ -1,0 +1,4 @@
+f2f84b05e02b ("bug: consolidate warn_slowpath_fmt() usage")
+89348fc31441 ("bug: rename __WARN_printf_taint() to __WARN_printf()")
+ee8711336c51 ("bug: refactor away warn_slowpath_fmt_taint()")
+6b15f678fb7d ("include/asm-generic/bug.h: fix "cut here" for WARN_ON for __WARN_TAINT architectures")

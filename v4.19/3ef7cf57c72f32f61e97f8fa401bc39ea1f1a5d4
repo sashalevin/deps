@@ -1,0 +1,3 @@
+3ef7cf57c72f ("net: use skb_queue_empty_lockless() in poll() handlers")
+ff946833b70e ("tipc: fix hanging clients using poll with EPOLLOUT flag")
+39fdc9c71f65 ("tipc: refactor function tipc_sk_filter_connect()")

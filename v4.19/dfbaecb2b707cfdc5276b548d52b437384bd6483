@@ -1,0 +1,5 @@
+dfbaecb2b707 ("parisc: Remap hugepage-aligned pages in set_kernel_text_rw()")
+c9fa406f62ec ("parisc: Fix A500 boot crash")
+3847dab77421 ("parisc: Add alternative coding infrastructure")
+4dd5b673fa62 ("parisc: Purge TLB entries after updating page table entry and set page accessed flag in TLB handler")
+32a7901f6d1d ("parisc: Remove PTE load and fault check from L2_ptep macro")

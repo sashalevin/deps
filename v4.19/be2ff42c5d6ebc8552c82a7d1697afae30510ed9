@@ -1,0 +1,5 @@
+be2ff42c5d6e ("fuse: Use hash table to link processing request")
+3a5358d1a1b7 ("fuse: kill req->intr_unique")
+c59fd85e4fd0 ("fuse: change interrupt requests allocation algorithm")
+d2d2d4fb1f54 ("fuse: Fix use-after-free in fuse_dev_do_write()")
+bc78abbd55dd ("fuse: Fix use-after-free in fuse_dev_do_read()")

@@ -1,0 +1,8 @@
+c2b200e0bac0 ("vxlan: Move up vxlan_fdb_free(), vxlan_fdb_destroy()")
+0e6160f3f5a9 ("vxlan: vxlan_fdb_notify(): Make switchdev notification configurable")
+5572c815603b ("vxlan: __vxlan_fdb_delete(): Drop unused argument vid")
+045a5a99141d ("vxlan: Notify for each remote of a removed FDB entry")
+9a9973531786 ("vxlan: Add switchdev notifications")
+5ff4ff4fe8c4 ("net: Add netif_is_vxlan()")
+cca45e054ce5 ("vxlan: Export address checking functions")
+293681f149a8 ("vxlan: Remove duplicated include from vxlan.h")

@@ -1,0 +1,6 @@
+0090ef3ecbd4 ("drm/ast: Allocate cursor BOs at high end of video memory")
+659d1a49c63d ("drm/ast: Move cursor offset swapping into ast_show_cursor()")
+2f5989fcd1b7 ("drm/ast: Move cursor update code to ast_show_cursor()")
+714468d9afdf ("drm/ast: Move ast_{show,hide}_cursor() within source file")
+96a49f39043d ("drm/ast: Don't call ast_show_cursor() from ast_cursor_move()")
+820d6606e9c2 ("drm/ast: Use drm_gem_vram_{vmap,vunmap}() to map cursor source BO")

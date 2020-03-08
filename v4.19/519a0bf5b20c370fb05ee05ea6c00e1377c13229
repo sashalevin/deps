@@ -1,0 +1,8 @@
+519a0bf5b20c ("net/mlx5e: Initialize all netdev common structures in one place")
+303211b44ce3 ("net/mlx5e: Always initialize update stats delayed work")
+182570b26223 ("net/mlx5e: Gather common netdev init/cleanup functionality in one place")
+f6a8a19bb11b ("RDMA/netdev: Hoist alloc_netdev_mqs out of the driver")
+84a0973386c5 ("net/mlx5e: Enable multi-queue and RSS for VF representors")
+092297e09a0a ("net/mlx5e: Extract creation of rep's default flow rule")
+1462e48db059 ("net/mlx5e: Move Q counters allocation and drop RQ to init_rx")
+6dae6f06f0fc ("net/mlx5e: IPoIB, Initialize max_opened_tc in mlx5i_init flow")

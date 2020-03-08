@@ -1,0 +1,7 @@
+aad028cadb17 ("MIPS: bitops: Avoid redundant zero-comparison for non-LLSC")
+d6103510e7cc ("MIPS: bitops: Use the BIT() macro")
+a2e66b862cc7 ("MIPS: bitops: Allow immediates in test_and_{set,clear,change}_bit")
+6bbe043bd3f4 ("MIPS: bitops: Implement test_and_set_bit() in terms of _lock variant")
+59361e9975fd ("MIPS: bitops: Use MIPS_ISA_REV, not #ifdefs")
+3d2920cf4fd4 ("MIPS: bitops: Only use ins for bit 16 or higher")
+fe7cd97e68fa ("MIPS: bitops: Handle !kernel_uses_llsc first")

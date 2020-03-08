@@ -1,0 +1,3 @@
+39611265edc1 ("ftrace/x86: Add a comment to why we take text_mutex in ftrace_arch_code_modify_prepare()")
+d5b844a2cf50 ("ftrace/x86: Remove possible deadlock between register_kprobe() and ftrace_run_update_code()")
+fabe38ab6b2b ("kprobes: Mark ftrace mcount handler functions nokprobe")

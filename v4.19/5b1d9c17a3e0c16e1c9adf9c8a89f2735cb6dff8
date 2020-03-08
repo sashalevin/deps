@@ -1,0 +1,7 @@
+5b1d9c17a3e0 ("r8152: avoid to call napi_disable twice")
+d2187f8e4454 ("r8152: divide the tx and rx bottom functions")
+e4a5017ac5b3 ("r8152: change rx_copybreak and rx_pending through ethtool")
+47922fcde536 ("r8152: support skb_add_rx_frag")
+d55d70894c6d ("r8152: use alloc_pages for rx buffer")
+252df8b86667 ("r8152: replace array with linking list for rx information")
+ec5791c202ac ("r8152: separate the rx buffer size")

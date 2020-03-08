@@ -1,0 +1,6 @@
+9b5a8e00d479 ("mm: convert insert_pfn() to vm_fault_t")
+79f3aa5ba989 ("mm: convert __vm_insert_mixed() to vm_fault_t")
+6d958546ff61 ("mm: inline vm_insert_pfn_prot() into caller")
+bc12e6ad9617 ("mm: make vm_insert_pfn_prot() static")
+f5e6d1d5f8f3 ("mm: introduce vmf_insert_pfn_prot()")
+5d7476374564 ("mm: remove vm_insert_mixed()")

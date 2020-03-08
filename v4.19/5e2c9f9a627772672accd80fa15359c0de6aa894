@@ -1,0 +1,6 @@
+5e2c9f9a6277 ("irqchip/gic-v3-its: Allow use of LPI tables in reserved memory")
+3fb68faee867 ("irqchip/gic-v3-its: Register LPI tables with EFI config table")
+c6e2ccb66d0c ("irqchip/gic-v3-its: Use pre-programmed redistributor tables with kdump kernels")
+c440a9d9d113 ("irqchip/gic-v3-its: Allow use of pre-programmed LPI tables")
+e1a2e2010ba9 ("irqchip/gic-v3-its: Keep track of property table's PA and VA")
+11e37d357f6b ("irqchip/gic-v3-its: Move pending table allocation to init time")

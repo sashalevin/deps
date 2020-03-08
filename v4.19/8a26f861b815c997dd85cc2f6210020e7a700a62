@@ -1,0 +1,6 @@
+8a26f861b815 ("PCI: mediatek: Use pci_parse_request_of_pci_ranges()")
+0c0f2f93e708 ("PCI: mediatek: Use devm_of_pci_get_host_bridge_resources() to parse DT")
+3828d60fd2ef ("PCI: mediatek: Fixup MSI enablement logic by enabling MSI before clocks")
+57cb3152b360 ("PCI: mediatek: Convert to use pci_host_probe()")
+a7f172ab6a8e ("PCI: mediatek: Fix class type for MT7622 to PCI_CLASS_BRIDGE_PCI")
+17a0a1e5f6c4 ("PCI: mediatek: Fix unchecked return value")

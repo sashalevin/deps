@@ -1,0 +1,8 @@
+e79321883842 ("arm64: Switch to PMR masking when starting CPUs")
+b5cf607370d0 ("irqchip/gic-v3: Factor group0 detection into functions")
+0ceb0d56905e ("arm64: alternative: Apply alternatives early in boot process")
+e9ab7a2e3336 ("arm64: alternative: Allow alternative status checking per cpufeature")
+0b587c84e421 ("arm64: capabilities: Batch cpu_enable callbacks")
+606f8e7b27bf ("arm64: capabilities: Use linear array for detection and verification")
+f7bfc14a0819 ("arm64: capabilities: Optimize this_cpu_has_cap")
+82a3a21b236f ("arm64: capabilities: Speed up capability lookup")

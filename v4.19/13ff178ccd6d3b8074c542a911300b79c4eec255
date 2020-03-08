@@ -1,0 +1,6 @@
+13ff178ccd6d ("fbcon: Call fbcon_mode_deleted/new_modelist directly")
+50c505635634 ("fbdev: directly call fbcon_suspended/resumed")
+0e0f3250d440 ("fbcon: call fbcon_fb_bind directly")
+cf4a3ae4ef33 ("fbdev: lock_fb_info cannot fail")
+97b67986f145 ("fbcon: call fbcon_fb_(un)registered directly")
+7076404f7c8d ("fbdev: locking check for fb_set_suspend")

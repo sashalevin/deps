@@ -1,0 +1,3 @@
+dee339b5c1da ("KVM: Never start grow vCPU halt_poll_ns from value below halt_poll_ns_grow_start")
+49113d360bde ("KVM: Expose the initial start value in grow_halt_poll_ns() as a module parameter")
+7fa08e71b4a0 ("KVM: grow_halt_poll_ns() should never shrink vCPU halt_poll_ns")

@@ -1,0 +1,6 @@
+31fe8d4e0fd5 ("iio: imu: st_lsm6dsx: do not access active-low/open-drain regs if not supported")
+7e9061030dd6 ("iio: imu: st_lsm6dsx: move irq related definitions in irq_config")
+b5969abfa8b8 ("iio: imu: st_lsm6dsx: add motion events")
+6ee6a368ac0a ("iio: imu: st_lsm6dsx: move interrupt thread to core")
+22ea56511073 ("iio: imu: st_lsm6dsx: enable clear on read for latched interrupts")
+9db02d32b8ee ("iio: imu: st_lsm6dsx: enable LIR for sensor events")

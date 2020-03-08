@@ -1,0 +1,4 @@
+ce74370c2ce9 ("net: hns3: optimize the barrier using when cleaning TX BD")
+26cda2f16138 ("net: hns3: fix data race between ring->next_to_clean")
+0aa3d88a9197 ("net: hns3: minor optimization for ring_space")
+799997a307ff ("net: hns3: Remove tx budget to clean more TX descriptors in a napi")

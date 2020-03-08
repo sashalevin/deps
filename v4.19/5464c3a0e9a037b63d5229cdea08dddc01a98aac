@@ -1,0 +1,6 @@
+5464c3a0e9a0 ("xdp: fix potential deadlock on socket mutex")
+f54ba391d88f ("xsk: fix to reject invalid flags in xsk_bind")
+1e405c1a3f66 ("xsk: do not remove umem from netdevice on fall-back to copy-mode")
+cc5b5d356504 ("xsk: Check if a queue exists during umem setup")
+c9b47cc1fabc ("xsk: fix bug when trying to use both copy and zero-copy on one queue id")
+a29c8bb640ca ("xsk: remove unnecessary assignment")

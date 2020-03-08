@@ -1,0 +1,7 @@
+4e2fe4edcabe ("s390/qeth: use mm helpers")
+e517b649b3c3 ("s390/qeth: prepare for copy-free TSO transmission")
+554942646653 ("s390/qeth: check size of required HW header cache object")
+2d3986d1ceda ("s390/qeth: fix up protocol headers early")
+f231dc9dbd78 ("s390/qeth: limit csum offload erratum to L3 devices")
+f13ade199391 ("s390/qeth: run non-offload L3 traffic over common xmit path")
+fc69660bbdb2 ("s390/qeth: move L2 xmit code to core module")

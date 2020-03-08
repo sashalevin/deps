@@ -1,0 +1,7 @@
+4fb2c933c965 ("drm/syncobj: Avoid kmalloc(GFP_KERNEL) under spinlock")
+43cf1fc0e27e ("drm: fix deadlock of syncobj v6")
+48197bc564c7 ("drm: add syncobj timeline support v9")
+9a09a42369a4 ("drm: expand replace_fence to support timeline point v2")
+e28bd101ae1b ("drm: rename null fence to stub fence in syncobj v2")
+94e4c5305a9b ("drm: fix syncobj null_fence_enable_signaling")
+e296de926dfd ("drm/syncobj: Drop add/remove_callback from driver interface")

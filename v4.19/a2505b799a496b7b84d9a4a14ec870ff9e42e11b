@@ -1,0 +1,3 @@
+a2505b799a49 ("loop: Split setting of lo_state from loop_clr_fd")
+310ca162d779 ("block/loop: Use global lock for ioctl() operation.")
+b1ab5fa309e6 ("block/loop: Don't grab "struct file" for vfs_getattr() operation.")

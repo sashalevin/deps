@@ -1,0 +1,7 @@
+aa90ac45bc88 ("firmware: arm_scmi: Use {get,put}_unaligned_le{32,64} accessors")
+d09aac0eb17c ("firmware: arm_scmi: Add asynchronous sensor read if it supports")
+6a55331c87d8 ("firmware: arm_scmi: Drop async flag in sensor_ops->reading_get")
+ac778e62634e ("hwmon: scmi: Scale values to target desired HWMON units")
+0b673b648699 ("firmware: arm_scmi: fetch and store sensor scale")
+430daaf96ad1 ("firmware: arm_scmi: fix bitfield definitions for SENSOR_DESC attributes")
+ca64b719a1e6 ("firmware: arm_scmi: use strlcpy to ensure NULL-terminated strings")

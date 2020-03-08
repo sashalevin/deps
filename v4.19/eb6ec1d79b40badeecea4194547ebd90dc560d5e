@@ -1,0 +1,7 @@
+eb6ec1d79b40 ("mtd: spi-nor: Make the enable argument passed to set_byte() a bool")
+b296379fef7c ("mtd: spi-nor: Stop passing flash_info around")
+87f3ed184d97 ("mtd: spi-nor: Drop inline on all internal helpers")
+548ed6847f53 ("mtd: spi-nor: Add the SNOR_F_4B_OPCODES flag")
+0005aad09453 ("mtd: spi-nor: add macros related to MICRON flash")
+90c31cb9a811 ("mtd: spi-nor: Reset nor->addr_width when SFDP parsing failed")
+5390a8df769e ("mtd: spi-nor: add support to non-uniform SFDP SPI NOR flash memories")

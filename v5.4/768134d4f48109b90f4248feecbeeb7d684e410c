@@ -1,0 +1,8 @@
+768134d4f481 ("io_uring: don't do flush cancel under inflight_lock")
+fcb323cc53e2 ("io_uring: io_uring: add support for async work inheriting files")
+561fb04a6a22 ("io_uring: replace workqueue usage with io-wq")
+771b53d033e8 ("io-wq: small threadpool implementation for io_uring")
+fa4562280889 ("io_uring: remove index from sqe_submit")
+c826bd7a743f ("io_uring: add set of tracing events")
+ba5290ccb6b5 ("io_uring: replace s->needs_lock with s->in_async")
+ba816ad61fdf ("io_uring: run dependent links inline if possible")

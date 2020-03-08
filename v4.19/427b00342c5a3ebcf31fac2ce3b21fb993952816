@@ -1,0 +1,5 @@
+427b00342c5a ("mmc: queue: Fix bigger segments usage")
+38c38cb73223 ("mmc: queue: use bigger segments if DMA MAP layer can merge the segments")
+0a55f4ab9678 ("mmc: core: API to temporarily disable retuning for SDIO CRC errors")
+c53336c8f5f2 ("mmc: core: align max segment size with logical block size")
+b061b326287d ("mmc: simplify queue initialization")

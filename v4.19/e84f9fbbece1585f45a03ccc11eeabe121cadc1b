@@ -1,0 +1,7 @@
+e84f9fbbece1 ("modpost: refactor namespace_from_kstrtabns() to not hard-code section name")
+69923208431e ("symbol namespaces: revert to previous __ksymtab name scheme")
+9ae5bd184756 ("modpost: make updating the symbol namespace explicit")
+a2b111843894 ("modpost: delegate updating namespaces to separate function")
+389eb3f5f4ab ("modpost: fix broken sym->namespace for external module builds")
+bf70b0503abd ("module: swap the order of symbol.namespace")
+e0703556644a ("Merge tag 'modules-for-v5.4' of git://git.kernel.org/pub/scm/linux/kernel/git/jeyu/linux")

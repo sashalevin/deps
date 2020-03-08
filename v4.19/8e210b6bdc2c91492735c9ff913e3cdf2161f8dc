@@ -1,0 +1,5 @@
+8e210b6bdc2c ("net: sfp: control TX_DISABLE and phy only from main state machine")
+d900954f57c6 ("net: sfp: rename T_PROBE_WAIT to T_SERIAL")
+0936ebc42f59 ("net: sfp: rename sfp_sm_ins_next() as sfp_sm_mod_next()")
+e85d81a1840a ("net: sfp: move sfp sub-state machines into separate functions")
+b5bfc21af5cb ("net: sfp: do not probe SFP module before we're attached")

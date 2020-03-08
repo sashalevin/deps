@@ -1,0 +1,6 @@
+1570175abd16 ("PCI/P2PDMA: track pgmap references per resource, not globally")
+e615a191216e ("PCI/P2PDMA: fix the gen_pool_add_virt() failure path")
+02917e9f8676 ("mm, hmm: mark hmm_devmem_{add, add_resource} EXPORT_SYMBOL_GPL")
+977196b8c5b2 ("PCI/P2PDMA: Add PCI p2pmem DMA mappings to adjust the bus offset")
+cbb8ca69fcbb ("PCI/P2PDMA: Add sysfs group to display p2pmem stats")
+52916982af48 ("PCI/P2PDMA: Support peer-to-peer memory")

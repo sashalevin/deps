@@ -1,0 +1,8 @@
+120c2c4f99a8 ("KVM: x86: Refactor kvm_vcpu_do_singlestep() to remove out param")
+75ee23b30dc7 ("KVM: x86: Don't update RIP or do single-step on faulting emulation")
+5cc244a20b86 ("KVM: x86: Fix single-step debugging")
+f10c729ff965 ("kvm: vmx: Defer setting of DR6 until #DB delivery")
+da998b46d244 ("kvm: x86: Defer setting of CR2 until #PF delivery")
+91e86d225ef3 ("kvm: x86: Add payload operands to kvm_multiple_exception")
+c851436a34ca ("kvm: x86: Add has_payload and payload to kvm_queued_exception")
+cfb634fe3052 ("KVM: nVMX: Clear reserved bits of #DB exit qualification")

@@ -1,0 +1,7 @@
+d3a56931f9c8 ("xsk: Support allocations of large umems")
+624676e78899 ("xdp: xdp_umem: replace kmap on vmap for umem map")
+d9973cec9d57 ("xdp: xdp_umem: fix umem pages mapping for 32bits systems")
+044175a06706 ("xsk: fix umem memory leak on cleanup")
+50e74c0131a5 ("xsk: add id to umem")
+f5bd91388e26 ("net: xsk: add a simple buffer reuse queue")
+902540342096 ("xsk: expose xdp_umem_get_{data,dma} to drivers")

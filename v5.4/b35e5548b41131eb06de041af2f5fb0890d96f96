@@ -1,0 +1,3 @@
+b35e5548b411 ("KVM: x86/vPMU: Add lazy mechanism to release perf_event per vPMC")
+a6da0d77e98e ("KVM: x86/vPMU: Reuse perf_event to avoid unnecessary pmc_reprogram_counter")
+4be946728f65 ("KVM: x86/vPMU: Declare kvm_pmu->reprogram_pmi field using DECLARE_BITMAP")

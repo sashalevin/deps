@@ -1,0 +1,5 @@
+621400366bdb ("mdio_bus: Simplify reset handling and extend to non-DT systems")
+32085f25d7b6 ("mdio_bus: don't use managed reset-controller")
+fd8f64df9520 ("mdio_bus: Fix init if CONFIG_RESET_CONTROLLER=n")
+1d4639567d97 ("mdio_bus: Fix PTR_ERR applied after initialization to constant")
+71dd6c0dff51 ("net: phy: add support for reset-controller")

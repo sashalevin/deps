@@ -1,0 +1,6 @@
+3278e0492554 ("KVM/nVMX: Use kvm_vcpu_map when mapping the posted interrupt descriptor table")
+96c66e87deee ("KVM/nVMX: Use kvm_vcpu_map when mapping the virtual APIC page")
+31f0b6c4ba7d ("KVM/nVMX: Use kvm_vcpu_map when mapping the L1 MSR bitmap")
+690908104e39 ("KVM: nVMX: allow tests to use bad virtual-APIC page address")
+acff78477b9b ("KVM: x86: nVMX: close leak of L0's x2APIC MSRs (CVE-2019-3887)")
+42b00f122cfb ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

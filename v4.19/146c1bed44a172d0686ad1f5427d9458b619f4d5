@@ -1,0 +1,6 @@
+146c1bed44a1 ("net: dsa: Export symbols for dsa_port_vid_{add, del}")
+314f76d7a68b ("net: dsa: Add more convenient functions for installing port VLANs")
+d6af21a4fb5f ("net: dsa: Use prepare/commit phase in dsa_slave_vlan_rx_add_vid()")
+061f6a505ac3 ("net: dsa: Add ndo_vlan_rx_{add, kill}_vid implementation")
+929d6c145ec4 ("net: dsa: Implement ndo_get_port_parent_id()")
+ab4a16869f25 ("rocker, dsa, ethsw: Don't filter VLAN events on bridge itself")

@@ -1,0 +1,7 @@
+1cd472d2ac16 ("ASoC: da7219: Use clk_round_rate to handle enabled bclk/wclk case")
+d90ba6c8b53e ("ASoC: da7219: Expose BCLK and WCLK control through CCF")
+541ccdc113f0 ("ASoC: da7219: Update TDM usage to be more flexible")
+9fd729542cf4 ("ASoC: da7219: Add support for master mode BCLK rate adjustment")
+a58943abcb08 ("ASoC: da7219: Add recalc_rate function to return DAI clock rate")
+a6028cc60aad ("ASoC: da7219: MCLK should be enabled before DAI clocks")
+123c3def3bc5 ("ASoC: da7219: fix endianness issues")

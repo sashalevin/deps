@@ -1,0 +1,8 @@
+83c442515917 ("ipv6: Create init helper for fib6_nh")
+c7a1ce397ada ("ipv6: Change addrconf_f6i_alloc to use ip6_route_info_create")
+67f695134703 ("ipv6: Move setting default metric for routes")
+d7e774f35676 ("net: Add extack argument to ip_fib_metrics_init")
+cc5f0eb2164f ("net: Move free of fib_metrics to helper")
+767a2217533f ("net: common metrics init helper for FIB entries")
+8823a3acfd90 ("net: rtmsg_to_fib6_config() - use new style struct initializer instead of memset")
+1367bbf52a43 ("net/ipv6: Do not reset nl_net in ip6_route_info_create")

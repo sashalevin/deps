@@ -1,0 +1,8 @@
+978749617bc0 ("Revert "r8169: remove unneeded mmiowb barriers"")
+bd7153bd83b8 ("r8169: remove unneeded mmiowb barriers")
+2e6eedb4813e ("r8169: make use of xmit_more and __netdev_sent_queue")
+76085c9e7eae ("r8169: replace macro TX_FRAGS_READY_FOR with a function")
+734c140982ac ("r8169: remove ancient GCC bug workaround in a second place")
+8b6dd85666e2 ("r8169: remove workaround for ancient gcc bug")
+fe716f8a33ab ("r8169: merge rtl_irq_enable and rtl_irq_enable_all")
+38caff5a445b ("r8169: handle all interrupt events in the hard irq handler")

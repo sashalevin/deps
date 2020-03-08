@@ -1,0 +1,4 @@
+af78ff7c6e66 ("blk-mq: Simplify request completion state")
+9cf2bab63076 ("block: kill request ->cpu member")
+36e765392e48 ("blk-mq: complete req in softirq context in case of single queue")
+ed88660a5372 ("block: move call of scheduler's ->completed_request() hook")

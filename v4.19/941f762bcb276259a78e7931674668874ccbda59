@@ -1,0 +1,5 @@
+941f762bcb27 ("mm/oom: fix pgtables units mismatch in Killed process message")
+70cb6d267790 ("mm/oom: add oom_score_adj and pgtables to Killed process message")
+8ac3f8fe91a2 ("mm/oom_kill.c: add task UID to info message on an oom kill")
+bbbe48029720 ("mm, oom: remove 'prefer children over parent' heuristic")
+cefc7ef3c87d ("mm, oom: fix use-after-free in oom_kill_process")

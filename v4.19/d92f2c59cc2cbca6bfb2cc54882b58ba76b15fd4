@@ -1,0 +1,3 @@
+d92f2c59cc2c ("xhci: Don't let USB3 ports stuck in polling state prevent suspend")
+45f750c16cae ("xhci: Don't prevent USB2 bus suspend in state check intended for USB3 only")
+2f31a67f01a8 ("usb: xhci: Prevent bus suspend if a port connect change or polling state is detected")

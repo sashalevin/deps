@@ -1,0 +1,5 @@
+2a5ae84bf31e ("drm/amdgpu: fix gfx wptr for sdma v4")
+d425e7d8de53 ("drm/amdgpu: add some [WR]REG32_SDMA macros to sdma_v4_0.c")
+998d3fd4f8ce ("drm/amdgpu: remove SRIOV specific handling from sdma_v4_0_gfx_resume")
+09f0b4ffd41e ("drm/amdgpu: remove non gfx specific handling from sdma_v4_0_gfx_resume")
+51235849d995 ("drm/amdgpu: fix sdma v4 startup under SRIOV")

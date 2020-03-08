@@ -1,0 +1,7 @@
+bffed38d4fb5 ("kvm: selftests: aarch64: dirty_log_test: fix unaligned memslot size")
+76d58e0f07ec ("KVM: fix KVM_CLEAR_DIRTY_LOG for memory slots of unaligned size")
+98938aa8edd6 ("KVM: validate userspace input in kvm_clear_dirty_log_protect()")
+2a31b9db1535 ("kvm: introduce manual dirty log reprotect")
+8fe65a8299f9 ("kvm: rename last argument to kvm_get_dirty_log_protect")
+e5d83c74a580 ("kvm: make KVM_CAP_ENABLE_CAP_VM architecture agnostic")
+e42b4a507efa ("Merge tag 'kvmarm-for-v4.20' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

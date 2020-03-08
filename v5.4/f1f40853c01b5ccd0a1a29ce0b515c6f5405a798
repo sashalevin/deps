@@ -1,0 +1,8 @@
+f1f40853c01b ("io_uring: fixup a few spots where link failure isn't flagged")
+842f96124c56 ("io_uring: fix race with canceling timeouts")
+561fb04a6a22 ("io_uring: replace workqueue usage with io-wq")
+c826bd7a743f ("io_uring: add set of tracing events")
+11365043e527 ("io_uring: add support for canceling timeout requests")
+a41525ab2e75 ("io_uring: add support for absolute timeouts")
+ba5290ccb6b5 ("io_uring: replace s->needs_lock with s->in_async")
+ba816ad61fdf ("io_uring: run dependent links inline if possible")

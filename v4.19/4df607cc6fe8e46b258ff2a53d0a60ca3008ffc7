@@ -1,0 +1,7 @@
+4df607cc6fe8 ("kbuild: Remove unnecessary -Wno-unused-value")
+a1494304346a ("kbuild: add all Clang-specific flags unconditionally")
+7eb8e5f07305 ("kbuild: Don't try to add '-fcatch-undefined-behavior' flag")
+6f303d60534c ("gcc-9: silence 'address-of-packed-member' warning")
+076f421da5d4 ("kbuild: replace cc-name test with CONFIG_CC_IS_CLANG")
+6977f95e63b9 ("powerpc: avoid -mno-sched-epilog on GCC 4.9 and newer")
+2a056f58fd33 ("powerpc: consolidate -mno-sched-epilog into FTRACE flags")

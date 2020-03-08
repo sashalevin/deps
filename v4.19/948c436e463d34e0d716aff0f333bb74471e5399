@@ -1,0 +1,5 @@
+948c436e463d ("mm/page_alloc: fix and rework pfn handling in memmap_init_zone()")
+3f1353552e25 ("mm/page_alloc: skip non present sections on zone initialization")
+a9a9e77fbf27 ("mm: move mirrored memory specific code outside of memmap_init_zone")
+d3035be4ce23 ("mm: calculate deferred pages after skipping mirrored memory")
+d483da5bc78b ("mm: create non-atomic version of SetPageReserved for init use")

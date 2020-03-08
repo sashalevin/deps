@@ -1,0 +1,7 @@
+faa6d21153fd ("powerpc/nvdimm: use H_SCM_QUERY hcall on H_OVERLAP error")
+4111cdef0e87 ("powerpc/nvdimm: Use HCALL error as the return value")
+3a855b7ac7d5 ("powerpc/papr_scm: Force a scm-unbind if initial scm-bind fails")
+0d7fc080ba13 ("powerpc/papr_scm: Update drc_pmem_unbind() to use H_SCM_UNBIND_ALL")
+5a3840a470c4 ("powerpc/papr_scm: Use the correct bind address")
+409dd7dc83eb ("powerpc/papr_scm: Remove endian conversions")
+b5beae5e224f ("powerpc/pseries: Add driver for PAPR SCM regions")

@@ -1,0 +1,8 @@
+41e033fecdc8 ("smb3: add mount option to allow RW caching of share accessed by only 1 client")
+1981ebaabd88 ("smb3: add some more descriptive messages about share when mounting cache=ro")
+83bbfa706dda ("smb3: add mount option to allow forced caching of read only share")
+412094a8fb07 ("smb3: add new mount option to retrieve mode from special ACE")
+6552d6a0264d ("cifs: Fix check for matching with existing mount")
+d070f9dd625a ("CIFS: check CIFS_MOUNT_NO_DFS when trying to reuse existing sb")
+56c762eb9bee ("cifs: Refactor out cifs_mount()")
+8393072bab06 ("CIFS: make 'nodfs' mount opt a superblock flag")

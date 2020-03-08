@@ -1,0 +1,5 @@
+0ff0e95e9909 ("devtmpfs: factor out setup part of devtmpfsd()")
+c9d6b287d786 ("devtmpfs: fix theoretical stale pointer deref in devtmpfsd()")
+5e787dbf659f ("devtmpfs: use do_mount() instead of ksys_mount()")
+d401727ea0d7 ("devtmpfs: don't mix {ramfs,shmem}_fill_super() with mount_single()")
+33488845f211 ("constify ksys_mount() string arguments")

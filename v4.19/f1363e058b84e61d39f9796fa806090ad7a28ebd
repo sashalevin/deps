@@ -1,0 +1,8 @@
+f1363e058b84 ("netfilter: nf_flow_table: detach routing information from flow description")
+62248df88a40 ("netfilter: nf_flowtable: remove flow_offload_entry structure")
+9f48e9bf253a ("netfilter: nf_flow_table: remove union from flow_offload structure")
+b32d2f341623 ("netfilter: nf_flow_table: move conntrack object to struct flow_offload")
+dfe42be15fde ("netfilter: nft_flow_offload: skip tcp rst and fin packets")
+1e5b2471bcc4 ("netfilter: nf_flow_table: teardown flow timeout race")
+3e68db2f6422 ("netfilter: nf_flow_table: conntrack picks up expired flows")
+c1e9e01d4233 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

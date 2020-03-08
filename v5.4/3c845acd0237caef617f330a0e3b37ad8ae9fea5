@@ -1,0 +1,7 @@
+3c845acd0237 ("jbd2: make jbd2_handle_buffer_credits() handle reserved handles")
+fdc3ef882a5d ("jbd2: Reserve space for revoke descriptor blocks")
+ec8b6f600e49 ("jbd2: Factor out common parts of stopping and restarting a handle")
+5559b2d81b51 ("jbd2: Drop pointless wakeup from jbd2_journal_stop()")
+dfaf5ffda227 ("jbd2: Reorganize jbd2_journal_stop()")
+a9a8344ee171 ("ext4, jbd2: Provide accessor function for handle credits")
+a413036791d0 ("ext4: Provide function to handle transaction restarts")

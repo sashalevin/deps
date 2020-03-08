@@ -1,0 +1,7 @@
+fb0e76abe34b ("mac80211: add tx dequeue function for process context")
+ded4698b58cb ("mac80211: run late dequeue late tx handlers without holding fq->lock")
+1866760096bf ("mac80211: Add TXQ scheduling API")
+fca1279f090b ("mac80211: document RCU requirements for ieee80211_tx_dequeue()")
+9739fe29a207 ("mac80211: add an option for drivers to check if packets can be aggregated")
+adf8ed01e4fd ("mac80211: add an optional TXQ for other PS-buffered frames")
+36302685f593 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

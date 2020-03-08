@@ -1,0 +1,7 @@
+1da6f5733853 ("nfp: bpf: move nfp_bpf_analyzer_ops from verifier.c to offload.c")
+fb1981654129 ("nfp: bpf: account for additional stack usage when checking stack limit")
+389f263b60c9 ("nfp: bpf: add main logics for BPF-to-BPF calls support in nfp driver")
+bcfdfb7c962d ("nfp: bpf: ignore helper-related checks for BPF calls in nfp verifier")
+c5da54d93eb4 ("nfp: bpf: copy eBPF subprograms information from kernel verifier")
+1a7e62e6329c ("nfp: bpf: rename nfp_prog->stack_depth as nfp_prog->stack_frame_depth")
+c941ce9c282c ("bpf: add verifier callback to get stack usage info for offloaded progs")

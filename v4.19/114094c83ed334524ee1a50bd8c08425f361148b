@@ -1,0 +1,6 @@
+114094c83ed3 ("staging: vboxvideo: Fix NULL ptr deref in vbox_set_up_input_mapping()")
+01648890f336 ("staging: vboxvideo: Embed drm_device into driver structure")
+d46709094deb ("staging: vboxvideo: Fold driver_load/unload into probe/remove functions")
+79815ee23890 ("staging: vboxvideo: Move setup of modesetting from driver_load to mode_init")
+ce8ec32cbd42 ("staging: vboxvideo: Remove vboxfb_create_object() wrapper")
+a5aca2057469 ("staging: vboxvideo: Fix modeset / page_flip error handling")

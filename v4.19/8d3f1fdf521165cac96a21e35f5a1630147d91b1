@@ -1,0 +1,8 @@
+8d3f1fdf5211 ("ALSA: firewire-lib: unify tracing events to 'amdtp_packet' event")
+bde2bbdb307a ("ALSA: firewire-lib: use dynamic array for CIP header of tracing events")
+a8520f3e9314 ("ALSA: firewire-lib: use the same unit for payload argument in tracing events")
+64d0bf4d4977 ("ALSA: firewire-lib: add data_blocks/data_block_counter parameter to in_packet/out_packet tracing events")
+4a10cecc4182 ("ALSA: firewire-lib: use the same type of argument for CIP header for tracing event")
+5ef108c53e6e ("ALSA: firewire-lib: use the same print format for 'without_header' tracepoints")
+aa9a9e39b4f6 ("ALSA: firewire-lib: fix wrong assignment for 'out_packet_without_header' tracepoint")
+ada79fa5a0b3 ("ALSA: firewire-lib: fix wrong handling payload_length as payload_quadlet")

@@ -1,0 +1,6 @@
+3ff752c00288 ("r8169: remove rtl_get_events")
+e782410ed237 ("r8169: improve spurious interrupt detection")
+559c3c046d4b ("r8169: replace event_slow with irq_mask")
+97ad92f28342 ("r8169: remove unused interrupt sources")
+fe716f8a33ab ("r8169: merge rtl_irq_enable and rtl_irq_enable_all")
+38caff5a445b ("r8169: handle all interrupt events in the hard irq handler")

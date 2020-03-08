@@ -1,0 +1,6 @@
+34059c257010 ("KVM: x86: Fold decache_cr3() into cache_reg()")
+cb3c1e2f3e8d ("KVM: x86: Add helpers to test/mark reg availability and dirtiness")
+f8845541e93c ("KVM: x86: Fold 'enum kvm_ex_reg' definitions into 'enum kvm_reg'")
+489cbcf01d1c ("KVM: x86: Add WARNs to detect out-of-bounds register indices")
+491c1ad1ac8d ("KVM: VMX: Optimize vmx_set_rflags() for unrestricted guest")
+e7bddc52582d ("KVM: VMX: Consolidate to_vmx() usage in RFLAGS accessors")

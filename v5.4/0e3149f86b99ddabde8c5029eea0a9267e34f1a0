@@ -1,0 +1,6 @@
+0e3149f86b99 ("perf dso: Move dso_id from 'struct map' to 'struct dso'")
+1f74b100c9d9 ("perf dsos: Remove unused dsos__find() method")
+7b59a82493b4 ("perf map: Move comparision of map's dso_id to a separate function")
+4a7380a52ec9 ("perf map: Pass a dso_id to map__new()")
+99459a84d587 ("perf map: Move maj/min/ino/ino_generation to separate struct")
+7b018e298752 ("perf map: Remove ->groups from 'struct map'")

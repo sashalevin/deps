@@ -1,0 +1,8 @@
+2ab2bda53c98 ("nouveau: factor out dmem fence completion")
+a788ade4f6e0 ("drm/nouveau/dmem: use dma addresses during migration copies")
+fd5e98564361 ("drm/nouveau/dmem: use physical vram addresses during migration copies")
+6c762d1b18d7 ("drm/nouveau/dmem: extend copy function to allow direct use of physical addresses")
+5be73b690875 ("drm/nouveau/dmem: device memory helpers for SVM")
+eeaf06ac1a55 ("drm/nouveau/svm: initial support for shared virtual memory")
+d7f9bb656ea4 ("drm/nouveau: allocate kernel channel(s) before initialising display")
+5949dd8ee2a4 ("drm/nouveau: remove left-over struct member")

@@ -1,0 +1,7 @@
+147f1a1fe5d7 ("KVM: x86: fix incorrect comparison in trace event")
+335e192a3fa4 ("KVM: x86: add tracepoints around __direct_map and FNAME(fetch)")
+3fcf2d1bdeb6 ("KVM: x86: make FNAME(fetch) and __direct_map more similar")
+43fdcda96e25 ("kvm: x86: Do not release the page inside mmu_set_spte()")
+40ef75a758b2 ("KVM/MMU: Add tlb flush with range helper function")
+e7912386ede8 ("KVM: x86: reintroduce pte_list_remove, but including mmu_spte_clear_track_bits")
+44dd3ffa7bb3 ("x86/kvm/mmu: make vcpu->mmu a pointer to the current MMU")

@@ -1,0 +1,6 @@
+58ec1ea637ca ("net: bridge: fdb: restore unlikely() when taking over externally added entries")
+b5cd9f7c4248 ("net: bridge: fdb: convert added_by_external_learn to use bitops")
+ac3ca6af443a ("net: bridge: fdb: convert added_by_user to bitops")
+e0458d9a733b ("net: bridge: fdb: convert is_sticky to bitops")
+29e63fffd666 ("net: bridge: fdb: convert is_static to bitops")
+6869c3b02b59 ("net: bridge: fdb: convert is_local to bitops")

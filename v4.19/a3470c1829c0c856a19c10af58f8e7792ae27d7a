@@ -1,0 +1,6 @@
+a3470c1829c0 ("spi: document CS setup, hold & inactive times in header")
+f3186dd87669 ("spi: Optionally use GPIO descriptors for CS GPIOs")
+25972d0c33de ("spi: Make GPIO CSs honour the SPI_NO_CS flag")
+5039563e7c25 ("spi: Add driver_override SPI device attribute")
+71388b215697 ("spi: always use software fallback for SPI_CS_WORD when using cs_gio")
+cbaa62e0094a ("spi: add software implementation for SPI_CS_WORD")

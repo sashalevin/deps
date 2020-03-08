@@ -1,0 +1,8 @@
+86f7e90ce840 ("KVM: VMX: check descriptor table exits on instruction emulation")
+35a571346a94 ("KVM: nVMX: Check IO instruction VM-exit conditions")
+e71237d3ff1a ("KVM: nVMX: Refactor IO bitmap checks into helper function")
+07721feee46b ("KVM: nVMX: Don't emulate instructions in guest mode")
+03a8871add95 ("KVM: nVMX: Expose load IA32_PERF_GLOBAL_CTRL VM-{Entry,Exit} control")
+b35e5548b411 ("KVM: x86/vPMU: Add lazy mechanism to release perf_event per vPMC")
+a6da0d77e98e ("KVM: x86/vPMU: Reuse perf_event to avoid unnecessary pmc_reprogram_counter")
+4be946728f65 ("KVM: x86/vPMU: Declare kvm_pmu->reprogram_pmi field using DECLARE_BITMAP")

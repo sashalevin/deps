@@ -1,0 +1,8 @@
+bd1d7093a808 ("efi/libstub/x86: Fix unused-variable warning")
+2732ea0d5c0a ("efi/libstub: Use a helper to iterate over a EFI handle array")
+8de8788d2182 ("efi/gop: Unify 32/64-bit functions")
+44c84b4ada73 ("efi/gop: Convert GOP structures to typedef and clean up some types")
+8d62af177812 ("efi/gop: Remove bogus packed attribute from GOP structures")
+ff397be685e4 ("efi/gop: Fix memory leak in __gop_query32/64()")
+dbd89c303b44 ("efi/gop: Return EFI_SUCCESS if a usable GOP was found")
+6fc3cec30dfe ("efi/gop: Return EFI_NOT_FOUND if there are no usable GOPs")

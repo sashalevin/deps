@@ -1,0 +1,4 @@
+9df86bdb6746 ("net/mlx5e: Fix handling of compressed CQEs in case of low NAPI budget")
+79d356ef2c10 ("net/mlx5e: Take CQ decompress fields into a separate structure")
+4fb2f516186e ("net/mlx5e: XDP, Precede XDP-related operations in RQ poll by a loaded program check")
+bfc698254ba9 ("net/mlx5e: RX, Fix wrong early return in receive queue poll")

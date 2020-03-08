@@ -1,0 +1,6 @@
+cbe1e6f03552 ("KVM: x86/mmu: Incorporate guest's page level into max level for shadow MMU")
+39ca1ecb784b ("KVM: x86/mmu: Refactor handling of forced 4k pages in page faults")
+f0f37e229c05 ("KVM: x86/mmu: Refactor the per-slot level calculation in mapping_level()")
+cb9b88c66939 ("KVM: x86/mmu: Refactor handling of cache consistency with TDP")
+367fd790b17d ("KVM: x86/mmu: Fold nonpaging_map() into nonpaging_page_fault()")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

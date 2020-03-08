@@ -1,0 +1,6 @@
+7bc4f3fae953 ("iommu/arm-smmu-v3: Prepare arm_smmu_s1_cfg for SSID support")
+9bb9069cfba5 ("iommu/arm-smmu-v3: Drop __GFP_ZERO flag from DMA allocation")
+8be39a1a04c1 ("iommu/arm-smmu-v3: Add a master->domain pointer")
+bcecaee43473 ("iommu/arm-smmu-v3: Store SteamIDs in master")
+b54f4260c7df ("iommu/arm-smmu-v3: Rename arm_smmu_master_data to arm_smmu_master")
+9b468f7d9cf1 ("iommu/arm-smmu: Use helper functions to access dev->iommu_fwspec")

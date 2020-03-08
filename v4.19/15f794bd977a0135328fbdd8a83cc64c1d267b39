@@ -1,0 +1,7 @@
+15f794bd977a ("spi: Fix NULL pointer when setting SPI_CS_HIGH for GPIO CS")
+3e5ec1db8bfe ("spi: Fix SPI_CS_HIGH setting when using native and GPIO CS")
+f3186dd87669 ("spi: Optionally use GPIO descriptors for CS GPIOs")
+25972d0c33de ("spi: Make GPIO CSs honour the SPI_NO_CS flag")
+5039563e7c25 ("spi: Add driver_override SPI device attribute")
+71388b215697 ("spi: always use software fallback for SPI_CS_WORD when using cs_gio")
+cbaa62e0094a ("spi: add software implementation for SPI_CS_WORD")

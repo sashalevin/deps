@@ -1,0 +1,5 @@
+7252a3603015 ("scsi: ufs: Avoid busy-waiting by eliminating tag conflicts")
+d8d9f7931ac2 ("scsi: ufs: Introduce vops for resetting device")
+5e0a86eed846 ("scsi: ufs: Add API to execute raw upiu commands")
+c6049cd98212 ("scsi: ufs: add a low-level __ufshcd_issue_tm_cmd helper")
+391e388f853d ("scsi: ufs: cleanup struct utp_task_req_desc")

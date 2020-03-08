@@ -1,0 +1,5 @@
+2c66de560fa2 ("libceph: rename ceph_encode_addr to ceph_encode_banner_addr")
+d3c3c0a841d5 ("libceph: use TYPE_LEGACY for entity addrs instead of TYPE_NONE")
+6c37f0e64173 ("libceph: add ceph_decode_entity_addr")
+bc07532cc51f ("libceph: fix sa_family just after reading address")
+cede185b1ba3 ("libceph: fix unaligned accesses in ceph_entity_addr handling")

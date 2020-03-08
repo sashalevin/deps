@@ -1,0 +1,5 @@
+a44f71a9ab99 ("bug: move WARN_ON() "cut here" into exception handler")
+d4bce140b4e7 ("bug: clean up helper macros to remove __WARN_TAINT()")
+89348fc31441 ("bug: rename __WARN_printf_taint() to __WARN_printf()")
+ee8711336c51 ("bug: refactor away warn_slowpath_fmt_taint()")
+6b15f678fb7d ("include/asm-generic/bug.h: fix "cut here" for WARN_ON for __WARN_TAINT architectures")

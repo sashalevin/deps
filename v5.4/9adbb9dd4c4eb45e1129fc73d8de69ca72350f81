@@ -1,0 +1,7 @@
+9adbb9dd4c4e ("sched/vtime: Introduce vtime_accounting_enabled_cpu()")
+e44fcb4b7a29 ("sched/vtime: Rename vtime_accounting_cpu_enabled() to vtime_accounting_enabled_this_cpu()")
+84e0dacd0c34 ("context_tracking: Rename context_tracking_is_cpu_enabled() to context_tracking_enabled_this_cpu()")
+74c578759f15 ("context_tracking: Rename context_tracking_is_enabled() => context_tracking_enabled()")
+0ca167c056ea ("context_tracking: Remove context_tracking_active()")
+8d495477d62e ("sched/cputime: Spare a seqcount lock/unlock cycle on context switch")
+f83eeb1a0168 ("sched/cputime: Rename vtime_account_system() to vtime_account_kernel()")

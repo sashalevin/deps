@@ -1,0 +1,4 @@
+eb337cdfcd5d ("arm64: ssbs: Don't treat CPUs with SSBS as unaffected by SSB")
+8f04e8e6e29c ("arm64: ssbd: Add support for PSTATE.SSBS rather than trapping to EL3")
+d71be2b6c0e1 ("arm64: cpufeature: Detect SSBS and advertise to userspace")
+86d0dd34eaff ("arm64: cpufeature: add feature for CRC32 instructions")

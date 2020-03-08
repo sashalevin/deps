@@ -1,0 +1,8 @@
+a82f15e39a4b ("perf map: Remove unused functions")
+a7c2b572e217 ("perf map_groups: Auto sort maps by name, if needed")
+1ae14516cba0 ("perf map_groups: Add a front end cache for map lookups by name")
+c5c584d2dbb0 ("perf maps: Do not use an rbtree to sort by map name")
+bcb8af5c46e4 ("perf maps: Purge the entries from maps->names in __maps__purge()")
+7b018e298752 ("perf map: Remove ->groups from 'struct map'")
+8efc4f05685d ("perf maps: Add for_each_entry()/_safe() iterators")
+20419d3a5bc0 ("perf map: Allow map__next() to receive a NULL arg")

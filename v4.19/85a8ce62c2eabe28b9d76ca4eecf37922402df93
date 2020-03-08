@@ -1,0 +1,3 @@
+85a8ce62c2ea ("block: add bio_truncate to fix guard_bio_eod")
+dce30ca9e3b6 ("fs: fix guard_bio_eod to check for real EOD errors")
+f70f44640759 ("fs/buffer.c: use bvec iterator to truncate the bio")

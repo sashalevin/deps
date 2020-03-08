@@ -1,0 +1,4 @@
+ad910e36da4c ("pipe: fix poll/select race introduced by the pipe rework")
+8c7b8c34ae95 ("pipe: Remove assertion from pipe_poll()")
+6718b6f855a0 ("pipe: Allow pipes to have kernel-reserved slots")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")

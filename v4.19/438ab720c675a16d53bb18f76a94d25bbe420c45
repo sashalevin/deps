@@ -1,0 +1,2 @@
+438ab720c675 ("vfs: pass ppos=NULL to .read()/.write() of FMODE_STREAM files")
+10dce8af3422 ("fs: stream_open - opener for stream-like files so that read and write can run simultaneously without deadlock")

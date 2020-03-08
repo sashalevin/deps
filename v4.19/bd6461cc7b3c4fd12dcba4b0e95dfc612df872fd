@@ -1,0 +1,7 @@
+bd6461cc7b3c ("powerpc/eeh: Add a eeh_dev_break debugfs interface")
+22cda7c1680c ("powerpc/eeh: Add debugfs interface to run an EEH check")
+954bd99435b8 ("powerpc/eeh: Add eeh_force_recover to debugfs")
+6b493f6079a4 ("powerpc/eeh: Allow disabling recovery")
+5ca85ae6318d ("powerpc/eeh_cache: Add a way to dump the EEH address cache")
+46ee7c3c5212 ("powerpc/eeh: Use debugfs_create_u32 for eeh_max_freezes")
+8c6c942d33f2 ("powerpc/eeh: Fix debugfs_simple_attr.cocci warnings")

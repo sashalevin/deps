@@ -1,0 +1,6 @@
+6e943c15005c ("mmc: jz4740: Drop dependency on arch header")
+0539552745af ("mmc: jz4740: Remove platform data and use standard APIs")
+feb357458baa ("mmc: jz4740: Use PTR_ERR_OR_ZERO in jz4740_mmc_request_gpios()")
+96e03fffa306 ("mmc: jz4740: rework pre_req/post_req implementation")
+0f6f3235b816 ("mmc: jz4740: Use GPIO descriptor for power")
+0c901c0566fb ("mmc: jz4740: Get CD/WP GPIOs from descriptors")

@@ -1,0 +1,7 @@
+7c288a5b2793 ("iommu/arm-smmu-v3: Operate directly on low-level queue where possible")
+52be86374f48 ("iommu/arm-smmu-v3: Move low-level queue fields out of arm_smmu_queue")
+8a073da07bac ("iommu/arm-smmu-v3: Drop unused 'q' argument from Q_OVF macro")
+2a8868f16e6b ("iommu/arm-smmu-v3: Separate s/w and h/w views of prod and cons indexes")
+d25f6ead162e ("iommu/arm-smmu-v3: Increase maximum size of queues")
+a868e8530441 ("iommu/arm-smmu-v3: Use explicit mb() when moving cons pointer")
+9662b99a19ab ("iommu/arm-smmu-v3: Add support for non-strict mode")

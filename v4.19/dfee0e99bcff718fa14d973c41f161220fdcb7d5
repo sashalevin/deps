@@ -1,0 +1,3 @@
+dfee0e99bcff ("netfilter: bridge: make NF_TABLES_BRIDGE tristate")
+78e21eb69920 ("netfilter: nft_meta: skip EAGAIN if nft_meta_bridge is not a module")
+0ef1efd1354d ("netfilter: nf_tables: force module load in case select_ops() returns -EAGAIN")

@@ -1,0 +1,7 @@
+dcbf91035709 ("cifs: change SMB2_OP_SET_INFO to use compounding")
+f7bfe04bf0db ("cifs: change SMB2_OP_SET_EOF to use compounding")
+c2e0fe3f5aae ("cifs: make rmdir() use compounding")
+ba8ca116854a ("cifs: create helpers for SMB2_set_info_init/free()")
+47dd9597df41 ("cifs: change unlink to use a compound")
+f733e3936da4 ("cifs: change mkdir to use a compound")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

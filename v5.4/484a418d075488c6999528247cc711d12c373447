@@ -1,0 +1,7 @@
+484a418d0754 ("efi: Fix handling of multiple efi_fake_mem= entries")
+f0ef6523475f ("efi: Fix efi_memmap_alloc() leaks")
+1db91035d01a ("efi: Add tracking for dynamically allocated memmaps")
+26c0e44a213b ("efi: Add a flags parameter to efi_memory_map")
+af1648984828 ("x86/efi: Update e820 with reserved EFI boot services data to fix kexec breakage")
+199c84717612 ("x86/efi: Add efi_fake_mem support for EFI_MEMORY_SP")
+6950e31b35fd ("x86/efi: Push EFI_MEMMAP check into leaf routines")

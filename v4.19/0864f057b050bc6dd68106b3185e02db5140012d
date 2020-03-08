@@ -1,0 +1,4 @@
+0864f057b050 ("rcu: Use irq_work to get scheduler's attention in clean context")
+05f415715ce4 ("rcu: Speed up expedited GPs when interrupting RCU reader")
+fcc878e4dfb7 ("rcu: Remove now-unused ->b.exp_need_qs field from the rcu_special union")
+3e3100989869 ("rcu: Defer reporting RCU-preempt quiescent states when disabled")

@@ -1,0 +1,3 @@
+047e6575aec7 ("powerpc/mm: Fixup tlbie vs mtpidr/mtlpidr ordering issue on POWER9")
+09ce98cacd51 ("powerpc/book3s64/radix: Rename CPU_FTR_P9_TLBIE_BUG feature flag")
+677733e296b5 ("powerpc/book3s64/mm: Don't do tlbie fixup for some hardware revisions")

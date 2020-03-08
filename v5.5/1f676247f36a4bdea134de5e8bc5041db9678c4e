@@ -1,0 +1,6 @@
+1f676247f36a ("x86/alternatives: Implement a better poke_int3_handler() completion scheme")
+285a54efe386 ("x86/alternatives: Sync bp_patching update for avoiding NULL pointer exception")
+4531ef6a8aaf ("x86/alternative: Shrink text_poke_loc")
+97e6c977ccf1 ("x86/alternative: Remove text_poke_loc::len")
+768ae4406a5c ("x86/ftrace: Use text_poke()")
+18cbc8bed0c7 ("x86/alternatives, jump_label: Provide better text_poke() batching interface")

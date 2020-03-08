@@ -1,0 +1,6 @@
+72c2ce9867d9 ("x86/bugs: Move enum taa_mitigations to bugs.c")
+1b42f017415b ("x86/speculation/taa: Add mitigation for TSX Async Abort")
+c2955f270a84 ("x86/msr: Add the IA32_TSX_CTRL MSR")
+f36cf386e3fe ("x86/speculation/swapgs: Exclude ATOMs from speculation through SWAPGS")
+a2059825986a ("x86/speculation: Enable Spectre v1 swapgs mitigations")
+fa4bff165070 ("Merge branch 'x86-mds-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

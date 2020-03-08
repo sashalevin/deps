@@ -1,0 +1,8 @@
+af2a0c51b120 ("scsi: qla2xxx: Fix SRB leak on switch command timeout")
+ef801f07e7b3 ("scsi: qla2xxx: Return switch command on a timeout")
+bcc71cc3cde1 ("scsi: qla2xxx: Fix for double free of SRB structure")
+0aca77843e28 ("scsi: qla2xxx: Reduce holding sess_lock to prevent CPU lock-up")
+9ba1cb25c151 ("scsi: qla2xxx: Remove all rports if fabric scan retry fails")
+e112761a4f1d ("scsi: qla2xxx: Turn off IOCB timeout timer on IOCB completion")
+cd4ed6b470f1 ("scsi: qla2xxx: Move rport registration out of internal work_list")
+cb873ba40020 ("scsi: qla2xxx: Update rscn_rcvd field to more meaningful scan_needed")

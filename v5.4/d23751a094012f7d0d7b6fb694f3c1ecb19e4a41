@@ -1,0 +1,5 @@
+d23751a09401 ("net: sfp: ensure TX_FAULT has deasserted before probing the PHY")
+63ec1c7c3f3b ("net: sfp: allow fault processing to transition to other states")
+eefa6f1fa74f ("net: sfp: eliminate mdelay() from PHY probe")
+181f29da1582 ("net: sfp: split the PHY probe from sfp_sm_mod_init()")
+e85d81a1840a ("net: sfp: move sfp sub-state machines into separate functions")

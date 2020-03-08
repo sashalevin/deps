@@ -1,0 +1,5 @@
+5715c4dd66a3 ("vfio/mdev: Synchronize device create/remove with parent removal")
+522ecce08ab2 ("vfio/mdev: Improve the create/remove sequence")
+6093e348a5e2 ("vfio/mdev: Fix aborting mdev child device removal if one fails")
+d3000463504b ("vfio/mdev: Avoid masking error code to EBUSY")
+278bca7f318e ("vfio-mdev: Switch to use new generic UUID API")

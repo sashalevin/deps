@@ -1,0 +1,6 @@
+cd26ea6d50a2 ("perf trace: Fix setting of augmented payload when using eBPF + raw_syscalls")
+3c5e3dabf372 ("perf trace: When augmenting raw_syscalls plug raw_syscalls:sys_exit too")
+b1a9e2535e20 ("perf trace: Use the raw_syscalls:sys_enter for the augmented syscalls")
+db2da3f85cd6 ("perf trace: Setup augmented_args in the raw_syscalls:sys_enter handler")
+8a041f86a83f ("perf trace: Introduce syscall__augmented_args() method")
+7a983a0fe2a2 ("perf trace: Pass augmented args to the arg formatters when available")

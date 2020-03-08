@@ -1,0 +1,6 @@
+0b9f230b94dd ("ext4: move inode extension check out from ext4_iomap_alloc()")
+569342dc2485 ("ext4: move inode extension/truncate code out from ->iomap_end() callback")
+f063db5ee989 ("ext4: split IOMAP_WRITE branch in ext4_iomap_begin() into helper")
+c8fdfe294187 ("ext4: move set iomap routines into a separate helper ext4_set_iomap()")
+2e9b51d78229 ("ext4: iomap that extends beyond EOF should be marked dirty")
+53e5cca56795 ("ext4: reorder map.m_flags checks within ext4_iomap_begin()")

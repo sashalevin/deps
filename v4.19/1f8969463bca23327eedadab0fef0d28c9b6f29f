@@ -1,0 +1,7 @@
+1f8969463bca ("drm/amdgpu: move more interrupt processing into amdgpu_irq.c")
+425c31437f26 ("drm/amdgpu: cleanup amdgpu_ih.c")
+240cd9a64226 ("drm/amdgpu: Move fault hash table to amdgpu vm")
+f921661bd4a1 ("drm/amdgpu: use bulk moves for efficient VM LRU handling (v6)")
+9a2779528edd ("drm/ttm: revise ttm_bo_move_to_lru_tail to support bulk moves")
+262b9c392e7d ("drm/amdgpu: validate the VM root PD from the VM code")
+aa47d117282c ("drm/amdgpu: move ih definitions into amdgpu_ih header")

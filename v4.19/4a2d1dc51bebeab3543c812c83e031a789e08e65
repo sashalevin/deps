@@ -1,0 +1,8 @@
+4a2d1dc51beb ("media: smiapp: Query the V4L2 endpoint for a specific bus type")
+6970d37cc97d ("media: v4l: fwnode: Let the caller provide V4L2 fwnode endpoint")
+2d95e7ed07ed ("media: v4l: mediabus: Recognise CSI-2 D-PHY and C-PHY")
+c8677aafb829 ("media: v4l: fwnode: Add debug prints for V4L2 endpoint property parsing")
+c5040f1b71d9 ("media: imx: mipi csi-2: Register a subdev notifier")
+aa4bb8b8838f ("media: ov5640: Re-work MIPI startup sequence")
+f764e6d68039 ("media: Convert to using %pOFn instead of device_node.name")
+c0decac19da3 ("media: use strscpy() instead of strlcpy()")

@@ -1,0 +1,7 @@
+132c6ba3c440 ("perf stat: Move 'interval_clear' to 'struct perf_stat_config'")
+fa7070a38676 ("perf stat: Move csv_* to 'struct perf_stat_config'")
+6ca9a082b190 ("perf stat: Pass a 'struct perf_stat_config' argument to global print functions")
+f3ca50e61ff4 ("perf stat: Pass 'struct perf_stat_config' argument to local print functions")
+7d9ad16afe2b ("perf stat: Add 'identifier' flag to 'struct perf_stat_config'")
+5698f26b46e4 ("perf stat: Move 'no_inherit' to 'struct perf_stat_config'")
+728c0ee0a896 ("perf stat: Move 'initial_delay' to 'struct perf_stat_config'")

@@ -1,0 +1,7 @@
+14e86c01413e ("drm/vkms: Fix possible memory leak in _vkms_get_crc()")
+db7f419c06d7 ("drm/vkms: Compute CRC with Cursor Plane")
+bc0d332daef3 ("drm/vkms: Release pages_lock before return")
+6c234fe37c57 ("drm/vkms: Implement CRC debugfs API")
+3e77c4d02237 ("drm/vkms: Subclass plane state")
+dfb9f5cabfe3 ("drm/vkms: subclass CRTC state")
+bb112b14af8d ("drm/vkms: Add functions to map/unmap GEM backing storage")

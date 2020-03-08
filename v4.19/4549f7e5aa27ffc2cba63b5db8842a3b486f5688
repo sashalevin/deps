@@ -1,0 +1,4 @@
+4549f7e5aa27 ("crypto: geode-aes - convert to skcipher API and make thread-safe")
+504582e8e40b ("crypto: geode-aes - switch to skcipher for cbc(aes) fallback")
+1ad0f1603a6b ("crypto: drop mask=CRYPTO_ALG_ASYNC from 'cipher' tfm allocations")
+b802a5d6f345 ("lib80211: don't use skcipher")

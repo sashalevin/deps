@@ -1,0 +1,5 @@
+26973fa5ac0e ("powerpc/mm: use pte helpers in generic code")
+c766ee72235d ("powerpc: handover page flags with a pgprot_t parameter")
+56f3c1413f5c ("powerpc/mm: properly set PAGE_KERNEL flags in ioremap()")
+86c391bd5f47 ("powerpc/32: Add ioremap_wt() and ioremap_coherent()")
+da7ad366b497 ("powerpc/mm/book3s: Update pmd_present to look at _PAGE_PRESENT bit")

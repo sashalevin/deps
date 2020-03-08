@@ -1,0 +1,8 @@
+e533f7458968 ("iwlwifi: mvm: remove check for lq_sta in __iwl_mvm_rs_tx_status()")
+f5d88fa334e6 ("iwlwifi: mvm: replace RS mutex with a spin_lock")
+cd4d6b0bcd51 ("iwlwifi: mvm: send LQ command always ASYNC")
+23babdf06779 ("iwlwifi: mvm: add a wrapper around rs_tx_status to handle locks")
+0f8084cdc1f9 ("iwlwifi: mvm: avoid races in rate init and rate perform")
+3d71c3f1f50c ("iwlwifi: mvm: check return value of rs_rate_from_ucode_rate()")
+2859de7637b5 ("iwlwifi: mvm: always init rs_fw with 20MHz bandwidth rates")
+3baf7528d6f8 ("iwlwifi: mvm: Send LQ command as async when necessary")

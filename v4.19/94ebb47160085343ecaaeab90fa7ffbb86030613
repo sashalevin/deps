@@ -1,0 +1,7 @@
+94ebb4716008 ("scsi: target/core: Add target_send_busy()")
+2c9fa49e100f ("scsi: target/core: Make ABORT and LUN RESET handling synchronous")
+aaa00cc93c1d ("scsi: target/core: Fix TAS handling for aborted commands")
+fbbd49235590 ("scsi: target/core: Simplify the code for aborting SCSI commands")
+a014c3647a15 ("scsi: target/core: Make it possible to wait from more than one context for command completion")
+ad669505c4e9 ("scsi: target/core: Make sure that target_wait_for_sess_cmds() waits long enough")
+38fe73cc2c96 ("scsi: target: Fix target_wait_for_sess_cmds breakage with active signals")

@@ -1,0 +1,6 @@
+f99fb607fb2b ("RISC-V: Use Linux logical CPU number instead of hartid")
+6825c7a80f18 ("RISC-V: Add logical CPU indexing for RISC-V")
+a37d56fc4011 ("RISC-V: Use WRITE_ONCE instead of direct access")
+177fae451588 ("RISC-V: Rename im_okay_therefore_i_am to found_boot_cpu")
+b2f8cfa7ac34 ("RISC-V: Rename riscv_of_processor_hart to riscv_of_processor_hartid")
+19ccf29bb18f ("RISC-V: Filter ISA and MMU values in cpuinfo")

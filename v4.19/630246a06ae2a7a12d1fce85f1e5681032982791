@@ -1,0 +1,7 @@
+630246a06ae2 ("sched/fair: Clean-up update_sg_lb_stats parameters")
+6aa140fa4508 ("sched/topology: Reference the Energy Model of CPUs when available")
+757ffdd705ee ("sched/fair: Set rq->rd->overload when misfit")
+e90c8fe15a3b ("sched/fair: Wrap rq->rd->overload accesses with READ/WRITE_ONCE()")
+575638d1047e ("sched/core: Change root_domain->overload type to int")
+dbbad719449e ("sched/fair: Change 'prefer_sibling' type to bool")
+3b1baa6496e6 ("sched/fair: Add 'group_misfit_task' load-balance type")

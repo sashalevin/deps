@@ -1,0 +1,7 @@
+0471a44871cf ("drm/i915/gt: Bump the PP_DIR invalidation for Baytrail")
+13bb5b99eca0 ("drm/i915/gt: Set the PD again for Haswell")
+f997056d5b17 ("drm/i915/gt: Push the flush_pd before the set-context")
+3cd6e8860ecd ("drm/i915/gen7: Re-enable full-ppgtt for ivb & hsw")
+c8185520aed6 ("drm/i915/gtt: Make sure the gen6 ppgtt is bound before first use")
+c1d143dd2ac8 ("drm/i915: Remove ppgtt->dirty_engines")
+3dc007fe9b2b ("drm/i915/gtt: Downgrade gen7 (ivb, byt, hsw) back to aliasing-ppgtt")

@@ -1,0 +1,8 @@
+d790c342e689 ("spi: rockchip: remove master pointer from dev data")
+fab3e4871f62 ("spi: rockchip: use atomic_t state")
+2410d6a3c307 ("spi: rockchip: always use SPI mode")
+31bcb57be12f ("spi: rockchip: use designated init for dma config")
+30688e4e670d ("spi: rockchip: make spi_enable_chip take bool")
+a3c174021ce7 ("spi: rockchip: simplify spi enable logic")
+d9071b7e9fc4 ("spi: rockchip: directly use direction constants")
+dcfc861d24ec ("spi: rockchip: adjust dma watermark and burstlen")

@@ -1,0 +1,5 @@
+7ef9ab3b32b4 ("modpost: respect the previous export when 'exported twice' is warned")
+e4b26c9f75e4 ("modpost: do not set ->preloaded for symbols from Module.symvers")
+1743694eb235 ("modpost: stop symbol preloading for modversion CRC")
+9bd2a099d722 ("modpost: rename handle_modversions() to handle_symbol()")
+afa0459daa7b ("modpost: add a helper to get data pointed by a symbol")

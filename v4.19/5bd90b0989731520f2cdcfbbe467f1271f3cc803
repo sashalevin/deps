@@ -1,0 +1,4 @@
+5bd90b098973 ("KVM: vgic-v4: Track the number of VLPIs per vcpu")
+e08d8d296079 ("KVM: arm/arm64: vgic: Make vgic_cpu->ap_list_lock a raw_spinlock")
+8fa3adb8c6be ("KVM: arm/arm64: vgic: Make vgic_irq->irq_lock a raw_spinlock")
+9009782a4937 ("KVM: arm/arm64: vgic: Consider priority and active state for pending irq")

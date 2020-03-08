@@ -1,0 +1,8 @@
+50c6b20eff8e ("net/smc: fix final cleanup sequence for SMCD devices")
+81cf4f4707af ("net/smc: remove close abort worker")
+2a0674fffb6b ("net/smc: improve abnormal termination of link groups")
+831797609663 ("net/smc: tell peers about abnormal link group termination")
+69318b5215f2 ("net/smc: improve abnormal termination locking")
+8caa654451bd ("net/smc: terminate link group without holding lgr lock")
+b290098092e4 ("net/smc: cancel send and receive for terminated socket")
+2f184393e0c2 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

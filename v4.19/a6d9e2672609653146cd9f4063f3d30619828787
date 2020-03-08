@@ -1,0 +1,5 @@
+a6d9e2672609 ("riscv: cleanup <asm/bug.h>")
+6f25a967646a ("signal/riscv: Remove tsk parameter from do_trap")
+8fef9900d43f ("riscv: fix locking violation in page fault handler")
+ee72e0e70cf7 ("riscv: Add the support for c.ebreak check in is_valid_bugaddr()")
+d18ebc274ca7 ("riscv: support trap-based WARN()")

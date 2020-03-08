@@ -1,0 +1,5 @@
+75c84151a9dc ("SUNRPC: Rename xprt->recv_lock to xprt->queue_lock")
+cf9946cd6144 ("SUNRPC: Refactor the transport request pinning")
+d1109aa56c71 ("SUNRPC: Rename TCP receive-specific state variables")
+7ebbbc6e7bd0 ("SUNRPC: Simplify identification of when the message send/receive is complete")
+3021a5bbbf0a ("SUNRPC: The transmitted message must lie in the RPCSEC window of validity")

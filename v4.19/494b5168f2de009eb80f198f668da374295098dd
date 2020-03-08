@@ -1,0 +1,6 @@
+494b5168f2de ("x86/paravirt: Work around GCC inlining bugs when compiling paravirt ops")
+f81f8ad56fd1 ("x86/bug: Macrofy the BUG table section handling, to work around GCC inlining bugs")
+77f48ec28e4c ("x86/alternatives: Macrofy lock prefixes to work around GCC inlining bugs")
+9e1725b41059 ("x86/refcount: Work around GCC inlining bug")
+c06c4d809051 ("x86/objtool: Use asm macros to work around GCC inlining bugs")
+77b0bf55bc67 ("kbuild/Makefile: Prepare for using macros in inline assembly code to work around asm() related GCC inlining bugs")

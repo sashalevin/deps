@@ -1,0 +1,6 @@
+3df5c37e55c8 ("KVM: nVMX: try to set EFER bits correctly when initializing controls")
+1abf23fb42f5 ("KVM: nVMX: use vm_exit_controls_init() to write exit controls for vmcs02")
+efebf0aaec3d ("KVM: nVMX: Do not flush TLB on L1<->L2 transitions if L1 uses VPID and EPT")
+327c072187f7 ("KVM: nVMX: Flush linear and combined mappings on VPID02 related flushes")
+3d5bdae8b164 ("KVM: nVMX: Use correct VPID02 when emulating L1 INVVPID")
+1438921c6dc1 ("KVM: nVMX: Flush TLB entries tagged by dest EPTP on L1<->L2 transitions")

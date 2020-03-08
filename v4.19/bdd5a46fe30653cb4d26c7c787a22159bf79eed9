@@ -1,0 +1,6 @@
+bdd5a46fe306 ("fanotify: add BUILD_BUG_ON() to count the bits of fanotify constants")
+23c9deeb3285 ("fanotify: deprecate uapi FAN_ALL_* constants")
+a72fd224e37b ("fanotify: simplify handling of FAN_ONDIR")
+b723a7911d02 ("fanotify: fix collision of internal and uapi mark flags")
+96a71f21ef1f ("fanotify: store fanotify_init() flags in group's fanotify_data")
+d54f4fba889b ("fanotify: add API to attach/detach super block mark")

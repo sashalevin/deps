@@ -1,0 +1,5 @@
+f9fa2509e5ca ("KVM: x86/mmu: Drop level optimization from fast_page_fault()")
+9f1a8526fbe3 ("KVM: x86/mmu: Move nonpaging_page_fault() below try_async_pf()")
+367fd790b17d ("KVM: x86/mmu: Fold nonpaging_map() into nonpaging_page_fault()")
+ba7888dde6af ("KVM: x86/mmu: Move definition of make_mmu_pages_available() up")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

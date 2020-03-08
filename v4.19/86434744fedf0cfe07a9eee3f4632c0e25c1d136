@@ -1,0 +1,6 @@
+86434744fedf ("net/smc: add fallback check to connect()")
+301428ea3708 ("net/smc: fix refcounting for non-blocking connect()")
+f9cedf1a9b1c ("net/smc: do not schedule tx_work in SMC_CLOSED state")
+50717a37db03 ("net/smc: nonblocking connect rework")
+78abe3d0dfad ("net/smc: fix TCP fallback socket release")
+f07920ad9c6f ("net/smc: abort CLC connection in smc_release")

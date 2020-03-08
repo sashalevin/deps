@@ -1,0 +1,8 @@
+3637897b6c9b ("x86/paravirt: Clean up native_patch()")
+6da63eb241a0 ("x86/paravirt: Move the pv_irq_ops under the PARAVIRT_XXL umbrella")
+9bad5658ea71 ("x86/paravirt: Move the Xen-only pv_cpu_ops under the PARAVIRT_XXL umbrella")
+5def7a4cd5be ("x86/paravirt: Remove unused paravirt bits")
+5c83511bdb98 ("x86/paravirt: Use a single ops structure")
+27876f3882fd ("x86/paravirt: Remove clobbers from struct paravirt_patch_site")
+abc745f85c11 ("x86/paravirt: Remove clobbers parameter from paravirt patch functions")
+7e4372028929 ("x86/paravirt: Make paravirt_patch_call() and paravirt_patch_jmp() static")

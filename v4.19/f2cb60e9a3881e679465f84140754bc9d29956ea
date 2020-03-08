@@ -1,0 +1,8 @@
+f2cb60e9a388 ("dma-fence: Store the timestamp in the same union as the cb_list")
+0fc89b6802ba ("dma-fence: Simply wrap dma_fence_signal_locked with dma_fence_signal")
+f86a802bf3a7 ("dma-fence: Avoid list_del during fence->cb_list iteration")
+0e2f733addbf ("dma-buf: make dma_fence structure a bit smaller v2")
+427231bc6d58 ("dma-fence: Signal all callbacks from dma_fence_release()")
+0152b3b3f49b ("drm/i915: Seal races between async GPU cancellation, retirement and signaling")
+39f94a89a90b ("drm/i915: Assert breadcrumbs are correctly ordered in the signal handler")
+7ce99d24ed72 ("drm/i915: Expose the busyspin durations for i915_wait_request")

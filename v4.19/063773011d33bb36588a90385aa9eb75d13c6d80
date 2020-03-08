@@ -1,0 +1,8 @@
+063773011d33 ("regulator: core: Avoid potential deadlock on regulator_unregister")
+ff9b34b615a3 ("regulator: core: Keep regulators-list locked while traversing the list")
+f8702f9e4aa7 ("regulator: core: Use ww_mutex for regulators locking")
+9243a195be7a ("regulator: core: Change voltage setting path")
+c054c6c792e1 ("regulator: core: Add voltage balancing mechanism")
+ca55b7185b74 ("regulator: stpmic1: add stpmic1 regulator driver")
+7e4d9683d6a7 ("regulator: core: Add locking to debugfs regulator_summary")
+01de19d09ce6 ("regulator: core: Add the opmode to regulator_summary")

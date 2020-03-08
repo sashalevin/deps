@@ -1,0 +1,4 @@
+a4e6f40c77af ("iio: imu: adis: use new `delay` structure for SPI transfer delays")
+329f0dac4cad ("spi: make `cs_change_delay` the first user of the `spi_delay` logic")
+b2c98153f45f ("spi: introduce spi_delay struct as "value + unit" & spi_delay_exec()")
+6b3f236a9985 ("spi: move `cs_change_delay` backwards compat logic outside switch")

@@ -1,0 +1,4 @@
+273b177cac4b ("PCI: Move pci_[get|set]_resource_alignment_param() into their callers")
+70aaf61a9b8b ("PCI: Clean up resource_alignment parameter to not require static buffer")
+d5bc73f34cc9 ("PCI: Fix issue with "pci=disable_acs_redir" parameter being ignored")
+d61dfafc30b4 ("PCI: pci.c: convert to use BUS_ATTR_RW")

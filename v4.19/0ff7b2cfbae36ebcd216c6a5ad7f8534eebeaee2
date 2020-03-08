@@ -1,0 +1,3 @@
+0ff7b2cfbae3 ("tasks, sched/core: Ensure tasks are available for a grace period after leaving the runqueue")
+3fbd7ee285b2 ("tasks: Add a count of task RCU users")
+ec1d281923cf ("sched/core: Convert task_struct.usage to refcount_t")

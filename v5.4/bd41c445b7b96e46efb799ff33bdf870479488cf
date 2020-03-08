@@ -1,0 +1,6 @@
+bd41c445b7b9 ("iio: imu: st_lsm6dsx: do not power-off accel if events are enabled")
+d278d4479402 ("iio: imu: st_lsm6dsx: grab conf mutex in st_lsm6dsx_write_event_config")
+1aabad1fb5e9 ("iio: imu: st_lsm6dsx: add motion report function and call from interrupt")
+a3aa17d4badf ("iio: imu: st_lsm6dsx: always enter interrupt thread")
+b5969abfa8b8 ("iio: imu: st_lsm6dsx: add motion events")
+6ee6a368ac0a ("iio: imu: st_lsm6dsx: move interrupt thread to core")

@@ -1,0 +1,8 @@
+3aa4c491c55d ("r8169: remove rtl_write_exgmac_batch")
+4e7e4621157e ("r8169: add rtl_reset_packet_filter")
+e719b3eaeff0 ("r8169: add helpers rtl_eri_set/clear_bits")
+724c6fd0158c ("r8169: make ERIAR_EXGMAC the default in eri functions")
+deedf1feb255 ("r8169: Avoid pointer aliasing")
+04c7788c2bb3 ("r8169: Load MAC address from device tree if present")
+df6f1856db02 ("r8169: add general EEE support for chip versions from RTL8168g")
+c46863ab8356 ("r8169: factor out disabling ALDPS")

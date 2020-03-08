@@ -1,0 +1,4 @@
+605728e65ad3 ("IB/umem: Set correct address to the invalidation function")
+41b4deeaa123 ("RDMA/umem: Make ib_umem_odp into a sub structure of ib_umem")
+b5231b019d76 ("RDMA/umem: Use ib_umem_odp in all function signatures connected to ODP")
+d4b4dd1b9706 ("RDMA/umem: Do not use current->tgid to track the mm_struct")

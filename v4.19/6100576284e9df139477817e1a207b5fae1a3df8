@@ -1,0 +1,4 @@
+6100576284e9 ("iommu/arm-smmu: Get rid of weird "atomic" write")
+71e8a8cdaff9 ("iommu/arm-smmu: Split arm_smmu_tlb_inv_range_nosync()")
+353b325047fd ("iommu/arm-smmu: Mask TLBI address correctly")
+7d321bd35425 ("iommu/arm-smmu: Ensure that page-table updates are visible before TLBI")

@@ -1,0 +1,6 @@
+04ca37d5ade9 ("iio: imu: st_lsm6dsx: rely on st_lsm6dsx_update_bits_locked configuring events")
+84b2e7c319b8 ("iio: imu: st_lsm6dsx: always check enable_reg in st_lsm6dsx_event_setup")
+7e9061030dd6 ("iio: imu: st_lsm6dsx: move irq related definitions in irq_config")
+b5969abfa8b8 ("iio: imu: st_lsm6dsx: add motion events")
+22ea56511073 ("iio: imu: st_lsm6dsx: enable clear on read for latched interrupts")
+9db02d32b8ee ("iio: imu: st_lsm6dsx: enable LIR for sensor events")

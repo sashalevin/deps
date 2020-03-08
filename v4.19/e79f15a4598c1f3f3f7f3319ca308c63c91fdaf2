@@ -1,0 +1,5 @@
+e79f15a4598c ("x86/resctrl: Add task resctrl information display")
+68bc30bb9f33 ("proc: Add /proc/<pid>/arch_status")
+c8d126275a5f ("fs/proc: Show STACKLEAK metrics in the /proc file system")
+10e9ae9fabaf ("gcc-plugins: Add STACKLEAK plugin for tracking the kernel stack")
+afaef01c0015 ("x86/entry: Add STACKLEAK erasing the kernel stack at the end of syscalls")

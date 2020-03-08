@@ -1,0 +1,4 @@
+1e0cf16cdad1 ("KVM: arm/arm64: Initialise host's MPIDRs by reading the actual register")
+630a16854d2d ("arm64: KVM: Encapsulate kvm_cpu_context in kvm_host_data")
+32f139551954 ("arm/arm64: KVM: Statically configure the host's view of MPIDR")
+7c36447ae5a0 ("KVM: arm64: Set SCTLR_EL2.DSSBS if SSBD is forcefully disabled and !vhe")

@@ -1,0 +1,7 @@
+8f9f717d6c44 ("drm/i915: Enhance cdclk sanitization")
+736da8112fee ("drm/i915: Use literal representation of cdclk tables")
+71dc367e2bc3 ("drm/i915: Consolidate bxt/cnl/icl cdclk readout")
+71cd86cfaa12 ("drm/i915/tgl: Use refclk/2 as bypass frequency")
+3d1da92baffe ("drm/i915: Add 324mhz and 326.4mhz cdclks for gen11+")
+385ba629aa1c ("drm/i915: Allow /2 CD2X divider on gen11+")
+d06a79d33e0f ("drm/i915: Use enum pipe instead of crtc index to track active pipes")

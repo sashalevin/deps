@@ -1,0 +1,6 @@
+b9fa6d6ee9b8 ("KVM: s390: fix possible null pointer dereference in pending_irqs()")
+982cff425959 ("KVM: s390: introduce struct kvm_s390_gisa_interrupt")
+bb2fb8cdcf2d ("KVM: s390: remove kvm_s390_ from gisa static inline functions")
+672128bfee08 ("KVM: s390: coding style kvm_s390_gisa_init/clear()")
+246b72183b35 ("KVM: s390: move bitmap idle_mask into arch struct top level")
+689bdf9e9c33 ("KVM: s390: make bitmap declaration consistent")

@@ -1,0 +1,5 @@
+aff4e9ede52b ("rcu: Remove rsp parameter from rcu_report_qs_rsp()")
+2bbfc25b09df ("rcu: Drop "wake" parameter from rcu_report_exp_rdp()")
+ba1c64c27239 ("rcu: Report expedited grace periods at context-switch time")
+fcc878e4dfb7 ("rcu: Remove now-unused ->b.exp_need_qs field from the rcu_special union")
+3e3100989869 ("rcu: Defer reporting RCU-preempt quiescent states when disabled")

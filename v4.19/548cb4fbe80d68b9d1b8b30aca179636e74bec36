@@ -1,0 +1,5 @@
+548cb4fbe80d ("RDMA/core: Refactor ib_register_device() function")
+67fecaf8e9cc ("RDMA/core: Fix unwinding flow in case of error to register device")
+43c7c851b9bc ("RDMA/core: Use dev_err/dbg/etc instead of pr_* + ibdev->name")
+e349f858d29f ("RDMA: Fully setup the device name in ib_register_device")
+adee9f3f3bbb ("RDMA/core: Depend on device_add() to add device attributes")

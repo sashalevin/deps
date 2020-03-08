@@ -1,0 +1,7 @@
+a7303f773571 ("drm/tegra: Do not use ->load() and ->unload() callbacks")
+0301196b5719 ("drm/tegra: Use DRM_DEBUG_DRIVER for driver messages")
+051172e8c1ce ("drm/tegra: Fix ordering of cleanup code")
+02be8e4fbb1f ("drm/tegra: Restrict IOVA space to DMA mask")
+b9f8b09ce256 ("drm/tegra: Setup shared IOMMU domain after initialization")
+9c942096baeb ("drm/tegra: Replace drm_dev_unref with drm_dev_put")
+6e4228fbaf0f ("drm/tegra: kick out simplefb")

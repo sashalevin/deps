@@ -1,0 +1,4 @@
+7441e7661d65 ("rcu: Switch force_qs_rnp() to for_each_leaf_node_cpu_mask()")
+516e5ae0c940 ("rcu: Reset CPU hints when reporting a quiescent state")
+b200a0489517 ("rcu: Force nohz_full tick on upon irq enter instead of exit")
+66e4c33b51bc ("rcu: Force tick on for nohz_full CPUs not reaching quiescent states")

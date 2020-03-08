@@ -1,0 +1,8 @@
+29b27657dbae ("drm/i915/mst: Document the userspace fail with possible_crtcs")
+34053ee18974 ("drm/i915: Simplify pipe_mask setup even further")
+4d19505ed28e ("drm/i915: Allow ICL+ DSI on any pipe")
+981329ce3c3e ("drm/i915: s/crtc_mask/pipe_mask/")
+2b0b27418a72 ("drm/i915: Simplify LVDS crtc_mask setup")
+0fbae9d2db85 ("drm/i915: Clean up encoder->crtc_mask setup")
+ed500bf61279 ("drm/i915: Populate possible_crtcs correctly")
+aaef851083ed ("drm/i915/mst: Do not hardcoded the crtcs that encoder can connect")

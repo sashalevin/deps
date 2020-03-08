@@ -1,0 +1,8 @@
+fb4155fa4c0c ("drm/vkms: Rename vkms_output.state_lock to crc_lock")
+a0e4e5754cce ("drm/vkms: Use spin_lock_irq in process context")
+18d0952a838b ("drm/vkms: Fix crc worker races")
+0ca33adb91c0 ("drm/vkms: Fix race condition around accessing frame number")
+6c234fe37c57 ("drm/vkms: Implement CRC debugfs API")
+3e77c4d02237 ("drm/vkms: Subclass plane state")
+dfb9f5cabfe3 ("drm/vkms: subclass CRTC state")
+bb112b14af8d ("drm/vkms: Add functions to map/unmap GEM backing storage")

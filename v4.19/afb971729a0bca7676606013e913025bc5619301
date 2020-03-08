@@ -1,0 +1,4 @@
+afb971729a0b ("mm/huge_memory.c: reduce critical section protected by split_queue_lock")
+06d3eff62d9d ("mm/thp: fix node page state in split_huge_page_to_list()")
+364c1eebe453 ("mm: thp: extract split_queue_* into a struct")
+006d3ff27e88 ("mm/huge_memory: fix lockdep complaint on 32-bit i_size_read()")

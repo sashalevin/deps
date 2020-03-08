@@ -1,0 +1,3 @@
+306563985819 ("For drivers that do not support context exclusion let's advertise the PERF_PMU_CAP_NO_EXCLUDE capability. This ensures that perf will prevent us from handling events where any exclusion flags are set. Let's also remove the now unnecessary check for exclusion flags.")
+69c32972d593 ("drivers/perf: Add Cavium ThunderX2 SoC UNCORE PMU driver")
+cbb72a3c19ef ("drivers/perf: xgene: Add CPU hotplug support")

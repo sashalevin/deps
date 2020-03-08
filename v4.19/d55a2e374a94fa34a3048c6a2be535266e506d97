@@ -1,0 +1,5 @@
+d55a2e374a94 ("net-ipv6: fix excessive RTF_ADDRCONF flag on ::1/128 local route (and others)")
+c7a1ce397ada ("ipv6: Change addrconf_f6i_alloc to use ip6_route_info_create")
+d7e774f35676 ("net: Add extack argument to ip_fib_metrics_init")
+cc5f0eb2164f ("net: Move free of fib_metrics to helper")
+767a2217533f ("net: common metrics init helper for FIB entries")

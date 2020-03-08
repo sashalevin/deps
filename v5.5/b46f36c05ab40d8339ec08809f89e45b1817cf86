@@ -1,0 +1,8 @@
+b46f36c05ab4 ("crypto: atmel-{aes,sha,tdes} - Retire crypto_platform_data")
+827a98df67f1 ("crypto: atmel-{aes,sha,tdes} - Stop passing unused argument in _dma_init()")
+e7836518c6bc ("crypto: atmel-{aes,sha,tdes} - Rename labels in probe()")
+c9063a0281d9 ("crypto: atmel-{aes,sha,tdes} - Drop superfluous error message in probe()")
+0efe58f3e9c8 ("crypto: atmel-{sha,tdes} - Propagate error from _hw_version_init()")
+45a536e3a7e0 ("crypto: atmel-tdes - Retire dma_request_slave_channel_compat()")
+db28512f48e2 ("crypto: atmel-sha - Retire dma_request_slave_channel_compat()")
+62f72cbdcf02 ("crypto: atmel-aes - Retire dma_request_slave_channel_compat()")

@@ -1,0 +1,3 @@
+4d0c1c57329a ("hwspinlock: sprd: Remove redundant PM runtime implementation")
+b674a30bf8b0 ("hwspinlock: sprd: Use devm_hwspin_lock_register() to register hwlock controller")
+b4d64193d41e ("hwspinlock: sprd: Use devm_add_action_or_reset() for calls to clk_disable_unprepare()")

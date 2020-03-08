@@ -1,0 +1,7 @@
+5029537f4fbb ("drm/i915: cache number of MOCS entries")
+1878fce8de25 ("drm/i915: keep track of used entries in MOCS table")
+828f31502045 ("drm/i915: use a macro to define MOCS entries")
+66f996052f95 ("drm/i915/skl: Rework MOCS tables to keep common part in a define")
+d7a43c3ba607 ("drm/i915: Simplify MOCS table definition")
+7f92e6c2aecf ("drm/i915: initialize unused MOCS entries to PTE")
+805615dae057 ("drm/i915: Remove useless error return from intel_init_mocs_engine()")

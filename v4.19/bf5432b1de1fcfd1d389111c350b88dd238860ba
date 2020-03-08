@@ -1,0 +1,8 @@
+bf5432b1de1f ("vsock/virtio: remove loopback handling")
+4c7246dc45e2 ("vsock/virtio: add transport parameter to the virtio_transport_reset_no_sock()")
+e226121fcc26 ("vsock/virtio: fix flush of works during the .remove()")
+b917507e5ad9 ("vsock/virtio: stop workers during the .remove()")
+0deab087b16a ("vsock/virtio: use RCU to avoid use-after-free on the_virtio_vsock")
+4c404ce23358 ("vsock/virtio: fix kernel panic from virtio_transport_reset_no_sock")
+85965487abc5 ("vsock/virtio: reset connected sockets on device removal")
+22b5c0b63f32 ("vsock/virtio: fix kernel panic after device hot-unplug")

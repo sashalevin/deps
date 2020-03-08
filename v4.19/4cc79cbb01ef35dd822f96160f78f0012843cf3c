@@ -1,0 +1,6 @@
+4cc79cbb01ef ("drm/i915/execlists: Drop promotion on unsubmit")
+68fc728b01fc ("drm/i915: Downgrade NEWCLIENT to non-preemptive")
+5a6ac10b17ff ("drm/i915/execlists: Don't apply priority boost for resets")
+2ccdf6a1c3f7 ("drm/i915: Pass intel_context to i915_request_create()")
+6eee33e87f6d ("drm/i915: Introduce context->enter() and context->exit()")
+7ce99d24ed72 ("drm/i915: Expose the busyspin durations for i915_wait_request")

@@ -1,0 +1,7 @@
+d38153f9ccc9 ("powerpc/64s/radix: ioremap use ioremap_page_range")
+a72808a7ec5d ("powerpc/64: __ioremap_at clean up in the error case")
+5b323367ef25 ("arch/powerpc/mm: Nest MMU workaround for mprotect RW upgrade")
+579b9239c1f3 ("powerpc/radix: Fix kernel crash with mremap()")
+c766ee72235d ("powerpc: handover page flags with a pgprot_t parameter")
+56f3c1413f5c ("powerpc/mm: properly set PAGE_KERNEL flags in ioremap()")
+86c391bd5f47 ("powerpc/32: Add ioremap_wt() and ioremap_coherent()")

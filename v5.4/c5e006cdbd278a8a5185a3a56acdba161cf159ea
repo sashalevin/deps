@@ -1,0 +1,6 @@
+c5e006cdbd27 ("perf trace: Support tracepoint dynamic char arrays")
+f11b2803bb88 ("perf trace: Allow choosing how to augment the tracepoint arguments")
+9597945d7fb4 ("perf trace: Add array of chars scnprintf beautifier")
+888ca854e275 ("perf trace: Add the syscall_arg_fmt pointer to syscall_arg")
+8d1d4ff5e239 ("perf trace: Factor out the initialization of syscal_arg_fmt->scnprintf")
+9b2036cd3299 ("perf trace: Separate 'struct syscall_fmt' definition from syscall_fmts variable")

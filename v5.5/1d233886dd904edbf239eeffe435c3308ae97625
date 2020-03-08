@@ -1,0 +1,8 @@
+1d233886dd90 ("xdp: Use bulking for non-map XDP_REDIRECT and consolidate code paths")
+75ccae62cb8d ("xdp: Move devmap bulk queue into struct net_device")
+332f22a60e4c ("xdp: Remove map_to_flush and map swap detection")
+cdfafe98cabe ("xdp: Make cpumap flush_list common for all map instances")
+96360004b862 ("xdp: Make devmap flush_list common for all map instances")
+e312b9e706ed ("xsk: Make xskmap flush_list common for all map instances")
+4bc188c7f23a ("xdp: Simplify cpumap cleanup")
+0536b85239b8 ("xdp: Simplify devmap cleanup")

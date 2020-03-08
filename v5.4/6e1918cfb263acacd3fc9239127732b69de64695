@@ -1,0 +1,5 @@
+6e1918cfb263 ("fscrypt: don't allow v1 policies with casefolding")
+85af90e57ce9 ("fscrypt: check for appropriate use of DIRECT_KEY flag earlier")
+393a24a7956c ("fscrypt: split up fscrypt_supported_policy() by policy version")
+b103fb7653ff ("fscrypt: add support for IV_INO_LBLK_64 policies")
+4006d799d93b ("fscrypt: invoke crypto API for ESSIV handling")

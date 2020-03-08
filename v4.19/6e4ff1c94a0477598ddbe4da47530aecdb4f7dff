@@ -1,0 +1,5 @@
+6e4ff1c94a04 ("mdio_bus: Fix init if CONFIG_RESET_CONTROLLER=n")
+2c61e821da7a ("Revert "mdio_bus: fix mdio_register_device when RESET_CONTROLLER is disabled"")
+075e238d12c2 ("mdio_bus: fix mdio_register_device when RESET_CONTROLLER is disabled")
+1d4639567d97 ("mdio_bus: Fix PTR_ERR applied after initialization to constant")
+71dd6c0dff51 ("net: phy: add support for reset-controller")

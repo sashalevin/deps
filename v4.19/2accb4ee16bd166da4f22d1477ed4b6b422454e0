@@ -1,0 +1,8 @@
+2accb4ee16bd ("clk: meson: meson8b: use clk_hw_set_parent in the CPU clock notifier")
+cce433e6bc53 ("clk: meson: meson8b: use a separate clock table for Meson8")
+a7d19b05ce81 ("clk: meson: meson8b: add the CPU clock post divider clocks")
+7dc7eeb8c087 ("clk: meson: meson8b: run from the XTAL when changing the CPU frequency")
+6291b8c5ac67 ("clk: meson: meson8b: register the clock controller early")
+87173557d2f6 ("clk: meson: clk-pll: remove od parameters")
+2303a9ca693e ("clk: meson: clk-pll: drop CLK_GET_RATE_NOCACHE where unnecessary")
+e40c7e3cda07 ("clk: meson: clk-pll: add enable bit")

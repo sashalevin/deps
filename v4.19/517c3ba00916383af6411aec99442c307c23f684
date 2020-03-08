@@ -1,0 +1,6 @@
+517c3ba00916 ("x86/speculation/mds: Apply more accurate check on hypervisor platform")
+8a4b06d391b0 ("x86/speculation/mds: Add sysfs reporting for MDS")
+a8f76ae41cd6 ("x86/speculation: Move STIPB/IBPB string conditionals out of cpu_show_common()")
+b86bda042685 ("x86/speculation: Remove unnecessary ret variable in cpu_show_common()")
+bb4b3b776273 ("x86/speculation: Propagate information about RSB filling mitigation to sysfs")
+53c613fe6349 ("x86/speculation: Enable cross-hyperthread spectre v2 STIBP mitigation")

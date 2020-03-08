@@ -1,0 +1,7 @@
+4e9b4a6883dd ("s390/bpf: Use relative long branches")
+fcf35131396a ("s390/bpf: Make sure JIT passes do not increase code size")
+6ad2e1a00729 ("s390/bpf: Wrap JIT macro parameter usages in parentheses")
+91b4db5313a2 ("s390/bpf: use 32-bit index for tail calls")
+475c8e9e89db ("s390: Convert IS_ENABLED uses to __is_defined")
+ecc15f113c8e ("s390: bpf: fix JMP32 code-gen")
+626a5f66da0d ("s390: bpf: implement jitting of JMP32")

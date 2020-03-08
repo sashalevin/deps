@@ -1,0 +1,3 @@
+c51636a30654 ("padata: remove cpu_index from the parallel_queue")
+6fc4dbcf0276 ("padata: Replace delayed timer with immediate workqueue in padata_reorder")
+cf144f81a99d ("padata: use smp_mb in padata_reorder to avoid orphaned padata jobs")

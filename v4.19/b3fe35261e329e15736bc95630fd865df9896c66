@@ -1,0 +1,7 @@
+b3fe35261e32 ("powerpc/64s/exception: machine check improve labels and comments")
+272f636445cf ("powerpc/64s/exception: machine check pseries should skip the late handler for kernel MCEs")
+0b66370c61fc ("powerpc/64s/exception: machine check use correct cfar for late handler")
+fe9d482b1d87 ("powerpc/64s/exception: machine check adjust RFI target")
+19dbe673e62b ("powerpc/64s/exception: machine check fix KVM guest test")
+db7d31ac0413 ("powernv/pseries: consolidate code for mce early handling.")
+a43c1590426c ("powerpc/pseries: Flush SLB contents on SLB MCE errors.")

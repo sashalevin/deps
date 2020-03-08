@@ -1,0 +1,8 @@
+4ce70b4aed57 ("net: sched: sch_htb: don't call qdisc_put() while holding tree lock")
+e5f0e8f8e456 ("net: sched: introduce and use qdisc tree flush/purge helpers")
+5dd431b6b92c ("net: sched: introduce and use qstats read helpers")
+7b8e0b6e6599 ("net: sched: prio: delay destroying child qdiscs on change")
+0c8d13ac9607 ("net: sched: red: delay destroying child qdisc on replace")
+5a781ccbd19e ("tc: Add support for configuring the taprio scheduler")
+86bd446b5ceb ("net: sched: rename qdisc_destroy() to qdisc_put()")
+11957be20ff6 ("htb: use anonymous union for simplicity")

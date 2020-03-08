@@ -1,0 +1,8 @@
+8c0d2c29083d ("drm/i915/psr: Check if source supports sink specific SU granularity")
+bef5e5b3bee4 ("drm/i915/psr: Check if resolution is supported by default SU granularity")
+183b8e676db2 ("drm/i915: Disable PSR when a PSR aux error happen")
+50a12d8fc9a0 ("drm/i915: Do not enable PSR in the next modeset after a error")
+c0871805ce1c ("drm/i915: Make EDP PSR flags not depend on enum values")
+1aeb1b5fa069 ("drm/i915/psr: Mask PSR irq bits when re-enabling interrupts.")
+2ac45bdd92e0 ("drm/i915/psr: Add debugfs support to force a downgrade to PSR1 mode.")
+c44301fce614 ("drm/i915: Allow control of PSR at runtime through debugfs, v6")

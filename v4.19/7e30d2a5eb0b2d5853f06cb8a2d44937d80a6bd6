@@ -1,0 +1,4 @@
+7e30d2a5eb0b ("make shmem_fill_super() static")
+df02450217c9 ("make ramfs_fill_super() static")
+d401727ea0d7 ("devtmpfs: don't mix {ramfs,shmem}_fill_super() with mount_single()")
+fd3e007f6c6a ("don't bother with registering rootfs")

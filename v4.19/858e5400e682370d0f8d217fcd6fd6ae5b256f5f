@@ -1,0 +1,7 @@
+858e5400e682 ("xfrm: ressurrect "Fix uninitialized memory read in _decode_session4"")
+c53ac41e3720 ("xfrm: remove decode_session indirection from afinfo_policy")
+2e8b4aa816ea ("xfrm: remove init_path indirection from afinfo_policy")
+f24ea52873c7 ("xfrm: remove tos indirection from afinfo_policy")
+24969facd704 ("xfrm: policy: store inexact policies in an rhashtable")
+cc1bb845adc9 ("xfrm: policy: return NULL when inexact search needed")
+a927d6af53ee ("xfrm: policy: split list insertion into a helper")

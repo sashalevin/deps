@@ -1,0 +1,6 @@
+07879c6a3740 ("sched/wake_q: Reduce reference counting for special users")
+87ff19cb2f1a ("sched/wake_q: Add branch prediction hint to wake_q_add() cmpxchg")
+e158488be27b ("locking/rwsem: Fix (possible) missed wakeup")
+b061c38bef43 ("futex: Fix (possible) missed wakeup")
+4c4e3731564c ("sched/wake_q: Fix wakeup ordering for wake_q")
+e6018c0f5c99 ("sched/wake_q: Document wake_q_add()")

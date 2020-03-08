@@ -1,0 +1,3 @@
+53290432145a ("arm64: compat: Don't pull syscall number from regs in arm_compat_syscall")
+169113ece0f2 ("arm64: compat: Avoid sending SIGILL for unallocated syscall numbers")
+6fa998e83ef9 ("signal/arm64: Push siginfo generation into arm64_notify_die")

@@ -1,0 +1,4 @@
+f4550b52e495 ("x86/fsgsbase/64: Factor out FS/GS segment loading from __switch_to()")
+e696c231bebf ("x86/fsgsbase/64: Make ptrace use the new FS/GS base helpers")
+b1378a561fd1 ("x86/fsgsbase/64: Introduce FS/GS base helper functions")
+07e1d88adaae ("x86/fsgsbase/64: Fix ptrace() to read the FS/GS base accurately")

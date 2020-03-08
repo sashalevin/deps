@@ -1,0 +1,4 @@
+9a6d5488002f ("ide: ensure atapi sense request aren't preempted")
+22ce0a7ccf23 ("ide: don't use req->special")
+535ac5d3fe63 ("ide: cleanup ->prep_rq calling convention")
+600335205b8d ("ide: convert to blk-mq")

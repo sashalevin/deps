@@ -1,0 +1,6 @@
+e1c8af1e02c7 ("xfs: devirtualize ->node_hdr_to_disk")
+f475dc4dc7cc ("xfs: devirtualize ->node_hdr_from_disk")
+8764f98351fa ("xfs: factor xfs_da3_blkinfo verification into common helper")
+39708c20ab51 ("xfs: miscellaneous verifier magic value fixups")
+09f420197d7c ("xfs: use verifier magic field in dir2 leaf verifiers")
+e34d3e74eb8f ("xfs: always check magic values in on-disk byte order")

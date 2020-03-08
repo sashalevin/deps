@@ -1,0 +1,6 @@
+2dbcb6fb96f5 ("media: media/i2c: don't return ENOTTY if SUBDEV_API is not set")
+384538bda109 ("media: ov2659: fix unbalanced mutex_lock/unlock")
+49410d3abf44 ("media: mt9m111: make SUBDEV_G_FMT ioctl work with SUBDEV_FORMAT_TRY")
+8d3b307a150a ("media: ov2640: make VIDIOC_SUBDEV_G_FMT ioctl work with V4L2_SUBDEV_FORMAT_TRY")
+b0a7d0e1c09b ("media: ov2640: set default window and format code at probe time")
+7784b1d27898 ("media: mt9m111: add s_stream callback")

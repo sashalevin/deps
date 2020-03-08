@@ -1,0 +1,8 @@
+fd8bdb23b918 ("hwmon: (k10temp) Display up to eight sets of CCD temperatures")
+b00647c46c9d ("hwmon: (k10temp) Show core and SoC current and voltages on Ryzen CPUs")
+c757938929c9 ("hwmon: (k10temp) Report temperatures per CPU die")
+d547552a1bf1 ("hmon: (k10temp) Convert to use devm_hwmon_device_register_with_info")
+a6d210da1a01 ("hwmon: (k10temp) Use bitops")
+6e7c1094436d ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 56")
+d93217d84c6c ("hwmon: (k10temp) Add Hygon Dhyana support")
+fac5ba6f5bf7 ("hwmon: (k10temp) Auto-convert to use SENSOR_DEVICE_ATTR_{RO, RW, WO}")

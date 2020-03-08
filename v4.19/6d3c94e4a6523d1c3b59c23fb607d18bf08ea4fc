@@ -1,0 +1,6 @@
+6d3c94e4a652 ("kbuild: turn '/' into an alias of './'")
+648ad9b19f43 ("kbuild: set KBUILD_MODULES=1 all the time for single target %/")
+059bc9fc375e ("kbuild: make 'archprepare' depend on 'scripts'")
+65bba0423ecf ("kbuild: fix UML build error with CONFIG_GCC_PLUGINS")
+e07db28eea38 ("kbuild: fix single target build for external module")
+77b0bf55bc67 ("kbuild/Makefile: Prepare for using macros in inline assembly code to work around asm() related GCC inlining bugs")

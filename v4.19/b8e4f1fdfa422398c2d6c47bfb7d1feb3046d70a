@@ -1,0 +1,4 @@
+b8e4f1fdfa42 ("ALSA: usb-audio: Remove superfluous bLength checks")
+daac07156b33 ("ALSA: usb-audio: Fix an OOB bug in parse_audio_mixer_unit")
+0bfe5e434e66 ("ALSA: usb-audio: Check mixer unit descriptors more strictly")
+f4351a199cc1 ("ALSA: usb-audio: Avoid access before bLength check in build_audio_procunit()")

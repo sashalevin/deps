@@ -1,0 +1,7 @@
+6966d604e2ec ("s390/mem_detect: move tprot loop to early boot phase")
+17aacfbfa1ae ("s390/sclp: move sclp_early_read_info to sclp_early_core.c")
+15426ca43d88 ("s390: rescue initrd as early as possible")
+3b076dca14c5 ("s390/sclp: simplify early hsa_size detection")
+369f91c37451 ("s390/decompressor: rework uncompressed image info collection")
+8f75582a2fb6 ("s390: remove decompressor's head.S")
+4e62d4588500 ("s390: clean up stacks setup")

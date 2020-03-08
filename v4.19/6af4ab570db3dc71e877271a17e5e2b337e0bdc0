@@ -1,0 +1,8 @@
+6af4ab570db3 ("xtensa: move MPU constants from .data to .ref.rodata")
+a5944195d00a ("xtensa: implement initialize_cacheattr for MPU cores")
+f7c34874f04a ("xtensa: add exclusive atomics support")
+d065fcf12c21 ("xtensa: clean up inline assembly in futex.h")
+8f8d5745bb52 ("xtensa: replace variant/core.h with asm/core.h")
+037602705109 ("xtensa: don't use l32r opcode directly")
+cad6fade6e78 ("xtensa: clean up WSR*/RSR*/get_sr/set_sr")
+2958b66694e0 ("xtensa: enable coprocessors that are being flushed")

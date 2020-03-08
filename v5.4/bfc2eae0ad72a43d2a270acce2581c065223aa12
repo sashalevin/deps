@@ -1,0 +1,5 @@
+bfc2eae0ad72 ("powerpc/vdso32: miscellaneous optimisations")
+ec0895f08f99 ("powerpc/vdso32: inline __get_datapage()")
+552263456215 ("powerpc: Fix vDSO clock_getres()")
+176ed98c8a76 ("y2038: vdso: powerpc: avoid timespec references")
+ddccf40fe82b ("y2038: vdso: change timeval to __kernel_old_timeval")

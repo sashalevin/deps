@@ -1,0 +1,5 @@
+260718b3a35d ("leds: lm3692x: Disable chip on brightness 0")
+4a8d2bee2080 ("leds: lm3692x: Split out lm3692x_leds_disable")
+5e9d7b6f4336 ("leds: lm3692x: Move lm3692x_init and rename to lm3692x_leds_enable")
+df7083b57331 ("leds: lm3692x: Make sure we don't exceed the maximum LED current")
+cffd61a5c775 ("leds: lm3692x: Allow to configure over voltage protection")

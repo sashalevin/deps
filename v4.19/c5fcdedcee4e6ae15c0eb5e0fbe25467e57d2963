@@ -1,0 +1,4 @@
+c5fcdedcee4e ("bcache: add idle_max_writeback_rate sysfs interface")
+141df8bb5dc0 ("bcache: don't set max writeback rate if gc is running")
+f5c0b95d2eeb ("bcache: use sysfs_strtoul_bool() to set bit-field variables")
+7a671d8ef821 ("bcache: option to automatically run gc thread after writeback")

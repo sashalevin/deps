@@ -1,0 +1,5 @@
+6c63ef80014b ("parisc: Remove lock code to serialize TLB operations in pacache.S")
+4c5fe5db1ac6 ("parisc: Optimze cache flush algorithms")
+3847dab77421 ("parisc: Add alternative coding infrastructure")
+4dd5b673fa62 ("parisc: Purge TLB entries after updating page table entry and set page accessed flag in TLB handler")
+32a7901f6d1d ("parisc: Remove PTE load and fault check from L2_ptep macro")

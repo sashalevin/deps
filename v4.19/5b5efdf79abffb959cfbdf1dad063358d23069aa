@@ -1,0 +1,7 @@
+5b5efdf79abf ("drm/i915: Make debugfs/per_file_stats scale better")
+528cbd17ceff ("drm/i915: Move vma lookup to its own lock")
+09d7e46b97c6 ("drm/i915: Pull VM lists under the VM mutex.")
+499197dc1696 ("drm/i915: Stop tracking MRU activity on VMA")
+480cd6dd9287 ("drm/i915/selftests: Track evict objects explicitly")
+71fc448c1aaf ("drm/i915/selftests: Make evict tolerant of foreign objects")
+f6e8aa387171 ("drm/i915: Report the number of closed vma held by each context in debugfs")

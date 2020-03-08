@@ -1,0 +1,4 @@
+94e44b9ca52a ("perf annotate: Stop using map->groups, use map_symbol->mg instead")
+d46a4cdf4993 ("pref tools: Make 'struct addr_map_symbol' contain 'struct map_symbol'")
+2975489458c5 ("perf annotate: Pass a 'map_symbol' in places receiving a pair of 'map' and 'symbol' pointers")
+9d355b381b35 ("perf map_groups: Pass the object to map_groups__find_ams()")

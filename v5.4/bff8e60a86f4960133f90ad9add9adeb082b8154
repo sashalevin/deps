@@ -1,0 +1,5 @@
+bff8e60a86f4 ("intel_idle: Allow ACPI _CST to be used for selected known processors")
+18734958e9bf ("intel_idle: Use ACPI _CST for processor models without C-state tables")
+9f3d6daf61e5 ("intel_idle: Refactor intel_idle_cpuidle_driver_init()")
+ba1e78a1dc0c ("cpuidle: Drop disabled field from struct cpuidle_state")
+99e98d3fb100 ("cpuidle: Consolidate disabled state checks")

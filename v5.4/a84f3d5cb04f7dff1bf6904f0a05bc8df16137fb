@@ -1,0 +1,5 @@
+a84f3d5cb04f ("xfs: add a bests pointer to struct xfs_dir3_icfree_hdr")
+195b0a44ab73 ("xfs: make the xfs_dir3_icfree_hdr available to xfs_dir2_node_addname_int")
+200dada70008 ("xfs: devirtualize ->free_hdr_to_disk")
+5ba30919a6fc ("xfs: devirtualize ->free_hdr_from_disk")
+a39f089a25e7 ("xfs: move incore structures out of xfs_da_format.h")

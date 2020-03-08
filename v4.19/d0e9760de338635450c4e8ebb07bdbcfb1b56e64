@@ -1,0 +1,6 @@
+d0e9760de338 ("scsi: ufs: Fix kernel-doc warnings")
+5e0a86eed846 ("scsi: ufs: Add API to execute raw upiu commands")
+df032bf27a41 ("scsi: ufs: Add a bsg endpoint that supports UPIUs")
+a851b2bd3632 ("scsi: uapi: ufs: Make utp_upiu_req visible to user space")
+c6049cd98212 ("scsi: ufs: add a low-level __ufshcd_issue_tm_cmd helper")
+391e388f853d ("scsi: ufs: cleanup struct utp_task_req_desc")

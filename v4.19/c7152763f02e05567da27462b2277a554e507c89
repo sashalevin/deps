@@ -1,0 +1,5 @@
+c7152763f02e ("usb: dwc3: Reset num_trbs after skipping")
+7746a8dfb3f9 ("usb: dwc3: gadget: extract dwc3_gadget_ep_skip_trbs()")
+c3acd5901414 ("usb: dwc3: gadget: use num_trbs when skipping TRBs on ->dequeue()")
+1a22ec643580 ("usb: dwc3: gadget: combine unaligned and zero flags")
+ba3a51ac32eb ("usb: dwc3: gadget: Properly check last unaligned/zero chain TRB")

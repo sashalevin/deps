@@ -1,0 +1,7 @@
+824fa3b3b5e3 ("kconfig: switch to ASSIGN_VAL state in the second lexer")
+c3d228713b10 ("kconfig: use specific tokens instead of T_ASSIGN for assignments")
+ce2164ab5831 ("kconfig: refactor scanning and parsing "option" properties")
+3c8f317d4cf1 ("kconfig: use distinct tokens for type and default properties")
+a01e5d242d93 ("kconfig: remove redundant token defines")
+cc66bca775ee ("kconfig: fix ambiguous grammar in terms of new lines")
+413cd19d81fd ("kconfig: require T_EOL to reduce visible statement")

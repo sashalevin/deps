@@ -1,0 +1,6 @@
+d09cefd2ef99 ("perf stat: Move create_perf_stat_counter() to stat.c")
+7d9ad16afe2b ("perf stat: Add 'identifier' flag to 'struct perf_stat_config'")
+35386233fcf7 ("perf stat: Use local config arg for scale in create_perf_stat_counter()")
+5698f26b46e4 ("perf stat: Move 'no_inherit' to 'struct perf_stat_config'")
+728c0ee0a896 ("perf stat: Move 'initial_delay' to 'struct perf_stat_config'")
+d50ed0ce8204 ("perf stat: Use evsel->threads in create_perf_stat_counter()")

@@ -1,0 +1,5 @@
+7d1ff0d9faf6 ("drm/i915/gt: Add breadcrumb retire to physical engine")
+dc93c9b69315 ("drm/i915/gt: Schedule request retirement when signaler idles")
+54400257ae52 ("drm/i915/gt: Remove direct invocation of breadcrumb signaling")
+045d1fb79616 ("drm/i915/gt: Acquire a GT wakeref for the breadcrumb interrupt")
+e3f3a0f26932 ("drm/i915/gt: Defer breadcrumb processing to after the irq handler")

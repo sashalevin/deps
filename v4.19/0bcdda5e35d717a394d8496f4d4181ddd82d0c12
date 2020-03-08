@@ -1,0 +1,5 @@
+0bcdda5e35d7 ("drm/bochs: move ttm_bo_(un)reserve calls into bochs_bo_{pin, unpin}")
+dde8fb5555a5 ("drm/bochs: drop unused gpu_addr arg from bochs_bo_pin()")
+6579c39594ae ("drm/bochs: atomic: switch planes to atomic, wire up helpers.")
+48b442238250 ("drm/bochs: fix DRM_FORMAT_* handling for big endian machines.")
+df2052cc9221 ("bochs: convert to drm_fb_helper_fbdev_setup/teardown")

@@ -1,0 +1,8 @@
+753690898204 ("SUNRPC: Ensure the bvecs are reset when we re-encode the RPC request")
+12a3ad6184f8 ("SUNRPC: Convert remaining GFP_NOIO, and GFP_NOWAIT sites in sunrpc")
+e8680a24a269 ("SUNRPC: Use struct xdr_stream when constructing RPC Call header")
+067fb11b12af ("SUNRPC: Remove rpc_xprt::tsh_size")
+80125d4ae70a ("SUNRPC: Remove some dprintk() call sites from auth functions")
+0ccc61b1c76e ("SUNRPC: Add xdr_stream::rqst field")
+97b78ae96ba7 ("SUNRPC: Ensure we respect the RPCSEC_GSS sequence number limit")
+e6b925728084 ("Merge tag 'nfs-for-4.21-1' of git://git.linux-nfs.org/projects/anna/linux-nfs")

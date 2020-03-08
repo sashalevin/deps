@@ -1,0 +1,5 @@
+1d44616e7549 ("pinctrl: qcom: Don't lock around irq_set_irq_wake()")
+e35a6ae0eb3a ("pinctrl/msm: Setup GPIO chip in hierarchy")
+81ef8bf88065 ("irqchip/qcom-pdc: Add irqdomain for wakeup capable GPIOs")
+da3f875a4189 ("irqchip/qcom-pdc: Do not toggle IRQ_ENABLE during mask/unmask")
+b2bb01ed0894 ("irqchip/qcom-pdc: Update max PDC interrupts")

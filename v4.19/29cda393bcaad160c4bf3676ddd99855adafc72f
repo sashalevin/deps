@@ -1,0 +1,7 @@
+29cda393bcaa ("bcache: properly initialize 'path' and 'err' in register_bcache()")
+50246693f81f ("bcache: rework error unwinding in register_bcache")
+a59ff6ccc2bf ("bcache: avoid a deadlock in bcache_reboot()")
+eb8cbb6df38f ("bcache: improve bcache_reboot()")
+bb6d355c2aff ("bcache: Add comments for blkdev_put() in registration code path")
+88c12d42d2bb ("bcache: add error check for calling register_bdev()")
+4e361e020e72 ("bcache: update comment in sysfs.c")

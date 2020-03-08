@@ -1,0 +1,6 @@
+af5c72b1fc7a ("Fix aio_poll() races")
+2bb874c0d873 ("aio: store event at final iocb_put()")
+a9339b785509 ("aio: keep io_event in aio_kiocb")
+833f4154ed56 ("aio: fold lookup_kiocb() into its sole caller")
+b53119f13a04 ("pin iocb through aio.")
+4f9020ffde71 ("Merge branch 'fixes' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

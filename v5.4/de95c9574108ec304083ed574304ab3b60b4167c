@@ -1,0 +1,6 @@
+de95c9574108 ("crypto: algapi - pass instance to crypto_grab_spawn()")
+5f567fffaae9 ("crypto: api - Retain alg refcount in crypto_grab_spawn")
+4f87ee118d16 ("crypto: api - Do not zap spawn->alg")
+73669cc55646 ("crypto: api - Fix race condition in crypto_spawn_alg")
+7db3b61b6bba ("crypto: api - Check spawn->alg under lock in crypto_drop_spawn")
+53253064adfa ("crypto: skcipher - rename crypto_skcipher_type2 to crypto_skcipher_type")

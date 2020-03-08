@@ -1,0 +1,6 @@
+9d6d712fbf77 ("powerpc/32s: Fix boot failure with DEBUG_PAGEALLOC without KASAN.")
+72f208c6a8f7 ("powerpc/32s: move hash code patching out of MMU_init_hw()")
+14e609d693ef ("powerpc/mm/32: add base address to mmu_mapin_ram()")
+6790dae886f9 ("powerpc/hash32: use physical address directly in hash handlers.")
+9efc74ff5295 ("powerpc/book3s/32: Use patch_site to patch hash functions")
+4a3a224c5ae3 ("powerpc/book3s/32: Use MMU_FTR_HPTE_TABLE in head_32.S")

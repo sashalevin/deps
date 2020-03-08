@@ -1,0 +1,8 @@
+0f90e1c10dca ("KVM: x86/mmu: Consolidate tdp_page_fault() and nonpaging_page_fault()")
+39ca1ecb784b ("KVM: x86/mmu: Refactor handling of forced 4k pages in page faults")
+f0f37e229c05 ("KVM: x86/mmu: Refactor the per-slot level calculation in mapping_level()")
+cb9b88c66939 ("KVM: x86/mmu: Refactor handling of cache consistency with TDP")
+9f1a8526fbe3 ("KVM: x86/mmu: Move nonpaging_page_fault() below try_async_pf()")
+367fd790b17d ("KVM: x86/mmu: Fold nonpaging_map() into nonpaging_page_fault()")
+ba7888dde6af ("KVM: x86/mmu: Move definition of make_mmu_pages_available() up")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

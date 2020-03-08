@@ -1,0 +1,7 @@
+d9c9ce34ed5c ("x86/fpu: Fault-in user stack if copy_fpstate_to_sigframe() fails")
+06b251dff787 ("x86/fpu: Restore regs in copy_fpstate_to_sigframe() in order to use the fastpath")
+da2f32fb8dc7 ("x86/fpu: Add a fastpath to copy_fpstate_to_sigframe()")
+a352a3b7b792 ("x86/fpu: Prepare copy_fpstate_to_sigframe() for TIF_NEED_FPU_LOAD")
+69277c98f5ee ("x86/fpu: Always store the registers in copy_fpstate_to_sigframe()")
+39388e80f9b0 ("x86/fpu: Don't save fxregs for ia32 frames in copy_fpstate_to_sigframe()")
+fbcc9e0c37ba ("x86/fpu: Remove fpu->initialized usage in copy_fpstate_to_sigframe()")

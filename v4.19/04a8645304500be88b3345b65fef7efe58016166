@@ -1,0 +1,6 @@
+04a864530450 ("mm: update ptep_modify_prot_commit to take old pte value as arg")
+0cbe3e26abe0 ("mm: update ptep_modify_prot_start/commit to take vm_area_struct as arg")
+5c83511bdb98 ("x86/paravirt: Use a single ops structure")
+27876f3882fd ("x86/paravirt: Remove clobbers from struct paravirt_patch_site")
+abc745f85c11 ("x86/paravirt: Remove clobbers parameter from paravirt patch functions")
+7e4372028929 ("x86/paravirt: Make paravirt_patch_call() and paravirt_patch_jmp() static")

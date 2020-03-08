@@ -1,0 +1,6 @@
+bfe298745afc ("arm64: entry-common: don't touch daif before bp-hardening")
+afa7c0e5b965 ("arm64: Remove asmlinkage from updated functions")
+582f95835a8f ("arm64: entry: convert el0_sync to C")
+ed3768db5882 ("arm64: entry: convert el1_sync to C")
+e540e0a7fa1f ("arm64: Add prototypes for functions called by entry.S")
+b6e43c0e3129 ("arm64: remove __exception annotations")

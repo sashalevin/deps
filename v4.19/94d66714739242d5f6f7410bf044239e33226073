@@ -1,0 +1,6 @@
+94d667147392 ("Bluetooth: hci_qca: Reduce delay after sending baudrate request for WCN3990")
+6d10cd5cbd6c ("Bluetooth: hci_qca: Use msleep() instead of open coding it")
+9836b80208b2 ("Bluetooth: hci_qca: Pass boolean 'on/off' to qca_send_power_pulse()")
+f9558270b85c ("Bluetooth: hci_qca: use wait_until_sent() for power pulses")
+3e4be65eb82c ("Bluetooth: hci_qca: Add poweroff support during hci down for wcn3990")
+c2d782733861 ("Bluetooth: hci_qca: Remove hdev dereference in qca_close().")

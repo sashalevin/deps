@@ -1,0 +1,6 @@
+cc06ee983cff ("vfio-ccw: Rearrange pfn_array and pfn_array_table arrays")
+5d87fbf70fb4 ("s390/cio: Don't pin vfio pages for empty transfers")
+e4f3f18b1232 ("s390/cio: Split pfn_array_alloc_pin into pieces")
+48bd0eee8eca ("s390/cio: Fix vfio-ccw handling of recursive TICs")
+405d566f98ae ("vfio-ccw: Don't assume there are more ccws after a TIC")
+806212f91c87 ("s390/cio: Fix cleanup of pfn_array alloc failure")

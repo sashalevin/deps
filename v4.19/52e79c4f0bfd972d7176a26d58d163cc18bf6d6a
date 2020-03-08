@@ -1,0 +1,6 @@
+52e79c4f0bfd ("microblaze: fix race condition in building boot images")
+3dda563b8349 ("microblaze: add linux.bin* and simpleImage.* to PHONY")
+4722a3e6b716 ("microblaze: fix multiple bugs in arch/microblaze/boot/Makefile")
+2e14f94cf4bc ("microblaze: move "... is ready" messages to arch/microblaze/Makefile")
+1e17ab5320a6 ("microblaze: generate uapi header and system call table files")
+c0b2826aa02a ("microblaze: move __NR_syscalls macro from asm/unistd.h")

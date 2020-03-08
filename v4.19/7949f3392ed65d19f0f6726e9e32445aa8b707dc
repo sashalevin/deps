@@ -1,0 +1,4 @@
+7949f3392ed6 ("btrfs: get fs_info from block group in lookup_free_space_inode")
+4ca75f1bd413 ("btrfs: get fs_info from trans in create_free_space_inode")
+4222ea7100c0 ("Btrfs: fix deadlock on tree root leaf when finding free extent")
+84de76a2fb21 ("btrfs: protect space cache inode alloc with GFP_NOFS")

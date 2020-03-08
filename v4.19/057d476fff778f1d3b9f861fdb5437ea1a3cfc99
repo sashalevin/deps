@@ -1,0 +1,3 @@
+057d476fff77 ("xhci: fix USB3 device initiated resume race with roothub autosuspend")
+b8c3b718087b ("usb: xhci: Don't try to recover an endpoint if port is in error state.")
+5f78a54f8d31 ("xhci: move usb3 speficic bits to own function in get_port_status call")

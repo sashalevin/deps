@@ -1,0 +1,7 @@
+e21d5cca3a1b ("staging: gasket: remove debug logs in page table mapping calls")
+b1004491c9c2 ("staging: gasket: page table: return valid error code on map fail")
+08b6b28801cc ("staging: gasket: page_table: handle failed dma_map_page")
+863739bda25b ("staging: gasket: cleanup if dma_map_page fails in gasket_perform_mapping")
+912b8a811cc1 ("staging: gasket: fix DMA direction for extended page tables")
+7b49682bdc6c ("staging: gasket: page table: remove extraneous memory barriers")
+6c258edc64ae ("staging: gasket: page table: use dma_mapping_error for error detection")

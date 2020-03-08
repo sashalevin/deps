@@ -1,0 +1,5 @@
+df205b5c6328 ("KVM: arm64: Filter out invalid core register IDs in KVM_GET_REG_LIST")
+8c86dfe39d5d ("KVM: arm64: Reject ioctl access to FPSIMD V-regs on SVE vcpus")
+be25bbb392fa ("KVM: arm64: Factor out core register ID enumeration")
+dc52f31a928b ("KVM: arm64: Add missing #include of <linux/string.h> in guest.c")
+7aa92cf318f8 ("KVM: arm64: Refactor kvm_arm_num_regs() for easier maintenance")

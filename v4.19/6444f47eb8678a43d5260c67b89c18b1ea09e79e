@@ -1,0 +1,3 @@
+6444f47eb867 ("writeback, cgroup: inode_switch_wbs() shouldn't give up on wb_switch_rwsem trylock fail")
+ec084de929e4 ("fs/writeback.c: use rcu_barrier() to wait for inflight wb switches going into workqueue when umount")
+7fc5854f8c6e ("writeback: synchronize sync(2) against cgroup writeback membership switches")

@@ -1,0 +1,8 @@
+c77e9f091438 ("i40e: Relax i40e_xsk_wakeup's return value when PF is busy")
+b3873a5be757 ("net/i40e: Fix concurrency issues between config flow and XSK")
+59eb2a884f53 ("i40e: fix XDP_REDIRECT/XDP xmit ring cleanup race")
+1328dcddbd53 ("i40e: add AF_XDP zero-copy Tx support")
+0a714186d3c0 ("i40e: add AF_XDP zero-copy Rx support")
+20a739dbef28 ("i40e: move common Rx functions to i40e_txrx_common.h")
+6d7aad1da279 ("i40e: refactor Rx path for re-use")
+123cecd427b6 ("i40e: added queue pair disable/enable functions")

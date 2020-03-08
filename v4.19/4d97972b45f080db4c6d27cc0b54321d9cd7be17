@@ -1,0 +1,3 @@
+4d97972b45f0 ("net: stmmac: Use netif_tx_napi_add() for TX polling function")
+4ccb45857c2c ("net: stmmac: Fix NAPI poll in TX path when in multi-queue")
+fa0be0a43f10 ("net: stmmac: Prevent RX starvation in stmmac_napi_poll()")

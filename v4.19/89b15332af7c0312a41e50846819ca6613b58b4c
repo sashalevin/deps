@@ -1,0 +1,7 @@
+89b15332af7c ("mm: drop mmap_sem before calling balance_dirty_pages() in write fault")
+6b4c9f446981 ("filemap: drop the mmap_sem for all blocking operations")
+a75d4c333772 ("filemap: kill page_cache_read usage in filemap_fault")
+2a1180f1bd38 ("filemap: pass vm_fault to the mmap ra helpers")
+a862f68a8b36 ("docs/core-api/mm: fix return value descriptions in mm/")
+92eac16819e4 ("docs/mm: vmalloc: re-indent kernel-doc comemnts")
+dad4f140edaa ("Merge branch 'xarray' of git://git.infradead.org/users/willy/linux-dax")

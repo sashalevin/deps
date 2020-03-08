@@ -1,0 +1,8 @@
+96f2a9aef598 ("drm/tinydrm: tinydrm_display_pipe_init() don't use tinydrm_device")
+af74138160e1 ("drm/tinydrm: Use damage helper for dirtyfb")
+b051b3459bba ("drm/tinydrm: Use struct drm_rect")
+84056e9b45f7 ("drm/tinydrm: do not reply on drmP.h from drm_gem_cma_helper.h")
+3db8d37dd84e ("drm/tinydrm: Use DRM_GEM_CMA_VMAP_DRIVER_OPS")
+03ceb1c8dfd1 ("drm/tinydrm: Fix setting of the column/page end addresses.")
+f300c86e33a6 ("drm: Add an hx8367d tinydrm driver.")
+dff906c3f91c ("drm/tinydrm: Advertise that we can do only DRM_FORMAT_MOD_LINEAR.")

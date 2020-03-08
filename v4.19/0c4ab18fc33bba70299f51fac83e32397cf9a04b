@@ -1,0 +1,2 @@
+0c4ab18fc33b ("coccinelle: api/stream_open: treat all wait_.*() calls as blocking")
+10dce8af3422 ("fs: stream_open - opener for stream-like files so that read and write can run simultaneously without deadlock")

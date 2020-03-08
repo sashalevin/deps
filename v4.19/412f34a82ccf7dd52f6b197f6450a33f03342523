@@ -1,0 +1,4 @@
+412f34a82ccf ("locking/qspinlock_stat: Track the no MCS node available case")
+d682b596d993 ("locking/qspinlock: Handle > 4 slowpath nesting levels")
+0fa809ca7f81 ("locking/pvqspinlock: Extend node size when pvqspinlock is configured")
+1222109a5363 ("locking/qspinlock_stat: Count instances of nested lock slowpaths")

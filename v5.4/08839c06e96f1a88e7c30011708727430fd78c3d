@@ -1,0 +1,5 @@
+08839c06e96f ("net: dsa: sja1105: Switch to scatter/gather API for SPI")
+8a559400da42 ("net: dsa: sja1105: Move sja1105_spi_transfer into sja1105_xfer")
+26e010555086 ("net: dsa: sja1105: Make function sja1105_xfer_long_buf static")
+1bd448703895 ("net: dsa: sja1105: Rename sja1105_spi_send_packed_buf to sja1105_xfer_buf")
+dff79620c3e8 ("net: dsa: sja1105: Replace sja1105_spi_send_int with sja1105_xfer_{u32, u64}")

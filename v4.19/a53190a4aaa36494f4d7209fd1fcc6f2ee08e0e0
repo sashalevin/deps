@@ -1,0 +1,3 @@
+a53190a4aaa3 ("mm: mempolicy: handle vma with unmovable pages mapped correctly in mbind")
+d883544515aa ("mm: mempolicy: make the behavior consistent when MPOL_MF_MOVE* and MPOL_MF_STRICT were specified")
+a7f40cfe3b7a ("mm: mempolicy: make mbind() return -EIO when MPOL_MF_STRICT is specified")

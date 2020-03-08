@@ -1,0 +1,7 @@
+103e515efa89 ("nvme: add a numa_node field to struct nvme_ctrl")
+6d46964230d1 ("block: remove the lock argument to blk_alloc_queue_node")
+68fc68f2ff62 ("umem: don't override the queue_lock")
+8295a69bdc3c ("drbd: don't override the queue_lock")
+d3d0bc78be30 ("nvme-fc: introduce struct nvme_fcp_op_w_sgl")
+5e27891e8855 ("block: remove bogus check for queue_lock assignment")
+f333444708f8 ("nvme: take node locality into account when selecting a path")

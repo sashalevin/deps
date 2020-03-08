@@ -1,0 +1,7 @@
+bef6e0ae7420 ("x86/xen: Add "nopv" support for HVM guest")
+cc8f3b4dd2eb ("x86/paravirt: Remove const mark from x86_hyper_xen_hvm variable")
+b39b049749ce ("xen: Map "xen_nopv" parameter to "nopv" and mark it obsolete")
+30978346372e ("x86: Add "nopv" parameter to disable PV extensions")
+ec7972c99fff ("x86: Add support for Linux guests on an ACRN hypervisor")
+2ec16bc0fc7a ("x86/xen: Add "xen_timer_slop" command line option")
+e7b66d16fe41 ("x86/acpi, x86/boot: Take RSDP address for boot params if available")

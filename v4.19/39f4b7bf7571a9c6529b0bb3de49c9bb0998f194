@@ -1,0 +1,7 @@
+39f4b7bf7571 ("powerpc: introduce kernstart_virt_addr to store the kernel base")
+4ed47dbefa29 ("powerpc: move memstart_addr and kernstart_addr to init-common.c")
+0fb1c25ab523 ("powerpc: Add skeleton for Kernel Userspace Execution Prevention")
+69795cabe4cf ("powerpc: Add framework for Kernel Userspace Protection")
+ffca395b11c4 ("powerpc/mm: Fix reporting of kernel execute faults on the 8xx")
+d09780f3a8d4 ("powerpc/mm: Move pgtable_t into platform headers")
+994da93d1968 ("powerpc/mm: move platform specific mmu-xxx.h in platform directories")

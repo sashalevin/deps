@@ -1,0 +1,7 @@
+5242fcb706cb ("cifs: fix bi-directional fsctl passthrough calls")
+f5778c398713 ("SMB3: Allow SMB3 FSCTL queries to be sent to server from tools")
+31ba4331d571 ("SMB3: passthru query info doesn't check for SMB3 FSCTL passthru")
+8d8b26e58432 ("cifs: add support for ioctl on directories")
+f70556c8cae9 ("smb2: fix uninitialized variable bug in smb2_ioctl_query_info")
+f5b05d622a3e ("cifs: add IOCTL for QUERY_INFO passthrough to userspace")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

@@ -1,0 +1,8 @@
+6f3196b74d64 ("s390/crypto: Rework on paes implementation")
+674f368a952c ("crypto: remove CRYPTO_TFM_RES_BAD_KEY_LEN")
+5c925e8b10a5 ("crypto: remove CRYPTO_TFM_RES_BAD_BLOCK_LEN")
+f9d89b853ec1 ("crypto: remove unused tfm result flags")
+b828f905904c ("crypto: artpec6 - return correct error code for failed setkey()")
+bd56cea012fc ("crypto: chelsio - fix writing tfm flags to wrong place")
+e8cfed5e4e2b ("crypto: cipher - remove crt_u.cipher (struct cipher_tfm)")
+c441a909c686 ("crypto: compress - remove crt_u.compress (struct compress_tfm)")

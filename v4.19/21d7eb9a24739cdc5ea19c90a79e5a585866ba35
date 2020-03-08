@@ -1,0 +1,6 @@
+21d7eb9a2473 ("perf augmented_syscalls: Check probe_read_str() return separately")
+f6618ce6c024 ("perf trace: Introduce augmented_filename_syscall_enter() declarator")
+9779fc021410 ("perf trace: Augment inotify_add_watch pathname syscall arg")
+daa1284af3b9 ("perf trace: Augment the 'open' syscall 'filename' arg")
+75d1e30681d0 ("perf trace: Use the augmented filename, expanding syscall enter pointers")
+6ccc18a9a17a ("perf trace: Make the augmented_syscalls filter out the tracepoint event")

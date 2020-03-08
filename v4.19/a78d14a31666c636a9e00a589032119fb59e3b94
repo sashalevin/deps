@@ -1,0 +1,6 @@
+a78d14a31666 ("xen: avoid link error on ARM")
+8b1e0f81fb6f ("mm/pgtable: drop pgtable_t variable from pte_fn_t functions")
+c55191e96caa ("arm64: mm: apply r/o permissions of VM areas to its linear alias as well")
+b34d2ef0c60e ("arm64: mm: purge lazily unmapped vm regions before changing permissions")
+f030aade9165 ("x86/xen: Move pv specific parts of arch/x86/xen/mmu.c to mmu_pv.c")
+28c11b0f798c ("x86/xen: Move pv irq related functions under CONFIG_XEN_PV umbrella")

@@ -1,0 +1,4 @@
+d3d1af6f011a ("perf record: Enable asynchronous trace writing")
+0b77383134f3 ("perf mmap: Map data buffer for preserving collected data")
+ded2b8fe2e43 ("perf tools: Add 'struct perf_mmap' arg to record__write()")
+e035f4ca2ac9 ("perf auxtrace: Pass struct perf_mmap into mmap__read* functions")
