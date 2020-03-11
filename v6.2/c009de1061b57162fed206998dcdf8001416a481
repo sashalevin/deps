@@ -1,0 +1,7 @@
+c009de1061b5 ("bridge: mcast: Implement MDB net device operations")
+a1aee20d5db2 ("net: bridge: Add netlink knobs for number / maximum MDB entries")
+b57e8d870d52 ("net: bridge: Maintain number of MDB entries in net_bridge_mcast_port")
+eceb30854f6b ("net: bridge: Change a cleanup in br_multicast_new_port_group() to goto")
+976b3858dd14 ("net: bridge: Add br_multicast_del_port_group()")
+1c85b80b20a1 ("net: bridge: Move extack-setting to br_multicast_new_port_group()")
+60977a0c6337 ("net: bridge: Add extack to br_multicast_new_port_group()")

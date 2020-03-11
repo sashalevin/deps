@@ -1,0 +1,8 @@
+9d1e795f754d ("clk: Get runtime PM before walking tree for clk_summary")
+dcce5cc7826e ("clk: Show active consumers of clocks in debugfs")
+5b1a1c1ab1f9 ("clk: remove unnecessary (void*) conversions")
+bf6d43d72325 ("clk: Add hardware-enable column to clk summary")
+f21cf9c77ee8 ("clk: Don't cache errors from clk_ops::get_phase()")
+7f4804665b58 ("clk: Drop !clk checks in debugfs dumping")
+1bd37a467700 ("clk: Add clk_min/max_rate entries in debugfs")
+c6e909972ef8 ("clk: sysfs: fix invalid JSON in clk_dump")

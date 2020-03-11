@@ -1,0 +1,3 @@
+548cb932051f ("x86/mm: Fix PAT bit missing from page protection modify mask")
+5a281062af1d ("userfaultfd: wp: add WP pagetable tracking to x86")
+6db73f17c5f1 ("x86: Don't let pgprot_modify() change the page encryption bit")

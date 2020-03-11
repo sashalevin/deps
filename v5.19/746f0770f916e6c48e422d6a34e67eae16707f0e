@@ -1,0 +1,8 @@
+746f0770f916 ("watchdog: s3c2410_wdt: use exynos_get_pmu_regmap_by_phandle() for PMU regs")
+cc85f87a77b8 ("watchdog: Explicitly include correct DT includes")
+12984cea1b8c ("watchdog: xilinx_wwdt: Add Versal window watchdog support")
+db728ea9c7be ("drivers: watchdog: Add StarFive Watchdog driver")
+e0e0ee02e616 ("watchdog: s3c2410_wdt: Simplify using dev_err_probe()")
+16d477a1dba9 ("watchdog: s3c2410: Make s3c2410_get_wdt_drv_data() return an int")
+9b31b1ea125c ("watchdog: s3c2410_wdt: Use devm_clk_get[_optional]_enabled() helpers")
+a9a01e1238cf ("Merge tag 'linux-watchdog-6.3-rc1' of git://www.linux-watchdog.org/linux-watchdog")

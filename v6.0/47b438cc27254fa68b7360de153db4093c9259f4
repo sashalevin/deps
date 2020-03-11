@@ -1,0 +1,6 @@
+47b438cc2725 ("net: devlink: convert port_list into xarray")
+02a68a47eade ("net: devlink: track netdev with devlink_port assigned")
+ae3bbc04d4bf ("net: devlink: add port_init/fini() helpers to allow pre-register/post-unregister functions")
+081adcfe930e ("net: devlink: introduce a flag to indicate devlink port being registered")
+3fcb698d9c77 ("net: devlink: introduce port registered assert helper and use it")
+146ecbac1d32 ("net: devlink: stub port params cmds for they are unused internally")

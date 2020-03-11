@@ -1,0 +1,7 @@
+dbf91a54f7cb ("parisc: add __NR_syscalls along with __NR_Linux_syscalls")
+dfddd1a841c6 ("parisc: move __IGNORE* entries to non uapi header")
+2765b3edc41b ("parisc: Wire up io_pgetevents syscall")
+63d32d1e09cb ("parisc: Wire up statx system call")
+18088db042dd ("parisc: Ignore the pkey system calls for now")
+119a0a3c13ef ("parisc: Wire up preadv2 and pwritev2 syscalls")
+b4f09ae6db2a ("parisc: Wire up copy_file_range syscall")

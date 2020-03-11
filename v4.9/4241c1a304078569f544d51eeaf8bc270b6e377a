@@ -1,0 +1,7 @@
+4241c1a30407 ("ipc: rename ipcctl_pre_down_nolock()")
+45a4a64ab485 ("semctl(): separate all layout-dependent copyin/copyout")
+156d9ed1260e ("msgctl(): split the actual work from copyin/copyout")
+9ba720c18622 ("shmctl: split the work from copyin/copyout")
+0e056eb5530d ("kernel-api.rst: fix a series of errors when parsing C files")
+9ae949fa382b ("ipc/sem: rework task wakeups")
+63980c80e1e9 ("ipc/shm.c: coding style fixes")

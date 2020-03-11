@@ -1,0 +1,6 @@
+d34c30cc1fa8 ("xen: add static initialization of steal_clock op to xen_time_ops")
+ecb23dc6f2ef ("xen: add steal_clock support on x86")
+7d5f6f81ddbb ("xen/arm: set the system time in Xen via the XENPF_settime64 hypercall")
+e709fba132db ("xen/arm: introduce xen_read_wallclock")
+34e38523d586 ("xen/arm: account for stolen ticks")
+4ccefbe59739 ("xen: move xen_setup_runstate_info and get_runstate_snapshot to drivers/xen/time.c")

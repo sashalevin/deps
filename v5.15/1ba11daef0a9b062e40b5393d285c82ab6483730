@@ -1,0 +1,5 @@
+1ba11daef0a9 ("KVM: arm64: Use the known cpu id instead of smp_processor_id()")
+583cda1b0e7d ("KVM: arm64: Refuse to run VCPU if the PMU doesn't match the physical CPU")
+6ee7fca2a4a0 ("KVM: arm64: Add KVM_ARM_VCPU_PMU_V3_SET_PMU attribute")
+af9a0e21d817 ("KVM: arm64: Introduce flag shadowing TIF_FOREIGN_FPSTATE")
+892fd259cbf6 ("KVM: arm64: Reorder vcpu flag definitions")

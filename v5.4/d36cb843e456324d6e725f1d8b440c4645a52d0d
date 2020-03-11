@@ -1,0 +1,8 @@
+d36cb843e456 ("OPP: Fix an un-initialized variable usage")
+8174a3a613af ("OPP: Provide a simple implementation to configure multiple clocks")
+c522ce8a0806 ("OPP: Make _generic_set_opp_regulator() a config_regulators() interface")
+b0ec09428621 ("OPP: Migrate set-regulators API to use set-config helpers")
+11b9b663585c ("OPP: Add dev_pm_opp_set_config() and friends")
+87686cc845c3 ("OPP: Make dev_pm_opp_set_regulators() accept NULL terminated list")
+d52ce7094e11 ("panfrost: make mediatek_mt8183_supplies and mediatek_mt8183_pm_domains static")
+6e207b882159 ("Merge tag 'arm-soc-5.14' of git://git.kernel.org/pub/scm/linux/kernel/git/soc/soc")

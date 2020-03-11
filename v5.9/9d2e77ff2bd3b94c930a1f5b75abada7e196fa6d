@@ -1,0 +1,6 @@
+9d2e77ff2bd3 ("mmc: sdhci_am654: Add support for PM suspend/resume")
+654993b3e1eb ("mmc: sdhci_am654: Use dev_err_probe() for mmc_of_parse() return code")
+07e70346e21e ("mmc: sdhci_am654: Use pm_runtime_resume_and_get() to replace open coding")
+a0a62497f6aa ("mmc: sdhci_am654: Add support for input tap delay")
+1e753dbb9ce8 ("mmc: sdhci_am654: Fix hard coded otap delay array size")
+d86472ae8b20 ("mmc: Set PROBE_PREFER_ASYNCHRONOUS for drivers that existed in v5.4")

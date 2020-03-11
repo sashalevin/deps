@@ -1,0 +1,6 @@
+8b3bd6ffbc64 ("PM / devfreq: Switch to dev_pm_opp_find_freq_{ceil/floor}_indexed() APIs")
+b5d281f6c16d ("PM / devfreq: Rework freq_table to be local to devfreq struct")
+05723e71234b ("PM / devfreq: passive: Reduce duplicate code when passive_devfreq case")
+8c37d01e1a86 ("PM / devfreq: passive: Fix get_target_freq when not using required-opp")
+86ad9a24f21e ("PM / devfreq: Add required OPPs support to passive governor")
+483d557ee9a3 ("PM / devfreq: Clean up the devfreq instance name in sysfs attr")

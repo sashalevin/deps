@@ -1,0 +1,7 @@
+e6ab6113526a ("scsi: aha1542: Use memcpy_{from,to}_bvec()")
+11bf4ec58073 ("scsi: aha1542: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+2f2fef022c3e ("aha1542: use a local bounce buffer")
+6075416cc412 ("scsi: aha1542: Kill trailing whitespace")
+2a3d4eb8e228 ("scsi: flip the default on use_clustering")
+c29d7d10cd1e ("scsi: virtio_scsi: Remove per-target data because it is no longer used")
+1794ef2b150d ("scsi: aha1542: convert to DMA mapping API")

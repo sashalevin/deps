@@ -1,0 +1,5 @@
+f62ca0b6e31d ("selinux: uninline unlikely parts of avc_has_perm_noaudit()")
+0a9876f36b08 ("selinux: Remove redundant assignments")
+9ad6e9cb39c6 ("selinux: fix race between old and new sidtab")
+6406887a12ee ("selinux: fix variable scope issue in live sidtab conversion")
+519dad3bcd80 ("selinux: don't log MAC_POLICY_LOAD record on failed policy load")

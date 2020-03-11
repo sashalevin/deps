@@ -1,0 +1,8 @@
+7836b2706076 ("rcu: s/boost_kthread_mutex/kthread_mutex")
+6343402ac35d ("rcu: Synchronize ->qsmaskinitnext in rcu_boost_kthread_setaffinity()")
+d96c52fe4907 ("rcu: Add polled expedited grace-period primitives")
+218b957a6959 ("rcu: Add mutex for rcu boost kthread spawning and affinity setting")
+3d3a0d1b508d ("rcu: Point to documentation of ordering guarantees")
+3ef5a1c3821a ("rcu: Make RCU priority boosting work on single-CPU rcu_node structures")
+7abb18bd7567 ("rcu: Provide polling interfaces for Tree RCU grace periods")
+6be7436d2245 ("rcu: Add rcu_gp_might_be_stalled()")

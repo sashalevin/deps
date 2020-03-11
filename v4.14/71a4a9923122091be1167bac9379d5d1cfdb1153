@@ -1,0 +1,7 @@
+71a4a9923122 ("scsi: libsas: Drop sas_printk()")
+d188e5db9d27 ("scsi: libsas: Use pr_fmt(fmt)")
+f12486e06ae8 ("scsi: libsas: shut down the PHY if events reached the threshold")
+1c393b970e0f ("scsi: libsas: Use dynamic alloced work to avoid sas event lost")
+5956d8e6bdfc ("scsi: libsas: rename notify_port_event() for consistency")
+0d78f969b10f ("scsi: libsas: remove the numbering for each event enum")
+042ebd293b86 ("scsi: libsas: kill useless ha_event and do some cleanup")

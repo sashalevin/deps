@@ -1,0 +1,6 @@
+8658db0a4a0f ("RISC-V: move some stray __RISCV_INSN_FUNCS definitions from kprobes")
+ec5f90877516 ("RISC-V: Move riscv_insn_is_* macros into a common header")
+cde4a69302a4 ("RISC-V: add auipc elements to parse_asm header")
+33e41480b233 ("RISC-V: detach funct-values from their offset")
+bf0cc402d7cd ("RISC-V: add prefix to all constants/macros in parse_asm.h")
+a3775634f6da ("RISC-V: fix funct4 definition for c.jalr in parse_asm.h")

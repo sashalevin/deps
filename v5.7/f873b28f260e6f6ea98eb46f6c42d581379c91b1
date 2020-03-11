@@ -1,0 +1,6 @@
+f873b28f260e ("ima: without an IMA policy loaded, return quickly")
+a2d2329e30e2 ("ima: handle idmapped mounts")
+4834177e6332 ("ima: Support additional conditionals in the KEXEC_CMDLINE hook function")
+db2045f5892a ("ima: Fail rule parsing when the KEXEC_CMDLINE hook is combined with an invalid cond")
+712183437ebe ("ima: Fail rule parsing when buffer hook functions have an invalid action")
+8eb613c0b8f1 ("ima: verify mprotect change is consistent with mmap policy")

@@ -1,0 +1,8 @@
+c5a10397d457 ("net/smc: fix missing byte order conversion in CLC handshake")
+7290178a82fc ("net/smc: add vendor unique experimental options area in clc handshake")
+1e700948c9db ("net/smc: support smc release version negotiation in clc handshake")
+833bac7ec392 ("net/smc: Fix setsockopt and sysctl to specify same buffer size again")
+aff7bfed9097 ("net/smc: replace mutex rmbs_lock and sndbufs_lock with rw_semaphore")
+9de4df7b6be1 ("net/smc: Separate SMC-D and ISM APIs")
+89e7d2ba61b7 ("net/ism: Add new API for client registration")
+1baedb13f1d5 ("s390/ism: Introduce struct ism_dmb")

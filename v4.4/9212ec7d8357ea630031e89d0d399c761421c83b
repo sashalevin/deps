@@ -1,0 +1,4 @@
+9212ec7d8357 ("uprobes/x86: Fix detection of 32-bit user mode")
+e7ed9d9bd037 ("uprobes/x86: Emulate push insns for uprobe on x86")
+abfb9498ee13 ("x86/entry: Rename is_{ia32,x32}_task() to in_{ia32,x32}_syscall()")
+95d97adb2bb8 ("x86/signal: Cleanup get_nr_restart_syscall()")

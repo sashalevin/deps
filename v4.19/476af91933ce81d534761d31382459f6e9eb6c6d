@@ -1,0 +1,7 @@
+476af91933ce ("orangefs: posix acl fix...")
+afd9fb2a3179 ("orangefs: reorganize setattr functions to track attribute changes")
+df2d7337b570 ("orangefs: let setattr write to cached inode")
+5e4f606e26d6 ("orangefs: hold i_lock during inode_getattr")
+5e7f1d433804 ("orangefs: update attributes rather than relying on server")
+8b60785c1d7c ("orangefs: simplify orangefs_inode_getattr interface")
+fc2e2e9c43e3 ("orangefs: implement xattr cache")

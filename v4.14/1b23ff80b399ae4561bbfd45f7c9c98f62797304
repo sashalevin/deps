@@ -1,0 +1,4 @@
+1b23ff80b399 ("mm/vmalloc: invoke classify_va_fit_type() in adjust_va_to_fit_type()")
+2c9292336a09 ("mm/vmalloc.c: avoid bogus -Wmaybe-uninitialized warning")
+68ad4a330433 ("mm/vmalloc.c: keep track of free blocks for vmap allocation")
+afd07389d3f4 ("mm/vmalloc.c: fix kernel BUG at mm/vmalloc.c:512!")

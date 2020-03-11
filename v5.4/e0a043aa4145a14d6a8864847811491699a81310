@@ -1,0 +1,8 @@
+e0a043aa4145 ("mm, slub: protect put_cpu_partial() with disabled irqs instead of cmpxchg")
+fc1455f4e023 ("mm, slub: separate detaching of partial list in unfreeze_partials() from unfreezing")
+c2f973ba42ed ("mm, slub: detach whole partial list at once in unfreeze_partials()")
+8de06a6f48f2 ("mm, slub: discard slabs in unfreeze_partials() without irqs disabled")
+f3ab8b6b9228 ("mm, slub: move irq control into unfreeze_partials()")
+976b805c782a ("mm, slub: remove redundant unfreeze_partials() from put_cpu_partial()")
+bbd4e305e373 ("mm/slub.c: replace kmem_cache->cpu_partial with wrapped APIs")
+4c7ba22e4c2d ("mm/slub.c: replace cpu_slab->partial with wrapped APIs")

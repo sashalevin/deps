@@ -1,0 +1,5 @@
+4952cd3e7b47 ("tipc: refactor node xmit and fix memory leaks")
+dc8d1eb30598 ("tipc: fix node reference count bug")
+5405ff6e15f4 ("tipc: convert node lock to rwlock")
+2312bf61ae36 ("tipc: introduce per-link spinlock")
+1d7e1c2595bd ("tipc: reduce code dependency between binding table and node layer")

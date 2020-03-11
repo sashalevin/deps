@@ -1,0 +1,6 @@
+cf7614e13c8f ("rcu: Refactor rcu_{nmi,irq}_{enter,exit}()")
+58721f5da4bc ("rcu: Define rcu_irq_{enter,exit}() in terms of rcu_nmi_{enter,exit}()")
+fd581a91ac16 ("rcu: Move rcu_nmi_{enter,exit}() to prepare for consolidation")
+a0eb22bf64a7 ("rcu: Reduce dyntick-idle state space")
+2e672ab2d491 ("rcu: Avoid ->dynticks_nmi_nesting store tearing")
+8e9a2dba8686 ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

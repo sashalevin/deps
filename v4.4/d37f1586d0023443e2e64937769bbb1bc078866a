@@ -1,0 +1,6 @@
+d37f1586d002 ("perf record: Make record__mmap_read generic")
+a4ea0ec4f24a ("perf record: Decouple record__mmap_read() and evlist.")
+cb21686b7d37 ("perf record: Prepare reading from multiple evlists in record__mmap_read_all()")
+3a62a7b8200a ("perf record: Read from backward ring buffer")
+09fa4f401296 ("perf record: Rename variable to make code clear")
+2d11c65071d4 ("perf record: Prevent reading invalid data in record__mmap_read")

@@ -1,0 +1,6 @@
+29e0e4df9d2b ("fuse: Switch to fc_mount() for submounts")
+266eb3f2fae4 ("fuse: Call vfs_get_tree() for submounts")
+fe0a7bd81bfe ("fuse: add dedicated filesystem context ops for submounts")
+e4a9ccdd1c03 ("fuse: Fix infinite loop in sget_fc()")
+e3a43f2a9539 ("fuse: Fix crash if superblock of submount gets killed early")
+d92d88f0568e ("fuse: Fix crash in fuse_dentry_automount() error path")

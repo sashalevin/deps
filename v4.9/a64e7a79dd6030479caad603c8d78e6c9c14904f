@@ -1,0 +1,7 @@
+a64e7a79dd60 ("mwifiex: resolve reset vs. remove()/shutdown() deadlocks")
+6d7d579a8243 ("mwifiex: pcie: add card_reset() support")
+4e841d3eb929 ("mwifiex: pcie: don't leak DMA buffers when removing")
+3860e5e39532 ("mwifiex: move pcie_work and related variables inside card")
+41efaf5824e7 ("mwifiex: wait firmware dump complete during card remove process")
+97489c284d9f ("mwifiex: pcie: stop checking for NULL adapter->card")
+bcf28a2f2846 ("mwifiex: reset card->adapter during device unregister")

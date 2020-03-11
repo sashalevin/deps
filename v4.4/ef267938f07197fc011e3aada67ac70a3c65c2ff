@@ -1,0 +1,7 @@
+ef267938f071 ("s390/vmcp: split vmcp header file and move to uapi")
+3f4298427ad5 ("s390/vmcp: make use of contiguous memory allocator")
+cd4386a931b6 ("s390/cpcmd,vmcp: avoid GFP_DMA allocations")
+dcda9b04713c ("mm, tree wide: replace __GFP_REPEAT by __GFP_RETRY_MAYFAIL with more useful semantic")
+aaf14e40a33a ("mm, hugetlb: unclutter hugetlb allocation layers")
+4db9b2efe949 ("hugetlb, memory_hotplug: prefer to use reserved pages for migration")
+fe1b518075d8 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/sparc-next")

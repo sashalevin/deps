@@ -1,0 +1,6 @@
+9fa3e59a003b ("irqchip/armada-370-xp: Change register constant suffix from _MSK to _MASK")
+5e389e986887 ("irqchip/armada-370-xp: Drop _OFFS suffix from some register constants")
+986b6ad0c4c6 ("irqchip/armada-370-xp: Add support for 32 MSI interrupts on non-IPI platforms")
+9d80f6bd3ad8 ("irqchip/armada-370-xp: Do not touch IPI registers on platforms without IPI")
+de796fc18417 ("irqchip/armada-370-xp: Only call ipi_resume() if IPI is available")
+8ca61cde32c1 ("irqchip/armada-370-xp: Enable MSI affinity configuration")

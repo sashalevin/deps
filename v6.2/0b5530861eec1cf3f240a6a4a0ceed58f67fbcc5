@@ -1,0 +1,7 @@
+0b5530861eec ("x86/hyperv: use helpers to read control registers in hv_snp_boot_ap()")
+44676bb9d566 ("x86/hyperv: Add smp support for SEV-SNP guest")
+48b1f68372ca ("x86/hyperv: Use vmmcall to implement Hyper-V hypercall in sev-snp enlightened guest")
+c957f1f3c498 ("x86/hyperv: Set MTRR state when running as SEV-SNP Hyper-V guest")
+c26e0527aaf8 ("x86/hyperv: Add VTL specific structs and hypercalls")
+812b0597fb40 ("x86/hyperv: Change vTOM handling to use standard coco mechanisms")
+7fec185a56f4 ("Drivers: hv: Setup synic registers in case of nested root partition")

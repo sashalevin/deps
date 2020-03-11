@@ -1,0 +1,5 @@
+6e5e64c9477d ("cifs: do not reset chan_max if multichannel is not supported at mount")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+90c49fce1c43 ("cifs: fix potential use-after-free bugs in TCP_Server_Info::hostname")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")

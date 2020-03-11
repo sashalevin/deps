@@ -1,0 +1,5 @@
+3a2886cca703 ("net/rds: Keep track of and wait for FRWR segments in use upon shutdown")
+9547dff1085d ("net/rds: Set fr_state only to FRMR_IS_FREE if IB_WR_LOCAL_INV had been successful")
+5f33141d2fc0 ("net/rds: Wait for the FRMR_IS_FREE (or FRMR_IS_STALE) transition after posting IB_WR_LOCAL_INV")
+2c7da8e6b041 ("net/rds: Give fr_state a chance to transition to FRMR_IS_FREE")
+a55207884708 ("Revert "RDS: IB: split the mr registration and invalidation path"")

@@ -1,0 +1,5 @@
+f674aacd5005 ("spi: sprd: fill offset only to RD_CMD register for reading from slave device")
+5dc349ec131c ("spi: sprd: Pass offset instead of physical address to adi_read/_write()")
+8bdd79dae1ff ("spi: sprd: switch the sequence of setting WDG_LOAD_LOW and _HIGH")
+1d00a67c2da2 ("spi: sprd: adi: Set BIT_WDG_NEW bit when rebooting")
+91ea1d70607e ("spi: sprd: adi: Add missing lock protection when rebooting")

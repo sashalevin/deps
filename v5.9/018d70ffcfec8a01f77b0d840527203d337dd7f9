@@ -1,0 +1,6 @@
+018d70ffcfec ("KVM: x86: Update vPMCs when retiring branch instructions")
+9cd803d496e7 ("KVM: x86: Update vPMCs when retiring instructions")
+1e9dfbd748f3 ("KVM: nVMX: Use '-1' in 'hv_evmcs_vmptr' to indicate that eVMCS is not in use")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+d51e1d3f6b42 ("KVM: nVMX: Sync unsync'd vmcs02 state to vmcs12 on migration")
+02f1965ff83b ("KVM: nVMX: Read EXIT_QUAL and INTR_INFO only when needed for nested exit")

@@ -1,0 +1,8 @@
+50479d58eaa3 ("arm64: Disable old style assembly annotations")
+c11090474d70 ("arm64: locking: Replace ticket lock implementation with qspinlock")
+c6f5d02b6a0f ("locking/spinlocks/arm64: Remove smp_mb() from arch_spin_is_locked()")
+202fb4ef81e3 ("arm64: spinlock: Fix theoretical trylock() A-B-A with LSE atomics")
+087133ac9076 ("locking/qrwlock, arm64: Move rwlock implementation over to qrwlocks")
+a4c1887d4c14 ("locking/arch: Remove dummy arch_{read,spin,write}_lock_flags() implementations")
+0160fb177d48 ("locking/arch: Remove dummy arch_{read,spin,write}_relax() implementations")
+a8a217c22116 ("locking/core: Remove {read,spin,write}_can_lock()")

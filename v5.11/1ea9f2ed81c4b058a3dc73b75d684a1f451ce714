@@ -1,0 +1,7 @@
+1ea9f2ed81c4 ("KVM: x86/xen: add definitions of compat_shared_info, compat_vcpu_info")
+23200b7a30de ("KVM: x86/xen: intercept xen hypercalls if enabled")
+92f4d400a407 ("KVM: x86/xen: Fix __user pointer handling for hypercall page installation")
+1232f8e6c9d1 ("KVM: x86/xen: fix Xen hypercall page msr handling")
+f88d4f2f287e ("selftests: kvm/x86: add test for pmu msr MSR_IA32_PERF_CAPABILITIES")
+fe6b6bc802b4 ("KVM: VMX: Enable bus lock VM exit")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")

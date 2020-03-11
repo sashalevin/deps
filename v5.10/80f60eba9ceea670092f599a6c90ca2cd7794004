@@ -1,0 +1,7 @@
+80f60eba9cee ("gpio: dwapb: Switch to use fwnode instead of of_node")
+5111c2b6b019 ("gpio: dwapb: Get rid of legacy platform data")
+c1b291e96a6d ("gpio: dwapb: Unify ACPI enumeration checks in get_irq() and configure_irqs()")
+043a0c9fe7a0 ("gpio-dwapb: Drop unused headers and sort the rest")
+91076ebb3e22 ("mfd: intel_quark_i2c_gpio: Enable MSI interrupt")
+98d6e7fce6b0 ("mfd: intel_quark_i2c_gpio: Reuse BAR definitions for MFD cell indexing")
+1514ce4935f3 ("mfd: intel_quark_i2c_gpio: Unregister resources in reversed order")

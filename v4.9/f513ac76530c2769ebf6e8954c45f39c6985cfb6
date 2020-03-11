@@ -1,0 +1,5 @@
+f513ac76530c ("drm/i915/icl: Mind the SFC units when resetting VD or VEBox engines")
+e34b0345e6a5 ("drm/i915/icl: Add reset control register changes")
+a3662830e1e1 ("drm/i915/guc: Fix sleep under spinlock during reset")
+1d1a9774e404 ("drm/i915: Extend intel_wait_for_register_fw() with fast timeout")
+d769ab182771 ("drm/i915: Fix type of timeout_ms parameter in intel_wait_for_register_fw()")

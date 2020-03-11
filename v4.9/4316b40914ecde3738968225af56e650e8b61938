@@ -1,0 +1,7 @@
+4316b40914ec ("bpf: show prog and map id in fdinfo")
+f1f7714ea51c ("bpf: rework prog_digest into prog_tag")
+aafe6ae9cee3 ("bpf: dynamically allocate digest scratch buffer")
+7bd509e311f4 ("bpf: add prog_digest and expose it via fdinfo/netlink")
+21116b7068b9 ("bpf: add owner_prog_type and accounted mem to array map's fdinfo")
+55556dd59dfc ("bpf: drop useless bpf_fd member from cls/act")
+535e7b4b5ef2 ("bpf: Use u64_to_user_ptr()")

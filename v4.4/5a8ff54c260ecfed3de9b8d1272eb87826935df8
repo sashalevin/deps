@@ -1,0 +1,8 @@
+5a8ff54c260e ("x86/dumpstack: Remove unnecessary stack pointer arguments")
+3e344a0db900 ("oprofile/x86: Add regs->ip to oprofile trace")
+81c2949f7fdc ("x86/dumpstack: Add show_stack_regs() and use it")
+fbd704374d11 ("x86/msr: Carry on after a non-"safe" MSR access fails")
+0d0efc07f3df ("x86/head: Move the early NMI fixup into C")
+7bbcdb1ca4d2 ("x86/head: Pass a real pt_regs and trapnr to early_fixup_exception()")
+548acf19234d ("x86/mm: Expand the exception table logic to allow new handling options")
+7f47d8cc039f ("x86, tracing, perf: Add trace point for MSR accesses")

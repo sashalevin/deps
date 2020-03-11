@@ -1,0 +1,7 @@
+04e4e189dddc ("btrfs: rename err to ret in create_reloc_inode()")
+8aa1e49ea1fd ("btrfs: remove unnecessary check of iput argument")
+790c1b8cd477 ("btrfs: do proper error handling in create_reloc_inode")
+543068a217a8 ("btrfs: rename btrfs_find_free_objectid to btrfs_get_free_objectid")
+453e4873869f ("btrfs: rename btrfs_find_highest_objectid to btrfs_init_root_free_objectid")
+abadc1fcd72e ("btrfs: replace calls to btrfs_find_free_ino with btrfs_find_free_objectid")
+ec7d6dfd73b2 ("btrfs: move btrfs_find_highest_objectid/btrfs_find_free_objectid to disk-io.c")

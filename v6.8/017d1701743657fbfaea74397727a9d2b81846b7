@@ -1,0 +1,7 @@
+017d17017436 ("smb/client: fix rdma usage in smb2_async_writev()")
+b608e2c31878 ("smb/client: remove unused rq_iter_size from struct smb_rqst")
+dc5939de82f1 ("cifs: Replace the writedata replay bool with a netfs sreq flag")
+ab58fbdeebc7 ("cifs: Use more fields from netfs_io_subrequest")
+a975a2f22cdc ("cifs: Replace cifs_writedata with a wrapper around netfs_io_subrequest")
+753b67eb630d ("cifs: Replace cifs_readdata with a wrapper around netfs_io_subrequest")
+f3dc1bdb6b0b ("cifs: Fix writeback data corruption")

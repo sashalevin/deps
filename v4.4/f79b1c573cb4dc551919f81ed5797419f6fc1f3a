@@ -1,0 +1,4 @@
+f79b1c573cb4 ("x86/i8237: Register device based on FADT legacy boot flag")
+80dfd83dfab6 ("x86, drivers/pnpbios: Replace paravirt_enabled() check with legacy device check")
+1330e3bc544a ("x86/init: Use a platform legacy quirk for EBDA")
+8d152e7a5c75 ("x86/rtc: Replace paravirt rtc check with platform legacy quirk")

@@ -1,0 +1,4 @@
+9d1c58c80046 ("genirq/msi: Optionally use dev->fwnode for device domain")
+b56ebe7c896d ("x86/apic/msi: Fix misconfigured non-maskable MSI quirk")
+9c15eeb5362c ("genirq: Allow fasteoi handler to resend interrupts on concurrent handling")
+0cfb4a1af386 ("genirq: Use BIT() for the IRQD_* state flags")

@@ -1,0 +1,7 @@
+bdf5bd7f2132 ("rds: tcp: remove register_netdevice_notifier infrastructure.")
+c939a5e4d597 ("net: Convert rds_tcp_net_ops")
+2d746c93b6e5 ("rds: tcp: remove redundant function rds_tcp_conn_paths_destroy()")
+b21dd4506b71 ("rds: tcp: Sequence teardown of listen and acceptor sockets to avoid races")
+16c09b1c7657 ("rds: tcp: Reorder initialization sequence in rds_tcp_init to avoid races")
+a8d63a53b3ea ("rds: remove unnecessary returned value check")
+3b5923f0796b ("rds: fix memory leak error")

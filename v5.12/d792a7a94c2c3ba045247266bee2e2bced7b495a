@@ -1,0 +1,6 @@
+d792a7a94c2c ("perf session: Check for NULL pointer before dereference")
+83869019c74c ("perf arch: Support register names from all archs")
+83e1ada67a59 ("perf powerpc: Add support to expose instruction and data address registers as part of extended regs")
+637b8b90fe0d ("perf powerpc: Refactor the code definition of perf reg extended mask in tools side header file")
+dea8cfcc3369 ("perf script python: Fix buffer size to report iregs in perf script")
+b5f184fbdb03 ("perf tools: Support MIPS unwinding and dwarf-regs")

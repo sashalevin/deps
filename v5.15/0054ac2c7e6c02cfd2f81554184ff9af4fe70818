@@ -1,0 +1,8 @@
+0054ac2c7e6c ("drm/msm: don't store created planes, connectors and encoders")
+fa560afaaed9 ("drm/msm: loop over encoders using drm_for_each_encoder()")
+745b51585a6c ("drm/msm/dpu: remove manual destruction of DRM objects")
+5e602f515691 ("drm/msm/dp: populate connector of struct dp_panel")
+8a3b4c17f863 ("drm/msm/dp: employ bridge mechanism for display enable and disable")
+bb3de286d992 ("drm/msm/dp: Support up to 3 DP controllers")
+269e92d84cd2 ("drm/msm/dp: Allow specifying connector_type per controller")
+167dac97eb46 ("drm/msm/dp: Modify prototype of encoder based API")

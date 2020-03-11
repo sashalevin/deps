@@ -1,0 +1,4 @@
+76fbad410c0f ("spi: s3c64xx: Use the managed spi master allocation function")
+20c475d21ed9 ("spi: s3c64xx: Use devm_clk_get_enabled()")
+f52b03c70744 ("spi: s3c64xx: requests spi-dma channel only during data transfer")
+df1b01417885 ("spi: s3c64xx: Use dma_request_chan() directly for channel request")

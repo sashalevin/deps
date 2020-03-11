@@ -1,0 +1,5 @@
+463d4c74bffd ("tty: remove TTY_SOFT_SAK part from __do_SAK()")
+c8bcd9c5be24 ("tty: Fix ->session locking")
+54ffccbf053b ("tty: Fix ->pgrp locking in tiocspgrp()")
+a1235b3eb100 ("tty: split job control support into a file of its own")
+fff0a2ca3a06 ("tty: move baudrate handling code to a file of its own")

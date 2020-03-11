@@ -1,0 +1,8 @@
+c3544f6f51ed ("rtc: isl1208: Add new style nvmem support to driver")
+ed3c52a075e9 ("rtc: isl1208: Introduce driver state struct")
+1b4c794fda58 ("rtc: isl1208: avoid possible sysfs race")
+9ece7cd833a3 ("rtc: isl1208: Add "evdet" interrupt source for isl1219")
+dd35bdb0768f ("rtc: isl1208: add support for isl1219 with tamper detection")
+236b7187034e ("rtc: isl1208: switch to rtc_register_device")
+9d327c2d9291 ("rtc: isl1208: enable interrupt after context preparation")
+038355040235 ("rtc: isl1208: Add OF device ID table")

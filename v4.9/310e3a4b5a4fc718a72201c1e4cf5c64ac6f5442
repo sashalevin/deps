@@ -1,0 +1,5 @@
+310e3a4b5a4f ("tracing: Remove WARN_ON in start_thread()")
+978defee11a5 ("tracing: Do a WARN_ON() if start_thread() in hwlat is called when thread exists")
+82fbc8c48adf ("ftrace: Add missing check for existing hwlat thread")
+f447c196fe7a ("tracing: Clean up the hwlat binding code")
+79c6f448c8b7 ("tracing: Fix hwlat kthread migration")

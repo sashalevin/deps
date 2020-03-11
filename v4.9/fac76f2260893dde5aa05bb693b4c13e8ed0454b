@@ -1,0 +1,7 @@
+fac76f226089 ("crypto: arm64/gcm - Select AEAD for GHASH_ARM64_CE")
+fe3b99b64909 ("crypto: arm64/ghash - switch to AES library")
+c2b24c36e0a3 ("crypto: arm64/aes-gcm-ce - fix scatterwalk API violation")
+30f1a9f53e77 ("crypto: arm64/aes-ce-gcm - don't reload key schedule if avoidable")
+e0bd888dc487 ("crypto: arm64/aes-ce-gcm - implement 2-way aggregation")
+71e52c278c54 ("crypto: arm64/aes-ce-gcm - operate on two input blocks at a time")
+3465893d274e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

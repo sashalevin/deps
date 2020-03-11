@@ -1,0 +1,4 @@
+e988e5ec18d6 ("proc: Simplify task stack retrieval")
+5d008fb414f7 ("proc: use "unsigned int" for /proc/*/stack")
+8f5abe842e84 ("proc: don't report kernel addresses in /proc/<pid>/stack")
+8b927d734122 ("proc: Fix return address printk conversion specifer in /proc/<pid>/stack")

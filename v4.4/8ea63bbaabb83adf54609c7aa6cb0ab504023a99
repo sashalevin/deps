@@ -1,0 +1,6 @@
+8ea63bbaabb8 ("drivers: net: davinci_mdio: implement pm runtime auto mode")
+651652aace74 ("drivers: net: davinci_mdio: add pm runtime callbacks")
+28f0ccb9958f ("drivers: net: davinci_mdio: split reset function on init_clk and enable")
+a01d7baa1f2e ("drivers: net: davinci_mdio: drop suspended and lock fields from mdio_data")
+3f655909e124 ("drivers: net: davinci_mdio: remove pm runtime calls from suspend callbacks")
+909892a647fe ("drivers: net: davinci_mdio: do pm runtime initialization later in probe")

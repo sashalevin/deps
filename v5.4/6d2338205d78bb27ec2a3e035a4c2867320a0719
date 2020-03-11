@@ -1,0 +1,7 @@
+6d2338205d78 ("net: dpaa: no need to make sure all CPUs receive a corresponding Tx queue")
+e7072750bbcb ("net: dpaa: eliminate NR_CPUS dependency in egress_fqs[] and conf_fqs[]")
+555a05d84ca2 ("net: dpaa: avoid on-stack arrays of NR_CPUS elements")
+a3f9dd70bfcc ("net: dpaa: reject unsupported coalescing params")
+060ad66f9795 ("dpaa_eth: change DMA device")
+1076aaeeeacf ("dpaa_eth: remove redundant code")
+5537b3298576 ("dpaa_eth: defer probing after qbman")

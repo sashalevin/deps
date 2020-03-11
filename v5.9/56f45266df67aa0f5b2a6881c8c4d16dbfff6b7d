@@ -1,0 +1,8 @@
+56f45266df67 ("pwm: xilinx: Fix u32 overflow issue in 32-bit width PWM mode.")
+bc1ce713a084 ("pwm: Add support for Xilinx AXI Timer")
+a2bc9b21fd3f ("pwm: Remove ZTE ZX driver")
+71d4b833da7f ("pwm: Fix dependencies on HAS_IOMEM")
+269effd03f61 ("pwm: zx: Add missing cleanup in error path")
+bde048ebbd27 ("pwm: zx: Convert to devm_platform_ioremap_resource()")
+db8230d29c3a ("ARM: s5pv210: don't imply CONFIG_PLAT_SAMSUNG")
+cb6c03019cdd ("ARM: exynos: stop selecting PLAT_SAMSUNG")

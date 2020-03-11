@@ -1,0 +1,7 @@
+0d9e699d3421 ("net: tls: Pass union tls_crypto_context pointer to memzero_explicit")
+5f309ade49c7 ("tls: get crypto_info size from tls_cipher_desc in do_tls_setsockopt_conf")
+62e56ef57c04 ("net: tls: Add ARIA-GCM algorithm")
+1ddcbfbf9dc9 ("net/tls: remove unnecessary jump instructions in do_tls_setsockopt_conf()")
+227b9644ab16 ("net/tls: support SM4 GCM/CCM algorithm")
+74ea610602e6 ("net/tls: add CHACHA20-POLY1305 configuration")
+923c40c4651e ("net/tls: add CHACHA20-POLY1305 specific defines and structures")

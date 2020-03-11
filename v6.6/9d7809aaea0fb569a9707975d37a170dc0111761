@@ -1,0 +1,6 @@
+9d7809aaea0f ("counter: stm32-timer-cnt: Use TIM_DIER_CCxIE(x) instead of TIM_DIER_CCxIE(x)")
+1aed15275b7c ("counter: stm32-timer-cnt: add support for capture events")
+2c70ccd45985 ("counter: stm32-timer-cnt: add support for overflow events")
+f7630270b678 ("counter: stm32-timer-cnt: probe number of channels from registers")
+29646ee33cc3 ("counter: stm32-timer-cnt: add checks on quadrature encoder capability")
+b73d03b34742 ("counter: stm32-timer-cnt: add counter prescaler extension")

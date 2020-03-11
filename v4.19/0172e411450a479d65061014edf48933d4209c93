@@ -1,0 +1,8 @@
+0172e411450a ("thunderbolt: Poll 10ms for REG_FW_STS_NVM_AUTH_DONE to be set")
+49f2a7f4cdac ("thunderbolt: Use bit 31 to check if Firmware CM is running in Tiger Lake")
+57d8df68eb53 ("thunderbolt: Add support for Intel Tiger Lake")
+3cdb9446a117 ("thunderbolt: Add support for Intel Ice Lake")
+f437c24bf694 ("thunderbolt: Move NVM upgrade support flag to struct icm")
+1752b9f78713 ("thunderbolt: Rename tunnel_pci to tunnel")
+a9be55824a10 ("thunderbolt: Move LC specific functionality into a separate file")
+2cc12751cf46 ("thunderbolt: Fix to check for kmemdup failure")

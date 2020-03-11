@@ -1,0 +1,5 @@
+cb8d50dfb341 ("drm/i915: Fixup userptr mmu notifier registration error handling")
+7741b547b6e0 ("drm/i915: Preallocate our mmu notifier workequeu to unbreak cpu hotplug deadlock")
+f470b19095c2 ("drm/i915/userptr: Store i915 backpointer for i915_mm_struct")
+393afc2c3fda ("drm/i915/userptr: Flush cancellations before mmu-notifier invalidate returns")
+768e159f433c ("drm/i915: Improve handling of overlapping objects")

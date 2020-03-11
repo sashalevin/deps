@@ -1,0 +1,6 @@
+3b4fa67fc666 ("perf intel-pt: Use get_unaligned_le16() etc")
+26fb2fb19c28 ("perf intel-pt: Add reserved byte to CBR packet payload")
+a472e65fc490 ("perf intel-pt: Add decoder support for ptwrite and power event packets")
+839598176b05 ("perf intel-pt: Allow decoding with branch tracing disabled")
+6a558f12dbe8 ("perf intel-pt: Clear FUP flag on error")
+7ea6856d6f56 ("perf intel-pt: Use __fallthrough")

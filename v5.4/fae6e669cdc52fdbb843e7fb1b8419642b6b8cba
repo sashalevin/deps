@@ -1,0 +1,8 @@
+fae6e669cdc5 ("drm/tegra: Do not assume that a NULL domain means no DMA IOMMU")
+fa6661b7aa0b ("drm/tegra: Optionally attach clients to the IOMMU")
+7edd7961e58d ("drm/tegra: Simplify IOMMU group selection")
+a7303f773571 ("drm/tegra: Do not use ->load() and ->unload() callbacks")
+aacdf1984973 ("drm/tegra: Move IOMMU group into host1x client")
+7baa943e0bb2 ("drm/tegra: vic: Use common IOMMU attach/detach code")
+0301196b5719 ("drm/tegra: Use DRM_DEBUG_DRIVER for driver messages")
+051172e8c1ce ("drm/tegra: Fix ordering of cleanup code")

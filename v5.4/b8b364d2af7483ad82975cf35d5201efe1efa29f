@@ -1,0 +1,5 @@
+b8b364d2af74 ("ubd: move setting the nonrot flag to ubd_add")
+35efb594c3a8 ("ubd: use blk_mq_alloc_disk and blk_cleanup_disk")
+7eb90f7e90a8 ("ubd: remove the code to register as the legacy IDE driver")
+ef3ba87cb7c9 ("um: ubd: Set device serial attribute from cmdline")
+fc6b6a872dcd ("um: ubd: Submit all data segments atomically")

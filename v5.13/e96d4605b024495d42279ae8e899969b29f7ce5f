@@ -1,0 +1,5 @@
+e96d4605b024 ("mtd: spi-nor: Prepare the introduction of a new locking mechanism")
+c154dbd28003 ("mtd: spi-nor: Separate preparation and locking")
+320463477235 ("mtd: spi-nor: Reorder the preparation vs. locking steps")
+c6ec3e1e3a85 ("mtd: spi-nor: otp: implement erase for Winbond and similar flashes")
+388161ca45c9 ("mtd: spi-nor: otp: return -EROFS if region is read-only")

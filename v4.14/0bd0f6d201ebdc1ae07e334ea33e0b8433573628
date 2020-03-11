@@ -1,0 +1,5 @@
+0bd0f6d201eb ("usb: dwc3: gadget: remove allocated/queued request tracking")
+66f5dd5a0379 ("usb: dwc3: gadget: rename done_trbs and done_reqs")
+fbea935accf4 ("usb: dwc3: gadget: rename dwc3_endpoint_transfer_complete()")
+c91815b59624 ("usb: dwc3: gadget: never call ->complete() from ->ep_queue()")
+502a37b98a7b ("usb: dwc3: gadget: cache frame number in struct dwc3_ep")

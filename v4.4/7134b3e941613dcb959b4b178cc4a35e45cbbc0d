@@ -1,0 +1,7 @@
+7134b3e94161 ("sched/core: Add ENQUEUE_NOCLOCK to ENQUEUE_RESTORE")
+bb3bac2ca9a3 ("sched/core: Remove unlikely() annotation from sched_move_task()")
+b2bf6c314e3a ("sched/fair: Introduce set_curr_task() helper")
+a399d233078e ("sched/core: Fix incorrect utilization accounting when switching to fair class")
+eb58075149b7 ("sched/core: Introduce 'struct rq_flags'")
+3e71a462dd48 ("sched/core: Move task_rq_lock() out of line")
+ff77e4685359 ("sched/rt: Fix PI handling vs. sched_setscheduler()")

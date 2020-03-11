@@ -1,0 +1,6 @@
+8a7a61032587 ("gpiolib: Get rid of never false gpio_is_valid() calls")
+7fe595b3c3cf ("gpio: don't dereference gdev->chip in gpiochip_setup_dev()")
+5694f274a060 ("gpio: sysfs: don't access gdev->chip if it's not needed")
+b93bca4bd6d2 ("gpio: sysfs: pass the GPIO device - not chip - to sysfs callbacks")
+d23dc4a9a88f ("gpio: provide and use gpiod_get_label()")
+e348544f7994 ("gpio: protect the list of GPIO devices with SRCU")

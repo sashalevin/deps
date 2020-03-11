@@ -1,0 +1,3 @@
+a8d5fdd4d270 ("raid10: avoid spin_lock from fastpath from raid10_unplug()")
+9efcc2c3df76 ("md/raid1-10: don't handle pluged bio by daemon thread")
+5ec6ca140a03 ("md/raid1-10: factor out a helper to add bio to plug")

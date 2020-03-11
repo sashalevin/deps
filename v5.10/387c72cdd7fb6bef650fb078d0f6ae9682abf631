@@ -1,0 +1,7 @@
+387c72cdd7fb ("PCI/ERR: Retain status from error notification")
+05e9ae19ab83 ("PCI/ERR: Add pci_walk_bridge() to pcie_do_recovery()")
+0791721d8007 ("PCI/ERR: Use "bridge" for clarity in pcie_do_recovery()")
+480ef7cb9fce ("PCI/ERR: Simplify by computing pci_pcie_type() once")
+5d69dcc9f839 ("PCI/ERR: Simplify by using pci_upstream_bridge()")
+8f1bbfbc3596 ("PCI/ERR: Rename reset_link() to reset_subordinates()")
+c9d659b60770 ("PCI/ERR: Bind RCEC devices to the Root Port driver")

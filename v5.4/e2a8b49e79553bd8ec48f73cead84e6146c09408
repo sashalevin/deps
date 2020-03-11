@@ -1,0 +1,4 @@
+e2a8b49e7955 ("powerpc/uaccess: Don't use "m<>" constraint")
+334710b1496a ("powerpc/uaccess: Implement unsafe_put_user() using 'asm goto'")
+d02f6b7dab82 ("powerpc/uaccess: Evaluate macro arguments once, before user access is allowed")
+5cd623333e7c ("powerpc: Implement user_access_begin and friends")

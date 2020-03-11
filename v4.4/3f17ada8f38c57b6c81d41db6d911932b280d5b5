@@ -1,0 +1,5 @@
+3f17ada8f38c ("iio: imu: adis: add unlocked __adis_initial_startup()")
+cb5a07f1f15c ("iio: imu: adis: protect initial startup routine with state lock")
+6a4d6a7d6588 ("iio: imu: adis: create an unlocked version of adis_check_status()")
+6a39ab3b195c ("iio: imu: adis: check ret val for non-zero vs less-than-zero")
+af8a41271b56 ("iio:adis: Add support for manual self-test flag clear")

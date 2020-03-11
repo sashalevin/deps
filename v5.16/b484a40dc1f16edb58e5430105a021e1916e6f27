@@ -1,0 +1,8 @@
+b484a40dc1f1 ("io_uring: fix IO hang in io_wq_put_and_exit from do_exit()")
+ed29b0b4fd83 ("io_uring: move to separate directory")
+3cc7fdb9f90a ("io_uring: fix not released cached task refs")
+f28c240e7152 ("io_uring: batch completion in prior_task_list")
+9f8d032a364b ("io_uring: add helper for task work execution code")
+4813c3779261 ("io_uring: add a priority tw list for irq completion work")
+a90c8bf65906 ("io_uring: reuse io_req_task_complete for timeouts")
+06bdea20c107 ("io_uring: simplify reissue in kiocb_done")

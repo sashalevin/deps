@@ -1,0 +1,7 @@
+2e42b7f817ac ("f2fs: stop allocating pinned sections if EAGAIN happens")
+7dede88659df ("f2fs: fix to allow migrating fully valid segment")
+34178b1bc4b5 ("f2fs: fix compat F2FS_IOC_{MOVE,GARBAGE_COLLECT}_RANGE")
+e1e8debec656 ("f2fs: add F2FS_IOC_SET_COMPRESS_OPTION ioctl")
+9e2a5f8cfb4d ("f2fs: add F2FS_IOC_GET_COMPRESS_OPTION ioctl")
+fa4320cefb85 ("f2fs: move ioctl interface definitions to separated file")
+de881df97768 ("f2fs: support zone capacity less than zone size")

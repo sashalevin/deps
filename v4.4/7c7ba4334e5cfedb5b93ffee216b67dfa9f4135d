@@ -1,0 +1,8 @@
+7c7ba4334e5c ("mmc: sdhci-iproc: Add ACPI support")
+c833e92bbb60 ("mmc: sdhci-iproc: support standard byte register accesses")
+fa243f645af7 ("mmc: sdhci-pltfm: Drop define for SDHCI_PLTFM_PMOPS")
+2b33099996a2 ("mmc: sdhci-pltfm: Convert to use the SET_SYSTEM_SLEEP_PM_OPS")
+21b8fe0f0702 ("mmc: sdhci-pltfm: Make sdhci_pltfm_suspend|resume() static")
+77cb7d3a4d9b ("mmc: sdhci-iproc: add bcm2835 support")
+9f24b0f2542f ("mmc: sdhci-iproc: Actually enable the clock")
+1d6ad05777c2 ("mmc: sdhci-iproc: Clean up platform allocations if shdci init fails")

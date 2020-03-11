@@ -1,0 +1,8 @@
+0b779b61f651 ("bpf: Add cookies support for uprobe_multi link")
+89ae89f53d20 ("bpf: Add multi uprobe link")
+3505cb9fa26c ("bpf: Add attach_type checks under bpf_prog_attach_check_attach_type")
+91721c2d02d3 ("netfilter: bpf: Support BPF_F_NETFILTER_IP_DEFRAG in netfilter link")
+e420bed02507 ("bpf: Add fd-based tcx multi-prog infra with link support")
+053c8e1f235d ("bpf: Add generic attach/detach/query API for multi-progs")
+1b715e1b0ec5 ("bpf: Support ->fill_link_info for perf_event")
+7ac8d0d26192 ("bpf: Support ->fill_link_info for kprobe_multi")

@@ -1,0 +1,6 @@
+4ececeb83986 ("IB/hfi1: Remove open coded reference to skb frag offset")
+c9358de193ec ("IB/hfi1: Fix wrong mmu_node used for user SDMA packet after invalidate")
+00cbce5cbf88 ("IB/hfi1: Fix bugs with non-PAGE_SIZE-end multi-iovec user SDMA requests")
+9fe8fec5e43d ("IB/hfi1: Fix SDMA mmu_rb_node not being evicted in LRU order")
+fd8958efe877 ("IB/hfi1: Fix sdma.h tx->num_descs off-by-one errors")
+f86dbc9fc5d8 ("IB/hfi1: Use bitmap_zalloc() when applicable")

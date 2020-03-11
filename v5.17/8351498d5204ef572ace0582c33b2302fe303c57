@@ -1,0 +1,4 @@
+8351498d5204 ("perf bench futex: Avoid memory leaks from pthread_attr")
+a64d3af5d9ec ("perf bench: Update use of pthread mutex/cond")
+8cb7a188ac33 ("perf bench: Fix numa testcase to check if CPU used to bind task is online")
+c9c2a427dd9f ("perf bench: Fix futex bench to correct usage of affinity for machines with #CPUs > 1K")

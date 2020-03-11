@@ -1,0 +1,5 @@
+5d87510de15f ("mm/vmalloc: add vmap_range_noflush variant")
+5e9e3d777b99 ("mm: move vmap_range from mm/ioremap.c to mm/vmalloc.c")
+bbc180a5adb0 ("mm: HUGE_VMAP arch support cleanup")
+95f0ddf081af ("mm/ioremap: rename ioremap_*_range to vmap_*_range")
+85a144632dcc ("mm/debug_vm_pgtables/hugevmap: use the arch helper to identify huge vmap support.")

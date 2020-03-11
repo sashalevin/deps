@@ -1,0 +1,5 @@
+8676caa4fb7f ("s390/topology: correct allocation of topology information")
+8c9105802235 ("s390/numa: establish cpu to node mapping early")
+30fc4ca2a8ab ("s390/topology: use cpu_topology array instead of per cpu variable")
+af51160ebd3c ("s390/smp: initialize cpu_present_mask in setup_arch")
+ebb299a51059 ("s390/topology: always use s390 specific sched_domain_topology_level")

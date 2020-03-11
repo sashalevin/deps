@@ -1,0 +1,3 @@
+88aa7cc688d4 ("mm: introduce arg_lock to protect arg_start|end and env_start|end in mm_struct")
+a3b609ef9f8b ("proc read mm's {arg,env}_{start,end} with mmap semaphore taken.")
+ddf1d398e517 ("prctl: take mmap sem for writing to protect against others")

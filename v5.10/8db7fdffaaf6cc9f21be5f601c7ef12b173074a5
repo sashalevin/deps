@@ -1,0 +1,5 @@
+8db7fdffaaf6 ("pwm: Switch back to struct platform_driver::remove()")
+fed5d59d82dd ("pwm: omap-dmtimer: Convert to platform remove callback returning void")
+1b6d6ce5a5f3 ("pwm: hibvt: Convert to platform remove callback returning void")
+901f8f5404f1 ("pwm: Add clock based PWM output driver")
+04d775210fb9 ("pwm: hibvt: Disable the clock only after the PWM was unregistered")

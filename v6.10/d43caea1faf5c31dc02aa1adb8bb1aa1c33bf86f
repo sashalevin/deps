@@ -1,0 +1,8 @@
+d43caea1faf5 ("drm/i915/fbc: Extract intel_fbc_cfb_cpp()")
+6a1738b3fdd9 ("drm/i915/fbc: Extract _intel_fbc_cfb_stride()")
+6c9ee258b1f4 ("drm/i915/fbc: s/_intel_fbc_cfb_stride()/intel_fbc_plane_cfb_stride()/")
+fd5a9b950ea8 ("drm/i915/fbc: Convert to intel_display, mostly")
+bc34d310b578 ("drm/i915/fbc: Extract intel_fbc_has_fences()")
+355d210aad94 ("drm/i915/display: update handling of FBC when VT-d active workaround")
+54599011b756 ("drm/i915/psr: Do not apply workarounds in case of panel replay")
+1e52db8a439b ("drm/i915/psr: Rename has_psr2 as has_sel_update")

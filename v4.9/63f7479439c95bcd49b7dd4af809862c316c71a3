@@ -1,0 +1,5 @@
+63f7479439c9 ("scsi: target/core: Fix a race condition in the LUN lookup code")
+eeb64d239ea6 ("target: Add support for TMR percpu reference counting")
+bd4e2d2907fa ("target: Fix NULL dereference during LUN lookup + active I/O shutdown")
+4f4c6c3ddb15 ("target: Remove se_tmr_req.tmr_lun")
+c54eeffbe933 ("target: Fix early transport_generic_handle_tmr abort scenario")

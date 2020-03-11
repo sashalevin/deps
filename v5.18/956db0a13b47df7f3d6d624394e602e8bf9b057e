@@ -1,0 +1,6 @@
+956db0a13b47 ("net: warn about attempts to register negative ifindex")
+759ab1edb56c ("net: store netdevs in an xarray")
+02a68a47eade ("net: devlink: track netdev with devlink_port assigned")
+30bab7cdb56d ("net: devlink: make sure that devlink_try_get() works with valid pointer during xarray iteration")
+cc26c2661fef ("net: fix data-race in dev_isalive()")
+c246f9b5fd61 ("devlink: add support to create line card and expose to user")

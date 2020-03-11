@@ -1,0 +1,5 @@
+6bce30c7d927 ("KVM: nVMX: Use vmx local var for referencing vpid02")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")
+f0b98c02c18a ("kvm: vmx: Don't use INVVPID when EPT is enabled")
+fb6c81984313 ("kvm: vmx: Flush TLB when the APIC-access address changes")
+bcdde302b826 ("KVM: nVMX: invvpid handling improvements")

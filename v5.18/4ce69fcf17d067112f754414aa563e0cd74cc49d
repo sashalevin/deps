@@ -1,0 +1,4 @@
+4ce69fcf17d0 ("s390/checksum: call instrument_read() instead of kasan_check_read()")
+11018ef90ce7 ("s390/checksum: remove not needed uaccess.h include")
+e42ac7789df6 ("s390/checksum: always use cksm instruction")
+dfe843dce775 ("s390/checksum: support GENERIC_CSUM, enable it for KASAN")

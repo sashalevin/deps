@@ -1,0 +1,7 @@
+35d67ee3e9c9 ("drm/ttm: Use init_on_free to delay release TTM BOs")
+9bff18d13473 ("drm/ttm: use per BO cleanup workers")
+cd3a8a596214 ("drm/ttm: remove ttm_bo_(un)lock_delayed_workqueue")
+5aea37bf4112 ("drm/i915: un-inline i915_gem_drain_freed_objects()")
+230bb131a614 ("drm/i915: un-inline i915_gem_drain_workqueue()")
+2826d447fbd6 ("drm/i915/gem: Remove shared locking on freeing objects")
+00df0514ab13 ("Merge tag 'amd-drm-next-5.19-2022-05-18' of https://gitlab.freedesktop.org/agd5f/linux into drm-next")

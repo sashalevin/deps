@@ -1,0 +1,5 @@
+e5b306a08298 ("mm/swap: avoid a xa load for swapout path")
+a4c366f01f10 ("mm/swap: convert add_to_swap_cache() to take a folio")
+a0d3374b0707 ("mm/swap: convert __read_swap_cache_async() to use a folio")
+f530ed0e2d01 ("shmem: convert shmem_writepage() to use a folio throughout")
+442701e7058b ("mm/swap: remove swap_cache_info statistics")

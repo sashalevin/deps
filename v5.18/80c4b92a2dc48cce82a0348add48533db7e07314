@@ -1,0 +1,6 @@
+80c4b92a2dc4 ("vfio: Introduce the DMA logging feature support")
+8e5c6995113d ("vfio: Increment the runtime PM usage count during IOCTL call")
+6e97eba8ad87 ("vfio: Split migration ops from main device ops")
+91be0bd6c6cf ("vfio/pci: Have all VFIO PCI drivers store the vfio_pci_core_device in drvdata")
+8580ad14f939 ("vfio/mlx5: Refactor to enable VFs migration in parallel")
+61a2f1460fd0 ("vfio/mlx5: Manage the VF attach/detach callback from the PF")

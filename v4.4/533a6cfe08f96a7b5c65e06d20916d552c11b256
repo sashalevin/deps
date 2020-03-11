@@ -1,0 +1,7 @@
+533a6cfe08f9 ("mmc: core: Default to generic_cmd6_time as timeout in __mmc_switch()")
+716bdb8953c7 ("mmc: core: Factor out code related to polling in __mmc_switch()")
+cb26ce069ffa ("mmc: core: Clarify code which deals with polling in __mmc_switch()")
+20348d1981da ("mmc: core: Make mmc_switch_status() available for mmc core")
+987aa5f80596 ("mmc: mmc: fix switch timeout issue caused by jiffies precision")
+87a18a6a5652 ("mmc: mmc: Use ->card_busy() to detect busy cards in __mmc_switch()")
+3bbb0deea6d5 ("mmc: core: fix __mmc_switch timeout caused by preempt")

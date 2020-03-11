@@ -1,0 +1,7 @@
+a67efff28832 ("xen-pciback: allow compiling on other archs than x86")
+cae7d81a3730 ("xen/x86: allow PVH Dom0 without XEN_PV=y")
+34aff14580d1 ("xen: Remove Xen PVH/PVHVM dependency on PCI")
+70b59379efc3 ("x86/xen: Consolidate XEN-MSI init")
+7d4d892de6e7 ("x86/xen: Rework MSI teardown")
+60369a4f8d61 ("x86/PCI: Drop unused xen_register_pirq() gsi_override parameter")
+e221065aa613 ("xen/mcelog: also allow building for 32-bit kernels")

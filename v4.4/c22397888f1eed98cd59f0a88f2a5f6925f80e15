@@ -1,0 +1,6 @@
+c22397888f1e ("exec: make de_thread() freezable")
+780de9dd2720 ("sched/headers, cgroups: Remove the threadgroup_change_*() wrappery")
+c65eacbe290b ("sched/core: Allow putting thread_info into task_struct")
+568ac888215c ("cgroup: reduce read locked section of cgroup_threadgroup_rwsem during fork")
+b44a7dfc6fa1 ("vfs: define a generic function to read a file from the kernel")
+b53202e63089 ("cgroup: kill cgrp_ss_priv[CGROUP_CANFORK_COUNT] and friends")

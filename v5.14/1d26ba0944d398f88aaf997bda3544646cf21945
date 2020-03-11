@@ -1,0 +1,4 @@
+1d26ba0944d3 ("usb: dwc3: Wait unconditionally after issuing EndXfer command")
+d8a2bb4eb758 ("usb: dwc3: gadget: Add 1ms delay after end transfer command without IOC")
+e192cc7b5239 ("usb: dwc3: gadget: move cmd_endtransfer to extra function")
+d74dc3e9f58c ("usb: dwc3: gadget: Ignore NoStream after End Transfer")

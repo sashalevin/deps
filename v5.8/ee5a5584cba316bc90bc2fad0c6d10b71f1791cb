@@ -1,0 +1,3 @@
+ee5a5584cba3 ("KVM: VMX: Invert handling of CR0.WP for EPT without unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")

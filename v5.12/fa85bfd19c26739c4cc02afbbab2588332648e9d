@@ -1,0 +1,6 @@
+fa85bfd19c26 ("drm/i915: Update the helper to set correct mapping")
+e09e903a6e89 ("drm/i915/selftests: Prepare execlists and lrc selftests for obj->mm.lock removal")
+17b7ab92bec3 ("drm/i915/selftests: Prepare hangcheck for obj->mm.lock removal")
+d3ad29567d4e ("drm/i915/selftests: Prepare context selftest for obj->mm.lock removal")
+c858ffa17716 ("drm/i915: Lock ww in ucode objects correctly")
+c05258889ed4 ("drm/i915: Add igt_spinner_pin() to allow for ww locking around spinner.")

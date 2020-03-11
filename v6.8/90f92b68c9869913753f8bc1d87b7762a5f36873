@@ -1,0 +1,3 @@
+90f92b68c986 ("pidfd: kill the no longer needed do_notify_pidfd() in de_thread()")
+64bef697d33b ("pidfd: implement PIDFD_THREAD flag for pidfd_open()")
+21e25205d7f9 ("pidfd: don't do_notify_pidfd() if !thread_group_empty()")

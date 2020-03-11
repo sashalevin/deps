@@ -1,0 +1,6 @@
+c060f93253ca ("arm64: stacktrace: fix the usage of ftrace_graph_ret_addr()")
+1beef60e7d6b ("arm64: stacktrace: factor out kernel unwind state")
+ca708599ca43 ("arm64: use XPACLRI to strip PAC")
+9df3f5082ff9 ("arm64: avoid redundant PAC stripping in __builtin_return_address()")
+b5ecc19e684e ("arm64: stacktrace: always inline core stacktrace functions")
+9e09d445f1ca ("arm64: stacktrace: recover return address for first entry")

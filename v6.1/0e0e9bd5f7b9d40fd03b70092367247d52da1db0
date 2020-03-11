@@ -1,0 +1,4 @@
+0e0e9bd5f7b9 ("madvise:madvise_free_pte_range(): don't use mapcount() against large folio for sharing check")
+f3cd4ab0aabf ("mm/madvise: clean up pte_offset_map_lock() scans")
+07e8c82b5eff ("madvise: convert madvise_cold_or_pageout_pte_range() to use folios")
+fd3b1bc3c86e ("mm/madvise: fix madvise_pageout for private file mappings")

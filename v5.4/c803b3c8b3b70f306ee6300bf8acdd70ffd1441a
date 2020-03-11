@@ -1,0 +1,5 @@
+c803b3c8b3b7 ("mm: introduce memmap_alloc() to unify memory map allocation")
+0ac398b171aa ("mm: support memblock alloc on the exact node for sparse_buffer_init()")
+68265390f9aa ("mm, pcpu: make zone pcp updates and reset internal to the mm")
+09dbcf422e9b ("mm/sparse.c: do not waste pre allocated memmap space")
+4c29700ed990 ("mm/sparse: consistently do not zero memmap")

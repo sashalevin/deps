@@ -1,0 +1,8 @@
+7061b6af3468 ("iommu/virtio: Return size mapped for a detached domain")
+7e62edd7a33a ("iommu/virtio: Add map/unmap_pages() callbacks implementation")
+9a630a4b41a2 ("iommu: Split struct iommu_ops")
+241469685d8d ("iommu/vt-d: Remove aux-domain related callbacks")
+989192ac6ad5 ("iommu/vt-d: Remove guest pasid related callbacks")
+c0c763598960 ("iommu/virtio: Pass end address to viommu_add_mapping()")
+00ecd5401349 ("iommu/vt-d: Clean up unused PASID updating functions")
+94f797ad61d3 ("iommu/vt-d: Delete dev_has_feat callback")

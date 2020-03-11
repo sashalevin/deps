@@ -1,0 +1,7 @@
+a7ef9b455c7c ("KVM: x86: hyper-v: fix type of valid_bank_mask")
+9c52f6b3d8c0 ("KVM: x86: Shove vp_bitmap handling down into sparse_set_to_vcpu_mask()")
+79661c3766f8 ("KVM: x86: Don't bother reading sparse banks that end up being ignored")
+a0dd008fe9b2 ("KVM: x86: Add a helper to get the sparse VP_SET for IPIs and TLB flushes")
+25af9081189b ("KVM: x86: Refactor kvm_hv_flush_tlb() to reduce indentation")
+bd1ba5732bb9 ("KVM: x86: Get the number of Hyper-V sparse banks from the VARHEAD field")
+855fb0384a3d ("Merge remote-tracking branch 'kvm/master' into HEAD")

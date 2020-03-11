@@ -1,0 +1,5 @@
+a46410d5e497 ("libbpf: Constify few bpf_program getters")
+f1eead9e3cee ("libbpf: Add bpf_program__get_{type, expected_attach_type) APIs")
+2ce8450ef5a3 ("libbpf: add bpf_object__open_{file, mem} w/ extensible opts")
+5e61f2707029 ("libbpf: stop enforcing kern_version, populate it for users")
+03bd4773d898 ("libbpf: Bump current version to v0.0.6")

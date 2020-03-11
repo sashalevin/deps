@@ -1,0 +1,4 @@
+0e4bc271110e ("mm/vmalloc: replace the ternary conditional operator with min()")
+4c91c07c93bb ("mm: vmalloc: convert vread() to vread_iter()")
+46c0d6d0904a ("fs/proc/kcore: convert read_kcore() to read_kcore_iter()")
+2e1c0170771e ("fs/proc/kcore: avoid bounce buffer for ktext data")

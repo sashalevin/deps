@@ -1,0 +1,5 @@
+5f76d4211ee4 ("ACPI: NUMA: replace pr_info with pr_debug in arch_acpi_numa_init")
+ae3c107cd8be ("numa: Move numa implementation to common code")
+eb75541f8b45 ("arm64, numa: Change the numa init functions name to be generic")
+a194c5f2d2b3 ("arm64/mm: return cpu_all_mask when node is NUMA_NO_NODE")
+618e07865b74 ("arm64: mm: reserve hugetlb CMA after numa_init")

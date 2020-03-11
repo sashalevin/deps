@@ -1,0 +1,4 @@
+954a0881a9d4 ("tty: clean up whitespace in __do_SAK()")
+c8bcd9c5be24 ("tty: Fix ->session locking")
+54ffccbf053b ("tty: Fix ->pgrp locking in tiocspgrp()")
+a8ebd17160ce ("tty_io: Use group_send_sig_info in __do_SACK to note it is a session being killed")

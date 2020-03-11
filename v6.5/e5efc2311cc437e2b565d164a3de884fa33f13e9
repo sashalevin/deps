@@ -1,0 +1,8 @@
+e5efc2311cc4 ("net/mlx5: Use cpumask_local_spread() instead of custom code")
+54c5297801f3 ("net/mlx5: Handle SF IRQ request in the absence of SF IRQ pool")
+f3147015fa07 ("net/mlx5: Add IRQ vector to CPU lookup function")
+ddd2c79da020 ("net/mlx5: Introduce mlx5_cpumask_default_spread")
+54b2cf41b853 ("net/mlx5: Refactor completion IRQ request/release handlers in EQ layer")
+c8a0245c3937 ("net/mlx5: Use xarray to store and manage completion IRQs")
+a1772de78d73 ("net/mlx5: Refactor completion IRQ request/release API")
+18cf3d31f829 ("net/mlx5: Track the current number of completion EQs")

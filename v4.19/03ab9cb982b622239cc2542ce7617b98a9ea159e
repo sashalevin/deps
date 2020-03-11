@@ -1,0 +1,7 @@
+03ab9cb982b6 ("cifs: Deal with some warnings from W=1")
+340625e618e1 ("cifs: replace various strncpy with strscpy and similar")
+b98749cac4a6 ("CIFS: keep FileInfo handle live during oplock break")
+7b9b9edb49ad ("CIFS: Do not reset lease state to NONE on lease break")
+a3a53b760379 ("cifs: Add support for failover in smb2_reconnect()")
+1c780228e9d4 ("cifs: Make use of DFS cache to get new DFS referrals")
+8393072bab06 ("CIFS: make 'nodfs' mount opt a superblock flag")

@@ -1,0 +1,7 @@
+78e9e56af385 ("kbuild: record symbol versions in *.cmd files")
+8017ce50641c ("kbuild: refactor cmd_modversions_c")
+ef62588c2c86 ("kbuild: detect objtool update without using .SECONDEXPANSION")
+918a6b7f6846 ("kbuild: factor out OBJECT_FILES_NON_STANDARD check into a macro")
+92594d569b6d ("kbuild: store the objtool command in *.cmd files")
+5c4859e77aa1 ("kbuild: rename __objtool_obj and reuse it for cmd_cc_lto_link_modules")
+8f0c32c788ff ("kbuild: move objtool_args back to scripts/Makefile.build")

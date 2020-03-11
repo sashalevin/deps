@@ -1,0 +1,8 @@
+06e78b614e37 ("kernel/fork: convert vma assignment to a memcpy")
+cda099b37d71 ("fork: Annotate a data race in vm_area_dup()")
+95faf6992df4 ("mm: make vm_area_dup() actually copy the old vma data")
+3928d4f5ee37 ("mm: use helper functions for allocating and freeing vm_area structs")
+6aa7de059173 ("locking/atomics: COCCINELLE/treewide: Convert trivial ACCESS_ONCE() patterns to READ_ONCE()/WRITE_ONCE()")
+656710a60e36 ("userfaultfd: non-cooperative: closing the uffd without triggering SIGBUS")
+d2cd9ede6e19 ("mm,fork: introduce MADV_WIPEONFORK")
+f32c9e059eb6 ("Merge branch 'parisc-4.14-1' of git://git.kernel.org/pub/scm/linux/kernel/git/deller/parisc-linux")

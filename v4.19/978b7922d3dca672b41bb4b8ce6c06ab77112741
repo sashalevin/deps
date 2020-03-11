@@ -1,0 +1,4 @@
+978b7922d3dc ("scsi: core: Fix a race between scsi_done() and scsi_timeout()")
+f1342709d18a ("scsi: Do not rely on blk-mq for double completions")
+f664a3cc17b7 ("scsi: kill off the legacy IO path")
+3a7ea2c483a5 ("scsi: provide mq_ops->busy() hook")

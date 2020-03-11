@@ -1,0 +1,6 @@
+4f7799d96e66 ("genirq/irqchip: Remove MULTI_IRQ_HANDLER as it's now obselete")
+08fb550cb3f8 ("irqchip: Port the ARM IRQ drivers to GENERIC_IRQ_MULTI_HANDLER")
+caacdbf4aa56 ("genirq: Add CONFIG_GENERIC_IRQ_MULTI_HANDLER")
+0c9e498286ef ("irqchip/gic: Report that effective affinity is a single target")
+6ee532e2faa9 ("irqchip/gemini: Refactor Gemini driver to reflect Faraday origin")
+b4d3053c8ce9 ("irqchip: Add a driver for Cortina Gemini")

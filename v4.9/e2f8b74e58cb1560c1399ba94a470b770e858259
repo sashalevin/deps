@@ -1,0 +1,8 @@
+e2f8b74e58cb ("ath10k: prevent deinitializing NAPI twice")
+5dadbe4e3718 ("ath10k: add atomic protection for device recovery")
+d66d24ac300c ("ath10k: Keep track of which interrupts fired, don't poll them")
+b92aba35d39d ("ath10k: Add interrupt summary based CE processing")
+3c45f21af84e ("ath10k: sdio: add firmware coredump support")
+2fd3c8f34d08 ("ath10k: start recovery process when payload length exceeds max htc length for sdio")
+8f9ed93d09a9 ("ath10k: Wait until copy complete is actually done before completing")
+3d1c60460fb2 ("ath10k: Fix the race condition in firmware dump work queue")

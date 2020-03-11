@@ -1,0 +1,5 @@
+9dd2845ccb40 ("libceph: protect osdc->osd_lru list with a spinlock")
+42a2c09f2b0b ("libceph: open-code remove_{all,old}_osds()")
+0c0a8de13f96 ("libceph: nuke unused fields and functions")
+3f1af42ad0fa ("libceph: enable large, variable-sized OSD requests")
+ae458f5a171b ("libceph: make r_request msg_size calculation clearer")

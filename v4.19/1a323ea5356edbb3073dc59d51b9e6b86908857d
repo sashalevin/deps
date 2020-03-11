@@ -1,0 +1,5 @@
+1a323ea5356e ("x86: get rid of 'errret' argument to __get_user_xyz() macross")
+77f3c6166ddc ("x86: kill get_user_{try,catch,ex}")
+4b842e4e25b1 ("x86: get rid of small constant size cases in raw_copy_{to,from}_user()")
+9b8bd476e78e ("x86/uaccess: Don't leak the AC flags into __get_user() argument evaluation")
+75045f77f7a7 ("x86/extable: Introduce _ASM_EXTABLE_UA for uaccess fixups")

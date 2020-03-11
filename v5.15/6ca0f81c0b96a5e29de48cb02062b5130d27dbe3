@@ -1,0 +1,8 @@
+6ca0f81c0b96 ("mm: percpu: unhide pcpu_embed_first_chunk prototype")
+23f917169ef1 ("mm: percpu: add generic pcpu_fc_alloc/free funciton")
+1ca3fb3abd2b ("mm: percpu: add pcpu_fc_cpu_to_node_fn_t typedef")
+4421cca0a3e4 ("memblock: use memblock_free for freeing virtual pointers")
+3ecc68349bba ("memblock: rename memblock_free to memblock_phys_free")
+fa27717110ae ("memblock: drop memblock_free_early_nid() and memblock_free_early()")
+c486514dd409 ("xen/x86: free_p2m_page: use memblock_free_ptr() to free a virtual pointer")
+09cea6195073 ("arm64: support page mapping percpu first chunk allocator")

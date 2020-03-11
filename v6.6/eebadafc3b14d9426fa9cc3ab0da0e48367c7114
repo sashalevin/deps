@@ -1,0 +1,5 @@
+eebadafc3b14 ("ARM: 9398/1: Fix userspace enter on LPAE with CC_OPTIMIZE_FOR_SIZE=y")
+7af5b901e847 ("ARM: 9358/2: Implement PAN for LPAE by TTBR0 page table walks disablement")
+de7f60f0b031 ("ARM: 9357/2: Reduce the number of #ifdef CONFIG_CPU_SW_DOMAIN_PAN")
+66abdd3b5d4e ("ARM: 9356/2: Move asm statements accessing TTBCR into C functions")
+c16af1212479 ("ARM: 9328/1: mm: try VMA lock-based page fault handling first")

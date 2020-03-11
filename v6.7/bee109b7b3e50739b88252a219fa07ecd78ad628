@@ -1,0 +1,6 @@
+bee109b7b3e5 ("bpf: Fix error message on kfunc arg type mismatch")
+605c96997d89 ("bpf: relax zero fixed offset constraint on KF_TRUSTED_ARGS/KF_RCU")
+d940c9b94d7e ("bpf: add support for KF_ARG_PTR_TO_WORKQUEUE")
+ad2c03e691be ("bpf: verifier: bail out if the argument is not a map")
+8d94f1357c00 ("bpf: Recognize '__map' suffix in kfunc arguments")
+045edee19d59 ("bpf: Introduce KF_ARG_PTR_TO_CONST_STR")

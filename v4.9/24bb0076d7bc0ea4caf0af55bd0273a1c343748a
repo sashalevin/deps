@@ -1,0 +1,7 @@
+24bb0076d7bc ("usb: fix spelling mistakes in header files")
+edfbcb321faf ("usb: add a hcd_uses_dma helper")
+dd3ecf17ba70 ("usb: don't create dma pools for HCDs with a localmem_pool")
+2d7a3dc3e24f ("USB: drop HCD_LOCAL_MEM flag")
+7d9e6f5aebe8 ("usb: host: ohci-sm501: init genalloc for local memory")
+b0310c2f09bb ("USB: use genalloc for USB HCs with local memory")
+b7a7d1c1ec68 ("Merge tag 'dma-mapping-5.1' of git://git.infradead.org/users/hch/dma-mapping")

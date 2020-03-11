@@ -1,0 +1,6 @@
+4f8126bb2308 ("sbitmap: Use single per-bitmap counting to wake up queued tags")
+4acb83417cad ("sbitmap: fix batched wait_cnt accounting")
+48c033314f37 ("sbitmap: Avoid leaving waitqueue in invalid state in __sbq_wake_up()")
+040b83fcecfb ("sbitmap: fix possible io hung due to lost wakeup")
+10825410b956 ("blk-mq: Fix wrong wakeup batch configuration which will cause hang")
+180dccb0dba4 ("blk-mq: fix tag_get wait task can't be awakened")

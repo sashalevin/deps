@@ -1,1 +1,5 @@
 716b23c19edd ("netfilter: nat: un-export nf_nat_l4proto_unique_tuple")
+912da924a29f ("netfilter: remove NF_NAT_RANGE_PROTO_RANDOM support")
+a504b703bb1d ("netfilter: nat: limit port clash resolution attempts")
+b635cbf68ff3 ("netfilter: nat: remove unnecessary 'else if' branch")
+6ed5943f8735 ("netfilter: nat: remove l4 protocol port rovers")

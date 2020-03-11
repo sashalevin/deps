@@ -1,0 +1,4 @@
+479a1efc8119 ("KVM: x86/mmu: Drop the intermediate "transient" __kvm_sync_page()")
+07dc4f35a44c ("KVM: x86/mmu: comment on kvm_mmu_get_page's syncing of pages")
+00a669780ffa ("KVM: x86/mmu: Use MMU role to check for matching guest page sizes")
+ddc16abbbae9 ("KVM: x86/mmu: Unconditionally zap unsync SPs when creating >4k SP at GFN")

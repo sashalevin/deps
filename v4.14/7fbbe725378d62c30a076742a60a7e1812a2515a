@@ -1,0 +1,4 @@
+7fbbe725378d ("mmc: sdio: Drop powered-on re-init at runtime resume and HW reset")
+ee550947a0d6 ("mmc: sdio: Move comment about re-initialization to mmc_sdio_reinit_card()")
+cd23042d0546 ("mmc: sdio: Drop mmc_claim|release_host() in mmc_sdio_power_restore()")
+fb09f44e290b ("mmc: core: Re-factor some code for SDIO re-initialization")

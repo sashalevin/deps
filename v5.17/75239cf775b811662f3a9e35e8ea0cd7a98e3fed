@@ -1,0 +1,8 @@
+75239cf775b8 ("s390/kexec: refactor for kernel/Kconfig.kexec")
+6ca6b58107a8 ("s390/Kconfig: sort config S390 select list again")
+00a34d5a99c0 ("s390: select ARCH_WANT_HUGETLB_PAGE_OPTIMIZE_VMEMMAP")
+9592eef7c16e ("random: remove CONFIG_ARCH_RANDOM")
+e4f74400308c ("s390/archrandom: simplify back to earlier design and initialize earlier")
+25deecb21c18 ("s390: remove unneeded 'select BUILD_BIN2C'")
+846bb97e131d ("random: credit cpu and bootloader seeds by default")
+ac2ab99072cc ("Merge tag 'random-5.19-rc1-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/crng/random")

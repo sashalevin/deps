@@ -1,0 +1,7 @@
+9b38cc704e84 ("kretprobe: Prevent triggering kretprobe from within kprobe_flush_task")
+b191fa96ea6d ("x86/kprobes: Avoid kretprobe recursion bug")
+290e3070762a ("powerpc/kprobes: Fix handling of function offsets on ABIv2")
+49e0b4658fe6 ("kprobes: Convert kprobe_lookup_name() to a function")
+51c9c0843993 ("powerpc/kprobes: Implement Optprobes")
+30176466e36a ("powerpc/kprobes: Fixes for kprobe_lookup_name() on BE")
+ebfa50df435e ("powerpc: Add helper to check if offset is within relative branch range")

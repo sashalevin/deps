@@ -1,0 +1,6 @@
+e7912386ede8 ("KVM: x86: reintroduce pte_list_remove, but including mmu_spte_clear_track_bits")
+127393fbe597 ("mm: thp: kvm: fix memory corruption in KVM with THP enabled")
+92f94f1e9e50 ("KVM: MMU: rename has_wrprotected_page to mmu_gfn_lpage_is_disallowed")
+d8c1bdeb5d6b ("page-flags: trivial cleanup for PageTrans* helpers")
+74c4e63ab9b5 ("KVM: x86: MMU: Use for_each_rmap_spte macro instead of pte_list_walk()")
+018aabb56d61 ("KVM: x86: MMU: Encapsulate the type of rmap-chain head in a new struct")

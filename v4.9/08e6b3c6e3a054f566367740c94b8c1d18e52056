@@ -1,0 +1,6 @@
+08e6b3c6e3a0 ("libnvdimm: Introduce locked DIMM capacity support")
+c31898c8c711 ("libnvdimm, dimm: fix dpa reservation vs uninitialized label area")
+d34cb8084028 ("libnvdimm, dimm: clear 'locked' status on successful DIMM enable")
+9d62ed965118 ("libnvdimm: handle locked label storage areas")
+8f078b38dd38 ("libnvdimm: convert NDD_ flags to use bitops, introduce NDD_LOCKED")
+c44ef859ceff ("Merge branch 'for-4.10/libnvdimm' into libnvdimm-for-next")

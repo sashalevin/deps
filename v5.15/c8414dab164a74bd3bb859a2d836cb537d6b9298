@@ -1,0 +1,6 @@
+c8414dab164a ("eventfs: Fix the NULL pointer dereference bug in eventfs_remove_rec()")
+27152bceea1d ("eventfs: Move tracing/events to eventfs")
+ee41106a12c7 ("tracing: Require all trace events to have a TRACE_SYSTEM")
+ba27d8555867 ("tracing: Remove check of list iterator against head past the loop body")
+6e1b4bd1911d ("tracing: Remove duplicate warnings when calling trace_create_file()")
+21ccc9cd7211 ("tracing: Disable "other" permission bits in the tracefs files")

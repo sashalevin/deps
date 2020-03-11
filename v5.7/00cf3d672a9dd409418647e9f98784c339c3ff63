@@ -1,0 +1,7 @@
+00cf3d672a9d ("tracing: Allow synthetic events to pass around stacktraces")
+3b13911a2fd0 ("tracing: Synthetic event field_pos is an index not a boolean")
+8db4d6bfbbf9 ("tracing: Change synthetic event string format to limit printed length")
+bd82631d7ccd ("tracing: Add support for dynamic strings to synthetic events")
+8fbeb52a598c ("tracing: Fix parse_synth_field() error handling")
+726721a51838 ("tracing: Move synthetic events to a separate file")
+1b94b3aed367 ("tracing: Check state.disabled in synth event trace functions")

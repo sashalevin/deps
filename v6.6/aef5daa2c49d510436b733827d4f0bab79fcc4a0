@@ -1,0 +1,3 @@
+aef5daa2c49d ("netfilter: fix undefined reference to 'netfilter_lwtunnel_*' when CONFIG_SYSCTL=n")
+a2225e0250c5 ("netfilter: move the sysctl nf_hooks_lwtunnel into the netfilter core")
+635470eb0aa7 ("netfilter: Remove the now superfluous sentinel elements from ctl_table array")

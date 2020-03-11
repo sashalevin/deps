@@ -1,0 +1,6 @@
+3aa362494170 ("mptcp: avoid ssock usage in mptcp_pm_nl_create_listen_socket()")
+57fc0f1ceaa4 ("mptcp: ensure listener is unhashed before updating the sk status")
+2a6a870e44dd ("mptcp: stops worker on unaccepted sockets at listener close")
+0a3f4f1f9c27 ("mptcp: fix UaF in listener shutdown")
+b6985b9b8295 ("mptcp: use the workqueue to destroy unaccepted sockets")
+8697a258ae24 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

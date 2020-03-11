@@ -1,0 +1,7 @@
+89b03aeaef16 ("drm/vkms: fix 32bit compilation error by replacing macros")
+396369d67549 ("drm: vkms: Add support to the RGB565 format")
+3675d8a17263 ("drm: vkms: Adds XRGB_16161616 and ARGB_1616161616 formats")
+8ba1648567e2 ("drm: vkms: Refactor the plane composer to accept new formats")
+bbdf7b2a0b0e ("drm: vkms: Add fb information to `vkms_writeback_job`")
+2eef1ef6e22b ("drm: vkms: get the reference to `drm_framebuffer` instead if coping it")
+1645e7b9667f ("drm: vkms: Rename `vkms_composer` to `vkms_frame_info`")

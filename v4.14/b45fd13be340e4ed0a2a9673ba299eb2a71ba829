@@ -1,0 +1,5 @@
+b45fd13be340 ("thermal/drivers: imx: Fix missing of_node_put() at probe time")
+c589c56671c9 ("thermal: imx: fix for dependency on cpu-freq")
+b6ad3981ff94 ("thermal: imx: handle error path in one place to save duplicated code")
+a1d001542392 ("cpufreq: imx6q/thermal: imx: register cooling device depending on OF")
+531fcdeb71f0 ("thermal: imx: add NVMEM dependency")

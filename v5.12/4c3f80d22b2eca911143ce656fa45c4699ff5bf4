@@ -1,0 +1,6 @@
+4c3f80d22b2e ("net: dsa: walk through all changeupper notifier functions")
+749189453234 ("net: dsa: replay a deletion of switchdev objects for ports leaving a bridged LAG")
+4ede74e73b5b ("net: dsa: refactor the prechangeupper sanity checks into a dedicated function")
+5961d6a12c13 ("net: dsa: inherit the actual bridge port flags at join time")
+2afc526ab342 ("net: dsa: pass extack to dsa_port_{bridge,lag}_join")
+185c9a760a61 ("net: dsa: call dsa_port_bridge_join when joining a LAG that is already in a bridge")

@@ -1,0 +1,5 @@
+5f55e098b8d0 ("parisc: Add 64-bit gettimeofday() and clock_gettime() vDSO functions")
+b957df3b858d ("arch: use $(obj)/ instead of $(src)/ for preprocessed linker scripts")
+72a9913a8554 ("parisc: vdso: remove unused C build rule in vdso32/Makefile")
+0dd0bbc2003a ("s390/vdso: check for undefined symbols after build")
+9086e6017957 ("parisc: Add missing FORCE prerequisites in Makefile")

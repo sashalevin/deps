@@ -1,0 +1,5 @@
+d9d8c5c489f4 ("block: convert is_sync helpers to use REQ_OPs.")
+ba568ea0a2ef ("block: prepare elevator to use REQ_OPs.")
+cc6e3b10920b ("block: prepare mq request creation to use REQ_OPs")
+e6a40b096e28 ("block: prepare request creation/destruction code to use REQ_OPs")
+6f3b0e8bcf3c ("blk-mq: add a flags parameter to blk_mq_alloc_request")

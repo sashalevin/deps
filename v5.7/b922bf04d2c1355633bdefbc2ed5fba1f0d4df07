@@ -1,0 +1,5 @@
+b922bf04d2c1 ("binfmt_elf_fdpic: support 64-bit systems")
+36650a357eac ("binfmt: Slightly simplify elf_fdpic_map_file()")
+e6302d5a285b ("binfmt: Use struct_size()")
+a4eec6a3dfb7 ("binfmt: remove in-tree usage of MAP_EXECUTABLE")
+0abb013e2e73 ("binfmt_elf_fdpic: don't use __... uaccess primitives")

@@ -1,0 +1,6 @@
+07ace0bbe03b ("netfilter: nft_set_pipapo: do not rely on ZERO_SIZE_PTR")
+f04df573faf9 ("netfilter: nft_set_pipapo: constify lookup fn args where possible")
+76313d1a4aa9 ("netfilter: nft_set_pipapo: store index in scratch maps")
+2b84e215f874 ("netfilter: nft_set_pipapo: .walk does not deal with generations")
+f227925e53c3 ("netfilter: nf_tables: prefer direct calls for set lookups")
+0974cff3eb66 ("netfilter: add and use nft_set_do_lookup helper")

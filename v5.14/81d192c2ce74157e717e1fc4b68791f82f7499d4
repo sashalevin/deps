@@ -1,0 +1,4 @@
+81d192c2ce74 ("can: c_can: don't cache TX messages for C_CAN cores")
+387da6bc7a82 ("can: c_can: cache frames to operate as a true FIFO")
+28e86e9ab522 ("can: c_can: support tx ring algorithm")
+a54cdbba9dee ("can: c_can: exit c_can_do_tx() early if no frames have been sent")

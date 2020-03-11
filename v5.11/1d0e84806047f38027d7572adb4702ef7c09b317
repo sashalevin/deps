@@ -1,0 +1,8 @@
+1d0e84806047 ("KVM: x86/mmu: Resolve nx_huge_pages when kvm.ko is loaded")
+e1bfc24577cc ("KVM: Move x86's perf guest info callbacks to generic KVM")
+73cd107b9685 ("KVM: x86: Drop current_vcpu for kvm_running_vcpu + kvm_arch_vcpu variable")
+b9f5621c9547 ("perf/core: Rework guest callbacks to prepare for static_call support")
+f4b027c5c819 ("KVM: x86: Register Processor Trace interrupt hook iff PT enabled in guest")
+5c7df80e2ce4 ("KVM: x86: Register perf callbacks after calling vendor's hardware_setup()")
+ff083a2d972f ("perf: Protect perf_guest_cbs with RCU")
+6b5b368fccd7 ("KVM: arm64: Turn kvm_arm_support_pmu_v3() into a static key")

@@ -1,0 +1,6 @@
+160216568cdd ("sched_ext: Decouple locks in scx_ops_disable_workfn()")
+819513666966 ("sched_ext: Add cgroup support")
+41082c1d1d2b ("sched: Make cpu_shares_read_u64() use tg_weight()")
+a8532fac7b5d ("sched_ext: TASK_DEAD tasks must be switched into SCX on ops_enable")
+61eeb9a90522 ("sched_ext: TASK_DEAD tasks must be switched out of SCX on ops_disable")
+6203ef73fa5c ("sched/ext: Add BPF function to fetch rq")

@@ -1,0 +1,7 @@
+c596f1470ab7 ("KVM: x86/mmu: Use MMU's role to compute permission bitmask")
+af098972295a ("KVM: x86/mmu: Consolidate misc updates into shadow_mmu_init_context()")
+d555f7057ebe ("KVM: x86/mmu: Grab shadow root level from mmu_role for shadow MMUs")
+16be1d129253 ("KVM: x86/mmu: Move nested NPT reserved bit calculation into MMU proper")
+c906066288d0 ("KVM: x86: Drop pointless @reset_roots from kvm_init_mmu()")
+a3322d5cd87f ("KVM: nSVM: Set the shadow root level to the TDP level for nested NPT")
+c5e2184d1544 ("KVM: x86/mmu: Remove the defunct update_pte() paging hook")

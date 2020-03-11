@@ -1,0 +1,7 @@
+74984e79071a ("kasan: clear metadata functions for tag-based modes")
+836daba09947 ("kasan: introduce kasan_init_object_meta")
+f3647cbfe5a3 ("kasan: introduce kasan_get_alloc_track")
+687c85afa67a ("kasan: drop CONFIG_KASAN_TAGS_IDENTIFY")
+ccf643e6dacf ("kasan: split save_alloc_info implementations")
+196894a6e202 ("kasan: move is_kmalloc check out of save_alloc_info")
+c249f9af85ee ("kasan: rename kasan_set_*_info to kasan_save_*_info")

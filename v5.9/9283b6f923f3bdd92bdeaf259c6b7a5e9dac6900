@@ -1,0 +1,8 @@
+9283b6f923f3 ("soundwire: intel: remove unnecessary init")
+029bfd1cd53c ("soundwire: intel: conditionally exit clock stop mode on system suspend")
+17e0da0b8979 ("soundwire: intel: fix another unused-function warning")
+e4be9facb969 ("soundwire: intel: disable shim wake on suspend")
+f046b2334083 ("soundwire: intel: fix intel_suspend/resume defined but not used warning")
+b61b8b37888a ("soundwire: intel: reset pm_runtime status during system resume")
+ebf878eddbb4 ("soundwire: intel: add pm_runtime support")
+9b3b4b3f2f2a ("soundwire: intel: Add basic power management support")

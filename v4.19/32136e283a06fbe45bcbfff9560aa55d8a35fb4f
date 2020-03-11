@@ -1,0 +1,8 @@
+32136e283a06 ("media: venus: firmware: Use of_reserved_mem_lookup()")
+2e6fc23eed9b ("media: venus: firmware: Use %pR to print IO resource")
+2c41cc0be07b ("media: venus: firmware: fix leaked of_node references")
+5792ae7c3dd4 ("media: venus: firmware: check fw size against DT memory region size")
+df381dc8e475 ("media: venus: firmware: add no TZ boot and shutdown routine")
+f9799fcce4bb ("media: venus: firmware: register separate platform_device for firmware loader")
+a4cf7e3c069d ("media: venus: firmware: move load firmware in a separate function")
+5df317c8786b ("media: venus: firmware: add routine to reset ARM9")

@@ -1,0 +1,7 @@
+f8eb145eb946 ("kernfs: Factor out kernfs_activate_one()")
+c25491747b21 ("kernfs: Add KERNFS_REMOVING flags")
+5bf33f04eb5c ("fs/kernfs/dir.c: Clean code by removing always true condition")
+fe0f726c9fb6 ("kernfs: combine ino/id lookup functions into kernfs_find_and_get_node_by_id()")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")
+880df1316173 ("kernfs: kernfs_find_and_get_node_by_ino() should only look up activated nodes")
+b680b08171eb ("kernfs: use dumber locking for kernfs_find_and_get_node_by_ino()")

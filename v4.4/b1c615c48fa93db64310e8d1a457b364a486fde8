@@ -1,0 +1,6 @@
+b1c615c48fa9 ("PCI/VPD: Move VPD sysfs code to vpd.c")
+64379079a9e3 ("PCI: Move pci_vpd_release() from header file to pci/access.c")
+104daa71b396 ("PCI: Determine actual VPD size on first access")
+c5563887a969 ("PCI: Use bitfield instead of bool for struct pci_vpd_pci22.busy")
+f52e5629f66d ("PCI: Allow access to VPD attributes with size 0")
+554a60379aaa ("PCI: Use kobj_to_dev() instead of open-coding it")

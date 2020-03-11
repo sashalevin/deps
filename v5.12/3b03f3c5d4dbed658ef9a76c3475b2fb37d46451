@@ -1,0 +1,4 @@
+3b03f3c5d4db ("SUNRPC: Use xdr_stream to encode Reply verifier in svcauth_unix_accept()")
+6181b0c6432b ("SUNRPC: Convert svcauth_unix_accept() to use xdr_stream")
+74aaf96feaca ("SUNRPC: Teach server to recognize RPC_AUTH_TLS")
+438623a06bac ("SUNRPC: Add svc_rqst::rq_auth_stat")

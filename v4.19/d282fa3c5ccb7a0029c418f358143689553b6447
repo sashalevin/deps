@@ -1,0 +1,7 @@
+d282fa3c5ccb ("KVM: arm64: Handle trap of tagged Set/Way CMOs")
+b1ea1d760d33 ("KVM: arm64: Map AArch32 cp15 register to AArch64 sysregs")
+ca4e51477493 ("KVM: arm64: Introduce handling of AArch32 TTBCR2 traps")
+af4738290d9d ("KVM: arm64: Move ACTLR_EL1 emulation to the sys_reg_descs array")
+ef5a294be8d0 ("KVM: arm64: Add emulation for 32bit guests accessing ACTLR2")
+7c582bf4ed84 ("KVM: arm64: Stop writing aarch32's CSSELR into ACTLR")
+f7f2b15c3d42 ("arm64: KVM: Expose sanitised cache type register to guest")

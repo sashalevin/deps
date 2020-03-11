@@ -1,0 +1,5 @@
+f798a1d4f94d ("mm: fix use-after-free bug when mm->mmap is reused after being freed")
+64591e8605d6 ("mm: protect free_pgtables with mmap_lock write lock in exit_mmap")
+96d990239e31 ("mm/mmap: introduce unlock_range() for code cleanup")
+d8ed45c5dcd4 ("mmap locking API: use coccinelle to convert mmap_sem rwsem call sites")
+7ae77150d94d ("Merge tag 'powerpc-5.8-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

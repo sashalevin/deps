@@ -1,0 +1,5 @@
+c928f642c29a ("fs: rename pipe_buf ->steal to ->try_steal")
+b8d9e7f2411b ("fs: make the pipe_buf_operations ->confirm operation optional")
+76887c256744 ("fs: make the pipe_buf_operations ->steal operation optional")
+f4b00eab5004 ("mm: kmem: rename memcg_kmem_(un)charge() into memcg_kmem_(un)charge_page()")
+10eaec2f63b6 ("mm: kmem: cleanup (__)memcg_kmem_charge_memcg() arguments")

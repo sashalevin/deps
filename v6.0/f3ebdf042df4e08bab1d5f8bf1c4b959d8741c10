@@ -1,0 +1,7 @@
+f3ebdf042df4 ("mm: don't check VMA write permissions if the PTE/PMD indicates write permissions")
+1462c52e9f2b ("mm/huge_memory: conditionally call maybe_mkwrite() and drop pte_wrprotect() in __split_huge_pmd_locked()")
+3c811f7883c4 ("mm/migrate: revert "mm/migrate: fix wrongly apply write bit after mkdirty on sparc64"")
+96a9c287e25d ("mm/migrate: fix wrongly apply write bit after mkdirty on sparc64")
+2e3468778dbe ("mm: remember young/dirty bit for page migrations")
+0d206b5d2e0d ("mm/swap: add swp_offset_pfn() to fetch PFN from swap entry")
+eba4d770efc8 ("mm/swap: comment all the ifdef in swapops.h")

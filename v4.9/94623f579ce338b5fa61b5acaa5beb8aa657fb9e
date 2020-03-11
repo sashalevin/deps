@@ -1,0 +1,6 @@
+94623f579ce3 ("netfilter: br_netfilter: fix recent physdev match breakage")
+2b272bb558f1 ("netfilter: br_netfilter: disable sabotage_in hook after first suppression")
+cd6428988bf4 ("netfilter: bridge: Don't sabotage nf_hook calls for an l3mdev slave")
+c4b0e771f906 ("netfilter: avoid using skb->nf_bridge directly")
+a173f066c7cf ("netfilter: bridge: Don't sabotage nf_hook calls from an l3mdev")
+06fd3a392bb3 ("netfilter: deprecate NF_STOP")

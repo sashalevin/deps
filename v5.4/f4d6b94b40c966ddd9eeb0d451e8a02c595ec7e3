@@ -1,0 +1,7 @@
+f4d6b94b40c9 ("apparmor: use zstd compression for profile data")
+f9da5b14521c ("apparmor: Fix undefined reference to `zlib_deflate_workspacesize'")
+d61c57fde819 ("apparmor: make export of raw binary profile to userspace optional")
+65cc9c391c3c ("apparmor: Update help description of policy hash for introspection")
+4d944bcd4e73 ("apparmor: add AppArmor KUnit tests for policy unpack")
+6a59d9243d34 ("apparmor: fix blob compression build failure on ppc")
+63c16c3a7608 ("apparmor: Initial implementation of raw policy blob compression")

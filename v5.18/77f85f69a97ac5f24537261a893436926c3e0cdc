@@ -1,0 +1,4 @@
+77f85f69a97a ("powerpc/rtas: strengthen do_enter_rtas() type safety, drop inline")
+599af4915546 ("powerpc/rtas: remove lock and args fields from global rtas struct")
+5ff92e2f274d ("powerpc/rtas: unexport 'rtas' symbol")
+c5a65e0a420d ("powerpc/rtas: Call enter_rtas with MSR[EE] disabled")

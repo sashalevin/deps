@@ -1,0 +1,4 @@
+80771c822802 ("padata: Replace deprecated CPU-hotplug functions.")
+38228e8848cd ("padata: always acquire cpu_hotplug_lock before pinst->lock")
+bbefa1dd6a6d ("crypto: pcrypt - Avoid deadlock by using per-instance padata queues")
+07928d9bfc81 ("padata: Remove broken queue flushing")

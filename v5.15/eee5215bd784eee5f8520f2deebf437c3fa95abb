@@ -1,0 +1,6 @@
+eee5215bd784 ("drm/i915/guc: Fix flag query helper function to not modify state")
+0f7976506de6 ("drm/i915/guc: Rework and simplify locking")
+f16d5cb981a5 ("drm/i915/guc: Don't touch guc_state.sched_state without a lock")
+d2420c2ed8f1 ("drm/i915/selftests: Add initial GuC selftest for scrubbing lost G2H")
+669b949c1a44 ("drm/i915/guc: Fix outstanding G2H accounting")
+fc30a6764a54 ("drm/i915/guc: Fix blocked context accounting")

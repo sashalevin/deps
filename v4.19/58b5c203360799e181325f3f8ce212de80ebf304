@@ -1,0 +1,7 @@
+58b5c2033607 ("ipc/util.c: cleanup and improve sysvipc_find_ipc()")
+20401d1058f3 ("ipc: replace costly bailout check in sysvipc_find_ipc()")
+5e698222c702 ("ipc/util.c: sysvipc_find_ipc() incorrectly updates position index")
+89163f93c6f9 ("ipc/util.c: sysvipc_find_ipc() should increase position index")
+5ac893b8cb10 ("ipc: allow boot time extension of IPCMNI from 32k to 16M")
+8c81ddd2acd2 ("ipc: IPCMNI limit check for semmni")
+6730e6580177 ("ipc: IPCMNI limit check for msgmni and shmmni")

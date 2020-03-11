@@ -1,0 +1,6 @@
+32f52e8e78d3 ("net: ethernet: ti: davinci_emac: Use platform_get_irq() to get the interrupt")
+8005b09d99fa ("net: ethernet: davinci_emac: fix error handling in probe()")
+8a83c5d7969b ("net: ethernet: ti: cpdma: correct error handling for chan create")
+8feb0a196507 ("net: ethernet: ti: cpsw: split tx budget according between channels")
+342934a55898 ("net: ethernet: ti: cpsw: optimize end of poll cycle")
+83fcad0c986d ("net: ethernet: ti: cpsw: add .ndo to set per-queue rate")

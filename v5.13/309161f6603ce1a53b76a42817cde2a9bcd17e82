@@ -1,0 +1,5 @@
+309161f6603c ("xfs: inode allocation can use a single perag instance")
+b652afd93703 ("xfs: get rid of xfs_dir_ialloc()")
+89b1f55a2951 ("xfs: collapse AG selection for inode allocation")
+4268547305c9 ("xfs: simplify xfs_dialloc_select_ag() return values")
+9bbafc71919a ("xfs: move xfs_perag_get/put to xfs_ag.[ch]")

@@ -1,0 +1,8 @@
+804edf4d18e2 ("wifi: mwifiex: followup PCIE and related cleanups")
+c2e01a3a7b9a ("wifi: mwifiex: simplify PCIE write operations")
+8e3e59c31fea ("mwifiex: Try waking the firmware until we get an interrupt")
+e5f4eb8223aa ("mwifiex: Read a PCI register after writing the TX ring write pointer")
+4cf975f640fe ("mwifiex: switch from 'pci_' to 'dma_' API")
+d10dcb615c8e ("mwifiex: pcie: Fix memory leak in mwifiex_pcie_init_evt_ring")
+db8fd2cde932 ("mwifiex: pcie: Fix memory leak in mwifiex_pcie_alloc_cmdrsp_buf")
+f7369179ad32 ("mwifiex: drop 'set_consistent_dma_mask' log message")

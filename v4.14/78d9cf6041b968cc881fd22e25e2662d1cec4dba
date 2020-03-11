@@ -1,0 +1,4 @@
+78d9cf6041b9 ("mm/mmap.c: logic of find_vma_intersection repeated in __do_munmap")
+5a28fc94c914 ("x86/mpx, mm/core: Fix recursive munmap() corruption")
+dd2283f2605e ("mm: mmap: zap pages with read mmap_sem in munmap")
+8d68fa0e0839 ("signal/x86: Move mpx siginfo generation into do_bounds")

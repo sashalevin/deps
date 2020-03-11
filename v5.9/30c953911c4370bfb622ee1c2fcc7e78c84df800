@@ -1,0 +1,4 @@
+30c953911c43 ("kvm: arm64: Set up hyp percpu data for nVHE")
+572494995bc3 ("kvm: arm64: Add helpers for accessing nVHE hyp per-cpu vars")
+3471ee06e33e ("kvm: arm64: Only define __kvm_ex_table for CONFIG_KVM")
+ab25464bdabd ("kvm: arm64: Partially link nVHE hyp code, simplify HYPCOPY")

@@ -1,0 +1,6 @@
+a75e2d604da8 ("xhci: Fix sizeof() mismatch")
+a965315e59f3 ("usb: xhci: force all memory allocations to node")
+07f761905387 ("xhci: xhci-mem: remove port_arrays and the code initializing them")
+bcaa9d5c5900 ("xhci: Create new structures to store xhci port information")
+5db851cf2085 ("xhci: remove GFP_DMA flag from allocation")
+5120a266928a ("USB: host: xhci: use max-port define")

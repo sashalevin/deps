@@ -1,0 +1,8 @@
+c007ef8c339d ("mt76: mt76x02: improve tx hang detection")
+2aa6c0fb7557 ("mt76x02: improve mac error check/reset reliability")
+fd6c2dfa49b7 ("mt76: mt76x02: fix handling MCU timeouts during hw restart")
+9fba6d077f64 ("mt76: add support for an extra wiphy in the main tx path")
+e49c76d455a9 ("mt76: move mt76_get_antenna in mt76_core module")
+ad571c93169b ("mt76: mt76x2: move mt76x02_mac_reset_counters in mt76x02_mac_start")
+7b37cce09d18 ("mt76: mt76x02: move mac_reset_counter in mt76x02_lib module")
+a670111131db ("mt76: remove empty flag in mt76_txq_schedule_list")

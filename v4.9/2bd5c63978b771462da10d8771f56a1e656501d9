@@ -1,0 +1,8 @@
+2bd5c63978b7 ("driver core: device: make device_create*() take a const struct class *")
+67dd07723969 ("device: remove 'extern' attribute from function prototypes in device.h")
+4c74746625de ("driver core: remove device_create_vargs")
+b8f33e5d76a7 ("device: add device_change_owner()")
+cf901a1c5dd8 ("device.h: move devtmpfs prototypes out of the file")
+5e787dbf659f ("devtmpfs: use do_mount() instead of ksys_mount()")
+d401727ea0d7 ("devtmpfs: don't mix {ramfs,shmem}_fill_super() with mount_single()")
+523634db145a ("Merge tag 'libnvdimm-fixes-5.3-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

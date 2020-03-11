@@ -1,0 +1,6 @@
+bd80b0dd6a43 ("drm/i915: Skip cursor when writing PLANE_CHICKEN")
+c5de248484af ("drm/i915/dpt: Add a modparam to disable DPT via the chicken bit")
+5a08585d38d6 ("drm/i915: Add PLANE_CHICKEN registers")
+3f3fdc978b8d ("drm/i915: Define skl+ universal plane SURFLIVE registers")
+12d7d858e63d ("drm/i915: Use REG_BIT() & co. for universal plane bits")
+71b59439aa03 ("drm/i915: Sipmplify PLANE_STRIDE masking")

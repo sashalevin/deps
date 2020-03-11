@@ -1,0 +1,7 @@
+03e9a5d8eb55 ("perf trace: Handle failure when trace point folder is missed")
+eadcab4c7a66 ("perf trace: Use macro RAW_SYSCALL_ARGS_NUM to replace number")
+3f41b77843b3 ("perf trace: Add a strtoul() method to 'struct syscall_arg_fmt'")
+5d88099bc00d ("perf trace: Allow associating scnprintf routines with well known arg names")
+888ca854e275 ("perf trace: Add the syscall_arg_fmt pointer to syscall_arg")
+8d1d4ff5e239 ("perf trace: Factor out the initialization of syscal_arg_fmt->scnprintf")
+9b2036cd3299 ("perf trace: Separate 'struct syscall_fmt' definition from syscall_fmts variable")

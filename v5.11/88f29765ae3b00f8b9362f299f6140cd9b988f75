@@ -1,0 +1,8 @@
+88f29765ae3b ("kasan: introduce kasan_print_aux_stacks")
+505be48165fa ("lib, stackdepot: add helper to print stack entries")
+f39f21b3ddc7 ("stacktrace: move filter_irq_stacks() to kernel/stacktrace.c")
+02c587733c81 ("kasan: remove redundant config option")
+5c595ac4c776 ("kasan: fix hwasan build for gcc")
+d9b571c885a8 ("kasan: fix KASAN_STACK dependency for HW_TAGS")
+e1fdc403349c ("lib: stackdepot: add support to disable stack depot")
+f00748bfa024 ("kasan: prefix global functions with kasan_")

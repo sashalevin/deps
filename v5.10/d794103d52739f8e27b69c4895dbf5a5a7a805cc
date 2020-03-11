@@ -1,0 +1,7 @@
+d794103d5273 ("userfaultfd/selftests: fix uninitialized_var.cocci warning")
+1c10e674b35e ("userfaultfd/selftests: don't rely on GNU extensions for random numbers")
+42e584eede17 ("userfaultfd/selftests: unify error handling")
+4e08e18a785f ("userfaultfd/selftests: dropping VERIFY check in locking_thread")
+ba4f8c355ef9 ("userfaultfd/selftests: remove the time() check on delayed uffd")
+f0fa94330919 ("userfaultfd/selftests: add test exercising minor fault handling")
+77f962e7ae24 ("userfaultfd: selftests: make __{s,u}64 format specifiers portable")

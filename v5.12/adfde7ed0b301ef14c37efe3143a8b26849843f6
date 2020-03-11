@@ -1,0 +1,8 @@
+adfde7ed0b30 ("nvme-fabrics: short-circuit reconnect retries")
+f25f8ef70ce2 ("nvme-fc: short-circuit reconnect retries")
+a97157440e1e ("nvme: move the fabrics queue ready check routines to core")
+8df1bff57c7e ("nvme-fc: check sgl supported by target")
+f4b9e6c90c57 ("nvme: use driver pdu command for passthrough")
+af7fae857ea2 ("nvme-pci: allocate nvme_command within driver pdu")
+c03fd85de293 ("nvme: don't check nvme_req flags for new req")
+7a36604668b9 ("nvme: mark nvme_setup_passsthru() inline")

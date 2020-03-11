@@ -1,0 +1,4 @@
+785b87b22085 ("xfrm: add extack to verify_replay")
+d97ca5d714a5 ("xfrm_user: uncoditionally validate esn replay attribute struct")
+5e708e47c443 ("xfrm: make xfrm_replay_state_esn_len() return unsigned int")
+f843ee6dd019 ("xfrm_user: validate XFRM_MSG_NEWAE incoming ESN size harder")

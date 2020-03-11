@@ -1,0 +1,8 @@
+986d5ecc5699 ("iommu: Move fwspec->iommu_priv to struct dev_iommu")
+f9867f416ee7 ("iommu: Introduce accessors for iommu private data")
+72acd9df18f1 ("iommu: Move iommu_fwspec to struct dev_iommu")
+045a70426067 ("iommu: Rename struct iommu_param to dev_iommu")
+098accf2da94 ("iommu: Use C99 flexible array in fwspec")
+25f003de987a ("drivers/iommu: Take a ref to the IOMMU driver prior to ->add_device()")
+808be0aae53a ("iommu: Introduce guest PASID bind function")
+4c7c171f85b2 ("iommu: Introduce cache_invalidate API")

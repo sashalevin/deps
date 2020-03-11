@@ -1,0 +1,8 @@
+9b32fed8d671 ("crypto: ccree - Fix dma_map_sg error check")
+ce0fc6db38de ("crypto: ccree - protect against empty or NULL scatterlists")
+05c292afb0c0 ("crypto: ccree - zap entire sg on aead request unmap")
+c776f7d37b6b ("crypto: ccree - make AEAD sgl iterator well behaved")
+da3cf67f1bcf ("crypto: ccree - don't mangle the request assoclen")
+b7ec8530687a ("crypto: ccree - use std api when possible")
+c4b22bf51b81 ("crypto: ccree - remove special handling of chained sg")
+ccba2f1112d4 ("crypto: ccree - improve error handling")

@@ -1,0 +1,4 @@
+99c88dc71cae ("btrfs: make inode_can_compress take btrfs_inode")
+42c16da6d684 ("btrfs: inode: Don't compress if NODATASUM or NODATACOW set")
+c2fcdcdf36bb ("Btrfs: add skeleton code for compression heuristic")
+974b1adc3b10 ("btrfs: use bio iterators for the decompression handlers")

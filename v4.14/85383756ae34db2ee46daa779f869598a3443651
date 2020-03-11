@@ -1,0 +1,6 @@
+85383756ae34 ("usb: dwc3: drd: Switch to device property for 'extcon' handling")
+5f0b74e54890 ("USB: dwc3: get extcon device by OF graph bindings")
+f09cc79b4b33 ("usb: dwc3: add dual role support using OTG block")
+daaecc6541d0 ("usb: dwc3: prevent setting PRTCAP to OTG from debugfs")
+c4a5153e87fd ("usb: dwc3: core: Power-off core/PHYs on system_suspend in host mode")
+689bf72c6e0d ("usb: dwc3: Don't reinitialize core during host bus-suspend/resume")

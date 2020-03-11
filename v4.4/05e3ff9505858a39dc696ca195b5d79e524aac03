@@ -1,0 +1,5 @@
+05e3ff950585 ("mm: vmalloc: pass proper vm_start into debugobjects")
+82a2e924ff2c ("mm: vmalloc: clean up vunmap to avoid pgtable ops twice")
+9c3acf6043ac ("mm: remove free_unmap_vmap_area_addr()")
+c8eef01e2f98 ("mm: remove free_unmap_vmap_area_noflush()")
+f48d97f340cb ("mm/vmalloc: query dynamic DEBUG_PAGEALLOC setting")

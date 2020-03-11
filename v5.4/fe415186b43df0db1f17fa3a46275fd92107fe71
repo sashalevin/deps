@@ -1,0 +1,4 @@
+fe415186b43d ("xen/console: harden hvc_xen against event channel storms")
+3bd5371a4da6 ("xen/events: Remove unused bind_evtchn_to_irq_lateeoi()")
+54c9de89895e ("xen/events: add a new "late EOI" evtchn framework")
+0102e4efda76 ("xen: Use evtchn_type_t as a type for event channels")

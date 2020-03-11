@@ -1,0 +1,4 @@
+327ec5f70609 ("PCI: epf-mhi: Fix the DMA data direction of dma_unmap_single()")
+b08ded2ef2e9 ("bus: mhi: ep: Pass mhi_ep_buf_info struct to read/write APIs")
+62210a26cd4f ("bus: mhi: ep: Use slab allocator where applicable")
+987fdb5a43a6 ("bus: mhi: ep: Do not allocate event ring element on stack")

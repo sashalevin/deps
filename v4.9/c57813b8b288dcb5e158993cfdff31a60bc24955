@@ -1,0 +1,7 @@
+c57813b8b288 ("i2c: designware: Lock the adapter while setting the suspended flag")
+0897f1735910 ("i2c: designware-pci: use __maybe_unused for PM functions")
+275154155538 ("i2c: designware: Do not allow i2c_dw_xfer() calls while suspended")
+9cbeeca05049 ("i2c: designware: Remove Cherry Trail PMIC I2C bus pm_disabled workaround")
+1732c22abca8 ("i2c: designware: use generic table matching")
+9d9a152ebaa8 ("i2c: designware: Re-init controllers with pm_disabled set on resume")
+4141cf676b9e ("Merge branch 'i2c/for-4.16' of git://git.kernel.org/pub/scm/linux/kernel/git/wsa/linux")

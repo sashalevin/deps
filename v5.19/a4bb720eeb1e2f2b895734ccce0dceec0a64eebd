@@ -1,0 +1,7 @@
+a4bb720eeb1e ("PCI: imx6: Turn off regulator when system is in suspend mode")
+835fe229d709 ("PCI: imx6: Collect clock enables in imx6_pcie_clk_enable()")
+d0a75c791f98 ("PCI: imx6: Factor out ref clock disable to match enable")
+34b1b9022586 ("PCI: imx6: Move imx6_pcie_clk_disable() earlier")
+276509690c2e ("PCI: imx6: Move imx6_pcie_enable_ref_clk() earlier")
+6b1e989e4910 ("PCI: imx6: Move PHY management functions together")
+79f14b6f1c60 ("PCI: imx6: Move imx6_pcie_grp_offset(), imx6_pcie_configure_type() earlier")

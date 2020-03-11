@@ -1,0 +1,7 @@
+bfd8d8fe98b8 ("vgacon: unconfuse vc_origin when using soft scrollback")
+aabd31c421dd ("console: Add persistent scrollback buffers for all VGA consoles")
+bcd375f7f71f ("console: Add callback to flush scrollback buffer to consw struct")
+66da39eb91b4 ("console: Move scrollback data into its own struct")
+42acfc6615f4 ("tty: vt, fix bogus division in csi_J")
+97293de97736 ("tty: vt, consw->con_scrolldelta cleanup")
+8ede5cce4f0b ("tty: vt, make color_table const")

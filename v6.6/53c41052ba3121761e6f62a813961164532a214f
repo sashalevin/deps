@@ -1,0 +1,5 @@
+53c41052ba31 ("eventfs: Have the inodes all for files and directories all be the same")
+77a06c33a22d ("eventfs: Test for ei->is_freed when accessing ei->dentry")
+f2f496370afc ("eventfs: Remove "is_freed" union with rcu head")
+29e06c10702e ("eventfs: Fix typo in eventfs_inode union comment")
+5790b1fb3d67 ("eventfs: Remove eventfs_file and just use eventfs_inode")

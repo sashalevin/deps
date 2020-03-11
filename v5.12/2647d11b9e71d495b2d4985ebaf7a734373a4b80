@@ -1,0 +1,5 @@
+2647d11b9e71 ("mm: khugepaged: make hugepage_vma_check() non-static")
+d2081b2bf819 ("mm: khugepaged: make khugepaged_enter() void function")
+cb648754a1d0 ("mm: khugepaged: remove redundant check for VM_NO_KHUGEPAGED")
+a4aeaa06d45e ("mm: khugepaged: skip huge page collapse for special files")
+eb6ecbed0aa2 ("mm, thp: relax the VM_DENYWRITE constraint on file-backed THPs")

@@ -1,0 +1,8 @@
+a19ca20a0e4e ("spi: stm32-qspi: Convert to platform remove callback returning void")
+35700e221b18 ("spi: stm32-qspi: Fix error path in case of -EPROBE_DEFER")
+be6ef160840f ("spi: stm32-qspi: Fix unbalanced pm_runtime_enable issue")
+9d282c17b023 ("spi: stm32-qspi: Add pm_runtime support")
+4a08d6c86624 ("spi: stm32-qspi: properly manage probe errors")
+8196f7bcc2ad ("spi: stm32-qspi: defer probe for reset controller")
+658606ff4cf6 ("spi: stm32-qspi: Use dma_request_chan() instead dma_request_slave_channel()")
+3c0af1dd2fe7 ("spi: stm32-qspi: Fix kernel oops when unbinding driver")

@@ -1,0 +1,4 @@
+bd3400ea173f ("mm: khugepaged: recalculate min_free_kbytes after stopping khugepaged")
+59d336bdf693 ("mm/page_alloc: use clamp() to simplify code")
+ee8eb9a5fe86 ("mm/page_alloc: increase default min_free_kbytes bound")
+b7d349c74129 ("mm/thp: don't count ZONE_MOVABLE as the target for freepage reserving")

@@ -1,0 +1,4 @@
+9cfe3ddecdc5 ("block/bounce: count bytes instead of sectors")
+393bb12e0058 ("block: stop calling blk_queue_bounce for passthrough requests")
+9bb33f24abbd ("block: refactor the bounce buffering code")
+ce288e053568 ("block: remove BLK_BOUNCE_ISA support")

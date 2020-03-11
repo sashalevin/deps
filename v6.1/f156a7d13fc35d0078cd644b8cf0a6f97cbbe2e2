@@ -1,0 +1,5 @@
+f156a7d13fc3 ("KVM: arm64: Remove size-order align in the nVHE hyp private VA range")
+8d20bd638167 ("KVM: x86: Unify pr_fmt to use module name for all KVM modules")
+451d39e80061 ("KVM: VMX: Move Hyper-V eVMCS initialization to helper")
+2916b70fc342 ("KVM: VMX: Reset eVMCS controls in VP assist page during hardware disabling")
+80edc49f6a75 ("KVM: VMX: Resurrect vmcs_conf sanitization for KVM-on-Hyper-V")

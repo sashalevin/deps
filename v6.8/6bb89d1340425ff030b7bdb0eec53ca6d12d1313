@@ -1,0 +1,8 @@
+6bb89d134042 ("drm/amdgpu: Skip virt_exchange_init on SDMA poison consumption")
+2474414c60b7 ("drm/amdgpu: Add RAS_POISON_READY host response message")
+ed1e1e42fd68 ("drm/amdgpu: Support passing poison consumption ras block to SRIOV")
+6c23f3d12a92 ("drm/amdgpu: Use asynchronous polling to handle umc_v12_0 poisoning")
+3fdcd0a31d7a ("drm/amdgpu: Prepare for asynchronous processing of umc page retirement")
+46e2231ce03b ("drm/amdgpu: Log deferred error separately")
+9c97bf88f4a7 ("drm/amdgpu: Do bad page retirement for deferred errors")
+cce4febb274c ("drm/amdgpu: Add ras helper to query boot errors v2")

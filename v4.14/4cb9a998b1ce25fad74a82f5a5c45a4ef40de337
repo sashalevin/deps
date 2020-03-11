@@ -1,0 +1,4 @@
+4cb9a998b1ce ("KVM: Fix lockdep false negative during host resume")
+2eb06c306a57 ("KVM: Fix spinlock taken warning during host resume")
+c011d23ba046 ("kvm: fix compilation on aarch64")
+6706dae90d85 ("virt/kvm: Replace spin_is_locked() with lockdep")

@@ -1,0 +1,6 @@
+49ebf13b0453 ("ASoC: rsnd: constify dev_pm_ops structures.")
+c2d317184761 ("ASoC: rsnd: enable/disable ADG when suspend/resume timing")
+68a550248e29 ("ASoC: rsnd: call clk_prepare()/clk_enable() for AUDIO_CLKx")
+1b2ca0adf1a0 ("ASoC: rsnd: use mod base common method on CMD")
+48d582819fdc ("ASoC: rsnd: remove all modules when PIO fallback")
+27924f3208c9 ("ASoC: rsnd: enable to use rsnd_dai_connect() from each mod")

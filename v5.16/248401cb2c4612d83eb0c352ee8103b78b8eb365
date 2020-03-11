@@ -1,0 +1,6 @@
+248401cb2c46 ("ice: avoid bonding causing auxiliary plug/unplug under RTNL lock")
+32d53c0aa3a7 ("ice: fix 'scheduling while atomic' on aux critical err interrupt")
+5cb1ebdbc434 ("ice: Fix race condition during interface enslave")
+3d97f1afd8d8 ("ice: Don't use GFP_KERNEL in atomic context")
+97b0129146b1 ("ice: Fix error with handling of bonding MTU")
+5dbbbd01cbba ("ice: Avoid RTNL lock when re-creating auxiliary device")

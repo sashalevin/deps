@@ -1,0 +1,6 @@
+fe7bcfaeb2b7 ("drm/i915/gt: Refactor heartbeat request construction and submission")
+bf9bd6a5128a ("drm/i915/gt: Track the most recent pulse for the heartbeat")
+3dd66a94de59 ("drm/i915/gt: Always send a pulse down the engine after disabling heartbeat")
+8a25c4be583d ("drm/i915/params: switch to device specific parameters")
+2d3879950f8a ("drm/i915: Add psr_safest_params")
+7bda10095aaa ("drm/i915/i915_drv: Prefer drm_WARN_ON over WARN_ON")

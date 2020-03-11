@@ -1,0 +1,8 @@
+58ab2c08d708 ("drm/amdgpu: use VRAM|GTT for a bunch of kernel allocations")
+3273f11675ef ("drm/amdgpu: Remove unnecessary domain argument")
+96e1a88fafe6 ("drm/amdgpu/psp: don't free PSP buffers on suspend")
+aec3bb3a01de ("drm/amdgpu: make psp_ring_init common")
+54037bdfb1fe ("drm/amdgpu/psp12: move ih_reroute into ring_create")
+4864f2ee9ee2 ("drm/amdgpu: add vram reservation based on vram_usagebyfirmware_v2_2")
+cd3a49af58c2 ("drm/amdgpu: change the alignment size of TMR BO to 1M")
+2605e60c8260 ("drm/amdgpu: add files for PSP 13.0.4")

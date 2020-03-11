@@ -1,0 +1,5 @@
+443ee71ad212 ("i40e: disallow programming multiple filters with same criteria")
+ca6e1d0abe86 ("i40e: Fix for adding multiple ethtool filters on the same location")
+faa16e0f3848 ("i40e: correctly honor the mask fields for ETHTOOL_SRXCLSRLINS")
+1ec8deac8c63 ("i40e: explicitly fail on extended MAC field for ethtool_rx_flow_spec")
+01016da1e581 ("i40e: rework exit flow of i40e_add_fdir_ethtool")

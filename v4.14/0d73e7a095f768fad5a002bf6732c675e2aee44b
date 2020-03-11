@@ -1,0 +1,5 @@
+0d73e7a095f7 ("drm/i915: Mark the device as wedged from the beginning of set-wedged")
+559e040f1f08 ("drm/i915: Show the GPU state when declaring wedged")
+af7a8ffad9c5 ("drm/i915: Use rcu instead of stop_machine in set_wedged")
+8d550824c6f5 ("drm/i915: Order two completing nop_submit_request")
+27a5f61b377b ("drm/i915: Cancel all ready but queued requests when wedging")

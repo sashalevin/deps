@@ -1,0 +1,5 @@
+4547700a4d19 ("KVM: x86: Consolidate APIC base RESET initialization code")
+421221234ada ("KVM: x86: Open code necessary bits of kvm_lapic_set_base() at vCPU RESET")
+f0428b3dcb2d ("KVM: VMX: Stuff vcpu->arch.apic_base directly at vCPU RESET")
+503bc49424df ("KVM: x86: Set BSP bit in reset BSP vCPU's APIC base by default")
+2a24be79b6b7 ("KVM: VMX: Set EDX at INIT with CPUID.0x1, Family-Model-Stepping")

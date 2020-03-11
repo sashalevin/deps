@@ -1,0 +1,5 @@
+93c4aa449b88 ("ata: libata: read the shared status for successful NCQ commands once")
+931139af5718 ("ata: libata: simplify qc_fill_rtf port operation interface")
+4ba09d202657 ("ata: libahci: read correct status and error field for NCQ commands")
+efcef265fd83 ("ata: add/use ata_taskfile::{error|status} fields")
+742bef476ca5 ("ata: libata: move ata_{port,link,dev}_dbg to standard pr_XXX() macros")

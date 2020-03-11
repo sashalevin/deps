@@ -1,0 +1,8 @@
+3f3a24a0a3a5 ("drm/amdgpu: Don't offset by 2 in FRU EEPROM")
+3f1e2e9d9993 ("drm/amdgpu: Nerf "buff" to "buf"")
+2f60dd50769e ("drm/amd: Expose the FRU SMU I2C bus")
+ebfc253335af ("drm/amd/pm: do not expose the smu_context structure used internally in power")
+d698a2c4859d ("drm/amd/pm: move pp_force_state_enabled member to amdgpu_pm structure")
+13f5dbd6e3d9 ("drm/amd/pm: do not expose power implementation details to display")
+79c65f3fcbb1 ("drm/amd/pm: do not expose power implementation details to amdgpu_pm.c")
+bc143d8b8387 ("drm/amd/pm: do not expose implementation details to other blocks out of power")

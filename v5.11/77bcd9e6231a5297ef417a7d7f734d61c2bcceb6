@@ -1,0 +1,6 @@
+77bcd9e6231a ("KVM: Add dedicated arch hook for querying if vCPU was preempted in-kernel")
+10dbdf98acd6 ("KVM: x86: Take advantage of kvm_arch_dy_has_pending_interrupt()")
+52acd22faa1a ("KVM: Boost vCPU candidate in user mode which is delivering interrupt")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

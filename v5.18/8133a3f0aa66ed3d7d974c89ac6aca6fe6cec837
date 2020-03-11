@@ -1,0 +1,7 @@
+8133a3f0aa66 ("powerpc/crypto: Fix aes-gcm-p10 build when VSX=n")
+9c716e1bd369 ("crypto: p10-aes-gcm - Remove POWER10_CPU dependency")
+45a4672b9a6e ("crypto: p10-aes-gcm - Update Kconfig and Makefile")
+6a490a4e8b4c ("crypto: Kconfig - move powerpc entries to a submenu")
+e45f710b42af ("crypto: Kconfig - move mips entries to a submenu")
+b7133757da4c ("crypto: s390 - do not depend on CRYPTO_HW for SIMD implementations")
+349d03ffd5f6 ("crypto: s390 - add crypto library interface for ChaCha20")

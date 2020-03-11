@@ -1,0 +1,5 @@
+af4b3a71a5c8 ("video: ssd1307fb: Do not hard code active-low reset sequence")
+7d1b8d7a8580 ("video: ssd1307fb: Use gpiod_set_value_cansleep() for reset")
+fdde1a8148d8 ("fbdev: ssd1307fb: Make reset gpio devicetree property optional")
+519b4dba5861 ("fbdev: ssd1307fb: Remove reset-active-low from the DT binding document")
+72db33355c14 ("fbdev: ssd1307fb: Start to use gpiod API for reset gpio")

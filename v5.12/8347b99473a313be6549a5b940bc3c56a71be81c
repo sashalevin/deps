@@ -1,0 +1,4 @@
+8347b99473a3 ("crypto: ccp: Play nice with vmalloc'd memory for SEV command structs")
+d5760dee127b ("crypto: ccp: Reject SEV commands with mismatching command buffer")
+74c1f1366eb7 ("crypto: ccp: Detect and reject "invalid" addresses destined for PSP")
+b61a9071dc72 ("crypto: ccp: Free SEV device if SEV init fails")

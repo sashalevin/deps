@@ -1,0 +1,7 @@
+f442ab50f5fb ("mm: userfaultfd: document and enable new UFFDIO_POISON feature")
+0289184476c8 ("mm: userfaultfd: add UFFDIO_CONTINUE_MODE_WP to install WP PTEs")
+d9712937037e ("mm: userfaultfd: combine 'mode' and 'wp_copy' arguments")
+61c5004022f5 ("mm: userfaultfd: don't pass around both mm and vma")
+a734991ccaec ("mm: userfaultfd: rename functions for clarity + consistency")
+2bad466cc9d9 ("mm/uffd: UFFD_FEATURE_WP_UNPOPULATED")
+a1b92a3f1498 ("mm/userfaultfd: support WP on multiple VMAs")

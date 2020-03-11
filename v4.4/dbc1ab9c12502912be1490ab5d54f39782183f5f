@@ -1,0 +1,7 @@
+dbc1ab9c1250 ("eeprom: at24: add support to fetch eeprom device property "size"")
+dd905a61e95e ("misc: eeprom: at24: use device_property_*() functions instead of of_get_property()")
+2da78ac3ba57 ("eeprom: at24: coding style fixes")
+cf0361a2d2b8 ("eeprom: at24: remove nvmem regmap dependency")
+bec3c11bad0e ("misc: at24: replace memory_accessor with nvmem_device_read")
+57d155506dd5 ("eeprom: at24: extend driver to plug into the NVMEM framework")
+092462c2b522 ("misc: eeprom: use kobj_to_dev()")

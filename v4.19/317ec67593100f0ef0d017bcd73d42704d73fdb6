@@ -1,0 +1,8 @@
+317ec6759310 ("ASoC: soc.h: convert bool to bit field for snd_soc_card")
+a22ae72b86a4 ("ASoC: soc-core: disable route checks for legacy devices")
+daa480bde6b3 ("ASoC: soc-core: tidyup for snd_soc_dapm_add_routes()")
+e6d7020c2946 ("ASoC: soc-core: tidyup for snd_soc_add_component_controls()")
+a97648697790 ("ASoC: dpcm: prevent snd_soc_dpcm use after free")
+8d6258a4dd26 ("ASoC: add for_each_dpcm_be() macro")
+d2e24d64652b ("ASoC: add for_each_dpcm_fe() macro")
+7afecb3073e3 ("ASoC: convert for_each_rtd_codec_dai() for missing part")

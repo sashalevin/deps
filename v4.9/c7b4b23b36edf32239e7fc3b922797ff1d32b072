@@ -1,0 +1,6 @@
+c7b4b23b36ed ("block: uapi: Fix compilation errors using ioprio.h with C++")
+01584c1e2337 ("scsi: block: Improve ioprio value validity checks")
+6c913257226a ("scsi: block: Introduce ioprio hints")
+ba05200fcce0 ("block: fix IOPRIO_PRIO_CLASS() and IOPRIO_PRIO_VALUE() macros")
+06447ae5e33b ("ioprio: move user space relevant ioprio bits to UAPI includes")
+aa43457799f7 ("block: add ioprio_check_cap function")

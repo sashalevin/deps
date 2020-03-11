@@ -1,0 +1,7 @@
+b20cb39def08 ("SUNRPC: Relocate svc_free_res_pages()")
+5df25676de2e ("SUNRPC: Remove no-longer-used helper functions")
+3ed157d0d73f ("sunrpc: svc: Remove an unused static function svc_ungetu32()")
+90bfc37b5ab9 ("SUNRPC: Fix svcxdr_init_decode's end-of-buffer calculation")
+2f0f88f42f2e ("SUNRPC: Add svc_rqst_replace_page() API")
+f6e70aab9dfe ("SUNRPC: refresh rq_pages using a bulk page allocator")
+ab8362645fba ("SUNRPC: set rq_page_end differently")

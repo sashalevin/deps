@@ -1,0 +1,8 @@
+4503b1c29db4 ("tty: pty: remove redundant initialization of variable fd")
+311fc65c9fb9 ("pty: Repair TIOCGPTPEER")
+143c97cc6529 ("Revert "pty: fix the cached path of the pty slave file descriptor in the master"")
+c8c03f185833 ("pty: fix the cached path of the pty slave file descriptor in the master")
+6509f3096263 ("tty: hide unused pty_get_peer function")
+54ebbfb16034 ("tty: add TIOCGPTPEER ioctl")
+a1235b3eb100 ("tty: split job control support into a file of its own")
+fff0a2ca3a06 ("tty: move baudrate handling code to a file of its own")

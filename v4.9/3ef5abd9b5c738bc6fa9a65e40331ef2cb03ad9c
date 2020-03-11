@@ -1,0 +1,7 @@
+3ef5abd9b5c7 ("tty: serial: kgdboc: fix mutex locking order for configure_kgdboc()")
+6193bc90849a ("tty: serial: kgdboc: synchronize tty_find_polling_driver() and register_console()")
+66857443699b ("tty: serial: kgdboc: use console_list_lock for list traversal")
+6c4afa79147e ("printk: Prepare for SRCU console list protection")
+d9a4af5690e2 ("printk: Convert console_drivers list to hlist")
+9e409c4778af ("serial: kgdboc: Lock console list in probe function")
+b52041065410 ("Merge tag 'printk-for-6.1' of git://git.kernel.org/pub/scm/linux/kernel/git/printk/linux")

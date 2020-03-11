@@ -1,0 +1,5 @@
+c5a65e0a420d ("powerpc/rtas: Call enter_rtas with MSR[EE] disabled")
+838ee286ecc9 ("powerpc/rtas: Move rtas entry assembly into its own file")
+b6b1c3ce06ca ("powerpc/rtas: Keep MSR[RI] set when calling RTAS")
+1e688dd2a3d6 ("powerpc/bug: Provide better flexibility to WARN_ON/__WARN_FLAGS() with asm goto")
+db87a7199229 ("powerpc/bug: Remove specific powerpc BUG_ON() and WARN_ON() on PPC32")

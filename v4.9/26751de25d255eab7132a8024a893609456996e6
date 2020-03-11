@@ -1,0 +1,7 @@
+26751de25d25 ("spi: bcm2835: Micro-optimise FIFO loops")
+2e0733bc5a15 ("spi: bcm2835: Speed up FIFO access if fill level is known")
+3bd7f6589f67 ("spi: bcm2835: Overcome sglist entry length limitation")
+acf0f8569599 ("spi: bcm2835: Document struct bcm2835_spi")
+5c09e42f5931 ("spi: bcm2835: Drop unused code for native Chip Select")
+e82b0b382845 ("spi: bcm2835: Fix race on DMA termination")
+dbc944115eed ("spi: bcm2835: Fix book-keeping of DMA termination")

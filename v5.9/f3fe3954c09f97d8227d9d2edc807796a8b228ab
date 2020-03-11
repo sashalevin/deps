@@ -1,0 +1,6 @@
+f3fe3954c09f ("exfat: replace magic numbers with Macros")
+20914ff6dd56 ("exfat: move exfat_entry_set_cache from heap to stack")
+a3ff29a95fde ("exfat: support dynamic allocate bh for exfat_entry_set_cache")
+6fa96cd5ad7a ("exfat: fix typos in comments")
+c6e2f52e3051 ("exfat: speed up iterate/lookup by fixing start point of traversing cluster chain")
+188df41f212c ("exfat: eliminate dead code in exfat_find()")

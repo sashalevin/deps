@@ -1,0 +1,5 @@
+f6df27dd2707 ("btrfs: do not commit delayed inode when logging a file in full sync mode")
+5aa7d1a7f4a2 ("btrfs: only commit delayed items at fsync if we are logging a directory")
+8c8648dd1f6d ("btrfs: only commit the delayed inode when doing a full fsync")
+da447009a256 ("btrfs: factor out inode items copy loop from btrfs_log_inode()")
+0e56315ca147 ("Btrfs: fix missing hole after hole punching and fsync when using NO_HOLES")

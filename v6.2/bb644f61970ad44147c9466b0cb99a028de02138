@@ -1,0 +1,8 @@
+bb644f61970a ("accel/habanalabs: fix SG table creation for dma-buf mapping")
+dfdbc55a9c8c ("accel/habanalabs: always pass exported size to alloc_sgt_from_device_pages()")
+e65e175b07be ("habanalabs: move driver to accel subsystem")
+5f8ee3c98ed3 ("habanalabs: fix dmabuf to export only required size")
+d70885800c4b ("habanalabs: modify export dmabuf API")
+54fde5505c13 ("habanalabs: helper function to validate export params")
+303dad15ed8c ("habanalabs: remove support to export dmabuf from handle")
+35b137630f08 ("accel/ivpu: Introduce a new DRM driver for Intel VPU")

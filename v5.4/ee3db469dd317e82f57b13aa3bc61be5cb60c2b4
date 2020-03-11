@@ -1,0 +1,8 @@
+ee3db469dd31 ("wifi: rtlwifi: remove always-true condition pointed out by GCC 12")
+6bf8bc19297b ("rtlwifi: rtl8192de: Rename RT_TRACE to rtl_dbg")
+fa2b36a344f5 ("rtlwifi: rtl8192de: Convert macros that set descriptor")
+08f6ef39bc3d ("rtlwifi: rtl8192de: Replace local bit manipulation macros")
+b8e1ada81fb7 ("rtlwifi: rtl8192de: Remove unused GET_XXX and SET_XXX macros")
+92541dd9dda5 ("rtlwifi: rf_lock use non-irqsave spin_lock")
+330bb7117101 ("rtlwifi: rtl8192de: Fix missing enable interrupt flag")
+0e531cc575c4 ("rtlwifi: rtl8192de: Fix missing code to retrieve RX buffer address")

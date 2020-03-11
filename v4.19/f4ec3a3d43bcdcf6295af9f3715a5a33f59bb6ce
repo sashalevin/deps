@@ -1,1 +1,4 @@
 f4ec3a3d43bc ("switch fsnotify_move() to passing const struct qstr * for old_name")
+230c6402b1b3 ("ovl_lookup_real_one(): don't bother with strlen()")
+0a20df7ed334 ("fsnotify: report FS_ISDIR flag with MOVE_SELF and DELETE_SELF events")
+5f02a8776384 ("fsnotify: annotate directory entry modification events")

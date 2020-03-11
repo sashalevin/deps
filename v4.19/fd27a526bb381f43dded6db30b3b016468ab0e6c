@@ -1,0 +1,5 @@
+fd27a526bb38 ("ARM/dma-mapping: merge __dma_supported into arm_dma_supported")
+fd50924917f9 ("ARM/dma-mapping: remove get_coherent_dma_mask")
+f3cc4e1d44a8 ("ARM: dma-api: fix max_pfn off-by-one error in __dma_supported()")
+ab746573c405 ("ARM: dma-mapping: allow larger DMA mask than supported")
+72fd97bf4e75 ("arm: remove the mapping_error dma_map_ops method")

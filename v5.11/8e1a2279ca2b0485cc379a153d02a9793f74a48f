@@ -1,0 +1,5 @@
+8e1a2279ca2b ("md/raid0, raid10: Don't set discard sectors for request queue")
+10fa225c33a9 ("scsi: md: Remove WRITE_SAME support")
+d30588b2731f ("md/raid10: improve raid10 discard request")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")

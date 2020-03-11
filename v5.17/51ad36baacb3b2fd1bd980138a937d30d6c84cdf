@@ -1,0 +1,4 @@
+51ad36baacb3 ("serial: return -EINVAL for non-legacy RS485 flags")
+2dbd0c14ebe8 ("serial: Move serial_rs485 sanitization into separate function")
+8322b1f52715 ("serial: Add uart_rs485_config()")
+0ed12afa5655 ("serial: core: move RS485 configuration tasks from drivers into core")

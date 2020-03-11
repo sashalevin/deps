@@ -1,0 +1,8 @@
+998f637cc4b9 ("s390/mm: avoid races on region/segment/page table shadowing")
+4be130a08420 ("s390/mm: add shadow gmap support")
+6ea427bbbd40 ("s390/mm: add reference counter to gmap structure")
+b2d73b2a0ad1 ("s390/mm: extended gmap pte notifier")
+8ecb1a59d6c6 ("s390/mm: use RCU for gmap notifier list and the per-mm gmap list")
+414d3b074966 ("s390/kvm: page table invalidation notifier")
+a03825bbd0c3 ("KVM: s390: use kvm->created_vcpus")
+72aafdf01d82 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

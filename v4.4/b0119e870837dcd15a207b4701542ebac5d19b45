@@ -1,0 +1,7 @@
+b0119e870837 ("iommu: Introduce new 'struct iommu_device'")
+57f98d2f61e1 ("iommu: Introduce iommu_fwspec")
+b996444cf35e ("iommu/of: Handle iommu-map property for PCI")
+8d54d6c8b8f3 ("iommu/amd: Implement apply_dm_region call-back")
+53c92d793395 ("iommu: of: enforce const-ness of struct iommu_ops")
+bc8474549e94 ("iommu/vt-d: Fix up error handling in alloc_iommu")
+592033790e82 ("iommu/vt-d: Check the return value of iommu_device_create()")

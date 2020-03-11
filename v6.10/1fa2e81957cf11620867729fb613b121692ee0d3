@@ -1,0 +1,7 @@
+1fa2e81957cf ("xfs: create libxfs helper to link a new inode into a directory")
+dfaf884233ba ("xfs: push xfs_icreate_args creation out of xfs_create*")
+ba4b39fe4c01 ("xfs: pack icreate initialization parameters into a separate structure")
+fcea5b35f362 ("xfs: hoist project id get/set functions to libxfs")
+b7c477be3969 ("xfs: hoist inode flag conversion functions to libxfs")
+acdddbe16804 ("xfs: hoist extent size helpers to libxfs")
+24a4e1cb322e ("xfs: use consistent uid/gid when grabbing dquots for inodes")

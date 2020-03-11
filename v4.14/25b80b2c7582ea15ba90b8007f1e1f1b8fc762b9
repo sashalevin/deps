@@ -1,0 +1,7 @@
+25b80b2c7582 ("scsi: scsi_debug: Protect block_unblock_all_queues() with mutex")
+151f0ec9ddb5 ("scsi: scsi_debug: Drop sdebug_dev_info.num_in_q")
+0befb8790969 ("scsi: scsi_debug: Drop check for num_in_q exceeding queue depth")
+f19fe8f354a6 ("Revert "scsi: scsi_debug: Address races following module load"")
+500d0d248081 ("scsi: scsi_debug: Divide power on reset UNIT ATTENTION")
+2aad3cd85370 ("scsi: scsi_debug: Address races following module load")
+fe91c4725aee ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,4 @@
+3d3ca53b1639 ("scsi: aacraid: use scsi_host_(block,unblock) to block I/O")
+5646e13a9550 ("scsi: aacraid: move scsi_(block,unblock)_requests out of _aac_reset_adapter()")
+a1855f612686 ("scsi: aacraid: use scsi_host_complete_all_commands() to terminate outstanding commands")
+26c54d0ec25c ("scsi: aacraid: send AIF request post IOP RESET")

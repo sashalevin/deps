@@ -1,0 +1,8 @@
+9481769208b5 ("->file_open(): lose cred argument")
+e3f20ae21079 ("security_file_open(): lose cred argument")
+ae2bb293a3e8 ("get rid of cred argument of vfs_open() and do_dentry_open()")
+ea73ea727988 ("pass ->f_flags value to alloc_empty_file()")
+6de37b6dc085 ("pass creds to get_empty_filp(), make sure dentry_open() passes the right creds")
+b4e7a7a88b5d ("drm_mode_create_lease_ioctl(): fix open-coded filp_clone_open()")
+af04fadcaa93 ("Revert "fs: fold open_check_o_direct into do_dentry_open"")
+9022ca6b1129 ("Merge branch 'work.misc' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

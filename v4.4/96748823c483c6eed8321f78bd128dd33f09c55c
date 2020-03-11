@@ -1,0 +1,8 @@
+96748823c483 ("iio: adc: meson-saradc: Meson8 and Meson8b do not have REG11 and REG13")
+d85eed9f5763 ("iio: adc: meson-saradc: initialize the bandgap correctly on older SoCs")
+6c76ed31cd05 ("iio: adc: meson-saradc: add Meson8b SoC compatibility")
+c1c2de37c7be ("iio: adc: meson-saradc: mark all meson_sar_adc_data static and const")
+3af109131b7e ("iio: adc: meson-saradc: switch from polling to interrupt mode")
+3adbf3427330 ("iio: adc: add a driver for the SAR ADC found in Amlogic Meson SoCs")
+564c364c35ca ("Documentation: dt-bindings: add the Amlogic Meson SAR ADC documentation")
+f836c4592244 ("iio: adc: Move mxs-lradc out of staging")

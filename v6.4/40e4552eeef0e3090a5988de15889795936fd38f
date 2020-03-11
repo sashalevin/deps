@@ -1,0 +1,5 @@
+40e4552eeef0 ("can: m_can: Remove m_can_rx_peripheral indirection")
+07f25091ca02 ("can: m_can: Implement receive coalescing")
+ba72f6c78b9b ("can: m_can: Move hrtimer init to m_can_class_register")
+a163c5761019 ("can: m_can: Start/Cancel polling timer together with interrupts")
+b382380c0d2d ("can: m_can: Add hrtimer to generate software interrupt")

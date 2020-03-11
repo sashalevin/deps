@@ -1,0 +1,6 @@
+ea64cdfad124 ("net: phy: Don't WARN for PHY_UP state in mdio_bus_phy_resume()")
+6dbe852c379f ("net: phy: Don't WARN for PHY_READY state in mdio_bus_phy_resume()")
+744d23c71af3 ("net: phy: Warn about incorrect mdio_bus_phy_resume() state")
+4c0d2e96ba05 ("net: phy: consider that suspend2ram may cut off PHY power")
+7d3ba9360c6d ("net: phy: call phy_disable_interrupts() in phy_attach_direct() instead")
+611d779af7ca ("net: phy: fix MDIO bus PM PHY resuming")

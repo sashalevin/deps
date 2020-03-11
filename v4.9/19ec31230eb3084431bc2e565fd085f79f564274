@@ -1,0 +1,6 @@
+19ec31230eb3 ("usb: dwc3: ep0: explicitly call dwc3_ep0_prepare_one_trb()")
+7931ec86c1b7 ("usb: dwc3: ep0: add dwc3_ep0_prepare_one_trb()")
+5eb30cedced6 ("usb: dwc3: trace: purge dwc3_trace()")
+bb0147364850 ("usb: dwc3: gadget: don't clear RUN/STOP when it's invalid to do so")
+57b14da56227 ("usb: dwc3: don't compile dwc3_trace() unless CONFIG_FTRACE=y")
+cdd72ac20b4a ("usb: dwc3: debug: move dwc3_ep0_state_string() to debug.h")

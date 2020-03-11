@@ -1,0 +1,7 @@
+3bf8bdcf3bad ("hwmon: (core) Do not use device managed functions for memory allocations")
+74e3512731bd ("hwmon: (core) Fix double-free in __hwmon_device_register()")
+47c332deb8e8 ("hwmon: Deal with errors from the thermal subsystem")
+3a412d5e4a1c ("hwmon: (core) Simplify sysfs attribute name allocation")
+38d8ed65092e ("hwmon: (core) fix resource leak on devm_kcalloc failure")
+d560168b5d0f ("hwmon: (core) New hwmon registration API")
+c9ebbe6f23f4 ("hwmon: (core) Order include files alphabetically")

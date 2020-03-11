@@ -1,0 +1,8 @@
+9d170164dbac ("io_uring: partially uninline io_put_task()")
+e98e49b2bbf7 ("io_uring: extend task put optimisations")
+21c843d5825b ("io_uring: move req_ref_get() and friends")
+e9dbe221f5d1 ("io_uring: optimise putting task struct")
+6a290a1442b4 ("io_uring: move io_put_task() definition")
+78cc687be9c5 ("io_uring: unify SQPOLL and user task cancellations")
+09899b19155a ("io_uring: cache task struct refs")
+3dd0c97a9e01 ("io_uring: get rid of files in exit cancel")

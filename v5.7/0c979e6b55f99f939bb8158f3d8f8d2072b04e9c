@@ -1,0 +1,8 @@
+0c979e6b55f9 ("net: stmmac: dwmac-loongson: Drop pci_enable/disable_msi calls")
+fe5b3ce8b437 ("stmmac: dwmac-loongson: fix missing pci_disable_device() in loongson_dwmac_probe()")
+f2d45fdf9a0e ("stmmac: dwmac-loongson: fix missing pci_disable_msi() while module exiting")
+5289de5929d1 ("stmmac: dwmac-loongson:Fix missing return value")
+0d472c69c6a5 ("stmmac: dwmac-loongson: Fix unsigned comparison to zero")
+b0e03950dd71 ("stmmac: dwmac-loongson: fix uninitialized variable in loongson_dwmac_probe()")
+30bba69d7db4 ("stmmac: pci: Add dwmac support for Loongson")
+29e0c2f39f98 ("stmmac: intel: Place object in the Makefile according to the order")

@@ -1,0 +1,8 @@
+c2e7d2df4a10 ("net: mvneta: convert to phylink pcs operations")
+5a7d89536969 ("net: mvneta: convert to use mac_prepare()/mac_finish()")
+0dc1df059888 ("net: mvneta: program 1ms autonegotiation clock divisor")
+02a0988b9893 ("net: mvneta: use phylink_generic_validate()")
+099cbfa286ab ("net: mvneta: drop use of phylink_helper_basex_speed()")
+d9ca72807ecb ("net: mvneta: remove interface checks in mvneta_validate()")
+fdedb695e6a8 ("net: mvneta: populate supported_interfaces member")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")

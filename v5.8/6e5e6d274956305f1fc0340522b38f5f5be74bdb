@@ -1,0 +1,7 @@
+6e5e6d274956 ("io_uring: drop any code related to SCM_RIGHTS")
+705318a99a13 ("io_uring/af_unix: disable sending io_uring over sockets")
+b3a4dbc89d40 ("io_uring/kbuf: Use slab for struct io_buffer objects")
+f74c746e476b ("io_uring/kbuf: Allow the full buffer id space for provided buffers")
+ab69838e7c75 ("io_uring/kbuf: Fix check of BID wrapping in provided buffers")
+b97f96e22f05 ("io_uring: annotate the struct io_kiocb slab for appropriate user copy")
+6e98b09da931 ("Merge tag 'net-next-6.4' of git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net-next")

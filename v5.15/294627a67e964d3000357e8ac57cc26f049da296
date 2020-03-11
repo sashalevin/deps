@@ -1,0 +1,5 @@
+294627a67e96 ("ice: move clear_malvf call in ice_free_vfs")
+fadead80fe4c ("ice: fix concurrent reset and removal of VFs")
+e6ba5273d4ed ("ice: Fix race conditions between virtchnl handling and VF ndo ops")
+b385cca47363 ("ice: Fix not stopping Tx queues for VFs")
+ac19e03ef780 ("ice: allow process VF opcodes in different ways")

@@ -1,0 +1,4 @@
+ee12fe28ae0e ("csky: Cast argument to virt_to_pfn() to (void *)")
+e5080a967785 ("mm, arch: add generic implementation of pfn_valid() for FLATMEM")
+c2524a6b7de1 ("mips: drop definition of pfn_valid() for DISCONTIGMEM")
+d82f07f06cf8 ("m68k: use asm-generic/memory_model.h for both MMU and !MMU")

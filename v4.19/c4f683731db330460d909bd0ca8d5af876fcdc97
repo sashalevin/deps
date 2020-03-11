@@ -1,0 +1,6 @@
+c4f683731db3 ("hwmon: (scmi) Register explicitly with Thermal Framework")
+987bae41e94b ("hwmon: (scmi) port driver to the new scmi_sensor_proto_ops interface")
+0ef0f755b36e ("hwmon: (scmi-hwmon) Avoid comma separated statements")
+3ce17cd2b949 ("hwmon: (scmi) Fix potential buffer overflow in scmi_hwmon_probe()")
+6a55331c87d8 ("firmware: arm_scmi: Drop async flag in sensor_ops->reading_get")
+ac778e62634e ("hwmon: scmi: Scale values to target desired HWMON units")

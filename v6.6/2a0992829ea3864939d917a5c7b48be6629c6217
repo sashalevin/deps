@@ -1,0 +1,6 @@
+2a0992829ea3 ("bpf: correct loop detection for iterators convergence")
+2793a8b015f7 ("bpf: exact states comparison for iterator convergence checks")
+4c97259abc9b ("bpf: extract same_callsites() as utility function")
+3c4e420cb653 ("bpf: move explored_state() closer to the beginning of verifier.c")
+e0e1a7a5fc37 ("selftests/bpf: Add tests for open-coded task_vma iter")
+968c76cb3dc6 ("selftests/bpf: Add bpf_percpu_obj_{new,drop}() macro in bpf_experimental.h")

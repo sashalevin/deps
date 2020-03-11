@@ -1,0 +1,7 @@
+3976beb1b410 ("scsi: lpfc: Fix unintentional double clearing of vmid_flag")
+aba0fb0ef607 ("scsi: lpfc: Move determination of vmid_flag after VMID reinitialization completes")
+f1d2337d3e58 ("scsi: lpfc: Reinitialize internal VMID data structures after FLOGI completion")
+ed913cf4a533 ("scsi: lpfc: Commonize VMID code location")
+5099478e436f ("scsi: lpfc: Change VMID registration to be based on fabric parameters")
+35ed9613d83f ("scsi: lpfc: Improve PCI EEH Error and Recovery Handling")
+a680a9298e7b ("scsi: lpfc: SLI path split: Refactor lpfc_iocbq")

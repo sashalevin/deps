@@ -1,0 +1,8 @@
+91bd7a441bf0 ("drm/i915/display/tgl: Disable FBC with PSR2")
+a21906ead6a5 ("drm/i915/display/fbc: Implement WA 22010751166")
+97a978e2d3a0 ("drm/i915/fbc: Store fence_id directly in fbc cache/params")
+8bdbe1befd9d ("drm/i915/fbc: Track plane visibility")
+6f745ba696fd ("drm/i915/fbc: Precompute gen9 cfb stride w/a")
+f90a85e76c2a ("drm/i915: Perform automated conversions for plane uapi/hw split, base -> uapi.")
+7b3cb17a48dc ("drm/i915: Perform automated conversions for plane uapi/hw split, base -> hw.")
+5b6edb88008f ("drm/i915: Add aliases for uapi and hw to plane_state")

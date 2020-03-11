@@ -1,0 +1,6 @@
+5ceac4402f5d ("xhci: Handle TD clearing for multiple streams case")
+0d9b9f533bf1 ("xhci: Add additional dynamic debug to follow URBs in cancel and error cases.")
+94f339147fc3 ("xhci: Fix failure to give back some cached cancelled URBs.")
+a7f2e9272aff ("xhci: Fix 5.12 regression of missing xHC cache clearing command after a Stall")
+a80c203c3f1c ("xhci: fix giving back URB with incorrect status regression in 5.12")
+9b6a126ae58d ("xhci: Fix giving back cancelled URBs even if halted endpoint can't reset")

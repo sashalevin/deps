@@ -1,0 +1,6 @@
+8d816c1eaa75 ("rtc: isl12022: add support for temperature sensor")
+b1a1baa657c7 ("rtc: isl12022: switch to using regmap API")
+0a2abbfd8586 ("rtc: isl12022: drop redundant write to HR register")
+31b108acc50c ("rtc: isl12022: use dev_set_drvdata() instead of i2c_set_clientdata()")
+43a96b9cf677 ("rtc: isl12022: drop a dev_info()")
+a35a2ad2b88a ("rtc: isl12022: stop using deprecated devm_rtc_device_register()")

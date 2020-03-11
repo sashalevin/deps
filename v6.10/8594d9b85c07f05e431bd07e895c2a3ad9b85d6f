@@ -1,0 +1,5 @@
+8594d9b85c07 ("af_unix: Don't call skb_get() for OOB skb.")
+638f32604385 ("af_unix: Disable MSG_OOB handling for sockets in sockmap/sockhash")
+8647ece4814f ("af_unix: Define locking order for U_RECVQ_LOCK_EMBRYO in unix_collect_skb().")
+ed99822817cb ("af_unix: Define locking order for U_LOCK_SECOND in unix_state_double_lock().")
+3955802f160b ("af_unix: Define locking order for unix_table_double_lock().")

@@ -1,1 +1,4 @@
 6a5c5d26c4c6 ("rdma: fix build errors on s390 and MIPS due to bad ZERO_PAGE use")
+67f269b37f9b ("RDMA/ucontext: Fix regression with disassociate")
+5f9794dc94f5 ("RDMA/ucontext: Add a core API for mmaping driver IO memory")
+c5c4d92e70f3 ("RDMA/uverbs: Use cdev_device_add() instead of cdev_add()")

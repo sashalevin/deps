@@ -1,0 +1,8 @@
+eaa03486d932 ("regmap: maple: Fix uninitialized symbol 'ret' warnings")
+bfa0b38c1483 ("regmap: maple: Implement block sync for the maple tree cache")
+0cc6578048e0 ("regmap: maple: Drop the RCU read lock while syncing registers")
+f033c26de5a5 ("regmap: Add maple tree based register cache")
+2238959b6ad2 ("regmap: Add some basic kunit tests")
+1e2bae6ae8f6 ("regmap: Removed compressed cache support")
+55535589eb7f ("regmap: lzo: Switch to bitmap_zalloc()")
+37613fa5b762 ("regmap: add proper SPDX identifiers on files that did not have them.")

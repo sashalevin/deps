@@ -1,0 +1,8 @@
+9872c7a31921 ("drm/vc4: plane: Switch to drmm_universal_plane_alloc()")
+77c5fb12061f ("drm/vc4: plane: Take possible_crtcs as an argument")
+1cbc91eb7b51 ("drm/vc4: Consolidate Hardware Revision Check")
+3454f01abfa0 ("drm/vc4: hvs: Use pointer to HVS in HVS_READ and HVS_WRITE macros")
+4dfcaa09164e ("drm/vc4: hvs: Move the dlist setup to its own function")
+a7609858bfcd ("drm/vc4: hvs: Remove dlist setup duplication")
+b51cd7ad143d ("drm/vc4: hvs: Fix frame count register readout")
+748acfc98ada ("drm/vc4: kms: Take old state core clock rate into account")

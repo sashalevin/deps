@@ -1,0 +1,4 @@
+115111efd97c ("KVM: x86/mmu: Check SPTE writable invariants when setting leaf SPTEs")
+932859a4e0b9 ("KVM: x86/mmu: Move SPTE writable invariant checks to a helper function")
+5f16bcac6e28 ("KVM: x86/mmu: Document and enforce MMU-writable and Host-writable invariants")
+088acd235266 ("KVM: x86/mmu: Avoid collision with !PRESENT SPTEs in TDP MMU lpage stats")

@@ -1,0 +1,6 @@
+73cc0b9aa9af ("drm/i915: Do not sync RCU during shrinking")
+e92075ff7dc5 ("drm/i915: Simplify shrinker locking")
+8f612d055183 ("drm/i915: Don't call synchronize_rcu_expedited under struct_mutex")
+bd784b7cc41a ("drm/i915: Avoid rcu_barrier() from reclaim paths (shrinker)")
+519d52498156 ("drm/i915: i915_gem_shrink_all() needs an awake device")
+9439b3710df6 ("Merge tag 'drm-for-v4.10' of git://people.freedesktop.org/~airlied/linux")

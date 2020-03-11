@@ -1,0 +1,5 @@
+ce01b173773a ("drm/i915/execlists: Assert there are no simple cycles in the dependencies")
+83cc84c5a848 ("drm/i915: Assert all signalers we depended on did indeed signal")
+1f181225f8ec ("drm/i915/execlists: Keep request->priority for its lifetime")
+b2f2f0fc6905 ("drm/i915: Make i915_spin_request() static")
+a3df2c857c10 ("drm/i915: Confirm request->global_seqno after spin completion")

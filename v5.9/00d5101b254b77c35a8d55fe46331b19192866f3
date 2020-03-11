@@ -1,0 +1,4 @@
+00d5101b254b ("KVM: arm64: Return early from read_id_reg() if register is RAZ")
+7ba8b4380afb ("KVM: arm64: Use the reg_to_encoding() macro instead of sys_reg()")
+957cbca7317f ("KVM: arm64: Remove spurious semicolon in reg_to_encoding()")
+c512298eed03 ("KVM: arm64: Remove AA64ZFR0_EL1 accessors")

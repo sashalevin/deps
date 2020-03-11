@@ -1,1 +1,5 @@
 7367bfeb2c14 ("crypto: arm64/aes-ce - implement 5 way interleave for ECB, CBC and CTR")
+e217413964a4 ("crypto: arm64/aes-ce - add 5 way interleave routines")
+2e5d2f33d1db ("crypto: arm64/aes-blk - improve XTS mask handling")
+6e7de6af91b2 ("crypto: arm64/aes-blk - revert NEON yield for skciphers")
+ed6ed11830a9 ("crypto: arm64/aes-modes - get rid of literal load of addend vector")

@@ -1,0 +1,7 @@
+85846b27072d ("perf/x86: Add PERF_X86_EVENT_NEEDS_BRANCH_STACK flag")
+88081cfb699c ("x86/perf: Assert all platform event flags are within PERF_EVENT_FLAG_ARCH")
+39a41278f041 ("perf/x86/intel: Fix PEBS memory access info encoding for ADL")
+ada543459cab ("perf/x86/amd: Add AMD Fam19h Branch Sampling support")
+369461ce8fb6 ("x86: perf: Move RDPMC event flag to a common definition")
+8b8ff8cc3b81 ("perf/x86: Add new event for AUX output counter index")
+05485745ad48 ("perf/amd/uncore: Allow the driver to be built as a module")

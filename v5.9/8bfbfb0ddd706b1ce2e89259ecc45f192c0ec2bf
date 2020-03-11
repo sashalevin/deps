@@ -1,0 +1,6 @@
+8bfbfb0ddd70 ("f2fs: compress: fix to assign cc.cluster_idx correctly")
+a949dc5f2c5c ("f2fs: compress: fix race condition of overwrite vs truncate")
+adfc694330d3 ("f2fs: fix slab leak of rpages pointer")
+31083031709e ("f2fs: compress: introduce page array slab cache")
+e6c3948de2f8 ("f2fs: compress: use more readable atomic_t type for {cic,dic}.ref")
+376207af4bf8 ("f2fs: compress: remove unneeded code")

@@ -1,0 +1,5 @@
+bf7b042dc62a ("wireguard: allowedips: free empty intermediate nodes when removing single node")
+dc680de28ca8 ("wireguard: allowedips: allocate nodes in kmem_cache")
+f634f418c227 ("wireguard: allowedips: remove nodes in O(1)")
+a4e9f8e3287c ("wireguard: peer: allocate in kmem_cache")
+8b5553ace83c ("wireguard: queueing: get rid of per-peer ring buffers")

@@ -1,0 +1,6 @@
+76f028539cf3 ("iio: adc: ad9467: fix reset gpio handling")
+cdd07b3ab94a ("iio: adc: ad9467: Benefit from devm_clk_get_enabled() to simplify")
+337dbb6ec1ac ("iio: adc: ad9467: wrap a axi-adc chip-info into a ad9467_chip_info type")
+13ca1a1be501 ("iio: adc: ad9467: return ENODEV vs EINVAL in ad9467_setup()")
+ad6797120238 ("iio: adc: ad9467: add support AD9467 ADC")
+ef04070692a2 ("iio: adc: adi-axi-adc: add support for AXI ADC IP core")

@@ -1,0 +1,8 @@
+cdd6ad3ac63d ("KVM: polling: add architecture backend to disable polling")
+bd2a6394fd2d ("KVM: arm/arm64: Introduce kvm_arch_vcpu_run_pid_change")
+f75e4924f015 ("kvm: fix warning for non-x86 builds")
+5cb0944c0c66 ("KVM: introduce kvm_arch_vcpu_async_ioctl")
+9b062471e52a ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl")
+05cade71cf3b ("KVM: nSVM: fix SMI injection in guest mode")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

@@ -1,0 +1,6 @@
+ce69e2fea093 ("mmc: dw_mmc: silent verbose log when calling from PM context")
+e6cd7a8ea1c3 ("mmc: dw_mmc: display the clock message only one time when card is polling")
+005d675aa190 ("mmc: dw_mmc: fix the spamming log message")
+65257a0deed5 ("mmc: dw_mmc: remove UBSAN warning in dw_mci_setup_bus()")
+aaaaeb7a9334 ("mmc: dw_mmc: remove the prepare_command hook")
+7b6471a968bf ("mmc: core: Remove MMC_CAP_RUNTIME_RESUME as it's redundant")

@@ -1,0 +1,8 @@
+892f439ea17c ("posix-timers: Add sys_ni_posix_timers() prototype")
+4c22ea2b9120 ("y2038: use compat_{get,set}_itimer on alpha")
+c1745f84be26 ("y2038: itimer: compat handling to itimer.c")
+cabcebd33b8b ("alpha: add system call table generation support")
+4faea239e529 ("y2038: utimes: Rework #ifdef guards for compat syscalls")
+185cfaf7641e ("y2038: Compile utimes()/futimesat() conditionally")
+82b355d161c9 ("y2038: Remove newstat family from default syscall set")
+9afc5eee65ca ("y2038: globally rename compat_time to old_time32")

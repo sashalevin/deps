@@ -1,0 +1,7 @@
+c8070b787519 ("mm: Don't pin ZERO_PAGE in pin_user_pages()")
+fcab34b433e2 ("mm: re-allow pinning of zero pfns (again)")
+f25cbb7a95a2 ("mm: add zone device coherent type memory support")
+034e5afad921 ("mm: re-allow pinning of zero pfns")
+1c563432588d ("mm: fix is_pinnable_page against a cma page")
+b6a2619c60b4 ("mm/gup: sanity-check with CONFIG_DEBUG_VM that anonymous pages are exclusive when (un)pinning")
+a7f226604170 ("mm/gup: trigger FAULT_FLAG_UNSHARE when R/O-pinning a possibly shared anonymous page")

@@ -1,0 +1,5 @@
+3733a98bd209 ("perf intel-pt: decoder: Add CFE (Control Flow Event) and EVD (Event Data) processing")
+68ff3cba17e9 ("perf intel-pt: decoder: Factor out clearing of FUP (Flow Update) event variables")
+2750af50a360 ("perf intel-pt: pkt-decoder: Add CFE and EVD packets")
+c79ee2b21609 ("perf intel-pt: Fix state setting when receiving overflow (OVF) packet")
+4c761d805bb2 ("perf intel-pt: Fix intel_pt_fup_event() assumptions about setting state type")

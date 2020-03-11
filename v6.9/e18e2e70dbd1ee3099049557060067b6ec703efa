@@ -1,0 +1,7 @@
+e18e2e70dbd1 ("libbpf: handle yet another corner case of nulling out struct_ops program")
+0737df6de946 ("libbpf: better fix for handling nulled-out struct_ops program")
+1bba3b3d373d ("selftests/bpf: validate nulled-out struct_ops program is handled properly")
+f973fccd43d3 ("libbpf: handle nulled-out program in struct_ops correctly")
+ba0cbe2bb4ab ("selftests/bpf: Make sure libbpf doesn't enforce the signature of a func pointer.")
+26a7cf2bbea6 ("selftests/bpf: Ensure libbpf skip all-zeros fields of struct_ops maps.")
+c911fc61a7ce ("libbpf: Skip zeroed or null fields if not found in the kernel type.")

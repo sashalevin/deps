@@ -1,0 +1,5 @@
+86004515ed80 ("block: remove a layer of indentation in bio_iov_iter_get_pages")
+c42bca92be92 ("bio: don't copy bvec for direct IO")
+3e1a88ec9625 ("bio: add a helper calculating nr segments to alloc")
+0cf41e5e9baf ("block/psi: remove PSI annotations from direct IO")
+9b2e0016d04c ("bvec/iter: disallow zero-length segment bvecs")

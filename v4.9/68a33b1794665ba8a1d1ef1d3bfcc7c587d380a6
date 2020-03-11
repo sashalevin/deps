@@ -1,0 +1,7 @@
+68a33b179466 ("dma-direct: exclude dma_direct_map_resource from the min_low_pfn check")
+4268ac6ae587 ("dma-direct: don't check swiotlb=force in dma_direct_map_resource")
+c7345159f7db ("dma-direct: avoid a forward declaration for phys_to_dma")
+130c1ccbf553 ("dma-direct: unify the dma_capable definitions")
+b12d66278dd6 ("dma-direct: check for overflows on 32 bit DMA addresses")
+3fc1ca00653d ("swiotlb: Split size parameter to map/unmap APIs")
+ac60602a6d8f ("Merge tag 'dma-mapping-5.3-1' of git://git.infradead.org/users/hch/dma-mapping")

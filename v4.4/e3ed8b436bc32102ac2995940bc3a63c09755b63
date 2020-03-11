@@ -1,0 +1,7 @@
+e3ed8b436bc3 ("fbdev: remove blackfin drivers")
+f1b95b71f195 ("fbdev: arm64 use __raw I/O memory api")
+2ac17ef72c3b ("video: bfin-lq035q1-fb: constify dev_pm_ops")
+ee65e18206f5 ("fb: adv7393: off by one in probe function")
+53d73a0adc81 ("fb: adv7393: Use IS_ENABLED() instead of checking for built-in or module")
+b5644a153d27 ("fbdev/bfin_adv7393fb: move DRIVER_NAME before its first use")
+2f9ba65d9d79 ("fbdev: kill fb_rotate")

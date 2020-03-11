@@ -1,0 +1,4 @@
+64701838bf05 ("x86/percpu: Move preempt_count next to current_task")
+e57ef2ed97c1 ("x86: Put hot per CPU variables into a struct")
+f1a0a376ca0c ("sched/core: Initialize the idle task with preemption disabled")
+1591584e2e76 ("x86/process/64: Move cpu_current_top_of_stack out of TSS")

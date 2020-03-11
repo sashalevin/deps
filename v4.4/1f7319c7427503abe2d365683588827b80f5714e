@@ -1,0 +1,8 @@
+1f7319c74275 ("zram: partial IO refactoring")
+d72e9a7a93e4 ("zram: do not use copy_page with non-page aligned address")
+8e19d540d107 ("zram: extend zero pages to same element pages")
+a09759acaacf ("zram: remove waitqueue for IO done")
+c87d1655c295 ("zram: remove obsolete sysfs attrs")
+c11f0c0b5bb9 ("block/mm: make bdev_ops->rw_page() take a bool for read/write")
+abf545484d31 ("mm/block: convert rw_page users to bio op use")
+f0c98ebc57c2 ("Merge tag 'libnvdimm-for-4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

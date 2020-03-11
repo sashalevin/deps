@@ -1,0 +1,5 @@
+3b5bbe798b24 ("pidfd: prevent creation of pidfds for kthreads")
+83b290c9e3b5 ("pidfd: clone: allow CLONE_THREAD | CLONE_PIDFD together")
+64bef697d33b ("pidfd: implement PIDFD_THREAD flag for pidfd_open()")
+21e25205d7f9 ("pidfd: don't do_notify_pidfd() if !thread_group_empty()")
+cdefbf2324ce ("pidfd: cleanup the usage of __pidfd_prepare's flags")

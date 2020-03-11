@@ -1,0 +1,7 @@
+02f10ba178e7 ("dm: add argument identifier names")
+b33b6fdca3f0 ("dm bufio: simplify DM_BUFIO_CLIENT_NO_SLEEP locking")
+3c1c875d0586 ("dm bufio: conditionally enable branching for DM_BUFIO_CLIENT_NO_SLEEP")
+b32d45824aa7 ("dm bufio: Add DM_BUFIO_CLIENT_NO_SLEEP flag")
+33bd6f069385 ("dm table: make 'struct dm_table' definition accessible to all of DM core")
+3720281db9ad ("dm: optimize max_io_len() by inlining max_io_len_target_boundary()")
+5091cdec56fa ("dm: change max_io_len() to use blk_max_size_offset()")

@@ -1,0 +1,6 @@
+59272ad8d9e8 ("bus: fsl-mc: Make remove function return void")
+c27ea8e6325c ("soc: fsl: dpio: Suppress duplicated error reporting on device remove")
+b3134039c5b3 ("bus: fsl-mc: fsl-mc-allocator: Improve error reporting")
+f8fce8318366 ("bus: fsl-mc: dprc: Push down error message from fsl_mc_driver_remove()")
+b816b9444c10 ("bus: fsl-mc: Only warn once about errors on device unbind")
+7566692c571d ("vfio/fsl-mc: Use the new device life cycle helpers")

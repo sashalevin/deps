@@ -1,0 +1,4 @@
+4a37f3dd9a83 ("dma-direct: don't over-decrypt memory")
+a90cf3043748 ("dma-direct: always leak memory that can't be re-encrypted")
+5570449b6876 ("dma-direct: don't call dma_set_decrypted for remapped allocations")
+4d0564785bb0 ("dma-direct: factor out dma_set_{de,en}crypted helpers")

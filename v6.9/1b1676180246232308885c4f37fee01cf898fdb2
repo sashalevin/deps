@@ -1,0 +1,6 @@
+1b1676180246 ("mm/gup: handle huge pud for follow_pud_mask()")
+caf8cab79857 ("mm/gup: cache *pudp in follow_pud_mask()")
+878b0c451621 ("mm/gup: handle hugetlb for no_page_table()")
+1965e933ddeb ("mm/treewide: replace pXd_huge() with pXd_leaf()")
+089f92141ed0 ("mm/gup: check p4d presence before going on")
+e6fd5564c07c ("mm/gup: cache p4d in follow_p4d_mask()")

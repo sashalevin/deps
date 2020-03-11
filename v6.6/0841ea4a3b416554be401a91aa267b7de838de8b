@@ -1,0 +1,6 @@
+0841ea4a3b41 ("iomap: keep on increasing i_size in iomap_write_end()")
+e1f453d4336d ("iomap: do some small logical cleanup in buffered write")
+815f4b633ba1 ("iomap: make iomap_write_end() return a boolean")
+1a61d74932d4 ("iomap: use a new variable to handle the written bytes in iomap_write_iter()")
+943bc0882ceb ("iomap: don't increase i_size if it's not a write operation")
+89c6c1d91ab2 ("iomap: drop the write failure handles when unsharing and zeroing")

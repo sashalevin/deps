@@ -1,0 +1,5 @@
+2ca73c54ce24 ("powerpc/pseries/iommu: Allow DDW windows starting at 0x00")
+bf6e2d562bbc ("powerpc/dma: Fallback to dma_ops when persistent memory present")
+8c0d51592f6f ("powerpc/pseries/iommu: Allow bigger 64bit window by removing default DMA window")
+80f025123113 ("powerpc/pseries/iommu: Update call to ibm, query-pe-dma-windows")
+cac3e629086f ("powerpc/pseries/iommu: Create defines for operations in ibm, ddw-applicable")

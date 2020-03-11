@@ -1,0 +1,7 @@
+d3e7d20befd9 ("ext4: use the normal helper to get the actual inode")
+2ce3ee931a09 ("ext4: avoid utf8_strncasecmp() with unstable name")
+ec772f01307a ("ext4: fix race conditions in ->d_compare() and ->d_hash()")
+6456ca6520ab ("ext4: fix kernel oops caused by spurious casefold flag")
+96fcaf86c3cb ("ext4: fix coverity warning on error path of filename setup")
+3ae72562ad91 ("ext4: optimize case-insensitive lookups")
+a9fbcd672883 ("Merge tag 'fscrypt_for_linus' of git://git.kernel.org/pub/scm/fs/fscrypt/fscrypt")

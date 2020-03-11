@@ -1,0 +1,8 @@
+b44f71e3fa35 ("mm/vmalloc.c: use helper function va_size()")
+4b68a773a7ce ("mm/vmalloc.c: optimize to reduce arguments of alloc_vmap_area()")
+aaab830ad887 ("mm/vmalloc: eliminated the lock contention from twice to once")
+8e1d743f2c26 ("mm: vmalloc: support multiple nodes in vmallocinfo")
+72210662c5a2 ("mm: vmalloc: offload free_vmap_area_lock lock")
+282631cb2447 ("mm: vmalloc: remove global purge_vmap_area_root rb-tree")
+d093602919ad ("mm: vmalloc: remove global vmap_area_root rb-tree")
+7fa8cee00316 ("mm: vmalloc: move vmap_init_free_space() down in vmalloc.c")

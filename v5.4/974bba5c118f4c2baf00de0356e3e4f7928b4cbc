@@ -1,0 +1,8 @@
+974bba5c118f ("usb: config: fix iteration issue in 'usb_get_bos_descriptor()'")
+7a09c1269702 ("USB: core: Change configuration warnings to notices")
+91c7eaa686c3 ("USB: rename USB quirk to USB_QUIRK_ENDPOINT_IGNORE")
+7f1b92a6a7f2 ("USB: core: clean up endpoint-descriptor parsing")
+bdd1b147b802 ("USB: quirks: blacklist duplicate ep on Sound Devices USBPre2")
+73f8bda9b5dc ("USB: core: add endpoint-blacklist quirk")
+2548288b4fb0 ("USB: Fix: Don't skip endpoint descriptors with maxpacket=0")
+3e4f8e21c4f2 ("USB: core: fix check for duplicate endpoints")

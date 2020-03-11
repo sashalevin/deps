@@ -1,0 +1,4 @@
+68f014a58b65 ("ALSA: seq: fifo: Use guard() for locking")
+75545304eba6 ("ALSA: seq: Fix potential concurrent access to the deleted pool")
+f823b8a75527 ("ALSA: seq: Remove superfluous irqsave flags")
+fd7ae83de11a ("ALSA: seq: Use kvmalloc() for cell pools")

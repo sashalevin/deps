@@ -1,0 +1,5 @@
+b5b18160a3e7 ("ext4: fix mmap write protection for data=journal mode")
+afb585a97f81 ("ext4: data=journal: write-protect pages on j_submit_inode_data_buffers()")
+64a9f1449950 ("ext4: data=journal: fixes for ext4_page_mkwrite()")
+342af94ec6c0 ("jbd2, ext4, ocfs2: introduce/use journal callbacks j_submit|finish_inode_data_buffers()")
+aa3c0c61f62d ("jbd2: introduce/export functions jbd2_journal_submit|finish_inode_data_buffers()")

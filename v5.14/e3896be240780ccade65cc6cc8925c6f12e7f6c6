@@ -1,0 +1,8 @@
+e3896be24078 ("tty: serial: uartps: Add support for uartps controller reset")
+fccc9d9233f9 ("tty: serial: uartps: Add rs485 support to uartps driver")
+74231ab6cc2d ("tty: serial: uartps: Relocate cdns_uart_tx_empty to facilitate rs485")
+c980248179d6 ("serial: xilinx_uartps: Use port lock wrappers")
+03a94800b9f3 ("tty: xilinx_uartps: Initialise the read_status_mask")
+08814cd69d4e ("serial: xilinx_uartps: cache xmit in cdns_uart_handle_tx()")
+a28ef75816fc ("serial: xilinx_uartps: return early in cdns_uart_handle_tx()")
+88b20f84f0fe ("serial: xilinx_uartps: Fix race condition causing stuck TX")

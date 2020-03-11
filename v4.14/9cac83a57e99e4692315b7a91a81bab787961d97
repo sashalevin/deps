@@ -1,0 +1,7 @@
+9cac83a57e99 ("rcu: Stop expedited grace periods from relying on stop-machine")
+fcc635436501 ("rcu: Make expedited GPs handle CPU 0 being offline")
+25f3d7effab6 ("rcu: Parallelize expedited grace-period initialization")
+ad7c946b35ad ("rcu: Create RCU-specific workqueues with rescuers")
+65963d246147 ("rcu: Make expedited RCU CPU selection avoid unnecessary stores")
+7f5d42d05155 ("rcu: Trace expedited GP delays due to transitioning CPUs")
+9a414201ae7e ("rcu: Add more tracing of expedited grace periods")

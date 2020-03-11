@@ -1,0 +1,8 @@
+405b45376de9 ("perf/x86: Implement immediate enforcement of /sys/devices/cpu/rdpmc value of 0")
+21e450d21cca ("x86/mm: Avoid redundant interrupt disable in load_mm_cr4()")
+145f573b89a6 ("x86/mm/tlb: Make lazy TLB mode lazier")
+4012e77a903d ("x86/nmi: Fix NMI uaccess race against CR3 switching")
+631fe154edb0 ("perf/x86: Update rdpmc_always_available static key to the modern API")
+18bf3c3ea8ec ("x86/speculation: Use Indirect Branch Prediction Barrier in context switch")
+9d0b62328d34 ("x86/tlb: Disable interrupts when changing CR4")
+0c3292ca8025 ("x86/tlb: Refactor CR4 setting and shadow write")

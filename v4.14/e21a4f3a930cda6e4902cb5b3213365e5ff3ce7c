@@ -1,0 +1,4 @@
+e21a4f3a930c ("KVM: arm/arm64: Avoid vcpu_load for other vcpu ioctls than KVM_RUN")
+9b062471e52a ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl")
+66b565622299 ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_guest_debug")
+e83dff5edf0c ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_mpstate")

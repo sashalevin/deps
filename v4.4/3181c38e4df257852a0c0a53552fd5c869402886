@@ -1,0 +1,3 @@
+3181c38e4df2 ("kernel/sysctl.c: remove duplicate UINT_MAX check on do_proc_douintvec_conv()")
+425fffd886ba ("sysctl: report EINVAL if value is larger than UINT_MAX for proc_douintvec")
+e7d316a02f68 ("sysctl: handle error writing UINT_MAX to u32 fields")

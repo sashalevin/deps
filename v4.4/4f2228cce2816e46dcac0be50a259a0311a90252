@@ -1,0 +1,7 @@
+4f2228cce281 ("dmaengine: bcm2835: Allow cyclic transactions without interrupt")
+de92436ac40f ("dmaengine: bcm2835-dma: Use vchan_terminate_vdesc() instead of desc_free")
+e2eca6389b03 ("dmaengine: bcm2835: use platform_get_irq_byname")
+408741225827 ("dmaengine: bcm2835: limit max length based on channel type")
+92153bb534fa ("dmaengine: bcm2835: move controlblock chain generation into separate method")
+a4dcdd849ef8 ("dmaengine: bcm2835: move cyclic member from bcm2835_chan into bcm2835_desc")
+a1d71ba90c68 ("dmaengine: bcm2835: remove unnecessary masking of dma channels")

@@ -1,0 +1,5 @@
+f49cd2f4d617 ("tcp: Fix data races around icsk->icsk_af_ops.")
+34704ef024ae ("bpf: net: Change do_tcp_getsockopt() to take the sockptr_t argument")
+086d49058cd8 ("ipv6: annotate some data-races around sk->sk_prot")
+b3cb764aa1d7 ("net: drop nopreempt requirement on sock_prot_inuse_add()")
+2a12ae5d433d ("net: inline sock_prot_inuse_add()")

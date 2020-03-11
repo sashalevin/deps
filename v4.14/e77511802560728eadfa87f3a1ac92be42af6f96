@@ -1,0 +1,8 @@
+e77511802560 ("infiniband: hfi1: no need to check return value of debugfs_create functions")
+5c43276499f9 ("infiniband: hfi1: drop crazy DEBUGFS_SEQ_FILE_CREATE() macro")
+937488a85986 ("IB/hfi1: Dump pio info for non-user send contexts")
+a74d5307caba ("IB/hfi1: Rework fault injection machinery")
+8c79d8223bb1 ("IB/hfi1: Fix fault injection init/exit issues")
+b5de809ef6f6 ("IB/hfi1: Show fault stats in both TX and RX directions")
+1b311f8931cf ("IB/hfi1: Add tx_opcode_stats like the opcode_stats")
+6fab2a88f737 ("IB/hfi1: Remove unused hfi1_cpulist variables")

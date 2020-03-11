@@ -1,0 +1,7 @@
+00bc5e8fc917 ("serial: stm32: use DMAT as a configuration bit")
+29d8c07b4957 ("serial: stm32: Use uart_xmit_advance()")
+9a135f16d228 ("serial: stm32: rework TX DMA state condition")
+56a23f9319e8 ("serial: stm32: move tx dma terminate DMA to shutdown")
+d1ec8a2eabe9 ("serial: stm32: update throttle and unthrottle ops for dma mode")
+33bb2f6ac308 ("serial: stm32: rework RX over DMA")
+cc58d0a3f0a4 ("serial: stm32: re-introduce an irq flag condition in usart_receive_chars")

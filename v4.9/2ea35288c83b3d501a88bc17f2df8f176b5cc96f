@@ -1,0 +1,6 @@
+2ea35288c83b ("skbuff: skb_segment, Call zero copy functions before using skbuff frags")
+2f631133c40c ("net: Pass NULL to skb_network_protocol() when we don't care about vlan depth")
+13acc94eff12 ("net: permit skb_segment on head_frag frag_list skb")
+bf5c25d60861 ("skbuff: in skb_segment, call zerocopy functions once per nskb")
+268b79067942 ("skbuff: orphan frags before zerocopy clone")
+fff88030b3ff ("skbuff: only inherit relevant tx_flags")

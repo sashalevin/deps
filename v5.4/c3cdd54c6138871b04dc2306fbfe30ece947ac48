@@ -1,0 +1,5 @@
+c3cdd54c6138 ("arm64/ptrace: Use system_supports_tpidr2() to check for TPIDR2 support")
+0027d9c6c7b5 ("arm64/ptrace: Support access to TPIDR2_EL0")
+759de58f28b1 ("arm64: switch to ->regset_get()")
+a96dacf98884 ("arm64: take fetching compat reg out of pt_regs into a new helper")
+c9d66999f064 ("arm64: ptrace: nofpsimd: Fail FP/SIMD regset operations")

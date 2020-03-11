@@ -1,0 +1,8 @@
+43e9e705dd57 ("irqdomain/msi: Allow to override msi_domain_alloc/free_irqs()")
+da5dd9e854d2 ("genirq/msi: Handle reactivation only on success")
+22d0b12f3560 ("genirq/irqdomain: Add force reactivation flag to irq domains")
+42e1cc2dc5b6 ("genirq/irqdomain: Propagate early activation")
+bb9b428a5c83 ("genirq/irqdomain: Allow irq_domain_activate_irq() to fail")
+72491643469a ("genirq/irqdomain: Update irq_domain_ops.activate() signature")
+c942cee46bba ("genirq: Separate activation and startup")
+457f6d35072f ("genirq: Make state consistent for !IRQ_DOMAIN_HIERARCHY")

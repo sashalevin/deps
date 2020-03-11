@@ -1,0 +1,8 @@
+298287f6e79a ("drm/msm: Signal fences sooner")
+c5c1643cef7a ("drm/msm: Drop struct_mutex from the retire path")
+964d2f97e74b ("drm/msm: Refcount submits")
+77d205290aa9 ("drm/msm: Protect ring->submits with it's own lock")
+77c406038e83 ("drm/msm: Document and rename preempt_lock")
+2a86efb1bf72 ("drm/msm: Move update_fences()")
+20224d715a88 ("drm/msm/submit: Move copy_from_user ahead of locking bos")
+7e688294c61b ("drm/msm/gpu: Convert retire/recover work to kthread_worker")

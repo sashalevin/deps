@@ -1,0 +1,7 @@
+1255dfd18799 ("usb: host: ohci-platform: remove custom USB PHY handling")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")
+20a7f3ad6227 ("usb: ohci-platform: use reset array API")
+0aa0b93e7af6 ("usb: host: ohci-platform: Add basic runtime PM support")
+a8c06e407ef9 ("usb: separate out sysdev pointer from usb_bus")
+d3d6ef1fb908 ("usb: host: ohci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")
+42a58c9949dd ("usb: host: ehci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")

@@ -1,0 +1,6 @@
+f74515986e63 ("fsdax: depend on ZONE_DEVICE || FS_DAX_LIMITED")
+27674ef6c73f ("mm: remove the extra ZONE_DEVICE struct page refcount")
+dc90f0846df4 ("mm: don't include <linux/memremap.h> in <linux/mm.h>")
+895749455f60 ("mm: simplify freeing of devmap managed pages")
+75e55d8a107e ("mm: move free_devmap_managed_page to memremap.c")
+730ff52194cd ("mm: remove pointless includes from <linux/hmm.h>")

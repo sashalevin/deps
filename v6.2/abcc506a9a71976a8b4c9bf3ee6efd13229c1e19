@@ -1,0 +1,4 @@
+abcc506a9a71 ("ksmbd: fix racy issue from smb2 close and logoff with multichannel")
+ea174a918939 ("ksmbd: destroy expired sessions")
+f5c779b7ddbd ("ksmbd: fix racy issue from session setup and logoff")
+1d9c4172110e ("ksmbd: Implements sess->ksmbd_chann_list as xarray")

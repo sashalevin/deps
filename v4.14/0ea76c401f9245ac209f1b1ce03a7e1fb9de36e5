@@ -1,0 +1,7 @@
+0ea76c401f92 ("gpiolib: acpi: Add a quirk for Asus UM325UAZ")
+0c625ccfe6f7 ("gpiolib: acpi: Add quirk to ignore EC wakeups on HP x2 10 CHT + AXP288 model")
+61f7f7c8f978 ("gpiolib: acpi: Add gpiolib_acpi_run_edge_events_on_boot option and blacklist")
+e59f5e08ece1 ("gpiolib-acpi: Only defer request_irq for GpioInt ACPI event handlers")
+78d3a92edbfb ("gpiolib-acpi: Register GpioInt ACPI event handlers from a late_initcall")
+993b9bc5c47f ("gpiolib: acpi: Switch to cansleep version of GPIO library call")
+ca876c7483b6 ("gpiolib-acpi: make sure we trigger edge events at least once on boot")

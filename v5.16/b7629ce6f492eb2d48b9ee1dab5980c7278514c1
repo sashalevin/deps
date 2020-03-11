@@ -1,0 +1,6 @@
+b7629ce6f492 ("nubus: Remove proc entries before adding them")
+0e96647cff92 ("nubus: Partially revert proc_create_single_data() conversion")
+359745d78351 ("proc: remove PDE_DATA() completely")
+6dfbbae14a7b ("fs: proc: store PDE()->data into inode->i_private")
+87b93329fdd6 ("hwmon: (dell-smm) Unify i8k_ioctl() and i8k_ioctl_unlocked()")
+024053877469 ("hwmon: (dell-smm) Simplify ioctl handler")

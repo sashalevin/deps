@@ -1,0 +1,5 @@
+7990ccafaa37 ("ima: Fix the error code for restoring the PCR value")
+1ea973df6e21 ("ima: Calculate and extend PCR with digests in ima_template_entry")
+6d94809af6b0 ("ima: Allocate and initialize tfm for each PCR bank")
+aa724fe18a8a ("ima: Switch to dynamically allocated buffer for template digests")
+7ca79645a1f8 ("ima: Store template digest directly in ima_template_entry")

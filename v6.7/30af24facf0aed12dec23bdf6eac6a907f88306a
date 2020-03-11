@@ -1,0 +1,7 @@
+30af24facf0a ("userfaultfd: fix deadlock warning when locking src and dst VMAs")
+867a43a34ff8 ("userfaultfd: use per-vma locks in userfaultfd operations")
+5e4c24a57b0c ("userfaultfd: protect mmap_changing with rw_sem in userfaulfd_ctx")
+f91e6b41dd11 ("userfaultfd: move userfaultfd_ctx struct to header file")
+6ca03f1bb5a7 ("userfaultfd: fix return error if mmap_changing is non-zero in MOVE ioctl")
+67695f18d559 ("userfaultfd: fix mmap_changing checking in mfill_atomic_hugetlb")
+adef440691ba ("userfaultfd: UFFDIO_MOVE uABI")

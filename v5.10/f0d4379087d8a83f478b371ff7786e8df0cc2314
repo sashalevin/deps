@@ -1,0 +1,5 @@
+f0d4379087d8 ("KVM: x86/mmu: Remove broken WARN that fires on 32-bit KVM w/ nested EPT")
+8a406c89532c ("KVM: x86/mmu: Rename and document A/D scheme for TDP SPTEs")
+8120337a4c55 ("KVM: x86/mmu: Stop using software available bits to denote MMIO SPTEs")
+30ab5901da57 ("KVM: x86/mmu: Don't install bogus MMIO SPTEs if MMIO caching is disabled")
+44aaa0150bfd ("KVM: x86/mmu: Disable MMIO caching if MMIO value collides with L1TF")

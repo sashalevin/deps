@@ -1,0 +1,8 @@
+b159eeccb75a ("asm-generic/bitops: Use instrument_read_write() where appropriate")
+27f937cc810a ("asm-generic, kcsan: Add KCSAN instrumentation for bitops")
+81d2c6f81996 ("kasan: support instrumented bitops combined with generic bitops")
+9779048d71b1 ("s390/kasan: add bitops instrumentation")
+0a5c3c2f4766 ("s390/bitops: make test functions return bool")
+751ad98d5f88 ("asm-generic, x86: add bitops instrumentation for KASAN")
+5b77e95dd779 ("x86/asm: Use stricter assembly constraints in bitops")
+88ca66d8540c ("x86/asm: Remove dead __GNUC__ conditionals")

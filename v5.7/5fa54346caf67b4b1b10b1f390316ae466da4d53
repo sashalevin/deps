@@ -1,0 +1,2 @@
+5fa54346caf6 ("kthread: prevent deadlock when kthread_mod_delayed_work() races with kthread_cancel_delayed_work_sync()")
+34b3d5344719 ("kthread_worker: split code for canceling the delayed work timer")

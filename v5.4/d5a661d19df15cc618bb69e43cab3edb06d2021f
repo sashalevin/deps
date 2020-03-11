@@ -1,0 +1,5 @@
+d5a661d19df1 ("KVM: x86: Clean up error handling in kvm_dev_ioctl_get_cpuid()")
+8b86079cc339 ("KVM: x86: Simplify handling of Centaur CPUID leafs")
+619a17f11069 ("KVM: x86: Refactor loop around do_cpuid_func() to separate helper")
+68c9a46e9ee8 ("KVM: x86: Return -E2BIG when KVM_GET_SUPPORTED_CPUID hits max entries")
+edef5c36b0c7 ("KVM: x86: implement MSR_IA32_TSX_CTRL effect on CPUID")

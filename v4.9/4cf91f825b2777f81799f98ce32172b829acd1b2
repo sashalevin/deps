@@ -1,0 +1,6 @@
+4cf91f825b27 ("ipv6: Add reasons for skb drops to __udp6_lib_rcv")
+eb63f2964dbe ("udp6: add missing checks on edumux packet processing")
+64f0f5d18a47 ("udp6: set rx_dst_cookie on rx_dst updates")
+c9f2c1ae123a ("udp6: fix socket leak on early demux")
+d24406c85d12 ("udp: call dst_hold_safe() in udp_sk_rx_set_dst()")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")

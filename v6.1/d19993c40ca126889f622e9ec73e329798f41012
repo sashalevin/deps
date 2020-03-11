@@ -1,0 +1,8 @@
+d19993c40ca1 ("serial: cpm: Convert to platform remove callback returning void")
+dbae4258d156 ("serial: cpm_uart: Remove cpm_uart/ subdirectory")
+8d1bd031ba15 ("serial: cpm_uart: Refactor cpm_uart_[un]map_pram()")
+86f0a9c8e3de ("serial: cpm_uart: Refactor cpm_uart_allocbuf()/cpm_uart_freebuf()")
+ae8261ed7e68 ("serial: cpm_uart: Deduplicate cpm_line_cr_cmd()")
+647f5a00d306 ("serial: cpm_uart: Deduplicate cpm_set_{brg/smc_fcr/scc_fcr}()")
+b5f405e53fea ("serial: cpm_uart: Remove stale prototypes and table and macros")
+2076b2a4a6b7 ("Merge 6.4-rc5 into tty-next")

@@ -1,0 +1,4 @@
+28f152cd0926 ("sched/rt: fix build error when CONFIG_SYSCTL is disable")
+dafd7a9dad22 ("sched: Move rr_timeslice sysctls to rt.c")
+84227c12888b ("sched: Move deadline_period sysctls to deadline.c")
+d9ab0e63fa7f ("sched: Move rt_period/runtime sysctls to rt.c")

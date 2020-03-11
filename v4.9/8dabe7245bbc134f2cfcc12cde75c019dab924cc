@@ -1,0 +1,8 @@
+8dabe7245bbc ("y2038: syscalls: rename y2038 compat syscalls")
+3876ced476c8 ("timex: change syscalls to use struct __kernel_timex")
+1a596398a3d7 ("sparc64: add custom adjtimex/clock_adjtime functions")
+4d5f007eedb7 ("time: make adjtime compat handling available for 32 bit")
+90856087daca ("s390: remove compat_wrapper.c")
+aa0d6e70d3b3 ("s390: autogenerate compat syscall wrappers")
+fef747bab3c0 ("s390: use generic UID16 implementation")
+d9a7fa67b4bf ("Merge branch 'next-seccomp' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")

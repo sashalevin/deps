@@ -1,0 +1,5 @@
+4cd5f4403f28 ("genirq/msi: Provide new domain id based interfaces for freeing interrupts")
+3e86a3a3ed03 ("genirq/msi: Check for invalid MSI parent domain usage")
+057c97a1cd66 ("genirq/msi: Make __msi_domain_free_irqs() static")
+f6d3486a3d2f ("genirq/msi: Provide msi_domain_ops:: Post_free()")
+762687ceb31f ("genirq/msi: Make __msi_domain_alloc_irqs() static")

@@ -1,0 +1,7 @@
+5bfc311dd6c3 ("usb: xhci: correct return value in case of STS_HCE")
+84ac5e4fa517 ("xhci: move event processing for one interrupter to a separate function")
+e30e9ad9ed66 ("xhci: update event ring dequeue pointer position to controller correctly")
+143e64df1bda ("xhci: remove unnecessary event_ring_deq parameter from xhci_handle_event()")
+becbd202af84 ("xhci: make isoc_bei_interval variable interrupter specific.")
+4f022aad80dc ("xhci: Add interrupt pending autoclear flag to each interrupter")
+c99b38c41234 ("xhci: add support to allocate several interrupters")

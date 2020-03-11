@@ -1,0 +1,4 @@
+3cbf7530a163 ("qrtr: Convert qrtr_ports from IDR to XArray")
+8dfddfb79653 ("net: qrtr: fix usage of idr in port assignment to socket")
+f16a4b26f31f ("net: qrtr: Make qrtr_port_lookup() use RCU")
+b24844b1b537 ("net: qrtr: Inform open sockets about new controller")

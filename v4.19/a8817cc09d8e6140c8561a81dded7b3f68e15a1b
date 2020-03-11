@@ -1,0 +1,5 @@
+a8817cc09d8e ("nvme: move from strlcpy with unused retval to strscpy")
+6299358d198a ("nvme: introduce NVME_QUIRK_IGNORE_DEV_SUBNQN")
+b662a078576e ("nvmet: enable Discovery Controller AENs")
+5eadc9cce171 ("nvmet: use strlcpy() instead of strcpy()")
+bb2a1d4e804a ("nvme-core: rework a NQN copying operation")

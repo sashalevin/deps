@@ -1,0 +1,5 @@
+d551afc25878 ("printk: Use scnprintf() to print the message about the dropped messages on a console")
+c4fcc617e148 ("printk: introduce console_prepend_dropped() for dropped messages")
+2830eec14afd ("printk: introduce printk_get_next_message() and printk_message")
+daaab5b5bba3 ("printk: introduce struct printk_buffers")
+2364b406824f ("printk: move size limit macros into internal.h")

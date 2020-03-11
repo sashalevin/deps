@@ -1,0 +1,7 @@
+21327a042dd9 ("f2fs: fix to avoid use SSR allocate when do defragment")
+ac2d750b2043 ("f2fs: do not use AT_SSR mode in FG_GC & high urgent BG_GC")
+093749e296e2 ("f2fs: support age threshold based garbage collection")
+c5d02785c59d ("f2fs: inherit mtime of original block during GC")
+6f3a01ae9b72 ("f2fs: record average update time of segment")
+d0b9e42ab615 ("f2fs: introduce inmem curseg")
+de881df97768 ("f2fs: support zone capacity less than zone size")

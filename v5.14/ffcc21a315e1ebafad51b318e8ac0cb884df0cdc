@@ -1,0 +1,6 @@
+ffcc21a315e1 ("rcu-tasks: Maintain a count of tasks blocking RCU Tasks Trace grace period")
+550611269b15 ("rcu-tasks: Remove rcu_tasks_trace_postgp() wait for counter")
+3847b64570b1 ("rcu-tasks: Merge state into .b.need_qs and atomically update")
+65b629e70489 ("rcu-tasks: Inspect stalled task's trc state in locked state")
+f5dbc594b5ba ("rcu-tasks: Don't remove tasks with pending IPIs from holdout list")
+6fedc28076bb ("Merge tag 'rcu.2021.11.01a' of git://git.kernel.org/pub/scm/linux/kernel/git/paulmck/linux-rcu")

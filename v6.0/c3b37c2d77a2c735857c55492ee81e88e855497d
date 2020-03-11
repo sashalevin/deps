@@ -1,0 +1,4 @@
+c3b37c2d77a2 ("KVM: arm64: Pass the actual page address to mte_clear_page_tags()")
+d77e59a8fccd ("arm64: mte: Lock a page for MTE tag initialisation")
+e059853d14ca ("arm64: mte: Fix/clarify the PG_mte_tagged semantics")
+a8e5e5146ad0 ("arm64: mte: Avoid setting PG_mte_tagged if no tags cleared or restored")

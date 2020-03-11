@@ -1,0 +1,7 @@
+ae75d9089ff7 ("locking/qspinlock: Use try_cmpxchg() instead of cmpxchg() when locking")
+f9c811fac48c ("locking/qspinlock: Use atomic_cond_read_acquire()")
+c61da58d8a9b ("locking/qspinlock: Kill cmpxchg() loop when claiming lock from head of queue")
+59fb586b4a07 ("locking/qspinlock: Remove unbounded cmpxchg() loop from locking slowpath")
+625e88be1f41 ("locking/qspinlock: Merge 'struct __qspinlock' into 'struct qspinlock'")
+11752adb68a3 ("locking/pvqspinlock: Implement hybrid PV queued/unfair locks")
+34d54f3d6917 ("locking/pvqspinlock: Relax cmpxchg's to improve performance on some architectures")

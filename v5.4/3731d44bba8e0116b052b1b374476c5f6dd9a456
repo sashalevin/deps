@@ -1,0 +1,6 @@
+3731d44bba8e ("NFSv4: Fix an Oops in pnfs_mark_request_commit() when doing O_DIRECT")
+1f28476dcb98 ("NFS: Fix O_DIRECT commit verifier handling")
+fb5f7f20cdb9 ("NFS: commit errors should be fatal")
+c21e7168848d ("NFSv4/pnfs: Support a list of commit arrays in struct pnfs_ds_commit_info")
+d7242c4641fb ("pNFS: Add a helper to allocate the array of buckets")
+221203ce6406 ("NFS/pnfs: Fix pnfs_generic_prepare_to_resend_writes()")

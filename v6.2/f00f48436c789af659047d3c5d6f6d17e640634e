@@ -1,0 +1,4 @@
+f00f48436c78 ("mm: convert unuse_pte() to use a folio throughout")
+96db66d9c8f3 ("mm: convert ksm_might_need_to_copy() to work on folios")
+1486fb50136f ("mm: ksm: use more folio api in ksm_might_need_to_copy()")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

@@ -1,0 +1,6 @@
+90d04510a774 ("btrfs: remove root argument from btrfs_log_inode() and its callees")
+289cffcb0399 ("btrfs: remove no longer needed checks for NULL log context")
+b590b839720c ("btrfs: avoid unnecessary logging of xattrs during fast fsyncs")
+64d6b281ba4d ("btrfs: remove unnecessary check_parent_dirs_for_sync()")
+3e6a86a193b0 ("btrfs: skip logging directories already logged when logging all parents")
+ab12313a9f56 ("btrfs: avoid logging new ancestor inodes when logging new inode")

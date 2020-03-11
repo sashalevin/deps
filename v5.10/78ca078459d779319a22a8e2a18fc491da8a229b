@@ -1,0 +1,7 @@
+78ca078459d7 ("iommu/vt-d: Prepare for multiple DMA domain types")
+ac6d704679d3 ("iommu/dma: Pass address limit rather than size to iommu_setup_dma_ops()")
+d6177a6556f8 ("iommu/amd: Clear DMA ops when switching domain")
+a8ce9ebbecdf ("iommu/vt-d: Preset Access/Dirty bits for IOVA over FL")
+58a8bb39490d ("iommu/vt-d: Cleanup after converting to dma-iommu ops")
+c588072bba6b ("iommu/vt-d: Convert intel iommu driver to the iommu ops")
+2a2b8eaa5b25 ("iommu: Handle freelists when using deferred flushing in iommu drivers")

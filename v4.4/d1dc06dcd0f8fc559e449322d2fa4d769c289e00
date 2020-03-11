@@ -1,0 +1,6 @@
+d1dc06dcd0f8 ("virtio_net: fix csum generation for virtio-net devices")
+e858fae2b0b8 ("virtio_net: use common code for virtio_net_hdr and skb GSO conversion")
+93f93a440415 ("net: move skb_mark_napi_id() into core networking stack")
+868fdb06063d ("mlx4: remove mlx4_en_low_latency_recv()")
+b59768c6b4fc ("bnx2x: remove bnx2x_low_latency_recv() support")
+5865316c9db3 ("mlx4: mlx4_en_low_latency_recv() called with BH disabled")

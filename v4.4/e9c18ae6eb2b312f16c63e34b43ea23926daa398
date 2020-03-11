@@ -1,0 +1,7 @@
+e9c18ae6eb2b ("Drivers: hv: util: move waiting for release to hv_utils_transport itself")
+9420098adc50 ("Drivers: hv: utils: fix crash when device is removed from host side")
+a15025660d47 ("Drivers: hv: utils: introduce HVUTIL_TRANSPORT_DESTROY mode")
+a72f3a4ccff2 ("Drivers: hv: utils: rename outmsg_lock")
+1f75338b6fec ("Drivers: hv: utils: fix memory leak on on_msg() failure")
+ed9ba608e485 ("Drivers: hv: vss: run only on supported host versions")
+b00359642c24 ("Drivers: hv: utils: use memdup_user in hvt_op_write")

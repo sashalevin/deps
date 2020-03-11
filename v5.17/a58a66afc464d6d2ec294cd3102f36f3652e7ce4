@@ -1,0 +1,5 @@
+a58a66afc464 ("KVM: x86: Don't inhibit APICv/AVIC on xAPIC ID "change" if APIC is disabled")
+3743c2f02517 ("KVM: x86: inhibit APICv/AVIC on changes to APIC ID or APIC base")
+a9603ae0e4ee ("KVM: x86: document AVIC/APICv inhibit reasons")
+c538dc792ff7 ("KVM: SVM: Do not activate AVIC for SEV-enabled guest")
+7491b7b2e1c5 ("KVM: x86: Make APICv inhibit reasons an enum and cleanup naming")

@@ -1,0 +1,6 @@
+7dcc683db363 ("scsi: lpfc: Fix the NULL vs IS_ERR() bug for debugfs_create_file()")
+9f77870870d8 ("scsi: lpfc: Add debugfs support for cm framework buffers")
+2fcbc569b9f5 ("scsi: lpfc: Make debugfs ktime stats generic for NVME and SCSI")
+840eda9602d3 ("scsi: lpfc: Fix erroneous cpu limit of 128 on I/O statistics")
+201743b99c05 ("scsi: lpfc: fix build failure with DEBUGFS disabled")
+bc227dde0d8b ("scsi: lpfc: Initialize cpu_map for not present cpus")

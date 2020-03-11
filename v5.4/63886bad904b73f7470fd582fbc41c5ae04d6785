@@ -1,0 +1,5 @@
+63886bad904b ("mm/mmu_notifier: silence PROVE_RCU_LIST warnings")
+1991722a70ff ("mm/mmu_notifiers: Use 'subscription' as the variable name for mmu_notifier")
+984cfe4e2526 ("mm/mmu_notifier: Rename struct mmu_notifier_mm to mmu_notifier_subscriptions")
+99cb252f5e68 ("mm/mmu_notifier: add an interval tree notifier")
+56f434f40f05 ("mm/mmu_notifier: define the header pre-processor parts even if disabled")

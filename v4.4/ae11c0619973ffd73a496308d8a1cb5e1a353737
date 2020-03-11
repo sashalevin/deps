@@ -1,0 +1,8 @@
+ae11c0619973 ("MIPS: math-emu: <MADDF|MSUBF>.<D|S>: Clean up "maddf_flags" enumeration")
+7cf64ce4d37f ("MIPS: math-emu: <MADDF|MSUBF>.<D|S>: Fix some cases of zero inputs")
+0c64fe634868 ("MIPS: math-emu: <MADDF|MSUBF>.<D|S>: Fix some cases of infinite inputs")
+e840be6e7057 ("MIPS: math-emu: <MADDF|MSUBF>.<D|S>: Fix NaN propagation")
+ddbfff7429a7 ("MIPS: math-emu: Handle zero accumulator case in MADDF and MSUBF separately")
+e2d11e1a8398 ("MIPS: math-emu: Add z argument macros")
+d728f6709bcc ("MIPS: math-emu: Unify ieee754dp_m{add,sub}f")
+6162051e87f6 ("MIPS: math-emu: Unify ieee754sp_m{add,sub}f")

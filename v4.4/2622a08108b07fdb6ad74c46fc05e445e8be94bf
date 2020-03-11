@@ -1,0 +1,5 @@
+2622a08108b0 ("drm/i915: Wait for vblank after cxsr disable in pre_plane_update")
+2dfd178dc051 ("drm/i915: Do not disable cxsr when crtc is disabled.")
+200757f5d7c6 ("drm/i915: Disable primary plane if we fail to reconstruct BIOS fb (v2)")
+54a4196188ea ("drm/i915: Do a better job at disabling primary plane in the noatomic case.")
+fc32b1fdce1f ("drm/i915: Do not wait for flips in intel_crtc_disable_noatomic.")

@@ -1,0 +1,4 @@
+40db075545ad ("gpio: pca953x: Get rid of useless goto label")
+ec5bde62019b ("gpio: pca953x: Split pca953x_restore_context() and pca953x_save_context()")
+518e26f11af2 ("gpio: pca953x: Add mutex_lock for regcache sync in PM")
+8c1f1c34777b ("gpio: pca953x: Correctly initialize registers 6 and 7 for PCA957x")

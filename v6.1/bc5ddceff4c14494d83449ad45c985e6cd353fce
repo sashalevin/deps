@@ -1,0 +1,7 @@
+bc5ddceff4c1 ("efi/libstub: Add limit argument to efi_random_alloc()")
+a37dac5c5dcf ("arm64: efi: Limit allocations to 48-bit addressable physical region")
+9cf42bca30e9 ("efi: libstub: use EFI_LOADER_CODE region when moving the kernel in memory")
+c51e97e7f129 ("efi: libstub: Merge zboot decompressor with the ordinary stub")
+2e6fa86f2d48 ("efi: libstub: Enable efi_printk() in zboot decompressor")
+52dce39cd278 ("efi: libstub: Clone memcmp() into the stub")
+0d60ffeec53c ("efi: libstub: Deduplicate ftrace command line argument filtering")

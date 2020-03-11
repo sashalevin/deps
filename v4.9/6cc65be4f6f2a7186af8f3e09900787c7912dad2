@@ -1,0 +1,4 @@
+6cc65be4f6f2 ("locking/qspinlock: Fix build for anonymous union in older GCC compilers")
+625e88be1f41 ("locking/qspinlock: Merge 'struct __qspinlock' into 'struct qspinlock'")
+11752adb68a3 ("locking/pvqspinlock: Implement hybrid PV queued/unfair locks")
+34d54f3d6917 ("locking/pvqspinlock: Relax cmpxchg's to improve performance on some architectures")

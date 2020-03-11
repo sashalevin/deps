@@ -1,0 +1,6 @@
+63808bbb3e22 ("pwm: pxa: Don't reimplement of_device_get_match_data()")
+3ab7b6ac5d82 ("pwm: Introduce single-PWM of_xlate function")
+b63d60b2eaf3 ("pwm: pxa: Always use the same variable name for driver data")
+81b7c173e360 ("pwm: pxa: Drop if with an always false condition")
+5447e7833629 ("pwm: Drop of_pwm_simple_xlate() in favour of of_pwm_xlate_with_flags()")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")

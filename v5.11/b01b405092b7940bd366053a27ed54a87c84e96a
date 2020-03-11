@@ -1,0 +1,3 @@
+b01b405092b7 ("kvfree_rcu: Use __GFP_NOMEMALLOC for single-argument kvfree_rcu()")
+148e3731d124 ("kvfree_rcu: Directly allocate page for single-argument case")
+84109ab58590 ("rcu: Record kvfree_call_rcu() call stack for KASAN")

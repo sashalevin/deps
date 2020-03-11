@@ -1,0 +1,8 @@
+d67210bbe5f3 ("drm/vc4: txp: Remove call to drm_connector_unregister()")
+121b1a5f47e5 ("drm/vc4: txp: Remove vc4_dev txp pointer")
+39fcb2808376 ("drm/vc4: txp: Turn the TXP into a CRTC of its own")
+5a20ff8bf3d4 ("drm/vc4: crtc: Split CRTC data in two")
+ae44a52779f1 ("drm/vc4: crtc: Move crtc state to common header")
+7678142f1d3c ("drm/vc4: crtc: Switch to of_device_get_match_data")
+debf585ce543 ("drm/vc4: crtc: Rename SoC data structures")
+e10cde4ad0ed ("drm/vc4: plane: Move planes creation to its own function")

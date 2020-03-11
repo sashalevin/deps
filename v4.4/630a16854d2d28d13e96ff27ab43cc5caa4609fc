@@ -1,0 +1,5 @@
+630a16854d2d ("arm64: KVM: Encapsulate kvm_cpu_context in kvm_host_data")
+32f139551954 ("arm/arm64: KVM: Statically configure the host's view of MPIDR")
+7c36447ae5a0 ("KVM: arm64: Set SCTLR_EL2.DSSBS if SSBD is forcefully disabled and !vhe")
+9bc03f1df31a ("arm64: KVM: Cleanup tpidr_el2 init on non-VHE")
+b357bf6023a9 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

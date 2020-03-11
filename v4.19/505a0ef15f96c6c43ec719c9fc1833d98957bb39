@@ -1,0 +1,7 @@
+505a0ef15f96 ("kasan: stackdepot: move filter_irq_stacks() to stackdepot.c")
+56d8f079c51a ("lib/stackdepot: Remove obsolete functions")
+880e049c9ce9 ("mm/kasan: Simplify stacktrace handling")
+c0cfc337264c ("lib/stackdepot: Provide functions which operate on plain storage arrays")
+ead97a49ec3a ("mm/kasan: Remove the ULONG_MAX stack trace hackery")
+bffa986c6f80 ("kasan: move common generic and tag-based code to common.c")
+0116523cfffa ("kasan, mm: change hooks signatures")

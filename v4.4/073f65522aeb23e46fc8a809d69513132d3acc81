@@ -1,0 +1,7 @@
+073f65522aeb ("fanotify: use notification_lock instead of access_lock")
+c21dbe20f606 ("fsnotify: convert notification_mutex to a spinlock")
+1404ff3cc3a1 ("fsnotify: drop notification_mutex before destroying event")
+96d41019e3ac ("fanotify: fix list corruption in fanotify_get_response()")
+12703dbfeb15 ("fsnotify: add a way to stop queueing events on group shutdown")
+35e481761cdc ("fsnotify: avoid spurious EMFILE errors from inotify_init()")
+0918f1c309b8 ("fsnotify: turn fsnotify reaper thread into a workqueue job")

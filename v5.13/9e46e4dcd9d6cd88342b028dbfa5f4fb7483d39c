@@ -1,0 +1,4 @@
+9e46e4dcd9d6 ("mm,memblock: reset memblock.reserved to system init state to prevent UAF")
+c94afc46cae7 ("memblock: use kfree() to release kmalloced memblock regions")
+621d973901cf ("memblock: stop aliasing __memblock_free_late with memblock_free_late")
+fa27717110ae ("memblock: drop memblock_free_early_nid() and memblock_free_early()")

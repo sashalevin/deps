@@ -1,0 +1,2 @@
+f2e030dd7aae ("io_uring: replace smp_mb() with smp_mb__after_atomic() in io_sq_thread()")
+649bb75d19c9 ("io_uring: fix memory ordering when SQPOLL thread goes to sleep")

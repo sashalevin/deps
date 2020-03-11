@@ -1,0 +1,5 @@
+b2ccba9e8cdc ("firmware: arm_scmi: Fix xfers allocation on Rx channel")
+c92c3e382ebd ("firmware: arm_scmi: Add method to override max message number")
+9ca5a1838e59 ("firmware: arm_scmi: Introduce monotonically increasing tokens")
+bdb8742dc6f7 ("firmware: arm_scmi: Fix range check for the maximum number of pending messages")
+e30d91d4ffda ("firmware: arm_scmi: Move reinit_completion from scmi_xfer_get to do_xfer")

@@ -1,0 +1,6 @@
+325f3fb551f8 ("kprobes: Fix possible use-after-free issue on kprobe registration")
+1efda38d6f9b ("kprobes: Prohibit probes in gate area")
+28f6c37a2910 ("kprobes: Forbid probing on trampoline and BPF code areas")
+223a76b268c9 ("kprobes: Fix coding style issues")
+9c89bb8e3272 ("kprobes: treewide: Cleanup the error messages for kprobes")
+02afb8d6048d ("kprobe: Simplify prepare_kprobe() by dropping redundant version")

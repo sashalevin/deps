@@ -1,0 +1,3 @@
+60e528d6ce3f ("x86/fpu: Remove preempt_disable() in fpu__clear()")
+2ce03d850b9a ("x86/fpu: Rename fpu__activate_curr() to fpu__initialize()")
+a10b6a16cdad ("x86/fpu: Make the fpu state change in fpu__clear() scheduler-atomic")

@@ -1,0 +1,5 @@
+5eb35a6ccea6 ("ieee802154: atusb: do not use the stack for address fetching to make it DMA able")
+2fd2b550a5ed ("ieee802154: atusb: make sure we set a randaom extended address if fetching fails")
+6cc33eba232c ("ieee802154: atusb: try to read permanent extended address from device")
+0f4715c87031 ("ieee802154: atusb: implement .set_cca_ed_level ops callback")
+fb7c579ab01f ("ieee802154: atusb: implement .set_csma_params ops callback")

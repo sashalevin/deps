@@ -1,0 +1,4 @@
+85d68222ddc5 ("rcu: Break rcu_node_0 --> &rq->__lock order")
+9424b867a759 ("rcu: Eliminate rcu_implicit_dynticks_qs() local variable ruqp")
+88ee23ef1c12 ("rcu: Eliminate rcu_implicit_dynticks_qs() local variable rnhqp")
+8211e922de28 ("rcu: Use per_cpu_ptr to get the pointer of per_cpu variable")

@@ -1,0 +1,4 @@
+d6da67378198 ("s390/crash: move copy_to_user_real() to crash_dump.c")
+303fd988ed64 ("s390/maccess: fix semantics of memcpy_real() and its callers")
+dc306186a130 ("s390/dump: fix old lowcore virtual vs physical address confusion")
+3b90954419d4 ("s390/dump: fix copying to user-space of swapped kdump oldmem")

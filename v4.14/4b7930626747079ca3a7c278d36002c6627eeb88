@@ -1,0 +1,8 @@
+4b7930626747 ("mm/vmscan.c: make may_enter_fs bool in shrink_page_list()")
+8940b34a4e08 ("mm: change PAGEREF_RECLAIM_CLEAN with PAGE_REFRECLAIM")
+98879b3b9edc ("mm: vmscan: correct some vmscan counters for THP swapout")
+886cf1901db9 ("mm: move recent_rotated pages calculation to shrink_inactive_list()")
+060f005f0747 ("mm/vmscan.c: do not allocate duplicate stack variables in shrink_page_list()")
+a9e7c39fa9fd ("mm/vmscan.c: remove 7th argument of isolate_lru_pages()")
+d51d1e64500f ("mm, vmscan, tracing: use pointer to reclaim_stat struct in trace event")
+4518085e127d ("mm, sysctl: make NUMA stats configurable")

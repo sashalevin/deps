@@ -1,0 +1,7 @@
+0d846469fd21 ("mm: remove PageWaiters, PageSetWaiters and PageClearWaiters")
+bb43b14b5762 ("mm: delete __ClearPageWaiters()")
+b109b87050df ("mm/munlock: replace clear_page_mlock() by final clearance")
+cea86fe246b6 ("mm/munlock: rmap call mlock_vma_page() munlock_vma_page()")
+a213e5cf71cb ("mm/munlock: delete munlock_vma_pages_all(), allow oomreap")
+ebcbc6ea7d8a ("mm/munlock: delete page_mlock() and all its works")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

@@ -1,0 +1,6 @@
+32e36bfbcf31 ("scsi: target/iscsi: Avoid iscsit_release_commands_from_conn() deadlock")
+064cdd2d91c2 ("target: Fix race between iscsi-target connection shutdown + ABORT_TASK")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

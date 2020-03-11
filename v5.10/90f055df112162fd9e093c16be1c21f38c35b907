@@ -1,0 +1,6 @@
+90f055df1121 ("mm/slub: refactor calculate_order() and calc_slab_order()")
+5886fc82b6e3 ("mm/slub: attempt to find layouts up to 1/2 waste in calculate_order()")
+0fe2735d5e2e ("mm/slub: remove min_objects loop from calculate_order()")
+d122019bf061 ("mm: Split slab into its own type")
+3286222fc609 ("mm, slub: better heuristic for number of cpus when calculating slab order")
+045ab8c9487b ("mm/slub: let number of online CPUs determine the slub page order")

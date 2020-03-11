@@ -1,0 +1,6 @@
+c03242b13176 ("drm/i915: Remove commit_plane function pointer.")
+a758e6845825 ("drm/i915: Do not use commit_plane for sprite planes.")
+2fde13910c8c ("drm/i915: Use passed plane state for sprite planes, v4.")
+44eb0cb9620c ("drm/i915: Avoid pointer arithmetic in calculating plane surface offset")
+791a32be6eb2 ("drm/i915: Drop intel_update_sprite_watermarks")
+6285262259ca ("drm/i915: Only run commit when crtc is active, v2.")

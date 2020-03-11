@@ -1,0 +1,3 @@
+a8e03e00b620 ("drm/i915: Move CSC load back into .color_commit_arm() when PSR is enabled on skl/glk")
+d13dde449580 ("drm/i915: Split pipe+output CSC programming to noarm+arm pair")
+e9b14658d519 ("drm/i915: Split color_commit() into noarm+arm pair")

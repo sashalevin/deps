@@ -1,0 +1,6 @@
+e1da043f2b2d ("net: ravb: Rely on PM domain to enable gptp_clk")
+9039cd4c6163 ("net: ravb: Wait for operating mode to be applied")
+edf9bc396e05 ("net: ravb: Keep reverse order of operations in ravb_remove()")
+e6864af61493 ("ravb: Fix up dma_free_coherent() call in ravb_remove()")
+c72a7e42592b ("ravb: Fix "failed to switch device to config mode" message during unbind")
+72069a7b2821 ("ravb: Use separate clock for gPTP")

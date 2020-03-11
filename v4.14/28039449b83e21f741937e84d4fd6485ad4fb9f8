@@ -1,0 +1,8 @@
+28039449b83e ("KVM: selftests: Convert debug_regs away from VCPU_ID")
+877bd3997c50 ("KVM: selftests: Rename MP_STATE and GUEST_DEBUG helpers for consistency")
+ffb7c77fd503 ("KVM: sefltests: Use vcpu_ioctl() and __vcpu_ioctl() helpers")
+1d438b3bc25e ("KVM: selftests: Split vcpu_set_nested_state() into two helpers")
+02e04c15caee ("KVM: selftests: Make vcpu_ioctl() a wrapper to pretty print ioctl name")
+2b38a7398f20 ("KVM: selftests: Add another underscore to inner ioctl() helpers")
+d8969871253a ("KVM: selftests: nSVM: Add svm_nested_soft_inject_test")
+47e8eec83262 ("Merge tag 'kvmarm-5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

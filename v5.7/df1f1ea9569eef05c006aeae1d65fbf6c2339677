@@ -1,0 +1,7 @@
+df1f1ea9569e ("scripts: add rust in scripts/Makefile.package")
+a3c4d4abaaf0 ("kbuild: hard-code KBUILD_ALLDIRS in scripts/Makefile.package")
+113147510b48 ("kbuild: fix the modules order between drivers and libs")
+3ec8a5b33dea ("kbuild: do not export LDFLAGS_vmlinux")
+f0d50ca045e4 ("kbuild: refactor KBUILD_VMLINUX_{OBJS,LIBS} calculation")
+95fb6317b3ab ("kbuild: merge net-y and virt-y into drivers-y")
+23febe375d94 ("kbuild: merge init-y into core-y")

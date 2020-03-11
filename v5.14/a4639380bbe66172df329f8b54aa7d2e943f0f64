@@ -1,0 +1,7 @@
+a4639380bbe6 ("f2fs: fix to drop meta_inode's page cache in f2fs_put_super()")
+20872584b8c0 ("f2fs: fix to drop all dirty meta/node pages during umount()")
+b1c5ef26e4e8 ("f2fs: return true if all cmd were issued or no cmd need to be issued for f2fs_issue_discard_timeout()")
+25547439f1dc ("f2fs: don't call f2fs_issue_discard_timeout() when discard_cmd_cnt is 0 in f2fs_put_super()")
+4d67490498ac ("f2fs: Don't create discard thread when device doesn't support realtime discard")
+4f993264fe29 ("f2fs: introduce discard_unit mount option")
+277afbde6ca2 ("f2fs: fix wrong checkpoint_changed value in f2fs_remount()")

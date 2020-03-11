@@ -1,0 +1,7 @@
+f3c852b0b0fc ("cifs: do not share tcp servers with dfs mounts")
+c9f711039905 ("cifs: keep referral server sessions alive")
+2b133b7e216b ("cifs: get rid of @noreq param in __dfs_cache_find()")
+9cfdb1c12bae ("cifs: constify get_normalized_path() properly")
+8d7672235533 ("cifs: don't cargo-cult strndup()")
+5ff2836ed3a5 ("cifs: introduce helper for finding referral server to improve DFS target resolution")
+ff2c54a04097 ("cifs: check all path components in resolved dfs target")

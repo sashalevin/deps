@@ -1,0 +1,5 @@
+4bcc9bba48fa ("gpiolib: acpi: Move ACPI device NULL check to acpi_can_fallback_to_crs()")
+49c02f6e901c ("gpiolib: acpi: Move acpi_can_fallback_to_crs() out of __acpi_find_gpio()")
+4cd3ef01f60e ("gpiolib: acpi: Simplify error handling in __acpi_find_gpio()")
+4fa4c499af53 ("gpiolib: acpi: Extract __acpi_find_gpio() helper")
+d8a26a18d971 ("gpiolib: acpi: Check for errors first in acpi_find_gpio()")

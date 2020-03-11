@@ -1,0 +1,8 @@
+f0577b1b6394 ("media: uvcvideo: Avoid invalid memory access")
+6350d6a4ed48 ("media: uvcvideo: Set error_idx during ctrl_commit errors")
+ee929d5a10ca ("media: uvcvideo: Check controls flags before accessing them")
+70fa906d6fce ("media: uvcvideo: Use control names from framework")
+9b31ea808a44 ("media: uvcvideo: Add support for V4L2_CTRL_TYPE_CTRL_CLASS")
+866c6bdd5663 ("media: uvcvideo: refactor __uvc_ctrl_add_mapping")
+0c6bcbdfefa8 ("media: uvcvideo: Remove s_ctrl and g_ctrl")
+a2f8a484fbc9 ("media: uvcvideo: Do not check for V4L2_CTRL_WHICH_DEF_VAL")

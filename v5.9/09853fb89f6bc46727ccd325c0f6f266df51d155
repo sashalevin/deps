@@ -1,0 +1,5 @@
+09853fb89f6b ("rcu: Add comment to rcu_do_batch() identifying rcuoc code path")
+3e61e95e2d09 ("rcu: Fix callbacks processing time limit retaining cond_resched()")
+78ad37a2c50d ("rcu/nocb: Limit number of softirq callbacks only on softirq")
+e3abe959fbd5 ("rcu/nocb: Only cond_resched() from actual offloaded batch processing")
+6bc335828056 ("rcu/tree: Make rcu_do_batch count how many callbacks were executed")

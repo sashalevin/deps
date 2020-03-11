@@ -1,0 +1,5 @@
+b84155c38076 ("KVM: VMX: Introduce vmx_msr_bitmap_l01_changed() helper")
+67f4b9969c30 ("KVM: nVMX: Handle dynamic MSR intercept toggling")
+7dfbc624eb57 ("KVM: nVMX: Query current VMCS when determining if MSR bitmaps are in use")
+dbdd096a5a74 ("KVM: VMX: Intercept FS/GS_BASE MSR accesses for 32-bit KVM")
+e23f6d490eb0 ("KVM: VMX: Invert the inlining of MSR interception helpers")

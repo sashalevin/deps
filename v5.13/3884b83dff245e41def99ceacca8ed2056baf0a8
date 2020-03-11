@@ -1,0 +1,4 @@
+3884b83dff24 ("io_uring: don't assign write hint in the read path")
+b9a6b8f92f6f ("io_uring: kill unused param from io_file_supports_nowait")
+5cb03d63420b ("io_uring: clean io_prep_rw()")
+5d329e1286b0 ("io_uring: allow retry for O_NONBLOCK if async is supported")

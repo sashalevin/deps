@@ -1,0 +1,4 @@
+1464e48d69ab ("drm/bridge: anx7625: Prevent endless probe loop")
+71450f8c824f ("drm/bridge: anx7625: Convert to i2c's .probe_new()")
+dfb02eb6bdf8 ("drm/bridge: anx7625: Fix NULL pointer crash when using edp-panel")
+e660916b7f4d ("drm/bridge: anx7625: Convert to devm_i2c_new_dummy_device()")

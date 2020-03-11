@@ -1,0 +1,5 @@
+756e5a47a5dd ("kasan: test: avoid corrupting memory in copy_user_test")
+e156656717b8 ("lib/test_kasan_module.c: suppress unused var warning")
+1f600626b3a9 ("kasan: rename KASAN_SHADOW_* to KASAN_GRANULE_*")
+cebd0eb29acd ("kasan: rename (un)poison_shadow to (un)poison_range")
+3b1a4a864087 ("kasan: group vmalloc code")

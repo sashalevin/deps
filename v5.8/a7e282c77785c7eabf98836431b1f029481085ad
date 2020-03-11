@@ -1,0 +1,8 @@
+a7e282c77785 ("tick/rcu: Fix bogus ratelimit condition")
+0345691b24c0 ("tick/rcu: Stop allowing RCU_SOFTIRQ in idle")
+47c218dcae65 ("tick/sched: Prevent false positive softirq pending warnings on RT")
+8b1c04acad08 ("softirq: Make softirq control and processing RT aware")
+ae9ef58996a4 ("softirq: Move related code into one section")
+bca37119c57b ("tick-sched: Clarify "NOHZ: local_softirq_pending" warning")
+a21ee6055c30 ("lockdep: Change hardirq{s_enabled,_context} to per-cpu variables")
+c935cd62d3fe ("lockdep: Split header file into lockdep and lockdep_types")

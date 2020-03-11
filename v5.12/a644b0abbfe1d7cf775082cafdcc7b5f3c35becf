@@ -1,0 +1,6 @@
+a644b0abbfe1 ("mm: convert split_huge_pages_pid() to use a folio")
+f04029f34e8c ("mm: convert is_transparent_hugepage() to use a folio")
+562beb7235ab ("mm/huge_memory: make is_transparent_hugepage() static")
+d4b4084ac315 ("mm: Turn can_split_huge_page() into can_split_folio()")
+346cf61311f6 ("mm: Add split_folio_to_list()")
+fa6c02315f74 ("mm: huge_memory: a new debugfs interface for splitting THP tests")

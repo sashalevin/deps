@@ -1,0 +1,4 @@
+8a79052c329e ("tty: serial: fsl_lpuart: don't enable receiver/transmitter before rx/tx dma ready")
+4f5cb8c5e915 ("tty: serial: fsl_lpuart: enable wakeup source for lpuart")
+374e01fa1304 ("serial: fsl_lpuart: Fix comment typo")
+b14109f302d0 ("tty: serial: fsl_lpuart: Use __maybe_unused instead of #if CONFIG_PM_SLEEP")

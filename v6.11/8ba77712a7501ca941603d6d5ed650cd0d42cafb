@@ -1,0 +1,6 @@
+8ba77712a750 ("printk: nbcon: Flush new records on device_release()")
+97ea9bccfcbe ("printk: Track registered boot consoles")
+adf6f37d142e ("nbcon: Add API to acquire context for non-printing operations")
+e55c3bcf380c ("printk: nbcon: Use driver synchronization while (un)registering")
+d3ff380d47b6 ("printk: Properly deal with nbcon consoles on seq init")
+f37b105faef6 ("printk: nbcon: Consolidate alloc() and init()")

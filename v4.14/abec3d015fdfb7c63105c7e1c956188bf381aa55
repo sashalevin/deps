@@ -1,0 +1,5 @@
+abec3d015fdf ("userfaultfd: open userfaultfds with O_RDONLY")
+b537900f1598 ("userfaultfd: use secure anon inodes for userfaultfd")
+cbcfa130a911 ("fs/userfaultfd.c: disable irqs for fault_pending and event locks")
+c430d1e848ff ("userfaultfd: use fault_wqh lock")
+284cd241a18e ("userfaultfd: convert to use anon_inode_getfd()")

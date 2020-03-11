@@ -1,0 +1,8 @@
+94c1adc4c124 ("drm/vc4: crtc: Rework the encoder retrieval code (again)")
+d0229c360a42 ("drm/vc4: Make vc4_crtc_get_encoder public")
+b601c16b7ba8 ("drm/vc4: crtc: Lookup the encoder from the register at boot")
+5a184d959d5a ("drm/vc4: crtc: Fix vc4_get_crtc_encoder logic")
+8d9147466776 ("drm/vc4: Pass the atomic state to encoder hooks")
+ee6965c864e3 ("drm/vc4: hvs: Align the HVS atomic hooks to the new API")
+f6ebe9f9c923 ("drm/atomic: Pass the full state to CRTC atomic begin and flush")
+33700f6f7d9f ("drm/ingenic: Reset pixclock rate when parent clock rate changes")

@@ -1,0 +1,5 @@
+ef69aa3a986e ("net: netfilter: Add kfuncs to set and change CT status")
+0b3892364431 ("net: netfilter: Add kfuncs to set and change CT timeout")
+d7e79c97c00c ("net: netfilter: Add kfuncs to allocate and insert CT")
+aed8ee7feb44 ("net: netfilter: Deduplicate code in bpf_{xdp,skb}_ct_lookup")
+a4703e318432 ("bpf: Switch to new kfunc flags infrastructure")

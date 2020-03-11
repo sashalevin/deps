@@ -1,0 +1,3 @@
+49d42872d520 ("virtio-mem: use page_zonenum() in virtio_mem_fake_offline()")
+f2d799d59135 ("virtio-mem: retry fake-offlining via alloc_contig_range() on ZONE_MOVABLE")
+89c486c47f2a ("virtio-mem: factor out fake-offlining into virtio_mem_fake_offline()")

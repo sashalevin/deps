@@ -1,0 +1,6 @@
+d5d933f09ac3 ("spi: rockchip: fix missing error on unsupported SPI_CS_HIGH")
+3a4bf922d42e ("spi: rockchip: Preset cs-high and clk polarity in setup progress")
+869f2c94db92 ("spi: rockchip: Stop spi slave dma receiver when cs inactive")
+80808768e413 ("spi: rockchip: terminate dma transmission when slave abort")
+736b81e07517 ("spi: rockchip: Support SPI_CS_HIGH")
+4d9ca632c847 ("spi: rockchip: Config spi rx dma burst size depend on xfer length")

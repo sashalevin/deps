@@ -1,0 +1,6 @@
+f91daf565b0e ("io_uring: short circuit -EAGAIN for blocking read attempt")
+227c0c9673d8 ("io_uring: internally retry short reads")
+ff6165b2d7f6 ("io_uring: retain iov_iter state over io_read/io_write calls")
+2dd2111d0d38 ("io_uring: Fix NULL pointer dereference in loop_rw_iter()")
+c1dd91d16246 ("io_uring: add comments on how the async buffered read retry works")
+cdc8fcb49905 ("Merge tag 'for-5.9/io_uring-20200802' of git://git.kernel.dk/linux-block")

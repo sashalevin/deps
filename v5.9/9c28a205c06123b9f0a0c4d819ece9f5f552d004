@@ -1,0 +1,6 @@
+9c28a205c061 ("mm/shmem: handle uffd-wp special pte in page fault handler")
+5c041f5d1f23 ("mm: teach core mm about pte markers")
+c145e0b47c77 ("mm: streamline COW logic in do_swap_page()")
+84d60fdd3733 ("mm: slightly clarify KSM logic in do_swap_page()")
+5abfd71d936a ("mm: don't skip swap entry even if zap_details specified")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

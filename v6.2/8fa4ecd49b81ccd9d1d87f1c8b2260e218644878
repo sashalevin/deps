@@ -1,0 +1,7 @@
+8fa4ecd49b81 ("bpf: enforce exact retval range on subprog/callback exit")
+0acd03a5bd18 ("bpf: enforce precision of R0 on callback return")
+45b5623f2d72 ("bpf: rearrange bpf_func_state fields to save a bit of memory")
+5d92ddc3de1b ("bpf: Add callback validation to kfunc verifier logic")
+cd6791b4b6f6 ("bpf: Add support for bpf_rb_root and bpf_rb_node in kfunc args")
+6a3cd3318ff6 ("bpf: Migrate release_on_unlock logic to non-owning ref semantics")
+30465003ad77 ("bpf: rename list_head -> graph_root in field info types")

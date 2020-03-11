@@ -1,0 +1,4 @@
+75820314de26 ("i2c: core: add generic I2C GPIO recovery")
+3991c5c80bea ("i2c: Switch to using gpiod interface for gpio bus recovery")
+4d5538f5882a ("i2c: use an IRQ to report Host Notify events, not alert")
+c912a25a5a12 ("i2c: i801: remove SMBNTFDDAT reads as they always seem to return 0")

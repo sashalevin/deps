@@ -1,0 +1,7 @@
+ca576fbbdc80 ("RDMA/verbs: Drop kernel variant of create_flow")
+59082a327d01 ("IB/core: Support passing uhw for create_flow")
+87915bf82eea ("RDMA/verbs: Return proper error code for not supported system call")
+be1d325a3358 ("IB/core: Set RoCEv2 MGID according to spec")
+523633359224 ("IB/core: Fix the validations of a multicast LID in attach or detach operations")
+8561eae60ff9 ("IB/core: For multicast functions, verify that LIDs are multicast LIDs")
+8ecc7985b4b1 ("IB/core: Save QP in ib_flow structure")

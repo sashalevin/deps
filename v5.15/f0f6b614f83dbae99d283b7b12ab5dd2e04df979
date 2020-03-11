@@ -1,0 +1,4 @@
+f0f6b614f83d ("copy_page_to_iter(): don't split high-order page in case of ITER_PIPE")
+59bb69c67cf1 ("copy_page_{to,from}_iter(): switch iovec variants to generic")
+bb523b406c84 ("gup: Turn fault_in_pages_{readable,writeable} into fault_in_{readable,writeable}")
+0c8eb2884a42 ("powerpc/kvm: Fix kvm_use_magic_page")

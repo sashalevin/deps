@@ -1,0 +1,8 @@
+af36b6859a2e ("coresight: etm4x: core: Remove redundant check of attr")
+22a550a306ad ("coresight: etm4x: Allow etm4x to be built as a module")
+97fe626ce64c ("coresight: etm3x: Allow etm3x to be built as a module")
+2d1a8bfb61ec ("coresight: etm4x: Fix etm4_count race by moving cpuhp callbacks to init")
+9b6a3f3633a5 ("coresight: etmv4: Fix CPU power management setup in probe() function")
+3f4943d422c5 ("coresight: etm4x: Fix use-after-free of per-cpu etm drvdata")
+500589d8bd73 ("coresight: etm4x: Fix unused function warning")
+f188b5e76aae ("coresight: etm4x: Save/restore state across CPU low power states")

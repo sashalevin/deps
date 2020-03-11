@@ -1,0 +1,4 @@
+9cf42bca30e9 ("efi: libstub: use EFI_LOADER_CODE region when moving the kernel in memory")
+ff80ef5bf5bd ("efi/libstub: arm64: Warn when efi_random_alloc() fails")
+3a262423755b ("efi/libstub: arm64: Relax 2M alignment again for relocatable kernels")
+5b94046efb47 ("efi/libstub: arm64: Force Image reallocation if BSS was not reserved")

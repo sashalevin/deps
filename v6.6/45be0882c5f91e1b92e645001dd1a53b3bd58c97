@@ -1,0 +1,8 @@
+45be0882c5f9 ("smb3: add missing null server pointer check")
+88675b22d34e ("cifs: do not search for channel if server is terminating")
+f591062bdbf4 ("cifs: handle servers that still advertise multichannel after disabling")
+04909192ada3 ("cifs: reconnect worker should take reference on server struct unconditionally")
+823342524868 ("Revert "cifs: reconnect work should have reference on server struct"")
+ee1d21794e55 ("cifs: handle when server stops supporting multichannel")
+705fc522fe9d ("cifs: handle when server starts supporting multichannel")
+19a4b9d6c372 ("cifs: reconnect work should have reference on server struct")

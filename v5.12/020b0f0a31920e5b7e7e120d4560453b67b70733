@@ -1,0 +1,4 @@
+020b0f0a3192 ("scsi: core: Replace sdev->device_busy with sbitmap")
+ca4453213951 ("scsi: core: Make sure sdev->queue_depth is <= max(shost->can_queue, 1024)")
+8278807abd33 ("scsi: core: Add scsi_device_busy() wrapper")
+2a5a24aa8338 ("scsi: blk-mq: Return budget token from .get_budget callback")

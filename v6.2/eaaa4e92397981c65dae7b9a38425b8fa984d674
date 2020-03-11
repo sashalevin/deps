@@ -1,0 +1,3 @@
+eaaa4e923979 ("vsock/loopback: don't disable irqs for queue access")
+b465518dc27d ("vsock/loopback: use only sk_buff_head.lock to protect the packet queue")
+71dc9ec9ac7d ("virtio/vsock: replace virtio_vsock_pkt with sk_buff")

@@ -1,0 +1,5 @@
+01dcec6d57ce ("PCI: endpoint: pci-epf-vntb: Fix sparse build warning for epf_db")
+2b35c886556a ("PCI: endpoint: pci-epf-vntb: Replace hardcoded 4 with sizeof(u32)")
+03d426ae5426 ("PCI: endpoint: pci-epf-vntb: Remove unused epf_db_phy struct member")
+e35f56bb0330 ("PCI: endpoint: Support NTB transfer between RC and EP")
+8b821cf76150 ("PCI: endpoint: Add EP function driver to provide NTB functionality")

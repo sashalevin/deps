@@ -1,0 +1,5 @@
+8cdf748d557f ("powerpc/uaccess: Remove __get_user_allowed() and unsafe_op_wrap()")
+de4ffc653f37 ("powerpc/uaccess: Simplify unsafe_put_user() implementation")
+4fe5cda9f89d ("powerpc/uaccess: Implement user_read_access_begin and user_write_access_begin")
+17bc43367fc2 ("powerpc/uaccess: Implement unsafe_copy_to_user() as a simple loop")
+334710b1496a ("powerpc/uaccess: Implement unsafe_put_user() using 'asm goto'")

@@ -1,0 +1,8 @@
+f55df11e3164 ("usb: mtu3: reinitialize CSR registers")
+48e0d3735aa5 ("usb: mtu3: supports new QMU format")
+09befc326eea ("usb: mtu3: rebuild qmu_gpd struct to prepare to support new QMU format")
+4c5964b4c2cb ("usb: mtu3: fix transfer error of USB3 Gen2 isoc")
+47b6f8bf8700 ("usb: mtu3: clear SOFTCONN when clear USB3_EN if work as HS mode")
+a0678e2eed41 ("usb: mtu3: fix the issue about SetFeature(U1/U2_Enable)")
+68c750cf4504 ("usb: mtu3: enable hardware remote wakeup from L1 automatically")
+4f7371314e57 ("usb: mtu3: remove QMU checksum")

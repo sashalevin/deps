@@ -1,0 +1,7 @@
+358e526a1648 ("powerpc/mm: Reinstate ARCH_FORCE_MAX_ORDER ranges")
+1e8fed873e74 ("powerpc: drop ranges for definition of ARCH_FORCE_MAX_ORDER")
+6fc54303aa25 ("powerpc: reword ARCH_FORCE_MAX_ORDER prompt and help text")
+23baf831a32c ("mm, treewide: redefine MAX_ORDER sanely")
+61883d3c3241 ("iommu: fix MAX_ORDER usage in __iommu_dma_alloc_pages()")
+7a16d7c7619b ("mm/slub: fix MAX_ORDER usage in calculate_order()")
+75558ad31548 ("sparc/mm: fix MAX_ORDER usage in tsb_grow()")

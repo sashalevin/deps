@@ -1,0 +1,8 @@
+3dbf100b0b10 ("KVM: arm64: Abstract the size of the HYP vectors pre-amble")
+71a7e47f39a2 ("KVM: arm/arm64: Fixup the kvm_exit tracepoint")
+fa89d31c5306 ("KVM: arm64: Repurpose vcpu_arch.debug_flags for general-purpose flags")
+46c4a30b0b16 ("arm64: KVM: Use lm_alias() for kvm_ksym_ref()")
+e8b22d0f4500 ("arm64: Move the content of bpi.S to hyp-entry.S")
+22765f30dbaf ("arm64: Get rid of __smccc_workaround_1_hvc_*")
+4bc352ffb39e ("arm64: KVM: Use SMCCC_ARCH_WORKAROUND_1 for Falkor BP hardening")
+d8312a3f6102 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

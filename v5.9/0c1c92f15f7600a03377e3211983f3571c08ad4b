@@ -1,0 +1,6 @@
+0c1c92f15f76 ("KVM: x86/mmu: do not pass vcpu to root freeing functions")
+b9e5603c2a3a ("KVM: x86: use struct kvm_mmu_root_info for mmu->root")
+77aa60753a7b ("KVM: x86/mmu: Refactor TDP MMU iterators to take kvm_mmu_page root")
+6b123c3a89a9 ("KVM: x86/mmu: Reconstruct shadow page root if the guest PDPTEs is changed")
+46cbc0400f85 ("Revert "KVM: X86: Update mmu->pdptrs only when it is changed"")
+855fb0384a3d ("Merge remote-tracking branch 'kvm/master' into HEAD")

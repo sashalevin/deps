@@ -1,0 +1,5 @@
+f587661f21eb ("KVM: arm64: Don't split hugepages outside of MMU write lock")
+f783ef1c0e82 ("KVM: arm64: Add fast path to handle permission relaxation during dirty logging")
+fcc5bf89635a ("KVM: arm64: Use read/write spin lock for MMU protection")
+2aa53d68cee6 ("KVM: arm64: Try stage2 block mapping for host device MMIO")
+bc351f072605 ("Merge branch 'kvm-master' into kvm-next")

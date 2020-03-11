@@ -1,1 +1,4 @@
 78130819695f ("f2fs: fix to keep project quota consistent")
+f4474aa6e5e9 ("f2fs: fix to recover inode's project id during POR")
+dc4cd1257c86 ("f2fs: fix to recover inode's uid/gid during POR")
+c8e927579e00 ("f2fs: fix setattr project check upon fssetxattr ioctl")

@@ -1,0 +1,6 @@
+5df16caada3f ("KEYS: trusted: Fix incorrect handling of tpm_get_random()")
+47f9c2796891 ("KEYS: trusted: Create trusted keys subsystem")
+c6f61e59760d ("KEYS: Use common tpm_buf for trusted and asymmetric keys")
+74edff2d74c6 ("tpm: Move tpm_buf code to include/linux/")
+44abdb377b7c ("tpm: use GFP_KERNEL instead of GFP_HIGHMEM for tpm_buf")
+2e2ee5a2db06 ("tpm: Add a flag to indicate TPM power is managed by firmware")

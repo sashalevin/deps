@@ -1,0 +1,7 @@
+bbfaf2aea716 ("drm/amdgpu: Fix the runtime resume failure issue")
+3a9626c816db ("drm/amd: Stop evicting resources on APUs in suspend")
+cb11ca3233aa ("drm/amd: Add concept of running prepare_suspend() sequence for IP blocks")
+5095d5418193 ("drm/amd: Evict resources during PM ops prepare() callback")
+d7274ec723cd ("drm/amdgpu: Add amdgpu suspend-resume code path under SRIOV")
+0223e516470a ("drm/amd: Don't reset dGPUs if the system is going to s2idle")
+9e051720f9d3 ("drm/amdgpu: Ensure HDA function is suspended before ASIC reset")

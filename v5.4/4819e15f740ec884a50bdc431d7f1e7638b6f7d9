@@ -1,0 +1,7 @@
+4819e15f740e ("x86/mm/32: Bring back vmalloc faulting on x86_32")
+7f0a002b5a21 ("x86/mm: remove vmalloc faulting")
+73f693c3a705 ("mm: remove vmalloc_sync_(un)mappings()")
+86cf69f1d893 ("x86/mm/32: implement arch_sync_kernel_mappings()")
+11f5efc3ab66 ("tracing: Add a vmalloc_sync_mappings() for safe measure")
+763802b53a42 ("x86/mm: split vmalloc_sync_all()")
+9a62d20027da ("x86/mm/32: Sync only to VMALLOC_END in vmalloc_sync_all()")

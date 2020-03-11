@@ -1,0 +1,6 @@
+a6ca7abe5363 ("tcp/dccp: fix lockdep splat in inet_csk_route_req()")
+c92e8c02fe66 ("tcp/dccp: fix ireq->opt races")
+91ed1e666a4e ("ip/options: explicitly provide net ns to __ip_options_echo()")
+8d9ba388f35b ("Revert "icmp: avoid allocating large struct on stack"")
+7a682575ad48 ("netfilter: xt_socket: fix transparent match for IPv6 request sockets")
+d011a4d861ce ("Merge branch 'stable-4.8' of git://git.infradead.org/users/pcmoore/selinux into next")

@@ -1,0 +1,7 @@
+81c16f83231a ("scsi: mpt3sas: Use the new MPI 2.6 32-bit Atomic Request Descriptors for SAS35 devices.")
+998f26aedf41 ("scsi: mpt3sas: Added Device ID's for SAS35 devices and updated MPI header.")
+c696f7b83ede ("scsi: mpt3sas: Implement device_remove_in_progress check in IOCTL path")
+8bbb1cf63f5e ("mpt3sas: Fix warnings exposed by W=1")
+03d1fb3a6578 ("mpt3sas: Fix for Asynchronous completion of timedout IO and task abort of timedout IO.")
+fd0331b32826 ("mpt3sas: Make use of additional HighPriority credit message frames for sending SCSI IO's")
+b130b0d56fa9 ("mpt3sas: Added support for high port count HBA variants.")

@@ -1,0 +1,4 @@
+f3a99e761efa ("x86/Hyper-V: Report crash data in die() when panic_on_oops is set")
+040026df7088 ("x86/Hyper-V: Report crash register data when sysctl_record_panic_msg is not set")
+73f26e526f19 ("x86/Hyper-V: Trigger crash enlightenment only once during system crash.")
+74347a99e73a ("x86/Hyper-V: Unload vmbus channel in hv panic callback")

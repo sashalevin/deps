@@ -1,0 +1,6 @@
+cf8cddd38bab ("btrfs: don't abuse REQ_OP_* flags for btrfs_map_block")
+df5c82a8dcca ("Btrfs: fix comparison in __btrfs_map_block()")
+b3d3fa519905 ("btrfs: update __btrfs_map_block for REQ_OP transition")
+37226b2111b0 ("btrfs: use bio op accessors")
+4e49ea4a3d27 ("block/fs/drivers: remove rw argument from submit_bio")
+b2d5ad822322 ("Merge branch 'for-linus-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/mason/linux-btrfs")

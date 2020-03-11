@@ -1,0 +1,7 @@
+2fd001cd3600 ("arch: Rename fbdev header and source files")
+f178e96de7f0 ("arch: Remove struct fb_info from video helpers")
+f25eae2c405c ("arch: Select fbdev helpers with CONFIG_VIDEO")
+ed683b9bb91f ("sparc: Fix undefined reference to fb_is_primary_device")
+ca6c080eef42 ("arch/parisc: Detect primary video device from device instance")
+052ddf7b86d2 ("fbdev: Replace fb_pgprotect() with pgprot_framebuffer()")
+c205a67d2876 ("fbdev: Avoid file argument in fb_pgprotect()")

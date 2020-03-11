@@ -1,0 +1,8 @@
+061834624c87 ("can: set CANFD_FDF flag in all CAN FD frame structures")
+96a7457a14d9 ("can: skb: unify skb CAN frame identification helpers")
+a6d190f8c767 ("can: skb: drop tx skb if in listen only mode")
+ccd8a9351f7b ("can: skb: move can_dropped_invalid_skb() and can_skb_headroom_valid() to skb.c")
+6a5286442fb6 ("can: Kconfig: turn menu "CAN Device Drivers" into a menuconfig using CAN_DEV")
+df6ad5dd838e ("can: Kconfig: rename config symbol CAN_DEV into CAN_NETLINK")
+6c1e423a3c84 ("can: can-dev: remove obsolete CAN LED support")
+2dcb8e8782d8 ("can: ctucanfd: add support for CTU CAN FD open-source IP core - bus independent part.")

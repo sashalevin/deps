@@ -1,0 +1,4 @@
+f066f7950708 ("drm/nouveau: Replace drm_framebuffer_{un/reference} with put, get functions")
+1608a0fbb692 ("drm/nouveau/fbcon: refcount the drm_framebuffer")
+595b61cc1316 ("drm/nouveau/fbcon: make use of drm_fb_helper.fb")
+9dec92805231 ("drm/nouveau/fbcon: make use of drm_fb_helper.dev")

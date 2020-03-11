@@ -1,0 +1,7 @@
+5264e8ca762b ("pwm: pwm-mediatek: Simplify error handling with dev_err_probe()")
+e0150252a643 ("pwm: mediatek: Simplify using devm_pwmchip_add()")
+2503781c97fa ("pwm: mediatek: Use pwm_mediatek as common prefix")
+efecdeb82f21 ("pwm: mediatek: Allocate the clks array dynamically")
+61aa258ab1a5 ("pwm: mediatek: Remove the has_clks field")
+e6c7c258f035 ("pwm: mediatek: Drop the check for of_device_get_match_data()")
+8d190728fd8e ("pwm: mediatek: Add MT8516 SoC support")

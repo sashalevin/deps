@@ -1,0 +1,4 @@
+ae99111ecf70 ("dm: favour __packed versus "__attribute__ ((packed))"")
+f8922a48291d ("dm: favour __aligned(N) versus "__attribute__ (aligned(N))"")
+a88b2358f1da ("dm persistent data: packed struct should have an aligned() attribute too")
+b18ae8dd9d76 ("dm: replace zero-length array with flexible-array")

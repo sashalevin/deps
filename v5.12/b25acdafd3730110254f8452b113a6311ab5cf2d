@@ -1,0 +1,7 @@
+b25acdafd373 ("samples/bpf: Use libbpf 1.0 API mode instead of RLIMIT_MEMLOCK")
+b926c55d856c ("samples: bpf: Convert xdp_redirect to XDP samples helper")
+6e1051a54e31 ("samples: bpf: Convert xdp_monitor to XDP samples helper")
+156f886cf697 ("samples: bpf: Add basic infrastructure for XDP samples")
+7c6090ee2a7b ("samples/bpf: Fix the error return code of xdp_redirect's main()")
+85102ba58b41 ("samples/bpf: Fix Segmentation fault for xdp_redirect command")
+e48cfe4bbfad ("sample/bpf: Add xdp_redirect_map_multi for redirect_map broadcast test")

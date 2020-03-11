@@ -1,0 +1,3 @@
+044b541c11fd ("cifs: smbd: Do not schedule work to send immediate packet on every receive")
+d4e5160d1a0b ("cifs: smbd: Update receive credits before sending and deal with credits roll back on failure before sending")
+4ebb8795a746 ("cifs: smbd: Check and extend sender credits in interrupt context")

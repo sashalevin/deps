@@ -1,0 +1,5 @@
+e64175776d06 ("i2c: iop3xx: Fix memory leak in probe error path")
+fdb7e884ad61 ("i2c: iop: Use GPIO descriptors")
+6d125412fc16 ("gpio: iop: Use generic GPIO MMIO functions for driver")
+0c638759bf92 ("gpio: iop: Use devm_gpiochip_add_data() for gpio registration")
+4eab22e748b5 ("gpio: convert remaining users to gpiochip_add_data()")

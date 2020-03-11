@@ -1,0 +1,8 @@
+26b95137d673 ("proc: skip branch in /proc/*/* lookup")
+0168b9e38c42 ("procfs: switch instantiate_t to d_splice_alias()")
+988363864132 ("don't bother with tid_fd_revalidate() in lookups")
+1ae9bd8b7e49 ("proc_lookupfd_common(): don't bother with instantiate unless the file is open")
+1bbc55131e59 ("procfs: get rid of ancient BS in pid_revalidate() uses")
+e3912ac37e07 ("proc: use %u for pid printing and slightly less stack")
+68eb94f16227 ("proc: Better ownership of files for non-dumpable tasks in user namespaces")
+683b96f4d1d1 ("Merge branch 'next' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")

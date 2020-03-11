@@ -1,0 +1,8 @@
+2111375b85ad ("net: Add struct kernel_ethtool_ts_info")
+1983a8007032 ("mlxsw: Implement ethtool operation to write to a transceiver module EEPROM")
+b0d3969d2b4d ("net: ethernet: rtsn: Add support for Renesas Ethernet-TSN")
+0e9c127729be ("ethtool: add interface to read Tx hardware timestamping statistics")
+fb6e30a72539 ("net: ethtool: pass a pointer to parameters to get/set_rxfh ethtool ops")
+1ac23674a971 ("sfc: Implement ndo_hwtstamp_(get|set)")
+8c1c66235e03 ("net: ethernet: renesas: rcar_gen4_ptp: Break out to module")
+b8768dc40777 ("net: ethtool: Refactor identical get_ts_info implementations.")

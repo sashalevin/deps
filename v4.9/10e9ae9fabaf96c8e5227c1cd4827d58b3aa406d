@@ -1,0 +1,7 @@
+10e9ae9fabaf ("gcc-plugins: Add STACKLEAK plugin for tracking the kernel stack")
+afaef01c0015 ("x86/entry: Add STACKLEAK erasing the kernel stack at the end of syscalls")
+7ccb95e8fe91 ("gcc-plugins: Regularize Makefile.gcc-plugins")
+45332b1bdfdc ("gcc-plugins: split out Kconfig entries to scripts/gcc-plugins/Kconfig")
+c17d6179ad5a ("gcc-plugins: remove unused GCC_PLUGIN_SUBDIR")
+d148eac0e70f ("Kbuild: rename HAVE_CC_STACKPROTECTOR config variable")
+be779f03d563 ("Merge tag 'kbuild-v4.18-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

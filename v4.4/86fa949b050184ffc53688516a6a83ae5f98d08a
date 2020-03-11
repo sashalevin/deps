@@ -1,0 +1,7 @@
+86fa949b0501 ("x86/mm: provide pmdp_establish() helper")
+1501899a898d ("mm: fix device-dax pud write-faults triggered by get_user_pages()")
+e22992923f74 ("mm/hugetlb: move default definition of hugepd_t earlier in the header")
+a00cc7d9dd93 ("mm, x86: add support for PUD-sized transparent hugepages")
+a2d581675d48 ("mm,fs,dax: change ->pmd_fault to ->huge_fault")
+11bac8000449 ("mm, fs: reduce fault, page_mkwrite, and pfn_mkwrite to take only vmf")
+ef96152e6a36 ("Merge tag 'drm-for-v4.11-less-shouty' of git://people.freedesktop.org/~airlied/linux")

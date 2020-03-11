@@ -1,0 +1,7 @@
+dda4d96acb20 ("tcp: move tcp_out_of_memory() to net/ipv4/tcp.c")
+03271f3a3594 ("tcp: rename sk_wmem_free_skb")
+19757cebf0c5 ("tcp: switch orphan_count to bare per-cpu counters")
+d8b81175e412 ("tcp: remove sk_{tr}x_skb_cache")
+925bba24e68a ("tcp: Remove CMSG magic numbers for tcp_recvmsg().")
+2cd81161848d ("net-tcp: Introduce tcp_recvmsg_locked().")
+0cbe6a8f089e ("tcp: remove SOCK_QUEUE_SHRUNK")

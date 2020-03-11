@@ -1,0 +1,4 @@
+512c0cdd80c1 ("vdpa/mlx5: Decouple cvq iotlb handling from hw mapping code")
+049cbeab861e ("vdpa/mlx5: Create helper function for dma mappings")
+ad03a0f44cdb ("vdpa/mlx5: Delete control vq iotlb in destroy_mr only when necessary")
+9ee811009ad8 ("vdpa/mlx5: Fix mr->initialized semantics")

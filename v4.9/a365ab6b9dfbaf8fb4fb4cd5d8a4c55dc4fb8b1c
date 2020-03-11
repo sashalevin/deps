@@ -1,0 +1,8 @@
+a365ab6b9dfb ("cpufreq: intel_pstate: Implement the ->adjust_perf() callback")
+2554c32f0b84 ("cpufreq: intel_pstate: Simplify intel_cpufreq_update_pstate()")
+fcb3a1ab7990 ("cpufreq: intel_pstate: Take CPUFREQ_GOV_STRICT_TARGET into account")
+e0be38ed4ab4 ("cpufreq: intel_pstate: Avoid missing HWP max updates in passive mode")
+f6ebbcf08f37 ("cpufreq: intel_pstate: Implement passive mode with HWP enabled")
+de002c55cadf ("cpufreq: intel_pstate: Fix EPP setting via sysfs in active mode")
+3a9571760665 ("cpufreq: intel_pstate: Rearrange the storing of new EPP values")
+80e30368669e ("Merge back cpufreq material for v5.9.")

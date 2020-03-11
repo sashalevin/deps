@@ -1,0 +1,6 @@
+3debc24f7fe6 ("mmc: sdhci: Fix potential null pointer access while accessing vqmmc")
+0fcb031e52d7 ("mmc: sdhci: Allow platform controlled voltage switching")
+1b5190c2e74c ("mmc: sdhci: do not try to use 3.3V signaling if not supported")
+2a63303d9b87 ("mmc: sdhci: catch all errors when getting regulators")
+4180ffa81779 ("mmc: sdhci: Add sdhci_cleanup_host")
+15becf68b867 ("mmc: sdhci: Get rid of 'extern' in header file")

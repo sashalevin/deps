@@ -1,0 +1,6 @@
+56d5229471ee ("tools build: Pass libbpf feature only if libbpf 1.0+")
+beb642030004 ("perf trace: Fix compilation error for make NO_LIBBPF=1 DEBUG=1")
+7b65e2034fde ("perf tools: Allow to link with libbpf dynamicaly")
+bb91a073ed12 ("perf tools: Allow to build with -ltcmalloc")
+8bd436b006d4 ("perf trace augmented_syscalls: Do not show syscalls when none was asked for")
+7e035929f3fe ("perf trace: Postpone parsing .perfconfig trace.add_events to after --verbose is processed")

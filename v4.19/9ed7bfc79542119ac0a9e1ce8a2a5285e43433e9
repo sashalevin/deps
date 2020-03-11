@@ -1,0 +1,6 @@
+9ed7bfc79542 ("sctp: fix memory leak in sctp_stream_outq_migrate()")
+8f13399db22f ("sctp: shrink stream outq only when new outcnt < old outcnt")
+2075e50caf5e ("sctp: convert to genradix")
+af98c5a78517 ("sctp: set stream ext to NULL after freeing it in sctp_stream_outq_migrate")
+cfe4bd7a257f ("sctp: check and update stream->out_curr when allocating stream_out")
+e1e46479847e ("sctp: not increase stream's incnt before sending addstrm_in request")

@@ -1,0 +1,5 @@
+39652741c80b ("powerpc: Enable passing IMA log to next kernel on kexec")
+467d27824920 ("powerpc: ima: get the kexec buffer passed by the previous kernel")
+80f60e509a03 ("powerpc/kexec: Enable kexec_file_load() syscall")
+a0458284f062 ("powerpc: Add support code for kexec_file_load()")
+da6658859b9c ("powerpc: Change places using CONFIG_KEXEC to use CONFIG_KEXEC_CORE instead.")

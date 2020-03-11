@@ -1,0 +1,3 @@
+03110a5cb216 ("arm64: futex: Bound number of LDXR/STXR loops in FUTEX_WAKE_OP")
+84ff7a09c371 ("arm64: futex: Fix FUTEX_WAKE_OP atomic ops with non-zero result value")
+91b2d3442f6a ("arm64: futex: Mask __user pointers prior to dereference")

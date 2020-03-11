@@ -1,0 +1,4 @@
+f40ca9cb5810 ("btrfs: locking: inline btrfs_tree_lock() and btrfs_tree_read_lock()")
+0ecae6fffe66 ("btrfs: remove the recurse parameter from __btrfs_tree_read_lock")
+4048daedb910 ("btrfs: locking: remove the recursion handling code")
+196d59ab9ccc ("btrfs: switch extent buffer tree lock to rw_semaphore")

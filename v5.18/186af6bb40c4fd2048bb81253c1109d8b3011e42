@@ -1,0 +1,7 @@
+186af6bb40c4 ("Documentation: kvm: reorder ARM-specific section about KVM_SYSTEM_EVENT_SUSPEND")
+582eb04e05dd ("Documentation: KVM: Fix title level for PSCI_SUSPEND")
+bfbab4456877 ("KVM: arm64: Implement PSCI SYSTEM_SUSPEND")
+7b33a09d036f ("KVM: arm64: Add support for userspace to suspend a vCPU")
+3fdd04592d38 ("KVM: arm64: Return a value from check_vcpu_requests()")
+b171f9bbb130 ("KVM: arm64: Track vCPU power state using MP state values")
+1e5794295c5d ("KVM: arm64: Dedupe vCPU power off helpers")

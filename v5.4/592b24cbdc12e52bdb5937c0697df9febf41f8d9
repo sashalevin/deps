@@ -1,0 +1,7 @@
+592b24cbdc12 ("ima: Use the common function to detect LSM conditionals in a rule")
+483ec26eed42 ("ima: ima/lsm policy rule loading logic bug fixes")
+e9085e0ad38a ("IMA: Add support to limit measuring keys")
+88e70da170e8 ("IMA: Define an IMA hook to measure keys")
+5808611cccb2 ("IMA: Add KEY_CHECK func to measure keys")
+273df864cf74 ("ima: Check against blacklisted hashes for files with modsig")
+e14555e3d0e9 ("ima: Make process_buffer_measurement() generic")

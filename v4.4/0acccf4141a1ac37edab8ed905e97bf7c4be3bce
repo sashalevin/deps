@@ -1,0 +1,7 @@
+0acccf4141a1 ("mmc: sdhci-acpi: Avoid broken UHS transfer modes on Intel CHT")
+1c451c139ee4 ("mmc: sdhci-acpi: Fix voltage switch for some Intel host controllers")
+159cd328e348 ("mmc: sdhci-acpi: Tidy Intel slot probe functions into one")
+ccd3e4c8c23d ("mmc: sdhci-acpi: remove unused struct sdhci_host variable")
+d3e974074f66 ("mmc: sdhci-acpi: Set MMC_CAP_AGGRESSIVE_PM for BYT-related Intel controllers")
+265984b36ce8 ("mmc: sdhci-acpi: Remove MMC_CAP_BUS_WIDTH_TEST for Intel controllers")
+6a645dd87a5a ("mmc: sdhci-acpi: Fix card detect race for Intel BXT/APL")

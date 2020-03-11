@@ -1,0 +1,4 @@
+902b62810a57 ("mm, page_alloc: fix more premature OOM due to race with cpuset update")
+e47483bca2cc ("mm, page_alloc: fix premature OOM when racing with cpuset mems update")
+5ce9bfef1d27 ("mm, page_alloc: move cpuset seqcount checking to slowpath")
+16096c25bf0c ("mm, page_alloc: fix fast-path race with cpuset update or removal")

@@ -1,0 +1,6 @@
+b2371587fe0c ("arm/xen: Read extended regions from DT and init Xen resource")
+5e1cdb8ee5e7 ("arm/xen: Switch to use gnttab_setup_auto_xlat_frames() for DT")
+9e2369c06c8a ("xen: add helpers to allocate unpopulated memory")
+3848e4e0a32a ("xen/xenbus: avoid large structs and arrays on the stack")
+6b51fd3f65a2 ("xen/xenbus: ensure xenbus_map_ring_valloc() returns proper grant status")
+b28089a7ad9d ("xen/xenbus: remove unused xenbus_map_ring()")

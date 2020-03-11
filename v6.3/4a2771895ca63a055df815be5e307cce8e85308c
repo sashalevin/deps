@@ -1,0 +1,6 @@
+4a2771895ca6 ("KVM: x86/svm/pmu: Add AMD PerfMonV2 support")
+1c2bf8a6b045 ("KVM: x86/pmu: Constrain the num of guest counters with kvm_pmu_cap")
+c85cdc1cc1ea ("KVM: x86/pmu: Move handling PERF_GLOBAL_CTRL and friends to common x86")
+30dab5c0b65e ("KVM: x86/pmu: Reject userspace attempts to set reserved GLOBAL_STATUS bits")
+53550b89220b ("KVM: x86/pmu: Rename global_ovf_ctrl_mask to global_status_mask")
+8bca8c5ce40b ("KVM: VMX: Refactor intel_pmu_{g,}set_msr() to align with other helpers")

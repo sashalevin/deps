@@ -1,0 +1,8 @@
+966cc171c8be ("cifs: Share server EOF pos with netfslib")
+66c9314b61ed ("smb: client: don't clobber ->i_rdev from cached reparse points")
+6d039984c15d ("smb: client: stop revalidating reparse points unnecessarily")
+6ebfede8d57a ("cifs: Pass unbyteswapped eof value into SMB2_set_eof()")
+7b2404a886f8 ("cifs: Fix flushing, invalidation and file size with copy_file_range()")
+88010155f02b ("cifs: Fix FALLOC_FL_INSERT_RANGE by setting i_size after EOF moved")
+83d5518b124d ("cifs: Fix FALLOC_FL_ZERO_RANGE by setting i_size if EOF moved")
+8f22ce708883 ("client: convert to new timestamp accessors")

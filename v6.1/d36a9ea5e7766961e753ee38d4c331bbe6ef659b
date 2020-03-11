@@ -1,0 +1,5 @@
+d36a9ea5e776 ("block: fix use-after-free of q->q_usage_counter")
+63f93fd6fa57 ("block: mark blk_put_queue as potentially blocking")
+2bd85221a625 ("block: untangle request_queue refcounting from sysfs")
+40602997be26 ("block: fix error unwinding in blk_register_queue")
+80bd4a7aab4c ("blk-mq: move the srcu_struct used for quiescing to the tagset")

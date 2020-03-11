@@ -1,0 +1,6 @@
+3937493c5025 ("xfs: kill ialloced in xfs_dialloc()")
+f3bf6e0f1196 ("xfs: move xfs_dialloc_roll() into xfs_dialloc()")
+1abcf261016e ("xfs: move on-disk inode allocation out of xfs_ialloc()")
+aececc9f8dec ("xfs: introduce xfs_dialloc_roll()")
+15574ebbff26 ("xfs: convert noroom, okalloc in xfs_dialloc() to bool")
+04a58620a17c ("xfs: check tp->t_dqinfo value instead of the XFS_TRANS_DQ_DIRTY flag")

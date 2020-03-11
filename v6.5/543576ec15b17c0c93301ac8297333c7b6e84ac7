@@ -1,0 +1,6 @@
+543576ec15b1 ("bpf: Add BPF_PROG_TYPE_CGROUP_SKB attach type enforcement in BPF_LINK_CREATE")
+3505cb9fa26c ("bpf: Add attach_type checks under bpf_prog_attach_check_attach_type")
+e420bed02507 ("bpf: Add fd-based tcx multi-prog infra with link support")
+053c8e1f235d ("bpf: Add generic attach/detach/query API for multi-progs")
+1b715e1b0ec5 ("bpf: Support ->fill_link_info for perf_event")
+7ac8d0d26192 ("bpf: Support ->fill_link_info for kprobe_multi")

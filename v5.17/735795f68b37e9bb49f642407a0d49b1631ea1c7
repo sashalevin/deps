@@ -1,0 +1,8 @@
+735795f68b37 ("netfilter: flowtable: GC pushes back packets to classic path")
+41f2c7c342d3 ("net/sched: act_ct: Fix promotion of offloaded unreplied tuple")
+6a9bad0069cf ("net/sched: act_ct: offload UDP NEW connections")
+2738d9d963bd ("netfilter: flowtable: move dst_check to packet path")
+e5eaac2beb54 ("netfilter: flowtable: fix TCP flow teardown")
+396ef64113a8 ("netfilter: flowtable: fix excessive hw offload attempts after failure")
+217cff36e885 ("netfilter: flowtable: pass flowtable to nf_flow_table_iterate()")
+fcb6aa86532c ("act_ct: Support GRE offload")

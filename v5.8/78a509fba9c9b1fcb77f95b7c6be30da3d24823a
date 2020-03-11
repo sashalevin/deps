@@ -1,0 +1,8 @@
+78a509fba9c9 ("x86/boot: Ignore NMIs during very early boot")
+29dcc60f6a19 ("x86/boot/compressed/64: Add stage1 #VC handler")
+8b0d3b3b41ab ("x86/boot/compressed/64: Add page-fault handler")
+5f2bb01682b7 ("x86/boot/compressed/64: Rename kaslr_64.c to ident_map_64.c")
+64e682638eb5 ("x86/boot/compressed/64: Add IDT Infrastructure")
+76167e5c5457 ("x86/kaslr: Replace strlen() with strnlen()")
+3870d971791f ("x86/kaslr: Drop test for command-line parameters before parsing")
+709709ac6410 ("x86/kaslr: Make command line handling safer")

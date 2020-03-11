@@ -1,0 +1,4 @@
+68142cb628f7 ("nilfs2: do not call inode_attach_wb() directly")
+25fa5f992338 ("nilfs2: prepare backing device folios for writing after adding checksums")
+a4ca369ca221 ("nilfs2: fix potential kernel bug due to lack of writeback flag waiting")
+338618338233 ("nilfs_attach_log_writer(): use ->bd_mapping->host instead of ->bd_inode")

@@ -1,0 +1,6 @@
+5255e2f8d117 ("drm/i915: Replace vbt edp.support with int_lvds_support")
+6e266956a57f ("drm/i915: Make INTEL_PCH_TYPE & co only take dev_priv")
+4f8036a28112 ("drm/i915: Make HAS_DDI and HAS_PCH_LPT_LP only take dev_priv")
+f0dfb1a81a9d ("drm/i915: Register shadow VGA even when it produces spurious detection results")
+26aa23396ed3 ("Revert "Skip intel_crt_init for Dell XPS 8700"")
+03cdc1d4f795 ("drm/i915: Store port enum in intel_encoder")

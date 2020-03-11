@@ -1,0 +1,8 @@
+e213ced19bef ("i40e: add support for XDP multi-buffer Rx")
+01aa49e31e16 ("i40e: add xdp_buff to i40e_ring struct")
+e9031f2da1ae ("i40e: introduce next_to_process to i40e_ring")
+2bc0de9aca3e ("i40e: use frame_sz instead of recalculating truesize for building skb")
+03e88c8a791c ("i40e: Change size to truesize when using i40e_rx_buffer_flip()")
+e2843f037127 ("i40e: add pre-xdp page_count in rx_buffer")
+a4ba62906db8 ("i40e: consolidate maximum frame size calculation for vsi")
+675f176b4dcc ("Merge ra.kernel.org:/pub/scm/linux/kernel/git/netdev/net")

@@ -1,0 +1,5 @@
+47f218d10895 ("iommu/amd: Store the nid in io_pgtable_cfg instead of the domain")
+7a41dcb52f9d ("iommu/amd: Set the pgsize_bitmap correctly")
+b0a6c883bcd4 ("iommu/amd: Allocate the page table root using GFP_KERNEL")
+8d00b77a52ef ("iommu/amd: Move allocation of the top table into v1_alloc_pgtable")
+86c5eac3c4c4 ("iommu/amd: Convert comma to semicolon")

@@ -1,0 +1,5 @@
+552d42a356eb ("bpf: Reduce smap->elem_size")
+c83597fa5dc6 ("bpf: Refactor some inode/task/sk storage functions for reuse")
+73cf09a36bf7 ("bpf: Use bpf_map_area_alloc consistently on bpf map creation")
+992c9e13f593 ("bpf: Make __GFP_NOWARN consistent in bpf map creation")
+dcf456c9a095 ("bpf: Fix usage of trace RCU in local storage.")

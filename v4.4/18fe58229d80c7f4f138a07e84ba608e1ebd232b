@@ -1,0 +1,4 @@
+18fe58229d80 ("x86, asm: change the GEN_*_RMWcc() macros to not quote the condition")
+117780eef774 ("x86, asm: use bool for bitops and other assembly outputs")
+2823d4da5d8a ("x86, bitops: remove use of "sbb" to return CF")
+8dd5032d9c54 ("x86/asm/bitops: Force inlining of test_and_set_bit and friends")

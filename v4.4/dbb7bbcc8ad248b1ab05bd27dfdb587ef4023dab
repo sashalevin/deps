@@ -1,0 +1,5 @@
+dbb7bbcc8ad2 ("PCI: endpoint: Clear BAR before freeing its space")
+77d08dbdae2e ("PCI: endpoint: Make epc->ops->clear_bar()/pci_epc_clear_bar() take struct *epf_bar")
+bc4a48976f57 ("PCI: endpoint: Simplify epc->ops->set_bar()/pci_epc_set_bar()")
+bf597574b6be ("PCI: endpoint: BAR width should not depend on sizeof dma_addr_t")
+16093362d66a ("Merge remote-tracking branch 'lorenzo/pci/dwc' into next")

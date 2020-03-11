@@ -1,0 +1,7 @@
+f98bbe37ae96 ("quota: Propagate ->quota_read errors from v2_read_file_info()")
+cb8d01b4f624 ("quota: Fix error codes in v2_read_file_info()")
+42fdb8583d5a ("quota: Push dqio_sem down to ->read_file_info()")
+d6ab3661020c ("quota: Acquire dqio_sem for reading in vfs_load_quota_inode()")
+bc8230ee8e2b ("quota: Convert dqio_mutex to rwsem")
+c3b004460d77 ("quota: Remove dqonoff_mutex")
+9d1ccbe70e0b ("quota: Use s_umount protection for quota operations")

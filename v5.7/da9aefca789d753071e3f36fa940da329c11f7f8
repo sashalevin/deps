@@ -1,0 +1,3 @@
+da9aefca789d ("um: convert {pmd, pte}_free_tlb() to use ptdescs")
+9a5085b3fad5 ("um: Call pgtable_pmd_page_dtor() in __pmd_free_tlb()")
+1355c31eeb7e ("asm-generic: pgalloc: provide generic pmd_alloc_one() and pmd_free_one()")

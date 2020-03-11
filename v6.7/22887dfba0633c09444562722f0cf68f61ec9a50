@@ -1,0 +1,7 @@
+22887dfba063 ("ring-buffer: Clear pages on error in ring_buffer_subbuf_order_set() failure")
+f9b94daa542a ("ring-buffer: Set new size of the ring buffer sub page")
+2808e31ec12e ("ring-buffer: Add interface for configuring trace sub buffer size")
+139f84002145 ("ring-buffer: Page size per ring buffer")
+d5cfbdfc96aa ("ring-buffer: Have ring_buffer_print_page_header() be able to access ring_buffer_iter")
+c84897c0ff59 ("ring-buffer: Remove 32bit timestamp logic")
+8ec90be7f15f ("tracing: Allow for max buffer data size trace_marker writes")

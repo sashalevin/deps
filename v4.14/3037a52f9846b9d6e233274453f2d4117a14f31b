@@ -1,0 +1,4 @@
+3037a52f9846 ("s390/nmi: do register validation as early as possible")
+cc65450c8337 ("s390/ctl_reg: move control register definitions to ctl_reg.h")
+ad3bc0ac1d2e ("s390/ctl_reg: use decoding unions in update_cr_regs")
+00a8f886dbda ("s390/nmi: use smp_emergency_stop instead of smp_send_stop")

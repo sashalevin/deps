@@ -1,0 +1,8 @@
+6a718bd2ed4a ("arm64: tlbflush: add some comments for TLB batched flushing")
+43b3dfdd0455 ("arm64: support batched/deferred tlb shootdown during page reclamation/migration")
+cd7f176aea5f ("arm64/mm: try VMA lock-based page fault handling first")
+42b2547137f5 ("arm64/mm: enable ARCH_SUPPORTS_PAGE_TABLE_CHECK")
+5e10f9887ed8 ("arm64: mm: Fix TLBI vs ASID rollover")
+6bfef171d0d7 ("Documentation/features: mark BATCHED_UNMAP_TLB_FLUSH doesn't apply to ARM64")
+4f3c8320c78c ("Documentation: features: remove c6x references")
+ac73e3dc8acd ("Merge branch 'akpm' (patches from Andrew)")

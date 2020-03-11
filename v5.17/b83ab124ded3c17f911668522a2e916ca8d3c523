@@ -1,0 +1,4 @@
+b83ab124ded3 ("KVM: x86: Add a new page-track hook to handle memslot deletion")
+c70934e0ab2d ("KVM: x86: Reject memslot MOVE operations if KVMGT is attached")
+86931ff7207b ("KVM: x86/mmu: Do not create SPTEs for GFNs that exceed host.MAXPHYADDR")
+cf3e26427c08 ("KVM: x86/mmu: Zap only TDP MMU leafs in kvm_zap_gfn_range()")

@@ -1,0 +1,6 @@
+a48a687d8cdf ("PCI: Move pci_map_rom() error path")
+d9c8bea179a6 ("PCI: Remove unused IORESOURCE_ROM_COPY and IORESOURCE_ROM_BIOS_COPY")
+f50dd8c3dae5 ("PCI: Clean up pci_map_rom() whitespace")
+0c0e0736acad ("PCI: Set ROM shadow location in arch code, not in PCI core")
+4708f9a55b31 ("PCI: Don't enable/disable ROM BAR if we're using a RAM shadow copy")
+63e22924f5dc ("PCI: Mark shadow copy of VGA ROM as IORESOURCE_PCI_FIXED")

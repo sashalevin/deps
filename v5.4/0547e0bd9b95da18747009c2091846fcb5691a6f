@@ -1,0 +1,6 @@
+0547e0bd9b95 ("s390/mm: add missing conversion to use ptdescs")
+1194372db6f3 ("s390/mm: better annotate 2KB pagetable fragments handling")
+c2c224932fd0 ("s390/mm: fix 2KB pgtable release race")
+2a444fdc24a8 ("s390/mm: fix phys vs virt confusion in pgtable allocation routines")
+f95b2c45d5f7 ("s390/tlb: make cleared_pXs flags consistent with generic code")
+2c7749b90536 ("s390: use fallthrough;")

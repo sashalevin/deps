@@ -1,0 +1,4 @@
+fc6b48f692f8 ("tools/resolve_btfids: Build libbpf and libsubcmd in separate directories")
+1eb832ac2dee ("tools/bpf: build: Make sure resolve_btfids cleans up after itself")
+f86ca3cffef1 ("tools/resolve_btfids: Use libbpf's btf__parse() API")
+fbbb68de80a4 ("bpf: Add resolve_btfids tool to resolve BTF IDs in ELF object")

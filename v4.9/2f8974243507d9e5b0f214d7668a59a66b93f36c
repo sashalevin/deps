@@ -1,0 +1,4 @@
+2f8974243507 ("proc: do less stuff under ->pde_unload_lock")
+15b158b4e627 ("proc: spread likely/unlikely a bit")
+f5887c71cf68 ("proc: fix type of struct pde_opener::closing field")
+06a0c4175db6 ("proc: just list_del() struct pde_opener")

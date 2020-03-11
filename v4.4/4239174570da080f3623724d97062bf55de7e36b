@@ -1,0 +1,7 @@
+4239174570da ("tracing: Make tracepoint_printk a static_key")
+904d1857ad09 ("tracing: Remove unused function trace_current_buffer_lock_reserve()")
+a9fe48dcde88 ("tracing: Remove unused function trace_current_buffer_discard_commit()")
+fa66ddb870ca ("tracing: Move trace_buffer_unlock_commit{_regs}() to local header")
+65da9a0a3bf2 ("tracing: Make filter_check_discard() local")
+dad56ee742a3 ("tracing: Move event_trigger_unlock_commit{_regs}() to local header")
+c4a5923055c9 ("tracing: Add event record param to trigger_ops.func()")

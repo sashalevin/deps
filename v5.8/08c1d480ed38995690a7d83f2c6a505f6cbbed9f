@@ -1,0 +1,5 @@
+08c1d480ed38 ("blk-mq: remove blk_mq_init_sq_queue")
+b461dfc49eb6 ("blk-mq: add the blk_mq_alloc_disk APIs")
+26a9750aa875 ("blk-mq: improve the blk_mq_init_allocated_queue interface")
+cdb14e0f7775 ("blk-mq: factor out a blk_mq_alloc_sq_tag_set helper")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")

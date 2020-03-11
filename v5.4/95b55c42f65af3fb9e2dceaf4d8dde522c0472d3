@@ -1,0 +1,7 @@
+95b55c42f65a ("d_path: make prepend_name() boolean")
+01a4428ee706 ("d_path: lift -ENAMETOOLONG handling into callers of prepend_path()")
+9024348f539f ("d_path: get rid of path_with_deleted()")
+3acca043261f ("d_path: regularize handling of root dentry in __dentry_path()")
+3a291c974cf7 ("d_path: saner calling conventions for __dentry_path()")
+dfe5087675e6 ("d_path: "\0" is {0,0}, not {0}")
+a2bbe66493ee ("constify dentry argument of dentry_path()/dentry_path_raw()")

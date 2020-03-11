@@ -1,0 +1,5 @@
+3a7e02c040b1 ("minmax: avoid overly complicated constant expressions in VM code")
+72801513b2bf ("mm: set pageblock_order to HPAGE_PMD_ORDER in case with !CONFIG_HUGETLB_PAGE but THP enabled")
+5e0a760b4441 ("mm, treewide: rename MAX_ORDER to MAX_PAGE_ORDER")
+fd37721803c6 ("mm, treewide: introduce NR_PAGE_ORDERS")
+e99fb98d478a ("mm: remove unnecessary ia64 code and comment")

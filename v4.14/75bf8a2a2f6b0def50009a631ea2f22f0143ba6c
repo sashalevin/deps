@@ -1,0 +1,8 @@
+75bf8a2a2f6b ("IB/umad: Start using dev_groups of class")
+cdb53b65ae1b ("IB/umad: Use class_groups and let core create class file")
+e9dd5daf884c ("IB/umad: Refactor code to use cdev_device_add()")
+cf7ad3030271 ("IB/umad: Avoid destroying device while it is accessed")
+900d07c12d4e ("IB/umad: Simplify and avoid dynamic allocation of class")
+551d315e34a5 ("RDMA/umad: Use kernel API to allocate umad indexes")
+8cf12d7780b7 ("IB/core: Increase number of char device minors")
+008b656f4298 ("IB/core: Remove the locking for character device bitmaps")

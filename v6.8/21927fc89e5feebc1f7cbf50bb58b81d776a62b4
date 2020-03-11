@@ -1,0 +1,6 @@
+21927fc89e5f ("timers: Retrieve next expiry of pinned/non-pinned timers separately")
+83a665dc99a7 ("timers: Keep the pinned timers separate from the others")
+9f6a3c602c23 ("timers: Split next timer interrupt logic")
+e2e1d724e948 ("timers: Move marking timer bases idle into tick_nohz_stop_tick()")
+39ed699fb660 ("timers: Split out get next timer interrupt")
+bebed6649e85 ("timers: Restructure get_next_timer_interrupt()")

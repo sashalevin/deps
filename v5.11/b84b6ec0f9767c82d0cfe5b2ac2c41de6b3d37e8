@@ -1,0 +1,8 @@
+b84b6ec0f976 ("scsi: core: Add scsi_done_direct() for immediate completion")
+a710eacb9d13 ("scsi: core: Rename scsi_mq_done() into scsi_done() and export it")
+bf23e619039d ("scsi: core: Use a structure member to track the SCSI command submitter")
+aa8e25e5006a ("scsi: core: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+d2c945f01d23 ("scsi: core: Make scsi_get_lba() return the LBA")
+f0f214fe8cd3 ("scsi: core: Introduce scsi_get_sector()")
+7ba46799d346 ("scsi: core: Add scsi_prot_ref_tag() helper")
+2a5a24aa8338 ("scsi: blk-mq: Return budget token from .get_budget callback")

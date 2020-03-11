@@ -1,0 +1,2 @@
+8b272b3cbbb5 ("mm, numa: fix bad pmd by atomically check for pmd_trans_huge when marking page tables prot_numa")
+4991c09c7c81 ("mm/mprotect: add a cond_resched() inside change_pmd_range()")

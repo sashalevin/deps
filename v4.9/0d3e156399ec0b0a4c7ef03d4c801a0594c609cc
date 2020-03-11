@@ -1,0 +1,4 @@
+0d3e156399ec ("watchdog: Make watchdog core configurable as module")
+471ce88b8402 ("watchdog: Move pretimeout governor configuration up")
+f627ac0e12cd ("watchdog: Use depends instead of select for pretimeout governors")
+a223770bfa7b ("watchdog: fix compile time error of pretimeout governors")

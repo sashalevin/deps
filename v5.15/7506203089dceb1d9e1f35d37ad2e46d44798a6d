@@ -1,0 +1,8 @@
+7506203089dc ("intel_idle: Use __update_spec_ctrl() in intel_idle_ibrs()")
+9b461a6faae7 ("cpuidle, intel_idle: Fix CPUIDLE_FLAG_IBRS")
+9f0112938277 ("intel_idle: Add a new flag to initialize the AMX state")
+bf5835bcdb96 ("intel_idle: Disable IBRS during long idle")
+c779bc1a9002 ("x86/bugs: Optimize SPEC_CTRL MSR writes")
+caa0ff24d5d0 ("x86/bugs: Keep a per-CPU IA32_SPEC_CTRL value")
+32d4fd5751ea ("cpuidle,intel_idle: Fix CPUIDLE_FLAG_IRQ_ENABLE")
+02b82b02c343 ("Merge tag 'pm-5.18-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rafael/linux-pm")

@@ -1,0 +1,4 @@
+f240762f88b4 ("io_uring: add a schedule point in io_add_buffers()")
+bcda7baaa3f1 ("io_uring: support buffer selection for OP_READ and OP_RECV")
+ddf0322db79c ("io_uring: add IORING_OP_PROVIDE_BUFFERS")
+d7718a9d25a6 ("io_uring: use poll driven retry for files that support it")

@@ -1,0 +1,8 @@
+8f9025baf66f ("thermal/debugfs: Move some statements from under thermal_dbg->lock")
+9e69acc1de30 ("thermal/debugfs: Print initial trip temperature and hysteresis in tze_seq_show()")
+bd700ba9adef ("thermal/debugfs: Avoid printing zero duration for mitigation events in progress")
+a6258fde8de3 ("thermal/debugfs: Make tze_seq_show() skip invalid trips and trips with no stats")
+0a293c775805 ("thermal/debugfs: Avoid excessive updates of trip point statistics")
+976f44133f76 ("thermal: core: Introduce .manage() callback for thermal governors")
+80f5fd45c764 ("thermal: core: Introduce .trip_crossed() callback for thermal governors")
+5c897a9a1237 ("Merge back earlier thermal control material for v6.10.")

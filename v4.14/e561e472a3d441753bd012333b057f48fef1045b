@@ -1,0 +1,7 @@
+e561e472a3d4 ("powerpc/pseries: wire up rng during setup_arch()")
+c6af2aa9ffc9 ("swiotlb: make the swiotlb_init interface more useful")
+a3e230926708 ("x86: centralize setting SWIOTLB_FORCE when guest memory encryption is enabled")
+78013eaadf69 ("x86: remove the IOMMU table infrastructure")
+f39f8d0eb081 ("MIPS/octeon: use swiotlb_init instead of open coding it")
+3469d36d470d ("swiotlb: make swiotlb_exit a no-op if SWIOTLB_FORCE is set")
+6b9bfb1365f4 ("Merge tag 'x86_cc_for_v5.18_rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

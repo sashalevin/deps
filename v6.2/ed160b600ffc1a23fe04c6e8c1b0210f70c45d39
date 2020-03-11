@@ -1,0 +1,8 @@
+ed160b600ffc ("wifi: mt76: Use PTR_ERR_OR_ZERO() to simplify code")
+6ae39b7c7ed4 ("wifi: mt76: mt7921: Support temp sensor")
+9c97df11dfe6 ("wifi: mt76: mt7915: rework init flow in mt7915_thermal_init()")
+c222f77fd421 ("wifi: mt76: mt7921: fix rx filter incorrect by drv/fw inconsistent")
+914189af23b8 ("wifi: mt76: mt7921: fix channel switch fail in monitor mode")
+2f2d86309e22 ("wifi: mt76: mt7915: add error message in mt7915_thermal_set_cur_throttle_state()")
+ecaccdae7a7e ("wifi: mt76: mt7915: rework mt7915_thermal_temp_store()")
+7d12b38ab6f6 ("wifi: mt76: mt7915: call mt7915_mcu_set_thermal_throttling() only after init_work")

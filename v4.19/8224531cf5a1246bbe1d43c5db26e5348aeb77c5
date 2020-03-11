@@ -1,1 +1,4 @@
 8224531cf5a1 ("perf cs-etm: Modularize auxtrace_buffer fetch function")
+23cfcd6d75cc ("perf cs-etm: Make cs_etm__run_decoder() queue independent")
+4b6df11ab6cf ("perf cs-etm: Rethink kernel address initialisation")
+24fff5eb2b93 ("perf cs-etm: Avoid stale branch samples when flush packet")

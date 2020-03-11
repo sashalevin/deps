@@ -1,0 +1,8 @@
+9f8a7658bcaf ("ALSA: timer: Fix zero-division by continue of uninitialized instance")
+f65e0d299807 ("ALSA: timer: Call notifier in the same spinlock")
+ed8b1d6d2c74 ("ALSA: timer: Fix race between stop and interrupt")
+117159f0b9d3 ("ALSA: timer: Fix wrong instance passed to slave callbacks")
+f784beb75ce8 ("ALSA: timer: Fix link corruption due to double start or stop")
+230323dac060 ("ALSA: timer: Handle disconnection more safely")
+c3b1681375dc ("ALSA: timer: Code cleanup")
+b5a663aa426f ("ALSA: timer: Harden slave timer list handling")

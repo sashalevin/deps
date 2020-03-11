@@ -1,0 +1,5 @@
+e22f910a26cc ("sched/smt: Fix unbalance sched_smt_present dec/inc")
+2558aacff858 ("sched/hotplug: Ensure only per-cpu kthreads run during hotplug")
+565790d28b1e ("sched: Fix balance_callback()")
+c5511d03ec09 ("sched/smt: Make sched_smt_present track topology")
+1f351d7f7590 ("sched: sched.h: make rq locking and clock functions available in stats.h")

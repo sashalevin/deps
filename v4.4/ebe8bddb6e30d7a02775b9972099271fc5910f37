@@ -1,0 +1,7 @@
+ebe8bddb6e30 ("blk-mq: remap queues when adding/removing hardware queues")
+9151bcb4fb38 ("blk-mq: kill unused blk_mq_create_mq_map()")
+1b157939f92a ("blk-mq: get rid of the cpumask in struct blk_mq_tags")
+da695ba236b9 ("blk-mq: allow the driver to pass in a queue mapping")
+bdd17e75cd97 ("blk-mq: only allocate a single mq_map per tag_set")
+486cf9899e31 ("blk-mq: Introduce blk_mq_reinit_tagset")
+868f2f0b7206 ("blk-mq: dynamic h/w context count")

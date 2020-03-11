@@ -1,0 +1,3 @@
+de53c3786a3c ("x86/pti: Unbreak EFI old_memmap")
+94133e46a0f5 ("x86/efi: Correct EFI identity mapping under 'efi=old_map' when KASLR is enabled")
+c9f2a9a65e48 ("x86/efi: Hoist page table switching code into efi_call_virt()")

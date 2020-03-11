@@ -1,0 +1,7 @@
+14a1143b68ee ("io_uring: add support for IORING_OP_UNLINKAT")
+80a261fd0032 ("io_uring: add support for IORING_OP_RENAMEAT")
+36f4fa6886a8 ("io_uring: add support for shutdown(2)")
+bfe76559833d ("io_uring: decouple issuing and req preparation")
+73debe68b300 ("io_uring: remove nonblock arg from io_{rw}_prep()")
+e8c2bc1fb6c9 ("io_uring: get rid of req->io/io_async_ctx union")
+f4bff104fffb ("io_uring: simplify io_rw_prep_async()")

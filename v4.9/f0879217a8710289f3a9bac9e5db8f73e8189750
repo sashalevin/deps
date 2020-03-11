@@ -1,0 +1,6 @@
+f0879217a871 ("staging: iio: ad7606: rework regulator handling")
+12edb97471fd ("staging: iio: ad7606: set proper supply name to devm_regulator_get()")
+71faca73af90 ("staging:iio:ad7606: Let the common probe function return int")
+382a4777ec03 ("staging:iio:ad7606: Move set_drvdata() into common code")
+063a51c5bdef ("staging:iio:ad7606: Remove redundant name field from ad7606_chip_info")
+36534b406735 ("staging:iio:ad7606: Remove unused int_vref_mv field")

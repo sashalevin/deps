@@ -1,0 +1,4 @@
+7e826c44f5de ("kbuild: add stringify helper to quote a string passed to C files")
+aeacb019b61c ("kbuild: define KBUILD_MODNAME even if multiple modules share objects")
+8cd0e46d3f0c ("kbuild: remove unnecessary $(subst $(obj)/, , ...) in modname-multi")
+b42841b7bb62 ("kbuild: Get rid of KBUILD_STR")

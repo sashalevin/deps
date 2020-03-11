@@ -1,0 +1,6 @@
+dd27a7070038 ("vfio/pci: Probe and store ability to support dynamic MSI-X")
+9cd0f6d5cbb6 ("vfio/pci: Use bitfield for struct vfio_pci_core_device flags")
+cc2742fe3660 ("vfio/pci: Implement VFIO_DEVICE_FEATURE_LOW_POWER_ENTRY/EXIT")
+4813724c4b76 ("vfio/pci: Mask INTx during runtime suspend")
+c462a8c5d988 ("vfio/pci: Simplify the is_intx/msi/msix/etc defines")
+e34a0425b8ef ("vfio/pci: Split linux/vfio_pci_core.h")

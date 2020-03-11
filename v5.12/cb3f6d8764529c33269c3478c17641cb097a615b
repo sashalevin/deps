@@ -1,0 +1,8 @@
+cb3f6d876452 ("cifs: don't refresh cached referrals from unactive mounts")
+1023e90b733a ("cifs: avoid starvation when refreshing dfs cache")
+42caeba713b1 ("cifs: fix path comparison and hash calc")
+c870a8e70e68 ("cifs: handle different charsets in dfs cache")
+c9f711039905 ("cifs: keep referral server sessions alive")
+2b133b7e216b ("cifs: get rid of @noreq param in __dfs_cache_find()")
+9cfdb1c12bae ("cifs: constify get_normalized_path() properly")
+8d7672235533 ("cifs: don't cargo-cult strndup()")

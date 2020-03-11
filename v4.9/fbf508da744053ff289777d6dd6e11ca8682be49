@@ -1,0 +1,5 @@
+fbf508da7440 ("powerpc: split compat syscall table out from native table")
+a11b763d6170 ("powerpc: move macro definition from asm/systbl.h")
+51973a815c6b ("powerpc/64: Use barrier_nospec in syscall entry")
+eb039161da2f ("powerpc/asm: Convert .llong directives to .8byte")
+0d97631392c2 ("powerpc: Add purgatory for kexec_file_load() implementation.")

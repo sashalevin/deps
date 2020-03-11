@@ -1,0 +1,5 @@
+354a595a4a4d ("mm: replace xa_get_order with xas_get_order where appropriate")
+fb72415938d1 ("mm: filemap: use xa_get_order() to get the swap entry order")
+50f381eccefd ("mm: shmem: extend shmem_partial_swap_usage() to support large folio swap")
+3a75cb05d53f ("mm: cachestat: fix folio read-after-free in cache walk")
+a08c7193e4f1 ("mm/filemap: remove hugetlb special casing in filemap.c")

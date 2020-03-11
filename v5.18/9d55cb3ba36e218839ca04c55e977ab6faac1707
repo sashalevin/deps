@@ -1,0 +1,6 @@
+9d55cb3ba36e ("thermal/drivers/broadcom: Simplify with dev_err_probe()")
+fd972a17451f ("thermal/drivers/broadcom: Simplify probe() with local dev variable")
+e90c369cc2ff ("thermal/drivers/broadcom: Fix race between removal and clock disable")
+f29ecd3748a2 ("thermal: bcm2835: Convert to platform remove callback returning void")
+8454c8c09c77 ("thermal/drivers/bcm2835: Remove buggy call to thermal_of_zone_unregister")
+944441d878b0 ("thermal/drivers/broadcom: Switch to new of API")

@@ -1,0 +1,6 @@
+e17d8025f07e ("arm64/mm/kasan: don't use vmemmap_populate() to initialize shadow")
+3f9ec80f7b22 ("arm64/kasan: don't allocate extra shadow memory")
+b0de0ccc8b9e ("arm64: kasan: avoid bad virt_to_pfn()")
+2077be6783b5 ("arm64: Use __pa_symbol for kernel symbols")
+869dcfd10dfe ("arm64: Add cast for virt_to_pfn")
+e98216b52176 ("arm64: mm: BUG on unsupported manipulations of live kernel mappings")

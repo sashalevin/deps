@@ -1,0 +1,4 @@
+ccf16413e520 ("block/compat_ioctl: fix range check in BLKGETSIZE")
+946e99373037 ("block/ioctl: use bdev_nr_sectors and bdev_nr_bytes")
+8a709512eae7 ("block: merge block_ioctl into blkdev_ioctl")
+84b8514b46b4 ("block: move the *blkdev_ioctl declarations out of blkdev.h")

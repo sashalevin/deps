@@ -1,0 +1,7 @@
+44068d5999d3 ("crypto: DRBG - initialize SGL only once")
+510298121245 ("crypto: drbg - prevent invalid SG mappings")
+a07203fbfcf1 ("crypto: drbg - use full CTR AES for update")
+3cfc3b972112 ("crypto: drbg - use aligned buffers")
+355912852115 ("crypto: drbg - use CTR AES instead of ECB AES")
+ed494d4fa234 ("crypto: drbg - reduce number of setkey calls")
+b3614763059b ("crypto: drbg - remove FIPS 140-2 continuous test")

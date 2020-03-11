@@ -1,0 +1,8 @@
+ae9f29fdfd82 ("net: hns3: fix wrong use of rss size during VF rss config")
+93969dc14fcd ("net: hns3: refactor VF rss init APIs with new common rss init APIs")
+7428d6c93665 ("net: hns3: refactor VF rss set APIs with new common rss set APIs")
+027733b12a10 ("net: hns3: refactor VF rss get APIs with new common rss get APIs")
+6befad603d79 ("net: hns3: use struct hclge_desc to replace hclgevf_desc in VF cmdq module")
+8d2ad993aa05 ("net: hns3: fix VF RSS failed problem after PF enable multi-TCs")
+3b6db4a0492b ("net: hns3: sync rx ring head in echo common pull")
+c8af2887c941 ("net: hns3: add support pause/pfc durations for mac statistics")

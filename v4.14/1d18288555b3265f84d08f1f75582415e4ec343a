@@ -1,0 +1,8 @@
+1d18288555b3 ("mac80211: fix memory leak on filtered powersave frames")
+3318111cf63d ("mac80211: reduce duplication in tx status functions")
+47df8e059b49 ("mac80211: reduce packet loss event false positives")
+8ed37e791960 ("mac80211: use rate provided via status->rate on ieee80211_tx_status_ext for AQL")
+3ff901cb5df1 ("mac80211: improve AQL tx airtime estimation")
+ca98c47d54d7 ("mac80211: check vif pointer before airtime calculation")
+5972fa15b923 ("mac80211: fix tx status for no ack cases")
+7d6aa9ba4f82 ("Merge remote-tracking branch 'net-next/master' into mac80211-next")

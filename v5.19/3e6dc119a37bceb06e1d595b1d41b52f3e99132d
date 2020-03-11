@@ -1,0 +1,8 @@
+3e6dc119a37b ("ice: Fix check for weight and priority of a scheduling node")
+42c2eb6b1f43 ("ice: Implement devlink-rate API")
+ac73d4bf2cda ("net: make drivers to use SET_NETDEV_DEVLINK_PORT to set devlink_port")
+d82acd85cc41 ("net: dsa: move port_setup/teardown to be called outside devlink port registered area")
+a286ba738714 ("ice: reorder PF/representor devlink port register/unregister flows")
+dfe609491476 ("funeth: unregister devlink port after netdevice unregister")
+4f99de7b181f ("funeth: remove pointless check of devlink pointer in create/destroy_netdev() flows")
+77baa37a9be9 ("Merge branch '100GbE' of git://git.kernel.org/pub/scm/linux/kernel/git/tnguy/next-queue")

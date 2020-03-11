@@ -1,0 +1,5 @@
+243600ee6605 ("tcp: add declarations to avoid warnings")
+dd2e0b86fc4e ("tcp: remove indirect calls for icsk->icsk_af_ops->send_check")
+05e22e839505 ("tcp: remove indirect calls for icsk->icsk_af_ops->queue_xmit")
+76eeb12b71a4 ("net: core: add helper tcp_v6_gso_csum_prep")
+35b2c3211609 ("tcp: Export TCP functions and ops struct")

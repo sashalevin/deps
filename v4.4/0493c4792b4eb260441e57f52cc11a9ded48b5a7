@@ -1,0 +1,7 @@
+0493c4792b4e ("nvmem: imx-ocotp: Ensure WAIT bits are preserved when setting timing")
+b50cb68f16ce ("nvmem: imx-ocotp: Move i.MX6 write clock setup to dedicated function")
+0642bac7da42 ("nvmem: imx-ocotp: add write support")
+9b66587ee259 ("nvmem: imx-ocotp: clear error bit after reading locked values")
+deb319705e7e ("nvmem: imx-ocotp: handling clock")
+33e5e29cbbde ("nvmem: imx-ocotp: remove nvmem regmap dependency")
+c7e3c5f861f0 ("nvmem: imx-ocotp: Fix return value of imx_ocotp_read")

@@ -1,0 +1,3 @@
+b3d58eaffb98 ("atomic_open(): be paranoid about may_open() return value")
+fe9ec8291fca ("do_last(): take fput() on error after opening to out:")
+c80567c82ae4 ("do_last(): don't let a bogus return value from ->open() et.al. to confuse us")

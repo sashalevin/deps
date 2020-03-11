@@ -1,0 +1,7 @@
+a524fcfe190d ("fs: convert block_commit_write to return void")
+489b7e72a63c ("fs/buffer: clean up block_commit_write")
+8c6cb3e3d57e ("buffer: convert __block_commit_write() to take a folio")
+fe181377a23c ("buffer: convert block_page_mkwrite() to use a folio")
+3c21204818ae ("udf: Allocate blocks on write page fault")
+19fd80de0a8b ("udf: Handle error when adding extent to a file")
+6dd8fe86fa84 ("ext4: convert move_extent_per_page() to use folios")

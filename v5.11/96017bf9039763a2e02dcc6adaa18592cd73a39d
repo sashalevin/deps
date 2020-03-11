@@ -1,0 +1,4 @@
+96017bf90397 ("rcu-tasks: Simplify trc_read_check_handler() atomic operations")
+f8ab3fad80dd ("rcu-tasks: Mark ->trc_reader_special.b.need_qs data races")
+bdb0cca0d110 ("rcu-tasks: Mark ->trc_reader_nesting data races")
+a9ab9cce9367 ("rcu-tasks: Don't delete holdouts within trc_wait_for_one_reader()")

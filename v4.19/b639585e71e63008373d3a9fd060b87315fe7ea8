@@ -1,0 +1,7 @@
+b639585e71e6 ("fork: Using clone_flags for legacy clone check")
+3af8588c7718 ("fork: fold legacy_clone_args_valid() into _do_fork()")
+6aabc1facdb2 ("m68k: Implement copy_thread_tls()")
+e8bb2a2a1d51 ("m68k: Wire up clone3() syscall")
+1a271a68e030 ("arch: mark syscall number 435 reserved for clone3")
+028b6e8a89de ("clone: fix CLONE_PIDFD support")
+8f6ccf6159ae ("Merge tag 'clone3-v5.3' of git://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux")

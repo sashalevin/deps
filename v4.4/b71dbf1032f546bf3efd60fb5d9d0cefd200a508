@@ -1,0 +1,6 @@
+b71dbf1032f5 ("vfs: cap dedupe request structure size at PAGE_SIZE")
+54dbc1517237 ("vfs: hoist the btrfs deduplication ioctl to the vfs")
+d79bdd52d8be ("vfs: wire up compat ioctl for CLONE/CLONE_RANGE")
+04b38d601239 ("vfs: pull btrfs clone API to vfs layer")
+3db11b2eecc0 ("btrfs: add .copy_file_range file operation")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

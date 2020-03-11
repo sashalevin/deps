@@ -1,0 +1,6 @@
+6b3bc8286529 ("pps: clients: gpio: Rearrange optional stuff in pps_gpio_setup()")
+162a5deac674 ("pps: clients: gpio: Use struct device pointer directly")
+28d032510e63 ("pps: clients: gpio: Make use of device properties")
+ee89646619ba ("pps: clients: gpio: Get rid of legacy platform data")
+1a8fc4f7e21c ("pps: clients: gpio: Use dev_err_probe() to avoid log noise")
+a4780db3ad13 ("pps: clients: gpio: Bail out on error when requesting GPIO echo line")

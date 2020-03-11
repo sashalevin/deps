@@ -1,0 +1,6 @@
+6b19b766e8f0 ("fs: get rid of the res2 iocb->ki_complete argument")
+4c3d8accdce2 ("usb: remove res2 argument from gadget code completions")
+09ce8744253a ("block: use flags instead of bit fields for blkdev_dio")
+71fc3f5e2c00 ("block: don't try to poll multi-bio I/Os in __blkdev_direct_IO")
+cd82cca7ebfe ("block: split out operations on block special files")
+3b629f8d6dc0 ("Merge tag 'io_uring-bio-cache.5-2021-08-30' of git://git.kernel.dk/linux-block")

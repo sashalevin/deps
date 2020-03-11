@@ -1,0 +1,4 @@
+7b587e1a5a6c ("NFS: use locks_copy_lock() to copy locks.")
+f30cb757f680 ("NFS: Always wait for I/O completion before unlock")
+b1ece737f44f ("lockd: Introduce nlmclnt_operations")
+4b09ec4b14a1 ("nfs: Don't take a reference on fl->fl_file for LOCK operation")

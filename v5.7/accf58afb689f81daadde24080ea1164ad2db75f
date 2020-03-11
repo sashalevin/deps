@@ -1,0 +1,5 @@
+accf58afb689 ("nvdimm/pmem: cleanup the disk if pmem_release_disk() is yet assigned")
+87eb73b2ca7c ("nvdimm-pmem: convert to blk_alloc_disk/blk_cleanup_disk")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

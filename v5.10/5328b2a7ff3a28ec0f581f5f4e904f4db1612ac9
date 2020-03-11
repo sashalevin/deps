@@ -1,0 +1,4 @@
+5328b2a7ff3a ("btrfs: avoid attempt to drop extents when logging inode for the first time")
+5893dfb98f25 ("btrfs: refactor btrfs_drop_extents() to make it easier to extend")
+ac5887c8e013 ("btrfs: locking: remove all the blocking helpers")
+196d59ab9ccc ("btrfs: switch extent buffer tree lock to rw_semaphore")

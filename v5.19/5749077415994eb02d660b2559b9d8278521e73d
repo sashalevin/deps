@@ -1,0 +1,4 @@
+574907741599 ("mm/page_alloc: leave IRQs enabled for per-cpu page allocations")
+c3e58a70425a ("mm/page_alloc: always remove pages from temporary list")
+01b44456a7aa ("mm/page_alloc: replace local_lock with normal spinlock")
+4b23a68f9536 ("mm/page_alloc: protect PCP lists with a spinlock")

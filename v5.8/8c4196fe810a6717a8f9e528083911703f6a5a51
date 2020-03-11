@@ -1,0 +1,6 @@
+8c4196fe810a ("mm: vmalloc: use trace_free_vmap_area_noflush event")
+690467c81b1a ("mm/vmalloc: Move draining areas out of caller context")
+651d55ce0965 ("mm/vmalloc: remove unneeded function forward declaration")
+96e2db456135 ("mm/vmalloc: rework the drain logic")
+9c801f61d0e9 ("mm/vmalloc.c: remove BUG() from the find_va_links()")
+5dd786409403 ("mm/vmalloc: simplify merge_or_add_vmap_area()")

@@ -1,0 +1,3 @@
+d4cad4162ba3 ("firewire: ohci: replace request_irq() with request_threaded_irq()")
+fb7d0e5e1f14 ("Revert "firewire: ohci: use devres for requested IRQ"")
+575801663c7d ("firewire: ohci: prevent leak of left-over IRQ on unbind")

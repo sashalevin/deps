@@ -1,0 +1,5 @@
+f778b6b8e013 ("btrfs: share the code to free the page array in compress_file_range")
+184aa1ffa5fd ("btrfs: use a separate label for the incompressible case in compress_file_range")
+6a7167bf9c92 ("btrfs: further simplify the compress or not logic in compress_file_range")
+e94e54e89b4f ("btrfs: streamline compress_file_range")
+3134508e47df ("btrfs: don't clear async_chunk->inode in async_cow_start")

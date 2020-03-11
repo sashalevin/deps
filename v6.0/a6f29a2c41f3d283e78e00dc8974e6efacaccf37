@@ -1,0 +1,6 @@
+a6f29a2c41f3 ("tools/nolibc: export environ as a weak symbol on arm")
+20470dfd656e ("tools/nolibc: enable support for thumb1 mode for ARM")
+7f8548589661 ("tools/nolibc: make compiler and assembler agree on the section around _start")
+18a5a09d90a7 ("nolibc: add support for s390")
+184177c3d6e0 ("tools/nolibc: restore mips branch ordering in the _start block")
+a30d551f34df ("tools/nolibc: make argc 32-bit in riscv startup code")

@@ -1,0 +1,7 @@
+506efcba3129 ("drm/msm: carve out KMS code from msm_drv.c")
+eedba1b3a7b4 ("drm/msm: switch to drmm_mode_config_init()")
+937154e49b10 ("drm/msm: rename msm_drv_shutdown() to msm_kms_shutdown()")
+d069ef292a3b ("drm/msm: rename msm_pm_prepare/complete to note the KMS nature")
+7414b35d6648 ("drm/msm: drop pm ops from the headless msm driver")
+4d1a1e4686bd ("drm/msm: remove msm_drm_private::bridges field")
+a2ab5d5bb6b1 ("drm/msm: allow passing struct msm_kms to msm_drv_probe()")

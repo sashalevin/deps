@@ -1,0 +1,8 @@
+cb3ea80b7c84 ("serial: 8250: 8250_omap: make a const array static, makes object smaller")
+6f9918504129 ("serial: 8250: 8250_omap: Fix unused variable warning")
+c26389f998a8 ("serial: 8250: 8250_omap: Add DMA support for UARTs on K3 SoCs")
+7229b84c20d2 ("serial: 8250: 8250_omap: Extend driver data to pass FIFO trigger info")
+d6ce4ec0b816 ("serial: 8250_omap: Drop check for of_node")
+be70874498f3 ("serial: 8250_omap: Add support for AM654 UART controller")
+13dc04d0e5fd ("serial: 8250: omap: Fix idling of clocks for unused uarts")
+08fb00c64f34 ("serial: 8250: 8250_omap: Fix throttling when DMA is enabled")

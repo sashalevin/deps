@@ -1,0 +1,5 @@
+b0966c724584 ("bpf: Support bpf_kptr_xchg into local kptr")
+d59232afb034 ("bpf: Rename ARG_PTR_TO_KPTR -> ARG_KPTR_XCHG_DEST")
+36d8bdf75a93 ("bpf: Add alloc/xchg/direct_access support for local percpu kptr")
+f0d991a07075 ("bpf: Ensure kptr_struct_meta is non-NULL for collection insert and refcount_acquire")
+ab6c637ad027 ("bpf: Fix a bpf_kptr_xchg() issue with local kptr")

@@ -1,0 +1,8 @@
+86fe2c19eec4 ("netfilter: nftables: skip hook overlap logic if flowtable is stale")
+eb014de4fd41 ("netfilter: nf_tables: autoload modules from the abort path")
+9332d27d7918 ("netfilter: nf_tables: remove WARN and add NLA_STRING upper limits")
+ec7470b834fe ("netfilter: nf_tables: store transaction list locally while requesting module")
+ff4bf2f42a40 ("netfilter: nf_tables: add nft_unregister_flowtable_hook()")
+8bb69f3b2918 ("netfilter: nf_tables: add flowtable offload control plane")
+3f0465a9ef02 ("netfilter: nf_tables: dynamically allocate hooks per net_device in flowtables")
+71a8a63b9dbd ("netfilter: nf_flow_table: move priority to struct nf_flowtable")

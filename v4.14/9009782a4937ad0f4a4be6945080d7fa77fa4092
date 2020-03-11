@@ -1,0 +1,4 @@
+9009782a4937 ("KVM: arm/arm64: vgic: Consider priority and active state for pending irq")
+c971968071d3 ("KVM: arm/arm64: GICv4: Use pending_last as a scheduling hint")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")

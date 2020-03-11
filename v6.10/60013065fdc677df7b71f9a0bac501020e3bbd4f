@@ -1,0 +1,5 @@
+60013065fdc6 ("printk: Avoid console_lock dance if no legacy or boot consoles")
+97ea9bccfcbe ("printk: Track registered boot consoles")
+e55c3bcf380c ("printk: nbcon: Use driver synchronization while (un)registering")
+d3ff380d47b6 ("printk: Properly deal with nbcon consoles on seq init")
+f37b105faef6 ("printk: nbcon: Consolidate alloc() and init()")

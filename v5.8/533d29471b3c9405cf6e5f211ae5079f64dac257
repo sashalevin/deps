@@ -1,0 +1,4 @@
+533d29471b3c ("pwm: sifive: Convert to platform remove callback returning void")
+2375e964d541 ("pwm: sifive: Shut down hardware only after pwmchip_remove() completed")
+ace41d7564e6 ("pwm: sifive: Ensure the clk is enabled exactly once per running PWM")
+ceb2c2842f36 ("pwm: sifive: Don't check the return code of pwmchip_remove()")

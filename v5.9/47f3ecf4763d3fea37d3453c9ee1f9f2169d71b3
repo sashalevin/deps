@@ -1,0 +1,7 @@
+47f3ecf4763d ("ethtool: Fail number of channels change when it conflicts with rxnfc")
+a4fc088ad4ff ("ethtool: fix the check logic of at least one channel for RX/TX")
+ef72cd3c5ce1 ("ethtool: fix error paths in ethnl_set_channels()")
+5028588b62cb ("ethtool: wire up set policies to ops")
+4f30974feb96 ("ethtool: wire up get policies to ops")
+c4655761d3cf ("xsk: i40e: ice: ixgbe: mlx5: Rename xsk zero-copy driver interfaces")
+1742b3d52869 ("xsk: i40e: ice: ixgbe: mlx5: Pass buffer pool to driver instead of umem")

@@ -1,0 +1,6 @@
+84bd06c632c6 ("iov_iter: remove iov_iter_get_pages and iov_iter_get_pages_alloc")
+f62e52d1276b ("iov_iter: Define flags to qualify page extraction.")
+7ee4ccf57484 ("block: set FOLL_PCI_P2PDMA in bio_map_user_iov()")
+5e3e3f2e15df ("block: set FOLL_PCI_P2PDMA in __bio_iov_iter_get_pages()")
+d82076403cef ("iov_iter: introduce iov_iter_get_pages_[alloc_]flags()")
+e88811bc43b9 ("block: use on-stack page vec for <= UIO_FASTIOV")

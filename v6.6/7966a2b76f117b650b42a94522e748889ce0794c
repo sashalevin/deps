@@ -1,0 +1,6 @@
+7966a2b76f11 ("mm/arm: use macros to define pmd/pud helpers")
+e72c7c2b8866 ("mm/treewide: drop pXd_large()")
+924bd6a8c967 ("mm/x86: drop two unnecessary pud_leaf() definitions")
+bd18b688220c ("mm/powerpc: replace pXd_is_leaf() with pXd_leaf()")
+a2aa530d856d ("mm/powerpc: define pXd_large() with pXd_leaf()")
+752e2cd7b4fb ("LoongArch: KVM: Implement kvm mmu operations")

@@ -1,0 +1,4 @@
+d7f55471db27 ("memblock: fix memblock_phys_alloc() section mismatch error")
+ecc3e771f4ca ("memblock: memblock_phys_alloc(): don't panic")
+f240ec09bb8a ("memblock: replace memblock_alloc_base(ANYWHERE) with memblock_phys_alloc")
+9a8dd708d547 ("memblock: rename memblock_alloc{_nid,_try_nid} to memblock_phys_alloc*")

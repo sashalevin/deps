@@ -1,0 +1,6 @@
+5bd4f20de8ac ("virtio-gpu: fix possible memory allocation failure")
+7fea1e0f38a8 ("gpu/drm/virtio/virtgpu_vq.c: Use kmem_cache_zalloc")
+43c279402270 ("drm: virtio: fix kmem_cache_alloc error check")
+f5985bf9cadd ("drm: virtio: use kmem_cache")
+f862e60f8d52 ("drm/virtio: fix lock context imbalance")
+348a4b6dd77d ("drm/virtio: allocate some extra bufs")

@@ -1,0 +1,6 @@
+d7d0d389ff90 ("mm: swap: remove CLUSTER_FLAG_HUGE from swap_cluster_info:flags")
+c010d47f107f ("mm: thp: split huge page to any lower order pages")
+46d44d09d24c ("mm: page_owner: add support for splitting to any order in split page_owner")
+b8791381d7ed ("mm: memcg: make memcg huge page split support any order split")
+9a581c12cddb ("mm/page_owner: use order instead of nr in split_page_owner()")
+502003bb76b8 ("mm/memcg: use order instead of nr in split_page_memcg()")

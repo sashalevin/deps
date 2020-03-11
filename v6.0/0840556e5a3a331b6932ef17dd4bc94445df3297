@@ -1,0 +1,5 @@
+0840556e5a3a ("net: Protect dev->name by seqlock.")
+dd891b5b106f ("net: do not send a MOVE event when netdev changes netns")
+311cca40661f ("net: fix ifname in netlink ntf during netns move")
+d0358c1a37db ("net: Remove unused declaration dev_restart()")
+70986397a15b ("net: move from strlcpy with unused retval to strscpy")

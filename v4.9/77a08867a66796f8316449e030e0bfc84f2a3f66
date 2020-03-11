@@ -1,0 +1,7 @@
+77a08867a667 ("svcrdma: Enqueue after setting XPT_CLOSE in completion handlers")
+c84dc900d737 ("svcrdma: Remove unused Read completion handlers")
+68cc4636bbbc ("svcrdma: Remove unused RDMA Write completion handler")
+17f5f7f506aa ("svcrdma: Move send_wr to svc_rdma_op_ctxt")
+a3ab867fa64f ("svcrdma: Combine list fields in struct svc_rdma_op_ctxt")
+96a58f9c1921 ("svcrdma: Remove svc_rdma_op_ctxt::wc_status")
+e4eb42cecc6d ("svcrdma: Remove BH-disabled spin locking in svc_rdma_send()")

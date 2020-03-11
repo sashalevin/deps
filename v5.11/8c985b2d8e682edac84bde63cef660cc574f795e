@@ -1,0 +1,3 @@
+8c985b2d8e68 ("KVM: x86/mmu: Don't grab CR4.PSE for calculating shadow reserved bits")
+18feaad3c655 ("KVM: x86/mmu: Drop smep_andnot_wp check from "uses NX" for shadow MMUs")
+112022bdb5bc ("KVM: x86/mmu: Treat NX as used (not reserved) for all !TDP shadow MMUs")

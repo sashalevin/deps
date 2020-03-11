@@ -1,0 +1,5 @@
+7dabf02f43a1 ("KVM: arm64: Emulate the OS Lock")
+263d6287da14 ("KVM: arm64: Initialize VCPU mdcr_el2 before loading it")
+a354a64d91ee ("KVM: arm64: Disable guest access to trace filter controls")
+4942dc6638b0 ("KVM: arm64: Write arch.mdcr_el2 changes since last vcpu_load on VHE")
+bd7d95cafb49 ("arm64: KVM: Consistently advance singlestep when emulating instructions")

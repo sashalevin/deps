@@ -1,0 +1,8 @@
+1bb39959623b ("i2c: designware: add MSCC Ocelot support")
+96742775a3c0 ("i2c: designware: move #ifdef CONFIG_OF to the top")
+1732c22abca8 ("i2c: designware: use generic table matching")
+89a1e1bd7ba9 ("i2c: designware: refactoring of the i2c-designware")
+e393f674c5fe ("i2c: designware: Cleaning and comment style fixes.")
+a3d411fb38c0 ("i2c: designware: Disable pm for PMIC i2c-bus even if there is no _SEM method")
+41c80b8a63bc ("i2c: designware: Never suspend i2c-busses used for accessing the system PMIC")
+a528fab6cc66 ("Merge tag 'topic/designware-baytrail-2017-03-02' of git://anongit.freedesktop.org/git/drm-intel into i2c/for-next")

@@ -1,0 +1,5 @@
+e97af69950ff ("mm/swap_state: skip meaningless swap cache readahead when ra_info.win == 0")
+eaf649ebc3ac ("mm: swap: clean up swap readahead")
+f80207727aac ("mm/memory.c: release locked page in do_swap_page()")
+aa8d22a11da9 ("mm: swap: SWP_SYNCHRONOUS_IO: skip swapcache only if swapped page has no other reference")
+0bcac06f27d7 ("mm, swap: skip swapcache for swapin of synchronous device")

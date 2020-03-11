@@ -1,0 +1,7 @@
+284260f278b7 ("tty: n_gsm: fix mux cleanup after unregister tty device")
+aa371e96f05d ("tty: n_gsm: fix restart handling via CLD command")
+11451693e408 ("tty: n_gsm: fix missing mux reset on config change at responder")
+5b87686e3203 ("tty: n_gsm: Modify gsmtty driver register method when config requester")
+509067bbd264 ("tty: n_gsm: Delete gsm_disconnect when config requester")
+0a360e8b65d6 ("tty: n_gsm: check error while registering tty devices")
+5677fcf376d5 ("n_gsm: switch dead to bool")

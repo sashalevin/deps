@@ -1,0 +1,5 @@
+e544b720ef31 ("scsi: qla2xxx: Change two hardcoded constants into offsetof() / sizeof() expressions")
+d9ab5f1f05fc ("scsi: qla2xxx: Increase the size of struct qla_fcp_prio_cfg to FCP_PRIO_CFG_SIZE")
+8a73a0e002b3 ("scsi: qla2xxx: Add more BUILD_BUG_ON() statements")
+59d23cf3f2e4 ("scsi: qla2xxx: Sort BUILD_BUG_ON() statements alphabetically")
+bc04459ce4e5 ("scsi: qla2xxx: Check the size of firmware data structures at compile time")

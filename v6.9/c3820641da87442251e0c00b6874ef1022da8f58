@@ -1,0 +1,8 @@
+c3820641da87 ("regmap: kunit: Fix memory leaks in gen_regmap() and gen_raw_regmap()")
+ce75e06eea9c ("regmap: kunit: Use a KUnit action to call regmap_exit()")
+7903d15f0080 ("regmap: kunit: Add more cache-sync tests")
+7dd52d301cfc ("regmap: kunit: Add more cache-drop tests")
+ac4394bf9c5e ("regmap: kunit: Run non-sparse cache tests at non-zero register addresses")
+710915743d53 ("regmap: kunit: Run sparse cache tests at non-zero register addresses")
+48bccea96fea ("regmap: kunit: Introduce struct for test case parameters")
+7b7982f14315 ("regmap: kunit: Create a struct device for the regmap")

@@ -1,1 +1,3 @@
 2a8868f16e6b ("iommu/arm-smmu-v3: Separate s/w and h/w views of prod and cons indexes")
+a868e8530441 ("iommu/arm-smmu-v3: Use explicit mb() when moving cons pointer")
+9662b99a19ab ("iommu/arm-smmu-v3: Add support for non-strict mode")

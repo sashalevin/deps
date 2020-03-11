@@ -1,0 +1,7 @@
+b07e3c6ebc0c ("rsi: Fix use-after-free in rsi_rx_done_handler()")
+0a60014b76f5 ("rsi: miscallaneous changes for 9116 and common")
+a1854fae1414 ("rsi: improve RX packet handling in USB interface")
+8809f08cdc0b ("rsi: use dynamic RX control blocks instead of MAX_RX_URB")
+1100f81bbcd1 ("rsi: add rx control block to handle rx packets in USB")
+d35ef8f846c7 ("rsi: fix memory leak on buf and usb_reg_buf")
+e6b3b2ed3d27 ("rsi: fix kbuild reported build errors with CONFIG_PM off")

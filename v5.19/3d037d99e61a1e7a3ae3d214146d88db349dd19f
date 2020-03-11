@@ -1,0 +1,5 @@
+3d037d99e61a ("drm/i915: pass a pointer for tlb seqno at vma_invalidate_tlb()")
+5d36acb7198b ("drm/i915/gt: Batch TLB invalidations")
+be0366f16803 ("drm/i915/gt: Skip TLB invalidations once wedged")
+dfc83de118ff ("drm/i915/gt: Invalidate TLB of the OA unit at TLB invalidations")
+4bedceaed1ae ("drm/i915/gt: Ignore TLB invalidations on idle engines")

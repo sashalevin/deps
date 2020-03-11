@@ -1,0 +1,5 @@
+140ce28dd3be ("block: add a disk_has_partscan helper")
+e5cfefa97bcc ("block: fix scan partition for exclusively open device again")
+0f77b29ad14e ("block: Revert "block: Do not reread partition table on exclusively open device"")
+36369f46e917 ("block: Do not reread partition table on exclusively open device")
+748008e1da92 ("block: don't add partitions if GD_SUPPRESS_PART_SCAN is set")

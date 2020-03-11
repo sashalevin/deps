@@ -1,0 +1,3 @@
+1cd62c21572c ("tcp: Add reuseport_migrate_sock() to select a new listener.")
+5c040eaf5d17 ("tcp: Add num_closed_socks to struct sock_reuseport.")
+fd2ddef04359 ("udp: Prevent reuseport_select_sock from reading uninitialized socks")

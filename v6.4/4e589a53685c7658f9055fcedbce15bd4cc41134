@@ -1,0 +1,5 @@
+4e589a53685c ("iommu/vt-d: Use cache_tag_flush_all() in flush_iotlb_all")
+304b3bde24b5 ("iommu/vt-d: Remove caching mode check before device TLB flush")
+821985301124 ("iommu/vt-d: Add missing iotlb flush for parent domain")
+ac1a3483febd ("iommu/vt-d: Add domain_flush_pasid_iotlb()")
+4298780126c2 ("iommu: Generalize PASID 0 for normal DMA w/o PASID")

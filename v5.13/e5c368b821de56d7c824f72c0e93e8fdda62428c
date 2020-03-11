@@ -1,0 +1,4 @@
+e5c368b821de ("pwm: bcm-kona: Make use of devm_pwmchip_alloc() function")
+51352c09eafd ("pwm: bcm-kona: Consistently name pwm_chip variables "chip"")
+ccc2df6f802b ("pwm: bcm-kona: Simplify using devm_pwmchip_add()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

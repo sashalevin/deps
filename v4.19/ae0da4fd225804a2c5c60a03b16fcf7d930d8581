@@ -1,0 +1,6 @@
+ae0da4fd2258 ("usb: dwc2: Add hibernation exiting flow by system resume")
+c74c26f6e398 ("usb: dwc2: Fix partial power down exiting by system resume")
+c9c394abfa84 ("usb: dwc2: Update enter and exit partial power down functions")
+8c935deacebb ("usb: dwc2: gadget: move gadget resume after the core is in L0 state")
+6f6d70597c15 ("usb: dwc2: bus suspend/resume for hosts with DWC2_POWER_DOWN_PARAM_NONE")
+5aa678c7fd53 ("usb: dwc2: fix call to vbus supply exit routine, call it unlocked")

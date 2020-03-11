@@ -1,0 +1,4 @@
+3d60e15f6ead ("net: ipa: change stop channel retry delay")
+74401946bdad ("net: ipa: use usleep_range() 65;6003;1c The use of msleep() for small periods (less than 20 milliseconds) is not recommended because the actual delay can be much different than expected.")
+84f9bd12d46d ("soc: qcom: ipa: IPA endpoints")
+650d1603825d ("soc: qcom: ipa: the generic software interface")

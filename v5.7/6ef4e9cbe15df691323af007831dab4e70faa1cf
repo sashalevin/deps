@@ -1,0 +1,5 @@
+6ef4e9cbe15d ("cifs: add a function to get a cached dir based on its dentry")
+45c0f1aabea9 ("cifs: rename the *_shroot* functions to *_cached_dir*")
+e6eb19504e23 ("cifs: pass a path to open_shroot and check if it is the root or not")
+4df3d976dda2 ("cifs: move the check for nohandlecache into open_shroot")
+9e81e8ff74b9 ("cifs: return cached_fid from open_shroot")

@@ -1,0 +1,8 @@
+46f480ec1458 ("net: tuntap: Leverage core stats allocator")
+158b515f703e ("tun: avoid double free in tun_free_netdev")
+c2e315b8c399 ("net: tun: fix misspellings using codespell tool")
+497a5757ce4e ("tun: switch to net core provided statistics counters")
+596b5ef458f9 ("net-tun: Eliminate two tun/xdp related function calls from vhost-net")
+b558b6c24068 ("net-tun: Add type safety to tun_xdp_to_ptr() and tun_ptr_to_xdp()")
+5260dd3ed1ff ("tun: switch to u64_stats_t")
+11fc7d5a0a2d ("tun: fix memory leak in error path")

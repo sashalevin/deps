@@ -1,0 +1,5 @@
+1ee73a332f80 ("KVM: x86: SVM: use vmcb01 in init_vmcb")
+36e8194dcd74 ("KVM: x86: SVM: don't set VMLOAD/VMSAVE intercepts on vCPU reset")
+30eed56a7e1c ("KVM: SVM: remove svm_toggle_avic_for_irq_window")
+1e0c7d40758b ("KVM: SVM: hyper-v: Remote TLB flush for SVM")
+fdf513e37a3b ("KVM: x86: Use common 'enable_apicv' variable for both APICv and AVIC")

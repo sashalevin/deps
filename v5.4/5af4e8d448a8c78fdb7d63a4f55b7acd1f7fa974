@@ -1,0 +1,5 @@
+5af4e8d448a8 ("crypto: caam - fix use-after-free KASAN issue for SKCIPHER algorithms")
+ee38767f152a ("crypto: caam - support crypto_engine framework for SKCIPHER algorithms")
+4d370a103695 ("crypto: caam - change return code in caam_jr_enqueue function")
+d53e44fe980b ("crypto: caam - refactor RSA private key _done callbacks")
+b7f17fe28144 ("crypto: caam - refactor skcipher/aead/gcm/chachapoly {en,de}crypt functions")

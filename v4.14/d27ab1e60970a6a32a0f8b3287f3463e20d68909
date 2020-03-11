@@ -1,0 +1,5 @@
+d27ab1e60970 ("usb: gadget: u_audio: Use managed buffer allocation")
+67b2945d6323 ("usb: gadget: u_audio: Remove superfluous snd_dma_continuous_data()")
+773e53d50e22 ("usb: gadget: u_audio: remove cached period bytes value")
+96afb54ece0e ("usb: gadget: u_audio: remove caching of stream buffer parameters")
+6b37bd78d30c ("usb: gadget: u_audio: update hw_ptr in iso_complete after data copied")

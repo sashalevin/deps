@@ -1,0 +1,8 @@
+6bdc9977fcde ("ext4: fix buffer leak in ext4_xattr_move_to_block() on error path")
+3f2571c1f91f ("ext4: factor out xattr moving")
+e3014d14a81e ("ext4: fixup free space calculations when expanding inodes")
+2e81a4eeedca ("ext4: avoid deadlock when expanding inode size")
+443a8c41cd49 ("ext4: properly align shifted xattrs when expanding inodes")
+418c12d08dc6 ("ext4: fix xattr shifting when expanding inodes part 2")
+d0141191a202 ("ext4: fix xattr shifting when expanding inodes")
+9e92f48c34eb ("ext4: check if in-inode xattr is corrupted in ext4_expand_extra_isize_ea()")

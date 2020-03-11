@@ -1,0 +1,6 @@
+437fb760d046 ("pwm: meson: Remove redundant assignment to variable fin_freq")
+fb2081e870e9 ("pwm: meson: Simplify the calculation of the pre-divider and count")
+b79c3670e120 ("pwm: meson: Don't duplicate the polarity internally")
+f173747fffdf ("pwm: meson: Use the spin-lock only to protect register modifications")
+a279345807e1 ("pwm: meson: Don't disable PWM when setting duty repeatedly")
+51496e444687 ("pwm: meson: Consider 128 a valid pre-divider")

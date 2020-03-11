@@ -1,0 +1,8 @@
+e85de1770385 ("drm/i915/guc: Introduce guc_is_ready")
+59a46ad9f86c ("drm/i915/guc: Update CTB helpers to use CT_ERROR")
+9ab28cd20c92 ("drm/i915/guc/ct: Stop expecting multiple CT channels")
+7f5390c43387 ("drm/i915/guc/ct: Drop guards in enable/disable calls")
+e627ad50a2d7 ("drm/i915/guc: Merge communication_stop and communication_disable")
+18c094b30404 ("drm/i915/guc: add a helper to allocate and map guc vma")
+82e0c5bbd6eb ("drm/i915/guc: Skip suspend/resume GuC action on platforms w/o GuC submission")
+9be02fde93e5 ("drm/i915/uc: Extract common code from GuC stop/disable comm")

@@ -1,0 +1,5 @@
+e5f28623ceb1 ("x86/MCE/AMD: Fix memory leak when threshold_create_bank() fails")
+f26d2580a7dd ("x86/mce/amd: Cleanup threshold device remove path")
+6458de97fc15 ("x86/mce/amd: Straighten CPU hotplug path")
+6e7a41c63abc ("x86/mce/amd: Sanitize thresholding device creation hotplug path")
+c9bf318f77b3 ("x86/mce/amd: Init thresholding machinery only on relevant vendors")

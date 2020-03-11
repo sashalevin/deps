@@ -1,0 +1,6 @@
+1fe0640ff94f ("rnbd-srv: simplify bio mapping in process_rdma")
+c81cba85512e ("block/rnbd-srv: Remove unused arguments of rnbd_srv_rdma_ev")
+786998050cbc ("block/rnbd-srv: close a mapped device from server side.")
+17bc10300c69 ("block/rnbd: Ensure err is always initialized in process_rdma")
+d7aaeef29340 ("rnbd: no need to set bi_end_io in rnbd_bio_map_kern")
+735d77d4fd28 ("rnbd: remove rnbd_dev_submit_io")

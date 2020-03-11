@@ -1,0 +1,7 @@
+0aac9daef676 ("rcu: Use system_unbound_wq to avoid disturbing isolated CPUs")
+51824b780b71 ("rcu/kvfree: Update KFREE_DRAIN_JIFFIES interval")
+82d26c36cc68 ("rcu/kvfree: Remove useless monitor_todo flag")
+a78d4a2a1017 ("kvfree_rcu: Refactor kfree_rcu_monitor()")
+dd28c9f057ad ("kvfree_rcu: Update "monitor_todo" once a batch is started")
+d434c00fa3ac ("kvfree_rcu: Add a bulk-list check when a scheduler is run")
+d0bfa8b3c411 ("kvfree_rcu: Release a page cache under memory pressure")

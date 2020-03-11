@@ -1,0 +1,4 @@
+e914d8f00391 ("mm: fix unexpected zeroed page mapping with zram swap")
+5115db10a8e0 ("mm: use SWP_SYNCHRONOUS_IO more intelligently")
+7b37e22675df ("mm/page_io: mark various intentional data races")
+937790699be9 ("mm/page_io.c: annotate refault stalls from swap_readpage")

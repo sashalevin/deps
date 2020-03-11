@@ -1,0 +1,7 @@
+4b9d2a731c3d ("parisc: Switch user access functions to signal errors in r29 instead of r8")
+3f795cef0ecd ("parisc: Fix get_user() for 64-bit value on 32-bit kernel")
+d19f5e41b344 ("parisc: Clean up fixup routines for get_user()/put_user()")
+f39cce654f9a ("parisc: Add cfi_startproc and cfi_endproc to assembly code")
+d2ad824f4bb8 ("parisc: Add 64bit get_user() and put_user() for 32bit kernel")
+06bff6b9d7d5 ("parisc: Simplify and speed up get_user() and put_user()")
+60ea7bb0077b ("Merge branch 'parisc-4.6-4' of git://git.kernel.org/pub/scm/linux/kernel/git/deller/parisc-linux")

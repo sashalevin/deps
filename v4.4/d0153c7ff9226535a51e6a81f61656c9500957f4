@@ -1,0 +1,8 @@
+d0153c7ff922 ("arm64: sysreg: Fix unprotected macro argmuent in write_sysreg")
+91cb163e4d14 ("arm64: sysreg: Fix use of XZR in write_sysreg_s")
+8a71f0c656e0 ("arm64: sysreg: replace open-coded mrs_s/msr_s with {read,write}_sysreg_s")
+adf758999792 ("arm64: simplify sysreg manipulation")
+7aff4a2dd3db ("arm64: sysreg: allow write_sysreg to use XZR")
+e937dd578268 ("arm64: debug: convert OS lock CPU hotplug notifier to new infrastructure")
+d7a83d127a64 ("arm64: hw_breakpoint: convert CPU hotplug notifier to new infrastructure")
+a6408f6cb63a ("Merge branch 'smp-hotplug-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

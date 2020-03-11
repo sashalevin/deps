@@ -1,0 +1,3 @@
+c8b567c8a96a ("perf record: Move restricted maps check to after a possible fallback to not collect kernel samples")
+d06e5fad8c46 ("perf tools: Warn that perf_event_paranoid can restrict kernel symbols")
+6c4439545517 ("perf record: Ignore kptr_restrict when not sampling the kernel")

@@ -1,0 +1,8 @@
+e61295e0d7cf ("iio: light: vcnl4000: Convert to i2c's .probe_new()")
+8fe78d5261e7 ("iio: vcnl4000: Add buffer support for VCNL4010/20.")
+f6889c1b009e ("iio: vcnl4000: Add sampling frequency support for VCNL4010/20.")
+d35567fcaf68 ("iio: vcnl4000: Add event support for VCNL4010/20.")
+f5a98e1fca15 ("iio: vcnl4000: Export near level property for proximity sensor")
+5e00708df381 ("iio: vcnl4000: Enable runtime pm for vcnl4200/4040")
+4a818643e988 ("iio: vcnl4000: Use a single return when getting IIO_CHAN_INFO_RAW")
+bc80573ea25b ("iio: light: vcnl4000: Fix scale for vcnl4040")

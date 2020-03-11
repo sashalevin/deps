@@ -1,0 +1,5 @@
+dbd6dc752c8a ("net: bridge: Extract br_vlan_add_existing()")
+f418af6343fb ("bridge: vlan: signal if anything changed on vlan add")
+e19b42a1a066 ("bridge: netlink: make setlink/dellink notifications more accurate")
+251277598596 ("net, bridge: convert net_bridge_vlan.refcnt from atomic_t to refcount_t")
+efa5356b0d97 ("bridge: per vlan dst_metadata netlink support")

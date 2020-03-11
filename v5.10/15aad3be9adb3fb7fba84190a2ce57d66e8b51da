@@ -1,0 +1,6 @@
+15aad3be9adb ("KVM: X86: Reset the vcpu->run->flags at the beginning of vcpu_run")
+f1c6366e3043 ("KVM: SVM: Add required changes to support intercepts under SEV-ES")
+f9a4d621761a ("KVM: x86: introduce complete_emulated_msr callback")
+8b474427cbee ("KVM: x86: use kvm_complete_insn_gp in emulating RDMSR/WRMSR")
+fb04a1eddb1a ("KVM: X86: Implement ring-based dirty memory tracking")
+c21d54f0307f ("KVM: x86: hyper-v: allow KVM_GET_SUPPORTED_HV_CPUID as a system ioctl")

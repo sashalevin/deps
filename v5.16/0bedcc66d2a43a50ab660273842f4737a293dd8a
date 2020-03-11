@@ -1,0 +1,7 @@
+0bedcc66d2a4 ("mm/slab: move memcg related functions from slab.h to slub.c")
+e86828e5446d ("mm: kmem: scoped objcg protection")
+074e3e262adb ("memcg: convert get_obj_cgroup_from_page to get_obj_cgroup_from_folio")
+42c06a0e8ebe ("mm: kill frontswap")
+b8cf32dc6e8c ("mm: zswap: multiple zpools support")
+18a937076c69 ("mm: zswap: fix double invalidate with exclusive loads")
+63773d2b593d ("Merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes.")

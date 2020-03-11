@@ -1,0 +1,4 @@
+c19286d70aaa ("ubi: Replace erase_block() with sync_erase()")
+a033ab4fec5f ("ubi: fastmap: Allocate memory with GFP_NOFS in ubi_update_fastmap")
+08a426787416 ("ubi: fastmap: erase_block: Get erase counter from wl_entry rather than flash")
+4d18b5a57b16 ("ubi: fastmap: Fix missed ec updating after erasing old fastmap data block")

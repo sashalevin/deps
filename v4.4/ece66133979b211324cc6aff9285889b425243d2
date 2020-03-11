@@ -1,0 +1,8 @@
+ece66133979b ("userns: Make map_id_down a wrapper for map_id_range_down")
+3edf652fa165 ("userns: Simplify the user and group mapping functions")
+11a8b9270e16 ("userns: Don't special case a count of 0")
+6397fac4915a ("userns: bump idmap limits to 340")
+aa4bf44dc851 ("userns: use union in {g,u}idmap struct")
+dbec28460a89 ("userns: Add per user namespace sysctls.")
+b032132c3c21 ("userns: Free user namespaces in process context")
+70f6cbb6f9c9 ("kernel/*: switch to memdup_user_nul()")

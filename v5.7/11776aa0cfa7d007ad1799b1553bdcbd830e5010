@@ -1,0 +1,7 @@
+11776aa0cfa7 ("KVM: VMX: Handle forced exit due to preemption timer in fastpath")
+e6b5d16bbd2d ("KVM: VMX: Re-enter guest in fastpath for "spurious" preemption timer exits")
+26efe2fd92e5 ("KVM: VMX: Handle preemption timer fastpath")
+dcf068da7eb2 ("KVM: VMX: Introduce generic fastpath handler")
+a9ab13ff6e84 ("KVM: X86: Improve latency for single target IPI fastpath")
+873e1da16918 ("KVM: VMX: Optimize handling of VM-Entry failures in vmx_vcpu_run()")
+e64419d991ea ("KVM: x86: Move "flush guest's TLB" logic to separate kvm_x86_ops hook")

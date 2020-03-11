@@ -1,0 +1,7 @@
+a765c417d876 ("mm: page_vma_mapped_walk(): get vma_address_end() earlier")
+6d0fd5987657 ("mm: page_vma_mapped_walk(): settle PageHuge on entry")
+f003c03bd29e ("mm: page_vma_mapped_walk(): use page for pvmw->page")
+494334e43c16 ("mm/thp: fix vma_address() if virtual address below file offset")
+732ed55823fc ("mm/thp: try_to_unmap() use TTU_SYNC for safe splitting")
+013339df116c ("mm/rmap: always do TTU_IGNORE_ACCESS")
+336bf30eb765 ("hugetlbfs: fix anon huge page migration race")

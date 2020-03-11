@@ -1,0 +1,4 @@
+3da8d71754d3 ("power: reset: rmobile-reset: Make sysc_base2 local")
+ba1188ea8be8 ("power: reset: rmobile-reset: Use devm_register_sys_off_handler(RESTART)")
+0867276eb122 ("power: reset: rmobile-reset: Use devm_platform_ioremap_resource() helper")
+30d26d2be83d ("power: reset: rmobile-reset: Convert to platform remove callback returning void")

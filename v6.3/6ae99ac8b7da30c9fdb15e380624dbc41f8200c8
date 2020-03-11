@@ -1,0 +1,6 @@
+6ae99ac8b7da ("selftests/bpf: Add a selftest with not-8-byte aligned BPF_ST")
+7d8ed51bcb32 ("selftests/bpf: validate fake register spill/fill precision backtracking logic")
+add1cd7f22e6 ("selftests/bpf: validate zero preservation for sub-slot loads")
+b33ceb6a3d2e ("selftests/bpf: validate STACK_ZERO is preserved on subreg spill")
+f57ade27fc3e ("selftests/bpf: Add test cases to assert proper ID tracking on spill")
+f4fe3cfe6c3a ("selftests/bpf: verifier/spill_fill.c converted to inline assembly")

@@ -1,0 +1,6 @@
+5cf81ce1893d ("libnvdimm: Convert to DEVICE_ATTR_ADMIN_RO()")
+bfd2e9140656 ("libnvdimm: Simplify root read-only definition for the 'resource' attribute")
+78c81cc89a40 ("libnvdimm: Move attribute groups to device type")
+c42adf87e4e7 ("libnvdimm/region: Initialize bad block for volatile namespaces")
+700cd033a82d ("libnvdimm/region: Register badblocks before namespaces")
+55781b66936e ("libnvdimm, namespace: Drop the repeat assignment for variable dev->parent")

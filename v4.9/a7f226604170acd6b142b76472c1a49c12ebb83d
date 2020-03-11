@@ -1,0 +1,8 @@
+a7f226604170 ("mm/gup: trigger FAULT_FLAG_UNSHARE when R/O-pinning a possibly shared anonymous page")
+b0496fe4effd ("mm/gup: Convert gup_pte_range() to use a folio")
+1507f51255c9 ("mm: introduce memfd_secret system call to create "secret" memory areas")
+43ca106fa8ec ("mm: cma: support sysfs")
+bbb269206f3c ("mm: vmstat: add cma statistics")
+1fbaf8fc12a0 ("mm: add a io_mapping_map_user helper")
+4066c119483a ("mm: gup: remove FOLL_SPLIT")
+ac73e3dc8acd ("Merge branch 'akpm' (patches from Andrew)")

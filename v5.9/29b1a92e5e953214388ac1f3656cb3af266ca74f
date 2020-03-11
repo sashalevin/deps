@@ -1,0 +1,8 @@
+29b1a92e5e95 ("OPP: Handle all genpd cases together in _set_required_opps()")
+19526d092ceb ("opp: core: Check for pending links before reading required_opp pointers")
+4fa82a87ba55 ("opp: Allow required-opps to be used for non genpd use cases")
+7eba0c7641b0 ("opp: Allow lazy-linking of required-opps")
+597ff5431fd4 ("opp: Add dev_pm_opp_get_required_pstate()")
+cf65948d62c6 ("opp: Filter out OPPs based on availability of a required-OPP")
+a5663c9b1e31 ("opp: Allow opp-level to be set to 0")
+60cdeae0d627 ("opp: Reduce code duplication in _set_required_opps()")

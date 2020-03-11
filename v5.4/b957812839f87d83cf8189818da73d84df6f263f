@@ -1,0 +1,5 @@
+b957812839f8 ("drm/v3d: Convert to platform remove callback returning void")
+bc662528e29a ("drm/v3d: Delete v3d_dev->dev")
+235b7e7d7eee ("drm/v3d: Use devm_drm_dev_alloc")
+af25c16bd1c6 ("drm/v3d: Don't set drm_device->dev_private")
+ea3aa6203c6b ("drm/v3d: Use drmm_add_final_kfree")

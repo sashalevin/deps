@@ -1,0 +1,4 @@
+c14f1fee18f0 ("scsi: csiostor: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+f50e76052321 ("scsi: csiostor: drop serial_number usage")
+9cf2bab63076 ("block: kill request ->cpu member")
+36e765392e48 ("blk-mq: complete req in softirq context in case of single queue")

@@ -1,0 +1,6 @@
+3e7ce7a187fc ("kvfree_rcu: Replace __GFP_RETRY_MAYFAIL by __GFP_NORETRY")
+b01b405092b7 ("kvfree_rcu: Use __GFP_NOMEMALLOC for single-argument kvfree_rcu()")
+148e3731d124 ("kvfree_rcu: Directly allocate page for single-argument case")
+84109ab58590 ("rcu: Record kvfree_call_rcu() call stack for KASAN")
+56292e8609e3 ("rcu/tree: Defer kvfree_rcu() allocation to a clean context")
+72a2fbda53d0 ("rcu/tree: docs: document bkvcache new members at struct kfree_rcu_cpu")

@@ -1,0 +1,2 @@
+05ffc951392d ("locking/mutex: Break out of expensive busy-loop on {mutex,rwsem}_spin_on_owner() when owner vCPU is preempted")
+3ca0ff571b09 ("locking/mutex: Rework mutex::owner")

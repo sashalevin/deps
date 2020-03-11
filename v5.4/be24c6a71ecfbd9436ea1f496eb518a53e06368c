@@ -1,0 +1,6 @@
+be24c6a71ecf ("soc: qcom: rpmh-rsc: Don't use ktime for timeout in write_tcs_reg_sync()")
+91160150aba0 ("soc: qcom: rpmh-rsc: Timeout after 1 second in write_tcs_reg_sync()")
+faa0c1f106ef ("soc: qcom: rpmh-rsc: Factor "tcs_reg_addr" and "tcs_cmd_addr" calculation")
+1f7dbeb51a4f ("soc: qcom: rpmh-rsc: Document the register layout better")
+3b5e3d50f83a ("soc: qcom: rpmh-rsc: Clean code reading/writing TCS regs/cmds")
+15b3bf61b8d4 ("soc: qcom: rpmh-rsc: Clear active mode configuration for wake TCS")

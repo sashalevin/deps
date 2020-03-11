@@ -1,0 +1,6 @@
+ca7af0402550 ("tcp: add small random increments to the source port")
+c579bd1b4021 ("tcp: add some entropy in __inet_hash_connect()")
+190cc82489f4 ("tcp: change source port randomizarion at connect() time")
+3c82a21f4320 ("net: allow binding socket in a VRF when there's an unbound socket")
+2ab2ddd301a2 ("inet: make sure to grab rcu_read_lock before using ireq->ireq_opt")
+1ad98e9d1bdf ("tcp/dccp: fix lockdep issue when SYN is backlogged")

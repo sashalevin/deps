@@ -1,0 +1,5 @@
+6f4614886baa ("mm, hwpoison: enable memory error handling on 1GB hugepage")
+405ce051236c ("mm/hwpoison: fix race between hugetlb free/demotion and memory_failure_hugetlb()")
+888af2701db7 ("mm/memory-failure.c: fix race with changing page compound again")
+d1fe111fb62a ("mm/hwpoison: avoid the impact of hwpoison_filter() return value on mce handler")
+91d005479e06 ("mm/hwpoison: mf_mutex for soft offline and unpoison")

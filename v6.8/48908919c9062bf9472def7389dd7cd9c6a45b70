@@ -1,0 +1,6 @@
+48908919c906 ("x86/percpu: Rename percpu_stable_op() to __raw_cpu_read_stable()")
+08d564ad699e ("x86/percpu: Move some percpu macros around for readability")
+b90169b42a6f ("x86/percpu: Do not use this_cpu_read_stable_8() for 32-bit targets")
+e39828d2c1c0 ("x86/percpu: Use the correct asm operand modifier in percpu_stable_op()")
+ca4256348660 ("x86/percpu: Use C for percpu read/write accessors")
+9a462b9eafa6 ("x86/percpu: Use compiler segment prefix qualifier")

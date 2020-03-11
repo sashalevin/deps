@@ -1,0 +1,7 @@
+58730ab6c7ca ("ksm: convert to use common struct mm_slot")
+79b099415637 ("ksm: convert ksm_mm_slot.link to ksm_mm_slot.hash")
+23f746e412b4 ("ksm: convert ksm_mm_slot.mm_list to ksm_mm_slot.mm_node")
+21fbd59136e0 ("ksm: add the ksm prefix to the names of the ksm private structures")
+cb4df4cae4f2 ("ksm: count allocated ksm rmap_items for each process")
+a5f18ba07276 ("mm/ksm: use vma iterators instead of vma linked list")
+7609385337a4 ("ksm: count ksm merging pages for each process")

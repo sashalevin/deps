@@ -1,0 +1,7 @@
+28d211919e42 ("rtc: sun6i: Fix memleak in sun6i_rtc_clk_init")
+17ecd246414b ("rtc: sun6i: Add support for the external oscillator gate")
+1a37c34811f6 ("rtc: sun6i: ensure clk_data is kfree'd on error")
+15829cf4b3f8 ("rtc: sun6i: Fix compatibility with old DT binding")
+3855c2c3e546 ("rtc: sun6i: Expose the 32kHz oscillator")
+fb61bb82cb46 ("rtc: sun6i: Switch to the external oscillator")
+a9422a19ce27 ("rtc: sun6i: Add some locking")

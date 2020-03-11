@@ -1,0 +1,8 @@
+63e9bbbcca60 ("netfilter: nf_tables: don't store chain address on jump")
+e38fbfa972eb ("netfilter: nf_tables: merge nft_rules_old structure and end of ruleblob marker")
+399a14ec7993 ("netfilter: nf_tables: fix crash when nf_trace is enabled")
+e34b9ed96ce3 ("netfilter: nf_tables: avoid skb access on nf_stolen")
+33758c891479 ("memcg: enable accounting for nft objects")
+b07f41373254 ("netfilter: nf_tables: remove assignment with no effect in chain blob builder")
+2c865a8a28a1 ("netfilter: nf_tables: add rule blob layout")
+4765473fefd4 ("netfilter: nf_tables: consolidate rule verdict trace call")

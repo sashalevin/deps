@@ -1,0 +1,8 @@
+b574df94883d ("powerpc/mm: Fix typo in comments")
+0b2f5a8a7927 ("powerpc/64s/radix: Improve TLB flushing for page table freeing")
+cbf09c837720 ("powerpc/64s/radix: Optimize flush_tlb_range")
+d665767e39fa ("powerpc/64s/radix: Implement _tlbie(l)_va_range flush functions")
+14001c60939a ("powerpc/64s/radix: Optimize TLB range flush barriers")
+30b49ec798f0 ("powerpc/64s/radix: Fix process table entry cache invalidation")
+dffe8449c5dd ("powerpc/64s/radix: Improve preempt handling in TLB code")
+6773027205ea ("powerpc/mm/radix: Drop unneeded NULL check")

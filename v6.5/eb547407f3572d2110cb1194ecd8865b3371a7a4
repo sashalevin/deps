@@ -1,0 +1,5 @@
+eb547407f357 ("ksmbd: downgrade RWH lease caching state to RH for directory")
+2e450920d58b ("ksmbd: move oplock handling after unlock parent dir")
+864fb5d37163 ("ksmbd: fix possible deadlock in smb2_open")
+5a7ee91d1154 ("ksmbd: fix race condition with fp")
+e2b76ab8b5c9 ("ksmbd: add support for read compound")

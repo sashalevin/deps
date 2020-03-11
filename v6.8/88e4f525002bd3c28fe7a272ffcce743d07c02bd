@@ -1,0 +1,8 @@
+88e4f525002b ("mm/hugetlb: add missing VM_FAULT_SET_HINDEX in hugetlb_wp")
+bd722058e34d ("hugetlb: convert hugetlb_wp() to use struct vm_fault")
+7b6ec181de37 ("hugetlb: convert hugetlb_no_page() to use struct vm_fault")
+9b42fa16195f ("hugetlb: convert hugetlb_fault() to use struct vm_fault")
+37641efaa3fa ("hugetlb: check for anon_vma prior to folio allocation")
+9acad7ba3e25 ("hugetlb: use vmf_anon_prepare() instead of anon_vma_prepare()")
+7dac0ec8fa3f ("hugetlb: pass struct vm_fault through to hugetlb_handle_userfault()")
+0ca22723e3ff ("hugetlb: move vm_fault declaration to the top of hugetlb_fault()")

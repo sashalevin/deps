@@ -1,0 +1,7 @@
+0077b1b2c8d9 ("usb: host: xhci: fix ep context print mismatch in debugfs")
+02b6fdc2a153 ("usb: xhci: Add debugfs interface for xHCI driver")
+c5628a2af83a ("xhci: remove endpoint ring cache")
+fe190ed0d602 ("xhci: Do not halt the host until both HCD have disconnected their devices.")
+ee8665e28e8d ("xhci: free xhci virtual devices with leaf nodes first")
+228cfaea5418 ("usb: xhci: cleanup cmd_completion in xhci_virt_device")
+c11ae038d62b ("xhci: don't try to reset the host if it is unaccessible")

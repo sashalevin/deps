@@ -1,0 +1,8 @@
+22ada802ede8 ("block: use lcm_not_zero() when stacking chunk_sectors")
+3093a479727b ("block: inherit the zoned characteristics in blk_stack_limits")
+dd88d313bef0 ("dm table: add zoned block devices validation")
+e2460f2a4bc7 ("dm: mark targets that pass integrity data")
+3c1201691006 ("dm table: replace while loops with for loops")
+9b4b5a797cf8 ("dm table: add flag to allow target to handle its own integrity metadata")
+987b3b26eb7b ("block: update chunk_sectors in blk_stack_limits()")
+797476b88bde ("block: Add 'zoned' queue limit")

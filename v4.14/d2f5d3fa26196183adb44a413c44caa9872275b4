@@ -1,0 +1,7 @@
+d2f5d3fa2619 ("x86/vdso/32: Use 32bit syscall fallback")
+f66501dc53e7 ("x86/vdso: Add clock_getres() entry point")
+7ac870747988 ("x86/vdso: Switch to generic vDSO implementation")
+ff17bbe0bb40 ("x86/vdso: Prevent segfaults due to hoisted vclock reads")
+7e300dabb7e7 ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 223")
+459e3a21535a ("gcc-9: properly declare the {pv,hv}clock_page storage")
+034bda1cd5ab ("Merge branch 'x86-vdso-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

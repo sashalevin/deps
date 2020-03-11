@@ -1,0 +1,5 @@
+ed4cd17eb26d ("mm/sl[au]b: introduce common alloc/free functions without tracepoint")
+c45248db04f8 ("mm/slab_common: cleanup kmalloc_track_caller()")
+f78a03f6e28b ("mm/slab_common: remove CONFIG_NUMA ifdefs for common kmalloc functions")
+b347aa7b5747 ("mm/tracing: add 'accounted' entry into output of allocation tracepoints")
+fe573327ffb1 ("tracing: incorrect gfp_t conversion")

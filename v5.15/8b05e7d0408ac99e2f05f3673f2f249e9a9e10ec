@@ -1,0 +1,6 @@
+8b05e7d0408a ("RISC-V: Factor out body of riscv_init_cbom_blocksize loop")
+5c20a3a9df19 ("RISC-V: Fix compilation without RISCV_ISA_ZICBOM")
+afd5dde9a186 ("RISC-V: KVM: Provide UAPI for Zicbom block size")
+c589e3ca27c9 ("RISC-V: Avoid coupling the T-Head CMOs and Zicbom")
+8f7e001e0325 ("RISC-V: Clean up the Zicbom block size probing")
+3aefb2ee5bdd ("riscv: implement Zicbom-based CMO instructions + the t-head variant")

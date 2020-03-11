@@ -1,0 +1,6 @@
+1436ec309e62 ("phy: cadence: Sierra: Enable pll_cmnlc and pll_cmnlc1 clocks")
+28081b72859f ("phy: cadence: Sierra: Model PLL_CMNLC and PLL_CMNLC1 as clocks (mux clocks)")
+29c2d02adbc8 ("phy: cadence: Sierra: Add missing clk_disable_unprepare() in .remove callback")
+a0c30cd783b9 ("phy: cadence: Sierra: Add array of input clocks in "struct cdns_sierra_phy"")
+1d5f40e021f3 ("phy: cadence: Sierra: Move all reset_control_get*() to a separate function")
+7e016cbc526d ("phy: cadence: Sierra: Move all clk_get_*() to a separate function")

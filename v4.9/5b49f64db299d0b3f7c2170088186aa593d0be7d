@@ -1,0 +1,4 @@
+5b49f64db299 ("vfs: vfs_clone_file_prep_inodes should return EINVAL for a clone from beyond EOF")
+22725ce4e4a0 ("vfs: fix isize/pos/len checks for reflink & dedupe")
+29ac8e856cb3 ("ocfs2: implement the VFS clone_range, copy_range, and dedupe_range features")
+876bec6f9bbf ("vfs: refactor clone/dedupe_file_range common functions")

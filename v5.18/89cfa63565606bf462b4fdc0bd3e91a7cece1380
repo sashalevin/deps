@@ -1,0 +1,7 @@
+89cfa6356560 ("can: bittiming(): replace open coded variants of can_bit_time()")
+0c7e11513883 ("can: bittiming: move bittiming calculation functions to calc_bittiming.c")
+6a5286442fb6 ("can: Kconfig: turn menu "CAN Device Drivers" into a menuconfig using CAN_DEV")
+df6ad5dd838e ("can: Kconfig: rename config symbol CAN_DEV into CAN_NETLINK")
+6c1e423a3c84 ("can: can-dev: remove obsolete CAN LED support")
+2dcb8e8782d8 ("can: ctucanfd: add support for CTU CAN FD open-source IP core - bus independent part.")
+85d4eb2a3dfe ("can: bittiming: can_calc_bittiming(): prefer small bit rate pre-scalers over larger ones")

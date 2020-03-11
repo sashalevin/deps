@@ -1,0 +1,4 @@
+1996d47a0db2 ("sparc32: mm: Only call ctor()/dtor() functions for first and last user")
+454b0289c6b5 ("sparc32: mm: Don't try to free page-table pages if ctor() fails")
+3f407976ac29 ("sparc32: mm: Change pgtable_t type to pte_t * instead of struct page *")
+8e958839e4b9 ("sparc32: mm: Restructure sparc32 MMU page-table layout")

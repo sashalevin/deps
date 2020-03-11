@@ -1,0 +1,8 @@
+f6e8fb55e5af ("ice: Implement basic eswitch bridge setup")
+cf871006c017 ("ice: remove unnecessary CONFIG_ICE_GNSS")
+c7ef8221ca7d ("ice: use GNSS subsystem instead of TTY")
+40543b3d9d2c ("ice: Add check for kzalloc")
+f58985620f55 ("ice: Fix potential memory leak in ice_gnss_tty_write()")
+d6b98c8d242a ("ice: add write functionality for GNSS TTY")
+0a3ca0867c1f ("ice: remove u16 arithmetic in ice_gnss")
+187dbc15d8a7 ("ice: use min_t() to make code cleaner in ice_gnss")

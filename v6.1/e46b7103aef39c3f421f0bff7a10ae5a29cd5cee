@@ -1,0 +1,5 @@
+e46b7103aef3 ("arm64: module: move module randomization to module.c")
+6e13b6b923b3 ("arm64: kaslr: split kaslr/module initialization")
+8339f7d8e178 ("arm64: module: remove old !KASAN_VMALLOC logic")
+010338d729c1 ("arm64: kaslr: don't pretend KASLR is enabled if offset < MIN_KIMG_ALIGN")
+3b619e22c460 ("arm64: implement dynamic shadow call stack for Clang")

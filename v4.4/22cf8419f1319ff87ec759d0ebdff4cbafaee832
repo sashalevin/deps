@@ -1,0 +1,6 @@
+22cf8419f131 ("nfsd: apply umask on fs without ACL support")
+714232744981 ("nfsd: clean up bad-type check in nfsd_create_locked")
+b44061d0b914 ("nfsd: reorganize nfsd_create")
+e75b23f9e323 ("nfsd: check d_can_lookup in fh_verify of directories")
+12391d07230e ("nfsd: remove redundant zero-length check from create")
+7eed34f18d9f ("nfsd: Make creates return EEXIST instead of EACCES")

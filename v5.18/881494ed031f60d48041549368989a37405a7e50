@@ -1,0 +1,7 @@
+881494ed031f ("blk_ioctl_{discard,zeroout}(): we only want ->bd_inode->i_mapping here...")
+22d24a544b0d ("block: fix overflow in blk_ioctl_discard()")
+70200574cc22 ("block: remove QUEUE_FLAG_DISCARD")
+cf0fbf894bb5 ("block: add a bdev_max_discard_sectors helper")
+998e9cbcd615 ("drbd: cleanup decide_on_discard_support")
+7a38acce2296 ("drbd: use bdev based limit helpers in drbd_send_sizes")
+40349d0e16ce ("drbd: remove assign_p_sizes_qlim")

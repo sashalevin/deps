@@ -1,0 +1,8 @@
+775acc82a88f ("x86/traps: Refactor exc_general_protection()")
+fa6af69f38d3 ("x86/traps: Demand-populate PASID MSR via #GP")
+b968e84b509d ("x86/iopl: Fake iopl(3) CLI/STI usage")
+f2df15639e44 ("x86/insn-eval: Make 0 a valid RIP for insn_get_effective_ip()")
+bffe30dd9f1f ("x86/sev-es: Use __copy_from_user_inatomic()")
+334872a09198 ("x86/traps: Attempt to fixup exceptions in vDSO before signaling")
+cd072dab453a ("x86/fault: Add a helper function to sanitize error code")
+f56e65dff6ad ("Merge branch 'work.set_fs' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

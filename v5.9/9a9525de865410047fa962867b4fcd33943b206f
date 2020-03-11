@@ -1,0 +1,6 @@
+9a9525de8654 ("null_blk: don't cap max_hw_sectors to BLK_DEF_MAX_SECTORS")
+0a26f327e46c ("block: make BLK_DEF_MAX_SECTORS unsigned")
+eebf34a85c8c ("null_blk: Move driver into its own directory")
+ea17fd354ca8 ("null_blk: Allow controlling max_hw_sectors limit")
+817046ecddbc ("block: Align max_hw_sectors to logical blocksize")
+dc4d137ee3b7 ("null_blk: add support for max open/active zone limit for zoned devices")

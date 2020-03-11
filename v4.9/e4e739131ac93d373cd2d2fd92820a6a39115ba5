@@ -1,0 +1,7 @@
+e4e739131ac9 ("blk-mq: introduce blk_mq_unquiesce_queue")
+97e0120990f4 ("blk-mq: move blk_mq_quiesce_queue() into include/linux/blk-mq.h")
+7587a5ae7eef ("blk-mq: Introduce blk_mq_delay_run_hw_queue()")
+6a83e74d214a ("blk-mq: Introduce blk_mq_quiesce_queue()")
+2253efc850c4 ("blk-mq: Move more code into blk_mq_direct_issue_request()")
+5d1b25c1ecab ("blk-mq: Introduce blk_mq_hctx_stopped()")
+bc27c01b5c46 ("blk-mq: Do not invoke .queue_rq() for a stopped queue")

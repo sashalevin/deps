@@ -1,0 +1,7 @@
+086e81f6b90e ("HID: intel-ish-hid: ipc: only enable IRQ wakeup when requested")
+2f4ec1548b4e ("HID: intel-ish-hid: ipc: Address EHL Sx resume issues")
+7e341061ddd9 ("HID: intel-ish-hid: Replace PCI_DEV_FLAGS_NO_D3 with pci_save_state")
+fc19a57dd483 ("HID: intel-ish-hid: ipc: check the NO_D3 flag to distinguish resume paths")
+2db8edaa88c1 ("HID: intel-ish-hid: ipc: make ish suspend paths clear")
+c1ca58f6982b ("HID: intel-ish-hid: ipc: set NO_D3 flag only when needed")
+946a7773dcb6 ("HID: intel-ish-hid: use resource-managed api")

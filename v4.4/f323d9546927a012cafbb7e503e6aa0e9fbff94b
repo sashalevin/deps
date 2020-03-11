@@ -1,0 +1,7 @@
+f323d9546927 ("netfilter: nf_tables: add nft_is_base_chain() helper")
+10435c1192d0 ("netfilter: nf_tables: Eliminate duplicated code in nf_tables_table_enable()")
+6133740d6e80 ("netfilter: nf_tables: reject hook configuration updates on existing chains")
+82bec71d46b8 ("netfilter: nf_tables: get rid of NFT_BASECHAIN_DISABLED")
+664b0f8cd8c6 ("netfilter: nf_tables: add generation mask to chains")
+5ebe0b0eec9d ("netfilter: nf_tables: destroy basechain and rules on netdevice removal")
+df05ef874b28 ("netfilter: nf_tables: release objects on netns destruction")

@@ -1,0 +1,6 @@
+4c006734898a ("x86/xen: fix memblock_reserve() usage on PVH")
+fc05ea89c9ab ("x86/xen: move xen_reserve_extra_memory()")
+38620fc4e893 ("x86/xen: attempt to inflate the memory balloon on PVH")
+aadbd07ff8a7 ("x86/PVH: avoid 32-bit build warning when obtaining VGA console info")
+934ef33ee75c ("x86/PVH: obtain VGA console info in Dom0")
+262fc47ac174 ("xen/balloon: don't use PV mode extra memory for zone device allocations")

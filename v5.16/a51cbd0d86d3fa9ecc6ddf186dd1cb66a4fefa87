@@ -1,0 +1,6 @@
+a51cbd0d86d3 ("x86/mce: Use severity table to handle uncorrected errors in kernel")
+7f1b8e0d6360 ("x86/mce: Remove the tolerance level control")
+edb3d07e2403 ("x86/mce: Mark mce_timed_out() noinstr")
+0a5b288e85bb ("x86/mce: Prevent severity computation from being instrumented")
+cd5e0d1fc93a ("x86/mce: Do not use memset to clear the banks bitmaps")
+2322b532ad90 ("x86/mce: Get rid of cpu_missing")

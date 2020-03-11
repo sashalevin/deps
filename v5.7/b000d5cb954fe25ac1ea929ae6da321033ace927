@@ -1,0 +1,5 @@
+b000d5cb954f ("ima: defer arch_ima_get_secureboot() call to IMA init time")
+e4d7e2df3a09 ("ima: limit secure boot feedback scope for appraise")
+7fe2bb7e7e5c ("integrity: invalid kernel parameters feedback")
+4afb28ab03d5 ("ima: add check for enforced appraise option")
+311aa6aafea4 ("ima: move APPRAISE_BOOTPARAM dependency on ARCH_POLICY to runtime")

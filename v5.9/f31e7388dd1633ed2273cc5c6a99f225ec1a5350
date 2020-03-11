@@ -1,0 +1,8 @@
+f31e7388dd16 ("Input: omap4-keyad - use pm_ptr() and RUNTIME_DEV_PM_OPS()")
+2f6aa61d87e7 ("Input: omap4-keypad - implement errata check for lost key-up events")
+29bf35e5ee80 ("Input: omap4-keypad - use PM runtime autosuspend")
+98b0c88d4bfb ("Input: omap4-keypad - move rest of key scanning to a separate function")
+905dbf1d39d7 ("Input: omap4-keypad - scan keys in two phases and simplify with bitmask")
+60dc45119465 ("Input: omap4-keypad - switch to use managed resources")
+c1b46cd4df97 ("Input: omap4-keypad - set up interrupt as wakeup source")
+59bbf83835f5 ("Input: omap4-keypad - fix runtime PM error handling")

@@ -1,0 +1,8 @@
+7facdc426f86 ("[amd64] clean PRSTATUS_SIZE/SET_PR_FPVALID up properly")
+f2485a2dc9f0 ("elf_prstatus: collect the common part (everything before pr_reg) into a struct")
+8a00dd0012f3 ("binfmt_elf: partially sanitize PRSTATUS_SIZE and SET_PR_FPVALID")
+5d6ad668f316 ("arch, mm: restore dependency of __kernel_map_pages() on DEBUG_PAGEALLOC")
+2abf962a8d42 ("PM: hibernate: make direct map manipulations more explicit")
+77bc7fd607de ("mm: introduce debug_pagealloc_{map,unmap}_pages() helpers")
+4f5b0c178996 ("arm, arm64: move free_unused_memmap() to generic mm")
+5e545df3292f ("arm: remove CONFIG_ARCH_HAS_HOLES_MEMORYMODEL")

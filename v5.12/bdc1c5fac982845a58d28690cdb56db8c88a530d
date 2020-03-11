@@ -1,0 +1,5 @@
+bdc1c5fac982 ("binder: fix UAF caused by faulty buffer cleanup")
+9864bb480133 ("Binder: add TF_UPDATE_TXN to replace outdated txn")
+32e9f56a96d8 ("binder: don't detect sender/target during buffer cleanup")
+5fdb55c1ac95 ("binder: make sure fd closes complete")
+432ff1e91694 ("binder: BINDER_FREEZE ioctl")

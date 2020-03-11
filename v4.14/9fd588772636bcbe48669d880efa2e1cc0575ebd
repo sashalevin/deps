@@ -1,0 +1,6 @@
+9fd588772636 ("KVM: nVMX: reorganize initial steps of vmx_set_nested_state")
+6ca00dfafda7 ("KVM: x86: Modify struct kvm_nested_state to have explicit fields for data")
+3b339e2527a6 ("kvm: selftests: avoid type punning")
+21be4ca1ea68 ("KVM: nVMX: Clear nested_run_pending if setting nested state fails")
+db80927ea197 ("KVM: nVMX: really fix the size checks on KVM_SET_NESTED_STATE")
+0ef0fd351550 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

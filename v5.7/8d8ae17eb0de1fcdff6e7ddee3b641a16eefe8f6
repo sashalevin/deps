@@ -1,0 +1,5 @@
+8d8ae17eb0de ("parport: Use kasprintf() instead of fixed buffer formatting")
+37e9981e33e4 ("parport: plug a sysctl register leak")
+4199a64a1c13 ("parport: Remove register_sysctl_table from parport_device_proc_register")
+93810936a6bf ("parport: Remove register_sysctl_table from parport_proc_register")
+7c0bf4dad6bf ("parport: Move magic number "15" to a define")

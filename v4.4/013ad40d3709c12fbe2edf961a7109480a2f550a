@@ -1,0 +1,8 @@
+013ad40d3709 ("net: ethernet: marvell: mvneta: use new api ethtool_{get|set}_link_ksettings")
+c6c022e3602a ("net: ethernet: marvell: mvneta: use phydev from struct net_device")
+6b125d63b7f6 ("net: mvneta: Use on_each_cpu when possible")
+9a401dead08c ("net: mvneta: Add naive RSS support")
+2dcf75e2793c ("net: mvneta: Associate RX queues with each CPU")
+90b74c013d1b ("net: mvneta: Make the default queue related for each port")
+0c0744fc1dd5 ("mvneta: implement ethtool autonegotiation control")
+aa5bc7a28d0c ("mvneta: consolidate autoneg enabling")

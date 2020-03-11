@@ -1,0 +1,7 @@
+3ec1b26c04d4 ("xfs: use a xfs_btree_cur for the ->finish_cleanup state")
+f09d167c2033 ("xfs: turn dfp_done into a xfs_log_item")
+bb47d79750f1 ("xfs: refactor xfs_defer_finish_noroll")
+13a833333907 ("xfs: turn dfp_intent into a xfs_log_item")
+d367a868e46b ("xfs: merge the ->diff_items defer op into ->create_intent")
+c1f09188e8de ("xfs: merge the ->log_item defer op into ->create_intent")
+e046e949486e ("xfs: factor out a xfs_defer_create_intent helper")

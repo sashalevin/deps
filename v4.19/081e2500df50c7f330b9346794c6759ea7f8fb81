@@ -1,0 +1,8 @@
+081e2500df50 ("rtc: snvs: Remove NULL pointer check before clk_*")
+4b957bde561f ("rtc: snvs: Add necessary clock operations for RTC APIs")
+20af67700bc3 ("rtc: snvs: Make SNVS clock always prepared")
+7863bd076b99 ("rtc: snvs: Use devm_add_action_or_reset() for calls to clk_disable_unprepare()")
+c59a9fc7272e ("rtc: snvs: switch to rtc_time64_to_tm/rtc_tm_to_time64")
+79610340cac8 ("rtc: snvs: set range")
+6fd4fe9b496d ("rtc: snvs: fix possible race condition")
+edb190cb1734 ("rtc: snvs: make sure clock is enabled for interrupt handle")

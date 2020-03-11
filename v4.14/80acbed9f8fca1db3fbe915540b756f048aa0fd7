@@ -1,0 +1,6 @@
+80acbed9f8fc ("net: stmmac: don't set own bit too early for jumbo frames")
+42de047d60bc ("net: stmmac: Switch stmmac_desc_ops to generic HW Interface Helpers")
+95eb930a40a0 ("net: stmmac: use correct barrier between coherent memory and MMIO")
+15d2ee42a308 ("net: stmmac: ensure that the MSS desc is the last desc to set the own bit")
+8d212a9ea65a ("net: stmmac: set MSS for each tx DMA channel")
+a17624569938 ("net: stmmac: Fix bad RX timestamp extraction")

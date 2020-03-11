@@ -1,0 +1,6 @@
+e98e49b2bbf7 ("io_uring: extend task put optimisations")
+e9dbe221f5d1 ("io_uring: optimise putting task struct")
+6a290a1442b4 ("io_uring: move io_put_task() definition")
+78cc687be9c5 ("io_uring: unify SQPOLL and user task cancellations")
+09899b19155a ("io_uring: cache task struct refs")
+3dd0c97a9e01 ("io_uring: get rid of files in exit cancel")

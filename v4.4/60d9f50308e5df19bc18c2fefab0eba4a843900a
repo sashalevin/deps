@@ -1,0 +1,6 @@
+60d9f50308e5 ("Btrfs: fix fsync not persisting changed attributes of a directory")
+aefa6115c04e ("btrfs: Make check_parent_dirs_for_sync take btrfs_inode")
+4176bdbf2d1a ("btrfs: Make btrfs_record_unlink_dir take btrfs_inode")
+ab1717b2abf7 ("btrfs: Make btrfs_must_commit_transaction take btrfs_inode")
+44f714dae50a ("Btrfs: improve performance on fsync against new inode after rename/unlink")
+559b6d90a0be ("Merge branch 'for-linus-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/mason/linux-btrfs")

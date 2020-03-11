@@ -1,0 +1,5 @@
+9f9b02e5b346 ("mm: teach pfn_to_online_page() to consider subsection validity")
+9f605f260594 ("mm: move pfn_to_online_page() out of line")
+b13bc35193d9 ("mm/hotplug: invalid PFNs from pfn_to_online_page()")
+2d070eab2e82 ("mm: consider zone which is not fully populated to have holes")
+c4e1be9ec113 ("mm, sparsemem: break out of loops early")

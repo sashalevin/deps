@@ -1,0 +1,6 @@
+cd078bf95df2 ("drm/i915/execlists: Use rmb() to order CSB reads")
+767a983ab255 ("drm/i915/execlists: Read the context-status HEAD from the HWSP")
+6d2cb5aa383b ("drm/i915/execlists: Read the context-status buffer from the HWSP")
+486e93f72abd ("drm/i915/lrc: allocate separate page for HWSP")
+90cad095eeaa ("drm/i915: Disable MI_STORE_DATA_IMM for i915g/i915gm")
+3dbf26ed7b9b ("drm/i915: Don't use GPU relocations prior to cmdparser stalls")

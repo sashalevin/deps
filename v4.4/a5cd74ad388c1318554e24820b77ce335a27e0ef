@@ -1,0 +1,8 @@
+a5cd74ad388c ("ceph: fix -EOLDSNAPC handling")
+26544c623e74 ("ceph: when seeing write errors on an inode, switch to sync writes")
+70220ac8c220 ("ceph: introduce an inode flag to indicates if snapflush is needed")
+13c2b57d81ec ("ceph: avoid sending duplicated cap flush message")
+0e2943878942 ("ceph: unify cap flush and snapcap flush")
+e4500b5e35c2 ("ceph: use list instead of rbtree to track cap flushes")
+b7ec35b304b6 ("libceph: change ceph_osdmap_flag() to take osdc")
+a10c38a4f385 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/sage/ceph-client")

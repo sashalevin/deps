@@ -1,0 +1,6 @@
+374117ad4736 ("dm mpath: use double checked locking in fast path")
+564dbb130b3f ("dm mpath: rename current_pgpath to pgpath in multipath_prepare_ioctl")
+17213ec18061 ("dm mpath: rework __map_bio()")
+f45f11868e0e ("dm mpath: factor out multipath_queue_bio")
+69cea0d45a61 ("dm mpath: changes from initial m->flags locking audit")
+2361ae595352 ("dm mpath: switch paths in dm_blk_ioctl() code path")

@@ -1,0 +1,6 @@
+107280e1371f ("thermal: sysfs: Refine the handling of trip hysteresis changes")
+a52641bc6293 ("thermal: trip: Use READ_ONCE() for lockless access to trip properties")
+ae2170d6ea96 ("thermal: trip: Trigger trip down notifications when trips involved in mitigation become invalid")
+8c69a777e480 ("thermal: core: Fix the handling of invalid trip points")
+1502718a66c5 ("thermal: trip: Add missing empty code line")
+daeeb032f42d ("thermal: core: Move threshold out of struct thermal_trip")

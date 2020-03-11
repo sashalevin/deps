@@ -1,0 +1,4 @@
+68378982f0b2 ("s390/bpf: Emit a barrier for BPF_FETCH instructions")
+ba3b86b9cef0 ("s390/bpf: Implement new atomic ops")
+91c960b00566 ("bpf: Rename BPF_XADD and prepare to encode other atomics in .imm")
+11c11d0751fc ("bpf: x86: Factor out emission of ModR/M for *(reg + off)")

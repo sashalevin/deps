@@ -1,0 +1,7 @@
+48cc33085253 ("perf annotate: Fix storing per line sym_hist_entry")
+461c17f00f40 ("perf annotate: Store the sample period in each histogram bucket")
+bab89f6aed7e ("perf hists: Pass perf_sample to __symbol__inc_addr_samples()")
+8158683da3d3 ("perf annotate: Rename 'sum' to 'nr_samples' in struct sym_hist")
+896bccd3cb8d ("perf annotate: Introduce struct sym_hist_entry")
+99094a5e941f ("perf annotate: Fix missing number of samples for source_line_samples")
+2e933b1274dc ("perf annotate: Fix a bug of division by zero when calculating percent")

@@ -1,0 +1,5 @@
+c5c8b16b596e ("mm: memcontrol: fix root_mem_cgroup charging")
+f1286fae5406 ("mm: memcontrol: inline __memcg_kmem_{un}charge() into obj_cgroup_{un}charge_pages()")
+e74d225910ec ("mm: memcontrol: introduce obj_cgroup_{un}charge_pages")
+9f38f03ae8d5 ("mm: memcontrol: slab: fix obtain a reference to a freeing memcg")
+c1a660dea3fa ("mm: kmem: make __memcg_kmem_(un)charge static")

@@ -1,0 +1,5 @@
+4b42d557a8ad ("scsi: ufs: core: Fix wrong Task Tag used in task management request UPIUs")
+1235fc569e0b ("scsi: ufs: core: Fix task management request completion timeout")
+69a6c269c097 ("scsi: ufs: Use blk_{get,put}_request() to allocate and free TMFs")
+7252a3603015 ("scsi: ufs: Avoid busy-waiting by eliminating tag conflicts")
+9333d7757348 ("scsi: ufs: Fix irq return code")

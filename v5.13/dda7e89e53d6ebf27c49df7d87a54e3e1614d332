@@ -1,0 +1,5 @@
+dda7e89e53d6 ("xhci: Fix root hub port null pointer dereference in xhci tracepoints")
+06790c19086f ("xhci: replace real & fake port with pointer to root hub port")
+c9a63ec5d259 ("xhci: rework how real & fake ports are found")
+4ce186665e7c ("usb: xhci-mtk: Do not use xhci's virt_dev in drop_endpoint")
+bb8d7ef68e29 ("usb: xhci-mtk: remove unnecessary assignments in periodic TT scheduler")

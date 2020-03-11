@@ -1,0 +1,6 @@
+133d68e0ed4d ("MIPS: Fix cmpxchg on 32b signed ints for 64b kernel with !kernel_uses_llsc")
+8263db4d7768 ("MIPS: cmpxchg: Implement __cmpxchg() as a function")
+d15dc68c1143 ("MIPS: cmpxchg: Error out on unsupported xchg() calls")
+77299db802d4 ("MIPS: cmpxchg: Use __compiletime_error() for bad cmpxchg() pointers")
+5154f3b41949 ("MIPS: cmpxchg: Pull xchg() asm into a macro")
+6b1e76297c4a ("MIPS: cmpxchg: Unify R10000_LLSC_WAR & non-R10000_LLSC_WAR cases")

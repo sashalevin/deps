@@ -1,0 +1,8 @@
+f07b7952df3b ("mmc: sdhci-acpi: Let devices define their own private data")
+cd25c7be3cc6 ("sdhci: acpi: Use new method to get ACPI companion")
+17753d162518 ("mmc: sdhci-acpi: Workaround conflict with PCI wifi on GPD Win handheld")
+e1d070c3793a ("mmc: sdhci-acpi: Only powered up enabled acpi child devices")
+e5bbf30733f9 ("mmc: sdhci-acpi: Ensure connected devices are powered when probing")
+6e1c7d6103fe ("mmc: sdhci-acpi: Reduce Baytrail eMMC/SD/SDIO hangs")
+741b48f4f397 ("mmc: sdhci-acpi: Remove enable_dma() hook")
+6a645dd87a5a ("mmc: sdhci-acpi: Fix card detect race for Intel BXT/APL")

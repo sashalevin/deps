@@ -1,0 +1,7 @@
+24d7c494ce46 ("efi/arm-stub: Round up FDT allocation to mapping size")
+abfb7b686a3e ("efi/libstub/arm*: Pass latest memory map to the kernel")
+39bc88e5e38e ("arm64: Disable TTBR0_EL1 during normal kernel execution")
+87261d19046a ("arm64: Cortex-A53 errata workaround: check for kernel addresses")
+ed9cc156c42f ("efi/libstub: Use efi_exit_boot_services() in FDT")
+dadb57abc374 ("efi/libstub: Allocate headspace in efi_get_memory_map()")
+e831101a73fb ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

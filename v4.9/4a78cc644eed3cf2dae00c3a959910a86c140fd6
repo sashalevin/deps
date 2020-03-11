@@ -1,0 +1,4 @@
+4a78cc644eed ("mtd: nand: Make sure drivers not supporting SET/GET_FEATURES return -ENOTSUPP")
+cc0f51ec1112 ("mtd: nand: export nand_{read,write}_page_raw()")
+1394a7265f88 ("mtd: nand: denali: use nand_chip to hold frequently accessed data")
+01a1d524eb68 ("mtd: nand: denali: remove unneeded parentheses")

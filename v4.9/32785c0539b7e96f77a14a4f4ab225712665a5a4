@@ -1,0 +1,4 @@
+32785c0539b7 ("fs/dcache.c: add cond_resched() in shrink_dentry_list()")
+3b3f09f48ba7 ("get rid of trylock loop in locking dentries on shrink list")
+b17c070fb624 ("fs/dcache.c: fix spin lockup issue on nlru->lock")
+81be24d263db ("Hang/soft lockup in d_invalidate with simultaneous calls")

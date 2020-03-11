@@ -1,0 +1,5 @@
+4968f6721332 ("leds: lp55xx: Use devm_clk_get_enabled() helpers")
+db30c2891bfc ("leds: leds-lp55xx: Generalize probe/remove functions")
+a9b202b9cf0e ("leds: leds-lp55xx: Generalize stop_all_engine OP")
+c0e3d2beeb03 ("leds: Drop explicit initialization of struct i2c_device_id::driver_data to 0")
+d9ff8a8eecf8 ("leds: Switch i2c drivers back to use .probe()")

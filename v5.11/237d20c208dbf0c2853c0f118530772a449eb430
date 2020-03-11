@@ -1,0 +1,5 @@
+237d20c208db ("net:enetc: enetc qos using the CBDR dma alloc function")
+b3a723dbc94a ("net:enetc: allocate CBD ring data memory using DMA coherent methods")
+cd4bc63de774 ("net: enetc: unmap DMA in enetc_send_cmd()")
+37d4b3fdc55d ("net: enetc: catch negative return code from enetc_pf_to_port()")
+87614b931c24 ("net: enetc: create a common enetc_pf_to_port helper")

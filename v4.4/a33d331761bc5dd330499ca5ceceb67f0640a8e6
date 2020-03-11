@@ -1,0 +1,7 @@
+a33d331761bc ("x86/CPU/AMD: Fix Bulldozer topology")
+b6a50cddbcbd ("x86/cpu/AMD: Clean up cpu_llc_id assignment per topology feature")
+b0b6e8684609 ("x86/cpu/AMD: Fix cpu_llc_id for AMD Fam17h systems")
+8196dab4fc15 ("x86/cpu: Get rid of compute_unit_id")
+ee6825c80e87 ("x86/topology: Fix AMD core count")
+8dfeae0d73bf ("perf/x86/amd: Move nodes_per_socket into bsp_init_amd()")
+362f924b64ba ("x86/cpufeature: Remove unused and seldomly used cpu_has_xx macros")

@@ -1,0 +1,7 @@
+5dbda02d322d ("tls: rx: don't issue wake ups when data is decrypted")
+7dc59c33d62c ("tls: rx: don't store the decryption status in socket context")
+c3f6bb74137c ("tls: rx: don't store the record type in socket context")
+520493f66f68 ("tls: splice_read: fix record type check")
+b2c4618162ec ("bpf, sockmap: sk_skb data_end access incorrect when src_reg = dst_reg")
+e0dc3b93bd7b ("bpf: sockmap, strparser, and tls are reusing qdisc_skb_cb and colliding")
+da353fac65fe ("net/tls: Fix flipped sign in tls_err_abort() calls")

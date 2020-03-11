@@ -1,0 +1,7 @@
+2b058acecf56 ("cifs: return the more nuanced writeback error on close()")
+f2bf09e97b47 ("cifs: Add tracepoints for errors on flush or fsync")
+0ae3fa4dc1fc ("cifs: remove superfluous inode_lock in cifs_{strict_}fsync")
+d683bcd3e5d1 ("smb3: add additional ftrace entry points for entry/exit to cifs.ko")
+eccb4422cf97 ("smb3: Add ftrace tracepoints for improved SMB3 debugging")
+db223a590d45 ("CIFS: SMBD: Upper layer performs SMB write via RDMA read through memory registration")
+a821df3f1af7 ("cifs: fix NULL deref in SMB2_read")

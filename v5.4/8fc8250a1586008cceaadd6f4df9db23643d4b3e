@@ -1,0 +1,8 @@
+8fc8250a1586 ("spi: pxa2xx: Consistently use dev variable in pxa2xx_spi_init_pdata()")
+2990f3a87e94 ("spi: pxa2xx: Refactor _UID handling to use acpi_dev_uid_to_integer()")
+5eb263ef08b5 ("spi: pxa2xx: Add missed security checks")
+6fb7427d84f6 ("spi: pxa2xx: Introduce temporary variables to increase readability")
+f2faa3ec79ac ("spi: pxa2xx: Convert to use device_get_match_data()")
+365e856e18b8 ("spi: pxa2xx: Convert pxa2xx_spi_get_port_id() to take struct device")
+5ce2570513bc ("spi: pxa2xx: Sort headers")
+4f3d957718e7 ("spi: pxa2xx: No need to keep pointer to platform device")

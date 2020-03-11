@@ -1,0 +1,8 @@
+7645829145a9 ("KVM: x86/mmu: Add KVM_RMAP_MANY to replace open coded '1' and '1ul' literals")
+52e322eda3d4 ("KVM: x86/mmu: BUG() in rmap helpers iff CONFIG_BUG_ON_DATA_CORRUPTION=y")
+350c49fdea22 ("KVM: x86/mmu: Delete rmap_printk() and all its usage")
+a98b889492a6 ("KVM: x86/mmu: Delete pgprintk() and all its usage")
+141705b78381 ("KVM: x86/mmu: Track tail count in pte_list_desc to optimize guest fork()")
+2ff9039a75a8 ("KVM: x86/mmu: Decouple rmap_add() and link_shadow_page() from kvm_vcpu")
+6ec6509eea39 ("KVM: x86/mmu: Pass const memslot to rmap_add()")
+024c3c3304ca ("KVM: X86/MMU: Remove useless mmu_topup_memory_caches() in kvm_mmu_pte_write()")

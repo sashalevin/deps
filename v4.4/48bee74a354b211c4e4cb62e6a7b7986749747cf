@@ -1,0 +1,8 @@
+48bee74a354b ("firmware: arm_scpi: remove all single element structures")
+5c7ae6467df5 ("firmware: arm_scpi: improve struct sensor_value")
+a766347b15c0 ("firmware: arm_scpi: fix reading sensor values on pre-1.0 SCPI firmwares")
+761d0efee839 ("firmware: arm_scpi: add command indirection to support legacy commands")
+37a441dcd5f4 ("firmware: arm_scpi: add support for device power state management")
+f9d91de0ad8c ("firmware: arm_scpi: remove dvfs_get packed structure")
+2e8741599cf1 ("firmware: arm_scpi: add support for 64-bit sensor values")
+dd9a1d69ba90 ("firmware: arm_scpi: fix send_message and sensor_get_value for big-endian")

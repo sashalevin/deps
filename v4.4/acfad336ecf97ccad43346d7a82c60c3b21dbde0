@@ -1,0 +1,8 @@
+acfad336ecf9 ("KVM: x86: Drop redundant boot cpu checks on SSBD feature bits")
+8715f05269bf ("kvm: x86: Host feature SSBD doesn't imply guest feature AMD_SSBD")
+396d2e878f92 ("kvm: x86: Host feature SSBD doesn't imply guest feature SPEC_CTRL_SSBD")
+0c54914d0c52 ("KVM: x86: use Intel speculation bugs and features as derived in generic x86 code")
+4c6903a0f9d7 ("KVM: x86: fix reporting of AMD speculation bug CPUID leaf")
+54d360d41211 ("KVM: cpuid: extract do_cpuid_7_mask and support multiple subleafs")
+ab8bcf649711 ("KVM: cpuid: do_cpuid_ent works on a whole CPUID function")
+fa4bff165070 ("Merge branch 'x86-mds-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

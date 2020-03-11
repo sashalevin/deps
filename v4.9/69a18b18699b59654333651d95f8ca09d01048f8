@@ -1,0 +1,3 @@
+69a18b18699b ("PCI: Restrict probe functions to housekeeping CPUs")
+0b2c2a71e6f0 ("PCI: Replace the racy recursion prevention")
+1ddd45f8d76f ("PCI: Use cpu_hotplug_disable() instead of get_online_cpus()")

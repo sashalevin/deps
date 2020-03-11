@@ -1,0 +1,8 @@
+5d9fb6667642 ("perf evsel: Compute is_hybrid from PMU being core")
+7abf0bccaaec ("perf evsel: Add function to compute group PMU name")
+d50a79cd0f39 ("perf pmu: Use perf_pmu__open_file() and perf_pmu__scan_file()")
+f8ad6018ce3c ("perf pmu: Remove duplication around EVENT_SOURCE_DEVICE_PATH")
+acef233b7ca7 ("perf pmu: Add #slots literal support for arm64")
+bd560973c5d3 ("perf expr: Tidy hashmap dependency")
+e5f4afbe395f ("perf pmu: Remove mostly unused 'struct perf_pmu' 'is_hybrid' member")
+942c5593393d ("perf stat: Add perf_stat_merge_counters()")

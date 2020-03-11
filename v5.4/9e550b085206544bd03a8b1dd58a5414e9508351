@@ -1,0 +1,7 @@
+9e550b085206 ("TCON Reconnect during STATUS_NETWORK_NAME_DELETED")
+1254100030b3 ("smb3: Handle error case during offload read path")
+de9ac0a6e9ef ("smb3: Call cifs reconnect from demultiplex thread")
+8e670f77c4a5 ("Handle STATUS_IO_TIMEOUT gracefully")
+dc920277f1e5 ("cifs: clear PF_MEMALLOC before exiting demultiplex thread")
+e2e87519bd72 ("cifs: call wake_up(&server->response_q) inside of cifs_reconnect()")
+8354d88efdab ("cifs: Fix use-after-free bug in cifs_reconnect()")

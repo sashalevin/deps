@@ -1,0 +1,7 @@
+158c998ea44b ("ACPI / CPPC: add sysfs support to compute delivered performance")
+80b8286aeec0 ("ACPI / CPPC: support for batching CPPC requests")
+850d64a4a63e ("ACPI / CPPC: acquire pcc_lock only while accessing PCC subspace")
+5bbb86aa4b8d ("ACPI / CPPC: restructure read/writes for efficient sys mapped reg ops")
+f387e5b901ad ("ACPI / CPPC: use MRTT/MPAR to decide if/when a req can be sent")
+77e3d86f2f8c ("ACPI / CPPC: optimized cpc_read and cpc_write")
+ad62e1e67751 ("ACPI / CPPC: Optimize PCC Read Write operations")

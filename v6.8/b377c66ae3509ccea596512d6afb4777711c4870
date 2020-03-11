@@ -1,0 +1,5 @@
+b377c66ae350 ("x86/retpoline: Add NOENDBR annotation to the SRSO dummy return thunk")
+0e110732473e ("x86/retpoline: Do the necessary fixup to the Zen3/4 srso return thunk for !SRSO")
+4535e1a4174c ("x86/bugs: Fix the SRSO mitigation on Zen3/4")
+a033eec9a06c ("x86/bugs: Rename CONFIG_CPU_SRSO             => CONFIG_MITIGATION_SRSO")
+ac61d43983a4 ("x86/bugs: Rename CONFIG_CPU_UNRET_ENTRY      => CONFIG_MITIGATION_UNRET_ENTRY")

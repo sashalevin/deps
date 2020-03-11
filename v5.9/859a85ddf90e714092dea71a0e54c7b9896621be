@@ -1,0 +1,6 @@
+859a85ddf90e ("mm: remove pfn_valid_within() and CONFIG_HOLES_IN_ZONE")
+39ddb991fc45 ("mm, page_alloc: avoid page_to_pfn() in move_freepages()")
+5e545df3292f ("arm: remove CONFIG_ARCH_HAS_HOLES_MEMORYMODEL")
+03e92a5e097d ("ia64: remove custom __early_pfn_to_nid()")
+1f0f8c0de090 ("include/linux/mmzone.h: remove unused early_pfn_valid()")
+6a654e36fa51 ("mm, isolation: avoid checking unmovable pages across pageblock boundary")

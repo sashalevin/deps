@@ -1,0 +1,4 @@
+fb366fc7541a ("netfilter: conntrack: correct window scaling with retransmitted SYN")
+c7aab4f17021 ("netfilter: nf_conntrack_tcp: re-init for syn packets only")
+82b72cb94666 ("netfilter: conntrack: re-init state for retransmitted syn-ack")
+cc4f9d62037e ("netfilter: conntrack: move synack init code to helper")

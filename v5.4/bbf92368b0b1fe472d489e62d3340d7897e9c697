@@ -1,0 +1,7 @@
+bbf92368b0b1 ("x86/text-patching: Make text_gen_insn() play nice with ANNOTATE_NOENDBR")
+67c1d4a28064 ("x86/ftrace: Use text_gen_insn()")
+254d2c04515e ("x86/alternative: Add text_opcode_size()")
+768ae4406a5c ("x86/ftrace: Use text_poke()")
+63f62addb88e ("x86/alternatives: Add and use text_gen_insn() helper")
+18cbc8bed0c7 ("x86/alternatives, jump_label: Provide better text_poke() batching interface")
+c3d6324f841b ("x86/alternatives: Teach text_poke_bp() to emulate instructions")

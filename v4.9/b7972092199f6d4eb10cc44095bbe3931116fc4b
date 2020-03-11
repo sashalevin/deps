@@ -1,0 +1,8 @@
+b7972092199f ("cifs: smbd: Retry on memory registration failure")
+bd3dcc6a22a9 ("CIFS: SMBD: Upper layer performs SMB read via RDMA write through memory registration")
+db223a590d45 ("CIFS: SMBD: Upper layer performs SMB write via RDMA read through memory registration")
+d70b9104b1ca ("CIFS: Add copy into pages callback for a read operation")
+738f9de5cdb9 ("CIFS: Send RFC1001 length in a separate iov")
+fb2036d81758 ("CIFS: Make send_cancel take rqst as argument")
+da502f7df03d ("CIFS: Make SendReceive2() takes resp iov")
+31473fc4f965 ("CIFS: Separate SMB2 header structure")

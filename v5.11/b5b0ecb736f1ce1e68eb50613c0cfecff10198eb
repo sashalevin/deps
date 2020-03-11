@@ -1,0 +1,6 @@
+b5b0ecb736f1 ("io_uring: clear IOCB_WAITQ for non -EIOCBQUEUED return")
+b23df91bff95 ("io_uring: highlight read-retry loop")
+5ea5dd45844d ("io_uring: inline io_read()'s iovec freeing")
+7335e3bf9d0a ("io_uring: don't forget to adjust io_size")
+1a2cc0ce8d18 ("io_uring: further simplify do_read error parsing")
+57cd657b8272 ("io_uring: simplify do_read return parsing")

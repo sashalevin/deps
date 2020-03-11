@@ -1,0 +1,6 @@
+c3c7d70b2046 ("drm/v3d: Make use of the helper function devm_platform_ioremap_resource_byname()")
+0df3ac7657c9 ("drm/v3d: Delete v3d_dev->pdev")
+bc662528e29a ("drm/v3d: Delete v3d_dev->dev")
+235b7e7d7eee ("drm/v3d: Use devm_drm_dev_alloc")
+af25c16bd1c6 ("drm/v3d: Don't set drm_device->dev_private")
+ea3aa6203c6b ("drm/v3d: Use drmm_add_final_kfree")

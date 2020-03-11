@@ -1,0 +1,6 @@
+4841e0dd4f53 ("KVM: MIPS: Update vcpu->mode and vcpu->cpu")
+a2c046e40ff1 ("KVM: MIPS: Add vcpu_run() & vcpu_reenter() callbacks")
+c550d53934d8 ("KVM: MIPS: Remove duplicated ASIDs from vcpu")
+1581ff3dbf69 ("KVM: MIPS/MMU: Move preempt/ASID handling to implementation")
+a60b8438bdba ("KVM: MIPS: Convert get/set_regs -> vcpu_load/put")
+1534b3964901 ("KVM: MIPS/MMU: Simplify ASID restoration")

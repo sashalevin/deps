@@ -1,0 +1,7 @@
+0296bea01cfa ("scsi: sd: Unregister device if device_add_disk() failed in sd_probe()")
+7274ce0558ad ("scsi: sd: Don't call blk_cleanup_disk() in sd_probe()")
+03252259e18e ("scsi: sd: Clean up gendisk if device_add_disk() failed")
+fad45c3007a1 ("sd: rename the scsi_disk.dev field")
+2a7a891f4c40 ("scsi: sd: Add error handling support for add_disk()")
+a19a93e4c6a9 ("scsi: core: pm: Rely on the device driver core for async power management")
+265dfe8ebbab ("scsi: sd: Free scsi_disk device via put_device()")

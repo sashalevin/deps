@@ -1,0 +1,8 @@
+925a0eb48044 ("arm64: mm: Add LPA2 support to phys<->pte conversion routines")
+a4ee28615c7a ("arm64/mm: Simplify and document pte_to_phys() for 52 bit addresses")
+c7eff738cf45 ("arm64: kpti-ng: simplify page table traversal logic")
+c7c386fbc202 ("arm64: pgtable: make __pte_to_phys/__phys_to_pte_val inline functions")
+3e32131abc31 ("arm64: Add workaround for Fujitsu A64FX erratum 010001")
+21696c161324 ("kasan, arm64: enable top byte ignore for the kernel")
+67e7fdfcc682 ("arm64: mm: introduce 52-bit userspace support")
+363524d2b122 ("arm64: mm: Introduce DEFAULT_MAP_WINDOW")

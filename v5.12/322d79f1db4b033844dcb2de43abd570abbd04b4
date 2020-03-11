@@ -1,0 +1,4 @@
+322d79f1db4b ("KVM: x86: Clean up directed yield API for "has pending interrupt"")
+ae801e1303e9 ("KVM: x86: Check for in-kernel xAPIC when querying APICv for directed yield")
+10dbdf98acd6 ("KVM: x86: Take advantage of kvm_arch_dy_has_pending_interrupt()")
+52acd22faa1a ("KVM: Boost vCPU candidate in user mode which is delivering interrupt")

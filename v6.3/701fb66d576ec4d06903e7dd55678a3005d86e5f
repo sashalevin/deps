@@ -1,0 +1,4 @@
+701fb66d576e ("x86/cpufeatures: Add CPU feature flags for shadow stacks")
+e0bddc19ba95 ("x86/mm: Reduce untagged_addr() overhead for systems without LAM")
+74c228d20a51 ("x86/uaccess: Provide untagged_addr() and remove tags before address check")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")

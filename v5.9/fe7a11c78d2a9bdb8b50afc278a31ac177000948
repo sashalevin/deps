@@ -1,0 +1,4 @@
+fe7a11c78d2a ("sched/core: Fix unbalance set_rq_online/offline() in sched_cpu_deactivate()")
+e22f910a26cc ("sched/smt: Fix unbalance sched_smt_present dec/inc")
+2558aacff858 ("sched/hotplug: Ensure only per-cpu kthreads run during hotplug")
+565790d28b1e ("sched: Fix balance_callback()")

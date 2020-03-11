@@ -1,0 +1,5 @@
+e63d86b8b764 ("smack: Initialize the in-memory inode in smack_inode_init_security()")
+51b15e7990cb ("smack: Always determine inode labels in smack_inode_init_security()")
+baed456a6a2f ("smack: Set the SMACK64TRANSMUTE xattr in smack_inode_init_security()")
+6bcdfd2cac55 ("security: Allow all LSMs to provide xattrs for inode_init_security hook")
+2c085f3a8f23 ("smack: Record transmuting in smk_transmuted")

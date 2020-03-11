@@ -1,0 +1,7 @@
+72c215ed8731 ("md/raid10: fix task hung in raid10d")
+ed2e063f92c4 ("md/raid10: factor out code from wait_barrier() to stop_waiting_barrier()")
+c9aa889b035f ("md: raid10 add nowait support")
+a92ce0feffee ("md: drop queue limitation for RAID1 and RAID10")
+254c271da071 ("md/raid10: improve discard request for far layout")
+d30588b2731f ("md/raid10: improve raid10 discard request")
+f2e7e269a752 ("md/raid10: pull the code that wait for blocked dev into one function")

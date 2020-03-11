@@ -1,0 +1,7 @@
+d1ec975f9fa6 ("ice: xsk: clear status_error0 for each allocated desc")
+db804cfc21e9 ("ice: Use the xsk batched rx allocation interface")
+57f7f8b6bc0b ("ice: Use xdp_buf instead of rx_buf for xsk zero-copy")
+ed0907e3bdcf ("ice: fix napi work done reporting in xsk path")
+29b82f2a09d5 ("ice: move skb pointer from rx_buf to rx_ring")
+be9df4aff65f ("net, xdp: Introduce xdp_prepare_buff utility routine")
+43b5169d8355 ("net, xdp: Introduce xdp_init_buff utility routine")

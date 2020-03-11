@@ -1,0 +1,4 @@
+b7fa9ce86d32 ("powerpc: Remove direct call to mmap2 syscall handlers")
+016ff72bd209 ("powerpc: Fix fallocate and fadvise64_64 compat parameter combination")
+cc47ad409ba9 ("powerpc/compat_sys: Declare syscalls")
+57f48b4b74e7 ("powerpc/compat_sys: swap hi/lo parts of 64-bit syscall args in LE mode")

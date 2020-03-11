@@ -1,0 +1,6 @@
+ad681adf1dfe ("perf evsel: Rename perf_evsel__*filter*() to evsel__*filter*()")
+363fb12189d5 ("perf evsel: Add functions to enable/disable for a specific CPU")
+f306de275b7c ("perf auxtrace: Move perf_evsel__find_pmu()")
+90df0249c2ea ("perf trace: Expand strings in filters to integers")
+53c92f73389d ("perf evlist: Introduce append_tp_filter() method")
+05cea4492c9d ("perf evlist: Factor out asprintf routine to build a tracepoint pid filter")

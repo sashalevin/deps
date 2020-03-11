@@ -1,0 +1,5 @@
+46a8973c4d9d ("serial: 8250: Switch UART port flags to using BIT_ULL")
+9906890c89e4 ("serial: 8250: Let drivers request full 16550A feature probing")
+dc56ecb81a0a ("serial: 8250: Support disabling mdelay-filled probes of 16550A variants")
+ea5244e2af3b ("serial: 8250: Add flag so drivers can avoid THRE probe")
+9efeccacd3a4 ("linux: drop __bitwise__ everywhere")

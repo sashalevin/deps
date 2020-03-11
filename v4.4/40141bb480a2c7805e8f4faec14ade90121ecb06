@@ -1,0 +1,5 @@
+40141bb480a2 ("net: ethernet: ti: davinci_cpdma: make function cpdma_desc_pool_create static")
+5fcc40a90064 ("net: ethernet: ti: cpdma: minimize number of parameters in cpdma_desc_pool_create/destroy()")
+fccd5badb84d ("net: ethernet: ti: cpdma: fix lockup in cpdma_ctlr_destroy()")
+742fb20fd4c7 ("net: ethernet: ti: cpdma: switch to use genalloc")
+840929966732 ("net: davinci_cpdma: use dma_addr_t for DMA address")

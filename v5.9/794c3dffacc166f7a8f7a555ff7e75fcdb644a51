@@ -1,0 +1,7 @@
+794c3dffacc1 ("ptp: ptp_clockmatrix: Add support for FW 5.2 (8A34005)")
+77fdb168a3e2 ("ptp: ptp_clockmatrix: clean-up - parenthesis around a == b are unnecessary")
+797d3186544f ("ptp: ptp_clockmatrix: Add wait_for_sys_apll_dpll_lock.")
+da9482332d58 ("ptp: clockmatrix: deprecate firmware older than 4.8.7")
+7260d1c8fd86 ("ptp: clockmatrix: Fix non-zero phase_adj is lost after snap")
+fa439059d828 ("ptp: clockmatrix: remove 5 second delay before entering write phase mode")
+251f4fe224d6 ("ptp: clockmatrix: reset device and check BOOT_STATUS")

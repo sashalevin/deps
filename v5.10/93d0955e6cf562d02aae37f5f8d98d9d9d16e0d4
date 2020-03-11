@@ -1,0 +1,6 @@
+93d0955e6cf5 ("locking: Fix comment typos")
+a3f2428d2b9c ("kernel/futex: Move hb unlock out of unqueue_me_pi()")
+34b1a1ce1458 ("futex: Handle faults correctly for PI futexes")
+f2dac39d9398 ("futex: Simplify fixup_pi_state_owner()")
+c5cade200ab9 ("futex: Provide and use pi_state_update_owner()")
+12bb3f7f1b03 ("futex: Ensure the correct return value from futex_lock_pi()")

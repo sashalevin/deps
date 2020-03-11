@@ -1,0 +1,8 @@
+8466a14173e5 ("drm/i915: Replace to_bpp_int() with fxp_q4_to_int()")
+2df50cb46a4c ("drm/i915/dsc/mtl: Add support for fractional bpp")
+59a266f068b4 ("drm/i915/display: Store compressed bpp in U6.4 format")
+99831ab9ce46 ("drm/i915: Query compressed bpp properly using correct DPCD and DP Spec info")
+4e0837a8d00a ("drm/i915/dp_mst: Account for FEC and DSC overhead during BW allocation")
+7ff2090c7c98 ("drm/i915/dp: Pass actual BW overhead to m_n calculation")
+d91680efcaab ("drm/i915/dp_mst: Enable FEC early once it's known DSC is needed")
+7707dd602259 ("drm/dp_mst: Fix fractional DSC bpp handling")

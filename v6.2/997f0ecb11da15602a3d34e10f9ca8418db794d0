@@ -1,0 +1,6 @@
+997f0ecb11da ("mm/memory: change vmf_anon_prepare() to be non-static")
+4ed4379881aa ("mm: handle shared faults under the VMA lock")
+164b06f238b9 ("mm: call wp_page_copy() under the VMA lock")
+61a4b8d32025 ("mm: move FAULT_FLAG_VMA_LOCK check down from do_fault()")
+28d41a486331 ("mm: convert wp_page_copy() to use folios")
+6bc56a4d8553 ("mm: add vma_alloc_zeroed_movable_folio()")

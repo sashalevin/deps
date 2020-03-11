@@ -1,0 +1,5 @@
+90700a4fbfaf ("RISC-V: enable extension detection from dedicated properties")
+4265b0ec5ee7 ("RISC-V: split riscv_fill_hwcap() in 3")
+37f988dcec05 ("RISC-V: repurpose riscv_isa_ext array in riscv_fill_hwcap()")
+8135ade32c0d ("RISC-V: shunt isa_ext_arr to cpufeature.c")
+131033689da2 ("RISC-V: drop a needless check in print_isa_ext()")

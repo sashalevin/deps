@@ -1,0 +1,4 @@
+64ca752dcbc0 ("printk: use console_trylock() in console_cpu_notify()")
+f97960fbddd9 ("kernel/printk: Block cpuhotplug callback when tasks are frozen")
+90b14889d2f9 ("kernel/printk: Convert to hotplug state machine")
+fc4d24c9b471 ("fs/buffer: Convert to hotplug state machine")

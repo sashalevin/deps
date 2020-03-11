@@ -1,0 +1,8 @@
+dd76ff5af353 ("powerpc/64s/radix: Fix radix__flush_tlb_collapsed_pmd double flushing pmd")
+0cef77c7798a ("powerpc/64s/radix: flush remote CPUs out of single-threaded mm_cpumask")
+85bcfaf69cbd ("powerpc/64s/radix: optimise pte_update")
+80a4ae202f2d ("powerpc/mm: Workaround Nest MMU bug with TLB invalidations")
+3ccfebedd8cf ("powerpc, membarrier: Skip memory barrier in switch_mm()")
+31cb1bc0dc94 ("sched/core: Rework and clarify prepare_lock_switch()")
+d1b069f5febc ("EXPERT Kconfig menu: fix broken EXPERT menu")
+5b0e2cb02008 ("Merge tag 'powerpc-4.15-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

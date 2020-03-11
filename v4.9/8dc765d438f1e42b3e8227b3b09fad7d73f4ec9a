@@ -1,0 +1,4 @@
+8dc765d438f1 ("SCSI: fix queue cleanup race before queue initialization is done")
+1311326cf475 ("blk-mq: avoid to synchronize rcu inside blk_cleanup_queue()")
+c2856ae2f315 ("blk-mq: quiesce queue before freeing queue")
+36e3cf273977 ("scsi: Avoid that SCSI queues get stuck")

@@ -1,0 +1,6 @@
+e7bfb3fdbde3 ("mtd: Stop updating erase_info->state and calling mtd_erase_callback()")
+8f347c4232d5 ("mtd: Unconditionally update ->fail_addr and ->addr in part_erase()")
+884cfd9023ce ("mtd: Stop assuming mtd_erase() is asynchronous")
+dcba51bbb9e0 ("mtd: Get rid of unused fields in struct erase_info")
+c585da9f5f61 ("mtd: Initialize ->fail_addr early in mtd_erase()")
+e6e620f0e15e ("mtd: Make sure the device supports erase operations in mtd_erase()")

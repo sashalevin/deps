@@ -1,0 +1,6 @@
+32654bbd6313 ("xsk: Try to make xdp_umem_reg extension a bit more future-proof")
+341ac980eab9 ("xsk: Support tx_metadata_len")
+07428da9e25a ("xsk: discard zero length descriptors in Tx path")
+1ba83f505c53 ("xsk: Elide base_addr comparison in xp_unaligned_validate_desc")
+0c5f48599bed ("xsk: Simplify xp_aligned_validate_desc implementation")
+d769ccaf957f ("xsk: Fix unaligned descriptor validation")

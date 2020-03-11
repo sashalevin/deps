@@ -1,0 +1,6 @@
+cd46140a9a2f ("atari_scsi, sun3_scsi: Remove global Scsi_Host pointer")
+9c3f0e2b52ad ("atari_NCR5380: Remove RESET_BOOT, CONFIG_ATARI_SCSI_TOSHIBA_DELAY and CONFIG_ATARI_SCSI_RESET_BOOT")
+636b1ec8575a ("atari_NCR5380: Reset bus on driver initialization if required")
+b6488f97d3b5 ("ncr5380: Split NCR5380_init() into two functions")
+54d8fe4425c9 ("ncr5380: Remove NCR5380_local_declare and NCR5380_setup macros")
+d5f7e65df0d4 ("ncr5380: Remove redundant static variable initializers")

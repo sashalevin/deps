@@ -1,0 +1,7 @@
+9cd6b593cfc9 ("fs-verity: remove unnecessary extern keywords")
+4dd893d832cf ("fs-verity: implement FS_IOC_MEASURE_VERITY ioctl")
+3fda4c617e84 ("fs-verity: implement FS_IOC_ENABLE_VERITY ioctl")
+8a1d0f9cacc9 ("fs-verity: add data verification hooks for ->readpages()")
+c1d9b584e2cf ("fs-verity: add the hook for file ->setattr()")
+fd2d1acfcadf ("fs-verity: add the hook for file ->open()")
+671e67b47e9f ("fs-verity: add Kconfig and the helper functions for hashing")

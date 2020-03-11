@@ -1,0 +1,6 @@
+63642d5c141f ("crypto: lib/sha256 - Unroll SHA256 loop 8 times intead of 64")
+b8399819b2dd ("crypto: lib/sha256 - Clear W[] in sha256_update() instead of sha256_transform()")
+7a4295f6c9d5 ("crypto: lib/sha256 - Don't clear temporary variables")
+906a4bb97f5d ("crypto: sha256 - Use get/put_unaligned_be32 to get input, memzero_explicit")
+ad767ee858b3 ("crypto: sha256 - Move lib/sha256.c to lib/crypto")
+aca1111965d7 ("crypto: sha256 - Fix some coding style issues")

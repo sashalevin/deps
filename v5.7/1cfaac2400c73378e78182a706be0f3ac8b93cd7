@@ -1,0 +1,4 @@
+1cfaac2400c7 ("x86/kasan: Populate shadow for shared chunk of the CPU entry area")
+bde258d97409 ("x86/kasan: Add helpers to align shadow addresses up and down")
+7077d2ccb94d ("x86/kasan: Rename local CPU_ENTRY_AREA variables to shorten names")
+3f148f331814 ("x86/kasan: Map shadow for percpu pages on demand")

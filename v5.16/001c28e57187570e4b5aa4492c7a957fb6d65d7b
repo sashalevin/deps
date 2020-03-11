@@ -1,0 +1,6 @@
+001c28e57187 ("exit: Detect and fix irq disabled state in oops")
+d80f7d7b2c75 ("signal: Guarantee that SIGNAL_GROUP_EXIT is set on process exit")
+b1f866b013e6 ("block: remove blk_needs_flush_plug")
+de77c3a5b95c ("exit: Move force_uaccess back into do_exit")
+05ea0424f0e2 ("exit: Move oops specific logic from do_exit into make_task_dead")
+0e25498f8cd4 ("exit: Add and use make_task_dead.")

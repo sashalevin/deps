@@ -1,0 +1,6 @@
+33b0e895aa31 ("platform/x86/amd/hsmp: switch to use device_add_groups()")
+ca511e7631e7 ("platform/x86/amd/hsmp: Restructure sysfs group creation")
+ce08d3570ae0 ("platform/x86/amd/hsmp: Move dev from platdev to hsmp_socket")
+17998b3e529b ("platform/x86/amd/hsmp: Define a struct to hold mailbox regs")
+287a821c76be ("platform/x86/amd/hsmp: Cache pci_dev in struct hsmp_socket")
+e6100ef3c0bf ("platform/x86/amd/hsmp: Move hsmp_test to probe")

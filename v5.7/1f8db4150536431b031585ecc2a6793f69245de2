@@ -1,0 +1,7 @@
+1f8db4150536 ("sched/headers: Split out open-coded prototypes into kernel/sched/smp.h")
+4b44a21dd640 ("irq_work, smp: Allow irq_work on call_single_queue")
+b2a02fc43a1f ("smp: Optimize send_call_function_single_ipi()")
+52103be07d8b ("smp: Optimize flush_smp_call_function_queue()")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")
+d91cecc15662 ("sched: Make newidle_balance() static again")

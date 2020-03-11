@@ -1,0 +1,8 @@
+688c1a0a130b ("scsi: mpt3sas: Additional diagnostic buffer query interface")
+b22a0fac8c05 ("scsi: mpt3sas: Define hba_port structure")
+fce0aa08792b ("scsi: mpt3sas: Handle CoreDump state from watchdog thread")
+e8c2307e6a69 ("scsi: mpt3sas: Add support IOCs new state named COREDUMP")
+a066f4c31359 ("scsi: mpt3sas: Reuse diag buffer allocated at load time")
+08e7378ee331 ("scsi: mpt3sas: Maintain owner of buffer through UniqueID")
+4bc50dc1afb7 ("scsi: mpt3sas: Display message before releasing diag buffer")
+d04a6edfed0b ("scsi: mpt3sas: Register trace buffer based on NVDATA settings")

@@ -1,0 +1,4 @@
+836e2548524d ("media: usb: siano: Fix allocation of urbs")
+b9c7141f3840 ("drivers: usb: smsusb: fix error handling code in smsusb_init_device")
+6f489a966fbe ("media: usb: siano: Fix warning due to null work_func_t function pointer")
+ebad8e731c1c ("media: usb: siano: Fix use after free bugs caused by do_submit_urb")

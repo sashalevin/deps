@@ -1,0 +1,5 @@
+8b8a2417558c ("netfilter: nft_set_pipapo: prepare destroy function for on-demand clone")
+b0e256f3dd2b ("netfilter: nft_set_pipapo: release elements in clone only from destroy path")
+5a8cdf6fd860 ("netfilter: nft_set_pipapo: remove scratch_aligned pointer")
+47b1c03c3c1a ("netfilter: nft_set_pipapo: add helper to release pcpu scratch area")
+76313d1a4aa9 ("netfilter: nft_set_pipapo: store index in scratch maps")

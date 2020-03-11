@@ -1,0 +1,8 @@
+0caa7616a6ac ("iommu/vt-d: Fix infinite loop in free_all_cpu_cached_iovas")
+3bd4f9112f87 ("iommu/vt-d: Fix overflow of iommu->domains array")
+22e2f9fa63b0 ("iommu/vt-d: Use per-cpu IOVA caching")
+2aac630429d9 ("iommu/vt-d: change intel-iommu to use IOVA frame numbers")
+769530e4ba48 ("iommu/vt-d: only unmap mapped entries")
+f5c0c08b1e09 ("iommu/vt-d: correct flush_unmaps pfn usage")
+aa4732406e12 ("iommu/vt-d: per-cpu deferred invalidation queues")
+314f1dc14084 ("iommu/vt-d: refactoring of deferred flush entries")

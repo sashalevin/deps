@@ -1,0 +1,3 @@
+f36fc96c15bd ("kernel/panic: initialize taint_flags[] using a macro")
+aff1db0e4eb5 ("kernel/panic: convert print_tainted() to use struct seq_buf internally")
+f4b62423383e ("kernel/panic: return early from print_tainted() when not tainted")

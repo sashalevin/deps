@@ -1,1 +1,3 @@
 b9c1c26739ec ("ext4: gracefully handle ext4_break_layouts() failure during truncate")
+ee0ed02ca93e ("ext4: do not delete unlinked inode from orphan list on failed truncate")
+82a25b027ca4 ("ext4: wait for outstanding dio during truncate in nojournal mode")

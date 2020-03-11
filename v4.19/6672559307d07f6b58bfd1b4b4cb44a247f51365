@@ -1,1 +1,5 @@
 6672559307d0 ("perf cs-etm: Get rid of unused cpu in struct cs_etm_queue")
+4f5b37139fb3 ("perf cs-etm: Cleaning up function cs_etm__alloc_queue()")
+ae4d9f523643 ("perf cs-etm: Fix memory leak in error path")
+65963e5b4dfa ("perf cs-etm: Introducing function cs_etm_decoder__init_dparams()")
+fc7ac4138cf5 ("perf cs-etm: Remove unused structure field "time" and "timestamp"")

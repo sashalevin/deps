@@ -1,0 +1,8 @@
+9e368259ad98 ("userfaultfd: use ENOENT instead of EFAULT if the atomic copy user fails")
+8d1039634206 ("userfaultfd: shmem: add shmem_mfill_zeropage_pte for userfaultfd support")
+0f0796945614 ("shmem: introduce shmem_inode_acct_block")
+b1cc94ab2f2b ("shmem: shmem_charge: verify max_block is not exceeded before inode update")
+cb658a453b93 ("userfaultfd: shmem: avoid leaking blocks and used blocks in UFFDIO_COPY")
+4c27fe4c4c84 ("userfaultfd: shmem: add shmem_mcopy_atomic_pte for userfaultfd support")
+60d4d2d2b40e ("userfaultfd: hugetlbfs: add __mcopy_atomic_hugetlb for huge page UFFDIO_COPY")
+8fb5debc5fcd ("userfaultfd: hugetlbfs: add hugetlb_mcopy_atomic_pte for userfaultfd support")

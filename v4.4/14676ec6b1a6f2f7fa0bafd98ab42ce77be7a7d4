@@ -1,0 +1,6 @@
+14676ec6b1a6 ("drm/i915: Fix cdclk vs. dev_cdclk mess when not recomputing things")
+e8788cbc32dd ("drm/i915: Fix some minor issues with atomic cdclk.")
+dd8b3bdbdb74 ("drm/i915: simplify struct drm_device access at intel_atomic_check()")
+1a617b77658e ("drm/i915: Keep track of the cdclk as if all crtc's were active.")
+565602d7501a ("drm/i915: Do not acquire crtc state to check clock during modeset, v4.")
+92907cbbef86 ("Merge tag 'v4.4-rc2' into drm-intel-next-queued")

@@ -1,0 +1,8 @@
+eff15c2aec6c ("f2fs: do not check F2FS_INLINE_DOTS in recover")
+37a086f01524 ("f2fs: recover some i_inline flags")
+26787236b366 ("f2fs: do not activate auto_recovery for fallocated i_size")
+97dd26ad8347 ("f2fs: fix wrong AUTO_RECOVER condition")
+3a3a5ead7b6d ("f2fs: do not recover i_size if it's valid")
+281518c694a5 ("f2fs: fix fdatasync")
+7c45729a4d6d ("f2fs: keep dirty inodes selectively for checkpoint")
+15d04354555f ("f2fs: call f2fs_balance_fs for setattr")

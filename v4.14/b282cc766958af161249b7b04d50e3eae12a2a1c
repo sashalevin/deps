@@ -1,0 +1,5 @@
+b282cc766958 ("bio_map_user_iov(): get rid of the iov_for_each()")
+98f0bc99055d ("bio_map_user_iov(): move alignment check into the main loop")
+e2e115d18b76 ("don't rely upon subsequent bio_add_pc_page() calls failing")
+629e42bcc3d0 ("... and with iov_iter_get_pages_alloc() it becomes even simpler")
+076098e51bd5 ("bio_map_user_iov(): switch to iov_iter_get_pages()/iov_iter_advance()")

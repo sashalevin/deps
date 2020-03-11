@@ -1,0 +1,7 @@
+349f631da4e1 ("staging: use eth_hw_addr_set() instead of ether_addr_copy()")
+11c416e3f0ea ("staging: most: Use %pM format specifier for MAC addresses")
+97d173c64301 ("staging: ks7010: use ether_addr_copy in ks_wlan_net_start")
+39c3318c6749 ("staging: ks7010: use ether_addr_copy in hostif_mib_get_confirm")
+07335253e121 ("staging: ks7010: use ether_addr_copy() instead of custom copy")
+f40cd66b45b3 ("staging: ks7010: Change mac_address_valid to a bool instead of int.")
+a7e585918ecd ("staging: rtl8712: Fix unbalanced braces around else statement")

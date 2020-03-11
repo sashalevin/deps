@@ -1,0 +1,6 @@
+7d4741eacdef ("net: mpls: Fix notifications when deleting a device")
+77ef013aadad ("net: mpls: Convert number of nexthops to u8")
+39eb8cd17588 ("net: mpls: rt_nhn_alive and nh_flags should be accessed using READ_ONCE")
+1182e4d0b4f8 ("net: mpls: Send netconf messages on device register and unregister")
+4ea8efadf569 ("net: mpls: Delete route when all nexthops have been deleted")
+16ae1f223601 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

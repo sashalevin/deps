@@ -1,0 +1,3 @@
+687a9aa56f81 ("workqueue: Make per-cpu pool_workqueues allocated and released like unbound ones")
+967b494e2fd1 ("workqueue: Use a kthread_worker to release pool_workqueues")
+ee1ceef72754 ("workqueue: Rename wq->cpu_pwqs to wq->cpu_pwq")

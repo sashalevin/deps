@@ -1,0 +1,7 @@
+bafd7e9d353e ("filemap: call filemap_get_folios_tag() from filemap_get_folios()")
+a08c7193e4f1 ("mm/filemap: remove hugetlb special casing in filemap.c")
+8cfd014efd93 ("hugetlb: add documentation for vma_kernel_pagesize()")
+38c1ddbde6c6 ("hugetlbfs: improve read HWPOISON hugepage")
+87b11f862254 ("mm: increase usage of folio_next_index() helper")
+fd4aed8d985a ("hugetlb: revert use of page_cache_next_miss()")
+f6797adff7f0 ("mm/hugetlb: remove hugetlb_page_subpool()")

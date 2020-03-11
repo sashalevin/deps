@@ -1,0 +1,6 @@
+6ec9e9260fe4 ("firewire: core: code refactoring to use idr_for_each_entry() macro instead of idr_for_each() function")
+58ee62c2907f ("firewire: core: add helper function to detect data of iso resource structure")
+ced2da31b87f ("firewire: core: add helper functions to convert to parent resource structure")
+d3816b8b9880 ("firewire: core: use guard macro to maintain IDR of isochronous resources for userspace clients")
+d8527cab6c31 ("firewire: cdev: implement new event to notify response subaction with time stamp")
+147e9d3af34a ("firewire: cdev: code refactoring to operate event of response")

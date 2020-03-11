@@ -1,0 +1,6 @@
+291bc793a008 ("gpio: omap: Remove redundant dev_err_probe() and zero value handle code")
+4e7ed69685a5 ("gpio: omap: Simplify with dev_err_probe()")
+7c68571f77fb ("gpio: omap: avoid clang warning")
+00ded24c33c5 ("gpio: gpio-omap: Revert deferred wakeup quirk handling for regressions")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")

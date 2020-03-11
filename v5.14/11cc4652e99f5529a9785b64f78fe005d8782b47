@@ -1,0 +1,7 @@
+11cc4652e99f ("drm/amdgpu: always sending PSP messages LOAD_ASD and UNLOAD_TA")
+c58a863b1ccf ("drm/amdgpu: use adev_to_drm for consistency when accessing drm_device")
+c03509cbc015 ("drm/amdgpu: Fix MMIO access page fault")
+b2fe31cf6481 ("drm/amdgpu: Put drm_dev_enter/exit outside hot codepath")
+4b2965275498 ("drm/amdgpu: added synchronization for psp cmd buf access")
+4fb930715468 ("drm/amd/amdgpu: remove redundant host to psp cmd buf allocations")
+222e0a71c297 ("drm/amd/amdgpu: add consistent PSP FW loading size checking")

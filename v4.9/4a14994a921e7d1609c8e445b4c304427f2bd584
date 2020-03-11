@@ -1,0 +1,8 @@
+4a14994a921e ("i40e: drop misleading function comments")
+a79afa78e625 ("net: use the new dev_page_is_reusable() instead of private versions")
+a06316dc87bd ("ixgbe: avoid premature Rx buffer reuse")
+75aab4e10ae6 ("i40e: avoid premature Rx buffer reuse")
+aeda9bf87a45 ("net: hns3: batch the page reference count updates")
+1fa5cef28342 ("i40e: optimise prefetch page refcount")
+e1675f97367b ("i40e: Refactor rx_bi accesses")
+08bb3857c6c2 ("net: hns3: do not reuse pfmemalloc pages")

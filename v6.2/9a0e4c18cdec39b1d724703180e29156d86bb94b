@@ -1,0 +1,7 @@
+9a0e4c18cdec ("can: rockchip_canfd: fix return type of rkcanfd_start_xmit()")
+58d3cc65a241 ("can: rockchip_canfd: implement workaround for erratum 6")
+b6661d73290c ("can: rockchip_canfd: add TX PATH")
+6571354269f8 ("can: rockchip_canfd: rkcanfd_handle_rx_int_one(): implement workaround for erratum 5: check for empty FIFO")
+bbc783bb7142 ("can: rockchip_canfd: add quirks for errata workarounds")
+ff60bfbaf67f ("can: rockchip_canfd: add driver for Rockchip CAN-FD controller")
+8b2f4d01f56c ("dt-bindings: can: rockchip_canfd: add rockchip CAN-FD controller")

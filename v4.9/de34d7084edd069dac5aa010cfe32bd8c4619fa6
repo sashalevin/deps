@@ -1,0 +1,7 @@
+de34d7084edd ("net: dsa: bcm_sf2: Only 7278 supports 2Gb/sec IMP port")
+8f1880cbe8d0 ("net: dsa: bcm_sf2: Configure IMP port for 2Gb/sec")
+5fc0f21246e5 ("net: dsa: bcm_sf2: Fix IMP setup for port different than 8")
+0fe9933804eb ("net: dsa: bcm_sf2: Add support for BCM7278 integrated switch")
+a78e86ed586d ("net: dsa: bcm_sf2: Prepare for different register layouts")
+73095cb1881e ("net: dsa: bcm_sf2: Declare our own dsa_switch_ops")
+a4c61b92b3a4 ("net: dsa: bcm_sf2: Do not clobber b53_switch_ops")

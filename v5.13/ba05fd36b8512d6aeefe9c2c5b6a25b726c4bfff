@@ -1,0 +1,6 @@
+ba05fd36b851 ("libbpf: Perform map fd cleanup for gen_loader in case of error")
+18f4fccbf314 ("libbpf: Update gen_loader to emit BTF_KIND_FUNC relocations")
+66fe33241726 ("libbpf: Make gen_loader data aligned.")
+30f51aedabda ("libbpf: Cleanup temp FDs when intermediate sys_bpf fails.")
+67234743736a ("libbpf: Generate loader program out of BPF ELF file.")
+b12688267280 ("libbpf: Change the order of data and text relocations.")

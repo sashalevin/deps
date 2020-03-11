@@ -1,0 +1,4 @@
+857f081426e5 ("iommu/vt-d: Remove unnecessary WARN_ON_ONCE()")
+a85894cd7794 ("iommu/vt-d: Use WARN_ON_ONCE instead of BUG_ON in qi_flush_dev_iotlb()")
+0dfc0c792d69 ("iommu/vt-d: fix shift-out-of-bounds in bug checking")
+c8acb28b3313 ("iommu/vt-d: Allow to flush more than 4GB of device TLBs")

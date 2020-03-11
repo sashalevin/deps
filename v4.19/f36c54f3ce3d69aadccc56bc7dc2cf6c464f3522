@@ -1,0 +1,6 @@
+f36c54f3ce3d ("devres: switch to use dev_err_probe() for unification")
+875e0c31f84c ("devres: show which resource was invalid in __devm_ioremap_resource()")
+5c3e241f5246 ("lib: devres: Add error information printing for __devm_ioremap_resource()")
+35bd8c07db2c ("devres: keep both device name and resource name in pretty name")
+6e924822752c ("lib: devres: prepare devm_ioremap_resource() for more variants")
+8d84b18f5678 ("devres: always use dev_name() in devm_ioremap_resource()")

@@ -1,0 +1,6 @@
+3e9e40e74753 ("virtio_net: Simplify call sites for virtio_net_hdr_{from, to}_skb().")
+df10db98ab54 ("tun: fix csum generation for tap devices")
+34166093639b ("tuntap: use common code for virtio_net_hdr and skb GSO conversion")
+fd88d68b3887 ("macvtap: use common code for virtio_net_hdr and skb GSO conversion")
+608b9977260f ("tun: use per cpu variables for stats accounting")
+eaea34b23c46 ("net/tun: implement ndo_set_rx_headroom")

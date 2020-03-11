@@ -1,0 +1,5 @@
+075b593f54f0 ("cgroup: Use cgroup_attach_{lock,unlock}() from cgroup_attach_task_all()")
+43626dade36f ("cgroup: Add missing cpus_read_lock() to cgroup_attach_task_all()")
+4f7e7236435c ("cgroup: Fix threadgroup_rwsem <-> cpus_read_lock() deadlock")
+671c11f0619e ("cgroup: Elide write-locking threadgroup_rwsem when updating csses on an empty subtree")
+05c7b7a92cc8 ("cgroup/cpuset: Fix a race between cpuset_attach() and cpu hotplug")

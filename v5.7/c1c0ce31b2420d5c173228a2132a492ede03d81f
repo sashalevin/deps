@@ -1,0 +1,4 @@
+c1c0ce31b242 ("r8169: fix the KCSAN reported data-race in rtl_tx() while reading tp->cur_tx")
+94d8a98e6235 ("r8169: reduce number of workaround doorbell rings")
+ca1ab89cd2d6 ("r8169: improve rtl_tx")
+3a689e34973e ("r8169: remove unneeded memory barrier in rtl_tx")

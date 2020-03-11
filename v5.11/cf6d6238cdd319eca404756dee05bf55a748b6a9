@@ -1,0 +1,8 @@
+cf6d6238cdd3 ("block: turn macro helpers into inline functions")
+bda135d9c03f ("block: remove bvec_kmap_irq and bvec_kunmap_irq")
+30c5d3456c27 ("block: do not reassig ->bi_bdev when partition remapping")
+2f9f6221b9b9 ("block: simplify submit_bio_checks a bit")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")
+52f019d43c22 ("block: add a hard-readonly flag to struct gendisk")
+6f0d9689b670 ("block: remove the NULL bdev check in bdev_read_only")

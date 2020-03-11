@@ -1,0 +1,5 @@
+eb6efdfeaeca ("s390/uaccess: add KMSAN support to put_user() and get_user()")
+a0e3a44bc2a0 ("s390/uaccess: use __noreturn instead of __attribute__((noreturn))")
+454ede3f1424 ("s390/uaccess: use exception handler to zero result on get_user() failure")
+79a74dac447b ("s390/uaccess: use symbolic names for inline assembler operands")
+68a971acc948 ("s390/extable: prefer local labels in .set directives")

@@ -1,0 +1,5 @@
+569dd8b4eb7e ("x86/entry: Convert system vectors to irq stack macro")
+a0cfc74d0b00 ("x86/irq: Provide macro for inlining irq stack switching")
+951c2a51ae75 ("x86/irq/64: Adjust the per CPU irq stack pointer by 8")
+e7f890017971 ("x86/irq: Sanitize irq stack tracking")
+a7b3474cbb28 ("x86/irq: Make run_on_irqstack_cond() typesafe")

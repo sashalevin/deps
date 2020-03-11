@@ -1,0 +1,6 @@
+e59428f721ee ("keys: Move the RCU locks outwards from the keyring search functions")
+0b9dc6c9f01c ("keys: safe concurrent user->{session,uid}_keyring access")
+5c7e372caa35 ("security: don't use RCU accessors for cred->session_keyring")
+822ad64d7e46 ("keys: Fix dependency loop between construction record and auth key")
+49686cbbb3eb ("NFS: reject request for id_legacy key without auxdata")
+074d58989569 ("security: keys: Replace time_t/timespec with time64_t")

@@ -1,0 +1,8 @@
+176f716cb72f ("ipv6: fix "'ioam6_if_id_max' defined but not used" warn")
+cb9e684e89e6 ("ipv6 addrconf: remove addrconf_sysctl_hop_limit()")
+5df1f77f65e1 ("net/ipv6/addrconf: fix sysctl table indentation")
+607ea7cda631 ("net/ipv6/addrconf: simplify sysctl registration")
+f1705ec197e7 ("net: ipv6: Make address flushing on ifdown optional")
+7a02bf892d8f ("ipv6: add option to drop unsolicited neighbor advertisements")
+abbc30436d39 ("ipv6: add option to drop unicast encapsulated in L2 multicast")
+d6df198d9247 ("net: ipv6: restrict hop_limit sysctl setting to range [1; 255]")

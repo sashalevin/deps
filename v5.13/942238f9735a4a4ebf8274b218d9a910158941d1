@@ -1,0 +1,4 @@
+942238f9735a ("af_unix: Annodate data-races around sk->sk_state for writers.")
+3ff8bff704f4 ("unix: Fix race in SOCK_SEQPACKET's unix_dgram_sendmsg()")
+dc56ad7028c5 ("af_unix: fix potential NULL deref in unix_dgram_connect()")
+83301b5367a9 ("af_unix: Set TCP_ESTABLISHED for datagram sockets too")

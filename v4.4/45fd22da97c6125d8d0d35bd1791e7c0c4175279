@@ -1,0 +1,4 @@
+45fd22da97c6 ("perf/core: Take over CAP_SYS_PTRACE creds to CAP_PERFMON capability")
+79c9ce57eb2d ("perf/core: Fix perf_event_open() vs. execve() race")
+130056275ade ("perf: Do not double free")
+caaee6234d05 ("ptrace: use fsuid, fsgid, effective creds for fs access checks")

@@ -1,0 +1,7 @@
+19134bc23500 ("mm: fix kernel-doc warning from tlb_flush_rmaps()")
+c47454823bd4 ("mm: mmu_gather: allow more than one batch of delayed rmaps")
+f036c8184f8b ("mm: mmu_gather: do not expose delayed_rmap flag")
+5df397dec7c4 ("mm: delay page_remove_rmap() until after the TLB has been flushed")
+7cc8f9c7146a ("mm: mmu_gather: prepare to gather encoded page pointers with flags")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+b191c9bc334a ("mm/mmu_gather: limit free batch count and add schedule point in tlb_batch_pages_flush")

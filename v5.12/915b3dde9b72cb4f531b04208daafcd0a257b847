@@ -1,0 +1,6 @@
+915b3dde9b72 ("io_uring: spin in iopoll() only when reqs are in a single queue")
+b303fe2e5a38 ("io_uring: track inflight requests through counter")
+368b2080853f ("io_uring: unify task and files cancel loops")
+094bae49e5ed ("io_uring: optimise io_dismantle_req() fast path")
+68fb897966fe ("io_uring: inline io_clean_op()'s fast path")
+cf27f3b14961 ("io_uring: optimise tctx node checks/alloc")

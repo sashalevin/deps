@@ -1,0 +1,4 @@
+4fde541c9dc1 ("iommu/amd: Use `table' instead `irt' as variable name in amd_iommu_update_ga()")
+df42a04b15f1 ("iommu/amd: Avoid locking get_irq_table() from atomic context")
+27790398c2ae ("iommu/amd: Use raw locks on atomic context paths")
+37946d95fc1a ("iommu/amd: Add align parameter to alloc_irq_index()")

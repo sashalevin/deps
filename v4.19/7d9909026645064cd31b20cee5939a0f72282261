@@ -1,0 +1,6 @@
+7d9909026645 ("posix-timers: Clarify timer_wait_running() comment")
+0bee3b601b77 ("hrtimer: Improve comments on handling priority inversion against softirq kthread")
+ec8f954a40da ("posix-timers: Use a callback for cancel synchronization on PREEMPT_RT")
+6945e5c2abe0 ("posix-timers: Rework cancel retry loops")
+21670ee44f1e ("posix-timers: Cleanup the flag/flags confusion")
+f61eff83cec9 ("hrtimer: Prepare support for PREEMPT_RT")

@@ -1,0 +1,4 @@
+bf14f4923d51 ("openvswitch: delete the unncessary skb_pull_rcsum call in ovs_ct_nat_execute")
+60b44ca6bd75 ("openvswitch: always update flow key after nat")
+7d42e84eb99d ("net: openvswitch: Use 'skb_push_rcsum()' instead of hand coding it")
+8aa7b526dc0b ("openvswitch: handle DNAT tuple collision")

@@ -1,0 +1,3 @@
+82b3aa2681ca ("mm, memcg: Prevent memory.swappiness load/store tearing")
+a47920306c72 ("memcg: cleanup root memcg checks")
+59118c42a60b ("mm: swap: use mem_cgroup_is_root() instead of deferencing css->parent")

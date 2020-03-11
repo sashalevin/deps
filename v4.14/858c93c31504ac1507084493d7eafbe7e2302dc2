@@ -1,0 +1,4 @@
+858c93c31504 ("powerpc/watchdog: tighten non-atomic read-modify-write access")
+5dad4ba68a24 ("powerpc/watchdog: Fix missed watchdog reset due to memory ordering race")
+80e4d70b0686 ("powerpc/watchdog: Do not trigger SMP crash from touch_nmi_watchdog")
+d58fdd9d7f22 ("powerpc/watchdog: Do not backtrace locked CPUs twice if allcpus backtrace is enabled")

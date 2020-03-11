@@ -1,0 +1,5 @@
+340fa6667a69 ("mptcp: Only send extra TCP acks in eligible socket states")
+75e908c33615 ("mptcp: use fast lock for subflows when possible")
+b65d95adb802 ("mptcp: drop useless addr_signal clear")
+a141e02e3933 ("mptcp: split __mptcp_close_ssk helper")
+067065422fcd ("mptcp: add the outgoing MP_PRIO support")

@@ -1,0 +1,5 @@
+3b82b8d7fdf7 ("KVM: x86: WARN on injected+pending exception even in nested case")
+1a680e355c94 ("KVM: nVMX: Require immediate-exit when event reinjected to L2 and L1 event pending")
+04140b4144cd ("KVM: x86: Rename interrupt.pending to interrupt.injected")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

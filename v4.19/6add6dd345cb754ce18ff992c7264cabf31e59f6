@@ -1,0 +1,8 @@
+6add6dd345cb ("usb: host: xhci: Avoid XHCI resume delay if SSUSB device is not present")
+1c024241d018 ("xhci: Improve the XHCI system resume time")
+8b328f8002bc ("xhci: re-initialize the HC during resume if HCE was set")
+253f588c70f6 ("xhci: Improve detection of device initiated wake signal.")
+a70bcbc32283 ("usb: xhci: wait for CNR controller not ready bit in xhci resume")
+a7d57abcc8a5 ("xhci: workaround CSS timeout on AMD SNPS 3.0 xHC")
+11644a765952 ("xhci: Add quirk to workaround the errata seen on Cavium Thunder-X2 Soc")
+2815ef7fe4d4 ("xhci-pci: allow host runtime PM as default for Intel Alpine and Titan Ridge")

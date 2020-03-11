@@ -1,0 +1,4 @@
+bcc4f2bc5026 ("KVM: MMU: mark page dirty in make_spte")
+081de470f1e6 ("KVM: x86/mmu: Leverage vcpu->last_used_slot in tdp_mmu_map_handle_target_level")
+3b77daa5efe1 ("KVM: x86/mmu: WARN on any reserved SPTE value when making a valid SPTE")
+24ae4cfaaaa2 ("KVM: x86/mmu: Allow enabling/disabling dirty logging under MMU read lock")

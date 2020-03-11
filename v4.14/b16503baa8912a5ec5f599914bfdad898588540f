@@ -1,0 +1,5 @@
+b16503baa891 ("signal: send_sig_all no longer needs SEND_SIG_FORCED")
+40b3b0253562 ("signal: Pass pid type into do_send_sig_info")
+9c2db007787e ("signal: Pass pid type into send_sigio_to_task & send_sigurg_to_task")
+0102498083d5 ("signal: Pass pid type into group_send_sig_info")
+019191342fec ("signal: Use PIDTYPE_TGID to clearly store where file signals will be sent")

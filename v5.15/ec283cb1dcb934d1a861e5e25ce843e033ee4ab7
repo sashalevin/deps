@@ -1,0 +1,7 @@
+ec283cb1dcb9 ("KVM: x86/mmu: remove ept_ad field")
+2a8859f373b0 ("KVM: x86/mmu: do compare-and-exchange of gPTE via the user address")
+3cffc89d9d07 ("KVM: x86/mmu: load new PGD after the shadow MMU is initialized")
+e8f6e7383c83 ("KVM: x86/mmu: Remove unused "vcpu" of reset_{tdp,ept}_shadow_zero_bits_mask()")
+cc022ae144c1 ("KVM: X86: Add parameter huge_page_level to kvm_init_shadow_ept_mmu()")
+84ea5c09a66d ("KVM: X86: Add huge_page_level to __reset_rsvds_bits_mask_ept()")
+28f091bc2f8c ("KVM: MMU: shadow nested paging does not have PKU")

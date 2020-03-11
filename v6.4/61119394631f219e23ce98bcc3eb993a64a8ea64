@@ -1,0 +1,3 @@
+61119394631f ("riscv: entry: always initialize regs->a0 to -ENOSYS")
+05d450aabd73 ("riscv: Support RANDOMIZE_KSTACK_OFFSET")
+52449c17bdd1 ("riscv: entry: set a0 = -ENOSYS only when syscall != -1")

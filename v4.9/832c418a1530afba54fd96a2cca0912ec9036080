@@ -1,0 +1,5 @@
+832c418a1530 ("PCI: Document reset method return values")
+52354b9d1f46 ("PCI: Remove __pci_dev_reset() and pci_dev_reset()")
+b014e96d1abb ("PCI: Protect pci_error_handlers->reset_notify() usage with device_lock()")
+a60a2b73ba69 ("PCI: Export pcie_flr()")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")

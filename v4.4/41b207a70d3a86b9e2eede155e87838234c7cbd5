@@ -1,0 +1,7 @@
+41b207a70d3a ("mtd: nand: implement the default mtd_ooblayout_ops")
+70d105e4eec2 ("mtd: nand: use mtd_set_ecclayout() where appropriate")
+846031d3e183 ("mtd: nand: core: use mtd_ooblayout_xxx() helpers where appropriate")
+a8c65d504e0b ("mtd: nand: simplify nand_bch_init() usage")
+f5b8aa78ef08 ("mtd: kill the ecclayout->oobavail field")
+862eba519e79 ("mtd: nand: make use of mtd_to_nand() in NAND core code")
+28b8b26b308e ("mtd: add get/set of_node/flash_node helpers")

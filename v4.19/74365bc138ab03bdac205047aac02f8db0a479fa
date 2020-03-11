@@ -1,0 +1,8 @@
+74365bc138ab ("serial: 8250_dw: drop bogus uartclk optimisation")
+0eb9da9cf201 ("serial: 8250_dw: Fix the trivial typo in the comment")
+cc816969d7b5 ("serial: 8250_dw: Fix common clocks usage race condition")
+0be160cf86f9 ("serial: 8250_dw: Pass the same rate to the clk round and set rate methods")
+442fdef1b931 ("serial: 8250_dw: Simplify the ref clock rate setting procedure")
+a8afc193558a ("serial: 8250_dw: Use devm_clk_get_optional() to get the input clock")
+4d5675c3b10b ("serial: 8250_dw: switch to use 8250_dwlib library")
+62907e90cc7e ("serial: 8250_dw: use pointer to uart local variable")

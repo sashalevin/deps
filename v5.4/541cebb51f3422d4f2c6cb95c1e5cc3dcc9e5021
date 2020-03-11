@@ -1,0 +1,3 @@
+541cebb51f34 ("powerpc/32s: Fix module loading failure when VMALLOC_END is over 0xf0000000")
+7bee31ad8e2f ("powerpc/32s: Fix is_module_segment() when MODULES_VADDR is defined")
+c49643319715 ("powerpc/32s: Only leave NX unset on segments used for modules")

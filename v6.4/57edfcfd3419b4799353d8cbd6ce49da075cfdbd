@@ -1,0 +1,8 @@
+57edfcfd3419 ("mm/gup: accelerate thp gup even for "pages != NULL"")
+ffe1e7861211 ("mm/gup: cleanup next_page handling")
+b2cac248191b ("mm/gup: remove vmas array from internal GUP functions")
+4c630f307455 ("mm/gup: remove vmas parameter from pin_user_pages()")
+34ed8d0dcd69 ("io_uring: rsrc: delegate VMA file-backed check to GUP")
+ca5e863233e8 ("mm/gup: remove vmas parameter from get_user_pages_remote()")
+0b295316b3a9 ("mm/gup: remove unused vmas parameter from pin_user_pages_remote()")
+54d020692b34 ("mm/gup: remove unused vmas parameter from get_user_pages()")

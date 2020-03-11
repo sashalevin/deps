@@ -1,0 +1,4 @@
+c2e5e29f3fda ("to_shrink_list(): call only if refcount is 0")
+6511f6be777f ("__dput_to_list(): do decrement of refcount in the callers")
+15f23734a1de ("fast_dput(): new rules for refcount")
+3fcf535626a4 ("centralize killing dentry from shrink list")

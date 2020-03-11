@@ -1,0 +1,5 @@
+6a79a4e187bd ("libfs: Introduce case-insensitive string comparison helper")
+70dfe3f0d239 ("libfs: Add helper to choose dentry operations at mount-time")
+5ca14835dc42 ("fs: uninline inode_maybe_inc_iversion()")
+da3f52ba3595 ("iversion: use atomic64_try_cmpxchg)")
+608af703519a ("libfs: Add generic function for setting dentry_ops")

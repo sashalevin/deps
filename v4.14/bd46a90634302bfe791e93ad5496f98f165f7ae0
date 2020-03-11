@@ -1,0 +1,5 @@
+bd46a9063430 ("nvme-pci: Fix async probe remove race")
+80f513b5056d ("nvme/pci: Hold controller reference during async probe")
+1811977568e0 ("nvme/pci: Use async_schedule for initial reset work")
+4caff8fc19f1 ("nvme-pci: don't open-code nvme_reset_ctrl")
+3639efef8fb1 ("nvme: Remove unused headers")

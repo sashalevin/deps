@@ -1,0 +1,8 @@
+fc8ab388325d ("genirq/msi: Make descriptor allocation device domain aware")
+1c8939630029 ("genirq/msi: Rename msi_add_msi_desc() to msi_insert_msi_desc()")
+f1139f905bd2 ("genirq/msi: Move xarray into a separate struct and create an array")
+6b6941f6653e ("genirq/msi: Create msi_api.h")
+a474d3fbe287 ("PCI/MSI: Get rid of PCI_MSI_IRQ_DOMAIN")
+2f2940d16823 ("genirq/msi: Remove filter from msi_free_descs_free_range()")
+befd780253e7 ("genirq/msi: Use MSI_DESC_ALL in msi_add_simple_msi_descs()")
+d0a231f01e5b ("Merge tag 'pci-v5.17-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

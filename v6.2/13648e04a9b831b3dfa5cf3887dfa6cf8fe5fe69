@@ -1,0 +1,7 @@
+13648e04a9b8 ("dm-crypt: start allocating with MAX_ORDER")
+5054e778fcd9 ("dm crypt: allocate compound pages if possible")
+2c550517bc7e ("dm-crypt: use __bio_add_page to add single page to clone bio")
+86a3238c7b9b ("dm: change "unsigned" to "unsigned int"")
+7533afa1d27b ("dm: send just one event on resize, not two")
+5cd6d1d53a1f ("dm integrity: Remove bi_sector that's only used by commented debug code")
+22c40e134c4c ("dm cache: Add some documentation to dm-cache-background-tracker.h")

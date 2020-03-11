@@ -1,0 +1,5 @@
+bfd98ceb6267 ("perf annotate: Staticize some local functions")
+de2c7eb59c34 ("perf annotate: Split branch stack cycles information out of 'struct annotation_line'")
+2e9f9d4a729f ("perf annotation: Switch lock from a mutex to a sharded_mutex")
+7d18a824b5e5 ("perf annotate: Toggle full address <-> offset display")
+9b3726ef836f ("perf annotate: Update use of pthread mutex")

@@ -1,1 +1,4 @@
 539bca535dec ("x86/entry/64: Fix and clean up paranoid_exit")
+708078f65721 ("x86/entry/64: Handle FSGSBASE enabled paranoid entry/exit")
+1d07316b1363 ("x86/entry/64: Switch CR3 before SWAPGS in paranoid entry")
+2d6bb6adb714 ("Merge tag 'stackleak-v4.20-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

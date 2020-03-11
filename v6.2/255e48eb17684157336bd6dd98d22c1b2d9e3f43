@@ -1,0 +1,7 @@
+255e48eb1768 ("crypto: api - Use data directly in completion function")
+f27c94aac5b0 ("crypto: cryptd - Use request_complete helpers")
+564cabc0ca0b ("crypto: rsa-pkcs1pad - Use akcipher_request_complete")
+d9588045f540 ("crypto: hash - Use crypto_request_complete")
+256f9e53ae12 ("crypto: cryptd - Use subreq for AEAD")
+c35e03eaece7 ("crypto: api - Add scaffolding to change completion function signature")
+e16dda2b69ba ("crypto: cryptd - Remove unnecessary skcipher_request_zero")

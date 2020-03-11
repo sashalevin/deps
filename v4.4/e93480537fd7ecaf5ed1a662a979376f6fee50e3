@@ -1,0 +1,5 @@
+e93480537fd7 ("mm/gup: Mark all pages PageReferenced in generic get_user_pages_fast()")
+ddc58f27f9ee ("mm: drop tail page refcounting")
+78ddc5347341 ("thp: rename split_huge_page_pmd() to split_huge_pmd()")
+7aef4172c795 ("mm: handle PTE-mapped tail pages in gerneric fast gup implementaiton")
+6742d293cbe0 ("mm: adjust FOLL_SPLIT for new refcounting")

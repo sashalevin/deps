@@ -1,0 +1,5 @@
+745f0a19ee9a ("net: hns3: refactor VF cmdq resource APIs with new common APIs")
+076bb537577f ("net: hns3: refactor hclgevf_cmd_send with new hclge_comm_cmd_send API")
+6befad603d79 ("net: hns3: use struct hclge_desc to replace hclgevf_desc in VF cmdq module")
+3b6db4a0492b ("net: hns3: sync rx ring head in echo common pull")
+c8af2887c941 ("net: hns3: add support pause/pfc durations for mac statistics")

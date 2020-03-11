@@ -1,0 +1,5 @@
+9bf5ed9a4e62 ("ALSA: cs4281: Fix the missing snd_card_free() call at probe error")
+99041fea70d0 ("ALSA: cs4281: Allocate resources with device-managed APIs")
+393e95cda081 ("ALSA: cs4281: Fix assignment in if condition")
+efb0ad25d370 ("ALSA: pci: Constify snd_device_ops definitions")
+5afff8c1bbc7 ("ALSA: cs4281: Support PCM sync_stop")

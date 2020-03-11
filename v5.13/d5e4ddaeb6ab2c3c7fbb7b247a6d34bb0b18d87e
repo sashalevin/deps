@@ -1,0 +1,6 @@
+d5e4ddaeb6ab ("bpf: Support socket migration by eBPF.")
+e061047684af ("bpf: Support BPF_FUNC_get_socket_cookie() for BPF_PROG_TYPE_SK_REUSEPORT.")
+1cd62c21572c ("tcp: Add reuseport_migrate_sock() to select a new listener.")
+333bb73f620e ("tcp: Keep TCP_CLOSE sockets in the reuseport group.")
+5c040eaf5d17 ("tcp: Add num_closed_socks to struct sock_reuseport.")
+79a7f8bdb159 ("bpf: Introduce bpf_sys_bpf() helper and program type.")

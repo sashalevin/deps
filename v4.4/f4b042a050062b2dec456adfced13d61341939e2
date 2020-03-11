@@ -1,0 +1,7 @@
+f4b042a05006 ("serial: 8250: 8250_omap: Fix throttle to call stop_rx()")
+08fb00c64f34 ("serial: 8250: 8250_omap: Fix throttling when DMA is enabled")
+a1bfb6eb300d ("serial: 8250: 8250_omap: Fix race b/w dma completion and RX timeout")
+33d9b8b23a73 ("serial: 8250: Extract IIR logic steering from rx dma")
+b74fdd23d8fb ("serial: omap8250: Simplify rx dma completion interface")
+a86f50ed35a8 ("serial: 8250: Eliminate needless local in irq handlers")
+013e3586d84b ("serial: 8250: convert drivers to use up_to_u8250p()")

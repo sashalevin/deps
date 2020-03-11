@@ -1,0 +1,8 @@
+25a4ce564921 ("dma-direct: cleanup parameters to dma_direct_optimal_gfp_mask")
+aea7e2a86a94 ("dma-direct: factor the swiotlb code out of __dma_direct_alloc_pages")
+f5d3939a5916 ("dma-direct: drop two CONFIG_DMA_RESTRICTED_POOL conditionals")
+78bc72787ab9 ("dma-direct: warn if there is no pool for force unencrypted allocations")
+a86d10942db2 ("dma-direct: refactor the !coherent checks in dma_direct_alloc")
+f3c962226dbe ("dma-direct: clean up the remapping checks in dma_direct_alloc")
+5570449b6876 ("dma-direct: don't call dma_set_decrypted for remapped allocations")
+4d0564785bb0 ("dma-direct: factor out dma_set_{de,en}crypted helpers")

@@ -1,0 +1,6 @@
+7059c658310e ("btrfs: simplify adding and replacing references during log replay")
+769030e11847 ("btrfs: fix warning during log replay when bumping inode link count")
+313ab75399d0 ("btrfs: add and use helper for unlinking inode during log replay")
+ccae4a19c914 ("btrfs: remove no longer needed logic for replaying directory deletes")
+6d9cc07215c7 ("btrfs: remove root argument from add_link()")
+4467af880929 ("btrfs: remove root argument from btrfs_unlink_inode()")

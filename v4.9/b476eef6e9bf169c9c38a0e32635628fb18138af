@@ -1,0 +1,4 @@
+b476eef6e9bf ("staging: iio: tsl2x7x: rename tsl2x7x_settings variable to settings")
+36a28e4a613b ("staging: iio: tsl2x7x: use usleep_range() instead of mdelay()")
+be78f70ce0d1 ("staging: iio: tsl2x7x: refactor {read,write}_event_value to allow handling multiple iio_event_infos")
+1b4cbe2ef00e ("staging: iio: tsl2x7x: cleaned up i2c calls in tsl2x7x_als_calibrate()")

@@ -1,0 +1,7 @@
+16f8a08643b6 ("dmaengine: dw-edma: Add mem-mapped LL-entries support")
+b73bdc505474 ("dmaengine: dw-edma: Use non-atomic io-64 methods")
+002bbaa2f60e ("dmaengine: dw-edma: Convert ll/dt phys address to PCI bus/DMA address")
+d6b03171f9fc ("dmaengine: dw-edma: Add support for chip-specific flags")
+e51b3048116a ("dmaengine: dw-edma: Change rg_region to reg_base in struct dw_edma_chip")
+203184571388 ("dmaengine: dw-edma: Detach the private data and chip info structures")
+5a0e4529d9ae ("dmaengine: dw-edma: Remove unused irq field in struct dw_edma_chip")

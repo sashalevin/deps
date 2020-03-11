@@ -1,0 +1,5 @@
+af48f8226e94 ("PCI: imx6: Reduce resume time by only starting link if it was up before suspend")
+508919d0a95c ("PCI: imx6: Mark the link down as non-fatal error")
+f81f095e8771 ("PCI: imx6: Allow to probe when dw_pcie_wait_for_link() fails")
+886a9c134755 ("PCI: dwc: Move link handling into common code")
+a0fd361db8e5 ("PCI: dwc: Move "dbi", "dbi2", and "addr_space" resource setup into common code")

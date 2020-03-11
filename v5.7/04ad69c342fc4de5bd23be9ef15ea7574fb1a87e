@@ -1,0 +1,8 @@
+04ad69c342fc ("cifs: do not send close in compound create+close requests")
+0f56db831456 ("cifs: New optype for session operations.")
+2e4564b31b64 ("smb3: add support for stat of WSL reparse points for special file types")
+6a5f6592a0b6 ("SMB311: Add support for query info using posix extensions (level 100)")
+352d96f3acc6 ("cifs: multichannel: move channel selection above transport layer")
+5f68ea4aa98b ("cifs: multichannel: move channel selection in function")
+b2ca6c2c9edd ("cifs: move some variables off the stack in smb2_ioctl_query_info")
+a7d5c2946280 ("cifs: reduce stack use in smb2_compound_op")

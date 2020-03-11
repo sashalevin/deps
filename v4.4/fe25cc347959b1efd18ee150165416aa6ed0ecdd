@@ -1,0 +1,8 @@
+fe25cc347959 ("tcmu: Recalculate the tcmu_cmd size to save cmd area memories")
+abe342a5b4b5 ("tcmu: Fix wrongly calculating of the base_command_size")
+ab22d2604c86 ("tcmu: Fix possible overwrite of t_data_sg's last iov[]")
+554617b2bbe2 ("target/user: Return an error if cmd data size is too large")
+02eb924fabc5 ("target/user: Use sense_reason_t in tcmu_queue_cmd_ring")
+26418649eead ("target/user: Introduce data_bitmap, replace data_length/data_head/data_tail")
+0c28481ffb46 ("target/user: Free data ring in unified function")
+f1dbd087cc7a ("target/user: Use iovec[] to describe continuous area")

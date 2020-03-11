@@ -1,0 +1,5 @@
+32409cba3f66 ("mm,hwpoison: drop unneeded pcplist draining")
+dc7560b496f9 ("mm,hwpoison: refactor madvise_inject_error")
+d3cd257ce15b ("mm/madvise.c: replace with page_size() in madvise_inject_error()")
+feec24a6139d ("mm, soft-offline: convert parameter to pfn")
+641fe2e9387a ("drivers/base/memory.c: don't access uninitialized memmaps in soft_offline_page_store()")

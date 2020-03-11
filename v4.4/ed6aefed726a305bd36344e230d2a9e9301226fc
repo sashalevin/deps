@@ -1,0 +1,5 @@
+ed6aefed726a ("Revert "ARCv2: spinlock/rwlock/atomics: Delayed retry of failed SCOND with exponential backoff"")
+819f3602dcbd ("Revert "ARCv2: spinlock/rwlock: Reset retry delay when starting a new spin-wait cycle"")
+42316a201a60 ("Revert "ARCv2: spinlock/rwlock/atomics: reduce 1 instruction in exponential backoff"")
+b31ac42697be ("ARCv2: LLSC: software backoff is NOT needed starting HS2.1c")
+4d0cb15fccd1 ("ARCv2: Check for LL-SC livelock only if LLSC is enabled")

@@ -1,0 +1,8 @@
+171cfae6b78c ("rndis_host: limit scope of bogus MAC address detection to ZTE devices")
+36e747972d8b ("rndis_host: enable the bogus MAC fixup for ZTE devices from cdc_ether")
+29262e1f773b ("rndis_host: support Hytera digital radios")
+af804e6db9f6 ("net: usb: use eth_hw_addr_set() instead of ether_addr_copy()")
+60f1626f0f86 ("net: usb: rtl8150: don't incorrectly assign random MAC addresses")
+f45a4248ea4c ("net: usb: rtl8150: set random MAC address when set_ethernet_addr() fails")
+25766271e42f ("r8152: Refresh MAC address during USBDEVFS_RESET")
+2be09de7d6a0 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

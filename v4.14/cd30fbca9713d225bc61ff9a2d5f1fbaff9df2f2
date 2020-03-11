@@ -1,0 +1,4 @@
+cd30fbca9713 ("drm/i915: Stop updating plane->fb/crtc")
+c3ed110386db ("drm/i915: Replace *_reference/unreference() or *_ref/unref with _get/put()")
+b2b55502d683 ("drm/i915: Pass proper old/new states to intel_plane_atomic_check_with_state()")
+d3a8fb3223a7 ("drm/i915: Pass the crtc state explicitly to intel_pipe_update_start/end()")

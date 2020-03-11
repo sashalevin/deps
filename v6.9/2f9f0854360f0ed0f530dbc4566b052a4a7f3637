@@ -1,0 +1,4 @@
+2f9f0854360f ("mm: memory: rename pages_per_huge_page to nr_pages")
+78fefd04c123 ("mm: memory: convert clear_huge_page() to folio_zero_user()")
+7b6ec181de37 ("hugetlb: convert hugetlb_no_page() to use struct vm_fault")
+9b42fa16195f ("hugetlb: convert hugetlb_fault() to use struct vm_fault")

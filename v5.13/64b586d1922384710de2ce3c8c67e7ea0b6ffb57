@@ -1,0 +1,7 @@
+64b586d19223 ("mm/rmap: fix comments left over from recent changes")
+a98a2f0c8ce1 ("mm/rmap: split migration into its own function")
+cd62734ca60d ("mm/rmap: split try_to_munlock from try_to_unmap")
+4dd845b5a3e5 ("mm/swapops: rework swap entry manipulation code")
+af5cdaf82238 ("mm: remove special swap entry functions")
+ab02c252c860 ("mm/thp: remap_page() is only needed on anonymous THP")
+1fb08ac63bee ("mm: rmap: make try_to_unmap() void function")

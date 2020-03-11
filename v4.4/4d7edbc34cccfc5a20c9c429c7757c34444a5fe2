@@ -1,0 +1,4 @@
+4d7edbc34ccc ("nfsd_readlink(): switch to vfs_get_link()")
+fd4a0edf2a3d ("vfs: replace calling i_op->readlink with vfs_readlink()")
+d60874cd58fc ("vfs: add vfs_get_link() helper")
+bfe8804d908a ("xfs: use ->readlink to implement the readlink_by_handle ioctl")

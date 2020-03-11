@@ -1,0 +1,8 @@
+04909192ada3 ("cifs: reconnect worker should take reference on server struct unconditionally")
+823342524868 ("Revert "cifs: reconnect work should have reference on server struct"")
+ee1d21794e55 ("cifs: handle when server stops supporting multichannel")
+705fc522fe9d ("cifs: handle when server starts supporting multichannel")
+19a4b9d6c372 ("cifs: reconnect work should have reference on server struct")
+b3773b19d43f ("SMB3: rename macro CIFS_SERVER_IS_CHAN to avoid confusion")
+09ee7a3bf866 ("[SMB3] send channel sequence number in SMB3 requests after reconnects")
+3ae872de4107 ("smb: client: fix shared DFS root mounts with different prefixes")

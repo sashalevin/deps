@@ -1,0 +1,7 @@
+6ca03f1bb5a7 ("userfaultfd: fix return error if mmap_changing is non-zero in MOVE ioctl")
+adef440691ba ("userfaultfd: UFFDIO_MOVE uABI")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+f442ab50f5fb ("mm: userfaultfd: document and enable new UFFDIO_POISON feature")
+fc71884a5f59 ("mm: userfaultfd: add new UFFDIO_POISON ioctl")
+63773d2b593d ("Merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes.")

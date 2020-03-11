@@ -1,0 +1,5 @@
+6ca56f845955 ("io_uring: mark statx/files_update/epoll_ctl as non-SQPOLL")
+61710e437f28 ("io_uring: always allow drain/link/hardlink/async sqe flags")
+3232dd02af65 ("io_uring: fix {SQ,IO}POLL with unsupported opcodes")
+e62753e4e292 ("io_uring: call statx directly")
+1d9e1288039a ("io_uring: add io_statx structure")

@@ -1,0 +1,4 @@
+f7c913438533 ("io_uring/rw: allow pollable non-blocking attempts for !FMODE_NOWAIT")
+6733e678ba12 ("io_uring/kbuf: pass in 'len' argument for buffer commit")
+ecd5c9b29643 ("io_uring/kbuf: add io_kbuf_commit() helper")
+03e02e8f95fe ("io_uring/kbuf: use 'bl' directly rather than req->buf_list")

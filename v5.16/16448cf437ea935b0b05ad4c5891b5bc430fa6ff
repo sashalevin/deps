@@ -1,0 +1,8 @@
+16448cf437ea ("drm/i915/display: Read PSR configuration before VSC SDP")
+61a60df6271f ("drm/i915/audio: Hardware ELD readout")
+822e5ae701af ("drm/i915: Extract intel_edp_fixup_vbt_bpp()")
+5d4537463fc2 ("drm/i915/audio: move intel_audio_funcs internal to intel_audio.c")
+37388c0192bf ("drm/i915/audio: define the audio struct separately from drm_i915_private")
+ca3cfb9d9b5e ("drm/i915/audio: name the audio sub-struct in drm_i915_private")
+fe9b286bd063 ("drm/i915/audio: group audio under anonymous struct in drm_i915_private")
+112a87c48e83 ("drm/i915/display: program audio CDCLK-TS for keepalives")

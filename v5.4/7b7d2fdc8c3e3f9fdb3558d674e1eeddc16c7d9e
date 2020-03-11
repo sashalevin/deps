@@ -1,0 +1,4 @@
+7b7d2fdc8c3e ("watchdog: Add hrtimer-based pretimeout feature")
+fbbe35dfcf94 ("watchdog: use __watchdog_ping in startup")
+982bb70517ae ("watchdog: reset last_hw_keepalive time at start")
+72139dfa2464 ("watchdog: Fix the race between the release of watchdog_core_data and cdev")

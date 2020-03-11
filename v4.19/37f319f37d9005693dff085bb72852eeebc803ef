@@ -1,0 +1,7 @@
+37f319f37d90 ("netfilter: nft_connlimit: move stateful fields out of expression data")
+34a4c95abd25 ("netfilter: nft_connlimit: disable bh on garbage collection")
+df4a90250976 ("netfilter: nf_conncount: merge lookup and add functions")
+e8cfb372b38a ("netfilter: nf_conncount: restart search when nodes have been erased")
+c78e7818f16f ("netfilter: nf_conncount: replace CONNCOUNT_LOCK_SLOTS with CONNCOUNT_SLOTS")
+31568ec09ea0 ("netfilter: nf_conncount: fix list_del corruption in conn_free")
+fd3e71a9f71e ("netfilter: nf_conncount: use spin_lock_bh instead of spin_lock")

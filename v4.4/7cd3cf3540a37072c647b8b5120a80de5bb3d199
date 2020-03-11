@@ -1,0 +1,8 @@
+7cd3cf3540a3 ("drm/vc4: Add support for X/Y reflection")
+8e75d582db02 ("drm/vc4: Fix negative X/Y positioning on SAND planes")
+0a038c1c29a7 ("drm/vc4: Move LBM creation out of vc4_plane_mode_set()")
+3e407417b192 ("drm/vc4: Fix X/Y positioning of planes using T_TILES modifier")
+a65511b1cd78 ("drm/vc4: Move ->offsets[] adjustment out of setup_clipping_and_scaling()")
+58a6a36fe8e0 ("drm/vc4: Use drm_atomic_helper_check_plane_state() to simplify the logic")
+658d8cbd07da ("drm/vc4: Fix the "no scaling" case on multi-planar YUV formats")
+54dbe75bbf1e ("Merge tag 'drm-next-2018-08-15' of git://anongit.freedesktop.org/drm/drm")

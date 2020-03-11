@@ -1,0 +1,7 @@
+049b26048dd2 ("mm: convert soft_offline_in_use_page() to use a folio")
+55c7ac452708 ("mm: memory-failure: use local variable huge to check hugetlb page")
+48309e1f6f7b ("mm: memory-failure: kill __soft_offline_page()")
+7adb45887c8a ("mm: memory-failure: kill soft_offline_free_page()")
+2ace36f0f557 ("mm: memory-failure: cleanup try_to_split_thp_page()")
+593396b86ef6 ("mm/memory-failure.c: avoid calling invalidate_inode_page() with unexpected pages")
+ae483c200626 ("mm/memory-failure.c: remove obsolete comment")

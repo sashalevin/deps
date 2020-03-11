@@ -1,0 +1,8 @@
+18f9e9d150fc ("PCI/IOV: Factor out sriov_add_vfs()")
+753f61247181 ("PCI: Remove reset argument from pci_iov_{add,remove}_virtfn()")
+0fc690a7c3f7 ("PCI: Disable VF decoding before pcibios_sriov_disable() updates resources")
+f40ec3c748c6 ("PCI: Do any VF BAR updates before enabling the BARs")
+67086e32b564 ("powerpc/eeh: powerpc/eeh: Support error recovery for VF PE")
+39218cd00ebf ("powerpc/eeh: EEH device for VF")
+c194f7ea7f68 ("PCI/IOV: Rename and export virtfn_{add, remove}")
+05ba75f84864 ("powerpc/eeh: Fix stale cached primary bus")

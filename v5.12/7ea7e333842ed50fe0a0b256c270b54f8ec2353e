@@ -1,0 +1,6 @@
+7ea7e333842e ("mm/mprotect: minor can_change_pte_writable() cleanups")
+d84887739d5c ("mm/mprotect: allow clean exclusive anon pages to be writable")
+64fe24a3e05e ("mm/mprotect: try avoiding write faults for exclusive anonymous pages when changing protection")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+e346e6688c4a ("mm: thp: skip make PMD PROT_NONE if THP migration is not supported")
+f0953a1bbaca ("mm: fix typos in comments")

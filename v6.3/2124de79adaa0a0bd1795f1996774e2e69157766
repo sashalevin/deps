@@ -1,0 +1,6 @@
+2124de79adaa ("tracing: Implement creating an instance based on a given memory region")
+180e4e390978 ("tracing: Add snapshot refcount")
+0958b33ef5a0 ("tracing/trigger: Fix to return error if failed to alloc snapshot")
+d23569979ca1 ("tracing: Allow creating instances with specified system events")
+3163f635b20e ("tracing: Fix race issue between cpu buffer write and swap")
+c2489bb7e6be ("tracing: Introduce pipe_cpumask to avoid race on trace_pipes")

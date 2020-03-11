@@ -1,0 +1,4 @@
+1d5379d04754 ("x86/sev: Fix SEV-ES INS/OUTS instructions for word, dword, and qword")
+4954f5b8ef0b ("x86/sev-es: Use __put_user()/__get_user() for data accesses")
+e759959fe3b8 ("x86/sev-es: Rename sev-es.{ch} to sev.{ch}")
+7024f60d6552 ("x86/sev-es: Handle string port IO to kernel memory properly")

@@ -1,0 +1,4 @@
+450296f305f1 ("ALSA: control: code refactoring TLV ioctl handler")
+4c8099e9cad5 ("ALSA: control: use counting semaphore as write lock for TLV write/command operations")
+28a0989c9950 ("ALSA: control: queue events within locking of controls_rwsem for TLV operation")
+c0bcdbdff3ff ("ALSA: control: Avoid kernel warnings from tlv ioctl with numid 0")

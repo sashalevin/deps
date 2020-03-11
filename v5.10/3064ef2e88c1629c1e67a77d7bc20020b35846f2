@@ -1,0 +1,7 @@
+3064ef2e88c1 ("PCI: kirin: Don't discard .remove() callback")
+000f60db784b ("PCI: kirin: Add support for a PHY layer")
+61d37547436d ("PCI: kirin: Reorganize the PHY logic inside the driver")
+60f5b73fa0f2 ("PCI: dwc: Remove unnecessary wrappers around dw_pcie_host_init()")
+5bcb1757e637 ("PCI: dwc: Move MSI interrupt setup into DWC common code")
+331e9bcead52 ("PCI: dwc: Drop the .set_num_vectors() host op")
+a0fd361db8e5 ("PCI: dwc: Move "dbi", "dbi2", and "addr_space" resource setup into common code")

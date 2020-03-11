@@ -1,0 +1,6 @@
+bc6f707fc0fe ("x86/cc: Add cc_platform_set/_clear() helpers")
+99485c4c026f ("x86/coco: Require seeding RNG with RDRAND on CoCo systems")
+1c811d403afd ("x86/sev: Fix position dependent variable references in startup code")
+29956748339a ("x86/Kconfig: Remove CONFIG_AMD_MEM_ENCRYPT_ACTIVE_BY_DEFAULT")
+e814b59e6c2b ("x86/sme: Fix memory encryption setting if enabled by default and not overridden")
+6e74b125155d ("x86/sev: Move sev_setup_arch() to mem_encrypt.c")

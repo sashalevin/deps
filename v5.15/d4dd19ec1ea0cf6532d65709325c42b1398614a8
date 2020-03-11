@@ -1,0 +1,6 @@
+d4dd19ec1ea0 ("f2fs: do not expose unwritten blocks to user by DIO")
+b31bf0f96e71 ("f2fs: reduce indentation in f2fs_file_write_iter()")
+3d697a4a6b7d ("f2fs: rework write preallocations")
+a6294593e8a1 ("iov_iter: Turn iov_iter_fault_in_readable into fault_in_iov_iter_readable")
+bb523b406c84 ("gup: Turn fault_in_pages_{readable,writeable} into fault_in_{readable,writeable}")
+0c8eb2884a42 ("powerpc/kvm: Fix kvm_use_magic_page")

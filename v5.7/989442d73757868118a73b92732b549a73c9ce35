@@ -1,0 +1,8 @@
+989442d73757 ("workqueue: Move the code of waking a worker up in unbind_workers()")
+b4ac9384ac05 ("workqueue: Remove schedule() in unbind_workers()")
+11b45b0bf402 ("workqueue: Remove outdated comment about exceptional workers in unbind_workers()")
+5c25b5ff89f0 ("workqueue: Tag bound workers with KTHREAD_IS_PER_CPU")
+547a77d02f8c ("workqueue: Use cpu_possible_mask instead of cpu_active_mask to break affinity")
+06249738a41a ("workqueue: Manually break affinity on hotplug")
+a9b8a985294d ("workqueue: Convert the pool::lock and wq_mayday_lock to raw_spinlock_t")
+d8bb65ab70f7 ("workqueue: Use rcuwait for wq_manager_wait")

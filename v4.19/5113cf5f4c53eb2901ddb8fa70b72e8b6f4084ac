@@ -1,0 +1,8 @@
+5113cf5f4c53 ("printk: ringbuffer: Clarify special lpos values")
+10dcb06d4041 ("printk: ringbuffer: change representation of states")
+e3bc0401c1de ("printk: ringbuffer: add BLK_DATALESS() macro")
+2a7f87ed05b9 ("printk: ringbuffer: relocate get_data()")
+e60768311af8 ("scripts/gdb: update for lockless printk ringbuffer")
+d397820f36ff ("printk: ringbuffer: support dataless records")
+b6cf8b3f3312 ("printk: add lockless ringbuffer")
+ca210ba32ef7 ("scripts/gdb: fix lx-dmesg when CONFIG_PRINTK_CALLER is set")

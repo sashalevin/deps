@@ -1,0 +1,6 @@
+0875f1ceba97 ("powerpc/smp: Remap boot CPU onto core 0 if >= nr_cpu_ids")
+9832de654499 ("powerpc/smp: Factor out assign_threads()")
+dca79603fbc5 ("powerpc/smp: Lookup avail once per device tree node")
+777f81f0a9c7 ("powerpc/smp: Increase nr_cpu_ids to include the boot CPU")
+5580e96dad5a ("powerpc/smp: Adjust nr_cpu_ids to cover all threads of a core")
+dc222fa77372 ("powerpc/64: Move paca allocation to early_setup()")

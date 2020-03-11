@@ -1,0 +1,7 @@
+ae2ad293d6be ("sched/fair: Use recent_used_cpu to test p->cpus_ptr")
+a2e7f03ed28f ("sched/uclamp: Make asym_fits_capacity() use util_fits_cpu()")
+740cf8a760b7 ("sched/core: Introduce sched_asym_cpucap_active()")
+ef8df9798d46 ("sched/fair: Cleanup task_util and capacity type")
+014ba44e8184 ("sched/fair: Fix per-CPU kthread and wakee stacking for asym CPU capacity")
+a7ba894821b6 ("sched/fair: Removed useless update of p->recent_used_cpu")
+b4c9c9f15649 ("sched/fair: Prefer prev cpu in asymmetric wakeup path")

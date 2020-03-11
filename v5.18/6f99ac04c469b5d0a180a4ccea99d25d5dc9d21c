@@ -1,0 +1,6 @@
+6f99ac04c469 ("nvme: consult the CSE log page for unprivileged passthrough")
+855b7717f44b ("nvme: fine-granular CAP_SYS_ADMIN for nvme io commands")
+58e5bdeb9c2b ("nvme: enable uring-passthrough for admin commands")
+f569add47119 ("nvme: add vectored-io support for uring-cmd")
+456cba386e94 ("nvme: wire-up uring-cmd support for io-passthru on char-device.")
+bcad2565b5d6 ("nvme: refactor nvme_submit_user_cmd()")

@@ -1,0 +1,6 @@
+e2c9bb0297a3 ("can: slcan: use KBUILD_MODNAME and define pr_fmt to replace hardcoded names")
+ded5fa885b2d ("can: slcan: slcan_init() convert printk(LEVEL ...) to pr_level()")
+98b12064591d ("can: slcan: move driver into separate sub directory")
+c4e54b063f42 ("can: slcan: use CAN network device driver API")
+3cd864901bc5 ("can: slcan: use the BIT() helper")
+df6ad5dd838e ("can: Kconfig: rename config symbol CAN_DEV into CAN_NETLINK")

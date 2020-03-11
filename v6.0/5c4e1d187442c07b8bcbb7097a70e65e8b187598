@@ -1,0 +1,4 @@
+5c4e1d187442 ("iavf: use unregister_netdev")
+34ad34bf06ca ("iavf: rely on netdev's own registered state")
+d1639a17319b ("iavf: fix a deadlock caused by rtnl and driver's lock circular dependencies")
+7598f4b40bd6 ("iavf: Move netdev_update_features() into watchdog task")

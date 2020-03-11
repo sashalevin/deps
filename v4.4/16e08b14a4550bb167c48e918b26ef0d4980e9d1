@@ -1,0 +1,7 @@
+16e08b14a455 ("ext4: cleanup clean_bdev_aliases() calls")
+e64855c6cfaa ("fs: Add helper to clean bdev aliases under a bh and use it")
+64e1c57fa474 ("ext4: Use clean_bdev_aliases() instead of iteration")
+29f3ad7d8380 ("fs: Provide function to unmap metadata for a range of blocks")
+9b623df61457 ("ext4: unmap metadata when zeroing blocks")
+c86d8db33a92 ("ext4: implement allocation of pre-zeroed blocks")
+2dcba4781fa3 ("ext4: get rid of EXT4_GET_BLOCKS_NO_LOCK flag")

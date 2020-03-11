@@ -1,0 +1,7 @@
+7d34aec52d29 ("regulator: da9062: refactor buck modes into header")
+be446f183ae3 ("regulator: da9062: Simplify da9062_buck_set_mode for BUCK_MODE_MANUAL case")
+a72865f05782 ("regulator: da9062: fix suspend_enable/disable preparation")
+958e9b8265c7 ("regulator: da9062: Convert to use regulator_set/get_current_limit_regmap")
+13a345d6fd4f ("regulator: da9062: Select maximum current in specific range for set_current_limit")
+54129d641cac ("regulator: da9062: Check return value of devm_regmap_field_alloc calls")
+4b7f4958a37e ("regulator: da9061: BUCK and LDO regulator driver")

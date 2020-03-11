@@ -1,0 +1,8 @@
+bdbf0617bbc3 ("selftests/vm: fix inability to build any vm tests")
+42d46e57ec97 ("selftests: Extract single-test shell logic from lib.mk")
+cfe8460c87eb ("selftests: lib.mk: Include test suite name in the RUN_TESTS output")
+7afed3dc36eb ("selftests: lib.mk: move running and printing result to a new function")
+3f4435b51493 ("selftests: lib.mk: add SKIP handling to RUN_TESTS define")
+42b44c341368 ("selftests: lib.mk: cleanup RUN_TESTS define and make it readable")
+a33554401e47 ("selftests: Fix lib.mk run_tests target shell script")
+771cbc3bcbb5 ("selftests: lib.mk set KSFT_TAP_LEVEL to prevent nested TAP headers")

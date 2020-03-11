@@ -1,0 +1,4 @@
+3af2d3a8c56f ("ubifs: Fix unattached inode when powercut happens in creating")
+b25e6a5f78e8 ("ubifs: Fix space leak when powercut happens in linking tmpfile")
+7bed61a1cf16 ("Revert "ubifs: ubifs_symlink: Fix memleak of inode->i_link in error path"")
+6379b44cdcd6 ("ubifs: ubifs_symlink: Fix memleak of inode->i_link in error path")

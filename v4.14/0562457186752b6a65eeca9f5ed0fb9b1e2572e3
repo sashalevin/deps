@@ -1,0 +1,3 @@
+056245718675 ("mm/shmem: use a folio in shmem_unused_huge_shrink")
+62c9827cbb99 ("shmem: fix a race between shmem_unused_huge_shrink and shmem_evict_inode")
+b3cd54b257ad ("mm/shmem: do not wait for lock_page() in shmem_unused_huge_shrink()")

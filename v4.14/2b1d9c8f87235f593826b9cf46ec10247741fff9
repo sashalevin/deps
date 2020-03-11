@@ -1,0 +1,5 @@
+2b1d9c8f8723 ("ALSA: rawmidi: Fix potential Spectre v1 vulnerability")
+ef4db239cda2 ("ALSA: rawmidi: Use kvmalloc() for buffers")
+5bed9139727f ("ALSA: rawmidi: Tidy up coding styles")
+39675f7a7c7e ("ALSA: rawmidi: Change resized buffers atomically")
+680ef72abd84 ("sound: annotate ->poll() instances")

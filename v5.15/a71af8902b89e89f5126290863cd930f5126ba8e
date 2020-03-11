@@ -1,0 +1,4 @@
+a71af8902b89 ("ethtool: move from strlcpy with unused retval to strscpy")
+bde3b0fd8055 ("net: ethtool: set a default driver name")
+095cfcfe13e5 ("ethtool: handle info/flash data copying outside rtnl_lock")
+f49deaa64af1 ("ethtool: push the rtnl_lock into dev_ethtool()")

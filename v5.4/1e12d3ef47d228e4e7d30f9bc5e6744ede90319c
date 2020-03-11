@@ -1,0 +1,6 @@
+1e12d3ef47d2 ("bpf: Allow BPF_PROG_TYPE_STRUCT_OPS programs to be sleepable")
+c0f264e4edb6 ("bpf/selftests: Add verifier tests for loading sleepable programs")
+700e6f853eb3 ("bpf: Do not allow to load sleepable BPF_TRACE_RAW_TP program")
+64ad7556c75e ("bpf: allow sleepable uprobe programs to attach")
+652c1b17b85b ("bpf: Refactor perf_event_set_bpf_prog() to use struct bpf_prog input")
+5ada57a9a6b0 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

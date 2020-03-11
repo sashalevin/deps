@@ -1,0 +1,5 @@
+7608a971fdeb ("tls: recv: process_rx_list shouldn't use an offset with kvec")
+6caaf104423d ("tls: fix peeking with sync+async decryption")
+ec823bf3a479 ("tls: don't skip over different type records from the rx_list")
+fdfbaec5923d ("tls: stop recv() if initial process_rx_list gave us non-DATA")
+ac437a51ce66 ("net: tls: fix returned read length with async decrypt")

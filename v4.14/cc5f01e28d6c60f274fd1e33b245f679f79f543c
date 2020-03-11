@@ -1,0 +1,4 @@
+cc5f01e28d6c ("x86/mm: Prepare sme_encrypt_kernel() for PAGE aligned encryption")
+2b5d00b6c2cd ("x86/mm: Centralize PMD flags in sme_encrypt_kernel()")
+bacf6b499e11 ("x86/mm: Use a struct to reduce parameters for SME PGD mapping")
+1303880179e6 ("x86/mm: Clean up register saving in the __enc_copy() assembly code")

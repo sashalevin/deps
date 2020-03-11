@@ -1,0 +1,8 @@
+176275a261fb ("net: ethernet: macb: use phy_ethtool_{get|set}_link_ksettings")
+0a91281e5190 ("net: ethernet: macb: use phydev from struct net_device")
+cf6696608a06 ("net: macb: Probe MDIO bus before registering netdev")
+3e2a5e153906 ("net: macb: add wake-on-lan support via magic packet")
+2220943a21e2 ("phy: Centralise print about attached phy")
+84eff6d194df ("phy: add phydev_name() wrapper")
+72ba48be3ec8 ("phy: Add phydev_err() and phydev_dbg() macros")
+b3e0d3d7bab1 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

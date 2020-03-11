@@ -1,0 +1,8 @@
+e520d52d7cab ("cxl/region: Only warn about cpu_cache_invalidate_memregion() once")
+d18bc74aced6 ("cxl/region: Manage CPU caches relative to DPA invalidation events")
+3b502e886d01 ("cxl/pmem: Add "Passphrase Secure Erase" security command support")
+2bb692f7a6cd ("cxl/pmem: Add "Unlock" security command support")
+a072f7b7972f ("cxl/pmem: Add "Freeze Security State" security command support")
+c4ef680d0b72 ("cxl/pmem: Add Disable Passphrase security command support")
+997469407f26 ("cxl/pmem: Add "Set Passphrase" security command support")
+328281155539 ("cxl/pmem: Introduce nvdimm_security_ops with ->get_flags() operation")

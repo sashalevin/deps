@@ -1,0 +1,8 @@
+ba76dd9ddd40 ("thermal: cpu_cooling: get rid of 'allowed_cpus'")
+55d852931319 ("cpufreq: create cpufreq_table_count_valid_entries()")
+4d753aa7b627 ("thermal: cpu_cooling: use cpufreq_policy to register cooling device")
+18f301c934db ("thermal: cpu_cooling: get rid of a variable in cpufreq_set_cur_state()")
+04bdbdf93ced ("thermal: cpu_cooling: replace cool_dev with cdev")
+1dea432a671a ("thermal: cpu_cooling: Name cpufreq cooling devices as cpufreq_cdev")
+289d72afddf8 ("thermal: cpu_cooling: Avoid accessing potentially freed structures")
+c97ad0fc4f07 ("Merge back cpufreq core changes for v4.12.")

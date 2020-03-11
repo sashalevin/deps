@@ -1,0 +1,5 @@
+3b9777184232 ("binfmt_flat: add endianess annotations")
+2f3196d49b1e ("binfmt_flat: remove flat_set_persistent")
+9ee24b2a3835 ("binfmt_flat: remove flat_reloc_valid")
+9f42ef4bc26b ("blackfin, m68k: Fix flat_set_persistent() for unsigned long to u32 changes")
+468138d78510 ("binfmt_flat: flat_{get,put}_addr_from_rp() should be able to fail")

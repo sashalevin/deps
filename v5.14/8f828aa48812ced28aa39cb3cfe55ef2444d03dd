@@ -1,0 +1,8 @@
+8f828aa48812 ("mm/slub: avoid zeroing outside-object freepointer for single free")
+56d5a2b9ba85 ("mm, slub: split out allocations from pre/post hooks")
+88f2ef73fd66 ("mm: introduce kmem_cache_alloc_lru")
+6a6b7b77cc0f ("mm: list_lru: transpose the array of per-node per-memcg lru lists")
+3eef11279ba5 ("mm: list_lru: only add memcg-aware lrus to the global lru list")
+60ec6a48eec2 ("mm: list_lru: remove holding lru lock")
+16f6bf266c94 ("mm/list_lru.c: prefer struct_size over open coded arithmetic")
+72d67229f522 ("slab: clean up function prototypes")

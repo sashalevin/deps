@@ -1,0 +1,6 @@
+0bab9cb2d980 ("x86/entry: Remove put_ret_addr_in_rdi THUNK macro argument")
+76dc6d600166 ("x86/asm/entry: Annotate THUNKs")
+48593975aeee ("x86: Use CONFIG_PREEMPTION")
+e6dd47394493 ("x86/entry: Fix thunk function ELF sizes")
+5e1246ff2d37 ("x86/entry/32: Clean up return from interrupt preemption path")
+b5b447b6b4e8 ("x86/entry: Remove unneeded need_resched() loop")

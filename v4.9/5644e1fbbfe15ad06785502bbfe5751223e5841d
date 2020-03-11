@@ -1,0 +1,7 @@
+5644e1fbbfe1 ("mm/vmscan.c: fix data races using kswapd_classzone_idx")
+dffcac2cb88e ("mm/vmscan.c: prevent useless kswapd loops")
+e716f2eb24de ("mm, vmscan: prevent kswapd sleeping prematurely due to mismatched classzone_idx")
+631b6e083ec3 ("mm, vmscan: only clear pgdat congested/dirty/writeback state when balanced")
+333b0a459c0e ("mm, vmscan: fix zone balance check in prepare_kswapd_sleep")
+c73322d098e4 ("mm: fix 100% CPU kswapd busyloop on unreclaimable nodes")
+c2f83143f1c6 ("mm, vmscan: clear PGDAT_WRITEBACK when zone is balanced")

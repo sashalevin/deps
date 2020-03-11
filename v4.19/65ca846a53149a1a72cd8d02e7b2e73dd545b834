@@ -1,0 +1,8 @@
+65ca846a5314 ("scsi: core: Introduce {init,exit}_cmd_priv()")
+c5a9707672fe ("scsi: core: Remove cmd_list functionality")
+6eb045e092ef ("scsi: core: avoid host-wide host_busy counter for scsi_mq")
+b7e9e1fb7a92 ("scsi: implement .cleanup_rq callback")
+29cadd2bb667 ("scsi: Fix a harmless double shift bug")
+f1342709d18a ("scsi: Do not rely on blk-mq for double completions")
+f664a3cc17b7 ("scsi: kill off the legacy IO path")
+3a7ea2c483a5 ("scsi: provide mq_ops->busy() hook")

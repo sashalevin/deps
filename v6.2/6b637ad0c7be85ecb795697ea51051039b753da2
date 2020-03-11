@@ -1,0 +1,8 @@
+6b637ad0c7be ("xfs: get rid of notinit from xfs_bmap_longest_free_extent")
+76257a15873c ("xfs: introduce xfs_for_each_perag_wrap()")
+7ac2ff8bb371 ("xfs: perags need atomic operational state")
+dedab3e4379d ("xfs: use active perag references for inode allocation")
+c4d5660afbdc ("xfs: active perag reference counting")
+36b6ad2d9cb8 ("xfs: drop firstblock constraints from allocation setup")
+d5753847b216 ("xfs: block reservation too large for minleft allocation")
+f08f984c63e9 ("xfs: prefer free inodes at ENOSPC over chunk allocation")

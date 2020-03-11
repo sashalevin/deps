@@ -1,0 +1,4 @@
+60aac486daa4 ("ramfs: convert ramfs_nommu_get_unmapped_area() to use filemap_get_folios_contig()")
+50b7d8568008 ("ramfs: fix nommu mmap with gaps in the page cache")
+d72dc8a25afc ("mm: make pagevec_lookup() update index")
+642338ba33c5 ("Merge tag 'xfs-4.13-merge-5' of git://git.kernel.org/pub/scm/fs/xfs/xfs-linux")

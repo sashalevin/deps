@@ -1,0 +1,7 @@
+5f25e71e3114 ("KVM: downgrade two BUG_ONs to WARN_ON_ONCE")
+0958f0cefede ("KVM: introduce kvm_read_guest_offset_cached()")
+fcfbc617547f ("KVM: Check for a bad hva before dropping into the ghc slow path")
+4e335d9e7ddb ("Revert "KVM: Support vCPU-based gfn->hva cache"")
+bbd6411513aa ("KVM: Support vCPU-based gfn->hva cache")
+5a2d4365d2c3 ("KVM: only retrieve memslots once when initializing cache")
+93173b5bf284 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

@@ -1,0 +1,3 @@
+7d5fff8982a2 ("dm raid: protect md_stop() with 'reconfig_mutex'")
+e74c874eabe2 ("dm raid: clean up four equivalent goto tags in raid_ctr()")
+bae3028799dc ("dm raid: fix missing reconfig_mutex unlock in raid_ctr() error paths")

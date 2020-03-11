@@ -1,0 +1,7 @@
+3bf6ff3cec5d ("r8169: remove "out of memory" error message from rtl_request_firmware")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+47ad5931add8 ("r8169: add rtl_fw_request_firmware and rtl_fw_release_firmware")
+4edb00f391d3 ("r8169: make rtl_fw_format_ok and rtl_fw_data_ok more independent")
+ce8843abfa67 ("r8169: decouple rtl_phy_write_fw from actual driver code")
+e95a7f30e126 ("r8169: improve rtl_fw_format_ok")
+254764e55652 ("r8169: improve firmware handling")

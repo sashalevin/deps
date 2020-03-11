@@ -1,0 +1,7 @@
+f7e41b65bdc5 ("clk: lmk04832: Use devm_clk_get_enabled() helpers")
+e63227c83cff ("clk: lmk04832: Don't disable vco clock on probe fail")
+56fc9a343a20 ("clk: lmk04832: Use managed `of_clk_add_hw_provider()`")
+a0386bba7093 ("spi: make remove callback a void function")
+afb0a80e63d6 ("platform/chrome: cros_ec: Make cros_ec_unregister() return void")
+316f569df766 ("tpm: st33zp24: Make st33zp24_remove() a void function")
+c222ea5d2f33 ("staging: fbtft: Deduplicate driver registration macros")

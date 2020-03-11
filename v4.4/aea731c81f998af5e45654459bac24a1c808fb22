@@ -1,0 +1,6 @@
+aea731c81f99 ("xtensa: rework {CONFIG,PLATFORM}_DEFAULT_MEM_START")
+f79e4d5f92a1 ("xtensa: drop unused {CONFIG,PLATFORM}_DEFAULT_MEM_SIZE")
+3de00482b006 ("xtensa: minimize use of PLATFORM_DEFAULT_MEM_{ADDR,SIZE}")
+a9f2fc628e3a ("xtensa: cleanup MMU setup and kernel layout macros")
+d39af90265fe ("xtensa: add alternative kernel memory layouts")
+f1883aa7d63e ("xtensa: move kernel mapping addresses into kmem_layout.h")

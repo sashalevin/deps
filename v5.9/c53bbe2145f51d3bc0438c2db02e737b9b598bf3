@@ -1,0 +1,8 @@
+c53bbe2145f5 ("KVM: x86: SVM: don't passthrough SMAP/SMEP/PKE bits in !NPT && !gCR0.PG case")
+2a32a77cefa6 ("KVM: SVM: merge update_cr0_intercept into svm_set_cr0")
+f1c6366e3043 ("KVM: SVM: Add required changes to support intercepts under SEV-ES")
+f9a4d621761a ("KVM: x86: introduce complete_emulated_msr callback")
+8b474427cbee ("KVM: x86: use kvm_complete_insn_gp in emulating RDMSR/WRMSR")
+fb04a1eddb1a ("KVM: X86: Implement ring-based dirty memory tracking")
+c21d54f0307f ("KVM: x86: hyper-v: allow KVM_GET_SUPPORTED_HV_CPUID as a system ioctl")
+a6a0b05da9f3 ("kvm: x86/mmu: Support dirty logging for the TDP MMU")

@@ -1,0 +1,7 @@
+ec201955a53b ("kbuild: Optionally enable schema checks for %.dtb targets")
+e10c4321dc1e ("kbuild: allow to run dt_binding_check and dtbs_check in a single command")
+b5154bf63e55 ("kbuild: avoid concurrency issue in parallel building dtbs and dtbs_check")
+2ba06cd8565b ("kbuild: Always validate DT binding examples")
+c473a8d03ea8 ("kbuild: add dt_binding_check to PHONY in a correct place")
+964a596db8db ("kbuild: add dtbs_check to PHONY")
+93512dad334d ("dt-bindings: Improve validation build error handling")

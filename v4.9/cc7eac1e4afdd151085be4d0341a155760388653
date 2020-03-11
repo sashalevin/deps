@@ -1,0 +1,7 @@
+cc7eac1e4afd ("usb: host: ehci-platform: add a quirk to avoid stuck")
+27b3df4139d5 ("usb: host: ehci-platform: remove custom USB PHY handling")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")
+8e84f8aa5306 ("usb: ehci-platform: use reset array API")
+a8c06e407ef9 ("usb: separate out sysdev pointer from usb_bus")
+d3d6ef1fb908 ("usb: host: ohci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")
+42a58c9949dd ("usb: host: ehci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")

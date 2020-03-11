@@ -1,0 +1,6 @@
+a04eb7cb186b ("ntfs: convert ntfs_writepage to use a folio")
+933906f8e8e4 ("ntfs: Convert ntfs to read_folio")
+e621900ad28b ("fs: Convert __set_page_dirty_buffers to block_dirty_folio")
+7ba13abbd31e ("fs: Turn block_invalidatepage into block_invalidate_folio")
+128d1f8241d6 ("fs: Add invalidate_folio() aops method")
+5ad6b2bdaaea ("fs: Turn do_invalidatepage() into folio_invalidate()")

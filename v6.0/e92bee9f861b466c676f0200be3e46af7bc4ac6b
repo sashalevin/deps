@@ -1,0 +1,4 @@
+e92bee9f861b ("arm64/fpsimd: Avoid erroneous elide of user state reload")
+aefbab8e77eb ("arm64: fpsimd: Preserve/restore kernel mode NEON at context switch")
+9b19700e623f ("arm64: fpsimd: Drop unneeded 'busy' flag")
+a0136be443d5 ("arm64/fpsimd: Load FP state based on recorded data type")

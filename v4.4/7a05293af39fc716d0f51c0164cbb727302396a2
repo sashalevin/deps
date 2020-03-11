@@ -1,0 +1,5 @@
+7a05293af39f ("MIPS: boot/compressed: Copy DTB to aligned address")
+4d4f9c1a17a3 ("MIPS: boot: Fix unaligned access with CONFIG_MIPS_RAW_APPENDED_DTB")
+3f0a53bc6482 ("MIPS: Ensure ELF appended dtb is relocated")
+b8f54f2cde78 ("MIPS: ZBOOT: copy appended dtb to the end of the kernel")
+069fd766271d ("MIPS: Reserve space for relocation table")

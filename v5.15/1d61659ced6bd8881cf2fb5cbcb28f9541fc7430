@@ -1,0 +1,4 @@
+1d61659ced6b ("locking/rwsem: Disable preemption in all down_write*() and up_write() code paths")
+d257cc8cb8d5 ("locking/rwsem: Make handoff bit handling more consistent")
+6c2787f2a20c ("locking: Remove rcu_read_{,un}lock() for preempt_{dis,en}able()")
+7cdacc5f52d6 ("locking/rwsem: Disable preemption for spinning region")

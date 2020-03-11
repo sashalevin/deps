@@ -1,0 +1,8 @@
+1c9568e806a5 ("mm: compaction: drop redundant watermark check in compaction_zonelist_suitable()")
+f98a497e1f16 ("mm: compaction: remove unnecessary is_via_compact_memory() checks")
+e8606320e9af ("mm: compaction: refactor __compaction_suitable()")
+cff387d6a294 ("mm: compaction: make compaction_zonelist_suitable return false when COMPACT_SUCCESS")
+2b1a20c3afbc ("mm/compaction: move compaction_suitable's comment to right place")
+01c0bfe061f3 ("mm: rename gfpflags_to_migratetype to gfp_migratetype for same convention")
+97a225e69a1f ("mm/page_alloc: integrate classzone_idx and high_zoneidx")
+3334a45eb9e2 ("mm/page_alloc: use ac->high_zoneidx for classzone_idx")

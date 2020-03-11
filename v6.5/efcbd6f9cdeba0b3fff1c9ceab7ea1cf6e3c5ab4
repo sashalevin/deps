@@ -1,0 +1,8 @@
+efcbd6f9cdeb ("drm/msm/dsi: Enable widebus for DSI")
+97f038db2168 ("drm/msm/dpu: Enable widebus for DSI INTF")
+14be80ae940c ("drm/msm/dpu: Move setting of dpu_enc::wide_bus_en to atomic enable()")
+fdcb8fe0c9f0 ("drm/msm/dpu: Drop encoder vsync_event")
+143dfccad3da ("drm/msm/dpu: rename enable_compression() to program_intf_cmd_cfg()")
+51e9b25c7818 ("drm/msm/dpu: use dpu core's major version to enable data compress")
+b173a7dcc2d0 ("drm/msm/dsi: Enable BURST_MODE for command mode for DSI 6G v1.3+")
+9ed6141b72c7 ("drm/msm/dpu: retrieve DSI DSC struct through priv->dsi[0]")

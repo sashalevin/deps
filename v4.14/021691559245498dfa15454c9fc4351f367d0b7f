@@ -1,0 +1,3 @@
+021691559245 ("exec: Factor unshare_sighand out of de_thread and call it separately")
+d036bda7d0e7 ("sched/core: Convert sighand_struct.count to refcount_t")
+06e62a46bbba ("fork: don't copy inconsistent signal handler state to child")

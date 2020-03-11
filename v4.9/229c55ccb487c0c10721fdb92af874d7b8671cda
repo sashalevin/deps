@@ -1,0 +1,7 @@
+229c55ccb487 ("arch: Move initrd= parsing into do_mounts_initrd.c")
+c756c592e442 ("arm64: Utilize phys_initrd_start/phys_initrd_size")
+b1ab95c63622 ("arch: Make phys_initrd_start and phys_initrd_size global variables")
+764b51ead10d ("arm64: kdump: reserve memory for crash dump kernel")
+2077be6783b5 ("arm64: Use __pa_symbol for kernel symbols")
+869dcfd10dfe ("arm64: Add cast for virt_to_pfn")
+e98216b52176 ("arm64: mm: BUG on unsupported manipulations of live kernel mappings")

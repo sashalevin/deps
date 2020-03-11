@@ -1,0 +1,7 @@
+61b39ad9a7d2 ("x86/head64: Remove duplicate include")
+4b47cdbda6f1 ("x86/head/64: Move early exception dispatch to C code")
+f5963ba7a45f ("x86/head/64: Install a CPU bringup IDT")
+3add38cb96a1 ("x86/head/64: Switch to initial stack earlier")
+7b99819dfb60 ("x86/head/64: Load segment registers earlier")
+e04b88336360 ("x86/head/64: Load GDT after switch to virtual addresses")
+866b556efa12 ("x86/head/64: Install startup GDT")

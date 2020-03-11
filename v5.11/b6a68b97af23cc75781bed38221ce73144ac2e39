@@ -1,0 +1,5 @@
+b6a68b97af23 ("KVM: arm64: Allow KVM to be disabled from the command line")
+1945a067f351 ("arm64: Make kvm-arm.mode={nvhe, protected} an alias of id_aa64mmfr1.vh=0")
+863ace77e9ff ("arm64: Add an aliasing facility for the idreg override")
+33200303553d ("arm64: cpufeature: Add an early command-line cpufeature override facility")
+f6f0c4362f07 ("arm64: Extract early FDT mapping from kaslr_early_init()")

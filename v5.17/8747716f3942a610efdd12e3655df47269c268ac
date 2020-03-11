@@ -1,0 +1,8 @@
+8747716f3942 ("net/smc: Register SMC-D as ISM client")
+89e7d2ba61b7 ("net/ism: Add new API for client registration")
+1baedb13f1d5 ("s390/ism: Introduce struct ism_dmb")
+62ff373da253 ("net/smc: Fix possible leaked pernet namespace in smc_init()")
+8b2fed8e2712 ("net/smc: Pass on DMBE bit mask in IRQ handler")
+949d6b405e61 ("net: add missing includes and forward declarations under net/")
+b6e811383062 ("af_unix: Define a per-netns hash table.")
+b2d057560b81 ("secure_seq: use the 64 bits of the siphash for port offset calculation")

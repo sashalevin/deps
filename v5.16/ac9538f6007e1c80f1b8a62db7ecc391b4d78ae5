@@ -1,0 +1,5 @@
+ac9538f6007e ("mfd: intel-lpss: Switch to generalized quirk table")
+9ffe4c1089f6 ("mfd: intel-lpss: Use device_get_match_data()")
+6978c7d2dd81 ("mfd: intel-lpss: Use PCI APIs instead of dereferencing")
+e6b142060b24 ("mfd: intel-lpss: Fix I2C4 not being available on the Microsoft Surface Go & Go 2")
+c9e143084d1a ("mfd: intel-lpss: Fix too early PM enablement in the ACPI ->probe()")

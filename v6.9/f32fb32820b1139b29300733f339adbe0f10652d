@@ -1,0 +1,6 @@
+f32fb32820b1 ("KVM: x86: Add hook for determining max NPT mapping level")
+a90764f0e4ed ("KVM: guest_memfd: Add hook for invalidating memory")
+1f6c06b17751 ("KVM: guest_memfd: Add interface for populating gmem pages with user data")
+3bb2531e20bf ("KVM: guest_memfd: Add hook for initializing memory")
+70623723778a ("KVM: guest_memfd: pass error up from filemap_grab_folio")
+d0bf8e6e440a ("KVM: x86/mmu: Exit to userspace with -EFAULT if private fault hits emulation")

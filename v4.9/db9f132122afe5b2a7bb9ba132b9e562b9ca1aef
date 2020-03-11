@@ -1,0 +1,6 @@
+db9f132122af ("soc: mediatek: pwrap: Move PMIC read test sequence in function")
+18c7deca2b81 ("soc: mediatek: pwrap: Use readx_poll_timeout() instead of custom function")
+89e28da82836 ("soc: mediatek: pwrap: Zero initialize rdata in pwrap_init_cipher")
+d56b31e2eabf ("soc: mediatek: pwrap: refactor pwrap_init for the various PMIC types")
+a10616f05307 ("soc: mediatek: pwrap: add pwrap_write32 for writing in 32-bit mode")
+ec83368635ac ("soc: mediatek: pwrap: add pwrap_read32 for reading in 32-bit mode")

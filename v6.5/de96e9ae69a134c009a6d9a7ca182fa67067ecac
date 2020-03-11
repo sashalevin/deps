@@ -1,0 +1,7 @@
+de96e9ae69a1 ("io_uring: turn implicit assumptions into a warning")
+f39130004d3a ("io_uring: kill dead code in io_req_complete_post")
+0667db14e1f0 ("io_uring: refactor io_req_complete_post()")
+23fbdde6205d ("io_uring: remove current check from complete_post")
+4caa74fdce7d ("io_uring: cleanup io_req_complete_post()")
+00b0db562485 ("io_uring: open code io_fill_cqe_req()")
+17bc28374cd0 ("io_uring: have io_file_put() take an io_kiocb rather than the file")

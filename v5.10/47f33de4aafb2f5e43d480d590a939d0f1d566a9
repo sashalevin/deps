@@ -1,0 +1,4 @@
+47f33de4aafb ("x86/sev: Mark the code returning to user space as syscall gap")
+78a81d88f60b ("x86/sev-es: Introduce ip_within_syscall_gap() helper")
+afd30525a659 ("x86/xen: Drop USERGS_SYSRET64 paravirt call")
+53c9d9240944 ("x86/pv: Switch SWAPGS to ALTERNATIVE")

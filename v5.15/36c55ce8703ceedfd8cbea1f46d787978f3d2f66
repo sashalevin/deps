@@ -1,0 +1,3 @@
+36c55ce8703c ("binder_alloc: Replace kcalloc with kvcalloc to mitigate OOM issues")
+cbc174a64b8d ("binder: relocate binder_alloc_clear_buf()")
+26eff2d66aff ("binder: Use memset_page() in binder_alloc_clear_buf()")

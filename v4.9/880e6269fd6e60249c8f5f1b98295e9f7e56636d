@@ -1,0 +1,5 @@
+880e6269fd6e ("e1000e: fix unused-function warning")
+a7023819404a ("e1000e: Use rtnl_lock to prevent race conditions between net and pci/pm")
+f15bb6dde738 ("e1000e: Add support for S0ix")
+ee2e80c19462 ("e1000e: Use dev_get_drvdata where possible")
+833521ebc65b ("e1000e: Undo e1000e_pm_freeze if __e1000_shutdown fails")

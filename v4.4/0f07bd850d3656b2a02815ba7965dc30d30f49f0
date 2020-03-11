@@ -1,0 +1,8 @@
+0f07bd850d36 ("r8169: use dev_get_drvdata where possible")
+ac8bd9e13be2 ("r8169: Disable clk during suspend / resume")
+92bad8509159 ("r8169: improve phy initialization when resuming")
+a92a08499b1f ("r8169: improve runtime pm in general and suspend unused ports")
+ef4d5fccebe9 ("r8169: improve runtime pm in rtl8169_check_link_status")
+4c45d24a759d ("r8169: switch to device-managed functions in probe")
+bde135a672bf ("r8169: only enable PCI wakeups when WOL is active")
+27896c83fe94 ("r8169: default to 64-bit DMA on recent PCIe chips")

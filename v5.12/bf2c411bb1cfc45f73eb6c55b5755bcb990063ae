@@ -1,0 +1,6 @@
+bf2c411bb1cf ("md: raid456 add nowait support")
+1147f58e1010 ("md/raid5: avoid redundant bio clone in raid5_read_one_chunk")
+c82aa1b76787 ("md/raid5: move checking badblock before clone bio in raid5_read_one_chunk")
+10764815ff47 ("md: add io accounting for raid0 and raid5")
+ad3fc798800f ("md: revert io stats accounting")
+cf78408f937a ("md: add md_submit_discard_bio() for submitting discard bio")

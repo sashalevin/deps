@@ -1,0 +1,6 @@
+e4bd7c4a8d2a ("smb311: Add tracepoints for new compound posix query info")
+6a5f6592a0b6 ("SMB311: Add support for query info using posix extensions (level 100)")
+349e13ad30b4 ("cifs: add smb2 POSIX info level")
+2e8af978d9bb ("cifs: rename posix create rsp")
+fc513fac56e1 ("cifs: don't leak -EAGAIN for stat() during reconnect")
+ab3459d8f0ef (" smb3: print warning once if posix context returned on open")

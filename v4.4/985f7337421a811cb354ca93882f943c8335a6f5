@@ -1,0 +1,4 @@
+985f7337421a ("sock: set sk_err to ee_errno on dequeue from errq")
+38b257938ac6 ("sock: reset sk_err when the error queue is empty")
+83a1a1a70e87 ("sock: reset sk_err for ICMP packets read from error queue")
+f5f99309fa74 ("sock: do not set sk_err in sock_dequeue_err_skb")

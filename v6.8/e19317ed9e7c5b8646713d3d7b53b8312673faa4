@@ -1,0 +1,4 @@
+e19317ed9e7c ("btrfs: convert btrfs_read_folio() to only use a folio")
+970ea374884d ("btrfs: pass a valid extent map cache pointer to __get_extent_map()")
+c8293894afa7 ("btrfs: add helpers to get inode from page/folio pointers")
+8bab0a30665e ("btrfs: remove the pg_offset parameter from btrfs_get_extent()")

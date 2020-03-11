@@ -1,0 +1,5 @@
+75fdf791dff0 ("riscv: drop the use of XIP_OFFSET in kernel_mapping_va_to_pa()")
+5cf089672119 ("riscv: replace misleading va_kernel_pa_offset on XIP kernel")
+3335068f8721 ("riscv: Use PUD/P4D/PGD pages for the linear mapping")
+8589e346bbb6 ("riscv: Move the linear mapping creation in its own function")
+a7407a1318a9 ("riscv: Get rid of riscv_pfn_base variable")

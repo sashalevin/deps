@@ -1,0 +1,3 @@
+3a6de51a437f ("KVM: x86/pmu: WARN and bug the VM if PMU is refreshed after vCPU has run")
+7e768ce8278b ("KVM: x86/pmu: Zero out pmu->all_valid_pmc_idx each time it's refreshed")
+686e0f0324f0 ("KVM: x86: Directly query supported PERF_CAPABILITIES for WRMSR checks")

@@ -1,0 +1,5 @@
+b46fae06153d ("ipc/sem: use flexible array in 'struct sem_undo'")
+18319498fdd4 ("memcg: enable accounting of ipc resources")
+bc8136a543aa ("ipc: use kmalloc for msg_queue and shmid_kernel")
+fc37a3b8b438 ("ipc sem: use kvmalloc for sem_undo allocation")
+4a2ae92993be ("ipc/sem.c: replace kvmalloc/memset with kvzalloc and use struct_size")

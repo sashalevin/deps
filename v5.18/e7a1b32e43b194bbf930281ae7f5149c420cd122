@@ -1,0 +1,8 @@
+e7a1b32e43b1 ("cpufreq: Rebuild sched-domains when removing cpufreq driver")
+7d84c1ebf9dd ("x86/aperfmperf: Replace aperfmperf_get_khz()")
+bb6e89df9028 ("x86/aperfmperf: Make parts of the frequency invariance code unconditional")
+73a5fa7d5136 ("x86/aperfmperf: Restructure arch_scale_freq_tick()")
+24620d94a52a ("x86/aperfmperf: Put frequency invariance aperf/mperf data into a struct")
+0dfaf3f6ecc0 ("x86/aperfmperf: Untangle Intel and AMD frequency invariance init")
+138a7f9c6bea ("x86/aperfmperf: Separate AP/BP frequency invariance init")
+55cb0b707493 ("x86/smp: Move APERF/MPERF code where it belongs")

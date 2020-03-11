@@ -1,0 +1,8 @@
+11c4f2be58c2 ("mfd: mt6397: Fix probe after changing mt6397-core")
+708cb5cc3fde ("mfd: mt6397: Rename macros to something more readable")
+a177276aa098 ("mfd: mt6397: Do not call irq_domain_remove if PMIC unsupported")
+1387ff53568b ("mfd: mt6397: IRQ domain should initialize before mfd_add_devices()")
+08e380a53a92 ("mfd: mt6397: Use devm_mfd_add_devices() for mfd_device registration")
+44760cf3bf0a ("mfd: mt6397: Add MT6323 support to MT6397 driver")
+1d2c25ed4558 ("mfd: mt6397: Add support for different Slave types")
+feec4799ac4d ("mfd: mt6397: int_con and int_status may vary in location")

@@ -1,0 +1,4 @@
+1c6d984f523f ("x86/kvm: Do not try to disable kvmclock if it was not enabled")
+c02027b5742b ("x86/kvm: Disable kvmclock on all CPUs on shutdown")
+8b79feffeca2 ("x86/kvm: Teardown PV features on boot CPU as well")
+2b519b5797d4 ("x86/kvm: Don't bother __pv_cpu_mask when !CONFIG_SMP")

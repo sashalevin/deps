@@ -1,0 +1,8 @@
+1836df089142 ("dm mpath: move dm_bio_restore out of endio method")
+d07a241d4f9a ("dm mpath: optimize retrieval of bio_details from per-bio-data")
+846785e6a572 ("dm: don't return errnos from ->map")
+9966afaf91b3 ("dm: fix REQ_RAHEAD handling")
+18a482f5245c ("dm mpath: don't return -EIO from dm_report_EIO")
+7ed8578a96ad ("dm rq: change ->rq_end_io calling conventions")
+b79f10eefd4b ("dm mpath: merge do_end_io into multipath_end_io")
+7e25a7606147 ("Merge branch 'dm-4.12' into dm-4.12-post-merge")

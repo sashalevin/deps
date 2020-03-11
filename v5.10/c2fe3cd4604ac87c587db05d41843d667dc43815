@@ -1,0 +1,3 @@
+c2fe3cd4604a ("KVM: x86: Move vendor CR4 validity check to dedicated kvm_x86_ops hook")
+a447e38a7fad ("KVM: VMX: Drop explicit 'nested' check from vmx_set_cr4()")
+d3a9e4146a6f ("KVM: VMX: Drop guest CPUID check for VMXE in vmx_set_cr4()")

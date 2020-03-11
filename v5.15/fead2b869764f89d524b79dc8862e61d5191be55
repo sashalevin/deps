@@ -1,0 +1,7 @@
+fead2b869764 ("mm/memcg: revert ("mm/memcg: optimize user context object stock access")")
+a7ebf564de32 ("mm/memcg: relocate mod_objcg_mlstate(), get_obj_stock() and put_obj_stock()")
+c4ed6ebfcb09 ("mm/memcg: Convert uncharge_page() to uncharge_folio()")
+1b7e4464d43a ("mm/memcg: Add folio_memcg() and related functions")
+8e88bd2dfde2 ("mm/memcg: Convert memcg_check_events to take a node ID")
+658b69c9d852 ("mm/memcg: Use the node id in mem_cgroup_update_tree()")
+6e0110c247c8 ("mm/memcg: Remove 'page' parameter to mem_cgroup_charge_statistics()")

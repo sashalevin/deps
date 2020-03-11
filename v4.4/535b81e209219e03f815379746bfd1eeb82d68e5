@@ -1,0 +1,6 @@
+535b81e20921 ("mm/page_alloc.c: remove unnecessary end_bitidx for [set|get]_pfnblock_flags_mask()")
+d93d5ab9ca01 ("mm/page_alloc.c: simplify pageblock bitmap access")
+21dc7e023611 ("mm, compaction: persistently skip hugetlbfs pageblocks")
+0b423ca22f95 ("mm, page_alloc: inline pageblock lookup in page free fast paths")
+f75fb889d18d ("mm, page_alloc: avoid unnecessary zone lookups during pageblock operations")
+fdd048e12c9a ("mm, compaction: skip blocks where isolation fails in async direct compaction")

@@ -1,0 +1,7 @@
+3f84aa5ec052 ("base: soc: populate machine name in soc_device_register if empty")
+90be1f15c398 ("driver core: soc: remove layering violation for the soc_bus")
+6e12db376b60 ("base: soc: Allow early registration of a single SoC device")
+0656db9e445a ("base: soc: Let soc_device_match() return no match when called too early")
+ab6a713e7dc2 ("base: soc: Check for NULL SoC device attributes")
+c97db7cc7778 ("base: soc: Introduce soc_device_match() interface")
+1da1b3628df3 ("base: soc: Early register bus when needed")

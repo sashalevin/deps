@@ -1,0 +1,7 @@
+6ef8f7da9275 ("devlink: don't require setting features before registration")
+687125b5799c ("devlink: split out core code")
+e50ef40f9a9a ("devlink: rename devlink_netdevice_event -> devlink_port_netdevice_event")
+f05bd8ebeb69 ("devlink: move code to a dedicated directory")
+47b438cc2725 ("net: devlink: convert port_list into xarray")
+7666dbec7268 ("net: devlink: add WARN_ON_ONCE to check return value of unregister_netdevice_notifier_net() call")
+02a68a47eade ("net: devlink: track netdev with devlink_port assigned")

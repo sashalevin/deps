@@ -1,0 +1,4 @@
+9f83e00f4cc1 ("powerpc/64: Improve inline asm in arch_local_irq_disable")
+c2e480ba8227 ("powerpc/64: Add #defines for paca->soft_enabled flags")
+acb1feab320e ("powerpc/64: Don't trace irqs-off at interrupt return to soft-disabled context")
+ff967900c9d4 ("powerpc/64: Fix latency tracing for lazy irq replay")

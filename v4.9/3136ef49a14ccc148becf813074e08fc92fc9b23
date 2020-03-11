@@ -1,0 +1,7 @@
+3136ef49a14c ("rxrpc: Delay terminal ACK transmission on a client call")
+4e255721d157 ("rxrpc: Add service upgrade support for client connections")
+2baec2c3f854 ("rxrpc: Support network namespacing")
+540b1c48c37a ("rxrpc: Fix deadlock between call creation and sendmsg/recvmsg")
+3e018daf045f ("rxrpc: Show a call's hard-ACK cursors in /proc/net/rxrpc_calls")
+b54a134a7de4 ("rxrpc: Fix handling of enums-to-string translation in tracing")
+444306129a92 ("rxrpc: abstract away knowledge of IDR internals")

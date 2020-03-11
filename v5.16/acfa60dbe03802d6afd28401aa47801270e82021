@@ -1,0 +1,6 @@
+acfa60dbe038 ("arm64: mm: Fix "rodata=on" when CONFIG_RODATA_FULL_DEFAULT_ENABLED=y")
+bfa7965b33ab ("mm,kfence: decouple kfence from page granularity mapping judgement")
+2081b3bd0c11 ("arm64: fix rodata=full again")
+b9dd04a20f81 ("arm64/mm: fold check for KFENCE into can_set_direct_map()")
+2e8cff0a0eee ("arm64: fix rodata=full")
+52deda9551a0 ("Merge branch 'akpm' (patches from Andrew)")

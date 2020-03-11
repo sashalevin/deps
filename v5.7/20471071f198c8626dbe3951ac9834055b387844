@@ -1,0 +1,6 @@
+20471071f198 ("hwmon: (pmbus) Conditionally clear individual status bits for pmbus rev >= 1.2")
+5de3e13f7f6b ("hwmon: (pmbus) Introduce and use write_byte_data callback")
+35f165f08950 ("hwmon: (pmbus) Clear pmbus fault/warning bits after read")
+04e216d19e40 ("hwmon: (pmbus) Move boolean error condition check to generating code")
+a919ba06979a ("hwmon: (pmbus) Stop caching register values")
+8ba75b202849 ("hwmon: (pmbus/core) Use s64 instead of long for calculations")

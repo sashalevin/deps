@@ -1,0 +1,8 @@
+11990a5bd7e5 ("module: Correctly truncate sysfs sections output")
+b25a7c5af905 ("module: Do not expose section addresses to non-CAP_SYSLOG")
+ed66f991bb19 ("module: Refactor section attr into bin attribute")
+160251842cd3 ("kallsyms: Refactor kallsyms_show_value() to take cred")
+8d1b73dd25ff ("kernel: module: Use struct_size() helper")
+81365a947de4 ("kprobes: Show address of kprobes if kallsyms does")
+ffb9bd68ebdb ("kprobes: Show blacklist addresses as same as kallsyms does")
+7b87308e7108 ("Merge tag 'modules-for-v4.17-rc3' of git://git.kernel.org/pub/scm/linux/kernel/git/jeyu/linux")

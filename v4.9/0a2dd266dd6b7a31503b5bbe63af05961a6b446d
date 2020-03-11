@@ -1,0 +1,5 @@
+0a2dd266dd6b ("mm: make tlb_flush_pending global")
+56236a59556c ("mm: refactor TLB gathering API")
+16af97dc5a89 ("mm: migrate: prevent racy access to tlb_flush_pending")
+3ea277194daa ("mm, mprotect: flush TLB if potentially racing with a parallel reclaim leaving stale TLB entries")
+3e32158767b0 ("mm/mprotect.c: don't touch single threaded PTEs which are on the right node")

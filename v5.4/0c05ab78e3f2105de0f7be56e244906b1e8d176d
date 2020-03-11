@@ -1,0 +1,4 @@
+0c05ab78e3f2 ("ixgbe: propagate XFRM offload state direction instead of flags")
+f049efc7f7cd ("ixgbe: ensure IPsec VF<->PF compatibility")
+2de7e4f67599 ("ixgbevf: use xso.real_dev instead of xso.dev in callback functions of struct xfrmdev_ops")
+d785e1fec601 ("ixgbe: fail to create xfrm offload of IPsec tunnel mode SA")

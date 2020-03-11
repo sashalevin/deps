@@ -1,0 +1,2 @@
+80e4e1f47288 ("irqchip/gic-v3: Use dsb(ishst) to order writes with ICC_SGI1R_EL1 accesses")
+21ec30c0ef52 ("irqchip/gic-v3: Use wmb() instead of smb_wmb() in gic_raise_softirq()")

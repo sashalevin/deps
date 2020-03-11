@@ -1,0 +1,6 @@
+b86f86e8e7c5 ("serial: 8250: fix potential deadlock in rs485-mode")
+6e0a5de2136b ("serial: 8250: Use hrtimers for rs485 delays")
+b3965767d86c ("serial: 8250_port: fix runtime PM use in __do_stop_tx_rs485()")
+0c66940d584d ("tty/serial/8250: fix RS485 half-duplex RX")
+e490c9144cfa ("tty: Add software emulated RS485 support for 8250")
+a07a70bcb72e ("tty: Move serial8250_stop_rx() in front of serial8250_start_tx()")

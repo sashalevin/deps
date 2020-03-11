@@ -1,0 +1,4 @@
+1f4a08fed450 ("ALSA: hda: fix a possible null-pointer dereference due to data race in snd_hdac_regmap_sync()")
+1a462be52f45 ("ALSA: hda: Manage concurrent reg access more properly")
+ed180abba7f1 ("ALSA: hda: Fix race between creating and refreshing sysfs entries")
+1c96a2f67cd9 ("regmap: split up regmap_config.use_single_rw")

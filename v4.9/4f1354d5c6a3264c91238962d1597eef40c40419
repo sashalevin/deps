@@ -1,0 +1,4 @@
+4f1354d5c6a3 ("livepatch: Call klp_match_callback() in klp_find_callback() to avoid code duplication")
+9cb37357dfce ("livepatch: Use kallsyms_on_each_match_symbol() to improve performance")
+013c1667cf78 ("kallsyms: refactor {,module_}kallsyms_on_each_symbol")
+72f04b50d61c ("livepatch: Reduce the time of finding module symbols")

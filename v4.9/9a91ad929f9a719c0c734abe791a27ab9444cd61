@@ -1,0 +1,5 @@
+9a91ad929f9a ("ubsan: Remove vla bound checks.")
+f0996bc2978e ("ubsan: Fix nasty -Wbuiltin-declaration-mismatch GCC-9 warnings")
+bac7a1fff792 ("lib/ubsan: remove returns-nonnull-attribute checks")
+42440c1f9911 ("lib/ubsan: add type mismatch handler for new GCC/Clang")
+b8fe1120b4ba ("lib/ubsan.c: s/missaligned/misaligned/")

@@ -1,0 +1,8 @@
+851d0a73c90e ("bridge: Fix a deadlock when enabling multicast snooping")
+4effd28c1245 ("bridge: join all-snoopers multicast address")
+a26d94bff4d5 ("net: bridge: remove unneeded variable 'err'")
+13cefad2f2c1 ("net: bridge: convert and rename mcast disabled")
+be3664a03807 ("net: bridge: convert group_addr_set option to a bit")
+8df3510f28e5 ("net: bridge: convert nf call options to bits")
+ae75767ec206 ("net: bridge: add bitfield for options and convert vlan opts")
+c7ea20c9da5b ("ipv6/mcast: init as INCLUDE when join SSM INCLUDE group")

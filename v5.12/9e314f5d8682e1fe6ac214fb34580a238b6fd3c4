@@ -1,0 +1,7 @@
+9e314f5d8682 ("bpf: drop knowledge-losing __reg_combine_{32,64}_into_{64,32} logic")
+3844d153a41a ("bpf: Fix insufficient bounds propagation from adjust_scalar_min_max_vals")
+e572ff80f05c ("bpf: Make 32->64 bounds propagation slightly more robust")
+3cf2b61eb067 ("bpf: Fix signed bounds propagation after mov32")
+388e2c0b9783 ("bpf: Fix propagation of signed bounds from 64-bit min/max into 32-bit.")
+b9979db83401 ("bpf: Fix propagation of bounds from 64-bit min/max into 32-bit and var_off.")
+10bf4e83167c ("bpf: Fix propagation of 32 bit unsigned bounds from 64 bit bounds")

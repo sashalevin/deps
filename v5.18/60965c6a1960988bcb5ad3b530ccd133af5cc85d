@@ -1,0 +1,5 @@
+60965c6a1960 ("media: cec-pin.c: disabling the adapter cannot call kthread_stop")
+e2ed5024ac2b ("media: cec: use call_op and check for !unregistered")
+f9d0ecbf56f4 ("media: cec: correctly pass on reply results")
+590a8e564c6e ("media: cec: abort if the current transmit was canceled")
+3813c932ed97 ("media: cec: call enable_adap on s_log_addrs")

@@ -1,0 +1,7 @@
+6a02124c87f0 ("ACPI: HMAT: Release platform device in case of platform_device_add_data() fails")
+c01044cc8191 ("ACPI: HMAT: refactor hmat_register_target_device to hmem_register_device")
+59b2c5b63587 ("ACPI: NUMA: HMAT: fix a section mismatch")
+cf8741ac57ed ("ACPI: NUMA: HMAT: Register "soft reserved" memory as an "hmem" device")
+a6c7f4c6aea5 ("device-dax: Add a driver for "hmem" devices")
+33dd70752cd7 ("lib: Uplevel the pmem "region" ida to a global allocator")
+6cb2e9ee51b5 ("Merge tag 'libnvdimm-for-5.4' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

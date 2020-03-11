@@ -1,0 +1,7 @@
+2f9d09394d13 ("net: mvneta: Add xdp tx return bulking support")
+632bb64f126a ("net: mvneta: try to use in-irq pp cache in mvneta_txq_bufs_free")
+b0a43db9087a ("net: mvneta: add XDP_TX support")
+9e58c8b41065 ("net: mvneta: make tx buffer array agnostic")
+0db51da7a8e9 ("net: mvneta: add basic XDP support")
+8dc9a0888f4c ("net: mvneta: rely on build_skb in mvneta_rx_swbm poll routine")
+568a3fa24a95 ("net: mvneta: introduce page pool API for sw buffer manager")

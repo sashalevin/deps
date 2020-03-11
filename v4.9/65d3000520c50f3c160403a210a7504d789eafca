@@ -1,0 +1,7 @@
+65d3000520c5 ("ext4: ext4_xattr_delete_inode() should return accurate errors")
+990461dd85d5 ("ext4: add missing le32_to_cpu(e_value_inum) conversions")
+e50e5129f384 ("ext4: xattr-in-inode support")
+b8cb5a545c3d ("ext4: fix quota charging for shared xattr blocks")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+d7614cc16146 ("ext4: correctly detect when an xattr value has an invalid size")
+2f8f5e76c7da ("ext4: avoid lockdep warning when inheriting encryption context")

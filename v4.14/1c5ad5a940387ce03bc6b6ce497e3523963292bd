@@ -1,0 +1,7 @@
+1c5ad5a94038 ("net: dsa: b53: Set untag_bridge_pvid")
+ed409f3bbaa5 ("net: dsa: b53: Configure VLANs while not filtering")
+9f01a71c5cbe ("net: dsa: b53: remove redundant premature assignment to new_pvid")
+0e62f543bed0 ("net: dsa: Fix duplicate frames flooded by learning")
+864cd7b05dec ("net: dsa: b53: Let DSA call .port_vlan_filtering only when necessary")
+7228b23e68f7 ("net: dsa: b53: Let DSA handle mismatched VLAN filtering settings")
+dad8d7c6452b ("net: dsa: b53: Properly account for VLAN filtering")

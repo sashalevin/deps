@@ -1,0 +1,8 @@
+739acd85ffdb ("drm/tilcdc: Remove obsolete "ti,tilcdc,slave" dts binding support")
+44cd3939c111 ("drm/tilcdc: Remove redundant OF_DETACHED flag setting")
+cf97ee196293 ("drm/tilcdc: Return directly after a failed kfree_table_init() in tilcdc_convert_slave_node()")
+952e8faec53e ("drm/tilcdc: mark symbols static where possible")
+c4263233f30e ("drivers/of: Specify parent node in of_fdt_unflatten_tree()")
+947c82cbf01c ("drivers/of: Rename unflatten_dt_node()")
+50800082f176 ("drivers/of: Avoid recursively calling unflatten_dt_node()")
+dfbd4c6eff35 ("drivers/of: Split unflatten_dt_node()")

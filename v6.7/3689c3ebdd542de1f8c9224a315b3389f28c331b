@@ -1,0 +1,5 @@
+3689c3ebdd54 ("fs/proc/task_mmu: account non-present entries as "maybe shared, but no idea how often"")
+6401a2e69008 ("fs/proc/task_mmu: convert smaps_hugetlb_range() to work on folios")
+039d26d10d62 ("proc: convert smaps_pmd_entry to use a folio")
+27bb0a70e524 ("proc: pass a folio to smaps_page_accumulate()")
+6c977f36dc36 ("proc: convert smaps_account() to use a folio")

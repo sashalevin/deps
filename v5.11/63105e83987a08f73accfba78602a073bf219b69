@@ -1,0 +1,4 @@
+63105e83987a ("rtnl: split __rtnl_newlink() into two functions")
+c92bf26ccebc ("rtnl: allocate more attr tables on the heap")
+c6f6f2444bdb ("rtnetlink: make sure to refresh master_dev/m_ops in __rtnl_newlink()")
+8c713dc93ca9 ("rtnetlink: add alloc() method to rtnl_link_ops")

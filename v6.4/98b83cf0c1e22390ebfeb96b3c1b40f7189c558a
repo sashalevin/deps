@@ -1,0 +1,4 @@
+98b83cf0c1e2 ("x86/cpu: Remove useless work in detect_tme_early()")
+cd2236c2f49e ("x86/cpu: Clear TME feature flag if TME is not enabled by BIOS")
+6890cb1ace35 ("x86/cpu/intel: Detect TME keyid bits before setting MTRR mask registers")
+4da2131fac10 ("x86/microcode/intel: Move microcode functions out of cpu/intel.c")

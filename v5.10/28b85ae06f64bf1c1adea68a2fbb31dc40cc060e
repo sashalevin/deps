@@ -1,0 +1,3 @@
+28b85ae06f64 ("KVM: Drop bogus "pfn != 0" guard from kvm_release_pfn()")
+357a18ad230f ("KVM: Kill kvm_map_gfn() / kvm_unmap_gfn() and gfn_to_pfn_cache")
+28bd726aa404 ("KVM: Pass in kvm pointer into mark_page_dirty_in_slot()")

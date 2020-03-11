@@ -1,0 +1,7 @@
+a4ffe09fc2d7 ("net: dsa: still fast-age ports joining a bridge if they can't configure learning")
+4eab90d9737b ("net: dsa: don't fast age bridge ports with learning turned off")
+045c45d1f598 ("net: dsa: centralize fast ageing when address learning is turned off")
+39f32101543b ("net: dsa: don't fast age standalone ports")
+010e269f91be ("net: dsa: sync up switchdev objects and port attributes when joining the bridge")
+5961d6a12c13 ("net: dsa: inherit the actual bridge port flags at join time")
+041bd545e124 ("net: dsa: mv88e6xxx: Offload bridge learning flag")

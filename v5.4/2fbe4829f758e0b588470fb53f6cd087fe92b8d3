@@ -1,0 +1,8 @@
+2fbe4829f758 ("crypto: atmel-aes - Detecting in-place operations two sg lists")
+534b32a8be27 ("crypto: atmel-aes - Add blocksize constraint for ECB and CBC modes")
+c65d123742a7 ("crypto: atmel-{aes,tdes} - Do not save IV for ECB mode")
+61b0dd664fa1 ("crypto: atmel-tdes - Set the IV after {en,de}crypt")
+967d4910ef0e ("crypto: atmel-tdes - switch to skcipher API")
+7ada42d2519e ("crypto: atmel-aes - switch to skcipher API")
+1520c72596dd ("crypto: atmel - Fix authenc support when it is set to m")
+86ef1dfcb561 ("crypto: atmel-aes - Fix IV handling when req->nbytes < ivsize")

@@ -1,0 +1,5 @@
+77473d1a962f ("bpf: Free struct bpf_cpumask in call_rcu handler")
+5d5de3a431d8 ("bpf: Only allocate one bpf_mem_cache for bpf_cpumask_ma")
+cb4a21ea592f ("bpf: Build-time assert that cpumask offset is zero")
+bdbda395845e ("bpf/docs: Document cpumask kfuncs in a new file")
+516f4d3397c9 ("bpf: Enable cpumasks to be queried and used as kptrs")

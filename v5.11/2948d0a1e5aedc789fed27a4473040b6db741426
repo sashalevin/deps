@@ -1,0 +1,5 @@
+2948d0a1e5ae ("mptcp: factor out __mptcp_retrans helper()")
+341c65242fe1 ("mptcp: fix DATA_FIN processing for orphaned sockets")
+b263b0d7d60b ("mptcp: move subflow close loop after sk close check")
+e98014306840 ("mptcp: move pm netlink work into pm_netlink")
+067065422fcd ("mptcp: add the outgoing MP_PRIO support")

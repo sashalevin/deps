@@ -1,0 +1,5 @@
+4bca5303eb55 ("ath9k: define all EEPROM fields in Little Endian format")
+68fbe792916c ("ath9k: Make the EEPROM swapping check use the eepmisc register")
+9bff7428d55a ("ath9k: consistently use get_eeprom_rev(ah)")
+7d7dc5386836 ("ath9k: replace eeprom_param EEP_MINOR_REV with get_eeprom_rev")
+81a834e3483c ("ath9k: Add a #define for the EEPROM "eepmisc" endianness bit")

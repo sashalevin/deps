@@ -1,0 +1,8 @@
+9553ae3497f0 ("hwrng: cctrng - use dev_err_probe in error paths")
+8bcd96893848 ("hwrng: cctrng - let devres enable the clock")
+f50281df94d7 ("hwrng: cctrng - use devm_platform_ioremap_resource() to simplify")
+4d6aef2f2eaa ("hwrng: cctrn - Simplify with dev_err_probe()")
+a583ed310bb6 ("hwrng: cctrng - introduce Arm CryptoCell driver")
+ace74b627c88 ("hwrng: ks-sa - move TI Keystone driver into the config menu structure")
+90c4b29eb1e5 ("hwrng: ks-sa - Enable COMPILE_TEST")
+c98429297d8b ("hwrng: npcm - add NPCM RNG driver")

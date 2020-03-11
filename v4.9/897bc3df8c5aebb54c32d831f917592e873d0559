@@ -1,0 +1,7 @@
+897bc3df8c5a ("powerpc/tm: Limit TM code inside PPC_TRANSACTIONAL_MEM")
+6f5b9f018f4c ("powerpc/tm: Unset MSR[TS] if not recheckpointing")
+f3675644e172 ("powerpc/syscalls: signal_{32, 64} - switch to SYSCALL_DEFINE")
+bf7fb32dd5fc ("powerpc: Add missing prototypes for ppc_select() & ppc_fadvise64_64()")
+b53875c4b4f2 ("powerpc: Add missing prototypes for sys_sigreturn() & sys_rt_sigreturn()")
+0d60619e1c0c ("powerpc: Add missing prototype for sys_debug_setcontext()")
+67b464a89c21 ("powerpc/32: Mark both tmp variables as unused")

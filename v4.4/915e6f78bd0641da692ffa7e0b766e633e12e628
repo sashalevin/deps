@@ -1,0 +1,5 @@
+915e6f78bd06 ("x86/kvm/hyper-v: inject #GP only when invalid SINTx vector is unmasked")
+98f65ad45844 ("x86/kvm/hyper-v: remove stale entries from vec_bitmap/auto_eoi_bitmap on vector change")
+7be58a6488a9 ("kvm/x86: Skip SynIC vector check for QEMU side")
+5c919412fe61 ("kvm/x86: Hyper-V synthetic interrupt controller")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

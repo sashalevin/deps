@@ -1,0 +1,7 @@
+0785dad48003 ("r8169: use devm_mdiobus_register")
+2e8c339b4946 ("r8169: fix PHY driver check on platforms w/o module softdeps")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+703732f0058b ("r8169: replace mii_bus member with phy_device member in struct rtl8169_private")
+ee28b30cbbe0 ("r8169: fix crash if CONFIG_DEBUG_SHIRQ is enabled")
+649f0837a8cc ("r8169: fix broken Wake-on-LAN from S5 (poweroff)")
+38caff5a445b ("r8169: handle all interrupt events in the hard irq handler")

@@ -1,0 +1,6 @@
+372904c080be ("seq_file: move seq_escape() to a header")
+cc72181a6599 ("seq_file: drop unused *_escape_mem_ascii()")
+fc3de02eae89 ("seq_file: convert seq_escape() to use seq_escape_str()")
+e7ed4a3b922b ("seq_file: add seq_escape_str() as replica of string_escape_str()")
+1d31aa172a4e ("seq_file: introduce seq_escape_mem()")
+ea053e164cc8 ("nfsd: escape high characters in binary data")

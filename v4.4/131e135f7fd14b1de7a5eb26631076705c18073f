@@ -1,0 +1,8 @@
+131e135f7fd1 ("arm64: instrument smp_{load_acquire,store_release}")
+994870bead4a ("arm64: ensure extension of smp_store_release value")
+f99a250cb6a3 ("arm64: barriers: introduce nops and __nops macros for NOP sequences")
+6c94f27ac847 ("arm64: switch to relative exception tables")
+57f4959bad0a ("arm64: kernel: Add support for User Access Override")
+d5370f754875 ("arm64: prefetch: add alternative pattern for CPUs without a prefetcher")
+811d61e384e2 ("arm64: futex.h: Add missing PAN toggling")
+fd072df850e5 ("arm64: define __smp_xxx")

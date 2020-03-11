@@ -1,0 +1,5 @@
+ae3419fbac84 ("vc_screen: don't clobber return value in vcs_read")
+226fae124b2d ("vc_screen: move load of struct vc_data pointer in vcs_read() to avoid UAF")
+d21b0be246bf ("vt: introduce unicode mode for /dev/vcs")
+d8ae72427187 ("vt: preserve unicode values corresponding to screen characters")
+4b4ecd9cb853 ("vt: Perform safe console erase only once")

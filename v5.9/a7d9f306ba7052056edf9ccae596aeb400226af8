@@ -1,0 +1,6 @@
+a7d9f306ba70 ("arm64: drop pfn_valid_within() and simplify pfn_valid()")
+782276b4d0ad ("arm64: Force SPARSEMEM_VMEMMAP as the only memory management model")
+86c83365ab76 ("arm64: kasan: fix page_alloc tagging with DEBUG_VIRTUAL")
+093bbe211ea5 ("arm64/mm: Reorganize pfn_valid()")
+eeb0753ba27b ("arm64/mm: Fix pfn_valid() for ZONE_DEVICE based memory")
+f0b13ee23241 ("arm64/sparsemem: reduce SECTION_SIZE_BITS")

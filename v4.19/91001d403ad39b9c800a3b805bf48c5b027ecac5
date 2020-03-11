@@ -1,0 +1,8 @@
+91001d403ad3 ("KVM: x86: Warn on zero-size save state for valid CPUID 0xD.N sub-leaf")
+1893c9415ae8 ("KVM: x86: Check for CPUID 0xD.N support before validating array size")
+3dc4a9cf05e5 ("KVM: x86: Move CPUID 0xD.1 handling out of the index>0 loop")
+50a9e1a4b1de ("KVM: cpuid: rename do_cpuid_1_ent")
+d9aadaf68992 ("KVM: cpuid: set struct kvm_cpuid_entry2 flags in do_cpuid_1_ent")
+54d360d41211 ("KVM: cpuid: extract do_cpuid_7_mask and support multiple subleafs")
+ab8bcf649711 ("KVM: cpuid: do_cpuid_ent works on a whole CPUID function")
+fa4bff165070 ("Merge branch 'x86-mds-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

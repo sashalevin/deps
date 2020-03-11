@@ -1,0 +1,7 @@
+8d93b7011831 ("s390/idle: allow arch_cpu_idle() to be kprobed")
+44292c868473 ("s390/idle: merge enabled_wait() and arch_cpu_idle()")
+58c644ba512c ("sched/idle: Fix arch_cpu_idle() vs tracing")
+ca589ea8d1b6 ("s390/idle: fix suspicious RCU usage")
+9864f5b5943a ("cpuidle: Move trace_cpu_idle() into generic code")
+1098582a0f6c ("sched,idle,rcu: Push rcu_idle deeper into the idle path")
+6589c93f9989 ("s390: add trace events for idle enter/exit")

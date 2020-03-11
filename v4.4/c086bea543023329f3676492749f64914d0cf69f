@@ -1,0 +1,4 @@
+c086bea54302 ("gpio: ich: Convert pr_<level> to dev_<level>")
+ff4709b44cc0 ("gpio: ich: Switch to use struct device instead of platform_device")
+8a06b08ec307 ("gpio: ich: Use devm_request_region")
+58383c78425e ("gpio: change member .dev to .parent")

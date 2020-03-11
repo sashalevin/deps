@@ -1,0 +1,4 @@
+326e742533bf ("KVM: nVMX/nSVM: Fix bug which sets vcpu->arch.tsc_offset to L1 tsc_offset")
+dd259935e4ee ("kvm: x86: move MSR_IA32_TSC handling to x86.c")
+e79f245ddec1 ("X86/KVM: Properly update 'tsc_offset' to represent the running guest")
+15303ba5d1cd ("Merge tag 'kvm-4.16-1' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

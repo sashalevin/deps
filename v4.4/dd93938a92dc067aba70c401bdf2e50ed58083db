@@ -1,0 +1,7 @@
+dd93938a92dc ("x86/arch_prctl: Rename 'code' argument to 'option'")
+2eefd8789698 ("x86/arch_prctl/vdso: Add ARCH_MAP_VDSO_*")
+576ebfefd37b ("x86/vdso: Replace calculate_addr in map_vdso() with addr")
+b059a453b1cf ("x86/vdso: Add mremap hook to vm_special_mapping")
+69048176078a ("vdso: make arch_setup_additional_pages wait for mmap_sem for write killable")
+b7a584598aea ("x86/iopl/64: Properly context-switch IOPL on Xen PV")
+76b36fa896a2 ("Merge tag 'v4.5-rc1' into x86/asm, to refresh the branch before merging new changes")

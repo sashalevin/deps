@@ -1,0 +1,8 @@
+6aa211e8ce69 ("fix address space warnings in ipc/")
+20bc2a3aff5a ("ipc(2): move compat to native")
+28327fae62b0 ("ipc: make use of compat ipc_perm helpers")
+c0ebccb6fa1e ("semctl(): move compat to native")
+469391684626 ("msgctl(): move compat to native")
+553f770ef71b ("ipc: move compat shmctl to native")
+9ba720c18622 ("shmctl: split the work from copyin/copyout")
+63980c80e1e9 ("ipc/shm.c: coding style fixes")

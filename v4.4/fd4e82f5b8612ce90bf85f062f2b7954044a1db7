@@ -1,0 +1,3 @@
+fd4e82f5b861 ("net: socket: add __compat_sys_recvfrom() helper; remove in-kernel call to compat syscall")
+d27e9afc6420 ("net: socket: replace call to sys_recv() with __sys_recvfrom()")
+7a09e1eb9c1e ("net: socket: add __sys_recvfrom() helper; remove in-kernel call to syscall")

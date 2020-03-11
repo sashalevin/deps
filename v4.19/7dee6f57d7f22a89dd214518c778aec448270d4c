@@ -1,0 +1,8 @@
+7dee6f57d7f2 ("exfat: reuse exfat_inode_info variable instead of calling EXFAT_I()")
+04cee52fb8bd ("exfat: remove 'rwoffset' in exfat_inode_info")
+45882a6a0dbd ("exfat: use i_blocksize() to get blocksize")
+98d917047e8b ("exfat: add file operations")
+ca06197382bd ("exfat: add directory operations")
+5f2aa075070c ("exfat: add inode operations")
+719c1e182916 ("exfat: add super block operations")
+1acf1a564b60 ("exfat: add in-memory and on-disk structures and headers")

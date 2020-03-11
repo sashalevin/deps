@@ -1,0 +1,7 @@
+50bc913d526b ("KVM: selftests: Ignore CPUID.0DH.1H in get_cpuid_test")
+fb18d053b7f8 ("selftest: kvm: x86: test KVM_GET_CPUID2 and guest visible CPUIDs against KVM_GET_SUPPORTED_CPUID")
+f88d4f2f287e ("selftests: kvm/x86: add test for pmu msr MSR_IA32_PERF_CAPABILITIES")
+3cea1891748e ("selftests: kvm: Test MSR exiting to userspace")
+8aa426e854c4 ("selftests: kvm: keep .gitignore add to date")
+84292e565951 ("KVM: selftests: Add dirty ring buffer test")
+60f644fb5198 ("KVM: selftests: Introduce after_vcpu_run hook for dirty log test")

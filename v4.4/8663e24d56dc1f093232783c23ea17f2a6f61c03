@@ -1,0 +1,7 @@
+8663e24d56dc ("sched/fair: Reorder cgroup creation code")
+b7fa30c9cc48 ("sched/fair: Fix post_init_entity_util_avg() serialization")
+eb58075149b7 ("sched/core: Introduce 'struct rq_flags'")
+3e71a462dd48 ("sched/core: Move task_rq_lock() out of line")
+2b8c41daba32 ("sched/fair: Initiate a new task's util avg to a bounded value")
+ff77e4685359 ("sched/rt: Fix PI handling vs. sched_setscheduler()")
+6fe1f348b3dd ("sched/cgroup: Fix cgroup entity load tracking tear-down")

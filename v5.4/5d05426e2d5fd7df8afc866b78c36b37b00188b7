@@ -1,0 +1,6 @@
+5d05426e2d5f ("blk-mq: don't touch ->tagset in blk_mq_get_sq_hctx")
+b6e68ee82585 ("blk-mq: Improve performance of non-mq IO schedulers with multiple HW queues")
+b9151e7bca82 ("blk-mq: Add blk_mq_delay_run_hw_queues() API call")
+105663f73e71 ("blk-mq: Document functions for sending request")
+626fb735a43d ("blk-mq: Make blk_mq_run_hw_queue() return void")
+27a46989a82c ("blk-mq: Inline status checkers")

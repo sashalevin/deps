@@ -1,0 +1,6 @@
+187de7c2aad8 ("arm64/sysreg: Standardise naming of bitfield constants in OSL[AS]R_EL1")
+7dabf02f43a1 ("KVM: arm64: Emulate the OS Lock")
+f24adc65c556 ("KVM: arm64: Allow guest to set the OSLK bit")
+d42e26716d03 ("KVM: arm64: Stash OSLSR_EL1 in the cpu context")
+e2ffceaae508 ("KVM: arm64: Correctly treat writes to OSLSR_EL1 as undefined")
+f76f89e2f73d ("KVM: arm64: Refactor sys_regs.h,c for nVHE reuse")

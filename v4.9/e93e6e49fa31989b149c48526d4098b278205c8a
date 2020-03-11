@@ -1,0 +1,7 @@
+e93e6e49fa31 ("scsi: ufs: Use WQ_HIGHPRI for gating work")
+10e5e37581fc ("scsi: ufs: Add clock ungating to a separate workqueue")
+b427411abb3d ("scsi: ufs: Add sysfs node to dynamically control clock gating")
+7ff5ab473633 ("scsi: ufs: add tracing support")
+30fc33f1ef47 ("scsi: ufs: fix race between clock gating and devfreq scaling work")
+dcea0bfbc4cb ("scsi: ufs: fix sense buffer size to 18 bytes")
+e3ce73d69aff ("scsi: ufs: fix bugs related to null pointer access and array size")

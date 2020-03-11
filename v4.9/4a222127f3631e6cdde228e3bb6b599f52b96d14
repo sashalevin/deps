@@ -1,0 +1,8 @@
+4a222127f363 ("mm/page_alloc.c: initialize num_movable in move_freepages()")
+02aa0cdd7248 ("mm, page_alloc: count movable pages when stealing from pageblock")
+3bc48f96cf11 ("mm, page_alloc: split smallest stolen page in fallback")
+a6ffdc07847e ("mm: use is_migrate_highatomic() to simplify the code")
+29fac03bef72 ("mm: make unreserve highatomic functions reliable")
+04c8716f7b00 ("mm: try to exhaust highatomic reserve before the OOM")
+4855e4a7f29d ("mm: prevent double decrease of nr_reserved_highatomic")
+88ed365ea227 ("mm: don't steal highatomic pageblock")

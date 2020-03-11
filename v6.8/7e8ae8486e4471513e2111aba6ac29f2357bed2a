@@ -1,0 +1,7 @@
+7e8ae8486e44 ("fs/nfsd: fix update of inode attrs in CB_GETATTR")
+f488138b5267 ("NFSD: fix endianness issue in nfsd4_encode_fattr4")
+c5967721e106 ("NFSD: handle GETATTR conflict with write delegation")
+6487a13b5c6b ("NFSD: add support for CB_GETATTR callback")
+4b14885411f7 ("nfsd: make all of the nfsd stats per-network namespace")
+93483ac5fec6 ("nfsd: expose /proc/net/sunrpc/nfsd in net namespaces")
+d98416cc2154 ("nfsd: rename NFSD_NET_* to NFSD_STATS_*")

@@ -1,0 +1,6 @@
+2fb857bc9f9e ("powerpc/kcsan: Add exclusions from instrumentation")
+f4a0318f278d ("powerpc: add support for syscall stack randomization")
+1547db7d1f44 ("powerpc: Move system_call_exception() to syscall.c")
+5352090a9995 ("powerpc/kasan: Don't instrument non-maskable or raw interrupts")
+fd1feade75fb ("powerpc/vdso: Merge vdso64 and vdso32 into a single directory")
+d88378d8d2c7 ("powerpc/vdso: Rework VDSO32 makefile to add a prefix to object files")

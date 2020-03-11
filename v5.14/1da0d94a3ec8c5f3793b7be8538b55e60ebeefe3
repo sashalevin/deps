@@ -1,0 +1,7 @@
+1da0d94a3ec8 ("frontswap: remove support for multiple ops")
+f328c1d16e4c ("frontswap: simplify frontswap_register_ops")
+3e8e1af63d7a ("frontswap: remove frontswap_curr_pages")
+0b364446d734 ("frontswap: remove frontswap_shrink")
+71024cb4a0bf ("frontswap: remove frontswap_tmem_exclusive_gets")
+3d6035f13600 ("frontswap: remove frontswap_writethrough")
+3795f46b83c6 ("mm/frontswap.c: use non-atomic '__set_bit()' when possible")

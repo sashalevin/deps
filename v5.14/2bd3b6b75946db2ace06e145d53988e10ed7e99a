@@ -1,0 +1,6 @@
+2bd3b6b75946 ("scsi: ufs: core: scsi_get_lba() error fix")
+3f2c1002e0fc ("scsi: ufs: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+102851fc9a0d ("scsi: ufs: ufshpb: Remove redundant initialization of variable 'lba'")
+a5402cdcc2a9 ("scsi: ufs: Fix unsigned int compared with less than zero")
+4728ab4a8e64 ("scsi: ufs: Remove ufshcd_valid_tag()")
+54815088859f ("scsi: ufs: core: Use scsi_get_lba() to get LBA")

@@ -1,0 +1,6 @@
+b58b133e680b ("iommu: Handle iommu faults for a bad iopf setup")
+fca5b78511e9 ("iommu: Restore lost return in iommu_report_device_fault()")
+06cdcc32d657 ("iommu: Add attach handle to struct iopf_group")
+14678219cf40 ("iommu: Introduce domain attachment handle")
+d2f85a263883 ("iommu: Pass domain to remove_dev_pasid() op")
+b025dea63cde ("iommu: Undo pasid attachment only for the devices that have succeeded")

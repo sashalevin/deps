@@ -1,0 +1,7 @@
+5d1ef76f5a22 ("fixdep: move global variables to local variables of main()")
+4003fd80cba9 ("fixdep: factor out common code for reading files")
+01b5cbe7012f ("fixdep: use malloc() and read() to load dep_file to buffer")
+dee81e988674 ("fixdep: faster CONFIG_ search")
+d8329e35cc08 ("fixdep: accept extra dependencies on stdin")
+46fe94ad18aa ("kbuild: fixdep: Check fstat(2) return value")
+4c835b57b8de ("fixdep: constify strrcmp arguments")

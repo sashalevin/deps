@@ -1,0 +1,6 @@
+5d4cc87414c5 ("net: reorganize "struct sock" fields")
+419ce133ab92 ("tcp: allow again tcp_disconnect() when threads are waiting")
+f9ae3204fb45 ("net/tls: split tls_rx_reader_lock")
+e1d001fa5b47 ("net: ioctl: Use kernel memory on protocol ioctl callbacks")
+4faeee0cf8a5 ("tcp: deny tcp_disconnect() when threads are waiting")
+d0ac89f6f987 ("net: deal with most data-races in sk_wait_event()")

@@ -1,0 +1,3 @@
+d9928ac5eba5 ("dm writecache: use bdev_nr_sectors() instead of open-coded equivalent")
+4134455f2aaf ("dm writecache: fix writing beyond end of underlying device when shrinking")
+31b22120194b ("dm writecache: fix data corruption when reloading the target")

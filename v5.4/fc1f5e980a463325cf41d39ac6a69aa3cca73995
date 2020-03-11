@@ -1,0 +1,6 @@
+fc1f5e980a46 ("mm: sparse: pass section_nr to find_memory_block")
+178bdbed3e0c ("drivers/base/memory: rename base_memory_block_id to memory_block_id")
+40ba2cde77e7 ("drivers/base/memory: init_memory_block() first parameter is not necessary")
+68c3a6ac65f6 ("drivers/base/memory.c: drop section_count")
+3f9903b9ca5e ("mm: remove the memory isolate notifier")
+848e19ad3c33 ("drivers/base/memory.c: drop the mem_sysfs_mutex")

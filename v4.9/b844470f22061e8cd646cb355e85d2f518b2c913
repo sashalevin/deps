@@ -1,0 +1,7 @@
+b844470f2206 ("efi/arm: libstub: add a root memreserve config table")
+e69176d68d26 ("ef/libstub/arm/arm64: Randomize the base of the UEFI rt services region")
+60f38de7a8d4 ("efi/libstub: Unify command line param parsing")
+b3879a4d3a31 ("efi/libstub: Make file I/O chunking x86-specific")
+de8cb458625c ("efi: Get and store the secure boot status")
+568bc4e87033 ("efi/arm*/libstub: Invoke EFI_RNG_PROTOCOL to seed the UEFI RNG table")
+a6a144698db9 ("efi/libstub: Add random.c to ARM build")

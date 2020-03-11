@@ -1,0 +1,8 @@
+7e11dca14b27 ("mm: create ptdesc equivalents for pgtable_{pte,pmd}_page_{ctor,dtor}")
+6ed1b8a09deb ("mm: convert ptlock_free() to use ptdescs")
+7e5f42ae3413 ("mm: convert pmd_ptlock_free() to use ptdescs")
+75b25d49ca66 ("mm: convert ptlock_init() to use ptdescs")
+edbaefe53c64 ("mm: convert pmd_ptlock_init() to use ptdescs")
+1865484af6b2 ("mm: convert ptlock_ptr() to use ptdescs")
+f5ecca06b3a5 ("mm: convert ptlock_alloc() to use ptdescs")
+f8546d8494ca ("mm: convert pmd_pgtable_page() callers to use pmd_ptdesc()")

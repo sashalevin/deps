@@ -1,0 +1,6 @@
+0cb26ec32085 ("KVM: selftests: Verify the guest can read back the x2APIC ICR it wrote")
+3426cb48adb4 ("KVM: selftests: Test x2APIC ICR reserved bits")
+faf06a238254 ("KVM: selftests: Skip ICR.BUSY test in xapic_state_test if x2APIC is enabled")
+6d85f51a1f08 ("KVM: selftests: Rename the ASSERT_EQ macro")
+ae895cbe613a ("KVM: selftests: Extend x86's sync_regs_test to check for CR4 races")
+bb05b0ef627f ("Merge tag 'kvm-x86-selftests-6.5' of https://github.com/kvm-x86/linux into HEAD")

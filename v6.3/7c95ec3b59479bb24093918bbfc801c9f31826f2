@@ -1,0 +1,6 @@
+7c95ec3b5947 ("drm/i915: Only check eDP HPD when AUX CH is shared")
+cfe5bdfb27fa ("drm/i915: Check HPD live state during eDP probe")
+02107ef11b43 ("drm/i915: Use encoder->devdata more")
+9151c85cbb2c ("drm/i915: Replace intel_bios_is_port_hpd_inverted() with intel_bios_encoder_hpd_invert()")
+5f42196d3929 ("drm/i915: Replace intel_bios_is_lane_reversal_needed() with intel_bios_encoder_lane_reversal()")
+db5d650ff0b5 ("drm/i915: Replace intel_bios_is_lspcon_present() with intel_bios_encoder_is_lspcon()")

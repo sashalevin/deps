@@ -1,0 +1,7 @@
+ae79dbf60905 ("ipv6/addrconf: use a boolean to choose between UNREGISTER/DOWN")
+d208a42a62e7 ("ipv6/addrconf: call addrconf_ifdown with consistent values")
+0aef78aa7b39 ("ipv6: addrconf: don't evaluate keep_addr_on_down twice")
+4c981e28d373 ("ipv6: Prepare to handle multiple netdev events")
+2127d95aef6c ("ipv6: Clear nexthop flags upon netdev up")
+9fcb0714dc38 ("ipv6: Remove redundant route flushing during namespace dismantle")
+8ef802aa8ec8 ("ipv6: prepare RCU lookups for idev->addr_list")

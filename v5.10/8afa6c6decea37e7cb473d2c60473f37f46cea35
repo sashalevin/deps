@@ -1,0 +1,5 @@
+8afa6c6decea ("serial: max310x: fail probe if clock crystal is unstable")
+93cd256ab224 ("serial: max310x: improve crystal stable clock detection")
+0419373333c2 ("serial: max310x: set default value when reading clock ready bit")
+d4d6f03c4fb3 ("serial: max310x: Try to get crystal clock rate from property")
+974e454d6f96 ("serial: max310x: Use devm_clk_get_optional() to get the input clock")

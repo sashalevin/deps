@@ -1,0 +1,4 @@
+0f0796945614 ("shmem: introduce shmem_inode_acct_block")
+b1cc94ab2f2b ("shmem: shmem_charge: verify max_block is not exceeded before inode update")
+cb658a453b93 ("userfaultfd: shmem: avoid leaking blocks and used blocks in UFFDIO_COPY")
+4c27fe4c4c84 ("userfaultfd: shmem: add shmem_mcopy_atomic_pte for userfaultfd support")

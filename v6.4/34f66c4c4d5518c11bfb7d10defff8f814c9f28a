@@ -1,0 +1,5 @@
+34f66c4c4d55 ("arm64: Use a positive cpucap for FP/SIMD")
+14567ba42c57 ("arm64: Rename SVE/SME cpu_enable functions")
+907722917002 ("arm64: Use build-time assertions for cpucap ordering")
+b206a708cbfb ("arm64: Add feature detection for fine grained traps")
+c876c3f182a5 ("KVM: arm64: Relax trapping of CTR_EL0 when FEAT_EVT is available")

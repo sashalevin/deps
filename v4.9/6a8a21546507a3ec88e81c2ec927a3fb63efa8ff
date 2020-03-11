@@ -1,0 +1,6 @@
+6a8a21546507 ("nbd: stop leaking sockets")
+9442b739207a ("nbd: cleanup ioctl handling")
+124d6db07c3b ("nbd: use our own workqueue for recv threads")
+20032ec38d16 ("nbd: reset the setup task for NBD_CLEAR_SOCK")
+feffa5cc7b47 ("nbd: fix setting of 'error' in NBD_DO_IT ioctl")
+9561a7ade0c2 ("nbd: add multi-connection support")

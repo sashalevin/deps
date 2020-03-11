@@ -1,0 +1,5 @@
+289e922582af ("dpll: move all dpll<>netdev helpers to dpll code")
+640f41ed33b5 ("dpll: fix build failure due to rcu_dereference_check() on unknown type")
+0d60d8df6f49 ("dpll: rely on rcu for netdev_dpll_pin()")
+830ead5fb0c5 ("dpll: fix pin dump crash for rebound module")
+b6a11a7fc4d6 ("dpll: fix broken error path in dpll_pin_alloc(..)")

@@ -1,0 +1,8 @@
+7b948f137732 ("auxdisplay: constify charlcd_ops.")
+39f8ea46724e ("auxdisplay: charlcd: Extract character LCD core from misc/panel")
+fda4ae1819ce ("misc: panel: Abstract temporary backlight handling")
+204a4f6d67a4 ("misc: panel: Add lcd_home() helper")
+3f77b4396505 ("misc: panel: Remove always-true check from panel_detach()")
+e28fa714aa8b ("misc: panel: Remove unused LCD_FLAG_S and LCD_FLAG_ID")
+30f468b2ea7a ("misc: panel: Remove PANEL_VERSION")
+84a1ed0407d2 ("misc: panel: Fix LCD_FLAG_F/LCD_FLAG_N exchange")

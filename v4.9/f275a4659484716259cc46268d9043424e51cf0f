@@ -1,0 +1,5 @@
+f275a4659484 ("i2c: bcm2835: Clear current buffer pointers and counts after a transfer")
+e13e19e12f66 ("i2c: bcm2835: Support i2c-dev ioctl I2C_TIMEOUT")
+ee05fea21b01 ("i2c: bcm2835: Add support for Repeated Start Condition")
+d4030d75c7cb ("i2c: bcm2835: Protect against unexpected TXW/RXR interrupts")
+e2474541032d ("i2c: bcm2835: Fix hang for writing messages larger than 16 bytes")

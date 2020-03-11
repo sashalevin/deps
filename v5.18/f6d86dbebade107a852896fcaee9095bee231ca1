@@ -1,0 +1,6 @@
+f6d86dbebade ("btrfs: move log_new_dir_dentries() above btrfs_log_inode()")
+a375102426df ("btrfs: move need_log_inode() to above log_conflicting_inodes()")
+009d9bea49b4 ("btrfs: avoid memory allocation at log_new_dir_dentries() for common case")
+4008481343aa ("btrfs: free list element sooner at log_new_dir_dentries()")
+b96c552b99b3 ("btrfs: update stale comment for log_new_dir_dentries()")
+8786a6d7403f ("btrfs: remove the root argument from log_new_dir_dentries()")

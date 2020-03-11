@@ -1,0 +1,8 @@
+0ae0b2b32553 ("mm: use "GUP-fast" instead "fast GUP" in remaining comments")
+70cbc3cc78a9 ("mm: gup: fix the fast GUP race against THP collapse")
+b0496fe4effd ("mm/gup: Convert gup_pte_range() to use a folio")
+020853b6f5ea ("mm: Add folio_try_get_rcu()")
+c24016ac3a62 ("mm: Add folio reference count functions")
+c25303281d79 ("mm: Convert get_page_unless_zero() to return bool")
+1507f51255c9 ("mm: introduce memfd_secret system call to create "secret" memory areas")
+5f7dadf3958f ("mm: constify page_count and page_ref_count")

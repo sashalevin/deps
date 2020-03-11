@@ -1,0 +1,8 @@
+cc465c3b23f8 ("mm/slub: Convert detached_freelist to use a struct slab")
+1ed7ce574c13 ("slub: fix kmalloc_pagealloc_invalid_free unit test")
+f227f0faf63b ("slub: fix unreclaimable slab stat for bulk free")
+96403bfe50c3 ("mm: memcontrol: fix slub memory accounting")
+457c82c3516d ("mm/slub: minor coding style tweaks")
+d42f3245c7e2 ("mm: memcg: convert vmstat slab counters to bytes")
+ea426c2a7de8 ("mm: memcg: prepare for byte-sized vmstat items")
+eedc4e5a142c ("mm: memcg: factor out memcg- and lruvec-level changes out of __mod_lruvec_state()")

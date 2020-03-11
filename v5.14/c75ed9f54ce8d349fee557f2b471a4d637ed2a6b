@@ -1,0 +1,5 @@
+c75ed9f54ce8 ("ASoC: sh: rz-ssi: Improve error handling in rz_ssi_probe() error path")
+767e6f26204d ("ASoC: sh: rz-ssi: Release the DMA channels in rz_ssi_probe() error path")
+91686a3984f3 ("ASoC: sh: rz-ssi: Propagate error codes returned from platform_get_irq_byname()")
+f04b4fb47d83 ("ASoC: sh: rz-ssi: Check return value of pm_runtime_resume_and_get()")
+26ac471c5354 ("ASoC: sh: rz-ssi: Add SSI DMAC support")

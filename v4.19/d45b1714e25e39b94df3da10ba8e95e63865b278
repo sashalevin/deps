@@ -1,1 +1,6 @@
 d45b1714e25e ("crypto: talitos - drop icv_ool")
+d44769e4ccb6 ("crypto: talitos - move struct talitos_edesc into talitos.h")
+e345177ded17 ("crypto: talitos - fix AEAD processing.")
+eae55a586c3c ("crypto: talitos - properly handle split ICV.")
+7ede4c36cf7c ("crypto: talitos - Do not modify req->cryptlen on decryption.")
+ef7c5c854859 ("crypto: talitos - Forbid 2-key 3DES in FIPS mode")

@@ -1,0 +1,8 @@
+4f054c28f425 ("mm: remove page table members from struct page")
+9a35de4ffc20 ("pgtable: create struct ptdesc")
+13cf577e6b66 ("mm/pgtable: add pte_free_defer() for pgtable as page")
+6a171c16e62f ("mm: remove the hugetlb field from struct page")
+4375a553f46c ("mm: move page->deferred_list to folio->_deferred_list")
+1aa4d03b60c0 ("mm: remove head_compound_mapcount() and _ptr functions")
+eec20426d48b ("mm: convert head_subpages_mapcount() into folio_nr_pages_mapped()")
+94688e8eb453 ("mm: remove folio_pincount_ptr() and head_compound_pincount()")

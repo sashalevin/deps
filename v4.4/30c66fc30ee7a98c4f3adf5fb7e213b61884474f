@@ -1,0 +1,8 @@
+30c66fc30ee7 ("timer: Prevent base->clk from moving backward")
+30587589251a ("timer: Fix coding style")
+ae67badaa164 ("hrtimer: Optimize the hrtimer code by using static keys for migration_enable/nohz_active")
+2fe59f507a65 ("timers: Fix excessive granularity of new timers after a nohz idle")
+b94bf594cf8e ("timer/sysclt: Restrict timer migration sysctl values to 0 and 1")
+6bad6bccf2d7 ("timers: Prevent base clock corruption when forwarding")
+4da9152a4308 ("timers: Lock base for same bucket optimization")
+4b4b20852d10 ("Merge branch 'timers/fast-wheel' into timers/core")

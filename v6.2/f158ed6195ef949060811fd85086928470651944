@@ -1,0 +1,8 @@
+f158ed6195ef ("mm: convert deferred_split_huge_page() to deferred_split_folio()")
+f8baa6be0368 ("mm/huge_memory: convert get_deferred_split_queue() to take a folio")
+8991de90e997 ("mm/huge_memory: remove page_deferred_list()")
+4375a553f46c ("mm: move page->deferred_list to folio->_deferred_list")
+62beb906ef64 ("mm: convert page_remove_rmap() to use a folio internally")
+eec20426d48b ("mm: convert head_subpages_mapcount() into folio_nr_pages_mapped()")
+94688e8eb453 ("mm: remove folio_pincount_ptr() and head_compound_pincount()")
+81e506bec9be ("mm/thp: check and bail out if page in deferred queue already")

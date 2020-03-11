@@ -1,0 +1,4 @@
+f7bff6e7759b ("powerpc/64/interrupt: avoid BUG/WARN recursion in interrupt entry")
+56adbb7a8b6c ("powerpc/64/interrupt: Fix false warning in context tracking due to idle state")
+ecb1057c0f9a ("powerpc/64/interrupt: reduce expensive debug tests")
+4423eb5ae32e ("powerpc/64/interrupt: make normal synchronous interrupts enable MSR[EE] if possible")

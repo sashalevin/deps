@@ -1,0 +1,5 @@
+b11faec36870 ("net: hdlc_fr: remove redundant blank lines")
+df41c19abbea ("drivers/net/wan/hdlc_fr: Move the skb_headroom check out of fr_hard_header")
+f5083d0cee08 ("drivers/net/wan/hdlc_fr: Improvements to the code of pvc_xmit")
+8306266c1d51 ("drivers/net/wan/hdlc_fr: Correctly handle special skb->protocol values")
+9fb030a70431 ("drivers/net/wan/hdlc: Set skb->protocol before transmitting")

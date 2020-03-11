@@ -1,0 +1,6 @@
+e555da9f3121 ("f2fs: run fstrim asynchronously if runtime discard is on")
+377224c47118 ("f2fs: don't split checkpoint in fstrim")
+0ea805129d1b ("f2fs: give correct trimmed blocks in fstrim")
+78997b569f56 ("f2fs: split discard policy")
+ecc9aa00dbb1 ("f2fs: wrap discard policy")
+8412663d177d ("f2fs: support issuing/waiting discard in range")

@@ -1,0 +1,8 @@
+47b5c2a0f021 ("mm/kasan: get rid of ->alloc_size in struct kasan_alloc_meta")
+9725759a96ef ("mm: kasan: remove unused 'reserved' field from struct kasan_alloc_meta")
+55834c59098d ("mm: kasan: initial memory quarantine implementation")
+0b355eaaaae9 ("mm, kasan: fix compilation for CONFIG_SLAB")
+cd11016e5f52 ("mm, kasan: stackdepot implementation. Enable stackdepot for SLAB")
+505f5dcb1c41 ("mm, kasan: add GFP flags to KASAN API")
+7ed2f9e66385 ("mm, kasan: SLAB support")
+26660a4046b1 ("Merge branch 'core-objtool-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+e9ea15963f3b ("blk-mq: inline hot part of __blk_mq_sched_restart")
+7211aef86f79 ("block: mq-deadline: Fix write completion handling")
+97889f9ac24f ("blk-mq: remove synchronize_rcu() from blk_mq_del_queue_tag_set()")
+a347c7ad8edf ("blk-mq: reinit q->tag_set_list entry only after grace period")
+ca11f209a4c8 ("mq-deadline: make it clear that __dd_dispatch_request() works on all hw queues")
+bf09ce56f0e6 ("mq-deadline: Introduce dispatch helpers")
+79f720a751ca ("blk-mq: only run the hardware queue if IO is pending")
+05b79413946d ("Revert "blk-mq: don't handle TAG_SHARED in restart"")

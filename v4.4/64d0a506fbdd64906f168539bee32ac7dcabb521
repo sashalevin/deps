@@ -1,0 +1,3 @@
+64d0a506fbdd ("powerpc/32: Fix boot failure on non 6xx platforms")
+d300627c6a53 ("powerpc/6xx: Handle DABR match before calling do_page_fault")
+92aa2fe03983 ("powerpc/mm: The 8xx doesn't call do_page_fault() for breakpoints")

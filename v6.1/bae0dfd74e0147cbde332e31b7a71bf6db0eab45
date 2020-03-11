@@ -1,0 +1,5 @@
+bae0dfd74e01 ("RISC-V: KVM: Modify SBI extension handler to return SBI error code")
+8cdb8a53857d ("RISC-V: KVM: Return correct code for hsm stop function")
+026bac4574b5 ("RISC-V: KVM: Define a probe function for SBI extension data structures")
+52ec4b695dbe ("RISC-V: KVM: Save mvendorid, marchid, and mimpid when creating VCPU")
+23fe562e45c5 ("RISC-V: KVM: Move sbi related struct and functions to kvm_vcpu_sbi.h")

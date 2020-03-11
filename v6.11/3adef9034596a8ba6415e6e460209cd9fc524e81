@@ -1,0 +1,6 @@
+3adef9034596 ("KVM: x86: Hoist x86.c's global msr_* variables up above kvm_do_msr_access()")
+1cec2034980a ("KVM: x86: Funnel all fancy MSR return value handling into a common helper")
+7075f1636150 ("KVM: x86: Refactor kvm_get_feature_msr() to avoid struct kvm_msr_entry")
+b848f24bd74a ("KVM: x86: Rename get_msr_feature() APIs to get_feature_msr()")
+74c6c98a598a ("KVM: x86: Refactor kvm_x86_ops.get_msr_feature() to avoid kvm_msr_entry")
+aaecae7b6a2b ("KVM: x86: Rename KVM_MSR_RET_INVALID to KVM_MSR_RET_UNSUPPORTED")

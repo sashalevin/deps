@@ -1,0 +1,5 @@
+0d95817e0753 ("KVM: selftests: Fix off-by-one initialization of GDT limit")
+3a085fbf8228 ("KVM: selftests: Move GDT, IDT, and TSS fields to x86's kvm_vm_arch")
+2b7deea3ec7c ("Revert "kvm: selftests: move base kvm_util.h declarations to kvm_util_base.h"")
+87aa264cd89d ("KVM: selftests: Randomly force emulation on x86 writes from guest code")
+e1ff11525d3c ("KVM: selftests: Add global snapshot of kvm_is_forced_emulation_enabled()")

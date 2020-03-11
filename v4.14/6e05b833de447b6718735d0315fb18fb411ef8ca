@@ -1,0 +1,8 @@
+6e05b833de44 ("net: ll_temac: Make some functions static")
+26f146ed971c ("net: ll_temac: Fix typo bug for 32-bit")
+a3246dc41aa3 ("net: ll_temac: Add support for non-native register endianness")
+d84aec42151b ("net: ll_temac: Fix support for 64-bit platforms")
+8425c41d1ef7 ("net: ll_temac: Extend support to non-device-tree platforms")
+a63625d2a0e7 ("net: ll_temac: Fix and simplify error handling by using devres functions")
+d1441d4782f2 ("net: xilinx: replace dev_kfree_skb_irq by dev_consume_skb_irq for drop profiles")
+aa5848bc4043 ("net: emaclite: Simplify if-else statements")

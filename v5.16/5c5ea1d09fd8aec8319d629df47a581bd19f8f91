@@ -1,0 +1,6 @@
+5c5ea1d09fd8 ("netdevsim: rename a label")
+012ec02ae441 ("netdevsim: convert driver to use unlocked devlink API during init/fini")
+aff3a9250946 ("netdevsim: replace vfs_lock with devlink instance lock")
+76eea6c2e663 ("netdevsim: replace port_list_lock with devlink instance lock")
+2cb7b4890d6e ("devlink: expose instance locking and add locked port registering")
+4c897cfc46a5 ("devlink: Simplify devlink resources unregister call")

@@ -1,0 +1,7 @@
+13738a364736 ("perf/x86/intel: Expose EPT-friendly PEBS for SPR and future models")
+2145e77fecfb ("perf/x86/intel: Enable PEBS format 5")
+4c58d922c087 ("perf/x86/intel: Fix PEBS-via-PT reload base value for Extended PEBS")
+61b985e3e775 ("perf/x86/intel: Add perf core PMU support for Sapphire Rapids")
+1ab5f235c176 ("perf/x86/intel: Filter unsupported Topdown metrics event")
+628d923a3c46 ("perf/x86/intel: Factor out intel_update_topdown_event()")
+2a6c6b7d7ad3 ("perf/core: Add PERF_SAMPLE_WEIGHT_STRUCT")

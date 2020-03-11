@@ -1,0 +1,6 @@
+0a6ad4d9e169 ("e1000e: avoid failing the system during pm_suspend")
+662200e324da ("e1000e: Minor flow correction in e1000_shutdown function")
+808e0d8832cc ("e1000e: Only run S0ix flows if shutdown succeeded")
+6bf6be1127f7 ("e1000e: Do not wake up the system via WOL if device wakeup is disabled")
+e086ba2fccda ("e1000e: disable s0ix entry and exit flows for ME systems")
+f15bb6dde738 ("e1000e: Add support for S0ix")

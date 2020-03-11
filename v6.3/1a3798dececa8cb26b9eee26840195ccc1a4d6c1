@@ -1,0 +1,7 @@
+1a3798dececa ("mm/memory-failure: send SIGBUS in the event of thp split fail")
+5dba5c356ab3 ("mm/memory-failure: convert memory_failure() to use a folio")
+049b26048dd2 ("mm: convert soft_offline_in_use_page() to use a folio")
+b79f8eb408d0 ("mm/hwpoison: check if a raw page in a hugetlb folio is raw HWPOISON")
+a363d1224b5a ("mm: memory-failure: fetch compound head after extra page refcnt is held")
+55c7ac452708 ("mm: memory-failure: use local variable huge to check hugetlb page")
+1a7d018dc38b ("mm: memory-failure: remove unneeded 'inline' annotation")

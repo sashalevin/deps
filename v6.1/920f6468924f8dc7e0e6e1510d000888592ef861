@@ -1,0 +1,5 @@
+920f6468924f ("PCI: Warn on missing cfg_access_lock during secondary bus reset")
+7e89efc6e9e4 ("PCI: Lock upstream bridge for pci_reset_function()")
+0cce06ba859a ("debugobjects,locking: Annotate debug_object_fill_pool() wait type violation")
+0af462f19e63 ("debugobject: Ensure pool refill (again)")
+63a759694eed ("debugobject: Prevent init race with static objects")

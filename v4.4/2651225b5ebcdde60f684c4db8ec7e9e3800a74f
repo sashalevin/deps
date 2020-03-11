@@ -1,0 +1,7 @@
+2651225b5ebc ("selinux: wrap cgroup seclabel support with its own policy capability")
+a2c7c6fbe5ab ("selinux: add security in-core xattr support for tracefs")
+da69a5306ab9 ("selinux: support distinctions among all network address families")
+8e4ff6f228e4 ("selinux: distinguish non-init user namespace capability checks")
+20cdef8d5759 ("selinux: delay inode label lookup as long as possible")
+61d612ea731e ("selinux: restrict kernel module loading")
+83da53c5a345 ("selinux: Add accessor functions for inode->i_security")

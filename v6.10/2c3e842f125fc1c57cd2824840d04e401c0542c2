@@ -1,0 +1,5 @@
+2c3e842f125f ("PCI: Give pcim_set_mwi() its own devres cleanup callback")
+d47bde708086 ("PCI: Add managed pcim_request_region()")
+bbaff68bf4a4 ("PCI: Add managed partial-BAR request and map infrastructure")
+d5fe8207d878 ("PCI: Add devres helpers for iomap table")
+dee37e90b41f ("PCI: Add and use devres helper for bit masks")

@@ -1,0 +1,8 @@
+6db79a88c67e ("PCI: Add pcie_bandwidth_available() to compute bandwidth available to device")
+6cf57be0f78e ("PCI: Add pcie_get_speed_cap() to find max supported link speed")
+1acfb9b7ee0b ("PCI: Add decoding for 16 GT/s link speed")
+56c1af4606f0 ("PCI: Add sysfs max_link_speed/width, current_link_speed/width, etc")
+a60a2b73ba69 ("PCI: Export pcie_flr()")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+443b40ba21aa ("x86/PCI: VMD: Add quirk for AER to ignore source ID")
+5adecf817dd6 ("PCI: Wait for up to 1000ms after FLR reset")

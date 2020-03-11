@@ -1,0 +1,6 @@
+4502138acc8f ("rcu/tree: Remove superfluous return from void call_rcu* functions")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")
+910e12092eac ("rcu: Make synchronize_rcu() fast path update ->gp_seq counters")
+5f11bad6b722 ("rcu-tasks: Remove grace-period fast-path rcu-tasks helper")

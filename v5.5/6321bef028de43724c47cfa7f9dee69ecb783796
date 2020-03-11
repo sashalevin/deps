@@ -1,5 +1,0 @@
-6321bef028de ("bcache: use read_cache_page_gfp to read the superblock")
-cfa0c56db9c0 ("bcache: return a pointer to the on-disk sb from read_super")
-fc8f19cc5dce ("bcache: transfer the sb_page reference to register_{bdev,cache}")
-50246693f81f ("bcache: rework error unwinding in register_bcache")
-a702a692cd75 ("bcache: use a separate data structure for the on-disk super block")

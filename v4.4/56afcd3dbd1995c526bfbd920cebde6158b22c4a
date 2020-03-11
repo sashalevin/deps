@@ -1,0 +1,6 @@
+56afcd3dbd19 ("ARM: Allow IPIs to be handled as normal interrupts")
+be167862ae7d ("ARM: prevent tracing IPI_CPU_BACKTRACE")
+ea2d9a96b6ab ("ARM: 8663/1: wire up HWCAP/HWCAP2 feature bits to the CPU modalias")
+677664895278 ("nmi_backtrace: do a local dump_stack() instead of a self-NMI")
+42a0bb3f7138 ("printk/nmi: generic solution for safe printk in NMI")
+6660800fb7fd ("Merge branch 'devel-stable' into for-linus")

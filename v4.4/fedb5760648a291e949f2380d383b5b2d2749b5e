@@ -1,0 +1,8 @@
+fedb5760648a ("serial: fix race between flush_to_ldisc and tty_open")
+9ed19428a51d ("serial: core: Prevent unsafe uart port access, part 2")
+4047b37122d1 ("serial: core: Prevent unsafe uart port access, part 1")
+49c02304fe97 ("serial: core: Expand port mutex section in uart_poll_init()")
+18900ca65a85 ("tty: Replace TTY_IO_ERROR bit tests with tty_io_error()")
+b4749b97ae41 ("serial: core: Perform RTS signalling before soft flow ctrl")
+3abe8c7671a5 ("serial: core: Fold do_uart_get_info() into caller")
+f5291ecca148 ("serial: core: Fold __uart_put_char() into caller")

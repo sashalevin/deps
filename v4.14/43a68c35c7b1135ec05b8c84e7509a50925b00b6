@@ -1,0 +1,6 @@
+43a68c35c7b1 ("IB/hfi1: Add 16B Management Packet trace support")
+ca85bb1ca994 ("IB/hfi1: Remove unnecessary fecn and becn fields")
+6d6b8848c882 ("IB/hfi1: Optimize packet type comparison using 9B and bypass code paths")
+f150e2736f34 ("IB/hfi1: Compute BTH only for RDMA_WRITE_LAST/SEND_LAST packet")
+e08aa5947688 ("IB/hfi1: Fix output trace issues from 16B change")
+442e55661db1 ("IB/hfi1: Extend input hdr tracing for packet type")

@@ -1,0 +1,7 @@
+67814c00de31 ("bpf, fsverity: Add kfunc bpf_get_fsverity_digest")
+e77000ccc531 ("fsverity: simplify handling of errors during initcall")
+74836ecbc5c7 ("fsverity: rework fsverity_get_digest() again")
+1238c8b91c5a ("fs-verity: simplify sysctls with register_sysctl()")
+86f66569baca ("fsverity: remove debug messages and CONFIG_FS_VERITY_DEBUG")
+01d90c07a592 ("fsverity: optimize fsverity_prepare_setattr() on non-verity files")
+a6528a960b78 ("fsverity: optimize fsverity_file_open() on non-verity files")

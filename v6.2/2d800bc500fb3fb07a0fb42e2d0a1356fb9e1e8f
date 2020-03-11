@@ -1,0 +1,7 @@
+2d800bc500fb ("net/sched: taprio: replace tc_taprio_qopt_offload :: enable with a "cmd" enum")
+a1ca9f8b07d8 ("net: dsa: felix: act upon the mqprio qopt in taprio offload")
+c54876cd5961 ("net/sched: pass netlink extack to mqprio and taprio offload")
+522d15ea831f ("net/sched: taprio: only pass gate mask per TXQ for igc, stmmac, tsnep, am65_cpsw")
+09c794c0a88d ("net/sched: taprio: pass mqprio queue configuration to ndo_setup_tc()")
+9adafe2b8546 ("net/sched: move struct tc_mqprio_qopt_offload from pkt_cls.h to pkt_sched.h")
+5cfb45e2fb71 ("net/sched: mqprio: refactor offloading and unoffloading to dedicated functions")

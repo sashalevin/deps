@@ -1,0 +1,8 @@
+88b7d370bb4b ("selinux: fix address family in bind() and connect() to match address/port")
+0f8db8cc73df ("selinux: add AF_UNSPEC and INADDR_ANY checks to selinux_socket_bind()")
+6b6bc6205d98 ("selinux: wrap AVC state")
+68741a8adab9 ("selinux: Fix ltp test connect-syscall failure")
+e5a5ca96a42c ("selinux: rename the {is,set}_enforcing() functions")
+aa8e712cee93 ("selinux: wrap global selinux state")
+d452930fd3b9 ("selinux: Add SCTP support")
+2cfa1cd3da14 ("Merge tag 'selinux-pr-20180130' of git://git.kernel.org/pub/scm/linux/kernel/git/pcmoore/selinux")

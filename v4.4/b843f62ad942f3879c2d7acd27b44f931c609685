@@ -1,0 +1,4 @@
+b843f62ad942 ("perf symbols: Accept symbols starting at address 0")
+a0b2f5af4c99 ("perf tools: Be consistent on the type of map->symbols[] interator")
+45e90056904b ("perf machine: Do not bail out if not managing to read ref reloc symbol")
+1154c957607a ("perf tools: Fix machine__create_kernel_maps to put kernel dso refcount")

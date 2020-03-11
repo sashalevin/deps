@@ -1,0 +1,5 @@
+8837ba3e58ea ("netfilter: nf_tables: split async and sync catchall in two functions")
+4a9e12ea7e70 ("netfilter: nft_set_pipapo: call nft_trans_gc_queue_sync() in catchall GC")
+f6c383b8c31a ("netfilter: nf_tables: adapt set backend to use GC transaction API")
+5f68718b34a5 ("netfilter: nf_tables: GC transaction API to avoid race with control plane")
+f718863aca46 ("netfilter: nft_set_rbtree: fix overlap expiration walk")

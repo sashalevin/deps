@@ -1,0 +1,6 @@
+1e7a483037e8 ("KVM: VMX: Rename "__find_msr_index" to "__vmx_find_uret_msr"")
+e9bb1ae92d62 ("KVM: VMX: Rename vcpu_vmx's "save_nmsrs" to "nr_active_uret_msrs"")
+fbc18007382c ("KVM: VMX: Rename vcpu_vmx's "nmsrs" to "nr_uret_msrs"")
+eb3db1b13788 ("KVM: VMX: Rename the "shared_msr_entry" struct to "vmx_uret_msr"")
+ce833b2324ba ("KVM: VMX: Prepend "MAX_" to MSR array size defines")
+7e34fbd05c63 ("KVM: x86: Rename "shared_msrs" to "user_return_msrs"")

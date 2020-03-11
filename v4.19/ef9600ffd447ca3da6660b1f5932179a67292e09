@@ -1,0 +1,7 @@
+ef9600ffd447 ("drm/i915/fbc: Just use params->fence_y_offset always")
+5331889b5ffb ("drm/i915/fbc: Fix fence_y_offset handling")
+765e7cd9a6fd ("drm/i915/display: Do not write in removed FBC fence registers")
+6a0e032fb524 ("drm/i915/display/fbc: Make WARN* drm specific where drm_priv ptr is available")
+aa93f4fd7c89 ("drm/i915/fbc: use intel_de_*() functions for register access")
+d54151c5c8c0 ("drm/i915/fbc: Add fbc tracepoints")
+e10ad9c69746 ("drm/i915/fbc: Reallocate cfb if we need more of it")

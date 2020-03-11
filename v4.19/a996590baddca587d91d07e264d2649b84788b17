@@ -1,1 +1,4 @@
 a996590baddc ("staging:iio:ad2s90: Remove spi setup that should be done via dt")
+f14a283c2d58 ("staging:iio:ad2s90: Move device registration to the end of probe")
+addb2ebe4a34 ("staging:iio:ad2s90: Remove always overwritten assignment")
+b3a3eafeef76 ("staging:iio:ad2s90: Make probe handle spi_setup failure")

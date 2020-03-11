@@ -1,0 +1,8 @@
+1f023007f5e7 ("arm64/amu: Use capacity_ref_freq() to set AMU ratio")
+5477fa249b56 ("cpufreq/cppc: Set the frequency used for computing the capacity")
+9942cb22ea45 ("sched/topology: Add a new arch_scale_freq_ref() method")
+c4b52d8b6c1d ("riscv: export cpu/freq invariant to scheduler")
+d4955c0ad77d ("arm64: topology: fix possible overflow in amu_fie_setup()")
+9924fbb51e0a ("arch_topology: obtain cpu capacity using information from CPPC")
+c214f124161d ("arch_topology: Introduce thermal pressure update function")
+b39214911a54 ("drivers/base/arch_topology.c: remove superfluous header")

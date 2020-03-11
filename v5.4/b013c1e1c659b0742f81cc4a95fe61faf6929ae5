@@ -1,0 +1,7 @@
+b013c1e1c659 ("arm64: head: add helper function to remap regions in early page tables")
+e42ade29e3bc ("arm64: head: split off idmap creation code")
+53519ddf5894 ("arm64: head: simplify page table mapping macros (slightly)")
+ebd9aea1f27e ("arm64: head: drop idmap_ptrs_per_pgd")
+e8d13cced5c5 ("arm64: head: move assignment of idmap_t0sz to C code")
+90268574a3e8 ("arm64: head: avoid over-mapping in map_memory")
+81ad4bb1fe91 ("Merge branch 'for-next/mm' into for-next/core")

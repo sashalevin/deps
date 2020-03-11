@@ -1,0 +1,5 @@
+bd039b5ea2a9 ("net/core: Allow live renaming when an interface is up")
+3b89b511ea0c ("net: fix IFF_TX_SKB_NO_LINEAR definition")
+2106efda785b ("net: remove .ndo_change_proto_down")
+c2ff53d8049f ("net: Add priv_flags for allow tx skb without linear")
+28af22c6c8df ("net: adjust net_device layout for cacheline usage")

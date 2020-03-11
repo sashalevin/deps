@@ -1,0 +1,6 @@
+f8d81df285a2 ("PCI/VGA: Move firmware default device detection to ADD_DEVICE path")
+dfe3da812d99 ("PCI/VGA: Factor out default VGA device selection")
+60a9bac8ab48 ("PCI/VGA: Factor out vga_select_framebuffer_device()")
+c1593ddd894d ("PCI/VGA: Move vga_arb_integrated_gpu() earlier in file")
+1d38fe6ee6a8 ("PCI/VGA: Move vgaarb to drivers/pci")
+bf44e8cecc03 ("vgaarb: don't pass a cookie to vga_client_register")

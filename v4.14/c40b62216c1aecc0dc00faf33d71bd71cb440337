@@ -1,0 +1,6 @@
+c40b62216c1a ("usb: core: hcd: Create platform devices for onboard hubs in probe()")
+bc40f5341741 ("USB: core: hcd: drop support for legacy phys")
+29bca25e1bc4 ("usb: skip phys initialization of shared hcd")
+ad70f937e9d0 ("usb: core: hcd: remove support for initializing a single PHY")
+178a0bce05cb ("usb: core: hcd: integrate the PHY wrapper into the HCD core")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")

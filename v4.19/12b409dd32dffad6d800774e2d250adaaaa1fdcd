@@ -1,1 +1,4 @@
 12b409dd32df ("s390/qeth: don't erase configuration while probing")
+c1a935f6ec5b ("s390/qeth: fix discipline unload after setup error")
+a70fee3b0f90 ("s390/qeth: use DEFINE_MUTEX for qeth_mod_mutex")
+4fda33547676 ("s390/qeth: convert layer attribute to enum")

@@ -1,0 +1,7 @@
+f52f5c71f3d4 ("md: fix stopping sync thread")
+c9f7cb5b2bc9 ("md: don't leave 'MD_RECOVERY_FROZEN' in error path of md_set_readonly()")
+f2d87a759f68 ("md: fix missing flush of sync_work")
+130443d60b1b ("md: refactor idle/frozen_sync_thread() to fix deadlock")
+6f56f0c4f124 ("md: add a mutex to synchronize idle and frozen in action_store()")
+64e5e09afc14 ("md: refactor action_store() for 'idle' and 'frozen'")
+a865b96c513b ("Revert "md: unlock mddev before reap sync_thread in action_store"")

@@ -1,0 +1,6 @@
+405efc5980f2 ("powerpc/spinlocks: Fix oops in __spin_yield() on bare metal")
+31391ff7ea1e ("powerpc/spinlocks: Rename SPLPAR-only spinlocks")
+d57b78353a99 ("powerpc/spinlocks: Refactor SHARED_PROCESSOR")
+a4c1887d4c14 ("locking/arch: Remove dummy arch_{read,spin,write}_lock_flags() implementations")
+0160fb177d48 ("locking/arch: Remove dummy arch_{read,spin,write}_relax() implementations")
+a8a217c22116 ("locking/core: Remove {read,spin,write}_can_lock()")

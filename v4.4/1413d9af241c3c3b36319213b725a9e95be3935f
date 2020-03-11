@@ -1,0 +1,5 @@
+1413d9af241c ("Documentation: Fix grammatical error in sysctl/fs.txt & clarify negative dentry")
+af0c9af1b3f6 ("fs/dcache: Track & report number of negative dentries")
+de689f5e3663 ("don't bother with __d_instantiate(dentry, NULL)")
+27f203f655a2 ("untangle fsnotify_d_instantiate() a bit")
+a528aca7f359 ("use ->d_seq to get coherency between ->d_inode and ->d_flags")

@@ -1,0 +1,5 @@
+4c181e3d352e ("KVM: arm64: Document check for TIF_FOREIGN_FPSTATE")
+93ae6b01bafe ("KVM: arm64: Discard any SVE state when entering KVM guests")
+b4da91879e98 ("KVM: arm64: Move the handling of !FP outside of the fast path")
+f8077b0d5923 ("KVM: arm64: Move FP state ownership from flag to a tristate")
+e9ada6c208c1 ("KVM: arm64: Drop FP_FOREIGN_STATE from the hypervisor code")

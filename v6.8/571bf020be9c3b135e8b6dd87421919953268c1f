@@ -1,0 +1,5 @@
+571bf020be9c ("inet: move tcp_protocol and udp_protocol to net_hotdata")
+6a55ca6b0122 ("udp: move udpv4_offload and udpv6_offload to net_hotdata")
+0139806eebd6 ("net: move tcpv4_offload and tcpv6_offload to net_hotdata")
+61a0be1a5342 ("net: move ip_packet_offload and ipv6_packet_offload to net_hotdata")
+2658b5a8a4ee ("net: introduce struct net_hotdata")

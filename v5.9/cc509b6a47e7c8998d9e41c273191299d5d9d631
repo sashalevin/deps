@@ -1,0 +1,4 @@
+cc509b6a47e7 ("usb: chipidea: core: handle power lost in workqueue")
+451b15ed138e ("usb: chipidea: core: fix possible concurrent when switch role")
+3670de806789 ("usb: chipdea: core: fix return -EINVAL if request role is the same with current role")
+74494b33211d ("usb: chipidea: core: add controller resume support when controller is powered off")

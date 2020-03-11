@@ -1,0 +1,7 @@
+fab4c16c527e ("blk-cgroup: don't use removal safe list iterators")
+00ad6991bbae ("blk-cgroup: pass a gendisk to blkg_destroy_all")
+e13793bae659 ("blk-throttle: pass a gendisk to blk_throtl_init and blk_throtl_exit")
+9823538fb7ef ("blk-cgroup: pass a gendisk to blkcg_init_queue and blkcg_exit_queue")
+4a69f325aa43 ("blk-cgroup: cleanup the blkg_lookup family of functions")
+928f6f00a91e ("blk-cgroup: remove blk_queue_root_blkg")
+33dc62796cb6 ("blk-cgroup: fix error unwinding in blkcg_init_queue")

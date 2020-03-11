@@ -1,0 +1,7 @@
+571c56911b45 ("mlxsw: spectrum_router: Extract a helper to free a RIF")
+2019b5eeae2a ("mlxsw: spectrum_router: Access rif->dev from params in mlxsw_sp_rif_create()")
+fb6ac45e8666 ("mlxsw: spectrum_router: Access rif->dev through a helper")
+df95ae66cc0a ("mlxsw: spectrum_router: Privatize mlxsw_sp_rif_dev()")
+0255f74845c0 ("mlxsw: Convert RIF-has-netdevice queries to a dedicated helper")
+1a2f65b4a277 ("mlxsw: spectrum_router: Parametrize RIF allocation size")
+40ef76de8a7f ("mlxsw: spectrum_router: Use gen_pool for RIF index allocation")

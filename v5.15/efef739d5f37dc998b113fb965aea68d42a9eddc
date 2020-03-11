@@ -1,0 +1,8 @@
+efef739d5f37 ("block: fold blk_max_size_offset into get_max_io_size")
+84613beda427 ("block: cleanup variable naming in get_max_io_size")
+8689461be3f1 ("block: factor out a chunk_size_left helper")
+24b83deb29b7 ("block: move struct request to blk-mq.h")
+badf7f643787 ("block: move a few merge helpers out of <linux/blkdev.h>")
+2e9bc3465ac5 ("block: move elevator.h to block/")
+9778ac77c202 ("block: remove the struct blk_queue_ctx forward declaration")
+90138237a562 ("block: remove the unused blk_queue_state enum")

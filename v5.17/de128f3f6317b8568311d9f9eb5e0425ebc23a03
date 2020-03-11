@@ -1,0 +1,6 @@
+de128f3f6317 ("virtio_pci: push out single vq find code to vp_find_one_vq_msix()")
+ad9a12576bcc ("virtio_pci: convert vp_*find_vqs() ops to find_vqs_info()")
+89875151fccd ("virtio: delete vq in vp_find_vqs_msix() when request_irq() fails")
+3153234097f6 ("virtio: Replace unsigned with unsigned int")
+eb4cecb453a1 ("Revert "virtio_pci: harden MSI-X interrupts"")
+7b79edfb862d ("Revert "virtio-pci: harden INTX interrupts"")

@@ -1,0 +1,5 @@
+411281d24bb8 ("mmc: sdhci-msm: Convert to use resource-managed OPP API")
+91ca244bdcb6 ("mmc: sdhci-msm: Unconditionally call dev_pm_opp_of_remove_table()")
+b4fc8278d252 ("mmc: sdhci-msm: Add interconnect bandwidth scaling support")
+c2b613d03b06 ("mmc: sdhci-msm: Fix error handling for dev_pm_opp_of_add_table()")
+0472f8d3c054 ("mmc: sdhci-msm: Use OPP API to set clk/perf state")

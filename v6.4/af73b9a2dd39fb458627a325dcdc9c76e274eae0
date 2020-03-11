@@ -1,0 +1,5 @@
+af73b9a2dd39 ("arm64: kaslr: Use feature override instead of parsing the cmdline again")
+35876f35f482 ("arm64: cpufeature: Add helper to test for CPU feature overrides")
+a86aa72eb3b0 ("arm64: kernel: Don't rely on objcopy to make code under pi/ __init")
+48157aa39286 ("arm64: kernel: Manage absolute relocations in code built under pi/")
+acfdf34c7de1 ("Merge branch for-next/module-alloc into kvmarm/next")

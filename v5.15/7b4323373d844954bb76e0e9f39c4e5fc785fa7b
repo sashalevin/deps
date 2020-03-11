@@ -1,0 +1,8 @@
+7b4323373d84 ("ksmbd: fix deadlock in ksmbd_find_crypto_ctx()")
+af7c39d971e4 ("ksmbd: fix racy issue while destroying session on multichannel")
+17ea92a9f6d0 ("ksmbd: fix kernel oops from idr_remove()")
+8e06b31e3481 ("ksmbd: add channel rwlock")
+e4d3e6b524c0 ("ksmbd: replace sessions list in connection with xarray")
+ac090d9c90b0 ("ksmbd: fix guest connection failure with nautilus")
+ce53d365378c ("ksmbd: fix multi session connection failure")
+83912d6d55be ("ksmbd: disable SMB2_GLOBAL_CAP_ENCRYPTION for SMB 3.1.1")

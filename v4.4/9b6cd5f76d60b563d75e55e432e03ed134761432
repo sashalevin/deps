@@ -1,0 +1,6 @@
+9b6cd5f76d60 ("ext2: Fix block zeroing in ext2_get_blocks() for DAX")
+20a90f589972 ("dax: give DAX clearing code correct bdev")
+b2e0d1625e19 ("dax: fix lifetime of in-kernel dax mappings with dax_map_atomic()")
+fe683adabfe6 ("dax: guarantee page aligned results from bdev_direct_access()")
+0e749e54244e ("dax: increase granularity of dax_clear_blocks() operations")
+52db400fcd50 ("pmem, dax: clean up clear_pmem()")

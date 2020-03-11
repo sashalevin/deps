@@ -1,0 +1,5 @@
+aa6e8a54f653 ("net: ethernet: mediatek: fix error handling inside mtk_mdio_init")
+1e515b7fdbae ("net: ethernet: mediatek: use devm_mdiobus_alloc instead of mdiobus_alloc inside mtk_mdio_init")
+b5776f01bf1f ("net: ethernet: mediatek: fix the missing of_node_put() after node is used done inside mtk_mdio_init")
+207bdf184428 ("net-next: mediatek: use mdiobus_free() in favour of kfree()")
+656e705243fd ("net-next: mediatek: add support for MT7623 ethernet")

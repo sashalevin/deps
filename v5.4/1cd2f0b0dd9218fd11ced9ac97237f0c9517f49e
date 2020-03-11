@@ -1,0 +1,5 @@
+1cd2f0b0dd92 ("KVM: nVMX: Prioritize SMI over nested IRQ/NMI")
+15ff0b450b65 ("KVM: nVMX: Preserve IRQ/NMI priority irrespective of exiting behavior")
+a1c77abb8d93 ("KVM: nVMX: Properly handle userspace interrupt window request")
+684c0422da71 ("KVM: nVMX: Handle pending #DB when injecting INIT VM-exit")
+e64a8508234a ("KVM: VMX: Consume pending LAPIC INIT event when exit on INIT_SIGNAL")

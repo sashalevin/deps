@@ -1,0 +1,7 @@
+444050990db4 ("mm, slab: check GFP_SLAB_BUG_MASK before alloc_pages in kmalloc_order")
+128227e7fe40 ("slab: __GFP_ZERO is incompatible with a constructor")
+65b9de75253e ("mm/slub: add a dump_stack() to the unexpected GFP check")
+72baeef0c271 ("slab: do not panic on invalid gfp_mask")
+bacdcb346093 ("slab: make GFP_SLAB_BUG_MASK information more human readable")
+249247b6f8ee ("mm/slab: remove object status buffer for DEBUG_SLAB_LEAK")
+d31676dfde25 ("mm/slab: alternative implementation for DEBUG_SLAB_LEAK")

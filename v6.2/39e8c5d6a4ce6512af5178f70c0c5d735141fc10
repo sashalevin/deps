@@ -1,0 +1,4 @@
+39e8c5d6a4ce ("s390/head64: Make startup code ready for lowcore relocation")
+cfea9bc78bc3 ("s390/stack: set lowcore kernel stack pointer early")
+c2c3258fb55a ("s390/stack: use STACK_INIT_OFFSET where possible")
+639886b71dde ("s390/early: fix sclp_early_sccb variable lifetime")

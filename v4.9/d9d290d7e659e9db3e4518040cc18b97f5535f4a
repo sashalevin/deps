@@ -1,0 +1,7 @@
+d9d290d7e659 ("nvdimm/region: Fix default alignment for small regions")
+2522afb86a8c ("libnvdimm/region: Introduce an 'align' attribute")
+5b26db95fee3 ("libnvdimm: Use PAGE_SIZE instead of SZ_4K for align check")
+c5d4355d10d4 ("libnvdimm: nd_region flush callback support")
+12e3129e29b4 ("libnvdimm: Use max contiguous area for namespace size")
+d2d6364dcbf6 ("libnvdimm, pmem: Complete REQ_FLUSH => REQ_PREFLUSH")
+1ed41b5696cc ("Merge branch 'for-4.17/libnvdimm' into libnvdimm-for-next")

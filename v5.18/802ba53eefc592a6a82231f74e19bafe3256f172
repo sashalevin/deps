@@ -1,0 +1,6 @@
+802ba53eefc5 ("s390: add support for DCACHE_WORD_ACCESS")
+76292d7243f8 ("s390: provide word-at-a-time implementation")
+f39a8c4a22ea ("s390/extable: add EX_TABLE_UA_LOAD_REGPAIR() macro")
+454ede3f1424 ("s390/uaccess: use exception handler to zero result on get_user() failure")
+79a74dac447b ("s390/uaccess: use symbolic names for inline assembler operands")
+68a971acc948 ("s390/extable: prefer local labels in .set directives")

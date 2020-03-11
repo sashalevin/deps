@@ -1,0 +1,6 @@
+b5fbf0568c51 ("iio: imu: inv_mpu6050: convert to use i2c_new_client_device()")
+51f97f6dd73d ("iio: imu: inv_mpu6050: convert to use an explicit i2c mux core")
+d92241a0dc29 ("iio: imu: inv_mpu6050: Fix newlines to make code easier to read")
+b3eea8dacfb7 ("iio: imu: inv_mpu6050: Separate driver into core and i2c functionality.")
+d430f3c36ca6 ("iio: imu: inv_mpu6050: Use regmap instead of i2c specific functions")
+c278ac0ecd19 ("iio: imu: inv-mpu6050: Fix interrupt pin configuration")

@@ -1,1 +1,8 @@
 e4e5a865e9a9 ("KVM: arm/arm64: Fix emulated ptimer irq injection")
+bee038a67487 ("KVM: arm/arm64: Rework the timer code to use a timer_map")
+9e01dc76be6a ("KVM: arm/arm64: arch_timer: Assign the phys timer on VHE systems")
+e604dd5d45c7 ("KVM: arm/arm64: timer: Rework data structures for multiple timers")
+84135d3d18da ("KVM: arm/arm64: consolidate arch timer trap handlers")
+accb99bcd0ca ("KVM: arm/arm64: Simplify bg_timer programming")
+6e14ef1d12dc ("KVM: arm/arm64: arch_timer: Simplify kvm_timer_vcpu_terminate")
+8a411b060f82 ("KVM: arm/arm64: Remove arch timer workqueue")

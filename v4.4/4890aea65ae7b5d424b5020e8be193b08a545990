@@ -1,0 +1,8 @@
+4890aea65ae7 ("powerpc/64: Allocate pacas per node")
+59f577743d71 ("powerpc/64: Defer paca allocation until memory topology is discovered")
+384e8067844f ("powerpc/64s: Allocate slb_shadow structures individually")
+499dcd41378e ("powerpc/64s: Allocate LPPACAs individually")
+d2e60075a3d4 ("powerpc/64: Use array of paca pointers and allocate pacas individually")
+8e0b634b1327 ("powerpc/64s: Do not allocate lppaca if we are not virtualized")
+bdcb1aefc5b3 ("powerpc/64s: Improve RFI L1-D cache flush fallback")
+ebf0b6a8b1e4 ("Merge branch 'fixes' into next")

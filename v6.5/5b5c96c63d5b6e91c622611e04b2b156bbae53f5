@@ -1,0 +1,7 @@
+5b5c96c63d5b ("erofs: simplify readdir operation")
+958b9f85f8d9 ("erofs_buf: store address_space instead of inode")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+6b8a113cae6c ("erofs: get rid of ROOT_NID()")
+8b00be163f7b ("erofs: simplify z_erofs_read_fragment()")
+428f27cc8d32 ("erofs: clean up redundant comment and adjust code alignment")
+fd73a4395d47 ("erofs: boost negative xattr lookup with bloom filter")

@@ -1,0 +1,5 @@
+6c7b2202e4d1 ("KVM: x86: avoid memslot check in NX hugepage recovery if it cannot succeed")
+eb298605705a ("KVM: x86/mmu: Do not recover dirty-tracked NX Huge Pages")
+3a0567572225 ("KVM: x86/mmu: WARN if TDP MMU SP disallows hugepage after being zapped")
+55c510e26ab6 ("KVM: x86/mmu: Rename NX huge pages fields/functions for consistency")
+428e921611bc ("KVM: x86/mmu: Tag disallowed NX huge pages even if they're not tracked")

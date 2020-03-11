@@ -1,0 +1,6 @@
+671fae5e5129 ("blk-wbt: don't enable throttling if default elevator is bfq")
+181d06637451 ("elevator: add new field flags in struct elevator_queue")
+b11d31ae01e6 ("blk-wbt: remove unnecessary check in wbt_enable_default()")
+6d9f4cf12558 ("elevator: remove redundant code in elv_unregister_queue()")
+b96f3cab5965 ("block/bfq: Enable I/O statistics")
+4d337cebcb1c ("blk-mq: avoid to touch q->elevator without any protection")

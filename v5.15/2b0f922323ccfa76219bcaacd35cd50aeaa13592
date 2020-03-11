@@ -1,0 +1,7 @@
+2b0f922323cc ("mm: don't install PMD mappings when THPs are disabled by the hw/process/vma")
+3485b88390b0 ("mm: thp: introduce multi-size THP sysfs interface")
+7a81751fcdeb ("mm/thp: fix "mm: thp: kill __transhuge_page_enabled()"")
+daa60ae64c65 ("mm,thp: fix smaps THPeligible output alignment")
+3c556d2425b0 ("mm/thp: rename TRANSPARENT_HUGEPAGE_NEVER_DAX to _UNSUPPORTED")
+2cf1338454a8 ("mm: fix khugepaged with shmem_enabled=advise")
+676cb4957396 ("Merge tag 'mm-nonmm-stable-2022-10-11' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

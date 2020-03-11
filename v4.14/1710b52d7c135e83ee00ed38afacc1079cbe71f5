@@ -1,0 +1,8 @@
+1710b52d7c13 ("net: usb: smsc95xx: add generic selftest support")
+05b35e7eb9a1 ("smsc95xx: add phylib support")
+ad90a73f0236 ("smsc95xx: use usbnet->driver_priv")
+368be1ca28f6 ("smsc95xx: remove redundant function arguments")
+3ed58f96a70b ("smsc95xx: avoid memory leak in smsc95xx_bind")
+7c8b1e855f94 ("smsc95xx: check return value of smsc95xx_reset")
+b835a71ef64a ("usbnet: smsc95xx: Fix use-after-free after removal")
+7b900ead6cc6 ("usbnet: smsc95xx: disable carrier check while suspending")

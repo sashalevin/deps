@@ -1,0 +1,6 @@
+75c668cdd6ca ("io_uring: treat NONBLOCK and RWF_NOWAIT similarly")
+7335e3bf9d0a ("io_uring: don't forget to adjust io_size")
+1a2cc0ce8d18 ("io_uring: further simplify do_read error parsing")
+57cd657b8272 ("io_uring: simplify do_read return parsing")
+bf6182b6d46e ("io_uring: optimise io_rw_reissue()")
+9a173346bd9e ("io_uring: fix short read retries for non-reg files")

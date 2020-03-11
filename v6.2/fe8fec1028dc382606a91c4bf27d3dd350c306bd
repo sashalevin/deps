@@ -1,0 +1,4 @@
+fe8fec1028dc ("perf symbol-elf: Correct holding a reference")
+ff583dc43dc8 ("perf maps: Remove rb_node from struct map")
+83720209961f ("perf map: Move map list node into symbol")
+1c249565426e ("perf symbols: Symbol lookup with kcore can fail if multiple segments match stext")

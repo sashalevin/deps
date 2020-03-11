@@ -1,0 +1,4 @@
+bfbb307c6286 ("KVM: VMX: Set failure code in prepare_vmcs02()")
+d196842150e0 ("KVM: nVMX: WARN on failure to set IA32_PERF_GLOBAL_CTRL")
+71f7347025bf ("KVM: nVMX: Load GUEST_IA32_PERF_GLOBAL_CTRL MSR on VM-Entry")
+458151f65b4d ("KVM: nVMX: Use kvm_set_msr to load IA32_PERF_GLOBAL_CTRL on VM-Exit")

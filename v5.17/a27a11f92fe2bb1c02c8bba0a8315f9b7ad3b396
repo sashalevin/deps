@@ -1,0 +1,5 @@
+a27a11f92fe2 ("mm/mremap: use vmi version of vma_merge()")
+d014cd7c1c35 ("mm, mremap: fix mremap() expanding for vma's with vm_ops->close()")
+6f12be792fde ("mm, mremap: fix mremap() expanding vma with addr inside vma")
+ca3d76b0aa80 ("mm: add merging after mremap resize")
+9c85a9bae267 ("selftest/vm: verify mmap addr in mremap_test")

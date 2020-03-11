@@ -1,0 +1,8 @@
+e0491f64795b ("s390/bpf: Align literal pool entries")
+6ad2e1a00729 ("s390/bpf: Wrap JIT macro parameter usages in parentheses")
+166f11d11f6f ("s390/bpf: Use kvcalloc for addrs array")
+1c8f9b91c456 ("bpf: s390: add JIT support for multi-function programs")
+591006b9e754 ("s390: bpf: eliminate zero extension code-gen")
+f605ce5eb26a ("bpf, s390: fix potential memleak when later bpf_jit_prog fails")
+de5cb6eb514e ("s390: use expoline thunks in the BPF JIT")
+78372709bf95 ("s390/bpf: take advantage of stack_depth tracking")

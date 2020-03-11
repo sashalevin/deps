@@ -1,0 +1,3 @@
+1f5a21ee8400 ("KVM: X86: Add parameter struct kvm_mmu *mmu into mmu->gva_to_gpa()")
+61b05a9fd4ae ("KVM: X86: Don't unload MMU in kvm_vcpu_flush_tlb_guest()")
+264d3dc1d3dc ("KVM: X86: pair smp_wmb() of mmu_try_to_unsync_pages() with smp_rmb()")

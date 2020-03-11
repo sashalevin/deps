@@ -1,0 +1,6 @@
+aa7e17a3e35a ("net: atlantic: additional per-queue stats")
+d7d8bb928613 ("net: atlantic: use u64_stats_update_* to protect access to 64-bit stats")
+508f2e3dce45 ("net: atlantic: split rx and tx per-queue stats")
+b772112c5af0 ("net: atlantic: make _get_sw_stats return count as return value")
+3624aa3c2582 ("net: atlantic: use simple assignment in _get_stats and _get_sw_stats")
+586616cbd466 ("net: atlantic: fix typo in aq_ring_tx_clean")

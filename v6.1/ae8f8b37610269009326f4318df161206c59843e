@@ -1,0 +1,8 @@
+ae8f8b376102 ("KVM: arm64: Unregister redistributor for failed vCPU creation")
+f616506754d3 ("KVM: arm64: vgic: Don't hold config_lock while unregistering redistributors")
+03b3d00a70b5 ("KVM: arm64: vgic: Allocate private interrupts on demand")
+02e3858f08fa ("KVM: arm64: vgic: Force vcpu vgic teardown on vcpu destroy")
+01ad29d224ff ("KVM: arm64: vgic: Simplify kvm_vgic_destroy()")
+1caa71a7a600 ("KVM: arm64: Restore GICv2-on-GICv3 functionality")
+59112e9c390b ("KVM: arm64: vgic: Fix a circular locking issue")
+f00327731131 ("KVM: arm64: Use config_lock to protect vgic state")

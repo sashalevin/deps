@@ -1,0 +1,4 @@
+d2f85a263883 ("iommu: Pass domain to remove_dev_pasid() op")
+b025dea63cde ("iommu: Undo pasid attachment only for the devices that have succeeded")
+1903ef8f0d77 ("iommu/vt-d: Refactor device_to_iommu() to retrieve iommu directly")
+79ae1eccd3f7 ("iommu/vt-d: Add helper for nested domain allocation")

@@ -1,0 +1,8 @@
+e5dfb9416b6e ("wifi: mac80211: fix another key installation error path")
+2a8b665e6bcc ("wifi: mac80211: remove key_mtx")
+4d3acf4311a0 ("wifi: mac80211: remove sta_mtx")
+01ca280d323e ("wifi: mac80211: ethtool: hold wiphy mutex")
+e3208fb739e5 ("wifi: mac80211: move key tailroom work to wiphy work")
+f52a0b408ed1 ("wifi: mac80211: mark keys as uploaded when added by the driver")
+b8b80770b26c ("wifi: mac80211: avoid lockdep checking when removing deflink")
+79973d5cfdc1 ("wifi: mac80211: add set_active_links variant not locking sdata")

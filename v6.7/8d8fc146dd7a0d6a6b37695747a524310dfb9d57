@@ -1,0 +1,7 @@
+8d8fc146dd7a ("nvmem: core: switch to use device_add_groups()")
+0331c611949f ("nvmem: core: Expose cells through sysfs")
+fc29fd821d9a ("nvmem: core: Rework layouts to become regular devices")
+1172460e7167 ("nvmem: Move and rename ->fixup_cell_info()")
+1b7c298a4ecb ("nvmem: Simplify the ->add_cells() hook")
+ec9c08a1cb8d ("nvmem: Create a header for internal sharing")
+4a1a40233b4a ("nvmem: Move of_nvmem_layout_get_container() in another header")

@@ -1,0 +1,6 @@
+8ca57e4fc9aa ("drm/i915/fbc: drop uncore locking around i8xx/i965 fbc nuke")
+0242cd3a538f ("drm/i915/fbc: Introduce .nuke() vfunc")
+41b85a5202b7 ("drm/i915/fbc: Introduce intel_fbc_funcs")
+74e0457a62c6 ("drm/i915/fbc: Introduce intel_fbc_is_compressing()")
+2013ab184971 ("drm/i915/fbc: Extract {skl,glk}_fbc_program_cfb_stride()")
+b50364af7af4 ("drm/i915/fbc: Extract snb_fbc_program_fence()")

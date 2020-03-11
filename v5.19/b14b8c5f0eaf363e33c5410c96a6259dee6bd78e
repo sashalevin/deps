@@ -1,0 +1,8 @@
+b14b8c5f0eaf ("drm/msm: Decouple vma tracking from obj lock")
+fc2f07566a2c ("drm/msm/gem: Tidy up VMA API")
+084b9e1732f7 ("drm/msm/gem: Unpin objects slightly later")
+da53d8b54647 ("drm/msm/gem: Remove active refcnt")
+9fd5ff7f284a ("drm/msm/gem: Consolidate pin/unpin paths")
+901df24d7ca6 ("drm/msm/gem: Rename update_inactive")
+01780d02634a ("drm/msm/gem: Check for active in shrinker path")
+a414fe3a2129 ("drm/msm/gem: Drop obj lock in msm_gem_free_object()")

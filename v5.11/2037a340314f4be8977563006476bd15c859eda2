@@ -1,0 +1,8 @@
+2037a340314f ("scsi: libsas: Add TMF handler exec complete callback")
+001ec7f89bea ("scsi: libsas: Add sas_execute_tmf()")
+4aef43b25df2 ("scsi: libsas: Move SMP task handlers to core")
+08d0a992131a ("scsi: pm80xx: Fix incorrect port value when registering a device")
+de6d7547ce1d ("scsi: pm80xx: Switch back to original libsas event notifiers")
+cd4e8176989f ("scsi: pm80xx: Pass gfp_t flags to libsas event notifiers")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")

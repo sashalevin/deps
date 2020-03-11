@@ -1,0 +1,5 @@
+f3a519e4add9 ("perf/aux: Fix AUX output stopping")
+8b6a3fe8fab9 ("perf/core: Use this_cpu_ptr() when stopping AUX events")
+95ff4ca26c49 ("perf/core: Free AUX pages in unmap path")
+dcb10a967ce8 ("perf/ring_buffer: Refuse to begin AUX transaction after rb->aux_mmap_count drops")
+45c815f06b80 ("perf: Synchronously free aux pages in case of allocation failure")

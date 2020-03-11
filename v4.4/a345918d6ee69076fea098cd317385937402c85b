@@ -1,0 +1,7 @@
+a345918d6ee6 ("vga_switcheroo: Support deferred probing of audio clients")
+b00e5334ab1b ("vga_switcheroo: Add helper for deferred probing")
+412c8f7de011 ("drm/radeon: Return -EPROBE_DEFER when amdkfd not loaded")
+c68f4528a2e9 ("drm/amdkfd: Track when module's init is complete")
+14d2000182ed ("drm/radeon: Defer probe if gmux is present but its driver isn't")
+98b3a3402eb6 ("drm/nouveau: Defer probe if gmux is present but its driver isn't")
+704ab614ec12 ("drm/i915: Defer probe if gmux is present but its driver isn't")

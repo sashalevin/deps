@@ -1,0 +1,7 @@
+21a0502d5910 ("net/mlx5e: Use the aligned max TX MPWQE size")
+527918e9cc4d ("net/mlx5e: Use mlx5e_stop_room_for_max_wqe where appropriate")
+ed5c92ff0f3e ("net/mlx5e: Let mlx5e_get_sw_max_sq_mpw_wqebbs accept mdev")
+665f29de4ca3 ("net/mlx5e: Remove unused fields from datapath structs")
+677e78c8d44f ("net/mlx5e: Fix calculations related to max MPWQE size")
+76c31e5f7585 ("net/mlx5e: Use FW limitation for max MPW WQEBBs")
+c27bd1718c06 ("net/mlx5e: Read max WQEBBs on the SQ from firmware")

@@ -1,0 +1,5 @@
+eb9d1acf634b ("bpftool: Add LLVM as default library for disassembling JIT-ed programs")
+e1947c750ffe ("bpftool: Refactor disassembler for JIT-ed programs")
+2ea4d86a5093 ("bpftool: Group libbfd defs in Makefile, only pass them if we use libbfd")
+108326d6fa6c ("bpftool: Split FEATURE_TESTS/FEATURE_DISPLAY definitions in Makefile")
+55b4de58d0e2 ("bpftool: Remove asserts from JIT disassembler")

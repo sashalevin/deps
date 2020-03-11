@@ -1,0 +1,8 @@
+cbc911392c05 ("RISC-V: Remove the removed single-letter extensions")
+effc122ad176 ("RISC-V: add single letter extensions to riscv_isa_ext")
+c30556e318cc ("RISC-V: add missing single letter extension definitions")
+37f988dcec05 ("RISC-V: repurpose riscv_isa_ext array in riscv_fill_hwcap()")
+8135ade32c0d ("RISC-V: shunt isa_ext_arr to cpufeature.c")
+131033689da2 ("RISC-V: drop a needless check in print_isa_ext()")
+67270fb388fe ("RISC-V: don't parse dt/acpi isa string to get rv32/rv64")
+42b89447b658 ("Merge patch series "ISA string parser cleanups"")

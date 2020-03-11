@@ -1,0 +1,7 @@
+b261eda84ec1 ("soreuseport: Fix socket selection for SO_INCOMING_CPU.")
+69421bf98482 ("udp: Update reuse->has_conns under reuseport_lock.")
+1cd62c21572c ("tcp: Add reuseport_migrate_sock() to select a new listener.")
+333bb73f620e ("tcp: Keep TCP_CLOSE sockets in the reuseport group.")
+5c040eaf5d17 ("tcp: Add num_closed_socks to struct sock_reuseport.")
+fd2ddef04359 ("udp: Prevent reuseport_select_sock from reading uninitialized socks")
+a57066b1a019 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

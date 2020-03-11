@@ -1,0 +1,5 @@
+a581865ecd0a ("mm/hwpoison-inject: support injecting hwpoison to free page")
+fd476720c9ba ("mm,hwpoison-inject: don't pin for hwpoison_filter")
+d4ae9916ea29 ("mm: soft-offline: close the race against page allocation")
+6bc9b56433b7 ("mm: fix race on soft-offlining free huge pages")
+83b57531c58f ("mm/memory_failure: Remove unused trapno from memory_failure")

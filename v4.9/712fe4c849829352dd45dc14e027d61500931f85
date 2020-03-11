@@ -1,0 +1,8 @@
+712fe4c84982 ("serial: sh-sci: Remove BREAK/FRAME/PARITY/OVERRUN printouts")
+d5cb1319a91d ("serial: sh-sci: Remove manual break debouncing")
+b2f20ed9c483 ("serial: sh-sci: Extend sci_port_params with more port parameters")
+daf5a8959a83 ("serial: sh-sci: Constify platform data")
+e095ee6b447a ("serial: sh-sci: Replace regmap array with port parameters")
+40b34ddb0385 ("serial: sh-sci: Remove initialization of zero fields in sci_port_params")
+a752ba18af82 ("serial: sh-sci: Fix register offsets for the IRDA serial port")
+9f8325b3c19c ("serial: sh-sci: Set the SCSCR TE and RE bits in the driver")

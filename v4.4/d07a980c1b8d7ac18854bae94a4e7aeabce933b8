@@ -1,0 +1,7 @@
+d07a980c1b8d ("s390: add proper __ro_after_init support")
+0ccb32c983e0 ("s390/mm: align swapper_pg_dir to 16k")
+bab247ff5f66 ("s390/vmem: simplify vmem code for read-only mappings")
+2dffdcbac91c ("s390/vmem: introduce and use SEGMENT_KERNEL and REGION3_KERNEL")
+c34a69059d78 ("s390/vmem: fix identity mapping")
+91d372117695 ("s390: add DEBUG_RODATA support")
+271ecc5253e2 ("Merge branch 'akpm' (patches from Andrew)")

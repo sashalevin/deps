@@ -1,0 +1,6 @@
+756344e7cb1a ("soc: sifive: ccache: fix missing free_irq() in error path in sifive_ccache_init()")
+73e770f08502 ("soc: sifive: ccache: fix missing iounmap() in error path in sifive_ccache_init()")
+696ab9bda22a ("soc: sifive: ccache: use pr_fmt() to remove CCACHE: prefixes")
+3fb787e5bad5 ("soc: sifive: ccache: reduce printing on init")
+95f196f3212b ("soc: sifive: ccache: determine the cache level from dts")
+ca120a79cf5a ("soc: sifive: ccache: Rename SiFive L2 cache to Composable cache.")

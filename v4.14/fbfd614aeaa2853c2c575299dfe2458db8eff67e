@@ -1,0 +1,6 @@
+fbfd614aeaa2 ("clk: renesas: cpg-mssr: Fix use after free if cpg_mssr_common_init() failed")
+8f5e20b6b884 ("clk: renesas: cpg-mssr: Combine driver-private and clock array allocation")
+d2e4cb45af8f ("clk: renesas: cpg-mssr: Update kerneldoc for struct cpg_mssr_priv")
+1f7db7bbf031 ("clk: renesas: cpg-mssr: Add early clock support")
+1f4023cdd1bd ("clk: renesas: cpg-mssr: Add support to restore core clocks during resume")
+560869100b99 ("clk: renesas: cpg-mssr: Restore module clocks during resume")

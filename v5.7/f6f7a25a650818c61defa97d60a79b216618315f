@@ -1,0 +1,8 @@
+f6f7a25a6508 ("fs: export variant of generic_write_checks without iov_iter")
+407e9c63ee57 ("vfs: move the generic write and copy checks out of mm")
+1b2c54d63cde ("vfs: move the remap range helpers to remap_range.c")
+02e83f46ebfa ("vfs: move generic_remap_checks out of mm")
+c60166f04283 ("init: add an init_mount helper")
+bcbacc4909f1 ("devtmpfs: refactor devtmpfsd()")
+a1e6aaa3743a ("fs: refactor do_mount")
+d85dc2e116fd ("fs: export generic_file_buffered_read()")

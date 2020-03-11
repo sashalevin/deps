@@ -1,0 +1,5 @@
+bfa53e0e366b ("usb: musb: musb_cppi41: Fix the address of teardown and autoreq registers")
+995ee0eab88d ("usb: musb: cppi_dma: Clean up cppi41_dma_controller structure")
+b99d3659b309 ("usb: musb: switch dev_dbg to tracepoints")
+dbac5d07d13e ("usb: musb: host: don't start next rx urb if current one failed")
+3ec08ddf13d5 ("usb: musb: use %pad format string from dma_addr_t")

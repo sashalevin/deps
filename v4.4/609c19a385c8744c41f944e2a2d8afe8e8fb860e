@@ -1,0 +1,4 @@
+609c19a385c8 ("x86/ptrace: Stop setting TS_COMPAT in ptrace code")
+abfb9498ee13 ("x86/entry: Rename is_{ia32,x32}_task() to in_{ia32,x32}_syscall()")
+4e79e182b419 ("x86/entry/compat: Keep TS_COMPAT set during signal delivery")
+95d97adb2bb8 ("x86/signal: Cleanup get_nr_restart_syscall()")

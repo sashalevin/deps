@@ -1,0 +1,7 @@
+31552385f8e9 ("locking/spinlock/rt: Prepare for RT local_lock")
+0f383b6dc96e ("locking/spinlock: Provide RT variant")
+342a93247e08 ("locking/spinlock: Provide RT variant header: <linux/spinlock_rt.h>")
+051790eecc03 ("locking/spinlock: Provide RT specific spinlock_t")
+4f084ca74c3f ("locking/spinlock: Split the lock types header, and move the raw types into <linux/spinlock_types_raw.h>")
+531ae4b06a73 ("locking/rtmutex: Split API from implementation")
+b41cda037655 ("locking/rtmutex: Set proper wait context for lockdep")

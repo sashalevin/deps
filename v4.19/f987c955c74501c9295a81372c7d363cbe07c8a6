@@ -1,1 +1,3 @@
 f987c955c745 ("x86/elf: Enumerate kernel FSGSBASE capability in AT_HWCAP2")
+2032f1f96ee0 ("x86/cpu: Enable FSGSBASE on 64bit by default and add a chicken bit")
+b64ed19b93c3 ("x86/cpu: Add 'unsafe_fsgsbase' to enable CR4.FSGSBASE")

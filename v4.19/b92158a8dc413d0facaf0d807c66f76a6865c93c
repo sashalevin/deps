@@ -1,0 +1,8 @@
+b92158a8dc41 ("wifi: mt76: mmio: move mt76_mmio_wed_{init,release}_rx_buf in common code")
+bafd764a8baa ("net: ethernet: mtk_wed: rename mtk_rxbm_desc in mtk_wed_bm_desc")
+a97a467a4421 ("wifi: mt76: mt7915: release rxwi in mt7915_wed_release_rx_buf")
+2f5c3c77fc9b ("wifi: mt76: switch to page_pool allocator")
+412d19b42042 ("wifi: mt76: mt7915: fix memory leak in mt7915_mmio_wed_init_rx_buf")
+3f7dda36e0b6 ("wifi: mt76: dma: fix memory leak running mt76_dma_tx_cleanup")
+1b88b47e898e ("wifi: mt76: dma: free rx_head in mt76_dma_rx_cleanup")
+d0e99511834b ("Merge wireless into wireless-next")

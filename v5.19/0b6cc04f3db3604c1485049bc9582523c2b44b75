@@ -1,0 +1,8 @@
+0b6cc04f3db3 ("mm: introduce CONFIG_PER_VMA_LOCK")
+ec1c86b25f4b ("mm: multi-gen LRU: groundwork")
+5bb88dc571b1 ("mm: move page zone helpers from mm.h to mmzone.h")
+85cd7791a809 ("mm/swap: convert lru_deactivate to a folio_batch")
+7a3dbfe8a52b ("mm/swap: convert lru_deactivate_file to a folio_batch")
+70dea5346ea3 ("mm/swap: convert lru_add to a folio_batch")
+7d80dd096f8f ("mm/swap: make __pagevec_lru_add static")
+c2bc16817aa0 ("mm/swap: add folio_batch_move_lru()")

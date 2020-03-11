@@ -1,0 +1,7 @@
+b833ce15ce33 ("usb: dwc2: gadget: Add endpoint wedge support")
+5f54c54b0ba8 ("usb: dwc2: gadget: Add DDMA chain pointers to dwc2_hsotg_ep structure")
+837e9f00bf99 ("usb: dwc2: gadget: Final fixes for BDMA ISOC")
+142bd33fcd18 ("usb: dwc2: gadget: Corrected interval calculation")
+92d1635d781a ("usb: dwc2: gadget: Add dwc2_gadget_incr_frame_num()")
+51da43b555ba ("usb: dwc2: gadget: Do not halt endpoint if active")
+3be99cd0e882 ("usb: dwc2: gadget: don't overwrite DCTL register on NAKEFF interrupts")

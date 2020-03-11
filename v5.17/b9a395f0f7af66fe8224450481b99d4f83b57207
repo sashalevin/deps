@@ -1,0 +1,5 @@
+b9a395f0f7af ("bpf, btf: Fix return value of register_btf_id_dtor_kfuncs")
+5ce937d613a4 ("bpf: Populate pairs of btf_id and destructor kfunc in btf")
+e70e13e7d4ab ("bpf: Implement bpf_core_types_are_compat().")
+b202d8442222 ("bpf: Remove check_kfunc_call callback and old kfunc BTF ID API")
+dee872e124e8 ("bpf: Populate kfunc BTF ID sets in struct btf")

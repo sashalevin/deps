@@ -1,0 +1,4 @@
+70a0d499db05 ("serial: 8250_dw: Use devm_clk_get_optional_enabled()")
+57f83e5dd6a3 ("serial: 8250_dw: Use dev_err_probe()")
+295b09128d12 ("serial: 8250_dw: Use devm_add_action_or_reset()")
+85985a3dcd74 ("serial: 8250_dw: Fix clk-notifier/port suspend deadlock")

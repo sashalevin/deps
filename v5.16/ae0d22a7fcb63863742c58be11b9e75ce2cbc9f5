@@ -1,0 +1,8 @@
+ae0d22a7fcb6 ("btrfs: migrate insert_inline_extent() to folio interfaces")
+eb1fa9ab4702 ("btrfs: make insert_inline_extent() accept one page directly")
+4cb2e5e8fe47 ("btrfs: replace kmap_atomic() with kmap_local_page()")
+7c0c7269f7b5 ("btrfs: add BTRFS_IOC_ENCODED_WRITE")
+1881fba89bd5 ("btrfs: add BTRFS_IOC_ENCODED_READ ioctl")
+d9496e8aba49 ("btrfs: optionally extend i_size in cow_file_range_inline()")
+8dd9872d2e26 ("btrfs: clean up cow_file_range_inline()")
+cb36a9bb17c4 ("btrfs: add ram_bytes and offset to btrfs_ordered_extent")

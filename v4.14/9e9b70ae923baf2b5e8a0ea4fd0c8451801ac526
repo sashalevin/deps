@@ -1,0 +1,6 @@
+9e9b70ae923b ("tcp: use different parts of the port_offset for index and offset")
+b2d057560b81 ("secure_seq: use the 64 bits of the siphash for port offset calculation")
+190cc82489f4 ("tcp: change source port randomizarion at connect() time")
+3c82a21f4320 ("net: allow binding socket in a VRF when there's an unbound socket")
+2ab2ddd301a2 ("inet: make sure to grab rcu_read_lock before using ireq->ireq_opt")
+1ad98e9d1bdf ("tcp/dccp: fix lockdep issue when SYN is backlogged")

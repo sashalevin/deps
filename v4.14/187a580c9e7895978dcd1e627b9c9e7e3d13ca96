@@ -1,0 +1,5 @@
+187a580c9e78 ("scsi: iscsi: Fix set_param() handling")
+9e67600ed6b8 ("scsi: iscsi: Fix race condition between login and sync thread")
+7e7cd796f277 ("scsi: iscsi: Fix deadlock on recovery path during GFP_IO reclaim")
+82b8cf40bfe1 ("scsi: iscsi: Report connection state in sysfs")
+0ab710458da1 ("scsi: iscsi: Perform connection failure entirely in kernel space")

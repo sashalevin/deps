@@ -1,0 +1,4 @@
+2386eef2141c ("mm: workingset: replace IRQ-off check with a lockdep assert.")
+68d48e6a2df5 ("mm: workingset: add vmstat counter for shadow nodes")
+c7df8ad2910e ("mm, truncate: do not check mapping for every page being truncated")
+aa65c29ce1b6 ("mm: batch radix tree operations when truncating pages")

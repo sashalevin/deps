@@ -1,0 +1,4 @@
+7a983a0fe2a2 ("perf trace: Pass augmented args to the arg formatters when available")
+f3acd8869b9b ("perf trace: Use perf_evsel__sc_tp_{uint,ptr} for "id"/"args" handling syscalls:* events")
+a98392bb1e16 ("perf trace: Use beautifiers on syscalls:sys_enter_ handlers")
+6a648b534d3d ("perf trace: Associate vfs_getname()'ed pathname with fd returned from 'openat'")

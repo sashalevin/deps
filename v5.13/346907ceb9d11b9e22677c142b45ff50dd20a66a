@@ -1,0 +1,6 @@
+346907ceb9d1 ("mm, slab: ignore hardened usercopy parameters when disabled")
+b84e04f1baee ("kfence: add sysfs interface to disable kfence for selected slabs.")
+a285909f471d ("mm/slub, kunit: Make slub_kunit unaffected by user specified flags")
+07e8481d3c38 ("kfence: always use static branches to guard kfence_alloc()")
+235a85cb32bb ("kfence: move the size check to the beginning of __kfence_alloc()")
+1f9f78b1b376 ("mm/slub, kunit: add a KUnit test for SLUB debugging functionality")

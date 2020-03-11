@@ -1,0 +1,4 @@
+304a351957fc ("drm: remove legacy drm_pci_alloc/free abstraction")
+36b73b051c41 ("drm: Upcast struct drm_device.dev to struct pci_device; replace pdev")
+b1dda997a8a9 ("drm: Use a const drm_driver for legacy PCI devices")
+8dbe1b4a1597 ("drm: Move legacy device list out of drm_driver")

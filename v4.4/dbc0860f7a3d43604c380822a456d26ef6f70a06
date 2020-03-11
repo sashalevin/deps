@@ -1,0 +1,8 @@
+dbc0860f7a3d ("hwmon: (pmbus) Add new pmbus flag NO_WRITE_PROTECT")
+86c908d90fb1 ("hwmon: (pmbus) Add new flag PMBUS_READ_STATUS_AFTER_FAILED_CHECK")
+e5befc024cb4 ("hwmon: (pmbus) Add a PMBUS_NO_CAPABILITY platform data flag")
+9e347728c4fe ("hwmon: (pmbus) Detect if chip is write protected")
+e7c6a55606b5 ("hwmon: (pmbus) Fix page count auto-detection.")
+d206636e7697 ("hwmon: (pmbus) Add fan control support")
+6dcf2fb5e8db ("hwmon: (pmbus/core) Prevent unintentional setting of page to 0xFF")
+1e069dfd96df ("hwmon: (pmbus) Add debugfs for status registers")

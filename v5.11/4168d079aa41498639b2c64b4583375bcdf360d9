@@ -1,0 +1,5 @@
+4168d079aa41 ("can: dev: can_free_echo_skb(): don't crash the kernel if can_priv::echo_skb is accessed out of bounds")
+18f2dbfd2232 ("can: dev: move skb related into seperate file")
+bdd2e413192d ("can: dev: move length related code into seperate file")
+5a9d5ecd69ed ("can: dev: move bittiming related code into seperate file")
+3e77f70e7345 ("can: dev: move driver related infrastructure into separate subdir")

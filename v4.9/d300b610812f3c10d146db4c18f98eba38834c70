@@ -1,0 +1,5 @@
+d300b610812f ("kernel: use kernel_wait4() instead of sys_wait4()")
+235586939d7f ("kmod: split out umh code into its own file")
+165d1cc0074b ("kmod: reduce atomic operations on kmod_concurrent and simplify")
+64e90a8acb85 ("Introduce STATIC_USERMODEHELPER to mediate call_usermodehelper()")
+6d2c5d6c46dd ("kmod: make usermodehelper path a const string")

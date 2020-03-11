@@ -1,0 +1,5 @@
+0c565d16b800 ("firmware: arm_ffa: Handle partitions setup failures")
+ace760d9c049 ("firmware: arm_ffa: Use xa_insert() and check for result")
+ad9d9a107a43 ("firmware: arm_ffa: Simplify ffa_partitions_cleanup()")
+5ff30ade16cd ("firmware: arm_ffa: Add missing rwlock_init() for the driver partition")
+59b2e242b131 ("firmware: arm_ffa: Add missing rwlock_init() in ffa_setup_partitions()")

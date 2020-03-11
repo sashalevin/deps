@@ -1,0 +1,8 @@
+ffb9f18ad8f0 ("brcmfmac: rename brcmf_fws_{de,}init to brcmf_fws{at,de}tach")
+8f9dd1a97438 ("brcmfmac: move brcmf_fws_deinit to bcdc layer")
+62c50a34883c ("brcmfmac: wrap brcmf_fws_init into bcdc layer")
+66ded1f8b33c ("brcmfmac: wrap brcmf_fws_reset_interface into bcdc layer")
+c02a5eb82056 ("brcmfmac: wrap brcmf_fws_del_interface into bcdc layer")
+9fdc64bbdbe7 ("brcmfmac: wrap brcmf_fws_add_interface into bcdc layer")
+bfa7295e5b4d ("brcmfmac: drop brcmf_bus_detach and inline its code")
+b073ac1fcf42 ("brcmfmac: proto: add callback for queuing TX data")

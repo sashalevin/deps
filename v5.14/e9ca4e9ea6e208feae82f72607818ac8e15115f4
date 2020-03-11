@@ -1,0 +1,6 @@
+e9ca4e9ea6e2 ("drm/gma500: Read EDID from the correct i2c adapter")
+ba1677f76b9a ("drm/gma500: Make gma_i2c_chan a subclass of i2c_adapter")
+04477e5e1e6c ("drm/gma500: Use gma_ prefix for our i2c abstraction")
+9f8308f4c94a ("drm/gma500: gma500 don't register non-hotpluggable connectors")
+f71635e893c3 ("drm/gma500: Replace references to dev_private with helper function")
+229085070036 ("drm/gma500: Convert to Linux IRQ interfaces")

@@ -1,0 +1,5 @@
+606a5d4227e4 ("opp: Don't drop extra references to OPPs accidentally")
+cf1fac943c63 ("opp: Reduce the size of critical section in _opp_kref_release()")
+922ff0759a16 ("opp: Don't drop reference for an OPP table that was never parsed")
+03758d60265c ("opp: Replace list_kref with a local counter")
+ba0033192145 ("opp: Free static OPPs on errors while adding them")

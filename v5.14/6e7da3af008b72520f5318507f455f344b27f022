@@ -1,0 +1,5 @@
+6e7da3af008b ("fbcon: Move console_lock for register/unlink/unregister")
+04933a294dac ("fbcon: use lock_fb_info in fbcon_open/release")
+d443d9386472 ("fbcon: move more common code into fb_open()")
+bd6026a8c4e6 ("fbcon: Extract fbcon_open/release helpers")
+3b0fb6ab25dd ("fbcon: Use delayed work for cursor")

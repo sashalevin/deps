@@ -1,0 +1,5 @@
+05972f53a12f ("power: supply: axp288_fuel_gauge: Refactor IRQ initialization")
+f1b7e0881fe1 ("power: supply: axp288_fuel_gauge: Use devm_power_supply_register()")
+360108661277 ("power: supply: axp288_fuel_gauge: Use devm_add_action_or_reset() for iio chan release")
+0b80eb6c3832 ("power: supply: axp288_fuel_gauge: Add axp288_fuel_gauge_read_initial_regs()")
+b2657167447a ("power: supply: axp288_fuel_gauge: Add dev helper var to probe()")

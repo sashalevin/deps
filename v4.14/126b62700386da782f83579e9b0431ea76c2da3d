@@ -1,0 +1,8 @@
+126b62700386 ("mmc: core: Remove code no longer needed after the switch to blk-mq")
+1bec43a3b181 ("mmc: core: Remove option not to use blk-mq")
+d2383318c5a6 ("mmc: core: Ensure cmd_completion is initialized")
+c3d53d0da69d ("mmc: core: Add parameter use_blk_mq")
+afab1bb8b40c ("mmc: core: Make mmc_pre_req() and mmc_post_req() available")
+6186d06c519e ("mmc: parse new binding for eMMC fixed driver type")
+cb39f61e9b1e ("mmc: core: Export a few functions needed for blkmq support")
+72a5af554df8 ("mmc: core: Add support for handling CQE requests")

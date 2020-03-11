@@ -1,0 +1,3 @@
+87d599fc3955 ("kbuild: ensure Make >= 3.82 is used")
+121c2a137767 ("kbuild: error out if targets prefixed with '__' are directly run")
+93fdddfefc83 ("kbuild: add this-makefile as a shorthand for $(lastword $(MAKEFILE_LIST))")

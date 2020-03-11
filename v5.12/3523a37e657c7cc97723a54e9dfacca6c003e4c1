@@ -1,0 +1,7 @@
+3523a37e657c ("mm: provide vm_normal_(page|folio)_pmd() with CONFIG_PGTABLE_HAS_HUGE_LEAVES")
+318e9342fbbb ("mm/memory: add vm_normal_folio()")
+3506659e18a6 ("mm: Add unmap_mapping_folio()")
+efe99bba2862 ("truncate: Add truncate_cleanup_folio()")
+91b61ef333cf ("mm: add zap_skip_check_mapping() helper")
+232a6a1c0619 ("mm: drop first_index/last_index in zap_details")
+22061a1ffabd ("mm/thp: unmap_mapping_page() to fix THP truncate_cleanup_page()")

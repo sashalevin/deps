@@ -1,1 +1,3 @@
 8cd2bc981c53 ("netfilter: nf_flow_table: do not flow offload deleted conntrack entries")
+b96609876922 ("netfilter: nf_flow_table: simplify nf_flow_offload_gc_step()")
+0de22baabc97 ("netfilter: nf_tables: use rhashtable_walk_enter instead of rhashtable_walk_init")

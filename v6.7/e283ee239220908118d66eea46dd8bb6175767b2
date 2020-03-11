@@ -1,0 +1,4 @@
+e283ee239220 ("rust: kernel: add reexports for macros")
+e7b9b1ff1d49 ("rust: sync: add `CondVar::wait_timeout`")
+6b1b2326b2bc ("rust: sync: `CondVar` rename "wait_list" to "wait_queue_head"")
+0a7f5ba73e57 ("rust: sync: Makes `CondVar::wait()` an uninterruptible wait")

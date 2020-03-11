@@ -1,0 +1,5 @@
+d1ec50adb560 ("ep_insert(): move creation of wakeup source past the fl_ep_links insertion")
+e3e096e7fc30 ("ep_insert(): don't open-code ep_remove() on failure exits")
+364f374f22ba ("epoll: get rid of epitem->nwait")
+80285b75c683 ("epoll: switch epitem->pwqlist to single-linked list")
+f8d4f44df056 ("epoll: do not insert into poll queues until all sanity checks are done")

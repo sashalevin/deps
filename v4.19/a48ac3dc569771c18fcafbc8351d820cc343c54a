@@ -1,0 +1,5 @@
+a48ac3dc5697 ("pwm: ep93xx: drop legacy pinctrl")
+ecb4ec5ab8b2 ("pwm: ep93xx: Make use of pwmchip_parent() accessor")
+72cce47fe8f8 ("pwm: ep93xx: Unfold legacy callbacks into ep93xx_pwm_apply()")
+6d45374af539 ("pwm: ep93xx: Implement .apply callback")
+67e38f578aae ("ARM: ep93xx: move pinctrl interfaces into include/linux/soc")

@@ -1,0 +1,7 @@
+38cefeb33749 ("mm: remove nr_entries parameter from pagevec_lookup_entries")
+31d270fd98d1 ("mm: add an 'end' parameter to pagevec_lookup_entries")
+ca122fe40eb4 ("mm: add an 'end' parameter to find_get_entries")
+5c211ba29deb ("mm: add and use find_lock_entries")
+c7bad633e6b7 ("mm/filemap: add helper for finding pages")
+44835d20b2a0 ("mm: add FGP_ENTRY")
+c49f50d1983d ("mm: make pagecache tagged lookups return only head pages")

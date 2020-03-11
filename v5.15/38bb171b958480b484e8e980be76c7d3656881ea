@@ -1,0 +1,7 @@
+38bb171b9584 ("powerpc/kuap: Fold kuep_is_disabled() into its only user")
+c252f3846d31 ("powerpc/kuap: Check KUAP activation in generic functions")
+ba454f9c8e4e ("powerpc/kuap: Add a generic intermediate layer")
+70428da94c7a ("powerpc/32s: Save content of sr0 to avoid 'mfsr'")
+526d4a4c77ae ("powerpc/32s: Do kuep_lock() and kuep_unlock() in assembly")
+df415cd75826 ("powerpc/32s: Remove capability to disable KUEP at boottime")
+6c1fa60d368e ("Revert "powerpc: Inline setup_kup()"")

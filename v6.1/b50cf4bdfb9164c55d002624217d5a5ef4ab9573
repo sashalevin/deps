@@ -1,0 +1,4 @@
+b50cf4bdfb91 ("dmaengine: at_hdmac: Introduce atc_get_llis_residue()")
+91617bf6bb41 ("dmaengine: at_hdmac: s/atc_get_bytes_left/atc_get_residue")
+f5d79afa3a85 ("dmaengine: at_hdmac: Pass residue by address to avoid unnecessary implicit casts")
+83c196152fc9 ("dmaengine: at_hdmac: Return dma_cookie_status()'s ret code when txstate is NULL")

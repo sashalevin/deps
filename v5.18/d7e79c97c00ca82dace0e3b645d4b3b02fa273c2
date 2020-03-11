@@ -1,0 +1,7 @@
+d7e79c97c00c ("net: netfilter: Add kfuncs to allocate and insert CT")
+aed8ee7feb44 ("net: netfilter: Deduplicate code in bpf_{xdp,skb}_ct_lookup")
+a4703e318432 ("bpf: Switch to new kfunc flags infrastructure")
+792c0a345f0e ("selftests/bpf: Add test for strict BTF type check")
+05a945deefaa ("selftests/bpf: Add verifier tests for kptr")
+a1ef19599652 ("bpf: Teach verifier about kptr_get kfunc helpers")
+1963c740dc2b ("net: netfilter: Reports ct direction in CT lookup helpers for XDP and TC-BPF")

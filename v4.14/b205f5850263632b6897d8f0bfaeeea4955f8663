@@ -1,0 +1,5 @@
+b205f5850263 ("i2c: bcm2835: Fix the error handling in 'bcm2835_i2c_probe()'")
+c3b2f911ac11 ("i2c: bcm2835: Use platform_get_irq() to get the interrupt")
+4a5cfa39465c ("i2c: bcm2835: Move IRQ request after clock code in probe")
+bebff81fb8b9 ("i2c: bcm2835: Model Divider in CCF")
+fe32a815f05c ("i2c: bcm2835: Set up the rising/falling edge delays")

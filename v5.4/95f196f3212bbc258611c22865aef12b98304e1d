@@ -1,0 +1,8 @@
+95f196f3212b ("soc: sifive: ccache: determine the cache level from dts")
+ca120a79cf5a ("soc: sifive: ccache: Rename SiFive L2 cache to Composable cache.")
+507308b8ccc9 ("RISC-V: sifive_l2_cache: Update L2 cache driver to support SiFive FU740")
+09c0533d129c ("soc: sifive: l2 cache: Mark l2_get_priv_group as static")
+b4a4f036e846 ("soc: sifive: l2 cache: Eliminate an unsigned zero compare warning")
+4a3a37331248 ("riscv: Add support to determine no. of L2 cache way enabled")
+13cf4cf03018 ("riscv: move sifive_l2_cache.h to include/soc")
+9209fb51896f ("riscv: move sifive_l2_cache.c to drivers/soc")

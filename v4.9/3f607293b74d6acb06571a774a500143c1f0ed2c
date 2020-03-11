@@ -1,0 +1,7 @@
+3f607293b74d ("sbitmap: Delete old sbitmap_queue_get_shallow()")
+9672b0d43782 ("sbitmap: add __sbitmap_queue_get_batch()")
+a327553965de ("sbitmap: fix missed wakeups caused by sbitmap_queue_get_shallow()")
+229a92873f3a ("blk-mq: add shallow depth option for blk_mq_get_tag()")
+c05e66733788 ("sbitmap: add sbitmap_get_shallow() operation")
+24af1ccfe12a ("sbitmap: add helpers for dumping to a seq_file")
+6c0ca7ae292a ("sbitmap: fix wakeup hang after sbq resize")

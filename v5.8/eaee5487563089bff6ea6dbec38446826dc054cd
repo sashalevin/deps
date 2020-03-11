@@ -1,0 +1,7 @@
+eaee54875630 ("riscv: Use offset_in_page() in text patching functions")
+cad539baa48f ("riscv: implement a memset like function for text")
+9721873c3c02 ("riscv: extend patch_text_nosync() for multiple pages")
+5e57fb7b0bd3 ("riscv: Extend patch_text for multiple instructions")
+8ec1442953c6 ("riscv: patch_text: Fixup last cpu should be master")
+c22b0bcb1dd0 ("riscv: Add kprobes supported")
+31564b8b6dba ("riscv: Add HAVE_IRQ_TIME_ACCOUNTING")

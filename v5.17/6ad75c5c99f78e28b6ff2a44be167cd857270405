@@ -1,0 +1,8 @@
+6ad75c5c99f7 ("KVM: x86: Rename kvm_x86_ops.queue_exception to inject_exception")
+6ef88d6e36c2 ("KVM: SVM: Re-inject INT3/INTO instead of retrying the instruction")
+3741aec4c38f ("KVM: SVM: Stuff next_rip on emulated INT3 injection if NRIPS is supported")
+cd9e6da8048c ("KVM: SVM: Unwind "speculative" RIP advancement if INTn injection "fails"")
+00f08d99dd7d ("KVM: nSVM: Sync next_rip field from vmcb12 to vmcb02")
+1d5a1b5860ed ("KVM: x86: nSVM: correctly virtualize LBR msrs when L2 is running")
+db663af4a001 ("kvm: x86: SVM: use vmcb* instead of svm->vmcb where it makes sense")
+b9f3973ab3a8 ("KVM: x86: nSVM: implement nested VMLOAD/VMSAVE")

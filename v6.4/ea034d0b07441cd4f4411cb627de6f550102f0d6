@@ -1,0 +1,6 @@
+ea034d0b0744 ("loongarch, crash: wrap crash dumping code into crash related ifdefs")
+78de91b45860 ("LoongArch: Use generic interface to support crashkernel=X,[high,low]")
+a9e1a3d84e4a ("crash_core: change the prototype of function parse_crashkernel()")
+a6304272b03e ("crash_core.c: remove unnecessary parameter of function")
+33f0dd973d4e ("docs: kdump: Update the crashkernel description for riscv")
+5882e5acf18d ("riscv: kdump: Implement crashkernel=X,[high,low]")

@@ -1,0 +1,8 @@
+3386f4bdd243 ("scsi: lpfc: Fix crash during driver unload with running nvme traffic")
+1abcb3718b08 ("scsi: lpfc: Fix oops of nvme host during driver unload.")
+b7672ae681f8 ("scsi: lpfc: Fix crash in lpfc_nvme_fcp_io_submit during LIP")
+a97ec51b37ef ("nvmet_fc: Rework target side abort handling")
+ce79bfc2c7b4 ("nvme_fcloop: split job struct from transport for req_release")
+19b58d9473e8 ("nvmet_fc: add req_release to lldd api")
+39498faef7c0 ("nvmet_fc: add target feature flags for upcall isr contexts")
+a3b4924b027f ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

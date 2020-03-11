@@ -1,0 +1,5 @@
+439bb9edd430 ("ixgbe: Use struct_size() helper")
+0efbf12b954b ("ixgbe: Don't assume dev->num_tc is equal to hardware TC config")
+4e039c1675d4 ("ixgbe: Fix limitations on macvlan so we can support up to 63 offloaded devices")
+ff815fb2cf63 ("ixgbe: There is no need to update num_rx_pools in L2 fwd offload")
+f5a71caa1763 ("ixgbe: restore normal RSS after last macvlan offload is removed")

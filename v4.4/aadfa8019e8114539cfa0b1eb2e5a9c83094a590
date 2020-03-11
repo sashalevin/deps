@@ -1,0 +1,7 @@
+aadfa8019e81 ("vfs: add note about i_op->rename changes to porting")
+6fa67e707559 ("get rid of 'parent' argument of ->d_compare()")
+d4c91a8f7e55 ("new helper: d_same_name()")
+e7d6ef9790bc ("fix idiotic braino in d_alloc_parallel()")
+3767e255b390 ("switch ->setxattr() to passing dentry and inode separately")
+5930122683df ("switch xattr_handler->set() to passing dentry and inode separately")
+ba5a2655c270 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

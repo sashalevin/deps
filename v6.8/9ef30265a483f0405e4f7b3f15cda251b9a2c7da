@@ -1,0 +1,8 @@
+9ef30265a483 ("perf annotate: Fix segfault on sample histogram")
+a3f7768bcf48 ("perf annotate: Fix memory leak in annotated_source")
+d3e7cad6f36d ("perf annotate: Add a hashmap for symbol histogram")
+5f7cdde843dd ("perf annotate-data: Support global variables")
+83bfa06d0805 ("perf annotate-data: Handle PC-relative addressing")
+7a54f1d83def ("perf annotate-data: Add stack operation pseudo type")
+d3030191d3a6 ("perf annotate-data: Handle array style accesses")
+a3397d69e4e7 ("perf annotate-data: Parse 'lock' prefix from llvm-objdump")

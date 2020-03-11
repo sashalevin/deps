@@ -1,0 +1,7 @@
+cc6be1315931 ("mtip32xx: remove trim support")
+22cb4e681523 ("mtip32xx: ѕtop abusing the managed resource APIs")
+449a15d9e49a ("mtip32xx: remove __force_bit2int")
+81e66174ab0a ("mtip32xx: return a blk_status_t from mtip_send_trim")
+10966fa13855 ("mtip32xx: merge mtip_submit_request into mtip_queue_rq")
+b5fa0e9ec997 ("mtip32xx: move the blk_rq_map_sg call to mtip_hw_submit_io")
+4e699cb99d08 ("mtip32xx: Use the blk_queue_flag_*() functions")

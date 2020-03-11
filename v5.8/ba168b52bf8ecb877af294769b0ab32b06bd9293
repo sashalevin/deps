@@ -1,0 +1,4 @@
+ba168b52bf8e ("mm: use rwsem assertion macros for mmap_lock")
+438b6e12cd60 ("mm: move mmap_lock assert function definitions")
+2b5067a8143e ("mm: mmap_lock: add tracepoints around lock acquisition")
+07e5bfe651f8 ("mmap locking API: add mmap_lock_is_contended()")

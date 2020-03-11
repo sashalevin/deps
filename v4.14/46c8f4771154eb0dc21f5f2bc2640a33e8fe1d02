@@ -1,0 +1,8 @@
+46c8f4771154 ("[media] media: lirc_dev: use an IDA instead of an array to keep track of registered devices")
+3381b779a736 ("[media] media: lirc_dev: sanitize locking")
+3bce55723648 ("[media] media: lirc_dev: change irctl->attached to be a boolean")
+b145ef94f63e ("[media] media: lirc_dev: make chunk_size and buffer_size mandatory")
+615cd3fe6ccc ("[media] media: lirc_dev: make better use of file->private_data")
+0510d8108149 ("[media] media: lirc_dev: use cdev_device_add() helper function")
+c3c6dd750e0b ("[media] media: lirc_dev: remove support for manually specifying minor number")
+de226ec8a6ac ("[media] media: lirc_dev: clarify error handling")

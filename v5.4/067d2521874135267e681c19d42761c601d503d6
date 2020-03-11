@@ -1,0 +1,4 @@
+067d25218741 ("ima: Fix potential memory leak in ima_init_crypto()")
+6d94809af6b0 ("ima: Allocate and initialize tfm for each PCR bank")
+aa724fe18a8a ("ima: Switch to dynamically allocated buffer for template digests")
+7ca79645a1f8 ("ima: Store template digest directly in ima_template_entry")

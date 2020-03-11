@@ -1,0 +1,6 @@
+24f76b2c87ed ("drm: Cancel drm_fb_helper_resume_work on unload")
+f21b9a92ca7c ("drm: Cancel drm_fb_helper_dirty_work on unload")
+a53ca63502e6 ("drm: Protect fb_helper list manipulation with a mutex")
+966a6a13c666 ("drm: Hold mode_config.lock to prevent hotplug whilst setting up crtcs")
+7dfcb36a1f17 ("drm/fb-helper: Fix connector ref leak on error")
+383b2e57115a ("drm/fb_helper: Use correct allocation count for arrays.")

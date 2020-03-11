@@ -1,0 +1,8 @@
+fe6a8fc5ed2f ("loop: unset GENHD_FL_NO_PART_SCAN on LOOP_CONFIGURE")
+85b0a54a82e4 ("loop: Move loop_reread_partitions() out of loop_ctl_mutex")
+c371077000f4 ("loop: Push loop_ctl_mutex down to loop_change_fd()")
+757ecf40b7e0 ("loop: Push loop_ctl_mutex down to loop_set_fd()")
+550df5fdacff ("loop: Push loop_ctl_mutex down to loop_set_status()")
+a13165441d58 ("loop: Push lo_ctl_mutex down into individual ioctls")
+310ca162d779 ("block/loop: Use global lock for ioctl() operation.")
+b1ab5fa309e6 ("block/loop: Don't grab "struct file" for vfs_getattr() operation.")

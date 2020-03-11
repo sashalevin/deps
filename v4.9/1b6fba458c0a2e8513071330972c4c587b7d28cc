@@ -1,0 +1,7 @@
+1b6fba458c0a ("drm/bridge: adv7511/33: Fix adv7511_cec_init() failure handling")
+3b1b975003e4 ("drm: adv7511/33: add HDMI CEC support")
+40d86d2d22b0 ("drm/bridge: adv7511: Enable HPD interrupts to support hotplug and improve monitor detection")
+6d5104c5a6b5 ("drm/bridge: adv7511: Switch to using drm_kms_helper_hotplug_event()")
+518cb7057a59 ("drm/bridge: adv7511: Use work_struct to defer hotplug handing to out of irq context")
+5b06ba2378e1 ("drm/bridge: adv7511: Initialize regulators")
+53c515befe28 ("drm/bridge: adv7511: Add Audio support")

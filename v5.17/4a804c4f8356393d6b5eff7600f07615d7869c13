@@ -1,0 +1,5 @@
+4a804c4f8356 ("x86/fpu: Allow PKRU to be (once again) written by ptrace.")
+2c87767c35ee ("x86/fpu: Add a pkru argument to copy_uabi_to_xstate()")
+1c813ce03055 ("x86/fpu: Add a pkru argument to copy_uabi_from_kernel_to_xstate().")
+6a877d2450ac ("x86/fpu: Take task_struct* in copy_sigframe_from_user_to_xstate()")
+a9f84fb7158f ("x86/fpu: Remove redundant XCOMP_BV initialization")

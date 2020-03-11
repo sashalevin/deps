@@ -1,0 +1,4 @@
+eb24c1007e68 ("vfio: Remove struct vfio_device_ops open/release")
+2fd585f4ed9d ("vfio: Provide better generic support for open/release vfio_device_ops")
+ae03c3771b8c ("vfio: Introduce a vfio_uninit_group_dev() API call")
+de5494af4815 ("vfio/mbochs: Fix missing error unwind of mbochs_used_mbytes")

@@ -1,0 +1,4 @@
+16436f70abee ("irqchip/gic-v3-its: Fix build for !SMP")
+835f442fdbce ("irqchip/gic-v3-its: Limit memreserve cpuhp state lifetime")
+d23bc2bc1d63 ("irqchip/gic-v3-its: Postpone LPI pending table freeing and memreserve")
+c0cdc89072a3 ("irqchip/gic-v3-its: Give the percpu rdist struct its own flags field")

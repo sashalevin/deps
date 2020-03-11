@@ -1,0 +1,5 @@
+58ef24699bcd ("KVM: x86/mmu: Make kvm_mmu_do_page_fault() return mapped level")
+f5e7f00cf195 ("KVM: x86/mmu: Account pf_{fixed,emulate,spurious} in callers of "do page fault"")
+cd389f507003 ("KVM: x86/mmu: check for invalid async page faults involving private memory")
+c9710130ccae ("KVM: x86/mmu: Pass full 64-bit error code when handling page faults")
+258d985f6eb3 ("KVM: x86/mmu: Use EMULTYPE flag to track write #PFs to shadow pages")

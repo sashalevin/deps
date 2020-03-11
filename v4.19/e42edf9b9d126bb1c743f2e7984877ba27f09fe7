@@ -1,0 +1,7 @@
+e42edf9b9d12 ("selftests: Skip TM tests on synthetic TM implementations")
+915b7f6f9a5e ("selftests/powerpc: Add tm-signal-pagefault test")
+505127068d9b ("selftests/powerpc: Skip tm-signal-sigreturn-nt if TM not available")
+a003365cab64 ("powerpc/tm: Add tm-poison test")
+a65329aa7d61 ("selftests/powerpc: New TM signal self test")
+34642d70ac7e ("selftests/powerpc: Add checks for transactional sigreturn")
+db3848515aff ("selftests/powerpc: Move UCONTEXT_NIA() into utils.h")

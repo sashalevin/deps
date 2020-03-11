@@ -1,0 +1,4 @@
+0fc811e5d7f9 ("x86: kdebugfs: no need to check return value of debugfs_create functions")
+f7750a795687 ("x86, mpparse, x86/acpi, x86/PCI, x86/dmi, SFI: Use memremap() for RAM mappings")
+10bce8410607 ("x86/kdebugfs: Move boot params hierarchy under (debugfs)/x86/")
+ce1143aa6027 ("x86/dmi: Switch dmi_remap() from ioremap() [uncached] to ioremap_cache()")

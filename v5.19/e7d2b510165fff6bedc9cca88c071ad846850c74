@@ -1,0 +1,8 @@
+e7d2b510165f ("net: shrink struct ubuf_info")
+6eaab4dfdd30 ("net: introduce struct ubuf_info_msgzc")
+eb315a7d1396 ("tcp: support externally provided ubufs")
+1fd3ae8c906c ("ipv6/udp: support externally provided ubufs")
+c445f31b3cfa ("ipv4/udp: support externally provided ubufs")
+2e07a521e1e4 ("skbuff: add SKBFL_DONT_ORPHAN flag")
+773ba4fe9104 ("ipv6: avoid partial copy for zc")
+8eb77cc73977 ("ipv4: avoid partial copy for zc")

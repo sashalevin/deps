@@ -1,0 +1,5 @@
+553b0c6416e4 ("mtd: rawnand: lpc32xx_slc: fix the probe function error path")
+e0ea20bfb465 ("mtd: rawnand: lpc32xx_slc: clean the probe function")
+7c94128127ba ("mtd: nand: lpc32xx_slc: Handle return value of clk_prepare_enable.")
+b04bafca67da ("mtd: nand: lpc32xx: return error code of nand_scan_ident/tail() on error")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")

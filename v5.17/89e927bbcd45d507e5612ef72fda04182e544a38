@@ -1,0 +1,4 @@
+89e927bbcd45 ("x86/sgx: Replace kmap/kunmap_atomic() calls")
+e3a3bbe3e99d ("x86/sgx: Ensure no data in PCMD page after truncate")
+af117837ceb9 ("x86/sgx: Fix race between reclaimer and page fault handler")
+6bd429643cc2 ("x86/sgx: Disconnect backing page references from dirty status")

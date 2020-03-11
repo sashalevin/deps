@@ -1,0 +1,6 @@
+f90584f4beb8 ("iommu/vt-d: Add helper to flush caches for context change")
+06792d067989 ("iommu/vt-d: Cleanup use of iommu_flush_iotlb_psi()")
+129dab6e1286 ("iommu/vt-d: Use cache_tag_flush_range_np() in iotlb_sync_map")
+3b1d9e2b2d68 ("iommu/vt-d: Add cache tag assignment interface")
+304b3bde24b5 ("iommu/vt-d: Remove caching mode check before device TLB flush")
+f379a7e9c3b5 ("Merge branches 'arm/mediatek', 'arm/renesas', 'arm/smmu', 'x86/vt-d', 'x86/amd' and 'core' into next")

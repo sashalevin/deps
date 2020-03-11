@@ -1,0 +1,3 @@
+eb315a7d1396 ("tcp: support externally provided ubufs")
+f8d9d938514f ("tcp: take care of mixed splice()/sendmsg(MSG_ZEROCOPY) case")
+479f5547239d ("tcp: fix mem under-charging with zerocopy sendmsg()")

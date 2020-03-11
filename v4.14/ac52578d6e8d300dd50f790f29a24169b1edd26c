@@ -1,0 +1,6 @@
+ac52578d6e8d ("hwrng: virtio - Fix race on data_avail and actual data")
+9a4b612d675b ("hwrng: virtio - always add a pending request")
+5c8e93305004 ("hwrng: virtio - don't waste entropy")
+2bb31abdbe55 ("hwrng: virtio - don't wait on cleanup")
+bf3175bc50a3 ("hwrng: virtio - add an internal buffer")
+aef027db48da ("hwrng: virtio - Avoid repeated init of completion")

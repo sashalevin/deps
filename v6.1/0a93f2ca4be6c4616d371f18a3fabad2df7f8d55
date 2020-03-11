@@ -1,0 +1,6 @@
+0a93f2ca4be6 ("net: enetc: disable Tx BD rings after they are empty")
+ff58fda09096 ("net: enetc: prioritize ability to go down over packet processing")
+5093406c784f ("net: enetc: implement ring reconfiguration procedure for PTP RX timestamping")
+598ca0d09056 ("net: enetc: move phylink_start/stop out of enetc_start/stop")
+d075db51e013 ("net: enetc: bring "bool extended" to top-level in enetc_open()")
+fbf1cff98c95 ("net: enetc: set up RX ring indices from enetc_setup_rxbdr()")

@@ -1,0 +1,6 @@
+ea2735ce19c1 ("binder: refactor page range allocation")
+0d35bf3bf2da ("binder: split up binder_update_page_range()")
+df9aabead791 ("binder: keep vma addresses type as unsigned long")
+da483f8b3905 ("binder: remove extern from function prototypes")
+9a9ab0d96362 ("binder: fix race between mmput() and do_exit()")
+adb9743d6a08 ("binder: fix memory leak in binder_init()")

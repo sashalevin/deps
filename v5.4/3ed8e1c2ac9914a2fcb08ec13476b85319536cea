@@ -1,0 +1,5 @@
+3ed8e1c2ac99 ("usb: typec: tcpm: Migrate workqueue to RT priority for processing events")
+03eafcfb60c0 ("usb: typec: tcpm: Add tcpm_queue_vdm_unlocked() helper")
+5f2b8d87bca5 ("usb: typec: tcpm: Move mod_delayed_work(&port->vdm_state_machine) call into tcpm_queue_vdm()")
+8face9aa57c8 ("usb: typec: Add parameter for the VDO to typec_altmode_enter()")
+a079973f462a ("usb: typec: tcpm: Remove tcpc_config configuration mechanism")

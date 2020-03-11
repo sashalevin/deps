@@ -1,0 +1,3 @@
+a6f483b2e441 ("spi: Fix potential NULL pointer dereference in spi_shutdown()")
+9db34ee64ce4 ("spi: Use bus_type functions for probe, remove and shutdown")
+440408dbadfe ("spi: fix resource leak for drivers without .remove callback")

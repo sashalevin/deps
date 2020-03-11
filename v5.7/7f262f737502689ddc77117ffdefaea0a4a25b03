@@ -1,0 +1,6 @@
+7f262f737502 ("f2fs: ensure only power of 2 zone sizes are allowed")
+d46db4595be6 ("f2fs: call bdev_zone_sectors() only once on init_blkz_info()")
+de881df97768 ("f2fs: support zone capacity less than zone size")
+123aaf774f70 ("f2fs: Fix type of section block count variables")
+9feffe14661b ("f2fs: update_sit_entry: Make the judgment condition of f2fs_bug_on more intuitive")
+da52f8ade40b ("f2fs: get the right gc victim section when section has several segments")

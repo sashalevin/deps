@@ -1,0 +1,5 @@
+e25d5954264d ("drm/udl: Kill pending URBs at suspend and disconnect")
+0f7dc324b2e9 ("drm/udl: Sync pending URBs at suspend / disconnect")
+acd45c56790a ("drm/udl: Replace semaphore with a simple wait queue")
+659ab7a49cbe ("drm: Use USB controller's DMA mask when importing dmabufs")
+3fb91f56aea4 ("drm/udl: Retrieve USB device from struct drm_device.dev")

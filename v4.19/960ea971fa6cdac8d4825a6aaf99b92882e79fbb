@@ -1,0 +1,6 @@
+960ea971fa6c ("filemap: Use a folio in filemap_page_mkwrite")
+5df1a6726973 ("filemap: consistently use ->f_mapping over ->i_mapping")
+a92853b6746f ("fs/direct-io.c: keep dio_warn_stale_pagecache() when CONFIG_BLOCK=n")
+c70d868f272b ("fs/direct-io.c: fix kernel-doc warning")
+35f12f0f5c3b ("mm/filemap: pass inclusive 'end_byte' parameter to filemap_range_has_page")
+3cb7b121ff4d ("mm/filemap.c: Use existing variable")

@@ -1,0 +1,5 @@
+f915f58e382e ("scsi: target: iblock: Fold iblock_emulate_read_cap_with_block_size() into iblock_get_blocks()")
+64f0f42671b4 ("target/iblock: use bdev_nr_bytes instead of open coding it")
+415ccd9811da ("scsi: target: iblock: Add backend plug/unplug callouts")
+5981c245a890 ("target/iblock: convert iblock_req.pending from atomic_t to refcount_t")
+8dcf07be2d0b ("target: Minimize #include directives")

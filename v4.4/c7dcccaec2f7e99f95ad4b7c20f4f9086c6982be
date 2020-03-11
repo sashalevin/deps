@@ -1,0 +1,7 @@
+c7dcccaec2f7 ("pwm: sun4i: Use nsecs_to_jiffies to avoid a division")
+d3817a647059 ("pwm: sun4i: Remove redundant needs_delay")
+fa4d81784681 ("pwm: sun4i: Always calculate params when applying new parameters")
+c32c5c50d4fe ("pwm: sun4i: Switch to atomic PWM")
+93e0dfb2c52f ("pwm: sun4i: Improve hardware read out")
+4b58896f7217 ("pwm: Use pwm_get/set_xxx() helpers where appropriate")
+6604c6556db9 ("pwm: Add PWM driver for OMAP using dual-mode timers")

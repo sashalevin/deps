@@ -1,0 +1,8 @@
+4d17d43de9d1 ("net: usb: asix: suspend embedded PHY if external is used")
+ec92e524ee91 ("net: usb: asix: ax88772: fix boolconv.cocci warnings")
+7a141e64cf14 ("net: usb: asix: ax88772: move embedded PHY detection as early as possible")
+e67665946599 ("net: usb: asix: Fix less than zero comparison of a u16")
+e532a096be0e ("net: usb: asix: ax88772: add phylib support")
+7e88b11a862a ("net: usb: asix: refactor asix_read_phy_addr() and handle errors on return")
+218d154f540a ("net: usb: asix: ax88772_bind: use devm_kzalloc() instead of kzalloc()")
+77651900cede ("usbnet: add _mii suffix to usbnet_set/get_link_ksettings")

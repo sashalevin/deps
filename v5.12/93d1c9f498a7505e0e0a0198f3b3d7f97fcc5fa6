@@ -1,0 +1,6 @@
+93d1c9f498a7 ("KVM: x86: Virtualize LAM for supervisor pointer")
+b39bd520a60c ("KVM: x86: Untag addresses for LAM emulation where applicable")
+548bd27428b9 ("KVM: VMX: Use is_64_bit_mode() to check 64-bit mode in SGX handler")
+307a94c721fe ("KVM: X86: Add functions for retrieving L2 TSC fields from common code")
+e23f6d490eb0 ("KVM: VMX: Invert the inlining of MSR interception helpers")
+70210c044b4e ("KVM: VMX: Add SGX ENCLS[ECREATE] handler to enforce CPUID restrictions")

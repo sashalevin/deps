@@ -1,0 +1,5 @@
+508ccdfb86b2 ("rtc: cmos: Call cmos_wake_setup() from cmos_do_probe()")
+0782b66ed2fb ("rtc: cmos: Fix wake alarm breakage")
+4919d3eb2ec0 ("rtc: cmos: Fix event handler registration ordering issue")
+36d91a4d401c ("rtc: cmos: introduce quirks to enable use_acpi_alarm mode")
+a1e23a42f1bd ("rtc: cmos: Do not assume irq 8 for rtc when there are no legacy irqs")

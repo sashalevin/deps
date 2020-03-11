@@ -1,0 +1,3 @@
+dccdc09199b7 ("pinctrl: armada-37xx: Convert to immutable irq_chip")
+984245b66cf3 ("pinctrl: armada-37xx: make irq_lock a raw spinlock to avoid invalid wait context")
+46d34d4d502e ("pinctrl: armada-37xx: Reuse GPIO fwnode in armada_37xx_irqchip_register()")

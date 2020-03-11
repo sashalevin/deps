@@ -1,0 +1,6 @@
+a9a3de530d75 ("KVM: PPC: Book3S HV nestedv2: Avoid msr check in kvmppc_handle_exit_hv()")
+6de2e837babb ("KVM: PPC: Book3S HV: Introduce low level MSR accessor")
+ebc88ea7a6ad ("KVM: PPC: Book3S HV: Use accessors for VCPU registers")
+a3800ef9c48c ("KVM: PPC: Enable prefixed instructions for HV KVM and disable for PR KVM")
+6cd5c1db9983 ("KVM: PPC: Book3S HV: Set SRR1[PREFIX] bit on injected interrupts")
+460ba21d83fe ("KVM: PPC: Permit SRR1 flags in more injected interrupt types")

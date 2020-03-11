@@ -1,0 +1,4 @@
+d0fdc20b0429 ("riscv: select DCACHE_WORD_ACCESS for efficient unaligned access HW")
+b6da6cbe13eb ("riscv: introduce RISCV_EFFICIENT_UNALIGNED_ACCESS")
+7c83232161f6 ("riscv: add support for misaligned trap handling in S-mode")
+f19c3b4239f5 ("riscv: remove unused functions in traps_misaligned.c")

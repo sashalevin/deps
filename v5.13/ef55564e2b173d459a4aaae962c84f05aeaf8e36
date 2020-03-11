@@ -1,0 +1,7 @@
+ef55564e2b17 ("mt76: add DBDC rxq handlings into mac_reset_work")
+970be1dff26d ("mt76: disable BH around napi_schedule() calls")
+a27238a0488e ("mt76: mt7615: set macwork timeout according to runtime-pm")
+c2f9e631f098 ("mt76: mt7663s: rely on mt76_connac_pm_ref/mt76_connac_pm_unref in tx path")
+5ff4c4aab79b ("mt76: mt7921: set MT76_RESET during mac reset")
+7f731405eeca ("mt76: mt7915: improve error recovery reliability")
+f5e3db30135f ("mt76: mt7921: return proper error value in mt7921_mac_init")

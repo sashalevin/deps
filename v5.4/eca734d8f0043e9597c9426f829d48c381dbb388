@@ -1,0 +1,6 @@
+eca734d8f004 ("vt_ioctl: eliminate use of uival and ucval")
+0ce8179e2480 ("vt_ioctl: eliminate ret & breaks in vt_ioctl")
+7cf64b18b0b9 ("vt: vt_ioctl: fix use-after-free in vt_in_use()")
+1aa6e058dd6c ("vt: vt_ioctl: remove unnecessary console allocation checks")
+e587e8f17433 ("vt: ioctl, switch VT_IS_IN_USE and VT_BUSY to inlines")
+dce05aa6eec9 ("vt: selection, introduce vc_is_sel")

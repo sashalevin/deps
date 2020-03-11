@@ -1,0 +1,6 @@
+c96849276211 ("scsi: target: tcmu: Do not queue aborted commands")
+a35129024e88 ("scsi: target: tcmu: Use priv pointer in se_cmd")
+61fb24822166 ("scsi: target: tcmu: Userspace must not complete queued commands")
+a86a75865ff4 ("scsi: target: tcmu: avoid use-after-free after command timeout")
+40d883b09175 ("scsi: tcmu: fix use after free")
+a94a2572b977 ("scsi: tcmu: avoid cmd/qfull timers updated whenever a new cmd comes")

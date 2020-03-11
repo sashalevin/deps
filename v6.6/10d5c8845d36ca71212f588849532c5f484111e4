@@ -1,0 +1,5 @@
+10d5c8845d36 ("i2c: riic: Enable runtime PM autosuspend support")
+a1ecb0415890 ("i2c: riic: Call pm_runtime_get_sync() when need to access registers")
+b42ed9fd6cd1 ("i2c: riic: Use temporary variable for struct device")
+748ee3b2a477 ("i2c: riic: Pass register offsets and chip details as OF data")
+26c7871100f2 ("i2c: riic: Introduce helper functions for I2C read/write operations")

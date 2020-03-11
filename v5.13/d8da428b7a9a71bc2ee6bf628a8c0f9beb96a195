@@ -1,0 +1,4 @@
+d8da428b7a9a ("io_uring: optimise io_get_cqe()")
+d068b5068d43 ("io_uring: rename io_get_cqring")
+ea5ab3b57983 ("io_uring: deduce cq_mask from cq_entries")
+a566c5562d41 ("io_uring: remove dependency on ring->sq/cq_entries")

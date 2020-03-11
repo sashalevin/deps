@@ -1,0 +1,7 @@
+f172acbfae1a ("powerpc/mm: move warning from resize_hpt_for_hotplug()")
+65471d763e91 ("powerpc/pseries: Use pr_xxx() in lpar.c")
+7339390d772d ("powerpc/pseries: Don't give a warning when HPT resizing isn't available")
+36b390fd624a ("powerpc/mm: Fix build break with BOOK3S_64=n and MEMORY_HOTPLUG=y")
+438cc81a41e8 ("powerpc/pseries: Automatically resize HPT for memory hot add/remove")
+dbcf929c0062 ("powerpc/pseries: Add support for hash table resizing")
+32b53c012e0b ("powerpc/mm: Fix memory hotplug BUG() on radix")

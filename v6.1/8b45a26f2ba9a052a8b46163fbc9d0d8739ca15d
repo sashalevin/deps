@@ -1,0 +1,7 @@
+8b45a26f2ba9 ("drm/msm/dpu: reserve cdm blocks for writeback in case of YUV output")
+9ed6141b72c7 ("drm/msm/dpu: retrieve DSI DSC struct through priv->dsi[0]")
+997ed53dd693 ("drm/msm/dpu: Tear down DSC datapath on encoder cleanup")
+f4eddf1d7874 ("drm/msm/dpu: avoid unnecessary check in DPU reservations")
+8aa22aaa1fc3 ("drm/msm/dpu: add DSPPs into reservation upon a CTM request")
+b6975693846b ("drm/msm/disp/dpu: check for crtc enable rather than crtc active to release shared resources")
+4ba5a4ad568e ("drm/msm/dpu: Remove num_enc from topology struct in favour of num_dsc")

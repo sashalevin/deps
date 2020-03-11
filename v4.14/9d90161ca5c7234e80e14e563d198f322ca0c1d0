@@ -1,0 +1,8 @@
+9d90161ca5c7 ("powerpc/64: Force ELFv2 when building with LLVM linker")
+a11334d8327b ("powerpc: Allow CONFIG_PPC64_BIG_ENDIAN_ELF_ABI_V2 with ld.lld 15+")
+5017b4594672 ("powerpc/64: Option to build big-endian with ELFv2 ABI")
+661aa880398a ("powerpc: Add CONFIG_PPC64_ELF_ABI_V1 and CONFIG_PPC64_ELF_ABI_V2")
+af1725d2493d ("powerpc/kconfig: Move CONFIG_PPC32 into Kconfig.cputype")
+465bfd9c44de ("powerpc: Don't add -mabi= flags when building with Clang")
+badf436f6fa5 ("powerpc/Makefiles: Convert ifeq to ifdef where possible")
+c90fca951e90 ("Merge tag 'powerpc-4.18-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

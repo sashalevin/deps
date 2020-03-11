@@ -1,0 +1,4 @@
+804627751b42 ("xsk: add support for AF_XDP multi-buffer on Rx path")
+faa91b839b09 ("xsk: move xdp_buff's data length check to xsk_rcv_check")
+556444c4e683 ("xsk: prepare both copy and zero-copy modes to co-exist")
+63a64a56bc3f ("xsk: prepare 'options' in xdp_desc for multi-buffer use")

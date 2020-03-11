@@ -1,0 +1,8 @@
+361db44c3c59 ("riscv, bpf: Simplify sext and zext logics in branch instructions")
+914c7a5ff18a ("riscv, bpf: Unify 32-bit zero-extension to emit_zextw")
+e33758f7493c ("riscv, bpf: Unify 32-bit sign-extension to emit_sextw")
+694896ad3ca7 ("riscv, bpf: Support sign-extension mov insns")
+0fd1fd010495 ("riscv, bpf: Factor out emit_call for kernel and bpf context")
+b54b6003612a ("riscv, bpf: Emit fixed-length instructions for BPF_PSEUDO_FUNC")
+dd642ccb45ec ("riscv, bpf: Implement more atomic operations for RV64")
+252c765bd764 ("riscv, bpf: Add BPF exception tables")

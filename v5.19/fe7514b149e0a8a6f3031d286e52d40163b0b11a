@@ -1,0 +1,4 @@
+fe7514b149e0 ("dma: compile-out DMA sync op calls when not used")
+370645f41e6e ("dma-mapping: force bouncing if the kmalloc() size is not cache-line-aligned")
+f02ad36d4f76 ("dma-direct: support PCI P2PDMA pages in dma-direct map_sg")
+a229cc14f339 ("dma-mapping: add dma_opt_mapping_size()")

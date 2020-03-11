@@ -1,0 +1,8 @@
+116dce0ff047 ("ionic: Use vzalloc for large per-queue related buffers")
+a34e25ab977c ("ionic: change the descriptor ring length without full reset")
+ea5a8b09dc3a ("ionic: reduce contiguous memory allocation requirement")
+d4881430f50d ("ionic: clean up unnecessary non-static functions")
+34dec947b9ce ("ionic: rework and simplify handling of the queue stats block")
+ee205626afa3 ("ionic: use kcalloc for new arrays")
+e71642009cbd ("ionic_lif: Use devm_kcalloc() in ionic_qcq_alloc()")
+fe8c30b50835 ("ionic: separate interrupt for Tx and Rx")

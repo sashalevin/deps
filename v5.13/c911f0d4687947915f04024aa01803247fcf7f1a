@@ -1,0 +1,6 @@
+c911f0d46879 ("KVM: arm64: permit all VM_MTE_ALLOWED mappings with MTE enabled")
+d89585fbb308 ("KVM: arm64: unify the tests for VMAs in memslots when MTE is enabled")
+2dbf12ae132c ("KVM: arm64: Simplify the sanitise_mte_tags() logic")
+6e6a8ef088e1 ("KVM: arm64: Release mmap_lock when using VM_SHARED with MTE")
+80d9ac9bd7b9 ("KVM: arm64: Fix detection of shared VMAs on guest fault")
+9f03db667359 ("Merge branch kvm-arm64/mmu/mte into kvmarm-master/next")

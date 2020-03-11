@@ -1,1 +1,6 @@
 85c5e33763a7 ("ARC: mm: do_page_fault refactor #3: tidyup vma access permission code")
+13e2cc1240eb ("ARC: mm: do_page_fault refactor #2: remove short lived variable")
+450e5b6f654b ("ARC: mm: do_page_fault refactor #1: remove label @good_area")
+a8c715b4dd73 ("ARC: mm: SIGSEGV userspace trying to access kernel virtual memory")
+121e38e5acdc ("ARC: mm: fix uninitialised signal code in do_page_fault")
+15773ae938d8 ("signal/arc: Use force_sig_fault where appropriate")

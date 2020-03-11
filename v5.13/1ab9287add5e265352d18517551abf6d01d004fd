@@ -1,0 +1,5 @@
+1ab9287add5e ("KVM: X86: Add vendor callbacks for writing the TSC multiplier")
+edcfe5405811 ("KVM: X86: Move write_l1_tsc_offset() logic to common code and rename it")
+83150f2932ec ("KVM: X86: Add functions that calculate the nested TSC fields")
+307a94c721fe ("KVM: X86: Add functions for retrieving L2 TSC fields from common code")
+805d705ff8f3 ("KVM: X86: Store L1's TSC scaling ratio in 'struct kvm_vcpu_arch'")

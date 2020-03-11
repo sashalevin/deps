@@ -1,0 +1,5 @@
+1adbd6b2fc0c ("virtio_ring: Avoid using inline for small functions")
+a7722890fdfb ("virtio_ring : keep used_wrap_counter in vq->last_used_idx")
+8b4ec69d7e09 ("virtio: harden vring IRQ")
+35c51e093d95 ("virtio_ring: remove unnecessary to_vvq call in vring hot path")
+d9679d0013a6 ("virtio: wrap config->reset calls")

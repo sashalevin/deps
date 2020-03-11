@@ -1,0 +1,6 @@
+c8fe62f0768c ("mptcp: reset 'first' and ack_hint on subflow close")
+17aee05dc882 ("mptcp: dispose initial struct socket when its subflow is closed")
+e0be4931f3fe ("mptcp: reset last_snd on subflow close")
+3abc05d9ef6f ("mptcp: pm: add lockdep assertions")
+b5a7acd3bd63 ("mptcp: send ack for every add_addr")
+866f26f2a9c3 ("mptcp: always graft subflow socket to parent")

@@ -1,0 +1,5 @@
+452b9b247540 ("serial_core: replace uart_console_enabled() with uart_console_registered()")
+e68d545004bd ("serial: pic32_uart: Utilize uart_console_enabled()")
+f9b11229b79c ("serial: 8250: Fix PM usage_count for console handover")
+e0830dbf71f1 ("serial: core: fix console port-lock regression")
+fe88c6489264 ("serial: core: fix port-lock initialisation")

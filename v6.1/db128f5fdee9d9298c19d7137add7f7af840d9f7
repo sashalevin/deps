@@ -1,0 +1,8 @@
+db128f5fdee9 ("mm: zswap: remove unused tree argument in zswap_entry_put()")
+18a937076c69 ("mm: zswap: fix double invalidate with exclusive loads")
+418fd29d9de5 ("mm: zswap: invaldiate entry after writeback")
+ff9d5ba202f9 ("mm: zswap: simplify writeback function")
+f999f38b4e6f ("mm: zswap: add pool shrinking mechanism")
+b9c91c43412f ("mm: zswap: support exclusive loads")
+e0228d590beb ("mm: zswap: shrink until can accept")
+6b3379e8dcbe ("zswap: fix writeback lock ordering for zsmalloc")

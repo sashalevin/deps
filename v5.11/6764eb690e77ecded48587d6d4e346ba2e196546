@@ -1,0 +1,5 @@
+6764eb690e77 ("drm/vc4: crtc: Fix runtime_pm reference counting")
+bca10db67bda ("drm/vc4: crtc: Make sure the HDMI controller is powered when disabling")
+b601c16b7ba8 ("drm/vc4: crtc: Lookup the encoder from the register at boot")
+5a184d959d5a ("drm/vc4: crtc: Fix vc4_get_crtc_encoder logic")
+8d9147466776 ("drm/vc4: Pass the atomic state to encoder hooks")

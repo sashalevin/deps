@@ -1,0 +1,8 @@
+34a023dc8869 ("mm: handle profiling for fake memory allocations during compaction")
+733aea0b3a7b ("mm/compaction: add support for >0 order folio memory compaction.")
+ee6f62fd34f0 ("mm/compaction: enable compacting >0 order folios.")
+5267fe5d092e ("mm/page_alloc: remove unused fpi_flags in free_pages_prepare()")
+ab755bf4249b ("mm: compaction: update the cc->nr_migratepages when allocating or freeing the freepages")
+5e0a760b4441 ("mm, treewide: rename MAX_ORDER to MAX_PAGE_ORDER")
+fd37721803c6 ("mm, treewide: introduce NR_PAGE_ORDERS")
+e99fb98d478a ("mm: remove unnecessary ia64 code and comment")

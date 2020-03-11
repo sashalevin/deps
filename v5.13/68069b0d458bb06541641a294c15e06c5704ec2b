@@ -1,0 +1,4 @@
+68069b0d458b ("cpufreq: qcom-hw: Remove un-necessary cpumask_empty() check")
+b48cd0d12f8e ("cpufreq: replace cpumask_weight with cpumask_empty where appropriate")
+37f188318ea3 ("cpufreq: scmi: Use .register_em() to register with energy model")
+f7d635883fb7 ("cpufreq: arm_scmi: Fix error path when allocation failed")

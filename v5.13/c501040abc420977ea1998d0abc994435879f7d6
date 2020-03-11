@@ -1,0 +1,6 @@
+c501040abc42 ("KVM: MMU: change mmu->page_fault() arguments to kvm_page_fault")
+6defd9bb178c ("KVM: MMU: Introduce struct kvm_page_fault")
+d055f028a533 ("KVM: MMU: pass unadulterated gpa to direct_page_fault")
+8f32d5e563cb ("KVM: x86/mmu: allow kvm_faultin_pfn to return page fault handling code")
+33a5c0009d14 ("KVM: x86/mmu: rename try_async_pf to kvm_faultin_pfn")
+fdaa293598f9 ("KVM: x86/mmu: Get CR0.WP from MMU, not vCPU, in shadow page fault")

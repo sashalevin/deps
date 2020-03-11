@@ -1,0 +1,4 @@
+958c0bd86075 ("usb: xhci: fix uninitialized completion when USB3 port got wrong status")
+74e6ad583aa3 ("xhci: rename faked_port_index to hcd_portnum")
+52c7755ba19e ("xhci: xhci-ring: use port structures for port event handler")
+0914ea66d24c ("usb: xhci: reduce device initiated resume time variance.")

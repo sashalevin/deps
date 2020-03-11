@@ -1,0 +1,6 @@
+b8ada54fa1b8 ("mmc: meson-gx: fix deferred probing")
+418f7c2de133 ("mmc: meson-gx: use devm_mmc_alloc_host")
+89280d0963fd ("mmc: meson: Simplify with dev_err_probe()")
+9a7957d0c955 ("mmc: Remove dev_err() usage after platform_get_irq()")
+bb364890323c ("mmc: meson-gx: Free irq in release() callback")
+3fd784f745dd ("mmc: uniphier-sd: add UniPhier SD/eMMC controller driver")

@@ -1,0 +1,7 @@
+10252bae863d ("mmc: core: Don't allocate IDA for OF aliases")
+fa2d0aa96941 ("mmc: core: Allow setting slot index via device tree alias")
+b52fb259dff8 ("mmc: core: Always allow the card detect uevent to be consumed")
+9d2d24302e61 ("mmc: core: Move mmc_of_parse_voltage() to host.c")
+bf892de9fb15 ("mmc: Convert to using %pOF instead of full_name")
+ba3869ff32e4 ("mmc: cavium: Add core MMC driver for Cavium SOCs")
+7413d1f509eb ("mmc: core: simplify ida handling")

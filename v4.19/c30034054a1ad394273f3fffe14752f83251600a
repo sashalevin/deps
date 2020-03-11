@@ -1,0 +1,5 @@
+c30034054a1a ("mm: Fix a dangling Documentation/arm64 reference")
+b2a84de2a2de ("mm/mremap: Add comment explaining the untagging behaviour of mremap()")
+ce18d171cb73 ("mm: untag user pointers in mmap/munmap/mremap/brk")
+057d3389108e ("mm: untag user pointers passed to memory syscalls")
+050c17f239fd ("numa: change get_mempolicy() to use nr_node_ids instead of MAX_NUMNODES")

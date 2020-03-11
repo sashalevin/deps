@@ -1,0 +1,8 @@
+3c003d599dc8 ("drm/vgem: Fix non static symbol warning")
+407779848445 ("drm/vgem: Attach sw fences to exported vGEM dma-buf (ioctl)")
+e6f15b763ab2 ("drm/vgem: Enable dmabuf interface for export")
+5ba6c9ff961a ("drm/vgem: Fix mmaping")
+1bd816f12071 ("drm/vgem: Use lockless gem BO free callback")
+0797ac61810b ("drm/vgem: Drop dev->struct_mutex")
+7f340a26f476 ("drm/vgem: Move get_pages to gem_create")
+e34274fd2aa8 ("drm/vgem: Simplify dumb_map")

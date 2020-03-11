@@ -1,0 +1,4 @@
+ac0fffa0859b ("RDMA/core: Set sgtable nents when using ib_dma_virt_map_sg()")
+79fbd3e1241c ("RDMA: Use the sg_table directly and remove the opencoded version from umem")
+3e302dbc6774 ("lib/scatterlist: Fix wrong update of orig_nents")
+90e7a6de6278 ("lib/scatterlist: Provide a dedicated function to support table append")

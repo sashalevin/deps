@@ -1,0 +1,8 @@
+7b58e63e744c ("inet: udp{4|6}_lib_lookup_skb() skb argument is const")
+a6024562ffd7 ("udp: Add GRO functions to UDP socket")
+63058308cd55 ("udp: Add udp6_lib_lookup_skb and udp4_lib_lookup_skb")
+e6afc8ace6dd ("udp: remove headers from UDP packets before queueing")
+ca065d0cf80f ("udp: no longer use SLAB_DESTROY_BY_RCU")
+2d4212261fdf ("ipv6: udp: fix UDP_MIB_IGNOREDMULTI updates")
+ed0dfffd7dcd ("udp: fix potential infinite loop in SO_REUSEPORT logic")
+9d367eddf363 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

@@ -1,0 +1,7 @@
+8c11a607d1d9 ("SMB3: Fix SMB3.1.1 guest mounts to Samba")
+e71ab2aa06f7 ("cifs: allow guest mounts to work for smb3.11")
+5a77e75fedce ("smb3: rename encryption_required to smb3_encryption_required")
+6188f28bf608 ("Tree connect for SMB3.1.1 must be signed for non-encrypted shares")
+b327a717e506 ("CIFS: make IPC a regular tcon")
+661bb943a98d ("cifs: remove rfc1002 header from smb2_tree_connect_req")
+9775468020da ("cifs: remove rfc1002 header from smb2_ioctl_req")

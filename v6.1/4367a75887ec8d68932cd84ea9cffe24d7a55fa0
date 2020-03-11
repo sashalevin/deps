@@ -1,0 +1,7 @@
+4367a75887ec ("KVM: SVM: Create a stack frame in __svm_sev_es_vcpu_run()")
+adac42bf42c1 ("KVM: SVM: Save/restore args across SEV-ES VMRUN via host save area")
+c92be2fd8edf ("KVM: SVM: Save/restore non-volatile GPRs in SEV-ES VMRUN via host save area")
+87e8e360a05f ("KVM: SVM: Clobber RAX instead of RBX when discarding spec_ctrl_intercepted")
+331282fdb15e ("KVM: SVM: Drop 32-bit "support" from __svm_sev_es_vcpu_run()")
+7774c8f32e99 ("KVM: SVM: Wrap __svm_sev_es_vcpu_run() with #ifdef CONFIG_KVM_AMD_SEV")
+4589f199eb68 ("Merge branch 'x86/bugs' into x86/core, to pick up pending changes before dependent patches")

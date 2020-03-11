@@ -1,0 +1,7 @@
+768e4bb6a75e ("net: Don't register pernet_operations if only one of id or size is specified.")
+fd4f101edbd9 ("net: add exit_batch_rtnl() method")
+71ab9c3e2253 ("net: fix UaF in netns ops registration error path")
+d266935ac43d ("net: fix UAF issue in nfqnl_nf_hook_drop() when ops_init() failed")
+41467d2ff4df ("net: net_namespace: Optimize the code")
+b272a0ad7301 ("netns: restore ops before calling ops_exit_list")
+d7d99872c144 ("netns: add pre_exit method to struct pernet_operations")

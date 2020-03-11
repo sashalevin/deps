@@ -1,0 +1,5 @@
+990486f3a850 ("scsi: zfcp: Fence fc_host updates during link-down handling")
+7e0e4e0958ef ("scsi: zfcp: fix fc_host attributes that should be unknown on local link down")
+538c6e910bae ("scsi: zfcp: wire previously driver-specific sysfs attributes also to fc_host")
+e05a10a05509 ("scsi: zfcp: expose fabric name as common fc_host sysfs attribute")
+92953c6e0aa7 ("scsi: zfcp: signal incomplete or error for sync exchange config/port data")

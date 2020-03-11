@@ -1,0 +1,8 @@
+79311c1fe017 ("mm: split __vunmap")
+17d3ef432dcb ("mm: move debug checks from __vunmap to remove_vm_area")
+75c59ce74e47 ("mm: use remove_vm_area in __vunmap")
+39e65b7f6339 ("mm: move __remove_vm_area out of va_remove_mappings")
+208162f42f95 ("mm: move vmalloc_init and free_work down in vmalloc.c")
+01e2e8394a52 ("mm: remove __vfree_deferred")
+f41f036b804d ("mm: remove __vfree")
+edd898181e2f ("mm: vmalloc: avoid calling __find_vmap_area() twice in __vunmap()")

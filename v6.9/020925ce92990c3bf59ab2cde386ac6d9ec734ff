@@ -1,0 +1,7 @@
+020925ce9299 ("kallsyms: Do not cleanup .llvm.<hash> suffix before sorting symbols")
+64e166099b69 ("kallsyms: get rid of code for absolute kallsyms")
+c442db3f49f2 ("kbuild: remove PROVIDE() for kallsyms symbols")
+ddf41329839f ("kbuild: refactor variables in scripts/link-vmlinux.sh")
+3430f65d6130 ("kbuild: fix short log for AS in link-vmlinux.sh")
+04b8cb0945b4 ("kbuild: avoid unneeded kallsyms step 3")
+951bcae6c5a0 ("kallsyms: Avoid weak references for kallsyms symbols")

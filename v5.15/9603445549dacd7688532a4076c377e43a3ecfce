@@ -1,0 +1,4 @@
+9603445549da ("x86/fpu: Mark fpu__init_prepare_fx_sw_frame() as __init")
+126fe0401883 ("x86/fpu: Cleanup xstate xcomp_bv initialization")
+509e7a30cd0a ("x86/fpu: Do not inherit FPU context for kernel and IO worker threads")
+01f9f62d3ae7 ("x86/fpu: Remove pointless memset in fpu_clone()")

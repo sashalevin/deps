@@ -1,0 +1,5 @@
+03d84f968906 ("KVM: x86: Initialize number of APIC LVT entries during APIC creation")
+4b903561ec49 ("KVM: x86: Add Corrected Machine Check Interrupt (CMCI) emulation to lapic.")
+987f625e0799 ("KVM: x86: Add APIC_LVTx() macro.")
+1d8c681fb6ed ("KVM: x86: Fill apic_lvt_mask with enums / explicit entries.")
+951ceb94ede3 ("KVM: x86: Make APIC_VERSION capture only the magic 0x14UL.")

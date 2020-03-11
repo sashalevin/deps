@@ -1,0 +1,4 @@
+b3e6aaa8d94d ("genirq/affinity: Move actual irq vector spreading into a helper function")
+47778f33dcba ("genirq/affinity: Rename *node_to_possible_cpumask as *node_to_cpumask")
+0211e12dd0a5 ("genirq/affinity: Don't return with empty affinity masks on error")
+84676c1f21e8 ("genirq/affinity: assign vectors to all possible CPUs")

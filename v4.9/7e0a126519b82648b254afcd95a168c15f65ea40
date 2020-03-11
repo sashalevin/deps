@@ -1,0 +1,7 @@
+7e0a126519b8 ("mm,fs: Remove aops->readpage")
+5efe7448a142 ("fs: Introduce aops->read_folio")
+6c2ae0d5db57 ("buffer: Rewrite nobh_truncate_page() to use folios")
+a42634a6c07d ("readahead: Use a folio in read_pages()")
+1e4702806fac ("readahead: Update comments")
+704528d895dd ("fs: Remove ->readpages address space operation")
+9030fb0bb9d6 ("Merge tag 'folio-5.18c' of git://git.infradead.org/users/willy/pagecache")

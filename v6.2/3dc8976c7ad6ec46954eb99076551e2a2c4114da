@@ -1,0 +1,4 @@
+3dc8976c7ad6 ("tls/device: Convert tls_device_sendpage() to use MSG_SPLICE_PAGES")
+24763c9c0980 ("tls/device: Support MSG_SPLICE_PAGES")
+d4c1e80b0d1b ("tls/device: Use splice_eof() to flush")
+e539a105f947 ("net: tls: fix device-offloaded sendpage straddling records")

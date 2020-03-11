@@ -1,0 +1,6 @@
+d551ce15d081 ("mailbox: zynqmp-ipi: drop irq_to_desc() call")
+6ffb1635341b ("mailbox: zynqmp: handle SGI for shared IPI")
+0ac39d85a741 ("mailbox: zynqmp: Enable Bufferless IPI usage on Versal-based SOC's")
+41bcf30100c5 ("mailbox: zynqmp: Move buffered IPI setup to of_match selected routine")
+6efb495826a9 ("mailbox: zynqmp: Move of_match structure closer to usage")
+b3734a8291ad ("mailbox: zynqmp-ipi: fix an Excess struct member kernel-doc warning")

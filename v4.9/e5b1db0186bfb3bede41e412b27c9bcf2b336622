@@ -1,0 +1,7 @@
+e5b1db0186bf ("PCI: Remove unused pcie_get_minimum_link()")
+6db79a88c67e ("PCI: Add pcie_bandwidth_available() to compute bandwidth available to device")
+6cf57be0f78e ("PCI: Add pcie_get_speed_cap() to find max supported link speed")
+1acfb9b7ee0b ("PCI: Add decoding for 16 GT/s link speed")
+56c1af4606f0 ("PCI: Add sysfs max_link_speed/width, current_link_speed/width, etc")
+a60a2b73ba69 ("PCI: Export pcie_flr()")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")

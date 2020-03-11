@@ -1,0 +1,6 @@
+37cf05d2fff5 ("s390/qeth: allocate skb from NAPI cache")
+f0ea8bfbc1bc ("s390/qeth: pass correct length to header_ops->create()")
+a843383a3e04 ("s390/qeth: unionize next-hop field in qeth L3 header")
+8d68af6af6b4 ("s390/qeth: consolidate skb allocation")
+b6f72f9698ab ("s390/qeth: clean up page frag creation")
+d7aa9d0bb923 ("s390/qeth: fold VLAN handling into l3_rebuild_skb()")

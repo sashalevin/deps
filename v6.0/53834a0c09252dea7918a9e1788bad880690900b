@@ -1,0 +1,8 @@
+53834a0c0925 ("perf/hw_breakpoint: Remove arch breakpoint hooks")
+9caf87be118f ("perf/hw_breakpoint: Make hw_breakpoint_weight() inlinable")
+be3f152568cc ("perf/hw_breakpoint: Optimize constant number of breakpoint slots")
+db5f6f853194 ("perf/hw_breakpoint: Mark data __ro_after_init")
+0370dc314df3 ("perf/hw_breakpoint: Optimize list of per-task breakpoints")
+089cdcb0cd1c ("perf/hw_breakpoint: Clean up headers")
+c5b81449f915 ("perf/hw_breakpoint: Provide hw_breakpoint_is_used() and use in test")
+724c299c6a0e ("perf/hw_breakpoint: Add KUnit test for constraints accounting")

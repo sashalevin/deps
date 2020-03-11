@@ -1,0 +1,7 @@
+a14d273ba159 ("net: macb: restore cmp registers on resume path")
+c1e85c6ce57e ("net: macb: save/restore the remaining registers and features")
+de991c58b376 ("net: macb: Add support for suspend/resume with full power down")
+d54f89af6cc4 ("net: macb: Add pm runtime support")
+f5473d1d44e4 ("net: macb: Support clock management for tsu_clk")
+8beb79b7ae93 ("net: macb: Check MDIO state before read/write and use timeouts")
+e501070e4db0 ("net: macb: Apply RXUBR workaround only to versions with errata")

@@ -1,0 +1,6 @@
+7f6d8f7e43fb ("kbuild: remove ARCH_POSTLINK from module builds")
+9d9173e9ceb6 ("x86/build: Avoid relocation information in final vmlinux")
+c2dea0bc5339 ("riscv: Check relocations at compile time")
+850ded46c642 ("kbuild: Fix TRIM_UNUSED_KSYMS with LTO_CLANG")
+0d989ac2c90b ("kbuild: remove libelf checks from top Makefile")
+1bb0b18a06dc ("kbuild: hide tools/ build targets from external module builds")

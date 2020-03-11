@@ -1,0 +1,6 @@
+d23dc4a9a88f ("gpio: provide and use gpiod_get_label()")
+1cdc605c7d70 ("gpiolib: cdev: reduce locking in gpio_desc_to_lineinfo()")
+9344e34e7992 ("gpiolib: cdev: relocate debounce_period_us from struct gpio_desc")
+0a10d107818c ("gpiolib: allocate memory atomically with a spinlock held")
+f8d05e276b45 ("gpiolib: remove gpiochip_is_requested()")
+ee25fba76acd ("gpiolib: provide gpiochip_dup_line_label()")

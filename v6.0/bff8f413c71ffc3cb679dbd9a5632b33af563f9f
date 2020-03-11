@@ -1,0 +1,6 @@
+bff8f413c71f ("arm64: factor out EL1 SSBS emulation hook")
+61d64a376ea8 ("arm64: split EL0/EL1 UNDEF handlers")
+830a2a4d853f ("arm64: rework BTI exception handling")
+a1fafa3b24a7 ("arm64: rework FPAC exception handling")
+0f2cb928a154 ("arm64: consistently pass ESR_ELx to die()")
+b502c87d2a26 ("arm64: report EL1 UNDEFs better")

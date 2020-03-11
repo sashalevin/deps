@@ -1,0 +1,8 @@
+33e67710beda ("cpumask: switch for_each_cpu{,_not} to use for_each_bit()")
+b81dce77cedc ("cpumask: Fix invalid uniprocessor mask assumption")
+bc9d6635c293 ("include/linux: move for_each_bit() macros from bitops.h to find.h")
+9b51d9d86648 ("cpumask: replace cpumask_next_* with cpumask_first_* where appropriate")
+93ba139ba819 ("cpumask: use find_first_and_bit()")
+47d8c15615c0 ("include: move find.h from asm_generic to linux")
+6b8ecb84f8f6 ("bitops: move find_bit_*_le functions from le.h to find.h")
+0760a9157bc9 ("parisc: Drop ifdef __KERNEL__ from non-uapi kernel headers")

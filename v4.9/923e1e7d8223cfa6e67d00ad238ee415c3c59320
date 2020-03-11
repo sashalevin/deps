@@ -1,0 +1,8 @@
+923e1e7d8223 ("arm64: uaccess: rename privileged uaccess routines")
+03110a5cb216 ("arm64: futex: Bound number of LDXR/STXR loops in FUTEX_WAKE_OP")
+84ff7a09c371 ("arm64: futex: Fix FUTEX_WAKE_OP atomic ops with non-zero result value")
+91b2d3442f6a ("arm64: futex: Mask __user pointers prior to dereference")
+30d6e0a4190d ("futex: Remove duplicated code and fix undefined behaviour")
+5f16a046f8e1 ("arm64: futex: Fix undefined behaviour with FUTEX_OP_OPARG_SHIFT usage")
+4ac46db1aaf1 ("openrisc: add futex_atomic_* implementations")
+bd38967d406f ("arm64: Factor out PAN enabling/disabling into separate uaccess_* macros")

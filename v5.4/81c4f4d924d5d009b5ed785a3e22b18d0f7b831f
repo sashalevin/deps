@@ -1,0 +1,5 @@
+81c4f4d924d5 ("lib: fix bitmap_parse() on 64-bit big endian archs")
+2d6261583be0 ("lib: rework bitmap_parse()")
+e66eda0615c8 ("lib: make bitmap_parse_user a wrapper on bitmap_parse")
+e837dfde15a4 ("bitmap: genericize percpu bitmap region iterators")
+30544ed5de43 ("lib/bitmap: introduce bitmap_replace() helper")

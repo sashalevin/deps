@@ -1,0 +1,6 @@
+f4401262b927 ("netfilter: flowtable: fast NAT functions never fail")
+2babb46c8c82 ("netfilter: flowtable: move skb_try_make_writable() before NAT in IPv4")
+2fc11745c3ff ("netfilter: flowtable: consolidate skb_try_make_writable() call")
+8d6bca156e47 ("netfilter: flowtable: fix tcp and udp header checksum update")
+793d5d612426 ("netfilter: flowtable: reduce calls to pskb_may_pull()")
+505ee3a1cab9 ("netfilter: flowtable: Make nf_flow_table_offload_add/del_cb inline")

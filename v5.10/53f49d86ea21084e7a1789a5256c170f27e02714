@@ -1,0 +1,5 @@
+53f49d86ea21 ("ethernet: ucc_geth: inform the compiler that numQueues is always 1")
+634b5bd73187 ("ethernet: ucc_geth: add helper to replace repeated switch statements")
+64a99fe596f9 ("ethernet: ucc_geth: remove bd_mem_part and all associated code")
+b29fafd3570b ("ethernet: ucc_geth: use UCC_GETH_{RX,TX}_BD_RING_ALIGNMENT macros directly")
+b0292e086bee ("ethernet: ucc_geth: constify ugeth_primary_info")

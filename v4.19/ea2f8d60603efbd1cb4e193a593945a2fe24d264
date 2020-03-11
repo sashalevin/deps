@@ -1,1 +1,7 @@
 ea2f8d60603e ("x86/fault: Make fault messages more succinct")
+18ea35c5ed99 ("x86/fault: Decode and print #PF oops in human readable form")
+f28b11a2abd9 ("x86/fault: Reword initial BUG message for unhandled page faults")
+a2aa52ab16ef ("x86/fault: Clean up the page fault oops decoder a bit")
+a1a371c468f7 ("x86/fault: Decode page fault OOPSes better")
+3425d934fc03 ("efi/x86: Handle page faults occurring while running EFI runtime services")
+9dbbedaa6171 ("efi: Make efi_rts_work accessible to efi page fault handler")

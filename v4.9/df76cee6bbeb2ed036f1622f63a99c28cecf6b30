@@ -1,0 +1,5 @@
+df76cee6bbeb ("mm, page_alloc: remove redundant checks from alloc fastpath")
+9cd7555875bb ("mm, page_alloc: split alloc_pages_nodemask()")
+5ce9bfef1d27 ("mm, page_alloc: move cpuset seqcount checking to slowpath")
+16096c25bf0c ("mm, page_alloc: fix fast-path race with cpuset update or removal")
+ea57485af8f4 ("mm, page_alloc: fix check for NULL preferred_zone")

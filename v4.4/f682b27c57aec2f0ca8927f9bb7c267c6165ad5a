@@ -1,0 +1,3 @@
+f682b27c57ae ("__div64_const32(): abstract out the actual 128-bit cross product code")
+461a5e51060c ("do_div(): generic optimization for constant divisor on 32-bit machines")
+911918aa7ef6 ("div64.h: optimize do_div() for power-of-two constant divisors")

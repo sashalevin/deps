@@ -1,0 +1,3 @@
+81ca0e7340ee ("KVM: VMX: Pull GUEST_CR3 from the VMCS iff CR3 load exiting is disabled")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")

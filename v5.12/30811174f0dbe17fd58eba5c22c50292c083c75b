@@ -1,0 +1,5 @@
+30811174f0db ("KVM: SVM: set IRR in svm_deliver_interrupt")
+57dfd7b53dec ("KVM: x86: Move delivery of non-APICv interrupt into vendor code")
+31f251d4ddfa ("KVM: SVM: Signal AVIC doorbell iff vCPU is in guest mode")
+8e819d75cbcf ("KVM: x86: add a tracepoint for APICv/AVIC interrupt delivery")
+91b018950717 ("KVM: SVM: Ensure target pCPU is read once when signalling AVIC doorbell")

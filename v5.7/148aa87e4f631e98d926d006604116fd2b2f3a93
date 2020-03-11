@@ -1,0 +1,3 @@
+148aa87e4f63 ("mm/cma: fix potential memory loss on cma_declare_contiguous_nid")
+df2ff39e78da ("mm: cma: allocate cma areas bottom-up")
+40366bd70bbb ("mm/cma.c: use exact_nid true to fix possible per-numa cma leak")

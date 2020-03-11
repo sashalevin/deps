@@ -1,0 +1,5 @@
+5d272dd1b343 ("cpumask: limit FORCE_NR_CPUS to just the UP case")
+fe5759d5bfda ("cpumask: limit visibility of FORCE_NR_CPUS")
+6f9c07be9d02 ("lib/cpumask: add FORCE_NR_CPUS config option")
+38bef8e57f21 ("smp: add set_nr_cpu_ids()")
+53fc190cc677 ("smp: don't declare nr_cpu_ids if NR_CPUS == 1")

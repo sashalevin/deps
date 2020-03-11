@@ -1,0 +1,7 @@
+26b8345abc75 ("KVM: Resolve memslot ID via a hash table instead of via a static array")
+1e8617d37fc3 ("KVM: Move WARN on invalid memslot index to update_memslots()")
+4e4d30cb9b87 ("KVM: Resync only arch fields when slots_arch_lock gets reacquired")
+c5b077549136 ("KVM: Convert the kvm->vcpus array to a xarray")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")
+bda44d844758 ("KVM: Ensure local memslot copies operate on up-to-date arch-specific data")
+99cdc6c18c2d ("RISC-V: Add initial skeletal KVM support")

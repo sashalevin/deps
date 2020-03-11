@@ -1,0 +1,6 @@
+0ecae6fffe66 ("btrfs: remove the recurse parameter from __btrfs_tree_read_lock")
+4048daedb910 ("btrfs: locking: remove the recursion handling code")
+196d59ab9ccc ("btrfs: switch extent buffer tree lock to rw_semaphore")
+fd7ba1c1202d ("btrfs: add nesting tags to the locking helpers")
+51899412dd95 ("btrfs: introduce btrfs_path::recurse")
+329ced799be8 ("btrfs: rename extent_buffer::lock_nested to extent_buffer::lock_recursed")

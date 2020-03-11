@@ -1,0 +1,5 @@
+447cd7a0d7d1 ("net: Allow pernet_operations to be executed in parallel")
+bcab1ddd9b2b ("net: Move mutex_unlock() in cleanup_net() up")
+1a57feb847c5 ("net: Introduce net_sem for protection of pernet_list")
+5ba049a5cc8e ("net: Cleanup in copy_net_ns()")
+98f6c533a3e9 ("net: Assign net to net_namespace_list in setup_net()")

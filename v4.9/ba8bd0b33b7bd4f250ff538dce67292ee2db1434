@@ -1,0 +1,7 @@
+ba8bd0b33b7b ("iio: accel: bmc150: Move struct bmc150_accel_data definition to bmc150-accel.h")
+5bfb3a4bd8f6 ("iio: accel: bmc150: Check for a second ACPI device for BOSC0200")
+e488fed07f7b ("iio: accel: bmc150: Removed unused bmc150_accel_dat irq member")
+672f30228379 ("iio: accel: bmc150-accel: Add rudimentary regulator support")
+a6f86f724394 ("iio:accel:bmc150-accel: Fix timestamp alignment and prevent data leak.")
+3c35e20a1118 ("iio: accel: bmc150: add mount matrix support")
+e59e18989c68 ("iio: accel: bmc150: Always restore device to normal mode after suspend-resume")

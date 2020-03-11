@@ -1,0 +1,8 @@
+a7a6a01f88e8 ("x86/efistub: Give up if memory attribute protocol returns an error")
+a1b87d54f4e4 ("x86/efistub: Avoid legacy decompressor when doing EFI boot")
+31c77a50992e ("x86/efistub: Perform SNP feature test while running in the firmware")
+11078876b7a6 ("x86/efistub: Prefer EFI memory attributes protocol over DXE services")
+cb1c9e02b0c1 ("x86/efistub: Perform 4/5 level paging switch from the stub")
+127920645876 ("x86/decompressor: Avoid magic offsets for EFI handover entrypoint")
+df9215f15206 ("x86/efistub: Simplify and clean up handover entry code")
+d2d7a54f69b6 ("x86/efistub: Branch straight to kernel entry point from C code")

@@ -1,0 +1,6 @@
+75e99bf5ed8f ("gpio: lynxpoint: set default handler to be handle_bad_irq()")
+a33912061607 ("gpio: lynxpoint: Move hardware initialization to callback")
+7b1e889436a1 ("gpio: lynxpoint: Pass irqchip when adding gpiochip")
+7eebe96f22e7 ("gpio: lynxpoint: avoid potential warning on error path")
+efa3ffcd98f3 ("gpio: lynxpoint: Use devm_gpiochip_add_data() for gpio registration")
+f291e0063ba6 ("gpio: lynxpoint: use gpiochip data pointer")

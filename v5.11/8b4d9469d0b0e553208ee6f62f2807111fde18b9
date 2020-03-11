@@ -1,0 +1,5 @@
+8b4d9469d0b0 ("ata: libata-scsi: Fix delayed scsi_rescan_device() execution")
+79519528a180 ("scsi: core: Improve type safety of scsi_rescan_device()")
+6aa0365a3c85 ("ata: libata-scsi: Avoid deadlock on rescan after device resume")
+02c6dcd543f8 ("scsi: core: Fix hang of freezing queue between blocking and running device")
+f0f82e2476f6 ("scsi: core: Fix capacity set to zero after offlinining device")

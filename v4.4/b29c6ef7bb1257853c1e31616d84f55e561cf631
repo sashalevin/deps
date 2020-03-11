@@ -1,0 +1,7 @@
+b29c6ef7bb12 ("x86 / CPU: Avoid unnecessary IPIs in arch_freq_get_on_cpu()")
+8e2f3bce05e0 ("cpufreq: x86: Disable interrupts during MSRs reading")
+4815d3c56d1e ("cpufreq: x86: Make scaling_cur_freq behave more as expected")
+f8475cef9008 ("x86: use common aperfmperf_khz_on_cpu() to calculate KHz using APERF/MPERF")
+62a67e123e05 ("x86/cpu: Merge bugs.c and bugs_64.c")
+1b74dde7c47c ("x86/cpu: Convert printk(KERN_<LEVEL> ...) to pr_<level>(...)")
+0007bccc3cfd ("x86: Replace RDRAND forced-reseed with simple sanity check")

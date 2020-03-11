@@ -1,0 +1,8 @@
+c90ecbfaf50d ("rds: Use atomic flag to track connections being destroyed")
+681648e67d43 ("rds: tcp: correctly sequence cleanup on netns deletion.")
+840df162b3eb ("rds: reduce memory footprint for RDS when transport is RDMA")
+aed20a53a7d9 ("rds: cancel send/recv work before queuing connection shutdown")
+c14b0366813a ("rds: tcp: set linger to 1 when unloading a rds-tcp")
+10beea7d7408 ("rds: tcp: Set linger when rejecting an incoming conn in rds_tcp_accept_one")
+8edc3affc077 ("rds: tcp: Take explicit refcounts on struct net")
+1a0e100fb2c9 ("RDS: TCP: Force every connection to be initiated by numerically smaller IP address")

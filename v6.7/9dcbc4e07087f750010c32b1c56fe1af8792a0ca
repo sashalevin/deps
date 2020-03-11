@@ -1,0 +1,5 @@
+9dcbc4e07087 ("sunrpc: don't take ->sv_lock when updating ->sv_nrthreads.")
+60749cbe3d8a ("sunrpc: change sp_nrthreads from atomic_t to unsigned int.")
+924f4fb003ba ("NFSD: convert write_threads to netlink command")
+1e3577a4521e ("SUNRPC: discard sv_refcnt, and svc_get/svc_put")
+7b207ccd9833 ("svc: don't hold reference for poolstats, only mutex.")

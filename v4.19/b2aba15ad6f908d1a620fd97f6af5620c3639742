@@ -1,0 +1,6 @@
+b2aba15ad6f9 ("serial: kgdboc: Fix NMI-safety problems from keyboard reset code")
+220995622da5 ("kgdboc: Add kgdboc_earlycon to support early kgdb using boot consoles")
+68e55f61c138 ("kgdboc: Use a platform device to handle tty drivers showing up late")
+dada6a43b040 ("kgdboc: fix KASAN global-out-of-bounds bug in param_set_kgdboc_var()")
+39724d56a0a8 ("kgdboc: Change printk to the right fashion")
+1bd54d851f50 ("kgdboc: Passing ekgdboc to command line causes panic")

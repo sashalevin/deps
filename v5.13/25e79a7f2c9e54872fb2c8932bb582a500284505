@@ -1,0 +1,5 @@
+25e79a7f2c9e ("ubifs: Fix inconsistent inode size when powercut happens during appendant writing")
+c35acef383f4 ("ubifs: Convert ubifs_writepage to use a folio")
+0df030d082d5 ("ubifs: Convert from writepage to writepages")
+fb8bc4c74ae4 ("ubifs: ubifs_writepage: Mark page dirty after writing inode failed")
+0b7bf4830a30 ("ubifs: Convert ubifs to read_folio")

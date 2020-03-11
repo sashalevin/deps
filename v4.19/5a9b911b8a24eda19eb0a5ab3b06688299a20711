@@ -1,0 +1,6 @@
+5a9b911b8a24 ("vfs: partially sanitize i_state zeroing on inode creation")
+7180f8d91fcb ("vfs: add rcu-based find_inode variants for iget ops")
+2e488f13755f ("fs: fix UAF/GPF bug in nilfs_mdt_destroy")
+18cc912b8a2a ("fs: change test in inode_insert5 for adding to the sb list")
+8019ad13ef7f ("futex: Fix inode life-time issue")
+5ca584d935c3 ("futex: Consolidate duplicated timer setup code")

@@ -1,0 +1,5 @@
+3335068f8721 ("riscv: Use PUD/P4D/PGD pages for the linear mapping")
+8589e346bbb6 ("riscv: Move the linear mapping creation in its own function")
+a7407a1318a9 ("riscv: Get rid of riscv_pfn_base variable")
+6ff8ca3f93d3 ("riscv: mm: call best_map_size many times during linear-mapping")
+583286e2072e ("riscv: Move cast inside kernel_mapping_[pv]a_to_[vp]a")

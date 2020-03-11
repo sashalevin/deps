@@ -1,0 +1,7 @@
+feabecaff590 ("genirq/ipi: Fix NULL pointer deref in irq_data_get_affinity_mask()")
+4d0b8298818b ("genirq: Return a const cpumask from irq_data_get_affinity_mask")
+073352e951f6 ("genirq: Add and use an irq_data_update_affinity helper")
+961343d78226 ("genirq: Refactor accessors to use irq_data_get_affinity_mask")
+a2bad844a67b ("PCI: hv: Fix interrupt mapping for multi-MSI")
+b4b77778ecc5 ("PCI: hv: Reuse existing IRTE allocation in compose_msi_msg()")
+d06957d7a692 ("PCI: hv: Avoid the retarget interrupt hypercall in irq_unmask() on ARM64")

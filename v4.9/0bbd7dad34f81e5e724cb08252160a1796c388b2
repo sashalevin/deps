@@ -1,0 +1,4 @@
+0bbd7dad34f8 ("tun: make tun_build_skb() thread safe")
+66ccbc9c87c2 ("tap: use build_skb() for small packet")
+5503fcecd49f ("tun: rx batching")
+d4aea20d889e ("tun: Use netif_receive_skb instead of netif_rx")

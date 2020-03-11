@@ -1,0 +1,6 @@
+b7ee5bc3e100 ("can: flexcan: fix failure handling of pm_runtime_get_sync()")
+ca10989632d8 ("can: flexcan: implement can Runtime PM")
+5156c7b11f35 ("can: flexcan: move rx_offload_add() from flexcan_probe() to flexcan_open()")
+de3578c198c6 ("can: flexcan: add self wakeup support")
+e05237f9da42 ("can: flexcan: remove not needed struct flexcan_priv::tx_mb and struct flexcan_priv::tx_mb_idx")
+cbffaf7aa09e ("can: flexcan: Always use last mailbox for TX")

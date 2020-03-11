@@ -1,0 +1,5 @@
+418044e1de30 ("drivers/net/virtio_net.c: Added USO support.")
+46cd26f41087 ("virtio-net: introduce and use helper function for guest gso support checks")
+dbcf24d15388 ("virtio-net: use NETIF_F_GRO_HW instead of NETIF_F_LRO")
+97c2c69e1926 ("virtio-net: support XDP when not more queues")
+1a03b8a35a95 ("virtio-net: don't disable guest csum when disable LRO")

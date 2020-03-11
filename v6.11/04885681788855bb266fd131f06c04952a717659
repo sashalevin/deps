@@ -1,0 +1,5 @@
+048856817888 ("perf annotate: LLVM-based disassembler")
+6eca7c5ac23e ("perf annotate: Split out read_symbol()")
+c3f8644c21df ("perf report: Support LLVM for addr2line()")
+0b971e6bf1c3 ("perf annotate: Add support to capture and parse raw instruction in powerpc using dso__data_read_offset utility")
+06dd4c5a561c ("perf annotate: Add disasm_line__parse() to parse raw instruction for powerpc")

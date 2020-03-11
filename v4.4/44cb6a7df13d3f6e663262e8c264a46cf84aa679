@@ -1,0 +1,8 @@
+44cb6a7df13d ("thermal: tegra: add Tegra132 specific SOC_THERM driver")
+8204104f3598 ("thermal: tegra: add Tegra210 specific SOC_THERM driver")
+65b6d57c24ed ("thermal: tegra: split tegra_soctherm driver")
+1c3bdc1627c3 ("thermal: tegra: get rid of PDIV/HOTSPOT hack")
+6f7e0d9d08c7 ("thermal: tegra: combine sensor group-related data")
+a4dff94ffde7 ("thermal: tegra: move tegra thermal files into tegra directory")
+71ca46eeeff3 ("thermal: convert tegra_thermal to use devm_thermal_zone_of_sensor_register")
+5e25166f32e7 ("thermal: tegra_soctherm: fix sign bit of temperature")

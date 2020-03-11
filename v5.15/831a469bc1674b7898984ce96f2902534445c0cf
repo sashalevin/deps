@@ -1,0 +1,4 @@
+831a469bc167 ("ARM: entry: preserve thread_info pointer in switch_to")
+18ed1c01a7dd ("ARM: smp: Enable THREAD_INFO_IN_TASK")
+50596b7559bf ("ARM: smp: Store current pointer in TPIDRURO register if available")
+19f29aebd929 ("ARM: smp: Pass task to secondary_start_kernel")

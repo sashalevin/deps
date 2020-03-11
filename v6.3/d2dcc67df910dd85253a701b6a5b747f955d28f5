@@ -1,0 +1,4 @@
+d2dcc67df910 ("bpf: Migrate bpf_rbtree_add and bpf_list_push_{front,back} to possibly fail")
+7c50b1cb76ac ("bpf: Add bpf_refcount_acquire kfunc")
+1cf3bfc60f98 ("bpf: Support 64-bit pointers to kfuncs")
+f6a6a5a97628 ("bpf: Fix struct_meta lookup for bpf_obj_free_fields kfunc call")

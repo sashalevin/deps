@@ -1,0 +1,7 @@
+afaed2b142a1 ("net: dsa: mv88e6xxx: Require ops be implemented to claim STU support")
+49c98c1dc7d9 ("net: dsa: mv88e6xxx: Disentangle STU from VTU")
+d0b78ab1ca35 ("net: dsa: mv88e6xxx: Fix validation of built-in PHYs on 6095/6097")
+2ee84cfefb1e ("net: dsa: mv88e6xxx: convert to phylink_generic_validate()")
+d4ebf12bcec4 ("net: dsa: mv88e6xxx: populate supported_interfaces and mac_capabilities")
+dc2fc9f03c5c ("net: dsa: mv88e6xxx: Don't support >1G speeds on 6191X on ports other than 10")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")

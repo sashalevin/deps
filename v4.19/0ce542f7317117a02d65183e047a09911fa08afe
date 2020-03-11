@@ -1,0 +1,5 @@
+0ce542f73171 ("drm/i915: Don't clear drvdata in ->release")
+31962ca6a260 ("drm/i915: Move final cleanup of drm_i915_private to i915_driver_destroy")
+55ac5a1614f9 ("drm/i915: Attach the pci match data to the device upon creation")
+07d805721938 ("drm/i915: Introduce intel_runtime_pm_disable to pair intel_runtime_pm_enable")
+48a287ed9d62 ("drm/i915: Rename intel_power_domains_fini() to intel_power_domains_fini_hw()")

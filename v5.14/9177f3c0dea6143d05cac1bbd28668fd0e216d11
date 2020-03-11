@@ -1,0 +1,8 @@
+9177f3c0dea6 ("dm-verity: recheck the hash after a failure")
+e9307e3deb52 ("dm verity: only copy bvec_iter in verity_verify_io if in_tasklet")
+0a36463f4ca2 ("dm verity: optimize verity_verify_io if FEC not configured")
+5721d4e5a9cd ("dm verity: Add optional "try_verify_in_tasklet" feature")
+0fcb100d5083 ("dm bufio: Add flags argument to dm_bufio_client_create")
+20e6fc85621c ("dm verity: fix checkpatch close brace error")
+4caae58406f8 ("dm verity: set DM_TARGET_IMMUTABLE feature flag")
+2c0468e054c0 ("dm verity: skip redundant verity_handle_err() on I/O errors")

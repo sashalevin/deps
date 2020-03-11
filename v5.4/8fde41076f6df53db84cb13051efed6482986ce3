@@ -1,0 +1,6 @@
+8fde41076f6d ("drm/i915/gvt: Wean gvt off dev_priv->engine[]")
+a8bb49b64c4f ("drm/i915/gvt: Fix drm_WARN issue where vgpu ptr is unavailable")
+12d5861973c7 ("drm/i915/gvt: Make WARN* drm specific where vgpu ptr is available")
+db19c724cb18 ("drm/i915/gvt: Make WARN* drm specific where drm_priv ptr is available")
+06d63c48dd30 ("drm/i915/gvt: make gvt oblivious of kvmgt data structures")
+3d4743131b8d ("Backmerge v5.5-rc7 into drm-next")

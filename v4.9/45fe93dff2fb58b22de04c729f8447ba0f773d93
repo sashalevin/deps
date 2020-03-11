@@ -1,0 +1,6 @@
+45fe93dff2fb ("crypto: algapi - make crypto_xor() take separate dst and src arguments")
+1a20b9661265 ("crypto: arm/aes - don't use IV buffer to return final keystream block")
+88a3f582bea9 ("crypto: arm64/aes - don't use IV buffer to return final keystream block")
+ccc5d51ef968 ("crypto: arm64/aes-blk - remove cra_alignmask")
+1465fb13d359 ("crypto: arm/aes-ce - remove cra_alignmask")
+34cb58213948 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

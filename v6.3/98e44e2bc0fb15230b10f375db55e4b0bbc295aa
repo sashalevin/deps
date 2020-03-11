@@ -1,0 +1,5 @@
+98e44e2bc0fb ("xfs: don't bother returning errors from xfs_file_release")
+5d3ca6261121 ("xfs: refactor f_op->release handling")
+6e13dbebd518 ("xfs: remove the i_mode check in xfs_release")
+610b29161b0a ("xfs: fix freeing speculative preallocations for preallocated files")
+d4d12c02bf5f ("xfs: collect errors from inodegc for unlinked inode recovery")

@@ -1,0 +1,6 @@
+2787710f73fc ("HID: i2c-hid: goodix: Fix a lockdep splat")
+25ddd7cfc582 ("HID: i2c-hid: goodix: Use the devm variant of regulator_register_notifier()")
+18eeef46d359 ("HID: i2c-hid: goodix: Tie the reset line to true state of the regulator")
+c1ed18c11bdb ("HID: i2c-hid: Introduce goodix-i2c-hid using i2c-hid core")
+b33752c30023 ("HID: i2c-hid: Reorganize so ACPI and OF are separate modules")
+19a0b6d79c97 ("Merge branch 'for-5.11/i2c-hid' into for-linus")

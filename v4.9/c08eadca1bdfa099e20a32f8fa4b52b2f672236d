@@ -1,0 +1,8 @@
+c08eadca1bdf ("media: em28xx: initialize refcount before kref_get")
+be7fd3c3a8c5 ("media: em28xx: Hauppauge DualHD second tuner functionality")
+1586342e428d ("[media] em28xx: support for Hauppauge WinTV-dualHD 01595 ATSC/QAM")
+c6d48134cb26 ("[media] em28xx: don't store usb_device at struct em28xx")
+29b05e22f5c6 ("[media] em28xx: use usb_interface for dev_foo() calls")
+ea48c3680829 ("[media] em28xx: don't change the device's name")
+ce8591ff023e ("[media] em28xx: convert it from pr_foo() to dev_foo()")
+2a96f60e89b9 ("[media] em28xx: convert the remaining printks to pr_foo")

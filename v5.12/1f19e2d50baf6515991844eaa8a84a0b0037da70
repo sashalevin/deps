@@ -1,0 +1,4 @@
+1f19e2d50baf ("x86/cpu: Get rid of redundant switch_to_new_gdt() invocations")
+b5636d45aae4 ("x86/cpu: Remove segment load from switch_to_new_gdt()")
+b1efd0ff4bd1 ("x86/cpu: Init AP exception handling from cpu_init_secondary()")
+3fb0fdb3bbe7 ("x86/stackprotector/32: Make the canary into a regular percpu variable")

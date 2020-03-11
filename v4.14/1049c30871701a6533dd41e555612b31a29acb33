@@ -1,0 +1,5 @@
+1049c3087170 ("arm64: Pass user fault info to arm64_notify_die instead of printing it")
+5dfc6ed27710 ("arm64: entry: Apply BP hardening for high-priority synchronous exceptions")
+746647c75afb ("arm64: entry.S convert el0_sync")
+80b6eb04b5d0 ("arm64: Don't walk page table for user faults in do_mem_abort")
+42dbf54e8890 ("arm64: consistently log ESR and page table")

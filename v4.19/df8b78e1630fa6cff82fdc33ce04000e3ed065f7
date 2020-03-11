@@ -1,0 +1,4 @@
+df8b78e1630f ("powerpc: move arch_trigger_cpumask_backtrace from nmi.h to irq.h")
+48015b632f77 ("powerpc: Fix STACKTRACE=n build")
+ccd477028a20 ("powerpc/64s: Fix HV NMI vs HV interrupt recoverability test")
+a43c1590426c ("powerpc/pseries: Flush SLB contents on SLB MCE errors.")

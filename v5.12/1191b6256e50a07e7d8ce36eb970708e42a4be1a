@@ -1,0 +1,6 @@
+1191b6256e50 ("arm64: fix KASAN_INLINE")
+b65e411d6cc2 ("arm64: Save state of HCR_EL2.E2H before switch to EL1")
+7559d9f97581 ("arm64: setup: drop early FDT pointer helpers")
+a004393f45d9 ("arm64: idreg-override: use early FDT mapping in ID map")
+1dfde0892b32 ("arm64: asm: setup.h: export common variables")
+31a32b49b80f ("arm64: Cope with CPUs stuck in VHE mode")

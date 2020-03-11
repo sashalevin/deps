@@ -1,0 +1,6 @@
+bec55332c24e ("thermal: gov_fair_share: Use .manage() callback instead of .throttle()")
+8c35b1f47253 ("thermal: core: Pass trip pointer to governor throttle callback")
+fdcf70ed4e16 ("thermal: gov_step_wise: Fold update_passive_instance() into its caller")
+94be1d27aa8d ("thermal: gov_power_allocator: Use trip pointers instead of trip indices")
+2c7b4bfadef0 ("thermal: core: Store trip pointer in struct thermal_instance")
+950210887670 ("thermal: core: Drop trips_disabled bitmask")

@@ -1,0 +1,5 @@
+84f0169e6c8a ("mm/rmap: remove page_add_anon_rmap()")
+8bd5130070fb ("mm/rmap: introduce folio_add_anon_rmap_[pte|ptes|pmd]()")
+a4ea18641d83 ("mm/rmap: add hugetlb sanity checks for anon rmap handling")
+cafa8e37a2eb ("mm: remove page_add_new_anon_rmap and lru_cache_add_inactive_or_unevictable")
+372cbd4d5a06 ("mm: non-pmd-mappable, large folios for folio_add_new_anon_rmap()")

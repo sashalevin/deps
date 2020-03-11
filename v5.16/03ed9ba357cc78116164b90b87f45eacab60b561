@@ -1,0 +1,4 @@
+03ed9ba357cc ("dmaengine: at_hdmac: Fix concurrency over the active list")
+6ba826cbb57d ("dmaengine: at_hdmac: Free the memset buf without holding the chan lock")
+06988949df8c ("dmaengine: at_hdmac: Fix concurrency over descriptor")
+c6babed879fb ("dmaengine: at_hdmac: Fix concurrency problems by removing atc_complete_all()")

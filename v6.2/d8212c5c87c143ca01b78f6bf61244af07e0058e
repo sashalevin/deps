@@ -1,0 +1,4 @@
+d8212c5c87c1 ("media: mtk-jpeg: Remove cancel worker in mtk_jpeg_remove to avoid the crash of multi-core JPEG devices")
+c677d7ae8314 ("media: mtk-jpeg: Fix use after free bug due to uncanceled work")
+d40e95274925 ("media: mtk-jpeg: reconstructs the initialization mode of worker")
+75c38caf66a1 ("media: mtk-jpeg: Fixes jpeghw multi-core judgement")

@@ -1,0 +1,8 @@
+7fad2a432cd3 ("x86/shstk: Check that signal frame is shadow stack mem")
+b93d6c78829a ("x86/shstk: Check that SSP is aligned on sigreturn")
+05e36022c054 ("x86/shstk: Handle signals for shadow stack")
+928054769dbd ("x86/shstk: Introduce routines modifying shstk")
+b2926a36b97a ("x86/shstk: Handle thread shadow stack")
+2d39a6add422 ("x86/shstk: Add user-mode shadow stack support")
+98cfa4630912 ("x86: Introduce userspace API for shadow stack")
+2da5b91fe409 ("x86/traps: Move control protection handler to separate file")

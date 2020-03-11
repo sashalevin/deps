@@ -1,0 +1,5 @@
+5af615f8ace2 ("pwm: brcmstb: Simplify using devm functions")
+e577bffd7afc ("pwm: brcmstb: Convert to platform remove callback returning void")
+0d6bc3e18e6f ("pwm: brcmstb: Remove useless locking")
+b4334246cc3d ("pwm: brcmstb: Don't check the return code of pwmchip_remove()")
+5bec839f13a9 ("pwm: brcmstb: Convert to devm_platform_ioremap_resource()")

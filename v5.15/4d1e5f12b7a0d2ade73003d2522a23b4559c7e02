@@ -1,0 +1,8 @@
+4d1e5f12b7a0 ("drm/amdgpu: Update PDEs flush TLB if PTB/PDB moved")
+5be323562c6a ("drm/amdgpu: vm flush needed after updating PDEs")
+184a69ca4d41 ("drm/amdgpu: separate VM PT handling into amdgpu_vm_pt.c")
+6e97c2f96892 ("drm/amdgpu: move VM PDEs to idle after update")
+4f860edecdaf ("drm/amdgpu: limit the number of dst address in trace")
+c58a863b1ccf ("drm/amdgpu: use adev_to_drm for consistency when accessing drm_device")
+c03509cbc015 ("drm/amdgpu: Fix MMIO access page fault")
+b2fe31cf6481 ("drm/amdgpu: Put drm_dev_enter/exit outside hot codepath")

@@ -1,0 +1,6 @@
+4e53ab0c292d ("mtd: spi-nor: Set the 4-Byte Address Mode method based on SFDP data")
+d75c22f376f6 ("mtd: spi-nor: core: Update name and description of spi_nor_set_4byte_addr_mode")
+f1f1976224f3 ("mtd: spi-nor: core: Update name and description of spansion_set_4byte_addr_mode")
+288df4378319 ("mtd: spi-nor: core: Update name and description of micron_st_nor_set_4byte_addr_mode")
+076aa4eac8b3 ("mtd: spi-nor: core: Move generic method to core - micron_st_nor_set_4byte_addr_mode")
+86d4cdf88c81 ("mtd: spi-nor: sfdp: Rename BFPT_DWORD() macro to SFDP_DWORD()")

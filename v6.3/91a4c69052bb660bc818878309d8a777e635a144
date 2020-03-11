@@ -1,0 +1,5 @@
+91a4c69052bb ("Input: tca6416-keypad - convert to use devm_* api")
+cc141c35af87 ("Input: tca6416-keypad - fix interrupt enable disbalance")
+687fe7dfb736 ("Input: tca6416-keypad - always expect proper IRQ number in i2c client")
+d8bde56dfd86 ("Input: Switch i2c drivers back to use .probe()")
+57d94d150d17 ("Input: add a new Novatek NVT-ts driver")

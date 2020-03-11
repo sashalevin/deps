@@ -1,0 +1,6 @@
+ef05e68936ff ("mm: vmscan: move set_task_reclaim_state() near flush_reclaim_state()")
+583c27a167c2 ("mm: vmscan: ignore non-LRU-based reclaim in memcg reclaim")
+54c4fe08f65e ("mm/vmscan: simplify shrink_node()")
+e4dde56cd208 ("mm: multi-gen LRU: per-node lru_gen_folio lists")
+7348cc91821b ("mm: multi-gen LRU: remove aging fairness safeguard")
+a579086c99ed ("mm: multi-gen LRU: remove eviction fairness safeguard")

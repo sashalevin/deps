@@ -1,0 +1,8 @@
+c21fd7a8e86c ("NFSD: Replace RQ_SPLICE_OK in nfsd_read()")
+507df40ebf31 ("NFSD: Hoist rq_vec preparation into nfsd_read()")
+fa6be9cc6e80 ("NFSD: Protect against send buffer overflow in NFSv3 READ")
+0cb4d23ae08c ("NFSD: Fix the behavior of READ near OFFSET_MAX")
+a6f8d9dc9e44 ("NFSD: Update the NFSv2 READ result encoder to use struct xdr_stream")
+cc9bcdad7773 ("NFSD: Update the NFSv3 READ3res encode to use struct xdr_stream")
+8c293ef993c8 ("NFSD: Update the NFSv2 READ argument decoder to use struct xdr_stream")
+be63bd2ac6bb ("NFSD: Update READ3arg decoder to use struct xdr_stream")

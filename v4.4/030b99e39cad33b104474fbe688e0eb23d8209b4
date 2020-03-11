@@ -1,0 +1,5 @@
+030b99e39cad ("libnvdimm, pmem: use devm_add_action to release bdev resources")
+bd032943b5b2 ("libnvdimm, pfn, convert nd_pfn_probe() to devm")
+298f2bc5db38 ("libnvdimm, pmem: kill pmem->ndns")
+a390180291dd ("libnvdimm, pfn: fix nvdimm_namespace_add_poison() vs section alignment")
+489011652a2d ("Merge branch 'for-4.6/pfn' into libnvdimm-for-next")

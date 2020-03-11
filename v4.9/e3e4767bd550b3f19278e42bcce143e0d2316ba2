@@ -1,0 +1,7 @@
+e3e4767bd550 ("mmc: core: don't override the CD GPIO level when "cd-inverted" is set")
+1d71926bbd59 ("mmc: core: Fix debounce time to use microseconds")
+bfd694d5e21c ("mmc: core: Add tunable delay before detecting card after card is inserted")
+6186d06c519e ("mmc: parse new binding for eMMC fixed driver type")
+fb458864d9a7 ("mmc: core: add driver strength selection when selecting hs400es")
+73a47a9bb3e2 ("mmc: core: Use device_property_read instead of of_property_read")
+fb00f196fcce ("mmc: core: Extend mmc_of_parse() to check for mmc-ddr-3_3v")

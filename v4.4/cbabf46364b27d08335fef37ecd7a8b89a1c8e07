@@ -1,0 +1,5 @@
+cbabf46364b2 ("net: tracepoint: using sock_set_state tracepoint to trace SCTP state transition")
+5bf35ddfee05 ("sctp: change sk state only when it has assocs in sctp_shutdown")
+28aa4c26fce2 ("sctp: add SCTP_PR_SUPPORTED on sctp sockopt")
+141ddefce7c8 ("sctp: change sk state to CLOSED instead of CLOSING in sctp_sock_migrate")
+d46e416c11c8 ("sctp: sctp should change socket state when shutdown is received")

@@ -1,0 +1,8 @@
+32085f25d7b6 ("mdio_bus: don't use managed reset-controller")
+1d4639567d97 ("mdio_bus: Fix PTR_ERR applied after initialization to constant")
+71dd6c0dff51 ("net: phy: add support for reset-controller")
+ee7e16b66a76 ("net: mdio: Only perform gpio reset for PHYs")
+04f629f730fc ("phylib: rename reset-(post-)delay-us to reset-(de)assert-us")
+3a30ae6ef3cb ("phylib: Add device reset delay support")
+bafbdd527d56 ("phylib: Add device reset GPIO support")
+00fde79532d6 ("net: phy: core: use genphy version of callbacks read_status and config_aneg per default")

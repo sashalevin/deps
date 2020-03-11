@@ -1,0 +1,6 @@
+6ecb0fc61290 ("mm/sparse.c: move subsection_map related functions together")
+0a9f9f623166 ("mm/sparse.c: only use subsection map in VMEMMAP case")
+37bc15020a96 ("mm/sparse.c: introduce a new function clear_subsection_map()")
+5d87255cadde ("mm/sparse.c: introduce new function fill_subsection_map()")
+d41e2f3bd546 ("mm/hotplug: fix hot remove failure in SPARSEMEM|!VMEMMAP case")
+1f503443e7df ("mm/sparse.c: reset section's mem_map when fully deactivated")

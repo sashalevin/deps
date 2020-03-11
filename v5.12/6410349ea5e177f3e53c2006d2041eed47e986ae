@@ -1,0 +1,6 @@
+6410349ea5e1 ("signal: clean up kernel-doc comments")
+307d522f5eb8 ("signal/seccomp: Refactor seccomp signal and coredump generation")
+af5eeab7e8e8 ("signal: Factor force_sig_perf out of perf_sigtrap")
+97ba62b27867 ("perf: Add support for SIGTRAP on perf events")
+2e498d0a74e5 ("perf: Add support for event removal on exec")
+2b26f0aa0049 ("perf: Support only inheriting events if cloned with CLONE_THREAD")

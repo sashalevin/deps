@@ -1,0 +1,8 @@
+ca7372aca7f4 ("KVM: x86: hyper-v: Use HV_MAX_SPARSE_VCPU_BANKS/HV_VCPUS_PER_SPARSE_BANK instead of raw '64'")
+56b5354fd8f9 ("KVM: x86: hyper-v: Add helper to read hypercall data for array")
+3be29eb7b525 ("KVM: x86: Report error when setting CPUID if Hyper-V allocation fails")
+1cac8d9f6bd2 ("KVM: x86: Check for existing Hyper-V vCPU in kvm_hv_vcpu_init()")
+ce2196b831b1 ("KVM: x86: Zero out entire Hyper-V CPUID cache before processing entries")
+277ad7d58611 ("KVM: x86: Add dedicated helper to get CPUID entry with significant index")
+ba7bb663f554 ("KVM: x86: Provide per VM capability for disabling PMU virtualization")
+c0f1eaeb9e62 ("Merge branch 'kvm-hv-xmm-hypercall-fixes' into HEAD")

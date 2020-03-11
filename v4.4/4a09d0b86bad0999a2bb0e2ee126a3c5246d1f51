@@ -1,0 +1,6 @@
+4a09d0b86bad ("mmc: tmio: hide unused tmio_mmc_clk_disable/tmio_mmc_clk_enable functions")
+dfcba5ffca98 ("mmc: host: tmio: disable clocks when unbinding")
+2fb55956ce4d ("mmc: tmio, sh_mobile_sdhi: Add support for variable input clock frequency")
+0ea28210c156 ("mmc: tmio, sh_mobile_sdhi: Pass tmio_mmc_host ptr to clk_{enable, disable} ops")
+bf96208f0539 ("mmc: tmio: refactor set_clock a little")
+04e24b80a3dd ("mmc: tmio: add flag to reduce delay after changing clock status")

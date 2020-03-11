@@ -1,0 +1,8 @@
+270a1c913ebd ("block: provide bio_clear_hipri() helper")
+be863b9e4348 ("block: clear BIO_PERCPU_CACHE flag if polling isn't supported")
+d5870edfa3af ("block: move the disk events code to a separate file")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+da7ba72960ca ("block: unexport blk_alloc_queue")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")

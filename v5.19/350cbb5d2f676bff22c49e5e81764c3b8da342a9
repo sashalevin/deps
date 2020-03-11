@@ -1,0 +1,7 @@
+350cbb5d2f67 ("cpufreq: intel_pstate: Check turbo_is_disabled() in store_no_turbo()")
+9558fae8ce97 ("cpufreq: intel_pstate: Read global.no_turbo under READ_ONCE()")
+c626a4384520 ("cpufreq: intel_pstate: Rearrange show_no_turbo() and store_no_turbo()")
+0940f1a8011f ("cpufreq: intel_pstate: Do not update global.turbo_disabled after initialization")
+032c5565eb80 ("cpufreq: intel_pstate: Fold intel_pstate_max_within_limits() into caller")
+192cdb1c907f ("cpufreq: intel_pstate: Refine computation of P-state for given frequency")
+37b6ddba967c ("cpufreq: intel_pstate: Revise global turbo disable check")

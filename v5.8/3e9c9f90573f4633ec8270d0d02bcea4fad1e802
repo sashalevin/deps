@@ -1,0 +1,5 @@
+3e9c9f90573f ("soundwire: intel: use pm_runtime_resume() on component probe")
+8ddeafb957a9 ("soundwire: intel: improve suspend flows")
+a5a0239c27fe ("soundwire: intel: reinitialize IP+DSP in .prepare(), but only when resuming")
+ff16d1e58462 ("soundwire: intel: remove stream allocation/free")
+09553140c8d7 ("soundwire: intel: implement get_sdw_stream() operations")

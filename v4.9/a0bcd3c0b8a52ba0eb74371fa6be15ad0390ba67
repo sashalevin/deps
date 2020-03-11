@@ -1,0 +1,5 @@
+a0bcd3c0b8a5 ("EDAC/mce_amd: Decode MCA_STATUS in bit definition order")
+3f4da372ec8e ("EDAC/mce_amd: Decode MCA_STATUS[Scrub] bit")
+93ac57540e91 ("x86/mce: Use BIT_ULL(x) for bit mask definitions")
+f3c0891c2fea ("EDAC, mce_amd: Get rid of most struct cpuinfo_x86 uses")
+a6c14dce85e2 ("EDAC, mce_amd: Don't report poison bit on Fam15h, bank 4")

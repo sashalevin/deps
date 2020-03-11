@@ -1,0 +1,6 @@
+65f666c62036 ("lib/sbitmap: define swap_lock as raw_spinlock_t")
+72d04bdcf3f7 ("sbitmap: fix io hung due to race on sbitmap_word::cleared")
+6ad0d7e0f4b6 ("sbitmap: use READ_ONCE to access map->word")
+903e86f3a64d ("sbitmap: remove redundant check in __sbitmap_queue_get_batch")
+c35227d4e8cb ("sbitmap: Use atomic_long_try_cmpxchg in __sbitmap_queue_get_batch")
+ddbfc34fcf5d ("sbitmap: remove unnecessary code in __sbitmap_queue_get_batch")

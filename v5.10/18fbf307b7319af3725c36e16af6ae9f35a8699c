@@ -1,0 +1,6 @@
+18fbf307b731 ("rcutorture: Make synctype[] and nsynctype be static global")
+12a910e3cd3d ("rcutorture: Require entire stutter period be post-boot")
+0fd0548db133 ("rcutorture: Add writer-side tests of polling grace-period API")
+fd56f64b4e3b ("rcutorture: Prepare for ->start_gp_poll and ->poll_gp_state")
+ab1b7880dec8 ("rcutorture:  Make stutter_wait() caller restore priority")
+19012b786ecc ("torture: Periodically pause in stutter_wait()")

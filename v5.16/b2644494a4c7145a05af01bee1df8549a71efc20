@@ -1,0 +1,8 @@
+b2644494a4c7 ("hwmon: (lm90) Add support for unsigned and signed temperatures")
+ddf2a6093c56 ("hwmon: (lm90) Use BIT macro")
+479f21d41d30 ("hwmon: (lm90) Reorder include files in alphabetical order")
+f6d0775119fb ("hwmon: (lm90) Rework alarm/status handling")
+eaf87c006f03 ("hwmon: (lm90) Generate sysfs and udev events for all alarms")
+d379880d9adb ("hwmon: (lm90) Fix sysfs and udev notifications")
+f614629f9c10 ("hwmon: (lm90) Mark alert as broken for MAX6646/6647/6649")
+bc341a1a9882 ("hwmon: (lm90) Re-enable interrupts after alert clears")

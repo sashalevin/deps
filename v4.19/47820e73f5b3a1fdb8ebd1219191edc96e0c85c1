@@ -1,1 +1,5 @@
 47820e73f5b3 ("x86/resctrl: Initialize a new resource group with default MBA values")
+7390619ab9ea ("x86/resctrl: Move per RDT domain initialization to a separate function")
+40fba00ffa43 ("x86/resctrl: Do not repeat rdtgroup mode initialization")
+723f1a0dd8e2 ("x86/resctrl: Fixup the user-visible strings")
+2a7adf6ce643 ("x86/intel_rdt: Fix initial allocation to consider CDP")

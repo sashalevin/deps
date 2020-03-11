@@ -1,0 +1,8 @@
+aff7783392e0 ("riscv: force hart_lottery to put in .sdata section")
+387181dcdb6c ("RISC-V: Always compile mm/init.c with cmodel=medany and notrace")
+f2c17aabc917 ("RISC-V: Implement compile-time fixed mappings")
+6f1e9e946f0b ("RISC-V: Move setup_vm() to mm/init.c")
+0651c263c8e3 ("RISC-V: Move setup_bootmem() to mm/init.c")
+e1b1381b3179 ("riscv: use pr_info and friends")
+28198c4639b3 ("riscv: fixup max_low_pfn with PFN_DOWN.")
+d26c4bbf9924 ("RISC-V: SMP cleanup and new features")

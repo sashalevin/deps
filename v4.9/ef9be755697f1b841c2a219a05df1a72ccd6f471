@@ -1,0 +1,7 @@
+ef9be755697f ("tipc: eliminate buffer cloning in function tipc_msg_extract()")
+d618d09a68e4 ("tipc: enforce valid ratio between skb truesize and contents")
+a9e2971b8cd3 ("tipc: Unclone message at secondary destination lookup")
+60d1d93664a0 ("tipc: reassign pointers after skb reallocation / linearization")
+343eba69c696 ("net: tipc: Fix a sleep-in-atomic bug in tipc_msg_reverse")
+681a55d71799 ("tipc: move premature initilalization of stack variables")
+57d5f64d83ab ("tipc: allocate user memory with GFP_KERNEL flag")

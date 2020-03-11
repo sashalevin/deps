@@ -1,0 +1,8 @@
+2647c43c7f3b ("x86/tsc: Fix UV TSC initialization")
+8dbe438589f3 ("x86/tsc: Make use of tsc_calibrate_cpu_early()")
+03821f451d2d ("x86/tsc: Split native_calibrate_cpu() into early and late parts")
+cf7a63ef4e02 ("x86/tsc: Calibrate tsc only once")
+368a540e0232 ("x86/kvmclock: Remove memblock dependency")
+30c7e5b12367 ("x86/tsc: Allow TSC calibration without PIT")
+4b5b2127238e ("x86/tsc: Print tsc_khz, when it differs from cpu_khz")
+99306dfc067e ("Merge branch 'x86-timers-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

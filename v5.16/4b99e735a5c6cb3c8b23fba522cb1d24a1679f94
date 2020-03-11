@@ -1,0 +1,7 @@
+4b99e735a5c6 ("x86/ioapic: Simplify setup_ioapic_ids_from_mpc_nocheck()")
+517234446c1a ("x86/apic: Get rid of get_physical_broadcast()")
+2ac9e529d76a ("x86/ioapic: Replace some more set bit nonsense")
+9a2a637af066 ("x86/apic: Nuke apic::apicid_to_cpu_present()")
+4114e1686fdc ("x86/apic/32: Remove bigsmp_cpu_present_to_apicid()")
+f52e2c3e96d9 ("x86/apic: Remove check_phys_apicid_present()")
+d23c977fb078 ("x86/apic: Remove pointless x86_bios_cpu_apicid")

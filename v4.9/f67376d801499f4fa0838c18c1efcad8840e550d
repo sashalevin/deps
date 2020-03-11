@@ -1,0 +1,5 @@
+f67376d80149 ("RDMA/rxe: Fix NULL-ptr-deref in rxe_qp_do_cleanup() when socket create failed")
+548ce2e66725 ("RDMA/rxe: Fix the error caused by qp->sk")
+825a51a4af82 ("IB/rxe: Fix up rxe_qp_cleanup()")
+4ed6ad1eb30e ("IB/rxe: Cache dst in QP instead of getting it for each send")
+e259934d4df7 ("IB/rxe: Fix a memory leak in rxe_qp_cleanup()")

@@ -1,0 +1,6 @@
+bf0028f8cb44 ("usb: gadget: f_midi: use flexible array member for gmidi_in_port elements")
+06cd928b0cfc ("usb: gadget: f_midi: fix in_last_port looping logic")
+9a71eb563441 ("usb: gadget: f_midi: move some of f_midi_transmit to separate func")
+f297e86c7f01 ("usb: gadget: f_midi: remove useless midi reference from port struct")
+e1e3d7ec5da3 ("usb: gadget: f_midi: pre-allocate IN requests")
+bc1d3cdc9c3c ("usb: gadget: f_midi: remove duplicated code")

@@ -1,0 +1,5 @@
+1209a523f691 ("bpf: avoid UB in usages of the __imm_insn macro")
+207cf6e649ee ("selftests/bpf: Add CFLAGS per source file and runner")
+646751d52358 ("bpf: Use -Wno-error in certain tests when building with GCC")
+be8e754cbfac ("selftests/bpf: Include build flavors for install target")
+a5d0c26a2784 ("selftests/bpf: Add a cpuv4 test runner for cpu=v4 testing")

@@ -1,0 +1,6 @@
+8570978ea030 ("x86/boot/compressed/64: Don't pre-map memory in KASLR code")
+ca0e22d4f011 ("x86/boot/compressed/64: Always switch to own page table")
+64e682638eb5 ("x86/boot/compressed/64: Add IDT Infrastructure")
+451286940d95 ("x86/kaslr: Initialize mem_limit to the real maximum address")
+709709ac6410 ("x86/kaslr: Make command line handling safer")
+34bb49229f19 ("x86/boot/compressed/64: Switch to __KERNEL_CS after GDT is loaded")

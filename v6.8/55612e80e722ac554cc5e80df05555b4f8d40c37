@@ -1,0 +1,7 @@
+55612e80e722 ("mm: page_alloc: close migratetype race between freeing and stealing")
+9cbe97bad5cd ("mm: page_alloc: optimize free_unref_folios()")
+17edeb5d3f76 ("mm: page_alloc: remove pcppage migratetype caching")
+31b2ff82aefb ("mm: handle large folios in free_unref_folios()")
+90491d87dd46 ("mm: add free_unref_folios()")
+7c76d92253db ("mm: convert free_unref_page_list() to use folios")
+5267fe5d092e ("mm/page_alloc: remove unused fpi_flags in free_pages_prepare()")

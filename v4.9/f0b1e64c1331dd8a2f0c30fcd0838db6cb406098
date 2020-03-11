@@ -1,0 +1,5 @@
+f0b1e64c1331 ("udp: Move udp[46]_portaddr_hash() to net/ip[v6].h")
+0bd84065b19b ("net: ipv6: Fix UDP early demux lookup with udp_l3mdev_accept=0")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")
+fe38d2a1c8be ("inet: collapse ipv4/v6 rcv_saddr_equal functions into one")
+df560056d960 ("udp: inuse checks can quit early for reuseport")

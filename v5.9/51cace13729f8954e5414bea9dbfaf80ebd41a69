@@ -1,0 +1,7 @@
+51cace13729f ("rcu: Disable interrupts directly in rcu_gp_init()")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")
+2caebefb00f0 ("rcu: Move rcu_dynticks_eqs_online() to rcu_cpu_starting()")
+ebc88ad49136 ("rcu: Comment rcu_gp_init() code waiting for CPU-hotplug operations")
+683954e55c98 ("rcu: Check and report missed fqs timer wakeup on RCU stall")
+4d60b475f858 ("rcu: Prevent lockdep-RCU splats on lock acquisition/release")
+9f866dac9429 ("rcu/tree: Add a warning if CPU being onlined did not report QS already")

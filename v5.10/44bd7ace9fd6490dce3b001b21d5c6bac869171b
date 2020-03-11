@@ -1,0 +1,6 @@
+44bd7ace9fd6 ("mm: take placement mappings gap into account")
+d4e6b397be1b ("mm/mmap: convert all mas except mas_detach to vma iterator")
+05976a42b327 ("mm: mmap: no need to call khugepaged_enter_vma() for stack")
+d24062914837 ("fork: use __mt_dup() to duplicate maple tree in dup_mmap()")
+2820b0f09be9 ("hugetlbfs: close race between MADV_DONTNEED and page fault")
+df57721f9a63 ("Merge tag 'x86_shstk_for_6.6-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

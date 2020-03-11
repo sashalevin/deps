@@ -1,0 +1,8 @@
+74fa565b63dc ("can: mcp251x: Use readx_poll_timeout() helper")
+2d52dabbef60 ("can: mcp251x: add GPIO support")
+8ce8c0abcba3 ("can: mcp251x: only reset hardware as required")
+27a0e54bae09 ("can: mcp251x: mcp251x_restart_work_handler(): Fix potential force_quit race condition")
+d84ea2123f8d ("can: mcp251x: mcp251x_hw_reset(): allow more time after a reset")
+d344c6d6c33f ("can: mcp251x: fix print formating strings")
+375f755899b8 ("can: mcp251x: add error check when wq alloc failed")
+35b7fa4d07c4 ("can: mcp251x: add support for mcp25625")

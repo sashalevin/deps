@@ -1,0 +1,3 @@
+1cf8dfe8a661 ("perf/core: Fix race between close() and fork()")
+621b6d2ea297 ("perf/core: Fix use-after-free in uprobe_perf_close()")
+82d94856fa22 ("perf/core: Fix lock inversion between perf,trace,cpuhp")

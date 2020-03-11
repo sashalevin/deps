@@ -1,0 +1,5 @@
+6a080670d688 ("mm/damon/sysfs: handle 'state' file inputs for every sampling interval if possible")
+76126332c760 ("mm/damon/sysfs: avoid empty scheme tried regions for large apply interval")
+4d4e41b68299 ("mm/damon/sysfs-schemes: do not update tried regions more than one DAMON snapshot")
+6ad243b83b50 ("mm/damon/sysfs: implement a command for updating only schemes tried total bytes")
+b69f92a74140 ("mm/damon/sysfs-schemes: implement DAMOS tried total bytes file")

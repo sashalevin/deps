@@ -1,0 +1,5 @@
+9ec7eb60dcbc ("bonding: restore IFF_MASTER/SLAVE flags on bond enslave ether type change")
+6569fa2d4e01 ("bonding: combine netlink and console error messages")
+9e2ee5c7e7c3 ("net, bonding: Add XDP support to the bonding driver")
+a815bde56b15 ("net, bonding: Refactor bond_xmit_hash for use with xdp_buff")
+220ade77452c ("bonding: 3ad: fix the concurrency between __bond_release_one() and bond_3ad_state_machine_handler()")

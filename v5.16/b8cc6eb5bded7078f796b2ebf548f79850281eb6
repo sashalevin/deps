@@ -1,0 +1,4 @@
+b8cc6eb5bded ("KVM: arm64: Expose unshare hypercall to the host")
+1ee32109fd78 ("KVM: arm64: Implement __pkvm_host_share_hyp() using do_share()")
+e82edcc75c4e ("KVM: arm64: Implement do_share() helper for sharing memory")
+61d99e33e757 ("KVM: arm64: Introduce wrappers for host and hyp spin lock accessors")

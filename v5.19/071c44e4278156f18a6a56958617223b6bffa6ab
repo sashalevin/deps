@@ -1,0 +1,3 @@
+071c44e42781 ("sched/idle: Mark arch_cpu_idle_dead() __noreturn")
+dfb0f170cadb ("sched/idle: Make sure weak version of arch_cpu_idle_dead() doesn't return")
+c93c296fff6b ("x86/sev: Mark snp_abort() noreturn")

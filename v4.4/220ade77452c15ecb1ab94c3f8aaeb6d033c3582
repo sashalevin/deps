@@ -1,0 +1,5 @@
+220ade77452c ("bonding: 3ad: fix the concurrency between __bond_release_one() and bond_3ad_state_machine_handler()")
+e79c1055749e ("bonding: allow use of tx hashing in balance-alb")
+41f0b0496466 ("bonding: fill-up LAG changeupper info struct and pass it along")
+29bf24afb290 ("net: add possibility to pass information about upper device via notifier")
+6dffb0447c25 ("net: propagate upper priv via netdev_master_upper_dev_link")

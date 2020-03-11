@@ -1,0 +1,8 @@
+04ec5d5782fb ("powerpc/kprobes: Have optimized_callback() use preempt_enable()")
+f72180cc93a2 ("powerpc/kprobes: Do not disable interrupts for optprobes and kprobes_on_ftrace")
+8a2d71a3f273 ("powerpc/kprobes: Disable preemption before invoking probe handler for optprobes")
+6baea433bc84 ("powerpc/jprobes: Disable preemption when triggered through ftrace")
+ead514d5fb30 ("powerpc/kprobes: Add support for KPROBES_ON_FTRACE")
+a64e3f35a45f ("powerpc/kretprobes: Override default function entry offset")
+a7d2475af7ae ("powerpc: Sort the selects under CONFIG_PPC")
+b286cedd4730 ("Merge tag 'powerpc-4.11-2' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

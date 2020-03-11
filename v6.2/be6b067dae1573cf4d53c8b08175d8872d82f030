@@ -1,0 +1,6 @@
+be6b067dae15 ("KVM: x86/pmu: Add common define to capture fixed counters offset")
+4fa5843d81fd ("KVM: x86/pmu: Fix a typo in kvm_pmu_request_counter_reprogam()")
+8bca8c5ce40b ("KVM: VMX: Refactor intel_pmu_{g,}set_msr() to align with other helpers")
+2a3003e9507c ("KVM: x86/pmu: Drop event_type and rename "struct kvm_event_hw_type_mapping"")
+c5a287fa0dcc ("KVM: x86/pmu: prepare the pmu event filter for masked events")
+6a5cba7bed35 ("KVM: x86/pmu: Correct the mask used in a pmu event filter lookup")

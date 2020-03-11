@@ -1,0 +1,8 @@
+c870f14ea115 ("arm64: Unify kernel fault reporting")
+969e61ba87f9 ("arm64: make is_permission_fault() name clearer")
+51369e398d0d ("arm64: Make USER_DS an inclusive limit")
+f67d5c4fbe80 ("arm64: mm: Remove useless and wrong comments from fault.c")
+eef94a3d09aa ("arm64: move TASK_* definitions to <asm/processor.h>")
+1f9b8936f36f ("arm64: Decode information from ESR upon mem faults")
+c396fe7f0c2e ("arm64: uaccess: Remove redundant __force from addr cast in __range_ok")
+3edb1dd13ce6 ("Merge branch 'aarch64/for-next/ras-apei' into aarch64/for-next/core")

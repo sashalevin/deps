@@ -1,0 +1,3 @@
+7795d4757502 ("spi: Warn when a driver's remove callback returns an error")
+440408dbadfe ("spi: fix resource leak for drivers without .remove callback")
+71f277a7bf0b ("spi: Respect all error codes from dev_pm_domain_attach()")

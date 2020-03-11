@@ -1,0 +1,6 @@
+3fd8b292ae6b ("drm/imx: ipuv3-plane: merge ipu_plane_atomic_set_base into atomic_update")
+81d553545a15 ("drm/imx: ipuv3-plane: Skip setting u/vbo only when we don't need modeset")
+43daa01323da ("drm/imx: ipuv3-plane: Switch EBA buffer only when we don't need modeset")
+5f4df0c769a9 ("drm/imx: Use DRM_PLANE_COMMIT_NO_DISABLE_AFTER_MODESET flag")
+2b58e98d42af ("drm/atomic-helper: Add NO_DISABLE_AFTER_MODESET flag support for plane commit")
+f8725ad1da51 ("Merge tag 'topic/drm-misc-2016-08-12' of git://anongit.freedesktop.org/drm-intel into drm-next")

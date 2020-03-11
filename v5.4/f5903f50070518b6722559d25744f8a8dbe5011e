@@ -1,0 +1,8 @@
+f5903f500705 ("crypto: caam/qi* - Use cpumask_var_t instead of cpumask_t")
+0e1a4d427f58 ("crypto: caam: Unembed net_dev structure in dpaa2")
+82c81e740def ("crypto: caam: Unembed net_dev structure from qi")
+2e26efb384d8 ("crypto: caam/qi2 - switch to netif_napi_add_tx_weight()")
+f414de2e2fff ("crypto: caam - use devres to de-initialize QI")
+e57acaf0dfe0 ("crypto: caam - use devres to de-initialize the RNG")
+eceb5daf9eba ("crypto: caam - use devres to remove debugfs")
+66e93b28075d ("crypto: caam - use devres to unmap memory")

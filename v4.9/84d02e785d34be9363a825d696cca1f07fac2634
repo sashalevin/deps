@@ -1,0 +1,5 @@
+84d02e785d34 ("pinctrl: mcp23s08: Deduplicate IRQ chip filling")
+19ab5ca9b77d ("pinctrl: mcp23s08: Allocate irq_chip dynamic")
+64ac43e6fa28 ("gpio: mcp23s08: move to pinctrl")
+e8e1a5b5679b ("gpio: mcp23s08: Select REGMAP/REGMAP_I2C to fix build error")
+d245b3f9bd36 ("gpio: simplify adding threaded interrupts")

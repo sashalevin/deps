@@ -1,0 +1,6 @@
+281b52780b57 ("KVM: x86: Add emulation for MSR_IA32_MCx_CTL2 MSRs.")
+4b903561ec49 ("KVM: x86: Add Corrected Machine Check Interrupt (CMCI) emulation to lapic.")
+987f625e0799 ("KVM: x86: Add APIC_LVTx() macro.")
+1d8c681fb6ed ("KVM: x86: Fill apic_lvt_mask with enums / explicit entries.")
+951ceb94ede3 ("KVM: x86: Make APIC_VERSION capture only the magic 0x14UL.")
+e15f5e6fa6ca ("Merge branch 'kvm-5.20-early'")

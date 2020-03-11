@@ -1,0 +1,8 @@
+0d16d12eb26e ("KVM: arm64: Fix-up hyp stage-1 refcounts for all pages mapped at EL2")
+d6b4bd3f4897 ("KVM: arm64: Fixup hyp stage-1 refcount")
+2c50166c62ba ("KVM: arm64: Mark host bss and rodata section as shared")
+d978b9cfe6fe ("KVM: arm64: Remove hyp_pool pointer from struct hyp_page")
+7c350ea39e53 ("KVM: arm64: Unify MMIO and mem host stage-2 pools")
+914cde58a03c ("KVM: arm64: Remove list_head from hyp_page")
+581982decc63 ("KVM: arm64: Use refcount at hyp to check page availability")
+6cbf874e51b6 ("KVM: arm64: Move hyp_pool locking out of refcount helpers")

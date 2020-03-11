@@ -1,0 +1,5 @@
+e0aa56dc7b18 ("xhci: dbc: simplify dbc requests allocation and queueing")
+f39f3afdf9b1 ("xhci: dbc: Use dbc structure in the request completion instead of xhci_hcd")
+91aaf97471a0 ("xhci: dbc: Pass dbc pointer to get_in/out_ep() helper functions to get endpoints")
+b396fa39de9b ("xhci: dbgtty: Pass dbc pointer when registering a dbctty device")
+ed7bffee0216 ("xhci: dbc: Get the device pointer from dbc structure in dbc_ep_do_queue()")

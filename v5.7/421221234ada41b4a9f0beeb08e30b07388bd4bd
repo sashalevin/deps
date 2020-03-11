@@ -1,0 +1,5 @@
+421221234ada ("KVM: x86: Open code necessary bits of kvm_lapic_set_base() at vCPU RESET")
+503bc49424df ("KVM: x86: Set BSP bit in reset BSP vCPU's APIC base by default")
+6e4e3b4df4e3 ("KVM: Stop using deprecated jump label APIs")
+44d527170731 ("KVM: LAPIC: ensure APIC map is up to date on concurrent update requests")
+af28dfacbe00 ("kvm: lapic: fix broken vcpu hotplug")

@@ -1,0 +1,8 @@
+db6c1f6f236d ("mm/tlbbatch: introduce arch_flush_tlb_batched_pending()")
+5ee2fa2f0636 ("mm/rmap: fix potential batched TLB flush race")
+9c1177b62a8c ("mm/rmap: annotate a data race at tlb_flush_batched")
+c1a2f7f0c064 ("mm: Allocate the mm_cpumask (mm->cpu_bitmap[]) dynamically based on nr_cpu_ids")
+88aa7cc688d4 ("mm: introduce arg_lock to protect arg_start|end and env_start|end in mm_struct")
+7e904a91bf60 ("efi: Use efi_mm in x86 as well as ARM")
+dd84441a7971 ("x86/speculation: Use IBRS if available before calling into firmware")
+d4667ca14261 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

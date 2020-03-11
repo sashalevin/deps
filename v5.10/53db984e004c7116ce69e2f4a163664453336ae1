@@ -1,0 +1,6 @@
+53db984e004c ("dm: bio_alloc can't fail if it is allowed to sleep")
+5f7136db8299 ("block: Add bio_max_segs")
+67883ade7a98 ("f2fs: remove FAULT_ALLOC_BIO")
+25ac84262cb5 ("f2fs: use blkdev_issue_flush in __submit_flush_wait")
+dab3902b19a0 ("nvmet: use inline bio for passthru fast path")
+06b3bec8204b ("nvmet: remove op_flags for passthru commands")

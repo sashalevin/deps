@@ -1,0 +1,7 @@
+260970862c88 ("KVM: x86: hyper-v: Handle HVCALL_FLUSH_VIRTUAL_ADDRESS_LIST{,EX} calls gently")
+56b5354fd8f9 ("KVM: x86: hyper-v: Add helper to read hypercall data for array")
+0823570f0198 ("KVM: x86: hyper-v: Introduce TLB flush fifo")
+adc43caa0a25 ("KVM: x86: hyper-v: Resurrect dedicated KVM_REQ_HV_TLB_FLUSH flag")
+527d5cd7eece ("KVM: x86/mmu: Zap only obsolete roots if a root shadow page is zapped")
+2f6f66ccd21e ("KVM: Drop kvm_reload_remote_mmus(), open code request in x86 users")
+c0f1eaeb9e62 ("Merge branch 'kvm-hv-xmm-hypercall-fixes' into HEAD")

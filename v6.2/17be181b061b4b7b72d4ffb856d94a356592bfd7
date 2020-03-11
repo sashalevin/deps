@@ -1,0 +1,6 @@
+17be181b061b ("tty: serial: meson: refactor objects definition for different devnames")
+5651f657097c ("tty: serial: meson: add independent uart_data for A1 SoC family")
+bd86980b5113 ("tty: serial: meson: introduce separate uart_data for S4 SoC family")
+e71aab9d6132 ("tty: serial: meson: apply ttyS devname instead of ttyAML for new SoCs")
+bcb5645f99ef ("tty: serial: meson: redesign the module to platform_driver")
+804e6d6998f7 ("tty: serial: meson: Add a new compatible string for the G12A SoC")

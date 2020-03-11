@@ -1,0 +1,5 @@
+9c7d83ae6ba6 ("pstore: Fix warning in pstore_kill_sb()")
+27e5041a87e8 ("pstore: Add locking around superblock changes")
+7a0ad546847a ("pstore: Refactor pstorefs record list removal")
+db23491c7720 ("pstore: Convert "records_list" locking to mutex")
+47af61ffb19b ("pstore: Rename "allpstore" to "records_list"")

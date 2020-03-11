@@ -1,0 +1,7 @@
+503438a4f29e ("block/rnbd-clt: Remove max_segment_size")
+2958a995edc9 ("block/rnbd-clt: Support polling mode for IO latency optimization")
+ce9d2b4f7bbe ("block/rnbd-clt: Improve find_or_create_sess() return check")
+f47e4e3e7172 ("RDMA/rtrs-clt: Set mininum limit when create QP")
+7490fd1fe836 ("RDMA/rtrs: Extend ibtrs_cq_qp_create")
+5a1328d0c3a7 ("block/rnbd-clt: Dynamically allocate sglist for rnbd_iu")
+64e8a6ece1a5 ("block/rnbd-clt: Dynamically alloc buffer for pathname & blk_symlink_name")

@@ -1,0 +1,7 @@
+ba7a4754da10 ("rpmsg: glink: Consolidate TX_DATA and TX_DATA_CONT")
+7a68f9fa9735 ("rpmsg: glink: Propagate TX failures in intentless mode as well")
+4e816d0318fd ("rpmsg: glink: Fix GLINK command prefix")
+b16a37e1846c ("rpmsg: glink: Send READ_NOTIFY command in FIFO full case")
+8956927faed3 ("rpmsg: glink: Add TX_DATA_CONT command while sending")
+6f0b9584275a ("rpmsg: glink: Fix various kerneldoc warnings.")
+29fc9b387360 ("rpmsg: glink: Use spinlock in tx path")

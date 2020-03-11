@@ -1,0 +1,8 @@
+551b3886401c ("netfilter: nf_tables: reduce trans->ctx.chain references")
+06fcaca2ed1f ("netfilter: nf_tables: reduce trans->ctx.table references")
+1bc83a019bbe ("netfilter: nf_tables: discard table flag update with pending basechain deletion")
+216e7bf7402c ("netfilter: nf_tables: skip netdev hook unregistration if table is dormant")
+1e1fb6f00f52 ("netfilter: nf_tables: reject table flag and netdev basechain updates")
+7eaf837a4eb5 ("netfilter: nf_tables: Fix a memory leak in nf_tables_updchain")
+31bf508be656 ("netfilter: nf_tables: Implement table adoption support")
+c9bd26513b3a ("netfilter: nf_tables: disable toggling dormant table state more than once")

@@ -1,0 +1,5 @@
+e48dac7f6f4c ("btrfs: make should_throttle loop local in btrfs_truncate_inode_items")
+7097a941bf75 ("btrfs: remove found_extent from btrfs_truncate_inode_items")
+9a4a1429acbe ("btrfs: move extent locking outside of btrfs_truncate_inode_items")
+54f03ab1e19b ("btrfs: move btrfs_truncate_inode_items to inode-item.c")
+26c2c4540d6d ("btrfs: add an inode-item.h")

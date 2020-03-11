@@ -1,0 +1,4 @@
+a87da50f39d4 ("nvme-rdma: fix crash due to incorrect cqe")
+3ef0279bb003 ("nvme-rdma: Check remotely invalidated rkey matches our expected rkey")
+2f122e4f5107 ("nvme-rdma: wait for local invalidation before completing a request")
+60a518863368 ("nvme-rdma: Don't local invalidate if the queue is not live")

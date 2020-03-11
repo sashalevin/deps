@@ -1,0 +1,5 @@
+3d9c3dcc58e9 ("scsi: storvsc: Enable scatterlist entry lengths > 4Kbytes")
+8f43710543ef ("scsi: storvsc: Support PAGE_SIZE larger than 4K")
+106dee084081 ("hv: hyperv.h: Introduce some hvpfn helper functions")
+bca6b91dfdd4 ("Drivers: hv: vmbus: Move virt_to_hvpfn() to hyperv header")
+a5dda201a038 ("Drivers: hv: vmbus: Always use HV_HYP_PAGE_SIZE for gpadl")

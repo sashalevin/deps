@@ -1,0 +1,4 @@
+48015b632f77 ("powerpc: Fix STACKTRACE=n build")
+e08ecba17b72 ("powerpc/64s: Fix build failures with CONFIG_NMI_IPI=n")
+5cc05910f26e ("powerpc/64s: Wire up arch_trigger_cpumask_backtrace()")
+df78d3f61480 ("powerpc/livepatch: Implement reliable stack tracing for the consistency model")

@@ -1,0 +1,6 @@
+fa55eedd6328 ("KVM: X86: Add KVM_VCPU_PREEMPTED")
+55dd00a73a51 ("KVM: x86: add KVM_HC_CLOCK_PAIRING hypercall")
+3cded4179481 ("x86/paravirt: Optimize native pv_lock_ops.vcpu_is_preempted()")
+de7689cf8f38 ("x86/xen: Support the vCPU preemption check")
+0b9f6c4615c9 ("x86/kvm: Support the vCPU preemption check")
+446f3dc8cc0a ("locking/core, x86/paravirt: Implement vcpu_is_preempted(cpu) for KVM and Xen guests")

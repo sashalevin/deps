@@ -1,0 +1,4 @@
+8aebfffacfa3 ("configfs: fix config_item refcnt leak in configfs_rmdir()")
+b0841eefd969 ("configfs: provide exclusion between IO and removals")
+ff4dd081977d ("configfs: stash the data we need into configfs_buffer at open time")
+3f6928c34770 ("configfs: Fix bool initialization/comparison")

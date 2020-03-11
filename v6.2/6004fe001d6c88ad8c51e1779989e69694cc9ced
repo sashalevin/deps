@@ -1,0 +1,6 @@
+6004fe001d6c ("mm/vmalloc.c: use "high-order" in description non 0-order pages")
+7de8728f55ff ("mm: vmalloc: refactor vm_area_alloc_pages() function")
+61ebe5a747da ("mm/vmalloc: fix page mapping if vm_area_alloc_pages() with high order fallback to order 0")
+8e0545c83d67 ("mm/vmalloc: fix vmalloc which may return null if called with __GFP_NOFAIL")
+88ae5fb755b0 ("mm: vmalloc: enable memory allocation profiling")
+e9c3cda4d86e ("mm, vmalloc: fix high order __GFP_NOFAIL allocations")

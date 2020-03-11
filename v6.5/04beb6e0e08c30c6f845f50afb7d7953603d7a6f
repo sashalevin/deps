@@ -1,0 +1,3 @@
+04beb6e0e08c ("io_uring: check for presence of task_work rather than TIF_NOTIFY_SIGNAL")
+9fe3eaea4a35 ("io_uring: remove unconditional looping in local task_work handling")
+d246c759c47e ("io_uring: simplify io_run_task_work_sig return")

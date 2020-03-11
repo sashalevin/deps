@@ -1,0 +1,6 @@
+a8da6c18b481 ("drm/i915/tc: Fix target TC mode for a disconnected legacy port")
+4e936b65211a ("drm/i915/tc: Factor out helpers converting HPD mask to TC mode")
+675d23c14821 ("drm/i915/tc: Don't keep legacy TypeC ports in connected state w/o a sink")
+55ce306c2aa1 ("drm/i915/adl_p: Implement TC sequences")
+f53979d68a77 ("drm/i915/display/tc: Rename safe_mode functions ownership")
+3a11529d615e ("drm/i915: Say "enable foo" instead of "set foo to enabled"")

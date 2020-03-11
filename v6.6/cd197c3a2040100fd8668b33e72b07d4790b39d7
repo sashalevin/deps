@@ -1,0 +1,5 @@
+cd197c3a2040 ("mm: prohibit the last subpage from reusing the entire large folio")
+dec078cc2181 ("memory: move exclusivity detection in do_wp_page() into wp_can_reuse_anon_folio()")
+069686255c16 ("mm/rmap: convert page_move_anon_rmap() to folio_move_anon_rmap()")
+5ca432896a4c ("mm/rmap: move SetPageAnonExclusive() out of page_move_anon_rmap()")
+164b06f238b9 ("mm: call wp_page_copy() under the VMA lock")

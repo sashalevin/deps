@@ -1,0 +1,6 @@
+1b7aebf04876 ("x86/cacheinfo: Fix a -Wtype-limits warning")
+68091ee7ac3c ("x86/CPU/AMD: Calculate last level cache ID from number of sharing threads")
+b6a50cddbcbd ("x86/cpu/AMD: Clean up cpu_llc_id assignment per topology feature")
+b0b6e8684609 ("x86/cpu/AMD: Fix cpu_llc_id for AMD Fam17h systems")
+8196dab4fc15 ("x86/cpu: Get rid of compute_unit_id")
+ee6825c80e87 ("x86/topology: Fix AMD core count")

@@ -1,0 +1,8 @@
+a15cf34fed77 ("ubi: fix swapped arguments to call to ubi_alloc_aeb")
+91f4285fe389 ("UBI: provide helpers to allocate and free aeb elements")
+f9efe8d8a5d5 ("UBI: factorize destroy_av() and ubi_remove_av() code")
+4c368421bc1a ("UBI: fastmap: avoid multiple be32_to_cpu() when unneccesary")
+3f84e454eb6c ("UBI: fix add_fastmap() to use the vid_hdr passed in argument")
+f5f9d43f0a61 ("UBI: fastmap: use ubi_find_volume() instead of open coding it")
+fdf10ed710c0 ("ubi: Rework Fastmap attach base code")
+243a4f8126fc ("ubi: Introduce vol_ignored()")

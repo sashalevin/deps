@@ -1,0 +1,6 @@
+3975b097e577 ("*: convert stream-like files -> stream_open, even if they use noop_llseek")
+10dce8af3422 ("fs: stream_open - opener for stream-like files so that read and write can run simultaneously without deadlock")
+f5d11409e61d ("introduce FMODE_OPENED")
+c9c554f21490 ("alloc_file(): switch to passing O_... flags instead of FMODE_... mode")
+d202797f480c ("cxl_getfile(): fix double-iput() on alloc_file() failures")
+5f85942c2ea2 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,8 @@
+67e4eb076840 ("mm: thp: don't need to drain lru cache when splitting and mlocking THP")
+a8803e6c177f ("mm/huge_memory.c: use head to emphasize the purpose of page")
+cb829624867b ("mm/huge_memory.c: use head to check huge zero page")
+06d3eff62d9d ("mm/thp: fix node page state in split_huge_page_to_list()")
+87eaceb3faa5 ("mm: thp: make deferred split shrinker memcg aware")
+364c1eebe453 ("mm: thp: extract split_queue_* into a struct")
+006d3ff27e88 ("mm/huge_memory: fix lockdep complaint on 32-bit i_size_read()")
+906f9cdfc2a0 ("mm/huge_memory: rename freeze_page() to unmap_page()")

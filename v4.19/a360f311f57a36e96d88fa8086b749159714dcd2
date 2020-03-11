@@ -1,0 +1,5 @@
+a360f311f57a ("9p: fix slab cache name creation for real")
+79efebae4afc ("9p: Avoid creating multiple slab caches with the same name")
+91a76be37ff8 ("9p: add a per-client fcall kmem_cache")
+523adb6cc10b ("9p: embed fcall in req to round down buffer allocs")
+996d5b4db4b1 ("9p: Use a slab for allocating requests")

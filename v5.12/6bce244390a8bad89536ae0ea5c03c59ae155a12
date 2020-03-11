@@ -1,0 +1,5 @@
+6bce244390a8 ("mm/page_alloc: Revert pahole zero-sized workaround")
+dbbee9d5cd83 ("mm/page_alloc: convert per-cpu list protection to local_lock")
+28f836b6777b ("mm/page_alloc: split per cpu page lists and zone stats")
+8ca559132a2d ("mm/memory_hotplug: remove broken locking of zone PCP structures during hot remove")
+387ba26fb1cb ("mm/page_alloc: add a bulk page allocator")

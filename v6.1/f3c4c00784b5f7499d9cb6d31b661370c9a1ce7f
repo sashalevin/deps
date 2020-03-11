@@ -1,0 +1,5 @@
+f3c4c00784b5 ("rcu/nocb: Check rdp_gp->nocb_timer in __call_rcu_nocb_wake()")
+b913c3fe685e ("rcu/nocb: Make IRQs disablement symmetric")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")

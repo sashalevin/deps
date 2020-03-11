@@ -1,0 +1,4 @@
+28e4b4597d65 ("KVM: x86/mmu: Collapse kvm_flush_remote_tlbs_with_{range,address}() together")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

@@ -1,0 +1,3 @@
+dc87275f4733 ("KVM: x86: Move (most) SMM hflags modifications into kvm_smm_changed()")
+fa75e08bbe4f ("KVM: x86: Invoke kvm_smm_changed() immediately after clearing SMM flag")
+edce46548b70 ("KVM: x86: Replace .set_hflags() with dedicated .exiting_smm() helper")

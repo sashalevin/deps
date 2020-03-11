@@ -1,0 +1,7 @@
+7b1fdf2ba4bc ("mm, slab: move prepare_slab_obj_exts_hook under CONFIG_MEM_ALLOC_PROFILING")
+302a3ea38aec ("mm, slab: move allocation tagging code in the alloc path into a hook")
+b4601d096aac ("mm/slab: fix 'variable obj_exts set but not used' warning")
+4b8736964640 ("mm/slab: add allocation accounting into slab allocation and free paths")
+21c690a349ba ("mm: introduce slabobj_ext to support slab object extensions")
+17cce771c5fc ("mm, slab: remove memcg_from_slab_obj()")
+d30e51aa7b1f ("Merge tag 'slab-for-6.8' of git://git.kernel.org/pub/scm/linux/kernel/git/vbabka/slab")

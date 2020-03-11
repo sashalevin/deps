@@ -1,0 +1,7 @@
+efcfcbc6a361 ("btrfs: add xxhash to fast checksum implementations")
+68d99ab0e922 ("btrfs: fix fast csum implementation detection")
+c8a5f8ca9a9c ("btrfs: print checksum type and implementation at mount time")
+6d97c6e31b55 ("btrfs: add boilerplate code for directly including the crypto framework")
+8dc3f22c8ba0 ("btrfs: check for supported superblock checksum type before checksum validation")
+eede2bf34f4f ("Btrfs: prevent ioctls from interfering with a swap file")
+57ec5fb478a3 ("btrfs: tests: move testing members of struct btrfs_root to the end")

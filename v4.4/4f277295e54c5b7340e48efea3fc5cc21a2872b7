@@ -1,0 +1,4 @@
+4f277295e54c ("x86/xen: init %gs very early to avoid page faults with stack protector")
+abbe1cac6214 ("x86/xen: Add unwind hint annotations")
+4478c407ea38 ("xen/x86: Drop mode-selecting ifdefs in startup_xen()")
+04b6b4a56884 ("xen/x86: Zero out .bss for PV guests")

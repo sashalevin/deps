@@ -1,0 +1,7 @@
+1f3d5477b944 ("cifs: secmech: use shash_desc directly, remove sdesc")
+8698baa1b768 ("smb3: rename encryption/decryption TFMs")
+a4e430c8c8ba ("cifs: replace kfree() with kfree_sensitive() for sensitive data")
+70431bfd825d ("cifs: Support fscache indexing rewrite")
+e3548aaf41a2 ("cifs: free ntlmsspblob allocated in negotiate")
+f486ef8e2003 ("cifs: use the chans_need_reconnect bitmap for reconnect status")
+d1a931ce2e3b ("cifs: track individual channel status using chans_need_reconnect")

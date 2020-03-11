@@ -1,0 +1,5 @@
+e1169f06d5bb ("io_uring: use TWA_SIGNAL_NO_IPI if IORING_SETUP_COOP_TASKRUN is used")
+9f010507bbc1 ("io_uring: set task_work notify method at init time")
+bcbb7bf6ccde ("io_uring: allow submissions to continue on error")
+6962980947e2 ("io_uring: restructure submit sqes to_submit checks")
+d97ec6239ad8 ("io_uring: kill extra wake_up_process in tw add")

@@ -1,0 +1,5 @@
+ebb486bed2c3 ("PM: domains: Power off[on] domain in hibernate .freeze[thaw]_noirq hook")
+17218e0092f8 ("PM / genpd: Stop/start devices without pm_runtime_force_suspend/resume()")
+a935424bb658 ("PM / domains: Don't skip driver's ->suspend|resume_noirq() callbacks")
+d0af45f1f652 ("PM / Domains: Remove gpd_dev_ops.active_wakeup() callback")
+95a20ef6f7e5 ("PM / Domains: Allow genpd users to specify default active wakeup behavior")

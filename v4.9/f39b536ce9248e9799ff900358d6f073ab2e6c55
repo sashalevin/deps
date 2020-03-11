@@ -1,0 +1,7 @@
+f39b536ce924 ("rcu: Remove extraneous READ_ONCE()s from rcu_irq_{enter,exit}()")
+28585a832602 ("rcu: Allow for page faults in NMI handlers")
+a278d4718988 ("rcu: Fix dyntick-idle tracing")
+2625d469baee ("rcu: Abstract dynticks extended quiescent state enter/exit operations")
+8b2f63ab05eb ("rcu: Abstract the dynticks snapshot operation")
+6563de9d6f13 ("rcu: Abstract the dynticks momentary-idle operation")
+0742ac3e2f9f ("rcu: Make expedited grace periods recheck dyntick idle state")

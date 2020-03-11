@@ -1,0 +1,4 @@
+f634f418c227 ("wireguard: allowedips: remove nodes in O(1)")
+9981159fc3b6 ("wireguard: allowedips: fix use-after-free in root_remove_peer_lists")
+d89ee7d5c73a ("wireguard: allowedips: use kfree_rcu() instead of call_rcu()")
+e7096c131e51 ("net: WireGuard secure network tunnel")

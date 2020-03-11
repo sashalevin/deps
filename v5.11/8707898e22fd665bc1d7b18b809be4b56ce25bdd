@@ -1,0 +1,4 @@
+8707898e22fd ("genirq: Synchronize interrupt thread startup")
+e739f98b4b11 ("genirq: Move prio assignment into the newly created thread")
+91cc470e7978 ("genirq: Change force_irqthreads to a static key")
+1c0c4bc1ceb5 ("softirq: Don't try waking ksoftirqd before it has been spawned")

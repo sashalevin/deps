@@ -1,0 +1,8 @@
+0a5141593567 ("IB/core: Refactor ib_init_ah_attr_from_path() for RoCE")
+bb7f8f199c35 ("IB/core: Fix possible crash to access NULL netdev")
+4ad6a0245ec8 ("IB/{core, cm, cma, ipoib}: Rename ib_init_ah_from_path to ib_init_ah_attr_from_path")
+5cf3968afcc7 ("IB/cm: Handle address handle attribute init error")
+9d18717790c4 ("IB/core: Simplify sa_path_set_[sd]lid() calls")
+d98bb7f7e6fa ("IB/hfi1: Determine 9B/16B L2 header type based on Address handle")
+72c07e2b671e ("IB/hfi1: Add support to receive 16B bypass packets")
+320438301b85 ("Merge branches '32bit_lid' and 'irq_affinity' into k.o/merge-test")

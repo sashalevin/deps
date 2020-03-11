@@ -1,0 +1,8 @@
+e53946dbd31a ("xfs: xfs_iflush_abort() can be called twice on cluster writeback failure")
+194293631d00 ("xfs: rename variables in xfs_iflush_cluster for clarity")
+5a90e53e8124 ("xfs: xfs_iflush_cluster has range issues")
+8a17d7ddedb4 ("xfs: mark reclaimed inodes invalid earlier")
+1f2dcfe89eda ("xfs: xfs_inode_free() isn't RCU safe")
+7d3aa7fe9707 ("xfs: skip stale inodes in xfs_iflush_cluster")
+51b07f30a71c ("xfs: fix inode validity check in xfs_iflush_cluster")
+7f0ed5461a6f ("Merge branch 'xfs-buf-macro-cleanup-4.6' into for-next")

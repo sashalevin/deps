@@ -1,0 +1,8 @@
+ffabe98cb576 ("net: make dev_unreg_count global")
+ae68db14b616 ("net: transition netdev reg state earlier in run_todo")
+ede6c39c4f90 ("net: make net->dev_unreg_count atomic")
+0cbe1e57a7b9 ("net: inline rollback_registered_many()")
+bcfe2f1a3818 ("net: move rollback_registered_many()")
+037e56bd965e ("net: inline rollback_registered()")
+2014beea7eb1 ("net: move net_set_todo inside rollback_registered()")
+766b0515d5be ("net: make sure devices go through netdev_wait_all_refs")

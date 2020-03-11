@@ -1,0 +1,4 @@
+6e25bcf06af0 ("bpf_helpers.h: Define bpf_tail_call_static when building with GCC")
+3652c9a1b1fe ("bpf, libbpf: Guard bpf inline asm from bpf_tail_call_static")
+0e9f6841f664 ("bpf, libbpf: Add bpf_tail_call_static helper for bpf programs")
+5fbc220862fc ("tools/libpf: Add offsetof/container_of macro in bpf_helpers.h")

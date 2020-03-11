@@ -1,0 +1,4 @@
+35e797b0246b ("nvme-core: use nvme_ns_head_multipath instead of ns->head->disk")
+b739e1370520 ("nvme: cleanup how disk->disk_name is assigned")
+e3d347943919 ("nvme: add 'iopolicy' module parameter")
+5f432cceb3e9 ("nvme: use blk_mq_alloc_disk")

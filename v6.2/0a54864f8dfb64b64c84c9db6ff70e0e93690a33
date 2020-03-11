@@ -1,0 +1,4 @@
+0a54864f8dfb ("kasan: remove PG_skip_kasan_poison flag")
+e26fcc02c7f6 ("mmflags.h: use less error prone method to define pageflag_names")
+420ef683b521 ("kasan: reset page tags properly with sampling")
+44383cef54c0 ("kasan: allow sampling page_alloc allocations for HW_TAGS")

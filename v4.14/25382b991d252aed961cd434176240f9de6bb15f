@@ -1,0 +1,7 @@
+25382b991d25 ("net: bcmgenet: reset 40nm EPHY on energy detect")
+7de48402faa3 ("net: bcmgenet: don't set phydev->link from MAC")
+28b2e0d2cd13 ("net: phy: remove parameter new_link from phy_mac_interrupt()")
+6c97f010cee2 ("net: bcmgenet: use dev->phydev instead of priv->phydev")
+d215dbac48ab ("net: bcmgenet: rework bcmgenet_netif_start and bcmgenet_netif_stop")
+fbf557d9d1bf ("net: bcmgenet: cleanup ring interrupt masking and unmasking")
+0d314502bbfb ("net: bcmgenet: correct bad merge")

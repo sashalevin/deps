@@ -1,0 +1,2 @@
+f671a691e299 ("fcntl: fix potential deadlocks for &fown_struct.lock")
+cc4a3f885e8f ("fcntl: make F_GETOWN(EX) return 0 on dead owner task")

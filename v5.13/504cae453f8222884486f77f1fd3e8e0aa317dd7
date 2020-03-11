@@ -1,0 +1,8 @@
+504cae453f82 ("arm64: kdump: defer the crashkernel reservation for platforms with no DMA memory zones")
+4890cc18f949 ("arm64/mm: Define defer_reserve_crashkernel()")
+f41ef4c2ee99 ("arm64: mm: Cleanup useless parameters in zone_sizes_init()")
+dd671f16b1cd ("arm64: fix typos in comments")
+770093459b9b ("arm64: mm: Drop 'const' from conditional arm64_dma_phys_limit definition")
+031495635b46 ("arm64: Do not defer reserve_crashkernel() for platforms with no DMA memory zones")
+57beb9bd18fc ("arm64: kdump: Remove custom linux,elfcorehdr handling")
+6d47c23b16aa ("set_memory: allow querying whether set_direct_map_*() is actually enabled")

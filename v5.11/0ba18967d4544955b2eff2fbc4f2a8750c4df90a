@@ -1,0 +1,2 @@
+0ba18967d454 ("Bluetooth: RFCOMM: don't call kfree_skb() under spin_lock_irqsave()")
+81be03e026dc ("Bluetooth: RFCOMM: Replace use of memcpy_from_msg with bt_skb_sendmmsg")

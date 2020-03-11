@@ -1,0 +1,7 @@
+c447ad62dc90 ("xfs: improve the code that checks recovered rmap intent items")
+dda7ba65bf03 ("xfs: hoist recovered rmap intent checks out of xfs_rui_item_recover")
+e6fff81e4870 ("xfs: proper replay of deferred ops queued during log recovery")
+901219bb2507 ("xfs: remove XFS_LI_RECOVERED")
+d6b8fc6c7afa ("xfs: do the assert for all the log done items in xfs_trans_cancel")
+384ff09ba2e5 ("xfs: don't release log intent items when recovery fails")
+93293bcbde93 ("xfs: log new intent items created as part of finishing recovered intent items")

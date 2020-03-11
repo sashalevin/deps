@@ -1,0 +1,7 @@
+e49d3cf4926a ("usb: dwc3: gadget: extract __dwc3_prepare_one_trb()")
+843053093f47 ("usb: dwc3: gadget: simplify dwc3_prepare_one_trb()")
+c9508c8c50f9 ("usb: dwc3: gadget: only interrupt on short if short_not_ok is set")
+58f29034b4c4 ("usb: dwc3: gadget: CSP is only valid for OUT endpoints")
+b9bd138e06b9 ("usb: dwc3: gadget: remove unused 'first_trb_index'")
+8566cd1adf29 ("usb: dwc3: gadget: remove redundant trace prints")
+6b9018d4c1e5 ("usb: dwc3: gadget: set PCM1 field of isochronous-first TRBs")

@@ -1,0 +1,5 @@
+da8380bbbe90 ("cxl/acpi: Set ACPI's CXL _OSC to indicate RCD mode support")
+56368029d93b ("PCI/ACPI: negotiate CXL _OSC")
+241d26bc26ad ("PCI/ACPI: Prefer CXL _OSC instead of PCIe _OSC for CXL host bridges")
+cc10eee95204 ("PCI/ACPI: add a helper for retrieving _OSC Control DWORDs")
+843438deebe2 ("PCI/ACPI: Fix acpi_pci_osc_control_set() kernel-doc comment")

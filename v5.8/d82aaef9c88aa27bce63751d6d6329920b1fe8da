@@ -1,0 +1,3 @@
+d82aaef9c88a ("KVM: nSVM: use nested_svm_load_cr3() on guest->host switch")
+bf7dea425327 ("KVM: nSVM: move kvm_set_cr3() after nested_svm_uninit_mmu_context()")
+62156f6cd15a ("KVM: nSVM: introduce nested_svm_load_cr3()/nested_npt_enabled()")

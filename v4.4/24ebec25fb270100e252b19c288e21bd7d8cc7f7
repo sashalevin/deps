@@ -1,0 +1,4 @@
+24ebec25fb27 ("arm64: hw_breakpoint: Don't invoke overflow handler on uaccess watchpoints")
+fdfeff0f9e3d ("arm64: hw_breakpoint: Handle inexact watchpoint addresses")
+b08fb180bb88 ("arm64: Allow hw watchpoint at varied offset from base address")
+1879445dfa7b ("perf/core: Set event's default ::overflow_handler()")

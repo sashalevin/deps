@@ -1,0 +1,6 @@
+a28b259b4391 ("scsi: hisi_sas: add missing break in switch statement")
+634a9585f49c ("scsi: hisi_sas: process error codes according to their priority")
+fc8669514426 ("scsi: hisi_sas: modify error handling for v2 hw")
+13c599069130 ("scsi: hisi_sas: decrease running_req in hisi_sas_slot_task_free()")
+f2f89c32a0f1 ("scsi: hisi_sas: workaround v2 hw SATA IO timeout issue")
+f696cc32b598 ("scsi: hisi_sas: use atomic64_t for hisi_sas_device.running_req")

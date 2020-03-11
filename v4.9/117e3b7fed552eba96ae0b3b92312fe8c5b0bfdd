@@ -1,0 +1,7 @@
+117e3b7fed55 ("CIFS: set *resp_buf_type to NO_BUFFER on error")
+3cecf4865cd3 ("cifs: avoid a kmalloc in smb2_send_recv/SendReceive2 for the common case")
+83b7739180de ("cifs: Add smb2_send_recv")
+738f9de5cdb9 ("CIFS: Send RFC1001 length in a separate iov")
+fb2036d81758 ("CIFS: Make send_cancel take rqst as argument")
+da502f7df03d ("CIFS: Make SendReceive2() takes resp iov")
+31473fc4f965 ("CIFS: Separate SMB2 header structure")

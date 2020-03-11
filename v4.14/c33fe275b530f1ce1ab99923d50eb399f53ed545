@@ -1,0 +1,6 @@
+c33fe275b530 ("fs: remove no longer used dio_end_io()")
+f1084bc60a1e ("Revert "fs: remove dio_end_io()"")
+b75b7ca7c27d ("fs: remove dio_end_io()")
+a92853b6746f ("fs/direct-io.c: keep dio_warn_stale_pagecache() when CONFIG_BLOCK=n")
+c70d868f272b ("fs/direct-io.c: fix kernel-doc warning")
+5a9d929d6e13 ("iomap: report collisions between directio and buffered writes to userspace")

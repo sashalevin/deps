@@ -1,0 +1,7 @@
+fefdd3c91e0a ("mmc: core: Drop superfluous validations in mmc_hw|sw_reset()")
+2ac55d5e5ec9 ("mmc: core: Re-work HW reset for SDIO cards")
+3c30e73977e5 ("mmc: sdio: Drop unused in-parameter to mmc_sdio_reinit_card()")
+6ebc581c3f9e ("mmc: sdio: Don't re-initialize powered-on removable SDIO cards at resume")
+7fbbe725378d ("mmc: sdio: Drop powered-on re-init at runtime resume and HW reset")
+ee550947a0d6 ("mmc: sdio: Move comment about re-initialization to mmc_sdio_reinit_card()")
+cd23042d0546 ("mmc: sdio: Drop mmc_claim|release_host() in mmc_sdio_power_restore()")

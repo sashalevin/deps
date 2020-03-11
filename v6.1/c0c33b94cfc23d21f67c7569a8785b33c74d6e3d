@@ -1,0 +1,5 @@
+c0c33b94cfc2 ("nvme: fix sparse warning on effects masking")
+baff6491448b ("nvme: mask CSE effects for security receive")
+cc115cbe12d9 ("nvme: always initialize known command effects")
+85eee6341abb ("nvme: fix passthrough csi check")
+831ed60c2aca ("nvme: also return I/O command effects from nvme_command_effects")

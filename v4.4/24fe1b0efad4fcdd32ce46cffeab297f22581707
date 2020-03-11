@@ -1,0 +1,6 @@
+24fe1b0efad4 ("arm64: Remove unnecessary ISBs from set_{pte,pmd,pud}")
+ec663d967b22 ("arm64: Improve detection of user/non-user mappings in set_pte(_at)")
+cab15ce604e5 ("arm64: Introduce execute-only page access permissions")
+3eca86e75ec7 ("arm64: Remove fixmap include fragility")
+ac15bd63bbb2 ("arm64: Honour !PTE_WRITE in set_pte_at() for kernel mappings")
+76c714be0e5e ("arm64: pgtable: implement pte_accessible()")

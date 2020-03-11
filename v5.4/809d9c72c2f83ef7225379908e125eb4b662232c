@@ -1,0 +1,8 @@
+809d9c72c2f8 ("dma-buf: Move dma_buf_attach() to dynamic locking specification")
+7e008b02557c ("dma-buf: fix unintended pin/unpin warnings")
+4981cdb063e3 ("dma-buf: make move_notify mandatory if importer_ops are provided")
+bb42df4662a4 ("dma-buf: add dynamic DMA-buf handling v15")
+a39414716ca0 ("drm/amdgpu: add independent DMA-buf import v9")
+6e6db2722c28 ("drm/amdgpu: add independent DMA-buf export v8")
+f45f57cce584 ("dma-buf: stop using the dmabuf->lock so much v2")
+15fd552d186c ("dma-buf: change DMA-buf locking convention v3")

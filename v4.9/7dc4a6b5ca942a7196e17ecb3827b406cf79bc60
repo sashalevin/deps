@@ -1,0 +1,5 @@
+7dc4a6b5ca94 ("mwifiex: pcie: don't allow cmd buffer reuse after reset")
+3c8cb9ad032d ("mwifiex: pcie: fix cmd_buf use-after-free in remove/reset")
+4e841d3eb929 ("mwifiex: pcie: don't leak DMA buffers when removing")
+97489c284d9f ("mwifiex: pcie: stop checking for NULL adapter->card")
+bcf28a2f2846 ("mwifiex: reset card->adapter during device unregister")

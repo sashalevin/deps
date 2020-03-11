@@ -1,0 +1,4 @@
+c0143f68919e ("pwm: sti: Use devm_kcalloc() instead of calculating the size for devm_kzalloc()")
+9e287e0c5fc7 ("pwm: sti: Maintain all per-chip driver data in a single struct")
+354bf7513390 ("pwm: sti: Drop member from driver data that only carries a constant")
+5bb0b194aeee ("pwm: sti: Simplify probe function using devm functions")

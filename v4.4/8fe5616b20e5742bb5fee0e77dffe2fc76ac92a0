@@ -1,0 +1,5 @@
+8fe5616b20e5 ("drm/tilcdc: Restore old dpms state in pm_resume()")
+29ddd6e171ab ("drm/tilcdc: Allocate register storage based on the actual number registers")
+614b3cfeb8d2 ("drm/tilcdc: disable the lcd controller/dma engine when suspend invoked")
+85fd27f80b36 ("drm/tilcdc: fix kernel panic on suspend when no hdmi monitor connected")
+416a07fbe7b1 ("drm/tilcdc: adopt pinctrl support")

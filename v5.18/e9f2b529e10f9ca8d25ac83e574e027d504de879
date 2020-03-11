@@ -1,0 +1,5 @@
+e9f2b529e10f ("mm: page_alloc: remove alloc_contig_dump_pages() stub")
+6e263fff1de4 ("mm: page_isolation: enable arbitrary range page isolation.")
+b2c9e2fbba32 ("mm: make alloc_contig_range work at pageblock granularity")
+844fbae63e46 ("mm: page_isolation: check specified range for unmovable pages")
+b48d8a8e5ce5 ("mm: page_isolation: move has_unmovable_pages() to mm/page_isolation.c")

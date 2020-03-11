@@ -1,0 +1,5 @@
+b11c76db97e7 ("PCI: aardvark: Convert to platform remove callback returning void")
+fdbbe242c15a ("PCI: aardvark: Disable common PHY when unbinding driver")
+64f160e19e92 ("PCI: aardvark: Configure PCIe resources from 'ranges' DT property")
+d0c6a3475b03 ("PCI: aardvark: Move PCIe reset card code to advk_pcie_train_link()")
+526a76991b7b ("PCI: aardvark: Implement driver 'remove' function and allow to build it as module")

@@ -1,0 +1,5 @@
+a41a11b40095 ("s390/dcssblk: fix deadlock when adding a DCSS")
+0692ef289f06 ("dcssblk: convert to blk_alloc_disk/blk_cleanup_disk")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

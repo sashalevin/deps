@@ -1,0 +1,8 @@
+cdf8df5b42e7 ("s390/qeth: don't offer .ndo_bridge_* ops for OSA devices")
+378ac80d7f49 ("s390/qeth: static checker cleanups")
+521c65b64916 ("s390/qeth: implement ndo_bridge_setlink for learning_sync")
+780b6e7db25e ("s390/qeth: implement ndo_bridge_getlink for learning_sync")
+817741a8eaa2 ("s390/qeth: Reset address notification in case of buffer overflow")
+10a6cfc0fc82 ("s390/qeth: Translate address events into switchdev notifiers")
+fa115adff2c1 ("s390/qeth: Detect PNSO OC3 capability")
+9d6a569a4cba ("s390/qeth: strictly order bridge address events")

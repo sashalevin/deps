@@ -1,0 +1,6 @@
+2209158c9055 ("net: dsa: install VLANs into the master's RX filter too")
+2b1384067234 ("net: dsa: convert check for 802.1Q upper when bridged into PRECHANGEUPPER")
+eb46e8da1d2c ("net: dsa: rename dsa_slave_upper_vlan_check to something more suggestive")
+8350129930d2 ("net: dsa: deny enslaving 802.1Q upper to VLAN-aware bridge from PRECHANGEUPPER")
+88236591ec3b ("Revert "net: dsa: Add more convenient functions for installing port VLANs"")
+54a0ed0df496 ("net: dsa: provide an option for drivers to always receive bridge VLANs")

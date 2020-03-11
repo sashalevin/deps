@@ -1,0 +1,8 @@
+750ed5669380 ("KVM: arm64: Remove the target table")
+af4738290d9d ("KVM: arm64: Move ACTLR_EL1 emulation to the sys_reg_descs array")
+6b33e0d64f85 ("KVM: arm64: Drop the target_table[] indirection")
+ef5a294be8d0 ("KVM: arm64: Add emulation for 32bit guests accessing ACTLR2")
+bb44a8dbea25 ("KVM: arm64: Move sysreg reset check to boot time")
+25357de01b95 ("KVM: arm64: Clean up kvm makefiles")
+d82755b2e781 ("KVM: arm64: Kill off CONFIG_KVM_ARM_HOST")
+9ed24f4b712b ("KVM: arm64: Move virt/kvm/arm to arch/arm64")

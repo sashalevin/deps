@@ -1,0 +1,6 @@
+d72e01a0430f ("ftgmac100: Use a scratch buffer for failed RX allocations")
+c06f73fba15f ("ftgmac100: Move ftgmac100_alloc_rx_page() before its users")
+87d18757ec16 ("ftgmac100: Split ring alloc, init and rx buffer alloc")
+831fb3388c1e ("ftgmac100: Reorder struct fields and comment")
+3f6af0eede30 ("ftgmac100: Remove "banner" comments")
+60b28a116774 ("ftgmac100: Use netdev->irq instead of private copy")

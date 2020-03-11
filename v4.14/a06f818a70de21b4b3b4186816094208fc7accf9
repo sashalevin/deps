@@ -1,0 +1,4 @@
+a06f818a70de ("arm64: __show_regs: Only resolve kernel symbols when running at EL1")
+4ef7963843d3 ("arm64: do not use print_symbol()")
+b7300d4c035c ("arm64: traps: Pretty-print pstate in register dumps")
+a25ffd3a6302 ("arm64: traps: Don't print stack or raw PC/LR values in backtraces")

@@ -1,0 +1,5 @@
+d00dd2f2645d ("x86/kexec: Fix double-free of elf header buffer")
+179350f00e06 ("x86: Use ELF fields defined in 'struct kimage'")
+7c321eb2b843 ("x86/kdump: Remove the backup region handling")
+53b7607382b0 ("x86/kexec: Make variable static and config dependent")
+51fbf14f2528 ("x86/kexec: Correct KEXEC_BACKUP_SRC_END off-by-one error")

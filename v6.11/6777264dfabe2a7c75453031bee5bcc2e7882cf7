@@ -1,0 +1,4 @@
+6777264dfabe ("drm/nouveau: store nvkm_device pointer in nouveau_drm")
+448359c1ce50 ("drm/nouveau: replace drm_device* with nouveau_drm* as dev drvdata")
+961ae5f9807b ("drm/nouveau: handle pci/tegra drm_dev_{alloc, register} from common code")
+20d70de5823e ("drm/nouveau: move nouveau_drm_device_fini() above init()")

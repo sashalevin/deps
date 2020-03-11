@@ -1,0 +1,4 @@
+002467518688 ("can: gs_usb: gs_cmd_reset(): rename variable holding struct gs_can pointer to dev")
+c1ee72690cdd ("can: gs_usb: rewrap usb_control_msg() and usb_fill_bulk_urb()")
+2f361cd9474a ("can: gs_usb: gs_usb_probe(): use descriptors of current altsetting")
+dda8deb6cdff ("can: gs_usb: gs_cmd_reset(): remove unused parameter "struct gs_usb *gsusb"")

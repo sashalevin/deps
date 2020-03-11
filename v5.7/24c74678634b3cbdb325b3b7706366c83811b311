@@ -1,0 +1,5 @@
+24c74678634b ("io_uring: remove REQ_F_MUST_PUNT")
+3af73b286cce ("io_uring: don't derive close state from ->func")
+fd2206e4e97b ("io_uring: disallow close of ring itself")
+0bf0eefdab52 ("io_uring: get rid of manual punting in io_close")
+904fbcb115c8 ("io_uring: remove 'fd is io_uring' from close path")

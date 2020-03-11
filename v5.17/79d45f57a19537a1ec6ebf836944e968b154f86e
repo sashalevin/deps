@@ -1,0 +1,5 @@
+79d45f57a195 ("sr: simplify the local variable initialization in sr_block_open()")
+01d0c698536f ("sr: implement ->free_disk to simplify refcounting")
+322cbb50de71 ("block: remove genhd.h")
+e7243285c0fc ("block: move blk_drop_partitions to blk.h")
+926597ffce0e ("block: move disk_{block,unblock,flush}_events to blk.h")

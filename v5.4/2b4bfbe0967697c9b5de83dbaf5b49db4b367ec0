@@ -1,0 +1,6 @@
+2b4bfbe09676 ("fs/binfmt_elf: Refactor load_elf_binary function")
+0da1d5002745 ("fs/binfmt_elf: Fix AT_PHDR for unusual ELF files")
+5f501d555653 ("binfmt_elf: reintroduce using MAP_FIXED_NOREPLACE")
+ce81bb256a22 ("fs/binfmt_elf: use PT_LOAD p_align values for suitable start address")
+a62c5b1b6647 ("fs/binfmt_elf.c: don't copy ELF header around")
+658c03356511 ("fs/binfmt_elf.c: extract elf_read() function")

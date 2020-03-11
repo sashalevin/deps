@@ -1,0 +1,4 @@
+f09b04a03e02 ("fsnotify: Remove special handling of mark destruction on group shutdown")
+12703dbfeb15 ("fsnotify: add a way to stop queueing events on group shutdown")
+35e481761cdc ("fsnotify: avoid spurious EMFILE errors from inotify_init()")
+0918f1c309b8 ("fsnotify: turn fsnotify reaper thread into a workqueue job")

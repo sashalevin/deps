@@ -1,0 +1,4 @@
+5d9070b1f0fc ("x86/debug/32: Convert a smp_processor_id() call to raw to avoid DEBUG_PREEMPT warning")
+bb5e5ce545f2 ("x86/dumpstack: Remove kernel text addresses from stack dump")
+6fa81a12b3f1 ("x86/dumpstack: Print orig_ax in __show_regs()")
+1141c3e39c64 ("x86/dumpstack: Fix duplicate RIP address display in __show_regs()")

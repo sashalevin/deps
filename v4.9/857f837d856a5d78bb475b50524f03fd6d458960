@@ -1,0 +1,5 @@
+857f837d856a ("bcma: gpio: remove redundant re-assignment of chip->owner")
+5a1c18b761dd ("bcma: keep a direct pointer to the struct device")
+f825f6ed20e3 ("bcma: fill core OF info independently of bus type")
+5e48a4cd2ee9 ("bcma: use helper function to set core dev's parent")
+b1a4c9a19659 ("bcma: make OF code more generic (not platform_device specific)")

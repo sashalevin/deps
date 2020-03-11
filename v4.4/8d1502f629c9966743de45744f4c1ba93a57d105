@@ -1,0 +1,6 @@
+8d1502f629c9 ("xen/gntdev.c: Replace vm_map_pages() with vm_map_pages_zero()")
+df9bde015a72 ("xen/gntdev.c: convert to use vm_map_pages()")
+1d3145675538 ("xen/gntdev: Make private routines/structures accessible")
+975ef7ff81bb ("xen/gntdev: Allow mappings for DMA buffers")
+c5f7c5a9a0f8 ("drivers, xen: convert grant_map.users from atomic_t to refcount_t")
+c7ebf9d9c6b4 ("xen: use vma_pages().")

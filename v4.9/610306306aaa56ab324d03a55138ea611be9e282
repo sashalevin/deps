@@ -1,0 +1,6 @@
+610306306aaa ("genirq: Drop redundant irq_init_effective_affinity")
+baedb87d1b53 ("genirq/affinity: Handle affinity setting on inactive interrupts correctly")
+12f47073a40f ("genirq/affinity: Defer affinity setting if irq chip is busy")
+702cb0a02813 ("genirq/irqdomain: Rename early argument of irq_domain_activate_irq()")
+02edee152d6e ("x86/apic/vector: Ignore set_affinity call for inactive interrupts")
+331b57d14829 ("Merge branch 'irq/urgent' into x86/apic")

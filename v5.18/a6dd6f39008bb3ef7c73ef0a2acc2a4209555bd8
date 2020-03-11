@@ -1,0 +1,5 @@
+a6dd6f39008b ("x86/tdx: Prepare for using "INFO" call for a second purpose")
+41394e33f3a0 ("x86/tdx: Extend the confidential computing API to support TDX guests")
+eb94f1b6a70a ("x86/tdx: Add __tdx_module_call() and __tdx_hypercall() helper functions")
+527a534c7326 ("x86/tdx: Provide common base for SEAMCALL and TDCALL C wrappers")
+59bd54a84d15 ("x86/tdx: Detect running as a TDX guest in early boot")

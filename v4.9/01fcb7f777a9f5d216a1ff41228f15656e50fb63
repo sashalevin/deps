@@ -1,0 +1,6 @@
+01fcb7f777a9 ("PCI: Add support for unbinding the generic PCI host controller")
+49b8e3f3ed1d ("PCI: Add generic function to probe PCI host controllers")
+c6dd8ecf3037 ("PCI: generic: fix missing call of pci_free_resource_list()")
+6982a068aa5f ("PCI: generic: Drop pci_fixup_irqs()")
+4246a86472dd ("PCI: generic: Convert PCI scan API to pci_scan_root_bus_bridge()")
+3fb5561879d7 ("PCI: generic: Call pci_fixup_irqs() only on ARM")

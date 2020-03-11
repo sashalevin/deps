@@ -1,0 +1,4 @@
+de3cdc6e7517 ("fscrypt: move fscrypt_require_key() to fscrypt_private.h")
+a992b20cd4ee ("fscrypt: add fscrypt_prepare_new_inode() and fscrypt_set_context()")
+ab673b987488 ("fscrypt: use smp_load_acquire() for ->i_crypt_info")
+1d6217a4f990 ("fscrypt: rename FS_KEY_DERIVATION_NONCE_SIZE")

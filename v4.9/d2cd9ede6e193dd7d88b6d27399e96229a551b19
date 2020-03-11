@@ -1,0 +1,7 @@
+d2cd9ede6e19 ("mm,fork: introduce MADV_WIPEONFORK")
+24587380f61d ("parisc: Add MADV_HWPOISON and MADV_SOFT_OFFLINE")
+5e451be75ca5 ("mm/madvise: move up the behavior parameter validation")
+97167a7681e9 ("mm/madvise.c: clean up MADV_SOFT_OFFLINE and MADV_HWPOISON")
+893e26e61d04 ("userfaultfd: non-cooperative: Add fork() event")
+9cd75c3cd4c3 ("userfaultfd: non-cooperative: add ability to report non-PF events from uffd descriptor")
+6dcc27fd3943 ("userfaultfd: non-cooperative: Split the find_userfault() routine")

@@ -1,0 +1,8 @@
+93ee4b7d9f06 ("pstore/ram: Avoid needless alloc during header write")
+4c6c4d345367 ("pstore: Avoid writing records with zero size")
+b77fa617a2ff ("pstore: Remove needless lock during console writes")
+e264abeaf9da ("pstore: Remove bogus format string definition")
+7aaa822ed060 ("pstore: Convert internal records to timespec64")
+df27067e6040 ("pstore: Use ktime_get_real_fast_ns() instead of __getnstimeofday()")
+4c3711d7fb47 ("timekeeping: Provide NMI safe access to clock realtime")
+5df32107f609 ("timekeeping: Make fast accessors return 0 before timekeeping is initialized")

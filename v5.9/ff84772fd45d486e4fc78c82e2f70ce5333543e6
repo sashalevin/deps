@@ -1,0 +1,4 @@
+ff84772fd45d ("exfat: release s_lock before calling dir_emit()")
+703e3e9a9cb1 ("exfat_iterate(): don't open-code file_inode(file)")
+1e5654de0f51 ("exfat: handle wrong stream entry size in exfat_readdir()")
+04cee52fb8bd ("exfat: remove 'rwoffset' in exfat_inode_info")

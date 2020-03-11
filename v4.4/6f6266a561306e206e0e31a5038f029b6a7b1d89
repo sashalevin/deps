@@ -1,0 +1,8 @@
+6f6266a56130 ("x86/efi: Don't try to reserve runtime regions")
+92dc33501bfb ("x86/efi: Round EFI memmap reservations to EFI_PAGE_SIZE")
+816e76129ed5 ("efi: Allow drivers to reserve boot services forever")
+60863c0d1a96 ("efi: Split out EFI memory map functions into new file")
+c8c1a4c5e4ea ("efi/fake_mem: Refactor main two code chunks into functions")
+dca0f971ea6f ("efi: Add efi_memmap_init_late() for permanent EFI memmap")
+9479c7cebfb5 ("efi: Refactor efi_memmap_init_early() into arch-neutral code")
+e663107fa1ed ("Merge tag 'acpi-4.8-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rafael/linux-pm")

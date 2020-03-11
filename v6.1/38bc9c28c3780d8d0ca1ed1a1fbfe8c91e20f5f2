@@ -1,0 +1,4 @@
+38bc9c28c378 ("mm/mmap: make vma_wants_writenotify return bool")
+54cbbbf3faf6 ("mm/mmap: separate writenotify and dirty tracking logic")
+51d3d5eb74ff ("mm/userfaultfd: enable writenotify while userfaultfd-wp is enabled for a VMA")
+eb309ec89953 ("mm/mprotect: factor out check whether manual PTE write upgrades are required")

@@ -1,0 +1,5 @@
+2bfa89fab5ff ("x86/PCI: Fix log message typo")
+fa6dae5d8208 ("x86/PCI: Add kernel cmdline options to use/ignore E820 reserved regions")
+4c5e242d3e93 ("x86/PCI: Clip only host bridge windows for E820 regions")
+31bf0f433325 ("x86: Log resource clipping for E820 regions")
+93d256cd3c1e ("x86/PCI: Eliminate remove_e820_regions() common subexpressions")

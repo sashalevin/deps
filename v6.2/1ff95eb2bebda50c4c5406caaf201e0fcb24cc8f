@@ -1,0 +1,8 @@
+1ff95eb2bebd ("riscv: Fix RISCV_ALTERNATIVE_EARLY")
+16badacd8af4 ("riscv: Improve sbi_ecall() code generation by reordering arguments")
+56c1c1a09ab9 ("riscv: Add tracepoints for SBI calls and returns")
+f43fabf444ca ("RISC-V: Add SBI debug console helper routines")
+8dc2a7e8027f ("riscv: Fix relocatable kernels with early alternatives using -fno-pie")
+832f15f42646 ("RISC-V: Treat IPIs as normal Linux IRQs")
+0c60a31ce62c ("irqchip/riscv-intc: Allow drivers to directly discover INTC hwnode")
+3ee92565b83e ("RISC-V: Clear SIP bit only when using SBI IPI operations")

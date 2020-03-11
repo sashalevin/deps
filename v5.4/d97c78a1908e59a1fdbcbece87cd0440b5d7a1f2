@@ -1,0 +1,8 @@
+d97c78a1908e ("usb: dwc3: gadget: END_TRANSFER before CLEAR_STALL command")
+c503672abe13 ("usb: dwc3: gadget: Resume pending requests after CLEAR_STALL")
+140ca4cfea8a ("usb: dwc3: gadget: Handle stream transfers")
+e0d19563eb6c ("usb: dwc3: gadget: Wait for transfer completion")
+3eaecd0c2333 ("usb: dwc3: gadget: Handle XferComplete for streams")
+cb11ea56f37a ("usb: dwc3: gadget: Properly handle ClearFeature(halt)")
+da10bcdd6f70 ("usb: dwc3: gadget: Delay starting transfer")
+d3abda5a98a1 ("usb: dwc3: gadget: Clear started flag for non-IOC")

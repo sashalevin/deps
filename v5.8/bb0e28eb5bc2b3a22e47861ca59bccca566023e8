@@ -1,0 +1,5 @@
+bb0e28eb5bc2 ("mm: page_alloc: simplify pageblock migratetype check in __free_one_page()")
+787af64d05cd ("mm: page_alloc: validate buddy before check its migratetype.")
+1dd214b8f21c ("mm: page_alloc: avoid merging non-fallbackable pageblocks with others")
+7ad69832f37e ("mm/page_alloc: speed up the iteration of max_order")
+3f649ab728cd ("treewide: Remove uninitialized_var() usage")

@@ -1,0 +1,4 @@
+edf7ddbf1c5e ("fs/namespace.c: WARN if mnt_count has become negative")
+4edbe133f851 ("make struct mountpoint bear the dentry reference to mountpoint, not struct mount")
+e4e59906cfe4 ("fs/namespace.c: shift put_mountpoint() to callers of unhash_mnt()")
+9ea0a46ca2c3 ("fix mntput/mntput race")

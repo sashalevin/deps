@@ -1,0 +1,8 @@
+ee6dd0db4d8d ("tracing: Simplify stack trace retrieval")
+2a820bf74918 ("tracing: Use percpu stack trace buffer more intelligently")
+2ee5b92a2598 ("tracing: Update stack trace skipping for ORC unwinder")
+dcc19d28091a ("tracing/ftrace: Allow for instances to trigger their own stacktrace probes")
+fe014e24b6ad ("ftrace: Convert the rest of the function trigger over to the mapping functions")
+4239174570da ("tracing: Make tracepoint_printk a static_key")
+3e9a8aadca48 ("tracing: Create a always_inlined __trace_buffer_lock_reserve()")
+fa32e8557b47 ("tracing: Add new trace_marker_raw")

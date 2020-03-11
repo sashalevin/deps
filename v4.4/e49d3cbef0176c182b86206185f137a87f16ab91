@@ -1,0 +1,7 @@
+e49d3cbef017 ("x86/fault: Make error_code sanitization more robust")
+1067f030994c ("x86/mm: Relocate page fault error codes to traps.h")
+e8c6226d483c ("x86/pkeys: Add fault handling for PF_PK page fault bit")
+2a53ccbc0de1 ("x86/dumpstack: Rename thread_struct::sig_on_uaccess_error to sig_on_uaccess_err")
+dfa9a942fd79 ("x86/uaccess: Move thread_info::uaccess_err and thread_info::sig_on_uaccess_err to thread_struct")
+dc4fac84f8e6 ("x86/mm: Switch from TASK_SIZE to TASK_SIZE_MAX in the page fault code")
+643ad15d4741 ("Merge branch 'mm-pkeys-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

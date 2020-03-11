@@ -1,0 +1,6 @@
+15fab63e1e57 ("fs: prevent page refcount overflow in pipe_buf_get")
+9509941e9c53 ("fuse: call pipe_buf_release() under pipe lock")
+d6d931adce11 ("fuse: use kvmalloc to allocate array of pipe_buffer structs.")
+a2477b0e67c5 ("fuse: Don't access pipe->buffers without pipe_lock()")
+6da2ec56059c ("treewide: kmalloc() -> kmalloc_array()")
+1c8c5a9d38f6 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

@@ -1,0 +1,5 @@
+3b37c41f0e56 ("iio: imu: inv_mpu6050: use i2c mux only for chip with i2c aux bus")
+57f1677bd762 ("iio: imu: inv_mpu6050: use devm_* at init and delete remove")
+5ec6486daa98 ("iio:imu: inv_mpu6050: support more interrupt types")
+17623d9a2310 ("iio: imu: inv_mpu6050: use set_power_itg function in i2c mux")
+d12ceffd3380 ("iio: imu: inv_mpu6050: clean double declaration of set_power_itg")

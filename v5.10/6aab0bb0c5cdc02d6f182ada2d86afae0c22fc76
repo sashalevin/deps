@@ -1,0 +1,7 @@
+6aab0bb0c5cd ("i40e: Use the xsk batched rx allocation interface")
+f892a9af0cd8 ("i40e: Simplify the do-while allocation loop")
+d4178c31a562 ("i40e: remove the redundant buffer info updates")
+f12738b6ec06 ("i40e: remove unnecessary cleaned_count updates")
+c8a8ca3408dc ("i40e: remove unnecessary memory writes of the next to clean pointer")
+7128c834d30e ("i40e: fix potential NULL pointer dereferencing")
+64050b5b8706 ("i40e, xsk: clear the status bits for the next_to_use descriptor")

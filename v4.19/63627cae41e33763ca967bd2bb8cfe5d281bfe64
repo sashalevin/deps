@@ -1,0 +1,5 @@
+63627cae41e3 ("firmware: arm_sdei: Unregister driver on error in sdei_init()")
+10fd7c42b795 ("firmware: arm_sdei: Avoid nested statements in sdei_init()")
+caf2cd610dbb ("firmware: arm_sdei: Drop check for /firmware/ node and always register driver")
+acafce48b07b ("firmware: arm_sdei: Fix DT platform device creation")
+c3790b3799f8 ("firmware: arm_sdei: fix wrong of_node_put() in init function")

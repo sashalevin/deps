@@ -1,0 +1,8 @@
+11b3770d54b2 ("serial: sh-sci: Extract sci_dma_rx_chan_invalidate()")
+2e948218b7c1 ("serial: sh-sci: Fix crash in rx_timer_fn() on PIO fallback")
+dd1f2250da95 ("serial: sh-sci: Fix locking in sci_submit_rx()")
+202dc3cc10b4 ("serial: sh-sci: Fix receive on SCIFA/SCIFB variants with DMA")
+6eefc68d1bbe ("serial: sh-sci: Stop using deprecated dmaengine_terminate_all()")
+2c4ee23530ff ("serial: sh-sci: Postpone DMA release when falling back to PIO")
+1be226639219 ("serial: sh-sci: Fix unlocked access to SCSCR register")
+fa2abb03637a ("serial: sh-sci: Support for variable HSCIF hardware RX timeout")

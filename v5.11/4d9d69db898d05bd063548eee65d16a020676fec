@@ -1,0 +1,8 @@
+4d9d69db898d ("svcrdma: Add back svc_rdma_recv_ctxt::rc_pages")
+5533c4f4b996 ("svcrdma: Remove svc_rdma_recv_ctxt::rc_pages and ::rc_arg")
+9af723be8639 ("svcrdma: Remove sc_read_complete_q")
+7d81ee8722d6 ("svcrdma: Single-stage RDMA Read")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")
+bade4be69a6e ("svcrdma: Revert "svcrdma: Reduce Receive doorbell rate"")
+dd2d055b278b ("svcrdma: DMA-sync the receive buffer in svc_rdma_recvfrom()")
+43042b90cae1 ("svcrdma: Reduce Receive doorbell rate")

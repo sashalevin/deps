@@ -1,0 +1,8 @@
+9b948e79d536 ("arm64: insn: always inline predicates")
+71766b81de82 ("arm64: insn: Add load/store decoding helpers")
+d4b217330d7e ("arm64: insn: Add barrier encodings")
+5f154c4e20d7 ("arm64: Move patching utilities out of instruction encoding/decoding")
+33200303553d ("arm64: cpufeature: Add an early command-line cpufeature override facility")
+f6f0c4362f07 ("arm64: Extract early FDT mapping from kaslr_early_init()")
+7cda23da52ad ("arm64: alternatives: Split up alternative.h")
+e2a2190a80ca ("arm64: uaccess: move uao_* alternatives to asm-uaccess.h")

@@ -1,0 +1,8 @@
+7e8df1fc2d66 ("crypto: sun8i-ss - fix a NULL vs IS_ERR() check in sun8i_ss_hashkey")
+801b7d572c0a ("crypto: sun8i-ss - add hmac(sha1)")
+e76ee4db9eb8 ("crypto: sun8i-ss - Add function for handling hash padding")
+c35e523a8b69 ("crypto: sun8i-ss - handle requests if last block is not modulo 64")
+db0c62bcd480 ("crypto: sun8i-ss - do not zeroize all pad")
+8eec4563f152 ("crypto: sun8i-ss - do not allocate memory when handling hash requests")
+c149e4763d28 ("crypto: sun8i-ss - handle zero sized sg")
+359e893e8af4 ("crypto: sun8i-ss - rework handling of IV")

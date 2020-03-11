@@ -1,0 +1,5 @@
+aef9d25e7f56 ("sysctl: Remove superfluous empty allocations from sysctl internals")
+55bb7eb62db4 ("sysctl: Replace nr_entries with ctl_table_size in new_links")
+b1f01e2baefc ("sysctl: Add size argument to init_header")
+18d4b42e9de6 ("sysctl: Use ctl_table_header in list_for_each_table_entry")
+cc9f7ee01e67 ("sysctl: Prefer ctl_table_header in proc_sysctl")

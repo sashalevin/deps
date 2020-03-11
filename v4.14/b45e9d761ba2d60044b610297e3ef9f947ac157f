@@ -1,0 +1,8 @@
+b45e9d761ba2 ("powerpc/pseries/memory-hotplug: Fix return value type of find_aa_index")
+063b8b1251fd ("powerpc/pseries/memory-hotplug: Only update DT once per memory DLPAR request")
+6195a5001f1d ("powerpc/pseries: Update memory hotplug code to use drmem LMB array")
+514a9cb3316a ("powerpc/numa: Update numa code use walk_drmem_lmbs")
+6c6ea53725b3 ("powerpc/mm: Separate ibm, dynamic-memory data from DT format")
+b88fc309d6ad ("powerpc/numa: Look up associativity array in of_drconf_to_nid_single")
+22508f3dc985 ("powerpc/numa: Look up device node in of_get_usable_memory()")
+35f80debaef0 ("powerpc/numa: Look up device node in of_get_assoc_arrays()")

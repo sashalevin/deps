@@ -1,0 +1,4 @@
+eb1357d942e5 ("ARC: module: Fix !CONFIG_ARC_DW2_UNWIND builds")
+d65283f7b695 ("ARC: module: elide loop to save reference to .eh_frame")
+6716dbbdefa9 ("ARC: dw2 unwind: switch to .eh_frame based unwinding")
+d040876b4aad ("ARC: dw2 unwind: factor CIE specifics for .eh_frame/.debug_frame")

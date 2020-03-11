@@ -1,0 +1,3 @@
+d761de8a7dce ("rcu: Make synchronize_rcu() fastpath update only boot-CPU counters")
+910e12092eac ("rcu: Make synchronize_rcu() fast path update ->gp_seq counters")
+5f11bad6b722 ("rcu-tasks: Remove grace-period fast-path rcu-tasks helper")

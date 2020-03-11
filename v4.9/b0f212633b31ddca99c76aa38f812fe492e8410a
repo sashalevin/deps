@@ -1,0 +1,7 @@
+b0f212633b31 ("xen/grant-table: remove gnttab_*transfer*() functions")
+42baefac638f ("xen/gnttab: fix gnttab_end_foreign_access() without page specified")
+1dbd11ca75fe ("xen: remove gnttab_query_foreign_access()")
+6b1775f26a2d ("xen/grant-table: add gnttab_try_end_foreign_access()")
+3ac7292a25db ("xen/grant-table: Use put_page instead of free_page")
+56c9c700c439 ("xen: limit grant v2 interface to the v1 functionality")
+b988b8ff072a ("xen: re-introduce support for grant v2 interface")

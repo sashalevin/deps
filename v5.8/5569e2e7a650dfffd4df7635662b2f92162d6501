@@ -1,0 +1,8 @@
+5569e2e7a650 ("KVM: SVM: Add support for KVM_SEV_SEND_CANCEL command")
+fddecf6a237e ("KVM: SVM: Add KVM_SEV_SEND_FINISH command")
+d3d1af85e2c7 ("KVM: SVM: Add KVM_SEND_UPDATE_DATA command")
+4cfdd47d6d95 ("KVM: SVM: Add KVM_SEV SEND_START command")
+2c07ded06427 ("KVM/SVM: add support for SEV attestation command")
+916391a2d1dc ("KVM: SVM: Add support for SEV-ES capability in KVM")
+9d4747d02376 ("KVM: SVM: Remove the call to sev_platform_status() during setup")
+06e7852c0ffb ("KVM: SVM: Add vmcb_ prefix to mark_*() functions")

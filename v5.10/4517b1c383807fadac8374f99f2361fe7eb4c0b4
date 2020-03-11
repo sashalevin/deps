@@ -1,0 +1,6 @@
+4517b1c38380 ("cpuidle: psci: Enable the hierarchical topology for s2ram on PREEMPT_RT")
+d72d7d6cf77d ("cpuidle: psci: Drop superfluous wrappers psci_dt_attach|detach_cpu()")
+f9901f64536c ("cpuidle: psci: Do not suspend topology CPUs on PREEMPT_RT")
+171b66e2e2e9 ("cpuidle: PSCI: Improve support for suspend-to-RAM for PSCI OSI mode")
+9d976d6721df ("cpuidle: Factor-out power domain related code from PSCI domain driver")
+670c90def034 ("cpuidle: psci: Enable suspend-to-idle for PSCI OSI mode")

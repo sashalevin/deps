@@ -1,0 +1,7 @@
+6c1d2a073a1d ("mm: move ptep_get() and pmdp_get() helpers")
+2dff2c359e82 ("mm: Convert __HAVE_ARCH_P..P_GET to the new style")
+6ca297d47846 ("mm: Rename GUP_GET_PTE_LOW_HIGH")
+024d232ae4fc ("mm: Fix pmd_read_atomic()")
+fbfdec9989e6 ("x86/mm/pae: Make pmd_t similar to pte_t")
+de8c8e52836d ("mm: page_table_check: add hooks to public helpers")
+bab4ff1edccd ("irq: mips: stop (ab)using handle_domain_irq()")

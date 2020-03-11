@@ -1,0 +1,8 @@
+070298c84e5b ("serial: fsl_lpuart: zero out parity bit in CS7 mode")
+f398e0aa325c ("tty: serial: fsl_lpuart: fix potential bug when using both of_alias_get_id and ida_simple_get")
+93cf538e23d0 ("tty: serial: fsl_lpuart: count tty buffer overruns")
+f4eef224a09f ("serial: fsl_lpuart: add sysrq support when using dma")
+a092ab25fdaa ("tty: serial: fsl_lpuart: fix DMA mapping")
+159381df1442 ("tty: serial: fsl_lpuart: fix DMA operation when using IOMMU")
+2b2e71fe6575 ("tty: serial: fsl_lpuart: free IDs allocated by IDA")
+487ee861de17 ("tty: serial: fsl_lpuart: use the sg count from dma_map_sg")

@@ -1,0 +1,7 @@
+ae78dd8139ce ("libceph: make RECOVERY_DELETES feature create a new interval")
+7de030d6b10a ("libceph: resend on PG splits if OSD has RESEND_ON_SPLIT")
+84ed45df4604 ("libceph: drop need_resend from calc_target()")
+dc93e0e2831d ("libceph: fold [l]req->last_force_resend into ceph_osd_request_target")
+aa26d662b9d4 ("libceph: remove req->r_replay_version")
+b7ec35b304b6 ("libceph: change ceph_osdmap_flag() to take osdc")
+a10c38a4f385 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/sage/ceph-client")

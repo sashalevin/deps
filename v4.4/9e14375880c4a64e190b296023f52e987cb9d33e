@@ -1,0 +1,4 @@
+9e14375880c4 ("watchdog: coh901327_wdt: Use dev variable instead of pdev->dev")
+30c65b22f042 ("watchdog: coh901327_wdt: Use devm_ioremap_resource to map resources")
+14da8d427eb8 ("watchdog: coh901327_wdt: Keep clock enabled after loading driver")
+01372ae13ba6 ("watchdog: coh901327_wdt: Simplify error handling in probe function")

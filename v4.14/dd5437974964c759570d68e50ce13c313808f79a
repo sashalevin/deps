@@ -1,0 +1,4 @@
+dd5437974964 ("virtio-net: correctly set xdp_xmit for mergeable buffer")
+186b3c998c50 ("virtio-net: support XDP_REDIRECT")
+312403453532 ("virtio-net: add packet len average only when needed during XDP")
+9457642a405f ("virtio-net: remove unnecessary parameter of virtnet_xdp_xmit()")

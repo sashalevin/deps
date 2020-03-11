@@ -1,0 +1,5 @@
+f1187ef24eb8 ("KVM: SVM: Get source vCPUs from source VM for SEV-ES intrahost migration")
+6defa24d3b12 ("KVM: SEV: Init target VMCBs in sev_migrate_from")
+b2125513dfc0 ("KVM: SEV: Allow SEV intra-host migration of VM with mirrors")
+46808a4cb897 ("KVM: Use 'unsigned long' as kvm_for_each_vcpu()'s index")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")

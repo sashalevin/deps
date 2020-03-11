@@ -1,0 +1,2 @@
+98e2e409e76e ("nilfs2: use refcount_dec_and_lock() to fix potential UAF")
+d4f0284a5969 ("fs, nilfs: convert nilfs_root.count from atomic_t to refcount_t")

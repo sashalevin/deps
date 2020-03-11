@@ -1,0 +1,6 @@
+5cda5272a460 ("net: bridge: move br_fdb_replay inside br_switchdev.c")
+4682048af0c8 ("net: bridge: remove fdb_notify forward declaration")
+2e19bb35ce15 ("net: bridge: switchdev: fix incorrect use of FDB flags when picking the dst device")
+52e4bec15546 ("net: bridge: switchdev: treat local FDBs the same as entries towards the bridge")
+b4454bc6a0fb ("net: bridge: switchdev: replay the entire FDB for each port")
+5af84df962dd ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

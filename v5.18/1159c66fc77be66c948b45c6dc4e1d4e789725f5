@@ -1,0 +1,6 @@
+1159c66fc77b ("staging: greybus: pwm: Make use of devm_pwmchip_alloc() function")
+e0d327757165 ("staging: greybus: pwm: Rework how the number of PWM lines is determined")
+1dd173fc9624 ("staging: greybus: pwm: Drop unused gb_connection_set_data()")
+46eec872d512 ("staging: greybus: pwm: Change prototype of helpers to prepare further changes")
+16636297f544 ("staging: greybus: pwm: Consistently name pwm_chip variables "chip"")
+4b6c9a368967 ("staging: greybus: pwm: Drop assignment to struct pwm_chip::base")

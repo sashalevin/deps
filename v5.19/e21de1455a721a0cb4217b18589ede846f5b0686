@@ -1,0 +1,6 @@
+e21de1455a72 ("serial: Clear UPF_DEAD before calling tty_port_register_device_attr_serdev()")
+84a9582fd203 ("serial: core: Start managing serial controllers to enable runtime PM")
+d5b3d02d0b10 ("serial: Make uart_remove_one_port() return void")
+63f4c3456171 ("serial: core: Disable uart_start() on uart_remove_one_port()")
+c4bd17a6ddf3 ("Documentation: serial: dedup kernel-doc for uart functions")
+f9008285bb69 ("serial: Drop timeout from uart_port")

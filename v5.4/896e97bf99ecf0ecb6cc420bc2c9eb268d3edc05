@@ -1,0 +1,6 @@
+896e97bf99ec ("ACPI: EC: Clear GPE on interrupt handling only")
+d2a2e6ccebb8 ("ACPI: EC: Rename acpi_ec_is_gpe_raised()")
+d269fb031392 ("ACPI: EC: Fold acpi_ec_clear_gpe() into its caller")
+2e84ea5a3269 ("ACPI: EC: Eliminate in_interrupt() usage")
+406857f773b0 ("ACPI: EC: add support for hardware-reduced systems")
+4446abc9a109 ("ACPI: EC: tweak naming in preparation for GpioInt support")

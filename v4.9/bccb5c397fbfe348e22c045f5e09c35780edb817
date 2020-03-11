@@ -1,0 +1,6 @@
+bccb5c397fbf ("fcntl: Cast commands with int args explicitly")
+5aadc431a593 ("shmem: rename functions that are memfd-related")
+e9d586a82178 ("shmem: unexport shmem_add_seals()/shmem_get_seals()")
+f73127356f34 ("fs/fcntl: return -ESRCH in f_setown when pid/pgid can't be found")
+393cc3f51135 ("fs/fcntl: f_setown, allow returning error")
+a75d30c77207 ("fs/locks: pass kernel struct flock to fcntl_getlk/setlk")

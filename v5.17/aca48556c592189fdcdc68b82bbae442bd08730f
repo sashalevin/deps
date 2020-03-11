@@ -1,0 +1,5 @@
+aca48556c592 ("KVM: x86/mmu: Process atomically-zapped SPTEs after TLB flush")
+12ced095956a ("KVM: x86/mmu: Add comment on try_cmpxchg64 usage in tdp_mmu_set_spte_atomic")
+aee98a6838d5 ("KVM: x86/mmu: Use try_cmpxchg64 in tdp_mmu_set_spte_atomic")
+ba3a6120a4e7 ("KVM: x86/mmu: Use atomic XCHG to write TDP MMU SPTEs with volatile bits")
+396fd74d6134 ("KVM: x86/mmu: WARN on any attempt to atomically update REMOVED SPTE")

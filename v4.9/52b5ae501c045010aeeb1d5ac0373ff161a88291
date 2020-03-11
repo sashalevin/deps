@@ -1,0 +1,4 @@
+52b5ae501c04 ("net_sched: fix a resource leak in tcindex_set_parms()")
+1db817e75f5b ("net_sched: fix two more memory leaks in cls_tcindex")
+2df8bee5654b ("net_sched: fix NULL pointer dereference when delete tcindex filter")
+9b0d4446b569 ("net: sched: avoid atomic swap in tcf_exts_change")

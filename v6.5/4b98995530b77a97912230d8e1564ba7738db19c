@@ -1,0 +1,8 @@
+4b98995530b7 ("mm: shmem: add multi-size THP sysfs interface for anonymous shmem")
+ec33687c6749 ("mm: add per-order mTHP anon_fault_alloc and anon_fault_fallback counters")
+085ff35e7636 ("mm: memory: move mem_cgroup_charge() into alloc_anon_folio()")
+19eaf44954df ("mm: thp: support allocation of anonymous multi-size THP")
+3485b88390b0 ("mm: thp: introduce multi-size THP sysfs interface")
+7a81751fcdeb ("mm/thp: fix "mm: thp: kill __transhuge_page_enabled()"")
+5003a2bdf688 ("mm: call update_mmu_cache_range() in more page fault handling paths")
+daa60ae64c65 ("mm,thp: fix smaps THPeligible output alignment")

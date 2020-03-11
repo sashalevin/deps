@@ -1,0 +1,7 @@
+71bf395a276f ("KVM: x86: Enforce x2APIC's must-be-zero reserved ICR bits")
+629d3698f695 ("KVM: x86: Clear bit12 of ICR after APIC-write VM-exit")
+0a19807b464f ("KVM: x86: Blindly get current x2APIC reg value on "nodecode write" traps")
+70c8327c11c6 ("KVM: x86: Bug the VM if an accelerated x2APIC trap occurs on a "bad" reg")
+1bd9dfec9fd4 ("KVM: x86: Do not block APIC write for non ICR registers")
+5413bcba7ed5 ("KVM: x86: Add support for vICR APIC-write VM-Exits in x2APIC mode")
+a57a31684d7b ("KVM: x86: Treat x2APIC's ICR as a 64-bit register, not two 32-bit regs")

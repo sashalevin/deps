@@ -1,0 +1,6 @@
+4e43df38a2e6 ("genetlink: use idr_alloc_cyclic for family->id assignment")
+22ca904ad70a ("genetlink: fix error return code in genl_register_family()")
+2ae0f17df1cd ("genetlink: use idr to track families")
+489111e5c25b ("genetlink: statically initialize families")
+a07ea4d9941a ("genetlink: no longer support using static family IDs")
+c90c39dab3e0 ("genetlink: introduce and use genl_family_attrbuf()")

@@ -1,0 +1,5 @@
+19bd8981dc2e ("kallsyms: Reduce the memory occupied by kallsyms_seqs_of_names[]")
+60443c88f3a8 ("kallsyms: Improve the performance of kallsyms_lookup_name()")
+71f8c15565d0 ("kallsyms: move declarations to internal header")
+aecf489f2ce5 ("kallsyms: Skip the name search for empty string")
+8b8e6b5d3b01 ("kallsyms: strip ThinLTO hashes from static functions")

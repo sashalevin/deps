@@ -1,0 +1,5 @@
+aa8dd816732b ("ceph: fix RCU case handling in ceph_d_revalidate()")
+f49d1e058d23 ("ceph: handle LOOKUP_RCU in ceph_d_revalidate")
+14fb9c9efe35 ("ceph: allow dentry_lease_is_valid to work under RCU walk")
+200fd27c8fa2 ("ceph: use lookup request to revalidate dentry")
+641235d8f823 ("ceph: kill ceph_get_dentry_parent_inode()")

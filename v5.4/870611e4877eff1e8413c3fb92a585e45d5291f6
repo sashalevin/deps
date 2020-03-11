@@ -1,0 +1,4 @@
+870611e4877e ("rbd: get snapshot context after exclusive lock is ensured to be held")
+09fe05c57b5a ("rbd: move RBD_OBJ_FLAG_COPYUP_ENABLED flag setting")
+a52cc6857535 ("rbd: acquire header_rwsem just once in rbd_queue_workfn()")
+679a97d28627 ("rbd: kill img_request kref")

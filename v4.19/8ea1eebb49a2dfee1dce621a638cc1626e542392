@@ -1,0 +1,6 @@
+8ea1eebb49a2 ("net: inet: Remove count from inet_listen_hashbucket")
+4f9bf2a2f5aa ("tcp: Don't acquire inet_listen_hashbucket::lock with disabled BH.")
+01770a166165 ("tcp: fix race condition when creating child sockets from syncookies")
+8dbd76e79a16 ("tcp/dccp: fix possible race __inet_lookup_established()")
+c92c81df93df ("net: dccp: fix kernel crash on module load")
+eedbbb0d98b2 ("net: dccp: initialize (addr,port) listening hashtable")

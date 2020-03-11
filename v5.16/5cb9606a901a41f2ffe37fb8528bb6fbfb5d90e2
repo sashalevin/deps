@@ -1,0 +1,8 @@
+5cb9606a901a ("gpio: sim: fix an invalid __free() usage")
+3faf89f27aab ("gpio: sim: simplify code with cleanup helpers")
+39df52ddd932 ("gpio: sim: use sysfs_streq() and avoid an strdup()")
+d7459efc9276 ("gpio: sim: quietly ignore configured lines outside the bank")
+95ae9979bfe3 ("gpio: sim: fix memory corruption when adding named lines and unnamed hogs")
+7329b0717296 ("gpio: sim: fix the chip_name configfs item")
+3836c73e6a25 ("gpio: sim: fix setting and getting multiple lines")
+cb8c474e79be ("gpio: sim: new testing module")

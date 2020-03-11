@@ -1,0 +1,7 @@
+84ecfe6f38ae ("powerpc/code-patching: Remove #ifdef CONFIG_STRICT_KERNEL_RWX")
+2f228ee1ade5 ("powerpc/code-patching: Consolidate and cache per-cpu patching context")
+c28c15b6d28a ("powerpc/code-patching: Use temporary mm for Radix MMU")
+071c95c1acbd ("powerpc/code-patching: Use WARN_ON and fix check in poking_init")
+8b4bb0ad00cb ("powerpc/code-patching: Speed up page mapping/unmapping")
+1751289268ef ("powerpc/code-patching: Use jump_label to check if poking_init() is done")
+cb3ac45214c0 ("powerpc/code-patching: Don't call is_vmalloc_or_module_addr() without CONFIG_MODULES")

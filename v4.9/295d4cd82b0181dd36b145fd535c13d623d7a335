@@ -1,0 +1,8 @@
+295d4cd82b01 ("iwlwifi: don't call netif_napi_add() with rxq->lock held (was Re: Lockdep warning in iwl_pcie_rx_handle())")
+47ef328c2090 ("iwlwifi: pcie: Disable softirqs during Rx queue init")
+25edc8f259c7 ("iwlwifi: pcie: properly implement NAPI")
+906d4eb84408 ("iwlwifi: support firmware reset handshake")
+aa7fd94687b2 ("iwlwifi: pcie: remove MSIX_HW_INT_CAUSES_REG_IML handling")
+9e8338ad17eb ("iwlwifi: mvm: fix 22000 series driver NMI")
+bbb95d37b74f ("iwlwifi: mvm: add PROTECTED_TWT firmware API")
+82bc2e4a26a6 ("Merge tag 'wireless-drivers-next-2020-01-26' of git://git.kernel.org/pub/scm/linux/kernel/git/kvalo/wireless-drivers-next")

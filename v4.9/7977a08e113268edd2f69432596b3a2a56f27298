@@ -1,0 +1,5 @@
+7977a08e1132 ("iommu/fsl: Move ENODEV to fsl_pamu_probe_device()")
+5f6489723df9 ("iommu/fsl: Always allocate a group for non-pci devices")
+52dd3ca4176f ("iommu/pamu: Convert to probe/release_device() call-backs")
+68a17f0be6fe ("iommu/pamu: Add support for generic iommu-device")
+07eb6fdf4933 ("iommu/pamu: WARN when fsl_pamu_probe() is called more than once")

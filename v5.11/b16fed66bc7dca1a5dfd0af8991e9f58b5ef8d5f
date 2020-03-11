@@ -1,0 +1,7 @@
+b16fed66bc7d ("io_uring: move io_init_req()'s definition")
+5be9ad1e4287 ("io_uring: optimise io_init_req() flags setting")
+4fccfcbb7337 ("io_uring: don't split out consume out of SQE get")
+258b29a93bfe ("io_uring: don't keep submit_state on stack")
+ba13e23f37c7 ("io_uring: kill not used needs_file_no_error")
+2d7e935809b7 ("io_uring: inline io_async_submit()")
+269bbe5fd4d2 ("io_uring: rename file related variables to rsrc")

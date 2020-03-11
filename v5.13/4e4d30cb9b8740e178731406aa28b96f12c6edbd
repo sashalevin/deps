@@ -1,0 +1,4 @@
+4e4d30cb9b87 ("KVM: Resync only arch fields when slots_arch_lock gets reacquired")
+bda44d844758 ("KVM: Ensure local memslot copies operate on up-to-date arch-specific data")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")
+ddc12f2a1291 ("KVM: mmu: Refactor memslot copy")

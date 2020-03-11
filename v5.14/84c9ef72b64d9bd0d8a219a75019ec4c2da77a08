@@ -1,0 +1,7 @@
+84c9ef72b64d ("dmaengine: idxd: Add enable/disable device IOPF feature")
+8ffccd119a59 ("dmaengine: idxd: Only call idxd_enable_system_pasid() if succeeded in enabling SVA feature")
+42a1b73852c4 ("dmaengine: idxd: Separate user and kernel pasid enabling")
+3157dd0a3661 ("dmaengine: idxd: don't load pasid config until needed")
+cf84a4b968f3 ("dmaengine: idxd: remove interrupt disable for dev_lock")
+d8071323c563 ("dmaengine: idxd: fix setting up priv mode for dwq")
+125d10373ad9 ("dmanegine: idxd: add software command status")

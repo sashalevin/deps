@@ -1,0 +1,4 @@
+ecdf985d7615 ("bpf: track immediate values written to stack by BPF_ST instruction")
+354e8f1970f8 ("bpf: Support <8-byte scalar spill and refill")
+27113c59b6d0 ("bpf: Check the other end of slot_type for STACK_SPILL")
+2039f26f3aca ("bpf: Fix leakage due to insufficient speculative store bypass mitigation")

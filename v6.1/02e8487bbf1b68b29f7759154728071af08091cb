@@ -1,0 +1,7 @@
+02e8487bbf1b ("kbuild: support 'make modules_sign' with CONFIG_MODULE_SIG_ALL=n")
+2dfec887c0fd ("kbuild: reduce the number of mkdir calls during modules_install")
+22e46f6480e8 ("kbuild: modinst: Fix build error when CONFIG_MODULE_SIG_KEY is a PKCS#11 URI")
+f65a486821cf ("kbuild: change module.order to list *.o instead of *.ko")
+6768fa4bcb6c ("kbuild: add read-file macro")
+a5db80c65dbf ("kbuild: do not sort after reading modules.order")
+a2430b25c318 ("kbuild: add kbuild-file macro")

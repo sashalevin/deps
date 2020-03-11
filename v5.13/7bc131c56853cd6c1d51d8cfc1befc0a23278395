@@ -1,0 +1,4 @@
+7bc131c56853 ("arch/x86: do not explicitly clear Reserved flag in free_pagetable")
+c5e97ed15458 ("bootmem: Use page->index instead of page->freelist")
+f41f2ed43ca5 ("mm: hugetlb: free the vmemmap pages associated with each HugeTLB page")
+426e5c429d16 ("mm: memory_hotplug: factor out bootmem core functions to bootmem_info.c")

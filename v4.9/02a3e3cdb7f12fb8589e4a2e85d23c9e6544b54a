@@ -1,0 +1,6 @@
+02a3e3cdb7f1 ("x86/boot: Parse SRAT table and count immovable memory regions")
+3a63f70bf4c3 ("x86/boot: Early parse RSDP and save it in boot_params")
+93a209aaaad4 ("x86/boot: Search for RSDP in memory")
+33f0df8d843d ("x86/boot: Search for RSDP in the EFI tables")
+3c98e71b42a7 ("x86/boot: Add "acpi_rsdp=" early parsing")
+f28442497b5c ("x86/boot: Fix KASLR and memmap= collision")

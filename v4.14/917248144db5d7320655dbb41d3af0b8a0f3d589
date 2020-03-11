@@ -1,0 +1,7 @@
+917248144db5 ("x86/kvm: Cache gfn to pfn translation")
+1eff70a9abd4 ("x86/kvm: Introduce kvm_(un)map_gfn()")
+b614c6027896 ("KVM: Properly check if "page" is valid in kvm_vcpu_unmap")
+eb1f2f387db8 ("kvm: fix compile on s390 part 2")
+d30b214d1d0a ("kvm: fix compilation on s390")
+e45adf665a53 ("KVM: Introduce a new guest mapping API")
+152482580a1b ("KVM: Call kvm_arch_memslots_updated() before updating memslots")

@@ -1,0 +1,7 @@
+d0a5b995a308 ("vfs: Add IOP_XATTR inode operations flag")
+b6ba11773d95 ("vfs: Move xattr_resolve_name to the front of fs/xattr.c")
+5d18cbf16cfb ("xattr: Remove unnecessary NULL attribute name check")
+0040773bff7b ("make xattr_resolve_handlers() safe to use with NULL ->s_xattr")
+aaf431b4f921 ("xattr: Fail with -EINVAL for NULL attribute names")
+98e9cb5711c6 ("vfs: Distinguish between full xattr names and proper prefixes")
+97d79299223b ("posix acls: Remove duplicate xattr name definitions")

@@ -1,0 +1,8 @@
+b5cfc9cd7b04 ("powerpc/32: Fix critical and debug interrupts on BOOKE")
+b09049c516af ("powerpc: Only pad struct pt_regs when needed")
+574723064556 ("powerpc/32: Remove ksp_limit")
+be39e1050683 ("powerpc/32: Reconcile interrupts in C")
+0fc1e93481f6 ("powerpc/40x: Prepare for enabling MMU in critical exception prolog")
+26c468860c32 ("powerpc/40x: Reorder a few instructions in critical exception prolog")
+fcd4b43c36c6 ("powerpc/40x: Save SRR0/SRR1 and r10/r11 earlier in critical exception")
+9d3c18a11a93 ("powerpc/40x: Change CRITICAL_EXCEPTION_PROLOG macro to a gas macro")

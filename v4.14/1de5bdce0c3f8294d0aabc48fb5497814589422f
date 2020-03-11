@@ -1,0 +1,6 @@
+1de5bdce0c3f ("xen/pvh: Annotate data appropriately")
+fcd474769815 ("xen/pvh: Move PVH entry code out of Xen specific tree")
+7deecbda3026 ("xen/pvh: increase early stack size")
+28c11b0f798c ("x86/xen: Move pv irq related functions under CONFIG_XEN_PV umbrella")
+98014068328c ("xen/PVH: Set up GS segment for stack canary")
+43e4111086a7 ("xen, x86/entry/64: Add xen NMI trap entry")

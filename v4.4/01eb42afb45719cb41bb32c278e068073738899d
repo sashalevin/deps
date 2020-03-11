@@ -1,0 +1,5 @@
+01eb42afb457 ("s390/kasan: fix strncpy_from_user kasan checks")
+37096003c8a7 ("s390: get rid of zeroing, switch to RAW_COPY_USER")
+e70f1d59be74 ("s390: switch to extable.h")
+0d025d271e55 ("mm/usercopy: get rid of CONFIG_DEBUG_STRICT_USER_COPY_CHECKS")
+1eccfa090eae ("Merge tag 'usercopy-v4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

@@ -1,0 +1,6 @@
+d9ac265b57b8 ("power: supply: max17042_battery: Convert to i2c's .probe_new()")
+e5372503d82b ("power: supply: max17042_battery: Use devm_work_autocancel()")
+dee2f3cf9499 ("power: supply: max17042_battery: simplify getting the adapter of a client")
+bf592c56b165 ("max17042_battery: fix potential use-after-free on device remove")
+e21162029a57 ("power: supply: max17042_battery: Add support for ACPI enumeration")
+917362135b8a ("power: supply: max17042_battery: Add default platform_data fallback data")

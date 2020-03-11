@@ -1,0 +1,4 @@
+7f569e917b78 ("cxl/port: Use scoped_guard()/guard() to drop device_lock() for cxl_port")
+dd2617ebd2a6 ("cxl/port: Use __free() to drop put_device() for cxl_port")
+98856b2ea306 ("cxl: Introduce put_cxl_root() helper")
+7f946e6d830f ("Merge branch 'for-6.7/cxl-rch-eh' into cxl/next")

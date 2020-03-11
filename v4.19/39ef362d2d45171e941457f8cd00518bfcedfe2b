@@ -1,0 +1,5 @@
+39ef362d2d45 ("arm64: Make return_address() use arch_stack_walk()")
+ee07b93e7721 ("arm64: unwind: Prohibit probing on return_address()")
+f3dcbe67ed42 ("arm64: stacktrace: Factor out backtrace initialisation")
+a448276ce515 ("arm64: Use ftrace_graph_get_ret_stack() instead of curr_ret_stack")
+421d1069cd85 ("arm64: function_graph: Remove use of FTRACE_NOTRACE_DEPTH")

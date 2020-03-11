@@ -1,0 +1,6 @@
+557f050166e5 ("net: dsa: fix wrong pointer passed to PTR_ERR() in dsa_port_phylink_create()")
+cf5ca4ddc37a ("net: dsa: don't leave dangling pointers in dp->pl when failing")
+770375ff3311 ("net: dsa: rename dsa_port_link_{,un}register_of")
+da2c398e59d6 ("net: dsa: avoid dsa_port_link_{,un}register_of() calls with platform data")
+fc06b2867f4c ("net: dsa: Add missing of_node_put() in dsa_port_link_register_of")
+21bd64bd717d ("net: dsa: consolidate phylink creation")

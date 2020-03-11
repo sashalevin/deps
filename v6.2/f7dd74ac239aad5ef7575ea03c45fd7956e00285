@@ -1,0 +1,6 @@
+f7dd74ac239a ("pgtable: rename ptdesc _refcount field to __page_refcount")
+38ca8a185389 ("pgtable: fix s390 ptdesc field comments")
+9a35de4ffc20 ("pgtable: create struct ptdesc")
+1aa4d03b60c0 ("mm: remove head_compound_mapcount() and _ptr functions")
+eec20426d48b ("mm: convert head_subpages_mapcount() into folio_nr_pages_mapped()")
+94688e8eb453 ("mm: remove folio_pincount_ptr() and head_compound_pincount()")

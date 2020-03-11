@@ -1,0 +1,7 @@
+7f3da4b698bc ("xen/events: fix error code in xen_bind_pirq_msi_to_irq()")
+3fcdaf3d7634 ("xen/events: modify internal [un]bind interfaces")
+5dd9ad32d775 ("xen/events: drop xen_allocate_irqs_dynamic()")
+3bdb0ac350fe ("xen/events: remove some simple helpers from events_base.c")
+686464514fbe ("xen/events: reduce externally visible helper functions")
+e64e7c74b99e ("xen/events: avoid using info_for_irq() in xen_send_IPI_one()")
+9e90e58c11b7 ("xen: evtchn: Allow shared registration of IRQ handers")

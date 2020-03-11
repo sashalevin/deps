@@ -1,0 +1,6 @@
+61cc70d9e8ef ("vt_ioctl: fix array_index_nospec in vt_setactivate")
+ebf1efbb1a7f ("vt_ioctl: move vt_setactivate out of vt_ioctl")
+bfbbdfa4de13 ("vt_ioctl: move io ioctls to a separate function")
+832a62ab6b7d ("vt_ioctl: move K* ioctls to a separate function")
+eca734d8f004 ("vt_ioctl: eliminate use of uival and ucval")
+0ce8179e2480 ("vt_ioctl: eliminate ret & breaks in vt_ioctl")

@@ -1,0 +1,7 @@
+fffa954fb528 ("futex: Remove rt_mutex_deadlock_account_*()")
+194a6b5b9cb6 ("sched/wake_q: Rename WAKE_Q to DEFINE_WAKE_Q")
+3ca0ff571b09 ("locking/mutex: Rework mutex::owner")
+e3658538bf37 ("ipc/msg: batch queue sender wakeups")
+ee51636ca54f ("ipc/msg: implement lockless pipelined wakeups")
+6075620b0590 ("sched/cputime: Mitigate performance regression in times()/clock_gettime()")
+c86ad14d305d ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

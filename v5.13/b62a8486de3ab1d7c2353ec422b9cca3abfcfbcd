@@ -1,0 +1,7 @@
+b62a8486de3a ("elfcore: Replace CONFIG_{IA64, UML} checks with a new option")
+c126a53c2760 ("arch: remove GENERIC_FIND_FIRST_BIT entirely")
+47d8c15615c0 ("include: move find.h from asm_generic to linux")
+6b8ecb84f8f6 ("bitops: move find_bit_*_le functions from le.h to find.h")
+b7ec62d7ee0f ("bitops: protect find_first_{,zero}_bit properly")
+0760a9157bc9 ("parisc: Drop ifdef __KERNEL__ from non-uapi kernel headers")
+b0e901280d98 ("elfcore: correct reference to CONFIG_UML")

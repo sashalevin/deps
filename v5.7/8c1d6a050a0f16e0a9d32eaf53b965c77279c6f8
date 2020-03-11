@@ -1,0 +1,7 @@
+8c1d6a050a0f ("ima: Fix memory leak in __ima_inode_hash()")
+280fe8367b0d ("ima: Always return a file measurement in ima_file_hash()")
+403319be5de5 ("ima: Implement ima_inode_hash")
+aa662fc04f5b ("ima: Fix NULL pointer dereference in ima_file_hash")
+4834177e6332 ("ima: Support additional conditionals in the KEXEC_CMDLINE hook function")
+db2045f5892a ("ima: Fail rule parsing when the KEXEC_CMDLINE hook is combined with an invalid cond")
+712183437ebe ("ima: Fail rule parsing when buffer hook functions have an invalid action")

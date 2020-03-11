@@ -1,0 +1,6 @@
+add2e1e58587 ("powerpc/mm/hash: Fix off-by-one in comment about kernel contexts ids")
+941711a3a049 ("powerpc/mm/hash: Use context ids 1-4 for the kernel")
+c1ff840d2120 ("powerpc/mm/hash: Pull hash constants into hash__alloc_context_id()")
+a336f2f5b05c ("powerpc/mm/hash: Abstract context id allocation for KVM")
+7e381c0ff618 ("powerpc/mm/radix: Add mmu context handling callback for radix")
+d2adba3fd137 ("powerpc/mm: Abstraction for switch_mmu_context()")

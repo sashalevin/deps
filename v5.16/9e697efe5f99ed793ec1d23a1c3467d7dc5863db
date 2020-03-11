@@ -1,0 +1,6 @@
+9e697efe5f99 ("cpufreq: qcom-nvmem: eliminate uses of of_node_put()")
+ff63282ed227 ("cpufreq: qcom-nvmem: also accept operating-points-v2-krait-cpu")
+2a5d46c3ad6b ("cpufreq: qcom-nvmem: Simplify driver data allocation")
+402732324b17 ("cpufreq: qcom-nvmem: Convert to platform remove callback returning void")
+d78be404f97f ("cpufreq: qcom-nvmem: Switch to use dev_err_probe() helper")
+49cd000dc51b ("cpufreq: qcom-nvmem: Migrate to dev_pm_opp_set_config()")

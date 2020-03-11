@@ -1,0 +1,7 @@
+f79d5fda4ea0 ("nvme: enable to inject errors into admin commands")
+a3646451edd5 ("nvme: prepare for fault injection into admin commands")
+2181e455612a ("nvme: fix possible io failures when removing multipathed ns")
+510a405d945b ("nvme: fix memory leak for power latency tolerance")
+cb5b7262b011 ("nvme: provide fallback for discard alloc failure")
+48f78be33260 ("nvme: remove ns sibling before clearing path")
+f87b0f0dfa54 ("Merge branch 'nvme-4.19' of git://git.infradead.org/nvme into for-4.19/block2")

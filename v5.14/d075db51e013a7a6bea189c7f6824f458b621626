@@ -1,0 +1,5 @@
+d075db51e013 ("net: enetc: bring "bool extended" to top-level in enetc_open()")
+fbf1cff98c95 ("net: enetc: set up RX ring indices from enetc_setup_rxbdr()")
+715bf2610f1d ("net: enetc: cache accesses to &priv->si->hw")
+32bf8e1f6fb9 ("net: enetc: manage ENETC_F_QBV in priv->active_offloads only when enabled")
+7237a494decf ("enetc: Fix illegal access when reading affinity_hint")

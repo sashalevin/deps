@@ -1,0 +1,7 @@
+e5c594233fcf ("rtc: rv8803: invalidate date/time if alarm time is invalid")
+bb42b7e9e30e ("rtc: rv8803: fix missing unlock on error in rv8803_set_time()")
+c27fee16fab1 ("rtc: rv8803: re-initialize all Epson RX8803 registers on voltage loss")
+f8176e0bb83f ("rtc: rv8803: initialize registers on post-probe voltage loss")
+8c798e1ec185 ("rtc: rv8803: factor out existing register initialization to function")
+5c0189a8b52f ("rtc: rv8803: Add support for the Epson RX8804 RTC")
+ac771ed746c8 ("rtc: rv8803: add Epson RX8803 support")

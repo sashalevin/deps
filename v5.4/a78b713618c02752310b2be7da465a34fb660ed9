@@ -1,0 +1,7 @@
+a78b713618c0 ("scsi: target: core: Rename transport_init_se_cmd()")
+a36840d80027 ("scsi: target: Initialize LUN in transport_init_se_cmd()")
+f98c2ddf8ba3 ("scsi: target: Factor out a new helper, target_cmd_init_cdb()")
+5482d56bfedf ("scsi: target: core: Add initiatorname to NON_EXISTENT_LUN error")
+b92fcfcb687d ("scsi: target: use the stack for XCOPY passthrough cmds")
+0ad08996da05 ("scsi: target: avoid per-loop XCOPY buffer allocations")
+11bf1d14b2d6 ("scsi: target: core: Document target_cmd_size_check()")

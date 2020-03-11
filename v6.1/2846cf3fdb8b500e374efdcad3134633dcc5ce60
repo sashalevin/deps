@@ -1,0 +1,8 @@
+2846cf3fdb8b ("drm/i915: Configure TRANS_SET_CONTEXT_LATENCY correctly on ADL+")
+050db7d70c3c ("drm/i915: Define transcoder timing register bitmasks")
+9c0cd4bb9a2d ("drm/i915: Add local adjusted_mode variable")
+5ac421a9ec66 ("drm/i915: Give CPU transcoder timing registers TRANS_ prefix")
+aa80b2b12b89 ("drm/i915/display/panel: use intel_de_rmw if possible in panel related code")
+f0798d8f723d ("drm/i915/crt: switch to intel_de_* register accessors in display code")
+330bdd964da8 ("drm/i915/crt: drop a bunch of unnecessary register variables")
+7177935c7d30 ("drm/i915/backlight: mass rename dev_priv to i915")

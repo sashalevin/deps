@@ -1,0 +1,5 @@
+205669f37770 ("md: use new apis to suspend array for sysfs apis")
+617787f1386d ("md: use READ_ONCE/WRITE_ONCE for 'suspend_lo' and 'suspend_hi'")
+54d21eb6ad5e ("md: don't check 'mddev->pers' and 'pers->quiesce' from suspend_lo_store()")
+a2a9f1683850 ("md: don't check 'mddev->pers' from suspend_hi_store()")
+3938f5fb82ae ("md: add serialize_policy sysfs node for raid1")

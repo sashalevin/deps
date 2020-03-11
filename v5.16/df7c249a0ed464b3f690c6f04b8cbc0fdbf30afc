@@ -1,0 +1,4 @@
+df7c249a0ed4 ("rcu/nocb: Remove halfway (de-)offloading handling from rcu_core")
+0598a4d4429c ("rcu/nocb: Don't invoke local rcu core on callback overload from nocb kthread")
+fbb94cbd70d4 ("rcu/nocb: Invoke rcu_core() at the start of deoffloading")
+213d56bf33bd ("rcu/nocb: Prepare state machine for a new step")

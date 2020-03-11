@@ -1,0 +1,5 @@
+f4a8e31ed84e ("pwm: ep93xx: Ensure configuring period and duty_cycle isn't wrongly skipped")
+96e45e520237 ("pwm: ep93xx: Fix read of uninitialized variable ret")
+b235f8a39fc3 ("pwm: ep93xx: Prepare clock before using it")
+72cce47fe8f8 ("pwm: ep93xx: Unfold legacy callbacks into ep93xx_pwm_apply()")
+6d45374af539 ("pwm: ep93xx: Implement .apply callback")

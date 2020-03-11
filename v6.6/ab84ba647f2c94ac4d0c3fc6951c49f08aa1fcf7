@@ -1,0 +1,4 @@
+ab84ba647f2c ("x86/acpi: Remove __ro_after_init from acpi_mp_wake_mailbox")
+24dd05da8c79 ("x86/apic: Mark acpi_mp_wake_* variables as __ro_after_init")
+2b5e22afae07 ("x86/acpi: Extract ACPI MADT wakeup code into a separate file")
+db4a4086a223 ("x86/apic: Use u32 for wakeup_secondary_cpu[_64]()")

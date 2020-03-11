@@ -1,0 +1,5 @@
+c9c26150e61d ("x86/entry: Assert that syscalls are on the right stack")
+b07d7d5c7b42 ("x86/entry: Simplify _TIF_SYSCALL_EMU handling")
+6aa7de059173 ("locking/atomics: COCCINELLE/treewide: Convert trivial ACCESS_ONCE() patterns to READ_ONCE()/WRITE_ONCE()")
+656710a60e36 ("userfaultfd: non-cooperative: closing the uffd without triggering SIGBUS")
+5f82e71a001d ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+b7bad082e113 ("random: vDSO: avoid call to out of line memset()")
+4ad10a5f5f78 ("random: introduce generic vDSO getrandom() implementation")
+6bb20c152b6b ("random: do not include <asm/archrandom.h> from random.h")
+bbc7e1bed1f5 ("random: add back async readiness notifier")
+9148de3196ed ("random: reseed in delayed work rather than on-demand")
+2c03e16f4499 ("random: remove early archrandom abstraction")
+f62384995e4c ("random: split initialization into early step and later step")
+745558f95885 ("random: use hwgenerator randomness more frequently at early boot")

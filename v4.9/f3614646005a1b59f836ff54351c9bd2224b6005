@@ -1,0 +1,6 @@
+f3614646005a ("x86/virt, x86/platform: Add ->guest_late_init() callback to hypervisor_x86 structure")
+03b2a320b19f ("x86/virt: Add enum for hypervisors to replace x86_hyper")
+f72e38e8ec88 ("x86/virt, x86/platform: Merge 'struct x86_hyper' into 'struct x86_platform' and 'struct x86_init'")
+a2b7861bb33b ("kvm/x86: Avoid async PF preempting the kernel incorrectly")
+b862789aa518 ("kvm/x86: Handle async PF in RCU read-side critical sections")
+d985524680b7 ("Merge 4.13-rc5 into char-misc-next")

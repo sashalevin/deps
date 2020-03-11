@@ -1,0 +1,4 @@
+a956efc09b10 ("x86/mm: Move pmd_write(), pud_write() up in the file")
+86fa949b0501 ("x86/mm: provide pmdp_establish() helper")
+e4e40e0263ea ("mm: switch to 'define pmd_write' instead of __HAVE_ARCH_PMD_WRITE")
+1501899a898d ("mm: fix device-dax pud write-faults triggered by get_user_pages()")

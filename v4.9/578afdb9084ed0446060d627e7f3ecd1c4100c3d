@@ -1,0 +1,7 @@
+578afdb9084e ("rtc: omap: Convert to platform remove callback returning void")
+7c45c9741ab2 ("rtc: omap: use devm_pinctrl_register()")
+ce603842c282 ("rtc: omap: call rtc_nvmem_register()")
+b6ee15efe678 ("rtc: omap: Support scratch registers")
+57072758623f ("rtc: omap: switch to rtc_register_device")
+26e480f7bb78 ("rtc: omap: fix error path when pinctrl_register fails")
+b9de1a1dae8c ("rtc: omap: remove incorrect __exit markups")

@@ -1,0 +1,7 @@
+e4757c710ba2 ("debugobjects: Fix the compilation attributes of some global variables")
+5b5baba62222 ("debugobjects: Annotate racy debug variables")
+aedcade6f4fa ("debugobjects: Allow debug_obj_descr to be const")
+a7344a68a79a ("debugobjects: Less aggressive freeing of excess debug objects")
+d26bf5056fc0 ("debugobjects: Reduce number of pool_lock acquisitions in fill_pool()")
+634d61f45d6f ("debugobjects: Percpu pool lookahead freeing/allocation")
+d86998b17a01 ("debugobjects: Add percpu free pools")

@@ -1,0 +1,8 @@
+a2ba1f70b301 ("ASoC: SOF: ipc4: get pipeline instance id from pipe_widget->instance_id")
+61eb0add2802 ("ASoC: SOF: ipc4-topology: Free the ida when IPC fails in sof_ipc4_widget_setup()")
+7738211bce7a ("ASoC: SOF: ipc4-topology: remove useless assignment")
+dc6137a56a72 ("ASoC: SOF: ipc4-topology: set domain bit based on dp domain type")
+711d0427c713 ("ASoC: SOF: ipc4-topology: move ida allocate/free to widget_setup/free")
+dc4fc0ae94cf ("ASoC: SOF: ipc4-topology: free memories allocated in sof_ipc4_get_audio_fmt")
+a150345aa758 ("ASoC: SOF: ipc4-topology: add SoundWire/ALH aggregation support")
+a45a4d4390b7 ("ASoC: SOF: IPC4: add sdw blob")

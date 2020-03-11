@@ -1,0 +1,8 @@
+d9a81a225277 ("l2tp: add sk_family checks to l2tp_validate_socket")
+6b9f34239b00 ("l2tp: fix races in tunnel creation")
+b954f94023dc ("l2tp: fix races with ipv4-mapped ipv6 addresses")
+17cfe79a65f9 ("l2tp: do not accept arbitrary sockets")
+d00fa9adc528 ("l2tp: fix races with tunnel socket close")
+76a6abdb2513 ("l2tp: don't use inet_shutdown on tunnel destroy")
+765924e362d1 ("l2tp: don't close sessions in l2tp_tunnel_destruct()")
+c7fa745d9888 ("l2tp: remove l2tp_tunnel_count and l2tp_session_count")

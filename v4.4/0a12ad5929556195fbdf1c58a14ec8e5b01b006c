@@ -1,0 +1,7 @@
+0a12ad592955 ("mdio_bus: suppress err message for reset gpio EPROBE_DEFER")
+e40e2a2e7866 ("net: phy: mdio_bus: add missing device_del() in mdiobus_register() error handling")
+fe0e4052fb11 ("mdio_bus: use devm_gpiod_get_optional()")
+d396e84c5604 ("mdio_bus: handle only single PHY reset GPIO")
+df0c8d911abf ("net: phy: Call bus->reset() after releasing PHYs from reset")
+69226896ad63 ("mdio_bus: Issue GPIO RESET to PHYs.")
+e7f4dc3536a4 ("mdio: Move allocation of interrupts into core")

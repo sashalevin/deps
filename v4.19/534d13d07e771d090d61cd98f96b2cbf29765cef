@@ -1,0 +1,3 @@
+534d13d07e77 ("sctp: pass a kernel pointer to sctp_setsockopt_auth_key")
+89fae01eef8b ("sctp: switch sctp_setsockopt_auth_key to use memzero_explicit")
+7fb3be13a236 ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_AUTH_KEY sockopt")

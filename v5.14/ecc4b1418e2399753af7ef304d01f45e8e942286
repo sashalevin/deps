@@ -1,0 +1,8 @@
+ecc4b1418e23 ("gpio: Add Intel Granite Rapids-D vGPIO driver")
+9409d8cf78d9 ("gpio: elkhartlake: Introduce Intel Elkhart Lake PSE GPIO")
+34840be53410 ("gpio: merrifield: Adapt to Intel Tangier GPIO driver")
+d2c19e89e03c ("gpio: tangier: Introduce Intel Tangier GPIO driver")
+ce3a0a29fb9f ("gpio: merrifield: Use str_enable_disable() helper")
+a80fed9fb643 ("gpio: merrifield: make irq_chip immutable")
+c84eab5850d1 ("gpio: merrifield: check the return value of devm_kstrdup()")
+dbd1c54fc820 ("gpio: Bulk conversion to generic_handle_domain_irq()")

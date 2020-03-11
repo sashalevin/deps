@@ -1,0 +1,7 @@
+c1b241f0c1cf ("devpts: Simplify devpts_mount by using mount_nodev")
+180d90444202 ("devpts: Move the creation of /dev/pts/ptmx into fill_super")
+dee87d47365e ("devpts: Move parse_mount_options into fill_super")
+eedf265aa003 ("devpts: Make each mount of devpts an independent filesystem.")
+67245ff33206 ("devpts: clean up interface to pty drivers")
+8b253b07e990 ("TTY, devpts: document pty count limiting")
+249f3c4fe4fd ("Merge 4.5-rc4 into tty-next")

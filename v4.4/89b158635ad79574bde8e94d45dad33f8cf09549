@@ -1,0 +1,8 @@
+89b158635ad7 ("lib/lz4: explicitly support in-place decompression")
+b1a3e75e466d ("lz4: fix kernel decompression speed")
+2209fda323e2 ("lib/lz4: update LZ4 decompressor module")
+8cb5d7482810 ("lib/lz4: make arrays static const, reduces object code size")
+4e1a33b105dd ("lib: update LZ4 compressor module")
+dea5c24a1404 ("lib: lz4: cleanup unaligned access efficiency detection")
+3e26a691fe3f ("lib: lz4: fixed zram with lz4 on big endian machines")
+06af1c52c9ea ("lz4: fix wrong compress buffer size for 64-bits")

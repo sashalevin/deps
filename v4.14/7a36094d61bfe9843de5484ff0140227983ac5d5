@@ -1,0 +1,4 @@
+7a36094d61bf ("pids: Compute task_tgid using signal->leader_pid")
+1fb53567a363 ("pids: Move task_pid_type into sched/signal.h")
+e8cfbc245e24 ("pid: remove pidhash")
+95846ecf9dac ("pid: replace pid bitmap implementation with IDR API")

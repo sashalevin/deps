@@ -1,0 +1,5 @@
+df06dae3f2a8 ("KVM: Don't actually set a request when evicting vCPUs for GFN cache invd")
+e65a3b46b5b1 ("KVM: Drop KVM_REQ_MMU_RELOAD and update vcpu-requests.rst documentation")
+982ed0de4753 ("KVM: Reinstate gfn_to_pfn_cache with invalidation support")
+6f2cdbdba43e ("KVM: Add Makefile.kvm for common files, use it for x86")
+817506df9dba ("Merge branch 'kvm-5.16-fixes' into kvm-master")

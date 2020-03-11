@@ -1,0 +1,4 @@
+b4b27b9eed8e ("Revert "signal: Allow tasks to cache one sigqueue struct"")
+399f8dd9a866 ("signal: Prevent sigqueue caching after task got released")
+4bad58ebc8bc ("signal: Allow tasks to cache one sigqueue struct")
+69995ebbb9d3 ("signal: Hand SIGQUEUE_PREALLOC flag to __sigqueue_alloc()")

@@ -1,0 +1,7 @@
+e79719a2ca5c ("fanotify: use fsnotify group lock helpers")
+867a448d587e ("fsnotify: pass flags argument to fsnotify_alloc_group()")
+734a1a5eccc5 ("fanotify: Pre-allocate pool of error events")
+5b8fea65d197 ("fanotify: configurable limits via sysfs")
+94e00d28a680 ("fsnotify: use hash table for faster events merge")
+8988f11abb82 ("fanotify: reduce event objectid to 29-bit hash")
+ac7b79fd190b ("inotify, memcg: account inotify instances to kmemcg")

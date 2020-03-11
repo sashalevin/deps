@@ -1,0 +1,8 @@
+7a29fa05aeca ("mfd: twl6030-irq: Revert to use of_match_device()")
+830fafce06e6 ("mfd: Use device_get_match_data() in a bunch of drivers")
+b2cb2ae22278 ("mfd: axp20x: Generalise handling without interrupt")
+367124ebb359 ("mfd: mxs-lradc: Fix Wvoid-pointer-to-enum-cast warning")
+b2ee6a378d05 ("mfd: hi6421-pmic: Fix Wvoid-pointer-to-enum-cast warning")
+e0f8ad2a7053 ("mfd: axp20x: Add support for AXP15060 PMIC")
+74d3de876a3a ("mfd: hi6421-pmic: Use devm_platform_get_and_ioremap_resource()")
+1b1305e95e85 ("mfd: axp20x: Switch to the sys-off handler API")

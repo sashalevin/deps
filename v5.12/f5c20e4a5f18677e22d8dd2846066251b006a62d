@@ -1,0 +1,4 @@
+f5c20e4a5f18 ("x86/hyperv: Avoid erroneously sending IPI to 'self'")
+dfb5c1e12c28 ("x86/hyperv: remove on-stack cpumask from hv_send_ipi_mask_allbutself")
+753ed9c95c37 ("drivers: hv: Create a consistent pattern for checking Hyper-V hypercall status")
+6523592cee46 ("x86/hyperv: Move hv_do_rep_hypercall to asm-generic")

@@ -1,0 +1,4 @@
+afc2b59cb985 ("mt76: sdio: rely on mt76_queue in mt76s_process_tx_queue signature")
+6a618acb7e62 ("mt76: sdio: convert {status/net}_work to mt76_worker")
+fefb584d460a ("mt76: mt7663s: convert txrx_work to mt76_worker")
+e0ad80024329 ("mt76: mt7663s: move tx/rx processing in the same txrx workqueue")

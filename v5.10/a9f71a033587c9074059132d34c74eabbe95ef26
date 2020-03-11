@@ -1,0 +1,8 @@
+a9f71a033587 ("clk: qcom: turingcc-qcs404: fix missing resume during probe")
+72cfc73f4663 ("clk: qcom: use devm_pm_runtime_enable and devm_pm_clk_create")
+ce8c195e652f ("clk: qcom: lpasscc: Introduce pm autosuspend for SC7180")
+8d4025943e13 ("clk: qcom: camcc-sc7180: Use runtime PM ops instead of clk ones")
+a2d8f507803e ("clk: qcom: Add support to LPASS AUDIO_CC Glitch Free Mux clocks")
+4ee9fe3e292b ("clk: qcom: lpass-sc7180: Disentangle the two clock devices")
+7635622b77b5 ("clk: qcom: lpasscc-sc7810: Use devm in probe")
+15d09e830bbc ("clk: qcom: camcc: Add camera clock controller driver for SC7180")

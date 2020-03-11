@@ -1,0 +1,8 @@
+ce63cb62d794 ("erofs: support unencoded inodes for fileio")
+fb176750266a ("erofs: add file-backed mount support")
+e080a26725fb ("erofs: allow large folios for compressed files")
+684b290abc77 ("erofs: add support for FS_IOC_GETFSSYSFSPATH")
+1001042e54ef ("erofs: avoid refcounting short-lived pages")
+392d20ccef22 ("erofs: move each decompressor to its own source file")
+5b9654efb604 ("erofs: teach z_erofs_scan_folios() to handle multi-page folios")
+90cd33d79338 ("erofs: convert z_erofs_read_fragment() to folios")

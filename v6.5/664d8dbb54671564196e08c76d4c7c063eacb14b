@@ -1,0 +1,6 @@
+664d8dbb5467 ("pwm: bcm2835: Introduce a local variable for &pdev->dev")
+19c09ed0943b ("pwm: bcm2835: Make use of devm_pwmchip_alloc() function")
+65a63bf94ac2 ("pwm: bcm2835: Drop write-only member of driver private data")
+fcc760729359 ("pwm: bcm2835: Allow PWM driver to be used in atomic context")
+4e7a8dbd2bc0 ("pwm: bcm2835: Fix NPD in suspend/resume")
+2ce7b7f6704c ("pwm: bcm2835: Simplify using devm functions")

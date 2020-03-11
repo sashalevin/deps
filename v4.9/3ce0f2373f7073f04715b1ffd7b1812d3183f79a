@@ -1,0 +1,4 @@
+3ce0f2373f70 ("compat: consolidate the compat_flock{,64} definition")
+306f7cc1e906 ("uapi: always define F_GETLK64/F_SETLK64/F_SETLKW64 in fcntl.h")
+6ae1756fadde ("MIPS: Drop spurious __unused in struct compat_flock")
+84d1d8a12df3 ("tools include uapi asm-generic: Grab a copy of fcntl.h")

@@ -1,0 +1,4 @@
+edad1bb1fbf7 ("mm/gup: remove pin_user_pages_fast_only()")
+d64e2dbc33a1 ("mm/gup: simplify the external interface functions and consolidate invariants")
+afa3c33e2684 ("mm/gup: don't call __gup_longterm_locked() if FOLL_LONGTERM cannot be set")
+b2a72dff85fa ("mm/gup: have internal functions get the mmap_read_lock()")

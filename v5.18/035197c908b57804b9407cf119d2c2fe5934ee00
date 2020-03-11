@@ -1,0 +1,7 @@
+035197c908b5 ("tty: tty_buffer: initialize variables in initializers already")
+64365743b366 ("tty: tty_buffer: better types in __tty_buffer_request_room()")
+2e2b4b896159 ("tty: Convert tty_buffer flags to bool")
+56c14fb4086b ("tty: Fix lookahead_buf crash with serdev")
+6bb6fa6908eb ("tty: Implement lookahead to process XON/XOFF timely")
+25e02ba60f0f ("tty: Rework receive flow control char logic")
+ec66b8cf03e5 ("tty: Add function for handling flow control chars")

@@ -1,0 +1,6 @@
+7ad17b04dc7b ("net: trust the bitmap in __dev_alloc_name()")
+9a810468126c ("net: reduce indentation of __dev_alloc_name()")
+bd07063dd11f ("net: don't use input buffer of __dev_alloc_name() as a scratch space")
+7663d522099e ("net: check for altname conflicts when changing netdev's netns")
+311cca40661f ("net: fix ifname in netlink ntf during netns move")
+aabb4af9bb29 ("net: core: Use the bitmap API to allocate bitmaps")

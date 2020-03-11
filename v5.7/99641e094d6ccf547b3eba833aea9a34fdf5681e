@@ -1,0 +1,3 @@
+99641e094d6c ("x86/uaccess: Remove .fixup usage")
+767ec7289e83 ("x86/uaccess: Use XORL %0,%0 in __get_user_asm()")
+158807de5822 ("x86/uaccess: Make __get_user_size() Clang compliant on 32-bit")

@@ -1,0 +1,5 @@
+52416ffcf823 ("x86/purgatory: Don't generate debug info for purgatory.ro")
+e2ac07c06058 ("x86/purgatory: Disable various profiling and sanitizing options")
+ca14c996afe7 ("x86/purgatory: Disable the stackleak GCC plugin for the purgatory")
+e16c2983fba0 ("x86/purgatory: Change compiler flags from -mcmodel=kernel to -mcmodel=large to fix kexec relocation errors")
+b059f801a937 ("x86/purgatory: Use CFLAGS_REMOVE rather than reset KBUILD_CFLAGS")

@@ -1,0 +1,6 @@
+93738d489396 ("MIPS: MSA: Update helpers to use new asm macros")
+e9cbf6299e30 ("MIPS: Fix MSA asm warnings in control reg accessors")
+6e1b29c30946 ("MIPS: Fix little endian microMIPS MSA encodings")
+e49d38488515 ("MIPS: MSA: Fix a link error on `_init_msa_upper' with older GCC")
+ea1688573426 ("MIPS: Fix MSA ld_*/st_* asm macros to use PTR_ADDU")
+8a3c8b48aca8 ("MIPS: Use copy_s.fmt rather than copy_u.fmt")

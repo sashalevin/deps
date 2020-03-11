@@ -1,0 +1,4 @@
+a4aeaa06d45e ("mm: khugepaged: skip huge page collapse for special files")
+eb6ecbed0aa2 ("mm, thp: relax the VM_DENYWRITE constraint on file-backed THPs")
+cd89fb065099 ("mm,thp,shmem: make khugepaged obey tmpfs mount flags")
+396bcc5299c2 ("mm: remove CONFIG_TRANSPARENT_HUGE_PAGECACHE")

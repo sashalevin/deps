@@ -1,0 +1,7 @@
+df3551011b81 ("arm64: ptrauth: Add bootup/runtime flags for __cpu_setup")
+a96a33b1ca57 ("arm64: mm: Prevent mismatched 52-bit VA support")
+7a00d68ebe5f ("arm64: sysreg: Move to use definitions for all the SCTLR bits")
+d38338e396ee ("arm64: Remove a redundancy in sysreg.h")
+d68c1f7fd1b7 ("arm64: KVM: Preserve RES1 bits in SCTLR_EL2")
+d61c97a7773d ("arm64: move !VHE work to end of el2_setup")
+3ad47d055aa8 ("arm64: reduce el2_setup branching")

@@ -1,1 +1,7 @@
 071657d2c38c ("netfilter: nft_masq: add inet support")
+a9ce849e7867 ("netfilter: nf_tables: nat: merge nft_masq protocol specific modules")
+c78efc99c750 ("netfilter: nf_tables: nat: merge nft_redir protocol specific modules")
+3bf195ae6037 ("netfilter: nat: merge nf_nat_ipv4,6 into nat core")
+096d09067a67 ("netfilter: nat: move nlattr parse and xfrm session decode to core")
+d1aca8ab3104 ("netfilter: nat: merge ipv4 and ipv6 masquerade functionality")
+8bbed40f107f ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

@@ -1,0 +1,8 @@
+29cd2927fb91 ("SUNRPC: Fix encoding of accepted but unsuccessful RPC replies")
+649a692e0f2b ("SUNRPC: Convert RPC Reply header encoding to use xdr_stream")
+faca8978163b ("SUNRPC: Move svcxdr_init_encode() into ->accept methods")
+6d037b15e439 ("SUNRPC: Remove the rpc_stat variable in svc_process_common()")
+163cdfca341b ("SUNRPC: Decode most of RPC header with xdr_stream")
+4119bd030665 ("SUNRPC: Eliminate unneeded variable")
+2009e32997ed ("SUNRPC: Re-order construction of the first reply fields")
+74aaf96feaca ("SUNRPC: Teach server to recognize RPC_AUTH_TLS")

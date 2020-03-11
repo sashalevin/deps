@@ -1,0 +1,5 @@
+568af6de058c ("netfilter: nf_tables: set pktinfo->thoff at AH header if found")
+ddc8b6027ad0 ("netfilter: introduce nft_set_pktinfo_{ipv4, ipv6}_validate()")
+8df9e32e7ed2 ("netfilter: nf_tables_ipv6: setup pktinfo transport field on failure to parse")
+beac5afa2d78 ("netfilter: nf_tables: ensure proper initialization of nft_pktinfo fields")
+a9ecfbe7fcf2 ("netfilter: nf_tables: remove unused struct members")

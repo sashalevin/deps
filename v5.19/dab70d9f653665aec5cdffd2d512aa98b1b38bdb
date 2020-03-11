@@ -1,0 +1,8 @@
+dab70d9f6536 ("drm/amdgpu: refine gfx11 firmware loading")
+eb4f6eca2632 ("drm/amdgpu: Fix truncations in gfx_v11_0_init_microcode()")
+9596ffe1cc99 ("drm/amdgpu: distinguish rlc fw for different SKU")
+e045aec89d1b ("drm/amd: Load GFX11 microcode during early_init")
+c88135c089e4 ("drm/amd: Use `amdgpu_ucode_*` helpers for GFX11")
+e268df1d20b8 ("drm/amdgpu/gfx11: use common function to init cp fw")
+7c32d4e37ff3 ("drm/amdgpu/gfx11: switch to amdgpu_gfx_rlc_init_microcode")
+ed2eee42d362 ("drm/amdgpu: save rlcv/rlcp ucode version in amdgpu_gfx")

@@ -1,0 +1,8 @@
+88a64e65484e ("KVM: selftests: memslot_perf_test: Consolidate memory")
+8675c6f22698 ("KVM: selftests: memslot_perf_test: Support variable guest page size")
+34396437b11f ("KVM: selftests: memslot_perf_test: Probe memory slots for once")
+2aae5e6795e1 ("KVM: selftests: memslot_perf_test: Consolidate loop conditions in prepare_vm()")
+3bfadb232589 ("KVM: selftests: memslot_perf_test: Use data->nslots in prepare_vm()")
+e82e630ba965 ("KVM: selftests: Convert memslot_perf_test away from VCPU_ID")
+ffb4ce3c4936 ("KVM: selftests: Make memslot_perf_test arch independent")
+4307af730b85 ("KVM: selftests: Unconditionally use memslot '0' for page table allocations")

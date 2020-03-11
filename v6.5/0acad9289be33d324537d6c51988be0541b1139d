@@ -1,0 +1,5 @@
+0acad9289be3 ("fuse: refactor out shared logic in fuse_writepages_fill() and fuse_writepage_locked()")
+4046d3adcca4 ("fuse: move fuse file initialization to wpa allocation time")
+9a8ebcf5e04e ("fuse: convert fuse_writepages_fill() to use a folio for its tmp page")
+e0887e095a80 ("fuse: Convert fuse_writepage_locked to take a folio")
+e26ee4efbc79 ("fuse: allocate ff->release_args only if release is needed")

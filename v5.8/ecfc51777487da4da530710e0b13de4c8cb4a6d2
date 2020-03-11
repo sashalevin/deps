@@ -1,0 +1,8 @@
+ecfc51777487 ("io_uring: fix potential use after free on fallback request free")
+e6543a816edc ("io_uring: remove inflight batching in free_many()")
+9d9e88a24c1f ("io_uring: polled fixed file must go through free iteration")
+dd461af65946 ("io_uring: use proper references for fallback_req locking")
+b1e50e549b13 ("io_uring: alloc req only after getting sqe")
+709b302faddf ("io_uring: simplify io_get_sqring")
+055895537302 ("io_uring: refactor file register/unregister/update handling")
+e59cd88028db ("Merge tag 'for-5.7/io_uring-2020-03-29' of git://git.kernel.dk/linux-block")

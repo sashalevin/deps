@@ -1,0 +1,6 @@
+c02027b5742b ("x86/kvm: Disable kvmclock on all CPUs on shutdown")
+8b79feffeca2 ("x86/kvm: Teardown PV features on boot CPU as well")
+2b519b5797d4 ("x86/kvm: Don't bother __pv_cpu_mask when !CONFIG_SMP")
+7d1f8691ccff ("Revert "KVM: Check the allocation of pv cpu mask"")
+0f990222108d ("KVM: Check the allocation of pv cpu mask")
+de585020daf4 ("Revert "KVM: X86: Fix setup the virt_spin_lock_key before static key get initialized"")

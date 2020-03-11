@@ -1,0 +1,4 @@
+35d7b72a632b ("gpio: zynq: Check return value of irq_get_irq_data")
+26ebdbf8c2e3 ("gpio: zynq: Disable the irq if it is not a wakeup source")
+f6a7053ddcf1 ("gpio: zynq: Pass irqchip when adding gpiochip")
+77bc0e69c3e2 ("gpio: zynq: use devm_platform_ioremap_resource()")

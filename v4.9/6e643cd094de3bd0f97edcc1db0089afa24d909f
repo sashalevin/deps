@@ -1,0 +1,6 @@
+6e643cd094de ("xfs: hold xfs_buf locked between shortform->leaf conversion and the addition of an attribute")
+8ad7c629b186 ("xfs: remove the ip argument to xfs_defer_finish")
+882d8785fb87 ("xfs: rename xfs_defer_join to xfs_defer_ijoin")
+411350df14a3 ("xfs: refactor xfs_trans_roll")
+254133f5d0c2 ("xfs: fold __xfs_trans_roll into xfs_trans_roll")
+5eda43000064 ("xfs: mark speculative prealloc CoW fork extents unwritten")

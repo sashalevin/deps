@@ -1,0 +1,8 @@
+9b90d9734ab7 ("perf build: Group the NO_SYSCALL_TABLE logic")
+a7f660d6576a ("perf trace arm64: Use generated syscall table")
+22e9af4e9480 ("perf tools: Rename HAVE_SYSCALL_TABLE to HAVE_SYSCALL_TABLE_SUPPORT")
+4281da235e3d ("perf trace powerpc: Use generated syscall table")
+b3fa38963a6a ("perf trace: Remove audit-libs dependency if syscall tables are present")
+a9a3f1d18a6c ("perf s390: Always build with -fPIC")
+901bb0280b60 ("perf trace: Use generated syscall table on s390 too")
+f704ef44602f ("s390/perf: add support for perf_regs and libdw")

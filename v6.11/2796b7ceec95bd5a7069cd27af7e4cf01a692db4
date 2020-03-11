@@ -1,0 +1,5 @@
+2796b7ceec95 ("drm/i915: Replace BPP_X16_FMT()/ARGS() with FXP_Q4_FMT()/ARGS()")
+e60244554ca9 ("drm/i915: Replace to_bpp_frac() with fxp_q4_to_frac()")
+ce9b1466f5a9 ("drm/i915: Replace to_bpp_int_roundup() with fxp_q4_to_int_roundup()")
+8466a14173e5 ("drm/i915: Replace to_bpp_int() with fxp_q4_to_int()")
+3196763851b5 ("drm/i915: Replace to_bpp_x16() with fxp_q4_from_int()")

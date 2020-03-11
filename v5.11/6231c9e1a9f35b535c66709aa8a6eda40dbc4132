@@ -1,0 +1,6 @@
+6231c9e1a9f3 ("KVM: x86: make KVM_REQ_NMI request iff NMI pending for vcpu")
+bdedff263132 ("KVM: x86: Route pending NMIs from userspace through process_nmi()")
+ab2ee212a57b ("KVM: x86: Save/restore all NMIs when multiple NMIs are pending")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

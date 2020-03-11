@@ -1,0 +1,4 @@
+f904c22f2a9f ("powerpc/uaccess: Split out __get_user_nocheck()")
+028e15616857 ("powerpc/uaccess: Remove __chk_user_ptr() in __get/put_user")
+ed0d9c66f97c ("powerpc/uaccess: Call might_fault() inconditionaly")
+8cdf748d557f ("powerpc/uaccess: Remove __get_user_allowed() and unsafe_op_wrap()")

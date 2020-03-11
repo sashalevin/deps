@@ -1,0 +1,3 @@
+22d0c4080fe4 ("block: simplify disk_set_independent_access_ranges")
+6a27d28c81bc ("block: move ->ia_ranges from the request_queue to the gendisk")
+5cf9c91ba927 ("block: serialize all debugfs operations using q->debugfs_mutex")

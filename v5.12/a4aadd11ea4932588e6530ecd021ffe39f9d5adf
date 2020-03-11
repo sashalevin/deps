@@ -1,0 +1,7 @@
+a4aadd11ea49 ("io_uring: extract io_uring_files_cancel() in io_uring_task_cancel()")
+3f48cf18f886 ("io_uring: unify files and task cancel")
+b303fe2e5a38 ("io_uring: track inflight requests through counter")
+368b2080853f ("io_uring: unify task and files cancel loops")
+094bae49e5ed ("io_uring: optimise io_dismantle_req() fast path")
+68fb897966fe ("io_uring: inline io_clean_op()'s fast path")
+cf27f3b14961 ("io_uring: optimise tctx node checks/alloc")

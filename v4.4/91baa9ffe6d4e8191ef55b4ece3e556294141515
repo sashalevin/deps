@@ -1,0 +1,7 @@
+91baa9ffe6d4 ("clk: take the prepare lock out of clk_core_set_parent")
+56e7ceddbeb8 ("clk: fix incorrect usage of ENOSYS")
+9a34b45397e5 ("clk: Add support for runtime PM")
+a4b3518d146f ("clk: core: support clocks which requires parents enable (part 1)")
+7ec986efed02 ("clk: move clk_disable_unused after clk_core_disable_unprepare function")
+32b9b1096186 ("clk: Allow clocks to be marked as CRITICAL")
+2eb8c7104c64 ("clk: add flag for clocks that need to be enabled on rate changes")

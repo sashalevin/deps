@@ -1,0 +1,8 @@
+fbc5d382407e ("selftests/seccomp: Handle arm32 corner cases better")
+11eb004ef7ea ("selftests/seccomp: Check ENOSYS under tracing")
+ad5682184a81 ("selftests/seccomp: Check for EPOLLHUP for user_notif")
+0eebfed2954f ("seccomp: test SECCOMP_USER_NOTIF_FLAG_CONTINUE")
+6a21cc50f0c7 ("seccomp: add a return code to trap to userspace")
+00a02d0c502a ("seccomp: Add filter flag to opt-out of SSB mitigation")
+5c3070890d06 ("seccomp: Enable speculation flaw mitigations")
+d057dc4e35e1 ("seccomp: add a selftest for get_metadata")

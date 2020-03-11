@@ -1,0 +1,4 @@
+cfd32acf7875 ("KVM: x86/mmu: Fix an inverted list_empty() check when zapping sptes")
+a21136345cb6 ("KVM: x86/mmu: Split remote_flush+zap case out of kvm_mmu_flush_or_zap()")
+35a70510ee13 ("KVM: MMU: move TLB flush out of __kvm_sync_page")
+b8c67b7a086c ("KVM: MMU: introduce kvm_mmu_flush_or_zap")

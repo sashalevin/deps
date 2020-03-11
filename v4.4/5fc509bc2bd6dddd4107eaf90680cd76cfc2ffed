@@ -1,0 +1,6 @@
+5fc509bc2bd6 ("xen/x86: Move irq allocation from Xen smp_op.cpu_up()")
+ad5475f9faf5 ("x86/xen: use xen_vcpu_id mapping for HYPERVISOR_vcpu_op")
+88e957d6e47f ("xen: introduce xen_vcpu_id mapping")
+3cf4095d7446 ("arm/xen: Use xen_xlate_map_ballooned_pages to setup grant table")
+c06b6d70feb3 ("xen/x86: don't lose event interrupts")
+4ccefbe59739 ("xen: move xen_setup_runstate_info and get_runstate_snapshot to drivers/xen/time.c")

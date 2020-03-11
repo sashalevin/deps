@@ -1,0 +1,5 @@
+1aa85bb14d8e ("PCI/PM: Set current_state to D3cold if the device is not accessible")
+7957d201456f ("PCI/PM: Relocate pci_set_low_power_state()")
+10aa5377fc8a ("PCI/PM: Split pci_raw_set_power_state()")
+730643d33e2d ("PCI/PM: Resume subordinate bus in bus type callbacks")
+18a94192e20d ("PCI/PM: Define pci_restore_standard_config() only for CONFIG_PM_SLEEP")

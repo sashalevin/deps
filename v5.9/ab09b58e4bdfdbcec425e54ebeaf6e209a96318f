@@ -1,0 +1,4 @@
+ab09b58e4bdf ("x86/boot/compressed/64: Use TEST %reg,%reg instead of CMP $0,%reg")
+a2c4fc4d4e2c ("x86/boot: Remove run-time relocations from .head.text code")
+423e4d198a03 ("x86/boot/compressed: Get rid of GOT fixup code")
+262b5cae67a6 ("x86/boot/compressed: Move .got.plt entries out of the .got section")

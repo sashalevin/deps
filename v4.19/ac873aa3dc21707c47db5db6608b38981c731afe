@@ -1,0 +1,5 @@
+ac873aa3dc21 ("smb3: Avoid Mid pending list corruption")
+2255397c3342 ("smb3: fix potential null dereference in decrypt offload")
+35cf94a39728 ("smb3: allow parallelizing decryption of reads")
+ec678eae746d ("CIFS: Fix credit calculation for encrypted reads with errors")
+6d2f84eee098 ("smb3: fix large reads on encrypted connections")

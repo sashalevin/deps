@@ -1,0 +1,8 @@
+64e053215062 ("ALSA: hda: Fix missing header dependencies")
+7cdf8c49b1df ("ALSA: hda: generic: Add a helper for mic-mute LED with LED classdev")
+bf61c42a446f ("ALSA: hda: generic: Always call led-trigger for mic mute LED")
+0127f59794b3 ("ALSA: hda/realtek - Fix unused variable warning w/o CONFIG_LEDS_TRIGGER_AUDIO")
+87dc36482cab ("ALSA: hda/realtek - Add LED class support for micmute LED")
+dbd131797805 ("ALSA: hda/realtek - Introduce polarity for micmute LED GPIO")
+b3802783d0b5 ("ALSA: hda - Support led audio trigger")
+5e93a125f521 ("ALSA: hda - Fix incorrect clearance of thinkpad_acpi hooks")

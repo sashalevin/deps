@@ -1,0 +1,5 @@
+56d680dd23c3 ("objtool/rust: list `noreturn` Rust functions")
+6245ce4ab670 ("objtool: Move noreturn function list to separate file")
+34245659debd ("objtool: Remove superfluous global_noreturns entries")
+fedb724c3db5 ("objtool: Detect missing __noreturn annotations")
+5e3992fe7274 ("objtool: Limit unreachable warnings to once per function")

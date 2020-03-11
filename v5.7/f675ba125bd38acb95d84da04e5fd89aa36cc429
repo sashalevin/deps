@@ -1,0 +1,8 @@
+f675ba125bd3 ("RDMA/core: Remove unused req_ncomp_notif device operation")
+3bc489e8827a ("RDMA/core: Add device method for registering dma-buf based memory region")
+6e0954b11c05 ("RDMA/uverbs: Allow drivers to create a new HW object during rereg_mr")
+5a7a9e038b03 ("RDMA/core: remove use of dma_virt_ops")
+b1e678bf290d ("RMDA/sw: Don't allow drivers using dma_virt_ops on highmem configs")
+683a9c7ed817 ("RDMA: Fix software RDMA drivers for dma mapping error")
+e0477b34d9d1 ("RDMA: Explicitly pass in the dma_device to ib_register_device")
+d7806bbd22ca ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/rdma/rdma")

@@ -1,0 +1,4 @@
+7d18eef13622 ("KVM: VMX: Rename vmx_get_max_tdp_level() to vmx_get_max_ept_level()")
+3c5c32457d7d ("KVM: VMX: Include MKTME KeyID bits in shadow_zero_check")
+86931ff7207b ("KVM: x86/mmu: Do not create SPTEs for GFNs that exceed host.MAXPHYADDR")
+cf3e26427c08 ("KVM: x86/mmu: Zap only TDP MMU leafs in kvm_zap_gfn_range()")

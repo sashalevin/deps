@@ -1,0 +1,5 @@
+069f30c61979 ("KVM: x86/mmu: Plumb "struct kvm" all the way to pte_list_remove()")
+f3d90f901d18 ("KVM: x86/mmu: Clean up mmu.c functions that put return type on separate line")
+141705b78381 ("KVM: x86/mmu: Track tail count in pte_list_desc to optimize guest fork()")
+3cdf93746f9a ("KVM: x86/mmu: Fix wrong gfn range of tlb flushing in validate_direct_spte()")
+5e3edd7e8b7e ("KVM: x86/mmu: Add helper to convert SPTE value to its shadow page")

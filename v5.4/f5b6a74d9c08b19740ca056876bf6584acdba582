@@ -1,0 +1,5 @@
+f5b6a74d9c08 ("vmlinux.lds.h: Define SANTIZER_DISCARDS with CONFIG_GCOV_KERNEL=y")
+d812db78288d ("vmlinux.lds.h: Avoid KASAN and KCSAN's unwanted sections")
+03c2b85cb7f1 ("vmlinux.lds.h: Create COMMON_DISCARDS")
+84d5f77fc2ee ("x86, vmlinux.lds: Add RUNTIME_DISCARD_EXIT to generic DISCARDS")
+441110a547f8 ("vmlinux.lds.h: Provide EMIT_PT_NOTE to indicate export of .notes")

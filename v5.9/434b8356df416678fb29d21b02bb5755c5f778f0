@@ -1,0 +1,6 @@
+434b8356df41 ("mtd: rawnand: orion: use devm_platform_ioremap_resource()")
+553508cec2e8 ("mtd: rawnand: orion: Move the ECC initialization to ->attach_chip()")
+bace41f80f65 ("mtd: rawnand: Use the new ECC engine type enumeration")
+ef24f97daac4 ("mtd: rawnand: Separate the ECC engine type and the ECC byte placement")
+e0a564ae0a4b ("mtd: rawnand: Rename the ECC algorithm enumeration items")
+2da45b8f0696 ("mtd: rawnand: Add a kernel doc to the ECC algorithm enumeration")

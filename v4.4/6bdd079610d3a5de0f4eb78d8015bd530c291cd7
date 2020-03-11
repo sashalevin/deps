@@ -1,0 +1,6 @@
+6bdd079610d3 ("dm cache: convert dm_cache_metadata.ref_count from atomic_t to refcount_t")
+629d0a8a1a10 ("dm cache metadata: add "metadata2" feature")
+f177940a8091 ("dm cache metadata: switch to using the new cursor api for loading metadata")
+9567366fefdd ("dm cache metadata: fix READ_LOCK macros and cleanup WRITE_LOCK macros")
+843f0f2e8f52 ("dm cache: bump the target version")
+d14fcf3dd79c ("dm cache: make sure every metadata function checks fail_io")

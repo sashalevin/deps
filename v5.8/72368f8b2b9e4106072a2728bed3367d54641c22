@@ -1,0 +1,4 @@
+72368f8b2b9e ("ibmvnic: account for bufs already saved in indir_buf")
+e552aa313bba ("ibmvnic: Use netdev_alloc_skb instead of alloc_skb to replenish RX buffers")
+4f0b6812e9b9 ("ibmvnic: Introduce batched RX buffer descriptor transmission")
+f3ae59c0c015 ("ibmvnic: store RX and TX subCRQ handle array in ibmvnic_adapter struct")

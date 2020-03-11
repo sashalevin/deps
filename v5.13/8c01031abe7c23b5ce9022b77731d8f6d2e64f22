@@ -1,0 +1,4 @@
+8c01031abe7c ("pwm: ntxec: Make use of devm_pwmchip_alloc() function")
+250b4ca0c9d6 ("pwm: ntxec: Drop a write-only variable from driver data")
+9c3fac7aaf27 ("pwm: ntxec: Simplify using devm_pwmchip_add()")
+97966ade662e ("pwm: ntxec: Drop useless assignment to struct pwmchip::base")

@@ -1,0 +1,8 @@
+1e6a93cf7497 ("ASoC: soc-dai: add mark for snd_soc_dai_compr_startup/shutdown()")
+15a7b8c13653 ("ASoC: soc-compress: move soc_compr_free() next to soc_compr_open()")
+dbde5e21140c ("ASoC: soc-component: add snd_soc_component_compr_free()")
+a4e427c59a26 ("ASoC: soc-component: add snd_soc_component_compr_open()")
+7428d8c8bd79 ("ASoC: soc-compress: assume SNDRV_PCM_STREAM_xxx and SND_COMPRESS_xxx are same")
+eb84959ab8c0 ("ASoC: soc-compress: tidyup STREAM vs COMPRESS")
+c304c9acb6e6 ("ASoC: soc-dai: add mark for snd_soc_dai_hw_params/free()")
+ab49436eecf5 ("ASoC: soc-pcm: move soc_pcm_hw_free() next to soc_pcm_hw_params()")

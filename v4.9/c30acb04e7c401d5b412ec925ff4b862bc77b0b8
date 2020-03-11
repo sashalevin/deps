@@ -1,0 +1,6 @@
+c30acb04e7c4 ("drm/i915: Cancel reset preparations on failed resets")
+e34b0345e6a5 ("drm/i915/icl: Add reset control register changes")
+a3662830e1e1 ("drm/i915/guc: Fix sleep under spinlock during reset")
+e3895af8bb12 ("drm/i915: Rename gen8_(un)request_engine_reset to gen8_reset_engine_start/cancel")
+1d1a9774e404 ("drm/i915: Extend intel_wait_for_register_fw() with fast timeout")
+d769ab182771 ("drm/i915: Fix type of timeout_ms parameter in intel_wait_for_register_fw()")

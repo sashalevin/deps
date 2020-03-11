@@ -1,0 +1,7 @@
+bd2e82bd4f48 ("hwmon: (nct6775) Add read-only mode")
+3c7e4935d468 ("hwmon: (nct6775) Rearrange attr-group initialization")
+4ef2774511dc ("hwmon: (nct6775) Convert register access to regmap API")
+b68437ace4b8 ("hwmon: (nct6775) add support for TSI temperature registers")
+3fbbfc27f955 ("hwmon: (nct6775) Support access via Asus WMI")
+4914036eb66b ("hwmon: (nct6775) Use nct6775_*() function pointers in nct6775_data.")
+2e7b9886968b ("hwmon: (nct6775) Use superio_*() function pointers in sio_data.")

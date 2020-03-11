@@ -1,0 +1,6 @@
+5b2cacceb7a8 ("i2c: designware-baytrail: Acquire P-Unit access on bus acquire")
+086cb4afef45 ("i2c: designware-baytrail: Disallow the CPU to enter C6 or C7 while holding the punit semaphore")
+e234ed2f06fa ("i2c: designware-baytrail: Only check iosf_mbi_available() for shared hosts")
+62aee937535f ("i2c: designware-baytrail: Pass dw_i2c_dev into helper functions")
+f06122f0bdd0 ("i2c: designware: Consolidate default functionality bits")
+c3ae106050b9 ("i2c: designware: Implement support for SMBus block read and write")

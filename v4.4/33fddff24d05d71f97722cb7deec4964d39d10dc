@@ -1,0 +1,5 @@
+33fddff24d05 ("tracing: Have trace_buffer_unlock_commit() call the _regs version with NULL")
+fa66ddb870ca ("tracing: Move trace_buffer_unlock_commit{_regs}() to local header")
+65da9a0a3bf2 ("tracing: Make filter_check_discard() local")
+dad56ee742a3 ("tracing: Move event_trigger_unlock_commit{_regs}() to local header")
+c4a5923055c9 ("tracing: Add event record param to trigger_ops.func()")

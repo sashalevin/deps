@@ -1,0 +1,3 @@
+7b87324112df ("random: use IS_ENABLED(CONFIG_NUMA) instead of ifdefs")
+f7e67b8e8031 ("random: fix crash on multiple early calls to add_bootloader_randomness()")
+5d73d1e320c3 ("random: fix data race on crng_node_pool")

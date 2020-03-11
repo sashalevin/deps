@@ -1,0 +1,7 @@
+88702793c5b4 ("s390/os_info: Introduce value entries")
+3a74f44de2c9 ("s390/checksum: provide and use cksm() inline assembly")
+4ce69fcf17d0 ("s390/checksum: call instrument_read() instead of kasan_check_read()")
+31e9ccc67ce2 ("s390/ipl: add REIPL_CLEAR flag to os_info")
+bac30ea9ef80 ("s390/ipl: fix physical-virtual confusion for diag308")
+11018ef90ce7 ("s390/checksum: remove not needed uaccess.h include")
+e42ac7789df6 ("s390/checksum: always use cksm instruction")

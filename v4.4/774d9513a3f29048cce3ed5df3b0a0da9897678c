@@ -1,0 +1,2 @@
+774d9513a3f2 ("nfs: replace d_add with d_splice_alias in atomic_open")
+d20cb71dbf34 ("make nfs_atomic_open() call d_drop() on all ->open_context() errors.")

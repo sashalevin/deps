@@ -1,0 +1,7 @@
+80b1bfe1cb2f ("efi/libstub: Don't parse overlong command lines")
+04b24409b42a ("efi/libstub: Use snprintf with %ls to convert the command line")
+15c316bcbc23 ("efi/libstub: Get the exact UTF-8 length")
+2c7d1e30e588 ("efi/libstub: Add a basic printf implementation")
+0b7673538022 ("efi/libstub: Include dependencies of efistub.h")
+685d8164b5da ("efi/libstub: Move efi_relocate_kernel() into separate source file")
+43b1df0e013c ("efi/libstub: Add API function to allocate aligned memory")

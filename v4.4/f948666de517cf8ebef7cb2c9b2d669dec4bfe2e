@@ -1,0 +1,8 @@
+f948666de517 ("locking/barriers, kcsan: Add instrumentation for barriers")
+3347acc6fcd4 ("compiler.h: fix barrier_data() on clang")
+93fab07c2293 ("locking/barriers: Remove definitions for [smp_]read_barrier_depends()")
+e506ea451254 ("compiler.h: Split {READ,WRITE}_ONCE definitions out into rwonce.h")
+eb73876c7431 ("compiler.h: Move function attributes to compiler_types.h")
+44b97dccb229 ("compiler.h: Remove data_race() and unnecessary checks from {READ,WRITE}_ONCE()")
+e3b779d9ebe8 ("kcsan: Remove 'noinline' from __no_kcsan_or_inline")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

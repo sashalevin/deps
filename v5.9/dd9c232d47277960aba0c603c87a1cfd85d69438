@@ -1,0 +1,7 @@
+dd9c232d4727 ("spi: spi-zynqmp-gqspi: Add two chip select support")
+13262fc26c18 ("spi: spi-zynqmp-gqspi: Handle error for dma_set_mask")
+126bdb606fd2 ("spi: spi-zynqmp-gqspi: return -ENOMEM if dma_map_single fails")
+41d310930084 ("spi: spi-zynqmp-gqspi: fix incorrect operating mode in zynqmp_qspi_read_op")
+f09a433b1e40 ("spi: spi-zynqmp-gqspi: Fix incorrect indentation")
+1c26372e5aa9 ("spi: spi-zynqmp-gqspi: Update driver to use spi-mem framework")
+91af6eb04a6b ("spi: spi-zynqmp-gqspi: Fix kernel-doc warnings")

@@ -1,0 +1,5 @@
+63981561ffd2 ("smb: client: fix potential UAF in smb2_is_network_name_deleted()")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+8abcaeaed381 ("cifs: always iterate smb sessions using primary channel")

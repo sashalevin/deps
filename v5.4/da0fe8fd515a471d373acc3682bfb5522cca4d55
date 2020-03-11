@@ -1,0 +1,7 @@
+da0fe8fd515a ("ASoC: SOF: pcm: fix pm_runtime imbalance in error handling")
+4ea3bfd13a24 ("ASoC: SOF: pcm: use pm_resume_and_get() on component probe")
+ee1e79b72e3c ("ASoC: SOF: partition audio-related parts from SOF core")
+8c583f526ee9 ("ASoC: SOF: core: move check for runtime callbacks to core")
+3e62579436c6 ("ASoC: SOF: core: modify the signature for snd_sof_create_page_table")
+78fd4ffd75ee ("ASoC: SOF: topology: remove snd_sof_init_topology()")
+1b4efdaf6d60 ("ASoC: SOF: topology: free kcontrol memory on error")

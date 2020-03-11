@@ -1,0 +1,7 @@
+6cd0dd934b03 ("kcov: Add interrupt handling self test")
+74d899098854 ("kcov: kmsan: unpoison area->list in kcov_remote_area_put()")
+5ff3b30ab57d ("kcov: collect coverage from interrupts")
+5fe7042dc0a2 ("kcov: use t->kcov_mode as enabled indicator")
+76484b1c7724 ("kcov: move t->kcov assignments into kcov_start/stop")
+67b3d3cca385 ("kcov: fix potential use-after-free in kcov_remote_start")
+3c61df3885e9 ("kcov: cleanup debug messages")

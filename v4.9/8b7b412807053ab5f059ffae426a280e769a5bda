@@ -1,0 +1,4 @@
+8b7b41280705 ("jump_label: Split out code under the hotplug lock")
+1dbb6704de91 ("jump_label: Fix concurrent static_key_enable/disable()")
+f2545b2d4ce1 ("jump_label: Reorder hotplug lock and jump_label_lock")
+3821fd35b58d ("jump_label: Reduce the size of struct static_key")

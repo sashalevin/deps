@@ -1,0 +1,8 @@
+4b4ecd9cb853 ("vt: Perform safe console erase only once")
+bcd375f7f71f ("console: Add callback to flush scrollback buffer to consw struct")
+42acfc6615f4 ("tty: vt, fix bogus division in csi_J")
+6ca8dfd78187 ("tty: vt, convert more macros to functions")
+6af39ed30264 ("tty: vt, drop VT_BUF_VRAM_ONLY")
+709280da6238 ("tty: vt, consw->con_set_palette cleanup")
+97293de97736 ("tty: vt, consw->con_scrolldelta cleanup")
+8ede5cce4f0b ("tty: vt, make color_table const")

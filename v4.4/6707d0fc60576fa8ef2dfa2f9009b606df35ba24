@@ -1,0 +1,3 @@
+6707d0fc6057 ("ptrace: Remove second setting of PT_SEIZED in ptrace_attach")
+bfedb589252c ("mm: Add a user_ns owner to mm_struct and fix ptrace permission checks")
+caaee6234d05 ("ptrace: use fsuid, fsgid, effective creds for fs access checks")

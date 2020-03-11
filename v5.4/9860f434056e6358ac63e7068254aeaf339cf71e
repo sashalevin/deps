@@ -1,0 +1,5 @@
+9860f434056e ("nilfs2: eliminate the shared counter and spinlock for i_generation")
+610a2a3d7d8b ("nilfs2: fix shift-out-of-bounds/overflow in nilfs_sb2_bad_offset()")
+10c5db286452 ("fs: move the fiemap definitions out of fs.h")
+44ebcd06bbb3 ("fs: mark __generic_block_fiemap static")
+8bd0d701445e ("cifs: add support for fallocate mode 0 for non-sparse files")

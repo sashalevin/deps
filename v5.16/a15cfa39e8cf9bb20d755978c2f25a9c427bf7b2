@@ -1,0 +1,7 @@
+a15cfa39e8cf ("kunit: tool: make --raw_output=kunit (aka --raw_output) preserve leading spaces")
+baa333150327 ("kunit: tool: more descriptive metavars/--help output")
+ad659ccb5412 ("kunit: tool: Default --jobs to number of CPUs")
+1ee2ba89bea8 ("kunit: tool: make `build` subcommand also reconfigure if needed")
+db1679813f9f ("kunit: tool: use dataclass instead of collections.namedtuple")
+9f57cc76eccc ("kunit: tool: add --kconfig_add to allow easily tweaking kunitconfigs")
+98978490ccf7 ("kunit: tool: move Kconfig read_from_file/parse_from_string to package-level")

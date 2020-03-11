@@ -1,0 +1,4 @@
+3264631548b1 ("swap: rename SWP_FS to SWAP_FS_OPS to avoid ambiguity")
+7b37e22675df ("mm/page_io: mark various intentional data races")
+8fd2e0b505d1 ("mm: swap: check if swap backing device is congested or not")
+bc4ae27d817a ("mm: split SWP_FILE into SWP_ACTIVATED and SWP_FS")

@@ -1,0 +1,3 @@
+d4111eecdc3c ("mm: use a folio in __collapse_huge_page_copy_succeeded()")
+35668a432146 ("mm/khugepaged: page_remove_rmap() -> folio_remove_rmap_pte()")
+1043173eb5eb ("mm/khugepaged: collapse_pte_mapped_thp() with mmap_read_lock()")

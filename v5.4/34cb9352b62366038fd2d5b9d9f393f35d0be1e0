@@ -1,0 +1,7 @@
+34cb9352b623 ("gpiolib: of: factor out quirk setting polarity via separate property")
+99d18d42c942 ("gpiolib: of: add a quirk for reset line polarity for Himax LCDs")
+e3186e36925f ("gpiolib: of: factor out code overriding gpio line polarity")
+e6ae9a833ef4 ("gpiolib: constify passed device_node pointer")
+0f7c815d83a2 ("mmc: core: Rework cd-gpio handling")
+9073d10b0989 ("mmc: core: Rework wp-gpio handling")
+228fc0104070 ("gpio: of: don't warn if ignored GPIO flag matches the behavior")

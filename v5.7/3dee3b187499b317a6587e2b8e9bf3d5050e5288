@@ -1,0 +1,6 @@
+3dee3b187499 ("KVM: x86: Drop now-superflous setting of l1tf_flush_l1d in vcpu_run()")
+ee605e315633 ("KVM: x86: "Reset" vcpu->run->exit_reason early in KVM_RUN")
+8d25b7beca7e ("KVM: x86: pull kvm->srcu read-side to kvm_arch_vcpu_ioctl_run")
+98c25ead5eda ("KVM: VMX: Move preemption timer <=> hrtimer dance to common x86")
+d76fb40637fc ("KVM: VMX: Handle PI descriptor updates during vcpu_put/load")
+4f5a884fc212 ("Merge branch 'kvm-pi-raw-spinlock' into HEAD")

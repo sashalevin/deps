@@ -1,0 +1,3 @@
+6f6544f27e41 ("dax/bus.c: fix locking for unregister_dax_dev / unregister_dax_mapping paths")
+c14c647bbe23 ("dax/bus.c: replace WARN_ON_ONCE() with lockdep asserts")
+c05ae9d85b47 ("dax/bus.c: replace driver-core lock usage by a local rwsem")

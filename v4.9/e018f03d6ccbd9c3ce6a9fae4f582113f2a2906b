@@ -1,0 +1,4 @@
+e018f03d6ccb ("scsi: libiscsi: Move ehwait initialization to iscsi_session_setup()")
+ec29d0ac29be ("scsi: iscsi: Fix conn use after free during resets")
+a17037e7d590 ("scsi: libiscsi: fix possible NULL pointer dereference in case of TMF")
+2c4b9637b69c ("scsi: libiscsi: Convert timers to use timer_setup()")

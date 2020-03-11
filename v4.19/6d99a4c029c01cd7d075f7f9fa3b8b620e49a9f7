@@ -1,0 +1,4 @@
+6d99a4c029c0 ("mm: no more EINVAL from /proc/sys/vm/stat_refresh")
+76d8cc3c8f45 ("mm: restore node stat checking in /proc/sys/vm/stat_refresh")
+9d7ea9a297e6 ("mm/vmstat: add helpers to get vmstat item names for each enum type")
+f0ecf25a093f ("mm/vmstat.c: assert that vmstat_text is in sync with stat_items_size")

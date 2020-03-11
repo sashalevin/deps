@@ -1,0 +1,4 @@
+028568d84da3 ("kbuild: revert $(realpath ...) to $(shell cd ... && /bin/pwd)")
+8e9b46679923 ("kbuild: use $(abspath ...) instead of $(shell cd ... && /bin/pwd)")
+e572d0887137 ("tools build: Add tools tree support for 'make -s'")
+e17cf3a80d4b ("tools: Support relative directory path for 'O='")

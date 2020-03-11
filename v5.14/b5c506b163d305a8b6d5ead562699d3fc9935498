@@ -1,0 +1,7 @@
+b5c506b163d3 ("gpio: 104-dio-48e: Implement struct dio48e_gpio")
+b961b2aa2f64 ("gpio: 104-dio-48e: Utilize mask_buf_def in handle_mask_sync() callback")
+2f7e845f512f ("gpio: 104-dio-48e: Migrate to the regmap-irq API")
+35f0aa7727b0 ("gpio: 104-dio-48e: Make irq_chip immutable")
+71b7b3972590 ("gpio: 104-dio-48e: Implement and utilize register structures")
+e993e2360589 ("gpio: 104-dio-48e: Utilize iomap interface")
+dbd1c54fc820 ("gpio: Bulk conversion to generic_handle_domain_irq()")

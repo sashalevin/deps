@@ -1,0 +1,8 @@
+7eec97b32e0b ("powerpc/book3s: Add missing <linux/sched.h> include")
+3b47b7549ead ("powerpc/book3s64/kuap: Move KUAP related function outside radix")
+39df17bc2005 ("powerpc/book3s64/kuap/kuep: Move uamor setup to pkey init")
+227ae625522c ("powerpc/book3s64/kuap/kuep: Add PPC_PKEY config on book3s64")
+b6b79dd53082 ("powerpc/64s: Fix allnoconfig build since uaccess flush")
+178d52c6e89c ("powerpc: Only include kup-radix.h for 64-bit Book3S")
+9a32a7e78bd0 ("powerpc/64s: flush L1D after user accesses")
+f79643787e0a ("powerpc/64s: flush L1D on kernel entry")

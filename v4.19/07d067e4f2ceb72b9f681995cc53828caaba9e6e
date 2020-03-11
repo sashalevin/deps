@@ -1,0 +1,3 @@
+07d067e4f2ce ("kasan: fix sleeping function called from invalid context on RT kernel")
+31fa985b4196 ("kasan: prevent cpu_quarantine corruption when CPU offline and cache shrink occur at same time")
+026d1eaf5ef1 ("mm/kasan/quarantine.c: make quarantine_lock a raw_spinlock_t")

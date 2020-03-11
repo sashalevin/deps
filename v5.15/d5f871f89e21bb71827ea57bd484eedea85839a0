@@ -1,0 +1,6 @@
+d5f871f89e21 ("ALSA: usb-audio: Improved lowlatency playback support")
+d215f63d49da ("ALSA: usb-audio: Check available frames for the next packet size")
+bceee7538755 ("ALSA: usb-audio: Disable low-latency mode for implicit feedback sync")
+e581f1cec4f8 ("ALSA: usb-audio: Disable low-latency playback for free-wheel mode")
+9c9a3b9da891 ("ALSA: usb-audio: Rename early_playback_start flag with lowlatency_playback")
+86a42ad07905 ("ALSA: usb-audio: Fix possible race at sync of urb completions")

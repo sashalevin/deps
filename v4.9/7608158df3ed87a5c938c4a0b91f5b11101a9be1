@@ -1,0 +1,8 @@
+7608158df3ed ("PCI: Fix missing bridge dma_ranges resource list cleanup")
+3bbce5317887 ("PCI: Fix devm_pci_alloc_host_bridge() memory leak")
+5c3f18cce083 ("PCI: Add devm_pci_alloc_host_bridge() interface")
+dff79b91b8f3 ("PCI: Add pci_free_host_bridge() interface")
+490cb6ddb17d ("PCI: Implement devm_pci_remap_cfgspace()")
+a52d1443bba1 ("PCI: Export host bridge registration interface")
+5909406598d9 ("PCI: Allow driver-specific data in host bridge")
+37d6a0a6f470 ("PCI: Add pci_register_host_bridge() interface")

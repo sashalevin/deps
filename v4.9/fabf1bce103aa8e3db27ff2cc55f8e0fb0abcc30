@@ -1,0 +1,8 @@
+fabf1bce103a ("ixgbe: Prevent unsupported configurations with XDP")
+38b7e7f8ae82 ("ixgbe: Do not allow LRO or MTU change with XDP")
+3335915d07f7 ("ixgbe/fm10k: Only support macvlan offload for types that support destination filtering")
+a8e87d9f7371 ("ixgbe: Default to 1 pool always being allocated")
+5c11f00ddac2 ("ixgbe: do not use adapter->num_vfs when setting VFs via module parameter")
+da614d042ac2 ("ixgbe: return early instead of wrap block in if statement")
+2bc0972988c7 ("ixgbe: move num_vfs_macvlans allocation into separate function")
+b5d8acbb8781 ("ixgbe: Avoid Tx hang by not allowing more than the number of VFs supported.")

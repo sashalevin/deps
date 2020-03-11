@@ -1,0 +1,7 @@
+e7bed88e0530 ("net/smc: remove unneeded atomic operations in smc_tx_sndbuf_nonempty")
+dcd2cf5f2fc0 ("net/smc: add autocorking support")
+6900de507cd4 ("net/smc: Call trace_smc_tx_sendmsg when data corked")
+2e13bde13153 ("net/smc: Add comment for smc_tx_pending")
+be9a16cccaef ("net/smc: Cork when sendpage with MSG_SENDPAGE_NOTLAST flag")
+139653bc6635 ("net/smc: Remove corked dealyed work")
+ea785a1a573b ("net/smc: Send directly when TCP_CORK is cleared")

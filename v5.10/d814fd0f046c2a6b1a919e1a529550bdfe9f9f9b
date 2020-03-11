@@ -1,0 +1,5 @@
+d814fd0f046c ("spi: zynqmp-gqspi: Simplify with dev_err_probe()")
+64640f6c972e ("spi: zynqmp-gqspi: Use devm_spi_alloc_host()")
+ca6f114372ae ("spi: zynqmp-gqspi: switch to use modern name")
+c6bdae08012b ("spi: spi-zynqmp-gqspi: fix clk_enable/disable imbalance issue")
+a0f65be6e880 ("spi: spi-zynqmp-gqspi: add mutex locking for exec_op")

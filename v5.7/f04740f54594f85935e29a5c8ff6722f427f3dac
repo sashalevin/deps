@@ -1,0 +1,6 @@
+f04740f54594 ("mm/gup: add FOLL_UNLOCKABLE")
+d64e2dbc33a1 ("mm/gup: simplify the external interface functions and consolidate invariants")
+afa3c33e2684 ("mm/gup: don't call __gup_longterm_locked() if FOLL_LONGTERM cannot be set")
+b2a72dff85fa ("mm/gup: have internal functions get the mmap_read_lock()")
+b5054174ac7c ("mm: move FOLL_* defs to mm_types.h")
+8fa590bf3448 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

@@ -1,0 +1,4 @@
+10929eac4144 ("tty: serial: fsl_lpuart: disable the break condition when shutdown the uart port")
+1d4bd0e4ae4b ("tty: serial: fsl_lpuart: disable Rx/Tx DMA in lpuart32_shutdown()")
+e1d91dda0bd1 ("tty: serial: fsl_lpuart: only enable Idle Line Interrupt for non-dma case")
+4d9ec1c0ced6 ("tty/serial: Migrate fsl_lpuart to use has_sysrq")

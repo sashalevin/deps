@@ -1,0 +1,6 @@
+179b8c97ebf6 ("quota: Fix rcu annotations of inode dquot pointers")
+d0aa72604fbd ("quota: Fix potential NULL pointer dereference")
+7bce48f0fec6 ("quota: simplify drop_dquot_ref()")
+632a9f3acd66 ("quota: check time limit when back out space/inode change")
+78bc3334a69f ("fs/quota: erase unused but set variable warning")
+df15a2a59d0b ("quota: code cleanup for __dquot_alloc_space()")

@@ -1,0 +1,8 @@
+21823fbda552 ("KVM: x86: Invalidate all PGDs for the current PCID on MOV CR3 w/ flush")
+c7313155bf11 ("KVM: x86: Always load PDPTRs on CR3 load for SVM w/o NPT and a PAE guest")
+f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")
+2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")
+4407a797e941 ("KVM: SVM: Enable INVPCID feature on AMD")
+9715092f8d7e ("KVM: X86: Move handling of INVPCID types to x86")
+3f3393b3ce38 ("KVM: X86: Rename and move the function vmx_handle_memory_failure to x86.c")
+bf3c0e5e7102 ("Merge branch 'x86-seves-for-paolo' of https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip into HEAD")

@@ -1,0 +1,7 @@
+fee465150b45 ("i2c: aspeed: Reset the i2c controller when timeout occurs")
+2e57b7cebb98 ("i2c: aspeed: Add multi-master use case support")
+3e9efc3299dd ("i2c: aspeed: Handle master/slave combined irq events properly")
+263fe5d45dcd ("i2c: aspeed: Adjust spinlock scope in the irq handler")
+517fde0eb5a8 ("i2c: aspeed: Fix initial values of master and slave state")
+6bc33c51976c ("i2c: aspeed: Add newline characters into message printings.")
+edd20e95bca4 ("i2c: aspeed: Deassert reset in probe")

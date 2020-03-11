@@ -1,0 +1,5 @@
+5ca14835dc42 ("fs: uninline inode_maybe_inc_iversion()")
+da3f52ba3595 ("iversion: use atomic64_try_cmpxchg)")
+608af703519a ("libfs: Add generic function for setting dentry_ops")
+c843843e714c ("fs: Add standard casefolding support")
+a3d1e7eb5abe ("simple_recursive_removal(): kernel-side rm -rf for ramfs-style filesystems")

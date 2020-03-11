@@ -1,0 +1,5 @@
+ef8969bb552c ("tick: Move broadcast cancellation up to CPUHP_AP_TICK_DYING")
+f04e51220ad5 ("tick: Move tick cancellation up to CPUHP_AP_TICK_DYING")
+3ad6eb0683a1 ("tick: Start centralizing tick related CPU hotplug operations")
+5c0930ccaad5 ("hrtimers: Push pending hrtimers away from outgoing CPU earlier")
+f12ad423c4af ("tick: Remove pointless cpu valid check in hotplug code")

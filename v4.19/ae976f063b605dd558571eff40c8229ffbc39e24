@@ -1,0 +1,7 @@
+ae976f063b60 ("arm64: Add handling of CNTVCTSS traps")
+32a3e635fb0e ("arm64: compat: Add CNTFRQ trap handler")
+50de013d22e4 ("arm64: compat: Add CNTVCT trap handler")
+2a8905e18c55 ("arm64: compat: Add cp15_32 and cp15_64 handler arrays")
+1f1c014035a8 ("arm64: compat: Add condition code checks and IT advance")
+70c63cdfd6ee ("arm64: compat: Add separate CP15 trapping hook")
+bd7ac140b82f ("arm64: Add decoding macros for CP15_32 and CP15_64 traps")

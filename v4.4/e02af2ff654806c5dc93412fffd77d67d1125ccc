@@ -1,0 +1,6 @@
+e02af2ff6548 ("fs: add do_compat_fcntl64() helper; remove in-kernel call to compat syscall")
+94073ad77fff ("fs/locks: don't mess with the address limit in compat_fcntl64")
+80f0cce6aade ("fcntl: move compat syscalls from compat.c")
+4ada54ee7a4b ("statfs: move compat syscalls from compat.c")
+c00d2c7e8988 ("move aio compat to fs/aio.c")
+64d2ab32efe3 ("vfs: fix put_compat_statfs64() does not handle errors")

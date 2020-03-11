@@ -1,0 +1,8 @@
+a4a81d8eebdc ("s390/kdump: Use "LINUX" ELF note name instead of "CORE"")
+1a2c5840acf9 ("s390/dump: cleanup CPU save area handling")
+1a36a39e225d ("s390/dump: rework CPU register dump code")
+f08b8414632c ("s390/dump: remove SAVE_AREA_BASE")
+df9694c7975f ("s390/dump: streamline oldmem copy functions")
+8a07dd02d761 ("s390/kdump: remove code to create ELF notes in the crashed system")
+ffa52d02c50e ("s390/zcore: remove /sys/kernel/debug/zcore/mem")
+bbfed511c262 ("s390/zcore: copy vector registers into the image data")

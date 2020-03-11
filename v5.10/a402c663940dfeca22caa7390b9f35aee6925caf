@@ -1,0 +1,5 @@
+a402c663940d ("clk: at91: clk-sam9x60-pll: re-factor to support individual core freq outputs")
+120d5d8b4614 ("clk: at91: sama7g5: do not allow cpu pll to go higher than 1GHz")
+8dc4af8bef12 ("clk: at91: clk-sam9x60-pll: allow runtime changes for pll")
+83d002877365 ("clk: at91: sama7g5: allow SYS and CPU PLLs to be exported and referenced in DT")
+3d86ee17d467 ("dt-bindings: clock: at91: add sama7g5 pll defines")

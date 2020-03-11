@@ -1,1 +1,5 @@
 016f327ce48f ("perf trace: Fixup pointer arithmetic when consuming augmented syscall args")
+8195168e8779 ("perf trace: Consume the augmented_raw_syscalls payload")
+721f5326fb35 ("perf trace: Enclose strings with double quotes")
+75d1e30681d0 ("perf trace: Use the augmented filename, expanding syscall enter pointers")
+6ccc18a9a17a ("perf trace: Make the augmented_syscalls filter out the tracepoint event")

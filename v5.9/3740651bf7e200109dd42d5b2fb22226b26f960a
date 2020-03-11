@@ -1,0 +1,3 @@
+3740651bf7e2 ("tls: Fix context leak on tls_device_down")
+c55dcdd435aa ("net/tls: Fix use-after-free after the TLS device goes down and up")
+05fc8b6cbd4f ("net/tls: Replace TLS_RX_SYNC_RUNNING with RCU")

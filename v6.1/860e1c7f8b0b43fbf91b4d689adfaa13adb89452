@@ -1,0 +1,6 @@
+860e1c7f8b0b ("io_uring: complete request via task work in case of DEFER_TASKRUN")
+e6aeb2721d3b ("io_uring: complete all requests in task context")
+7500194a630b ("io_uring: reshuffle issue_flags")
+1bec951c3809 ("io_uring: iopoll protect complete_post")
+fa18fa2272c7 ("io_uring: inline __io_req_complete_put()")
+f9d567c75ec2 ("io_uring: inline __io_req_complete_post()")

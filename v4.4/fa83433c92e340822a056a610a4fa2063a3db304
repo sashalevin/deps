@@ -1,0 +1,8 @@
+fa83433c92e3 ("iommu: Add I/O ASID allocator")
+bd3c2e66e4cb ("iommu/iova: Allow compiling the library without IOMMU support")
+58d1131777a4 ("iommu: Add config option to set passthrough as default")
+bad614b24293 ("iommu: Enable debugfs exposure of IOMMU driver internals")
+fccb4e3b8ab0 ("iommu: Allow default domain type to be set on the kernel command line")
+feccf398db63 ("iommu: Simplify and fix ida handling")
+e38d1f1312e4 ("iommu: Simplify init function")
+eebb8034a5be ("iommu: Don't overwrite domain pointer when there is no default_domain")

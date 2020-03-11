@@ -1,0 +1,8 @@
+fd1fd685b308 ("nfsd4: move find_lock_stateid")
+659aefb68eca ("nfsd: Ensure we don't recognise lock stateids after freeing them")
+a15dfcd529ab ("fs, nfsd: convert nfs4_stid.sc_count from atomic_t to refcount_t")
+dd257933fa4b ("nfsd: don't return an unhashed lock stateid after taking mutex")
+42691398be08 ("nfsd: Fix race between FREE_STATEID and LOCK")
+8c7245abda87 ("nfsd: Make init_open_stateid() a bit more whole")
+5cc1fb2a093e ("nfsd: Extend the mutex holding region around in nfsd4_process_open2()")
+feb9dad52092 ("nfsd: Always lock state exclusively.")

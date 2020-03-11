@@ -1,0 +1,5 @@
+d0a3f18a70f2 ("audit: minimize our use of audit_log_format()")
+a2c97da11cdb ("audit: use session_info helper")
+4fa7f0869935 ("audit: simplify audit_enabled check in audit_watch_log_rule_change()")
+ea6eca778500 ("seccomp: Audit attempts to modify the actions_logged sysctl")
+d013db029491 ("seccomp: Separate read and write code for actions_logged sysctl")

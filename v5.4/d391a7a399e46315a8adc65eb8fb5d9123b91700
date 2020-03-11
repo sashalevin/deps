@@ -1,0 +1,7 @@
+d391a7a399e4 ("blk-mq: merge the softirq vs non-softirq IPI logic")
+d6cc464cc584 ("blk-mq: short cut the IPI path in blk_mq_force_complete_rq for !SMP")
+6aab1da603e7 ("blk-mq: complete polled requests directly")
+dea6f3993812 ("blk-mq: remove raise_blk_irq")
+115243f5534c ("blk-mq: factor out a helper to reise the block softirq")
+c3077b5d97a3 ("blk-mq: merge blk-softirq.c into blk-mq.c")
+de678bc63cc6 ("block: Don't disable interrupts in trigger_softirq()")

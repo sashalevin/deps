@@ -1,0 +1,6 @@
+082cdc69a465 ("bpf: Remove misleading spec_v1 check on var-offset stack read")
+01f810ace9ed ("bpf: Allow variable-offset stack access")
+cd17d38f8b28 ("bpf: Permits pointers on stack for helper calls")
+0d004c020b55 ("bpf: Check scalar or invalid register in check_helper_mem_access")
+afbf21dce668 ("bpf: Support readonly/readwrite buffers in verifier")
+41c48f3a9823 ("bpf: Support access to bpf map fields")

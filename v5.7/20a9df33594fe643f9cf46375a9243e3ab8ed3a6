@@ -1,0 +1,5 @@
+20a9df33594f ("netfilter: iptables: unregister the tables by name")
+7716bf090e97 ("netfilter: x_tables: remove ipt_unregister_table")
+57ea5f18882a ("netfilter: ip6tables: Split ip6t_unregister_table() into pre_exit and exit helpers.")
+cf4cbc610bfa ("netfilter: iptables: Add a .pre_exit hook in all iptable_foo.c.")
+1cbf90985f74 ("netfilter: iptables: Split ipt_unregister_table() into pre_exit and exit helpers.")

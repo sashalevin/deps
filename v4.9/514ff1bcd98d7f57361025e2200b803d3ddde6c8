@@ -1,0 +1,7 @@
+514ff1bcd98d ("cpufreq: make interface functions and lock holding state clear")
+d4627a287e25 ("cpufreq: Abort show()/store() for half-initialized policies")
+b24b6478e65f ("cpufreq: Reorder cpufreq_online() error code path")
+2f0ba790df51 ("cpufreq: Fix creation of symbolic links to policy directories")
+ff010472fb75 ("cpufreq: Restore policy min/max limits on CPU online")
+f451014692ae ("cpufreq: Do not clear real_cpus mask on policy init")
+f9f41e3ef99a ("cpufreq: Remove policy create/remove notifiers")

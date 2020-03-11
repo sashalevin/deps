@@ -1,0 +1,6 @@
+006eac3fe20f ("hardening: drop obsolete UBSAN_SANITIZE_ALL from config fragment")
+215199e3d9f3 ("hardening: Provide Kconfig fragments for basic options")
+8b05aa263361 ("panic: Expose "warn_count" to sysfs")
+79cc1ba7badf ("panic: Consolidate open-coded panic_on_warn checks")
+9db89b411170 ("exit: Expose "oops_count" to sysfs")
+d4ccd54d28d3 ("exit: Put an upper limit on how often we can oops")

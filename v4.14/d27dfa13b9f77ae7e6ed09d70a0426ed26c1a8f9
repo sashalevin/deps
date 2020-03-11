@@ -1,0 +1,4 @@
+d27dfa13b9f7 ("parisc: Release spinlocks using ordered store")
+3b885ac1dc35 ("parisc: Remove unnecessary barriers from spinlock.h")
+7797167ffde1 ("parisc: Remove ordered stores from syscall.S")
+fedb8da96355 ("parisc: Define mb() and add memory barriers to assembler unlock sequences")

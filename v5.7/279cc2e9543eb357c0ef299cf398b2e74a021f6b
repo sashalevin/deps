@@ -1,0 +1,8 @@
+279cc2e9543e ("drm: Define DRM_FORMAT_MAX_PLANES")
+6dd7b6ce43ac ("drm: Add additional atomic helpers for shadow-buffered planes")
+be6ee102341b ("drm: remove _unlocked suffix in drm_gem_object_put_unlocked")
+eecd7fd8bf58 ("drm/gem: add _locked suffix to drm_gem_object_put")
+b5d250744ccc ("drm/gem: fold drm_gem_object_put_unlocked and __drm_gem_object_put()")
+1a9458aeb8eb ("drm: remove drm_driver::gem_free_object")
+5b4231fb62f0 ("drm/doc: drop struct_mutex references")
+f2b816d78a94 ("drm/core: Allow drivers allocate a subclass of struct drm_framebuffer")

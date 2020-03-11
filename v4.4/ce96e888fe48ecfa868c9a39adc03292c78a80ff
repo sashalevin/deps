@@ -1,0 +1,6 @@
+ce96e888fe48 ("Fix nfs4.2 return -EINVAL when do dedupe operation")
+2e5dfc99f2e6 ("vfs: combine the clone and dedupe into a single remap_file_range")
+9aae20500d9c ("vfs: skip zero-length dedupe requests")
+1383a7ed6749 ("vfs: check file ranges before cloning files")
+5b49f64db299 ("vfs: vfs_clone_file_prep_inodes should return EINVAL for a clone from beyond EOF")
+4718dcad7dec ("Merge tag 'xfs-fixes-for-4.19-rc7' of git://git.kernel.org/pub/scm/fs/xfs/xfs-linux")

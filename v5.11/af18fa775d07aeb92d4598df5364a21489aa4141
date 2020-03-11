@@ -1,0 +1,7 @@
+af18fa775d07 ("KVM: nSVM: Track the physical cpu of the vmcb vmrun through the vmcb")
+4995a3685f1b ("KVM: SVM: Use a separate vmcb for the nested L2 guest")
+d2df592fd8c6 ("KVM: nSVM: prepare guest save area while is_guest_mode is true")
+a7fc06dd2f14 ("KVM: SVM: use .prepare_guest_switch() to handle CPU register save/setup")
+553cc15f6e8d ("KVM: SVM: remove uneeded fields from host_save_users_msrs")
+e79b91bb3c91 ("KVM: SVM: use vmsave/vmload for saving/restoring additional host state")
+35a7831912f4 ("KVM: SVM: Use asm goto to handle unexpected #UD on SVM instructions")

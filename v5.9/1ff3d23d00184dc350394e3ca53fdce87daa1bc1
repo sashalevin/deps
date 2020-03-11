@@ -1,0 +1,6 @@
+1ff3d23d0018 ("hwmon: sch5627: constify pointers to hwmon_channel_info")
+e7e0b466a848 ("hwmon: (sch5627) Convert to hwmon_device_register_with_info()")
+1f4d4af4d7a1 ("hwmon: replace snprintf in show functions with sysfs_emit")
+db4919ec86ff ("hwmon: (occ) Add new temperature sensor type")
+18e8db7f6526 ("hwmon: (pmbus) Add mutex locking for sysfs reads")
+a919ba06979a ("hwmon: (pmbus) Stop caching register values")

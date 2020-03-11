@@ -1,0 +1,4 @@
+93aaba85bc2b ("media: staging: rkisp1: params: in the isr, return if buffer list is empty")
+581214d3de99 ("media: staging: rkisp1: params: don't release lock in isr before buffer is done")
+c85d0eec3f85 ("media: staging: rkisp1: call params isr only upon frame out")
+f690abdc51ad ("media: staging: rkisp1: don't define vaddr field in rkisp1_buffer as an array")

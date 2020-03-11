@@ -1,0 +1,7 @@
+f90eb70d4489 ("libbpf: Add elf_open/elf_close functions")
+5c742725045a ("libbpf: Move elf_find_func_offset* functions to elf object")
+59842c5451fe ("libbpf: Ensure libbpf always opens files with O_CLOEXEC")
+c44fd8450763 ("libbpf: Add support for attaching uprobes to shared objects in APKs")
+434fdcead735 ("libbpf: Introduce elf_find_func_offset_from_file() function")
+1eebcb60633f ("libbpf: Implement basic zip archive parsing support")
+d1d7730ff875 ("libbpf: Correctly set the kernel code version in Debian kernel.")

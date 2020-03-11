@@ -1,0 +1,5 @@
+46800e38ef0e ("arm64: Kconfig: Fix dependencies to enable ACPI_HOTPLUG_CPU")
+9d0873892f4d ("arm64: Kconfig: Enable hotplug CPU on arm64 if ACPI_PROCESSOR is enabled.")
+1d280ce099db ("arm64: Add architecture specific ACPI FFH Opregion callbacks")
+a509a66a9d0d ("arm64: permit ACPI core to map kernel memory used for table overrides")
+1583052d111f ("arm64/acpi: disallow AML memory opregions to access kernel memory")

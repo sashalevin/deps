@@ -1,0 +1,6 @@
+42d8644bd77d ("xen: Prevent buffer overflow in privcmd ioctl")
+cd9139220b87 ("xen: don't use privcmd_call() from xen_mc_flush()")
+ea08816d5b18 ("x86/retpoline/xen: Convert Xen hypercall indirect jumps")
+c54590cac51d ("x86/xen: allow userspace access during hypercalls")
+ab520be8cd5d ("xen/privcmd: Add IOCTL_PRIVCMD_DM_OP")
+2fbadc3002c5 ("arm/arm64: xen: Move shared architecture headers to include/xen/arm")

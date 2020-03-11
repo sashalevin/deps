@@ -1,0 +1,8 @@
+e4818d615b58 ("clk: fixed-factor: Initialize clk_init_data on stack")
+ecbf3f1795fd ("clk: fixed-factor: Let clk framework find parent")
+f98e8a572bdd ("clk: fixed-factor: fix of_node_get-put imbalance")
+f6dab4233d6b ("clk: clk-fixed-factor: Clear OF_POPULATED flag in case of failure")
+971451b3b15d ("clk: fixed-factor: Convert into a module platform driver")
+e6cbf9984ee7 ("clk: fixed-factor: Allow for a few clocks to change the parent rate")
+0759ac8a73dc ("clk: fixed-factor: Add hw based registration APIs")
+cbf9591f665d ("clk: add clk_unregister_fixed_factor()")

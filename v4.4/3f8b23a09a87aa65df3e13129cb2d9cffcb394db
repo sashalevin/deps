@@ -1,0 +1,3 @@
+3f8b23a09a87 ("mmc: block: fix lockdep splat when removing mmc_block module")
+7c84b8b43d3d ("mmc: block: bypass the queue even if usage is present for hotplug")
+bbdc74dc19e0 ("mmc: block: Prevent new req entering queue after its cleanup")

@@ -1,0 +1,8 @@
+f46a5b0156b1 ("mwifiex: fix compile warning of unused variable")
+045f0c1b5e26 ("mwifiex: get rid of global user_rmmod flag")
+3860e5e39532 ("mwifiex: move pcie_work and related variables inside card")
+41efaf5824e7 ("mwifiex: wait firmware dump complete during card remove process")
+7ccdf72f9128 ("mwifiex: don't pretend to resume while remove()'ing")
+4a79aa17d53e ("mwifiex: resolve races between async FW init (failure) and device removal")
+2e02b5814217 ("mwifiex: Allow mwifiex early access to device structure")
+6b4480d109b0 ("mwifiex: parse device tree node for PCIe")

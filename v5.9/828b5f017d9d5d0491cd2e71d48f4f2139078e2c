@@ -1,0 +1,5 @@
+828b5f017d9d ("block: remove __blk_get_queue")
+0281ed3cf44d ("block: move blk_get_flush_queue to blk-flush.c")
+a9ed27a76415 ("blk-mq: fix is_flush_rq")
+2e315dc07df0 ("blk-mq: grab rq->refcount before calling ->fn in blk_mq_tagset_busy_iter")
+32bc15afed04 ("blk-mq: Facilitate a shared sbitmap per tagset")

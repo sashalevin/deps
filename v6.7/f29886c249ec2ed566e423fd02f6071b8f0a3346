@@ -1,0 +1,6 @@
+f29886c249ec ("nvme: fix max_discard_sectors calculation")
+a4be9679aa3e ("nvme: also skip discard granularity updates in nvme_config_discard")
+d3074e9a73e3 ("nvme: update the explanation for not updating the limits in nvme_config_discard")
+d386aedc94ef ("nvme: refactor ns info setup function")
+0372dd4e3617 ("nvme: refactor ns info helpers")
+9419e71b8d67 ("nvme: move ns id info to struct nvme_ns_head")

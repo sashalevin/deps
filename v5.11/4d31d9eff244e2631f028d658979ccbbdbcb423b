@@ -1,0 +1,6 @@
+4d31d9eff244 ("KVM: x86: Pass emulation type to can_emulate_instruction()")
+3c0c2ad1ae75 ("KVM: VMX: Add basic handling of VM-Exit from SGX enclave")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

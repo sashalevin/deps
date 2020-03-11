@@ -1,0 +1,6 @@
+0967bf837784 ("ixgbe: add double of VLAN header when computing the max MTU")
+f9cd6a4418ba ("ixgbe: allow to increase MTU to 3K with XDP enabled")
+fabf1bce103a ("ixgbe: Prevent unsupported configurations with XDP")
+38b7e7f8ae82 ("ixgbe: Do not allow LRO or MTU change with XDP")
+3335915d07f7 ("ixgbe/fm10k: Only support macvlan offload for types that support destination filtering")
+a8e87d9f7371 ("ixgbe: Default to 1 pool always being allocated")

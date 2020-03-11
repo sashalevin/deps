@@ -1,0 +1,8 @@
+2666067fdba2 ("mtd: spi-nor: Check that BP bits are set properly")
+3dd8012a8eeb ("mtd: spi-nor: add TB (Top/Bottom) protect support")
+76a4707de5e1 ("mtd: spi-nor: add SPI_NOR_HAS_LOCK flag")
+0618114e2c5d ("mtd: spi-nor: use BIT() for flash_info flags")
+47b8edbf0d43 ("mtd: spi-nor: disallow further writes to SR if WP# is low")
+f8860802da84 ("mtd: spi-nor: make lock/unlock bounds checks more obvious and robust")
+4c0dba447ef4 ("mtd: spi-nor: silently drop lock/unlock for already locked/unlocked region")
+32321e950d8a ("mtd: spi-nor: wait until lock/unlock operations are ready")

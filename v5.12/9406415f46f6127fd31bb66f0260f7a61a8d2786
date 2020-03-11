@@ -1,0 +1,5 @@
+9406415f46f6 ("sched/debug: Rename the sched_debug parameter to sched_verbose")
+1011dcce99f8 ("sched,preempt: Move preempt_dynamic to debug.c")
+8a99b6833c88 ("sched: Move SCHED_DEBUG sysctl to debugfs")
+1d1c2509de44 ("sched: Remove sched_schedstats sysctl out from under SCHED_DEBUG")
+b7cc6ec744b3 ("sched/numa: Allow runtime enabling/disabling of NUMA balance without SCHED_DEBUG")

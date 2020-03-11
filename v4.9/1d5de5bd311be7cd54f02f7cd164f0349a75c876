@@ -1,0 +1,6 @@
+1d5de5bd311b ("scsi: sd: Quiesce warning if device does not report optimal I/O size")
+a83da8a4509d ("scsi: sd: Optimal I/O size should be a multiple of physical block size")
+77082ca503be ("scsi: sd: Do not override max_sectors_kb sysfs setting")
+d80210f25ff0 ("sd: add support for TCG OPAL self encrypting disks")
+7a38dc0bfb4c ("scsi: scsi_error: count medium access timeout only once per EH run")
+89d947561077 ("sd: Implement support for ZBC devices")

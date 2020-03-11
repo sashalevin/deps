@@ -1,0 +1,8 @@
+978030f054ff ("powerpc/powernv: rename remaining rng powernv_ functions to pnv_")
+7ef3d06f1bc4 ("powerpc/powernv/kvm: Use darn for H_RANDOM on Power9")
+90b5d4fe0b3b ("powerpc/powernv: Avoid crashing if rng is NULL")
+887502826549 ("powerpc/powernv: delay rng platform device creation until later in boot")
+f3eac426657d ("powerpc/powernv: wire up rng during setup_arch")
+dcbac73a5b37 ("KVM: PPC: Book3S HV: Remove virt mode checks from real mode handlers")
+3b70464aa789 ("powerpc/powernv: Staticify functions without prototypes")
+7769a3394bdf ("powerpc/kvm/book3s: use find_kvm_host_pte in pute_tce functions")

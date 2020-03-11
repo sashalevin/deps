@@ -1,0 +1,8 @@
+7819a1f6ac03 ("io_uring: refactor io_req_find_next")
+de9b4ccad750 ("io_uring: wrap io_kiocb reference count manipulation in helpers")
+8c3f9cd1603d ("io_uring: use better types for cflags")
+37d1e2e3642e ("io_uring: move SQPOLL thread io-wq forked worker")
+44526bedc2ff ("io_uring: remove any grabbing of context")
+5aa75ed5b93f ("io_uring: tie async worker side to the task context")
+d25e3a3de0d6 ("io_uring: disable io-wq attaching")
+27131549060e ("Merge branch 'for-5.12/io_uring' into io_uring-worker.v3")

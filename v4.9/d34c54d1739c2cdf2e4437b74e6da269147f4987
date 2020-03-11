@@ -1,0 +1,6 @@
+d34c54d1739c ("i40e: Use irq_update_affinity_hint()")
+be664cbefc50 ("i40e/i40evf: spread CPU affinity hints across online CPUs only")
+759dc4a7e605 ("i40e: initialize our affinity_mask based on cpu_possible_mask")
+ba4460d45a6e ("i40e: remove workaround for resetting XPS")
+696ac80aa11f ("i40evf: fix possible snprintf truncation of q_vector->name")
+96db776a3682 ("i40e/i40evf: fix interrupt affinity bug")

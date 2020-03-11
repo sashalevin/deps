@@ -1,0 +1,6 @@
+50fe7547b637 ("can: m_can: fix whitespace in a few comments")
+0f3157166891 ("can: m_can: make TXESC, RXESC config more explicit")
+38395f302f4d ("can: m_can: clean up CCCR reg defs, order by revs")
+20779943a080 ("can: m_can: use bits.h macros for all regmasks")
+1be37d3b0414 ("can: m_can: fix periph RX path: use rx-offload to ensure skbs are sent from softirq context")
+17447f08202d ("can: m_can: add infrastructure for internal timestamps")

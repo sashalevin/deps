@@ -1,0 +1,6 @@
+5657c1167835 ("sched/core: Fix NULL pointer access fault in sched_setaffinity() with non-SMP configs")
+9a5418bc48ba ("sched/core: Use kfree_rcu() in do_set_cpus_allowed()")
+87ca4f9efbd7 ("sched/core: Fix use-after-free bug in dup_user_cpus_ptr()")
+851a723e45d1 ("sched: Always clear user_cpus_ptr in do_set_cpus_allowed()")
+8f9ea86fdf99 ("sched: Always preserve the user requested cpumask")
+713a2e21a513 ("sched: Introduce affinity_context")

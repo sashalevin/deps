@@ -1,0 +1,7 @@
+dbb6ecb328cb ("btrfs: tracepoints: simplify raid56 events")
+5eb30ee26fa4 ("btrfs: raid56: introduce the main entrance for RMW path")
+6486d21c99cb ("btrfs: raid56: extract rwm write bios assembly into a helper")
+509c27aa2fb6 ("btrfs: raid56: extract the rmw bio list build code into a helper")
+d817ce35d24a ("btrfs: raid56: switch recovery path to a single function")
+d31968d9b6ac ("btrfs: raid56: extract the recovery bio list build code into a helper")
+30e3c897f4a8 ("btrfs: raid56: extract the pq generation code into a helper")

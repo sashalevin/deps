@@ -1,0 +1,8 @@
+e937b8da5a59 ("mac80211: Add TXQ scheduling API")
+979e1f08042b ("mac80211: agg-tx: call drv_wake_tx_queue in proper context")
+a6e56d749f1b ("ath9k: clean up and fix ath_tx_count_airtime")
+63fefa050477 ("ath9k: Introduce airtime fairness scheduling between stations")
+50f08edf9809 ("ath9k: Switch to using mac80211 intermediate software queues.")
+bb42f2d13ffc ("mac80211: Move reorder-sensitive TX handlers to after TXQ dequeue")
+e0e2effff5e1 ("mac80211: Move ieee802111_tx_dequeue() to later in tx.c")
+c13ed534b8db ("Merge tag 'mac80211-next-for-davem-2016-09-16' of git://git.kernel.org/pub/scm/linux/kernel/git/jberg/mac80211-next")

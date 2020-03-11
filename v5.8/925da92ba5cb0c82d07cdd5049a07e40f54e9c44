@@ -1,0 +1,6 @@
+925da92ba5cb ("rcu: Avoid unneeded function call in rcu_read_unlock()")
+aa40c138cc8f ("rcu: Report QS for outermost PREEMPT=n rcu_read_unlock() for strict GPs")
+53c72b590b3a ("rcu/tree: cache specified number of objects")
+952371d6fc0b ("rcu/tree: Move kfree_rcu_cpu locking/unlocking to separate functions")
+446044eb9c9c ("rcu/tree: Make debug_objects logic independent of rcu_head")
+8ac88f7177c7 ("rcu/tree: Keep kfree_rcu() awake during lock contention")

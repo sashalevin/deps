@@ -1,0 +1,8 @@
+a765ed47e451 ("PCI: hv: Fix synchronization between channel callback and hv_compose_msi_msg()")
+de5ddb7d4434 ("PCI: hv: Use vmbus_requestor to generate transaction IDs for VMbus hardening")
+240ad77cb50d ("PCI: hv: Prepare hv_compose_msi_msg() for the VMBus-channel-interrupt-to-vCPU reassignment functionality")
+ac82fc832708 ("PCI: hv: Add hibernation support")
+4df591b20b80 ("PCI: hv: Fix a use-after-free bug in hv_eject_device_work()")
+35a88a18d7ea ("PCI: hv: Disable/enable IRQs rather than BH in hv_compose_msi_msg()")
+6e0832fa432e ("PCI: Collect all native drivers under drivers/pci/controller/")
+e52d38f4abf4 ("Merge branch 'lorenzo/pci/rockchip'")

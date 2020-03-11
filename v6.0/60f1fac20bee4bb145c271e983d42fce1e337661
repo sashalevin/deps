@@ -1,0 +1,7 @@
+60f1fac20bee ("ACPI: video: Add a few bugtracker links to DMI quirks")
+c2d6920e9877 ("ACPI: video: Fix indentation of video_detect_dmi_table[] entries")
+8991d7d9add0 ("platform/x86: samsung-laptop: Move acpi_backlight=[vendor|native] quirks to ACPI video_detect.c")
+1e3344d6f2b3 ("platform/x86: asus-wmi: Move acpi_backlight=native quirks to ACPI video_detect.c")
+52796b304a51 ("platform/x86: asus-wmi: Move acpi_backlight=vendor quirks to ACPI video_detect.c")
+2603c681e0f6 ("platform/x86: asus-wmi: Drop DMI chassis-type check from backlight handling")
+0172df18dc43 ("platform/x86: acer-wmi: Move backlight DMI quirks to acpi/video_detect.c")

@@ -1,0 +1,5 @@
+ac1bc5f957c1 ("ata: sata_dwc_460ex: Convert to platform remove callback returning void")
+f1550f27f8a9 ("ata: sata_dwc_460ex: Use temporary variable for struct device")
+f713961de505 ("ata: sata_dwc_460ex: Use devm_platform_*ioremap_resource() APIs")
+3ad4a3162035 ("ata: sata_dwc_460ex: No need to call phy_exit() befre phy_init()")
+47e46613d84d ("ata: sata_dwc_460ex: Propagate platform device ID to DMA driver")

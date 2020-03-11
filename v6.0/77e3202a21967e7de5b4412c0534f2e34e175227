@@ -1,0 +1,5 @@
+77e3202a2196 ("io_uring: don't reinstall quiesce node for each tw")
+0ced756f6412 ("io_uring: improve rsrc quiesce refs checks")
+ef67fcb41de6 ("io_uring: do not always force run task_work in io_uring_register")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

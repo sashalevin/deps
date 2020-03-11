@@ -1,0 +1,8 @@
+23fc8df26dea ("rcu/rcuscale: Stop kfree_scale_thread thread(s) after unloading rcuscale")
+bf5ddd736509 ("rcu/rcuscale: Move rcu_scale_*() after kfree_scale_cleanup()")
+ef1ef3d47677 ("rcuscale: Move shutdown from wait_event() to wait_event_idle()")
+86e7ed1bd57d ("rcuscale: Always log error message")
+811192c5f24b ("rcuscale: Console output claims too few grace periods")
+4e88ec4a9eb1 ("rcuperf: Change rcuperf to rcuscale")
+80c9476e683e ("torture: Add scftorture to the rcutorture scripting")
+6d2b84a4e5b9 ("Merge tag 'sched-fifo-2020-08-04' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

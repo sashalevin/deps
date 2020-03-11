@@ -1,0 +1,8 @@
+c22cf04c6ab1 ("drm/i915/psr: Split sel fetch plane configuration into arm and noarm")
+14ad15296d1f ("drm/i915: Make skl+ universal plane registers unlocked")
+f8a005eb8972 ("drm/i915: Optimize icl+ universal plane programming")
+fee076019d0a ("drm/i915: Nuke pointless middle men for skl+ plane programming")
+4682a6d99638 ("drm/i915: Declutter color key register stuff")
+366714b0883f ("drm/i915: Extract skl_plane_aux_dist()")
+12d7d858e63d ("drm/i915: Use REG_BIT() & co. for universal plane bits")
+71b59439aa03 ("drm/i915: Sipmplify PLANE_STRIDE masking")

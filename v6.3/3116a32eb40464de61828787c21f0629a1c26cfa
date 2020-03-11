@@ -1,0 +1,5 @@
+3116a32eb404 ("rcu: Rename rcu_dynticks_in_eqs_since() into rcu_watching_snap_stopped_since()")
+125716c39388 ("context_tracking, rcu: Rename ct_dynticks_cpu_acquire() into ct_rcu_watching_cpu_acquire()")
+33c0860bf7e7 ("rcu/exp: Remove superfluous full memory barrier upon first EQS snapshot")
+9a7e73c9bedf ("rcu: Remove superfluous full memory barrier upon first EQS snapshot")
+0a5e9bd31e12 ("rcu: Remove full ordering on second EQS snapshot")

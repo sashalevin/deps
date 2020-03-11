@@ -1,0 +1,7 @@
+031a072a0b8a ("vfs: call vfs_clone_file_range() under freeze protection")
+913b86e92e1f ("vfs: allow vfs_clone_file_range() across mount points")
+3616119da484 ("vfs: no mnt_want_write_file() in vfs_{copy,clone}_file_range()")
+ffa0160a1039 ("nfsd: implement the NFSv4.2 CLONE operation")
+04b38d601239 ("vfs: pull btrfs clone API to vfs layer")
+3db11b2eecc0 ("btrfs: add .copy_file_range file operation")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

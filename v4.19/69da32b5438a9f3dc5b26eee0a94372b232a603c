@@ -1,0 +1,7 @@
+69da32b5438a ("irqchip/irq-mvebu-sei: Use devm_platform_get_and_ioremap_resource()")
+fbb80d5ad400 ("irqchip: Remove redundant error printing")
+cfbf9e497094 ("irqchip/stm32: Use a platform driver for stm32mp1-exti device")
+fb94109b764e ("irqchip/stm32: protect configuration registers with hwspinlock")
+f9c75bca44d4 ("irqchhip: Convert to using %pOFn instead of device_node.name")
+3424243e39e8 ("irqchip/irq-mvebu-sei: Fix a NULL vs IS_ERR() bug in probe function")
+61ce8d8d8a81 ("irqchip/irq-mvebu-sei: Add new driver for Marvell SEI")

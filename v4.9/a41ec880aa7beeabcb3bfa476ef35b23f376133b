@@ -1,0 +1,6 @@
+a41ec880aa7b ("zsmalloc: move huge compressed obj from page to zspage")
+3ae92ac23bd8 ("zsmalloc: introduce obj_allocated")
+ffedd09fa9b0 ("zsmalloc: Stop using slab fields in struct page")
+ecfc2bda7aaf ("mm/zsmalloc: use BUG_ON instead of if condition followed by BUG.")
+cf8e0fedf078 ("mm/zsmalloc: simplify zs_max_alloc_size handling")
+b538e422e41f ("mm/zsmalloc: fix comment in zsmalloc")

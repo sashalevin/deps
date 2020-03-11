@@ -1,0 +1,8 @@
+88f2a8257c9a ("rxrpc: Fix checker warnings and errors")
+f859ab618759 ("rxrpc: Fix service endpoint expiry")
+9a19bad70cf1 ("rxrpc: Fix oops when discarding a preallocated service call")
+2baec2c3f854 ("rxrpc: Support network namespacing")
+540b1c48c37a ("rxrpc: Fix deadlock between call creation and sendmsg/recvmsg")
+3e018daf045f ("rxrpc: Show a call's hard-ACK cursors in /proc/net/rxrpc_calls")
+b54a134a7de4 ("rxrpc: Fix handling of enums-to-string translation in tracing")
+444306129a92 ("rxrpc: abstract away knowledge of IDR internals")

@@ -1,0 +1,7 @@
+ff81428ede8a ("rcu/nocb: Move nocb field at the end of state struct")
+6f948568fdc6 ("rcu/tree: Reduce wake up for synchronize_rcu() common case")
+0fd210baa07a ("rcu: Allocate WQ with WQ_MEM_RECLAIM bit set")
+462df2f543ae ("rcu: Support direct wake-up of synchronize_rcu() users")
+988f569ae041 ("rcu: Reduce synchronize_rcu() latency")
+dfd458a95d78 ("rcu: Add data structures for synchronize_rcu()")
+7f66f099de4d ("rcu: Provide a boot time parameter to control lazy RCU")

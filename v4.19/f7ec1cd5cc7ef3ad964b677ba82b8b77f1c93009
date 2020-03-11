@@ -1,0 +1,5 @@
+f7ec1cd5cc7e ("getrusage: use sig->stats_lock rather than lock_task_sighand()")
+daa694e41375 ("getrusage: move thread_group_cputime_adjusted() outside of lock_task_sighand()")
+13b7bc60b535 ("getrusage: use __for_each_thread()")
+c7ac8231ace9 ("getrusage: add the "signal_struct *sig" local variable")
+bdd565f817a7 ("y2038: rusage: use __kernel_old_timeval")

@@ -1,0 +1,3 @@
+afe8605ca454 ("mm/zsmalloc.c: close race window between zs_pool_dec_isolated() and zs_unregister_migration()")
+701d678599d0 ("mm/zsmalloc.c: fix race condition in zs_destroy_pool")
+1a87aa03597e ("mm/zsmalloc.c: migration can leave pages in ZS_EMPTY indefinitely")

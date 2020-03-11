@@ -1,0 +1,8 @@
+eabb1494c9f2 ("net: dsa: tag_ocelot: do not rely on skb_mac_header() for VLAN xmit")
+5ca721c54d86 ("net: dsa: tag_ocelot: set the classified VLAN during xmit")
+39e5308b3250 ("net: mscc: ocelot: support PTP Sync one-step timestamping")
+682eaad93e8c ("net: mscc: ocelot: convert to ocelot_port_txtstamp_request()")
+c4b364ce1270 ("net: dsa: free skb->cb usage in core driver")
+5c5416f5d4c7 ("net: dsa: no longer clone skb in core driver")
+cf536ea3c7ee ("net: dsa: no longer identify PTP packet in core driver")
+cfd12c06cdce ("net: dsa: check tx timestamp request in core driver")

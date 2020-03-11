@@ -1,0 +1,5 @@
+8bb649ee1da3 ("io_uring: remove ring quiesce for io_uring_register")
+ff16cfcfdaaf ("io_uring: avoid ring quiesce while registering restrictions and enabling rings")
+c75312dd592b ("io_uring: avoid ring quiesce while registering async eventfd")
+77bc59b49817 ("io_uring: avoid ring quiesce while registering/unregistering eventfd")
+3648e5265cfa ("io_uring: move up io_put_kbuf() and io_put_rw_kbuf()")

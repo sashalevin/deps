@@ -1,0 +1,5 @@
+d42e2e3448a9 ("scsi: Remove a blk_mq_run_hw_queues() call")
+8b566edbdbfb ("scsi: core: Only kick the requeue list if necessary")
+54249306e277 ("scsi: core: Allow the ALUA transitioning state enough time")
+b3bc1a88b534 ("scsi: core: Return BLK_STS_TRANSPORT for ALUA transitioning")
+79478bf9ea9f ("block: move blk_rq_err_bytes to scsi")

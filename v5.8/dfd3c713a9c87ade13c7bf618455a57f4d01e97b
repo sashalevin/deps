@@ -1,0 +1,6 @@
+dfd3c713a9c8 ("kvm: x86: Remove stale declaration of kvm_no_apic_vcpu")
+d855066f8172 ("KVM: VMX: read/write MSR_IA32_DEBUGCTLMSR from GUEST_IA32_DEBUGCTL")
+2cdef91cf882 ("KVM: x86: handle MSR_IA32_DEBUGCTLMSR with report_ignored_msrs")
+eb3db1b13788 ("KVM: VMX: Rename the "shared_msr_entry" struct to "vmx_uret_msr"")
+ce833b2324ba ("KVM: VMX: Prepend "MAX_" to MSR array size defines")
+7e34fbd05c63 ("KVM: x86: Rename "shared_msrs" to "user_return_msrs"")

@@ -1,0 +1,7 @@
+a782b5f986c3 ("PCI: designware: Check for iATU unroll only on platforms that use ATU")
+68a0bfec72cb ("PCI: designware: Exchange viewport of `MEMORYs' and `CFGs/IOs'")
+fe48cb853842 ("PCI: designware: Keep viewport fixed for IO transaction if num_viewport > 2")
+a5cb903aef8c ("PCI: designware: Remove incorrect RC memory base/limit configuration")
+7e57fd1444bf ("PCI: designware: Move Root Complex setup code to dw_pcie_setup_rc()")
+5a3aa2a8fae4 ("PCI: designware: Add driver for prototyping kits based on ARC SDP")
+dd193929d91e ("PCI: designware: Explain why we don't program ATU for some platforms")

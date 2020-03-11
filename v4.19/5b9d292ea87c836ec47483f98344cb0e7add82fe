@@ -1,0 +1,6 @@
+5b9d292ea87c ("x86/mce: Remove unused variable and return value in machine_check_poll()")
+90454e495938 ("x86/mce: Fix mce=nobootlog")
+b4914508f1fe ("x86/MCE: Make mce_banks a per-CPU array")
+95fdce6b24f3 ("x86/MCE: Make struct mce_banks[] static")
+006c077041dc ("x86/mce: Handle varying MCA bank counts")
+f19501aa07f1 ("x86/mce: Fix machine_check_poll() tests for error types")

@@ -1,0 +1,6 @@
+83956c86fffe ("io_uring: remove redundant assignment to ret in io_register_iowq_max_workers()")
+e139a1ec92f8 ("io_uring: apply max_workers limit to all future users")
+fa84693b3c89 ("io_uring: ensure IORING_REGISTER_IOWQ_MAX_WORKERS works with SQPOLL")
+2e480058ddc2 ("io-wq: provide a way to limit max number of workers")
+fe76421d1da1 ("io_uring: allow user configurable IO thread CPU affinity")
+b986af7e2df4 ("io_uring: shuffle rarely used ctx fields")

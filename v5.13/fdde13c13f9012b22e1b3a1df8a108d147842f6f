@@ -1,0 +1,4 @@
+fdde13c13f90 ("KVM: Remove unnecessary export of kvm_{inc,dec}_notifier_count()")
+edb298c663fc ("KVM: x86/mmu: bump mmu notifier count in kvm_zap_gfn_range")
+5a324c24b638 ("Revert "KVM: x86/mmu: Allow zap gfn range to operate under the mmu read lock"")
+9a63b4517c60 ("Merge branch 'kvm-tdpmmu-fixes' into HEAD")

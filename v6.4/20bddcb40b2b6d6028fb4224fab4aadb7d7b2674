@@ -1,0 +1,6 @@
+20bddcb40b2b ("gpiolib: cdev: replace locking wrappers for gpio_device with guards")
+0ebeaab4d59e ("gpiolib: cdev: fully adopt guard() and scoped_guard()")
+9344e34e7992 ("gpiolib: cdev: relocate debounce_period_us from struct gpio_desc")
+91043f559313 ("gpio: cdev: wake up lineevent poll() on device unbind")
+d2e2586a3292 ("gpio: cdev: wake up chardev poll() on device unbind")
+17a7ca35890b ("gpiolib: rename the gpio_device notifier")

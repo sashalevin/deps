@@ -1,0 +1,6 @@
+497258dfafcc ("mm: remove legacy install_special_mapping() code")
+49b1b8d6f683 ("mm: move internal core VMA manipulation functions to own file")
+d61f0d59683d ("mm: move vma_shrink(), vma_expand() to internal header")
+fa04c08f3ce6 ("mm: move vma_modify() and helpers to internal header")
+f38ee2851918 ("mm: introduce pmd|pte_needs_soft_dirty_wp helpers for softdirty write-protect")
+3577dbb19241 ("mm: batch unlink_file_vma calls in free_pgd_range")

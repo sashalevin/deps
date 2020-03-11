@@ -1,0 +1,6 @@
+466e4d801cd4 ("task_work: Add TWA_NMI_CURRENT as an additional notify mode.")
+e788be95a57a ("task_work: allow TWA_SIGNAL without a rescheduling IPI")
+593febb143d1 ("signal: Move set_notify_signal and clear_notify_signal into sched/signal.h")
+7c5d8fa6fbb1 ("task_work: Decouple TIF_NOTIFY_SIGNAL and task_work")
+8ba62d37949e ("task_work: Call tracehook_notify_signal from get_signal on all architectures")
+7f62d40d9cb5 ("task_work: Introduce task_work_pending")

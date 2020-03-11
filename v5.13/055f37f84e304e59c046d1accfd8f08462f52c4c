@@ -1,0 +1,5 @@
+055f37f84e30 ("KVM: x86: emulator: update the emulation mode after rsm")
+0128116550ac ("KVM: x86: Drop .post_leave_smm(), i.e. the manual post-RSM MMU reset")
+fa75e08bbe4f ("KVM: x86: Invoke kvm_smm_changed() immediately after clearing SMM flag")
+edce46548b70 ("KVM: x86: Replace .set_hflags() with dedicated .exiting_smm() helper")
+25b17226cd9a ("KVM: x86: Emulate triple fault shutdown if RSM emulation fails")

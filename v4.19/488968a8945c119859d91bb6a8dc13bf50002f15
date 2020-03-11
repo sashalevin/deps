@@ -1,0 +1,6 @@
+488968a8945c ("cifs: fix fallocate when trying to allocate a hole.")
+966a3cb7c7db ("cifs: improve fallocate emulation")
+c847dccfbdc1 ("CIFS: make mknod() an smb_version_op")
+f5b05d622a3e ("cifs: add IOCTL for QUERY_INFO passthrough to userspace")
+3d621230b8a0 ("smb3: update default requested iosize to 4MB from 1MB for recent dialects")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

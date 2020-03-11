@@ -1,0 +1,3 @@
+2d54067fcd23 ("pinctrl: amd: Fix wakeups when IRQ is shared with SCI")
+10ff58aa3c2e ("pinctrl: amd: fix __iomem annotation in amd_gpio_irq_handler()")
+8bbed1eef001 ("pinctrl/amd: only handle irq if it is pending and unmasked")

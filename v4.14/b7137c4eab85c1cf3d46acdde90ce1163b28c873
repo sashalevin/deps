@@ -1,0 +1,8 @@
+b7137c4eab85 ("bpf: fix check_map_access smin_value test when pointer contains offset")
+61bd5218eef3 ("bpf: move global verifier log into verifier environment")
+e7bf8249e8f1 ("bpf: encapsulate verifier log state into a structure")
+390ee7e29fc8 ("bpf: enforce return code for cgroup-bpf programs")
+73c864b38383 ("bpf/verifier: improve disassembly of BPF_NEG instructions")
+2b7c6ba945fd ("bpf/verifier: improve disassembly of BPF_END instructions")
+22c8852624fc ("bpf: improve selftests and add tests for meta pointer")
+de8f3a83b0a0 ("bpf: add meta pointer for direct access")

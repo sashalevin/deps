@@ -1,0 +1,8 @@
+7d99429afa93 ("enic: fix boolreturn.cocci warnings")
+48398b6e7065 ("enic: set UDP rss flag")
+d11790941dd3 ("enic: Add vxlan offload support for IPv6 pkts")
+9c744d10870c ("enic: add vxlan offload on tx path")
+257e738238e8 ("enic: add udp_tunnel ndo for vxlan offload")
+ca0291798227 ("enic: add devcmds for vxlan offload")
+7a655c6324a8 ("enic: Remove local ndo_busy_poll() implementation.")
+17197236d62c ("enic: set skb->hash type properly")

@@ -1,0 +1,4 @@
+73c7881b5066 ("scsi: xen-scsifront: shost_priv() can never return NULL")
+6d1c2f48f3fc ("xen/scsifront: harden driver against malicious backend")
+33172ab50a53 ("xen/scsifront: don't use gnttab_query_foreign_access() for mapped status")
+93efbd398704 ("scsi: xen-scsifront: add error handling for xenbus_printf")

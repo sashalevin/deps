@@ -1,0 +1,6 @@
+837a6e7f5cdb ("fs: add generic UNRESVSP and ZERO_RANGE ioctl handlers")
+9afe1d5c14e0 ("xfs: don't implement XFS_IOC_RESVSP / XFS_IOC_RESVSP64")
+c63a8eae63d3 ("xfs: prepare xfs_break_layouts() to be called with XFS_MMAPLOCK_EXCL")
+0c187dc508d7 ("xfs: use xfs_vn_setattr_size to check on new size")
+6552321831dc ("xfs: remove i_iolock and use i_rwsem in the VFS inode instead")
+e3df41f97847 ("Merge branch 'xfs-4.10-misc-fixes-2' into iomap-4.10-directio")

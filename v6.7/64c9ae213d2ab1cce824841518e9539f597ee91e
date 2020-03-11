@@ -1,0 +1,8 @@
+64c9ae213d2a ("drm/xe/kunit: Handle fake device creation for all platform/subplatform cases")
+e460410023d9 ("drm/xe: Generalize fake device creation")
+af049be5a33e ("drm/xe: Move test infra out of xe_pci.[ch]")
+d19ad0e80ebe ("drm/xe: Extract function to initialize xe->info")
+353dfaaa3164 ("drm/xe: Fix kunit integration due to missing prototypes")
+5b7e50e2ea17 ("drm/xe/pm: fix unbalanced ref handling")
+a93bcc3acf1f ("drm/xe: skip Kunit tests requiring real hardware when running on UML")
+dd08ebf6c352 ("drm/xe: Introduce a new DRM driver for Intel GPUs")

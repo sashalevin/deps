@@ -1,0 +1,4 @@
+7347fc87dfe6 ("sched/numa: Delay retrying placement for automatic NUMA balance after wake_affine()")
+3b76c4a33959 ("sched/fair: Restructure wake_affine*() to return a CPU id")
+89a55f56fd1c ("sched/fair: Remove unnecessary parameters from wake_affine_idle()")
+7332dec055f2 ("sched/fair: Only immediately migrate tasks due to interrupts if prev and target CPUs share cache")

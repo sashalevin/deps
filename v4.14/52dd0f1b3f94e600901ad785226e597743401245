@@ -1,0 +1,3 @@
+52dd0f1b3f94 ("ceph: use generic_delete_inode() for ->drop_inode")
+87bc5b895d94 ("ceph: use ceph_evict_inode to cleanup inode's resource")
+cfa6d41263ca ("ceph: use ->free_inode()")

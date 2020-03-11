@@ -1,0 +1,7 @@
+12ca0c331a5f ("pwm: img: Make use of devm_pwmchip_alloc() function")
+b097d28e3319 ("pwm: img: Prepare removing pwm_chip from driver data")
+9bd3e889d222 ("pwm: img: Drop write-only variable from driver private data")
+f365a94660f7 ("pwm: img: Convert to platform remove callback returning void")
+22e8e19a46f7 ("pwm: img: Rename variable pointing to driver private data")
+fc3f3f565eac ("pwm: img: Don't check the return code of pwmchip_remove()")
+c68eb29c8e90 ("pwm: img: Don't modify HW state in .remove() callback")

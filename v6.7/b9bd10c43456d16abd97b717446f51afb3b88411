@@ -1,0 +1,5 @@
+b9bd10c43456 ("s390/vfio-ap: do not reset queue removed from host config")
+f009cfa46655 ("s390/vfio-ap: reset queues associated with adapter for queue unbound from driver")
+f848cba767e5 ("s390/vfio-ap: reset queues filtered from the guest's AP config")
+774d10196e64 ("s390/vfio-ap: let on_scan_complete() callback filter matrix and update guest's APCB")
+850fb7fa8c68 ("s390/vfio-ap: always filter entire AP matrix")

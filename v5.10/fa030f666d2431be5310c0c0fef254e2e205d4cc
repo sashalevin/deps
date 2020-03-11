@@ -1,0 +1,8 @@
+fa030f666d24 ("ALSA: ump: Additional proc output")
+e3a8a5b726bd ("ALSA: rawmidi: UMP support")
+fb3bd1215909 ("ALSA: rawmidi: Add ioctl callback to snd_rawmidi_global_ops")
+463a20fd3481 ("ALSA: rawmidi: Check stream state at exported functions")
+f1d40433352e ("ALSA: rawmidi: Move lock to snd_rawmidi_substream")
+08fdced60ca0 ("ALSA: rawmidi: Add framing mode")
+75b1a8f9d62e ("ALSA: Convert strlcpy to strscpy when return value is unused")
+88a06d6fd6b3 ("ALSA: rawmidi: Access runtime->avail always in spinlock")

@@ -1,0 +1,7 @@
+391c271f4deb ("powerpc64/bpf: Convert some of the uses of PPC_BPF_[LL|STL] to PPC_BPF_[LD|STD]")
+b10cb163c4b3 ("powerpc64/bpf elfv2: Setup kernel TOC in r2 on entry")
+3f5f766d5f7f ("powerpc64/bpf: Limit 'ldbrx' to processors compliant with ISA v2.06")
+e08021f8dbd2 ("powerpc/ebpf64: Use PPC_RAW_MFLR()")
+47b04699d070 ("powerpc/modules: Use PPC_RAW_xx() macros")
+1c9debbc2eb5 ("powerpc/signal: Use PPC_RAW_xx() macros")
+c70a4be130de ("Merge tag 'powerpc-5.13-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

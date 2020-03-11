@@ -1,0 +1,6 @@
+8ea41b11ef74 ("arm64: assembler: allow adr_this_cpu to use the stack pointer")
+1b7e2296a822 ("arm64: assembler: introduce ldr_this_cpu")
+d224a69e3d80 ("arm64: remove irq_count and do_softirq_own_stack()")
+aa4d5d3cbc25 ("arm64: Add this_cpu_ptr() assembler macro for use in entry.S")
+8e23dacd12a4 ("arm64: Add do_softirq_own_stack() and enable irq_stacks")
+132cd887b5c5 ("arm64: Modify stack trace and dump for use with irq_stack")

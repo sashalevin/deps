@@ -1,0 +1,6 @@
+6c92d5a2744e ("ASoC: rsnd: don't fallback to PIO mode when -EPROBE_DEFER")
+edce5c496c6a ("ASoC: rsnd: Request/Release DMA channel each time")
+b99305d20122 ("ASoC: rsnd: remove non DT support for DMA")
+5f222a29212c ("ASoC: rsnd: use for_each_rsnd_mod_xxx() on rsnd_dai_call()")
+b3ca3fbeb229 ("ASoC: rsnd: add rsnd_mod_next() for for_each_rsnd_mod_xxx()")
+0af5c01a79ad ("ASoC: rsnd: amend .probe/.remove call for DPCM")

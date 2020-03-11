@@ -1,0 +1,5 @@
+045aecdfcb2e ("arm64/ptrace: Don't enable SVE when setting streaming SVE")
+baa8515281b3 ("arm64/fpsimd: Track the saved FPSIMD state type separately to TIF_SVE")
+93ae6b01bafe ("KVM: arm64: Discard any SVE state when entering KVM guests")
+ea64baacbc36 ("arm64/signal: Flush FPSIMD register state when disabling streaming mode")
+dc94f89ae68f ("Merge branch kvm-arm64/burn-the-flags into kvmarm-master/next")

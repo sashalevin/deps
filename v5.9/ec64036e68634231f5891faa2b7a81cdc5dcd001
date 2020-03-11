@@ -1,0 +1,6 @@
+ec64036e6863 ("fs/super.c: stop calling fscrypt_destroy_keyring() from __put_super()")
+ccd30a476f8e ("fscrypt: fix keyring memory leak on mount failure")
+d7e7b9af104c ("fscrypt: stop using keyrings subsystem for fscrypt_master_key")
+83e804f0bfee ("fs,security: Add sb_delete hook")
+4a4b8721f1a5 ("fscrypt: simplify master key locking")
+a992b20cd4ee ("fscrypt: add fscrypt_prepare_new_inode() and fscrypt_set_context()")

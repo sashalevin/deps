@@ -1,0 +1,4 @@
+cc41f11a21a5 ("scsi: mpt3sas: Fix kernel panic observed on soft HBA unplug")
+c666d3be99c0 ("scsi: mpt3sas: wait for and flush running commands on shutdown/unload")
+98c56ad32c33 ("mpt3sas: Eliminate dead sleep_flag code")
+96902835e7e2 ("mpt3sas: Eliminate conditional locking in mpt3sas_scsih_issue_tm()")

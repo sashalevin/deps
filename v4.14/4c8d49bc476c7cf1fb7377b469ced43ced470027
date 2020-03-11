@@ -1,0 +1,4 @@
+4c8d49bc476c ("ASoC: cs42l42: Fix WARN in remove() if running without an interrupt")
+0306988789d9 ("ASoC: cs42l42: Defer probe if request_threaded_irq() returns EPROBE_DEFER")
+2b869e0ea598 ("ASoC: cs42l42: Remove power if the driver is being removed")
+c92614022c6d ("ASoC: cs42l42: replace codec to component")

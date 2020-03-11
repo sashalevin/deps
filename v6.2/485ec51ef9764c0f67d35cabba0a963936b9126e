@@ -1,0 +1,5 @@
+485ec51ef976 ("bpf: Refactor verifier dynptr into get_dynptr_arg_reg")
+f8064ab90d66 ("bpf: Invalidate slices on destruction of dynptrs on stack")
+ef8fc7a07c0e ("bpf: Fix partial dynptr stack slot reads/writes")
+79168a669d81 ("bpf: Fix missing var_off check for ARG_PTR_TO_DYNPTR")
+d6fefa1105da ("bpf: Fix state pruning for STACK_DYNPTR stack slots")

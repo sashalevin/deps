@@ -1,0 +1,8 @@
+9acf59a752d4 ("igc: Enable TX via AF_XDP zero-copy")
+fc9df2a0b520 ("igc: Enable RX via AF_XDP zero-copy")
+859b4dfa4115 ("igc: Replace IGC_TX_FLAGS_XDP flag by an enum")
+6123429516c7 ("igc: Introduce igc_unmap_tx_buffer() helper")
+a27e6e73e550 ("igc: Introduce TX/RX stats helpers")
+4609ffb9f615 ("igc: Refactor XDP rxq info registration")
+f485164867d3 ("igc: Refactor igc_clean_rx_ring()")
+0c20f2d29fff ("igc: Move igc_xdp_is_enabled()")

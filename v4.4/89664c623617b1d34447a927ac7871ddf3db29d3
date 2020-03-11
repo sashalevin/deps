@@ -1,0 +1,5 @@
+89664c623617 ("sctp: sctp_sock_migrate() returns error if sctp_bind_addr_dup() fails")
+b7ef2618a0bf ("sctp: remove the typedef sctp_socket_type_t")
+f959fb442c35 ("sctp: add SCTP_DEFAULT_PRINFO into sctp sockopt")
+28aa4c26fce2 ("sctp: add SCTP_PR_SUPPORTED on sctp sockopt")
+489ce5f441e4 ("sctp: consolidate local_bh_disable/enable + spin_lock/unlock to _bh variant")

@@ -1,0 +1,5 @@
+201c1db90cd6 ("iommu/iova: Fix compilation error with !CONFIG_IOMMU_IOVA")
+effa467870c7 ("iommu/vt-d: Don't queue_iova() if there is no flush queue")
+f7b0c4ce8cb3 ("iommu/vt-d: Flush IOTLB for untrusted device in time")
+932a6523ce39 ("iommu/vt-d: Use dev_printk() when possible")
+8e143b90e4d4 ("Merge tag 'iommu-updates-v4.21' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

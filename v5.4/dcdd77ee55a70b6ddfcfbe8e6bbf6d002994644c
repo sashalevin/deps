@@ -1,0 +1,7 @@
+dcdd77ee55a7 ("bareudp: Move definition of struct bareudp_conf to bareudp.c")
+614b7a1f28f4 ("bareudp: Remove bareudp_dev_create()")
+1d04ccb916ce ("net: bareudp: simplify error paths calling dellink")
+94bcfdbff0c2 ("net: bareudp: add missing error handling for bareudp_link_config()")
+d43600c01c4c ("net: Add netif_is_bareudp() API to identify bareudp devices")
+4b5f67232d95 ("net: Special handling for IP & MPLS.")
+571912c69f0e ("net: UDP tunnel encapsulation module for tunnelling different protocols like MPLS, IP, NSH etc.")

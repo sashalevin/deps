@@ -1,0 +1,6 @@
+fb99e07a9e39 ("hwmon: tmp513: Add max_channels variable to struct tmp51x_data")
+919a83d020a8 ("hwmon: (tmp513) Simplify probe()")
+d103337e38e7 ("hwmon: (tmp513) Fix the channel number in tmp51x_is_visible()")
+58aec51df895 ("hwmon: (tmp513) fix Wvoid-pointer-to-enum-cast warning")
+e3b9f6912528 ("hwmon: (tmp513) use simple i2c probe")
+59dfa75e5d82 ("hwmon: Add driver for Texas Instruments TMP512/513 sensor chips.")

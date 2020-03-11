@@ -1,0 +1,6 @@
+6a3afb6ac6df ("jbd2: increase the journal IO's priority")
+855592272110 ("jbd2: correct the printing of write_flags in jbd2_write_superblock()")
+f3ed5df398e8 ("jbd2: drop useless return value of submit_bh")
+1420c4a549bf ("fs/buffer: Combine two submit_bh() and ll_rw_block() arguments")
+3ae7286943ae ("fs/buffer: Use the new blk_opf_t type")
+15baa7dcadf1 ("ext4: fix warning when submitting superblock in ext4_commit_super()")

@@ -1,0 +1,7 @@
+0f99fc513ddd ("splice: clear FMODE_NOWAIT on file if splice/vmsplice is used")
+ee6e00c86822 ("splice: change exported internal do_splice() helper to take kernel offset")
+90da2e3f25c8 ("splice: move f_mode checks to do_{splice,tee}()")
+444ebb5768c5 ("splice: make do_splice public")
+87a3002af9e3 ("vmsplice(): lift importing iovec into vmsplice(2) and compat counterpart")
+30cfe4ef8b89 ("fs: add do_vmsplice() helper; remove in-kernel call to syscall")
+3d6ea290f337 ("splice/tee/vmsplice: validate flags")

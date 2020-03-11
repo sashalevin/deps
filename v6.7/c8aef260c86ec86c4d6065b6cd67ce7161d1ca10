@@ -1,0 +1,5 @@
+c8aef260c86e ("s390/boot: Swap vmalloc and Lowcore/Real Memory Copy areas")
+ecf74da64def ("s390/boot: Reduce size of identity mapping on overlap")
+b2b15f079c4c ("s390/boot: Consider DCSS segments on memory layout setup")
+47bf81767277 ("s390/boot: Do not force vmemmap to start at MAX_PHYSMEM_BITS")
+65f8780e2d70 ("s390/boot: always align vmalloc area on segment boundary")

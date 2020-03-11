@@ -1,0 +1,7 @@
+d0dea733f60e ("KVM: s390: mark __insn32_query() as __always_inline")
+b1c41ac3ce56 ("KVM: s390: fix __insn32_query() inline assembly")
+d668139718a9 ("KVM: s390: provide query function for instructions returning 32 byte")
+0a763c780b7c ("KVM: s390: interface to query and configure cpu subfunctions")
+22be5a133169 ("KVM: s390: forward ESOP if available")
+15c9705f0c8a ("KVM: s390: interface to query and configure cpu features")
+aad3c1d9603f ("KVM: s390: add documentation of KVM_S390_VM_TOD")

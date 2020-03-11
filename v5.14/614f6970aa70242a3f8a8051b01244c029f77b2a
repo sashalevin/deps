@@ -1,0 +1,7 @@
+614f6970aa70 ("KVM: x86/mmu: do not allow readers to acquire references to invalid roots")
+d62007edf01f ("KVM: x86/mmu: Zap _all_ roots when unmapping gfn range in TDP MMU")
+04dc4e6ce274 ("KVM: x86/mmu: Move "invalid" check out of kvm_tdp_mmu_get_root()")
+4b85c921cd39 ("KVM: x86/mmu: Remove spurious TLB flushes in TDP MMU zap collapsible path")
+8ed716ca7dc9 ("KVM: x86/mmu: Pass parameter flush as false in kvm_tdp_mmu_zap_collapsible_sptes()")
+610265ea3da1 ("KVM: x86/mmu: Rename slot_handle_leaf to slot_handle_level_4k")
+5a324c24b638 ("Revert "KVM: x86/mmu: Allow zap gfn range to operate under the mmu read lock"")

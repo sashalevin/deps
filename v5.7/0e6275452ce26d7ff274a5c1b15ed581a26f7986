@@ -1,0 +1,8 @@
+0e6275452ce2 ("xhci: clear usb2 resume related variables in one place.")
+a909d629ae77 ("xhci: rename resume_done to resume_timestamp")
+2996e9fc00c3 ("xhci: move port specific items such as state completions to port structure")
+0522b9a16530 ("xhci: Add a flag to disable USB3 lpm on a xhci root port level.")
+424140d31ba1 ("xhci: prevent U2 link power state if Intel tier policy prevented U1")
+33597f0c48be ("xhci: increase usb U3 -> U0 link resume timeout from 100ms to 500ms")
+70c05e4cf630 ("xhci: fix runtime PM imbalance in USB2 resume")
+8aaf19b8ec78 ("xhci: Make debug message consistent with bus and port number")

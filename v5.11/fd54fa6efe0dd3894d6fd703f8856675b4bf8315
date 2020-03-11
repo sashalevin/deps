@@ -1,0 +1,6 @@
+fd54fa6efe0d ("Squashfs: Rewrite and update squashfs_readahead_fragment() to not use page->index")
+e11c4e088be4 ("squashfs: fix buffer release race condition in readahead code")
+b09a7a036d20 ("squashfs: support reading fragments in readahead call")
+8fc78b6fe24c ("squashfs: implement readahead")
+124cfc154f6c ("squashfs: Convert squashfs to read_folio")
+9eec1d897139 ("squashfs: provide backing_dev_info in order to disable read-ahead")

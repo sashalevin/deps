@@ -1,0 +1,6 @@
+d4e15d4821e7 ("clk: versatile: hide clock drivers from non-ARM users")
+51c8b49762e4 ("clk: versatile: Depend on HAS_IOMEM")
+419b3ab6987f ("clk: versatile: remove dependency on ARCH_*")
+e4df11cb99bf ("ARM: zynq: Don't select CONFIG_ICST")
+5f55f1fb187d ("clk: versatile: Fix kconfig dependency on COMMON_CLK_VERSATILE")
+81134fb541d4 ("clk: versatile: Rework kconfig structure")

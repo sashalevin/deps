@@ -1,0 +1,8 @@
+d0ce64391128 ("xfs: factor out a helper for a single XFS_IOC_ATTRMULTI_BY_HANDLE op")
+2282a9e65177 ("xfs: use strndup_user in XFS_IOC_ATTRMULTI_BY_HANDLE")
+6cc4f4fff10d ("xfs: merge xfs_attrmulti_attr_remove into xfs_attrmulti_attr_set")
+0eb81a5f5c34 ("xfs: merge xfs_attr_remove into xfs_attr_set")
+d29f781c32b1 ("xfs: Remove all strlen in all xfs_attr_* functions for attr names.")
+8cde9f259c7d ("xfs: also remove cached ACLs when removing the underlying attr")
+84fd081f8ae9 ("xfs: reject invalid flags combinations in XFS_IOC_ATTRMULTI_BY_HANDLE")
+953aa9d136f5 ("xfs: clear kernel only flags in XFS_IOC_ATTRMULTI_BY_HANDLE")

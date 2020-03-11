@@ -1,0 +1,7 @@
+223f93d4d88a ("KVM: nSVM: Skip writes to MSR_AMD64_TSC_RATIO if guest state isn't loaded")
+2d63699099ac ("KVM: x86: Always write vCPU's current TSC offset/ratio in vendor hooks")
+229725acfaea ("KVM: SVM: Clean up preemption toggling related to MSR_AMD64_TSC_RATIO")
+c0dc39bd2c58 ("KVM: nSVM: Use the "outer" helper for writing multiplier to MSR_AMD64_TSC_RATIO")
+938c8745bcf2 ("KVM: x86: Introduce "struct kvm_caps" to track misc caps/settings")
+11d39e8cc43e ("KVM: SVM: fix tsc scaling cache logic")
+ffbb61d09fc5 ("KVM: x86: Accept KVM_[GS]ET_TSC_KHZ as a VM ioctl.")

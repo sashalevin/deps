@@ -1,0 +1,4 @@
+a377ae542d8d ("virtio_net: big mode skip the unmap check")
+2311e06b9bf3 ("virtio_net: fix missing dma unmap for resize")
+61217d8f6360 ("virtio_net: use u64_stats_t infra to avoid data-races")
+d12a26b74fb7 ("virtio_net: avoid data-races on dev->stats fields")

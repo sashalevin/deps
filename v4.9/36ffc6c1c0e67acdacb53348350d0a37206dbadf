@@ -1,0 +1,4 @@
+36ffc6c1c0e6 ("block_dev: propagate bio_iov_iter_get_pages error in __blkdev_direct_IO")
+7a62a52333f8 ("block_dev: don't update file access position for sync direct IO")
+542ff7bf18c6 ("block: new direct I/O implementation")
+189ce2b9dcc3 ("block: fast-path for small and simple direct I/O requests")

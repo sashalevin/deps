@@ -1,0 +1,8 @@
+f85671c6ef46 ("bpf: Remove now-defunct task kfuncs")
+d02c48fa1139 ("bpf: Make struct task_struct an RCU-safe type")
+6c831c468412 ("bpf: Treat KF_RELEASE kfuncs as KF_TRUSTED_ARGS")
+fb2211a57c11 ("bpf: Remove now-unnecessary NULL checks for KF_RELEASE kfuncs")
+63d2d83d21a6 ("bpf: Mark struct bpf_cpumask as rcu protected")
+77473d1a962f ("bpf: Free struct bpf_cpumask in call_rcu handler")
+f25fd6088216 ("selftests/bpf: Add various tests to check helper access into ptr_to_btf_id.")
+36e5e391a25a ("Merge tag 'for-netdev' of https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

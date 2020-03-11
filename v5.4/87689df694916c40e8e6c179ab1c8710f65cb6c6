@@ -1,0 +1,8 @@
+87689df69491 ("NFSD: Shrink size of struct nfsd4_copy")
+e8febea7190b ("NFSD: Replace READ* macros in nfsd4_decode_copy()")
+ce0887ac96d3 ("NFSD add nfs4 inter ssc to nfsd4_copy")
+b7342204253a ("NFSD check stateids against copy stateids")
+624322f1adc5 ("NFSD add COPY_NOTIFY operation")
+51911868fc62 ("NFSD COPY_NOTIFY xdr")
+84e1b21d5ec4 ("NFSD add ca_source_server<> to COPY")
+18f428d4e2f7 ("NFSD fixing possible null pointer derefering in copy offload")

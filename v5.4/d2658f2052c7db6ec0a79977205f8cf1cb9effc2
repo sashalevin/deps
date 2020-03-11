@@ -1,0 +1,8 @@
+d2658f2052c7 ("zsmalloc: allow only one active pool compaction context")
+c0547d0b6a4b ("zsmalloc: consolidate zs_pool's migrate_lock and size_class's locks")
+68f2736a8583 ("mm: Convert all PageMovable users to movable_operations")
+2c0f35143478 ("mm/z3fold: throw warning on failure of trylock_page in z3fold_alloc")
+e7e3ffeb274f ("mm/migrate: convert move_to_new_page() into move_to_new_folio()")
+8b463be3a024 ("mm: add folio_test_movable()")
+dc3a1f3024b3 ("mm/z3fold: declare z3fold_mount with __init")
+f4f5d7cfb2e5 ("Merge tag 'for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mst/vhost")

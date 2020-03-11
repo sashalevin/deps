@@ -1,0 +1,4 @@
+06083a0921fd ("dax: fix missing writeprotect the pte entry")
+e583b5c472bd ("dax: fix cache flush on PMD-mapped pages")
+9fd6dad1261a ("mm: provide a saner PTE walking API for modules")
+bd2fae8da794 ("KVM: do not assume PTE is writable after follow_pfn")

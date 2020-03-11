@@ -1,0 +1,6 @@
+8344a3d44be3 ("writeback: account the number of pages written back")
+d585bdbeb79a ("fs: convert writepage_t callback to pass a folio")
+0fff435f060c ("page-writeback: convert write_cache_pages() to use filemap_get_folios_tag()")
+c2ca7a59a419 ("mm: remove generic_writepages")
+25a89826f270 ("ntfs3: remove ->writepage")
+d4428bad14dd ("ntfs3: stop using generic_writepages")

@@ -1,0 +1,7 @@
+e20ac6c54a93 ("perf/arm_pmu_platform: Clean up with dev_printk")
+e338cb6bef25 ("perf/arm_pmu_platform: Fix error handling")
+11fa1dc8020a ("perf/arm_pmu_platform: Use dev_err_probe() for IRQ errors")
+03630b3b76cc ("perf: Convert to using %pOFn instead of device_node.name")
+65bd053fbf46 ("drivers/perf: arm_pmu_platform: do not warn about affinity on uniprocessor")
+66582787314e ("arm_pmu: Use of_cpu_node_to_id helper")
+611479c79a94 ("arm/arm64: pmu: Distinguish percpu irq and percpu_devid irq")

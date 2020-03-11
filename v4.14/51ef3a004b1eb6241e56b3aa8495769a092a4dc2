@@ -1,0 +1,8 @@
+51ef3a004b1e ("vfio/pci: Restore device state on PM transition")
+e309df5b0c9e ("vfio/pci: Parallelize device open and release")
+c6a44ba950d1 ("PCI: Rename pci_try_reset_bus() to pci_reset_bus()")
+fe32e2fa656c ("PCI: Deprecate pci_reset_bus() and pci_reset_slot() functions")
+811c5cb37df4 ("PCI: Unify try slot and bus reset API")
+409888e0966e ("IB/hfi1: Use pci_try_reset_bus() for initiating PCI Secondary Bus Reset")
+30656177c408 ("vfio/pci: Add ioeventfd support")
+e20eaa2382e7 ("vfio: ABI for mdev display dma-buf operation")

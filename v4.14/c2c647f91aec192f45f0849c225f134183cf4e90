@@ -1,0 +1,4 @@
+c2c647f91aec ("KVM: x86: reduce pvclock_gtod_sync_lock critical sections")
+e880c6ea55b9 ("KVM: x86: hyper-v: Prevent using not-yet-updated TSC page by secondary CPUs")
+0092e4346f49 ("x86/kvm: Support Hyper-V reenlightenment")
+b0c39dc68e3b ("x86/kvm: Pass stable clocksource to guests when running nested on Hyper-V")

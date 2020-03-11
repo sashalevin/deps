@@ -1,0 +1,7 @@
+73e2f19da508 ("kvm/vfio: avoid bouncing the mutex when adding and deleting groups")
+9e0f4f2918c2 ("kvm/vfio: ensure kvg instance stays around in kvm_vfio_group_add()")
+2f99073a722b ("kvm/vfio: Prepare for accepting vfio device fd")
+819da99a7360 ("vfio: Hold a reference to the iommu_group in kvm for SPAPR")
+4b22ef042d6f ("vfio: Add vfio_file_is_group()")
+ea3fc04d4fad ("vfio-pci: Re-indent what was vfio_pci_core_ioctl()")
+2ecf3b58ed7b ("vfio-pci: Break up vfio_pci_core_ioctl() into one function per ioctl")

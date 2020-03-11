@@ -1,0 +1,7 @@
+cf11d01135ea ("riscv: Do not re-populate shadow memory with kasan_populate_early_shadow")
+2bfc6cd81bd1 ("riscv: Move kernel mapping outside of linear mapping")
+0f02de4481da ("riscv: Get rid of MAX_EARLY_MAPPING_SIZE")
+cc937cad14fb ("riscv: Remove unnecessary declaration")
+e178d670f251 ("riscv/kasan: add KASAN_VMALLOC support")
+f105aa940e78 ("riscv: add BUILTIN_DTB support for MMU-enabled targets")
+d5805af9fe9f ("riscv: Fix builtin DTB handling")

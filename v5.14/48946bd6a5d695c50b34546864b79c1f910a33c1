@@ -1,0 +1,6 @@
+48946bd6a5d6 ("bpf: Replace ARG_XXX_OR_NULL with ARG_XXX | PTR_MAYBE_NULL")
+d639b9d13a39 ("bpf: Introduce composable reg, ret and arg types.")
+2357672c54c3 ("bpf: Introduce BPF support for kernel module function calls")
+3d717fad5081 ("bpf: Replace "want address" users of BPF_CAST_CALL with BPF_CALL_IMM")
+29eef85be2f6 ("bpf/tests: Add tail call limit test with external function call")
+874be05f525e ("bpf, tests: Add tail call test suite")

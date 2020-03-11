@@ -1,0 +1,6 @@
+2fd6df2f2b47 ("KVM: x86/xen: intercept EVTCHNOP_send from guests")
+35025735a79e ("KVM: x86/xen: Support direct injection of event channel events")
+a795cd43c5b5 ("KVM: x86/xen: Use gfn_to_pfn_cache for runstate area")
+fcb732d8f8cf ("KVM: x86/xen: Fix runstate updates to be atomic when preempting vCPU")
+14243b387137 ("KVM: x86/xen: Add KVM_IRQ_ROUTING_XEN_EVTCHN and event channel delivery")
+1cfc9c4b9d46 ("KVM: x86/xen: Maintain valid mapping of Xen shared_info page")

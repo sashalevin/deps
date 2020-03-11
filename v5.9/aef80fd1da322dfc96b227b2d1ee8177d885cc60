@@ -1,0 +1,8 @@
+aef80fd1da32 ("scsi: ufs: sysfs: Resume the proper SCSI device")
+3b5f3c0d0548 ("scsi: ufs: core: Tidy up WB configuration code")
+d3ba622db82b ("scsi: ufs: Cleanup WB buffer flush toggle implementation")
+0e9d4ca43ba8 ("scsi: ufs: Protect some contexts from unexpected clock scaling")
+4cd48995645b ("scsi: ufs: Group UFS WB related flags in struct ufs_dev_info")
+e8d038139420 ("scsi: ufs: Remove two WB related fields from struct ufs_dev_info")
+8e834ca551ad ("scsi: ufs: Add "wb_on" sysfs node to control WB on/off")
+938a2fbefbe8 ("Merge branch '5.11/scsi-fixes' into 5.12/scsi-queue")

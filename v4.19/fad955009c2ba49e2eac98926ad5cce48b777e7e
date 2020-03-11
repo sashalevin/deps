@@ -1,0 +1,5 @@
+fad955009c2b ("proc: inline m_next_vma into m_next")
+4781f2c3abdd ("proc: use ppos instead of m->version")
+c2e88d22e8ea ("proc: remove m_cache_vma")
+d07ded611e46 ("proc: inline vma_stop into m_stop")
+8a713e7df335 ("proc: use down_read_killable mmap_sem for /proc/pid/maps")

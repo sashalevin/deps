@@ -1,0 +1,4 @@
+bb2853a6a421 ("tty: Fix data race between tiocsti() and flush_to_ldisc()")
+27cfb3a53be4 ("tty: Handle problem if line discipline does not have receive_buf")
+e55afd11a483 ("tty: Prepare for destroying line discipline on hangup")
+5c17c861a357 ("tty: Fix unsafe ldisc reference via ioctl(TIOCGETD)")

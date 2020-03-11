@@ -1,0 +1,7 @@
+867046cc7027 ("minmax: relax check to allow comparison between unsigned arguments and signed constants")
+4ead534fba42 ("minmax: allow comparisons of 'int' against 'unsigned char/short'")
+d03eba99f5bf ("minmax: allow min()/max()/clamp() if the arguments have the same signedness.")
+80fcac55385c ("minmax: add umin(a, b) and umax(a, b)")
+5efcecd9a3b1 ("minmax: sanity check constant bounds when clamping")
+f747e6667ebb ("linux/bits.h: fix compilation error with GENMASK")
+b296a6d53339 ("kernel.h: split out min()/max() et al. helpers")

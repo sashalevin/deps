@@ -1,0 +1,5 @@
+d8a5a922d526 ("i2c: mpc: Use i2c-scl-clk-low-timeout-us i2c property")
+be40a3ae719f ("i2c: mpc: Use of_property_read_u32 instead of of_get_property")
+09aab7add7bf ("i2c: mpc: use device managed APIs")
+bc72675228c7 ("i2c: mpc: make interrupt mandatory and remove polling code")
+65171b2df15e ("i2c: mpc: Make use of i2c_recover_bus()")

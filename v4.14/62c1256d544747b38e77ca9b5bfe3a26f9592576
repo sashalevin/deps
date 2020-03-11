@@ -1,0 +1,6 @@
+62c1256d5447 ("timers/nohz: Switch to ONESHOT_STOPPED in the low-res handler when the tick is stopped")
+23a8d888107c ("time: tick-sched: Split tick_nohz_stop_sched_tick()")
+0e7767687fda ("time: tick-sched: Reorganize idle tick management code")
+22ab8bc02a5f ("nohz: Allow to check if remote CPU tick is stopped")
+a364298359e7 ("nohz: Convert tick_nohz_tick_stopped() to bool")
+5d62c183f9e9 ("nohz: Prevent a timer interrupt storm in tick_nohz_stop_sched_tick()")

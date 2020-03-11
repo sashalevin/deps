@@ -1,0 +1,5 @@
+101c3fad29d7 ("libfs: Drop generic_set_encrypted_ci_d_ops")
+70dfe3f0d239 ("libfs: Add helper to choose dentry operations at mount-time")
+e6ca2883d987 ("libfs: Merge encrypted_ci_dentry_ops and ci_dentry_ops")
+5ca14835dc42 ("fs: uninline inode_maybe_inc_iversion()")
+da3f52ba3595 ("iversion: use atomic64_try_cmpxchg)")

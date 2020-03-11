@@ -1,1 +1,6 @@
 2f5af4ab7de1 ("lightnvm: fix uninitialized pointer in nvm_remove_tgt()")
+843f2edbdde0 ("lightnvm: do not remove instance under global lock")
+e69397ea05ce ("lightnvm: track inflight target creations")
+f41d427cdd9e ("lightnvm: prevent race condition on pblk remove")
+85136c010285 ("lightnvm: simplify geometry enumeration")
+6fd05cad5ee1 ("lightnvm: do no update csecs and sos on 1.2")

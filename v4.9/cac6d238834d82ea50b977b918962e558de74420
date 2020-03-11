@@ -1,0 +1,6 @@
+cac6d238834d ("mmc: bcm2835: Convert to platform remove callback returning void")
+9cda3e7ceb50 ("mmc: bcm2835: Deduplicate reset of driver data on remove")
+c58ccf2b6de7 ("mmc: bcm2835: Drop pointer to mmc_host from bcm2835_host")
+5eae252db385 ("mmc: bcm2835: Release DMA channel on driver unload")
+f6000a4eb34e ("mmc: bcm2835: reset host on timeout")
+660fc733bd74 ("mmc: bcm2835: Add new driver for the sdhost controller.")

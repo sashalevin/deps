@@ -1,0 +1,7 @@
+640be2d1ffbc ("kernel/memremap.c: remove the unused device_private_entry_fault() export")
+5042db43cc26 ("mm/ZONE_DEVICE: new type of ZONE_DEVICE for unaddressable memory")
+c0b124054f9e ("mm/hmm/mirror: mirror process address space on device with HMM helpers")
+133ff0eac95b ("mm/hmm: heterogeneous memory management (HMM for short)")
+ab1b597ee0e4 ("mm, devm_memremap_pages: use multi-order radix for ZONE_DEVICE lookups")
+16af97dc5a89 ("mm: migrate: prevent racy access to tlb_flush_pending")
+e06fdaf40a5c ("Merge tag 'gcc-plugins-v4.13-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

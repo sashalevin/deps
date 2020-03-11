@@ -1,0 +1,6 @@
+e889f97a3e35 ("dm crypt: factor IV constructor out to separate function")
+ef43aa38063a ("dm crypt: add cryptographic data integrity protection (authenticated encryption)")
+c538f6ec9f56 ("dm crypt: add ability to use keys from the kernel key retention service")
+1b1b58f54fdb ("dm crypt: constify crypt_iv_operations structures")
+671ea6b4574e ("dm crypt: rename crypt_setkey_allcpus to crypt_setkey")
+265e9098bac0 ("dm crypt: mark key as invalid until properly loaded")

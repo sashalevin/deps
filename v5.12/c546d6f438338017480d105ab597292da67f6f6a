@@ -1,0 +1,5 @@
+c546d6f43833 ("block: only zero non-PI metadata tuples in bio_integrity_prep")
+899ee2c3829c ("block: initialize integrity buffer to zero before writing it to media")
+51d74ec9b62f ("block: cleanup bio_integrity_prep")
+8f63fef5867f ("block: refactor to use helper")
+ce288e053568 ("block: remove BLK_BOUNCE_ISA support")

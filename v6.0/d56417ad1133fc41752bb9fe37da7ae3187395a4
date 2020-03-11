@@ -1,0 +1,8 @@
+d56417ad1133 ("net: phy: smsc: clear edpd_enable if interrupt mode is used")
+89946e31ff4f ("net: phy: smsc: add helper smsc_phy_config_edpd")
+fc281d78b686 ("net: phy: smsc: rename flag energy_enable")
+a69e332b4ef9 ("net: phy: smsc: export functions for use by meson-gxl PHY driver")
+90c7dd32652b ("net: phy: smsc: use device_property_present in smsc_phy_probe")
+513bdd947388 ("net: phy: smsc: use phy_set_bits in smsc_phy_config_init")
+58aac3a2ef41 ("net: phy: smsc: fix link up detection in forced irq mode")
+8af1a9afe100 ("net: phy: smsc: use device-managed clock API")

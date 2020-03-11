@@ -1,0 +1,8 @@
+43cd72c5892c ("mac80211: factor out code to look up the average packet length duration for a rate")
+8ed37e791960 ("mac80211: use rate provided via status->rate on ieee80211_tx_status_ext for AQL")
+3ff901cb5df1 ("mac80211: improve AQL tx airtime estimation")
+ca98c47d54d7 ("mac80211: check vif pointer before airtime calculation")
+5972fa15b923 ("mac80211: fix tx status for no ack cases")
+911bde0fe5cc ("mac80211: Turn AQL into an NL80211_EXT_FEATURE")
+e548f749b096 ("mac80211: airtime: Fix an off by one in ieee80211_calc_rx_airtime()")
+9a3d7fd275be ("Merge tag 'driver-core-5.5-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/driver-core")

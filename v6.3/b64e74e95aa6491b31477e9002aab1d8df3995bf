@@ -1,0 +1,8 @@
+b64e74e95aa6 ("mm: move mapping_set_update out of <linux/swap.h>")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")
+26e239b37ebd ("mm: shrinkers: fix race condition on debugfs cleanup")
+cf2e309ebca7 ("mm: shrinkers: convert shrinker_rwsem to mutex")
+b3cabea3c915 ("mm: vmscan: hold write lock to reparent shrinker nr_deferred")
+caa05325c912 ("mm: vmscan: make memcg slab shrink lockless")
+f95bdb700bc6 ("mm: vmscan: make global slab shrink lockless")
+42c9db397048 ("mm: vmscan: add a map_nr_max field to shrinker_info")

@@ -1,0 +1,6 @@
+fc6652aab6ad ("bpf: Remember smap in bpf_local_storage")
+dcf456c9a095 ("bpf: Fix usage of trace RCU in local storage.")
+0fe4b381a59e ("bpf: Allow bpf_local_storage to be used by sleepable programs")
+afa79d08c6c8 ("net: in_irq() cleanup")
+bc235cdb423a ("bpf: Prevent deadlock from recursive bpf_task_storage_[get|delete]")
+a10787e6d58c ("bpf: Enable task local storage for tracing programs")

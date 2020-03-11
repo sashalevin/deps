@@ -1,0 +1,8 @@
+0188dc98ad5c ("mm/page_alloc: inline function to handle CONFIG_DEFERRED_STRUCT_PAGE_INIT")
+7cc2a9596d77 ("mm: remove __paginginit")
+c9e97a1997fb ("mm: initialize pages on demand during boot")
+3c2c64884284 ("mm/page_alloc.c: fix typos in comments")
+0cd842f97069 ("mm: make alloc_node_mem_map a void call if we don't have CONFIG_FLAT_NODE_MEM_MAP")
+d135e5750205 ("mm/page_alloc.c: broken deferred calculation")
+a4a3ede2132a ("mm: zero reserved and unavailable struct pages")
+66e8b438bd5c ("mm/memblock.c: make the index explicit argument of for_each_memblock_type")

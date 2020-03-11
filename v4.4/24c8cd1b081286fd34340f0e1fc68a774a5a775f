@@ -1,0 +1,4 @@
+24c8cd1b0812 ("spi: fix possible deadlock between internal bus locks and bus_lock_flag")
+49023d2e4ead ("spi: core: Fix deadlock when sending messages")
+628269704f19 ("spi: Add cond_resched() in main message processing loop")
+556351f14e74 ("spi: introduce accelerated read support for spi flash devices")

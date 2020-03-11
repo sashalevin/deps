@@ -1,0 +1,5 @@
+6cc37a672a1e ("block: call blk_queue_free_zone_bitmaps from disk_release")
+a33df75c6328 ("block: use an xarray for disk->part_tbl")
+0470dd9d5f10 ("block: remove DISK_PITER_REVERSE")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")

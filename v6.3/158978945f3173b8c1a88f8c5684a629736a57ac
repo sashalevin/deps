@@ -1,0 +1,4 @@
+158978945f31 ("mm: perform the mapping_map_writable() check after call_mmap()")
+e8e17ee90eaf ("mm: drop the assumption that VM_SHARED always implies writable")
+6852c46c783d ("mm/mmap: move vma operations to mm_struct out of the critical section of file mapping lock")
+1c7873e33645 ("mm: lock newly mapped VMA with corrected ordering")

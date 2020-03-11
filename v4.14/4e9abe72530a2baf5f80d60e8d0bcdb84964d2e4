@@ -1,0 +1,7 @@
+4e9abe72530a ("swim: add helper for disk cleanup")
+b76a30c254d9 ("swim: simplify using blk_cleanup_disk() on swim_remove()")
+51fbfedfcc86 ("swim: use blk_mq_alloc_disk")
+4c6e5bc8c05f ("swim: don't call blk_queue_bounce_limit")
+e3896d77b702 ("swim: convert to blk-mq")
+1448a2a5360a ("swim: fix cleanup on setup error")
+c1d6207cc0ee ("block/swim: Remove extra put_disk() call from error path")

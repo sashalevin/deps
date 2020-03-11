@@ -1,0 +1,3 @@
+56ca57f9fe55 ("KVM: MMU: use page track for non-leaf shadow pages")
+547ffaed871a ("KVM: MMU: introduce kvm_mmu_gfn_{allow,disallow}_lpage")
+92f94f1e9e50 ("KVM: MMU: rename has_wrprotected_page to mmu_gfn_lpage_is_disallowed")

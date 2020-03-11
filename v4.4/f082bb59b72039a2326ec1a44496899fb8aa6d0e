@@ -1,0 +1,8 @@
+f082bb59b720 ("ASoC: wm8994: Avoid attempts to read unreadable registers")
+00a6941c8412 ("ASoC: wm8993/wm8994/wm8958: replace codec to component")
+5a81eb5356c8 ("ASoC: use snd_soc_component_init_regmap() on wm8994")
+f802d6c02065 ("ASoC: constify snd_soc_codec_driver structures")
+f56531d019f3 ("ASoC: codec duplicated callback function goes to component on wm8782")
+59b06efb2374 ("ASoC: codec duplicated callback function goes to component on wm8727")
+c6c0a214001e ("ASoC: codec duplicated callback function goes to component on wm1250-ev1")
+5015920a1732 ("ASoC: Vendor drivers get a link's runtime by snd_soc_get_pcm_runtime()")

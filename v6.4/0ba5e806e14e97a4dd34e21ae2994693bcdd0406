@@ -1,0 +1,6 @@
+0ba5e806e14e ("mm/vmscan: update stale references to shrink_page_list")
+2033c98cce66 ("mm: remove invalidate_inode_page()")
+1e12cbb9f695 ("mm: make mapping_evict_folio() the preferred way to evict clean folios")
+1fec6890bf22 ("mm: remove references to pagevec")
+1a0fc811f5f5 ("mm: rename invalidate_mapping_pagevec to mapping_try_invalidate")
+895f5ee464cc ("mm/khugepaged: allow pte_offset_map[_lock]() to fail")

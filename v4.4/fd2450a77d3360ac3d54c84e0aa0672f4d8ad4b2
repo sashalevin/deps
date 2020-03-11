@@ -1,0 +1,7 @@
+fd2450a77d33 ("drm/etnaviv: clean up etnaviv_gem_new_handle")
+54f09288f912 ("drm/etnaviv: change return type of etnaviv_gem_obj_add to void")
+cdd325632d4b ("drm/etnaviv: fold __etnaviv_gem_new into caller")
+65375b873cb5 ("drm/etnaviv: switch GEM allocations to __GFP_RETRY_MAYFAIL")
+23d1dd03cc51 ("drm/etnaviv: switch to drm_*{get,put} helpers")
+6cbf04001ec0 ("drm/etnaviv: don't trigger OOM killer when page allocation fails")
+731c7d3a205b ("Merge tag 'drm-for-v4.8' of git://people.freedesktop.org/~airlied/linux")

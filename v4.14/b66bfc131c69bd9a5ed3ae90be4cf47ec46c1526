@@ -1,0 +1,6 @@
+b66bfc131c69 ("net/cadence: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+0ce205d4660c ("net: macb: Fix runtime PM refcounting")
+e6a41c23df0d ("net: macb: ensure interface is not suspended on at91rm9200")
+d54f89af6cc4 ("net: macb: Add pm runtime support")
+f5473d1d44e4 ("net: macb: Support clock management for tsu_clk")
+8beb79b7ae93 ("net: macb: Check MDIO state before read/write and use timeouts")

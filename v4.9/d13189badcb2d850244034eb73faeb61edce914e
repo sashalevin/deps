@@ -1,0 +1,5 @@
+d13189badcb2 ("fbdev: imxfb: Remove redundant dev_err() call")
+c5c7502e960d ("video: fbdev: imxfb: fix return value check in imxfb_probe()")
+b083c22d5114 ("video: fbdev: imxfb: Convert request_mem_region + ioremap to devm_ioremap_resource")
+9d54c5d47406 ("video: fbdev: imxfb: Check for null res pointer")
+5ae29649e03f ("video: fbdev: imxfb: use after free in imxfb_remove()")

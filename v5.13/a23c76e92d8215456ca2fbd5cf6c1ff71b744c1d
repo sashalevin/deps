@@ -1,0 +1,4 @@
+a23c76e92d82 ("svcrdma: trace cc_release calls")
+45f135846815 ("svcrdma: Split svcrmda_wc_{read,write} tracepoints")
+07a92d009f0b ("svcrdma: Convert rdma->sc_rw_ctxts to llist")
+6c8c84f52510 ("svcrdma: Fewer calls to wake_up() in Send completion handler")

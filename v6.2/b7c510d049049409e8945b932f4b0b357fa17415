@@ -1,0 +1,4 @@
+b7c510d04904 ("arm64/ptrace: Don't flush ZA/ZT storage when writing ZA via ptrace")
+5d0a8d2fba50 ("arm64/ptrace: Ensure that SME is set up for target when writing SSVE state")
+f90b529bcbe5 ("arm64/sme: Implement ZT0 ptrace support")
+ce514000da4f ("arm64/sme: Rename za_state to sme_state")

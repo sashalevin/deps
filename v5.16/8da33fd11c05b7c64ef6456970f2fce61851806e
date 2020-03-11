@@ -1,0 +1,8 @@
+8da33fd11c05 ("cifs: avoid deadlocks while updating iface")
+b54034a73baf ("cifs: during reconnect, update interface if necessary")
+bda487ac4beb ("cifs: avoid race during socket reconnect between send and recv")
+73f9bfbe3d81 ("cifs: maintain a state machine for tcp/smb/tcon sessions")
+080dc5e5656c ("cifs: take cifs_tcp_ses_lock for status checks")
+183eea2ee5ba ("cifs: reconnect only the connection and not smb session where possible")
+f486ef8e2003 ("cifs: use the chans_need_reconnect bitmap for reconnect status")
+d1a931ce2e3b ("cifs: track individual channel status using chans_need_reconnect")

@@ -1,0 +1,5 @@
+163a72fa8916 ("powerpc: Finally remove _PAGE_USER")
+8e9bd41e4ce1 ("powerpc/nohash: Replace pte_user() by pte_read()")
+69339071bb27 ("powerpc: Remove pte_mkuser() and pte_mkpriviledged()")
+c7263f156395 ("powerpc: Fail ioremap() instead of silently ignoring flags when PAGE_USER is set")
+d3c0dfcfc957 ("powerpc: Implement and use pgprot_nx()")

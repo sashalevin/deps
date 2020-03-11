@@ -1,0 +1,4 @@
+b9b6ee6fe258 ("thermal: gov_bang_bang: Call __thermal_cdev_update() directly")
+0ae204a66745 ("thermal: gov_bang_bang: Fold thermal_zone_trip_update() into its caller")
+4526c581098e ("thermal: gov_bang_bang: Clean up thermal_zone_trip_update()")
+530c932bdf75 ("thermal: gov_bang_bang: Use .trip_crossed() instead of .throttle()")

@@ -1,0 +1,4 @@
+41b43b6c6e30 ("locking/seqlock: Do the lockdep annotation before locking in do_write_seqcount_begin_nested()")
+66bcfcdf89d0 ("seqlock: Prefix internal seqcount_t-only macros with a "do_"")
+ab440b2c604b ("seqlock: Rename __seqprop() users")
+a07c45312f06 ("seqlock: avoid -Wshadow warnings")

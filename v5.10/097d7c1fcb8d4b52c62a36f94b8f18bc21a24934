@@ -1,0 +1,8 @@
+097d7c1fcb8d ("fscrypt: clean up fscrypt_add_test_dummy_key()")
+60e463f0be98 ("fscrypt: add the test dummy encryption key on-demand")
+ccd30a476f8e ("fscrypt: fix keyring memory leak on mount failure")
+d7e7b9af104c ("fscrypt: stop using keyrings subsystem for fscrypt_master_key")
+218d921b581e ("fscrypt: add new helper functions for test_dummy_encryption")
+bfb9700bdf35 ("fscrypt: factor out fscrypt_policy_to_key_spec()")
+83e804f0bfee ("fs,security: Add sb_delete hook")
+4a4b8721f1a5 ("fscrypt: simplify master key locking")

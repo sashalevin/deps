@@ -1,0 +1,8 @@
+7b2377486767 ("dm zoned: assign max_io_len correctly")
+368205601375 ("dm zoned: move fields from struct dmz_dev to dmz_metadata")
+bf28a3ba0986 ("dm zoned: store device in struct dmz_sb")
+735bd7e4cd16 ("dm zoned: use array for superblock zones")
+b71228739851 ("dm zoned: store zone id within the zone structure and kill dmz_id()")
+bc3d5717d242 ("dm zoned: add 'status' callback")
+b39962950339 ("dm zoned: support zone sizes smaller than 128MiB")
+eeee2827ae75 ("Merge tag 'for-5.5/dm-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

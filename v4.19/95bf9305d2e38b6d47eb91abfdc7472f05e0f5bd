@@ -1,0 +1,5 @@
+95bf9305d2e3 ("irqchip/qcom-pdc: Allow QCOM_PDC to be loadable as a permanent module")
+81ef8bf88065 ("irqchip/qcom-pdc: Add irqdomain for wakeup capable GPIOs")
+da3f875a4189 ("irqchip/qcom-pdc: Do not toggle IRQ_ENABLE during mask/unmask")
+b2bb01ed0894 ("irqchip/qcom-pdc: Update max PDC interrupts")
+8e4d5a5bde88 ("drivers: irqchip: qcom-pdc: Move to an SoC independent compatible")

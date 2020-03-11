@@ -1,0 +1,5 @@
+4bf7e7a19df1 ("crypto: arm64/chacha20 - move kernel mode neon en/disable into loop")
+b7171ce9eb52 ("crypto: arm64/chacha20 - implement NEON version based on SSE3 code")
+8fefde90e90c ("crypto: arm64/crc32 - accelerated support based on x86 SSE implementation")
+6ef5737f3931 ("crypto: arm64/crct10dif - port x86 SSE implementation to arm64")
+7918ecef073f ("crypto: arm64/sha2 - integrate OpenSSL implementations of SHA256/SHA512")

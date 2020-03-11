@@ -1,0 +1,7 @@
+f7dec6cb914c ("net: qrtr: Add GFP flags parameter to qrtr_alloc_ctrl_packet")
+cb6530b99faf ("net: qrtr: Move resume-tx transmission to recvmsg")
+194ccc88297a ("net: qrtr: Support decoding incoming v2 packets")
+f507a9b6e63b ("net: qrtr: Use sk_buff->cb in receive path")
+1a7959c76641 ("net: qrtr: Clean up control packet handling")
+e7044482c8ac ("net: qrtr: Pass source and destination to enqueue functions")
+28978713c51b ("net: qrtr: Move constants to header file")

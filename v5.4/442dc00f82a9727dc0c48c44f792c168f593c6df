@@ -1,0 +1,6 @@
+442dc00f82a9 ("selinux: make nslot handling in avtab more robust")
+5e729e111eaf ("selinux: avtab_init() and cond_policydb_init() return void")
+34a2dab488bc ("selinux: clean up error path in policydb_init()")
+e0ac568de1fa ("selinux: reduce the use of hard-coded hash sizes")
+c3a276111ea2 ("selinux: optimize storage of filename transitions")
+253050f57c7a ("selinux: factor out loop body from filename_trans_read()")

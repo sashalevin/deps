@@ -1,0 +1,6 @@
+5a32fac8dbe8 ("x86/fpu/regset: Move fpu__read_begin() into regset")
+adc997b3d66d ("x86/fpu: Use copy_xstate_to_uabi_buf() in xfpregs_get()")
+3a3351126ee8 ("x86/fpu: Simplify PTRACE_GETREGS code")
+0557d64d983e ("x86: switch to ->regset_get()")
+36c8673f90c8 ("x86: copy_fpstate_to_sigframe(): have fpregs_soft_get() use kernel buffer")
+0a319ef75d93 ("Merge tag 'x86-fpu-2020-06-01' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

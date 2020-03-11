@@ -1,0 +1,7 @@
+d0c77d84b497 ("xhci: rename and simplify last_trb_on_last_seg() helper")
+549310ab5d72 ("xhci: remove enqueue_is_link() helper")
+bd5e67f59a2e ("xhci: rework inc_deq() and fix off by one error.")
+2d98ef406f17 ("xhci: use and add separate function for checking for link trbs")
+2251198bef42 ("xhci: clean up event ring checks from inc_enq()")
+474ed23a6257 ("xhci: align the last trb before link if it is easily splittable.")
+d2510342fe93 ("usb: xhci: merge xhci_queue_bulk_tx and queue_bulk_sg_tx functions")

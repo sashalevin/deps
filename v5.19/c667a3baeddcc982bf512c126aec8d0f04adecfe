@@ -1,0 +1,3 @@
+c667a3baeddc ("KVM: x86/mmu: Move round_gfn_for_level() helper into mmu_internal.h")
+e5e6f8d254a2 ("KVM: x86/mmu: Initialize fault.{gfn,slot} earlier for direct MMUs")
+d5e90a699875 ("KVM: x86/mmu: Restrict mapping level based on guest MTRR iff they're used")

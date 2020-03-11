@@ -1,0 +1,8 @@
+5981690ddb8f ("memremap: split devm_memremap_pages() and memremap() infrastructure")
+7b2d55d2c896 ("mm/ZONE_DEVICE: special case put_page() for device private pages")
+5042db43cc26 ("mm/ZONE_DEVICE: new type of ZONE_DEVICE for unaddressable memory")
+da4c3c735ea4 ("mm/hmm/mirror: helper to snapshot CPU page table")
+c0b124054f9e ("mm/hmm/mirror: mirror process address space on device with HMM helpers")
+133ff0eac95b ("mm/hmm: heterogeneous memory management (HMM for short)")
+ab1b597ee0e4 ("mm, devm_memremap_pages: use multi-order radix for ZONE_DEVICE lookups")
+413d63d71b22 ("Merge branch 'linus' into x86/mm to pick up fixes and to fix conflicts")

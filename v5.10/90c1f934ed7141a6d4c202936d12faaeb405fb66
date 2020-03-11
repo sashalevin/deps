@@ -1,0 +1,6 @@
+90c1f934ed71 ("KVM: arm64: Get rid of the AArch32 register mapping code")
+7d76b8a60350 ("KVM: arm64: Remove SPSR manipulation primitives")
+bb666c472ca2 ("KVM: arm64: Inject AArch64 exceptions from HYP")
+e650b64f1a56 ("KVM: arm64: Add basic hooks for injecting exceptions from EL2")
+cdb5e02ed133 ("KVM: arm64: Make kvm_skip_instr() and co private to HYP")
+6ddbc281e2aa ("KVM: arm64: Move kvm_vcpu_trap_il_is32bit into kvm_skip_instr32()")

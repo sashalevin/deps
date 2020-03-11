@@ -1,0 +1,4 @@
+d105d6920ec7 ("arm64/ptrace: Don't clear calling process' TIF_SME on OOM")
+776b4a1cf364 ("arm64/sme: Add ptrace support for ZA")
+e12310a0d30f ("arm64/sme: Implement ptrace support for streaming mode SVE registers")
+30c43e73b3fa ("arm64/sve: Generalise vector length configuration prctl() for SME")

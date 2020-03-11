@@ -1,0 +1,6 @@
+196f5406baa5 ("iio: imu: adis16480.c: Add delta angle and delta velocity channels")
+80cbc848c4fa ("iio: imu: adis16480: Add support for ADIS16490")
+380b107bbf94 ("iio: adis: Introduce timeouts structure")
+cb5a07f1f15c ("iio: imu: adis: protect initial startup routine with state lock")
+6a9afcb198b4 ("iio: imu: adis: rename txrx_lock -> state_lock")
+49549cb23a29 ("iio: adis16480: Fix scales factors")

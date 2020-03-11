@@ -1,0 +1,7 @@
+48309e1f6f7b ("mm: memory-failure: kill __soft_offline_page()")
+7adb45887c8a ("mm: memory-failure: kill soft_offline_free_page()")
+2ace36f0f557 ("mm: memory-failure: cleanup try_to_split_thp_page()")
+ae483c200626 ("mm/memory-failure.c: remove obsolete comment")
+4966455d9100 ("mm: hwpoison: handle non-anonymous THP correctly")
+eac96c3efdb5 ("mm: filemap: check if THP has hwpoisoned subpage for PMD page fault")
+f0953a1bbaca ("mm: fix typos in comments")

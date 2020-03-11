@@ -1,0 +1,4 @@
+cc160fc29a26 ("net: mscc: ocelot: report FIFO drop counters through stats->rx_dropped")
+e780e3193e88 ("net: mscc: ocelot: report ndo_get_stats64 from the wraparound-resistant ocelot->stats")
+18d8e67df184 ("net: mscc: ocelot: fix race between ndo_get_stats64 and ocelot_check_stats_work")
+5152de7b79ab ("net: mscc: ocelot: fix incorrect ndo_get_stats64 packet counters")

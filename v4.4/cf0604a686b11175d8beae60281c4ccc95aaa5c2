@@ -1,0 +1,3 @@
+cf0604a686b1 ("cifs: use discard iterator to discard unneeded network data more efficiently")
+71335664c38f ("cifs: don't bother with kmap on read_pages side")
+09aab880f7c5 ("cifs: no need to wank with copying and advancing iovec on recvmsg side either")

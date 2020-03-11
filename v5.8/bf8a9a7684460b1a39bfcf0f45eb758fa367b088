@@ -1,0 +1,7 @@
+bf8a9a768446 ("leds: pm8058: Get rid of custom led_init_default_state_get()")
+fb270ba0d9ba ("leds: pm8058: cosmetic change: use helper variable")
+eed951bbf737 ("leds: pm8058: use struct led_init_data when registering")
+8853c95e997e ("leds: various: use dev_of_node(dev) instead of dev->of_node")
+2779f4724b2f ("leds: various: use device_get_match_data")
+dddb4e38c6ba ("leds: is31fl319x: Add shutdown pin and generate a 5ms low pulse when startup")
+089381b27abe ("leds: initial support for Turris Omnia LEDs")

@@ -1,0 +1,4 @@
+e0bddc19ba95 ("x86/mm: Reduce untagged_addr() overhead for systems without LAM")
+74c228d20a51 ("x86/uaccess: Provide untagged_addr() and remove tags before address check")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+80e4c1cd42ff ("x86/retbleed: Add X86_FEATURE_CALL_DEPTH")

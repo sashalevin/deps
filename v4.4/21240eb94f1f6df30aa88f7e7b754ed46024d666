@@ -1,0 +1,8 @@
+21240eb94f1f ("reset: make (de)assert report success for self-deasserting reset drivers")
+17c82e206d2a ("reset: Add APIs to manage array of resets")
+62e24c5775ec ("reset: add exported __reset_control_get, return NULL if optional")
+bb475230b8e5 ("reset: make optional functions really optional")
+ee48c726d0b0 ("reset: Change shared flag from int to bool")
+7da33a37b48f ("reset: allow using reset_control_reset with shared reset")
+a3774e146a14 ("reset: warn on invalid input to reset_control_reset/assert/deassert/status")
+af3e1629c8d0 ("Merge branch 'reset/explicit-api' into reset/next")

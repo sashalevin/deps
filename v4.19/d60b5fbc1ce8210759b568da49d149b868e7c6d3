@@ -1,0 +1,6 @@
+d60b5fbc1ce8 ("io_uring: fix current->mm NULL dereference on exit")
+bbde017a32b3 ("io_uring: add memory barrier to synchronize io_kiocb's result and iopoll_completed")
+65a6543da386 ("io_uring: fix io_kiocb.flags modification race in IOPOLL mode")
+581f98103489 ("io_uring: process requests completed with -EAGAIN on poll list")
+055895537302 ("io_uring: refactor file register/unregister/update handling")
+e59cd88028db ("Merge tag 'for-5.7/io_uring-2020-03-29' of git://git.kernel.dk/linux-block")

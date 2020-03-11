@@ -1,0 +1,8 @@
+e746c1f1b94a ("KVM: x86: Rename inject_pending_events() to kvm_check_and_inject_events()")
+d4963e319f1f ("KVM: x86: Make kvm_queued_exception a properly named, visible struct")
+5623f751bd9c ("KVM: x86: Treat #DBs from the emulator as fault-like (code and DR7.GD=1)")
+8d178f460772 ("KVM: nVMX: Treat General Detect #DB (DR7.GD=1) as fault-like")
+eba9799b5a6e ("KVM: VMX: Drop bits 31:16 when shoving exception error code into VMCS")
+ce0a58f4756c ("KVM: x86: Move "apicv_active" into "struct kvm_lapic"")
+d39850f57d21 ("KVM: x86: Drop @vcpu parameter from kvm_x86_ops.hwapic_isr_update()")
+a61d7c5432ac ("KVM: x86: Trace re-injected exceptions")

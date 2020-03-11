@@ -1,0 +1,6 @@
+fe75889f2794 ("RDMA/{cma, ucma}: Simplify and rename rdma_set_ib_paths")
+9327c7afdce3 ("RDMA/cma: Provide a function to set RoCE path record L2 parameters")
+608bc44634f3 ("RDMA/cma: Use the right net namespace for the rdma_cm_id")
+c42388053758 ("RDMA/cma: Avoid setting path record type twice")
+4367ec7fe2dd ("RDMA/cma: Simplify netdev check")
+5c181bda77f4 ("RDMA/cma: Set default GID type as RoCE when resolving RoCE route")

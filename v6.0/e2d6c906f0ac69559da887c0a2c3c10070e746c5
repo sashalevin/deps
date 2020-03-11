@@ -1,0 +1,4 @@
+e2d6c906f0ac ("arm64: Add KVM_HVHE capability and has_hvhe() predicate")
+0ddc312b7c73 ("arm64: Turn kaslr_feature_override into a generic SW feature override")
+675cabc89900 ("arm64: Add ARM64_HAS_NESTED_VIRT cpufeature")
+b2a4d007c347 ("KVM: arm64: Ignore kvm-arm.mode if !is_hyp_mode_available()")

@@ -1,0 +1,7 @@
+22682a07acc3 ("objtool: Fix objtool regression on x32 systems")
+c087c6e7b551 ("objtool: Fix type of reloc::addend")
+8b946cc38e06 ("objtool: Introduce CFI hash")
+9bc0bb50727c ("objtool/x86: Rewrite retpoline thunk calls")
+ef47cc01cb4a ("objtool: Add elf_create_reloc() helper")
+3a647607b57a ("objtool: Rework the elf_rebuild_reloc_section() logic")
+119251855f9a ("x86/retpoline: Simplify retpolines")

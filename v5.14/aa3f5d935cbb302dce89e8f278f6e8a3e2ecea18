@@ -1,0 +1,6 @@
+aa3f5d935cbb ("can: at91_can: at91_poll_err(): increase stats even if no quota left or OOM")
+864c6f07d3c4 ("can: at91_can: at91_poll_err(): fold in at91_poll_err_frame()")
+676068db69b8 ("can: do not increase rx statistics when generating a CAN rx error message frame")
+28e0a70cede3 ("can: peak_usb: CANFD: store 64-bits hw timestamps")
+ccc5f1c994df ("net: at91_can: fix the alignment issue")
+42b9fd6ec7c9 ("can: at91_can: use DEVICE_ATTR_RW() helper macro")

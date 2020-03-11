@@ -1,0 +1,8 @@
+da510964c095 ("mm/mmu_gather: define ENCODED_PAGE_FLAG_DELAY_RMAP")
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")
+5df397dec7c4 ("mm: delay page_remove_rmap() until after the TLB has been flushed")
+7cc8f9c7146a ("mm: mmu_gather: prepare to gather encoded page pointers with flags")
+70fb4fdff582 ("mm: introduce 'encoded' page pointers with embedded extra bits")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+b191c9bc334a ("mm/mmu_gather: limit free batch count and add schedule point in tlb_batch_pages_flush")
+3ce62cf4dc3b ("Merge tag 'flexible-array-transformations-5.18-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gustavoars/linux")

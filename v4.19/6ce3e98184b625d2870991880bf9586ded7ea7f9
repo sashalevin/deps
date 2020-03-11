@@ -1,0 +1,6 @@
+6ce3e98184b6 ("irqdomain: Fixed unbalanced fwnode get and put")
+67a4e1a3bf7c ("irqdomain: Use return value of strreplace()")
+ed1054a02aa2 ("irqdomain: Mark fwnodes when their irqdomain is added/removed")
+181e9d4efaf6 ("irqdomain: Make __irq_domain_add() less OF-dependent")
+43b98d876f89 ("genirq/irqdomain: Remove WARN_ON() on out-of-memory condition")
+94967b55ebf3 ("genirq/debugfs: Reinstate full OF path for domain name")

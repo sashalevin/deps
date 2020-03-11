@@ -1,0 +1,2 @@
+4bc3bffc1a88 ("scsi: core: Fix scsi_device_max_queue_depth()")
+ca4453213951 ("scsi: core: Make sure sdev->queue_depth is <= max(shost->can_queue, 1024)")

@@ -1,0 +1,7 @@
+66ff70df1a91 ("mptcp: use OPTION_MPTCP_MPJ_SYN in subflow_check_req()")
+74c7dfbee3e1 ("mptcp: consolidate in_opt sub-options fields in a bitmask")
+a086aebae0eb ("mptcp: better binary layout for mptcp_options_received")
+8d548ea1dd15 ("mptcp: do not set unconditionally csum_reqd on incoming opt")
+eb7f33654dc1 ("mptcp: add the mibs for MP_FAIL")
+478d770008b0 ("mptcp: send out MP_FAIL when data checksum fails")
+5580d41b758a ("mptcp: MP_FAIL suboption receiving")

@@ -1,0 +1,8 @@
+cb1c9e02b0c1 ("x86/efistub: Perform 4/5 level paging switch from the stub")
+d2d7a54f69b6 ("x86/efistub: Branch straight to kernel entry point from C code")
+a37dac5c5dcf ("arm64: efi: Limit allocations to 48-bit addressable physical region")
+f1a116c055e3 ("efi/riscv: libstub: Split off kernel image relocation for builtin stub")
+895bc3a135ff ("efi: libstub: Factor out min alignment and preferred kernel load address")
+732ea9db9d8a ("efi: libstub: Move screen_info handling to common code")
+69e377b28937 ("efi/arm: libstub: move ARM specific code out of generic routines")
+24e88ab04488 ("Merge tag 'efi-loongarch-for-v6.1-2' into HEAD")

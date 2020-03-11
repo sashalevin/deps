@@ -1,0 +1,7 @@
+4c4a763406ef ("mm: drop swap_dirty_folio")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+3a3bae50af5d ("fs: Remove aops ->set_page_dirty")
+46de8b979492 ("fs: Convert __set_page_dirty_no_writeback to noop_dirty_folio")
+7e63df00cf5e ("mm: Convert swap_set_page_dirty() to swap_dirty_folio()")
+6f31a5a261db ("fs: Add aops->dirty_folio")
+5660a8630dab ("fs: Remove noop_invalidatepage()")

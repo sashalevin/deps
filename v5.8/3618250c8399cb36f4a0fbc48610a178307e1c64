@@ -1,0 +1,4 @@
+3618250c8399 ("powerpc/ptrace: Don't return error when getting/setting FP regs without CONFIG_PPC_FPU_REGS")
+4d90eb97e292 ("powerpc/ptrace: Create ptrace_get_fpr() and ptrace_put_fpr()")
+e009fa433542 ("powerpc/ptrace: Consolidate reg index calculation")
+47e12855a91d ("powerpc: switch to ->regset_get()")

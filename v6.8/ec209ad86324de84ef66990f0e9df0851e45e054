@@ -1,0 +1,4 @@
+ec209ad86324 ("bpf: verifier: Relax caller requirements for kfunc projection type args")
+fb5b86cfd4ef ("bpf: simplify btf_get_prog_ctx_type() into btf_is_prog_ctx_type()")
+54c11ec4935a ("bpf: prepare btf_prepare_func_args() for multiple tags per argument")
+18810ad3929f ("bpf: make sure scalar args don't accept __arg_nonnull tag")

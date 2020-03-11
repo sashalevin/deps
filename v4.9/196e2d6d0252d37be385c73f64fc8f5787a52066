@@ -1,0 +1,4 @@
+196e2d6d0252 ("rbd: ask for a weaker incompat mask for read-only mappings")
+5769ed0cb12d ("rbd: fix error handling around rbd_init_disk()")
+8b679ec5257e ("rbd: move rbd_dev_destroy() call out of rbd_dev_image_release()")
+ecd4a68a26a2 ("rbd: switch rbd_obj_method_sync() to ceph_osdc_call()")

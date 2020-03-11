@@ -1,0 +1,6 @@
+feeb9b269523 ("filemap: skip write and wait if end offset precedes start")
+8667982014d6 ("mm, pagevec: remove cold parameter for pagevecs")
+d9ed0d08b6c6 ("mm: only drain per-cpu pagevecs once per pagevec usage")
+aa65c29ce1b6 ("mm: batch radix tree operations when truncating pages")
+312e9d2f7053 ("mm: use pagevec_lookup_range_tag() in __filemap_fdatawait_range()")
+d34fc1adf01f ("Merge branch 'akpm' (patches from Andrew)")

@@ -1,0 +1,5 @@
+b95303e0aeaf ("sched: Add cpus_share_resources API")
+751d4cbc4387 ("sched/core: Do not requeue task on CPU excluded from cpus_mask")
+f3dd3f674555 ("sched: Remove the limitation of WF_ON_CPU on wakelist if wakee cpu is idle")
+28156108fecb ("sched: Fix the check of nr_running at queue wakelist")
+778c558f49a2 ("sched: Add cluster scheduler level in core and related Kconfig for ARM64")

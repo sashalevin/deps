@@ -1,0 +1,6 @@
+5c2a380a5aa8 ("xhci: Allocate separate command structures for each LPM command")
+b3d71abd135e ("xhci: Poll for U0 after disabling USB2 LPM")
+14d49b7a0bfe ("xhci: add helper to allocate command with input context")
+74e0b5649c26 ("usb: xhci: remove error messages for failed memory allocation")
+c2d3d49bba08 ("usb: xhci: move slot_id from xhci_hcd to xhci_command structure")
+87e44f2aac8d ("usb: xhci: remove the use of xhci->addr_dev")

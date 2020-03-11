@@ -1,0 +1,3 @@
+0e5da22e3f80 ("rcu: Move __rcu_read_lock() and __rcu_read_unlock() to tree_plugin.h")
+900b1028ec38 ("srcu: Allow SRCU to access rcu_scheduler_active")
+52d7e48b86fc ("rcu: Narrow early boot window of illegal synchronous grace periods")

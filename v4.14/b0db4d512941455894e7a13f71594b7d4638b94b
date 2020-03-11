@@ -1,0 +1,5 @@
+b0db4d512941 ("ALSA: bebob: support AMDTP domain")
+d173265ae36f ("ALSA: bebob: code refactoring for error path to start duplex stream")
+33e41a5ce59a ("ALSA: bebob: code refactoring to initialize/destroy stream data")
+83122f85d4d8 ("ALSA: bebob: don't set XRUN in stop streaming")
+ac2888b958f2 ("ALSA: bebob: configure sampling transfer frequency in pcm.hw_params callback")

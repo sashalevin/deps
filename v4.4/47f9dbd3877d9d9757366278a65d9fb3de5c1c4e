@@ -1,0 +1,4 @@
+47f9dbd3877d ("do_last(): get rid of duplicate ELOOP check")
+6ac087099edf ("path_openat(): take O_PATH handling out of do_last()")
+5129fa482b16 ("do_last(): ELOOP failure exit should be done after leaving RCU mode")
+62fb4a155f74 ("don't carry MAY_OPEN in op->acc_mode")

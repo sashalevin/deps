@@ -1,0 +1,7 @@
+d4ceb1d6e732 ("audit: avoid -Wempty-body warning")
+cd108b5c51db ("audit: hide auditsc_get_stamp and audit_serial prototypes")
+05c7a9cb2727 ("audit: clean up AUDITSYSCALL prototypes and stubs")
+4b7d248b3a1d ("audit: move loginuid and sessionid from CONFIG_AUDITSYSCALL to CONFIG_AUDIT")
+9e36a5d49c3a ("audit: hand taken context to audit_kill_trees for syscall logging")
+2a1fe215e730 ("audit: use current whenever possible")
+c8fc5d49c341 ("audit: remove WATCH and TREE config options")

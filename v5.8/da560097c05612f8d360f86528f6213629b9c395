@@ -1,0 +1,5 @@
+da560097c056 ("spi: Check if transfer is mapped before calling DMA sync APIs")
+8cc3bad9d9d6 ("spi: Remove unneded check for orig_nents")
+8e9204cddcc3 ("spi: Ensure that sg_table won't be used after being freed")
+0c17ba73c08f ("spi: Fix cache corruption due to DMA/PIO overlap")
+809b1b04df89 ("spi: introduce fallback to pio")

@@ -1,0 +1,8 @@
+771153fc884f ("PCI: aardvark: Fix support for bus mastering and PCI_COMMAND on emulated bridge")
+7f71a409fe3d ("PCI: aardvark: Implement workaround for the readback value of VEND_ID")
+b2a56469d550 ("PCI: aardvark: Add FIXME comment for PCIE_CORE_CMD_STATUS_REG access")
+43fc679ced18 ("PCI: aardvark: Improve link training")
+90c6cb4a355e ("PCI: aardvark: Don't blindly enable ASPM L0s and don't write to read-only register")
+6964494582f5 ("PCI: aardvark: Train link immediately after enabling training")
+f4c7d053d7f7 ("PCI: aardvark: Wait for endpoint to be ready before training link")
+364b3f1ff8f0 ("PCI: aardvark: Use LTSSM state to build link training flag")

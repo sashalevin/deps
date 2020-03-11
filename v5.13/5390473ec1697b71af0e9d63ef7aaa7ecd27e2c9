@@ -1,0 +1,7 @@
+5390473ec169 ("rcu: Don't penalize priority boosting when there is nothing to boost")
+063f5a4df991 ("rcutorture: Don't count CPU-stalled time against priority boosting")
+0260b92e1c39 ("rcutorture: Forgive RCU boost failures when CPUs don't pass through QS")
+bcd4af44e2f1 ("rcutorture: Make rcu_torture_boost_failed() check for GP end")
+7b9dad7abad7 ("rcutorture: Delay-based false positives for RCU priority boosting tests")
+ea6d962e80b6 ("rcutorture: Judge RCU priority boosting on grace periods, not callbacks")
+a5c095e0e9b6 ("rcutorture: Abstract read-lock-held checks")

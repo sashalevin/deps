@@ -1,0 +1,4 @@
+81fd9c18444e ("x86/fault: Plumb error code and fault address through to fault handlers")
+75045f77f7a7 ("x86/extable: Introduce _ASM_EXTABLE_UA for uaccess fixups")
+3ae6295ccb7c ("x86: Call fixup_exception() before notify_die() in math_error()")
+80a3e3949b8f ("x86/extable: Mark exception handler functions visible")

@@ -1,0 +1,2 @@
+f798a1d4f94d ("mm: fix use-after-free bug when mm->mmap is reused after being freed")
+64591e8605d6 ("mm: protect free_pgtables with mmap_lock write lock in exit_mmap")

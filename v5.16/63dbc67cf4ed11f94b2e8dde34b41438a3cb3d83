@@ -1,0 +1,4 @@
+63dbc67cf4ed ("KVM: SEV: remove ghcb variable declarations")
+7588dbcebcbf ("KVM: SEV: only access GHCB fields once")
+4e15a0ddc3ff ("KVM: SEV: snapshot the GHCB before accessing it")
+aa9f58415a8e ("KVM: SVM: Exit to userspace on ENOMEM/EFAULT GHCB errors")

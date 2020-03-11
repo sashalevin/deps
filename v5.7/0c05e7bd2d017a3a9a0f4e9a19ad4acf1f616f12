@@ -1,0 +1,7 @@
+0c05e7bd2d01 ("livepatch,x86: Clear relocation targets on a module removal")
+bbb93362a445 ("x86/module: remove unused code in __apply_relocate_add")
+a4ae16f65c33 ("livepatch: Make klp_apply_object_relocs static")
+88fc078a7a8f ("x86/module: Use text_poke() for late relocations")
+ca376a937486 ("livepatch: Prevent module-specific KLP rela sections from referencing vmlinux symbols")
+1d05334d2899 ("livepatch: Remove .klp.arch")
+7c8e2bdd5f0d ("livepatch: Apply vmlinux-specific KLP relocations early")

@@ -1,0 +1,4 @@
+a1ab24e5fc4a ("mptcp: consolidate sockopt synchronization")
+e3d9387f0026 ("security, lsm: Introduce security_mptcp_add_subflow()")
+ddb1a072f858 ("mptcp: move first subflow allocation at mpc access time")
+a2702a076e73 ("mptcp: move fastopen subflow check inside mptcp_sendmsg_fastopen()")

@@ -1,0 +1,3 @@
+325d5c5fb216 ("scsi: target: tcmu: Avoid holding XArray lock when calling lock_page")
+bb9b9eb0ae2e ("scsi: target: tcmu: Fix possible data corruption")
+a6968f7a367f ("scsi: target: tcmu: Fix possible page UAF")

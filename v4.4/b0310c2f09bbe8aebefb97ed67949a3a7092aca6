@@ -1,0 +1,5 @@
+b0310c2f09bb ("USB: use genalloc for USB HCs with local memory")
+8694f59c3b13 ("USB: OHCI: use dma_pool_zalloc")
+f5e6253fe6de ("usb: core: buffer: avoid NULL pointer dereferrence")
+badf6d47f8a9 ("usb: common: rework CONFIG_USB_COMMON logic")
+58f2266f4019 ("usb: core: Allow compilation on platforms where NO_DMA=y")

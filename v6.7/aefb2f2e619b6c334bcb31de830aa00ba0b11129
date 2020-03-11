@@ -1,0 +1,7 @@
+aefb2f2e619b ("x86/bugs: Rename CONFIG_RETPOLINE            => CONFIG_MITIGATION_RETPOLINE")
+f7af6977621a ("x86/paravirt: Remove no longer needed paravirt patching code")
+60bc276b129e ("x86/paravirt: Switch mixed paravirt/alternative calls to alternatives")
+9824b00c2b58 ("x86/paravirt: Move some functions and defines to alternative.c")
+772ca413537e ("x86/paravirt: Introduce ALT_NOT_XEN")
+fe22bc430c9d ("x86/paravirt: Make the struct paravirt_patch_site packed")
+5c22c4726e4a ("x86/paravirt: Use relative reference for the original instruction offset")

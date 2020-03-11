@@ -1,0 +1,3 @@
+82f0b6f041fa ("mm: prevent derefencing NULL ptr in pfn_section_valid()")
+5ec8e8ea8b77 ("mm/sparsemem: fix race in accessing memory_section->usage")
+f1dc0db296bd ("mm: use __pfn_to_section() instead of open coding it")

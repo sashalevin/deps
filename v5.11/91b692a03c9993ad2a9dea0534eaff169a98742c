@@ -1,0 +1,7 @@
+91b692a03c99 ("KVM: SEV: provide helpers to charge/uncharge misc_cg")
+bb2baeb214a7 ("KVM: SVM: improve the code readability for ASID management")
+469bb32b68d5 ("KVM: SVM: Skip SEV cache flush if no ASIDs have been used")
+b95c221cac16 ("KVM: SVM: Move SEV VMCB tracking allocation to sev.c")
+f31b88b35f90 ("KVM: SVM: Free sev_asid_bitmap during init if SEV setup fails")
+3b1902b87bf1 ("KVM: SVM: Zero out the VMCB array used to track SEV ASID association")
+fd49e8ee70b3 ("Merge branch 'kvm-sev-cgroup' into HEAD")

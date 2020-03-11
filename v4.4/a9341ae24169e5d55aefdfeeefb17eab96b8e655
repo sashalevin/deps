@@ -1,0 +1,5 @@
+a9341ae24169 ("MIPS: c-r4k: Split r4k_flush_kernel_vmap_range()")
+d374d93742f6 ("MIPS: c-r4k: Add r4k_on_each_cpu cache op type arg")
+e523f289fe4d ("MIPS: c-r4k: Fix sigtramp SMP call to use kmap")
+c00ab4896ed5 ("MIPS: Remove cpu_has_safe_index_cacheops")
+b2a3c5be4d6d ("MIPS: c-r4k: Sync icache when it fills from dcache")

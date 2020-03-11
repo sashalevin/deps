@@ -1,0 +1,6 @@
+7879fc4bdc75 ("x86/rdrand: Sanity-check RDRAND output")
+3b290398638e ("x86, asm: Use CC_SET()/CC_OUT() and static_cpu_has() in archrandom.h")
+117780eef774 ("x86, asm: use bool for bitops and other assembly outputs")
+2823d4da5d8a ("x86, bitops: remove use of "sbb" to return CF")
+8dd5032d9c54 ("x86/asm/bitops: Force inlining of test_and_set_bit and friends")
+0007bccc3cfd ("x86: Replace RDRAND forced-reseed with simple sanity check")

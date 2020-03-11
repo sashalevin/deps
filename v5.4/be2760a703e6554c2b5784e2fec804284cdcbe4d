@@ -1,0 +1,8 @@
+be2760a703e6 ("f2fs: Configure dentry operations at dentry-creation time")
+43c780ba2624 ("f2fs: rework filename handling")
+f874fa1c7c79 ("f2fs: split f2fs_d_compare() from f2fs_match_name()")
+ff5f85c8d62a ("f2fs: don't leak filename in f2fs_try_convert_inline_dir()")
+80f2388afa6e ("f2fs: fix race conditions in ->d_compare() and ->d_hash()")
+5515eae64742 ("f2fs: fix dcache lookup of !casefolded directories")
+b06af2aff28b ("f2fs: convert inline_dir early before starting rename")
+5b1dbb082f19 ("f2fs: set I_LINKABLE early to avoid wrong access by vfs")

@@ -1,0 +1,7 @@
+7d2822dfea12 ("arm/dma-mapping: Implement DMA_ATTR_PRIVILEGED")
+24ed5d2c07e3 ("arm: dma-mapping: add {map,unmap}_resource for iommu ops")
+565068221b90 ("ARM: 8561/4: dma-mapping: Fix the coherent case when iommu is used")
+f12708965069 ("ARM: 8561/3: dma-mapping: Don't use outer_flush_range when the L2C is coherent")
+b67dd2e9bdc0 ("ARM: 8548/1: dma-mapping: remove arm_dma_set_mask()")
+b42686761219 ("ARM: 8546/1: dma-mapping: refactor to fix coherent+cma+gfp=0")
+19e6e5e5392b ("ARM: 8547/1: dma-mapping: store buffer information")

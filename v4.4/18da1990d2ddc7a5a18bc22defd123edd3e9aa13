@@ -1,0 +1,8 @@
+18da1990d2dd ("mmc: sdhci: Add version V4 definition")
+6132a3bf0711 ("mmc: sdhci: Add sdhci_read_caps()")
+28da35899e60 ("mmc: sdhci: Tidy caps variables in sdhci_setup_host()")
+52f5336db2d6 ("mmc: sdhci: Split sdhci_add_host()")
+eb5c20de3518 ("mmc: sdhci: Fix error paths in sdhci_add_host()")
+7b91369b4655 ("mmc: sdhci: Set DMA mask when adding host")
+5eaa7476f937 ("mmc: sdhci: Allow CAPS check for SDHCI_CAN_64BIT to use overridden caps")
+2e4456f08fa8 ("mmc: sdhci: Fix strings broken across multiple lines")

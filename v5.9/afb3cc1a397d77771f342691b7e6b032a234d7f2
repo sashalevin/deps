@@ -1,0 +1,3 @@
+afb3cc1a397d ("net: dsa: unlock the rtnl_mutex when dsa_master_setup() fails")
+c146f9bc195a ("net: dsa: hold rtnl_mutex when calling dsa_master_{setup,teardown}")
+c3975400c801 ("net: dsa: allow drivers to request promiscuous mode on master")

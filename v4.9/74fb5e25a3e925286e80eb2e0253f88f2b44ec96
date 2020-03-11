@@ -1,0 +1,7 @@
+74fb5e25a3e9 ("net: phy: improve handling of PHY_RUNNING in state machine")
+3c507b8af638 ("net: phy: add helper phy_polling_mode")
+215d08a85b9a ("net: phy: consider PHY_IGNORE_INTERRUPT in phy_start_aneg_priv")
+eaf47b17a77f ("net: phy: consider PHY_IGNORE_INTERRUPT in state machine PHY_NOLINK handling")
+f555f34fdc58 ("net: phy: fix auto-negotiation stall due to unavailable interrupt")
+eab127717a6a ("net: phy: Avoid deadlock during phy_error()")
+811a919135b9 ("phy state machine: failsafe leave invalid RUNNING state")

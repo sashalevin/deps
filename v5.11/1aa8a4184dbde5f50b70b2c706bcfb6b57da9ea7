@@ -1,0 +1,7 @@
+1aa8a4184dbd ("KVM: x86: hyper-v: Honor HV_STIMER_DIRECT_MODE_AVAILABLE privilege bit")
+aafa97fd1c01 ("KVM: x86: hyper-v: Rename vcpu_to_stimer()/stimer_to_vcpu()")
+e0121fa29a7f ("KVM: x86: hyper-v: Rename vcpu_to_synic()/synic_to_vcpu()")
+ef3f3980dedf ("KVM: x86: hyper-v: Rename vcpu_to_hv_vcpu() to to_hv_vcpu()")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

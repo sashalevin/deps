@@ -1,0 +1,7 @@
+982fc3965d13 ("scsi: lpfc: Don't release final kref on Fport node while ABTS outstanding")
+7e473de75e12 ("scsi: lpfc: vmid: Implement ELS commands for appid")
+f115612528b8 ("scsi: lpfc: Standardize discovery object logging format")
+618e2ee146d4 ("scsi: lpfc: Fix FLOGI failure due to accessing a freed node")
+243156c0108d ("scsi: lpfc: Fix crash when nvmet transport calls host_release")
+31051249f12e ("scsi: lpfc: Fix target reset failing")
+da09ae4864e1 ("scsi: lpfc: Fix error log messages being logged following SCSI task mgnt")

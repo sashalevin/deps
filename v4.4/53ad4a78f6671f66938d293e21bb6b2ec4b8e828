@@ -1,0 +1,8 @@
+53ad4a78f667 ("ARM: pxa/raumfeld: use PROPERTY_ENTRY_U32() directly")
+3dabc19acf79 ("ARM: pxa/raumfeld: mark rotary encoder properties as __initconst")
+4d2508a55990 ("ARM: pxa/raumfeld: use PROPERTY_ENTRY_INTEGER to define props")
+a9e340dce3c3 ("Input: rotary_encoder - move away from platform data structure")
+8631580f4fde ("Input: rotary_encoder - use input_set_capability()")
+77a8f0ad3884 ("Input: rotary_encoder - convert to use gpiod API")
+dee520e368f5 ("Input: rotary_encoder - use threaded irqs")
+d9202af2ffa0 ("Input: rotary_encoder - convert to devm-* api")

@@ -1,0 +1,4 @@
+c07e45553da1 ("x86/entry: Add a fence for kernel entry SWAPGS in paranoid_entry()")
+53c9d9240944 ("x86/pv: Switch SWAPGS to ALTERNATIVE")
+c82965f9e530 ("x86/entry/64: Handle FSGSBASE enabled paranoid entry/exit")
+96b2371413e8 ("x86/entry/64: Switch CR3 before SWAPGS in paranoid entry")

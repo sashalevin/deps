@@ -1,0 +1,6 @@
+8f32e9dd0916 ("clk: imx: composite-8m: Enable gate clk with mcore_booted")
+fed6bf52c86d ("clk: imx: composite-8m: Less function calls in __imx8m_clk_hw_composite() after error detection")
+bb7e897b002a ("clk: imx8m: check mcore_booted before register clk")
+a60fe746df94 ("clk: imx: Rework all imx_clk_hw_composite wrappers")
+536559af6aae ("clk: imx: Remove unused helpers")
+d36207b848a6 ("clk: imx8m: fix clock tree update of TF-A managed clocks")

@@ -1,0 +1,4 @@
+e035389b73b1 ("s390/setup: use virtual address for STSI instruction")
+ecc3e771f4ca ("memblock: memblock_phys_alloc(): don't panic")
+f240ec09bb8a ("memblock: replace memblock_alloc_base(ANYWHERE) with memblock_phys_alloc")
+9a8dd708d547 ("memblock: rename memblock_alloc{_nid,_try_nid} to memblock_phys_alloc*")

@@ -1,0 +1,5 @@
+3c7af52c7616 ("usb: dwc3: gadget: Queue PM runtime idle on disconnect event")
+8f40fc080813 ("usb: dwc3: gadget: Refactor EP0 forced stall/restart into a separate API")
+02435a739b81 ("usb: dwc3: gadget: Stall and restart EP0 if host is unresponsive")
+8422b769fa46 ("usb: dwc3: gadget: Submit endxfer command if delayed during disconnect")
+e1ee843488d5 ("usb: dwc3: gadget: Force sending delayed status during soft disconnect")

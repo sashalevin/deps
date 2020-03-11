@@ -1,0 +1,6 @@
+38720352412a ("gre: Use inner_proto to obtain inner header protocol")
+2e598af7135d ("gre: Use GSO flags to determine csum need instead of GRE flags")
+ddff00d42043 ("net: Move skb_has_shared_frag check out of GRE code and into segmentation")
+7fbeffed77c1 ("net: Update remote checksum segmentation to support use of GSO checksum")
+764434562270 ("net: Move GSO csum into SKB_GSO_CB")
+bef3c6c9374d ("net: Drop unecessary enc_features variable from tunnel segmentation functions")

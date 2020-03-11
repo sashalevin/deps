@@ -1,0 +1,8 @@
+1e31016b6926 ("block/rnbd: Remove all likely and unlikely")
+9f455eeafde3 ("block/rnbd-clt: Replace {NO_WAIT,WAIT} with RTRS_PERMIT_{WAIT,NOWAIT}")
+9aaf9a2aba0c ("block/rnbd-clt: Does not request pdu to rtrs-clt")
+5a1328d0c3a7 ("block/rnbd-clt: Dynamically allocate sglist for rnbd_iu")
+91f4acb2801c ("block/rnbd-clt: support mapping two devices with the same name from different servers")
+47be77c2f804 ("block/rnbd-clt: send_msg_close if any error occurs after send_msg_open")
+46a99e0cf6a4 ("block/rnbd-clt: remove nr argument from send_usr_msg")
+51db1c37ee16 ("blk-mq: Rename BLK_MQ_F_TAG_SHARED as BLK_MQ_F_TAG_QUEUE_SHARED")

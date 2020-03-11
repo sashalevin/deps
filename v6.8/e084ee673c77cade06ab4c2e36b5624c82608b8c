@@ -1,0 +1,4 @@
+e084ee673c77 ("svcrdma: Add Write chunk WRs to the RPC's Send WR chain")
+d2727cefff02 ("svcrdma: Post WRs for Write chunks in svc_rdma_sendto()")
+10e6fc1054d9 ("svcrdma: Post the Reply chunk and Send WR together")
+a1f5788a0c25 ("svcrdma: Move write_info for Reply chunks into struct svc_rdma_send_ctxt")

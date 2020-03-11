@@ -1,0 +1,8 @@
+ba0155f1e9fc ("bnxt_en: Allow some TX packets to be unprocessed in NAPI")
+18fe0a383cca ("bnxt_en: Fix TX ring indexing logic")
+0589a1ed4d33 ("bnxt_en: Support up to 8 TX rings per MSIX")
+877edb347323 ("bnxt_en: Refactor bnxt_hwrm_set_coal()")
+ebf72319cef6 ("bnxt_en: Refactor bnxt_tx_int()")
+7f0a168b0441 ("bnxt_en: Add completion ring pointer in TX and RX ring structures")
+34eec1f29a59 ("bnxt_en: Put the TX producer information in the TX BD opaque field")
+35b1b1fd9638 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

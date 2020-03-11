@@ -1,0 +1,4 @@
+2acd0c22232d ("usb: xhci: move untargeted transfer event handling to a separate function")
+66cb618bf0bb ("usb: xhci: prevent potential failure in handle_tx_event() for Transfer events without TRB")
+7428a253315c ("xhci: remove unused stream_id parameter from xhci_handle_halted_endpoint()")
+a1575120972e ("xhci: Prevent infinite loop in transaction errors recovery for streams")

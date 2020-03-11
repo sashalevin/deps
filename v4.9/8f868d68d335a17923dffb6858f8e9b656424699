@@ -1,0 +1,6 @@
+8f868d68d335 ("pipe: Fix missing mask update after pipe_wait()")
+8df441294dd3 ("pipe: Check for ring full inside of the spinlock in pipe_write()")
+a194dfe6e6f6 ("pipe: Rearrange sequence in pipe_write() to preallocate slot")
+6718b6f855a0 ("pipe: Allow pipes to have kernel-reserved slots")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")
+9b286efeb5eb ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

@@ -1,0 +1,7 @@
+58faf20a086b ("time/sched_clock: Use raw_read_seqcount_latch() during suspend")
+e1e41b6ce5f9 ("timekeeping: Consistently use unsigned int for seqcount snapshot")
+fb7fcc96a86c ("timekeeping: Standardize on ktime_get_*() naming")
+edca71fecb77 ("timekeeping: Clean up ktime_get_real_ts64")
+a3ed0e4393d6 ("Revert: Unify CLOCK_MONOTONIC and CLOCK_BOOTTIME")
+e142aa09ed88 ("timekeeping: Remove __current_kernel_time()")
+51798deaffb7 ("Merge branches 'pm-cpuidle' and 'pm-qos'")

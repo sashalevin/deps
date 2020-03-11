@@ -1,0 +1,3 @@
+bcc954c6caba ("printk/panic: Allow cpu backtraces to be written into ringbuffer during panic")
+779dbc2e78d7 ("printk: Avoid non-panic CPUs writing to ringbuffer")
+0ab7cdd00491 ("printk: For @suppress_panic_printk check for other CPU in panic")

@@ -1,0 +1,7 @@
+63c8ecb6261a ("dm thin: include metadata_low_watermark threshold in pool status")
+7efd5fed6fd7 ("dm thin: extend thinpool status format string with omitted fields")
+cc3ff0af1949 ("dm thin: fixes in thin-provisioning.txt")
+202bae52934d ("dm thin: unroll issue_discard() to create longer discard bio chains")
+3dba53a958a7 ("dm thin: use __blkdev_issue_discard for async discard support")
+c3667cc61904 ("dm thin: consistently return -ENOSPC if pool has run out of data space")
+1c2e54e1ed6f ("dm thin: bump thin and thin-pool target versions")

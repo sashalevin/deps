@@ -1,0 +1,8 @@
+92bd2ef26c5d ("usb: phy: tegra: Move utmip_pad_count checking under lock")
+01d6ea31db65 ("usb: phy: tegra: Use u32 for hardware register variables")
+545592e8eb6f ("usb: phy: tegra: Perform general clean up of the code")
+5dcdafdd30b1 ("usb: phy: tegra: Hook up init/shutdown callbacks")
+143470368efd ("usb: tegra: Move utmi-pads reset from ehci-tegra to tegra-phy")
+f59cd9400514 ("usb: phy: tegra: Cleanup error messages")
+7cc9ca5a994c ("usb: host: ehci-tegra: Avoid getting the same reset twice")
+f8a15a965069 ("usb: host: ehci-tegra: Grab the correct UTMI pads reset")

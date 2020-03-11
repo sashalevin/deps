@@ -1,0 +1,4 @@
+1eae9a47835e ("/proc/sys: use d_splice_alias() calling conventions to simplify failure exits")
+ea5751ccd665 ("proc/sysctl: don't return ENOMEM on lookup when a table is unregistering")
+888e2b03ef56 ("switch the rest of procfs lookups to d_splice_alias()")
+1da4d377f943 ("proc: revalidate misc dentries")

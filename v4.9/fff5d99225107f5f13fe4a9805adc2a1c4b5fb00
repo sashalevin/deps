@@ -1,0 +1,5 @@
+fff5d9922510 ("swiotlb: Add swiotlb=noforce debug option")
+ae7871be189c ("swiotlb: Convert swiotlb_force from int to enum")
+6c206e4d99f2 ("x86, swiotlb: Simplify pci_swiotlb_detect_override()")
+0443fa003fa1 ("swiotlb: Add support for DMA_ATTR_SKIP_CPU_SYNC")
+7641842164c3 ("swiotlb-xen: Enforce return of DMA_ERROR_CODE in mapping function")

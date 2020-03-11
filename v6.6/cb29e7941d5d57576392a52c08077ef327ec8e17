@@ -1,0 +1,8 @@
+cb29e7941d5d ("mm: remove PageUnevictable")
+c010d47f107f ("mm: thp: split huge page to any lower order pages")
+46d44d09d24c ("mm: page_owner: add support for splitting to any order in split page_owner")
+b8791381d7ed ("mm: memcg: make memcg huge page split support any order split")
+9a581c12cddb ("mm/page_owner: use order instead of nr in split_page_owner()")
+502003bb76b8 ("mm/memcg: use order instead of nr in split_page_memcg()")
+b75427691f4a ("mm: huge_memory: use more folio api in __split_huge_page_tail()")
+a48d5bdc877b ("mm: fix for negative counter: nr_file_hugepages")

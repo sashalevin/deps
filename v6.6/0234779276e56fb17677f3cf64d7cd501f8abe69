@@ -1,0 +1,5 @@
+0234779276e5 ("khugepaged: remove hpage from collapse_huge_page()")
+d5ab50b9412c ("khugepaged: convert alloc_charge_hpage to alloc_charge_folio")
+4746f5ce0fa5 ("khugepaged: inline hpage_collapse_alloc_folio()")
+5432726848bb ("mm: convert collapse_huge_page() to use a folio")
+b455f39d2289 ("mm/khugepaged: convert alloc_charge_hpage() to use folios")

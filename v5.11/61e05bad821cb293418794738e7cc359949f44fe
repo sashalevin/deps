@@ -1,0 +1,5 @@
+61e05bad821c ("i2c: designware: Replace MODULE_ALIAS() with MODULE_DEVICE_TABLE()")
+a9e4d8b641bc ("i2c: designware: Remove #ifdef guards for PM related functions")
+75507a319876 ("i2c: designware: Fix unbalanced suspended flag")
+c57813b8b288 ("i2c: designware: Lock the adapter while setting the suspended flag")
+0897f1735910 ("i2c: designware-pci: use __maybe_unused for PM functions")

@@ -1,0 +1,8 @@
+969e8d7e47f9 ("include/linux/huge_mm.h: return NULL instead of false for pmd_trans_huge_lock()")
+4b471e8898c3 ("mm, thp: remove infrastructure for handling splitting PMDs")
+3ac808fdd2b8 ("mm, thp: remove compound_lock()")
+ad0bed24e98b ("thp: drop all split_huge_page()-related code")
+122afea9626a ("mm, vmstats: new THP splitting event")
+78ddc5347341 ("thp: rename split_huge_page_pmd() to split_huge_pmd()")
+6742d293cbe0 ("mm: adjust FOLL_SPLIT for new refcounting")
+1c290f642101 ("mm: sanitize page->mapping for tail pages")

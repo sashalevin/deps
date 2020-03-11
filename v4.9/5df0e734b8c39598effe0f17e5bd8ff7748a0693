@@ -1,0 +1,7 @@
+5df0e734b8c3 ("VMCI: Check exclusive_vectors when freeing interrupt 1")
+cc68f2177fcb ("VMCI: dma dg: register dummy IRQ handlers for DMA datagrams")
+e283a0e8b7ea ("VMCI: dma dg: add MMIO access to registers")
+9a41691e5e01 ("VMCI: Use BIT() macro for bit definitions")
+f2db7361cb19 ("VMCI: Support upto 64-bit PPNs")
+c3423563c68f ("vmw_vmci: handle the return value from pci_alloc_irq_vectors correctly")
+3bb434cdcc6a ("vmw_vmci: switch to pci_irq_alloc_vectors")

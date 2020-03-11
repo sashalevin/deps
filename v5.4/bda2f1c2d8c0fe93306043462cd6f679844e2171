@@ -1,0 +1,6 @@
+bda2f1c2d8c0 ("pinctrl: baytrail: Drop duplicate return statement")
+990ec243cb77 ("pinctrl: baytrail: Keep pointer to struct device instead of its container")
+e70982b3abec ("pinctrl: baytrail: Move IRQ valid mask initialization to a dedicated callback")
+539d8bde72c2 ("pinctrl: baytrail: Allocate IRQ chip dynamic")
+ca8a958e2acb ("pinctrl: baytrail: Pass irqchip when adding gpiochip")
+ed3c15646251 ("pinctrl: baytrail: Add GPIO <-> pin mapping ranges via callback")

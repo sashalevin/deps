@@ -1,0 +1,6 @@
+c12907be57b1 ("drm/bridge-connector: switch to using drmm allocations")
+f730e7adfd69 ("drm: remove drm_bridge_hpd_disable() from drm_bridge_connector_destroy()")
+ff5f9ae9812c ("drm/bridge_connector: implement oob_hotplug_event")
+d0b4c1cf3375 ("drm/bridge_connector: Handle drm_connector_init_with_ddc() failures")
+4c00ac500d0e ("drm/bridge_connector: drop drm_bridge_connector_en/disable_hpd()")
+92d755d8f13b ("drm/bridge_connector: rely on drm_kms_helper_poll_* for HPD enablement")

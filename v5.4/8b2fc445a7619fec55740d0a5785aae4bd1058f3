@@ -1,0 +1,4 @@
+8b2fc445a761 ("KVM: x86: Refactor CPUID 0xD.N sub-leaf entry creation")
+91001d403ad3 ("KVM: x86: Warn on zero-size save state for valid CPUID 0xD.N sub-leaf")
+1893c9415ae8 ("KVM: x86: Check for CPUID 0xD.N support before validating array size")
+3dc4a9cf05e5 ("KVM: x86: Move CPUID 0xD.1 handling out of the index>0 loop")

@@ -1,0 +1,7 @@
+a3989dc0b059 ("i2c: i801: Centralize configuring block commands in i801_block_transaction")
+24592482d235 ("i2c: i801: Centralize configuring non-block commands in i801_simple_transaction")
+63fd342fd121 ("i2c: i801: Handle SMBAUXCTL_E32B in i801_block_transaction_by_block only")
+dd2d18b5c040 ("i2c: i801: Add i801_simple_transaction(), complementing i801_block_transaction()")
+eb4d8bac03bc ("i2c: i801: add helper i801_set_hstadd()")
+55b6f82e9443 ("i2c: i801: Add support for the Process Call command")
+9c02c6391c88 ("i2c: i801: Drop useless masking in i801_access")

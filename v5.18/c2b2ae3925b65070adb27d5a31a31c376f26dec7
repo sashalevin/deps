@@ -1,0 +1,7 @@
+c2b2ae3925b6 ("mptcp: handle correctly disconnect() failures")
+7d803344fdc3 ("mptcp: fix deadlock in fastopen error path")
+fa9e57468aa1 ("mptcp: fix abba deadlock on fastopen")
+54f1944ed6d2 ("mptcp: factor out mptcp_connect()")
+69800e516e96 ("mptcp: propagate fastclose error")
+a42cf9d18278 ("mptcp: poll allow write call before actual connect")
+d98a82a6afc7 ("mptcp: handle defer connect in mptcp_sendmsg")

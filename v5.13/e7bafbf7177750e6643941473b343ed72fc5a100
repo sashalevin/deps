@@ -1,0 +1,6 @@
+e7bafbf71777 ("arm64: mm: Add top-level dispatcher for internal mem_encrypt API")
+b97547761b02 ("arm64: mm: move fixmap code to its own file")
+32f5b6995f79 ("arm64: add FIXADDR_TOT_{START,SIZE}")
+6cc9203b8e32 ("arch/arm64: Add ARCH_HAS_NMI_SAFE_THIS_CPU_OPS Kconfig option")
+d8a719059b9d ("Revert "mm/pgtable: add stubs for {pmd/pub}_{set/clear}_huge"")
+6d47c23b16aa ("set_memory: allow querying whether set_direct_map_*() is actually enabled")

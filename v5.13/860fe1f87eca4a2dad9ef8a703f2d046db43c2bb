@@ -1,0 +1,6 @@
+860fe1f87eca ("net: dpaa2-switch: call dpaa2_switch_port_disconnect_mac on probe error path")
+d52ef12f7d6c ("net: dpaa2-switch: phylink_disconnect_phy needs rtnl_lock")
+84cba72956fd ("dpaa2-switch: integrate the MAC endpoint support")
+24ab724f8a46 ("dpaa2-switch: use the port index in the IRQ handler")
+1ca6cf5ecbde ("dpaa2-switch: request all interrupts sources on the DPSW")
+adcb7aa335af ("dpaa2-switch: rename dpaa2_switch_acl_tbl into filter_block")

@@ -1,0 +1,6 @@
+62622dab0a28 ("ima: return IMA digest value only when IMA_COLLECTED flag is set")
+aa662fc04f5b ("ima: Fix NULL pointer dereference in ima_file_hash")
+6beea7afcc72 ("ima: add the ability to query the cached hash of a given file")
+b0935123a183 ("IMA: Define a new hook to measure the kexec boot command line arguments")
+fdb2410f7702 ("ima: define ima_post_create_tmpfile() hook and add missing call")
+92d4a03674b8 ("Merge branch 'next-general' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")

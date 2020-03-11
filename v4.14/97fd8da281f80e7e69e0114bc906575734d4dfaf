@@ -1,0 +1,7 @@
+97fd8da281f8 ("net/mlx5: Fix auto group size calculation")
+bd71b08ec2ee ("net/mlx5: Support multiple updates of steering rules in parallel")
+c7784b1c8ab3 ("net/mlx5: Replace fs_node mutex with reader/writer semaphore")
+19f100fef4ad ("net/mlx5: Refactor FTE and FG creation code")
+46719d77d5f3 ("net/mlx5: Export building of matched flow groups list")
+75d1d187b2ac ("net/mlx5: Move the entry index allocator to flow group")
+b92af5a72ca9 ("net/mlx5: Fix creating a new FTE when an existing but full FTE exists")

@@ -1,0 +1,6 @@
+c2489bb7e6be ("tracing: Introduce pipe_cpumask to avoid race on trace_pipes")
+7ef282e05132 ("tracing: Move pipe reference to trace array instead of current_tracer")
+24589e3a2087 ("tracing: Use pr_err() instead of WARN() for memory failures")
+1c5eb4481e01 ("tracing: Rename trace_buffer to array_buffer")
+288797871473 ("tracing: Adding new functions for kernel access to Ftrace instances")
+2d6425af6116 ("tracing: Declare newly exported APIs in include/linux/trace.h")

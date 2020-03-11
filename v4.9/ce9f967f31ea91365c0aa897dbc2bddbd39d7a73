@@ -1,0 +1,8 @@
+ce9f967f31ea ("btrfs: use EXPORT_FOR_TESTS for conditionally exported functions")
+917aacecc567 ("btrfs: Sink find_lock_delalloc_range's 'max_bytes' argument")
+9c36396c2a78 ("btrfs: tests: add separate stub for find_lock_delalloc_range")
+6faa8f475eea ("btrfs: clean up le_bitmap_{set, clear}()")
+ab0d09361662 ("btrfs: drop extern from function declarations")
+7852781d94b3 ("btrfs: drop underscores from exported xattr functions")
+da2c7009f6ca ("btrfs: teach __process_pages_contig about PAGE_LOCK operation")
+873695b301df ("Btrfs: create helper for processing bits on contiguous pages")

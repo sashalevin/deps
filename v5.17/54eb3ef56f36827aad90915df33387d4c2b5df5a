@@ -1,0 +1,3 @@
+54eb3ef56f36 ("KVM: x86/mmu: Move shadow-present check out of spte_has_volatile_bits()")
+706c9c55e5a3 ("KVM: x86/mmu: Don't treat fully writable SPTEs as volatile (modulo A/D)")
+932859a4e0b9 ("KVM: x86/mmu: Move SPTE writable invariant checks to a helper function")

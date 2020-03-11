@@ -1,0 +1,6 @@
+67205f80be99 ("brd: mark as nowait compatible")
+e1528830bd4e ("block/brd: add error handling support for add_disk()")
+f7bf35862477 ("brd: reduce the brd_devices_mutex scope")
+7f9b348cb5e9 ("brd: convert to blk_alloc_disk/blk_cleanup_disk")
+f4be591f1436 ("brd: expose number of allocated pages in debugfs")
+7cc178a6b994 ("brd: use __register_blkdev to allocate devices on demand")

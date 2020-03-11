@@ -1,0 +1,4 @@
+02534c8e967b ("regmap: regmap-irq: Move handle_post_irq to before pm_runtime_put")
+fba5b1e9ab52 ("regmap-irq: Correct error paths in regmap_irq_thread for pm_runtime")
+a2d21848d921 ("regmap: regmap-irq: Add main status register support")
+43fac3238c1d ("regmap: add a new macro:REGMAP_IRQ_REG_LINE(_id, _reg_bits)")

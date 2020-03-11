@@ -1,0 +1,5 @@
+3d31d4e7a3ef ("iommu/dma: Unexport IOVA cookie management")
+bf3aed4660c6 ("iommu: Introduce explicit type for non-strict DMA domains")
+46983fcd67ac ("iommu: Pull IOVA cookie management into the core")
+ac6d704679d3 ("iommu/dma: Pass address limit rather than size to iommu_setup_dma_ops()")
+d6177a6556f8 ("iommu/amd: Clear DMA ops when switching domain")

@@ -1,0 +1,4 @@
+b7e4be0a224f ("KVM: SEV-ES: Delegate LBR virtualization to the processor")
+a26b7cd22546 ("KVM: SEV: Do not intercept accesses to MSR_IA32_XSS for SEV-ES guests")
+e0096d01c4fc ("KVM: SVM: Fix TSC_AUX virtualization setup")
+e8d93d5d93f8 ("KVM: SVM: INTERCEPT_RDTSCP is never intercepted anyway")

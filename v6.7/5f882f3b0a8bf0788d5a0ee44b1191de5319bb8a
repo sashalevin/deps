@@ -1,0 +1,8 @@
+5f882f3b0a8b ("x86/bugs: Clarify that syscall hardening isn't a BHI mitigation")
+dfe648903f42 ("x86/bugs: Fix BHI documentation")
+95a6ccbdc719 ("x86/bhi: Mitigate KVM by default")
+ec9404e40e8f ("x86/bhi: Add BHI mitigation knob")
+0f4a837615ff ("x86/bhi: Define SPEC_CTRL_BHI_DIS_S")
+7390db8aea0d ("x86/bhi: Add support for clearing branch history at syscall entry")
+598c2fafc06f ("perf/x86/amd/lbr: Use freeze based on availability")
+0e33cf955f07 ("Merge tag 'rfds-for-linus-2024-03-11' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

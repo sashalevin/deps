@@ -1,0 +1,7 @@
+66f5dd5a0379 ("usb: dwc3: gadget: rename done_trbs and done_reqs")
+fbea935accf4 ("usb: dwc3: gadget: rename dwc3_endpoint_transfer_complete()")
+c6267a51639b ("usb: dwc3: gadget: align transfers to wMaxPacketSize")
+843053093f47 ("usb: dwc3: gadget: simplify dwc3_prepare_one_trb()")
+e62c5bc57367 ("usb: dwc3: gadget: tracking per-TRB remaining bytes")
+b9bd138e06b9 ("usb: dwc3: gadget: remove unused 'first_trb_index'")
+6b9018d4c1e5 ("usb: dwc3: gadget: set PCM1 field of isochronous-first TRBs")

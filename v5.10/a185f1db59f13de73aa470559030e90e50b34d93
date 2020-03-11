@@ -1,0 +1,4 @@
+a185f1db59f1 ("io_uring: do ctx sqd ejection in a clear context")
+6b81928d4ca8 ("io_uring: pass files into kill timeouts/poll")
+b52fda00dd9d ("io_uring: don't iterate io_uring_cancel_files()")
+df9923f96717 ("io_uring: cancel only requests of current task")

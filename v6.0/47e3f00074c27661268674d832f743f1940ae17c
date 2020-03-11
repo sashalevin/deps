@@ -1,0 +1,6 @@
+47e3f00074c2 ("thermal: core: Use device_unregister() instead of device_del/put()")
+e398421fd03c ("thermal: core: Move cdev cleanup to thermal_release()")
+6c54b7bc8a31 ("thermal: core: call put_device() only after device_register() fails")
+4748f9687caa ("thermal: core: fix some possible name leaks in error paths")
+e49a1e1ee078 ("thermal/core: fix error code in __thermal_cooling_device_register()")
+c408b3d1d9bb ("thermal: Validate new state in cur_state_store()")

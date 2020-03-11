@@ -1,0 +1,7 @@
+915fea04f932 ("s390/smp: enable DAT before CPU restart callback is called")
+b55e692e6bcb ("s390: rename CALL_ON_STACK_NORETURN() to call_on_stack_noreturn()")
+0f541cc20129 ("s390/smp: use call_on_stack() macro")
+b61b1595124a ("s390: add stack for machine check handler")
+b0d31159a467 ("s390: open code SWITCH_KERNEL macro")
+78f657094622 ("s390/entry: use cpu alternative for stck/stckf")
+56e62a737028 ("s390: convert to generic entry")

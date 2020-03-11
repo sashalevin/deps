@@ -1,0 +1,6 @@
+bde9f9d27e2b ("KVM: x86/mmu: Explicitly disallow private accesses to emulated MMIO")
+354c908c068e ("KVM: x86/mmu: Handle no-slot faults in kvm_faultin_pfn()")
+56c3a4e4a2d5 ("KVM: x86/mmu: Handle error PFNs in kvm_faultin_pfn()")
+ba6e3fe25543 ("KVM: x86/mmu: Grab mmu_invalidate_seq in kvm_faultin_pfn()")
+766576874b97 ("kvm: x86: Allow to respond to generic signals during slow PF")
+c8b88b332bed ("kvm: Add interruptible flag to __gfn_to_pfn_memslot()")

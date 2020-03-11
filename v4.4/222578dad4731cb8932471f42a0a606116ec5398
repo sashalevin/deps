@@ -1,0 +1,6 @@
+222578dad473 ("PCI/ASPM: Stop caching link L0s, L1 exit latencies")
+5f7875d651c2 ("PCI/ASPM: Remove struct aspm_register_info.latency_encoding")
+67bcc9ad6810 ("PCI/ASPM: Remove struct aspm_register_info.enabled")
+c6e5f02b5281 ("PCI/ASPM: Remove struct aspm_register_info.support")
+3bd7db63a841 ("PCI/ASPM: Always set link->downstream to avoid NULL dereference on remove")
+60e8d3e11645 ("Merge tag 'pci-v4.11-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

@@ -1,0 +1,6 @@
+ac87ca0ea010 ("mm/memory-failure: fall back to vma_address() when ->notify_failure() fails")
+c36e20249571 ("mm: introduce mf_dax_kill_procs() for fsdax case")
+00cc790e0036 ("mm: factor helpers for memory_failure_dev_pagemap")
+f25cbb7a95a2 ("mm: add zone device coherent type memory support")
+034e5afad921 ("mm: re-allow pinning of zero pfns")
+1c563432588d ("mm: fix is_pinnable_page against a cma page")

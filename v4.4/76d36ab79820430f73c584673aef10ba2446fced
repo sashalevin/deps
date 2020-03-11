@@ -1,0 +1,5 @@
+76d36ab79820 ("hv: switch to cpuhp state machine for synic init/cleanup")
+a9f61ca793be ("Drivers: hv: avoid vfree() on crash")
+75ff3a8a9168 ("Drivers: hv: vmbus: avoid wait_for_completion() on crash")
+415719160de3 ("Drivers: hv: vmbus: avoid scheduling in interrupt context in vmbus_initiate_unload()")
+17efbee8ba02 ("drivers/hv: cleanup synic msrs if vmbus connect failed")

@@ -1,0 +1,3 @@
+e0c2b6338ac8 ("KVM: x86: Don't call kvm_mmu_change_mmu_pages() if the count hasn't changed")
+4d66623cfba0 ("KVM: x86: remove check on nr_mmu_pages in kvm_arch_commit_memory_region()")
+152482580a1b ("KVM: Call kvm_arch_memslots_updated() before updating memslots")

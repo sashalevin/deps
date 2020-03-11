@@ -1,0 +1,8 @@
+07252dfea2c7 ("mm: use is_zone_movable_page() helper")
+445fcf7c7214 ("mm/memory_hotplug: memory group aware "auto-movable" online policy")
+e83a437faa62 ("mm/memory_hotplug: introduce "auto-movable" online policy")
+7cf209ba8a86 ("mm/memory_hotplug: use "unsigned long" for PFN in zone_for_pfn_range()")
+c740bb97cc84 ("virtio-mem: prioritize unplug from ZONE_MOVABLE in Sub Block Mode")
+5304ca3dd70c ("virtio-mem: simplify high-level unplug handling in Sub Block Mode")
+f4cf803dff4c ("virtio-mem: simplify high-level plug handling in Sub Block Mode")
+49d42872d520 ("virtio-mem: use page_zonenum() in virtio_mem_fake_offline()")

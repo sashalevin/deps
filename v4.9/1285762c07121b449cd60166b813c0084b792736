@@ -1,0 +1,8 @@
+1285762c0712 ("PCI/VPD: Remove pci_vpd_size() old_size argument")
+6303049d16f0 ("PCI/VPD: Reject resource tags with invalid size")
+4e0d77f8e831 ("PCI/VPD: Treat initial 0xff as missing EEPROM")
+70730db0f611 ("PCI/VPD: Check Resource Item Names against those valid for type")
+d1df5f3f4cff ("PCI/VPD: Make missing VPD message less alarming")
+996058573b22 ("PCI/VPD: Move VPD quirks to vpd.c")
+f0eb77ae6b85 ("PCI/VPD: Move VPD access code to vpd.c")
+ab8c609356fb ("Merge branch 'pci/spdx' into next")

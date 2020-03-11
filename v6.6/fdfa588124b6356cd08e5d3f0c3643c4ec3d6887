@@ -1,0 +1,4 @@
+fdfa588124b6 ("arm64: smp: smp_send_stop() and crash_smp_send_stop() should try non-NMI first")
+d7402513c935 ("arm64: smp: IPI_CPU_STOP and IPI_CPU_CRASH_STOP should try for NMI")
+331a1b3a836c ("arm64: smp: Add arch support for backtrace using pseudo-NMI")
+2b2d0a7a96ab ("arm64: smp: Remove dedicated wakeup IPI")

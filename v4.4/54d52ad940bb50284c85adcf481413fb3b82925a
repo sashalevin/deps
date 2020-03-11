@@ -1,0 +1,5 @@
+54d52ad940bb ("soc: rockchip: power-domain: Use of_clk_get_parent_count() instead of open coding")
+b1271993aa38 ("soc: rockchip: power-domain: Add a sanity check on pd->num_clks")
+d909072d0521 ("soc: rockchip: power-domain: use clk_bulk APIs")
+79d12b7a7f22 ("soc: rockchip: power-domain: use pm_genpd_remove in error cleanup")
+074c6a422d86 ("soc: rockchip: power-domain: support qos save and restore")

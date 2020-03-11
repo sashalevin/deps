@@ -1,0 +1,4 @@
+0617bb500bfa ("io_uring/msg_ring: improve handling of target CQE posting")
+a4d416dc6098 ("io_uring/msg_ring: reuse ctx->submitter_task read using READ_ONCE instead of re-reading it")
+8572df941cbe ("io_uring/msg-ring: ensure flags passing works for task_work completions")
+cbeb47a7b5f0 ("io_uring/msg_ring: Pass custom flags to the cqe")

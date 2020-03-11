@@ -1,0 +1,5 @@
+a468f2dbf921 ("kvm: apic: Flush TLB after APIC mode/address change if VPIDs are in use")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")
+f0b98c02c18a ("kvm: vmx: Don't use INVVPID when EPT is enabled")
+fb6c81984313 ("kvm: vmx: Flush TLB when the APIC-access address changes")
+bcdde302b826 ("KVM: nVMX: invvpid handling improvements")

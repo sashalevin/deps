@@ -1,0 +1,4 @@
+4c282e51e445 ("KVM: x86: Update vCPU's runtime CPUID on write to MSR_IA32_XSS")
+864e2ab2b46d ("kvm: x86: Move IA32_XSS to kvm_{get,set}_msr_common")
+9753d68865c5 ("KVM: VMX: Use wrmsr for switching between guest and host IA32_XSS on Intel")
+c034f2aa8622 ("KVM: VMX: Fix conditions for guest IA32_XSS support")

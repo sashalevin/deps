@@ -1,0 +1,6 @@
+01f9c7240a90 ("mtd: partitions: factor out code calling parser")
+adc83bf88963 ("mtd: partitions: support a cleanup callback for parsers")
+07fd2f871c5e ("mtd: partitions: pass around 'mtd_partitions' wrapper struct")
+c42c2710d643 ("mtd: partitions: remove kmemdup()")
+5531ae4818fb ("mtd: partitions: rename MTD parser get/put")
+b9eab01125bf ("mtd: partitions: add module_mtd_part_parser() helper")

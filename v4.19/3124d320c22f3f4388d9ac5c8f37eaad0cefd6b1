@@ -1,0 +1,6 @@
+3124d320c22f ("Bluetooth: hci_{ldisc,serdev}: check percpu_init_rwsem() failure")
+9d7cbe2b9cf5 ("Bluetooth: hci_serdev: call init_rwsem() before p->open()")
+de8892df72be ("Bluetooth: hci_serdev: Close UART port if NON_PERSISTENT_SETUP is set")
+3b799254cf6f ("Bluetooth: hci_uart: Cancel init work before unregistering")
+202798db9570 ("Bluetooth: hci_serdev: Only unregister device if it was registered")
+7cf7846d27bf ("Bluetooth: hci_serdev: clear HCI_UART_PROTO_READY to avoid closing proto races")

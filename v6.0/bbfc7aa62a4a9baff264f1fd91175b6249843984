@@ -1,0 +1,4 @@
+bbfc7aa62a4a ("KVM: SVM: Handle multiple logical targets in AVIC kick fastpath")
+1d22a597b3e9 ("KVM: SVM: Add helper to perform final AVIC "kick" of single vCPU")
+8578e4512d87 ("KVM: SVM: Document that vCPU ID == APIC ID in AVIC kick fastpatch")
+f9829c907661 ("Revert "KVM: SVM: Use target APIC ID to complete x2AVIC IRQs when possible"")

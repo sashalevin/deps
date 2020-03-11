@@ -1,0 +1,6 @@
+55118e535834 ("mmc: renesas_sdhi: Drop local dma_parms")
+54541815b43f ("mmc: renesas_sdhi_internal_dmac: set scatter/gather max segment size")
+0cbc94daa554 ("mmc: renesas_sdhi_internal_dmac: limit DMA RX for old SoCs")
+b12a7a28f860 ("mmc: tmio: move TMIO_MASK_{READOP, WRITEOP} handling to correct place")
+c7cd630a9751 ("mmc: tmio: fix never-detected card insertion bug")
+c14e60963ec1 ("mmc: renesas_sdhi: enable R-Car D3 (r8a77995) support")

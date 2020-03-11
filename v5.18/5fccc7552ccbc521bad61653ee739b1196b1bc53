@@ -1,0 +1,6 @@
+5fccc7552ccb ("ftrace: Add subops logic to allow one ops to manage many")
+53cd885bc5c3 ("ftrace: Allow IPMODIFY and DIRECT ops on the same function")
+f8b7d2b4c192 ("ftrace: fix building with SYSCTL=n but DYNAMIC_FTRACE=y")
+5d79fa0d3325 ("ftrace: Fix build warning")
+8e4e83b2278b ("ftrace: move sysctl_ftrace_enabled to ftrace.c")
+06d177662fb8 ("kernel/reboot: move reboot sysctls to its own file")

@@ -1,0 +1,4 @@
+8fea0c8fda30 ("usb: core: hcd: Convert from tasklet to BH workqueue")
+26c6c2f8a907 ("USB: HCD: Fix URB giveback issue in tasklet function")
+41631d3616c3 ("usb: core: Replace in_interrupt() in comments")
+e71ea55a5b6f ("usb: hcd: convert tasklets to use new tasklet_setup() API")

@@ -1,0 +1,8 @@
+792a4f2ed24f ("vhost: allow per device message handler")
+8f6a7f96dc29 ("vhost, kcov: collect coverage from vhost_worker")
+e2412c07f8f3 ("vhost_net: fix possible infinite loop")
+e82b9b0727ff ("vhost: introduce vhost_exceeds_weight()")
+b46a0bf78ad7 ("vhost: fix OOB in get_rx_bufs()")
+74ad7419489d ("vhost: return EINVAL if iovecs size does not match the message size")
+ff002269a4ee ("vhost: Fix Spectre V1 vulnerability")
+0a0be13b8fe2 ("vhost_net: batch submitting XDP buffers to underlayer sockets")

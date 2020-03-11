@@ -1,0 +1,3 @@
+3660d0bcdb82 ("btrfs: fix stale data exposure after cloning a hole with NO_HOLES enabled")
+306bfec02b10 ("btrfs: rename btrfs_punch_hole_range() to a more generic name")
+8fccebfa534c ("btrfs: fix metadata reservation for fallocate that leads to transaction aborts")

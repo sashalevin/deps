@@ -1,0 +1,6 @@
+846be08578ed ("mm/hugetlb: expand restore_reserve_on_error functionality")
+4eae4efa2c29 ("hugetlb: do early cow when page pinned on src mm")
+d6995da31122 ("hugetlb: use page.private for hugetlb specific page flags")
+d92bbc2719bd ("mm/hugetlb: unify migration callbacks")
+b4b382238ed2 ("mm/migrate: move migration helper from .h to .c")
+75802ca66354 ("mm/hugetlb: fix calculation of adjust_range_if_pmd_sharing_possible")

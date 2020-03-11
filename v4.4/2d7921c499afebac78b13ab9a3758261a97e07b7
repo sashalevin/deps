@@ -1,0 +1,4 @@
+2d7921c499af ("KVM: x86: Add support for VMware backdoor Pseudo-PMCs")
+04789b6664a6 ("KVM: x86: Emulate only IN/OUT instructions when accessing VMware backdoor")
+e23661712005 ("KVM: x86: Add emulation_type to not raise #UD on emulation failure")
+d1cd3ce90044 ("KVM: MMU: check guest CR3 reserved bits based on its physical address width.")

@@ -1,0 +1,8 @@
+04b153abdfcb ("mips: ralink: mt7620: remove clock related code")
+83552892b772 ("mips: ralink: mt7620: introduce 'soc_device' initialization")
+727ea3c77dd9 ("mips: ralink: mt7620: soc queries and tests as functions")
+217cf927e7c6 ("mips: ralink: mt7620: define MT7620_SYSC_BASE with __iomem")
+745ec436de72 ("pinctrl: ralink: move MT7620 SoC pinmux config into a new 'pinctrl-mt7620.c' file")
+e98dd3db96f7 ("pinctrl: ralink: move MT7621 SoC pinmux config into a new 'pinctrl-mt7621.c' file")
+139c949f7f0a ("MIPS: ralink: mt7621: add memory detection support")
+8eb6eb4882f2 ("MIPS: ralink: annotate prom_soc_init() with __init")

@@ -1,0 +1,4 @@
+50c9e6f3a69d ("KVM: MMU: coalesce more page zapping in mmu_sync_children")
+35a70510ee13 ("KVM: MMU: move TLB flush out of __kvm_sync_page")
+b8c67b7a086c ("KVM: MMU: introduce kvm_mmu_flush_or_zap")
+0a47cd85833e ("KVM: MMU: Fix ubsan warnings")

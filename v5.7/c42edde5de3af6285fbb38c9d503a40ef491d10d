@@ -1,0 +1,5 @@
+c42edde5de3a ("i2c: designware: Fix slave state machine for sequential reads")
+3b5f7f10ff6e ("i2c: designware: slave should do WRITE_REQUESTED before WRITE_RECEIVED")
+66b92313e2ca ("i2c: designware: call i2c_dw_read_clear_intrbits_slave() once")
+0daede80f870 ("i2c: designware: Convert driver to using regmap API")
+a19f133f694c ("i2c: designware: Include proper headers in i2c-desingware-core.h")

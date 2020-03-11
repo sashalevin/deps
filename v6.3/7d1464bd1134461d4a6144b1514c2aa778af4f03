@@ -1,0 +1,5 @@
+7d1464bd1134 ("selinux: fix style issues in security/selinux/include/security.h")
+c50e125d0571 ("selinux: avoid implicit conversions in services code")
+cec5fe700799 ("selinux: make labeled NFS work when mounted before policy load")
+e67b79850fcc ("selinux: stop passing selinux_state pointers and their offspring")
+f62ca0b6e31d ("selinux: uninline unlikely parts of avc_has_perm_noaudit()")

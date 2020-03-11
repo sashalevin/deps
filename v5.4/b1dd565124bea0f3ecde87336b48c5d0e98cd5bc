@@ -1,0 +1,8 @@
+b1dd565124be ("spi: hisi-sfc-v3xx: add support for IRQ mode")
+aac6edff8438 ("spi: hisi-sfc-v3xx: factor out the bit definition of interrupt register")
+f6d2737720d6 ("spi: hisi-sfc-v3xx: factor out bus config and transfer functions")
+2c8af6a59744 ("spi: hisi-sfc-v3xx: factor out IO modes configuration")
+59fc9ad5cb10 ("spi: hisi-sfc-v3xx: add error check after per operation")
+34e608b023e9 ("spi: HiSilicon v3xx: Use DMI quirk to set controller buswidth override bits")
+8fe21d6b3472 ("spi: HiSilicon v3xx: Properly set CMD_CONFIG for Dual/Quad modes")
+a2ca53b52e00 ("spi: Add HiSilicon v3xx SPI NOR flash controller driver")

@@ -1,0 +1,6 @@
+5c544c92d6cd ("gpio: dwapb: Add debounce reference clock support")
+3ea8094c3b45 ("gpio: dwapb: Use optional-clocks interface for APB ref-clock")
+a618cf480097 ("gpio: dwapb: Fix error handling in dwapb_gpio_probe()")
+e6bf37736f64 ("gpio: dwapb: Add support for a bus clock")
+62c16234bbfd ("gpio: dwapb: Call directly into the gpiochip to read value")
+07901a94f9f9 ("gpio: gpio-dwapb: add optional reset")

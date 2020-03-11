@@ -1,0 +1,7 @@
+756ebbe73fc4 ("scsi: arcmsr: Use generic power management")
+b7b862d75b49 ("scsi: arcmsr: Drop PCI wakeup calls from .resume")
+18bc435e0a1d ("scsi: arcmsr: Remove some set but unused variables")
+1d120c6183aa ("scsi: arcmsr: Separate 'set dma mask' as a function")
+a36ade416db7 ("scsi: arcmsr: Update ACB_ADAPTER_TYPE_D for >4GB ccb addressing")
+9e386a55e072 ("scsi: arcmsr: Update ACB_ADAPTER_TYPE_A for >4GB ccb addressing")
+b3b07762dbda ("scsi: arcmsr: use dma_set_mask")

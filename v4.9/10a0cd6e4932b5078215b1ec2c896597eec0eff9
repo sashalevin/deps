@@ -1,0 +1,3 @@
+10a0cd6e4932 ("mm: Fix memory size alignment in devm_memremap_pages_release()")
+b5d24fda9c3d ("mm, devm_memremap_pages: hold device_hotplug lock over mem_hotplug_{begin, done}")
+f931ab479dd2 ("mm: fix devm_memremap_pages crash, use mem_hotplug_{begin, done}")

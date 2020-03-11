@@ -1,0 +1,8 @@
+6a9f5f240adf ("block: simplify BIOVEC_PHYS_MERGEABLE")
+27ca1d4ed04e ("block: move req_gap_back_merge to blk.h")
+e9907009cbfc ("block: move req_gap_{back,front}_merge to blk-merge.c")
+5a8d75a1b8c9 ("block: fix bio_will_gap() for first bvec with offset")
+729204ef49ec ("block: relax check on sg gap")
+ee63cfa7fc19 ("block: add kblockd_schedule_work_on()")
+25e71a99f10e ("block: get the 1st and last bvec via helpers")
+e0af29171aa8 ("block: check virt boundary in bio_will_gap()")

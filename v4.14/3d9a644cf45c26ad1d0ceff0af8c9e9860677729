@@ -1,0 +1,6 @@
+3d9a644cf45c ("md/raid5: Un-nest struct raid5_percpu definition")
+770b1d216d73 ("md/raid5: play nice with PREEMPT_RT")
+b330e6a49dc3 ("md: convert to kvmalloc")
+ae89fd3de479 ("md: use TASK_IDLE instead of blocking signals")
+b3143b9a38d5 ("md: move suspend_hi/lo handling into core md code")
+385f4d7f946b ("md-cluster: fix wrong condition check in raid1_write_request")

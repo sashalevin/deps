@@ -1,0 +1,3 @@
+295d4cd82b01 ("iwlwifi: don't call netif_napi_add() with rxq->lock held (was Re: Lockdep warning in iwl_pcie_rx_handle())")
+47ef328c2090 ("iwlwifi: pcie: Disable softirqs during Rx queue init")
+25edc8f259c7 ("iwlwifi: pcie: properly implement NAPI")

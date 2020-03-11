@@ -1,0 +1,8 @@
+dd2319c61888 ("KVM: x86: warn on incorrectly NULL members of kvm_x86_ops")
+e4fc23bad813 ("KVM: x86: remove KVM_X86_OP_NULL and mark optional kvm_x86_ops")
+8a2897853c53 ("KVM: x86: return 1 unconditionally for availability of KVM_CAP_VAPIC")
+03d004cd0715 ("KVM: x86: Use more verbose names for mem encrypt kvm_x86_ops hooks")
+58fccda47e4b ("KVM: VMX: Rename VMX functions to conform to kvm_x86_ops names")
+7ad02ef0da25 ("KVM: x86: Use static_call() for copy/move encryption context ioctls()")
+a0941a64a97d ("KVM: x86: Use static_call() for .vcpu_deliver_sipi_vector()")
+e27bc0440ebd ("KVM: x86: Rename kvm_x86_ops pointers to align w/ preferred vendor names")

@@ -1,0 +1,6 @@
+25bced2b61b4 ("scsi: cxlflash: Remove private command pool")
+5fbb96c8f1ba ("scsi: cxlflash: Use cmd_size for private commands")
+e7ab2d401dbf ("scsi: cxlflash: Remove unused buffer from AFU command")
+83430833b4d4 ("cxlflash: Increase cmd_per_lun for better throughput")
+b45cdbaf9f7f ("cxlflash: Resolve oops in wait_port_offline")
+ee91e332a6e6 ("cxlflash: Fix to resolve cmd leak after host reset")

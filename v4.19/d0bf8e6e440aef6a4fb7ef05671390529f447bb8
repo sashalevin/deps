@@ -1,0 +1,6 @@
+d0bf8e6e440a ("KVM: x86/mmu: Exit to userspace with -EFAULT if private fault hits emulation")
+8dd2eee9d526 ("KVM: x86/mmu: Handle page fault for private memory")
+90b4fe17981e ("KVM: x86: Disallow hugepages when memory attributes are mixed")
+16f95f3b95ca ("KVM: Add KVM_EXIT_MEMORY_FAULT exit to report faults to userspace")
+bb58b90b1a8f ("KVM: Introduce KVM_SET_USER_MEMORY_REGION2")
+45b890f7689e ("Merge tag 'kvmarm-6.7' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

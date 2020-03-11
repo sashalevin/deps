@@ -1,0 +1,6 @@
+9e7ee0f04539 ("iommu/vt-d: Use try_cmpxchg64{,_local}() in iommu.c")
+242b0aaeabbe ("iommu/vt-d: Preset Access bit for IOVA in FL non-leaf paging entries")
+78ca078459d7 ("iommu/vt-d: Prepare for multiple DMA domain types")
+ac6d704679d3 ("iommu/dma: Pass address limit rather than size to iommu_setup_dma_ops()")
+d6177a6556f8 ("iommu/amd: Clear DMA ops when switching domain")
+a8ce9ebbecdf ("iommu/vt-d: Preset Access/Dirty bits for IOVA over FL")

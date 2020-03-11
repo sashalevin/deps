@@ -1,0 +1,6 @@
+bd2a70e97a11 ("kbuild: enable -Wcast-function-type-strict unconditionally")
+75b5ab134bb5 ("kbuild: Move -Wenum-{compare-conditional,enum-conversion} into W=1")
+2120635108b3 ("Makefile.extrawarn: Move -Wcast-function-type-strict to W=1")
+1cf5f151d25f ("Makefile.extrawarn: Move -Wunaligned-access to W=1")
+afe956c577b2 ("kbuild: Enable -Wtautological-compare")
+82f2bc2fcc01 ("kbuild: Disable -Wpointer-to-enum-cast")

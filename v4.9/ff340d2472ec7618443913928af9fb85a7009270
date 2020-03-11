@@ -1,0 +1,5 @@
+ff340d2472ec ("s390: add stack switch helper")
+9f18fff63cfd ("s390: remove indirect branch from do_softirq_own_stack")
+3a890380e426 ("s390/thread_info: get rid of THREAD_ORDER define")
+d5c352cdd022 ("s390: move thread_info into task_struct")
+c360192bf4a8 ("s390/preempt: move preempt_count to the lowcore")

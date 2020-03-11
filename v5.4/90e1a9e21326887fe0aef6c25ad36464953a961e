@@ -1,0 +1,6 @@
+90e1a9e21326 ("nexthop: Add a dedicated flag for multipath next-hop groups")
+720ccd9a7285 ("nexthop: Assert the invariant that a NH group is of only one type")
+863b25581ce9 ("ipv4: nexthop: Correctly update nexthop group when removing a nexthop")
+0b5e2e39739e ("nexthop: Expand nexthop_is_multipath in a few places")
+90f33bffa382 ("nexthops: don't modify published nexthop groups")
+ac21753a5c2c ("nexthops: Move code from remove_nexthop_from_groups to remove_nh_grp_entry")

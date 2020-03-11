@@ -1,0 +1,8 @@
+7b03942ff33c ("s390/vmem: fix virtual vs physical address confusion")
+edc1e4b6e265 ("s390/vmem: split pages when debug pagealloc is enabled")
+2ed8b509753a ("s390/kasan: fix insecure W+X mapping warning")
+f9b2d96c4fa4 ("s390/mm: use set_memory_*() helpers instead of open coding")
+557b19709da9 ("s390/kasan: move shadow mapping to decompressor")
+f913a6600491 ("s390/boot: rework decompressor reserved tracking")
+8c37cb7d4ffc ("s390/boot: rename mem_detect to physmem_info")
+53fcc7dbf176 ("s390/boot: remove non-functioning image bootable check")

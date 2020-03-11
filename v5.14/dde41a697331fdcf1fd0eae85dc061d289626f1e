@@ -1,0 +1,7 @@
+dde41a697331 ("net: dsa: mv88e6xxx: Fix off by in one in mv88e6185_phylink_get_caps()")
+d4ebf12bcec4 ("net: dsa: mv88e6xxx: populate supported_interfaces and mac_capabilities")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")
+fd292c189a97 ("net: dsa: tear down devlink port regions when tearing down the devlink port on error")
+e6e12df625f2 ("net: mscc: ocelot: convert to phylink")
+46efe4efb9d1 ("net: dsa: felix: stop calling ocelot_port_{enable,disable}")
+c762b7fac1b2 ("net: mvneta: deny disabling autoneg for 802.3z modes")

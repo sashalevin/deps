@@ -1,0 +1,6 @@
+6a654e36fa51 ("mm, isolation: avoid checking unmovable pages across pageblock boundary")
+4a55c0474a92 ("mm/hotplug: silence a lockdep splat with printk()")
+fe4c86c916d9 ("mm: remove "count" parameter from has_unmovable_pages()")
+3f9903b9ca5e ("mm: remove the memory isolate notifier")
+5b57b8f22709 ("mm/debug.c: always print flags in dump_page()")
+756d25be457f ("mm/page_isolation.c: convert SKIP_HWPOISON to MEMORY_OFFLINE")

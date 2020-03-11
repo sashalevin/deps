@@ -1,0 +1,8 @@
+68bc30deac62 ("drm/i915: Restore vblank interrupts earlier")
+b1e01595a66d ("drm/i915: Redo plane sanitation during readout")
+51f5a0963984 ("drm/i915: Add .get_hw_state() method for planes")
+779d4d8f083e ("drm/i915: Unify skylake plane disable")
+9a8cc576002a ("drm/i915: Unify skylake plane update")
+e288881b08dc ("drm/i915: dspaddr_offset doesn't need to be more than local variable")
+bf0a5d4b223d ("drm/i915: move adjusted_x/y from crtc to cache.")
+d3a8fb3223a7 ("drm/i915: Pass the crtc state explicitly to intel_pipe_update_start/end()")

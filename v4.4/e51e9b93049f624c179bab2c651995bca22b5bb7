@@ -1,0 +1,7 @@
+e51e9b93049f ("spi: pxa2xx: Prepare for edge-triggered interrupts")
+4fc0caac065d ("spi: pxa2xx: Remove pointer to current SPI message from driver data")
+bffc967e93c7 ("spi: pxa2xx: Do not needlessly initialize stack variables")
+2d7537d8f641 ("spi: pxa2xx: Use local struct spi_master pointer in pump_transfers()")
+7d1f1bf699ef ("spi: pxa2xx: handle error of pxa2xx_spi_dma_prepare()")
+c1e4a53c6b81 ("spi: pxa2xx: Move chip select control bits into lpss_config structure")
+ee03672d961b ("spi: pxa2xx: Print actual DMA/PIO transfer mode in debug messages")

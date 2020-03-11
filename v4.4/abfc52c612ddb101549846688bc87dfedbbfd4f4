@@ -1,0 +1,7 @@
+abfc52c612dd ("KVM: nVMX: Separate logic allocating shadow vmcs to a function")
+491a6038458f ("KVM: VMX: Mark vmcs header as shadow in case alloc_vmcs_cpu() allocate shadow vmcs")
+61ada7488ffd ("KVM: nVMX: Cache shadow vmcs12 on VMEntry and flush to memory on VMExit")
+392b2f25aa41 ("KVM: VMX: Create struct for VMCS header")
+8fcc4b5923af ("kvm: nVMX: Introduce KVM_CAP_NESTED_STATE")
+7f7f1ba33cf2 ("KVM: x86: do not load vmcs12 pages while still in SMM")
+d2ce98ca0a19 ("Merge tag 'v4.18-rc6' into HEAD")

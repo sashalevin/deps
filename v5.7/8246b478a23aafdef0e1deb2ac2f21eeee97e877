@@ -1,0 +1,4 @@
+8246b478a23a ("pwm-sun4i: Calculate the delay without rounding down to jiffies")
+ba3e5037ceeb ("pwm-sun4i: Calculate "delay_jiffies" directly, eliminate absolute time")
+c7078972038a ("pwm-sun4i: Convert "next_period" to local variable")
+c7dcccaec2f7 ("pwm: sun4i: Use nsecs_to_jiffies to avoid a division")

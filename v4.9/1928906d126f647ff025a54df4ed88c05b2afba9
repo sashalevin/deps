@@ -1,0 +1,6 @@
+1928906d126f ("rtc: test: remove alarm support from the first device")
+0b472ad2999c ("rtc: test: convert to devm_rtc_allocate_device")
+8be090299402 ("rtc: test: emulate alarms using timers")
+4dc2403bed0d ("rtc: test: store time as an offset to system time")
+5b257571cd48 ("rtc: test: allow registering many devices")
+784176820007 ("rtc: test: remove obsolete .set_mmss")

@@ -1,0 +1,4 @@
+6353abd32c8d ("perf record: Fix memset out-of-range error")
+6c1785cd75ef ("perf record: Ensure space for lost samples")
+7d1405c71df2 ("perf record: Reduce memory for recording PERF_RECORD_LOST_SAMPLES event")
+030ac3cad289 ("perf record: Be lazier in allocating lost samples buffer")

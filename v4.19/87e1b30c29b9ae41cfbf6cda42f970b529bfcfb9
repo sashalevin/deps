@@ -1,0 +1,7 @@
+87e1b30c29b9 ("ARM: at91: pm: avoid push and pop on stack while memory is in self-refersh")
+4a877560fe04 ("ARM: at91: pm: s/sfr/sfrbu in pm_suspend.S")
+0be298a939b7 ("ARM: at91: pm: add pmc_version member to at91_pm_data")
+63d1a6b107d5 ("ARM: at91: pm: add macros for plla disable/enable")
+c4cae59d80f0 ("ARM: at91: pm: revert do not disable/enable PLLA for ULP modes")
+6ec1587b5c17 ("ARM: at91: pm: use proper master clock register offset")
+6b9dfd986a81 ("ARM: at91: pm: use SAM9X60 PMC's compatible")

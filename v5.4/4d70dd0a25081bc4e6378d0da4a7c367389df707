@@ -1,0 +1,6 @@
+4d70dd0a2508 ("spi: atmel-quadspi: Convert to platform remove callback returning void")
+9448bc1dee65 ("spi: atmel-quadspi: Free resources even if runtime resume failed in .remove()")
+4a2f83b7f780 ("spi: atmel-quadspi: add runtime pm support")
+df6978b7ea63 ("spi: atmel-quadspi: Disable the QSPI IP at suspend()")
+c528ecfbef04 ("spi: atmel-quadspi: Add verbose debug facilities to monitor register accesses")
+8e093ea4d359 ("spi: atmel-quadspi: fix possible MMIO window size overrun")

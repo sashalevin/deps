@@ -1,0 +1,6 @@
+1da027362a7d ("irqdomain: Reimplement irq_linear_revmap() with irq_find_mapping()")
+bb4c6910c8b4 ("genirq/irqdomain: Add an irq_create_mapping_affinity() function")
+f1d783585486 ("irqdomain: Move revmap_trees_mutex to struct irq_domain")
+495c38d3001f ("irqdomain: Add irq_domain_{push,pop}_irq() functions")
+b526adfe1b05 ("irqdomain: Factor out code to add and remove items to and from the revmap")
+9dc6be3d4193 ("genirq/irqdomain: Add map counter")

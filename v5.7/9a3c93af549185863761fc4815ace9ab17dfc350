@@ -1,0 +1,5 @@
+9a3c93af5491 ("vlan: use netdev_lockdep_set_classes()")
+71854255820d ("net: vlan: Add parse protocol header ops")
+be74294ffa24 ("net: get rid of lockdep_set_class_and_subclass()")
+845e0ebb4408 ("net: change addr_list_lock back to static key")
+1a33e10e4a95 ("net: partially revert dynamic lockdep key changes")

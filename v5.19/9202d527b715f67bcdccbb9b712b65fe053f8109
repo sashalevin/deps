@@ -1,0 +1,5 @@
+9202d527b715 ("memcg: convert mem_cgroup_swap_full() to take a folio")
+a160e5377b55 ("mm: convert do_swap_page() to use folio_free_swap()")
+2c3f6194b008 ("swapfile: convert __try_to_reclaim_swap() to use a folio")
+bdb0ed54a476 ("mm/swapfile: convert try_to_free_swap() to folio_free_swap()")
+2397f780e1e0 ("mm/swap: convert try_to_free_swap to use a folio")

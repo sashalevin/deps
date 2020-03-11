@@ -1,0 +1,6 @@
+ba6a6abb3bfa ("selftests/bpf: Mark cpumask kfunc declarations as __weak")
+88f6047191e6 ("selftests/bpf: Add test for bpf_cpumask_weight() kfunc")
+5a73efc7d1b4 ("selftests/bpf: Update bpf_cpumask_any* tests to use bpf_cpumask_any_distribute*")
+58476d8a24bd ("selftests/bpf: Add test for new bpf_cpumask_first_and() kfunc")
+f904c67876c4 ("selftests/bpf: Add test for non-NULLable PTR_TO_BTF_IDs")
+1b403ce77dfb ("bpf: Remove bpf_cpumask_kptr_get() kfunc")

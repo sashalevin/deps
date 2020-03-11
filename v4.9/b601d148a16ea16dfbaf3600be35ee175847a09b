@@ -1,0 +1,7 @@
+b601d148a16e ("block: remove a duplicate __disk_get_part prototype")
+67f2519fe290 ("fs: guard_bio_eod() needs to consider partitions")
+74d46992e0d9 ("block: replace bi_bdev with a gendisk pointer and partitions index")
+f8f84b2dfda5 ("btrfs: index check-integrity state hash by a dev_t")
+d62e26b3ffd2 ("block: pass in queue to inflight accounting")
+9346beb9d0ee ("bio-integrity: move the bio integrity profile check earlier in bio_integrity_prep")
+130568d5eac5 ("Merge branch 'for-linus' of git://git.kernel.dk/linux-block")

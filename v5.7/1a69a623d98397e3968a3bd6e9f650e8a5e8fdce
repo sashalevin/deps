@@ -1,0 +1,6 @@
+1a69a623d983 ("mm: vmalloc: remove redundant assignment in unmap_kernel_range_noflush()")
+2ba3e6947aed ("mm/vmalloc: track which page-table levels were modified")
+60bb44652a0d ("mm: don't return the number of pages from map_kernel_range{,_noflush}")
+b521c43f58e5 ("mm: remove vmap_page_range_noflush and vunmap_page_range")
+78a0e8c4837f ("mm: pass addr as unsigned long to vb_free")
+8f87cc9386dc ("mm: unexport unmap_kernel_range_noflush")

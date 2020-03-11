@@ -1,0 +1,6 @@
+d5633b0dee02 ("btrfs: defrag: bring back the old file extent search behavior")
+7093f15291e9 ("btrfs: defrag: don't try to merge regular extents with preallocated extents")
+966d879bafaa ("btrfs: defrag: allow defrag_one_cluster() to skip large extent which is not a target")
+3c9d31c71594 ("btrfs: add back missing dirty page rate limiting to defrag")
+c080b4144b9d ("btrfs: defrag: properly update range->start for autodefrag")
+484167da7773 ("btrfs: defrag: fix wrong number of defragged sectors")

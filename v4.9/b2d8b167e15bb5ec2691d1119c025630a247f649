@@ -1,0 +1,8 @@
+b2d8b167e15b ("KVM: x86: hyper-v: set NoNonArchitecturalCoreSharing CPUID bit when SMT is impossible")
+f1adceaf01f0 ("x86/kvm/hyper-v: recommend using eVMCS only when it is enabled")
+2bc39970e932 ("x86/kvm/hyper-v: Introduce KVM_GET_SUPPORTED_HV_CPUID")
+a4987defc1e6 ("x86/hyper-v: Do some housekeeping in hyperv-tlfs.h")
+2a31b9db1535 ("kvm: introduce manual dirty log reprotect")
+8fe65a8299f9 ("kvm: rename last argument to kvm_get_dirty_log_protect")
+e5d83c74a580 ("kvm: make KVM_CAP_ENABLE_CAP_VM architecture agnostic")
+0d1e8b8d2bcd ("Merge tag 'kvm-4.20-1' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

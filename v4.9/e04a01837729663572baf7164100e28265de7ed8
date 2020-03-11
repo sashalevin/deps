@@ -1,0 +1,8 @@
+e04a01837729 ("net/mlx5: Consolidate flow rules regardless their flow tag")
+66958ed906b8 ("net/mlx5: Support encap id when setting new steering entry")
+e37a79e5d4ca ("net/mlx5e: Add tc support for FWD rule with counter")
+74491de93712 ("net/mlx5: Add multi dest support")
+a62249857779 ("net/mlx5: Group similer rules under the same fte")
+814fb8754155 ("net/mlx5: Refactor find_flow_rule")
+0501fc477c2b ("net/mlx5: Use fte status to decide on firmware command")
+0fd758d6112f ("net/mlx5: Don't unlock fte while still using it")

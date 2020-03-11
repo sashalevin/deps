@@ -1,0 +1,7 @@
+f8bd54d21904 ("drm/i915: panel: Use atomic PWM API for devs with an external PWM controller")
+9a6ae5b354ed ("drm/i915: panel: Honor the VBT PWM min setting for devs with an external PWM controller")
+6b51e7d23aa8 ("drm/i915: panel: Honor the VBT PWM frequency for devs with an external PWM controller")
+d59b1d1bdffa ("drm/i915: panel: Use intel_panel_compute_brightness() from pwm_setup_backlight()")
+e9318906ad0b ("drm/i915/panel: automatic conversion to drm_device based logging macros.")
+0fac5a7cd842 ("drm/i915/panel: use intel_de_*() functions for register access")
+b69413110207 ("drm/i915: DSI: select correct PWM controller to use based on the VBT")

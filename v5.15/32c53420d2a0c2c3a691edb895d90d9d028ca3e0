@@ -1,0 +1,4 @@
+32c53420d2a0 ("eth: de4x5: remove support for Generic DECchip & DIGITAL EtherWORKS PCI/EISA")
+0fa68da72c3b ("net: ethernet: dec: tulip: de4x5: fix possible array overflows in type3_infoblock()")
+61217be886b5 ("net: tulip: de4x5: fix the problem that the array 'lp->phy[8]' may be out of bound")
+ca8793175564 ("ethernet: tulip: remove direct netdev->dev_addr writes")

@@ -1,0 +1,4 @@
+41e8a7c249bf ("efi/random: use arch-independent efi_call_proto()")
+c2ceb5fd4e92 ("efi/random: Increase size of firmware supplied randomness")
+568bc4e87033 ("efi/arm*/libstub: Invoke EFI_RNG_PROTOCOL to seed the UEFI RNG table")
+636259880a7e ("efi: Add support for seeding the RNG from a UEFI config table")

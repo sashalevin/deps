@@ -1,0 +1,5 @@
+4cf6324b17e9 ("block: Introduce blk_exit_queue()")
+a063057d7c73 ("block: Fix a race between request queue removal and the block cgroup controller")
+b425e5049258 ("block: Avoid that blk_exit_rl() triggers a use-after-free")
+da8d7f079b86 ("block: Export blk_init_request_from_bio()")
+65f619d25351 ("Merge branch 'for-linus' into for-4.12/block")

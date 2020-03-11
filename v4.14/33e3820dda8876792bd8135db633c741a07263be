@@ -1,0 +1,4 @@
+33e3820dda88 ("rpmsg: smd: Use spinlock in tx path")
+c3388a075c8a ("rpmsg: smd: Fix double unlock in __qcom_smd_send()")
+178f3f75bb4e ("rpmsg: smd: Don't hold the tx lock during wait")
+b2c932e7991c ("rpmsg: smd: Fail send on a closed channel")

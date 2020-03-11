@@ -1,0 +1,8 @@
+7652ac920185 ("x86/asm: Move native_write_cr0/4() out of line")
+8dbec27a242c ("x86/asm: Pin sensitive CR0 bits")
+873d50d58f67 ("x86/asm: Pin sensitive CR4 bits")
+aa35f896979d ("x86/umip: Enable User-Mode Instruction Prevention at runtime")
+4ba55e65f471 ("x86/mm/32: Load a sane CR3 before cpu_init() on secondary CPUs")
+c7ad5ad297e6 ("x86/mm/64: Initialize CR4.PCIDE early")
+1c9fe4409ce3 ("x86/mm: Document how CR4.PCIDE restore works")
+413d63d71b22 ("Merge branch 'linus' into x86/mm to pick up fixes and to fix conflicts")

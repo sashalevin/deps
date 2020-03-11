@@ -1,0 +1,5 @@
+a1221703a0f7 ("sctp: sctp_sock_filter(): avoid list_entry() on possibly empty list")
+ff22b5bf78fe ("sctp: rename sctp_diag.c as diag.c")
+d25adbeb0cdb ("sctp: fix an use-after-free issue in sctp_sock_dump")
+86fdb3448cc1 ("sctp: ensure ep is not destroyed before doing the dump")
+988c73221169 ("sctp: return next obj by passing pos + 1 into sctp_transport_get_idx")

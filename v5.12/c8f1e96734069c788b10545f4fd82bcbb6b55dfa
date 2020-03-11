@@ -1,0 +1,4 @@
+c8f1e9673406 ("KVM: arm64: Unconditionally include generic KVM's Kconfig")
+8e049e0daf23 ("KVM: arm64: Introduce hyp_assert_lock_held()")
+d21292f13f1f ("KVM: arm64: Add hyp_spin_is_locked() for basic locking assertions at EL2")
+67c2d326332e ("arm64: kvm: Add standalone ticket spinlock implementation for use at hyp")

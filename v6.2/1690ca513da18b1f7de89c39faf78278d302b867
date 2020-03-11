@@ -1,0 +1,5 @@
+1690ca513da1 ("serial: Rename hw_stopped to old_hw_stopped & improve logic")
+b5def43a7b3e ("serial: Make hw_stopped bool")
+8e90cf29aef7 ("serial: Move uart_change_speed() earlier")
+968d64578ec9 ("serial: Make uart_handle_cts_change() status param bool active")
+0388a152fc55 ("tty/serial: Make ->dcd_change()+uart_handle_dcd_change() status bool active")

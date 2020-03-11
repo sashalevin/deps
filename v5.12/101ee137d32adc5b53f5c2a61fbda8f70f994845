@@ -1,0 +1,8 @@
+101ee137d32a ("udf: Drop VARCONV support")
+a27b2923de7e ("udf: Move udf_expand_dir_adinicb() to its callsite")
+57bda9fb169d ("udf: Convert udf_expand_dir_adinicb() to new directory iteration")
+d16076d9b684 ("udf: New directory iteration code")
+e4ae4735f7c2 ("udf: use sb_bdev_nr_blocks")
+b64533344371 ("udf: Fix iocharset=utf8 mount option")
+979a6e28dd96 ("udf: Get rid of 0-length arrays in struct fileIdentDesc")
+fa236c2b2d44 ("udf: Fix NULL pointer dereference in udf_symlink function")

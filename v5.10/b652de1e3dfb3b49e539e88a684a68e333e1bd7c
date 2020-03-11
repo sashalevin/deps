@@ -1,0 +1,8 @@
+b652de1e3dfb ("KVM: SVM: Disable preemption across AVIC load/put during APICv refresh")
+5be2226f417d ("KVM: x86: allow defining return-0 static calls")
+abb6d479e226 ("KVM: x86: make several APIC virtualization callbacks optional")
+dd2319c61888 ("KVM: x86: warn on incorrectly NULL members of kvm_x86_ops")
+e4fc23bad813 ("KVM: x86: remove KVM_X86_OP_NULL and mark optional kvm_x86_ops")
+8a2897853c53 ("KVM: x86: return 1 unconditionally for availability of KVM_CAP_VAPIC")
+db6e7adf8de9 ("KVM: SVM: Rename AVIC helpers to use "avic" prefix instead of "svm"")
+4e71cad31c62 ("Merge remote-tracking branch 'kvm/master' into HEAD")

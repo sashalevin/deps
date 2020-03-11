@@ -1,0 +1,8 @@
+14e292f8d453 ("sched,rt: Use cpumask_any*_distribute()")
+46a87b3851f0 ("sched/core: Distribute tasks within affinity masks")
+714e501e16cd ("sched/core: Fix migration to invalid CPU in __set_cpus_allowed_ptr()")
+b18c3ca11c20 ("sched/deadline: Make find_later_rq() choose a closer CPU in topology")
+e9d867a67fd0 ("sched: Allow per-cpu kernel threads to run on online && !active")
+d6ca41d7922c ("sched/debug: Move the /sys/kernel/debug/sched_features file setup into debug.c")
+5955102c9984 ("wrappers for ->i_mutex access")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

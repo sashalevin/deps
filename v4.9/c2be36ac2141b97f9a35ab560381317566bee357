@@ -1,0 +1,5 @@
+c2be36ac2141 ("dmaengine: xilinx_dma: remove set but not used variable 'tail_segment'")
+b8349172b400 ("dmaengine: xilinx_dma: Drop SG support for VDMA IP")
+fe0503e19310 ("dmaeninge: xilinx_dma: Fix bug in multiple frame stores scenario in vdma")
+21e02a3e05cf ("dmaengine: xilinx_dma: Check for channel idle state before submitting dma descriptor")
+676f9c26c330 ("dmaengine: xilinx: fix device_terminate_all() callback for AXI CDMA")

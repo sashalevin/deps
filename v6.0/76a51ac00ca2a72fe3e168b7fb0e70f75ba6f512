@@ -1,0 +1,4 @@
+76a51ac00ca2 ("fuse: clear PG_uptodate when using a stolen page")
+063aaad792ee ("fuse: convert fuse_try_move_page() to use folios")
+3720dd6dcac3 ("filemap: convert replace_page_cache_page() to replace_page_cache_folio()")
+ec1c86b25f4b ("mm: multi-gen LRU: groundwork")

@@ -1,0 +1,8 @@
+d137a7cb9b2a ("mm/page_alloc: simplify update of pgdat in wake_all_kswapds")
+bc53008eea55 ("mm/vmscan: make sure wakeup_kswapd with managed zone")
+c574bbe91703 ("NUMA balancing: optimize page placement for memory tiering system")
+ac16ec835314 ("mm: migrate: support multiple target nodes demotion")
+a6a0251c6fce ("mm/migrate: fix CPUHP state to update node demotion order")
+2b9b624f5aef ("mm: migrate: introduce a local variable to get the number of pages")
+884a6e5d1f93 ("mm/migrate: update node demotion order on hotplug events")
+79c28a416722 ("mm/numa: automatically generate node migration order")

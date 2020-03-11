@@ -1,0 +1,5 @@
+c66f4711f79c ("drm/xe: Align all VRAM scanout buffers to 64k physical pages when needed.")
+e7192f0162a0 ("drm/xe: Move vm bind bo validation to a helper function")
+701109f2e3a4 ("drm/xe: Add struct xe_vma_ops abstraction")
+75192758d640 ("drm/xe: Add ops_execute function which returns a fence")
+77f2ef3f16f5 ("drm/xe: Lock all gpuva ops during VM bind IOCTL")

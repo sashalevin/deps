@@ -1,0 +1,4 @@
+d791ea676b66 ("mm: reclaim mustn't enter FS for SWP_FS_OPS swap-space")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+7e63df00cf5e ("mm: Convert swap_set_page_dirty() to swap_dirty_folio()")
+6f31a5a261db ("fs: Add aops->dirty_folio")

@@ -1,0 +1,6 @@
+aaecae7b6a2b ("KVM: x86: Rename KVM_MSR_RET_INVALID to KVM_MSR_RET_UNSUPPORTED")
+3376ca3f1a20 ("KVM: x86: Fix KVM_GET_MSRS stack info leak")
+2de154f541fc ("KVM: x86/pmu: Provide "error" semantics for unsupported-but-known PMU MSRs")
+bfbcc81bb82c ("KVM: x86: Add a quirk for KVM's "MONITOR/MWAIT are NOPs!" behavior")
+ff81a90f45ce ("KVM: x86: Ignore benign host writes to "unsupported" F15H_PERF_CTL MSRs")
+157fc497b54f ("KVM: x86: Ignore benign host accesses to "unsupported" PEBS and BTS MSRs")

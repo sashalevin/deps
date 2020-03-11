@@ -1,0 +1,5 @@
+1845d381f280 ("riscv: cacheinfo: Add back init_cache_level() function")
+c3719bd9eeb2 ("cacheinfo: Use RISC-V's init_cache_level() as generic OF implementation")
+9447eb0f1575 ("cacheinfo: Move cache_leaves_are_shared out of CONFIG_OF")
+4b92d4add5f6 ("drivers: base: cacheinfo: Get rid of DEFINE_SMP_CALL_CACHE_FUNCTION()")
+baf7cbd94b56 ("riscv: Set more data to cacheinfo")

@@ -1,0 +1,5 @@
+38e719ab2673 ("hugetlb: support node specified when using cma for gigantic hugepages")
+a01f43901cfb ("hugetlb: be sure to free demoted CMA pages to CMA")
+79dfc695525f ("hugetlb: add demote hugetlb page sysfs interfaces")
+6eb4e88a6d27 ("hugetlb: create remove_hugetlb_page() to separate functionality")
+262443c0421e ("hugetlb: no need to drop hugetlb_lock to call cma_release")

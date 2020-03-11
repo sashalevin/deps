@@ -1,0 +1,5 @@
+69e583eaca57 ("mmap: remove the IA64-specific vma expansion implementation")
+8d7071af8907 ("mm: always expand the stack with the mmap write lock held")
+f313c51d26aa ("execve: expand new process stack manually ahead of time")
+f440fa1ac955 ("mm: make find_extend_vma() fail if write lock not held")
+c2508ec5a58d ("mm: introduce new 'lock_mm_and_find_vma()' page fault helper")

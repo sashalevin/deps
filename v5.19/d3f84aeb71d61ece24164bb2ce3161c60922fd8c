@@ -1,0 +1,8 @@
+d3f84aeb71d6 ("rcu/tasks: Mark callbacks not currently participating in barrier operation")
+fd70e9f1d85f ("rcu-tasks: Fix access non-existent percpu rtpcp variable in rcu_tasks_need_gpcb()")
+46faf9d8e1d5 ("rcu-tasks: Initialize data to eliminate RCU-tasks/do_exit() deadlocks")
+e62d8ae46208 ("rcu-tasks: Pull sampling of ->percpu_dequeue_lim out of loop")
+cb88f7f51bc6 ("rcu-tasks: Permit use of debug-objects with RCU Tasks flavors")
+db13710a0365 ("rcu-tasks: Cancel callback laziness if too many callbacks")
+d119357d0743 ("rcu-tasks: Treat only synchronous grace periods urgently")
+2e31da752c6d ("Merge branches 'doc.2023.05.10a', 'fixes.2023.05.11a', 'kvfree.2023.05.10a', 'nocb.2023.05.11a', 'rcu-tasks.2023.05.10a', 'torture.2023.05.15a' and 'rcu-urgent.2023.06.06a' into HEAD")

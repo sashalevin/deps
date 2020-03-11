@@ -1,0 +1,6 @@
+05e4ed1ce585 ("net: mscc: ocelot: remove unnecessary variable")
+2f187bfa6f35 ("net: ethernet: ocelot: remove the need for num_stats initializer")
+36fac35b2907 ("net: mscc: ocelot: delete OCELOT_MRP_CPUQ")
+d87b1c08f38a ("net: mscc: ocelot: use bulk reads for stats")
+e27d785e60b6 ("net: mscc: ocelot: remove unnecessary stat reading from ethtool")
+7fbf6795d127 ("net: mscc: ocelot: fix mutex lock error during ethtool stats read")

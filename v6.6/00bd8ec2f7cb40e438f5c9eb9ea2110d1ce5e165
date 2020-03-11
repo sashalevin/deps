@@ -1,0 +1,5 @@
+00bd8ec2f7cb ("fs/procfs: remove build ID-related code duplication in PROCMAP_QUERY")
+bfc69fd05ef9 ("fs/procfs: add build ID fetching to PROCMAP_QUERY API")
+ed5d583a88a9 ("fs/procfs: implement efficient VMA querying API for /proc/<pid>/maps")
+52526ca7fdb9 ("fs/proc/task_mmu: implement IOCTL to get and optionally clear info about PTEs")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")

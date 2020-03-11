@@ -1,0 +1,7 @@
+b539ce9f1a31 ("mm/slab: Annotate kmem_cache_node->list_lock as raw")
+7981e67efb85 ("mm/slab: Convert most struct page to struct slab by spatch")
+42c0faac3192 ("mm/slab: Convert kmem_getpages() and kmem_freepages() to struct slab")
+0b3eb091d575 ("mm: Convert check_heap_object() to use struct slab")
+7213230af5e1 ("mm: Use struct slab in kmem_obj_info()")
+b918653b4f32 ("mm: Convert [un]account_slab_page() to struct slab")
+c798154311e1 ("mm/slab: Dissolve slab_map_pages() in its caller")

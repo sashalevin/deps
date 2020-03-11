@@ -1,0 +1,8 @@
+aa8e73eed7d3 ("crypto: x86/sm3 - Fixup SLS")
+930ab34d906d ("crypto: x86/sm3 - add AVX assembly implementation")
+a7ee22ee1445 ("crypto: x86/sm4 - add AES-NI/AVX/x86_64 implementation")
+1579f1bc3b75 ("crypto: x86/curve25519 - support assemblers with no adx support")
+d7d7b8535662 ("crypto: x86/poly1305 - wire up faster implementations for kernel")
+0896ca2a0cb6 ("crypto: x86/poly1305 - import unmodified cryptogams implementation")
+1c08a104360f ("crypto: poly1305 - add new 32 and 64-bit generic versions")
+483847a70262 ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

@@ -1,0 +1,6 @@
+b28bc9ebbe23 ("iio: adc: ti-ads1015: Switch to read_avail")
+ad202fe8edd1 ("iio: adc: ti-ads1015: Replace data_rate with chip data struct ads1015_data")
+0ca269a4ae39 ("iio: adc: ti-ads1015: Convert to OF match data")
+f1c9ce0ced2d ("iio: adc: ti-ads1015: Add TLA2024 support")
+7926f8a8c706 ("iio:adc:ti-ads1015: Suppress clang W=1 warning about pointer to enum conversion.")
+e71e6dbe96ac ("iio: adc: ti-ads1015: fix conversion when CONFIG_PM is not set")

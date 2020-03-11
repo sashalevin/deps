@@ -1,0 +1,6 @@
+8e674ca74244 ("can: do not increase rx_bytes statistics for RTR frames")
+f68eafeb9759 ("can: do not copy the payload of RTR frames")
+676068db69b8 ("can: do not increase rx statistics when generating a CAN rx error message frame")
+31cb32a590d6 ("can: m_can: m_can_read_fifo: fix memory leak in error branch")
+94cddf1e9227 ("can: pch_can: pch_can_rx_normal: fix use after free")
+28e0a70cede3 ("can: peak_usb: CANFD: store 64-bits hw timestamps")

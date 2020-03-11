@@ -1,0 +1,8 @@
+6444b40eeda4 ("x86/apic: Annotate global config variables as "read-only after init"")
+ec6335586953 ("x86/apic: Silence -Wtype-limits compiler warnings")
+4f45ed9f848f ("x86/apic: Mark the apic_intr_mode extern for sanity check cleanup")
+3e730dad3b6d ("x86/apic: Unify interrupt mode setup for SMP-capable system")
+4b1244b45c16 ("x86/apic: Move logical APIC ID away from apic_bsp_setup()")
+a2510d156eae ("x86/apic: Split local APIC timer setup from the APIC setup")
+4b1669e8d1e4 ("x86/apic: Prepare for unifying the interrupt delivery modes setup")
+0114a8e87772 ("x86/apic: Construct a selector for the interrupt delivery mode")

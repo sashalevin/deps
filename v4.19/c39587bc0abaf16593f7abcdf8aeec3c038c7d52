@@ -1,0 +1,8 @@
+c39587bc0aba ("scsi: qla2xxx: Fix crash due to stale SRB access around I/O timeouts")
+e56b2234ab64 ("scsi: qla2xxx: Open-code qla2xxx_eh_target_reset()")
+fcef08932db7 ("scsi: qla2xxx: Complain if waiting for pending commands times out")
+7f4374e67b30 ("scsi: qla2xxx: Reject EH_{abort|device_reset|target_request}")
+0bfe7d3cae58 ("scsi: qla2xxx: Simplify conditional check")
+585def9b2f47 ("scsi: qla2xxx: Move ABTS code behind qpair")
+6b0431d6fa20 ("scsi: qla2xxx: Fix out of order Termination and ABTS response")
+0691094ff3f2 ("scsi: qla2xxx: Add logic to detect ABTS hang and response completion")

@@ -1,0 +1,7 @@
+1b438b454085 ("media: coda: mark the last output buffer on decoder stop command")
+e7fd95849b3c ("media: coda: flush bitstream ring buffer on decoder restart")
+ccb901196ec5 ("media: coda: make coda_bitstream_queue more versatile")
+60c74167fef4 ("media: coda: implement CMD_START to restart decoding")
+784867d2135a ("media: coda: disable encoder command on decoder and vice versa")
+51407c2da0b7 ("media: coda: always hold back decoder jobs until we have enough bitstream payload")
+6c0f5d236fd0 ("media: coda: store unmasked fifo position in meta")

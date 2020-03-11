@@ -1,0 +1,6 @@
+727d50a7e072 ("mm/migrate: move common code to numa_migrate_check (was numa_migrate_prep)")
+2a28713a67fd ("memory tiering: introduce folio_use_access_time() check")
+3eb2091c6534 ("memory tiering: read last_cpupid correctly in do_huge_pmd_numa_page()")
+fd8c35a92910 ("mm/numa: no task_numa_fault() call if PMD is changed")
+ee86814b0562 ("mm/migrate: move NUMA hinting fault folio isolation + checks under PTL")
+4b88c23ab8c9 ("mm/migrate: make migrate_misplaced_folio() return 0 on success")

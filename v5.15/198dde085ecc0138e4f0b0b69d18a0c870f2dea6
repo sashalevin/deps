@@ -1,0 +1,5 @@
+198dde085ecc ("ALSA: usb-audio: Workaround for XRUN at prepare")
+2be79d586454 ("ALSA: usb-audio: Split endpoint setups for hw_params and prepare (take#2)")
+0e85a22d01df ("ALSA: usb-audio: Configure sync endpoints before data")
+c11117b634f4 ("ALSA: usb-audio: Refcount multiple accesses on the single clock")
+83de8f83816e ("ALSA: usb-audio: Don't start stream for capture at prepare")

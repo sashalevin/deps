@@ -1,0 +1,3 @@
+41e07665f1a6 ("KVM: x86/mmu: Add a helper function to check if an SPTE needs atomic write")
+ba3a6120a4e7 ("KVM: x86/mmu: Use atomic XCHG to write TDP MMU SPTEs with volatile bits")
+626808d137b7 ("KVM: x86/mmu: Refactor low-level TDP MMU set SPTE helper to take raw values")

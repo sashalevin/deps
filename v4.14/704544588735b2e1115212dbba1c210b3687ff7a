@@ -1,0 +1,6 @@
+704544588735 ("powerpc/pci: Hide pci_create_OF_bus_map() for non-chrp code")
+0aa297e73bba ("powerpc/64: Move pci_device_from_OF_node() out of asm/pci-bridge.h")
+8cd6aacc6401 ("powerpc/pcidn: Make VF pci_dn management CONFIG_PCI_IOV specific")
+9a7f6b438664 ("powerpc/pseries/pci: Associate PEs to VFs in configure SR-IOV")
+608c0d8804ef ("PCI/IOV: Add pci_vf_drivers_autoprobe() interface")
+dae7253f9f78 ("powerpc/pseries: Add pseries SR-IOV Machine dependent calls")

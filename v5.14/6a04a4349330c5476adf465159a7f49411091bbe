@@ -1,0 +1,4 @@
+6a04a4349330 ("svcrdma: Move struct svc_rdma_chunk_ctxt to svc_rdma.h")
+2cc0f23b5305 ("svcrdma: Remove the svc_rdma_chunk_ctxt::cc_rdma field")
+45f135846815 ("svcrdma: Split svcrmda_wc_{read,write} tracepoints")
+6c8c84f52510 ("svcrdma: Fewer calls to wake_up() in Send completion handler")

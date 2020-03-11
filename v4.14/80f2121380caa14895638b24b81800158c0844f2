@@ -1,0 +1,8 @@
+80f2121380ca ("scsi: fs: remove exofs")
+26cb5a328c6b ("exofs_mount(): fix leaks on failure exits")
+3642b29a6367 ("fs/exofs: only use true/false for asignment of bool type variable")
+515f1867adda ("fs/exofs: fix potential memory leak in mount option parsing")
+076ff2f0b877 ("exofs: use bio_clone_fast in _write_mirror")
+20fe935358de ("exofs: avoid VLA in structures")
+6da2ec56059c ("treewide: kmalloc() -> kmalloc_array()")
+1c8c5a9d38f6 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

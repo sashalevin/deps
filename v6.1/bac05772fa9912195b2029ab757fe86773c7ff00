@@ -1,0 +1,6 @@
+bac05772fa99 ("iommu/amd: Refactor protection domain allocation code")
+ba7d263b7749 ("iommu/amd: Consolidate logic to allocate protection domain")
+5b00369fcf6d ("iommu/amd: Fix possible memory leak of 'domain'")
+29f54745f245 ("iommu/amd: Add missing domain type checks")
+0d571dcbe7c6 ("iommu/amd: Allocate page table using numa locality info")
+ba9bee7f59fd ("iommu/amd: Do not allocate io_pgtable_ops for passthrough domain")

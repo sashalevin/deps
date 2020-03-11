@@ -1,0 +1,4 @@
+e01e3934a1b2 ("tls: fix race between tx work scheduling and socket close")
+aec7961916f3 ("tls: fix race between async notify and socket close")
+c57ca512f3b6 ("net: tls: factor out tls_*crypt_async_wait()")
+615580cbc99a ("tls: extract context alloc/initialization out of tls_set_sw_offload")

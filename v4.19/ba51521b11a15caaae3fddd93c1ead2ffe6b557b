@@ -1,0 +1,5 @@
+ba51521b11a1 ("perf/x86/intel/uncore: Use to_pci_driver() instead of pci_dev->driver")
+8ed2ccaa3fa9 ("perf/x86/intel/uncore: Factor out uncore_pci_find_dev_pmu()")
+fe6507338d63 ("perf/x86/intel/uncore: Factor out uncore_pci_get_dev_die_info()")
+b0529b9cafac ("perf/x86/intel/uncore: Cosmetic renames in response to multi-die/pkg support")
+1ff4a47b2d0c ("perf/x86/intel/uncore: Support multi-die/package")

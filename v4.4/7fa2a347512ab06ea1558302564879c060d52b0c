@@ -1,0 +1,8 @@
+7fa2a347512a ("KVM: x86/mmu: Return old SPTE from mmu_spte_clear_track_bits()")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+83ef6c8155c0 ("kvm: x86: mmu: Refactor accessed/dirty checks in mmu_spte_update/clear")
+235539b48a23 ("kvm: add stubs for arch specific debugfs support")
+14f4760562e4 ("kvm: set page dirty only if page has been writable")
+21ebbedaddf2 ("KVM: page track: add the framework of guest page tracking")
+afd28fe1c901 ("KVM: x86: MMU: Remove is_rmap_spte() and use is_shadow_present_pte()")
+018aabb56d61 ("KVM: x86: MMU: Encapsulate the type of rmap-chain head in a new struct")

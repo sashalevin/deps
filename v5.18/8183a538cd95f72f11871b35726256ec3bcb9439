@@ -1,0 +1,7 @@
+8183a538cd95 ("KVM: x86/pmu: Add IA32_DS_AREA MSR emulation to support guest DS")
+6ebe44366bde ("KVM: x86/pmu: Adjust precise_ip to emulate Ice Lake guest PDIR counter")
+79f3e3b58386 ("KVM: x86/pmu: Reprogram PEBS event to emulate guest PEBS counter")
+c59a1f106f5c ("KVM: x86/pmu: Add IA32_PEBS_ENABLE MSR emulation for extended PEBS")
+0d23dc34a7ce ("x86/perf/core: Add pebs_capable to store valid PEBS_COUNTER_MASK value")
+2c985527dd8d ("KVM: x86/pmu: Introduce the ctrl_mask value for fixed counter")
+39a4d779546a ("perf/x86/core: Pass "struct kvm_pmu *" to determine the guest values")

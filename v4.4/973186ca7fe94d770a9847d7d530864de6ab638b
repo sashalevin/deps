@@ -1,0 +1,5 @@
+973186ca7fe9 ("perf tools: Fix MMAP event synthesis broken by MAP_HUGETLB change")
+fbef103fad50 ("perf tools: Do hugetlb handling in more systems")
+d7e404af115b ("perf record: Mark MAP_HUGETLB when synthesizing mmap events")
+0ac3348e5024 ("perf tools: Recognize hugetlb mapping as anon mapping")
+b2be5451f660 ("perf tools: Correctly identify anon_hugepage when generating map (v2)")

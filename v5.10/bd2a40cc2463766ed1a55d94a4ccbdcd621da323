@@ -1,0 +1,8 @@
+bd2a40cc2463 ("RDMA/core Remove uverbs_ex_cmd_mask")
+1f11a7610e50 ("RDMA: Check create_flags during create_qp")
+1c407cb5d705 ("RDMA: Check flags during create_cq")
+26e990badde4 ("RDMA: Check attr_mask during modify_qp")
+652caba5b550 ("RDMA: Check srq_type during create_srq")
+44ce37bc8bf3 ("RDMA: Move more uverbs_cmd_mask settings to the core")
+c074bb1e30f9 ("RDMA: Remove elements in uverbs_cmd_mask that all drivers set")
+b8e3130dd96b ("RDMA: Remove uverbs_ex_cmd_mask values that are linked to functions")

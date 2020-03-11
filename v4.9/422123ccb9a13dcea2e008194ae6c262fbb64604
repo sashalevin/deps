@@ -1,0 +1,5 @@
+422123ccb9a1 ("powerpc/traps: fix machine check handlers to use pr_cont()")
+f70b1e8d17ce ("powerpc/8xx: Move 8xx machine check handlers into platforms/8xx")
+0e23e7b32bfd ("powerpc/8xx: Simplify CONFIG_8xx checks in Makefile")
+7f3f819e9441 ("powerpc/traps: machine_check_generic() is only used on 32-bit")
+42bff234be3b ("powerpc/traps: Inline get_mc_reason()")

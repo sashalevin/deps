@@ -1,0 +1,5 @@
+39494aec8a04 ("ACPI: NUMA: Add handler for SRAT RINTC affinity structure")
+57ba79e865e5 ("ACPI/NUMA: Squash acpi_numa_memory_affinity_init() into acpi_parse_memory_affinity()")
+3a785e19f432 ("ACPI/NUMA: Remove architecture dependent remainings")
+f9f67e5adc8d ("x86/numa: Fix SRAT lookup of CFMWS ranges with numa_fill_memblks()")
+d7a73e3f0892 ("kernel/numa.c: Move logging out of numa.h")

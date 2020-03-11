@@ -1,0 +1,7 @@
+9d3679fe0f30 ("r8169: inline rtl8169_make_unusable_by_asic")
+eb2e7f092271 ("r8169: inline rtl8169_free_rx_databuff")
+32879f000120 ("r8169: allocate rx buffers using alloc_pages_node")
+fcd4e60885af ("r8169: improve rtl_rx")
+f072218cca5b ("r8169: remove not needed call to dma_sync_single_for_device")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+6dc8b74bf5c5 ("r8169: improve rx buffer allocation")

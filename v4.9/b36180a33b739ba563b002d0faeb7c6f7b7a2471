@@ -1,0 +1,7 @@
+b36180a33b73 ("switch compat_drm_addmap() to drm_ioctl_kernel()")
+56c275ccfba8 ("compat_drm_setunique(): don't bother")
+ff22ff9e734a ("switch compat_drm_addbufs() to drm_ioctl_kernel()")
+9f43e542a4e3 ("drm_compat_ioctl(): prepare for conversions to drm_ioctl_kernel()")
+499447db0ebf ("gpu: drm: core: Convert printk(KERN_<LEVEL> to pr_<level>")
+813a787861a4 ("drm: Reduce EDID warnings from DRM_ERROR to DRM_NOTE")
+82d753567f6f ("drm/edid: Don't print an error if the checksum of a CEA block is wrong")

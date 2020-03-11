@@ -1,0 +1,4 @@
+19871b5c7a00 ("iomap: pass the length of the dirty region to ->map_blocks")
+925c86a19bac ("fs: add CONFIG_BUFFER_HEAD")
+487c607df790 ("block: use iomap for writes to block devices")
+727cfe976758 ("block: open code __generic_file_write_iter for blkdev writes")

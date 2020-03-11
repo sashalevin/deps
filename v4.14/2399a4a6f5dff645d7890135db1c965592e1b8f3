@@ -1,0 +1,4 @@
+2399a4a6f5df ("drm/i915: Allow init_breadcrumbs to be used from irq context")
+36a501a19933 ("drm/i915/breadcrumbs: Keep the fake irq armed across reset")
+39cbf2aa41b6 ("drm/i915: Convert timers to use timer_setup()")
+81c0ed21aa91 ("drm/i915/fence: Avoid del_timer_sync() from inside a timer")

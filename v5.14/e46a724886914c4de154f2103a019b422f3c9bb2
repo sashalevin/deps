@@ -1,0 +1,5 @@
+e46a72488691 ("vfio/ccw: Remove private->mdev")
+f6c876d67e95 ("vfio/ccw: Fix FSM state if mdev probe fails")
+3bf1311f351e ("vfio/ccw: Convert to use vfio_register_emulated_iommu_dev()")
+39b6ee011f34 ("vfio/ccw: Pass vfio_ccw_private not mdev_device to various functions")
+9b0d6b7e28a9 ("vfio/ap,ccw: Fix open/close when multiple device FDs are open")

@@ -1,0 +1,7 @@
+5dba5c356ab3 ("mm/memory-failure: convert memory_failure() to use a folio")
+a363d1224b5a ("mm: memory-failure: fetch compound head after extra page refcnt is held")
+e0650a41f7d0 ("mm: clean up mlock_page / munlock_page references in comments")
+a8265cd917a6 ("Documentation/mm: update references to __m[un]lock_page() to *_folio()")
+b66d00dfebe7 ("mm: memory-failure: make action_result() return int")
+2fe62e222680 ("mm, hwpoison: use ClearPageHWPoison() in memory_failure()")
+2ace36f0f557 ("mm: memory-failure: cleanup try_to_split_thp_page()")

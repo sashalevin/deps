@@ -1,0 +1,7 @@
+0342e9a797db ("PCI: pci-epf-test: Remove setting epf_bar flags in function driver")
+bc4a48976f57 ("PCI: endpoint: Simplify epc->ops->set_bar()/pci_epc_set_bar()")
+bf597574b6be ("PCI: endpoint: BAR width should not depend on sizeof dma_addr_t")
+37dddf14f1ae ("PCI: cadence: Add EndPoint Controller driver for Cadence PCIe controller")
+4494738de0d9 ("PCI: endpoint: Add the function number as argument to EPC ops")
+1b79c5284439 ("PCI: cadence: Add host driver for Cadence PCIe controller")
+9de0eec29c07 ("PCI: Regroup all PCI related entries into drivers/pci/Makefile")

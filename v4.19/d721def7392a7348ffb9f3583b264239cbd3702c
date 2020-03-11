@@ -1,0 +1,4 @@
+d721def7392a ("kallsyms: Make kallsyms_on_each_symbol generally available")
+3e3552056ab4 ("kallsyms: only build {,module_}kallsyms_on_each_symbol when required")
+013c1667cf78 ("kallsyms: refactor {,module_}kallsyms_on_each_symbol")
+0bd476e6c671 ("kallsyms: unexport kallsyms_lookup_name() and kallsyms_on_each_symbol()")

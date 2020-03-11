@@ -1,0 +1,7 @@
+4674ffe2fcad ("perf, hw_breakpoint: Fix use-after-free if perf_event_open() fails")
+bdacfaf26da1 ("perf core: Add a kmem_cache for struct perf_event")
+98add2af89bb ("perf/cgroup: Reorder perf_cgroup_connect()")
+ab43762ef010 ("perf: Allow normal events to output AUX data")
+6ee52e2a3fe4 ("perf, bpf: Introduce PERF_RECORD_BPF_EVENT")
+76193a94522f ("perf, bpf: Introduce PERF_RECORD_KSYMBOL")
+cc6795aeffea ("perf/core: Add PERF_PMU_CAP_NO_EXCLUDE for exclusion incapable PMUs")

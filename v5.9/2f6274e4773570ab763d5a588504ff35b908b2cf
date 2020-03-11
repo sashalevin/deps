@@ -1,0 +1,8 @@
+2f6274e47735 ("habanalabs: avoid soft lockup bug upon mapping error")
+9488307a5559 ("habanalabs: prevent soft lockup during unmap")
+00e1b59c8b15 ("habanalabs: fix MMU debugfs operations")
+ccf979ee330b ("habanalabs: refactor MMU to support dual residency MMU")
+214afa974dd4 ("habanalabs: add debugfs support for MMU with 6 HOPs")
+7edf341b9ef5 ("habanalabs: add num_hops to hl_mmu_properties")
+d83fe66928b2 ("habanalabs: refactor MMU as device-oriented")
+c91324f41b27 ("habanalabs: rename mmu.c to mmu_v1.c")

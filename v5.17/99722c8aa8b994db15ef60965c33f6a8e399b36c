@@ -1,0 +1,5 @@
+99722c8aa8b9 ("nvme: use kstrtobool() instead of strtobool()")
+dc90f0846df4 ("mm: don't include <linux/memremap.h> in <linux/mm.h>")
+895749455f60 ("mm: simplify freeing of devmap managed pages")
+75e55d8a107e ("mm: move free_devmap_managed_page to memremap.c")
+730ff52194cd ("mm: remove pointless includes from <linux/hmm.h>")

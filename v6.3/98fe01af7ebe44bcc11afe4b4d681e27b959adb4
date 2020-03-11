@@ -1,0 +1,6 @@
+98fe01af7ebe ("btrfs: compression: convert page allocation to folio interfaces")
+4cea422a7765 ("btrfs: use shrinker for compression page pool")
+9ba965dca3b1 ("btrfs: use page alloc/free wrappers for compression pages")
+a959a1745d33 ("btrfs: don't clear page->mapping in btrfs_free_compressed_pages")
+32586c5bca72 ("btrfs: factor out a btrfs_free_compressed_pages helper")
+544fe4a903ce ("btrfs: embed a btrfs_bio into struct compressed_bio")

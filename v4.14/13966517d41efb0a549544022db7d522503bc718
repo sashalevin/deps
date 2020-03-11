@@ -1,0 +1,4 @@
+13966517d41e ("PM: runtime: Allow to call __pm_runtime_set_status() from atomic context")
+c1567f813a99 ("PM-runtime: Fix __pm_runtime_set_status() race with runtime resume")
+4080ab083000 ("PM-runtime: Take suppliers into account in __pm_runtime_set_status()")
+f8817f61e821 ("PM / runtime: Drop children check from __pm_runtime_set_status()")

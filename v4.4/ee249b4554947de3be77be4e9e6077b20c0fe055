@@ -1,0 +1,5 @@
+ee249b455494 ("usb: dwc3: omap: remove IRQ_NOAUTOEN used with shared irq")
+12a7f17fac5b ("usb: dwc3: omap: fix race of pm runtime with irq handler in probe")
+12da8eae208d ("usb: dwc3: omap: Mark the interrupt handler as shared")
+3f586c92d877 ("usb: dwc3: omap: use request_threaded_irq()")
+af566a0be6e4 ("usb: dwc3: omap: get rid of dma_status")

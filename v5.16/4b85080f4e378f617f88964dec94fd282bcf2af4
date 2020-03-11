@@ -1,0 +1,3 @@
+4b85080f4e37 ("KVM: arm64: vgic: Consolidate userspace access for base address setting")
+9f968c9266aa ("KVM: arm64: vgic-v2: Add helper for legacy dist/cpuif base address setting")
+d7df6f282db6 ("KVM: arm64: vgic: Use {get,put}_user() instead of copy_{from.to}_user")

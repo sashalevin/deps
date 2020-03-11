@@ -1,0 +1,5 @@
+cc5a3fc041f0 ("drm/panel: panel-simple: Stash DP AUX bus; allow using it for DDC")
+74c06c282ae6 ("drm/panel: panel-simple: Allow panel-simple be a DP AUX endpoint device")
+70e125601266 ("drm/panel: panel-simple: Add missing pm_runtime_disable() calls")
+f2e66f212a9d ("drm: panel: simple: add missing platform_driver_unregister() in panel_simple_init")
+0fe1564bd616 ("drm/panel: simple: use drm_panel backlight support")

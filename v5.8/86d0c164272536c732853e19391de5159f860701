@@ -1,0 +1,7 @@
+86d0c1642725 ("mm/ioremap: fix iomap_max_page_shift")
+bbc180a5adb0 ("mm: HUGE_VMAP arch support cleanup")
+95f0ddf081af ("mm/ioremap: rename ioremap_*_range to vmap_*_range")
+85a144632dcc ("mm/debug_vm_pgtables/hugevmap: use the arch helper to identify huge vmap support.")
+ab05eabfa18a ("mm: move lib/ioremap.c to mm/")
+a5c3b9ffb0f4 ("mm/debug_vm_pgtable: add tests validating advanced arch page table helpers")
+05289402d717 ("mm/debug_vm_pgtable: add tests validating arch helpers for core MM features")

@@ -1,0 +1,8 @@
+43a17111c255 ("printk: wake up klogd in vprintk_emit")
+c14376de3a1b ("printk: Wake klogd when passing console_lock owner")
+c162d5b4338d ("printk: Hide console waiter logic into helpers")
+dbdda842fe96 ("printk: Add console owner and waiter logic to load balance console writes")
+d9c23523ed98 ("printk: drop call_console_drivers() unused param")
+f975237b7682 ("printk: use printk_safe buffers in printk")
+5c2992ee7fd8 ("printk: remove console flushing special cases for partial buffered lines")
+5aa068ea4082 ("printk: remove games with previous record flags")

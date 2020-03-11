@@ -1,0 +1,4 @@
+da5dadb4f116 ("dm: fix dropped return code from dm_get_bdev_for_ioctl")
+519049afead4 ("dm: use blkdev_get rather than bdgrab when issuing pass-through ioctl")
+956a4025808d ("dm: fix sparse "unexpected unlock" warnings in ioctl code")
+664820265d70 ("dm: do not return target from dm_get_live_table_for_ioctl()")

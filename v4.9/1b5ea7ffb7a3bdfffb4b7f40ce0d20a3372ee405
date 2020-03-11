@@ -1,0 +1,4 @@
+1b5ea7ffb7a3 ("net: bcmgenet: Ensure MDIO unregistration has clocks enabled")
+aa7365e19f84 ("net: bcmgenet: Avoid calling platform_device_put() twice in bcmgenet_mii_exit()")
+9a4e79697009 ("net: bcmgenet: utilize generic Broadcom UniMAC MDIO controller driver")
+40bc8b065e8f ("net: bcmgenet: Remove special handling of "internal" phy-mode")

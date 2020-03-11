@@ -1,0 +1,7 @@
+f3a9b3758e0b ("fs/jfs: Use common ucs2 upper case table")
+089f7f591348 ("fs/smb: Swing unicode common code from smb->NLS")
+9e7493895474 ("fs/smb: Remove unicode 'lower' tables")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+16b5f54e30c1 ("ksmbd: casefold utf-8 share names and fix ascii lowercase conversion")

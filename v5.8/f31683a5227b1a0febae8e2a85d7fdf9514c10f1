@@ -1,0 +1,5 @@
+f31683a5227b ("RDMA/hns: Remove unnecessary checks for NULL in mtr_alloc_bufs()")
+6f6e2dcbb82b ("RDMA/hns: Refactor the hns_roce_buf allocation flow")
+cf9ce3c8ab80 ("RDMA/hns: Use ib_umem_num_dma_blocks() instead of opencoding")
+a2f3d4479fe9 ("RDMA/hns: Avoid unncessary initialization")
+cc33b23e1e1c ("RDMA/hns: Optimize MTR level-0 addressing to access huge page")

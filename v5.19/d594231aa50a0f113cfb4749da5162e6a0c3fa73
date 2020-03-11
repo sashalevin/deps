@@ -1,0 +1,6 @@
+d594231aa50a ("rcutorture: Verify RCU reader prevents full polling from completing")
+91a967fd6934 ("rcu: Add full-sized polling for get_completed*() and poll_state*()")
+d96c52fe4907 ("rcu: Add polled expedited grace-period primitives")
+d0eac20f9909 ("rcutorture: Validate get_completed_synchronize_rcu()")
+414c12385d47 ("rcu: Provide a get_completed_synchronize_rcu() function")
+2403e8044f22 ("rcu: Make normal polling GP be more precise about sequence numbers")

@@ -1,0 +1,4 @@
+00032d38eaa8 ("btrfs: drop extent_io_ops::merge_bio_hook callback")
+0c8508a6e741 ("btrfs: cleanup merging conditions in submit_extent_page")
+5c2b1fd7531d ("btrfs: assume that bio_ret is always valid in submit_extent_page")
+6c5a4e2c1259 ("btrfs: rename page offset parameter in submit_extent_page")

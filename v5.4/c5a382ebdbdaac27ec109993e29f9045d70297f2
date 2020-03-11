@@ -1,0 +1,5 @@
+c5a382ebdbda ("sunrpc: Create per-rpc_clnt sysfs kobjects")
+746787489b0c ("sunrpc: Create a sunrpc directory under /sys/kernel/")
+f45db2b909c7 ("sunrpc: check that domain table is empty at module unload.")
+7c4310ff5642 ("SUNRPC: defer slow parts of rpc_free_client() to a workqueue.")
+ff27e9f74830 ("SUNRPC: Trace gssproxy upcall results")

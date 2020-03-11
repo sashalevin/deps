@@ -1,0 +1,5 @@
+18749317d12e ("thermal: core: Clean up trip bind/unbind functions")
+2fb856336417 ("thermal: core: Unexport thermal_bind_cdev_to_trip() and thermal_unbind_cdev_from_trip()")
+aa35e56a5217 ("thermal: core: Introduce .should_bind() thermal zone callback")
+b4e6d3981731 ("thermal: core: Rearrange checks in thermal_bind_cdev_to_trip()")
+a8bbe6f10f78 ("thermal: core: Fold two functions into their respective callers")

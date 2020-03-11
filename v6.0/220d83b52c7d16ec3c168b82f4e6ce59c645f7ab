@@ -1,0 +1,8 @@
+220d83b52c7d ("smb: client: make SHA-512 TFM ephemeral")
+db44ca9f7bc0 ("smb: client: make HMAC-MD5 TFM ephemeral")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+1f3d5477b944 ("cifs: secmech: use shash_desc directly, remove sdesc")
+8698baa1b768 ("smb3: rename encryption/decryption TFMs")
+a4e430c8c8ba ("cifs: replace kfree() with kfree_sensitive() for sensitive data")

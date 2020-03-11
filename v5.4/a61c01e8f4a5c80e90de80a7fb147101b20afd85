@@ -1,0 +1,7 @@
+a61c01e8f4a5 ("proc: mark /proc/cmdline as permanent")
+941baf6febaa ("proc: give /proc/cmdline size")
+1319916209ce ("bootconfig: init: Allow admin to use bootconfig for init command line")
+51887d03aca1 ("bootconfig: init: Allow admin to use bootconfig for kernel command line")
+0068c92a9270 ("init/main.c: Alloc initcall_command_line in do_initcall() and free it")
+7684b8582c24 ("bootconfig: Load boot config from the tail of initrd")
+76db5a27a827 ("bootconfig: Add Extra Boot Config support")

@@ -1,0 +1,7 @@
+dc0592b73715 ("x86/mce/dev-mcelog: Do not update kflags on AMD systems")
+23ba710a0864 ("x86/mce: Fix all mce notifiers to update the mce->kflags bitmask")
+9554bfe403bd ("x86/mce: Convert the CEC to use the MCE notifier")
+c9c6d216ed28 ("x86/mce: Rename "first" function as "early"")
+3e0fdec858d8 ("x86/mce/amd, edac: Remove report_gart_errors")
+d8ecca4043f2 ("x86/mce/dev-mcelog: Dynamically allocate space for machine check records")
+8438b84ab42d ("x86/mce: Take action on UCNA/Deferred errors again")

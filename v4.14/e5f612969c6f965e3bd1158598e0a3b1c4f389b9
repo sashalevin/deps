@@ -1,0 +1,6 @@
+e5f612969c6f ("sctp: abandon the whole msg if one part of a fragmented message is abandoned")
+5bbbbe32a431 ("sctp: introduce stream scheduler foundations")
+f952be79cebd ("sctp: introduce struct sctp_stream_out_ext")
+1fdb8d8fefe2 ("sctp: factor out stream->in allocation")
+e090abd0d81c ("sctp: factor out stream->out allocation")
+1ae2eaaa229b ("sctp: silence warns on sctp_stream_init allocations")

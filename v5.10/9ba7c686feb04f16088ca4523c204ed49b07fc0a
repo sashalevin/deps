@@ -1,0 +1,7 @@
+9ba7c686feb0 ("btrfs: do not utilize goto to implement delayed inode ref deletion")
+5a656c3628b2 ("btrfs: stop doing GFP_KERNEL memory allocations in the ref verify tool")
+506650dcb3a7 ("btrfs: improve the batch insertion of delayed items")
+bfaa324e9a80 ("btrfs: remove total_data_size variable in btrfs_batch_insert_items()")
+bb385bedded3 ("btrfs: fix error handling in __btrfs_update_delayed_inode")
+ac5887c8e013 ("btrfs: locking: remove all the blocking helpers")
+196d59ab9ccc ("btrfs: switch extent buffer tree lock to rw_semaphore")

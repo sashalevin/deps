@@ -1,0 +1,4 @@
+190de7548143 ("perf c2c: Use zfree() to reduce chances of use after free")
+4efa8e314351 ("perf c2c: Prevent potential memory leak in c2c_he_zalloc()")
+7f834c2e84bb ("perf c2c report: Display node for cacheline address")
+3773138828b3 ("perf c2c report: Make calc_width work with struct c2c_hist_entry")

@@ -1,0 +1,4 @@
+438e69b52be7 ("powerpc/mm/radix: Skip ptesync in pte update helpers")
+ca94573b9c69 ("powerpc/mm/radix: Update pte update sequence for pte clear case")
+d522ae1e49a4 ("powerpc/mm: Batch tlb flush when invalidating pte entries")
+e58d1cf24309 ("powerpc/mm: update radix__pte_update to not do full mm tlb flush")

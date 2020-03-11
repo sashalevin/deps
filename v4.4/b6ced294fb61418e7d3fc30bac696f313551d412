@@ -1,0 +1,8 @@
+b6ced294fb61 ("spi: pxa2xx: Switch to SPI core DMA mapping functionality")
+8c3ad488fe0e ("spi: pxa2xx: Use dummy buffers provided by SPI core")
+68335ec76e45 ("spi: pxa2xx: Remove rx_/tx_map_len members from struct driver_data")
+7d1f1bf699ef ("spi: pxa2xx: handle error of pxa2xx_spi_dma_prepare()")
+590745017ef3 ("spi: pxa2xx: Use newer more explicit DMAengine terminate API")
+7c04b792d30e ("spi: pxa2xx: Remove unused DMA buffer mappings")
+ee03672d961b ("spi: pxa2xx: Print actual DMA/PIO transfer mode in debug messages")
+22a33632fb60 ("spi: pxa2xx: Remove CONFIG_SPI_PXA2XX_DMA")

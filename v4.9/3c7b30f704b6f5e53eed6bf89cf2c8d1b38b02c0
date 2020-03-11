@@ -1,0 +1,5 @@
+3c7b30f704b6 ("pinctrl: bcm2835: Use raw spinlock for RT compatibility")
+0d885e9da176 ("pinctrl: bcm2835: Remove unneeded irq_group field")
+37a2f8e5522a ("pinctrl: bcm2835: Avoid warning from __irq_do_set_handler")
+85ae9e512f43 ("pinctrl: bcm2835: switch to GPIOLIB_IRQCHIP")
+00445b5d5866 ("pinctrl: bcm2835: Fix ints for GPIOs 28-31 & 46-53")

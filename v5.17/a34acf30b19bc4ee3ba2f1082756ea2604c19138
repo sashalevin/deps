@@ -1,0 +1,7 @@
+a34acf30b19b ("mm: vmalloc: check if a hash-index is in cpu_possible_mask")
+062eacf57ad9 ("mm: vmalloc: remove a global vmap_blocks xarray")
+06c8994626d1 ("mm/vmalloc.c: allow vread() to read out vm_map_ram areas")
+d76f99548cf0 ("mm/vmalloc.c: add used_map into vmap_block to track space of vmap_block")
+208162f42f95 ("mm: move vmalloc_init and free_work down in vmalloc.c")
+01e2e8394a52 ("mm: remove __vfree_deferred")
+f41f036b804d ("mm: remove __vfree")

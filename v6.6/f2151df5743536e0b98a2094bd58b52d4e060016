@@ -1,0 +1,4 @@
+f2151df57435 ("erofs: make iov_iter describe target buffers over fscache")
+0f28be64d132 ("erofs: fix lockdep false positives on initializing erofs_pseudo_mnt")
+2c88c16dc20e ("erofs: fix handling kern_mount() failure")
+2b872b0f466d ("erofs: Don't use certain unnecessary folio_*() functions")

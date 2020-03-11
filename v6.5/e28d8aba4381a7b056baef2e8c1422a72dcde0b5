@@ -1,0 +1,7 @@
+e28d8aba4381 ("mlxsw: pci: Handle up to 64 Rx completions in tasklet")
+1df7d871e349 ("mlxsw: pci: Break mlxsw_pci_cq_tasklet() into tasklets per queue type")
+a0639236d420 ("mlxsw: pci: Make style change in mlxsw_pci_cq_tasklet()")
+57beea8e5667 ("mlxsw: pci: Remove unused counters")
+fb29028ae718 ("mlxsw: pci: Do not setup tasklet from operation")
+f46de9f0e70c ("mlxsw: pci: Move mlxsw_pci_cq_{init, fini}()")
+d38718a525a3 ("mlxsw: pci: Move mlxsw_pci_eq_{init, fini}()")

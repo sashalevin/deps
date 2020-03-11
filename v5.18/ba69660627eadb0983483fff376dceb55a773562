@@ -1,0 +1,6 @@
+ba69660627ea ("platform/x86: thinkpad_acpi: Move special original hotkeys handling out of switch-case")
+9e5d6b982c54 ("platform/x86: thinkpad_acpi: Do hkey to scancode translation later")
+d761684afda3 ("platform/x86: thinkpad_acpi: Use tpacpi_input_send_key() in adaptive kbd code")
+32c284b7bc43 ("platform/x86: thinkpad_acpi: Drop ignore_acpi_ev")
+b070f13c978b ("platform/x86: thinkpad_acpi: Drop setting send_/ignore_acpi_ev defaults twice")
+867eb713180c ("platform/x86: thinkpad-acpi: Add support for hotkey 0x131a")

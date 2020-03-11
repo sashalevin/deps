@@ -1,0 +1,5 @@
+a0d8cbd38213 ("srcu: Move ->srcu_size_state from srcu_struct to srcu_usage")
+208f41b13124 ("srcu: Move ->level from srcu_struct to srcu_usage")
+95433f726301 ("srcu: Begin offloading srcu_struct fields to srcu_update")
+f4d01a259374 ("srcu: Use static init for statically allocated in-module srcu_struct")
+3e67cb8a3c62 ("srcu: Add whitespace to __SRCU_STRUCT_INIT() & __DEFINE_SRCU()")

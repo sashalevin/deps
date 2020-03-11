@@ -1,0 +1,8 @@
+b4ceb4a5359e ("iommu: Tidy up Kconfig for SoC IOMMUs")
+4100b8c229b3 ("iommu: Add Allwinner H6 IOMMU driver")
+d1dcb7255c2b ("iommu/mediatek: Fix MTK_IOMMU dependencies")
+e93a1695d7fb ("iommu: Enable compile testing for some of drivers")
+cd221bd24ff5 ("iommu/arm-smmu: Allow building as a module")
+7359572e1a5d ("iommu/arm-smmu: Unregister IOMMU and bus ops on device removal")
+b06c076ea962 ("Revert "iommu/arm-smmu: Make arm-smmu explicitly non-modular"")
+759aaa10c76c ("iommu: arm-smmu-impl: Add sdm845 implementation hook")

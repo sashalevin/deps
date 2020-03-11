@@ -1,0 +1,6 @@
+e716712f83b6 ("__get_user_pages_locked(): get rid of notify_drop argument")
+14cb138d7c1c ("get_user_pages_unlocked(): pass true to __get_user_pages_locked() notify_drop")
+c803c9c6c9e5 ("fold __get_user_pages_unlocked() into its sole remaining caller")
+8b7457ef9a9e ("mm: unexport __get_user_pages_unlocked()")
+5b56d49fc31d ("mm: add locked parameter to get_user_pages_remote()")
+edc5f445a681 ("Merge tag 'vfio-v4.10-rc1' of git://github.com/awilliam/linux-vfio")

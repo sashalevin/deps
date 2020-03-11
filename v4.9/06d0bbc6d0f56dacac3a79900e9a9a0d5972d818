@@ -1,0 +1,8 @@
+06d0bbc6d0f5 ("powerpc/asm: Add a patch_site macro & helpers for patching instructions")
+8183d99f4a22 ("powerpc/lib/feature-fixups: use raw_patch_instruction()")
+8cf4c05712f0 ("powerpc/lib/code-patching: refactor patch_instruction()")
+252eb55816a6 ("powerpc: Fix boot on BOOK3S_32 with CONFIG_STRICT_KERNEL_RWX")
+37bc3e5fd764 ("powerpc/lib/code-patching: Use alternate map for patch_instruction()")
+ebfa50df435e ("powerpc: Add helper to check if offset is within relative branch range")
+7c0f6ba682b9 ("Replace <asm/uaccess.h> with <linux/uaccess.h> globally")
+41e0e24b450f ("Merge branch 'kbuild' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

@@ -1,0 +1,7 @@
+f4b4eee6169b ("bpf: add support for fixed-size memory pointer returns for kfuncs")
+eb1f7f71c126 ("bpf/verifier: allow kfunc to return an allocated mem")
+95f2f26f3cac ("bpf: split btf_check_subprog_arg_match in two")
+fa96b24204af ("btf: Add a new kfunc flag which allows to mark a function to be sleepable")
+63e564ebd1fd ("bpf: Add documentation for kfuncs")
+56e948ffc098 ("bpf: Add support for forcing kfunc args to be trusted")
+a4703e318432 ("bpf: Switch to new kfunc flags infrastructure")

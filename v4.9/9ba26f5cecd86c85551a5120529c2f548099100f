@@ -1,0 +1,5 @@
+9ba26f5cecd8 ("ARM: sa1100/assabet: move dmabounce hack to ohci driver")
+94b9a70d32db ("usb/hcd: Fix a NULL vs IS_ERR() bug in usb_hcd_setup_local_mem()")
+b0310c2f09bb ("USB: use genalloc for USB HCs with local memory")
+78655197eb09 ("usb: ohci-sa1111: use sa1111_get_irq() to obtain IRQ resources")
+8694f59c3b13 ("USB: OHCI: use dma_pool_zalloc")

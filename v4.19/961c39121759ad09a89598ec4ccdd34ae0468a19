@@ -1,0 +1,8 @@
+961c39121759 ("perf: Always wake the parent event")
+a4faf00d994c ("perf/aux: Allow using AUX data in perf samples")
+8c7e975667fb ("perf/core: Start rejecting the syscall with attr.__reserved_2 set")
+ab43762ef010 ("perf: Allow normal events to output AUX data")
+ca3bb3d027f6 ("perf/ring_buffer: Convert ring_buffer.aux_refcount to refcount_t")
+6ee52e2a3fe4 ("perf, bpf: Introduce PERF_RECORD_BPF_EVENT")
+76193a94522f ("perf, bpf: Introduce PERF_RECORD_KSYMBOL")
+cc6795aeffea ("perf/core: Add PERF_PMU_CAP_NO_EXCLUDE for exclusion incapable PMUs")

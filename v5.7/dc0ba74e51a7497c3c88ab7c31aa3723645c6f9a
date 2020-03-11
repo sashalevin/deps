@@ -1,0 +1,4 @@
+dc0ba74e51a7 ("backlight: lm3630a: Use backlight_get_brightness helper in update_status")
+ae9c48087f50 ("backlight: lm3630a: Turn off both led strings when display is blank")
+1181f2164135 ("backlight: lm3630a: Convert to atomic PWM API and check for errors")
+b9481a667a90 ("backlight: lm3630a: Fix return code of .update_status() callback")

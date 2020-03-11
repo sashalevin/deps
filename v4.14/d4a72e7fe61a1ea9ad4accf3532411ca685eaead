@@ -1,0 +1,8 @@
+d4a72e7fe61a ("x86/mm/pae: Get rid of set_64bit()")
+b7301f20105a ("x86/mm/pae: Be consistent with pXXp_get_and_clear()")
+7a9b8bdb6af3 ("x86/mm/pae: Don't (ab)use atomic64")
+fbfdec9989e6 ("x86/mm/pae: Make pmd_t similar to pte_t")
+b2d7a075a1cc ("x86/pae: use 64 bit atomic xchg function in native_ptep_get_and_clear")
+9b7b8bbd7f6b ("x86/mm/pae: Populate the user page-table with user pgd's")
+86fa949b0501 ("x86/mm: provide pmdp_establish() helper")
+1501899a898d ("mm: fix device-dax pud write-faults triggered by get_user_pages()")

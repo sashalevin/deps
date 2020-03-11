@@ -1,0 +1,8 @@
+861370f49ce4 ("iommu/dma: force bouncing if the size is not cacheline-aligned")
+af2880ec4402 ("scatterlist: add dedicated config for DMA flags")
+42399301203e ("lib/scatterlist: add flag for indicating P2PDMA segments in an SGL")
+2e727bffbe93 ("iommu/dma: Check CONFIG_SWIOTLB more broadly")
+9b49bbc2c4df ("iommu/dma: Fold _swiotlb helpers into callers")
+ee9d4097cc14 ("iommu/dma: Skip extra sync during unmap w/swiotlb")
+06e620345d54 ("iommu/dma: Fix arch_sync_dma for map")
+08ae5d4a1ae9 ("iommu/dma: Fix sync_sg with swiotlb")

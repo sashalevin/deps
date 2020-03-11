@@ -1,0 +1,8 @@
+608008a45798 ("x86/tsc: Consolidate init code")
+4763f03d3d18 ("x86/tsc: Use TSC as sched clock early")
+e2a9ca29b5ed ("x86/tsc: Initialize cyc2ns when tsc frequency is determined")
+cf7a63ef4e02 ("x86/tsc: Calibrate tsc only once")
+fe9af81e524e ("x86/tsc: Redefine notsc to behave as tsc=unstable")
+368a540e0232 ("x86/kvmclock: Remove memblock dependency")
+4b5b2127238e ("x86/tsc: Print tsc_khz, when it differs from cpu_khz")
+99306dfc067e ("Merge branch 'x86-timers-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

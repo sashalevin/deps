@@ -1,0 +1,7 @@
+79365026f869 ("crash: add a new kexec flag for hotplug support")
+02aff8480533 ("crash: split crash dumping code out from kexec_core.c")
+443cbaf9e2fd ("crash: split vmcoreinfo exporting code out from crash_core.c")
+85fcde402db1 ("kexec: split crashkernel reservation code out from crash_core.c")
+55c49fee57af ("mm/vmalloc: remove vmap_area_list")
+d093602919ad ("mm: vmalloc: remove global vmap_area_root rb-tree")
+7fa8cee00316 ("mm: vmalloc: move vmap_init_free_space() down in vmalloc.c")

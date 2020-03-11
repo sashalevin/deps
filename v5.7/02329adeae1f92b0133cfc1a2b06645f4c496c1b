@@ -1,0 +1,7 @@
+02329adeae1f ("usb: dwc2: platform: add support for utmi optional clock")
+236d835302bd ("usb: dwc2: improve error handling in __dwc2_lowlevel_hw_enable")
+f747313249b7 ("usb: dwc2: fix a devres leak in hw_enable upon suspend resume")
+f9b995b49a07 ("usb: dwc2: fix wrong order of phy_power_on and phy_init")
+54c196060510 ("usb: dwc2: Always disable regulators on driver teardown")
+33a06f1300a7 ("usb: dwc2: Fix error path in gadget registration")
+207324a321a8 ("usb: dwc2: Postponed gadget registration to the udc class driver")

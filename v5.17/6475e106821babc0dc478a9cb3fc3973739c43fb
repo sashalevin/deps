@@ -1,0 +1,6 @@
+6475e106821b ("drm/i915: Don't skip ddb allocation if data_rate==0")
+04d4e167522f ("drm/i915: Extract skl_allocate_plane_ddb()")
+63b81e606320 ("drm/i915: Introduce skl_plane_ddb_iter")
+8a84e7a176c0 ("drm/i915: Extract skl_ddb_entry_init()")
+12d7d858e63d ("drm/i915: Use REG_BIT() & co. for universal plane bits")
+71b59439aa03 ("drm/i915: Sipmplify PLANE_STRIDE masking")

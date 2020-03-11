@@ -1,0 +1,6 @@
+2b76129c5ae7 ("accel/habanalabs: move cpucp interface to linux/habanalabs")
+cc7b790d4124 ("accel/habanalabs: do soft-reset using cpucp packet")
+077a39fabefa ("accel/habanalabs: in hw_fini return error code if polling timed-out")
+336b78c655c8 ("accel/habanalabs: align to latest firmware specs")
+801507d3b314 ("accel/habanalabs: move soft-reset wait to soft-reset execute")
+5e09ae9203b7 ("accel/habanalabs: change hw_fini to return int to indicate error")

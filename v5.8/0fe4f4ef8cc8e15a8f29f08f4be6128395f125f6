@@ -1,0 +1,7 @@
+0fe4f4ef8cc8 ("x86: Bump ZO_z_extra_bytes margin for zstd")
+5746f0555d00 ("x86/boot: Provide more slack space during decompression")
+d607251ba9ac ("x86/boot: Calculate decompression size during boot not build")
+974f221c84b0 ("x86/boot: Move compressed kernel to the end of the decompression buffer")
+4252db10559f ("x86/KASLR: Update description for decompressor worst case size")
+c04028813221 ("x86/boot: Clarify purpose of functions in misc.c")
+21cdb6b56843 ("x86/mm: Page align the '_end' symbol to avoid pfn conversion bugs")

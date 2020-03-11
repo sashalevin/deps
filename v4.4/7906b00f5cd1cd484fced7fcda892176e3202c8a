@@ -1,0 +1,5 @@
+7906b00f5cd1 ("sctp: fix missing wake ups in some situations")
+0970f5b36659 ("sctp: signal sk_data_ready earlier on data chunks reception")
+fb586f25300f ("sctp: delay calls to sk_data_ready() as much as possible")
+250eb1f88153 ("sctp: compress bit-wide flags to a bitfield on sctp_sock")
+cea8768f333e ("sctp: allow sctp_transmit_packet and others to use gfp")

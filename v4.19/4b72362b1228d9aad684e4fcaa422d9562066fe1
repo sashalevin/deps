@@ -1,0 +1,8 @@
+4b72362b1228 ("ALSA: info: Use guard() for locking")
+c7a606519533 ("ALSA: info: Fix potential deadlock at disconnection")
+9be080edcca3 ("ALSA: info: Fix llseek return value when using callback")
+8c2f870890fd ("ALSA: info: Fix racy addition/deletion of nodes")
+a858ee6655ca ("ALSA: info: Minor optimization")
+9725752867cb ("ALSA: info: Drop unused snd_info_entry.card field")
+348c5ad5d69c ("ALSA: info: Always register entries recursively")
+3a55437141a1 ("ALSA: proc: Avoid possible leaks of snd_info_entry objects")

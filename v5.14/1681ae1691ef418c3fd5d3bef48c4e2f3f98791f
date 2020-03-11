@@ -1,0 +1,7 @@
+1681ae1691ef ("net: dsa: sja1105: serialize access to the dynamic config interface")
+643979cf5ec4 ("net: dsa: sja1105: wait for dynamic config command completion on writes too")
+d7b1fd520d5d ("net: dsa: let the core manage the tag_8021q context")
+cedf467064b6 ("net: dsa: tag_8021q: create dsa_tag_8021q_{register,unregister} helpers")
+69ebb3706471 ("net: dsa: tag_8021q: use symbolic error names")
+a81a45744ba5 ("net: dsa: tag_8021q: use "err" consistently instead of "rc"")
+0fac6aa098ed ("net: dsa: sja1105: delete the best_effort_vlan_filtering mode")

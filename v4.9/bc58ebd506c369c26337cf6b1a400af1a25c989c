@@ -1,0 +1,5 @@
+bc58ebd506c3 ("hv_balloon: don't check for memhp_auto_online manually")
+221f6df008ab ("hv_balloon: Reorganize the probe function")
+1fed17df7e50 ("hv_balloon: Use a static page for the balloon_up send buffer")
+c548f3957efa ("Drivers: hv: balloon: Initialize last_post_time on startup")
+8ba8c0a11108 ("Drivers: hv: balloon: Disable hot add when CONFIG_MEMORY_HOTPLUG is not set")

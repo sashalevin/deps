@@ -1,0 +1,6 @@
+7f28af9cf542 ("cifs: fix potential use-after-free bugs")
+0e62904836ec ("smb3: remove trivial dfs compile warning")
+c88f7dcd6d64 ("cifs: support nested dfs links over reconnect")
+bbcce3680445 ("cifs: split out dfs code from cifs_reconnect()")
+43b459aa5e22 ("cifs: introduce new helper for cifs_reconnect()")
+7be3248f3139 ("cifs: To match file servers, make sure the server hostname matches")

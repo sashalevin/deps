@@ -1,0 +1,4 @@
+32330c833442 ("mxser: switch from xmit_buf to kfifo")
+5c338fbf21eb ("mxser: remove pointless xmit_buf checks")
+3b88dbff1c4e ("mxser: clean up tx handling in mxser_transmit_chars()")
+274ab58dc2b4 ("mxser: keep only !tty test in ISR")

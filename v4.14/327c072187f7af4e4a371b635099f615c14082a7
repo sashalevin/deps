@@ -1,0 +1,5 @@
+327c072187f7 ("KVM: nVMX: Flush linear and combined mappings on VPID02 related flushes")
+3d5bdae8b164 ("KVM: nVMX: Use correct VPID02 when emulating L1 INVVPID")
+cd9a491f6ef7 ("KVM: nVMX: Emulate L1 individual-address invvpid by L0 individual-address invvpid")
+6bce30c7d927 ("KVM: nVMX: Use vmx local var for referencing vpid02")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")

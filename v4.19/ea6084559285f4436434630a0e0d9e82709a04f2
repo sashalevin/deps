@@ -1,0 +1,6 @@
+ea6084559285 ("hwrng: imx-rngc - use dev_err_probe")
+10a2199caf43 ("hwrng: imx-rngc - Moving IRQ handler registering after imx_rngc_irq_mask_clear()")
+d5eb916d889f ("hwrng: imx-rngc - use devres for hwrng registration")
+6a2bc448423c ("hwrng: imx-rngc - use devm_clk_get_enabled")
+b9957fc94458 ("hwrng: imx-rngc - check the rng type")
+f7d79450d192 ("hwrng: imx-rngc - (trivial) simplify error prints")

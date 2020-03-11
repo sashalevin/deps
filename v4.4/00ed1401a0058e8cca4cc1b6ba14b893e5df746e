@@ -1,0 +1,7 @@
+00ed1401a005 ("platform-msi: Add ABI to show msi_irqs of platform devices")
+4a60406d3592 ("driver core: platform: expose numa_node to users in sysfs")
+552c494a7666 ("platform-msi: Allow creation of a MSI-based stacked irq domain")
+2145ac9310b6 ("genirq/msi: Add msi_domain_populate_irqs")
+b2eba39bcab9 ("genirq/msi: Make the .prepare callback reusable")
+72f57f2f430f ("platform-msi: Factor out allocation/free of private data")
+ab6484ee84c1 ("platform-msi: Allow MSIs to be allocated in chunks")

@@ -1,0 +1,6 @@
+294bbd1f2697 ("drm/panic: Add support for drawing a monochrome graphical logo")
+a40d031d7b64 ("drm/panic: Rename logo to logo_ascii")
+94ff11d3bd32 ("drm/panic: Fix off-by-one logo size checks")
+54034bebb22f ("drm/panic: Add a kmsg panic screen")
+24d07f114e4e ("drm/panic: Add a set_pixel() callback to drm_scanout_buffer")
+eef5a55af317 ("drm/panic: only draw the foreground color in drm_panic_blit()")

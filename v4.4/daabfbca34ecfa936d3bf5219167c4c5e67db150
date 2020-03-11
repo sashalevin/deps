@@ -1,0 +1,8 @@
+daabfbca34ec ("vsock: add 'struct vsock_sock *' param to vsock_core_get_transport()")
+fe502c4a38d9 ("vsock: add 'transport' member in the struct vsock_sock")
+db205c766862 ("vsock: remove vm_sockets_get_local_cid()")
+0d9138ffac24 ("vsock: Fix a lockdep warning in __vsock_release()")
+473c7391ce73 ("vsock/virtio: limit the memory used per-socket")
+a9eeb998c28d ("hv_sock: Add support for delayed close")
+c9d3fe9da094 ("VSOCK: fix outdated sk_state value in hvs_release()")
+f8ddadc4db6c ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

@@ -1,0 +1,8 @@
+9dbb8e3452ab ("irqdomain: Switch to per-domain locking")
+47d1932f37de ("irqdomain: Drop revmap mutex")
+601363cc08da ("irqdomain: Fix mapping-creation race")
+d55f7f4c58c0 ("irqdomain: Refactor __irq_domain_alloc_irqs()")
+6e6f75c9c98d ("irqdomain: Look for existing mapping only once")
+e3b7ab025e93 ("irqdomain: Drop bogus fwspec-mapping error handling")
+3f883c38f562 ("irqdomain: Fix disassociation race")
+b06730a571a9 ("irqdomain: Fix association race")

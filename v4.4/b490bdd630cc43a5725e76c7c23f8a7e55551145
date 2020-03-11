@@ -1,0 +1,5 @@
+b490bdd630cc ("udf: Fix 64-bit sign extension issues affecting blocks > 0x7FFFFFFF")
+3cc6f8444a9d ("udf: use pointer for kernel_long_ad argument")
+066b9cded00b ("udf: Use separate buffer for copying split names")
+fcea62babc81 ("udf: Factor out code for creating indirect extent")
+b0918d9f476a ("udf: limit the maximum number of indirect extents in a row")

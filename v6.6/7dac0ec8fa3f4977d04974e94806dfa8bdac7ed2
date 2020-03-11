@@ -1,0 +1,4 @@
+7dac0ec8fa3f ("hugetlb: pass struct vm_fault through to hugetlb_handle_userfault()")
+0ca22723e3ff ("hugetlb: move vm_fault declaration to the top of hugetlb_fault()")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")
+a08c7193e4f1 ("mm/filemap: remove hugetlb special casing in filemap.c")

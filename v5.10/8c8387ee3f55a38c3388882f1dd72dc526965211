@@ -1,0 +1,6 @@
+8c8387ee3f55 ("mm: stop filemap_read() from grabbing a superfluous page")
+ff993ba13000 ("mm/filemap: convert filemap_get_pages to take a pagevec")
+0c7c575df56b ("mm/filemap: remove dynamically allocated array from filemap_read")
+3a6bae48390d ("mm/filemap: rename generic_file_buffered_read subfunctions")
+06c0444290ce ("mm/filemap.c: generic_file_buffered_read() now uses find_get_pages_contig")
+723ef24b9b37 ("mm/filemap/c: break generic_file_buffered_read up into multiple functions")

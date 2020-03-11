@@ -1,0 +1,7 @@
+a90f55916f15 ("net/mlx5e: XDP, Exclude headroom and tailroom from memory calculations")
+20409abe52b1 ("net/mlx5e: XDP, Consider large muti-buffer packets in Striding RQ params calculations")
+411295fbe6f4 ("net/mlx5e: xsk: Fix SKB headroom calculation in validation")
+8c654a1bb686 ("net/mlx5e: xsk: Remove dead code in validation")
+ddbef3656072 ("net/mlx5e: Simplify stride size calculation for linear RQ")
+eaee12f04692 ("net/mlx5e: Rename TIR lro functions to TIR packet merge functions")
+50f477fe9933 ("net/mlx5e: Rename lro_timeout to packet_merge_timeout")

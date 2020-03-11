@@ -1,0 +1,8 @@
+3a4f32646311 ("i2c: sprd: fix reference leak when pm_runtime_get_sync fails")
+5a7b81ff1b3e ("i2c: sprd: use core helper to mark adapter suspended")
+7b6b69984e04 ("i2c: sprd: don't use pdev as variable name for struct device *")
+3f3a89e1d7c3 ("i2c: remove i2c_lock_adapter and use i2c_lock_bus directly")
+da33aa03fa34 ("i2c: sprd: Prevent i2c accesses after suspend is called")
+19cfcafd7f0f ("i2c: davinci: fix the cpufreq transition")
+14911c6f48ec ("i2c: gpio: add fault injector")
+17f88151ff19 ("i2c: davinci: Add PM Runtime Support")

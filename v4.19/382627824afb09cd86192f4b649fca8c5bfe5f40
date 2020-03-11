@@ -1,0 +1,6 @@
+382627824afb ("mm: slab: Delete unused SLAB_DEACTIVATED flag")
+fcf8a1e48349 ("mm, memcg: add a memcg_slabinfo debugfs file")
+434866947564 ("mm: memcg/slab: generalize postponed non-root kmem_cache deactivation")
+0b14e8aa6822 ("mm: memcg/slab: rename slab delayed deactivation functions and fields")
+c03914b7aa31 ("mm: memcg/slab: postpone kmem_cache memcg pointer initialization to memcg_link_cache()")
+6564a25e6c18 ("slab: Replace synchronize_sched() with synchronize_rcu()")

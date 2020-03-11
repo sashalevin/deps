@@ -1,0 +1,4 @@
+00ed1eabcc3b ("x86/espfix: Use get_random_long() rather than archrandom")
+d349ab99eec7 ("random: handle archrandom with multiple longs")
+0b9ba6135d7f ("um: seed rng using host OS rng")
+9592eef7c16e ("random: remove CONFIG_ARCH_RANDOM")

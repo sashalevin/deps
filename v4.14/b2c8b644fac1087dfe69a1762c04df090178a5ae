@@ -1,0 +1,6 @@
+b2c8b644fac1 ("virtio_pci: Switch away from deprecated irq_set_affinity_hint")
+19e226e8cc5d ("virtio: Make vp_set_vq_affinity() take a mask.")
+4d99f6602cb5 ("net: allow to call netif_reset_xps_queues() under cpus_read_lock")
+8af2c06ff4b1 ("net-sysfs: Add interface for Rx queue(s) map per Tx queue")
+04157469b7b8 ("net: Use static_key for XPS maps")
+80d19669ecd3 ("net: Refactor XPS for CPUs and Rx queues")

@@ -1,0 +1,6 @@
+3fac3734c43a ("xen/pv: support selecting safe/unsafe msr accesses")
+079c4baa2aad ("xen/x86: hook up xen_banner() also for PVH")
+4d1ab432acc9 ("xen/x86: generalize preferred console model from PV to PVH Dom0")
+8e24d9bfc44d ("xen/x86: allow "earlyprintk=xen" to work for PV Dom0")
+cae7d81a3730 ("xen/x86: allow PVH Dom0 without XEN_PV=y")
+2526cff7c4f9 ("xen: assume XENFEAT_mmu_pt_update_preserve_ad being set for pv guests")

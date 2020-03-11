@@ -1,0 +1,8 @@
+abc7285d89ff ("mptcp: drop unused rcu member in mptcp_pm_addr_entry")
+daa83ab03954 ("mptcp: move flags and ifindex out of mptcp_addr_info")
+1729cf186d8a ("mptcp: create the listening socket for new port")
+72603d207d59 ("mptcp: use WRITE_ONCE for the pernet *_max")
+50a13bc3945c ("mptcp: support MPJoin with IPv4 mapped in v6 sk")
+866f26f2a9c3 ("mptcp: always graft subflow socket to parent")
+0f9f696a502e ("mptcp: add set_flags command in PM netlink")
+efd5a4c04e18 ("mptcp: add the address ID assignment bitmap")

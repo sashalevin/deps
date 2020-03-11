@@ -1,0 +1,5 @@
+116b1c5a364b ("video/aperture: Provide a VGA helper for gma500 and internal use")
+f1d599d315fb ("video/aperture: Move vga handling to pci function")
+7450cd235b45 ("video/aperture: Only kick vgacon when the pdev is decoding vga")
+62aeaeaa1b26 ("drm/aperture: Remove primary argument")
+80e993988b97 ("drm/gma500: Use drm_aperture_remove_conflicting_pci_framebuffers")

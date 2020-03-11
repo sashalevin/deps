@@ -1,0 +1,8 @@
+ddd535f1ea3e ("PCI: rcar: Fix memory leak when no PCIe card is inserted")
+3c60e01a1246 ("PCI: rcar: Fix error exit path")
+90634e854079 ("PCI: rcar: Convert PCI scan API to pci_scan_root_bus_bridge()")
+4ef80d72a6f1 ("PCI: rcar: Add local struct device pointers")
+b3327f7fae66 ("PCI: rcar: Try increasing PCIe link speed to 5 GT/s at boot")
+f7bc63802d53 ("PCI: rcar: Fix some checkpatch warnings")
+51afa3cc2ded ("PCI: rcar: Consolidate register space lookup and ioremap")
+c111e8bf6edf ("Merge branches 'pci/host', 'pci/host-designware', 'pci/host-hisi', 'pci/host-qcom' and 'pci/host-rcar' into next")

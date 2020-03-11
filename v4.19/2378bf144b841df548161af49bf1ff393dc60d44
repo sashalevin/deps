@@ -1,0 +1,5 @@
+2378bf144b84 ("powerpc/powermac/udbg_scc: Add missing of_node_put()s in udbg_scc_init()")
+b6ac59d39a34 ("powerpc: use for_each_child_of_node() macro")
+2c8e65b595cf ("powerpc: Use of_node_name_eq for node name comparisons")
+e5480bdcc442 ("powerpc: Use device_type helpers to access the node type")
+b9ef7b4b867f ("powerpc: Convert to using %pOFn instead of device_node.name")

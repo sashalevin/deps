@@ -1,0 +1,6 @@
+14775b049642 ("dyndbg: accept query terms like file=bar and module=foo")
+aaebe329bff0 ("dyndbg: accept 'file foo.c:func1' and 'file foo.c:10-100'")
+8037072d8139 ("dyndbg: refactor parse_linerange out of ddebug_parse_query")
+9c9d0acbe279 ("dyndbg: prefer declarative init in caller, to memset in callee")
+e20e310c8195 ("dyndbg-docs: eschew file /full/path query in docs")
+1f3c790bd598 ("dynamic-debug-howto: fix optional/omitted ending line number to be LARGE instead of 0")

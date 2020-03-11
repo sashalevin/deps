@@ -1,0 +1,6 @@
+5dc21f0c0b1c ("mm/shmem: ensure proper fallback if page faults")
+7a7256d5f512 ("shmem: convert shmem_mfill_atomic_pte() to use a folio")
+b7dd44a12cf2 ("mm/shmem: convert shmem_add_to_page_cache to take a folio")
+8ee79edff6d3 ("mm/shmem: take care of UFFDIO_COPY_MODE_WP")
+0e88904cb700 ("userfaultfd: mark uffd_wp regardless of VM_WRITE flag")
+19b482c29b6f ("mm: shmem: fix missing cache flush in shmem_mfill_atomic_pte()")

@@ -1,0 +1,7 @@
+eab30c4d20dc ("io_uring: deduplicate failing task_work_add")
+355fb9e2b78e ("io_uring: remove 'twa_signal_ok' deadlock work-around")
+91989c707884 ("task_work: cleanup notification modes")
+216578e55ac9 ("io_uring: fix REQ_F_COMP_LOCKED by killing it")
+4edf20f99902 ("io_uring: dig out COMP_LOCK from deep call chain")
+b1b74cfc1967 ("io_uring: don't unnecessarily clear F_LINK_TIMEOUT")
+6ad4bf6ea160 ("Merge tag 'io_uring-5.10-2020-10-12' of git://git.kernel.dk/linux-block")

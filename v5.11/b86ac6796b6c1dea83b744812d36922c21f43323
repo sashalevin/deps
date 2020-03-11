@@ -1,0 +1,8 @@
+b86ac6796b6c ("perf tools: Use pmu info in evsel__is_hybrid()")
+660e533e87ff ("perf stat: Warn group events from different hybrid PMU")
+b53a0755d5c2 ("perf record: Create two hybrid 'cycles' events by default")
+034f7ee130c1 ("perf stat: Fix wrong skipping for per-die aggregation")
+142544a938f4 ("perf tools: Add 'evlist' control command")
+991ae4eb3691 ("perf tools: Allow to enable/disable events via control file")
+fa853c4b839e ("perf stat: Enable counting events for BPF programs")
+fbcdaa1908e8 ("perf build: Support build BPF skeletons with perf")

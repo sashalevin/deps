@@ -1,0 +1,8 @@
+86205785443b ("PM: sleep: Call dpm_async_fn() directly in each suspend phase")
+96db0f947a14 ("PM: sleep: Move devices to new lists earlier in each suspend phase")
+ac6f87aaa26f ("PM: sleep: stats: Log errors right after running suspend callbacks")
+73d73f5ee7fb ("PM: core: Remove unnecessary (void *) conversions")
+2aa36604e824 ("PM: sleep: Avoid calling put_device() under dpm_list_mtx")
+eb23d91af55b ("PM: sleep: Use dev_printk() when possible")
+30205377ddbb ("PM: sleep: core: Fold functions into their callers")
+107d47b2b95e ("PM: sleep: core: Simplify the SMART_SUSPEND flag handling")

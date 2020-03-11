@@ -1,0 +1,3 @@
+d788e5163646 ("cifs: release cached dentries only if mount is complete")
+9a14b65d5901 ("cifs: we do not need a spinlock around the tree access during umount")
+47178c7722ac ("cifs: fix handlecache and multiuser")

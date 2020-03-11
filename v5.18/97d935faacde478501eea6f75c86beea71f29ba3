@@ -1,0 +1,5 @@
+97d935faacde ("arm64: Unmask Debug + SError in do_notify_resume()")
+997d79eb938e ("arm64: Move do_notify_resume() to entry-common.c")
+270de609ae2a ("arm64: Simplify do_notify_resume() DAIF masking")
+ab1e29acdb33 ("arm64: lockdep: enable checks for held locks when returning to userspace")
+8d56e5c5a99c ("arm64: Treat ESR_ELx as a 64-bit register")

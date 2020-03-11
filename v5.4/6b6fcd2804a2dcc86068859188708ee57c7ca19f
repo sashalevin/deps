@@ -1,0 +1,6 @@
+6b6fcd2804a2 ("kvm: x86: abstract locking around pvclock_update_vm_gtod_copy")
+77fcbe823f00 ("KVM: x86: Prevent 'hv_clock->system_time' from going negative in kvm_guest_time_update()")
+a83829f56c7c ("KVM: x86: disable interrupts while pvclock_gtod_sync_lock is taken")
+c2c647f91aec ("KVM: x86: reduce pvclock_gtod_sync_lock critical sections")
+e880c6ea55b9 ("KVM: x86: hyper-v: Prevent using not-yet-updated TSC page by secondary CPUs")
+8171cd68806b ("KVM: x86: use raw clock values consistently")

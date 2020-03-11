@@ -1,0 +1,7 @@
+48b5583719cd ("sched/headers: Rename task_struct::state to task_struct::__state in the comments too")
+9963e444f71e ("sched: Widen TAKS_state literals")
+cd781d0ce8cb ("sched/wakeup: Introduce the TASK_RTLOCK_WAIT state bit")
+58877d347b58 ("sched: Better document ttwu()")
+dbfb089d360b ("sched: Fix loadavg accounting race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

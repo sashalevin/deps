@@ -1,0 +1,4 @@
+387048f51aec ("x86/mm/tlb: Make clear_asid_other() static")
+2ea907c4fe7b ("x86/mm: Allow flushing for future ASID switches")
+3f67af51e56f ("x86/mm: Add comments to clarify which TLB-flush functions are supposed to flush what")
+23cb7d46f371 ("x86/microcode: Dont abuse the TLB-flush interface")

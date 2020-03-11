@@ -1,0 +1,7 @@
+349112b6769e ("spi: dw-mmio: Use helper function devm_clk_get_*()")
+7830c0ef26cb ("spi: dw: add reset control")
+b9fc2d207e54 ("spi: dw: Move runtime PM enable/disable from common to platform driver part")
+3da9834d9381 ("spi: dw-mmio: Clock should be shut when error occurs")
+560ee7e91009 ("spi: dw: Add support for an optional interface clock")
+c2c25cc39702 ("spi: dw-mmio: add MSCC Ocelot support")
+400c18e3dc86 ("spi: dw: Disable clock after unregistering the host")

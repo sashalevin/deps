@@ -1,0 +1,5 @@
+25d4054cc974 ("mm: make arch_get_unmapped_area() take vm_flags by default")
+c5ecd8eb8ca2 ("x86/mm: implement HAVE_ARCH_UNMAPPED_AREA_VMFLAGS")
+961148704acd ("mm: introduce arch_get_unmapped_area_vmflags()")
+529ce23a764f ("mm: switch mm->get_unmapped_area() to a flag")
+5def1e0f476d ("proc: refactor pde_get_unmapped_area as prep")

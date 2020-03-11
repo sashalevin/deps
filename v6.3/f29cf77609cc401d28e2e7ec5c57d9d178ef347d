@@ -1,0 +1,4 @@
+f29cf77609cc ("xtensa: add load/store exception handler")
+651d4aff6892 ("xtensa: rearrange unaligned exception handler")
+3522bcfe1ecd ("xtensa: always install slow handler for unaligned access exception")
+67e886229e27 ("xtensa: move early_trap_init from kasan_early_init to init_arch")

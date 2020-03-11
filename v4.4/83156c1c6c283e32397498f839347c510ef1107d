@@ -1,0 +1,8 @@
+83156c1c6c28 ("mtd: nand: brcmnand: Add support for flash-dma v0")
+0c06da5788be ("mtd: rawnand: brcmnand: Add support for v7.3 controller")
+9d2ee0a60b8b ("mtd: nand: brcmnand: Check flash #WP pin status before nand erase/program")
+422485da15e7 ("mtd: nand: brcmnand: Change BUG_ON in brcmnand_send_cmd")
+decba6d47869 ("mtd: brcmnand: Add v7.2 controller support")
+ef5eeea6e911 ("mtd: nand: brcm: switch to mtd_ooblayout_ops")
+f5b8aa78ef08 ("mtd: kill the ecclayout->oobavail field")
+d267aefc54a2 ("mtd: brcmnand: Fix v7.1 register offsets")

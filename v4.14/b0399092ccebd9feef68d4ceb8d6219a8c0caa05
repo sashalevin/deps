@@ -1,0 +1,4 @@
+b0399092cceb ("kprobes: fix kill kprobe which has been marked as gone")
+7e6a71d8e601 ("kprobes: Use non RCU traversal APIs on kprobe_tables if possible")
+297f9233b53a ("kprobes: Propagate error from disarm_kprobe_ftrace()")
+12310e343755 ("kprobes: Propagate error from arm_kprobe_ftrace()")

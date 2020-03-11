@@ -1,0 +1,8 @@
+2eef1399a866 ("modules: fix BUG when load module with rodata=n")
+f2c65fb3221a ("x86/modules: Avoid breaking W^X while loading modules")
+6fffacb30349 ("x86/alternatives, jumplabel: Use text_poke_early() before mm_init()")
+85782e037f8a ("bpf: undo prog rejection on read-only lock failure")
+9262478220ea ("bpf: enforce correct alignment for instructions")
+9facc336876f ("bpf: reject any prog that failed read-only lock")
+fa9dd599b4da ("bpf: get rid of pure_initcall dependency to enable jits")
+19d28fbd306e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

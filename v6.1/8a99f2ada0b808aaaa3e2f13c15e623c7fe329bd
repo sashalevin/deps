@@ -1,0 +1,8 @@
+8a99f2ada0b8 ("can: esd_usb: Use consistent prefix ESD_USB_ for macros")
+9dc3a695da58 ("can: esd_usb: Use consistent prefixes for macros")
+5a4dd8796d77 ("can: esd_usb: Replace initializer macros used for struct can_bittiming_const")
+1ad549cf980c ("can: esd_usb: Make use of existing kernel macros")
+a57915aee315 ("can: esd_usb: Improve code readability by means of replacing struct esd_usb_msg with a union")
+07c3f9224713 ("can: esd_usb: Improve readability on decoding ESD_EV_CAN_ERROR_EXT messages")
+9684b000a862 ("can: esd_usb: Make use of can_change_state() and relocate checking skb for NULL")
+118469f88180 ("can: esd_usb: Move mislocated storage of SJA1000_ECC_SEG bits in case of a bus error")

@@ -1,0 +1,6 @@
+d70e2ecbc726 ("instrumented.h: Fix all kernel-doc format warnings")
+888f84a6da4d ("x86: asm: instrument usercopy in get_user() and put_user()")
+33b75c1d884e ("instrumented.h: allow instrumenting both sides of copy_from_user()")
+432b1cc78e98 ("s390/uaccess: Add copy_from/to_user_key functions")
+012a224e1fa3 ("s390/uaccess: introduce bit field for OAC specifier")
+a7a08b275a8b ("arch: remove compat_alloc_user_space")

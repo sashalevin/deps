@@ -1,0 +1,4 @@
+3b7995a98ad7 ("block: fix memleak when __blk_rq_map_user_iov() is failed")
+a0ac402cfcdc ("Don't feed anything but regular iovec's to blk_rq_map_user_iov")
+357f435d8a0d ("fix the copy vs. map logics in blk_rq_map_user_iov()")
+4d6af73d9e43 ("block: support large requests in blk_rq_map_user_iov")

@@ -1,0 +1,8 @@
+984318aaf7b6 ("drm/i915/panelreplay: Move out psr_init_dpcd() from init_connector()")
+7389829f212d ("drm/i915/dp: Store DSC DPCD capabilities in the connector")
+90780a633cec ("drm/i915/dp: Sanitize DPCD revision check in intel_dp_get_dsc_sink_cap()")
+84fd19644aef ("drm/i915/dp: Populate connector->ddc")
+25fa6b0f69ac ("drm/i915/edid: convert DP, HDMI and LVDS to drm_edid")
+3f9ffce5765d ("drm/i915: Do panel VBT init early if the VBT declares an explicit panel type")
+f70f8153e364 ("drm/i915: Introduce intel_panel_init_alloc()")
+8f5c2f6eda4f ("drm/i915/dsc: Refactor dsc gen checks")

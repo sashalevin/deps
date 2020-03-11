@@ -1,0 +1,5 @@
+cbc2bd98db85 ("swap: avoid holding swap reference in swap_cache_get_folio")
+5739a81cf89f ("shmem: eliminate struct page from shmem_swapin_folio()")
+c9edc242811d ("swap: add swap_cache_get_folio()")
+1baec203b77c ("mm/khugepaged: try to free transhuge swapcache when possible")
+442701e7058b ("mm/swap: remove swap_cache_info statistics")

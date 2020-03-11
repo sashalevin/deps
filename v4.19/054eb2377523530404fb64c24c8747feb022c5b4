@@ -1,0 +1,7 @@
+054eb2377523 ("power: reset: at91-sama5d2_shdwc: Convert to platform remove callback returning void")
+dde74a5de817 ("power: reset: at91-sama5d2_shdwc: Stop using module_platform_driver_probe()")
+b0ac8596edc8 ("power: reset: at91-poweroff: lookup for proper PMC DT node")
+6764aca14fc8 ("power: reset: at91-poweroff: make sclk part of struct shdwc")
+9be74f0d39c1 ("power: reset: at91-poweroff: make mpddrc_base part of struct shdwc")
+4e018c1e9b05 ("power: reset: at91-poweroff: use only one poweroff function")
+9f7195da31fb ("power: reset: at91-poweroff: switch to slow clock before shutdown")

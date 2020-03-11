@@ -1,0 +1,6 @@
+dec90f61f125 ("vfs: Convert functionfs to use the new mount API")
+addfc5823dbf ("usb: gadget: ffs: handle I/O completion in-order")
+e16828cf945c ("usb: gadget: function: f_fs: Move epfile waitqueue to ffs_data.")
+222155de4557 ("usb: gadget: function: f_fs: Let ffs_epfile_ioctl wait for enable.")
+43938613c6fd ("drivers, usb: convert ffs_data.ref from atomic_t to refcount_t")
+bc46e23c3425 ("Merge tag 'usb-for-v4.11' of git://git.kernel.org/pub/scm/linux/kernel/git/balbi/usb into usb-next")

@@ -1,0 +1,8 @@
+a238106703ab ("netfilter: nft_set_pipapo: prepare pipapo_get helper for on-demand clone")
+c5444786d0ea ("netfilter: nft_set_pipapo: merge deactivate helper into caller")
+5b651783d80b ("netfilter: nft_set_pipapo: use GFP_KERNEL for insertions")
+07ace0bbe03b ("netfilter: nft_set_pipapo: do not rely on ZERO_SIZE_PTR")
+f04df573faf9 ("netfilter: nft_set_pipapo: constify lookup fn args where possible")
+76313d1a4aa9 ("netfilter: nft_set_pipapo: store index in scratch maps")
+7395dfacfff6 ("netfilter: nf_tables: use timestamp to check for set element timeout")
+ab0beafd52b9 ("netfilter: nft_set_pipapo: remove static in nft_pipapo_get()")

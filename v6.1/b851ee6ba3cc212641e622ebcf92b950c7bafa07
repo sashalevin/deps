@@ -1,0 +1,5 @@
+b851ee6ba3cc ("f2fs: fix to check return value of f2fs_do_truncate_blocks()")
+a46bebd502fe ("f2fs: synchronize atomic write aborts")
+ae267fc1cfe9 ("f2fs: fix to abort atomic write only during do_exist()")
+41e8f85a75fc ("f2fs: introduce F2FS_IOC_START_ATOMIC_REPLACE")
+4d8d45df2252 ("f2fs: correct i_size change for atomic writes")

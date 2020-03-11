@@ -1,0 +1,6 @@
+0d5edcc60abe ("drm/print: Kill ___drm_dbg()")
+d987150b5392 ("drm/drm_print: correct format problem")
+16deeb8e18ca ("drm_print: add _ddebug descriptor to drm_*dbg prototypes")
+6ce6fae84536 ("drm_print: optimize drm_debug_enabled for jump-label")
+84ec67288c10 ("drm_print: wrap drm_*_dbg in dyndbg descriptor factory macro")
+e820f52577b1 ("drm_print: interpose drm_*dbg with forwarding macros")

@@ -1,0 +1,6 @@
+deccae40e4b3 ("btrfs: can_nocow_file_extent should pass down args->strict from callers")
+619104ba453a ("btrfs: move common NOCOW checks against a file extent into a helper")
+59d35c5171e6 ("btrfs: release path earlier at can_nocow_extent()")
+c1a548db25c3 ("btrfs: free path at can_nocow_extent() before checking for checksum items")
+1a89f1738684 ("btrfs: stop allocating a path when checking if cross reference exists")
+cb36a9bb17c4 ("btrfs: add ram_bytes and offset to btrfs_ordered_extent")

@@ -1,0 +1,5 @@
+e8684db191e4 ("net: ethernet: microchip: lan743x: Fix skb allocation failure")
+966df6ded24d ("lan743x: sync only the received area of an rx ring buffer")
+a8db76d40e4d ("lan743x: boost performance on cpu archs w/o dma cache snooping")
+462512824f90 ("lan743x: fix endianness when accessing descriptors")
+57030a0b620f ("lan743x: fix rx_napi_poll/interrupt ping-pong")

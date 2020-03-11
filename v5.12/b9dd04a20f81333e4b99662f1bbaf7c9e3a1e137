@@ -1,0 +1,7 @@
+b9dd04a20f81 ("arm64/mm: fold check for KFENCE into can_set_direct_map()")
+031495635b46 ("arm64: Do not defer reserve_crashkernel() for platforms with no DMA memory zones")
+57beb9bd18fc ("arm64: kdump: Remove custom linux,elfcorehdr handling")
+6d47c23b16aa ("set_memory: allow querying whether set_direct_map_*() is actually enabled")
+e69012400b0c ("arm64: mm: don't use CON and BLK mapping if KFENCE is enabled")
+87143f404f33 ("arm64: mm: use XN table mapping attributes for the linear region")
+c1fd78a77704 ("arm64: mm: add missing P4D definitions and use them consistently")

@@ -1,0 +1,5 @@
+a4b64b893428 ("PM: sleep: Move some assignments from under a lock")
+4add3e72f0fc ("PM: sleep: stats: Call dpm_save_failed_step() at most once per phase")
+b730bab0b9c4 ("PM: sleep: stats: Use an array of step failure counters")
+3e999770ac1c ("PM: sleep: Restore asynchronous device resume optimization")
+7839d0078e0d ("PM: sleep: Fix possible deadlocks in core system-wide PM code")

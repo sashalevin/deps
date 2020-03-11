@@ -1,0 +1,6 @@
+a61230470c8c ("block, bfq: move io_cq-persistent bfqq data into a dedicated struct")
+9778369a2d6c ("block, bfq: split sync bfq_queues on a per-actuator basis")
+246cf66e300b ("block, bfq: fix uaf for bfqq in bfq_exit_icq_bfqq")
+337366e02b37 ("block, bfq: replace 0/1 with false/true in bic apis")
+64dc8c732f5c ("block, bfq: fix possible uaf for 'bfqq->bic'")
+dc469ba2e790 ("block/bfq: Use the new blk_opf_t type")

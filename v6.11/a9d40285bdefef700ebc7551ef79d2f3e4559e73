@@ -1,0 +1,5 @@
+a9d40285bdef ("iommu/tegra241-cmdqv: Limit CMDs for VCMDQs of a guest owned VINTF")
+918eb5c856f6 ("iommu/arm-smmu-v3: Add in-kernel support for NVIDIA Tegra241 (Grace) CMDQV")
+6de80d619203 ("iommu/arm-smmu-v3: Add struct arm_smmu_impl_ops")
+6f3f9ff43d00 ("iommu/arm-smmu-v3: Add acpi_smmu_iort_probe_model for impl")
+56ae8866f3b4 ("iommu/arm-smmu-v3: Issue a batch of commands to the same cmdq")

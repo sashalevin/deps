@@ -1,0 +1,7 @@
+9a48e7564ac8 ("compiler-gcc.h: Define __SANITIZE_ADDRESS__ under hwaddress sanitizer")
+8793bb7f4a9d ("kbuild: add macro for controlling warnings to linux/compiler.h")
+f0907827a8a9 ("compiler.h: enable builtin overflow checkers and add fallback code")
+87358710c1fb ("x86/retpoline: Support retpoline builds with Clang")
+53a98ed73b84 ("kasan: add compiler support for clang")
+66f793099a63 ("x86/retpoline: Avoid retpolines for built-in __init functions")
+40548c6b6c13 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+f4a0742b3cc1 ("perf pmu: Move *_cpuid_str() weak functions to header.c")
+3b54411a4485 ("perf vendor events: Add stepping in CPUID string for x86")
+4cb7d3ecfca9 ("perf cpuid: Introduce a platform specific cpuid compare function")
+81fccd6ca507 ("perf record: Fix failed memory allocation for get_cpuid_str")
+fbc2844e8403 ("perf vendor events: Use more flexible pattern matching for CPU identification for mapfile.csv")
+14b22ae028de ("perf pmu: Add helper function is_pmu_core to detect PMU CORE devices")
+54e32dc0f89e ("perf pmu: Pass pmu as a parameter to get_cpuid_str()")
+ca4b9c3b743d ("Merge branch 'perf/urgent' into perf/core, to pick up fixes")

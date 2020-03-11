@@ -1,0 +1,5 @@
+462689b37f08 ("KVM: VMX: Use current CPU's info to perform "disabled by BIOS?" checks")
+a4d0b2fdbcf7 ("KVM: VMX: Use VMX feature flag to query BIOS enabling")
+21bd3467a58e ("KVM: VMX: Drop initialization of IA32_FEAT_CTL MSR")
+32ad73db7fc5 ("x86/msr-index: Clean up bit defines for IA32_FEATURE_CONTROL MSR")
+85c9aae9ac8b ("kvm: nVMX: Relax guest IA32_FEATURE_CONTROL constraints")

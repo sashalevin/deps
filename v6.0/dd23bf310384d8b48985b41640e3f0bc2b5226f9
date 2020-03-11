@@ -1,0 +1,6 @@
+dd23bf310384 ("jfs: Convert drop_metapage and remove_metapage to take a folio")
+40e1bd195b0e ("jfs; Convert release_metapage to use a folio")
+9346476d2116 ("jfs: Convert insert_metapage() to take a folio")
+2dcd9630d988 ("jfs: Convert __get_metapage to use a folio")
+9b4b3f844100 ("jfs: Convert metapage_read_folio to use folio APIs")
+2d6831758271 ("mm,jfs: move write_one_page/folio_write_one to jfs")

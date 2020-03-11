@@ -1,0 +1,6 @@
+e622502c310f ("ipmr: fix kernel panic when forwarding mcast packets")
+bb7403655b3c ("ipmr: support IP_PKTINFO on cache report IGMP msg")
+42186e6c0035 ("ipv4: raw: add drop reasons")
+646679881a02 ("ipmr: ipmr_cache_report() changes")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")

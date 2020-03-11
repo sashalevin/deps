@@ -1,0 +1,7 @@
+5cfe8a1c2577 ("iio: adc: ad7124: add sequencer support")
+fd5ba89e4cd4 ("iio: adc: ad7124: Add update_scan_mode")
+c066ca1464f3 ("iio: adc: ad7124: Use devm_ managed calls for all of probe() + drop remove()")
+4573472315f0 ("iio: adc: ad7124: Fix missbalanced regulator enable / disable on error.")
+7b8d045e497a ("iio: adc: ad7124: allow more than 8 channels")
+951ad4700313 ("iio: adc: ad7124: move chip ID & name on the chip_info table")
+d3be83244c7d ("iio: remove explicit IIO device parent assignment")

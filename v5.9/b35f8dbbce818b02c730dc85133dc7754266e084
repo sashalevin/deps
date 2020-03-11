@@ -1,0 +1,6 @@
+b35f8dbbce81 ("serial: max310x: prevent infinite while() loop in port startup")
+93cd256ab224 ("serial: max310x: improve crystal stable clock detection")
+0419373333c2 ("serial: max310x: set default value when reading clock ready bit")
+6ef281daf020 ("serial: max310x: use a separate regmap for each port")
+285e76fc049c ("serial: max310x: use regmap methods for SPI batch operations")
+c808fab604ca ("serial: max310x: Make use of device properties")

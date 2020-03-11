@@ -1,0 +1,7 @@
+32107e43b505 ("crypto: caam - check if RNG job failed")
+2c5e88dc90f5 ("crypto: caam - simplify RNG implementation")
+1517f63cd84f ("crypto: caam - drop global context pointer and init_done")
+8483c831b9f3 ("crypto: caam - use struct hwrng's .init for initialization")
+4d370a103695 ("crypto: caam - change return code in caam_jr_enqueue function")
+d53e44fe980b ("crypto: caam - refactor RSA private key _done callbacks")
+b7f17fe28144 ("crypto: caam - refactor skcipher/aead/gcm/chachapoly {en,de}crypt functions")

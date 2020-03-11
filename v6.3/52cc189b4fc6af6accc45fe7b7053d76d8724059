@@ -1,0 +1,6 @@
+52cc189b4fc6 ("iio: adc: palmas: don't alter event config on suspend/resume")
+2d48dbdfc7d4 ("iio: adc: palmas: move eventX_enable into palmas_adc_event")
+7501a3a97e4f ("iio: adc: palmas: use iio_event_direction for threshold polarity")
+d2ab4eea732d ("iio: adc: palmas: replace "wakeup" with "event"")
+79d9622d622d ("iio: adc: palmas: remove adc_wakeupX_data")
+6d52b0e70698 ("iio: adc: palmas: Take probe fully device managed.")

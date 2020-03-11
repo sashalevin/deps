@@ -1,0 +1,4 @@
+5b74d1d16e2f ("ACPI / battery: Use design-cap for capacity calculations if full-cap is not available")
+cc99f0ad5246 ("ACPI / battery: Deal with design or full capacity being reported as -1")
+b41901a2cf06 ("ACPI / battery: Do not export energy_full[_design] on devices without full_charge_capacity")
+a20136a67a99 ("ACPI: battery: do not export degraded capacity values over 100")

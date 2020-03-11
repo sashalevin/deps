@@ -1,0 +1,6 @@
+41b14fb8724d ("net: Do not clear the sock TX queue in sk_set_socket()")
+c2f26e8f8788 ("net: Use RCU_INIT_POINTER() to set sk_wq")
+86741ec25462 ("net: core: Add a UID field to struct sock.")
+2a56a1fec290 ("net: wrap sock->sk_cgrp_prioidx and ->sk_classid inside a struct")
+297dbde19cf6 ("netprio_cgroup: limit the maximum css->id to USHRT_MAX")
+1ce0bf50ae22 ("net: Generalise wq_has_sleeper helper")

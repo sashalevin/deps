@@ -1,0 +1,7 @@
+f877f1d81b2f ("firewire: core: use mutex to coordinate concurrent calls to flush completions")
+e97fb38fa140 ("firewire: core: move workqueue handler from 1394 OHCI driver to core function")
+7b713929bbd8 ("firewire: core: fulfill documentation of fw_iso_context_flush_completions()")
+446216bd8e5d ("firewire: core: expose kernel API to schedule work item to process isochronous context")
+7519033f319d ("firewire: core: use WARN_ON_ONCE() to avoid superfluous dumps")
+5390813c34d7 ("firewire: ohci: operate IT/IR events in sleepable work process instead of tasklet softIRQ")
+4f55ad754d6b ("firewire: core: add local API to queue work item to workqueue specific to isochronous contexts")

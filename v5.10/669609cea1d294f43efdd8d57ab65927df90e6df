@@ -1,0 +1,7 @@
+669609cea1d2 ("tty: n_gsm: replace use of gsm_read_ea() with gsm_read_ea_val()")
+fd442e5ba30a ("tty: n_gsm: fix buffer over-read in gsm_dlci_data()")
+1adf6fee58ca ("tty: n_gsm: fix missing tty wakeup in convergence layer type 2")
+317f86af7f5d ("tty: n_gsm: fix wrong signal octets encoding in MSC")
+398867f59f95 ("tty: n_gsm: fix wrong command frame length field encoding")
+687f9ad43c52 ("tty: n_gsm: fix wrong modem processing in convergence layer type 2")
+b410e35dbfed ("tty: n_gsm: Demote obvious abuse of kernel-doc and supply other missing docss")

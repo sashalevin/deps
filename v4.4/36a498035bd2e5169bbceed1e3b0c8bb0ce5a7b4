@@ -1,0 +1,4 @@
+36a498035bd2 ("MIPS: Avoid FCSR sanitization when CONFIG_MIPS_FP_SUPPORT=n")
+5a1aca4469fd ("MIPS: Fix FCSR Cause bit handling for correct SIGFPE issue")
+abf378be49f3 ("MIPS: ptrace: Prevent writes to read-only FCSR bits")
+4249548454f7 ("MIPS: ptrace: Fix FP context restoration FCSR regression")

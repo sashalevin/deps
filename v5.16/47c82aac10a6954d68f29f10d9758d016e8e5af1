@@ -1,0 +1,8 @@
+47c82aac10a6 ("media: cec: core: avoid recursive cec_claim_log_addrs")
+f9222f8ca18b ("media: cec-adap.c: drop activate_cnt, use state info instead")
+e2ed5024ac2b ("media: cec: use call_op and check for !unregistered")
+f9d0ecbf56f4 ("media: cec: correctly pass on reply results")
+590a8e564c6e ("media: cec: abort if the current transmit was canceled")
+3813c932ed97 ("media: cec: call enable_adap on s_log_addrs")
+a9e6107616bb ("media: cec: fix a deadlock situation")
+713bdfa10b59 ("media: cec-pin: fix interrupt en/disable handling")

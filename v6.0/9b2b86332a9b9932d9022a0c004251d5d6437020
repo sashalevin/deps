@@ -1,0 +1,5 @@
+9b2b86332a9b ("bpf: Allow to use kfunc XDP hints and frags together")
+2b3486bc2d23 ("bpf: Introduce device-bound XDP programs")
+89bbc53a4dbb ("bpf: Reshuffle some parts of bpf/offload.c")
+f1fc43d03946 ("bpf: Move offload initialization into late_initcall")
+9d03ebc71a02 ("bpf: Rename bpf_{prog,map}_is_dev_bound to is_offloaded")

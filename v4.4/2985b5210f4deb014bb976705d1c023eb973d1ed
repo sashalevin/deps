@@ -1,0 +1,7 @@
+2985b5210f4d ("iommu/arm-smmu-v3: Split probe functions into DT/generic portions")
+dc87a98db751 ("iommu/arm-smmu: Fall back to global bypass")
+d54663573131 ("iommu/arm-smmu: Use per-domain page sizes.")
+7602b8710645 ("iommu/arm-smmu: Decouple context format from kernel config")
+4e3e9b6997b2 ("iommu/arm-smmu: Add support for 16 bit VMID")
+75df1386557c ("iommu/arm-smmu: Invalidate TLBs properly")
+04fa26c71be5 ("iommu/arm-smmu: Convert DMA buffer allocations to the managed API")

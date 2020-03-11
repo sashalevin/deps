@@ -1,0 +1,4 @@
+691aae4f36f9 ("ksmbd: do not grant v2 lease if parent lease key and epoch are not set")
+77bebd186442 ("ksmbd: only v2 leases handle the directory")
+18dd1c367c31 ("ksmbd: set v2 lease capability")
+fc6c6a3c324c ("ksmbd: fix out-of-bound read in parse_lease_state()")

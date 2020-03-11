@@ -1,0 +1,4 @@
+b82ba728ccfe ("tcp: Iterate tb->bhash2 in inet_csk_bind_conflict().")
+58655bc0ad7c ("tcp: Rearrange tests in inet_csk_bind_conflict().")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")
+d2c135619cb8 ("inet: add READ_ONCE(sk->sk_bound_dev_if) in inet_csk_bind_conflict()")

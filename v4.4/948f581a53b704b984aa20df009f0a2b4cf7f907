@@ -1,0 +1,6 @@
+948f581a53b7 ("dm thin: fix a memory leak when passing discard bio down")
+2a0fbffb1e50 ("dm thin: fix a race condition between discarding and provisioning a block")
+202bae52934d ("dm thin: unroll issue_discard() to create longer discard bio chains")
+3dba53a958a7 ("dm thin: use __blkdev_issue_discard for async discard support")
+c3667cc61904 ("dm thin: consistently return -ENOSPC if pool has run out of data space")
+1c2e54e1ed6f ("dm thin: bump thin and thin-pool target versions")

@@ -1,0 +1,6 @@
+f886d4fbb7c9 ("usb: xhci: Extend support for runtime power management for AMD's Yellow carp.")
+660a92a59b9e ("usb: xhci: Enable runtime-pm by default on AMD Yellow Carp platform")
+a4a251f8c235 ("usb: xhci: do not perform Soft Retry for some xHCI hosts")
+bac1ec551434 ("usb: xhci: Set quirk for XHCI_SG_TRB_CACHE_SIZE_QUIRK")
+2a632815683d ("usb: xhci: Workaround for S3 issue on AMD SNPS 3.0 xHC")
+f768e718911e ("usb: host: xhci-plat: add priv quirk for skip PHY initialization")

@@ -1,0 +1,7 @@
+9061d14a8a97 ("aio: all callers of aio_{read,write,fsync,poll} treat 0 and -EIOCBQUEUED the same way")
+3c96c7f4caeb ("aio: take list removal to (some) callers of aio_complete()")
+1962da0d2198 ("aio: try to complete poll iocbs without context switch")
+2c14fa838cbe ("aio: implement IOCB_CMD_POLL")
+888933f8fdf0 ("aio: simplify cancellation")
+f3a2752a43de ("aio: simplify KIOCB_KEY handling")
+ed0d523adb5d ("Merge branch 'fixes' of https://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs into aio-base")

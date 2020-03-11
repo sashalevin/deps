@@ -1,0 +1,4 @@
+14dbe186b9d4 ("pinctrl: msmgpio: Make the irqchip immutable")
+71266d9d3936 ("pinctrl: qcom: Move clearing pending IRQ to .irq_request_resources callback")
+dd87bd09822c ("pinctrl: qcom: Set IRQCHIP_ENABLE_WAKEUP_ON_SUSPEND flag")
+c5f72aeb659e ("pinctrl: qcom: Set IRQCHIP_SET_TYPE_MASKED and IRQCHIP_MASK_ON_SUSPEND flags")

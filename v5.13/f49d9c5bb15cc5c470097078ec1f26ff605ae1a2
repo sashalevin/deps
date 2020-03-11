@@ -1,0 +1,6 @@
+f49d9c5bb15c ("kasan, mm: only define ___GFP_SKIP_KASAN_POISON with HW_TAGS")
+b16ee0f9ed79 ("mmflags.h: add missing __GFP_ZEROTAGS and __GFP_SKIP_KASAN_POISON names")
+c275c5c6d50a ("kasan: disable freed user page poisoning with HW tags")
+013bb59dbb7c ("arm64: mte: handle tags zeroing at page allocation time")
+7a3b83537188 ("kasan: use separate (un)poison implementation for integrated init")
+92638b4e1b47 ("mm: arch: remove indirection level in alloc_zeroed_user_highpage_movable()")

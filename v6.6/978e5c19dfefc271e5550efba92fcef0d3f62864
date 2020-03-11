@@ -1,0 +1,8 @@
+978e5c19dfef ("io_uring: Fix io_cqring_wait() not restoring sigmask on get_timespec64() failure")
+8d0c12a80cde ("io-uring: add napi busy poll support")
+405b4dc14b10 ("io-uring: move io_wait_queue definition to header file")
+194bb58c6090 ("io_uring: add support for futex wake and wait")
+93b8cc60c37b ("io_uring: cancelable uring_cmd")
+528ce6781726 ("io_uring: retain top 8bits of uring_cmd flags for kernel internal use")
+f31ecf671ddc ("io_uring: add IORING_OP_WAITID support")
+fc68fcda0491 ("io_uring/rw: add support for IORING_OP_READ_MULTISHOT")

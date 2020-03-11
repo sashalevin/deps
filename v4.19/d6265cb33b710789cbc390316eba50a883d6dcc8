@@ -1,0 +1,8 @@
+d6265cb33b71 ("powerpc/book3s64/radix: Add H_RPT_INVALIDATE pgsize encodings to mmu_psize_def")
+af9d00e93a4f ("powerpc/mm/radix: Create separate mappings for hot-plugged memory")
+d6d6ebfc5dbb ("powerpc/mm/radix: Remove split_kernel_mapping()")
+9ce8853b4a73 ("powerpc/mm/radix: Free PUD table when freeing pagetable")
+2fb4706057bc ("powerpc: add support for folded p4d page tables")
+4e00c5affdd4 ("powerpc/mm: thread pgprot_t through create_section_mapping()")
+0b1c524caaae ("powerpc/32: refactor pmd_offset(pud_offset(pgd_offset...")
+71c3a888cbca ("Merge tag 'powerpc-5.6-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

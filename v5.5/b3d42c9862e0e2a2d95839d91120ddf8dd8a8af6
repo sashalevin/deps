@@ -1,8 +1,0 @@
-b3d42c9862e0 ("KVM: PPC: BookE: Setup vcpu during kvmppc_core_vcpu_create()")
-ff030fdf5573 ("KVM: PPC: Move kvm_vcpu_init() invocation to common code")
-4dbf6fec7886 ("KVM: PPC: e500mc: Move reset of oldpir below call to kvm_vcpu_init()")
-d30769522294 ("KVM: PPC: Book3S PR: Allocate book3s and shadow vcpu after common init")
-c50bfbdc38ec ("KVM: PPC: Allocate vcpu struct in common PPC code")
-3ec8ca296470 ("KVM: PPC: e500mc: Add build-time assert that vcpu is at offset 0")
-cb10bf9194f4 ("KVM: PPC: Book3S PR: Free shared page if mmu initialization fails")
-1a978d9d3e72 ("KVM: PPC: Book3S HV: Uninit vCPU if vcore creation fails")

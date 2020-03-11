@@ -1,0 +1,6 @@
+f36ba6cf1ab6 ("io_uring: don't iterate cq wait fast path")
+0fc8c2acbfc7 ("io_uring: calculate CQEs from the user visible value")
+aa1df3a360a0 ("io_uring: fix CQE reordering")
+76de6749d1bc ("io_uring: further limit non-owner defer-tw cq waiting")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

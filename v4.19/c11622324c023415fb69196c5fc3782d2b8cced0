@@ -1,0 +1,6 @@
+c11622324c02 ("pwm: atmel-tcb: Fix resource freeing in error path and remove")
+0323e8fedd1e ("pwm: atmel-tcb: Harmonize resource allocation order")
+9609284a7697 ("pwm: atmel-tcb: Convert to platform remove callback returning void")
+c77e99f434c2 ("pwm: atmel-tcb: Only free resources after pwm_chip_remove() returned")
+34cbcd72588f ("pwm: atmel-tcb: Add sama5d2 support")
+061f8572a31c ("pwm: atmel-tcb: Switch to new binding")

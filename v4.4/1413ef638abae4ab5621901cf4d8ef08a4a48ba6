@@ -1,0 +1,5 @@
+1413ef638aba ("i2c: dev: Fix the race between the release of i2c_dev and cdev")
+e6be18f6d62c ("i2c: dev: use after free in detach")
+72a71f869c95 ("i2c: dev: don't start function name with 'return'")
+d6760b14d4a1 ("i2c: dev: switch from register_chrdev to cdev API")
+a87660737f66 ("i2c: i2c-dev: sort includes")

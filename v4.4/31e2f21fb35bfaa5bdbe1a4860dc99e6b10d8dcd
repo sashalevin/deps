@@ -1,0 +1,4 @@
+31e2f21fb35b ("l2tp: fix address test in __l2tp_ip6_bind_lookup()")
+df90e6886146 ("l2tp: fix lookup for sockets not bound to a device in l2tp_ip")
+a3c18422a4b4 ("l2tp: hold socket before dropping lock in l2tp_ip{, 6}_recv()")
+0e6b5259824e ("net: l2tp: Make l2tp_ip6 namespace aware")

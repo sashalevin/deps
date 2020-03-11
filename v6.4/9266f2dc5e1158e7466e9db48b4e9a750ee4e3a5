@@ -1,0 +1,6 @@
+9266f2dc5e11 ("erofs: convert z_erofs_submissionqueue_endio() to folios")
+192351616a9d ("erofs: support I/O submission for sub-page compressed blocks")
+6ab5eed6002e ("erofs: avoid on-stack pagepool directly passed by arguments")
+05b63d2beb8b ("erofs: allocate extra bvec pages directly instead of retrying")
+796e9149a2fc ("erofs: clean up z_erofs_pcluster_readmore()")
+ef4b4b46c6aa ("erofs: remove the member readahead from struct z_erofs_decompress_frontend")

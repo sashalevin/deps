@@ -1,0 +1,4 @@
+f5d03da48d06 ("x86/kprobes: fix incorrect return address calculation in kprobe_emulate_call_indirect")
+6256e668b7af ("x86/kprobes: Use int3 instead of debug trap for single-step")
+a194acd316f9 ("x86/kprobes: Identify far indirect JMP correctly")
+abd82e533d88 ("x86/kprobes: Do not decode opcode in resume_execution()")

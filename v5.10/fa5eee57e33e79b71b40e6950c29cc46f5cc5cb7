@@ -1,0 +1,8 @@
+fa5eee57e33e ("fuse: selective attribute invalidation")
+97f044f690ba ("fuse: don't increment nlink in link()")
+cefd1b83275d ("fuse: decrement nlink on overwriting rename")
+371e8fd02969 ("fuse: move fuse_invalidate_attr() into fuse_update_ctime()")
+5c791fe1e2a4 ("fuse: make sure reclaim doesn't write the inode")
+a9667ac88e2b ("fuse: remove unused arg in fuse_write_file_get()")
+76224355db75 ("fuse: truncate pagecache on atomic_o_trunc")
+3466958beb31 ("fuse: invalidate attrs when page writeback completes")

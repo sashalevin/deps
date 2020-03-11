@@ -1,0 +1,5 @@
+a885eebc1b06 ("spi: pxa2xx: Use gpiod_put() not gpiod_free()")
+221886646f75 ("spi: pxa2xx: avoid redundant gpio_to_desc(desc_to_gpio()) round-trip")
+c18d925fca20 ("spi: pxa2xx: Convert to GPIO descriptor API where possible")
+99f499cd6504 ("spi: pxa2xx: Add support for GPIO descriptor chip selects")
+c64e1265ae85 ("spi: pxa2xx: use DMA by default if supported")

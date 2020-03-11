@@ -1,0 +1,6 @@
+6f576e281690 ("rcu: Convert ->need_future_gp[] array to boolean")
+51af970d19f3 ("rcu: Avoid losing ->need_future_gp[] values due to GP start/end races")
+fb31340f8a43 ("rcu: Make rcu_gp_cleanup() more accurately predict need for new GP")
+c91a8675b9cc ("rcu: Add accessor macros for the ->need_future_gp[] array")
+825a9911f644 ("rcu: Make rcu_start_future_gp()'s grace-period check more precise")
+b04db8e19fc2 ("rcu: Use lockdep to assert IRQs are disabled/enabled")

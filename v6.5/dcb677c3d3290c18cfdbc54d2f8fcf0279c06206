@@ -1,0 +1,4 @@
+dcb677c3d329 ("tools/nolibc: stackprotector.h: make __stack_chk_init static")
+06f2a62c8133 ("tools/nolibc: crt.h: initialize stack protector")
+d7f16723d37c ("tools/nolibc: stackprotector.h: add empty __stack_chk_init for !_NOLIBC_STACKPROTECTOR")
+17336755150b ("tools/nolibc: add new crt.h with _start_c")

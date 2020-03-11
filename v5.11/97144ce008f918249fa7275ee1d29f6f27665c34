@@ -1,0 +1,7 @@
+97144ce008f9 ("mm/vmscan: use folio_migratetype() instead of get_pageblock_migratetype()")
+5da226dbfce3 ("mm: skip CMA pages when they are not available")
+166e3d32276f ("mm/vmscan: convert isolate_lru_pages() to use a folio")
+b2cb6826b6df ("mm/vmscan: fix comment for isolate_lru_pages")
+89f6c88a6ab4 ("mm: __isolate_lru_page_prepare() in isolate_migratepages_block()")
+f611fab71005 ("mm/vmscan: remove kerneldoc-like comment from isolate_lru_pages")
+c2135f7c570b ("mm/vmscan: __isolate_lru_page_prepare() cleanup")

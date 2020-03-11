@@ -1,0 +1,8 @@
+7f717f54845c ("KVM: x86: Remove x86_emulate_ops::guest_has_long_mode")
+f91af5176cce ("KVM: x86: Refactor kvm_cpuid() param that controls out-of-range logic")
+09c7431ed31f ("KVM: x86: Refactor out-of-range logic to contain the madness")
+8d8923115f1b ("KVM: x86: Fix CPUID range checks for Hypervisor and Centaur classes")
+23493d0a1731 ("KVM x86: Extend AMD specific guest behavior to Hygon virtual CPUs")
+15608ed03f10 ("KVM: x86: Add helpers to perform CPUID-based guest vendor check")
+b7fb8488c85f ("KVM: x86: Trace the original requested CPUID function in kvm_cpuid()")
+5ae78e95ed0c ("KVM: x86: Add dedicated emulator helpers for querying CPUID features")

@@ -1,0 +1,7 @@
+7eba41fe8c7b ("tpm_tis_spi: Add missing SPI ID")
+faaca0a0d48e ("tpm: Revert tpm_tis_spi_mod.ko to tpm_tis_spi.ko.")
+797c0113c9a4 ("tpm: tpm_tis_spi: Support cr50 devices")
+8ab5e82afa96 ("tpm: tpm_tis_spi: Introduce a flow control callback")
+1a339b658d9d ("tpm_tis_spi: Pass the SPI IRQ down to the driver")
+6b3a13173f23 ("tpm_tis_spi: Use DMA-safe memory for SPI transfers")
+c37fbc09bd49 ("tpm: constify transmit data pointers")

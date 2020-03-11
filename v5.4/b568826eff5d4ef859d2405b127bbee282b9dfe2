@@ -1,0 +1,8 @@
+b568826eff5d ("crypto: arm64 - add missing MODULE_DESCRIPTION() macros")
+f569ca164751 ("crypto: arm64/poly1305 - incorporate OpenSSL/CRYPTOGAMS NEON implementation")
+f0e89bcfbb89 ("crypto: x86/poly1305 - expose existing driver as poly1305 library")
+1b2c6a512048 ("crypto: x86/poly1305 - depend on generic library not generic shash")
+a1d93064094c ("crypto: poly1305 - expose init/update/final library interface")
+ad8f5b88383e ("crypto: x86/poly1305 - unify Poly1305 state struct with generic code")
+48ea8c6ebc96 ("crypto: poly1305 - move core routines into a separate library")
+746b2e024c67 ("crypto: lib - tidy up lib/crypto Kconfig and Makefile")

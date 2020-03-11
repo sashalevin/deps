@@ -1,0 +1,6 @@
+a49e4629b5ed ("cpuset: Make cpuset hotplug synchronous")
+710da3c8ea7d ("sched/core: Prevent race condition between cpuset and __sched_setscheduler()")
+1243dc518c9d ("cgroup/cpuset: Convert cpuset_mutex to percpu_rwsem")
+f9a25f776d78 ("cpusets: Rebuild root domain deadline accounting information")
+4b211f2b129d ("sched/core: Streamle calls to task_rq_unlock()")
+933a90bf4f35 ("Merge branch 'work.mount0' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

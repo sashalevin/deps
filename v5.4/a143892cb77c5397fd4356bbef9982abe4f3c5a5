@@ -1,0 +1,5 @@
+a143892cb77c ("powerpc: add cpu_spec.cpu_features to vmcoreinfo")
+36e826b568e4 ("powerpc/vmcore: Add MMU information to vmcoreinfo")
+793b08e2efff ("powerpc/kexec: Move kexec files into a dedicated subdir.")
+9f7bd9201521 ("powerpc/32: Split kexec low level code out of misc_32.S")
+74277f00b232 ("powerpc/fsl_booke/kaslr: export offset in VMCOREINFO ELF notes")

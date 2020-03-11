@@ -1,0 +1,5 @@
+d563792c8933 ("dm: make sure create and remove dm device won't race with open and close table")
+e7089f65dd51 ("dm: add add_disk() error handling")
+89f871af1b26 ("dm: delay registering the gendisk")
+ba30585936b0 ("dm: move setting md->type into dm_setup_md_queue")
+74a2b6ec9380 ("dm: cleanup cleanup_mapped_device")

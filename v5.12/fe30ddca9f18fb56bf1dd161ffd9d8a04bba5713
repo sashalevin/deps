@@ -1,0 +1,5 @@
+fe30ddca9f18 ("kasan: clean-up kconfig options descriptions")
+fbefb423f873 ("kasan: allow enabling KASAN_VMALLOC and SW/HW_TAGS")
+7a22bdc3c443 ("kasan: add memory corruption identification support for hardware tag-based mode")
+f06f78ab48fb ("kasan: rename CONFIG_KASAN_SW_TAGS_IDENTIFY to CONFIG_KASAN_TAGS_IDENTIFY")
+158f25522ca8 ("kasan: allow an architecture to disable inline instrumentation")

@@ -1,0 +1,6 @@
+8e8e2951e309 ("net/packet: make tp_drops atomic")
+57f015f5eccf ("packet: fix crash in fanout_demux_rollover()")
+509c7a1ecc86 ("packet: avoid panic in packet_getsockopt()")
+fb5c2c17a556 ("net: convert packet_fanout.sk_ref from atomic_t to refcount_t")
+2bd624b4611f ("packet: Do not call fanout_release from atomic contexts")
+d199fab63c11 ("packet: fix races in fanout_add()")

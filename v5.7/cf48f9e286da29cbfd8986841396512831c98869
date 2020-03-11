@@ -1,0 +1,4 @@
+cf48f9e286da ("KVM: x86/mmu: Rename rmap_write_protect() to kvm_vcpu_write_protect_gfn()")
+3bae0459bcd5 ("KVM: x86/mmu: Drop KVM's hugepage enums in favor of the kernel's enums")
+e662ec3e0705 ("KVM: x86/mmu: Move max hugepage level to a separate #define")
+b2f432f872d9 ("KVM: x86/mmu: Tweak PSE hugepage handling to avoid 2M vs 4M conundrum")

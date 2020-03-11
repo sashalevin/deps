@@ -1,0 +1,8 @@
+ff2047fb755d ("vt: drop old FONT ioctls")
+90bfdeef83f1 ("tty: make FONTX ioctl use the tty pointer they were actually passed")
+5ba127878722 ("vt_ioctl: move perm checks level up")
+7a0ac4b17f15 ("vt_ioctl: move vt_io_fontreset out of vt_io_ioctl")
+bfbbdfa4de13 ("vt_ioctl: move io ioctls to a separate function")
+832a62ab6b7d ("vt_ioctl: move K* ioctls to a separate function")
+eca734d8f004 ("vt_ioctl: eliminate use of uival and ucval")
+0ce8179e2480 ("vt_ioctl: eliminate ret & breaks in vt_ioctl")

@@ -1,0 +1,6 @@
+c84d949057ca ("udp: copy skb->truesize in the first cache line")
+c8c8b127091b ("udp: under rx pressure, try to condense skbs")
+7c13f97ffde6 ("udp: do fwd memory scheduling on dequeue")
+850cbaddb52d ("udp: use it's own memory accounting schema")
+f970bd9e3a06 ("udp: implement memory accounting helpers")
+d6989d4bbe6c ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

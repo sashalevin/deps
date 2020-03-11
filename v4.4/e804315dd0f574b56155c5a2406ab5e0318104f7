@@ -1,0 +1,6 @@
+e804315dd0f5 ("dax: Define DAX lock bit for radix tree exceptional entry")
+e4b274915863 ("DAX: move RADIX_DAX_ definitions to dax.c")
+b2e0d1625e19 ("dax: fix lifetime of in-kernel dax mappings with dax_map_atomic()")
+fe683adabfe6 ("dax: guarantee page aligned results from bdev_direct_access()")
+0e749e54244e ("dax: increase granularity of dax_clear_blocks() operations")
+52db400fcd50 ("pmem, dax: clean up clear_pmem()")

@@ -1,0 +1,5 @@
+449a15d9e49a ("mtip32xx: remove __force_bit2int")
+8a05aa4ce3bf ("mtip32xx: avoid to read HOST_CAP from HW in .queue_rq()")
+3f5e6a35774c ("mtip32xx: convert internal command issue to block IO path")
+0f6422a2c57c ("mtip32xx: get rid of 'atomic' argument to mtip_exec_internal_command()")
+a4e84aae8139 ("mtip32xx: use runtime tag to initialize command header")

@@ -1,0 +1,5 @@
+6eb8b7fbe391 ("net: mvneta: rely on MVNETA_MAX_RX_BUF_SIZE for pkt split in mvneta_swbm_rx_frame()")
+0db51da7a8e9 ("net: mvneta: add basic XDP support")
+8dc9a0888f4c ("net: mvneta: rely on build_skb in mvneta_rx_swbm poll routine")
+568a3fa24a95 ("net: mvneta: introduce page pool API for sw buffer manager")
+e735fd55b94b ("net: mvneta: fix operation for 64K PAGE_SIZE")

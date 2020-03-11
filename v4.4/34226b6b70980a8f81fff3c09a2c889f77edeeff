@@ -1,0 +1,4 @@
+34226b6b7098 ("KVM: X86: Fix setup the virt_spin_lock_key before static key get initialized")
+b2798ba0b876 ("KVM: X86: Choose qspinlock when dedicated physical CPUs are available")
+cfd8983f03c7 ("x86, locking/spinlocks: Remove ticket (spin)lock implementation")
+45e898b73562 ("locking/pvqspinlock: Collect slowpath lock statistics")

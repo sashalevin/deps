@@ -1,0 +1,8 @@
+4ec8fd037139 ("x86/irq: Unionize PID.PIR for 64bit access w/o casting")
+699f67512f04 ("KVM: VMX: Move posted interrupt descriptor out of VMX code")
+50a82b0eb88c ("KVM: VMX: Split off vmx_onhyperv.{ch} from hyperv.{ch}")
+662f6815786e ("KVM: VMX: Rename XSAVES control to follow KVM's preferred "ENABLE_XYZ"")
+1143c0b85c07 ("KVM: VMX: Recompute "XSAVES enabled" only after CPUID update")
+fbc722aac1ce ("KVM: VMX: Rename "KVM is using eVMCS" static key to match its wrapper")
+19f10315fd53 ("KVM: VMX: Stub out enable_evmcs static key for CONFIG_HYPERV=n")
+68ac4221497b ("KVM: nVMX: Move EVMCS1_SUPPORT_* macros to hyperv.c")

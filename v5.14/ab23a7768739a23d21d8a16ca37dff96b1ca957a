@@ -1,0 +1,5 @@
+ab23a7768739 ("xfs: per-cpu deferred inode inactivation queues")
+62af7d54a0ec ("xfs: detach dquots from inode if we don't need to inactivate it")
+c6c2066db396 ("xfs: move xfs_inactive call to xfs_inode_mark_reclaimable")
+0ed17f01c854 ("xfs: introduce all-mounts list for cpu hotplug notifications")
+f1653c2e2831 ("xfs: introduce CPU hotplug infrastructure")

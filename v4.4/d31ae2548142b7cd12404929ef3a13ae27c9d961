@@ -1,0 +1,5 @@
+d31ae2548142 ("sunrpc: Const-ify all instances of struct rpc_xprt_ops")
+30c5116b1136 ("SUNRPC: Uninline xprt_get(); It isn't performance critical.")
+5d252f90a800 ("svcrdma: Add class for RDMA backwards direction transport")
+71810ef3271d ("svcrdma: Remove unused req_map and ctxt kmem_caches")
+cc886c9ff160 ("svcrdma: Improve allocation of struct svc_rdma_op_ctxt")

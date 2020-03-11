@@ -1,0 +1,4 @@
+959c5d513478 ("KVM: PPC: Book3S HV: Fix race in re-enabling XIVE escalation interrupts")
+9b9b13a6d153 ("KVM: PPC: Book3S HV: Keep XIVE escalation interrupt masked unless ceded")
+35c2405efc01 ("KVM: PPC: Book3S HV: Make xive_pushed a byte, not a word")
+2267ea766179 ("KVM: PPC: Book3S HV: Don't use existing "prodded" flag for XIVE escalations")

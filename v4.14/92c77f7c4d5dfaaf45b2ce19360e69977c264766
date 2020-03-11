@@ -1,0 +1,3 @@
+92c77f7c4d5d ("x86/mm: Don't exceed the valid physical address space")
+be62a3204406 ("x86/mm: Limit mmap() of /dev/mem to valid physical addresses")
+1e0f25dbf246 ("x86/mm: Prevent non-MAP_FIXED mapping across DEFAULT_MAP_WINDOW border")

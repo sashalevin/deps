@@ -1,0 +1,6 @@
+c158834b223f ("printk: nbcon: Use nbcon consoles in console_flush_all()")
+d3a9f82ec5c0 ("printk: nbcon: Provide function to flush using write_atomic()")
+06683a664989 ("printk: nbcon: Add helper to assign priority based on CPU state")
+fc400d5f6357 ("printk: Add @flags argument for console_is_usable()")
+864c25c83d83 ("printk: Make console_is_usable() available to nbcon.c")
+f37b105faef6 ("printk: nbcon: Consolidate alloc() and init()")

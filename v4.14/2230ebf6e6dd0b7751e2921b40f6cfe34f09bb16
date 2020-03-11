@@ -1,0 +1,7 @@
+2230ebf6e6dd ("powerpc/mm: Handle page table allocation failures")
+fdf743c5c51d ("powerpc/hugetlbpage: Rmove unhelpful HUGEPD_*_SHIFT macros")
+ed515b6898c3 ("powerpc/mm/hugetlb: Update hugetlb related locks")
+e4c1112c3fc5 ("powerpc/mm: Change function prototype")
+044003b52a78 ("powerpc/mm/radix: Move function from radix.h to pgtable-radix.c")
+f069ff396d65 ("powerpc/mm/hugetlb: Update huge_ptep_set_access_flags to call __ptep_set_access_flags directly")
+6fa504835d69 ("powerpc/mm/hugetlb: initialize the pagetable cache correctly for hugetlb")

@@ -1,0 +1,6 @@
+3bc41d6d2721 ("lan743x: fix ethernet frame cutoff issue")
+3e21a10fdea3 ("lan743x: trim all 4 bytes of the FCS; not just 2")
+966df6ded24d ("lan743x: sync only the received area of an rx ring buffer")
+a8db76d40e4d ("lan743x: boost performance on cpu archs w/o dma cache snooping")
+462512824f90 ("lan743x: fix endianness when accessing descriptors")
+57030a0b620f ("lan743x: fix rx_napi_poll/interrupt ping-pong")

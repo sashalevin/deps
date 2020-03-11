@@ -1,0 +1,8 @@
+b8c0d74a7027 ("crypto: cryptd - simplify error handling in cryptd_create_*()")
+218c5035fe33 ("crypto: cryptd - use crypto_grab_shash() and simplify error paths")
+cd900f0cacd7 ("crypto: aead - pass instance to crypto_grab_aead()")
+b9f76dddb1f9 ("crypto: skcipher - pass instance to crypto_grab_skcipher()")
+bbefa1dd6a6d ("crypto: pcrypt - Avoid deadlock by using per-instance padata queues")
+07928d9bfc81 ("padata: Remove broken queue flushing")
+20cc01baa334 ("crypto: aead - Split out geniv into its own module")
+53253064adfa ("crypto: skcipher - rename crypto_skcipher_type2 to crypto_skcipher_type")

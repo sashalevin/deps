@@ -1,0 +1,4 @@
+f9e54c3a2f5b ("vfio/pci: implement huge_fault support")
+d71a989cf5d9 ("vfio/pci: Insert full vma on mmap'd MMIO fault")
+aac6db75a9fc ("vfio/pci: Use unmap_mapping_range()")
+a39d3a966a09 ("vfio: Convey kvm that the vfio-pci device is wc safe")

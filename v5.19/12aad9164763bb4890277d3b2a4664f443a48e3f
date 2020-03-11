@@ -1,0 +1,4 @@
+12aad9164763 ("KVM: x86: Shrink struct kvm_pmu")
+4f1fa2a1bbeb ("KVM: x86/pmu: Limit the maximum number of supported Intel GP counters")
+8631ef59b622 ("KVM: x86/pmu: Do not speculatively query Intel GP PMCs that don't exist yet")
+968635abd5f5 ("KVM: x86/pmu: Add kvm_pmu_cap to optimize perf_get_x86_pmu_capability")

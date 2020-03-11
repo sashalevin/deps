@@ -1,0 +1,4 @@
+68c9417b193d ("nbd: do del_gendisk() asynchronously for NBD_DESTROY_ON_DISCONNECT")
+6497ef8df568 ("nbd: provide a way for userspace processes to identify device backends")
+4af5f2e03013 ("nbd: use blk_mq_alloc_disk and blk_cleanup_disk")
+c9a2f90f4d6b ("nbd: handle device refs for DESTROY_ON_DISCONNECT properly")

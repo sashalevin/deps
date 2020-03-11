@@ -1,0 +1,8 @@
+6cb6e9c6050a ("dmaengine: dw-edma: Use DMA engine device debugfs subdirectory")
+d0152168538e ("dmaengine: dw-edma: Move eDMA data pointer to debugfs node descriptor")
+00498167650b ("dmaengine: dw-edma: Simplify debugfs context CSRs init procedure")
+95c55b7836f5 ("dmaengine: dw-edma: Rename debugfs dentry variables to 'dent'")
+782536aac161 ("dmaengine: dw-edma: Convert debugfs descs to being heap-allocated")
+345e3a95b2fb ("dmaengine: dw-edma: Add dw_edma prefix to debugfs nodes descriptor")
+37d058aae75b ("dmaengine: dw-edma: Stop checking debugfs_create_*() return value")
+7ca9f025a731 ("dmaengine: dw-edma: Drop unnecessary debugfs reg casts")

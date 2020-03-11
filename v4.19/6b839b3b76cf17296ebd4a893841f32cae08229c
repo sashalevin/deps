@@ -1,0 +1,8 @@
+6b839b3b76cf ("regset: use kvzalloc() for regset_get_alloc()")
+1e6986c9db21 ("regset: kill ->get()")
+7717cb9bdd04 ("regset: new method and helpers for it")
+dc12d7968f9c ("copy_regset_to_user(): do all copyout at once.")
+b4e9c9549f62 ("introduction of regset ->get() wrappers, switching ELF coredumps to those")
+1d605416fb71 ("fs/binfmt_elf.c: allocate initialized memory in fill_thread_core_info()")
+96d4f267e40f ("Remove 'type' argument from access_ok() function")
+889bb74302e5 ("Merge tag 'nds32-for-linus-4.21' of git://git.kernel.org/pub/scm/linux/kernel/git/greentime/linux")

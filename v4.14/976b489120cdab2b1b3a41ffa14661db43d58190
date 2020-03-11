@@ -1,0 +1,3 @@
+976b489120cd ("efi: Prevent GICv3 WARN() by mapping the memreserve table before first use")
+63eb322d89c8 ("efi: Permit calling efi_mem_reserve_persistent() from atomic context")
+a23d3bb05ccb ("efi: add API to reserve memory persistently across kexec reboot")

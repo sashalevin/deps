@@ -1,0 +1,7 @@
+24d476db6dfb ("net: bcmgenet: remove HFB_CTRL access")
+c5a54bbcecec ("net: bcmgenet: abort suspend on error")
+a94cbf03eb51 ("net: bcmgenet: code movement")
+09e805d2570a ("net: bcmgenet: protect stop from timeout")
+6c97f010cee2 ("net: bcmgenet: use dev->phydev instead of priv->phydev")
+d215dbac48ab ("net: bcmgenet: rework bcmgenet_netif_start and bcmgenet_netif_stop")
+fbf557d9d1bf ("net: bcmgenet: cleanup ring interrupt masking and unmasking")

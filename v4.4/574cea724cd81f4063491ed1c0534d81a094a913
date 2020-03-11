@@ -1,0 +1,6 @@
+574cea724cd8 ("arm/efi: Remove pointless dummy .reloc section")
+4415f9f4a6e5 ("arm/efi: Remove forbidden values from the PE/COFF header")
+81a0bc39ea19 ("ARM: add UEFI stub support")
+da58fb6571bf ("ARM: wire up UEFI init and runtime support")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

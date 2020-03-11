@@ -1,0 +1,3 @@
+098f4c061ea1 ("KVM: x86/pmu: Disallow legacy LBRs if architectural LBRs are available")
+bec46859fb9d ("KVM: x86: Track supported PERF_CAPABILITIES in kvm_caps")
+0b9ca98b7229 ("perf/x86/core: Zero @lbr instead of returning -1 in x86_perf_get_lbr() stub")

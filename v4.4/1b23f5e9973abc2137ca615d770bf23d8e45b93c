@@ -1,0 +1,8 @@
+1b23f5e9973a ("doc: networking: prepare offload documents for conversion into RST")
+1dd27cde30e8 ("net: use skb_is_gso_sctp() instead of open-coding")
+d02f51cbcf12 ("bpf: fix bpf_skb_adjust_net/bpf_skb_proto_xlat to deal with gso sctp skbs")
+a67708892283 ("docs: segmentation-offloads.txt: add SCTP info")
+a65820e69567 ("docs: segmentation-offloads.txt: update for UFO depreciation")
+121d57af308d ("gso: validate gso_type in GSO handlers")
+0c19f846d582 ("net: accept UFO datagrams from tuntap and packet")
+5bbcc0f595fa ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

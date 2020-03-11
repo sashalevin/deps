@@ -1,0 +1,5 @@
+f2d47b550205 ("NFSv4: Update the stateid seqid in nfs_revoke_delegation()")
+7f04883146b7 ("NFS: Always call nfs_inode_find_state_and_recover() when revoking a delegation")
+41020b671aa5 ("NFSv4.x: Allow callers of nfs_remove_bad_delegation() to specify a stateid")
+4586f6e28327 ("NFSv4.1: Add a helper function to deal with expired stateids")
+4c8e5447465c ("NFSv4.1: Don't check delegations that are already marked as revoked")

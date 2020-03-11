@@ -1,0 +1,7 @@
+8ead196be219 ("apparmor: Fix memory leak in unpack_profile()")
+98b824ff8984 ("apparmor: refcount the pdb")
+75c77e9e0713 ("apparmor: provide separate audit messages for file and policy checks")
+bd7bd201ca46 ("apparmor: combine common_audit_data and apparmor_audit_data")
+892148228611 ("apparmor: Fix kernel-doc warnings in apparmor/lib.c")
+26c9ecb34f5f ("apparmor: Fix kernel-doc warnings in apparmor/audit.c")
+afad53575a93 ("apparmor: use passed in gfp flags in aa_alloc_null()")

@@ -1,0 +1,8 @@
+d429928dde2d ("watchdog: s3c2410_wdt: Update QUIRK macros to use BIT macro")
+6584cd349010 ("watchdog: s3c2410_wdt: Add support for WTCON register DBGACK_MASK bit")
+cf3fad4e62d3 ("watchdog: s3c2410: Cleanup PMU related code")
+aa220bc6b758 ("watchdog: s3c2410: Add support for WDT counter enable register")
+2bd33bb4bc1c ("watchdog: s3c2410: Extract disable and mask code into separate functions")
+8d9fdf60e37c ("watchdog: s3c2410: Make reset disable register optional")
+a90102e358ee ("watchdog: s3c2410: Let kernel kick watchdog")
+f197d47584be ("watchdog: s3c2410: Fail probe if can't find valid timeout")

@@ -1,0 +1,8 @@
+ba44f8182ec2 ("raw: use more conventional iterators")
+38c73529de13 ("ipv4: Use return value of inet_iif() for __raw_v4_lookup in the while loop")
+19e4e768064a ("ipv4: Fix raw socket lookup for local traffic")
+7055420fb6a1 ("net: fix raw socket lookup device bind matching with VRFs")
+5108ab4bf446 ("net: ipv6: add second dif to raw socket lookups")
+67359930e185 ("net: ipv4: add second dif to raw socket lookups")
+9999370faed9 ("net: ip, raw_diag -- Use jump for exiting from nested loop")
+432490f9d455 ("net: ip, diag -- Add diag interface for raw sockets")

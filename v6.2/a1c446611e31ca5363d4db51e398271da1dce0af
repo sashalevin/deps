@@ -1,0 +1,4 @@
+a1c446611e31 ("sched,freezer: Mark TASK_FROZEN special")
+8f0eed4a78a8 ("freezer,sched: Use saved_state to reduce some spurious wakeups")
+1c06918788e8 ("sched: Consider task_struct::saved_state in wait_task_inactive()")
+d5e1586617be ("sched: Unconditionally use full-fat wait_task_inactive()")

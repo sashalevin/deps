@@ -1,1 +1,7 @@
 0d4ca4c9bab3 ("mm/kasan: add object validation in ksize()")
+10d1f8cb3965 ("mm/slab: refactor common ksize KASAN logic into slab_common.c")
+a64b53780ec3 ("mm/slab: sanity-check page type when looking up cache")
+598a0717a816 ("mm/slab: validate cache membership under freelist hardening")
+a862f68a8b36 ("docs/core-api/mm: fix return value descriptions in mm/")
+92eac16819e4 ("docs/mm: vmalloc: re-indent kernel-doc comemnts")
+dad4f140edaa ("Merge branch 'xarray' of git://git.infradead.org/users/willy/linux-dax")

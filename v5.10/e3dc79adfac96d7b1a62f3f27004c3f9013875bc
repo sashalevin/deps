@@ -1,0 +1,7 @@
+e3dc79adfac9 ("PCI: dwc: Detect iATU settings after getting "addr_space" resource")
+281f1f99cf3a ("PCI: dwc: Detect number of iATU windows")
+9ca17af552bc ("PCI: dwc: Move inbound and outbound windows to common struct")
+458ad06c4cdd ("PCI: dwc: Ensure all outbound ATU windows are reset")
+a0fd361db8e5 ("PCI: dwc: Move "dbi", "dbi2", and "addr_space" resource setup into common code")
+1d567aac4610 ("PCI: dwc/intel-gw: Move ATU offset out of driver match data")
+9f9e59a48095 ("PCI: dwc: Support multiple ATU memory regions")

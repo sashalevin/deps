@@ -1,0 +1,4 @@
+b6ff753a0ca0 ("drm: constify fb ops across all drivers")
+d536540f304c ("drm/fb-helper: Add generic fbdev emulation .fb_probe function")
+b8f3f500e09c ("drm/tegra: fb: Implement ->fb_mmap() callback")
+304a4f6accac ("drm/fb-helper: Add .last_close and .output_poll_changed helpers")

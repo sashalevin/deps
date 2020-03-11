@@ -1,0 +1,8 @@
+bf1a49436ea3 ("KVM: x86: Move handling of is_guest_mode() into fastpath exit handlers")
+b439eb8ab578 ("Revert "KVM: SVM: Skip WRMSR fastpath on VM-Exit if next RIP isn't valid"")
+5c30e8101e8d ("KVM: SVM: Skip WRMSR fastpath on VM-Exit if next RIP isn't valid")
+d89d04ab6030 ("KVM: move EXIT_FASTPATH_REENTER_GUEST to common code")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

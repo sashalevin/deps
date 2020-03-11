@@ -1,0 +1,5 @@
+46b4f7f5d1f7 ("netvsc: eliminate per-device outstanding send counter")
+b8b835a89b2f ("netvsc: group all per-channel state together")
+d8e18ee0fa96 ("netvsc: enhance transmit select_queue")
+0b307ebd6834 ("netvsc: remove no longer needed receive staging buffers")
+e8f0a89cd759 ("hv_netvsc: fix a race between netvsc_send() and netvsc_init_buf()")

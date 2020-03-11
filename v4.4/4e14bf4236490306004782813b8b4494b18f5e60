@@ -1,0 +1,4 @@
+4e14bf423649 ("macvlan: fix use-after-free in macvlan_common_newlink()")
+d02fd6e7d293 ("macvlan: Fix one possible double free")
+aa5fd0fb7748 ("driver: macvlan: Destroy new macvlan port if macvlan_common_newlink failed.")
+308379607548 ("macvlan: fix failure during registration v3")

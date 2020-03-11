@@ -1,0 +1,8 @@
+506c1da44fee ("cifs: use the expiry output of dns_query to schedule next resolution")
+212253367dc7 ("cifs: fix potential use-after-free in cifs_echo_request()")
+e4af35fa55b0 ("cifs: handle hostnames that resolve to same ip in failover")
+3786f4bddc7b ("cifs: ensure correct super block for DFS reconnect")
+bacd704a95ad ("cifs: handle prefix paths in reconnect")
+8354d88efdab ("cifs: Fix use-after-free bug in cifs_reconnect()")
+340625e618e1 ("cifs: replace various strncpy with strscpy and similar")
+c84ca912b079 ("Merge tag 'keys-namespace-20190627' of git://git.kernel.org/pub/scm/linux/kernel/git/dhowells/linux-fs")

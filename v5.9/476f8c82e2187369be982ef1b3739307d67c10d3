@@ -1,0 +1,5 @@
+476f8c82e218 ("scsi: NCR5380: Drop redundant member from struct NCR5380_cmd")
+1c71065df2df ("scsi: NCR5380: Initialize buffer for MSG IN and STATUS transfers")
+ff1269cb3d97 ("scsi: NCR5380: Add SCp members to struct NCR5380_cmd")
+7b25bdb1c828 ("scsi: NCR5380: Fold SCSI message ABORT onto DID_ABORT")
+e7734ef14ead ("scsi: NCR5380: Remove context check")

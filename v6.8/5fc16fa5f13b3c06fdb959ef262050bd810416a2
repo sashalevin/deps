@@ -1,0 +1,4 @@
+5fc16fa5f13b ("io_uring: check for non-NULL file pointer in io_file_can_poll()")
+95041b93e90a ("io_uring: add io_file_can_poll() helper")
+521223d7c229 ("io_uring/cancel: don't default to setting req->work.cancel_seq")
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")

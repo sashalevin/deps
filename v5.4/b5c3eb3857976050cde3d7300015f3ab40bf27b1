@@ -1,0 +1,8 @@
+b5c3eb385797 ("mmc: mmci: stm32: add delay block support for STM32MP25")
+83efc782dcb7 ("mmc: mmci: stm32: prepare other delay block support")
+16f2e6c01f1b ("mmc: mmci: stm32: set feedback clock when using delay block")
+36240ef8665b ("mmc: mmci: add hs200 support for stm32 sdmmc")
+ff31ee0a0f47 ("mmc: mmci: stm32: clear DLYB_CR after sending tuning command")
+1103f807a3b9 ("mmc: mmci_sdmmc: Add execute tuning with delay block")
+61a14e5299bd ("mmc: mmci: stm32: make sdmmc_idma_validate_data static")
+0e68de6aa7b1 ("mmc: mmci: sdmmc: add busy_complete callback")

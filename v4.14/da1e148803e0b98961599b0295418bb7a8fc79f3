@@ -1,0 +1,5 @@
+da1e148803e0 ("dm raid: fix incorrect sync_ratio when degraded")
+7c29744eccec ("dm raid: simplify rs_get_progress()")
+4102d9de6d37 ("dm raid: fix rs_get_progress() synchronization state/ratio")
+242ea5ad11a0 ("dm raid: avoid passing array_in_sync variable to raid_status() callees")
+67143510a7e3 ("dm raid: display a consistent copy of the MD status via raid_status()")

@@ -1,0 +1,6 @@
+030ce8ba97d2 ("block/rnbd: client device does not care queue/rotational")
+2e9e31bea019 ("rnbd: add error handling support for add_disk()")
+2c6ee0ae5fc7 ("rnbd: use blk_mq_alloc_disk and blk_cleanup_disk")
+292660fa35e8 ("block/rnbd: Fix style issues")
+d0a70ab10b9c ("block/rnbd-clt: Move add_disk(dev->gd) to rnbd_clt_setup_gen_disk")
+8b7f05114b34 ("block/rnbd-clt: Remove some arguments from rnbd_client_setup_device")

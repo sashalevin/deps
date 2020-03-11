@@ -1,0 +1,4 @@
+64f0f5d18a47 ("udp6: set rx_dst_cookie on rx_dst updates")
+c9f2c1ae123a ("udp6: fix socket leak on early demux")
+d24406c85d12 ("udp: call dst_hold_safe() in udp_sk_rx_set_dst()")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")

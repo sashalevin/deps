@@ -1,0 +1,8 @@
+1d094cefc37e ("kcsan: Fix encoding masks and regain address bit")
+5cbaefe9743b ("kcsan: Improve various small stylistic details")
+40d04110f879 ("x86, kcsan: Enable KCSAN for x86")
+bf07132f96d4 ("seqlock: Require WRITE_ONCE surrounding raw_seqcount_barrier")
+88ecd153be95 ("seqlock, kcsan: Add annotations for KCSAN")
+0ebba7141ead ("build, kcsan: Add KCSAN build exceptions")
+c48981eeb0d5 ("include/linux/compiler.h: Introduce data_race(expr) macro")
+dfd402a4c4ba ("kcsan: Add Kernel Concurrency Sanitizer infrastructure")

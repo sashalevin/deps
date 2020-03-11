@@ -1,0 +1,4 @@
+1f737846aa3c ("mm/shmem: inline shmem_is_huge() for disabled transparent hugepages")
+b4aca54792e7 ("smaps: fix defined but not used smaps_shmem_walk_ops")
+2cf1338454a8 ("mm: fix khugepaged with shmem_enabled=advise")
+7c6c6cc4d3a2 ("mm/shmem: add flag to enforce shmem THP in hugepage_vma_check()")

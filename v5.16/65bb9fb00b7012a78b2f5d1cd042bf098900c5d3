@@ -1,0 +1,7 @@
+65bb9fb00b70 ("btrfs: update comment for btrfs_set_inode_full_sync() about locking")
+23e3337faf73 ("btrfs: reset last_reflink_trans after fsyncing inode")
+d9ac19c38064 ("btrfs: add truncate control struct")
+7097a941bf75 ("btrfs: remove found_extent from btrfs_truncate_inode_items")
+9a4a1429acbe ("btrfs: move extent locking outside of btrfs_truncate_inode_items")
+54f03ab1e19b ("btrfs: move btrfs_truncate_inode_items to inode-item.c")
+26c2c4540d6d ("btrfs: add an inode-item.h")

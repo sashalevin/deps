@@ -1,0 +1,6 @@
+6d380132eaea ("spi: pxa2xx: Extract read_SSSR_bits() helper")
+42c80cd439a9 ("spi: pxa2xx: Extract clear_SSCR1_bits() helper")
+41c9884170c5 ("spi: pxa2xx: Introduce is_mmp2_ssp() helper")
+29d7e05c5f75 ("spi: pxa2xx: Avoid touching SSCR0_SSE on MMP2")
+823918561918 ("spi: pxa2xx: Deal with the leftover garbage in TXFIFO")
+ec93cb6f827b ("spi: pxa2xx: Add slave mode support")

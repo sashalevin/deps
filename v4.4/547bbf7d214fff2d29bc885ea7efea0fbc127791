@@ -1,0 +1,4 @@
+547bbf7d214f ("kernel: printk: delete repeated words in comments")
+257ab443118b ("printk: Correctly handle preemption in console_unlock()")
+a8199371afc2 ("printk: move can_use_console() out of console_trylock_for_printk()")
+8d91f8b15361 ("printk: do cond_resched() between lines while outputting to consoles")

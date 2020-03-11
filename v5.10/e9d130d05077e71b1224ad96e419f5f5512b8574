@@ -1,0 +1,4 @@
+e9d130d05077 ("make retain_dentry() neutral with respect to refcounting")
+6511f6be777f ("__dput_to_list(): do decrement of refcount in the callers")
+15f23734a1de ("fast_dput(): new rules for refcount")
+3fcf535626a4 ("centralize killing dentry from shrink list")

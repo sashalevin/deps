@@ -1,0 +1,5 @@
+5dfc79b20e46 ("tools/nolibc: string: Remove the `_nolibc_memcpy_down()` function")
+553845eebd60 ("tools/nolibc: x86-64: Use `rep movsb` for `memcpy()` and `memmove()`")
+fddc8f81f1cc ("tools/nolibc: use C89 comment syntax")
+69f2cd9fea01 ("tools/nolibc: add testcases for vfprintf")
+e7654c3fbdb3 ("tools/nolibc: tests: use volatile to force stack smashing")

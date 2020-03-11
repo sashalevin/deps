@@ -1,0 +1,7 @@
+ed4cad33df9e ("iavf: add iavf_schedule_aq_request() helper")
+c34743daca0e ("iavf: fix reset task race with iavf_remove()")
+d1639a17319b ("iavf: fix a deadlock caused by rtnl and driver's lock circular dependencies")
+c2ed2403f12c ("iavf: Wait for reset in callbacks which trigger it")
+7c4bced3caa7 ("iavf: Fix out-of-bounds when setting channels on remove")
+a4aadf0f5905 ("iavf: make functions static where possible")
+c37cf54c12cf ("iavf: remove mask from iavf_irq_enable_queues()")

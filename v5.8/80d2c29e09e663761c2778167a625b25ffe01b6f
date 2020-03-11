@@ -1,0 +1,5 @@
+80d2c29e09e6 ("regulator: core: Use ktime_get_boottime() to determine how long a regulator was off")
+218320fec294 ("regulator: core: Fix off-on-delay-us for always-on/boot-on regulators")
+261f06315cf7 ("regulator: Flag uncontrollable regulators as always_on")
+a8ce7bd89689 ("regulator: core: Fix off_on_delay handling")
+a5ccccb3ec0b ("regulator: core: Respect off_on_delay at startup")

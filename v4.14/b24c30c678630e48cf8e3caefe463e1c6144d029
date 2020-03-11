@@ -1,0 +1,8 @@
+b24c30c67863 ("proc "seq files": switch to ->read_iter")
+d56c0d45f0e2 ("proc: decouple proc from VFS with "struct proc_ops"")
+9af27b28b1da ("fs/proc/inode.c: use typeof_member() macro")
+1fde6f21d90f ("proc: fix /proc/net/* after setns(2)")
+2cd36fb32948 ("proc: test /proc/thread-self symlink")
+61d47c4e71c1 ("proc: test /proc/self symlink")
+877f919e192a ("proc: add proc_seq_release")
+35773c93817c ("Merge branch 'afs-proc' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

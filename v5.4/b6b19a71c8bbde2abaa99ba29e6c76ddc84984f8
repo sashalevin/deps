@@ -1,0 +1,4 @@
+b6b19a71c8bb ("ptp: free 'vclock_index' in ptp_clock_release()")
+4225fea1cb28 ("ptp: Fix possible memory leak in ptp_clock_register()")
+75718584cb3c ("ptp: free ptp device pin descriptors properly")
+a33121e5487b ("ptp: fix the race between the release of ptp_clock and cdev")

@@ -1,0 +1,6 @@
+847c5bcdfb41 ("block: skip QUEUE_FLAG_STATS and rq-qos for passthrough io")
+4cddeacad6d4 ("Revert "block: inherit request start time from bio for BLK_CGROUP"")
+000670772323 ("block: inherit request start time from bio for BLK_CGROUP")
+3d2443069407 ("block: make rq sector size accessible for block stats")
+e504545446e4 ("blk-rq-qos: inline check for q->rq_qos functions")
+d53375608ebf ("block: remove the unused lock argument to rq_qos_throttle")

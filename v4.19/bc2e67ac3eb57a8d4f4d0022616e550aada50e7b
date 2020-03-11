@@ -1,0 +1,8 @@
+bc2e67ac3eb5 ("fbdev: ssd1307fb: Print the PWM's label instead of its number")
+a9d887dc1c60 ("pwm: Convert period and duty cycle to u64")
+479382360da6 ("video: ssd1307fb: Convert to atomic PWM API")
+3ad1f3a33286 ("pwm: Implement some checks for lowlevel drivers")
+1188829abc2a ("pwm: Implement tracing for .get_state() and .apply_state()")
+cfc4c189bc70 ("pwm: Read initial hardware state at request time")
+40a6b9a00930 ("Revert "pwm: Let pwm_get_state() return the last implemented state"")
+e37e3bc7e265 ("Merge tag 'pwm/for-5.4-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/thierry.reding/linux-pwm")

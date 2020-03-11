@@ -1,0 +1,6 @@
+6eb203e1a868 ("iov_iter: remove iov_iter_iovec()")
+de4f5fed3f23 ("iov_iter: add iter_iovec() helper")
+0a2481cde24f ("block: ensure bio_alloc_map_data() deals with ITER_UBUF correctly")
+d46aa786fa53 ("block: use iter_ubuf for single range")
+4b61152e107a ("io_uring: switch network send/recv to ITER_UBUF")
+54e60e505d61 ("Merge tag 'for-6.2/io_uring-2022-12-08' of git://git.kernel.dk/linux")

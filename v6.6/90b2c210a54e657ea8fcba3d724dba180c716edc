@@ -1,0 +1,8 @@
+90b2c210a54e ("perf parse-events: Avoid copying an empty list")
+63dfcde9779b ("perf parse-events: Directly pass PMU to parse_events_add_pmu()")
+8b734eaa98ac ("perf parse-events: Factor out '<event_or_pmu>/.../' parsing")
+a24d9d9dc096 ("perf parse-events: Make legacy events lower priority than sysfs/JSON")
+0d3f0e6f94ef ("perf parse-events: Introduce 'struct parse_events_terms'")
+727adeed06e8 ("perf parse-events: Copy fewer term lists")
+8f91662ef8be ("perf parse-events: Tidy up str parameter")
+6fcfe54d2c91 ("perf parse-events: Remove unnecessary __maybe_unused")

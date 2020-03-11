@@ -1,0 +1,7 @@
+89cdd4dee1f0 ("drm/msm/dsi: remove msm_dsi::encoder")
+51c139615b33 ("drm/msm/dsi: stop calling set_split_display")
+ec97f371895f ("drm/msm/dsi: do not store internal bridge pointer")
+5f403fd7d5c2 ("drm/msm/dsi: switch to devm_drm_bridge_add()")
+d8dd416cb420 ("drm/msm/dsi: More properly handle errors in regards to dsi_mgr_bridge_power_on()")
+9e15123eca79 ("drm/msm/dsi: Stop unconditionally powering up DSI hosts at modeset")
+e512ed607fda ("drm/msm/dsi: drop modeset sanity checks")

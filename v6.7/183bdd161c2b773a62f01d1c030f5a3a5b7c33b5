@@ -1,0 +1,5 @@
+183bdd161c2b ("KVM: x86: Use KVM-governed feature framework to track "LAM enabled"")
+3098e6eca88e ("KVM: x86: Virtualize LAM for user pointer")
+93d1c9f498a7 ("KVM: x86: Virtualize LAM for supervisor pointer")
+b39bd520a60c ("KVM: x86: Untag addresses for LAM emulation where applicable")
+2c49db455ee2 ("KVM: x86: Add & use kvm_vcpu_is_legal_cr3() to check CR3's legality")

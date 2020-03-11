@@ -1,0 +1,6 @@
+8169bd3e6e19 ("platform/x86: intel-vbtn: Switch to an allow-list for SW_TABLET_MODE reporting")
+cfae58ed681c ("platform/x86: intel-vbtn: Only blacklist SW_TABLET_MODE on the 9 / "Laptop" chasis-type")
+1fac39fd0316 ("platform/x86: intel-vbtn: Also handle tablet-mode switch on "Detachable" and "Portable" chassis-types")
+990fbb48067b ("platform/x86: intel-vbtn: Do not advertise switches to userspace if they are not there")
+f6ba524970c4 ("platform/x86: intel-vbtn: Split keymap into buttons and switches parts")
+18937875a231 ("platform/x86: intel-vbtn: Use acpi_evaluate_integer()")

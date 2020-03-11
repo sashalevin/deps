@@ -1,0 +1,7 @@
+72915994e028 ("video: ssd1307fb: Make use of device properties")
+de6786bee48e ("video: ssd1307fb: Add devicetree configuration of display setup")
+ed1dc7d56578 ("video: ssd1307fb: Use screen_buffer instead of screen_base")
+ba14301e0356 ("fbdev/ssd1307fb: add support to enable VBAT")
+fdde1a8148d8 ("fbdev: ssd1307fb: Make reset gpio devicetree property optional")
+519b4dba5861 ("fbdev: ssd1307fb: Remove reset-active-low from the DT binding document")
+72db33355c14 ("fbdev: ssd1307fb: Start to use gpiod API for reset gpio")

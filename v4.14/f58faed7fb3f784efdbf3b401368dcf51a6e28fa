@@ -1,0 +1,4 @@
+f58faed7fb3f ("perf bench: Fix numa bench to fix usage of affinity for machines with #CPUs > 1K")
+2db13a9b30f7 ("perf bench numa: Use numa_node_to_cpus() to bind tasks to nodes")
+509f68e327d0 ("perf bench numa: Fix cpumask memory leak in node_has_cpus()")
+321a7c35c90c ("perf bench numa: Fixup discontiguous/sparse numa nodes")

@@ -1,0 +1,7 @@
+19d8a4e3d91f ("drm/radeon: Use drm_fb_helper_fill_info")
+8782c647aec4 ("drm/fbdev: Make skip_vt_switch the default")
+9a0f0c9d0c9d ("drm/radeon: radeon_framebuffer -> drm_framebuffer")
+a110dfe3ab28 ("drm/radeon: Move GEM BO to drm_framebuffer")
+3997eea57caf ("drm/radeon: Use drm_fb_helper_lastclose() and _poll_changed()")
+18c437caa5b1 ("Revert "drm/radeon: dont switch vt on suspend"")
+e97f12f35977 ("radeon: Only destroy fbdev framebuffer if it was initialized")

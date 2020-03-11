@@ -1,0 +1,4 @@
+75dbb685f4e8 ("libceph: fix potential use-after-free on linger ping and resends")
+042f649810f6 ("libceph: just have osd_req_op_init() return a pointer")
+5133ba8f1591 ("libceph: use target_copy() in send_linger()")
+78beb0ff2fec ("ceph: use copy-from2 op in copy_file_range")

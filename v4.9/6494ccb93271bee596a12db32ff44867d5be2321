@@ -1,0 +1,6 @@
+6494ccb93271 ("rcu: Remove spurious instrumentation_end() in rcu_nmi_enter()")
+b58e733fd774 ("rcu: Fixup noinstr warnings")
+aaf2bc50df1f ("rcu: Abstract out rcu_irq_enter_check_tick() from rcu_nmi_enter()")
+ff5c4f5cad33 ("rcu/tree: Mark the idle relevant functions noinstr")
+69ea03b56ed2 ("hardirq/nmi: Allow nested nmi_enter()")
+1ed0948eea07 ("Merge tag 'noinstr-lds-2020-05-19' into core/rcu")

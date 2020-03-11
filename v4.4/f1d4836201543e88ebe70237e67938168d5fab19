@@ -1,0 +1,7 @@
+f1d483620154 ("arm64/efi: fix variable 'si' set but not used")
+57fdb89aeb7b ("arm64/efi/libstub: Make screen_info accessible to the UEFI stub")
+1fd55a9a09b0 ("arm64/efi: Apply strict permissions to UEFI Runtime Services regions")
+75feee3d9d51 ("arm64: hide __efistub_ aliases from kallsyms")
+f7d924894265 ("arm64/efi: refactor EFI init and runtime code for reuse by 32-bit ARM")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

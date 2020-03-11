@@ -1,0 +1,5 @@
+30b31b29a866 ("spi: mt7621: Use devm_spi_register_controller()")
+3d6af96814d7 ("spi: mt7621: Use the devm_clk_get_enabled() helper to simplify error handling")
+2b2bf6b7faa9 ("spi: mt7621: Fix an error message in mt7621_spi_probe()")
+46b5c4fb87ce ("spi: mt7621: Don't leak SPI master in probe error path")
+24f7033405ab ("spi: mt7621: Disable clock in probe error path")

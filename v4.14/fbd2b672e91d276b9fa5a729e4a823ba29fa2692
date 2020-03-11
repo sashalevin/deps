@@ -1,0 +1,6 @@
+fbd2b672e91d ("powerpc/smp: Rename init_thread_group_l1_cache_map() to make it generic")
+1fdc1d6632ff ("powerpc/smp: Rename cpu_l1_cache_map as thread_group_l1_cache_map")
+790a1662d3a2 ("powerpc/smp: Parse ibm,thread-groups with multiple properties")
+661e3d42f991 ("powerpc/smp: Depend on cpu_l1_cache_map when adding CPUs")
+6e086302816b ("powerpc/smp: Allocate cpumask only after searching thread group")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")

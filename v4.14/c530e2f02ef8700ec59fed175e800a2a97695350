@@ -1,0 +1,4 @@
+c530e2f02ef8 ("powerpc/kprobes: Remove jprobe powerpc implementation")
+3368f5699a9b ("powerpc/jprobes: Validate break handler invocation as being due to a jprobe_return()")
+c179ea270100 ("powerpc/kprobes: Fix warnings from __this_cpu_read() on preempt kernels")
+bf3a91251735 ("powerpc/kprobes: Clean up jprobe detection in livepatch handler")

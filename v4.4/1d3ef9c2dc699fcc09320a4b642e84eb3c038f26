@@ -1,0 +1,8 @@
+1d3ef9c2dc69 ("arm-cci: pmu: Fix typo in event name")
+3d2e870137c0 ("arm-cci500: Rearrange PMU driver for code sharing with CCI-550 PMU")
+a445fcc9979a ("arm-cci: CCI-500: Work around PMU counter writes")
+fff3f1a03ac0 ("arm-cci: Provide hook for writing to PMU counters")
+c66eea5f9f55 ("arm-cci: Delay PMU counter writes to pmu::pmu_enable")
+a077c52f349f ("arm-cci: Refactor CCI PMU enable/disable methods")
+a53eb5c62f21 ("arm-cci: Group writes to counter")
+5e442eba342e ("arm-cci: simplify sysfs attr handling")

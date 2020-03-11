@@ -1,0 +1,4 @@
+1aeef38c6a4a ("leds: lm36274: use struct led_init_data when registering")
+a448fcf19c9c ("leds: lm36274: don't iterate through children since there is only one")
+d3ab963cf980 ("leds: lm36274: cosmetic: rename lm36274_data to chip")
+a0972fff0947 ("leds: lm36274: fix use-after-free on unbind")

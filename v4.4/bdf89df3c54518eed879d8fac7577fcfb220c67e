@@ -1,0 +1,5 @@
+bdf89df3c545 ("x86/microcode/AMD: Increase microcode PATCH_MAX_SIZE")
+76bd11c23aaa ("x86/microcode/amd: Move private inlines to .c and mark local functions static")
+b3763a672dc0 ("x86/microcode/amd: Hand down the CPU family")
+a13004a2449c ("x86/microcode/AMD: Make amd_ucode_patch[] static")
+fa6788b8c681 ("x86/microcode: Propagate save_microcode_in_initrd() retval")

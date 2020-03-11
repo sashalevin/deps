@@ -1,0 +1,4 @@
+eaf86e8cc85c ("xprtrdma: Improve locking around rpcrdma_rep destruction")
+85810388a9dd ("xprtrdma: Destroy rpcrdma_rep when Receive is flushed")
+671c450b6fe0 ("xprtrdma: Fix oops in Receive handler after device removal")
+a31b2f939219 ("xprtrdma: Connection becomes unstable after a reconnect")

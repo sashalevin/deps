@@ -1,0 +1,8 @@
+fe97f59a78fe ("PCI/MSI: Check for MSI enabled in __pci_msix_enable()")
+288c81ce4be7 ("PCI/MSI: Move code into a separate directory")
+b7da3d4df052 ("PCI: Allow building PCIe things without PCIEPORTBUS")
+4e6b26d23dc1 ("PCI/MSI: Remove obsolete sanity checks for multiple interrupt sets")
+6da4b3ab9a6e ("genirq/affinity: Add support for allocating interrupt sets")
+060746d9e394 ("genirq/affinity: Pass first vector to __irq_build_affinity_masks()")
+5c903e108d0b ("genirq/affinity: Move two stage affinity spreading into a helper function")
+4c1ef72e9b71 ("PCI/MSI: Warn and return error if driver enables MSI/MSI-X twice")

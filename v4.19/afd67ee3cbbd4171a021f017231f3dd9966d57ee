@@ -1,0 +1,4 @@
+afd67ee3cbbd ("KVM: x86: Don't update vcpu->arch.pv_eoi.msr_val when a bogus value was written to MSR_KVM_PV_EOI_EN")
+a7c42bb6da6b ("x86/kvm/lapic: preserve gfn_to_hva_cache len on cache reinit")
+72bbf9358c36 ("KVM: hyperv: define VP assist page helpers")
+1779a39f7863 ("KVM: x86: hyperv: consistently use 'hv_vcpu' for 'struct kvm_vcpu_hv' variables")

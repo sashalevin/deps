@@ -1,0 +1,7 @@
+bc581dbab26e ("powerpc/signal: Fix possible build failure with unsafe_copy_fpr_{to/from}_user")
+609355dfc88e ("powerpc/signal: Add unsafe_copy_{vsx, fpr}_from_user()")
+b3484a1d4d1f ("powerpc/signal: Create 'unsafe' versions of copy_[ck][fpr/vsx]_to_user()")
+b6254ced4da6 ("powerpc/signal: Don't manage floating point regs when no FPU")
+4d90eb97e292 ("powerpc/ptrace: Create ptrace_get_fpr() and ptrace_put_fpr()")
+e009fa433542 ("powerpc/ptrace: Consolidate reg index calculation")
+95593e930d7d ("powerpc/signal: Move inline functions in signal.h")

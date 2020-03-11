@@ -1,0 +1,6 @@
+fb9f7190092d ("bnxt: count Tx drops")
+e8d8c5d80f5e ("bnxt: make sure xmit_more + errors does not miss doorbells")
+3c603136c9f8 ("bnxt: don't lock the tx queue from napi poll")
+132e0b65dc2b ("bnxt_en: reverse order of TX disable and carrier off")
+8fb35cd302f7 ("bnxt_en: Set driver default message level.")
+8fbf58e17dce ("bnxt_en: Implement RX ring reset in response to buffer errors.")

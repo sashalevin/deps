@@ -1,0 +1,6 @@
+9eea577eb115 ("net: phy: extend PHY package API to support multiple global address")
+ebb30ccbbdbd ("net: phy: make addr type u8 in phy_package_shared struct")
+60495b6622ca ("net: phy: provide phylib stubs for hardware timestamping operations")
+70ef7d87f62a ("net: transfer rtnl_lock() requirement from ethtool_set_ethtool_phy_ops() to caller")
+1c613beaf877 ("net: phy: prevent stale pointer dereference in phy_init()")
+4069a572d423 ("net: phy: Document core PHY structures")

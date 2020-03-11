@@ -1,0 +1,4 @@
+816e3599ca9b ("xfs: don't free post-EOF blocks on read close")
+5d3ca6261121 ("xfs: refactor f_op->release handling")
+6e13dbebd518 ("xfs: remove the i_mode check in xfs_release")
+610b29161b0a ("xfs: fix freeing speculative preallocations for preallocated files")

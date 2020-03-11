@@ -1,0 +1,7 @@
+901849e7070b ("gfs2: Add gfs2_aspace_writepages()")
+50fabd42cb2f ("gfs2: Convert gfs2_aspace_writepage() to use a folio")
+e45c20d11041 ("gfs2: Convert to release_folio")
+5f4b297684a7 ("gfs2: Convert invalidatepage to invalidate_folio")
+7ba13abbd31e ("fs: Turn block_invalidatepage into block_invalidate_folio")
+128d1f8241d6 ("fs: Add invalidate_folio() aops method")
+5ad6b2bdaaea ("fs: Turn do_invalidatepage() into folio_invalidate()")

@@ -1,0 +1,6 @@
+a7008584ab19 ("crypto: api - optimize algorithm registration when self-tests disabled")
+d6097b8d5d55 ("crypto: api - allow algs only in specific constructions in FIPS mode")
+beaaaa37c664 ("crypto: api - Fix boot-up crash when crypto manager is disabled")
+cad439fc040e ("crypto: api - Do not create test larvals if manager is disabled")
+adad556efcdd ("crypto: api - Fix built-in testing dependency failures")
+1dbb920e342c ("crypto: algapi - Move crypto_yield into internal.h")

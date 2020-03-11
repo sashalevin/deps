@@ -1,0 +1,7 @@
+79bc3f85c51f ("riscv: correct riscv_insn_is_c_jr() and riscv_insn_is_c_jalr()")
+c9c1af3f186a ("RISC-V: rename parse_asm.h to insn.h")
+ec5f90877516 ("RISC-V: Move riscv_insn_is_* macros into a common header")
+33e41480b233 ("RISC-V: detach funct-values from their offset")
+bf0cc402d7cd ("RISC-V: add prefix to all constants/macros in parse_asm.h")
+a3775634f6da ("RISC-V: fix funct4 definition for c.jalr in parse_asm.h")
+c22b0bcb1dd0 ("riscv: Add kprobes supported")

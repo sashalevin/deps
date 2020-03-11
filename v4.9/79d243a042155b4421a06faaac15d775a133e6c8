@@ -1,0 +1,5 @@
+79d243a04215 ("x86/boot/64: Rename start_cpu()")
+31dcfec11f82 ("x86/boot/64: Push correct start_cpu() return address")
+ec2d86a9b646 ("x86/boot/64: Use 'push' instead of 'call' in start_cpu()")
+595c1e645d9f ("x86/boot/64: Put a real return address on the idle task stack")
+a9468df5ad48 ("x86/boot/64: Use a common function for starting CPUs")

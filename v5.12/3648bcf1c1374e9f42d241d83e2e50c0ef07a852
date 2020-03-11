@@ -1,0 +1,8 @@
+3648bcf1c137 ("scsi: qla2xxx: Increase max limit of ql2xnvme_queues")
+db212f2eb3fb ("scsi: qla2xxx: Fix loss of NVMe namespaces after driver reload test")
+65120de26a54 ("scsi: qla2xxx: Add ql2xnvme_queues module param to configure number of NVMe queues")
+2b2af50ae836 ("qla2xxx: add ->map_queues support for nvme")
+4a0a542fe5e4 ("scsi: qla2xxx: Changes to support kdump kernel for NVMe BFS")
+7ebb336e45ef ("scsi: qla2xxx: edif: Add start + stop bsgs")
+f7a0ed479e66 ("scsi: qla2xxx: Fix crash in PCIe error handling")
+5777fef788a5 ("scsi: qla2xxx: Consolidate zio threshold setting for both FCP & NVMe")

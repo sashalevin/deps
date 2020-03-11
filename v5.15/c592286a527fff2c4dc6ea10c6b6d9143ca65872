@@ -1,0 +1,7 @@
+c592286a527f ("net: dpaa2-mac: use .mac_select_pcs() interface")
+e7026f15564f ("net: phy: lynx: refactor Lynx PCS module to use generic phylink_pcs")
+49af6a7620c5 ("net: dsa: ocelot: felix: Remove requirement for PCS in felix devices")
+6d386f661326 ("net: dpaa2-mac: use phylink_generic_validate()")
+22de481d23c9 ("net: dpaa2-mac: remove interface checks in dpaa2_mac_validate()")
+15d0b14cec1c ("net: dpaa2-mac: populate supported_interfaces member")
+14ad41c74f6b ("net: ethernet: use phylink_set_10g_modes()")

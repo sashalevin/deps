@@ -1,0 +1,5 @@
+c766ee72235d ("powerpc: handover page flags with a pgprot_t parameter")
+56f3c1413f5c ("powerpc/mm: properly set PAGE_KERNEL flags in ioremap()")
+86c391bd5f47 ("powerpc/32: Add ioremap_wt() and ioremap_coherent()")
+5f356497c384 ("powerpc/8xx: remove unused _PAGE_WRITETHRU")
+2a45addd21de ("powerpc/8xx: Remove CPU6 ERRATA Workaround")

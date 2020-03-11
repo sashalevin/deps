@@ -1,0 +1,6 @@
+3036ec599332 ("arm64: kexec: Use dcache ops macros instead of open-coding")
+163d3f80695e ("arm64: dcache_by_line_op to take end parameter instead of size")
+06b7a568ca5e ("arm64: Move documentation of dcache_by_line_op")
+116b7f559492 ("arm64: Do not enable uaccess for flush_icache_range")
+d11b187760f5 ("arm64: assembler: add conditional cache fixups")
+e89d6cc51034 ("arm64: assembler: replace `kaddr` with `addr`")

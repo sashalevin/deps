@@ -1,0 +1,6 @@
+9636f055dae1 ("mm/treewide: remove pXd_huge()")
+460b9adc05d7 ("mm/powerpc: redefine pXd_huge() with pXd_leaf()")
+961a6ee5c775 ("mm/arm64: merge pXd_huge() and pXd_leaf() definitions")
+6818135dea59 ("mm/arm: redefine pmd_huge() with pmd_leaf()")
+ae798490ec20 ("mm/sparc: change pXd_huge() behavior to exclude swap entries")
+d0973cb9b475 ("mm/x86: change pXd_huge() behavior to exclude swap entries")

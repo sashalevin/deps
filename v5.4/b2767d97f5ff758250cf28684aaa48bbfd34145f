@@ -1,0 +1,4 @@
+b2767d97f5ff ("binfmt_elf: take the mmap lock around find_extend_vma()")
+03c6d723eeac ("fs/binfmt_elf.c: better codegen around current->mm")
+a62c5b1b6647 ("fs/binfmt_elf.c: don't copy ELF header around")
+1f83d80677a2 ("fs/binfmt_elf.c: smaller code generation around auxv vector fill")

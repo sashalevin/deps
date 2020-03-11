@@ -1,0 +1,4 @@
+c14b65feac9e ("serial: 8250_dw: Revert "Improve clock rate setting"")
+de9e33bdfa22 ("serial: 8250_dw: Improve clock rate setting")
+b15bfbe64277 ("serial: 8250_dw: Fix breakage when HAVE_CLK=n")
+09498087f922 ("serial: 8250_dw: Honor clk_round_rate errors in dw8250_set_termios")

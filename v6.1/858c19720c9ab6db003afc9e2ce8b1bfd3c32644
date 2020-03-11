@@ -1,0 +1,8 @@
+858c19720c9a ("drm/i915/display: Use _PICK_EVEN_2RANGES() in DP AUX regs")
+dff869020b5c ("drm/i915/display: Fix style and conventions for DP AUX regs")
+0cad796a2269 ("drm/i915: Use REG_BIT() & co. for AUX CH registers")
+26bfc3f36f21 ("drm/i915: Explain the magic numbers for AUX SYNC/precharge length")
+605f7c731333 ("drm/i915: Fix fast wake AUX sync len")
+89e790ec1a1e ("drm/i915/aux: split out DP AUX regs to a separate file")
+99417adb60e0 ("drm/i915/dpio: move dpio_channel and dpio_phy enums to intel_dpio_phy.h")
+2461bdb35e8a ("drm/i915/dpio: un-inline the vlv phy/channel mapping functions")

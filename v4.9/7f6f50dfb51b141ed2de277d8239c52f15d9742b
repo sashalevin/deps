@@ -1,0 +1,8 @@
+7f6f50dfb51b ("pinctrl: mcp23s08: Improve unlocking of a mutex in mcp23s08_irq()")
+8f38910ba4f6 ("pinctrl: mcp23s08: switch to regmap caching")
+d795cb51dfee ("pinctrl: mcp23s08: drop pullup config from pdata")
+82039d244f87 ("pinctrl: mcp23s08: add pinconf support")
+64ac43e6fa28 ("gpio: mcp23s08: move to pinctrl")
+2cd29f2387be ("gpio:mcp23s08 Fixed missing interrupts")
+e8e1a5b5679b ("gpio: mcp23s08: Select REGMAP/REGMAP_I2C to fix build error")
+3d84fdb3f0b5 ("gpio: mcp23s08: use regmap")

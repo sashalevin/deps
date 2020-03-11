@@ -1,0 +1,4 @@
+a506d6ce1dd1 ("libbpf: Fix ld_imm64 copy logic for ksym in light skeleton.")
+d995816b77eb ("libbpf: Avoid reload of imm for weak, unresolved, repeating ksym")
+0270090d396a ("libbpf: Avoid double stores for success/failure case of ksym relocations")
+585a3571981d ("libbpf: Add weak ksym support to gen_loader")

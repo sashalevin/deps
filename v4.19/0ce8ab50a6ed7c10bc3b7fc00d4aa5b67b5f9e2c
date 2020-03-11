@@ -1,0 +1,7 @@
+0ce8ab50a6ed ("scsi: qla2xxx: Don't check for fw_started while posting NVMe command")
+305c16ce2632 ("scsi: qla2xxx: Return EBUSY on fcport deletion")
+b994718760fa ("scsi: qla2xxx: Use constant when it is known")
+a35f87bdcc06 ("scsi: qla2xxx: Fix I/O errors during LIP reset tests")
+83949613fac6 ("scsi: qla2xxx: Fix null pointer access during disconnect from subsystem")
+2eb9238affa7 ("scsi: qla2xxx: on session delete, return nvme cmd")
+5e6803b409ba ("scsi: qla2xxx: Fix NPIV handling for FC-NVMe")

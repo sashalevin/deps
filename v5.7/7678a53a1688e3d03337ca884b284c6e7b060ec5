@@ -1,0 +1,6 @@
+7678a53a1688 ("x86/cpu: Clarify the error message when BIOS does not support SGX")
+332bfc7becf4 ("x86/cpu/intel: Allow SGX virtualization without Launch Control support")
+e9a15a40e857 ("x86/cpufeatures: Make SGX_LC feature bit depend on SGX bit")
+38853a303982 ("x86/cpu/intel: Add a nosgx kernel parameter")
+224ab3527f89 ("x86/cpu/intel: Detect SGX support")
+e48cb1a3fb91 ("x86/resctrl: Enumerate per-thread MBA controls")

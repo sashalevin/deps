@@ -1,0 +1,7 @@
+1f043572cbbe ("tty: serial: imx: remove imx_disable_rx_int")
+4139fd76cd92 ("serial: imx: only set dma_is_rxing when DMA starts")
+6376cd39ea0b ("serial: imx: Enable RTSD only when needed")
+4dec2f119e86 ("imx-serial: RX DMA startup latency")
+18a4208826dd ("imx-serial: Reduce RX DMA startup latency when opening for reading")
+41d98b5da92f ("serial: imx-serial - update RX error counters when DMA is used")
+9d297239b8cb ("serial: imx-serial - update UART IMX driver to use cyclic DMA")

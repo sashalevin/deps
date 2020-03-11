@@ -1,0 +1,5 @@
+1e0f42985ffa ("KVM: x86/mmu: Bypass __handle_changed_spte() when clearing TDP MMU dirty bits")
+cf05e8c7325e ("KVM: x86/mmu: Drop access tracking checks when clearing TDP MMU dirty bits")
+89c313f20c1e ("KVM: x86/mmu: Atomically clear SPTE dirty state in the clear-dirty-log flow")
+697c89bed94e ("KVM: x86/mmu: Consolidate Dirty vs. Writable clearing logic in TDP MMU")
+5982a5392663 ("KVM: x86/mmu: Use kvm_ad_enabled() to determine if TDP MMU SPTEs need wrprot")

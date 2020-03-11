@@ -1,0 +1,4 @@
+3e0fcb782a9f ("i40e: Remove unnecessary synchronize_irq() before free_irq()")
+d34c54d1739c ("i40e: Use irq_update_affinity_hint()")
+be664cbefc50 ("i40e/i40evf: spread CPU affinity hints across online CPUs only")
+c17401a1dd21 ("i40e: use separate state bit for miscellaneous IRQ setup")

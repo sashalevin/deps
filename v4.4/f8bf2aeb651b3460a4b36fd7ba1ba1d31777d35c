@@ -1,0 +1,8 @@
+f8bf2aeb651b ("PCI: Fix pci_add_dma_alias() bitmask size")
+2209e06f8a85 ("PCI: Add missing include to drivers/pci.h")
+c6635792737b ("PCI: Allocate dma_alias_mask with bitmap_zalloc()")
+cc10385b6fde ("PCI: Move config space size macros to pci_regs.h")
+338c3149a221 ("PCI: Add support for multiple DMA aliases")
+48c830809ce6 ("PCI: Move informational printk to pci_add_dma_alias()")
+f0af9593372a ("PCI: Add pci_add_dma_alias() to abstract implementation")
+345d710491e2 ("vfio/pci: Enable virtual register in PCI config space")

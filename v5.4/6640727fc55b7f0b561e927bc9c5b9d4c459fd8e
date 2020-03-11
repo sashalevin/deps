@@ -1,0 +1,5 @@
+6640727fc55b ("parport_pc: Let chipset drivers mask ECR bits on writes")
+f01dda1cb85e ("parport_pc: Let chipset drivers mask unsupported modes")
+1c4b7d967e8a ("parport_pc: Remove stale `parport_pc_ecp_read_block_pio' reference")
+7b3992572f4c ("parport_pc: Convert DPRINTK to pr_debug")
+decf26f6ec25 ("parport: Convert printk(KERN_<LEVEL> to pr_<level>(")

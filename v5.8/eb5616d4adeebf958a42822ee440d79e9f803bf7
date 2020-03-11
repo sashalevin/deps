@@ -1,0 +1,7 @@
+eb5616d4adee ("x86/ACPI: CPPC: Move init_freq_invariance_cppc() into x86 CPPC")
+82d89369141b ("x86/ACPI: CPPC: Move AMD maximum frequency ratio setting function into x86 CPPC")
+3743d55b289c ("x86, sched: Fix the AMD CPPC maximum performance value on certain AMD Ryzen generations")
+3c55e94c0ade ("cpufreq: ACPI: Extend frequency tables to cover boost frequencies")
+976df7e5730e ("x86, sched: Use midpoint of max_boost and max_P for frequency invariance on AMD EPYC")
+41ea667227ba ("x86, sched: Calculate frequency invariance for AMD systems")
+e2b0d619b400 ("x86, sched: check for counters overflow in frequency invariant accounting")

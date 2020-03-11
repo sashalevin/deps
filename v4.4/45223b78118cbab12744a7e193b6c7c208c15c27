@@ -1,0 +1,6 @@
+45223b78118c ("crypto: arm64/aes - do not call crypto_unregister_skcipher twice on error")
+4860620da7e5 ("crypto: arm64/aes - add NEON/Crypto Extensions CBCMAC/CMAC/XCBC driver")
+7f329c17427b ("crypto: arm/aes-ce - fix broken monolithic build")
+d0ed0db149fc ("crypto: arm64/aes - Convert to skcipher")
+2db34e78f126 ("crypto: arm64/aes-ctr - fix NULL dereference in tail processing")
+70477371dc35 ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

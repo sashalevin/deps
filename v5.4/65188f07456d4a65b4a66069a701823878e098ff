@@ -1,0 +1,8 @@
+65188f07456d ("clk: imx: gate2: Add locking in is_enabled op")
+bcd418a632b6 ("clk: imx: gate2: Add cgr_mask for more flexible number of control bits")
+03681d06a555 ("clk: imx: gate2: Check if clock is enabled against cgr_val")
+040adb5fe95a ("clk: imx: gate2: Keep the register writing in on place")
+12309428c277 ("clk: imx: gate2: Remove the IMX_CLK_GATE2_SINGLE_BIT special case")
+1e54afe9fcfe ("clk: imx: gate2: Allow single bit gating clock")
+79ccef698ac8 ("clk: imx: drop redundant initialization")
+f60f1c62c318 ("clk: imx: Add correct failure handling for clk based helpers")

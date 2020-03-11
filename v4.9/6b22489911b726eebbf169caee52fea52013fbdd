@@ -1,0 +1,7 @@
+6b22489911b7 ("ext4: do not try to set xattr into ea_inode if value is empty")
+b347e2bcd18e ("ext4: retry storing value in external inode with xattr block too")
+e50e5129f384 ("ext4: xattr-in-inode support")
+b8cb5a545c3d ("ext4: fix quota charging for shared xattr blocks")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+d7614cc16146 ("ext4: correctly detect when an xattr value has an invalid size")
+2f8f5e76c7da ("ext4: avoid lockdep warning when inheriting encryption context")

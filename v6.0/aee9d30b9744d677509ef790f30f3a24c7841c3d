@@ -1,0 +1,7 @@
+aee9d30b9744 ("x86,static_call: Fix static-call vs return-thunk")
+4ba89dd6ddec ("x86/alternatives: Remove faulty optimization")
+d2408e043e72 ("x86/alternative: Optimize returns patching")
+770ae1b70952 ("x86/returnthunk: Allow different return thunks")
+e81dc127ef69 ("x86/callthunks: Add call patching for call depth tracking")
+80e4c1cd42ff ("x86/retbleed: Add X86_FEATURE_CALL_DEPTH")
+3c516f89e17e ("x86: Add support for CONFIG_CFI_CLANG")

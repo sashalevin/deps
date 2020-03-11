@@ -1,0 +1,4 @@
+2aa6f5b0fd05 ("drm/syncobj: handle NULL fence in syncobj_eventfd_entry_func")
+c7a472297169 ("drm/syncobj: add IOCTL to register an eventfd")
+ec8d985ff26f ("drm: use dma_fence_unwrap_merge() in drm_syncobj")
+721255b52700 ("drm/syncobj: flatten dma_fence_chains on transfer")

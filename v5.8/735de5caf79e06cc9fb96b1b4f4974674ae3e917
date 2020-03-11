@@ -1,0 +1,7 @@
+735de5caf79e ("media: vb2: frame_vector.c: replace WARN_ONCE with a comment")
+6647e76ab623 ("v4l2: don't fall back to follow_pfn() if pin_user_pages_fast() fails")
+89ab2d39643e ("media: vb2: frame_vector.c: don't overwrite error code")
+49be780f7984 ("media: videobuf2: use vma_lookup() in get_vaddr_frames()")
+eb83b8e3e647 ("media: videobuf2: Move frame_vector into media subsystem")
+04769cb1c45a ("mm/frame-vector: Use FOLL_LONGTERM")
+3e9a9e256b1e ("mm: add a vmap_pfn function")

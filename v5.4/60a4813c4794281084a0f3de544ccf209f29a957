@@ -1,0 +1,6 @@
+60a4813c4794 ("s390: remove old CALL_ON_STACK() macro")
+41d71fe59cce ("s390: introduce proper type handling call_on_stack() macro")
+67147e96a332 ("s390/stack: fix possible register corruption with stack switch helper")
+4ac24c092b4e ("s390: fix register clobbering in CALL_ON_STACK")
+7bcaad1f9fac ("s390: avoid misusing CALL_ON_STACK for task stack setup")
+7579425777c0 ("s390: correct CALL_ON_STACK back_chain saving")

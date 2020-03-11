@@ -1,0 +1,8 @@
+0dffea1e2d76 ("drm/i915/xe2hpd: Configure CHICKEN_MISC_2 before enabling planes")
+3d0d33363cdf ("drm/i915: Fix up whitespace in some display chicken registers")
+fa9e4fce52ec ("drm/i915/vrr: Make delayed vblank operational in VRR mode on adl/dg2")
+c5de248484af ("drm/i915/dpt: Add a modparam to disable DPT via the chicken bit")
+5a08585d38d6 ("drm/i915: Add PLANE_CHICKEN registers")
+3f3fdc978b8d ("drm/i915: Define skl+ universal plane SURFLIVE registers")
+c640f6c5570a ("drm/i915: s/PIPEMISC/PIPE_MISC/")
+14c7b2451adc ("drm/i915: Stop using pipe_offsets[] for PIPE_MISC*")

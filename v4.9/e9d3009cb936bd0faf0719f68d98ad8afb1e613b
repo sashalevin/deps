@@ -1,0 +1,7 @@
+e9d3009cb936 ("scsi: target: iscsi: Wait for all commands to finish before freeing a session")
+ae072726f610 ("iscsi-target: Make TASK_REASSIGN use proper se_cmd->cmd_kref")
+3829f38169aa ("iscsi-target: Improve size determinations in four functions")
+c46e22f10612 ("iscsi-target: Delete error messages for failed memory allocations")
+f1725110324d ("iscsi-target: Use kcalloc() in iscsit_allocate_iovecs()")
+59b6986dbfcd ("target/iscsi: Fix iSCSI task reassignment handling")
+e381fe9e8990 ("target/iscsi: Introduce a helper function for TMF translation")

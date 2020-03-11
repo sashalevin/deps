@@ -1,0 +1,5 @@
+78352f73dc50 ("udp: never accept GSO_FRAGLIST packets")
+cf329aa42b66 ("udp: cope with UDP GRO packet misdirection")
+bcd1665e3569 ("udp: add support for UDP_GRO cmsg")
+e20cf8d3f1f7 ("udp: implement GRO for plain UDP sockets.")
+60fb9567bf30 ("udp: implement complete book-keeping for encap_needed")

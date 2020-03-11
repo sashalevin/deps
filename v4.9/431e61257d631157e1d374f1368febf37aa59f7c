@@ -1,0 +1,4 @@
+431e61257d63 ("md: export md_is_rdwr() and is_md_suspended()")
+16648bac862f ("md: stop using for_each_mddev in md_exit")
+cc1ffe61c026 ("md: add new workqueue for delete rdev")
+9356863c9409 ("md: ensure md devices are freed before module is unloaded.")

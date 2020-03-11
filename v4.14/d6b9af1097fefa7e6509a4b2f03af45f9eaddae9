@@ -1,0 +1,5 @@
+d6b9af1097fe ("drm/atomic-helper: Add helper drm_atomic_helper_check_crtc_state()")
+a01cb8ba3f62 ("drm: Move drm_plane_helper_check_state() into drm_atomic_helper.c")
+10b47ee02d1a ("drm: Check crtc_state->enable rather than crtc->enabled in drm_plane_helper_check_state()")
+58a275aa9564 ("drm/vmwgfx: Try to fix plane clipping")
+13dd5b62cee2 ("drm/vmwgfx: Use drm_plane_helper_check_state()")

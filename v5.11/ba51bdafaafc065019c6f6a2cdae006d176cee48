@@ -1,0 +1,5 @@
+ba51bdafaafc ("scsi: sr: cdrom: Move cdrom_read_cdda_bpc() into the sr driver")
+da6269da4cfe ("block: remove REQ_OP_SCSI_{IN,OUT}")
+8d663f34f8af ("blk-mq: bypass IO scheduler's limit_depth for passthrough request")
+684da7628d93 ("block: remove unnecessary argument from blk_execute_rq")
+8eeed0b554b9 ("block: remove unnecessary argument from blk_execute_rq_nowait")

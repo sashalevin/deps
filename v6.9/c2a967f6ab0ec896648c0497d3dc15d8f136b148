@@ -1,0 +1,3 @@
+c2a967f6ab0e ("mm/hugetlb_vmemmap: don't synchronize_rcu() without HVO")
+bd225530a4c7 ("mm/hugetlb_vmemmap: fix race with speculative PFN walkers")
+51718e25c53f ("mm: convert arch_clear_hugepage_flags to take a folio")

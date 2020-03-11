@@ -1,0 +1,6 @@
+50a260e85996 ("bcache: fix race in btree_flush_write()")
+41508bb7d46b ("bcache: add comments for mutex_lock(&b->write_lock)")
+e5ec5f4765ad ("bcache: only clear BTREE_NODE_dirty bit when it is set")
+249a5f6da57c ("bcache: Revert "bcache: fix high CPU occupancy during journal"")
+c4dc2497d50d ("bcache: fix high CPU occupancy during journal")
+a728eacbbdd2 ("bcache: add journal statistic")

@@ -1,0 +1,7 @@
+d56ee1ff3086 ("mmc: sdhci-pci: Respect PM flags when enabling card detect GPIO IRQ wakeup")
+e92cc35d627f ("mmc: sdhci-pci: Use device wakeup capability to determine MMC_PM_WAKE_SDIO_IRQ capability")
+5c3c6126b62d ("mmc: sdhci-pci: Stop calling sdhci_enable_irq_wakeups()")
+30cf2803b268 ("mmc: sdhci-pci: Let suspend/resume callbacks replace default callbacks")
+ac9f67b5800b ("mmc: sdhci-pci: Let devices define their own private data")
+d38dcad4e7b4 ("mmc: sdhci: Let drivers decide whether to use mmc_retune_needed() with pm")
+8f743d03948d ("mmc: sdhci-pci: Allow deferred probe for sd card detect gpio")

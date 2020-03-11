@@ -1,0 +1,5 @@
+bb056c0f080a ("tools: KVM: selftests: Convert clear/set_bit() to actual atomics")
+7f2b47f22b82 ("tools: Take @bit as an "unsigned long" in {clear,set}_bit() helpers")
+cf4694be2b2c ("tools: Add atomic_test_and_set_bit()")
+ed4aad50ea03 ("tools include: Provide gcc based cmpxchg fallback for !x86")
+8a73615df3b8 ("tools arch x86: Introduce atomic_cmpxchg()")

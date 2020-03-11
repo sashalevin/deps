@@ -1,0 +1,4 @@
+a3fc57bc49a2 ("uio: uio_dmem_genirq: Use non-atomic bit operations in irq config and handling")
+118b91801817 ("uio: uio_dmem_genirq: Fix deadlock between irq config and handling")
+9de255c461d1 ("uio: uio_dmem_genirq: Fix missing unlock in irq configuration")
+b74351287d4b ("uio: fix a sleep-in-atomic-context bug in uio_dmem_genirq_irqcontrol()")

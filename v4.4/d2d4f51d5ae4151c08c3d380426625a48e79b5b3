@@ -1,0 +1,8 @@
+d2d4f51d5ae4 ("drm/rockchip: Disallow PSR for the whole atomic commit")
+33e9d0382226 ("drm/rockchip: Use drm_fb_helper_lastclose() and _poll_changed()")
+81a099ac49db ("drm/atomic: implement drm_atomic_helper_commit_tail for runtime_pm users")
+0b20a0f8c3cb ("drm: Add old state pointer to CRTC .enable() helper function")
+4177b51e1949 ("drm: vmwgfx: Replace CRTC .commit() helper operation with .enable()")
+4e004f644bc4 ("drm: vmwgfx: Remove unneeded CRTC .prepare() helper operation")
+641164f23614 ("drm: qxl: Replace CRTC .commit() helper operation with .enable()")
+b740e76936c1 ("Merge remote-tracking branch 'airlied/drm-next' into drm-misc-next")

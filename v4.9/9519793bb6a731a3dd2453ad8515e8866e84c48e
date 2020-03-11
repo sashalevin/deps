@@ -1,0 +1,7 @@
+9519793bb6a7 ("hwspinlock: u8500: Convert to platform remove callback returning void")
+9d399f0c5295 ("hwspinlock: u8500_hsem: Remove redundant PM runtime implementation")
+acc98c1f2a1b ("hwspinlock: u8500_hsem: Use devm_hwspin_lock_register() to register hwlock controller")
+637bcd19beeb ("hwspinlock: u8500_hsem: Use devm_kzalloc() to allocate memory")
+5ee45e0c8946 ("hwspinlock: u8500_hsem: Change to use devm_platform_ioremap_resource()")
+acafe7e30216 ("treewide: Use struct_size() for kmalloc()-family")
+ca4e7c51201f ("Merge tag 'clk-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/clk/linux")

@@ -1,0 +1,8 @@
+6f9885a36c00 ("x86/unwind/fp: Fix FP unwinding in ret_from_fork")
+2fff071d28b5 ("x86/process: Unify copy_thread_tls()")
+a9b3c6998d4a ("x86/stackframe: Move ENCODE_FRAME_POINTER to asm/frame.h")
+64604d54d311 ("sched/x86_64: Don't save flags on context switch")
+6690e86be83a ("sched/x86: Save [ER]FLAGS on context switch")
+89f579ce99f7 ("x86/headers: Fix -Wmissing-prototypes warning")
+8e1599fcac2e ("x86/traps: Complete prototype declarations")
+f682a7920baf ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,1 +1,8 @@
 46648a3cec2d ("drm/bridge: tc358767: copy the mode data, instead of storing the pointer")
+bb24836869a7 ("drm/bridge: tc358767: move PXL PLL enable/disable to stream enable/disable")
+80d57245063f ("drm/bridge: tc358767: split stream enable/disable")
+5761a259aa9e ("drm/bridge: tc358767: move video stream setup to tc_main_link_stream")
+63f8f3badf79 ("drm: bridge: Constify mode arguments to bridge .mode_set() operation")
+739838b5f886 ("drm/bridge/synopsys: dsi: add dual-dsi support")
+2d4f7bdafd70 ("drm/rockchip: dsi: migrate to use dw-mipi-dsi bridge driver")
+1f0f01515172 ("drm/rockchip: Add support for Rockchip Soc RGB output interface")

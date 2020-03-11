@@ -1,0 +1,5 @@
+d996fc7f615f ("filemap: Convert filemap_read() to use a folio")
+cbd59c48ae2b ("mm/filemap: use head pages in generic_file_buffered_read")
+ff993ba13000 ("mm/filemap: convert filemap_get_pages to take a pagevec")
+0c7c575df56b ("mm/filemap: remove dynamically allocated array from filemap_read")
+3a6bae48390d ("mm/filemap: rename generic_file_buffered_read subfunctions")

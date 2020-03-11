@@ -1,0 +1,5 @@
+d4fdf8ba0e58 ("f2fs: fix a panic caused by NULL flush_cmd_control")
+b01a92019cac ("f2fs: clean up flush/discard command namings")
+4e6a8d9b224f ("f2fs: relax async discard commands more")
+5eba8c5d1fb3 ("f2fs: fix to access nullified flush_cmd_control pointer")
+2dd15654ac0a ("f2fs: fix to release discard entries during checkpoint")

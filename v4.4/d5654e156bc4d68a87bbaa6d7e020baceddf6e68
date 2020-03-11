@@ -1,0 +1,5 @@
+d5654e156bc4 ("parisc: Fix HPMC handler by increasing size to multiple of 16 bytes")
+0ed9d3de5f8f ("parisc: Align os_hpmc_size on word boundary")
+f39cce654f9a ("parisc: Add cfi_startproc and cfi_endproc to assembly code")
+2929e738002e ("parisc: Move hpmc stack into page aligned bss section")
+366dd4ea9d5f ("parisc: Fix ftrace function tracer")

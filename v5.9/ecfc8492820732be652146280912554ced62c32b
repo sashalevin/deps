@@ -1,0 +1,6 @@
+ecfc84928207 ("io_uring: ensure only sqo_task has file notes")
+a528b04ea406 ("io_uring: fix ignoring xa_store errors")
+236434c3438c ("io_uring: Fix XArray usage in io_uring_add_task_file")
+0f2122045b94 ("io_uring: don't rely on weak ->files references")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")
+f573d384456b ("io_uring: move dropping of files into separate helper")

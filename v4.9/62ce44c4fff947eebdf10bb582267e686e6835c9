@@ -1,0 +1,6 @@
+62ce44c4fff9 ("netfilter: ebtables: fix memory leak when blob is malformed")
+7997eff82828 ("netfilter: ebtables: reject blobs that don't provide all entry points")
+d824548dae22 ("netfilter: ebtables: remove BUGPRINT messages")
+e6b72ee88a56 ("netfilter: ebtables: fix race condition in frame_filter_net_init()")
+eb73ddebe992 ("bridge: make ebt_table const")
+aee12a0a3727 ("ebtables: remove nf_hook_register usage")

@@ -1,0 +1,5 @@
+b5916c025432 ("mm/migrate: fix NR_ISOLATED corruption on 64-bit")
+c5fc5c3ae0c8 ("mm: migrate: account THP NUMA migration counters correctly")
+c5b5a3dd2c1f ("mm: thp: refactor NUMA fault handling")
+5db4f15c4fd7 ("mm: memory: add orig_pmd to struct vm_fault")
+8f34f1eac382 ("mm/userfaultfd: fix uffd-wp special cases for fork()")

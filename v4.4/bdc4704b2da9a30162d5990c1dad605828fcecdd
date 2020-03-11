@@ -1,0 +1,4 @@
+bdc4704b2da9 ("serial: 8250_early: Remove __init marking from early write")
+004e2ed5cc6d ("serial: 8250_early: squash wait_for_xmitr() into serial_putc()")
+f2bfdb0628d5 ("serial: 8250_early: confirm empty transmitter after sending characters")
+2cda227bba7e ("serial: 8250_early: do not save and restore IER in write callback")

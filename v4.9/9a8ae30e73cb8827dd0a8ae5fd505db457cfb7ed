@@ -1,0 +1,4 @@
+9a8ae30e73cb ("quota: Push dqio_sem down to ->write_file_info()")
+bc8230ee8e2b ("quota: Convert dqio_mutex to rwsem")
+c3b004460d77 ("quota: Remove dqonoff_mutex")
+9d1ccbe70e0b ("quota: Use s_umount protection for quota operations")

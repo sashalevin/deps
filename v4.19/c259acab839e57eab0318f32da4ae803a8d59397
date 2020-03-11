@@ -1,0 +1,7 @@
+c259acab839e ("ptp/ioctl: support MONOTONIC{,_RAW} timestamps for PTP_SYS_OFFSET_EXTENDED")
+b9a61b97798c ("ptp: add missing documentation for parameters")
+62582a7ee783 ("ptp: Avoid deadlocks in the programmable pin code.")
+895ac1376d5a ("ptp: check that rsv field is zero in struct ptp_sys_offset_extended")
+361800876f80 ("ptp: add PTP_SYS_OFFSET_EXTENDED ioctl")
+83d0bdc7390b ("ptp: check gettime64 return code in PTP_SYS_OFFSET ioctl")
+fbb960ac2617 ("ptp: reorder declarations in ptp_ioctl()")

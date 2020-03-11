@@ -1,0 +1,4 @@
+64cbd0acb582 ("x86/entry: Don't call error_entry() for XENPV")
+ee774dac0da1 ("x86/entry: Move PUSH_AND_CLEAR_REGS out of error_entry()")
+520a7e80c96d ("x86/entry: Switch the stack after error_entry() returns")
+0aca53c6b522 ("x86/traps: Use pt_regs directly in fixup_bad_iret()")

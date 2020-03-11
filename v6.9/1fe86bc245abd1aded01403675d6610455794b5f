@@ -1,0 +1,4 @@
+1fe86bc245ab ("perf annotate: Make capstone_init non-static so that it can be used during symbol disassemble")
+218c200f677d ("perf script: Consolidate capstone print functions")
+d812044688df ("perf script: Add capstone support for '-F +brstackdisasm'")
+38ab60132b0d ("perf script: Support 32bit code under 64bit OS with capstone")

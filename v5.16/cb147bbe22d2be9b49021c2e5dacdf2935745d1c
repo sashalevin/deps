@@ -1,0 +1,6 @@
+cb147bbe22d2 ("dma-mapping: name SG DMA flag helpers consistently")
+30280eee2db1 ("iommu/dma: support PCI P2PDMA pages in dma-iommu map_sg")
+c96321834b2f ("iommu: Explicitly skip bus address marked segments in __iommu_map_sg()")
+f02ad36d4f76 ("dma-direct: support PCI P2PDMA pages in dma-direct map_sg")
+42399301203e ("lib/scatterlist: add flag for indicating P2PDMA segments in an SGL")
+e1cbc3b96a99 ("Merge tag 'iommu-updates-v5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

@@ -1,0 +1,6 @@
+24aea4cc4832 ("posix-cpu-timers: Make k_itimer::it_active consistent")
+bd29d773ea8d ("posix-cpu-timers: Do not arm SIGEV_NONE timers")
+ee375328f579 ("posix-cpu-timers: Recalc next expiration when timer_settime() ends up not queueing")
+175cc3ab28e3 ("posix-cpu-timers: Force next_expiration recalc after timer deletion")
+beb41d9cbe41 ("posix-cpu-timers: Pass the task into arm_timer()")
+60f2ceaa8111 ("posix-cpu-timers: Remove unnecessary locking around cpu_clock_sample_group")

@@ -1,0 +1,4 @@
+8dcc5b0ab0ec ("virtio_net: fix ndo_xdp_xmit crash towards dev not ready for XDP")
+186b3c998c50 ("virtio-net: support XDP_REDIRECT")
+312403453532 ("virtio-net: add packet len average only when needed during XDP")
+9457642a405f ("virtio-net: remove unnecessary parameter of virtnet_xdp_xmit()")

@@ -1,0 +1,5 @@
+73318e2cafe5 ("mm/compaction: optimize >0 order folio compaction with free page split.")
+733aea0b3a7b ("mm/compaction: add support for >0 order folio memory compaction.")
+ee6f62fd34f0 ("mm/compaction: enable compacting >0 order folios.")
+5267fe5d092e ("mm/page_alloc: remove unused fpi_flags in free_pages_prepare()")
+ab755bf4249b ("mm: compaction: update the cc->nr_migratepages when allocating or freeing the freepages")

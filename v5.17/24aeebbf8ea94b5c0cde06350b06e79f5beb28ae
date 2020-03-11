@@ -1,0 +1,7 @@
+24aeebbf8ea9 ("scsi: ata: libata: Change ata_eh_request_sense() to not set CHECK_CONDITION")
+013115d90e00 ("ata: libata: fetch sense data for ATA devices supporting sense reporting")
+4b89ad8e5e12 ("ata: libata: only set sense valid flag if sense data is valid")
+461ec0406771 ("ata: libata: clarify when ata_eh_request_sense() will be called")
+7390896b3484 ("ata: libata: fix NCQ autosense logic")
+b46c760e11c8 ("ata: libata: drop superfluous ata_eh_request_sense() parameter")
+efcef265fd83 ("ata: add/use ata_taskfile::{error|status} fields")

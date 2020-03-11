@@ -1,0 +1,8 @@
+9876cfe8ec1c ("memfd: replace ratcheting feature from vm.memfd_noexec with hierarchy")
+202e14222fad ("memfd: do not -EACCES old memfd_create() users with vm.memfd_noexec=2")
+badbbcd76545 ("selftests/memfd: sysctl: fix MEMFD_NOEXEC_SCOPE_NOEXEC_ENFORCED")
+72de25913022 ("mm/memfd: sysctl: fix MEMFD_NOEXEC_SCOPE_NOEXEC_ENFORCED")
+3efd33b75358 ("kernel: pid_namespace: remove unused set_memfd_noexec_scope()")
+11f75a01448f ("selftests/memfd: add tests for MFD_NOEXEC_SEAL MFD_EXEC")
+105ff5339f49 ("mm/memfd: add MFD_NOEXEC_SEAL and MFD_EXEC")
+32d118ad50a5 ("selftests/memfd: add tests for F_SEAL_EXEC")

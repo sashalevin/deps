@@ -1,0 +1,7 @@
+a4d63c3732f1 ("mm: do not rely on mm == current->mm in __get_user_pages_locked")
+008cfe4418b3 ("mm: Introduce mm_struct.has_pinned")
+f81cd178ecfd ("mm/gup: might_lock_read(mmap_sem) in get_user_pages_fast()")
+eddb1c228f79 ("mm/gup: introduce pin_user_pages*() and FOLL_PIN")
+f4000fdf435b ("mm/gup: allow FOLL_FORCE for get_user_pages_fast()")
+c4237f8b1f4f ("mm: fix get_user_pages_remote()'s handling of FOLL_LONGTERM")
+d2dfbe47fa0e ("mm/gup.c: fix comments of __get_user_pages() and get_user_pages_remote()")

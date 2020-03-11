@@ -1,0 +1,8 @@
+45fc8757d1d2 ("x86: Make the GDT remapping read-only on 64-bit")
+69218e47994d ("x86: Remap GDT tables in the fixmap section")
+0fce546f9f07 ("x86/kvm/vmx: remove unused variable in segment_base()")
+b7ffc44d5b2e ("x86/kvm/vmx: Defer TR reload after VM exit")
+8c2e41f7ae12 ("x86/kvm/vmx: Simplify segment_base()")
+e28baeadcf0d ("x86/kvm/vmx: Get rid of segment_base() on 64-bit kernels")
+e0c230634af9 ("x86/kvm/vmx: Don't fetch the TSS base from the GDT")
+212f30008a28 ("Merge branch 'x86-idle-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

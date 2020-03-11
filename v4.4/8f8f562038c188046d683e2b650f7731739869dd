@@ -1,0 +1,7 @@
+8f8f562038c1 ("compat_ioctl: move CDROMREADADIO to cdrom.c")
+f3ee6e63a9df ("compat_ioctl: move CDROM_SEND_PACKET handling into scsi")
+1b114b0817cc ("pktcdvd: add compat_ioctl handler")
+98aaaec4a150 ("compat_ioctl: reimplement SG_IO handling")
+229b53c9bf4e ("take floppy compat ioctls to sodding floppy.c")
+66cf191f3eae ("compat_ioctl: don't pass fd around when not needed")
+b43417216e9c ("compat_ioctl: don't look up the fd twice")

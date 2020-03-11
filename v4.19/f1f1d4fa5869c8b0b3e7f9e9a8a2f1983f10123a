@@ -1,2 +1,6 @@
 f1f1d4fa5869 ("drm/i915: Add 4th pipe and transcoder")
 8f19b401a6fc ("drm/i915: Make CHICKEN_TRANS reg not depend on enum value")
+8f78df90d84a ("drm/i915: Add code comment on assumption of pipe==transcoder")
+bf80928fbf06 ("drm/i915/psr: Share PSR and PSR2 exit mask")
+dce888798d3e ("drm/i915: remove confusing GPIO vs PCH_GPIO")
+f5133cca38f5 ("drm/i915: make PCH_GMBUS* definitions private to gvt")

@@ -1,0 +1,5 @@
+fa06bb26a40c ("mtd: spi-nor: move function declaration out of sfdp.h")
+66cf87c60014 ("mtd: spi-nor: export more functions to be used in vendor modules")
+7158c86e5607 ("mtd: spi-nor: core: Use container_of to get the pointer to struct spi_nor")
+c4c795105f29 ("mtd: spi-nor: Move Software Write Protection logic out of the core")
+a580293a19fc ("mtd: spi-nor: Get rid of duplicated argument in spi_nor_parse_sfdp()")

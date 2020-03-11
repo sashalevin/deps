@@ -1,0 +1,5 @@
+d40342a2ac03 ("vmware: set cpu capabilities during platform initialization")
+854dd54245f7 ("x86/vmware: Skip timer_irq_works() check on VMware")
+b91688f528fe ("x86/vmware: Skip lapic calibration on VMware")
+1b74dde7c47c ("x86/cpu: Convert printk(KERN_<LEVEL> ...) to pr_<level>(...)")
+0007bccc3cfd ("x86: Replace RDRAND forced-reseed with simple sanity check")

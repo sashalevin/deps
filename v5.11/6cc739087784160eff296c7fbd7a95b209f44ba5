@@ -1,0 +1,5 @@
+6cc739087784 ("scsi: Revert "scsi: hisi_sas: Filter out new PHY up events during suspend"")
+872a90b5b466 ("scsi: hisi_sas: Switch back to original libsas event notifiers")
+26c7efc3f952 ("scsi: hisi_sas: Pass gfp_t flags to libsas event notifiers")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")

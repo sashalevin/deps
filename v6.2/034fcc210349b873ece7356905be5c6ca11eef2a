@@ -1,0 +1,7 @@
+034fcc210349 ("net: phy: add helpers to handle sfp phy connect/disconnect")
+f932a6dc8bae ("net: phy: at803x: move at8031 functions in dedicated section")
+a5ab9d8e7ae0 ("net: phy: at803x: make at8031 related DT functions name more specific")
+900eef75cc50 ("net: phy: at803x: move specific DT option for at8031 to specific probe")
+6a3b8c573b5a ("net: phy: at803x: move disable WOL to specific at8031 probe")
+e58f30246c35 ("net: phy: at803x: fix the wol setting functions")
+988e8d90b3dc ("net: phy: at803x: Use devm_regulator_get_enable_optional()")

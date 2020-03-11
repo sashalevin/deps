@@ -1,0 +1,6 @@
+3887ce1aac3a ("NFSv4: Fix nfs4_inode_make_writeable()")
+c01d36457dcc ("NFSv4: Don't return the delegation when not needed by NFSv4.x (x>0)")
+199366f0173f ("NFS: Move the delegation return down into _nfs4_do_setattr()")
+f2c2c552f119 ("NFS: Move delegation recall into the NFSv4 callback for rename_setup()")
+912678dbc592 ("NFS: Move the delegation return down into nfs4_proc_remove()")
+9f7682728728 ("NFS: Move the delegation return down into nfs4_proc_link()")

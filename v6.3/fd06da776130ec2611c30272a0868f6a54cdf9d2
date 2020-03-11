@@ -1,0 +1,7 @@
+fd06da776130 ("module: Fix comment typo")
+064f4536d139 ("module: avoid allocation if module is already present and ready")
+df3e764d8e5c ("module: add debug stats to help identify memory pressure")
+f71afa6a4201 ("module: extract patient module check into helper")
+02da2cbab452 ("module: move check_modinfo() early to early_mod_check()")
+85e6f61c134f ("module: move early sanity checks into a helper")
+ac3b43283923 ("module: replace module_layout with module_memory")

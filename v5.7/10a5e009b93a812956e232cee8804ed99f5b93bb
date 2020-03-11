@@ -1,0 +1,6 @@
+10a5e009b93a ("xsk: Get rid of unused entry in struct xdp_buff_xsk")
+2b43470add8c ("xsk: Introduce AF_XDP buffer allocation API")
+a71506a4fda9 ("xsk: Move driver interface to xdp_sock_drv.h")
+d20a1676df7e ("xsk: Move xskmap.c to net/xdp/")
+44ac082b30dc ("xsk: Fix xsk_umem_xdp_frame_sz()")
+2a637c5b1aaf ("xdp: For Intel AF_XDP drivers add XDP frame_sz")

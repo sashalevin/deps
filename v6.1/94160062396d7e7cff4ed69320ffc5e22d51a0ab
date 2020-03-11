@@ -1,0 +1,6 @@
+94160062396d ("pstore: Base compression input buffer size on estimated compressed size")
+104fd0b5e948 ("pstore: Support record sizes larger than kmalloc() limit")
+438b805003a0 ("pstore: Replace crypto API compression with zlib_deflate library calls")
+1756ddea6916 ("pstore: Remove worst-case compression size logic")
+8bd4da0f0626 ("pstore/ram: Move internal definitions out of kernel-wide include")
+8f5de3fd38b7 ("pstore: Expose kmsg_bytes as a module parameter")

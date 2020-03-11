@@ -1,0 +1,5 @@
+f78ed2204db9 ("netpoll: accept NULL np argument in netpoll_send_skb()")
+1ddabdfaf70c ("netpoll: netpoll_send_skb() returns transmit status")
+fb1eee476b0d ("netpoll: move netpoll_send_skb() out of line")
+307f660d056b ("netpoll: remove dev argument from netpoll_send_skb_on_dev()")
+a54776f2c493 ("netpoll: Fix use correct return type for ndo_start_xmit()")

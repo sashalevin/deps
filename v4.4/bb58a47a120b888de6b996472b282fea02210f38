@@ -1,0 +1,8 @@
+bb58a47a120b ("gpio: max732x: Use irqchip template")
+2674700c4c0e ("gpio: max732x: use devm_gpiochip_add_data()")
+375b94246761 ("gpio: max732x: use i2c_new_dummy_device()")
+f3a049e784b3 ("gpio: max732x: add error handling for i2c_new_dummy")
+e1c73a99067e ("gpio: max732x: Remove duplicate NULL check")
+d245b3f9bd36 ("gpio: simplify adding threaded interrupts")
+96b2cca64fa3 ("gpio: stmpe: forbid unused lines to be mapped as IRQs")
+22a5db98a30e ("Merge branch 'gpio-irq-validmask' of /home/linus/linux-pinctrl into devel")

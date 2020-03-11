@@ -1,0 +1,3 @@
+b5c0951860ba ("perf symbols: Don't try to find a vmlinux file when looking for kernel modules")
+93fcce96c719 ("perf symbols: Use kmaps(map)->machine when we know its a kernel map")
+b0c76fc4cfd9 ("perf symbols: Remove needless checks for map->groups->machine")

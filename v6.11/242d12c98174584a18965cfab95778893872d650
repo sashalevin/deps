@@ -1,0 +1,5 @@
+242d12c98174 ("mm: support large folios swap-in for sync io devices")
+325efb16da2c ("mm: add nr argument in mem_cgroup_swapin_uncharge_swap() helper to support large folios")
+94dc8bffd8b7 ("mm: return the folio from swapin_readahead")
+9f101bef408a ("mm: swap: add nr argument in swapcache_prepare and swapcache_clear to support large folios")
+d2539ed7ee3b ("mm: extend 'usage' parameter so that cluster_swap_free_nr() can be reused")

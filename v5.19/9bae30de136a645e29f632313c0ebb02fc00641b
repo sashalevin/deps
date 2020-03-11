@@ -1,0 +1,5 @@
+9bae30de136a ("drm/i915/perf: Fix kernel-doc warning")
+2db609c01495 ("drm/i915/perf: Replace gt->perf.lock with stream->lock for file ops")
+9677a9f3b1ad ("drm/i915/perf: Move gt-specific data from i915->perf to gt->perf")
+6f10c4d62377 ("drm/i915/perf: replace BUG_ON() with WARN_ON()")
+5dca122f8388 ("drm/i915/gt: Create gt/gtN/.defaults/ for per gt sysfs defaults")

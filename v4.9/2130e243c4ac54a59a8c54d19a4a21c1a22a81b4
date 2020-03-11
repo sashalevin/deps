@@ -1,0 +1,7 @@
+2130e243c4ac ("staging: iio: tsl2x7x: remove ch0 and ch1 variables from tsl2x7x_get_lux()")
+3e0c8f68a89e ("staging: iio: tsl2x7x: correct alignment of parenthesis")
+e6859c532286 ("staging: iio: tsl2x7x: remove unnecessary parentheses")
+b476eef6e9bf ("staging: iio: tsl2x7x: rename tsl2x7x_settings variable to settings")
+36a28e4a613b ("staging: iio: tsl2x7x: use usleep_range() instead of mdelay()")
+be78f70ce0d1 ("staging: iio: tsl2x7x: refactor {read,write}_event_value to allow handling multiple iio_event_infos")
+1b4cbe2ef00e ("staging: iio: tsl2x7x: cleaned up i2c calls in tsl2x7x_als_calibrate()")

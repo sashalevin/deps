@@ -1,0 +1,6 @@
+bb180fb2401d ("libbpf: Factor out common logic of testing and closing FD")
+47b6cb4d0add ("libbpf: Make kernel feature probing lazy")
+0f0e55d8247c ("libbpf: Improve BTF sanitization handling")
+fd9eef1a132d ("libbpf: Fix probe code to return EPERM if encountered")
+2d39d7c56f11 ("libbpf: Refactor map creation logic and fix cleanup leak")
+e411eb257b33 ("libbpf: Return err if bpf_object__load failed")

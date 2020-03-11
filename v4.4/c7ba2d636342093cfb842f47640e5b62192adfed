@@ -1,0 +1,5 @@
+c7ba2d636342 ("powerpc/mm: Enable compound page check for both THP and HugeTLB")
+ef26b76d1af6 ("powerpc/hugetlb/cma: Allocate gigantic hugetlb pages using CMA")
+5be993432821 ("mm/hugetlb: define a generic fallback for arch_clear_hugepage_flags()")
+b0eae98c66fe ("mm/hugetlb: define a generic fallback for is_hugepage_only_range()")
+be51e3fde5c1 ("arm64/mm: drop __HAVE_ARCH_HUGE_PTEP_GET")

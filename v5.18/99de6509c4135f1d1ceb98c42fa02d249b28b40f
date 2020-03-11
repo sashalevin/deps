@@ -1,0 +1,3 @@
+99de6509c413 ("rpmsg: Strcpy is not safe, use strscpy_pad() instead")
+bb17d110cbf2 ("rpmsg: Fix calling device_lock() on non-initialized device")
+42cd402b8fd4 ("rpmsg: Fix kfree() of static memory on setting driver_override")

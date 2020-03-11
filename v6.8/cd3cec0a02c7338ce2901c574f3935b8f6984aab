@@ -1,0 +1,8 @@
+cd3cec0a02c7 ("ima: Move to LSM infrastructure")
+06cca5110774 ("integrity: Move integrity_kernel_module_request() to IMA")
+b8d997032a46 ("security: Introduce key_post_create_or_update hook")
+a7811e34d100 ("security: Introduce inode_post_create_tmpfile hook")
+f09068b5a114 ("security: Introduce file_release hook")
+8f46ff5767b0 ("security: Introduce file_post_open hook")
+fec5f85e468d ("ima: Align ima_post_read_file() definition with LSM infrastructure")
+0298c5a9b168 ("ima: Align ima_file_mprotect() definition with LSM infrastructure")

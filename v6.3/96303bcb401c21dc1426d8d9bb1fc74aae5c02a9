@@ -1,0 +1,5 @@
+96303bcb401c ("irqchip/riscv-intc: Allow large non-standard interrupt number")
+7023b9d83f03 ("irqchip/riscv-intc: Add ACPI support")
+832f15f42646 ("RISC-V: Treat IPIs as normal Linux IRQs")
+0c60a31ce62c ("irqchip/riscv-intc: Allow drivers to directly discover INTC hwnode")
+3ee92565b83e ("RISC-V: Clear SIP bit only when using SBI IPI operations")

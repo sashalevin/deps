@@ -1,0 +1,6 @@
+5da9ace3405f ("net: make xps_needed and xps_rxqs_needed static")
+04157469b7b8 ("net: Use static_key for XPS maps")
+80d19669ecd3 ("net: Refactor XPS for CPUs and Rx queues")
+184c449f91fe ("net: Add support for XPS with QoS via traffic classes")
+6234f87407cb ("net: Refactor removal of queues from XPS map and apply on num_tc changes")
+9cf1f6a8c4cb ("net: Move functions for configuring traffic classes out of inline headers")

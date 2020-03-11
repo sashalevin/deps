@@ -1,0 +1,7 @@
+0e5e64c0b0d7 ("mm: simplify follow_invalidate_pte()")
+9fd6dad1261a ("mm: provide a saner PTE walking API for modules")
+bd2fae8da794 ("KVM: do not assume PTE is writable after follow_pfn")
+ff5c19ed4b08 ("mm: simplify follow_pte{,pmd}")
+7336375734d6 ("mm: unexport follow_pte_pmd")
+a67a88b0b8de ("s390/pci: remove races against pte updates")
+c78f463649d6 ("mm: remove src/dst mm parameter in copy_page_range()")

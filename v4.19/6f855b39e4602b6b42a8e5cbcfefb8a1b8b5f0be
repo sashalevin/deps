@@ -1,0 +1,4 @@
+6f855b39e460 ("cpu/hotplug: Do not bail-out in DYING/STARTING sections")
+453e41085183 ("cpu/hotplug: Add cpuhp_invoke_callback_range()")
+e797bda3fd29 ("smp/hotplug: Track booted once CPUs in a cpumask")
+206b92353c83 ("cpu/hotplug: Prevent crash when CPU bringup fails on CONFIG_HOTPLUG_CPU=n")

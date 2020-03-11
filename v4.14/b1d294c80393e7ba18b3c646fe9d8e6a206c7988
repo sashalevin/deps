@@ -1,0 +1,5 @@
+b1d294c80393 ("signal: make do_sigpending() void")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")
+176826af0366 ("signal: lift sigset size check out of do_sigpending()")
+1681634b8c70 ("signal: simplify compat_sigpending()")
+f454322efbf6 ("signal: replace sigset_to_compat() with put_compat_sigset()")

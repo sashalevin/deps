@@ -1,0 +1,6 @@
+212efde8818e ("video: fbdev: au1200fb: Make use of dma_mmap_coherent()")
+5ae01cba59c6 ("au1200fb: don't use DMA_ATTR_NON_CONSISTENT")
+e0b29902483b ("au1200fb: fix DMA API abuse")
+63d36c955004 ("dma-mapping: replace dmam_alloc_noncoherent with dmam_alloc_attrs")
+03b643866d88 ("dma-mapping: remove dmam_free_noncoherent")
+cd74da957ba2 ("drivers: base: dma-mapping: Fix typo in dmam_alloc_non_coherent comments")

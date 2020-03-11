@@ -1,0 +1,7 @@
+c207adc1475e ("btrfs: uninline some static inline helpers from tree-log.h")
+e383e158ed1b ("btrfs: preallocate temporary extent buffer for inode logging when needed")
+796787c978ef ("btrfs: do not modify log tree while holding a leaf from fs tree locked")
+30b80f3ce0f9 ("btrfs: use delayed items when logging a directory")
+e09d94c9e448 ("btrfs: log conflicting inodes without holding log mutex of the initial inode")
+4c469798eee5 ("btrfs: shrink the size of struct btrfs_delayed_item")
+96d89923fa94 ("btrfs: store index number instead of key in struct btrfs_delayed_item")

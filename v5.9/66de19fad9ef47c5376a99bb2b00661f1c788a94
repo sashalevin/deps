@@ -1,0 +1,6 @@
+66de19fad9ef ("KVM: arm64: Detect and handle hypervisor stack overflows")
+7db21530479f ("KVM: arm64: Restore hyp when panicking in guest context")
+6e3bfbb22c51 ("KVM: arm64: nVHE: Use separate vector for the host")
+a0e479523e3f ("KVM: arm64: Save chosen hyp vector to a percpu variable")
+d7ca1079d8ea ("KVM: arm64: Remove kvm_host_data_t typedef")
+6a0259ed29bb ("KVM: arm64: Remove hyp_panic arguments")

@@ -1,0 +1,4 @@
+25938c73cd79 ("iommu/tegra-smmu: Rework tegra_smmu_probe_device()")
+a5616e24609a ("iommu/tegra: Use dev_iommu_priv_get/set()")
+b287ba737899 ("iommu/tegra: Convert to probe/release_device() call-backs")
+8c3d69237eb2 ("iommu/tegra-gart: Remove direct access of dev->iommu_fwspec")

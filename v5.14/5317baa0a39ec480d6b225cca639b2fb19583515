@@ -1,0 +1,7 @@
+5317baa0a39e ("media: atomisp: Move calling of css_[un]init() to power_on()/_off()")
+6736a68fe156 ("media: atomisp: Remove duplication between runtime-pm and normal-pm code")
+586ef0c6917d ("media: atomisp: Remove atomisp_css_suspend()/_resume()")
+10f2b0a3a12e ("media: atomisp: Remove atomisp_mrfld_power_down()/_up()")
+24aba5825c66 ("media: atomisp: Remove double atomisp_mrfld_power_down()/_up() calls from atomisp_reset()")
+ad4c63c3ba44 ("media: atomisp: remove hmm_pool_[un]register()")
+672fe1cf145a ("media: atomisp: Fix runtime PM imbalance in atomisp_pci_probe")

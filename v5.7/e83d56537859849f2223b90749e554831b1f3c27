@@ -1,0 +1,5 @@
+e83d56537859 ("net: dsa: replay master state events in dsa_tree_{setup,teardown}_master")
+c146f9bc195a ("net: dsa: hold rtnl_mutex when calling dsa_master_{setup,teardown}")
+c3975400c801 ("net: dsa: allow drivers to request promiscuous mode on master")
+845e0ebb4408 ("net: change addr_list_lock back to static key")
+1a33e10e4a95 ("net: partially revert dynamic lockdep key changes")

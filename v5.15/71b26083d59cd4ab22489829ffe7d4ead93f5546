@@ -1,0 +1,4 @@
+71b26083d59c ("block: set the disk capacity to 0 in blk_mark_disk_dead")
+f9710c357e5b ("xen-blkfront: Handle NULL gendisk")
+7a5428dcb790 ("block: fix surprise removal for drivers calling blk_set_queue_dying")
+ebc9b9526015 ("nvme: prepare for pairing quiescing and unquiescing")

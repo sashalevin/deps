@@ -1,0 +1,3 @@
+e33aef2c5857 ("block_device: add a pointer to struct address_space (page cache of bdev)")
+fad907cffd4b ("block: move .bd_inode into 1st cacheline of block_device")
+6a3207395563 ("fs, block: remove bdev->bd_super")

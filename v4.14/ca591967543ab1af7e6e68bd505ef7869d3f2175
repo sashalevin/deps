@@ -1,0 +1,7 @@
+ca591967543a ("ITER_PIPE: lose iter_head argument of __pipe_get_pages()")
+e3b42964f84c ("ITER_PIPE: fold push_pipe() into __pipe_get_pages()")
+47b7fcae419d ("ITER_PIPE: helpers for adding pipe buffers")
+9d2231c5d74e ("lib/iov_iter: initialize "flags" in new pipe_buffer")
+6718b6f855a0 ("pipe: Allow pipes to have kernel-reserved slots")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")
+9b286efeb5eb ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

@@ -1,0 +1,5 @@
+06e33595e96f ("misc: Use kzalloc() instead of kmalloc() with flag GFP_ZERO.")
+518a2f1925c3 ("dma-mapping: zero memory returned from dma_alloc_*")
+ce65d36f3ea7 ("sparc: remove the sparc32_dma_ops indirection")
+53b7670e5735 ("sparc: factor the dma coherent mapping into helper")
+7227b2026239 ("sparc: remove not needed sbus_dma_ops methods")

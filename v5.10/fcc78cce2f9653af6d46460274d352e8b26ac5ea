@@ -1,0 +1,6 @@
+fcc78cce2f96 ("usb: dwc3: st: simplify pdev->dev usage")
+bde053252c02 ("usb: dwc3: st: use scoped device node handling to simplify error paths")
+cd4897bfd14f ("usb: dwc3: st: add missing depopulate in probe error path")
+3f53c329b31d ("usb: dwc3: st: Rely on child's compatible instead of name")
+f5c5936d6b4d ("usb: dwc3: st: Fix node's child name")
+83c4a4eec06a ("of: Remove of_dev_{get,put}()")

@@ -1,0 +1,4 @@
+6d13de1489b6 ("uaccess: disallow > INT_MAX copy sizes")
+b0377fedb652 ("copy_{to,from}_user(): consolidate object size checks")
+9c5f6908de03 ("copy_{from,to}_user(): move kasan checks and might_fault() out-of-line")
+6dc2cce93211 ("Merge branch 'x86-process-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

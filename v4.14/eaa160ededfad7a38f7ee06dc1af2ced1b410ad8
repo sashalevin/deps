@@ -1,0 +1,4 @@
+eaa160ededfa ("dm table: fix NVMe bio-based dm_table_determine_type() validation")
+22c11858e800 ("dm: introduce DM_TYPE_NVME_BIO_BASED")
+0776aa0e30aa ("dm: ensure bio-based DM's bioset and io_pool support targets' maximum IOs")
+5fdee2127faa ("block: remove QUEUE_FLAG_STACKABLE")

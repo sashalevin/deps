@@ -1,0 +1,4 @@
+70c8327c11c6 ("KVM: x86: Bug the VM if an accelerated x2APIC trap occurs on a "bad" reg")
+1bd9dfec9fd4 ("KVM: x86: Do not block APIC write for non ICR registers")
+5413bcba7ed5 ("KVM: x86: Add support for vICR APIC-write VM-Exits in x2APIC mode")
+b031f1043583 ("KVM: x86: Use "raw" APIC register read for handling APIC-write VM-Exit")

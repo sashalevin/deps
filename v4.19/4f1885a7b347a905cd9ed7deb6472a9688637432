@@ -1,0 +1,4 @@
+4f1885a7b347 ("drivers: char: ipmi: ipmi_msghandler: Pass lockdep expression to RCU lists")
+794a3b6b9f8a ("ipmi: Make ipmi_interfaces_srcu variable static")
+913a89f009d9 ("ipmi: Don't initialize anything in the core until something uses it")
+445e2cbda928 ("ipmi: msghandler: Add and use pr_fmt and dev_fmt, remove PFX")

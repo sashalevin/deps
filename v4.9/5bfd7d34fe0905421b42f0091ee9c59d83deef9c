@@ -1,0 +1,7 @@
+5bfd7d34fe09 ("torture: Use a single build directory for torture scenarios")
+af0695d3fcbf ("rcutorture/kvm-build.sh: Skip build directory check")
+2adfa4210f8f ("rcutorture/configinit: Fix build directory error message")
+85ef2bd2a561 ("rcutorture: Don't wait for kernel when all builds fail")
+d62c9833d647 ("torture: Add --kconfig argument to kvm.sh")
+39687d6c1dc0 ("rcutorture: Correctly handle CONFIG_RCU_TORTURE_TEST_* options")
+1f32ee658648 ("torture: Prevent jitter from delaying build-only runs")

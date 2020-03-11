@@ -1,0 +1,7 @@
+600cf3f8b3f6 ("io_uring: refactor *files_register()'s error paths")
+5398ae698525 ("io_uring: clean file_data access in files_register")
+667e57da358f ("io_uring: fix memleak in io_sqe_files_register()")
+6a4d07cde577 ("io_uring: file registration list and lock optimization")
+f7fe9346869a ("io_uring: initialize fixed_file_data lock")
+055895537302 ("io_uring: refactor file register/unregister/update handling")
+e59cd88028db ("Merge tag 'for-5.7/io_uring-2020-03-29' of git://git.kernel.dk/linux-block")

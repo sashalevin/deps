@@ -1,0 +1,6 @@
+4958b46efb6d ("cpufreq: stats: Mark few conditionals with unlikely()")
+40c3bd4cfa6f ("cpufreq: stats: Defer stats update to cpufreq_stats_record_transition()")
+3c0897c180c6 ("cpufreq: Use scnprintf() for avoiding potential buffer overflow")
+fcccc5c838c1 ("cpufreq: stats: Use lock by stat to replace global spin lock")
+9795607dc41e ("cpufreq: stats: Fix concurrency issues while resetting stats")
+d476ec4f7f5a ("cpufreq: stats: Change return type of cpufreq_stats_update() as void")

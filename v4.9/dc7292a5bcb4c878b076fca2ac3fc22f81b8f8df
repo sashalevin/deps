@@ -1,0 +1,4 @@
+dc7292a5bcb4 ("bcache: use (REQ_META|REQ_PRIO) to indicate bio for metadata")
+752f66a75aba ("bcache: use REQ_PRIO to indicate bio for metadata")
+b41c9b0266e8 ("bcache: update bio->bi_opf bypass/writeback REQ_ flag hints")
+83b5df67c509 ("bcache: use op_is_sync to check for synchronous requests")

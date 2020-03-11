@@ -1,0 +1,5 @@
+e613d1d0f7d4 ("libbpf: Add elf_resolve_pattern_offsets function")
+7ace84c68929 ("libbpf: Add elf_resolve_syms_offsets function")
+f90eb70d4489 ("libbpf: Add elf_open/elf_close functions")
+5c742725045a ("libbpf: Move elf_find_func_offset* functions to elf object")
+59842c5451fe ("libbpf: Ensure libbpf always opens files with O_CLOEXEC")

@@ -1,0 +1,8 @@
+802ec4f672ed ("scsi: target: core: Cleanup cmd flag bits")
+aaa00cc93c1d ("scsi: target/core: Fix TAS handling for aborted commands")
+5e568d22fc79 ("scsi: target/core: Remove the SCF_COMPARE_AND_WRITE_POST flag")
+bd81372065fa ("scsi: target: transport should handle st FM/EOM/ILI reads")
+fd2f928b0ddd ("target: Fix caw_sem leak in transport_generic_request_failure")
+dce6ce8cfb84 ("pscsi: finish cmd processing from pscsi_req_done")
+c00e62202315 ("target: Introduce a function that shows the command state")
+694752922b12 ("Merge branch 'for-4.12/block' of git://git.kernel.dk/linux-block")

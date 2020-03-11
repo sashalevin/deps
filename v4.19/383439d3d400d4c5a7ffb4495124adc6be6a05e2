@@ -1,0 +1,5 @@
+383439d3d400 ("livepatch: Skip task_call_func() for current task")
+00619f7c650e ("sched,livepatch: Use task_call_func()")
+ac59a471e937 ("livepatch: Remove duplicate warning about missing reliable stacktrace support")
+f36e664516b0 ("livepatch: Use static buffer for debugging messages under rq lock")
+25e39e32b0a3 ("livepatch: Simplify stack trace retrieval")

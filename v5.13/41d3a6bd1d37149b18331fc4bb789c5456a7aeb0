@@ -1,0 +1,5 @@
+41d3a6bd1d37 ("io_uring: pin SQPOLL data before unlocking ring lock")
+009ad9f0c6ee ("io_uring: drop ctx->uring_lock before acquiring sqd->lock")
+fa84693b3c89 ("io_uring: ensure IORING_REGISTER_IOWQ_MAX_WORKERS works with SQPOLL")
+2e480058ddc2 ("io-wq: provide a way to limit max number of workers")
+fe76421d1da1 ("io_uring: allow user configurable IO thread CPU affinity")

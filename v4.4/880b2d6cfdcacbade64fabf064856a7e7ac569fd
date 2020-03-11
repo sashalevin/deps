@@ -1,0 +1,7 @@
+880b2d6cfdca ("iio: imu: inv_mpu6050: clean read channel data error path")
+6792b4552b0a ("iio: imu: inv_mpu6050: clean read raw by factorizing out raw data")
+68cd6e5b206b ("iio: imu: inv_mpu6050: fix lock issues by using our own mutex")
+1ffcfaf19597 ("iio: imu: inv_mpu6050: change the i2c gate to be mux-locked")
+2254d24aff3a ("i2c: mux: document i2c muxes and elaborate on parent-/mux-locked muxes")
+51f97f6dd73d ("iio: imu: inv_mpu6050: convert to use an explicit i2c mux core")
+b852495908cd ("Merge branch 'i2c/for-next' of git://git.kernel.org/pub/scm/linux/kernel/git/wsa/linux")

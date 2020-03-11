@@ -1,0 +1,6 @@
+94538e51d67d ("mmc: sdhci: clean up host cookie handling")
+c0999b720c4f ("mmc: sdhci: pass the cookie into sdhci_pre_dma_transfer()")
+60c647624a67 ("mmc: sdhci: factor out sdhci_pre_dma_transfer() from sdhci_adma_table_pre()")
+48857d9b7865 ("mmc: sdhci: move sdhci_pre_dma_transfer()")
+edd63fcc97cd ("mmc: sdhci: avoid unnecessary mapping/unmapping of align buffer")
+04a5ae6fdd01 ("mmc: sdhci: 64-bit DMA actually has 4-byte alignment")

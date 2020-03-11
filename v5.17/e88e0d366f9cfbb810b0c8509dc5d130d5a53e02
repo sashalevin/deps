@@ -1,0 +1,6 @@
+e88e0d366f9c ("tmpfs: trivial support for direct IO")
+bd194b187115 ("shmem: Implement splice-read")
+a5454f95246a ("tmpfs: ensure O_LARGEFILE with generic_file_open()")
+cb241339b9d0 ("mm/shmem: fix chattr fsflags support in tmpfs")
+e408e695f5f1 ("mm/shmem: support FS_IOC_[SG]ETFLAGS in tmpfs")
+f7cd16a55837 ("tmpfs: support for file creation time")

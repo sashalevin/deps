@@ -1,0 +1,7 @@
+ed54c1a1d11c ("drm/i915: abolish separate per-ring default_context pointers")
+268270883921 ("drm/i915: simplify allocation of driver-internal requests")
+ca82580c9cea ("drm/i915: Do not call API requiring struct_mutex where it is not available")
+cbdc12a9fc9d ("drm/i915: make A0 wa's applied to A1")
+e87a005d90c3 ("drm/i915: add helpers for platform specific revision id range checks")
+fffda3f4fb49 ("drm/i915/bxt: add revision id for A1 stepping and use it")
+ef712bb4b700 ("drm/i915: remove parens around revision ids")

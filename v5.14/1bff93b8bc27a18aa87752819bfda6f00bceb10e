@@ -1,0 +1,7 @@
+1bff93b8bc27 ("drm/i915/psr: Extend SU area to cover cursor fully if needed")
+d6774b8c3c58 ("drm/i915: Ensure damage clip area is within pipe area")
+ac220f5f754b ("drm/i915/display/psr: Handle plane and pipe restrictions at every page flip")
+af7ea1e22afc ("drm/i915/display/psr: Use drm damage helpers to calculate plane damaged area")
+1f3a11c341ab ("drm/i915/display: Workaround cursor left overs with PSR2 selective fetch enabled")
+36203e4fb4cb ("drm/i915/display/adl_p: Implement PSR changes")
+0e20b769c4b3 ("drm/i915/display/psr: Handle SU Y granularity")

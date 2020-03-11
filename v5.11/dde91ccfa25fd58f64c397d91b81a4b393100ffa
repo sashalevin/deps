@@ -1,0 +1,4 @@
+dde91ccfa25f ("ethtool: do not perform operations on net devices being unregistered")
+d43c65b05b84 ("ethtool: runtime-resume netdev parent in ethnl_ops_begin")
+41107ac22fcf ("ethtool: move netif_device_present check from ethnl_parse_header_dev_get to ethnl_ops_begin")
+c5ab51df03e2 ("ethtool: move implementation of ethnl_ops_begin/complete to netlink.c")

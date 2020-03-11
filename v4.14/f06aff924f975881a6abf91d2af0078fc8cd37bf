@@ -1,0 +1,4 @@
+f06aff924f97 ("sysfs: Rename struct bin_attribute member to f_mapping")
+93bb8e352a91 ("sysfs: Invoke iomem_get_mapping() from the sysfs open callback")
+636b21b50152 ("PCI: Revoke mappings like devmem")
+74b30195395c ("sysfs: Support zapping of binary attr mmaps")

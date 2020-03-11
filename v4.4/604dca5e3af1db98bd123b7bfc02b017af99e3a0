@@ -1,0 +1,8 @@
+604dca5e3af1 ("bpf: Fix tnum constraints for 32-bit comparisons")
+092ed0968bb6 ("bpf: verifier support JMP32")
+a72dafafbd5f ("bpf: refactor verifier min/max code for condition jump")
+e2ae4ca266a1 ("bpf: verifier: hard wire branches to dead code")
+9b38c4056b27 ("bpf: verifier: reorder stack size check with dead code sanitization")
+960ea056561a ("bpf: verifier: teach the verifier to reason about the BPF_JSET instruction")
+d9762e84ede3 ("bpf: verbose log bpf_line_info in verifier")
+4cc1feeb6ffc ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

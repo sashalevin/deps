@@ -1,0 +1,4 @@
+54e02162d445 ("ptr_ring: prevent integer overflow when calculating size")
+6e6e41c31122 ("ptr_ring: fail early if queue occupies more than KMALLOC_MAX_SIZE")
+81fbfe8adaf3 ("ptr_ring: use kmalloc_array()")
+e71695307114 ("ptr_ring: fix race conditions when resizing")

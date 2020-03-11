@@ -1,0 +1,5 @@
+af628aae8640 ("device.h: move dev_printk()-like functions to dev_printk.h")
+e0b73d7beb91 ("linux/device.h: use DYNAMIC_DEBUG_BRANCH in dev_dbg_ratelimited")
+79a4e91d1bb2 ("device.h: Add __cold to dev_<level> logging functions")
+663336ee2628 ("device: Add #define dev_fmt similar to #define pr_fmt")
+1f62ff34a904 ("driver-core: use 'dev' argument in dev_dbg_ratelimited stub")

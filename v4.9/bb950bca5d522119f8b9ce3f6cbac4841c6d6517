@@ -1,0 +1,7 @@
+bb950bca5d52 ("PCI/ATS: Restore EXPORT_SYMBOL_GPL() for pci_{enable,disable}_ats()")
+d355bb209783 ("PCI/ATS: Remove unnecessary EXPORT_SYMBOL_GPL()")
+8cbb8a9374a2 ("PCI/ATS: Move pci_prg_resp_pasid_required() to CONFIG_PCI_PRI")
+fff42928ade5 ("PCI/ATS: Add inline to pci_prg_resp_pasid_required()")
+8c938ddc6df3 ("PCI/ATS: Add pci_ats_page_aligned() interface")
+e5567f5f6762 ("PCI/ATS: Add pci_prg_resp_pasid_required() interface.")
+4ebeb1ec56d4 ("PCI: Restore PRI and PASID state after Function-Level Reset")

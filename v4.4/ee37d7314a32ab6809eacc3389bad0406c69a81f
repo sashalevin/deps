@@ -1,0 +1,4 @@
+ee37d7314a32 ("md/raid10: Fix raid10 replace hang when new added disk faulty")
+f5b67ae86ee3 ("md: be extra careful not to take a reference to a Faulty device.")
+f90145f317ef ("md/raid10: add rcu protection to rdev access in raid10_sync_request.")
+83f1261f5e55 ("md/raid10: fix refounct imbalance when resyncing an array with a replacement device.")

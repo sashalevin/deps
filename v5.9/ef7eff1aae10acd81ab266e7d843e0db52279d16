@@ -1,0 +1,7 @@
+ef7eff1aae10 ("drm/i915: group display-related register calls")
+ec3e00b4ee27 ("drm/i915: stop registering if drm_dev_register() fails")
+9d8fddf8579a ("drm/i915: Disable outputs during unregister")
+949ab9d229a2 ("drm/i915: Guard debugfs against invalid access without display")
+da27bd41d0eb ("drm/i915: Reduce INTEL_DISPLAY_ENABLED to just removing the outputs")
+24d98a54b4a1 ("drm/i915: move more display related probe to intel_modeset_init_noirq()")
+a5f2488f645f ("drm/i915: split intel_modeset_init() pre/post gem init")

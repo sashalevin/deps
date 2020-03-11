@@ -1,0 +1,8 @@
+e41f8c0222e3 ("nvme-loop: use nvme core helpers to cancel all requests in a tagset")
+e7832cb48a65 ("nvme: make fabrics command run on a separate request queue")
+622b8b6893ff ("nvme: wait until all completed request's complete fn is called")
+87fd125344d6 ("nvme-rdma: remove redundant reference between ib_device and tagset")
+1007709d7d06 ("nvme-rdma: fix a NULL deref when an admin connect times out")
+7a42589654ae ("nvme-tcp: fix a NULL deref when an admin connect times out")
+6287b51c77e6 ("nvme-core: optionally poll sync commands")
+3f2304f8c6d6 ("nvme-tcp: add NVMe over TCP host driver")

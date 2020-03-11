@@ -1,0 +1,8 @@
+c49f3bee8cb5 ("mtd: rawnand: lpc32xx_mlc: convert driver to nand_scan()")
+ed64cb1df481 ("mtd: rawnand: lpc32xx_mlc: clean the probe function")
+17b694a5476d ("mtd: nand: lpc32xx_mlc: Fix an error handling path in lpc32xx_nand_probe()")
+4d26f012ab59 ("mtd: nand: lpc32xx_mlc: Handle return value of clk_prepare_enable.")
+b04bafca67da ("mtd: nand: lpc32xx: return error code of nand_scan_ident/tail() on error")
+d50b5239867f ("mtd: nand: lpc32xx: switch to mtd_ooblayout_ops")
+f771749e3a49 ("mtd: nand: lpc32xx_mlc: fix ecc.size")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")

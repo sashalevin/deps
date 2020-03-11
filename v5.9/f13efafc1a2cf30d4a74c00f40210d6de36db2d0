@@ -1,0 +1,6 @@
+f13efafc1a2c ("iommu/mediatek: Fix out-of-range warning with clang")
+08500c43d4f7 ("iommu/mediatek: Adjust the structure")
+862c3715de8f ("iommu: Switch gather->end to the inclusive end")
+20143451eff0 ("iommu/mediatek: Add iotlb_sync_map to sync whole the iova range")
+2ebbd25873ce ("iommu: Add iova and size as parameters in iotlb_sync_map")
+d8c1df02ac7f ("iommu: Move iotlb_sync_map out from __iommu_map")

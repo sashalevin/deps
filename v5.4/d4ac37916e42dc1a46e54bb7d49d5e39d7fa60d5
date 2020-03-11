@@ -1,0 +1,8 @@
+d4ac37916e42 ("ARM: at91: add support in soc driver for new SAMA7G54 SiPs")
+f12a29cb5666 ("drivers: soc: atmel: add support for sama7g5")
+af3a10513cd6 ("drivers: soc: atmel: add per soc id and version match masks")
+8eb2f88c6084 ("drivers: soc: atmel: use GENMASK")
+975435132ecf ("drivers: soc: atmel: add null entry at the end of at91_soc_allowed_list[]")
+960ddf70cc11 ("drivers: soc: atmel: Avoid calling at91_soc_init on non AT91 SoCs")
+786c395dbe42 ("ARM: at91: sam9x60 SiP types added to soc description")
+dccf72291394 ("drivers: soc: atmel: move sam9x60 under its own config flag")

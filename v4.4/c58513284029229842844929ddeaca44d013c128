@@ -1,0 +1,7 @@
+c58513284029 ("arm64: KVM: vgic-v3: Relax synchronization when SRE==1")
+1b8e83c04ee2 ("arm64: KVM: vgic-v3: Avoid accessing ICH registers")
+fd451b90e78c ("arm64: KVM: vgic-v3: Restore ICH_APR0Rn_EL2 before ICH_APR1Rn_EL2")
+f68d2b1b73cc ("arm64: KVM: Implement vgic-v3 save/restore")
+3c13b8f435ac ("KVM: arm/arm64: vgic-v3: Make the LR indexing macro public")
+06282fd2c2bf ("arm64: KVM: Implement vgic-v2 save/restore")
+c76a0a6695c6 ("arm64: KVM: Add a HYP-specific header file")

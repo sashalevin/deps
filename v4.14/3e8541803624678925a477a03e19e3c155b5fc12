@@ -1,0 +1,6 @@
+3e8541803624 ("builddeb: Enable rootless builds")
+1a7f0a34ea7d ("builddeb: allow selection of .deb compressor")
+a11391b6f506 ("scripts: package: mkdebian: add missing rsync dependency")
+e3a22850664f ("deb-pkg: generate correct build dependencies")
+b41d920acff8 ("kbuild: deb-pkg: split generating packaging and build")
+bace64800bae ("builddeb: Pass the kernel:debarch substvar to dpkg-genchanges")

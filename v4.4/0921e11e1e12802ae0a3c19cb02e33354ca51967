@@ -1,0 +1,5 @@
+0921e11e1e12 ("spi: sh-msiof: Fix setting SIRMDR1.SYNCAC to match SITMDR1.SYNCAC")
+7ff0b53c4051 ("spi: sh-msiof: Avoid writing to registers from spi_master.setup()")
+cf9e4784f3bd ("spi: sh-msiof: Add slave mode support")
+e7ad4a73364c ("spi: sh-msiof: Remove useless memory allocation failure message")
+a6802cc05f9e ("spi: sh-msiof: Remove sh_msiof_spi_priv.chipdata")

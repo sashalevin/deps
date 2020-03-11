@@ -1,0 +1,4 @@
+a0f4b7879f2e ("parisc: Fix lightweight spinlock checks to not break futexes")
+15e64ef6520e ("parisc: Add lightweight spinlock checks")
+72c3dd8207de ("parisc: Add lws_atomic_xchg and lws_atomic_store syscalls")
+d0585d742ff2 ("parisc: Rewrite light-weight syscall and futex code")

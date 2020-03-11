@@ -1,0 +1,7 @@
+60d488571083 ("binder: take read mode of mmap_sem in binder_alloc_free_page()")
+5cec2d2e5839 ("binder: fix race between munmap() and direct reclaim")
+3013bf62b67a ("binder: reduce mmap_sem write-side lock")
+da1b9564e85b ("android: binder: fix the race mmap and alloc_new_buf_locked")
+128f38041035 ("android: binder: Rate-limit debug and userspace triggered err msgs")
+1e81c57b5983 ("android: binder_alloc: Include asm/cacheflush.h after linux/ include files")
+3f827245463a ("ANDROID: binder: make binder_alloc_new_buf_locked static and indent its arguments")

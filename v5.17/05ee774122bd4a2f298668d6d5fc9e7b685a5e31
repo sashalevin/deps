@@ -1,0 +1,7 @@
+05ee774122bd ("swiotlb: make io_tlb_default_mem local to swiotlb.c")
+b035f5a6d852 ("mm: slab: reduce the kmalloc() minimum alignment if DMA bouncing possible")
+963e84b0f262 ("mm/slab: limit kmalloc() minimum alignment to dma_get_cache_alignment()")
+0c474d31a637 ("mm/slab: simplify create_kmalloc_cache() args and make it static")
+ec274aff21b6 ("swiotlb: Omit total_used and used_hiwater if !CONFIG_DEBUG_FS")
+8b0977ecc8b3 ("swiotlb: track and report io_tlb_used high water marks in debugfs")
+6ffb575bebb9 ("Merge tag 'dma-mapping-6.3-2022-02-27' of git://git.infradead.org/users/hch/dma-mapping")

@@ -1,0 +1,7 @@
+ee427ea4f126 ("ASoC: fsl_asrc_dma: request dma channel from specific controller")
+b287a6d9723c ("ASoC: fsl_asrc_dma: Fix data copying speed issue with EDMA")
+706e2c881158 ("ASoC: fsl_asrc_dma: Reuse the dma channel if available in Back-End")
+36124fb19f1a ("ASoC: fsl_asrc_dma: Fix dma_chan leak when config DMA channel failed")
+be7bd03f0201 ("ASoC: fsl_asrc: Move common definition to fsl_asrc_common")
+4520af41fd21 ("ASoC: fsl_asrc: Support new property fsl,asrc-format")
+7470704d8b42 ("ASoC: fsl_asrc: rename asrc_priv to asrc")

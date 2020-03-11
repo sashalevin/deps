@@ -1,0 +1,4 @@
+cc4342f60f1a ("net: mvpp2: Defer probe if MAC address source is not yet ready")
+7a74c1265ab4 ("net: mvpp2: Consider NVMEM cells as possible MAC address source")
+f3956ebb3bf0 ("ethernet: use eth_hw_addr_set() instead of ether_addr_copy()")
+b357d9717be7 ("ice: Only lock to update netdev dev_addr")

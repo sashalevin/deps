@@ -1,0 +1,8 @@
+8820a4473830 ("powerpc/mm: constify FIRST_CONTEXT in mmu_context_nohash")
+aa0ab02ba992 ("powerpc/mm/slice: Fix hugepage allocation at hint address on 8xx")
+4722476bce28 ("powerpc/64s: mm_context.addr_limit is only used on hash")
+85e3f1adcb9d ("powerpc/64s/radix: Fix 128TB-512TB virtual address boundary case allocation")
+effc1b250885 ("powerpc/64s/hash: Fix fork() with 512TB process address space")
+6a72dc038b61 ("powerpc/64s/hash: Fix 128TB-512TB virtual address boundary case allocation")
+7ece370996b6 ("powerpc/64s/hash: Fix 512T hint detection to use >= 128T")
+4e003747043d ("powerpc/64s: Replace CONFIG_PPC_STD_MMU_64 with CONFIG_PPC_BOOK3S_64")

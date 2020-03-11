@@ -1,0 +1,7 @@
+adc43caa0a25 ("KVM: x86: hyper-v: Resurrect dedicated KVM_REQ_HV_TLB_FLUSH flag")
+527d5cd7eece ("KVM: x86/mmu: Zap only obsolete roots if a root shadow page is zapped")
+2f6f66ccd21e ("KVM: Drop kvm_reload_remote_mmus(), open code request in x86 users")
+9c52f6b3d8c0 ("KVM: x86: Shove vp_bitmap handling down into sparse_set_to_vcpu_mask()")
+e27bc0440ebd ("KVM: x86: Rename kvm_x86_ops pointers to align w/ preferred vendor names")
+fc4fad79fc3d ("KVM: VMX: Reject KVM_RUN if emulation is required with pending exception")
+855fb0384a3d ("Merge remote-tracking branch 'kvm/master' into HEAD")

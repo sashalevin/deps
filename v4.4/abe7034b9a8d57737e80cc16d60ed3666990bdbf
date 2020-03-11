@@ -1,0 +1,8 @@
+abe7034b9a8d ("Revert "netfilter: x_tables: Update remaining dereference to RCU"")
+443d6e86f821 ("netfilter: x_tables: Update remaining dereference to RCU")
+03d13b6868a2 ("netfilter: xtables: add and use xt_request_find_table_lock")
+7dde07e9c536 ("netfilter: x_tables: unlock on error in xt_find_table_lock()")
+eb1a6bdc2826 ("netfilter: x_tables: simplify IS_ERR_OR_NULL to NULL test")
+d7591f0c41ce ("netfilter: x_tables: introduce and use xt_copy_counters_from_user")
+b9e69e127397 ("netfilter: xtables: don't hook tables by default")
+a67dd266adf4 ("netfilter: xtables: prepare for on-demand hook register")

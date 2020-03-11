@@ -1,0 +1,7 @@
+0ea2ea42b31a ("drm/vkms: Hold gem object while still in-use")
+36b6c9ed45af ("drm/vkms: fix use-after-free when drm_gem_handle_create() fails")
+7c3d0f159ca0 ("drm/vkms: Use new return type vm_fault_t")
+559e50fd34d1 ("drm/vkms: Add dumb operations")
+854502fa0a38 ("drm/vkms: Add basic CRTC initialization")
+c04372ea4abd ("drm/vkms: Add mode_config initialization")
+1c7c5fd916a0 ("drm/vkms: Introduce basic VKMS driver")

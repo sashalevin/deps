@@ -1,0 +1,7 @@
+a6a8cdfdde43 ("mm/zsmalloc: remove set_zspage_mapping()")
+4c7ac97285d8 ("zsmalloc: fine-grained inuse ratio based fullness grouping")
+a40a71e8343e ("zsmalloc: remove insert_zspage() ->inuse optimization")
+85b325815b56 ("zsmalloc: fix a race with deferred_handles storing")
+9997bc017549 ("zsmalloc: implement writeback mechanism for zsmalloc")
+64f768c6b32e ("zsmalloc: add a LRU to zs_pool to keep track of zspages in LRU order")
+c0547d0b6a4b ("zsmalloc: consolidate zs_pool's migrate_lock and size_class's locks")

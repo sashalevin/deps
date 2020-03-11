@@ -1,0 +1,5 @@
+147277540bbc ("kvm: svm: Add support for additional SVM NPF error codes")
+be94f6b71067 ("KVM, pkeys: add pkeys support for permission_fault")
+f13577e8aa86 ("KVM: MMU: return page fault error code from permission_fault")
+e9ee956e311d ("KVM: x86: MMU: Move handle_mmio_page_fault() call to kvm_mmu_page_fault()")
+ded5874946ba ("KVM: x86: MMU: Consolidate quickly_check_mmio_pf() and is_mmio_page_fault()")

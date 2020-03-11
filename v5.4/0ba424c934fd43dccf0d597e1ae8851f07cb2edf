@@ -1,0 +1,7 @@
+0ba424c934fd ("nvmem: core: only change name to fram for current attribute")
+2a4542e55f1b ("nvmem: core: cleanup old eeprom compat entry attributes")
+844003052719 ("nvmem: core: remove nvmem_sysfs_get_groups()")
+664f0549380c ("nvmem: core: use is_bin_visible for permissions")
+e6de179d7a88 ("nvmem: core: add root_only member to nvmem device struct")
+3c91ef69a3e9 ("nvmem: check for NULL reg_read and reg_write before dereferencing")
+2a127da461a9 ("nvmem: add support for the write-protect pin")

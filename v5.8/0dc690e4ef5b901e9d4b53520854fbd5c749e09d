@@ -1,0 +1,5 @@
+0dc690e4ef5b ("asm-generic: Define 'func_desc_t' to commonly describe function descriptors")
+2fd986377d54 ("powerpc: Prepare func_desc_t for refactorisation")
+d3e32b997a4c ("powerpc: Use 'struct func_desc' instead of 'struct ppc64_opd_entry'")
+e012a25d81a1 ("powerpc: use generic version of arch_is_kernel_initmem_freed()")
+60e5da629a7c ("sections.h: dereference_function_descriptor() returns void pointer")

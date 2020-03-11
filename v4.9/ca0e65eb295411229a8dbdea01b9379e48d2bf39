@@ -1,0 +1,8 @@
+ca0e65eb2954 ("net/ipv6: factor out MCAST_MSFILTER setsockopt helpers")
+fcfa0b09d3f7 ("ipv6: take handling of group_source_req options into a helper")
+168a2cca8143 ("ipv6: do compat setsockopt for MCAST_MSFILTER directly")
+d59eb177c84f ("ip6_mc_msfilter(): pass the address list separately")
+e9c375fb5ede ("compat_ip{,v6}_setsockopt(): enumerate MCAST_... options explicitly")
+c7ea20c9da5b ("ipv6/mcast: init as INCLUDE when join SSM INCLUDE group")
+43727da90ec8 ("do_ipv6_setsockopt(): don't open-code memdup_user()")
+1666d49e1d41 ("mld: do not remove mld souce list info when set link down")

@@ -1,0 +1,6 @@
+53cd4cd3b12d ("fs/buffer.c: massage the remaining users of ->bd_inode to ->bd_mapping")
+4b04646caed5 ("buffer: fix various functions for block size > PAGE_SIZE")
+6d68f644b97c ("buffer: convert block_truncate_page() to use a folio")
+eee25182a80a ("buffer: use a folio in __find_get_block_slow()")
+dc7cb2d29805 ("fs/buffer: Remove redundant assignment to err")
+9e0b6f31bae6 ("buffer: Convert clean_bdev_aliases() to use filemap_get_folios()")

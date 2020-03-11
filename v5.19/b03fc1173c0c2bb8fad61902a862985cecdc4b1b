@@ -1,0 +1,5 @@
+b03fc1173c0c ("bitops: let optimize out non-atomic bitops on compile-time constants")
+e69eb9c460f1 ("bitops: wrap non-atomic bitops with a transparent macro")
+bb7379bfa680 ("bitops: define const_*() versions of the non-atomics")
+0e862838f290 ("bitops: unify non-atomic bitops prototypes across architectures")
+21bb8af513d3 ("bitops: always define asm-generic non-atomic bitops")

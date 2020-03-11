@@ -1,0 +1,5 @@
+ea37a6b8a0b9 ("drivers:hv: Separate out frame buffer logic when picking MMIO range")
+be000f93e5d7 ("drivers:hv: Track allocations of children of hv_vmbus in private resource tree")
+97fb77dc8758 ("drivers:hv: Make a function to free mmio regions through vmbus")
+e16dad6bfe14 ("drivers:hv: Lock access to hyperv_mmio resource tree")
+619848bd0743 ("drivers:hv: Export a function that maps Linux CPU num onto Hyper-V proc num")

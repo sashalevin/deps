@@ -1,0 +1,6 @@
+14801c624066 ("mmc: mmc_spi: Fix mmc_spi_dma_alloc() return type for !HAS_DMA")
+a395acf0f6dc ("mmc: mmc_spi: Allow the driver to be built when CONFIG_HAS_DMA is unset")
+70a557e63f1a ("mmc: mmc_spi: Remove useless NULL check at ->remove()")
+b9ffe4086206 ("mmc: mmc_spi: Remove redundant dev_set_drvdata()")
+e176c2559fc3 ("MMC: Remove HIGHMEM dependency from mmc-spi driver")
+b00663124c76 ("mmc: mmc_spi: add checks for dma mapping error")

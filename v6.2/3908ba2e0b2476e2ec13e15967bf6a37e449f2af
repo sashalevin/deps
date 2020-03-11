@@ -1,0 +1,5 @@
+3908ba2e0b24 ("RISC-V: Enable the IPI before workqueue_online_cpu()")
+21a8f8a0eb35 ("irqchip: Add RISC-V incoming MSI controller early driver")
+832f15f42646 ("RISC-V: Treat IPIs as normal Linux IRQs")
+0c60a31ce62c ("irqchip/riscv-intc: Allow drivers to directly discover INTC hwnode")
+3ee92565b83e ("RISC-V: Clear SIP bit only when using SBI IPI operations")

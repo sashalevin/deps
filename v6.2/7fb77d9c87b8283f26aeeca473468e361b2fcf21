@@ -1,0 +1,8 @@
+7fb77d9c87b8 ("smb: client: handle STATUS_IO_REPARSE_TAG_NOT_HANDLED")
+5f71ebc41294 ("smb: client: parse reparse point flag in create response")
+c5f44a3d5477 ("smb: client: make smb2_compound_op() return resp buffer on success")
+8b4e285d8ce3 ("smb: client: move some params to cifs_open_info_data")
+d439b29057e2 ("smb: client: fix broken file attrs with nodfs mounts")
+33f736187d08 ("cifs: prevent use-after-free by freeing the cfile later")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+b9ee2e307c6b ("cifs: improve checking of DFS links over STATUS_OBJECT_NAME_INVALID")

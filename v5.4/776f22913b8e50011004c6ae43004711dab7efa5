@@ -1,0 +1,3 @@
+776f22913b8e ("sched/clock: Make local_clock() noinstr")
+8491d1bdf5de ("sched/clock: Use try_cmpxchg64 in sched_clock_{local,remote}")
+fa28abed7a84 ("sched/headers: sched/clock: Mark all functions 'notrace', remove CC_FLAGS_FTRACE build asymmetry")

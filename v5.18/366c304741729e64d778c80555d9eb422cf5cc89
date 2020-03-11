@@ -1,0 +1,6 @@
+366c30474172 ("bnxt_en: fix LRO/GRO_HW features in ndo_fix_features callback")
+1dc4c557bfed ("bnxt: adding bnxt_xdp_build_skb to build skb from multibuffer xdp_buff")
+32861236190b ("bnxt: change receive ring space parameters")
+23e4c0469ad0 ("bnxt: rename bnxt_rx_pages to bnxt_rx_agg_pages_skb")
+ca1df2dd8e2f ("bnxt: refactor bnxt_rx_pages operate on skb_shared_info")
+b231c3f3414c ("bnxt: refactor bnxt_rx_xdp to separate xdp_init_buff/xdp_prepare_buff")

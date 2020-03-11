@@ -1,0 +1,7 @@
+1a280f48c0e4 ("s390/kprobes: replace kretprobe with rethook")
+ded466e18066 ("s390/unwind: fix fgraph return address recovery")
+afacda5faabd ("s390/test_unwind: verify __kretprobe_trampoline is replaced")
+d81675b60d09 ("s390/unwind: recover kretprobe modified return address in stacktrace")
+09bc20c8fb35 ("s390/kprobes: enable kretprobes framepointer verification")
+63bf38ff5bc3 ("s390/kprobes: Avoid additional kprobe in kretprobe handling")
+8a0c97055027 ("s390/test_unwind: add "backtrace" module parameter")

@@ -1,0 +1,4 @@
+c2e7a19827ee ("powerpc: Use generic fallocate compatibility syscall")
+016ff72bd209 ("powerpc: Fix fallocate and fadvise64_64 compat parameter combination")
+5ba6c9a912fe ("powerpc: Remove asmlinkage from syscall handler definitions")
+f18ed30db299 ("fs: stat: compat: Add __ARCH_WANT_COMPAT_STAT")

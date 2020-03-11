@@ -1,0 +1,6 @@
+2d071c643f1c ("bpf, trace: make ctx access checks more robust")
+1ca1cc98bf74 ("bpf: minor cleanups on fd maps and helpers")
+3b1efb196eee ("bpf, maps: flush own entries on perf map release")
+5b6c1b4d46b0 ("bpf, trace: use READ_ONCE for retrieving file ptr")
+9fd82b610ba3 ("bpf: register BPF_PROG_TYPE_TRACEPOINT program type")
+e03e7ee34fdd ("perf/bpf: Convert perf_event_array to use struct file")

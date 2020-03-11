@@ -1,0 +1,7 @@
+b5ad0d2e8832 ("rcu: Remove unused 'cpu' in rcu_virt_note_context_switch()")
+1ca0016c149b ("context_tracking: KVM: Move guest enter/exit wrappers to KVM's domain")
+14296e0c4478 ("context_tracking: Consolidate guest enter/exit wrappers")
+6f922b89e551 ("sched/vtime: Move guest enter/exit vtime accounting to vtime.h")
+b41c723b203e ("sched/vtime: Move vtime accounting external declarations above inlines")
+88d8220bbf06 ("context_tracking: Move guest exit vtime accounting to separate helpers")
+866a6dadbb02 ("context_tracking: Move guest exit context tracking to separate helpers")

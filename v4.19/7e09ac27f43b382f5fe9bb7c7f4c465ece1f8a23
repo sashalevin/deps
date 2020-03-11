@@ -1,0 +1,7 @@
+7e09ac27f43b ("x86: Fix .brk attribute in linker script")
+e32683c6f7d2 ("x86/mm: Fix RESERVE_BRK() for older binutils")
+a1e2c031ec39 ("x86/mm: Simplify RESERVE_BRK()")
+2b6ff7dea670 ("x86/ibt: Dont generate ENDBR in .discard.text")
+81519f778830 ("x86/setup: Remove unused RESERVE_BRK_ARRAY()")
+33def8498fdd ("treewide: Convert macro and uses of __section(foo) to __section("foo")")
+c51ae1247262 ("Merge tag 'x86_seves_fixes_for_v5.10_rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

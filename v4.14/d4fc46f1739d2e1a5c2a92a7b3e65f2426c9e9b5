@@ -1,0 +1,6 @@
+d4fc46f1739d ("gpiolib: acpi: Make acpi_gpiochip_alloc_event always return AE_OK")
+3f86a7e090d1 ("gpiolib: acpi: Print pin number on acpi_gpiochip_alloc_event errors")
+e59f5e08ece1 ("gpiolib-acpi: Only defer request_irq for GpioInt ACPI event handlers")
+78d3a92edbfb ("gpiolib-acpi: Register GpioInt ACPI event handlers from a late_initcall")
+993b9bc5c47f ("gpiolib: acpi: Switch to cansleep version of GPIO library call")
+ca876c7483b6 ("gpiolib-acpi: make sure we trigger edge events at least once on boot")

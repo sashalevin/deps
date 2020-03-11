@@ -1,0 +1,6 @@
+99419b251e54 ("x86/kvm: Add KVM-specific VMMCALL handling under SEV-ES")
+19308a412ec5 ("x86/kvm: Fix -Wmissing-prototypes warnings")
+48a8b97cfd80 ("x86/mm: Only use tlb_remove_table() for paravirt")
+d86564a2f085 ("mm/tlb, x86/mm: Support invalidating TLB caches for RCU_TABLE_FREE")
+52a288c73666 ("x86/mm/tlb: Revert the recent lazy TLB patches")
+e61cf2e3a5b4 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

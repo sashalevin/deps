@@ -1,0 +1,7 @@
+022bba63c3ca ("net: dsa: move headers exported by port.c to port.h")
+ed1fe1bebe18 ("net: dsa: make dsa_master_ioctl() see through port_hwtstamp_get() shims")
+cf5ca4ddc37a ("net: dsa: don't leave dangling pointers in dp->pl when failing")
+95f510d0b792 ("net: dsa: allow the DSA master to be seen and changed through rtnetlink")
+5dc760d12082 ("net: dsa: use dsa_tree_for_each_cpu_port in dsa_tree_{setup,teardown}_master")
+770375ff3311 ("net: dsa: rename dsa_port_link_{,un}register_of")
+da2c398e59d6 ("net: dsa: avoid dsa_port_link_{,un}register_of() calls with platform data")

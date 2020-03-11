@@ -1,0 +1,7 @@
+d0c2d66fcc8d ("ftrace: Replace all non-returning strlcpy with strscpy")
+fc0ea795f53c ("ftrace: Add symbols for ftrace trampolines")
+b3a88803ac5b ("ftrace: Kill FTRACE_OPS_FL_PER_CPU")
+6171a0310a06 ("ftrace/kallsyms: Have /proc/kallsyms show saved mod init functions")
+aba4b5c22cba ("ftrace: Save module init functions kallsyms symbols for tracing")
+3e234289f86b ("ftrace: Allow module init functions to be traced")
+6cafbe159416 ("ftrace: Add a ftrace_free_mem() function for modules to use")

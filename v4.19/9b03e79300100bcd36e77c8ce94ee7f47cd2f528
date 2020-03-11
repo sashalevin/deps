@@ -1,0 +1,6 @@
+9b03e7930010 ("arch_topology: Silence early cacheinfo errors when non-existent")
+3fcbf1c77d08 ("arch_topology: Fix cache attributes detection in the CPU hotplug path")
+38db9b95464f ("arch_topology: Add support to parse and detect cache attributes")
+60c1b220d8bc ("cpu-topology: Move cpu topology code to common code.")
+5d777b185f6d ("arch_topology: Make cpu_capacity sysfs node as read-only")
+bb1fbdd3c3fd ("sched/topology, drivers/base/arch_topology: Rebuild the sched_domain hierarchy when capacities change")

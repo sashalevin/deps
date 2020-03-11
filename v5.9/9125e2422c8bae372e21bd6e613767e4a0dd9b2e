@@ -1,0 +1,5 @@
+9125e2422c8b ("drm/nouveau/kms/nv50-: Fix locking for audio callbacks")
+b2b402789bb7 ("drm/nouveau/kms/nv50-: Use nouveau_encoder->crtc in get_eld callback")
+f575f2bdb6c3 ("drm/nouveau/kms/nv50-: Remove (nv_encoder->crtc) checks in ->disable callbacks")
+4944245cebb9 ("drm/nouveau/kms/nv50-: Use drm_dp_dpcd_(readb|writeb)() in nv50_sor_disable()")
+09838c4efe9a ("drm/nouveau/kms: Search for encoders' connectors properly")

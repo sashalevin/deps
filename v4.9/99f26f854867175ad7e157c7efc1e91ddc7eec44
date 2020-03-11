@@ -1,0 +1,6 @@
+99f26f854867 ("perf trace: Streamline validation of select syscall names list")
+a4066d64d939 ("perf trace: Fix exclusion of not available syscall names from selector list")
+04c41bcb862b ("perf trace: Skip unknown syscalls when expanding strace like syscall groups")
+27702bcfe8a1 ("perf trace: Support syscall name globbing")
+d6d4fc6fefda ("perf trace: Fix off by one string allocation problem")
+017037ff3d0b ("perf trace: Allow specifying list of syscalls and events in -e/--expr/--event")

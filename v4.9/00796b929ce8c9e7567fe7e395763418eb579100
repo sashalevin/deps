@@ -1,0 +1,8 @@
+00796b929ce8 ("sfc: elide assignment of skb")
+69b4ed5cbff5 ("net: sfc: use skb_list_walk_safe helper for gso segments")
+f79c957a0b53 ("drivers: net: sfc: use netdev_xmit_more helper")
+f694be27b7c0 ("sfc: Replace dev_kfree_skb_any by dev_consume_skb_any")
+0c235113b3c4 ("sfc: stop the TX queue before pushing new buffers")
+5a6681e22c14 ("sfc: separate out SFC4000 ("Falcon") support into new sfc-falcon driver")
+46d1efd852cc ("sfc: remove Software TSO")
+e9117e5099ea ("sfc: Firmware-Assisted TSO version 2")

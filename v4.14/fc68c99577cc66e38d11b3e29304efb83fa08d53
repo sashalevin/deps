@@ -1,0 +1,7 @@
+fc68c99577cc ("vxlan: Support for PMTU discovery on directly bridged links")
+4cb47a8644cc ("tunnels: PMTU discovery support for directly bridged IP packets")
+571912c69f0e ("net: UDP tunnel encapsulation module for tunnelling different protocols like MPLS, IP, NSH etc.")
+f081042d128a ("net/dst: do not confirm neighbor for vxlan and geneve pmtu update")
+4179cb5a4c92 ("vxlan: test dev->flags & IFF_UP before calling netif_rx()")
+a025fb5f49ad ("geneve: Allow configuration of DF behaviour")
+2e2d6f0342be ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

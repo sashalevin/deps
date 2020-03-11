@@ -1,0 +1,5 @@
+23a65db83b3f ("io_uring: improve same wq polling")
+7a274727702c ("io_uring: don't modify req->poll for rw")
+ea6a693d862d ("io_uring: disable multishot poll for double poll add cases")
+1c3b3e6527e5 ("io_uring: ignore double poll add on the same waitqueue head")
+58852d4d6737 ("io_uring: fix double poll mask init")

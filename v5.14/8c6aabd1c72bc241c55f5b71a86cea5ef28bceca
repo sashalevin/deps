@@ -1,0 +1,4 @@
+8c6aabd1c72b ("nfsd/blocklayout: use ->get_unique_id instead of sending SCSI commands")
+33ff4ce45b12 ("scsi: core: Rename CONFIG_BLK_SCSI_REQUEST to CONFIG_SCSI_COMMON")
+b69367dffd86 ("scsi: scsi_ioctl: Move scsi_command_size_tbl to scsi_common.c")
+78011042684d ("scsi: bsg: Move bsg_scsi_ops to drivers/scsi/")

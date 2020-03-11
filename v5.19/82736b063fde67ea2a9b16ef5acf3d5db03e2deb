@@ -1,0 +1,8 @@
+82736b063fde ("habanalabs: MMU invalidation h/w is per device")
+62adba0a55a7 ("habanalabs: fix possible hole in device va")
+5f92c1e29619 ("habanalabs: remove all kdma locks")
+ae937492ecc7 ("habanalabs/gaudi2: remove old interrupt mappings")
+d7bb1ac89b2f ("habanalabs: add gaudi2 asic-specific code")
+fce854e9bc24 ("habanalabs: communicate supported page sizes to user")
+b2711ab2b0b0 ("habanalabs: page size can only be a power of 2")
+a43a9f67774a ("habanalabs: fix double unlock on error in map_device_va()")

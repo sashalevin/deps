@@ -1,0 +1,6 @@
+ca2a3343d697 ("block: remove WARN_ON() from bd_link_disk_holder")
+d62633873590 ("block: support delayed holder registration")
+0dbcfe247f22 ("block: look up holders by bdev")
+fbd9a39542ec ("block: remove the extra kobject reference in bd_link_disk_holder")
+c66fd019713e ("block: make the block holder code optional")
+cf179948554a ("block: add disk sequence number")

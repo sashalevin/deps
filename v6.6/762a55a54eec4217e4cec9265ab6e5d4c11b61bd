@@ -1,0 +1,7 @@
+762a55a54eec ("net/mlx5e: Disable IPsec offload support if not FW steering")
+82f9378c443c ("net/mlx5: Handle IPsec steering upon master unbind/bind")
+f2f0231cfe89 ("net/mlx5: Configure IPsec steering for ingress RoCEv2 MPV traffic")
+dfbd229abeee ("net/mlx5: Configure IPsec steering for egress RoCEv2 MPV traffic")
+69c08efcbe7f ("net/mlx5: Add create alias flow table function to ipsec roce")
+eff5b663a6c3 ("net/mlx5: Store devcom pointer inside IPsec RoCE")
+bf11485f8419 ("net/mlx5: Register mlx5e priv to devcom in MPV mode")

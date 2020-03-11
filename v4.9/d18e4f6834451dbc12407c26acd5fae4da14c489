@@ -1,0 +1,4 @@
+d18e4f683445 ("net: ena: fix race condition between device reset and link up setup")
+06443684daed ("net: ena: allow the driver to work with small number of msix vectors")
+da6f4cf58e40 ("net/ena: switch to pci_alloc_irq_vectors")
+22b331c9e0a3 ("net/ena: fix NULL dereference when removing the driver after device reset failed")

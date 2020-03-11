@@ -1,0 +1,4 @@
+6c922cf75115 ("mm/memory_hotplug: use helper function zone_end_pfn() to get end_pfn")
+656d57119326 ("mm/memory_hotplug: fix updating the node span")
+00d6c019b5bc ("mm/memory_hotplug: don't access uninitialized memmaps in shrink_pgdat_span()")
+49ba3c6b37b3 ("mm/hotplug: prepare shrink_{zone, pgdat}_span for sub-section removal")

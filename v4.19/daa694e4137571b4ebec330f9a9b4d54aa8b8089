@@ -1,0 +1,3 @@
+daa694e41375 ("getrusage: move thread_group_cputime_adjusted() outside of lock_task_sighand()")
+c7ac8231ace9 ("getrusage: add the "signal_struct *sig" local variable")
+bdd565f817a7 ("y2038: rusage: use __kernel_old_timeval")

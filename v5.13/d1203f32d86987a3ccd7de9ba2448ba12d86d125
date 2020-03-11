@@ -1,0 +1,5 @@
+d1203f32d869 ("powerpc/Kconfig: Fix non existing CONFIG_PPC_FSL_BOOKE")
+49e3d8ea6248 ("powerpc/fsl_booke: Enable STRICT_KERNEL_RWX")
+68b44f94d637 ("powerpc/booke: Disable STRICT_KERNEL_RWX, DEBUG_PAGEALLOC and KFENCE")
+c35717c71e98 ("powerpc: Set ARCH_HAS_STRICT_MODULE_RWX")
+1f9ad21c3b38 ("powerpc/mm: Implement set_memory() routines")

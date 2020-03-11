@@ -1,0 +1,6 @@
+612f769edd06 ("sched/rt: Make rt_rq->pushable_tasks updates drive rto_mask")
+71d29747b0e2 ("sched/deadline,rt: Remove unused functions for !CONFIG_SMP")
+e6fe3f422be1 ("sched: Make multiple runqueue task counters 32-bit")
+934fc3314b39 ("sched/cpupri: Remap CPUPRI_NORMAL to MAX_RT_PRIO-1")
+1b08782ce31f ("sched/cpupri: Remove pri_to_cpu[1]")
+5e054bca44fe ("sched/cpupri: Remove pri_to_cpu[CPUPRI_IDLE]")

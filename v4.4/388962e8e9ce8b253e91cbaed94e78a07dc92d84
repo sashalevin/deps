@@ -1,0 +1,8 @@
+388962e8e9ce ("fs/cifs/smb2pdu.c: Make SMB2_notify_init static")
+c3498185b789 ("smb3: add missing worker function for SMB3 change notify")
+d42043a600ab ("smb3: add dynamic trace point for query_info_enter/done")
+296ecbae7fdf ("cifs: add SMB2_query_info_[init|free]()")
+40eff45b5dc7 ("cifs: remove smb2_send_recv()")
+c713c8770fa5 ("cifs: push rfc1002 generation down the stack")
+6da2ec56059c ("treewide: kmalloc() -> kmalloc_array()")
+0c14e43a42e4 ("Merge tag '4.18-fixes-smb3' of git://git.samba.org/sfrench/cifs-2.6")

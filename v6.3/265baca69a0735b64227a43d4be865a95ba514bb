@@ -1,0 +1,5 @@
+265baca69a07 ("s390/pci: Stop usurping pdev->dev.groups")
+9679fec2cad4 ("s390/pci: Drop unneeded reference to CONFIG_DMI")
+c76c067e488c ("s390/pci: Use dma-iommu layer")
+fa4c4507099f ("iommu: Allow .iotlb_sync_map to fail and handle s390's -ENOMEM return")
+e04c7487a665 ("iommu: Add IOMMU_DOMAIN_PLATFORM for S390")

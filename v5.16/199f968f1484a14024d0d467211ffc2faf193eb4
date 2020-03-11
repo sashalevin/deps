@@ -1,0 +1,4 @@
+199f968f1484 ("x86/pci: Skip early E820 check for ECAM region")
+070909e56a7d ("x86/pci: Reserve ECAM if BIOS didn't include it in PNP0C02 _CRS")
+fd3a8cff4d4a ("x86/pci: Treat EfiMemoryMappedIO as reservation of ECAM space")
+a48fe6376919 ("x86/pci: Simplify is_mmconf_reserved() messages")

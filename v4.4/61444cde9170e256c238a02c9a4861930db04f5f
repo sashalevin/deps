@@ -1,0 +1,4 @@
+61444cde9170 ("ARM: 8591/1: mm: use fully constructed struct pages for EFI pgd allocations")
+c7936206b971 ("ARM: implement create_mapping_late() for EFI use")
+f579b2b10412 ("ARM: factor out allocation routine from __create_mapping()")
+1bdb2d4ee05f ("ARM: split off core mapping logic from create_mapping")

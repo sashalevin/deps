@@ -1,0 +1,5 @@
+dd8dc442c1e3 ("misc/vmw_vmci: Use kmap_local_page() in vmci_queue_pair.c")
+d1038084415c ("vmci: the same on the send side...")
+53f58d8ed862 ("vmci: simplify qp_dequeue_locked()")
+ce3d6e7d4200 ("vmci: get rid of qp_memcpy_from_queue()")
+19c5b89d8d58 ("vmci: fix buf_size in case of iovec-based accesses")

@@ -1,0 +1,8 @@
+d55dfe587bc0 ("bpftool: Remove BPF_OBJ_NAME_LEN restriction when looking up bpf program by name")
+a479b8ce4ed1 ("tools/bpftool: Move map/prog parsing logic into common")
+6e7e034e88e8 ("tools, bpftool: Poison and replace kernel integer typedefs")
+6ae32b29c09b ("tools: bpftool: Restore message on failure to guess program type")
+99f9863a0c45 ("bpftool: Match maps by name")
+a7d22ca2a483 ("bpftool: Match programs by name")
+ec2025095cf6 ("bpftool: Match several programs with same tag")
+32e3e58e4c59 ("bpftool: Fix bpftool build by switching to bpf_object__open_file()")

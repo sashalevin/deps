@@ -1,0 +1,4 @@
+561cafebb2cf ("selftests: kvm: Fix a compile error in selftests/kvm/rseq_test.c")
+e923b0537d28 ("KVM: selftests: Fix target thread to be migrated in rseq_test")
+7b0035eaa7da ("KVM: selftests: Ensure all migrations are performed when test is affined")
+61e52f1630f5 ("KVM: selftests: Add a test for KVM_RUN+rseq to detect task migration bugs")

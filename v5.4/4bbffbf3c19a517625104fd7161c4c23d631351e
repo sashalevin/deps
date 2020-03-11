@@ -1,0 +1,7 @@
+4bbffbf3c19a ("drm/i915: Convert to CRTC VBLANK callbacks")
+7d423af9bfb1 ("drm/i915: Implement a better i945gm vblank irq vs. C-states workaround")
+ef404bc65920 ("drm/i915: stop conflating HAS_DISPLAY() and disabled display")
+12a97df00e2a ("drm/i915/display/icl: Bump up the hdisplay and vdisplay as per transcoder limits")
+8d8b00318593 ("drm/i915: convert device info num_pipes to pipe_mask")
+249778704c01 ("drm/i915: add INTEL_NUM_PIPES() and use it")
+e8edae54c593 ("drm/i915: Unconfuse pipe vs. crtc->index in i915_get_crtc_scanoutpos()")

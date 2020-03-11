@@ -1,0 +1,5 @@
+a1aae0570a2b ("fsnotify: funnel all dirent events through fsnotify_name()")
+25b229dff4ff ("fsnotify(): switch to passing const struct qstr * for file_name")
+230c6402b1b3 ("ovl_lookup_real_one(): don't bother with strlen()")
+0a20df7ed334 ("fsnotify: report FS_ISDIR flag with MOVE_SELF and DELETE_SELF events")
+5f02a8776384 ("fsnotify: annotate directory entry modification events")

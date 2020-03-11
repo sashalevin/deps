@@ -1,0 +1,6 @@
+da9f2150684e ("PCI: PM: Avoid forcing PCI_D0 for wakeup reasons inconsistently")
+666ff6f83e1d ("PCI/PM: Avoid using device_may_wakeup() for runtime PM")
+4d071c323898 ("PCI/PM: Add needs_resume flag to avoid suspend complete optimization")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+6496ebd7edf4 ("PCI: Check for PME in targeted sleep state")
+3f4f35678fb8 ("Merge branch 'pci/pm' into next")

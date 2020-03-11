@@ -1,0 +1,7 @@
+9b1fe0510494 ("regmap: Reorder fields in 'struct regmap_config' to save some memory")
+93ce557679e1 ("regmap: mmio: Introduce IO accessors that can talk to IO port")
+159dfabd2076 ("regmap: mmio: Get rid of broken 64-bit IO")
+ada79bca3800 ("regmap: mmio: Remove mmio_relaxed member from context")
+d77e74561368 ("regmap: Add bulk read/write callbacks into regmap_config")
+02d6fdecb9c3 ("regmap: allow to define reg_update_bits for no bus configuration")
+d63aa09f7c53 ("regmap: Prefer unsigned int to bare use of unsigned")

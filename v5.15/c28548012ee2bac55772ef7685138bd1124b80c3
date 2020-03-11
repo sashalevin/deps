@@ -1,0 +1,6 @@
+c28548012ee2 ("powerpc/64: Fix perf profiling asynchronous interrupt handlers")
+c84550203b31 ("powerpc/time: avoid programming DEC at the start of the timer interrupt")
+78ffe6a7e2a1 ("powerpc/irq: Replace #ifdefs by IS_ENABLED()")
+d2b9be1f4af5 ("powerpc/time: Always set decrementer in timer_interrupt()")
+87b9d74fb0be ("powerpc/time: Fix build failure due to do_hard_irq_enable() on PPC32")
+0faf20a1ad16 ("powerpc/64s/interrupt: Don't enable MSR[EE] in irq handlers unless perf is in use")

@@ -1,0 +1,8 @@
+250ce1b4d21a ("KVM: x86/mmu: always take tdp_mmu_pages_lock")
+5f3c8c9187b6 ("KVM: x86/mmu: remove unnecessary "bool shared" argument from functions")
+0df9dab891ff ("KVM: x86/mmu: Stop zapping invalidated TDP MMU roots asynchronously")
+441a5dfcd968 ("KVM: x86/mmu: Do not filter address spaces in for_each_tdp_mmu_root_yield_safe()")
+50107e8b2a8a ("KVM: x86/mmu: Open code leaf invalidation from mmu_notifier")
+932844462ae3 ("KVM: x86/mmu: Don't bounce through page-track mechanism for guest PTEs")
+eeb87272a364 ("KVM: x86/mmu: Don't rely on page-track mechanism to flush on memslot change")
+db0d70e61082 ("KVM: x86/mmu: Move kvm_arch_flush_shadow_{all,memslot}() to mmu.c")

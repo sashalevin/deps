@@ -1,0 +1,5 @@
+93c656de8da8 ("fixdep: do not parse *.rlib, *.rmeta, *.so")
+bc6df812a152 ("fixdep: parse Makefile more correctly to handle comments etc.")
+6a5e25fc3e0b ("fixdep: remove unneeded <stdarg.h> inclusion")
+69304379ff03 ("fixdep: use fflush() and ferror() to ensure successful write to files")
+0e0345b77ac4 ("kbuild: redo fake deps at include/config/*.h")

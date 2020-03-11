@@ -1,0 +1,8 @@
+be0d69265702 ("net-sysfs: Replace ktype default_attrs field with groups")
+b0e37c0d8a6a ("net-sysfs: make sure objects belong to container's owner")
+667e427bc356 ("net: mark receive queue attributes ro_after_init")
+2b9c758129d7 ("net: make queue attributes ro_after_init")
+718ad681eff4 ("net: drop unused attribute argument from sysfs queue funcs")
+e6d473e63536 ("net: make net_class ro_after_init")
+8d059b0f6f5b ("net: Add sysfs value to determine queue traffic class")
+9cf1f6a8c4cb ("net: Move functions for configuring traffic classes out of inline headers")

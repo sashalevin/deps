@@ -1,0 +1,8 @@
+11a6fc3dc743 ("ubifs: xattr: Don't operate on deleted inodes")
+607a11ad9477 ("fs: ubifs: replace CURRENT_TIME_SEC with current_time")
+f4f61d2cc6d8 ("ubifs: Implement encrypted filenames")
+9270b2f4cd9d ("ubifs: Preload crypto context in ->lookup()")
+ac7e47a9ed1b ("ubifs: Enforce crypto policy in ->link and ->rename")
+43b113fea2d4 ("ubifs: Massage ubifs_listxattr() for encryption context")
+d475a507457b ("ubifs: Add skeleton for fscrypto")
+f6337d842668 ("ubifs: Export ubifs_check_dir_empty()")

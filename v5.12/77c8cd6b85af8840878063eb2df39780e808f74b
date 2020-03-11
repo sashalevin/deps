@@ -1,0 +1,8 @@
+77c8cd6b85af ("KVM: x86/mmu: Skip remote TLB flush when zapping all of TDP MMU")
+5a324c24b638 ("Revert "KVM: x86/mmu: Allow zap gfn range to operate under the mmu read lock"")
+524a1e4e381f ("KVM: x86/mmu: Don't leak non-leaf SPTEs when zapping all SPTEs")
+e2209710ccc5 ("KVM: x86/mmu: Skip rmap operations if rmaps not allocated")
+a255740876f0 ("KVM: x86/mmu: Add a field to control memslot rmap allocation")
+56dd1019c885 ("KVM: x86/mmu: Factor out allocating memslot rmap")
+3ad93562093d ("KVM: x86: Support write protecting only large pages")
+4c6654bd160d ("KVM: x86/mmu: Tear down roots before kvm_mmu_zap_all_fast returns")

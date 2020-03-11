@@ -1,0 +1,7 @@
+044118069a23 ("io_uring: deduplicate NOSIGNAL setting")
+0031275d119e ("io_uring: call req_set_fail_links() on short send[msg]()/recv[msg]() with MSG_WAITALL")
+76cd979f4f38 ("io_uring: imply MSG_NOSIGNAL for send[msg]()/recv[msg]() calls")
+45d189c60629 ("io_uring: replace force_nonblock with flags")
+6713e7a6145a ("io_uring: refactor io_read for unsupported nowait")
+9eac1904d336 ("io_uring: get rid of intermediate IORING_OP_CLOSE stage")
+3a81fd02045c ("io_uring: enable LOOKUP_CACHED path resolution for filename lookups")

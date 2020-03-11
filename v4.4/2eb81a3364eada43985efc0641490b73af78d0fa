@@ -1,0 +1,5 @@
+2eb81a3364ea ("nvme: rename and document nvme_end_request")
+ff0294514963 ("nvme: use blk_mq_complete_request_remote to avoid an indirect function call")
+8446546cc218 ("nvme-rdma: factor out a nvme_rdma_end_request helper")
+15f73f5b3e59 ("blk-mq: move failure injection out of blk_mq_complete_request")
+bce159d73409 ("Merge tag 'for-5.8/drivers-2020-06-01' of git://git.kernel.dk/linux-block")

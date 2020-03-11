@@ -1,0 +1,4 @@
+9d5d041eebe3 ("staging: comedi: comedi_fops.c: added casts to get rid of sparse warnings")
+bac42fb21259 ("comedi: get rid of compat_alloc_user_space() mess in COMEDI_CMD{,TEST} compat")
+5c6a8747e0cf ("comedi: get rid of indirection via translated_ioctl()")
+e0d0bf8a28eb ("comedi: move compat ioctl handling to native fops")

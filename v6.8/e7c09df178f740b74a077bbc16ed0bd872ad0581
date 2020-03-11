@@ -1,0 +1,5 @@
+e7c09df178f7 ("scsi: core: Pass sdev to blk_mq_alloc_queue()")
+afd53a3d8528 ("scsi: core: Initialize scsi midlayer limits before allocating the queue")
+4373d2ecca7f ("scsi: bsg: Pass queue_limits to bsg_setup_queue()")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")

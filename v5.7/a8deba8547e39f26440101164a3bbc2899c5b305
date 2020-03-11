@@ -1,0 +1,8 @@
+a8deba8547e3 ("bpftool: Add sock_release help info for cgroup attach/prog load command")
+93a3545d812a ("tools/bpftool: Add name mappings for SK_LOOKUP prog and attach type")
+16d37ee3d2b1 ("tools, bpftool: Define attach_type_name array only once")
+9023497d8746 ("tools, bpftool: Define prog_type_name array only once")
+05ee19c18c2b ("bpf, bpftool: Enable get{peer, sock}name attach types")
+e3450b79dfe4 ("tools: bpftool: For "feature probe" define "full_mode" bool as global")
+c5481f9a954f ("bpftool: Add bpf_link show and pin support")
+50325b1761e3 ("bpftool: Expose attach_type-to-string array to non-cgroup code")

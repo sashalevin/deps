@@ -1,0 +1,8 @@
+4902f7fcb3bc ("cpuidle-haltpoll: Fix small typo")
+dd52551fb786 ("cpuidle: haltpoll: allow force loading on hosts without the REALTIME hint")
+1328edca4a14 ("cpuidle-haltpoll: Enable kvm guest polling when dedicated physical CPUs are available")
+5cc59f597c06 ("cpuidle-haltpoll: return -ENODEV on modinit failure")
+97d3eb9da84c ("cpuidle-haltpoll: vcpu hotplug support")
+a1c4423b02b2 ("cpuidle-haltpoll: disable host side polling when kvm virtualized")
+fa86ee90eb11 ("add cpuidle-haltpoll driver")
+7733607fb3aa ("xen/pvh: Split CONFIG_XEN_PVH into CONFIG_PVH and CONFIG_XEN_PVH")

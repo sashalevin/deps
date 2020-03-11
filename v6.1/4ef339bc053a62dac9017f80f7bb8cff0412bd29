@@ -1,0 +1,8 @@
+4ef339bc053a ("gpiolib: Unify access to the device properties")
+8eb1f71e7acc ("gpiolib: consolidate GPIO lookups")
+b7452d670fde ("gpiolib: acpi: avoid leaking ACPI details into upper gpiolib layers")
+16ba046e86e9 ("gpiolib: acpi: teach acpi_find_gpio() to handle data-only nodes")
+2b6bce80ae70 ("gpiolib: acpi: change acpi_find_gpio() to accept firmware node")
+07445ae1c263 ("gpiolib: of: change of_find_gpio() to accept device node")
+27043a7d500c ("gpiolib: of: Integrate of_gpiochip_init_valid_mask() into gpiochip_init_valid_mask()")
+e3186e36925f ("gpiolib: of: factor out code overriding gpio line polarity")

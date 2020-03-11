@@ -1,0 +1,6 @@
+121337507745 ("fat: remove time truncations in vfat_create/vfat_mkdir")
+4dcc3f96e743 ("fat: split fat_truncate_time() into separate functions")
+97acf83de493 ("fs: fat: Eliminate timespec64_trunc() usage")
+cd83f6b194e9 ("fat: change timestamp updates to use fat_truncate_time")
+6bb885ecd746 ("fat: add functions to update and truncate timestamps appropriately")
+d9f4d94261d5 ("fat: create a function to calculate the timezone offest")

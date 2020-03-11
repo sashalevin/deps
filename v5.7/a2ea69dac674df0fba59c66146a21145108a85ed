@@ -1,0 +1,4 @@
+a2ea69dac674 ("ubi: fastmap: Wait until there are enough free PEBs before filling pools")
+d09e9a2bddba ("ubi: fastmap: Fix high cpu usage of ubi_bgt by making sure wl_pool not empty")
+3b185255bb2f ("ubi: fastmap: Don't produce the initial next anchor PEB when fastmap is disabled")
+4b68bf9a69d2 ("ubi: Select fastmap anchor PEBs considering wear level rules")

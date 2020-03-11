@@ -1,0 +1,5 @@
+2496c8e7fe92 ("KVM: s390: abstract adapter interruption word generation from ISC")
+d7c5cb0105dd ("KVM: s390: exploit GISA and AIV for emulated interrupts")
+a9f6c9a92f37 ("KVM: s390: cleanup struct kvm_s390_float_interrupt")
+588629385c4b ("KVM: s390: drop use of spin lock in __floating_irq_kick")
+ee739f4b216e ("KVM: s390: abstract conversion between isc and enum irq_types")

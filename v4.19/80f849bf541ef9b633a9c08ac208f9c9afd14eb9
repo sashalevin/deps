@@ -1,0 +1,8 @@
+80f849bf541e ("um: implement flush_cache_vmap/flush_cache_vunmap")
+7bb8709d6ad3 ("um/tlb: Convert to generic mmu_gather")
+ed6a79352cad ("asm-generic/tlb, arch: Provide CONFIG_HAVE_MMU_GATHER_PAGE_SIZE")
+dea2434c23c1 ("asm-generic/tlb: Provide a comment")
+196d9d8bb71d ("mm/memory: Move mmu_gather and TLB invalidation code into its own file")
+a6d60245d6d9 ("asm-generic/tlb: Track which levels of the page tables have been cleared")
+22a61c3c4f13 ("asm-generic/tlb: Track freeing of page-table directories in struct mmu_gather")
+faaadaf315b4 ("asm-generic/tlb: Guard with #ifdef CONFIG_MMU")

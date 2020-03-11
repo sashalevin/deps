@@ -1,0 +1,4 @@
+4219196d1f66 ("ibmvnic: fix race between xmit and reset")
+8878e46fcfd4 ("ibmvnic: don't stop queue in xmit")
+65d6470d139a ("ibmvnic: clean pending indirect buffs during reset")
+0ec13aff058a ("Revert "ibmvnic: simplify reset_long_term_buff function"")

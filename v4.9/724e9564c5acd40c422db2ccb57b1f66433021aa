@@ -1,0 +1,7 @@
+724e9564c5ac ("drm/i915: Store some backpointers in struct intel_gt")
+24635c5152af ("drm/i915: Move intel_gt initialization to a separate file")
+e5be5c7a8ffa ("drm/i915: Introduce struct intel_gt as replacement for anonymous i915->gt")
+155ab8836caa ("drm/i915: Move object close under its own lock")
+c017cf6b1a5c ("drm/i915: Drop the deferred active reference")
+6951e5893b48 ("drm/i915: Move GEM object domain management from struct_mutex to local")
+10be98a77c55 ("drm/i915: Move more GEM objects under gem/")

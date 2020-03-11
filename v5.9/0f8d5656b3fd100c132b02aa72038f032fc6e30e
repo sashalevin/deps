@@ -1,0 +1,8 @@
+0f8d5656b3fd ("iwlwifi: queue: don't crash if txq->entries is NULL")
+a44509805895 ("iwlwifi: move reclaim flows to the queue file")
+0179bfff9780 ("iwlwifi: pcie: make iwl_pcie_txq_update_byte_cnt_tbl bus independent")
+0cd1ad2d7fd4 ("iwlwifi: move all bus-independent TX functions to common code")
+22852fad9c17 ("iwl-trans: move dev_cmd_offs, page_offs to a common trans header")
+8e3b79f887b9 ("iwlwifi: move bc_table_dword to a common trans header")
+885375d0bb9f ("iwlwifi: iwl-trans: move tfd to trans layer")
+a26014e2de3f ("iwlwifi: move bc_pool to a common trans header")

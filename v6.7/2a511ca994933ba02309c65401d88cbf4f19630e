@@ -1,0 +1,7 @@
+2a511ca99493 ("KVM: selftests: Allocate x86's GDT during VM creation")
+b62c32c532cd ("KVM: selftests: Move x86's descriptor table helpers "up" in processor.c")
+3a085fbf8228 ("KVM: selftests: Move GDT, IDT, and TSS fields to x86's kvm_vm_arch")
+2b7deea3ec7c ("Revert "kvm: selftests: move base kvm_util.h declarations to kvm_util_base.h"")
+87aa264cd89d ("KVM: selftests: Randomly force emulation on x86 writes from guest code")
+e1ff11525d3c ("KVM: selftests: Add global snapshot of kvm_is_forced_emulation_enabled()")
+e9025cdd8c5c ("Merge tag 'kvm-x86-pmu-6.9' of https://github.com/kvm-x86/linux into HEAD")

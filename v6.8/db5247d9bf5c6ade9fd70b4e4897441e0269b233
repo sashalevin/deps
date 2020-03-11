@@ -1,0 +1,3 @@
+db5247d9bf5c ("vhost_task: Handle SIGKILL by flushing work and exiting")
+ba704ff4e142 ("vhost: Release worker mutex during flushes")
+34cf9ba5f00a ("vhost: Use virtqueue mutex for swapping worker")

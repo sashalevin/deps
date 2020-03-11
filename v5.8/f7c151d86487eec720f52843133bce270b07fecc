@@ -1,0 +1,7 @@
+f7c151d86487 ("gpio: mockup: Switch to use kasprintf_strarray()")
+42e9acc67910 ("gpio: mockup: refactor the module init function")
+582be05ea42a ("gpio: mockup: use the generic 'gpio-line-names' property")
+148c2560c55b ("gpio: mockup: pass the chip label as device property")
+56f6cb35e274 ("gpio: mockup: use pr_fmt()")
+25f0006603e4 ("gpio: mockup: use KBUILD_MODNAME")
+e0ab949f152a ("gpio: mockup: fix resource leak in error path")

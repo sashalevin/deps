@@ -1,0 +1,7 @@
+db458d73fa35 ("arch/kmap: ensure kmap_prot visibility")
+2efc7c085f05 ("powerpc/32: drop get_pteptr()")
+0b1c524caaae ("powerpc/32: refactor pmd_offset(pud_offset(pgd_offset...")
+509cd3f2b473 ("powerpc/32: Simplify KASAN init")
+47febbeeec44 ("powerpc/32: Force KASAN_VMALLOC for modules")
+af1725d2493d ("powerpc/kconfig: Move CONFIG_PPC32 into Kconfig.cputype")
+3d4247fcc938 ("powerpc/32: Add support of KASAN_VMALLOC")

@@ -1,0 +1,8 @@
+4c42f63553d7 ("mtd: spi-nor: Add support for w25q256jw")
+3123db1d2651 ("mtd: spi-nor: Add Winbond w25q256jvm")
+cd5e6d79384e ("mtd: spi-nor: don't drop sfdp data if optional parsers fail")
+90c31cb9a811 ("mtd: spi-nor: Reset nor->addr_width when SFDP parsing failed")
+5390a8df769e ("mtd: spi-nor: add support to non-uniform SFDP SPI NOR flash memories")
+e27072851bf7 ("mtd: spi-nor: add a quad_enable callback in struct flash_info")
+d6084fc83c82 ("mtd: spi-nor: Add spi-nor mtd resume handler")
+46dde01f6bab ("mtd: spi-nor: add spi_nor_init() function")

@@ -1,0 +1,7 @@
+b14b2690c50e ("KVM: Rename/refactor kvm_is_reserved_pfn() to kvm_pfn_to_refcounted_page()")
+284dc4930773 ("KVM: Take a 'struct page', not a pfn in kvm_is_zone_device_page()")
+b1624f99aa8f ("KVM: Remove kvm_vcpu_gfn_to_page() and kvm_vcpu_gpa_to_page()")
+6573a6910ce4 ("KVM: Don't WARN if kvm_pfn_to_page() encounters a "reserved" pfn")
+8e1c69149f27 ("KVM: Avoid pfn_to_page() and vice versa when releasing pages")
+a1040b0d42ac ("KVM: Don't set Accessed/Dirty bits for ZERO_PAGE")
+5ba7c4c6d1c7 ("KVM: x86/MMU: Zap non-leaf SPTEs when disabling dirty logging")

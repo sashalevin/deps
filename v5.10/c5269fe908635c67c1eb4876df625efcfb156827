@@ -1,0 +1,5 @@
+c5269fe90863 ("iio: adc: cc10001: Switch remaining IIO calls in probe to devm_ forms.")
+a43d5155b945 ("iio: adc: cc10001: Use devm_ to call device power down.")
+c247e0d8c0d5 ("iio: adc: cc10001: Use devm_clk_get_enabled() to avoid boilerplate.")
+dc0ba516d103 ("iio: adc: cc10001: Add devm_add_action_or_reset() to disable regulator.")
+26bfb581931a ("iio: adc: cc10001: Add local struct device *dev variable to avoid repitition")

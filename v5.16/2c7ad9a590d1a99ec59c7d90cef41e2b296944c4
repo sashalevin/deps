@@ -1,0 +1,8 @@
+2c7ad9a590d1 ("fs/proc/task_mmu: fix uffd-wp confusion in pagemap_scan_pmd_entry()")
+12f6b01a0bcb ("fs/proc/task_mmu: add fast paths to get/clear PAGE_IS_WRITTEN flag")
+52526ca7fdb9 ("fs/proc/task_mmu: implement IOCTL to get and optionally clear info about PTEs")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+f442ab50f5fb ("mm: userfaultfd: document and enable new UFFDIO_POISON feature")
+fc71884a5f59 ("mm: userfaultfd: add new UFFDIO_POISON ioctl")
+63773d2b593d ("Merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes.")

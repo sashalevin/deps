@@ -1,0 +1,7 @@
+e0392cf7c53a ("mm: lower the printk loglevel for __dump_page messages")
+1c6fb1d89e73 ("mm: print more information about mapping in __dump_page")
+fc36def997cf ("mm: teach dump_page() to correctly output poisoned struct pages")
+152a2d199e13 ("mm/debug.c: provide useful debugging information for VM_BUG")
+af5b0f6a09e4 ("mm: consolidate page table accounting")
+c4812909f5d5 ("mm: introduce wrappers to access mm->nr_ptes")
+b4e98d9ac775 ("mm: account pud page tables")

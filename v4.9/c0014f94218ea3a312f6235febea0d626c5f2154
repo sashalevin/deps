@@ -1,0 +1,4 @@
+c0014f94218e ("scsi: qla2xxx: Warn if done() or free() are called on an already freed srb")
+ae6ccb0f8153 ("scsi: qla2xxx: Set the qpair in SRB to NULL when SRB is released")
+d74595278f4a ("scsi: qla2xxx: Add multiple queue pair functionality.")
+4fa183455988 ("scsi: qla2xxx: Utilize pci_alloc_irq_vectors/pci_free_irq_vectors calls.")

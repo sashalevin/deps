@@ -1,0 +1,5 @@
+5d481e0742dd ("pwm: stm32-lp: Make use of devm_pwmchip_alloc() function")
+8f5e2dcbe234 ("pwm: stm32-lp: Prepare removing pwm_chip from driver data")
+8614e210083e ("pwm: stm32-lp: Simplify using devm_pwmchip_add()")
+d44084c93427 ("pwm: stm32-lp: Don't modify HW state in .remove() callback")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

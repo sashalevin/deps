@@ -1,0 +1,4 @@
+987f625e0799 ("KVM: x86: Add APIC_LVTx() macro.")
+1d8c681fb6ed ("KVM: x86: Fill apic_lvt_mask with enums / explicit entries.")
+951ceb94ede3 ("KVM: x86: Make APIC_VERSION capture only the magic 0x14UL.")
+565b7820738a ("KVM: lapic: Use guest_cpuid_has() in kvm_apic_set_version()")

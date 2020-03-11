@@ -1,0 +1,8 @@
+67b92f54186c ("media: s5p-mfc: use pm_runtime_resume_and_get()")
+78741ce98c2e ("media: s5p-mfc: Fix a reference count leak")
+1bce6fb3edf1 ("[media] s5p-mfc: Rework clock handling")
+741f4331d07f ("[media] s5p-mfc: Don't keep clock prepared all the time")
+387e08e20210 ("[media] s5p-mfc: Kill all IS_ERR_OR_NULL in clocks management code")
+7e55a016fac0 ("[media] s5p-mfc: Remove dead conditional code")
+2e4e084465dd ("[media] s5p-mfc: Remove special clock rate management")
+c5086f130a77 ("[media] s5p-mfc: Use clock gating only on MFC v5 hardware")

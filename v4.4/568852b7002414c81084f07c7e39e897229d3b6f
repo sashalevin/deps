@@ -1,0 +1,8 @@
+568852b70024 ("spi: spi-cavium-thunderx: Add missing clk_disable_unprepare()")
+7347a6c7af8d ("spi: octeon: Add ThunderX driver")
+63d49afefc87 ("spi: octeon: Split driver into Octeon specific and common parts")
+22cc1b6b35ce ("spi: octeon: Move include file from arch/mips to drivers/spi")
+ee423c5322ae ("spi: octeon: Put register offsets into a struct")
+b9e64763b68d ("spi: octeon: Store system clock freqency in struct octeon_spi")
+187fc9b37458 ("spi: octeon: Convert driver to use readq()/writeq() functions")
+3ae36c8b67e4 ("spi: octeon: Convert to use devm_ioremap_resource")

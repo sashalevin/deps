@@ -1,0 +1,5 @@
+c113187d38ff ("tls: Use correct sk->sk_prot for IPV6")
+ff45d820a2df ("tls: Fix TLS ulp context leak, when TLS_TX setsockopt is not used.")
+6d88207fcfdd ("tls: Add function to update the TLS socket configuration")
+a5135676bbf1 ("tls: make tls_sw_free_resources static")
+3c4d7559159b ("tls: kernel TLS support")

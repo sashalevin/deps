@@ -1,0 +1,7 @@
+53315ac660b0 ("netfilter: nf_tables: free base chain counters from worker")
+4c05ec47384a ("netfilter: nf_tables: fix suspicious RCU usage in nft_chain_stats_replace()")
+9f8aac0be21e ("netfilter: nf_tables: fix memory leaks on chain rename")
+bbb8c61f97e3 ("netfilter: nf_tables: increase nft_counters_enabled in nft_chain_stats_replace()")
+009240940e84 ("netfilter: nf_tables: don't assume chain stats are set when jumplabel is set")
+90d2723c6d4c ("netfilter: nf_tables: do not hold reference on netdevice from preparation phase")
+b2fe5fa68642 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

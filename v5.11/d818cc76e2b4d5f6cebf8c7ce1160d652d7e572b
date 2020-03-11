@@ -1,0 +1,4 @@
+d818cc76e2b4 ("kasan: Record work creation stack trace with interrupts enabled")
+300c0c5e7218 ("rcu: Avoid alloc_pages() when recording stack")
+148e3731d124 ("kvfree_rcu: Directly allocate page for single-argument case")
+84109ab58590 ("rcu: Record kvfree_call_rcu() call stack for KASAN")

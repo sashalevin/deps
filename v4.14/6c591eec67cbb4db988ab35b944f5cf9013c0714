@@ -1,0 +1,8 @@
+6c591eec67cb ("OPP: Add helpers for reading the binding properties")
+61d8e7c73b0b ("OPP: Identify and mark genpd OPP tables")
+f06ed90e7051 ("OPP: Parse OPP table's DT properties from _of_init_opp_table()")
+3ba98324e81a ("PM / OPP: Get performance state using genpd helper")
+fa9b274f8aef ("PM / OPP: Implement dev_pm_opp_of_add_table_indexed()")
+a1e8c13600bf ("PM / OPP: "opp-hz" is optional for power domains")
+009acd196fc8 ("PM / OPP: Support updating performance state of device's power domain")
+9867999f3a85 ("PM / OPP: add missing of_node_put() for of_get_cpu_node()")

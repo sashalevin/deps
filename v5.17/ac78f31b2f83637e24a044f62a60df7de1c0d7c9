@@ -1,0 +1,6 @@
+ac78f31b2f83 ("drm/i915: Unexport the for_each_power_well() macros")
+47f16fe53545 ("drm/i915: Move intel_display_power_well_is_enabled() to intel_display_power_well.c")
+3ab5e051cb32 ("drm/i915: Add functions to get a power well's state/name/domains/mask/refcount")
+ef1e17089190 ("drm/i915: Move power well get/put/enable/disable functions to a new file")
+314fe7dce413 ("drm/i915: Move i915_power_well_regs struct into i915_power_well_ops")
+d946bc44aa0b ("drm/i915: Disable unused power wells left enabled by BIOS")

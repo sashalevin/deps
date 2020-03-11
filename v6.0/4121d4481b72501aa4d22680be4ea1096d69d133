@@ -1,0 +1,6 @@
+4121d4481b72 ("bpf: Synchronize dispatcher update with bpf_dispatcher_xdp_func")
+c86df29d11df ("bpf: Convert BPF_DISPATCHER to use static_call() (not ftrace)")
+18acb7fac22f ("bpf: Revert ("Fix dispatcher patchable function entry to 5 bytes nop")")
+dbe69b299884 ("bpf: Fix dispatcher patchable function entry to 5 bytes nop")
+19c02415da23 ("bpf: use bpf_prog_pack for bpf_dispatcher")
+ceea991a019c ("bpf: Move bpf_dispatcher function out of ftrace locations")

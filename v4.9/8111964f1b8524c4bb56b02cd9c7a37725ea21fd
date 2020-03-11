@@ -1,0 +1,6 @@
+8111964f1b85 ("dm thin: Fix ABBA deadlock between shrink_slab and dm_pool_abort_metadata")
+3918e0667bba ("dm thin metadata: fix lockdep complaint")
+873f258becca ("dm thin metadata: do not write metadata if no changes occurred")
+6a1b1ddc6a2c ("dm thin metadata: add wrappers for managing write locking of metadata")
+3ab918281668 ("dm thin metadata: try to avoid ever aborting transactions")
+a685557fbbc3 ("dm thin: handle running out of data space vs concurrent discard")

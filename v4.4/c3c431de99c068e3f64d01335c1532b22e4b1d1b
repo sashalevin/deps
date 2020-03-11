@@ -1,0 +1,6 @@
+c3c431de99c0 ("dmaengine: Move dma_get_{,any_}slave_channel() to private dmaengine.h")
+f5151311c3f3 ("dmaengine: Add matching device node validation in __dma_request_channel()")
+ec8ca8e3b480 ("dmaengine: dma_request_chan_by_mask() to handle deferred probing")
+f083f557186d ("dmaengine: Add helper function to prep for error reporting")
+a8135d0d79e9 ("dmaengine: core: Introduce new, universal API to request a channel")
+7bd903c5ca47 ("dmaengine: core: Move and merge the code paths using private_candidate")

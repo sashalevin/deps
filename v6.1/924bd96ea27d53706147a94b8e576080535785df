@@ -1,0 +1,5 @@
+924bd96ea27d ("nvme-pci: set the DMA mask earlier")
+3f30a79c2e2c ("nvme-pci: set constant paramters in nvme_pci_alloc_ctrl")
+2e87570be9d2 ("nvme-pci: factor out a nvme_pci_alloc_dev helper")
+081a7d958ce4 ("nvme-pci: factor the iod mempool creation into a helper")
+94cc781f69f4 ("nvme: move OPAL setup from PCIe to core")

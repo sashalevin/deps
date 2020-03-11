@@ -1,0 +1,5 @@
+0cfd507c8346 ("crypto: arm64/aes-cts-cbc-ce - performance tweak")
+dd597fb33ff0 ("crypto: arm64/aes-blk - add support for CTS-CBC mode")
+557ecb4543d1 ("crypto: arm64/aes-blk - remove pointless (u8 *) casts")
+6e88f01206ed ("crypto: arm64/aes-blk - fix and move skcipher_walk_done out of kernel_neon_begin, _end")
+683381747270 ("crypto: arm64/aes-blk - move kernel mode neon en/disable into loop")

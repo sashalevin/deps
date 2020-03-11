@@ -1,0 +1,4 @@
+13ae4db0c051 ("zram: use bvec_set_page to initialize bvecs")
+5561347aa598 ("zram: factor out WB and non-WB zram read functions")
+94541bc3fbde ("zram: always expose rw_page")
+13c1c74af764 ("zram: fix unused 'zram_wb_devops' warning")

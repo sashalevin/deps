@@ -1,0 +1,8 @@
+9e7325acb3dc ("KVM: s390: Refactor kvm_is_error_gpa() into kvm_is_gpa_in_memslot()")
+3fd49805d19d ("KVM: s390: Extend MEM_OP ioctl by storage key checked cmpxchg")
+8550bcb754bc ("KVM: s390: Dispatch to implementing function at top level of vm mem_op")
+a41f505e9f7f ("KVM: s390: Move common code of mem_op functions into function")
+b3cefd6bf16e ("KVM: s390: Pass initialized arg even if unused")
+b1624f99aa8f ("KVM: Remove kvm_vcpu_gfn_to_page() and kvm_vcpu_gpa_to_page()")
+8e1c69149f27 ("KVM: Avoid pfn_to_page() and vice versa when releasing pages")
+a1040b0d42ac ("KVM: Don't set Accessed/Dirty bits for ZERO_PAGE")

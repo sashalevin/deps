@@ -1,0 +1,5 @@
+de5b85262e20 ("mm: shmem: fix minor off-by-one in shrinkable calculation")
+3022fd7af960 ("shmem: _add_to_page_cache() before shmem_inode_acct_blocks()")
+054a9f7ccd0a ("shmem: move memcg charge out of shmem_add_to_page_cache()")
+4199f51a7eb2 ("shmem: shmem_acct_blocks() and shmem_inode_acct_blocks()")
+e3e1a5067fd2 ("shmem: remove vma arg from shmem_get_folio_gfp()")

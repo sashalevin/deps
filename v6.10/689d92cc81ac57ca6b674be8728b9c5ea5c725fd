@@ -1,0 +1,3 @@
+689d92cc81ac ("mm/page_alloc: remove prefetchw() on freeing page to buddy system")
+503b158fc30f ("mm/memory_hotplug: initialize memmap of !ZONE_DEVICE with PageOffline() instead of PageReserved()")
+13c526540b31 ("mm: pass meminit_context to __free_pages_core()")

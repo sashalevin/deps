@@ -1,0 +1,5 @@
+522d15ea831f ("net/sched: taprio: only pass gate mask per TXQ for igc, stmmac, tsnep, am65_cpsw")
+09c794c0a88d ("net/sched: taprio: pass mqprio queue configuration to ndo_setup_tc()")
+a54fc09e4cba ("net/sched: taprio: allow user input of per-tc max SDU")
+25becba6290b ("net/sched: taprio: stop going through private ops for dequeue and peek")
+5ec836be11b3 ("net: ethernet: ti: am65-cpsw: enable bc/mc storm prevention support")

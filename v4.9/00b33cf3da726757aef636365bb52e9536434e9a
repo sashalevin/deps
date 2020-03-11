@@ -1,0 +1,7 @@
+00b33cf3da72 ("nvme: fix write zeroes pi")
+aaeb7bb061be ("nvme: set the PRACT bit when using Write Zeroes with T10 PI")
+6e02318eaea5 ("nvme: add support for the Write Zeroes command")
+1293477f4f32 ("nvme: set gendisk read only based on nsattr")
+3831761eb859 ("nvme: only reconfigure discard if necessary")
+8b904b5b6b58 ("block: Use blk_queue_flag_*() in drivers instead of queue_flag_*()")
+0be600a5add7 ("Merge tag 'for-4.16/dm-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

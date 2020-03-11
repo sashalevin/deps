@@ -1,0 +1,6 @@
+d5df9dc96eb7 ("irqchip/gic-v3-its: Probe ITS page size for all GITS_BASERn registers")
+5e5168461c22 ("irqchip/gic-v4.1: VPE table (aka GICR_VPROPBASER) allocation")
+b25319d279b6 ("irqchip/gic-v3: Detect GICv4.1 supporting RVPEID")
+576a83429757 ("irqchip/gic-v3-its: Kill its->device_ids and use TYPER copy instead")
+ffedbf0cba15 ("irqchip/gic-v3-its: Kill its->ite_size and use TYPER copy instead")
+0dd57fed6b46 ("irqchip/gic-v3-its: Make is_v4 use a TYPER copy")

@@ -1,0 +1,3 @@
+4f87ee118d16 ("crypto: api - Do not zap spawn->alg")
+73669cc55646 ("crypto: api - Fix race condition in crypto_spawn_alg")
+7db3b61b6bba ("crypto: api - Check spawn->alg under lock in crypto_drop_spawn")

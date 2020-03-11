@@ -1,0 +1,6 @@
+7c054b2cbac3 ("iio: adc: Use devm_krealloc_array")
+d5c70627a794 ("iio: adc: Add Xilinx AMS driver")
+eab64715709e ("iio: adc: xilinx: use devm_krealloc() instead of kfree() + kcalloc()")
+750628c79bb1 ("iio: adc: xilinx-xadc: use devm_krealloc()")
+2e4b88f73966 ("iio: adc: xilinx: prevent touching unclocked h/w on remove")
+62039b6aef63 ("iio: adc: xilinx: fix potential use-after-free on remove")

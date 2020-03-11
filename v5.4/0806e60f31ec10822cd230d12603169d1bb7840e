@@ -1,0 +1,4 @@
+0806e60f31ec ("bcache: use part_[begin|end]_io_acct instead of disk_[begin|end]_io_acct")
+c5be1f2c5bab ("bcache: use disk_{start,end}_io_acct() to count I/O for bcache device")
+a2f32ee8fd85 ("bcache: fix bio_{start,end}_io_acct with proper device")
+85750aeb748f ("bcache: use bio_{start,end}_io_acct")

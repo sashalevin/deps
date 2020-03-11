@@ -1,0 +1,3 @@
+d96016a764f6 ("udp: Compute L4 checksum as usual when not segmenting the skb")
+4094871db1d6 ("udp: only do GSO if # of segs > 1")
+44b321e5020d ("udp: fix gso_segs calculations")

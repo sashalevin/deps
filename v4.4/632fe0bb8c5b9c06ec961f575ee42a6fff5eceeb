@@ -1,0 +1,4 @@
+632fe0bb8c5b ("iio: Fix error handling for PM")
+264da5124314 ("iio: magn: bmc150: Balance runtime pm + use pm_runtime_resume_and_get()")
+761b7910d4b4 ("iio: magn: Split bmc150 driver in common/i2c parts")
+7d0ead5c3f00 ("iio: Reconcile operation order between iio_register/unregister and pm functions")

@@ -1,0 +1,6 @@
+fd73a4395d47 ("erofs: boost negative xattr lookup with bloom filter")
+4b077b501266 ("erofs: unify inline/shared xattr iterators for listxattr/getxattr")
+5a8ffb1975c5 ("erofs: make the size of read data stored in buffer_ofs")
+8e823961de5a ("erofs: unify xattr_iter structures")
+eba67eb6de44 ("erofs: use absolute position in xattr iterator")
+9c39ec0cff4e ("erofs: convert erofs_read_metabuf() to erofs_bread() for xattr")

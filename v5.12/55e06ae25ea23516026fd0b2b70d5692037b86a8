@@ -1,0 +1,6 @@
+55e06ae25ea2 ("mtd: rawnand: onfi: Fix endianness when reading NV-DDR values")
+45606518f961 ("mtd: rawnand: Add onfi_fill_nvddr_interface_config() helper")
+94c8ce8e3e96 ("mtd: rawnand: Add an indirection on onfi_fill_interface_config()")
+9310668fb60a ("mtd: rawnand: Retrieve NV-DDR timing modes from the ONFI parameter page")
+dbb7b2e07564 ("mtd: rawnand: Use more recent ONFI specification wording")
+64de50e38e6f ("mtd: rawnand: onfi: Use the BIT() macro when possible")

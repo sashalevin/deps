@@ -1,0 +1,7 @@
+579d472b3799 ("device property: Remove unused struct net_device forward declaration")
+d9eb44904e87 ("eth: fwnode: add a helper for loading netdev->dev_addr")
+0a14501ed818 ("eth: fwnode: remove the addr len from mac helpers")
+8017c4d8173c ("eth: fwnode: change the return type of mac address helpers")
+433baf0719d6 ("device property: move mac addr helpers to eth.c")
+f3956ebb3bf0 ("ethernet: use eth_hw_addr_set() instead of ether_addr_copy()")
+b357d9717be7 ("ice: Only lock to update netdev dev_addr")

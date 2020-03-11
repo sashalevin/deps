@@ -1,0 +1,8 @@
+c127a2a1b7ba ("io_uring: fix linked deferred ->files cancellation")
+b7ddce3cbf01 ("io_uring: fix cancel of deferred reqs with ->files")
+b711d4eaf0c4 ("io_uring: find and cancel head link async work on files exit")
+f254ac04c874 ("io_uring: enable lookup of links holding inflight files")
+9b7adba9eaec ("io_uring: add missing REQ_F_COMP_LOCKED for nested requests")
+135fcde8496b ("io_uring: add req->timeout.list")
+7c86ffeeed30 ("io_uring: deduplicate freeing linked timeouts")
+9b0d911acce0 ("io_uring: kill REQ_F_LINK_NEXT")

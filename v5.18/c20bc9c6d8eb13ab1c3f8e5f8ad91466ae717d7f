@@ -1,0 +1,5 @@
+c20bc9c6d8eb ("fs/ntfs3: Use bh_read to simplify code")
+6bf414a00ae7 ("ntfs3: replace ll_rw_block()")
+1420c4a549bf ("fs/buffer: Combine two submit_bh() and ll_rw_block() arguments")
+3ae7286943ae ("fs/buffer: Use the new blk_opf_t type")
+15baa7dcadf1 ("ext4: fix warning when submitting superblock in ext4_commit_super()")

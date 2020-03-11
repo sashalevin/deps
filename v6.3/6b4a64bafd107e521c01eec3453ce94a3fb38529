@@ -1,0 +1,5 @@
+6b4a64bafd10 ("bpf: Fix accesses to uninit stack slots")
+1d38a9ee8157 ("bpf: Guard stack limits against 32bit overflow")
+a833a17aeac7 ("bpf: Fix verification of indirect var-off stack access")
+389ede06c297 ("selftests/bpf: tests with delayed read/precision makrs in loop body")
+d15f5b68b63a ("selftests/bpf: verifier/var_off.c converted to inline assembly")

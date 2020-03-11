@@ -1,0 +1,5 @@
+83b290c9e3b5 ("pidfd: clone: allow CLONE_THREAD | CLONE_PIDFD together")
+cdefbf2324ce ("pidfd: cleanup the usage of __pidfd_prepare's flags")
+ca7707f5430a ("fork: use pidfd_prepare()")
+6ae930d9dbf2 ("pid: add pidfd_prepare()")
+e9bdcdbf6936 ("pid: add pidfd_get_task() helper")

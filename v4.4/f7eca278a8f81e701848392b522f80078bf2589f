@@ -1,0 +1,8 @@
+f7eca278a8f8 ("hwrng: amd - Fix return value check in mod_init()")
+31b2a73c9c5f ("hwrng: amd - Migrate to managed API")
+3c343a37644c ("hwrng: amd - Access hardware via ioread32/iowrite32")
+7bad2cc062b3 ("hwrng: amd - Replace global variable with private struct")
+fdec60d68356 ("hwrng: amd - release_region must be called after hwrng_unregister")
+f8169bfb4955 ("hwrng: amd - Be consitent with the driver name")
+1c335d4487c8 ("hwrng: amd - use the BIT macro")
+6020721320c6 ("hwrng: amd - Fix style problem with blank line")

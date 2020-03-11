@@ -1,0 +1,8 @@
+1a0fc811f5f5 ("mm: rename invalidate_mapping_pagevec to mapping_try_invalidate")
+c56109dd35c9 ("mm/truncate: Combine invalidate_mapping_pagevec() and __invalidate_mapping_pages()")
+261b6840ed10 ("mm: Turn deactivate_file_page() into deactivate_file_folio()")
+b4545f46533b ("mm/truncate: Convert __invalidate_mapping_pages() to use a folio")
+d6c75dc22c75 ("mm/truncate: Split invalidate_inode_page() into mapping_evict_folio()")
+4418481396b2 ("mm/truncate: Convert invalidate_inode_page() to use a folio")
+1b8ddbeeb9b8 ("mm/truncate: Inline invalidate_complete_page() into its one caller")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

@@ -1,0 +1,5 @@
+bd59b769ddac ("crypto: qat - split PFVF message decoding from handling")
+04cf47872c7e ("crypto: qat - re-enable interrupts for legacy PFVF messages")
+956125e21f46 ("crypto: qat - change PFVF ACK behaviour")
+720aa72a77f4 ("crypto: qat - move interrupt code out of the PFVF handler")
+b7c13ee46ceb ("crypto: qat - move VF message handler to adf_vf2pf_msg.c")

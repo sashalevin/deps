@@ -1,0 +1,4 @@
+76458faeb285 ("net: use DEBUG_NET_WARN_ON_ONCE() in dev_loopback_xmit()")
+9122a70a6333 ("net: multicast: calculate csum of looped-back and forwarded packets")
+d0208bf4da97 ("udp: document udp_rcv_segment special case for looped packets")
+6cd021a58c18 ("udp: segment looped gso packets correctly")

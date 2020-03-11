@@ -1,0 +1,5 @@
+1952e74da96f ("KVM: SVM: Skip VMSA init in sev_es_init_vmcb() if pointer is NULL")
+b67a4cc35c9f ("KVM: SEV: Refactor out sev_es_state struct")
+019057bd73d1 ("KVM: SEV-ES: fix length of string I/O")
+bb18a6777465 ("KVM: SEV: Acquire vcpu mutex when updating VMSA")
+238eca821cee ("KVM: SVM: Allocate SEV command structures on local stack")

@@ -1,0 +1,8 @@
+7c33023aad16 ("mm/memory_hotplug: quieting offline operation")
+0a1a9a0008bb ("mm/memory_hotplug: simplify page offlining")
+73a11c965857 ("mm/memory_hotplug: inline __offline_pages() into offline_pages()")
+968318261221 ("mm/memory_hotplug: drain per-cpu pages again during memory offline")
+52cfc24578c3 ("mm/memory_hotplug: fix a typo in comment "recoreded"->"recorded"")
+c5e79ef561b0 ("mm/memory_hotplug.c: don't allow to online/offline memory blocks with holes")
+756d25be457f ("mm/page_isolation.c: convert SKIP_HWPOISON to MEMORY_OFFLINE")
+0ee5f4f31d36 ("mm/page_alloc.c: don't set pages PageReserved() when offlining")

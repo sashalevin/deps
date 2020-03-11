@@ -1,0 +1,7 @@
+52ac41b5cd60 ("PCI: imx6: Improve comment for workaround ERR010728")
+5223084d1383 ("PCI: imx6: Simplify switch-case logic by involve core_reset callback")
+256867b74625 ("PCI: imx6: Introduce SoC specific callbacks for controlling REFCLK")
+d657ea28d550 ("PCI: imx6: Rename imx6_* with imx_*")
+5b04d44d5c74 ("PCI: imx6: Fix missing call to phy_power_off() in error handling")
+5cb3aa92c7cf ("PCI: imx6: Fix i.MX8MP PCIe EP's occasional failure to trigger MSI")
+5214ff221a14 ("PCI: imx6: Fix establish link failure in EP mode for i.MX8MM and i.MX8MP")

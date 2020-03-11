@@ -1,0 +1,7 @@
+a50026bdb867 ("iov_iter: get rid of 'copy_mc' flag")
+c9eec08bac96 ("iov_iter: Don't deal with iter->copy_mc in memcpy_from_iter_mc()")
+f1982740f5e7 ("iov_iter: Convert iterate*() to inline funcs")
+f1b4cb650b9a ("iov_iter: Derive user-backedness from the iterator type")
+581beb4fe37d ("iov_iter: Remove last_offset from iov_iter as it was for ITER_PIPE")
+908a1ad89466 ("iov_iter: Handle compound highmem pages in copy_page_from_iter_atomic()")
+f7f9a0c8736d ("iov_iter: Map the page later in copy_page_from_iter_atomic()")

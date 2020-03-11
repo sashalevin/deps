@@ -1,0 +1,3 @@
+c62c7bd4f95b ("KVM: VMX: Update vmcs.GUEST_CR3 only when the guest CR3 is dirty")
+b17b7436f2f0 ("KVM: VMX: Skip GUEST_CR3 VMREAD+VMWRITE if the VMCS is up-to-date")
+04f11ef45810 ("KVM: nVMX: Always write vmcs02.GUEST_CR3 during nested VM-Enter")

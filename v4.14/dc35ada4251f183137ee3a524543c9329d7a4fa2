@@ -1,0 +1,4 @@
+dc35ada4251f ("block: fix a warning when blkdev.h is included for !CONFIG_BLOCK builds")
+956d510ee78c ("block: add disk/bio-based accounting helpers")
+0619317ff8ba ("block: add polled wakeup task helper")
+ef71de8b15d8 ("block: add a blk_steal_bios helper")

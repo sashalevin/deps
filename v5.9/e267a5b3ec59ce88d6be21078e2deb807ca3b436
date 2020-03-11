@@ -1,0 +1,5 @@
+e267a5b3ec59 ("spi: spi-imx: Use dev_err_probe for failed DMA channel requests")
+63cd96b70f93 ("spi: spi-imx: complete conversion from master -> controller")
+200d925e236f ("spi: imx: Use of_device_get_match_data() helper")
+6e3dbfcb3c8a ("spi: imx: Remove unused .id_table support")
+43b6bf406cd0 ("spi: imx: fix runtime pm support for !CONFIG_PM")

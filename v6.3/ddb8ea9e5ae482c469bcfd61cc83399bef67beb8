@@ -1,0 +1,8 @@
+ddb8ea9e5ae4 ("tracing: Allow trace_printk() to go to other instance buffers")
+b6fc31b68731 ("tracing: Add "traceoff" flag to boot time tracing instances")
+29a02ec66556 ("tracing: Allow boot instances to use reserve_mem boot memory")
+e645535a954a ("tracing: Add option to use memmapped memory for trace boot instance")
+d23569979ca1 ("tracing: Allow creating instances with specified system events")
+a1f157c7a3bb ("tracing: Expand all ring buffers individually")
+c2489bb7e6be ("tracing: Introduce pipe_cpumask to avoid race on trace_pipes")
+582c161cf38c ("Merge tag 'hardening-v6.5-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

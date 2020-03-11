@@ -1,0 +1,5 @@
+e2a366a4b0fe ("nvme-pci: slimmer CQ head update")
+dcca16627272 ("nvme-pci: fix out of bounds access in nvme_cqe_pending")
+5cb525c8315f ("nvme-pci: handle completions outside of the queue lock")
+750dde4472e4 ("nvme-pci: simplify nvme_cqe_valid")
+147b27e4bd08 ("nvme-pci: allocate device queues storage space at probe")

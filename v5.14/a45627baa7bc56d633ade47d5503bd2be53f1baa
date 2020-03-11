@@ -1,0 +1,8 @@
+a45627baa7bc ("iommu/amd: Include PCI segment ID when initialize IOMMU")
+41bb23e70b50 ("iommu: Remove unused argument in is_attach_deferred")
+3f6634d997db ("iommu: Use right way to retrieve iommu_ops")
+241469685d8d ("iommu/vt-d: Remove aux-domain related callbacks")
+989192ac6ad5 ("iommu/vt-d: Remove guest pasid related callbacks")
+00ecd5401349 ("iommu/vt-d: Clean up unused PASID updating functions")
+94f797ad61d3 ("iommu/vt-d: Delete dev_has_feat callback")
+a21518cb23a3 ("iommu/vt-d: Fix PASID leak in intel_svm_unbind_mm()")

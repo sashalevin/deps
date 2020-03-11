@@ -1,0 +1,8 @@
+e92d42e7602b ("s390/qeth: use QUERY OAT for initial link info")
+baf7998d5f21 ("s390/qeth: set static link info during initialization")
+4139b2b138dd ("s390/qeth: improve QUERY CARD INFO processing")
+88ad4d9bb166 ("s390/qeth: tolerate error when querying card info")
+9d6a569a4cba ("s390/qeth: strictly order bridge address events")
+65878fd95261 ("s390/qeth: clean up error handling for isolation mode cmds")
+62f0379c6c9b ("s390/qeth: don't clear the configured isolation mode")
+08e95cae648e ("s390/qeth: only init the isolation mode when necessary")

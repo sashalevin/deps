@@ -1,0 +1,7 @@
+99c88dc71cae ("btrfs: make inode_can_compress take btrfs_inode")
+42c16da6d684 ("btrfs: inode: Don't compress if NODATASUM or NODATACOW set")
+c2fcdcdf36bb ("Btrfs: add skeleton code for compression heuristic")
+974b1adc3b10 ("btrfs: use bio iterators for the decompression handlers")
+dda3245eca18 ("btrfs: expand cow_file_range() to support in-band dedup and subpage-blocksize")
+09cbfeaf1a5a ("mm, fs: get rid of PAGE_CACHE_* and page_cache_{get,release} macros")
+d5a38f6e4668 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/sage/ceph-client")

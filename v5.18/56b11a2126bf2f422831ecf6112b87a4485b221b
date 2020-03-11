@@ -1,0 +1,8 @@
+56b11a2126bf ("perf bpf: Remove support for embedding clang for compiling BPF events (-e foo.c)")
+8fcaea9fd0da ("perf build: Support llvm and clang support compiled in")
+e5764ae4c971 ("perf build: Add Wextra for C++ compilation")
+435bea0a45cb ("perf build: Don't always set -funwind-tables and -ggdb3")
+d7c4f89af161 ("perf build: Switch libpfm4 to opt-out rather than opt-in")
+bd560973c5d3 ("perf expr: Tidy hashmap dependency")
+bdf457255565 ("perf hashmap: Tidy hashmap dependency")
+6923397cb722 ("perf test: Add test for #system_tsc_freq in metrics")

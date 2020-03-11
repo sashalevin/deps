@@ -1,0 +1,4 @@
+9dc2babc185e ("KVM: PPC: Book3S HV P9: Stop handling hcalls in real-mode in the P9 path")
+09512c29167b ("KVM: PPC: Book3S HV P9: Move xive vcpu context management into kvmhv_p9_guest_entry")
+413679e73bdf ("KVM: PPC: Book3S HV P9: Move setting HDEC after switching to guest LPCR")
+023c3c96ca4d ("KVM: PPC: Book3S HV P9: implement kvmppc_xive_pull_vcpu in C")

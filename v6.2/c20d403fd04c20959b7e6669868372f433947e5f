@@ -1,0 +1,5 @@
+c20d403fd04c ("KVM: VMX: Make VMREAD error path play nice with noinstr")
+11df586d774f ("KVM: VMX: Handle NMI VM-Exits in noinstr region")
+4f76e86f7e0d ("KVM: VMX: Provide separate subroutines for invoking NMI vs. IRQ handlers")
+54a3b70a75dc ("x86/entry: KVM: Use dedicated VMX NMI entry for 32-bit kernels too")
+8d20bd638167 ("KVM: x86: Unify pr_fmt to use module name for all KVM modules")

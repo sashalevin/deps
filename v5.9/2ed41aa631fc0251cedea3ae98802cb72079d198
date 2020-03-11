@@ -1,0 +1,3 @@
+2ed41aa631fc ("KVM: VMX: Intercept guest reserved CR4 bits to inject #GP fault")
+a6337a3542b1 ("KVM: x86: Move call to update_exception_bitmap() into VMX code")
+c44d9b34701d ("KVM: x86: Invoke vendor's vcpu_after_set_cpuid() after all common updates")

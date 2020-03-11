@@ -1,0 +1,7 @@
+7fa5ad23dbb0 ("nvmem: sunxi_sid: Dynamically allocate nvmem_config structure")
+9c4adfb5dc13 ("nvmem: sunxi_sid: Read out SID for randomness without looping")
+4876bfe6cdec ("nvmem: sunxi_sid: remove unused variable in probe")
+6eed8dd9a513 ("nvmem: sunxi_sid: use devm_nvmem_register()")
+424d7033add1 ("nvmem: sunxi_sid: return -ENOMEM if kzalloc() fails")
+6396bb221514 ("treewide: kzalloc() -> kcalloc()")
+5f85942c2ea2 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

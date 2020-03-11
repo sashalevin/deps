@@ -1,0 +1,6 @@
+562ddcb74854 ("drm/i915/rkl: Don't try to access transcoder D")
+8241cfbe67f4 ("drm/i915/tgl: Access the right register when handling PSR interruptions")
+2f3b87124b9f ("drm/i915/psr: Only handle interruptions of the transcoder in use")
+d048a2684a41 ("drm/i915: Use enum pipe consistently")
+df7415bfc06f ("drm/i915: Do not unmask PSR interruption in IRQ postinstall")
+4ab4fa103217 ("drm/i915/psr: Make PSR registers relative to transcoders")

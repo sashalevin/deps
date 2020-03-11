@@ -1,0 +1,8 @@
+6bc56a4d8553 ("mm: add vma_alloc_zeroed_movable_folio()")
+e7392b4eca84 ("mm/highmem: fix kernel-doc warnings in highmem*.h")
+f9c668d281aa ("alpha: fix alloc_zeroed_user_highpage_movable()")
+8f425e4ed0eb ("mm/memcg: Convert mem_cgroup_charge() to take a folio")
+118f2875490b ("mm/memcg: Convert commit_charge() to take a folio")
+8e88bd2dfde2 ("mm/memcg: Convert memcg_check_events to take a node ID")
+658b69c9d852 ("mm/memcg: Use the node id in mem_cgroup_update_tree()")
+6e0110c247c8 ("mm/memcg: Remove 'page' parameter to mem_cgroup_charge_statistics()")

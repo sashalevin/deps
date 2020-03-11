@@ -1,0 +1,7 @@
+d197a253855d ("rtc: cmos: Fix non-ACPI undefined reference to `hpet_rtc_interrupt'")
+311ee9c151ad ("rtc: cmos: allow using ACPI for RTC alarm instead of HPET")
+8b5b7958fd1c ("rtc: cmos: use generic nvmem")
+53d29e0a3afe ("rtc: cmos: fix possible race condition")
+368e21aebe95 ("rtc: cmos: Don't enable interrupts in the middle of the interrupt handler")
+983bf1256edb ("rtc: cmos: Clear ACPI-driven alarms upon resume")
+970fc7f4afd5 ("rtc: cmos: Initialize hpet timer before irq is registered")

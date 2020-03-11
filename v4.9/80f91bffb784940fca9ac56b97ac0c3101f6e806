@@ -1,0 +1,8 @@
+80f91bffb784 ("drm: omapdrm: Simplify IRQ wait implementation")
+156548175cdf ("drm: omapdrm: Don't call DISPC power handling in IRQ wait functions")
+5d9f5b33399c ("drm: omapdrm: Remove unused parameter from omap_drm_irq handler")
+da06a922cf61 ("drm: omapdrm: Don't expose the omap_irq_(un)register() functions")
+6b5538d4ecb7 ("drm: omapdrm: Handle OCP error IRQ directly")
+e0519af75d6e ("drm: omapdrm: Handle CRTC error IRQs directly")
+728ae8dd696a ("drm: omapdrm: Handle FIFO underflow IRQs internally")
+e43f2c3395fd ("drm/omap: fix primary-plane's possible_crtcs")

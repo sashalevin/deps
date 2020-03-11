@@ -1,0 +1,5 @@
+41e68b6964eb ("KVM: vmx, svm: clean up mass updates to regs_avail/regs_dirty bits")
+40e49c4f5fb0 ("KVM: SVM: Track dirtiness of PDPTRs even if NPT is disabled")
+329675dde93c ("KVM: x86: introduce kvm_register_clear_available")
+4995a3685f1b ("KVM: SVM: Use a separate vmcb for the nested L2 guest")
+d2df592fd8c6 ("KVM: nSVM: prepare guest save area while is_guest_mode is true")

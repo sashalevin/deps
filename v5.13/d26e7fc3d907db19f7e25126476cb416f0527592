@@ -1,0 +1,7 @@
+d26e7fc3d907 ("x86/pci: Rename pci_mmcfg_check_reserved() to pci_mmcfg_reserved()")
+704891033b97 ("x86/pci: Rename 'MMCONFIG' to 'ECAM', use pr_fmt")
+286ae88c9e40 ("x86/pci: Add MCFG debug logging")
+070909e56a7d ("x86/pci: Reserve ECAM if BIOS didn't include it in PNP0C02 _CRS")
+fd3a8cff4d4a ("x86/pci: Treat EfiMemoryMappedIO as reservation of ECAM space")
+a48fe6376919 ("x86/pci: Simplify is_mmconf_reserved() messages")
+0a470c843d23 ("x86/pci: Return true/false (not 1/0) from bool functions")

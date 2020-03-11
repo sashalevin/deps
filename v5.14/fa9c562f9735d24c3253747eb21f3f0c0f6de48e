@@ -1,0 +1,8 @@
+fa9c562f9735 ("net: make xpcs_do_config to accept advertising for pcs-xpcs and sja1105")
+fe70fb74b564 ("net: stmmac/xpcs: convert to pcs_validate()")
+92c3807b9ac3 ("net: stmmac: convert to phylink_get_linkmodes()")
+be6ec5b70266 ("net: xpcs: add support for retrieving supported interface modes")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")
+e6e12df625f2 ("net: mscc: ocelot: convert to phylink")
+46efe4efb9d1 ("net: dsa: felix: stop calling ocelot_port_{enable,disable}")
+c762b7fac1b2 ("net: mvneta: deny disabling autoneg for 802.3z modes")

@@ -1,0 +1,4 @@
+24427cda90cb ("efi: pstore: Request at most 512 bytes for variable names")
+36d5786a1c55 ("efi: pstore: Add module parameter for setting the record size")
+859748255b43 ("efi: pstore: Omit efivars caching EFI varstore access layer")
+ec3507b2ca51 ("efi: vars: Don't drop lock in the middle of efivar_init()")

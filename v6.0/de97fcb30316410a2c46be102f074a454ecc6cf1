@@ -1,0 +1,5 @@
+de97fcb30316 ("fs: add batch and poll flags to the uring_cmd_iopoll() handler")
+a1119fb07115 ("io_uring: cleanly separate request types for iopoll")
+585079b6e425 ("nvme: wire up async polling for io passthrough commands")
+5756a3a7e713 ("io_uring: add iopoll infrastructure for io_uring_cmd")
+de27e18e8617 ("fs: add file_operations->uring_cmd_iopoll")

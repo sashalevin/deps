@@ -1,0 +1,6 @@
+3c124435e8dd ("iommu/amd: Support multiple PCI DMA aliases in IRQ Remapping")
+2fcc1e8ac4a8 ("iommu/amd: Factor out setting the remap table for a devid")
+fde65dd3d309 ("iommu/amd: Remove the special case from alloc_irq_table()")
+df42a04b15f1 ("iommu/amd: Avoid locking get_irq_table() from atomic context")
+53b9ec3fbb7d ("iommu/amd: Enforce alignment for MSI IRQs")
+37946d95fc1a ("iommu/amd: Add align parameter to alloc_irq_index()")

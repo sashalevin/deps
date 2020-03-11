@@ -1,0 +1,6 @@
+2b835e24b5c6 ("arm64: untag user pointers in access_ok and __uaccess_mask_ptr")
+9c23f84723d2 ("arm64: move untagged_addr macro from uaccess.h to memory.h")
+9085b34d0e83 ("arm64: uaccess: Formalise types for access_ok()")
+4d8efc2d5ee4 ("arm64: Use pointer masking to limit uaccess speculation")
+51369e398d0d ("arm64: Make USER_DS an inclusive limit")
+eef94a3d09aa ("arm64: move TASK_* definitions to <asm/processor.h>")

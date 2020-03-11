@@ -1,0 +1,6 @@
+166327d79d8d ("netfilter: remove prototype of netfilter_queue_init")
+039b40ee5854 ("netfilter: nf_queue: only call synchronize_net twice if nf_queue is active")
+933bd83ed60e ("netfilter: batch synchronize_net calls during hook unregister")
+01886bd91f1b ("netfilter: remove hook_entries field from nf_hook_state")
+1610a73c4175 ("netfilter: kill NF_HOOK_THRESH() and state->tresh")
+d2be66f6858d ("netfilter: remove comments that predate rcu days")

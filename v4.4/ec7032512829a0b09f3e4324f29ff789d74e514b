@@ -1,0 +1,4 @@
+ec7032512829 ("usb: dwc2: Update DMA descriptor structure")
+3b5fcc9ac2f4 ("usb: dwc2: host: use kmem cache to allocate descriptors")
+95105a998dff ("usb: dwc2: host: avoid usage of dma_alloc_coherent with irqs disabled")
+3ac38d260fa5 ("usb: dwc2: host: ensure filling of isoc desc is correctly done")

@@ -1,0 +1,8 @@
+3c7eb3cc8360 ("md5: remove from lib and only live in crypto")
+1c83a9aab807 ("ext4: move halfmd4 into hash.c directly")
+e192be9d9a30 ("random: replace non-blocking pool with a Chacha20-based CRNG")
+9b4d008787f8 ("random: print a warning for the first ten uninitialized random users")
+3371f3da08cf ("random: initialize the non-blocking pool via add_hwgenerator_randomness()")
+8da4b8c48e7b ("lib/uuid.c: move generate_random_uuid() to uuid.c")
+d18d12d0ff07 ("lib/proportions: Remove unused code")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

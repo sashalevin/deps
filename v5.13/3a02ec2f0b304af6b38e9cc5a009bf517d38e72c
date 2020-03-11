@@ -1,0 +1,8 @@
+3a02ec2f0b30 ("ARC: entry: move ARCompact specific bits out of entry.h")
+9de7fc30f288 ("ARC: entry: SAVE_ABI_CALLEE_REG: ISA/ABI specific helper")
+58d9ceb7d9f5 ("ARC: pt_regs: create seperate type for ecr")
+c505b0da76a6 ("ARC: entry: rework (non-functional)")
+cfca4b5abe0c ("ARC: entry: use gp to cache task pointer (vs. r25)")
+b3bbf6a70ba0 ("ARC: enable HAVE_REGS_AND_STACK_ACCESS_API feature")
+b1c6ecfdd069 ("ARC: entry: fix syscall_trace_exit argument")
+bb6121b11c22 ("ARC: Add instruction_pointer_set() API")

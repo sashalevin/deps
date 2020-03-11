@@ -1,0 +1,3 @@
+035ff33cf4db ("fuse: write inode in fuse_release()")
+36ea23374d1f ("fuse: write inode in fuse_vma_close() instead of fuse_release()")
+2e64ff154ce6 ("fuse: continue to send FUSE_RELEASEDIR when FUSE_OPEN returns ENOSYS")

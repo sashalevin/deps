@@ -1,0 +1,6 @@
+ef2a7c9065ce ("rtnetlink: return ENODEV when ifname does not exist and group is given")
+76c9ac0ee878 ("net: rtnetlink: add possibility to use alternative names as message handle")
+cc6090e985d7 ("net: rtnetlink: introduce helper to get net_device instance by ifname")
+7af12cba4ef0 ("net: rtnetlink: unify the code in __rtnl_newlink get dev with the rest")
+36fbf1e52bd3 ("net: rtnetlink: add linkprop commands to add and delete alternative ifnames")
+ff92741270bf ("net: introduce name_node struct to be used in hashlist")

@@ -1,0 +1,6 @@
+f16e47429e46 ("KVM: VMX: Add missing VMEXIT controls to vmcs_config")
+ee087b4da022 ("KVM: VMX: Extend VMX controls macro shenanigans")
+1dae276569bd ("KVM: VMX: Tweak the special handling of SECONDARY_EXEC_ENCLS_EXITING in setup_vmcs_config()")
+378c4c18509b ("KVM: VMX: Check CPU_BASED_{INTR,NMI}_WINDOW_EXITING in setup_vmcs_config()")
+ffaaf5913f8c ("KVM: VMX: Check VM_ENTRY_IA32E_MODE in setup_vmcs_config()")
+2f4073e08f4c ("KVM: VMX: Enable Notify VM exit")

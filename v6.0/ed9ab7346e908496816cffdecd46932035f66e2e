@@ -1,0 +1,8 @@
+ed9ab7346e90 ("nfsd: move init of percpu reply_cache_stats counters back to nfsd_init_net")
+f5f9d4a314da ("nfsd: move reply cache initialization into nfsd startup")
+f385f7d24413 ("NFSD: register/unregister of nfsd-client shrinker at nfsd startup/shutdown time")
+789e1e10f214 ("nfsd: shut down the NFSv4 state objects before the filecache")
+a1049eb47f20 ("NFSD: refactoring courtesy_client_reaper to a generic low memory shrinker")
+bd86c69dae65 ("NFSD: unregister shrinker when nfsd_init_net() fails")
+7746b32f467b ("NFSD: add shrinker to reap courtesy clients on low memory condition")
+3a4ea23d86a3 ("NFSD: keep track of the number of courtesy clients in the system")

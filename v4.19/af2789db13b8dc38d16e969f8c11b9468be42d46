@@ -1,0 +1,8 @@
+af2789db13b8 ("refperf: Convert reader_task structure's "start" field to int")
+b864f89ff614 ("refperf: Tune reader measurement interval")
+dbf28efdae7b ("refperf: Provide module parameter to specify number of experiments")
+8fc28783a0c3 ("refperf: Convert nreaders to a module parameter")
+83b88c86da0e ("refperf: Allow decimal nanoseconds")
+75dd8efef56e ("refperf: Hoist function-pointer calls out of the loop")
+777a54c908ec ("refperf: Add holdoff parameter to allow CPUs to come online")
+653ed64b01dc ("refperf: Add a test to measure performance of read-side synchronization")

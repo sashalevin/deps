@@ -1,0 +1,4 @@
+3e46bd349706 ("hwrng: bcm2835 - use devm_platform_ioremap_resource() to simplify code")
+c4fc5d6d0b37 ("hwrng: bcm2835 - Remove redundant dev_err call in bcm2835_rng_probe()")
+b788479f6826 ("hwrng: bcm2835 - Define a driver private context")
+21bb0ef43c11 ("hwrng: bcm2835 - Obtain base register via resource")

@@ -1,0 +1,4 @@
+0f0a0a6091e6 ("cxl: Use radix__flush_all_mm instead of generic flush_all_mm")
+cca19f0b684f ("powerpc/64s/radix: Fix missing global invalidations when removing copro")
+aff6f8cb3e21 ("powerpc/mm: Add tracking of the number of coprocessors using a context")
+03b8abedf4f4 ("cxl: Enable global TLBIs for cxl contexts")

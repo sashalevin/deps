@@ -1,0 +1,6 @@
+0e426a3ae030 ("bpf, cgroup: Reject prog_attach_flags array when effective query")
+3b34bcb946c2 ("tools/bpf: Sync btf_ids.h to tools")
+b79c9fc9551b ("bpf: implement BPF_PROG_QUERY for BPF_LSM_CGROUP")
+00442143a2ab ("bpf: convert cgroup_bpf.progs to hlist")
+4c46091ee985 ("bpf: Fix KASAN use-after-free Read in compute_effective_progs")
+fd1740b6abac ("bpf: Remove the cgroup -> bpf header dependecy")

@@ -1,0 +1,4 @@
+3562f5d9f21e ("nvmet: fix data_len to 0 for bdev-backed write_zeroes")
+d5eff33ee6f8 ("nvmet: add simple file backed ns support")
+618cff4285dc ("nvmet: remove duplicate NULL initialization for req->ns")
+e454d122e228 ("nvmet: kill nvmet_inline_bio_init")

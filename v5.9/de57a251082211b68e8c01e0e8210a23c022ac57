@@ -1,0 +1,8 @@
+de57a2510822 ("eventpoll: Add per-epoll prefer busy poll option")
+c6aa2a7778d8 ("eventpoll: Add per-epoll busy poll packet budget")
+85455c795c07 ("eventpoll: support busy poll per epoll instance")
+1493c47fb140 ("epoll: simplify and optimize busy loop logic")
+7c951cafc0cb ("net: Add SO_BUSY_POLL_BUDGET socket option")
+7fd3253a7de6 ("net: Introduce preferred busy-polling")
+4d092dd2041a ("net: manage napi add/del idempotence explicitly")
+5198d545dba8 ("net: remove napi_hash_del() from driver-facing API")

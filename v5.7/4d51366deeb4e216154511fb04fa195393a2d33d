@@ -1,0 +1,7 @@
+4d51366deeb4 ("SUNRPC: Remove gss_read_common_verf()")
+20ebe927ede7 ("SUNRPC: Hoist common verifier decoding code into svcauth_gss_proc_init()")
+4ac5e7a6904b ("SUNRPC: Move the server-side GSS upcall to a noinline function")
+438623a06bac ("SUNRPC: Add svc_rqst::rq_auth_stat")
+d48c8124749c ("SUNRPC: fix copying of multiple pages in gss_read_proxy_verf()")
+10b9d99a3dbb ("SUNRPC: Augment server-side rpcgss tracepoints")
+74fb8fecee99 ("SUNRPC: Trace GSS context lifetimes")

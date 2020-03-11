@@ -1,0 +1,6 @@
+26e40d4c0b52 ("mt76: wait for pending tx to complete before switching channel")
+a85b590cf55f ("mt76: move ieee80211_hw allocation to common core")
+89bc67e3a93a ("mt76: only stop tx queues on offchannel, not during the entire scan")
+95135e8c0b4a ("mt76: check for pending reset before attempting to schedule tx")
+7bc04215a66b ("mt76: add driver code for MT76x2e")
+17f1de56df05 ("mt76: add common code shared between multiple chipsets")

@@ -1,0 +1,7 @@
+3c0edea9b29f ("pipe: Remove sync on wake_ups")
+cefa80ced57a ("pipe: Increase the writer-wakeup threshold to reduce context-switch count")
+a194dfe6e6f6 ("pipe: Rearrange sequence in pipe_write() to preallocate slot")
+8446487feba9 ("pipe: Conditionalise wakeup in pipe_read()")
+b667b8673443 ("pipe: Advance tail pointer inside of wait spinlock in pipe_read()")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")
+9b286efeb5eb ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

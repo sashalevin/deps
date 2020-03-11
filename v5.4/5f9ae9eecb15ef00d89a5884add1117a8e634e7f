@@ -1,0 +1,7 @@
+5f9ae9eecb15 ("scsi: ib_srp: Call scsi_done() directly")
+ad215aaea4f9 ("RDMA/srp: Make struct scsi_cmnd and struct srp_request adjacent")
+7ec2e27a3aff ("RDMA/srp: Fix a recently introduced memory leak")
+2b5715fc1738 ("RDMA/srp: Fix support for unpopulated and unbalanced NUMA nodes")
+f273ad4f8d90 ("RDMA/srp: Remove support for FMR memory registration")
+87fee61c3513 ("RDMA/srp: Make the channel count configurable per target")
+547ed331bbe8 ("RDMA/srp: Add parse function for maximum initiator to target IU size")

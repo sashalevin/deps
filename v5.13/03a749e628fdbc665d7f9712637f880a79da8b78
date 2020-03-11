@@ -1,0 +1,6 @@
+03a749e628fd ("printk: move buffer definitions into console_emit_next_record() caller")
+a699449bb13b ("printk: refactor and rework printing logic")
+8ebc476fd51e ("printk: Drop console_sem during panic")
+13fb0f74d702 ("printk: Avoid livelock with heavy printk during panic")
+027b57170bf8 ("serial: core: Fix initializing and restoring termios speed")
+c985aafb60e9 ("Merge branch 'rework/printk_safe-removal' into for-linus")

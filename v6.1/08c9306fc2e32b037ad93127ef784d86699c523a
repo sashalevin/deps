@@ -1,0 +1,6 @@
+08c9306fc2e3 ("tracing/fprobe-event: Assume fprobe is a return event by $retval")
+e2d0d7b2f42d ("tracing/probes: Add tracepoint support on fprobe_events")
+4d42a7656d87 ("selftests/ftrace: Add fprobe related testcases")
+334e5519c375 ("tracing/probes: Add fprobe events for tracing function entry and exit.")
+30460c21ed40 ("tracing/probes: Avoid setting TPARG_FL_FENTRY and TPARG_FL_RETURN")
+d4505aa6afae ("tracing/probes: Reject symbol/symstr type for uprobe")

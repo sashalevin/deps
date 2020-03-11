@@ -1,0 +1,7 @@
+0ee5f8dcd69d ("s390/sclp: clean up, use sccb_mask_t where appropriate")
+d5ab7a34f9bb ("s390/sclp: make early sclp code readable")
+76fdf1416eed ("s390/sclp: disable early sclp code as soon as the base sclp driver is active")
+89175cf76686 ("s390: provide sclp based boot console")
+f03197485991 ("s390/sclp: always stay within bounds of the early sccb")
+742dc5773cf5 ("s390/sclp: make early sclp irq handler more robust")
+af51160ebd3c ("s390/smp: initialize cpu_present_mask in setup_arch")

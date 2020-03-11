@@ -1,0 +1,5 @@
+891cb2a72d82 ("mm, memory_hotplug: fix off-by-one in is_pageblock_removable")
+efad4e475c31 ("mm, memory_hotplug: is_mem_section_removable do not pass the end of a zone")
+fb52bbaee598 ("mm: move is_pageblock_removable_nolock() to mm/memory_hotplug.c")
+da024512a1fa ("mm: pass the vmem_altmap to arch_remove_memory and __remove_pages")
+4da2ce250f98 ("mm: distinguish CMA and MOVABLE isolation in has_unmovable_pages()")

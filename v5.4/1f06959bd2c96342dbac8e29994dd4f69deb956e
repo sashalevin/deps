@@ -1,0 +1,7 @@
+1f06959bd2c9 ("block: remove the unused q argument to part_in_flight and part_in_flight_rw")
+b2f609e191ed ("block: move the blk-mq calls out of part_in_flight{,_rw}")
+6005771c17db ("block: mark part_in_flight and part_in_flight_rw static")
+ea18e0f0a63a ("block/diskstats: accumulate all per-cpu counters in one pass")
+3ad5cee5cd00 ("block: move sysfs methods shared by disks and partitions to genhd.c")
+e598a72faeb5 ("block/genhd: Notify udev about capacity change")
+b68663186577 ("block: add iostat counters for flush requests")

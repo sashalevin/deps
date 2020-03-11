@@ -1,0 +1,4 @@
+bbd0f32721e2 ("ocfs2: use jbd2_inode dirty range scoping")
+41617e1a8dec ("jbd2: add support for avoiding data writes during transaction commits")
+46e625565950 ("ocfs2: do not change i_size in write_end for direct io")
+cb0d9d47a39d ("jbd2: save some atomic ops in __JI_COMMIT_RUNNING handling")

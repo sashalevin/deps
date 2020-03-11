@@ -1,0 +1,6 @@
+7ce154fe6917 ("mm/gup: move try_grab_page() to mm/internal.h")
+0f0892356fa1 ("mm: allow multiple error returns in try_grab_page()")
+5535be309971 ("mm/gup: fix FOLL_FORCE COW security issue and remove FOLL_COW")
+3a194f3f8ad0 ("mm/hugetlb: make pud_huge() and follow_huge_pud() aware of non-present pud entry")
+b6a2619c60b4 ("mm/gup: sanity-check with CONFIG_DEBUG_VM that anonymous pages are exclusive when (un)pinning")
+a7f226604170 ("mm/gup: trigger FAULT_FLAG_UNSHARE when R/O-pinning a possibly shared anonymous page")

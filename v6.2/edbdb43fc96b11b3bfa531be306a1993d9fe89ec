@@ -1,0 +1,4 @@
+edbdb43fc96b ("KVM: x86: Preserve TDP MMU roots until they are explicitly invalidated")
+de0322f575be ("KVM: x86/mmu: Replace open coded usage of tdp_mmu_page with is_tdp_mmu_page()")
+09732d2b4dc5 ("KVM: x86/mmu: Move TDP MMU VM init/uninit behind tdp_mmu_enabled")
+1f98f2bd8ec4 ("KVM: x86/mmu: Change tdp_mmu to a read-only parameter")

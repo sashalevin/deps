@@ -1,0 +1,6 @@
+ba1ed9e17b58 ("KVM: arm: vgic-v2: Only use the virtual state when userspace accesses pending bits")
+9a50ebbffa98 ("KVM: arm: vgic: Synchronize the whole guest on GIC{D,R}_I{S,C}ACTIVER read")
+1c32ca5dc6d0 ("KVM: arm: vgic: Fix limit condition when writing to GICD_I[CS]ACTIVER")
+ef1820be4777 ("KVM: arm64: GICv4.1: Add direct injection capability to SGI registers")
+1f03b2bcd0d7 ("KVM: Disable preemption in kvm_get_running_vcpu()")
+7495e22bb165 ("KVM: Move running VCPU from ARM to common code")

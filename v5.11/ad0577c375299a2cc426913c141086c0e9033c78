@@ -1,0 +1,6 @@
+ad0577c37529 ("KVM: x86: Kill off __ex() and __kvm_handle_fault_on_reboot()")
+1e0c7d40758b ("KVM: SVM: hyper-v: Remote TLB flush for SVM")
+fa13680f5668 ("KVM: SVM: Disable SEV/SEV-ES if NPT is disabled")
+7aef27f0b2a8 ("svm/sev: Register SEV and SEV-ES ASIDs to the misc controller")
+a72232eabdfc ("cgroup: Add misc cgroup controller")
+99840a75454b ("KVM: SVM: Connect 'npt' module param to KVM's internal 'npt_enabled'")

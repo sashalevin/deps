@@ -1,0 +1,4 @@
+086f694a75e1 ("memcg: replace in_interrupt() with !in_task()")
+4b82ab4f2883 ("mm/memcg: automatically penalize tasks with high swap use")
+d1663a907bd3 ("mm/memcg: move cgroup high memory limit setting into struct page_counter")
+8a5dbc657e12 ("mm/memcg: prepare for swap over-high accounting and penalty calculation")

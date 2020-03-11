@@ -1,0 +1,7 @@
+f4b84b2ff851 ("minmax: fix indentation of __cmp_once() and __clamp_once()")
+d03eba99f5bf ("minmax: allow min()/max()/clamp() if the arguments have the same signedness.")
+80fcac55385c ("minmax: add umin(a, b) and umax(a, b)")
+5efcecd9a3b1 ("minmax: sanity check constant bounds when clamping")
+f747e6667ebb ("linux/bits.h: fix compilation error with GENMASK")
+b296a6d53339 ("kernel.h: split out min()/max() et al. helpers")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

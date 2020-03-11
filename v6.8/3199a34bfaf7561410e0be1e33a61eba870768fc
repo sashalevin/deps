@@ -1,0 +1,4 @@
+3199a34bfaf7 ("dm-raid: Fix WARN_ON_ONCE check for sync_thread in raid_resume")
+41425f96d7aa ("dm-raid456, md/raid456: fix a deadlock for dm-raid456 while io concurrent with reshape")
+5625ff8b72b0 ("dm-raid: add a new helper prepare_suspend() in md_personality")
+16c4770c75b1 ("dm-raid: really frozen sync_thread during suspend")

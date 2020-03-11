@@ -1,0 +1,7 @@
+0e0761f86f10 ("iio: core: Forbid use of both labels and extended names")
+8ebaa3ff1e71 ("iio: core: register chardev only if needed")
+6f71bf1991b6 ("iio: core: Allow drivers to specify a label without it coming from of")
+a17cb784fcd7 ("iio: move 'indio_dev->info' null check first in __iio_device_register()")
+2c3d0c9ffd24 ("iio: core: Add optional symbolic label to device attributes")
+8915aacac4dd ("iio: core: no need to check return value of debugfs_create functions")
+63b19547cc3d ("iio: Use macro magic to avoid manual assign of driver_module")

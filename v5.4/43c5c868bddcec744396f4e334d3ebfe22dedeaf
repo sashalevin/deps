@@ -1,0 +1,5 @@
+43c5c868bddc ("KVM: arm64: vgic: Allow registration of a non-maskable maintenance interrupt")
+669062d2a1aa ("KVM: arm64: vgic: Be tolerant to the lack of maintenance interrupt masking")
+0e5cb7770684 ("irqchip/gic: Split vGIC probing information from the GIC code")
+3c40706d05fd ("irqchip/gic-v4.1: Advertise support v4.1 to KVM")
+0dd57fed6b46 ("irqchip/gic-v3-its: Make is_v4 use a TYPER copy")

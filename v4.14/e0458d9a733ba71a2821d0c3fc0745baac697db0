@@ -1,0 +1,8 @@
+e0458d9a733b ("net: bridge: fdb: convert is_sticky to bitops")
+29e63fffd666 ("net: bridge: fdb: convert is_static to bitops")
+6869c3b02b59 ("net: bridge: fdb: convert is_local to bitops")
+435f2e7cc0b7 ("net: bridge: add support for sticky fdb entries")
+161d82de1ff8 ("net: bridge: Notify about !added_by_user FDB entries")
+eb7935830d00 ("net: bridge: use rhashtable for fdbs")
+821f1b21cabb ("bridge: add new BR_NEIGH_SUPPRESS port flag to suppress arp and nd flood")
+5af48b59f35c ("net: bridge: add per-port group_fwd_mask with less restrictions")

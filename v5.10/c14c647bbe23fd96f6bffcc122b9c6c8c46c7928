@@ -1,0 +1,4 @@
+c14c647bbe23 ("dax/bus.c: replace WARN_ON_ONCE() with lockdep asserts")
+c05ae9d85b47 ("dax/bus.c: replace driver-core lock usage by a local rwsem")
+70aab281e18c ("dax: Introduce alloc_dev_dax_id()")
+6268d7da4d19 ("device-dax: Fix range release")

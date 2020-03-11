@@ -1,0 +1,6 @@
+0ec77bd92b51 ("drm/gem: Clear mapping addresses for unused framebuffer planes")
+f6424ecdb3c8 ("drm/gem: Provide drm_gem_fb_{vmap,vunmap}()")
+37408cd825a4 ("drm/gem: Provide drm_gem_fb_{begin,end}_cpu_access() helpers")
+6dd7b6ce43ac ("drm: Add additional atomic helpers for shadow-buffered planes")
+bcf6293d7ae9 ("drm/core: Calculate bpp in afbc helper")
+55f7f72753ab ("drm/core: Add drm_afbc_framebuffer and a corresponding helper")

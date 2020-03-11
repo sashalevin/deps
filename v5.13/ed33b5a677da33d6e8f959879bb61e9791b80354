@@ -1,0 +1,8 @@
+ed33b5a677da ("mm: remove redundant smp_wmb()")
+03c4f20454e0 ("mm: introduce pmd_install() helper")
+e4dc3489143f ("mm: fix the deadlock in finish_fault()")
+3bc2b6a72596 ("mm: sparsemem: split the huge PMD mapping of vmemmap pages")
+ad2fa3717b74 ("mm: hugetlb: alloc the vmemmap pages associated with each HugeTLB page")
+b65d4adbc0f0 ("mm: hugetlb: defer freeing of HugeTLB pages")
+f41f2ed43ca5 ("mm: hugetlb: free the vmemmap pages associated with each HugeTLB page")
+426e5c429d16 ("mm: memory_hotplug: factor out bootmem core functions to bootmem_info.c")

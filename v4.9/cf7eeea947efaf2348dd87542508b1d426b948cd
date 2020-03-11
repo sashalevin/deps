@@ -1,0 +1,8 @@
+cf7eeea947ef ("cpuidle: governors: Drop redundant checks related to PM QoS")
+c523c68da211 ("cpuidle: ladder: Add per CPU PM QoS resume latency support")
+0759e80b84e3 ("PM / QoS: Fix device resume latency framework")
+704d2ce6603f ("PM / domains: Rework governor code to be more consistent")
+6dbf5cea05a7 ("cpuidle: menu: Avoid taking spinlock for accessing QoS values")
+37efa4b41ffb ("CPU / PM: expose pm_qos_resume_latency for CPUs")
+9908859acaa9 ("cpuidle/menu: add per CPU PM QoS resume latency consideration")
+e5f1b245870d ("cpuidle: governors: Remove remaining old module code")

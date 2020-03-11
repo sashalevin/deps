@@ -1,0 +1,7 @@
+6811886ac91e ("gpio: pca953x: Utilise temporary variable for struct device")
+c47f7ff0fe61 ("gpio: pca953x: Utilise dev_err_probe() where it makes sense")
+ac2f6f9385aa ("gpio: pca953x: Make the irqchip immutable")
+2a93a0da06f8 ("gpio: pca953x: Request IRQ after all initialisation done")
+edee3bc65894 ("gpio: pca953x: Use irqchip template")
+ba8c90c61847 ("gpio: pca953x: Override IRQ for one of the expanders on Galileo Gen 2")
+bcf41dc480b1 ("gpio: pca953x: fix handling of automatic address incrementing")

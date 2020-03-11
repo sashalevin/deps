@@ -1,0 +1,5 @@
+8b793bcda61f ("watchdog: move softlockup_panic back to early_param")
+f117955a2255 ("kernel/watchdog.c: convert {soft/hard}lockup boot parameters to sysctl aliases")
+b467f3ef3c50 ("kernel/hung_task convert hung_task_panic boot parameter to sysctl")
+0a477e1ae21b ("kernel/sysctl: support handling command line aliases")
+3db978d480e2 ("kernel/sysctl: support setting sysctl parameters from kernel command line")

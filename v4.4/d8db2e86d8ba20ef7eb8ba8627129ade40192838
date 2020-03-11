@@ -1,0 +1,5 @@
+d8db2e86d8ba ("rcu: Add TPS() protection for _rcu_barrier_trace strings")
+f92c734f02cb ("rcu: Prevent rcu_barrier() from starting needless grace periods")
+15fecf89e46a ("srcu: Abstract multi-tail callback list handling")
+630c7ed9ca06 ("rcu: Don't wake rcuc/X kthreads on NOCB CPUs")
+d117c8aa1d51 ("rcu: Make cpu_needs_another_gp() be bool")

@@ -1,0 +1,7 @@
+0fa400cb8a90 ("ARC: [plat-axs103] refactor the DT fudging code")
+9926c29f746d ("ARC: [plat-axs103] use clk driver #1: Get rid of platform specific cpu clk setting")
+776d7f1694a7 ("arc: axs103_smp: Fix CPU frequency to 100MHz for dual-core")
+20c7dbbdbe12 ("ARC: Don't try to use value of top level clock-frequency in DT")
+b3d6aba8bd92 ("ARC: [dts] Add clk feeding into timers to DTs")
+9ba7648cc9b3 ("ARC: [dts] Rename cpu_intc -> core_intc")
+0eeb3dfe4b85 ("ARC: [plat-axs] Refactor core freq get/set")

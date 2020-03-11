@@ -1,0 +1,8 @@
+e7255c00b10e ("ALSA: hda: Skip event processing for unregistered codecs")
+b5df2a7dca1c ("ASoC: codecs: Add HD-Audio codec driver")
+1c7f0e349aa5 ("ALSA: hda: Skip codec shutdown in case the codec is not registered")
+2eaf1635f9d6 ("ALSA: hda: Disable runtime resume at shutdown")
+b98444ed597d ("ALSA: hda: Suspend codec at shutdown")
+3099406ef483 ("ALSA: hda: Release codec display power during shutdown/reboot")
+7fcd9bb5acd0 ("ALSA: hda: fix NULL pointer dereference during suspend")
+a529819d8876 ("Merge branch 'asoc-5.2' into asoc-5.3")

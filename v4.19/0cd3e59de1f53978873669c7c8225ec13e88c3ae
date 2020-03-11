@@ -1,0 +1,5 @@
+0cd3e59de1f5 ("sched/isolation: Consolidate error handling")
+6367b600e31c ("sched/isolation: Consolidate check for housekeeping minimum service")
+915a2bc3c6b7 ("sched/isolation: Reconcile rcu_nocbs= and nohz_full=")
+9219565aa890 ("sched/isolation: Require a present CPU in housekeeping mask")
+c89d92eddfad ("sched/fair: Use non-atomic cpumask_{set,clear}_cpu()")

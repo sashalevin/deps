@@ -1,0 +1,8 @@
+fe2567eb5521 ("mm/shmem: allow uffd wr-protect none pte for file-backed mem")
+5c041f5d1f23 ("mm: teach core mm about pte markers")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+c145e0b47c77 ("mm: streamline COW logic in do_swap_page()")
+84d60fdd3733 ("mm: slightly clarify KSM logic in do_swap_page()")
+a1a3a2fc304d ("memory tiering: skip to scan fast memory")
+5abfd71d936a ("mm: don't skip swap entry even if zap_details specified")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

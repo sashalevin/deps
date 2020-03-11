@@ -1,0 +1,5 @@
+9321f8152d9a ("rtmutex: Wake up the waiters lockless while dropping the read lock.")
+8fe46535e10d ("rtmutex: Check explicit for TASK_RTLOCK_WAIT.")
+456cfbc65cd0 ("locking/rtmutex: Prepare RT rt_mutex_wake_q for RT locks")
+b576e640ce5e ("locking/rtmutex: Provide rt_wake_q_head and helpers")
+943f0edb754f ("locking/rt: Add base code for RT rw_semaphore and rwlock")

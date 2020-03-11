@@ -1,0 +1,7 @@
+bf0baa5bbdc9 ("arm64: implement raw_smp_processor_id() using thread_info")
+331a1b3a836c ("arm64: smp: Add arch support for backtrace using pseudo-NMI")
+2b2d0a7a96ab ("arm64: smp: Remove dedicated wakeup IPI")
+0edaee42eb8c ("arm64/smp: Drop the macro S(x,s)")
+a26388152531 ("arm64: Remove custom IRQ stat accounting")
+5cebfd2d47c2 ("arm64: Kill __smp_cross_call and co")
+d3afc7f12987 ("arm64: Allow IPIs to be handled as normal interrupts")

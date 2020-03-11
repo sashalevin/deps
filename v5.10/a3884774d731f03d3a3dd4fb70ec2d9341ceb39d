@@ -1,0 +1,6 @@
+a3884774d731 ("iommu/dma: Fix iova map result check bug")
+dabb16f67215 ("iommu/dma: return error code from iommu_dma_map_sg()")
+8230ce9a4e20 ("dma-iommu: refactor iommu_dma_alloc_remap")
+3ab657291638 ("iommu: use the __iommu_attach_device() directly for deferred attach")
+a8e8af35c9f4 ("dma-iommu: use static-key to minimize the impact in the fast-path")
+71fe89ceb55b ("dma-iommu: remove __iommu_dma_mmap")

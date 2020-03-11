@@ -1,0 +1,5 @@
+8ec9069a432c ("x86/idt: Remove address argument from idt_invalidate()")
+ac461122c88a ("x86-32: Fix kexec with stack canary (CONFIG_CC_STACKPROTECTOR)")
+588787fde7aa ("x86/idt: Move early IDT handler setup to IDT code")
+e802a51ede91 ("x86/idt: Consolidate IDT invalidation")
+d8ed9d48266a ("x86/idt: Create file for IDT related code")

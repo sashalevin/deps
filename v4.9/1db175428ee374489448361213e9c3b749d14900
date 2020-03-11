@@ -1,0 +1,5 @@
+1db175428ee3 ("ext4: Simplify DAX fault path")
+e2ae766c1b03 ("ext4: convert DAX faults to iomap infrastructure")
+776722e85d3b ("ext4: DAX iomap write support")
+364443cbcfe7 ("ext4: convert DAX reads to iomap infrastructure")
+213bcd9ccbf0 ("ext4: factor out checks from ext4_file_write_iter()")

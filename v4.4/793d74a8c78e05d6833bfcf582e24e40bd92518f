@@ -1,0 +1,6 @@
+793d74a8c78e ("powerpc/vdso64: Switch from __get_datapage() to get_datapage inline macro")
+552263456215 ("powerpc: Fix vDSO clock_getres()")
+176ed98c8a76 ("y2038: vdso: powerpc: avoid timespec references")
+ddccf40fe82b ("y2038: vdso: change timeval to __kernel_old_timeval")
+b5b4453e7912 ("powerpc/vdso64: Fix CLOCK_MONOTONIC inconsistencies across Y2038")
+685f7e4f1614 ("Merge tag 'powerpc-4.20-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

@@ -1,0 +1,8 @@
+60ded7cc86f3 ("drm/i915: Factor out a helper for handling atomic modeset locks/state")
+589ebefd7a89 ("drm/i915: Rename intel_tc_phy_regs.h to intel_mg_phy_regs.h")
+df17ff62b626 ("drm/i915/display: split out modeset verification code")
+781c336a6caa ("drm/i915/mpllb: move mpllb state check to intel_snps_phy.c")
+109406c92f97 ("drm/i915/mpllb: use I915_STATE_WARN() for state mismatch warnings")
+f0978e92c2f7 ("drm/i915/dpll: move shared dpll state verification to intel_dpll_mgr.c")
+88436dec47a8 ("drm/i915/wm: move wm state verification to intel_pm.c")
+7d4561722c3b ("drm/i915: Tweak plane ddb allocation tracking")

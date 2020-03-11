@@ -1,0 +1,6 @@
+10406abe036b ("drm/amd/display: make dc_set_power_state() return type `void` again")
+1ca965719b5b ("drm/amd/display: Change dc_set_power_state() to bool instead of int")
+7441ef0b3ebe ("drm/amd: Propagate failures in dc_set_power_state()")
+8e794421bc98 ("drm/amd/display: Fork thread to offload work of hpd_rx_irq")
+410ad92d7fec ("drm/amd/display: Add option to defer works of hpd_rx_irq")
+e27c41d5b068 ("drm/amd/display: Support for DMUB HPD interrupt handling")

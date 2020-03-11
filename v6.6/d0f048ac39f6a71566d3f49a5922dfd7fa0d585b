@@ -1,0 +1,8 @@
+d0f048ac39f6 ("mm: add per-order mTHP anon_swpout and anon_swpout_fallback counters")
+ec33687c6749 ("mm: add per-order mTHP anon_fault_alloc and anon_fault_fallback counters")
+5ed890ce5147 ("mm: vmscan: avoid split during shrink_folio_list()")
+085ff35e7636 ("mm: memory: move mem_cgroup_charge() into alloc_anon_folio()")
+19eaf44954df ("mm: thp: support allocation of anonymous multi-size THP")
+3485b88390b0 ("mm: thp: introduce multi-size THP sysfs interface")
+7a81751fcdeb ("mm/thp: fix "mm: thp: kill __transhuge_page_enabled()"")
+811244a501b9 ("mm: memcg: add THP swap out info for anonymous reclaim")

@@ -1,0 +1,8 @@
+7dc9b92dcfef ("drm/xe: Remove i915_utils dependency from xe_pcode.")
+81593af6c88d ("drm/xe: Convert xe_mmio_wait32 to us so we can stop using wait_for_us.")
+eb04985d7211 ("drm/xe: Wait for success on guc done.")
+2e5be5d57dbe ("drm/xe: Convert guc_ready to regular xe_mmio_wait32")
+7aaec3a623ad ("drm/xe: Let's return last value read on xe_mmio_wait32.")
+86011ae21c15 ("drm/xe: Stop using i915's range_overflows_t macro.")
+0f06dc101972 ("drm/xe: Implement a local xe_mmio_wait32")
+dd08ebf6c352 ("drm/xe: Introduce a new DRM driver for Intel GPUs")

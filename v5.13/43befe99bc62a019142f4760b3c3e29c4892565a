@@ -1,0 +1,7 @@
+43befe99bc62 ("net/mlx5e: Use a new initializer to build uniform indir table")
+6fe5ff2c7780 ("net/mlx5e: Create struct mlx5e_rss_params_hash")
+3f22d6c77bb9 ("net/mlx5e: Move RX resources to a separate struct")
+4ad31849771a ("net/mlx5e: Move mlx5e_build_rss_params() call to init_rx")
+06e9f13ac5cc ("net/mlx5e: Convert RQT to a dedicated object")
+bc5506a166c3 ("net/mlx5e: Check if inner FT is supported outside of create/destroy functions")
+26ab7b384525 ("net/mlx5e: Block LRO if firmware asks for tunneled LRO")

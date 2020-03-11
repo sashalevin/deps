@@ -1,0 +1,3 @@
+49f683b41f28 ("KVM: Fix a data race on last_boosted_vcpu in kvm_vcpu_on_spin()")
+46808a4cb897 ("KVM: Use 'unsigned long' as kvm_for_each_vcpu()'s index")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")

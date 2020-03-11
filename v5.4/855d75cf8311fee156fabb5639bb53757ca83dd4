@@ -1,0 +1,8 @@
+855d75cf8311 ("usb: hub: Add quirk to decrease IN-ep poll interval for Microchip USB491x hub")
+6666ea93d2c4 ("usb: hub: Replace hardcoded quirk value with BIT() macro")
+7171b0e261b1 ("usb: core: hub: disable autosuspend for TI TUSB8041")
+3a6bf4a08142 ("usb: core: hub: Create platform devices for onboard hubs in hub_probe()")
+1bf2761c8375 ("usb: hub: Fix link power management max exit latency (MEL) calculations")
+a7d8d1c7a7f7 ("usb: core: hub: Disable autosuspend for Cypress CY7C65632")
+76e1ef1d81a4 ("usb: core: hub: limit HUB_QUIRK_DISABLE_AUTOSUSPEND to USB5534B")
+1208f9e1d758 ("USB: hub: Fix the broken detection of USB3 device in SMSC hub")

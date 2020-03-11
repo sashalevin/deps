@@ -1,0 +1,8 @@
+f0a6d77b351c ("ata: make transfer mode masks *unsigned int*")
+a28c1ab31271 ("ata: libata-core: fix parameter type in ata_xfer_mode2shift()")
+7fe183c773c4 ("ata: start separating SATA specific code from libata-core.c")
+a52fbcfc7b38 ("ata: move EXPORT_SYMBOL_GPL()s close to exported code")
+8ba5a45c998c ("ata: optimize struct ata_force_param size")
+10a663a1b151 ("ata: ahci: Add shutdown to freeze hardware resources of ahci")
+95364f36701e ("ata: make qc_prep return ata_completion_errors")
+c82ee6d3beaa ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 18")

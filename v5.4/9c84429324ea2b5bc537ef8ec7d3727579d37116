@@ -1,0 +1,8 @@
+9c84429324ea ("spi: spi-microchip-core: Add support for GPIO based CS")
+8f8bf52ed5b7 ("spi: microchip-core: switch to use modern name")
+cdeaf3a99a02 ("spi: microchip-core: switch to use dev_err_probe()")
+5d56d8974d1e ("spi: microchip-core: switch to use devm_spi_alloc_master()")
+2081ad146746 ("spi: microchip-core: fix passing zero to PTR_ERR warning")
+d38dc01a4e68 ("spi: microchip-core: fix potentially incorrect return from probe")
+116679aef2f9 ("spi: micro: fix unreasonable clk_prepare_enable() on error in mchp_corespi_probe()")
+9ac8d17694b6 ("spi: add support for microchip fpga spi controllers")

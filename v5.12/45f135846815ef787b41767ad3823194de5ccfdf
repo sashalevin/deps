@@ -1,0 +1,6 @@
+45f135846815 ("svcrdma: Split svcrmda_wc_{read,write} tracepoints")
+6c8c84f52510 ("svcrdma: Fewer calls to wake_up() in Send completion handler")
+7d81ee8722d6 ("svcrdma: Single-stage RDMA Read")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")
+2a1e4f21d841 ("svcrdma: Normalize Send page handling")
+e844d307d46c ("svcrdma: Add a "deferred close" helper")

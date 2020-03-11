@@ -1,0 +1,6 @@
+ead3d3c5b54f ("ALSA: hda: Fix hang at HD-audio codec unbinding due to refcount saturation")
+37c4fd0db7c9 ("ALSA: hda: Do disconnect jacks at codec unbind")
+7206998f578d ("ALSA: hda: Fix potential deadlock at codec unbinding")
+c0f1886de7e1 ("ALSA: hda: intel: Allow repeatedly probing on codec configuration errors")
+f5dac54d9d93 ("ALSA: hda: Separate runtime and system suspend")
+a6e7d0a4bdb0 ("ALSA: hda: fix jack detection with Realtek codecs when in D3")

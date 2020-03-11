@@ -1,0 +1,8 @@
+09417e673cbd ("PM: EM: Change debugfs configuration to use runtime EM table data")
+5a367f7b7014 ("PM: EM: Add performance field to struct em_perf_state and optimize")
+aa11a7ebfd5d ("PM: EM: Use runtime modified EM for CPUs energy estimation in EAS")
+ca0fc871f16f ("PM: EM: Introduce runtime modifiable table")
+8552d6820168 ("PM: EM: Split the allocation and initialization of the EM table")
+faf7075b79a2 ("PM: EM: Introduce em_compute_costs()")
+a3c78778f50c ("PM: EM: Refactor em_pd_get_efficient_state() to be more flexible")
+15cbbd1d317e ("energy_model: Use a fixed reference frequency")

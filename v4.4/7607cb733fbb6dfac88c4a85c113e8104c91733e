@@ -1,0 +1,6 @@
+7607cb733fbb ("ARM/dma-mapping: take the bus limit into account in __dma_alloc")
+fd50924917f9 ("ARM/dma-mapping: remove get_coherent_dma_mask")
+f12708965069 ("ARM: 8561/3: dma-mapping: Don't use outer_flush_range when the L2C is coherent")
+9c18fcf7ae0e ("ARM: 8551/2: DMA: Fix kzalloc flags in __dma_alloc")
+b42686761219 ("ARM: 8546/1: dma-mapping: refactor to fix coherent+cma+gfp=0")
+19e6e5e5392b ("ARM: 8547/1: dma-mapping: store buffer information")

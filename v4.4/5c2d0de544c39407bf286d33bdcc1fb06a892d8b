@@ -1,0 +1,8 @@
+5c2d0de544c3 ("ALSA: line6: hwdep: add support for O_NONBLOCK opening mode")
+a16039cbf1a1 ("ALSA: line6: Add hwdep interface to access the POD control messages")
+7811a3ad18ac ("ALSA: line6: Allow processing of raw incoming messages")
+174e1fc0bff5 ("ALSA: line6: Distinguish device init (ctrl EP) and MIDI data transfer (int EP)")
+f56742cc4189 ("ALSA: line6: Add LINE6_CAP_IN_NEEDS_OUT, a void playback stream during capture")
+97d78acfb870 ("ALSA: line6: Allow different channel numbers for in/out")
+79faa2b048b2 ("ALSA: line6: Add high-speed USB support")
+b2233d97a0e6 ("ALSA: line6: Enable different number of URBs for frame transfers")

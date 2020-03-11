@@ -1,0 +1,4 @@
+96c0c7ae5266 ("s390/vdso: convert vdso_init() to arch_initcall")
+80f06306240e ("s390/vdso: reimplement getcpu vdso syscall")
+87d598634521 ("s390/mm: remove set_fs / rework address space handling")
+ab177c5d00cd ("s390/mm: remove unused clear_user_asce()")

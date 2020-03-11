@@ -1,0 +1,8 @@
+8854c55f54bc ("mm, compaction: keep cached migration PFNs synced for unusable pageblocks")
+566e54e113eb ("mm, compaction: remove last_migrated_pfn from compact_control")
+c5943b9c5312 ("mm, compaction: rearrange compact_control")
+c5fbd937b603 ("mm, compaction: shrink compact_control")
+d39773a0622c ("mm, compaction: add migratetype to compact_control")
+228d7e339030 ("mm, compaction: remove redundant watermark check in compact_finished()")
+f25ba6dccc3b ("mm, compaction: reorder fields in struct compact_control")
+7f354a548d1c ("mm, compaction: add vmstats for kcompactd work")

@@ -1,0 +1,4 @@
+244315b31735 ("iio: pressure: bmp280: Constify struct regmap_bus")
+a9dd9ba32311 ("iio: pressure: Fixes BMP38x and BMP390 SPI support")
+0b0b772637cd ("iio: pressure: bmp280: Use chip_info pointers for each chip as driver data")
+12491d35551d ("iio: pressure: bmp280: convert to i2c's .probe_new()")

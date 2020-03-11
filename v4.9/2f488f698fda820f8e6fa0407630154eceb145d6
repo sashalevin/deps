@@ -1,0 +1,2 @@
+2f488f698fda ("fcntl: fix potential deadlock for &fasync_struct.fa_lock")
+7a107c0f55a3 ("fasync: Fix deadlock between task-context and interrupt-context kill_fasync()")

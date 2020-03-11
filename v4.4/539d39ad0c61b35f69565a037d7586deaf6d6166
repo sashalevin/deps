@@ -1,0 +1,5 @@
+539d39ad0c61 ("net: smsc911x: Fix runtime PM imbalance on error")
+f252974eaa64 ("net: smsc911x: Move interrupt allocation to open/stop")
+aea95dd52db4 ("net: smsc911x: Fix register_netdev, phy startup, driver unload ordering")
+1358bd5a7477 ("net: smsc911x: Remove multiple exit points from smsc911x_open")
+f788e322b730 ("net: ethernet: smsc: smsc911x: use phydev from struct net_device")

@@ -1,0 +1,5 @@
+89976005536c ("include/linux/compat.h: mark expected switch fall-throughs")
+fde9fc766e96 ("signals: Move put_compat_sigset to compat.h to silence hardened usercopy")
+3968cf623892 ("get_compat_sigset()")
+f454322efbf6 ("signal: replace sigset_to_compat() with put_compat_sigset()")
+c856863988eb ("Merge branch 'misc.compat' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

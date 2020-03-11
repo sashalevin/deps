@@ -1,0 +1,6 @@
+3344d318337d ("Bluetooth: hci_conn: fail SCO/ISO via hci_conn_failed if ACL gone early")
+9f78191cc9f1 ("Bluetooth: hci_conn: Always allocate unique handles")
+7f74563e6140 ("Bluetooth: ISO: do not emit new LE Create CIS if previous is pending")
+a0bfde167b50 ("Bluetooth: ISO: Add support for connecting multiple BISes")
+2be22f1941d5 ("Bluetooth: hci_event: Fix parsing of CIS Established Event")
+6b9545dc9f8f ("Bluetooth: ISO: use hci_sync for setting CIG parameters")

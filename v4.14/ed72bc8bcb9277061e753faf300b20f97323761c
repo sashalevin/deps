@@ -1,0 +1,4 @@
+ed72bc8bcb92 ("can: flexcan: handle tx-complete CAN frames via rx-offload infrastructure")
+e05237f9da42 ("can: flexcan: remove not needed struct flexcan_priv::tx_mb and struct flexcan_priv::tx_mb_idx")
+cbffaf7aa09e ("can: flexcan: Always use last mailbox for TX")
+88462d2a7830 ("can: flexcan: Remodel FlexCAN register r/w APIs for big endian FlexCAN controllers.")

@@ -1,0 +1,6 @@
+801f823dc2d5 ("MIPS: c-r4k: Fix size calc when avoiding IPIs for small icache flushes")
+f70ddc07b637 ("MIPS: c-r4k: Avoid small flush_icache_range SMP calls")
+27b93d9c1de7 ("MIPS: c-r4k: Local flush_icache_range cache op override")
+d374d93742f6 ("MIPS: c-r4k: Add r4k_on_each_cpu cache op type arg")
+e523f289fe4d ("MIPS: c-r4k: Fix sigtramp SMP call to use kmap")
+b2a3c5be4d6d ("MIPS: c-r4k: Sync icache when it fills from dcache")

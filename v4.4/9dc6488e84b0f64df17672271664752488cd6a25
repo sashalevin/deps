@@ -1,0 +1,6 @@
+9dc6488e84b0 ("libnvdimm/pmem: fix a possible OOB access when read and write pmem")
+60622d68227d ("x86/asm/memcpy_mcsafe: Return bytes remaining")
+bd131544aa7e ("x86/asm/memcpy_mcsafe: Add labels for __memcpy_mcsafe() write fault handling")
+da7bc9c57eb0 ("x86/asm/memcpy_mcsafe: Remove loop unrolling")
+98cc093cba1e ("block, THP: make block_device_operations.rw_page support THP")
+b6ffe9ba4601 ("Merge tag 'libnvdimm-for-4.13' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

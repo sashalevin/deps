@@ -1,0 +1,6 @@
+47cf88993c91 ("net: unify alloclen calculation for paged requests")
+773ba4fe9104 ("ipv6: avoid partial copy for zc")
+8eb77cc73977 ("ipv4: avoid partial copy for zc")
+6d123b81ac61 ("net: ip: avoid OOM kills with large UDP sends over loopback")
+b5947e5d1e71 ("udp: msg_zerocopy")
+aba36930a35e ("net: always initialize pagedlen")

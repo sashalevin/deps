@@ -1,0 +1,5 @@
+781eef5b34c5 ("mt76: convert from tx tasklet to tx worker thread")
+250944596ca1 ("mt76: mt7915: schedule tx tasklet in mt7915_mac_tx_free")
+0f1c443ca9cf ("mt76: mt7915: optimize mt7915_mac_sta_poll")
+38b04398c532 ("mt76: mt7915: do not do any work in napi poll after calling napi_complete_done()")
+0825af2d3307 ("mt76: mt7615: reschedule runtime-pm receiving a tx interrupt")

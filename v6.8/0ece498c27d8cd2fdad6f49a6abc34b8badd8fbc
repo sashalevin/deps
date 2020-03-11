@@ -1,0 +1,6 @@
+0ece498c27d8 ("Bluetooth: MGMT: Make MGMT_OP_LOAD_CONN_PARAM update existing connection")
+881559af5f5c ("Bluetooth: hci_sync: Attempt to dequeue connection attempt")
+505ea2b29592 ("Bluetooth: hci_sync: Add helper functions to manipulate cmd_sync queue")
+5f641f03abcc ("Bluetooth: hci_conn: Fix UAF Write in __hci_acl_create_connection_sync")
+45340097ce6e ("Bluetooth: hci_conn: Only do ACL connections sequentially")
+968667f2e034 ("Bluetooth: Remove HCI_POWER_OFF_TIMEOUT")

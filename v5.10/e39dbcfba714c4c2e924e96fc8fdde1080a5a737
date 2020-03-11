@@ -1,0 +1,4 @@
+e39dbcfba714 ("dax/bus.c: don't use down_write_killable for non-user processes")
+c05ae9d85b47 ("dax/bus.c: replace driver-core lock usage by a local rwsem")
+70aab281e18c ("dax: Introduce alloc_dev_dax_id()")
+6268d7da4d19 ("device-dax: Fix range release")

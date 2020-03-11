@@ -1,0 +1,6 @@
+1945063eb59e ("gpio: mvebu: Make use of devm_pwmchip_add")
+7ee1a01e4740 ("gpio: mvebu: fix potential user-after-free on probe")
+6c7515c61ffa ("gpio: mvebu: change compatible string for PWM support")
+757642f9a584 ("gpio: mvebu: Add limited PWM support")
+d2cabc4a23f8 ("gpio: mvebu: use BIT macro instead of bit shifting")
+f07708c43b37 ("gpio: mvebu: let the compiler inline")

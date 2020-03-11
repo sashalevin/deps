@@ -1,0 +1,5 @@
+724a08450f74 ("fs/9p: simplify iget to remove unnecessary paths")
+b91a26696ef3 ("fs/9p: rework qid2ino logic")
+2dc92e5975a6 ("fs/9p: Eliminate redundant non-cache path in mknod")
+44c53ac09720 ("fs/9p: convert mkdir to use get_new_inode")
+fe1371d0f8c6 ("fs/9p: switch vfsmount to use v9fs_get_new_inode")

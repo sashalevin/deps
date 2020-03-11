@@ -1,0 +1,7 @@
+f0ac20c3f613 ("ACPI: EC: Fix flushing of pending work")
+016b87ca5c8c ("ACPI: EC: Rework flushing of pending work")
+8195a655e5ce ("ACPI / EC: Use ec_no_wakeup on Thinkpad X1 Carbon 6th")
+98529b9272e0 ("ACPI: EC: Fix regression related to wrong ECDT initialization order")
+880a66275ef4 ("ACPI / PM / EC: Flush all EC work in acpi_freeze_sync()")
+33e4f80ee69b ("ACPI / PM: Ignore spurious SCI wakeups from suspend-to-idle")
+64fd1c704088 ("ACPI / PM: Run wakeup notify handlers synchronously")

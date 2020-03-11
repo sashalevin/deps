@@ -1,0 +1,7 @@
+3b37e2725ab3 ("drm/amdgpu: skip kfd init if GFX is not ready.")
+7b1c6263eaf4 ("drm/amdgpu: don't use pci_is_thunderbolt_attached()")
+fd2198727446 ("drm/amd/pm: revise the ASPM settings for thunderbolt attached scenario")
+00fa40353bf3 ("drm/amdkfd: Check PCIe atomics support on GFX11 to set CP_HQD_HQ_STATUS0[29]")
+d37a3929ca03 ("drm/amdgpu: register a vga_switcheroo client for MacBooks with apple-gmux")
+08a2fd23c6c2 ("drm/amdgpu: Add peer-to-peer support among PCIe connected AMD GPUs")
+3d8785f6c04a ("drm/amdgpu: adding device coredump support")

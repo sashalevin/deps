@@ -1,0 +1,8 @@
+c934edadcc7a ("dm table: allow upgrade from bio-based to specialized bio-based variant")
+22c11858e800 ("dm: introduce DM_TYPE_NVME_BIO_BASED")
+0776aa0e30aa ("dm: ensure bio-based DM's bioset and io_pool support targets' maximum IOs")
+7e0d574f2683 ("dm: introduce enum dm_queue_mode to cleanup related code")
+eb8db831be80 ("dm: always defer request allocation to the owner of the request_queue")
+4bf58435fae3 ("dm: remove incomplete BLOCK_PC support")
+5ea708d15a92 ("block: simplify blk_init_allocated_queue")
+775a2e29c3bb ("Merge tag 'dm-4.10-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

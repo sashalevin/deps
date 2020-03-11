@@ -1,0 +1,6 @@
+a1255ccab8ec ("swiotlb: do not set total_used to 0 in swiotlb_create_debugfs_files()")
+02e765697038 ("swiotlb: add debugfs to track swiotlb transient pool usage")
+79636caad361 ("swiotlb: if swiotlb is full, fall back to a transient memory pool")
+158dbe9c9a3d ("swiotlb: separate memory pool data from other allocator data")
+fea18777a78e ("swiotlb: add documentation and rename swiotlb_do_find_slots()")
+05ee774122bd ("swiotlb: make io_tlb_default_mem local to swiotlb.c")

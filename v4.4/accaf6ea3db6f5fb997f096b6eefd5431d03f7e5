@@ -1,0 +1,7 @@
+accaf6ea3db6 ("stop_machine: Clean up the usage of the preemption counter in cpu_stopper_thread()")
+dd2e3121e3cb ("stop_machine: Shift the 'done != NULL' check from cpu_stop_signal_done() to callers")
+6fa3b826bcb3 ("stop_machine: Kill cpu_stop_done->executed")
+4aff1ca6970a ("stop_machine: Change __stop_cpus() to rely on cpu_stop_queue_work()")
+958c5f848e17 ("stop_machine: Change stop_one_cpu() to rely on cpu_stop_queue_work()")
+6a19005157c4 ("stop_machine: Don't disable preemption in stop_two_cpus()")
+64038f292a1b ("stop_machine: Fix possible cpu_stopper_thread() crash")

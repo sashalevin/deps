@@ -1,0 +1,5 @@
+74753e1462e7 ("libbpf: Replace btf__type_by_id() with btf_type_by_id().")
+b0588390dbce ("libbpf: Split CO-RE logic into relo_core.c.")
+301ba4d71028 ("libbpf: Move CO-RE types into relo_core.h.")
+3ee4f5335511 ("libbpf: Split bpf_core_apply_relo() into bpf_program independent helper.")
+6e43b2860784 ("libbpf: Cleanup the layering between CORE and bpf_program.")

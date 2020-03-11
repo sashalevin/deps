@@ -1,0 +1,5 @@
+23803bacaab4 ("scsi: ufs: core: Remove redundant wmb() in ufshcd_send_command()")
+169f5eb28869 ("scsi: ufs: Optimize SCSI command processing")
+a024ad0d4955 ("scsi: ufs: Optimize serialization of setup_xfer_req() calls")
+1f522c504901 ("scsi: ufs: Revert "Utilize Transfer Request List Completion Notification Register"")
+815b9a27b0a3 ("scsi: ufs: Inline ufshcd_outstanding_req_clear()")

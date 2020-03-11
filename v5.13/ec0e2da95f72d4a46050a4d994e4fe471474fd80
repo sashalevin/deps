@@ -1,0 +1,4 @@
+ec0e2da95f72 ("bpf: Support new signed div/mod instructions.")
+6364d7d75a0e ("bpf, x64: Factor out emission of REX byte in more cases")
+57a610f1c58f ("bpf, x64: Save bytes for DIV by reducing reg copies")
+c0354077439b ("bpf,x64 Emit IMUL instead of MUL for x86-64")

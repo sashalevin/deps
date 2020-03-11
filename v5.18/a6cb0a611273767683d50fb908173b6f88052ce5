@@ -1,0 +1,7 @@
+a6cb0a611273 ("ACPI: scan: Extract MIPI DisCo for Imaging data into swnodes")
+693c667b32ee ("ACPI: scan: Extract _CRS CSI-2 connection information into swnodes")
+bd721b934323 ("ACPI: scan: Extract CSI-2 connection graph from _CRS")
+3ba12d8de3fa ("ACPI: scan: Reduce overhead related to devices with dependencies")
+d6fb6ee1820c ("ACPI: bus: Drop driver member of struct acpi_device")
+e5ed878ddb7c ("ACPI: bus: Drop redundant check in acpi_device_remove()")
+a976a2ac7708 ("ACPI: scan: Walk ACPI device's children using driver core")

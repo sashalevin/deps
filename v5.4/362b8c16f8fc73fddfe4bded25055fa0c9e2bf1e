@@ -1,0 +1,8 @@
+362b8c16f8fc ("blk-cgroup: factor out blkcg_iostat_update()")
+c3df5fb57fe8 ("cgroup: rstat: fix A-A deadlock on 32bit around u64_stats_sync")
+dc26532aed0a ("cgroup: rstat: punt root-level optimization to individual controllers")
+ef45fe470e1e ("blk-cgroup: show global disk stats in root cgroup io.stat")
+cd1fc4b98fb5 ("blk-cgroup: make iostat functions visible to stat printing")
+d8ef4b38cb69 ("Revert "cgroup: Add memory barriers to plug cgroup_rstat_updated() race window"")
+75ea91cd3eab ("cgroup: fix function name in comment")
+1b96a41b4209 ("Merge branch 'for-5.5' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

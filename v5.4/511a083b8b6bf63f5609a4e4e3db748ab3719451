@@ -1,0 +1,4 @@
+511a083b8b6b ("scsi: ufs: Remove hba->cmd_queue")
+69a6c269c097 ("scsi: ufs: Use blk_{get,put}_request() to allocate and free TMFs")
+7252a3603015 ("scsi: ufs: Avoid busy-waiting by eliminating tag conflicts")
+9333d7757348 ("scsi: ufs: Fix irq return code")

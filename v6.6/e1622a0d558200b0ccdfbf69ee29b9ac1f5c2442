@@ -1,0 +1,4 @@
+e1622a0d5582 ("ext4: convert ext4_mb_init_cache() to take a folio")
+5eea586b47f0 ("ext4: convert bd_buddy_page to bd_buddy_folio")
+99b150d84e49 ("ext4: convert bd_bitmap_page to bd_bitmap_folio")
+f2fec3e99a32 ("ext4: delete redundant calculations in ext4_mb_get_buddy_page_lock()")

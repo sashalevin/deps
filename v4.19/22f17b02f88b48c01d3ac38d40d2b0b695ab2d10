@@ -1,0 +1,5 @@
+22f17b02f88b ("powerpc/Makefile: Default to ppc64le_defconfig when cross building")
+af5cd05de5dd ("powerpc: Fix defconfig choice logic when cross compiling")
+ebd1d3b74f85 ("powerpc/32: Move the old 6xx -mcpu logic before the TARGET_CPU logic")
+d7cceda96bad ("powerpc: change CONFIG_6xx to CONFIG_PPC_BOOK3S_32")
+2a056f58fd33 ("powerpc: consolidate -mno-sched-epilog into FTRACE flags")

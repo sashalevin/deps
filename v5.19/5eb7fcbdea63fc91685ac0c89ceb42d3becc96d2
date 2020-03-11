@@ -1,0 +1,5 @@
+5eb7fcbdea63 ("KVM: x86/pmu: Always treat Fixed counters as available when supported")
+bc9658999b3e ("KVM: x86/pmu: Simplify intel_hw_event_available()")
+0033fa354916 ("KVM: x86/pmu: Use enums instead of hardcoded magic for arch event indices")
+2a3003e9507c ("KVM: x86/pmu: Drop event_type and rename "struct kvm_event_hw_type_mapping"")
+7aadaa988c5e ("KVM: x86/pmu: Drop amd_event_mapping[] in the KVM context")

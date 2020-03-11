@@ -1,0 +1,4 @@
+0b303fb40286 ("mm, slub: do initial checks in ___slab_alloc() with irqs enabled")
+e500059ba552 ("mm, slub: move disabling/enabling irqs to ___slab_alloc()")
+53a0de06e50a ("mm, slub: dissolve new_slab_objects() into ___slab_alloc()")
+2a904905ae04 ("mm, slub: extract get_partial() from new_slab_objects()")

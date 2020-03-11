@@ -1,0 +1,5 @@
+7c0223e1ddd7 ("perf env: Track kernel 64-bit mode in environment")
+ef0580ecd8b0 ("perf env: Conditionally compile BPF support code on having HAVE_LIBBPF_SUPPORT")
+9d88a1a170ed ("perf tools: Move clockid_res_ns under clock struct")
+d1e325cf40fe ("perf header: Store clock references for -k/--clockid option")
+789e24199810 ("perf tools: Add support for PERF_RECORD_KSYMBOL_TYPE_OOL")

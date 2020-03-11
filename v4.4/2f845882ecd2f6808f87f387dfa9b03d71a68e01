@@ -1,0 +1,7 @@
+2f845882ecd2 ("integrity: Add errno field in audit message")
+2afd020aaeee ("ima: Do not audit if CONFIG_INTEGRITY_AUDIT is not set")
+3dd0c8d06511 ("ima: provide ">" and "<" operators for fowner/uid/euid rules.")
+0260643ce804 ("ima: add policy support for extending different pcrs")
+80eae209d63a ("IMA: allow reading back the current IMA policy")
+38d859f991f3 ("IMA: policy can now be updated multiple times")
+f4dc37785e9b ("integrity: define '.evm' as a builtin 'trusted' keyring")

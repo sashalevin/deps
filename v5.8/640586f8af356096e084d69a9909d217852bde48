@@ -1,0 +1,4 @@
+640586f8af35 ("powerpc/ptrace: Simplify gpr_get()/tm_cgpr_get()")
+47e12855a91d ("powerpc: switch to ->regset_get()")
+7717cb9bdd04 ("regset: new method and helpers for it")
+b4e9c9549f62 ("introduction of regset ->get() wrappers, switching ELF coredumps to those")

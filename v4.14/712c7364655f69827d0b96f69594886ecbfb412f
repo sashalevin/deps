@@ -1,0 +1,5 @@
+712c7364655f ("block: don't plug in blkdev_write_iter")
+138c1a38113d ("block: use new bdev_nr_bytes() helper for blkdev_{read,write}_iter()")
+fac7c6d529ac ("block: cache bdev in struct file for raw bdev IO")
+cd82cca7ebfe ("block: split out operations on block special files")
+3b629f8d6dc0 ("Merge tag 'io_uring-bio-cache.5-2021-08-30' of git://git.kernel.dk/linux-block")

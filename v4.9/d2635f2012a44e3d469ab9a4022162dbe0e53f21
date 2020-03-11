@@ -1,0 +1,6 @@
+d2635f2012a4 ("mm: create a new system state and fix core_kernel_text()")
+82d083ab60c3 ("kprobes: tracing/kprobes: Fix to kill kprobes on initmem after boot")
+69a78ff226fe ("init: Introduce SYSTEM_SCHEDULING state")
+0594729c24d8 ("extable: Adjust system_state checks")
+b80f0f6c9ed3 ("ftrace: Have init/main.c call ftrace directly to free init memory")
+42c269c88dc1 ("ftrace: Allow for function tracing to record init functions on boot up")

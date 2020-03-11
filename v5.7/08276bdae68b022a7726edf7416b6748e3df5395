@@ -1,0 +1,6 @@
+08276bdae68b ("vfs, fscache: Implement pinning of cache usage for writeback")
+b6e16652d6c0 ("fscache: Implement higher-level write I/O interface")
+26aaeffcafe6 ("fscache, cachefiles: Add alternate API to use kiocb for read/write to cache")
+b533a83f2bf9 ("netfs, mm: Move PG_fscache helper funcs to linux/netfs.h")
+5afced3bf281 ("writeback: Avoid skipping inode writeback")
+dae2f8ed7992 ("fs: Lift XFS_IDONTCACHE to the VFS layer")

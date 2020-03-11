@@ -1,0 +1,7 @@
+60400677e128 ("x86/entry/32: Provide macro to emit IDT entry stubs")
+5e63306f1629 ("x86/asm/32: Change all ENTRY+END to SYM_CODE_*")
+b8f70953c125 ("x86/entry/32: Pass cr2 to do_async_page_fault()")
+a0d14b8909de ("x86/mm, tracing: Fix CR2 corruption")
+4234653e8827 ("x86/entry/64: Update comments and sanity tests for create_gap")
+2fd37912cfb0 ("x86/entry/64: Simplify idtentry a little")
+0902d5011cfa ("Merge branch 'x86-apic-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

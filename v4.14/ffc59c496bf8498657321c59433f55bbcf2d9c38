@@ -1,0 +1,7 @@
+ffc59c496bf8 ("i2c: recovery: require either get_sda or set_sda")
+abe41184abac ("i2c: recovery: if possible send STOP with recovery pulses")
+8092178ffe67 ("i2c: add 'set_sda' to bus_recovery_info")
+6c92204e4466 ("i2c: add identifier in declarations for i2c_bus_recovery")
+766a4f27f328 ("i2c: make kerneldoc about bus recovery more precise")
+e1eb7d28c075 ("i2c: remove legacy integer scl/sda gpio for recovery")
+3991c5c80bea ("i2c: Switch to using gpiod interface for gpio bus recovery")

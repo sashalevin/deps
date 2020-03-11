@@ -1,0 +1,3 @@
+e9a40e1585d7 ("fortify: Do not cast to "unsigned char"")
+311fb40aa056 ("fortify: Use SIZE_MAX instead of (size_t)-1")
+d07c0acb4f41 ("fortify: Fix __compiletime_strlen() under UBSAN_BOUNDS_LOCAL")

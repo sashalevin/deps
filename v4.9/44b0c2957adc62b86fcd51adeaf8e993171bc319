@@ -1,0 +1,8 @@
+44b0c2957adc ("u64_stats: Streamline the implementation")
+3c118547f87e ("u64_stats: Disable preemption on 32bit UP+SMP PREEMPT_RT during updates.")
+d5b0e0677bfd ("u64_stats,lockdep: Fix u64_stats_init() vs lockdep")
+6501bf87602f ("u64_stats: Document writer non-preemptibility requirement")
+316580b69d0a ("u64_stats: provide u64_stats_t type")
+2695578b896a ("net: usbnet: fix potential deadlock on 32bit hosts")
+c8b5d129ee29 ("net: usbnet: support 64bit stats")
+f77f0aee4da4 ("net: use core MTU range checking in USB NIC drivers")

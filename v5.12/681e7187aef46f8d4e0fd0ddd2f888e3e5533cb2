@@ -1,0 +1,8 @@
+681e7187aef4 ("ACPI: scan: Simplify initialization of power and sleep buttons")
+b6c55b162bce ("ACPI: scan: Change acpi_scan_init() return value type to void")
+6d27975851b1 ("ACPI: scan: Rearrange dep_unmet initialization")
+4cbaba4e3e4a ("ACPI: bus: Introduce acpi_dev_get() and reuse it in ACPI code")
+f5d9ab1d8034 ("ACPI: scan: Drop sta argument from acpi_init_device_object()")
+f926e9433815 ("ACPI: scan: Drop sta argument from acpi_add_single_object()")
+02056a4f9209 ("ACPI: scan: Rearrange checks in acpi_bus_check_add()")
+e6c1067dc1be ("ACPI: scan: Fold acpi_bus_type_and_status() into its caller")

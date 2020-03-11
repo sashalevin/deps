@@ -1,0 +1,6 @@
+3e83d467a08e ("s390/qeth: schedule TX NAPI on QAOB completion")
+75cf3854dcdf ("s390/qeth: remove QETH_QDIO_BUF_HANDLED_DELAYED state")
+db4ffdcef7c9 ("s390/qeth: don't replace a fully completed async TX buffer")
+8908f36d20d8 ("s390/qeth: fix af_iucv notification race")
+7c94a8829500 ("s390/qeth: integrate RX refill worker with NAPI")
+eff73e16ee11 ("s390/qeth: tolerate pre-filled RX buffer")

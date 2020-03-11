@@ -1,0 +1,8 @@
+41dac81b56c8 ("ASoC: cs42l42: Ensure a reset pulse meets minimum pulse width.")
+2feab7e7d8c0 ("ASoC: cs42l42: Use cs42l42->dev instead of &i2c_client->dev")
+28a3fb26e83e ("ASoC: cs42l42: Switch to use dev_err_probe() helper")
+a10148a8cf56 ("ASoC: cs42l42: free_irq() before powering-down on probe() fail")
+6cb725b8a5cc ("ASoC: cs42l42: Reset and power-down on remove() and failed probe()")
+c778c01d3e66 ("ASoC: cs42l42: Remove unused runtime_suspend/runtime_resume callbacks")
+4c8d49bc476c ("ASoC: cs42l42: Fix WARN in remove() if running without an interrupt")
+0306988789d9 ("ASoC: cs42l42: Defer probe if request_threaded_irq() returns EPROBE_DEFER")

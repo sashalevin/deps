@@ -1,0 +1,5 @@
+39d371b7c0c2 ("sched: Provide raw_spin_rq_*lock*() helpers")
+58877d347b58 ("sched: Better document ttwu()")
+dbfb089d360b ("sched: Fix loadavg accounting race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

@@ -1,0 +1,8 @@
+649839d7cf97 ("drm: add lockdep assert to drm_is_current_master_locked")
+28be2405fb75 ("drm: use the lookup lock in drm_is_current_master")
+56f0729a510f ("drm: protect drm_master pointers in drm_lease.c")
+1f7ef07cfa14 ("drm: add a locked version of drm_is_current_master")
+264ddd077c72 ("drm/auth: make drm_{set,drop}master_ioctl symmetrical")
+45bc3d26c95a ("drm: rework SET_MASTER and DROP_MASTER perm handling")
+75426367cd37 ("drm/ioctl: Ditch DRM_UNLOCKED except for the legacy vblank ioctl")
+5a6792865164 ("Merge tag 'drm-misc-next-fixes-2019-04-24' of git://anongit.freedesktop.org/drm/drm-misc into drm-next")

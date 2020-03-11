@@ -1,0 +1,7 @@
+0e5c9a9d6548 ("KVM: arm64: Expose SMC/HVC width to userspace")
+d824dff1919b ("KVM: arm64: Add support for KVM_EXIT_HYPERCALL")
+a8308b3fc949 ("KVM: arm64: Refactor hvc filtering to support different actions")
+c2d2e9b3d8ce ("KVM: arm64: Start handling SMCs from EL1")
+aac94968126b ("KVM: arm64: Rename SMC/HVC call handler to reflect reality")
+bd36b1a9eb5a ("KVM: arm64: nv: Handle SMCs taken from virtual EL2")
+93c33702cd2b ("KVM: arm64: nv: Inject HVC exceptions to the virtual EL2")

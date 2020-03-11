@@ -1,0 +1,7 @@
+fe8c1b18a27d ("Drivers: hv: vmbus: Copy the hv_message in vmbus_on_msg_dpc()")
+9c400d3548c3 ("Drivers: hv: vmbus: Reduce number of references to message in vmbus_on_msg_dpc()")
+52c7803f9bd4 ("Drivers: hv: check VMBus messages lengths")
+b0a284dc65b4 ("Drivers: hv: make sure that 'struct vmbus_channel_message_header' compiles correctly")
+a276463b7aeb ("Drivers: hv: allocate the exact needed memory for messages")
+ac0f7d425841 ("Drivers: hv: copy from message page only what's needed")
+ddc9d357b991 ("Drivers: hv: vmbus: Ignore CHANNELMSG_TL_CONNECT_RESULT(23)")

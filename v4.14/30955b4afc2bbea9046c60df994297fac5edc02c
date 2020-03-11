@@ -1,0 +1,7 @@
+30955b4afc2b ("ARM: davinci: fix davinci_cpufreq_init() declaration")
+40b46b3b2f09 ("cpufreq: davinci: move configuration to include/linux/platform_data")
+4d7ee968edea ("ARM: davinci: remove CONFIG_DAVINCI_RESET_CLOCKS")
+482db8893ee4 ("ARM: davinci: da850: add new clock init using common clock framework")
+a7da5277cdc6 ("ARM: davinci: pass clock as parameter to davinci_timer_init()")
+96c081735d51 ("ARM: davinci: move davinci_clk_init() to init_time")
+bdec5a6b5789 ("ARM: da8xx: use platform data for CFGCHIP syscon regmap")

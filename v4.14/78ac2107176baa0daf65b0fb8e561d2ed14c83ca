@@ -1,0 +1,7 @@
+78ac2107176b ("bcache: do not check return value of debugfs_create_dir()")
+16c1fdf4cfd6 ("bcache: do not assign in if condition in bcache_init()")
+1c1a2ee1b53b ("bcache: return 0 from bch_debug_init() if CONFIG_DEBUG_FS=n")
+df2b94313ae5 ("bcache: move closure debug file into debug directory")
+539d39eb2708 ("bcache: fix wrong return value in bch_debug_init()")
+25d8be77e192 ("block: move bio_alloc_pages() to bcache")
+330a4db89d39 ("bcache: explicitly destroy mutex while exiting")

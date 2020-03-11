@@ -1,0 +1,8 @@
+524984ff66ee ("mm: convert find_get_incore_page() to filemap_get_incore_folio()")
+dd8095b15a60 ("mm/swap: convert find_get_incore_page to use folios")
+cb691e2f28bc ("mm: remove lookup_swap_cache()")
+c9edc242811d ("swap: add swap_cache_get_folio()")
+1baec203b77c ("mm/khugepaged: try to free transhuge swapcache when possible")
+442701e7058b ("mm/swap: remove swap_cache_info statistics")
+ba6851b45d2d ("mm: filter out swapin error entry in shmem mapping")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")

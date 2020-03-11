@@ -1,0 +1,5 @@
+a4b81ccfd4ca ("efi/x86: Fix the deletion of variables in mixed mode")
+8319e9d5ad98 ("efi/x86: Handle by-ref arguments covering multiple pages in mixed mode")
+83a0a2ea0b99 ("efi/x86: Prevent reentrant firmware calls in mixed mode")
+f6697df36bdf ("x86/efi: Prevent mixed mode boot corruption with CONFIG_VMAP_STACK=y")
+21f866257c70 ("x86/efi: Update efi_thunk() to use the the arch_efi_call_virt*() macros")

@@ -1,0 +1,7 @@
+27e21e8f128a ("powerpc/32: Remove _ENTRY() macro")
+12318163737c ("powerpc/32: Remove remaining .stabs annotations")
+0fc1e93481f6 ("powerpc/40x: Prepare for enabling MMU in critical exception prolog")
+26c468860c32 ("powerpc/40x: Reorder a few instructions in critical exception prolog")
+fcd4b43c36c6 ("powerpc/40x: Save SRR0/SRR1 and r10/r11 earlier in critical exception")
+9d3c18a11a93 ("powerpc/40x: Change CRITICAL_EXCEPTION_PROLOG macro to a gas macro")
+533090e5a980 ("powerpc/32s: Rename head_32.S to head_book3s_32.S")

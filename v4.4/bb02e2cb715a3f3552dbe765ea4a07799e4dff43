@@ -1,0 +1,6 @@
+bb02e2cb715a ("x86/cpu: Print "VMX disabled" error message iff KVM is enabled")
+ef4d3bf19855 ("x86/cpu: Clear VMX feature flag if VMX is not fully enabled")
+1db2a6e1e29f ("x86/intel: Initialize IA32_FEAT_CTL MSR at boot")
+286836a70433 ("x86/cpu: Add a helper function x86_read_arch_cap_msr()")
+be1fcde604e4 ("x86: intel_epb: Do not build when CONFIG_PM is unset")
+fa4bff165070 ("Merge branch 'x86-mds-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

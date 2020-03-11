@@ -1,0 +1,7 @@
+074d6f32689c ("PCI: mediatek: Fix mtk_pcie_find_port() endpoint/port matching logic")
+b099631df160 ("PCI: mediatek: Add controller support for MT2712 and MT7622")
+c681c93067b8 ("PCI: mediatek: Add a structure to abstract the controller generations")
+4f6f0460448d ("PCI: mediatek: Rename port->index and mtk_pcie_parse_ports()")
+e10b7a184ccf ("PCI: mediatek: Use readl_poll_timeout() to wait for Gen2 training")
+608fcac7ce31 ("PCI: mediatek: Explicitly request exclusive reset control")
+637cfacae96f ("PCI: mediatek: Add MediaTek PCIe host controller support")

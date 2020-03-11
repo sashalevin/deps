@@ -1,0 +1,4 @@
+160210cea035 ("fs/direct-io: Remove linux/prefetch.h include")
+41b21af388f9 ("direct-io: defer alignment check until after the EOF check")
+0a9164cb7ff3 ("direct-io: don't force writeback for reads beyond EOF")
+46d716025a22 ("direct-io: clean up error paths of do_blockdev_direct_IO")

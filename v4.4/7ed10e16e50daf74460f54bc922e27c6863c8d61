@@ -1,0 +1,5 @@
+7ed10e16e50d ("s390/qeth: fix tear down of async TX buffers")
+f67a43a73b54 ("s390/qeth: remove unused buffer->aob pointer")
+ce28867fd20c ("s390/qeth: don't clobber buffer on async TX completion")
+2863c61334aa ("qeth: refactor calculation of SBALE count")
+577777359e1f ("qeth: repair SBAL elements calculation")

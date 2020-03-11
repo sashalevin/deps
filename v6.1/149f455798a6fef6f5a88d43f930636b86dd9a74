@@ -1,0 +1,7 @@
+149f455798a6 ("smb: move cifs_xattr_handlers to .rodata")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+c39c07fce784 ("cifs: use stub posix acl handlers")
+dc1af4c4b472 ("cifs: implement set acl method")
+bd9684b042dc ("cifs: implement get acl method")

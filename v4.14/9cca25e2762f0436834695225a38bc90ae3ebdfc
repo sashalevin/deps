@@ -1,0 +1,8 @@
+9cca25e2762f ("tty: remove IBSHIFT ifdefs")
+69648d7bda86 ("tty: remove BOTHER ifdefs")
+4545b069aa2c ("tty: baudrate: Explicit usage of B0 for encoding input baudrate")
+ad48749b98c7 ("tty: tty_baudrate: Fix coding style issues of block comments")
+991a25194097 ("termios, tty/tty_baudrate.c: fix buffer overrun")
+fefe287e4bf6 ("tty: support CIBAUD without BOTHER")
+1cee38f0363a ("tty: fix termios input-speed encoding when using BOTHER")
+fada18c48d77 ("tty: fix termios input-speed encoding")

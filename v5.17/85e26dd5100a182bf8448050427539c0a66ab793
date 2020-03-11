@@ -1,0 +1,3 @@
+85e26dd5100a ("drm/client: fix circular reference counting issue")
+444bbba708e8 ("drm/client: Prevent NULL dereference in drm_client_buffer_delete()")
+27b2ae654370 ("drm/client: Switch drm_client_buffer_delete() to unlocked drm_gem_vunmap")

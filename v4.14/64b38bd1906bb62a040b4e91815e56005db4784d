@@ -1,0 +1,7 @@
+64b38bd1906b ("x86/kvm: do not setup pv tlb flush when not paravirtualized")
+4f2f61fc5071 ("KVM: X86: Avoid traversing all the cpus for pv tlb flush when steal time is disabled")
+858a43aae236 ("KVM: X86: use paravirtualized TLB Shootdown")
+fa55eedd6328 ("KVM: X86: Add KVM_VCPU_PREEMPTED")
+f3614646005a ("x86/virt, x86/platform: Add ->guest_late_init() callback to hypervisor_x86 structure")
+03b2a320b19f ("x86/virt: Add enum for hypervisors to replace x86_hyper")
+f72e38e8ec88 ("x86/virt, x86/platform: Merge 'struct x86_hyper' into 'struct x86_platform' and 'struct x86_init'")

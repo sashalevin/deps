@@ -1,0 +1,3 @@
+2833eda0e296 ("KVM: x86/mmu: Rename __kvm_zap_rmaps() to align with other nomenclature")
+21fa324654e4 ("KVM: x86/mmu: Extract zapping of rmaps for gfn range to separate helper")
+e8be2a5ba86c ("KVM: x86/mmu: Drop a redundant remote TLB flush in kvm_zap_gfn_range()")

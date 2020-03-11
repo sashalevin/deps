@@ -1,0 +1,6 @@
+8e98b87f515d ("iio: imu: adis: ensure proper DMA alignment")
+c39010ea6ba1 ("iio: adis: stylistic changes")
+31fa357ac809 ("iio: adis: handle devices that cannot unmask the drdy pin")
+b600bd7eb333 ("iio: adis: do not disabe IRQs in 'adis_init()'")
+7e77ef8b8d60 ("iio: adis: set GPIO reset pin direction")
+30f6a542b7d3 ("iio:imu:adis: Use IRQF_NO_AUTOEN instead of irq request then disable")

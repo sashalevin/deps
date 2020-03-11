@@ -1,0 +1,7 @@
+749b94b08005 ("riscv: Fix module_alloc() that did not reset the linear mapping permissions")
+5387054b986e ("riscv: module: Create module allocations without exec permissions")
+2bfc6cd81bd1 ("riscv: Move kernel mapping outside of linear mapping")
+0f02de4481da ("riscv: Get rid of MAX_EARLY_MAPPING_SIZE")
+cc937cad14fb ("riscv: Remove unnecessary declaration")
+f105aa940e78 ("riscv: add BUILTIN_DTB support for MMU-enabled targets")
+d5805af9fe9f ("riscv: Fix builtin DTB handling")

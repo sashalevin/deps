@@ -1,0 +1,8 @@
+af90d7b69c69 ("s390/cpum_sf: remove flag PERF_CPUM_SF_FULL_BLOCKS")
+2cb549a821e9 ("s390/cpum_sf: Support ioctl PERF_EVENT_IOC_PERIOD")
+03e9e42f7981 ("s390/cpum_sf: Fix line length and format string")
+4bbaf2584b86 ("s390/cpum_sf: ensure sample frequency of perf event attributes is non-zero")
+544e8dd7a8e4 ("s390/cpum_sf: correctly set the PID and TID in perf samples")
+3d43b981eb84 ("s390/cpumf: remove raw event support in basic-only sampling mode")
+cbf6948f36af ("s390/cpumf: enable using AUX buffer")
+ca5955cdeae7 ("s390/cpumf: introduce AUX buffer for dump diagnostic sample data")

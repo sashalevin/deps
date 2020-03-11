@@ -1,0 +1,7 @@
+89395ccedbc1 ("iommu: Add device-centric DMA ownership interfaces")
+136467962e49 ("iommu: Add IOMMU SVA domain support")
+16603704559c ("iommu: Add attach/detach_dev_pasid iommu interfaces")
+2380f1e8195e ("iommu: Fix false ownership failure on AMD systems with PASID activated")
+0286300e6045 ("iommu: iommu_group_claim_dma_owner() must always assign a domain")
+a5f1bd1afacd ("iommu: Remove iommu group changes notifier")
+1ea2a07a532b ("iommu: Add DMA ownership management interfaces")

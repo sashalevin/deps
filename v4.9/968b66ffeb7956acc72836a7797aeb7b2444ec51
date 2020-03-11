@@ -1,0 +1,8 @@
+968b66ffeb79 ("hwmon (it87): Fix voltage scaling for chips with 10.9mV  ADCs")
+4119693bd260 ("hwmon: (it87) Allow disabling exiting of configuration mode")
+a1bedbcc1cf7 ("hwmon: (it87) Add DMI table for future extensions")
+384548e569c8 ("hwmon: (it87) Reapply probe path chip registers settings after resume")
+557cbf49d20f ("hwmon: (it87) Split out chip registers setting code on probe path")
+638c1c07f99b ("hwmon: (it87) Improve IT8622 support")
+8af1abae7275 ("hwmon: (it87) Add support for IT8622E")
+a9eebd4f28ae ("hwmon: (it87) Add feature flag indicating that VIN3 is connected to 5V")

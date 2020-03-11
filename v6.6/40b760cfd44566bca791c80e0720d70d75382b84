@@ -1,0 +1,7 @@
+40b760cfd445 ("mm/numa: no task_numa_fault() call if PTE is changed")
+d2136d749d76 ("mm: support multi-size THP numa balancing")
+6b0ed7b3c775 ("mm: factor out the numa mapping rebuilding into a new helper")
+ec1778807a80 ("mm: mprotect: use a folio in change_pte_range()")
+6695cf68b15c ("mm: memory: use a folio in do_numa_page()")
+73eab3ca481e ("mm: migrate: convert migrate_misplaced_page() to migrate_misplaced_folio()")
+2ac9e99f3b21 ("mm: migrate: convert numamigrate_isolate_page() to numamigrate_isolate_folio()")

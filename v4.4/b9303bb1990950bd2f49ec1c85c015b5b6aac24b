@@ -1,0 +1,6 @@
+b9303bb19909 ("x86/PCI: Define to_pci_sysdata() even when !CONFIG_PCI")
+aad6aa0cd674 ("x86/PCI: Add to_pci_sysdata() helper")
+3161832d58c7 ("x86/PCI: VMD: Request userspace control of PCIe hotplug indicators")
+92016ba5c1d7 ("PCI: Add fwnode_handle to x86 pci_sysdata")
+185a383ada2e ("x86/PCI: Add driver for Intel Volume Management Device (VMD)")
+d9c3d6ff227c ("x86/PCI: Allow DMA ops specific to a PCI domain")

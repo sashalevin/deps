@@ -1,0 +1,7 @@
+d67ea690ce09 ("block: introduce bdev_zone_no helper")
+8cafdb5ab94c ("block: adapt blk_mq_plug() to not plug for writes that require a zone lock")
+b623e347323f ("block: replace blkdev_nr_zones with bdev_nr_zones")
+6deacb3bfac2 ("block: simplify blk_mq_plug")
+edd1dbc83b1d ("block: use bdev_is_zoned instead of open coding it")
+dddf30564054 ("dm: fix zoned locking imbalance due to needless check in clone_endio")
+7e284070abe5 ("Merge tag 'for-5.19/dm-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

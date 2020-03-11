@@ -1,1 +1,4 @@
 346e91ee090b ("mips/mmiowb: Add unconditional mmiowb() to arch_spin_unlock()")
+4ae0452bddca ("MIPS: Define MMIO ordering barriers")
+e966d3084596 ("MIPS: Remove SLOW_DOWN_IO")
+b962aeb02205 ("MIPS: Use GENERIC_IOMAP")

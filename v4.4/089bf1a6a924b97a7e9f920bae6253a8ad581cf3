@@ -1,0 +1,7 @@
+089bf1a6a924 ("libnl: add more helpers to align attributes on 64-bit")
+e6f268ef3687 ("net: nla_align_64bit() needs to test the right pointer.")
+cca1d81574d2 ("net: fix HAVE_EFFICIENT_UNALIGNED_ACCESS typos")
+35c5845957c7 ("net: Add helpers for 64-bit aligning netlink attributes.")
+18402843bf88 ("net: Align IFLA_STATS64 attributes properly on architectures that need it.")
+550bce59baf3 ("rtnetlink: rtnl_fill_stats: avoid an unnecssary stats copy")
+c70ce028e834 ("net/rtnetlink: add IFLA_GSO_MAX_SEGS and IFLA_GSO_MAX_SIZE attributes")

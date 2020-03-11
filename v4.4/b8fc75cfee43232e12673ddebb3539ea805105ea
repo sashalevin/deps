@@ -1,0 +1,6 @@
+b8fc75cfee43 ("drm/radeon: Provide page_flip_target hook")
+890938b59d23 ("drm/radeon: use crtc directly in drm_crtc_vblank_put()")
+a782bca5e52e ("drm/radeon: use drm_crtc_vblank_{get,put}()")
+1e1490a38504 ("drm/radeon: Fix error handling in radeon_flip_work_func.")
+2b8341b3f917 ("drm/radeon: Don't hang in radeon_flip_work_func on disabled crtc. (v2)")
+e0b34e385700 ("drm/radeon/pm: Handle failure of drm_vblank_get.")

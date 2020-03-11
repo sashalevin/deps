@@ -1,0 +1,6 @@
+3e9346734661 ("KVM: SVM: Fix build error when using -Werror=unused-but-set-variable")
+916e3e5f26ab ("KVM: SVM: Do not use user return MSR support for virtualized TSC_AUX")
+0caa0a77c2f6 ("KVM: SVM: Probe and load MSR_TSC_AUX regardless of RDTSCP support in host")
+844d69c26d83 ("KVM: SVM: Delay restoration of host MSR_TSC_AUX until return to userspace")
+dbd6127375aa ("KVM: SVM: Clear MSR_TSC_AUX[63:32] on write")
+47903dc10e7e ("KVM: SVM: Define actual size of IOPM and MSRPM tables")

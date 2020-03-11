@@ -1,0 +1,5 @@
+5727dcfd8486 ("fbdev: Make registered_fb[] private to fbmem.c")
+cf4a3ae4ef33 ("fbdev: lock_fb_info cannot fail")
+97b67986f145 ("fbcon: call fbcon_fb_(un)registered directly")
+890d14d2d4b5 ("fbdev: fbmem: convert CONFIG_FB_LOGO_CENTER into a cmd line option")
+3d8b1933eb1c ("fbdev: fbmem: add config option to center the bootup logo")

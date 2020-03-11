@@ -1,0 +1,5 @@
+29f697533247 ("nvme: implement support for relaxed effects")
+cc115cbe12d9 ("nvme: always initialize known command effects")
+85eee6341abb ("nvme: fix passthrough csi check")
+831ed60c2aca ("nvme: also return I/O command effects from nvme_command_effects")
+685e6311637e ("nvme: fix the NVME_CMD_EFFECTS_CSE_MASK definition")

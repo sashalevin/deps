@@ -1,0 +1,4 @@
+695ef796467e ("jump_label: Clarify condition in static_key_fast_inc_not_disabled()")
+83ab38ef0a0b ("jump_label: Fix concurrency issues in static_key_slow_dec()")
+eb8c507296f6 ("jump_label: Prevent key->enabled int overflow")
+d0c006402e79 ("jump_label: Use atomic_try_cmpxchg() in static_key_slow_inc_cpuslocked()")

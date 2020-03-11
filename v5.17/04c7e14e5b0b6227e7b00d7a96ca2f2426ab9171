@@ -1,0 +1,7 @@
+04c7e14e5b0b ("ice: do not bring the VSI up, if it was down before the XDP setup")
+469748429ac8 ("ice: allow hot-swapping XDP programs")
+60bc72b3c4e9 ("ice: Use ice_max_xdp_frame_size() in ice_xdp_setup_prog()")
+c61bcebde72d ("ice: Prepare legacy-rx for upcoming XDP multi-buffer support")
+7e753eb675f0 ("ice: Fix DMA mappings leak")
+126cdfe1007a ("ice: xsk: Improve AF_XDP ZC Tx and use batching API")
+3dd411efe1ed ("ice: Make Tx threshold dependent on ring length")

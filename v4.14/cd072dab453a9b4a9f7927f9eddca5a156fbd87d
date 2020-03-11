@@ -1,0 +1,5 @@
+cd072dab453a ("x86/fault: Add a helper function to sanitize error code")
+e49d3cbef017 ("x86/fault: Make error_code sanitization more robust")
+3ae0ad92f53e ("x86/mm/vsyscall: Consider vsyscall page part of user address space")
+02e983b760c0 ("x86/mm: Add vsyscall address helper")
+1067f030994c ("x86/mm: Relocate page fault error codes to traps.h")

@@ -1,0 +1,6 @@
+7717cb9bdd04 ("regset: new method and helpers for it")
+b4e9c9549f62 ("introduction of regset ->get() wrappers, switching ELF coredumps to those")
+1d605416fb71 ("fs/binfmt_elf.c: allocate initialized memory in fill_thread_core_info()")
+2f819db565e8 ("binfmt_elf: Respect error return from `regset->active'")
+27e64b4be4b8 ("regset: Add support for dynamically sized regsets")
+14986a34e128 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/ebiederm/user-namespace")

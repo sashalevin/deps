@@ -1,0 +1,6 @@
+b6f084ca5538 ("KVM: VMX: Add ENCLS[EINIT] handler to support SGX Launch Control (LC)")
+70210c044b4e ("KVM: VMX: Add SGX ENCLS[ECREATE] handler to enforce CPUID restrictions")
+9798adbc04cf ("KVM: VMX: Frame in ENCLS handler for SGX virtualization")
+6fcd9cbc6a90 ("kvm: x86: annotate RCU pointers")
+fe6b6bc802b4 ("KVM: VMX: Enable bus lock VM exit")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")

@@ -1,0 +1,4 @@
+79e68821582d ("ath10k: go back to using dma_alloc_coherent() for firmware scratch memory")
+d4166b8b3365 ("ath10k: free host-mem with DMA_BIRECTIONAL flag")
+43ca92d380a8 ("ath10k: wmi-alloc-chunk should use DMA_BIDIRECTIONAL")
+b057886524be ("ath10k: do not use coherent memory for allocated device memory chunks")

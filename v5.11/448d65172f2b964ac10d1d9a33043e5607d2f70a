@@ -1,0 +1,5 @@
+448d65172f2b ("serial: 8250_fsl: Use port lock wrappers")
+6e01f9a594ee ("serial: 8250_fsl: fix handle_irq locking")
+853a9ae29e97 ("serial: 8250: fix handle_irq locking")
+9a33fbf9d230 ("tty: make tty_buffer_space_avail return uint")
+75f4e830fa9c ("serial: do not restore interrupt state in sysrq helper")

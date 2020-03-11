@@ -1,0 +1,6 @@
+76cd979f4f38 ("io_uring: imply MSG_NOSIGNAL for send[msg]()/recv[msg]() calls")
+7a7cacba8b45 ("io_uring: indent left {send,recv}[msg]()")
+2ae523ed07f1 ("io_uring: extract io_sendmsg_copy_hdr()")
+1400e69705ba ("io_uring: use more specific type in rcv/snd msg cp")
+270a5940700b ("io_uring: rename sr->msg into umsg")
+760618f7a8e3 ("Merge branch 'io_uring-5.8' into for-5.9/io_uring")

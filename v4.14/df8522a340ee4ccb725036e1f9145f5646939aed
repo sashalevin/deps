@@ -1,0 +1,5 @@
+df8522a340ee ("y2038: signal: Add sys_rt_sigtimedwait_time32")
+3c1c456f9b96 ("syscalls: sort syscall prototypes in include/linux/syscalls.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")

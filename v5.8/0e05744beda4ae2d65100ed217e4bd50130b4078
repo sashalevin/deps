@@ -1,0 +1,6 @@
+0e05744beda4 ("net: ethernet: mtk_eth_soc: rely on txd_size in mtk_tx_alloc/mtk_tx_clean")
+d776a57e4a28 ("net: ethernet: mtk_eth_soc: add support for coherent DMA")
+4e6bf609569c ("net: ethernet: mtk_eth_soc: cache HW pointer of last freed TX descriptor")
+5196c4178549 ("net: ethernet: mtk_eth_soc: unmap RX data before calling build_skb")
+502e84e2382d ("net: ethernet: mtk_eth_soc: add flow offloading support")
+ba37b7caf1ed ("net: ethernet: mtk_eth_soc: add support for initializing the PPE")

@@ -1,0 +1,6 @@
+4e74b6b3c6e9 ("mmc: core: Rename __mmc_set_signal_voltage() to mmc_set_signal_voltage()")
+2ed573b603f7 ("mmc: core: Clarify usage of mmc_set_signal_voltage()")
+1720d3545b77 ("mmc: core: switch to 1V8 or 1V2 for hs400es mode")
+81ac2af65793 ("mmc: core: implement enhanced strobe support")
+e51534c80660 ("mmc: core: fix using wrong io voltage if mmc_select_hs200 fails")
+d9bfbb95ed59 ("mmc: sdio: Fix invalid vdd in voltage switch power cycle")

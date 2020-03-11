@@ -1,0 +1,5 @@
+5f42196d3929 ("drm/i915: Replace intel_bios_is_lane_reversal_needed() with intel_bios_encoder_lane_reversal()")
+db5d650ff0b5 ("drm/i915: Replace intel_bios_is_lspcon_present() with intel_bios_encoder_is_lspcon()")
+ba00eb6a4bfb ("drm/i915: Populate encoder->devdata for DSI on icl+")
+3f9ffce5765d ("drm/i915: Do panel VBT init early if the VBT declares an explicit panel type")
+f70f8153e364 ("drm/i915: Introduce intel_panel_init_alloc()")

@@ -1,0 +1,8 @@
+a288e92cacdc ("Btrfs: heuristic: add byte set calculation")
+1fe4f6fa5ae7 ("Btrfs: heuristic: add detection of repeated data patterns")
+a440d48c7f93 ("Btrfs: heuristic: implement sampling logic")
+17b5a6c17e26 ("Btrfs: heuristic: add bucket and sample counters and other defines")
+4e439a0b184f ("Btrfs: compression: separate heuristic/compression workspaces")
+c2fcdcdf36bb ("Btrfs: add skeleton code for compression heuristic")
+fe3085330755 ("btrfs: add memalloc_nofs protections around alloc_workspace callback")
+974b1adc3b10 ("btrfs: use bio iterators for the decompression handlers")

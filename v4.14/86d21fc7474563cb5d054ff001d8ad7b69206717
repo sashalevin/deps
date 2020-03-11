@@ -1,0 +1,6 @@
+86d21fc74745 ("netfilter: ctnetlink: add timeout and protoinfo to destroy events")
+49ca022bccc5 ("netfilter: ctnetlink: don't dump ct extensions of unconfirmed conntracks")
+b067fa009c88 ("netfilter: ctnetlink: honor IPS_OFFLOAD flag")
+20710b3b8189 ("netfilter: ctnetlink: synproxy support")
+39215846740a ("netfilter: conntrack: remove nlattr_size pointer from l4proto trackers")
+5caaed151a68 ("netfilter: conntrack: don't cache nlattr_tuple_size result in nla_size")

@@ -1,0 +1,4 @@
+a37dac5c5dcf ("arm64: efi: Limit allocations to 48-bit addressable physical region")
+3a262423755b ("efi/libstub: arm64: Relax 2M alignment again for relocatable kernels")
+5b94046efb47 ("efi/libstub: arm64: Force Image reallocation if BSS was not reserved")
+4152433c3976 ("arm64: efi: kaslr: Fix occasional random alloc (and boot) failure")

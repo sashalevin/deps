@@ -1,0 +1,8 @@
+f93b646d5124 ("ASoC: simple-card: tidyup mclk-fs of_property_read_u32() usage")
+a03b0545c26d ("ASoC: simple-card: call of_node_put() for dai_link")
+44c16af1fa8a ("ASoC: simple-card: use asoc_simple_card_parse_dai()")
+28abd99b6e40 ("ASoC: simple-card: use asoc_simple_card_parse_clk()")
+3527d85b85e6 ("ASoC: simple-card: use asoc_simple_card_parse_card_name()")
+9eac361877b3 ("ASoC: simple-card: add new asoc_simple_jack and use it")
+548563fa3e43 ("ASoC: simple-card: use common PREFIX for each DT property")
+5fb9cb165130 ("ASoC: simple-card: platform also uses asoc_simple_card_sub_parse_of()")

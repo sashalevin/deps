@@ -1,0 +1,5 @@
+e09fccb5435d ("KVM: avoid warning on s390 in mark_page_dirty")
+2efd61a608b0 ("KVM: Warn if mark_page_dirty() is called without an active vCPU")
+044c59c409b7 ("KVM: Don't allocate dirty bitmap if dirty ring is enabled")
+fb04a1eddb1a ("KVM: X86: Implement ring-based dirty memory tracking")
+c21d54f0307f ("KVM: x86: hyper-v: allow KVM_GET_SUPPORTED_HV_CPUID as a system ioctl")

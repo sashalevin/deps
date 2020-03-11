@@ -1,0 +1,5 @@
+29ca1c5a4b4b ("net-sysfs: Switch to bitmap_zalloc()")
+4d99f6602cb5 ("net: allow to call netif_reset_xps_queues() under cpus_read_lock")
+8af2c06ff4b1 ("net-sysfs: Add interface for Rx queue(s) map per Tx queue")
+04157469b7b8 ("net: Use static_key for XPS maps")
+80d19669ecd3 ("net: Refactor XPS for CPUs and Rx queues")

@@ -1,0 +1,8 @@
+e296de926dfd ("drm/syncobj: Drop add/remove_callback from driver interface")
+e7aca5031a2f ("drm/syncobj: Allow wait for submit and signal behavior (v5)")
+9c19fb10a589 ("drm/syncobj: Add a callback mechanism for replace_fence (v3)")
+5e60a10eaeba ("drm/syncobj: add sync obj wait interface. (v8)")
+00fc2c26bc46 ("drm: Remove unused drm_file parameter to drm_syncobj_replace_fence()")
+660e855813f7 ("amdgpu: use drm sync objects for shared semaphores (v6)")
+6f0308ebc196 ("amdgpu/cs: split out fence dependency checking (v2)")
+04d4fb5fa638 ("Merge branch 'drm-next-4.13' of git://people.freedesktop.org/~agd5f/linux into drm-next")

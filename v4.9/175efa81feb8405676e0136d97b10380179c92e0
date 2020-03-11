@@ -1,0 +1,6 @@
+175efa81feb8 ("ext4: fix EXT4_MAX_LOGICAL_BLOCK macro")
+bcd8e91f98c1 ("ext4: avoid arithemetic overflow that can trigger a BUG")
+7046ae35329f ("ext4: Add iomap support for inline data")
+776722e85d3b ("ext4: DAX iomap write support")
+364443cbcfe7 ("ext4: convert DAX reads to iomap infrastructure")
+213bcd9ccbf0 ("ext4: factor out checks from ext4_file_write_iter()")

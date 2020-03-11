@@ -1,0 +1,7 @@
+de74023befa1 ("netfs: Trace refcounting on the netfs_io_request struct")
+3a4a38e66d24 ("netfs: Split netfs_io_* object handling out")
+f18a378580a7 ("netfs: Finish off rename of netfs_read_request to netfs_io_request")
+6a19114b8e7f ("netfs: Rename netfs_read_*request to netfs_io_*request")
+5ac417d24c6c ("netfs: Generate enums from trace symbol mapping lists")
+5b19f1eba459 ("ceph: make ceph_netfs_issue_op() handle inlined data")
+a25cedb4313d ("ceph: switch netfs read ops to use rreq->inode instead of rreq->mapping->host")

@@ -1,0 +1,6 @@
+77a651f5647d ("net: ena: cosmetic: extract code to ena_indirection_table_set()")
+f66c2ea3b18a ("net: ena: allow setting the hash function without changing the key")
+8e3a57351745 ("net: ena: ethtool: remove redundant non-zero check on rc")
+92569fd27f5c ("net: ena: fix incorrectly saving queue numbers when setting RSS indirection table")
+0c8923c0a64f ("net: ena: rss: fix failure to get indirection table")
+3c6eeff295f0 ("net: ena: fix swapped parameters when calling ena_com_indirect_table_fill_entry")

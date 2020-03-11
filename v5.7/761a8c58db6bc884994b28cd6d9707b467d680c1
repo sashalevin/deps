@@ -1,0 +1,6 @@
+761a8c58db6b ("tracing, synthetic events: Replace buggy strcat() with seq_buf operations")
+10819e25799a ("tracing: Handle synthetic event array field type checking correctly")
+bd82631d7ccd ("tracing: Add support for dynamic strings to synthetic events")
+8fbeb52a598c ("tracing: Fix parse_synth_field() error handling")
+726721a51838 ("tracing: Move synthetic events to a separate file")
+1b94b3aed367 ("tracing: Check state.disabled in synth event trace functions")

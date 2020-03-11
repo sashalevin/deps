@@ -1,0 +1,6 @@
+bf22a6976897 ("futex: Provide FUTEX_LOCK_PI2 to support clock selection")
+e112c41341c0 ("futex: Prepare futex_lock_pi() for runtime clock selection")
+51cf94d16860 ("futex: Make syscall entry points less convoluted")
+b097d5ed3356 ("futex: Get rid of the val2 conditional dance")
+cdf78db40709 ("futex: Do not apply time namespace adjustment on FUTEX_LOCK_PI")
+4fbf5d6837bf ("Revert 337f13046ff0 ("futex: Allow FUTEX_CLOCK_REALTIME with FUTEX_WAIT op")")

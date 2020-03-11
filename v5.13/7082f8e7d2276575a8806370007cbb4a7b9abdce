@@ -1,0 +1,8 @@
+7082f8e7d227 ("powerpc: move __end_rodata to cover arch read-only sections")
+b150a4d12b91 ("powerpc/vmlinux.lds: Add an explicit symbol for the SRWX boundary")
+331771e836e6 ("powerpc/vmlinux.lds: Ensure STRICT_ALIGN_SIZE is at least page aligned")
+2a0fb3c155c9 ("powerpc/32: Set an IBAT covering up to _einittext during init")
+f222ab83df92 ("powerpc: Add set_memory_{p/np}() and remove set_memory_attr()")
+c988cfd38e48 ("powerpc/32: use set_memory_attr()")
+4d1755b6a762 ("powerpc/mm: implement set_memory_attr()")
+1f9ad21c3b38 ("powerpc/mm: Implement set_memory() routines")

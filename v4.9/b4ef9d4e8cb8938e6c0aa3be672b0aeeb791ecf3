@@ -1,0 +1,8 @@
+b4ef9d4e8cb8 ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_sregs")
+d3802286fa0f ("kvm: x86: Disallow illegal IA32_APIC_BASE MSR values")
+d6321d493319 ("KVM: x86: generalize guest_cpuid_has_ helpers")
+c6bd18011ff8 ("KVM: x86: X86_FEATURE_NRIPS is not scattered anymore")
+90a2db6d8687 ("KVM: nVMX: INVPCID support")
+691bd4340bef ("kvm: vmx: allow host to access guest MSR_IA32_BNDCFGS")
+4439af9f911a ("kvm: x86: Guest BNDCFGS requires guest MPX support")
+31d8b8d41a7e ("KVM: s390: handle access registers in the run ioctl not in vcpu_put/load")

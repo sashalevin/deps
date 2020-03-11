@@ -1,0 +1,6 @@
+2893cc8ff892 ("x86/CPU: Change query logic so CPUID is enabled before testing")
+78d1b296843a ("x86/cpu: Add X86_FEATURE_CPUID")
+05fb3c199bb0 ("x86/boot: Initialize FPU and X86_FEATURE_ALWAYS even if we don't have CPUID")
+cd4d09ec6f6c ("x86/cpufeature: Carve out X86_FEATURE_*")
+a1ff57260818 ("x86/cpufeature: Add AMD AVIC bit")
+67c707e451e1 ("Merge branch 'x86-cleanups-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

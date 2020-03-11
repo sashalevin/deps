@@ -1,0 +1,8 @@
+d44036cad311 ("net: dsa: felix: fix oversize frame dropping for always closed tc-taprio gates")
+11afdc6526de ("net: dsa: felix: tc-taprio intervals smaller than MTU should send at least one packet")
+837ced3a1a5d ("time64.h: consolidate uses of PSEC_PER_NSEC")
+55a515b1f5a9 ("net: dsa: felix: drop oversized frames with tc-taprio instead of hanging the port")
+1c9017e44af2 ("net: dsa: felix: keep reference on entire tc-taprio config")
+8670dc33f48b ("net: dsa: felix: update base time of time-aware shaper when adjusting PTP time")
+6d0be6004770 ("net: mscc: ocelot: minimize holes in struct ocelot_port")
+15f6d01e4829 ("net: mscc: ocelot: delete ocelot_port :: xmit_template")

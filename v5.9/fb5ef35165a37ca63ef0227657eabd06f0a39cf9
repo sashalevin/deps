@@ -1,0 +1,6 @@
+fb5ef35165a3 ("iommu/hyperv: setup an IO-APIC IRQ remapping domain for root partition")
+e39397d1fd68 ("x86/hyperv: implement an MSI domain for root partition")
+86b5ec3552f3 ("x86/hyperv: provide a bunch of helper functions")
+99a0f46af6a7 ("x86/hyperv: extract partition ID from Microsoft Hypervisor if necessary")
+fff7b5e6ee63 ("x86/hyperv: Initialize clockevents after LAPIC is initialized")
+dfe94d4086e4 ("x86/hyperv: Fix kexec panic/hang issues")

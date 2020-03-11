@@ -1,0 +1,6 @@
+283945017cbf ("iommu: Remove comment of dev_has_feat in struct doc")
+0c9f17877891 ("iommu: Remove guest pasid related interfaces and definitions")
+bb0f61533dfd ("iommu/vt-d: Enable write protect propagation from guest")
+3ab657291638 ("iommu: use the __iommu_attach_device() directly for deferred attach")
+a8e8af35c9f4 ("dma-iommu: use static-key to minimize the impact in the fast-path")
+230309d08b87 ("iommu: Add iommu_dma_free_cpu_cached_iovas()")

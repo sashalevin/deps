@@ -1,0 +1,4 @@
+26d1982fd17c ("lib/nmi_backtrace: Serialize even messages about idle CPUs")
+160c7ba34605 ("lib: Add backtrace_idle parameter to force backtrace of idle CPUs")
+03fc7f9c99c1 ("printk/nmi: Prevent deadlock when accessing the main log buffer in NMI")
+2f9b7e08cb27 ("lib/nmi_backtrace.c: fix kernel text address leak")

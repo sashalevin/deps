@@ -1,0 +1,4 @@
+28eda7b5e824 ("KVM: arm64: Don't write to Rt unless sys_reg emulation succeeds")
+54ad68b77760 ("KVM: arm64: Don't log IMP DEF sysreg traps")
+c667186f1c01 ("arm64: KVM: Fix decoding of Rt/Rt2 when trapping AArch32 CP accesses")
+e70b95226344 ("arm64: KVM: Treat sysreg accessors returning false as successful")

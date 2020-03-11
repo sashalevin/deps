@@ -1,0 +1,5 @@
+6049674b5720 ("tracing: fprobe: Initialize ret valiable to fix smatch error")
+39d954200bf6 ("fprobe: Skip exit_handler if entry_handler returns !0")
+7e7ef1bfe552 ("lib/test_fprobe: Add a test case for nr_maxactive")
+34cabf8fd18f ("lib/test_fprobe: Add private entry_data testcases")
+76d0de5729c0 ("fprobe: Pass entry_data to handlers")

@@ -1,0 +1,6 @@
+b571cfcb9dca ("nfs: don't reuse partially completed requests in nfs_lock_and_join_requests")
+25edbcac6e32 ("nfs: fold nfs_page_group_lock_subrequests into nfs_lock_and_join_requests")
+c3f2235782c3 ("nfs: fold nfs_folio_find_and_lock_request into nfs_lock_and_join_requests")
+9eb7c484db1a ("nfs: simplify nfs_folio_find_and_lock_request")
+02e61ec1e2c1 ("nfs: remove nfs_folio_private_request")
+7e8e78a0ba00 ("nfs: remove dead code for the old swap over NFS implementation")

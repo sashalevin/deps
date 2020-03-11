@@ -1,0 +1,5 @@
+d522649e2686 ("rtc: rv8803: Always apply the I²C workaround")
+cde0fe2acd7c ("rtc: rv8803: broaden workaround")
+85062c9b990b ("rtc: rv8803: workaround i2c HW issue")
+9d1fa4c3737a ("rtc: rv8803: convert spin_lock to mutex_lock")
+68c85f291622 ("rtc: rv8803: fix handling return value of i2c_smbus_read_byte_data")

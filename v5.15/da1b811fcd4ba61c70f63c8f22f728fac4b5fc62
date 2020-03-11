@@ -1,0 +1,5 @@
+da1b811fcd4b ("btrfs: use single bulk copy operations when logging directories")
+b7ef5f3a6f37 ("btrfs: loop only once over data sizes array when inserting an item batch")
+086dcbfa50d3 ("btrfs: insert items in batches when logging a directory when possible")
+eb10d85ee77f ("btrfs: factor out the copying loop of dir items from log_dir_items()")
+289cffcb0399 ("btrfs: remove no longer needed checks for NULL log context")

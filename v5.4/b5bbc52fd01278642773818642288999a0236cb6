@@ -1,0 +1,8 @@
+b5bbc52fd012 ("ublk: add control command of UBLK_U_CMD_GET_FEATURES")
+2d786e66c966 ("block: ublk: switch to ioctl command encoding")
+4093cb5a0634 ("ublk_drv: add mechanism for supporting unprivileged ublk device")
+bfbcef036396 ("ublk_drv: move ublk_get_device_from_id into ublk_ctrl_uring_cmd")
+d57c2c6c1145 ("ublk_drv: comment on ublk_driver entry of Kconfig")
+224e858f215a ("ublk_drv: return flag of UBLK_F_URING_CMD_COMP_IN_TASK in case of module")
+e0539ae012ba ("Documentation: document ublk user recovery feature")
+513389809e13 ("Merge tag 'for-6.1/block-2022-10-03' of git://git.kernel.dk/linux")

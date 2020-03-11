@@ -1,0 +1,6 @@
+ba403242615c ("pinctrl: freescale: imx: Use 'devm_of_iomap()' to avoid a resource leak in case of error in 'imx_pinctrl_probe()'")
+b96eea718bf6 ("pinctrl: fsl: add scu based pinctrl support")
+3c4211ba8ad8 ("treewide: devm_kmalloc() -> devm_kmalloc_array()")
+7d6989ade916 ("pinctrl: imx: use seq_puts() instead of seq_printf()")
+37c1628fb321 ("pinctrl: pinctrl-imx: improve the code comments of PIN_FUNC_ID")
+f5843492ecef ("pinctrl: imx: use struct imx_pinctrl_soc_info as a const")

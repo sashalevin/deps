@@ -1,0 +1,7 @@
+96b3d4bd93f9 ("RISC-V: KVM: Add ONE_REG interface to enable/disable SBI extensions")
+cbddc4c4cb9e ("RISC-V: KVM: Add SBI PMU extension support")
+8f0153ecd3bf ("RISC-V: KVM: Add skeleton support for perf")
+026bac4574b5 ("RISC-V: KVM: Define a probe function for SBI extension data structures")
+52ec4b695dbe ("RISC-V: KVM: Save mvendorid, marchid, and mimpid when creating VCPU")
+23fe562e45c5 ("RISC-V: KVM: Move sbi related struct and functions to kvm_vcpu_sbi.h")
+e81af89baebf ("RISC-V: KVM: Use switch-case in kvm_riscv_vcpu_set/get_reg()")

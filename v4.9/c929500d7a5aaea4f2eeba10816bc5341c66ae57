@@ -1,0 +1,6 @@
+c929500d7a5a ("s390/nmi: s390: New low level handling for machine check happening in guest")
+b5a882fcf146 ("s390: restore address space when returning to user space")
+606aa4aa0b2c ("s390: rename CIF_ASCE to CIF_ASCE_PRIMARY")
+1228f7befbf3 ("s390: add missing "do {} while (0)" loop constructs to multiline macros")
+e991c24d68b8 ("s390/ctl_reg: make __ctl_load a full memory barrier")
+56e9219a8248 ("s390/uaccess: make setfs macro return void")

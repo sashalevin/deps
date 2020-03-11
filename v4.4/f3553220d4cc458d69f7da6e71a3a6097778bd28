@@ -1,0 +1,8 @@
+f3553220d4cc ("cgroup: add cgroup_may_write() helper")
+715c809d9a9e ("cgroup: reorganize cgroup.procs / task write path")
+5136f6365ce3 ("cgroup: implement "nsdelegate" mount option")
+824ecbe01c5d ("cgroup: restructure cgroup_procs_write_permission()")
+39fd64ae9f47 ("cgroup: "cgroup.subtree_control" should be writeable by delegatee")
+77f88796cee8 ("cgroup, kthread: close race window where new kthreads can be migrated to non-root cgroups")
+780de9dd2720 ("sched/headers, cgroups: Remove the threadgroup_change_*() wrappery")
+f7878dc3a9d3 ("Merge branch 'for-4.11' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

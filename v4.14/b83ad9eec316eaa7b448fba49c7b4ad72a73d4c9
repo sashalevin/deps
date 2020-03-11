@@ -1,0 +1,7 @@
+b83ad9eec316 ("ata: libata-eh: Cleanup ata_scsi_cmd_error_handler()")
+258c4e5c65b2 ("libata: convert eh to command iterators")
+28361c403683 ("libata: add extra internal command")
+9d207accca2c ("libata: remove assumption that ATA_MAX_QUEUE - 1 is the max")
+2e2cc676cee8 ("libata: use ata_tag_internal() consistently")
+e3ed89396441 ("libata: bump ->qc_active to a 64-bit type")
+5ac40790b470 ("libata: introduce notion of separate hardware tags")

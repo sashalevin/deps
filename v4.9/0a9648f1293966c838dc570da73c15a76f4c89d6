@@ -1,0 +1,5 @@
+0a9648f12939 ("tcp: add a missing barrier in tcp_tasklet_func()")
+7aa5470c2c09 ("tcp: tsq: move tsq_flags close to sk_wmem_alloc")
+75eefc6c59fd ("tcp: tsq: add a shortcut in tcp_small_queue_check()")
+b223feb9de2a ("tcp: tsq: add shortcut in tcp_tasklet_func()")
+408f0a6c21e1 ("tcp: tsq: remove one locked operation in tcp_wfree()")

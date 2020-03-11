@@ -1,0 +1,8 @@
+4ea3d7410c35 ("x86/unwind: Prepend hex mask value with '0x' in unwind_dump()")
+8b5e99f02264 ("x86/unwind: Dump stack data on warnings")
+24d86f59093b ("x86/unwind: Ensure stack grows down")
+b6959a362177 ("x86/unwind: Detect bad stack return address")
+c32c47c68a0a ("x86/unwind: Warn on bad frame pointer")
+acb4608ad186 ("x86/unwind: Create stack frames for saved syscall registers")
+946c191161ce ("x86/entry/unwind: Create stack frames for saved interrupt registers")
+1b00255f32b9 ("x86/entry/32, x86/boot/32: Use local labels")

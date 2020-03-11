@@ -1,0 +1,8 @@
+acc43b7bf52a ("net: dsa: allow masters to join a LAG")
+95f510d0b792 ("net: dsa: allow the DSA master to be seen and changed through rtnetlink")
+8f6a19c0316d ("net: dsa: introduce dsa_port_get_master()")
+5dc760d12082 ("net: dsa: use dsa_tree_for_each_cpu_port in dsa_tree_{setup,teardown}_master")
+f41ec1fd1c20 ("net: dsa: all DSA masters must be down when changing the tagging protocol")
+4f03dcc6b9a0 ("net: dsa: existing DSA masters cannot join upper interfaces")
+920a33cd7231 ("net: bridge: move DSA master bridging restriction to DSA")
+4c3f80d22b2e ("net: dsa: walk through all changeupper notifier functions")

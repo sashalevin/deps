@@ -1,0 +1,8 @@
+f912af77e2c1 ("xprtrdma: Rename frwr_release_mr()")
+253a51622fb0 ("xprtrdma: Refactor frwr_init_mr()")
+25868e610aed ("xprtrdma: Refactor frwr_is_supported")
+18d065a5d4f1 ("xprtrdma: Eliminate per-transport "max pages"")
+2e8703681429 ("xprtrdma: Eliminate ri_max_send_sges")
+9d2da4ff00f3 ("xprtrdma: Manage MRs in context of a single connection")
+c3700780a096 ("xprtrdma: Fix MR list handling")
+a31b2f939219 ("xprtrdma: Connection becomes unstable after a reconnect")

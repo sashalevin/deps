@@ -1,0 +1,7 @@
+654229a02456 ("KVM: MIPS/T&E: Move CP0 register access into T&E")
+b62091108633 ("KVM: MIPS: Implement kvm_arch_flush_shadow_all/memslot")
+f7f1427dc0c6 ("KVM: MIPS/T&E: Allocate GVA -> HPA page tables")
+630766b3694f ("KVM: MIPS: Wire up vcpu uninit")
+1581ff3dbf69 ("KVM: MIPS/MMU: Move preempt/ASID handling to implementation")
+a60b8438bdba ("KVM: MIPS: Convert get/set_regs -> vcpu_load/put")
+1534b3964901 ("KVM: MIPS/MMU: Simplify ASID restoration")

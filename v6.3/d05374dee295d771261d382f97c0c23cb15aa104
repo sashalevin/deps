@@ -1,0 +1,8 @@
+d05374dee295 ("thermal: core: Change passive_delay and polling_delay data type")
+9b0a62758665 ("thermal: core: Store zone trips table in struct thermal_zone_device")
+755113d76786 ("thermal/debugfs: Add thermal cooling device debugfs information")
+4e814173a8c4 ("thermal: core: Fix thermal zone suspend-resume synchronization")
+9ffa7b92bc76 ("thermal: core: Clean up headers of thermal zone registration functions")
+35d8dbbb25ad ("thermal: core: Drop unused .get_trip_*() callbacks")
+ac4436a5b20e ("thermal: of: fix double-free on unregistration")
+80ddce5f2dbd ("thermal: core: constify params in thermal_zone_device_register")

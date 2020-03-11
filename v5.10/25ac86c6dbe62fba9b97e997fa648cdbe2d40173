@@ -1,0 +1,8 @@
+25ac86c6dbe6 ("driver core: Use device's fwnode to check if it is waiting for suppliers")
+7b337cb3ebde ("driver core: Add fwnode link support")
+01bb86b380a3 ("driver core: Add fwnode_init()")
+c84b90909e47 ("Revert "driver core: fw_devlink: Add support for batching fwnode parsing"")
+999032ece38b ("Revert "driver core: Remove check in driver_deferred_probe_force_trigger()"")
+96d8a9168ef5 ("Revert "driver core: Don't do deferred probe in parallel with kernel_init thread"")
+c95d64012ad7 ("Revert "driver core: Avoid deferred probe due to fw_devlink_pause/resume()"")
+7008e58c63bc ("driver core: Fix lockdep warning on wfs_lock")

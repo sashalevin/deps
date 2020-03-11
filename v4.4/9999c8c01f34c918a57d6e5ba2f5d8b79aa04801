@@ -1,0 +1,8 @@
+9999c8c01f34 ("x86/entry: Call enter_from_user_mode() with IRQs off")
+1e423bff959e ("x86/entry/64: Migrate the 64-bit syscall slow path to C")
+46eabf06c04a ("x86/entry/64: Call all native slow-path syscalls with full pt-regs")
+302f5b260c32 ("x86/entry/64: Always run ptregs-using syscalls on the slow path")
+cfcbadb49dab ("x86/syscalls: Add syscall entry qualifiers")
+3e65654e3db6 ("x86/syscalls: Move compat syscall entry handling into syscalltbl.sh")
+32324ce15ea8 ("x86/syscalls: Remove __SYSCALL_COMMON and __SYSCALL_X32")
+fba324744bfd ("x86/syscalls: Refactor syscalltbl.sh")

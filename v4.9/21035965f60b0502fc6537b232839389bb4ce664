@@ -1,0 +1,6 @@
+21035965f60b ("bitmap: fix memset optimization on big-endian systems")
+2c6deb01525a ("bitmap: use memcmp optimisation in more situations")
+2a98dc028f91 ("include/linux/bitmap.h: turn bitmap_set and bitmap_clear into memset when possible")
+e5af323c9bad ("bitmap: optimise bitmap_set and bitmap_clear of a single bit")
+3cc78125a081 ("lib/test_bitmap.c: add optimisation tests")
+7b96ddd02ec3 ("ARM: 8654/1: decompressor: add strlen prototype")

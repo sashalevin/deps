@@ -1,0 +1,8 @@
+aa19bb4c3583 ("coresight: events: PERF_RECORD_AUX_OUTPUT_HW_ID used for Trace ID")
+206bb3858949 ("coresight: trace id: Remove legacy get trace ID function.")
+8c60acbcb982 ("coresight: Don't immediately close events that are run on invalid CPU/sink combos")
+549452b73e6b ("coresight: etm-perf: Handle stale output handles")
+859d510e58da ("coresight: etm4x: Handle unreachable sink in perf mode")
+d25054ee8d18 ("coresight: perf: Add helper to retrieve sink configuration")
+5ecabe4a76e8 ("coresight: perf: Fix per cpu path management")
+d52c9750f150 ("coresight: reset "enable_sink" flag when need be")

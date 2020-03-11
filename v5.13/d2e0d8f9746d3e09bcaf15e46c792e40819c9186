@@ -1,0 +1,5 @@
+d2e0d8f9746d ("arm64: move preemption disablement to prctl handlers")
+433c38f40f6a ("arm64: mte: change ASYNC and SYNC TCF settings into bitfields")
+638982a03fbc ("arm64: mte: rename gcr_user_excl to mte_ctrl")
+59f44069e052 ("arm64: mte: fix restoration of GCR_EL1 from suspend")
+873c3e89777c ("arm64: Kill 32-bit applications scheduled on 64-bit-only CPUs")

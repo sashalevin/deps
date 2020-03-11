@@ -1,0 +1,8 @@
+00933c4993f1 ("ASoC: codecs: fix TYPO 'reguest' to 'request' in error log")
+8b271370e963 ("ASoC: rt5682: Disable jack detection interrupt during suspend")
+f7d00a9be147 ("SoC: rt5682s: Disable jack detection interrupt during suspend")
+6e037b72cf4e ("ASoC: rt5651: Use IRQF_NO_AUTOEN when requesting the IRQ")
+bdd229ab26be ("ASoC: rt5682s: Add driver for ALC5682I-VS codec")
+89d751d8f9dc ("ASoC: rt5682: enable SAR ADC power saving mode during suspend")
+542712826f8d ("ASoC: rt5682: add delay time of workqueue to control next IRQ event")
+30fd8f65af78 ("ASoC: rt5682: do nothing in rt5682_suspend/resume in sdw mode")

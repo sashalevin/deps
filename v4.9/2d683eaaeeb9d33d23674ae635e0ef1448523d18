@@ -1,0 +1,8 @@
+2d683eaaeeb9 ("net: cpsw: fix NULL pointer exception in the probe error path")
+bfe59032bd61 ("net: ethernet: ti: cpsw: use cpsw as drv data")
+83a8471ba255 ("net: ethernet: ti: cpsw: refactor probe to group common hw initialization")
+d183a9428dc5 ("net: ethernet: ti: cpsw: use devm_alloc_etherdev_mqs()")
+c8fb566875b7 ("net: ethernet: ti: cpsw: use local var dev in probe")
+9763a891a596 ("net: ethernet: ti: cpsw: update cpsw_split_res() to accept cpsw_common")
+a86854d0c599 ("treewide: devm_kzalloc() -> devm_kcalloc()")
+ea125dedbc14 ("Merge tag 'gpio-v4.18-1' of git://git.kernel.org/pub/scm/linux/kernel/git/linusw/linux-gpio")

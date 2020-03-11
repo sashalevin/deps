@@ -1,0 +1,8 @@
+3ba89b28adb2 ("net: dsa: mv88e6xxx: add field to specify internal phys layout")
+ca345931907f ("net: dsa: mv88e6xxx: pass directly chip structure to mv88e6xxx_phy_is_internal")
+267d7692f6cd ("net: dsa: mv88e6xxx: move link forcing to mac_prepare/mac_finish")
+b1a2de9ccfe6 ("net: dsa: mv88e6xxx: don't dispose of Global2 IRQ mappings from mdiobus code")
+87a39882b5ab ("net: dsa: mv88e6xxx: accept phy-mode = "internal" for internal PHY ports")
+d0b78ab1ca35 ("net: dsa: mv88e6xxx: Fix validation of built-in PHYs on 6095/6097")
+2ee84cfefb1e ("net: dsa: mv88e6xxx: convert to phylink_generic_validate()")
+d4ebf12bcec4 ("net: dsa: mv88e6xxx: populate supported_interfaces and mac_capabilities")

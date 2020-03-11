@@ -1,0 +1,5 @@
+178cac08d588 ("KVM: arm64: Rename KVM_PTE_LEAF_ATTR_S2_IGNORED")
+807923e04a0f ("KVM: arm64: Use page-table to track page ownership")
+f60ca2f9321a ("KVM: arm64: Always zero invalid PTEs")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")

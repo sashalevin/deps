@@ -1,0 +1,8 @@
+7fd70c65faac ("ARM: irqstat: Get rid of duplicated declaration")
+5ebf353af22c ("ARM: Remove custom IRQ stat accounting")
+be167862ae7d ("ARM: prevent tracing IPI_CPU_BACKTRACE")
+677664895278 ("nmi_backtrace: do a local dump_stack() instead of a self-NMI")
+9a01c3ed5cdb ("nmi_backtrace: add more trigger_*_cpu_backtrace() methods")
+42a0bb3f7138 ("printk/nmi: generic solution for safe printk in NMI")
+e7273ff49acf ("ARM: 8488/1: Make IPI_CPU_BACKTRACE a "non-secure" SGI")
+89d798b73dc6 ("ARM: 8487/1: Remove IPI_CALL_FUNC_SINGLE")

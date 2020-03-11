@@ -1,0 +1,5 @@
+6fe46d5c0a84 ("wifi: wilc1000: set net device registration as last step during interface creation")
+328efda22af8 ("wifi: wilc1000: do not realloc workqueue everytime an interface is added")
+2b88974ecb35 ("wifi: wilc1000: add missing unregister_netdev() in wilc_netdev_ifc_init()")
+09ed8bfc5215 ("wilc1000: Rename workqueue from "WILC_wq" to "NETDEV-wq"")
+2fe8ef106238 ("cfg80211: change netdev registration/unregistration semantics")

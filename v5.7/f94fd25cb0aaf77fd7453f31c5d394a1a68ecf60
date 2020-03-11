@@ -1,0 +1,6 @@
+f94fd25cb0aa ("tcp: pass back data left in socket after receive")
+925bba24e68a ("tcp: Remove CMSG magic numbers for tcp_recvmsg().")
+2cd81161848d ("net-tcp: Introduce tcp_recvmsg_locked().")
+1f466e1f15cf ("net: cleanly handle kernel vs user buffers for ->msg_control")
+2618d530dd8b ("net/scm: cleanup scm_detach_fds")
+0462b6bdb644 ("net: add a CMSG_USER_DATA macro")

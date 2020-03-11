@@ -1,0 +1,6 @@
+7d9c1ed6f4bf ("KVM: arm64: Move FPMR into the sysreg array")
+b55688943597 ("KVM: arm64: Move SVCR into the sysreg array")
+2843cae26644 ("KVM: arm64: Treat CTR_EL0 as a VM feature ID register")
+f1ff3fc5209a ("KVM: arm64: unify code to prepare traps")
+97ca3fcc15cc ("KVM: arm64: Use read-only helper for reading VM ID registers")
+4e8ff73eb7ae ("KVM: arm64: Get sys_reg encoding from descriptor in idregs_debug_show()")

@@ -1,0 +1,5 @@
+2234ae846ccb ("irqchip/sifive-plic: Setup cpuhp once after boot CPU handler is present")
+f1ad1133b18f ("irqchip/sifive-plic: Add support for multiple PLICs")
+ccbe80bad571 ("irqchip/sifive-plic: Enable/Disable external interrupts upon cpu online/offline")
+6a1ce99dc4bd ("RISC-V: Don't enable all interrupts in trap_init()")
+a4c3733d32a7 ("riscv: abstract out CSR names for supervisor vs machine mode")

@@ -1,0 +1,5 @@
+fd295733e702 ("dt-bindings: fec: explicitly mark deprecated properties")
+4ad1ceec05e4 ("net: fec: Let fec_ptp have its own interrupt routine")
+e24ee2780a1d ("net: fec: return IRQ_HANDLED if fec_ptp_check_pps_event handled it")
+159a07604a99 ("net: fec: add post PHY reset delay DT property")
+9269e5560b26 ("net: fec: add phy-reset-gpios PROBE_DEFER check")

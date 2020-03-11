@@ -1,0 +1,5 @@
+152b5245e361 ("mmc: jz4740: Add support for vqmmc power supply")
+0539552745af ("mmc: jz4740: Remove platform data and use standard APIs")
+feb357458baa ("mmc: jz4740: Use PTR_ERR_OR_ZERO in jz4740_mmc_request_gpios()")
+0f6f3235b816 ("mmc: jz4740: Use GPIO descriptor for power")
+0c901c0566fb ("mmc: jz4740: Get CD/WP GPIOs from descriptors")

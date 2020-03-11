@@ -1,0 +1,8 @@
+c579286a514d ("thermal: core: Drop unused bind/unbind functions and callbacks")
+2fb856336417 ("thermal: core: Unexport thermal_bind_cdev_to_trip() and thermal_unbind_cdev_from_trip()")
+aa35e56a5217 ("thermal: core: Introduce .should_bind() thermal zone callback")
+d48005511a54 ("thermal: core: Move thermal zone locking out of bind/unbind functions")
+b4e6d3981731 ("thermal: core: Rearrange checks in thermal_bind_cdev_to_trip()")
+a8bbe6f10f78 ("thermal: core: Fold two functions into their respective callers")
+b1ae92dcfa8e ("thermal: core: Make struct thermal_zone_device definition internal")
+daeeb032f42d ("thermal: core: Move threshold out of struct thermal_trip")

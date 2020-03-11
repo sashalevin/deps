@@ -1,0 +1,4 @@
+264b7b19861d ("mt76: mt7663s: rely on mt76_queue in mt7663s_tx_run_queue signature")
+30578752f250 ("mt76: sdio: get rid of sched.lock")
+fefb584d460a ("mt76: mt7663s: convert txrx_work to mt76_worker")
+e0ad80024329 ("mt76: mt7663s: move tx/rx processing in the same txrx workqueue")

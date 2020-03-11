@@ -1,0 +1,7 @@
+cae118b6acc3 ("arm64: Drop support for CMDLINE_EXTEND")
+df304c2d0dfd ("arm64: cpufeatures: Fix handling of CONFIG_CMDLINE for idreg overrides")
+863ace77e9ff ("arm64: Add an aliasing facility for the idreg override")
+33200303553d ("arm64: cpufeature: Add an early command-line cpufeature override facility")
+f6f0c4362f07 ("arm64: Extract early FDT mapping from kaslr_early_init()")
+1e40d105dae5 ("arm64: Extend the kernel command line from the bootloader")
+52ec03f75d59 ("arm64: kaslr: Refactor early init command line parsing")

@@ -1,0 +1,6 @@
+c7bda0dca98c ("x86: Remove a.out support")
+83a44a4f47ad ("x86: Remove toolchain check for X32 ABI capability")
+b15be237a95f ("MAINTAINERS: add "exec & binfmt" section with myself and Eric")
+228af5a4fa3a ("ALSA: pcm: Workaround for a wrong offset in SYNC_PTR compat ioctl")
+4589ff7ca815 ("binfmt: remove in-tree usage of MAP_DENYWRITE")
+42be8b425351 ("binfmt: don't use MAP_DENYWRITE when loading shared libraries via uselib()")

@@ -1,0 +1,4 @@
+13114dc55430 ("tls: fix use-after-free on failed backlog decryption")
+41532b785e9d ("tls: separate no-async decryption request handling from async")
+f7fa16d49837 ("tls: decrement decrypt_pending if no async completion will be called")
+859054147318 ("net: tls: handle backlogging of crypto requests")

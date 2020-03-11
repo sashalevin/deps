@@ -1,0 +1,6 @@
+4b85080f4e37 ("KVM: arm64: vgic: Consolidate userspace access for base address setting")
+9f968c9266aa ("KVM: arm64: vgic-v2: Add helper for legacy dist/cpuif base address setting")
+d7df6f282db6 ("KVM: arm64: vgic: Use {get,put}_user() instead of copy_{from.to}_user")
+c56a87da0a7f ("KVM: arm64: vgic-v2: Check cpu interface region is not above the VM IPA size")
+53b16dd6ba5c ("KVM: arm64: Fix KVM_VGIC_V3_ADDR_TYPE_REDIST_REGION read")
+9ed24f4b712b ("KVM: arm64: Move virt/kvm/arm to arch/arm64")

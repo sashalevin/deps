@@ -1,0 +1,6 @@
+c64a92992e6c ("ext4: aligned '*' in comments")
+e50e5129f384 ("ext4: xattr-in-inode support")
+b8cb5a545c3d ("ext4: fix quota charging for shared xattr blocks")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+d7614cc16146 ("ext4: correctly detect when an xattr value has an invalid size")
+2f8f5e76c7da ("ext4: avoid lockdep warning when inheriting encryption context")

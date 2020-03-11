@@ -1,0 +1,5 @@
+9c23f84723d2 ("arm64: move untagged_addr macro from uaccess.h to memory.h")
+7dcd9dd8cebe ("arm64: hw_breakpoint: fix watchpoint matching for tagged pointers")
+9e22eb616f86 ("arm64: Move some macros under #ifndef __ASSEMBLY__")
+fdfeff0f9e3d ("arm64: hw_breakpoint: Handle inexact watchpoint addresses")
+b08fb180bb88 ("arm64: Allow hw watchpoint at varied offset from base address")

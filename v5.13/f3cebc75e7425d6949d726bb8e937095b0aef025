@@ -1,0 +1,8 @@
+f3cebc75e742 ("KVM: SVM: Set target pCPU during IRTE update if target vCPU is running")
+4c08e737f056 ("KVM: SVM: Take and hold ir_list_lock when updating vCPU's Physical ID entry")
+935a7333958e ("KVM: SVM: Drop AVIC's intermediate avic_set_running() helper")
+782f64558de7 ("KVM: SVM: Skip AVIC and IRTE updates when loading blocking vCPU")
+af52f5aa5c1b ("KVM: SVM: Use kvm_vcpu_is_blocking() in AVIC load to handle preemption")
+e422b8896948 ("KVM: SVM: Remove unnecessary APICv/AVIC update in vCPU unblocking path")
+7cfc5c653b07 ("KVM: fix avic_set_running for preemptable kernels")
+bf5f6b9d7ad6 ("KVM: SVM: move check for kvm_vcpu_apicv_active outside of avic_vcpu_{put|load}")

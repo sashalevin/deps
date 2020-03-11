@@ -1,0 +1,5 @@
+732b177663e1 ("ACPI: NUMA: initialize all values of acpi_early_node_map to NUMA_NO_NODE")
+eabd9db64ea8 ("ACPI: RISCV: Add NUMA support based on SRAT and SLIT")
+3a785e19f432 ("ACPI/NUMA: Remove architecture dependent remainings")
+f9f67e5adc8d ("x86/numa: Fix SRAT lookup of CFMWS ranges with numa_fill_memblks()")
+d7a73e3f0892 ("kernel/numa.c: Move logging out of numa.h")

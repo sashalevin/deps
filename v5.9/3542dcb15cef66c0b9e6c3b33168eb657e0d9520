@@ -1,0 +1,6 @@
+3542dcb15cef ("iommu/dma: Resurrect the "forcedac" option")
+a8e8af35c9f4 ("dma-iommu: use static-key to minimize the impact in the fast-path")
+230309d08b87 ("iommu: Add iommu_dma_free_cpu_cached_iovas()")
+2a2b8eaa5b25 ("iommu: Handle freelists when using deferred flushing in iommu drivers")
+b34e9b0de3c4 ("iommu/dma: Handle init_iova_flush_queue() failure in dma-iommu path")
+aae4c8e27bd7 ("iommu: Rename iommu_tlb_* functions to iommu_iotlb_*")

@@ -1,0 +1,6 @@
+fc01008c92f4 ("f2fs: fix to do sanity check on F2FS_INLINE_DATA flag in inode during GC")
+a798ff17cd2d ("f2fs: fix to add missing iput() in gc_data_segment()")
+71419129625a ("f2fs: give priority to select unpinned section for foreground GC")
+642c0969916e ("f2fs: don't set GC_FAILURE_PIN for background GC")
+a22bb5526d7d ("f2fs: check pinfile in gc_data_segment() in advance")
+e4544b63a7ee ("f2fs: move f2fs to use reader-unfair rwsems")

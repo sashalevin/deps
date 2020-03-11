@@ -1,0 +1,8 @@
+9bfd900beeec ("RISC-V: KVM: Improve ISA extension by using a bitmap")
+affa28e4d094 ("RISC-V: KVM: Introduce ISA extension register")
+38d9a4ac65f2 ("RISC-V: KVM: Restrict the extensions that can be disabled")
+3ab75a793e49 ("RISC-V: KVM: Remove 's' & 'u' as valid ISA extension")
+de1d7b6a51da ("RISC-V: KVM: make CY, TM, and IR counters accessible in VU mode")
+cc4f602bc436 ("KVM: RISC-V: Use common KVM implementation of MMU memory caches")
+74c2e97b0184 ("RISC-V: KVM: Fix incorrect KVM_MAX_VCPUS value")
+0a86512dc113 ("RISC-V: KVM: Factor-out FP virtualization into separate sources")

@@ -1,0 +1,3 @@
+650d9a14715f ("efi: Fix efi_power_off() not being run before acpi_power_off() when necessary")
+68ee51cb773b ("efi/reboot: Make function pointer orig_pm_power_off static")
+b6a3780dad74 ("efi/reboot: Fall back to original power-off method if EFI_RESET_SHUTDOWN returns")

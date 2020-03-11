@@ -1,0 +1,4 @@
+d292dc80686a ("loop: don't destroy lo->workqueue in __loop_clr_fd")
+d2c7f56f8b52 ("loop: implement ->free_disk")
+b15ed54694fb ("loop: initialize the worker tracking fields once")
+2cf429b53c10 ("loop: de-duplicate the idle worker freeing code")

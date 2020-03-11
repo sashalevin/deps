@@ -1,0 +1,6 @@
+175145748d00 ("mm, page_alloc: use new PageAnonHead helper in the free page fast path")
+d61f85903974 ("mm, page_alloc: only check PageCompound for high-order pages")
+4b0f326163f0 ("include/linux/page-flags.h: force inlining of selected page flag modifications")
+822cdd115226 ("page-flags: look at head page if the flag is encoded in page->mapping")
+95ad97554ac8 ("page-flags: introduce page flags policies wrt compound pages")
+0e6d31a7336f ("page-flags: move code around")

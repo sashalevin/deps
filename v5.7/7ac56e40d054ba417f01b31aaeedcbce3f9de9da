@@ -1,0 +1,4 @@
+7ac56e40d054 ("can: j1939: j1939_session_completed(): use consistent name se_skb for the session skb")
+2030043e616c ("can: j1939: fix Use-after-Free, hold skb ref while in use")
+840835c92812 ("can: j1939: transport: add j1939_session_skb_find_by_offset() function")
+cd3b3636c99f ("can: j1939: transport: j1939_session_tx_dat(): fix use-after-free read in j1939_tp_txtimer()")

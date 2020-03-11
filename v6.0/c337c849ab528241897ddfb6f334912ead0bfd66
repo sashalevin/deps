@@ -1,0 +1,4 @@
+c337c849ab52 ("LoongArch: Put the body of play_dead() into arch_cpu_idle_dead()")
+071c44e42781 ("sched/idle: Mark arch_cpu_idle_dead() __noreturn")
+dfb0f170cadb ("sched/idle: Make sure weak version of arch_cpu_idle_dead() doesn't return")
+6c0f2d071ede ("loongarch/cpu: Mark play_dead() __noreturn")

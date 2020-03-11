@@ -1,0 +1,3 @@
+a7f61e89af73 ("compat_ioctl: don't call do_ioctl under set_fs(KERNEL_DS)")
+66cf191f3eae ("compat_ioctl: don't pass fd around when not needed")
+b43417216e9c ("compat_ioctl: don't look up the fd twice")

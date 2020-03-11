@@ -1,0 +1,5 @@
+5401cc5264ff ("rcu: Mark sync_sched_exp_online_cleanup() ->cpu_no_qs.b.exp load")
+f0b2b2df5423 ("rcu: Fix existing exp request check in sync_sched_exp_online_cleanup()")
+e015a3411220 ("rcu: Avoid self-IPI in sync_sched_exp_online_cleanup()")
+142d106d5e62 ("rcu: Determine expedited-GP IPI handler at build time")
+b56ada120921 ("Merge branches 'doc.2018.08.30a', 'dynticks.2018.08.30b', 'srcu.2018.08.30b' and 'torture.2018.08.29a' into HEAD")

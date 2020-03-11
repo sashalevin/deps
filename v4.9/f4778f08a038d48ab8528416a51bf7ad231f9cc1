@@ -1,0 +1,8 @@
+f4778f08a038 ("drm/nouveau/kms/nv50: fix handling of gamma since atomic conversion")
+90df522912ac ("drm/nouveau/kms/nv50: use INTERPOLATE_257_UNITY_RANGE LUT on newer chipsets")
+e75182f68b7b ("drm/nouveau/kms/nv50: use "low res" lut for indexed mode")
+11fc017dfb1e ("drm/nouveau/kms/nv50: prepare for double-buffered LUTs")
+804ea3ec442e ("drm: nouveau: remove dead code and pointless local lut storage")
+6d124ff84533 ("drm: Add acquire ctx to ->gamma_set hook")
+9c79e0b1d096 ("drm/fb-helper: Give up on kgdb for atomic drivers")
+8e22e1b3499a ("Merge airlied/drm-next into drm-misc-next")

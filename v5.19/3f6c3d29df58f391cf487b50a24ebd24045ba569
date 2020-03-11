@@ -1,0 +1,5 @@
+3f6c3d29df58 ("rcu: Don't assert interrupts enabled too early in boot")
+31d8aaa87fce ("rcu: Keep synchronize_rcu() from enabling irqs in early boot")
+bf95b2bc3e42 ("rcu: Switch polled grace-period APIs to ->gp_seq_polled")
+414c12385d47 ("rcu: Provide a get_completed_synchronize_rcu() function")
+2403e8044f22 ("rcu: Make normal polling GP be more precise about sequence numbers")

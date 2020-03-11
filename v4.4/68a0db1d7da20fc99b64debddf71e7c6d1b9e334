@@ -1,0 +1,7 @@
+68a0db1d7da2 ("serial: mvebu-uart: add function to change baudrate")
+9c3d3ee1239b ("serial: mvebu-uart: add soft reset at probe")
+5218d7695864 ("serial: mvebu-uart: use a generic way to access the registers")
+94228f9561bb ("serial: mvebu-uart: support probe of multiple ports")
+c2c1659b4f8f ("serial: mvebu-uart: free the IRQ in ->shutdown()")
+89ebc2742769 ("drivers/tty: make serial/mvebu-uart.c explicitly non-modular")
+30530791a7a0 ("serial: mvebu-uart: initial support for Armada-3700 serial port")

@@ -1,0 +1,6 @@
+b4fa966f03b7 ("mm, netfs, fscache: stop read optimisation when folio removed from pagecache")
+0201ebf274a3 ("mm: merge folio_has_private()/filemap_release_folio() call pairs")
+ac5efa782041 ("memory-failure: convert truncate_error_page() to use folio")
+64ab3195ea07 ("khugepage: replace try_to_release_page() with filemap_release_folio()")
+6dd8fe86fa84 ("ext4: convert move_extent_per_page() to use folios")
+6d751329e761 ("Merge branch 'mm-hotfixes-stable' into mm-stable")

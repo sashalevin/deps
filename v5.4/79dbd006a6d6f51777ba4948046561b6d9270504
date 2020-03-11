@@ -1,0 +1,6 @@
+79dbd006a6d6 ("kmsan: disable instrumentation of unsupported common kernel code")
+c1cb05e77f8e ("kcov: don't instrument with UBSAN")
+31a1b9878c06 ("kcov: unconditionally add -fno-stack-protector to compiler options")
+f1bc96210c6a ("kcsan: Make KCSAN compatible with lockdep")
+0ebba7141ead ("build, kcsan: Add KCSAN build exceptions")
+dfd402a4c4ba ("kcsan: Add Kernel Concurrency Sanitizer infrastructure")

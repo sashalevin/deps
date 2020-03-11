@@ -1,0 +1,4 @@
+d489f18ad1fc ("scsi: ufs: core: Fix synchronization between scsi_unjam_host() and ufshcd_queuecommand()")
+5586dd8ea250 ("scsi: ufs: Fix a race condition between error handler and runtime PM ops")
+c72e79c0ad2b ("scsi: ufs: Recover HBA runtime PM error in error handler")
+4db7a2360597 ("scsi: ufs: Fix concurrency of error handler and other error recovery paths")

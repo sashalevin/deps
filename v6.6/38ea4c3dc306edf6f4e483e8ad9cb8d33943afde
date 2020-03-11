@@ -1,0 +1,8 @@
+38ea4c3dc306 ("ALSA: control: Optimize locking for look-up")
+f428cc9eac6e ("ALSA: control: Rename ctl_files_rwlock to controls_rwlock")
+08ea486a6145 ("ALSA: control: Introduce snd_ctl_find_id_mixer_locked()")
+7dba48a474e6 ("ALSA: control_led: Use guard() for locking")
+471be437be77 ("ALSA: control: Use guard() for locking")
+2dc49651fca1 ("ALSA: mixer_oss: Use guard() for locking")
+6c40eec521af ("ALSA: mixer_oss: ump: Use automatic cleanup of kfree()")
+1052d9882269 ("ALSA: control: Use automatic cleanup of kfree()")

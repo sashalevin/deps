@@ -1,0 +1,7 @@
+a26116c1e740 ("virtio_blk: Fix signedness bug in virtblk_prep_rq()")
+258896fcc786 ("virtio-blk: use a helper to handle request queuing errors")
+37fafe6b61e4 ("virtio-blk: Fix WARN_ON_ONCE in virtio_queue_rq()")
+0e9911fa768f ("virtio-blk: support mq_ops->queue_rqs()")
+0466a39bd0b6 ("virtio-blk: modify the value type of num in virtio_queue_rq()")
+f0839372478e ("virtio_blk: correct types for status handling")
+02746e26c39e ("virtio-blk: avoid preallocating big SGL for data")

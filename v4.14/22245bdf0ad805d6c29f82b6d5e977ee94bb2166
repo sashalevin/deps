@@ -1,0 +1,5 @@
+22245bdf0ad8 ("x86/segments: Introduce the 'CPUNODE' naming to better document the segment limit CPU/node NR trick")
+b2e2ba578e01 ("x86/vdso: Initialize the CPU/node NR segment descriptor earlier")
+ffebbaedc861 ("x86/vdso: Introduce helper functions for CPU and node number")
+c4755613a133 ("x86/segments/64: Rename the GDT PER_CPU entry to CPU_NUMBER")
+e78e5a91456f ("x86/vdso: Fix lsl operand order")

@@ -1,0 +1,5 @@
+d5e90a699875 ("KVM: x86/mmu: Restrict mapping level based on guest MTRR iff they're used")
+4326e57ef40a ("KVM: MMU: change direct_page_fault() arguments to kvm_page_fault")
+c501040abc42 ("KVM: MMU: change mmu->page_fault() arguments to kvm_page_fault")
+6defd9bb178c ("KVM: MMU: Introduce struct kvm_page_fault")
+d055f028a533 ("KVM: MMU: pass unadulterated gpa to direct_page_fault")

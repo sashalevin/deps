@@ -1,0 +1,8 @@
+9cacb32a0ba6 ("ASoC: Drop snd_soc_*_get_kcontrol_locked()")
+38ea4c3dc306 ("ALSA: control: Optimize locking for look-up")
+f428cc9eac6e ("ALSA: control: Rename ctl_files_rwlock to controls_rwlock")
+4791c4229813 ("ASoC: cs35l45: Use new snd_soc_component_get_kcontrol_locked() helper")
+c8a132e2e032 ("ASoC: soc-component: Add new snd_soc_component_get_kcontrol() helpers")
+ef7784e41db7 ("ASoC: soc-card: Add KUnit test case for snd_soc_card_get_kcontrol")
+897cc72b0837 ("ASoC: soc-card: Use snd_ctl_find_id_mixer() instead of open-coding")
+08ea486a6145 ("ALSA: control: Introduce snd_ctl_find_id_mixer_locked()")

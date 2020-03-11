@@ -1,0 +1,5 @@
+57380fd1249b ("tools/virtio: Fix arm64 ringtest compilation error")
+81931012bd7d ("tools/virtio: remove smp_read_barrier_depends()")
+491847f3b29c ("tools/virtio: fix smp_mb on x86")
+b4eab7de6685 ("tools/virtio: copy READ/WRITE_ONCE")
+450cbdd0125c ("locking/x86: Use LOCK ADD for smp_mb() instead of MFENCE")

@@ -1,0 +1,8 @@
+39c8bf2b3cc1 ("powerpc: Retire e200 core (mpc555x processor)")
+7d4703455168 ("powerpc/feature: Remove CPU_FTR_NODSISRALIGN")
+8b14e1dff067 ("powerpc: Remove support for PowerPC 601")
+704dfe931df9 ("powerpc: Rewrite FSL_BOOKE flush_cache_instruction() in C")
+de39b19452e7 ("powerpc: Rewrite 4xx flush_cache_instruction() in C")
+f663f3312051 ("powerpc: Move flush_instruction_cache() prototype in asm/cacheflush.h")
+e426ab39f410 ("powerpc: Remove flush_instruction_cache for book3s/32")
+82eb1792426f ("powerpc: drop hard_reset_now() and poweroff_now() declaration")

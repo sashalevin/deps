@@ -1,0 +1,3 @@
+3159ed57792b ("fs/coredump: use kmap_local_page()")
+afc63a97b764 ("coredump: refactor page range dumping into common helper")
+8f942eea12ae ("binfmt_elf_fdpic: stop using dump_emit() on user pointers on !MMU")

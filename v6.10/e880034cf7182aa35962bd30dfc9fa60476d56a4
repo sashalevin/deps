@@ -1,0 +1,6 @@
+e880034cf718 ("mm: introduce page_mapcount_is_type()")
+cdd9a571b7d8 ("fs/proc: move page_mapcount() to fs/proc/internal.h")
+3689c3ebdd54 ("fs/proc/task_mmu: account non-present entries as "maybe shared, but no idea how often"")
+2c1f057e5be6 ("fs/proc/task_mmu: properly detect PM_MMAP_EXCLUSIVE per page of PMD-mapped THPs")
+da7f31ed0f4d ("fs/proc/task_mmu: don't indicate PM_MMAP_EXCLUSIVE without PM_PRESENT")
+3f9f022e975d ("fs/proc/task_mmu: indicate PM_FILE for PMD-mapped file THP")

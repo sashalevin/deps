@@ -1,0 +1,8 @@
+0399fd614714 ("serial: imx: rename variables to match the register names")
+9ce99a3a9284 ("tty: serial: imx: remove dead code imx_dma_rxint")
+18a4208826dd ("imx-serial: Reduce RX DMA startup latency when opening for reading")
+41d98b5da92f ("serial: imx-serial - update RX error counters when DMA is used")
+9d297239b8cb ("serial: imx-serial - update UART IMX driver to use cyclic DMA")
+27e16501052e ("serial: imx: implement DSR irq handling for DTE mode")
+16804d68bfaa ("serial: imx: make sure unhandled irqs are disabled")
+4d845a62b3f5 ("serial: imx: let irq handler return IRQ_NONE if no event was handled")

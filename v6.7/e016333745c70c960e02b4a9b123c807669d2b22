@@ -1,0 +1,4 @@
+e016333745c7 ("KVM: arm64: Only reset vCPU-scoped feature ID regs once")
+44cbe80b7616 ("KVM: arm64: Reset VM feature ID regs from kvm_reset_sys_regs()")
+592efc606b54 ("KVM: arm64: Rename is_id_reg() to imply VM scope")
+111903d1f5b9 ("KVM: arm64: nv: Hoist vcpu_has_nv() into is_hyp_ctxt()")

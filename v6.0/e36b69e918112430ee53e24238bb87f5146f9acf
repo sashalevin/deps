@@ -1,0 +1,6 @@
+e36b69e91811 ("scripts/faddr2line: Invoke addr2line as a single long-running process")
+5b280de46d2b ("scripts/faddr2line: Pass --addresses argument to addr2line")
+2c809186ccf0 ("scripts/faddr2line: Check vmlinux only once")
+39cf650d6828 ("scripts/faddr2line: Reduce number of readelf calls to three")
+180af1a5bdaf ("scripts/faddr2line: Don't filter out non-function symbols from readelf")
+2d77de1581bb ("scripts/faddr2line: Fix regression in name resolution on ppc64le")

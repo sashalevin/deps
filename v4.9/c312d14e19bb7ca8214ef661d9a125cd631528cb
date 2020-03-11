@@ -1,0 +1,8 @@
+c312d14e19bb ("powerpc/powernv/ioda: using kfree_rcu() to simplify the code")
+191c22879fbc ("powerpc/powernv: Move TCE manupulation code to its own file")
+7ef73cd39b4e ("powerpc/ioda: Use ibm, supported-tce-sizes for IOMMU page size mask")
+7f2c39e91f61 ("powerpc/powernv: Introduce new PHB type for opencapi links")
+9003a249815a ("powerpc/powernv/ioda: Remove explicit max window size check")
+81d5fe1a3b1a ("powerpc/powernv: Fix it_ops::get() callback to return in cpu endian")
+7aafac11e308 ("powerpc/powernv/ioda2: Gracefully fail if too many TCE levels requested")
+616badd2fb49 ("powerpc/powernv: Use OPAL call for TCE kill on NVLink2")

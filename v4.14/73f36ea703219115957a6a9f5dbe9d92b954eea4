@@ -1,0 +1,8 @@
+73f36ea70321 ("crypto: inside-secure - hmac(sha256) support")
+871df319bd48 ("crypto: inside-secure - EIP97 support")
+7f77f5a4fc08 ("crypto: inside-secure - handle more result requests when counter is full")
+2313e9f7ecaa ("crypto: inside-secure - acknowledge the result requests all at once")
+dc7e28a3286e ("crypto: inside-secure - dequeue all requests at once")
+8472e778108c ("crypto: inside-secure - move request dequeueing into a workqueue")
+c4daf4cc9c8d ("crypto: inside-secure - refrain from unneeded invalidations")
+1eb7b40386c9 ("crypto: inside-secure - per request invalidation")

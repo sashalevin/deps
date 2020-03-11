@@ -1,0 +1,8 @@
+9ea40db477c0 ("tty: serial: lpuart: fix lpuart32_write usage")
+56dd627fb223 ("tty: serial: fsl_lpuart: Introduce lpuart_wait_bit_set()")
+1da17d7cf8e2 ("tty: serial: fsl_lpuart: Use appropriate lpuart32_* I/O funcs")
+a5fa2660d787 ("tty/serial/fsl_lpuart: Add CONSOLE_POLL support for lpuart32.")
+a0204f25e15c ("tty: serial: lpuart: refactor lpuart32_{read|write} prototype")
+0d6fce904452 ("tty: serial: lpuart: introduce lpuart_soc_data to represent SoC property")
+abf1e0a98083 ("tty: serial: fsl_lpuart: lock port on console write")
+2a41bc2a2b05 ("tty: serial: fsl_lpuart: add polled console functions")

@@ -1,0 +1,6 @@
+1f5b62f09f6b ("ARM: vdso: Remove dependency with the arch_timer driver internals")
+f5fe12b1eaee ("ARM: spectre-v2: harden user aborts in kernel space")
+e388b80288aa ("ARM: spectre-v2: add Cortex A8 and A15 validation of the IBE bit")
+06c23f5ffe7a ("ARM: spectre-v2: harden branch predictor on context switches")
+c58d237d0852 ("ARM: spectre: add Kconfig symbol for CPUs vulnerable to Spectre")
+1238c4fd4812 ("ARM: 8729/1: Hook B15 readahead cache functions based on processor")

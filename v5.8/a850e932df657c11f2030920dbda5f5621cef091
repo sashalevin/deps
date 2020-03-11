@@ -1,0 +1,8 @@
+a850e932df65 ("mm: vmalloc: add cond_resched() in __vunmap()")
+121e6f3258fe ("mm/vmalloc: hugepage vmalloc mappings")
+4f6ec8602341 ("mm/vmalloc: separate put pages and flush VM flags")
+ba8f3587f556 ("init/main: fix broken buffer_init when DEFERRED_STRUCT_PAGE_INIT set")
+34fe653716b0 ("mm/vmalloc.c:__vmalloc_area_node(): avoid 32-bit overflow")
+f255935b9767 ("mm: cleanup the gfp_mask handling in __vmalloc_area_node")
+b944afc9d64d ("mm: add a VM_MAP_PUT_PAGES flag for vmap")
+4aab2be09830 ("mm: khugepaged: recalculate min_free_kbytes after memory hotplug as expected by khugepaged")

@@ -1,0 +1,8 @@
+54a6d0c6882d ("iio: imu: st_lsm6dsx: make st_lsm6dsx_check_odr() non-static")
+50ff457d1b32 ("iio: imu: st_lsm6dsx: add read_fifo callback to fifo_ops")
+92617c158ae4 ("iio: imu: st_lsm6dsx: add FIFO ops data structure")
+7ca3ac9e9eb9 ("iio: imu: st_lsm6dsx: move decimator info in st_lsm6dsx_sensor_settings")
+89ca88a7cdf2 ("iio: imu: st_lsm6dsx: support active-low interrupts")
+535de397b28a ("iio: imu: st_lsm6dsx: modify st_lsm6dsx_flush_fifo and st_lsm6dsx_set_fifo_mode scope")
+510c01063085 ("iio: imu: st_lsm6dsx: use i2c/spi device name for iio_dev name")
+edf5e79422a9 ("Merge tag 'iio-for-4.12c' of git://git.kernel.org/pub/scm/linux/kernel/git/jic23/iio into staging-next")

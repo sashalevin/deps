@@ -1,0 +1,6 @@
+0548eb067ed6 ("x86/percpu: Return correct variable from current_top_of_stack()")
+ed2f752e0e0a ("x86/percpu: Introduce const-qualified const_pcpu_hot to micro-optimize code generation")
+c063a217bc07 ("x86/percpu: Move current_top_of_stack next to current_task")
+7443b296e699 ("x86/percpu: Move cpu_number next to current_task")
+64701838bf05 ("x86/percpu: Move preempt_count next to current_task")
+e57ef2ed97c1 ("x86: Put hot per CPU variables into a struct")

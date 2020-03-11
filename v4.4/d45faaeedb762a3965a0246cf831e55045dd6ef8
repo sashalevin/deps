@@ -1,0 +1,5 @@
+d45faaeedb76 ("Drivers: hv: vmbus: Use READ_ONCE() to read variables that are volatile")
+a6341f000024 ("Drivers: hv: vmbus: Introduce functions for estimating room in the ring buffer")
+a389fcfd2cb5 ("Drivers: hv: vmbus: Fix signaling logic in hv_need_to_signal_on_read()")
+b5f53dde8d8e ("Drivers: hv: ring_buffer: remove code duplication from hv_ringbuffer_peek/read()")
+822f18d4d3e9 ("Drivers: hv: ring_buffer.c: fix comment style")

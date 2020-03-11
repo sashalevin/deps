@@ -1,0 +1,5 @@
+53c59d66c44c ("gpio: pca953x: Fully convert to device managed resources")
+2f4d3e293392 ("gpio: pca953x: Drop unused fields in struct pca953x_platform_data")
+ea0578713625 ("gpio: pca953x: Use i2c_get_match_data()")
+b41cabb7be3c ("gpio: Switch i2c drivers back to use .probe()")
+2148a7ac3b1a ("gpio: tpic2810: Use devm_gpiochip_add_data() to simplify remove path")

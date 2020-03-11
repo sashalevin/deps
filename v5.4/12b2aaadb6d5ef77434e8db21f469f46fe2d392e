@@ -1,0 +1,4 @@
+12b2aaadb6d5 ("nvme-rdma: fix in-casule data send for chained sgls")
+324d9e7814dd ("nvme-rdma: introduce nvme_rdma_sgl structure")
+38e1800275d3 ("nvme-rdma: Avoid preallocating big SGL for data")
+16686f3a6c3c ("nvme: move common call to nvme_cleanup_cmd to core layer")

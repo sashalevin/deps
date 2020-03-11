@@ -1,0 +1,4 @@
+d674553009af ("hisi_lpc: Use acpi_dev_for_each_child()")
+54872fea6a5a ("bus: hisi_lpc: fix missing platform_device_put() in hisi_lpc_acpi_probe()")
+10e62b47973b ("bus: hisi_lpc: Add .remove method to avoid driver unbind crash")
+705c0ee8d4a6 ("bus: hisi_lpc: Don't fail probe for unrecognised child devices")

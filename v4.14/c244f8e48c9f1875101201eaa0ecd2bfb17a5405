@@ -1,0 +1,6 @@
+c244f8e48c9f ("video: sa1100fb: clean up failure path")
+5634cbab489e ("video: sa1100fb: use devm_gpio_request_one()")
+f6fc8c9dbdc9 ("video: sa1100fb: use devm_request_irq()")
+df6b228768db ("video: sa1100fb: use devm_ioremap_resource()")
+e43064ccd4b4 ("video: sa1100fb: use devm_clk_get()")
+ba1d36ba09be ("video: sa1100fb: use devm_kzalloc()")

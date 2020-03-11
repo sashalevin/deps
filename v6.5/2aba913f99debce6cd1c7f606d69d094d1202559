@@ -1,0 +1,8 @@
+2aba913f99de ("ipv6/addrconf: annotate data-races around devconf fields (I)")
+32f754176e88 ("ipv6: annotate data-races around cnf.forwarding")
+a5fcea2d2f79 ("net: ipv6/addrconf: introduce a regen_min_advance sysctl")
+2aa8f155b095 ("net: ipv6/addrconf: ensure that regen_advance is at least 2 seconds")
+8cdafdd94654 ("Revert "net: ipv6/addrconf: clamp preferred_lft to the minimum required"")
+ec575f885e3e ("Documentation: networking: explain what happens if temp_prefered_lft is too small or too large")
+433d6c8048cb ("Documentation: networking: explain what happens if temp_valid_lft is too small")
+f31867d0d9d8 ("net: ipv6/addrconf: avoid integer underflow in ipv6_create_tempaddr")

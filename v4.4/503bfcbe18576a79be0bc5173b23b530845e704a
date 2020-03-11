@@ -1,0 +1,6 @@
+503bfcbe1857 ("KVM: PPC: Pass kvm* to kvmppc_find_table()")
+31217db72018 ("KVM: PPC: Create a virtual-mode only TCE table handlers")
+d3695aa4f452 ("KVM: PPC: Add support for multiple-TCE hcalls")
+5ee7af18642c ("KVM: PPC: Move reusable bits of H_PUT_TCE handler to helpers")
+462ee11e58c9 ("KVM: PPC: Replace SPAPR_TCE_SHIFT with IOMMU_PAGE_SHIFT_4K")
+fcbb2ce67284 ("KVM: PPC: Rework H_PUT_TCE/H_GET_TCE handlers")

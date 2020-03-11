@@ -1,0 +1,5 @@
+7a36dcfa16a5 ("drm/sched: Add drm_sched_start_timeout_unlocked helper")
+75973e5802af ("drm/sched: Make timeout timer rearm conditional.")
+a7fbb630c548 ("drm/scheduler: fix inconsistent locking of job_list_lock")
+135517d3565b ("drm/scheduler: Avoid accessing freed bad job.")
+588b9828f074 ("drm: Don't free jobs in wait_event_interruptible()")

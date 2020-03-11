@@ -1,0 +1,4 @@
+bc78b5ed9ff2 ("mm/mempolicy: clean up the code logic in queue_pages_pte_range")
+e5947d23edd8 ("mm: mempolicy: don't have to split pmd for huge zero page")
+d883544515aa ("mm: mempolicy: make the behavior consistent when MPOL_MF_MOVE* and MPOL_MF_STRICT were specified")
+a7f40cfe3b7a ("mm: mempolicy: make mbind() return -EIO when MPOL_MF_STRICT is specified")

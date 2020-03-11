@@ -1,0 +1,6 @@
+7ef51102d32d ("spi: meson-spicc: Use helper function devm_clk_get_enabled()")
+f4567b28fdd4 ("spi: meson-spicc: Use pinctrl to drive CLK line when idle")
+09992025dacd ("spi: meson-spicc: add local pow2 clock ops to preserve rate between messages")
+8311ee2164c5 ("spi: meson-spicc: fix memory leak in meson_spicc_remove")
+b2d501c13470 ("spi: meson-spicc: fix memory leak in meson_spicc_probe")
+95730d5eb731 ("spi: meson-spicc: fix a wrong goto jump for avoiding memory leak.")

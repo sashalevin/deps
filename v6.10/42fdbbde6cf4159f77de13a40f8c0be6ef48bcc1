@@ -1,0 +1,6 @@
+42fdbbde6cf4 ("selftests/bpf: A pro/epilogue test when the main prog jumps back to the 1st insn")
+b191b0fd7400 ("selftests/bpf: Add tailcall epilogue test")
+47e69431b57a ("selftests/bpf: Test gen_prologue and gen_epilogue")
+6db59c4935c9 ("selftests/bpf: Add test for zero offset or non-zero offset pointers as KF_ACQUIRE kfuncs argument")
+47a8cf0c5b3f ("selftests/bpf: Add kfunc_call test for simple dtor in bpf_testmod")
+2d45ab1eda46 ("selftests: bpf: add testmod kfunc for nullable params")

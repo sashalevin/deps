@@ -1,0 +1,4 @@
+c34c17750860 ("pinctrl: sunrisepoint: Get rid of unneeded ->probe() stub")
+558b34ba10e2 ("pinctrl: sunrisepoint: Define PM ops via INTEL_PINCTRL_PM_OPS()")
+0c03e92e7d66 ("pinctrl: sunrisepoint: Convert to use intel_pinctrl_probe_by_hid()")
+f25c3aa9085e ("pinctrl: intel: Convert to use devm_gpiochip_add_data()")

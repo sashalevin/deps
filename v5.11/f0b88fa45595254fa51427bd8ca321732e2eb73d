@@ -1,0 +1,6 @@
+f0b88fa45595 ("opp: Allow _set_opp() to work for non-freq devices")
+386ba854d9f3 ("opp: Split _set_opp() out of dev_pm_opp_set_rate()")
+81c4d8a3c414 ("opp: Keep track of currently programmed OPP")
+1d3c42cabbd3 ("opp: No need to check clk for errors")
+5ad58bbacf80 ("opp: Rename _opp_set_rate_zero()")
+04b447df1d09 ("opp: Make _set_opp_custom() work without regulators")

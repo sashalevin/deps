@@ -1,0 +1,8 @@
+007240d59c11 ("powerpc/imc-pmu: Use the correct spinlock initializer.")
+76d588dddc45 ("powerpc/imc-pmu: Fix use of mutex in IRQs disabled section")
+a36e8ba60b99 ("powerpc/perf: Implement a global lock to avoid races between trace, core and thread imc events.")
+012ae244845f ("powerpc/perf: Trace imc PMU functions")
+72c69dcddce1 ("powerpc/perf: Trace imc events detection and cpuhotplug")
+dd50cf7cbc7b ("powerpc/perf: Rearrange setting of ldbar for thread-imc")
+4851f75098bc ("powerpc/perf: Declare static identifier a such")
+5e2d059b52e3 ("Merge tag 'powerpc-4.19-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

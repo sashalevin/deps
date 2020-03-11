@@ -1,0 +1,6 @@
+e125fe405abe ("mm, thp: fix mlocking THP page with migration enabled")
+616b8371539a ("mm: thp: enable thp migration in generic path")
+8346242a7e32 ("rmap: fix NULL-pointer dereference on THP munlocking")
+3fe87967c536 ("mm: convert remove_migration_pte() to use page_vma_mapped_walk()")
+c7ab0d2fdc84 ("mm: convert try_to_unmap_one() to use page_vma_mapped_walk()")
+ace71a19cec5 ("mm: introduce page_vma_mapped_walk()")

@@ -1,0 +1,7 @@
+68fa9dbe0823 ("nvme-pci: fix race between poll and IRQ completions")
+1ab0cd6966fc ("nvme-pci: split the nvme queue lock into submission and completion locks")
+5cb525c8315f ("nvme-pci: handle completions outside of the queue lock")
+d1f06f4ae041 ("nvme-pci: move ->cq_vector == -1 check outside of ->q_lock")
+f9dde187fa92 ("nvme-pci: remove cq check after submission")
+750dde4472e4 ("nvme-pci: simplify nvme_cqe_valid")
+147b27e4bd08 ("nvme-pci: allocate device queues storage space at probe")

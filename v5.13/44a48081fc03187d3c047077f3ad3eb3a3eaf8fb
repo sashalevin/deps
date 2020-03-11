@@ -1,0 +1,5 @@
+44a48081fc03 ("smb3: remove unneeded null check in cifs_readdir")
+d87c48ce4d89 ("cifs: cache the dirents for entries in a cached directory")
+f695b2893505 ("cifs: move definition of cifs_fattr earlier in cifsglob.h")
+9e992755be8f ("cifs: Call close synchronously during unlink/rename/lease break.")
+41535701da33 ("cifs: Handle race conditions during rename")

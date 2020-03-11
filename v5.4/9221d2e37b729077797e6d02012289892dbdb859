@@ -1,0 +1,6 @@
+9221d2e37b72 ("iov_iter_alignment(): don't bother with iterate_all_kinds()")
+3d14ec1fe61a ("iov_iter: Four fixes for ITER_XARRAY")
+7ff5062079ef ("iov_iter: Add ITER_XARRAY")
+54c8195b4ebe ("iov_iter: optimise bvec iov_iter_advance()")
+e0ff126ee7ad ("pipe: Fix bogus dereference in iov_iter_alignment()")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")

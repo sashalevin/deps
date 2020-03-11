@@ -1,0 +1,7 @@
+97219cc358ad ("mm/Kconfig: make userfaultfd a menuconfig")
+ca92ea3dc5a2 ("mm: always compile in pte markers")
+430529b5c631 ("mm/uffd: move USERFAULTFD configs into mm/")
+81e0f15f2ef6 ("mm: enable PTE markers by default")
+1db9dbc2ef05 ("mm/uffd: PTE_MARKER_UFFD_WP")
+5c041f5d1f23 ("mm: teach core mm about pte markers")
+679d10331910 ("mm: introduce PTE_MARKER swap entry")

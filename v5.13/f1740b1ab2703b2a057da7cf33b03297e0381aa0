@@ -1,0 +1,6 @@
+f1740b1ab270 ("drm/amdgpu: skip fence GFX interrupts disable/enable for S0ix")
+3083b1007d4b ("drm/amdgpu: skip disabling fence driver src_irqs when device is unplugged")
+067f44c8b459 ("drm/amdgpu: avoid over-handle of fence driver fini in s3 test (v2)")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")
+54a85db8dea4 ("drm/amdgpu: Fix hang on device removal.")
+72c8c97b1522 ("drm/amdgpu: Split amdgpu_device_fini into early and late")

@@ -1,0 +1,7 @@
+c029e487e7c0 ("riscv: spinwait: Fix hartid variable type")
+c78f94f35cf6 ("RISC-V: Use __cpu_up_stack/task_pointer only for spinwait method")
+44c922572952 ("RISC-V: enable XIP")
+a9451b8e1971 ("riscv: Set ARCH_HAS_STRICT_MODULE_RWX if MMU")
+de31ea4a1181 ("riscv: Mark some global variables __ro_after_init")
+2bfc6cd81bd1 ("riscv: Move kernel mapping outside of linear mapping")
+2f100585d045 ("riscv: Enable generic clockevent broadcast")

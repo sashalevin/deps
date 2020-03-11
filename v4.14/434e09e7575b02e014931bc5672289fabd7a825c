@@ -1,0 +1,5 @@
+434e09e7575b ("locking/qrwlock: Change "queue rwlock" to "queued rwlock"")
+26128cb6c7e6 ("locking/rwlocks: Add contention detection for rwlocks")
+b519b56e378e ("locking/qrwlock: Use atomic_cond_read_acquire() when spinning in qrwlock")
+e0d02285f16e ("locking/qrwlock: Use 'struct qrwlock' instead of 'struct __qrwlock'")
+a8a217c22116 ("locking/core: Remove {read,spin,write}_can_lock()")

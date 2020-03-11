@@ -1,0 +1,7 @@
+8886b6d681f2 ("wifi: qtnfmac: Remove generic .ndo_get_stats64")
+45fc3fd4308c ("qtnfmac: switch to core handling of rx/tx byte/packet counters")
+1f68b2096f65 ("qtnfmac: use new function dev_fetch_sw_netstats")
+4e14e76cee38 ("qtnfmac: advertise netdev port parent ID")
+decfc5c70d20 ("qtnfmac: track broadcast domain of each interface")
+0756e913fc02 ("qtnfmac: add support for getting/setting transmit power")
+46d55fcec163 ("qtnfmac: send EAPOL frames via control path")

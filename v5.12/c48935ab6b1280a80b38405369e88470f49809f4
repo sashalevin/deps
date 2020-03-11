@@ -1,0 +1,8 @@
+c48935ab6b12 ("drm/dp_helper: Mention the concurrency requirement hw_mutex")
+14407d3afed0 ("drm/dp_helper: Rework the drm_dp_aux documentation")
+6cba3fe43341 ("drm/dp: Add backpointer to drm_device in drm_dp_aux")
+eaf8974ea2d9 ("drm/bridge/cdns-mhdp8546: Register DP aux channel with userspace")
+39c17ae60ea9 ("drm/tegra: Don't register DP AUX channels before connectors")
+45d969992c18 ("drm/dp: Fixup kernel docs for struct drm_dp_aux")
+617126187530 ("drm/bridge/ti-sn65dsi86: (Un)register aux device on bridge attach/detach")
+85ddbe2c4ac1 ("drm/bridge/tc358767: Don't register DP AUX channel until bridge is attached")

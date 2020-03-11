@@ -1,0 +1,6 @@
+79ddab3b05ca ("arm64: assembler: Align phys_to_pte with pte_to_phys")
+f992b4dfd58b ("arm64: kpti: Add ->enable callback to remap swapper using nG mappings")
+3060e9f0d14b ("arm64: Add software workaround for Falkor erratum 1041")
+0370b31e4845 ("arm64: Extend early page table code to allow for larger kernels")
+9dfe4828aa32 ("arm64: Re-order reserved_ttbr0 in linker script")
+1f911c3a1140 ("Merge branch 'for-next/52-bit-pa' into for-next/core")

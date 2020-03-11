@@ -1,0 +1,4 @@
+7b367bc9a641 ("KVM: x86/mmu: Return -EIO if page fault returns RET_PF_INVALID")
+7a02674d154d ("KVM: x86/mmu: Avoid retpoline on ->page_fault() with TDP")
+cb9b88c66939 ("KVM: x86/mmu: Refactor handling of cache consistency with TDP")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

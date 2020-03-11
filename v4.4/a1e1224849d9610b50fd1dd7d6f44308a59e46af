@@ -1,0 +1,4 @@
+a1e1224849d9 ("rcu: Make cond_resched_rcu_qs() supply RCU-sched expedited QS")
+46a5d164db53 ("rcu: Stop disabling interrupts in scheduler fastpaths")
+fecbf6f01fbd ("rcu: Simplify rcu_sched_qs() control flow")
+2a67e741bbbc ("rcu: Create transitive rnp->lock acquisition functions")

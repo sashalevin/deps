@@ -1,0 +1,8 @@
+7860d720a84c ("drm/msm: Fix build break with recent mm tree")
+025d27239a2f ("drm/msm/gem: Evict active GEM objects when necessary")
+dd2f0d785992 ("drm/msm/gem: Consolidate shrinker trace")
+b352ba54a820 ("drm/msm/gem: Convert to using drm_gem_lru")
+da53d8b54647 ("drm/msm/gem: Remove active refcnt")
+901df24d7ca6 ("drm/msm/gem: Rename update_inactive")
+01780d02634a ("drm/msm/gem: Check for active in shrinker path")
+a414fe3a2129 ("drm/msm/gem: Drop obj lock in msm_gem_free_object()")

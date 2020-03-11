@@ -1,0 +1,6 @@
+a41b05edfedb ("SUNRPC/auth: async tasks mustn't block waiting for memory")
+4c2883e77c5f ("SUNRPC/auth_gss: Convert GFP_NOFS to GFP_KERNEL")
+0adc87940618 ("SUNRPC: Convert GFP_NOFS to GFP_KERNEL")
+dc48e0abee24 ("SUNRPC enforce creation of no more than max_connect xprts")
+e4a7d1f7707e ("SUNRPC: Handle 0 length opaque XDR object data properly")
+ba6dfce47c4d ("SUNRPC: Move simple_get_bytes and simple_get_netobj into private header")

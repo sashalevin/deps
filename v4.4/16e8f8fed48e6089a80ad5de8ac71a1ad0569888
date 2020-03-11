@@ -1,0 +1,6 @@
+16e8f8fed48e ("iio: adc: ti_am335x_adc: Get rid of useless gotos")
+3c5308058899 ("iio: adc: ti_am335x_adc: alloc kfifo & IRQ via devm_ functions")
+6ff0199a1df2 ("iio: adc: ti_am335x_adc: alloc channels via devm_kcalloc()")
+f438b9da75eb ("drivers: iio: ti_am335x_adc: add dma support")
+90c43ec6997a ("iio: adc: ti_am335x_adc: Protect FIFO1 from concurrent access")
+fea89e2dfcea ("iio: adc: ti_am335x_adc: use variable names for sizeof() operator")

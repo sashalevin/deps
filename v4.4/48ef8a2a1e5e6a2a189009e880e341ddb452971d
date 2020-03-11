@@ -1,0 +1,5 @@
+48ef8a2a1e5e ("mmc: host: sdhci: Implement the request_atomic() API")
+d462c1b47452 ("mmc: sdhci: Export sdhci_request()")
+606d31312409 ("mmc: sdhci: Rename sdhci_set_power() to sdhci_set_power_noreg()")
+1dceb0415aa0 ("mmc: sdhci: Fix regression setting power on Trats2 board")
+918f4cbd4340 ("mmc: sdhci: restore behavior when setting VDD via external regulator")

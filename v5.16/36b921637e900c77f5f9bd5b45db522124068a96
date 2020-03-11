@@ -1,0 +1,6 @@
+36b921637e90 ("ACPI: processor: Add acpi_get_processor_handle() helper")
+1f6277bf716c ("ACPI: bus: Add stub acpi_sleep_state_supported() in non-ACPI cases")
+56368029d93b ("PCI/ACPI: negotiate CXL _OSC")
+241d26bc26ad ("PCI/ACPI: Prefer CXL _OSC instead of PCIe _OSC for CXL host bridges")
+cc10eee95204 ("PCI/ACPI: add a helper for retrieving _OSC Control DWORDs")
+843438deebe2 ("PCI/ACPI: Fix acpi_pci_osc_control_set() kernel-doc comment")

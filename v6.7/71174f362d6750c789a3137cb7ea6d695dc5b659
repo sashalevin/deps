@@ -1,0 +1,7 @@
+71174f362d67 ("drm/msm/dpu: move writeback's atomic_check to dpu_writeback.c")
+a780a82a58ec ("drm/msm/dpu: add an API to setup the CDM block for writeback")
+9c4998efec47 ("drm/msm/dpu: move csc matrices to dpu_hw_util")
+79caf2f2202b ("drm/msm/dpu: fix writeback programming for YUV cases")
+ecf594453a6f ("drm/msm/dpu: rename dpu_encoder_phys_wb_setup_cdp to match its functionality")
+043e5b302625 ("drm/msm/dpu: add formats check for writeback encoder")
+73169b45e1ed ("drm/msm/dpu: use drmm-managed allocation for dpu_encoder_phys")

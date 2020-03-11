@@ -1,0 +1,8 @@
+dd35ec070457 ("arm64/cpufeature: Introduce ID_DFR1 CPU register")
+16824085a7dd ("arm64/cpufeature: Introduce ID_PFR2 CPU register")
+2a5bc6c47bc3 ("arm64/cpufeature: Add explicit ftr_id_isar0[] for ID_ISAR0 register")
+1efcfe79d97d ("arm64: cpufeature: Factor out checking of AArch32 features")
+13dc4d836179 ("arm64: cpufeature: Remove redundant call to id_aa64pfr0_32bit_el0()")
+0113340e6e83 ("arm64: cpufeature: Spell out register fields for ID_ISAR4 and ID_PFR1")
+c854188ea010 ("KVM: arm64: limit PMU version to PMUv3 for ARMv8.1")
+8e3747beff8c ("arm64: Introduce ID_ISAR6 CPU register")

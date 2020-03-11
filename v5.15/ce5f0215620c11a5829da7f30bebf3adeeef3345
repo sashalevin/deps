@@ -1,0 +1,5 @@
+ce5f0215620c ("KVM: Use "new" memslot's address space ID instead of dedicated param")
+4e4d30cb9b87 ("KVM: Resync only arch fields when slots_arch_lock gets reacquired")
+47ea7d900b1c ("KVM: Open code kvm_delete_memslot() into its only caller")
+afa319a54a8c ("KVM: Require total number of memslot pages to fit in an unsigned long")
+bda44d844758 ("KVM: Ensure local memslot copies operate on up-to-date arch-specific data")

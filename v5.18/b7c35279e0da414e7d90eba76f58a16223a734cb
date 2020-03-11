@@ -1,0 +1,7 @@
+b7c35279e0da ("x86/mm: Cleanup prctl_enable_tagged_addr() nr_bits error checking")
+3b299b99556c ("x86/mm: Use IPIs to synchronize LAM enablement")
+2f8794bd087e ("x86/mm: Provide arch_prctl() interface for LAM")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+5ef495e55f07 ("x86: Allow atomic MM_CONTEXT flags setting")
+c9fe66560bf2 ("mm/mprotect: do not flush when not required architecturally")
+4a18419f71cd ("mm/mprotect: use mmu_gather")

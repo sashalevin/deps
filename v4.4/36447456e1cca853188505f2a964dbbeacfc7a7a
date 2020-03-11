@@ -1,0 +1,8 @@
+36447456e1cc ("ima/policy: fix parsing of fsuuid")
+787d8c530af7 ("ima/policy: switch to use uuid_t")
+1dd771eb0b09 ("block: remove blk_part_pack_uuid")
+63579785752b ("include/linux/genhd.h: move to use generic UUID library")
+b8b572789cde ("security/integrity/ima/ima_policy.c: use %pU to output UUID in printable format")
+80eae209d63a ("IMA: allow reading back the current IMA policy")
+38d859f991f3 ("IMA: policy can now be updated multiple times")
+f4dc37785e9b ("integrity: define '.evm' as a builtin 'trusted' keyring")

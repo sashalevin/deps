@@ -1,0 +1,5 @@
+0fde2f23516a ("drm/i915/gt: Poll aux invalidation register bit on invalidation")
+b2f59e902603 ("drm/i915: Add the gen12_needs_ccs_aux_inv helper")
+29063c6a6a57 ("drm/i915/mtl: Add gsi_offset when emitting aux table invalidation")
+d8b932014c4a ("drm/i915: avoid concurrent writes to aux_inv")
+6639fabb1685 ("drm/i915/xehp: Drop aux table invalidation on FlatCCS platforms")

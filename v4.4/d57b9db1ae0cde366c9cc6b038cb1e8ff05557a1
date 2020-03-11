@@ -1,0 +1,4 @@
+d57b9db1ae0c ("ftgmac100: Make the MDIO bus a child of the ethernet device")
+eb4181849f58 ("net/faraday: Helper functions to create or destroy MDIO interface")
+b3c40adcc989 ("net: ethernet: ftgmac100: use phydev from struct net_device")
+e7f4dc3536a4 ("mdio: Move allocation of interrupts into core")

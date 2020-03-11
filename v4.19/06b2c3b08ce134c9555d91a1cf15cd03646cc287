@@ -1,0 +1,4 @@
+06b2c3b08ce1 ("mm/memcg: use struct_size() helper in kzalloc()")
+b9726c26dc21 ("numa: make "nr_node_ids" unsigned int")
+66f71da9dd38 ("mm/swap: use nr_node_ids for avail_lists in swap_info_struct")
+873d7bcfd066 ("mm/swapfile.c: use kvzalloc for swap_info_struct allocation")

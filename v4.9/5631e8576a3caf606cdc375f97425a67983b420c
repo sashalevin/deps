@@ -1,0 +1,6 @@
+5631e8576a3c ("pstore/ram: Avoid allocation and leak of platform data")
+c443a5f3f1f1 ("pstore: improve error report for failed setup")
+a1cf53ac6d15 ("ramoops: Split ftrace buffer space into per-CPU zones")
+de83209249d6 ("pstore: Make ramoops_init_przs generic for other prz arrays")
+663deb47880f ("pstore: Allow prz to control need for locking")
+109704492ef6 ("pstore: Make spinlock per zone instead of global")

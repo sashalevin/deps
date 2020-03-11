@@ -1,0 +1,8 @@
+6ca265571b9e ("net: ethernet: mtk_eth_soc: increase MAX_DEVS to 3")
+93b2591ad0d0 ("net: ethernet: mtk_eth_soc: add dma checks to mtk_hw_reset_check")
+a9724b9c477f ("net: ethernet: mtk_eth_soc: introduce mtk_hw_warm_reset support")
+bccd19bce0b6 ("net: ethernet: mtk_eth_soc: introduce mtk_hw_reset utility routine")
+ef8c373bd91d ("net: ethernet: mtk_eth_soc: fix RSTCTRL_PPE{0,1} definitions")
+b677d6c7a695 ("net: ethernet: mtk_eth_soc: do not overwrite mtu configuration running reset routine")
+0c1d3fb9c2b7 ("net: ethernet: mtk_eth_soc: move wdma_base definitions in mtk register map")
+329bce5139cf ("net: ethernet: mtk_eth_soc: move gdma_to_ppe and ppe_base definitions in mtk register map")

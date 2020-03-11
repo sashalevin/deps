@@ -1,0 +1,8 @@
+16afe125b53f ("iio: core: move 'mlock' to 'struct iio_dev_opaque'")
+0a8565425afd ("iio: core: introduce iio_device_{claim|release}_buffer_mode() APIs")
+2bc9cd66eb25 ("iio: Use per-device lockdep class for mlock")
+319dbcd84fd2 ("iio: Directly use ida_alloc()/free()")
+51570c9d4b3a ("iio: core: Move the currentmode entry to the opaque structure")
+8c576f87ad7e ("iio: core: Hide read accesses to iio_dev->currentmode")
+2f53b4adfede ("iio: Un-inline iio_buffer_enabled()")
+a8b6d6708bb6 ("iio: core: Enhance the kernel doc of modes and currentmodes iio_dev entries")

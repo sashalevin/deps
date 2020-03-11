@@ -1,0 +1,6 @@
+dc9511dd6f37 ("sctp: annotate data-races around sk->sk_wmem_queued")
+cd305c74b0f8 ("sctp: use sk_wmem_queued to check for writable space")
+605c0ac182c3 ("sctp: count both sk and asoc sndbuf with skb truesize and sctp_chunk size")
+0aee4c259849 ("sctp: Fix double free in sctp_sendmsg_to_asoc")
+f84af33138a8 ("sctp: factor out sctp_sendmsg_to_asoc from sctp_sendmsg")
+c02b3741eb99 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

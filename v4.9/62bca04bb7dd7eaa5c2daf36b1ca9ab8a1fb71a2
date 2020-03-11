@@ -1,0 +1,8 @@
+62bca04bb7dd ("md/raid10: fix compile warning")
+9631abdbf406 ("md: Set MD_BROKEN for RAID1 and RAID10")
+62f7b1989c02 ("md raid0/linear: Mark array as 'broken' and fail BIOs if a member is gone")
+9d4b45d6af44 ("md: don't report active array_state until after revalidate_disk() completes.")
+9a567843f7ce ("md: allow last device to be forcibly removed from RAID1/RAID10.")
+4b6c1060eaa6 ("md: fix md_write_start() deadlock w/o metadata devices")
+35bfc52187f6 ("md: allow metadata update while suspending.")
+3645e6d0dc80 ("Merge tag 'md/4.14-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/shli/md")

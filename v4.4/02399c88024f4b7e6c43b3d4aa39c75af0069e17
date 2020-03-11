@@ -1,0 +1,4 @@
+02399c88024f ("mm/smaps: use vma->vm_pgoff directly when counting partial swap")
+48131e03ca4e ("mm, proc: reduce cost of /proc/pid/smaps for unpopulated shmem mappings")
+6a15a37097c7 ("mm, proc: reduce cost of /proc/pid/smaps for shmem mappings")
+c261e7d94f0d ("mm, proc: account for shmem swap in /proc/pid/smaps")

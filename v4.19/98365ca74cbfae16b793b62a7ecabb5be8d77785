@@ -1,0 +1,8 @@
+98365ca74cbf ("drm/tegra: convert to struct drm_edid")
+2db4578ef6ff ("drm/tegra: output: Fix missing i2c_put_adapter() in the error handling paths of tegra_output_probe()")
+de383d8008c1 ("drm/tegra: Switch to using devm_fwnode_gpiod_get()")
+2340dc15f05f ("drm/tegra: Properly reference count the DDC I2C adapter")
+6f684de537bc ("drm/tegra: sor: Hook up I2C-over-AUX to output")
+2a6fc3cb5cb6 ("drm/tegra: Fix gpiod_get_from_of_node() regression")
+bbad640709fd ("drm/tegra: Use GPIO descriptor API")
+f25d0a68beb8 ("drm/tegra: Refactor CEC support")

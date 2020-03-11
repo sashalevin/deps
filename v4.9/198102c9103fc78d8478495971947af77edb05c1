@@ -1,0 +1,7 @@
+198102c9103f ("cacheinfo: Fix shared_cpu_map to handle shared caches at different levels")
+521103134a0d ("cacheinfo: Align checks in cache_shared_cpu_map_{setup,remove} for readability")
+b14e8d21f726 ("cacheinfo: Add helper to access any cache index for a given CPU")
+d529a18a61f3 ("drivers: base: cacheinfo: move cache_setup_of_node()")
+dfea747d2aba ("drivers: base: cacheinfo: support DT overrides for cache properties")
+55877ef45fbd ("drivers: base: cacheinfo: fix boot error message when acpi is enabled")
+fac51482577d ("drivers: base: cacheinfo: fix x86 with CONFIG_OF enabled")

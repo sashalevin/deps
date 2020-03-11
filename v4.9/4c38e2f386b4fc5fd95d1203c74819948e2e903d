@@ -1,0 +1,4 @@
+4c38e2f386b4 ("bpf, x64: save few bytes when mul is in alu32")
+d806a0cf2a1d ("bpf, x64: save several bytes when mul dest is r0/r3 anyway")
+6fe8b9c1f41d ("bpf, x64: save several bytes by using mov over movabsq when possible")
+7e56fbd27b4b ("bpf, x86_64/arm64: remove old ldimm64 artifacts from jits")

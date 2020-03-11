@@ -1,0 +1,5 @@
+4b42fb213678 ("mm/hmm: bypass devmap pte when all pfn requested flags are fulfilled")
+2733ea144dcc ("mm/hmm: remove the customizable pfn format from hmm_range_fault")
+5c8f3c4cf18a ("mm/hmm: remove HMM_PFN_SPECIAL")
+4e2490843d55 ("drm/amdgpu: remove dead code after hmm_range_fault()")
+be957c886d92 ("mm/hmm: make hmm_range_fault return 0 or -1")

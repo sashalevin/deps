@@ -1,0 +1,5 @@
+a3366db06bb6 ("perf report: Fix wrong iteration count in --branch-history")
+bf36eb5c4b3e ("perf report: Properly handle branch count in match_chain()")
+9856240ad326 ("perf callchain: Compare symbol name for inlined frames when matching")
+cbe50f61727f ("perf report: Fall-back to function name comparison for -g srcline")
+40a342cda2cd ("perf callchain: Store srcline in callchain_cursor_node")

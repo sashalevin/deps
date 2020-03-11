@@ -1,0 +1,5 @@
+f14618c6823e ("quota: Push dqio_sem down to ->get_next_id()")
+0cff9151d3fa ("quota: Acquire dqio_sem for reading in dquot_get_next_id()")
+bc8230ee8e2b ("quota: Convert dqio_mutex to rwsem")
+c3b004460d77 ("quota: Remove dqonoff_mutex")
+9d1ccbe70e0b ("quota: Use s_umount protection for quota operations")

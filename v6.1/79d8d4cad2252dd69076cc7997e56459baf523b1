@@ -1,0 +1,6 @@
+79d8d4cad225 ("tools/nolibc: s390: disable stackprotector in _start")
+d5b48f958b36 ("tools/nolibc: remove local definitions of O_* flags for open/fcntl")
+7f8548589661 ("tools/nolibc: make compiler and assembler agree on the section around _start")
+18a5a09d90a7 ("nolibc: add support for s390")
+00b18da40893 ("tools/nolibc: fix the O_* fcntl/open macro definitions for riscv")
+184177c3d6e0 ("tools/nolibc: restore mips branch ordering in the _start block")

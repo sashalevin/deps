@@ -1,0 +1,4 @@
+124d0d8daf85 ("net/mlx5e: XDP, Remove un-established assumptions on XDP buffer")
+39a1665d16a2 ("net/mlx5e: Implement sending multi buffer XDP frames")
+9ded70fa1d81 ("net/mlx5e: Don't prefill WQEs in XDP SQ in the multi buffer mode")
+49529a172685 ("net/mlx5e: Move mlx5e_xdpi_fifo_push out of xmit_xdp_frame")

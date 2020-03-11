@@ -1,0 +1,6 @@
+4a4cd70369f1 ("l2tp: don't set sk_user_data in tunnel socket")
+b9fb10d131b8 ("l2tp: prevent lockdep issue in l2tp_tunnel_register()")
+af295e854a4e ("l2tp: Don't sleep and disable BH under writer-side sk_callback_lock")
+b68777d54fac ("l2tp: Serialize access to sk_user_data with sk_callback_lock")
+69e16d01d1de ("net: fix a concurrency bug in l2tp_tunnel_register()")
+f8504f4ca0a0 ("l2tp: fix a sock refcnt leak in l2tp_tunnel_register")

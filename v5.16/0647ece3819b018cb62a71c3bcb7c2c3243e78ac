@@ -1,0 +1,6 @@
+0647ece3819b ("drm/i915/selftests: Fix engine reset count storage for multi-tile")
+0c29efa23f5c ("drm/i915/selftests: Consider multi-gt instead of to_gt()")
+8c2699fad60e ("drm/i915/selftests: Use to_gt() helper")
+030def2cc91f ("drm/i915: Store backpointer to GT in uncore")
+9a7fc952717e ("drm/i915: Skip error capture when wedged on init")
+498f02b657b7 ("drm/i915: split general MMIO setup from per-GT uncore init")

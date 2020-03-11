@@ -1,0 +1,5 @@
+658a337a606f ("s390/dasd: fix hanging device offline processing")
+41995342b40c ("s390/dasd: fix endless loop after read unit address configuration")
+ec530174c437 ("s390/dasd: only use preallocated requests")
+c5205f2ff2be ("s390/dasd: move dasd_ccw_req to per request data")
+f0f59a2fab8e ("s390/dasd: use blk_mq_rq_from_pdu for per request data")

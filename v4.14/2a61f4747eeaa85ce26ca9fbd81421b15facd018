@@ -1,0 +1,6 @@
+2a61f4747eea ("stack-protector: test compiler capability in Kconfig and drop AUTO mode")
+5d20ee3192a5 ("kbuild: Allow LD_DEAD_CODE_DATA_ELIMINATION to be selectable if enabled")
+6358d6e8b984 ("kbuild: remove incremental linking option")
+44c6dc940b19 ("Makefile: introduce CONFIG_CC_STACKPROTECTOR_AUTO")
+2bc2f688fdf8 ("Makefile: move stack-protector availability out of Kconfig")
+2b8383927525 ("Makefile: move stack-protector compiler breakage test earlier")

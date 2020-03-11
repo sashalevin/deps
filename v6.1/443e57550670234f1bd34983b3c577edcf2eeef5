@@ -1,0 +1,8 @@
+443e57550670 ("io_uring: combine poll tw handlers")
+973fc83f3a94 ("io_uring: defer all io_req_complete_failed")
+c06c6c5d2767 ("io_uring: always lock in io_apoll_task_func")
+1bec951c3809 ("io_uring: iopoll protect complete_post")
+fa18fa2272c7 ("io_uring: inline __io_req_complete_put()")
+e276ae344a77 ("io_uring: hold locks for io_req_complete_failed")
+f9d567c75ec2 ("io_uring: inline __io_req_complete_post()")
+cd42a53d25d4 ("io_uring/poll: remove outdated comments of caching")

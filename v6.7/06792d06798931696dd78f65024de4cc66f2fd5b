@@ -1,0 +1,7 @@
+06792d067989 ("iommu/vt-d: Cleanup use of iommu_flush_iotlb_psi()")
+129dab6e1286 ("iommu/vt-d: Use cache_tag_flush_range_np() in iotlb_sync_map")
+304b3bde24b5 ("iommu/vt-d: Remove caching mode check before device TLB flush")
+5e54e861f16f ("iommu/vt-d: Add missing device iotlb flush for parent domain")
+821985301124 ("iommu/vt-d: Add missing iotlb flush for parent domain")
+0455d317f533 ("iommu/vt-d: Add __iommu_flush_iotlb_psi()")
+80b79e141da7 ("iommu/vt-d: Move inline helpers to header files")

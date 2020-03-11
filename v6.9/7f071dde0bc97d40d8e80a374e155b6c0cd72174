@@ -1,0 +1,6 @@
+7f071dde0bc9 ("drm/i915/bmg: Lane reversal requires writes to both context lanes")
+f526535860e3 ("drm/i915/cx0: pass encoder instead of i915 and port around")
+7fcf755896a3 ("drm/i915/display: use intel_encoder_is/to_* functions")
+0a099232d254 ("drm/i915/snps: pass encoder to intel_snps_phy_update_psr_power_state()")
+684a37a6ffa9 ("drm/i915/ddi: pass encoder to intel_wait_ddi_buf_active()")
+65ea19a698f2 ("drm/i915/hdmi: convert *_port_to_ddc_pin() to *_encoder_to_ddc_pin()")

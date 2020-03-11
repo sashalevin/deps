@@ -1,0 +1,6 @@
+0fbcb5251fc8 ("ext4: disable fast-commit of encrypted dir operations")
+7af1974af0a9 ("ext4: fix ext4_fc_stats trace point")
+c864ccd182d6 ("ext4: remove unused enum EXT4_FC_COMMIT_FAILED")
+e85c81ba8859 ("ext4: fast commit may not fallback for ineligible commit")
+0915e464cb27 ("ext4: simplify updating of fast commit stats")
+7bbbe241ec7c ("ext4: drop ineligible txn start stop APIs")

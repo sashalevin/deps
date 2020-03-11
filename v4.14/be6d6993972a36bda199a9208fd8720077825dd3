@@ -1,0 +1,5 @@
+be6d6993972a ("crypto: arm/aes-neonbs - avoid loading reorder argument on encryption")
+2ed8b79098cf ("crypto: arm/aes-neonbs - implement ciphertext stealing for XTS")
+46a22776bc97 ("crypto: arm/aes-ce - yield the SIMD unit between scatterwalk steps")
+fcb0e30df0e8 ("crypto: arm/aes - fix round key prototypes")
+26d85e5f3b68 ("crypto: arm/aes-neonbs - Use PTR_ERR_OR_ZERO()")

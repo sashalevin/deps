@@ -1,0 +1,8 @@
+9c535237245e ("i2c: i801: Fix missing Kconfig dependency")
+80e56b86b59e ("i2c: i801: Simplify class-based client device instantiation")
+4c5910631cc1 ("i2c: i801: Improve i801_add_mux")
+5581b4167c0f ("i2c: i801: Refactor mux code since platform_device_unregister() is NULL aware")
+926e6b2cd1ca ("i2c: i801: Drop duplicate NULL check in i801_del_mux()")
+01590f361e94 ("i2c: i801: Instantiate SPD EEPROMs automatically")
+be1b92c133cc ("i2c: i801: Use GPIO_LOOKUP() helper macro")
+45c9cc681d8d ("Merge branch 'i2c-mux/for-next' of https://github.com/peda-r/i2c-mux into i2c/for-5.3")

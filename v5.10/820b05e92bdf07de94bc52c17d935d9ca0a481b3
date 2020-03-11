@@ -1,0 +1,6 @@
+820b05e92bdf ("filemap: Use a folio in filemap_map_pages")
+9184a307768b ("filemap: Use folios in next_uptodate_page")
+9144785b0276 ("filemap: Remove PageHWPoison check from next_uptodate_page()")
+9d3af4b448a1 ("mm: Pass 'address' to map to do_set_pte() and drop FAULT_FLAG_PREFAULT")
+46bdb4277f98 ("mm: Allow architectures to request 'old' entries when prefaulting")
+f9ce0be71d1f ("mm: Cleanup faultaround and finish_fault() codepaths")

@@ -1,0 +1,8 @@
+0b75f7968d61 ("tty/vt: consolemap: remove extern from function decls")
+d73568c4ccb0 ("vt: make vc_data pointers const in selection.h")
+9bfdc2611d41 ("vt: selection: take screen contents from uniscr if available")
+708d0bff9121 ("vt: unicode fallback for scrollback")
+d21b0be246bf ("vt: introduce unicode mode for /dev/vcs")
+d8ae72427187 ("vt: preserve unicode values corresponding to screen characters")
+4b4ecd9cb853 ("vt: Perform safe console erase only once")
+209f668cd29d ("console: Fill in struct consw argument names")

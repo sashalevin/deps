@@ -1,0 +1,5 @@
+096cc0cddf58 ("mmc: sdhci-pci-o2micro: fix card detect fail issue caused by CD# debounce timeout")
+361eeda0ca16 ("mmc: sdhci-pci: Tidy o2micro definitions")
+30cf2803b268 ("mmc: sdhci-pci: Let suspend/resume callbacks replace default callbacks")
+ac9f67b5800b ("mmc: sdhci-pci: Let devices define their own private data")
+d38dcad4e7b4 ("mmc: sdhci: Let drivers decide whether to use mmc_retune_needed() with pm")

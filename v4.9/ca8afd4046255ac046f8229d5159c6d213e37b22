@@ -1,0 +1,4 @@
+ca8afd404625 ("powerpc/hugetlb: fix page rights verification in gup_hugepte()")
+d19469e84158 ("power/mm: update pte_write and pte_wrprotect to handle savedwrite")
+52c50ca75c53 ("powerpc/mm: handle protnone ptes on fork")
+c137a2757b88 ("powerpc/mm/autonuma: switch ppc64 to its own implementation of saved write")

@@ -1,0 +1,7 @@
+5a93d0cacf2f ("media: atomisp: Remove loading mutex")
+eb81065b9322 ("media: atomisp: Register /dev/* nodes at the end of atomisp_pci_probe()")
+3b423e1bed3d ("media: atomisp: Split subdev and video-node registration into 2 steps")
+a2ace25c3f0e ("media: atomisp: Fix device_caps reporting of the registered video-devs")
+88f4f81e8c8e ("media: atomisp: register first the preview devnode")
+821e6f16125a ("media: atomisp: allocate a v4l2_fh at open time")
+59a27d5c98f7 ("media: atomisp: Fix up the open v load race")

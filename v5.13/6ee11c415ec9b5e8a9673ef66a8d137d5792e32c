@@ -1,0 +1,6 @@
+6ee11c415ec9 ("drm/msm/dpu: get rid of dpu_encoder_helper_(un)register_irq")
+c929ac60b3ed ("drm/msm/dpu: allow just single IRQ callback")
+885455d6bf82 ("drm/msm: Change dpu_crtc_get_vblank_counter to use vsync count.")
+f25f656608e3 ("drm/msm/dpu: merge struct dpu_irq into struct dpu_hw_intr")
+a73033619ea9 ("drm/msm/dpu: squash dpu_core_irq into dpu_hw_interrupts")
+c96348a8fbff ("drm/msm/dpu: Avoid ABBA deadlock between IRQ modules")

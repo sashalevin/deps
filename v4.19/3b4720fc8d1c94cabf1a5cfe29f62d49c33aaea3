@@ -1,0 +1,7 @@
+3b4720fc8d1c ("scsi: scsi_transport_fc: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+02c66326dc7e ("scsi: scsi_transport_fc: Add a new rport state FC_PORTSTATE_MARGINAL")
+cd2f076f1d7a ("bsg: convert to use blk-mq")
+5e28b8d8a1b0 ("bsg: provide bsg_remove_queue() helper")
+aae3b069d5ce ("bsg: pass in desired timeout handler")
+df032bf27a41 ("scsi: ufs: Add a bsg endpoint that supports UPIUs")
+a851b2bd3632 ("scsi: uapi: ufs: Make utp_upiu_req visible to user space")

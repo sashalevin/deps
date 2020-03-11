@@ -1,0 +1,7 @@
+8516e837cab0 ("kasan: migrate kasan_rcu_uaf test to kunit")
+f7e01ab828fd ("kasan: move tests to mm/kasan/")
+09eb911d9345 ("mm/kasan: remove unnecessary CONFIG_KASAN option")
+1a2473f0cbc0 ("kasan: improve vmalloc tests")
+f16de0bcdb55 ("kasan: test: avoid corrupting memory in kasan_rcu_uaf")
+a0503b8a0b3c ("kasan: integrate the common part of two KASAN tag-based modes")
+f06f78ab48fb ("kasan: rename CONFIG_KASAN_SW_TAGS_IDENTIFY to CONFIG_KASAN_TAGS_IDENTIFY")

@@ -1,0 +1,7 @@
+6daca13d2e72 ("libceph: add authorizer challenge")
+149cac4a50b0 ("libceph: factor out encrypt_authorizer()")
+0dde584882ad ("libceph: drop len argument of *verify_authorizer_reply()")
+5c056fdc5b47 ("libceph: verify authorize reply on connect")
+d03857c63bb0 ("libceph: switch ceph_x_encrypt() to ceph_crypt()")
+4eb4517ce7c9 ("libceph: tweak calcu_signature() a little")
+36721ece1e84 ("libceph: ceph_x_encrypt_buflen() takes in_len")

@@ -1,0 +1,7 @@
+6a6544e520ab ("genirq/irqdomain: Remove auto-recursive hierarchy support")
+631a9639ac41 ("irqdomain: Add irq domain MSI and MSI_REMAP flags")
+a1b7b1a57b99 ("irqdomain: Fix irq_domain_alloc_irqs_recursive() error handling")
+0abefbaab4ed ("genirq: Add new IPI irqdomain flags")
+2145ac9310b6 ("genirq/msi: Add msi_domain_populate_irqs")
+b2eba39bcab9 ("genirq/msi: Make the .prepare callback reusable")
+c466595c416c ("irqdomain: Make irq_domain_alloc_irqs_recursive available")

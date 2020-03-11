@@ -1,0 +1,6 @@
+de043da0b9e7 ("RISC-V: Fix usage of memblock_enforce_memory_limit")
+1bd14a66ee52 ("RISC-V: Remove any memblock representing unusable memory area")
+b10d6bca8720 ("arch, drivers: replace for_each_membock() with for_each_mem_range()")
+c9118e6c37bf ("arch, mm: replace for_each_memblock() with for_each_mem_pfn_range()")
+49645793bce1 ("mircoblaze: drop unneeded NUMA and sparsemem initializations")
+0178dc761368 ("arm64: mte: Use Normal Tagged attributes for the linear map")

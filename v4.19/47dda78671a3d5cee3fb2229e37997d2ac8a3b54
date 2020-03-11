@@ -1,0 +1,6 @@
+47dda78671a3 ("r8169: consider that PHY reset may still be in progress after applying firmware")
+89fbd26cca7e ("r8169: fix firmware not resetting tp->ocp_base")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+ce8843abfa67 ("r8169: decouple rtl_phy_write_fw from actual driver code")
+254764e55652 ("r8169: improve firmware handling")
+3c72bf71a97f ("r8169: simplify ocp functions")

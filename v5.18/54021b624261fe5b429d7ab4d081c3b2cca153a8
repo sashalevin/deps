@@ -1,0 +1,4 @@
+54021b624261 ("xfs: embed the xlog_op_header in the commit record")
+ffa04c1f2cb0 ("xfs: embed the xlog_op_header in the unmount record")
+6eaed95e21a0 ("xfs: only CIL pushes require a start record")
+735fbf67df56 ("xfs: factor out the CIL transaction header building")

@@ -1,0 +1,6 @@
+22de489d1e9d ("netfs: Use bh-disabling spinlocks for rreq->lock")
+288ace2f57c9 ("netfs: New writeback implementation")
+7ba167c4c73e ("netfs: Switch to using unsigned long long rather than loff_t")
+b4ff7b178bda ("netfs: Remove ->launder_folio() support")
+93bf1cc0096f ("netfs: Make netfs_io_request::subreq_counter an atomic_t")
+2ff1e97587f4 ("netfs: Replace PG_fscache by setting folio->private and marking dirty")

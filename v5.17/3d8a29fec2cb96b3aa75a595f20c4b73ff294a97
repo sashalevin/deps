@@ -1,0 +1,8 @@
+3d8a29fec2cb ("platform/x86: wmi: Return immediately if an suitable WMI event is found")
+6ba7843b59b7 ("platform/x86: wmi: Fix error handling in legacy WMI notify handler functions")
+ed72a2b50b75 ("platform/x86: wmi: Remove debug_event module param")
+f763fd73b181 ("platform/x86: wmi: Remove debug_dump_wdg module param")
+cbf54f37600e ("platform/x86: wmi: Skip blocks with zero instances")
+4186a47dbfbc ("platform/x86: wmi: Decouple probe deferring from wmi_block_list")
+c710765a4742 ("platform/x86: wmi: Drop forward declaration of static functions")
+134038b075cb ("platform/x86: wmi: Allow duplicate GUIDs for drivers that use struct wmi_driver")

@@ -1,0 +1,4 @@
+227175b2c914 ("prctl: exe link permission error changed from -EINVAL to -EPERM")
+ebd6de681238 ("prctl: Allow local CAP_CHECKPOINT_RESTORE to change /proc/self/exe")
+11bbd8b416f8 ("prctl_set_mm: refactor checks from validate_prctl_map")
+4d28df6152aa ("prctl: Allow local CAP_SYS_ADMIN changing exe_file")

@@ -1,0 +1,4 @@
+89d19b2b456a ("drm/i915: Release shortlived maps of longlived objects")
+59c94b9d26df ("drm/i915/gt: Replace opencoded i915_gem_object_pin_map()")
+cf46143fe2c9 ("drm/i915/gt: Replace manual kmap_atomic() with pin_map for renderstate")
+edf040f4ee61 ("drm/i915/renderstate: use struct drm_device based logging macros.")

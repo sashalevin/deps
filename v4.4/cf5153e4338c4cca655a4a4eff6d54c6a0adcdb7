@@ -1,0 +1,5 @@
+cf5153e4338c ("media: gpu: host1x: mipi: Keep MIPI clock enabled and mutex locked till calibration done")
+b3f1b760710f ("gpu: host1x: mipi: Split tegra_mipi_calibrate() and tegra_mipi_wait()")
+7d1409826d95 ("gpu: host1x: mipi: Use readl_relaxed_poll_timeout() in tegra_mipi_wait()")
+87904c3e8231 ("drm/tegra: dsi: Enhance runtime power management")
+ef8187d75265 ("drm/tegra: dsi: Implement runtime PM")

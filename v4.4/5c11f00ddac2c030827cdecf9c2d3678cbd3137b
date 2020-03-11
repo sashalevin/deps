@@ -1,0 +1,5 @@
+5c11f00ddac2 ("ixgbe: do not use adapter->num_vfs when setting VFs via module parameter")
+da614d042ac2 ("ixgbe: return early instead of wrap block in if statement")
+2bc0972988c7 ("ixgbe: move num_vfs_macvlans allocation into separate function")
+b5d8acbb8781 ("ixgbe: Avoid Tx hang by not allowing more than the number of VFs supported.")
+988d13073fe1 ("ixgbe: Save VF info and take references")

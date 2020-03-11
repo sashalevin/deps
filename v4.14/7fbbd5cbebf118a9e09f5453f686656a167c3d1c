@@ -1,0 +1,6 @@
+7fbbd5cbebf1 ("x86/entry/64: Remove the SYSENTER stack canary")
+1a935bc3d4ea ("x86/entry: Move SYSENTER_stack to the beginning of struct tss_struct")
+ef8813ab2805 ("x86/mm/fixmap: Generalize the GDT fixmap mechanism, introduce struct cpu_entry_area")
+aaeed3aeb39c ("x86/entry/gdt: Put per-CPU GDT remaps in ascending order")
+33a2f1a6c4d7 ("x86/dumpstack: Add get_stack_info() support for the SYSENTER stack")
+1a79797b58cd ("x86/entry/64: Allocate and enable the SYSENTER stack")

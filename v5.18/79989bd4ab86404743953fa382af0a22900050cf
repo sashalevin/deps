@@ -1,0 +1,4 @@
+79989bd4ab86 ("xhci: always resume roothubs if xHC was reset during resume")
+802dcafc420a ("xhci: Fix null pointer dereference in resume if xhci has only one roothub")
+873f323618c2 ("xhci: prepare for operation w/o shared hcd")
+57f23cd0bf2f ("xhci: factor out parts of xhci_gen_setup()")

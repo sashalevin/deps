@@ -1,0 +1,7 @@
+793d7dbe6d82 ("xfs: cancel dirty pages on invalidation")
+0a417b8dc1f1 ("xfs: Timely free truncated dirty pages")
+99579ccec4e2 ("xfs: skip dirty pages in ->releasepage()")
+ad68972acb82 ("xfs: xfs_cluster_write is redundant")
+fbcc02561359 ("xfs: Introduce writeback context for writepages")
+150d5be09ce4 ("xfs: remove xfs_cancel_ioend")
+988ef927926a ("xfs: remove nonblocking mode from xfs_vm_writepage")

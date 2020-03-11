@@ -1,0 +1,4 @@
+e7f85dfbbc9c ("iommu: Fix iommu_probe_device() to attach the right domain")
+2f74198ae006 ("iommu: Replace iommu_group_do_dma_first_attach with __iommu_device_set_domain")
+d257344c6619 ("iommu: Replace __iommu_group_dma_first_attach() with set_domain")
+dcf40ed3a20d ("iommu: Make __iommu_group_set_domain() handle error unwind")

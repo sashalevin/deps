@@ -1,0 +1,8 @@
+f724392415b3 ("hugetlb: pte_alloc_huge() to replace huge pte_alloc_map()")
+aec44e0f0213 ("hugetlb: pass vma into huge_pte_alloc() and huge_pmd_share()")
+e6e4f42eb773 ("sparc64/mm: Implement pXX_leaf_size() support")
+c0d0381ade79 ("hugetlbfs: use i_mmap_rwsem for more pmd sharing synchronization")
+4fb07ee65102 ("userfaultfd: use vma_pagesize for all huge page size calculation")
+188b04a7d938 ("hugetlb: remove unused hstate in hugetlb_fault_mutex_hash()")
+930668c34408 ("hugetlbfs: take read_lock on i_mmap for PMD sharing")
+552546366a30 ("hugetlbfs: hugetlb_fault_mutex_hash() cleanup")

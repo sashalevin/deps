@@ -1,0 +1,4 @@
+cff75e0b6fe8 ("initramfs: provide a way to ignore image provided by bootloader")
+17a9be317475 ("initramfs: Always do fput() and load modules after rootfs populate")
+08865514805d ("initramfs: finish fput() before accessing any binary from initramfs")
+967dcb8fe6a9 ("rcu: Wire up rcu_end_inkernel_boot()")

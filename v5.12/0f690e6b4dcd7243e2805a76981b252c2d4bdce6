@@ -1,0 +1,4 @@
+0f690e6b4dcd ("wifi: cfg80211: move A-MSDU check in ieee80211_data_to_8023_exthdr")
+d9e249704084 ("wifi: cfg80211: fix ieee80211_data_to_8023_exthdr handling of small packets")
+667aa7426454 ("cfg80211/mac80211: assume CHECKSUM_COMPLETE includes SNAP")
+a1d5ff5651ea ("mac80211: properly handle A-MSDUs that start with an RFC 1042 header")

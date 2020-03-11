@@ -1,0 +1,8 @@
+0f347aa07f15 ("ACPI: scan: Fix battery devices sometimes never binding")
+71da201f38df ("ACPI: scan: Defer enumeration of devices with _DEP lists")
+6fc250887cbe ("ACPI: scan: Evaluate _DEP before adding the device")
+91438aebcd56 ("ACPI: scan: Fix up _DEP-related terminology with supplier/consumer")
+63347db0affa ("ACPI / scan: Use acpi_bus_get_status() to initialize ACPI_TYPE_DEVICE devs")
+e4330d8bf669 ("ACPI / scan: Fix enumeration for special SPI and I2C devices")
+f5beabfe6179 ("ACPI / scan: Apply default enumeration to devices with ACPI drivers")
+f406270bf73d ("ACPI / scan: Set the visited flag for all enumerated devices")

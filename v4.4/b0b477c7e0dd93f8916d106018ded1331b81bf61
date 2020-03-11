@@ -1,0 +1,4 @@
+b0b477c7e0dd ("dm round robin: use percpu 'repeat_count' and 'current_path'")
+90a4323ccfea ("dm path selector: remove 'repeat_count' return from .select_path hook")
+9659f811446a ("dm mpath: push path selector locking down to path selectors")
+21136f89d76d ("dm mpath: remove repeat_count support from multipath core")

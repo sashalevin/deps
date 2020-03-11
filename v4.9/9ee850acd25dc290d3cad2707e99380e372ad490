@@ -1,0 +1,6 @@
+9ee850acd25d ("x86_64: Remove pointless set_64bit() usage")
+8bf705d13039 ("locking/atomic/x86: Switch atomic.h to use atomic-instrumented.h")
+007d185b4462 ("locking/atomic/x86: Use 's64 *' for 'old' argument of atomic64_try_cmpxchg()")
+ba1c9f83f633 ("locking/atomic/x86: Un-macro-ify atomic ops implementation")
+e6790e4b5d5e ("locking/atomic/x86: Use atomic_try_cmpxchg()")
+a9ebf306f52c ("locking/atomic: Introduce atomic_try_cmpxchg()")

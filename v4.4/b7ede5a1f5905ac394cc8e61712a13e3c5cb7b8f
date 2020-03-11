@@ -1,0 +1,7 @@
+b7ede5a1f590 ("ARM: 8662/1: module: split core and init PLT sections")
+66e94ba3c8ea ("ARM: kernel: avoid brute force search on PLT generation")
+1031a7e674d1 ("ARM: kernel: sort relocation sections before allocating PLTs")
+05123fef0982 ("ARM: kernel: allocate PLT entries only for external symbols")
+35fa91eed817 ("ARM: kernel: merge core and init PLTs")
+7523e4dc5057 ("module: use a structure to encapsulate layout.")
+20ef10c1b306 ("module: Use the same logic for setting and unsetting RO/NX")

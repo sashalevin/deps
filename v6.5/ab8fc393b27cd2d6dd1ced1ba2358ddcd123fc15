@@ -1,0 +1,8 @@
+ab8fc393b27c ("libbpf: move feature detection code into its own file")
+29c302a2e265 ("libbpf: further decouple feature checking logic from bpf_object")
+c6c5be3eee97 ("libbpf: split feature detectors definitions from cached results")
+bb7fa09399b9 ("libbpf: Support symbol versioning for uprobe")
+7e1b46812345 ("libbpf: Add uprobe multi link detection")
+3774705db171 ("libbpf: Add elf symbol iterator")
+f90eb70d4489 ("libbpf: Add elf_open/elf_close functions")
+5c742725045a ("libbpf: Move elf_find_func_offset* functions to elf object")

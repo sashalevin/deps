@@ -1,0 +1,6 @@
+9a364857ab4f ("KVM: SVM: Inhibit AVIC if vCPUs are aliased in logical mode")
+5063c41bebac ("KVM: x86: Inhibit APICv/AVIC if the optimized physical map is disabled")
+f651a0089548 ("KVM: x86: Don't inhibit APICv/AVIC if xAPIC ID mismatch is due to 32-bit ID")
+5bdae49fc2f6 ("KVM: SEV: fix misplaced closing parenthesis")
+3743c2f02517 ("KVM: x86: inhibit APICv/AVIC on changes to APIC ID or APIC base")
+a9603ae0e4ee ("KVM: x86: document AVIC/APICv inhibit reasons")

@@ -1,0 +1,7 @@
+81d3ff3c6f76 ("mm: add sysfs entry to disable splitting underused THPs")
+00f58104202c ("mm: fix khugepaged activation policy")
+7f83bf14603e ("mm/huge_memory: mark racy access onhuge_anon_orders_always")
+e0ffb29bc54d ("mm: simplify thp_vma_allowable_order")
+879c6000e191 ("mm/khugepaged: bypassing unnecessary scans with MMF_DISABLE_THP check")
+19eaf44954df ("mm: thp: support allocation of anonymous multi-size THP")
+3485b88390b0 ("mm: thp: introduce multi-size THP sysfs interface")

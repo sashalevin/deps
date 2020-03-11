@@ -1,0 +1,8 @@
+1c13475368b6 ("sctp: remove prsctp_enable from asoc")
+a96701fb3534 ("sctp: remove reconf_enable from asoc")
+acce7f3b8d4f ("sctp: use SCTP_FUTURE_ASSOC for SCTP_RECONFIG_SUPPORTED sockopt")
+fb1956050846 ("sctp: use SCTP_FUTURE_ASSOC for SCTP_PR_SUPPORTED sockopt")
+cc3ccf26f064 ("sctp: not allow to set asoc prsctp_enable by sockopt")
+772a58693fc3 ("sctp: add stream interleave enable members and sockopt")
+0ccdf3c7fded ("sctp: add sockopt to get/set stream scheduler parameters")
+13aa8770fe42 ("sctp: add sockopt to get/set stream scheduler")

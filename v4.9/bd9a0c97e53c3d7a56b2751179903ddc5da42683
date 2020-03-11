@@ -1,0 +1,8 @@
+bd9a0c97e53c ("x86/umwait: Add sysfs interface to control umwait maximum time")
+ff4b353f2ef9 ("x86/umwait: Add sysfs interface to control umwait C0.2 state")
+bd688c69b7e6 ("x86/umwait: Initialize umwait control values")
+0b00de857a64 ("x86/cpuid: Add generic table for CPUID dependencies")
+f8475cef9008 ("x86: use common aperfmperf_khz_on_cpu() to calculate KHz using APERF/MPERF")
+419c9e986ea4 ("x86: msr-index.h: Remove unused MSR_NHM_SNB_PKG_CST_CFG_CTL")
+40496c8ee73a ("x86: msr-index.h: Define MSR_PKG_CST_CONFIG_CONTROL")
+62a67e123e05 ("x86/cpu: Merge bugs.c and bugs_64.c")

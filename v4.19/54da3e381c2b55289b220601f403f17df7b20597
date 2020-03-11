@@ -1,0 +1,4 @@
+54da3e381c2b ("serial: 8250_aspeed_vuart: use UPF_IOREMAP to set up register mapping")
+991a350dff13 ("serial: 8250_aspeed_vuart: factor out aspeed_vuart_{read, write}b() helper functions")
+3b44af4f9f4d ("serial: 8250_aspeed_vuart: refactor sirq and lpc address setting code")
+8d310c9107a2 ("drivers/tty/serial/8250: Make Aspeed VUART SIRQ polarity configurable")

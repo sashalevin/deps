@@ -1,0 +1,4 @@
+471f87c3d91b ("rcu: Make RCU CPU stall warnings use ->gp_seq")
+3caa973b7a26 ("rcu: Call touch_nmi_watchdog() while printing stall warnings")
+15fecf89e46a ("srcu: Abstract multi-tail callback list handling")
+630c7ed9ca06 ("rcu: Don't wake rcuc/X kthreads on NOCB CPUs")

@@ -1,0 +1,5 @@
+d5cd96851d52 ("rcu: Inline rcu_start_gp_advanced() into rcu_start_future_gp()")
+bd7af8463b9f ("rcu: Switch __rcu_process_callbacks() to rcu_accelerate_cbs()")
+a32e01ee6897 ("rcu: Use wrapper for lockdep asserts")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

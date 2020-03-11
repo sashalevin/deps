@@ -1,0 +1,5 @@
+6c51332dfc23 ("serial: sh-sci: Avoid calculating the receive margin for HSCIF")
+881a7489f463 ("serial: sh-sci: Improve bit rate error calculation for HSCIF")
+de01e6cd0b10 ("serial: sh-sci: Avoid overflow in sci_baud_calc_hscif()")
+95a2703e3653 ("serial: sh-sci: Make unsigned values in sci_baud_calc_hscif() unsigned")
+bdcb3826976e ("serial: sh-sci: Drop unused frame_len parameter for sci_baud_calc_hscif()")

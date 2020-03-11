@@ -1,0 +1,7 @@
+21f847961774 ("arm64/cpufeatures: Emulate MRS instructions by parsing ESR_ELx.ISS")
+9842119a238b ("arm64: Add CNTFRQ_EL0 trap handler")
+6126ce0588eb ("arm64: Add CNTVCT_EL0 trap handler")
+116c81f427ff ("arm64: Work around systems with mismatched cache line sizes")
+9dbd5bb25c56 ("arm64: Refactor sysinstr exception handling")
+072f0a633838 ("arm64: Introduce raw_{d,i}cache_line_size")
+221bb8a46e23 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

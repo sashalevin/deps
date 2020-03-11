@@ -1,0 +1,6 @@
+f0250618361d ("md: raid10: don't use bio's vec table to manage resync pages")
+81fa152008ac ("md: raid10: refactor code of read reshape's .bi_end_io")
+c85ba149de4b ("md: raid1/raid10: don't handle failure of bio_add_page()")
+8d3ca83dcf9c ("md/raid10: add failfast handling for reads.")
+578b54ade8a5 ("md/raid1, raid10: add blktrace records when IO is delayed")
+3f35e210ed46 ("Merge branch 'mymd/for-next' into mymd/for-linus")

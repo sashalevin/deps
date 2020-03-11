@@ -1,0 +1,8 @@
+9c5bd93edf7b ("bpf, sockmap: SK_DROP on attempted redirects of unsupported af_vsock")
+b80e31baa436 ("bpf, sockmap: Reject sk_msg egress redirects to non-TCP sockets")
+42f67eea3ba3 ("net: use sk_is_tcp() in more places")
+40a34121ac1d ("bpf, sockmap: Use stricter sk state checks in sk_lookup_assign")
+d8b81175e412 ("tcp: remove sk_{tr}x_skb_cache")
+0c48eefae712 ("sock_map: Lift socket state restriction for datagram sockets")
+ced122d90f52 ("sock: expose so_timestamping options for mptcp")
+371087aa476a ("sock: expose so_timestamp options for mptcp")

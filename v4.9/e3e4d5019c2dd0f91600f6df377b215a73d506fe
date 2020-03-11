@@ -1,0 +1,4 @@
+e3e4d5019c2d ("x86/kprobes: Stop calling fixup_exception() from kprobe_fault_handler()")
+76dee4a72849 ("x86/kprobes: Inline kprobe_exceptions_notify() into do_general_protection()")
+80006dbee674 ("kprobes/x86: Remove jprobe implementation")
+b664d57f39d0 ("kprobes/x86: Remove IRQ disabling from jprobe handlers")

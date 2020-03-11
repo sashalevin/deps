@@ -1,0 +1,5 @@
+c1eaf8b9bd31 ("can: m_can: Eliminate double read of TXFQS in tx_handler")
+812270e5445b ("can: m_can: Batch FIFO writes during CAN transmit")
+1aa6772f64b4 ("can: m_can: Batch FIFO reads during CAN receive")
+e39381770ec9 ("can: m_can: Disable IRQs on FIFO bus errors")
+20779943a080 ("can: m_can: use bits.h macros for all regmasks")

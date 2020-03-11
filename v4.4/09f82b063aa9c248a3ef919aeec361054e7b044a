@@ -1,0 +1,7 @@
+09f82b063aa9 ("powerpc/watchpoint: Rename current DAWR macros")
+a278e7ea608b ("powerpc: Fix compile issue with force DAWR")
+548c54acba5b ("powerpc: silence a -Wcast-function-type warning in dawr_write_file_bool")
+84b028243ef0 ("KVM: PPC: Book3S HV: Only write DAWR[X] when handling h_set_dawr in real mode")
+c1fe190c0672 ("powerpc: Add force enable of DAWR on P9 option")
+c3c7470c7556 ("powerpc/kvm: Save and restore host AMR/IAMR/UAMOR")
+195303136f19 ("Merge tag 'kconfig-v4.21-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

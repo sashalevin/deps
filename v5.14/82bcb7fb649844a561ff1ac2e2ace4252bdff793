@@ -1,0 +1,5 @@
+82bcb7fb6498 ("iio: st_sensors: remove st_sensors_deallocate_trigger() function")
+a574e68ff513 ("iio: gyro: st_gyro: use devm_iio_triggered_buffer_setup() for buffer")
+899f6791469f ("iio: magn: st_magn: use devm_iio_triggered_buffer_setup() for buffer")
+a442673b40f2 ("iio: accel: st_accel: use devm_iio_triggered_buffer_setup() for buffer")
+674db1e9217a ("iio: pressure: st_pressure: use devm_iio_triggered_buffer_setup() for buffer")

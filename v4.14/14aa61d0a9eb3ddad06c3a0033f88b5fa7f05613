@@ -1,0 +1,6 @@
+14aa61d0a9eb ("nVMX x86: Check VMX-preemption timer controls on vmentry of L2 guests")
+f792d2743ed4 ("KVM: nVMX: Introduce nested_cpu_has_shadow_vmcs()")
+d02fcf50779e ("kvm: vmx: Allow disabling virtual NMI support")
+8a1b43922d0d ("kvm: vmx: Reinstate support for CPUs without virtual NMI")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

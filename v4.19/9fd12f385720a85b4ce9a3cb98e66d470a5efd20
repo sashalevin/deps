@@ -1,0 +1,8 @@
+9fd12f385720 ("i2c: Don't let i2c adapters declare I2C_CLASS_SPD support if they support I2C_CLASS_HWMON")
+19e138e43a08 ("i2c: pasemi: Drop I2C classes from platform driver variant")
+9bc5f4f660ff ("i2c: pasemi: Split pci driver to its own file")
+6adb00c7f0ed ("i2c: pasemi: Split off common probing code")
+c06f50ed36cc ("i2c: pasemi: Remove usage of pci_dev")
+07e820d4fcb0 ("i2c: pasemi: Use dev_name instead of port number")
+3a7442ac1d1b ("i2c: pasemi: Use io{read,write}32")
+647d908816a7 ("i2c: kempld: deprecate class based instantiation")

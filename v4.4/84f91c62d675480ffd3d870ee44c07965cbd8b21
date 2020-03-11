@@ -1,0 +1,6 @@
+84f91c62d675 ("workqueue: Remove the cacheline_aligned for nr_running")
+24acfb718225 ("workqueue: Use normal rcu")
+25b0077511fe ("workqueue: Replace call_rcu_sched() with call_rcu()")
+a1d14934ea4b ("workqueue/lockdep: 'Fix' flush_work() annotation")
+82607adcf9cd ("workqueue: implement lockup detector")
+03e0d4610bf4 ("watchdog: introduce touch_softlockup_watchdog_sched()")

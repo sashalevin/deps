@@ -1,0 +1,5 @@
+c041098c690f ("mm/vmalloc.c: fix kasan shadow poisoning size")
+d98c9e83b5e7 ("kasan: fix crashes on access to memory mapped by vm_map_ram()")
+3c5c3cfb9ef4 ("kasan: support backing vmalloc space with real shadow memory")
+e36176be1c39 ("mm/vmalloc: rework vmap_area_lock")
+81f1ba586e39 ("mm/vmalloc: remove preempt_disable/enable when doing preloading")

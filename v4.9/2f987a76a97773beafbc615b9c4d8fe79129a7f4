@@ -1,0 +1,4 @@
+2f987a76a977 ("net: ipv6: keep sk status consistent after datagram connect failure")
+85cb73ff9b74 ("net: ipv6: reset daddr and dport in sk if connect() fails")
+0bd84065b19b ("net: ipv6: Fix UDP early demux lookup with udp_l3mdev_accept=0")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")

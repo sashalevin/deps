@@ -1,0 +1,8 @@
+0211e12dd0a5 ("genirq/affinity: Don't return with empty affinity masks on error")
+84676c1f21e8 ("genirq/affinity: assign vectors to all possible CPUs")
+9a0ef98e186d ("genirq/affinity: Assign vectors to all present CPUs")
+c0af52437254 ("genirq/affinity: Fix node generation from cpumask")
+b6e5d5b94752 ("genirq/affinity: Use default affinity mask for reserved vectors")
+bfe130773862 ("genirq/affinity: Take reserved vectors into account when spreading irqs")
+67c93c218dc5 ("genirq/affinity: Handle pre/post vectors in irq_create_affinity_masks()")
+212bd846223c ("genirq/affinity: Handle pre/post vectors in irq_calc_affinity_vectors()")

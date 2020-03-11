@@ -1,0 +1,5 @@
+dc99c0ff53f5 ("fs: fix dentry size")
+da549bdd15c2 ("dentry: switch the lists of children to hlist")
+b31559f8e471 ("coda_flag_children(): cope with dentries turning negative")
+e21fc2038c1b ("exportfs: make ->encode_fh() a mandatory method for NFS export")
+66c62769bcf6 ("exportfs: add helpers to check if filesystem can encode/decode file handles")

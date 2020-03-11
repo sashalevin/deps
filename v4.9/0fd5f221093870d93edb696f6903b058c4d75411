@@ -1,0 +1,5 @@
+0fd5f2210938 ("Input: axp20x-pek - switch to acpi_dev_present and check for ACPI0011 too")
+8d4b31376974 ("Input: axp20x-pek - only check for "INTCFD9" ACPI device on Cherry Trail")
+9b13a4ca8d2c ("Input: axp20x-pek - do not register input device on some systems")
+f2bd5a9ec5ed ("Input: axp20x_pek - add axp20x_pek_probe_input_device helper")
+73915f369e69 ("Input: axp20x-pek - use our own device for errors")

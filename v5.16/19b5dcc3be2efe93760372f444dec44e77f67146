@@ -1,0 +1,7 @@
+19b5dcc3be2e ("KVM: x86/mmu: remove kvm_calc_shadow_root_page_role_common")
+b89805082adf ("KVM: x86/mmu: remove "bool base_only" arguments")
+39e7e2bf321a ("KVM: x86/mmu: pull computation of kvm_mmu_role_regs to kvm_init_mmu")
+82ffa13f7933 ("KVM: x86/mmu: constify uses of struct kvm_mmu_role_regs")
+bb3b394d35e8 ("KVM: X86: Rename gpte_is_8_bytes to has_4_byte_gpte and invert the direction")
+b46a13cb7ea1 ("KVM: X86: Calculate quadrant when !role.gpte_is_8_bytes")
+dc1ce45575b3 ("KVM: MMU: update comment on the number of page role combinations")

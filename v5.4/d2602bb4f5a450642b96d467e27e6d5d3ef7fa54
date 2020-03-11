@@ -1,0 +1,6 @@
+d2602bb4f5a4 ("KVM: arm64: Move SPE availability check to VCPU load")
+b96b0c5de685 ("KVM: arm64: nvhe: Save the SPE context early")
+e650b64f1a56 ("KVM: arm64: Add basic hooks for injecting exceptions from EL2")
+cdb5e02ed133 ("KVM: arm64: Make kvm_skip_instr() and co private to HYP")
+6ddbc281e2aa ("KVM: arm64: Move kvm_vcpu_trap_il_is32bit into kvm_skip_instr32()")
+16314874b12b ("Merge branch 'kvm-arm64/misc-5.9' into kvmarm-master/next")

@@ -1,0 +1,5 @@
+c2e59c7f27c8 ("clk: cdce706: Use managed `of_clk_add_hw_provider()`")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")

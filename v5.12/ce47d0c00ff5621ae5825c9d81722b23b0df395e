@@ -1,0 +1,5 @@
+ce47d0c00ff5 ("x86/sev: Allow #VC exceptions on the VC2 stack")
+be1a5408868a ("x86/sev: Split up runtime #VC handler for correct state tracking")
+d187f217335d ("x86/sev: Make sure IRQs are disabled while GHCB is active")
+b250f2f7792d ("x86/sev-es: Don't return NULL from sev_es_get_ghcb()")
+fea63d54f7a3 ("x86/sev-es: Move sev_es_put_ghcb() in prep for follow on patch")

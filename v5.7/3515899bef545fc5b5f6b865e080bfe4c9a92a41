@@ -1,0 +1,5 @@
+3515899bef54 ("x86: Annotate idtentry_df()")
+cfa82a00533f ("x86/entry: Distangle idtentry")
+67f1386616dc ("x86/entry/64: Reorder idtentries")
+725005897ec4 ("x86/entry/64: Avoid pointless code when CONTEXT_TRACKING=n")
+ef68017eb570 ("x86/kvm: Handle async page faults directly through do_page_fault()")

@@ -1,0 +1,5 @@
+8e1101d25164 ("PCI/MSI: Don't warn when irq_create_affinity_masks() returns NULL")
+4bb6669147d9 ("PCI/MSI: Use dev_printk() when possible")
+61e1c5905290 ("PCI/MSI: Propagate IRQ affinity description through the MSI code")
+67c93c218dc5 ("genirq/affinity: Handle pre/post vectors in irq_create_affinity_masks()")
+212bd846223c ("genirq/affinity: Handle pre/post vectors in irq_calc_affinity_vectors()")

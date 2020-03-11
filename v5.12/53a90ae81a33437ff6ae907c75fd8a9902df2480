@@ -1,0 +1,8 @@
+53a90ae81a33 ("fbdev: imxfb: remove unneeded labels")
+55dd7378ba94 ("fbdev: imxfb: Convert to devm_kmalloc_array()")
+45fcc058a75b ("fbdev: imxfb: Removed unneeded release_mem_region")
+c5c7502e960d ("video: fbdev: imxfb: fix return value check in imxfb_probe()")
+b083c22d5114 ("video: fbdev: imxfb: Convert request_mem_region + ioremap to devm_ioremap_resource")
+e948d32c54fa ("video: fbdev: imxfb: Drop platform data support")
+836ffc47fa24 ("video: fbdev: imxfb: Fix missing of_node_put in imxfb_probe")
+9d54c5d47406 ("video: fbdev: imxfb: Check for null res pointer")

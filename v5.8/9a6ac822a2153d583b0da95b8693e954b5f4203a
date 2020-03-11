@@ -1,0 +1,5 @@
+9a6ac822a215 ("pwm: atmel-tcb: Unroll atmel_tcb_pwm_set_polarity() into only caller")
+78dca23bd670 ("pwm: atmel-tcb: Put per-channel data into driver data")
+fdaa6efce9aa ("pwm: atmel-tcb: Drop duplicated tracking of per-channel data")
+30882cf13007 ("pwm: atmel-tcb: Implement .apply callback")
+061f8572a31c ("pwm: atmel-tcb: Switch to new binding")

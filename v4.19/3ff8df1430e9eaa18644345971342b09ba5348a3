@@ -1,0 +1,8 @@
+3ff8df1430e9 ("powerpc/kvm/book3s: Avoid using rmap to protect parallel page table update.")
+7769a3394bdf ("powerpc/kvm/book3s: use find_kvm_host_pte in pute_tce functions")
+4f916593be9d ("KVM: PPC: Book3S: Fix incorrect guest-to-user-translation error handling")
+2001825efcea ("KVM: PPC: Book3S HV: Avoid lockdep debugging in TCE realmode handlers")
+345077c8e172 ("KVM: PPC: Book3S: Protect memslots while validating user address")
+a3ac077b75c5 ("KVM: PPC: Remove redundand permission bits removal")
+42de7b9e2167 ("KVM: PPC: Validate TCEs against preregistered memory page sizes")
+f7960e299f13 ("KVM: PPC: Inform the userspace about TCE update failures")

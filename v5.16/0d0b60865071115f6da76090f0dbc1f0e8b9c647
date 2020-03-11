@@ -1,0 +1,8 @@
+0d0b60865071 ("perf/x86/intel: Expose existence of callback support to KVM")
+03c4c7f88709 ("perf/x86/lbr: Simplify the exposure check for the LBR_INFO registers")
+0b9ca98b7229 ("perf/x86/core: Zero @lbr instead of returning -1 in x86_perf_get_lbr() stub")
+145dfad998ea ("KVM: VMX: Advertise PMU LBRs if and only if perf supports LBRs")
+cf8e55fe50df ("KVM: x86/pmu: Expose CPUIDs feature bits PDCM, DS, DTES64")
+39a4d779546a ("perf/x86/core: Pass "struct kvm_pmu *" to determine the guest values")
+4732f2444acd ("KVM: x86: Making the module parameter of vPMU more common")
+b1d66dad65dc ("KVM: x86/svm: Add module param to control PMU virtualization")

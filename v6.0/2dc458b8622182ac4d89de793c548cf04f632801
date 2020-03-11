@@ -1,0 +1,5 @@
+2dc458b86221 ("KVM: selftests: Create a vendor independent helper to allocate Hyper-V specific test pages")
+cd8f11bd6bbd ("KVM: selftests: Split off load_evmcs() from load_vmcs()")
+e8f3d23c02d0 ("KVM: selftests: Move Hyper-V VP assist page enablement out of evmcs.h")
+d7b14a868ac2 ("KVM: selftests: Sync 'struct hv_vp_assist_page' definition with hyperv-tlfs.h")
+9fda6753c9dd ("KVM: selftests: Rename perf_test_util.[ch] to memstress.[ch]")

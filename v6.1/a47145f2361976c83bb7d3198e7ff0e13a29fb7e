@@ -1,0 +1,6 @@
+a47145f23619 ("floppy: call disk_force_media_change when changing the format")
+d32e2bf83791 ("block: pass a gendisk to ->open")
+444aa2c58cb3 ("block: pass a gendisk on bdev_check_media_change")
+48a905198024 ("ublk_drv: only allow owner to open unprivileged disk")
+4093cb5a0634 ("ublk_drv: add mechanism for supporting unprivileged ublk device")
+bfbcef036396 ("ublk_drv: move ublk_get_device_from_id into ublk_ctrl_uring_cmd")

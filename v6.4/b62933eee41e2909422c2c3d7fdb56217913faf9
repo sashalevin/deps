@@ -1,0 +1,4 @@
+b62933eee41e ("sched/core: Make select_task_rq() take the pointer to wake_flags instead of value")
+e23edc86b09d ("sched/fair: Rename check_preempt_curr() to wakeup_preempt()")
+82845683ca6a ("sched/fair: Rename check_preempt_wakeup() to check_preempt_wakeup_fair()")
+857d315f1201 ("sched: Simplify ttwu()")

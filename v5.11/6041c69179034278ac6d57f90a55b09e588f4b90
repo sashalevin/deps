@@ -1,0 +1,6 @@
+6041c6917903 ("mm/hugetlb: take care of UFFDIO_COPY_MODE_WP")
+f619147104c8 ("userfaultfd: add UFFDIO_CONTINUE ioctl")
+714c18910824 ("userfaultfd: hugetlbfs: only compile UFFD helpers if config enabled")
+33b8f84a4ee7 ("mm/hugetlb: change hugetlb_reserve_pages() to type bool")
+8f251a3d5ce3 ("hugetlb: convert page_huge_active() HPageMigratable flag")
+d6995da31122 ("hugetlb: use page.private for hugetlb specific page flags")

@@ -1,0 +1,7 @@
+384fa8647dc5 ("serial: 8250: Remove superfluous sanity check")
+44b27aec9d96 ("serial: core, 8250: set RS485 termination GPIO in serial core")
+84f2faa7852e ("serial: 8250: Remove serial_rs485 sanitization from em485")
+be2e2cb1d281 ("serial: Sanitize rs485_struct")
+2dbd0c14ebe8 ("serial: Move serial_rs485 sanitization into separate function")
+8322b1f52715 ("serial: Add uart_rs485_config()")
+0ed12afa5655 ("serial: core: move RS485 configuration tasks from drivers into core")

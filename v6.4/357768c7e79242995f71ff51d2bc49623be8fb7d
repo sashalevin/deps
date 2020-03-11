@@ -1,0 +1,8 @@
+357768c7e792 ("net: stmmac: Add DW XPCS specified via "pcs-handle" support")
+f0ef433fc264 ("net: stmmac: introduce pcs_init/pcs_exit stmmac operations")
+f9cdff1bdacc ("net: stmmac: Make stmmac_xpcs_setup() generic to all PCS devices")
+d5c50937d50f ("net: stmmac: Add dedicated XPCS cleanup method")
+a8dd7404c214 ("net: stmmac: make the pcs_lynx cleanup sequence specific to dwmac_socfpga")
+5d1f3fe7d2d5 ("net: stmmac: dwmac-sogfpga: use the lynx pcs driver")
+727e373f897d ("net: stmmac: use xpcs_create_mdiodev()")
+3246627f11c5 ("net: stmmac: Make stmmac_pltfr_remove() return void")

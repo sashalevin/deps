@@ -1,0 +1,4 @@
+7329e3ebe359 ("mm/mempolicy: fix mbind_range() arguments to vma_merge()")
+66850be55e8e ("mm/mempolicy: use vma iterator & maple state instead of vma linked list")
+ec4858e07ed6 ("mm/mempolicy: Use vma_alloc_folio() in new_page()")
+4e0906008cdb ("mempolicy: mbind_range() set_policy() after vma_merge()")

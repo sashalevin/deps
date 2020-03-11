@@ -1,0 +1,7 @@
+e35fb4188942 ("i2c: rcar: use flags instead of atomic_xfer")
+f0f0e0768560 ("i2c: rcar: REP_AFTER_RD is not a persistent flag")
+4c278db7be94 ("i2c: rcar: use BIT macro consistently")
+238904dd646c ("i2c: rcar: refactor handling of first message")
+a0fb48c9bd7e ("i2c: rcar: avoid race condition with SMIs")
+633c0e7559ea ("i2c: rcar: add support for I2C_M_RECV_LEN")
+e7f4264821a4 ("i2c: rcar: enable interrupts before starting transfer")

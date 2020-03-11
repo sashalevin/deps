@@ -1,0 +1,4 @@
+b3b95964590a ("gpio: cdev: check for NULL labels when sanitizing them for irqs")
+b34490879baa ("gpio: cdev: sanitize the label before requesting the interrupt")
+91043f559313 ("gpio: cdev: wake up lineevent poll() on device unbind")
+bdbbae241a04 ("gpiolib: protect the GPIO device against being dropped while in use by user-space")

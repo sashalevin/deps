@@ -1,0 +1,8 @@
+59b2bc18b149 ("powerpc/xive: Use XIVE domain under xmon and debugfs")
+6bf66eb8f404 ("powerpc/xive: Simplify the dump of XIVE interrupts under xmon")
+5159d9872823 ("powerpc/xive: Simplify xive_core_debug_show()")
+e2cf43d59525 ("powerpc/xive: Introduce XIVE_IPI_HW_IRQ")
+2228f19cf90e ("powerpc/xive: Make debug routines static")
+930914b7d528 ("powerpc/xive: Add a debugfs file to dump internal XIVE state")
+b1a504a6500d ("powerpc/xive: Use XIVE_BAD_IRQ instead of zero to catch non configured IPIs")
+b059c63620fb ("powerpc/xive: Drop extern qualifiers from header function prototypes")

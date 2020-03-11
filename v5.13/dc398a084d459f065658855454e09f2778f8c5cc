@@ -1,0 +1,8 @@
+dc398a084d45 ("powerpc/64s/interrupt: Perf NMI should not take normal exit path")
+a073672eb096 ("powerpc/64/interrupt: Prevent NMI PMI causing a dangerous warning")
+1df7d5e4baea ("powerpc/64s: introduce different functions to return from SRR vs HSRR interrupts")
+69fdd6749971 ("KVM: PPC: Book3S 64: Move interrupt early register setup to KVM")
+04ece7b60b68 ("KVM: PPC: Book3S 64: Move hcall early register setup to KVM")
+31c67cfe2a6a ("KVM: PPC: Book3S 64: add hcall interrupt handler")
+f33e0702d98c ("KVM: PPC: Book3S 64: Move GUEST_MODE_SKIP test into KVM")
+f36011569b90 ("KVM: PPC: Book3S 64: move KVM interrupt entry to a common entry point")

@@ -1,0 +1,8 @@
+2d1acd3f10ba ("perf namespaces: Introduce nsinfo__mntns_path() accessor to avoid accessing ->mntns_path directly")
+c35ce1d918c1 ("perf namespaces: Add reference count checking")
+bcaf0a97858d ("perf namespaces: Add functions to access nsinfo")
+5d28a17c1c0e ("perf namespaces: Add helper nsinfo__is_in_root_namespace()")
+67dec9269314 ("perf inject jit: Add namespaces support")
+2b51c71be599 ("perf namespaces: Add 'in_pidns' to nsinfo struct")
+27c9c3424fc2 ("perf inject: Add --buildid-all option")
+c8f6ae1fb28d ("perf inject jit: Remove //anon mmap events")

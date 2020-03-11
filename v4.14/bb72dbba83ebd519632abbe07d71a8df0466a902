@@ -1,0 +1,5 @@
+bb72dbba83eb ("rtc: rv3029: get rid of rv3029_get_sr")
+54c5970df449 ("rtc: rv3029: remove race condition when update STATUS")
+609e97fe31a4 ("rtc: rv3029: remove open coded regmap_update_bits")
+a6f26606ddd0 ("rtc: rv3029: revert error handling patch to rv3029_eeprom_write()")
+97f5b0379c38 ("rtc: rv3029: Clean up error handling in rv3029_eeprom_write()")

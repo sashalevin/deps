@@ -1,0 +1,5 @@
+0b4ae3f6d121 ("iio: cros: Register FIFO callback after sensor is registered")
+80346b2b55fc ("iio: cros: unify hw fifo attributes without API changes")
+17395ce29921 ("iio: make use of devm_iio_kfifo_buffer_setup() helper")
+7e6d9788aa02 ("iio: adc: ti_am335x_adc: remove omitted iio_kfifo_free()")
+165aea80e2e2 ("iio: cros_ec: use devm_iio_triggered_buffer_setup_ext()")

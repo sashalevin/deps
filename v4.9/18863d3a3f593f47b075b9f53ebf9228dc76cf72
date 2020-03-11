@@ -1,0 +1,5 @@
+18863d3a3f59 ("mm: remove SWAP_DIRTY in ttu")
+802a3a92ad7a ("mm: reclaim MADV_FREE pages")
+a128ca71fb29 ("mm: delete unnecessary TTU_* flags")
+c7ab0d2fdc84 ("mm: convert try_to_unmap_one() to use page_vma_mapped_walk()")
+3c710c1ad11b ("mm, vmscan: extract shrink_page_list reclaim counters into a struct")

@@ -1,0 +1,6 @@
+ec97d022f621 ("powerpc/kasan: Declare kasan_init_region() weak")
+af3d0a68698c ("powerpc/kasan: Fix shadow memory protection with CONFIG_KASAN_VMALLOC")
+509cd3f2b473 ("powerpc/32: Simplify KASAN init")
+47febbeeec44 ("powerpc/32: Force KASAN_VMALLOC for modules")
+af1725d2493d ("powerpc/kconfig: Move CONFIG_PPC32 into Kconfig.cputype")
+3d4247fcc938 ("powerpc/32: Add support of KASAN_VMALLOC")

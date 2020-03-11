@@ -1,0 +1,7 @@
+279d1a72c0f8 ("powerpc/xive: Export XIVE IPI information for online-only processors.")
+33e1d4a152ce ("powerpc/xive: Rename the 'cpus' debugfs file to 'ipis'")
+baed14de78b5 ("powerpc/xive: Change the debugfs file 'xive' into a directory")
+412877dfae3d ("powerpc/xive: Introduce xive_core_debugfs_create()")
+bd5b00c6cf0c ("powerpc/xive: Introduce an helper to print out interrupt characteristics")
+dbf77fed8b30 ("powerpc: rename powerpc_debugfs_root to arch_debugfs_dir")
+3e188b1ae880 ("powerpc/book3s64/radix: make tlb_single_page_flush_ceiling a debugfs entry")

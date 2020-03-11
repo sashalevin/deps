@@ -1,0 +1,7 @@
+03a423d40cb3 ("x86/tdx: Skip saving output regs when SEAMCALL fails with VMFailInvalid")
+c796f02162e4 ("x86/tdx: Fix RETs in TDX asm")
+eb94f1b6a70a ("x86/tdx: Add __tdx_module_call() and __tdx_hypercall() helper functions")
+527a534c7326 ("x86/tdx: Provide common base for SEAMCALL and TDCALL C wrappers")
+59bd54a84d15 ("x86/tdx: Detect running as a TDX guest in early boot")
+6198311093da ("x86/cc: Move arch/x86/{kernel/cc_platform.c => coco/core.c}")
+aa5a461171f9 ("x86/sev: Add an x86 version of cc_platform_has()")

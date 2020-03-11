@@ -1,0 +1,7 @@
+e4c9eabc931b ("Documentation/highmem: Add information about kmap_local_folio()")
+d0634a622be3 ("Documentation: mm: use `s/higmem/highmem/` fix typo for highmem")
+92b64bd01fe9 ("mm/highmem: add notes about conversions from kmap{,_atomic}()")
+a9e9c93966af ("Documentation/mm: add details about kmap_local_page() and preemption")
+84b86f6054c4 ("Documentation/mm: rrefer kmap_local_page() and avoid kmap()")
+6b3afe2eeec2 ("Documentation/mm: avoid invalid use of addresses from kmap_local_page()")
+516ea046ec55 ("Documentation/mm: don't kmap*() pages which can't come from HIGHMEM")

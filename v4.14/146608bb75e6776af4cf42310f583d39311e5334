@@ -1,0 +1,4 @@
+146608bb75e6 ("mm/gup: protect unpin_user_pages() against npages==-ERRNO")
+fc1d8e7cca2d ("mm: introduce put_user_page*(), placeholder versions")
+df06b37ffe5a ("mm/gup: cache dev_pagemap while pinning pages")
+688272809fcc ("mm, gup: prevent pmd checking race in follow_pmd_mask()")

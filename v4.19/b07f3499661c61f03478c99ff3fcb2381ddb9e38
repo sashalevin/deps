@@ -1,0 +1,5 @@
+b07f3499661c ("arm64: stacktrace: Move start_backtrace() out of the header")
+592700f094be ("arm64: stacktrace: Better handle corrupted stacks")
+f3dcbe67ed42 ("arm64: stacktrace: Factor out backtrace initialisation")
+a448276ce515 ("arm64: Use ftrace_graph_get_ret_stack() instead of curr_ret_stack")
+421d1069cd85 ("arm64: function_graph: Remove use of FTRACE_NOTRACE_DEPTH")

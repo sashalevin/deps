@@ -1,0 +1,6 @@
+d1ca60efc53d ("netfilter: ctnetlink: disable helper autoassign")
+6a757c07e51f ("netfilter: conntrack: allow insertion of clashing entries")
+bb89abe52bf4 ("netfilter: conntrack: split resolve_clash function")
+b1b32552c1d8 ("netfilter: conntrack: place confirm-bit setting in a helper")
+3d1e0b406de1 ("netfilter: conntrack: remove two args from resolve_clash")
+c7c17e6a03e0 ("netfilter: conntrack: tell compiler to not inline nf_ct_resolve_clash")

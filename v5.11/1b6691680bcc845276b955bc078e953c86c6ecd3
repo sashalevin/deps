@@ -1,0 +1,7 @@
+1b6691680bcc ("pwm: iqs620a: Make use of devm_pwmchip_alloc() function")
+07b61160e45d ("pwm: iqs620a: Prepare removing pwm_chip from driver data")
+8a18b9733239 ("pwm: iqs620a: Create a wrapper for converting a pwm_chip to driver data")
+2e27afd0557f ("pwm: iqs620a: Simplify using devm_pwmchip_add()")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+28208c7b4a2c ("pwm: iqs620a: Correct a stale state variable")
+72d6b2459dbd ("pwm: iqs620a: Fix overflow and optimize calculations")

@@ -1,0 +1,7 @@
+512de1ce7bb7 ("usb: ohci-da8xx: drop the vbus GPIO")
+d327330185f1 ("usb: ohci-da8xx: disable the regulator if the overcurrent irq fired")
+8e2f5eae2435 ("usb: ohci-da8xx: let the regulator framework keep track of use count")
+d193abf1c913 ("usb: ohci-da8xx: add vbus and overcurrent gpios")
+3d2ab9f35ebd ("usb: ohci-da8xx: add a helper pointer to &pdev->dev")
+08e46f18b7d0 ("usb: ohci-da8xx: add a new line after local variables")
+e7f493604770 ("USB: ohci: da8xx: remove clk con_id")

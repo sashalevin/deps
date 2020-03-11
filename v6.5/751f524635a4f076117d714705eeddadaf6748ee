@@ -1,0 +1,6 @@
+751f524635a4 ("cachefiles: cancel all requests for the object that is being dropped")
+b2415d1f4566 ("cachefiles: stop sending new request when dropping object")
+b817e22b2e91 ("cachefiles: narrow the scope of triggering EPOLLIN events in ondemand mode")
+0a7e54c1959c ("cachefiles: resend an open request if the read request's object is closed")
+3c5ecfe16e76 ("cachefiles: extract ondemand info field from cachefiles_object")
+357a18d03314 ("cachefiles: introduce object ondemand state")

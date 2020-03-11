@@ -1,0 +1,8 @@
+1f87c578d91b ("watchdog: imx7ulp_wdt: move post_rcs_wait into struct imx_wdt_hw_feature")
+423fc66eb6ce ("wdog: imx7ulp: Enable wdog int_en bit for watchdog any reset")
+f3a0dd648961 ("watchdog: imx7ulp: Use devm_clk_get_enabled() helper")
+8ed2dc485513 ("watchdog: imx93: add watchdog timer on imx93")
+c32b53f965ed ("watchdog: imx7ulp_wdt: Handle wdog reconfigure failure")
+52c4d0511326 ("watchdog: imx7ulp_wdt: Fix RCS timeout issue")
+e809daec1757 ("watchdog: imx7ulp_wdt: Check CMD32EN in wdog init")
+6371593fbad7 ("watchdog: imx7ulp: Add explict memory barrier for unlock sequence")

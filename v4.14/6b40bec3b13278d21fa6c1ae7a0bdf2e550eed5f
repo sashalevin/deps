@@ -1,0 +1,7 @@
+6b40bec3b132 ("md: check arrays is suspended in mddev_detach before call quiesce operations")
+e64e4018d572 ("md: Avoid namespace collision with bitmap API")
+b126194cbb79 ("MD: Free bioset when md_run fails")
+8db87912c9a8 ("md-cluster: Use a small window for raid10 resync")
+9e1cc0a54556 ("md: use mddev_suspend/resume instead of ->quiesce()")
+52a0d49de3d5 ("md: don't call bitmap_create() while array is quiesced.")
+938b533d479e ("md/bitmap: revert a patch")

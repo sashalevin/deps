@@ -1,0 +1,5 @@
+9e1725b41059 ("x86/refcount: Work around GCC inlining bug")
+c06c4d809051 ("x86/objtool: Use asm macros to work around GCC inlining bugs")
+77b0bf55bc67 ("kbuild/Makefile: Prepare for using macros in inline assembly code to work around asm() related GCC inlining bugs")
+7290d5809571 ("module: use relative references for __ksymtab entries")
+7731b8bc94e5 ("Merge branch 'linus' into x86/urgent")

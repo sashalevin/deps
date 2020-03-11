@@ -1,0 +1,5 @@
+a21d1becaa3f ("powerpc: Reintroduce is_kvm_guest() as a fast-path check")
+16520a858a99 ("powerpc: Rename is_kvm_guest() to check_kvm_guest()")
+92cc6bf01c7f ("powerpc: Refactor is_kvm_guest() declaration to new header")
+107c55005fbd ("powerpc/pseries: Add KVM guest doorbell restrictions")
+5b06d1679f2f ("powerpc/pseries: Use doorbells even if XIVE is available")

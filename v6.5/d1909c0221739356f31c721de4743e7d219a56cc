@@ -1,0 +1,4 @@
+d1909c022173 ("module: Don't ignore errors from set_memory_XX()")
+315df9c476c5 ("modules: Remove #ifdef CONFIG_STRICT_MODULE_RWX around rodata_enabled")
+3559ad395bf0 ("module: Change module_enable_{nx/x/ro}() to more explicit names")
+ac88ee7d2b87 ("module: Use set_memory_rox()")

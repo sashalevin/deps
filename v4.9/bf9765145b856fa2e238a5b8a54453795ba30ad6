@@ -1,0 +1,7 @@
+bf9765145b85 ("sock: Make sk_protocol a 16-bit value")
+e9cdced78dc2 ("net: Make sock protocol value checks more specific")
+aa65d6960a98 ("bpf: Add state, dst_ip4, dst_ip6 and dst_port to bpf_sock")
+46f8bc92758c ("bpf: Add a bpf_sock pointer to __sk_buff and a bpf_sk_fullsock helper")
+5f4566498dee ("bpf: Fix narrow load on a bpf_sock returned from sk_lookup()")
+d83525ca62cf ("bpf: introduce bpf_spin_lock")
+ec7146db1500 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

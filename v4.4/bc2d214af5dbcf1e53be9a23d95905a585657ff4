@@ -1,0 +1,7 @@
+bc2d214af5db ("scsi: target: tcmu: Implement tmr_notify callback")
+ed212ca87897 ("scsi: target: tcmu: Fix and simplify timeout handling")
+61fb24822166 ("scsi: target: tcmu: Userspace must not complete queued commands")
+a86a75865ff4 ("scsi: target: tcmu: avoid use-after-free after command timeout")
+40d883b09175 ("scsi: tcmu: fix use after free")
+a94a2572b977 ("scsi: tcmu: avoid cmd/qfull timers updated whenever a new cmd comes")
+72f02ba66bd8 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

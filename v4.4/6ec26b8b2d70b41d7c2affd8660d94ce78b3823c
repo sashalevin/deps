@@ -1,0 +1,6 @@
+6ec26b8b2d70 ("nvdimm/pmem: stop using ->queuedata")
+4557641b4c70 ("pmem: only set QUEUE_FLAG_DAX for fsdax mode")
+8b904b5b6b58 ("block: Use blk_queue_flag_*() in drivers instead of queue_flag_*()")
+ad3793fc3945 ("dm: set QUEUE_FLAG_DAX accordingly in dm_table_set_restrictions()")
+18a25da84354 ("dm: ensure bio submission follows a depth-first tree walk")
+adeba81ac2a6 ("Merge tag 'for-4.15/dm-changes-2' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

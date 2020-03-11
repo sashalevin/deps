@@ -1,0 +1,4 @@
+3dd60fb9d95d ("nvdimm/pmem: stop using q_usage_count as external pgmap refcount")
+32b2397c1e56 ("libnvdimm/pmem: Fix crash triggered when I/O in-flight during unbind")
+a624eb520390 ("libnvdimm/pmem: Fix blk_cleanup_disk() usage")
+87eb73b2ca7c ("nvdimm-pmem: convert to blk_alloc_disk/blk_cleanup_disk")

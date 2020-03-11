@@ -1,0 +1,4 @@
+35366901017c ("KVM: x86: Explicitly track all possibilities for APIC map's logical modes")
+6ea567ca003a ("KVM: x86: Explicitly skip optimized logical map setup if vCPU's LDR==0")
+b14c876b994f ("kvm: x86: skip populating logical dest map if apic is not sw enabled")
+6e50043912d9 ("KVM: x86: replace kvm_apic_id with kvm_{x,x2}apic_id")

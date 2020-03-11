@@ -1,0 +1,4 @@
+70b588a06866 ("powerpc/ppc-opcode: Add PPC_RAW_MFSPR()")
+89eecd938cab ("powerpc/8xx: Use SPRN_SPRG_SCRATCH2 in DTLB miss exception")
+a314ea5abf6d ("powerpc/8xx: Use SPRN_SPRG_SCRATCH2 in ITLB miss exception")
+29daf869cbab ("powerpc/8xx: Always fault when _PAGE_ACCESSED is not set")

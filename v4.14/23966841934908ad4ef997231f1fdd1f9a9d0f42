@@ -1,0 +1,7 @@
+239668419349 ("crypto: vmx/xts - use fallback for ciphertext stealing")
+2621a8699e81 ("crypto: vmx - convert to skcipher API")
+626ddb2fbe79 ("crypto: powerpc - convert to use crypto_simd_usable()")
+694e0db6600c ("crypto: vmx - return correct error code on failed setkey")
+5c525640ef45 ("crypto: vmx - Remove VLA usage of skcipher")
+0522236d4f9c ("crypto: vmx - Fix sleep-in-atomic bugs")
+e666d4e9ceec ("crypto: vmx - Use skcipher for ctr fallback")

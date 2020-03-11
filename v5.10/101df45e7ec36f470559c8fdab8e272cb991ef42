@@ -1,0 +1,7 @@
+101df45e7ec3 ("nfsd: Fix reading via splice")
+27c934dd8832 ("nfsd: don't replace page in rq_pages if it's a continuation of last page")
+ac8db824ead0 ("NFSD: Fix reads with a non-zero offset that don't end on a page boundary")
+bfbfb6182ad1 ("nfsd_splice_actor(): handle compound pages")
+91e23b1c3982 ("NFSD: Clean up nfsd_splice_actor()")
+496d83cf0f2f ("NFSD: Batch release pages during splice read")
+c7e0b781b73c ("NFSD: Clean up splice actor")

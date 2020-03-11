@@ -1,0 +1,4 @@
+b76b46902c2d ("mm/hugetlb: fix missing hugetlb_lock for resv uncharge")
+d4ab0316cc33 ("mm/hugetlb_cgroup: convert hugetlb_cgroup_uncharge_page() to folios")
+0356c4b96f68 ("mm/hugetlb: convert free_huge_page to folios")
+78fbe906cc90 ("mm/page-flags: reuse PG_mappedtodisk as PG_anon_exclusive for PageAnon() pages")

@@ -1,0 +1,5 @@
+93eacd94e09d ("powerpc/powernv: Make pnv_pci_sriov_enable() and friends static")
+988fc3ba5653 ("powerpc/pci: Separate SR-IOV Calls")
+753f61247181 ("PCI: Remove reset argument from pci_iov_{add,remove}_virtfn()")
+5cb1f8fdddb7 ("powerpc/powernv/pci: Dynamically allocate PHB diag data")
+382746376993 ("powerpc/powernv: Override pcibios_default_alignment() to force PCI devices to be page aligned")

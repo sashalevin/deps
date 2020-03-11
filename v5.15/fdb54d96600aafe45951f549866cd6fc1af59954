@@ -1,0 +1,6 @@
+fdb54d96600a ("kasan, slub: fix HW_TAGS zeroing with slub_debug")
+9ce67395f5a0 ("mm/slub: only zero requested size of buffer for kzalloc when debug enabled")
+2055e67bb6a8 ("mm/sl[au]b: use own bulk free function when bulk alloc failed")
+fc0e5b91dfe4 ("kasan: clean up comments in internal kasan.h")
+00a756133bb9 ("kasan: define KASAN_VMALLOC_INVALID for SW_TAGS")
+fe1ac91edb9a ("kasan: clean up metadata byte definitions")

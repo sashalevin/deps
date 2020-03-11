@@ -1,0 +1,4 @@
+f130ac0ae441 ("arm64: syscall: unmask DAIF earlier for SVCs")
+b2482807fbd4 ("arm64/sme: Optimise SME exit on syscall entry")
+8c845e273104 ("arm64/sve: Leave SVE enabled on syscall if we don't context switch")
+62021cc36add ("arm64/fpsimd: Stop using TIF_SVE to manage register saving in KVM")

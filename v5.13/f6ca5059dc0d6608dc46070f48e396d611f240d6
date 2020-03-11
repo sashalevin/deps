@@ -1,0 +1,5 @@
+f6ca5059dc0d ("firmware: arm_scmi: Clear stale xfer->hdr.status")
+ed7c04c1fea3 ("firmware: arm_scmi: Handle concurrent and out-of-order messages")
+9ca5a1838e59 ("firmware: arm_scmi: Introduce monotonically increasing tokens")
+e30d91d4ffda ("firmware: arm_scmi: Move reinit_completion from scmi_xfer_get to do_xfer")
+0cb7af474e0d ("firmware: arm_scmi: Reset Rx buffer to max size during async commands")

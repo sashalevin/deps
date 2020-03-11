@@ -1,0 +1,7 @@
+58d1c124cd79 ("scsi: qla2xxx: Fix losing FCP-2 targets during port perturbation tests")
+0aca77843e28 ("scsi: qla2xxx: Reduce holding sess_lock to prevent CPU lock-up")
+9ba1cb25c151 ("scsi: qla2xxx: Remove all rports if fabric scan retry fails")
+e112761a4f1d ("scsi: qla2xxx: Turn off IOCB timeout timer on IOCB completion")
+cd4ed6b470f1 ("scsi: qla2xxx: Move rport registration out of internal work_list")
+cb873ba40020 ("scsi: qla2xxx: Update rscn_rcvd field to more meaningful scan_needed")
+72f02ba66bd8 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

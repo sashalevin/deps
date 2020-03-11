@@ -1,0 +1,8 @@
+64ac4a14e961 ("drm/edid: rename drm_find_edid_extension() to drm_edid_find_extension()")
+4e765920eeb9 ("drm/edid: move all internal declarations to drm_crtc_internal.h")
+44e030d8a5a1 ("drm/displayid: move drm_displayid.h to drm_displayd_internal.h")
+b5d7cb76f267 ("drm: add missing header guards to drm_internal.h")
+f415a6078f64 ("drm/eld: add helpers to modify the SADs of an ELD")
+8af4681189e5 ("drm/edid: add helpers to get/set struct cea_sad from/to 3-byte sad")
+e8d0b2c06fd7 ("drm/edid: use a temp variable for sads to drop one level of dereferences")
+8eb80946ab0c ("drm/edid: split out drm_eld.h from drm_edid.h")

@@ -1,0 +1,7 @@
+91f36237b4b9 ("RDMA/siw: Fix tx thread initialization.")
+e0850113937b ("RDMA/siw: make use of the helper function kthread_run_on_cpu()")
+85de5d53366f ("RDMA/siw: Remove unnecessary kthread create/destroy printouts")
+4c7d6dcd3648 ("RDMA/siw: Fix DEFINE_PER_CPU compilation when ARCH_NEEDS_WEAK_PER_CPU")
+b9be6f18cf9e ("rdma/siw: transmit path")
+bdcf26bf9b3a ("rdma/siw: network and RDMA core interface")
+a531975279f3 ("rdma/siw: main include file")

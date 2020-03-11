@@ -1,0 +1,5 @@
+3991c5c80bea ("i2c: Switch to using gpiod interface for gpio bus recovery")
+55d38d060e99 ("i2c: core: Add function for finding the bus speed from ACPI")
+a7003b65801e ("i2c: core: Cleanup I2C ACPI namespace")
+d3b11d8380d0 ("i2c: cleanup i2c_register_adapter() by refactoring recovery init")
+3a9ddaf4dca8 ("i2c: only check scl functions when using generic recovery")

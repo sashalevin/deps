@@ -1,0 +1,6 @@
+1fd5394e6ab8 ("NFS: drop unused nfs_direct_req bytes_left")
+954998b60caa ("NFS: Fix error handling for O_DIRECT write scheduling")
+70e9db69f927 ("NFS: Clean up O_DIRECT request allocation")
+ab75bff11407 ("NFS: Convert buffered reads to use folios")
+cbefa53cb1fe ("NFS: Convert the remaining pagelist helper functions to support folios")
+35c5db0ec49f ("NFS: Add basic functionality for tracking folios in struct nfs_page")

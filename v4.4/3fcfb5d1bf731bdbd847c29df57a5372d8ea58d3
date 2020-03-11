@@ -1,0 +1,8 @@
+3fcfb5d1bf73 ("powerpc/signal: Remove BUG_ON() in handler_signal functions")
+d11994314b2b ("powerpc: signals: Stop using current in signal code")
+e1c0d66fcb17 ("powerpc: Set used_(vsr|vr|spe) in sigreturn path when MSR bits are active")
+d96f234f47af ("powerpc: Avoid load hit store in setup_sigcontext()")
+a7d623d4d053 ("powerpc: Move part of giveup_vsx into c")
+b51b1153d0e7 ("powerpc: Remove NULL task struct pointer checks in FP and vector code")
+b86fd2bd0302 ("powerpc: Simplify TM restore checks")
+af1bbc3dd3d5 ("powerpc: Remove UP only lazy floating point and vector optimisations")

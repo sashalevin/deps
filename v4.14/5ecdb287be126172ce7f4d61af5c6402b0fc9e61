@@ -1,0 +1,6 @@
+5ecdb287be12 ("ACPI: LPSS: use acpi_dev_uid_match() for matching _UID")
+2a036e489eb1 ("ACPI: LPSS: Refactor _UID handling to use acpi_dev_uid_to_integer()")
+8e3ecc68e33f ("ACPI: LPSS: Use kstrtol() instead of simple_strtol()")
+b2147a3a4fc6 ("ACPI / LPSS: Rename pwm_backlight pwm-lookup to pwm_soc_backlight")
+86b62e5cd896 ("ACPI / LPSS: Exclude I2C busses shared with PUNIT from pmc_atom_d3_mask")
+c975e472ec12 ("ACPI / LPSS: Only call pwm_add_table() for Bay Trail PWM if PMIC HRV is 2")

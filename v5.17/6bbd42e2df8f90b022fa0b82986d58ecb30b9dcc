@@ -1,0 +1,5 @@
+6bbd42e2df8f ("mmu_notifiers: call invalidate_range() when invalidating TLBs")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+c9fe66560bf2 ("mm/mprotect: do not flush when not required architecturally")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+8ca07e17c9dd ("task_work: Remove unnecessary include from posix_timers.h")

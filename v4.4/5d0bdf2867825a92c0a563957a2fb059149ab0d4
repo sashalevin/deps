@@ -1,0 +1,7 @@
+5d0bdf286782 ("PCI: Call pci_intx() when using legacy interrupts in pci_alloc_irq_vectors()")
+4fe0d154880b ("PCI: Use positive flags in pci_alloc_irq_vectors()")
+4ef33685aa09 ("PCI: Spread interrupt vectors in pci_alloc_irq_vectors()")
+aff171641d18 ("PCI: Provide sensible IRQ vector alloc/free routines")
+fe537670eab7 ("PCI: Consolidate PCI DMA constants and interfaces in linux/pci-dma-compat.h")
+128fc68ca1c3 ("PCI/MSI: Remove empty pci_msi_init_pci_dev()")
+e80e7edc55ba ("PCI/MSI: Initialize MSI capability for all architectures")

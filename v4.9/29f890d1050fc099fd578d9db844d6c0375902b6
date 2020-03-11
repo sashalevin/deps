@@ -1,0 +1,5 @@
+29f890d1050f ("x86/mm: Introduce MAP_ABOVE4G")
+1c9725974074 ("mm: introduce MAP_SHARED_VALIDATE, a mechanism to safely define new mmap flags")
+1b028f784e8c ("x86/mm: Introduce mmap_compat_base() for 32-bit mmap()")
+8f3e474f3cea ("x86/mm: Add task_size parameter to mmap_base()")
+6a0b41d1e23d ("x86/mm: Introduce arch_rnd() to compute 32/64 mmap random base")

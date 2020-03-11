@@ -1,0 +1,4 @@
+2dd8a74fddd2 ("serial: core: Initialize rs485 RTS polarity already on probe")
+62f676ff7898 ("serial: pl011: Fix incorrect rs485 RTS polarity on set_mctrl")
+93a770b7e167 ("serial: core: Keep mctrl register state and cached copy in sync")
+d3b3404df318 ("serial: Fix incorrect rs485 polarity on uart open")

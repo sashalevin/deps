@@ -1,0 +1,7 @@
+30a6e0b4553d ("KVM: selftests: Convert VMX's PMU capabilities test to printf guest asserts")
+baa36dac6ca8 ("KVM: selftests: Expand negative testing of guest writes to PERF_CAPABILITIES")
+a2a34d148e75 ("KVM: selftests: Test all immutable non-format bits in PERF_CAPABILITIES")
+37f4e79c43e5 ("KVM: selftests: Test all fungible features in PERF_CAPABILITIES")
+69713940d2b4 ("KVM: selftests: Drop now-redundant checks on PERF_CAPABILITIES writes")
+710fb612672e ("KVM: selftests: Move 0/initial value PERF_CAPS checks to dedicated sub-test")
+e4d86fb910df ("KVM: selftests: Split PMU caps sub-tests to avoid writing MSR after KVM_RUN")

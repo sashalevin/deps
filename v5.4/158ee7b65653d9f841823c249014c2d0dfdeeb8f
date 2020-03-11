@@ -1,0 +1,7 @@
+158ee7b65653 ("block: mark blkdev_fsync static")
+603e4922f1c8 ("remove the raw driver")
+5a56ad7882a1 ("raw: don't keep unopened block device around")
+c4823983538d ("raw: deprecate the raw driver")
+04aaca197f16 ("char: raw: do not leak CONFIG_MAX_RAW_DEVS to userspace")
+8d7dc56ee908 ("char: group dev configs togther")
+c8175bd155c5 ("char: Fix Kconfig indentation")

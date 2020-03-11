@@ -1,0 +1,7 @@
+291872a533a2 ("vfio: Move vfio_device_group_unregister() to be the first operation in unregister")
+32e0922821f2 ("vfio: Create wrappers for group register/unregister")
+3c28a76124b2 ("vfio: Add struct device to vfio_device")
+4a725b8de4cc ("vfio: Rename vfio_device_put() and vfio_device_try_get()")
+ebb72b765fb4 ("vfio/ccw: Use the new device life cycle helpers")
+cb9ff3f3b84c ("vfio: Add helpers for unifying vfio_device life cycle")
+21c13829bc3b ("vfio: Remove vfio_group dev_counter")

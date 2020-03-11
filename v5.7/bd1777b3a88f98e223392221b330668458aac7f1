@@ -1,0 +1,8 @@
+bd1777b3a88f ("netfilter: nftables: bogus check for netlink portID with table owner")
+6001a930ce03 ("netfilter: nftables: introduce table ownership")
+fd020332c156 ("netfilter: nftables: add helper function to release one table")
+767d1216bff8 ("netfilter: nftables: fix possible UAF over chains from packet path in netns")
+c0391b6ab810 ("netfilter: nf_tables: missing validation from the abort path")
+d3519cb89f6d ("netfilter: nf_tables: add inet ingress support")
+7a81575b806e ("netfilter: nf_tables: add userdata attributes to nft_table")
+1e9451cbda45 ("netfilter: nf_tables: fix nat hook table deletion")

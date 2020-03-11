@@ -1,0 +1,8 @@
+90955d778ad7 ("arm64: ftrace: Update stale comment")
+3b23e4991fb6 ("arm64: implement ftrace with regs")
+f1a54ae9af0d ("arm64: module/ftrace: intialize PLT at load time")
+bd8b21d3dd66 ("arm64: module: rework special section handling")
+dd8a1f134884 ("arm64: ftrace: Ensure synchronisation in PLT setup for Neoverse-N1 #1542419")
+f7edb451fa51 ("tracing/arm64: Have max stack tracer handle the case of return address after data")
+b6143d10d23e ("arm64: ftrace: Ensure module ftrace trampoline is coherent with I-side")
+2c6a392cddac ("Merge branch 'core-stacktrace-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

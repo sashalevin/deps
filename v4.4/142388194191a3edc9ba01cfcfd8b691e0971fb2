@@ -1,0 +1,6 @@
+142388194191 ("btrfs: do not background blkdev_put()")
+e2bf6e89b4c7 ("btrfs: make sure device is synced before return")
+f448341af9cf ("btrfs: reorg btrfs_close_one_device()")
+48b3b9d401ec ("btrfs: fix lock dep warning move scratch super outside of chunk_mutex")
+779bf3fefa83 ("btrfs: fix lock dep warning, move scratch dev out of device_list_mutex and uuid_mutex")
+afa427cf9d6e ("Merge branch 'cleanup/misc-simplify' of git://git.kernel.org/pub/scm/linux/kernel/git/kdave/linux into for-linus-4.5")

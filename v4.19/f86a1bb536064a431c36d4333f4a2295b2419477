@@ -1,0 +1,7 @@
+f86a1bb53606 ("pinctrl: baytrail: Use platform_get_irq_optional() explicitly")
+990ec243cb77 ("pinctrl: baytrail: Keep pointer to struct device instead of its container")
+e70982b3abec ("pinctrl: baytrail: Move IRQ valid mask initialization to a dedicated callback")
+539d8bde72c2 ("pinctrl: baytrail: Allocate IRQ chip dynamic")
+ca8a958e2acb ("pinctrl: baytrail: Pass irqchip when adding gpiochip")
+ed3c15646251 ("pinctrl: baytrail: Add GPIO <-> pin mapping ranges via callback")
+3c2edc36a774 ("Merge tag 'pinctrl-v5.4-1' of git://git.kernel.org/pub/scm/linux/kernel/git/linusw/linux-pinctrl")

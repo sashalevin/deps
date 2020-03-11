@@ -1,0 +1,8 @@
+752de307b0ee ("rcu: Remove linux/debugobjects.h from rcupdate.h")
+f9411ebe3d85 ("rcu: Separate the RCU synchronization types and APIs into <linux/rcupdate_wait.h>")
+004172bdad64 ("sched/core: Remove unnecessary #include headers")
+d1ccc66df8bf ("sched/core: Clean up comments")
+cb42c9a3ebbb ("sched/core: Add debugging code to catch missing update_rq_clock() calls")
+92509b732baf ("sched/core: Reset RQCF_ACT_SKIP before unpinning rq->lock")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")
+3ca0ff571b09 ("locking/mutex: Rework mutex::owner")

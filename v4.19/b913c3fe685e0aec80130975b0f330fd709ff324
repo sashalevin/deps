@@ -1,0 +1,7 @@
+b913c3fe685e ("rcu/nocb: Make IRQs disablement symmetric")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")
+910e12092eac ("rcu: Make synchronize_rcu() fast path update ->gp_seq counters")
+5f11bad6b722 ("rcu-tasks: Remove grace-period fast-path rcu-tasks helper")
+d38c8fe48354 ("Merge branches 'doc.2022.06.21a', 'fixes.2022.07.19a', 'nocb.2022.07.19a', 'poll.2022.07.21a', 'rcu-tasks.2022.06.21a' and 'torture.2022.06.21a' into HEAD")

@@ -1,0 +1,5 @@
+ac9d45544cd5 ("locking/csd_lock: Provide an indication of ongoing CSD-lock stall")
+94b3f0b5af2c ("smp,csd: Throw an error if a CSD lock is stuck for too long")
+1771257cb447 ("locking/csd_lock: Remove added data from CSD lock debugging")
+c52198601695 ("locking/csd_lock: Add Kconfig option for csd_debug default")
+e73dfe30930b ("sched/debug: Try trigger_single_cpu_backtrace(cpu) in dump_cpu_task()")

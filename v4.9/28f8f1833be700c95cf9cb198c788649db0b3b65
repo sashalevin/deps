@@ -1,0 +1,7 @@
+28f8f1833be7 ("powerpc/pci: Use generic pci_mmap_resource_range()")
+f66e225828c1 ("PCI: Add BAR index argument to pci_mmap_page_range()")
+e854d8b2a82e ("PCI: Add arch_can_pci_mmap_io() on architectures which can mmap() I/O space")
+11df19546fe4 ("PCI: Move multiple declarations of pci_mmap_page_range() to <linux/pci.h>")
+ae749c7ab475 ("PCI: Add arch_can_pci_mmap_wc() macro")
+cef4d02305a0 ("PCI: Only allow WC mmap on prefetchable resources")
+17caf5673131 ("PCI: Fix another sanity check bug in /proc/pci mmap")

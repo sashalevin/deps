@@ -1,0 +1,5 @@
+7c3ea9870e09 ("ceph: no need to wait for transition RDCACHE|RD -> RD")
+173e70e8ac0f ("ceph: don't take refs to want mask unless we have all bits")
+525d15e8e5ad ("ceph: check inode type for CEPH_CAP_FILE_{CACHE,RD,REXTEND,LAZYIO}")
+0f439c746c8c ("ceph: fix race of queuing delayed caps")
+7271efa79f8b ("ceph: fix bool initialization/comparison")

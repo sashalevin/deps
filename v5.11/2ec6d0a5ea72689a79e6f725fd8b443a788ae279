@@ -1,0 +1,4 @@
+2ec6d0a5ea72 ("ext4: fix wrong unit use in ext4_mb_new_blocks")
+1e1c2b86ef86 ("ext4: block range must be validated before use in ext4_mb_clear_bb()")
+a00b482b82fb ("ext4: add strict range checks while freeing blocks")
+8ac3939db99f ("ext4: refactor ext4_free_blocks() to pull out ext4_mb_clear_bb()")

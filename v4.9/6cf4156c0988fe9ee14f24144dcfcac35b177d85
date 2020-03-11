@@ -1,0 +1,8 @@
+6cf4156c0988 ("mmc: sdhci-pci: Enable card detect wake for Intel BYT-related SD controllers")
+c2c49a2e2bf3 ("mmc: sdhci-pci: Set MMC_CAP_AGGRESSIVE_PM for BYT-related Intel controllers")
+c959a6b00ff5 ("mmc: sdhci-pci: Don't re-tune with runtime pm for some Intel devices")
+6ac9b83772a0 ("mmc: sdhci-pci: Remove unused member cd_con_id")
+3f23df72dc35 ("mmc: sdhci-pci: Use ACPI to get max frequency for Intel NI byt sdio")
+42b06496407c ("mmc: sdhci-pci: Add PCI ID for Intel NI byt sdio")
+8f743d03948d ("mmc: sdhci-pci: Allow deferred probe for sd card detect gpio")
+2d1956d0a4e0 ("mmc: sdhci-pci: Add support for Intel GLK")

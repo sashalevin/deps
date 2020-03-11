@@ -1,0 +1,8 @@
+d3b0ffa1d75d ("spi: gpio: prevent memory leak in spi_gpio_probe")
+8b797490b4db ("spi: gpio: Make sure spi_master_put() is called in every error path")
+249e2632dcd0 ("spi: gpio: Don't request CS GPIO in DT use-case")
+15dd0e9e002a ("spi: gpio: Add local struct spi_bitbang pointer in spi_gpio_probe()")
+96cad6d78f7f ("spi: gpio: Add local struct device pointer in spi_gpio_probe()")
+b89fefda7d4e ("spi: spi-gpio: fix SPI_CS_HIGH capability")
+5132b3d28371 ("spi: gpio: Support 3WIRE high-impedance turn-around")
+926369667732 ("Merge tag 'spi-cs-word' into spi-4.20")

@@ -1,0 +1,7 @@
+d34471c9bd5d ("powerpc/mm: Remove flush_all_mm, local_flush_all_mm")
+baf1ed24b27d ("powerpc/mm: Remove empty hash__ functions")
+6110236b9bbd ("powerpc/mm: Export flush_all_mm()")
+a46cc7a90fd8 ("powerpc/mm/radix: Improve TLB/PWC flushes")
+3c9ac2bcc354 ("powerpc/mm/radix: Drop support for CPUs without lockless tlbie")
+cf4f08bed876 ("powerpc/mm/radix: Optimise Page Walk Cache flush")
+f6b0df55cad2 ("powerpc/mm/radix: Don't do page walk cache flush when doing full mm flush")

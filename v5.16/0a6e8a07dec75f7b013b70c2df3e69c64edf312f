@@ -1,0 +1,5 @@
+0a6e8a07dec7 ("kasan: move disable_trace_on_warning to start_report")
+a260d2814e6d ("kasan: move update_kunit_status to start_report")
+49d9977ac909 ("kasan: check CONFIG_KASAN_KUNIT_TEST instead of CONFIG_KUNIT")
+3784c299eafc ("kasan: simplify kasan_update_kunit_status() and call sites")
+ed6d74446cbf ("kasan: test: support async (again) and asymm modes for HW_TAGS")

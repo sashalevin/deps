@@ -1,0 +1,7 @@
+2bff0659338e ("cifs: lease key is uninitialized in two additional functions when smb1")
+32546a9586aa ("cifs: move cifsFileInfo_put logic into a work-queue")
+d46b0da7a33d ("cifs: Fix cifsInodeInfo lock_sem deadlock when reconnect occurs")
+35cf94a39728 ("smb3: allow parallelizing decryption of reads")
+b98749cac4a6 ("CIFS: keep FileInfo handle live during oplock break")
+7b9b9edb49ad ("CIFS: Do not reset lease state to NONE on lease break")
+6d2f84eee098 ("smb3: fix large reads on encrypted connections")

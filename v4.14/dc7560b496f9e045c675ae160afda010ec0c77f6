@@ -1,0 +1,7 @@
+dc7560b496f9 ("mm,hwpoison: refactor madvise_inject_error")
+feec24a6139d ("mm, soft-offline: convert parameter to pfn")
+641fe2e9387a ("drivers/base/memory.c: don't access uninitialized memmaps in soft_offline_page_store()")
+23e7b5c2e271 ("mm, madvise_inject_error: Let memory_failure() optionally take a page reference")
+86a66810baa8 ("mm, madvise_inject_error: Disable MADV_SOFT_OFFLINE for ZONE_DEVICE pages")
+5844a486daf2 ("include/linux/mm.h: provide consistent declaration for num_poisoned_pages")
+83b57531c58f ("mm/memory_failure: Remove unused trapno from memory_failure")

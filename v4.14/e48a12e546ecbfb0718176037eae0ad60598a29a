@@ -1,0 +1,5 @@
+e48a12e546ec ("jump_labels: Mark __jump_label_transform() as __always_inlined to work around aggressive compiler un-inlining")
+4de4952c0abc ("x86/jump_label: Move 'inline' keyword placement")
+18cbc8bed0c7 ("x86/alternatives, jump_label: Provide better text_poke() batching interface")
+c3d6324f841b ("x86/alternatives: Teach text_poke_bp() to emulate instructions")
+da1770238597 ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

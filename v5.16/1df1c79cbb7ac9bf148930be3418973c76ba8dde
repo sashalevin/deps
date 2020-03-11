@@ -1,0 +1,5 @@
+1df1c79cbb7a ("drm/i915: Fix race in __i915_vma_remove_closed")
+c03d98267033 ("drm/i915: Clarify vma lifetime")
+bc1922e5d349 ("drm/i915: Fix a race between vma / object destruction and unbinding")
+0f341974cbc2 ("drm/i915: Add i915_vma_unbind_unlocked, and take obj lock for i915_vma_unbind, v2.")
+647bfd26bf05 ("Merge drm/drm-next into drm-intel-gt-next")

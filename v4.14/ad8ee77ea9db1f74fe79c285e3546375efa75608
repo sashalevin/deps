@@ -1,0 +1,8 @@
+ad8ee77ea9db ("mm/mremap: for MREMAP_DONTUNMAP check security_vm_enough_memory_mm()")
+51df7bcb6151 ("mm/mremap: account memory on do_munmap() failure")
+dadbd85f2afc ("mm: Fix MREMAP_DONTUNMAP accounting on VMA merge")
+e346b3813067 ("mm/mremap: add MREMAP_DONTUNMAP to mremap()")
+057d3389108e ("mm: untag user pointers passed to memory syscalls")
+ea2c3f6f5545 ("mm,mremap: bail out earlier in mremap_to under map pressure")
+050c17f239fd ("numa: change get_mempolicy() to use nr_node_ids instead of MAX_NUMNODES")
+a49bd4d71637 ("mm, numa: rework do_pages_move")

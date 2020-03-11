@@ -1,0 +1,8 @@
+90d68677226a ("perf: pmuv3: Remove comments from armv8pmu_[enable|disable]_event()")
+7755cec63ade ("arm64: perf: Move PMUv3 driver to drivers/perf")
+f00f3674873b ("arm64: perf: Consistently make all event numbers as 16-bits")
+83f83cc0c137 ("arm64: perf: Expose some Armv9 common events under sysfs")
+281e44f5fd4f ("arm64: perf: Add more support on caps under sysfs")
+2a0e2a02e4b7 ("arm64: perf: Remove PMU locking")
+0fdf1bb75953 ("arm64: perf: Avoid PMXEV* indirection")
+f5be3a61fdb5 ("arm64: perf: Add support caps under sysfs")

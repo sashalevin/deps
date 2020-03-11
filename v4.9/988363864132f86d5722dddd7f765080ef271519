@@ -1,0 +1,5 @@
+988363864132 ("don't bother with tid_fd_revalidate() in lookups")
+1ae9bd8b7e49 ("proc_lookupfd_common(): don't bother with instantiate unless the file is open")
+e3912ac37e07 ("proc: use %u for pid printing and slightly less stack")
+68eb94f16227 ("proc: Better ownership of files for non-dumpable tasks in user namespaces")
+db978da8fa1d ("proc: Pass file mode to proc_pid_make_inode")

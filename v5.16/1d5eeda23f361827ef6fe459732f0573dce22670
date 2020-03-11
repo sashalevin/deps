@@ -1,0 +1,5 @@
+1d5eeda23f36 ("can: kvaser_usb: advertise timestamping capabilities and add ioctl support")
+e6c80e601053 ("can: kvaser_usb: kvaser_usb_leaf: fix CAN clock frequency regression")
+49f274c72357 ("can: kvaser_usb: replace run-time checks with struct kvaser_usb_driver_info")
+cc4b08c31b5c ("can: do not increase tx_bytes statistics for RTR frames")
+0b0ce2c67795 ("can: kvaser_usb: do not increase tx statistics when sending error message frames")

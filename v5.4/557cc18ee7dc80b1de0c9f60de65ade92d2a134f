@@ -1,0 +1,7 @@
+557cc18ee7dc ("perf gtk: Only support --gtk if compiled in")
+3402ae0a2e05 ("perf tui: Only support --tui with slang")
+3b0b16bf8cb9 ("perf tools: Support --prefix/--prefix-strip")
+c5baf9089246 ("perf annotate: Fix objdump --no-show-raw-insn flag")
+b34b45eef16d ("perf annotate: Don't pipe objdump output through 'expand' command")
+7a675de42836 ("perf annotate: Don't pipe objdump output through 'grep' command")
+353dcaa2f979 ("perf annotate: Avoid reallocation in objdump parsing")

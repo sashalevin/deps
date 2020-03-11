@@ -1,0 +1,4 @@
+585fc0d2871c ("mm: hugetlbfs: fix cannot migrate the fallocated HugeTLB page")
+023bdd00235e ("mm/hugetlb: add prot_modify_start/commit sequence for hugetlb update")
+72639e6df412 ("fs/hugetlbfs/inode.c: change put_page/unlock_page order in hugetlbfs_fallocate()")
+e5251fd43007 ("mm/hugetlb: introduce set_huge_swap_pte_at() helper")

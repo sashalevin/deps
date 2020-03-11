@@ -1,0 +1,5 @@
+a0ae7e4e0bc0 ("md: factor out a helper rdev_addable() from remove_and_add_spares()")
+b172a0704d0d ("md: factor out a helper rdev_is_spare() from remove_and_add_spares()")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+f97a5528b21e ("md: introduce md_ro_state")
+d7a4783883d3 ("md: check for NULL ->meta_bdev before calling bdev_read_only")

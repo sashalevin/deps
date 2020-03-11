@@ -1,0 +1,8 @@
+07bb1fbaa2bb ("mm/damon/paddr: convert damon_pa_*() to use a folio")
+f70da5ee8fe1 ("mm/damon: convert damon_pa_mark_accessed_or_deactivate() to use folios")
+18250e78f9c7 ("mm/damon/paddr: support DAMOS filters")
+8193321ac90d ("mm/damon/paddr: deduplicate damon_pa_{mark_accessed,deactivate_pages}()")
+f82e70e26b50 ("mm/damon/paddr: make supported DAMOS actions of paddr clear")
+99cdc2cd180a ("mm/damon/schemes: add 'LRU_DEPRIO' action")
+8cdcc532268d ("mm/damon/schemes: add 'LRU_PRIO' DAMOS action")
+0e93e8bfd0b8 ("mm/damon/paddr: use a separate function for 'DAMOS_PAGEOUT' handling")

@@ -1,0 +1,5 @@
+01e69cef63f8 ("KVM: SVM: Fix x2APIC MSRs interception")
+5c127c85472c ("KVM: SVM: Adding support for configuring x2APIC MSRs interception")
+296d5a17e793 ("KVM: SEV-ES: Use V_TSC_AUX if available instead of RDTSC/MSR_TSC_AUX intercepts")
+f30903394eb6 ("x86/cpufeatures: Add virtual TSC_AUX feature bit")
+adc2a23734ac ("KVM: nSVM: improve SYSENTER emulation on AMD")

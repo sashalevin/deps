@@ -1,0 +1,6 @@
+ec274aff21b6 ("swiotlb: Omit total_used and used_hiwater if !CONFIG_DEBUG_FS")
+8b0977ecc8b3 ("swiotlb: track and report io_tlb_used high water marks in debugfs")
+5c850d31880e ("swiotlb: fix passing local variable to debugfs_create_ulong()")
+942a8186eb44 ("swiotlb: move struct io_tlb_slot to swiotlb.c")
+20347fca71a3 ("swiotlb: split up the global swiotlb lock")
+0bf28fc40d89 ("swiotlb: panic if nslabs is too small")

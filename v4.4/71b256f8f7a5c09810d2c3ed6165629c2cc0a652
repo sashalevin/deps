@@ -1,0 +1,6 @@
+71b256f8f7a5 ("iwlwifi: mvm: fix a use-after-free bug in iwl_mvm_tx_tso_segment")
+b0c9835c883c ("iwlwifi: mvm: move TSO segment to a separate function")
+6344436e9d3f ("iwlwifi: mvm: don't mess the SNAP header in TSO for non-QoS packets")
+4f555e602b42 ("iwlwifi: mvm: don't send fetch the TID from a non-QoS packet in TSO")
+05e5a7e58d3f ("iwlwifi: mvm/pcie: adjust A-MSDU tx_cmd length in PCIe")
+4e9f4b39426d ("Merge tag 'wireless-drivers-next-for-davem-2016-09-29' of git://git.kernel.org/pub/scm/linux/kernel/git/kvalo/wireless-drivers-next")

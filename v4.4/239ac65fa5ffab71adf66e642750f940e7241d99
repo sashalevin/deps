@@ -1,0 +1,4 @@
+239ac65fa5ff ("drm/ttm: Make sure BOs being swapped out are cacheable")
+61ede0705553 ("drm/ttm: wait for BO idle after the move in ttm_bo_swapout")
+8aa6d4fc5f47 ("drm/ttm: remove lazy parameter from ttm_bo_wait")
+5ee7b41a8b83 ("drm/ttm: don't wait for BO on initial allocation")

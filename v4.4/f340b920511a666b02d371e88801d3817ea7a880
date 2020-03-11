@@ -1,0 +1,5 @@
+f340b920511a ("spi: rockchip: mark use_dma as bool")
+aa099382ac0c ("spi: rockchip: Disable Runtime PM when chip select is asserted")
+5185a81c02d4 ("spi: rockchip: limit transfers to (64K - 1) bytes")
+b920cc3191d7 ("spi/rockchip: Make sure spi clk is on in rockchip_spi_set_cs")
+23366a02bfd3 ("spi: rockchip: remove xfer_completion from rockchip_spi")

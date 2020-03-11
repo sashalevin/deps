@@ -1,0 +1,7 @@
+462e5e2a5938 ("bpf: Fix JIT of is_mov_percpu_addr instruction.")
+1e9e0b85255e ("bpf: handle CONFIG_SMP=n configuration in x86 BPF JIT")
+7bdbf7446305 ("bpf: add special internal-only MOV instruction to resolve per-CPU addrs")
+142fd4d2dcf5 ("bpf: Add x86-64 JIT support for bpf_addr_space_cast instruction.")
+2fe99eb0ccf2 ("bpf: Add x86-64 JIT support for PROBE_MEM32 pseudo instructions.")
+667a86ad9b71 ("bpf: Disasm support for addr_space_cast instruction.")
+7c05e7f3e74e ("bpf: Support inlining bpf_kptr_xchg() helper")

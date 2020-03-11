@@ -1,0 +1,6 @@
+d06dd30beb25 ("pata: remove samsung_cf driver")
+efcef265fd83 ("ata: add/use ata_taskfile::{error|status} fields")
+bba077d801b1 ("ata: pata_samsung_cf: make pata_s3c_devchk() return 'bool'")
+ec87cf3782f7 ("ata: libata: make ata_host_suspend() *void*")
+b6a64a860e13 ("ata: pata_samsung_cf: add compile test support")
+742bef476ca5 ("ata: libata: move ata_{port,link,dev}_dbg to standard pr_XXX() macros")

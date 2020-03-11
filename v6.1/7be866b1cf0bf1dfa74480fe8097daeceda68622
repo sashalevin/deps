@@ -1,0 +1,8 @@
+7be866b1cf0b ("nvme-ioctl: move capable() admin check to the end")
+7d9d7d59d44b ("nvme: replace the fmode_t argument to the nvme ioctl handlers with a simple bool")
+313c08c72ee7 ("nvme: don't allow unprivileged passthrough on partitions")
+7b7fdb8e2dbc ("nvme: replace the "bool vec" arguments with flags in the ioctl path")
+2fa1dc8637b5 ("nvme: remove __nvme_ioctl")
+6f99ac04c469 ("nvme: consult the CSE log page for unprivileged passthrough")
+e4fbcf32c860 ("nvme: identify-namespace without CAP_SYS_ADMIN")
+855b7717f44b ("nvme: fine-granular CAP_SYS_ADMIN for nvme io commands")

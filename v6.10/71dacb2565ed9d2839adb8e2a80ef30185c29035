@@ -1,0 +1,5 @@
+71dacb2565ed ("i2c: riic: Simplify unsupported bus speed handling")
+3e3c9bea659a ("i2c: riic: Add support for fast mode plus")
+88c5cf45927b ("i2c: riic: Define individual arrays to describe the register offsets")
+a1ecb0415890 ("i2c: riic: Call pm_runtime_get_sync() when need to access registers")
+b42ed9fd6cd1 ("i2c: riic: Use temporary variable for struct device")

@@ -1,0 +1,3 @@
+0764db9b49c9 ("mm: memcg: synchronize objcg lists with a dedicated spinlock")
+271dd6b1f636 ("mm: memcontrol: move obj_cgroup_uncharge_pages() out of css_set_lock")
+9838354e16a2 ("mm: memcontrol: simplify the logic of objcg pinning memcg")

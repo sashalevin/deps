@@ -1,0 +1,7 @@
+f4b782af61ae ("power: max17040: pass status property from supplier")
+6455a8a84bdf ("power: supply: max17040: Use regmap i2c")
+2f38dc4d9190 ("power: supply: max17040: Add POWER_SUPPLY_PROP_CAPACITY_ALERT_MIN")
+0383024f811a ("power: supply: max17040: Correct voltage reading")
+a08990ea11dc ("power: supply: max17040: Send uevent in SOC and status change")
+cccdd0ca1c0d ("power: supply: max17040: Config alert SOC low level threshold from FDT")
+2e17ed94de68 ("power: supply: max17040: Add IRQ handler for low SOC alert")

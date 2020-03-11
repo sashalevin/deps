@@ -1,0 +1,3 @@
+266a9361a4cb ("btrfs: convert clear_page_extent_mapped() to take a folio")
+dfc9e3017aa7 ("btrfs: convert wait_subpage_spinlock() to only use a folio")
+de6f14e83e62 ("btrfs: make try_release_extent_mapping() return a bool")

@@ -1,0 +1,8 @@
+b29a2acd36dd ("KVM: x86/pmu: Truncate counter value to allowed width on write")
+75189d1de1b3 ("KVM: x86/pmu: Update AMD PMC sample period to fix guest NMI-watchdog")
+e79f49c37ccf ("KVM: x86/pmu: Introduce pmc->is_paused to reduce the call time of perf interfaces")
+46a010dd6896 ("kVM SVM: Move SVM related files to own sub-directory")
+168d918f2643 ("KVM: x86: Adjust counter sample period after a wrmsr")
+4400cf546b4b ("KVM: x86: Fix perfctr WRMSR for running counters")
+a6da0d77e98e ("KVM: x86/vPMU: Reuse perf_event to avoid unnecessary pmc_reprogram_counter")
+4be946728f65 ("KVM: x86/vPMU: Declare kvm_pmu->reprogram_pmi field using DECLARE_BITMAP")

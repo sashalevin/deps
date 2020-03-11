@@ -1,0 +1,6 @@
+e907277aeb6c ("tls: expand use of tls_cipher_desc in tls_sw_fallback_init")
+d2322cf5ed59 ("tls: allocate the fallback aead after checking that the cipher is valid")
+8db44ab26beb ("tls: rename tls_cipher_size_desc to tls_cipher_desc")
+037303d67607 ("tls: reduce size of tls_cipher_size_desc")
+200e23165109 ("tls: add TLS_CIPHER_ARIA_GCM_* to tls_cipher_size_desc")
+fd0fc6fdd889 ("tls: move tls_cipher_size_desc to net/tls/tls.h")

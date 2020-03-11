@@ -1,0 +1,8 @@
+5f2173e056b2 ("x86/mpx, selftests: Only check bounds-vs-shadow when we keep shadow")
+e754aedc26ef ("x86/mpx, selftests: Add MPX self test")
+b08983015cdd ("selftests/x86: Add an iopl test")
+6c25da5ad55d ("x86/signal/64: Re-add support for SS in the 64-bit signal context")
+8ff5bd2e1e27 ("x86/signal/64: Fix SS if needed when delivering a 64-bit signal")
+e21d50f3864e ("selftests/x86: Add check_initial_reg_state()")
+65cacec1ba90 ("selftests/x86: Test __kernel_sigreturn and __kernel_rt_sigreturn")
+0f672809f91a ("selftests/x86: Disable the ldt_gdt_64 test for now")

@@ -1,0 +1,8 @@
+bf9486d6dd23 ("fs/btrfs: Use the enum req_op and blk_opf_t types")
+3e77605d6a81 ("btrfs: raid56: make rbio_add_io_page() subpage compatible")
+44e5801fada6 ("btrfs: return correct error number for __extent_writepage_io()")
+e1b4b44e005e ("btrfs: don't allocate a btrfs_bio for raid56 per-stripe bios")
+e01bf588f8bc ("btrfs: pass bio opf to rbio_add_io_page")
+7c0c7269f7b5 ("btrfs: add BTRFS_IOC_ENCODED_WRITE")
+1881fba89bd5 ("btrfs: add BTRFS_IOC_ENCODED_READ ioctl")
+cb36a9bb17c4 ("btrfs: add ram_bytes and offset to btrfs_ordered_extent")

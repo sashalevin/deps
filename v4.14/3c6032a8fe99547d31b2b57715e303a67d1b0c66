@@ -1,0 +1,6 @@
+3c6032a8fe99 ("powerpc/smp: Move topology fixups into a new function")
+5e93f16ae48b ("powerpc/smp: Move powerpc_topology above")
+2ef0ca54d97f ("powerpc/smp: Merge Power9 topology with Power topology")
+82a7cebdd95c ("powerpc: Fix misleading small cores print")
+8e8a31d7fd54 ("powerpc: Use cpu_smallcore_sibling_mask at SMT level on bigcores")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")

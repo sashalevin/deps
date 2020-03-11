@@ -1,0 +1,4 @@
+7169654ce0f7 ("regulator: ltc3589: Convert enum->pointer for data in the match tables")
+fddc9bb6e277 ("regulator: ltc3589: Fix Wvoid-pointer-to-enum-cast warning")
+ba6622c43381 ("regulator: ltc3589: Convert to use regulator_set_ramp_delay_regmap")
+8ece31564f19 ("regulator: ltc3589: Fix W=1 build warning when CONFIG_OF=n")

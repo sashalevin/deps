@@ -1,0 +1,8 @@
+821fc9e261f3 ("irqchip/ingenic: Leave parent IRQ unmasked on suspend")
+2ef1cb763d92 ("irqchip: Replace setup_irq() by request_irq()")
+52ecc87642f2 ("irqchip: ingenic: Error out if IRQ domain creation failed")
+20b44b4de61f ("irqchip: ingenic: Drop redundant irq_suspend / irq_resume functions")
+a912e80bd0bb ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 151")
+518bfe84ec41 ("irqchip/i8259: Fix shutdown order by moving syscore_ops registration")
+8c0984e5a753 ("power: move power supply drivers to power/supply")
+f7816ad0f878 ("Merge tag 'for-v4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/sre/linux-power-supply")

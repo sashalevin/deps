@@ -1,0 +1,5 @@
+3aa16303dc98 ("macintosh: Switch to use for_each_child_of_node() macro")
+f1e0addca8bd ("macintosh: Use of_node_name_{eq, prefix} for node name comparisons")
+bf82d3758d4a ("macintosh: Use device_type helpers to access the node type")
+0bdba867f01d ("macintosh: Convert to using %pOFn instead of device_node.name")
+60bb70aa761c ("macintosh: use dev_groups and not dev_attrs for bus_type")

@@ -1,0 +1,6 @@
+a263a84088f6 ("i2c: smbus: Use device_*() functions instead of of_*()")
+8a77821e74d6 ("i2c: smbus: use DMA safe buffers for emulated SMBus transactions")
+f8756c67b3de ("i2c: core: call of_i2c_setup_smbus_alert in i2c_register_adapter")
+69d17246ab25 ("i2c: i2c-smbus: add of_i2c_setup_smbus_alert")
+3c0a60bee1d1 ("i2c: i2c-smbus: Move i2c_setup_smbus_alert from i2c-smbus to i2c-core-smbus")
+9b9f2b8bc2ac ("i2c: i2c-smbus: Use threaded irq for smbalert")

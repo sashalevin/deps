@@ -1,0 +1,8 @@
+c50c75e9b879 ("perf/core: Replace zero-length array with flexible-array")
+bbfd5e4fab63 ("perf/core: Add new branch sample type for HW index of raw branch records")
+c22497f5838c ("perf/x86/intel: Support adaptive PEBS v4")
+48f38aa4cc5a ("perf/x86/intel: Extract memory code PEBS parser for reuse")
+d01b1f96a82e ("perf/x86/intel: Make cpuc allocations consistent")
+602cae04c486 ("perf/x86/intel: Delay memory deallocation until x86_pmu_dead_cpu()")
+af3bdb991a5c ("perf/x86/intel: Add a separate Arch Perfmon v4 PMI handler")
+ba12d20edc5c ("perf/x86/intel: Factor out common code of PMI handler")

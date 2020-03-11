@@ -1,0 +1,7 @@
+d6d8c8a48291 ("mm/memory_hotplug.c: fix overflow in test_pages_in_a_zone()")
+a96dfddbcc04 ("base/memory, hotplug: fix a kernel oops in show_valid_zones()")
+deb88a2a19e8 ("mm/memory_hotplug.c: check start_pfn in test_pages_in_a_zone()")
+8a1f780e7f28 ("memory_hotplug: make zone_can_shift() return a boolean value")
+a371d9f1cc49 ("memory-hotplug: use zone_can_shift() for sysfs valid_zones attribute")
+df429ac03936 ("memory-hotplug: more general validation of zone during online")
+e51e6c8f8073 ("memory-hotplug: add move_pfn_range()")

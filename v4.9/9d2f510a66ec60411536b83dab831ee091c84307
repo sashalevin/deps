@@ -1,0 +1,8 @@
+9d2f510a66ec ("powerpc/64s/idle: avoid POWER9 DD1 and DD2.0 ERAT workaround on DD2.1")
+101dd590a7fa ("powerpc/perf: Avoid spurious PMU interrupts after idle")
+ba6d334ac230 ("powerpc/64s: Invalidate ERAT on powersave wakeup for POWER9")
+b51351e26400 ("powerpc/64s/idle: Branch to handler with virtual mode offset")
+424f8acd328a ("powerpc/powernv: Fix bug due to labeling ambiguity in power_enter_stop")
+09206b600c76 ("powernv: Pass PSSCR value and mask to power9_idle_stop")
+9e9fc6f00a54 ("cpuidle:powernv: Add helper function to populate powernv idle states.")
+823b7bd5156a ("powernv:idle: Add IDLE_STATE_ENTER_SEQ_NORET macro")

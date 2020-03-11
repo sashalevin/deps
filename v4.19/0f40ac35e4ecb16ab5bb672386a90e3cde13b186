@@ -1,0 +1,6 @@
+0f40ac35e4ec ("PCI/PM: Replace pci_set_power_state() in pci_pm_thaw_noirq()")
+18a94192e20d ("PCI/PM: Define pci_restore_standard_config() only for CONFIG_PM_SLEEP")
+81cfa5908fd6 ("PCI/PM: Move power state update away from pci_power_up()")
+f7b32a86e455 ("PCI/PM: Run resume fixups before disabling wakeup events")
+45144d42f299 ("PCI: PM: Fix pci_power_up()")
+b51033e06c2e ("PCI: PM/ACPI: Refresh all stale power state data in pci_pm_complete()")

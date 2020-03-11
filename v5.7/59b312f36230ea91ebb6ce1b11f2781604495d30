@@ -1,0 +1,5 @@
+59b312f36230 ("ceph: make iterate_sessions a global symbol")
+fba97e802501 ("ceph: make ceph_create_session_msg a global symbol")
+b682c6d41bc2 ("ceph: switch to WARN_ON_ONCE in encode_supported_features()")
+1cf03a68e791 ("ceph: convert mdsc->cap_dirty to a per-session list")
+4fb5dda39c26 ("ceph: document what protects i_dirty_item and i_flushing_item")

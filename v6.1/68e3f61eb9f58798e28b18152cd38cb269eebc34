@@ -1,0 +1,6 @@
+68e3f61eb9f5 ("ARM: perf: Mark all accessor functions inline")
+009d6dc87a56 ("ARM: perf: Allow the use of the PMUv3 driver on 32bit ARM")
+711432770f78 ("perf: pmuv3: Abstract PMU version checks")
+df29ddf4f04b ("arm64: perf: Abstract system register accesses away")
+7755cec63ade ("arm64: perf: Move PMUv3 driver to drivers/perf")
+cc91b9481605 ("arm64/perf: Replace PMU version number '0' with ID_AA64DFR0_EL1_PMUVer_NI")

@@ -1,0 +1,8 @@
+d2ac7bef95c9 ("usb: dwc3: fix PHY disable sequence")
+33fb697ec7e5 ("usb: dwc3: Get clocks individually")
+03c1fd622f72 ("usb: dwc3: core: add phy cleanup for probe error handling")
+0d3a97083e0c ("usb: dwc3: Rework clock initialization to be more flexible")
+240b65dc1e89 ("usb: dwc3: Use clk_bulk_prepare_enable()")
+03bf32bbb607 ("usb: dwc3: Use devres to get clocks")
+dc1b5d9aed17 ("usb: dwc3: Fix core validation in probe, move after clocks are enabled")
+08fd9a82fda8 ("usb: dwc3: core: Clean up ULPI device")

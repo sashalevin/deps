@@ -1,0 +1,4 @@
+878ebc14db04 ("accel/habanalabs: set hl_dmabuf_priv.device_address only when needed")
+d89d329a2bb3 ("accel/habanalabs: tiny refactor of hl_map_dmabuf()")
+efbca048c64b ("accel/habanalabs: use exported size from dma_buf and not from phys_pg_pack")
+dfdbc55a9c8c ("accel/habanalabs: always pass exported size to alloc_sgt_from_device_pages()")

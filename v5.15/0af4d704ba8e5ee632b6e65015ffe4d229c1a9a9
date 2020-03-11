@@ -1,0 +1,4 @@
+0af4d704ba8e ("pwm: Delete deprecated functions pwm_request() and pwm_free()")
+e51b156b18fb ("pwm: Document variables protected by pwm_lock")
+b88c48bfdd85 ("pwm: core: Get rid of unused devm_of_pwm_get()")
+27d9a4d69433 ("pwm: Add might_sleep() annotations for !CONFIG_PWM API functions")

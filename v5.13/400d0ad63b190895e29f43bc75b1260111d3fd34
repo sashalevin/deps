@@ -1,0 +1,4 @@
+400d0ad63b19 ("cifs: remove useless parameter 'is_fsctl' from SMB2_ioctl()")
+d6f5e3584524 ("cifs: fix NULL ptr dereference in smb2_ioctl_query_info()")
+b92e358757b9 ("cifs: prevent bad output lengths in smb2_ioctl_query_info()")
+966a3cb7c7db ("cifs: improve fallocate emulation")

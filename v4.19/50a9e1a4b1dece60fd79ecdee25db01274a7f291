@@ -1,1 +1,5 @@
 50a9e1a4b1de ("KVM: cpuid: rename do_cpuid_1_ent")
+d9aadaf68992 ("KVM: cpuid: set struct kvm_cpuid_entry2 flags in do_cpuid_1_ent")
+54d360d41211 ("KVM: cpuid: extract do_cpuid_7_mask and support multiple subleafs")
+ab8bcf649711 ("KVM: cpuid: do_cpuid_ent works on a whole CPUID function")
+fa4bff165070 ("Merge branch 'x86-mds-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

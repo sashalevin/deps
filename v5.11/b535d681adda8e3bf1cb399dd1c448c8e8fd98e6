@@ -1,0 +1,5 @@
+b535d681adda ("Revert "bpf: veth driver panics when xdp prog attached before veth_open"")
+5e5dc33d5dac ("bpf: veth driver panics when xdp prog attached before veth_open")
+2e0de6366ac1 ("veth: Avoid drop packets when xdp_redirect performs")
+d3256efd8e8b ("veth: allow enabling NAPI even without XDP")
+edbea9220251 ("veth: Store queue_mapping independently of XDP prog presence")

@@ -1,0 +1,7 @@
+8680e58761eb ("btrfs: open code need_full_stripe conditions")
+18d758a2d81a ("btrfs: replace btrfs_io_context::raid_map with a fixed u64 value")
+1faf3885067d ("btrfs: use an efficient way to represent source of duplicated stripes")
+4ced85f81a7a ("btrfs: reduce type width of btrfs_io_contexts")
+be5c7edbfdf1 ("btrfs: simplify the bioc argument for handle_ops_on_dev_replace()")
+6ded22c1bfe6 ("btrfs: reduce div64 calls by limiting the number of stripes of a chunk to u32")
+a97699d1d610 ("btrfs: replace map_lookup->stripe_len by BTRFS_STRIPE_LEN")

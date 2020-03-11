@@ -1,0 +1,4 @@
+bbc5a740c4f2 ("xfs: split xfs_file_read_iter into buffered and direct I/O helpers")
+cf810712cc82 ("xfs: remove s_maxbytes enforcement in xfs_file_read_iter")
+3176c3e0ef32 ("xfs: kill ioflags")
+a6d7636e8d0f ("xfs: fix recursive splice read locking with DAX")

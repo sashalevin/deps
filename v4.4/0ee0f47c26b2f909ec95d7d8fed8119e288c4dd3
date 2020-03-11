@@ -1,0 +1,8 @@
+0ee0f47c26b2 ("ipv6: Notify multipath route if should be offloaded")
+ebee3cad835f ("ipv6: Add IPv6 multipath notifications for add / replace")
+333c430167c2 ("net: ipv6: Plumb extack through route add functions")
+3b1137fe7482 ("net: ipv6: Change notifications for multipath add to RTA_MULTIPATH")
+0ae8133586ad ("net: ipv6: Allow shorthand delete of all nexthops in multipath route")
+830218c1add1 ("net: ipv6: Fix processing of RAs in presence of VRF")
+73483c1289d1 ("ipv6: report NLM_F_CREATE and NLM_F_EXCL flags in RTM_NEWROUTE events")
+8c14586fc320 ("net: ipv6: Use passed in table for nexthop lookups")

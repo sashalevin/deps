@@ -1,0 +1,6 @@
+5613a930857e ("parisc: Use SR_USER and SR_KERNEL in get_user() and put_user()")
+dbd0b42350d5 ("parisc: Fix some apparent put_user() failures")
+4b9d2a731c3d ("parisc: Switch user access functions to signal errors in r29 instead of r8")
+671028728083 ("parisc: Implement __get/put_kernel_nofault()")
+1260dea6d2eb ("parisc: Drop strnlen_user() in favour of generic version")
+4aae683f1327 ("tracing: Refactor TRACE_IRQFLAGS_SUPPORT in Kconfig")

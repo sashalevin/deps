@@ -1,0 +1,6 @@
+1b17159e52bb ("dm bio record: save/restore bi_end_io and bi_integrity")
+74d46992e0d9 ("block: replace bi_bdev with a gendisk pointer and partitions index")
+f8f84b2dfda5 ("btrfs: index check-integrity state hash by a dev_t")
+d62e26b3ffd2 ("block: pass in queue to inflight accounting")
+9346beb9d0ee ("bio-integrity: move the bio integrity profile check earlier in bio_integrity_prep")
+130568d5eac5 ("Merge branch 'for-linus' of git://git.kernel.dk/linux-block")

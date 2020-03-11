@@ -1,0 +1,8 @@
+8e670f77c4a5 ("Handle STATUS_IO_TIMEOUT gracefully")
+dc920277f1e5 ("cifs: clear PF_MEMALLOC before exiting demultiplex thread")
+dece44e381ab ("cifs: add support for SEEK_DATA and SEEK_HOLE")
+2f3ebaba13ce ("cifs: add fiemap support")
+c847dccfbdc1 ("CIFS: make mknod() an smb_version_op")
+d44d13723b09 ("cifs: remove unused value pointed out by Coverity")
+f5b05d622a3e ("cifs: add IOCTL for QUERY_INFO passthrough to userspace")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

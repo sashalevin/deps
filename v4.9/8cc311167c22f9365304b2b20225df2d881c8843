@@ -1,0 +1,6 @@
+8cc311167c22 ("PM / OPP: fix off-by-one bug in dev_pm_opp_get_max_volt_latency loop")
+dfbe4678d709 ("PM / OPP: Add infrastructure to manage multiple regulators")
+ce31781a7574 ("PM / OPP: Pass struct dev_pm_opp_supply to _set_opp_voltage()")
+0f0fe7e01327 ("PM / OPP: Manage supply's voltage/current in a separate structure")
+dc39d06fcd7a ("PM / OPP: Don't use OPP structure outside of rcu protected section")
+91291d9ad92f ("PM / OPP: Pass opp_table to dev_pm_opp_put_regulator()")

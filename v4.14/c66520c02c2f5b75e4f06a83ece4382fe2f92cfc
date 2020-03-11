@@ -1,0 +1,8 @@
+c66520c02c2f ("i2c: gpio: move to per-adapter debugfs directory")
+24051338322f ("i2c: gpio: remove error checks with debugfs")
+bb6bdd51c838 ("i2c: gpio: fault-injector: add 'inject_panic' injector")
+63e57b6f191d ("i2c: gpio: fault-injector: add 'lose_arbitration' injector")
+c6324fadeac8 ("i2c: gpio: fault-injector: sort debugfs files alphabetically")
+bbe899700a44 ("i2c: gpio: fault-injector: add incomplete_write_byte")
+16d55daa56cd ("i2c: gpio: fault-injector: refactor incomplete transfer")
+14911c6f48ec ("i2c: gpio: add fault injector")

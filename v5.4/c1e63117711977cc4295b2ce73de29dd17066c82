@@ -1,0 +1,8 @@
+c1e631177119 ("proc/vmcore: fix clearing user buffer by properly using clear_user()")
+cc5f2704c934 ("proc/vmcore: convert oldmem_pfn_is_ram callback to more generic vmcore callbacks")
+2c9feeaedfe1 ("proc/vmcore: let pfn_is_ram() return a bool")
+934fadf438b3 ("x86/xen: print a warning when HVMOP_get_mem_type fails")
+d452a4894983 ("x86/xen: simplify xen_oldmem_pfn_is_ram()")
+434b90f39e66 ("x86/xen: update xen_oldmem_pfn_is_ram() documentation")
+97a32539b956 ("proc: convert everything to "struct proc_ops"")
+7ba31c3f2f1e ("Merge tag 'staging-5.6-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging")

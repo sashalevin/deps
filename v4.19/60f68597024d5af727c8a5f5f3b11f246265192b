@@ -1,0 +1,4 @@
+60f68597024d ("i2c: core: Setup i2c_adapter runtime-pm before calling device_add()")
+d320ec7acc83 ("i2c: enable async suspend/resume for i2c adapters")
+23a698fe65ec ("i2c: core: treat EPROBE_DEFER when acquiring SCL/SDA GPIOs")
+75820314de26 ("i2c: core: add generic I2C GPIO recovery")

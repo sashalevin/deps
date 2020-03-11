@@ -1,0 +1,7 @@
+e50f0887804e ("usb: typec: tcpm/tcpci_maxim: use device managed TCPCI port deregistration")
+6ba97b42a5f2 ("usb: typec: tcpm/tcpci_maxim: convert to dev_err_probe()")
+030509ac473d ("usb: typec: tcpci: add attempt_vconn_swap_discovery callback")
+59cd27a0cab1 ("usb: typec: tcpci: add cable_comm_capable attribute")
+5e4c8814a431 ("usb: typec: tcpci: add vconn over current fault handling to maxim_core")
+23e60c8daf5e ("usb: typec: tcpci: clear the fault status bit")
+7126a2aeabae ("usb: Switch i2c drivers back to use .probe()")

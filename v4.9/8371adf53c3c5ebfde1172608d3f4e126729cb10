@@ -1,0 +1,7 @@
+8371adf53c3c ("io_uring: simplify io_file_get()")
+479f517be571 ("io_uring: kill extra check in fixed io_file_get()")
+c1379e247a72 ("io_uring: move req preps out of io_issue_sqe()")
+3ca405ebfc1c ("io_uring: share completion list w/ per-op space")
+4349f30ecb80 ("io_uring: remove dead 'ctx' argument and move forward declaration")
+8b3656af2a37 ("io_uring: fix lost cqe->flags")
+2237d76530eb ("Merge branch 'io_uring-5.8' into for-5.9/io_uring")

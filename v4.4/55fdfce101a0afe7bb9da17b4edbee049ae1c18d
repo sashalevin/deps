@@ -1,0 +1,5 @@
+55fdfce101a0 ("xprtrdma: Rename rpcrdma_frwr::sg and sg_nents")
+c882a655b78d ("xprtrdma: Use an anonymous union in struct rpcrdma_mw")
+7c7a5390dc6c ("xprtrdma: Add ro_unmap_sync method for FMR")
+c9918ff56dfb ("xprtrdma: Add ro_unmap_sync method for FRWR")
+3cf4e169be95 ("xprtrdma: Move struct ib_send_wr off the stack")

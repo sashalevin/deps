@@ -1,0 +1,8 @@
+1e7e93ee6da0 ("staging: rtl8188eu: buf_ptr variable completely defined in a single line")
+ec60e037c7e3 ("staging: rtl8188eu: offset increment placed into for loop header")
+f464b3a08cef ("staging: rtl8188eu: unnecessary branching removed")
+8107b147d78b ("staging: rtl8188eu: unnecessary variable override removed")
+37d5579095b3 ("staging: rtl8188eu: offset variable replaced by its value")
+1c48deffc7fa ("staging: rtl8188eu: initial value placed in the variable")
+d44f58f7c5c7 ("staging: rtl8188eu: assigning a value to the variable is replaced by the increment")
+52863d83f311 ("staging: rtl8188eu: *(ptr + i) replaced by ptr[i] in _rtl88e_fw_block_write")

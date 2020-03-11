@@ -1,0 +1,4 @@
+06862d789ddd ("ARM: OMAP2+: Fix suspcious RCU usage splats for omap_enter_idle_coupled")
+294a3317bef5 ("ARM: OMAP2+: Manage MPU state properly for omap_enter_idle_coupled()")
+8f04aea048d5 ("ARM: OMAP2+: Restore MPU power domain if cpu_cluster_pm_enter() fails")
+55be2f50336f ("ARM: OMAP2+: Handle errors for cpu_pm")

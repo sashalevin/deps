@@ -1,0 +1,5 @@
+e45cce30eade ("KVM: Move VM's worker kthreads back to the original cgroup before exiting.")
+c57c80467f90 ("kvm: Add helper function for creating VM worker threads")
+2eb06c306a57 ("KVM: Fix spinlock taken warning during host resume")
+c011d23ba046 ("kvm: fix compilation on aarch64")
+6706dae90d85 ("virt/kvm: Replace spin_is_locked() with lockdep")

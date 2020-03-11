@@ -1,0 +1,7 @@
+1520e8466d68 ("libbpf: Fix build warning on ref_ctr_off for 32-bit architectures")
+5e3b8356de36 ("libbpf: Add uprobe ref counter offset support for USDT semaphores")
+47faff371755 ("libbpf: Add bpf_cookie to perf_event, kprobe, uprobe, and tp attach APIs")
+668ace0ea5ab ("libbpf: Use BPF perf link when supported by kernel")
+da97553ec6e1 ("libbpf: Export bpf_program__attach_kprobe_opts function")
+a2488b5f483f ("libbpf: Allow specification of "kprobe/function+offset"")
+ac0ed488297a ("libbpf: Add bpf_program__attach_kprobe_opts function")

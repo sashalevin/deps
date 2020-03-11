@@ -1,0 +1,4 @@
+793d74a8c78e ("powerpc/vdso64: Switch from __get_datapage() to get_datapage inline macro")
+552263456215 ("powerpc: Fix vDSO clock_getres()")
+176ed98c8a76 ("y2038: vdso: powerpc: avoid timespec references")
+ddccf40fe82b ("y2038: vdso: change timeval to __kernel_old_timeval")

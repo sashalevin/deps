@@ -1,0 +1,8 @@
+d461f1f2fb91 ("xprtrdma: Initialize the xprt address string array earlier")
+03ac1a76ce5e ("xprtrdma: Fix buffer leak after transport set up failure")
+173b8f49b3af ("xprtrdma: Demote "connect" log messages")
+bebd031866ca ("xprtrdma: Support unplugging an HCA from under an NFS mount")
+fff09594edf5 ("xprtrdma: Refactor rpcrdma_ia_open()")
+0a90487bf718 ("xprtrdma: Handle stale connection rejection")
+c95a3c6b8865 ("xprtrdma: Disable pad optimization by default")
+5e9fc6a06bba ("xprtrdma: Support for SG_GAP devices")

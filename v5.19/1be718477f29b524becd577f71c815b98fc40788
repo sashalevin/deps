@@ -1,0 +1,4 @@
+1be718477f29 ("media: amphion: Stop direct calls to queue num_buffers field")
+e03bcb289891 ("media: amphion: Use vb2_get_buffer() instead of directly access to buffers array")
+afba6e20801a ("media: amphion: defer setting last_buffer_dequeued until resolution changes are processed")
+a3a2efca36a3 ("media: amphion: return error if format is unsupported by vpu")

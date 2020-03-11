@@ -1,0 +1,6 @@
+2ff559f31a5d ("Revert "userfaultfd: don't fail on unrecognized features"")
+914eedcb9ba0 ("userfaultfd: don't fail on unrecognized features")
+3c1c24d91ffd ("userfaultfd: require CAP_SYS_PTRACE for UFFD_FEATURE_EVENT_FORK")
+656031445d5a ("userfaultfd: non-cooperative: report all available features to userland")
+9cd75c3cd4c3 ("userfaultfd: non-cooperative: add ability to report non-PF events from uffd descriptor")
+6dcc27fd3943 ("userfaultfd: non-cooperative: Split the find_userfault() routine")

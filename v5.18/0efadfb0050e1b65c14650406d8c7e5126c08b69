@@ -1,0 +1,7 @@
+0efadfb0050e ("drm/msm: Drop msm_read/writel")
+c5597e58a56c ("drm/msm/a6xx: Move LLC accessors to the common header")
+26ed8d3dc06d ("drm/msm/a6xx: Introduce a6xx_llc_read")
+cade05b2a885 ("drm/msm/adreno: Simplify read64/write64 helpers")
+d7499634db4f ("drm/msm/adreno: Do not propagate void return values")
+6694482a70e9 ("drm/msm: Avoid unclocked GMU register access in 6xx gpu_busy")
+15c411980bac ("drm/msm: simplify gpu_busy callback")

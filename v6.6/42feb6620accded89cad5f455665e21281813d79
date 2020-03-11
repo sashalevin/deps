@@ -1,0 +1,5 @@
+42feb6620acc ("bpf: move verifier state printing code to kernel/bpf/log.c")
+db840d389bad ("bpf: move verbose_linfo() into kernel/bpf/log.c")
+1a8a315f008a ("bpf: Ensure proper register state printing for cond jumps")
+72f8a1de4a7e ("bpf: Disambiguate SCALAR register state output in verifier logs")
+d2a93715bfb0 ("selftests/bpf: Add tests for BPF exceptions")

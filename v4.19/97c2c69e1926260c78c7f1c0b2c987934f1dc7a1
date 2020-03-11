@@ -1,0 +1,6 @@
+97c2c69e1926 ("virtio-net: support XDP when not more queues")
+03aa6d34868c ("virtio_net: Don't process redirected XDP frames when XDP is disabled")
+1667c08a9d31 ("virtio_net: Fix out of bounds access of sq")
+188313c137c4 ("virtio_net: Fix not restoring real_num_rx_queues")
+8be4d9a492f8 ("virtio_net: Don't enable NAPI when interface is down")
+a02e8964eaf9 ("virtio-net: ethtool configurable LRO")

@@ -1,0 +1,7 @@
+78b3bf485d5c ("KVM: arm64: Unregister perf callbacks if hypervisor finalization fails")
+6baaeda87844 ("KVM: arm64: Free hypervisor allocations if vector slot init fails")
+bfa79a805454 ("KVM: arm64: Elevate hypervisor mappings creation at EL2")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")
+9cc7758145fd ("KVM: arm64: Initialize kvm_nvhe_init_params early")
+c5db649f3ded ("Merge branch 'kvm-arm64/concurrent-translation-fault' into kvmarm-master/next")

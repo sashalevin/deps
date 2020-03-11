@@ -1,0 +1,4 @@
+5e3ce1f26129 ("tty: serial: atmel: Make the driver aware of the existence of GCLK")
+5644bf1843d9 ("tty: serial: atmel: Only divide Clock Divisor if the IP is USART")
+84b476b124d4 ("tty: serial: atmel: use devm_clk_get()")
+c150c0f362c1 ("serial: Allow uart_get_rs485_mode() to return errno")

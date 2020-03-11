@@ -1,0 +1,6 @@
+77577de64167 ("cifs: Fix cached_fid refcnt leak in open_shroot")
+7e5a70ad88b1 ("CIFS: fix deadlock in cached root handling")
+b0f6df737a1c ("cifs: cache FILE_ALL_INFO for the shared root handle")
+6a9cbdd1ceca ("CIFS: Fix mounts if the client is low on credits")
+61351d6d54e6 ("smb3: send backup intent on compounded query info")
+c5a5f38f075c ("cifs: add a smb2_compound_op and change QUERY_INFO to use it")

@@ -1,0 +1,6 @@
+afb5519fdb34 ("powerpc/pseries: Don't attempt to acquire drc during memory hot add for assigned lmbs")
+c21f515c7436 ("powerpc/pseries: Make the acquire/release of the drc for memory a seperate step")
+fdb4f6e99ffa ("powerpc/pseries: Remove call to memblock_add()")
+ec999072442a ("powerpc/pseries: Auto-online hotplugged memory")
+bdf5fc633804 ("powerpc/pseries: Update LMB associativity index during DLPAR add/remove")
+4a4bdfea7cb7 ("powerpc/pseries: Refactor dlpar_add_lmb() code")

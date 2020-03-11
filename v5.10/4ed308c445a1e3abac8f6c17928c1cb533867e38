@@ -1,0 +1,5 @@
+4ed308c445a1 ("ftrace: Have architectures opt-in for mcount build time sorting")
+6b9b6413700e ("ftrace: Fix assuming build time sort works for s390")
+8147dc78e6e4 ("ftrace: Add test to make sure compiled time sorts work")
+72b3942a173c ("scripts: ftrace - move the sort-processing in ftrace_init")
+6dafca978033 ("x86, build: use objtool mcount")

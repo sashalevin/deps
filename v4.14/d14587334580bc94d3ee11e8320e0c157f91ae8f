@@ -1,0 +1,4 @@
+d14587334580 ("iw_cxgb4: when flushing, complete all wrs in a chain")
+96a236ed2867 ("iw_cxgb4: reflect the original WR opcode in drain cqes")
+c058ecf6e455 ("iw_cxgb4: only insert drain cqes if wq is flushed")
+cbb40fadd31c ("iw_cxgb4: only call the cq comp_handler when the cq is armed")

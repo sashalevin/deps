@@ -1,0 +1,4 @@
+696ffaf50e1f ("printk: Consolidate console deferred printing")
+5341b93dea8c ("printk: wake waiters for safe and NMI contexts")
+1f5d783094cf ("printk: add missing memory barrier to wake_up_klogd()")
+2ba3673d7017 ("printk: use atomic updates for klogd work")

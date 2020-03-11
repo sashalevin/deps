@@ -1,0 +1,8 @@
+bd5552bc4807 ("arm64: stacktrace: align with common naming")
+e9d75a0ba878 ("arm64: stacktrace: rename stackframe to unwind_state")
+c797bd45480b ("arm64: stacktrace: rename unwinder functions")
+96bb1530c4f9 ("arm64: stacktrace: make struct stackframe private to stacktrace.c")
+cb86a41b35c8 ("arm64: stacktrace: delete PCS comment")
+1e0924bd0991 ("arm64: Mark start_backtrace() notrace and NOKPROBE_SYMBOL")
+d2d1d2645cfd ("arm64: Make some stacktrace functions private")
+1e5428b2b7e8 ("arm64: Add comment for stack_info::kr_cur")

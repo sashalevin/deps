@@ -1,0 +1,4 @@
+f688944cfb81 ("io_uring/rw: add separate prep handler for fixed read/write")
+0e984ec88da9 ("io_uring/rw: add separate prep handler for readv/writev")
+fc68fcda0491 ("io_uring/rw: add support for IORING_OP_READ_MULTISHOT")
+d2d778fbf996 ("io_uring/rw: mark readv/writev as vectored in the opcode definition")

@@ -1,0 +1,4 @@
+e3fe982b2e4e ("pwm: samsung: Put per-channel data into driver data")
+daa986d5f8d8 ("pwm: samsung: Implement .apply() callback")
+b05232d62442 ("pwm: samsung: Don't uses devm_*() functions in ->request()")
+e926b12c611c ("pwm: Clear chip_data in pwm_put()")

@@ -1,0 +1,6 @@
+f637bfe26c23 ("thermal/drivers/generic-adc: Simplify probe() with local dev variable")
+01c2180b7099 ("thermal/drivers/generic-adc: Removed unneeded call to platform_set_drvdata()")
+85b21fdec906 ("thermal/drivers/generic-adc: Register thermal zones as hwmon sensors")
+2ff66cba5beb ("thermal/drivers/generic-adc: Switch to new of API")
+c1fde6e19f23 ("thermal: generic-adc: silence "no lookup table" on deferred probe")
+86bd20a5a518 ("thermal-generic-adc: Silent error message for EPROBE_DEFER")

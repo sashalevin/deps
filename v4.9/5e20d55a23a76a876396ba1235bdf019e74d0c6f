@@ -1,0 +1,7 @@
+5e20d55a23a7 ("netvsc: don't signal host twice if empty")
+f4e403633bcd ("netvsc: signal host if receive ring is emptied")
+7426b1a51803 ("netvsc: optimize receive completions")
+9749fed5d43d ("netvsc: use ERR_PTR to avoid dereference issues")
+ea383bf146be ("netvsc: change logic for change mtu and set_queues")
+a5e1ec383321 ("netvsc: change order of steps in setting queues")
+0ddead90b223 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

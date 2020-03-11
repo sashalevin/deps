@@ -1,0 +1,8 @@
+15eeadd801c0 ("rtc: ingenic: Fix masking of error code")
+77d8f3c1226b ("rtc: ingenic: Remove unused fields from private structure")
+fe0557f4dbd8 ("rtc: ingenic: Set wakeup params in probe")
+796be8b59dec ("rtc: ingenic: Enable clock in probe")
+c61293f14773 ("rtc: ingenic: Use local 'dev' variable in probe")
+24e1f2c9383e ("rtc: ingenic: Only support probing from devicetree")
+91b298f5dc95 ("rtc: jz4740: Rename vendor-specific DT properties")
+09ef18bcd5ac ("rtc: use devm_platform_ioremap_resource() to simplify code")

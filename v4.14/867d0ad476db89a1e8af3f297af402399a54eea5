@@ -1,0 +1,6 @@
+867d0ad476db ("net: fix XPS static_key accounting")
+f28c020fb488 ("net: restore call to netdev_queue_numa_node_write when resetting XPS")
+4d99f6602cb5 ("net: allow to call netif_reset_xps_queues() under cpus_read_lock")
+8af2c06ff4b1 ("net-sysfs: Add interface for Rx queue(s) map per Tx queue")
+04157469b7b8 ("net: Use static_key for XPS maps")
+80d19669ecd3 ("net: Refactor XPS for CPUs and Rx queues")

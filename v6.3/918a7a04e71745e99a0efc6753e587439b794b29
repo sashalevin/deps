@@ -1,0 +1,4 @@
+918a7a04e717 ("x86/decompressor: Use standard calling convention for trampoline")
+e8972a76aa90 ("x86/decompressor: Call trampoline as a normal function")
+8b63cba746f8 ("x86/decompressor: Store boot_params pointer in callee save register")
+264b82fdb498 ("x86/decompressor: Don't rely on upper 32 bits of GPRs being preserved")

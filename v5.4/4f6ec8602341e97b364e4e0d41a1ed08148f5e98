@@ -1,0 +1,5 @@
+4f6ec8602341 ("mm/vmalloc: separate put pages and flush VM flags")
+b944afc9d64d ("mm: add a VM_MAP_PUT_PAGES flag for vmap")
+3c5c3cfb9ef4 ("kasan: support backing vmalloc space with real shadow memory")
+e36176be1c39 ("mm/vmalloc: rework vmap_area_lock")
+81f1ba586e39 ("mm/vmalloc: remove preempt_disable/enable when doing preloading")

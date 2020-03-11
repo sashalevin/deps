@@ -1,0 +1,4 @@
+073352e951f6 ("genirq: Add and use an irq_data_update_affinity helper")
+961343d78226 ("genirq: Refactor accessors to use irq_data_get_affinity_mask")
+f7a6f994b4f0 ("xen/events: Only force affinity mask for percpu interrupts")
+1ca1b4e2c0cb ("xen/events: Use immediate affinity setting")

@@ -1,0 +1,6 @@
+8ba218e625f0 ("selftests/bpf: Add some tests with new bpf_program__attach_sockmap() APIs")
+a15d58b2bc82 ("selftests/bpf: Refactor out helper functions for a few tests")
+bdbca46d3f84 ("bpf: sockmap, add tests for proto updates replace socket")
+f1300467dd9f ("bpf: sockmap, add tests for proto updates single socket to many map")
+8c1b382a555a ("bpf: sockmap, add tests for proto updates many to single map")
+50d96f05af67 ("bpf: sockmap, test for unconnected af_unix sock")

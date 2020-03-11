@@ -1,0 +1,6 @@
+6a2e0923b2df ("KVM: VMX: vmx_uret_msrs_list[] can be static")
+14a61b642de9 ("KVM: VMX: Rename "vmx_msr_index" to "vmx_uret_msrs_list"")
+fbc18007382c ("KVM: VMX: Rename vcpu_vmx's "nmsrs" to "nr_uret_msrs"")
+eb3db1b13788 ("KVM: VMX: Rename the "shared_msr_entry" struct to "vmx_uret_msr"")
+ce833b2324ba ("KVM: VMX: Prepend "MAX_" to MSR array size defines")
+7e34fbd05c63 ("KVM: x86: Rename "shared_msrs" to "user_return_msrs"")

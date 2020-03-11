@@ -1,0 +1,5 @@
+90d72256addf ("gtp: fix bad unlock balance in gtp_encap_enable_socket")
+e198987e7dd7 ("gtp: fix suspicious RCU usage")
+1e3a3abd8b28 ("gtp: make GTP sockets in gtp_newlink optional")
+17886c470585 ("gtp: switch from struct socket to struct sock for the GTP sockets")
+3ab1b469e847 ("gtp: fix cross netns recv on gtp socket")

@@ -1,0 +1,8 @@
+47c413395376 ("ALSA: fm801: Allocate resources with device-managed APIs")
+68f441abd452 ("ALSA: fm801: Fix assignment in if condition")
+efb0ad25d370 ("ALSA: pci: Constify snd_device_ops definitions")
+610e1ae9b533 ("ALSA: fm801: Initialize chip after IRQ handler is registered")
+b56fa687e02b ("ALSA: fm801: detect FM-only card earlier")
+dbec6719ac03 ("ALSA: fm801: propagate TUNER_ONLY bit when autodetected")
+d3d33aabac51 ("ALSA: fm801: store struct device instead of pci_dev")
+e97e98c63b43 ("ALSA: fm801: explicitly free IRQ line")

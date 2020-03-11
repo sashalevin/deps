@@ -1,0 +1,7 @@
+e63a30c51f84 ("mm/damon/core: split damos application logic into a new function")
+2ea3498980f5 ("mm/damon/core: split out DAMOS-charged region skip logic into a new function")
+ab63f63f3885 ("mm/damon: use damon_sz_region() in appropriate place")
+f5a79d7c0c87 ("mm/damon: introduce struct damos_access_pattern")
+4ed9824346c0 ("mm/damon/core: simplify the parameter passing for region split operation")
+40e983cca927 ("mm/damon: introduce DAMON-based LRU-lists Sorting")
+c364f9af299f ("mm/damon/dbgfs: add and use mappings between 'schemes' action inputs and 'damos_action' values")

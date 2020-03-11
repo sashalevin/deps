@@ -1,0 +1,7 @@
+e74deb11931f ("x86/uaccess: Introduce user_access_{save,restore}()")
+a959dc88f9c8 ("Use __put_user_goto in __put_user_size() and unsafe_put_user()")
+75045f77f7a7 ("x86/extable: Introduce _ASM_EXTABLE_UA for uaccess fixups")
+80a3e3949b8f ("x86/extable: Mark exception handler functions visible")
+d5c8028b4788 ("x86/fpu: Reinitialize FPU registers if restoring FPU state fails")
+7a46ec0e2f48 ("locking/refcounts, x86/asm: Implement fast refcount overflow protection")
+b6ffe9ba4601 ("Merge tag 'libnvdimm-for-4.13' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

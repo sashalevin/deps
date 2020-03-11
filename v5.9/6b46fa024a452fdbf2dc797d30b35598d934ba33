@@ -1,0 +1,6 @@
+6b46fa024a45 ("nvme: remove unused timeout parameter")
+be42a33b9252 ("nvme: use blk_execute_rq() for passthrough commands")
+684da7628d93 ("block: remove unnecessary argument from blk_execute_rq")
+8eeed0b554b9 ("block: remove unnecessary argument from blk_execute_rq_nowait")
+dc96f93874c6 ("nvme: use consistent macro name for timeout")
+0d2e7c840b17 ("nvme: centralize setting the timeout in nvme_alloc_request")

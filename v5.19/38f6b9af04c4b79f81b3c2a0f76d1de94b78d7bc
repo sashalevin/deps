@@ -1,0 +1,4 @@
+38f6b9af04c4 ("mm: vmalloc: add va_alloc() helper")
+f9863be49312 ("mm/vmalloc: extend __alloc_vmap_area() with extra arguments")
+8eb510db2125 ("mm/vmalloc: make link_va()/unlink_va() common to different rb_root")
+1b23ff80b399 ("mm/vmalloc: invoke classify_va_fit_type() in adjust_va_to_fit_type()")

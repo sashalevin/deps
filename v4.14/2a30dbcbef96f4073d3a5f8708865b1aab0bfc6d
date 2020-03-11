@@ -1,0 +1,8 @@
+2a30dbcbef96 ("ftrace: Use LIST_HEAD to initialize clear_hash")
+db42523b4f3e ("ftrace: Store the order of pages allocated in ftrace_page")
+59300b36f85f ("ftrace: Check if pages were allocated before calling free_pages()")
+da537f0aef13 ("ftrace: Add information on number of page groups allocated")
+8715b108cd75 ("ftrace: Clear hashes of stale ips of init memory")
+aba4b5c22cba ("ftrace: Save module init functions kallsyms symbols for tracing")
+3e234289f86b ("ftrace: Allow module init functions to be traced")
+6cafbe159416 ("ftrace: Add a ftrace_free_mem() function for modules to use")

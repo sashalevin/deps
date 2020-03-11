@@ -1,0 +1,6 @@
+3de4d22cc9ac ("bpf, btf: Warn but return no error for NULL btf from __register_btf_kfunc_id_set()")
+c446fdacb10d ("bpf: fix register_btf_kfunc_id_set for !CONFIG_DEBUG_INFO_BTF")
+dee872e124e8 ("bpf: Populate kfunc BTF ID sets in struct btf")
+9e2ad638ae36 ("bpf: Extend BTF_ID_LIST_GLOBAL with parameter for number of IDs")
+7c7e3d31e785 ("bpf: Introduce helper bpf_find_vma")
+d6aef08a872b ("bpf: Add bpf_kallsyms_lookup_name helper")

@@ -1,0 +1,6 @@
+298b871cd55a ("bootconfig: Fix the kerneldoc of _xbc_exit()")
+f3668cde8562 ("bootconfig: Split parse-tree part from xbc_init")
+115d4d08aeb9 ("bootconfig: Rename xbc_destroy_all() to xbc_exit()")
+bdac5c2b243f ("bootconfig: Allocate xbc_data inside xbc_init()")
+77e02cf57b6c ("memblock: introduce saner 'memblock_free_ptr()' interface")
+40caa127f3c7 ("init: bootconfig: Remove all bootconfig data when the init memory is removed")

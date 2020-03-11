@@ -1,0 +1,4 @@
+27b8f91c08d9 ("drm/bridge: remove ->get_edid callback")
+3ce7384048fa ("drm/bridge: remove drm_bridge_get_edid() in favour of drm_bridge_edid_read()")
+d807ad80d811 ("drm/bridge: add ->edid_read hook and drm_bridge_edid_read()")
+11d3cf804591 ("drm: bridge: Return NULL on error from drm_bridge_get_edid()")

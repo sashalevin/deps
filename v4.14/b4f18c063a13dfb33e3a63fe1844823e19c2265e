@@ -1,0 +1,6 @@
+b4f18c063a13 ("arm64: KVM: Handle guest's ARCH_WORKAROUND_2 requests")
+f72af90c3783 ("arm64: KVM: Add SMCCC_ARCH_WORKAROUND_1 fast handling")
+0067df413bd9 ("KVM: arm64: Handle RAS SErrors from EL2 on guest exit")
+3368bd809764 ("KVM: arm64: Handle RAS SErrors from EL1 on guest exit")
+e70dce73befc ("kvm: arm64: handle single-step during SError exceptions")
+ee9bb9a1e3c6 ("KVM: arm/arm64: Move timer/vgic flush/sync under disabled irq")

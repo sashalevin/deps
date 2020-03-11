@@ -1,0 +1,6 @@
+9356c4b8886c ("x86/fred: Update MSR_IA32_FRED_RSP0 during task switch")
+dfbd9e4059c4 ("x86/cpu: Drop 32-bit Xen PV guest code in update_task_stack()")
+1591584e2e76 ("x86/process/64: Move cpu_current_top_of_stack out of TSS")
+951c2a51ae75 ("x86/irq/64: Adjust the per CPU irq stack pointer by 8")
+e7f890017971 ("x86/irq: Sanitize irq stack tracking")
+a7b3474cbb28 ("x86/irq: Make run_on_irqstack_cond() typesafe")

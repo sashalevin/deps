@@ -1,0 +1,7 @@
+f36be9ce8146 ("EDAC: constantify the struct bus_type usage")
+cb4a0bec0bb9 ("EDAC/sysfs: move to use bus_get_dev_root()")
+7fc0b9b995f2 ("EDAC: Drop the EDAC report status checks")
+23ba710a0864 ("x86/mce: Fix all mce notifiers to update the mce->kflags bitmask")
+9554bfe403bd ("x86/mce: Convert the CEC to use the MCE notifier")
+c9c6d216ed28 ("x86/mce: Rename "first" function as "early"")
+3e0fdec858d8 ("x86/mce/amd, edac: Remove report_gart_errors")

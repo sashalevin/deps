@@ -1,0 +1,7 @@
+f6e707156e1d ("perf/core: Introduce perf_prepare_header()")
+a7c8d0daa875 ("perf/core: Do not pass header for sample ID init")
+bb447c27a467 ("perf/core: Set data->sample_flags in perf_prepare_sample()")
+eb55b455ef9c ("perf/core: Add perf_sample_save_brstack() helper")
+0a9081cf0a11 ("perf/core: Add perf_sample_save_raw_data() helper")
+31046500c186 ("perf/core: Add perf_sample_save_callchain() helper")
+4cf7a136115e ("perf/core: Save the dynamic parts of sample data size")

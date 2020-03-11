@@ -1,0 +1,3 @@
+8aaf1ee70e19 ("tracing: Rename trace_active to disable_stack_tracer and inline its modification")
+5367278cb7ba ("tracing: Add stack_tracer_disable/enable() functions")
+252babcd52aa ("tracing: Replace the per_cpu() with __this_cpu*() in trace_stack.c")

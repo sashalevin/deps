@@ -1,0 +1,6 @@
+4a791574a0cc ("scsi: ufs: ufs-qcom: Disable interrupt in reset path")
+870b1279c7a0 ("scsi: ufs-qcom: Add reset control support for host controller")
+12fd5f250db2 ("scsi: ufs: qcom: Expose the reset controller for PHY")
+326a859b2814 ("scsi: ufs: Remove select of phy-qcom-ufs from ufs-qcom")
+1e1e465c6d23 ("scsi/ufs: qcom: Remove ufs_qcom_phy_*() calls from host")
+2ba3c43f09c5 ("phy: qcom-ufs: Remove stale methods that handle ref clk")

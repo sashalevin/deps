@@ -1,0 +1,7 @@
+f525152a0f0f ("iomap: factor out a iomap_writepage_map_block helper")
+7edfc610ec31 ("iomap: clean up the iomap_alloc_ioend calling convention")
+cc9542534bf0 ("iomap: move all remaining per-folio logic into iomap_writepage_map")
+e3a491a26b62 ("iomap: factor out a iomap_writepage_handle_eof helper")
+c2dc7e5589a1 ("iomap: move the PF_MEMALLOC check to iomap_writepages")
+80d012e98894 ("iomap: treat inline data in iomap_writepage_map as an I/O error")
+7ea1d9b4a840 ("iomap: clear the per-folio dirty bits on all writeback failures")

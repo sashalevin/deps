@@ -1,0 +1,6 @@
+bbac58698a55 ("btrfs: remove device item and update super block in the same transaction")
+1a15eb724aae ("btrfs: use btrfs_get_dev_args_from_path in dev removal ioctls")
+8ef9dc0f14ba ("btrfs: do not take the uuid_mutex in btrfs_rm_device")
+3fa421dedbc8 ("btrfs: delay blkdev_put until after the device remove")
+e4571b8c5e9f ("btrfs: fix NULL pointer dereference when deleting device by invalid id")
+67ae34b69c41 ("btrfs: add device delete cancel")

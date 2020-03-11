@@ -1,0 +1,8 @@
+de28e469da75 ("USB: core: Change usb_get_device_descriptor() API")
+85d07c556216 ("USB: core: Unite old scheme and new scheme descriptor reads")
+6ae6dc22d2d1 ("usb: hub: Fix usb enumeration issue due to address0 race")
+41631d3616c3 ("usb: core: Replace in_interrupt() in comments")
+fb6f076d5434 ("USB: hub: Add Kconfig option to reduce number of port initialization retries")
+19502e6911e4 ("USB: hub: Clean up use of port initialization schemes and retries")
+0d9b6d49fe39 ("usb: Use fallthrough pseudo-keyword")
+ff4c65ca48f0 ("usb: hci: add hc_driver as argument for usb_hcd_pci_probe")

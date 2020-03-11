@@ -1,0 +1,5 @@
+dd0fd8bca185 ("x86/kvm: Provide optimized version of vcpu_is_preempted() for x86-64")
+6c62985d576c ("x86/paravirt: Change vcp_is_preempted() arg type to long")
+3cded4179481 ("x86/paravirt: Optimize native pv_lock_ops.vcpu_is_preempted()")
+de7689cf8f38 ("x86/xen: Support the vCPU preemption check")
+446f3dc8cc0a ("locking/core, x86/paravirt: Implement vcpu_is_preempted(cpu) for KVM and Xen guests")

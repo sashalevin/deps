@@ -1,0 +1,1 @@
+6b292a04c694 ("pci_irq_vector() can't be used in atomic context any longer. This conflicts with the usage of this function in nic_mbx_intr_handler().")

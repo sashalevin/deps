@@ -1,0 +1,6 @@
+3911764cfbe7 ("i2c: meson: remove meson_i2c_write_tokens")
+3f205d7b4761 ("i2c: meson: don't create separate token chain just for the stop command")
+38ed55ca9ec2 ("i2c: meson: improve interrupt handler and detect spurious interrupts")
+09af1c2fa490 ("i2c: meson: set clock divider in probe instead of setting it for each transfer")
+a55cc70af61b ("i2c: meson: remove member irq from struct meson_i2c")
+0268263f0cf2 ("i2c: meson: Use complete() instead of complete_all()")

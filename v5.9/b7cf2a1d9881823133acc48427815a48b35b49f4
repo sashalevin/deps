@@ -1,0 +1,6 @@
+b7cf2a1d9881 ("xtensa: remove redundant flush_dcache_page and ARCH_IMPLEMENTS_FLUSH_DCACHE_PAGE macros")
+7a92fc8b4d20 ("mm: Introduce flush_cache_vmap_early()")
+5e22bfd520ea ("riscv: Improve flush_tlb_kernel_range()")
+9d4e8d5fa7db ("riscv: Make __flush_tlb_range() loop over pte instead of flushing the whole tlb")
+c5e9b2c2ae82 ("riscv: Improve tlb_flush()")
+b96a3e9142fd ("Merge tag 'mm-stable-2023-08-28-18-26' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

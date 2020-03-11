@@ -1,0 +1,5 @@
+7cbe0932c2f2 ("KEYS: Convert KEYCTL_DH_COMPUTE to use the crypto KPP API")
+281590b42217 ("KEYS: DH: don't feed uninitialized "otherinfo" into KDF")
+4cd4ca7cc848 ("keys: select CONFIG_CRYPTO when selecting DH / KDF")
+f1c316a3ab9d ("KEYS: add SP800-56A KDF support for DH")
+ddb99e118e37 ("security, keys: convert key_user.usage from atomic_t to refcount_t")

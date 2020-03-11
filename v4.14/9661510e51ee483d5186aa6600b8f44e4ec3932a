@@ -1,0 +1,8 @@
+9661510e51ee ("drm/stm: Convert to CRTC VBLANK callbacks")
+b70fbfc7d516 ("drm/stm: Convert to struct drm_crtc_helper_funcs.get_scanout_position()")
+a6bd58c51ac4 ("drm/stm: ltdc: check crtc state before enabling LIE")
+53273b522208 ("drm: stm: implement get_scanout_position function")
+0cefff963bf2 ("drm/stm: ltdc: add mode_valid()")
+c8da819478e8 ("drm/stm: move enable/disable_vblank to crtc")
+1a32a938b643 ("drm/stm: ltdc: use crtc_mode_fixup to update adjusted_mode clock")
+b706a25eaed0 ("drm/stm: ltdc: add clut mode support")

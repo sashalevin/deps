@@ -1,0 +1,4 @@
+0b2c59720e65 ("l2tp: close all race conditions in l2tp_tunnel_register()")
+c4d48a58f32c ("l2tp: convert l2tp_tunnel_list to idr")
+af295e854a4e ("l2tp: Don't sleep and disable BH under writer-side sk_callback_lock")
+b68777d54fac ("l2tp: Serialize access to sk_user_data with sk_callback_lock")

@@ -1,0 +1,3 @@
+6fe8b9c1f41d ("bpf, x64: save several bytes by using mov over movabsq when possible")
+7e56fbd27b4b ("bpf, x86_64/arm64: remove old ldimm64 artifacts from jits")
+606c88a86c77 ("bpf, x86: detect/optimize loading 0 immediates")

@@ -1,0 +1,7 @@
+913b2255c3d8 ("libbpf: Support sleepable struct_ops.s section")
+450b167fb9be ("libbpf: clean up SEC() handling")
+cc7d8f2c8ecc ("libbpf: Support target-less SEC() definitions for BTF-backed programs")
+9af8efc45eb1 ("libbpf: Allow "incomplete" basic tracing SEC() definitions")
+2e4913e025fd ("libbpf: Wire up USDT API and bpf_link integration")
+39f8dc43b7a0 ("libbpf: Add auto-attach for uprobes based on section name")
+1ce3a60e3c28 ("libbpf: auto-resolve programs/libraries when necessary for uprobes")

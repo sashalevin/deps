@@ -1,0 +1,7 @@
+200dbd6d14e6 ("posix-timers: Remove pointless comments")
+3561fcb402b7 ("posix-timers: Document sys_clock_settime() permissions in place")
+01679b5db717 ("posix-timers: Document sys_clock_getres() correctly")
+8d44b958a1a0 ("posix-timers: Cleanup comments about timer ID tracking")
+9c71a2e8a757 ("posix-clocks: Introduce clock_get_ktime() callback")
+eaf80194d0fe ("posix-clocks: Rename .clock_get_timespec() callbacks accordingly")
+819a95fe3adf ("posix-clocks: Rename the clock_get() callback to clock_get_timespec()")

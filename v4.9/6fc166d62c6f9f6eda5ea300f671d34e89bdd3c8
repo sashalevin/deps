@@ -1,0 +1,5 @@
+6fc166d62c6f ("rxrpc: rxrpc_kernel_send_data() needs to handle failed call better")
+146d8fef9da1 ("rxrpc: Call state should be read with READ_ONCE() under some circumstances")
+37411cad633f ("rxrpc: Fix potential NULL-pointer exception")
+540b1c48c37a ("rxrpc: Fix deadlock between call creation and sendmsg/recvmsg")
+b54a134a7de4 ("rxrpc: Fix handling of enums-to-string translation in tracing")

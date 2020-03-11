@@ -1,0 +1,7 @@
+a7b0872e964c ("irq: arm: perform irqentry in entry code")
+e1c054918c6c ("genirq: Move non-irqdomain handle_domain_irq() handling into ARM's handle_IRQ()")
+8240ef50d486 ("genirq: Add generic_handle_domain_irq() helper")
+9e027dd979be ("irqchip/nvic: Convert from handle_IRQ() to handle_domain_irq()")
+a3016b26ee6e ("genirq: Use irq_resolve_mapping() to implement __handle_domain_irq() and co")
+c16816acd086 ("genirq: Add protection against unsafe usage of generic_handle_irq()")
+6f1a4891a592 ("x86/apic/msi: Plug non-maskable MSI affinity race")

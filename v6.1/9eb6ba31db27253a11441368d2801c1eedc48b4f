@@ -1,0 +1,6 @@
+9eb6ba31db27 ("KVM: x86: Generate set of VMX feature MSRs using first/last definitions")
+2374b7310b66 ("KVM: x86/pmu: Use separate array for defining "PMU MSRs to save"")
+8911ce66697e ("KVM: x86/pmu: Cap kvm_pmu_cap.num_counters_gp at KVM's internal max")
+6a5cba7bed35 ("KVM: x86/pmu: Correct the mask used in a pmu event filter lookup")
+b7483387e374 ("KVM: x86: Move hardware setup/unsetup to init/exit")
+1935542a04cc ("KVM: x86: Do timer initialization after XCR0 configuration")

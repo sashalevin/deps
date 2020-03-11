@@ -1,0 +1,8 @@
+b81e0c2372e6 ("block: drop unused includes in <linux/genhd.h>")
+c66fd019713e ("block: make the block holder code optional")
+c8276b954d2d ("block: split __blkdev_put")
+e54069acac1a ("block: move adjusting bd_part_count out of __blkdev_get")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")

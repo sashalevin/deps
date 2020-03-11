@@ -1,0 +1,5 @@
+d541ae55d538 ("dma-direct: factor out a helper for DMA_ATTR_NO_KERNEL_MAPPING allocations")
+f4111e39a52a ("swiotlb: Add restricted DMA alloc/free support")
+903cd0f315fe ("swiotlb: Use is_swiotlb_force_bounce for swiotlb data bouncing")
+6f2beb268a5d ("swiotlb: Update is_swiotlb_active to add a struct device argument")
+0a65579cdd28 ("swiotlb: Refactor swiotlb init functions")

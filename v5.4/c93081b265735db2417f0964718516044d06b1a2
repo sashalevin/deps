@@ -1,0 +1,5 @@
+c93081b26573 ("mtd: spinand: Fix double counting of ECC stats")
+945845b54c9c ("mtd: spinand: Instantiate a SPI-NAND on-die ECC engine")
+55a1a71a7f5d ("mtd: spinand: Move ECC related definitions earlier in the driver")
+9a333a72c1d0 ("mtd: spinand: Use nanddev_get_ecc_conf() when relevant")
+3507273d5a4d ("mtd: spinand: Propagate ECC information to the MTD structure")

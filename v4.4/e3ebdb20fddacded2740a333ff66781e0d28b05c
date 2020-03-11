@@ -1,0 +1,8 @@
+e3ebdb20fdda ("net/ipv6: Fix CALIPSO causing GPF with datagram support")
+2917f57b6bc1 ("calipso: Allow the lsm to label the skbuff directly.")
+e1adea927080 ("calipso: Allow request sockets to be relabelled by the lsm.")
+ceba1832b1b2 ("calipso: Set the calipso socket label to match the secattr.")
+e1ce69df7e6e ("netlabel: Add support for enumerating the CALIPSO DOI list.")
+a5e34490c316 ("netlabel: Add support for querying a CALIPSO DOI.")
+cb72d38211ea ("netlabel: Initial support for the CALIPSO netlink protocol.")
+0e0e36774081 ("netlabel: add address family checks to netlbl_{sock,req}_delattr()")

@@ -1,0 +1,8 @@
+9502ffcda049 ("dmaengine: qcom: bam_dma: Add "powered remotely" mode")
+123935a4ca93 ("dmaengine: qcom: bam_dma: Manage clocks when controlled_remotely is set")
+5b4a68952a89 ("dmaengine: qcom: bam_dma: disable runtime pm on remote controlled")
+48d163b1aa6e ("dmaengine: qcom: bam_dma: get num-channels and num-ees from dt")
+9d31821fa9ca ("dmaengine: qcom: bam_dma: make bam clk optional")
+7d2545599f5b ("dmaengine: qcom-bam-dma: Add pm_runtime support")
+5172c9eb89d4 ("dmaengine: qcom: bam_dma: add controlled-remotely dt property")
+f89117c0f54c ("dmaengine: qcom: bam_dma: clear BAM interrupt only if it is raised")

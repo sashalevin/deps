@@ -1,0 +1,7 @@
+42cf5fc5eece ("ublk_drv: requeue rqs with recovery feature enabled")
+ae3f71930081 ("ublk_drv: check 'current' instead of 'ubq_daemon'")
+966120b51a24 ("ublk_drv: check ubq_daemon_is_dying() in __ublk_rq_task_work()")
+0edb3696c171 ("ublk_drv: support to complete io command via task_work_add")
+71f28f3136af ("ublk_drv: add io_uring based userspace block driver")
+3427f2b2c533 ("block: remove the rsxx driver")
+ac6f6548fcb3 ("rsxx: Drop PCI legacy power management")

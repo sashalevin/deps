@@ -1,0 +1,7 @@
+275aa53f59df ("drm/xe/pm: Add trace for pm functions")
+a382291017f9 ("drm/xe: Removing extra mem_access protection from runtime pm")
+f7f24b7950af ("drm/xe: Add dbg messages on the suspend resume functions.")
+5c9da9fc64a1 ("drm/xe: Convert xe_pm_runtime_{get, put} to void and protect from recursion")
+23cf006beac3 ("drm/xe: Runtime PM wake on every IOCTL")
+0f9d886f0bf9 ("drm/xe: Convert mem_access assertion towards the runtime_pm state")
+30c399529f4c ("drm/xe: Document Xe PM component")

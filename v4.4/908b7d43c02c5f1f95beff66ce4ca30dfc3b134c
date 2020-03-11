@@ -1,0 +1,7 @@
+908b7d43c02c ("KVM: x86/mmu: Skip the permission_fault() check on MMIO if CR0.PG=0")
+871bd0346018 ("KVM: x86: Rename access permissions cache member in struct kvm_vcpu_arch")
+9034e6e89526 ("KVM: x86: fix use of L1 MMIO areas in nested guests")
+09ca3f20492f ("KVM: VMX: Reorder some skip_emulated_instruction calls")
+be94f6b71067 ("KVM, pkeys: add pkeys support for permission_fault")
+f13577e8aa86 ("KVM: MMU: return page fault error code from permission_fault")
+ded5874946ba ("KVM: x86: MMU: Consolidate quickly_check_mmio_pf() and is_mmio_page_fault()")

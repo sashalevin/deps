@@ -1,0 +1,8 @@
+d1baf7a3a317 ("hwmon: (pmbus) Check PEC support before reading other registers")
+75d2b2b06bd8 ("hwmon: (pmbus) disable PEC if not enabled")
+4e5418f787ec ("hwmon: (pmbus_core) Check adapter PEC support")
+e5befc024cb4 ("hwmon: (pmbus) Add a PMBUS_NO_CAPABILITY platform data flag")
+9e347728c4fe ("hwmon: (pmbus) Detect if chip is write protected")
+e7c6a55606b5 ("hwmon: (pmbus) Fix page count auto-detection.")
+d206636e7697 ("hwmon: (pmbus) Add fan control support")
+6dcf2fb5e8db ("hwmon: (pmbus/core) Prevent unintentional setting of page to 0xFF")

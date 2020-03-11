@@ -1,0 +1,3 @@
+3d07fa1dd190 ("tracing: Zero the pipe cpumask on alloc to avoid spurious -EBUSY")
+c2489bb7e6be ("tracing: Introduce pipe_cpumask to avoid race on trace_pipes")
+7ef282e05132 ("tracing: Move pipe reference to trace array instead of current_tracer")

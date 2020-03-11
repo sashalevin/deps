@@ -1,0 +1,4 @@
+0c4d01f39529 ("s390/ctlreg: move control register code to separate file")
+e1b9c2749af0 ("s390/smp: ensure global control register contents are in sync")
+c28c07fe235c ("s390/mm: move pfault code to own C file")
+b9b4568843bb ("s390/kexec: make machine_kexec() depend on CONFIG_KEXEC_CORE")

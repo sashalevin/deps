@@ -1,0 +1,6 @@
+711bdd5141d8 ("inet: factor out locked section of inet_accept() in a new helper")
+71b7786ea478 ("net: also flag accepted sockets supporting msghdr originated zerocopy")
+e47309363994 ("inet: factor out inet_send_prepare()")
+cdfbabfb2f0c ("net: Work around lockdep limitation in sockets that use sockets")
+526735ddc0ae ("net: fix AF_SMC related typo")
+02ac5d148711 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

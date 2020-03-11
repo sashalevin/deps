@@ -1,0 +1,7 @@
+d5d2d4cc6088 ("kbuild: rpm-pkg: derive the Version from %{KERNELRELEASE}")
+fe66b5d2ae72 ("kbuild: refactor kernel-devel RPM package and linux-headers Deb package")
+93ed5605c618 ("kbuild: rpm-pkg: replace $KERNELRELEASE in spec file with %{KERNELRELEASE}")
+a06d9ef897d5 ("kbuild: rpm-pkg: record ARCH option in spec file")
+fe809b8271be ("kbuild: rpm-pkg: use %{makeflags} to pass common Make options")
+192868258d2c ("kbuild: rpm-pkg: do not hard-code $MAKE in spec file")
+c90b3bbff2a0 ("kbuild: rpm-pkg: remove kernel-drm PROVIDES")

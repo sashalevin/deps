@@ -1,0 +1,4 @@
+5d9007081653 ("rcu-tasks: Make Tasks RCU account for userspace execution")
+a649d25dcc67 ("rcu: Add lockdep_assert_irqs_disabled() to rcu_sched_clock_irq() and callees")
+c583bcb8f5ed ("rcu: Don't invoke try_invoke_on_locked_down_task() with irqs disabled")
+fe63b723cc7c ("rcu: Add READ_ONCE() to rcu_do_batch() access to rcu_kick_kthreads")

@@ -1,0 +1,5 @@
+39e6c8208d7b ("net: solve a NAPI race")
+559c59b238eb ("net: napi_watchdog() can use napi_schedule_irqoff()")
+02c1602ee7b3 ("net: remove __napi_complete()")
+364b6055738b ("net: busy-poll: return busypolling status to drivers")
+217f69743681 ("net: busy-poll: allow preemption in sk_busy_loop()")

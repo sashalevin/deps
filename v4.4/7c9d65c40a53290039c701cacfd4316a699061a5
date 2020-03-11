@@ -1,0 +1,6 @@
+7c9d65c40a53 ("crypto: arm64/aes-cts-cbc - move request context data to the stack")
+69b6f2e817e5 ("crypto: arm64/aes-neon - limit exposed routines if faster driver is enabled")
+735177ca148a ("crypto: arm64/aes - implement accelerated ESSIV/CBC mode")
+65d0042b5290 ("crypto: arm64/aes-cts-cbc - factor out CBC en/decryption of a walk")
+ff6f4115cb95 ("crypto: aes - move sync ctr(aes) to AES library and generic helper")
+4d2fa8b44b89 ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

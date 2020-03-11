@@ -1,0 +1,8 @@
+2335c9cb831f ("ARM: 9407/1: Add support for STACKLEAK gcc plugin")
+afb2a4fb8455 ("riscv/efistub: Ensure GP-relative addressing is not used")
+457926b25320 ("riscv: Optimize bitops with Zbb extension")
+da8dd0c75b3f ("efi: libstub: Provide local implementations of strrchr() and memchr()")
+2e6fa86f2d48 ("efi: libstub: Enable efi_printk() in zboot decompressor")
+52dce39cd278 ("efi: libstub: Clone memcmp() into the stub")
+fa882a1389b2 ("efi: libstub: Use local strncmp() implementation unconditionally")
+0d60ffeec53c ("efi: libstub: Deduplicate ftrace command line argument filtering")

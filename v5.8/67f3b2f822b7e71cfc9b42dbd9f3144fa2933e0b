@@ -1,0 +1,8 @@
+67f3b2f822b7 ("blk-mq: avoid to iterate over stale request")
+bd63141d585b ("blk-mq: clear stale request in tags->rq[] before freeing one request pool")
+2e315dc07df0 ("blk-mq: grab rq->refcount before calling ->fn in blk_mq_tagset_busy_iter")
+32bc15afed04 ("blk-mq: Facilitate a shared sbitmap per tagset")
+222a5ae03cdd ("blk-mq: Use pointers for blk_mq_tags bitmap tags")
+1c0706a70a64 ("blk-mq: Pass flags for tag init/free")
+4d063237b92a ("blk-mq: Free tags in blk_mq_init_tags() upon error")
+570e9b73b0af ("blk-mq: move blk_mq_get_driver_tag into blk-mq.c")

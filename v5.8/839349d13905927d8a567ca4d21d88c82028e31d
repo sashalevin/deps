@@ -1,0 +1,3 @@
+839349d13905 ("net: qrtr: Do not do DEL_SERVER broadcast after DEL_CLIENT")
+082bb94fe18e ("net: qrtr: ns: Fix the incorrect usage of rcu_read_lock()")
+a7809ff90ce6 ("net: qrtr: ns: Protect radix_tree_deref_slot() using rcu read locks")

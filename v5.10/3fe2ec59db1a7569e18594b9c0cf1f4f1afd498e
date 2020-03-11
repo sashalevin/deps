@@ -1,0 +1,5 @@
+3fe2ec59db1a ("i2c: rcar: fix PM ref counts in probe error paths")
+147178cf03a6 ("i2c: rcar: add IRQ check")
+9c975c432bc0 ("i2c: rcar: protect against supurious interrupts on V3U")
+24c6d4bc5638 ("i2c: rcar: make sure irq is not threaded on Gen2 and earlier")
+c7b514ec979e ("i2c: rcar: faster irq code to minimize HW race condition")

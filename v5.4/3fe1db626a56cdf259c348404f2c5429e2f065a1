@@ -1,0 +1,4 @@
+3fe1db626a56 ("nbd: partition nbd_read_stat() into nbd_read_reply() and nbd_handle_reply()")
+f52c0e08237e ("nbd: clean up return value checking of sock_xmit()")
+87aac3a80af5 ("nbd: make the config put is called before the notifying the waiter")
+d970958b2d24 ("nbd: enable replace socket if only one connection is configured")

@@ -1,0 +1,5 @@
+17ab9d57deba ("KVM: arm/arm64: Drop vcpu parameter from guest cache maintenance operartions")
+7a3796d2ef5b ("KVM: arm/arm64: Preserve Exec permission across R/W permission faults")
+a9c0e12ebee5 ("KVM: arm/arm64: Only clean the dcache on translation fault")
+d0e22b4ac3ba ("KVM: arm/arm64: Limit icache invalidation to prefetch aborts")
+a15f693935a9 ("KVM: arm/arm64: Split dcache/icache flushing")

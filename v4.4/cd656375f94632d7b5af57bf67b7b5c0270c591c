@@ -1,0 +1,6 @@
+cd656375f946 ("mm: fix data corruption due to stale mmap reads")
+34ccb69ea27a ("mm/truncate: avoid pointless cleancache_invalidate_inode() calls.")
+32691f0fbe41 ("mm/truncate: bail out early from invalidate_inode_pages2_range() if mapping is empty")
+e3fce68cdbed ("dax: Avoid page invalidation races and unnecessary radix tree traversals")
+a254e5681288 ("dax: provide an iomap based dax read/write path")
+478a1469a7d2 ("Merge tag 'dax-locking-for-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

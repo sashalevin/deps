@@ -1,0 +1,6 @@
+3a284e0eae81 ("pwm: renesas-tpu: Make use of devm_pwmchip_alloc() function")
+ff4bcd56c049 ("pwm: renesas-tpu: Make use of devm functions")
+6eb3af76ade3 ("pwm: renesas-tpu: Make use of dev_err_probe()")
+81d4b5c449ce ("pwm: renesas-tpu: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")

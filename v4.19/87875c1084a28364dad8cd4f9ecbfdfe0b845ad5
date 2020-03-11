@@ -1,0 +1,8 @@
+87875c1084a2 ("parisc: Make struct parisc_driver::remove() return void")
+bdb57b7bc162 ("ipmi_si: Remove hotmod devices on removal and exit")
+3bb8ea400cbe ("ipmi_si: Switch hotmod to use a platform device")
+f6296bdc49c4 ("ipmi_si: Rename addr_type to addr_space to match what it does")
+f25eb4483268 ("ipmi_si: Convert some types into unsigned")
+41b766d661bf ("ipmi_si: Fix crash when using hard-coded device")
+b3096c70b3fa ("ipmi: Remove platform driver overrides and use the id_table")
+25880f7d61a4 ("ipmi: Use more common logging styles")

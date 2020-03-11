@@ -1,0 +1,8 @@
+1e293d1ae88c ("kvm: x86: request masterclock update any time guest uses different msr")
+5b9bb0ebbcdc ("kvm: x86: encapsulate wrmsr(MSR_KVM_SYSTEM_TIME) emulation in helper fn")
+49dedf0dd0da ("kvm: clear kvmclock MSR on reset")
+4e335d9e7ddb ("Revert "KVM: Support vCPU-based gfn->hva cache"")
+1bd2009e7334 ("KVM: x86: always use kvm_make_request instead of set_bit")
+bbd6411513aa ("KVM: Support vCPU-based gfn->hva cache")
+5a2d4365d2c3 ("KVM: only retrieve memslots once when initializing cache")
+93173b5bf284 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

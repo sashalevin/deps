@@ -1,0 +1,6 @@
+4f4866991847 ("tls: remove tls_context argument from tls_set_device_offload")
+013740799987 ("tls: add a helper to allocate/initialize offload_ctx_tx")
+8db44ab26beb ("tls: rename tls_cipher_size_desc to tls_cipher_desc")
+037303d67607 ("tls: reduce size of tls_cipher_size_desc")
+200e23165109 ("tls: add TLS_CIPHER_ARIA_GCM_* to tls_cipher_size_desc")
+fd0fc6fdd889 ("tls: move tls_cipher_size_desc to net/tls/tls.h")

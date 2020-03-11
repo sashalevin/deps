@@ -1,0 +1,6 @@
+4ff64bcfe2b1 ("drm/i915/gt: Use a mmio read of the CSB in case of failure")
+884c40741234 ("drm/i915/gt: Apply the CSB w/a for all")
+233c1ae3c83f ("drm/i915/gt: Wait for CSB entries on Tigerlake")
+f24a44e52fbc ("drm/i915/gt: Widen CSB pointer to u64 for the parsers")
+b428d5700666 ("drm/i915/gt: Reset execlists registers before HWSP")
+23122a4d992b ("drm/i915/gt: Scrub execlists state on resume")

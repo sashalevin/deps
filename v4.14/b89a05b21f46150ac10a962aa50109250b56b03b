@@ -1,0 +1,6 @@
+b89a05b21f46 ("events: Reuse value read using READ_ONCE instead of re-reading it")
+52a44f83fc2d ("perf/core: Fix the address filtering fix")
+c60f83b813e5 ("perf, pt, coresight: Fix address filters for vmas with non-zero offset")
+18736eef1213 ("perf: Copy parent's address filter offsets on clone")
+9511bce9fe8e ("perf/core: Fix bad use of igrab()")
+82d94856fa22 ("perf/core: Fix lock inversion between perf,trace,cpuhp")

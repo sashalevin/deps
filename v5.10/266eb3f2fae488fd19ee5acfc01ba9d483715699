@@ -1,0 +1,8 @@
+266eb3f2fae4 ("fuse: Call vfs_get_tree() for submounts")
+fe0a7bd81bfe ("fuse: add dedicated filesystem context ops for submounts")
+e4a9ccdd1c03 ("fuse: Fix infinite loop in sget_fc()")
+e3a43f2a9539 ("fuse: Fix crash if superblock of submount gets killed early")
+d92d88f0568e ("fuse: Fix crash in fuse_dentry_automount() error path")
+514b5e3ff45e ("fuse: get rid of fuse_mount refcount")
+b19d3d00d662 ("virtiofs: simplify sb setup")
+66ab33bf6d43 ("virtiofs fix leak in setup")

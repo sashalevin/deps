@@ -1,0 +1,7 @@
+06870682087b ("xsk: Add rcu_read_lock around the XSK wakeup")
+df551058f7a3 ("xsk: Fix crash in poll when device does not support ndo_xsk_wakeup")
+42fddcc7c64b ("xsk: use state member for socket synchronization")
+0402acd683c6 ("xsk: remove AF_XDP socket from map when the socket is released")
+77cd0d7b3f25 ("xsk: add support for need_wakeup flag in AF_XDP rings")
+9116e5e2b1ff ("xsk: replace ndo_xsk_async_xmit with ndo_xsk_wakeup")
+af144a983402 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

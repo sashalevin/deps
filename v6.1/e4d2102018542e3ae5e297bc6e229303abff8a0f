@@ -1,0 +1,8 @@
+e4d210201854 ("x86/bugs: Use code segment selector for VERW operand")
+532a0c57d7ff ("Revert "x86/bugs: Use fixed addressing for VERW operand"")
+8009479ee919 ("x86/bugs: Use fixed addressing for VERW operand")
+baf8361e5455 ("x86/bugs: Add asm helpers for executing VERW")
+84168ae786f8 ("x86/cpu, kvm: Move X86_FEATURE_LFENCE_RDTSC to its native leaf")
+a9dc9ec5a1fa ("x86/cpu, kvm: Add the NO_NESTED_DATA_BP feature")
+c35ac8c4bf60 ("KVM: x86: Move open-coded CPUID leaf 0x80000021 EAX bit propagation code")
+74bee0cad8dc ("KVM: x86: Advertise that the SMM_CTL MSR is not supported")

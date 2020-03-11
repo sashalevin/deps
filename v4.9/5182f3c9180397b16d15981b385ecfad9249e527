@@ -1,0 +1,3 @@
+5182f3c91803 ("mm/slub: limit number of node partial slabs only in cache creation")
+e6d0e1dcf5f0 ("mm/slub.c: wrap kmem_cache->cpu_partial in config CONFIG_SLUB_CPU_PARTIAL")
+c9fc586403e7 ("slab: introduce __kmemcg_cache_deactivate()")

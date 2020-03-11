@@ -1,0 +1,8 @@
+347651485af1 ("power: remove z2_battery driver")
+a0f831756b26 ("power: remove s3c adc battery driver")
+955bee204f3d ("power: supply: z2_battery: Fix possible memleak in z2_batt_probe()")
+922bde5a0955 ("power: supply: z2_battery: Convert to i2c's .probe_new()")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")

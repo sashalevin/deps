@@ -1,0 +1,6 @@
+59b57717fff8 ("blkcg: delay blkg destruction until after writeback has finished")
+4514451e79ae ("bdi: Do not wait for cgwbs release in bdi_unregister()")
+df23de55615f ("bdi: Fix use-after-free in wb_congested_put()")
+b6f8fec4448a ("block: Allow bdi re-registration")
+5f478e4ea5c5 ("block: fix double-free in the failure path of cgwb_bdi_init()")
+df08c32ce3be ("block: fix bdi vs gendisk lifetime mismatch")

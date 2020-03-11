@@ -1,0 +1,4 @@
+8a58bcd00e2e ("arm64/sme: Add ID_AA64SMFR0_EL1 to __read_sysreg_by_encoding()")
+78ed70bf3a92 ("arm64: cpufeature: Fix missing ZFR0 in __read_sysreg_by_encoding()")
+965861d66fad ("arm64: ensure __raw_read_system_reg() is self-consistent")
+7d0928f18bf8 ("arm64: fix erroneous __raw_read_system_reg() cases")

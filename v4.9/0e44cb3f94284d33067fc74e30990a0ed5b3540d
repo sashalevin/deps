@@ -1,0 +1,6 @@
+0e44cb3f9428 ("btrfs: skip logging inodes already logged when logging new entries")
+410f954cb1d1 ("Btrfs: fix assertion failure during fsync and use of stale transaction")
+b8aa330d2acb ("Btrfs: improve performance on fsync of files with multiple hardlinks")
+a3baaf0d786e ("Btrfs: fix fsync after succession of renames and unlink/rmdir")
+6b5fc433a7ad ("Btrfs: fix fsync after succession of renames of different files")
+41bd60676923 ("Btrfs: fix fsync of files with multiple hard links in new directories")

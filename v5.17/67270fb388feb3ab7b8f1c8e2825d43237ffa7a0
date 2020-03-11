@@ -1,0 +1,6 @@
+67270fb388fe ("RISC-V: don't parse dt/acpi isa string to get rv32/rv64")
+0b144c818989 ("RISC-V: cpu: Enable cpuinfo for ACPI systems")
+ff77cf5b2e03 ("RISC-V: Move struct riscv_cpuinfo to new header")
+5e9c68ea7775 ("RISC-V: Cache SBI vendor values")
+3baca1a4d490 ("RISC-V: Add mvendorid, marchid, and mimpid to /proc/cpuinfo output")
+a9b202606c69 ("RISC-V: Improve /proc/cpuinfo output for ISA extensions")

@@ -1,0 +1,8 @@
+2c87c1a49c9d ("ALSA: pcm: Assure sync with the pending stop operation at suspend")
+29bb274e9497 ("ALSA: pcm: Call sync_stop at disconnection")
+66f2d19f8116 ("ALSA: pcm: Fix memory leak at closing a stream without hw_free")
+fabb26dcd104 ("ALSA: pcm: Add card sync_irq field")
+1e850beea278 ("ALSA: pcm: Add the support for sync-stop operation")
+0dba808eae26 ("ALSA: pcm: Introduce managed buffer allocation mode")
+d39789912f15 ("ALSA: pcm: Create proc files only for non-empty preallocations")
+a55eaf177a36 ("ALSA: pcm: Warn if doubly preallocated")

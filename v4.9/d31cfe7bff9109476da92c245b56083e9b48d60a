@@ -1,0 +1,8 @@
+d31cfe7bff91 ("mm/page_alloc.c: deduplicate __memblock_free_early() and memblock_free()")
+a36aab890c21 ("mm/memblock.c: replace u64 with phys_addr_t where appropriate")
+ea1f5f3712af ("mm: define memblock_virt_alloc_try_nid_raw")
+3749a8f008ea ("mm: zero hash tables in allocator")
+0262d9c845ec ("memblock: embed memblock type name within struct memblock_type")
+409efd4c9bae ("memblock: also dump physmem list within __memblock_dump_all")
+7409c5f738c8 ("memblock: let memblock_type_name know about physmem type")
+5d63f81c9e49 ("mm/memblock.c: remove unnecessary log and clean up")

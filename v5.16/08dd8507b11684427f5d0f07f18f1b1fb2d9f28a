@@ -1,0 +1,7 @@
+08dd8507b116 ("btrfs: convert submit_eb_page() to take a folio")
+135873258c61 ("btrfs: convert submit_eb_subpage() to take a folio")
+b33d2e535f9b ("btrfs: add helpers to get fs_info from page/folio pointers")
+c8293894afa7 ("btrfs: add helpers to get inode from page/folio pointers")
+4e00422ee626 ("btrfs: replace sb::s_blocksize by fs_info::sectorsize")
+dfba9f477306 ("btrfs: add set_folio_extent_mapped() helper")
+5d9248eed480 ("Merge tag 'for-6.8-rc1-tag' of git://git.kernel.org/pub/scm/linux/kernel/git/kdave/linux")

@@ -1,0 +1,6 @@
+24bcb45429d9 ("btrfs: fix deadlock when defragging transparent huge pages")
+5767b50c0096 ("btrfs: defrag: factor out page preparation into a helper")
+cae796868042 ("btrfs: defrag: also check PagePrivate for subpage cases in cluster_pages_for_defrag()")
+32443de3382b ("btrfs: introduce btrfs_subpage for data inodes")
+c0a43603056c ("btrfs: remove inode argument from btrfs_start_ordered_extent")
+998acfe8ffc1 ("btrfs: make copy_inline_to_page take btrfs_inode")

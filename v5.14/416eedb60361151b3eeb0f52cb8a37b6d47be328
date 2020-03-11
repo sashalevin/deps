@@ -1,0 +1,8 @@
+416eedb60361 ("net: hns3: add byte order conversion for VF to PF mailbox message")
+767975e582c5 ("net: hns3: add byte order conversion for PF to VF mailbox message")
+6fde96df0447 ("net: hns3: refine the definition for struct hclge_pf_to_vf_msg")
+63b1279d9905 ("net: hns3: check queue id range before using")
+d7517f8f6b3b ("net: hns3: package new functions to simplify hclgevf_mbx_handler code")
+5f22a80f32de ("net: hns3: remove redundant param to simplify code")
+304cd8e776dd ("net: hns3: use memcpy to simplify code")
+67821a0cf5c9 ("net: hns3: remove redundant param mbx_event_pending")

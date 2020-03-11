@@ -1,0 +1,6 @@
+c12c50393c1f ("xfs: use static_assert to check struct sizes and offsets")
+f93e5436f0ee ("xfs: widen ondisk inode timestamps to deal with y2038+")
+30e05599219f ("xfs: redefine xfs_ictimestamp_t")
+5a0bb066f60f ("xfs: redefine xfs_timestamp_t")
+88947ea0ba71 ("xfs: move xfs_log_dinode_to_disk to the log recovery code")
+876fdc7c4f36 ("xfs: explicitly define inode timestamp range")

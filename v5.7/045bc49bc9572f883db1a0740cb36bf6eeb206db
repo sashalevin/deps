@@ -1,0 +1,5 @@
+045bc49bc957 ("ASoC: SOF: ipc: Use the get_reply ops in snd_sof_ipc_get_reply()")
+5db8eb5b9e35 ("ASoC: SOF: ipc: Use msg->reply_data directly in snd_sof_ipc_get_reply()")
+8ae77801c81d ("ASoC: SOF: utils: Add generic function to get the reply for a tx message")
+febf5da81ea8 ("ASoC: SOF: prepare code to allocate IPC messages in fw_ready")
+d7a1ed268993 ("ASoC: SOF: ipc: ignore DSP replies received when they are not expected")

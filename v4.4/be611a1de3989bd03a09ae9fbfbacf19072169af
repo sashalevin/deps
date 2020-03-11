@@ -1,0 +1,8 @@
+be611a1de398 ("staging: comedi: COMEDI_BUFINFO: terminate "write" command when stopped")
+36a5117018a1 ("staging: comedi: COMEDI_BUFINFO: return -EPIPE for abnormal read")
+f3aa8c0becfb ("staging: comedi: COMEDI_BUFINFO: become non-busy even if bytes_read is 0")
+57c563bf78f5 ("staging: comedi: COMEDI_BUFINFO: return error if no active command")
+bb0c6bfac7d4 ("staging: comedi: COMEDI_BUFINFO: force bytes_written to 0 if stopped")
+065785618c67 ("staging: comedi: COMEDI_BUFINFO: update buffer before becoming non-busy")
+66c365026b18 ("staging: comedi: COMEDI_BUFINFO: force bytes_read or bytes_written to 0")
+e5be74c7c23b ("staging: comedi: COMEDI_BUFINFO: get amount freed, not amount allocated")

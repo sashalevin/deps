@@ -1,0 +1,7 @@
+0356656284ca ("powerpc/mm: replace hugetlb_cache by PGT_CACHE(PTE_T_ORDER)")
+b426e4bd77fa ("powerpc/mm: Use mm_is_thread_local() instread of open-coding")
+7868a2087ec1 ("mm/hugetlb: add size parameter to huge_pte_offset()")
+ace71a19cec5 ("mm: introduce page_vma_mapped_walk()")
+369cd2121be4 ("userfaultfd: hugetlbfs: userfaultfd_huge_must_wait for hugepmd ranges")
+8fb5debc5fcd ("userfaultfd: hugetlbfs: add hugetlb_mcopy_atomic_pte for userfaultfd support")
+de399813b521 ("Merge tag 'powerpc-4.10-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

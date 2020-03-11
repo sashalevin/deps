@@ -1,0 +1,5 @@
+d91ef1e1b55f ("tcp: Fix bind() regression for v6-only wildcard and v4(-mapped-v6) non-wildcard addresses.")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")
+d2c135619cb8 ("inet: add READ_ONCE(sk->sk_bound_dev_if) in inet_csk_bind_conflict()")
+ca7af0402550 ("tcp: add small random increments to the source port")
+ffa84b5ffb37 ("net: add netns refcount tracker to struct sock")

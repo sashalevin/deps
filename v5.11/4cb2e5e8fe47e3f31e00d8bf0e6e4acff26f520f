@@ -1,0 +1,6 @@
+4cb2e5e8fe47 ("btrfs: replace kmap_atomic() with kmap_local_page()")
+8dd9872d2e26 ("btrfs: clean up cow_file_range_inline()")
+3a60f6537c9a ("Revert "btrfs: compression: drop kmap/kunmap from generic helpers"")
+7367253a351e ("btrfs: subpage: disable inline extent creation")
+4c2bf276b56d ("btrfs: compression: drop kmap/kunmap from generic helpers")
+04d4ba4c9075 ("btrfs: make check_compressed_csum() to be subpage compatible")

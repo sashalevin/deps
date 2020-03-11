@@ -1,0 +1,4 @@
+cbaf2c4f932e ("perf cs-etm: Use struct perf_cpu as much as possible")
+e28ee1239daa ("perf arm-spe/cs-etm: Directly iterate CPU maps")
+effe957c6bb7 ("libperf cpumap: Replace usage of perf_cpu_map__new(NULL) with perf_cpu_map__new_online_cpus()")
+923ca62a7b1e ("libperf cpumap: Rename perf_cpu_map__empty() to perf_cpu_map__has_any_cpu_or_is_empty()")

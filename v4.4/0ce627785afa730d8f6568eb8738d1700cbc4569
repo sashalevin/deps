@@ -1,0 +1,6 @@
+0ce627785afa ("rtc: rx8010: switch to using the preferred RTC API")
+955a123c1490 ("rtc: rx8010: use a helper variable for client->dev in probe()")
+d3b14296da69 ("rtc: rx8010: don't modify the global rtc ops")
+aeedfe7f89bc ("rtc: rx8010: Fix return code for rx8010_probe")
+9d085c54202d ("rtc: rx8010: simplify getting the adapter of a client")
+ed13d89b08e3 ("rtc: Add Epson RX8010SJ RTC driver")

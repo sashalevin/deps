@@ -1,0 +1,8 @@
+5c20000a4756 ("HID: input: accommodate priorities for slotted devices")
+87562fcd1342 ("HID: input: remove the need for HID_QUIRK_INVERT")
+048cddfd4405 ("HID: input: enforce Invert usage to be processed before InRange")
+22f4b026c3dd ("HID: compute an ordered list of input fields to process")
+f2d4ddfa640d ("HID: input: rework spaghetti code with switch statements")
+b79c1abae5e1 ("HID: core: split data fetching from processing in hid_input_field()")
+74acc277b652 ("HID: core: de-duplicate some code in hid_input_field()")
+1c1813a743fe ("HID: core: statically allocate read buffers")

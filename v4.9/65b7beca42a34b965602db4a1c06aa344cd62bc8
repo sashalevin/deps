@@ -1,0 +1,6 @@
+65b7beca42a3 ("scsi: qedf: Honor default_prio module parameter even if DCBX does not converge")
+84b2ba6e427c ("scsi: qedf: Honor priority from DCBX FCoE App tag")
+ba17d379c2bf ("scsi: qedf: Add dcbx_not_wait module parameter so we won't wait for DCBX convergence to start discovery")
+a93755cf7e6e ("scsi: qedf: Sanity check FCoE/FIP priority value to make sure it's between 0 and 7")
+cf29116375b7 ("scsi: qedf: Corrent VLAN tag insertion in fallback VLAN case.")
+90311148415a ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

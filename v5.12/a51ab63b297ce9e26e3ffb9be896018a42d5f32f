@@ -1,0 +1,7 @@
+a51ab63b297c ("ACPI: CPPC: enable AMD CPPC V2 support for family 17h processors")
+fbd74d16890b ("ACPI: CPPC: Fix enabling CPPC on AMD systems with shared memory")
+8b356e536e69 ("ACPI: CPPC: Don't require _OSC if X86_FEATURE_CPPC is supported")
+7feec7430edd ("ACPI: CPPC: Only probe for _CPC if CPPC v2 is acked")
+72f2ecb7ece7 ("ACPI: bus: Set CPPC _OSC bits for all and when CPPC_LIB is supported")
+0651ab90e4ad ("ACPI: CPPC: Check _OSC for flexible address space")
+03d5c98d9158 ("Merge branches 'acpi-pm', 'acpi-properties', 'acpi-misc' and 'acpi-x86'")

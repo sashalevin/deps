@@ -1,0 +1,6 @@
+f35cee4adb54 ("KVM: x86: de-underscorify __emulator_pio_in")
+0c05e10bce52 ("KVM: x86: wean in-kernel PIO from vcpu->arch.pio*")
+30d583fd4e1e ("KVM: x86: move all vcpu->arch.pio* setup in emulator_pio_in_out()")
+35ab3b77a0ae ("KVM: x86: drop PIO from unregistered devices")
+0f87ac234d98 ("KVM: x86: inline kernel_pio into its sole caller")
+d07898eaf399 ("KVM: x86: Don't WARN if userspace mucks with RCX during string I/O exit")

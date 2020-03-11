@@ -1,0 +1,7 @@
+ac1e516d5a4c ("drm/ttm: fix start page for huge page check in ttm_put_pages()")
+a66477b0efe5 ("drm/ttm: fix out-of-bounds read in ttm_put_pages() v2")
+33d22c2ed6db ("drm/ttm: don't attempt to use hugepages if dma32 requested (v2)")
+5c42c64f7d54 ("drm/ttm: fix the fix for huge compound pages")
+6ed4e2e673d3 ("drm/ttm: add transparent huge page support for wc or uc allocations v2")
+8593e9b85e0a ("drm/ttm: move more logic into ttm_page_pool_get_pages")
+0284f1ead874 ("drm/ttm: add transparent huge page support for cached allocations v2")

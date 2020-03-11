@@ -1,0 +1,5 @@
+2474e05467c0 ("tty: serial: fsl_lpuart: use UARTCTRL_TXINV to send break instead of UARTCTRL_SBK")
+c4c81db5cf8b ("tty: serial: fsl_lpuart: disable the CTS when send break signal")
+a0204f25e15c ("tty: serial: lpuart: refactor lpuart32_{read|write} prototype")
+0d6fce904452 ("tty: serial: lpuart: introduce lpuart_soc_data to represent SoC property")
+abf1e0a98083 ("tty: serial: fsl_lpuart: lock port on console write")

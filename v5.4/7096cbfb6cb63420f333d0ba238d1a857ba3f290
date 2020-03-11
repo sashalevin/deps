@@ -1,0 +1,4 @@
+7096cbfb6cb6 ("KVM: VMX: Use "illegal GPA" helper for PT/RTIT output base check")
+1cc6cbc3e405 ("KVM: VMX: Replace MSR_IA32_RTIT_OUTPUT_BASE_MASK with helper function")
+8d921acf98ec ("KVM: VMX: Use precomputed MAXPHYADDR for RTIT base MSR check")
+e348ac7c9e34 ("KVM: VMX: Add helper to consolidate up PT/RTIT WRMSR fault logic")

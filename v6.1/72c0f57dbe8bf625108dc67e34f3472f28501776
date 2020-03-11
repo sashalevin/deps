@@ -1,0 +1,6 @@
+72c0f57dbe8b ("ALSA: pcm: Add xrun counter for snd_pcm_substream")
+dd0da75b9a27 ("ALSA: pcm: Use guard() for locking")
+d90950c6a265 ("ALSA: pcm: Use CLASS() for fdget()/fdput()")
+ae9213984864 ("ALSA: pcm: Use automatic cleanup of kfree()")
+358040e38077 ("ALSA: pcm: Fix missing fixup call in compat hw_refine ioctl")
+bd55842ed998 ("ALSA: pcm: Fix potential data race at PCM memory allocation helpers")

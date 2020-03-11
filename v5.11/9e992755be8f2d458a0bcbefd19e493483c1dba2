@@ -1,0 +1,7 @@
+9e992755be8f ("cifs: Call close synchronously during unlink/rename/lease break.")
+41535701da33 ("cifs: Handle race conditions during rename")
+9687c85dfbf8 ("Fix KASAN identified use-after-free issue.")
+860b69a9d771 ("Fix kernel oops when CONFIG_DEBUG_ATOMIC_SLEEP is enabled.")
+4236a26a6b99 ("cifs: remove deadstore in cifs_close_all_deferred_files()")
+78c09634f7dc ("Cifs: Fix kernel oops caused by deferred close for files.")
+c3f207ab29f7 ("cifs: Deferred close for files")

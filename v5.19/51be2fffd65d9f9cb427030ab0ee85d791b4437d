@@ -1,0 +1,4 @@
+51be2fffd65d ("cpufreq: qcom-hw: Fix cpufreq_driver->get() for non-LMH systems")
+c72cf0cb1d77 ("cpufreq: qcom-hw: Fix the frequency returned by cpufreq_driver->get()")
+4f7961706c63 ("cpufreq: qcom-hw: Move soc_data to struct qcom_cpufreq")
+054a3ef683a1 ("cpufreq: qcom-hw: Allocate qcom_cpufreq_data during probe")

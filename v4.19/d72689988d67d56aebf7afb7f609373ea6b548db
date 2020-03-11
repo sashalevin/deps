@@ -1,0 +1,7 @@
+d72689988d67 ("clocksource/drivers/arm_arch_timer: Drop CNT*_TVAL read accessors")
+4775bc63f880 ("clocksource/arm_arch_timer: Add build-time guards for unhandled register accesses")
+57f27666f91a ("clocksource/arm_arch_timer: Drop use of static key in arch_timer_reg_read_stable")
+c950ca8c35ee ("clocksource/drivers/arch_timer: Workaround for Allwinner A64 timer instability")
+95b861a4a6d9 ("arm64: arch_timer: Add workaround for ARM erratum 1188873")
+d71be2b6c0e1 ("arm64: cpufeature: Detect SSBS and advertise to userspace")
+86d0dd34eaff ("arm64: cpufeature: add feature for CRC32 instructions")

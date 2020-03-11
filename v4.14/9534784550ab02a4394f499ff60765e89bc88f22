@@ -1,0 +1,8 @@
+9534784550ab ("hwmon: (gpio-fan) Use devm_thermal_of_cooling_device_register")
+e99c2e5d6cde ("hwmon: (gpio-fan) Rename GPIO line state variables")
+c9933cb16f16 ("hwmon: (gpio-fan) Get rid of the gpio alarm struct")
+b5482f7e6cc5 ("hwmon: (gpio-fan) Get rid of platform data struct")
+a9b4c8afcd3d ("hwmon: (gpio-fan) Mandate OF_GPIO and cut pdata path")
+8c0eb9bc52fa ("hwmon: (gpio-fan) Send around device pointer")
+ef7a61241595 ("hwmon: (gpio-fan) Localize platform data")
+f9013c167742 ("hwmon: (gpio-fan) Use local variable pointers")

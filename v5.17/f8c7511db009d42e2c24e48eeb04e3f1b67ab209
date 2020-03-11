@@ -1,0 +1,6 @@
+f8c7511db009 ("block: make block_class constant")
+cdb37f73cf05 ("block: constify struct part_type part_type")
+d6bdbbdfb0d4 ("driver core: clean up the logic to determine which /sys/dev/ directory to use")
+322cbb50de71 ("block: remove genhd.h")
+e7243285c0fc ("block: move blk_drop_partitions to blk.h")
+926597ffce0e ("block: move disk_{block,unblock,flush}_events to blk.h")

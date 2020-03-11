@@ -1,0 +1,5 @@
+7548bf8c17d8 ("crypto: arm/ghash-ce - define fpu before fpu registers are referenced")
+b4d0c0aad57a ("crypto: arm - use Kconfig based compiler checks for crypto opcodes")
+e7b3ed338097 ("crypto: arm/crct10dif-ce - cleanup and optimizations")
+c03f3cb40ba9 ("crypto: arm/crct10dif - remove dead code")
+62fecf295e3c ("crypto: arm/crct10dif - revert to C code for short inputs")

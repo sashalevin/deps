@@ -1,0 +1,5 @@
+8b8f9d753b84 ("KVM: X86: Don't check unsync if the original spte is writible")
+3b77daa5efe1 ("KVM: x86/mmu: WARN on any reserved SPTE value when making a valid SPTE")
+8120337a4c55 ("KVM: x86/mmu: Stop using software available bits to denote MMIO SPTEs")
+30ab5901da57 ("KVM: x86/mmu: Don't install bogus MMIO SPTEs if MMIO caching is disabled")
+44aaa0150bfd ("KVM: x86/mmu: Disable MMIO caching if MMIO value collides with L1TF")

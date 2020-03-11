@@ -1,0 +1,4 @@
+69448867abcb ("fs: shave 8 bytes off of struct inode")
+c75b1d9421f8 ("fs: add fcntl() interface for setting/getting write life time hints")
+0bd23d09b874 ("vfs: Don't modify inodes with a uid or gid unknown to the vfs")
+a475acf01f79 ("fs: Refuse uid/gid changes which don't map into s_user_ns")

@@ -1,0 +1,8 @@
+a594166387fe ("net: stmmac: move TX timer arm after DMA enable")
+8070274b472e ("net: stmmac: fix incorrect rxq|txq_stats reference")
+fa60b8163816 ("net: stmmac: fix handling of zero coalescing tx-usecs")
+133466c3bbe1 ("net: stmmac: use per-queue 64 bit statistics where necessary")
+af8eacf2b42e ("net: stmmac: xgmac: add ethtool per-queue irq statistic support")
+5b24324a907c ("net: stmmac: introduce wrapper for struct xdp_buff")
+33719b57f52e ("net: stmmac: dwmac4: Allow platforms to specify some DMA/MTL offsets")
+0c3f3c4f4b15 ("net: stmmac: Remove some unnecessary void pointers")

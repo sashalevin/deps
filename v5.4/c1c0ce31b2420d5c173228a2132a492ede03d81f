@@ -1,0 +1,8 @@
+c1c0ce31b242 ("r8169: fix the KCSAN reported data-race in rtl_tx() while reading tp->cur_tx")
+94d8a98e6235 ("r8169: reduce number of workaround doorbell rings")
+ca1ab89cd2d6 ("r8169: improve rtl_tx")
+3a689e34973e ("r8169: remove unneeded memory barrier in rtl_tx")
+101438729d84 ("r8169: remove now unneeded barrier in rtl_tx")
+22d352c51e74 ("r8169: simplify usage of rtl8169_unmap_tx_skb")
+6a41f2b2f1e4 ("r8169: ensure tx_skb is fully reset after calling rtl8169_unmap_tx_skb")
+a0e6650bdd25 ("r8169: convert while to for loop in rtl_tx")

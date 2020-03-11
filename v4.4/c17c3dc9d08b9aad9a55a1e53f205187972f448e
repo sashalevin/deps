@@ -1,0 +1,7 @@
+c17c3dc9d08b ("uprobes: __replace_page() avoid BUG in munlock_vma_page()")
+bdfaa2eecd5f ("uprobes: Rename the "struct page *" args of __replace_page()")
+6c4687cc17a7 ("uprobes: Fix the memcg accounting")
+f627c2f53786 ("memcg: adjust to support new THP refcounting")
+d281ee614518 ("rmap: add argument to charge compound page")
+7d2eba0557c1 ("mm: add tracepoint for scanning pages")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

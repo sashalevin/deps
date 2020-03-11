@@ -1,0 +1,5 @@
+98ac73f99bc4 ("iommu: Require a default_domain for all iommu drivers")
+24b1d476167d ("iommu: Remove ops->set_platform_dma_ops()")
+e98befd010bd ("iommu: Allow an IDENTITY domain as the default_domain in ARM32")
+59ddce4418da ("iommu: Reorganize iommu_get_default_domain_type() to respect def_domain_type()")
+90057dc095dc ("iommu/mtk_iommu_v1: Implement an IDENTITY domain")

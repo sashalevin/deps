@@ -1,0 +1,4 @@
+c30e9bc8b606 ("KVM: nVMX: hyper-v: Enable L2 TLB flush")
+b0c9c25e4625 ("KVM: x86: Introduce .hv_inject_synthetic_vmexit_post_tlb_flush() nested hook")
+a789aeba4196 ("KVM: VMX: Rename "vmx/evmcs.{ch}" to "vmx/hyperv.{ch}"")
+089fe572a2e0 ("x86/hyperv: Move VMCB enlightenment definitions to hyperv-tlfs.h")

@@ -1,0 +1,5 @@
+b21ebed95101 ("rcu: Remove rsp parameter from print_cpu_stall_info()")
+471f87c3d91b ("rcu: Make RCU CPU stall warnings use ->gp_seq")
+3caa973b7a26 ("rcu: Call touch_nmi_watchdog() while printing stall warnings")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

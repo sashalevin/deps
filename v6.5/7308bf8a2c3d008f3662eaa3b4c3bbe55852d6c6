@@ -1,0 +1,4 @@
+7308bf8a2c3d ("modpost: Enable section warning from *driver to .exit.text")
+48cd8df7afd1 ("modpost: remove EXIT_SECTIONS macro")
+6a4e59eeedc3 ("linux/init: remove __memexit* annotations")
+f177cd0c15fc ("modpost: Don't let "driver"s reference .exit.*")

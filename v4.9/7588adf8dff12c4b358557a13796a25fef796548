@@ -1,0 +1,8 @@
+7588adf8dff1 ("mm: clean up is_device_*_page() definitions")
+25b2995a35b6 ("mm: remove MEMORY_DEVICE_PUBLIC support")
+07ec38917e68 ("mm: remove the struct hmm_device infrastructure")
+50f44ee7248a ("mm/devm_memremap_pages: fix final page put race")
+1570175abd16 ("PCI/P2PDMA: track pgmap references per resource, not globally")
+e615a191216e ("PCI/P2PDMA: fix the gen_pool_add_virt() failure path")
+d2b2c6dd227b ("mm/migrate.c: add missing flush_dcache_page for non-mapped page migrate")
+f67e3fb48912 ("Merge tag 'devdax-for-5.1' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

@@ -1,0 +1,8 @@
+e760f102c92c ("ASoC: SOF: ipc: Move the ipc_set_get_comp_data() local to ipc3-control")
+e394ffb82f9c ("ASoC: SOF: Add widget_kcontrol_setup control ops for IPC3")
+2f1f5a438899 ("ASoC: SOF: ipc: Switch over to use the rx_msg ops")
+85d0f8814715 ("ASoC: SOF: ipc: Switch over to use the tx_msg and set_get_data ops")
+b4dcafe45e46 ("ASoC: SOF: Add helper function to prepare and send an IPC message")
+2a51c0f81add ("ASoC: SOF: Drop 'header' parameter from tx_message() API")
+7d8e9d792764 ("ASoC: SOF: Drop support for mapped control data")
+78935913573b ("ASoC: SOF: ipc: Use ipc->max_payload_size for message/reply size checking")

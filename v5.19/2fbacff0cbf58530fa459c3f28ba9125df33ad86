@@ -1,0 +1,5 @@
+2fbacff0cbf5 ("rcu: dynamically allocate the rcu-lazy shrinker")
+2450b78e0bb1 ("rcu: Register rcu-lazy shrinker only for CONFIG_RCU_LAZY=y kernels")
+c945b4da7a44 ("rcu: Shrinker for lazy rcu")
+f1ffec1ea30f ("rcu: Simplify rcu_init_nohz() cpumask handling")
+b37a667c6242 ("rcu/nocb: Add an option to offload all CPUs on boot")

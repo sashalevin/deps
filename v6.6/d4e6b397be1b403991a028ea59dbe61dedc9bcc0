@@ -1,0 +1,3 @@
+d4e6b397be1b ("mm/mmap: convert all mas except mas_detach to vma iterator")
+05976a42b327 ("mm: mmap: no need to call khugepaged_enter_vma() for stack")
+d24062914837 ("fork: use __mt_dup() to duplicate maple tree in dup_mmap()")

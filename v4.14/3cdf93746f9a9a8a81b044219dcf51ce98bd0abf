@@ -1,0 +1,6 @@
+3cdf93746f9a ("KVM: x86/mmu: Fix wrong gfn range of tlb flushing in validate_direct_spte()")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+c3134ce240ee ("KVM: Replace old tlb flush function with new one to flush a specified range.")
+c2a4eadf7747 ("KVM/MMU: Combine flushing remote tlb in mmu_set_spte()")
+5ce4786f75d1 ("kvm: x86: Make sync_page() flush remote TLBs once only")
+9b8ebbdb74b5 ("KVM: x86: extend usage of RET_MMIO_PF_* constants")

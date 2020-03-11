@@ -1,0 +1,6 @@
+24bc41b45583 ("can: gs_usb: convert to NAPI/rx-offload to avoid OoO reception")
+5391e0cbae02 ("can: gs_usb: gs_destroy_candev(): remove not needed usb_kill_anchored_urbs()")
+6c8bc15f02b8 ("can: gs_usb: gs_usb_receive_bulk_callback(): count RX overflow errors also in case of OOM")
+55ad95d94425 ("can: gs_usb: gs_usb_receive_bulk_callback(): make use of stats")
+a2002f455c0e ("can: gs_usb: gs_usb_set_timestamp(): remove return statements form void function")
+f1a14714bf48 ("can: gs_usb: remove leading space from goto labels")

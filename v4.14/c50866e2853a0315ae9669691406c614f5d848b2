@@ -1,0 +1,6 @@
+c50866e2853a ("bnxt_re: fix the regression due to changes in alloc_pbl")
+161ebe2498d4 ("RDMA/bnxt_re: Use for_each_sg_dma_page iterator on umem SGL")
+37f91cff2de0 ("RDMA/bnxt_re: Add extended psn structure for 57500 adapters")
+3b921e3bc4c2 ("RDMA/bnxt_re: Synchronize destroy_qp with poll_cq")
+872f3578241d ("RDMA/bnxt_re: Add support for MRs with Huge pages")
+c88a7858d721 ("RDMA/bnxt_re: Flush CQ notification Work Queue before destroying QP")

@@ -1,0 +1,7 @@
+879e5ac7b2e4 ("KVM: arm64: Prepare non-protected nVHE hypervisor stacktrace")
+548ec3336f32 ("KVM: arm64: On stack overflow switch to hyp overflow_stack")
+66de19fad9ef ("KVM: arm64: Detect and handle hypervisor stack overflows")
+4c68d6c0a175 ("KVM: arm64: pkvm: Implement CONFIG_DEBUG_LIST at EL2")
+2a0c343386ae ("KVM: arm64: Initialize trap registers for protected VMs")
+6c30bfb18d0b ("KVM: arm64: Add handlers for protected VM System Registers")
+7c7b363d62a5 ("Merge branch kvm-arm64/pkvm-fixed-features-prologue into kvmarm-master/next")

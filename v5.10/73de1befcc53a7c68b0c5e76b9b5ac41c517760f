@@ -1,0 +1,5 @@
+73de1befcc53 ("selinux: fix memleak in security_read_state_kernel()")
+fdd1ffe8a812 ("selinux: include a consumer of the new IMA critical data hook")
+47d76a484050 ("IMA: limit critical data measurement based on a label")
+c4e43aa2eeb0 ("IMA: add policy rule to measure critical data")
+2b4a2474a202 ("IMA: generalize keyring specific measurement constructs")

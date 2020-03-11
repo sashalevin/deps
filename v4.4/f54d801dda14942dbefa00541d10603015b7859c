@@ -1,0 +1,5 @@
+f54d801dda14 ("bcache: destroy dc->writeback_write_wq if failed to create dc->writeback_thread")
+804f3c6981f5 ("bcache: fix cached_dev->count usage for bch_cache_set_error()")
+99361bbf2633 ("bcache: properly set task state in bch_writeback_thread()")
+3b304d24a718 ("bcache: convert cached_dev.count from atomic_t to refcount_t")
+9baf30972b55 ("bcache: fix for gc and write-back race")

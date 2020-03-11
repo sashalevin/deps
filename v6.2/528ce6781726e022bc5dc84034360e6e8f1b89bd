@@ -1,0 +1,4 @@
+528ce6781726 ("io_uring: retain top 8bits of uring_cmd flags for kernel internal use")
+9408d8a37e6c ("nvme: improved uring polling")
+f026be0e1e88 ("nvme: optimise io_uring passthrough completion")
+9d2789ac9d60 ("block/io_uring: pass in issue_flags for uring_cmd task_work handling")

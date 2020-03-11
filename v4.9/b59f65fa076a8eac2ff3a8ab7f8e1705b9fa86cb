@@ -1,0 +1,8 @@
+b59f65fa076a ("mm/gup: Implement the dev_pagemap() logic in the generic get_user_pages_fast() function")
+e93480537fd7 ("mm/gup: Mark all pages PageReferenced in generic get_user_pages_fast()")
+0005d20b2ff1 ("mm/gup: Move page table entry dereference into helper function")
+e7884f8ead4a ("mm/gup: Move permission checks into helpers")
+a00cc7d9dd93 ("mm, x86: add support for PUD-sized transparent hugepages")
+a2d581675d48 ("mm,fs,dax: change ->pmd_fault to ->huge_fault")
+11bac8000449 ("mm, fs: reduce fault, page_mkwrite, and pfn_mkwrite to take only vmf")
+ef96152e6a36 ("Merge tag 'drm-for-v4.11-less-shouty' of git://people.freedesktop.org/~airlied/linux")

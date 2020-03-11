@@ -1,0 +1,7 @@
+3e4fb13ac34b ("mm: swap: remove unneeded cgroup_throttle_swaprate()")
+01c4b28cd2e6 ("mm, memcg: inline swap-related functions to improve disabled memcg config")
+2d1c498072de ("mm: memcontrol: make swap tracking an integral part of memory control")
+eccb52e78809 ("mm: memcontrol: prepare swap controller setup for integration")
+6caa6a0703e0 ("mm: memcontrol: move out cgroup swaprate throttling")
+3fba69a56e16 ("mm: memcontrol: drop @compound parameter from memcg charging API")
+ffe945e633b5 ("khugepaged: do not stop collapse if less than half PTEs are referenced")

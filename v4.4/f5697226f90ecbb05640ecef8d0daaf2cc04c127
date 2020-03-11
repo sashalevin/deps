@@ -1,0 +1,6 @@
+f5697226f90e ("clk: imx6q: Do not reparent uninitialized IMX6QDL_CLK_PERIPH2 clock")
+5d283b083800 ("clk: imx6: Fix procedure to switch the parent of LDB_DI_CLK")
+03d576f202e8 ("clk: imx6: Make the LDB_DI0 and LDB_DI1 clocks read-only")
+f13abeff2cde ("clk: imx6: Mask mmdc_ch1 handshake for periph2_sel and mmdc_ch1_axi_podf")
+5afc99417fc3 ("clk: imx: re-order and concentrate the same type of clk api")
+456829228f96 ("clk: imx: clk-gate2: allow custom gate configuration")

@@ -1,0 +1,8 @@
+d3843fe5fd45 ("ipv6: replace dst_hold() with dst_hold_safe() in routing code")
+2b760fcf5cfb ("ipv6: hook up exception table to store dst cache")
+38fbeeeeccdb ("ipv6: prepare fib6_locate() for exception table")
+c757faa8bfa2 ("ipv6: prepare fib6_age() for exception table")
+b16cb459d778 ("ipv6: prepare rt6_clean_tohost() for exception table")
+f5bbe7ee79c2 ("ipv6: prepare rt6_mtu_change() for exception table")
+60006a4825f9 ("ipv6: prepare fib6_remove_prefsrc() for exception table")
+35732d01fe31 ("ipv6: introduce a hash table to store dst cache")

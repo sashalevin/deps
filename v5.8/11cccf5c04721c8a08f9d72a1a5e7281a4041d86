@@ -1,0 +1,6 @@
+11cccf5c0472 ("KVM: x86/mmu: Make TDP MMU root refcount atomic")
+2bdb3d84cebc ("KVM: x86/mmu: Merge TDP MMU put and free root")
+4bba36d72bf9 ("KVM: x86/mmu: use tdp_mmu_free_sp to free roots")
+76eb54e7e717 ("KVM: x86/mmu: Move kvm_mmu_(get|put)_root to TDP MMU")
+2b9663d8a19d ("KVM: x86/mmu: Pass address space ID to __kvm_tdp_mmu_zap_gfn_range()")
+57e45ea48775 ("Merge branch 'kvm-tdp-fix-flushes' into HEAD")

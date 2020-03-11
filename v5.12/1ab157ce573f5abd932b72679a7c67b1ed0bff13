@@ -1,0 +1,3 @@
+1ab157ce573f ("KVM: SEV: use u64_to_user_ptr throughout")
+b4a693924aab ("KVM: SVM: Return -EFAULT if copy_to_user() for SEV mig packet header fails")
+238eca821cee ("KVM: SVM: Allocate SEV command structures on local stack")

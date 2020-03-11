@@ -1,0 +1,7 @@
+300432f58b99 ("dm: reduce dm_io and dm_target_io struct sizes")
+e2118b3c3d94 ("dm: rearrange core declarations for extended use from dm-zone.c")
+62f263178c16 ("dm: cleanup of front padding calculation")
+33bd6f069385 ("dm table: make 'struct dm_table' definition accessible to all of DM core")
+828678b87eff ("dm: push use of on-stack flush_bio down to __send_empty_flush()")
+3720281db9ad ("dm: optimize max_io_len() by inlining max_io_len_target_boundary()")
+5091cdec56fa ("dm: change max_io_len() to use blk_max_size_offset()")

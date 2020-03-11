@@ -1,0 +1,7 @@
+7be6b3166ebf ("perf tools: Pass PYTHON config to feature detection")
+8bd8c6533369 ("tools perf scripting python: clang doesn't have -spec, remove it")
+8ee4646038e4 ("perf build: Add libcrypto feature detection")
+5a155bb77a67 ("perf build: Remove all condition feature check {C,LD}FLAGS")
+0c4d40d58075 ("tools build: Add BPF feature check to test-all")
+11dc0c57ba8a ("perf tools: Add -lutil in python lib list for broken python-config")
+1925459b4d92 ("tools build: Fix feature Makefile issues with 'O='")

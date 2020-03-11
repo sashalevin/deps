@@ -1,0 +1,6 @@
+ef40757743b4 ("KVM: x86: fix APICv/x2AVIC disabled when vm reboot by itself")
+a57a31684d7b ("KVM: x86: Treat x2APIC's ICR as a 64-bit register, not two 32-bit regs")
+5429478d038f ("KVM: x86: Add helpers to handle 64-bit APIC MSR read/writes")
+44d527170731 ("KVM: LAPIC: ensure APIC map is up to date on concurrent update requests")
+af28dfacbe00 ("kvm: lapic: fix broken vcpu hotplug")
+4abaffce4d25 ("KVM: LAPIC: Recalculate apic map in batch")

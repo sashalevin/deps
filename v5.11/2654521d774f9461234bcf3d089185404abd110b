@@ -1,0 +1,7 @@
+2654521d774f ("gpiolib: remove gpiochip_find()")
+cfe102f63308 ("gpiolib: provide gpio_device_find()")
+36aa129f221c ("gpiolib: make gpio_device_get() and gpio_device_put() public")
+37d42ab39249 ("gpiolib: remove unnecessary extern specifiers from the driver header")
+3b7c7478eda0 ("gpiolib: Provide to_gpio_device() helper")
+cf25ef6b631c ("gpio: fix gpio-device list corruption")
+a6112998ee45 ("gpio: fix NULL-deref-on-deregistration regression")

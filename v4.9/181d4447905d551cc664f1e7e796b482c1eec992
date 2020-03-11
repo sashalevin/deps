@@ -1,0 +1,8 @@
+181d4447905d ("can: gw: use call_rcu() instead of costly synchronize_rcu()")
+fb8696ab14ad ("can: gw: synchronize rcu operations before removing gw job entry")
+1ef83310b815 ("can: network namespace support for CAN gateway")
+cb5635a36776 ("can: complete initial namespace support")
+f2e72f43e768 ("can: remove obsolete definitions")
+a7bbd28f04ce ("can: fix memory leak in initial namespace support")
+8e8cda6d737d ("can: initial support for network namespaces")
+f1712c737140 ("can: Fix kernel panic at security_sock_rcv_skb")

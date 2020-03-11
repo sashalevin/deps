@@ -1,0 +1,5 @@
+cfb0c08e8012 ("KVM: Declare kvm_arch_flush_remote_tlbs() globally")
+a1342c802728 ("KVM: Rename kvm_arch_flush_remote_tlb() to kvm_arch_flush_remote_tlbs()")
+566a0beef52c ("KVM: MIPS: let generic code call prepare_flush_shadow")
+5194552fb1ff ("KVM: MIPS: rework flush_shadow_* callbacks into one that prepares the flush")
+c34b26b98cac ("KVM: MIPS: clean up redundant 'kvm_run' parameters")

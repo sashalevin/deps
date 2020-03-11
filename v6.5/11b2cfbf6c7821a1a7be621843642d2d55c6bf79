@@ -1,0 +1,8 @@
+11b2cfbf6c78 ("nfsd: report in /proc/fs/nfsd/clients/*/states when state is admin-revoke")
+39e1be6471a3 ("nfsd: allow state with no file to appear in /proc/fs/nfsd/clients/*/states")
+3f29cc82a84c ("nfsd: split sc_status out of sc_type")
+83e733161fde ("nfsd: avoid race after unhash_delegation_locked()")
+c6540026dfe6 ("nfsd: don't call functions with side-effecting inside WARN_ON()")
+6b4ca49dc310 ("nfsd: remove stale comment in nfs4_show_deleg()")
+85dbc978b33b ("NFSD: Clean up nfsd4_encode_layoutreturn()")
+40bb2baaa8ed ("NFSD: Clean up nfsd4_encode_stateid()")

@@ -1,0 +1,3 @@
+c64ed5dd9feb ("ALSA: pcm: Use ERESTARTSYS instead of EINTR in OSS emulation")
+b248371628aa ("ALSA: pcm: Fix potential deadlock in OSS emulation")
+46325371b230 ("ALSA: oss: consolidate kmalloc/memset 0 call to kzalloc")

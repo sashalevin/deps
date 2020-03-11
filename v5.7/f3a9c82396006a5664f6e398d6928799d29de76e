@@ -1,0 +1,7 @@
+f3a9c8239600 ("unicode: mark the version field in struct unicode_map unsigned")
+a440943e68cd ("unicode: remove the charset field from struct unicode_map")
+eca4873ee1b6 ("f2fs: Use generic casefolding support")
+fc3bb095ab02 ("f2fs: avoid utf8_strncasecmp() with unstable name")
+43c780ba2624 ("f2fs: rework filename handling")
+f874fa1c7c79 ("f2fs: split f2fs_d_compare() from f2fs_match_name()")
+ff5f85c8d62a ("f2fs: don't leak filename in f2fs_try_convert_inline_dir()")

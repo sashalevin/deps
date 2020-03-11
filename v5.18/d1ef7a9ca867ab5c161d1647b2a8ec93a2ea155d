@@ -1,0 +1,7 @@
+d1ef7a9ca867 ("i2c: i801: Fix a refactoring that broke a touchpad on Lenovo P1")
+857cc04cdf50 ("i2c: i801: Add helper i801_get_block_len")
+29dae4572efb ("i2c: i801: Add SMBUS_LEN_SENTINEL")
+03f9863b1afa ("i2c: i801: Add helper i801_check_and_clear_pec_error")
+63fd342fd121 ("i2c: i801: Handle SMBAUXCTL_E32B in i801_block_transaction_by_block only")
+dd2d18b5c040 ("i2c: i801: Add i801_simple_transaction(), complementing i801_block_transaction()")
+eb4d8bac03bc ("i2c: i801: add helper i801_set_hstadd()")

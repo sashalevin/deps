@@ -1,0 +1,7 @@
+2bc4ca9bb600 ("aio: don't zero entire aio_kiocb aio_get_req()")
+432c79978c33 ("aio: separate out ring reservation from req allocation")
+bfe4037e722e ("aio: implement IOCB_CMD_POLL")
+9018ccc453af ("aio: add a iocb refcount")
+888933f8fdf0 ("aio: simplify cancellation")
+f3a2752a43de ("aio: simplify KIOCB_KEY handling")
+ed0d523adb5d ("Merge branch 'fixes' of https://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs into aio-base")

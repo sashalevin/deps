@@ -1,0 +1,6 @@
+b5c0951860ba ("perf symbols: Don't try to find a vmlinux file when looking for kernel modules")
+93fcce96c719 ("perf symbols: Use kmaps(map)->machine when we know its a kernel map")
+b0c76fc4cfd9 ("perf symbols: Remove needless checks for map->groups->machine")
+4d99e4136580 ("perf machine: Workaround missing maps for x86 PTI entry trampolines")
+1fb87b8e9599 ("perf machine: Don't search for active kernel start in __machine__create_kernel_maps")
+05db6ff73d80 ("perf machine: Generalize machine__set_kernel_mmap()")

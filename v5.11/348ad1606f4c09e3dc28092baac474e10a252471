@@ -1,0 +1,5 @@
+348ad1606f4c ("mm/hugepage pud: allow arch-specific helper function to check huge page pud support")
+3c9b84f044a9 ("mm/debug_vm_pgtable: introduce struct pgtable_debug_args")
+65ac1a60a57e ("mm/debug_vm_pgtable: ensure THP availability via has_transparent_hugepage()")
+2e326c07bbe1 ("mm/debug_vm_pgtable/basic: iterate over entire protection_map[]")
+bb5c47ced467 ("mm/debug_vm_pgtable/basic: add validation for dirtiness after write protect")

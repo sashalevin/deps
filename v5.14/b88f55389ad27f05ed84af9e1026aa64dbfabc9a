@@ -1,0 +1,6 @@
+b88f55389ad2 ("profiling: remove profile=sleep support")
+35783ccbe519 ("kernel/profile.c: simplify duplicated code in profile_setup()")
+60f2415e19d3 ("sched: Make schedstats helpers independent of fair sched class")
+ceeadb83aea2 ("sched: Make struct sched_statistics independent of fair sched class")
+a2dcb276ff92 ("sched/fair: Use __schedstat_set() in set_next_entity()")
+2d186afd04d6 ("profiling: fix shift-out-of-bounds bugs")

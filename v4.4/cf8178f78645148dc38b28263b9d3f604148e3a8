@@ -1,0 +1,7 @@
+cf8178f78645 ("x86/microcode/AMD: Remove redundant NULL check on mc")
+06b8534cb728 ("x86/microcode: Rework microcode loading")
+8027923ab4df ("x86/microcode/intel: Remove intel_lib.c")
+76bd11c23aaa ("x86/microcode/amd: Move private inlines to .c and mark local functions static")
+b3763a672dc0 ("x86/microcode/amd: Hand down the CPU family")
+777284b66f23 ("x86/microcode: Run the AP-loading routine only on the application processors")
+597f03f9d133 ("Merge branch 'smp-hotplug-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

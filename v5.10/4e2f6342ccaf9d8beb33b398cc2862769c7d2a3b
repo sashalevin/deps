@@ -1,0 +1,7 @@
+4e2f6342ccaf ("fork: optimize memcg_charge_kernel_stack() a bit")
+f1c1a9ee00e4 ("fork: Move memcg_charge_kernel_stack() into CONFIG_VMAP_STACK")
+7865aba3ade4 ("fork: Don't assign the stack pointer in dup_task_struct()")
+2bb0529c0bc0 ("fork, IA64: Provide alloc_thread_stack_node() for IA64")
+546c42b2c5c1 ("fork: Duplicate task_struct before stack allocation")
+be9a2277cafd ("fork: Redo ifdefs around task stack handling")
+bcfe06bf2622 ("mm: memcontrol: Use helpers to read page's memcg data")

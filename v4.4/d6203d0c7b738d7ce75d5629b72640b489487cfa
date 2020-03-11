@@ -1,0 +1,7 @@
+d6203d0c7b73 ("tty: Refactor tty_open()")
+11e1d4aa4da1 ("tty: Consolidate noctty checks in tty_open()")
+7f22f6c935cd ("tty: Retry failed reopen if tty teardown in-progress")
+0bfd464d3fdd ("tty: Wait interruptibly for tty lock on reopen")
+d435cefe9cbc ("tty: Remove __func__ from tty_debug() macro")
+339f36ba14cf ("tty: Define tty_*() printk macros")
+998b4a4571b8 ("tty: Improve tty_debug() macro")

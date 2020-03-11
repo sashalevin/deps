@@ -1,0 +1,5 @@
+c96cf923a98d ("tty: Don't block on IO when ldisc change is pending")
+28b0f8a6962a ("tty: make n_tty_read() always abort if hangup is in progress")
+0f40fbbcc34e ("Fix OpenSSH pty regression on close")
+18900ca65a85 ("tty: Replace TTY_IO_ERROR bit tests with tty_io_error()")
+33d7136336a9 ("n_tty: Always wake up read()/poll() if new input")

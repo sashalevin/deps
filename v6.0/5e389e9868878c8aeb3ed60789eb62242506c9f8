@@ -1,0 +1,4 @@
+5e389e986887 ("irqchip/armada-370-xp: Drop _OFFS suffix from some register constants")
+986b6ad0c4c6 ("irqchip/armada-370-xp: Add support for 32 MSI interrupts on non-IPI platforms")
+9d80f6bd3ad8 ("irqchip/armada-370-xp: Do not touch IPI registers on platforms without IPI")
+de796fc18417 ("irqchip/armada-370-xp: Only call ipi_resume() if IPI is available")

@@ -1,0 +1,8 @@
+9ad1230533ef ("btrfs: reuse existing inode from btrfs_ioctl")
+dc408ccdf01d ("btrfs: reuse existing pointers from btrfs_ioctl")
+efc0e69c2fea ("btrfs: introduce exclusive operation BALANCE_PAUSED state")
+97fc29775487 ("btrfs: convert to fileattr")
+21cb47be6fb9 ("inode: make init and permission helpers idmapped mount aware")
+47291baa8ddf ("namei: make permission helpers idmapped mount aware")
+0558c1bf5a08 ("capability: handle idmapped mounts")
+02f92b3868a1 ("fs: add file and path permissions helpers")

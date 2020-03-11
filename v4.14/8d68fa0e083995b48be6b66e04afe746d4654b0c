@@ -1,0 +1,6 @@
+8d68fa0e0839 ("signal/x86: Move mpx siginfo generation into do_bounds")
+32542ee295be ("x86/mpx, x86/insn: Relocate insn util functions to a new insn-eval file")
+4578f06fc93f ("x86/mpx: Do not use SIB.base if its value is 101b and ModRM.mod = 0")
+ff9d78025c51 ("x86/mpx: Do not use SIB.index if its value is 100b and ModRM.mod is not 11b")
+b8d2eff3b1c6 ("x86/mpx: Use signed variables to compute effective addresses")
+b15d70df6e68 ("x86/mpx: Simplify handling of errors when computing linear addresses")

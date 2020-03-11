@@ -1,0 +1,7 @@
+96fd6c65efc6 ("sched: Factor out update_other_load_avgs() from __update_blocked_others()")
+127f6bf16188 ("sched/core: Clean up kernel/sched/sched.h a bit")
+04746ed80bcf ("sched/syscalls: Split out kernel/sched/syscalls.c from kernel/sched/core.c")
+97450eb90965 ("sched/pelt: Remove shift of thermal clock")
+d4dbc991714e ("sched/cpufreq: Rename arch_update_thermal_pressure() => arch_update_hw_pressure()")
+f1f8d0a22422 ("sched/cpufreq: Take cpufreq feedback into account")
+8b936fc1d84f ("sched/fair: Use existing helper functions to access ->avg_rt and ->avg_dl")

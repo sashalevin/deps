@@ -1,0 +1,6 @@
+840a470181c7 ("scsi: lpfc: Enable common wqe_template support for both SCSI and NVMe")
+b101eb27fde0 ("scsi: lpfc: Refactor WQE structure definitions for common use")
+2fcbc569b9f5 ("scsi: lpfc: Make debugfs ktime stats generic for NVME and SCSI")
+840eda9602d3 ("scsi: lpfc: Fix erroneous cpu limit of 128 on I/O statistics")
+bc227dde0d8b ("scsi: lpfc: Initialize cpu_map for not present cpus")
+22770cbabf6b ("scsi: lpfc: Slight fast-path performance optimizations")

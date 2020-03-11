@@ -1,0 +1,5 @@
+3dfac26e2ef2 ("vgacon: Propagate console boot parameters before calling `vc_resize'")
+860dafa90259 ("vt: Fix character height handling with VT_RESIZEX")
+a90c275eb144 ("vt_ioctl: Revert VT_RESIZEX parameter handling removal")
+d4d0ad57b386 ("vgacon: Record video mode changes with VT_RESIZEX")
+988d0763361b ("vt_ioctl: make VT_RESIZEX behave like VT_RESIZE")

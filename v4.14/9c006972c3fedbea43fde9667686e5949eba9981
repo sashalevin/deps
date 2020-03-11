@@ -1,0 +1,7 @@
+9c006972c3fe ("arm64: mmu: drop pXd_present() checks from pXd_free_pYd_table()")
+fac880c7d074 ("arm64: fix erroneous warnings in page freeing functions")
+ec28bb9c9b08 ("arm64: Implement page table free interfaces")
+785a19f9d1dd ("ioremap: Update pgtable free interfaces with addr")
+f967db0b9ed4 ("x86/mm: Disable ioremap free page handling on x86-PAE")
+28ee90fe6048 ("x86/mm: implement free pmd/pte page interfaces")
+b6bdb7517c3d ("mm/vmalloc: add interfaces to free unmapped page table")

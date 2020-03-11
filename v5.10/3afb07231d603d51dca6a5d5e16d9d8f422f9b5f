@@ -1,0 +1,8 @@
+3afb07231d60 ("clk: Take into account uncached clocks in clk_set_rate_range()")
+350575abec48 ("clk: tests: Add tests for uncached clock")
+481f541ced8f ("clk: test: Test clk_set_rate_range on orphan mux")
+c80ac50cbb37 ("clk: Always set the rate on clk_set_range_rate")
+a9b269310ad9 ("clk: Use clamp instead of open-coding our own")
+10c46f2ea914 ("clk: Enforce that disjoints limits are invalid")
+723d0530d9d7 ("clk: Introduce Kunit Tests for the framework")
+a992acbb219a ("clk: gate: Add some kunit test suites")

@@ -1,0 +1,6 @@
+49ec9177b8ec ("extable: Add function to search only kernel exception table")
+a94c33dd1f67 ("lib/extable.c: use bsearch() library function in search_extable()")
+5ff22646d246 ("module: Optimize search_module_extables()")
+49aadcf1b6f4 ("extable.h: add stddef.h so "NULL" definition is not implicit")
+0ef7653797ad ("exceptions: fork exception table content from module.h into extable.h")
+a272858a3c1e ("extable: add support for relative extables to search and sort routines")

@@ -1,0 +1,6 @@
+63e7f1289389 ("ext4: fix no-key deletion for encrypt+casefold")
+f8f4acb6cded ("ext4: use generic casefolding support")
+d3e7d20befd9 ("ext4: use the normal helper to get the actual inode")
+2ce3ee931a09 ("ext4: avoid utf8_strncasecmp() with unstable name")
+ec772f01307a ("ext4: fix race conditions in ->d_compare() and ->d_hash()")
+68d7b2d838f1 ("ext4: fix unused-but-set-variable warning in ext4_add_entry()")

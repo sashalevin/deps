@@ -1,0 +1,8 @@
+696207d4258b ("arm64/sve: Make kernel FPU protection RT friendly")
+13150149aa6d ("arm64: fpsimd: run kernel mode NEON with softirqs disabled")
+f0070f4a7934 ("crypto: arm64/aes-ce-mac - simplify NEON yield")
+5f6cb2e61768 ("crypto: arm64/sha512-ce - simplify NEON yield")
+9ecc9f31d0a4 ("crypto: arm64/sha3-ce - simplify NEON yield")
+b2eadbf40e8f ("crypto: arm64/sha2-ce - simplify NEON yield")
+5a69e1b73d54 ("crypto: arm64/sha1-ce - simplify NEON yield")
+d13c613f136c ("arm64: assembler: add cond_yield macro")

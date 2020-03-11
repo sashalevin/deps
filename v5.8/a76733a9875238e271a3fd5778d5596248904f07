@@ -1,0 +1,5 @@
+a76733a98752 ("KVM: x86: Introduce kvm_check_cpuid()")
+36f37648ca98 ("KVM: X86: Move kvm_apic_set_version() to kvm_update_cpuid()")
+18964092825a ("KVM: X86: Reset vcpu->arch.cpuid_nent to 0 if SET_CPUID* fails")
+b899c13277a9 ("KVM: x86: Create mask for guest CR4 reserved bits in kvm_update_cpuid()")
+6abe9c1386e5 ("KVM: X86: Move ignore_msrs handling upper the stack")

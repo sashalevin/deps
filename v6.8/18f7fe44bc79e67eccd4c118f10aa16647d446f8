@@ -1,0 +1,6 @@
+18f7fe44bc79 ("scsi: lpfc: Define lpfc_nodelist type for ctx_ndlp ptr")
+a645b8c1f5bc ("scsi: lpfc: Change lpfc_vport fc_flag member into a bitmask")
+9bb36777d0a2 ("scsi: lpfc: Protect vport fc_nodes list with an explicit spin lock")
+0dfd9cbc187c ("scsi: lpfc: Change nlp state statistic counters into atomic_t")
+4be4ad6cd237 ("scsi: lpfc: Remove shost_lock protection for fc_host_port shost APIs")
+7bb6cb7bb21c ("scsi: lpfc: Fix failure to delete vports when discovery is in progress")

@@ -1,0 +1,8 @@
+9dba4d24cbb5 ("x86/kvm: remove unused ack_notifier callbacks")
+34739a2809e1 ("x86: Fix typo s/ECLR/ELCR/ for the PIC register")
+49f520b99af1 ("KVM: x86: push usage of slots_lock down")
+ba7454e17f90 ("KVM: x86: don't take kvm->irq_lock when creating IRQCHIP")
+637e3f86faf9 ("KVM: x86: new irqchip mode KVM_IRQCHIP_INIT_IN_PROGRESS")
+950712eb8ef0 ("KVM: x86: check existance before destroy")
+099413664c71 ("KVM: x86: make pic setup code look like ioapic setup")
+49776faf93f8 ("KVM: x86: decouple irqchip_in_kernel() and pic_irqchip()")

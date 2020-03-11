@@ -1,0 +1,4 @@
+25b3a8237a03 ("md/raid5: recheck if reshape has finished with device_lock held")
+41425f96d7aa ("dm-raid456, md/raid456: fix a deadlock for dm-raid456 while io concurrent with reshape")
+5625ff8b72b0 ("dm-raid: add a new helper prepare_suspend() in md_personality")
+16c4770c75b1 ("dm-raid: really frozen sync_thread during suspend")

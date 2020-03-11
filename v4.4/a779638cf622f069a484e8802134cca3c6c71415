@@ -1,0 +1,8 @@
+a779638cf622 ("pipe: add pipe_buf_release() helper")
+7bf2d1df8082 ("pipe: add pipe_buf_get() helper")
+241699cd72a8 ("new iov_iter flavour: pipe-backed")
+79fddc4efd5d ("new helper: add_to_pipe()")
+8924feff66f3 ("splice: lift pipe_lock out of splice_to_pipe()")
+db85a9eb2e36 ("splice: switch get_iovec_page_array() to iov_iter")
+e7c3c6462406 ("splice_to_pipe(): don't open-code wakeup_pipe_readers()")
+69370471d0b2 ("Merge branch 'work.iov_iter' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

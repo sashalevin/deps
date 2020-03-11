@@ -1,0 +1,7 @@
+4b6ec919b848 ("virtio_ring: Use const to annotate read-only pointer params")
+1adbd6b2fc0c ("virtio_ring: Avoid using inline for small functions")
+325106315503 ("virtio: allow to unbreak/break virtqueue individually")
+a7722890fdfb ("virtio_ring : keep used_wrap_counter in vq->last_used_idx")
+8b4ec69d7e09 ("virtio: harden vring IRQ")
+be83f04d2529 ("virtio: allow to unbreak virtqueue")
+35c51e093d95 ("virtio_ring: remove unnecessary to_vvq call in vring hot path")

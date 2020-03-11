@@ -1,0 +1,7 @@
+7ffc9ec8eac1 ("kvfree_rcu: Make krc_this_cpu_unlock() use raw_spin_unlock_irqrestore()")
+69f08d3999db ("rcu/tree: Use static initializer for krc.lock")
+952371d6fc0b ("rcu/tree: Move kfree_rcu_cpu locking/unlocking to separate functions")
+446044eb9c9c ("rcu/tree: Make debug_objects logic independent of rcu_head")
+8ac88f7177c7 ("rcu/tree: Keep kfree_rcu() awake during lock contention")
+8e11690d2f5a ("rcu: Fix a kernel-doc warnings for "count"")
+9154244c1ab6 ("rcu/tree: Add a shrinker to prevent OOM due to kfree_rcu() batching")

@@ -1,0 +1,4 @@
+426fa316148b ("irqdomain: Use struct_size() helper when allocating irqdomain")
+4f86a06e2d6e ("irqdomain: Make normal and nomap irqdomains exclusive")
+1da027362a7d ("irqdomain: Reimplement irq_linear_revmap() with irq_find_mapping()")
+bb4c6910c8b4 ("genirq/irqdomain: Add an irq_create_mapping_affinity() function")

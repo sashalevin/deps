@@ -1,0 +1,6 @@
+d34c6105499b ("HID: i2c-hid: use "struct i2c_hid" as argument in most calls")
+a5e5e03e9476 ("HID: i2c-hid: fix GET/SET_REPORT for unnumbered reports")
+cf5b2fb012c0 ("HID: i2c-hid: fix handling numbered reports with IDs of 15 and above")
+ca66a6770bd9 ("HID: i2c-hid: Skip ELAN power-on command after reset")
+fd0913768701 ("HID: Add quirk for incorrect input length on Lenovo Y720")
+fd70466d37bf ("HID: i2c-hid: Reset ALPS touchpads on resume")

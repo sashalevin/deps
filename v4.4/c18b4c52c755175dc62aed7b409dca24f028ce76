@@ -1,0 +1,6 @@
+c18b4c52c755 ("rtc: pcf85063: do not register a RTC device if chip is not present")
+2da424af4531 ("rtc: pcf85063: remove struct pcf85063")
+a2892bf4456e ("rtc: pcf85063: remove useless DRV_VERSION")
+ba270bbbf434 ("rtc: pcf85063: remove useless century handling")
+31d4d33ef431 ("rtc: pcf85063: fix time/date setting")
+7b5768486a91 ("rtc: pcf85063: simplify code to read the current time")

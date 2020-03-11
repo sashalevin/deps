@@ -1,0 +1,8 @@
+e75e45c25b66 ("drm/msm/dpu: remove irq_idx argument from IRQ callbacks")
+e955a3f0d86e ("drm/msm/dpu: Implement tearcheck support on INTF block")
+bb9f1880ca90 ("drm/msm/dpu: Merge setup_- and enable_tearcheck pingpong callbacks")
+c31ec42ebb45 ("drm/msm/dpu: Move dpu_hw_{tear_check, pp_vsync_info} to dpu_hw_mdss.h")
+fe9d66cf6e8d ("drm/msm/dpu: Disable pingpong TE on DPU 5.0.0 and above")
+4a7c38ec7d8e ("drm/msm/dpu: Move autorefresh disable from CMD encoder to pingpong")
+a2623e72c52b ("drm/msm/dpu: Drop unused poll_timeout_wr_ptr PINGPONG callback")
+d9388af50843 ("drm/msm/dpu: Remove extraneous register define indentation")

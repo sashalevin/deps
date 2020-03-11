@@ -1,0 +1,7 @@
+aef6b8631f9d ("serial: 8250_of: Use devm_clk_get_enabled()")
+4678de73932f ("serial: 8250_of: Use dev_err_probe() instead of dev_warn()")
+b334214ea08d ("serial: 8250: RT288x/Au1xxx code away from core")
+b245aa0cc583 ("serial: 8250: Change dl_read/write to handle value as u32")
+b22ea7df56b2 ("serial: 8250_em: Add serial8250_em_{reg_update(),out_helper()}")
+59d6558fb5fd ("serial: 8250_em: Use pseudo offset for UART_FCR")
+7c7f9bc986e6 ("serial: Deassert Transmit Enable on probe in driver-specific way")

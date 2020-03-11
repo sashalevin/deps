@@ -1,0 +1,5 @@
+18c18b1ff6c6 ("gcc-plugins: Remove duplicate included header file stringpool.h")
+af2d22254e8e ("gcc-plugins: remove code for GCC versions older than 4.9")
+7210e060155b ("gcc-plugins: Fix build failures under Darwin host")
+10e9ae9fabaf ("gcc-plugins: Add STACKLEAK plugin for tracking the kernel stack")
+afaef01c0015 ("x86/entry: Add STACKLEAK erasing the kernel stack at the end of syscalls")

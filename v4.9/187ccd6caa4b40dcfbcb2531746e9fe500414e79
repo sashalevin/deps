@@ -1,0 +1,8 @@
+187ccd6caa4b ("HID: input: move up out-of-range processing of input values")
+f2d4ddfa640d ("HID: input: rework spaghetti code with switch statements")
+eb134536cf6f ("HID: input: replace outdated HID numbers+comments with macros")
+2dc702c991e3 ("HID: input: use the Resolution Multiplier for high-resolution scrolling")
+581c4484769e ("HID: input: map digitizer battery usage")
+c3883fe06488 ("HID: clamp input to logical range if no null state")
+3f3752705dbd ("HID: reject input outside logical range only if null state is set")
+72d19459d791 ("HID: input: rework HID_QUIRK_MULTI_INPUT")

@@ -1,0 +1,7 @@
+dd5403869a40 ("sched/cpuidle: Comment about timers requirements VS idle handler")
+e78a7614f387 ("idle: Prevent late-arriving interrupts from disrupting offline")
+2aaf709a518d ("sched: idle: Do not stop the tick upfront in the idle loop")
+0e7767687fda ("time: tick-sched: Reorganize idle tick management code")
+22ab8bc02a5f ("nohz: Allow to check if remote CPU tick is stopped")
+a364298359e7 ("nohz: Convert tick_nohz_tick_stopped() to bool")
+54b933c6c954 ("sched/idle: Micro-optimize the idle loop")

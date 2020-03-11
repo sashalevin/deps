@@ -1,0 +1,7 @@
+23fc86eb2f30 ("spi: atmel: Downgrade to dev_dbg when dma_request_chan() fails")
+961894758208 ("spi: atmel: Simplify with dev_err_probe()")
+d947c9d26c23 ("spi: atmel: Use dma_request_chan() instead dma_request_slave_channel()")
+768f3d9d80d2 ("spi: atmel: remove the use of private channel fields")
+d5fab59cab18 ("spi: atmel: trivial: remove unused fields in DMA structure")
+04242ca4e891 ("spi: atmel: Use SPI core DMA mapping framework")
+7910d9af000a ("spi: atmel: Use core SPI_MASTER_MUST_[RT]X handling")

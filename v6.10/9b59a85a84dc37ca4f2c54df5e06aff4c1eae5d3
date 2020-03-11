@@ -1,0 +1,4 @@
+9b59a85a84dc ("workqueue: Don't call va_start / va_end twice")
+ec0a7d44b358 ("workqueue: Add interface for user-defined workqueue lockdep map")
+b188c57af2b5 ("workqueue: Split alloc_workqueue into internal function and lockdep init")
+4e9a37389ec2 ("workqueue: Move kthread_flush_worker() out of alloc_and_link_pwqs()")

@@ -1,0 +1,7 @@
+eb9819257631 ("KVM: selftests: Verify APIC_ID is set when forcing x2APIC=>xAPIC transition")
+85c68eb429f7 ("KVM: selftests: Add test to verify KVM handling of ICR")
+150a282d43b8 ("KVM: selftests: Move APIC definitions into a separate file")
+2f3b90fd90b5 ("KVM: selftests: Ignore recently added Xen tests' build output")
+678e90a349a4 ("KVM: selftests: Test IPI to halted vCPU in xAPIC while backing page moves")
+a5543d3456dd ("selftests, kvm: Replace manual MSR defs with common msr-index.h")
+c90992bfb080 ("kvm: tests: Add test to verify MSR_IA32_XSS")

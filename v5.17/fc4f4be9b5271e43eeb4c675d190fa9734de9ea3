@@ -1,0 +1,8 @@
+fc4f4be9b527 ("mm/nommu: factor out check for NOMMU shared mappings into is_nommu_shared_mapping()")
+ed29b0b4fd83 ("io_uring: move to separate directory")
+0b90ddae1344 ("mm: Turn page_maybe_dma_pinned() into folio_maybe_dma_pinned()")
+3d11b225aeb1 ("mm: Add folio_pincount_ptr()")
+5232c63f46fd ("mm: Make compound_pincount always available")
+6315d8a23ce3 ("mm/gup: Remove hpage_pincount_sub()")
+78d9d6ced31a ("mm/gup: Remove hpage_pincount_add()")
+8ea2979c1444 ("mm/gup: Increment the page refcount before the pincount")

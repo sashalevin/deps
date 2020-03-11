@@ -1,0 +1,5 @@
+5768d8906bc2 ("signal: Requeue signals in the appropriate queue")
+00b06da29cf9 ("signal: Add SA_IMMUTABLE to ensure forced siganls do not get changed")
+7da5082a2f9a ("arch: provide better documentation for the arch-specific SA_* flags")
+23acdc76f179 ("signal: clear non-uapi flag bits when passing/returning sa_flags")
+1d82b7898f2a ("arch: move SA_* definitions to generic headers")

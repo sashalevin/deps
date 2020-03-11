@@ -1,0 +1,5 @@
+1fc7db2401d6 ("parisc: Don't enforce DMA completion order in cache flushes")
+2d94a832e246 ("parisc: Add memory barrier to asm pdc and sync instructions")
+3847dab77421 ("parisc: Add alternative coding infrastructure")
+4dd5b673fa62 ("parisc: Purge TLB entries after updating page table entry and set page accessed flag in TLB handler")
+32a7901f6d1d ("parisc: Remove PTE load and fault check from L2_ptep macro")

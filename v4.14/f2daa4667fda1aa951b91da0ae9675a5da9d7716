@@ -1,0 +1,4 @@
+f2daa4667fda ("spi: Use sysfs_emit() to instead of s*printf()")
+c21b0837983d ("spi: Use device_find_any_child() instead of custom approach")
+cc8b4659491d ("spi: core: Use DEVICE_ATTR_RW() for SPI slave control sysfs attribute")
+5039563e7c25 ("spi: Add driver_override SPI device attribute")

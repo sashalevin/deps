@@ -1,0 +1,6 @@
+bb472da2148f ("pwm: sifive: Prepare removing pwm_chip from driver data")
+2375e964d541 ("pwm: sifive: Shut down hardware only after pwmchip_remove() completed")
+ace41d7564e6 ("pwm: sifive: Ensure the clk is enabled exactly once per running PWM")
+0f02f491b786 ("pwm: sifive: Reduce time the controller lock is held")
+ceb2c2842f36 ("pwm: sifive: Don't check the return code of pwmchip_remove()")
+9e37a53eb051 ("pwm: sifive: Add a driver for SiFive SoC PWM")

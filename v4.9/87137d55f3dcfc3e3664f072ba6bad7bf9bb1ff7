@@ -1,0 +1,8 @@
+87137d55f3dc ("media: davinci: vpif: Use platform_get_irq_optional() to get the interrupt")
+43acb728bbc4 ("media: davinci: vpif: fix use-after-free on driver unbind")
+d42b3ad105b5 ("media: davinci: vpif: fix unbalanced runtime PM enable")
+4a321de23921 ("media: davinci: vpif: fix unbalanced runtime PM get")
+bcbeade15a30 ("media: davinci: Make use of the helper function devm_platform_ioremap_resource()")
+cf73a660111c ("media: platform: davinci: Use DEFINE_SPINLOCK() for spinlock")
+4024d6f601e3 ("media: vpif: Fix runtime PM imbalance in vpif_probe")
+479f7a118105 ("[media] davinci: vpif: adaptions for DT support")

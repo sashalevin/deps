@@ -1,0 +1,8 @@
+61c78644e7f1 ("arc: Remove unnecessary of_platform_populate with default match table")
+69fbd09874de ("ARC: clockevent: Prepare for DT based probe")
+eec3c58efa27 ("ARC: clockevent: switch to cpu notifier for clockevent setup")
+569579401ae1 ("ARC: opencode arc_request_percpu_irq")
+db4c4426daed ("ARC: [intc-compact] setup TIMER as percpu_dev")
+26cf9cc5d88e ("arc: use of_platform_default_populate() to populate default bus")
+dbcbc7e7cee1 ("ARC: [intc-compact] Remove IPI setup from ARCompact port")
+3e5177c1919b ("arc: get rid of DEVTMPFS dependency on INITRAMFS_SOURCE")

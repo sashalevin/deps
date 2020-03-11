@@ -1,0 +1,4 @@
+21dfbcd1f5cb ("crypto: algif_aead - fix uninitialized ctx->init")
+f8d33fac8480 ("crypto: skcipher - prevent using skciphers without setting key")
+af955bf15d2c ("crypto: af_alg - Fix race around ctx->rcvused by making it atomic_t")
+2c3f8b162106 ("crypto: algif - move to generic async completion")

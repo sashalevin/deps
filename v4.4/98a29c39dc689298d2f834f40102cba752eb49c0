@@ -1,0 +1,7 @@
+98a29c39dc68 ("libnvdimm, namespace: allow creation of multiple pmem-namespaces per region")
+cd03412a51ac ("libnvdimm, dax: introduce device-dax infrastructure")
+0bfb8dd3edd6 ("libnvdimm: cleanup nvdimm_namespace_common_probe(), kill 'host'")
+bd032943b5b2 ("libnvdimm, pfn, convert nd_pfn_probe() to devm")
+298f2bc5db38 ("libnvdimm, pmem: kill pmem->ndns")
+a390180291dd ("libnvdimm, pfn: fix nvdimm_namespace_add_poison() vs section alignment")
+489011652a2d ("Merge branch 'for-4.6/pfn' into libnvdimm-for-next")

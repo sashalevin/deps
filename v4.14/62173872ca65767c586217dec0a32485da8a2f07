@@ -1,0 +1,6 @@
+62173872ca65 ("clone3: add a check for the user struct size if CLONE_INTO_CGROUP is set")
+e82a118f57b8 ("clone3: fix cgroup argument sanity check")
+ef2c41cf38a7 ("clone3: allow spawning processes into cgroups")
+5a5cf5cb30d7 ("cgroup: refactor fork helpers")
+0cd9d33ace33 ("cgroup: init_tasks shouldn't be linked to the root cgroup")
+1b96a41b4209 ("Merge branch 'for-5.5' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

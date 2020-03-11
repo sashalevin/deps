@@ -1,0 +1,6 @@
+60da3a12c53b ("perf build: Add NO_SDT=1 to the default set of build tests")
+69fbadbe987a ("perf build: Add NO_LIBCRYPTO=1 to the default set of build tests")
+5bc7aac3e7ca ("perf build: Add NO_SYSCALL_TABLE=1 to the build tests")
+beb642030004 ("perf trace: Fix compilation error for make NO_LIBBPF=1 DEBUG=1")
+8bd436b006d4 ("perf trace augmented_syscalls: Do not show syscalls when none was asked for")
+7e035929f3fe ("perf trace: Postpone parsing .perfconfig trace.add_events to after --verbose is processed")

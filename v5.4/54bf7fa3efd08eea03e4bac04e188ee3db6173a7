@@ -1,0 +1,8 @@
+54bf7fa3efd0 ("ima: Fix undefined arch_ima_get_secureboot() and co")
+9e2b4be377f0 ("ima: add a new CONFIG for loading arch-specific policies")
+9f81a2eda488 ("IMA: Define workqueue for early boot key measurements")
+ea78979d302f ("IMA: fix measuring asymmetric keys Kconfig")
+cb1aa3823c92 ("KEYS: Call the IMA hook to measure keys")
+88e70da170e8 ("IMA: Define an IMA hook to measure keys")
+4238fad366a6 ("powerpc/ima: Add support to initialize ima policy rules")
+1a8916ee3ac2 ("powerpc: Detect the secure boot mode of the system")

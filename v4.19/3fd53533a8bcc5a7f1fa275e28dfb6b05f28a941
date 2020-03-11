@@ -1,0 +1,5 @@
+3fd53533a8bc ("dm crypt: use crypt_integrity_aead() helper")
+4ea9471fbd1a ("dm crypt: fix benbi IV constructor crash if used in authenticated mode")
+39d13a1ac41d ("dm crypt: reuse eboiv skcipher for IV generation")
+b9411d73bd3e ("dm crypt: implement eboiv - encrypted byte-offset initialization vector")
+6028a7a5a3d6 ("dm crypt: remove obsolete comment about plumb IV")

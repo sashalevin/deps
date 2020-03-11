@@ -1,0 +1,6 @@
+68fffc191ed1 ("spi: tegra114: Simplify with dev_err_probe()")
+4c973b98cdd3 ("spi: tegra114: Use dma_request_chan() directly for channel request")
+f4ce428c41fb ("spi: tegra114: configure dma burst size to fifo trig level")
+c4fc9e5b28ff ("spi: tegra114: flush fifos")
+32bd1a9551ca ("spi: tegra114: terminate dma and reset on transfer timeout")
+bfca76185d9b ("spi: tegra: fix spelling mistake: "trasfer" -> "transfer"")

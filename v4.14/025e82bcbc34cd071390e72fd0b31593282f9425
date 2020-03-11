@@ -1,0 +1,4 @@
+025e82bcbc34 ("timekeeping: Use sequence counter with associated raw spinlock")
+ce10a5b3954f ("timekeeping: Use proper seqcount initializer")
+b061c7a513af ("timekeeping: Update multiplier when NTP frequency is set directly")
+5df32107f609 ("timekeeping: Make fast accessors return 0 before timekeeping is initialized")

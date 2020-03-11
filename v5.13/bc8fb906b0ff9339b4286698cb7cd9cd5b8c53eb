@@ -1,0 +1,8 @@
+bc8fb906b0ff ("nvme: handle effects after freeing the request")
+bcad2565b5d6 ("nvme: refactor nvme_submit_user_cmd()")
+e559398f47e0 ("nvme: remove nvme_alloc_request and nvme_alloc_request_qid")
+89377bc1975c ("nvme: add vectored-io support for user-passthrough")
+ba3266434d66 ("nvme-core: remove unnecessary function parameter")
+b58da2d270db ("nvme: update keep alive interval when kato is modified")
+ae5e6886b4f8 ("nvme: use return value from blk_execute_rq()")
+be42a33b9252 ("nvme: use blk_execute_rq() for passthrough commands")

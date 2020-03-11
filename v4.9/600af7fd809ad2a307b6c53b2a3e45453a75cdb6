@@ -1,0 +1,7 @@
+600af7fd809a ("sctp: support for sending packet over udp4 sock")
+8a9c58d28d0f ("sctp: add support for dscp and flowlabel per transport")
+25e7f2de9658 ("sctp: set the value of flowi6_oif to sk_bound_dev_if to make sctp_v6_get_dst to find the correct route entry.")
+df2729c3238e ("sctp: check for dst and pathmtu update in sctp_packet_config")
+486a43db2e26 ("sctp: remove temporary variable confirm from sctp_packet_transmit")
+c86a773c7802 ("sctp: add dst_pending_confirm flag")
+4e8f2fc1a55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

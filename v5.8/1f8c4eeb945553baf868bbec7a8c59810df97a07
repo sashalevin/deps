@@ -1,0 +1,6 @@
+1f8c4eeb9455 ("inet6: Remove inet6_destroy_sock().")
+21985f43376c ("udp: Call inet6_destroy_sock() in setsockopt(IPV6_ADDRFORM).")
+9b9e2f250e3e ("tcp: move ipv4_specific to tcp include file")
+b03d2142bea8 ("tcp: move ipv6_specific declaration to remove a warning")
+dd2e0b86fc4e ("tcp: remove indirect calls for icsk->icsk_af_ops->send_check")
+05e22e839505 ("tcp: remove indirect calls for icsk->icsk_af_ops->queue_xmit")

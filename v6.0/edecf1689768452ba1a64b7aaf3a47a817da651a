@@ -1,0 +1,7 @@
+edecf1689768 ("io_uring: enable io_mem_alloc/free to be used in other parts")
+1658633c0465 ("io_uring: ensure io_lockdep_assert_cq_locked() handles disabled rings")
+8ce4269eeedc ("io_uring: add irq lockdep checks")
+f26cc9593581 ("io_uring: lockdep annotate CQ locking")
+e52d2e583e4a ("io_uring: inline io_req_task_work_add()")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

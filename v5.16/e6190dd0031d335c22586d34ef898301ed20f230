@@ -1,0 +1,5 @@
+e6190dd0031d ("ublk_drv: do not add a re-issued request aborted previously to ioucmd's task_work")
+0edb3696c171 ("ublk_drv: support to complete io command via task_work_add")
+71f28f3136af ("ublk_drv: add io_uring based userspace block driver")
+3427f2b2c533 ("block: remove the rsxx driver")
+ac6f6548fcb3 ("rsxx: Drop PCI legacy power management")

@@ -1,0 +1,7 @@
+254b2fd02e34 ("s390/mm: provide minimal setup_per_cpu_areas() implementation")
+a603002eea82 ("virtio: replace restricted mem access flag with callback")
+fa1f57421e0b ("xen/virtio: Enable restricted memory access using Xen grant mappings")
+d6aca3504c7d ("xen/grant-dma-ops: Add option to restrict memory access under Xen")
+3f9dfbebdc48 ("virtio: replace arch_has_restricted_virtio_memory_access()")
+2130a790ca49 ("kernel: add platform_has() infrastructure")
+3153234097f6 ("virtio: Replace unsigned with unsigned int")

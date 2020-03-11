@@ -1,0 +1,7 @@
+93102cb44978 ("i2c: piix4: Replace hardcoded memory map size with a #define")
+04b6fcaba346 ("i2c: piix4: Use request_muxed_region")
+45fd4470ba86 ("i2c: piix4: Fix port number check on release")
+88fa2dfb075a ("i2c: piix4: Disable completely the IMC during SMBUS_BLOCK_DATA")
+0fe16195f891 ("i2c: piix4: Fix SMBus port selection for AMD Family 17h chips")
+bbb27fc33d44 ("i2c: piix4: Request the SMBUS semaphore inside the mutex")
+701dc207bf55 ("i2c: piix4: Avoid race conditions with IMC")

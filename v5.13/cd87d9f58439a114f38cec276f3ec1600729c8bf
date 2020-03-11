@@ -1,0 +1,6 @@
+cd87d9f58439 ("x86/mm: further clarify switch_mm_irqs_off() documentation")
+3cfd6625a6cf ("x86/mm: clarify "prev" usage in switch_mm_irqs_off()")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+c9fe66560bf2 ("mm/mprotect: do not flush when not required architecturally")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+e346e6688c4a ("mm: thp: skip make PMD PROT_NONE if THP migration is not supported")

@@ -1,0 +1,5 @@
+66a4210bc82e ("of: Move of_device_{add,register,unregister} to platform.c")
+f3cfd136aef0 ("of: restricted dma: Don't fail device probe on rmem init failure")
+ce5cb67c664f ("of: Move of_dma_set_restricted_buffer() into device.c")
+85044eb08d0a ("of: Return success from of_dma_set_restricted_buffer() when !OF_ADDRESS")
+fec9b625095f ("of: Add plumbing for restricted DMA pool")

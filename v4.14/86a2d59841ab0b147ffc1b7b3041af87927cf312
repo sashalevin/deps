@@ -1,0 +1,3 @@
+86a2d59841ab ("mm/hmm: fix race between hmm_mirror_unregister() and mmu_notifier callback")
+c01cbba2aa8b ("mm/hmm: unregister mmu_notifier when last HMM client quit")
+e1401513c6b5 ("mm/hmm: HMM should have a callback before MM is destroyed")

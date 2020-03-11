@@ -1,0 +1,3 @@
+6f34a4ee738b ("mmc: core: Do not evaluate HS400 capabilities if bus has no MMC capability")
+23e1b8c15b3a ("mmc: core: Drop HS400 caps unless 8-bit bus is supported too")
+d6c9219ca113 ("mmc: host: Return an error when ->enable_sdio_irq() ops is missing")

@@ -1,0 +1,5 @@
+93255bf92939 ("KVM: VMX: Mark all PERF_GLOBAL_(OVF)_CTRL bits reserved if there's no vPMU")
+2c985527dd8d ("KVM: x86/pmu: Introduce the ctrl_mask value for fixed counter")
+95b065bf5c43 ("KVM: x86/pmu: Use different raw event masks for AMD and Intel")
+710c47651431 ("KVM: x86/pmu: Use AMD64_RAW_EVENT_MASK for PERF_TYPE_RAW")
+7ff775aca48a ("KVM: x86/pmu: Use binary search to check filtered events")

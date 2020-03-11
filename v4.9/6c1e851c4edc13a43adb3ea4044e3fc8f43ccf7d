@@ -1,0 +1,7 @@
+6c1e851c4edc ("random: fix possible sleeping allocation from irq context")
+8ef35c866f88 ("random: set up the NUMA crng instances after the CRNG is fully initialized")
+dc12baacb95f ("random: use a different mixing algorithm for add_device_randomness()")
+ee7998c50c26 ("random: do not ignore early device randomness")
+b169c13de473 ("random: invalidate batched entropy after crng init")
+c440408cf690 ("random: convert get_random_int/long into get_random_u32/u64")
+f5b98461cb81 ("random: use chacha20 for get_random_int/long")

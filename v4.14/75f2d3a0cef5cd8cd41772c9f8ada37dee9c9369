@@ -1,0 +1,5 @@
+75f2d3a0cef5 ("x86/xen: enable early use of set_fixmap in 32-bit Xen PV guest")
+7b25b9cb0dad ("x86/xen/time: Initialize pv xen time in init_hypervisor_platform()")
+0dd6d272d39c ("x86/xen/time: fix section mismatch for xen_init_time_ops()")
+2229f70b5bbb ("x86/xen/time: setup vcpu 0 time info page")
+b88880809311 ("x86/xen/time: set pvclock flags on xen_time_init()")

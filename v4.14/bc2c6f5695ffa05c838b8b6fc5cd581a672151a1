@@ -1,0 +1,8 @@
+bc2c6f5695ff ("powerpc/module_64: Improve restore_r2() return semantics")
+8734b41b3efe ("powerpc/module_64: Fix livepatching for RO modules")
+bd55e792de08 ("powerpc/module_64: Use special stub for _mcount() with -mprofile-kernel")
+1f2aaed2db03 ("powerpc/module_64: Simplify check for -mprofile-kernel ftrace relocations")
+753462512868 ("powerpc: Use a macro for creating instructions from u32s")
+3e74a0e16342 ("powerpc/sstep: Fix DS operand in ld encoding to appropriate value")
+6edc31858541 ("powerpc/8xx: Use alternative scratch registers in DTLB miss handler")
+7794b1d4185e ("Merge tag 'powerpc-5.5-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

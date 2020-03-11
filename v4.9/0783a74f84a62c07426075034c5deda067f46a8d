@@ -1,0 +1,6 @@
+0783a74f84a6 ("serial: altera_uart: Use port lock wrappers")
+1307c5d33cce ("serial: altera_uart: fix locking in polling mode")
+3af44d9bb053 ("tty: serial: altera_uart_{r,t}x_chars() need only uart_port")
+2ea6ad8bc60f ("serial: altera: don't enable any irq if the device doesn't feature an irq")
+0e254963b6ba ("serial: altera: ensure port->regshift is honored consistently")
+4d9d7d896d77 ("serial: altera_uart: add earlycon support")

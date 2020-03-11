@@ -1,0 +1,7 @@
+3cc0c3738cde ("selftests/memfd: fix test_sysctl")
+11f75a01448f ("selftests/memfd: add tests for MFD_NOEXEC_SEAL MFD_EXEC")
+32d118ad50a5 ("selftests/memfd: add tests for F_SEAL_EXEC")
+544029862cbb ("selftests/memfd: add tests for F_SEAL_FUTURE_WRITE seal")
+29f34d1dd665 ("memfd-test: move common code to a shared unit")
+3037aeb99134 ("memfd-test: add 'memfd-hugetlb:' prefix when testing hugetlbfs")
+724978457fe2 ("memfd-test: test hugetlbfs sealing")

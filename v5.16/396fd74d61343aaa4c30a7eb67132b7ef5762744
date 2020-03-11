@@ -1,0 +1,3 @@
+396fd74d6134 ("KVM: x86/mmu: WARN on any attempt to atomically update REMOVED SPTE")
+3e72c791fd33 ("KVM: x86/mmu: Change tdp_mmu_{set,zap}_spte_atomic() to return 0/-EBUSY")
+3255530ab191 ("KVM: x86/mmu: Automatically update iter->old_spte if cmpxchg fails")

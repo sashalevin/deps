@@ -1,0 +1,5 @@
+635a52da8605 ("f2fs: remove folio_detach_private() in .invalidate_folio and .release_folio")
+447286ebadaa ("f2fs: convert to use bitmap API")
+b90e5086df6b ("f2fs: clean up i_compress_flag and i_compress_level usage")
+6779b5db90c5 ("f2fs: fix to call clear_page_private_reference in .{release,invalid}_folio")
+b3107b3854c9 ("f2fs: remove unused PAGE_PRIVATE_ATOMIC_WRITE")

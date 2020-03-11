@@ -1,0 +1,8 @@
+b09872a652d3 ("ACPI: thermal: Fold acpi_thermal_get_info() into its caller")
+c31b3a1b004c ("ACPI: thermal: Drop struct acpi_thermal_flags")
+f75fbe28e8b5 ("ACPI: thermal: Drop struct acpi_thermal_state")
+7266c88cbaa3 ("ACPI: thermal: Eliminate struct acpi_thermal_state_flags")
+607d265fc1ab ("ACPI: thermal: Move acpi_thermal_driver definition")
+bb5ab1fd61d6 ("ACPI: thermal: Move symbol definitions to one place")
+a80956046995 ("ACPI: thermal: Drop redundant ACPI_TRIPS_REFRESH_DEVICES symbol")
+3883fe9e148e ("ACPI: thermal: Use BIT() macro for defining flags")

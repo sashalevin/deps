@@ -1,0 +1,6 @@
+12d9466d8bf3 ("libbpf: Refactor internal sec_def handling to enable pluggability")
+942025c9f37e ("libbpf: Constify all high-level program attach APIs")
+91b555d73e53 ("libbpf: Schedule open_opts.attach_prog_fd deprecation since v0.7")
+5532dfd42e48 ("libbpf: Simplify BPF program auto-attach code")
+91b4d1d1d544 ("libbpf: Ensure BPF prog types are set before relocations")
+0b46b7550560 ("libbpf: Add LIBBPF_DEPRECATED_SINCE macro for scheduling API deprecations")

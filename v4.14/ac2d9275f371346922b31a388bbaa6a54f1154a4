@@ -1,0 +1,8 @@
+ac2d9275f371 ("drm/nouveau/kms/nv50-: Store the bpc we're using in nv50_head_atom")
+310d35771ee9 ("drm/nouveau/kms/nv50-: Call outp_atomic_check_view() before handling PBN")
+db1231ddc046 ("drm/nouveau: Only recalculate PBN/VCPI on mode/connector changes")
+412e85b60531 ("drm/nouveau: Only release VCPI slots on mode changes")
+88ec89adec36 ("drm/nouveau: Move PBN and VCPI allocation into nv50_head_atom")
+a3d15c4b0ecd ("drm/dp_mst: Remove port validation in drm_dp_atomic_find_vcpi_slots()")
+96550555a78c ("drm/i915: Pass down rc in intel_encoder->compute_config()")
+23d19ba06b9c ("Merge drm/drm-next into drm-misc-next")

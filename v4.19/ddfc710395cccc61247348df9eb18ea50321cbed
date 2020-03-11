@@ -1,0 +1,5 @@
+ddfc710395cc ("sched/deadline: Fix BUG_ON condition for deboosted tasks")
+2279f540ea7d ("sched/deadline: Fix priority inheritance with multiple scheduling classes")
+feff2e65efd8 ("sched/deadline: Unthrottle PI boosted threads while enqueuing")
+46fcc4b00c3c ("sched/deadline: Fix stale throttling on de-/boosted tasks")
+740797ce3a12 ("sched/core: Fix PI boosting between RT and DEADLINE tasks")

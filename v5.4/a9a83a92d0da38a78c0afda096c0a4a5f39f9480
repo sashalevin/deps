@@ -1,0 +1,5 @@
+a9a83a92d0da ("drm/kfd: fix a system crash issue during GPU recovery")
+b42902f4af8f ("drm/amdkfd: Count active CP queues directly")
+81b820b304a0 ("drm/amdkfd: Rename queue_count to active_queue_count")
+2c99a547bcf9 ("drm/amdkfd: don't use dqm lock during device reset/suspend/resume")
+424b5442a2a6 ("drm/amdkfd: Remove unnecessary pm_init() for non HWS mode")

@@ -1,0 +1,4 @@
+c74859d1eb2d ("rcu: Make rcu_report_unblock_qs_rnp() warn on violated preconditions")
+a32e01ee6897 ("rcu: Use wrapper for lockdep asserts")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

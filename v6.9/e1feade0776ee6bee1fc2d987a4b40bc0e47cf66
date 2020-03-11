@@ -1,0 +1,7 @@
+e1feade0776e ("drm/xe: Ensure all the inner access are using the _noresume variant")
+8ae84a27441f ("drm/xe: Move lockdep protection from mem_access to xe_pm_runtime")
+5c9da9fc64a1 ("drm/xe: Convert xe_pm_runtime_{get, put} to void and protect from recursion")
+d6b4137822a1 ("drm/xe: Create a xe_pm_runtime_resume_and_get variant for display")
+3b85b7bcccf4 ("drm/xe: Fix display runtime_pm handling")
+23cf006beac3 ("drm/xe: Runtime PM wake on every IOCTL")
+30c399529f4c ("drm/xe: Document Xe PM component")

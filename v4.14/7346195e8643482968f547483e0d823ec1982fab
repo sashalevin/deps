@@ -1,0 +1,6 @@
+7346195e8643 ("perf report: Don't shadow inlined symbol with different addr range")
+7285cf3325b4 ("perf srcline: Show correct function name for srcline of callchains")
+b7b75a60b291 ("perf srcline: Fix memory leak in addr2inlines()")
+aa441895f7b4 ("perf report: Compare symbol name for inlined frames when sorting")
+2be8832f3c51 ("perf callchain: Refactor inline_list to store srcline string directly")
+fea0cf842c7a ("perf callchain: Refactor inline_list to operate on symbols")

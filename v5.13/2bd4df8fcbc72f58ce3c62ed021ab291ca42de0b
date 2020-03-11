@@ -1,0 +1,6 @@
+2bd4df8fcbc7 ("f2fs: Only lfs mode is allowed with zoned block device feature")
+b5a711acab30 ("f2fs: judge whether discard_unit is section only when have CONFIG_BLK_DEV_ZONED")
+4f993264fe29 ("f2fs: introduce discard_unit mount option")
+277afbde6ca2 ("f2fs: fix wrong checkpoint_changed value in f2fs_remount()")
+6ce19aff0b8c ("f2fs: compress: add compress_inode to cache compressed blocks")
+b763f3bedc2d ("f2fs: restructure f2fs page.private layout")

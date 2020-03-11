@@ -1,0 +1,7 @@
+22f3571cbc84 ("PCI: exynos: Correct generic PHY usage")
+778f7c194b1d ("PCI: dwc: exynos: Rework the driver to support Exynos5433 variant")
+b9ac0f9dc8ea ("PCI: dwc: Move dw_pcie_setup_rc() to DWC common code")
+59fbab1ae40e ("PCI: dwc: Move dw_pcie_msi_init() into core")
+886a9c134755 ("PCI: dwc: Move link handling into common code")
+331e9bcead52 ("PCI: dwc: Drop the .set_num_vectors() host op")
+a0fd361db8e5 ("PCI: dwc: Move "dbi", "dbi2", and "addr_space" resource setup into common code")

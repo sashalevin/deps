@@ -1,0 +1,5 @@
+f6db43076d19 ("f2fs: fix to avoid panic in is_alive() if metadata is inconsistent")
+833dcd354537 ("f2fs: logging neatening")
+f395183f9544 ("f2fs: return EINVAL for hole cases in swap file")
+ca298241bc22 ("f2fs: avoid swapon failure by giving a warning first")
+36e4d95891ed ("f2fs: check if swapfile is section-alligned")

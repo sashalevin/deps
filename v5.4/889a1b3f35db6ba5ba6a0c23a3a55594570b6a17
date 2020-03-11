@@ -1,0 +1,8 @@
+889a1b3f35db ("gpio: mpc8xxx: Use 'devm_gpiochip_add_data()' to simplify the code and avoid a leak")
+7d6588931ccd ("gpio: mpc8xxx: Fix a potential double iounmap call in 'mpc8xxx_probe()'")
+555bda42b0c1 ("gpio: mpc8xxx: Fix a resources leak in the error handling path of 'mpc8xxx_probe()'")
+76c47d1449fc ("gpio: mpc8xxx: Add ACPI support")
+3795d7cc4fe1 ("gpio: mpc8xxx: simplify ls1028a/ls1088a support")
+227caae52bcf ("gpio: mpc8xxx: ls1088a/ls1028a edge detection mode bug fixs.")
+787b64a43f7a ("gpio/mpc8xxx: fix qoriq GPIO reading")
+698b8eeaed72 ("gpio/mpc8xxx: change irq handler from chained to normal")

@@ -1,0 +1,6 @@
+3f05516758be ("perf intel-pt: Accumulate cycle count from TSC/TMA/MTC packets")
+f3c98c4b5ac8 ("perf intel-pt: Re-factor TIP cases in intel_pt_walk_to_ip")
+7b4b4f83881e ("perf intel-pt: Accumulate cycle count from CYC packets")
+948e9dc8bb26 ("perf intel-pt: Factor out intel_pt_update_sample_time")
+1b6599a9d8e6 ("perf intel-pt: Fix sample timestamp wrt non-taken branches")
+bea6385789b8 ("perf intel-pt: Implement decoder flags for trace begin / end")

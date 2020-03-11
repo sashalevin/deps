@@ -1,0 +1,5 @@
+45c2f70cba3a ("ARM: 9069/1: NOMMU: Fix conversion for_each_membock() to for_each_mem_range()")
+b10d6bca8720 ("arch, drivers: replace for_each_membock() with for_each_mem_range()")
+c9118e6c37bf ("arch, mm: replace for_each_memblock() with for_each_mem_pfn_range()")
+49645793bce1 ("mircoblaze: drop unneeded NUMA and sparsemem initializations")
+0178dc761368 ("arm64: mte: Use Normal Tagged attributes for the linear map")

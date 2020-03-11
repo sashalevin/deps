@@ -1,0 +1,7 @@
+504c6295b998 ("arm64/mm: Add remaining ID_AA64MMFR0_PARANGE_ macros")
+26f55386f964 ("arm64/mm: Fix __enable_mmu() for new TGRAN range values")
+b130a8f70cbb ("KVM: arm64: Check advertised Stage-2 page size capability")
+f73531f0257f ("arm64/cpufeature: Drop open encodings while extracting parange")
+c73433fc630c ("arm64/cpufeature: Validate hypervisor capabilities during CPU hotplug")
+2c9d45b43c39 ("arm64: add support for the AMU extension v1")
+bc206065944e ("Merge branch 'for-next/rng' into for-next/core")

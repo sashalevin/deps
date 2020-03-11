@@ -1,0 +1,7 @@
+a3a5b763410c ("arm64: mm: Rename asid2idx() to ctxid2asid()")
+48118151d8cc ("arm64: mm: Pin down ASIDs for sharing mm with devices")
+a39060b009ca ("arm64: compat: Allow 32-bit vdso and sigpage to co-exist")
+1d09094aa620 ("arm64: vdso: use consistent 'map' nomenclature")
+d3418f3839b6 ("arm64: vdso: use consistent 'abi' nomenclature")
+3ee16ff3437c ("arm64: vdso: simplify arch_vdso_type ifdeffery")
+74fc72e77dc5 ("arm64: vdso: remove aarch32_vdso_pages[]")

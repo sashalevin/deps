@@ -1,0 +1,6 @@
+52354b9d1f46 ("PCI: Remove __pci_dev_reset() and pci_dev_reset()")
+b014e96d1abb ("PCI: Protect pci_error_handlers->reset_notify() usage with device_lock()")
+a60a2b73ba69 ("PCI: Export pcie_flr()")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+443b40ba21aa ("x86/PCI: VMD: Add quirk for AER to ignore source ID")
+5adecf817dd6 ("PCI: Wait for up to 1000ms after FLR reset")

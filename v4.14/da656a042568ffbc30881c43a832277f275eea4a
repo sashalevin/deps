@@ -1,0 +1,7 @@
+da656a042568 ("iommu/vt-d: Use pci_ats_supported()")
+d8b859105457 ("iommu/vt-d: Disable ATS support on untrusted devices")
+61363c1474b1 ("iommu/vt-d: Enable ATS only if the device uses page aligned address.")
+fb58fdcd295b ("iommu/vt-d: Do not enable ATS for untrusted devices")
+cef74409ea79 ("PCI: Add "pci=noats" boot parameter")
+fd2fa6c18b72 ("x86/PCI: Remove unused HyperTransport interrupt support")
+670310dfbae0 ("Merge branch 'irq-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

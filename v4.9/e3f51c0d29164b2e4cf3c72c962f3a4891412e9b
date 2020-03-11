@@ -1,0 +1,8 @@
+e3f51c0d2916 ("rtc: m48t86: put m48t86_nvmem_cfg on the stack")
+3c1bb61fad37 ("rtc: m48t86: call rtc_nvmem_register()")
+f8033aabb23b ("rtc: m48t86: use generic nvmem")
+5508c72528d2 ("rtc: m48t86: switch to rtc_register_device")
+3ea07127d936 ("rtc: m48t86: verify that the RTC is actually present")
+b180cf8b0bce ("rtc: m48t86: add NVRAM support")
+8057c86d43a6 ("rtc: m48t86: allow driver to manage its resources")
+68b54f477fae ("rtc: m48t86: shorten register name defines")

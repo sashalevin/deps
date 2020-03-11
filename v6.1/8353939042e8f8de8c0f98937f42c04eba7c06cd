@@ -1,0 +1,7 @@
+8353939042e8 ("drm/i915: Rename ICL_PORT_TX_DW6 bits")
+a9d32a461308 ("drm/i915: Use REG_BIT() & co. in intel_combo_phy_regs.h")
+5ba1423c70a1 ("drm/i915: Rename ICL_AUX_ANAOVRD1 to ICL_PORT_TX_DW6_AUX")
+5767dc9e2df7 ("drm/i915/gen12: Update combo PHY init sequence")
+992ed9d52560 ("drm/i915/display/power: use intel_de_rmw if possible")
+ee9125720c02 ("drm/i915: Consult the registered encoders for the ICL combo PHY w/a")
+a0c51490885f ("drm/i915/power: switch to intel_de_* register accessors in display code")

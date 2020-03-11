@@ -1,0 +1,8 @@
+a71792dee2a3 ("iommu/arm-smmu-v3: Prevent any devices access to memory without registration")
+6948d4a7e11b ("iommu/arm-smmu: Remove ACPICA workarounds")
+99caf177f6fd ("iommu/arm-smmu-v3: Enable ACPI based HiSilicon CMD_PREFETCH quirk(erratum 161010701)")
+e5b829de053d ("iommu/arm-smmu-v3: Add workaround for Cavium ThunderX2 erratum #74")
+12275bf0a4de ("iommu/arm-smmu-v3, acpi: Add temporary Cavium SMMU-V3 IORT model number definitions")
+6e01398fe450 ("arm64: arch_timer: document Hisilicon erratum 161010101")
+d9ff80f83ecb ("arm64: Work around Falkor erratum 1009")
+a9a16a6d1365 ("Merge tag 'iommu-updates-v4.10' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

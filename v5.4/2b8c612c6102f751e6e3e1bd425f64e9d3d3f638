@@ -1,0 +1,5 @@
+2b8c612c6102 ("kernel/reboot: Fix powering off using a non-syscall code paths")
+587b9bfe0668 ("kernel/reboot: Use static handler for register_platform_power_off()")
+0e2110d2e910 ("kernel/reboot: Add kernel_can_power_off()")
+2b6aa7332f80 ("kernel/reboot: Add do_kernel_power_off()")
+232edc2f72f5 ("kernel/reboot: Introduce sys-off handler API")

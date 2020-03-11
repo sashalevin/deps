@@ -1,0 +1,6 @@
+d1f7e8f85b51 ("s390: squash facilities_src.h into gen_facilities.c")
+72cc9918ef67 ("s390: delete unneeded #include <linux/kconfig.h> from facilities_src.h")
+f6c1d359be6b ("KVM: s390: generate facility mask from readable list")
+60a37709ce60 ("KVM: s390: Populate mask of non-hypervisor managed facility bits")
+ed8dda0bf74b ("KVM: s390: Enable all facility bits that are known good for passthrough")
+cbd88cd4c07f ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

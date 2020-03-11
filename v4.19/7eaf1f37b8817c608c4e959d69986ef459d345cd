@@ -1,0 +1,6 @@
+7eaf1f37b881 ("net/mlx5e: kTLS, Use CHECKSUM_UNNECESSARY for device-offloaded packets")
+5d0bb3bac4b9 ("net/mlx5e: XDP, Avoid checksum complete when XDP prog is loaded")
+92b32772940b ("net/mlx5e: Fix wrong private flag usage causing checksum disable")
+b856df28f923 ("net/mlx5e: Allow reporting of checksum unnecessary")
+f007c13d4ad6 ("net/mlx5e: Set ECN for received packets using CQE indication")
+d24082050f2f ("net/mlx5e: Move mlx5e_priv_flags into en_ethtool.c")

@@ -1,0 +1,8 @@
+a5eacd2e3790 ("i2c: mux: pca954x: Convert to i2c's .probe_new()")
+f2e0821377a3 ("i2c: mux: pca954x: simplify code to reach the adapter")
+148baf1ddfb6 ("i2c: mux: pca954x: call request irq after adding mux segments")
+0756ac323573 ("i2c: mux: pca954x: stop double error reporting")
+743cc3756118 ("i2c: mux: pca954x: make use of raw_spinlock variants")
+f2114795f721 ("i2c: mux: pca954x: Add interrupt controller support")
+f8251f1dfda9 ("i2c: mux: pca954x: Add missing pca9542 definition to chip_desc")
+bbf9d262a147 ("i2c: mux: pca954x: Add ACPI support for pca954x")

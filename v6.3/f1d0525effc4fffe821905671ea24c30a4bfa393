@@ -1,0 +1,6 @@
+f1d0525effc4 ("cxl/regs: Remove early capability checks in Component Register setup")
+d076bb8c4cee ("cxl/pci: Refactor component register discovery for reuse")
+573408049b75 ("cxl/core/regs: Add @dev to cxl_register_map")
+0619337856c9 ("cxl/rch: Prepare for caching the MMIO mapped PCIe AER capability")
+eb4663b07e13 ("cxl/acpi: Probe RCRB later during RCH downstream port creation")
+af0a6c3587dc ("cxl/pci: Use CDAT DOE mailbox created by PCI core")

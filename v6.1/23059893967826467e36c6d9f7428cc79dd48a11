@@ -1,0 +1,6 @@
+230598939678 ("RISC-V: Provide a more helpful error message on invalid ISA strings")
+069b0d517077 ("RISC-V: validate riscv,isa at boot, not during ISA string parsing")
+fed14be476f0 ("RISC-V: simplify register width check in ISA string parsing")
+255b34d799dd ("riscv: allow case-insensitive ISA string parsing")
+fb0ff0a95d61 ("RISC-V: Introduce riscv_isa_extension_check")
+726855549cf8 ("RISC-V: Improve use of isa2hwcap[]")

@@ -1,0 +1,6 @@
+a07e9345615f ("KVM: arm64: Constraint PAuth support to consistent implementations")
+baa28a53ddbe ("KVM: arm64: Hoist PAuth checks into KVM_ARM_VCPU_INIT ioctl")
+be9c0c018389 ("KVM: arm64: Hoist SVE check into KVM_ARM_VCPU_INIT ioctl handler")
+9116db11feb5 ("KVM: arm64: Hoist PMUv3 check into KVM_ARM_VCPU_INIT ioctl handler")
+ef150908b6bd ("KVM: arm64: Add generic check for system-supported vCPU features")
+ea55d5a2cf7c ("KVM: arm64: Delete pointless switch statement in kvm_reset_vcpu()")

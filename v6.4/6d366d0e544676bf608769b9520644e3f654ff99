@@ -1,0 +1,6 @@
+6d366d0e5446 ("OPP: Use _set_opp_level() for single genpd case")
+48b5aaec596d ("OPP: Remove genpd_virt_dev_lock")
+c2bebf98045f ("OPP: Reorder code in _opp_set_required_opps_genpd()")
+96104046d135 ("OPP: Add _link_required_opps() to avoid code duplication")
+cca14de56986 ("OPP: Remove doc style comments for internal routines")
+b2a2ab039bd5 ("opp: Fix use-after-free in lazy_opp_tables after probe deferral")

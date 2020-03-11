@@ -1,0 +1,4 @@
+c10bc62ae4d2 ("arm64: Add level-hinted TLB invalidation helper")
+3403e56b41c1 ("arm64: mm: Don't wait for completion of TLB invalidation when page aging")
+7f08872774eb ("arm64: tlb: Rewrite stale comment in asm/tlbflush.h")
+9b0de864b5bc ("arm64: mm: Invalidate both kernel and user ASIDs when performing TLBI")

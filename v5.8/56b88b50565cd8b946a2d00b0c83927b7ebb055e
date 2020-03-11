@@ -1,0 +1,3 @@
+56b88b50565c ("ALSA: pcm: Move rwsem lock inside snd_ctl_elem_read to prevent UAF")
+73063cd3236e ("ALSA: control: Drop superfluous snd_power_wait() calls")
+1fa4445f9adf ("ALSA: control - introduce snd_ctl_notify_one() helper")

@@ -1,0 +1,4 @@
+d82f37ab5e24 ("crypto: arm64/sha2-ce - yield NEON after every block of input")
+17a0607019d5 ("crypto: arm64/sha2-ce - move the round constant table to .rodata section")
+f4857f4c2ee9 ("crypto: arm64/sha - avoid non-standard inline asm tricks")
+174122c39c36 ("crypto: arm64/sha2-ce - fix for big endian")

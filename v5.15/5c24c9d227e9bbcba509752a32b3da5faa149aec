@@ -1,0 +1,7 @@
+5c24c9d227e9 ("drm/i915/gem: Use to_gt() helper for GGTT accesses")
+1a839e016e49 ("drm/i915: remove IS_ACTIVE")
+9ec8795e7d91 ("drm/i915: Drop __rcu from gem_context->vm")
+a82a9979de22 ("drm/i915: Add i915_gem_context_is_full_ppgtt")
+8cf97637ff88 ("drm/i915: Keep gem ctx->vm alive until the final put")
+c238980efd3b ("drm/i915: Release ctx->syncobj on final put, not on ctx close")
+75eefd82581f ("drm/i915: Release i915_gem_context from a worker")

@@ -1,0 +1,8 @@
+83896b0bd822 ("net: Fix broken NETIF_F_CSUM_MASK spell in netdev_features.h")
+b1c20f0b97b4 ("netdev_features: Fold NETIF_F_ALL_TSO into NETIF_F_GSO_SOFTWARE")
+cbc53e08a793 ("GSO: Add GSO type for fixed IPv4 ID")
+743b03a83297 ("net: remove netdevice gso_min_segs")
+c8cd0989bd15 ("net: Eliminate NETIF_F_GEN_CSUM and NETIF_F_V[46]_CSUM")
+a188222b6ed2 ("net: Rename NETIF_F_ALL_CSUM to NETIF_F_CSUM_MASK")
+53692b1de419 ("sctp: Rename NETIF_F_SCTP_CSUM to NETIF_F_SCTP_CRC")
+4c3523623dc0 ("net: add driver for Netronome NFP4000/NFP6000 NIC VFs")

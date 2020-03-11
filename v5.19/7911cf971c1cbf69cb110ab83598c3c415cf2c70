@@ -1,0 +1,4 @@
+7911cf971c1c ("power: supply: bq27xxx: Use devm_power_supply_register() helper")
+f2d506d9fe10 ("power: supply: bq27xxx: Use devm to free device mutex")
+c00bc80462af ("power: supply: bq27xxx: Fix poll_interval handling and races on remove")
+5c34c0aef185 ("power: supply: bq27xxx: Fix bq27xxx_battery_update() race condition")

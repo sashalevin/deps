@@ -1,0 +1,8 @@
+e292e6d644ce ("filemap: Convert filemap_fault to folio")
+79598cedad85 ("filemap: Convert do_async_mmap_readahead to take a folio")
+9d427b4eb456 ("filemap: Convert filemap_read_page to take a folio")
+ffdc8dabf20b ("mm/filemap: Add __folio_lock_async()")
+af7f29d9e1a7 ("mm/filemap: Add folio_lock_killable()")
+7c23c782d5d5 ("mm/filemap: Add folio_lock()")
+730633f0b7f9 ("mm: Protect operations adding pages to page cache with invalidate_lock")
+9608703e488c ("mm: Fix comments mentioning i_mutex")

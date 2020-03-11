@@ -1,0 +1,6 @@
+18ad72f5b718 ("swap: avoid a redundant pte map if ra window is 1")
+5c046235a826 ("mm/swap: remove confusing checking for non_swap_entry() in swap_ra_info()")
+eaf649ebc3ac ("mm: swap: clean up swap readahead")
+f80207727aac ("mm/memory.c: release locked page in do_swap_page()")
+aa8d22a11da9 ("mm: swap: SWP_SYNCHRONOUS_IO: skip swapcache only if swapped page has no other reference")
+0bcac06f27d7 ("mm, swap: skip swapcache for swapin of synchronous device")

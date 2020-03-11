@@ -1,0 +1,8 @@
+58f5ee5fedd9 ("KVM: Drop @gpa from exported gfn=>pfn cache check() and refresh() helpers")
+0318f207d1c2 ("KVM: Use gfn_to_pfn_cache's immutable "kvm" in kvm_gpc_refresh()")
+e308c24a358d ("KVM: Use gfn_to_pfn_cache's immutable "kvm" in kvm_gpc_check()")
+aba3caef5862 ("KVM: Shorten gfn_to_pfn_cache function names")
+5ec3289b31ab ("KVM: x86/xen: Compatibility fixes for shared runstate area")
+ecbcf030b456 ("KVM: Reject attempts to consume or refresh inactive gfn_to_pfn_cache")
+52491a38b2c2 ("KVM: Initialize gfn_to_pfn_cache locks in dedicated helper")
+e15f5e6fa6ca ("Merge branch 'kvm-5.20-early'")

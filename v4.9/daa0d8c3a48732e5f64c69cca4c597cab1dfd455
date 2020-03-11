@@ -1,0 +1,8 @@
+daa0d8c3a487 ("KVM: x86: Add CPUID_7_1_EAX to the reverse CPUID table")
+b7b27aa011a1 ("KVM/x86: Update the reverse_cpuid list to include CPUID_7_EDX")
+d6321d493319 ("KVM: x86: generalize guest_cpuid_has_ helpers")
+c6bd18011ff8 ("KVM: x86: X86_FEATURE_NRIPS is not scattered anymore")
+90a2db6d8687 ("KVM: nVMX: INVPCID support")
+691bd4340bef ("kvm: vmx: allow host to access guest MSR_IA32_BNDCFGS")
+4439af9f911a ("kvm: x86: Guest BNDCFGS requires guest MPX support")
+4504b5c9414c ("kvm: x86: Add AVX512_4VNNIW and AVX512_4FMAPS support")

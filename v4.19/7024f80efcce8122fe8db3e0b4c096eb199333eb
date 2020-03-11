@@ -1,0 +1,4 @@
+7024f80efcce ("drm/i915: check memory is mappable in read_from_page")
+5fbc2c2bfa5c ("drm/i915/gem: Add a helper to read data from a GEM object page")
+da42104f589d ("drm/i915: Hold reference to intel_frontbuffer as we track activity")
+1a74934b0eff ("drm/i915/gem: Flush the pwrite through the chipset before signaling")

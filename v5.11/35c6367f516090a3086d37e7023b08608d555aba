@@ -1,0 +1,8 @@
+35c6367f5160 ("drm/i915/selftests: Reorder tasklet_disable vs local_bh_disable")
+16f2941ad307 ("drm/i915/gt: Replace direct submit with direct call to tasklet")
+a0d3fdb628b8 ("drm/i915/gt: Split logical ring contexts from execlist submission")
+d0d829e56674 ("drm/i915: split gen8+ flush and bb_start emission functions")
+70a2b431c364 ("drm/i915/gt: Rename lrc.c to execlists_submission.c")
+d997e240ceec ("drm/i915/gt: Cancel the preemption timeout on responding to it")
+a58559898abe ("drm/i915/gt: Check for a completed last request once")
+d33fcd798cb7 ("drm/i915/gt: Ignore dt==0 for reporting underflows")

@@ -1,0 +1,6 @@
+c8329cd55bf4 ("scsi: ata: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+2d7271501720 ("libata: have ata_scsi_rw_xlat() fail invalid passthrough requests")
+39795d6534c6 ("block: don't hold the queue_lock over blk_abort_request")
+7eb49509dd6b ("libata: Honor RQF_QUIET flag")
+436c15ab6596 ("mtip32xx: quiesce request queues to make sure no submissions are inflight")
+e69bbe75de8e ("Merge branch 'for-4.12' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/libata")

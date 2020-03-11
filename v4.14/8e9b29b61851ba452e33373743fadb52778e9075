@@ -1,0 +1,5 @@
+8e9b29b61851 ("X86/KVM: Do not allow DISABLE_EXITS_MWAIT when LAPIC ARAT is not available")
+4d5422cea3b6 ("KVM: X86: Provide a capability to disable MWAIT intercepts")
+431f5d444396 ("KVM: x86: simplify kvm_mwait_in_guest()")
+346f48fa311c ("KVM: x86: drop bogus MWAIT check")
+2a140f3b6e23 ("KVM: x86: prevent MWAIT in guest with buggy MONITOR")

@@ -1,0 +1,4 @@
+af8b824f283d ("audit: rename the queues and kauditd related functions")
+4aa83872d346 ("audit: queue netlink multicast sends just like we do for unicast sends")
+7ffb8e317bae ("audit: we don't need to __set_current_state(TASK_RUNNING)")
+1194b994bec3 ("audit: wake up threads if queue switched from limited to unlimited")

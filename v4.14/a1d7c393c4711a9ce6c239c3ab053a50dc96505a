@@ -1,0 +1,7 @@
+a1d7c393c471 ("io_uring: enable READ/WRITE to use deferred completions")
+e1e16097e265 ("io_uring: provide generic io_req_complete() helper")
+bcf5a06304d6 ("io_uring: support true async buffered reads, if file provides it")
+b63534c41e20 ("io_uring: re-issue block requests that failed because of resources")
+4503b7676a2e ("io_uring: catch -EIO from buffered issue request failure")
+9d8426a09195 ("io_uring: acquire 'mm' for task_work for SQPOLL")
+b961f8dc8976 ("Merge tag 'io_uring-5.8-2020-06-11' of git://git.kernel.dk/linux-block")

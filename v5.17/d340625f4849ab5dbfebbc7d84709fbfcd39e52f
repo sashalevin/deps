@@ -1,0 +1,6 @@
+d340625f4849 ("mm: add private field of first tail to struct page and struct folio")
+379708ffde1b ("mm: add the first tail page to struct folio")
+5232c63f46fd ("mm: Make compound_pincount always available")
+6315d8a23ce3 ("mm/gup: Remove hpage_pincount_sub()")
+78d9d6ced31a ("mm/gup: Remove hpage_pincount_add()")
+8ea2979c1444 ("mm/gup: Increment the page refcount before the pincount")

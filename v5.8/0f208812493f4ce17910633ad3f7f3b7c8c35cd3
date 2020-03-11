@@ -1,0 +1,7 @@
+0f208812493f ("btrfs: open code extent_read_full_page to its sole caller")
+fd513000eb27 ("btrfs: sink mirror_num argument in __do_readpage")
+6f15af606005 ("btrfs: sink read_flags argument into extent_read_full_page")
+003c286aef3f ("btrfs: sink mirror_num argument in extent_read_full_page")
+c1be9c1ad5cc ("btrfs: promote extent_read_full_page to btrfs_readpage")
+72cffee46340 ("btrfs: remove mirror_num argument from extent_read_full_page")
+1a5ee1e62603 ("btrfs: remove btrfs_get_extent indirection from __do_readpage")

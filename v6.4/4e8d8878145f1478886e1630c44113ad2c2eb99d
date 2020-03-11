@@ -1,0 +1,7 @@
+4e8d8878145f ("tty: core: the rest to u8")
+3a00da027946 ("tty: make tty_operations::send_xchar accept u8 char")
+d22d53ad8ae8 ("tty: remove unneeded mbz from tiocsti()")
+ebf05c7dc92c ("tty: shrink the size of struct tty_struct by 40 bytes")
+e3afc5b0d708 ("tty: switch size and count types in iterate_tty_read() to size_t")
+24b01c5d497b ("tty: use ssize_t for iterate_tty_read() returned type")
+360c11e2258c ("tty: tty_io: update timestamps on all device nodes")

@@ -1,0 +1,8 @@
+45f08f4cd667 ("KVM: check userspace_addr for all memslots")
+71a4c30bf0d3 ("KVM: Refactor error handling for setting memory region")
+bd0e96fdc5a5 ("KVM: Explicitly free allocated-but-unused dirty bitmap")
+414de7abbf80 ("KVM: Drop kvm_arch_create_memslot()")
+0dab98b7ade6 ("KVM: x86: Allocate memslot resources during prepare_memory_region()")
+82307e676f9d ("KVM: PPC: Move memslot memory allocation into prepare_memory_region()")
+13f678894bd0 ("KVM: Don't free new memslot if allocation of said memslot fails")
+edd4fa37baa6 ("KVM: x86: Allocate new rmap and large page tracking when moving memslot")

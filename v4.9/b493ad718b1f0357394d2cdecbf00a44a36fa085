@@ -1,0 +1,3 @@
+b493ad718b1f ("ceph: fix deadlock or deadcode of misusing dget()")
+ca6c8ae0f793 ("ceph: pass parent inode info to ceph_encode_dentry_release if we have it")
+adf0d68701c7 ("ceph: fix unsafe dcache access in ceph_encode_dentry_release")

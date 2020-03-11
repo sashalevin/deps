@@ -1,0 +1,4 @@
+6b0326190205 ("efi: Attempt to get the TCG2 event log in the boot stub")
+0add16c13f49 ("efi/libstub/tpm: Make function efi_retrieve_tpm2_eventlog_1_2() static")
+79832f0b5f71 ("efi/libstub/tpm: Initialize pointer variables to zero for mixed mode")
+33b6d03469b2 ("efi: call get_event_log before ExitBootServices")

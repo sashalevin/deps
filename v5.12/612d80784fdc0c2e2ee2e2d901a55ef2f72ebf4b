@@ -1,0 +1,7 @@
+612d80784fdc ("MIPS: fix duplicate definitions for exported symbols")
+fa62f39dc7e2 ("MIPS: Fix build error due to PTR used in more places")
+95bf9d646c3c ("signal/mips: Update (_save|_restore)_fp_context to fail with -EFAULT")
+04324f44cb69 ("MIPS: Remove get_fs/set_fs")
+08ee3a009f49 ("MIPS: uaccess: Added __get/__put_kernel_nofault")
+ecbba30fbf45 ("mips: syscalls: switch to generic syscalltbl.sh")
+a1515ec7204e ("MIPS: Remove KVM_GUEST support")

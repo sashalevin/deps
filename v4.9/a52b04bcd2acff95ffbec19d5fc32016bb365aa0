@@ -1,0 +1,8 @@
+a52b04bcd2ac ("virto_net: remove empty file 'virtio_net.'")
+186b3c998c50 ("virtio-net: support XDP_REDIRECT")
+312403453532 ("virtio-net: add packet len average only when needed during XDP")
+9457642a405f ("virtio-net: remove unnecessary parameter of virtnet_xdp_xmit()")
+4941d472bf95 ("virtio-net: do not reset during XDP set")
+192f68cf35f5 ("virtio-net: switch to use new ctx API for small buffer")
+2836b4f224d4 ("virtio-net: enable TSO/checksum offloads for Q-in-Q vlans")
+c44b59430393 ("Merge tag 'for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mst/vhost")

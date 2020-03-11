@@ -1,0 +1,5 @@
+9d78d6fb186b ("KVM: VMX: Move LOAD_IA32_PERF_GLOBAL_CTRL errata handling out of setup_vmcs_config()")
+aef46a6476bb ("KVM: x86: VMX: Replace some Intel model numbers with mnemonics")
+ffaaf5913f8c ("KVM: VMX: Check VM_ENTRY_IA32E_MODE in setup_vmcs_config()")
+f5a81d0eb01e ("KVM: VMX: Sanitize VM-Entry/VM-Exit control pairs at kvm_intel load time")
+2fba4fc15528 ("KVM: VMX: Hide VMCS control calculators in vmx.c")

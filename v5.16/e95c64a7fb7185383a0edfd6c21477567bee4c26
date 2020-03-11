@@ -1,0 +1,4 @@
+e95c64a7fb71 ("irqchip/gic-common: Remove sync_access callback")
+a02026bf9da1 ("irqchip/gic-v3: Enable support for SGIs to act as NMIs")
+44bd78dd2b88 ("irqchip/gic-v3: Disable pseudo NMIs on Mediatek devices w/ firmware issues")
+63f13483f068 ("irqchip/gic-v3: Relax polling of GIC{R,D}_CTLR.RWP")

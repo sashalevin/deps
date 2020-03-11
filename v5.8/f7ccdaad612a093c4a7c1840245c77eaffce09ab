@@ -1,0 +1,8 @@
+f7ccdaad612a ("clk: qcom: gdsc: Add set and get hwmode callbacks to switch GDSC mode")
+4cc47e8add63 ("clk: qcom: gdsc: Remove direct runtime PM calls")
+eab4c1ebdd65 ("clk: qcom: gdsc: add missing error handling")
+41fff779d794 ("clk: qcom: gdsc: Bump parent usage count when GDSC is found enabled")
+9711759a87a0 ("clk: qcom: gdsc: Ensure regulator init state matches GDSC state")
+785c02eb3500 ("clk: qcom: gdsc: Implement NO_RET_PERIPH flag")
+fda48bf5c86d ("clk: qcom: gdsc: Keep RETAIN_FF bit set if gdsc is already on")
+173722995cdb ("clk: qcom: gdsc: Add support to enable retention of GSDCR")

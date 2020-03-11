@@ -1,0 +1,7 @@
+68741a8adab9 ("selinux: Fix ltp test connect-syscall failure")
+d452930fd3b9 ("selinux: Add SCTP support")
+e2f586bd8317 ("selinux: check for address length in selinux_socket_bind()")
+da69a5306ab9 ("selinux: support distinctions among all network address families")
+9287aed2ad1f ("selinux: Convert isec->lock into a spinlock")
+13457d073c29 ("selinux: Clean up initialization of isec->sclass")
+db978da8fa1d ("proc: Pass file mode to proc_pid_make_inode")

@@ -1,0 +1,6 @@
+e0b8fcfa3cfa ("x86/bugs: Rename CONFIG_CPU_IBPB_ENTRY       => CONFIG_MITIGATION_IBPB_ENTRY")
+e8efc0800b8b ("x86/nospec: Refactor UNTRAIN_RET[_*]")
+34a3cae7474c ("x86/srso: Disentangle rethunk-dependent options")
+eb54be26b0d2 ("x86/srso: Unexport untraining functions")
+eeb9f34df065 ("x86/srso: Fix unret validation dependencies")
+3fc7b28e831f ("x86/srso: Print actual mitigation if requested mitigation isn't possible")

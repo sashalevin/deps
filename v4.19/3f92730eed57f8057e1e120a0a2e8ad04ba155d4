@@ -1,0 +1,5 @@
+3f92730eed57 ("serial: imx: remove a redundant check")
+496a4471b7c3 ("serial: imx: work-around for hardware RX flood")
+d45fb2e430e5 ("serial: imx: factor-out common code to imx_uart_soft_reset()")
+101aa46bd221 ("serial: imx: fix a race condition in receive path")
+c974991d2620 ("tty:serial:imx: use spin_lock instead of spin_lock_irqsave in isr")

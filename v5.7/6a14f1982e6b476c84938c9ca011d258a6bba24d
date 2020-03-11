@@ -1,0 +1,5 @@
+6a14f1982e6b ("pstore: Inform unregistered backend names as well")
+6248a0666c8a ("pstore: Add proper unregister lock checking")
+cab12fd04938 ("pstore: Convert "psinfo" locking to mutex")
+c30b20cd96a7 ("pstore: Rename "pstore_lock" to "psinfo_lock"")
+e7c1c00cf3fa ("pstore: Drop useless try_module_get() for backend")

@@ -1,0 +1,7 @@
+9263ac97af46 ("sctp: pass a kernel pointer to sctp_setsockopt_event")
+df2c71ffdfae ("sctp: add SCTP_ASCONF_SUPPORTED sockopt")
+9b6c08878e23 ("sctp: not bind the socket in sctp_connect")
+175f7c1f01d3 ("sctp: Check address length before reading address family")
+89664c623617 ("sctp: sctp_sock_migrate() returns error if sctp_bind_addr_dup() fails")
+d251f05e3ba2 ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_EVENT sockopt")
+480ba9c18a27 ("sctp: add sockopt SCTP_EVENT")

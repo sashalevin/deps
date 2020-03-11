@@ -1,0 +1,4 @@
+f5223a332f36 ("KVM: x86: Use explicit case-statements for MCx banks in {g,s}et_msr_mce()")
+2368048bf5c2 ("KVM: x86: Signal #GP, not -EPERM, on bad WRMSR(MCi_CTL/STATUS)")
+0471a7bd1bca ("KVM: set_msr_mce: Permit guests to ignore single-bit ECC errors")
+6ec4c5eee175 ("KVM: x86: Protect MSR-based index computations from Spectre-v1/L1TF attacks in x86.c")

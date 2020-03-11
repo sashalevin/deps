@@ -1,0 +1,7 @@
+2953b30b1d9f ("nvmet: register discovery subsystem as 'current'")
+1179d337be70 ("nvmet: Use PTR_ERR_OR_ZERO() in nvmet_init_discovery()")
+6b7e631b927c ("nvmet: return a specified error it subsys_alloc fails")
+d808b7f759b5 ("nvmet: fix discover log page when offsets are used")
+253928eec61a ("nvmet: allow host connect even if no allowed subsystems are exported")
+c6925093d0b2 ("nvmet: Optionally use PCI P2P memory")
+5b2322e48c97 ("nvmet: Introduce helper functions to allocate and free request SGLs")

@@ -1,0 +1,5 @@
+f07df98063ff ("drm/rcar-du: Remove redundant calls to drm_connector_register_all()")
+d63c25e4245a ("drm: rcar-du: Use generic drm_connector_register_all() helper")
+6c87e5c3ec6d ("drm: Rename drm_connector_unplug_all() to drm_connector_unregister_all()")
+c1d4b38c9306 ("drm: rcar-du: Perform initialization/cleanup at probe/remove time")
+0a346629f530 ("drm/rcar: Nuke preclose hook")

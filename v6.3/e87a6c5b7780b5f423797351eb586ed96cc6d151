@@ -1,0 +1,8 @@
+e87a6c5b7780 ("drm/amd/display: Blank phantom OTG before enabling")
+d205a800a66e ("drm/amd/display: Add visual confirm color support for MCLK switch")
+ac18b610fd95 ("drm/amd/display: Enable FPO for configs that could reduce vlevel")
+7da2bcda5899 ("drm/amd/display: Pass tg and hubp inst instead of pipe index for SubVP")
+67d198da2fd4 ("drm/amd/display: When blanking during init loop to find OPP index")
+82a10aff9428 ("drm/amd/display: Only wait for blank completion if OTG active")
+f3f8f16b10f8 ("drm/amd/display: enable DPG when disabling plane for phantom pipe")
+7bd571b274fd ("drm/amd/display: DAL to program DISPCLK WDIVIDER if PMFW doesn't")

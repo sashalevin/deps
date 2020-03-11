@@ -1,0 +1,5 @@
+f786b7520982 ("tpm_crb: fix address space of the return pointer in crb_map_res()")
+1bd047be37d9 ("tpm_crb: Use devm_ioremap_resource")
+1e3ed59d6200 ("tpm_crb: Drop le32_to_cpu(ioread32(..))")
+55a889c2cb13 ("tpm_crb: Use the common ACPI definition of struct acpi_tpm2")
+25112048cd59 ("tpm: rework tpm_get_timeouts()")

@@ -1,0 +1,5 @@
+2b81a5f01519 ("nvme: drop scan_lock and always kick requeue list when removing namespaces")
+763303a83a09 ("nvme-multipath: fix crash in nvme_mpath_clear_ctrl_paths")
+0157ec8dad3c ("nvme: fix controller removal race with scan work")
+f6c8e432cb04 ("nvme: flush namespace scanning work just before removing namespaces")
+f333444708f8 ("nvme: take node locality into account when selecting a path")

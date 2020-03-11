@@ -1,0 +1,7 @@
+f26f1db5d2be ("drm/i915: do AUD_FREQ_CNTRL state save on all gen9+ platforms")
+49e659bcae79 ("drm/i915/audio: use intel_de_*() functions for register access")
+6385514932d5 ("drm/i915/audio: convert to struct drm_device logging macros.")
+79003e61b1fb ("drm/i915: Use the passed in encoder")
+1580d3cdddbb ("drm/i915: Fix audio power up sequence for gen10+ display")
+87c1694533c9 ("drm/i915: save AUD_FREQ_CNTRL state at audio domain suspend")
+66a990dd0c49 ("drm/i915: Prefer encoder->name over port_name()")

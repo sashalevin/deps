@@ -1,0 +1,7 @@
+a93e01682e28 ("btrfs: remove no longer needed use of log_writers for the log root tree")
+28a9579561bc ("btrfs: stop incremening log_batch for the log root tree when syncing log")
+4203e9689470 ("btrfs: fix incorrect updating of log root tree")
+06989c799f04 ("Btrfs: fix race updating log root item during fsync")
+093258e6ebaf ("btrfs: replace waitqueue_actvie with cond_wake_up")
+3d3a2e610ea5 ("btrfs: add barriers to btrfs_sync_log before log_commit_wait wakeups")
+2e32ef87b074 ("btrfs: Relax memory barrier in btrfs_tree_unlock")

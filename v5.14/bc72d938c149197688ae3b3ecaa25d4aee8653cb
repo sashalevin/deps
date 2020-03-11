@@ -1,0 +1,5 @@
+bc72d938c149 ("iio: trigger: move trig->owner init to trigger allocate() stage")
+4a08069461ac ("iio: trigger: warn about non-registered iio trigger getting attempt")
+319dbcd84fd2 ("iio: Directly use ida_alloc()/free()")
+2f53b4adfede ("iio: Un-inline iio_buffer_enabled()")
+fe6f45f6ba22 ("iio: core: check return value when calling dev_set_name()")

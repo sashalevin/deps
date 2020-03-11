@@ -1,0 +1,3 @@
+eb8c507296f6 ("jump_label: Prevent key->enabled int overflow")
+d0c006402e79 ("jump_label: Use atomic_try_cmpxchg() in static_key_slow_inc_cpuslocked()")
+cb538267ea1e ("jump_label/lockdep: Assert we hold the hotplug lock for _cpuslocked() operations")

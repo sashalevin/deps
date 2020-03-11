@@ -1,0 +1,3 @@
+0be160cf86f9 ("serial: 8250_dw: Pass the same rate to the clk round and set rate methods")
+442fdef1b931 ("serial: 8250_dw: Simplify the ref clock rate setting procedure")
+a8afc193558a ("serial: 8250_dw: Use devm_clk_get_optional() to get the input clock")

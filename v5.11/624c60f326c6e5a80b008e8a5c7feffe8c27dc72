@@ -1,0 +1,8 @@
+624c60f326c6 ("selftests: fix LLVM build for i386 and x86_64")
+795285ef2425 ("selftests: Fix clang cross compilation")
+e9c281928c24 ("kbuild: Make $(LLVM) more flexible")
+f12b034afeb3 ("scripts/Makefile.clang: default to LLVM_IAS=1")
+e08831baa032 ("Documentation/llvm: update CROSS_COMPILE inferencing")
+231ad7f409f1 ("Makefile: infer --target from ARCH for CC=clang")
+6f5b41a2f5a6 ("Makefile: move initial clang flag handling into scripts/Makefile.clang")
+b0030af53a74 ("Merge tag 'kbuild-v5.13' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

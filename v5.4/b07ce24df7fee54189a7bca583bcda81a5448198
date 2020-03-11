@@ -1,0 +1,7 @@
+b07ce24df7fe ("alpha: fix ioread64be()/iowrite64be() helpers")
+7e772dad9913 ("alpha: Use generic <asm-generic/io.h>")
+f2e762bab9f5 ("mm: remove xlate_dev_kmem_ptr()")
+61c439439ccc ("parisc: Use the generic devmem_is_allowed()")
+f5810e5c3292 ("asm-generic/io.h: Fix !CONFIG_GENERIC_IOMAP pci_iounmap() implementation")
+bd72866b8da4 ("alpha: fix annotation of io{read,write}{16,32}be()")
+54505a1e2083 ("alpha: fix memory barriers so that they conform to the specification")

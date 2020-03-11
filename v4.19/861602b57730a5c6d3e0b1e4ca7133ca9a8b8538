@@ -1,0 +1,4 @@
+861602b57730 ("tcp: Allow full IP tos/IPv6 tclass to be reflected in L3 header")
+ac8f1710c12b ("tcp: reflect tos value received in SYN to the socket")
+de033b7d1568 ("ip: pass tos into ip_build_and_send_pkt()")
+4f6570d7206b ("ipv6: add priority parameter to ip6_xmit()")

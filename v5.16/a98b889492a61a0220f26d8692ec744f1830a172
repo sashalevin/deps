@@ -1,0 +1,5 @@
+a98b889492a6 ("KVM: x86/mmu: Delete pgprintk() and all its usage")
+024c3c3304ca ("KVM: X86/MMU: Remove useless mmu_topup_memory_caches() in kvm_mmu_pte_write()")
+767d8d8d503f ("KVM: X86/MMU: Add sp_has_gptes()")
+4d78d0b39ad0 ("KVM: x86/mmu: Remove need for a vcpu from mmu_try_to_unsync_pages")
+9d395a0a7aca ("KVM: x86/mmu: Remove need for a vcpu from kvm_slot_page_track_is_active")

@@ -1,0 +1,5 @@
+707f816f2559 ("tty: serial: fsl_lpuart: correct the count of break characters")
+5541a9bacfe5 ("serial: fsl_lpuart: handle break and make sysrq work")
+5697df7322fe ("serial: fsl_lpuart: split sysrq handling")
+0d84f62220ed ("serial: fsl_lpuart: don't restore interrupt state in ISR")
+ec22c3eec543 ("serial: fsl_lpuart: use UARTDATA_MASK macro")

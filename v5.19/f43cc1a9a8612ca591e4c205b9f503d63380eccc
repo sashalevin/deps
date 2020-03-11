@@ -1,0 +1,5 @@
+f43cc1a9a861 ("perf event: Add 'simd_flags' field to 'struct perf_sample'")
+9823147da6c8 ("perf tools: Move 'struct perf_sample' to a separate header file to disentangle headers")
+08043330167f ("perf branch: Remove some needless headers, add a needed one")
+f52679b78877 ("perf tools: Support reading PERF_FORMAT_LOST")
+3461b65da7d4 ("perf tools: Add machine_pid and vcpu to perf_sample")

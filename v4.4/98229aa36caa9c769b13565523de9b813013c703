@@ -1,0 +1,4 @@
+98229aa36caa ("x86/irq: Plug vector cleanup race")
+90a2282e23f0 ("x86/irq: Call irq_force_move_complete with irq descriptor")
+56d7d2f4bbd0 ("x86/irq: Remove outgoing CPU from vector cleanup mask")
+111abeba67e0 ("x86/irq: Fix a race in x86_vector_free_irqs()")

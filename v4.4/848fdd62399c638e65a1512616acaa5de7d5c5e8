@@ -1,0 +1,6 @@
+848fdd62399c ("NFS: Don't set NFS_INO_INVALID_XATTR if there is no xattr cache")
+3f0b3cf46e05 ("NFS: Filter cache invalidation when holding a delegation")
+d943f2dd8dba ("NFSv4: Ignore change attribute invalidations if we hold a delegation")
+61540bf6bb40 ("NFS: Clean up cache validity checking")
+9310b224f2ec ("NFS: Fix incorrect size revalidation when holding a delegation")
+10727772b93c ("NFS: Fix incorrect mapping revalidation when holding a delegation")

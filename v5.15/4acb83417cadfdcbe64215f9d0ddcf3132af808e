@@ -1,0 +1,4 @@
+4acb83417cad ("sbitmap: fix batched wait_cnt accounting")
+48c033314f37 ("sbitmap: Avoid leaving waitqueue in invalid state in __sbq_wake_up()")
+040b83fcecfb ("sbitmap: fix possible io hung due to lost wakeup")
+1aec5e4a2962 ("sbitmap: add helper to clear a batch of tags")

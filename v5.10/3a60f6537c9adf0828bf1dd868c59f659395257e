@@ -1,0 +1,8 @@
+3a60f6537c9a ("Revert "btrfs: compression: drop kmap/kunmap from generic helpers"")
+4c2bf276b56d ("btrfs: compression: drop kmap/kunmap from generic helpers")
+04d4ba4c9075 ("btrfs: make check_compressed_csum() to be subpage compatible")
+223486c27b36 ("btrfs: switch cached fs_info::csum_size from u16 to u32")
+55fc29bed8dd ("btrfs: use cached value of fs_info::csum_size everywhere")
+265fdfa6ce0a ("btrfs: replace s_blocksize_bits with fs_info::sectorsize_bits")
+ab108d992b12 ("btrfs: use precalculated sectorsize_bits from fs_info")
+265d4ac03fdf ("btrfs: sink parameter start and len to check_data_csum")

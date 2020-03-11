@@ -1,0 +1,8 @@
+8420f71943ae ("signal: Correct the offset of si_pkey and si_lower in struct siginfo on m68k")
+859d880cf544 ("signal: Correct the offset of si_pkey in struct siginfo")
+b68a68d3dcc1 ("signal: Move addr_lsb into the _sigfault union for clarity")
+b713da69e4c9 ("signal: unify compat_siginfo_t")
+2eb50e2e9f62 ("ia64/signal: switch to generic struct siginfo")
+2f82a46f66c8 ("signal: Remove _sys_private and _overrun_incr from struct compat_siginfo")
+7994200ce69a ("ia64: Remove HAVE_ARCH_COPY_SIGINFO")
+e6d930b4e011 ("signals: Prepare to split out <linux/signal_types.h> from <linux/signal.h>")

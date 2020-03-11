@@ -1,0 +1,7 @@
+04662bac0067 ("ACPI: require CRC32 to build")
+2e61069b056f ("ACPI: Fix build failure when CONFIG_NLS is set to 'n'")
+2c870e61132c ("arm64: fix ACPI dependencies")
+5bcd44083a08 ("drivers: acpi: add dependency of EFI for arm64")
+b472db6cf8c6 ("arm64: efi: Add missing Kconfig dependency on KERNEL_MODE_NEON")
+46bcc6b1f3f7 ("ACPI / ARM64: Remove EXPERT dependency for ACPI on ARM64")
+6df795ff139a ("ACPI / ARM64: Don't enable ACPI by default on ARM64")

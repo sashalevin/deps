@@ -1,0 +1,3 @@
+ca0168e8a77c ("alloc_super(): do ->s_umount initialization earlier")
+6e4eab577a0c ("fs: Add user namespace member to struct super_block")
+d91ee87d8d85 ("vfs: Pass data, ns, and ns->userns to mount_ns")

@@ -1,0 +1,6 @@
+1a55fc4012d9 ("gpiolib: Unify allocation and initialization of GPIO valid mask")
+27043a7d500c ("gpiolib: of: Integrate of_gpiochip_init_valid_mask() into gpiochip_init_valid_mask()")
+e3186e36925f ("gpiolib: of: factor out code overriding gpio line polarity")
+e75f88efac05 ("gpiolib: of: fix bounds check for 'gpio-reserved-ranges'")
+8990899d84d7 ("gpiolib: of: constify few local device_node variables")
+e6ae9a833ef4 ("gpiolib: constify passed device_node pointer")

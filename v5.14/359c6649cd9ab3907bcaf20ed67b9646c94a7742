@@ -1,0 +1,8 @@
+359c6649cd9a ("drm/gem: Implement shadow-plane {begin, end}_fb_access with vmap")
+43b36232ded2 ("drm/gem: Provide offset-adjusted framebuffer BO mappings")
+50fff206c5e3 ("drm/vkms: Map output framebuffer BOs with drm_gem_fb_vmap()")
+0029d3182969 ("drm/gud: Map framebuffer BOs with drm_gem_fb_vmap()")
+f6424ecdb3c8 ("drm/gem: Provide drm_gem_fb_{vmap,vunmap}()")
+279cc2e9543e ("drm: Define DRM_FORMAT_MAX_PLANES")
+0ae865ef92f1 ("drm: Fix typo in comments")
+08b7ef0524f5 ("drm/gud: Use framebuffer dma-buf helpers")

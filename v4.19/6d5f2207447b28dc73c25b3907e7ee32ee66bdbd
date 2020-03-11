@@ -1,0 +1,5 @@
+6d5f2207447b ("gpio: max732x: Drop unused support for irq and setup code via platform data")
+bb58a47a120b ("gpio: max732x: Use irqchip template")
+1f6bd574e9d5 ("gpio: max732x: remove redundant check")
+2674700c4c0e ("gpio: max732x: use devm_gpiochip_add_data()")
+375b94246761 ("gpio: max732x: use i2c_new_dummy_device()")

@@ -1,0 +1,4 @@
+299c517adb90 ("mm, oom: header nodemask is NULL when cpusets are disabled")
+9af744d74317 ("lib/show_mem.c: teach show_mem to work with the given nodemask")
+c02e50bb8a55 ("mm, page_alloc: do not report all nodes in show_mem")
+aa187507ef8b ("mm: throttle show_mem() from warn_alloc()")

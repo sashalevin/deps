@@ -1,0 +1,7 @@
+da21fde0fdb3 ("spi: Make several public functions private to spi.c")
+fb51601bdf3a ("spi: Reorder functions to simplify the next commit")
+d347b4aaa1a0 ("spi: sync up initial chipselect state")
+ddf75be47ca7 ("spi: Prevent adding devices below an unregistering controller")
+d40f0b6f2e21 ("spi: Avoid setting the chip select if we don't need to")
+809b1b04df89 ("spi: introduce fallback to pio")
+84855678add8 ("spi: Fix controller unregister order")

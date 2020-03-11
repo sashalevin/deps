@@ -1,0 +1,3 @@
+89c7c4022dfc ("mm: don't track number of pages during deferred initialization")
+da97f2d56bbd ("mm: call cond_resched() from deferred_init_memmap()")
+117003c32771 ("mm/pagealloc.c: call touch_nmi_watchdog() on max order boundaries in deferred init")

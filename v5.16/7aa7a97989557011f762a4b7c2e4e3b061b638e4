@@ -1,0 +1,6 @@
+7aa7a9798955 ("firmware: arm_ffa: Rename ffa_dev_ops as ffa_ops")
+320c3fa38c51 ("tee: optee: Drop ffa_ops in optee_ffa structure using ffa_dev->ops directly")
+d01387fc1642 ("firmware: arm_ffa: Add pointer to the ffa_dev_ops in struct ffa_dev")
+a639b2b18a24 ("optee: add FF-A capability OPTEE_FFA_SEC_CAP_ARG_OFFSET")
+30c375a7f6bd ("optee: rename rpc_arg_count to rpc_param_count")
+cc0def5b4ed6 ("Merge tag 'optee-fixes-for-v5.17' of git://git.linaro.org/people/jens.wiklander/linux-tee into arm/fixes")

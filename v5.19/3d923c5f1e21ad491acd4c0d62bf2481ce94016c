@@ -1,0 +1,5 @@
+3d923c5f1e21 ("mm/mmap: drop ARCH_HAS_VM_GET_PAGE_PROT")
+09095f74130d ("mm/mmap: build protect protection_map[] with ARCH_HAS_VM_GET_PAGE_PROT")
+6eac1eaf2105 ("powerpc/mm: move protection_map[] inside the platform")
+43957b5d1103 ("mm/mmap: define DECLARE_VM_GET_PAGE_PROT")
+840532711d72 ("mm/mmap: build protect protection_map[] with __P000")

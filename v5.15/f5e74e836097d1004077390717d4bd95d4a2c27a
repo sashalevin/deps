@@ -1,0 +1,4 @@
+f5e74e836097 ("powerpc/watchdog: introduce a NMI watchdog's factor")
+76521c4b0291 ("powerpc/watchdog: Avoid holding wd_smp_lock over printk and smp_send_nmi_ipi")
+858c93c31504 ("powerpc/watchdog: tighten non-atomic read-modify-write access")
+5dad4ba68a24 ("powerpc/watchdog: Fix missed watchdog reset due to memory ordering race")

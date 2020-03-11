@@ -1,0 +1,6 @@
+de40bb8abb76 ("KVM: arm64: Add a helper to check if a VM has ran once")
+f3c6efc72f3b ("KVM: arm64: Treat PMCR_EL1.LC as RES1 on asymmetric systems")
+528ada2811ba ("KVM: arm64: Fix hypercall bitmap writeback when vcpus have already run")
+05714cab7d63 ("KVM: arm64: Setup a framework for hypercall bitmap firmware registers")
+85fbe08e4da8 ("KVM: arm64: Factor out firmware register handling from psci.c")
+1ebdbeb03efe ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

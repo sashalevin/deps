@@ -1,0 +1,8 @@
+3859af9eba95 ("ceph: pass the request to parse_reply_info_readdir()")
+bca9fc14c70f ("ceph: when filling trace, call ceph_get_inode outside of mutexes")
+d48464878708 ("ceph: decode interval_sets for delegated inos")
+966c716018de ("ceph: make ceph_fill_inode non-static")
+891f3f5a6a06 ("ceph: add infrastructure for waiting for async create to complete")
+9ba1e224538a ("ceph: allocate the correct amount of extra bytes for the session features")
+893e456b2c0b ("ceph: don't clear I_NEW until inode metadata is fully populated")
+57c219948245 ("ceph: drop unused ttl_from parameter from fill_inode")

@@ -1,0 +1,3 @@
+e22abe180cd8 ("rcu: Fix set/clear TICK_DEP_BIT_RCU_EXP bitmask race")
+63c564da11cb ("rcu: Mark ->expmask access in synchronize_rcu_expedited_wait()")
+147f04b14add ("rcu: Prevent expedited GP from enabling tick on offline CPU")

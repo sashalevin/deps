@@ -1,0 +1,7 @@
+58793f263abc ("backlight: pwm_bl: Use dev_err_probe")
+deaeeda2051f ("backlight: pwm_bl: Don't rely on a disabled PWM emiting inactive state")
+00e7e698bff1 ("backlight: pwm_bl: Configure pwm only once per backlight toggle")
+5a7fbe452ad9 ("backlight: pwm_bl: Drop support for legacy PWM probing")
+79fad92f2e59 ("backlight: pwm_bl: Improve bootloader/kernel device handover")
+2644f912b410 ("backlight: pwm_bl: Switch to full GPIO descriptor")
+349ee1228729 ("backlight: pwm_bl: Add missing curly branches in else branch")

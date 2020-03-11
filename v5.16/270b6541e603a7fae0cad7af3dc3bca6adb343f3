@@ -1,0 +1,8 @@
+270b6541e603 ("exit: Coredumps reach do_group_exit")
+49697335e0b4 ("signal: Remove the helper signal_group_exit")
+60700e38fb68 ("signal: Rename group_exit_task group_exec_task")
+6ac79ec5378b ("coredump: Stop setting signal->group_exit_task")
+2f824d4d197e ("signal: Remove SIGNAL_GROUP_COREDUMP")
+752dc9707567 ("signal: During coredumps set SIGNAL_GROUP_EXIT in zap_process")
+a0287db0f1d6 ("signal: Have prepare_signal detect coredumps using signal->core_state")
+e7f7c99ba911 ("signal: In get_signal test for signal_group_exit every time through the loop")

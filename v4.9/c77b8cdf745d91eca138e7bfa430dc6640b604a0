@@ -1,0 +1,8 @@
+c77b8cdf745d ("module: replace the existing LSM hook in init_module")
+fed2512a7ccc ("ima: based on policy require signed firmware (sysfs fallback)")
+16c267aac86b ("ima: based on policy require signed kexec kernel images")
+377179cd28cd ("security: define new LSM hook named security_kernel_load_data")
+6f0911a666d1 ("ima: fix updating the ima_appraise flag")
+df0ce17331e2 ("security: convert security hooks to use hlist")
+9c655be06444 ("ima: log message to module appraisal error")
+5bbcc0f595fa ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

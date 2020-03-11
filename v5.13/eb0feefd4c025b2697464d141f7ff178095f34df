@@ -1,0 +1,4 @@
+eb0feefd4c02 ("vfio/ap_ops: Convert to use vfio_register_group_dev()")
+86956e70761b ("s390/vfio-ap: replace open coded locks for VFIO_GROUP_NOTIFY_SET_KVM notification")
+1e753732bda6 ("s390/vfio-ap: r/w lock for PQAP interception handler function pointer")
+9b0d6b7e28a9 ("vfio/ap,ccw: Fix open/close when multiple device FDs are open")

@@ -1,0 +1,7 @@
+477d81a1c47a ("x86/entry: Remove unwanted instrumentation in common_interrupt()")
+90f357208200 ("x86/idtentry: Incorporate definitions/declarations of the FRED entries")
+5b51e1db9bdc ("x86/entry: Convert device interrupts to inline stack switching")
+569dd8b4eb7e ("x86/entry: Convert system vectors to irq stack macro")
+a0cfc74d0b00 ("x86/irq: Provide macro for inlining irq stack switching")
+951c2a51ae75 ("x86/irq/64: Adjust the per CPU irq stack pointer by 8")
+e7f890017971 ("x86/irq: Sanitize irq stack tracking")

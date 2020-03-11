@@ -1,0 +1,5 @@
+c7921bb32ab6 ("mtd: rawnand: Move platform_nand_xxx definitions out of rawnand.h")
+47bd59e538d4 ("mtd: rawnand: plat_nand: Pass a nand_chip object to all platform_nand_ctrl hooks")
+dc2d8856a758 ("mtd: rawnand: plat_nand: Kill pdata->ctrl.{hwcontrol, read_byte}()")
+79fc540fd543 ("i2c: omap: move header to platform_data")
+3fd14cdcc05a ("Merge tag 'mtd/for-4.17' of git://git.infradead.org/linux-mtd")

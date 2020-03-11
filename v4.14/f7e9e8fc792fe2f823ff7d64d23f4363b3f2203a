@@ -1,0 +1,6 @@
+f7e9e8fc792f ("Btrfs: stop creating orphan items for truncate")
+d1342aadbd9f ("Btrfs: update stale comments referencing vmtruncate()")
+0a0d4415e338 ("Btrfs: delete dead code in btrfs_orphan_add()")
+213e8c5520ed ("Btrfs: skip writeback of last page when truncating file to same size")
+3d5addafd0c4 ("Btrfs: do not check inode's runtime flags under root->orphan_lock")
+ddfae63cc8e0 ("btrfs: move btrfs_truncate_block out of trans handle")

@@ -1,0 +1,6 @@
+f918b3a67ccb ("spi: armada-3700: Use helper function devm_clk_get_prepared()")
+9a49f2285220 ("spi: armada-3700: Convert to platform remove callback returning void")
+90ce7e7aaa41 ("spi: a3700: switch to use modern name")
+db6689b643d8 ("spi: change clk_disable_unprepare to clk_unprepare")
+2494174e04e7 ("spi: a3700: Remove a useless memset")
+084fae2fd7d3 ("spi: a3700: use devm_platform_ioremap_resource() to simplify code")

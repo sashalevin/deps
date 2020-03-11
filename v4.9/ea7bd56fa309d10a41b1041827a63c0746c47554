@@ -1,0 +1,5 @@
+ea7bd56fa309 ("xfs: Fix leak of discard bio")
+4560e78f40cb ("xfs: don't block the log commit handler for discards")
+ebf55872616c ("xfs: improve handling of busy extents in the low-level allocator")
+b20fe4730ea5 ("xfs: correct null checks and error processing in xfs_initialize_perag")
+6031e73a5b3f ("xfs: use rhashtable to track buffer cache")

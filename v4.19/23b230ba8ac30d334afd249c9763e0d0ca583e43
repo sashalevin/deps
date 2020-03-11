@@ -1,0 +1,8 @@
+23b230ba8ac3 ("mm/swap: print bad swap offset entry in get_swap_device")
+63d8620ecf93 ("mm/swapfile: use percpu_ref to serialize against concurrent swapoff")
+b11a76b37a5a ("mm/swapfile: do not sleep with a spin lock held")
+a449bf58e45a ("mm/swapfile: fix and annotate various data races")
+eb085574a752 ("mm, swap: fix race between swapoff and some swap operations")
+c10d38cc8d3e ("mm, swap: bounds check swap_info array accesses to avoid NULL derefs")
+873d7bcfd066 ("mm/swapfile.c: use kvzalloc for swap_info_struct allocation")
+bc4ae27d817a ("mm: split SWP_FILE into SWP_ACTIVATED and SWP_FS")

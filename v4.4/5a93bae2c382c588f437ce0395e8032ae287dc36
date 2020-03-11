@@ -1,0 +1,7 @@
+5a93bae2c382 ("tracing: Fix code comments in trace.c")
+cab503795082 ("tracing/ftrace: Enable snapshot function trigger to work with instances")
+d8275c454dcd ("tracing: Move filtered_pid helper functions into trace.c")
+4e267db135c4 ("tracing: Make the pid filtering helper functions global")
+c37775d57830 ("tracing: Add infrastructure to allow set_event_pid to follow children")
+f4d34a87e9c1 ("tracing: Use pid bitmap instead of a pid array for set_event_pid")
+9ebc57cfaad2 ("tracing: Rename check_ignore_pid() to ignore_this_task()")

@@ -1,0 +1,4 @@
+77b5f703dcc8 ("powerpc/powernv/opal: Use standard interrupts property when available")
+56c0b48b1e44 ("powerpc/powernv: process all OPAL event interrupts with kopald")
+c0beffc4f4c6 ("powerpc/powernv: Fix opal_event_shutdown() called with interrupts disabled")
+c6baa077b784 ("powerpc/powernv: Make opal_event_shutdown() callable from IRQ context")

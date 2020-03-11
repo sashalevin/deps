@@ -1,0 +1,6 @@
+2fdd45fd20f4 ("scsi: zfcp: remove unused return values of ERP trigger functions")
+6a76550841d4 ("scsi: zfcp: fix missing REC trigger trace on enqueue without ERP thread")
+8c3d20aada70 ("scsi: zfcp: fix missing REC trigger trace for all objects in ERP_FAILED")
+d70aab55924b ("scsi: zfcp: fix missing REC trigger trace on terminate_rport_io for ERP_FAILED")
+96d927049947 ("scsi: zfcp: fix missing REC trigger trace on terminate_rport_io early return")
+512857a795cb ("scsi: zfcp: fix misleading REC trigger trace where erp_action setup failed")

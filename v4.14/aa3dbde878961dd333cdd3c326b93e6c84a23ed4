@@ -1,0 +1,8 @@
+aa3dbde87896 ("splice: Make splice from an O_DIRECT fd use copy_splice_read()")
+36e2c7421f02 ("fs: don't allow splice read/write without explicit ops")
+00c285d0d0fe ("fs: simplify do_splice_from")
+2bc010600d0a ("fs: simplify do_splice_to")
+6718b6f855a0 ("pipe: Allow pipes to have kernel-reserved slots")
+8cefc107ca54 ("pipe: Use head and tail pointers for the ring, not cursor and length")
+736706bee329 ("get rid of legacy 'get_ds()' function")
+9b286efeb5eb ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

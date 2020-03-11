@@ -1,0 +1,6 @@
+83863f25e4b8 ("arm64: Add support for ARCH_SUPPORTS_DEBUG_PAGEALLOC")
+11509a306bb6 ("arm64: mm: allow passing a pgdir to alloc_init_*")
+21ab99c289d3 ("arm64: mm: specialise pagetable allocators")
+95f5c80050ad ("arm64: allow vmalloc regions to be set with set_memory_*")
+57adec866c04 ("arm64: mm: avoid calling apply_to_page_range on empty range")
+e2c30ee320eb ("arm64: mm: remove pointless PAGE_MASKing")

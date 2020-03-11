@@ -1,0 +1,5 @@
+02c4fae9ea68 ("drivers/idle: make intel_idle.c driver more explicitly non-modular")
+3e66a9ab5364 ("intel_idle: Clean up all registered devices on exit.")
+ca42489d9ee3 ("intel_idle: Avoid a double free of the per-CPU data.")
+51319918bcc3 ("intel_idle: Fix deallocation order on the driver exit path.")
+f70415496d5d ("intel_idle: remove useless return from void function.")

@@ -1,0 +1,8 @@
+72ca28765fc4 ("null_blk: refactor tag_set setup")
+e32b0855367b ("null_blk: initialize the tag_set timeout in null_init_tag_set")
+8b631f9cf0b8 ("null_blk: remove the bio based I/O path")
+74fa8f9c553f ("block: pass a queue_limits argument to blk_alloc_disk")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")
+14509b748ff5 ("null_blk: add configfs variable shared_tags")

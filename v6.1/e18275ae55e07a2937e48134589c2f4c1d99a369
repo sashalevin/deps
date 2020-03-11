@@ -1,0 +1,5 @@
+e18275ae55e0 ("fs: port ->rename() to pass mnt_idmap")
+5ebb29bee8d5 ("fs: port ->mknod() to pass mnt_idmap")
+6c960e68aaed ("fs: port ->create() to pass mnt_idmap")
+abf08576afe3 ("fs: port vfs_*() helpers to struct mnt_idmap")
+a2bd096fb2d7 ("fs: use type safe idmapping helpers")

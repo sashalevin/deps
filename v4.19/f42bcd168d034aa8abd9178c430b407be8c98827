@@ -1,0 +1,8 @@
+f42bcd168d03 ("bpf: teach verifier actual bounds of bpf_get_smp_processor_id() result")
+bd5314f8dd2d ("kallsyms, bpf: Move find_kallsyms_symbol_value out of internal header")
+31bf1dbccfb0 ("bpf: Fix attaching fentry/fexit/fmod_ret/lsm to modules")
+47e34cb74d37 ("bpf: Add verifier check for BPF_PTR_POISON retval and arg")
+00963a2e75a8 ("bpf: Support bpf_trampoline on functions with IPMODIFY (e.g. livepatch)")
+316cba62dfb7 ("bpf, x64: Allow to use caller address from stack")
+535a57a7ffc0 ("bpf: Remove is_valid_bpf_tramp_flags()")
+0076cad30135 ("Merge https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

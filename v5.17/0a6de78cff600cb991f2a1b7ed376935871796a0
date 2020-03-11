@@ -1,0 +1,6 @@
+0a6de78cff60 ("lib/Kconfig.debug: Add check for non-constant .{s,u}leb128 support to DWARF5")
+bb1435f3f575 ("Kconfig.debug: add toolchain checks for DEBUG_INFO_DWARF_TOOLCHAIN_DEFAULT")
+4f001a21080f ("Kconfig.debug: simplify the dependency of DEBUG_INFO_DWARF4/5")
+32ef9e5054ec ("Makefile.debug: re-enable debug info for .S files")
+61f2b7c7497b ("Makefile.debug: set -g unconditional on CONFIG_DEBUG_INFO_SPLIT")
+f9b3cd245784 ("Kconfig.debug: make DEBUG_INFO selectable from a choice")

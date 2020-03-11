@@ -1,0 +1,8 @@
+7e537af99774 ("tty: serial: kgdboc: use srcu console list iterator")
+5946d1f5b309 ("kdb: Switch to use safer dbg_io_ops over console APIs")
+2a78b85b70f9 ("kdb: Make kdb_printf() console handling more robust")
+e8857288bb62 ("kdb: Check status of console prior to invoking handlers")
+9d71b344f86f ("kdb: Re-factor kdb_printf() message write code")
+220995622da5 ("kgdboc: Add kgdboc_earlycon to support early kgdb using boot consoles")
+68e55f61c138 ("kgdboc: Use a platform device to handle tty drivers showing up late")
+dc2c733e6584 ("kdb: Use for_each_console() helper")

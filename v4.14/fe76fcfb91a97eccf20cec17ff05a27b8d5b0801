@@ -1,0 +1,5 @@
+fe76fcfb91a9 ("nvme-pci: remove HMB teardown on reset")
+64ee0ac05277 ("nvme-pci: Skip queue deletion if there are no queues")
+9a915a5be7dc ("nvme-pci: quiesce IO queues prior to disabling device HMB accesses")
+ee9aebb27cbd ("nvme-pci: Suspend queues after deleting them")
+147b27e4bd08 ("nvme-pci: allocate device queues storage space at probe")

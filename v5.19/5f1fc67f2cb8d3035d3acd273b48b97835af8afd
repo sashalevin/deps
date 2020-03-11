@@ -1,0 +1,7 @@
+5f1fc67f2cb8 ("mm/damon/core: initialize damo_filter->list from damos_new_filter()")
+98def236f63c ("mm/damon/core: implement damos filter")
+70e0c1d1bf94 ("mm/damon/core: factor out 'damos_quota' private fileds initialization")
+02f17037fc6e ("mm/damon/core: copy struct-to-struct instead of field-to-field in damon_new_scheme()")
+f5a79d7c0c87 ("mm/damon: introduce struct damos_access_pattern")
+40e983cca927 ("mm/damon: introduce DAMON-based LRU-lists Sorting")
+c364f9af299f ("mm/damon/dbgfs: add and use mappings between 'schemes' action inputs and 'damos_action' values")

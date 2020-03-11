@@ -1,0 +1,8 @@
+88a6f18b950e ("aio: split out iocb copy from io_submit_one()")
+67ba049f94eb ("aio: fold do_io_submit() into callers")
+95af8496ac48 ("aio: shift copyin of iocb into io_submit_one()")
+ac060cbaa849 ("aio: add missing break for the IOCB_CMD_FDSYNC case")
+2c14fa838cbe ("aio: implement IOCB_CMD_POLL")
+888933f8fdf0 ("aio: simplify cancellation")
+f3a2752a43de ("aio: simplify KIOCB_KEY handling")
+ed0d523adb5d ("Merge branch 'fixes' of https://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs into aio-base")

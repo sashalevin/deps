@@ -1,0 +1,8 @@
+c4076cdd21f8 ("net: switchdev: introduce switchdev_handle_port_obj_{add,del} for foreign interfaces")
+716a30a97a52 ("net: switchdev: merge switchdev_handle_fdb_{add,del}_to_device")
+2b0a5688493a ("net: switchdev: fix FDB entries towards foreign ports not getting propagated to us")
+71f4f89a0324 ("net: switchdev: recurse into __switchdev_handle_fdb_del_to_device")
+94111dfc18b8 ("net: switchdev: remove stray semicolon in switchdev_handle_fdb_del_to_device shim")
+b94dc99c0ddb ("net: dsa: use switchdev_handle_fdb_{add,del}_to_device")
+8ca07176ab00 ("net: switchdev: introduce a fanout helper for SWITCHDEV_FDB_{ADD,DEL}_TO_DEVICE")
+c6451cda100d ("net: switchdev: introduce helper for checking dynamically learned FDB entries")

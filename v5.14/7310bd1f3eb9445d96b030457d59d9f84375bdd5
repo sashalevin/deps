@@ -1,0 +1,8 @@
+7310bd1f3eb9 ("kcsan: test: Match reordered or normal accesses")
+6c65eb75686f ("kcsan: Start stack trace with explicit location if provided")
+55a55fec5015 ("kcsan: Add ability to pass instruction pointer of access to reporting")
+ade3a58b2d40 ("kcsan: test: Fix flaky test case")
+d8fd74d35a8d ("kcsan: permissive: Ignore data-racy 1-bit value changes")
+49f72d5358dd ("kcsan: Rework atomic.h into permissive.h")
+08cac6049412 ("kcsan: Reduce get_ctx() uses in kcsan_found_watchpoint()")
+e675d2533a74 ("kcsan: Introduce CONFIG_KCSAN_STRICT")

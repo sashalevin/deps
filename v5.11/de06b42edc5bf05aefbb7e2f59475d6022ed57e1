@@ -1,0 +1,8 @@
+de06b42edc5b ("drm/i915: don't make assumptions about intel_wakeref_t type")
+b49e894c3fd8 ("drm/i915: Replace custom intel runtime_pm tracker with ref_tracker library")
+985a0256df32 ("drm/i915/selftests: Disable runtime pm wakeref tracking for the mock device")
+c50df701d49e ("drm/i915: Enable rpm wakeref tracking whether runtime pm is enabled or not")
+751a9d69b197 ("drm/i915: Fix oops due to missing stack depot")
+2dba5eb1c73b ("lib/stackdepot: allow optional init and stack_table allocation by kvmalloc()")
+4e66934eaadc ("lib: add reference counting tracking infrastructure")
+304ac8032d3f ("Merge tag 'drm-next-2021-11-12' of git://anongit.freedesktop.org/drm/drm")

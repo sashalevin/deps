@@ -1,0 +1,7 @@
+88b67edd7247 ("dax: Fix compilation for CONFIG_DAX && !CONFIG_FS_DAX")
+f01b16a85bfa ("dax: Get rid of fs_dax_get_by_host() helper")
+32de1484648a ("dax: check synchronous mapping is supported")
+fefc1d97fa4b ("libnvdimm: add dax_dev sync flag")
+7bf7eac8d648 ("dax: Arrange for dax_supported check to span multiple devices")
+514cf4f881dc ("dm: only initialize md->dax_dev if CONFIG_DAX_DRIVER is enabled")
+f67e3fb48912 ("Merge tag 'devdax-for-5.1' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

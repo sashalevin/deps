@@ -1,0 +1,5 @@
+ede66cd22441 ("powerpc/64s: Fix CONFIG_NUMA=n build due to create_section_mapping()")
+90cbac0e995d ("powerpc: Enable KFENCE for PPC32")
+bccc58986a2f ("powerpc/8xx: Always pin kernel text TLB")
+613df979da6c ("powerpc/8xx: DEBUG_PAGEALLOC doesn't require an ITLB miss exception handler")
+035b19a15a98 ("powerpc/32s: Always map kernel text and rodata with BATs")

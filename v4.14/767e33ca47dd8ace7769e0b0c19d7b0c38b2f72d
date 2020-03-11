@@ -1,0 +1,5 @@
+767e33ca47dd ("xen: irqfd: Use _IOW instead of the internal _IOC() macro")
+f8941e6c4c71 ("xen: privcmd: Add support for irqfd")
+c51b3c639e01 ("xen: add new hypercall buffer mapping device")
+3ad0876554ca ("xen/privcmd: add IOCTL_PRIVCMD_MMAP_RESOURCE")
+ec4001c3f29e ("xen: support priv-mapping in an HVM tools domain")

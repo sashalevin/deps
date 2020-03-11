@@ -1,0 +1,6 @@
+32071fa355e7 ("KVM: SVM: Track the per-CPU host save area as a VMCB pointer")
+704ec48fc2fb ("KVM: SVM: Use sev_es_host_save_area() helper when initializing tsc_aux")
+34830b3c02ae ("KVM: SVM: Force sev_es_host_save_area() to be inlined (for noinstr usage)")
+99a49093ce92 ("KVM: SVM: Consider NUMA affinity when allocating per-CPU save_area")
+9f44286d77ac ("KVM: SVM: not account memory allocation for per-CPU svm_data")
+f51af3468688 ("KVM: SVM: remove useless input parameter in snp_safe_alloc_page")

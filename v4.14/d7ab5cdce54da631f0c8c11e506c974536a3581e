@@ -1,0 +1,3 @@
+d7ab5cdce54d ("sctp: update dst pmtu with the correct daddr")
+b6c5734db070 ("sctp: fix the handling of ICMP Frag Needed for too small MTUs")
+cc35c3d1edf7 ("sctp: do not retransmit upon FragNeeded if PMTU discovery is disabled")

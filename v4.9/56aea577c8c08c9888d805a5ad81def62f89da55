@@ -1,0 +1,5 @@
+56aea577c8c0 ("net: phy: Add support to configure clock in Broadcom iProc mdio mux")
+0fe2cd564c35 ("net: phy: Use devm api for mdio bus allocation in bcm iproc mdio mux")
+5634cb2b376c ("net: phy: Disable external master access in bcm mdio mux driver")
+77fefa93bfeb ("net: phy: Fix the register offsets in Broadcom iProc mdio mux driver")
+922c60e89d52 ("net: mdio-mux: bcm-iproc: call mdiobus_free() in error path")

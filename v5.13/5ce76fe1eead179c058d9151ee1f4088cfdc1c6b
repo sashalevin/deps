@@ -1,0 +1,6 @@
+5ce76fe1eead ("veth: rely on rtnl_dereference() instead of on rcu_dereference() in veth_set_xdp_features()")
+fccca038f300 ("veth: take into account device reconfiguration for xdp_features flag")
+d406099d6a15 ("veth: enable BIG TCP packets")
+4752eeb3d891 ("veth: implement support for set_channel ethtool op")
+dedd53c5e075 ("veth: factor out initialization helper")
+f7918b79019f ("veth: always report zero combined channels")

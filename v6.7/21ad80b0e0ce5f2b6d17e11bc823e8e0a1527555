@@ -1,0 +1,6 @@
+21ad80b0e0ce ("PCI: imx6: Simplify switch-case logic by introducing init_phy() callback")
+f99b121c2589 ("PCI: imx6: Simplify configure_type() by using mode_off and mode_mask")
+d99aa8d3c4ac ("PCI: imx6: Simplify ltssm_enable() by using ltssm_off and ltssm_mask")
+0c9651c21f2a ("PCI: imx6: Simplify reset handling by using *_FLAG_HAS_*_RESET")
+4e37c2f48712 ("PCI: imx6: Simplify PHY handling by using IMX6_PCIE_FLAG_HAS_PHYDRV")
+6a4018583875 ("PCI: imx6: Simplify clock handling by using clk_bulk*() function")

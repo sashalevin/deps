@@ -1,0 +1,7 @@
+dbc9344a68e5 ("arm64: clean up THREAD_* definitions")
+34be98f4944f ("arm64: kernel: remove {THREAD,IRQ_STACK}_START_SP")
+096683724cb2 ("arm64: unwind: avoid percpu indirection for irq stack")
+c02433dd6de3 ("arm64: split thread_info from task stack")
+1b7e2296a822 ("arm64: assembler: introduce ldr_this_cpu")
+a9ea0017ebe8 ("arm64: factor out current_stack_pointer")
+3fe12da4c7fa ("arm64: asm-offsets: remove unused definitions")

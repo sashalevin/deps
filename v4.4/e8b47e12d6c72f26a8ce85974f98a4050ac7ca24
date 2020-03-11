@@ -1,0 +1,8 @@
+e8b47e12d6c7 ("ARM: 8707/1: NOMMU: Update MPU accessors to use cp15 helpers")
+877ec119dbbf ("ARM: 8706/1: NOMMU: Move out MPU setup in separate module")
+374d446d25d6 ("ARM: 8636/1: Cleanup sanity_check_meminfo")
+b9a019899f61 ("ARM: 8590/1: sanity_check_meminfo(): avoid overflow on vmalloc_limit")
+695665b0c523 ("ARM: 8571/1: nommu: fix PMSAv7 setup")
+da58fb6571bf ("ARM: wire up UEFI init and runtime support")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

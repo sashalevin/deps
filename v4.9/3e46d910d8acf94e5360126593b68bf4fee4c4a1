@@ -1,0 +1,8 @@
+3e46d910d8ac ("tracing: Fix poll() and select() do not work on per_cpu trace_pipe and trace_pipe_raw")
+03329f993978 ("tracing: Add tracefs file buffer_percentage")
+2c2b0a78b373 ("ring-buffer: Add percentage of ring buffer full to wake up reader")
+2c1ea60b195d ("tracing: Add timestamp_mode trace file")
+00b4145298ae ("ring-buffer: Add interface for setting absolute time stamps")
+ecf927000ce3 ("ring_buffer_poll_wait() return value used as return value of ->poll()")
+065e63f95143 ("tracing: Only have rmmod clear buffers that its events were active in")
+dc8d387210e3 ("tracing: Update Documentation/trace/ftrace.txt")

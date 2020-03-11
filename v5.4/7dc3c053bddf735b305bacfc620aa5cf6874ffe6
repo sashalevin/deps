@@ -1,0 +1,8 @@
+7dc3c053bddf ("ata: pata_imx: add compile test support")
+a9b2c120e34b ("ata: separate PATA timings code from libata-core.c")
+4e168187047b ("ata: fix CodingStyle issues in PATA timings code")
+2b67a6d3a4d2 ("ata: remove EXPORT_SYMBOL_GPL()s not used by modules")
+a52fbcfc7b38 ("ata: move EXPORT_SYMBOL_GPL()s close to exported code")
+bd322af15ce9 ("ata: make SATA_PMP option selectable only if any SATA host driver is enabled")
+10a663a1b151 ("ata: ahci: Add shutdown to freeze hardware resources of ahci")
+95364f36701e ("ata: make qc_prep return ata_completion_errors")

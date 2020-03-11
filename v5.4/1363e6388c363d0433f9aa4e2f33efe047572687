@@ -1,0 +1,5 @@
+1363e6388c36 ("xprtrdma: rpcrdma_mr_pop() already does list_del_init()")
+15d9b015d3d1 ("xprtrdma: Ensure ri_id is stable during MR recycling")
+9d2da4ff00f3 ("xprtrdma: Manage MRs in context of a single connection")
+c3700780a096 ("xprtrdma: Fix MR list handling")
+a31b2f939219 ("xprtrdma: Connection becomes unstable after a reconnect")

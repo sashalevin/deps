@@ -1,0 +1,6 @@
+311639e9512b ("x86/resctrl: Move RMID allocation out of mkdir_rdt_prepare()")
+b1de313979af ("x86/resctrl: Create helper for RMID allocation and mondata dir creation")
+758999246965 ("x86/resctrl: Add necessary kernfs_put() calls to prevent refcount leak")
+fd8d9db3559a ("x86/resctrl: Remove superfluous kernfs_get() calls to prevent refcount leak")
+334b0f4e9b1b ("x86/resctrl: Fix a deadlock due to inaccurate reference")
+b8511ccc75c0 ("x86/resctrl: Fix use-after-free when deleting resource groups")

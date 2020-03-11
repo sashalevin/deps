@@ -1,0 +1,8 @@
+96f101a9eab4 ("arm64/mte: Make TCF0 naming and field values more standard")
+766121ba5de3 ("arm64/mte: Add userspace interface for enabling asymmetric mode")
+cb627397e02b ("arm64/mte: Add a little bit of documentation for mte_update_sctlr_user()")
+ba1a98e8b172 ("arm64: mte: Bitfield definitions for Asymm MTE")
+dd061616edcf ("arm64: mte: introduce a per-CPU tag checking mode preference")
+433c38f40f6a ("arm64: mte: change ASYNC and SYNC TCF settings into bitfields")
+638982a03fbc ("arm64: mte: rename gcr_user_excl to mte_ctrl")
+59f44069e052 ("arm64: mte: fix restoration of GCR_EL1 from suspend")

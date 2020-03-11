@@ -1,0 +1,8 @@
+8da5b3e7f794 ("staging: ks7010: replace PutUInt32 macro with put_unaligned_le32()")
+9018154f1bac ("staging: ks7010: avoid camel cases in MichaelGetMIC function")
+ca0bda153137 ("staging: ks7010: replace macro MichaelClear with inline function")
+79955850b180 ("staging: ks7010: avoid camel cases in MichaelAppend function")
+808a05c007cd ("staging: ks7010: avoid camel cases for MichaelInitFunction")
+c9be56329a39 ("staging: ks7010: avoid camel cases in MichaelMICFunction")
+16b102e78152 ("staging: ks7010: use lower case names in michael_mic_t struct fields")
+8b6f053790d9 ("staging: ks7010: replace custom rotation operations in favour of the kernel ones")

@@ -1,0 +1,6 @@
+28c5dcb22f90 ("arm64: Rename cpuid_feature field extract routines")
+038dc9c66a0f ("arm64: Add helper for extracting ASIDBits")
+0f54b14e76f5 ("arm64: cpufeature: Change read_cpuid() to use sysreg's mrs_s macro")
+20475f784d29 ("arm64: KVM: Add support for 16-bit VMID")
+8420dcd37ef3 ("arm: KVM: Make kvm_arm.h friendly to assembly code")
+9d4dc688342a ("arm/arm64: KVM: Remove unreferenced S2_PGD_ORDER")

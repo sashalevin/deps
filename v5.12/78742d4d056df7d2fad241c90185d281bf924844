@@ -1,0 +1,5 @@
+78742d4d056d ("ext4: remove trailing newline from ext4_msg() message")
+25c6d98fc4c2 ("ext4: Move orphan inode handling into a separate file")
+188c299e2a26 ("ext4: Support for checksumming from journal triggers")
+b9a037b7f3c4 ("ext4: cleanup in-core orphan list if ext4_truncate() failed to get a transaction handle")
+72ffb49a7b62 ("ext4: do not set SB_ACTIVE in ext4_orphan_cleanup()")

@@ -1,0 +1,6 @@
+f68749ec342b ("mm/gup: longterm pin migration cleanup")
+d1e153fea2a8 ("mm/gup: migrate pinned pages out of movable zone")
+1a08ae36cf8b ("mm cma: rename PF_MEMALLOC_NOCMA to PF_MEMALLOC_PIN")
+6e7f34ebb8d2 ("mm/gup: check for isolation errors")
+f0f4463837da ("mm/gup: return an error on migration failure")
+83c02c23d074 ("mm/gup: check every subpage of a compound page during isolation")

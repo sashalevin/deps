@@ -1,0 +1,8 @@
+527187d28569 ("locking/lockdep: Remove cross-release leftovers")
+e966eaeeb623 ("locking/lockdep: Remove the cross-release locking checks")
+5e351ad10699 ("locking/lockdep: Fix possible NULL deref")
+a7967bc31584 ("sched/completions: Add support for initializing completions with lockdep_map")
+e121d64e1648 ("locking/lockdep: Introduce CONFIG_BOOTPARAM_LOCKDEP_CROSSRELEASE_FULLSTACK=y")
+2dcd5adfb740 ("locking/lockdep: Remove the BROKEN flag from CONFIG_LOCKDEP_CROSSRELEASE and CONFIG_LOCKDEP_COMPLETIONS")
+d141babe4244 ("locking/lockdep: Add a boot parameter allowing unwind in cross-release and disable it by default")
+24208435e343 ("locking/lockdep, sched/completions: Change the prefix of lock name for completion variables")

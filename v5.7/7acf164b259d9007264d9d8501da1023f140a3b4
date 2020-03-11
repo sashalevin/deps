@@ -1,0 +1,6 @@
+7acf164b259d ("resource: add walk_system_ram_res_rev()")
+71a1d8ed900f ("resource: Move devmem revoke code to resource framework")
+0fb1b1ed7dd9 ("/dev/mem: Only set filp->f_mapping")
+9806731db684 ("resource: Add irqresource_disabled()")
+b34e7e298d7a ("/dev/mem: Add missing memory barriers for devmem_inode")
+3234ac664a87 ("/dev/mem: Revoke mappings when a driver claims the region")

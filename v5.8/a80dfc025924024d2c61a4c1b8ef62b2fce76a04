@@ -1,0 +1,8 @@
+a80dfc025924 ("KVM: VMX: Always clear vmx->fail on emulation_required")
+c8607e4a086f ("KVM: x86: nVMX: don't fail nested VM entry on invalid guest state if !from_vmentry")
+c42dec148b3e ("KVM: x86: VMX: synthesize invalid VM exit when emulating invalid guest state")
+2ba4493a8b19 ("KVM: nVMX: Explicitly check for valid guest state for !unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")
+2a40b9001ec2 ("KVM: x86: Pull the PGD's level from the MMU instead of recalculating it")
+812f8058369f ("KVM: VMX: Make vmx_load_mmu_pgd() static")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")

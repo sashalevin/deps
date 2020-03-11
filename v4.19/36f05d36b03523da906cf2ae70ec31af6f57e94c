@@ -1,0 +1,5 @@
+36f05d36b035 ("usb: dwc3: gadget: Issue END_TRANSFER to retry isoc transfer")
+d53701067f04 ("usb: dwc3: gadget: check if dep->frame_number is still valid")
+3451f6affaef ("usb: dwc3: gadget: remove unnecessary dev_info()")
+25abad6a0584 ("usb: dwc3: gadget: return errors from __dwc3_gadget_start_isoc()")
+d92021f66063 ("usb: dwc3: Add workaround for isoc start transfer failure")

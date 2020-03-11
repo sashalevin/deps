@@ -1,0 +1,8 @@
+2e28d38ae1d9 ("tty: audit: Handle tty audit enable atomically")
+4d240b644282 ("tty: audit: Track tty association with dev_t")
+f229c2c161de ("tty: audit: Take siglock directly")
+a75c9b091226 ("tty: audit: Defer audit buffer association")
+309426ae69cd ("tty: audit: Remove icanon mode from call chain")
+d7c0ba40ebb3 ("tty: audit: Early-out pty master reads earlier")
+e661cf702003 ("n_tty: Clarify copy_from_read_buf()")
+679e7c2999f9 ("n_tty: Uninline tty_copy_to_user()")

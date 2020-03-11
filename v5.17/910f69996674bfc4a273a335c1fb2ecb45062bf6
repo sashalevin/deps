@@ -1,0 +1,5 @@
+910f69996674 ("bpf: reject non-exact register type matches in regsafe()")
+7f4ce97cd5ed ("bpf: generalize MAYBE_NULL vs non-MAYBE_NULL rule")
+a73bf9f2d969 ("bpf: reorganize struct bpf_reg_state fields")
+f63181b6ae79 ("bpf: stop setting precise in current state")
+529409ea92d5 ("bpf: propagate precision across all frames, not just the last one")

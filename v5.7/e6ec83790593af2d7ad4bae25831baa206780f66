@@ -1,0 +1,8 @@
+e6ec83790593 ("can: flexcan: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+bfd00e021cf1 ("can: flexcan: move driver into separate sub directory")
+b7ee5bc3e100 ("can: flexcan: fix failure handling of pm_runtime_get_sync()")
+eadf6ca918f6 ("can: flexcan: add CAN-FD mode support")
+d9b90b05fd78 ("can: flexcan: use struct canfd_frame for CAN classic frame")
+890599bc8618 ("can: flexcan: flexcan_set_bittiming(): move setup of CAN-2.0 bitiming into separate function")
+ef4b623b141f ("can: flexcan: quirks: get rid of long lines")
+555f6e568dfb ("can: flexcan: sort include files alphabetically")

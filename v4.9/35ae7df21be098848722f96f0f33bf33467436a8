@@ -1,0 +1,4 @@
+35ae7df21be0 ("irqchip/gic-v3-its: Don't map the MSI page in its_irq_compose_msi_msg()")
+8208d1708b88 ("irqchip/gic-v3-its: Align PCI Multi-MSI allocation on their size")
+0d224d3508f5 ("irqchip/gic-v3-its: Report that effective affinity is a single target")
+8b8d94a72fd4 ("irqchip/gicv3-its: Skip irq affinity setting when target cpu is the same as current setting")

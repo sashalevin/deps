@@ -1,0 +1,3 @@
+d6d6742772d7 ("nvme: fix RCU hole that allowed for endless looping in multipath round robin")
+041bd1a1fc73 ("nvme: only call synchronize_srcu when clearing current path")
+5eba200526ac ("nvme: remove the GENHD_FL_UP check in nvme_ns_remove")

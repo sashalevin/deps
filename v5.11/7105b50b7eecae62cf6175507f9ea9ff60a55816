@@ -1,0 +1,7 @@
+7105b50b7eec ("net: bridge: guard the switchdev replay helpers against a NULL notifier block")
+f851a721a638 ("net: bridge: allow br_fdb_replay to be called for the bridge device")
+22f67cdfae6a ("net: bridge: add helper to replay VLANs installed on port")
+04846f903b53 ("net: bridge: add helper to replay port and local fdb entries")
+4f2673b3a2b6 ("net: bridge: add helper to replay port and host-joined mdb entries")
+f1d42ea10056 ("net: bridge: add helper to retrieve the current ageing time")
+c0e715bbd50e ("net: bridge: add helper for retrieving the current bridge port STP state")

@@ -1,0 +1,6 @@
+b8b9156ec6ef ("KVM: x86/mmu: Comment FNAME(sync_page) to document TLB flushing logic")
+4758d47e0d68 ("KVM: MMU: inline set_spte in FNAME(sync_page)")
+bcc4f2bc5026 ("KVM: MMU: mark page dirty in make_spte")
+c3e5e415bc1e ("KVM: X86: Change kvm_sync_page() to return true when remote flush is needed")
+06152b2dec3e ("KVM: X86: Remove kvm_mmu_flush_or_zap()")
+bd047e544089 ("KVM: X86: Don't flush current tlb on shadow page modification")

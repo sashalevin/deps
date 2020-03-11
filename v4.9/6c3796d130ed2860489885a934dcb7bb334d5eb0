@@ -1,0 +1,8 @@
+6c3796d130ed ("scsi: target: tcmu: add read length support")
+406f74c20dc2 ("tcmu: fix sense handling during completion")
+141685a39151 ("tcmu: Add dynamic growing data area feature support")
+a5d68ba85801 ("tcmu: Skip Data-Out blocks before gathering Data-In buffer for BIDI case")
+abe342a5b4b5 ("tcmu: Fix wrongly calculating of the base_command_size")
+ab22d2604c86 ("tcmu: Fix possible overwrite of t_data_sg's last iov[]")
+972c7f167974 ("tcmu: add helper to check if dev was configured")
+762b6f00a995 ("uapi: fix linux/target_core_user.h userspace compilation errors")

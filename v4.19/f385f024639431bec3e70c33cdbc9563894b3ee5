@@ -1,0 +1,5 @@
+f385f0246394 ("x86/resctrl: Replace open coded cacheinfo searches")
+32150edd3fcf ("x86/resctrl: Swizzle rdt_resource and resctrl_schema in pseudo_lock_region")
+fa7d949337cc ("x86/resctrl: Rename and move rdt files to a separate directory")
+b61b8bba18fe ("x86/intel_rdt: Prevent pseudo-locking from using stale pointers")
+fc8eaa85681f ("Merge branch 'x86/urgent' into x86/cache, to pick up dependent fix")

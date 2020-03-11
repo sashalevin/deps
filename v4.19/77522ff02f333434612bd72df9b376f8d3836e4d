@@ -1,0 +1,8 @@
+77522ff02f33 ("netfilter: ctnetlink: do not erase error code with EINVAL")
+ad81d4daf6a3 ("netfilter: ctnetlink: fix filtering with CTA_TUPLE_REPLY")
+6c2d2176a85e ("netfilter: ctnetlink: memleak in filter initialization error path")
+cb8aa9a3affb ("netfilter: ctnetlink: add kernel side filtering for dump")
+49ca022bccc5 ("netfilter: ctnetlink: don't dump ct extensions of unconfirmed conntracks")
+b067fa009c88 ("netfilter: ctnetlink: honor IPS_OFFLOAD flag")
+9306425b70bf ("netfilter: ctnetlink: must check mark attributes vs NULL")
+59c08c69c278 ("netfilter: ctnetlink: Support L3 protocol-filter on flush")

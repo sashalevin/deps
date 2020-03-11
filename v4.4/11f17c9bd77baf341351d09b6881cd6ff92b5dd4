@@ -1,0 +1,4 @@
+11f17c9bd77b ("cifs_lookup(): switch to d_splice_alias()")
+a8b75f663ee8 ("cifs_lookup(): cifs_get_inode_...() never returns 0 with *inode left NULL")
+d3edede29f74 ("cifs: return ENAMETOOLONG for overlong names in cifs_open()/cifs_lookup()")
+a00be0e31f8d ("cifs: don't use ->d_time")

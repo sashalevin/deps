@@ -1,0 +1,4 @@
+365cf663b647 ("drbd: switch from kmalloc() to kmalloc_array()")
+1b57e66384e2 ("drbd: correctly handle failed crypto_alloc_hash")
+9534d6719511 ("drbd: Use shash and ahash")
+63a7c8ad92af ("drbd: make drbd known to lsblk: use bd_link_disk_holder")

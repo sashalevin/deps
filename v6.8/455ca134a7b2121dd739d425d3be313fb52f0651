@@ -1,0 +1,4 @@
+455ca134a7b2 ("x86/percpu: Introduce the pcpu_binary_op() macro")
+ce99b9c8daff ("x86/percpu: Move raw_percpu_xchg_op() to a better place")
+0539084639f3 ("x86/percpu: Convert this_percpu_xchg_op() from asm() to C code, to generate better code")
+9a462b9eafa6 ("x86/percpu: Use compiler segment prefix qualifier")

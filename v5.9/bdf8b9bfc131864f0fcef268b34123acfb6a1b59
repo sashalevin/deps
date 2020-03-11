@@ -1,0 +1,8 @@
+bdf8b9bfc131 ("workqueue: Improve locking rule description for worker fields")
+3a46c9833c1f ("workqueue: Re-order struct worker fields")
+d812796eb390 ("workqueue: Assign a color to barrier work items")
+018f3a13dd63 ("workqueue: Mark barrier work with WORK_STRUCT_INACTIVE")
+d21cece0dbb4 ("workqueue: Change the code of calculating work_flags in insert_wq_barrier()")
+c4560c2c88a4 ("workqueue: Change arguement of pwq_dec_nr_in_flight()")
+f97a4a1a3f87 ("workqueue: Rename "delayed" (delayed by active management) to "inactive"")
+01341fbd0d8d ("workqueue: Kick a worker based on the actual activation of delayed works")

@@ -1,0 +1,7 @@
+c7cb3a1dd53f ("pwm: omap-dmtimer: put_device() after of_find_device_by_node()")
+c4cf7aa57eb8 ("pwm: omap-dmtimer: Simplify error handling")
+43725feb5931 ("pwm: omap-dmtimer: Return -EPROBE_DEFER if no dmtimer platform data")
+b7290cf6ff78 ("pwm: pwm-omap-dmtimer: Adapt driver to utilize dmtimer pdata ops")
+a74a198249c4 ("pwm: omap-dmtimer: Allow for setting dmtimer clock source")
+074726402b82 ("pwm: omap-dmtimer: Potential NULL dereference on error")
+6604c6556db9 ("pwm: Add PWM driver for OMAP using dual-mode timers")

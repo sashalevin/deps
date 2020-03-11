@@ -1,0 +1,5 @@
+cdf78db40709 ("futex: Do not apply time namespace adjustment on FUTEX_LOCK_PI")
+c2f7d08cccf4 ("futex: Adjust absolute futex timeouts with per time namespace offset")
+9a71df495c3d ("futex: Remove unused or redundant includes")
+04e7712f4460 ("y2038: futex: Move compat implementation into futex.c")
+9afc5eee65ca ("y2038: globally rename compat_time to old_time32")

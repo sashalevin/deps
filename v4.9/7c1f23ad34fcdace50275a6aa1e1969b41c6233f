@@ -1,0 +1,8 @@
+7c1f23ad34fc ("spi: bcm-qspi: return error if neither hif_mspi nor mspi is available")
+63c5395bb7a9 ("spi: bcm-qspi: Fix use-after-free on unbind")
+3a01f04d74ef ("spi: bcm-qspi: Handle lack of MSPI_REV offset")
+5f195ee7d830 ("spi: bcm-qspi: Implement the spi_mem interface")
+bc3cc75281b3 ("spi: bcm-qspi: fIX some error handling paths")
+c0368e4db4a3 ("spi: bcm-qspi: Fix use after free in bcm_qspi_probe() in error path")
+054e532f8f90 ("spi: bcm-qspi: Remove hardcoded settings and spi-nor.h dependency")
+85adbcd54f09 ("Merge tag 'spi-v4.11' of git://git.kernel.org/pub/scm/linux/kernel/git/broonie/spi")

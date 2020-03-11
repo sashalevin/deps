@@ -1,0 +1,6 @@
+03161a6ecb75 ("drm/amdgpu: fix dead lock if any ip block resume failed in s3")
+e6707218f77b ("drm/amdgpu: when resume failed, return error to avoid system hang.")
+c085bd5119d5 ("drm/amd/amdgpu: fix console deadlock if late init failed")
+74b0b1578457 ("drm/amd/amdgpu: S4 issue for amdgpu (v2)")
+ca19852884c8 ("drm/amdgpu: fix s4 resume")
+54fb2a5cd0ba ("drm/amdgpu: call hpd_irq_event on resume")

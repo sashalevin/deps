@@ -1,0 +1,8 @@
+9eaa7b79979f ("ceph: eliminate req->r_wait_for_completion from ceph_mds_request")
+7fe0cdeb0f88 ("ceph: take a cred reference instead of tracking individual uid/gid")
+6deb8008a8e6 ("ceph: add new MDS req field to hold delegated inode number")
+a25949b99003 ("ceph: cap tracking for async directory operations")
+c36d641493c9 ("ceph: reorganize fields in ceph_mds_request")
+525d15e8e5ad ("ceph: check inode type for CEPH_CAP_FILE_{CACHE,RD,REXTEND,LAZYIO}")
+9cf54563b090 ("ceph: add __send_request helper")
+2def865a81c2 ("ceph: don't leave ino field in ceph_mds_request_head uninitialized")

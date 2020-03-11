@@ -1,0 +1,5 @@
+3d6ae1a5d0c2 ("integrity: Only use machine keyring when uefi_check_trust_mok_keys is true")
+74f5e3005139 ("integrity: Trust MOK keys if MokListTrustedRT found")
+56edb6c25f11 ("KEYS: store reference to machine keyring")
+45fcd5e521cd ("integrity: add new keyring handler for mok keys")
+d19967764ba8 ("integrity: Introduce a Linux keyring called machine")

@@ -1,0 +1,8 @@
+eea0e7d20d6d ("spi: stm32-qspi: Replace of_gpio_named_count() by gpiod_count()")
+a557fca630cc ("spi: stm32_qspi: Add transfer_one_message() spi callback")
+c6cf1fafb65d ("spi: spi-stm32-qspi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+86d1c6bbae32 ("spi: stm32-qspi: add automatic poll status feature")
+18674dee3cd6 ("spi: stm32-qspi: Add dirmap support")
+102e9d193656 ("spi: stm32-qspi: fix pm_runtime usage_count counter")
+88e1419b5ee3 ("spi: stm32-qspi: fix reference leak in stm32 qspi operations")
+9d282c17b023 ("spi: stm32-qspi: Add pm_runtime support")

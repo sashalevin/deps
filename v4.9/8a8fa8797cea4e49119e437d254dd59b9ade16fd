@@ -1,0 +1,8 @@
+8a8fa8797cea ("mmc: sdhci: Clear SDHCI_HS400_TUNING flag after platform_execute_tuning")
+6b11e70bb72c ("mmc: sdhci: Tidy tuning loop")
+da4bc4f2851e ("mmc: sdhci: Factor out tuning helper functions")
+d0c3ab59105d ("mmc: sdhci: Use mmc_abort_tuning()")
+0760c355525c ("mmc: sdhci: Always allow tuning to fall back to fixed sampling")
+5ef5203b95c5 ("mmc: sdhci: Fix tuning reset after exhausting the maximum number of loops")
+61e53bd0047d ("mmc: sdhci: Fix recovery from tuning timeout")
+2ca71c27eeae ("Revert "mmc: sdhci: Reset cmd and data circuits after tuning failure"")

@@ -1,0 +1,7 @@
+2ca03e29e64b ("rtc: sun6i: Enable the bus clock when provided")
+814691c7f7d1 ("rtc: sun6i: Allow probing without an early clock provider")
+d76a81d0c262 ("rtc: sun6i: Allow using as wakeup source from suspend")
+5dff3a311317 ("rtc: sun6i: Switch to devm_rtc_device_register")
+3855c2c3e546 ("rtc: sun6i: Expose the 32kHz oscillator")
+fb61bb82cb46 ("rtc: sun6i: Switch to the external oscillator")
+a9422a19ce27 ("rtc: sun6i: Add some locking")

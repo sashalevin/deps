@@ -1,0 +1,3 @@
+1ba59a445467 ("KVM: SVM: Always update local APIC on writes to logical dest register")
+ab1b1dc131cd ("KVM: SVM: Do not support updating APIC ID when in x2APIC mode")
+ed60920efe73 ("KVM: SVM: Use common kvm_apic_write_nodecode() for AVIC write traps")

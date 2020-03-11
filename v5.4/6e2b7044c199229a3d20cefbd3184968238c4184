@@ -1,0 +1,5 @@
+6e2b7044c199 ("mm, compaction: make fast_isolate_freepages() stay within zone")
+73a6e474cb37 ("mm: memmap_init: iterate over memblock regions rather that check each PFN")
+4c6058814ec4 ("mm: factor out next_present_section_nr()")
+948c436e463d ("mm/page_alloc: fix and rework pfn handling in memmap_init_zone()")
+3f1353552e25 ("mm/page_alloc: skip non present sections on zone initialization")

@@ -1,0 +1,3 @@
+1b9231e7e148 ("igb: Only call skb_tx_timestamp after descriptors are ready")
+74344e32fcc0 ("igb: avoid permanent lock of *_PTP_TX_IN_PROGRESS")
+7cc6fd4c60f2 ("igb: Don't bother clearing Tx buffer_info in igb_clean_tx_ring")

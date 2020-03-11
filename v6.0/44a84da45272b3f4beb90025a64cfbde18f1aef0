@@ -1,0 +1,5 @@
+44a84da45272 ("io_uring: use call_rcu_hurry if signaling an eventfd")
+21a091b970cd ("io_uring: signal registered eventfd to process deferred task work")
+d8e9214f119d ("io_uring: move io_eventfd_put")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

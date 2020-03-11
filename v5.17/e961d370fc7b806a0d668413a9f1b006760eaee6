@@ -1,0 +1,5 @@
+e961d370fc7b ("[elf][non-regset] use elf_core_copy_task_regs() for dumper as well")
+9a938eba8d28 ("kill coredump_params->regs")
+6a542d1d5f6c ("kill signal_pt_regs()")
+9ec7d3230717 ("coredump/elf: Pass coredump_params into fill_note_info")
+a99a3e2efaf1 ("coredump: Move definition of struct coredump_params into coredump.h")

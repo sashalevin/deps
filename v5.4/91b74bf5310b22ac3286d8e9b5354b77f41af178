@@ -1,0 +1,4 @@
+91b74bf5310b ("IB/mlx5: Optimize u64 division on 32-bit arches")
+685eff513183 ("IB/mlx5: Use div64_u64 for num_var_hw_entries calculation")
+f164be8c0366 ("IB/mlx5: Extend caps stage to handle VAR capabilities")
+50211ec9443f ("RDMA/mlx5: Split sig_err MR data into its own xarray")

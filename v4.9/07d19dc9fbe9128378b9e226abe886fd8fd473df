@@ -1,0 +1,4 @@
+07d19dc9fbe9 ("vfs: avoid problematic remapping requests into partial EOF block")
+22725ce4e4a0 ("vfs: fix isize/pos/len checks for reflink & dedupe")
+29ac8e856cb3 ("ocfs2: implement the VFS clone_range, copy_range, and dedupe_range features")
+876bec6f9bbf ("vfs: refactor clone/dedupe_file_range common functions")

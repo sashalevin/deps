@@ -1,0 +1,6 @@
+3e917cc305c6 ("erofs: make filesystem exportable")
+06252e9ce05b ("erofs: dax support for non-tailpacking regular file")
+a08e67a02802 ("erofs: iomap support for non-tailpacking DIO")
+d3938ee23e97 ("erofs: derive atime instead of leaving it empty")
+f57a3fe44995 ("erofs: convert to use the new mount fs_context api")
+e7cda1ee94f4 ("erofs: code cleanup by removing ifdef macro surrounding")

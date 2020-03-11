@@ -1,0 +1,5 @@
+2b2da6574e77 ("usb: dwc3: Avoid unmapping USB requests if endxfer is not complete")
+b44c0e7fef51 ("usb: dwc3: gadget: conditionally remove requests")
+e4cf6580ac74 ("usb: dwc3: gadget: Wait for ep0 xfers to complete during dequeue")
+876a75cb520f ("usb: dwc3: gadget: Skip resizing EP's TX FIFO if already resized")
+9f607a309fbe ("usb: dwc3: Resize TX FIFOs to meet EP bursting requirements")

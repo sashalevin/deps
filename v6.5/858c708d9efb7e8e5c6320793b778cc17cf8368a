@@ -1,0 +1,4 @@
+858c708d9efb ("block: move the bi_size update out of __bio_try_merge_page")
+613699050a49 ("block: move the bi_size overflow check in __bio_try_merge_page")
+0eca8b6f97ac ("block: move the bi_vcnt check out of __bio_try_merge_page")
+939e1a370330 ("block: move the BIO_CLONED checks out of __bio_try_merge_page")

@@ -1,0 +1,6 @@
+970024f031ae ("mtd: rawnand: cs553x: Stop using nand_release()")
+c9e1817ff945 ("mtd: rawnand: cs553x: Declare controllers instead of NAND chips")
+7e534323c416 ("mtd: rawnand: Pass a nand_chip object to chip->read_xxx() hooks")
+59ac276f2227 ("mtd: rawnand: Pass a nand_chip object to nand_release()")
+47bd59e538d4 ("mtd: rawnand: plat_nand: Pass a nand_chip object to all platform_nand_ctrl hooks")
+7525c9518ea6 ("mtd: rawnand: Get rid of the ->read_word() hook")

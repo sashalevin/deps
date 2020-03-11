@@ -1,0 +1,7 @@
+f18ac551e503 ("exec: Move bprm_mm_init into alloc_bprm")
+60d9ad1d1d7f ("exec: Move initialization of bprm->filename into alloc_bprm")
+0a8f36eb48f6 ("exec: Factor out alloc_bprm")
+25cf336de51b ("exec: Remove do_execve_file")
+8890b29341f3 ("exec: Move handling of the point of no return to the top level")
+1507b7a30ad2 ("exec: Rename the flag called_exec_mmap point_of_no_return")
+89826cce3754 ("exec: Make unlocking exec_update_mutex explict")

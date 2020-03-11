@@ -1,0 +1,5 @@
+4d6bde512a86 ("platform/x86: dell-laptop: Filter out spurious keyboard backlight change events")
+9c656b07997f ("platform/x86: dell-*: Call new led hw_changed API on kbd brightness change")
+e5bf5df7858e ("platform/x86: dell-laptop: Protect kbd_state against races")
+1c7e28246e98 ("platform/x86: dell-laptop: Refactor kbd_led_triggers_store()")
+1d161d4cd719 ("platform/x86: dell-laptop: Use brightness_set_blocking for kbd_led_level_set")

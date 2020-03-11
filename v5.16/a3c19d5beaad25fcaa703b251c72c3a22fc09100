@@ -1,0 +1,8 @@
+a3c19d5beaad ("KVM: SVM: Nullify vcpu_(un)blocking() hooks if AVIC is disabled")
+54744e17f031 ("KVM: SVM: Move svm_hardware_setup() and its helpers below svm_x86_ops")
+935a7333958e ("KVM: SVM: Drop AVIC's intermediate avic_set_running() helper")
+af52f5aa5c1b ("KVM: SVM: Use kvm_vcpu_is_blocking() in AVIC load to handle preemption")
+e422b8896948 ("KVM: SVM: Remove unnecessary APICv/AVIC update in vCPU unblocking path")
+4732f2444acd ("KVM: x86: Making the module parameter of vPMU more common")
+1af4a1199a41 ("KVM: SVM: Rename get_max_npt_level() to get_npt_level()")
+b1d66dad65dc ("KVM: x86/svm: Add module param to control PMU virtualization")

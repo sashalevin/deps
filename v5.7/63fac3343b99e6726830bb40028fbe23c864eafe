@@ -1,0 +1,6 @@
+63fac3343b99 ("Bluetooth: btbcm: Support per-board firmware variants")
+801b4c027b44 ("Bluetooth: btbcm: disable read tx power for some Macs with the T2 Security chip")
+74530a639adf ("Bluetooth: btbcm: Try multiple Patch filenames when loading the Patch firmware")
+f53b975cf113 ("Bluetooth: btbcm: Bail sooner from btbcm_initialize() when not loading fw")
+2fcdd562b91b ("Bluetooth: btbcm: Make btbcm_initialize() print local-name on re-init too")
+0287c5d84f5c ("Bluetooth: btbcm: Fold Patch loading + applying into btbcm_initialize()")

@@ -1,0 +1,4 @@
+2e487c357917 ("x86/entry/64: Split X32 syscall table into its own file")
+cc42c045af1f ("x86/entry/64: Move sys_ni_syscall stub to common.c")
+6e4847640c6a ("syscalls/x86: Fix function types in COND_SYSCALL")
+f48f01a92cca ("syscalls/x86: Use the correct function type for sys_ni_syscall")

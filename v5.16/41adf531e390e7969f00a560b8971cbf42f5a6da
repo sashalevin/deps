@@ -1,0 +1,7 @@
+41adf531e390 ("blk-mq: don't run might_sleep() if the operation needn't blocking")
+bcc330f42f44 ("blk-mq: pass request queue to blk_mq_run_dispatch_ops")
+704b914f15fb ("blk-mq: move srcu from blk_mq_hw_ctx to request_queue")
+2a904d00855f ("blk-mq: remove hctx_lock and hctx_unlock")
+1e9c23034d7b ("blk-mq: move more plug handling from blk_mq_submit_bio into blk_add_rq_to_plug")
+0c5bcc92d94a ("blk-mq: simplify the plug handling in blk_mq_submit_bio")
+e16e506ccd67 ("block: merge disk_scan_partitions and blkdev_reread_part")

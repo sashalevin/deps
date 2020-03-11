@@ -1,0 +1,4 @@
+cc2b8ed13695 ("arm64/bpf: use movn/movk/movk sequence to generate kernel addresses")
+8c11ea5ce13d ("bpf, arm64: fix getting subprog addr from aux for calls")
+6d2eea6fb079 ("bpf, arm64: optimize 32/64 immediate emission")
+db496944fdaa ("bpf: arm64: add JIT support for multi-function programs")

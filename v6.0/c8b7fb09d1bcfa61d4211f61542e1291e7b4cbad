@@ -1,0 +1,7 @@
+c8b7fb09d1bc ("x86/smpboot: Remove cpu_callin_mask")
+9d349d47f0e3 ("x86/smpboot: Make TSC synchronization function call based")
+d4f28f07c2fe ("x86/smpboot: Move synchronization masks to SMP boot code")
+2b3be65d2e4f ("x86/smpboot: Split up native_cpu_up() into separate phases and document them")
+c7f15dd3f0e9 ("x86/smpboot: Remove unnecessary barrier()")
+5475abbde77f ("x86/smpboot: Remove the CPU0 hotplug kludge")
+134a12827bc5 ("x86/smpboot: Avoid pointless delay calibration if TSC is synchronized")

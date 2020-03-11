@@ -1,0 +1,5 @@
+9a00df311b5c ("perf python: Check if clang supports -fno-semantic-interposition")
+7952fa3b54bf ("perf python: Remove -fstack-protector-strong if clang doesn't have it")
+a5dcc4ca9129 ("perf python: Remove -fstack-clash-protection when building with some clang versions")
+8b2f245faa62 ("perf python: More portable way to make CFLAGS work with clang")
+5508672d7f49 ("perf python: Remove -mcet and -fcf-protection when building with clang")

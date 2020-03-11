@@ -1,0 +1,6 @@
+cbdad1f246dd ("crypto: algif_aead - Do not set MAY_BACKLOG on the async path")
+8d6053984258 ("crypto: null - Remove VLA usage of skcipher")
+dc26c17f743a ("crypto: aead - prevent using AEADs without setting key")
+d53c51357923 ("crypto: af_alg - fix race accessing cipher request")
+7d2c3f54e6f6 ("crypto: af_alg - remove locking in async callback")
+8e1fa89aa8bc ("crypto: algif_aead - skip SGL entries with NULL page")

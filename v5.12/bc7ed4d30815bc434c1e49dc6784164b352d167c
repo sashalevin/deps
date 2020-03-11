@@ -1,0 +1,8 @@
+bc7ed4d30815 ("drm/i915/perf: Apply Wa_18013179988")
+204129a211fc ("drm/i915: Use to_gt() helper for GGTT accesses")
+b65a9489730a ("drm/i915/userptr: Probe existence of backing struct pages upon creation")
+aef7b67a7956 ("drm/i915/uapi: convert drm_i915_gem_userptr to kernel doc")
+f1ac8a029260 ("drm/i915: Fix pread/pwrite to work with new locking rules.")
+20ee27bd84a8 ("drm/i915: Make compilation of userptr code depend on MMU_NOTIFIER.")
+c6bcc0c2fdfd ("drm/i915: Reject UNSYNCHRONIZED for userptr, v2.")
+02b64a4a0cb1 ("drm/i915: Reject more ioctls for userptr, v2.")

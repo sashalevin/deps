@@ -1,0 +1,4 @@
+dc2f39fd1bf2 ("x86/fpu: Cleanup the on_boot_cpu clutter")
+ce38f038ede7 ("x86/fpu: Get rid of fpu__get_supported_xfeatures_mask()")
+4e8e4313cf81 ("x86/fpu: Make xfeatures_mask_all __ro_after_init")
+f9dfb5e390fa ("x86/fpu: Make init_fpstate correct with optimized XSAVE")

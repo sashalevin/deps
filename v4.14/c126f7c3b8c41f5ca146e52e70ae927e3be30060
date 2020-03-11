@@ -1,0 +1,3 @@
+c126f7c3b8c4 ("i2c: Make i2c_recover_bus() to return -EBUSY if bus recovery unimplemented")
+e1eb7d28c075 ("i2c: remove legacy integer scl/sda gpio for recovery")
+3991c5c80bea ("i2c: Switch to using gpiod interface for gpio bus recovery")

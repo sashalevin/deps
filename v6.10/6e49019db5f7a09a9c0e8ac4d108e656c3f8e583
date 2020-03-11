@@ -1,0 +1,3 @@
+6e49019db5f7 ("mm/migrate: putback split folios when numa hint migration fails")
+ee86814b0562 ("mm/migrate: move NUMA hinting fault folio isolation + checks under PTL")
+4b88c23ab8c9 ("mm/migrate: make migrate_misplaced_folio() return 0 on success")

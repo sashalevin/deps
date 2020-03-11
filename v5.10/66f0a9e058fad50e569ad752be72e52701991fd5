@@ -1,0 +1,4 @@
+66f0a9e058fa ("powerpc/vdso64: remove meaningless vgettimeofday.o build rule")
+bce74491c300 ("powerpc/vdso: fix unnecessary rebuilds of vgettimeofday.o")
+7fe2de246e21 ("powerpc/vdso: Stripped VDSO is not needed, don't build it")
+ab037dd87a2f ("powerpc/vdso: Switch VDSO to generic C implementation.")

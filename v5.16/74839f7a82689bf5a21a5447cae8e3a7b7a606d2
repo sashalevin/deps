@@ -1,0 +1,6 @@
+74839f7a8268 ("ibmvnic: Introduce send sub-crq direct")
+5cb431dcf804 ("ibmvnic: Return error code on TX scrq flush fail")
+6db541ae279b ("ibmvnic: Ensure login failure recovery is safe from other resets")
+23cc5f667453 ("ibmvnic: Do partial reset on login failure")
+61772b0908c6 ("ibmvnic: don't release napi in __ibmvnic_open()")
+b6ee566cf394 ("ibmvnic: Update driver return codes")

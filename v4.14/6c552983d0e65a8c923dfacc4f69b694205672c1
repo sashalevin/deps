@@ -1,0 +1,8 @@
+6c552983d0e6 ("powerpc/sysdev: Add __init attribute to eligible functions")
+a3bf9fbdad60 ("powerpc/pseries: Fix xive=off command line")
+8acb88682cc0 ("powerpc/ipic: drop unused functions")
+c7e900c05b8f ("powerpc/ipic: Remove unused ipic_set_priority()")
+8ca2d5151e7f ("powerpc/prom_init: Move a few remaining statics to appropriate sections")
+c886087caee7 ("powerpc/prom_init: Move prom_radix_disable to __prombss")
+028555a590d6 ("powerpc/xive: fix hcall H_INT_RESET to support long busy delays")
+7a22d6321c3d ("powerpc/mm/radix: Update command line parsing for disable_radix")

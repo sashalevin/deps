@@ -1,0 +1,4 @@
+76313c70c52f ("uml: Create a private mount of proc for mconsole")
+af1abab986b8 ("uml: Don't consult current to find the proc_mnt in mconsole_proc")
+378c6520e7d2 ("fs/coredump: prevent fsuid=0 dumps into user-controlled directories")
+03927c8acb63 ("coredump: Use 64bit time for unix time of coredump")

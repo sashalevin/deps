@@ -1,0 +1,4 @@
+52cc02b91028 ("kbuild: check CONFIG_AS_IS_LLVM instead of LLVM_IAS")
+ec3a5cb61146 ("riscv: Use -mno-relax when using lld linker")
+b8a9092330da ("Kbuild: do not emit debug info for assembly with LLVM_IAS=1")
+695afd3d7d58 ("kbuild: Simplify DEBUG_INFO Kconfig handling")

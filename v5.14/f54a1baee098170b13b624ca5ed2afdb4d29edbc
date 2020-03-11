@@ -1,0 +1,5 @@
+f54a1baee098 ("wifi: cfg80211: Avoid RCU debug splat in __cfg80211_bss_update error paths")
+31c5e92be593 ("wifi: cfg80211: ensure cfg80211_bss_update frees IEs on error")
+6b7c93c1439c ("wifi: cfg80211: keep bss_lock held when informing")
+0b7808818cb9 ("wifi: cfg80211: fix BSS refcounting bugs")
+a5199b5626cd ("cfg80211: hold bss_lock while updating nontrans_list")

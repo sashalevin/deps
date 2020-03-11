@@ -1,0 +1,8 @@
+171e502c6a1f ("clk: at91: clk-master: add support for parent_hw")
+8e842f02af7e ("clk: at91: clk-master: remove dead code")
+facb87ad7560 ("clk: at91: sama7g5: remove prescaler part of master clock")
+7029db09b202 ("clk: at91: clk-master: add notifier for divider")
+a27748adeaca ("clk: at91: clk-master: mask mckr against layout->mask")
+c2910c00fee4 ("clk: at91: clk-master: check if div or pres is zero")
+36971566ea7a ("clk: at91: re-factor clocks suspend/resume")
+c405f5c15e9f ("clk: at91: check pmc node status before registering syscore ops")

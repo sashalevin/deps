@@ -1,0 +1,5 @@
+53b54ad074de ("PCI/DPC: Await readiness of secondary bus after reset")
+ac91e6980563 ("PCI: Unify delay handling for reset and resume")
+8ef0217227b4 ("PCI/PM: Observe reset delay irrespective of bridge_d3")
+730643d33e2d ("PCI/PM: Resume subordinate bus in bus type callbacks")
+18a94192e20d ("PCI/PM: Define pci_restore_standard_config() only for CONFIG_PM_SLEEP")

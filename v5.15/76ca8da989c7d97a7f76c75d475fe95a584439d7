@@ -1,0 +1,4 @@
+76ca8da989c7 ("HID: bigben: use spinlock to safely schedule workers")
+27d2a2fd844e ("HID: bigben_worker() remove unneeded check on report_field")
+9fefb6201c4f ("HID: bigben: use spinlock to protect concurrent accesses")
+918aa1ef104d ("HID: bigbenff: prevent null pointer dereference")

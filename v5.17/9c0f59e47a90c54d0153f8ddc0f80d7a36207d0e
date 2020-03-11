@@ -1,0 +1,6 @@
+9c0f59e47a90 ("HID: i2c-hid: remove I2C_HID_READ_PENDING flag to prevent lock-up")
+dbe0dd5fd2e0 ("HID: i2c-hid: explicitly code setting and sending reports")
+b26fc3161b78 ("HID: i2c-hid: refactor reset command")
+d34c6105499b ("HID: i2c-hid: use "struct i2c_hid" as argument in most calls")
+a5e5e03e9476 ("HID: i2c-hid: fix GET/SET_REPORT for unnumbered reports")
+cf5b2fb012c0 ("HID: i2c-hid: fix handling numbered reports with IDs of 15 and above")

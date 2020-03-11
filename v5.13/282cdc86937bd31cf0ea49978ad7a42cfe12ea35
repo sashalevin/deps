@@ -1,0 +1,7 @@
+282cdc86937b ("io_uring: add more locking annotations for submit")
+2a2758f26df5 ("io_uring: refactor io_submit_flush_completions()")
+441b8a7803bf ("io_uring: optimise non-drain path")
+76cc33d79175 ("io_uring: refactor io_req_defer()")
+f18ee4cf0a27 ("io_uring: optimise completion timeout flushing")
+b52ecf8cb5b5 ("io_uring: move ctx->flags from SQ cacheline")
+b986af7e2df4 ("io_uring: shuffle rarely used ctx fields")

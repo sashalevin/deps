@@ -1,0 +1,8 @@
+68931c7dd71e ("net/mlx5e: Update check for merged eswitch device")
+b1d90e6bbd14 ("net/mlx5e: Offload TC eswitch rules for VFs belonging to different PFs")
+1cab1cd74bee ("net/mlx5e: Use local actions var while processing offloaded TC flow actions")
+31c8eba5e860 ("net/mlx5e: Return success when TC offloaded fdb actions parsed ok")
+6acfbf38a98a ("net/mlx5e: Offload tc vlan push/pop using HW action")
+001a2fc0c8cc ("net/mlx5e: Return error if prio is specified when offloading eswitch vlan push")
+5c65c564c962 ("net/mlx5e: Support offloading TC NIC hairpin flows")
+77ab67b7f0f9 ("net/mlx5e: Basic setup of hairpin object")

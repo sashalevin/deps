@@ -1,0 +1,8 @@
+c7c0c3c30f4e ("mm/vma: inline munmap operation in mmap_region()")
+8be7258aad44 ("mseal: add mseal syscall")
+8a0fe564bb2e ("mm: use get_unmapped_area_vmflags()")
+529ce23a764f ("mm: switch mm->get_unmapped_area() to a flag")
+5def1e0f476d ("proc: refactor pde_get_unmapped_area as prep")
+317460317a02 ("bpf: Introduce bpf_arena.")
+cf2c2e4a3d91 ("bpf: Plumb get_unmapped_area() callback into bpf_map_ops")
+4b2765ae410a ("Merge tag 'for-netdev' of https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

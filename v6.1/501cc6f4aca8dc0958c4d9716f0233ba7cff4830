@@ -1,0 +1,8 @@
+501cc6f4aca8 ("nvme-keyring: implement nvme_tls_psk_default()")
+3bac969b16b7 ("nvme-keyring: define a 'psk' keytype")
+9d77eb527784 ("nvme-keyring: register '.nvme' keyring")
+e481fc0a3777 ("nvme-auth: guarantee dhchap buffers under memory pressure")
+b7d604cae8f6 ("nvme-auth: don't keep long lived 4k dhchap buffer")
+193a8c7e5f1a ("nvme-auth: don't ignore key generation failures when initializing ctrl keys")
+f6b182fbd5c6 ("nvme-auth: remove redundant buffer deallocations")
+0c999e69c40a ("nvme-auth: rename authentication work elements")

@@ -1,0 +1,4 @@
+c195d66a8a75 ("crypto: af_alg - Work around empty control messages without MSG_MORE")
+f3c802a1f300 ("crypto: algif_aead - Only wake up when ctx->more is zero")
+466e0759269d ("crypto: af_alg - make some functions static")
+11edb555966e ("crypto: af_alg - wait for data at beginning of recvmsg")

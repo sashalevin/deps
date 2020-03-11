@@ -1,0 +1,8 @@
+ae225fe27b93 ("svcrdma: Add an async version of svc_rdma_send_ctxt_put()")
+a944209c11af ("SUNRPC: Revert 579900670ac7 ("svcrdma: Remove unused sc_pages field")")
+6c8c84f52510 ("svcrdma: Fewer calls to wake_up() in Send completion handler")
+7d81ee8722d6 ("svcrdma: Single-stage RDMA Read")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")
+579900670ac7 ("svcrdma: Remove unused sc_pages field")
+2a1e4f21d841 ("svcrdma: Normalize Send page handling")
+e844d307d46c ("svcrdma: Add a "deferred close" helper")

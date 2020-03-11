@@ -1,0 +1,7 @@
+1f50b80a0938 ("kbuild: move CONFIG_TRIM_UNUSED_KSYMS code unneeded for external module")
+07a422bb213a ("kbuild: restore autoksyms.h touch to the top Makefile")
+d8821622c889 ("kbuild: move 'scripts' target below")
+6b90bd4ba40b ("GCC plugin infrastructure")
+ba79d401f1ae ("kbuild: fix call to adjust_autoksyms.sh when output directory specified")
+2e8d696b79e9 ("kbuild: drop FORCE from PHONY targets")
+23121ca2b56b ("kbuild: create/adjust generated/autoksyms.h")

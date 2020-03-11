@@ -1,0 +1,4 @@
+ab921f3cdbec ("net: sctp: Fix negotiation of the number of data streams.")
+2075e50caf5e ("sctp: convert to genradix")
+cfe4bd7a257f ("sctp: check and update stream->out_curr when allocating stream_out")
+e1e46479847e ("sctp: not increase stream's incnt before sending addstrm_in request")

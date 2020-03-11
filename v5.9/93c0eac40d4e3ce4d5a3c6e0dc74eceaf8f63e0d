@@ -1,0 +1,7 @@
+93c0eac40d4e ("x86/mm: support __HAVE_ARCH_PTE_SWP_EXCLUSIVE also on 32bit")
+b7301f20105a ("x86/mm/pae: Be consistent with pXXp_get_and_clear()")
+7a9b8bdb6af3 ("x86/mm/pae: Don't (ab)use atomic64")
+fbfdec9989e6 ("x86/mm/pae: Make pmd_t similar to pte_t")
+9c61d5321e94 ("mm/x86: use SWP_TYPE_BITS in 3-level swap macros")
+3e20889cfbee ("x86/pgtable: support __HAVE_ARCH_PTE_SWP_EXCLUSIVE")
+58a18fe95e83 ("x86/mm/64: Do not sync vmalloc/ioremap mappings")

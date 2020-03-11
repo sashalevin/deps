@@ -1,0 +1,5 @@
+1ff297584fad ("randomize_kstack: Improve docs on requirements/rationale")
+39218ff4c625 ("stack: Optionally randomize kernel stack offset each syscall")
+315da87c0f99 ("kbuild: fix duplicated flags in DEBUG_CFLAGS")
+121c5d08d53c ("kbuild: Only add -fno-var-tracking-assignments for old GCC versions")
+f0fe00d4972a ("security: allow using Clang's zero initialization for stack variables")

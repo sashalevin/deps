@@ -1,0 +1,6 @@
+c9e8701132e6 ("iommu/amd: Setup GCR3 table in advance if domain is SVA capable")
+c5ebd0962539 ("iommu/amd: Introduce per device DTE update function")
+cf70873e3d01 ("iommu/amd: Refactor GCR3 table helper functions")
+4ebd4c7f2501 ("iommu/amd: Refactor attaching / detaching device functions")
+6f35fe5d8a0a ("iommu/amd: Introduce get_amd_iommu_from_dev()")
+a6ffb9b3d71e ("iommu/amd: Pass struct iommu_dev_data to set_dte_entry()")

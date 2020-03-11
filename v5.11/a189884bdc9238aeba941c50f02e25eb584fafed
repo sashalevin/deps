@@ -1,0 +1,7 @@
+a189884bdc92 ("KVM: arm64: Have kvm_psci_vcpu_on() use WRITE_ONCE() to update mp_state")
+b171f9bbb130 ("KVM: arm64: Track vCPU power state using MP state values")
+1e5794295c5d ("KVM: arm64: Dedupe vCPU power off helpers")
+dfefa04a90cf ("KVM: arm64: Drop unused param from kvm_psci_version()")
+dda0190d7ff7 ("KVM: arm64: Fix comment on barrier in kvm_psci_vcpu_on()")
+e10ecb4d6c07 ("KVM: arm64: Enforce reserved bits for PSCI target affinities")
+a8e190cdae1b ("KVM: arm64: Implement the TRNG hypervisor call")

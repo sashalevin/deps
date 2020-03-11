@@ -1,0 +1,8 @@
+4932381ee2a7 ("mm, memory_hotplug: move movable_node to the hotplug proper")
+f70029bbaacb ("mm, memory_hotplug: drop CONFIG_MOVABLE_NODE")
+41a9ada3e6b4 ("of/fdt: mark hotpluggable memory")
+114cf3cc55ec ("mm: enable CONFIG_MOVABLE_NODE on non-x86 arches")
+39fa104d5b87 ("mm: remove x86-only restriction of movable_node")
+8604d9e534a3 ("memory_hotplug: introduce CONFIG_MEMORY_HOTPLUG_DEFAULT_ONLINE")
+31bc3858ea3e ("memory-hotplug: add automatic onlining policy for the newly added memory")
+036fbb21de7c ("memblock: fix section mismatch")

@@ -1,0 +1,7 @@
+13ea52551708 ("KVM: Reinstall old memslots if arch preparation fails")
+31fc4f95dddc ("KVM: leverage change to adjust slots->used_slots in update_memslots()")
+ad6260da1e23 ("KVM: x86: drop legacy device assignment")
+0292e169b2d9 ("KVM: pci-assign: do not map smm memory slot pages in vt-d page tables")
+c761159cf81b ("KVM: x86: use pic/ioapic destructor when destroy vm")
+460df4c1fc7c ("KVM: race-free exit from KVM_RUN without POSIX signals")
+d9c0e59f92d4 ("Merge tag 'kvm_mips_4.11_1' of git://git.kernel.org/pub/scm/linux/kernel/git/jhogan/kvm-mips into HEAD")

@@ -1,0 +1,4 @@
+5882e5acf18d ("riscv: kdump: Implement crashkernel=X,[high,low]")
+d414cb379ac3 ("riscv: mm: init: use IS_ENABLED(CONFIG_KEXEC_CORE) instead of #ifdef")
+decf89f86ecd ("riscv: try to allocate crashkern region from 32bit addressible memory")
+a7259df76702 ("memblock: make memblock_find_in_range method private")

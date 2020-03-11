@@ -1,0 +1,8 @@
+46a7db492e7a ("ataflop: address add_disk() error handling on probe")
+4ddb85d36613 ("ataflop: remove ataflop_probe_lock mutex")
+deae1138d047 ("block/ataflop: provide a helper for cleanup up an atari disk")
+573effb29801 ("block/ataflop: add registration bool before calling del_gendisk()")
+44a469b6acae ("block/ataflop: use the blk_cleanup_disk() helper")
+bf9c0538e485 ("ataflop: use a separate gendisk for each media format")
+df561f6688fe ("treewide: Use fallthrough pseudo-keyword")
+37711e5e2325 ("Merge tag 'nfs-for-5.9-1' of git://git.linux-nfs.org/projects/trondmy/linux-nfs")

@@ -1,0 +1,6 @@
+5fe855169f97 ("powerpc/irq: Remove arch_local_irq_restore() for !CONFIG_CC_HAS_ASM_GOTO")
+ff058a8ada5d ("powerpc/64: warn if local irqs are enabled in NMI or hardirq context")
+862fa563524b ("powerpc/64: interrupt soft-enable race fix")
+60a707d0c99a ("powerpc/kuap: Restore AMR after replaying soft interrupts")
+59d512e4374b ("powerpc/64: irq replay remove decrementer overflow check")
+6601ec1c2ba9 ("powerpc: Remove get_tb_or_rtc()")

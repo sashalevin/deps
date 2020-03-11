@@ -1,0 +1,8 @@
+357c57294831 ("powerpc/ppc-opcode: Reuse raw instruction macros to stringify")
+db551f8cc6a3 ("powerpc/ppc-opcode: Introduce PPC_RAW_* macros for base instruction encoding")
+70d7cdaf0548 ("powerpc/64s: Move branch cache flushing bcctr variant to ppc-ops.h")
+32db09d992dd ("powerpc/pmem: Add new instructions for persistent storage and sync")
+6c46fcce39f0 ("powerpc/64s/radix: keep kernel ERAT over local process/guest invalidates")
+fe7946ce0808 ("powerpc/64s: Rename PPC_INVALIDATE_ERAT to PPC_ISA_3_0_INVALIDATE_ERAT")
+500871125920 ("KVM: PPC: Book3S HV: Invalidate ERAT when flushing guest TLB entries")
+0ef0fd351550 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

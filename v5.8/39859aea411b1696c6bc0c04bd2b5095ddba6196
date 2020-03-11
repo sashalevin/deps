@@ -1,0 +1,5 @@
+39859aea411b ("powerpc: Enable compile-time check for syscall handlers")
+fdfdcfd50493 ("powerpc/build: put sys_call_table in .data.rel.ro if RELOCATABLE")
+c7acee3d2f12 ("powerpc: align syscall table for ppc32")
+14b3c9d24a7a ("powerpc/syscalls: switch to generic syscalltbl.sh")
+865fa29f7dd1 ("arch: syscalls: add missing FORCE and fix 'targets' to make if_changed work")

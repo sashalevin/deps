@@ -1,0 +1,8 @@
+ca6acc25250a ("drm/i915/gtt: Trust the uncached store to flush wcb")
+cbc4e9e6a6d3 ("drm/i915: Split ggtt/alasing_gtt unbind_vma")
+1188bc66eb33 ("drm/i915: Don't special case teardown of aliasing_ppgtt")
+894ccebee2b0 ("drm/i915: Micro-optimise gen8_ppgtt_insert_entries()")
+b31144c0daa8 ("drm/i915: Micro-optimise gen6_ppgtt_insert_entries()")
+ba7a5741b9ee ("drm/i915: Micro-optimise i915_get_ggtt_vma_pages()")
+6cde9a02e001 ("drm/i915: Extract aliasing ppgtt setup")
+51a831a7725b ("Merge remote-tracking branch 'airlied/drm-next' into drm-intel-next-queued")

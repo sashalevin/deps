@@ -1,0 +1,8 @@
+77ab3a1ecb19 ("drm/i915/display/dg2: Read CD clock from squasher table")
+0bb94e03834e ("drm/i915: s/cdclk_state/cdclk_config/")
+65c88a866d70 ("drm/i915: s/need_cd2x_updare/can_cd2x_update/")
+b4db3a8c689b ("drm/i915: Collect more cdclk state under the same roof")
+54f09d2342b0 ("drm/i915: Move more cdclk state handling into the cdclk code")
+3e9f55df59f7 ("drm/i915/cdclk: use intel_de_*() functions for register access")
+231946109ea4 ("drm/i915/cdclk: use new struct drm_device logging macros")
+56273062e760 ("drm/i915: Switch intel_crtc_disable_noatomic() to intel_ types")

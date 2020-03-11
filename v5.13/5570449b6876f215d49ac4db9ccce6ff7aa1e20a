@@ -1,0 +1,6 @@
+5570449b6876 ("dma-direct: don't call dma_set_decrypted for remapped allocations")
+4d0564785bb0 ("dma-direct: factor out dma_set_{de,en}crypted helpers")
+f4111e39a52a ("swiotlb: Add restricted DMA alloc/free support")
+903cd0f315fe ("swiotlb: Use is_swiotlb_force_bounce for swiotlb data bouncing")
+6f2beb268a5d ("swiotlb: Update is_swiotlb_active to add a struct device argument")
+0a65579cdd28 ("swiotlb: Refactor swiotlb init functions")

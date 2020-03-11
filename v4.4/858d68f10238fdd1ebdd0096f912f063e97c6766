@@ -1,0 +1,4 @@
+858d68f10238 ("bpf: bpf_event_entry_gen's alloc needs to be in atomic context")
+3b1efb196eee ("bpf, maps: flush own entries on perf map release")
+5b6c1b4d46b0 ("bpf, trace: use READ_ONCE for retrieving file ptr")
+e03e7ee34fdd ("perf/bpf: Convert perf_event_array to use struct file")

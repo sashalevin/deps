@@ -1,0 +1,5 @@
+f747313249b7 ("usb: dwc2: fix a devres leak in hw_enable upon suspend resume")
+54c196060510 ("usb: dwc2: Always disable regulators on driver teardown")
+33a06f1300a7 ("usb: dwc2: Fix error path in gadget registration")
+207324a321a8 ("usb: dwc2: Postponed gadget registration to the udc class driver")
+9bb073a053f0 ("usb: gadget: dwc2: fix memory leak in gadget_init()")

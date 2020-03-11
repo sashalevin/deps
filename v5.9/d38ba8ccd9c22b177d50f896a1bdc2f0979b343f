@@ -1,0 +1,7 @@
+d38ba8ccd9c2 ("KVM: arm64/mmu: count KVM s2 mmu usage in secondary pagetable stats")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")
+694d071f8d85 ("KVM: arm64: Filter out the case of only changing permissions from stage-2 map path")
+8ed80051c8c3 ("KVM: arm64: Adjust partial code of hyp stage-1 map and guest stage-2 map")
+5c646b7e1d8b ("KVM: arm64: Fix memory leak on stage2 update of a valid PTE")
+7efe8ef27402 ("KVM: arm64: Allocate stage-2 pgd pages with GFP_KERNEL_ACCOUNT")

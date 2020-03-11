@@ -1,0 +1,5 @@
+635e3f3e47f2 ("riscv: uaccess: fix __put_kernel_nofault()")
+d464118cdc41 ("riscv: implement __get_kernel_nofault and __put_user_nofault")
+6bd33e1ece52 ("riscv: add nommu support")
+a4c3733d32a7 ("riscv: abstract out CSR names for supervisor vs machine mode")
+0c3ac28931d5 ("riscv: separate MMIO functions into their own header file")

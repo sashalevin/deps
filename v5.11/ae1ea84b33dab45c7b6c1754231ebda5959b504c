@@ -1,0 +1,8 @@
+ae1ea84b33da ("net: bridge: propagate error code and extack from br_mc_disabled_update")
+dcbdf1350e33 ("net: bridge: propagate extack through switchdev_port_attr_set")
+9e781401cbfc ("net: bridge: propagate extack through store_bridge_parm")
+7a572964e0c4 ("net: bridge: remove __br_vlan_filter_toggle")
+078bbb851ea6 ("net: bridge: don't print in br_switchdev_set_port_flag")
+304ae3bf1c1a ("net: bridge: offload all port flags at once in br_setport")
+8043c845b63a ("net: bridge: use switchdev for port flags set through sysfs too")
+bae33f2b5afe ("net: switchdev: remove the transaction structure from port attributes")

@@ -1,0 +1,6 @@
+e9e16917bc38 ("powerpc/xive: Use the "ibm, chip-id" property only under PowerNV")
+cf58b746665d ("powerpc/xive: Remove P9 DD1 flag XIVE_IRQ_FLAG_EOI_FW")
+b5277d18c65e ("powerpc/xive: Remove P9 DD1 flag XIVE_IRQ_FLAG_MASK_FW")
+4cc0e36df2c0 ("powerpc/xive: Remove P9 DD1 flag XIVE_IRQ_FLAG_SHIFT_BUG")
+a5021abc48a0 ("powerpc/xive: Add a debug_show handler to the XIVE irq_domain")
+b1f9be9392f0 ("powerpc/xive: Enforce load-after-store ordering when StoreEOI is active")

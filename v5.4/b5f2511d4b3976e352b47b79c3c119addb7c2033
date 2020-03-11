@@ -1,0 +1,8 @@
+b5f2511d4b39 ("perf record: Implement compatibility checks")
+899e5ffbf246 ("perf record: Introduce --switch-output-event")
+b38d85ef49cf ("perf bpf: Decouple creating the evlist from adding the SB event")
+ca6c9c8b107f ("perf top: Move sb_evlist to 'struct perf_top'")
+bc477d7983e3 ("perf record: Move sb_evlist to 'struct record'")
+eeb399b531a1 ("perf record: Put a copy of kcore into the perf.data directory")
+46e201efa15b ("perf data: Support single perf.data file directory")
+3dedec4f5ccc ("perf data: Move perf_dir_version into data.h")

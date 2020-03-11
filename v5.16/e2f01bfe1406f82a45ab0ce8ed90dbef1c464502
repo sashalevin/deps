@@ -1,0 +1,8 @@
+e2f01bfe1406 ("net: dsa: tag_sja1105: fix zeroization of ds->priv on tag proto disconnect")
+950a419d9de1 ("net: dsa: tag_sja1105: split sja1105_tagger_data into private and public sections")
+fcbf979a5b4b ("Revert "net: dsa: move sja1110_process_meta_tstamp inside the tagging protocol driver"")
+c79e84866d2a ("net: dsa: tag_sja1105: convert to tagger-owned data")
+22ee9f8e4011 ("net: dsa: sja1105: move ts_id from sja1105_tagger_data")
+bfcf14252220 ("net: dsa: sja1105: make dp->priv point directly to sja1105_tagger_data")
+6f6770ab1ce2 ("net: dsa: sja1105: remove hwts_tx_en from tagger data")
+d38049bbe760 ("net: dsa: sja1105: bring deferred xmit implementation in line with ocelot-8021q")

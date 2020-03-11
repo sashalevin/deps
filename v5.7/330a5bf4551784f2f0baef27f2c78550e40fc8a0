@@ -1,0 +1,7 @@
+330a5bf45517 ("btrfs: use dev_t to match device in device_matched")
+16cab91a0c8f ("btrfs: match stale devices by dev_t")
+770c79fb6550 ("btrfs: harden identification of a stale device")
+c124706900c2 ("btrfs: fix lockdep warning while mounting sprout fs")
+44cab9ba374a ("btrfs: refactor locked condition in btrfs_init_new_device")
+54eed6ae8d8e ("btrfs: make close_fs_devices return void")
+7f551d969037 ("btrfs: free alien device after device add")

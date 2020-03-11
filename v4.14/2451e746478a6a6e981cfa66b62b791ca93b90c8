@@ -1,0 +1,8 @@
+2451e746478a ("driver core: Avoid deferred probe due to fw_devlink_pause/resume()")
+ec7bd78498f2 ("driver core: Rename dev_links_info.defer_sync to defer_hook")
+cec72f3efc62 ("driver core: Don't do deferred probe in parallel with kernel_init thread")
+fefcfc968723 ("driver core: Remove check in driver_deferred_probe_force_trigger()")
+716a7a259690 ("driver core: fw_devlink: Add support for batching fwnode parsing")
+5f5377eaddfc ("driver core: Look for waiting consumers only for a fwnode's primary device")
+42926ac3cd50 ("driver core: Move code to the right part of the file")
+c8be6af9ef16 ("Merge v5.7-rc5 into driver-core-next")

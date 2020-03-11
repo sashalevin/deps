@@ -1,0 +1,7 @@
+a09128921820 ("Bluetooth: hci_conn: Fix hci_le_set_cig_params")
+f2f84a70f9d0 ("Bluetooth: hci_conn: Fix not allowing valid CIS ID")
+a0bfde167b50 ("Bluetooth: ISO: Add support for connecting multiple BISes")
+5b6d345d1b65 ("Bluetooth: hci_conn: Use kmemdup() to replace kzalloc + memcpy")
+6b9545dc9f8f ("Bluetooth: ISO: use hci_sync for setting CIG parameters")
+0fe8c8d07134 ("Bluetooth: Split bt_iso_qos into dedicated structures")
+a00a29b0eeea ("Bluetooth: hci_conn: Refactor hci_bind_bis() since it always succeeds")

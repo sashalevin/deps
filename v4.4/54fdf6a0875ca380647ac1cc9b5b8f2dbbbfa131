@@ -1,0 +1,6 @@
+54fdf6a0875c ("genirq: Introduce IRQD_MANAGED_SHUTDOWN")
+1bb0401680da ("genirq: Add missing comment for IRQD_STARTED")
+201d7f47f34b ("genirq: Handle NOAUTOEN interrupt setup proper")
+08d85f3ea99f ("irqdomain: Avoid activating interrupts more than once")
+9c2555835bb3 ("genirq: Introduce IRQD_AFFINITY_MANAGED flag")
+b354286effa5 ("irq: Privatize irq_common_data::state_use_accessors")

@@ -1,0 +1,7 @@
+7fa4142d8bdc ("scsi: qedf: Print fcport information on wait for upload timeout")
+a66c6cd2a8ad ("scsi: qedf: Wait for upload and link down processing during soft ctx reset")
+4b9b7fabb39b ("scsi: qedf: Improve firmware debug dump handling")
+f9a4a7f2c0f7 ("scsi: qedf: Remove setting DCBX pending during soft context reset")
+84b2ba6e427c ("scsi: qedf: Honor priority from DCBX FCoE App tag")
+ba17d379c2bf ("scsi: qedf: Add dcbx_not_wait module parameter so we won't wait for DCBX convergence to start discovery")
+a93755cf7e6e ("scsi: qedf: Sanity check FCoE/FIP priority value to make sure it's between 0 and 7")

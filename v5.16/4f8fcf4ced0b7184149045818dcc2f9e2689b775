@@ -1,0 +1,4 @@
+4f8fcf4ced0b ("mm/swap: swap_vma_readahead() do the pte_offset_map()")
+16ba391e9c6b ("swap: fold swap_ra_clamp_pfn into swap_ra_info")
+18ad72f5b718 ("swap: avoid a redundant pte map if ra window is 1")
+92bafb20b2ed ("mm/swap: use helper is_swap_pte() in swap_vma_readahead")

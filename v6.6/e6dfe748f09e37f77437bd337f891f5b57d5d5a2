@@ -1,0 +1,6 @@
+e6dfe748f09e ("drbd: atomically update queue limits in drbd_reconsider_queue_parameters")
+5eaee6e9c8f9 ("drbd: split out a drbd_discard_supported helper")
+e3992e02c970 ("drbd: don't set max_write_zeroes_sectors in decide_on_discard_support")
+e16344e50631 ("drbd: merge drbd_setup_queue_param into drbd_reconsider_queue_parameters")
+2828908d5cc8 ("drbd: refactor the backing dev max_segments calculation")
+342d81fde241 ("drbd: refactor drbd_reconsider_queue_parameters")

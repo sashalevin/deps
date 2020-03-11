@@ -1,0 +1,8 @@
+b7b4e785520f ("cpufreq: tegra186: Fix sparse 'incorrect type in assignment' warning")
+e010d1d25e47 ("cpufreq: tegra186: Fix get frequency callback")
+b89c01c96051 ("cpufreq: tegra186: Fix initial frequency")
+6cc3d0e9a097 ("cpufreq: tegra186: add CPUFREQ_NEED_INITIAL_FREQ_CHECK flag")
+a8b6966034ba ("cpufreq: tegra186: Don't validate the frequency table twice")
+3e3b507ef60c ("cpufreq: tegra186: Break after initialization is done for policy->cpu")
+939dc6f51e90 ("cpufreq: Add Tegra186 cpufreq driver")
+e13cf046cd70 ("cpufreq: ti: Add cpufreq driver to determine available OPPs at runtime")

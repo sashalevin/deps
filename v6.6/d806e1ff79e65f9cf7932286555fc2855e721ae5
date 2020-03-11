@@ -1,0 +1,5 @@
+d806e1ff79e6 ("virtio_net: add the total stats field")
+d86769b9d23c ("virtio_net: device stats helpers support driver stats")
+941168f8b40e ("virtio_net: support device stats")
+de6df26ffced ("virtio_net: remove "_queue" from ethtool -S")
+61217d8f6360 ("virtio_net: use u64_stats_t infra to avoid data-races")

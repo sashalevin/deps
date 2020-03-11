@@ -1,0 +1,6 @@
+a18fb0762381 ("ARM: OMAP2+: Fix possible memory leak in omap_hwmod_allocate_module")
+b57250fa5eb3 ("ARM: OMAP2+: Allocate struct omap_hwmod based on dts data")
+513a4abb19d5 ("ARM: OMAP2+: Prepare class allocation for dynamically allocated modules")
+8c87970543b1 ("ARM: OMAP2+: Add functions to allocate module data from device tree")
+49a0a3d805df ("bus: ti-sysc: Make omap_hwmod_sysc_fields into sysc_regbits platform data")
+bf8070522298 ("ARM: OMAP2+: Move all omap_hwmod_sysc_fields to omap_hwmod_common_data.c")

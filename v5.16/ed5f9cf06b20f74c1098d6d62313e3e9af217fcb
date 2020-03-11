@@ -1,0 +1,7 @@
+ed5f9cf06b20 ("net/mlx5e: Use READ_ONCE/WRITE_ONCE for DCBX trust state")
+62f7991feab6 ("net/mlx5e: Move repeating code that gets TC prio into a function")
+3ab45777a27c ("net/mlx5e: Use select queue parameters to sync with control flow")
+6b23f6ab86a4 ("net/mlx5e: Move mlx5e_select_queue to en/selq.c")
+8bf30be75069 ("net/mlx5e: Introduce select queue parameters")
+fa691d0c9c08 ("net/mlx5e: Allocate per-channel stats dynamically at first usage")
+0246a57ab517 ("net/mlx5e: Save memory by using dynamic allocation in netdev priv")

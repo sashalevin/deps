@@ -1,0 +1,4 @@
+1080782f13e3 ("scsi: target: tcmu: Use GFP_NOIO while handling cmds or holding cmdr_lock")
+f7c89771d07d ("scsi: target: tcmu: Replace radix_tree with XArray")
+d3cbb743c362 ("scsi: target: tcmu: Replace IDR by XArray")
+43bf922cdd62 ("scsi: target: tcmu: Move some functions without code change")

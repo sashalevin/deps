@@ -1,0 +1,8 @@
+ae07562909f3 ("mm: change huge_ptep_clear_flush() to return the original pte")
+33ae8f801ad8 ("hugetlb: clear huge pte during flush function on mips platform")
+584dbc7727a2 ("powerpc/mm: remove unused variable")
+fe632225bdbd ("hugetlb: introduce generic version of huge_ptep_clear_flush")
+a4d838536c6e ("hugetlb: introduce generic version of huge_ptep_get_and_clear()")
+cea685d55633 ("hugetlb: introduce generic version of set_huge_pte_at()")
+1e5f50fc9d0a ("hugetlb: introduce generic version of hugetlb_free_pgd_range")
+d018498ccc92 ("hugetlb: harmonize hugetlb.h arch specific defines with pgtable.h")

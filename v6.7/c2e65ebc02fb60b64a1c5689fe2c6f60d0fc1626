@@ -1,0 +1,8 @@
+c2e65ebc02fb ("mm/rmap: always inline anon/file rmap duplication of a single PTE")
+61d90309b715 ("mm/rmap: introduce folio_try_dup_anon_rmap_[pte|ptes|pmd]()")
+d8ef5e311d7b ("mm/rmap: convert page_dup_file_rmap() to folio_dup_file_rmap_[pte|ptes|pmd]()")
+ebe2e35ec0f2 ("mm/rmap: introduce and use hugetlb_try_dup_anon_rmap()")
+44887f399455 ("mm/rmap: introduce and use hugetlb_add_file_rmap()")
+e135826b2da0 ("mm/rmap: introduce and use hugetlb_remove_rmap()")
+9d5fafd5d882 ("mm/rmap: rename hugepage_add* to hugetlb_add*")
+f67f8d4a8c1e ("mm/rmap: fix misplaced parenthesis of a likely()")

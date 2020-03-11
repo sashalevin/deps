@@ -1,0 +1,6 @@
+2738d5ab7929 ("PCI: hv: Fix a race condition in hv_irq_unmask() that can cause panic")
+455880dfe292 ("PCI: hv: Fix hv_arch_irq_unmask() for multi-MSI")
+d06957d7a692 ("PCI: hv: Avoid the retarget interrupt hypercall in irq_unmask() on ARM64")
+d9932b469156 ("PCI: hv: Add arm64 Hyper-V vPCI support")
+831c1ae725f7 ("PCI: hv: Make the code arch neutral by adding arch specific interfaces")
+ac08b1c68d1b ("Merge tag 'pci-v5.15-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

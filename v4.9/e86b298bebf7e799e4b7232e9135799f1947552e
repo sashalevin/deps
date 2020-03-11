@@ -1,0 +1,3 @@
+e86b298bebf7 ("userfaultfd: replace ENOSPC with ESRCH in case mm has gone during copy/zeropage")
+9d95aa4bada2 ("userfaultfd_zeropage: return -ENOSPC in case mm has gone")
+96333187ab16 ("userfaultfd_copy: return -ENOSPC in case mm has gone")

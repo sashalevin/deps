@@ -1,0 +1,6 @@
+124b7e34a5a6 ("hwmon: (adm9240) Convert to devm_hwmon_device_register_with_info API")
+4f427dcb8963 ("hwmon: (adm9240) Store i2c device instead of client in local data")
+df885d912f67 ("hwmon: (adm9240) Convert to regmap")
+6a8cdd146459 ("hwmon: (adm9240) Create functions for updating measure and config")
+10d097737dfe ("hwmon: (adm9240) Use loops to avoid duplicated code")
+6748703856d4 ("hwmon: use simple i2c probe function")

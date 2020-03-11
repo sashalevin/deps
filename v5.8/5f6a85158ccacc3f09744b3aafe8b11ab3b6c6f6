@@ -1,0 +1,4 @@
+5f6a85158cca ("tty: drivers/tty/, stop using tty_schedule_flip()")
+c35f638fc2ad ("vt: keyboard, use tty_insert_flip_string in puts_queue")
+de53ce0427cd ("vt: use tty_insert_flip_string in respond_string")
+28bc24fc46f9 ("vc: separate state")

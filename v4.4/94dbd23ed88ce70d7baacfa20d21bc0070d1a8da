@@ -1,0 +1,6 @@
+94dbd23ed88c ("hwmon: (lm90) Use hwmon_notify_event()")
+eb1c8f4325d5 ("hwmon: (lm90) Convert to use new hwmon registration API")
+10bfef47bd25 ("hwmon: (lm90) Read limit registers only once")
+37ad04d7a9a5 ("hwmon: (lm90) Simplify read functions")
+6e5f62b9e365 ("hwmon: (lm90) Use devm_hwmon_device_register_with_groups")
+1f17a444b42b ("hwmon: (lm90) Use devm_add_action for cleanup")

@@ -1,0 +1,8 @@
+2dd8a74fddd2 ("serial: core: Initialize rs485 RTS polarity already on probe")
+62f676ff7898 ("serial: pl011: Fix incorrect rs485 RTS polarity on set_mctrl")
+93a770b7e167 ("serial: core: Keep mctrl register state and cached copy in sync")
+d3b3404df318 ("serial: Fix incorrect rs485 polarity on uart open")
+8d479237727c ("serial: amba-pl011: add RS485 support")
+a6845e1e1b78 ("serial: core: Consider rs485 settings to drive RTS")
+7d05587c9e0e ("tty: amba-pl011: Fix spurious TX interrupts")
+2331e0686504 ("tty: serial: constify uart_ops structures")

@@ -1,0 +1,8 @@
+31e00dae72fd ("KVM: selftests: Explicitly ucall pool from shared memory")
+2afc1fbbdab2 ("KVM: selftests: Allocate ucall pool from MEM_REGION_DATA")
+426729b2cf2e ("KVM: selftests: Add ucall pool based implementation")
+03b4750533fc ("KVM: selftests: Make arm64's MMIO ucall multi-VM friendly")
+dc88244bf548 ("KVM: selftests: Automatically do init_ucall() for non-barebones VMs")
+ef38871eb228 ("KVM: selftests: Consolidate boilerplate code in get_ucall()")
+7046638192d5 ("KVM: selftests: Consolidate common code for populating ucall struct")
+bb0cca240a16 ("Merge branch kvm-arm64/single-step-async-exception into kvmarm-master/next")

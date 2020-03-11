@@ -1,0 +1,5 @@
+3f158e47dfe9 ("mtd: nand: gpmi: switch to mtd_ooblayout_ops")
+2a690b25f6c7 ("mtd: nand: gpmi: use the mtd instance embedded in struct nand_chip")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")

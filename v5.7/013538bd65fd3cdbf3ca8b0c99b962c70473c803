@@ -1,0 +1,8 @@
+013538bd65fd ("io_uring: add 'io_comp_state' to struct io_submit_state")
+b63534c41e20 ("io_uring: re-issue block requests that failed because of resources")
+4503b7676a2e ("io_uring: catch -EIO from buffered issue request failure")
+ac8691c415e0 ("io_uring: always plug for any number of IOs")
+0cdaf760f42e ("io_uring: remove req->needs_fixed_files")
+18bceab101ad ("io_uring: allow POLL_ADD with double poll_wait() users")
+4a38aed2a0a7 ("io_uring: batch reap of dead file registrations")
+7d01bd745a8f ("io_uring: remove obsolete 'state' parameter")

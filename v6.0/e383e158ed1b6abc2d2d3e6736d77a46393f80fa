@@ -1,0 +1,3 @@
+e383e158ed1b ("btrfs: preallocate temporary extent buffer for inode logging when needed")
+796787c978ef ("btrfs: do not modify log tree while holding a leaf from fs tree locked")
+e09d94c9e448 ("btrfs: log conflicting inodes without holding log mutex of the initial inode")

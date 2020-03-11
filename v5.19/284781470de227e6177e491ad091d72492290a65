@@ -1,0 +1,8 @@
+284781470de2 ("drm/i915/gt: Use rc6.supported flag from intel_gt for rc6_enable sysfs")
+a8a4f0467d70 ("drm/i915: Fix CFI violations in gt_sysfs")
+0d2d201095e9 ("drm/i915: Perf_limit_reasons are only available for Gen11+")
+1551b9164f61 ("drm/i915/mtl: PERF_LIMIT_REASONS changes for MTL")
+fe5979665f64 ("drm/i915/debugfs: Add perf_limit_reasons in debugfs")
+60017f34fc33 ("drm/i915/gt: Fix perf limit reasons bit positions")
+fdff0a852ec8 ("drm/i915/gt: Expose per-gt RPS defaults in sysfs")
+5dca122f8388 ("drm/i915/gt: Create gt/gtN/.defaults/ for per gt sysfs defaults")

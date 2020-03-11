@@ -1,0 +1,5 @@
+0200b9f790b0 ("xhci: Wait until link state trainsits to U0 after setting USB_SS_PORT_LS_U0")
+eb002726fac7 ("xhci: Ensure link state is U3 after setting USB_SS_PORT_LS_U3")
+6cbcf596934c ("xhci: Fix port resume done detection for SS ports with LPM enabled")
+f6187f424c10 ("xhci: move bus_state structure under the xhci_hub structure.")
+2f31a67f01a8 ("usb: xhci: Prevent bus suspend if a port connect change or polling state is detected")

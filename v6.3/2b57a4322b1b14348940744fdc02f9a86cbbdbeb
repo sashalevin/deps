@@ -1,0 +1,6 @@
+2b57a4322b1b ("ksmbd: check if a mount point is crossed during path lookup")
+6fe55c2799bc ("ksmbd: call putname after using the last component")
+df14afeed2e6 ("ksmbd: fix uninitialized pointer read in smb2_create_link()")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+74d7970febf7 ("ksmbd: fix racy issue from using ->d_parent and ->d_name")
+211db0ac9e3d ("ksmbd: remove internal.h include")

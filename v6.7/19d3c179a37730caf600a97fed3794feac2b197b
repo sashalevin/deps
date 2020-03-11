@@ -1,0 +1,6 @@
+19d3c179a377 ("bpf, arm64: Fix trampoline for BPF_TRAMP_F_CALL_ORIG")
+96b0f5addc7a ("arm64, bpf: Use bpf_prog_pack for arm64 bpf trampoline")
+26ef208c209a ("bpf: Use arch_bpf_trampoline_size")
+96d1b7c081c0 ("bpf: Add arch_bpf_trampoline_size()")
+82583daa2efc ("bpf: Add helpers for trampoline image management")
+7a3d9a159b17 ("bpf: Adjust argument names of arch_prepare_bpf_trampoline()")

@@ -1,0 +1,6 @@
+ea31fd9ca873 ("rcutorture: Use torture_hrtimeout_jiffies() to avoid busy-waits")
+682189a3f874 ("rcutorture: Make rcu_torture_fakewriter() use blocking wait primitives")
+0fd0548db133 ("rcutorture: Add writer-side tests of polling grace-period API")
+fd56f64b4e3b ("rcutorture: Prepare for ->start_gp_poll and ->poll_gp_state")
+ab1b7880dec8 ("rcutorture:  Make stutter_wait() caller restore priority")
+19012b786ecc ("torture: Periodically pause in stutter_wait()")

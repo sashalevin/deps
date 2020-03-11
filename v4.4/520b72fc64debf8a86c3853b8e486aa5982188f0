@@ -1,0 +1,4 @@
+520b72fc64de ("USB: gadgetfs: Fix crash caused by inadequate synchronization")
+b7ddc981d7b9 ("drivers, usb: convert dev_data.count from atomic_t to refcount_t")
+d246dcb2331c ("usb: gadget: fix spinlock dead lock in gadgetfs")
+b7bd98b7db9f ("usb: gadget: inode.c: fix unbalanced spin_lock in ep0_write")

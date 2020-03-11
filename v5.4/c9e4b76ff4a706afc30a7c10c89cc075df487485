@@ -1,0 +1,4 @@
+c9e4b76ff4a7 ("crypto: chacha20poly1305 - Only access common skcipher fields on spawn")
+c282586fc341 ("crypto: chacha20poly1305 - use crypto_grab_ahash() and simplify error paths")
+b9f76dddb1f9 ("crypto: skcipher - pass instance to crypto_grab_skcipher()")
+53253064adfa ("crypto: skcipher - rename crypto_skcipher_type2 to crypto_skcipher_type")

@@ -1,0 +1,5 @@
+235a5a83f637 ("blk-iocost: don't allow to configure bio based device")
+2b2da2f6dc80 ("blk-iocost: prevent configuration update concurrent with io throttling")
+2c0647988433 ("blk-iocost: don't release 'ioc->lock' while updating params")
+3657647e33df ("blk-iocost: cleanup ioc_qos_write")
+57b64554977e ("blk-iocost: pass a gendisk to blk_iocost_init")

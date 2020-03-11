@@ -1,0 +1,6 @@
+f4183717b370 ("sched/fair: Introduce the burstable CFS controller")
+d505b8af5891 ("sched: Defend cfs and rt bandwidth quota against overflow")
+4929a4e6faa0 ("sched/fair: Scale bandwidth quota and period without losing quota/period ratio precision")
+763a9ec06c40 ("sched/fair: Fix -Wunused-but-set-variable warnings")
+de53fd7aedb1 ("sched/fair: Fix low cpu usage with high throttling by removing expiration of cpu-local slices")
+176d2323c774 ("Merge branch 'linus' into sched/core, to pick up fixes")

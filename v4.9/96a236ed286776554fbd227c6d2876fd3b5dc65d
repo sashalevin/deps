@@ -1,0 +1,4 @@
+96a236ed2867 ("iw_cxgb4: reflect the original WR opcode in drain cqes")
+c058ecf6e455 ("iw_cxgb4: only insert drain cqes if wq is flushed")
+cbb40fadd31c ("iw_cxgb4: only call the cq comp_handler when the cq is armed")
+4fe7c2962e11 ("iw_cxgb4: refactor sq/rq drain logic")

@@ -1,0 +1,4 @@
+9d3fe6aa6b95 ("devtmpfs: remove return value of devtmpfs_delete_node()")
+72a9cc952f12 ("devtmpfs: factor out common tail of devtmpfs_{create,delete}_node")
+cf901a1c5dd8 ("device.h: move devtmpfs prototypes out of the file")
+5e787dbf659f ("devtmpfs: use do_mount() instead of ksys_mount()")

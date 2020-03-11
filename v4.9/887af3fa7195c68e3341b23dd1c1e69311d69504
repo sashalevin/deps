@@ -1,0 +1,8 @@
+887af3fa7195 ("staging: rtl8188eu: remove all RT_TRACE calls from os_dep/xmit_linux.c")
+bbf2f71e061a ("staging: rtl8188eu: cleanup comparsions to false")
+f4256fc7f2a8 ("staging: rtl8188eu: use __func__ instead of hardcoded name - style")
+e360c0ea438f ("staging: rtl8188eu: remove blank lines")
+6b8b810f2c9a ("staging: rtl8188eu: remove unused members from struct recv_priv")
+cbc63fdc2883 ("staging:r8188eu: remove ff_hwaddr member of recv_priv structure")
+dbddb97ec1e0 ("staging:r8188eu: remove (u32 cnt) argument of usb_read_port function")
+181e61440dd0 ("staging:r8188eu: change usb_read_port last argument type to (struct *recv_buf)")

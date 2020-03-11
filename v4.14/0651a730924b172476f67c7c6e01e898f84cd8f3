@@ -1,0 +1,8 @@
+0651a730924b ("gpio: davinci: Add support for system suspend/resume PM")
+79b73ff9b2a3 ("gpio: davinci: Move driver local definitions to driver")
+c36219d9d8df ("gpio: davinci: Remove unneeded GPIO macro")
+329357723f5e ("gpio: davinci: Remove unused member of davinci_gpio_controller")
+eb3744a2dd01 ("gpio: davinci: Do not assume continuous IRQ numbering")
+c1d013a70f55 ("gpio: davinci: Shuffle IRQ resource fetching from DT to beginning of probe")
+6310b930ccbb ("gpio: davinci: fix build warning when !CONFIG_OF")
+adbc128fa8b4 ("Merge tag 'armsoc-soc' of git://git.kernel.org/pub/scm/linux/kernel/git/arm/arm-soc")

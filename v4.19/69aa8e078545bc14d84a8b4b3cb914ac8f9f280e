@@ -1,0 +1,6 @@
+69aa8e078545 ("powerpc/cacheinfo: Remove the redundant get_shared_cpu_map()")
+0be47634db0b ("powerpc/cacheinfo: Print correct cache-sibling map/list for L2 cache")
+74b7492e4178 ("powerpc/cacheinfo: Make cpumap_show code reusable")
+5658cf085ba3 ("powerpc/cacheinfo: Use cpumap_print to print cpumap")
+500fe5f550ec ("powerpc/cacheinfo: Report the correct shared_cpu_map on big-cores")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")

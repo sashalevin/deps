@@ -1,0 +1,8 @@
+2a735e4b5580 ("usb: dwc3: core: fix some leaks in probe")
+4e64cd7763ca ("usb: dwc3: fix backwards compat with rockchip devices")
+33fb697ec7e5 ("usb: dwc3: Get clocks individually")
+b0bf77cd389d ("usb: dwc3: Fix dereferencing of null dwc->usb_psy")
+6f0764b5adea ("usb: dwc3: add a power supply for current control")
+babbdfc9d229 ("usb: dwc3: core: Replace devm_reset_control_array_get()")
+4a1d042af420 ("usb: dwc3: Rework resets initialization to be more flexible")
+0d3a97083e0c ("usb: dwc3: Rework clock initialization to be more flexible")

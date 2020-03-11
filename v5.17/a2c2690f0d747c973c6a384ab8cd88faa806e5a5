@@ -1,0 +1,6 @@
+a2c2690f0d74 ("mtd: st_spi_fsm: Use the devm_clk_get_enabled() helper function")
+6f6536a0e309 ("mtd: st_spi_fsm: Simplify error checking in .probe() a bit")
+cd043c613e21 ("mtd: st_spi_fsm: Disable clock only after device was unregistered")
+cfa7847f150c ("mtd: st_spi_fsm: Warn about failure to unregister mtd device")
+28607b426c3d ("mtd: st_spi_fsm: Add a clk_disable_unprepare() in .probe()'s error path")
+1fefc8ecb834 ("mtd: st_spi_fsm: add missing clk_disable_unprepare() in stfsm_remove()")

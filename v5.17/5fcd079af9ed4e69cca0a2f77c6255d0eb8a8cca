@@ -1,0 +1,5 @@
+5fcd079af9ed ("uprobes: use folios more widely in __replace_page()")
+eed05e54d275 ("mm: Add DEFINE_PAGE_VMA_WALK and DEFINE_FOLIO_VMA_WALK")
+cea86fe246b6 ("mm/munlock: rmap call mlock_vma_page() munlock_vma_page()")
+a213e5cf71cb ("mm/munlock: delete munlock_vma_pages_all(), allow oomreap")
+ebcbc6ea7d8a ("mm/munlock: delete page_mlock() and all its works")

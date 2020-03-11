@@ -1,0 +1,5 @@
+172202152a12 ("ext4: do not trim the group with corrupted block bitmap")
+68da4c44b994 ("ext4: fix inconsistent between segment fstrim and full fstrim")
+45e4ab320c9b ("ext4: move setting of trimmed bit into ext4_try_to_trim_range()")
+de8bf0e5ee74 ("ext4: replace the traditional ternary conditional operator with with max()/min()")
+d63c00ea435a ("ext4: mark group as trimmed only if it was fully scanned")

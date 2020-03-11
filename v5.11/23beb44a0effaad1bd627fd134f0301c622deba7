@@ -1,0 +1,4 @@
+23beb44a0eff ("modpost: add a separate error for exported symbols without definition")
+4475dff55c54 ("kbuild: fix false-positive modpost warning when all symbols are trimmed")
+5ab70ff4286f ("kbuild: do not set -w for vmlinux.o modpost")
+dc5723b02e52 ("kbuild: add support for Clang LTO")

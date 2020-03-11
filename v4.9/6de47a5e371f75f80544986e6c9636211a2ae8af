@@ -1,0 +1,4 @@
+6de47a5e371f ("efi/bgrt: Use efi_mem_type()")
+792ef14df5c5 ("efi: Fix boot panic because of invalid BGRT image address")
+7425826f4f7a ("efi/bgrt: Skip efi_bgrt_init() in case of non-EFI boot")
+7b0a911478c7 ("efi/x86: Move the EFI BGRT init code to early init code")

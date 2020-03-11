@@ -1,0 +1,7 @@
+5a66cda52d7d ("ip_tunnel: harden copying IP tunnel params to userspace")
+5832c4a77d69 ("ip_tunnel: convert __be16 tunnel flags to bitmaps")
+117aef12a7b1 ("ip_tunnel: use a separate struct to store tunnel params in the kernel")
+2aceb896ee18 ("vxlan: use generic function for tunnel IPv6 route lookup")
+6f19b2c136d9 ("vxlan: use generic function for tunnel IPv4 route lookup")
+29cfb2aaa442 ("bridge: Add backup nexthop ID support")
+8bb5e82589f0 ("ip_tunnels: Add nexthop ID field to ip_tunnel_key")

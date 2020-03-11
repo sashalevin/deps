@@ -1,0 +1,6 @@
+1d7e4538a546 ("ipv4, ipv6: Use splice_eof() to flush")
+3242abeb8da7 ("tcp: export tcp_sendmsg_fastopen")
+f859a4484703 ("tcp: allow zerocopy with fastopen")
+13d7f46386e0 ("tcp: allow MSG_ZEROCOPY transmission also in CLOSE_WAIT state")
+5cf4a8532c99 ("tcp: really ignore MSG_ZEROCOPY if no SO_ZEROCOPY")
+a7b15ab887e5 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

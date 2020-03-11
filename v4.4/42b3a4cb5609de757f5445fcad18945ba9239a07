@@ -1,0 +1,7 @@
+42b3a4cb5609 ("x86/xen: Support early interrupts in xen pv guests")
+5878d5d6fdef ("x86/xen: Get rid of paravirt op adjust_exception_frame")
+1d792a678c75 ("x86/idt: Remove the tracing IDT leftovers")
+64b163fab684 ("x86/idt: Unify gate_struct handling for 32/64-bit kernels")
+11a7ffb01703 ("x86/traps: Simplify pagefault tracing logic")
+edcb5cf84f05 ("x86/paravirt/xen: Remove xen_patch()")
+1d0f49e14007 ("Merge branch 'x86/urgent' into x86/asm, to pick up fixes")

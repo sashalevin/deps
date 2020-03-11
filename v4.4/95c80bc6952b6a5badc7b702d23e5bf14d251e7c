@@ -1,0 +1,6 @@
+95c80bc6952b ("PCI/PME: Fix hotplug/sysfs remove deadlock in pcie_pme_remove()")
+c7b5a4e6e8fb ("PCI / PM: Fix native PME handling during system suspend/resume")
+afe3e4d11bdf ("PCI/PME: Restore pcie_pme_driver.remove")
+d7def2040077 ("PCI/PME: Make explicitly non-modular")
+41ccebaecef5 ("PCI/PME: Restructure pcie_pme_suspend() to prevent compiler warning")
+4e48fe414869 ("PCI/PME: Remove redundant port lookup")

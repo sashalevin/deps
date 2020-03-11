@@ -1,0 +1,4 @@
+57c0b41bbe7b ("staging: vc04_services: vchiq_arm: Use appropriate dev_* log helpers")
+085bb4131e0f ("staging: vc04_services: Drop vchiq_log_warning() in favour of dev_warn")
+e70f17ed997c ("staging: vc04_services: Drop vchiq_log_error() in favour of dev_err")
+149261d378d0 ("staging: vc04_services: Do not pass NULL to vchiq_log_error()")

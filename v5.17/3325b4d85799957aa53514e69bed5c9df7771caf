@@ -1,0 +1,8 @@
+3325b4d85799 ("s390/hypfs: factor out filesystem code")
+b7857acc1b11 ("s390/hypfs: remove open-coded PTR_ALIGN()")
+83f95671943e ("s390/hypfs: simplify memory allocation")
+c83cd4fe31d5 ("s390/diag: handle diag 204 subcode 4 address correctly")
+12a6c2c182c1 ("s390/hypfs: remove unused info_blk_hdr__pcpus() function")
+7b6670b03641 ("s390/hypfs: avoid error message under KVM")
+108ab40fc1fe ("s390/hypfs: fix typos in comments")
+d09a307fde1c ("s390/extable: move EX_TABLE define to asm-extable.h")

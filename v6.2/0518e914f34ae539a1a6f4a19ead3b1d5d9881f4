@@ -1,0 +1,8 @@
+0518e914f34a ("net: microchip: sparx5: Use chain ids without offsets when enabling rules")
+3bee9b573af5 ("net: microchip: sparx5: Fix uninitialized variable in vcap_path_exist()")
+18a15c769d4a ("net: microchip: vcap api: Enable/Disable rules via chains in VCAP HW")
+814e7693207f ("net: microchip: vcap api: Add a storage state to a VCAP rule")
+784c3067d094 ("net: microchip: vcap api: Check chains when adding a tc flower filter")
+cfd9e7b74a1e ("net: microchip: vcap api: Use src and dst chain id to chain VCAP lookups")
+01ef75a257fa ("net: microchip: vcap api: Always enable VCAP lookups")
+6573f71ae72f ("net: microchip: vcap api: Erase VCAP cache before encoding rule")

@@ -1,0 +1,5 @@
+cdeb5d7d890e ("KVM: PPC: Book3S HV: Make idle_kvm_start_guest() return 0 if it went to guest")
+9b4416c5095c ("KVM: PPC: Book3S HV: Fix stack handling in idle_kvm_start_guest()")
+10d91611f426 ("powerpc/64s: Reimplement book3s idle code in C")
+19f8a5b5be28 ("powerpc/powernv: Don't reprogram SLW image on every KVM guest entry/exit")
+e61cf2e3a5b4 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

@@ -1,0 +1,8 @@
+fadaac67c900 ("powerpc/mm: PTE_ATOMIC_UPDATES is only for 40x")
+bd5050e38aec ("powerpc/mm/radix: Change pte relax sequence to handle nest MMU hang")
+e4c1112c3fc5 ("powerpc/mm: Change function prototype")
+044003b52a78 ("powerpc/mm/radix: Move function from radix.h to pgtable-radix.c")
+f069ff396d65 ("powerpc/mm/hugetlb: Update huge_ptep_set_access_flags to call __ptep_set_access_flags directly")
+0d594aa75f5e ("powerpc/nohash: Remove _PAGE_BUSY")
+45201c879469 ("powerpc/nohash: Remove hash related code from nohash headers.")
+4e003747043d ("powerpc/64s: Replace CONFIG_PPC_STD_MMU_64 with CONFIG_PPC_BOOK3S_64")

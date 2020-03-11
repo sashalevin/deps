@@ -1,0 +1,7 @@
+4c32fb7dcf65 ("of: Move of_device_(add|register|unregister) to of_platform.h")
+83c4a4eec06a ("of: Remove of_dev_{get,put}()")
+216830d2413c ("of: unittest: kmemleak in of_unittest_platform_populate()")
+bceb418b65b9 ("usb: dwc3: st: Add of_dev_put() in probe function")
+e36721b90144 ("usb: dwc3: st: Add of_node_put() before return in probe function")
+da9cfb87a44d ("coccinelle: semantic code search for missing put_device()")
+a613b26a5013 ("of: Convert to using %pOFn instead of device_node.name")

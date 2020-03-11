@@ -1,0 +1,8 @@
+96268163f9c9 ("mm/hmm: remove the unused HMM_FAULT_ALLOW_RETRY flag")
+a22dd506400d ("mm/hmm: remove hmm_mirror and related")
+107e899874e9 ("mm/hmm: define the pre-processor related parts of hmm.h even if disabled")
+04ec32fbc2b2 ("mm/hmm: allow hmm_range to be used with a mmu_interval_notifier or hmm_mirror")
+7b86ac3371b7 ("pagewalk: separate function pointers from iterator data")
+a520110e4a15 ("mm: split out a new pagewalk.h header from mm.h")
+6c64f2bbe79c ("mm/hmm: hmm_range_fault() NULL pointer bug")
+daa138a58c80 ("Merge branch 'odp_fixes' into hmm.git")

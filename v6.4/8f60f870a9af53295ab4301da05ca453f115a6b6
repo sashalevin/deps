@@ -1,0 +1,6 @@
+8f60f870a9af ("libperf cpumap: Rename perf_cpu_map__default_new() to perf_cpu_map__new_online_cpus() and prefer sysfs")
+48219b089d84 ("libperf cpumap: Rename perf_cpu_map__dummy_new() to perf_cpu_map__new_any_cpu()")
+916ce34ac9f5 ("libperf cpumap: Add "any CPU"/dummy test function")
+74c075cab1e7 ("perf cpumap: Add equal function")
+5cebb33fd929 ("perf tests: Organize cpu_map tests into a single suite")
+237d41d4a2d7 ("perf cpumap: Add intersect function")

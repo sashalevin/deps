@@ -1,0 +1,8 @@
+60a3a5fe950f ("kasan, arm64: rename kasan_init_tags and mark as __init")
+28ab35841ce0 ("kasan, arm64: move initialization message")
+d73b49365ee6 ("kasan, arm64: only use kasan_depth for software modes")
+afe6ef80dcec ("kasan, arm64: only init shadow for software modes")
+cebd0eb29acd ("kasan: rename (un)poison_shadow to (un)poison_range")
+d5750edf6da7 ("kasan: shadow declarations only for software modes")
+3b1a4a864087 ("kasan: group vmalloc code")
+83c4e7a0363b ("KUnit: KASAN Integration")

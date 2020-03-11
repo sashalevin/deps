@@ -1,0 +1,7 @@
+ec225f8c255f ("x86/mm: Fix LAM inconsistency during context switch")
+3b299b99556c ("x86/mm: Use IPIs to synchronize LAM enablement")
+6bbd42e2df8f ("mmu_notifiers: call invalidate_range() when invalidating TLBs")
+2f8794bd087e ("x86/mm: Provide arch_prctl() interface for LAM")
+74c228d20a51 ("x86/uaccess: Provide untagged_addr() and remove tags before address check")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+5ef495e55f07 ("x86: Allow atomic MM_CONTEXT flags setting")

@@ -1,0 +1,6 @@
+a96b20758b23 ("KVM: PPC: Book3S HV: Use the bitmap API to allocate bitmaps")
+a4574f63edc6 ("mm/memremap_pages: convert to 'struct range'")
+c2f3011ee697 ("device-dax: add an allocation interface for device-dax instances")
+f5516ec5efb9 ("device-dax: make pgmap optional for instance creation")
+174ebece379b ("device-dax: move instance creation parameters to 'struct dev_dax_data'")
+ec826909981c ("device-dax: drop the dax_region.pfn_flags attribute")

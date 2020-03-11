@@ -1,1 +1,3 @@
 06dce84ec76b ("gpio: gpio-omap: always scan for triggered non-wakeup capable interrupts")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")

@@ -1,0 +1,6 @@
+9ecea9ae4d31 ("sched/topology: Handle NUMA_NO_NODE in sched_numa_find_nth_cpu()")
+b1beed72b8b7 ("lib/cpumask: reorganize cpumask_local_spread() logic")
+406d394abfcd ("cpumask: improve on cpumask_local_spread() locality")
+cd7f55359c90 ("sched: add sched_numa_find_nth_cpu()")
+944c417daeb6 ("cpumask: add cpumask_nth_{,and,andnot}")
+2452483d9546 ("Revert "lib: Restrict cpumask_local_spread to houskeeping CPUs"")

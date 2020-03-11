@@ -1,0 +1,2 @@
+028e083832b0 ("tty: serial: imx: disable UCR4_OREN in .stop_rx() instead of .shutdown()")
+edd64f30792d ("tty: serial: imx: disable TXDC IRQ in imx_uart_shutdown() to avoid IRQ storm")

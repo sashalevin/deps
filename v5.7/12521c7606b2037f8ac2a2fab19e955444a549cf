@@ -1,0 +1,8 @@
+12521c7606b2 ("mm/gup: Turn compound_next() into gup_folio_next()")
+28297dbcad7e ("mm/gup: Change the calling convention for compound_next()")
+e76027488640 ("mm/gup: Remove for_each_compound_head()")
+a5f100db6855 ("mm/gup: Remove for_each_compound_range()")
+458a4f788f86 ("mm/gup: add a range variant of unpin_user_pages_dirty_lock()")
+31b912de1316 ("mm/gup: decrement head page once for group of subpages")
+8745d7f6346c ("mm/gup: add compound page list iterator")
+146608bb75e6 ("mm/gup: protect unpin_user_pages() against npages==-ERRNO")

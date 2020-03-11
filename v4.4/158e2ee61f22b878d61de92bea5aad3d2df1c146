@@ -1,0 +1,6 @@
+158e2ee61f22 ("x86/fpu/xstate: Make xfeature_is_supervisor()/xfeature_is_user() return bool")
+1499ce2dd45a ("x86/fpu/xstate: Fix supervisor xstate component offset")
+03482e08a87d ("x86/fpu/xstate: Align xstate components according to CPUID")
+c8df40098451 ("x86/fpu, x86/mm/pkeys: Add PKRU xsave fields and data structures")
+1f96b1efbad4 ("x86/fpu: Add placeholder for 'Processor Trace' XSAVE state")
+eb7c5f872e69 ("x86/fpu: Disable XGETBV1 when no XSAVE")

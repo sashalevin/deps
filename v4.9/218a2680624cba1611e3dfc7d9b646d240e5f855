@@ -1,0 +1,7 @@
+218a2680624c ("certs: Reference revocation list for all keyrings")
+278311e417be ("kexec, KEYS: Make use of platform keyring for signature verify")
+ea93102f3224 ("Fix kexec forbidding kernels signed with keys in the secondary keyring to boot")
+817aef260037 ("Replace magic for trusting the secondary keyring with #define")
+2b6aa412ff23 ("KEYS: Use structure to capture key restriction function and data")
+aaf66c883813 ("KEYS: Split role of the keyring pointer for keyring restrict functions")
+469ff8f7d46d ("KEYS: Use a typedef for restrict_link function pointers")

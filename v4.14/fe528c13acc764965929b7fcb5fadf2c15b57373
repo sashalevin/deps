@@ -1,0 +1,4 @@
+fe528c13acc7 ("drm/amdkfd: Fix event destruction with pending waiters")
+fdf0c8332a03 ("drm/amdkfd: Clean up kfd_wait_on_events")
+d9aeec4cbb58 ("drm/amdkfd: Fix scheduler race in kfd_wait_on_events sleep loop")
+1f9d09becb9a ("drm/amdkfd: Short cut for kfd_wait_on_events without waiting")

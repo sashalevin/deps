@@ -1,0 +1,5 @@
+bb2e98b613a3 ("filemap: Remove thp_contains()")
+9257e1567738 ("mm/filemap: Add folio_index(), folio_file_page() and folio_contains()")
+63ec1973ddf3 ("mm/shmem: return head page from find_lock_entry")
+a6de4b4873e1 ("mm: convert find_get_entry to return the head page")
+61ef18655704 ("mm: factor find_get_incore_page out of mincore_page")

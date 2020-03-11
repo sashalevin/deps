@@ -1,0 +1,5 @@
+493048f5dfcd ("l2tp: WARN_ON rather than BUG_ON in l2tp_session_queue_purge")
+ce2f86ae253d ("l2tp: remove BUG_ON in l2tp_session_queue_purge")
+b71a61ccfebb ("l2tp: cleanup whitespace use")
+2e67560ef6c5 ("l2tp: don't export l2tp_session_queue_purge()")
+7198c77aa055 ("l2tp: avoid using ->tunnel_sock for getting session's parent tunnel")

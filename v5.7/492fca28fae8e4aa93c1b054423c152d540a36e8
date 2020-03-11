@@ -1,0 +1,6 @@
+492fca28fae8 ("pinctrl: samsung: Switch to use for_each_gpiochip_node() helper")
+954445c72fc7 ("pinctrl: samsung: Drop redundant node parameter in samsung_banks_of_node_get()")
+a29681b0cc37 ("pinctrl: samsung: accept GPIO bank nodes with a suffix")
+50ebd19e3585 ("pinctrl: samsung: drop pin banks references on error paths")
+85745c870a75 ("pinctrl: samsung: Use bank name as irqchip name")
+b577a2799140 ("pinctrl: samsung: Correct setting of eint wakeup mask on s5pv210")

@@ -1,0 +1,4 @@
+3793d4de06fa ("perf hist: Add missing 'struct branch_stack' forward declaration")
+fe96245c7f38 ("perf hists: Add block_info in hist_entry")
+7cadca8e1b4a ("perf hist: Remove symbol.h from hist.h, just fwd decls are needed")
+7b644f9ad18f ("perf callchain: Uninline callchain_cursor_reset() to remove map.h dependency")

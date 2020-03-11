@@ -1,0 +1,7 @@
+ed1054a02aa2 ("irqdomain: Mark fwnodes when their irqdomain is added/removed")
+181e9d4efaf6 ("irqdomain: Make __irq_domain_add() less OF-dependent")
+43b98d876f89 ("genirq/irqdomain: Remove WARN_ON() on out-of-memory condition")
+94967b55ebf3 ("genirq/debugfs: Reinstate full OF path for domain name")
+c5c601c4295f ("irqdomain: Allow ACPI device nodes to be used as irqdomain identifiers")
+d59f6617eef0 ("genirq: Allow fwnode to carry name information only")
+631a9639ac41 ("irqdomain: Add irq domain MSI and MSI_REMAP flags")

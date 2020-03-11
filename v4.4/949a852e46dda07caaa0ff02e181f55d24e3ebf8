@@ -1,0 +1,7 @@
+949a852e46dd ("namei: teach lookup_slow() to skip revalidate")
+e3c13928086f ("namei: massage lookup_slow() to be usable by lookup_one_len_unlocked()")
+d6d95ded914e ("lookup_one_len_unlocked(): use lookup_dcache()")
+6c51e513a3aa ("lookup_dcache(): lift d_alloc() into callers")
+d4565649b6d6 ("namei: ->d_inode of a pinned dentry is stable only for positives")
+5955102c9984 ("wrappers for ->i_mutex access")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

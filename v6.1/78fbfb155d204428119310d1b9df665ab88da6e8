@@ -1,0 +1,4 @@
+78fbfb155d20 ("mm/damon/core: define and use a dedicated function for region access rate update")
+d896073fc767 ("mm/damon/core: add more comments for nr_accesses")
+af40e35a992f ("mm/damon/paddr: rename 'damon_pa_access_chk_result->page_sz' to 'folio_sz'")
+fc8c7d2380ab ("mm/damon/vaddr: rename 'damon_young_walk_private->page_sz' to 'folio_sz'")

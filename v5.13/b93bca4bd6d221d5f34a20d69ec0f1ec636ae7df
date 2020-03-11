@@ -1,0 +1,5 @@
+b93bca4bd6d2 ("gpio: sysfs: pass the GPIO device - not chip - to sysfs callbacks")
+513246a34b8d ("gpio: sysfs: drop tabs from local variable declarations")
+667630edb5ba ("gpiolib: sysfs: Simplify edge handling in the code")
+e28747da771c ("gpiolib: sysfs: Move sysfs_emit() calls outside of the mutex lock")
+9e23bf6b00fd ("gpiolib: Use sysfs_emit() in "show" functions")

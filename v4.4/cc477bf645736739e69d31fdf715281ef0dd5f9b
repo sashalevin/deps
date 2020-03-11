@@ -1,0 +1,8 @@
+cc477bf64573 ("crypto: arm/aes - replace bit-sliced OpenSSL NEON code")
+81edb4262975 ("crypto: arm/aes - replace scalar AES cipher")
+81126d1a8bc2 ("crypto: arm/aesbs - fix brokenness after skcipher conversion")
+6fdf436fd854 ("crypto: arm/aes - Add missing SIMD select for aesbs")
+585b5fa63da9 ("crypto: arm/aes - Select SIMD in Kconfig")
+211f41af534a ("crypto: aesbs - Convert to skcipher")
+49abc0d2e19b ("crypto: xts - fix compile errors")
+28856a9e52c7 ("crypto: xts - consolidate sanity check for keys")

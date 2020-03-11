@@ -1,0 +1,6 @@
+0d98cc02022d ("tls: validate cipher descriptions at compile time")
+176a3f50bc6a ("tls: extend tls_cipher_desc to fully describe the ciphers")
+8db44ab26beb ("tls: rename tls_cipher_size_desc to tls_cipher_desc")
+037303d67607 ("tls: reduce size of tls_cipher_size_desc")
+200e23165109 ("tls: add TLS_CIPHER_ARIA_GCM_* to tls_cipher_size_desc")
+fd0fc6fdd889 ("tls: move tls_cipher_size_desc to net/tls/tls.h")

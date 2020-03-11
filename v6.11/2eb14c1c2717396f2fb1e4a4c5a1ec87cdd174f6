@@ -1,0 +1,4 @@
+2eb14c1c2717 ("mm, slab: reintroduce rcu_barrier() into kmem_cache_destroy()")
+f77d0cda4a8e ("mm, slab: move kfence_shutdown_cache() outside slab_mutex")
+4ec10268ed98 ("mm, slab: unlink slabinfo, sysfs and debugfs immediately")
+b5959789e96e ("mm, slab: dissolve shutdown_cache() into its caller")

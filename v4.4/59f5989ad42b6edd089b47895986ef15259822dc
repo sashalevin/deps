@@ -1,0 +1,8 @@
+59f5989ad42b ("drm: Integrate VRAM MM into struct drm_device")
+96352eca5c7c ("drm: Add VRAM MM, a simple memory manager for dedicated VRAM")
+1f460b497890 ("drm: Add simple PRIME helpers for GEM VRAM")
+fed1eec080b9 ("drm: Add drm_gem_vram_fill_create_dumb() to create dumb buffers")
+737000fd9c7d ("drm: Add |struct drm_gem_vram_object| callbacks for |struct drm_driver|")
+6c812bc5074b ("drm: Add |struct drm_gem_vram_object| callbacks for |struct ttm_bo_driver|")
+85438a8ddf03 ("drm: Add |struct drm_gem_vram_object| and helpers")
+23d19ba06b9c ("Merge drm/drm-next into drm-misc-next")

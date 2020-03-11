@@ -1,0 +1,4 @@
+8264aee803a2 ("scsi: core: Remove struct scsi_pointer from struct scsi_cmnd")
+11b68e36b167 ("scsi: core: Call scsi_done directly")
+a710eacb9d13 ("scsi: core: Rename scsi_mq_done() into scsi_done() and export it")
+bf23e619039d ("scsi: core: Use a structure member to track the SCSI command submitter")

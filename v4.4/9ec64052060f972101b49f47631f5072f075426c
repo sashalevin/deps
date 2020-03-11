@@ -1,0 +1,8 @@
+9ec64052060f ("svcrdma: svc_rdma_put_context() is invoked twice in Send error path")
+bf36387ad394 ("svcrdma: svc_rdma_post_recv() should close connection on error")
+3e1eeb980822 ("svcrdma: Close connection when a send error occurs")
+5d252f90a800 ("svcrdma: Add class for RDMA backwards direction transport")
+39b09a1a121c ("svcrdma: Add gfp flags to svc_rdma_post_recv()")
+71810ef3271d ("svcrdma: Remove unused req_map and ctxt kmem_caches")
+2fe81b239dbb ("svcrdma: Improve allocation of struct svc_rdma_req_map")
+cc886c9ff160 ("svcrdma: Improve allocation of struct svc_rdma_op_ctxt")

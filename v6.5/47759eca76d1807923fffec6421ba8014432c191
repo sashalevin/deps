@@ -1,0 +1,8 @@
+47759eca76d1 ("arm64: Avoid cpus_have_const_cap() for ARM64_WORKAROUND_REPEAT_TLBI")
+0d48058ef829 ("arm64: Avoid cpus_have_const_cap() for ARM64_WORKAROUND_NVIDIA_CARMEL_CNP")
+a98a5eac4d69 ("arm64: Avoid cpus_have_const_cap() for ARM64_WORKAROUND_CAVIUM_23154")
+7f632d331d47 ("arm64: Fixup user features at boot time")
+075f48c924be ("arm64: Rework setup_cpu_features()")
+de66cb37ab64 ("arm64: Add cpucap_is_possible()")
+484de08518e4 ("arm64: Factor out cpucap definitions")
+43b3dfdd0455 ("arm64: support batched/deferred tlb shootdown during page reclamation/migration")

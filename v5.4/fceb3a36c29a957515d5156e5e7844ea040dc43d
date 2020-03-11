@@ -1,0 +1,4 @@
+fceb3a36c29a ("KVM: x86: ioapic: Fix level-triggered EOI and userspace I/OAPIC reconfigure race")
+7455a8327674 ("KVM: x86: don't notify userspace IOAPIC on edge-triggered interrupt EOI")
+5c69d5c113f1 ("KVM: X86: Fix callers of kvm_apic_match_dest() to use correct macros")
+59508b303e4e ("KVM: X86: Move irrelevant declarations out of ioapic.h")

@@ -1,0 +1,6 @@
+e5eff89657e7 ("powerpc/boot: Fix CONFIG_PPC_MPC52XX references")
+c3bb690dc612 ("powerpc/boot: Only build CPM code when necessary")
+f8e8e69cea49 ("powerpc/boot: Only build OPAL code when necessary")
+3d6bf693d8bc ("powerpc/boot: Only build uartlite if XILINX_VIRTEX=y")
+866bfc75f40e ("powerpc: conditionally compile platform-specific serial drivers")
+7c868b66f8cc ("powerpc/64: Do not link crtsaveres.o in boot")

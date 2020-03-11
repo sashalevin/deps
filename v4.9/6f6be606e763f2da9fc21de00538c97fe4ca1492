@@ -1,0 +1,5 @@
+6f6be606e763 ("ring-buffer: Force before_stamp and write_stamp to be different on discard")
+a389d86f7fd0 ("ring-buffer: Have nested events still record running time stamp")
+913ea4d0b107 ("tracing: Mention trace_clock=global when warning about unstable clocks")
+dc4e2801d400 ("ring-buffer: Redefine the unimplemented RINGBUF_TYPE_TIME_STAMP")
+babe3fce95e6 ("ring-buffer: Froce rb_update_write_stamp() to be inlined")

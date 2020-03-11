@@ -1,0 +1,8 @@
+286fd02fd54b ("xhci: fix potential array out of bounds with several interrupters")
+12de0a35c996 ("xhci: Add quirk to zero 64bit registers on Renesas PCIe controllers")
+36b6857932f3 ("xhci: Allow more than 32 quirks")
+fa31b3cb2ae1 ("xhci: Add Intel extended cap / otg phy mux handling")
+191edc5e2e51 ("xhci: Fix front USB ports on ASUS PRIME B350M-A")
+bde0716d1f07 ("xhci: workaround for AMD Promontory disabled ports wakeup")
+da9970668948 ("usb: xhci: Add XHCI_TRUST_TX_LENGTH for Renesas uPD720201")
+4fcae770f302 ("Merge 4.14-rc4 into usb-next")

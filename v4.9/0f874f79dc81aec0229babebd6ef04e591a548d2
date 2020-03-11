@@ -1,0 +1,7 @@
+0f874f79dc81 ("usb: dwc3: debugfs: Print eps Tx/RxFIFO in bytes")
+2c85a1817e4b ("usb: dwc3: debugfs: Properly name Tx/RxFIFO")
+6d5b53c1fd5c ("usb: dwc3: debugfs: Re-use DEFINE_SHOW_ATTRIBUTE() macro")
+b16ea8b9492e ("usb: dwc3: Fix GDBGFIFOSPACE_TYPE values")
+b5c7ed5cca82 ("usb: dwc3: expose dwc3_trb_type_string()")
+90abb425d949 ("usb: dwc3: debugfs: return strings that match tracepoints")
+cdd72ac20b4a ("usb: dwc3: debug: move dwc3_ep0_state_string() to debug.h")

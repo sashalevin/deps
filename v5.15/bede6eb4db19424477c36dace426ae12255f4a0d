@@ -1,0 +1,3 @@
+bede6eb4db19 ("KVM: x86: Use boolean return value for is_{pae,pse,paging}()")
+c53bbe2145f5 ("KVM: x86: SVM: don't passthrough SMAP/SMEP/PKE bits in !NPT && !gCR0.PG case")
+40e5f9080472 ("KVM: nVMX: Abide to KVM_REQ_TLB_FLUSH_GUEST request on nested vmentry/vmexit")

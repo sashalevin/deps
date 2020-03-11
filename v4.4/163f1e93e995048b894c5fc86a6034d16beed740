@@ -1,0 +1,6 @@
+163f1e93e995 ("[media] media-devnode: fix namespace mess")
+bf244f665d76 ("[media] drivers/media/media-devnode: clear private_data before put_device()")
+88336e174645 ("[media] media-devnode: add missing mutex lock in error handler")
+d40ec6fdb0b0 ("[media] media: Fix media_open() to clear filp->private_data in error leg")
+75c7e295707e ("[media] media-devnode.h: document the remaining struct/functions")
+fe3c565e4cbc ("[media] media-devnode: move kernel-doc documentation to the header")

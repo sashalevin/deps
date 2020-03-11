@@ -1,1 +1,5 @@
 1c21e9899d6a ("perf stat: Add 'struct perf_evlist' argument to perf_stat_synthesize_config()")
+1821f4eb480b ("perf stat: Add 'struct perf_tool' argument to perf_stat_synthesize_config()")
+73d586c3917d ("perf stat: Add 'struct perf_stat_config' argument to perf_stat_synthesize_config()")
+491073a61266 ("perf stat: Rename 'is_pipe' argument to 'attrs' in perf_stat_synthesize_config()")
+318ec1841a3f ("perf tools: Switch 'session' argument to 'evlist' in perf_event__synthesize_attrs()")

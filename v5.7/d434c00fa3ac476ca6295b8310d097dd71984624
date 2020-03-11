@@ -1,0 +1,3 @@
+d434c00fa3ac ("kvfree_rcu: Add a bulk-list check when a scheduler is run")
+8ac88f7177c7 ("rcu/tree: Keep kfree_rcu() awake during lock contention")
+9154244c1ab6 ("rcu/tree: Add a shrinker to prevent OOM due to kfree_rcu() batching")

@@ -1,0 +1,7 @@
+6e176d47160c ("NFSv4: Fixes for nfs4_inode_return_delegation()")
+6b4befc0a06b ("NFSv4: Add lease breakpoints in case of a delegation recall or return")
+ee05f456772d ("NFSv4: Fix races between open and delegreturn")
+d51f91d262aa ("NFSv4: Revoke the delegation on success in nfs4_delegreturn_done()")
+e0f07896affd ("NFSv4: Hold the delegation spinlock when updating the seqid")
+f9e0cc9c9790 ("NFSv4: Don't remove the delegation from the super_list more than once")
+b47e0e478c49 ("NFS: Rename nfs_inode_return_delegation_noreclaim()")

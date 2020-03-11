@@ -1,0 +1,5 @@
+a918f5f2cd2c ("xfs: refactor xfs_is_using_logged_xattrs checks in attr item recovery")
+50855427c254 ("xfs: refactor name/length checks in xfs_attri_validate")
+f759784cb61c ("xfs: use an XFS_OPSTATE_ flag for detecting if logged xattrs are available")
+8ef1d96a985e ("xfs: require XFS_SB_FEAT_INCOMPAT_LOG_XATTRS for attr log intent item recovery")
+5302a5c8beb2 ("xfs: only clear log incompat flags at clean unmount")

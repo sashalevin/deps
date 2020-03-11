@@ -1,0 +1,8 @@
+588c7fa022d7 ("mm, slub: change run-time assertion in kmalloc_index() to compile-time")
+bc8fbc5f305a ("kfence: add test suite")
+10efe55f883f ("kfence, Documentation: add KFENCE documentation")
+d438fabce786 ("kfence: use pt_regs to generate stack trace on faults")
+840b23986344 ("arm64, kfence: enable KFENCE for ARM64")
+1dc0da6e9ec0 ("x86, kfence: enable KFENCE for x86")
+0ce20dd84089 ("mm: add Kernel Electric-Fence infrastructure")
+03aaf83fba6e ("arm64/mm: define arch_get_mappable_range()")

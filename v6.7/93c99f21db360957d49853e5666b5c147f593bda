@@ -1,0 +1,5 @@
+93c99f21db36 ("af_unix: Don't stop recv(MSG_DONTWAIT) if consumed OOB skb is at the head.")
+b94038d841a9 ("af_unix: Stop recv(MSG_PEEK) at consumed OOB skb.")
+d098d77232c3 ("selftest: af_unix: Add msg_oob.c.")
+7d139181a891 ("selftest: af_unix: Remove test_unix_oob.c.")
+2aa0cff26ed5 ("selftest: af_unix: Test GC for SCM_RIGHTS.")

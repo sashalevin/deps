@@ -1,0 +1,6 @@
+2bd215df791b ("blk-mq: move blk_mq_sched_insert_request to blk-mq.c")
+05a93117703e ("blk-mq: fold blk_mq_sched_insert_requests into blk_mq_dispatch_plug_list")
+94aa228c2a2f ("blk-mq: move more logic into blk_mq_insert_requests")
+54bdd67d0f88 ("blk-mq: remove hybrid polling")
+34c9f547402f ("blk-mq: make blk_mq_commit_rqs a general function for all commits")
+3e368fb023ff ("blk-mq: remove unncessary from_schedule parameter in blk_mq_plug_issue_direct")

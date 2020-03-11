@@ -1,0 +1,6 @@
+3c9184109e78 ("asm/rwonce: Remove smp_read_barrier_depends() invocation")
+e506ea451254 ("compiler.h: Split {READ,WRITE}_ONCE definitions out into rwonce.h")
+eb73876c7431 ("compiler.h: Move function attributes to compiler_types.h")
+44b97dccb229 ("compiler.h: Remove data_race() and unnecessary checks from {READ,WRITE}_ONCE()")
+e3b779d9ebe8 ("kcsan: Remove 'noinline' from __no_kcsan_or_inline")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

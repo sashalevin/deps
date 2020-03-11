@@ -1,0 +1,7 @@
+e08f343be00c ("locking: Remove rt_rwlock_is_contended().")
+8282947f6734 ("locking/rwlock: Provide RT variant")
+0f383b6dc96e ("locking/spinlock: Provide RT variant")
+342a93247e08 ("locking/spinlock: Provide RT variant header: <linux/spinlock_rt.h>")
+4f084ca74c3f ("locking/spinlock: Split the lock types header, and move the raw types into <linux/spinlock_types_raw.h>")
+531ae4b06a73 ("locking/rtmutex: Split API from implementation")
+b41cda037655 ("locking/rtmutex: Set proper wait context for lockdep")

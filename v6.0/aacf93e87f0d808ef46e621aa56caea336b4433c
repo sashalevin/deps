@@ -1,0 +1,8 @@
+aacf93e87f0d ("rust: fix the default format for CONFIG_{RUSTC,BINDGEN}_VERSION_TEXT")
+5ce86c6c8613 ("rust: suppress error messages from CONFIG_{RUSTC,BINDGEN}_VERSION_TEXT")
+9e98db178370 ("rust: work around `bindgen` 0.69.0 issue")
+f295522886a4 ("kbuild: rust_is_available: handle failures calling `$RUSTC`/`$BINDGEN`")
+7cd6a3e1f94b ("kbuild: rust_is_available: normalize version matching")
+52cae7f28ed6 ("kbuild: rust_is_available: add check for `bindgen` invocation")
+2f7ab1267dc9 ("Kbuild: add Rust support")
+78521f3399ab ("scripts: add `rust_is_available.sh`")

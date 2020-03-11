@@ -1,0 +1,5 @@
+38db987316a3 ("arm64: Add support for SMCCC TRNG entropy source")
+a37e31fc97ef ("firmware: smccc: Introduce SMCCC TRNG framework")
+d433ab42fdc2 ("arm64: random: Remove no longer needed prototypes")
+f2ae97062a48 ("firmware: smccc: Refactor SMCCC specific bits into separate file")
+ad5a57dfe434 ("firmware: smccc: Drop smccc_version enum and use ARM_SMCCC_VERSION_1_x instead")

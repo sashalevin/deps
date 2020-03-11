@@ -1,0 +1,7 @@
+7b6cf6c750da ("drm/bridge: lt9611uxc: drop support for !DRM_BRIDGE_ATTACH_NO_CONNECTOR")
+7c5537cee9a8 ("drm/bridge: lt9611uxc: properly attach to a next bridge")
+91942a37ebba ("drm/bridge: lt9611uxc: Remove a redundant check on existence of bridge->encoder")
+b43a72c4f3a8 ("drm/bridge: lt9611uxc: use int for holding number of modes")
+392b6e9a3c02 ("drm/bridge: lt9611uxc: use drm_bridge_edid_read()")
+e35728d0286c ("drm/bridge: lt9611uxc: use drm_bridge_get_edid() instead of using ->get_edid directly")
+4a46ace5ac62 ("drm/bridge: lt9611uxc: Register and attach our DSI device at probe")

@@ -1,0 +1,7 @@
+ebbe788731cb ("SUNRPC: Don't return error values in sysfs read of closed files")
+421ab1be43bd ("SUNRPC: Do not dereference non-socket transports in sysfs")
+b49ea673e119 ("SUNRPC: lock against ->sock changing during sysfs read")
+17f09d3f619a ("SUNRPC: Check if the xprt is connected before handling sysfs reads")
+69f2cd6df3ee ("SUNRPC: Add dst_port to the sysfs xprt info file")
+e44773daf851 ("SUNRPC: Add srcaddr as a file in sysfs")
+5d46dd04cb68 ("sunrpc: Fix return value of get_srcport()")

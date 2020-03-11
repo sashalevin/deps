@@ -1,0 +1,5 @@
+2dc49651fca1 ("ALSA: mixer_oss: Use guard() for locking")
+6c40eec521af ("ALSA: mixer_oss: ump: Use automatic cleanup of kfree()")
+b1e055f67611 ("ALSA: control: Introduce unlocked version for snd_ctl_find_*() helpers")
+6723670a4835 ("ALSA: control: Make snd_ctl_find_id() argument const")
+56b88b50565c ("ALSA: pcm: Move rwsem lock inside snd_ctl_elem_read to prevent UAF")

@@ -1,0 +1,6 @@
+c61b1607ed4f ("crypto: arm/aes-ce - implement ciphertext stealing for XTS")
+1dede02bdd64 ("crypto: arm/aes-ce - switch to 4x interleave")
+46a22776bc97 ("crypto: arm/aes-ce - yield the SIMD unit between scatterwalk steps")
+fcb0e30df0e8 ("crypto: arm/aes - fix round key prototypes")
+20bb4ef038a9 ("crypto: arm/aes-ce - cosmetic/whitespace cleanup")
+511306b2d075 ("crypto: arm/aes-ce - update IV after partial final CTR block")

@@ -1,0 +1,7 @@
+3352a5556f52 ("arm64: entry: Save some nops when CONFIG_ARM64_PSEUDO_NMI is not set")
+3e3934176a4f ("arm64: entry: cleanup sp_el0 manipulation")
+133d05186325 ("arm64: Make PMR part of task context")
+8f04e8e6e29c ("arm64: ssbd: Add support for PSTATE.SSBS rather than trapping to EL3")
+d71be2b6c0e1 ("arm64: cpufeature: Detect SSBS and advertise to userspace")
+86d0dd34eaff ("arm64: cpufeature: add feature for CRC32 instructions")
+631989303b06 ("Merge tag 'kvmarm-for-v4.19' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

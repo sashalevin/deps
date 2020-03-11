@@ -1,0 +1,6 @@
+0ee50b47532a ("namei: change filename_parentat() calling conventions")
+91ef658fb8b8 ("namei: ignore ERR/NULL names in putname()")
+06422964c882 ("teach set_nameidata() to handle setting the root as well")
+bcba1e7d0d52 ("take LOOKUP_{ROOT,ROOT_GRABBED,JUMPED} out of LOOKUP_... space")
+4f0ed93fb92d ("LOOKUP_MOUNTPOINT: we are cleaning "jumped" flag too late")
+7d6beb71da3c ("Merge tag 'idmapped-mounts-v5.12' of git://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux")

@@ -1,0 +1,6 @@
+a3f574cd6548 ("KVM: arm64: vgic-v4: Plug race between non-residency and v4.1 doorbell")
+e64fab1a1477 ("irqchip/gic-v4.1: Add VPE eviction callback")
+91bf6395f7b8 ("irqchip/gic-v4.1: Add VPE residency callback")
+d97c97baa214 ("irqchip/gic-v4.1: Add mask/unmask doorbell callbacks")
+29c647f3b5ae ("irqchip/gic-v4.1: Plumb skeletal VPE irqchip")
+b22bfea7f16c ("Merge branch 'irq-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

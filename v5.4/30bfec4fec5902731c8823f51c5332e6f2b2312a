@@ -1,0 +1,8 @@
+30bfec4fec59 ("can: rx-offload: can_rx_offload_threaded_irq_finish(): add new function to be called from threaded interrupt")
+c757096ea103 ("can: rx-offload: add skb queue for use during ISR")
+1f0e21a0c065 ("can: mcp251xfd: rename driver files and subdir to mcp251xfd")
+55e5b97f003e ("can: mcp25xxfd: add driver for Microchip MCP25xxFD SPI CAN")
+875347fe5756 ("can: mcp25xxfd: add regmap infrastructure")
+61d2350615c2 ("can: rx-offload: can_rx_offload_reset(): remove no-op function")
+f1242cd981e3 ("can: rx-offload: can_rx_offload_irq_offload_timestamp(): don't use assignment in if condition")
+54dd0b8904ac ("can: rx-offload: fix long lines")

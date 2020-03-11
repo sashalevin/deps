@@ -1,0 +1,8 @@
+bac806830fde ("mmc: core: Add host specific tuning support for SD HS mode")
+91f059c95c6a ("mmc: core: Capture eMMC and SD card errors")
+f614fb60a198 ("mmc: core: Add host specific tuning support for eMMC HS400 mode")
+833592884972 ("mmc: core: Only print retune error when we don't check for card removal")
+8ffb2611a752 ("mmc: host: factor out clearing the retune state")
+77347eda64ed ("mmc: core: clear flags before allowing to retune")
+21adc2e45f4e ("mmc: Improve function name when aborting a tuning cmd")
+2c9017d0b5d3 ("mmc: renesas_sdhi: abort tuning when timeout detected")

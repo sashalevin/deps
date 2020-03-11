@@ -1,0 +1,6 @@
+2028a255f4df ("x86/extable: Annotate ex_handler_msr_mce() as a dead end")
+385bd430c011 ("objtool: Mark __ubsan_handle_builtin_unreachable() as noreturn")
+d4e5268a08b2 ("x86,objtool: Mark cpu_startup_entry() __noreturn")
+105cd6859639 ("x86: Mark __invalid_creds() __noreturn")
+f9cdf7ca57ca ("x86: Mark stop_this_cpu() __noreturn")
+8cb1ae19bfae ("Merge tag 'x86-fpu-2021-11-01' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

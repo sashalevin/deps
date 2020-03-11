@@ -1,0 +1,5 @@
+650e0bde43f3 ("perf tests sigtrap: Skip if running on a kernel with sleepable spinlocks")
+a472ee42e6f6 ("perf test sigtrap: Generalize the BTF routine to reuse it in this test")
+187c7723e4aa ("perf test: Skip sigtrap test on old kernels")
+e9c08f722924 ("perf test sigtrap: Print errno string when failing")
+5504f6794448 ("perf test sigtrap: Add basic stress test for sigtrap handling")

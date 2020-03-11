@@ -1,0 +1,6 @@
+22380b65dc70 ("mfd: mfd-core: Ensure disabled devices are ignored without error")
+466a62d7642f ("mfd: core: Make a best effort attempt to match devices with the correct of_nodes")
+6b5c350648b8 ("mfd: mfd-core: Honour Device Tree's request to disable a child-device")
+5a47c0fbd276 ("mfd: mfd-core: Remove usage counting for .{en,dis}able() call-backs")
+b195e101580d ("mfd: mfd-core: Protect against NULL call-back function pointer")
+c176c6d7e932 ("mfd: core: Set fwnode for created devices")

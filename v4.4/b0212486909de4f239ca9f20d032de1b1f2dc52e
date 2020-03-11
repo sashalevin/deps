@@ -1,0 +1,8 @@
+b0212486909d ("drm/i915: Fix missing unlock on error in i915_ppgtt_info()")
+1d2ac403ae3b ("drm: Protect dev->filelist with its own mutex")
+418aa0c296dd ("drm/amdgpu: cleanup gem init/finit")
+7ea235653328 ("drm/amdgpu: rework GEM info printing")
+ebb36d19a0f7 ("drm/amdgpu: print the GPU offset as well in gem_info")
+b22e3ce8a63f ("drm/amdgpu: optionally print the pin count in gem_info as well")
+de0549008ae7 ("drm/amdgpu: print the BO size only once in amdgpu_gem_info")
+3e4ae1dcbb8c ("drm/amdgpu: print pid as integer")

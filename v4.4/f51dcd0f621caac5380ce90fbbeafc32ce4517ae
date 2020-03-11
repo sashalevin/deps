@@ -1,0 +1,7 @@
+f51dcd0f621c ("apparmorfs: fix use-after-free on symlink traversal")
+a481f4d91783 ("apparmor: add custom apparmorfs that will be used by policy namespace files")
+a71ada305801 ("apparmor: add special .null file used to "close" fds at exec")
+cff281f6861e ("apparmor: split apparmor policy namespaces code into its own file")
+fe6bb31f590c ("apparmor: split out shared policy_XXX fns to lib")
+12557dcba21b ("apparmor: move lib definitions into separate lib include")
+2a28900be206 ("udf: Export superblock magic to userspace")

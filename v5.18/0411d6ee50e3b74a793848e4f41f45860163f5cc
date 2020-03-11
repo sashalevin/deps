@@ -1,0 +1,4 @@
+0411d6ee50e3 ("include/linux/mm: fix release_pages_arg kernel doc comment")
+449c796768c9 ("mm: teach release_pages() to take an array of encoded page pointers too")
+ab5e653ee810 ("mm/swap: convert release_pages to use a folio internally")
+e3c4cebf3f9d ("mm: add folios_put()")

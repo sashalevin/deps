@@ -1,0 +1,7 @@
+3cb93f390453 ("drm/amdgpu: fix use-after-free during gpu recovery")
+f6a3f66063ca ("drm/amdgpu: Get rid of amdgpu_job->external_hw_fence")
+9ae55f030dc5 ("drm/amdgpu: Follow up change to previous drm scheduler change.")
+5c1e6fa49e8d ("drm/amdgpu: introduce new amdgpu_fence object to indicate the job embedded fence")
+c530b02f3985 ("drm/amd/amdgpu embed hw_fence into amdgpu_job")
+067f44c8b459 ("drm/amdgpu: avoid over-handle of fence driver fini in s3 test (v2)")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")

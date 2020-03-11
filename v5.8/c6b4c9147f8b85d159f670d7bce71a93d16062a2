@@ -1,0 +1,8 @@
+c6b4c9147f8b ("powerpc/64: Move security code into security.c")
+d2313da4ff56 ("powerpc/setup_64: Fix sparse warnings")
+692e59289526 ("powerpc/setup_64: Make some routines static")
+9a32a7e78bd0 ("powerpc/64s: flush L1D after user accesses")
+f79643787e0a ("powerpc/64s: flush L1D on kernel entry")
+eb553f16973a ("powerpc/64/mm: implement page mapping percpu first chunk allocator")
+2a32abac8860 ("powerpc/percpu: Update percpu bootmem allocator")
+7fa95f9adaee ("powerpc/64s: system call support for scv/rfscv instructions")

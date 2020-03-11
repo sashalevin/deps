@@ -1,0 +1,8 @@
+67f695134703 ("ipv6: Move setting default metric for routes")
+8823a3acfd90 ("net: rtmsg_to_fib6_config() - use new style struct initializer instead of memset")
+e8478e80e5a7 ("net/ipv6: Save route type in rt6_info")
+fc1e64e1092f ("net/ipv6: Add support for onlink flag")
+1edce99fa8d6 ("net/ipv6: Move gateway validation into helper")
+5609b80a37f6 ("ipv6: Set nexthop flags during route creation")
+2ea2352ede9d ("ipv6: prevent user from adding cached routes")
+35732d01fe31 ("ipv6: introduce a hash table to store dst cache")

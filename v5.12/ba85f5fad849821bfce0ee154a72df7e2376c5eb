@@ -1,0 +1,6 @@
+ba85f5fad849 ("spi: bcm2835: Use helper function devm_clk_get_enabled()")
+1e7dae68510a ("spi: fix return value check in bcm2835_spi_probe()")
+497667ab9016 ("spi: bcm2835: Convert to platform remove callback returning void")
+c45c1e82bba1 ("spi: spi-bcm2835: Fix deadlock")
+ec679bda639f ("spi: bcm2835: Allow arbitrary number of slaves")
+13817d466eb8 ("spi: bcm2835: Fix out-of-bounds access with more than 4 slaves")

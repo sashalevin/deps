@@ -1,0 +1,7 @@
+5aecc243776e ("irq: remove CONFIG_HANDLE_DOMAIN_IRQ_IRQENTRY")
+2fe35f8ee726 ("irq: add a (temporary) CONFIG_HANDLE_DOMAIN_IRQ_IRQENTRY")
+d21e64027ce4 ("irq: simplify handle_domain_{irq,nmi}()")
+0e3c1f30b035 ("genirq/irqdesc: Drop excess kernel-doc entry @lookup")
+e1c054918c6c ("genirq: Move non-irqdomain handle_domain_irq() handling into ARM's handle_IRQ()")
+8240ef50d486 ("genirq: Add generic_handle_domain_irq() helper")
+a3016b26ee6e ("genirq: Use irq_resolve_mapping() to implement __handle_domain_irq() and co")

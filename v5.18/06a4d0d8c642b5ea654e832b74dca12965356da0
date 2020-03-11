@@ -1,0 +1,4 @@
+06a4d0d8c642 ("md/raid5-cache: use READ_ONCE/WRITE_ONCE for 'conf->log'")
+a705b11b358d ("md/raid5-cache: fix a deadlock in r5l_exit_log()")
+b13015af94cf ("md/raid5-cache: Clear conf->log after finishing work")
+7769085c8d4d ("md/raid5-cache: Drop RCU usage of conf->log")

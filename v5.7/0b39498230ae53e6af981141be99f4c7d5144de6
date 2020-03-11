@@ -1,0 +1,2 @@
+0b39498230ae ("irqchip/gic-v4.1: Reduce the delay when polling GICR_VPENDBASER.Dirty")
+31dbb6b1d025 ("irqchip/gic-v4.1: Use readx_poll_timeout_atomic() to fix sleep in atomic")

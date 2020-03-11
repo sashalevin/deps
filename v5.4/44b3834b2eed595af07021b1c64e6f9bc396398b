@@ -1,0 +1,8 @@
+44b3834b2eed ("arm64: errata: Remove AES hwcap for COMPAT tasks")
+1dd498e5e26a ("KVM: arm64: Workaround Cortex-A510's single-step and PAC trap errata")
+297ae1eb23b0 ("arm64: cpufeature: List early Cortex-A510 parts as having broken dbm")
+708e8af4924e ("arm64: errata: Add detection for TRBE trace data corruption")
+3bd94a8759de ("arm64: errata: Add detection for TRBE invalid prohibited states")
+607a9afaae09 ("arm64: errata: Add detection for TRBE ignored system register writes")
+83bb2c1a01d7 ("KVM: arm64: Save PSTATE early on exit")
+d7e0a795bf37 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

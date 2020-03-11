@@ -1,0 +1,6 @@
+265b0de2f0f2 ("perf probe: Add missing 0x prefix for addresses printed in hexadecimal")
+22a665513b34 ("perf probe: Fix add event failure when running 32-bit perf in a 64-bit kernel")
+d26ea4814476 ("perf probe: Cleanup synthesize_probe_trace_command()")
+57f95bf5f882 ("perf probe: Show correct statement line number by perf probe -l")
+5a5e3d3ceae2 ("perf probe: Support SDT markers having reference counter (semaphore)")
+9f87498f1cb7 ("perf tools: Add refcnt into struct mem_info")

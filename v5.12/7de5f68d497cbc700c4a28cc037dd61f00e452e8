@@ -1,0 +1,4 @@
+7de5f68d497c ("signal/alpha: si_trapno is only used with SIGFPE and SIGTRAP TRAP_UNK")
+2c9f7eaf0865 ("signal/sparc: si_trapno is only used with SIGILL ILL_ILLTRP")
+9abcabe31118 ("signal: Implement SIL_FAULT_TRAPNO")
+ed8e50800bf4 ("signal, perf: Add missing TRAP_PERF case in siginfo_layout()")

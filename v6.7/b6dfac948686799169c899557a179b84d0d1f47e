@@ -1,0 +1,5 @@
+b6dfac948686 ("selftests/resctrl: Exclude shareable bits from schemata in CAT test")
+19e94a2333c2 ("selftests/resctrl: Create cache_portion_size() helper")
+60c2a6926cc9 ("selftests/resctrl: Mark get_cache_size() cache_type const")
+4b357e2a6d6c ("selftests/resctrl: Refactor get_cbm_mask() and rename to get_full_cbm()")
+cc8ff7f5c85c ("selftests/resctrl: Convert perror() to ksft_perror() or ksft_print_msg()")

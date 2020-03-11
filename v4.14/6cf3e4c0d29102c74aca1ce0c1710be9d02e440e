@@ -1,0 +1,8 @@
+6cf3e4c0d291 ("x86/entry: Cleanup PARAVIRT")
+3e3b9293d392 ("x86/entry/64: Return to userspace from the trampoline stack")
+4fbb39108f97 ("x86/entry/64: Use pop instead of movq in syscall_return_via_sysret")
+e872045bfd9c ("x86/entry/64: Simplify reg restore code in the standard IRET paths")
+8a055d7f411d ("x86/entry/64: Move SWAPGS into the common IRET-to-usermode path")
+26c4ef9c49d8 ("x86/entry/64: Split the IRET-to-user and IRET-to-kernel paths")
+9da78ba6b47b ("x86/entry/64: Remove the restore_c_regs_and_iret label")
+015a2ea54786 ("x86/head: Fix head ELF function annotations")

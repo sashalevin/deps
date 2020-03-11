@@ -1,0 +1,7 @@
+131db4991622 ("bnxt_en: reset PHC frequency in free-running mode")
+a29c132f92ed ("ptp: bnxt: convert .adjfreq to .adjfine")
+85036aee1938 ("bnxt_en: Add a non-real time mode to access NIC clock")
+2b156fb57d8f ("bnxt_en: Initiallize bp->ptp_lock first before using it")
+e7b0afb69083 ("bnxt_en: Implement .adjtime() for PTP RTC mode")
+24ac1ecd5240 ("bnxt_en: Add driver support to use Real Time Counter for PTP")
+740c342e3999 ("bnxt_en: PTP: Refactor PTP initialization functions")

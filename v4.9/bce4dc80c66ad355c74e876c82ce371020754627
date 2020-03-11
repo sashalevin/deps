@@ -1,0 +1,6 @@
+bce4dc80c66a ("sched/core: Simplify update_rq_clock() in __schedule()")
+d1ccc66df8bf ("sched/core: Clean up comments")
+e33a9bba85a8 ("sched/core: move IO scheduling accounting from io_schedule_timeout() into scheduler")
+cb42c9a3ebbb ("sched/core: Add debugging code to catch missing update_rq_clock() calls")
+92509b732baf ("sched/core: Reset RQCF_ACT_SKIP before unpinning rq->lock")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")

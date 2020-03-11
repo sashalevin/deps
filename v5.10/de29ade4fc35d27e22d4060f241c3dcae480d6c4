@@ -1,0 +1,4 @@
+de29ade4fc35 ("mmc: sdhci_am654: Convert to platform remove callback returning void")
+9d2e77ff2bd3 ("mmc: sdhci_am654: Add support for PM suspend/resume")
+654993b3e1eb ("mmc: sdhci_am654: Use dev_err_probe() for mmc_of_parse() return code")
+07e70346e21e ("mmc: sdhci_am654: Use pm_runtime_resume_and_get() to replace open coding")

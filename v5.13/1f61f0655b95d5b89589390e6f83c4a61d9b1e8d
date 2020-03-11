@@ -1,0 +1,8 @@
+1f61f0655b95 ("drm/i915/display/psr: Do full fetch when handling multi-planar formats")
+ac220f5f754b ("drm/i915/display/psr: Handle plane and pipe restrictions at every page flip")
+af7ea1e22afc ("drm/i915/display/psr: Use drm damage helpers to calculate plane damaged area")
+1f3a11c341ab ("drm/i915/display: Workaround cursor left overs with PSR2 selective fetch enabled")
+0e20b769c4b3 ("drm/i915/display/psr: Handle SU Y granularity")
+8aa2d2ef4641 ("drm/i915/display: Replace dc3co_enabled with dc3co_exitline on intel_psr struct")
+9a5b5e1b9813 ("drm/i915/display: Disable PSR2 sel fetch in TGL pre-production")
+8804325861be ("drm/i915/display: Disable PSR2 if TGL Display stepping is B1 from A0")

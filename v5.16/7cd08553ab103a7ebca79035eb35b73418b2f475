@@ -1,0 +1,3 @@
+7cd08553ab10 ("KVM: Don't make a full copy of the old memslot in __kvm_set_memory_region()")
+47ea7d900b1c ("KVM: Open code kvm_delete_memslot() into its only caller")
+afa319a54a8c ("KVM: Require total number of memslot pages to fit in an unsigned long")

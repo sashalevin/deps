@@ -1,0 +1,4 @@
+fd99392b643b ("tty: don't check for signal_pending() in send_break()")
+66619686d187 ("tty: early return from send_break() on TTY_DRIVER_HARDWARE_BREAK")
+af815336556d ("tty: change tty_write_lock()'s ndelay parameter to bool")
+094fb49a2d0d ("tty: Prevent writing chars during tcsetattr TCSADRAIN/FLUSH")

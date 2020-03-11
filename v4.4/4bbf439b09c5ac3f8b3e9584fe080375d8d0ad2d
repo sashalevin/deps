@@ -1,0 +1,7 @@
+4bbf439b09c5 ("fix return values of seq_read_iter()")
+d4d50710a8b4 ("seq_file: add seq_read_iter")
+3bfa7e141b0b ("fs/seq_file.c: seq_read(): add info message about buggy .next functions")
+1f4aace60b0e ("fs/seq_file.c: simplify seq_file iteration code and interface")
+cf5eebae2cd2 ("seq_file: fix incomplete reset on read from zero offset")
+e522751d605d ("seq_file: reset iterator to first record for zero offset")
+088bf2ff5d12 ("fs/seq_file: fix out-of-bounds read")

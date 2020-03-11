@@ -1,0 +1,7 @@
+9ef0f88fe546 ("parisc: Handle case where flush_cache_range is called with no context")
+0adb24e03a12 ("parisc: Fix ordering of cache and TLB flushes")
+13d57093c141 ("parisc: Handle vma's whose context is not current in flush_cache_range")
+ae7a609c34b6 ("parisc: Prevent TLB speculation on flushed pages on CPUs that only support equivalent aliases")
+316ec0624f95 ("parisc: Optimize flush_kernel_vmap_range and invalidate_kernel_vmap_range")
+f39cce654f9a ("parisc: Add cfi_startproc and cfi_endproc to assembly code")
+366dd4ea9d5f ("parisc: Fix ftrace function tracer")

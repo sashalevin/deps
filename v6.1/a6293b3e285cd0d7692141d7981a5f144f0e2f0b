@@ -1,0 +1,6 @@
+a6293b3e285c ("fs: factor out backing_file_{read,write}_iter() helpers")
+f91a704f7161 ("fs: prepare for stackable filesystems backing file helpers")
+6ae654392bb5 ("fs: move kiocb_start_write() into vfs_iocb_iter_write()")
+269aed7014b3 ("fs: move file_start_write() into vfs_iter_write()")
+e389b76a7ee1 ("coda: change locking order in coda_file_write_iter()")
+062cca8915ca ("Merge tag 'vfs-6.7.iomap' of git://git.kernel.org/pub/scm/linux/kernel/git/vfs/vfs")

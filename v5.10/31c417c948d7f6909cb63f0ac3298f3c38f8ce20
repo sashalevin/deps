@@ -1,0 +1,5 @@
+31c417c948d7 ("ip_gre, ip6_gre: Fix race condition on o_seqno in collect_md mode")
+fde98ae91f79 ("ip6_gre: Make o_seqno start from 0 in native mode")
+ff827beb706e ("ip_gre: Make o_seqno start from 0 in native mode")
+ab198e1d0dd8 ("ip6_gre: Fix skb_under_panic in __gre6_xmit()")
+f40c064e933d ("ip6_gre: Avoid updating tunnel->tun_hlen in __gre6_xmit()")

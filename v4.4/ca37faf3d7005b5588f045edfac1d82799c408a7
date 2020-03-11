@@ -1,0 +1,7 @@
+ca37faf3d700 ("iommu: Move sg_table wrapper out of CONFIG_IOMMU_SUPPORT")
+bad614b24293 ("iommu: Enable debugfs exposure of IOMMU driver internals")
+e5b5234a36ca ("iommu: Rename iommu_dm_regions into iommu_resv_regions")
+8d54d6c8b8f3 ("iommu/amd: Implement apply_dm_region call-back")
+33b21a6b203f ("iommu: Add apply_dm_region call-back to iommu-ops")
+b097d11a0fa3 ("iommu/amd: Manage iommu_group for ACPI HID devices")
+0d9bacb6c826 ("iommu: Update struct iommu_ops comments")

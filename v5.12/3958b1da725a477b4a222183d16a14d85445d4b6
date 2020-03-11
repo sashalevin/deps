@@ -1,0 +1,4 @@
+3958b1da725a ("bnxt_en: fix error path of FW reset")
+6cd657cb3ee6 ("bnxt_en: Add missing check for BNXT_STATE_ABORT_ERR in bnxt_fw_rset_task()")
+bae8a00379f4 ("bnxt_en: Remove the read of BNXT_FW_RESET_INPROG_REG after firmware reset.")
+43a440c4007b ("bnxt_en: Improve the status_reliable flag in bp->fw_health.")

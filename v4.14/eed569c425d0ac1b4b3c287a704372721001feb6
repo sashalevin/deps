@@ -1,0 +1,7 @@
+eed569c425d0 ("media: coda: do not skip finish_run if aborting")
+9ee50a9489f1 ("media: coda: lock capture queue wakeup against encoder stop command")
+0f8f63383435 ("media: coda: only wake up capture queue if no pending buffers to encode")
+9e3b94cc03db ("media: coda: mark the last output buffer on encoder stop command")
+cce5b73265db ("media: coda: add coda_wake_up_capture_queue")
+f3775f89852d ("media: coda: fix last buffer handling in V4L2_ENC_CMD_STOP")
+784867d2135a ("media: coda: disable encoder command on decoder and vice versa")

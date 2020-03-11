@@ -1,0 +1,7 @@
+93ffa9a479ff ("x86/init: Add i8042 state to the platform data")
+f6935b7bfbf8 ("x86/init: Disable pnpbios for X86_SUBARCH_INTEL_MID")
+7a17b82ccd66 ("x86/ACPI: Parse ACPI_FADT_LEGACY_DEVICES")
+80dfd83dfab6 ("x86, drivers/pnpbios: Replace paravirt_enabled() check with legacy device check")
+1330e3bc544a ("x86/init: Use a platform legacy quirk for EBDA")
+088a8ef8207f ("x86/ACPI: Move ACPI_FADT_NO_CMOS_RTC check to ACPI boot code")
+8d152e7a5c75 ("x86/rtc: Replace paravirt rtc check with platform legacy quirk")

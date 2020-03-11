@@ -1,0 +1,8 @@
+79336504781e ("ata: libata-scsi: Fix ata_scsi_dev_rescan() error path")
+0c76106cb975 ("scsi: sd: Fix TCG OPAL unlock on system resume")
+99398d2070ab ("scsi: sd: Do not issue commands to suspended disks on shutdown")
+8b4d9469d0b0 ("ata: libata-scsi: Fix delayed scsi_rescan_device() execution")
+ff48b37802e5 ("scsi: Do not attempt to rescan suspended devices")
+aa3998dbeb3a ("ata: libata-scsi: Disable scsi device manage_system_start_stop")
+3cc2ffe5c16d ("scsi: sd: Differentiate system and runtime start/stop management")
+2a5a4326e583 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,6 @@
+f655dacb59ac ("net: devlink: remove unused locked functions")
+70a2ff89369d ("net: devlink: add unlocked variants of devlink_dpipe*() functions")
+c223d6a4bf6d ("net: devlink: add unlocked variants of devlink_resource*() functions")
+852e85a704c2 ("net: devlink: add unlocked variants of devling_trap*() functions")
+9a7923668bc7 ("net: devlink: make devlink_dpipe_headers_register() return void")
+7715023aa51f ("net: devlink: use helpers to work with devlink->lock mutex")

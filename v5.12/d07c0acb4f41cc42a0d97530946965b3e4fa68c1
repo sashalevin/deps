@@ -1,0 +1,4 @@
+d07c0acb4f41 ("fortify: Fix __compiletime_strlen() under UBSAN_BOUNDS_LOCAL")
+95cadae320be ("fortify: strlen: Avoid shadowing previous locals")
+3009f891bb9f ("fortify: Allow strlen() and strnlen() to pass compile-time known lengths")
+369cd2165d7b ("fortify: Prepare to improve strnlen() and strlen() warnings")

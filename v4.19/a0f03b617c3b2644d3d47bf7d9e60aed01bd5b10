@@ -1,0 +1,3 @@
+a0f03b617c3b ("sched/numa: Stop an exhastive search if a reasonable swap candidate or idle CPU is found")
+cb361d8cdef6 ("sched/fair: Use RCU accessors consistently for ->numa_group")
+16d51a590a8c ("sched/fair: Don't free p->numa_faults with concurrent readers")

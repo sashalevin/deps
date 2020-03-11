@@ -1,0 +1,8 @@
+e994ff5b55e3 ("null_blk: Simplify null_zone_write()")
+3bdde0701e5f ("null_blk: Do zone resource management only if necessary")
+8b631f9cf0b8 ("null_blk: remove the bio based I/O path")
+74fa8f9c553f ("block: pass a queue_limits argument to blk_alloc_disk")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")
+14509b748ff5 ("null_blk: add configfs variable shared_tags")

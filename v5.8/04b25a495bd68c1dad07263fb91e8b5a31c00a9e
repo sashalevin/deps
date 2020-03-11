@@ -1,0 +1,7 @@
+04b25a495bd6 ("rcu: Mark rcu_nmi_enter() call to rcu_cleanup_after_idle() noinstr")
+9ea366f669de ("rcu: Make RCU IRQ enter/exit functions rely on in_nmi()")
+ff5c4f5cad33 ("rcu/tree: Mark the idle relevant functions noinstr")
+ac3caf827488 ("rcu: Add comments marking transitions between RCU watching and not")
+bf37da98c518 ("rcu: Don't acquire lock in NMI handler in rcu_nmi_enter_common()")
+2a2ae872ef7a ("rcu: Add *_ONCE() to rcu_data ->rcu_forced_tick")
+0e247386d9ed ("Merge branches 'doc.2019.12.10a', 'exp.2019.12.09a', 'fixes.2020.01.24a', 'kfree_rcu.2020.01.24a', 'list.2020.01.10a', 'preempt.2020.01.24a' and 'torture.2019.12.09a' into HEAD")

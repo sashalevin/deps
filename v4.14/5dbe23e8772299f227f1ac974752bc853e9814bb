@@ -1,0 +1,8 @@
+5dbe23e87722 ("perf cgroup: Make evlist__find_cgroup() more compact")
+b80271f76ac5 ("perf cgroup: Introduce find_cgroup() method")
+fc9ffb9cf085 ("perf cgroup: Introduce cgroup__get()")
+a53b646030ee ("perf cgroup: Rename close_cgroup() to cgroup__put()")
+9450d0d46c89 ("perf cgroup: Introduce cgroup__delete()")
+3ca32f69592b ("perf cgroup: Rename 'struct cgroup_sel' to 'struct cgroup'")
+a6adc9bdf59c ("perf cgroup: Remove misplaced __maybe_unused")
+25f72f9ed88d ("perf cgroup: Simplify arguments when tracking multiple events")

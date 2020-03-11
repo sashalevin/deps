@@ -1,0 +1,5 @@
+86e14a7386a1 ("drm/amdgpu: Use rpm_mode flag instead of checking it again for rpm")
+6b11af6d1c8f ("drm/amdgpu: add missing pci_disable_device() in amdgpu_pmops_runtime_resume()")
+4a700546ec9b ("drm/amdgpu: put SMU into proper state on runpm suspending for BOCO capable platform")
+11e612a093ab ("drm/amdgpu: don't enable baco on boco platforms in runpm")
+e1543d83ed55 ("drm/amdgpu: Fix crash when hot unplug in BACO")

@@ -1,0 +1,3 @@
+6cfe7b83acdc ("KVM: SVM: Drop redundant writes to vmcb->save.cr4 at RESET/INIT")
+665f4d9238ad ("KVM: SVM: Fall back to KVM's hardcoded value for EDX at RESET/INIT")
+067a456d091d ("KVM: SVM: Require exact CPUID.0x1 match when stuffing EDX at INIT")

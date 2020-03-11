@@ -1,0 +1,5 @@
+8fb9ea65c9d1 ("vc_screen: reload load of struct vc_data pointer in vcs_write() to avoid UAF")
+71d4abfab322 ("vc_screen: rewrite vcs_size to accept vc, not inode")
+d21b0be246bf ("vt: introduce unicode mode for /dev/vcs")
+d8ae72427187 ("vt: preserve unicode values corresponding to screen characters")
+4b4ecd9cb853 ("vt: Perform safe console erase only once")

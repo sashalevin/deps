@@ -1,0 +1,4 @@
+5371a79be97c ("sound: Call cpu_latency_qos_*() instead of pm_qos_*()")
+ffdcc3638c58 ("ASoC: omap-dmic: Add pm_qos handling to avoid overruns with CPU_IDLE")
+373a500e34ae ("ASoC: omap-mcpdm: Add pm_qos handling to avoid under/overruns with CPU_IDLE")
+9834ffd1ecc3 ("ASoC: omap-mcbsp: Add PM QoS support for McBSP to prevent glitches")

@@ -1,0 +1,7 @@
+513246a34b8d ("gpio: sysfs: drop tabs from local variable declarations")
+667630edb5ba ("gpiolib: sysfs: Simplify edge handling in the code")
+e28747da771c ("gpiolib: sysfs: Move sysfs_emit() calls outside of the mutex lock")
+9e23bf6b00fd ("gpiolib: Use sysfs_emit() in "show" functions")
+23cf00ddd2e1 ("gpio: sysfs: Obey valid_mask")
+7a94b88cb708 ("gpio: sysfs: don't use sprintf() for 'value' attribute")
+9295c01253b4 ("gpio: sysfs: correct error handling on 'value' attribute read.")

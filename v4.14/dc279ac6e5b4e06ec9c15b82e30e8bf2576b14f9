@@ -1,0 +1,7 @@
+dc279ac6e5b4 ("cpufreq: dt: Refactor initialization to handle probe deferral properly")
+8b17f17a097b ("cpufreq: dt: Add support for interconnect bandwidth scaling")
+e248d8d35cff ("cpufreq: cpufreq-dt: Use auto-registration of thermal cooling device")
+51c99dd2c06b ("cpufreq: dt: Try freeing static OPPs only if we have added them")
+3ebb62ffc4e4 ("cpu_cooling: Keep only one of_cpufreq*cooling_register() helper")
+ba0966da208e ("cpu_cooling: Remove unused cpufreq_power_cooling_register()")
+f5f263fed66f ("cpu_cooling: Make of_cpufreq_power_cooling_register() parse DT")

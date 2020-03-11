@@ -1,0 +1,7 @@
+a44289b923f6 ("drm/i915/lspcon: Create separate infoframe_enabled helper")
+1a911350dd6c ("drm/i915/display: Enable HDR on gen9 devices with MCA Lspcon")
+ebde5f89b32a ("drm/i915: Nuke lspcon_ycbcr420_config()")
+06fa32846884 ("drm/i915: Nuke lspcon_downsampling")
+f542d671ffce ("drm/i915: Init lspcon after HPD in intel_dp_detect()")
+ef79fafe9dae ("drm/i915: Eliminate intel_dp.regs.dp_tp_{ctl,status}")
+773bd825c4cc ("drm/i915: Extract intel_dp_output_format()")

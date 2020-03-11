@@ -1,0 +1,6 @@
+78cc6e7ef957 ("net: ethernet: freescale: Allow FEC with COMPILE_TEST")
+3f1dcc6a56b0 ("net: fec: add necessary defines to work on ARM64")
+7355f2760620 ("net: fec: add struct bufdesc_prop")
+93c595f7b8c5 ("net: fec: fix fec_enet_get_free_txdesc_num")
+05f3b50ea81d ("net: fec: use CONFIG_ARM instead of CONFIG_ARCH_MXC/SOC_IMX28")
+5cfa30397bc3 ("net: fec: make driver endian-safe")

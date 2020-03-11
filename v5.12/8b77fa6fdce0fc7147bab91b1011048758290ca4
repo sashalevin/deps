@@ -1,0 +1,6 @@
+8b77fa6fdce0 ("nvme: fix use after free when disconnecting a reconnecting ctrl")
+a97157440e1e ("nvme: move the fabrics queue ready check routines to core")
+f4b9e6c90c57 ("nvme: use driver pdu command for passthrough")
+af7fae857ea2 ("nvme-pci: allocate nvme_command within driver pdu")
+c03fd85de293 ("nvme: don't check nvme_req flags for new req")
+7a36604668b9 ("nvme: mark nvme_setup_passsthru() inline")

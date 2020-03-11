@@ -1,0 +1,5 @@
+a68dd9a008e1 ("mmc: sdhci: Convert sdhci_allocate_bounce_buffer() to return void")
+bd9b902798ab ("mmc: sdhci: Implement an SDHCI-specific bounce buffer")
+250dcd11466e ("mmc: sdhci: Avoid swiotlb buffer being full")
+feeef096a770 ("mmc: use new core function mmc_get_dma_dir")
+a4cc7eb4416f ("mmc: dw_mmc: use the cookie's enum values for post/pre_req()")

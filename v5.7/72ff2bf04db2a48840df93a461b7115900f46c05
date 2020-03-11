@@ -1,0 +1,6 @@
+72ff2bf04db2 ("crypto: aesni - xts_crypt() return if walk.nbytes is 0")
+821720b9f34e ("crypto: x86/aes-ni - add missing error checks in XTS code")
+2481104fe98d ("crypto: x86/aes-ni-xts - rewrite and drop indirections via glue helper")
+86ad60a65f29 ("crypto: x86/aes-ni-xts - use direct calls to and 4-way stride")
+032d049ea0f4 ("crypto: aesni - Use TEST %reg,%reg instead of CMP $0,%reg")
+34fdce6981b9 ("x86: Change {JMP,CALL}_NOSPEC argument")

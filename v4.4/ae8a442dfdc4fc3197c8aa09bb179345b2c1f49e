@@ -1,0 +1,7 @@
+ae8a442dfdc4 ("efi/libstub/arm*: Set default address and size cells values for an empty dtb")
+abfb7b686a3e ("efi/libstub/arm*: Pass latest memory map to the kernel")
+ed9cc156c42f ("efi/libstub: Use efi_exit_boot_services() in FDT")
+dadb57abc374 ("efi/libstub: Allocate headspace in efi_get_memory_map()")
+2ddbfc81eac8 ("efi: stub: add implementation of efi_random_alloc()")
+e4fbf4767440 ("efi: stub: implement efi_get_random_bytes() based on EFI_RNG_PROTOCOL")
+7d1fc01afc5a ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/jikos/trivial")

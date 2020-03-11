@@ -1,0 +1,4 @@
+0a7f04b433fc ("drm/ast: Move DDC code to ast_ddc.{c,h}")
+c0af492c872b ("drm/ast: Remove struct ast_{vga,sil165}_connector")
+d66cdb638a49 ("drm/ast: Fail probing if DDC channel could not be initialized")
+c350a08ac7ec ("drm/ast: Turn ioregs_lock to modeset_lock")

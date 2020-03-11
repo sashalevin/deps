@@ -1,0 +1,5 @@
+4c22942734f0 ("net/sched: taprio: avoid calling child->ops->dequeue(child) twice")
+92f966674f6a ("net/sched: taprio: refactor one skb dequeue from TXQ to separate function")
+1638bbbe4ece ("net/sched: taprio: continue with other TXQs if one dequeue() failed")
+2c08a4f898d0 ("net/sched: taprio: replace safety precautions with comments")
+25becba6290b ("net/sched: taprio: stop going through private ops for dequeue and peek")

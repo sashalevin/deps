@@ -1,0 +1,6 @@
+c84b3925c7d6 ("mtd: spi-nor: replace unnecessary div64_u64() with div_u64()")
+6a9eda34418f ("mtd: spi-nor: core: set mtd->eraseregions for non-uniform erase map")
+9983e6da917d ("mtd: spi-nor: store .n_banks in struct spi_nor_flash_parameter")
+d0cfd228b34c ("mtd: spi-nor: default page_size to 256 bytes")
+0554effe99f6 ("mtd: spi-nor: convert .n_sectors to .size")
+74b7ad768353 ("mtd: spi-nor: xilinx: use SPI_NOR_ID() in S3AN_INFO()")

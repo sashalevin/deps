@@ -1,0 +1,5 @@
+4f546939259f ("printk/console: Remove need_default_console variable")
+a6953370d2fc ("printk/console: Rename has_preferred_console to need_default_console")
+ed758b30d541 ("printk/console: Split out code that enables default console")
+e369d8227fd2 ("printk: Fix preferred console selection with multiple matches")
+ad8cd1db80cc ("printk: Move console matching logic into a separate function")

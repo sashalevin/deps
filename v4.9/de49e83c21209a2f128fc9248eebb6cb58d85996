@@ -1,0 +1,8 @@
+de49e83c2120 ("gpio: max77620: convert comma to semicolon")
+80606cb24161 ("gpio: max77620: Use helper variable and clarify")
+e6827bc3faa4 ("gpio: max77620: Initialize hardware state of interrupts")
+15d9e7e847c0 ("gpio: max77620: Use irqchip template")
+c607e5e2e4f4 ("gpio: max77620: Don't shadow error code of platform_get_irq()")
+2a5e6f7eede8 ("gpio: max77620: Fix missing release of interrupt")
+ab3dd9cc24d4 ("gpio: max77620: Fix interrupt handling")
+704355db127e ("gpio: max77620: Do not allocate IRQs upfront")

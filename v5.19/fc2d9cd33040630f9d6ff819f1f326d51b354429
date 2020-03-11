@@ -1,0 +1,8 @@
+fc2d9cd33040 ("arm64: add pte_access_permitted_no_overlay()")
+332c151c710a ("arm64: mte: simplify swap tag restoration logic")
+c4c597f1b367 ("arm64: mte: Do not set PG_mte_tagged if tags were not initialized")
+d77e59a8fccd ("arm64: mte: Lock a page for MTE tag initialisation")
+e059853d14ca ("arm64: mte: Fix/clarify the PG_mte_tagged semantics")
+a8e5e5146ad0 ("arm64: mte: Avoid setting PG_mte_tagged if no tags cleared or restored")
+20794545c146 ("arm64: kasan: Revert "arm64: mte: reset the page tag in page->flags"")
+70c248aca9e7 ("mm: kasan: Skip unpoisoning of user pages")

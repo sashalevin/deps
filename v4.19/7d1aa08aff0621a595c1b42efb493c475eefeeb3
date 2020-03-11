@@ -1,0 +1,7 @@
+7d1aa08aff06 ("gpio: tegra: Convert to immutable irq chip")
+94de03ccc9f5 ("gpio: tegra: Fix irq_set_affinity")
+66fecef5bde0 ("gpio: tegra: Convert to gpio_irq_chip")
+37174f334130 ("gpio: tegra: Use raw_spinlock")
+6ea68fc0a604 ("gpio: tegra: Add lockdep class")
+f56d979cc58e ("gpio: tegra: Properly handle irq_set_irq_wake() error")
+a0b81f1ca432 ("drivers: gpio: tegra: use devm_platform_ioremap_resource()")

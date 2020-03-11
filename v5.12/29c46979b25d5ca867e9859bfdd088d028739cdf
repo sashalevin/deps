@@ -1,0 +1,6 @@
+29c46979b25d ("KVM: x86: Advertise PREFETCHIT0/1 CPUID to user space")
+9977f0877de7 ("KVM: x86: Advertise AVX-NE-CONVERT CPUID to user space")
+24d74b9f5f2a ("KVM: x86: Advertise AVX-VNNI-INT8 CPUID to user space")
+d9db0fd6c5c9 ("KVM: SEV: Mask CPUID[0x8000001F].eax according to supported features")
+013380782d4d ("KVM: x86: Move reverse CPUID helpers to separate header file")
+01de8682b32d ("KVM: x86: Add reverse-CPUID lookup support for scattered SGX features")

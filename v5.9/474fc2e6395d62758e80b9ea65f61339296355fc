@@ -1,0 +1,8 @@
+474fc2e6395d ("spi: spi-mtk-nor: make some internal variables static")
+4e8bfe5cdf77 ("spi: spi-mtk-nor: add new soc mt8186 support")
+5b177234e9fd ("spi: spi-mtk-nor: improve device table for adding more capabilities")
+f32cce8483f1 ("spi: spi-mtk-nor: add axi clock control for MT8192 spi-nor")
+e836d4cf615f ("spi: spi-mtk-nor: support 36bit dma addressing")
+a1daaa991ed1 ("spi: spi-mtk-nor: use dma_alloc_coherent() for bounce buffer")
+fd806575921a ("spi: spi-mtk-nor: add helper for checking prg mode ops")
+e7edd2cf4c7d ("spi: spi-mtk-nor: make use of full capability of prg mode")

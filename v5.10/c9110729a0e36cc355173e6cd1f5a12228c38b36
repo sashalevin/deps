@@ -1,0 +1,4 @@
+c9110729a0e3 ("Input: elants_i2c - use device core to create driver-specific device attributes")
+df0f673485d2 ("Input: elants_i2c - switch to DEFINE_SIMPLE_DEV_PM_OPS() and pm_sleep_ptr()")
+44a87dd73be4 ("Input: elants_i2c - don't set wake_capable and wake_irq")
+2e758f535e23 ("Input: elants_i2c - use PM subsystem to manage wake irq")

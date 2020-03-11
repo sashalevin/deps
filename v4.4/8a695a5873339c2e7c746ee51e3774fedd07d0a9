@@ -1,0 +1,8 @@
+8a695a587333 ("arm64: Kconfig: Remove ARCH_HAS_HOLES_MEMORYMODEL")
+1a2db300348b ("arm64, numa: Add NUMA support for arm64 platforms.")
+83863f25e4b8 ("arm64: Add support for ARCH_SUPPORTS_DEBUG_PAGEALLOC")
+11509a306bb6 ("arm64: mm: allow passing a pgdir to alloc_init_*")
+21ab99c289d3 ("arm64: mm: specialise pagetable allocators")
+95f5c80050ad ("arm64: allow vmalloc regions to be set with set_memory_*")
+57adec866c04 ("arm64: mm: avoid calling apply_to_page_range on empty range")
+01e9d22638f3 ("Merge branch 'for-linus' of git://ftp.arm.linux.org.uk/~rmk/linux-arm")

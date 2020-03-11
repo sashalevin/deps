@@ -1,0 +1,7 @@
+3136895cc5b6 ("iommu: Improve iommu_iotlb_gather helpers")
+f21ae3b10084 ("iommu/mediatek: Gather iova in iommu_unmap to achieve tlb sync once")
+60829b4d00aa ("iommu/mediatek: Get rid of the pgtlock")
+1f4fd6248139 ("iommu/mediatek: Move the tlb_sync into tlb_flush")
+67caf7e2b5a4 ("iommu/mediatek: Delete the leaf in the tlb_flush")
+a7a04ea34e1c ("iommu/mediatek: Use gather to achieve the tlb range flush")
+da3cc91b8db4 ("iommu/mediatek: Add a new tlb_lock for tlb_flush")

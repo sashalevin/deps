@@ -1,0 +1,8 @@
+f8a31244d732 ("efi: libstub: Add mixed mode support to command line initrd loader")
+70912985545a ("efi: libstub: Implement devicepath support for initrd commandline loader")
+c51e97e7f129 ("efi: libstub: Merge zboot decompressor with the ordinary stub")
+2e6fa86f2d48 ("efi: libstub: Enable efi_printk() in zboot decompressor")
+52dce39cd278 ("efi: libstub: Clone memcmp() into the stub")
+0d60ffeec53c ("efi: libstub: Deduplicate ftrace command line argument filtering")
+3c6edd903424 ("efi: zboot: create MemoryMapped() device path for the parent if needed")
+24e88ab04488 ("Merge tag 'efi-loongarch-for-v6.1-2' into HEAD")

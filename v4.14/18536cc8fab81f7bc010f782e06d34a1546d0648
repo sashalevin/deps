@@ -1,0 +1,8 @@
+18536cc8fab8 ("serial: qcom-geni: clean up clock-rate debug printk")
+0fec518018cc ("tty: serial: qcom-geni-serial: Fix %lu -> %u in print statements")
+c474c775716e ("tty: serial: qcom-geni-serial: Fix get_clk_div_rate() which otherwise could return a sub-optimal clock rate.")
+c2194bc999d4 ("tty: serial: qcom-geni-serial: Remove uart frequency table. Instead, find suitable frequency with call to clk_round_rate.")
+a1b44ea340b2 ("tty: serial: qcom_geni_serial: Add 51.2MHz frequency support")
+ce734600545f ("tty: serial: qcom_geni_serial: Update the oversampling rate")
+8a8a66a1a18a ("tty: serial: qcom_geni_serial: Add support for flow control")
+721afaa2aeb8 ("Merge tag 'armsoc-dt' of git://git.kernel.org/pub/scm/linux/kernel/git/arm/arm-soc")

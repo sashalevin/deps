@@ -1,0 +1,5 @@
+dc313f6b125b ("scsi: hisi_sas: Factor out task prep and delivery code")
+08c61b5d902b ("scsi: hisi_sas: Pass abort structure for internal abort")
+0e4620856b89 ("scsi: hisi_sas: Start delivery hisi_sas_task_exec() directly")
+69bfa5fd7b44 ("scsi: hisi_sas: Don't check .nr_hw_queues in hisi_sas_task_prep()")
+60f7c503d971 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,7 @@
+53f985584e3c ("KVM: arm64: pvtime: Fix stolen time accounting across migration")
+4d2d4ce001f2 ("KVM: arm64: Drop type input from kvm_put_guest")
+2dbd780e34ac ("KVM: arm64: pvtime: Fix potential loss of stolen time")
+8564d6372a7d ("KVM: arm64: Support stolen time reporting via shared structure")
+cac0f1b7285e ("KVM: Implement kvm_put_guest()")
+b48c1a45a190 ("KVM: arm64: Implement PV_TIME_FEATURES call")
+55009c6ed2d2 ("KVM: arm/arm64: Factor out hypercall handling from PSCI code")

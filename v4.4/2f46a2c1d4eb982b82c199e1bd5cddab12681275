@@ -1,0 +1,5 @@
+2f46a2c1d4eb ("tty_ioctl(): start taking TIOC[SG]SERIAL into separate methods")
+d01c3289e7d6 ("pty: show associative slave of ptmx in fdinfo")
+d437fa9109ba ("drivers/tty: Convert remaining uses of pr_warning to pr_warn")
+f557474ca3a2 ("tty: Add fasync() hung up file operation")
+c1e33af1ed55 ("pty: Remove pty_unix98_shutdown()")

@@ -1,0 +1,7 @@
+245ebf8e7380 ("powerpc/64s: Always set PMU control registers to frozen/disabled when not in use")
+91668ab7db4b ("powerpc/perf: MMCR0 control for PMU registers under PMCC=00")
+344fbab991a5 ("powerpc/64s: Convert some cpu_setup() and cpu_restore() functions to C")
+388692e943a5 ("powerpc/kernel: Cleanup machine check function declarations")
+327da008e65a ("powerpc: Add POWER10 raw mode cputable entry")
+65156f2b1d9d ("powerpc/perf: Initialize power10 PMU registers in cpu setup routine")
+335aca5f65f1 ("Merge branch 'scv' support into next")

@@ -1,0 +1,8 @@
+bf833fd36f9b ("drm/vmwgfx: Avoid pinning fbdev framebuffers")
+5c6089a1dfa6 ("drm/vmwgfx: Skipping fbdev fb pinning for ldu")
+f08c86c30e96 ("drm/vmwgfx: Annotate ignored return values")
+58541f7a6458 ("drm/vmwgfx: Fix error paths when mapping framebuffer")
+d5f1a291e323 ("drm/vmwgfx: Delay pinning fbdev framebuffer until after mode set")
+8aa6d4fc5f47 ("drm/ttm: remove lazy parameter from ttm_bo_wait")
+dfd5e50ea43c ("drm/ttm: remove use_ticket parameter from ttm_bo_reserve")
+5ee7b41a8b83 ("drm/ttm: don't wait for BO on initial allocation")

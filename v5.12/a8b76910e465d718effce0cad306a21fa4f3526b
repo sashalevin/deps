@@ -1,0 +1,7 @@
+a8b76910e465 ("preempt: Restore preemption model selection configs")
+c597bfddc9e9 ("sched: Provide Kconfig support for default dynamic preempt mode")
+41eba23efba3 ("init: use $(call cmd,) for generating include/generated/compile.h")
+1011dcce99f8 ("sched,preempt: Move preempt_dynamic to debug.c")
+8a99b6833c88 ("sched: Move SCHED_DEBUG sysctl to debugfs")
+1d1c2509de44 ("sched: Remove sched_schedstats sysctl out from under SCHED_DEBUG")
+b7cc6ec744b3 ("sched/numa: Allow runtime enabling/disabling of NUMA balance without SCHED_DEBUG")

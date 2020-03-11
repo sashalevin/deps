@@ -1,0 +1,5 @@
+27d113cfe892 ("perf arm-spe: Support hardware-based PID tracing")
+9dc9855f18ba ("perf arm-spe: Track task context switch for cpu-mode events")
+8941ba502f74 ("perf arm-spe: Don't wait for PERF_RECORD_EXIT event")
+afb5e9e47faf ("perf arm-spe: Bail out if the trace is later than perf event")
+e582badf1706 ("perf arm-spe: Correct sample flags for dummy event")

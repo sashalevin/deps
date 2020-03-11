@@ -1,0 +1,6 @@
+0a771f7b266b ("netfilter: nf_tables: skip immediate deactivate in _PREPARE_ERROR")
+26b5a5712eb8 ("netfilter: nf_tables: add NFT_TRANS_PREPARE_ERROR to deal with bound set/chain")
+4bedf9eee016 ("netfilter: nf_tables: fix chain binding transaction logic")
+1240eb93f061 ("netfilter: nf_tables: incorrect error path handling with NFT_MSG_NEWRULE")
+d46fc894147c ("netfilter: nf_tables: validate catch-all set elements")
+3c5e44622011 ("netfilter: nf_tables: memleak in hw offload abort path")

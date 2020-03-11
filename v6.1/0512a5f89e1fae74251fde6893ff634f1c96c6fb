@@ -1,0 +1,5 @@
+0512a5f89e1f ("ksmbd: fix multiple out-of-bounds read during context decoding")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+e7067a446264 ("ksmbd: avoid out of bounds access in decode_preauth_ctxt()")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")

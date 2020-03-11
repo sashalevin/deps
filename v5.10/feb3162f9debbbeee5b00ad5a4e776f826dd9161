@@ -1,0 +1,5 @@
+feb3162f9deb ("KVM: nVMX: Reset vmxon_ptr upon VMXOFF emulation.")
+64c785082c21 ("KVM: nVMX: Use INVALID_GPA for pointers used in nVMX.")
+1e9dfbd748f3 ("KVM: nVMX: Use '-1' in 'hv_evmcs_vmptr' to indicate that eVMCS is not in use")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+d51e1d3f6b42 ("KVM: nVMX: Sync unsync'd vmcs02 state to vmcs12 on migration")

@@ -1,0 +1,6 @@
+bf457be1548e ("x86/kaslr: Drop some redundant checks from __process_mem_region()")
+ee435ee6490d ("x86/kaslr: Eliminate 'start_orig' local variable from __process_mem_region()")
+3f9412c73053 ("x86/kaslr: Drop redundant cur_entry from __process_mem_region()")
+451286940d95 ("x86/kaslr: Initialize mem_limit to the real maximum address")
+199c84717612 ("x86/efi: Add efi_fake_mem support for EFI_MEMORY_SP")
+44060e8a5189 ("x86/boot/KASLR: Remove return value from handle_mem_options()")

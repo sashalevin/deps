@@ -1,0 +1,8 @@
+57733e009f0c ("irqchip/bcm2836: Fix missing __init annotation")
+0809ae724904 ("irqchip/bcm2836: Configure mailbox interrupts as standard interrupts")
+ad83c7cb2f37 ("irqchip/irq-bcm2836: Add support for DT interrupt polarity")
+88bbe85dcd37 ("irqchip: bcm2836: Move SMP startup code to arch/arm (v2)")
+1d66af81905a ("clk: bcm2835: remove remains from stub clk driver")
+b19f009d4510 ("clk: bcm2835: Migrate to clk_hw based registration and OF APIs")
+9e400c5cc5c1 ("clk: bcm2835: Mark the CM SDRAM clock's parent as critical")
+043248cd4e96 ("Merge tag 'armsoc-dt' of git://git.kernel.org/pub/scm/linux/kernel/git/arm/arm-soc")

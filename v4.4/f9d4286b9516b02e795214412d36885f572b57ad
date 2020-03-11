@@ -1,0 +1,5 @@
+f9d4286b9516 ("arch/powerpc: Update parameters for csum_tcpudp_magic & csum_tcpudp_nofold")
+7e393220b6e1 ("powerpc: optimise csum_partial() call when len is constant")
+48821a34b1bd ("powerpc32: optimise a few instructions in csum_partial()")
+37e08cad8f17 ("powerpc: inline ip_fast_csum()")
+e0f82bdf2dd0 ("powerpc: unexport csum_tcpudp_magic")

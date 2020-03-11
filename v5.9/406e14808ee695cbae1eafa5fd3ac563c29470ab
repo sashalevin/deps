@@ -1,0 +1,7 @@
+406e14808ee6 ("mmc: block: Remove error check of hw_reset on reset")
+b71597edfaad ("mmc: core: improve API to make clear mmc_hw_reset is for cards")
+29e6a5e01d0a ("mmc: block: let device_add_disk create disk attributes")
+6f1d3247662a ("mmc: block: Fix error path in mmc_blk_probe()")
+ce999ed15e23 ("mmc: block: Simplify logging during probe about added partitions")
+fefdd3c91e0a ("mmc: core: Drop superfluous validations in mmc_hw|sw_reset()")
+3439c588c23c ("mmc: core: document mmc_hw_reset()")

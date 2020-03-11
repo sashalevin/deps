@@ -1,0 +1,6 @@
+3ab26eddc67a ("drm/ast: Move DP501-based connector code into separate helpers")
+a59b026419f3 ("drm/ast: Initialize encoder and connector for VGA in helper function")
+b20384d91967 ("drm/ast: Rename struct ast_connector to struct ast_vga_connector")
+84d826c8fb84 ("drm/ast: Remove unused value dp501_maxclk")
+6abbad2c00bd ("drm/ast: Move connector mode_valid function to CRTC")
+9285f09e8f96 ("drm/ast: Fail if connector initialization fails")

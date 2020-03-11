@@ -1,0 +1,7 @@
+dc18b89ab113 ("io_uring/openclose: add support for IORING_OP_FIXED_FD_INSTALL")
+8f350194d5cf ("io_uring: add support for vectored futex waits")
+194bb58c6090 ("io_uring: add support for futex wake and wait")
+93b8cc60c37b ("io_uring: cancelable uring_cmd")
+528ce6781726 ("io_uring: retain top 8bits of uring_cmd flags for kernel internal use")
+f31ecf671ddc ("io_uring: add IORING_OP_WAITID support")
+fc68fcda0491 ("io_uring/rw: add support for IORING_OP_READ_MULTISHOT")

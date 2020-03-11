@@ -1,0 +1,6 @@
+b57562087b04 ("NFSv4: fail nfs4_refresh_delegation_stateid() when the delegation was revoked")
+12f275cdd163 ("NFSv4: Retry CLOSE and DELEGRETURN on NFS4ERR_OLD_STATEID.")
+8ac2b42238f5 ("NFSv4: Retry the DELEGRETURN if the embedded GETATTR is rejected with EACCES")
+f07d4a31ccd7 ("NFS: Retry the CLOSE if the embedded GETATTR is rejected with EACCES")
+586f1c39daf5 ("NFSv4: Add encode/decode of the layoutreturn op in DELEGRETURN")
+d8434d4c5478 ("NFSv4: Fix missing operation accounting in NFS4_dec_delegreturn_sz")

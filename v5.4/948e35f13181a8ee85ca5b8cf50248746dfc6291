@@ -1,0 +1,6 @@
+948e35f13181 ("crypto: hisilicon/sgl - align the hardware sgl dma address")
+51028c6efa90 ("crypto: hisilicon/sgl - add a comment for block size initialization")
+c61e5644c697 ("crypto: hisilicon - Cap block size at 2^31")
+d8ac7b85236b ("crypto: hisilicon - fix large sgl memory allocation problem when disable smmu")
+48c1cd40fae3 ("crypto: hisilicon - merge sgl support to hisi_qm module")
+a7174f978563 ("crypto: hisilicon - allow compile-testing on x86")

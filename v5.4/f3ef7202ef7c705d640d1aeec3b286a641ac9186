@@ -1,0 +1,8 @@
+f3ef7202ef7c ("tracing: Remove unused argument from "ring_buffer_time_stamp()")
+d8279bfc5e95 ("tracing: Add tracing_event_time_stamp() API")
+b94bc80df648 ("tracing: Use a no_filter_buffering_ref to stop using the filter buffer")
+13292494379f ("tracing: Make struct ring_buffer less ambiguous")
+1c5eb4481e01 ("tracing: Rename trace_buffer to array_buffer")
+ea806eb3eab3 ("ftrace: Add a helper function to modify_ftrace_direct() to allow arch optimization")
+128161f47bc3 ("ftrace: Add helper find_direct_entry() to consolidate code")
+0567d6809182 ("ftrace: Add modify_ftrace_direct()")

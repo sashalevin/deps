@@ -1,0 +1,7 @@
+6d345f7cf83c ("serial: 8250_of: Use serial8250_em485_supported")
+058bc104f7ca ("serial: 8250: Generalize rs485 software emulation")
+41a70b7f4734 ("serial: 8250: Deduplicate rs485 active_timer assignment")
+283e096ffb70 ("serial: 8250: Deduplicate ->rs485_config() callback")
+c6825c6395b7 ("serial: 8250_tegra: Create Tegra specific 8250 driver")
+a4424b90d366 ("tty/serial: Migrate 8250_omap to use has_sysrq")
+0c11b88883db ("tty: 8250_of: Use software emulated RS485 direction control")

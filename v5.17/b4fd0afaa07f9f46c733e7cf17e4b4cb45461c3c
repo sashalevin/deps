@@ -1,0 +1,3 @@
+b4fd0afaa07f ("serial: stm32: Remove unused struct stm32_port txdone element")
+d7c76716169d ("serial: stm32: Use TC interrupt to deassert GPIO RTS in RS485 mode")
+3bcea529b295 ("serial: stm32: Factor out GPIO RTS toggling into separate function")

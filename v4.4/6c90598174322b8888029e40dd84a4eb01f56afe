@@ -1,0 +1,7 @@
+6c9059817432 ("bpf: pre-allocate hash map elements")
+15a07b33814d ("bpf: add lookup/update support for per-cpu hash and array maps")
+a10423b87a7e ("bpf: introduce BPF_MAP_TYPE_PERCPU_ARRAY map")
+824bd0ce6c7c ("bpf: introduce BPF_MAP_TYPE_PERCPU_HASH map")
+688ecfe60220 ("bpf: hash: use per-bucket spinlock")
+45d8390c56bd ("bpf: hash: move select_bucket() out of htab's spinlock")
+6591f1e6662d ("bpf: hash: use atomic count")

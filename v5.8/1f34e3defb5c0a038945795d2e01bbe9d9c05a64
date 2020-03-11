@@ -1,0 +1,7 @@
+1f34e3defb5c ("serial: 8250_bcm7271: Use devm_clk_get_optional_enabled()")
+c77247a52be2 ("serial: 8250_bcm7271: Use dev_err_probe() instead of dev_err()")
+f264f2f6f478 ("serial: 8250_bcm7271: fix leak in `brcmuart_probe`")
+8a3b5477256a ("serial: 8250_bcm7271: balance clk_enable calls")
+15ac1122fd6d ("serial: 8250_bcm7271: Fix arbitration handling")
+c195438f1e84 ("serial: 8250_bcm7271: Propagate error codes from brcmuart_probe()")
+41a469482de2 ("serial: 8250: Add new 8250-core based Broadcom STB driver")

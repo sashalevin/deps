@@ -1,0 +1,8 @@
+7d8093a56063 ("um: Fix Kconfig indentation")
+5c2ffce1e949 ("um: Revert to using stack for pt_regs in signal handling")
+57a05d83b167 ("um: Fix possible deadlock in sig_handler_common()")
+b6024b21fec8 ("um: extend fpstate to _xstate to support YMM registers")
+6de5a8a50016 ("um: fix FPU state preservation around signal handlers")
+32324ce15ea8 ("x86/syscalls: Remove __SYSCALL_COMMON and __SYSCALL_X32")
+fba324744bfd ("x86/syscalls: Refactor syscalltbl.sh")
+4f31d774dd52 ("Merge branch 'for-linus-4.5-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rw/uml")

@@ -1,0 +1,7 @@
+6bf985dc50dd ("io_uring: let io_setup_async_rw take care of iovec")
+6713e7a6145a ("io_uring: refactor io_read for unsupported nowait")
+dc2a6e9aa9c3 ("io_uring: refactor io_resubmit_prep()")
+083692463440 ("io_uring: refactor io_sq_thread() handling")
+632546c4b5a4 ("io_uring: remove duplicated io_size from rw")
+10fc72e43352 ("fs/io_uring Don't use the return value from import_iovec().")
+28cea78af449 ("io_uring: allow non-fixed files with SQPOLL")

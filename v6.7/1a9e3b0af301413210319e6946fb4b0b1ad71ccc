@@ -1,0 +1,6 @@
+1a9e3b0af301 ("ASoC: tas2781: mark const variables tas2563_dvc_table as __maybe_unused")
+92b796845a4a ("ASoC: tas2781: Fix a compiling warning reported by robot kernel test due to adding tas2563_dvc_table")
+a2d6d8aee4a4 ("ALSA: hda: tas2781: mark const variables as __maybe_unused")
+75ed63a5ab5d ("ASoC: tas2781: Add new Kontrol to set tas2563 digital Volume")
+cabf0b0cff07 ("ASoc: tas2781: Set "Speaker Force Firmware Load" as the common kcontrol for both tas27871 and tas2563")
+831ec5e3538e ("ASoC: tas2781: mark dvc_tlv with __maybe_unused")

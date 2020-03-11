@@ -1,0 +1,6 @@
+d7d8535f377e ("blk-mq: order adding requests to hctx->dispatch and checking SCHED_RESTART")
+97889f9ac24f ("blk-mq: remove synchronize_rcu() from blk_mq_del_queue_tag_set()")
+a347c7ad8edf ("blk-mq: reinit q->tag_set_list entry only after grace period")
+79f720a751ca ("blk-mq: only run the hardware queue if IO is pending")
+05b79413946d ("Revert "blk-mq: don't handle TAG_SHARED in restart"")
+358a3a6bccb7 ("blk-mq: don't handle TAG_SHARED in restart")

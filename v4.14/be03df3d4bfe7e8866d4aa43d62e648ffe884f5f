@@ -1,0 +1,6 @@
+be03df3d4bfe ("scsi: core: Fix a procfs host directory removal regression")
+fc663711b944 ("scsi: core: Remove the /proc/scsi/${proc_name} directory earlier")
+2dde5c8d912e ("scsi: core: Fix a comment in function scsi_host_dev_release()")
+3bd6f43f5cb3 ("scsi: core: Ensure that the SCSI error handler gets woken up")
+826a70a08b12 ("SCSI: don't get target/host busy_count in scsi_mq_get_budget()")
+0df21c86bdbf ("scsi: implement .get_budget and .put_budget for blk-mq")

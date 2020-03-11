@@ -1,0 +1,5 @@
+7962cb9b640a ("tools/resolve_btfids: Set srctree variable unconditionally")
+dc3652d3f0d5 ("tools resolve_btfids: Always force HOSTARCH")
+11bb2f7a4590 ("bpf: Fix cross build for CONFIG_DEBUG_INFO_BTF option")
+5a2798ab32ba ("bpf: Add BTF_ID_LIST/BTF_ID/BTF_ID_UNUSED macros")
+fbbb68de80a4 ("bpf: Add resolve_btfids tool to resolve BTF IDs in ELF object")

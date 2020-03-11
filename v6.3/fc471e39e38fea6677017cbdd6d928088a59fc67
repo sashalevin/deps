@@ -1,0 +1,4 @@
+fc471e39e38f ("fs/ntfs3: Use kvmalloc instead of kmalloc(... __GFP_NOWARN)")
+ea303f72d70c ("fs/ntfs3: Use __GFP_NOWARN allocation at ntfs_load_attr_list()")
+6827d50b2c43 ("fs/ntfs3: Refactoring of various minor issues")
+254e69f284d7 ("fs/ntfs3: Fix null-ptr-deref on inode->i_op in ntfs_lookup()")

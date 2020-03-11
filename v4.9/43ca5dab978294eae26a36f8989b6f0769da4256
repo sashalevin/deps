@@ -1,0 +1,4 @@
+43ca5dab9782 ("ASoC: soc-topology: use for_each_component_dais() at remove_dai()")
+52abe6cc1866 ("ASoC: topology: fix oops/use-after-free case with dai driver")
+2eda3cb108b6 ("ASoC: soc-core: avoid nested code on soc_remove_dai()")
+8f27c4abc2cd ("ASoC: topology: Only use valid names of PCM for the kernel DAI & DAI link")

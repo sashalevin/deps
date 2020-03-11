@@ -1,0 +1,7 @@
+06be6ff3d2ec ("mm,hwpoison: rework soft offline for free pages")
+faf53def3b14 ("mm: hugetlb: soft-offline: dissolve_free_huge_page() return zero on !PageHuge")
+d4ae9916ea29 ("mm: soft-offline: close the race against page allocation")
+6bc9b56433b7 ("mm: fix race on soft-offlining free huge pages")
+d4a3a60b37bf ("mm: soft-offline: dissolve free hugepage if soft-offlined")
+c3114a84f7f9 ("mm: hugetlb: soft-offline: dissolve source hugepage after successful migration")
+b37ff71cc626 ("mm: hwpoison: change PageHWPoison behavior on hugetlb pages")

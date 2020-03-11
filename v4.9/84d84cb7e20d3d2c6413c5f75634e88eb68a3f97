@@ -1,0 +1,4 @@
+84d84cb7e20d ("drm/i915: Stop second guessing the caller for intel_uncore_wait_for_register()")
+6976e74b5fa1 ("drm/i915: Don't allow overuse of __intel_wait_for_register_fw()")
+1d1a9774e404 ("drm/i915: Extend intel_wait_for_register_fw() with fast timeout")
+d769ab182771 ("drm/i915: Fix type of timeout_ms parameter in intel_wait_for_register_fw()")

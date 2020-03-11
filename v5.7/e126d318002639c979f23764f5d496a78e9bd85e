@@ -1,0 +1,8 @@
+e126d3180026 ("drm/vc4: dpi: Switch to DRM-managed encoder initialization")
+77932adf2a2c ("drm/vc4: dpi: Add action to disable the clock")
+5801eda938f5 ("drm/vc4: dpi: Remove unnecessary drm_of_panel_bridge_remove call")
+7c9a4bab7aeb ("drm/vc4: dpi: Embed DRM structures into the private structure")
+693e35dcde74 ("drm/vc4: dpi: Remove vc4_dev dpi pointer")
+0caddbbfdfa2 ("drm/vc4: dpi: Switch to devm_drm_of_get_bridge")
+51f4fcd9c4ea ("drm/vc4: drv: Remove the DSI pointer in vc4_drv")
+f6ebc1b0f772 ("drm/vc4: Use simple encoder")

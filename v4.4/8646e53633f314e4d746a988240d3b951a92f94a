@@ -1,0 +1,8 @@
+8646e53633f3 ("KVM: rseq: Update rseq when processing NOTIFY_RESUME on xfer to KVM guest")
+0ed96051531e ("rseq: Remove redundant access_ok()")
+3c532798ec96 ("tracehook: clear TIF_NOTIFY_RESUME in tracehook_notify_resume()")
+935ace2fb5cc ("entry: Provide infrastructure for work before transitioning to guest mode")
+a9f3a74a29af ("entry: Provide generic syscall exit function")
+142781e108b1 ("entry: Provide generic syscall entry functionality")
+c57c80467f90 ("kvm: Add helper function for creating VM worker threads")
+5ad18b2e60b7 ("Merge branch 'siginfo-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/ebiederm/user-namespace")

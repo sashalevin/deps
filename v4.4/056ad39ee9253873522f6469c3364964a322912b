@@ -1,0 +1,3 @@
+056ad39ee925 ("USB: core: Fix free-while-in-use bug in the USB S-Glibrary")
+5f2e5fb873e2 ("drivers: usb: core: Minimize irq disabling in usb_sg_cancel()")
+98b74b0ee57a ("drivers: usb: core: Don't disable irqs in usb_sg_wait() during URB submit.")

@@ -1,0 +1,8 @@
+9a63ae850255 ("arm64: Implement ioremap_np() to map MMIO as nGnRnE")
+d092a8707326 ("arch: rely on asm-generic/io.h for default ioremap_* definitions")
+97c9801a15e5 ("asm-generic: don't provide ioremap for CONFIG_MMU")
+e97133959ad2 ("asm-generic: ioremap_uc should behave the same with and without MMU")
+ab53cea41861 ("xtensa: clean up ioremap")
+5ace77e0b41a ("nios2: remove __ioremap")
+fded1829a24b ("ia64: rename ioremap_nocache to ioremap_uc")
+80b29b6b8cd7 ("Merge tag 'csky-for-linus-5.4-rc1' of git://github.com/c-sky/csky-linux")

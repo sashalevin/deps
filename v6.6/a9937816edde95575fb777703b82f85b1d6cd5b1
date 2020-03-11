@@ -1,0 +1,5 @@
+a9937816edde ("tls: move tls_prot_info initialization out of tls_set_sw_offload")
+615580cbc99a ("tls: extract context alloc/initialization out of tls_set_sw_offload")
+1c1cb3110d7e ("tls: store iv directly within cipher_context")
+bee6b7b30706 ("tls: rename MAX_IV_SIZE to TLS_MAX_IV_SIZE")
+6d5029e54700 ("tls: store rec_seq directly within cipher_context")

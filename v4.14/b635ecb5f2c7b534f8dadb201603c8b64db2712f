@@ -1,0 +1,5 @@
+b635ecb5f2c7 ("drm/bochs: atomic: use atomic page_flip helper")
+6579c39594ae ("drm/bochs: atomic: switch planes to atomic, wire up helpers.")
+0f0eb98e33c6 ("drm/bochs: atomic: add atomic_flush+atomic_enable callbacks.")
+48b442238250 ("drm/bochs: fix DRM_FORMAT_* handling for big endian machines.")
+df2052cc9221 ("bochs: convert to drm_fb_helper_fbdev_setup/teardown")

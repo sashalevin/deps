@@ -1,0 +1,7 @@
+29aba07aea0e ("mmc: mmci: Add and implement a ->dma_setup() callback for qcom dml")
+ed9067fd5f29 ("mmc: mmci: Initial support to manage variant specific callbacks")
+11dfb9701175 ("mmc: mmci: Don't pretend all variants to have OPENDRAIN bit")
+7f7b55036c56 ("mmc: mmci: Don't pretend all variants to have MCI_STARBITERR flag")
+6ea9cdf3912a ("mmc: mmci: Don't pretend all variants to have MMCIMASK1 register")
+49adc0cacbe8 ("mmc: mmci: refactor ST Micro busy detection")
+5db3eee7b914 ("mmc: mmci: clean up header defines")

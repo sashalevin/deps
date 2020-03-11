@@ -1,0 +1,6 @@
+e3ecf2fdc8f3 ("riscv: mm: Properly forward vmemmap_populate() altmap parameter")
+ff172d4818ad ("riscv: Use hugepage mappings for vmemmap")
+1d9cfee7535c ("mm/sparsemem: enable vmem_altmap support in vmemmap_populate_basepages()")
+9fe57d8c575d ("riscv: Fix undefined reference to vmemmap_populate_basepages")
+d95f1a542c3d ("RISC-V: Implement sparsemem")
+249be8511b26 ("Merge branch 'akpm' (patches from Andrew)")

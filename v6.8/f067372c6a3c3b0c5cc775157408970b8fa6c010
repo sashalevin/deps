@@ -1,0 +1,4 @@
+f067372c6a3c ("gpio: remove the RW semaphore from the GPIO device")
+47d8b4c1d868 ("gpio: add SRCU infrastructure to struct gpio_device")
+be711caa87c5 ("gpio: add SRCU infrastructure to struct gpio_desc")
+e348544f7994 ("gpio: protect the list of GPIO devices with SRCU")

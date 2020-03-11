@@ -1,0 +1,5 @@
+6cb78689fa94 ("io_uring: untie alloc_async_data and needs_async_data")
+6bf985dc50dd ("io_uring: let io_setup_async_rw take care of iovec")
+6713e7a6145a ("io_uring: refactor io_read for unsupported nowait")
+ce3d5aae331f ("io_uring: deduplicate adding to REQ_F_INFLIGHT")
+dc2a6e9aa9c3 ("io_uring: refactor io_resubmit_prep()")

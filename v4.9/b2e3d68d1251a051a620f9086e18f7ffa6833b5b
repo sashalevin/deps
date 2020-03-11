@@ -1,0 +1,7 @@
+b2e3d68d1251 ("netfilter: nft_compat: destroy function must not have side effects")
+cf52572ebbd7 ("netfilter: nft_compat: make lists per netns")
+12c44aba6618 ("netfilter: nft_compat: use refcnt_t type for nft_xt reference count")
+21d5e078192d ("netfilter: nft_compat: explicitly reject ERROR and standard target")
+732a8049f365 ("netfilter: nft_compat: fix handling of large matchinfo size")
+8bdf164744b2 ("netfilter: nft_compat: prepare for indirect info storage")
+b8e9dc1c7571 ("netfilter: nf_tables: nft_compat: fix refcount leak on xt module")

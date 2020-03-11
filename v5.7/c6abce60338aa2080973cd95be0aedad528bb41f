@@ -1,0 +1,5 @@
+c6abce60338a ("mtd: rawnand: fsl_upm: Fix an off-by one test in fun_exec_op()")
+54309d657767 ("mtd: rawnand: fsl_upm: Implement exec_op()")
+abc846afda66 ("mtd: rawnand: fsl_upm: Inherit from nand_controller")
+58c5a0e04dfc ("mtd: rawnand: fsl_upm: Use platform_get_resource() + devm_ioremap_resource()")
+f760bf29f867 ("mtd: rawnand: fsl_upm: Allocate the fsl_upm_nand object using devm_kzalloc()")

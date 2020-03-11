@@ -1,0 +1,5 @@
+f0d50ca045e4 ("kbuild: refactor KBUILD_VMLINUX_{OBJS,LIBS} calculation")
+95fb6317b3ab ("kbuild: merge net-y and virt-y into drivers-y")
+23febe375d94 ("kbuild: merge init-y into core-y")
+7273ad2b08f8 ("kbuild: link lib-y objects to vmlinux forcibly when CONFIG_MODULES=y")
+fcbb8461fd23 ("kbuild: remove header compile test")

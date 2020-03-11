@@ -1,0 +1,4 @@
+d995da612286 ("scsi: qedf: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+5d5e55659b37 ("scsi: qedf: Modify flush routine to handle all I/Os and TMF")
+b9f91992991b ("scsi: stop setting up request->special")
+92bbccdf72ae ("scsi: qedf: Add additional checks when restarting an rport due to ABTS timeout")

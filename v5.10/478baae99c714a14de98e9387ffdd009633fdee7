@@ -1,0 +1,5 @@
+478baae99c71 ("iio: adc: ad7192: Simplify using devm_clk_get_optional_enabled()")
+bd5dcdeb3fd0 ("iio: adc: ad7192: convert to device-managed functions")
+c9ec2cb328e3 ("iio: adc: ad7192: use devm_clk_get_optional() for mclk")
+b0f27fca5a6c ("iio: adc: ad7192: handle regulator voltage error first")
+e32fe6d90f44 ("iio: adc: ad7192: Avoid disabling a clock that was never enabled.")

@@ -1,0 +1,4 @@
+a8c3209998af ("Drivers: hv: vmbus: Copy packets sent by Hyper-V out of the ring buffer")
+4d18fcc95f50 ("hv_netvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+453de21c2b82 ("scsi: storvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+e8b7db38449a ("Drivers: hv: vmbus: Add vmbus_requestor data structure for VMBus hardening")

@@ -1,0 +1,8 @@
+e12e4044aede ("s390/mm: fix mis-accounting of pgtable_bytes")
+61e18270f604 ("s390: Fix runtime warning about negative pgtables_bytes")
+b4e98d9ac775 ("mm: account pud page tables")
+f1c1174fa099 ("s390/mm: use new mm defines instead of magic values")
+1aea9b3f9210 ("s390/mm: implement 5 level pages tables")
+9b11c7912d00 ("s390/mm: simplify arch_get_unmapped_area[_topdown]")
+ee71d16d22bb ("s390/mm: make TASK_SIZE independent from the number of page table levels")
+56b24d1bbcff ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

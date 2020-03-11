@@ -1,0 +1,5 @@
+45090c26614f ("powerpc: simplify patch_instruction_site() and patch_branch_site()")
+082e2869fc02 ("powerpc/code-patching: Add a helper to get the address of a patch_site")
+8183d99f4a22 ("powerpc/lib/feature-fixups: use raw_patch_instruction()")
+8cf4c05712f0 ("powerpc/lib/code-patching: refactor patch_instruction()")
+252eb55816a6 ("powerpc: Fix boot on BOOK3S_32 with CONFIG_STRICT_KERNEL_RWX")

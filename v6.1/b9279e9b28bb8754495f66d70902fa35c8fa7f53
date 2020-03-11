@@ -1,0 +1,7 @@
+b9279e9b28bb ("drm/i915: Fix wrong condition in bxt_set_cdclk for DG2")
+25e0e5ae5610 ("drm/i915/display: Do both crawl and squash when changing cdclk")
+9a0a4ec530a7 ("drm/i915/display: Add missing checks for cdclk crawling")
+fcfe55f214f5 ("drm/i915/display: Move squash_ctl register programming to its own function")
+6688b6b100cc ("drm/i915/display: Move chunks of code out of bxt_set_cdclk()")
+1d32f5d6e416 ("drm/i915/display: Introduce HAS_CDCLK_SQUASH macro")
+c74b644f26e9 ("drm/i915/display: Change terminology for cdclk actions")

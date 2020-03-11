@@ -1,0 +1,7 @@
+f32587dcbe5f ("cpufreq: intel_pstate: Replace three global.turbo_disabled checks")
+0940f1a8011f ("cpufreq: intel_pstate: Do not update global.turbo_disabled after initialization")
+032c5565eb80 ("cpufreq: intel_pstate: Fold intel_pstate_max_within_limits() into caller")
+192cdb1c907f ("cpufreq: intel_pstate: Refine computation of P-state for given frequency")
+37b6ddba967c ("cpufreq: intel_pstate: Revise global turbo disable check")
+dfeeedc1bf57 ("cpufreq: intel_pstate: Update cpuinfo.max_freq on HWP_CAP changes")
+458b03f81afb ("cpufreq: intel_pstate: Drop redundant intel_pstate_get_hwp_cap() call")

@@ -1,0 +1,7 @@
+38c392cef190 ("powerpc/pseries: remove dlpar_cpu_readd()")
+81b61324922c ("powerpc/pseries: Perform full re-add of CPU for topology update post-migration")
+90edf184b9b7 ("powerpc/pseries: Add CPU dlpar add functionality")
+ac71380071d1 ("powerpc/pseries: Add CPU dlpar remove functionality")
+d98389f37532 ("powerpc/pseries: Factor out common cpu hotplug code")
+183deeea5871 ("powerpc/pseries: Consolidate CPU hotplug code to hotplug-cpu.c")
+1f859adb9253 ("powerpc/pseries: Verify CPU doesn't exist before adding")

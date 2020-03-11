@@ -1,0 +1,5 @@
+7a277c22412c ("KVM: x86/pmu: Get eventsel for fixed counters from perf")
+61bb2ad795a7 ("KVM: x86/pmu: Setup fixed counters' eventsel during PMU initialization")
+db9e008a0f37 ("KVM: x86/pmu: Remove KVM's enumeration of Intel's architectural encodings")
+6d88d0ee5de1 ("KVM: x86/pmu: Require nr fixed_pmc_events to match nr max fixed counters")
+0033fa354916 ("KVM: x86/pmu: Use enums instead of hardcoded magic for arch event indices")

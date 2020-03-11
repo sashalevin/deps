@@ -1,0 +1,8 @@
+33592274321e ("scsi: scsi_debug: Set command result and sense data if error is injected")
+33bccf55c20b ("scsi: scsi_debug: Return failed value if error is injected")
+32be8b6e22eb ("scsi: scsi_debug: Time out command if the error is injected")
+4a0c6f432d15 ("scsi: scsi_debug: Add new defer type for mq_poll")
+c4b57d89bad8 ("scsi: scsi_debug: mq_poll support")
+fc13638ae92e ("scsi: scsi_debug: Implement tur_ms_to_ready parameter")
+3a90a63d02b8 ("scsi: scsi_debug: every_nth triggered error injection")
+74595c044cb5 ("scsi: scsi_debug: Fix in_use bitmap corruption")

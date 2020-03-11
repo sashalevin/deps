@@ -1,0 +1,8 @@
+12f4a665cc35 ("RISC-V: Fix hartid mask handling for hartid 31 and up")
+26fb751ca378 ("RISC-V: Do not use cpumask data structure for hartid bitmap")
+5f862df5585c ("RISC-V: KVM: Add v0.1 replacement SBI extensions defined in v0.2")
+c62a76859723 ("RISC-V: KVM: Add SBI v0.2 base extension")
+a046c2d8578c ("RISC-V: KVM: Reorganize SBI code by moving SBI v0.1 to its own file")
+cf70be9d214c ("RISC-V: KVM: Mark the existing SBI implementation as v0.1")
+46808a4cb897 ("KVM: Use 'unsigned long' as kvm_for_each_vcpu()'s index")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")

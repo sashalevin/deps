@@ -1,0 +1,6 @@
+6175b407756b ("x86/mce/inject: Clear test status value")
+891e465a1bd8 ("x86/mce: Check whether writes to MCA_STATUS are getting ignored")
+f11445ba7a11 ("x86/mce: Use arch atomic and bit helpers")
+e3d72e8eee53 ("x86/mce: Mark mce_start() noinstr")
+88f66a423537 ("x86/mce: Use mce_rdmsrl() in severity checking code")
+ad669ec16afe ("x86/mce: Remove function-local cpus variables")

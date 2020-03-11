@@ -1,0 +1,4 @@
+38aeb071b331 ("zswap: potential NULL dereference on error in init_zswap()")
+45190f01dd40 ("mm/zswap.c: add allocation hysteresis if pool limit is hit")
+16e536ef47f5 ("zswap: re-check zswap_is_full() after do zswap_shrink()")
+a85f878b443f ("zswap: same-filled pages handling")

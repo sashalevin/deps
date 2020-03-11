@@ -1,0 +1,8 @@
+d5d5f0791382 ("usb: dwc2: Fix crash in incomplete isoc intr handlers.")
+689efb2619b5 ("usb: dwc2: Update dwc2_handle_incomplete_isoc_out() function")
+1b4977c793d3 ("usb: dwc2: Update dwc2_handle_incomplete_isoc_in() function")
+837e9f00bf99 ("usb: dwc2: gadget: Final fixes for BDMA ISOC")
+381fc8f82289 ("usb: dwc2: gadget: Add Incomplete ISO IN/OUT Interrupt handlers")
+142bd33fcd18 ("usb: dwc2: gadget: Corrected interval calculation")
+92d1635d781a ("usb: dwc2: gadget: Add dwc2_gadget_incr_frame_num()")
+3be99cd0e882 ("usb: dwc2: gadget: don't overwrite DCTL register on NAKEFF interrupts")

@@ -1,0 +1,7 @@
+32c32155cab3 ("drm/i915/sdvo: Constify mapping structs")
+c0ff6c6e4c24 ("drm/i915/sdvo: Rework DDC bus handling")
+c6eddd311da4 ("drm/i915/sdvo: Nuke the duplicate sdvo->port")
+0eb8252a6f79 ("drm/i915/sdvo: Initialize the encoder earlier")
+27cbdc6bddc2 ("drm/i915/display: switch the rest of the connectors to struct drm_edid")
+dd9f377ae121 ("drm/i915/sdvo: stop caching has_hdmi_audio in struct intel_sdvo")
+f2f9c8cb6421 ("drm/i915/sdvo: stop caching has_hdmi_monitor in struct intel_sdvo")

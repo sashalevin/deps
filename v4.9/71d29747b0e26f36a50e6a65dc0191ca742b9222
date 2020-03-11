@@ -1,0 +1,5 @@
+71d29747b0e2 ("sched/deadline,rt: Remove unused functions for !CONFIG_SMP")
+02d8ec9456f4 ("sched/deadline, rt: Rename queue_push_tasks/queue_pull_task to create separate namespace")
+4b53a3412d66 ("sched/core: Remove the tsk_nr_cpus_allowed() wrapper")
+0c98d344fe5c ("sched/core: Remove the tsk_cpus_allowed() wrapper")
+619bd4a71874 ("sched/rt: Add a missing rescheduling point")

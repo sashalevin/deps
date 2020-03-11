@@ -1,0 +1,5 @@
+8e77860c62b6 ("cifs: drop the lease for cached directories on rmdir or rename")
+ebe98f1447bb ("cifs: enable caching of directories for which a lease is held")
+30f8f37147bc ("cifs: store a pointer to a fid in the cfid structure instead of the struct")
+47fc2491e108 ("cifs: improve handlecaching")
+aea6794e664a ("cifs: Make tcon contain a wrapper structure cached_fids instead of cached_fid")

@@ -1,0 +1,6 @@
+1bc6d4452d5c ("fs: new helper vfs_empty_path()")
+cbcc268bb1ce ("fs: Move many prototypes to pagemap.h")
+c56109dd35c9 ("mm/truncate: Combine invalidate_mapping_pagevec() and __invalidate_mapping_pages()")
+d6c75dc22c75 ("mm/truncate: Split invalidate_inode_page() into mapping_evict_folio()")
+4418481396b2 ("mm/truncate: Convert invalidate_inode_page() to use a folio")
+1b8ddbeeb9b8 ("mm/truncate: Inline invalidate_complete_page() into its one caller")

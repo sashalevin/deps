@@ -1,0 +1,8 @@
+7f2aa5b3014a ("drm/i915: reserve stolen for LMEM region")
+a50ca39fbd01 ("drm/i915: setup the LMEM region")
+2dfcc7f4e91f ("drm/i915: make local-memory probing a GT operation")
+8ff5446a7ca4 ("drm/i915: Remove references to struct drm_device.pdev")
+f178b8974386 ("drm/i915: move region_lmem under gt")
+0dbfc1943555 ("drm/i915/lmem: make intel_region_lmem_ops static")
+63de1da14799 ("drm/i915: Remove livelock from "do_idle_maps" vtd w/a")
+0f8d2a2b9fd5 ("drm/i915: Rename i915_{save,restore}_state()")

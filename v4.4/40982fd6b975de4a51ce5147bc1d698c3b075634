@@ -1,0 +1,6 @@
+40982fd6b975 ("arm64: always enable DEBUG_RODATA and remove the Kconfig option")
+030c4d24447c ("arm64: move {PAGE,CONT}_SHIFT into Kconfig")
+604c8e676e60 ("arm64: enable CONFIG_SET_MODULE_RONX by default")
+e44308e62e19 ("arm64: insn: avoid virt_to_page() translations on core kernel symbols")
+57efac2f7108 ("arm64: enable CONFIG_DEBUG_RODATA by default")
+8f0d3aa9de57 ("arm64: mm: support ARCH_MMAP_RND_BITS")

@@ -1,0 +1,8 @@
+1da251c60def ("kconfig: remove SYMBOL_CHOICE flag")
+c83f020973bc ("kconfig: remove named choice support")
+1d7c4f10baac ("kconfig: remove zconf_curname() and zconf_lineno()")
+52907c07c49b ("kconfig: replace current_pos with separate cur_{filename,lineno}")
+313c6cd3c2d5 ("kconfig: fix off-by-one in zconf_error()")
+93c432e8c974 ("kconfig: fix line number in recursive inclusion detection")
+12e3342fc7b0 ("kconfig: remove unneeded buffer allocation in zconf_initscan()")
+a77a05dc9cf2 ("kconfig: split menu.c out of parser.y")

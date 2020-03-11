@@ -1,0 +1,5 @@
+cc37d8efd2ba ("mwifiex: use pci_dma_sync_single* APIs")
+3e66849865ed ("mwifiex: mwifiex_unmap_pci_memory() handling for sleep confirm")
+fe1167883939 ("mwifiex: pcie: read FROMDEVICE DMA-able memory with READ_ONCE()")
+ec815dd2a5f1 ("mwifiex: prevent register accesses after host is sleeping")
+251a9605ab88 ("mwifiex: change sleep cookie poll count")

@@ -1,0 +1,6 @@
+c5dcf76805a7 ("gpio: aspeed-sgpio: Convert to immutable irq_chip")
+ab39d6988dd5 ("gpio: aspeed-sgpio: Convert aspeed_sgpio.lock to raw_spinlock")
+09ac953b65b1 ("gpio: gpio-aspeed-sgpio: Move irq_chip to aspeed-sgpio struct")
+8a3581c666f9 ("gpio: gpio-aspeed-sgpio: Add set_config function")
+e1f85d25638c ("gpio: gpio-aspeed-sgpio: Add AST2600 sgpio support")
+ac67b07e268d ("gpio/aspeed-sgpio: enable access to all 80 input & output sgpios")

@@ -1,0 +1,5 @@
+309e8cda596f ("gfs2: preserve i_mode if __gfs2_set_acl() fails")
+914cea93dd89 ("gfs2: Don't clear SGID when inheriting ACLs")
+073931017b49 ("posix_acl: Clear SGID bit when setting file permissions")
+91942321e4c9 ("f2fs: use inode pointer for {set, clear}_inode_flag")
+f6c658df6385 ("Merge tag 'for-f2fs-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs")

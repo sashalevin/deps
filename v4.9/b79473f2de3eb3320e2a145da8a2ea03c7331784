@@ -1,0 +1,7 @@
+b79473f2de3e ("apparmor: Make aa_remove_profile() callable from a different view")
+73688d1ed0b8 ("apparmor: refactor prepare_ns() and make usable from different views")
+9a2d40c12d00 ("apparmor: add strn version of aa_find_ns")
+98849dff90e2 ("apparmor: rename namespace to ns to improve code line lengths")
+cff281f6861e ("apparmor: split apparmor policy namespaces code into its own file")
+fe6bb31f590c ("apparmor: split out shared policy_XXX fns to lib")
+12557dcba21b ("apparmor: move lib definitions into separate lib include")

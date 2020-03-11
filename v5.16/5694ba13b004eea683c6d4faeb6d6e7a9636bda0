@@ -1,0 +1,8 @@
+5694ba13b004 ("PCI/PM: Only read PCI_PM_CTRL register when available")
+e200904b275c ("PCI/PM: Split pci_power_up()")
+0b59193548e6 ("PCI/PM: Do not call pci_update_current_state() from pci_power_up()")
+6d8c016a55ac ("PCI/PM: Unfold pci_platform_power_transition() in pci_power_up()")
+10aa5377fc8a ("PCI/PM: Split pci_raw_set_power_state()")
+730643d33e2d ("PCI/PM: Resume subordinate bus in bus type callbacks")
+18a94192e20d ("PCI/PM: Define pci_restore_standard_config() only for CONFIG_PM_SLEEP")
+fa52b6447ce1 ("PCI/ERR: Use PCI_POSSIBLE_ERROR() to check config reads")

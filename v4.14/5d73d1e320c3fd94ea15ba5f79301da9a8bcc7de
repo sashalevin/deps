@@ -1,0 +1,4 @@
+5d73d1e320c3 ("random: fix data race on crng_node_pool")
+6c1e851c4edc ("random: fix possible sleeping allocation from irq context")
+8ef35c866f88 ("random: set up the NUMA crng instances after the CRNG is fully initialized")
+dc12baacb95f ("random: use a different mixing algorithm for add_device_randomness()")

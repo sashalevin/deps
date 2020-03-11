@@ -1,0 +1,8 @@
+69143f60868b ("x86/xen: Fix memory leak in xen_smp_intr_init{_pv}()")
+d04b1ae5a9b0 ("xen/events: only register debug interrupt for 2-level events")
+e99502f76271 ("xen/events: defer eoi in case of excessive number of events")
+7beb290caa2a ("xen/events: use a common cpu hotplug hook for event channels")
+54c9de89895e ("xen/events: add a new "late EOI" evtchn framework")
+073d0552ead5 ("xen/events: avoid removing an event channel while handling it")
+0891fb39ba67 ("xen/events: don't use chip_data for legacy IRQs")
+c330fb1ddc0a ("XEN uses irqdesc::irq_data_common::handler_data to store a per interrupt XEN data pointer which contains XEN specific information.")

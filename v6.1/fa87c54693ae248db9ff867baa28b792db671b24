@@ -1,0 +1,6 @@
+fa87c54693ae ("net: enetc: use vmalloc_array and vcalloc")
+f3ce29e169d0 ("net: enetc: split ring resource allocation from assignment")
+d075db51e013 ("net: enetc: bring "bool extended" to top-level in enetc_open()")
+bbd6043f74e1 ("net: enetc: drop redundant enetc_free_tx_frame() call from enetc_free_txbdr()")
+0d6cfd0f5e4d ("net: enetc: create enetc_dma_free_bdr()")
+fbf1cff98c95 ("net: enetc: set up RX ring indices from enetc_setup_rxbdr()")

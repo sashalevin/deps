@@ -1,0 +1,8 @@
+7bf1d7e1abab ("powerpc/32: Use START_EXCEPTION() as much as possible")
+7aa8dd67f157 ("powerpc/32: Always enable data translation in exception prolog")
+0512aadd750a ("powerpc/40x: Prepare normal exception handler for enabling MMU early")
+0fc1e93481f6 ("powerpc/40x: Prepare for enabling MMU in critical exception prolog")
+26c468860c32 ("powerpc/40x: Reorder a few instructions in critical exception prolog")
+fcd4b43c36c6 ("powerpc/40x: Save SRR0/SRR1 and r10/r11 earlier in critical exception")
+9d3c18a11a93 ("powerpc/40x: Change CRITICAL_EXCEPTION_PROLOG macro to a gas macro")
+b12b47249688 ("Merge tag 'powerpc-5.12-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

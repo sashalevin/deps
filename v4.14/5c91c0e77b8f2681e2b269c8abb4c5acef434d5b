@@ -1,0 +1,5 @@
+5c91c0e77b8f ("mm/memory_failure: fix the missing pte_unmap() call")
+6100e34b2526 ("mm, memory_failure: Teach memory_failure() about dev_pagemap pages")
+ae1139ece126 ("mm, memory_failure: Collect mapping size in collect_procs()")
+c0f45555b824 ("signal/memory-failure: Use force_sig_mceerr and send_sig_mceerr")
+83b57531c58f ("mm/memory_failure: Remove unused trapno from memory_failure")

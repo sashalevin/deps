@@ -1,0 +1,5 @@
+a9e8c1f85696 ("perf trace: Use zalloc() to make sure all fields are zeroed in the syscalltbl constructor")
+22e9af4e9480 ("perf tools: Rename HAVE_SYSCALL_TABLE to HAVE_SYSCALL_TABLE_SUPPORT")
+b3fa38963a6a ("perf trace: Remove audit-libs dependency if syscall tables are present")
+901bb0280b60 ("perf trace: Use generated syscall table on s390 too")
+f704ef44602f ("s390/perf: add support for perf_regs and libdw")

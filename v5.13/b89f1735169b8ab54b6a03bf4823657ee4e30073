@@ -1,0 +1,4 @@
+b89f1735169b ("mm/page_alloc: make zone_pcp_update() static")
+04f8cfeaed08 ("mm/page_alloc: adjust pcp->high after CPU hotplug events")
+b92ca18e8ca5 ("mm/page_alloc: disassociate the pcp->high from pcp->batch")
+bbbecb35a41c ("mm/page_alloc: delete vm.percpu_pagelist_fraction")

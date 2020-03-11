@@ -1,0 +1,8 @@
+b54f4260c7df ("iommu/arm-smmu-v3: Rename arm_smmu_master_data to arm_smmu_master")
+9b468f7d9cf1 ("iommu/arm-smmu: Use helper functions to access dev->iommu_fwspec")
+563b5cbe334e ("iommu/arm-smmu-v3: Cope with duplicated Stream IDs")
+a7990c647b35 ("iommu/arm-smmu: fix null-pointer dereference in arm_smmu_add_device")
+c54451a5e241 ("iommu/arm-smmu: Fix the error path in arm_smmu_add_device")
+beb3c6a066bf ("iommu/arm-smmu-v3: Install bypass STEs for IOMMU_DOMAIN_IDENTITY domains")
+67560edcd8e5 ("iommu/arm-smmu-v3: Make arm_smmu_install_ste_for_dev return void")
+8d2932dd0634 ("Merge branches 'iommu/fixes', 'arm/exynos', 'arm/renesas', 'arm/smmu', 'arm/mediatek', 'arm/core', 'x86/vt-d' and 'core' into next")

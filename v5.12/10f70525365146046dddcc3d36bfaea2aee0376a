@@ -1,0 +1,8 @@
+10f705253651 ("s390/vdso: Generate unwind information for C modules")
+8192a1b38075 ("s390/vdso64: filter out munaligned-symbols flag for vdso")
+0628c0393418 ("s390/vdso: drop '-fPIC' from LDFLAGS")
+d15e4314abec ("s390/vdso: filter out mno-pic-data-is-text-relative cflag")
+fd8589dce810 ("s390/vdso: Drop '-shared' from KBUILD_CFLAGS_64")
+7b737adc10d2 ("s390/vdso: remove -nostdlib compiler flag")
+779df2248739 ("s390/vdso: add minimal compat vdso")
+d57778feb987 ("s390/vdso: always enable vdso")

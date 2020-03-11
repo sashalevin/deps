@@ -1,0 +1,8 @@
+3eafe225995c ("sched/core: Refactor the task_flags check for worker sleeping in sched_submit_work()")
+b945efcdd07d ("sched: Remove pointless preemption disable in sched_submit_work()")
+c1cecf884ad7 ("sched: Cache task_struct::flags in sched_submit_work()")
+62849a961292 ("workqueue: Remove the warning in wq_worker_sleeping()")
+771b53d033e8 ("io-wq: small threadpool implementation for io_uring")
+b0fdc01354f4 ("sched/core: Schedule new worker even if PI-blocked")
+6d25be5782e4 ("sched/core, workqueues: Distangle worker accounting from rq lock")
+38e7571c07be ("Merge tag 'io_uring-2019-03-06' of git://git.kernel.dk/linux-block")

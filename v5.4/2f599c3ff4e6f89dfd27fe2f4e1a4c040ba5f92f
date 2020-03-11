@@ -1,0 +1,8 @@
+2f599c3ff4e6 ("iommu/exynos: Implement fault handling on SysMMU v7")
+c64074bfe2ab ("iommu/exynos: Abstract getting the fault info")
+0892c4986b6c ("iommu/exynos: Add SysMMU v7 register set")
+2125afbed841 ("iommu/exynos: Abstract non-common registers on different variants")
+bc0d9af21f46 ("iommu/exynos: Reuse SysMMU constants for page size and order")
+32977242f80e ("iommu/exynos: Make driver independent of the system page size")
+d0272ea1839b ("iommu/exynos: Remove unneeded local variable initialization")
+0f45b04da183 ("iommu/exynos: Use dev_iommu_priv_get/set()")

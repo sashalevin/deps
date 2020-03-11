@@ -1,0 +1,6 @@
+fe60e8f65f79 ("KVM: x86: Use KVM-governed feature framework to track "XSAVES enabled"")
+662f6815786e ("KVM: VMX: Rename XSAVES control to follow KVM's preferred "ENABLE_XYZ"")
+0497d2ac9b26 ("KVM: VMX: Check KVM CPU caps, not just VMX MSR support, for XSAVE enabling")
+1143c0b85c07 ("KVM: VMX: Recompute "XSAVES enabled" only after CPUID update")
+ccf31d6e6cc5 ("KVM: x86/mmu: Use KVM-governed feature framework to track "GBPAGES enabled"")
+42764413d195 ("KVM: x86: Add a framework for enabling KVM-governed x86 features")

@@ -1,0 +1,8 @@
+55cfeb396965 ("net: dsa: bcm_sf2: add function finding RGMII register")
+a9349f08ec6c ("net: dsa: bcm_sf2: setup BCM4908 internal crossbar")
+73b7a6047971 ("net: dsa: bcm_sf2: support BCM4908's integrated switch")
+2ee3adc4aef5 ("net: dsa: bcm_sf2: recalculate switch clock rate based on ports")
+e9ec5c3bd238 ("net: dsa: bcm_sf2: request and handle clocks")
+981015ac60dc ("net: dsa/bcm_sf2: move pause mode setting into mac_link_up()")
+50cc2020a805 ("net: dsa/bcm_sf2: move speed/duplex forcing to mac_link_up()")
+2d1f90f9ba83 ("net: dsa/bcm_sf2: fix incorrect usage of state->link")

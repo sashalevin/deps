@@ -1,0 +1,5 @@
+cf34be7a223b ("usb: host: Host drivers relying on DMA should depend on HAS_DMA")
+1043960c982b ("usb: add HAS_IOMEM dependency to USB_OHCI_HCD")
+eaa86229ff32 ("usb: add HAS_IOMEM dependency to USB_FOTG210_HCD")
+8f2abe808dbf ("usb: add HAS_IOMEM dependency to USB_XHCI_HCD")
+aaa98db7181f ("usb: add HAS_IOMEM dependency to USB_EHCI_HCD")

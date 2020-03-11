@@ -1,0 +1,7 @@
+8e958839e4b9 ("sparc32: mm: Restructure sparc32 MMU page-table layout")
+9157259d16a8 ("mm: add pmd_t initializer __pmd() to work around a GCC bug.")
+d3867f048310 ("sparc: move exports to definitions")
+3a1adb23a52c ("locking/atomic, arch/sparc: Implement atomic{,64}_fetch_{add,sub,and,or,xor}()")
+6b1cabe89924 ("sparc32: drop superfluous cast in calls to __nocache_pa()")
+6e6e41879e07 ("sparc32: fix build with STRICT_MM_TYPECHECKS")
+ca0bb0798022 ("Add sun4v_wdt watchdog driver")

@@ -1,0 +1,5 @@
+d78050ee3544 ("arm64: Remove arm64_dma32_phys_limit and its uses")
+095507dc1350 ("arm64: mm: Fix ARCH_LOW_ADDRESS_LIMIT when !CONFIG_ZONE_DMA")
+8424ecdde7df ("arm64: mm: Set ZONE_DMA size based on devicetree's dma-ranges")
+9804f8c69b04 ("arm64: mm: Move zone_dma_bits initialization into zone_sizes_init()")
+0a30c53573b0 ("arm64: mm: Move reserve_crashkernel() into mem_init()")

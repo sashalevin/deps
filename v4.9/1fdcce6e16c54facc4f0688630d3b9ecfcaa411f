@@ -1,0 +1,4 @@
+1fdcce6e16c5 ("memremap: add scheduling point to devm_memremap_pages")
+ab1b597ee0e4 ("mm, devm_memremap_pages: use multi-order radix for ZONE_DEVICE lookups")
+65f7d0497887 ("mm, x86: Add ARCH_HAS_ZONE_DEVICE to Kconfig")
+71389703839e ("mm, zone_device: Replace {get, put}_zone_device_page() with a single reference to fix pmem crash")

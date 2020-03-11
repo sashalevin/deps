@@ -1,0 +1,4 @@
+583f4ac56254 ("btrfs: move up backref sharedness cache store and lookup functions")
+84a7949d4097 ("btrfs: move ulists to data extent sharedness check context")
+61dbb952f0a5 ("btrfs: turn the backref sharedness check cache into a context object")
+ceb707da9ad9 ("btrfs: directly pass the inode to btrfs_is_data_extent_shared()")

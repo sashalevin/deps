@@ -1,0 +1,5 @@
+20d3c1e9b861 ("hsr: Use a single struct for self_node.")
+e012764cebf6 ("Revert "net: hsr: use hlist_head instead of list_head for mac addresses"")
+a0b92e0514bb ("net: hsr: fix hsr build error when lockdep is not enabled")
+e7f27420681f ("net: hsr: fix suspicious RCU usage warning in hsr_node_get_first()")
+4acc45db7115 ("net: hsr: use hlist_head instead of list_head for mac addresses")

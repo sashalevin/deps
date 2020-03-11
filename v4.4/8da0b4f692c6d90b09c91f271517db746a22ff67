@@ -1,0 +1,5 @@
+8da0b4f692c6 ("fs/proc/base.c: use ns_capable instead of capable for timerslack_ns")
+4b2bd5fec007 ("proc: fix timerslack_ns CAP_SYS_NICE check when adjusting self")
+904763e1fb5e ("proc: add LSM hook checks to /proc/<tid>/timerslack_ns")
+7abbaf940499 ("proc: relax /proc/<tid>/timerslack_ns capability requirements")
+5de23d435e88 ("proc: add /proc/<pid>/timerslack_ns interface")

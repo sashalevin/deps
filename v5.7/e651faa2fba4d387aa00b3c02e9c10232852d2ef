@@ -1,0 +1,7 @@
+e651faa2fba4 ("drivers/tty/vt: use standard array-copy-functions")
+acf90b4d52e6 ("tty/vt: consolemap: use sizeof(*pointer) instead of sizeof(type)")
+32bd78fc4948 ("tty/vt: consolemap: zero uni_pgdir using kcalloc()")
+e16cb6fe3158 ("tty/vt: consolemap: one line = one statement")
+db8f597a4712 ("tty/vt: consolemap: define UNI_* macros for constants")
+4173f018aae1 ("tty/vt: consolemap: rename and document struct uni_pagedir")
+5de30b286e71 ("tty/vt: check allocation size in con_set_unimap()")

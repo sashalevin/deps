@@ -1,0 +1,7 @@
+c56f9ecb7fb6 ("HID: amd_sfh: Switch to device-managed dmam_alloc_coherent()")
+53ffa6a9f83b ("HID: amd_sfh: Add missing check for dma_alloc_coherent")
+173709f50e98 ("HID: amd_sfh: Add command response to check command status")
+24a31ea94922 ("HID: amd_sfh: Add initial support for HPD sensor")
+0aad9c95eb9a ("HID: amd_sfh: Extend ALS support for newer AMD platform")
+f264481ad614 ("HID: amd_sfh: Extend driver capabilities for multi-generation support")
+e3d6a599969b ("HID: amd_sfh: Use devm_kzalloc() instead of kzalloc()")

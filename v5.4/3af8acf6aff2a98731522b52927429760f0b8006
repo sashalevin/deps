@@ -1,0 +1,7 @@
+3af8acf6aff2 ("scripts/decode_stacktrace.sh: support old bash version")
+5bf0f3bc377e ("scripts/decode_stacktrace.sh: silence stderr messages from addr2line/nm")
+f90dde44c57a ("scripts/decode_stacktrace.sh: guess path to vmlinux by release name")
+431151b64af6 ("scripts/decode_stacktrace.sh: guess path to modules")
+ecda6e27fa83 ("scripts/decode_stacktrace.sh: guess basepath if not specified")
+f643b9ee9776 ("scripts/decode_stacktrace.sh: skip missing symbols")
+a5dc8300df75 ("scripts/decode_stacktrace: warn when modpath is needed but is unset")

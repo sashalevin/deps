@@ -1,0 +1,7 @@
+183266f26f45 ("new helper: alloc_file_clone()")
+152b6372c906 ("create_pipe_files(): switch the first allocation to alloc_file_pseudo()")
+d93aa9d82aea ("new wrapper: alloc_file_pseudo()")
+c9c554f21490 ("alloc_file(): switch to passing O_... flags instead of FMODE_... mode")
+b10a4a9f7695 ("create_pipe_files(): use fput() if allocation of the second file fails")
+d202797f480c ("cxl_getfile(): fix double-iput() on alloc_file() failures")
+5f85942c2ea2 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

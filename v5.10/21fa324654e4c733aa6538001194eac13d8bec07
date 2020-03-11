@@ -1,0 +1,7 @@
+21fa324654e4 ("KVM: x86/mmu: Extract zapping of rmaps for gfn range to separate helper")
+e8be2a5ba86c ("KVM: x86/mmu: Drop a redundant remote TLB flush in kvm_zap_gfn_range()")
+edb298c663fc ("KVM: x86/mmu: bump mmu notifier count in kvm_zap_gfn_range")
+88f585358b5e ("KVM: x86/mmu: add comment explaining arguments to kvm_zap_gfn_range")
+2822da446640 ("KVM: x86/mmu: fix parameters to kvm_flush_remote_tlbs_with_address")
+5a324c24b638 ("Revert "KVM: x86/mmu: Allow zap gfn range to operate under the mmu read lock"")
+9a63b4517c60 ("Merge branch 'kvm-tdpmmu-fixes' into HEAD")

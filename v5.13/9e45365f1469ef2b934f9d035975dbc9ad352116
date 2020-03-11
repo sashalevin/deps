@@ -1,0 +1,4 @@
+9e45365f1469 ("arm64: add ID_AA64ISAR2_EL1 sys register")
+930a58b4093e ("arm64: cpuinfo: Split AArch32 registers out into a separate struct")
+21047e91a5a6 ("arm64: Check if GMID_EL1.BS is the same on all CPUs")
+7513cc8a1b74 ("arm64: Change the cpuinfo_arm64 member type for some sysregs to u64")

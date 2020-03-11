@@ -1,0 +1,7 @@
+b48a18644046 ("net: mdio: i2c: fix rollball accessors")
+09bbedac72d5 ("net: phy: mdio-i2c: support I2C MDIO protocol for RollBall SFP modules")
+e85b1347ace6 ("net: sfp: create/destroy I2C mdiobus before PHY probe/after PHY release")
+23571c7b9643 ("net: sfp: move quirk handling into sfp.c")
+2069624dac19 ("net: sfp: Add tx-fault workaround for Huawei MA5671A SFP ONT")
+00eec9fe4f3b ("net: sfp: add 2500base-X quirk for Lantech SFP module")
+f0b4f8476732 ("net: sfp: add mode quirk for GPON module Ubiquiti U-Fiber Instant")

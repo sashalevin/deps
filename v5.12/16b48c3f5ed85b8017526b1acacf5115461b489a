@@ -1,0 +1,8 @@
+16b48c3f5ed8 ("perf/x86/amd/uncore: Detect available DF counters")
+56e026a7ca3f ("perf/x86/amd/core: Detect available counters")
+21d59e3e2c40 ("perf/x86/amd/core: Detect PerfMonV2 support")
+ada543459cab ("perf/x86/amd: Add AMD Fam19h Branch Sampling support")
+369461ce8fb6 ("x86: perf: Move RDPMC event flag to a common definition")
+05485745ad48 ("perf/amd/uncore: Allow the driver to be built as a module")
+5471eea5d3bf ("perf/x86: Reset the dirty counter to prevent the leak for an RDPMC task")
+46ade4740bbf ("perf/x86: Move cpuc->running into P4 specific code")

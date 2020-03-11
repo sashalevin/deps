@@ -1,0 +1,5 @@
+786a9ab13301 ("gpio: davinci: restore a way to manually specify the GPIO base")
+587f7a694f01 ("gpio: davinci: Use dev name for label and automatic base selection")
+eb3744a2dd01 ("gpio: davinci: Do not assume continuous IRQ numbering")
+c1d013a70f55 ("gpio: davinci: Shuffle IRQ resource fetching from DT to beginning of probe")
+7f8e2a85c1b0 ("gpio: davinci: Assign first bank regs for unbanked case")

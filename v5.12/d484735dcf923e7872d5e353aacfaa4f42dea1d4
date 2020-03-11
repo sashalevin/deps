@@ -1,0 +1,4 @@
+d484735dcf92 ("net: virtio: switch to netif_napi_add_weight()")
+8d602e1a132e ("net: move snowflake callers to netif_napi_add_tx_weight()")
+bbbe6ecbc36d ("eth: gfar: remove a copy of the NAPI_POLL_WEIGHT define")
+8eda54c5e6c4 ("gianfar: Drop GFAR_MQ_POLLING support")

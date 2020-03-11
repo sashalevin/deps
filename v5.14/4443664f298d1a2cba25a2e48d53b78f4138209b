@@ -1,0 +1,7 @@
+4443664f298d ("genirq/irqdomain: Add irq_domain:: Dev for per device MSI domains")
+6a9fc4190ca2 ("genirq/irqdomain: Rename irq_domain::dev to irq_domain:: Pm_dev")
+f876ea3b7969 ("genirq/irqdomain: Make struct irqdomain readable")
+ce4818957fdc ("genirq: Use pm_runtime_resume_and_get() instead of pm_runtime_get_sync()")
+745f1fb91fe5 ("irqchip/gic: Switch to dynamic chip name output")
+e95f3efdeb49 ("irqchip/gic: Move PM device over to irq domain")
+1f8863bfb5ca ("genirq: Allow the PM device to originate from irq domain")

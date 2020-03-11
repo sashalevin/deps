@@ -1,0 +1,8 @@
+4f297062b288 ("regulator: rk808: Convert rk805 buck1/2 to use linear range")
+2b679ca11361 ("regulator: rk808: Fix BUCK1/2 voltages on rk805")
+dc6f23edd702 ("regulator: rk808: Constify regulator_ops")
+c4e0d344c1f0 ("regulator: rk808: Add regulator driver for RK805")
+11375293530b ("regulator: rk808: Add regulator driver for RK818")
+9e9daa0a67d5 ("regulator: rk808: Migrate to regulator core's simplified DT parsing code")
+129d7cf98f5c ("regulator: rk808: Add rk808_reg_ops_ranges for LDO3")
+afcd666d9db0 ("regulator: rk808: remove linear range definitions with a single range")

@@ -1,0 +1,6 @@
+6964e6a4e489 ("KVM: PPC: Book3S HV: Do SLB load/unload with guest LPCR value loaded")
+67f8a8c1151c ("KVM: PPC: Book3S HV: Fix bug causing host SLB to be restored incorrectly")
+a25bd72badfa ("powerpc/mm/radix: Workaround prefetch issue with KVM")
+0428491cba92 ("powerpc/mm: Trace tlbie(l) instructions")
+9abcc981de97 ("powerpc/mm/radix: Only add X for pages overlapping kernel text")
+4415b3352825 ("Merge branch 'kvm-ppc-next' of git://git.kernel.org/pub/scm/linux/kernel/git/paulus/powerpc into HEAD")

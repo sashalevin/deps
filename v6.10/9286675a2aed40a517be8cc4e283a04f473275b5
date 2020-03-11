@@ -1,0 +1,8 @@
+9286675a2aed ("HID: bpf: add HID-BPF hooks for hid_hw_output_report")
+75839101ce52 ("HID: bpf: prevent infinite recursions with hid_hw_raw_requests hooks")
+8bd0488b5ea5 ("HID: bpf: add HID-BPF hooks for hid_hw_raw_requests")
+67eccf151d76 ("HID: add source argument to HID low level functions")
+4a86220e046d ("HID: bpf: remove tracing HID-BPF capability")
+ebc0d8093e8c ("HID: bpf: implement HID-BPF through bpf_struct_ops")
+99b40bf8053f ("HID: bpf: add hid_get/put_device() helpers")
+146a06a0d225 ("HID: rename struct hid_bpf_ops into hid_ops")

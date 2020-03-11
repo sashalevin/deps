@@ -1,0 +1,8 @@
+96a669a1958f ("can: kvaser_usb: Add support for Kvaser USBcan Pro 5xCAN")
+2851d357a485 ("can: kvaser_usb: Add support for Vining 800")
+0b40cd9b4ecc ("can: kvaser_usb: Add support for Leaf v3")
+1afae605e0b2 ("kvaser_usb: convert USB IDs to hexadecimal values")
+49f274c72357 ("can: kvaser_usb: replace run-time checks with struct kvaser_usb_driver_info")
+cc4b08c31b5c ("can: do not increase tx_bytes statistics for RTR frames")
+0b0ce2c67795 ("can: kvaser_usb: do not increase tx statistics when sending error message frames")
+05cb2ba4b231 ("can: c_can: rename IF_RX -> IF_NAPI")

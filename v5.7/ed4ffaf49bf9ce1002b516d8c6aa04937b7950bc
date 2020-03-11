@@ -1,0 +1,6 @@
+ed4ffaf49bf9 ("KVM: arm64: Handle SCXTNUM_ELx traps")
+338b17933a60 ("KVM: arm64: Unify trap handlers injecting an UNDEF")
+2ac638fc5724 ("arm64: kvm: mte: Hide the MTE CPUID information from the guests")
+493cf9b723bc ("arm64: s/AMEVTYPE/AMEVTYPER")
+29eb5a3c57f7 ("KVM: arm64: Handle PtrAuth traps early")
+ef3e40a7ea8d ("KVM: arm64: Save the host's PtrAuth keys in non-preemptible context")

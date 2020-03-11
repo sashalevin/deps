@@ -1,0 +1,7 @@
+33f83d13ded1 ("gpio: ws16c48: Fix off-by-one error in WS16C48 resource region extent")
+2c05a0f29f41 ("gpio: ws16c48: Implement and utilize register structures")
+5561a2b08639 ("gpio: ws16c48: Utilize iomap interface")
+fceb7ab3854b ("gpio: ws16c48: Use irqchip template")
+acebb82fe9cd ("gpio: ws16c48: utilize for_each_set_clump8 macro")
+7a702691d0ce ("gpio: ws16c48: Mask read inputs for get_multiple")
+a8ff510dbc2a ("gpio: ws16c48: Implement get_multiple callback")

@@ -1,0 +1,8 @@
+d510497b8397 ("i40e: add input validation for virtchnl handlers")
+0b63644602cf ("i40e: Memory leak in i40e_config_iwarp_qvlist")
+7015ca3df965 ("i40e: add num_vectors checker in iwarp handler")
+0c483bd4b826 ("i40e: Service request to configure bandwidth for ADq on a VF")
+c27eac48160d ("i40e: Enable ADq and create queue channel/s on VF")
+ba4e003d29c1 ("i40e: don't hold spinlock while resetting VF")
+54902349ee95 ("i40e: Fix a potential NULL pointer dereference")
+a3f5aa907340 ("i40e: Enable VF to negotiate number of allocated queues")

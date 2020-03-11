@@ -1,0 +1,7 @@
+bff03d5cab09 ("iio:proximity:as3935: Switch from CONFIG_PM_SLEEP guards to pm_sleep_ptr() etc")
+00fa493b9989 ("iio:proximity:as3935: Drop of_match_ptr and use generic fw accessors")
+c457b7efa302 ("iio:proximity:as3935: Use local struct device pointer to simplify code.")
+11362b7a43ba ("iio: proximity: as3935: fix use-after-free on device remove")
+eb35279dd7c7 ("iio: proximity: as3935: noise detection + threshold changes")
+275292d3a3d6 ("iio: proximity: as3935: fix AS3935_INT mask")
+6272c0de13ab ("iio: proximity: as3935: recalibrate RCO after resume")

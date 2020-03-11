@@ -1,0 +1,6 @@
+89da5a69a831 ("x86/unwind/orc: Add 'unwind_debug' cmdline option")
+b59cc97674c9 ("x86/unwind/orc: Silence warnings caused by missing ORC data")
+fb9cbbc895eb ("x86/unwind/orc: Move ORC sorting variables under !CONFIG_MODULES")
+b08418b54831 ("x86/unwind: Prevent false warnings for non-current tasks")
+153eb2223c79 ("x86/unwind/orc: Convert global variables to static")
+22a7fa8848c5 ("x86/unwind/orc: Fix !CONFIG_MODULES build warning")

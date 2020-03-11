@@ -1,0 +1,8 @@
+c4b603c6e2df ("ASoC: SOF: amd: Fix locking in ACP IRQ handler")
+802134c8c2c8 ("ASoC: SOF: amd: Refactor spinlock_irq(&sdev->ipc_lock) sequence in irq_handler")
+2e7c6652f9b8 ("ASoC: SOF: amd: Fix for handling spurious interrupts from DSP")
+4da6b033f545 ("ASoC: SOF: amd: Make ACP core code generic for newer SOC transition")
+b585692fc937 ("ASoC: SOF: amd: Add SOF pm ops callback for Renoir")
+0da5f110c583 ("ASoC: SOF: amd: renoir: Do not set the load_module ops")
+473dd4ea340c ("ASoC: SOF: amd: Do not set fw_ready callback")
+856601e5a7eb ("ASoC: SOF: remove const qualifier for 'struct snd_sof_dsp_ops'")

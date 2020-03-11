@@ -1,0 +1,7 @@
+2f8594412b4b ("nvme-pci: check DMA ops when indicating support for PCI P2PDMA")
+2f0dad1719cb ("nvme: add bug report info for global duplicate id")
+2079f41ec6ff ("nvme: check that EUI/GUID/UUID are globally unique")
+e2d77d2e11c4 ("nvme: check for duplicate identifiers earlier")
+fd8099e7918c ("nvme: cleanup __nvme_check_ids")
+e7006de6c238 ("nvme: code command_id with a genctr for use-after-free validation")
+3b01a9d0caa8 ("nvme-tcp: don't check blk_mq_tag_to_rq when receiving pdu data")

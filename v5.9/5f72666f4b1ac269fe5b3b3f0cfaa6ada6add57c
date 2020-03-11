@@ -1,0 +1,8 @@
+5f72666f4b1a ("iio: adc: at91-sama5d2_adc: add startup and tracktim as parameter for at91_adc_setup_samp_freq()")
+9780a23ed5a0 ("iio: adc: at91-sama5d2_adc: lock around oversampling and sample freq")
+d84ace944a3b ("iio: adc: at91-sama5d2_adc: check return status for pressure and touch")
+8940de2e4890 ("iio: adc: at91-sama5d2_adc: convert to platform specific data structures")
+eca8523a388f ("iio:trigger: rename try_reenable() to reenable() plus return void")
+01d37c8318d0 ("iio: Fix: Do not poll the driver again if try_reenable() callback returns non 0.")
+672555807f6f ("iio: gyro: adxrs290: Add triggered buffer support")
+2c8920fff145 ("iio: gyro: Add driver support for ADXRS290")

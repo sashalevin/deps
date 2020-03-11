@@ -1,0 +1,6 @@
+f0c5bae5cc56 ("quota: Remove locking for writing to the old quota format")
+8fc32c2b0db2 ("quota: Push dqio_sem down to ->write_dqblk()")
+5e8cb9b6249d ("quota: Protect dquot writeout with dq_lock")
+bc8230ee8e2b ("quota: Convert dqio_mutex to rwsem")
+c3b004460d77 ("quota: Remove dqonoff_mutex")
+9d1ccbe70e0b ("quota: Use s_umount protection for quota operations")

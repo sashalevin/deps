@@ -1,0 +1,4 @@
+85648865bb95 ("net: stmmac: stmmac_main: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+4691ffb18ac9 ("net: stmmac: fix system hang if change mac address after interface ifdown")
+b3dcb3127786 ("net: stmmac: correct clocks enabled in stmmac_vlan_rx_kill_vid()")
+5ec55823438e ("net: stmmac: add clocks management for gmac driver")

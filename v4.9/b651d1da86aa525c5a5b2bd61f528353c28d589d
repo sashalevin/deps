@@ -1,0 +1,4 @@
+b651d1da86aa ("spi: bcm2835aux: Convert to use GPIO descriptors")
+ccd978b708b0 ("spi: bcm2835aux: setup gpio-cs to output and correct level during setup")
+519f2c22a6c7 ("spi: bcm2835aux: warn in dmesg that native cs is not really supported")
+509c583620e9 ("spi: bcm2835aux: fix driver to not allow 65535 (=-1) cs-gpios")

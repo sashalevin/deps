@@ -1,0 +1,8 @@
+e43b3b585480 ("genirq/cpuhotplug: Enforce affinity setting on startup of managed irqs")
+761ea388e8c4 ("genirq: Handle managed irqs gracefully in irq_startup()")
+708d174b6c32 ("genirq: Split out irq_startup() code")
+54fdf6a0875c ("genirq: Introduce IRQD_MANAGED_SHUTDOWN")
+2e051552df69 ("genirq: Move initial affinity setup to irq_startup()")
+cba4235e6031 ("genirq: Remove mask argument from setup_affinity()")
+1bb0401680da ("genirq: Add missing comment for IRQD_STARTED")
+b50fb7c99217 ("Merge branch 'linus' into irq/core")

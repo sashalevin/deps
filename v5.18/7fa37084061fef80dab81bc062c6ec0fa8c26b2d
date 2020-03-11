@@ -1,0 +1,8 @@
+7fa37084061f ("clk: samsung: Implement manual PLL control for ARM64 SoCs")
+5583e92be5c4 ("clk: samsung: Improve kernel-doc comments")
+d1d53909bb5f ("clk: samsung: Fix kernel-doc comments")
+f05dc2024316 ("clk: samsung: exynos5433: Extract PM support to common ARM64 layer")
+454e8d296ce4 ("clk: samsung: Extract parent clock enabling to common function")
+a4c78367f62a ("clk: samsung: Set dev in samsung_clk_init()")
+65bf1fbe784c ("clk: samsung: Don't pass reg_base to samsung_clk_register_pll()")
+45dab8189980 ("clk: samsung: Remove np argument from samsung_clk_init()")

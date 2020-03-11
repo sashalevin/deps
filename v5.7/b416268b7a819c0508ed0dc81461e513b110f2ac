@@ -1,0 +1,7 @@
+b416268b7a81 ("mptcp: use mptcp worker for path management")
+d39dceca388a ("mptcp: add __init annotation on setup functions")
+9b9e2f250e3e ("tcp: move ipv4_specific to tcp include file")
+b03d2142bea8 ("tcp: move ipv6_specific declaration to remove a warning")
+dd2e0b86fc4e ("tcp: remove indirect calls for icsk->icsk_af_ops->send_check")
+05e22e839505 ("tcp: remove indirect calls for icsk->icsk_af_ops->queue_xmit")
+5969856ae8ce ("mptcp: fix races between shutdown and recvmsg")

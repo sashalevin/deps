@@ -1,0 +1,7 @@
+783793b5543d ("RDMA/core: Use common code flow for IPv4/6 for addr resolve")
+a362ea1d9e1a ("RDMA/core: Introduce and use rdma_set_src_addr() between IPv4 and IPv6")
+89c5691cdd95 ("RDMA/core: Let protocol specific function typecast sockaddr structure")
+fd59015d68ee ("IB/addr: Constify dst_entry pointer")
+4cd482c12be4 ("IB/core : Add null pointer check in addr_resolve")
+575c7e583e7e ("RDMA/{core, cma}: Simplify rdma_translate_ip")
+e08ce2e82b2f ("RDMA/core: Make function rdma_copy_addr return void")

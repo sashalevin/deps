@@ -1,0 +1,8 @@
+b2b891334111 ("net: dsa: tag_8021q: fix notifiers broadcast when they shouldn't, and vice versa")
+724395f4dc95 ("net: dsa: tag_8021q: don't broadcast during setup/teardown")
+b6ad86e6ad6c ("net: dsa: sja1105: add bridge TX data plane offload based on tag_8021q")
+884be12f8566 ("net: dsa: sja1105: add support for imprecise RX")
+4fbc08bd3665 ("net: dsa: sja1105: deny 8021q uppers on ports")
+6dfd23d35e75 ("net: dsa: sja1105: delete vlan delta save/restore logic")
+d63f8877c48c ("net: dsa: sja1105: remove redundant re-assignment of pointer table")
+5af84df962dd ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

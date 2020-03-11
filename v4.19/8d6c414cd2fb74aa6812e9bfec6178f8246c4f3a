@@ -1,0 +1,7 @@
+8d6c414cd2fb ("net: prefer socket bound to interface when not in VRF")
+7170a977743b ("net: annotate accesses to sk->sk_incoming_cpu")
+0ee58dad5b06 ("net: tcp6: prefer listeners bound to an address")
+d9fbc7f6431f ("net: tcp: prefer listeners bound to an address")
+6da5b0f027a8 ("net: ensure unbound datagram socket to be chosen when not in a VRF")
+e78190581aff ("net: ensure unbound stream socket to be chosen when not in a VRF")
+3c82a21f4320 ("net: allow binding socket in a VRF when there's an unbound socket")

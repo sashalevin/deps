@@ -1,0 +1,6 @@
+2365f91c861c ("mtd: parsers: trx: allow to use on MediaTek MIPS SoCs")
+81bb218c8292 ("mtd: parsers: trx: Allow to use TRX parser on Mediatek SoCs")
+99352afe8f16 ("mtd: extract TRX parser out of bcm47xxpart into a separated module")
+89a0d9a9f194 ("mtd: bcm47xxpart: support layouts with multiple TRX partitions")
+b522d7b0ebe3 ("mtd: bcm47xxpart: move TRX parsing code to separated function")
+bd5d21310133 ("mtd: bcm47xxpart: fix parsing first block after aligned TRX")

@@ -1,0 +1,8 @@
+2733fb0d0699 ("cpufreq: imx6q: read OCOTP through nvmem for imx6ul/imx6ull")
+0aa9abd4c212 ("cpufreq: imx6q: check speed grades for i.MX6ULL")
+5028f5d2b38e ("cpufreq: imx6q: add 696MHz operating point for i.mx6ul")
+2332bd041993 ("cpufreq: imx6q: switch to Use clk_bulk_get() to refine clk operations")
+2b3d58a3adca ("cpufreq: imx6q: Move speed grading check to cpufreq driver")
+fded5fc8412a ("cpufreq: imx6q: Fix imx6sx low frequency support")
+3fafb4e77279 ("cpufreq: imx6q: imx6ull should use the same flow as imx6ul")
+5aa1599ff039 ("cpufreq: imx6q: Set max suspend_freq to avoid changes during suspend")

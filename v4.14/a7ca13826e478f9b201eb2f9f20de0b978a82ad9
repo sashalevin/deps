@@ -1,0 +1,7 @@
+a7ca13826e47 ("gpio: aspeed: Add interfaces for co-processor to grab GPIOs")
+0f1e03c2b5a3 ("gpio: aspeed: Add command source registers")
+c67dda88cc5d ("gpio: aspeed: Add "Read Data" register to read the write latch")
+44ddf559d579 ("gpio: aspeed: Rework register type accessors")
+ed5cab43f99d ("gpio: aspeed: Use a cache of output data registers")
+af7949284910 ("gpio: aspeed: Set output latch before changing direction")
+1b43d2698574 ("gpio: aspeed: Add support for reset tolerance")

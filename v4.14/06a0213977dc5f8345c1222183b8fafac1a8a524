@@ -1,0 +1,5 @@
+06a0213977dc ("Non-functional cleanup of a "__user * filename"")
+3c1c456f9b96 ("syscalls: sort syscall prototypes in include/linux/syscalls.h")
+1bec510a9ebf ("kexec: move sys_kexec_load() prototype to syscalls.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")

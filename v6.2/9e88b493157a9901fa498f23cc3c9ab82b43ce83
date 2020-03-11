@@ -1,0 +1,5 @@
+9e88b493157a ("ALSA: hda: i915: Alays handle -EPROBE_DEFER")
+65cbbfa4e2ca ("ALSA: hda: Intel: Move snd_hdac_i915_init to before probe_work.")
+32f4e921fe8e ("ALSA: hda: i915: Add an allow_modprobe argument to snd_hdac_i915_init")
+1b21bd7a565c ("ALSA: hda: Use global PCI match macro")
+ff447886e675 ("ALSA: hda: Match only Intel devices with CONTROLLER_IN_GPU()")

@@ -1,0 +1,6 @@
+fb628b71fb2a ("net/mlx5: DR, Allocate htbl from its own slab allocator")
+fd785e5213f0 ("net/mlx5: DR, Allocate icm_chunks from their own slab allocator")
+17b56073a066 ("net/mlx5: DR, Manage STE send info objects in pool")
+183a6706a07e ("net/mlx5: DR, Handle domain memory resources init/uninit separately")
+06ab4a4089d4 ("net/mlx5: DR, Initialize chunk's ste_arrays at chunk creation")
+d277b55f0fa8 ("net/mlx5: DR, Remove unneeded argument from dr_icm_chunk_destroy")

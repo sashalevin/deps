@@ -1,0 +1,5 @@
+0642c2b83749 ("drm/i915/dg1: Don't program PHY_MISC for PHY-C and PHY-D")
+01f953e78e23 ("drm/i915/rkl: RKL only uses PHY_MISC for PHY's A and B")
+cfe86292ec71 ("drm/i915/combo_phy: use intel_de_*() functions for register access")
+646603d9aba7 ("drm/i915/ehl: Ensure that the DDI selection MUX is programmed correctly")
+08b90a717fdb ("drm/i915: use intel_bios_is_port_present()")

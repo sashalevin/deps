@@ -1,0 +1,4 @@
+c147e1ef59d4 ("x86/apic/msi: Use DOMAIN_BUS_GENERIC_MSI for HPET/IO-APIC domain search")
+b643128b917c ("x86/ioapic: Use irq_find_matching_fwspec() to find remapping irqdomain")
+c2a5881c28e5 ("x86/hpet: Use irq_find_matching_fwspec() to find remapping irqdomain")
+3d7295eb3003 ("x86/hpet: Move MSI support into hpet.c")

@@ -1,0 +1,7 @@
+c9811e379b21 ("riscv: Add mem kernel parameter support")
+f842f5ff6aaf ("riscv: Move setup_bootmem into paging_init")
+44c922572952 ("RISC-V: enable XIP")
+a9451b8e1971 ("riscv: Set ARCH_HAS_STRICT_MODULE_RWX if MMU")
+de31ea4a1181 ("riscv: Mark some global variables __ro_after_init")
+2bfc6cd81bd1 ("riscv: Move kernel mapping outside of linear mapping")
+2f100585d045 ("riscv: Enable generic clockevent broadcast")

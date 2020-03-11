@@ -1,0 +1,4 @@
+c98cb5bbdab1 ("block: make bio_queue_enter() fast-path available inline")
+e94f68527a35 ("block: kill extra rcu lock/unlock in queue enter")
+1497a51a3287 ("block: don't bloat enter_queue with percpu_ref")
+eab4e0273369 ("block: use bdev_get_queue() in blk-core.c")

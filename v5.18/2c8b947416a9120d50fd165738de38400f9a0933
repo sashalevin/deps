@@ -1,0 +1,8 @@
+2c8b947416a9 ("mm/mmap: pass vma to vma_merge()")
+93bf5d4aa27d ("mm: abstract VMA merge and extend into vma_merge_extend() helper")
+4b5f2d201698 ("mm: abstract merge for new VMAs into vma_merge_new_vma()")
+adb20b0c785e ("mm: make vma_merge() and split_vma() internal")
+94d7d9233951 ("mm: abstract the vma_merge()/split_vma() pattern for mprotect() et al.")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")
+954652b9f33b ("mm/mremap: fix unaccount of memory on vma_merge() failure")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

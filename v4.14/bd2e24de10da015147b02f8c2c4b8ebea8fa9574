@@ -1,0 +1,8 @@
+bd2e24de10da ("spi: pxa2xx-pci: Move dma_burst_size assignment to ->setup()")
+37821a82e678 ("spi: pxa2xx: Introduce DMA burst size support")
+ec93cb6f827b ("spi: pxa2xx: Add slave mode support")
+d5898e19c0d7 ("spi: pxa2xx: Use core message processing loop")
+8ae55af38817 ("spi: pxa2xx: Remove pump_transfers string from dev_ prints")
+1f99f8938bcd ("spi: pxa2xx: Remove unused argument from pxa2xx_spi_dma_prepare()")
+3cc7b0e35745 ("spi: pxa2xx: Convert to generalized SPI controller API")
+104e51af79a0 ("spi: pxa2xx: Move SSP idle waiting to cs_deassert()")

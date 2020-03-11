@@ -1,0 +1,6 @@
+c928bfc2632f ("KVM: Integrate gfn_to_memslot_approx() into search_memslots()")
+fe22ed827c5b ("KVM: Cache the last used slot index per vCPU")
+0f22af940dc8 ("KVM: Move last_used_slot logic out of search_memslots")
+87689270b10f ("KVM: Rename lru_slot to last_used_slot")
+fb04a1eddb1a ("KVM: X86: Implement ring-based dirty memory tracking")
+c21d54f0307f ("KVM: x86: hyper-v: allow KVM_GET_SUPPORTED_HV_CPUID as a system ioctl")

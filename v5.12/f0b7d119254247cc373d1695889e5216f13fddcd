@@ -1,0 +1,8 @@
+f0b7d1192542 ("selftests/bpf: Switch existing selftests to using open_opts for custom BTF")
+bad2e478af3b ("selftests/bpf: Turn on libbpf 1.0 mode and fix all IS_ERR checks")
+bede0ebf0be8 ("selftests/bpf: Fix core_reloc test runner")
+1969b3c60db6 ("selftests/bpf: Fix the ASSERT_ERR_PTR macro")
+cfc0889cebcc ("selftests/bpf: ringbuf_multi: Test bpf_map__set_inner_map_fd")
+f3f4c23e1238 ("selftests/bpf: ringbuf_multi: Use runtime page size")
+8d7cb74f2ccb ("selftests/bpf: Add a test case for loading BPF_SK_SKB_VERDICT")
+abab306ff04b ("selftests: bpf: Check that PROG_TEST_RUN repeats as requested")

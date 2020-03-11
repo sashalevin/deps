@@ -1,0 +1,5 @@
+c67ddf59ac44 ("riscv: force PAGE_SIZE linear mapping if debug_pagealloc is enabled")
+629db01c64ff ("riscv: Don't use PGD entries for the linear mapping")
+49a0a3731596 ("riscv: Check the virtual alignment before choosing a map size")
+25abe0db9243 ("riscv: Fix kfence now that the linear mapping can be backed by PUD/P4D/PGD")
+310c33dc7a12 ("Merge patch series "Introduce 64b relocatable kernel"")

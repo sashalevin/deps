@@ -1,0 +1,4 @@
+78d0b16127da ("objpool: cache nr_possible_cpus() and avoid caching nr_cpu_ids")
+a3b00f10da80 ("objpool: enable inlining objpool_push() and objpool_pop() operations")
+d67f39d2b81b ("lib: objpool: fix head overrun on RK3588 SBC")
+b4edb8d2d464 ("lib: objpool added: ring-array based lockless MPMC")

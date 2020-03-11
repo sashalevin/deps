@@ -1,0 +1,8 @@
+a3f547addcaa ("x86/mm: Do not shuffle CPU entry areas without KASLR")
+97e3d26b5e5f ("x86/mm: Randomize per-cpu entry area")
+3f148f331814 ("x86/kasan: Map shadow for percpu pages on demand")
+97417cb9ad4e ("x86/hw_breakpoint: Prevent data breakpoints on direct GDT")
+d390e6de89d3 ("x86/hw_breakpoint: Add within_area() to check data breakpoints")
+24ae0c91cbc5 ("x86/hw_breakpoint: Prevent data breakpoints on cpu_entry_area")
+593309423cba ("x86/32: Remove CONFIG_DOUBLEFAULT")
+bd2463ac7d7e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net-next")

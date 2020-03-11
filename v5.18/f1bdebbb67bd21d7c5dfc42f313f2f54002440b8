@@ -1,0 +1,6 @@
+f1bdebbb67bd ("perf bpf: Fix build with libbpf 0.7.0 by checking if bpf_program__set_insns() is available")
+df76e0038370 ("perf build: Stop using __weak bpf_map_create() to handle older libbpf versions")
+982be4775164 ("perf build: Stop using __weak btf__raw_data() to handle older libbpf versions")
+739c9180cfa4 ("perf build: Stop using __weak bpf_object__next_map() to handle older libbpf versions")
+8916d72554e5 ("perf build: Stop using __weak bpf_object__next_program() to handle older libbpf versions")
+5c83eff38194 ("perf build: Stop using __weak bpf_prog_load() to handle older libbpf versions")

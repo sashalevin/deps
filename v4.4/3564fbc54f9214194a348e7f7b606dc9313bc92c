@@ -1,0 +1,7 @@
+3564fbc54f92 ("watchdog: gpio_wdt: Convert to use device managed functions and other improvements")
+65adfa22f5fc ("watchdog: gpio: change order for setting default timeout")
+d0d0677e8fdf ("watchdog: gpio: Add some local helper variables")
+03bca15833f2 ("watchdog: gpio: Convert to use infrastructure triggered keepalives")
+1ac06563434e ("watchdog: gpio_wdt: Fix missing platform_set_drvdata() in gpio_wdt_probe()")
+8a7b76be691f ("watchdog: gpio: Do not use device pointer from struct watchdog_device")
+28e805b44d52 ("watchdog: gpio_wdt: use core reboot notifier")

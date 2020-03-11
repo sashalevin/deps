@@ -1,0 +1,7 @@
+d5a32b60dc18 ("KVM: arm64: Allow userspace to change ID_AA64MMFR{0-2}_EL1")
+8ef67c67e637 ("KVM: arm64: expose ID_AA64MMFR3_EL1 to guests")
+93390c0a1b20 ("arm64: KVM: Hide unsupported AArch64 CPU features from guests")
+851050a573e1 ("KVM: arm64: Use common sysreg definitions")
+0d449541c185 ("KVM: arm64: use common invariant sysreg definitions")
+c9a3c58f01fb ("KVM: arm64: Add the EL1 physical timer access handler")
+82e0191a1aa1 ("arm64: Support systems without FP/ASIMD")

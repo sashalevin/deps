@@ -1,0 +1,5 @@
+68efe8f7a1c5 ("KVM: selftests: Fix build of rseq test")
+0fcc102923de ("KVM: selftests: Use getcpu() instead of sched_getcpu() in rseq_test")
+66d42ac73fc6 ("KVM: selftests: Make rseq compatible with glibc-2.35")
+2494a6d80fb5 ("KVM: selftests: Convert rseq_test away from VCPU_ID")
+0cc5963b4cc3 ("selftests: kvm: Add the uapi headers include variable")

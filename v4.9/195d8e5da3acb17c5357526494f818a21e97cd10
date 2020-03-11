@@ -1,0 +1,6 @@
+195d8e5da3ac ("PCI/MSI: Provide missing stub for pci_msix_can_alloc_dyn()")
+2b129f0b24ab ("PCI/MSI: Provide missing stubs for CONFIG_PCI_MSI=n")
+402723ad5c62 ("PCI/MSI: Provide pci_alloc_irq_vectors_affinity()")
+61e1c5905290 ("PCI/MSI: Propagate IRQ affinity description through the MSI code")
+67c93c218dc5 ("genirq/affinity: Handle pre/post vectors in irq_create_affinity_masks()")
+212bd846223c ("genirq/affinity: Handle pre/post vectors in irq_calc_affinity_vectors()")

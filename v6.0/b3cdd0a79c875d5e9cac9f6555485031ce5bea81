@@ -1,0 +1,5 @@
+b3cdd0a79c87 ("rcutorture: Adjust rcu_poll_need_2gp() for rcu_gp_oldstate field removal")
+ed7d2f1abee4 ("rcutorture: Allow per-RCU-flavor polled double-GP check")
+ccb42229fb34 ("rcutorture: Abstract synchronous and polled API testing")
+3fdefca9b42c ("rcu: Add full-sized polling for get_state()")
+91a967fd6934 ("rcu: Add full-sized polling for get_completed*() and poll_state*()")

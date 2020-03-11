@@ -1,0 +1,8 @@
+64bf14590806 ("i3c: dw: Fix IBI intr programming")
+10201396ef64 ("i3c: dw: Disable IBI IRQ depends on hot-join and SIR enabling")
+e389b1d72a62 ("i3c: dw: Add support for in-band interrupts")
+e2d43101f61d ("i3c: dw: Turn DAT array entry into a struct")
+d782188cbb05 ("i3c: dw: Add infrastructure for platform-specific implementations")
+04b5f1be2673 ("i3c: dw: Convert to platform remove callback returning void")
+0f74f8b6675c ("i3c: Make i3c_master_unregister() return void")
+c157a606e752 ("i3c/master: simplify the return expression of i3c_hci_remove()")

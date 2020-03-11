@@ -1,0 +1,6 @@
+3cb025d935d2 ("of: dynamic: Fix incorrect parameter name and provide missing descriptions")
+5b2c2f5a0ea3 ("of: overlay: add missing of_node_get() in __of_attach_node_sysfs")
+b56b5528f5b3 ("of: make kobject and bin_attribute support configurable")
+0c3c234b95fa ("of: wrap accesses to device_node kobject")
+36689ecd2c06 ("of: remove struct property.unique_id for FDT")
+bd82bbf38cbe ("of: fix missing kobject init for !SYSFS && OF_DYNAMIC config")

@@ -1,0 +1,7 @@
+546d714b0880 ("KVM: introduce new vendor op for KVM_GET_DEVICE_ATTR")
+8d2aec3b2d79 ("KVM: x86: use u64_to_user_ptr()")
+31e83e21cf00 ("KVM: x86: compile out vendor-specific code if SMM is disabled")
+4b8e1b32013d ("KVM: allow compiling out SMM support")
+f1554150d3c6 ("KVM: x86: move SMM exit to a new file")
+c53da4f3af6e ("KVM: x86: move SMM entry to a new file")
+b0b42197b5c6 ("KVM: x86: start moving SMM-related functions to new files")

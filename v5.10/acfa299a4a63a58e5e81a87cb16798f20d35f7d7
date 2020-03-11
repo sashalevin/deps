@@ -1,0 +1,5 @@
+acfa299a4a63 ("mm, hwpoison: add is_free_buddy_page() in HWPoisonHandlable()")
+25182f05ffed ("mm,hwpoison: fix race with hugetlb page allocation")
+2f7141600d67 ("mm,hwpoison: disable pcplists before grabbing a refcount")
+8295d535e2aa ("mm,hwpoison: refactor get_any_page")
+17e395b60f5b ("mm,hwpoison: drain pcplists before bailing out for non-buddy zero-refcount page")

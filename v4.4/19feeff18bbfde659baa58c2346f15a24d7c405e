@@ -1,0 +1,4 @@
+19feeff18bbf ("printk/nmi: avoid direct printk()-s from __printk_nmi_flush()")
+cf9b1106c81c ("printk/nmi: flush NMI messages on the system panic")
+42a0bb3f7138 ("printk/nmi: generic solution for safe printk in NMI")
+7bbee5ca3896 ("kexec: Fix race between panic() and crash_kexec()")

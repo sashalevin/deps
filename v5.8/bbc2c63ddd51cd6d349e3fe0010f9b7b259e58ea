@@ -1,0 +1,4 @@
+bbc2c63ddd51 ("KVM: nSVM: Use common GPA helper to check for illegal CR3")
+a506fdd22342 ("KVM: nSVM: implement nested_svm_load_cr3() and use it for host->guest switch")
+62156f6cd15a ("KVM: nSVM: introduce nested_svm_load_cr3()/nested_npt_enabled()")
+0f04a2ac4fe9 ("KVM: nSVM: split kvm_init_shadow_npt_mmu() from kvm_init_shadow_mmu()")

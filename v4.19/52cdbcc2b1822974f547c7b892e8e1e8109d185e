@@ -1,1 +1,5 @@
 52cdbcc2b182 ("IB/rdmavt: Use more efficient allowed_ops")
+116aa0330ec7 ("IB/{hfi1, qib, rdmavt}: Move send completion logic to rdmavt")
+019f118b94c8 ("IB/{hfi1, qib, rdmavt}: Move copy SGE logic into rdmavt")
+d205a06a1479 ("IB/rdmavt: Rename check_send_wqe as setup_wqe")
+0b79b27748cb ("IB/{hfi1, qib, rdmavt}: Schedule multi RC/UC packets instead of posting")

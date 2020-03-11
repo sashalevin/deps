@@ -1,0 +1,4 @@
+899d2a05dc14 ("nvme: fix SRCU protection of nvme_ns_head list")
+041bd1a1fc73 ("nvme: only call synchronize_srcu when clearing current path")
+e7d65803e2bb ("nvme-multipath: revalidate paths during rescan")
+73d90386b559 ("nvme: cleanup zone information initialization")

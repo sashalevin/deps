@@ -1,0 +1,6 @@
+302bd34882b1 ("f2fs: clean up get_valid_blocks with consistent parameter")
+63fcf8e8d6bf ("f2fs: use segment number for get_valid_blocks")
+68afcf2d38cd ("f2fs: guard macro variables with braces")
+b9cd20619e35 ("f2fs: node segment is prior to data segment selected victim")
+e93b9865251a ("f2fs: add ovp valid_blocks check for bg gc victim to fg_gc")
+664ba972df9b ("f2fs: use BIO_MAX_PAGES for bio allocation")

@@ -1,0 +1,8 @@
+fbaa1229d354 ("drm/i915/selftests: Take an explicit ref for rq->batch")
+2d19a71ce68f ("drm/i915/selftests: Exercise long preemption chains")
+fcde8c7eea60 ("drm/i915/selftests: Exercise potential false lite-restore")
+0d7cf7bc15e7 ("drm/i915/execlists: Refactor -EIO markup of hung requests")
+3231f8c01121 ("drm/i915/execlists: Drop redundant list_del_init(&rq->sched.link)")
+ae911b23d2f0 ("drm/i915/execlists: Relax assertion for a pinned context image on reset")
+a17592effdc1 ("drm/i915/execlists: Ensure the context is reloaded after a GPU reset")
+dffa8feb3084 ("drm/i915/perf: Assert locking for i915_init_oa_perf_state()")

@@ -1,0 +1,7 @@
+2ecf214b45a5 ("amdgpu/pm: Optimize emit_clock_levels for aldebaran - part 1")
+bc22d9e0ee26 ("amdgpu/pm: Replace print_clock_levels with emit_clock_levels for aldebaran")
+ceb180361e38 ("amdgpu/pm: Fix possible array out-of-bounds if SCLK levels != 2")
+8f48ba303dfb ("drm/amdgpu: fix sysfs_emit/sysfs_emit_at warnings(v2)")
+e738c2f0e654 ("amdgpu/pm: Replace smu12/13 usage of sprintf with sysfs_emit")
+fe14c2859ffd ("amdgpu/pm: Replace smu11 usage of sprintf with sysfs_emit")
+828db598bfcd ("amdgpu/pm: Replace navi10 usage of sprintf with sysfs_emit")

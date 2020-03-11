@@ -1,0 +1,6 @@
+98a36749ebec ("drivers/gpu: Convert remaining uses of pr_warning to pr_warn")
+634a24d8af02 ("drm/amd/powerplay: update all printk to pr_* on smumgr")
+b5c11b8e37aa ("drm/amd/powerplay: update all printk to pr_* on hwmgr")
+7739b1e7e153 ("drm/amd/powerplay: add prefix for all powerplay pr_* prints")
+d2939bc78007 ("drm/amd/powerplay: use pr_debug to print function not implemented message")
+fad742f89d20 ("drm/amd/powerplay: fix spelling mistake and add KERN_WARNING to printks")

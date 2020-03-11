@@ -1,0 +1,5 @@
+7e04cc918954 ("arm64/mm: Validate CONFIG_PGTABLE_LEVELS")
+7b0eb6b41a08 ("arm64: fix vmemmap BUILD_BUG_ON() triggering on !vmemmap setups")
+3e1907d5bf5a ("arm64: mm: move vmemmap region right below the linear region")
+3bab79edc671 ("Revert "arm64: account for sparsemem section alignment when choosing vmemmap offset"")
+9d854607f900 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

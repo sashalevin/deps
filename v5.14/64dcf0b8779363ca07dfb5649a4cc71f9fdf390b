@@ -1,0 +1,6 @@
+64dcf0b87793 ("um: remove ARCH_NO_PREEMPT_DYNAMIC")
+cd01672d64a3 ("um: Enable preemption in UML")
+5b301409e8bc ("UML: add support for KASAN under x86_64")
+e6226997ec5a ("asm-generic: reverse GENERIC_{STRNCPY_FROM,STRNLEN}_USER symbols")
+98b861a30431 ("asm-generic: uaccess: remove inline strncpy_from_user/strnlen_user")
+f27180dd63e1 ("asm-generic/uaccess.h: remove __strncpy_from_user/__strnlen_user")

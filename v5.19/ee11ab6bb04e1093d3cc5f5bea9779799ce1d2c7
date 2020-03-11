@@ -1,0 +1,4 @@
+ee11ab6bb04e ("KVM: X86: Reduce size of kvm_vcpu_arch structure when CONFIG_KVM_XEN=n")
+f422f853af03 ("KVM: x86/xen: update Xen CPUID Leaf 4 (tsc info) sub-leaves, if present")
+48639df8a9e3 ("KVM: x86/cpuid: generalize kvm_update_kvm_cpuid_base() and also capture limit")
+277ad7d58611 ("KVM: x86: Add dedicated helper to get CPUID entry with significant index")

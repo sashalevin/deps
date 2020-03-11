@@ -1,0 +1,4 @@
+6b70399f9ef3 ("rcu-tasks: Maintain lists to eliminate RCU-tasks/do_exit() deadlocks")
+28319d6dc5e2 ("rcu-tasks: Fix synchronize_rcu_tasks() VS zap_pid_ns_processes()")
+44757092958b ("rcu-tasks: Remove preemption disablement around srcu_read_[un]lock() calls")
+e4e1e8089c5f ("rcu-tasks: Improve comments explaining tasks_rcu_exit_srcu purpose")

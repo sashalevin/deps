@@ -1,0 +1,2 @@
+d048b9c2a737 ("btrfs: use memzero_page() instead of open coded kmap pattern")
+6d4572a9d71d ("btrfs: allow btrfs_truncate_block() to fallback to nocow for data space reservation")

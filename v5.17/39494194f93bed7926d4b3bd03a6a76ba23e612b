@@ -1,0 +1,6 @@
+39494194f93b ("SUNRPC: Fix races with rpc_killall_tasks()")
+aad41a7d7cf6 ("SUNRPC: Don't leak sockets in xs_local_connect()")
+33e5c765bc1e ("NFS: Fix memory allocation in rpc_malloc()")
+8db55a032ac7 ("SUNRPC: improve 'swap' handling: scheduling and PF_MEMALLOC")
+c487216bec83 ("SUNRPC/call_alloc: async tasks mustn't block waiting for memory")
+0adc87940618 ("SUNRPC: Convert GFP_NOFS to GFP_KERNEL")

@@ -1,0 +1,8 @@
+383f0993fc77 ("can: netlink: report the CAN controller mode supported flags")
+d99755f71a80 ("can: netlink: add interface for CAN-FD Transmitter Delay Compensation (TDC)")
+da45a1e4d7b9 ("can: bittiming: change can_calc_tdco()'s prototype to not directly modify priv")
+39f66c9e2297 ("can: bittiming: change unit of TDC parameters to clock periods")
+63dfe0709643 ("can: bittiming: allow TDC{V,O} to be zero and add can_tdc_const::tdc{v,o,f}_min")
+6b6bd1999267 ("can: netlink: remove redundant check in can_validate()")
+e3b0a4a47064 ("can: netlink: clear data_bittiming if FD is turned off")
+8345a3307381 ("can: bittiming: fix documentation for struct can_tdc")

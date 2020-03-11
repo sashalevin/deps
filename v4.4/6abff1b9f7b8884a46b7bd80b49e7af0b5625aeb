@@ -1,0 +1,6 @@
+6abff1b9f7b8 ("nvme: fix possible deadlock when nvme_update_formats fails")
+b9156daeb160 ("nvme: fix a possible deadlock when passthru commands sent to a multipath device")
+66b20ac0a1a1 ("nvme: fix multipath crash when ANA is deactivated")
+e7ad43c3eda6 ("nvme: lock NS list changes while handling command effects")
+8f220c418d07 ("nvme: fixup crash on failed discovery")
+f87b0f0dfa54 ("Merge branch 'nvme-4.19' of git://git.infradead.org/nvme into for-4.19/block2")

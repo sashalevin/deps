@@ -1,0 +1,5 @@
+16eb0f34cdf4 ("drm/i915/opregion: rvda is relative from opregion base in opregion 2.1+")
+2e5fec5f6214 ("drm/i915/opregion: debug log about invalid ACPI OpRegion VBT")
+ccbf6b6498a4 ("drm/i915/opregion: try to validate RVDA VBT only if it's there")
+0e53f472c3f6 ("drm/i915/opregion: bail out early for systems with no opregion VBT")
+998d75730b40 ("drm/i915: Fix not finding the VBT when it overlaps with OPREGION_ASLE_EXT")

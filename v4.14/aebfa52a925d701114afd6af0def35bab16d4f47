@@ -1,0 +1,8 @@
+aebfa52a925d ("netfilter: drop template ct when conntrack is skipped.")
+a7f87b47e67e ("netfilter: remove defensive check on malformed packets from raw sockets")
+c2f9eafee9aa ("netfilter: nf_tables: remove hooks from family definition")
+c974a3a36468 ("netfilter: nf_tables: remove multihook chains and families")
+12355d3670da ("netfilter: nf_tables_inet: don't use multihook infrastructure anymore")
+7a4473a31a69 ("netfilter: nf_tables: explicit nft_set_pktinfo() call from hook path")
+fa45a7602166 ("netfilter: nf_tables_arp: don't set forward chain")
+f92b40a8b264 ("netfilter: core: only allow one nat hook per hook point")

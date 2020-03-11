@@ -1,0 +1,5 @@
+1fcc0244b5e6 ("media: staging: rkisp1: stats: read the stats in the isr")
+b512ab7a8526 ("media: staging: rkisp1: stats: replace locks wq_lock, irq_lock with one lock")
+46c308a964fe ("media: staging: rkisp1: stats: replace spin_lock_irqsave with spin_lock_irq")
+24385f9c6ee4 ("media: staging: rkisp1: use a macro for the statistics flags mask")
+3bee86168657 ("media: staging: rkisp1: stats: don't set stats flags in rkisp1_stats_send_measurement")

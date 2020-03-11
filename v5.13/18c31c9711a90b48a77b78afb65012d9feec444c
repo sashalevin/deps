@@ -1,0 +1,8 @@
+18c31c9711a9 ("sched/fair: Make per-cpu cpumasks static")
+ec4fc801a02d ("sched/fair: Rename select_idle_mask to select_rq_mask")
+f5b2eeb49991 ("sched/fair: Consider CPU affinity when allowing NUMA imbalance in find_idlest_group()")
+cb29a5c19d2d ("sched/numa: Apply imbalance limitations consistently")
+e496132ebedd ("sched/fair: Adjust the allowed NUMA imbalance when SD_NUMA spans multiple LLCs")
+2cfb7a1b031b ("sched/fair: Improve consistency of allowed NUMA balance calculations")
+82762d2af31a ("sched/fair: Replace CFS internal cpu_util() with cpu_util_cfs()")
+9099a14708ce ("sched/fair: Add a few assertions")

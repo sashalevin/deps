@@ -1,0 +1,5 @@
+aeb6d8814841 ("btrfs: convert btrfs_decompress() to take a folio")
+b70f3a45464b ("btrfs: convert zstd_decompress() to take a folio")
+9f9a4e43a870 ("btrfs: convert lzo_decompress() to take a folio")
+54c78d497b38 ("btrfs: convert zlib_decompress() to take a folio")
+752965824b6d ("btrfs: convert uncompress_inline() to take a folio")

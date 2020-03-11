@@ -1,1 +1,5 @@
 20e55025958e ("livepatch: Use lists to manage patches, objects and functions")
+958ef1e39d24 ("livepatch: Simplify API by removing registration step")
+68007289bf3c ("livepatch: Don't block the removal of patches loaded after a forced transition")
+0430f78bf38f ("livepatch: Consolidate klp_free functions")
+26c3e98e2f8e ("livepatch: Shuffle klp_enable_patch()/klp_disable_patch() code")

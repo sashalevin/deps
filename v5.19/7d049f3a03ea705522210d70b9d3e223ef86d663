@@ -1,0 +1,7 @@
+7d049f3a03ea ("mm/hugetlb: make hugetlb_follow_page_mask() safe to pmd unshare")
+bb373dce2c7b ("mm/hugetlb: don't wait for migration entry during follow page")
+57a196a58421 ("hugetlb: simplify hugetlb handling in follow_page_mask")
+fac35ba763ed ("mm/hugetlb: fix races when looking up a CONT-PTE/PMD size hugetlb page")
+3a194f3f8ad0 ("mm/hugetlb: make pud_huge() and follow_huge_pud() aware of non-present pud entry")
+ad1ac596e8a8 ("mm/migration: fix potential pte_unmap on an not mapped pte")
+7ce82f4c3f3e ("mm/migration: return errno when isolate_huge_page failed")

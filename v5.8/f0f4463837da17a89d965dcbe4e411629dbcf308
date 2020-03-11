@@ -1,0 +1,8 @@
+f0f4463837da ("mm/gup: return an error on migration failure")
+ed03d924587e ("mm/gup: use a standard migration target allocation callback")
+bbe88753bd42 ("mm/hugetlb: make hugetlb migration callback CMA aware")
+41b4dc14ee80 ("mm/gup: restrict CMA region by using allocation scope API")
+19fc7bed252c ("mm/migrate: introduce a standard migration target allocation function")
+d92bbc2719bd ("mm/hugetlb: unify migration callbacks")
+b4b382238ed2 ("mm/migrate: move migration helper from .h to .c")
+c7073bab5772 ("mm/page_isolation: prefer the node of the source page")

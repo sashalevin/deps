@@ -1,0 +1,4 @@
+f0e0c809c0be ("can: dev: can_restart(): move debug message and stats after successful restart")
+8f3ec204d340 ("can: dev: can_restart(): reverse logic to remove need for goto")
+6841cab8c450 ("can: dev: can_restart(): fix race condition between controller restart and netif_carrier_on()")
+00f4a0afb7ea ("can: Use netif_rx().")

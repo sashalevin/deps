@@ -1,0 +1,6 @@
+8c126720fe10 ("mtd: rawnand: Use the ECC framework nand_ecc_is_strong_enough() helper")
+53576c7bfc35 ("mtd: rawnand: Use nanddev_get/set_ecc_requirements() when relevant")
+bace41f80f65 ("mtd: rawnand: Use the new ECC engine type enumeration")
+ef24f97daac4 ("mtd: rawnand: Separate the ECC engine type and the ECC byte placement")
+e0a564ae0a4b ("mtd: rawnand: Rename the ECC algorithm enumeration items")
+2da45b8f0696 ("mtd: rawnand: Add a kernel doc to the ECC algorithm enumeration")

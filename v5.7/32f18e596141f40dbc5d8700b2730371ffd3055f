@@ -1,0 +1,6 @@
+32f18e596141 ("mmc: improve API to make clear hw_reset callback is for cards")
+c4ac38c6539b ("mmc: mtk-sd: Add HS400 online tuning support")
+a8c83064e733 ("mmc: tmio: remove indirection of 'hw_reset' callback")
+6932794192f6 ("mmc: core: Improve documentation of MMC_CAP_HW_RESET")
+67c7daec6981 ("mmc: meson-mx-sdhc: Fix building with CONFIG_MMC_MESON_MX_SDHC=m")
+e4bf1b0970ef ("mmc: host: meson-mx-sdhc: new driver for the Amlogic Meson SDHC host")

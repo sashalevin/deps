@@ -1,0 +1,4 @@
+782f64558de7 ("KVM: SVM: Skip AVIC and IRTE updates when loading blocking vCPU")
+af52f5aa5c1b ("KVM: SVM: Use kvm_vcpu_is_blocking() in AVIC load to handle preemption")
+7cfc5c653b07 ("KVM: fix avic_set_running for preemptable kernels")
+bf5f6b9d7ad6 ("KVM: SVM: move check for kvm_vcpu_apicv_active outside of avic_vcpu_{put|load}")

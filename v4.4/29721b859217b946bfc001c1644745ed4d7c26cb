@@ -1,0 +1,4 @@
+29721b859217 ("tick/nohz: Only wake up a single target cpu when kicking a task")
+3c8920e2dbd1 ("tick/nohz: Narrow down noise while setting current task's tick dependency")
+d027d45d8a17 ("nohz: New tick dependency mask")
+8537bb95a63e ("nohz: Implement wide kick on top of irq work")

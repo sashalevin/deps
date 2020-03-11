@@ -1,0 +1,4 @@
+64b36075eb0e ("block: split elevator_switch")
+58367c8a5f84 ("block: sanitize the elevator name before passing it to __elevator_change")
+dd6f7f17bf58 ("block: add proper helpers for elevator_type module refcount management")
+8237c01f1696 ("blk-mq: use quiesced elevator switch when reinitializing queues")

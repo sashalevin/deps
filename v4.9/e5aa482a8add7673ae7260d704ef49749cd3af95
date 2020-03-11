@@ -1,0 +1,4 @@
+e5aa482a8add ("dell-led: remove code related to mic mute LED")
+44319ab7e0ed ("platform/x86: dell-laptop: import dell_micmute_led_set() from drivers/leds/dell-led.c")
+fa5923cea8da ("ALSA: hda - use dell_micmute_led_set() instead of dell_app_wmi_led_set()")
+6dbea8535d17 ("dell-led: remove GUID check from dell_micmute_led_set()")

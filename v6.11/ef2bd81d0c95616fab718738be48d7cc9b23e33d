@@ -1,0 +1,6 @@
+ef2bd81d0c95 ("tracing: Add option to set an instance to be the trace_printk destination")
+9b7bdf6f6ece ("tracing: Have trace_printk not use binary prints if boot buffer")
+ddb8ea9e5ae4 ("tracing: Allow trace_printk() to go to other instance buffers")
+b6fc31b68731 ("tracing: Add "traceoff" flag to boot time tracing instances")
+29a02ec66556 ("tracing: Allow boot instances to use reserve_mem boot memory")
+e645535a954a ("tracing: Add option to use memmapped memory for trace boot instance")

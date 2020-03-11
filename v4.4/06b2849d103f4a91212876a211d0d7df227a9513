@@ -1,0 +1,3 @@
+06b2849d103f ("proc: fix NULL dereference when reading /proc/<pid>/auxv")
+c5317167854e ("proc: switch auxv to use of __mem_open()")
+caaee6234d05 ("ptrace: use fsuid, fsgid, effective creds for fs access checks")

@@ -1,0 +1,6 @@
+64b582ca88ca ("block: Read max write zeroes once for __blkdev_issue_write_zeroes()")
+bf86bcdb4012 ("blk-lib: check for kill signal in ioctl BLKZEROOUT")
+99800ced26b9 ("block: refacto blkdev_issue_zeroout")
+f6eacb26541a ("block: move read-only and supported checks into (__)blkdev_issue_zeroout")
+ff760a8f0d09 ("block: remove the LBA alignment check in __blkdev_issue_zeroout")
+73a768d5f955 ("block: factor out a blk_write_zeroes_limit helper")

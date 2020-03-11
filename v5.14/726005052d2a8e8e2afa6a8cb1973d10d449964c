@@ -1,0 +1,8 @@
+726005052d2a ("mtd: rawnand: mxc: support software ECC")
+d3dfbae6d4ad ("mtd: rawnand: mxc: implement exec_op")
+94beaa25c78e ("mtd: rawnand: mxc: separate page read from ecc calc")
+c2fc6b694790 ("mtd: Explicitly include correct DT includes")
+4fd62f15afa0 ("mtd: nand: make mtk_ecc.c a separated module")
+48e6633a9fa2 ("mtd: nand: mxic-ecc: Add Macronix external ECC engine support")
+96489c1c0b53 ("mtd: nand: ecc: Add infrastructure to support hardware engines")
+8d1e4218a63e ("Revert "mtd: rawnand: ndfc: Fix external use of SW Hamming ECC helper"")

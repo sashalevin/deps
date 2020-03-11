@@ -1,0 +1,5 @@
+d119357d0743 ("rcu-tasks: Treat only synchronous grace periods urgently")
+d96225fd09ff ("rcu-tasks: Split rcu_tasks_one_gp() from rcu_tasks_kthread()")
+07d95c34e812 ("rcu-tasks: Handle sparse cpu_possible_mask")
+10b3742f939c ("rcu-tasks: Make show_rcu_tasks_generic_gp_kthread() check all CPUs")
+88db792bbe9b ("rcu-tasks: Use rcuwait for the rcu_tasks_kthread()")

@@ -1,0 +1,7 @@
+1cf62488f5e4 ("LoongArch: Fix build error if CONFIG_SUSPEND is not set")
+366bb35a8e48 ("LoongArch: Add suspend (ACPI S3) support")
+538eafc6deae ("LoongArch: Combine acpi_boot_table_init() and acpi_boot_init()")
+e9e7ff16d7f0 ("LoongArch: Parse MADT to get multi-processor information")
+f30d1f495cc1 ("LoongArch: Adjust arch/loongarch/Kconfig")
+dd281e1a1a93 ("irqchip: Add Loongson Extended I/O interrupt controller support")
+cd0576675854 ("LoongArch: Use ACPI_GENERIC_GSI for gsi handling")

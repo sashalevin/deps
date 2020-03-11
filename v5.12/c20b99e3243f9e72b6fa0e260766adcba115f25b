@@ -1,0 +1,8 @@
+c20b99e3243f ("posix-cpu-timers: Simplify posix_cpu_timer_set()")
+c44462661e4c ("posix-cpu-timers: Use @now instead of @val for clarity")
+bd29d773ea8d ("posix-cpu-timers: Do not arm SIGEV_NONE timers")
+d471ff397c35 ("posix-cpu-timers: Replace old expiry retrieval in posix_cpu_timer_set()")
+5f9d4a106594 ("posix-cpu-timers: Handle SIGEV_NONE timers correctly in timer_set()")
+ee375328f579 ("posix-cpu-timers: Recalc next expiration when timer_settime() ends up not queueing")
+d9c1b2a1089f ("posix-cpu-timers: Remove confusing return value override")
+175cc3ab28e3 ("posix-cpu-timers: Force next_expiration recalc after timer deletion")

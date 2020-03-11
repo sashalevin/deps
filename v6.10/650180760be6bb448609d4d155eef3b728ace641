@@ -1,0 +1,5 @@
+650180760be6 ("mm: swap: extend swap_shmem_alloc() to support batch SWAP_MAP_SHMEM flag setting")
+9f101bef408a ("mm: swap: add nr argument in swapcache_prepare and swapcache_clear to support large folios")
+d2539ed7ee3b ("mm: extend 'usage' parameter so that cluster_swap_free_nr() can be reused")
+54f7a49c20eb ("mm: remove the implementation of swap_free() and always use swap_free_nr()")
+ebfba0045176 ("mm: swap: introduce swap_free_nr() for batched swap_free()")

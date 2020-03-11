@@ -1,0 +1,5 @@
+68ae7c7bc56a ("KVM: SVM: Add a proper field for Hyper-V VMCB enlightenments")
+e67bd7df28a0 ("KVM: selftests: nSVM: Add enlightened MSR-Bitmap selftest")
+29f557d55349 ("KVM: selftests: nSVM: Update 'struct vmcb_control_area' definition")
+66c03a926f18 ("KVM: nSVM: Implement Enlightened MSR-Bitmap feature")
+73c25546d47f ("KVM: nSVM: Track whether changes in L0 require MSR bitmap for L2 to be rebuilt")

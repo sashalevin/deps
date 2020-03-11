@@ -1,0 +1,7 @@
+4b9ef436383e ("spi: nxp-fspi: Do not dereference fwnode in struct device")
+55ab8487e01d ("spi: spi-nxp-fspi: Add ACPI support")
+1a421ebab6bb ("spi: spi-nxp-fspi: Fix a NULL vs IS_ERR() check in probe")
+d166a73503ef ("spi: fspi: dynamically alloc AHB memory")
+a5356aef6a90 ("spi: spi-mem: Add driver for NXP FlexSPI controller")
+84d043185dbe ("spi: Add a driver for the Freescale/NXP QuadSPI controller")
+5314987de5e5 ("spi: imx: add lpspi bus driver")

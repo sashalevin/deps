@@ -1,0 +1,4 @@
+44382af89346 ("parisc/ftrace: set function trace function")
+d19ad0775dcd ("ftrace: Have the callbacks receive a struct ftrace_regs instead of pt_regs")
+c536aa1c5b17 ("kprobes/ftrace: Add recursion protection to the ftrace callback")
+b40341fad6cc ("ftrace: Move RCU is watching check after recursion check")

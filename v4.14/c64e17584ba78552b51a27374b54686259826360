@@ -1,0 +1,7 @@
+c64e17584ba7 ("serial: 8250_dwlib: remove redundant sanity check for RS485 flags")
+642aa7603e95 ("serial: 8250_dwlib: RS485 HW half & full duplex support")
+7c4fc082f504 ("serial: 8250_lpss: Extract dw8250_do_set_termios() for common use")
+442fdef1b931 ("serial: 8250_dw: Simplify the ref clock rate setting procedure")
+a8afc193558a ("serial: 8250_dw: Use devm_clk_get_optional() to get the input clock")
+136e0ab99b22 ("serial: 8250_dw: split Synopsys DesignWare 8250 common functions")
+dfcab6ba5734 ("serial: 8250_dw: always set baud rate in dw8250_set_termios")

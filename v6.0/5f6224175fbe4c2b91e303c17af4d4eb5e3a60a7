@@ -1,0 +1,4 @@
+5f6224175fbe ("block: make kobj_type structures constant")
+2bd85221a625 ("block: untangle request_queue refcounting from sysfs")
+40602997be26 ("block: fix error unwinding in blk_register_queue")
+80bd4a7aab4c ("blk-mq: move the srcu_struct used for quiescing to the tagset")

@@ -1,0 +1,7 @@
+cfb425761c79 ("block: move a few internal definitions out of blkdev.h")
+b623e347323f ("block: replace blkdev_nr_zones with bdev_nr_zones")
+5d40066567a7 ("block: pass a gendisk to blk_queue_free_zone_bitmaps")
+b3c72f8138b5 ("block: pass a gendisk to blk_queue_clear_zone_settings")
+6cc37a672a1e ("block: call blk_queue_free_zone_bitmaps from disk_release")
+cc5c516df028 ("block: simplify blktrace sysfs attribute creation")
+140e40e39a29 ("Merge tag 'zonefs-5.19-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/dlemoal/zonefs")

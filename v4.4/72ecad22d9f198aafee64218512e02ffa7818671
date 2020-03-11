@@ -1,0 +1,7 @@
+72ecad22d9f1 ("block: support a full bio worth of IO for simplified bdev direct-io")
+189ce2b9dcc3 ("block: fast-path for small and simple direct I/O requests")
+25f4c41415e5 ("block: implement (some of) fallocate for block devices")
+223757016837 ("block_dev: remove DAX leftovers")
+99a01cdf9d57 ("block: remove BLK_DEV_DAX config option")
+163d4baaebe3 ("block: add QUEUE_FLAG_DAX for devices to advertise their DAX support")
+315227f6da38 ("Merge tag 'dax-misc-for-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

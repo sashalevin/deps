@@ -1,0 +1,5 @@
+c887ef570759 ("powerpc/64s: Don't set FSCR bits in INIT_THREAD")
+4c2de74cc869 ("powerpc/64: Interrupts save PPR on stack rather than thread_struct")
+002af9391bfb ("powerpc: Split user/kernel definitions of struct pt_regs")
+ed9e84a4d703 ("powerpc: Use SWITCH_FRAME_SIZE for prom and rtas entry")
+ec233ede4c86 ("powerpc: Add support for setting SPRN_TIDR")

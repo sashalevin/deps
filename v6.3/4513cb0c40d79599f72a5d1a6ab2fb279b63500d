@@ -1,0 +1,8 @@
+4513cb0c40d7 ("btrfs: move the bi_sector assignment out of btrfs_add_compressed_bio_pages")
+690834e47cf7 ("btrfs: pass a btrfs_bio to btrfs_submit_compressed_read")
+ae42a154ca89 ("btrfs: pass a btrfs_bio to btrfs_submit_bio")
+34f888ce3a35 ("btrfs: cleanup main loop in btrfs_encoded_read_regular_fill_pages")
+10e924bc320a ("btrfs: factor out a btrfs_add_compressed_bio_pages helper")
+e7aff33e3161 ("btrfs: use the bbio file offset in btrfs_submit_compressed_read")
+798c9fc74d03 ("btrfs: remove redundant free_extent_map in btrfs_submit_compressed_read")
+544fe4a903ce ("btrfs: embed a btrfs_bio into struct compressed_bio")

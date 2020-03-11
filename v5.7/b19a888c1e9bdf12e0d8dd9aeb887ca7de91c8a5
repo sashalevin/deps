@@ -1,0 +1,6 @@
+b19a888c1e9b ("sched/core: Fix typos in comments")
+58877d347b58 ("sched: Better document ttwu()")
+46609ce22703 ("sched/uclamp: Protect uclamp fast path code with static key")
+dbfb089d360b ("sched: Fix loadavg accounting race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

@@ -1,0 +1,4 @@
+29802380b679 ("KVM: VMX: Drop pointless PI.NDST update when blocking")
+c95717218add ("KVM: VMX: Drop unnecessary PI logic to handle impossible conditions")
+563c54c4d5b1 ("KVM: VMX: Use x2apic_mode to avoid RDMSR when querying PI state")
+8888cdd0996c ("KVM: VMX: Extract posted interrupt support to separate files")

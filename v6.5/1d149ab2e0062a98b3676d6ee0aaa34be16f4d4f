@@ -1,0 +1,8 @@
+1d149ab2e006 ("iommufd: Make sw_msi_start a group global")
+269c5238c5b1 ("iommufd: Use the iommufd_group to avoid duplicate MSI setup")
+34f327a985ff ("iommufd: Keep track of each device's reserved regions instead of groups")
+91a2e17e243f ("iommufd: Replace the hwpt->devices list with iommufd_group")
+3a3329a7f14a ("iommufd: Add iommufd_group")
+d525a5b8cf39 ("iommufd: Move isolated msi enforcement to iommufd_device_bind()")
+78d3df457ae5 ("iommufd: Add helper to retrieve iommufd_ctx and devid")
+86b0a96c2952 ("iommufd: Add iommufd_ctx_has_group()")

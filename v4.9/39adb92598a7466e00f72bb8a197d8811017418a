@@ -1,0 +1,8 @@
+39adb92598a7 ("ima: Fix bool initialization/comparison")
+503ceaef8e2e ("ima: define a set of appraisal rules requiring file signatures")
+33ce9549cfa1 ("ima: extend the "ima_policy" boot command line to support multiple policies")
+d68a6fe9fccf ("ima: define a canonical binary_runtime_measurements list format")
+7b8589cc29e7 ("ima: on soft reboot, save the measurement list")
+d158847ae89a ("ima: maintain memory size needed for serializing the measurement list")
+dcfc56937b62 ("ima: permit duplicate measurement list entries")
+94c3aac567a9 ("ima: on soft reboot, restore the measurement list")

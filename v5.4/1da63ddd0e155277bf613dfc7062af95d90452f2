@@ -1,0 +1,6 @@
+1da63ddd0e15 ("bnxt_en: allow firmware to disable VLAN offloads")
+a196e96bb68f ("bnxt_en: clean up VLAN feature bit handling")
+c72cb303aa6c ("bnxt_en: Fix VLAN acceleration handling in bnxt_fix_features().")
+c7e457f42c02 ("bnxt_en: Allow PHY settings on multi-function or NPAR PFs if allowed by FW.")
+8a60efd1decb ("bnxt_en: Skip disabling autoneg before PHY loopback when appropriate.")
+0a3f4e4f342c ("bnxt_en: Extend ETHTOOL_RESET to hot reset driver.")

@@ -1,0 +1,8 @@
+df9d4749250d ("selinux: avoid implicit conversions in avtab code")
+056945a96cf5 ("selinux: drop unused parameter of avtab_insert_node")
+e1cce3a3cb28 ("selinux: constify some avtab function arguments")
+d8f5f0ea5b86 ("selinux: fix cond_list corruption when changing booleans")
+442dc00f82a9 ("selinux: make nslot handling in avtab more robust")
+c7c556f1e81b ("selinux: refactor changing booleans")
+02a52c5c8c3b ("selinux: move policy commit after updating selinuxfs")
+461698026ffa ("selinux: encapsulate policy state, refactor policy load")

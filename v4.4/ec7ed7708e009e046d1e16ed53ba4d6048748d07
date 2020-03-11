@@ -1,0 +1,6 @@
+ec7ed7708e00 ("spi: spi-fsl-dspi: enabling Coldfire mcf5441x dspi")
+dadab2d4e3cf ("spi: SPI_FSL_DSPI should depend on HAS_DMA")
+90ba37033cb9 ("spi: spi-fsl-dspi: Add DMA support for Vybrid")
+53d89160753c ("spi: spi-fsl-dspi: fix a possible NULL dereference")
+94b968b5a3e2 ("spi: spi-fsl-dspi: constify devtype_data")
+9419b2006cf4 ("spi: fsl-dspi: Set max_speed_hz for master")

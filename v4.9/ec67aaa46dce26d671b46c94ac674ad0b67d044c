@@ -1,0 +1,7 @@
+ec67aaa46dce ("sysvipc/sem: mitigate semnum index against spectre v1")
+1a2339567265 ("ipc/sem.c: remove sem_base, embed struct sem")
+84f001e15737 ("sched/headers: Prepare for new header dependencies before moving code to <linux/sched/wake_q.h>")
+9de5ab8a2eee ("ipc/sem: add hysteresis")
+27d7be1801a4 ("ipc/sem.c: avoid using spin_unlock_wait()")
+4ce33ec2e42d ("ipc/sem: optimize perform_atomic_semop()")
+9ae949fa382b ("ipc/sem: rework task wakeups")

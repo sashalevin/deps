@@ -1,0 +1,8 @@
+2e524668c440 ("drm/xe: Add xe_vm_pgtable_update_op to xe_vma_ops")
+22cfdd286572 ("drm/xe: Add some members to xe_vma_ops")
+bf69918b7199 ("drm/xe: Use xe_vma_ops to implement page fault rebinds")
+4dbbe4579490 ("drm/xe: Simplify VM bind IOCTL error handling and cleanup")
+5f677a9b6537 ("drm/xe: Use xe_vma_ops to implement xe_vm_rebind")
+701109f2e3a4 ("drm/xe: Add struct xe_vma_ops abstraction")
+75192758d640 ("drm/xe: Add ops_execute function which returns a fence")
+77f2ef3f16f5 ("drm/xe: Lock all gpuva ops during VM bind IOCTL")

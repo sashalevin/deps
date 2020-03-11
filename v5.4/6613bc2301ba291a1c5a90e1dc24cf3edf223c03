@@ -1,0 +1,6 @@
+6613bc2301ba ("PCI: endpoint: Fix NULL pointer dereference for ->get_features()")
+0e27aeccfa3d ("PCI: endpoint: Make *_free_bar() to return error codes on failure")
+fa8fef0e104a ("PCI: endpoint: Add helper API to get the 'next' unreserved BAR")
+959a48d0eac0 ("PCI: endpoint: Make *_get_first_free_bar() take into account 64 bit BAR")
+5e50ee27d4a5 ("PCI: pci-epf-test: Add support to defer core initialization")
+5779dd0a7dbd ("PCI: endpoint: Use notification chain mechanism to notify EPC events to EPF")

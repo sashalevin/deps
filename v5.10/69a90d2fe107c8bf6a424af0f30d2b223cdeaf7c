@@ -1,0 +1,4 @@
+69a90d2fe107 ("riscv: Move .rela.dyn outside of init to avoid empty relocations")
+b5b11a8ac4b5 ("RISC-V: Move dynamic relocation section under __init")
+19a00869028f ("RISC-V: Protect all kernel sections including init early")
+62149f3564c5 ("RISC-V: Initialize SBI early")

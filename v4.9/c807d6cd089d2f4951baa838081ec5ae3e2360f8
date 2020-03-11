@@ -1,0 +1,8 @@
+c807d6cd089d ("hv_netvsc: Mark VF as slave before exposing it to user-mode")
+365e1ececb29 ("hv_netvsc: Fix race between VF offering and VF association message from host")
+d0922bf79817 ("hv_netvsc: Add error handling while switching data path")
+34b06a2eee44 ("hv_netvsc: Process NETDEV_GOING_DOWN on VF hot remove")
+8b31f8c982b7 ("hv_netvsc: Wait for completion on request SWITCH_DATA_PATH")
+4d18fcc95f50 ("hv_netvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+e8b7db38449a ("Drivers: hv: vmbus: Add vmbus_requestor data structure for VMBus hardening")
+4907a43da831 ("Merge tag 'hyperv-next-signed' of git://git.kernel.org/pub/scm/linux/kernel/git/hyperv/linux")

@@ -1,0 +1,6 @@
+0ee695a471a7 ("kbuild: Add -Wa,--fatal-warnings to as-instr invocation")
+cff6e7f50bd3 ("kbuild: Add CLANG_FLAGS to as-instr")
+d5c8d6e0fa61 ("kbuild: Update assembler calls to use proper flags and language target")
+ba64beb17493 ("kbuild: check the minimum assembler version in Kconfig")
+57fd251c7896 ("kbuild: split cc-option and friends to scripts/Makefile.compiler")
+3204a7fb98a3 ("kbuild: prefix $(srctree)/ to some included Makefiles")

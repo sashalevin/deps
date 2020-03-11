@@ -1,0 +1,5 @@
+ed2b9e1b6d82 ("srcu,notifier: Remove #ifdefs in favor of SRCU Tiny srcu_usage")
+de29a96accea ("notifier: Initialize new struct srcu_usage field")
+95433f726301 ("srcu: Begin offloading srcu_struct fields to srcu_update")
+f4d01a259374 ("srcu: Use static init for statically allocated in-module srcu_struct")
+3e67cb8a3c62 ("srcu: Add whitespace to __SRCU_STRUCT_INIT() & __DEFINE_SRCU()")

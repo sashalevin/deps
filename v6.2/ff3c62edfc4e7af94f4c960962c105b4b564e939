@@ -1,0 +1,6 @@
+ff3c62edfc4e ("tty: serial: samsung_tty: cast the interrupt's void *id just once")
+24179de090b9 ("tty: serial: samsung_tty: drop unused argument to irq handlers")
+032a725c16ad ("tty: serial: samsung: use u32 for register interactions")
+fd2b55f86b8b ("serial: drivers: switch ch and flag to u8")
+4d1fceb1b257 ("serial: omap-serial: remove flag from serial_omap_rdi()")
+29ec63ef16fc ("serial: arc_uart: simplify flags handling in arc_serial_rx_chars()")

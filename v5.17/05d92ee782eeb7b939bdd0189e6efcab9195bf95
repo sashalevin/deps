@@ -1,0 +1,5 @@
+05d92ee782ee ("ACPI: CPPC: Fix bit_offset shift in MASK_VAL() macro")
+2f4a4d63a193 ("ACPI: CPPC: Use access_width over bit_width for system memory accesses")
+0651ab90e4ad ("ACPI: CPPC: Check _OSC for flexible address space")
+c42fa24b4475 ("ACPI: bus: Avoid using CPPC if not supported by firmware")
+2ca8e6285250 ("Revert "ACPI: Pass the same capabilities to the _OSC regardless of the query flag"")

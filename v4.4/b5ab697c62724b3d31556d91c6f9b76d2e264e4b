@@ -1,0 +1,8 @@
+b5ab697c6272 ("target/tcmu: Use macro to call container_of in tcmu_cmd_time_out_show")
+7d7a74354390 ("tcmu: Convert cmd_time_out into backend device attribute")
+3abaa2bfdb1e ("tcmu: allow hw_max_sectors greater than 128")
+f5045724578b ("target/user: Add an #include directive")
+26418649eead ("target/user: Introduce data_bitmap, replace data_length/data_head/data_tail")
+0c28481ffb46 ("target/user: Free data ring in unified function")
+f1dbd087cc7a ("target/user: Use iovec[] to describe continuous area")
+81ee28de8600 ("target/user: Allow user to set block size before enabling device")

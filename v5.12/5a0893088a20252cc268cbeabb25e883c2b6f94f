@@ -1,0 +1,8 @@
+5a0893088a20 ("x86/pkeys: Remove __arch_set_user_pkey_access() declaration")
+70431c63d7ed ("x86/pkeys: Clean up arch_set_user_pkey_access() declaration")
+371071131cd1 ("x86/fpu: Use pkru_write_default() in copy_init_fpstate_to_fpregs()")
+8a1dc55a3f3e ("x86/cpu: Sanitize X86_FEATURE_OSPKE")
+784a46618f63 ("x86/pkeys: Move read_pkru() and write_pkru()")
+b3607269ff57 ("x86/pkeys: Revert a5eff7259790 ("x86/pkeys: Add PKRU value to init_fpstate")")
+163b099146b8 ("x86: Fix various typos in comments, take #2")
+d9f6e12fb0b7 ("x86: Fix various typos in comments")

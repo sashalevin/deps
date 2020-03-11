@@ -1,0 +1,8 @@
+ff987ffc0c18 ("KVM: arm64: nv: Add support for FEAT_ATS1A")
+8df747f4f3a5 ("KVM: arm64: nv: Plumb handling of AT S1* traps from EL2")
+d6a01a2dc760 ("KVM: arm64: nv: Add SW walker for AT S1 emulation")
+be04cebf3e78 ("KVM: arm64: nv: Add emulation of AT S12E{0,1}{R,W}")
+e794049b9acb ("KVM: arm64: nv: Add basic emulation of AT S1E2{R,W}")
+be0135bde1df ("KVM: arm64: nv: Add basic emulation of AT S1E1{R,W}P")
+477e89cabb14 ("KVM: arm64: nv: Add basic emulation of AT S1E{0,1}{R,W}")
+90659853febc ("KVM: arm64: nv: Honor absence of FEAT_PAN2")

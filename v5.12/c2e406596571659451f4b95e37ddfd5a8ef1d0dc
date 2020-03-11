@@ -1,0 +1,5 @@
+c2e406596571 ("sched/debug: fix dentry leak in update_sched_domain_debugfs")
+3b87f136f8fc ("sched,debug: Convert sysctl sched_domains to debugfs")
+8a99b6833c88 ("sched: Move SCHED_DEBUG sysctl to debugfs")
+1d1c2509de44 ("sched: Remove sched_schedstats sysctl out from under SCHED_DEBUG")
+b7cc6ec744b3 ("sched/numa: Allow runtime enabling/disabling of NUMA balance without SCHED_DEBUG")

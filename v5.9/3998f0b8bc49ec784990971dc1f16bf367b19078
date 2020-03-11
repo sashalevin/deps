@@ -1,0 +1,3 @@
+3998f0b8bc49 ("cifs: Do not leak EDEADLK to dgetents64 for STATUS_USER_SESSION_DELETED")
+f6f1f1790775 ("cifs: constify pathname arguments in a bunch of helpers")
+d1542cf6165e ("cifs: compute full_path already in cifs_readdir()")

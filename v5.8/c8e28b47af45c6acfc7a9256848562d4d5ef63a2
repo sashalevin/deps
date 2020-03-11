@@ -1,0 +1,6 @@
+c8e28b47af45 ("mm,page_alloc: bail out earlier on -ENOMEM in alloc_contig_migrate_range")
+8b94e0b8be36 ("mm/page_alloc: remove a wrapper for alloc_migration_target()")
+19fc7bed252c ("mm/migrate: introduce a standard migration target allocation function")
+d92bbc2719bd ("mm/hugetlb: unify migration callbacks")
+b4b382238ed2 ("mm/migrate: move migration helper from .h to .c")
+c7073bab5772 ("mm/page_isolation: prefer the node of the source page")

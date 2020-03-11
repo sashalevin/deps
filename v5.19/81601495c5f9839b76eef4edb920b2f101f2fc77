@@ -1,0 +1,6 @@
+81601495c5f9 ("KVM: x86: Use kvm_queue_exception_e() to queue #DF")
+d4963e319f1f ("KVM: x86: Make kvm_queued_exception a properly named, visible struct")
+5623f751bd9c ("KVM: x86: Treat #DBs from the emulator as fault-like (code and DR7.GD=1)")
+8d178f460772 ("KVM: nVMX: Treat General Detect #DB (DR7.GD=1) as fault-like")
+eba9799b5a6e ("KVM: VMX: Drop bits 31:16 when shoving exception error code into VMCS")
+a61d7c5432ac ("KVM: x86: Trace re-injected exceptions")

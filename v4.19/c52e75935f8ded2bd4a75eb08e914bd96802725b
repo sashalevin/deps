@@ -1,1 +1,4 @@
 c52e75935f8d ("mm: remove extra drain pages on pcp list")
+bb8965bd82fd ("mm, memory_hotplug: deobfuscate migration part of offlining")
+7960509329c2 ("mm, memory_hotplug: print reason for the offlining failure")
+381eab4a6ee8 ("mm/memory_hotplug: fix online/offline_pages called w.o. mem_hotplug_lock")

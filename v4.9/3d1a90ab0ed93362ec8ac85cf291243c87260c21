@@ -1,0 +1,7 @@
+3d1a90ab0ed9 ("NFS4: Fix use-after-free in trace_event_raw_event_nfs4_set_lock")
+a7a3b1e971cd ("NFS: convert flags to bool")
+d9b67e1e499b ("NFS: Fix inconsistent indentation in nfs4proc.c")
+2dfc61736482 ("NFSv4: Call update_changeattr() from _nfs4_proc_open only if a file was created")
+29b59f941693 ("NFSv4: change nfs4_do_setattr to take an open_context instead of a nfs4_state.")
+cf80516579ce ("NFSv4: Add encode/decode of the layoutreturn op in CLOSE")
+3ecefc929599 ("NFSv4: Don't request close-to-open attribute when holding a delegation")

@@ -1,0 +1,5 @@
+49a80424e3ec ("serial: pl011: Drop redundant DTR/RTS preservation on close/open")
+8d479237727c ("serial: amba-pl011: add RS485 support")
+2a76fa283098 ("serial: pl011: Adopt generic flag to store auto RTS status")
+7d05587c9e0e ("tty: amba-pl011: Fix spurious TX interrupts")
+2331e0686504 ("tty: serial: constify uart_ops structures")

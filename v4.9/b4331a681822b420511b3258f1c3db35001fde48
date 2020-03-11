@@ -1,0 +1,5 @@
+b4331a681822 ("vti6: Change minimum MTU to IPV4_MIN_MTU, vti6 can carry IPv4 too")
+f8a554b4aa96 ("vti6: Fix dev->max_mtu setting")
+c6741fbed6dc ("vti6: Properly adjust vti6 MTU from MTU of lower device")
+53c81e95df17 ("ip6_vti: adjust vti mtu according to mtu of lower device")
+b96f9afee4eb ("ipv4/6: use core net MTU range checking")

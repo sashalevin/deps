@@ -1,0 +1,4 @@
+6bb18c9be6d2 ("drm/ast: Init cursors before creating modesetting structures")
+beb2355eecbf ("drm/ast: Pass struct ast_private instance to cursor init/fini functions")
+2ccebf561e4a ("drm/ast: Move cursor functions to ast_cursor.c")
+fa7dbd768884 ("drm/ast: Upcast from DRM device to ast structure via to_ast_private()")

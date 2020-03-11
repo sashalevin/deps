@@ -1,0 +1,6 @@
+e1bbcd277a53 ("fs: hold writers when changing mount's idmapping")
+a26f788b6e7a ("fs: add mnt_allow_writers() and simplify mount_setattr_prepare()")
+9caccd41541a ("fs: introduce MOUNT_ATTR_IDMAP")
+2a1867219c7b ("fs: add mount_setattr()")
+5b490500f91b ("fs: add attr_flags_to_mnt_flags helper")
+a6435940b62f ("mount: attach mappings to mounts")

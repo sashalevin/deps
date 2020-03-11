@@ -1,0 +1,6 @@
+3b58a3c72f48 ("ftrace: Unlock hash mutex on failed allocation in process_mod_list()")
+d7fbf8df7ca0 ("ftrace: Implement cached modules tracing on module load")
+2b2c279c8141 ("ftrace: Create a slight optimization on searching the ftrace_hash")
+2b0cce0e190f ("tracing: Add ftrace_hash_key() helper function")
+4046bf023b06 ("ftrace: Expose ftrace_hash_empty and ftrace_lookup_ip")
+3e278c0dc1cf ("ftrace: Factor out __ftrace_hash_move()")

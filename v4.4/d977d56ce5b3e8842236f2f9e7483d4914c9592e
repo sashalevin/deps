@@ -1,0 +1,5 @@
+d977d56ce5b3 ("mm: warn about VmData over RLIMIT_DATA")
+84638335900f ("mm: rework virtual memory accounting")
+d07e22597d1d ("mm: mmap: add new /proc tunable for mmap_base ASLR")
+8cee852ec53f ("mm, procfs: breakdown RSS for anon, shmem and file in /proc/pid/status")
+0b57d6ba0bd1 ("mm/mmap.c: remove redundant local variables for may_expand_vm()")

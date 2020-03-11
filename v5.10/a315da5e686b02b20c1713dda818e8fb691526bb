@@ -1,0 +1,7 @@
+a315da5e686b ("sched/fair: Fix all kernel-doc warnings")
+4006a72bdd93 ("sched/fair: Consider SMT in ASYM_PACKING load balance")
+aafc917a3c31 ("sched/fair: Carve out logic to mark a group for asymmetric packing")
+602564359689 ("sched/fair: Optimize checking for group_asym_packing")
+3f5ad91488e8 ("sched/fair: Move update_nohz_stats() to the CONFIG_NO_HZ_COMMON block to simplify the code & fix an unused function warning")
+39b6a429c304 ("sched/fair: Reduce the window for duplicated update")
+64f84f273592 ("sched/fair: Remove unused parameter of update_nohz_stats")

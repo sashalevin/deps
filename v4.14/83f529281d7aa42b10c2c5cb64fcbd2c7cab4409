@@ -1,0 +1,7 @@
+83f529281d7a ("netfilter: ipv4: remove useless export_symbol")
+d7e5a9a50245 ("netfilter: utils: move nf_ip_checksum* from ipv4 to utils")
+ce388f452f0a ("netfilter: move reroute indirection to struct nf_ipv6_ops")
+3f87c08c615f ("netfilter: move route indirection to struct nf_ipv6_ops")
+7db9a51e0f99 ("netfilter: remove saveroute indirection in struct nf_afinfo")
+f7dcbe2f36a6 ("netfilter: move checksum_partial indirection to struct nf_ipv6_ops")
+ef71fe27ec2f ("netfilter: move checksum indirection to struct nf_ipv6_ops")

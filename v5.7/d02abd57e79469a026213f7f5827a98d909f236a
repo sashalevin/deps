@@ -1,0 +1,4 @@
+d02abd57e794 ("hwmon: (corsair-cpro) Protect ccp->wait_input_report with a spinlock")
+3a034a7b0715 ("hwmon: (corsair-cpro) Use complete_all() instead of complete() in ccp_raw_event()")
+40c3a4454225 ("hwmon: add Corsair Commander Pro driver")
+87976ce2825d ("hwmon: Add Baikal-T1 PVT sensor driver")

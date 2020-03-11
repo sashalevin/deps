@@ -1,0 +1,8 @@
+602905253607 ("genirq/msi: Provide msi_alloc_msi_desc() and a simple allocator")
+28f4b04143c5 ("genirq/msi: Add cpumask allocation to alloc_msi_entry")
+4ef33685aa09 ("PCI: Spread interrupt vectors in pci_alloc_irq_vectors()")
+aff171641d18 ("PCI: Provide sensible IRQ vector alloc/free routines")
+0972fa57f535 ("genirq/msi: Make use of affinity aware allocations")
+06ee6d571f0e ("genirq: Add affinity hint to irq allocation")
+b6140914fd07 ("genirq/msi: Remove unused MSI_FLAG_IDENTITY_MAP")
+9dffdb38d864 ("Merge tag 'staging-4.6-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging")

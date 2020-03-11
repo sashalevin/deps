@@ -1,0 +1,6 @@
+d73dad4eb5ad ("kasan: test: bypass __alloc_size checks")
+1b0668be62cf ("kasan: test: disable kmalloc_memmove_invalid_size for HW_TAGS")
+555999a009aa ("kasan: test: avoid corrupting memory via memset")
+58b999d7a22c ("kasan: adopt KUNIT tests to SW_TAGS mode")
+73228c7ecc5e ("KASAN: port KASAN Tests to KUnit")
+83c4e7a0363b ("KUnit: KASAN Integration")

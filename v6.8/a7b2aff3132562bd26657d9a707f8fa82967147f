@@ -1,0 +1,7 @@
+a7b2aff31325 ("iommu/amd: Rearrange device flush code")
+02b990253db7 ("iommu/amd: Remove unused flush pasid functions")
+e8e1aac33458 ("iommu/amd: Refactor helper function for setting / clearing GCR3")
+b2e8a7f5d2c3 ("iommu/amd: Rearrange GCR3 table setup code")
+474bf01ed9f0 ("iommu/amd: Add support for device based TLB invalidation")
+6f35fe5d8a0a ("iommu/amd: Introduce get_amd_iommu_from_dev()")
+a6ffb9b3d71e ("iommu/amd: Pass struct iommu_dev_data to set_dte_entry()")

@@ -1,0 +1,6 @@
+28cb138f559f ("vt_ioctl: add array_index_nospec to VT_ACTIVATE")
+0ce8179e2480 ("vt_ioctl: eliminate ret & breaks in vt_ioctl")
+7cf64b18b0b9 ("vt: vt_ioctl: fix use-after-free in vt_in_use()")
+e587e8f17433 ("vt: ioctl, switch VT_IS_IN_USE and VT_BUSY to inlines")
+dce05aa6eec9 ("vt: selection, introduce vc_is_sel")
+496124e5e16e ("vt: selection: allow functions to be called from inside kernel")

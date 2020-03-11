@@ -1,0 +1,6 @@
+73c54763482b ("mm/hugetlb: drop __unmap_hugepage_range definition from hugetlb.h")
+1f9dccb25b8f ("hugetlbfs: convert macros to static inline, fix sparse warning")
+a953e7721fa9 ("include/linux/hugetlb.h: convert to use vm_fault_t")
+017b1660df89 ("mm: migration: fix migration of huge PMD shared pages")
+ab5ac90aecf5 ("mm, hugetlb: do not rely on overcommit limit during migration")
+af0fb9df7841 ("mm, hugetlb: unify core page allocation accounting and initialization")

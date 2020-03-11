@@ -1,0 +1,8 @@
+fec53774fd04 ("filesystem-dax: convert to dax_copy_from_iter()")
+8376efd31d3d ("x86, pmem: Fix cache flushing for iovec write < 8 bytes")
+6abccd1bfee4 ("x86, dax, pmem: remove indirection around memcpy_from_pmem()")
+cccbce671582 ("filesystem-dax: convert to dax_direct_access()")
+a41fe02b6bba ("Revert "block: use DAX for partition table reads"")
+11e63f6d920d ("x86, pmem: fix broken __copy_user_nocache cache-bypass assumptions")
+11bac8000449 ("mm, fs: reduce fault, page_mkwrite, and pfn_mkwrite to take only vmf")
+ef96152e6a36 ("Merge tag 'drm-for-v4.11-less-shouty' of git://people.freedesktop.org/~airlied/linux")

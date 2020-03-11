@@ -1,0 +1,7 @@
+ba3f67c11638 ("xen-blkfront: atomically update queue limits")
+4f81b87d91be ("xen-blkfront: don't redundantly set max_sements in blkif_recover")
+738be136327a ("xen-blkfront: rely on the default discard granularity")
+4a718d7dbab8 ("xen-blkfront: set max_discard/secure erase limits to UINT_MAX")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")

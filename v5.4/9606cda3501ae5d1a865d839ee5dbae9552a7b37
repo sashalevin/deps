@@ -1,0 +1,8 @@
+9606cda3501a ("ASoC: ti: davinci-evm: simplify the code with module_platform_driver")
+efe81e9a9273 ("ASoC: remove unused davinci support")
+39c84e77da04 ("ASoC: ti: Migrate to new style legacy DAI naming flag")
+0f3dd4e09add ("ASoC: ti: rename CONFIG_SND_SOC_DM365_VOICE_CODEC_MODULE")
+02cde14ab59d ("ASoC: ti: use asoc_substream_to_rtd()")
+6748d0559059 ("ASoC: ti: Add custom machine driver for j721e EVM (CPB and IVI)")
+2842b87148af ("ASoC: ti: use asoc_rtd_to_cpu() / asoc_rtd_to_codec() macro for DAI pointer")
+78dbafbd04dd ("ASoC: ti: omap-mcpdm: move .suspend/.resume to component")

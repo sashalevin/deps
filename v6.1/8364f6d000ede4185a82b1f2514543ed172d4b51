@@ -1,0 +1,4 @@
+8364f6d000ed ("efi/loongarch: Reintroduce efi_relocate_kernel() to relocate kernel")
+0efb61c89fa0 ("efi/loongarch: Don't jump to kernel entry via the old image")
+895bc3a135ff ("efi: libstub: Factor out min alignment and preferred kernel load address")
+732ea9db9d8a ("efi: libstub: Move screen_info handling to common code")

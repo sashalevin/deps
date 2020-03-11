@@ -1,0 +1,8 @@
+633cd6fe6e19 ("spi: spi-cadence: Reverse the order of interleaved write and read operations")
+627d05a41ca1 ("spi: spi-cadence: Fix data corruption issues in slave mode")
+6afe2ae8dc48 ("spi: spi-cadence: Interleave write of TX and read of RX FIFO")
+a0eb7be22c0f ("spi: spi-cadence: Only overlap FIFO transactions in slave mode")
+a84c11e16dc2 ("spi: spi-cadence: Avoid read of RX FIFO before its ready")
+b1b90514eaa3 ("spi: spi-cadence: Add support for Slave mode")
+f6997e9bd879 ("spi: spi-cadence: Switch to spi_controller structure")
+427353015333 ("spi: cadence: Convert to platform remove callback returning void")

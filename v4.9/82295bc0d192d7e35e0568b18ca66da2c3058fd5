@@ -1,0 +1,7 @@
+82295bc0d192 ("spi: s3c64xx: move dma_release_channel to unprepare")
+0af7af7da651 ("spi: spi-s3c64xx: Allow higher transfer lengths in polling IO mode")
+f6364e66c661 ("spi: spi-s3c64xx: Use local variable for FIFO length")
+3655d30c0548 ("spi: spi-s3c64xx: Add missing s3c64xx_ prefix to function names")
+80aa0d746c10 ("spi: spi-s3c64xx: Drop unused enable_datapath() function argument")
+3d63a47a380a ("spi: s3c64xx: Don't request/release DMA channels for each SPI transfer")
+6f8dc9d48175 ("spi: s3c64xx: Do not use platform_data for DMA parameters")

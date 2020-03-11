@@ -1,0 +1,7 @@
+cb6f6b3384d7 ("xen/arm: move xen_swiotlb_detect to arm/swiotlb-xen.h")
+f5079a9a2a31 ("xen/arm: introduce XENFEAT_direct_mapped and XENFEAT_not_direct_mapped")
+88920ddebd2f ("xen: mm: make xen_mm_init static")
+0e0d26e779d3 ("xen/arm: remove xen_dma_ops")
+8e23c82c6863 ("xen/arm: use dma-noncoherent.h calls for xen-swiotlb cache maintainance")
+ad3c7b18c5b3 ("arm: use swiotlb for bounce buffering on LPAE configs")
+6b04014f3f15 ("Merge tag 'iommu-updates-v5.3' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

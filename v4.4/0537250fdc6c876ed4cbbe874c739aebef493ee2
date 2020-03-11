@@ -1,0 +1,8 @@
+0537250fdc6c ("netfilter: x_tables: make allocation less aggressive")
+eacd86ca3b03 ("net/netfilter/x_tables.c: use kvmalloc() in xt_alloc_table_info()")
+19809c2da28a ("mm, vmalloc: use __GFP_HIGHMEM implicitly")
+a7c3e901a46f ("mm: introduce kv[mz]alloc helpers")
+586d1492f301 ("f2fs: skip scanning free nid bitmap of full NAT blocks")
+23380b8568b8 ("f2fs: use __set{__clear}_bit_le")
+9f7e4a2c49fd ("f2fs: declare static functions")
+25c4e6c3f0c1 ("Merge tag 'for-f2fs-4.11' of git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs")

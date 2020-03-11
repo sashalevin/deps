@@ -1,0 +1,4 @@
+5a287d3d2b9d ("lsm: fix default return value of the socket_getpeersec_*() hooks")
+b10b9c342f75 ("lsm: make security_socket_getpeersec_stream() sockptr_t safe")
+4ff09db1b79b ("bpf: net: Change sk_getsockopt() to take the sockptr_t argument")
+ba74a7608dc1 ("net: Change sock_getsockopt() to take the sk ptr instead of the sock ptr")

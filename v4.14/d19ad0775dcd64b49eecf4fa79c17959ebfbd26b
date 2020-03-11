@@ -1,0 +1,7 @@
+d19ad0775dcd ("ftrace: Have the callbacks receive a struct ftrace_regs instead of pt_regs")
+c536aa1c5b17 ("kprobes/ftrace: Add recursion protection to the ftrace callback")
+b40341fad6cc ("ftrace: Move RCU is watching check after recursion check")
+33e53ae1ce41 ("csky: Add kprobes supported")
+9c0e343d7654 ("csky: Fixup get wrong psr value from phyical reg")
+657480d9c015 ("s390: support KPROBES_ON_FTRACE")
+740eaf7d4dd2 ("Merge tag 's390-5.6-1' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

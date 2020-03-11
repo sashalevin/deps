@@ -1,0 +1,7 @@
+5f51c7ce1dc3 ("ACPI: CPPC: Fix up I/O port access in cpc_read()")
+a2c8f92bea5f ("ACPI: CPPC: Implement support for SystemIO registers")
+2bc6262c6117 ("ACPI: CPPC: Replace cppc_attr with kobj_attribute")
+1ecbd7170d65 ("ACPI / CPPC: Fix KASAN global out of bounds warning")
+85b1407bf6d2 ("ACPI / CPPC: Make CPPC ACPI driver aware of PCC subspace IDs")
+2c74d8473d19 ("ACPI / CPPC: add sysfs entries for CPPC perf capabilities")
+368520a6b2dd ("ACPI / CPPC: Read lowest nonlinear perf in cppc_get_perf_caps()")

@@ -1,0 +1,6 @@
+6c846d026d49 ("gpio: Don't fiddle with irqchips marked as immutable")
+826da771291f ("genirq: Provide IRQCHIP_AFFINITY_PRE_STARTUP")
+90428a8eb494 ("genirq/PM: Introduce IRQCHIP_ENABLE_WAKEUP_ON_SUSPEND flag")
+aa251fc5b936 ("genirq/debugfs: Add missing irqchip flags")
+f0c7baca1800 ("genirq/affinity: Make affinity setting if activated opt-in")
+baedb87d1b53 ("genirq/affinity: Handle affinity setting on inactive interrupts correctly")

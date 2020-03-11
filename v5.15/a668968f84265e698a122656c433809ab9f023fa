@@ -1,0 +1,5 @@
+a668968f8426 ("mm/memory_hotplug: remove reset_node_managed_pages() in hotadd_init_pgdat()")
+4421cca0a3e4 ("memblock: use memblock_free for freeing virtual pointers")
+3ecc68349bba ("memblock: rename memblock_free to memblock_phys_free")
+fa27717110ae ("memblock: drop memblock_free_early_nid() and memblock_free_early()")
+c486514dd409 ("xen/x86: free_p2m_page: use memblock_free_ptr() to free a virtual pointer")

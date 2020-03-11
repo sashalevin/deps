@@ -1,0 +1,6 @@
+80002347d6f5 ("liquidio: add support for ndo_get_stats64 instead of ndo_get_stats")
+f058ca6b06d4 ("liquidio: move a couple of functions to lio_core.c")
+897ddc24835a ("liquidio: Enhanced ethtool stats")
+ccdd0b4c35f2 ("liquidio: prevent rx queues from getting stalled")
+87a7c4b3c357 ("liquidio: fix ndo_change_mtu to always return correct status to the caller")
+aa28667cfbe4 ("liquidio: fix kernel panic in VF driver")

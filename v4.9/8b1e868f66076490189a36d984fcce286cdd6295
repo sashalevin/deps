@@ -1,0 +1,5 @@
+8b1e868f6607 ("swiotlb-xen: use vmalloc_to_page on vmalloc virt addresses")
+b877ac9815a8 ("xen/swiotlb: remember having called xen_create_contiguous_region()")
+50f6393f9654 ("xen/swiotlb: fix condition for calling xen_destroy_contiguous_region()")
+7250f422da04 ("xen-swiotlb: use actually allocated size on check physical continuous")
+4855c92dbb7b ("xen-swiotlb: fix the check condition for xen_swiotlb_free_coherent")

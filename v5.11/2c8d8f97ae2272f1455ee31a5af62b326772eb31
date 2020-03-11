@@ -1,0 +1,4 @@
+2c8d8f97ae22 ("mm, memcg: inline mem_cgroup_{charge/uncharge} to improve disabled memcg config")
+0add0c77a9bd ("memcg: charge before adding to swapcache on swapin")
+cae3af62b33a ("mm: memcontrol: fix swap undercounting in cgroup2")
+c41a40b6baf7 ("mm: memcontrol: replace the loop with a list_for_each_entry()")

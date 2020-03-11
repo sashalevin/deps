@@ -1,0 +1,7 @@
+8aea7f82153d ("drivers/hv: Replace binary semaphore with mutex")
+e2e808413425 ("Driver: hv: vmbus: Make mmio resource local")
+6d146aefbaa5 ("drivers:hv: Record MMIO range in use by frame buffer")
+be000f93e5d7 ("drivers:hv: Track allocations of children of hv_vmbus in private resource tree")
+97fb77dc8758 ("drivers:hv: Make a function to free mmio regions through vmbus")
+e16dad6bfe14 ("drivers:hv: Lock access to hyperv_mmio resource tree")
+619848bd0743 ("drivers:hv: Export a function that maps Linux CPU num onto Hyper-V proc num")

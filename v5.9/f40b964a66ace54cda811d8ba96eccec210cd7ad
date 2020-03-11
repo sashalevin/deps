@@ -1,0 +1,7 @@
+f40b964a66ac ("io_uring: clean up io_poll_task_func()")
+88e41cf928a6 ("io_uring: add multishot mode for IORING_OP_POLL_ADD")
+464dca612bc6 ("io_uring: mask in error/nval/hangup consistently for poll")
+45ab03b19e8b ("io_uring: transform ret == 0 for poll cancelation completions")
+dd221f46f68a ("io_uring: inline io_poll_task_handler()")
+6a0af224c213 ("io_uring: don't put a poll req under spinlock")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")

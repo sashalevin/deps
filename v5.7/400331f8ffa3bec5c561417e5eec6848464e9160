@@ -1,0 +1,6 @@
+400331f8ffa3 ("x86/tsx: Disable TSX development mode at boot")
+258f3b8c3210 ("x86/tsx: Use MSR_TSX_CTRL to clear CPUID bits")
+293649307ef9 ("x86/tsx: Clear CPUID bits when TSX always force aborts")
+25ca7e5c0b03 ("tools arch x86: Sync the msr-index.h copy with the kernel sources")
+7e5b3c267d25 ("x86/speculation: Add Special Register Buffer Data Sampling (SRBDS) mitigation")
+93920f61c2ad ("x86/cpu: Add 'table' argument to cpu_matches()")

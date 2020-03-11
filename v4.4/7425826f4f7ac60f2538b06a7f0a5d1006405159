@@ -1,0 +1,7 @@
+7425826f4f7a ("efi/bgrt: Skip efi_bgrt_init() in case of non-EFI boot")
+7b0a911478c7 ("efi/x86: Move the EFI BGRT init code to early init code")
+4bc9f92e64c8 ("x86/efi-bgrt: Use efi_mem_reserve() to avoid copying image data")
+7f9b474c9271 ("x86/efi-bgrt: Switch all pr_err() to pr_notice() for invalid BGRT")
+66dbe99cfe30 ("x86/efi/bgrt: Don't ignore the BGRT if the 'valid' bit is 0")
+e2c90dd7e11e ("x86/efi-bgrt: Replace early_memremap() with memremap()")
+50a0cb565246 ("x86/efi-bgrt: Fix kernel panic when mapping BGRT data")

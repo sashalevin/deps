@@ -1,0 +1,6 @@
+59566b0b622e ("x86/ftrace: Have ftrace trampolines turn read-only at the end of system boot up")
+768ae4406a5c ("x86/ftrace: Use text_poke()")
+18cbc8bed0c7 ("x86/alternatives, jump_label: Provide better text_poke() batching interface")
+c3d6324f841b ("x86/alternatives: Teach text_poke_bp() to emulate instructions")
+0a5b99f57873 ("treewide: Rename rcu_dereference_raw_notrace() to _check()")
+818e95c768c6 ("Merge tag 'trace-v5.3' of git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/linux-trace")

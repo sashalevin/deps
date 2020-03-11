@@ -1,0 +1,3 @@
+7d875e66859a ("fuse: invalidate dentry on EEXIST creates or ENOENT deletes")
+cefd1b83275d ("fuse: decrement nlink on overwriting rename")
+371e8fd02969 ("fuse: move fuse_invalidate_attr() into fuse_update_ctime()")

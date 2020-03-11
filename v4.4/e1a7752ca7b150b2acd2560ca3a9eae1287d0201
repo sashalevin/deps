@@ -1,0 +1,6 @@
+e1a7752ca7b1 ("scsi: ufs-qcom: Add support for platforms booting ACPI")
+5adaf1e8d5e5 ("scsi: ufs: make UFS Tx lane1 clock optional for QCOM platforms")
+ab436706e4a8 ("scsi: ufs-qcom: add probe_defer in case phy driver not probed yet")
+a6854dff635d ("scsi: ufs: qcom: Properly clear hba priv on failure")
+41e1d60ea50a ("scsi: ufs: qcom: Don't free resource-managed kmalloc element")
+54b879b76ea2 ("scsi: ufs-qcom: add number of lanes per direction")

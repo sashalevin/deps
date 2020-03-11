@@ -1,0 +1,4 @@
+6beb7bd52e48 ("kvm: nVMX: Refactor nested_get_vmcs12_pages()")
+7ca29de21362 ("KVM: nVMX: fix CR3 load if L2 uses PAE paging and EPT")
+5a6a9748b4b4 ("KVM: nVMX: load GUEST_EFER after GUEST_CR0 during emulated VM-entry")
+eb2775621701 ("KVM: VMX: Move skip_emulated_instruction out of nested_vmx_check_vmcs12")

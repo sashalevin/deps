@@ -1,0 +1,5 @@
+c9f6890bca11 ("arm64/sve: Use the sve_flush macros in sve_load_from_fpsimd_state()")
+9c4b4c701e53 ("arm64/sve: Implement a helper to load SVE registers from FPSIMD state")
+1e530f1352a2 ("arm64/sve: Implement a helper to flush SVE registers")
+315cf047d230 ("arm64/fpsimdmacros: Introduce a macro to update ZCR_EL1.LEN")
+0343a7e46362 ("arm64: kernel: Convert to modern annotations for assembly functions")

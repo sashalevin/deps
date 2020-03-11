@@ -1,0 +1,8 @@
+2679a83731d5 ("sched/core: Avoid obvious double update_rq_clock warning")
+9ef7e7e33bcd ("sched: Optimize rq_lockp() usage")
+9edeaea1bc45 ("sched: Core-wide rq->lock")
+d66f1b06b5b4 ("sched: Prepare for Core-wide rq->lock")
+5cb9eaa3d274 ("sched: Wrap rq::lock access")
+39d371b7c0c2 ("sched: Provide raw_spin_rq_*lock*() helpers")
+6ef869e06474 ("preempt: Introduce CONFIG_PREEMPT_DYNAMIC")
+ed3cd45f8ca8 ("Merge tag 'v5.11' into sched/core, to pick up fixes & refresh the branch")

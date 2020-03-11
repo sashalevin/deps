@@ -1,0 +1,8 @@
+fccca038f300 ("veth: take into account device reconfiguration for xdp_features flag")
+d406099d6a15 ("veth: enable BIG TCP packets")
+4752eeb3d891 ("veth: implement support for set_channel ethtool op")
+dedd53c5e075 ("veth: factor out initialization helper")
+f7918b79019f ("veth: always report zero combined channels")
+d3256efd8e8b ("veth: allow enabling NAPI even without XDP")
+34829eec3b69 ("veth: Implement ethtool's get_channels() callback")
+edbea9220251 ("veth: Store queue_mapping independently of XDP prog presence")

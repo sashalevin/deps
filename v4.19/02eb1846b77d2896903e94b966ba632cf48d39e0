@@ -1,0 +1,4 @@
+02eb1846b77d ("ubifs: Fix unattached xattr inode if powercut happens after deleting")
+4ab25ac8b2b5 ("ubifs: Fix ubifs_tnc_lookup() usage in do_kill_orphans()")
+ee1438ce5dc4 ("ubifs: Check link count of inodes when killing orphans.")
+988bec41318f ("ubifs: orphan: Handle xattrs like files")

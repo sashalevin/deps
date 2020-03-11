@@ -1,0 +1,3 @@
+141b3523e9be ("dm bufio: use the acquire memory barrier when testing for B_READING")
+e3a7c2947b9e ("dm bufio: fix some cases where the code sleeps with spinlock held")
+33a180623b6c ("dm bufio: introduce forget_buffer_locked")

@@ -1,0 +1,6 @@
+8ff1541da390 ("fbdev: Include <linux/fb.h> instead of <asm/fb.h>")
+94545f27155d ("arch/x86: Include <asm/fb.h> in fbdev source file")
+91c249b2b9f6 ("arch/x86: Implement <asm/fb.h> with generic helpers")
+4eec0b3048fc ("arch/sparc: Implement fb_is_primary_device() in source file")
+cf41d18b72c8 ("arch/parisc: Implement fb_is_primary_device() under arch/parisc")
+0ba2fa8cbd29 ("fbdev: Add support for the nomodeset kernel parameter")

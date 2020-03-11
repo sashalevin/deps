@@ -1,0 +1,7 @@
+4c7b6ea336c1 ("scsi: core: Remove scsi_cmnd.tag")
+2266a2def97c ("scsi: core: Remove the request member from struct scsi_cmnd")
+bdf8710d69f8 ("block: move dma_pad handling from blk_rq_map_sg into the callers")
+cc97923a5bcc ("block: move dma drain handling to scsi")
+0475bd6c6597 ("scsi: merge scsi_init_sgtable into scsi_init_io")
+89de1504d53b ("block: provide a blk_rq_map_sg variant that returns the last element")
+e64a0e169284 ("block: remove RQF_COPY_USER")

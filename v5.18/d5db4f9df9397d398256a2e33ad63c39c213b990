@@ -1,0 +1,3 @@
+d5db4f9df939 ("migrate: use folio_set_bh() instead of set_bh_page()")
+67235182a41c ("mm/migrate: Convert buffer_migrate_page() to buffer_migrate_folio()")
+eca66389744d ("ocfs2: Convert to release_folio")

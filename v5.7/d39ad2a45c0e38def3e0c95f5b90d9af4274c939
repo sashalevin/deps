@@ -1,0 +1,8 @@
+d39ad2a45c0e ("nvme: disable namespace access for unsupported metadata")
+d4609ea8b3d3 ("nvme: factor out a nvme_configure_metadata helper")
+e83d776f9f98 ("nvme: only use power of two io boundaries")
+c41ad98bebb8 ("nvme: skip noiob for zoned devices")
+240e6ee272c0 ("nvme: support for zoned namespaces")
+71010c309454 ("nvme: implement multiple I/O Command Set support")
+ea43d9709f72 ("nvme: fix identify error status silent ignore")
+33cfdc2aa696 ("nvme: enforce extended LBA format for fabrics metadata")

@@ -1,0 +1,6 @@
+92e4dc8b0566 ("Drivers: hv: vmbus: Allow cleanup of VMBUS_CONNECT_CPU if disconnected")
+8a857c55420f ("Drivers: hv: vmbus: Always handle the VMBus messages on CPU0")
+1f48dcf180e5 ("Drivers: hv: vmbus: Clean up hv_sock channels by force upon suspend")
+f53335e3289f ("Drivers: hv: vmbus: Suspend/resume the vmbus itself for hibernation")
+41e270f6898e ("Drivers: hv: vmbus: Use get/put_cpu() in vmbus_connect()")
+ae20b254306a ("Drivers: hv: vmbus: enable VMBus protocol version 5.0")

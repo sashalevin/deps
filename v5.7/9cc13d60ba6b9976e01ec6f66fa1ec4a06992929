@@ -1,0 +1,4 @@
+9cc13d60ba6b ("KVM: x86/mmu: allow APICv memslot to be enabled but invisible")
+e0c378684b65 ("KVM: x86/mmu: Retry page faults that hit an invalid memslot")
+c36b71503a22 ("KVM: x86/mmu: Avoid an extra memslot lookup in try_async_pf() for L2")
+c583eed6d72b ("KVM: x86/mmu: Set @writable to false for non-visible accesses by L2")

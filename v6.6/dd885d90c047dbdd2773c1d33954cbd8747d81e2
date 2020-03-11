@@ -1,0 +1,5 @@
+dd885d90c047 ("can: kvaser_pciefd: Use a single write when releasing RX buffers")
+48f827d4f48f ("can: kvaser_pciefd: Move reset of DMA RX buffers to the end of the ISR")
+cbf88a6ba7bb ("can: kvaser_pciefd: Rename board_irq to pci_irq")
+11d186697ceb ("can: kvaser_pciefd: Remove unnecessary comment")
+ac765219c2c4 ("can: kvaser_pciefd: Skip redundant NULL pointer check in ISR")

@@ -1,0 +1,5 @@
+5d1a7493343c ("drm/msm/dp: Avoid a long timeout for AUX transfer if nothing connected")
+bfc12020e63d ("drm/msm/dp: Return IRQ_NONE for unhandled interrupts")
+b20566cdef05 ("drm/msm/dp: Clean up handling of DP AUX interrupts")
+1cba0d150fa1 ("drm/msm/dp: do not complete dp_aux_cmd_fifo_tx() if irq is not for aux transfer")
+86d56a770442 ("drm/msm/dp: wait for hpd high before aux transaction")

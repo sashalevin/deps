@@ -1,0 +1,7 @@
+969d6589abcb ("md/raid1: factor out helpers to add rdev to conf")
+2d32777d60de ("md/raid1: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+df203da47f44 ("md/raid1: fix error: ISO C90 forbids mixed declarations")
+8b0472b50bcf ("md: raid1: fix potential OOB in raid1_remove_disk()")
+ffb1e7a03f96 ("md/raid1: prioritize adding disk to 'removed' mirror")

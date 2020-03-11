@@ -1,0 +1,8 @@
+5a44bb061d04 ("KVM: s390: fix validity interception issue when gisa is switched off")
+fe0ef0030463 ("KVM: s390: sort out physical vs virtual pointers usage")
+ee6a569d3bf6 ("KVM: s390: pv: make use of ultravisor AIV support")
+6a656832aa75 ("KVM: s390: Introduce kvm_s390_get_gfn_end()")
+67cf68b6a5cc ("KVM: s390: Add a routine for setting userspace CPU state")
+85b18d7b5e7f ("s390: mm: Fix secure storage access exception handling")
+e82080e1f456 ("s390: uv: Fix sysfs max number of VCPUs reporting")
+c41962187371 ("KVM: s390: Add memcg accounting to KVM allocations")

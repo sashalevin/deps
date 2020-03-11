@@ -1,0 +1,5 @@
+4f6a71b84e1a ("net: stmmac: dwmac-meson8b: fix internal RGMII clock configuration")
+37512b42f082 ("net: stmmac: dwmac-meson8b: only configure the clocks in RGMII mode")
+22eac913fe27 ("net: stmmac: constify clk_div_table")
+d6db61a40ee0 ("net: stmmac: don't set tx delay in RGMII_ID and RGMII_TXID mode")
+b765234e72fc ("net: stmmac: dwmac-meson8b: make the RGMII TX delay configurable")

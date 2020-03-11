@@ -1,0 +1,6 @@
+6fd13b282f62 ("random: vDSO: move prototype of arch chacha function to vdso/getrandom.h")
+4920a2590e91 ("selftests/vDSO: add tests for vgetrandom")
+33385150ac45 ("x86: vdso: Wire up getrandom() vDSO implementation")
+4ad10a5f5f78 ("random: introduce generic vDSO getrandom() implementation")
+66cde337fa1b ("selftests/vDSO: remove duplicate compiler invocations from Makefile")
+bb2a605de375 ("selftests/vDSO: remove partially duplicated "all:" target in Makefile")

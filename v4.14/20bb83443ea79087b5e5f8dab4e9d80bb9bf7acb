@@ -1,0 +1,3 @@
+20bb83443ea7 ("x86/entry/64: Stop initializing TSS.sp0 at boot")
+da51da189a24 ("x86/entry/64: Pass SP0 directly to load_sp0()")
+bd7dc5a6afac ("x86/entry/32: Pull the MSR_IA32_SYSENTER_CS update code out of native_load_sp0()")

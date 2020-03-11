@@ -1,0 +1,6 @@
+e11f35c46ebd ("scsi: ch: Have midlayer retry ch_do_scsi() UAs")
+11a26723210e ("scsi: ch: Remove unit_attention")
+ed226f0889a3 ("scsi: ch: Convert to scsi_execute_cmd()")
+ced202f7bd78 ("scsi: core: Stop using DRIVER_ERROR")
+1ee275342234 ("scsi: core: Treat device offline as a failure")
+cfefd9f8240a ("scsi: scsi_transport_spi: Set RQF_PM for domain validation commands")

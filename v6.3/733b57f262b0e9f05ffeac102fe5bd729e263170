@@ -1,0 +1,7 @@
+733b57f262b0 ("cxl/pci: Early setup RCH dport component registers from RCRB")
+86917c560dcf ("cxl/mem: Prepare for early RCH dport component register setup")
+d076bb8c4cee ("cxl/pci: Refactor component register discovery for reuse")
+573408049b75 ("cxl/core/regs: Add @dev to cxl_register_map")
+0619337856c9 ("cxl/rch: Prepare for caching the MMIO mapped PCIe AER capability")
+eb4663b07e13 ("cxl/acpi: Probe RCRB later during RCH downstream port creation")
+af0a6c3587dc ("cxl/pci: Use CDAT DOE mailbox created by PCI core")

@@ -1,0 +1,6 @@
+d5bf48574699 ("mm/slab_common: use SLAB_NO_MERGE instead of negative refcount")
+13e680fb6a1e ("mm: memcg/slab: disable cache merging for KMALLOC_NORMAL caches")
+cb5d9fb38c34 ("mm, slab: make kmalloc_info[] contain all types of names")
+f0d77874143d ("mm, slab: shorten kmalloc cache names for large sizes")
+1291523f2c1d ("mm, slab/slub: introduce kmalloc-reclaimable caches")
+cc252eae85e0 ("mm, slab: combine kmalloc_caches and kmalloc_dma_caches")

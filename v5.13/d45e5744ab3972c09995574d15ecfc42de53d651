@@ -1,0 +1,5 @@
+d45e5744ab39 ("drm/msm/dpu: Print interrupt index in addition to the mask")
+667e9985ee24 ("drm/msm/dpu: replace IRQ lookup with the data in hw catalog")
+597762d5bf50 ("drm/msm/dpu: define interrupt register names")
+98fbe6bb5bb2 ("drm/msm/dpu: hw_intr: always call dpu_hw_intr_clear_intr_status_nolock")
+09e3a2b4421e ("drm/msm/dpu: merge dpu_hw_intr_get_interrupt_statuses into dpu_hw_intr_dispatch_irqs")

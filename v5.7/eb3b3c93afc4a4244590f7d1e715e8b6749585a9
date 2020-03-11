@@ -1,0 +1,4 @@
+eb3b3c93afc4 ("misc/xilinx_sdfec: Replace kmap() with kmap_local_page()")
+e01b08d7f6d3 ("misc/xilinx_sdfec: Call kunmap() on pages mapped with kmap()")
+03358b0f7bc7 ("misc: xilinx-sdfec: convert get_user_pages() --> pin_user_pages()")
+57343d516132 ("misc: xilinx-sdfec: improve get_user_pages_fast() error handling")

@@ -1,0 +1,5 @@
+3a597f0d425b ("ath11k: change management tx queue to avoid connection timed out")
+261b07519518 ("ath11k: Fix frames flush failure caused by deadlock")
+dddaa64d0af3 ("ath11k: add wait operation for tx management packets for flush from mac80211")
+a93789ae541c ("ath11k: Avoid NULL ptr access during mgmt tx cleanup")
+c0b0d2e87d91 ("ath11k: Increment pending_mgmt_tx count before tx send invoke")

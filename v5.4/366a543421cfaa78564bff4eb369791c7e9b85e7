@@ -1,0 +1,6 @@
+366a543421cf ("iio: adis16480: Make use of __adis_initial_startup")
+97928677fe35 ("iio: imu: adis16480: initialize adis_data statically")
+80cbc848c4fa ("iio: imu: adis16480: Add support for ADIS16490")
+380b107bbf94 ("iio: adis: Introduce timeouts structure")
+cb5a07f1f15c ("iio: imu: adis: protect initial startup routine with state lock")
+6a9afcb198b4 ("iio: imu: adis: rename txrx_lock -> state_lock")

@@ -1,0 +1,6 @@
+3a5a8d343e1c ("mm: fix race between __split_huge_pmd_locked() and GUP-fast")
+4f83145721f3 ("mm: avoid unnecessary flush on change_huge_pmd()")
+c9fe66560bf2 ("mm/mprotect: do not flush when not required architecturally")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+e346e6688c4a ("mm: thp: skip make PMD PROT_NONE if THP migration is not supported")
+f0953a1bbaca ("mm: fix typos in comments")

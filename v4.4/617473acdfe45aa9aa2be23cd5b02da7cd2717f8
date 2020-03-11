@@ -1,0 +1,8 @@
+617473acdfe4 ("x86/fpu: Cleanup fpu__init_system_xstate_size_legacy()")
+9838e3bff0f9 ("x86/fpu: Make 'no387' and 'nofxsr' command line options useful")
+52586b089cc1 ("x86/cpuid: Switch to 'static const' specifier")
+0c2a3913d6f5 ("x86/fpu: Parse clearcpuid= as early XSAVE argument")
+0b00de857a64 ("x86/cpuid: Add generic table for CPUID dependencies")
+f8475cef9008 ("x86: use common aperfmperf_khz_on_cpu() to calculate KHz using APERF/MPERF")
+dd853fd216d1 ("x86/cpu: Fix bootup crashes by sanitizing the argument of the 'clearcpuid=' command-line option")
+518bacf5a569 ("Merge branch 'x86-fpu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

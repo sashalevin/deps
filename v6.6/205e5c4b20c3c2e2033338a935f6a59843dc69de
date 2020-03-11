@@ -1,0 +1,8 @@
+205e5c4b20c3 ("drm/xe: Fix UBSAN shift-out-of-bounds failure")
+77f2ef3f16f5 ("drm/xe: Lock all gpuva ops during VM bind IOCTL")
+7ee7dd6f3013 ("drm/xe: Move vma rebinding to the drm_exec locking loop")
+5a091aff50b7 ("drm/xe: Rework rebinding")
+eb538b557425 ("drm/xe/vm: Avoid reserving zero fences")
+447f74d223b4 ("drm/xe: Pick correct userptr VMA to repin on REMAP op failure")
+5bd24e78829a ("drm/xe/vm: Subclass userptr vmas")
+be3382ecdf31 ("Merge drm/drm-next into drm-xe-next")

@@ -1,0 +1,4 @@
+1d92d2e8e706 ("KVM: x86/mmu: Rename max_page_level to max_huge_page_level")
+3bae0459bcd5 ("KVM: x86/mmu: Drop KVM's hugepage enums in favor of the kernel's enums")
+e662ec3e0705 ("KVM: x86/mmu: Move max hugepage level to a separate #define")
+b2f432f872d9 ("KVM: x86/mmu: Tweak PSE hugepage handling to avoid 2M vs 4M conundrum")

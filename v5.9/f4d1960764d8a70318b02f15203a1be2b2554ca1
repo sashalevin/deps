@@ -1,0 +1,7 @@
+f4d1960764d8 ("USB: core: Fix deadlock in port "disable" sysfs attribute")
+f061f43d7418 ("usb: hub: port: add sysfs entry to switch port power")
+8c67d06f3fd9 ("usb: Link the ports to the connectors they are attached to")
+b8f1ba99cea5 ("usb: hub: make wait_for_connected() take an int instead of a pointer to int")
+f59f93cd1d72 ("usb: hub: avoid warm port reset during USB3 disconnect")
+7142452387c7 ("USB: Verify the port status when timeout happens during port suspend")
+975f94c7d6c3 ("usb: core: hub: fix race condition about TRSMRCY of resume")

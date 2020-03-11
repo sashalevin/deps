@@ -1,0 +1,5 @@
+b48e16a69792 ("sched/uclamp: Make task_fits_capacity() use util_fits_cpu()")
+48d5e9daa8b7 ("sched/uclamp: Fix relationship between uclamp and migration margin")
+7a17e1db1265 ("sched/sugov: Ignore 'busy' filter when rq is capped by uclamp_max")
+ef8df9798d46 ("sched/fair: Cleanup task_util and capacity type")
+3e1493f46390 ("sched/uclamp: Ignore max aggregation if rq is idle")

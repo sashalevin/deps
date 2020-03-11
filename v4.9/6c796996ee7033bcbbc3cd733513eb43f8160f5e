@@ -1,0 +1,7 @@
+6c796996ee70 ("x86/pci/xen: Fixup fallout from the PCI/MSI overhaul")
+0a3a58de3195 ("x86/pci/xen: Set MSI_FLAG_PCI_MSIX support in Xen MSI domain")
+f2948df5f87a ("x86/pci/xen: Use msi_for_each_desc()")
+2e4386eba0c0 ("x86/xen: Wrap XEN MSI management into irqdomain")
+70b59379efc3 ("x86/xen: Consolidate XEN-MSI init")
+7d4d892de6e7 ("x86/xen: Rework MSI teardown")
+c74fd80f2f41 ("xen: do not re-use pirq number cached in pci device msi msg data")

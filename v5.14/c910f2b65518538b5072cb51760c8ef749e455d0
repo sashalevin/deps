@@ -1,0 +1,7 @@
+c910f2b65518 ("arm64/mm: Update tlb invalidation routines for FEAT_LPA2")
+e2768b798a19 ("arm64/mm: Modify range-based tlbi to decrement scale")
+d70bac1d22f0 ("arm64: Avoid cpus_have_const_cap() for ARM64_HAS_ARMv8_4_TTL")
+4d73a9c13aaa ("arm64: tlb: Implement __flush_s2_tlb_range_op()")
+360839027a6e ("arm64: tlb: Refactor the core flush algorithm of __flush_tlb_range")
+5e10f9887ed8 ("arm64: mm: Fix TLBI vs ASID rollover")
+312b7104f39b ("arm64: fix typo in a comment")

@@ -1,0 +1,3 @@
+28628fa952fe ("netfilter: ipset: fix race condition between swap/destroy and kernel side add/del/test")
+8a02bdd50b2e ("netfilter: ipset: Fix calling ip_set() macro at dumping")
+49971b8853f5 ("netfilter: ipset: use nfnl_mutex_is_locked")

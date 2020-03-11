@@ -1,0 +1,8 @@
+7f820d053948 ("s390/crypto: enable clear key values for paes ciphers")
+d00c06398154 ("crypto: s390/paes - convert to skcipher API")
+416f79c23dbe ("s390/paes: Prepare paes functions for large key blobs")
+52a34b34d4ff ("s390/crypto: Enhance paes cipher to accept variable length key material")
+b81126e01a8c ("s390/crypto: Fix return code checking in cbc_paes_crypt()")
+aff304e7a0e8 ("s390/crypto: Adjust s390 aes and paes cipher priorities")
+e7c95effcd3a ("s390/crypt: fix missing unlock in ctr_paes_crypt on error path")
+279378430768 ("s390/crypt: Add protected key AES module")

@@ -1,0 +1,8 @@
+2be4686d866a ("rcu: Introduce rcu_cpu_online()")
+43a89baecfe2 ("rcu: Export rcu_request_urgent_qs_task()")
+6efdda8bec29 ("rcu: Track laziness during boot and suspend")
+5a04848d005e ("rcu: Consolidate initialization and CPU-hotplug code")
+aba9645bd10b ("rcu: Use READ_ONCE() for lockless read of rnp->qsmask")
+bf95b2bc3e42 ("rcu: Switch polled grace-period APIs to ->gp_seq_polled")
+414c12385d47 ("rcu: Provide a get_completed_synchronize_rcu() function")
+2403e8044f22 ("rcu: Make normal polling GP be more precise about sequence numbers")

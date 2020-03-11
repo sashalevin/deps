@@ -1,0 +1,7 @@
+1fca37660326 ("kernel/.gitgnore: remove stale timeconst.h and hz.bc")
+43d8ce9d65a5 ("Provide in-kernel headers to make extending kernel easier")
+13610aa908dc ("kernel/configs: use .incbin directive to embed config_data.gz")
+ad774086356d ("kbuild: change filechk to surround the given command with { }")
+3470d9eb6387 ("firmware: refactor firmware/Makefile")
+f3fd4a3f3a38 ("kbuild: remove redundant 'set -e' from filechk_offsets")
+afaef01c0015 ("x86/entry: Add STACKLEAK erasing the kernel stack at the end of syscalls")

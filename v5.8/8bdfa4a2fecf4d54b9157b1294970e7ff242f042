@@ -1,0 +1,7 @@
+8bdfa4a2fecf ("iio: adc: ad9467: use the more common !val NULL check")
+737720197be4 ("iio: adc: ad9467: add mutex to struct ad9467_state")
+e072e149cfb8 ("iio: adc: ad9467: don't ignore error codes")
+76f028539cf3 ("iio: adc: ad9467: fix reset gpio handling")
+cdd07b3ab94a ("iio: adc: ad9467: Benefit from devm_clk_get_enabled() to simplify")
+337dbb6ec1ac ("iio: adc: ad9467: wrap a axi-adc chip-info into a ad9467_chip_info type")
+13ca1a1be501 ("iio: adc: ad9467: return ENODEV vs EINVAL in ad9467_setup()")

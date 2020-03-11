@@ -1,0 +1,7 @@
+d6c4f95039aa ("drm/i915: Treat HDMI as DVI when cloning")
+b4d775775877 ("drm/i915/hdmi: Clean up TMDS clock limit exceeding user mode handling")
+81148c266f6a ("drm/i915/hdmi: Extract intel_hdmi_output_format()")
+f4fdf37684eb ("drm/i915/hdmi: Unify "4:2:0 also" logic between .mode_valid() and .compute_config()")
+59908256d810 ("drm/i915/hdmi: Introduce intel_hdmi_tmds_clock()")
+bb115220d248 ("drm/i915/hdmi: Introduce intel_hdmi_is_ycbr420()")
+3cf460bd683d ("drm/i915/hdmi: Split intel_hdmi_bpc_possible() to source vs. sink pair")

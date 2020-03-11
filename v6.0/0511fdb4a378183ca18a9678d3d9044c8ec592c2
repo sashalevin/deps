@@ -1,0 +1,6 @@
+0511fdb4a378 ("cifs_get_link(): bail out in unsafe case")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+542228db2f28 ("cifs: fix use-after-free on the link name")
+76894f3e2f71 ("cifs: improve symlink handling for smb2+")

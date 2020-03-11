@@ -1,0 +1,7 @@
+451f2f1c908b ("KVM: arm64: Add a flag to disable MMIO trace for nVHE KVM")
+bbc075e01cea ("KVM: arm64: Stub EXPORT_SYMBOL for nVHE EL2 code")
+7621712918ad ("KVM: arm64: Add build rules for separate VHE/nVHE object files")
+7b2399ea5640 ("KVM: arm64: Move __smccc_workaround_1_smc to .rodata")
+25357de01b95 ("KVM: arm64: Clean up kvm makefiles")
+d82755b2e781 ("KVM: arm64: Kill off CONFIG_KVM_ARM_HOST")
+9ed24f4b712b ("KVM: arm64: Move virt/kvm/arm to arch/arm64")

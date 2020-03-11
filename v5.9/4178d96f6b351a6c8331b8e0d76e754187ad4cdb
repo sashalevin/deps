@@ -1,0 +1,8 @@
+4178d96f6b35 ("mt76: mt7663: check isr read return value in mt7663s_rx_work")
+b496490886f9 ("mt76: mt7663s: fix unable to handle kernel paging request")
+673d7764c4f4 ("mt76: mt7663s: use NULL instead of 0 in sdio code")
+4d59f8c9b569 ("mt76: mt76s: move tx/rx processing in 2 separate works")
+d74fda4c38ed ("mt76: mt76s: move status processing in txrx wq")
+3e5f374d332b ("mt76: mt7663s: move rx processing in txrx wq")
+974327a4a717 ("mt76: mt76s: move tx processing in a dedicated wq")
+d6e08f2be710 ("mt76: mt7663s: move drv_own/fw_own in mt7615_mcu_ops")

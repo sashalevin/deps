@@ -1,0 +1,8 @@
+78f2f60377ee ("mm/damon/core: set damos_quota->esz as public field and document")
+9294a037c015 ("mm/damon/core: implement goal-oriented feedback-driven quota auto-tuning")
+98def236f63c ("mm/damon/core: implement damos filter")
+898810e5ca54 ("mm/damon/core: split out scheme quota adjustment logic into a new function")
+ab63f63f3885 ("mm/damon: use damon_sz_region() in appropriate place")
+70e0c1d1bf94 ("mm/damon/core: factor out 'damos_quota' private fileds initialization")
+02f17037fc6e ("mm/damon/core: copy struct-to-struct instead of field-to-field in damon_new_scheme()")
+f5a79d7c0c87 ("mm/damon: introduce struct damos_access_pattern")

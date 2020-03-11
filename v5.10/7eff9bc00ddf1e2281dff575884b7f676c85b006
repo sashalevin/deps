@@ -1,0 +1,5 @@
+7eff9bc00ddf ("powerpc/mem: Fix arch/powerpc/mm/mem.c:53:12: error: no previous prototype for 'create_section_mapping'")
+b26e8f27253a ("powerpc/mem: Move cache flushing functions into mm/cacheflush.c")
+ec94b9b23d62 ("powerpc/mm: Add PG_dcache_clean to indicate dcache clean state")
+c7ba2d636342 ("powerpc/mm: Enable compound page check for both THP and HugeTLB")
+17179aeb9d34 ("powerpc/mm: Fix verification of MMU_FTR_TYPE_44x")

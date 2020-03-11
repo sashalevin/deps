@@ -1,0 +1,6 @@
+a031651ff214 ("efi: Allow to enable EFI runtime services by default on RT")
+d9f283ae71af ("efi: Disable runtime services on RT")
+435d1a471598 ("efi: Make it possible to disable efivar_ssdt entirely")
+69c1f396f25b ("efi/x86: Convert x86 EFI earlyprintk into generic earlycon implementation")
+79c2206d369b ("x86/earlyprintk/efi: Fix infinite loop on some screen widths")
+b8b39bff3c7c ("efi/x86: earlyprintk - Add 64bit efi fb address support")

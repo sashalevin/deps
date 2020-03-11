@@ -1,0 +1,6 @@
+306f13ee1642 ("blk-mq: simplify reallocation of hw ctxs a bit")
+4d805131abf2 ("blk-mq: figure out correct numa node for hw queue")
+63064be150e4 ("blk-mq: Add blk_mq_alloc_map_and_rqs()")
+b93af3055d6f ("blk-mq-sched: Fix blk_mq_sched_alloc_tags() error handling")
+d97e594c5166 ("blk-mq: Use request queue-wide tags for tagset-wide sbitmap")
+8229cca8c3ea ("blk-mq: add cond_resched() in __blk_mq_alloc_rq_maps()")

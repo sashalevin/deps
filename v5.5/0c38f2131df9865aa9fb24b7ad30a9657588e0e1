@@ -1,7 +1,0 @@
-0c38f2131df9 ("nfs: don't pass nfs_subversion to ->create_server()")
-4e357761bd44 ("nfs4: fold nfs_do_root_mount/nfs_follow_remote_path")
-6654f8e24668 ("nfs: don't bother setting/restoring export_path around do_nfs_root_mount()")
-15a9c4eff672 ("nfs: fold nfs4_remote_fs_type and nfs4_remote_referral_fs_type")
-7643c12e9557 ("nfs: lift setting mount_info from nfs4_remote{,_referral}_mount")
-d0b779d47c92 ("nfs: stash server into struct nfs_mount_info")
-444a52960c0f ("saner calling conventions for nfs_fs_mount_common()")

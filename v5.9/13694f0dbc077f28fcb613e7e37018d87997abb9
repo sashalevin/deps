@@ -1,0 +1,8 @@
+13694f0dbc07 ("vfs: link_path_walk: move more of the name hashing into hash_name()")
+ba848a77c908 ("vfs: link_path_walk: do '.' and '..' detection while hashing")
+631e1a710c04 ("vfs: link_path_walk: clarify and improve name hashing interface")
+7d286849a8de ("vfs: link_path_walk: simplify name hash flow")
+bcba1e7d0d52 ("take LOOKUP_{ROOT,ROOT_GRABBED,JUMPED} out of LOOKUP_... space")
+4f0ed93fb92d ("LOOKUP_MOUNTPOINT: we are cleaning "jumped" flag too late")
+6c6ec2b0a3e0 ("fs: add support for LOOKUP_CACHED")
+e36cffed20a3 ("fs: make unlazy_walk() error handling consistent")

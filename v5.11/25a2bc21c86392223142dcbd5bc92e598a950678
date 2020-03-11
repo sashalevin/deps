@@ -1,0 +1,8 @@
+25a2bc21c863 ("usb: typec: ucsi: call typec_set_mode on non-altmode partner change")
+512df95b9432 ("usb: typec: ucsi: Better fix for missing unplug events issue")
+bd19ac98f77e ("usb: typec: ucsi: Read the PDOs in separate work")
+6cbe4b2d5a3f ("usb: typec: ucsi: Check the partner alt modes always if there is PD contract")
+b9aa02ca39a4 ("usb: typec: ucsi: Add polling mechanism for partner tasks like alt mode checking")
+8c9b3caab3ac ("usb: typec: ucsi: Clear pending after acking connector change")
+1f4642b72be7 ("usb: typec: ucsi: Retrieve all the PDOs instead of just the first 4")
+89795852c9c4 ("usb: typec: ucsi: Add support for USB role switch")

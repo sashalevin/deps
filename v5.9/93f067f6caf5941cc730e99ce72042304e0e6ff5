@@ -1,0 +1,8 @@
+93f067f6caf5 ("arm64: mte: Allow {set,get}_tagged_addr_ctrl() on non-current tasks")
+39d08e8318c4 ("arm64: mte: Restore the GCR_EL1 register after a suspend")
+af5ce95282dc ("arm64: mte: Allow user control of the generated random tags via prctl()")
+1c101da8b971 ("arm64: mte: Allow user control of the tag check mode via prctl()")
+4d1a8a2dc0f4 ("arm64: mte: Tags-aware aware memcmp_pages() implementation")
+34bfeea4a9e9 ("arm64: mte: Clear the tags when a page is mapped in user-space with PROT_MTE")
+637ec831ea4f ("arm64: mte: Handle synchronous and asynchronous tag check faults")
+3b714d24ef17 ("arm64: mte: CPU feature detection and initial sysreg configuration")

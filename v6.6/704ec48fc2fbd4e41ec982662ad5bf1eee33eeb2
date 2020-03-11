@@ -1,0 +1,6 @@
+704ec48fc2fb ("KVM: SVM: Use sev_es_host_save_area() helper when initializing tsc_aux")
+34830b3c02ae ("KVM: SVM: Force sev_es_host_save_area() to be inlined (for noinstr usage)")
+c92be2fd8edf ("KVM: SVM: Save/restore non-volatile GPRs in SEV-ES VMRUN via host save area")
+331282fdb15e ("KVM: SVM: Drop 32-bit "support" from __svm_sev_es_vcpu_run()")
+7774c8f32e99 ("KVM: SVM: Wrap __svm_sev_es_vcpu_run() with #ifdef CONFIG_KVM_AMD_SEV")
+15223c4f973a ("KVM: SVM,VMX: Use %rip-relative addressing to access kvm_rebooting")

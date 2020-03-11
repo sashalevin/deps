@@ -1,0 +1,6 @@
+b8ca8fef58d4 ("drm/i915/stolen: don't treat small BAR as an error")
+235582ca9621 ("drm/i915: add io_size plumbing")
+b8986c889e7a ("drm/i915: Check stolen memory size before calling drm_mm_init")
+4b31b8e34460 ("drm/i915/lmem: Enable lmem for platforms with Flat CCS")
+8c26491f5853 ("drm/i915: Kill the fake lmem support")
+848915c35e22 ("drm/i915/gt: Use to_gt() helper for GGTT accesses")

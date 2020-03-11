@@ -1,0 +1,4 @@
+3e3765875b1b ("mtd: phram: Prevent divide by zero bug in phram_setup()")
+dc2b3e5cbc80 ("mtd: phram: use div_u64_rem to stop overwrite len in phram_setup")
+ffad560394de ("mtd: phram: Allow the user to set the erase page size.")
+49c64df88057 ("mtd: phram: fix a double free issue in error path")

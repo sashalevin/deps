@@ -1,0 +1,4 @@
+a76e7f1f1888 ("x86/sgx: Support VA page allocation without reclaiming")
+3a5351415228 ("x86/sgx: Export sgx_encl_{grow,shrink}()")
+f89c2f9bf5a6 ("x86/sgx: Move PTE zap code to new sgx_zap_enclave_ptes()")
+b3fb517dc602 ("x86/sgx: Support loading enclave page without VMA permissions check")

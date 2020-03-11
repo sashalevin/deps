@@ -1,0 +1,7 @@
+2cbae7e63747 ("drm: Extract drm_master_open")
+6548f4e7a3ba ("drm: Move master functions into drm_auth.c")
+34a839c689b0 ("drm: Link directly from drm_master to drm_device")
+40647e45b92b ("drm: Hide master MAP cleanup in drm_bufs.c")
+0d787b143d83 ("drm: Push struct_mutex into ->master_destroy")
+2dd500f1870e ("drm: Add functions to setup/tear down drm_events.")
+bcb877e4dcf2 ("drm: kerneldoc for drm_fops.c")

@@ -1,0 +1,5 @@
+c977092a9977 ("drm/i915/gvt: remove the map_gfn_to_mfn and set_trap_area ops")
+9f674c811740 ("drm/i915/gvt: Pin vgpu dma address before using")
+4a6eccbcb9ea ("drm/i915/gvt: Change fb_info->size from pages to bytes")
+cd7879f79f83 ("drm/i915/gvt: Roundup fb->height into tile's height at calucation fb->size")
+7f1a93b1f1d1 ("drm/i915/gvt: Correct the calculation of plane size")

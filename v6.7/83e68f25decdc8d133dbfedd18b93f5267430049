@@ -1,0 +1,6 @@
+83e68f25decd ("mm: zswap: remove unnecessary trees cleanups in zswap_swapoff()")
+44c7c734a513 ("mm/zswap: split zswap rb-tree")
+bb29fd7760ae ("mm/zswap: make sure each swapfile always have zswap rb-tree")
+678e54d4bb9a ("mm/zswap: invalidate duplicate entry when !zswap_enabled")
+a65b0e7607cc ("zswap: make shrinking memcg-aware")
+003ae2fb0b36 ("mm/zswap: replace kmap_atomic() with kmap_local_page()")

@@ -1,0 +1,6 @@
+caec5ebe77f9 ("io_uring: rely solely on FMODE_NOWAIT")
+568ec936bf13 ("block: replace blk_queue_nowait with bdev_nowait")
+e5550a1447bf ("io_uring: use io_is_uring_fops() consistently")
+ed29b0b4fd83 ("io_uring: move to separate directory")
+4d337cebcb1c ("blk-mq: avoid to touch q->elevator without any protection")
+78c6499c9209 ("Merge tag 'for-5.19/drivers-2022-06-02' of git://git.kernel.dk/linux-block")

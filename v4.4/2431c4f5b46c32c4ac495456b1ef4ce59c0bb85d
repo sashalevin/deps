@@ -1,0 +1,5 @@
+2431c4f5b46c ("mtd: Implement mtd_{read,write}() as wrappers around mtd_{read,write}_oob()")
+24ff12922278 ("mtd: Fallback to ->_read/write_oob() when ->_read/write() is missing")
+33f45c44d68b ("mtd: Do not allow MTD devices with inconsistent erase properties")
+fea728c098ee ("mtd: Hook I/O activity to the MTD LED trigger")
+0c034fe37718 ("mtd: Uninline mtd_write_oob and move it to mtdcore.c")

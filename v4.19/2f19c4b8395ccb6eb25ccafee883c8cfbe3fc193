@@ -1,0 +1,7 @@
+2f19c4b8395c ("IB/hfi1: Fix potential deadlock on &irq_src_lock and &dd->uctxt_lock")
+a2f7bbdc2dba ("IB/hfi1: Rework the IRQ API to be more flexible")
+6eb4eb10fb0d ("IB/hfi1: Make the MSIx resource allocation a bit more flexible")
+09e71899b9cf ("IB/hfi1: Prepare for new HFI1 MSIx API")
+57f97e96625f ("IB/hfi1: Get the hfi1_devdata structure as early as possible")
+6a516bc9d70b ("IB/hfi1: tune_pcie_caps is arbitrarily placed, poorly")
+c54a73d8202a ("IB/hfi1: Rework file list in Makefile")

@@ -1,0 +1,6 @@
+854d0982eef0 ("docs/vm: Fix typo in *harden*")
+df4e817b7108 ("mm: page table check")
+1bb5eab30d68 ("kasan, mm: integrate page_alloc init with HW_TAGS")
+aa5c219c60cc ("kasan: init memory in kasan_(un)poison for HW_TAGS")
+d9b6f90794ba ("arm64: kasan: allow to init memory when setting tags")
+2c3356809802 ("mm, kasan: don't poison boot memory with tag-based modes")

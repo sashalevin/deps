@@ -1,0 +1,6 @@
+94af0470924c ("ceph: add some fscrypt guardrails")
+f061feda6c54 ("ceph: add fscrypt ioctls and ceph.fscrypt.auth vxattr")
+6b5717bd30ab ("ceph: implement -o test_dummy_encryption mount option")
+2d332d5bc424 ("ceph: fscrypt_auth handling for ceph")
+ec9595c080c6 ("ceph: preallocate inode for ops that may create one")
+03bc06c7b0bd ("ceph: add new mount option to enable sparse reads")

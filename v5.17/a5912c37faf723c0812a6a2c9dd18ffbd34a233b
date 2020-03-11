@@ -1,0 +1,8 @@
+a5912c37faf7 ("riscv, bpf: Optimize stack usage of trampoline")
+6801b0aef79d ("riscv, bpf: Add 12-argument support for RV64 bpf trampoline")
+e944fc815274 ("riscv, bpf: Use STACK_ALIGN macro for size rounding up")
+1732ebc4a261 ("riscv, bpf: Fix unpredictable kernel crash about RV64 struct_ops")
+25ad10658dc1 ("riscv, bpf: Adapt bpf trampoline to optimized riscv ftrace framework")
+49b5e77ae3e2 ("riscv, bpf: Add bpf trampoline support for RV64")
+596f2e6f9cf4 ("riscv, bpf: Add bpf_arch_text_poke support for RV64")
+dd642ccb45ec ("riscv, bpf: Implement more atomic operations for RV64")

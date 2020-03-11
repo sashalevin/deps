@@ -1,0 +1,6 @@
+6a564338a23c ("ASoC: fsl_asrc fsl_esai fsl_sai: allow CONFIG_PM=N")
+f53f50ee21d4 ("ASoC: fsl_sai: use local device pointer")
+9c3ad33b5a41 ("ASoC: fsl_sai: register platform component before registering cpu dai")
+cab04ab5900f ("ASoC: fsl_asrc: Don't use devm_regmap_init_mmio_clk")
+203773e39347 ("ASoC: fsl_esai: Don't use devm_regmap_init_mmio_clk")
+2277e7e36b4b ("ASoC: fsl_sai: Don't use devm_regmap_init_mmio_clk")

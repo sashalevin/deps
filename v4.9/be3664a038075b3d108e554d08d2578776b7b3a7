@@ -1,0 +1,6 @@
+be3664a03807 ("net: bridge: convert group_addr_set option to a bit")
+8df3510f28e5 ("net: bridge: convert nf call options to bits")
+ae75767ec206 ("net: bridge: add bitfield for options and convert vlan opts")
+0baa10fff2c8 ("net: bridge: Add support for calling FDB external learning under rcu")
+1f51445af35e ("bridge: Export VLAN filtering state")
+1f90c7f34705 ("bridge: modify bridge and port to have often accessed fields in one cache line")

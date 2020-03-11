@@ -1,0 +1,6 @@
+08b024338166 ("hwmon: (lm75) Convert to use new hwmon registration API")
+e65365fed87f ("hwmon: (lm75) Convert to use regmap")
+5f7e5e29ab60 ("hwmon: (lm75) Add update_interval attribute")
+38aefb41b380 ("hwmon: (lm75) Drop lm75_read_value and lm75_write_value")
+9e37d3e2298e ("hwmon: (lm75) Handle cleanup with devm_add_action")
+2a48802f376b ("hwmon: convert lm75 to use devm_thermal_zone_of_sensor_register")

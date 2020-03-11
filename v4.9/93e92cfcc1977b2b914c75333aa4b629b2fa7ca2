@@ -1,0 +1,8 @@
+93e92cfcc197 ("ext4: ext4_put_super: Remove redundant checking for 'sbi->s_journal_bdev'")
+26fb5290240d ("ext4: Fix reusing stale buffer heads from last failed mounting")
+ee7ed3aa0f08 ("ext4: rename journal_dev to s_journal_dev inside ext4_sb_info")
+0c9ec4beecac ("ext4: support GETFSMAP ioctls")
+e9be2ac7c09c ("ext4: rename EXT4_IOC_GOINGDOWN to EXT4_IOC_SHUTDOWN")
+783d94854499 ("ext4: add EXT4_IOC_GOINGDOWN ioctl")
+7c0f6ba682b9 ("Replace <asm/uaccess.h> with <linux/uaccess.h> globally")
+41e0e24b450f ("Merge branch 'kbuild' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

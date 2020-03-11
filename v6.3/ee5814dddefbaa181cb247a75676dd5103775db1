@@ -1,0 +1,4 @@
+ee5814dddefb ("fsverity: use register_sysctl_init() to avoid kmemleak warning")
+456ae5fe9b44 ("fsverity: move sysctl registration out of signature.c")
+e77000ccc531 ("fsverity: simplify handling of errors during initcall")
+1238c8b91c5a ("fs-verity: simplify sysctls with register_sysctl()")

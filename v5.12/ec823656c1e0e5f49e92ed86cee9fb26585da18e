@@ -1,0 +1,7 @@
+ec823656c1e0 ("hwmon: (axi-fan-control) Make use of dev_err_probe()")
+1b5239f70fcd ("hwmon: (axi-fan-control) Use device firmware agnostic API")
+2a5b3370a1d9 ("hwmon: (axi-fan-control) Fix possible NULL pointer dereference")
+0dee25ebc7d3 ("hwmon: Make use of devm_clk_get_enabled()")
+493372f5d3df ("hwmon: (mr75203) skip reset-control deassert for SOCs that don't support it")
+6f7d70467121 ("hwmon: (ltc2947) Properly handle errors when looking for the external clock")
+2aee7e67bee7 ("hwmon: (axi-fan-control) Support temperature vs pwm points")

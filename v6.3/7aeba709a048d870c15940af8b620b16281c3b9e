@@ -1,0 +1,7 @@
+7aeba709a048 ("rcu/nocb: Introduce RCU_NOCB_LOCKDEP_WARN()")
+483d5bf23125 ("rcu/nocb: Use kthread parking instead of ad-hoc implementation")
+aa97b9a56906 ("rcu/nocb: Fix segcblist state machine stale comments about timers")
+ce418966a833 ("rcu/nocb: Fix segcblist state machine comments about bypass")
+afd4e6964745 ("rcu/nocb: Re-arrange call_rcu() NOCB specific code")
+b913c3fe685e ("rcu/nocb: Make IRQs disablement symmetric")
+ca16265aaf9d ("rcu/nocb: Remove needless LOAD-ACQUIRE")

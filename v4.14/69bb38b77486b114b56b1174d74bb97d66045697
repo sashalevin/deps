@@ -1,0 +1,8 @@
+69bb38b77486 ("PCI/ASPM: Return U32_MAX instead of bit magic construct")
+7afeb84d14ea ("PCI/ASPM: Correct LTR_L1.2_THRESHOLD computation")
+f51af8a63c5f ("PCI/ASPM: Declare threshold_ns as u32, not u64")
+80d7d7a904fa ("PCI/ASPM: Calculate LTR_L1.2_THRESHOLD from device characteristics")
+a48f3d5b1974 ("PCI/ASPM: Add L1 Substates definitions")
+7f88ba4a19b9 ("PCI/ASPM: Reformat ASPM register definitions")
+c00054f540bf ("PCI/ASPM: Use correct capability pointer to program LTR_L1.2_THRESHOLD")
+94ac327e043e ("PCI/ASPM: Account for downstream device's Port Common_Mode_Restore_Time")

@@ -1,0 +1,7 @@
+e098eebb63cb ("tools/nolibc: compiler: use attribute((naked)) if available")
+ef32e9b6a325 ("tools/nolibc: move entrypoint specifics to compiler.h")
+02a62b551cee ("tools/nolibc: compiler: introduce __nolibc_has_attribute()")
+e45ce88e6591 ("tools/nolibc: add support for powerpc64")
+0cb0675ec37e ("tools/nolibc: add support for powerpc")
+bff60150f7c4 ("tools/nolibc: fix up startup failures for -O0 under gcc < 11.1.0")
+20233498359a ("tools/nolibc: arch-*.h: add missing space after ','")

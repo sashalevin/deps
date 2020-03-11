@@ -1,0 +1,8 @@
+19d0a5727123 ("drm/i915: Defer enabling hangcheck to the first fake breadcrumb interrupt")
+6ef98ea0dacd ("drm/i915: Only start with the fake-irq timer if interrupts are dead")
+2246bea6cf77 ("drm/i915: Postpone fake breadcrumb interrupt until real interrupts cease")
+538b257dae83 ("drm/i915: Move breadcrumbs irq_posted up a level to engine")
+2f1ac9cc68e0 ("drm/i915: Queue hangcheck when irqs are disabled")
+f6168e330438 ("drm/i915: Convert breadcrumbs spinlock to be irqsafe")
+f54d1867005c ("dma-buf: Rename struct fence to dma_fence")
+0fc4f78f44e6 ("Merge remote-tracking branch 'airlied/drm-next' into topic/drm-misc")

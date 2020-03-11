@@ -1,0 +1,5 @@
+ee1604381a37 ("PCI: mvebu: Only remap I/O space if configured")
+dfd0309fd7b3 ("PCI: mvebu: Fix I/O space end address calculation")
+393bf9b38ad3 ("PCI: mvebu: Remove useless MSI enabling code")
+dfc6535a8401 ("PCI: mvebu: Use SET_NOIRQ_SYSTEM_SLEEP_PM_OPS for mvebu_pcie_pm_ops")
+6e9a426d7964 ("PCI: mvebu: Constify mvebu_pcie_pm_ops structure")

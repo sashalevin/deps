@@ -1,0 +1,8 @@
+176cbeceb5c5 ("Bluetooth: hci_core: Don't use hci_prepare_cmd")
+3fe318ee72c5 ("Bluetooth: move hci_get_random_address() to hci_sync")
+dd50a864ffae ("Bluetooth: Delete unreferenced hci_request code")
+c249ea9b4309 ("Bluetooth: Move Adv Instance timer to hci_sync")
+e07a06b4eb41 ("Bluetooth: Convert SCO configure_datapath to hci_sync")
+9e63767dd58a ("Bluetooth: Delete unused hci_req_stop_discovery()")
+27d54b778ad1 ("Bluetooth: Rework le_scan_restart for hci_sync")
+8ffde2a73f2c ("Bluetooth: Convert le_scan_disable timeout to hci_sync")

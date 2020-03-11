@@ -1,0 +1,4 @@
+771c7faa65fb ("hwrng: stm32 - cache device pointer in struct stm32_rng_private")
+f134d5dce9c1 ("hwrng: stm32 - use pm_runtime_resume_and_get()")
+da62ed5c019c ("hwrng: stm32 - put IP into RPM suspend on failure")
+429fec81d122 ("hwrng: stm32 - add missing clk_disable_unprepare() in stm32_rng_init()")

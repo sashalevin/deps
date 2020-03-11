@@ -1,0 +1,5 @@
+d3f14c485867 ("pipe: avoid round_pipe_size() nr_pages overflow on 32-bit")
+d37d41666408 ("pipe: move limit checking logic into pipe_set_size()")
+f491bd71118b ("pipe: relocate round_pipe_size() above pipe_set_size()")
+759c01142a5d ("pipe: limit the per-user amount of pages allocated in pipes")
+712f4aad406b ("unix: properly account for FDs passed over unix sockets")

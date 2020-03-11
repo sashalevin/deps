@@ -1,0 +1,4 @@
+24139c07f413 ("mm/ksm: unmerge and clear VM_MERGEABLE when setting PR_SET_MEMORY_MERGE=0")
+d7597f59d1d3 ("mm: add new api to enable ksm per process")
+ddc65971bb67 ("prctl: add PR_GET_AUXV to copy auxv to userspace")
+b507808ebce2 ("mm: implement memory-deny-write-execute as a prctl")

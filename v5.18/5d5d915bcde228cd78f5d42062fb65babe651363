@@ -1,0 +1,8 @@
+5d5d915bcde2 ("ASoC: SOF: Intel: hda: Add flag to indicate that the firmware is IMR booted")
+57724db17a94 ("ASoC: SOF: Intel: hda: Introduce skip_imr_boot flag")
+58ecb11eab44 ("ASoC: SOF: Intel: disable IMR boot when resuming from ACPI S4 and S5 states")
+fd2cea169c4b ("ASoC: SOF: Intel: Do not (wrongly) assume positive return value in IMR path")
+2a68ff846164 ("ASoC: SOF: Intel: hda: Revisit IMR boot sequence")
+b4e4c0b963c8 ("ASoC: SOF: Intel: hda: expose some codeloader functions")
+406fed8092d9 ("ASoC: SOF: Intel: move HDA_CL_STREAM_FORMAT definition to header")
+ea5ffef079a7 ("ASoC: SOF: Intel: hda-loader: Use local snd_dma_buffer")

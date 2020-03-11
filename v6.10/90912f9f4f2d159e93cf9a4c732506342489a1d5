@@ -1,0 +1,7 @@
+90912f9f4f2d ("idpf: convert header split mode to libeth + napi_build_skb()")
+1b1b26208515 ("idpf: reuse libeth's definitions of parsed ptype structures")
+f771314d6b75 ("idpf: compile singleq code only under default-n CONFIG_IDPF_SINGLEQ")
+5a816aae2d46 ("idpf: strictly assert cachelines of queue and queue vector structures")
+bf9bf7042a38 ("idpf: avoid bloating &idpf_q_vector with big %NR_CPUS")
+e4891e4687c8 ("idpf: split &idpf_queue into 4 strictly-typed queue structures")
+66c27e3b19d5 ("idpf: stop using macros for accessing queue descriptors")

@@ -1,0 +1,5 @@
+ea977d742507 ("clk: sunxi-ng: common: Don't call hw_to_ccu_common on hw without common")
+b914ec33b391 ("clk: sunxi-ng: common: Support minimum and maximum rate")
+e373315d8ff8 ("clk: sunxi-ng: Add helper function to find closest rate")
+a7b85ad25a97 ("clk: sunxi: Don't call clk_hw_get_name() on a hw that isn't registered")
+930944833550 ("clk: sunxi-ng: switch to of_clk_hw_register() for registering clks")

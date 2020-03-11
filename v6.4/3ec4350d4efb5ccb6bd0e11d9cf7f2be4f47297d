@@ -1,0 +1,8 @@
+3ec4350d4efb ("RISCV: KVM: use raw_spinlock for critical section in imsic")
+4ad9843e1ea0 ("RISCV: KVM: update external interrupt atomically for IMSIC swfile")
+db8b7e97d613 ("RISC-V: KVM: Add in-kernel virtualization of AIA IMSIC")
+74967aa208e2 ("RISC-V: KVM: Add in-kernel emulation of AIA APLIC")
+89d01306e34d ("RISC-V: KVM: Implement device interface for AIA irqchip")
+00f918f61c56 ("RISC-V: KVM: Skeletal in-kernel AIA irqchip support")
+f0607e6215b2 ("RISC-V: KVM: Set kvm_riscv_aia_nr_hgei to zero")
+77cf33c17154 ("RISC-V: KVM: Implement guest external interrupt line management")

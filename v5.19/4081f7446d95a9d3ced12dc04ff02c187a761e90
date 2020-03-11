@@ -1,0 +1,6 @@
+4081f7446d95 ("mm/swap: convert put_swap_page() to put_swap_folio()")
+a0d3374b0707 ("mm/swap: convert __read_swap_cache_async() to use a folio")
+bdb0ed54a476 ("mm/swapfile: convert try_to_free_swap() to folio_free_swap()")
+f530ed0e2d01 ("shmem: convert shmem_writepage() to use a folio throughout")
+75fa68a5d898 ("mm/swap: convert delete_from_swap_cache() to take a folio")
+2397f780e1e0 ("mm/swap: convert try_to_free_swap to use a folio")

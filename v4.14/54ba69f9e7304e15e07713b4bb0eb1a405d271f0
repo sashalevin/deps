@@ -1,0 +1,7 @@
+54ba69f9e730 ("Bluetooth: hci_bcm: Fix race on close")
+6d83f1ee88a4 ("Bluetooth: hci_bcm: Clean up unnecessary #ifdef")
+4a59f1fab91e ("Bluetooth: hci_bcm: Validate IRQ before using it")
+8a92056837fd ("Bluetooth: hci_bcm: Add (runtime)pm support to the serdev driver")
+c0d3ce580b7c ("Bluetooth: hci_bcm: Store device pointer instead of platform_device pointer")
+4a56f891efce ("Bluetooth: hci_bcm: Move platform_get_irq call to bcm_probe")
+227630cccdbb ("Bluetooth: hci_bcm: Fix setting of irq trigger type")

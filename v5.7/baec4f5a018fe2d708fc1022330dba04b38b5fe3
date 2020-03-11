@@ -1,0 +1,4 @@
+baec4f5a018f ("x86, kvm: use correct GFP flags for preemption disabled")
+0547758a6de3 ("x86/kvm: Alloc dummy async #PF token outside of raw spinlock")
+6bca69ada4bc ("x86/kvm: Sanitize kvm_async_pf_task_wait()")
+ef68017eb570 ("x86/kvm: Handle async page faults directly through do_page_fault()")

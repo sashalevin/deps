@@ -1,0 +1,6 @@
+d7481b24b816 ("audit: issue CWD record to accompany LSM_AUDIT_DATA_* records")
+9fc54012d7ae ("audit: remove unused !CONFIG_AUDITSYSCALL __audit_inode* stubs")
+c9b07eab0c87 ("audit_inode(): switch to passing AUDIT_INODE_...")
+39145f5f0cc9 ("filename_mountpoint(): make LOOKUP_NO_EVAL unconditional there")
+57d4657716ac ("audit: ignore fcaps on umount")
+4b3e4ed6b0d9 ("audit: unswing cap_* fields in PATH records")

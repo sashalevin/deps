@@ -1,0 +1,5 @@
+7ada42d2519e ("crypto: atmel-aes - switch to skcipher API")
+86ef1dfcb561 ("crypto: atmel-aes - Fix IV handling when req->nbytes < ivsize")
+747f6ec6e8f5 ("crypto: atmel - remove empty functions")
+91308019ecb4 ("crypto: atmel-aes - properly set IV after {en,de}crypt")
+219d51c759c3 ("crypto: atmel - Use GCM IV size constant")

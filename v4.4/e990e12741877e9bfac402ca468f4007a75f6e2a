@@ -1,0 +1,8 @@
+e990e1274187 ("watchdog: renesas_wdt: don't set divider while watchdog is running")
+03a196f25f56 ("watchdog: renesas_wdt: add another divider option")
+82f64cd20848 ("watchdog: renesas_wdt: apply better precision")
+1c1b24340172 ("watchdog: renesas_wdt: don't round closest with get_timeleft")
+b51247c80296 ("watchdog: renesas_wdt: check rate also for upper limit")
+f6159dd4b085 ("watchdog: renesas_wdt: avoid (theoretical) type overflow")
+bd99b68ed7f9 ("watchdog: renesas-wdt: add driver")
+b466ee89509a ("watchdog: atlas7: add watchdog driver of CSRatlas7")

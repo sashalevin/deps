@@ -1,0 +1,8 @@
+f7ec3f62d773 ("media: remove reference to CONFIG_EMBEDDED in MEDIA_SUPPORT_FILTER")
+8b0ff6650325 ("media: Remove superfluous dependency for MEDIA_SUPPORT_FILTER")
+b0cd4fb27665 ("media: Kconfig: on !EMBEDDED && !EXPERT, enable driver filtering")
+ce971d957015 ("media: Kconfig: warn if drivers are filtered")
+c6774ee035dc ("media: Kconfig: make filtering devices optional")
+c39d57044a25 ("media: Kconfig: use a sub-menu to select supported devices")
+4b32216adb01 ("media: split test drivers from platform directory")
+06b93644f4d1 ("media: Kconfig: add an option to filter in/out platform drivers")

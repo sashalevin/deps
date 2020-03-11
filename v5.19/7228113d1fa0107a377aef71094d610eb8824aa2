@@ -1,0 +1,4 @@
+7228113d1fa0 ("xen/virtio: use dom0 as default backend for CONFIG_XEN_VIRTIO_FORCE_GRANT")
+c9133112f347 ("xen/virtio: restructure xen grant dma setup")
+251e90e7e346 ("xen: don't require virtio with grants for non-PV guests")
+a603002eea82 ("virtio: replace restricted mem access flag with callback")

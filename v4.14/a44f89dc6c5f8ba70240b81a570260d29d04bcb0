@@ -1,0 +1,5 @@
+a44f89dc6c5f ("mm/huge_memory.c: use helper function migration_entry_to_page()")
+2e83ee1d8694 ("mm: thp: fix flags for pmd migration when split")
+423ac9af3cef ("mm/thp: remove pmd_huge_split_prepare()")
+a3cf988fcb88 ("mm: use updated pmdp_invalidate() interface to track dirty/accessed bits")
+9bebc09fcf4f ("mm/huge_memory.c: fix comment in __split_huge_pmd_locked")

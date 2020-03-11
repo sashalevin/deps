@@ -1,0 +1,7 @@
+735e4ae5ba28 ("vfs: track per-sb writeback errors and report them to syncfs")
+09d91cda0e82 ("mm,thp: avoid writes to file with THP in pagecache")
+99cb0dbd47a1 ("mm,thp: add read-only THP support for (non-shmem) FS")
+579c571e2efd ("khugepaged: rename collapse_shmem() and khugepaged_scan_shmem()")
+4101196b19d7 ("mm: page cache: store only head pages in i_pages")
+39656e83dab9 ("mm: lift the x86_32 PAE version of gup_get_pte to common code")
+927ba67a63c7 ("Merge branch 'timers-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

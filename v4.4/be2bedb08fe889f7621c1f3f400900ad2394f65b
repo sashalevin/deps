@@ -1,0 +1,7 @@
+be2bedb08fe8 ("ARM: sa1111: map interrupt numbers through irqdomain")
+4c9f6d31ddce ("ARM: sa1111: use an irqdomain for SA1111 interrupts")
+cf6e4ca3e53f ("ARM: sa1111: add sa1111_get_irq()")
+1629c9ab3679 ("ARM: sa1111: clean up duplication in IRQ chip implementation")
+17cf50116e10 ("ARM: sa1111: implement a gpio_chip for SA1111 GPIOs")
+ccb7d854d65a ("ARM: sa1111: move irq cleanup to separate function")
+87d5dd62c07f ("ARM: sa1111: fix missing clk_disable()")

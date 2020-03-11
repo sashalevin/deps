@@ -1,0 +1,4 @@
+a449bf58e45a ("mm/swapfile: fix and annotate various data races")
+eb085574a752 ("mm, swap: fix race between swapoff and some swap operations")
+c10d38cc8d3e ("mm, swap: bounds check swap_info array accesses to avoid NULL derefs")
+bc4ae27d817a ("mm: split SWP_FILE into SWP_ACTIVATED and SWP_FS")

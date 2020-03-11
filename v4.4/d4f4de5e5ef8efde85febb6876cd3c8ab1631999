@@ -1,0 +1,4 @@
+d4f4de5e5ef8 ("Fix the locking in dcache_readdir() and friends")
+ebaaa80e8f20 ("lockless next_positive()")
+4f42c1b5b9c2 ("libfs.c: new helper - next_positive()")
+274f5b041d3c ("dcache_{readdir,dir_lseek}(): don't bother with nested ->d_lock")

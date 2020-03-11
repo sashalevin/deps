@@ -1,0 +1,8 @@
+c265861af2af ("clocksource/drivers/arm_arch_timer: validate arch_timer_rate")
+5d3dfa96c7a2 ("clocksource: arm_arch_timer: split dt-only rate handling")
+ded24019b6b6 ("clocksource: arm_arch_timer: clean up printk usage")
+f947ee147e08 ("clocksource/drivers/arm_arch_timer: Map frame with of_io_request_and_map()")
+3c0731db1540 ("clocksource/drivers/arm_arch_timer: Convert init function to return error")
+d9b5e41591ca ("clocksource: arm_arch_timer: Extend arch_timer_kvm_info to get the virtual IRQ")
+b4d6ce9776e0 ("clocksource: arm_arch_timer: Gather KVM specific information in a structure")
+10dc3747661b ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

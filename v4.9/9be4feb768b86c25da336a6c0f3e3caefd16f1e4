@@ -1,0 +1,8 @@
+9be4feb768b8 ("powerpc/rtas_pci: rename and properly expose config access APIs")
+17d2a4870467 ("powerpc/eeh: Pass eeh_dev to eeh_ops->{read|write}_config()")
+13a83eac373c ("powerpc/eeh: Fix enabling bridge MMIO windows")
+f9df74dfce54 ("powerpc/kernel: Change retrieval of pci_dn")
+69672bd7489f ("powerpc/eeh: Remove unnecessary pointer to phb from eeh_dev")
+8bae6a23198d ("powerpc/eeh: Reduce to one the number of places where edev is allocated")
+1f52f1761456 ("powerpc/pci: Always print PHB and PE numbers as hexadecimal")
+d4791db527bf ("powerpc/powernv: Don't warn on PE init if unfreeze is unsupported")

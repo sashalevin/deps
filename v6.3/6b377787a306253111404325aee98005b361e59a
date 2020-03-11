@@ -1,0 +1,5 @@
+6b377787a306 ("nbd: move setting the cache control flags to __nbd_set_size")
+268283244c0f ("nbd: use the atomic queue limits API in nbd_set_size")
+7ea201f2cc1d ("nbd: don't clear discard_sectors in nbd_config_put")
+1e2ab2e8a98c ("nbd: use the default discard granularity")
+3f89ac587baa ("block/drivers: remove dead clear of random flag")

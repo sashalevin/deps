@@ -1,0 +1,6 @@
+a34e0353a681 ("spi: spi-imx: fix mixing of native and gpio chipselects for imx51/imx53/imx6 variants")
+6a983ff5102f ("spi: spi-imx: add support for SPI_MOSI_IDLE_LOW mode bit")
+d9032b304541 ("spi: spi-imx: use "controller" variable consistently in spi_imx_probe()")
+87c614175bbf ("spi: spi-imx: fix MX51_ECSPI_* macros when cs > 3")
+9e264f3f85a5 ("spi: Replace all spi->chip_select and spi->cs_gpiod references with function call")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

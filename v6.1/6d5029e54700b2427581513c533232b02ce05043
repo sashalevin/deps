@@ -1,0 +1,6 @@
+6d5029e54700 ("tls: store rec_seq directly within cipher_context")
+d9a6ca1a9758 ("tls: use tls_cipher_desc to get per-cipher sizes in tls_set_sw_offload")
+8db44ab26beb ("tls: rename tls_cipher_size_desc to tls_cipher_desc")
+037303d67607 ("tls: reduce size of tls_cipher_size_desc")
+200e23165109 ("tls: add TLS_CIPHER_ARIA_GCM_* to tls_cipher_size_desc")
+fd0fc6fdd889 ("tls: move tls_cipher_size_desc to net/tls/tls.h")

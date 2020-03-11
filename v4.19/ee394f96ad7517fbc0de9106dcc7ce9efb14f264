@@ -1,3 +1,7 @@
 ee394f96ad75 ("netfilter: nft_synproxy: add synproxy stateful object support")
 ad49d86e07a4 ("netfilter: nf_tables: Add synproxy support")
 d7f9b2f18eae ("netfilter: synproxy: extract SYNPROXY infrastructure from {ipt, ip6t}_SYNPROXY")
+5fcc88ecf681 ("netfilter: synproxy: add common uapi for SYNPROXY infrastructure")
+857b46027d6f ("netfilter: nft_ct: add ct expectations support")
+fb961945457f ("netfilter: nf_tables: add SECMARK support")
+6c47260250fc ("netfilter: nf_tables: add xfrm expression")

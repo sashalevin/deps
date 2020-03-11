@@ -1,0 +1,6 @@
+e73d340db644 ("crypto: ahash - Add init_tfm/exit_tfm")
+3d053d53fcbe ("crypto: hash - Prevent use of req->result in ahash update")
+6f221f7e864b ("crypto: hash - Require export/import in ahash")
+b40fa82cd613 ("crypto: doc - clear htmldocs build warnings for crypto/hash")
+9fa68f620041 ("crypto: hash - prevent using keyed hashes without setting key")
+560b1a82ee87 ("crypto: doc - clarify return values for async hash methods")

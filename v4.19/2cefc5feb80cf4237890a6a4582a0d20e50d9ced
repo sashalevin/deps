@@ -1,1 +1,3 @@
 2cefc5feb80c ("KVM: x86: hyperv: optimize kvm_hv_flush_tlb() for vp_index == vcpu_idx case")
+0b0a31badb2d ("KVM: x86: hyperv: valid_bank_mask should be 'u64'")
+a812297c4fd9 ("KVM: x86: hyperv: optimize 'all cpus' case in kvm_hv_flush_tlb()")

@@ -1,0 +1,5 @@
+9423c653fe61 ("loop: Don't bother validating blocksize")
+a17ece76bcfe ("loop: regularize upgrading the block size for direct I/O")
+ae0d40ff4964 ("loop: always update discard settings in loop_reconfigure_limits")
+473516b36193 ("loop: use the atomic queue limits update API")
+65bdd16f8c72 ("loop: cleanup loop_config_discard")

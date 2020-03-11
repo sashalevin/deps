@@ -1,0 +1,4 @@
+f5e4ec155d14 ("random: use arch_get_random*_early() in random_init()")
+d349ab99eec7 ("random: handle archrandom with multiple longs")
+0b9ba6135d7f ("um: seed rng using host OS rng")
+9592eef7c16e ("random: remove CONFIG_ARCH_RANDOM")

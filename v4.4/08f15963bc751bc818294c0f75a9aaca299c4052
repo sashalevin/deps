@@ -1,0 +1,6 @@
+08f15963bc75 ("i2c: qup: use the complete transfer length to choose DMA mode")
+eb422b539c1f ("i2c: qup: minor code reorganization for use_dma")
+9cedf3b2f099 ("i2c: qup: Add bam dma capabilities")
+f74187932d30 ("i2c: qup: Transfer each i2c_msg in i2c_msgs without a stop bit")
+191424bb6166 ("i2c: qup: Add V2 tags support")
+c4f0c5fb383a ("i2c: qup: Change qup_wait_writeready function to use for all timeouts")

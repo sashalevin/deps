@@ -1,0 +1,4 @@
+94b98194b62e ("ALSA: rawmidi: Take open_mutex around parameter changes")
+f1d40433352e ("ALSA: rawmidi: Move lock to snd_rawmidi_substream")
+08fdced60ca0 ("ALSA: rawmidi: Add framing mode")
+88a06d6fd6b3 ("ALSA: rawmidi: Access runtime->avail always in spinlock")

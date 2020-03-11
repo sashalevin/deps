@@ -1,0 +1,5 @@
+9fe5d2b2fd30 ("scsi: zfcp: fix passing fsf_req to SCSI trace on TMF to correlate with HBA")
+56d23ed7adf3 ("scsi: zfcp: do not trace pure benign residual HBA responses at default level")
+dac37e15b7d5 ("scsi: zfcp: fix use-after-"free" in FC ingress path after TMF")
+771bf03537dd ("zfcp: fix D_ID field with actual value on tracing SAN responses")
+4eeaa4f3f1d6 ("zfcp: close window with unblocked rport during rport gone")

@@ -1,0 +1,8 @@
+ff435da4cc8b ("soundwire: bus: improve error handling for clock stop prepare/deprepare")
+54a6ca4fa8a3 ("soundwire: bus: add missing \n in dynamic debug")
+b50bb8ba369c ("soundwire: bus: handle -ENODATA errors in clock stop/start sequences")
+345e9f5ca798 ("soundwire: bus: only use CLOCK_STOP_MODE0 and fix confusions")
+f4022062e541 ("soundwire: add static port mapping support")
+af7254b4b19f ("soundwire: bus: demote clock stop prepare log to dev_dbg()")
+a5759f193fa3 ("soundwire: bus: use consistent tests for return values")
+665cf215bc4c ("soundwire: bus: test read status")

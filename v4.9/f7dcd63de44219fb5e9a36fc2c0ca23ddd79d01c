@@ -1,0 +1,5 @@
+f7dcd63de442 ("x86: Convert obsolete cputime type to nsecs")
+353c50ebe329 ("sched/cputime: Simplify task_cputime()")
+40565b5aedd6 ("sched/cputime, powerpc, s390: Make scaled cputime arch specific")
+981ee2d44440 ("sched/cputime, powerpc: Remove cputime_to_scaled()")
+7008eb997bcf ("sched/cputime, powerpc: Remove cputime_last_delta global variable")

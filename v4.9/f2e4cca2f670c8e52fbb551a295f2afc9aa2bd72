@@ -1,0 +1,6 @@
+f2e4cca2f670 ("docs: gdbmacros: print newest record")
+e60768311af8 ("scripts/gdb: update for lockless printk ringbuffer")
+ca210ba32ef7 ("scripts/gdb: fix lx-dmesg when CONFIG_PRINTK_CALLER is set")
+46d10a094353 ("scripts/gdb: lx-dmesg: use explicit encoding=utf8 errors=replace")
+c454756f4727 ("scripts/gdb: lx-dmesg: cast log_buf to void* for addr fetch")
+d6c9708737c2 ("scripts/gdb: make lx-dmesg command work (reliably)")

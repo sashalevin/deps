@@ -1,0 +1,7 @@
+33b688e3854d ("PM: clk: remove kernel-doc warning")
+0bfa0820c274 ("PM: clk: make PM clock layer compatible with clocks that must sleep")
+40619f7dd3ef ("PM: clock_ops: fix missing clk_prepare() return value check")
+266e4e9d9150 ("clk: add clk_bulk_get accessories")
+a6adc30ba7be ("clk: introduce clk_core_enable_lock and clk_core_disable_lock functions")
+e81b87d22a8f ("clk: Provide notifier stubs when !COMMON_CLK")
+02113ba93ea4 ("PM / clk: Add support for obtaining clocks from device-tree")

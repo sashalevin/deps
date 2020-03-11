@@ -1,0 +1,8 @@
+b2fcb285ade3 ("usb: xhci-mtk: add an optional xhci_ck clock")
+9d918dcea068 ("usb: xhci-mtk: get optional clock by devm_clk_get_optional()")
+c929d84735bf ("usb: xhci-mtk: fix ptr_ret.cocci warnings")
+b6bb72cf0df1 ("usb: xhci-mtk: add optional mcu and dma bus clocks")
+603fbd15357d ("usb: xhci-mtk: remove dummy wakeup debounce clocks")
+f3c4c73704b2 ("usb: xhci-mtk: make the reference clock optional")
+9c4afd429bee ("usb: xhci-mtk: add reference clock")
+0cbd4b34cda9 ("xhci: mediatek: support MTK xHCI host controller")

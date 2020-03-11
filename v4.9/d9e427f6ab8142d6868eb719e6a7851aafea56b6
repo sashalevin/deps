@@ -1,0 +1,4 @@
+d9e427f6ab81 ("virtio_balloon: fix increment of vb->num_pfns in fill_balloon()")
+c7cdff0e8647 ("virtio_balloon: fix deadlock on OOM")
+af54aed94bf3 ("mm/balloon_compaction.c: don't zero ballooned pages")
+bb01b64cfab7 ("mm/balloon_compaction.c: enqueue zero page to balloon device")

@@ -1,0 +1,8 @@
+62ba568f7aef ("ALSA: pcm: Return 0 when size < start_threshold in capture")
+5c7264cfbb20 ("ALSA: pcm: Unify read/write loop")
+9f60063094ba ("ALSA: pcm: More unification of PCM transfer codes")
+c48f12ee0acb ("ALSA: pcm: Call directly the common read/write helpers")
+bdc4acf7f6eb ("ALSA: pcm: Shuffle codes")
+6ba63929ae76 ("ALSA: pcm: Check PCM state by a common helper function")
+2ae48354a1a7 ("ALSA: pcm: Drop the old copy and silence ops")
+29d1a873de54 ("ALSA: pcm: Introduce copy_user, copy_kernel and fill_silence ops")

@@ -1,0 +1,8 @@
+3eeff1984051 ("scsi: target: Move a list_del_init() statement")
+6b6427b6fd90 ("target: Move session check from target_put_sess_cmd() into target_release_cmd_kref()")
+064cdd2d91c2 ("target: Fix race between iscsi-target connection shutdown + ABORT_TASK")
+5e2c956b8aa2 ("target: Fix missing complete during ABORT_TASK + CMD_T_FABRIC_STOP")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

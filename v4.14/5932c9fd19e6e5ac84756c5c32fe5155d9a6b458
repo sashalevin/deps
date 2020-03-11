@@ -1,0 +1,4 @@
+5932c9fd19e6 ("mm/tlb: Provide default nmi_uaccess_okay()")
+faaadaf315b4 ("asm-generic/tlb: Guard with #ifdef CONFIG_MMU")
+4012e77a903d ("x86/nmi: Fix NMI uaccess race against CR3 switching")
+18bf3c3ea8ec ("x86/speculation: Use Indirect Branch Prediction Barrier in context switch")

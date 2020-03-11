@@ -1,0 +1,7 @@
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")
+f0b98c02c18a ("kvm: vmx: Don't use INVVPID when EPT is enabled")
+fb6c81984313 ("kvm: vmx: Flush TLB when the APIC-access address changes")
+bcdde302b826 ("KVM: nVMX: invvpid handling improvements")
+dccbfcf52ceb ("KVM: nVMX: postpone VMCS changes on MSR_IA32_APICBASE write")
+4f2777bc9797 ("kvm: x86: nVMX: maintain internal copy of current VMCS")
+ef697a712a61 ("KVM: VMX: fix nested vpid for old KVM guests")

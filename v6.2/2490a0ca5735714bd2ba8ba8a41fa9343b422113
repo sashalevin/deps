@@ -1,0 +1,4 @@
+2490a0ca5735 ("serial: stm32: synchronize RX DMA channel in shutdown")
+7f28bcea824e ("serial: stm32: group dma pause/resume error handling into single function")
+00d1f9c6af0d ("serial: stm32: modify parameter and rename stm32_usart_rx_dma_enabled")
+db89728abad5 ("serial: stm32: avoid clearing DMAT bit during transfer")

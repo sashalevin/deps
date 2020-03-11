@@ -1,0 +1,7 @@
+c7ec012f6c56 ("mxser: use tty_port_close() in mxser_close()")
+467b4c47880d ("mxser: don't flush buffer from mxser_close() directly")
+47b722d47382 ("mxser: call stop_rx from mxser_shutdown_port()")
+2fb19b957805 ("mxser: remove tty->driver_data NULL check")
+274ab58dc2b4 ("mxser: keep only !tty test in ISR")
+568a2b9c1289 ("mxser: rename mxser_close_port() to mxser_stop_rx()")
+e25ed43b4b60 ("mxser: remove wait for sent from mxser_close_port")

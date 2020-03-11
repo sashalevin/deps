@@ -1,0 +1,5 @@
+d68cc25b7c7f ("usb: dwc3: Do not get extcon device when usb-role-switch is used")
+0f0101719138 ("usb: dwc3: Don't switch OTG -> peripheral if extcon is present")
+a102f07e4edf ("usb: dwc3: drd: Add support for usb-conn-gpio based usb-role-switch")
+cb4d9b52ec06 ("usb: dwc3: drd: Improve dwc3_get_extcon() style")
+c824c73a5e08 ("usb: dwc3: drd: Avoid error when extcon is missing")

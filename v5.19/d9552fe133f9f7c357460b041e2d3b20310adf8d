@@ -1,0 +1,7 @@
+d9552fe133f9 ("KVM: arm64: nv: Emulate PSTATE.M for a guest hypervisor")
+b1da49088ac6 ("KVM: arm64: Move vcpu debug/SPE/TRBE flags to the input flag set")
+699bb2e0c6f3 ("KVM: arm64: Move vcpu PC/Exception flags to the input flag set")
+4c0680d394d8 ("KVM: arm64: Move vcpu configuration flags into their own set")
+e87abb73e594 ("KVM: arm64: Add helpers to manipulate vcpu flags among a set")
+f8077b0d5923 ("KVM: arm64: Move FP state ownership from flag to a tristate")
+e9ada6c208c1 ("KVM: arm64: Drop FP_FOREIGN_STATE from the hypervisor code")

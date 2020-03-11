@@ -1,0 +1,6 @@
+b5941f066b4c ("mptcp: fix sk_forward_memory corruption on retransmission")
+417789df4a03 ("mptcp: fix missing wakeup")
+c2e6048fa1cf ("mptcp: fix race in release_cb")
+2948d0a1e5ae ("mptcp: factor out __mptcp_retrans helper()")
+341c65242fe1 ("mptcp: fix DATA_FIN processing for orphaned sockets")
+d489ded1a369 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

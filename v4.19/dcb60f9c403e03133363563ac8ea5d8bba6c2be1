@@ -1,0 +1,7 @@
+dcb60f9c403e ("cpumask: eliminate kernel-doc warnings")
+839cad5fa54b ("cpumask: fix function description kernel-doc notation")
+93ba139ba819 ("cpumask: use find_first_and_bit()")
+1fae562983ca ("cpumask: introduce cpumap_print_list/bitmask_to_buf to support large bitmask and list")
+46a87b3851f0 ("sched/core: Distribute tasks within affinity masks")
+714e501e16cd ("sched/core: Fix migration to invalid CPU in __set_cpus_allowed_ptr()")
+e371c481d89c ("lib: rework bitmap_parselist")

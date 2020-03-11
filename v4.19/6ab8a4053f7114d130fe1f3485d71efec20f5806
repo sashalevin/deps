@@ -1,0 +1,5 @@
+6ab8a4053f71 ("KVM: VMX: Avoid to rdmsrl(MSR_IA32_SYSENTER_ESP)")
+6b546e1c9ad2 ("x86/tss: Fix and move VMX BUILD_BUG_ON()")
+881a463cf21d ("x86/cpu_entry_area: Cleanup setup functions")
+ba2ba356b2c8 ("x86/cpu_entry_area: Move percpu_setup_debug_store() to __init section")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")

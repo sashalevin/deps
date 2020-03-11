@@ -1,0 +1,4 @@
+6c1c07b33eb0 ("perf/x86/intel: Avoid unnecessary PEBS_ENABLE MSR access in PMI")
+cecf62352aee ("perf/x86/intel: Don't disable "intel_bts" around "intel" event batching")
+8077eca079a2 ("perf/x86/pebs: Add workaround for broken OVFL status on HSW+")
+c3d266c8a983 ("perf/x86/intel: Fix PEBS warning by only restoring active PMU in pmi")

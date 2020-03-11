@@ -1,0 +1,4 @@
+20d099756b98 ("block: Replace all non-returning strlcpy with strscpy")
+58367c8a5f84 ("block: sanitize the elevator name before passing it to __elevator_change")
+db05628435aa ("blk-cgroup: move blkcg_{get,set}_fc_appid out of line")
+fbdee71bb5d8 ("block: deprecate autoloading based on dev_t")

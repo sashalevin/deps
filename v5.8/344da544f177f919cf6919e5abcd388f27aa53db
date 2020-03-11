@@ -1,0 +1,4 @@
+344da544f177 ("x86/nmi: Print reasons why backtrace NMIs are ignored")
+a217a6593cec ("KVM/VMX: Invoke NMI non-IST entry instead of IST entry")
+1a5488ef0dcf ("KVM: VMX: Invoke NMI handler via indirect call instead of INTn")
+535f7ef2ab7d ("KVM: VMX: Move IRQ invocation to assembly subroutine")

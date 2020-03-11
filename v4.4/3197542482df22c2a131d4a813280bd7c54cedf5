@@ -1,0 +1,8 @@
+3197542482df ("audit: rework audit_log_start()")
+af8b824f283d ("audit: rename the queues and kauditd related functions")
+4aa83872d346 ("audit: queue netlink multicast sends just like we do for unicast sends")
+7ffb8e317bae ("audit: we don't need to __set_current_state(TASK_RUNNING)")
+1194b994bec3 ("audit: wake up threads if queue switched from limited to unlimited")
+f48a942926c5 ("audit: include auditd's threads in audit_log_start() wait exception")
+eb8baf6aa3ba ("audit: remove audit_backlog_wait_overflow")
+c4b7a7755f91 ("audit: don't needlessly reset valid wait time")

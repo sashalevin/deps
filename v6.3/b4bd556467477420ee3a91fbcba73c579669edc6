@@ -1,0 +1,5 @@
+b4bd55646747 ("KVM: SVM: WARN on vNMI + NMI window iff NMIs are outright masked")
+fa4c027a7956 ("KVM: x86: Add support for SVM's Virtual NMI")
+ab2ee212a57b ("KVM: x86: Save/restore all NMIs when multiple NMIs are pending")
+2cb9317377ca ("KVM: x86: Raise an event request when processing NMIs if an NMI is pending")
+772f254d4d56 ("KVM: SVM: add wrappers to enable/disable IRET interception")

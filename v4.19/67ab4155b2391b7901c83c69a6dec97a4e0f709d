@@ -1,0 +1,5 @@
+67ab4155b239 ("staging: iio: ad5933: Convert to i2c's .probe_new()")
+da7de29bb171 ("staging: iio: ad5933: attach life-cycle of kfifo buffer to parent device and use managed calls throughout")
+0e0a22aebd64 ("staging: iio: ad5933: use clock framework for clock reference")
+c9d07120ab9a ("staging: iio: ad5933: change regulator binging for vref")
+1afacfb0dfe9 ("staging: iio: ad5933: rename ext_clk_Hz -> ext_clk_hz")

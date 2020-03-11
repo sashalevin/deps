@@ -1,0 +1,6 @@
+6f0f597b5deb ("ceph: don't blindly unregister session that is in opening state")
+2827528da003 ("ceph: close stopped mds' session")
+0a07fc8cd01b ("ceph: fix potential use-after-free")
+76201b6354bb ("ceph: allow connecting to mds whose rank >= mdsmap::m_max_mds")
+e9e427f0a14f ("ceph: check availability of mds cluster on mount")
+d463a43d69f4 ("ceph: CEPH_FEATURE_MDSENC support")

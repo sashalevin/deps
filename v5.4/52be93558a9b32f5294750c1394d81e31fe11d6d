@@ -1,0 +1,4 @@
+52be93558a9b ("Drivers: hv: vm_bus: Handle vmbus rescind calls after vmbus is suspended")
+14c685d9eb36 ("drivers: hv: vmbus: Fix call msleep using < 20ms")
+b9fa1b8797dc ("Drivers: hv: vmbus: Don't bind the offer&rescind works to a specific CPU")
+8a857c55420f ("Drivers: hv: vmbus: Always handle the VMBus messages on CPU0")

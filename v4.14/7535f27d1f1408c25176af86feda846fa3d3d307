@@ -1,0 +1,6 @@
+7535f27d1f14 ("scsi: megaraid_sas: Move initialization of instance parameters inside newly created function megasas_init_ctrl_params")
+1b4bed206159 ("scsi: megaraid_sas: Create separate functions for allocating and freeing controller DMA buffers")
+49a7a4adb016 ("scsi: megaraid_sas: Create separate functions to allocate ctrl memory")
+f369a31578c4 ("scsi: megaraid_sas: replace is_ventura with adapter_type checks")
+e7d36b884350 ("scsi: megaraid_sas: replace instance->ctrl_context checks with instance->adapter_type")
+c365178f3147 ("scsi: megaraid_sas: use adapter_type for all gen controllers")

@@ -1,0 +1,6 @@
+1101c872c8c7 ("perf record: Skip side-band event setup if HAVE_LIBBPF_SUPPORT is not set")
+23cbb41c939a ("perf record: Move side band evlist setup to separate routine")
+899e5ffbf246 ("perf record: Introduce --switch-output-event")
+b38d85ef49cf ("perf bpf: Decouple creating the evlist from adding the SB event")
+ca6c9c8b107f ("perf top: Move sb_evlist to 'struct perf_top'")
+bc477d7983e3 ("perf record: Move sb_evlist to 'struct record'")

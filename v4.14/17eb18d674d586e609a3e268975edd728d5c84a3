@@ -1,0 +1,3 @@
+17eb18d674d5 ("nvmem: set nvmem->owner to nvmem->dev->driver->owner if unset")
+4dd5f60e9a84 ("nvmem: mtk-efuse: use stack for nvmem_config instead of malloc'ing it")
+01d35cabd5ab ("nvmem: imx-iim: use stack for nvmem_config instead of malloc'ing it")

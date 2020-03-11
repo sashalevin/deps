@@ -1,0 +1,7 @@
+970dc9c11a17 ("mmc: mmci: stm32: use a buffer for unaligned DMA requests")
+0d319dd5a271 ("mmc: mmci: stm32: correctly check all elements of sg list")
+127e6e98ca9b ("mmc: mmci_sdmmc: Replace sg_dma_xxx macros")
+46b723dd867d ("mmc: mmci: add stm32 sdmmc variant")
+c3647fdc6a5a ("mmc: mmci: create common mmci_dma_setup/release")
+cdea19472192 ("mmc: mmci: internalize dma_inprogress into mmci dma functions")
+7b2a6d518d0c ("mmc: mmci: internalize dma map/unmap into mmci dma functions")

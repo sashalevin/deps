@@ -1,0 +1,8 @@
+ff18d77b5f0c ("block: move bio_get_{first,last}_bvec out of bio.h")
+c9c9762d4d44 ("block: return the correct bvec when checking for gaps")
+8a2ee44a371c ("btrfs: look at bi_size for repair decisions")
+e9907009cbfc ("block: move req_gap_{back,front}_merge to blk-merge.c")
+38a72dac48f6 ("block: Add bio_copy_data_iter(), zero_fill_bio_iter()")
+a0b60d725e54 ("btrfs: avoid access to .bi_vcnt directly")
+25d8be77e192 ("block: move bio_alloc_pages() to bcache")
+86292abc5af2 ("block: introduce bio helpers for converting to multipage bvec")

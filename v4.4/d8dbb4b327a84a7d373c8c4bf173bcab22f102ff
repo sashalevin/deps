@@ -1,0 +1,8 @@
+d8dbb4b327a8 ("ASoC: samsung: pcm: Conversion to use devm_ioremap_resource()")
+73f5dfc68316 ("ASoC: samsung: get access to DMA engine early to defer probe properly")
+42a74e77471e ("ASoC: samsung: Specify DMA channels through struct snd_dmaengine_pcm_config")
+2b960386cb75 ("ASoC: samsung: Fix error paths in the I2S driver's probe()")
+2f7b5d14206e ("ASoC: samsung: Use of_device_get_match_data() helper")
+9bdca822cbd6 ("ASoC: samsung: pass filter function as pointer")
+359fdfa6fde0 ("ASoC: s3c24xx-i2s: pass DMA channels as platform data")
+b9a1a743818e ("ASoC: samsung: pass DMA channels as pointers")

@@ -1,0 +1,4 @@
+a499c3ead88c ("sched/fair: Update rq clock before changing a task's CPU affinity")
+eb58075149b7 ("sched/core: Introduce 'struct rq_flags'")
+3e71a462dd48 ("sched/core: Move task_rq_lock() out of line")
+ff77e4685359 ("sched/rt: Fix PI handling vs. sched_setscheduler()")

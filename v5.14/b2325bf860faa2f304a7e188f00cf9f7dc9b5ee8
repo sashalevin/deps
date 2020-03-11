@@ -1,0 +1,6 @@
+b2325bf860fa ("kunit: kasan_test: disable fortify string checker on kmalloc_oob_memset")
+f7e01ab828fd ("kasan: move tests to mm/kasan/")
+09eb911d9345 ("mm/kasan: remove unnecessary CONFIG_KASAN option")
+d73dad4eb5ad ("kasan: test: bypass __alloc_size checks")
+1b0668be62cf ("kasan: test: disable kmalloc_memmove_invalid_size for HW_TAGS")
+555999a009aa ("kasan: test: avoid corrupting memory via memset")

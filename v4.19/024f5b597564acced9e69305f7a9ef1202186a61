@@ -1,0 +1,6 @@
+024f5b597564 ("parisc: Add qemu fw_cfg interface")
+b37d1c1898b2 ("parisc: Use per-pagetable spinlock")
+5a23237f14c5 ("parisc: Remove pte_inserted define")
+3847dab77421 ("parisc: Add alternative coding infrastructure")
+4dd5b673fa62 ("parisc: Purge TLB entries after updating page table entry and set page accessed flag in TLB handler")
+32a7901f6d1d ("parisc: Remove PTE load and fault check from L2_ptep macro")

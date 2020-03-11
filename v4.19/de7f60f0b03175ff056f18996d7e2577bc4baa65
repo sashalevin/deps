@@ -1,0 +1,7 @@
+de7f60f0b031 ("ARM: 9357/2: Reduce the number of #ifdef CONFIG_CPU_SW_DOMAIN_PAN")
+71f8af111010 ("ARM: uaccess: fix DACR mismatch with nested exceptions")
+8ede890b0bce ("ARM: uaccess: integrate uaccess_save and uaccess_restore")
+747ffc2fcf96 ("ARM: uaccess: consolidate uaccess asm to asm/uaccess-asm.h")
+851140ab0d08 ("ARM: 8908/1: add __always_inline to functions called from __get_user_check()")
+c001899a5d6c ("ARM: 8843/1: use unified assembler in headers")
+afaf6838f4bc ("ARM: 8796/1: spectre-v1,v1.1: provide helpers for address sanitization")

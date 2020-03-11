@@ -1,0 +1,8 @@
+45dc8f2d9c94 ("scsi: qla2xxx: Fix qla2x00_request_irqs() for MSI")
+4fa183455988 ("scsi: qla2xxx: Utilize pci_alloc_irq_vectors/pci_free_irq_vectors calls.")
+ef8d1d51aa5e ("qla2xxx: setup data needed in ISR before setting up the ISR")
+cdb898c52d1d ("qla2xxx: Add irq affinity notification")
+7560151b6b3c ("qla2xxx: Remove dependency on hardware_lock to reduce lock contention.")
+b7bd104e6f1c ("qla2xxx: Wait for all conflicts before ack'ing PLOGI")
+71cdc0796465 ("qla2xxx: Delete session if initiator is gone from FW")
+6eb54715b54b ("qla2xxx: Added interface to send explicit LOGO.")

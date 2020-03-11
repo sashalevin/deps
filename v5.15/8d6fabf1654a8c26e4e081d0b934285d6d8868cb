@@ -1,0 +1,6 @@
+8d6fabf1654a ("selftests/bpf: Stop using bpf_map__def() API")
+15669e1dcd75 ("selftests/bpf: Normalize all the rest SEC() uses")
+c22bdd28257f ("selftests/bpf: Switch SEC("classifier*") usage to a strict SEC("tc")")
+8fffa0e3451a ("selftests/bpf: Normalize XDP section names in selftests")
+84b4c52960bd ("selftests/bpf: Stop using bpf_program__load")
+dbd7eb14e060 ("bpf, selftests: Replicate tailcall limit test for indirect call case")

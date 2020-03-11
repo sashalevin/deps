@@ -1,0 +1,7 @@
+d005aa750c9b ("reset: fix linux/reset.h errors")
+dfc1d9b24719 ("reset: minimize the number of headers included from <linux/reset.h>")
+6c96f05c8bb8 ("reset: Make [of_]reset_control_get[_foo] functions wrappers")
+b354f68ff027 ("reset: remove unused device pointer from struct reset_control")
+39b4da71ca33 ("reset: use ENOTSUPP instead of ENOSYS")
+3d81216fde46 ("reset: Fix of_reset_control_get() for consistent return values")
+c0a13aa6da5d ("reset: add of_reset_control_get_by_index()")

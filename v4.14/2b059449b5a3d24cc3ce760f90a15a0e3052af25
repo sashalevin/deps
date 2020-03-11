@@ -1,0 +1,8 @@
+2b059449b5a3 ("iio: imu: lsm6dsx: Move exported symbols to the IIO_LSM6DSX namespace")
+acc416ff7d40 ("iio: imu: lsm6dsx: Use new pm_sleep_ptr() and EXPORT_SIMPLE_DEV_PM_OPS()")
+e3da43077046 ("iio: st_lsm6dsx: Drop unneeded OF code")
+2660b0080bb2 ("iio: imu: st_lsm6dsx: add i3c basic support for LSM6DSO and LSM6DSR")
+51a8b707627b ("iio: imu: st_lsm6dsx: add regmap API support")
+92617c158ae4 ("iio: imu: st_lsm6dsx: add FIFO ops data structure")
+7ca3ac9e9eb9 ("iio: imu: st_lsm6dsx: move decimator info in st_lsm6dsx_sensor_settings")
+ff81a933c153 ("iio: imu: st_lsm6dsx: split fifo mode and fifo odr configuration")

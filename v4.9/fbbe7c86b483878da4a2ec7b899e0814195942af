@@ -1,0 +1,8 @@
+fbbe7c86b483 ("block, documentation: Document discard_zeroes_data, fua, max_discard_segments and write_zeroes_max_bytes")
+f9824952ee1c ("block: update sysfs documentation")
+48920ff2a5a9 ("block: remove the discard_zeroes_data flag")
+19372e276917 ("loop: implement REQ_OP_WRITE_ZEROES")
+b0d9111a2d53 ("nbd: use an idr to keep track of nbd devices")
+124d6db07c3b ("nbd: use our own workqueue for recv threads")
+25b4acfc7de0 ("nbd: blk_mq_init_queue returns an error code on failure, not NULL")
+20737738d397 ("Merge branch 'md-next' into md-linus")

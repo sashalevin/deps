@@ -1,0 +1,6 @@
+ccb64941f375 ("x86/timers: Move simple_udelay_calibration() past kvmclock_init()")
+eb496063c990 ("x86/timers: Move the simple udelay calibration to tsc.h")
+702644ec1cab ("x86/timers: Move simple_udelay_calibration past init_hypervisor_platform")
+4918e2286d0c ("x86/boot/e820: Rename memblock_x86_fill() to e820__memblock_setup() and improve the explanations")
+0f856508ad59 ("x86/boot/e820: Clean up asm/e820/api.h")
+b4ed1d15b453 ("x86/e820: Make e820_search_gap() static and remove unused variables")

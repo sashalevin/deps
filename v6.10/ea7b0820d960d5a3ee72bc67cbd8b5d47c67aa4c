@@ -1,0 +1,8 @@
+ea7b0820d960 ("xfs: move xfs_rmap_update_defer_add to xfs_rmap_item.c")
+8363b4361997 ("xfs: don't bother calling xfs_rmap_finish_one_cleanup in xfs_rmap_finish_one")
+37f9d1db03ba ("xfs: reuse xfs_rmap_update_cancel_item")
+f93963779b43 ("xfs: add a ri_entry helper")
+c9099a28c264 ("xfs: remove xfs_trans_set_rmap_flags")
+fbe8c7e167a6 ("xfs: clean up rmap log intent item tracepoint callsites")
+62d597a197e3 ("xfs: pass the fsbno to xfs_perag_intent_get")
+4e0e2c0fe35b ("xfs: clean up extent free log intent item tracepoint callsites")

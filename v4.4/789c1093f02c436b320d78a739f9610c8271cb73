@@ -1,0 +1,4 @@
+789c1093f02c ("rtc: class: don't call cdev_device_del() when cdev_device_add() failed")
+3068a254d551 ("rtc: introduce new registration method")
+d1bec20facd6 ("rtc: class separate device allocation from registration")
+d5ed9177f64f ("rtc: utilize new cdev_device_add helper function")

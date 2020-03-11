@@ -1,0 +1,7 @@
+03c427147b2d ("can: mcp251x: fix resume from sleep before interface was brought up")
+8ce8c0abcba3 ("can: mcp251x: only reset hardware as required")
+27a0e54bae09 ("can: mcp251x: mcp251x_restart_work_handler(): Fix potential force_quit race condition")
+b4cb76961c95 ("can: mcp251x: Use devm_clk_get_optional() to get the input clock")
+375f755899b8 ("can: mcp251x: add error check when wq alloc failed")
+aa68172235ba ("can: mcp251x: mcp251x_setup(): remove unused parameter "struct mcp251x_priv *priv"")
+b6fd3aba6041 ("can: mcp251x: Replace create_freezable_workqueue with alloc_workqueue")

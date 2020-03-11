@@ -1,0 +1,6 @@
+bbacf79201a1 ("nvmet-tcp: use 'spin_lock_bh' for state_lock()")
+675b453e0241 ("nvmet-tcp: enable TLS handshake upcall")
+4f8cce2d32a3 ("nvmet-tcp: make nvmet_tcp_alloc_queue() a void function")
+3f123494db72 ("nvmet: make TCP sectype settable via configfs")
+db1312dd9548 ("nvmet: implement basic In-Band Authentication")
+6490c9ed06de ("nvmet: parse fabrics commands on io queues")

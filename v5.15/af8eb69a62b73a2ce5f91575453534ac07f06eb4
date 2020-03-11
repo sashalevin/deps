@@ -1,0 +1,7 @@
+af8eb69a62b7 ("vDPA/ifcvf: decouple config space ops from the adapter")
+0d6e5e8d1686 ("vDPA/ifcvf: get_config_size should return a value no greater than dev implementation")
+6f84622db395 ("vDPA/ifcvf: cacheline alignment for ifcvf_hw")
+9b3e81483400 ("vDPA/ifcvf: implement shared IRQ feature")
+ad5c5690de57 ("vDPA/ifcvf: implement device MSIX vector allocator")
+8897d6d0fcc9 ("vDPA/ifcvf: make use of virtio pci modern IO helpers in ifcvf")
+0f420c383a2b ("ifcvf/vDPA: fix misuse virtio-net device config size for blk dev")

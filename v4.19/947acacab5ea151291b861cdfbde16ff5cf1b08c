@@ -1,0 +1,6 @@
+947acacab5ea ("leds: trigger: netdev: expose netdev trigger modes in linux include")
+bdec9cb83936 ("leds: trigger: netdev: Rename add namespace to netdev trigger enum modes")
+e2f24cb1b5da ("leds: trigger: netdev: Drop NETDEV_LED_MODE_LINKUP from mode")
+cee4bd16c319 ("leds: trigger: netdev: Recheck NETDEV_LED_MODE_LINKUP on dev rename")
+5f820ed52371 ("leds: trigger: netdev: fix handling on interface rename")
+4cb6560514fa ("leds: trigger: netdev: fix refcnt leak on interface rename")

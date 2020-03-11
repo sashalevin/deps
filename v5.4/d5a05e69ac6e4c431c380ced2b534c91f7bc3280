@@ -1,0 +1,8 @@
+d5a05e69ac6e ("net: stmmac: Use hrtimer for TX coalescing")
+14b41a2959fb ("net: stmmac: Delete txtimer in suspend()")
+579a25a854d4 ("net: stmmac: Initial support for TBS")
+3755b21b04b0 ("net: stmmac: Always use TX coalesce timer value when rescheduling")
+021bd5e36970 ("net: stmmac: Let TX and RX interrupts be independently enabled/disabled")
+8d07a7930434 ("net: stmmac: xgmac: Do not enable TBU interrupt")
+c2837423cb54 ("net: stmmac: Rework TX Coalesce logic")
+b776620651a1 ("net: stmmac: Implement UDP Segmentation Offload")

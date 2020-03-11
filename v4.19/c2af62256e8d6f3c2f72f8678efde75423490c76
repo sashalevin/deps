@@ -1,0 +1,5 @@
+c2af62256e8d ("ibmvnic: fix rx buffer tracking and index management in replenish_rx_pool partial success")
+4f0b6812e9b9 ("ibmvnic: Introduce batched RX buffer descriptor transmission")
+f3ae59c0c015 ("ibmvnic: store RX and TX subCRQ handle array in ibmvnic_adapter struct")
+e56e2515669a ("ibmvnic: Add device identification to requested IRQs")
+94b2bb28dbb4 ("net: ibm: fix return type of ndo_start_xmit function")

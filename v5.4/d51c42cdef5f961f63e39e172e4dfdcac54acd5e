@@ -1,0 +1,8 @@
+d51c42cdef5f ("netfilter: nf_tables: Annotate struct nft_pipapo_match with __counted_by")
+8683f4b9950d ("nft_set_pipapo: Prepare for vectorised implementation: helpers")
+bf3e58392394 ("nft_set_pipapo: Prepare for vectorised implementation: alignment")
+4051f43116cd ("nft_set_pipapo: Add support for 8-bit lookup groups and dynamic switch")
+e807b13cb3e3 ("nft_set_pipapo: Generalise group size for buckets")
+6daf14140129 ("netfilter: Replace zero-length array with flexible-array member")
+f66ee0410b1c ("netfilter: ipset: Fix "INFO: rcu detected stall in hash_xxx" reports")
+3c4287f62044 ("nf_tables: Add set type for arbitrary concatenation of ranges")

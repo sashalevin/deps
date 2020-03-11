@@ -1,0 +1,3 @@
+7a21b2e370da ("riscv: Stop emitting preventive sfence.vma for new userspace mappings with Svvptc")
+edf955647269 ("riscv: Use accessors to page table entries instead of direct dereference")
+311cd2f6e253 ("riscv: Fix set_memory_XX() and set_direct_map_XX() by splitting huge linear mappings")

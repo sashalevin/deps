@@ -1,0 +1,8 @@
+e3ba31b78074 ("powerpc/8xx: Remove mpc8xx_pics_init()")
+14d893fc6846 ("powerpc/8xx: Convert CPM1 interrupt controller to platform_device")
+22add2a20e96 ("powerpc/8xx: Convert CPM1 error interrupt handler to platform driver")
+acf9e575d889 ("powerpc/8xx: Move CPM interrupt controller into a dedicated file")
+3fd46e551f67 ("powerpc: 8xx: fix a return value error in mpc8xx_pic_init")
+b4f00d5b2098 ("powerpc: Replace setup_irq() by request_irq()")
+eafd687e689a ("powerpc/8xx: use the fixmapped IMMR in cpm_reset()")
+132f92fdc427 ("powerpc/8xx: add __init to cpm1 init functions")

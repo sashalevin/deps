@@ -1,0 +1,6 @@
+61cc15dac01a ("mfd: cros_ec: Check for mkbp events on resume only if supported.")
+29d99b966d60 ("cros_ec: Don't signal wake event for non-wake host events")
+a27b8f31cb79 ("cros_ec: Don't return error when checking command version")
+a6df7798d03b ("platform/chrome: cros_ec_lpc: Add MKBP events support over ACPI")
+6f1d912b687d ("mfd: cros_ec: Add MKBP event support")
+9798ac6d32c1 ("mfd: cros_ec: Add cros_ec_cmd_xfer_status() helper")

@@ -1,0 +1,5 @@
+e47c4aee5bde ("KVM: x86/mmu: Rename page_header() to to_shadow_page()")
+573546820b79 ("KVM: x86/mmu: Add sptep_to_sp() helper to wrap shadow page lookup")
+985ab2780164 ("KVM: x86/mmu: Make kvm_mmu_page definition and accessor internal-only")
+6ca9a6f3adef ("KVM: x86/mmu: Add MMU-internal header")
+f25a9dec2da3 ("KVM: x86/mmu: Drop kvm_arch_write_log_dirty() wrapper")

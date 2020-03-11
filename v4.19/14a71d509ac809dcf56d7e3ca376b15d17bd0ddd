@@ -1,0 +1,6 @@
+14a71d509ac8 ("regulator: Fix lockdep warning resolving supplies")
+eaa7995c529b ("regulator: core: avoid regulator_resolve_supply() race condition")
+f5c042b23f74 ("regulator: workaround self-referent regulators")
+4b639e254d3d ("regulator: avoid resolve_supply() infinite recursion")
+05f224ca6693 ("regulator: core: Clean enabling always-on regulators + their supplies")
+2bb166636933 ("regulator: core: enable power when setting up constraints")

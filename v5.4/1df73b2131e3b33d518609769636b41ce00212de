@@ -1,0 +1,4 @@
+1df73b2131e3 ("x86/mce: Fixup exception only for the correct MCEs")
+1de08dccd383 ("x86/mce: Add a struct mce.kflags field")
+3e0fdec858d8 ("x86/mce/amd, edac: Remove report_gart_errors")
+2d806d072358 ("x86/mce: Pass MCE message to mce_panic() on failed kernel recovery")

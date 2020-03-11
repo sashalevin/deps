@@ -1,0 +1,4 @@
+23a27722b529 ("i2c: dev: prevent ZERO_SIZE_PTR deref in i2cdev_ioctl_rdwr()")
+7d5cb45655f2 ("i2c compat ioctls: move to ->compat_ioctl()")
+8d1a81a852f5 ("sanitize do_i2c_smbus_ioctl()")
+30f939feaeee ("i2c: fix kernel memory disclosure in dev interface")

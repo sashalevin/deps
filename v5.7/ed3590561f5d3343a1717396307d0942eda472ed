@@ -1,0 +1,7 @@
+ed3590561f5d ("hwmon: (pmbus) Fix vout margin caching")
+07fb76273db8 ("hwmon: (pmbus) Introduce and use cached vout margins")
+28bf22ef93ec ("hwmon: (pmbus) Add get_voltage/set_voltage ops")
+e0f0307ac16f ("hwmon: (pmbus) Add get_error_flags support to regulator ops")
+f807e8be4699 ("hwmon: (pmbus) Replace - with _ in device names before registration")
+bb19133fc89b ("hwmon: pmbus: use more devres helpers")
+d86f3c9bba20 ("hwmon: (pmbus) Improve initialization of 'currpage' and 'currphase'")

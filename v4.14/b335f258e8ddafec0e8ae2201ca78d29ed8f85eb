@@ -1,0 +1,8 @@
+b335f258e8dd ("hwrng: imx-rngc - switch to DEFINE_SIMPLE_DEV_PM_OPS")
+d5eb916d889f ("hwrng: imx-rngc - use devres for hwrng registration")
+6a2bc448423c ("hwrng: imx-rngc - use devm_clk_get_enabled")
+47d35bf22b69 ("hwrng: imx-rngc - use KBUILD_MODNAME as driver name")
+b9957fc94458 ("hwrng: imx-rngc - check the rng type")
+f7d79450d192 ("hwrng: imx-rngc - (trivial) simplify error prints")
+40b776ae9fee ("hwrng: imx-rngc - make symbol imx_rngc_pm_ops static")
+cd0bb67f21da ("hwrng: imx-rngc - simplify the power management definitions")

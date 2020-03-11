@@ -1,0 +1,5 @@
+c76e7e0bce10 ("rcu: Add KCSAN stubs to update.c")
+79cfea027387 ("rcu: Remove TINY_RCU bloat from pointless boot parameters")
+3e42ec1aa716 ("rcu: Allow expedited grace periods to be disabled at init")
+5a9be7c628c5 ("rcu: Add rcu_normal kernel parameter to suppress expediting")
+06f60de19d31 ("rcu: Short-circuit synchronize_sched_expedited() if only one CPU")

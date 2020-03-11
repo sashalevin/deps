@@ -1,0 +1,6 @@
+38987a872b31 ("ataflop: Add missing semicolon to return statement")
+46a7db492e7a ("ataflop: address add_disk() error handling on probe")
+4ddb85d36613 ("ataflop: remove ataflop_probe_lock mutex")
+deae1138d047 ("block/ataflop: provide a helper for cleanup up an atari disk")
+573effb29801 ("block/ataflop: add registration bool before calling del_gendisk()")
+44a469b6acae ("block/ataflop: use the blk_cleanup_disk() helper")

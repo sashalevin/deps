@@ -1,0 +1,6 @@
+8d2aec3b2d79 ("KVM: x86: use u64_to_user_ptr()")
+6e37ec8825a1 ("KVM: x86: Use ERR_PTR_USR() to return -EFAULT as a __user pointer")
+dd6e63122018 ("KVM: x86: add system attribute to retrieve full set of supported xsave states")
+56f289a8d23a ("KVM: x86: Add a helper to retrieve userspace address from kvm_device_attr")
+be50b2065dfa ("kvm: x86: Add support for getting/setting expanded xstate buffer")
+a457fd5660ef ("RISC-V: KVM: Add VM capability to allow userspace get GPA bits")

@@ -1,0 +1,8 @@
+81e2ce1b3d5a ("md: delay remove_and_add_spares() for read only array to md_start_sync()")
+a0ae7e4e0bc0 ("md: factor out a helper rdev_addable() from remove_and_add_spares()")
+b172a0704d0d ("md: factor out a helper rdev_is_spare() from remove_and_add_spares()")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+db5e653d7c9f ("md: delay choosing sync action to md_start_sync()")
+897c62a1cae6 ("md: factor out a helper to choose sync action from md_check_recovery()")
+ac619781967b ("md: use separate work_struct for md_start_sync()")
+f97a5528b21e ("md: introduce md_ro_state")

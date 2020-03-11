@@ -1,0 +1,8 @@
+d891f2b724b3 ("perf build: Properly guard libbpf includes")
+d6a735ef3277 ("perf bpf_counter: Move common functions to bpf_counter.h")
+fe3dd8263b9f ("perf bpf: check perf_attr_map is compatible with the perf binary")
+7fac83aaf2ee ("perf stat: Introduce 'bperf' to share hardware PMCs with BPF")
+034f7ee130c1 ("perf stat: Fix wrong skipping for per-die aggregation")
+fa853c4b839e ("perf stat: Enable counting events for BPF programs")
+fbcdaa1908e8 ("perf build: Support build BPF skeletons with perf")
+281a94b0f2f0 ("Merge remote-tracking branch 'torvalds/master' into perf/core")

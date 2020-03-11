@@ -1,0 +1,4 @@
+ba437e72378c ("wcn36xx: don't disable RX IRQ from handler")
+9ff6fde86fd2 ("wcn36xx: use READ_ONCE() to access desc->ctrl")
+6ced7958168f ("wcn36xx: calculate DXE control registers values")
+2ec7752fd9b9 ("wcn36xx: handle rx skb allocation failure to avoid system crash")

@@ -1,0 +1,4 @@
+1f9a8286bc0c ("uaccess: always export _copy_[from|to]_user with CONFIG_RUST")
+74e19ef0ff80 ("uaccess: Add speculation barrier to copy_from_user()")
+33b75c1d884e ("instrumented.h: allow instrumenting both sides of copy_from_user()")
+0e3c3b901c00 ("No need of likely/unlikely on calls of check_copy_size()")

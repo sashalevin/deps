@@ -1,0 +1,4 @@
+4715029fa7e9 ("net: dsa: drop dsa_slave_priv from dsa_slave_change_mtu")
+cf1c39d3b3a5 ("net: dsa: avoid one dsa_to_port() in dsa_slave_change_mtu")
+b2033a05a719 ("net: dsa: use dsa_tree_for_each_user_port in dsa_slave_change_mtu")
+4e4ab7950044 ("net: dsa: calculate the largest_mtu across all ports in the tree")

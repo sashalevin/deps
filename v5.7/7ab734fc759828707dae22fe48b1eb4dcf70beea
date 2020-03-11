@@ -1,0 +1,6 @@
+7ab734fc7598 ("scsi: aacraid: Allocate cmd_priv with scsicmd")
+76a3451b64c6 ("scsi: aacraid: Move the SCSI pointer to private command data")
+7afdb8637997 ("scsi: aacraid: Call scsi_done() directly")
+1dec65e32fb5 ("scsi: aacraid: Introduce aac_scsi_done()")
+cdec16c1177a ("scsi: aacraid: Avoid setting message byte on completion")
+646d4b507626 ("scsi: core: Remove 'list' entry from struct scsi_cmnd")

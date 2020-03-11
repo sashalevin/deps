@@ -1,0 +1,7 @@
+dc87740c8a68 ("rcu: Fix stall-warning deadlock due to non-release of rcu_node ->lock")
+a649d25dcc67 ("rcu: Add lockdep_assert_irqs_disabled() to rcu_sched_clock_irq() and callees")
+c583bcb8f5ed ("rcu: Don't invoke try_invoke_on_locked_down_task() with irqs disabled")
+fe63b723cc7c ("rcu: Add READ_ONCE() to rcu_do_batch() access to rcu_kick_kthreads")
+5bef8da66a9c ("rcu: Add per-task state to RCU CPU stall warnings")
+58c53360b36d ("rcutorture: Allow boottime stall warnings to be suppressed")
+0e247386d9ed ("Merge branches 'doc.2019.12.10a', 'exp.2019.12.09a', 'fixes.2020.01.24a', 'kfree_rcu.2020.01.24a', 'list.2020.01.10a', 'preempt.2020.01.24a' and 'torture.2019.12.09a' into HEAD")

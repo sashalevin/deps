@@ -1,0 +1,7 @@
+9747a78d5f75 ("ath10k: Fix error handling in ath10k_setup_msa_resources")
+727fec790ead ("ath10k: Setup the msa resources before qmi init")
+ab000ea6a393 ("ath10k: Don't call SCM interface for statically mapped msa region")
+3f14b73c3843 ("ath10k: Enable MSA region dump support for WCN3990")
+c41305993ff5 ("ath10k: revalidate the msa region coming from firmware")
+c28dcbce0592 ("ath10k: fix a NULL vs IS_ERR() check")
+4ab7fd955e47 ("ath10k: fix copy-paste error in ath10k_qmi_setup_msa_resources()")

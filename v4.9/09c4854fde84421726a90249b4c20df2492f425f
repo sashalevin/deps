@@ -1,0 +1,7 @@
+09c4854fde84 ("RDMA/qedr: Fix wmb usage in qedr")
+561e5d48968b ("RDMA/qedr: eliminate duplicate barriers on weakly-ordered archs")
+f5b1b1775be6 ("RDMA/qedr: Add iWARP support in existing verbs")
+df15856132bc ("RDMA/qedr: restructure functions that create/destroy QPs")
+922d9a40d3ba ("qedr: post_send/recv according to QP state")
+b4c2cc48aa0b ("qedr: modify QP state to error when destroying it")
+181d80151f9c ("qedr: Fix possible memory leak in qedr_create_qp()")

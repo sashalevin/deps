@@ -1,0 +1,7 @@
+6e43b2860784 ("libbpf: Cleanup the layering between CORE and bpf_program.")
+6709a914c849 ("libbpf: Support BTF_KIND_FLOAT during type compatibility checks in CO-RE")
+aa0b8d43e953 ("libbpf: Record extern sym relocation first")
+53eddb5e04ac ("libbpf: Support subprog address relocation")
+b8f871fa32ad ("libbpf: Move function is_ldimm64() earlier in libbpf.c")
+4f33a53d5600 ("libbpf: Add kernel module BTF support for CO-RE relocations")
+0f7515ca7cdd ("libbpf: Refactor CO-RE relocs to not assume a single BTF object")

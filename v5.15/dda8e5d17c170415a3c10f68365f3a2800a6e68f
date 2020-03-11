@@ -1,0 +1,4 @@
+dda8e5d17c17 ("iov_iter: first_{iovec,bvec}_segment() - simplify a bit")
+599a0bdd72f0 ("iov_iter: lift dealing with maxpages out of first_{iovec,bvec}_segment()")
+3337ab08d08b ("iov_iter: Introduce nofault flag to disable page faults")
+814a66741b9f ("iov_iter: Fix iov_iter_get_pages{,_alloc} page fault return value")

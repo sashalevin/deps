@@ -1,0 +1,5 @@
+3d47e31790b7 ("memory-failure: use a folio in me_pagecache_clean()")
+dd0f230a0a80 ("mm: hwpoison: refactor refcount check handling")
+ea6d0630100b ("mm/hwpoison: do not lock page again when me_huge_page() successfully recovers")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")
+a8b2c2ce89d4 ("mm,hwpoison: take free pages off the buddy freelists")

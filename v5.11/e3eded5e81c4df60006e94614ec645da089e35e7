@@ -1,0 +1,6 @@
+e3eded5e81c4 ("svcrdma: Clean up dto_q critical section in svc_rdma_recvfrom()")
+7d81ee8722d6 ("svcrdma: Single-stage RDMA Read")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")
+dd2d055b278b ("svcrdma: DMA-sync the receive buffer in svc_rdma_recvfrom()")
+df971cd853c0 ("svcrdma: Convert rdma_stat_recv to a per-CPU counter")
+59a00257c66c ("svcrdma: Refactor svc_rdma_init() and svc_rdma_clean_up()")

@@ -1,0 +1,8 @@
+62f676ff7898 ("serial: pl011: Fix incorrect rs485 RTS polarity on set_mctrl")
+8d479237727c ("serial: amba-pl011: add RS485 support")
+7d05587c9e0e ("tty: amba-pl011: Fix spurious TX interrupts")
+2331e0686504 ("tty: serial: constify uart_ops structures")
+9f25bc510e96 ("tty: amba-pl011: prepare REG_* register indexes")
+7fe9a5a9d91f ("tty: amba-pl011: add helper to detect split LCRH register")
+b2a4e24c2efd ("tty: amba-pl011: convert accessor functions to take uart_amba_port")
+7583633921d5 ("tty: amba-pl011: add register accessor functions")

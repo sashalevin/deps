@@ -1,0 +1,5 @@
+8a8be46afeaa ("ARM: OMAP5: Fix mpuss_early_init")
+0573b957fc21 ("ARM: OMAP4+: Prevent CPU1 related hang with kexec")
+f4b9f40ae95b ("ARM: OMAP4+: Initialize SAR RAM base early for proper CPU1 reset for kexec")
+75305275a721 ("ARM: use const and __initconst for smp_operations")
+635e958dad56 ("ARM: hisi: do not export smp_operations structures")

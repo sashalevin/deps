@@ -1,0 +1,6 @@
+6284e46bdd47 ("cifs: use DFS root session instead of tcon ses")
+b9ee2e307c6b ("cifs: improve checking of DFS links over STATUS_OBJECT_NAME_INVALID")
+c877ce47e137 ("cifs: reduce roundtrips on create/qinfo requests")
+83fb8abec293 ("cifs: Add "extbuf" and "extbuflen" args to smb2_compound_op()")
+76894f3e2f71 ("cifs: improve symlink handling for smb2+")
+68e14569d7e5 ("smb3: add dynamic trace points for tree disconnect")

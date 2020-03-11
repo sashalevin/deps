@@ -1,0 +1,7 @@
+f5f94b9c8b80 ("cpufreq: CPPC: Add u64 casts to avoid overflowing")
+740fcdc2c20e ("cpufreq: CPPC: Register EM based on efficiency class information")
+d3c3db41df7e ("cpufreq: CPPC: Add per_cpu efficiency_class")
+1eb5dde674f5 ("cpufreq: CPPC: Add support for frequency invariance")
+eead1840cbd3 ("cpufreq: CPPC: Pass structure instance by reference")
+fe2535a44904 ("cpufreq: CPPC: Fix potential memleak in cppc_cpufreq_cpu_init")
+9357a380f90a ("cpufreq: CPPC: Migrate to ->exit() callback instead of ->stop_cpu()")

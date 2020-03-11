@@ -1,0 +1,7 @@
+c7ed509b21b6 ("s390/nmi: disable interrupts on extended save area update")
+402ff5a3387d ("s390/nmi: add missing __pa/__va address conversion of extended save area")
+6a942f578054 ("s390: preempt: Fix preempt_count initialization")
+5fa2ea0714d7 ("s390/mcck: move register validation to C code")
+7f6dc8d4c880 ("s390/mcck: always enter C handler with DAT enabled")
+fbbdfca5c553 ("s390/entry.S: factor out SIEEXIT macro")
+2bb919b62f6e ("Merge tag 's390-5.14-1' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

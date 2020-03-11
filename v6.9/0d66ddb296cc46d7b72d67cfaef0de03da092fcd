@@ -1,0 +1,5 @@
+0d66ddb296cc ("selftests/resctrl: Remove test name comparing from write_bm_pid_to_resctrl()")
+d14d94da0e3f ("selftests/resctrl: Convert ctrlgrp & mongrp to pointers")
+909592b5dafa ("selftests/resctrl: Make some strings passed to resctrlfs functions const")
+da50de0a92f3 ("selftests/resctrl: Calculate resctrl FS derived mem bw over sleep(1) only")
+c44000b6535d ("selftests/resctrl: Fix closing IMC fds on error and open-code R+W instead of loops")

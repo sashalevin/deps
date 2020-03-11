@@ -1,0 +1,3 @@
+607475cfa0f7 ("KVM: x86: Add helpers to query individual CR0/CR4 bits")
+74cdc836919b ("KVM: x86: Make use of kvm_read_cr*_bits() when testing bits")
+9cc409325ddd ("KVM: nVMX: Inject #GP, not #UD, if "generic" VMXON CR0/CR4 check fails")

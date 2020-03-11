@@ -1,0 +1,3 @@
+a168233a440d ("x86/kvm: Always inline vmload() / vmsave()")
+e79b91bb3c91 ("KVM: SVM: use vmsave/vmload for saving/restoring additional host state")
+35a7831912f4 ("KVM: SVM: Use asm goto to handle unexpected #UD on SVM instructions")

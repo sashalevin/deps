@@ -1,0 +1,6 @@
+b3c2cc2bd21d ("perf evlist: Fix the class prefix for 'struct evlist' sample_type methods")
+0d71a2b242b3 ("perf callchain: Setup callchain properly in pipe mode")
+bb30acae4c4d ("perf report: Bail out --mem-mode if mem info is not available")
+1827ab5ba8e1 ("perf evlist: Introduce append_tp_filter_pid() and append_tp_filter_pids()")
+53c92f73389d ("perf evlist: Introduce append_tp_filter() method")
+05cea4492c9d ("perf evlist: Factor out asprintf routine to build a tracepoint pid filter")

@@ -1,0 +1,6 @@
+4db9e253e701 ("riscv: Move .rela.dyn to the init sections")
+26e7aacb83df ("riscv: Allow to downgrade paging mode from the command line")
+559d1e45a16d ("riscv: Use --emit-relocs in order to move .rela.dyn in init")
+c2dea0bc5339 ("riscv: Check relocations at compile time")
+39b33072941f ("riscv: Introduce CONFIG_RELOCATABLE")
+69a90d2fe107 ("riscv: Move .rela.dyn outside of init to avoid empty relocations")

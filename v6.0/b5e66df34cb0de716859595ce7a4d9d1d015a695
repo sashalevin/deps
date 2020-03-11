@@ -1,0 +1,5 @@
+b5e66df34cb0 ("KVM: selftests: Add helpers for safe and safe+forced RDMSR, RDPMC, and XGETBV")
+ab3b6a7de8df ("KVM: selftests: Add a forced emulation variation of KVM_ASM_SAFE()")
+b9635930f0a7 ("KVM: selftests: Provide error code as a KVM_ASM_SAFE() output")
+f2e5b53b4ba9 ("KVM: selftests: Avoid JMP in non-faulting path of KVM_ASM_SAFE()")
+dfb45db43e9f ("KVM: selftests: Load RAX with -EFAULT before Hyper-V hypercall")

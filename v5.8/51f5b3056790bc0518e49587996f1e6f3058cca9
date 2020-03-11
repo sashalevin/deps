@@ -1,0 +1,5 @@
+51f5b3056790 ("mmc: core: Align to common busy polling behaviour for mmc ioctls")
+23e09be254f9 ("mmc: core: Allows to override the timeout value for ioctl() path")
+e72a55f2e5dd ("mmc: core: Return correct emmc response in case of ioctl error")
+468108155b0f ("mmc: core: Avoid hogging the CPU while polling for busy for mmc ioctls")
+6246d7c9d15a ("mmc: block: Fixup condition for CMD13 polling for RPMB requests")

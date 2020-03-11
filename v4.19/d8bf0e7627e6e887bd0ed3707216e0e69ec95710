@@ -1,1 +1,8 @@
 d8bf0e7627e6 ("drm/i915/selftests: Let igt_vma_partial et al breathe")
+bb211c3d0c45 ("drm/i915/selftests: Add live vma selftest")
+1a74fc0b3f49 ("drm/i915: Add a new "remapped" gtt_view")
+c95e7ce387f9 ("drm/i915/selftests: Create a clean GGTT for vma/gtt selftesting")
+305dc3f9834c ("drm/i915: Differentiate between ggtt->mutex and ppgtt->mutex")
+d25f71a162a9 ("drm/i915: Return immediately if trylock fails for direct-reclaim")
+48e905048f39 ("drm/i915: Explicitly mark Global GTT address spaces")
+ed11e4158451 ("drm/i915: Fix gtt_view asserts")

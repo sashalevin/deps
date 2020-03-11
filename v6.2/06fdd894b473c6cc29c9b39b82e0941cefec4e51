@@ -1,0 +1,8 @@
+06fdd894b473 ("KVM: selftests: Fix GUEST_PRINTF() format warnings in ARM code")
+ada1ae68262d ("KVM: selftests: aarch64: vPMU register test for implemented counters")
+8d0aebe1ca2b ("KVM: selftests: aarch64: Introduce vpmu_counter_access test")
+df27f6b45454 ("KVM: selftests: Convert ARM's page fault test to printf style GUEST_ASSERT")
+af5b41b97f1c ("KVM: selftests: Convert ARM's hypercalls test to printf style GUEST_ASSERT")
+bac9aeecc387 ("KVM: selftests: Convert debug-exceptions to printf style GUEST_ASSERT")
+db44e1c871bc ("KVM: selftests: Convert aarch_timer to printf style GUEST_ASSERT")
+056c15669a01 ("KVM: arm64: selftests: Deal with spurious timer interrupts")

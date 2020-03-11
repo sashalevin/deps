@@ -1,0 +1,8 @@
+2fa1dc8637b5 ("nvme: remove __nvme_ioctl")
+855b7717f44b ("nvme: fine-granular CAP_SYS_ADMIN for nvme io commands")
+58e5bdeb9c2b ("nvme: enable uring-passthrough for admin commands")
+f569add47119 ("nvme: add vectored-io support for uring-cmd")
+456cba386e94 ("nvme: wire-up uring-cmd support for io-passthru on char-device.")
+bcad2565b5d6 ("nvme: refactor nvme_submit_user_cmd()")
+e559398f47e0 ("nvme: remove nvme_alloc_request and nvme_alloc_request_qid")
+89377bc1975c ("nvme: add vectored-io support for user-passthrough")

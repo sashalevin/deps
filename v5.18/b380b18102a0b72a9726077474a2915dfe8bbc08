@@ -1,0 +1,7 @@
+b380b18102a0 ("af_unix: Don't acquire unix_state_lock() for sock_i_ino().")
+0aa3be7b3e1f ("af_unix: Annotate data-races around sk->sk_state in UNIX_DIAG.")
+b3abe42e9490 ("af_unix: Get user_ns from in_skb in unix_diag_get_exact().")
+cf2f225e2653 ("af_unix: Put a socket into a per-netns hash table.")
+79b05beaa5c3 ("af_unix: Acquire/Release per-netns hash table's locks.")
+f302d180c6d4 ("af_unix: Include the whole hash table size in UNIX_HASH_SIZE.")
+dd29c67dbbbf ("af_unix: use DEBUG_NET_WARN_ON_ONCE()")

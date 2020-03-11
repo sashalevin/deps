@@ -1,0 +1,5 @@
+e09e200e0722 ("gpio: pca953x: Use bitmap API over implicit GCC extension")
+064c73afe738 ("gpio: pca953x: Synchronize interrupt handler properly")
+35d13d94893f ("gpio: pca953x: convert to use bitmap API")
+a97832f22489 ("gpio: pca953x: remove redundant variable and check in IRQ handler")
+ae81217edc18 ("gpio: pca953x: utilize the for_each_set_clump8 macro")

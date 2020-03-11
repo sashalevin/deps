@@ -1,0 +1,8 @@
+0af3aace5b91 ("selftests/bpf: Don't truncate #test/subtest field")
+fa3768606582 ("selftests/bpf: Fix subtest number formatting in test_progs")
+0925225956bb ("bpf/selftests: Add granular subtest output for prog_test")
+2324257dbd68 ("selftests/bpf: Refactor prog_tests logging and test execution")
+61ddff373ffa ("selftests/bpf: Improve by-name subtest selection logic in prog_tests")
+465656964340 ("selftests/bpf: Add test for race in btf_try_get_module")
+87091063df5d ("selftests/bpf: Add test for unstable CT lookup API")
+b202d8442222 ("bpf: Remove check_kfunc_call callback and old kfunc BTF ID API")

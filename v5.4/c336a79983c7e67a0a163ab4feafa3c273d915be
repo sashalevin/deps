@@ -1,0 +1,3 @@
+c336a79983c7 ("nvmet-tcp: Use sendmsg(MSG_SPLICE_PAGES) rather then sendpage")
+4eea80436462 ("nvmet-tcp: set MSG_SENDPAGE_NOTLAST with MSG_MORE when we have more to send")
+98fd5c723730 ("nvmet-tcp: set MSG_MORE only if we actually have more to send")

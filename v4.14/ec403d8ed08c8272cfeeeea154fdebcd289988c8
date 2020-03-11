@@ -1,0 +1,5 @@
+ec403d8ed08c ("ima: Get rid of ima_used_chip and use ima_tpm_chip != NULL instead")
+5c2a640aff73 ("ima: Use tpm_default_chip() and call TPM functions with a tpm_chip")
+4ecd9934ba1c ("ima: Remove unused variable ima_initialized")
+ab60368ab6a4 ("ima: Fallback to the builtin hash algorithm")
+aad887f66411 ("tpm: use struct tpm_chip for tpm_chip_find_get()")

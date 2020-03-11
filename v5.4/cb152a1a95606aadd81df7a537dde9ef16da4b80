@@ -1,0 +1,4 @@
+cb152a1a9560 ("mm: fix some typos and code style problems")
+6446a5131e24 ("mm/swap: Do not abuse the seqcount_t latching API")
+47b390d23bf8 ("mm/rmap.c: don't reuse anon_vma if we just want a copy")
+eef1a429f234 ("mm/swap.c: piggyback lru_add_drain_all() calls")

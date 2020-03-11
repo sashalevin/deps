@@ -1,0 +1,5 @@
+fa8c84b77a54 ("x86/cpu: Write the default PKRU value when enabling PKE")
+8a1dc55a3f3e ("x86/cpu: Sanitize X86_FEATURE_OSPKE")
+784a46618f63 ("x86/pkeys: Move read_pkru() and write_pkru()")
+b3607269ff57 ("x86/pkeys: Revert a5eff7259790 ("x86/pkeys: Add PKRU value to init_fpstate")")
+d9f6e12fb0b7 ("x86: Fix various typos in comments")

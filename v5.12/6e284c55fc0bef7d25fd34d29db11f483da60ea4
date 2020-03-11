@@ -1,0 +1,7 @@
+6e284c55fc0b ("mm: Remove kmem_valid_obj()")
+2dfe63e61cc3 ("mm, kfence: support kmem_dump_obj() for KFENCE objects")
+7213230af5e1 ("mm: Use struct slab in kmem_obj_info()")
+e548eaa116d8 ("mm/slub: Add Support for free path information of an object")
+2521781c1ebc ("mm/util.c: reduce mem_dump_obj() object size")
+0d3dd2c8eadb ("rcutorture: Add crude tests for mem_dump_obj()")
+5bb1bb353cfe ("mm: Don't build mm_dump_obj() on CONFIG_PRINTK=n kernels")

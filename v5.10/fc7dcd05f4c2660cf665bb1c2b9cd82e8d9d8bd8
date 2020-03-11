@@ -1,0 +1,3 @@
+fc7dcd05f4c2 ("can: vxcan: vxcan_xmit(): use kfree_skb() instead of kfree() to free skb")
+1574481bb3de ("vxcan: remove sk reference in peer skb")
+75854cad5d80 ("can: vxcan: vxcan_xmit: fix use after free bug")

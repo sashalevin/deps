@@ -1,0 +1,4 @@
+b65bef400689 ("x86/entry/32: Add PTI CR3 switches to NMI handler code")
+8b376fae0514 ("x86/entry/32: Introduce SAVE_ALL_NMI and RESTORE_ALL_NMI")
+8e676ced31e9 ("x86/entry/32: Unshare NMI return path")
+46eabca284f9 ("x86/entry/32: Put ESPFIX code into a macro")

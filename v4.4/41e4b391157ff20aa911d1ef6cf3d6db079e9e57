@@ -1,0 +1,6 @@
+41e4b391157f ("netfilter: nf_defrag: move NF_CONNTRACK bits into #ifdef")
+902d6a4c2a4f ("netfilter: nf_defrag: Skip defrag if NOTRACK is set")
+b9e69e127397 ("netfilter: xtables: don't hook tables by default")
+a67dd266adf4 ("netfilter: xtables: prepare for on-demand hook register")
+daaa7d647f81 ("netfilter: ipv6: avoid nf_iterate recursion")
+029f7f3b8701 ("netfilter: ipv6: nf_defrag: avoid/free clone operations")

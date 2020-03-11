@@ -1,0 +1,6 @@
+c10bc5614ce0 ("ata,scsi: Remove wrappers ata_sas_tport_{add,delete}()")
+f6549f538fe0 ("ata,scsi: libata-core: Do not leak memory for ata_port struct members")
+5d92c7c566dc ("ata: libata-core: Fix null pointer dereference on error")
+a25a9c85d17f ("scsi: libata: Switch to using ->device_configure")
+d53e4d77568a ("scsi: hisi_sas: Use LIBSAS_SHT_BASE_NO_SLAVE_INIT")
+bcd39f639e9e ("scsi: libsas: Add LIBSAS_SHT_BASE")

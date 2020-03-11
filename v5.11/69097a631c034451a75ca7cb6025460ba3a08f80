@@ -1,0 +1,5 @@
+69097a631c03 ("scsi: hisi_sas: Check whether debugfs is enabled before removing or releasing it")
+86287065fac2 ("scsi: hisi_sas: Rename error labels in hisi_sas_v3_probe()")
+554fb72ee34f ("scsi: hisi_sas: Free irq vectors in order for v3 HW")
+089226ef6a08 ("scsi: hisi_sas: Stop printing queue count in v3 hardware probe")
+f467666504bf ("scsi: hisi_sas: Call sas_unregister_ha() to roll back if .hw_init() fails")

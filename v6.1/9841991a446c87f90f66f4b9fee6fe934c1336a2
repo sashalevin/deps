@@ -1,0 +1,4 @@
+9841991a446c ("af_unix: Update unix_sk(sk)->oob_skb under sk_receive_queue lock.")
+22dd70eb2c3d ("af_unix: Don't peek OOB data without MSG_OOB.")
+b46f4eaa4f0e ("af_unix: Clear stale u->oob_skb.")
+4b7b492615cf ("af_unix: fix use-after-free in unix_stream_read_actor()")

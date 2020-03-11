@@ -1,0 +1,6 @@
+22123a0e4974 ("RDMA/i40iw: Use ib_umem_num_dma_pages()")
+eb52c0333f06 ("RDMA/i40iw: Use core helpers to get aligned DMA address within a supported page size")
+43fae91276a5 ("RDMA/i40iw: Use for_each_sg_dma_page iterator on umem SGL")
+5d9a2b0e2875 ("RDMA/i40w: Hold read semaphore while looking after VMA")
+3e7e1193e28a ("IB: Replace ib_umem page_size by page_shift")
+af17fe7a63db ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/dledford/rdma")

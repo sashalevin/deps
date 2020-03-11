@@ -1,0 +1,5 @@
+3d2353de8106 ("ring-buffer: Don't deactivate the ring buffer on failed iterator reads")
+ff84c50cfb4b ("ring-buffer: Do not die if rb_iter_peek() fails more than thrice")
+785888c544e0 ("ring-buffer: Have rb_iter_head_event() handle concurrent writer")
+28e3fc56a471 ("ring-buffer: Add page_stamp to iterator for synchronization")
+ead6ecfddea5 ("ring-buffer: Have ring_buffer_empty() not depend on tracing stopped")

@@ -1,0 +1,5 @@
+1c2b1049af3f ("ARM: imx: Check return value of devm_kasprintf in imx_mmdc_perf_init")
+ebeb49f43c89 ("ARM: imx: Call ida_simple_remove() for ida_simple_get")
+f07ec8536580 ("ARM: imx: add missing clk_disable_unprepare()")
+f9613aa07f16 ("ARM: imx: add missing iounmap()")
+7d9b866867d3 ("ARM: imx: don't abort MMDC probe if power saving status doesn't match")

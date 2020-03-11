@@ -1,0 +1,5 @@
+3fd6e12a401e ("Input: goodix - fix memory leak in goodix_firmware_upload")
+09182ed20c04 ("Input: goodix - add support for controllers without flash")
+7642f29c731e ("Input: goodix - push error logging up into i2c_read and i2c_write helpers")
+a2233cb7b65a ("Input: goodix - add a goodix.h header file")
+31ae0102a34e ("Input: goodix - change goodix_i2c_write() len parameter type to int")

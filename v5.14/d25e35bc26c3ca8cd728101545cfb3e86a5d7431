@@ -1,0 +1,6 @@
+d25e35bc26c3 ("drm/amdgpu: Pin MMIO/DOORBELL BO's in GTT  domain")
+dff63da93e45 ("drm/amdkfd: replace kgd_dev in gpuvm amdgpu_amdkfd funcs")
+68df0f195a68 ("drm/amdkfd: Separate pinned BOs destruction from general routine")
+a50fe7078035 ("drm/amdkfd: Only apply heavy-weight TLB flush on Aldebaran")
+626803d1f217 ("Revert "Revert "drm/amdkfd: Add memory sync before TLB flush on unmap""")
+fce1a7eb35b2 ("Revert "Revert "drm/amdkfd: Make TLB flush conditional on mapping""")

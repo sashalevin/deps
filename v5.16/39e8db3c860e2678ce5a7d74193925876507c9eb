@@ -1,0 +1,4 @@
+39e8db3c860e ("cifs: fix double free on failed kerberos auth")
+a4e430c8c8ba ("cifs: replace kfree() with kfree_sensitive() for sensitive data")
+70431bfd825d ("cifs: Support fscache indexing rewrite")
+e3548aaf41a2 ("cifs: free ntlmsspblob allocated in negotiate")

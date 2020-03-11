@@ -1,0 +1,4 @@
+56dd1019c885 ("KVM: x86/mmu: Factor out allocating memslot rmap")
+0dab98b7ade6 ("KVM: x86: Allocate memslot resources during prepare_memory_region()")
+edd4fa37baa6 ("KVM: x86: Allocate new rmap and large page tracking when moving memslot")
+254272ce6505 ("kvm: x86: Add memcg accounting to KVM allocations")

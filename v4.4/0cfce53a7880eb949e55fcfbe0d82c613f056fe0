@@ -1,0 +1,5 @@
+0cfce53a7880 ("scsi: fnic: fix spelling mistake in fnic stats "Abord" -> "Abort"")
+445d2960862e ("scsi: fnic: Adding debug IO and Abort latency counter to fnic stats")
+1b6ac5e3ff35 ("fnic: Using rport->dd_data to check rport online instead of rport_lookup.")
+a36f5dd07dd9 ("fnic: Cleanup the I/O pending with fw and has timed out and is used to issue LUN reset")
+691a837c20df ("fnic: Fix to cleanup aborted IO to avoid device being offlined by mid-layer")

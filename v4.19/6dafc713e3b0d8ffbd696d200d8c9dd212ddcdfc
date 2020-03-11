@@ -1,0 +1,5 @@
+6dafc713e3b0 ("sched: Simplify sched_tick_remote()")
+82e0516ce3a1 ("sched/core: Remove duplicate assignment in sched_tick_remote()")
+ebc0f83c78a2 ("timers/nohz: Update NOHZ load in remote tick")
+488603b815a7 ("sched/core: Don't skip remote tick for idle CPUs")
+84ec3a078708 ("time/tick-broadcast: Fix tick_broadcast_offline() lockdep complaint")

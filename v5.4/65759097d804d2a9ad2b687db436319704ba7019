@@ -1,0 +1,3 @@
+65759097d804 ("epoll: call final ep_events_available() check under the lock")
+412895f03cbf ("epoll: atomically remove wait entry on wake up")
+1b53734bd0b2 ("epoll: fix possible lost wakeup on epoll_ctl() path")

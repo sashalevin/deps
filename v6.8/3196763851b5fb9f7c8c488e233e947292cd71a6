@@ -1,0 +1,7 @@
+3196763851b5 ("drm/i915: Replace to_bpp_x16() with fxp_q4_from_int()")
+0f1ceeec1b20 ("drm/i915/dp_mst: Sanitize calculating the DSC DPT bpp limit")
+e54cc6deecce ("drm/i915/dp_mst: Account with the DSC DPT bpp limit on MTL")
+fd13841d8b2e ("drm/i915/dp_mst: Account for channel coding efficiency in the DSC DPT bpp limit")
+1ff65bf8ffc1 ("drm/i915/dp_mst: Fix BW limit check when calculating DSC DPT bpp")
+854ff3d9b8bb ("drm/i915/dp_mst: Fix symbol clock when calculating the DSC DPT bpp limit")
+8d7077f53e60 ("drm/i915/display: add generic to_intel_display() macro")

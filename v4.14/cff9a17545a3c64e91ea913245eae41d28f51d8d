@@ -1,0 +1,5 @@
+cff9a17545a3 ("crypto: inside-secure - move cache result dma mapping to request")
+b859202722f8 ("crypto: inside-secure - move hash result dma mapping to request")
+c957f8b3e2e5 ("crypto: inside-secure - avoid unmapping DMA memory that was not mapped")
+2973633e9f09 ("crypto: inside-secure - do not use areq->result for partial results")
+18fddf5fd211 ("crypto: inside-secure - remove null check before kfree")

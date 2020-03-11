@@ -1,0 +1,7 @@
+f9899c028151 ("NUMA: early use of cpu_to_node() returns 0 instead of the correct node id")
+514ca14ed544 ("start_kernel: Add __no_stack_protector function attribute")
+25a6917ca63a ("init: Mark start_kernel() __noreturn")
+9ea7e6b62c2b ("init: Mark [arch_call_]rest_init() __noreturn")
+071c44e42781 ("sched/idle: Mark arch_cpu_idle_dead() __noreturn")
+dfb0f170cadb ("sched/idle: Make sure weak version of arch_cpu_idle_dead() doesn't return")
+c93c296fff6b ("x86/sev: Mark snp_abort() noreturn")

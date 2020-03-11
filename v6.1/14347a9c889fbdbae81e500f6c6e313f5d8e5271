@@ -1,0 +1,5 @@
+14347a9c889f ("drm/i915/huc: always init the delayed load fence")
+02224691cb0f ("drm/i915/huc: fix leak of debug object in huc load fence on driver unload")
+472098c87731 ("drm/i915/huc: only load HuC on GTs that have VCS engines")
+27536e03271d ("drm/i915/huc: track delayed HuC load with a fence")
+087b681805f1 ("drm/i915/dg2: setup HuC loading via GSC")

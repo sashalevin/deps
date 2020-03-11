@@ -1,0 +1,6 @@
+0cecca9d03c9 ("x86/fpu: Eager switch PKRU state")
+4ee91519e1dc ("x86/fpu: Add an __fpregs_load_activate() internal helper")
+2722146eb784 ("x86/fpu: Remove fpu->initialized")
+2f7726f95557 ("x86/fpu: Track AVX-512 usage of tasks")
+2224d6165281 ("x86/fpu: Fix i486 + no387 boot crash by only saving FPU registers on context switch if there is an FPU")
+bd7dc5a6afac ("x86/entry/32: Pull the MSR_IA32_SYSENTER_CS update code out of native_load_sp0()")

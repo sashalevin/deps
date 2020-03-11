@@ -1,0 +1,4 @@
+ee3c8019cce2 ("cifs: fix uninitialized pointer in error case in dfs_cache_get_tgt_share")
+ef605e868212 ("cifs: skip trailing separators of prefix paths")
+7548e1da8d2d ("cifs: handle RESP_GET_DFS_REFERRAL.PathConsumed in reconnect")
+565674d613d7 ("cifs: merge __{cifs,smb2}_reconnect[_tcon]() into cifs_tree_connect()")

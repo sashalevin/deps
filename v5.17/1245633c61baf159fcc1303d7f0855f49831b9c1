@@ -1,0 +1,8 @@
+1245633c61ba ("Input: synaptics-rmi4 - follow renaming of SPI "master" to "controller"")
+3fc6350fc847 ("treewide, spi: Get rid of SPI_MASTER_HALF_DUPLEX")
+90366cd60133 ("spi: Get rid of old SPI_MASTER_MUST_TX & SPI_MASTER_MUST_RX")
+c397f09e5498 ("spi: Get rid of old SPI_MASTER_NO_TX & SPI_MASTER_NO_RX")
+398b6b310ec8 ("spi: atmel: switch to use modern name")
+1cc0cbea7167 ("spi: microchip: pci1xxxx: Add driver for SPI controller of PCI1XXXX PCIe switch")
+46f7ac3d7892 ("spi: bitbang: Fix lsb-first Rx")
+7e963fb2a33c ("spi: mediatek: add ipm design support for MT7986")

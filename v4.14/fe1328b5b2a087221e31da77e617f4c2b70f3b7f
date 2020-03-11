@@ -1,0 +1,8 @@
+fe1328b5b2a0 ("backlight: gpio_backlight: Drop output GPIO direction check for initial power state")
+9afa302473f3 ("backlight: gpio: Pull gpio_backlight_initial_power_state() into probe")
+d17465a0af3f ("backlight: gpio: Use a helper variable for &pdev->dev")
+f35f06b784a1 ("backlight: gpio: Simplify the platform data handling")
+706dc68102bc ("backlight: gpio: Explicitly set the direction of the GPIO")
+3cfc291bfe3f ("backlight: gpio: Remove stray newline")
+ec665b756e6f ("backlight: gpio-backlight: Correct initial power state handling")
+98b7404eb7d6 ("backlight: gpio_backlight: Enable ACPI enumeration")

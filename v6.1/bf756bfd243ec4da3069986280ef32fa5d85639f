@@ -1,0 +1,5 @@
+bf756bfd243e ("pwm: berlin: Make use of devm_pwmchip_alloc() function")
+5874eaf86980 ("pwm: berlin: Prepare removing pwm_chip from driver data")
+6dbf23f5cfff ("pwm: berlin: Simplify using devm functions")
+1b2af7bb7523 ("pwm: berlin: Put per-channel config into driver data")
+9baa8a00de7d ("pwm: berlin: Convert to platform remove callback returning void")

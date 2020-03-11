@@ -1,0 +1,7 @@
+ddd0fa73c2b7 ("locking/rwsem: Streamline the rwsem_optimistic_spin() code")
+19c5d690e416 ("locking/rwsem: Add reader-owned state to the owner field")
+8ee62b1870be ("locking/rwsem: Convert sem->count to 'atomic_long_t'")
+c0fcb6c2d332 ("locking/rwsem: Optimize write lock by reducing operations in slowpath")
+04cafed7fc19 ("locking/rwsem: Fix down_write_killable()")
+d47996082f52 ("locking/rwsem: Introduce basis for down_write_killable()")
+f8e04d854506 ("locking/rwsem: Get rid of __down_write_nested()")

@@ -1,0 +1,6 @@
+2772f0efd5bb ("parisc: Improve interrupt handling in arch_spin_lock_flags()")
+3b885ac1dc35 ("parisc: Remove unnecessary barriers from spinlock.h")
+726328d92a42 ("locking/spinlock, arch: Update and fix spin_unlock_wait() implementations")
+a9e4252a9b14 ("asm-generic: add __smp_xxx wrappers")
+57f7c0370f38 ("asm-generic: guard smp_store_release/load_acquire")
+5a1b26d7c629 ("lcoking/barriers, arch: Use smp barriers in smp_store_release()")

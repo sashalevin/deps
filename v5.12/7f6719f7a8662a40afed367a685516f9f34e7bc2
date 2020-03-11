@@ -1,0 +1,8 @@
+7f6719f7a866 ("bpf: Keep BPF_PROG_LOAD permission checks clear of validations")
+1d28635abcf1 ("bpf: Move unprivileged checks into map_create() and bpf_prog_load()")
+c8644cd0efe7 ("bpf: refine kernel.unprivileged_bpf_disabled behaviour")
+af2ac3e13e45 ("bpf: Prepare bpf syscall to be used from kernel and user space.")
+79a7f8bdb159 ("bpf: Introduce bpf_sys_bpf() helper and program type.")
+7b15523a989b ("bpf: Add a bpf_snprintf helper")
+d9c9e4db186a ("bpf: Factorize bpf_trace_printk and bpf_seq_printf")
+efd13b71a3fa ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

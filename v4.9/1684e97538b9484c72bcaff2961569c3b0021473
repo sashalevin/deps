@@ -1,0 +1,7 @@
+1684e97538b9 ("raid5: remove the meaningless check in raid5_make_request")
+a7ede3d16808 ("raid5: need to set STRIPE_HANDLE for batch head")
+6ce220dd2f8e ("raid5: don't set STRIPE_HANDLE to stripe which is in batch list")
+3bddb7f8f264 ("md/r5cache: handle FLUSH and FUA")
+a39f7afde358 ("md/r5cache: write-out phase and reclaim support")
+1e6d690b9334 ("md/r5cache: caching phase of r5cache")
+2ded370373a4 ("md/r5cache: State machine for raid5-cache write back mode")

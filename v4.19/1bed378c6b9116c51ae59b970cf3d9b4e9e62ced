@@ -1,0 +1,6 @@
+1bed378c6b91 ("spi: pxa2xx: Extract pxa2xx_spi_update() helper")
+0c8ccd8b267f ("spi: pxa2xx: Use pxa_ssp_enable()/pxa_ssp_disable() in the driver")
+41c9884170c5 ("spi: pxa2xx: Introduce is_mmp2_ssp() helper")
+29d7e05c5f75 ("spi: pxa2xx: Avoid touching SSCR0_SSE on MMP2")
+823918561918 ("spi: pxa2xx: Deal with the leftover garbage in TXFIFO")
+ec93cb6f827b ("spi: pxa2xx: Add slave mode support")

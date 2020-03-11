@@ -1,0 +1,3 @@
+09794f68936a ("x86/fred: Disallow the swapgs instruction when FRED is enabled")
+6007878a782e ("x86/cpu: Switch to cpu_feature_enabled() for X86_FEATURE_XENPV")
+7c693f54c873 ("x86/speculation: Add spectre_v2=ibrs option to support Kernel IBRS")

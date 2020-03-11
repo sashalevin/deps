@@ -1,0 +1,8 @@
+683eab94da75 ("powerpc/fadump: setup additional parameters for dump capture kernel")
+78d5cc15fb7d ("powerpc/pseries/fadump: add support for multiple boot memory regions")
+bc446c5acaba ("powerpc/fadump: add hotplug_ready sysfs interface")
+9cf3b3a33a36 ("powerpc/fadump: align destination address to pagesize")
+607451ce0aa9 ("powerpc/fadump: register for fadump as early as possible")
+d276960d9296 ("powerpc/kernel: Add __init attribute to eligible functions")
+e9ef81e1079b ("powerpc/smp: Use existing L2 cache_map cpumask to find L3 cache siblings")
+a4bec516b9c0 ("powerpc/cacheinfo: Lookup cache by dt node and thread-group id")

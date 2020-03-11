@@ -1,0 +1,5 @@
+49177377e910 ("dm: open code dm_get_dev_t in dm_init_init")
+238d991f054a ("dm: use fsleep() instead of msleep() for deterministic sleep duration")
+035641b01e72 ("dm init: add dm-mod.waitfor to wait for asynchronously probed block devices")
+85067747cf98 ("dm: do not use waitqueue for request-based DM")
+087615bf3acd ("dm mpath: pass IO start time to path selector")

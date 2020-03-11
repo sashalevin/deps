@@ -1,0 +1,8 @@
+1aa85bb14d8e ("PCI/PM: Set current_state to D3cold if the device is not accessible")
+7957d201456f ("PCI/PM: Relocate pci_set_low_power_state()")
+10aa5377fc8a ("PCI/PM: Split pci_raw_set_power_state()")
+730643d33e2d ("PCI/PM: Resume subordinate bus in bus type callbacks")
+18a94192e20d ("PCI/PM: Define pci_restore_standard_config() only for CONFIG_PM_SLEEP")
+fa52b6447ce1 ("PCI/ERR: Use PCI_POSSIBLE_ERROR() to check config reads")
+99efde6c9bb7 ("PCI/PM: Rename pci_wakeup_bus() to pci_resume_bus()")
+00937f36b09e ("Merge tag 'pci-v5.10-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

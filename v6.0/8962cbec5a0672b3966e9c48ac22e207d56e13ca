@@ -1,0 +1,7 @@
+8962cbec5a06 ("perf stat: Split process_counters() to share it with process_stat_round_event()")
+8f97963e0976 ("perf stat: Reset aggr counts for each interval")
+ae7e6492ee54 ("perf stat: Allocate aggr counts for recorded data")
+ca68b374d040 ("perf stat: Add struct perf_stat_aggr to perf_stat_evsel")
+f407aac4056c ("perf stat: Kill unused per-thread runtime stats")
+429b8e84517b ("perf stat: Don't call perf_stat_evsel_id_init() repeatedly")
+66b76e30ee36 ("perf stat: Convert perf_stat_evsel.res_stats array")

@@ -1,0 +1,7 @@
+025b3602b5fa ("f2fs: compress: don't {,de}compress non-full cluster")
+3a2c0e55f9bd ("f2fs: allow f2fs_ioc_{,de}compress_file to be interrupted")
+5fdb322ff2c2 ("f2fs: add F2FS_IOC_DECOMPRESS_FILE and F2FS_IOC_COMPRESS_FILE")
+34178b1bc4b5 ("f2fs: fix compat F2FS_IOC_{MOVE,GARBAGE_COLLECT}_RANGE")
+e1e8debec656 ("f2fs: add F2FS_IOC_SET_COMPRESS_OPTION ioctl")
+9e2a5f8cfb4d ("f2fs: add F2FS_IOC_GET_COMPRESS_OPTION ioctl")
+fa4320cefb85 ("f2fs: move ioctl interface definitions to separated file")

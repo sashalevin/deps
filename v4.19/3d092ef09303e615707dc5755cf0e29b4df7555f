@@ -1,0 +1,6 @@
+3d092ef09303 ("ipmi: When handling send message responses, don't process the message")
+059747c245f0 ("ipmi: Add support for IPMB direct messages")
+383035211c79 ("ipmi: move message error checking to avoid deadlock")
+c65ea9965950 ("ipmi: Fix how the lower layers are told to watch for messages")
+a1466ec5b671 ("ipmi: Fix SSIF flag requests")
+445e2cbda928 ("ipmi: msghandler: Add and use pr_fmt and dev_fmt, remove PFX")

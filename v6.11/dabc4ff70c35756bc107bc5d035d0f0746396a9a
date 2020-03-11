@@ -1,0 +1,4 @@
+dabc4ff70c35 ("KVM: x86: Apply retry protection to "unprotect on failure" path")
+19ab2c8be070 ("KVM: x86: Check EMULTYPE_WRITE_PF_TO_SP before unprotecting gfn")
+620525739521 ("KVM: x86: Remove manual pfn lookup when retrying #PF after failed emulation")
+41e6e367d576 ("KVM: x86: Move EMULTYPE_ALLOW_RETRY_PF to x86_emulate_instruction()")

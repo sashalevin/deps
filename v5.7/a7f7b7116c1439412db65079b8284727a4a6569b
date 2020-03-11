@@ -1,0 +1,8 @@
+a7f7b7116c14 ("nvme-rdma: split nvme_rdma_alloc_tagset")
+ed01fee283a0 ("nvme-fabrics: only reserve a single tag")
+dc96f93874c6 ("nvme: use consistent macro name for timeout")
+0d2e7c840b17 ("nvme: centralize setting the timeout in nvme_alloc_request")
+1b4ad7a50ab0 ("nvme-loop: initialize tagset numa value to the value of the ctrl")
+610c823510f7 ("nvme-tcp: initialize tagset numa value to the value of the ctrl")
+d4ec47f12053 ("nvme-pci: initialize tagset numa value to the value of the ctrl")
+5ec5d3bddc6b ("nvme-rdma: add metadata/T10-PI support")

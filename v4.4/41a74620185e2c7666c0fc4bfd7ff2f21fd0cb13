@@ -1,0 +1,7 @@
+41a74620185e ("nfs4: always reset notified flag to false before repolling for lock")
+a1d617d8f134 ("nfs: allow blocking locks to be awoken by lock callbacks")
+d2f3a7f9187b ("nfs: move nfs4 lock retry attempt loop to a separate function")
+1ea67dbd9828 ("nfs: move nfs4_set_lock_state call into caller")
+db783688d4a2 ("nfs: add handling for CB_NOTIFY_LOCK in client")
+66f570ab7307 ("nfs: use safe, interruptible sleeps when waiting to retry LOCK")
+99ade3c71b1e ("nfs: machine credential support for additional operations")

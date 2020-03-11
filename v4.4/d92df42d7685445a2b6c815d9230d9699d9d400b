@@ -1,0 +1,5 @@
+d92df42d7685 ("genirq: Improve "hwirq" output in /proc and /sys/")
+f435da416bea ("genirq: Fix /proc/interrupts output alignment")
+ecb3f394c5db ("genirq: Expose interrupt information through sysfs")
+45ddcecbfa94 ("genirq: Use affinity hint in irqdesc allocation")
+425a5072dcd1 ("genirq: Free irq_desc with rcu")

@@ -1,0 +1,7 @@
+b23e5844dfe7 ("xen/pv: Fix a boot up hang revealed by int3 self test")
+43e4111086a7 ("xen, x86/entry/64: Add xen NMI trap entry")
+5878d5d6fdef ("x86/xen: Get rid of paravirt op adjust_exception_frame")
+1d792a678c75 ("x86/idt: Remove the tracing IDT leftovers")
+64b163fab684 ("x86/idt: Unify gate_struct handling for 32/64-bit kernels")
+11a7ffb01703 ("x86/traps: Simplify pagefault tracing logic")
+1d0f49e14007 ("Merge branch 'x86/urgent' into x86/asm, to pick up fixes")

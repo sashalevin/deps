@@ -1,0 +1,4 @@
+cb5b81bc9a44 ("module: warn about excessively long module waits")
+f1962207150c ("module: fix init_module_from_file() error handling")
+9b9879fc0327 ("modules: catch concurrent module loads, treat them as idempotent")
+054a73009c22 ("module: split up 'finit_module()' into init_module_from_file() helper")

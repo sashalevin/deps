@@ -1,0 +1,4 @@
+4b8857c3ca43 ("pwm: rockchip: Convert to use dev_err_probe()")
+c9f809d0db69 ("pwm: rockchip: Replace "bus clk" with "PWM clk"")
+d5d8d675865c ("pwm: rockchip: rockchip_pwm_probe(): Remove superfluous clk_unprepare()")
+d9b657a5cdbd ("pwm: rockchip: Enable APB clock during register access while probing")

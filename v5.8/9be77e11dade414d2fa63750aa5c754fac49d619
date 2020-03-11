@@ -1,0 +1,3 @@
+9be77e11dade ("powerpc/mm: Move the linear_mapping_mutex to the ifdef where it is used")
+1a1be322178c ("powerpc/mm: Remove useless #ifndef CPU_FTR_COHERENT_ICACHE in mem.c")
+e5b2af044f31 ("powerpc/mm: protect linear mapping modifications by a mutex")

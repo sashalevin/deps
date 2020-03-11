@@ -1,0 +1,3 @@
+9c5bd93edf7b ("bpf, sockmap: SK_DROP on attempted redirects of unsupported af_vsock")
+b80e31baa436 ("bpf, sockmap: Reject sk_msg egress redirects to non-TCP sockets")
+42f67eea3ba3 ("net: use sk_is_tcp() in more places")

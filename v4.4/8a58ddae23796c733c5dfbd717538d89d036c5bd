@@ -1,0 +1,8 @@
+8a58ddae2379 ("perf/core: Fix exclusive events' grouping")
+a1150c202207 ("perf/core: Fix group scheduling with mixed hw and sw events")
+321027c1fe77 ("perf/core: Fix concurrent sys_perf_event_open() vs. 'move_group' race")
+4ff6a8debf48 ("perf/core: Generalize event->group_flags")
+0b8f1e2e26bf ("perf/core: Fix sideband list-iteration vs. event ordering NULL pointer deference crash")
+f2fb6bef9251 ("perf/core: Optimize side-band event delivery")
+b73e4fefc18a ("perf/core: Extend perf_event_aux_ctx() to optionally iterate through more events")
+0b20e59cef92 ("Merge branch 'perf/urgent' into perf/core, to resolve conflict")

@@ -1,0 +1,8 @@
+396c018332a1 ("RISC-V: cpufeature: Add ACPI support in riscv_fill_hwcap()")
+914d6f44fc50 ("RISC-V: only iterate over possible CPUs in ISA string parser")
+726855549cf8 ("RISC-V: Improve use of isa2hwcap[]")
+ad635e723e17 ("riscv: cpu: Add 64bit hartid support on RV64")
+ff689fd21cb1 ("riscv: add RISC-V Svpbmt extension support")
+100631b48ded ("riscv: Fix accessing pfn bits in PTEs for non-32bit variants")
+d14ca1f8d303 ("riscv: allow different stages with alternatives")
+e64f737ad70f ("riscv: integrate alternatives better into the main architecture")

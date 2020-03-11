@@ -1,0 +1,8 @@
+1e4c574225cc ("USB: Remove remnants of Wireless USB and UWB")
+ff33299ec8bb ("USB: core: Fix race by not overwriting udev->descriptor in hub_port_init()")
+de28e469da75 ("USB: core: Change usb_get_device_descriptor() API")
+85d07c556216 ("USB: core: Unite old scheme and new scheme descriptor reads")
+130eac417085 ("xhci: use pm_ptr() instead of #ifdef for CONFIG_PM conditionals")
+ed526ba2ecdf ("xhci: move PCI specific MSI/MSIX cleanup away from generic xhci functions")
+fabbd95cc47c ("xhci: Move functions to setup msi to xhci-pci")
+944e7deb4238 ("xhci: Avoid PCI MSI/MSIX interrupt reinitialization at resume")

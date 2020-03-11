@@ -1,0 +1,8 @@
+94c82de43e01 ("net: stmmac: configure PTP clock source prior to PTP initialization")
+a6da2bbb0005 ("net: stmmac: retain PTP clock time during SIOCSHWTSTAMP ioctls")
+276aae377206 ("net: stmmac: fix system hang caused by eee_ctrl_timer during suspend/resume")
+30f347ae7cc1 ("net: stmmac: fix missing unlock on error in stmmac_suspend()")
+5ec55823438e ("net: stmmac: add clocks management for gmac driver")
+aa042f60e496 ("net: stmmac: Add support to Ethtool get/set ring parameters")
+0366f7e06a6b ("net: stmmac: add ethtool support for get/set channels")
+1c35cc9cf6a0 ("net: stmmac: remove redundant null check before clk_disable_unprepare()")

@@ -1,0 +1,6 @@
+85516a9881a3 ("mtd: partitions: fix unbalanced of_node_get/put()")
+76a832254ab0 ("mtd: partitions: use DT info for parsing partitions with "compatible" prop")
+5ac67ce36cfe ("mtd: move code adding (registering) partitions to the parse_mtd_partitions()")
+5b644aa012f6 ("mtd: partitions: add of_match_table parser matching for the "ofpart" type")
+0dbe4ea78d69 ("mtd: get rid of the mtd_add_device_partitions()")
+2c77c57d22ad ("mtd: move code adding master MTD out of mtd_add_device_partitions()")

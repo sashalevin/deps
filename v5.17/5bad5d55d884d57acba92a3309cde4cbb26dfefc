@@ -1,0 +1,4 @@
+5bad5d55d884 ("KVM: update code comment in struct kvm_vcpu")
+2031f2876896 ("KVM: Add helpers to wrap vcpu->srcu_idx and yell if it's abused")
+fdd6f6ac2e48 ("KVM: RISC-V: Use kvm_vcpu.srcu_idx, drop RISC-V's unnecessary copy")
+c9d3b5bd2693 ("RISC-V: KVM: Add common kvm_riscv_vcpu_wfi() function")

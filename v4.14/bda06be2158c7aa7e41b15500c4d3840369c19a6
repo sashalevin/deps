@@ -1,0 +1,8 @@
+bda06be2158c ("l2tp: clean up stale tunnel or session in pppol2tp_connect's error path")
+6b9f34239b00 ("l2tp: fix races in tunnel creation")
+b954f94023dc ("l2tp: fix races with ipv4-mapped ipv6 addresses")
+17cfe79a65f9 ("l2tp: do not accept arbitrary sockets")
+d00fa9adc528 ("l2tp: fix races with tunnel socket close")
+76a6abdb2513 ("l2tp: don't use inet_shutdown on tunnel destroy")
+765924e362d1 ("l2tp: don't close sessions in l2tp_tunnel_destruct()")
+ed29668d1aa2 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

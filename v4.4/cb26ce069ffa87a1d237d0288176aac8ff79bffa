@@ -1,0 +1,4 @@
+cb26ce069ffa ("mmc: core: Clarify code which deals with polling in __mmc_switch()")
+987aa5f80596 ("mmc: mmc: fix switch timeout issue caused by jiffies precision")
+87a18a6a5652 ("mmc: mmc: Use ->card_busy() to detect busy cards in __mmc_switch()")
+3bbb0deea6d5 ("mmc: core: fix __mmc_switch timeout caused by preempt")

@@ -1,0 +1,3 @@
+9ab03be42b8f ("workqueue: Don't hold any lock while rcuwait'ing for !POOL_MANAGER_ACTIVE")
+a9b8a985294d ("workqueue: Convert the pool::lock and wq_mayday_lock to raw_spinlock_t")
+d8bb65ab70f7 ("workqueue: Use rcuwait for wq_manager_wait")

@@ -1,0 +1,8 @@
+ae755b5a4548 ("x86/paravirt: Switch iret pvops to ALTERNATIVE")
+33634e42e38b ("x86/paravirt: Remove no longer needed 32-bit pvops cruft")
+afd30525a659 ("x86/xen: Drop USERGS_SYSRET64 paravirt call")
+53c9d9240944 ("x86/pv: Switch SWAPGS to ALTERNATIVE")
+31d854603305 ("x86/head/64: Remove unused GET_CR2_INTO() macro")
+ecac71816a18 ("x86/paravirt: Use CONFIG_PARAVIRT_XXL instead of CONFIG_PARAVIRT")
+0cabf9914990 ("x86/paravirt: Remove 32-bit support from CONFIG_PARAVIRT_XXL")
+0520058d0578 ("Merge tag 'for-linus-5.9-rc1b-tag' of git://git.kernel.org/pub/scm/linux/kernel/git/xen/tip")

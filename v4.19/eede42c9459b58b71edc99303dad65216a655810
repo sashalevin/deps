@@ -1,0 +1,4 @@
+eede42c9459b ("spi: spidev: fix a recursive locking error")
+a720416d9463 ("spi: spidev: fix a race condition when accessing spidev->spi")
+06096cc6c5a8 ("spi: spidev: fix a potential use-after-free in spidev_release()")
+9f918a728cf8 ("spi: Add call to spi_slave_abort() function when spidev driver is released")

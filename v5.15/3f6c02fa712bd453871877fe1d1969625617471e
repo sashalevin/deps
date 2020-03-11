@@ -1,0 +1,7 @@
+3f6c02fa712b ("serial: stm32: Merge hard IRQ and threaded IRQ handling into single IRQ handler")
+6333a4850621 ("serial: stm32: push DMA RX data before suspending")
+6eeb348c8482 ("serial: stm32: terminate / restart DMA transfer at suspend / resume")
+e0abc903deea ("serial: stm32: rework RX dma initialization and release")
+d1ec8a2eabe9 ("serial: stm32: update throttle and unthrottle ops for dma mode")
+33bb2f6ac308 ("serial: stm32: rework RX over DMA")
+cc58d0a3f0a4 ("serial: stm32: re-introduce an irq flag condition in usart_receive_chars")

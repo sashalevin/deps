@@ -1,1 +1,6 @@
 e4319cd9cace ("btrfs: refactor btrfs_find_device() take fs_devices as argument")
+7239ff4b2be8 ("btrfs: Introduce support for FSID change without metadata rewrite")
+05a37c48604c ("btrfs: volumes: Make sure no dev extent is beyond device boundary")
+a27a94c2b0c7 ("btrfs: Make btrfs_find_device_by_devspec return btrfs_device directly")
+6c05040702e7 ("btrfs: Make btrfs_find_device_missing_or_by_path return directly a device")
+b444ad46b2db ("btrfs: Make btrfs_find_device_by_path return struct btrfs_device")

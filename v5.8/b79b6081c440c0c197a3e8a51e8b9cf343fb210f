@@ -1,0 +1,5 @@
+b79b6081c440 ("drm/tegra: sor: Fix AUX device reference leak")
+1d15a10395e5 ("drm/tegra: Get ref for DP AUX channel, not its ddc adapter")
+5c1d644c09db ("drm/tegra: sor: Ensure regulators are disabled on teardown")
+cb7ff314e1d9 ("drm/tegra: sor: Don't warn on probe deferral")
+2340dc15f05f ("drm/tegra: Properly reference count the DDC I2C adapter")

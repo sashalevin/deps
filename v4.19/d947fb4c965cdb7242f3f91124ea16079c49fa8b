@@ -1,0 +1,6 @@
+d947fb4c965c ("cpuidle: pseries: Fixup exit latency for CEDE(0)")
+054e44ba99ae ("cpuidle: pseries: Add function to parse extended CEDE records")
+3af0ada7dd98 ("cpuidle: pseries: Set the latency-hint before entering CEDE")
+c4019198cfa8 ("powerpc/idle: Store PURR snapshot in a per-cpu global variable")
+e4a884cc28fa ("powerpc: Move idle_loop_prolog()/epilog() functions to header file")
+1a047cc7e53c ("powerpc/pseries/dma: Enable SWIOTLB")

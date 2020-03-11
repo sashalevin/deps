@@ -1,0 +1,5 @@
+46cf630c53f3 ("selftests/nolibc: stat_fault: silence NULL argument warning with glibc")
+87b9fa66af9a ("tools/nolibc: support nanoseconds in stat()")
+3ad09d72e4d2 ("tools/nolibc: add testcase for fork()/waitpid()")
+b551cb7dc347 ("tools/nolibc: Add statx() and make stat() rely on statx() if necessary")
+a438e528b68f ("tools/nolibc: Include linux/fcntl.h and remove duplicate code")

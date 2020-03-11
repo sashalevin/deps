@@ -1,0 +1,6 @@
+888af2701db7 ("mm/memory-failure.c: fix race with changing page compound again")
+5d1fd5dc877b ("mm,hwpoison: introduce MF_MSG_UNSPLIT_THP")
+694bf0b0cdf9 ("mm,hwpoison: unify THP handling for hard and soft offline")
+dd6e2402fad9 ("mm,hwpoison: kill put_hwpoison_page")
+7e27f22c9e40 ("mm,hwpoison: unexport get_hwpoison_page and make it static")
+46612b751c49 ("mm: hwpoison: fix thp split handing in soft_offline_in_use_page()")

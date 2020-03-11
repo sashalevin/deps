@@ -1,0 +1,5 @@
+7258fa31eabd ("drm/amdgpu: Handle the GPU recovery failure in SRIOV environment.")
+a5f67c939eb2 ("drm/amdgpu: recover XGMI topology for SRIOV VF after reset")
+992110d74717 ("drm/amdgpu: adjust the kfd reset sequence in reset sriov function")
+4f30d920d123 ("drm/amdgpu: move kfd post_reset out of reset_sriov function")
+ca4e17244bd2 ("drm/amdgpu: Prevent any job recoveries after device is unplugged.")

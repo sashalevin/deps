@@ -1,0 +1,4 @@
+56fe28de8c4f ("KVM: nSVM: mark vmcb as dirty when forcingly leaving the guest mode")
+c513f484c558 ("KVM: nSVM: leave guest mode when clearing EFER.SVME")
+69c9dfa24bb7 ("KVM: nSVM: move map argument out of enter_svm_guest_mode")
+f74f94140fa5 ("KVM: SVM: introduce nested_run_pending")

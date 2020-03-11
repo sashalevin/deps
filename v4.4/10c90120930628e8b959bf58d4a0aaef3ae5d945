@@ -1,0 +1,4 @@
+10c901209306 ("usbip: stub_rx: fix static checker warning on unnecessary checks")
+c6688ef9f297 ("usbip: fix stub_rx: harden CMD_SUBMIT path to handle malicious input")
+635f545a7e8b ("usbip: fix stub_rx: get_pipe() to validate endpoint number")
+8c7003a3b4b4 ("usbip: fix NULL pointer dereference on errors")

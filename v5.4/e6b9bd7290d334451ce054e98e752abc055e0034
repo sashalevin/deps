@@ -1,0 +1,6 @@
+e6b9bd7290d3 ("jbd2: fix data missing when reusing bh which is ready to be checkpointed")
+464170647b56 ("jbd2: Make state lock a spinlock")
+2e710ff03fc4 ("jbd2: Don't call __bforget() unnecessarily")
+93108ebb848d ("jbd2: Move dropping of jh reference out of un/re-filing functions")
+d8ede917f5cd ("jbd2: Remove jbd_trylock_bh_state()")
+d84560f74d85 ("jbd2: Simplify journal_unmap_buffer()")

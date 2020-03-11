@@ -1,0 +1,5 @@
+a1cdef04f22d ("powerpc: Convert stacktrace to generic ARCH_STACKWALK")
+826a307b0a11 ("powerpc: Rename 'tsk' parameter into 'task'")
+accdd093f260 ("powerpc: Activate HAVE_RELIABLE_STACKTRACE for all")
+cd1a41ceba8a ("softirq: Move __ARCH_HAS_DO_SOFTIRQ to Kconfig")
+5e6e9852d6f7 ("uaccess: add infrastructure for kernel builds with set_fs()")

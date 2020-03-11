@@ -1,0 +1,7 @@
+64aa47bfc453 ("KVM: x86: add kvm_apic_map_get_dest_lapic")
+9e4aabe2bb34 ("kvm: x86: Convert ioapic->rtc_status.dest_map to a struct")
+4efd805fca55 ("KVM: x86: fix *NULL on invalid low-prio irq")
+6228a0da8057 ("KVM: x86: Add lowest-priority support for vt-d posted-interrupts")
+520040146a0a ("KVM: x86: Use vector-hashing to deliver lowest-priority interrupts")
+5c919412fe61 ("kvm/x86: Hyper-V synthetic interrupt controller")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

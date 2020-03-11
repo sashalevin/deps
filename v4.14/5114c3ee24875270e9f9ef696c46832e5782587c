@@ -1,0 +1,7 @@
+5114c3ee2487 ("usb: dwc3: Calculate REFCLKPER based on reference clock")
+7bee31883889 ("usb: dwc3: reference clock period configuration")
+d9612c2f0449 ("usb: dwc3: Enable undefined length INCR burst type")
+fe8abf332b8f ("usb: dwc3: support clocks and resets for DWC3 core")
+44feb8e6ea2d ("usb: dwc3: use local copy of resource to fix-up register offset")
+c4a5153e87fd ("usb: dwc3: core: Power-off core/PHYs on system_suspend in host mode")
+689bf72c6e0d ("usb: dwc3: Don't reinitialize core during host bus-suspend/resume")

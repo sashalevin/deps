@@ -1,0 +1,6 @@
+92215e7a801d ("kbuild: rename cmd_$@ to savedcmd_$@ in *.cmd files")
+ebd191b38c5e ("kbuild: add cmd_and_savecmd macro")
+69304379ff03 ("fixdep: use fflush() and ferror() to ensure successful write to files")
+265264b814c2 ("gen_compile_commands: extract compiler command from a series of commands")
+6796e80409b9 ("kbuild: macrofy the condition of if_changed and friends")
+0e0345b77ac4 ("kbuild: redo fake deps at include/config/*.h")

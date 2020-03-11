@@ -1,1 +1,3 @@
 051074867434 ("perf trace: Check if the 'fd' is negative when mapping it to pathname")
+d7e134845d6b ("perf trace: Move the files table resizing to outside set_pathname()")
+f4a74fcbfd94 ("perf trace: Rename thread_thread->paths to thread_trace->files")

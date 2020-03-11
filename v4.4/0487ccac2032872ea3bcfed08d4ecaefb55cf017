@@ -1,0 +1,6 @@
+0487ccac2032 ("crypto: aesni - make non-AVX AES-GCM work with any aadlen")
+e183914af00e ("crypto: x86 - make constants readonly, allow linker to merge them")
+bee5cfd9f670 ("crypto: sha512-mb - Crypto computation (x4 AVX2)")
+45691e2d9b18 ("crypto: sha512-mb - submit/flush routines for AVX2")
+992532474ffa ("crypto: sha256-mb - Crypto computation (x8 AVX2)")
+a377c6b1876e ("crypto: sha256-mb - submit/flush routines for AVX2")

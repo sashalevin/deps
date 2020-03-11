@@ -1,0 +1,7 @@
+a39f5ccc30d5 ("xfs: remove XFS_RTMIN/XFS_RTMAX")
+3abfe6c2759e ("xfs: remove rt-wrappers from xfs_format.h")
+8ceee72fdb6f ("xfs: factor out a xfs_rtalloc_sumlevel helper")
+ce42b5d37527 ("xfs: return -ENOSPC from xfs_rtallocate_*")
+152e21235727 ("xfs: move xfs_bmap_rtalloc to xfs_rtalloc.c")
+58643460546d ("xfs: also use xfs_bmap_btalloc_accounting for RT allocations")
+eef519d746bb ("xfs: remove the xfs_alloc_arg argument to xfs_bmap_btalloc_accounting")

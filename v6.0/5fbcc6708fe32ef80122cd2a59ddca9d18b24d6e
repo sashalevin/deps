@@ -1,0 +1,8 @@
+5fbcc6708fe3 ("video/aperture: Drop primary argument")
+62aeaeaa1b26 ("drm/aperture: Remove primary argument")
+80e993988b97 ("drm/gma500: Use drm_aperture_remove_conflicting_pci_framebuffers")
+81d2393485f0 ("fbdev/hyperv-fb: Do not set struct fb_info.apertures")
+4b760f76dd6f ("drm/arm/hdlcd: Take over EFI framebuffer properly")
+ca5f13a21404 ("fbdev: Fix order of arguments to aperture_remove_conflicting_devices()")
+8d69d008f44c ("fbdev: Convert drivers to aperture helpers")
+9d69ef183815 ("fbdev/core: Remove remove_conflicting_pci_framebuffers()")

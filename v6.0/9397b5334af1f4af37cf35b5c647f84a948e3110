@@ -1,0 +1,7 @@
+9397b5334af1 ("KVM: selftests: map Xen's shared_info page using HVA rather than GFN")
+6c77ae716d54 ("KVM: selftests: Clean up misnomers in xen_shinfo_test")
+96e78ebbe8e4 ("KVM: x86/xen: Remove unneeded semicolon")
+d8ba8ba4c801 ("KVM: x86/xen: Allow XEN_RUNSTATE_UPDATE flag behaviour to be configured")
+5ec3289b31ab ("KVM: x86/xen: Compatibility fixes for shared runstate area")
+a51abbbf2531 ("KVM: selftests: Add tests in xen_shinfo_test to detect lock races")
+52491a38b2c2 ("KVM: Initialize gfn_to_pfn_cache locks in dedicated helper")

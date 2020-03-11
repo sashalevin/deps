@@ -1,0 +1,8 @@
+8322ebbb2408 ("KVM: nVMX: generate MSR_IA32_CR{0,4}_FIXED1 from guest CPUID")
+62cc6b9dc61e ("KVM: nVMX: support restore of VMX capability MSRs")
+9ac7e3e81506 ("KVM: nVMX: expose INS/OUTS information support")
+16cb025565fc ("KVM: VMX: not use vmcs_config in setup_vmcs_config")
+37e4c997dadf ("KVM: VMX: validate individual bits of guest MSR_IA32_FEATURE_CONTROL")
+3b84080b9512 ("KVM: VMX: move msr_ia32_feature_control to vcpu_vmx")
+1be0e61c1f25 ("KVM, pkeys: save/restore PKRU when guest/host switches")
+2680d6da455b ("kvm: x86: Update tsc multiplier on change.")

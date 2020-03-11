@@ -1,0 +1,7 @@
+878e845d8db0 ("clk: mediatek: mt8183: Only enable runtime PM on mt8183-mfgcfg")
+2f7b1d8b5505 ("clk: mediatek: Do a runtime PM get on controllers during probe")
+fd9fe654f41c ("clk: mediatek: clk-mtk: Register MFG notifier in mtk_clk_simple_probe()")
+7b6183108c8c ("clk: mediatek: clk-mtk: Extend mtk_clk_simple_probe()")
+20498d52c9c1 ("clk: mediatek: clk-gate: Propagate struct device with mtk_clk_register_gates()")
+fdc325c8f79c ("clk: mediatek: mt8192: Propagate struct device for gate clocks")
+0cbe12694990 ("clk: mediatek: mt8192: Correctly unregister and free clocks on failure")

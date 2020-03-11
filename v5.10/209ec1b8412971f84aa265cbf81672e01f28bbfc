@@ -1,0 +1,7 @@
+209ec1b84129 ("drm/nouveau/mc: use split type+inst when handling dev_top interrupts")
+a35047ba7714 ("drm/nouveau/mc: use split type+inst in interrupt masking API")
+6997ea13120f ("drm/nouveau/mc: use split type+inst in device reset APIs")
+c653ab8383bf ("drm/nouveau/mc: lookup subdev interrupt handlers with split type+inst")
+efe2a9eccd72 ("drm/nouveau/device: pass instance id when looking up a subdev/engine")
+b8ab4b45e5fe ("drm/nouveau/fifo/tu102: Move Turing specific FIFO functions")
+c3cc12eaf511 ("drm/nouveau/mc/tu102: Fix MMU fault interrupts on Turing")

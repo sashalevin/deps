@@ -1,0 +1,5 @@
+32d35c4a96ec ("perf/x86: Allow for 8<num_fixed_counters<16")
+32451614da2a ("perf/x86/intel: Support CPUID 10.ECX to disable fixed counters")
+7b2c05a15d29 ("perf/x86/intel: Generic support for hardware TopDown metrics")
+58da7dbe6f03 ("perf/x86/intel: Use switch in intel_pmu_disable/enable_event")
+60a2a271cf05 ("perf/x86/intel: Name the global status bit in NMI handler")

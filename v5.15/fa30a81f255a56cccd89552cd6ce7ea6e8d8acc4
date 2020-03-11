@@ -1,0 +1,4 @@
+fa30a81f255a ("smb3: fix temporary data corruption in collapse range")
+c3a72bb21320 ("smb3: Move the flush out of smb2_copychunk_range() into its callers")
+f5d0f921ea36 ("cifs: destage any unwritten data to the server before calling copychunk_write")
+84330d41efb1 ("cifs: truncate the inode and mapping when we simulate fcollapse")

@@ -1,0 +1,4 @@
+b55032f1067a ("mm/vmstat: replace cpumask_weight with cpumask_empty where appropriate")
+5438da977f83 ("mm/vmstat: Convert to hotplug state machine")
+4c501327b4c6 ("mm/vmstat: Avoid on each online CPU loops")
+76f290935b1a ("mm/vmstat: Drop get_online_cpus() from init_cpu_node_state/vmstat_cpu_dead()")

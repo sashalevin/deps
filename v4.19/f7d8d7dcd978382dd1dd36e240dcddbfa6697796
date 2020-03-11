@@ -1,0 +1,8 @@
+f7d8d7dcd978 ("nvmem: fix memory leak in error path")
+a99d2c6ccd15 ("nvmem: fix a 'makes pointer from integer without a cast' build warning")
+2a127da461a9 ("nvmem: add support for the write-protect pin")
+ae0c2d725512 ("nvmem: core: add NVMEM_SYSFS Kconfig")
+a8b44d5d2e38 ("nvmem: Move nvmem_type_str array to its only user")
+16688453661b ("nvmem: add type attribute")
+e7e07f4f7b45 ("nvmem: use octal permissions instead of constants")
+bee1138bea15 ("nvmem: add a notifier chain")

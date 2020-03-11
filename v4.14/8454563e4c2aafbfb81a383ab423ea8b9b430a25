@@ -1,0 +1,3 @@
+8454563e4c2a ("scsi: libsas: Fix sas_ata_qc_issue() handling of NCQ NON DATA commands")
+176ddd89171d ("scsi: libsas: Reset num_scatter if libata marks qc as NODATA")
+53de092f47ff ("scsi: libsas: Set data_dir as DMA_NONE if libata marks qc as NODATA")

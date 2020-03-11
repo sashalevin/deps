@@ -1,0 +1,7 @@
+cae9dc35ed9f ("kasan: allow enabling stack tagging for tag-based mode")
+2bd926b439b4 ("kasan: add CONFIG_KASAN_GENERIC and CONFIG_KASAN_SW_TAGS")
+b938fcf42739 ("kasan: rename source files to reflect the new naming scheme")
+bffa986c6f80 ("kasan: move common generic and tag-based code to common.c")
+0116523cfffa ("kasan, mm: change hooks signatures")
+163c8d54a997 ("compiler: remove __no_sanitize_address_or_inline again")
+e468f5c06b5e ("Merge tag 'compiler-attributes-for-linus-4.20-rc1' of https://github.com/ojeda/linux")

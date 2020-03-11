@@ -1,0 +1,7 @@
+322d79f1db4b ("KVM: x86: Clean up directed yield API for "has pending interrupt"")
+ae801e1303e9 ("KVM: x86: Check for in-kernel xAPIC when querying APICv for directed yield")
+10dbdf98acd6 ("KVM: x86: Take advantage of kvm_arch_dy_has_pending_interrupt()")
+52acd22faa1a ("KVM: Boost vCPU candidate in user mode which is delivering interrupt")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

@@ -1,0 +1,3 @@
+630c1863bc1c ("x86/traps: Don't clear segment high bits in early_idt_handler_common()")
+7bbcdb1ca4d2 ("x86/head: Pass a real pt_regs and trapnr to early_fixup_exception()")
+548acf19234d ("x86/mm: Expand the exception table logic to allow new handling options")

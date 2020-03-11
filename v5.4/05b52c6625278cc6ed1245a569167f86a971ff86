@@ -1,0 +1,6 @@
+05b52c662527 ("selftests/seccomp: Use __NR_mknodat instead of __NR_mknod")
+279ed8900079 ("selftests/seccomp: Rename user_trap_syscall() to user_notif_syscall()")
+ad5682184a81 ("selftests/seccomp: Check for EPOLLHUP for user_notif")
+51891498f2da ("seccomp: allow TSYNC and USER_NOTIF together")
+2aa8d8d04ca2 ("seccomp: fix SECCOMP_USER_NOTIF_FLAG_CONTINUE test")
+0eebfed2954f ("seccomp: test SECCOMP_USER_NOTIF_FLAG_CONTINUE")

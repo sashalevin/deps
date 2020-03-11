@@ -1,0 +1,8 @@
+b2d57b56047b ("i2c: mux: add support for 'i2c-mux', 'i2c-arb' and 'i2c-gate' DT subnodes")
+6ef91fcca8a8 ("i2c: mux: relax locking of the top i2c adapter during mux-locked muxing")
+fa96f0cb9b37 ("i2c: muxes always lock the parent adapter")
+8320f495cf44 ("i2c: allow adapter drivers to override the adapter locking")
+23fe440c59b9 ("i2c: mux: drop old unused i2c-mux api")
+4bbe7fb0a232 ("i2c: i2c-mux-pinctrl: convert to use an explicit i2c mux core")
+bb44814763ff ("i2c: i2c-mux-gpio: convert to use an explicit i2c mux core")
+a7ab72390b77 ("i2c: mux: add common data for every i2c-mux instance")

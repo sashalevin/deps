@@ -1,0 +1,4 @@
+9b32a59687f5 ("IB/srpt: Simplify ib_post_(send|recv|srq_recv)() calls")
+2a78cb4db487 ("IB/srpt: Fix an out-of-bounds stack access in srpt_zerolength_write()")
+63d370a6a929 ("IB/srpt: Log all zero-length writes and completions")
+dea262094cdf ("IB/srpt: Change default behavior from using SRQ to using RC")

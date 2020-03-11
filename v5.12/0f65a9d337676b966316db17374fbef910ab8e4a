@@ -1,0 +1,5 @@
+0f65a9d33767 ("KVM: VMX: Don't do full kick when triggering posted interrupt "fails"")
+fdba608f15e2 ("KVM: VMX: Wake vCPU when delivering posted IRQ even if vCPU == this vCPU")
+37c4dbf337c5 ("KVM: x86: check PIR even for vCPUs with disabled APICv")
+78311a514099 ("KVM: x86: ignore APICv if LAPIC is not enabled")
+de7cd3f6761f ("KVM: x86: check for interrupts before deciding whether to exit the fast path")

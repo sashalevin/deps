@@ -1,0 +1,5 @@
+0e79ad863df4 ("x86/cpu: Fix a -Wmissing-prototypes warning for init_ia32_feat_ctl()")
+b47ce1fed42e ("x86/cpu: Detect VMX features on Intel, Centaur and Zhaoxin CPUs")
+159348784ff0 ("x86/vmx: Introduce VMX_FEATURES_*")
+ef4d3bf19855 ("x86/cpu: Clear VMX feature flag if VMX is not fully enabled")
+1db2a6e1e29f ("x86/intel: Initialize IA32_FEAT_CTL MSR at boot")

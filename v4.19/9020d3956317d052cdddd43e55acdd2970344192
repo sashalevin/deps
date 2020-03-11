@@ -1,0 +1,6 @@
+9020d3956317 ("x86/alternatives: Move temporary_mm helpers into C")
+4fc19708b165 ("x86/alternatives: Initialize temporary mm for patching")
+d97080ebed78 ("x86/mm: Save debug registers when loading a temporary mm")
+cefa929c034e ("x86/mm: Introduce temporary mm structs")
+e836673c9b49 ("x86/alternatives: Add text_poke_kgdb() to not assert the lock when debugging")
+0d02113b31b2 ("x86/mm: Fix a crash with kmemleak_scan()")

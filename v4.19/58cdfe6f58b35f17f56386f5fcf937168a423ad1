@@ -1,0 +1,5 @@
+58cdfe6f58b3 ("thunderbolt: Rename shadowed variables bit to interrupt_bit and auto_clear_bit")
+468c49f44759 ("thunderbolt: Disable interrupt auto clear for rings")
+7a1808f82a37 ("thunderbolt: Handle ring interrupt by reading interrupt status register")
+e390909ac763 ("thunderbolt: Add vendor specific NHI quirk for auto-clearing interrupt status")
+daa5140f7e71 ("thunderbolt: Make the driver less verbose")

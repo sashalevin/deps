@@ -1,0 +1,7 @@
+04b8eb7a4ccd ("symbol lookup: introduce dereference_symbol_descriptor()")
+fd46cd55fbc5 ("printk-formats.txt: Add examples for %pF and %pS usage")
+d6957f3396d0 ("printk-formats.txt: Better describe the difference between %pS and %pF")
+3b033380cb8d ("printk-formats.txt: standardize document format")
+63b23e2cbc8e ("kernel/kallsyms.c: replace all_var with IS_ENABLED(CONFIG_KALLSYMS_ALL)")
+ce4fecf1fe15 ("vsprintf: Add %p extension "%pOF" for device tree")
+0b523769ebb9 ("checkpatch: add ability to find bad uses of vsprintf %p<foo> extensions")

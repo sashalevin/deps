@@ -1,0 +1,7 @@
+6eb4da8cf545 ("iommu: Have __iommu_probe_device() check for already probed devices")
+01657bc14a39 ("iommu: Avoid races around device probe")
+29e932295bfa ("iommu: Clean up bus_set_iommu()")
+57365a04c921 ("iommu: Move bus setup to IOMMU device registration")
+c13dbc1e2485 ("iommu: Always register bus notifiers")
+a5f1bd1afacd ("iommu: Remove iommu group changes notifier")
+3f6634d997db ("iommu: Use right way to retrieve iommu_ops")

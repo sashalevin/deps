@@ -1,0 +1,7 @@
+0cd2a787cffb ("s390/gmap: make gmap memcg aware")
+40e90656c135 ("s390/mm: use refcount_t for refcount")
+a9e00d8349c9 ("s390/mm: Add huge page gmap linking support")
+6a3762778d1b ("s390/mm: Add gmap pmd invalidation and clearing")
+2c46e974dd8b ("s390/mm: Abstract gmap notify bit setting")
+5a045bb9c44c ("s390/mm: Make gmap_protect_range more modular")
+c9f0a2b87f9e ("KVM: s390: Refactor host cmma and pfmfi interpretation controls")

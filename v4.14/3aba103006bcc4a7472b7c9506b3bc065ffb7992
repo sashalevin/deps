@@ -1,0 +1,7 @@
+3aba103006bc ("net/smc: align the connect behaviour with TCP")
+1a74e9932374 ("net/smc: Fix sock leak when release after smc_shutdown()")
+86434744fedf ("net/smc: add fallback check to connect()")
+301428ea3708 ("net/smc: fix refcounting for non-blocking connect()")
+cd2063604ea6 ("net/smc: avoid fallback in case of non-blocking connect")
+f9cedf1a9b1c ("net/smc: do not schedule tx_work in SMC_CLOSED state")
+6b0a7f84ea1f ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

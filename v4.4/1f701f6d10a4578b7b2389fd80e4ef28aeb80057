@@ -1,0 +1,7 @@
+1f701f6d10a4 ("Input: pagasus_notetaker - fix deadlock in autosuspend")
+f959cd8c0eaf ("Input: pegasus_notetaker - directly include workqueue header")
+c1d7b7c1817a ("Input: pegasus_notetaker - set device mode in reset_resume() if in use")
+f32f5394415a ("Input: pegasus_notetaker - cancel workqueue's work in suspend()")
+9d3bef0be57d ("Input: pegasus_notetaker - fix usb_autopm calls to be balanced")
+168c1398e066 ("Input: pegasus_notetaker - handle usb control msg errors")
+1afca2b66aac ("Input: add Pegasus Notetaker tablet driver")

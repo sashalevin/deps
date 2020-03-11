@@ -1,0 +1,8 @@
+5d062aba0d39 ("usb: host: xhci: fix up Control Transfer TRB decoder")
+a37c3f76e6a6 ("usb: host: xhci: make a generic TRB tracer")
+f97c08ae329b ("xhci: rename endpoint related trb variables")
+30a65b45bfb1 ("xhci: cleanup and refactor process_bulk_intr_td()")
+0b6c324c8b60 ("xhci: cleanup and refactor process_ctrl_td()")
+52ab86852f74 ("xhci: remove extra URB_SHORT_NOT_OK checks in xhci, core handles most cases")
+0ce5749959c6 ("xhci: add trb_is_noop() helper function")
+3495e451d137 ("xhci: use trb helper functions when possible")

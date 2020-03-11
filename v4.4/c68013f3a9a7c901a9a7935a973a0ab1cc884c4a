@@ -1,0 +1,8 @@
+c68013f3a9a7 ("iio: adc: ina2xx: Remove unneeded dummy read to clear CNVR flag")
+e5c2ce6bacfa ("iio: adc: Fix polling of INA219 conversion ready flag")
+ac23d64defcd ("iio: adc: Fix bad GENMASK use, typos, whitespace")
+1961bce76452 ("iio: ina2xx: Remove trace_printk debug statments")
+7906dd52c5a0 ("iio: ina2xx: Fix whitespace and re-order code")
+b17dc40155a9 ("iio: ina2xx: re-instate a sysfs show/store for the shunt resistor value")
+f9993c0771ce ("iio: ina2xx: provide a sysfs parameter to allow async readout of the ADCs")
+c43a102e67db ("iio: ina2xx: add support for TI INA2xx Power Monitors")

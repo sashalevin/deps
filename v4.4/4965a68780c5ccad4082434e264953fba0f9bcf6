@@ -1,0 +1,8 @@
+4965a68780c5 ("arch: define the ARCH_DMA_ADDR_T_64BIT config symbol in lib/Kconfig")
+d4a451d5fc84 ("arch: remove the ARCH_PHYS_ADDR_T_64BIT config symbol")
+f616ab59c294 ("dma-mapping: move the NEED_DMA_MAP_STATE config symbol to lib/Kconfig")
+86596f0a2833 ("scatterlist: move the NEED_SG_DMA_LENGTH config symbol to lib/Kconfig")
+a4ce5a48d753 ("iommu-helper: move the IOMMU_HELPER config symbol to lib/")
+79c1879ee547 ("iommu-helper: mark iommu_is_span_boundary as inline")
+6e88628d03dd ("dma-debug: remove CONFIG_HAVE_DMA_API_DEBUG")
+5b1f3dc927a2 ("Merge branch 'irq-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

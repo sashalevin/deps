@@ -1,0 +1,8 @@
+3306877aff07 ("ALSA: memalloc: don't pass bogus GFP_ flags to dma_alloc_*")
+a61c7d88d38c ("ALSA: memalloc: use __GFP_RETRY_MAYFAIL for DMA mem allocs")
+dd164fbfdc20 ("ALSA: memalloc: Drop special handling of GFP for CONTINUOUS allocation")
+a8d302a0b770 ("ALSA: memalloc: Revive x86-specific WC page allocations again")
+9882d63bea14 ("ALSA: memalloc: Drop x86-specific hack for WC allocations")
+925ca893b4a6 ("ALSA: memalloc: Add fallback SG-buffer allocations for x86")
+8e1741c65899 ("ALSA: memalloc: Fix dma_need_sync() checks")
+2c95b92ecd92 ("ALSA: memalloc: Unify x86 SG-buffer handling (take#3)")

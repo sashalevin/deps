@@ -1,0 +1,6 @@
+59b37fe52f49 ("arm64: Stash shadow stack pointer in the task struct on interrupt")
+f8049488e7d3 ("arm64: entry: add a call_on_irq_stack helper")
+105fc3352077 ("arm64: entry: move el1 irq/nmi logic to C")
+da1926764832 ("arm64: entry: mark entry code as noinstr")
+e16aeb072682 ("arm64: ptrauth: Introduce Armv8.3 pointer authentication enhancements")
+8ef8f360cf30 ("arm64: Basic Branch Target Identification support")

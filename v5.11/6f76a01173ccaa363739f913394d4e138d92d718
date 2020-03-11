@@ -1,0 +1,4 @@
+6f76a01173cc ("powerpc/syscall: implement system call entry/exit logic in C for PPC32")
+76249ddc2708 ("powerpc/32: On syscall entry, enable instruction translation at the same time as data")
+eca2411040c1 ("powerpc/32: Always enable data translation on syscall entry")
+57fdfbce8913 ("powerpc/32s: Add missing call to kuep_lock on syscall entry")

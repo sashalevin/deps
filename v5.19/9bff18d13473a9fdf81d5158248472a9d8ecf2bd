@@ -1,0 +1,5 @@
+9bff18d13473 ("drm/ttm: use per BO cleanup workers")
+cd3a8a596214 ("drm/ttm: remove ttm_bo_(un)lock_delayed_workqueue")
+5aea37bf4112 ("drm/i915: un-inline i915_gem_drain_freed_objects()")
+230bb131a614 ("drm/i915: un-inline i915_gem_drain_workqueue()")
+2826d447fbd6 ("drm/i915/gem: Remove shared locking on freeing objects")

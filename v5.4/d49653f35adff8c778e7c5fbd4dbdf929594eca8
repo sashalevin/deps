@@ -1,0 +1,8 @@
+d49653f35adf ("mm: mmu_notifier: fix and extend kerneldoc")
+5292e24a6acf ("mm/mmu_notifiers: Use 'interval_sub' as the variable for mmu_interval_notifier")
+984cfe4e2526 ("mm/mmu_notifier: Rename struct mmu_notifier_mm to mmu_notifier_subscriptions")
+a22dd506400d ("mm/hmm: remove hmm_mirror and related")
+107e899874e9 ("mm/hmm: define the pre-processor related parts of hmm.h even if disabled")
+04ec32fbc2b2 ("mm/hmm: allow hmm_range to be used with a mmu_interval_notifier or hmm_mirror")
+99cb252f5e68 ("mm/mmu_notifier: add an interval tree notifier")
+56f434f40f05 ("mm/mmu_notifier: define the header pre-processor parts even if disabled")

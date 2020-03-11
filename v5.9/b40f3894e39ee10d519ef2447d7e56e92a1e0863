@@ -1,0 +1,6 @@
+b40f3894e39e ("scsi: qedi: Complete TMF works before disconnect")
+60a0d379f11b ("scsi: qedi: Pass send_iscsi_tmf task to abort")
+f7eea75262fc ("scsi: qedi: Fix TMF tid allocation")
+5b04d050cde4 ("scsi: qedi: Fix use after free during abort cleanup")
+2ce002366a3f ("scsi: qedi: Fix race during abort timeouts")
+28b35d17f9f8 ("scsi: qedi: Fix list_del corruption while removing active I/O")

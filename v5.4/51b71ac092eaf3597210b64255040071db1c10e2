@@ -1,0 +1,4 @@
+51b71ac092ea ("mtd: rawnand: cs553x: Get rid of the legacy interface implementation")
+b4ed6328b93d ("mtd: rawnand: cs553x: Implement exec_op()")
+ba03e4833946 ("mtd: rawnand: cs553x: Stop using chip->legacy.IO_ADDR_{R, W}")
+c9e1817ff945 ("mtd: rawnand: cs553x: Declare controllers instead of NAND chips")

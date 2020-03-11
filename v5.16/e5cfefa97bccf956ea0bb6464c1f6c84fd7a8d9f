@@ -1,0 +1,8 @@
+e5cfefa97bcc ("block: fix scan partition for exclusively open device again")
+0f77b29ad14e ("block: Revert "block: Do not reread partition table on exclusively open device"")
+36369f46e917 ("block: Do not reread partition table on exclusively open device")
+704b914f15fb ("blk-mq: move srcu from blk_mq_hw_ctx to request_queue")
+2a904d00855f ("blk-mq: remove hctx_lock and hctx_unlock")
+1e9c23034d7b ("blk-mq: move more plug handling from blk_mq_submit_bio into blk_add_rq_to_plug")
+0c5bcc92d94a ("blk-mq: simplify the plug handling in blk_mq_submit_bio")
+e16e506ccd67 ("block: merge disk_scan_partitions and blkdev_reread_part")

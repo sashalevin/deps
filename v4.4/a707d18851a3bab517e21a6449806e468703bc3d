@@ -1,0 +1,5 @@
+a707d18851a3 ("sfc: read back RX hash config from the NIC when querying it with ethtool -x")
+f74d1995192c ("sfc: support setting RSS hash key through ethtool API")
+4fdda95893de ("sfc: don't report RX hash keys to ethtool when RSS wasn't enabled")
+b718c88a62c9 ("sfc: report 4-tuple UDP hashing to ethtool, if it's enabled")
+a33a4c738105 ("sfc: enable 4-tuple RSS hashing for UDP")

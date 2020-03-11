@@ -1,0 +1,7 @@
+428771b61afd ("mtd: rawnand: qcom: Use u8 instead of uint8_t")
+767eb6fbdedb ("mtd: rawnand: Pass a nand_chip object to ecc->write_xxx() hooks")
+b976168757f7 ("mtd: rawnand: Pass a nand_chip object to ecc->read_xxx() hooks")
+00da2ea97229 ("mtd: rawnand: Pass a nand_chip object to ecc->correct()")
+af37d2c3a8c7 ("mtd: rawnand: Pass a nand_chip object to ecc->calculate()")
+ec47636cd7e7 ("mtd: rawnand: Pass a nand_chip object to ecc->hwctl()")
+f223713f1517 ("mtd: rawnand: toshiba: Add support for Toshiba Memory BENAND (Built-in ECC NAND)")

@@ -1,0 +1,4 @@
+689d592e4069 ("powerpc/boot: Separate target flags from BOOTCFLAGS")
+2b694fc96fe3 ("powerpc/boot: Disable power10 features after BOOTAFLAGS assignment")
+d1c5accacb23 ("powerpc/boot: Only use '-mabi=elfv2' with CONFIG_PPC64_BOOT_WRAPPER")
+ff7c76f66d8b ("powerpc/boot: Don't always pass -mcpu=powerpc when building 32-bit uImage")

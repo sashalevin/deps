@@ -1,0 +1,5 @@
+8e5e62156648 ("rcu/exp: Make parallel exp gp kworker per rcu node")
+c19e5d3b497a ("rcu/exp: Move expedited kthread worker creation functions above rcutree_prepare_cpu()")
+7836b2706076 ("rcu: s/boost_kthread_mutex/kthread_mutex")
+e7539ffc9a77 ("rcu/exp: Handle RCU expedited grace period kworker allocation failure")
+a636c5e6f8fc ("rcu/exp: Fix RCU expedited parallel grace period kworker allocation failure recovery")

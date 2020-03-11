@@ -1,0 +1,7 @@
+975707f227b0 ("sched: Prepare to use balance_push in ttwu()")
+22f667c97aad ("sched: Don't run cpu-online with balance_push() enabled")
+ae7927023243 ("sched: Optimize finish_lock_switch()")
+120455c514f7 ("sched: Fix hotplug vs CPU bandwidth control")
+1cf12e08bc4d ("sched/hotplug: Consolidate task migration on CPU unplug")
+2558aacff858 ("sched/hotplug: Ensure only per-cpu kthreads run during hotplug")
+565790d28b1e ("sched: Fix balance_callback()")

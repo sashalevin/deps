@@ -1,0 +1,6 @@
+6c17ea1f3eaa ("cpu/SMT: Enable SMT only if a core is online")
+38253464bc82 ("cpu/SMT: Create topology_smt_thread_allowed()")
+6f0621238b7e ("cpu/hotplug: Add CPU state tracking and synchronization")
+22b612e2d53f ("cpu/hotplug: Rework sparse_irq locking in bringup_cpu()")
+b7ba6d8dc356 ("cpu/hotplug: Remove the 'cpu' member of cpuhp_cpu_state")
+ebca71a8c96f ("cpu/hotplug: Add debug printks for hotplug callback failures")

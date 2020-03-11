@@ -1,0 +1,6 @@
+ba1287e73182 ("iio: imx7d_adc: Don't pass IIO device to imx7d_adc_{enable,disable}()")
+b846676066eb ("iio: imx7d_adc: Simplify imx7d_adc_remove() with imx7d_adc_suspend()")
+4fe86cdf927a ("iio: imx7d_adc: Simplify imx7d_adc_probe() with imx7d_adc_resume()")
+aa21a28e9050 ("iio: imx7d_adc: Add local struct device pointer in imx7d_adc_probe()")
+16846ebeffe4 ("iio: adc: add IMX7D ADC driver support")
+c43a102e67db ("iio: ina2xx: add support for TI INA2xx Power Monitors")

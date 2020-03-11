@@ -1,0 +1,7 @@
+7a3319c1cd63 ("dell-led: move driver to drivers/platform/x86/dell-wmi-led.c")
+e5aa482a8add ("dell-led: remove code related to mic mute LED")
+44319ab7e0ed ("platform/x86: dell-laptop: import dell_micmute_led_set() from drivers/leds/dell-led.c")
+fa5923cea8da ("ALSA: hda - use dell_micmute_led_set() instead of dell_app_wmi_led_set()")
+6dbea8535d17 ("dell-led: remove GUID check from dell_micmute_led_set()")
+0c41a08e131d ("dell-led: use dell_smbios_send_request() for performing SMBIOS calls")
+cf0d7ea33596 ("dell-led: use dell_smbios_find_token() for finding mic DMI tokens")

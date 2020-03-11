@@ -1,0 +1,8 @@
+102b55ee92f9 ("net: sched: fix tx action rescheduling issue during deactivation")
+2fb541c862c9 ("net: sch_generic: aviod concurrent reset and enqueue op for lockless qdisc")
+70f50965338a ("net_sched: avoid resetting active qdisc for multiple times")
+96009c7d500e ("sched: replace __QDISC_STATE_RUNNING bit with a spin lock")
+32f7b44d0f56 ("sched: manipulate __QDISC_STATE_RUNNING in qdisc_run_* helpers")
+29b86cdac00a ("net: sched: remove remaining uses for qdisc_qlen in xmit path")
+6b3ba9146fe6 ("net: sched: allow qdiscs to handle locking")
+6c148184b5c8 ("net: sched: cleanup qdisc_run and __qdisc_run semantics")

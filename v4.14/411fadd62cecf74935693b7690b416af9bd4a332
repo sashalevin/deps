@@ -1,0 +1,4 @@
+411fadd62cec ("parisc: Avoid flushing cache on cache-less machines")
+4c5fe5db1ac6 ("parisc: Optimze cache flush algorithms")
+9ef0f88fe546 ("parisc: Handle case where flush_cache_range is called with no context")
+0adb24e03a12 ("parisc: Fix ordering of cache and TLB flushes")

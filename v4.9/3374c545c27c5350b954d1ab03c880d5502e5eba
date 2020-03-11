@@ -1,0 +1,7 @@
+3374c545c27c ("PCI: Account for all bridges on bus when distributing bus numbers")
+1c02ea810065 ("PCI: Distribute available buses to hotplug-capable bridges")
+a20c7f36bd3d ("PCI: Do not allocate more buses than available in parent")
+4147c2fd9b12 ("PCI: Open-code the two pass loop when scanning bridges")
+95e3ba977233 ("PCI: Move pci_hp_add_bridge() to drivers/pci/probe.c")
+24a0c654d7d6 ("PCI: Add for_each_pci_bridge() helper")
+bccf90d6e063 ("PCI: Add a generic weak pcibios_fixup_bus()")

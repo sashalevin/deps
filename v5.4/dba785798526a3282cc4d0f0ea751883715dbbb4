@@ -1,0 +1,4 @@
+dba785798526 ("gpio: pca953x: fix irq_stat not updated when irq is disabled (irq_mask not set)")
+35d13d94893f ("gpio: pca953x: convert to use bitmap API")
+a97832f22489 ("gpio: pca953x: remove redundant variable and check in IRQ handler")
+ae81217edc18 ("gpio: pca953x: utilize the for_each_set_clump8 macro")

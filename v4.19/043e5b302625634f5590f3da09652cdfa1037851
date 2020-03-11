@@ -1,0 +1,8 @@
+043e5b302625 ("drm/msm/dpu: add formats check for writeback encoder")
+4c1e9df72645 ("drm/msm/dpu: don't access mode pointer before it is set")
+d7d0e73f7de3 ("drm/msm/dpu: introduce the dpu_encoder_phys_* for writeback")
+366334a3127e ("drm/msm/dpu: remove phys_vid subclass")
+b6057cda8f6c ("drm/msm/dpu: move hw_inf encoder baseclass")
+906216baa0a8 ("drm/msm/dpu: avoid querying for hw intf before assignment")
+3f4db2e2cc41 ("drm/msm/dpu: iterate for assigned hw ctl in virtual encoder")
+57250ca54333 ("drm/msm/dpu: use kms stored hw mdp block")

@@ -1,0 +1,7 @@
+131d08e122ea ("block: split the blk-mq case from elevator_init")
+acddf3b308f6 ("block: move sysfs_lock into elevator_init")
+ddb7253254fe ("block: remove the always unused name argument to elevator_init")
+a8a275c9c2fb ("block: unexport elevator_init/exit")
+cbf62af3537a ("block: move initialization of elevator-related fields to blk_alloc_queue_node")
+83d016ac8642 ("block: Unexport elv_register_queue() and elv_unregister_queue()")
+2527d99789e2 ("elevator: lookup mq vs non-mq elevators")

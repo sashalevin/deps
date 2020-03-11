@@ -1,0 +1,6 @@
+71cc64a85d8d ("powerpc: use task_pid_nr() for TID allocation")
+3449f191ca9b ("powerpc: Use TIDR CPU feature to control TIDR allocation")
+384dfd627f1e ("powerpc/kernel: Block interrupts when updating TIDR")
+7e4d4233260b ("powerpc: Do not assign thread.tidr if already assigned")
+aca7573fde95 ("powerpc: Avoid signed to unsigned conversion in set_thread_tidr()")
+ec233ede4c86 ("powerpc: Add support for setting SPRN_TIDR")

@@ -1,0 +1,6 @@
+79b20beccea3 ("scsi: lpfc: Fix use-after-free in lpfc_unreg_rpi() routine")
+fe83e3b9b422 ("scsi: lpfc: Fix node handling for Fabric Controller and Domain Controller")
+01131e7aae5d ("scsi: lpfc: Fix unreleased RPIs when NPIV ports are created")
+bb6fd33e3a0c ("scsi: lpfc: Fix nodeinfo debugfs output")
+143753059b8b ("scsi: lpfc: Fix PLOGI ACC to be transmit after REG_LOGIN")
+07aaefdf75c5 ("scsi: lpfc: Fix crash when a fabric node is released prematurely")

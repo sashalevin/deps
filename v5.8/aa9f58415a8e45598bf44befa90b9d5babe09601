@@ -1,0 +1,5 @@
+aa9f58415a8e ("KVM: SVM: Exit to userspace on ENOMEM/EFAULT GHCB errors")
+ad5b353240c8 ("KVM: SVM: Do not terminate SEV-ES guests on GHCB validation failure")
+a655276a5949 ("KVM: SEV: Fall back to vmalloc for SEV-ES scratch area if necessary")
+75236f5f2299 ("KVM: SEV: Return appropriate error codes if SEV-ES scratch setup fails")
+1f05833193d8 ("Merge branch 'kvm-sev-move-context' into kvm-master")

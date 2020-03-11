@@ -1,0 +1,7 @@
+39f87561454d ("powerpc/smp: Move ppc_md.cpu_die() to smp_ops.cpu_offline_self()")
+32a820670fa0 ("powerpc/powermac: Blacklist functions running with MMU disabled for kprobe")
+7d6475051fb3 ("powerpc/powernv: Fix CPU idle to be called with IRQs disabled")
+19f8a5b5be28 ("powerpc/powernv: Don't reprogram SLW image on every KVM guest entry/exit")
+d7cceda96bad ("powerpc: change CONFIG_6xx to CONFIG_PPC_BOOK3S_32")
+badf436f6fa5 ("powerpc/Makefiles: Convert ifeq to ifdef where possible")
+c90fca951e90 ("Merge tag 'powerpc-4.18-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

@@ -1,0 +1,4 @@
+193061ea0a50 ("drivers: hv: Mark percpu hvcall input arg page unencrypted in SEV-SNP enlightened guest")
+9636be85cc5b ("x86/hyperv: Fix hyperv_pcpu_input_arg handling when CPUs go online/offline")
+9a6b1a170ca8 ("Drivers: hv: vmbus: Remove the per-CPU post_msg_page")
+aaf12a7b4323 ("KVM: Rename and move CPUHP_AP_KVM_STARTING to ONLINE section")

@@ -1,0 +1,8 @@
+9ffbbb435d8f ("block: introduce BIO_ZONE_WRITE_LOCKED bio flag")
+30c5d3456c27 ("block: do not reassig ->bi_bdev when partition remapping")
+2f9f6221b9b9 ("block: simplify submit_bio_checks a bit")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")
+52f019d43c22 ("block: add a hard-readonly flag to struct gendisk")
+6f0d9689b670 ("block: remove the NULL bdev check in bdev_read_only")
+69f637c33560 ("Merge tag 'for-5.11/drivers-2020-12-14' of git://git.kernel.dk/linux-block")

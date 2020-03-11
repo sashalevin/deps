@@ -1,0 +1,7 @@
+2da5bffe9eaa ("drm/sched: Check scheduler work queue before calling timeout handling")
+11b3b9f461c5 ("drm/sched: Check scheduler ready before calling timeout handling")
+78efe21b6f8e ("drm/sched: Allow using a dedicated workqueue for the timeout/fault tdr")
+1fad1b7ed1eb ("drm/sched: Document what the timedout_job method should do")
+c107171b8d32 ("drm/amdgpu: add the sched_score to amdgpu_ring_init")
+f2f12eb9c32b ("drm/scheduler: provide scheduler score externally")
+a6a1f036c74e ("drm/scheduler: Job timeout handler returns status (v3)")

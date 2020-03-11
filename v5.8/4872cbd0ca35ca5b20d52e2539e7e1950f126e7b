@@ -1,0 +1,3 @@
+4872cbd0ca35 ("powerpc: Add dear as a synonym for pt_regs.dar register")
+4f8e78c0757e ("powerpc: Add esr as a synonym for pt_regs.dsisr")
+2ec42996f5b1 ("powerpc/process: Replace an #if defined(CONFIG_4xx) || defined(CONFIG_BOOKE) by IS_ENABLED()")

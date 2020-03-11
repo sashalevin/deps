@@ -1,0 +1,4 @@
+38355eec6a7d ("afs: Set error flag rather than return error from file status decode")
+b98f0ec91c42 ("afs: Fix rename operation status delivery")
+3e0d9892c0e7 ("afs: Fix decoding of inline abort codes from version 1 status records")
+c72057b56f7e ("afs: Fix missing XDR advance in xdr_decode_{AFS,YFS}FSFetchStatus()")

@@ -1,0 +1,8 @@
+9ceecc2589b9 ("m68k/cpu: Switch to arch_cpu_finalize_init()")
+575d6b77fa26 ("m68k: Implement "current_stack_pointer"")
+419e2f183881 ("dma-mapping: remove arch_dma_mmap_pgprot")
+936376f88ff1 ("arm: select the dma-noncoherent symbols for all swiotlb builds")
+33dcb37cef74 ("dma-mapping: fix page attributes for dma_mmap_*")
+ad3c7b18c5b3 ("arm: use swiotlb for bounce buffering on LPAE configs")
+9087c37584fb ("dma-direct: Force unencrypted DMA under SME for certain DMA masks")
+9e3a25dc992d ("Merge tag 'dma-mapping-5.3' of git://git.infradead.org/users/hch/dma-mapping")

@@ -1,0 +1,8 @@
+3fe1d0a48d21 ("ixgbe: XDP: fix checker warning from rcu pointer")
+d0bcacd0a130 ("ixgbe: add AF_XDP zero-copy Rx support")
+46515fdb1adf ("ixgbe: move common Rx functions to ixgbe_txrx_common.h")
+1918e937ca3b ("ixgbe: Refactor queue disable logic to take completion time into account")
+3b5f14b50ee2 ("ixgbe: Reorder Tx/Rx shutdown to reduce time needed to stop device")
+eadec877ce9c ("net: Add support for subordinate traffic classes to netdev_pick_tx")
+58b0b3ed4c22 ("ixgbe: Add code to populate and use macvlan TC to Tx queue map")
+5cd3da4ba239 ("Merge ra.kernel.org:/pub/scm/linux/kernel/git/davem/net")

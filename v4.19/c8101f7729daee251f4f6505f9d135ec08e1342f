@@ -1,1 +1,3 @@
 c8101f7729da ("net: dsa: Fix lockdep false positive splat")
+91ba47957379 ("net: dsa: Restore MTU on master device on unload")
+dc0fe7d47f9f ("net: dsa: Set the master device's MTU to account for DSA overheads")

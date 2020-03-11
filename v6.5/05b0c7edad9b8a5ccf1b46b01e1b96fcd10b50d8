@@ -1,0 +1,4 @@
+05b0c7edad9b ("mm: drop page_index and simplify folio_index")
+cfeed8ffe55b ("mm/swap: stop using page->private on tail pages for THP_SWAP")
+b10ff04dc0ec ("mm: add tail private fields to struct folio")
+fc1878ec70ed ("mm: remove page_rmapping()")

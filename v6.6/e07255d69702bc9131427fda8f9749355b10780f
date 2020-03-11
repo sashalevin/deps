@@ -1,0 +1,4 @@
+e07255d69702 ("arm64: tlb: Improve __TLBI_VADDR_RANGE()")
+c910f2b65518 ("arm64/mm: Update tlb invalidation routines for FEAT_LPA2")
+e2768b798a19 ("arm64/mm: Modify range-based tlbi to decrement scale")
+d70bac1d22f0 ("arm64: Avoid cpus_have_const_cap() for ARM64_HAS_ARMv8_4_TTL")

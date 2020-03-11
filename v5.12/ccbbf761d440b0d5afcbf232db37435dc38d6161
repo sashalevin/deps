@@ -1,0 +1,5 @@
+ccbbf761d440 ("truncate: Skip known-truncated indices")
+1e84a3d997b7 ("truncate,shmem: Add truncate_inode_folio()")
+7b774aab7941 ("shmem: Convert part of shmem_undo_range() to use a folio")
+efe99bba2862 ("truncate: Add truncate_cleanup_folio()")
+22061a1ffabd ("mm/thp: unmap_mapping_page() to fix THP truncate_cleanup_page()")

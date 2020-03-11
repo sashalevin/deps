@@ -1,0 +1,8 @@
+9df0e0c18896 ("drm/panfrost: perfcnt: fix ref count leak in panfrost_perfcnt_enable_locked")
+496d0cc63f9c ("drm/panfrost: remove _unlocked suffix in drm_gem_object_put_unlocked")
+fe154a242233 ("drm/panfrost: Remove set but not used variable 'bo'")
+bdefca2d8dc0 ("drm/panfrost: Add the panfrost_gem_mapping concept")
+0a5239985a3b ("drm/panfrost: Open/close the perfcnt BO")
+aed44cbeae2b ("drm/panfrost: Fix a race in panfrost_gem_free_object()")
+3bb69dbcb9e8 ("drm/panfrost: Fix a BO leak in panfrost_ioctl_mmap_bo()")
+70cc77952efe ("drm/panfrost: Fix a race in panfrost_ioctl_madvise()")

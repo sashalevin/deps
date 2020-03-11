@@ -1,0 +1,5 @@
+6086aeb49e3d ("zram: Remove ZRAM_LOCK")
+9518e5bfaae1 ("zram: Replace bit spinlocks with a spinlock_t.")
+a7a0350583ba ("zram: split memory-tracking and ac-time tracking")
+af8b04c63708 ("zram: simplify bvec iteration in __zram_make_request")
+9fe95babc742 ("zram: remove valid_io_request")

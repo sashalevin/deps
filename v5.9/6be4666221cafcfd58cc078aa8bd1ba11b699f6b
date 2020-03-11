@@ -1,0 +1,8 @@
+6be4666221ca ("use __netdev_notify_peers in ibmvnic")
+0cb4bc66ba5e ("ibmvnic: restore adapter state on failed reset")
+18f141bf97d4 ("ibmvnic: stop free_all_rwi on failed reset")
+98025bce3a62 ("ibmvnic: notify peers when failover and migration happen")
+8393597579f5 ("ibmvnic: fix call_netdevice_notifiers in do_reset")
+635e442f4a48 ("ibmvnic: merge ibmvnic_reset_init and ibmvnic_init")
+550f4d46aff6 ("ibmvnic: remove never executed if statement")
+fa68bfab1e71 ("ibmvnic: improve ibmvnic_init and ibmvnic_reset_init")

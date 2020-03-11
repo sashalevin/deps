@@ -1,0 +1,4 @@
+1c9f5e06a613 ("follow_automount() doesn't need the entire nameidata")
+26df6034fdb2 ("fix automount/automount race properly")
+8f11538ebe98 ("do_add_mount(): lift lock_mount/unlock_mount into callers")
+d41efb522e90 ("fs/namei.c: pull positivity check into follow_managed()")

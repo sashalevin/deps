@@ -1,0 +1,5 @@
+06ace26f4e6f ("x86/efi: Free efi_pgd with free_pages()")
+e981316f5604 ("x86/efi: Add 5-level paging support")
+e0c4f6750e13 ("x86/mm: Convert trivial cases of page table walk to 5-level paging")
+67a9108ed431 ("x86/efi: Build our own page table structures")
+edc3b9129cec ("x86/mm/pat: Ensure cpa->pfn only contains page frame numbers")

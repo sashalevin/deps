@@ -1,0 +1,5 @@
+679abf381a18 ("fs/eventpoll.c: loosen irq safety in ep_poll()")
+ee8ef0a4b167 ("epoll: use the waitqueue lock to protect ep->wq")
+69112736e2f0 ("eventpoll: no need to mask the result of epi_item_poll() again")
+37b5e5212a44 ("epoll: remove ep_call_nested() from ep_eventpoll_poll()")
+57a173bdf5ba ("epoll: avoid calling ep_call_nested() from ep_poll_safewake()")

@@ -1,0 +1,4 @@
+b9b083f9044a ("md/raid10: convert resync_lock to use seqlock")
+4f350284a730 ("md/raid10: fix improper BUG_ON() in raise_barrier()")
+0de57e541bb4 ("md/raid10: don't modify 'nr_waitng' in wait_barrier() for the case nowait")
+ed2e063f92c4 ("md/raid10: factor out code from wait_barrier() to stop_waiting_barrier()")

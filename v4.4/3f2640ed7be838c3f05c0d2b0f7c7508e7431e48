@@ -1,0 +1,8 @@
+3f2640ed7be8 ("Revert "serial: 8250: Don't service RX FIFO if interrupts are disabled"")
+2e9fe5391083 ("serial: 8250: Don't service RX FIFO if interrupts are disabled")
+699a11ba7ec8 ("serial: 8250_port: Remove dangerous pr_debug()")
+934014d52206 ("tty: 8250, kill DEBUG_INTR")
+33d9b8b23a73 ("serial: 8250: Extract IIR logic steering from rx dma")
+b74fdd23d8fb ("serial: omap8250: Simplify rx dma completion interface")
+a86f50ed35a8 ("serial: 8250: Eliminate needless local in irq handlers")
+3f6b3ce071d3 ("serial: 8250: Refactor serial8250_rx_chars() inner loop")

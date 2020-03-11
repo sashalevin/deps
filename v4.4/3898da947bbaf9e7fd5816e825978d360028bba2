@@ -1,0 +1,5 @@
+3898da947bba ("KVM: avoid using rcu_dereference_protected")
+7e988b103d0d ("KVM: use correct accessor function for __kvm_memslots")
+a80cf7b5f414 ("KVM: mark memory slots as rcu")
+4a12f9517728 ("KVM: mark kvm->busses as rcu protected")
+58d30c36d472 ("Merge branch 'for-mingo' of git://git.kernel.org/pub/scm/linux/kernel/git/paulmck/linux-rcu into core/rcu")

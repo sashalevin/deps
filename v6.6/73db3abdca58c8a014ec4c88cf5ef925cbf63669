@@ -1,0 +1,6 @@
+73db3abdca58 ("init/modpost: conditionally check section mismatch to __meminit*")
+34fcf231dcf9 ("modpost: squash ALL_{INIT,EXIT}_TEXT_SECTIONS to ALL_TEXT_SECTIONS")
+48cd8df7afd1 ("modpost: remove EXIT_SECTIONS macro")
+473a45bb35f0 ("modpost: remove MEM_INIT_SECTIONS macro")
+6a4e59eeedc3 ("linux/init: remove __memexit* annotations")
+3ada34b0f655 ("modpost: remove ALL_EXIT_DATA_SECTIONS macro")

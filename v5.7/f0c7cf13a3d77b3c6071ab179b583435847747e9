@@ -1,0 +1,7 @@
+f0c7cf13a3d7 ("s390: make calls to TRACE_IRQS_OFF/TRACE_IRQS_ON balanced")
+9365965db0c7 ("s390: always clear kernel stack backchain before calling functions")
+b1cae1f84a0f ("s390: fix irq state tracing")
+4bff8cb54502 ("s390: convert to GENERIC_VDSO")
+478237a59512 ("s390/vdso: fix vDSO clock_getres()")
+2b2a25845d53 ("s390/vdso: Use $(LD) instead of $(CC) to link vDSO")
+0b0ed657fe00 ("s390: remove critical section cleanup from entry.S")

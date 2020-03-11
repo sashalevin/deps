@@ -1,0 +1,8 @@
+9dc6edcf676f ("SUNRPC: Clean up initialisation of the struct rpc_rqst")
+0dae72d581df ("sunrpc: Prevent duplicate XID allocation")
+37ac86c3a76c ("SUNRPC: Initialize rpc_rqst outside of xprt->reserve_lock")
+ff699ea8269a ("SUNRPC: Make num_reqs a non-atomic integer")
+90d91b0cd371 ("SUNRPC: Fix a race in the receive code path")
+92ea011f7cba ("SUNRPC: Make slot allocation more reliable")
+fb43d17210ba ("SUNRPC: Use the multipath iterator to assign a transport to each task")
+5edd1051f4f3 ("SUNRPC: Reorder rpc_task to put waitqueue related info in same cachelines")

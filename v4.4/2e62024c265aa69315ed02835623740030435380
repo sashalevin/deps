@@ -1,0 +1,4 @@
+2e62024c265a ("kprobes/x86: Use preempt_enable() in optimized_callback()")
+a19b2e3d7839 ("kprobes/x86: Remove IRQ disabling from ftrace-based/optimized kprobes")
+9a09f261a4fa ("kprobes/x86: Disable preemption in optprobe")
+cd52edad55fb ("kprobes/x86: Move the get_kprobe_ctlblk() into irq-disabled block")

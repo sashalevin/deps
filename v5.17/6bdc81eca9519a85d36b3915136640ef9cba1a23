@@ -1,0 +1,6 @@
+6bdc81eca951 ("powerpc/opcodes: Remove unused PPC_INST_XXX macros")
+ae2c760fa10b ("powerpc/inst: Remove PPC_INST_BL")
+4390a58ee1c3 ("powerpc/inst: Remove PPC_INST_BRANCH")
+e89aa642be21 ("powerpc/ftrace: Use PPC_RAW_xxx() macros instead of opencoding.")
+23b44fc248f4 ("powerpc/ftrace: Make __ftrace_make_{nop/call}() common to PPC32 and PPC64")
+74bbe3f08463 ("powerpc/bpf: Rename PPC_BL_ABS() to PPC_BL()")

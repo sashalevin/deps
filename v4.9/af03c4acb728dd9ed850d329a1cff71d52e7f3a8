@@ -1,0 +1,3 @@
+af03c4acb728 ("mm: add kernel_[sg]et_mempolicy() helpers; remove in-kernel calls to syscalls")
+b6e9b0babb7a ("mm: add kernel_migrate_pages() helper, move compat syscall to mm/mempolicy.c")
+cf01fb9985e8 ("mm/mempolicy.c: fix error handling in set_mempolicy and mbind.")

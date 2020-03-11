@@ -1,0 +1,7 @@
+068fdba10ea5 ("powerpc/32s: Move early_mmu_init() into mmu.c")
+1e83396f29d7 ("powerpc/32s: Inline flush_tlb_range() and flush_tlb_kernel_range()")
+fd1b4b7f51d0 ("powerpc/32s: Split and inline flush_tlb_mm() and flush_tlb_page()")
+cfe32ad0b3dc ("powerpc/32s: Move _tlbie() and _tlbia() prototypes to tlbflush.h")
+4cc445b4ff45 ("powerpc/32s: Use mmu_has_feature(MMU_FTR_HPTE_TABLE) instead of checking Hash var")
+a54d310856b9 ("powerpc/mm: Remove flush_tlb_page_nohash() prototype.")
+030e34743095 ("powerpc/32s: Don't flush all TLBs when flushing one page")

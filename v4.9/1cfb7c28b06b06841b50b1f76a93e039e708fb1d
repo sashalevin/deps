@@ -1,0 +1,6 @@
+1cfb7c28b06b ("mmc: tmio: convert to devm_platform_ioremap_resource")
+8d09a13386cc ("mmc: tmio: ioremap memory resource in tmio_mmc_host_alloc()")
+4139696b7978 ("mmc: tmio: use devm_ioremap_resource() instead of devm_ioremap()")
+4ce628179167 ("mmc: renesas_sdhi: remove eprobe jump label")
+ad7014b3949b ("mmc: host: tmio: drop superfluous exit path")
+06f438dd389a ("mmc: sh_mobile_sdhi: Add tuning support")

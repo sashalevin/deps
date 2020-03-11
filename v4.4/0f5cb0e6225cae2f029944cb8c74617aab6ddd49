@@ -1,0 +1,5 @@
+0f5cb0e6225c ("clk: at91: Fix division by zero in PLL recalc_rate()")
+a982e45dc150 ("clk: at91: PLL recalc_rate() now using cached MUL and DIV values")
+1bdf02326b71 ("clk: at91: make use of syscon/regmap internally")
+863a81c3be1d ("clk: at91: make use of syscon to share PMC registers in several drivers")
+d7a81d847bce ("clk: at91: Revert "keep slow clk enabled to prevent system hang"")

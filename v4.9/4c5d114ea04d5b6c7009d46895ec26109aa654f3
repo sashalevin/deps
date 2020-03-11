@@ -1,0 +1,5 @@
+4c5d114ea04d ("lib/Kconfig.debug: fix three typos in help text")
+eecabf567422 ("random: suppress spammy warnings about unseeded randomness")
+d06bfd1989fe ("random: warn when kernel uses unseeded randomness")
+c440408cf690 ("random: convert get_random_int/long into get_random_u32/u64")
+f5b98461cb81 ("random: use chacha20 for get_random_int/long")

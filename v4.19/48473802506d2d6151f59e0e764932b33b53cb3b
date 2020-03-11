@@ -1,0 +1,7 @@
+48473802506d ("tty: n_gsm: fix missing update of modem controls after DLCI open")
+5b87686e3203 ("tty: n_gsm: Modify gsmtty driver register method when config requester")
+0a360e8b65d6 ("tty: n_gsm: check error while registering tty devices")
+a579767c1f4e ("tty: n_gsm, eliminate indirection for gsm->{output,error}()")
+84d6f81c1fb5 ("tty: n_gsm: Fix SOF skipping")
+5677fcf376d5 ("n_gsm: switch dead to bool")
+43a9e710cbed ("tty: n_gsm: add helpers to convert mux-num to/from tty-base")

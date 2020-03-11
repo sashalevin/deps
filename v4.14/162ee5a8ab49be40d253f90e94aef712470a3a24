@@ -1,0 +1,4 @@
+162ee5a8ab49 ("x86/mm: Fix bogus warning during EFI bootup, use boot_cpu_has() instead of this_cpu_has() in build_cr3_noflush()")
+dd95f1a4b5ca ("x86/mm: Put MMU to hardware ASID translation in one place")
+cb0a9144a744 ("x86/mm: Remove hard-coded ASID limit checks")
+50fb83a62cf4 ("x86/mm: Move the CR3 construction functions to tlbflush.h")

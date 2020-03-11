@@ -1,0 +1,8 @@
+6ee28442a465 ("ima: Remove redundant policy rule set in add_rules()")
+f40019475bbb ("ima: fix wrong signed policy requirement when not appraising")
+c52657d93b05 ("ima: refactor ima_init_policy()")
+ef96837b0de4 ("ima: add build time policy")
+6f0911a666d1 ("ima: fix updating the ima_appraise flag")
+e1f5e01f4b03 ("ima: define Kconfig IMA_APPRAISE_BOOTPARAM option")
+503ceaef8e2e ("ima: define a set of appraisal rules requiring file signatures")
+33ce9549cfa1 ("ima: extend the "ima_policy" boot command line to support multiple policies")

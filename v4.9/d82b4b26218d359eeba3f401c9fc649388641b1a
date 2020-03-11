@@ -1,0 +1,4 @@
+d82b4b26218d ("drm/i915: Report all objects with allocated pages to the shrinker")
+3b4fa9640ccd ("drm/i915: Track the purgeable objects on a separate eviction list")
+6951e5893b48 ("drm/i915: Move GEM object domain management from struct_mutex to local")
+10be98a77c55 ("drm/i915: Move more GEM objects under gem/")

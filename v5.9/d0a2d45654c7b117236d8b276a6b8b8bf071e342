@@ -1,0 +1,6 @@
+d0a2d45654c7 ("KVM: VMX: Don't invalidate hv_tlb_eptp if the new EPTP matches")
+cdbd4b40e70c ("KVM: VMX: Invalidate hv_tlb_eptp to denote an EPTP mismatch")
+446f7f115530 ("KVM: VMX: Do Hyper-V TLB flush iff vCPU's EPTP hasn't been flushed")
+288bee28094e ("KVM: VMX: Fold Hyper-V EPTP checking into it's only caller")
+b68aa15cca56 ("KVM: VMX: Stash kvm_vmx in a local variable for Hyper-V paravirt TLB flush")
+a4038ef1aa63 ("KVM: VMX: Track common EPTP for Hyper-V's paravirt TLB flush")

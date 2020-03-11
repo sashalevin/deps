@@ -1,0 +1,7 @@
+ba4134a41931 ("drm/i915: Save trip via top-level i915 in a few more places")
+759e4a74f354 ("drm/i915: Make ggtt invalidation work on ggtt")
+e568ac3874be ("drm/i915: Pull kref into i915_address_space")
+59ec84eca57a ("drm/i915: Use unchecked uncore writes to flush the GTT")
+6501aa4e3a45 ("drm/i915: add in-kernel blitter client")
+0a4a6e74e733 ("drm/i915/gtt: grab wakeref in gen6_alloc_va_range")
+10be98a77c55 ("drm/i915: Move more GEM objects under gem/")

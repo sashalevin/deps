@@ -1,0 +1,4 @@
+51cf94d16860 ("futex: Make syscall entry points less convoluted")
+b097d5ed3356 ("futex: Get rid of the val2 conditional dance")
+cdf78db40709 ("futex: Do not apply time namespace adjustment on FUTEX_LOCK_PI")
+c2f7d08cccf4 ("futex: Adjust absolute futex timeouts with per time namespace offset")

@@ -1,0 +1,5 @@
+3376ca3f1a20 ("KVM: x86: Fix KVM_GET_MSRS stack info leak")
+d632826f26f2 ("KVM: clean up the unused argument")
+cc4cb017678a ("KVM: x86: use positive error values for msr emulation that causes #GP")
+d383b3146d80 ("KVM: x86: Fix NULL dereference at kvm_msr_ignored_check()")
+1a155254ff93 ("KVM: x86: Introduce MSR filtering")

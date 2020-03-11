@@ -1,0 +1,6 @@
+49f6cba617fe ("arm64: handle sys and undef traps consistently")
+9dbd5bb25c56 ("arm64: Refactor sysinstr exception handling")
+7dd01aef0557 ("arm64: trap userspace "dc cvau" cache operation on errata-affected core")
+e7227d0e528f ("arm64: Cleanup SCTLR flags")
+57f4959bad0a ("arm64: kernel: Add support for User Access Override")
+d5370f754875 ("arm64: prefetch: add alternative pattern for CPUs without a prefetcher")

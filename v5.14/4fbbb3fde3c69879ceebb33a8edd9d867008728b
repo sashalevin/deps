@@ -1,0 +1,3 @@
+4fbbb3fde3c6 ("mm: compaction: avoid GFP_NOFS ABBA deadlock")
+d818fca1cac3 ("mm/vmscan: throttle reclaim and compaction when too may pages are isolated")
+8cd7c588decf ("mm/vmscan: throttle reclaim until some writeback completes if congested")

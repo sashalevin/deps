@@ -1,0 +1,8 @@
+2b8bf3d6c993 ("net/fq_impl: Use the bitmap API to allocate bitmaps")
+d7b649291782 ("net/fq_impl: do not maintain a backlog-sorted list of flows")
+bf9009bf21b5 ("net/fq_impl: drop get_default_func, move default flow to fq_tin")
+07be2fed5ee7 ("net/fq_impl: bulk-free packets from a flow on overmemory")
+f2af2df800d3 ("mac80211: calculate hash for fq without holding fq->lock in itxq enqueue")
+edba6bdad6fe ("mac80211: allow AMSDU size limitation per-TID")
+adf8ed01e4fd ("mac80211: add an optional TXQ for other PS-buffered frames")
+fc3e3bf55f48 ("Merge tag 'mac80211-for-davem-2018-09-03' of git://git.kernel.org/pub/scm/linux/kernel/git/jberg/mac80211")

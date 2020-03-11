@@ -1,0 +1,4 @@
+29811d6e19d7 ("net: dpaa2: publish MAC stringset to ethtool -S even if MAC is missing")
+f0653a892097 ("dpaa2-switch: export MAC statistics in ethtool")
+d87e606373f6 ("dpaa2-mac: export MAC counters even when in TYPE_FIXED")
+095dca16d92f ("dpaa2-mac: split up initializing the MAC object from connecting to it")

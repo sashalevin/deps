@@ -1,0 +1,5 @@
+5f1dd4dda5c8 ("x86/fsgsbase: Replace static_cpu_has() with boot_cpu_has()")
+005f141e5d5e ("x86/process/64: Use FSGSBASE instructions on thread copy and ptrace")
+58edfd2e0a93 ("x86/fsgsbase/64: Enable FSGSBASE instructions in helper functions")
+b15378ca5081 ("x86/fsgsbase/64: Add intrinsics for FSGSBASE instructions")
+2fff071d28b5 ("x86/process: Unify copy_thread_tls()")

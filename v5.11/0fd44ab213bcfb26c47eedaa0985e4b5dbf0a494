@@ -1,0 +1,6 @@
+0fd44ab213bc ("mm/readahead: break read-ahead loop if filemap_add_folio return -ENOMEM")
+b4e089d705ee ("mm: remove the skip_page argument to read_pages")
+dfd8b4fc76d5 ("mm: remove the pages argument to read_pages")
+704528d895dd ("fs: Remove ->readpages address space operation")
+ebf921a9fac3 ("readahead: Remove read_cache_pages()")
+6b1f86f8e9c7 ("Merge tag 'folio-5.18b' of git://git.infradead.org/users/willy/pagecache")

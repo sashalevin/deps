@@ -1,0 +1,6 @@
+c128a1b0523b ("serial: 8250_omap: Fix Errata i2310 with RX FIFO level check")
+9d141c1e6157 ("serial: 8250_omap: Implementation of Errata i2310")
+68e6939ea9ec ("serial: 8250_omap: Set the console genpd always on if no console suspend")
+560706eff7c8 ("serial: 8250_omap: Fix errors with no_console_suspend")
+20a41a62618d ("serial: 8250_omap: Use force_suspend and resume for system suspend")
+398cecc24846 ("serial: 8250: omap: Fix imprecise external abort for omap_8250_pm()")

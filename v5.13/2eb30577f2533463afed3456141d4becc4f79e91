@@ -1,0 +1,7 @@
+2eb30577f253 ("iio: afe: rescale: reduce risk of integer overflow")
+f5fc003d4803 ("iio: afe: rescale: fix accuracy for small fractional scales")
+701ee14da95d ("iio: afe: rescale: add INT_PLUS_{MICRO,NANO} support")
+bc437f7515f5 ("iio: afe: rescale: expose scale processing function")
+cd717ac6f69d ("iio: afe: rescale: reorder includes")
+51593106b608 ("iio: afe: rescale: use s64 for temporary scale calculations")
+53ebee949980 ("iio: afe: iio-rescale: Support processed channels")

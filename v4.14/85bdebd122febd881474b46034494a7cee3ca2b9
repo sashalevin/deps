@@ -1,0 +1,5 @@
+85bdebd122fe ("net: mdiobus: Remove WARN_ON_ONCE(in_interrupt())")
+6cc7cf8125b3 ("net: mdiobus: add APIs for modifying a MDIO device register")
+89e3e3ddcb68 ("net: mdiobus: avoid BUG_ON() in mdiobus accessors")
+b8554d4f7288 ("net: phy: add register modifying helpers returning 1 on change")
+1878f0dcbff0 ("net: phy: provide full set of accessor functions to MMD registers")

@@ -1,0 +1,5 @@
+39dfb60c724c ("pwm: stm32-lp: Use DEFINE_SIMPLE_DEV_PM_OPS for PM functions")
+fa359c1938ad ("pwm: stm32-lp: Drop of_match_ptr for ID table")
+8614e210083e ("pwm: stm32-lp: Simplify using devm_pwmchip_add()")
+d44084c93427 ("pwm: stm32-lp: Don't modify HW state in .remove() callback")
+cce4a833fc6d ("pwm: stm32-lp: Add power management support")

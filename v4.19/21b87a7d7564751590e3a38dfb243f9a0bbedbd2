@@ -1,0 +1,6 @@
+21b87a7d7564 ("drbd: disable discard support if granularity > max")
+a34592ff6b78 ("scsi: drbd: Remove WRITE_SAME support")
+6ec2a0f2bc07 ("block: drbd: drbd_receiver: Demote less than half complete kernel-doc header")
+f31e583aa2c2 ("drbd: introduce P_ZEROES (REQ_OP_WRITE_ZEROES on the "wire")")
+9305455acfa6 ("block: Finish renaming REQ_DISCARD into REQ_OP_DISCARD")
+3d0e63754fa4 ("drbd: Convert from ahash to shash")

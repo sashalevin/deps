@@ -1,0 +1,4 @@
+89f5074c503b ("KVM: arm64: Handle blocking WFIT instruction")
+b57de4ffd7c6 ("KVM: arm64: Simplify kvm_cpu_has_pending_timer()")
+583cda1b0e7d ("KVM: arm64: Refuse to run VCPU if the PMU doesn't match the physical CPU")
+6ee7fca2a4a0 ("KVM: arm64: Add KVM_ARM_VCPU_PMU_V3_SET_PMU attribute")

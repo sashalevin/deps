@@ -1,0 +1,5 @@
+8192fabb0db2 ("tty: 8250_dma: use dmaengine_prep_slave_sg()")
+e4fb03fe10c5 ("serial: 8250: dma: Allow driver operations before starting DMA transfers")
+f58c252e30cf ("serial: 8250: fix XOFF/XON sending when DMA is used")
+08d5470308ac ("serial: core: fix sysrq overhead regression")
+10652a9e9fe3 ("Revert "serial: core: Refactor uart_unlock_and_check_sysrq()"")

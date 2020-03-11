@@ -1,0 +1,8 @@
+76cd306d7979 ("kbuild: unify clean-dirs rule for in-kernel and external module")
+c99f3918cf0a ("kbuild: unify vmlinux-dirs and module-dirs rules")
+125d059b6241 ("kbuild: do not descend to ./Kbuild when cleaning")
+16b59cd78595 ("kbuild: move the Module.symvers check for external module build")
+b7dca6dd1e59 ("kbuild: create *.mod with full directory path and remove MODVERDIR")
+ff9b45c55b26 ("kbuild: modpost: read modules.order instead of $(MODVERDIR)/*.mod")
+7e13191879d6 ("kbuild: do not create empty modules.order in the prepare stage")
+39ceda5ce1b0 ("Merge tag 'kbuild-v5.3' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

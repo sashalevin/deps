@@ -1,0 +1,8 @@
+c988dcbecf3f ("mm/page_alloc: treat RT tasks similar to __GFP_HIGH")
+88dc6f208829 ("mm/page_alloc.c: use in_task()")
+182f3d7a02fd ("mm/page_alloc.c: skip setting nodemask when we are in interrupt")
+5104782011a1 ("mm, page_alloc: don't check cpuset allowed twice in fast-path")
+9cd7555875bb ("mm, page_alloc: split alloc_pages_nodemask()")
+5ce9bfef1d27 ("mm, page_alloc: move cpuset seqcount checking to slowpath")
+16096c25bf0c ("mm, page_alloc: fix fast-path race with cpuset update or removal")
+ea57485af8f4 ("mm, page_alloc: fix check for NULL preferred_zone")

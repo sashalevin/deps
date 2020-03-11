@@ -1,0 +1,4 @@
+4b3e6f2ef372 ("xtensa: fix noMMU build on cores with MMU")
+bf15f86b343e ("xtensa: initialize MMU before jumping to reset vector")
+ea951c34ea95 ("xtensa: fix icountlevel setting in cpu_reset")
+4f2056873ff0 ("xtensa: extract common CPU reset code into separate function")

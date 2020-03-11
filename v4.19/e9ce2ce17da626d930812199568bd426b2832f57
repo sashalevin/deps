@@ -1,0 +1,4 @@
+e9ce2ce17da6 ("mmc: core: Drop reference counting of the bus_ops")
+97a7d87e96b0 ("mmc: core: add a 'doing_init_tune' flag and a 'mmc_doing_tune' helper")
+99b4ddd8b76a ("mmc: core: Drop check for mmc_card_is_removable() in mmc_rescan()")
+cbf6d82cad4a ("mmc: core: add helper to see if a host is doing a retune")

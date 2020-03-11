@@ -1,0 +1,5 @@
+e5c38a203eb4 ("vfio/spapr: Move VFIO_CHECK_EXTENSION into tce_iommu_ioctl()")
+bc82d122ae4a ("vfio/spapr: Reference mm in tce_container")
+39701e56f5f1 ("vfio/spapr: Postpone allocation of userspace version of TCE table")
+d7baee6901b3 ("powerpc/iommu: Stop using @current in mm_iommu_xxx")
+88f54a3581eb ("powerpc/iommu: Pass mm_struct to init/cleanup helpers")

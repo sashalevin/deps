@@ -1,0 +1,4 @@
+7e8c18586daf ("net: bridge: allow the switchdev replay functions to be called for deletion")
+bdf123b455ce ("net: bridge: constify variables in the replay helpers")
+0d2cfbd41c4a ("net: bridge: ignore switchdev events for LAG ports which didn't request replay")
+97558e880f63 ("net: ocelot: delete call to br_fdb_replay")

@@ -1,0 +1,5 @@
+c685eb0c12b4 ("x86/sev-es: Print SEV-ES info into the kernel log")
+d5249bc7a1a8 ("x86/mm: Fix -Wmissing-prototypes warnings for arch/x86/mm/init.c")
+4fc19708b165 ("x86/alternatives: Initialize temporary mm for patching")
+e836673c9b49 ("x86/alternatives: Add text_poke_kgdb() to not assert the lock when debugging")
+0d02113b31b2 ("x86/mm: Fix a crash with kmemleak_scan()")

@@ -1,0 +1,7 @@
+b65bef400689 ("x86/entry/32: Add PTI CR3 switches to NMI handler code")
+8b376fae0514 ("x86/entry/32: Introduce SAVE_ALL_NMI and RESTORE_ALL_NMI")
+8e676ced31e9 ("x86/entry/32: Unshare NMI return path")
+46eabca284f9 ("x86/entry/32: Put ESPFIX code into a macro")
+fdbd518adfaf ("x86/entry/32: Relax a pvops stub clobber specification")
+946c191161ce ("x86/entry/unwind: Create stack frames for saved interrupt registers")
+1b00255f32b9 ("x86/entry/32, x86/boot/32: Use local labels")

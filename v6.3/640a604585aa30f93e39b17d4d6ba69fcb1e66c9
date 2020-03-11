@@ -1,0 +1,7 @@
+640a604585aa ("bpf, cpumap: Make sure kthread is running before map update returns")
+436901649731 ("bpf: cpumap: Fix memory leak in cpu_map_update_elem")
+6c3eba1c5e28 ("bpf: Centralize permissions checks for all BPF map types")
+22db41226b67 ("bpf: Inline map creation logic in map_create() function")
+1d28635abcf1 ("bpf: Move unprivileged checks into map_create() and bpf_prog_load()")
+cd2a8079014a ("bpf: Remove btf_field_offs, use btf_record's fields instead")
+6b4a6ea2c62d ("bpf: enforce all maps having memory usage callback")

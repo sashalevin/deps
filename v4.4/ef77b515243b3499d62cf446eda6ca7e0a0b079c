@@ -1,0 +1,8 @@
+ef77b515243b ("nbd: use loff_t for blocksize and nbd_set_size args")
+9561a7ade0c2 ("nbd: add multi-connection support")
+0eadf37afc25 ("nbd: allow block mq to deal with timeouts")
+9b4a6ba9185a ("nbd: use flags instead of bool")
+c261189862c6 ("nbd: don't shutdown sock with irq's disabled")
+fd8383fd88a2 ("nbd: convert to blkmq")
+97240963eb30 ("nbd: fix race in ioctl")
+d05d7f40791c ("Merge branch 'for-4.8/core' of git://git.kernel.dk/linux-block")

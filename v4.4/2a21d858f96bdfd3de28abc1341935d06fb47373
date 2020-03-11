@@ -1,0 +1,6 @@
+2a21d858f96b ("ipmi: bt-bmc: use devm_platform_ioremap_resource() to simplify code")
+eb994594bc22 ("ipmi: bt-bmc: Use a regmap for register access")
+d94655b405ba ("ipmi/bt-bmc: remove redundant return value check of platform_get_resource()")
+a3e6061bad62 ("ipmi/bt-bmc: add a dependency on ARCH_ASPEED")
+1a377a79211a ("ipmi: Fix ioremap error handling in bt-bmc")
+54f9c4d0778b ("ipmi: add an Aspeed BT IPMI BMC driver")

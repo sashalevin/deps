@@ -1,0 +1,5 @@
+b6e13e85829f ("sched/core: Fix ttwu() race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")
+e3d85487fba4 ("sched/core: Fix preempt warning in ttwu")
+aacedf26fb76 ("sched/core: Optimize try_to_wake_up() for local wakeups")

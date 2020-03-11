@@ -1,0 +1,8 @@
+9f5db28074ad ("btrfs: convert cow_file_range_inline() to take a folio")
+a67f5405827e ("btrfs: convert extent_clear_unlock_delalloc() to take a folio")
+a59ff7201a15 ("btrfs: convert __process_pages_contig() to take a folio")
+79be4a28d834 ("btrfs: convert __unlock_for_delalloc() to take a folio")
+e4d80ebe50de ("btrfs: convert lock_delalloc_pages() to take a folio")
+c987f1e6d443 ("btrfs: convert find_lock_delalloc_range() to use a folio")
+dc6c745447c5 ("btrfs: convert writepage_delalloc() to take a folio")
+9b320229c03b ("btrfs: convert __extent_writepage() to be completely folio based")

@@ -1,0 +1,5 @@
+3a9ae31ac26a ("Documentation: kvm: fix SRCU locking order docs")
+02d9a04da453 ("Documentation: kvm: clarify SRCU locking order")
+52ac8b358b0c ("KVM: Block memslot updates across range_start() and range_end()")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")
+f922bd9bf33b ("KVM: Move MMU notifier's mmu_lock acquisition into common helper")

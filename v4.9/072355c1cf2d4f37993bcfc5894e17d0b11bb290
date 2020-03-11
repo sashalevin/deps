@@ -1,0 +1,5 @@
+072355c1cf2d ("mm/cma: expose all pages to the buddy if activation of an area fails")
+3a5139f1c5bb ("cma: don't quit at first error when activating reserved areas")
+2184f9928ab5 ("mm/cma.c: switch to bitmap_zalloc() for cma bitmap allocation")
+1df3a339074e ("mm/cma.c: fix crash on CMA allocation if bitmap allocation fails")
+e35ef6397b82 ("mm/cma.c: warn if the CMA area could not be activated")

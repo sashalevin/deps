@@ -1,0 +1,7 @@
+e17934c1bcc1 ("tty: con3270: convert to u8 and size_t")
+c2e9375ecd67 ("s390/tty3270: add struct tty3270_attribute")
+e6d98bb823af ("s390/con3270: fix formatting issues")
+c17fe081ac1f ("s390/3270: unify con3270 + tty3270")
+a21e962e129d ("s390/tty3270: add tty3270_create_view()")
+a8c11c152034 ("tty: Make ->set_termios() old ktermios const")
+4ae46db99cd8 ("s390/consoles: improve panic notifiers reliability")

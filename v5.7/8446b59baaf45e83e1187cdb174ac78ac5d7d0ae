@@ -1,0 +1,5 @@
+8446b59baaf4 ("mm/page_alloc.c: do not acquire zone lock in is_free_buddy_page()")
+ab130f9108dc ("mm: rename page_order() to buddy_order()")
+257bea71582d ("mm/page_alloc: simplify __offline_isolated_pages()")
+06be6ff3d2ec ("mm,hwpoison: rework soft offline for free pages")
+aa218795cb5f ("mm: Allow to offline unmovable PageOffline() pages via MEM_GOING_OFFLINE")

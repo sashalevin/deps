@@ -1,0 +1,3 @@
+5c3b747ef54f ("random: use first 128 bits of input as fast init")
+cbe89e5a375a ("random: do not use batches when !crng_ready()")
+4b758eda851e ("random: insist on random_get_entropy() existing in order to simplify")

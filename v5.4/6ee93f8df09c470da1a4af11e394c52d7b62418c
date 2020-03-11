@@ -1,0 +1,8 @@
+6ee93f8df09c ("x86/entry: Add compatibility with IAS")
+633260fa143b ("x86/irq: Convey vector as argument and not in ptregs")
+53aaf262c66e ("x86/idtentry: Provide macros to define/declare IDT entry points")
+17dbedb5da18 ("x86/irq: Remove useless return value from do_IRQ()")
+5e63306f1629 ("x86/asm/32: Change all ENTRY+END to SYM_CODE_*")
+bc7b11c04ee9 ("x86/asm/64: Change all ENTRY+END to SYM_CODE_*")
+37818afd15fe ("x86/asm: Do not annotate functions with GLOBAL")
+cc66936e504a ("x86/asm/entry: Annotate interrupt symbols properly")

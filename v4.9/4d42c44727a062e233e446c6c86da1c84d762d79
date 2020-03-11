@@ -1,0 +1,8 @@
+4d42c44727a0 ("lib/vsprintf: Print time and date in human readable format via %pt")
+ce041c43f222 ("lib/test_printf.c: accept "ptrval" as valid result for plain 'p' tests")
+ce0b4910bdf8 ("lib/vsprintf: Make dec_spec global")
+ad67b74d2469 ("printk: hash addresses printed with %p")
+57e734423add ("vsprintf: refactor %pK code out of pointer()")
+3b033380cb8d ("printk-formats.txt: standardize document format")
+ce4fecf1fe15 ("vsprintf: Add %p extension "%pOF" for device tree")
+0b523769ebb9 ("checkpatch: add ability to find bad uses of vsprintf %p<foo> extensions")

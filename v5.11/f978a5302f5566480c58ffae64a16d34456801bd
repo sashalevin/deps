@@ -1,0 +1,4 @@
+f978a5302f55 ("drm/etnaviv: fix MMU context leak on GPU reset")
+725cbc7884c3 ("drm/etnaviv: exec and MMU state is lost when resetting the GPU")
+23e0f5a57d0e ("drm/etnaviv: stop abusing mmu_context as FE running marker")
+78edefc05e41 ("drm/etnaviv: return context from etnaviv_iommu_context_get")

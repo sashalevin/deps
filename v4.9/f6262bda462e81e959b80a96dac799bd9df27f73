@@ -1,0 +1,8 @@
+f6262bda462e ("drm/i915: Don't enable backlight at setup time.")
+7d025e0804f2 ("drm/i915: Pass atomic state to backlight enable/disable/set callbacks.")
+4c9f7086ac6d ("drm/i915/cnp: Backlight support for CNP.")
+2630addf6b1e ("drm/i915: Restore brightness level in aux backlight driver")
+e9c9e5ae8b57 ("drm/i915: Set backlight mode before enable backlight")
+73ab484c90f5 ("drm/i915: Correctly enable backlight brightness adjustment via DPCD")
+0290cf3f9f77 ("drm/i915: Check error return when converting pipe to connector")
+add033793c9e ("drm/i915: Parse panel backlight controller from VBT")

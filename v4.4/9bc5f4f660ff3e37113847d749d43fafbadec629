@@ -1,0 +1,7 @@
+9bc5f4f660ff ("i2c: pasemi: Split pci driver to its own file")
+6adb00c7f0ed ("i2c: pasemi: Split off common probing code")
+c06f50ed36cc ("i2c: pasemi: Remove usage of pci_dev")
+07e820d4fcb0 ("i2c: pasemi: Use dev_name instead of port number")
+3a7442ac1d1b ("i2c: pasemi: Use io{read,write}32")
+5c18d12ced22 ("i2c: pasemi: remove hardcoded bus numbers on smbus")
+d211e62af466 ("i2c: Add Actions Semiconductor Owl family S900 I2C driver")

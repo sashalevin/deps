@@ -1,0 +1,8 @@
+a25a9c85d17f ("scsi: libata: Switch to using ->device_configure")
+d53e4d77568a ("scsi: hisi_sas: Use LIBSAS_SHT_BASE_NO_SLAVE_INIT")
+bcd39f639e9e ("scsi: libsas: Add LIBSAS_SHT_BASE")
+88b9f8928678 ("ata: libata-sata: Improve ata_sas_slave_configure()")
+fb99ef178650 ("ata: libata-scsi: link ata port and scsi device")
+6c2fe21e08c2 ("ata,scsi: remove ata_sas_port_destroy()")
+43aa43351bb5 ("ata,scsi: remove ata_sas_port_{start,stop} callbacks")
+ff8072d589dc ("ata: libata: remove references to non-existing error_handler()")

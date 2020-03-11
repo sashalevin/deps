@@ -1,0 +1,4 @@
+45e876f794e8 ("x86/segments/64: When loadsegment(fs, ...) fails, clear the base")
+fbd704374d11 ("x86/msr: Carry on after a non-"safe" MSR access fails")
+548acf19234d ("x86/mm: Expand the exception table logic to allow new handling options")
+7f47d8cc039f ("x86, tracing, perf: Add trace point for MSR accesses")

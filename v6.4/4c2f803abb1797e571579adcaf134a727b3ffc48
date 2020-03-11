@@ -1,0 +1,4 @@
+4c2f803abb17 ("mm: handle swap and NUMA PTE faults under the VMA lock")
+c7ad08804fae ("mm/memory: handle_pte_fault() use pte_offset_map_nolock()")
+895f5ee464cc ("mm/khugepaged: allow pte_offset_map[_lock]() to fail")
+26e1a0c3277d ("mm: use pmdp_get_lockless() without surplus barrier()")

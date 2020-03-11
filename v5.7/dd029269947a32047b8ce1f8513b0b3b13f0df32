@@ -1,0 +1,7 @@
+dd029269947a ("clocksource: Improve "skew is too large" messages")
+22a223833716 ("clocksource: Print deviation in nanoseconds when a clocksource becomes unstable")
+2e27e793e280 ("clocksource: Reduce clocksource-skew threshold")
+fa218f1cce6b ("clocksource: Limit number of CPUs checked for clock synchronization")
+7560c02bdffb ("clocksource: Check per-CPU clock synchronization when marked unstable")
+db3a34e17433 ("clocksource: Retry clock read if long delays detected")
+0a4bb5e5507a ("x86/fpu: Allow multiple bits in clearcpuid= parameter")

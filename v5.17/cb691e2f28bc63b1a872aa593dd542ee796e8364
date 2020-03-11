@@ -1,0 +1,7 @@
+cb691e2f28bc ("mm: remove lookup_swap_cache()")
+c9edc242811d ("swap: add swap_cache_get_folio()")
+1baec203b77c ("mm/khugepaged: try to free transhuge swapcache when possible")
+442701e7058b ("mm/swap: remove swap_cache_info statistics")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+7e63df00cf5e ("mm: Convert swap_set_page_dirty() to swap_dirty_folio()")
+6f31a5a261db ("fs: Add aops->dirty_folio")

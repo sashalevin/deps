@@ -1,0 +1,3 @@
+851c1a18c541 ("KVM: nVMX: Fix injection to L2 when L1 don't intercept external-interrupts")
+f27a85c4988d ("KVM: nVMX: Re-evaluate L1 pending events when running L2 and L1 got posted-interrupt")
+e7387b0e27ec ("KVM: x86: Change __kvm_apic_update_irr() to also return if max IRR updated")

@@ -1,0 +1,4 @@
+b79e4a0aa902 ("libceph: remove MAX_EXTENTS check for sparse reads")
+f628d7999727 ("libceph: add sparse read support to OSD client")
+a679e50f7286 ("libceph: define struct ceph_sparse_extent and add some helpers")
+08b8a0440eee ("libceph: add spinlock around osd->o_requests")

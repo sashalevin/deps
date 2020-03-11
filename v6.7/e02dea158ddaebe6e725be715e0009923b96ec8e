@@ -1,0 +1,7 @@
+e02dea158dda ("selftests/bpf: validate async callback return value check correctness")
+c871d0e00f0e ("bpf: enforce precise retval range on program exit")
+60a6b2c78c62 ("selftests/bpf: add selftest validating callback result is enforced")
+8fa4ecd49b81 ("bpf: enforce exact retval range on subprog/callback exit")
+0acd03a5bd18 ("bpf: enforce precision of R0 on callback return")
+5fad52bee304 ("bpf: provide correct register name for exception callback retval check")
+45b5623f2d72 ("bpf: rearrange bpf_func_state fields to save a bit of memory")

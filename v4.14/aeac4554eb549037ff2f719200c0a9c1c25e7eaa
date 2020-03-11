@@ -1,0 +1,6 @@
+aeac4554eb54 ("netfilter: nft_reject_bridge: Fix for missing reply from prerouting")
+fa538f7cf05a ("netfilter: nf_reject: add reject skbuff creation helpers")
+7fc38225363d ("netfilter: reject: skip csum verification for protocols that don't support it")
+6c57f0458022 ("net: Fix usage of pskb_trim_rcsum")
+6542df2f8412 ("netfilter: nft_reject_bridge: remove unnecessary ttl set")
+0cafa3926f0d ("netfilter: nft_reject_bridge: fix skb allocation size in nft_reject_br_send_v6_unreach")

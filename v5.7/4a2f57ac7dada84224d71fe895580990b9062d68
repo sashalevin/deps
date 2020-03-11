@@ -1,0 +1,7 @@
+4a2f57ac7dad ("ARM: 9158/1: leave it to core code to manage thread_info::cpu")
+50596b7559bf ("ARM: smp: Store current pointer in TPIDRURO register if available")
+19f29aebd929 ("ARM: smp: Pass task to secondary_start_kernel")
+d3fb38266afe ("Documentation/features: Add THREAD_INFO_IN_TASK feature matrix")
+91580f0dbf24 ("ARM: head.S: use PC-relative insn sequence for secondary_data")
+2631781213ee ("ARM: 8982/1: mm: Simplify act_mm macro")
+e1de94380af5 ("ARM: 8978/1: mm: make act_mm() respect THREAD_SIZE")

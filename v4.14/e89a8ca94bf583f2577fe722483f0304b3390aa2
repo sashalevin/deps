@@ -1,0 +1,4 @@
+e89a8ca94bf5 ("powerpc/64s: Remove MSR[ISF] bit")
+95757bfc72e9 ("KVM: PPC: Book3S PR: Sync TM bits to shadow msr for problem state guest")
+901938add3bd ("KVM: PPC: Book3S PR: Pass through MSR TM and TS bits to shadow_msr")
+07ae5389e98c ("KVM: PPC: Book3S PR: Fix svcpu copying with preemption enabled")

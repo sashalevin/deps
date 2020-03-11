@@ -1,0 +1,5 @@
+de8c8e52836d ("mm: page_table_check: add hooks to public helpers")
+481e980a7c19 ("mm: Allow arches to provide ptep_get()")
+be51e3fde5c1 ("arm64/mm: drop __HAVE_ARCH_HUGE_PTEP_GET")
+5a281062af1d ("userfaultfd: wp: add WP pagetable tracking to x86")
+6db73f17c5f1 ("x86: Don't let pgprot_modify() change the page encryption bit")

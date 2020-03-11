@@ -1,0 +1,8 @@
+c8d1ba583fe6 ("io_uring: split work handling part of SQPOLL into helper")
+3f0e64d05411 ("io_uring: move SQPOLL post-wakeup ring need wakeup flag into wake handler")
+6a7793828fb2 ("io_uring: use private ctx wait queue entries for SQPOLL")
+e35afcf91230 ("io_uring: io_sq_thread() doesn't need to flush signals")
+0f2122045b94 ("io_uring: don't rely on weak ->files references")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")
+2aede0e417db ("io_uring: stash ctx task reference for SQPOLL")
+f573d384456b ("io_uring: move dropping of files into separate helper")

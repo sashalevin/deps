@@ -1,0 +1,5 @@
+5b9654efb604 ("erofs: teach z_erofs_scan_folios() to handle multi-page folios")
+90cd33d79338 ("erofs: convert z_erofs_read_fragment() to folios")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+0e25a788ea2c ("erofs: convert z_erofs_do_read_page() to folios")
+d136d3358616 ("erofs: convert z_erofs_onlinepage_.* to folios")

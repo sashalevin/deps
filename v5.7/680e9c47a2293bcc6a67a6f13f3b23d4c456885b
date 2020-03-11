@@ -1,0 +1,8 @@
+680e9c47a229 ("PCI: Add support for polling DLLLA to pcie_retrain_link()")
+37edd87eb621 ("PCI: Export pcie_retrain_link() for use outside ASPM")
+33a176abcc4c ("PCI: Export PCIe link retrain timeout")
+3c0ec896a4b4 ("PCI/ASPM: Factor out waiting for link training to complete")
+fd6e6e38ebe5 ("PCI/ASPM: Avoid unnecessary pcie_link_state use")
+b1689799772a ("PCI/ASPM: Use distinct local vars in pcie_retrain_link()")
+43262f001b31 ("PCI/ASPM: Move pci_function_0() upward")
+0f1619cf82ef ("PCI/ASPM: Move pci_clear_and_set_dword() earlier")

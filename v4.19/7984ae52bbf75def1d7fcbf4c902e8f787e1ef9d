@@ -1,1 +1,8 @@
 7984ae52bbf7 ("btrfs: Perform locking/unlocking in btrfs_remap_file_range()")
+4ea748e1d2c9 ("Btrfs: fix deadlock between clone/dedupe and rename")
+500710d3b872 ("Btrfs: move duplicated nodatasum check into common reflink/dedupe helper")
+0f39b6056323 ("Btrfs: remove redundant check for swapfiles when reflinking")
+d8b552424210 ("Btrfs: fix race between reflink/dedupe and relocation")
+34a28e3d7753 ("Btrfs: use generic_remap_file_range_prep() for cloning and deduplication")
+eede2bf34f4f ("Btrfs: prevent ioctls from interfering with a swap file")
+63a42e1a5cb3 ("Merge tag 'for-4.20-rc1-tag' of git://git.kernel.org/pub/scm/linux/kernel/git/kdave/linux")

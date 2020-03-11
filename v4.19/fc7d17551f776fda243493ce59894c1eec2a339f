@@ -1,0 +1,8 @@
+fc7d17551f77 ("cpufreq: intel_pstate: Fix missing return statement")
+55671ea3257a ("cpufreq: intel_pstate: Free memory only when turning off")
+4adcf2e5829f ("cpufreq: intel_pstate: Add ->offline and ->online callbacks")
+43298db3009f ("cpufreq: intel_pstate: Refuse to turn off with HWP enabled")
+f6ebbcf08f37 ("cpufreq: intel_pstate: Implement passive mode with HWP enabled")
+de002c55cadf ("cpufreq: intel_pstate: Fix EPP setting via sysfs in active mode")
+3a9571760665 ("cpufreq: intel_pstate: Rearrange the storing of new EPP values")
+80e30368669e ("Merge back cpufreq material for v5.9.")

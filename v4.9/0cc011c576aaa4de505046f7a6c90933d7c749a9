@@ -1,0 +1,7 @@
+0cc011c576aa ("lib/list_debug.c: Detect uninitialized lists")
+68c1f08203f2 ("lib/list_debug.c: print unmangled addresses")
+85caa95b9f19 ("bug: switch data corruption check to __must_check")
+de54ebbe26bb ("bug: Provide toggle for BUG on data corruption")
+0cd340dcb05c ("list: Split list_del() debug checking into separate function")
+54acd4397d7e ("rculist: Consolidate DEBUG_LIST for list_add_rcu()")
+d7c816733d50 ("list: Split list_add() debug checking into separate function")

@@ -1,0 +1,8 @@
+9491be5ff06f ("mmc: queue: turn queue flags into bools")
+df0615889651 ("mmc: block: stop passing around pointless return values")
+da0dbaffe354 ("mmc: block: inline command abortions")
+6fb85d658308 ("mmc: block: do not assign mq_rq when aborting command")
+efb5a05e70df ("mmc: block: break out mmc_blk_rw_start_new()")
+4e1f780032c5 ("mmc: block: break out mmc_blk_rw_cmd_abort()")
+066185d69063 ("mmc: core: First step in cleaning up private mmc header files")
+36869cb93d36 ("Merge branch 'for-4.10/block' of git://git.kernel.dk/linux-block")

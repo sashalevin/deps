@@ -1,0 +1,7 @@
+91a4a3eb433e ("tipc: fix wrong socket reference counter after tipc_sk_timeout() returns")
+afe8792fec69 ("tipc: refactor function tipc_sk_timeout()")
+31b102bb501b ("net: tipc: Convert timers to use timer_setup()")
+0d5fcebf3c37 ("tipc: refactor tipc_sk_timeout() function")
+557d054c01da ("tipc: fix nametbl deadlock at tipc_nametbl_unsubscribe")
+cdfbabfb2f0c ("net: Work around lockdep limitation in sockets that use sockets")
+4e8f2fc1a55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

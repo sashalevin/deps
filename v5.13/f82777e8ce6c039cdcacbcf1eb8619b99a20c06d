@@ -1,0 +1,7 @@
+f82777e8ce6c ("netfilter: nfnetlink_queue: un-break NF_REPEAT")
+6291b3a67ad5 ("netfilter: conntrack: convert nf_conntrack_update to netfilter verdicts")
+e1f543dc660b ("netfilter: conntrack: fix NULL pointer dereference in nf_confirm_cthelper")
+285c8a7a5815 ("netfilter: make function op structures const")
+3fce16493dc1 ("netfilter: core: move ip_ct_attach indirection to struct nf_ct_hook")
+b43c2793f5e9 ("netfilter: nfnetlink_queue: silence bogus compiler warning")
+ef4b65e53cc7 ("netfilter: nfnetlink: add struct nfgenmsg to struct nfnl_info and use it")

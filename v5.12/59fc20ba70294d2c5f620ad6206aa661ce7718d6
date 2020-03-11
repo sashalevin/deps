@@ -1,0 +1,7 @@
+59fc20ba7029 ("irqchip/apple-aic: Only access system registers on SoCs which provide them")
+1357d2a65601 ("irqchip/apple-aic: Make symbol 'use_fast_ipi' static")
+2cf68211664a ("irqchip/apple-aic: Add Fast IPI support")
+45378cd33905 ("irqchip/apple-aic: Drop unused ipi_hwirq field")
+76cde2639411 ("irqchip/apple-aic: Add support for the Apple Interrupt Controller")
+f531d25bda55 ("dt-bindings: interrupt-controller: Add DT bindings for apple-aic")
+007bd42364b5 ("dt-bindings: arm: apple: Add bindings for Apple ARM platforms")

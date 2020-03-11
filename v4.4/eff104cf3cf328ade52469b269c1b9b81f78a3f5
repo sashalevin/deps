@@ -1,0 +1,5 @@
+eff104cf3cf3 ("can: ti_hecc: ti_hecc_probe(): use platform_get_irq() to get the interrupt")
+7968c7c79d3b ("can: ti_hecc: Fix memleak in ti_hecc_probe")
+0cf38586c216 ("can: ti_hecc: convert to devm_platform_ioremap_resource_byname()")
+b655f0e96d40 ("can: ti_hecc: fix return value check in ti_hecc_probe()")
+dabf54dd1c63 ("can: ti_hecc: Convert TI HECC driver to DT only driver")

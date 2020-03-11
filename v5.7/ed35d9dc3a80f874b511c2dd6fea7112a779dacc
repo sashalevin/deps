@@ -1,0 +1,5 @@
+ed35d9dc3a80 ("tty: serial: fsl_lpuart: add imx8ulp support")
+76bad3f88750 ("tty: serial: fsl_lpuart: don't break the on-going transfer when global reset")
+07481f448b63 ("serial: fsl_lpuart: Fill in rs485_supported")
+bd5305dcabbc ("tty: serial: fsl_lpuart: do software reset for imx7ulp and imx8qxp")
+c150c0f362c1 ("serial: Allow uart_get_rs485_mode() to return errno")

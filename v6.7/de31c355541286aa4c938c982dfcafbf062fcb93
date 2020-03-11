@@ -1,0 +1,5 @@
+de31c3555412 ("iommu/arm-smmu-v3: Add an ops indirection to the STE code")
+0493e739ccc6 ("iommu/arm-smmu-v3: Add cpu_to_le64() around STRTAB_STE_0_V")
+7da51af9125c ("iommu/arm-smmu-v3: Make STE programming independent of the callers")
+12a48fe90d09 ("iommu/arm-smmu-v3: Master cannot be NULL in arm_smmu_write_strtab_ent()")
+57b89048874c ("iommu/arm-smmu-v3: Add a type for the STE")

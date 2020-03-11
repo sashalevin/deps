@@ -1,0 +1,6 @@
+3a96bff229d6 ("nvmet-tcp: fix a missing endianess conversion in nvmet_tcp_try_peek_pdu")
+70525e5d82f6 ("nvmet-tcp: peek icreq before starting TLS")
+675b453e0241 ("nvmet-tcp: enable TLS handshake upcall")
+eb398812bd04 ("nvmet: Set 'TREQ' to 'required' when TLS is enabled")
+4f8cce2d32a3 ("nvmet-tcp: make nvmet_tcp_alloc_queue() a void function")
+3f123494db72 ("nvmet: make TCP sectype settable via configfs")

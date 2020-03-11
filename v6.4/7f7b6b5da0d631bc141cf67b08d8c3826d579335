@@ -1,0 +1,7 @@
+7f7b6b5da0d6 ("media: atomisp: Fix probe error-exit path")
+62c319a51bcf ("media: atomisp: Call pcim_enable_device() and pcim_iomap_regions() later")
+8d28ec7e9145 ("media: atomisp: Add support for v4l2-async sensor registration")
+96f18f25c1f5 ("media: atomisp: Delay mapping sensors to inputs till atomisp_register_device_nodes()")
+5b9ca47a2588 ("media: atomisp: Store number of sensor lanes per port in struct atomisp_device")
+9af6100f4ff5 ("media: atomisp: Remove unused fields from struct atomisp_input_subdev")
+1ad997e83110 ("media: atomisp: Drop MRFLD_PORT_NUM define")

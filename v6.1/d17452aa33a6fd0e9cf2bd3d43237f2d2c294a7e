@@ -1,0 +1,5 @@
+d17452aa33a6 ("nfsd: dynamically allocate the nfsd-client shrinker")
+7c24fa225081 ("NFSD: replace delayed_work with work_struct for nfsd_client_shrinker")
+f385f7d24413 ("NFSD: register/unregister of nfsd-client shrinker at nfsd startup/shutdown time")
+44df6f439a17 ("NFSD: add delegation reaper to react to low memory condition")
+a1049eb47f20 ("NFSD: refactoring courtesy_client_reaper to a generic low memory shrinker")

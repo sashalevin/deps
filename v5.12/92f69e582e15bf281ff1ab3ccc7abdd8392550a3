@@ -1,0 +1,3 @@
+92f69e582e15 ("pwm: Prevent a glitch for legacy drivers")
+77965c98cffe ("pwm: Move legacy driver handling into a dedicated function")
+d58cb0ee51ef ("pwm: Return -EINVAL for old-style drivers without .set_polarity callback")

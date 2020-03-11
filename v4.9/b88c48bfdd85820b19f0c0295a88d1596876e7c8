@@ -1,0 +1,8 @@
+b88c48bfdd85 ("pwm: core: Get rid of unused devm_of_pwm_get()")
+27d9a4d69433 ("pwm: Add might_sleep() annotations for !CONFIG_PWM API functions")
+9ae241d06ef7 ("pwm: core: Simplify some devm_*pwm*() functions")
+c333b936c153 ("pwm: core: Remove unused devm_pwm_put()")
+4a6ef8e37c4d ("pwm: Add support referencing PWMs from ACPI")
+b2c200e3f2fd ("pwm: Add consumer device link")
+69efb3439ccf ("pwm: Don't hold pwm_lookup_lock longer than necessary")
+fe2858c8c6d1 ("pwm: Remove pwm_can_sleep()")

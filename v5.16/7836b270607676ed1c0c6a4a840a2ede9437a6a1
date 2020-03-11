@@ -1,0 +1,4 @@
+7836b2706076 ("rcu: s/boost_kthread_mutex/kthread_mutex")
+6343402ac35d ("rcu: Synchronize ->qsmaskinitnext in rcu_boost_kthread_setaffinity()")
+d96c52fe4907 ("rcu: Add polled expedited grace-period primitives")
+218b957a6959 ("rcu: Add mutex for rcu boost kthread spawning and affinity setting")

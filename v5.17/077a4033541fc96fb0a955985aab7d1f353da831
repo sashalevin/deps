@@ -1,0 +1,6 @@
+077a4033541f ("block: don't allow a disk link holder to itself")
+62f535e1f061 ("block: fix use after free for bd_holder_dir")
+7abc07778836 ("block: remove delayed holder registration")
+322cbb50de71 ("block: remove genhd.h")
+e7243285c0fc ("block: move blk_drop_partitions to blk.h")
+926597ffce0e ("block: move disk_{block,unblock,flush}_events to blk.h")

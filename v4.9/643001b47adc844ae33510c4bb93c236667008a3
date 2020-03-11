@@ -1,0 +1,5 @@
+643001b47adc ("ethernet:enic: Fix a use after free bug in enic_hard_start_xmit")
+9c744d10870c ("enic: add vxlan offload on tx path")
+257e738238e8 ("enic: add udp_tunnel ndo for vxlan offload")
+7a655c6324a8 ("enic: Remove local ndo_busy_poll() implementation.")
+17197236d62c ("enic: set skb->hash type properly")

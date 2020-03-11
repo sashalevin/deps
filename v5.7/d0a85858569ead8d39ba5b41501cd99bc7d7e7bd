@@ -1,0 +1,8 @@
+d0a85858569e ("rcu-tasks: Fix s/rcu_add_holdout/trc_add_holdout/ typo in comment")
+45f4b4a202c0 ("rcu-tasks: Add comments explaining task_struct strategy")
+a434dd10cd84 ("rcu-tasks: Add block comment laying out RCU Tasks Trace design")
+d5f177d35c24 ("rcu-tasks: Add an RCU Tasks Trace to simplify protection of tracing hooks")
+c84aad765406 ("rcu-tasks: Add an RCU-tasks rude variant")
+5873b8a94e5d ("rcu-tasks: Refactor RCU-tasks to allow variants to be added")
+07e105158d97 ("rcu-tasks: Create struct to hold state information")
+eacd6f04a133 ("rcu-tasks: Move Tasks RCU to its own file")

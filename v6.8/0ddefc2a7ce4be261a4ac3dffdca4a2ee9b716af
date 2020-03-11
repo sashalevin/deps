@@ -1,0 +1,6 @@
+0ddefc2a7ce4 ("btrfs: move btrfs_page_mkwrite() from inode.c into file.c")
+41044b41ad2c ("btrfs: add helper to get fs_info from struct inode pointer")
+b33d2e535f9b ("btrfs: add helpers to get fs_info from page/folio pointers")
+c8293894afa7 ("btrfs: add helpers to get inode from page/folio pointers")
+4e00422ee626 ("btrfs: replace sb::s_blocksize by fs_info::sectorsize")
+dfba9f477306 ("btrfs: add set_folio_extent_mapped() helper")

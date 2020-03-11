@@ -1,0 +1,8 @@
+9926cfce8dcb ("KVM: arm64: Add helpers to pin memory shared with the hypervisor at EL2")
+1ed5c24c26f4 ("KVM: arm64: Implement do_donate() helper for donating memory")
+0f4f7ae10ee4 ("KVM: arm64: Move hyp refcount manipulation helpers to common header file")
+b8cc6eb5bded ("KVM: arm64: Expose unshare hypercall to the host")
+376a240f0379 ("KVM: arm64: Implement do_unshare() helper for unsharing memory")
+1ee32109fd78 ("KVM: arm64: Implement __pkvm_host_share_hyp() using do_share()")
+e82edcc75c4e ("KVM: arm64: Implement do_share() helper for sharing memory")
+61d99e33e757 ("KVM: arm64: Introduce wrappers for host and hyp spin lock accessors")

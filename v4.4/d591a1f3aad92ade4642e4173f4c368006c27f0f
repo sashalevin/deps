@@ -1,0 +1,6 @@
+d591a1f3aad9 ("tun/tap: Remove references to NETIF_F_UFO.")
+a8e046987327 ("tap: Refactoring macvtap.c")
+e824265d6326 ("driver: macvtap: Unregister netdev rx_handler if macvtap_newlink fails")
+362899b8725b ("macvtap: switch to use skb array")
+17af2bce88d3 ("macvtap: add namespace support to the sysfs device class")
+e96c37f18552 ("macvtap: check minor when unregistering")

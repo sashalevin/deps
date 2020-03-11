@@ -1,0 +1,7 @@
+27f0d9c98d15 ("btrfs: refactor mergable_maps() for more readability")
+1a9fb16c6052 ("btrfs: avoid useless rbtree iterations when attempting to merge extent map")
+3c0e918b8fb3 ("btrfs: remove no longer used EXTENT_MAP_DELALLOC block start value")
+7dc66abb5a47 ("btrfs: use a dedicated data structure for chunk maps")
+2ecec0d6a5b5 ("btrfs: unexport extent_map_block_end()")
+3128b548c759 ("btrfs: split assert into two different asserts when removing block group")
+5031660a1b6a ("btrfs: mark sanity checks when getting chunk map as unlikely")

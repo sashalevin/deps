@@ -1,0 +1,6 @@
+322c4293ecc5 ("loop: make autoclear operation asynchronous")
+6050fa4c84cc ("loop: don't hold lo_mutex during __loop_clr_fd()")
+46e7eac647b3 ("block: rename GENHD_FL_NO_PART_SCAN to GENHD_FL_NO_PART")
+1545e0b419ba ("block: move GENHD_FL_BLOCK_EVENTS_ON_EXCL_WRITE to disk->event_flags")
+864169164665 ("block: move GENHD_FL_NATIVE_CAPACITY to disk->state")
+643a7234e096 ("Merge tag 'for-5.16/drivers-2021-10-29' of git://git.kernel.dk/linux-block")

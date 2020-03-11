@@ -1,0 +1,5 @@
+73da852e3831 ("nfsd: use vfs_iter_read/write")
+865d50b23e4d ("NFSD: Remove unused value inode in nfsd_vfs_write")
+24368aad47dc ("nfsd: use RWF_SYNC")
+793b80ef14af ("vfs: pass a flags argument to vfs_readv/vfs_writev")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

@@ -1,0 +1,6 @@
+9b7b0d1a395d ("sctp: pass a kernel pointer to sctp_setsockopt_peer_addr_params")
+b99e5e028bf4 ("sctp: use SCTP_FUTURE_ASSOC for SCTP_PEER_ADDR_PARAMS sockopt")
+0b0dce7a36fb ("sctp: add spp_ipv6_flowlabel and spp_dscp for sctp_paddrparams")
+772a58693fc3 ("sctp: add stream interleave enable members and sockopt")
+0ccdf3c7fded ("sctp: add sockopt to get/set stream scheduler parameters")
+13aa8770fe42 ("sctp: add sockopt to get/set stream scheduler")

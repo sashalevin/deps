@@ -1,0 +1,4 @@
+e41b2c1532d6 ("firewire: ohci: use pci_irq_vector() to retrieve allocated interrupt line")
+b9d9a025bf2f ("firewire: ohci: obsolete usage of deprecated API for MSI")
+d4cad4162ba3 ("firewire: ohci: replace request_irq() with request_threaded_irq()")
+fb7d0e5e1f14 ("Revert "firewire: ohci: use devres for requested IRQ"")

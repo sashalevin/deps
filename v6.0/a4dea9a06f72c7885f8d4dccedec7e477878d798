@@ -1,0 +1,8 @@
+a4dea9a06f72 ("drm/edid/firmware: drop drm_kms_helper.edid_firmware backward compat")
+5f2d0ed49036 ("drm/edid: move edid load declarations to internal header")
+794aca0ec214 ("drm/edid: use struct drm_edid for override/firmware EDID")
+a05992d5ea77 ("drm/edid/firmware: rename drm_load_edid_firmware() to drm_edid_load_firmware()")
+8319d26a292e ("drm/edid/firmware: drop redundant connector_name variable/parameter")
+90b575f52c6a ("drm/edid: detach debugfs EDID override from EDID property update")
+91ec9ab4a6e3 ("drm/edid: abstract debugfs override EDID show better")
+2c9332de0561 ("drm/edid: debug log EDID override set/reset")

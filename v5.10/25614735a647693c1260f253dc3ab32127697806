@@ -1,0 +1,4 @@
+25614735a647 ("serial: 8250: lock port for UART_IER access in omap8250_irq()")
+1fe0e1fa3209 ("serial: 8250_omap: Handle optional overrun-throttle-ms property")
+b67e830d38fa ("serial: 8250: 8250_omap: Fix possible interrupt storm on K3 SoCs")
+439c7183e5b9 ("serial: 8250: 8250_omap: Disable RX interrupt after DMA enable")

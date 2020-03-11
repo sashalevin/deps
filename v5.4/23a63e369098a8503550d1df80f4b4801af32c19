@@ -1,0 +1,8 @@
+23a63e369098 ("x86/mtrr: Move cache control code to cacheinfo.c")
+4ad7149e46d0 ("x86/mtrr: Split MTRR-specific handling from cache dis/enabling")
+d5f66d5d1061 ("x86/mtrr: Rename prepare_set() and post_set()")
+01c97c730358 ("x86/mtrr: Add comment for set_mtrr_state() serialization")
+4b92d4add5f6 ("drivers: base: cacheinfo: Get rid of DEFINE_SMP_CALL_CACHE_FUNCTION()")
+2faf153bb734 ("x86/tlb: Move __flush_tlb() out of line")
+8c5cc19e9470 ("x86/tlb: Uninline __get_current_cr3_fast()")
+3b1313eb32c4 ("mips: cacheinfo: report shared CPU map")

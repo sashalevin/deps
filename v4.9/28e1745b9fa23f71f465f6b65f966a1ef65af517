@@ -1,0 +1,7 @@
+28e1745b9fa2 ("printk: rename vprintk_func to vprintk")
+9adcfaffc34d ("printk: Make printk_emit() local function.")
+719f6a7040f1 ("printk: Use the main logbuf in NMI when logbuf_lock is available")
+099f1c84c005 ("printk: introduce per-cpu safe_print seq buffer")
+f92bac3b141b ("printk: rename nmi.c and exported api")
+bd66a8924989 ("printk: use vprintk_func in vprintk()")
+22c2c7b2ef78 ("printk/NMI: handle continuous lines and missing newline")

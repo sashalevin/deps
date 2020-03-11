@@ -1,0 +1,6 @@
+d0f9ca9be11f ("ARM: decompressor: run decompressor in place if loaded via UEFI")
+0698fac4ac2a ("efi/arm: Clean EFI stub exit code from cache instead of avoiding it")
+9f9223778ef3 ("efi/libstub/arm: Make efi_entry() an ordinary PE/COFF entrypoint")
+e951a1f427f2 ("efi/arm: Pass start and end addresses to cache_clean_flush()")
+c7225494be79 ("efi/arm: Work around missing cache maintenance in decompressor handover")
+d60ddd244215 ("Merge tag 'for-linus' of git://git.armlinux.org.uk/~rmk/linux-arm")

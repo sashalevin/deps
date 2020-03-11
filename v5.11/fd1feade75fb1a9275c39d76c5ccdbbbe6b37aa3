@@ -1,0 +1,5 @@
+fd1feade75fb ("powerpc/vdso: Merge vdso64 and vdso32 into a single directory")
+d88378d8d2c7 ("powerpc/vdso: Rework VDSO32 makefile to add a prefix to object files")
+964c33cd0be6 ("powerpc: clean vdso32 and vdso64 directories")
+a88603f4b92e ("powerpc/vdso: Don't use r30 to avoid breaking Go lang")
+791f9e36599d ("powerpc/vdso: Make sure vdso_wrapper.o is rebuilt everytime vdso.so is rebuilt")

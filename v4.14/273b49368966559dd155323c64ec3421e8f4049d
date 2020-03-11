@@ -1,0 +1,4 @@
+273b49368966 ("powerpc: Swizzle around 4K PTE bits to free up bit 5 and bit 6")
+bf9a95f9a648 ("powerpc: Free up four 64K PTE bits in 64K backed HPTE pages")
+9d2edb18486f ("powerpc: Free up four 64K PTE bits in 4K backed HPTE pages")
+59aa31fd6f96 ("powerpc: introduce pte_set_hidx() helper")

@@ -1,0 +1,8 @@
+d5ca98701af6 ("drm/vc4: hdmi: Add HDMI format detection registers to register list")
+35dc00c12a72 ("drm/vc4: hdmi: Reset HDMI MISC_CONTROL register")
+c85695a2016e ("drm/vc4: hdmi: Enable the scrambler")
+ba8c0faebbb0 ("drm/vc4: hdmi: Enable 10/12 bpc output")
+fbe7271e47be ("drm/vc4: hdmi: Create a custom connector state")
+e55a07751146 ("drm/vc4: hdmi: Don't access the connector state in reset if kmalloc fails")
+320e84dc6111 ("drm/vc4: hdmi: Take into account the clock doubling flag in atomic_check")
+8d9147466776 ("drm/vc4: Pass the atomic state to encoder hooks")

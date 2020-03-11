@@ -1,0 +1,5 @@
+c789ad7cbebc ("igc: Work around HW bug causing missing timestamps")
+afa141583d82 ("igc: Retrieve TX timestamp during interrupt handling")
+ce58c7cc8b99 ("igc: Check if hardware TX timestamping is enabled earlier")
+9c50e2b150c8 ("igc: Fix race condition in PTP tx code")
+92a0dcb8427d ("igc: offload queue max SDU from tc-taprio")

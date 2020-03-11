@@ -1,0 +1,6 @@
+c82f898d873c ("notifier: Add blocking/atomic_notifier_chain_register_unique_prio()")
+5abb065dca73 ("notifier: Return an error when a callback has already been registered")
+260a2679e5cb ("kernel/notifier.c: remove blocking_notifier_chain_cond_register()")
+5adaabb65a26 ("kernel/notifier.c: remove notifier_chain_cond_register()")
+1a50cb80f219 ("kernel/notifier.c: intercept duplicate registrations to avoid infinite loops")
+831246570d34 ("kernel/notifier.c: double register detection")

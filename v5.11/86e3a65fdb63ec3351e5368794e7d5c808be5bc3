@@ -1,0 +1,6 @@
+86e3a65fdb63 ("drm/vc4: hdmi: Check and warn if we can't reach 4kp60 frequencies")
+902dc5c19a8f ("drm/vc4: hdmi: Move hdmi reset to bind")
+f623746f7472 ("drm/vc4: hdmi: Store pixel frequency in the connector state")
+fbe7271e47be ("drm/vc4: hdmi: Create a custom connector state")
+e55a07751146 ("drm/vc4: hdmi: Don't access the connector state in reset if kmalloc fails")
+8d9147466776 ("drm/vc4: Pass the atomic state to encoder hooks")

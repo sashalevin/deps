@@ -1,0 +1,7 @@
+c24a950ec7d6 ("KVM, SEV: Add KVM_EXIT_SHUTDOWN metadata for SEV-ES")
+34739fd95fab ("KVM: arm64: Indicate SYSTEM_RESET2 in kvm_run::system_event flags field")
+d43583b890e7 ("KVM: arm64: Expose PSCI SYSTEM_RESET2 call to the guest")
+ad5b353240c8 ("KVM: SVM: Do not terminate SEV-ES guests on GHCB validation failure")
+a655276a5949 ("KVM: SEV: Fall back to vmalloc for SEV-ES scratch area if necessary")
+75236f5f2299 ("KVM: SEV: Return appropriate error codes if SEV-ES scratch setup fails")
+1f05833193d8 ("Merge branch 'kvm-sev-move-context' into kvm-master")

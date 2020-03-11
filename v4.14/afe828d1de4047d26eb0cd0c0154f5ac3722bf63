@@ -1,0 +1,5 @@
+afe828d1de40 ("kvm: x86: Add ability to skip TLB flush when switching CR3")
+6e42782f516f ("kvm: x86: Introduce KVM_REQ_LOAD_CR3")
+7c390d350f8b ("kvm: x86: Add fast CR3 switch code path")
+74b566e6cf21 ("kvm: x86: Refactor mmu_free_roots()")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")

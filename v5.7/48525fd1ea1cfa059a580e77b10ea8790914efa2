@@ -1,0 +1,8 @@
+48525fd1ea1c ("x86/cpu: Provide debug interface")
+7583e8fbdc49 ("x86/cpu: Remove X86_FEATURE_NAMES")
+424e23fd6c30 ("x86/Kconfig: Make X86_FEATURE_NAMES non-configurable in prompt")
+1625c833db93 ("x86/cpu: Allow feature bit names from /proc/cpuinfo in clearcpuid=")
+db3a34e17433 ("clocksource: Retry clock read if long delays detected")
+1ef5423a55c2 ("x86/fpu: Handle FPU-related and clearcpuid command line arguments earlier")
+0a4bb5e5507a ("x86/fpu: Allow multiple bits in clearcpuid= parameter")
+6adc19fd13f1 ("Merge tag 'kbuild-v5.8-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

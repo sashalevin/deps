@@ -1,0 +1,7 @@
+0319aafc95ea ("svcrdma: Post Receives only for forward channel requests")
+03fe9931536f ("svcrdma: Define maximum number of backchannel requests")
+39b09a1a121c ("svcrdma: Add gfp flags to svc_rdma_post_recv()")
+2fe81b239dbb ("svcrdma: Improve allocation of struct svc_rdma_req_map")
+cc886c9ff160 ("svcrdma: Improve allocation of struct svc_rdma_op_ctxt")
+3d61677c4d5f ("svcrdma: Clean up rdma_create_xprt()")
+e3e45b1b4398 ("xprtrdma: Avoid calling ib_query_device")

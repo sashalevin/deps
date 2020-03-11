@@ -1,0 +1,5 @@
+338635340669 ("mm: mempolicy: fix THP allocations escaping mempolicy restrictions")
+cc638f329ef6 ("mm, thp: tweak reclaim/compaction effort of local-only and all-node allocations")
+3f36d8669457 ("mm, hugetlb: allow hugepage allocations to reclaim as needed")
+76e654cc91bb ("mm, page_alloc: allow hugepage fallback to remote nodes when madvised")
+b39d0ee2632d ("mm, page_alloc: avoid expensive reclaim when compaction may not succeed")

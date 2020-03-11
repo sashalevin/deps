@@ -1,0 +1,8 @@
+ab214d1bf8c7 ("netfilter: switch xt_copy_counters to sockptr_t")
+c34bc10d2535 ("netfilter: remove the compat argument to xt_copy_counters_from_user")
+f415e76fd723 ("netfilter/ip6_tables: clean up compat {get, set}sockopt handling")
+89c53c14e4d2 ("netfilter/ip_tables: clean up compat {get,set}sockopt handling")
+983094b4fc2d ("netfilter/arp_tables: clean up compat {get, set}sockopt handling")
+c84ca954ac9f ("netfilter: x_tables: add counters allocation wrapper")
+e466af75c074 ("netfilter: x_tables: avoid stack-out-of-bounds read in xt_copy_counters_from_user")
+f32815d21d4d ("xtables: add xt_match, xt_target and data copy_to_user functions")

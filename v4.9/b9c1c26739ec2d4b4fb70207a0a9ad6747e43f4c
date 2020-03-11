@@ -1,0 +1,7 @@
+b9c1c26739ec ("ext4: gracefully handle ext4_break_layouts() failure during truncate")
+ee0ed02ca93e ("ext4: do not delete unlinked inode from orphan list on failed truncate")
+82a25b027ca4 ("ext4: wait for outstanding dio during truncate in nojournal mode")
+430657b6be89 ("ext4: handle layout changes to pinned DAX mappings")
+1d39834fba99 ("ext4: remove EXT4_STATE_DIOREAD_LOCK flag")
+77a2e84d5172 ("ext4: remove unused mode parameter")
+2c98eb5ea249 ("ext4: allow ext4_truncate() to return an error")

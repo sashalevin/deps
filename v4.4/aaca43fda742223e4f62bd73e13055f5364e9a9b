@@ -1,0 +1,8 @@
+aaca43fda742 ("PCI: Add "pci=disable_acs_redir=" parameter for peer-to-peer support")
+f32ab7547161 ("x86/PCI: Add "pci=big_root_window" option for AMD 64-bit windows")
+a19e2696135e ("x86/PCI: Only enable a 64bit BAR on single-socket AMD Family 15h")
+fa564ad96366 ("x86/PCI: Enable a 64bit BAR on AMD Family 15h (Models 00-1f, 30-3f, 60-7f)")
+f1b0e54e16b3 ("x86/PCI: Move VMD quirk to x86 fixups")
+13cfc732160f ("PCI: Work around poweroff & suspend-to-RAM issue on Macbook Pro 11")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+e6e3d8f8f4f0 ("Merge tag 'pci-v4.9-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

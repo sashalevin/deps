@@ -1,0 +1,8 @@
+ba6a9c6899b2 ("RDMA/mlx5: Simplify get_umr_update_access_mask()")
+8a8a5d37c7b4 ("RDMA/mlx5: Move mkey ctrl segment logic to umr.c")
+f49c856ac2ef ("RDMA/mlx5: Move umr checks to umr.h")
+04876c12c19e ("RDMA/mlx5: Move init and cleanup of UMR to umr.c")
+de8bdb476908 ("RDMA/mlx5: Drop crypto flow steering API")
+74ec29bdb0eb ("RDMA/mlx5: Delete never supported IPsec flow action")
+0dc0da15ed7d ("RDMA/mlx5: Rework custom driver QP type creation")
+8c9e7f0325fe ("RDMA/mlx5: Delete device resource mutex that didn't protect anything")

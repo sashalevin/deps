@@ -1,0 +1,6 @@
+393261828740 ("powerpc: replace #include <asm/export.h> with #include <linux/export.h>")
+29a011fc79e6 ("powerpc: Fix objtool unannotated intra-function call warnings")
+e0d68273d706 ("powerpc: Remove CONFIG_PPC_BOOK3E")
+dfc3095cec27 ("powerpc: Remove CONFIG_FSL_BOOKE")
+d1203f32d869 ("powerpc/Kconfig: Fix non existing CONFIG_PPC_FSL_BOOKE")
+0670010f3b10 ("powerpc/32s: Enable STRICT_MODULE_RWX for the 603 core")

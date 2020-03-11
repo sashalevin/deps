@@ -1,0 +1,5 @@
+92e1764787e5 ("eeprom: at24: remove struct at24_client")
+9ae9d9bfb72c ("eeprom: at24: use struct_size() in devm_kzalloc()")
+a8806581241b ("eeprom: at24: Remove set but not used variable 'addr'")
+e7308628d0ae ("eeprom: at24: use devm_i2c_new_dummy_device()")
+4fa882c9f628 ("eeprom: at24: remove at24_platform_data")

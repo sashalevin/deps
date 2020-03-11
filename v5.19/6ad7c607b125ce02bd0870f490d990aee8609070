@@ -1,0 +1,8 @@
+6ad7c607b125 ("fs: reduce stack usage in __mpage_writepage")
+f0d6ca46d686 ("mpage: split submit_bio and bio end_io handler for reads and writes")
+9160cffd45ee ("mpage: convert __mpage_writepage() to use a folio more fully")
+4b89a37d54a0 ("fs: don't allocate blocks beyond EOF from __mpage_writepage")
+cf5e7a652168 ("fs: remove the NULL get_block case in mpage_writepages")
+f2d3e573bff9 ("fs: don't call ->writepage from __mpage_writepage")
+cc9cf350d100 ("fs: remove the nobh helpers")
+211d04445b96 ("mpage: Convert do_mpage_readpage() to use a folio")

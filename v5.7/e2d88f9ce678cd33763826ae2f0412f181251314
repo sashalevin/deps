@@ -1,0 +1,6 @@
+e2d88f9ce678 ("sctp: use the correct skb for security_sctp_assoc_request")
+5e50f5d4ff31 ("security: add sctp_assoc_established hook")
+e215dab1c490 ("security: call security_sctp_assoc_request in sctp_sf_do_5_1D_ce")
+c081d53f97a1 ("security: pass asoc to sctp_assoc_request and sctp_sk_clone")
+21c00a186fac ("net: sctp: Fix some typos")
+fe5a90b8c149 ("selinux: netlabel: Remove unused inline function")

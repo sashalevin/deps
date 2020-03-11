@@ -1,0 +1,5 @@
+b8399819b2dd ("crypto: lib/sha256 - Clear W[] in sha256_update() instead of sha256_transform()")
+7a4295f6c9d5 ("crypto: lib/sha256 - Don't clear temporary variables")
+906a4bb97f5d ("crypto: sha256 - Use get/put_unaligned_be32 to get input, memzero_explicit")
+ad767ee858b3 ("crypto: sha256 - Move lib/sha256.c to lib/crypto")
+85a0b791bc17 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

@@ -1,0 +1,6 @@
+b5184a26a28f ("iio: buffer: correctly return bytes written in output buffers")
+9eeee3b0bf19 ("iio: Add output buffer support")
+b804e2b76ac6 ("iio: core: move @info_exist_lock to struct iio_dev_opaque")
+3028e0c2af95 ("iio: core: move @trig_readonly from struct iio_dev to struct iio_dev_opaque")
+6eaf9f6a2738 ("iio: core: move @driver_module from struct iio_dev to struct iio_dev_opaque")
+15ea2878bfb2 ("iio: core: move @id from struct iio_dev to struct iio_dev_opaque")

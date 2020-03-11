@@ -1,0 +1,8 @@
+74c839b2f554 ("[media] lirc: use refcounting for lirc devices")
+7cebf2ee8b7e ("[media] lirc: fix null dereference for tx-only devices")
+b40769ee2ed0 ("[media] lirc: fix error paths in lirc_cdev_add()")
+afbb110172b9 ("[media] lirc: prevent use-after free")
+8e5fa4c67d63 ("[media] lirc_dev: fix potential segfault")
+3fac031460e3 ("[media] lirc_dev: replace printk with pr_* or dev_*")
+fe084c7eff2d ("[media] lirc_dev: remove unnecessary debug prints")
+b64e10f3dfbf ("[media] lirc_dev: avoid double mutex unlock")

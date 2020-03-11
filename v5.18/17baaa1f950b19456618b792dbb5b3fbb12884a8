@@ -1,0 +1,6 @@
+17baaa1f950b ("ASoC: SOF: core: Add probe_early and remove_late callbacks")
+f549a82aff57 ("ASoC: SOF: core: Ensure sof_ops_free() is still called when probe never ran.")
+31bb7bd9ffee ("ASoC: SOF: core: Only call sof_ops_free() on remove if the probe was successful")
+bc433fd76fae ("ASoC: SOF: Add ops_free")
+cf64b67eebc2 ("ASoC: SOF: Do not check for the fw_ready callback")
+856601e5a7eb ("ASoC: SOF: remove const qualifier for 'struct snd_sof_dsp_ops'")

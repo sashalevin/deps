@@ -1,0 +1,8 @@
+b18fe4be59f2 ("drm/i915: Enlarge vma->pin_count")
+83b466b1dc5f ("drm/i915: Mark pin flags as u64")
+7125397b8246 ("drm/i915: Track GGTT writes on the vma")
+a65adaf8a834 ("drm/i915: Track user GTT faulting per-vma")
+3bd4073524fa ("drm/i915: Consolidate get_fence with pin_fence")
+b4563f595ed4 ("drm/i915: Pin fence for iomap")
+c5ba5b24657e ("drm/i915: Apply the GTT write flush for all !llc machines")
+969b0950a188 ("drm/i915: Add interface to reserve fence registers for vGPU")

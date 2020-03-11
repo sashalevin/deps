@@ -1,0 +1,7 @@
+351a59dace0e ("cifs: fix bad fids sent over wire")
+ca780da5fdd3 ("smb3: add additional null check in SMB311_posix_mkdir")
+6b7895182ce3 ("smb3: add additional null check in SMB2_open")
+c462870bf854 ("cifs: Move SMB2_Create definitions to the shared area")
+d8d9de532de9 ("cifs: Move more definitions into the shared area")
+fc0b38446949 ("cifs: move NEGOTIATE_PROTOCOL definitions out into the common area")
+0d35e382e4e9 ("cifs: Create a new shared file holding smb2 pdu definitions")

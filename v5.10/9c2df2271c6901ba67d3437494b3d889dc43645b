@@ -1,0 +1,4 @@
+9c2df2271c69 ("ceph: stash idmapping in mdsc request")
+9eaa7b79979f ("ceph: eliminate req->r_wait_for_completion from ceph_mds_request")
+d517b3983dd3 ("ceph: reconnect to the export targets on new mdsmaps")
+7fe0cdeb0f88 ("ceph: take a cred reference instead of tracking individual uid/gid")

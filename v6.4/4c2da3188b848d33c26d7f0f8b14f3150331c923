@@ -1,0 +1,3 @@
+4c2da3188b84 ("mm/madvise: don't forget to leave lazy MMU mode in madvise_cold_or_pageout_pte_range()")
+b2f557a21bc8 ("mm/madvise: add cond_resched() in madvise_cold_or_pageout_pte_range()")
+f3cd4ab0aabf ("mm/madvise: clean up pte_offset_map_lock() scans")

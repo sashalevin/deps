@@ -1,0 +1,5 @@
+b7b618da0edc ("mm: memory-failure: remove unneeded page state check in shake_page()")
+d0505e9f7dce ("mm: hwpoison: don't drop slab caches for offlining non-LRU page")
+a21c184fe25e ("mm/hwpoison: fix some obsolete comments")
+fcc00621d88b ("mm/hwpoison: retry with shake_page() for unhandlable pages")
+0ed950d1f281 ("mm,hwpoison: make get_hwpoison_page() call get_any_page()")

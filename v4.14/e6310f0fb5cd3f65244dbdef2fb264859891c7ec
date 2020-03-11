@@ -1,0 +1,5 @@
+e6310f0fb5cd ("include/linux/printk.h: drop silly "static inline asmlinkage" from dump_stack()")
+e36df28f532f ("printk: move dump stack related code to lib/dump_stack.c")
+097114aa6eb2 ("print kdump kernel loaded status in stack dump")
+b7ad7ef742a9 ("remove task and stack pointer printout from oops dump")
+01c313dded34 ("kallsyms: fix building without printk")

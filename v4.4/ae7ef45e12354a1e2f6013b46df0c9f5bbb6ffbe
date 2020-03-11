@@ -1,0 +1,5 @@
+ae7ef45e1235 ("x86/traps: Enable all exception handler callbacks early")
+0e861fbb5bda ("x86/head: Move early exception panic code into early_fixup_exception()")
+0d0efc07f3df ("x86/head: Move the early NMI fixup into C")
+7bbcdb1ca4d2 ("x86/head: Pass a real pt_regs and trapnr to early_fixup_exception()")
+548acf19234d ("x86/mm: Expand the exception table logic to allow new handling options")

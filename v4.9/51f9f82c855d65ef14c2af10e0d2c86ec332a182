@@ -1,0 +1,6 @@
+51f9f82c855d ("zram: count same page write as page_stored")
+1f7319c74275 ("zram: partial IO refactoring")
+d72e9a7a93e4 ("zram: do not use copy_page with non-page aligned address")
+8e19d540d107 ("zram: extend zero pages to same element pages")
+a09759acaacf ("zram: remove waitqueue for IO done")
+c87d1655c295 ("zram: remove obsolete sysfs attrs")

@@ -1,0 +1,6 @@
+a554e740b66a ("x86/boot/compressed: Enable -Wundef")
+527afc212231 ("x86/boot: Check that there are no run-time relocations")
+3f086189cd36 ("x86/boot: Remove run-time relocations from head_{32,64}.S")
+a2c4fc4d4e2c ("x86/boot: Remove run-time relocations from .head.text code")
+423e4d198a03 ("x86/boot/compressed: Get rid of GOT fixup code")
+262b5cae67a6 ("x86/boot/compressed: Move .got.plt entries out of the .got section")

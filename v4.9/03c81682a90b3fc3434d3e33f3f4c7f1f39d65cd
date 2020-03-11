@@ -1,0 +1,8 @@
+03c81682a90b ("KVM: PPC: Book3S PR: Add emulation for treclaim.")
+5706340a3392 ("KVM: PPC: Book3S PR: Always fail transactions in guest privileged state")
+8d2e2fc5e082 ("KVM: PPC: Book3S PR: Add transaction memory save/restore skeleton")
+66c33e796cf9 ("KVM: PPC: Book3S PR: Add kvmppc_save/restore_tm_sprs() APIs")
+de7ad932190c ("KVM: PPC: Book3S PR: Add new kvmppc_copyto/from_vcpu_tm APIs")
+95757bfc72e9 ("KVM: PPC: Book3S PR: Sync TM bits to shadow msr for problem state guest")
+901938add3bd ("KVM: PPC: Book3S PR: Pass through MSR TM and TS bits to shadow_msr")
+07ae5389e98c ("KVM: PPC: Book3S PR: Fix svcpu copying with preemption enabled")

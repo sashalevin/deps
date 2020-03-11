@@ -1,0 +1,8 @@
+7173eca8eeb7 ("net: ethernet: mtk_eth_soc: convert ring dma pointer to void")
+72e27d3718ba ("net: ethernet: mtk_eth_soc: rely on rxd_size field in mtk_rx_alloc/mtk_rx_clean")
+649a752775c2 ("net: ethernet: mtk_eth_soc: rely on txd_size field in mtk_poll_tx/mtk_poll_rx")
+e70a5634c1f5 ("net: ethernet: mtk_eth_soc: rely on txd_size in txd_to_idx")
+c4fd06c2bb82 ("net: ethernet: mtk_eth_soc: rely on txd_size in mtk_desc_to_tx_buf")
+0e05744beda4 ("net: ethernet: mtk_eth_soc: rely on txd_size in mtk_tx_alloc/mtk_tx_clean")
+731f3fd6bc87 ("net: ethernet: mtk_eth_soc: move tx dma desc configuration in mtk_tx_set_dma_desc")
+d776a57e4a28 ("net: ethernet: mtk_eth_soc: add support for coherent DMA")

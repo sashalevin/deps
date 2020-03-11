@@ -1,0 +1,7 @@
+21957f90b28f ("kunit: split out part of kunit_assert into a static const")
+dd640d70874b ("kunit: factor out kunit_base_assert_format() call into kunit_fail()")
+a91e9ade402c ("kunit: drop unused kunit* field in kunit_assert")
+4fdacef8ac5a ("kunit: move check if assertion passed into the macros")
+ec54c2892064 ("include/kunit/test.h: replace kernel.h with the necessary inclusions")
+2f9f21cdcd71 ("kunit: Match parenthesis alignment to improve code readability")
+3084db0e0d50 ("kunit: fix display of failed expectations for strings")

@@ -1,0 +1,6 @@
+0b5e7a16a0a7 ("KVM: VMX: Make vmread_error_trampoline() uncallable from C code")
+57abfa11ba9b ("KVM: VMX: Do not declare vmread_error() asmlinkage")
+535f7ef2ab7d ("KVM: VMX: Move IRQ invocation to assembly subroutine")
+3ebccdf373c2 ("x86/kvm/vmx: Move guest enter/exit into .noinstr.text")
+0642391e2139 ("x86/kvm/vmx: Add hardirq tracing to guest enter/exit")
+87fa7f3e98a1 ("x86/kvm: Move context tracking where it belongs")

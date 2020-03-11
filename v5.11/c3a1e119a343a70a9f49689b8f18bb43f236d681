@@ -1,0 +1,3 @@
+c3a1e119a343 ("KVM: VMX: Inject #GP, not #UD, if SGX2 ENCLS leafs are unsupported")
+5e50082c8c21 ("KVM: VMX: Inject #GP on ENCLS if vCPU has paging disabled (CR0.PG==0)")
+9798adbc04cf ("KVM: VMX: Frame in ENCLS handler for SGX virtualization")

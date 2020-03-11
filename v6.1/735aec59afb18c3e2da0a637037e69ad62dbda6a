@@ -1,0 +1,4 @@
+735aec59afb1 ("kbuild: readd -w option when vmlinux.o or Module.symver is missing")
+63ffe00d8c93 ("kbuild: Fix running modpost with musl libc")
+3d57e1b7b1d4 ("kbuild: refactor the prerequisites of the modpost rule")
+f65a486821cf ("kbuild: change module.order to list *.o instead of *.ko")

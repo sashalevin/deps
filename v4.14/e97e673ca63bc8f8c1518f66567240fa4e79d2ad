@@ -1,0 +1,7 @@
+e97e673ca63b ("scsi: megaraid_sas: Retry with reduced queue depth when alloc fails for higher QD")
+b9637d14dc00 ("scsi: megaraid_sas: Resize MFA frame used for IOC INIT to 4k")
+9b3d028f3468 ("scsi: megaraid_sas: Pre-allocate frequently used DMA buffers")
+1b4bed206159 ("scsi: megaraid_sas: Create separate functions for allocating and freeing controller DMA buffers")
+49a7a4adb016 ("scsi: megaraid_sas: Create separate functions to allocate ctrl memory")
+f369a31578c4 ("scsi: megaraid_sas: replace is_ventura with adapter_type checks")
+c365178f3147 ("scsi: megaraid_sas: use adapter_type for all gen controllers")

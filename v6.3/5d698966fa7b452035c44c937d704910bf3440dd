@@ -1,0 +1,7 @@
+5d698966fa7b ("parisc: Allow mmap(MAP_STACK) memory to automatically expand upwards")
+d5aad4c2ca05 ("prctl: generalize PR_SET_MDWE support check to be per-arch")
+793838138c15 ("prctl: Disable prctl(PR_SET_MDWE) on parisc")
+24e41bf8a6b4 ("mm: add a NO_INHERIT flag to the PR_SET_MDWE prctl")
+0da668333fb0 ("mm: make PR_MDWE_REFUSE_EXEC_GAIN an unsigned long")
+d7597f59d1d3 ("mm: add new api to enable ksm per process")
+ddc65971bb67 ("prctl: add PR_GET_AUXV to copy auxv to userspace")

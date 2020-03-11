@@ -1,0 +1,7 @@
+a16578dd5e3a ("rcu: Rework rcu_barrier() and callback-migration logic")
+0cabb47af3cf ("rcu: Refactor rcu_barrier() empty-list handling")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")
+2caebefb00f0 ("rcu: Move rcu_dynticks_eqs_online() to rcu_cpu_starting()")
+ebc88ad49136 ("rcu: Comment rcu_gp_init() code waiting for CPU-hotplug operations")
+3820b513a2e3 ("rcu/nocb: Detect unsafe checks for offloaded rdp")
+0d2460ba6184 ("Merge branches 'doc.2021.01.06a', 'fixes.2021.01.04b', 'kfree_rcu.2021.01.04a', 'mmdumpobj.2021.01.22a', 'nocb.2021.01.06a', 'rt.2021.01.04a', 'stall.2021.01.06a', 'torture.2021.01.12a' and 'tortureall.2021.01.06a' into HEAD")

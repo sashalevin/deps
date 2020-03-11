@@ -1,0 +1,8 @@
+f1db99c07b4f ("string_helpers: Move string_is_valid() to the header")
+fd567ac20cb0 ("tipc: fix link name length check")
+4f07b80c9733 ("tipc: check msg->req data len in tipc_nl_compat_bearer_disable")
+8c63bf9ab4be ("tipc: check link name with right length in tipc_nl_compat_link_set")
+6f07e5f06c87 ("tipc: check bearer name with right length in tipc_nl_compat_bearer_enable")
+edf5ff04a457 ("tipc: fix uninit-value in tipc_nl_compat_link_set")
+0762216c0ad2 ("tipc: fix uninit-value in tipc_nl_compat_bearer_enable")
+8b66fee7f8ee ("tipc: fix uninit-value in tipc_nl_compat_link_reset_stats")

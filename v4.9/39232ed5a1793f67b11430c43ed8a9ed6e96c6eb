@@ -1,0 +1,7 @@
+39232ed5a179 ("time: Introduce one suspend clocksource to compensate the suspend time")
+f473e5f467f6 ("time: Fix extra sleeptime injection when suspend fails")
+2aae7bcfa410 ("clocksource: Allow clocksource_mark_unstable() on unregistered clocksources")
+ceea5e3771ed ("time: Fix clock->read(clock) race around clocksource changes")
+12907fbb1a69 ("sched/clock, clocksource: Add optional cs::mark_unstable() method")
+a5a1d1c2914b ("clocksource: Use a plain u64 instead of cycle_t")
+f7dd3b1734ea ("Merge branch 'x86-timers-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

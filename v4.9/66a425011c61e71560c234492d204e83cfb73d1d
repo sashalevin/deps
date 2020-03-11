@@ -1,0 +1,5 @@
+66a425011c61 ("x86: __always_inline __{rd,wr}msr()")
+a585df8edabd ("x86/MSR: Carve out bare minimum accessors")
+5d07c2cc1962 ("x86/msr: Cleanup/streamline MSR helpers")
+8ca225520e27 ("x86/apic: Prevent tracing on apic_msr_write_eoi()")
+b2c5ea4f7591 ("x86/msr: Add wrmsr_notrace()")

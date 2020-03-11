@@ -1,0 +1,8 @@
+321ef62b0c5f ("KVM: nVMX: Fold requested virtual interrupt check into has_nested_events()")
+27c4fa42b11a ("KVM: nVMX: Check for pending posted interrupts when looking for nested events")
+e366f92ea99e ("KVM: SEV: Support SEV-SNP AP Creation NAE event")
+c63cf135cc99 ("KVM: SEV: Add support to handle RMP nested page faults")
+9b54e248d264 ("KVM: SEV: Add support to handle Page State Change VMGEXIT")
+d46b7b6a5f9e ("KVM: SEV: Add support to handle MSR based Page State Change VMGEXIT")
+0c76b1d08280 ("KVM: SEV: Add support to handle GHCB GPA register VMGEXIT")
+1dfe571c12cf ("KVM: SEV: Add initial SEV-SNP support")

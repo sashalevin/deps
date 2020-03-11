@@ -1,1 +1,2 @@
 45b13b424faa ("x86/boot/compressed/64: Do not corrupt EDX on EFER.LME=1 setting")
+b677dfae5aa1 ("x86/boot/compressed/64: Set EFER.LME=1 in 32-bit trampoline before returning to long mode")

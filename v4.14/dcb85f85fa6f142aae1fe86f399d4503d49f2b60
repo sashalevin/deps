@@ -1,0 +1,6 @@
+dcb85f85fa6f ("gcc-plugins/stackleak: Use noinstr in favor of notrace")
+feee1b8c4908 ("gcc-plugins/stackleak: Use asm instrumentation to avoid useless register saving")
+8d97fb393c5c ("gcc-plugins/stackleak: Avoid assignment for unused macro argument")
+e9c7d656610e ("stackleak: Mark stackleak_track_stack() as notrace")
+ef1a84093489 ("stackleak: Disable function tracing and kprobes for stackleak_erase()")
+e468f5c06b5e ("Merge tag 'compiler-attributes-for-linus-4.20-rc1' of https://github.com/ojeda/linux")

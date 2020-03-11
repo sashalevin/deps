@@ -1,0 +1,6 @@
+ceb013b2d9a2 ("i2c: i801: Avoid potential double call to gpiod_remove_lookup_table")
+5581b4167c0f ("i2c: i801: Refactor mux code since platform_device_unregister() is NULL aware")
+926e6b2cd1ca ("i2c: i801: Drop duplicate NULL check in i801_del_mux()")
+d308dfbf62ef ("i2c: mux/i801: Switch to use descriptor passing")
+77588c14ac86 ("gpiolib: Pass array info to get/set array functions")
+b9762bebc633 ("gpiolib: Pass bitmaps, not integer arrays, to get/set array")

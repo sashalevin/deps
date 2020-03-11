@@ -1,0 +1,6 @@
+b618ab4561d4 ("net: stmmac: don't use netdev_[dbg, info, ..] before net_device is registered")
+a2cd64f30140 ("net: stmmac: fix maxmtu assignment to be within valid range")
+b2eb09af7370 ("net: stmmac: Fix error path after register_netdev move")
+5701659004d6 ("net: stmmac: Fix race between stmmac_drv_probe and stmmac_open")
+38ddc59d65b6 ("net: stmmac: replace all pr_xxx by their netdev_xxx counterpart")
+bb598c1b8c9b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

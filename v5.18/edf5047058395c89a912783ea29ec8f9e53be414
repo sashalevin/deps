@@ -1,0 +1,5 @@
+edf504705839 ("mm: use a folio in copy_pte_range()")
+40f2bbf71161 ("mm/rmap: drop "compound" parameter from page_add_new_anon_rmap()")
+fb3d824d1a46 ("mm/rmap: split page_dup_rmap() into page_dup_file_rmap() and page_try_dup_anon_rmap()")
+b51ad4f8679e ("mm/memory: slightly simplify copy_present_pte()")
+623a1ddfeb23 ("mm/hugetlb: take src_mm->write_protect_seq in copy_hugetlb_page_range()")

@@ -1,0 +1,6 @@
+576d0703a812 ("compat.h: fix a spelling error in <linux/compat.h>")
+c679a08983db ("syscalls: sort syscall prototypes in include/linux/compat.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+3968cf623892 ("get_compat_sigset()")
+b8e8e1aa9f14 ("get rid of {get,put}_compat_itimerspec()")
+f454322efbf6 ("signal: replace sigset_to_compat() with put_compat_sigset()")

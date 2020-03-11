@@ -1,0 +1,5 @@
+a850e932df65 ("mm: vmalloc: add cond_resched() in __vunmap()")
+121e6f3258fe ("mm/vmalloc: hugepage vmalloc mappings")
+4f6ec8602341 ("mm/vmalloc: separate put pages and flush VM flags")
+ba8f3587f556 ("init/main: fix broken buffer_init when DEFERRED_STRUCT_PAGE_INIT set")
+34fe653716b0 ("mm/vmalloc.c:__vmalloc_area_node(): avoid 32-bit overflow")

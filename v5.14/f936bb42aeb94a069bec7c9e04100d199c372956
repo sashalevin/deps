@@ -1,0 +1,8 @@
+f936bb42aeb9 ("net: bridge: mcast: Associate the seqcount with its protecting lock.")
+67b746f94ff3 ("net: bridge: mcast: make sure querier port/address updates are consistent")
+bb18ef8e7e18 ("net: bridge: mcast: record querier port device ifindex instead of pointer")
+54cb43199e14 ("net: bridge: multicast: fix igmp/mld port context null pointer dereferences")
+613d61dbef8e ("net: bridge: vlan: add global and per-port multicast context")
+adc47037a7d5 ("net: bridge: multicast: use multicast contexts instead of bridge or port")
+d3d065c0032b ("net: bridge: multicast: factor out bridge multicast context")
+9632233e7de8 ("net: bridge: multicast: factor out port multicast context")

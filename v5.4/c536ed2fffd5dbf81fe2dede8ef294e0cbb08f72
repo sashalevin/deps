@@ -1,0 +1,7 @@
+c536ed2fffd5 ("objtool: Remove SAVE/RESTORE hints")
+e25eea89bb88 ("objtool: Introduce HINT_RET_OFFSET")
+b746046238bb ("objtool: Better handle IRET")
+65ea47dcf4f9 ("objtool: Support multiple stack_op per instruction")
+dbf4aeb0a494 ("objtool: Rename func_for_each_insn()")
+a92e92d1a749 ("objtool: Introduce validate_return()")
+77ac117b3a82 ("ftrace/x86: Tell objtool to ignore nondeterministic ftrace stack layout")

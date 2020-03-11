@@ -1,0 +1,5 @@
+c3e0c8c2e8b1 ("KVM: x86/mmu: Fully re-evaluate MMIO caching when SPTE masks change")
+8b9e74bfbf8c ("KVM: x86/mmu: Use enable_mmio_caching to track if MMIO caching is enabled")
+86931ff7207b ("KVM: x86/mmu: Do not create SPTEs for GFNs that exceed host.MAXPHYADDR")
+1d0e84806047 ("KVM: x86/mmu: Resolve nx_huge_pages when kvm.ko is loaded")
+cf3e26427c08 ("KVM: x86/mmu: Zap only TDP MMU leafs in kvm_zap_gfn_range()")

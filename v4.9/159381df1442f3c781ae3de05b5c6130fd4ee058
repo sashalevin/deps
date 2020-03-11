@@ -1,0 +1,7 @@
+159381df1442 ("tty: serial: fsl_lpuart: fix DMA operation when using IOMMU")
+fd60e8e4a701 ("tty: serial: fsl_lpuart: Introduce lpuart_rx_dma_startup()")
+5982199ca071 ("tty: serial: fsl_lpuart: Introduce lpuart_tx_dma_startup()")
+769d55c523f7 ("tty: serial: fsl_lpuart: Introduce lpuart_dma_shutdown()")
+8a9b82422ff5 ("tty: serial: fsl_lpuart: Drop unnecessary lpuart*_stop_tx()")
+42b68768e51b ("serial: fsl_lpuart: DMA support for 32-bit variant")
+9424e8b1fedb ("Merge 4.14-rc4 into tty-next")

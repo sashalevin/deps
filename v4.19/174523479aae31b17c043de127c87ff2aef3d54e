@@ -1,0 +1,4 @@
+174523479aae ("net: rtnl: use rcu_replace_pointer_rtnl in rtnl_unregister_*")
+4fc29989835a ("net: rtnetlink: convert rcu_assign_pointer to RCU_INIT_POINTER")
+51e13685bd93 ("rtnetlink: RCU-annotate both dimensions of rtnl_msg_handlers")
+87ccbb1f9436 ("rtnetlink: move type calculation out of loop")

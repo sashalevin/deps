@@ -1,0 +1,5 @@
+6b839b3b76cf ("regset: use kvzalloc() for regset_get_alloc()")
+1e6986c9db21 ("regset: kill ->get()")
+7717cb9bdd04 ("regset: new method and helpers for it")
+dc12d7968f9c ("copy_regset_to_user(): do all copyout at once.")
+b4e9c9549f62 ("introduction of regset ->get() wrappers, switching ELF coredumps to those")

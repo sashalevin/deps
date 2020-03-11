@@ -1,0 +1,6 @@
+a9a4ca5767c1 ("perf data: Allow to use given fd in data->file.fd")
+601366678c93 ("perf data: Allow to use stdio functions for pipe mode")
+b8f7d86b5849 ("perf data: Force perf_data__open|close zero data->file.path")
+2d4f27999b88 ("perf data: Add global path holder")
+45112e89a8b2 ("perf data: Move size to struct perf_data_file")
+c04c859f439f ("perf tools: Initialize perf_data_file fd field")

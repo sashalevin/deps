@@ -1,0 +1,6 @@
+eb86ef3b2d7e ("powerpc/iommu: don't set failed sg dma_address to DMA_MAPPING_ERROR")
+d11e3d3d0336 ("powerpc/iommu: remove the mapping_error dma_map_ops method")
+6009faa43f80 ("powerpc: implement ->mapping_error")
+af8a24988e48 ("powerpc: implement the DMA_ATTR_NO_WARN attribute")
+00085f1efa38 ("dma-mapping: use unsigned long for dma_attrs")
+dd9671172a06 ("Merge tag 'iommu-updates-v4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

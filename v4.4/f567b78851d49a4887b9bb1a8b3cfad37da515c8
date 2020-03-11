@@ -1,0 +1,7 @@
+f567b78851d4 ("ALSA: hda - Move mic mute LED helper to the generic parser")
+62a939477173 ("ALSA: hda - Implement mic-mute LED mode enum")
+5dba8804e8c4 ("ALSA: hda - rename dell_led_set_func to dell_micmute_led_set_func")
+fa5923cea8da ("ALSA: hda - use dell_micmute_led_set() instead of dell_app_wmi_led_set()")
+4875a5f72180 ("ALSA: hda - Fix a failure of micmute led when having multi adcs")
+0c41a08e131d ("dell-led: use dell_smbios_send_request() for performing SMBIOS calls")
+cf0d7ea33596 ("dell-led: use dell_smbios_find_token() for finding mic DMI tokens")

@@ -1,0 +1,5 @@
+a1317e091ab1 ("cpufreq: Rename __cpufreq_governor() to cpufreq_governor()")
+49f18560f8ba ("cpufreq: Call __cpufreq_governor() with policy->rwsem held")
+69cee7147b4a ("cpufreq: Merge cpufreq_offline_prepare/finish routines")
+68e80dae0903 ("Revert "cpufreq: Drop rwsem lock around CPUFREQ_GOV_POLICY_EXIT"")
+de1df26b7cef ("cpufreq: Clean up default and fallback governor setup")

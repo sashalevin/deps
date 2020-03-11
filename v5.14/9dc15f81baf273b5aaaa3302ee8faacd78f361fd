@@ -1,0 +1,6 @@
+9dc15f81baf2 ("ASoC: wm8731: Factor out the I2C and SPI bus code into separate modules")
+8875d104af6c ("ASoC: wm8731: Factor our MCLK and mutex initialisation")
+5f1b9d1e424b ("ASoC: wm8731: Move regulator request into wm8731_init()")
+3f4fb9055109 ("ASoC: wm8731: Factor component init out of bus code")
+0b88a6590021 ("ASoC: wm8731: Delete empty remove() function")
+8b27cb2e6dd6 ("ASoc: wm8731: Drop empty spi_driver remove callback")

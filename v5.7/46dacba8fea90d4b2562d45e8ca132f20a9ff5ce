@@ -1,0 +1,6 @@
+46dacba8fea9 ("serial: 8250_pericom: Use serial_dl_write() instead of open coded")
+fcfd3c09f407 ("serial: 8250_pci: Split out Pericom driver")
+bb1201d4b38e ("serial: 8250_pci: rewrite pericom_do_set_divisor()")
+c525c5d2437f ("serial: 8250_pci: Fix ACCES entries in pci_serial_quirks array")
+04b6ff5f25de ("serial: 8250_pci: Add WCH384_8S 8 port serial device")
+62a7f3009a46 ("serial: 8250_pci: Move Pericom IDs to pci_ids.h")

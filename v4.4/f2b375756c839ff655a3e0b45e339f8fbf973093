@@ -1,0 +1,5 @@
+f2b375756c83 ("x86/entry: Vastly simplify SYSENTER TF (single-step) handling")
+81edd9f69a6f ("x86/entry/traps: Clear TIF_BLOCKSTEP on all debug exceptions")
+67f590e8d4d7 ("x86/entry/32: Filter NT and speed up AC filtering in SYSENTER")
+e786041153df ("x86/entry/compat: In SYSENTER, sink AC clearing below the existing FLAGS test")
+f74acf0e4326 ("x86/entry/64_compat: Make labels local")

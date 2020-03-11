@@ -1,0 +1,6 @@
+20794545c146 ("arm64: kasan: Revert "arm64: mte: reset the page tag in page->flags"")
+69e3b846d8a7 ("arm64: mte: Sync tags for pages where PTE is untagged")
+e60beb95c08b ("arm64: mte: Enable TCO in functions that can read beyond buffer limits")
+f3b7deef8dca ("arm64: mte: Add asynchronous mode support")
+f05842cfb9ae ("kasan, arm64: allow using KUnit tests with HW_TAGS mode")
+0fd379253691 ("kasan: clean up comments in tests")

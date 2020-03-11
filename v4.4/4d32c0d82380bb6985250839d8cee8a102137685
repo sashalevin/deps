@@ -1,0 +1,7 @@
+4d32c0d82380 ("drm/i915: Set aux.dev to the drm_connector device, instead of drm_device.")
+330e20ec7730 ("drm/i915: Store aux data reg offsets in intel_dp->aux_ch_data_reg[]")
+da00bdcfb259 ("drm/i915: Remove the magic AUX_CTL is at DP + foo tricks")
+750a951fd348 ("drm/i915: Parametrize AUX registers")
+a121f4e5fae5 ("drm/i915: Replace the aux ddc name switch statement with kasprintf()")
+ef11bdb3e00a ("drm/i915/kbl: Introduce Kabylake platform defition.")
+7526ac195c77 ("drm/i915: Define IS_BROXTON properly.")

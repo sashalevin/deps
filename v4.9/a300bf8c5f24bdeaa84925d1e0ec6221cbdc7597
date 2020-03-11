@@ -1,0 +1,8 @@
+a300bf8c5f24 ("KVM: PPC: fix comparison to bool warning")
+173c520a049f ("KVM: PPC: Move nip/ctr/lr/xer registers to pt_regs in kvm_vcpu_arch")
+4bb3c7a0208f ("KVM: PPC: Book3S HV: Work around transactional memory bugs in POWER9")
+b5af4f279323 ("powerpc: Add CPU feature bits for TM bug workarounds on POWER9 v2.2")
+9bbf0b576d32 ("powerpc: Free up CPU feature bits on 64-bit machines")
+dd0efb3f11cc ("powerpc: Book E: Remove unused CPU_FTR_L2CSR bit")
+c0d64cf9fefd ("powerpc: Use feature bit for RTC presence rather than timebase presence")
+15303ba5d1cd ("Merge tag 'kvm-4.16-1' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

@@ -1,0 +1,6 @@
+eddfc3c74214 ("tools/nolibc: drop test for getauxval(AT_PAGESZ)")
+48967b73f8fe ("selftests/nolibc: add testcases for startup code")
+67d108e2a2bd ("tools/nolibc: completely remove optional environ support")
+950add280c0b ("selftests/nolibc: prefer <sys/reboot.h> to <linux/reboot.h>")
+989abf1c7bc5 ("selftests/nolibc: fix up int_fast16/32_t test cases for musl")
+938b5b983330 ("selftests/nolibc: export argv0 for some tests")

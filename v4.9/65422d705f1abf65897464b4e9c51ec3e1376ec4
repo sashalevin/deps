@@ -1,0 +1,5 @@
+65422d705f1a ("scsi: target: Fold core_tmr_handle_tas_abort() into transport_cmd_finish_abort()")
+709d56512fe8 ("scsi: target: Simplify core_tmr_handle_tas_abort()")
+c01706982350 ("target: Inline transport_put_cmd()")
+73d4e580ccc5 ("target: Fix kref->refcount underflow in transport_cmd_finish_abort")
+fa7e25cf13a6 ("target: Fix unknown fabric callback queue-full errors")

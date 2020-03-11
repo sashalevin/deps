@@ -1,0 +1,7 @@
+bb084c0f61d6 ("backlight: pwm_bl: Don't use GPIOF_* with gpiod_get_direction")
+892c7788c724 ("backlight: pwm_bl: Fix GPIO out for unimplemented .get_direction()")
+7613c922315e ("backlight: pwm_bl: Move the checks for initial power state to a separate function")
+6cb9644db736 ("backlight: pwm_bl: Use pwm_get_args() where appropriate")
+7f044b09b68d ("backlight: pwm_bl: Remove useless call to pwm_set_period()")
+8777078015bb ("backlight: pwm_bl: Fix broken PWM backlight for non-dt platforms")
+3698d7e7d221 ("backlight: pwm_bl: Avoid backlight flicker when probed from DT")

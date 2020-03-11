@@ -1,0 +1,8 @@
+e7d4b5493a2d ("nvme: factor out a nvme_validate_passthru_nsid helper")
+2405252a680e ("nvme: move the ioctl code to a separate file")
+3557a4409701 ("nvme: don't bother to look up a namespace for controller ioctls")
+2f907f7f96d9 ("nvme: simplify block device ioctl handling for the !multipath case")
+89b3d6e60550 ("nvme: simplify the compat ioctl handling")
+a5d737f10022 ("nvme: factor out a nvme_ns_ioctl helper")
+d7790d3739cf ("nvme: pass a user pointer to nvme_nvm_ioctl")
+c881a23fb6f7 ("nvme: disallow passthru cmd from targeting a nsid != nsid of the block dev")

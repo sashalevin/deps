@@ -1,0 +1,7 @@
+2b139e6b1ec8 ("l2tp: remove ->recv_payload_hook")
+2e67560ef6c5 ("l2tp: don't export l2tp_session_queue_purge()")
+c3612f0e9017 ("l2tp: remove .show from struct l2tp_tunnel")
+d00fa9adc528 ("l2tp: fix races with tunnel socket close")
+76a6abdb2513 ("l2tp: don't use inet_shutdown on tunnel destroy")
+765924e362d1 ("l2tp: don't close sessions in l2tp_tunnel_destruct()")
+c7fa745d9888 ("l2tp: remove l2tp_tunnel_count and l2tp_session_count")

@@ -1,0 +1,8 @@
+197b7d792d6a ("ceph: pass the mdsc to several helpers")
+3fd945a79e14 ("ceph: encode encrypted name in ceph_mdsc_build_path and dentry release")
+6b5717bd30ab ("ceph: implement -o test_dummy_encryption mount option")
+2d332d5bc424 ("ceph: fscrypt_auth handling for ceph")
+4c793d4c58b7 ("ceph: make ceph_msdc_build_path use ref-walk")
+ec9595c080c6 ("ceph: preallocate inode for ops that may create one")
+03bc06c7b0bd ("ceph: add new mount option to enable sparse reads")
+a5ffd7b6e91a ("ceph: pass ino# instead of old_dentry if it's disconnected")

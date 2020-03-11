@@ -1,0 +1,7 @@
+91fac0741d48 ("USB: cdc-acm: fix minor-number release")
+4cde059acd11 ("USB: cdc-acm: clean up probe error labels")
+dda6faaa2bda ("USB: cdc-acm: drop redundant driver-data reset")
+4e49bf376c04 ("USB: cdc-acm: fix use-after-free after probe failure")
+c52873e5a1ef ("usb: cdc-acm: make sure a refcount is taken early enough")
+cae2bc768d17 ("usb: cdc-acm: Decrement tty port's refcount if probe() fail")
+74bccc9b71dc ("cdc-acm: store in and out pipes in acm structure")

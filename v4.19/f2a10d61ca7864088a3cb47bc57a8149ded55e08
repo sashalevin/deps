@@ -1,1 +1,7 @@
 f2a10d61ca78 ("drm/i915: Read out HDMI infoframes")
+fbf08556ed43 ("drm/i915: Precompute HDMI infoframes")
+e5e70d4a37f6 ("drm/i915: Store mask of enabled infoframes in the crtc state")
+509efa2b5497 ("drm/i915: Return the mask of enabled infoframes from ->inforame_enabled()")
+5cb3c1a123fc ("drm/i915: Add the missing HDMI gamut metadata packet stuff")
+96550555a78c ("drm/i915: Pass down rc in intel_encoder->compute_config()")
+23d19ba06b9c ("Merge drm/drm-next into drm-misc-next")

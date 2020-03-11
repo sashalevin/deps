@@ -1,0 +1,7 @@
+28b9b33b983f ("vhost_net: Rename local variables in vhost_net_rx_peek_head_len")
+f5a4941aa6d1 ("vhost_net: flush batched heads before trying to busy polling")
+aaa3149bbee9 ("vhost_net: add missing lock nesting notation")
+e2b3b35eb989 ("vhost_net: batch used ring update in rx")
+8b949bef9172 ("vhost_net: correctly check tx avail during rx busy polling")
+c67df11f6e48 ("vhost_net: try batch dequing from skb array")
+f2f09a4cee35 ("locking/core: Remove cpu_relax_lowlatency() users")

@@ -1,0 +1,8 @@
+c2427e70c163 ("x86/resctrl: Implement new mba_MBps throttling heuristic")
+ff6357bb5002 ("x86/resctrl: Allow update_mba_bw() to update controls directly")
+b58d4eb1f199 ("x86/resctrl: Remove architecture copy of mbps_val")
+6ce1560d35f6 ("x86/resctrl: Switch over to the resctrl mbps_val list")
+7add3af4178d ("x86/resctrl: Group struct rdt_hw_domain cleanup")
+3a7232cdf19e ("x86/resctrl: Add domain online callback for resctrl work")
+bab6ee736873 ("x86/resctrl: Merge mon_capable and mon_enabled")
+4d269ed48529 ("x86/resctrl: Kill off alloc_enabled")

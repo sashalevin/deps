@@ -1,0 +1,6 @@
+1b739388aa3f ("usb: gadget: u_audio: Fix race condition use of controls after free during gadget unbind.")
+8fe9a03f4331 ("usb: gadget: u_audio: Rate ctl notifies about current srate (0=stopped)")
+8722a949e62a ("usb: gadget: u_audio: Move dynamic srate from params to rtd")
+c565ad07ef35 ("usb: gadget: u_audio: Support multiple sampling rates")
+f2f69bf65df1 ("usb: gadget: u_audio: fix calculations for small bInterval")
+6fec018a7e70 ("usb: gadget: u_audio.c: Adding Playback Pitch ctl for sync playback")

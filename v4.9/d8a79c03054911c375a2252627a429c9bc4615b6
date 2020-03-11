@@ -1,0 +1,7 @@
+d8a79c030549 ("drm/hisilicon: Add depends on MMU")
+a0f25a6bb319 ("drm/hisilicon/hibmc: Allow to be built if COMPILE_TEST is enabled")
+acad3fe650a5 ("drm/hisilicon: Removed the dependency on the mmu")
+feeb07d0ca5a ("drm/hisilicon/hibmc: Make CONFIG_DRM_HISI_HIBMC depend on ARM64")
+011cda589938 ("drm: fix compilations issues introduced by "drm: allow to use mmuless SoC"")
+5e0df3a08f3d ("drm/hisilicon/hibmc: Add hisilicon hibmc drm master driver")
+de1e211ff7b9 ("drm/virtio: kconfig: Fixup white space.")

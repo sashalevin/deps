@@ -1,0 +1,5 @@
+ae4f8ae16a07 ("libperf evlist: Allow mixing per-thread and per-cpu mmaps")
+7be1fedd2a0a ("perf tools: Allow all_cpus to be a superset of user_requested_cpus")
+d8fe2efb65ac ("libperf evlist: Move ->idx() into mmap_per_evsel()")
+6a7b8a5a30e6 ("libperf evlist: Remove ->idx() per_cpu parameter")
+0255571a1605 ("perf cpumap: Switch to using perf_cpu_map API")

@@ -1,0 +1,4 @@
+fa35198f3957 ("fortify: Explicitly check bounds are compile-time constants")
+311fb40aa056 ("fortify: Use SIZE_MAX instead of (size_t)-1")
+d07c0acb4f41 ("fortify: Fix __compiletime_strlen() under UBSAN_BOUNDS_LOCAL")
+dfbafa70bde2 ("string: Introduce strtomem() and strtomem_pad()")

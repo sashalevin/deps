@@ -1,0 +1,3 @@
+b66fb005c975 ("proc/kcore: fix memory hotplug vs multiple opens race")
+0b172f845ff9 ("proc/kcore: replace kclist_lock rwlock with rwsem")
+bf53183164db ("proc/kcore: don't grab lock for memory hotplug notifier")

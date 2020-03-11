@@ -1,0 +1,4 @@
+54b77a77e30a ("net: hdlc_fr: Add support for any Ethertype")
+efc790394f8a ("net: hdlc_fr: Do skb_reset_mac_header for skbs received on normal PVC devices")
+14b20704a180 ("net: hdlc_fr: Change the use of "dev" in fr_rx to make the code cleaner")
+583d5333ed7d ("net: hdlc_fr: Simpify fr_rx by using "goto rx_drop" to drop frames")

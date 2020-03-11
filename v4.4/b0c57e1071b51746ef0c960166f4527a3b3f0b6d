@@ -1,0 +1,5 @@
+b0c57e1071b5 ("arm64: head: Init PMSCR_EL2.{PA,PCT} when entered at EL2 without VHE")
+2bf47e194608 ("arm64: head.S: Enable EL1 (host) access to SPE when entered at EL2")
+850540351bb1 ("arm64: kernel: Init MDCR_EL2 even in the absence of a PMU")
+f436b2ac90a0 ("arm64: kernel: fix architected PMU registers unconditional access")
+541d284be0fc ("Merge tag 'arm64-perf' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

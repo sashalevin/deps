@@ -1,0 +1,6 @@
+193188e5512d ("crypto: chacha20poly1305 - export CHACHAPOLY_IV_SIZE")
+a5e9f557098e ("crypto: chacha20 - Fix chacha20_block() keystream alignment (again)")
+7660b1fb367e ("crypto: chacha20 - use rol32() macro from bitops.h")
+9f480faec58c ("crypto: chacha20 - Fix keystream alignment for chacha20_block()")
+c440408cf690 ("random: convert get_random_int/long into get_random_u32/u64")
+f5b98461cb81 ("random: use chacha20 for get_random_int/long")

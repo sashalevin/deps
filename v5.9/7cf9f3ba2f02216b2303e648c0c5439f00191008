@@ -1,0 +1,5 @@
+7cf9f3ba2f02 ("mm, slub: only disable irq with spin_lock in __unfreeze_partials()")
+fc1455f4e023 ("mm, slub: separate detaching of partial list in unfreeze_partials() from unfreezing")
+c2f973ba42ed ("mm, slub: detach whole partial list at once in unfreeze_partials()")
+8de06a6f48f2 ("mm, slub: discard slabs in unfreeze_partials() without irqs disabled")
+f3ab8b6b9228 ("mm, slub: move irq control into unfreeze_partials()")

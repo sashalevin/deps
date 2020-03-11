@@ -1,0 +1,5 @@
+be76ea614460 ("s390/idle: remove arch_cpu_idle_time() and corresponding code")
+c01016299dc7 ("s390/idle: move idle time accounting to account_idle_time_irq()")
+eba8e1af5a61 ("s390/time,idle: get rid of unsigned long long")
+7ef37dd7bb00 ("s390/time: remove get_tod_clock_ext()")
+56e62a737028 ("s390: convert to generic entry")

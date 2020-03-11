@@ -1,0 +1,6 @@
+0eca8b6f97ac ("block: move the bi_vcnt check out of __bio_try_merge_page")
+939e1a370330 ("block: move the BIO_CLONED checks out of __bio_try_merge_page")
+a7e689dd1c06 ("block: Convert bio_iov_iter_get_pages to use iov_iter_extract_pages")
+e51bab4e2058 ("block: Replace BIO_NO_PAGE_REF with BIO_PAGE_REFFED with inverted logic")
+a450f49708ea ("iomap: Don't get an reference on ZERO_PAGE for direct I/O block zeroing")
+f62e52d1276b ("iov_iter: Define flags to qualify page extraction.")

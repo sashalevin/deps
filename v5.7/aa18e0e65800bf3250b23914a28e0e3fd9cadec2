@@ -1,0 +1,6 @@
+aa18e0e65800 ("s390/vmemmap: take the vmem_mutex when populating/freeing")
+c00f05a92424 ("s390/vmemmap: cleanup when vmemmap_populate() fails")
+9ec8fa8dc331 ("s390/vmemmap: extend modify_pagetable() to handle vmemmap")
+3e0d3e408e63 ("s390/vmem: consolidate vmem_add_range() and vmem_remove_range()")
+8398b226b8f0 ("s390/vmem: rename vmem_add_mem() to vmem_add_range()")
+f05f62d04271 ("s390/vmem: get rid of memory segment list")

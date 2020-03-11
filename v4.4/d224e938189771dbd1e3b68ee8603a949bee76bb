@@ -1,0 +1,4 @@
+d224e9381897 ("drivers/md/dm-ioctl.c: use kvmalloc rather than opencoded variant")
+6080758d441a ("dm ioctl: use offsetof() instead of open-coding it")
+028b39e314dd ("dm ioctl: Simplify parameter buffer management code")
+72f6d8d8c9b3 ("dm ioctl: drop use of __GFP_REPEAT in copy_params()'s __vmalloc() call")

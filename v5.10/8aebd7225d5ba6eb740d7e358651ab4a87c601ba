@@ -1,0 +1,6 @@
+8aebd7225d5b ("pwm: pxa: Make use of devm_pwmchip_alloc() function")
+4e77431cda49 ("pwm: Drop useless member .of_pwm_n_cells of struct pwm_chip")
+7170d3beafc2 ("pwm: Make it possible to apply PWM changes in atomic context")
+c748a6d77c06 ("pwm: Rename pwm_apply_state() to pwm_apply_might_sleep()")
+2d91123ae561 ("pwm: Update kernel doc for struct pwm_chip")
+f3bfe6433041 ("Merge tag 'pwm/for-6.7-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/thierry.reding/linux-pwm")

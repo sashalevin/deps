@@ -1,0 +1,6 @@
+8a78882dac1c ("mm/memory-failure: remove obsolete MF_MSG_DIFFERENT_COMPOUND")
+ceb32d6aa93c ("mm/memory-failure: remove MF_MSG_SLAB")
+5dba5c356ab3 ("mm/memory-failure: convert memory_failure() to use a folio")
+a363d1224b5a ("mm: memory-failure: fetch compound head after extra page refcnt is held")
+e0650a41f7d0 ("mm: clean up mlock_page / munlock_page references in comments")
+a8265cd917a6 ("Documentation/mm: update references to __m[un]lock_page() to *_folio()")

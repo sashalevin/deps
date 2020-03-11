@@ -1,0 +1,5 @@
+8a967d655e40 ("KVM: x86: replace static const variables with macros")
+5a9624affe7c ("KVM: mmu: extract spte.h and spte.c")
+799a4190e734 ("kvm: x86/mmu: Separate making SPTEs from set_spte")
+cc4674d0ded0 ("kvm: mmu: Separate making non-leaf sptes from link_shadow_page")
+127037591c84 ("KVM: x86/mmu: Bail early from final #PF handling on spurious faults")

@@ -1,0 +1,7 @@
+10bcc80e9dbc ("membarrier/x86: Provide core serializing command")
+306e060435d7 ("membarrier: Document scheduler barrier requirements")
+e872045bfd9c ("x86/entry/64: Simplify reg restore code in the standard IRET paths")
+8a055d7f411d ("x86/entry/64: Move SWAPGS into the common IRET-to-usermode path")
+26c4ef9c49d8 ("x86/entry/64: Split the IRET-to-user and IRET-to-kernel paths")
+9da78ba6b47b ("x86/entry/64: Remove the restore_c_regs_and_iret label")
+015a2ea54786 ("x86/head: Fix head ELF function annotations")

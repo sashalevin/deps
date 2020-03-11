@@ -1,0 +1,3 @@
+632478a05821 ("tracing/timerlat: Always wakeup the timerlat thread")
+9c556e5a4dd5 ("tracing/timerlat: Do not wakeup the thread if the trace stops at the IRQ")
+aa748949b4e6 ("tracing/timerlat: Notify IRQ new max latency only if stop tracing is set")

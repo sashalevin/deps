@@ -1,0 +1,8 @@
+bc3c5e0809ae ("drm/i915/sseu: Don't try to store EU mask internally in UAPI format")
+4cfd16659641 ("drm/i915/sseu: Simplify gen11+ SSEU handling")
+935a3c66eb9b ("drm/i915/xehp: Use separate sseu init function")
+c94fde8f5166 ("drm/i915/uapi: Add DRM_I915_QUERY_GEOMETRY_SUBSLICES")
+1c671ad753db ("drm/i915/doc: Link query items to their uapi structs")
+a2e5402691e2 ("drm/i915/doc: Convert perf UAPI comments to kerneldoc")
+78e1fb3112c0 ("drm/i915/uapi: Add query for hwconfig blob")
+144ce0ac634a ("drm/i915/sseu: Don't overallocate subslice storage")

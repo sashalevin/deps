@@ -1,0 +1,6 @@
+99c2dcc8ffc2 ("nvme-core: fix memory leak in dhchap_ctrl_secret")
+e8a420efb637 ("nvme-auth: no need to reset chap contexts on re-authentication")
+01604350e145 ("nvme-auth: don't override ctrl keys before validation")
+100b555bc204 ("nvme-auth: remove symbol export from nvme_auth_reset")
+0c999e69c40a ("nvme-auth: rename authentication work elements")
+0a7ce375f83f ("nvme-auth: rename __nvme_auth_[reset|free] to nvme_auth[reset|free]_dhchap")

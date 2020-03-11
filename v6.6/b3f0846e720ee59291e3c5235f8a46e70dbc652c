@@ -1,0 +1,5 @@
+b3f0846e720e ("bcache: pass queue_limits to blk_mq_alloc_disk")
+74fa8f9c553f ("block: pass a queue_limits argument to blk_alloc_disk")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")
+105c1a5f6cce ("bcache: use the default discard granularity")
+5e7169e7f7c0 ("bcache: discard_granularity should not be smaller than a sector")

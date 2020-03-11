@@ -1,0 +1,6 @@
+b200e38c493b ("sd: update the bdev size in sd_revalidate_disk")
+033a1b98b1f8 ("sd: open code revalidate_disk")
+a3d8a2573687 ("scsi: sd_zbc: Improve zone revalidation")
+b9245385f73c ("scsi: sd_zbc: Don't limit max_zone_append sectors to max_hw_sectors")
+5795eb443060 ("scsi: sd_zbc: emulate ZONE_APPEND commands")
+02494d35ba55 ("scsi: sd_zbc: factor out sanity checks for zoned commands")

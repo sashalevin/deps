@@ -1,0 +1,6 @@
+4fae831b3a71 ("tty: n_gsm: fix packet re-transmission without open control channel")
+d0bcdffcad5a ("tty: n_gsm: fix wrong command retry handling")
+338410408246 ("tty: n_gsm: Add copy_config() and gsm_config() to prepare for serdev")
+e9ec22547986 ("tty: n_gsm: Fix long delays with control frame timeouts in ADM mode")
+ea3d8465ab9b ("tty: n_gsm: Allow ADM response in addition to UA for control dlci")
+71e077915396 ("tty: n_gsm: do not send/receive in ldisc close path")

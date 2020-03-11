@@ -1,0 +1,7 @@
+600087b61467 ("KVM: Drop largepages_enabled and its accessor/mutator")
+286de8f6ac92 ("KVM: trigger uevents when creating or destroying a VM")
+536a6f88c49d ("KVM: Create debugfs dir and stat files for each VM")
+ba049e93aef7 ("kvm: rename pfn_t to kvm_pfn_t")
+4bd33b568855 ("KVM: Remove unnecessary debugfs dentry references")
+029499b47738 ("KVM: x86: MMU: Make mmu_set_spte() return emulate value")
+7ee0e5b29d27 ("KVM: x86: MMU: Remove unused parameter of __direct_map()")

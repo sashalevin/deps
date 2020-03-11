@@ -1,0 +1,8 @@
+475b581ff57b ("powerpc/64s: Fix masking of SRR1 bits on instruction fault")
+b4c001dc44f0 ("powerpc/mm: Use symbolic constants for filtering SRR1 bits on ISIs")
+c433ec0455f9 ("powerpc/mm: Pre-filter SRR1 bits before do_page_fault()")
+da929f6af468 ("powerpc/mm: Evaluate user_mode(regs) only once in do_page_fault()")
+97a011e69b42 ("powerpc/mm: Remove a redundant test in do_page_fault()")
+e8de85ca32f5 ("powerpc/mm: Only call store_updates_sp() on stores in do_page_fault()")
+a7a9dcd882a6 ("powerpc: Avoid taking a data miss on every userspace instruction miss")
+d7df2443cd5f ("powerpc/mm: Fix spurrious segfaults on radix with autonuma")

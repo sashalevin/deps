@@ -1,0 +1,8 @@
+2162d45392c6 ("ASoC: au1x: convert not to use asoc_xxx()")
+e287d0464be0 ("ASoC: au1x: use asoc_substream_to_rtd()")
+11a828fa8b42 ("ASoC: au1x: use asoc_rtd_to_cpu() / asoc_rtd_to_codec() macro for DAI pointer")
+297bdfd4f59c ("ASoC: au1x: dma: remove snd_pcm_ops")
+58c2dbe110df ("ASoC: au1x: dbdma2: remove snd_pcm_ops")
+781a9fcccae5 ("ASoC: au1x: dma: replace platform to component")
+abf33c7a536f ("ASoC: au1x: dbdma2: replace platform to component")
+e731a8701532 ("ASoC: au1x: constify snd_pcm_ops structures")

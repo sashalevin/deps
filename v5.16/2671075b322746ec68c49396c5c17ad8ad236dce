@@ -1,0 +1,5 @@
+2671075b3227 ("drm/gma500: Rename psb_gtt_{pin,unpin}() to psb_gem_{pin,unpin}()")
+957a2d0e7ea3 ("drm/gma500: Allocate GTT ranges in stolen memory with psb_gem_create()")
+576d4d2d9031 ("drm/gma500: Reimplement psb_gem_create()")
+9f40dbd4416f ("drm/gma500: Use to_gtt_range() everywhere")
+1f9f6790cc62 ("drm/gma500: Move helpers for struct gtt_range from gtt.c to gem.c")

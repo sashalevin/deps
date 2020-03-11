@@ -1,0 +1,7 @@
+620a30fa0bd1 ("timers/nohz: Protect idle/iowait sleep time under seqcount")
+07b65a800b6d ("timers/nohz: Only ever update sleeptime from idle exit")
+605da849d598 ("timers/nohz: Restructure and reshuffle struct tick_sched")
+a1ff03cd6fb9 ("tick: Detect and fix jiffies update stall")
+4bf07f6562a0 ("timekeeping, clocksource: Fix various typos in comments")
+33e62e832384 ("ntp, rtc: Move rtc_set_ntp_time() to ntp code")
+c9e6189fb031 ("ntp: Make the RTC synchronization more reliable")

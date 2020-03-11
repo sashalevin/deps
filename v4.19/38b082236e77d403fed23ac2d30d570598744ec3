@@ -1,0 +1,5 @@
+38b082236e77 ("initramfs: use vfs_utimes in do_copy")
+bf6419e4d544 ("initramfs: switch initramfs unpacking to struct file based APIs")
+7c184ecd262f ("initramfs: factor out a helper to populate the initrd image")
+54c7a8916a88 ("initramfs: free initrd memory if opening /initrd.image fails")
+7c0950d455d6 ("initramfs: clean old path before creating a hardlink")

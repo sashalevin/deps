@@ -1,0 +1,6 @@
+314d53d29798 ("arm64: Handle mismatched cache type")
+4c4a39dd5fe2 ("arm64: Fix mismatched cache line size detection")
+a725e3dda181 ("arm64: Add ARCH_WORKAROUND_2 probing")
+8e2906245f1e ("arm64: Call ARCH_WORKAROUND_2 on transitions between EL0 and EL1")
+4bc352ffb39e ("arm64: KVM: Use SMCCC_ARCH_WORKAROUND_1 for Falkor BP hardening")
+d8312a3f6102 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

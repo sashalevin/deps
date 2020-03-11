@@ -1,0 +1,7 @@
+acbda82a81c7 ("KVM: x86/mmu: Require mmu_lock be held for write to zap TDP MMU range")
+614f6970aa70 ("KVM: x86/mmu: do not allow readers to acquire references to invalid roots")
+77aa60753a7b ("KVM: x86/mmu: Refactor TDP MMU iterators to take kvm_mmu_page root")
+3e72c791fd33 ("KVM: x86/mmu: Change tdp_mmu_{set,zap}_spte_atomic() to return 0/-EBUSY")
+3255530ab191 ("KVM: x86/mmu: Automatically update iter->old_spte if cmpxchg fails")
+d62007edf01f ("KVM: x86/mmu: Zap _all_ roots when unmapping gfn range in TDP MMU")
+04dc4e6ce274 ("KVM: x86/mmu: Move "invalid" check out of kvm_tdp_mmu_get_root()")

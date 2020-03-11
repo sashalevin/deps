@@ -1,0 +1,6 @@
+3bd5371a4da6 ("xen/events: Remove unused bind_evtchn_to_irq_lateeoi()")
+54c9de89895e ("xen/events: add a new "late EOI" evtchn framework")
+0102e4efda76 ("xen: Use evtchn_type_t as a type for event channels")
+bce5963bcb4f ("xen/events: fix binding user event channels to cpus")
+9f51c05dc41a ("pvcalls-front: Avoid get_free_pages(GFP_KERNEL) under spinlock")
+975ef94a0284 ("pvcalls-front: fixes incorrect error handling")

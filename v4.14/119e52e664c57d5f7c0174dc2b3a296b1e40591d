@@ -1,0 +1,4 @@
+119e52e664c5 ("netfilter: nf_queue: place bridge physports into queue_entry struct")
+dd3cc111f2e3 ("netfilter: nf_queue: make nf_queue_entry_release_refs static")
+c4b0e771f906 ("netfilter: avoid using skb->nf_bridge directly")
+a173f066c7cf ("netfilter: bridge: Don't sabotage nf_hook calls from an l3mdev")

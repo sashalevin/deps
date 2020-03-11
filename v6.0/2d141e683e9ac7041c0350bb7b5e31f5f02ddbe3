@@ -1,0 +1,7 @@
+2d141e683e9a ("tty: serial: use uart_port_tx() helper")
+8ca01f8f70d1 ("tty: serial: switch mpc52xx_uart_int_{r,t}x_chars() to bool")
+2a4be3a55cd2 ("tty: serial: extract tx_ready() from __serial_lpc32xx_tx()")
+0fbf36bb6a07 ("tty: serial: extract lqasc_tx_ready() from lqasc_tx_chars()")
+3af44d9bb053 ("tty: serial: altera_uart_{r,t}x_chars() need only uart_port")
+d9c128117da4 ("tty: serial: clean up stop-tx part in altera_uart_tx_chars()")
+0c0bfc6b1438 ("tty: serial: move and cleanup vt8500_tx_empty()")

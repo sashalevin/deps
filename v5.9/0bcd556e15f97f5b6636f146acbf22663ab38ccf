@@ -1,0 +1,5 @@
+0bcd556e15f9 ("KVM: nVMX: Refactor PMU refresh to avoid referencing kvm_x86_ops.pmu_ops")
+9c9520ce8833 ("KVM: vmx/pmu: Add PMU_CAP_LBR_FMT check when guest LBR is enabled")
+a755753903a4 ("KVM: x86/pmu: preserve IA32_PERF_CAPABILITIES across CPUID refresh")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+3eb900173c71 ("KVM: x86: VMX: Prevent MSR passthrough when MSR access is denied")

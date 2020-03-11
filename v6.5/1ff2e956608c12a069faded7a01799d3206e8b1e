@@ -1,0 +1,7 @@
+1ff2e956608c ("fs/ntfs3: Redesign legacy ntfs support")
+9b872cc50daa ("ntfs3: add legacy ntfs file operations")
+d55f90e9b243 ("ntfs3: enforce read-only when used as legacy ntfs driver")
+74871791ffa9 ("ntfs3: serve as alias for the legacy ntfs driver")
+a4f64a300a29 ("ntfs3: free the sbi in ->kill_sb")
+5f0fb2210bb3 ("ntfs3: don't call sync_blockdev in ntfs_put_super")
+126dbf8a1b9c ("ntfs3: rename put_ntfs ntfs3_free_sbi")

@@ -1,0 +1,3 @@
+db0505d32066 ("md: be cautious about using ->curr_resync_completed for ->recovery_offset")
+2c97cf138527 ("md-cluser: make resync_finish only called after pers->sync_request")
+41a9a0dcf895 ("md-cluster: change resync lock from asynchronous to synchronous")

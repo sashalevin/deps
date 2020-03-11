@@ -1,0 +1,5 @@
+2d6491a56c76 ("svcrdma: Don't account for Receive queue "starvation"")
+81fa3275f95a ("svcrdma: Poll CQs in "workqueue" mode")
+a3ab867fa64f ("svcrdma: Combine list fields in struct svc_rdma_op_ctxt")
+96a58f9c1921 ("svcrdma: Remove svc_rdma_op_ctxt::wc_status")
+dd6fd213b05e ("svcrdma: Remove DMA map accounting")

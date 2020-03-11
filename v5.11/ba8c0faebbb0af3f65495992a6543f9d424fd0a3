@@ -1,0 +1,4 @@
+ba8c0faebbb0 ("drm/vc4: hdmi: Enable 10/12 bpc output")
+fbe7271e47be ("drm/vc4: hdmi: Create a custom connector state")
+e55a07751146 ("drm/vc4: hdmi: Don't access the connector state in reset if kmalloc fails")
+320e84dc6111 ("drm/vc4: hdmi: Take into account the clock doubling flag in atomic_check")

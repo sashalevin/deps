@@ -1,0 +1,4 @@
+ac7625ebd5f7 ("kvfree_rcu: Use [READ/WRITE]_ONCE() macros to access to nr_bkv_objs")
+d0bfa8b3c411 ("kvfree_rcu: Release a page cache under memory pressure")
+56292e8609e3 ("rcu/tree: Defer kvfree_rcu() allocation to a clean context")
+72a2fbda53d0 ("rcu/tree: docs: document bkvcache new members at struct kfree_rcu_cpu")

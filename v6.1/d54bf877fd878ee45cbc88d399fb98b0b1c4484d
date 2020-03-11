@@ -1,0 +1,5 @@
+d54bf877fd87 ("power: supply: bq25890: Add support for having a secondary charger IC")
+4e9498b835ab ("power: supply: bq25890: Support boards with more then one charger IC")
+a7aaa80098d5 ("power: supply: bq25890: Ensure pump_express_work is cancelled on remove")
+c5cddca2351b ("power: supply: bq25890: Convert to i2c's .probe_new()")
+5f5c10ecaf3f ("power: supply: bq25890: Factor out regulator registration code")

@@ -1,0 +1,5 @@
+a8a45941706b ("block: pass struct request instead of struct blk_issue_stat to wbt")
+934031a12980 ("block: move some wbt helpers to blk-wbt.c")
+105976f51779 ("blk-mq: don't call io sched's .requeue_request when requeueing rq to ->dispatch")
+62d772fa9d86 ("blk-wbt: move wbt_clear_stat to common place in wbt_done")
+7beb2f845b71 ("blk-mq: wire up completion notifier for laptop mode")

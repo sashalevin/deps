@@ -1,0 +1,5 @@
+9e9d673b2c84 ("x86/smp: Use atomic_try_cmpxchg in native_stop_other_cpus()")
+9d1c8f215337 ("x86/smp: Move the call to smp_processor_id() after the early exit in native_stop_other_cpus()")
+2affa6d6db28 ("x86/smp: Remove pointless wmb()s from native_stop_other_cpus()")
+1f5e7eb7868e ("x86/smp: Make stop_other_cpus() more robust")
+b8d1d163604b ("x86/apic: Don't disable x2APIC if locked")

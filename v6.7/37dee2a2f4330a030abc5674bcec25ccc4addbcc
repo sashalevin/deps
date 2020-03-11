@@ -1,0 +1,5 @@
+37dee2a2f433 ("accel/ivpu: Improve buffer object debug logs")
+8d88e4cdce4f ("accel/ivpu: Use GEM shmem helper for all buffers")
+48d45fac3940 ("accel/ivpu: Remove support for uncached buffers")
+48aea7f2a2ef ("accel/ivpu: Fix locking in ivpu_bo_remove_all_bos_from_context()")
+b03522413462 ("accel/ivpu: Allocate vpu_addr in gem->open() callback")

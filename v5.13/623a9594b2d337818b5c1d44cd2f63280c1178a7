@@ -1,0 +1,5 @@
+623a9594b2d3 ("pwm: omap-dmtimer: Prepare removing pwm_chip from driver data")
+01b571fbbac4 ("pwm: omap-dmtimer: Drop locking")
+fed5d59d82dd ("pwm: omap-dmtimer: Convert to platform remove callback returning void")
+faaa2222213b ("pwm: omap-dmtimer: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

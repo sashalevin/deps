@@ -1,0 +1,7 @@
+7b99819dfb60 ("x86/head/64: Load segment registers earlier")
+e04b88336360 ("x86/head/64: Load GDT after switch to virtual addresses")
+385065734cd4 ("x86/irq/64: Update stale comment")
+a9468df5ad48 ("x86/boot/64: Use a common function for starting CPUs")
+b32f96c75d0d ("x86/asm/head: Rename 'stack_start' -> 'initial_stack'")
+dbf984d82593 ("x86/boot/64: Add forgotten end of function marker")
+91ed140d6c1e ("x86/asm: Make sure verify_cpu() has a good stack")

@@ -1,0 +1,4 @@
+a8db74564b0c ("irqchip/gic-v3-its: Make its_lock a raw_spin_lock_t")
+920181ce8469 ("irqchip/gic-v3-its: Add ability to resend MAPC on resume")
+dba0bc7b76dc ("irqchip/gic-v3-its: Add ability to save/restore ITS state")
+558b01654d92 ("irqchip/gic-v3: Add workaround for Synquacer pre-ITS")

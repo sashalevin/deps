@@ -1,0 +1,6 @@
+547be6a479fd ("i915_vma: Rename vma_lookup to i915_vma_lookup")
+528cbd17ceff ("drm/i915: Move vma lookup to its own lock")
+09d7e46b97c6 ("drm/i915: Pull VM lists under the VM mutex.")
+499197dc1696 ("drm/i915: Stop tracking MRU activity on VMA")
+480cd6dd9287 ("drm/i915/selftests: Track evict objects explicitly")
+71fc448c1aaf ("drm/i915/selftests: Make evict tolerant of foreign objects")

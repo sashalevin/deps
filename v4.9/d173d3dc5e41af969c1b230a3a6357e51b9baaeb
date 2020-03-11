@@ -1,0 +1,4 @@
+d173d3dc5e41 ("drm: omapdrm: Use a spinlock to protect the CRTC pending flag")
+577d3983c87a ("drm: omapdrm: Prevent processing the same event multiple times")
+f933a3a93b2d ("drm: omapdrm: Replace DSS manager state check with omapdrm CRTC state")
+a7e8cd39af6a ("drm/omapdrm: Remove double gamma table write in omap_crtc_atomic_flush()")

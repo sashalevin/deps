@@ -1,0 +1,5 @@
+e1779c2714c3 ("KVM: x86: nSVM: fix potential NULL derefernce on nested migration")
+0a758290762c ("KVM: nSVM: Introduce svm_copy_vmrun_state()")
+b222b0b88162 ("KVM: nSVM: refactor the CR3 reload on migration")
+a36dbec67e26 ("KVM: nSVM: Drop pointless pdptrs_changed() check on nested transition")
+232f75d3b4b5 ("KVM: nSVM: call nested_svm_load_cr3 on nested state load")

@@ -1,0 +1,5 @@
+4a2095df8ab1 ("KVM: i8254: remove pointless dereference of PIT")
+ddf54503e2bb ("KVM: i8254: use atomic_t instead of pit.inject_lock")
+fd700a00dc2e ("KVM: i8254: add kvm_pit_reset_reinject")
+f6e0a0c113f7 ("KVM: i8254: simplify atomics in kvm_pit_ack_irq")
+7dd0fdff145c ("KVM: i8254: change PIT discard tick policy")

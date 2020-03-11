@@ -1,0 +1,4 @@
+01a965d75050 ("ata: sata_dwc_460ex: Check !irq instead of irq == NO_IRQ")
+f1550f27f8a9 ("ata: sata_dwc_460ex: Use temporary variable for struct device")
+f713961de505 ("ata: sata_dwc_460ex: Use devm_platform_*ioremap_resource() APIs")
+3ad4a3162035 ("ata: sata_dwc_460ex: No need to call phy_exit() befre phy_init()")

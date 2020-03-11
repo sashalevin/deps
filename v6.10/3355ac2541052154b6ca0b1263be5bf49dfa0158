@@ -1,0 +1,4 @@
+3355ac254105 ("ACPI: CPPC: Drop check for non zero perf ratio")
+6c09e3b445a1 ("x86/amd: Rename amd_get_highest_perf() to amd_get_boost_ratio_numerator()")
+2bcec09cc4ae ("x86/amd: Move amd_get_highest_perf() from amd.c to cppc.c")
+501bd734f933 ("x86/CPU/AMD: Always inline amd_clear_divider()")

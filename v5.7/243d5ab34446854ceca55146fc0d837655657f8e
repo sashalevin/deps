@@ -1,0 +1,5 @@
+243d5ab34446 ("rcu: Eliminate check_cpu_stall() duplicate code")
+b169246feb1d ("rcu: Start timing stall repetitions after warning complete")
+ccfc9dd6914f ("rcu/tree: Handle VM stoppage in stall detection")
+1ef5a442a113 ("rcu: Add READ_ONCE() to rcu_do_batch() access to rcu_cpu_stall_ftrace_dump")
+fcbcc0e70050 ("rcu: Fix the (t=0 jiffies) false positive")

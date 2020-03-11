@@ -1,0 +1,6 @@
+c853d6904f14 ("eeprom: eeprom_93xx46: use resource management")
+1c4b6e2c7534 ("eeprom: 93xx46: extend driver to plug into the NVMEM framework")
+e1379b56e9e8 ("misc: eeprom_93xx46: Add quirks to support Atmel AT93C46D device.")
+c074abe02e5e ("misc: eeprom_93xx46: Implement eeprom_93xx46 DT bindings.")
+cb54ad6cddb6 ("misc: eeprom_93xx46: Fix 16-bit read and write accesses.")
+092462c2b522 ("misc: eeprom: use kobj_to_dev()")

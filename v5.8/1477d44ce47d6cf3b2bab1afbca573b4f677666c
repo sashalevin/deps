@@ -1,0 +1,6 @@
+1477d44ce47d ("RDMA/mlx5: Enable Relaxed Ordering by default for kernel ULPs")
+8383da3e4a61 ("RDMA/mlx5: Clarify what the UMR is for when creating MRs")
+5eb29f0d13a6 ("RDMA/mlx5: Make mkeys always owned by the kernel's PD when not enabled")
+1c97ca3da0d1 ("RDMA/mlx5: Use set_mkc_access_pd_addr_fields() in reg_create()")
+2e4e706e094a ("RDMA/mlx5: Remove dead check for EAGAIN after alloc_mr_from_cache()")
+792377436871 ("Merge branch 'mlx5_uar' into rdma.git /for-next")

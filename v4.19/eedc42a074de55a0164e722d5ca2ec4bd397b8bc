@@ -1,1 +1,5 @@
 eedc42a074de ("scsi: mpt3sas: Fix msix load balance on and off settings")
+610ef1e955cd ("scsi: mpt3sas: Determine smp affinity on per HBA basis")
+728bbc6cbff7 ("scsi: mpt3sas: Affinity high iops queues IRQs to local node")
+51e3b2ad6de2 ("scsi: mpt3sas: Load balance to improve performance and avoid soft lockups")
+919d8a3f3fef ("scsi: mpt3sas: Convert uses of pr_<level> with MPT3SAS_FMT to ioc_<level>")

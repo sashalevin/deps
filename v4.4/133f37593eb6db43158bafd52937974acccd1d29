@@ -1,0 +1,6 @@
+133f37593eb6 ("ALSA: aloop: Use callback functions for timer specific implementations")
+09419f1ace21 ("ALSA: aloop: Support return of error code for timer start and stop")
+8e6b1a72a75b ("ALSA: aloop: Fix access to not-yet-ready substream via cable")
+67a01afaf3d3 ("ALSA: aloop: Sync stale timer before release")
+9685347aa0a5 ("ALSA: aloop: Release cable upon open error path")
+bc47ba90b01a ("ALSA: drivers: Convert timers to use timer_setup()")

@@ -1,0 +1,6 @@
+fd2a749d3f4f ("rcutorture: Suppress rtort_pipe_count warnings until after stalls")
+14c0017c19ea ("rcu/torture: Change order of warning and trace dump")
+18fbf307b731 ("rcutorture: Make synctype[] and nsynctype be static global")
+12a910e3cd3d ("rcutorture: Require entire stutter period be post-boot")
+0fd0548db133 ("rcutorture: Add writer-side tests of polling grace-period API")
+fd56f64b4e3b ("rcutorture: Prepare for ->start_gp_poll and ->poll_gp_state")

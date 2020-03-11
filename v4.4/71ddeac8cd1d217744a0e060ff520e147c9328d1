@@ -1,0 +1,5 @@
+71ddeac8cd1d ("inet_diag: fix kernel-infoleak for UDP sockets")
+3828a93f5cfd ("inet_diag: use jiffies_delta_to_msecs()")
+b7de529c793c ("net: use jiffies_to_msecs to replace EXPIRES_IN_MS in inet/sctp_diag")
+8f840e47f190 ("sctp: add the sctp_diag.c file")
+cb2050a7b813 ("sctp: export some functions for sctp_diag in inet_diag")

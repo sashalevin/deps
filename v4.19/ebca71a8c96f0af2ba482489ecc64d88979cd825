@@ -1,0 +1,4 @@
+ebca71a8c96f ("cpu/hotplug: Add debug printks for hotplug callback failures")
+453e41085183 ("cpu/hotplug: Add cpuhp_invoke_callback_range()")
+e797bda3fd29 ("smp/hotplug: Track booted once CPUs in a cpumask")
+206b92353c83 ("cpu/hotplug: Prevent crash when CPU bringup fails on CONFIG_HOTPLUG_CPU=n")

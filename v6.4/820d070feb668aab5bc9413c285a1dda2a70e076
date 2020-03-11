@@ -1,0 +1,6 @@
+820d070feb66 ("io_uring: don't allow discontig pages for IORING_SETUP_NO_MMAP")
+223ef4743164 ("io_uring: don't allow IORING_SETUP_NO_MMAP rings on highmem pages")
+03d89a2de25b ("io_uring: support for user allocated memory for rings/sqes")
+9c189eee73af ("io_uring: add ring freeing helper")
+e27cef86a0ed ("io_uring: return error pointer from io_mem_alloc()")
+9b1b58cacc65 ("io_uring: remove sq/cq_off memset")

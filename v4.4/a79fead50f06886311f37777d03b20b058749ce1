@@ -1,0 +1,5 @@
+a79fead50f06 ("gpio: of: Add support for multiple GPIOs in a single GPIO hog")
+09e258af4eda ("gpio: of: add missing of_node_put() in of_gpiochip_scan_gpios()")
+be715343011b ("gpio: of: drop needless gpio_chip look-up in of_parse_own_gpio()")
+3f9547e1c9f0 ("gpio: of: optimize "gpios" property parsing of of_parse_own_gpio()")
+dfbd379ba9b7 ("gpio: of: Return error if gpio hog configuration failed")

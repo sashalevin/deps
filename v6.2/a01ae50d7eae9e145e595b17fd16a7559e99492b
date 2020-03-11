@@ -1,0 +1,4 @@
+a01ae50d7eae ("serial: stm32: replace access to DMAR bit by dmaengine_pause/resume")
+7f28bcea824e ("serial: stm32: group dma pause/resume error handling into single function")
+00d1f9c6af0d ("serial: stm32: modify parameter and rename stm32_usart_rx_dma_enabled")
+db89728abad5 ("serial: stm32: avoid clearing DMAT bit during transfer")

@@ -1,0 +1,5 @@
+2071ac985d37 ("PM / Domains: Avoid a potential deadlock")
+b56d9c913562 ("PM / Domains: Drop redundant code in genpd while attaching devices")
+975e83cfb8dc ("PM / Domains: defer dev_pm_domain_set() until genpd->attach_dev succeeds if present")
+35241d12f750 ("PM / Domains: Abstract genpd locking")
+59d65b73a23c ("PM / Domains: Make genpd state allocation dynamic")

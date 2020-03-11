@@ -1,0 +1,8 @@
+35d3f41dd694 ("drm/amdgpu: enable runtime pm using BACO on CI dGPUs")
+cd5277809bb8 ("drm/amdgpu: enable runtime pm on vega10 when noretry=0")
+b38c69688f5a ("drm/amdgpu: rework runtime pm enablement for BACO")
+9b76e06113d8 ("drm/amdgpu: disable runtime pm for sienna_cichlid temporarily")
+5d11e37c021f ("drm/amdgpu/runpm: disable runpm on Vega10")
+4fdda2e66de0 ("drm/amdgpu/runpm: enable runpm on baco capable VI+ asics")
+72f058b7237e ("drm/amdgpu: enable runtime pm on BACO capable boards if runpm=1")
+84b1528e8cef ("drm/amdgpu: disable runtime pm in certain cases")

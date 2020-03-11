@@ -1,0 +1,5 @@
+5502ea44f5ad ("mm/hugetlb: add page_mask for hugetlb_follow_page_mask()")
+dd767aaa2fc8 ("mm/hugetlb: handle FOLL_DUMP well in follow_page_mask()")
+7d049f3a03ea ("mm/hugetlb: make hugetlb_follow_page_mask() safe to pmd unshare")
+bb373dce2c7b ("mm/hugetlb: don't wait for migration entry during follow page")
+57a196a58421 ("hugetlb: simplify hugetlb handling in follow_page_mask")

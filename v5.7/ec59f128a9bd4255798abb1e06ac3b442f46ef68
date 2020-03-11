@@ -1,0 +1,4 @@
+ec59f128a9bd ("wireguard: queueing: use CFI-safe ptr_ring cleanup function")
+886fcee939ad ("wireguard: receive: use ring buffer for incoming handshakes")
+8b5553ace83c ("wireguard: queueing: get rid of per-peer ring buffers")
+900575aa33a3 ("wireguard: device: avoid circular netns references")

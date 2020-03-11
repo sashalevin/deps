@@ -1,0 +1,6 @@
+3c2659bd1db8 ("readdir: make user_access_begin() use the real access range")
+9f79b78ef744 ("Convert filldir[64]() from __put_user() to unsafe_put_user()")
+0460b2a28b4b ("readdir: move compat syscalls from compat.c")
+2611dc193956 ("Remove compat_sys_getdents64()")
+7c0f6ba682b9 ("Replace <asm/uaccess.h> with <linux/uaccess.h> globally")
+41e0e24b450f ("Merge branch 'kbuild' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

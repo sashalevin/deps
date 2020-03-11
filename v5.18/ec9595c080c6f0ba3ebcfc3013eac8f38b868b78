@@ -1,0 +1,4 @@
+ec9595c080c6 ("ceph: preallocate inode for ops that may create one")
+7cb9994754f8 ("ceph: don't truncate file in atomic_open")
+0006164589ec ("ceph: update the auth cap when the async create req is forwarded")
+4868e537fa86 ("ceph: wait for the first reply of inflight async unlink")

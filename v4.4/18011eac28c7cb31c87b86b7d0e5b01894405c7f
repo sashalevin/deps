@@ -1,0 +1,6 @@
+18011eac28c7 ("arm64: tls: Avoid unconditional zeroing of tpidrro_el0 for native tasks")
+936eb65ca22a ("arm64: ptrace: Flush user-RW TLS reg to thread_struct before reading")
+adf758999792 ("arm64: simplify sysreg manipulation")
+e937dd578268 ("arm64: debug: convert OS lock CPU hotplug notifier to new infrastructure")
+d7a83d127a64 ("arm64: hw_breakpoint: convert CPU hotplug notifier to new infrastructure")
+a6408f6cb63a ("Merge branch 'smp-hotplug-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

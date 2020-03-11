@@ -1,0 +1,4 @@
+4a12f9517728 ("KVM: mark kvm->busses as rcu protected")
+90db10434b16 ("KVM: kvm_io_bus_unregister_dev() should never fail")
+df630b8c1e85 ("KVM: x86: clear bus pointer when destroyed")
+8a39d00670f0 ("KVM: kvm_io_bus: Add kvm_io_bus_get_dev() call")

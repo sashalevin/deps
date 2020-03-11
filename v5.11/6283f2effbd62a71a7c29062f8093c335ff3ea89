@@ -1,0 +1,8 @@
+6283f2effbd6 ("x86/sev: Replace occurrences of sev_es_active() with cc_platform_has()")
+4d96f9109109 ("x86/sev: Replace occurrences of sev_active() with cc_platform_has()")
+32cb4d02fb02 ("x86/sme: Replace occurrences of sme_active() with cc_platform_has()")
+d187f217335d ("x86/sev: Make sure IRQs are disabled while GHCB is active")
+b250f2f7792d ("x86/sev-es: Don't return NULL from sev_es_get_ghcb()")
+fea63d54f7a3 ("x86/sev-es: Move sev_es_put_ghcb() in prep for follow on patch")
+8b79feffeca2 ("x86/kvm: Teardown PV features on boot CPU as well")
+152d32aa8468 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

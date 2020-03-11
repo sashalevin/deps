@@ -1,0 +1,4 @@
+64c166821e03 ("kernfs: d_obtain_alias(NULL) will do the right thing...")
+33c5ac917519 ("kernfs: implement custom exportfs ops and fid type")
+fe0f726c9fb6 ("kernfs: combine ino/id lookup functions into kernfs_find_and_get_node_by_id()")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")

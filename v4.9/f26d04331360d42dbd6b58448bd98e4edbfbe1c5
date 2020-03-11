@@ -1,0 +1,6 @@
+f26d04331360 ("audit: improve audit queue handling when "audit=1" on cmdline")
+f4b3ee3c8555 ("audit: improve robustness of the audit queue handling")
+cd33f5f2cbfa ("audit: make sure we never skip the multicast broadcast")
+264d509637d9 ("audit: make sure we don't let the retry queue grow without bounds")
+5b52330bbfe6 ("audit: fix auditd/kernel connection state tracking")
+dcdaa2f9480c ("Merge branch 'stable-4.10' of git://git.infradead.org/users/pcmoore/audit")

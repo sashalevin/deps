@@ -1,0 +1,4 @@
+1f3b494d1fc1 ("mtd: rawnand: intel: Add missing of_node_put() in ebu_nand_probe()")
+7471a53ddce5 ("mtd: rawnand: intel: Use devm_platform_ioremap_resource_byname()")
+dbe5f7880fb0 ("mtd: rawnand: intel: Remove unused nand_pa member from ebu_nand_cs")
+ddf66aefd685 ("mtd: rawnand: intel: fix possible null-ptr-deref in ebu_nand_probe()")

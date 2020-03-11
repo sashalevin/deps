@@ -1,0 +1,6 @@
+ff5cd9accbc7 ("ver_linux: Query ld cache for versions of libc/libcpp run-time")
+2ca46ed207d5 ("ver_linux: Assign constant RE to variable name for clarity")
+71bdd87f58f6 ("ver_linux: Do not check for ver_linux pattern in version function")
+34fe3cfda826 ("ver_linux: Process input coming from procmaps that matches libc only")
+1c9a4be514e7 ("ver_linux: Drop redundant calls to system() to test if file is readable")
+4169bc43dbdd ("ver_linux: Move stderr redirection from function parameter to function body")

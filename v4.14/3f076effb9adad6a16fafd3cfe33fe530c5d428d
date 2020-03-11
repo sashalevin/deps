@@ -1,0 +1,5 @@
+3f076effb9ad ("hv_netvsc: Pass net_device parameter to revoke and teardown functions")
+a56d99d71466 ("hv_netvsc: Ensure correct teardown message sequence order")
+7992894c305e ("hv_netvsc: Split netvsc_revoke_buf() and netvsc_teardown_gpadl()")
+2afc5d61a719 ("hv_netvsc: Use Windows version instead of NVSP version on GPAD teardown")
+03fe2debbb27 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

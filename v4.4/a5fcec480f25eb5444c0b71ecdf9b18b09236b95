@@ -1,0 +1,7 @@
+a5fcec480f25 ("PCI: imx6: Add DT property for link gen, default to Gen1")
+3ea8529acc30 ("PCI: imx6: Add reset-gpio-active-high boolean property to DT")
+b2d7a9cd3ff8 ("Revert "PCI: imx6: Add support for active-low reset GPIO"")
+28e3abe591e2 ("PCI: imx6: Add DT bindings to configure PHY Tx driver settings")
+54a47a83421a ("PCI: imx6: Move PHY reset into imx6_pcie_establish_link()")
+5c5fb40de8f1 ("PCI: imx6: Add support for active-low reset GPIO")
+bd534e691ada ("PCI: imx6: Use gpio_set_value_cansleep()")

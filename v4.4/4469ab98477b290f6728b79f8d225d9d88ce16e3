@@ -1,0 +1,5 @@
+4469ab98477b ("mm, compaction: rename map_pages to split_map_pages")
+66c64223ad4e ("mm/compaction: split freepages without holding the zone lock")
+a4f04f2c6955 ("mm, compaction: abort free scanner if split fails")
+060e74173f29 ("mm, page_alloc: inline zone_statistics")
+b9f00e147f27 ("mm, page_alloc: reduce branches in zone_statistics")

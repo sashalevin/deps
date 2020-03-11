@@ -1,0 +1,7 @@
+0263f92fadbb ("lib/group_cpus.c: avoid acquiring cpu hotplug lock in group_cpus_evenly")
+f7b3ea8cf72f ("genirq/affinity: Move group_cpus_evenly() into lib/")
+523f1ea76aad ("genirq/affinity: Rename irq_build_affinity_masks as group_cpus_evenly")
+e7bdd7f0cbd1 ("genirq/affinity: Don't pass irq_affinity_desc array to irq_build_affinity_masks")
+1f962d91a15a ("genirq/affinity: Pass affinity managed mask array to irq_build_affinity_masks")
+cdf07f0ea48a ("genirq/affinity: Remove the 'firstvec' parameter from irq_build_affinity_masks")
+cdb491329389 ("Merge tag 'irqchip-5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/maz/arm-platforms into irq/core")

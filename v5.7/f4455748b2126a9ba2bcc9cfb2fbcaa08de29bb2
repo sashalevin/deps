@@ -1,0 +1,7 @@
+f4455748b212 ("PCI: cadence: Use bitfield for *quirk_retrain_flag* instead of bool")
+4740b969aaf5 ("PCI: cadence: Retrain Link to work around Gen2 training defect")
+f3e25911a430 ("PCI: j721e: Add TI J721E PCIe driver")
+40d957e6f9eb ("PCI: cadence: Add support to start link and verify link status")
+5d3d063abb27 ("PCI: cadence: Use "dma-ranges" instead of "cdns,no-bar-match-nbits" property")
+7fb39bf2a1de ("PCI: cadence: Fix to read 32-bit Vendor ID/Device ID property from DT")
+9e2618c3f1a9 ("PCI: cadence: Remove "cdns,max-outbound-regions" DT property")

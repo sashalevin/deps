@@ -1,0 +1,6 @@
+9b10df596bd4 ("i40e: use WARN_ONCE to replace the commented BUG_ON size check")
+019b9cd44d5a ("i40e: split i40e_get_strings() into smaller functions")
+b8312365097c ("i40e: always return all queue stat strings")
+9955d4940e33 ("i40e: always return VEB stat strings")
+0ded9c61c137 ("i40e: calculate ethtool stats size in a separate function")
+6aa7de059173 ("locking/atomics: COCCINELLE/treewide: Convert trivial ACCESS_ONCE() patterns to READ_ONCE()/WRITE_ONCE()")

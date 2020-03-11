@@ -1,0 +1,5 @@
+fbbd49235590 ("scsi: target/core: Simplify the code for aborting SCSI commands")
+b1a2ecdad72e ("target: Inline transport_cmd_check_stop()")
+a5eb307f37d1 ("target: Stop execution if CMD_T_STOP has been set")
+310d3d314be7 ("target: Fix race with SCF_SEND_DELAYED_TAS handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

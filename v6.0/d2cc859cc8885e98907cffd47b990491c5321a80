@@ -1,0 +1,4 @@
+d2cc859cc888 ("ftrace: Remove unused global 'ftrace_direct_func_count'")
+8788ca164eb4 ("ftrace: Remove the legacy _ftrace_direct API")
+873256554901 ("ftrace: Set direct_ops storage-class-specifier to static")
+9d2ce78ddcee ("ftrace: Fix recursive locking direct_mutex in ftrace_modify_direct_caller")

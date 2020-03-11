@@ -1,0 +1,5 @@
+af30bffa2f9a ("perf symbols: Store the ELF symbol type in the symbol struct")
+7285cf3325b4 ("perf srcline: Show correct function name for srcline of callchains")
+b7b75a60b291 ("perf srcline: Fix memory leak in addr2inlines()")
+2be8832f3c51 ("perf callchain: Refactor inline_list to store srcline string directly")
+fea0cf842c7a ("perf callchain: Refactor inline_list to operate on symbols")

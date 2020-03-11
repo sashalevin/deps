@@ -1,0 +1,4 @@
+9e7462bbe00d ("arm64: Allow EL1 physical timer access when running VHE")
+bde8fff82e4a ("arm64: initialize all of CNTHCTL_EL2")
+734864c177bc ("KVM: arm64: Set host stage 2 using kvm_nvhe_init_params")
+beed09067b42 ("KVM: arm64: Trap host SVE accesses when the FPSIMD state is dirty")

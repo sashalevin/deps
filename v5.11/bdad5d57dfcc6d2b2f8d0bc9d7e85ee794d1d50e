@@ -1,0 +1,8 @@
+bdad5d57dfcc ("powerpc/64s: move page size definitions from hash specific file")
+2bb421a3d936 ("powerpc/mm/64s: Fix no previous prototype warning")
+032b7f08932c ("powerpc/64s/radix: serialize_against_pte_lookup IPIs trim mm_cpumask")
+9393544842d6 ("powerpc/64s/radix: occasionally attempt to trim mm_cpumask")
+780de40601aa ("powerpc/64s/radix: Allow mm_cpumask trimming from external sources")
+54bb503345b8 ("powerpc/64s/radix: Check for no TLB flush required")
+26418b36a11f ("powerpc/64s/radix: refactor TLB flush type selection")
+a2496049f1f1 ("powerpc/64s/radix: add warning and comments in mm_cpumask trim")

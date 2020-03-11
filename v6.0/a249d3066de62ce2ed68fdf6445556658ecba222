@@ -1,0 +1,5 @@
+a249d3066de6 ("nvme-fabrics: add queue setup helpers")
+edde9e70bb48 ("blk-mq-rdma: remove queue mapping helper for rdma devices")
+2d60738c8f80 ("nvme-rdma: store the generic nvme_ctrl in set->driver_data")
+06427ca09b2f ("nvme-tcp: store the generic nvme_ctrl in set->driver_data")
+a4e1d0b76e7b ("block: Change the return type of blk_mq_map_queues() into void")

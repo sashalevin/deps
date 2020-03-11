@@ -1,0 +1,4 @@
+e51b96243874 ("net: remove dev_base_lock from register_netdevice() and friends.")
+4d42b37def70 ("net: convert dev->reg_state to u8")
+facd15dfd691 ("net: core: synchronize link-watch when carrier is queried")
+34d21de99cea ("net: Move {l,t,d}stats allocation to core and convert veth & vrf")

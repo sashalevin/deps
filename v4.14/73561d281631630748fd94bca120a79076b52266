@@ -1,0 +1,6 @@
+73561d281631 ("gpio: davinci: Remove redundant dev_err_probe()")
+33b78b5f14be ("gpio: davinci: Simplify with dev_err_probe()")
+541e4095f388 ("gpio: davinci: silence error prints in case of EPROBE_DEFER")
+eb3744a2dd01 ("gpio: davinci: Do not assume continuous IRQ numbering")
+c1d013a70f55 ("gpio: davinci: Shuffle IRQ resource fetching from DT to beginning of probe")
+7f8e2a85c1b0 ("gpio: davinci: Assign first bank regs for unbanked case")

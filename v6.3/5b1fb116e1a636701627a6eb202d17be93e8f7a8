@@ -1,0 +1,6 @@
+5b1fb116e1a6 ("KVM: x86/mmu: Plumb a @can_yield parameter into __walk_slot_rmaps()")
+0a37fffda145 ("KVM: x86/mmu: Move walk_slot_rmaps() up near for_each_slot_rmap_range()")
+eddd9e8302de ("KVM: x86/mmu: Replace comment with an actual lockdep assertion on mmu_lock")
+727ae3770132 ("KVM: x86/mmu: Rename slot rmap walkers to add clarity and clean up code")
+8c63e8c21765 ("KVM: x86/mmu: Rename kvm_flush_remote_tlbs_with_address()")
+28e4b4597d65 ("KVM: x86/mmu: Collapse kvm_flush_remote_tlbs_with_{range,address}() together")

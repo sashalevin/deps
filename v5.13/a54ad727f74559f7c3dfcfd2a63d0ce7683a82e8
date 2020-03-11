@@ -1,0 +1,8 @@
+a54ad727f745 ("xfrm: policy: remove remaining use of inexact list")
+563d5ca93e88 ("xfrm: switch migrate to xfrm_policy_lookup_bytype")
+33f611cf7d52 ("xfrm: policy: don't iterate inexact policies twice at insert time")
+3c611d40c692 ("xfrm: speed-up lookup of HW policies")
+bd12240337f4 ("xfrm: add extack to xfrm_do_migrate")
+f157c416c51a ("xfrm: a few coding style clean ups")
+c1aca3080e38 ("xfrm: Check if_id in xfrm_migrate")
+fe9f1d8779cb ("xfrm: add state hashtable keyed by seq")

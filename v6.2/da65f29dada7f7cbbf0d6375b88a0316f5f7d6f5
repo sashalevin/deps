@@ -1,0 +1,4 @@
+da65f29dada7 ("timers: Fix nextevt calculation when no timers are pending")
+bb8caad5083f ("timers: Rework idle logic")
+b5e6f59888c7 ("timers: Move store of next event into __next_timer_interrupt()")
+b573c73101d8 ("tracing/timers: Add tracepoint for tracking timer base is_idle flag")

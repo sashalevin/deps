@@ -1,0 +1,6 @@
+b0c756fe996a ("arm64: cpufeature: detect FEAT_HCX")
+8bf0a8048b15 ("arm64: add ARM64_HAS_GIC_PRIO_RELAXED_SYNC cpucap")
+c888b7bd916c ("arm64: rename ARM64_HAS_IRQ_PRIO_MASKING to ARM64_HAS_GIC_PRIO_MASKING")
+0e62ccb9598d ("arm64: rename ARM64_HAS_SYSREG_GIC_CPUIF to ARM64_HAS_GIC_CPUIF_SYSREGS")
+6fcd01935902 ("arm64/sysreg: Standardise naming for ID_AA64MMFR1_EL1 fields")
+2d987e64e8c7 ("arm64/sysreg: Add _EL1 into ID_AA64MMFR0_EL1 definition names")

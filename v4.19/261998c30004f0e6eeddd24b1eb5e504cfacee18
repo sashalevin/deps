@@ -1,0 +1,4 @@
+261998c30004 ("ceph: fix statx AT_STATX_DONT_SYNC vs AT_STATX_FORCE_SYNC check")
+04fabb1199d1 ("ceph: ensure we have Fs caps when fetching dir link count")
+428bb68ad99b ("ceph: properly handle granular statx requests")
+75c9627efb72 ("ceph: map snapid to anonymous bdev ID")

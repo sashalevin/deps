@@ -1,0 +1,4 @@
+b452cb52072d ("KVM: arm/arm64: Remove the IRQ field from struct irq_phys_map")
+63306c28ac92 ("KVM: arm/arm64: vgic: avoid map in kvm_vgic_unmap_phys_irq()")
+e262f4193638 ("KVM: arm/arm64: vgic: avoid map in kvm_vgic_map_is_active()")
+9b4a3004439d ("KVM: arm/arm64: timer: Add active state caching")

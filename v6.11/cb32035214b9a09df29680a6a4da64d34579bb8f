@@ -1,0 +1,7 @@
+cb32035214b9 ("perf trace: Pretty print struct data")
+7bedcbaefdf5 ("perf trace: Pass the richer 'struct syscall_arg' pointer to trace__btf_scnprintf()")
+c3d747134cec ("perf trace: Remove arg_fmt->is_enum, we can get that from the BTF type")
+62284329b194 ("perf trace: Introduce trace__btf_scnprintf()")
+95586588868a ("perf trace: Filter enum arguments with enum names")
+607bbdb49ccb ("perf trace: Augment non-syscall tracepoints with enum arguments with BTF")
+45a0c928e7aa ("perf trace: BTF-based enum pretty printing for syscall args")

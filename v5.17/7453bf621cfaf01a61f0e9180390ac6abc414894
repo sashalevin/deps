@@ -1,0 +1,6 @@
+7453bf621cfa ("mm, hwpoison: make __page_handle_poison returns int")
+67f22ba7750f ("mm/memory-failure: disable unpoison once hw error happens")
+ef526b17bc33 ("mm/memory-failure.c: dissolve truncated hugetlb page")
+405ce051236c ("mm/hwpoison: fix race between hugetlb free/demotion and memory_failure_hugetlb()")
+888af2701db7 ("mm/memory-failure.c: fix race with changing page compound again")
+d1fe111fb62a ("mm/hwpoison: avoid the impact of hwpoison_filter() return value on mce handler")

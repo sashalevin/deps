@@ -1,0 +1,4 @@
+4c1171f1d224 ("mm: remove folio_test_anon(folio)==false path in __folio_add_anon_rmap()")
+8bd5130070fb ("mm/rmap: introduce folio_add_anon_rmap_[pte|ptes|pmd]()")
+a4ea18641d83 ("mm/rmap: add hugetlb sanity checks for anon rmap handling")
+372cbd4d5a06 ("mm: non-pmd-mappable, large folios for folio_add_new_anon_rmap()")

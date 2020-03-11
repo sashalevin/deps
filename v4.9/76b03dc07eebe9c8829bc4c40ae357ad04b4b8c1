@@ -1,0 +1,5 @@
+76b03dc07eeb ("powerpc/mm: Remove unused flag arg in global_invalidates")
+65dae5403a16 ("KVM: PPC: Book3S HV: Make HPT-specific hypercalls return error in radix mode")
+abb7c7ddbacd ("KVM: PPC: Book3S HV: Adapt to new HPTE format on POWER9")
+f064a0de1579 ("KVM: PPC: Book3S HV: Don't lose hardware R/C bit updates in H_PROTECT")
+a56ee9f8f01c ("KVM: PPC: Book3S HV: Add a per vcpu cache for recently page faulted MMIO entries")

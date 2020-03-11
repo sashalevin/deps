@@ -1,0 +1,8 @@
+35bf020bd8ab ("scsi: target: iscsi: Fix NULL pointer dereference in iscsi_conn_auth_required()")
+a75fcb0912a5 ("scsi: target: iscsi: Extract auth functions")
+a11b80692be5 ("scsi: target: iscsi: Add upcast helpers")
+0873fe44e780 ("scsi: target: iscsi: Rename iscsi_session to iscsit_session")
+be36d683fc29 ("scsi: target: iscsi: Rename iscsi_conn to iscsit_conn")
+66cd9d4ef74a ("scsi: target: iscsi: Rename iscsi_cmd to iscsit_cmd")
+d72d827f2f26 ("scsi: target: Add iscsi/cpus_allowed_list in configfs")
+382731ec01b3 ("scsi: target: iscsi: Replace tpg enable attr with ops.enable")

@@ -1,0 +1,5 @@
+638fea33aee8 ("Drivers: hv: vmbus: fix the race when querying & updating the percpu list")
+d6f591e339d2 ("Drivers: hv: vmbus: channge vmbus_connection.channel_lock to mutex")
+f52078cf5711 ("Drivers: hv: vmbus: release relid on error in vmbus_process_offer()")
+34c6801e3310 ("Drivers: hv: vmbus: fix rescind-offer handling for device without a driver")
+63d55b2aeb5e ("Drivers: hv: vmbus: serialize process_chn_event() and vmbus_close_internal()")

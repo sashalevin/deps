@@ -1,0 +1,8 @@
+541846502f4f ("mm/migrate: Convert migrate_page() to migrate_folio()")
+4ae84a804751 ("nfs: Convert to migrate_folio")
+8958b55142d4 ("btrfs: Convert btree_migratepage to migrate_folio")
+67235182a41c ("mm/migrate: Convert buffer_migrate_page() to buffer_migrate_folio()")
+8faa8ef5dd11 ("mm/migrate: Convert fallback_migrate_page() to fallback_migrate_folio()")
+5490da4f06d1 ("fs: Add aops->migrate_folio")
+68f2736a8583 ("mm: Convert all PageMovable users to movable_operations")
+8291eaafed36 ("Merge tag 'mm-stable-2022-05-27' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

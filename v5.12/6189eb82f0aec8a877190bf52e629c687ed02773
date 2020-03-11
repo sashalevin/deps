@@ -1,0 +1,7 @@
+6189eb82f0ae ("mm/page_ext: do not allocate space for page_ext->flags if not needed")
+df4e817b7108 ("mm: page table check")
+1c676e0d9b1a ("mm/idle_page_tracking: make PG_idle reusable")
+1bb5eab30d68 ("kasan, mm: integrate page_alloc init with HW_TAGS")
+aa5c219c60cc ("kasan: init memory in kasan_(un)poison for HW_TAGS")
+d9b6f90794ba ("arm64: kasan: allow to init memory when setting tags")
+2c3356809802 ("mm, kasan: don't poison boot memory with tag-based modes")

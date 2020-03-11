@@ -1,0 +1,8 @@
+73143035c214 ("KVM: SVM: AVIC: drop unsupported AVIC base relocation code")
+49d8665cc20b ("KVM: x86: Move EDX initialization at vCPU RESET to common code")
+f0428b3dcb2d ("KVM: VMX: Stuff vcpu->arch.apic_base directly at vCPU RESET")
+665f4d9238ad ("KVM: SVM: Fall back to KVM's hardcoded value for EDX at RESET/INIT")
+067a456d091d ("KVM: SVM: Require exact CPUID.0x1 match when stuffing EDX at INIT")
+2a24be79b6b7 ("KVM: VMX: Set EDX at INIT with CPUID.0x1, Family-Model-Stepping")
+0aa1837533e5 ("KVM: x86: Properly reset MMU context at vCPU RESET/INIT")
+fdf513e37a3b ("KVM: x86: Use common 'enable_apicv' variable for both APICv and AVIC")

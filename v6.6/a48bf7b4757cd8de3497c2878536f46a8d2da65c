@@ -1,0 +1,3 @@
+a48bf7b4757c ("mm/hugetlb: replace page_ref_freeze() with folio_ref_freeze() in hugetlb_folio_init_vmemmap()")
+fde1c4ecf916 ("mm: hugetlb: skip initialization of gigantic tail struct pages if freed by HVO")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")

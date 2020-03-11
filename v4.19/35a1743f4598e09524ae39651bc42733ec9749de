@@ -1,0 +1,7 @@
+35a1743f4598 ("xhci: dbc: Drop duplicate checks for dma_free_coherent()")
+ac286428c69f ("xhci: dbc: don't use generic xhci ring allocation functions for dbc.")
+cb66434e67cc ("xhci: dbc: Don't use generic xhci context allocation for dbc")
+bcf87ea6e2d0 ("xhci: dbc: Remove dbc_dma_free_coherent() wrapper")
+c9dd94385d48 ("xhci: dbc: Remove dbc_dma_alloc_coherent() wrapper")
+0b832e997436 ("xhci: dbc: Don't use generic xhci erst allocation and free functions")
+3114bc89c021 ("usb: host: Remove call to memset after dma_alloc_coherent")

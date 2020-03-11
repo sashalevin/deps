@@ -1,0 +1,4 @@
+b9f5621c9547 ("perf/core: Rework guest callbacks to prepare for static_call support")
+f4b027c5c819 ("KVM: x86: Register Processor Trace interrupt hook iff PT enabled in guest")
+5c7df80e2ce4 ("KVM: x86: Register perf callbacks after calling vendor's hardware_setup()")
+ff083a2d972f ("perf: Protect perf_guest_cbs with RCU")

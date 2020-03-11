@@ -1,0 +1,8 @@
+800b8eecb284 ("platform/x86: int3472: Don't leak reference on error")
+43cf36974d76 ("platform/x86: int3472: Support multiple clock consumers")
+ff5f87cb6a75 ("clk: Introduce clk-tps68470 driver")
+19d8d6e36b4b ("platform/x86: int3472: Pass tps68470_regulator_platform_data to the tps68470-regulator MFD-cell")
+d3d76ae139a7 ("platform/x86: int3472: Pass tps68470_clk_platform_data to the tps68470-regulator MFD-cell")
+a2f9fbc247ee ("platform/x86: int3472: Split into 2 drivers")
+9dfa374cc6d0 ("platform_data: Add linux/platform_data/tps68470.h file")
+f6413ba357b7 ("platform/x86/intel: int3472: Use y instead of objs in Makefile")

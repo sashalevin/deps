@@ -1,0 +1,7 @@
+47ac5484fd96 ("x86: Fix norandmaps/ADDR_NO_RANDOMIZE")
+6a0b41d1e23d ("x86/mm: Introduce arch_rnd() to compute 32/64 mmap random base")
+5ef11c35ce86 ("mm: ASLR: use get_random_long()")
+9e08f57d684a ("x86: mm: support ARCH_MMAP_RND_BITS")
+8f0d3aa9de57 ("arm64: mm: support ARCH_MMAP_RND_BITS")
+e0c25d958f78 ("arm: mm: support ARCH_MMAP_RND_BITS")
+437682eeab45 ("ARM: 8456/1: code patching only works on MMU")

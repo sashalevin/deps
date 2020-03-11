@@ -1,0 +1,5 @@
+8a53e1302133 ("KVM: selftests: Require KVM_CAP_USER_MEMORY2 for tests that create memslots")
+e6f4f345b259 ("KVM: selftests: Add KVM_SET_USER_MEMORY_REGION2 helper")
+bb2968ad6c33 ("KVM: selftests: Add support for creating private memslots")
+bd3ed7e1a47e ("KVM: selftests: Stash backing_src_type in struct userspace_mem_region")
+b6b03b86c025 ("KVM: selftests: Add missing close and munmap in __vm_mem_region_delete()")

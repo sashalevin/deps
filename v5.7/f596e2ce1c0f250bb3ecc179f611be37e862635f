@@ -1,0 +1,4 @@
+f596e2ce1c0f ("rcu: Use IRQ_WORK_INIT_HARD() to avoid rcu_read_unlock() hangs")
+39bbfc62cc90 ("rcu: Expedite deboost in case of deferred quiescent state")
+bfb3aa735f82 ("rcu: Do not report strict GPs for outgoing CPUs")
+e4453d8a1c56 ("rcu: Make rcu_read_unlock_special() safe for rq/pi locks")

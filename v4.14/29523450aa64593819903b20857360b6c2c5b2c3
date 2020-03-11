@@ -1,0 +1,4 @@
+29523450aa64 ("drm/omap: dmm_tiler: Remove the dma_async_issue_pending() call")
+f5b9930b85dc ("drm/omap: partial workaround for DRA7xx DMM errata i878")
+176c866d4055 ("drm/omap: dmm_tiler: Fix interrupt request/free sequence during probe/remove")
+157aa884c906 ("drm/omap: dmm_tiler: No need to check if irq is valid in omap_dmm_remove")

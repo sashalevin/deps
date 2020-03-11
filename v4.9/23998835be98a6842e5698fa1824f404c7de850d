@@ -1,0 +1,5 @@
+23998835be98 ("tipc: improve address sanity check in tipc_connect()")
+c752023aab58 ("tipc: remove socket state SS_READY")
+d6fb7e9c9946 ("tipc: remove tsk->connected from tipc_sock")
+87227fe7e420 ("tipc: remove tsk->connected for connectionless sockets")
+aeda16b6aec8 ("tipc: rename tsk->remote to tsk->peer for consistent naming")

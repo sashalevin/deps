@@ -1,0 +1,6 @@
+5670ebf54bd2 ("perf cs-etm: Ensure that Coresight timestamps don't go backwards")
+a7fe9a443b60 ("perf cs_etm: Set the time field in the synthetic samples")
+55c1de9973d6 ("perf cs-etm: Print auxtrace info even if OpenCSD isn't linked")
+fd63091f2a03 ("perf cs-etm: Cleanup cs_etm__process_auxtrace_info()")
+b00204f5c21c ("perf cs-etm: Tidy up auxtrace info header printing")
+ab6bd55e9968 ("perf cs-etm: Print unknown header version as an error")

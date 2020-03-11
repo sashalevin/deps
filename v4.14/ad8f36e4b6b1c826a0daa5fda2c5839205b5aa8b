@@ -1,0 +1,6 @@
+ad8f36e4b6b1 ("iommu: return full error code from iommu_map_sg[_atomic]()")
+9930264fd997 ("iommu: Mark __iommu_map_sg() as static")
+781ca2de89ba ("iommu: Add gfp parameter to iommu_ops::map")
+a7d20dc19d9e ("iommu: Introduce struct iommu_iotlb_gather for batching TLB flushes")
+6d1bcb957be2 ("iommu: Remove empty iommu_tlb_range_add() callback from iommu_ops")
+3a1d5384b7de ("Merge tag 'for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mst/vhost")

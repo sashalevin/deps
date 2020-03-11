@@ -1,0 +1,5 @@
+87172e89dcc7 ("drm/amdgpu: Call amdgpu_device_unmap_mmio() if device is unplugged to prevent crash in GPU initialization failure")
+07775fc13878 ("drm/amdgpu: Unmap all MMIO mappings")
+d10d0daa2072 ("drm/amdgpu: Handle IOMMU enabled case.")
+e9669fb78262 ("drm/amdgpu: Add early fini callback")
+72c8c97b1522 ("drm/amdgpu: Split amdgpu_device_fini into early and late")

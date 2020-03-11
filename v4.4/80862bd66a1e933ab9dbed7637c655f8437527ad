@@ -1,0 +1,8 @@
+80862bd66a1e ("crypto: chelsio - no csum offload for ipsec path")
+6dad4e8ab3ec ("chcr: Add support for Inline IPSec")
+2f47d5804311 ("crypto: chelsio - Move DMA un/mapping to chcr from lld cxgb4 driver")
+2956f36c954e ("crypto: chelsio - Remove allocation of sg list to implement 2K limit of dsgl header")
+de1a00ac7da1 ("crypto: chelsio - Use x8_ble gf multiplication to calculate IV.")
+40cdbe1a1bd9 ("crypto: chelsio - Check error code with IS_ERR macro")
+570265bf9c8d ("crypto: chelsio - Remove unused parameter")
+dcf903d0c9ad ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

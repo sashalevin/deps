@@ -1,0 +1,8 @@
+23ddf9bea900 ("libceph: support the RADOS copy-from operation")
+0d9c1ab3be4c ("libceph: preallocate message data items")
+3b83f60da6dd ("libceph: enable fallback to ceph_msg_new() in ceph_msgpool_get()")
+894868330a1e ("libceph: don't consume a ref on pagelist in ceph_msg_data_add_pagelist()")
+57a35dfb522c ("libceph, ceph: add __init attribution to init funcitons")
+b9e281c2b388 ("libceph: introduce BVECS data type")
+5359a17d2706 ("libceph, rbd: new bio handling code (aka don't clone bios)")
+a1fbb5e7bbb5 ("rbd: start enums at 1 instead of 0")

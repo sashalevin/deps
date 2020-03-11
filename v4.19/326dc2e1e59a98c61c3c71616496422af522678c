@@ -1,0 +1,7 @@
+326dc2e1e59a ("PCI: hv: Remove bus device removal unused refcount/functions")
+94d22763207a ("PCI: hv: Fix a race condition when removing the device")
+f9ad0f361cf3 ("PCI: hv: Decouple the func definition in hv_dr_state from VSP message")
+ac82fc832708 ("PCI: hv: Add hibernation support")
+a8e37506e79a ("PCI: hv: Reorganize the code in preparation of hibernation")
+be700103efd1 ("PCI: hv: Detect and fix Hyper-V PCI domain number collision")
+4df591b20b80 ("PCI: hv: Fix a use-after-free bug in hv_eject_device_work()")

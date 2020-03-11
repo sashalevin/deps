@@ -1,0 +1,8 @@
+7852028a35f0 ("mmc: block: register RPMB partition with the RPMB subsystem")
+18cbe81639f2 ("mmc: core: Remove usage of the deprecated ida_simple_xx() API")
+f695c5f952f2 ("mmc: core: Remove unused macro mmc_req_rel_wr")
+10252bae863d ("mmc: core: Don't allocate IDA for OF aliases")
+edb25572fc70 ("mmc: core: Use kref in place of struct mmc_blk_data::usage")
+607d968a5769 ("mmc: switch to blk_mq_alloc_disk")
+249cda3325e0 ("mmc: remove an extra blk_{get,put}_queue pair")
+3ad11d7ac887 ("Merge tag 'block-5.10-2020-10-12' of git://git.kernel.dk/linux-block")

@@ -1,0 +1,6 @@
+45e4ab320c9b ("ext4: move setting of trimmed bit into ext4_try_to_trim_range()")
+de8bf0e5ee74 ("ext4: replace the traditional ternary conditional operator with with max()/min()")
+d63c00ea435a ("ext4: mark group as trimmed only if it was fully scanned")
+2327fb2e2341 ("ext4: change s_last_trim_minblks type to unsigned long")
+173b6e383d2a ("ext4: avoid trim error on fs with small groups")
+afcc4e32f606 ("ext4: scope ret locally in ext4_try_to_trim_range()")

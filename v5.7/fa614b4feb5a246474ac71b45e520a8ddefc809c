@@ -1,0 +1,7 @@
+fa614b4feb5a ("sched: Simplify sched_move_task()")
+eff6c8ce8d4d ("sched/core: Reduce cost of sched_move_task when config autogroup")
+39c4261191bf ("sched/fair: Remove redundant cpu_cgrp_subsys->fork()")
+58877d347b58 ("sched: Better document ttwu()")
+dbfb089d360b ("sched: Fix loadavg accounting race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

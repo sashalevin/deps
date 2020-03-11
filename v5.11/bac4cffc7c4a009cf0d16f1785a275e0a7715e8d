@@ -1,0 +1,7 @@
+bac4cffc7c4a ("powerpc/32s: Introduce _PAGE_READ and remove _PAGE_USER")
+46ebef51fd92 ("powerpc/32s: Add _PAGE_WRITE to supplement _PAGE_RW")
+8897ebff37fd ("powerpc/mm: support __HAVE_ARCH_PTE_SWP_EXCLUSIVE on 32bit book3s")
+2a0fb3c155c9 ("powerpc/32: Set an IBAT covering up to _einittext during init")
+4634bf4455fe ("powerpc/603: Clear C bit when PTE is read only")
+ca8cc36901e9 ("powerpc/32s: Remove asm/book3s/32/hash.h")
+c119565a15a6 ("powerpc/603: Fix protection of user pages mapped with PROT_NONE")

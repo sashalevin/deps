@@ -1,0 +1,6 @@
+72e1ad4200d5 ("KVM: s390: document memory ordering for kvm_s390_vcpu_wakeup")
+3491caf2755e ("KVM: halt_polling: provide a way to qualify wakeups during poll")
+60a37709ce60 ("KVM: s390: Populate mask of non-hypervisor managed facility bits")
+ed8dda0bf74b ("KVM: s390: Enable all facility bits that are known good for passthrough")
+8577370fb0cb ("KVM: Use simple waitqueue for vcpu->wq")
+07197fd05fa3 ("KVM: s390: don't load kvm without virtualization support")

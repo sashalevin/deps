@@ -1,0 +1,7 @@
+28be4fd310d1 ("md: add a mddev_add_trace_msg helper")
+c396b90e5026 ("md: add a mddev_trace_remap helper")
+1979dbbe328c ("md: factor out a helper exceed_read_errors() to check read_errors")
+af50e20afb40 ("md/raid0: Factor out helper for mapping and submitting a bio")
+605eeda6e70f ("md/raid10: optimize fix_read_error")
+9efcc2c3df76 ("md/raid1-10: don't handle pluged bio by daemon thread")
+5ec6ca140a03 ("md/raid1-10: factor out a helper to add bio to plug")

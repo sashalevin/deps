@@ -1,0 +1,8 @@
+425f4b5fce7c ("wifi: mac80211: add API to parse multi-link element")
+38c6aa29d455 ("wifi: mac80211: fix multi-BSSID element parsing")
+fd17bf041b40 ("wifi: mac80211: refactor elements parsing with parameter struct")
+f0e6bea8bd9b ("mac80211: Support parsing EHT elements")
+37123c3baaee ("mac80211: use ieee802_11_parse_elems() in ieee80211_prep_channel()")
+5d24828d05f3 ("mac80211: always allocate struct ieee802_11_elems")
+c6e37ed498f9 ("mac80211: move CRC into struct ieee802_11_elems")
+a5b983c60731 ("mac80211: mesh: clean up rx_bcn_presp API")

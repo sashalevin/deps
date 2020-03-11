@@ -1,0 +1,6 @@
+1077c2857791 ("coda: convert from atomic_t to refcount_t on coda_vm_ops->refcnt")
+7fa0a1da3dad ("coda: pass the host file in vma->vm_file on mmap")
+f74ac01520c9 ("mm: use helper for calling f_op->mmap()")
+bb7462b6fd64 ("vfs: use helpers for calling f_op->{read,write}_iter()")
+0f78d06ac1e9 ("vfs: pass type instead of fn to do_{loop,iter}_readv_writev()")
+7687a7a4435f ("vfs: extract common parts of {compat_,}do_readv_writev()")

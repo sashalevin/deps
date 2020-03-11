@@ -1,0 +1,8 @@
+a2ac1cbc5397 ("pwm: dwc: allow suspend/resume for 16 channels")
+ebf2c89eb95e ("pwm: dwc: Add 16 channel support for Intel Elkhart Lake")
+144a0008b30b ("pwm: dwc: drop redundant error check")
+aaa3cc29a78e ("pwm: dwc: Prepare removing pwm_chip from driver data")
+3ee35fd12b01 ("pwm: dwc: access driver_data using dev_get_drvdata()")
+81432e2e5132 ("pwm: dwc: make timer clock configurable")
+721ee1884883 ("pwm: dwc: split pci out of core driver")
+384461abcab6 ("pwm: Manage owner assignment implicitly for drivers")

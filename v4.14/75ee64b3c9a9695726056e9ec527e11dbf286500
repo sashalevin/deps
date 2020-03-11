@@ -1,0 +1,6 @@
+75ee64b3c9a9 ("mm/memory-failure.c: fix race with changing page more robustly")
+6100e34b2526 ("mm, memory_failure: Teach memory_failure() about dev_pagemap pages")
+ae1139ece126 ("mm, memory_failure: Collect mapping size in collect_procs()")
+fd0e786d9d09 ("x86/mm, mm/hwpoison: Don't unconditionally unmap kernel 1:1 pages")
+c0f45555b824 ("signal/memory-failure: Use force_sig_mceerr and send_sig_mceerr")
+83b57531c58f ("mm/memory_failure: Remove unused trapno from memory_failure")

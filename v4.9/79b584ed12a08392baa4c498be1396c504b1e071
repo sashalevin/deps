@@ -1,0 +1,5 @@
+79b584ed12a0 ("iio: adc: meson_saradc: Use regmap_read_poll_timeout() for busy wait")
+3c3e4b3a708a ("iio: adc: meson-saradc: unlock on error in meson_sar_adc_lock()")
+6c76ed31cd05 ("iio: adc: meson-saradc: add Meson8b SoC compatibility")
+c1c2de37c7be ("iio: adc: meson-saradc: mark all meson_sar_adc_data static and const")
+3adbf3427330 ("iio: adc: add a driver for the SAR ADC found in Amlogic Meson SoCs")

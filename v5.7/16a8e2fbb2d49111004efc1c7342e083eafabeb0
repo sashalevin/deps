@@ -1,0 +1,6 @@
+16a8e2fbb2d4 ("spi-mux: Fix false-positive lockdep splats")
+6098475d4cb4 ("spi: Fix deadlock when adding SPI controllers on SPI buses")
+0c79378c0199 ("spi: add ancillary device support")
+c7299fea6769 ("spi: Fix spi device unregister flow")
+ddf75be47ca7 ("spi: Prevent adding devices below an unregistering controller")
+84855678add8 ("spi: Fix controller unregister order")

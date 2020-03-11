@@ -1,0 +1,3 @@
+3809db6430bf ("ALSA: rawmidi: Take buffer refcount while draining output")
+c1f6e3c818dd ("ALSA: rawmidi: Fix racy buffer resize under concurrent accesses")
+39675f7a7c7e ("ALSA: rawmidi: Change resized buffers atomically")

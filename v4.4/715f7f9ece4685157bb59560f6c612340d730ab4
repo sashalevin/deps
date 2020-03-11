@@ -1,0 +1,8 @@
+715f7f9ece46 ("locking/rtmutex: Squash !RT tasks to DEFAULT_PRIO")
+19830e55247c ("rtmutex: Fix more prio comparisons")
+e0aad5b44ff5 ("rtmutex: Fix PI chain order integrity")
+acd58620e415 ("sched/rtmutex: Refactor rt_mutex_setprio()")
+85e2d4f99286 ("sched/deadline/rtmutex: Dont miss the dl_runtime/dl_period update")
+e96a7705e7d3 ("sched/rtmutex/deadline: Fix a PI crash for deadline tasks")
+2a1c60299406 ("rtmutex: Deboost before waking up the top waiter")
+38bffdac071b ("Merge branch 'sched/core' into locking/core")

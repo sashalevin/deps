@@ -1,0 +1,6 @@
+30df385e35a4 ("Input: adp5589-keys - use devm_add_action_or_reset() for register clear")
+74f2c59324a3 ("Input: adp5589-keys - use devm_gpiochip_add_data() for gpios")
+3b95bc57c86b ("Input: adp5589-keys - remove setup/teardown hooks for gpios")
+760a1219ff26 ("Input: adp5589-keys - use device-managed function in adp5589_keypad_add()")
+41d7d26b8fb2 ("Input: adp5589-keys - use devm_kzalloc() to allocate the kpad object")
+cb3efd5a3885 ("Input: adp5589 - make keypad support optional")

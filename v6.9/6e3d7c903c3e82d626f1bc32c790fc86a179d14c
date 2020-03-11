@@ -1,0 +1,4 @@
+6e3d7c903c3e ("eventfs: Cleanup permissions in creation of inodes")
+37cd0d126697 ("eventfs: Remove getattr and permission callbacks")
+625acf9d5e56 ("eventfs: Consolidate the eventfs_inode update in eventfs_get_inode()")
+d4e9a968738b ("eventfs: Fix a possible null pointer dereference in eventfs_find_events()")

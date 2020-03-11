@@ -1,0 +1,8 @@
+bcd6a517aaca ("device property: Use multi-connection matchers for single case")
+7a20917d30fb ("device property: Add helper to match multiple connections")
+4a7f4110f791 ("device property: Fix fwnode_graph_devcon_match() fwnode leak")
+d7cf55903931 ("device property: Move fwnode_connection_find_match() under drivers/base/property.c")
+f5514c91e9f7 ("device connection: Remove struct device_connection")
+87ea5926247f ("device connection: Remove device_connection_add()")
+180c284ce4d6 ("device connection: Remove device_connection_find()")
+d80bdabea986 ("usb: typec: mux: Drop support for device name matching")

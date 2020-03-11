@@ -1,0 +1,4 @@
+fdf250db89b6 ("btrfs: subpage: only call btrfs_alloc_subpage() when sectorsize is smaller than PAGE_SIZE")
+760f991f1428 ("btrfs: make attach_extent_buffer_page() handle subpage case")
+cac06d843f25 ("btrfs: introduce the skeleton of btrfs_subpage structure")
+c0f0a9e71653 ("btrfs: introduce helper to grab an existing extent buffer from a page")

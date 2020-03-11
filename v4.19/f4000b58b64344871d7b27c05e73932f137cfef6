@@ -1,0 +1,4 @@
+f4000b58b643 ("ALSA: line6: fix control and interrupt message timeouts")
+6d2d427e3b12 ("sound: line6: move to use usb_control_msg_send() and usb_control_msg_recv()")
+a30f1743e4f5 ("ALSA: line6: sizeof (byte) is always 1, use that fact.")
+e5c812e84f0d ("ALSA: line6: use dynamic buffers")

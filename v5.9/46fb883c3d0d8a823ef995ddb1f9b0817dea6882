@@ -1,0 +1,6 @@
+46fb883c3d0d ("drm/ast: Remove references to struct drm_device.pdev")
+f9bd00e0ea9d ("drm/ast: Create chip AST2600")
+e0f5a738cfe5 ("drm/ast: Embed struct drm_device in struct ast_private")
+21d79b690e78 ("drm/ast: Don't use ast->dev if dev is available")
+fbe01716ed4a ("drm/ast: Replace driver load/unload functions with device create/destroy")
+d50ace1e72f0 ("drm/ast: Separate DRM driver from PCI code")

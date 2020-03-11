@@ -1,0 +1,5 @@
+c12cd77cb028 ("mm/vmalloc: fix spinning drain_vmap_work after reading from /proc/vmcore")
+5da96bdd93ed ("mm/vmalloc: include header for prototype of set_iounmap_nonlazy")
+0f14599c607d ("vmalloc: convert to XArray")
+78a0e8c4837f ("mm: pass addr as unsigned long to vb_free")
+8e57f8acbbd1 ("mm, debug_pagealloc: don't rely on static keys too early")

@@ -1,0 +1,7 @@
+2f6a49bbc01d ("KVM: arm64: Kill 32-bit vCPUs on systems with mismatched EL0 support")
+22f553842b14 ("KVM: arm64: Handle Asymmetric AArch32 systems")
+74cc7e0c35c1 ("KVM: arm64: clean up redundant 'kvm_run' parameters")
+cb953129bfe5 ("kvm: add halt-polling cpu usage stats")
+da4ad88cab58 ("kvm: Replace vcpu->swait with rcuwait")
+1b94f6f81007 ("KVM: Remove redundant argument to kvm_arch_vcpu_ioctl_run")
+812756a82ea5 ("kvm_host: unify VM_STAT and VCPU_STAT definitions in a single place")

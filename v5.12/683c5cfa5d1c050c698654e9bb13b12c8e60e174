@@ -1,0 +1,4 @@
+683c5cfa5d1c ("USB: serial: mos7720: drop buffer-callback sanity checks")
+155591d3ceee ("USB: serial: make usb_serial_driver::chars_in_buffer return uint")
+94cc7aeaf6c0 ("USB: serial: make usb_serial_driver::write_room return uint")
+6bfbfcfc5800 ("tty: make everyone's write_room return >= 0")

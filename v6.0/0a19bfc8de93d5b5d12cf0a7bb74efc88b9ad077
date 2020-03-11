@@ -1,0 +1,6 @@
+0a19bfc8de93 ("cxl/port: Add RCD endpoint port enumeration")
+7592d935b7ae ("cxl/mem: Move devm_cxl_add_endpoint() from cxl_core to cxl_mem")
+f17b558d6663 ("cxl/pmem: Refactor nvdimm device registration, delete the workqueue")
+16d53cb0d690 ("cxl/region: Drop redundant pmem region release handling")
+f3cd264c4ec1 ("cxl: Unify debug messages when calling devm_cxl_add_port()")
+4d07ae22e79e ("cxl/pmem: Fix cxl_pmem_region and cxl_memdev leak")

@@ -1,0 +1,5 @@
+cffaefd15a8f ("vdso: Use CONFIG_PAGE_SHIFT in vdso/datapage.h")
+8b3843ae3634 ("vdso/datapage: Quick fix - use asm/page-def.h for ARM64")
+a0d2fcd62ac2 ("vdso/ARM: Make union vdso_data_store available for all architectures")
+692b21d78046 ("powerpc/vdso: Move cvdso_call macro into gettimeofday.S")
+9b97bea90072 ("powerpc/vdso: Remove cvdso_call_time macro")

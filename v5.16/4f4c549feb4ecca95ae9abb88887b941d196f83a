@@ -1,0 +1,6 @@
+4f4c549feb4e ("arm64: mte: Avoid the racy walk of the vma list during core dump")
+ef770d180eba ("arm64: Change elfcore for_each_mte_vma() to use VMA iterator")
+16decce22efa ("arm64: mte: Fix the stack frame size warning in mte_dump_tag_range()")
+a0ab7e5bc965 ("Revert "arm64: Change elfcore for_each_mte_vma() to use VMA iterator"")
+3a4f7ef4bed5 ("arm64: Change elfcore for_each_mte_vma() to use VMA iterator")
+6dd8b1a0b6cb ("arm64: mte: Dump the MTE tags in the core file")

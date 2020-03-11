@@ -1,0 +1,5 @@
+047304d0bfa5 ("netdevsim: fix uninit value in nsim_drv_configure_vfs()")
+1c401078bcf3 ("netdevsim: move details of vf config to dev")
+5e388f3dc38c ("netdevsim: move vfconfig to nsim_dev")
+26c37d89f61d ("netdevsim: take rtnl_lock when assigning num_vfs")
+ba064e4cf923 ("netdevsim: remove max_vfs dentry")

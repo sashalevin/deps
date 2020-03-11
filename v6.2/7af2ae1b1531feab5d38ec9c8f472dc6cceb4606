@@ -1,0 +1,7 @@
+7af2ae1b1531 ("erofs: reliably distinguish block based and fscache mode")
+0f28be64d132 ("erofs: fix lockdep false positives on initializing erofs_pseudo_mnt")
+2c88c16dc20e ("erofs: fix handling kern_mount() failure")
+4da3c7183e18 ("erofs: drop unnecessary WARN_ON() in erofs_kill_sb()")
+557afdd94cf8 ("erofs: tidy up internal.h")
+768bb10afb99 ("erofs: remove linux/buffer_head.h dependency")
+7c3511a2c820 ("erofs: clean up erofs_iget()")

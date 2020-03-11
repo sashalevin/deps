@@ -1,0 +1,5 @@
+ab7a4d758b27 ("spi: dw-dma: Move DMA transfers submission to the channels prep methods")
+be3034d9f9f3 ("spi: dw-dma: Check rx_buf availability in the xfer method")
+a874d811f0c2 ("spi: dw-dma: Configure the DMA channels in dma_setup")
+7ef30385b05f ("spi: dw-dma: Fail DMA-based transfer if no Tx-buffer specified")
+01ddbbb0b0af ("spi: dw-dma: Set DMA Level registers on init")

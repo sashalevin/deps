@@ -1,0 +1,6 @@
+20a7eb990ae8 ("KVM: selftests: Convert xapic_state_test away from hardcoded vCPU ID")
+70ca149be61d ("KVM: selftests: Rename xAPIC state test's vcpu struct")
+85c68eb429f7 ("KVM: selftests: Add test to verify KVM handling of ICR")
+150a282d43b8 ("KVM: selftests: Move APIC definitions into a separate file")
+2f3b90fd90b5 ("KVM: selftests: Ignore recently added Xen tests' build output")
+678e90a349a4 ("KVM: selftests: Test IPI to halted vCPU in xAPIC while backing page moves")

@@ -1,0 +1,7 @@
+8b1cb4a2e819 ("mm/pagewalk: fix EFI_PGT_DUMP of espfix area")
+be872f83bf57 ("mm/pagewalk: walk_pte_range() allow for pte_offset_map()")
+fbf56346b855 ("mm: pagewalk: don't lock PTEs for walk_page_range_novma()")
+488ae6a2b933 ("mm: pagewalk: allow walking without vma")
+3afc423632a1 ("mm: pagewalk: add p4d_entry() and pgd_entry()")
+ecaad8aca204 ("mm: Add a walk_page_mapping() function to the pagewalk code")
+ace88f1018b8 ("mm: pagewalk: Take the pagetable lock in walk_pte_range()")

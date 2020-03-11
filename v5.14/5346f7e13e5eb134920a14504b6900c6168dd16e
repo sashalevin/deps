@@ -1,0 +1,5 @@
+5346f7e13e5e ("KVM: arm64: Always return generic v8 as the preferred target")
+a7a2c72ae014 ("KVM: arm64: Separate out feature sanitisation and initialisation")
+08e873cb70f3 ("KVM: arm64: Change the return type of kvm_vcpu_preferred_target()")
+6b7982fefc1f ("KVM: arm64: Drop check_kvm_target_cpu() based percpu probe")
+bf249d9e362f ("KVM: arm64: Drop init_common_resources()")

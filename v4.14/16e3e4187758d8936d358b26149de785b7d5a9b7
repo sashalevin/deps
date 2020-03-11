@@ -1,0 +1,4 @@
+16e3e4187758 ("block: reuse __blk_bvec_map_sg() for mapping page sized bvec")
+cae6c2e54cc1 ("block: remove argument of 'request_queue' from __blk_bvec_map_sg")
+48d7727cae12 ("block: optimize __blk_segment_map_sg() for single-page bvec")
+862e5a5e6fa2 ("block: use bio_for_each_bvec() to map sg")

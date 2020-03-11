@@ -1,0 +1,4 @@
+0258b5fd7c71 ("coredump: Limit coredumps to a single thread group")
+92307383082d ("coredump:  Don't perform any cleanups before dumping core")
+d67e03e36161 ("exit: Factor coredump_exit_mm out of exit_mm")
+7d613f9f72ec ("signal: Remove the bogus sigkill_pending in ptrace_stop")

@@ -1,0 +1,7 @@
+fa13843d1565 ("KVM: X86: fix lazy allocation of rmaps")
+d501f747ef5c ("KVM: x86/mmu: Lazily allocate memslot rmaps")
+e2209710ccc5 ("KVM: x86/mmu: Skip rmap operations if rmaps not allocated")
+a255740876f0 ("KVM: x86/mmu: Add a field to control memslot rmap allocation")
+56dd1019c885 ("KVM: x86/mmu: Factor out allocating memslot rmap")
+3ad93562093d ("KVM: x86: Support write protecting only large pages")
+24ae4cfaaaa2 ("KVM: x86/mmu: Allow enabling/disabling dirty logging under MMU read lock")

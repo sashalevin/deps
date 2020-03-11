@@ -1,0 +1,8 @@
+865e63b04e9b ("tracing: Add back in rcu_irq_enter/exit_irqson() for rcuidle tracepoints")
+e6753f23d961 ("tracepoint: Make rcuidle tracepoint callers use SRCU")
+844ccdd7dce2 ("rcu: Eliminate rcu_irq_enter_disabled()")
+51a1fd30f130 ("rcu: Make ->dynticks_nesting be a simple counter")
+58721f5da4bc ("rcu: Define rcu_irq_{enter,exit}() in terms of rcu_nmi_{enter,exit}()")
+6136d6e48a01 ("rcu: Clamp ->dynticks_nmi_nesting at eqs entry/exit")
+a0eb22bf64a7 ("rcu: Reduce dyntick-idle state space")
+8e9a2dba8686 ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

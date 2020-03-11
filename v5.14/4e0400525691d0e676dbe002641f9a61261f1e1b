@@ -1,0 +1,5 @@
+4e0400525691 ("virtio-blk: support polling I/O")
+6ae6ff6f6e7d ("virtio-blk: validate num_queues during probe")
+0989c41bed96 ("virtio-blk: add num_request_queues module parameter")
+02746e26c39e ("virtio-blk: avoid preallocating big SGL for data")
+358b348b9197 ("virtio_blk: use bvec_virt")

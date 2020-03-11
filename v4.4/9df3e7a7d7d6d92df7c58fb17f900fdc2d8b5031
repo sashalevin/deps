@@ -1,0 +1,5 @@
+9df3e7a7d7d6 ("kbuild: add -Wno-unused-but-set-variable flag unconditionally")
+0a5f41767444 ("kbuild: clang: disable unused variable warnings only when constant")
+a0ae981eba8f ("kbuild: drop -Wno-unknown-warning-option from clang options")
+35288e30ebca ("Kbuild: fix file name in comment about extra gcc checks")
+c9c6837d3931 ("kbuild: move -Wunused-const-variable to W=1 warning level")

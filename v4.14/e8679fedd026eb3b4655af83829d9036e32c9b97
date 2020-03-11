@@ -1,0 +1,5 @@
+e8679fedd026 ("KVM: arm64: Stop save/restoring ACTLR_EL1")
+7ea90bdd70c9 ("KVM: arm64: Refactor vcpu_{read,write}_sys_reg")
+bd227553ad50 ("arm64: KVM: Prevent speculative S1 PTW when restoring vcpu context")
+fdec2a9ef853 ("KVM: arm64: Migrate _elx sysreg accessors to msr_s/mrs_s")
+0ef0fd351550 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

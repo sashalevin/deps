@@ -1,0 +1,4 @@
+2f040a17f506 ("PCI: aardvark: Fix memory leak in driver unbind")
+64f160e19e92 ("PCI: aardvark: Configure PCIe resources from 'ranges' DT property")
+d0c6a3475b03 ("PCI: aardvark: Move PCIe reset card code to advk_pcie_train_link()")
+526a76991b7b ("PCI: aardvark: Implement driver 'remove' function and allow to build it as module")

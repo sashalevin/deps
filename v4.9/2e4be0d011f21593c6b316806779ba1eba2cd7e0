@@ -1,0 +1,8 @@
+2e4be0d011f2 ("x86/show_trace_log_lvl: Ensure stack pointer is aligned, again")
+3ffdeb1a02be ("x86/dumpstack: Print registers for first stack frame")
+6e60e583426c ("x86/dumpstack: Handle stack overflow on all stacks")
+e335bb51cc15 ("x86/unwind: Ensure stack pointer is aligned")
+3d02a9c48d47 ("x86/dumpstack: Make stack name tags more comprehensible")
+f4474c9f0bba ("x86/dumpstack: Handle NULL stack pointer in show_trace_log_lvl()")
+3b3fa11bc700 ("x86/dumpstack: Print any pt_regs found on the stack")
+79439d8e15b5 ("x86/dumpstack: Print stack identifier on its own line")

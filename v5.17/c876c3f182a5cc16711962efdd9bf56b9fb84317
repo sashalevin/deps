@@ -1,0 +1,7 @@
+c876c3f182a5 ("KVM: arm64: Relax trapping of CTR_EL0 when FEAT_EVT is available")
+8cc6dedaff42 ("KVM: arm64: Always set HCR_TID2")
+fd1264c4ca61 ("KVM: arm64: Start trapping ID registers for 32 bit guests")
+26bf74bd9f6f ("KVM: arm64: mixed-width check should be skipped for uninitialized vCPUs")
+06394531b425 ("KVM: arm64: Generalise VM features into a set of flags")
+6ee7fca2a4a0 ("KVM: arm64: Add KVM_ARM_VCPU_PMU_V3_SET_PMU attribute")
+5177fe91e4cf ("KVM: arm64: Do not change the PMU event filter after a VCPU has run")

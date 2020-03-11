@@ -1,0 +1,4 @@
+2780e7b716a6 ("iio: adc: ad_sigma_delta: Follow renaming of SPI "master" to "controller"")
+20228a1d5a55 ("iio: adc: ad_sigma_delta: do not use internal iio_dev lock")
+387c1d770667 ("iio: ad_sigma_delta: return directly in ad_sd_buffer_postenable()")
+df1d80aee963 ("iio: ad_sigma_delta: Properly handle SPI bus locking vs CS assertion")

@@ -1,0 +1,5 @@
+afc880cbb294 ("x86/power: Fix kernel-doc warnings in cpu.c")
+7ee18d677989 ("x86/power: Make restore_processor_context() sane")
+896c80bef4d3 ("x86/power/32: Move SYSENTER MSR restoration to fix_processor_context()")
+090edbe23ff5 ("x86/power/64: Use struct desc_ptr for the IDT in struct saved_context")
+5b06bbcfc2c6 ("x86/power: Fix some ordering bugs in __restore_processor_context()")

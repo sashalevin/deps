@@ -1,0 +1,8 @@
+21346564ccad ("y2038: vdso: change time_t to __kernel_old_time_t")
+7a1bb4f990ad ("um: Fix VDSO compiler warning")
+7ac870747988 ("x86/vdso: Switch to generic vDSO implementation")
+00b26474c2f1 ("lib/vdso: Provide generic VDSO implementation")
+ff17bbe0bb40 ("x86/vdso: Prevent segfaults due to hoisted vclock reads")
+7e300dabb7e7 ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 223")
+459e3a21535a ("gcc-9: properly declare the {pv,hv}clock_page storage")
+034bda1cd5ab ("Merge branch 'x86-vdso-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

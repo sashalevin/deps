@@ -1,0 +1,4 @@
+5aaeca258f55 ("scsi: target: iblock: Fix smp_processor_id() BUG messages")
+415ccd9811da ("scsi: target: iblock: Add backend plug/unplug callouts")
+5981c245a890 ("target/iblock: convert iblock_req.pending from atomic_t to refcount_t")
+8dcf07be2d0b ("target: Minimize #include directives")

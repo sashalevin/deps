@@ -1,0 +1,3 @@
+4959f2de11ca ("futex: Remove pointless put_pi_state calls in requeue()")
+29e9ee5d48c3 ("futex: Rename free_pi_state() to put_pi_state()")
+fb75a4282d0d ("futex: Drop refcount if requeue_pi() acquired the rtmutex")

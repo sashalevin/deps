@@ -1,0 +1,6 @@
+3fc74c65b367 ("ksmbd: send lease break notification on FILE_RENAME_INFORMATION")
+d47d9886aeef ("ksmbd: send v2 lease break notification for directory")
+eb547407f357 ("ksmbd: downgrade RWH lease caching state to RH for directory")
+2e450920d58b ("ksmbd: move oplock handling after unlock parent dir")
+4274a9dc6aeb ("ksmbd: separately allocate ci per dentry")
+864fb5d37163 ("ksmbd: fix possible deadlock in smb2_open")

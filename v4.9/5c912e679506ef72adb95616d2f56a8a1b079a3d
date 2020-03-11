@@ -1,0 +1,6 @@
+5c912e679506 ("usb: cdc-wdm: fix build error when CONFIG_WWAN_CORE is not set")
+cac6fb015f71 ("usb: class: cdc-wdm: WWAN framework integration")
+ddcb6c6ad757 ("usb: class: cdc-wdm: Provide description for usb_cdc_wdm_register()'s manage_power arg")
+579b9cca2bff ("usb: cdc-wdm: use irqsave() in USB's complete callback")
+2df694842854 ("USB: cdc-wdm: don't enable interrupts in USB-giveback")
+19445816996d ("USB: Revert "cdc-wdm: fix "out-of-sync" due to missing notifications"")

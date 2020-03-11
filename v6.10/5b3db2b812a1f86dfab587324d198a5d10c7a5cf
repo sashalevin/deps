@@ -1,0 +1,8 @@
+5b3db2b812a1 ("mm: remove can_modify_mm()")
+23c57d1fa2b9 ("mseal: replace can_modify_mm_madv with a vma variant")
+4d1b3416659b ("mm: move can_modify_vma to mm/vma.h")
+49b1b8d6f683 ("mm: move internal core VMA manipulation functions to own file")
+d61f0d59683d ("mm: move vma_shrink(), vma_expand() to internal header")
+fa04c08f3ce6 ("mm: move vma_modify() and helpers to internal header")
+f38ee2851918 ("mm: introduce pmd|pte_needs_soft_dirty_wp helpers for softdirty write-protect")
+3577dbb19241 ("mm: batch unlink_file_vma calls in free_pgd_range")

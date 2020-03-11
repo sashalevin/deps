@@ -1,0 +1,7 @@
+04c975121cae ("KVM: x86/xen: Remove the redundantly included header file lapic.h")
+7caf9571563e ("KVM: x86/xen: Use gfn_to_pfn_cache for vcpu_info")
+916d3608df82 ("KVM: x86: Use gfn_to_pfn_cache for pv_time")
+a795cd43c5b5 ("KVM: x86/xen: Use gfn_to_pfn_cache for runstate area")
+fcb732d8f8cf ("KVM: x86/xen: Fix runstate updates to be atomic when preempting vCPU")
+adb759e59999 ("x86,kvm/xen: Remove superfluous .fixup usage")
+14243b387137 ("KVM: x86/xen: Add KVM_IRQ_ROUTING_XEN_EVTCHN and event channel delivery")

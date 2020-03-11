@@ -1,0 +1,7 @@
+eb94b74ccda6 ("can: mcp251xfd: simplify UINC handling")
+2fbb397f5840 ("can: mcp251xfd: mcp251xfd_handle_rxif_ring(): first increment RX tail pointer in HW, then in driver")
+6086f02a18ae ("can: mcp251xfd: mcp251xfd_handle_tefif(): fix TEF vs. TX race condition")
+68c0c1c7f966 ("can: mcp251xfd: tef-path: reduce number of SPI core requests to set UINC bit")
+63e70488b49a ("can: mcp251xfd: move struct mcp251xfd_tef_ring definition")
+dada6a6c7d3f ("can: mcp251xfd: struct mcp251xfd_priv::tef to array of length 1")
+1f652bb6bae7 ("can: mcp25xxfd: rx-path: reduce number of SPI core requests to set UINC bit")

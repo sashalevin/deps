@@ -1,0 +1,4 @@
+7cba8a8d0d39 ("arm64: KVM: Drop VHE-specific HYP call stub")
+4adb1341c7ef ("arm64: KVM: Convert __cpu_reset_hyp_mode to using __hyp_reset_vectors")
+fb1b4e01d2ad ("arm64: KVM: Implement HVC_RESET_VECTORS stub hypercall in the init code")
+6c9ae25dfcae ("arm64: KVM: Move lr save/restore to do_el2_call")

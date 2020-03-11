@@ -1,0 +1,6 @@
+6146b6141770 ("landlock: Refactor merge/inherit_ruleset helpers")
+a4ac404b3032 ("landlock: Refactor landlock_find_rule/insert_rule helpers")
+d7220364039f ("landlock: Allow FS topology changes for domains without such rule type")
+13fc6455fa19 ("landlock: Make ruleset's access masks more generic")
+b9f5ce27c8f8 ("landlock: Support file truncation")
+55e55920bbe3 ("landlock: Fix file reparenting without explicit LANDLOCK_ACCESS_FS_REFER")

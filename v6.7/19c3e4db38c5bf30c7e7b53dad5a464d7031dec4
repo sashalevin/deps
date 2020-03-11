@@ -1,0 +1,7 @@
+19c3e4db38c5 ("perf: cs-etm: Create decoders based on the trace ID mappings")
+77c123f53e97 ("perf: cs-etm: Move traceid_list to each queue")
+b6aa0de9a53a ("perf cs-etm: Create decoders after both AUX and HW_ID search passes")
+cbaf2c4f932e ("perf cs-etm: Use struct perf_cpu as much as possible")
+e28ee1239daa ("perf arm-spe/cs-etm: Directly iterate CPU maps")
+effe957c6bb7 ("libperf cpumap: Replace usage of perf_cpu_map__new(NULL) with perf_cpu_map__new_online_cpus()")
+923ca62a7b1e ("libperf cpumap: Rename perf_cpu_map__empty() to perf_cpu_map__has_any_cpu_or_is_empty()")

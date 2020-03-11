@@ -1,0 +1,7 @@
+ec5263f422a3 ("mtip32xx: remove the device_status debugfs file")
+9e541f142dab ("mtip32xx: remove pointless drvdata lookups")
+d2efa81dd8ba ("mtip32xx: simplify sysfs setup")
+ce9a8ca68aec ("mtip32xx: remove unnecessary oom message")
+80755855f808 ("mtip32xx: use LIST_HEAD() for list_head")
+acf8aec3501c ("mtip32xx: use DEFINE_SPINLOCK() for spinlock")
+a6419fd810c6 ("mtip32xx: remove the call to fsync_bdev on removal")

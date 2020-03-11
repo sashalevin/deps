@@ -1,0 +1,8 @@
+416bdb89605d ("counter: linux/counter.h: fix Excess kernel-doc description warning")
+aaec1a0f76ec ("counter: Internalize sysfs interface code")
+ea434ff82649 ("counter: stm32-timer-cnt: Provide defines for slave mode selection")
+05593a3fd103 ("counter: stm32-lptimer-cnt: Provide defines for clock polarities")
+394a0150a064 ("counter: Rename counter_count_function to counter_function")
+493b938a14ed ("counter: Rename counter_signal_value to counter_signal_level")
+b11eed1554e8 ("counter: Return error code on invalid modes")
+728246e8f726 ("counter: 104-quad-8: Return error when invalid mode during ceiling_write")

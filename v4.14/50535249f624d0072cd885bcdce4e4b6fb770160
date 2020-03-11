@@ -1,0 +1,5 @@
+50535249f624 ("net: qrtr: fix a kernel-infoleak in qrtr_recvmsg()")
+cb6530b99faf ("net: qrtr: Move resume-tx transmission to recvmsg")
+f507a9b6e63b ("net: qrtr: Use sk_buff->cb in receive path")
+1a7959c76641 ("net: qrtr: Clean up control packet handling")
+e7044482c8ac ("net: qrtr: Pass source and destination to enqueue functions")

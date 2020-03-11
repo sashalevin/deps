@@ -1,0 +1,7 @@
+2842b87148af ("ASoC: ti: use asoc_rtd_to_cpu() / asoc_rtd_to_codec() macro for DAI pointer")
+9c34d023dc35 ("ASoC: omap-mcbsp: Re-arrange files for core McBSP and Sidetone function split")
+be51c576e849 ("ASoC: omap-mcbsp: Move out the FIFO check from set_threshold and get_delay")
+59d177f65f50 ("ASoC: omap-mcbsp: Simplify the mcbsp_start/_stop function parameters")
+d63a7625a6df ("ASoC: omap-mcbsp: Clean up the interrupt handlers")
+c9ece9c29e26 ("ASoC: omap-mcbsp: Skip dma_data.maxburst initialization")
+dd443a7c0b00 ("ASoC: omap-mcbsp: Clean up dma_data addr initialization code")

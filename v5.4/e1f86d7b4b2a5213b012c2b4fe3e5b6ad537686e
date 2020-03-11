@@ -1,0 +1,5 @@
+e1f86d7b4b2a ("kbuild: warn if FORCE is missing for if_changed(_dep,_rule) and filechk")
+6796e80409b9 ("kbuild: macrofy the condition of if_changed and friends")
+88fe89a47153 ("kbuild: remove *.tmp file when filechk fails")
+eba19032f99c ("kbuild: rename any-prereq to newer-prereqs")
+2d3b1b8f0da7 ("kbuild: drop $(wildcard $^) check in if_changed* for faster rebuild")

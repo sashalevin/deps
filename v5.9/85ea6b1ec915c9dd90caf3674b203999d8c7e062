@@ -1,0 +1,7 @@
+85ea6b1ec915 ("KVM: arm64: Inject exception on out-of-IPA-range translation fault")
+dcfba399325f ("KVM: arm64: Consolidate exception injection")
+41613b519ce7 ("KVM: arm64: Inject AArch32 exceptions from HYP")
+bb666c472ca2 ("KVM: arm64: Inject AArch64 exceptions from HYP")
+e650b64f1a56 ("KVM: arm64: Add basic hooks for injecting exceptions from EL2")
+cdb5e02ed133 ("KVM: arm64: Make kvm_skip_instr() and co private to HYP")
+6ddbc281e2aa ("KVM: arm64: Move kvm_vcpu_trap_il_is32bit into kvm_skip_instr32()")

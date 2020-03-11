@@ -1,0 +1,8 @@
+55c2b8b9a383 ("mmc: core: Re-work the code for eMMC sanitize")
+40c96853fef1 ("mmc: core: Enable re-use of mmc_blk_in_tran_state()")
+24ed3bd01d6a ("mmc: core: Specify timeouts for BKOPS and CACHE_FLUSH for eMMC")
+a0d4c7eb71dd ("mmc: block: Add CMD13 polling for MMC IOCTLS with R1B response")
+3869468e0c48 ("mmc: block: Make card_busy_detect() a bit more generic")
+8ad8e02c2fa7 ("Revert "mmc: core: do not retry CMD6 in __mmc_switch()"")
+3a0681c7448b ("mmc: core: do not retry CMD6 in __mmc_switch()")
+0c204979c691 ("mmc: core: Cleanup BKOPS support")

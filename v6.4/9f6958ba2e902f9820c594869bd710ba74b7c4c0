@@ -1,0 +1,4 @@
+9f6958ba2e90 ("netfilter: nf_tables: unconditionally flush pending work before notifier")
+2c9f0293280e ("netfilter: nf_tables: flush pending destroy work before netlink notifier")
+6a33d8b73dfa ("netfilter: nf_tables: fix GC transaction races with netns and netlink event exit path")
+5f68718b34a5 ("netfilter: nf_tables: GC transaction API to avoid race with control plane")

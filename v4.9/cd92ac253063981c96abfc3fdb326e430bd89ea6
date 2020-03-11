@@ -1,0 +1,8 @@
+cd92ac253063 ("s390/purgatory: Make sure we fail the build if purgatory has missing symbols")
+dbe1c16be381 ("s390/purgatory: update .gitignore")
+4c0f032d4963 ("s390/purgatory: Omit use of bin2c")
+61f3f8fc2235 ("s390/purgatory: Reduce purgatory size")
+c417fbce9872 ("kbuild: move bin2c back to scripts/ from scripts/basic/")
+de66b2429100 ("s390/kexec_file: add generated files to .gitignore")
+840798a1f529 ("s390/kexec_file: Add purgatory")
+0d97631392c2 ("powerpc: Add purgatory for kexec_file_load() implementation.")

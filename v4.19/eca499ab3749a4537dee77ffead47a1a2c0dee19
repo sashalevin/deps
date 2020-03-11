@@ -1,1 +1,7 @@
 eca499ab3749 ("mm/hotplug: make remove_memory() interface usable")
+d9eb1417c77d ("mm/memory_hotplug: release memory resource after arch_remove_memory()")
+2c2a5af6fed2 ("mm, memory_hotplug: add nid parameter to arch_remove_memory")
+69324b8f4833 ("mm, devm_memremap_pages: add MEMORY_DEVICE_PRIVATE support")
+d15e59260f62 ("mm/memory_hotplug: make remove_memory() take the device_hotplug_lock")
+063b8b1251fd ("powerpc/pseries/memory-hotplug: Only update DT once per memory DLPAR request")
+3f7daf3d7582 ("powerpc/memtrace: Remove memory in chunks")

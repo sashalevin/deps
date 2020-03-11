@@ -1,0 +1,6 @@
+ecf11ba4d066 ("objtool: Assume only ELF functions do sibling calls")
+31a7424bc580 ("objtool: Support retpoline jump detection for vmlinux.o")
+1f9a1b749424 ("objtool: Fix retpoline detection in asm code")
+45245f51f9a4 ("objtool: Make relocation in alternative handling arch dependent")
+eda3dc905834 ("objtool: Abstract alternative special case handling")
+f19742226340 ("objtool: Rename rela to reloc")

@@ -1,0 +1,7 @@
+8bc32b348178 ("kcsan: test: Add test cases for memory barrier instrumentation")
+d8fd74d35a8d ("kcsan: permissive: Ignore data-racy 1-bit value changes")
+49f72d5358dd ("kcsan: Rework atomic.h into permissive.h")
+08cac6049412 ("kcsan: Reduce get_ctx() uses in kcsan_found_watchpoint()")
+e675d2533a74 ("kcsan: Introduce CONFIG_KCSAN_STRICT")
+6f2d98192c3f ("kcsan: Simplify value change detection")
+bd0ccc4afca2 ("kcsan: Add missing license and copyright headers")

@@ -1,0 +1,5 @@
+4811d9929cda ("ext4: allow the dax flag to be set and cleared on inline directories")
+b383a73f2b83 ("fs/ext4: Introduce DAX inode flag")
+a8ab6d3885ef ("fs/ext4: Update ext4_should_use_dax()")
+fc626fe322f1 ("fs/ext4: Change EXT4_MOUNT_DAX to EXT4_MOUNT_DAX_ALWAYS")
+6c0d077ff820 ("fs/ext4: Disallow verity if inode is DAX")

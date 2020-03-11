@@ -1,0 +1,5 @@
+77b744a598d6 ("Drivers: hv: utils: fix hvt_op_poll() return value on transport destroy")
+a15025660d47 ("Drivers: hv: utils: introduce HVUTIL_TRANSPORT_DESTROY mode")
+a72f3a4ccff2 ("Drivers: hv: utils: rename outmsg_lock")
+1f75338b6fec ("Drivers: hv: utils: fix memory leak on on_msg() failure")
+b00359642c24 ("Drivers: hv: utils: use memdup_user in hvt_op_write")

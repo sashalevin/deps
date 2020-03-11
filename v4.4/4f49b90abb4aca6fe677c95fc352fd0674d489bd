@@ -1,0 +1,7 @@
+4f49b90abb4a ("sched-clock: Migrate to use new tick dependency mask model")
+b78783000d5c ("posix-cpu-timers: Migrate to use new tick dependency mask model")
+76d92ac305f2 ("sched: Migrate sched to use new tick dependency mask model")
+555e0c1ef7ff ("perf: Migrate perf to use new tick dependency mask model")
+e6e6cc22e067 ("nohz: Use enum code for tick stop failure tracing message")
+d027d45d8a17 ("nohz: New tick dependency mask")
+01783e0d4527 ("sched/core: Use list_is_singular() in sched_can_stop_tick()")

@@ -1,0 +1,4 @@
+22d4536d2c83 ("netfilter: conntrack: handle initial extension alloc via krealloc")
+54044b1f0204 ("netfilter: conntrack: remove prealloc support")
+faec865db9a7 ("netfilter: remove last traces of variable-sized extensions")
+9c3f3794926a ("netfilter: nf_ct_ext: fix possible panic after nf_ct_extend_unregister")

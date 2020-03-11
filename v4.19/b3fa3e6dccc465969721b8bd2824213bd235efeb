@@ -1,0 +1,7 @@
+b3fa3e6dccc4 ("mmc: block: Add single read for 4k sector cards")
+54309fde1a35 ("mmc: block: fix read single on recovery logic")
+40c96853fef1 ("mmc: core: Enable re-use of mmc_blk_in_tran_state()")
+511ce378e16f ("mmc: Add MMC host software queue support")
+a0d4c7eb71dd ("mmc: block: Add CMD13 polling for MMC IOCTLS with R1B response")
+3869468e0c48 ("mmc: block: Make card_busy_detect() a bit more generic")
+b061b326287d ("mmc: simplify queue initialization")

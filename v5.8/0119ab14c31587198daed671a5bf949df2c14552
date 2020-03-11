@@ -1,0 +1,8 @@
+0119ab14c315 ("dm: remove unused mapped_device argument from free_tio")
+0ab30b4079e1 ("dm: eliminate copying of dm_io fields in dm_io_dec_pending")
+8d394bc4adf5 ("dm: fix double accounting of flush with data")
+9f6dc6337610 ("dm: interlock pending dm_io and dm_wait_for_bios_completion")
+b879f915bc48 ("dm: properly fix redundant bio-based IO accounting")
+d208b89401e0 ("dm: fix mempool NULL pointer race when completing IO")
+74a2b6ec9380 ("dm: cleanup cleanup_mapped_device")
+2cfa582be800 ("Merge tag 'for-5.14/dm-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

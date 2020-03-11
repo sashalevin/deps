@@ -1,0 +1,6 @@
+4a52ffc7ca6f ("dm crypt: wipe private IV struct after key invalid flag is set")
+c82feeec9a01 ("dm crypt: rewrite (wipe) key in crypto layer using random data")
+c538f6ec9f56 ("dm crypt: add ability to use keys from the kernel key retention service")
+671ea6b4574e ("dm crypt: rename crypt_setkey_allcpus to crypt_setkey")
+265e9098bac0 ("dm crypt: mark key as invalid until properly loaded")
+bbdb23b5d695 ("dm crypt: Use skcipher and ahash")

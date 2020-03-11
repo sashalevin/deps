@@ -1,0 +1,5 @@
+046545a661af ("mm/hwpoison: fix error page recovered but reported "not recovered"")
+a3f5d80ea401 ("mm,hwpoison: send SIGBUS with error virutal address")
+47af12bae17f ("mm,hwpoison: return -EHWPOISON to denote that the page has already been poisoned")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")
+a8b2c2ce89d4 ("mm,hwpoison: take free pages off the buddy freelists")

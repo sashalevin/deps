@@ -1,0 +1,4 @@
+56378f3ccb83 ("net: dsa: make user ports return to init_net on netns deletion")
+95f510d0b792 ("net: dsa: allow the DSA master to be seen and changed through rtnetlink")
+5dc760d12082 ("net: dsa: use dsa_tree_for_each_cpu_port in dsa_tree_{setup,teardown}_master")
+72c3b0c7359a ("net: dsa: felix: manage host flooding using a specific driver callback")

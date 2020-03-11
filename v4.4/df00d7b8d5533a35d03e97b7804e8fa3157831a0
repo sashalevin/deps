@@ -1,0 +1,5 @@
+df00d7b8d553 ("scsi: zfcp: use common code fcp_cmnd and fcp_resp with union in fsf_qtcb_bottom_io")
+12c3e5754c80 ("scsi: zfcp: fix payload with full FCP_RSP IU in SCSI trace records")
+56d23ed7adf3 ("scsi: zfcp: do not trace pure benign residual HBA responses at default level")
+771bf03537dd ("zfcp: fix D_ID field with actual value on tracing SAN responses")
+4eeaa4f3f1d6 ("zfcp: close window with unblocked rport during rport gone")

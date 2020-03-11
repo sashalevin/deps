@@ -1,0 +1,4 @@
+fa07634d9c67 ("dma-fence: Make symbol 'dma_fence_lockdep_map' static")
+5fbff813a4a3 ("dma-fence: basic lockdep annotations")
+ef8255506f66 ("dma-fence: add might_sleep annotation to _wait()")
+0fc89b6802ba ("dma-fence: Simply wrap dma_fence_signal_locked with dma_fence_signal")

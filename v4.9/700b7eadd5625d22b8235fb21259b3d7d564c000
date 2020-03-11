@@ -1,0 +1,4 @@
+700b7eadd562 ("powerpc/64s: Power9 has no LPCR[VRMASD] field so don't set it")
+8d1b48ef5800 ("powerpc/64s: Revert setting of LPCR[LPES] on POWER9")
+08a1e650cc63 ("powerpc: Fixup LPCR:PECE and HEIC setting on POWER9")
+fda2d27db6ea ("powerpc/mm/hash: Always clear UPRT and Host Radix bits when setting up CPU")

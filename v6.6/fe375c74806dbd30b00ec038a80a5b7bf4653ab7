@@ -1,0 +1,5 @@
+fe375c74806d ("drm/sched: Rename priority MIN to LOW")
+2bbe6ab2be53 ("drm/sched: Fix bounds limiting when given a malformed entity")
+a6149f039369 ("drm/sched: Convert drm scheduler to use a work queue rather than kthread")
+35963cf2cd25 ("drm/sched: Add drm_sched_wqueue_* helpers")
+56e449603f0a ("drm/sched: Convert the GPU scheduler to variable number of run-queues")

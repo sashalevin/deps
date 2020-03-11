@@ -1,0 +1,7 @@
+ae967246d099 ("vhost-vdpa: passing iotlb to IOMMU mapping helpers")
+d8945ec41120 ("vdpa: Support transferring virtual addressing during DMA mapping")
+22af48cf91aa ("vdpa: factor out vhost_vdpa_pa_map() and vhost_vdpa_pa_unmap()")
+c10fb9454adc ("vdpa: Add an opaque pointer for vdpa_config_ops.dma_map()")
+729ce5a5bd6f ("vdpa: Make use of PFN_PHYS/PFN_UP/PFN_DOWN helper macro")
+6b5df347c648 ("vDPA/ifcvf: implement management netlink framework for ifcvf")
+30326f957734 ("vDPA/ifcvf: introduce get_dev_type() which returns virtio dev id")

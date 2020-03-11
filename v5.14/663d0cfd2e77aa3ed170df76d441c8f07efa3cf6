@@ -1,0 +1,7 @@
+663d0cfd2e77 ("mm/page_alloc.c: delete a redundant parameter of rmqueue_pcplist")
+4b23a68f9536 ("mm/page_alloc: protect PCP lists with a spinlock")
+c572e4888ad1 ("mm/page_alloc: always attempt to allocate at least one page during bulk allocation")
+fd56eef258a1 ("mm/page_alloc: simplify how many pages are selected per pcp list during bulk free")
+35b6d770e633 ("mm/page_alloc: track range of active PCP lists during bulk free")
+566513775dca ("mm/page_alloc: don't pass pfn to free_unref_page_commit()")
+053cfda10230 ("mm/page_alloc.c: avoid accessing uninitialized pcp page migratetype")

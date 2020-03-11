@@ -1,0 +1,6 @@
+e0d103542b06 ("net/smc: introduce statistics for ringbufs usage of net namespace")
+a950a5921db4 ("net/smc: Fix pos miscalculation in statistics")
+475f9ff63ee8 ("net/smc: fix application data exception")
+b8d199451c99 ("net/smc: Allow virtually contiguous sndbufs or RMBs for SMC-R")
+0ef69e788411 ("net/smc: optimize for smc_sndbuf_sync_sg_for_device and smc_rmb_sync_sg_for_cpu")
+793a7df63071 ("net/smc: rdma write inline if qp has sufficient inline space")

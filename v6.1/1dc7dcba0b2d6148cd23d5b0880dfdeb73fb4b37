@@ -1,0 +1,5 @@
+1dc7dcba0b2d ("pwm: lpc18xx-sct: Make use of devm_pwmchip_alloc() function")
+6a79dc8342d4 ("pwm: lpc18xx-sct: Prepare removing pwm_chip from driver data")
+8d1cdd2f2d0d ("pwm: lpc18xx-sct: Drop hardly used member from driver private data")
+4aed0ccd6868 ("pwm: lpc18xx-sct: Simplify using devm_clk_get_enabled()")
+fbd2d733e3b7 ("pwm: lpc18xx-sct: Convert to platform remove callback returning void")

@@ -1,0 +1,5 @@
+b724e846b491 ("fs: add do_symlinkat() helper and ksys_symlink() wrapper; remove in-kernel calls to syscall")
+312db1aa1dc7 ("fs: add ksys_mount() helper; remove in-kernel calls to sys_mount()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")
+da2f1362c8bd ("fs: expose do_unlinkat for built-in callers")
+c1d4dd27678f ("namei.c: get rid of user_path_parent()")

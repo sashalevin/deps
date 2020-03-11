@@ -1,0 +1,5 @@
+e5ed0fb01004 ("KVM: x86/mmu: split cpu_role from mmu_role")
+b89805082adf ("KVM: x86/mmu: remove "bool base_only" arguments")
+39e7e2bf321a ("KVM: x86/mmu: pull computation of kvm_mmu_role_regs to kvm_init_mmu")
+82ffa13f7933 ("KVM: x86/mmu: constify uses of struct kvm_mmu_role_regs")
+d2e5f3334169 ("KVM: x86/mmu: Always use current mmu's role when loading new PGD")

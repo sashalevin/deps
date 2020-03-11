@@ -1,0 +1,5 @@
+817cb16e14de ("drm/i915/mst: Clear ACT just before triggering payload allocation")
+e01163e82b70 ("drm/i915/dg2: configure TRANS_DP2_VFREQ{HIGH,LOW} for 128b/132b")
+3c73553f56cd ("drm/i915: Program chicken bit during DP MST sequence on TGL+")
+ef79fafe9dae ("drm/i915: Eliminate intel_dp.regs.dp_tp_{ctl,status}")
+a5bcf8dde631 ("drm/i915/ddi: Don't rewrite DDI_BUF_CTL reg during DP link training")

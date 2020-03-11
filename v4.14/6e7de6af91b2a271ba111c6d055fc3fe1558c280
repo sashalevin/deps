@@ -1,0 +1,7 @@
+6e7de6af91b2 ("crypto: arm64/aes-blk - revert NEON yield for skciphers")
+ed6ed11830a9 ("crypto: arm64/aes-modes - get rid of literal load of addend vector")
+0c8f838a52fe ("crypto: arm64/aes-blk - yield NEON after every block of input")
+870c163a0ee6 ("crypto: arm64/aes-blk - add 4 way interleave to CBC-MAC encrypt path")
+a8f8a69e82b6 ("crypto: arm64/aes-blk - add 4 way interleave to CBC encrypt path")
+55868b45cffd ("crypto: arm64/aes-blk - remove configurable interleave")
+683381747270 ("crypto: arm64/aes-blk - move kernel mode neon en/disable into loop")

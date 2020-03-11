@@ -1,0 +1,5 @@
+8f0f4788b124 ("mm: remove page_cpupid_xchg_last()")
+f393084382fa ("mm: remove xchg_page_access_time()")
+33024536bafd ("memory tiering: hot page selection with hint page fault latency")
+a1a3a2fc304d ("memory tiering: skip to scan fast memory")
+abe8b2ae64a3 ("mm/mmzone.c: use try_cmpxchg() in page_cpupid_xchg_last()")

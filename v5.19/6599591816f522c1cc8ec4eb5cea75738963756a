@@ -1,0 +1,3 @@
+6599591816f5 ("memcg: convert mem_cgroup_swapin_charge_page() to mem_cgroup_swapin_charge_folio()")
+63ad4add3823 ("mm: convert do_swap_page() to use a folio")
+a0d3374b0707 ("mm/swap: convert __read_swap_cache_async() to use a folio")

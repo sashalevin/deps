@@ -1,0 +1,5 @@
+ed1596f9ab95 ("kasan: free allocated shadow memory on MEM_CANCEL_ONLINE")
+0f901dcbc31f ("mm/kasan: don't vfree() nonexistent vm_area")
+fa69b5989bb0 ("mm/kasan: add support for memory hotplug")
+91a4c2721456 ("kasan: change memory hot-add error messages to info messages")
+7eb50292d7f7 ("mm/Kconfig: remove redundant arch depend for memory hotplug")

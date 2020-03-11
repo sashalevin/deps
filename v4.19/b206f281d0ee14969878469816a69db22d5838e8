@@ -1,1 +1,8 @@
 b206f281d0ee ("keys: Namespace keyring names")
+45e0f30c30bb ("keys: Add capability-checking keyctl function")
+ed0ac5c7ec37 ("keys: Add a keyctl to move a key between keyrings")
+df593ee23e05 ("keys: Hoist locking out of __key_link_begin()")
+3be59f74512e ("keys: Change keyring_serialise_link_sem to a mutex")
+76ef5e172527 ("keys: Export lookup_user_key to external users")
+00d60fd3b932 ("KEYS: Provide keyctls to drive the new key type ops for asymmetric keys [ver #2]")
+70025f84e5b7 ("KEYS: Provide key type operations for asymmetric key ops [ver #2]")

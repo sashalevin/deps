@@ -1,0 +1,8 @@
+61a11986d33d ("ata: move ata_qc_complete_multiple() to libata-sata.c")
+7fe183c773c4 ("ata: start separating SATA specific code from libata-core.c")
+a52fbcfc7b38 ("ata: move EXPORT_SYMBOL_GPL()s close to exported code")
+10a663a1b151 ("ata: ahci: Add shutdown to freeze hardware resources of ahci")
+8385d756e114 ("libata: Fix retrieving of active qcs")
+95364f36701e ("ata: make qc_prep return ata_completion_errors")
+c82ee6d3beaa ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 18")
+211b100a5ced ("Merge tag 'for-linus-20180920' of git://git.kernel.dk/linux-block")

@@ -1,0 +1,5 @@
+25733c4e67df ("ath10k: pci: use mutex for diagnostic window CE polling")
+0738b4998c6d ("ath10k: allocate small size dma memory in ath10k_pci_diag_write_mem")
+d56bbeea25d1 ("ath10k: optimize pci diag mem read & write operations")
+2a1e1ad3fd37 ("ath10k: Add support for 64 bit ce descriptor")
+5dac5f3772f6 ("ath10k: Use dma_addr_t for ce buffers to support 64bit target")

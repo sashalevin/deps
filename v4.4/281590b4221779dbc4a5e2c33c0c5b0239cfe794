@@ -1,0 +1,5 @@
+281590b42217 ("KEYS: DH: don't feed uninitialized "otherinfo" into KDF")
+f1c316a3ab9d ("KEYS: add SP800-56A KDF support for DH")
+ddb99e118e37 ("security, keys: convert key_user.usage from atomic_t to refcount_t")
+4693fc734d67 ("KEYS: Add placeholder for KDF usage with DH")
+ddbb41148724 ("KEYS: Add KEYCTL_DH_COMPUTE command")

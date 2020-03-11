@@ -1,0 +1,5 @@
+64daa5d818ae ("vmscan: convert lazy freeing to folios")
+be7c07d60e13 ("mm/vmscan: Convert __remove_mapping() to take a folio")
+3ecb0087ecee ("mm/memcg: Convert mem_cgroup_swapout() to take a folio")
+8927f6473e56 ("mm/workingset: Convert workingset_eviction() to take a folio")
+59a2ceeef6d6 ("Merge branch 'akpm' (patches from Andrew)")

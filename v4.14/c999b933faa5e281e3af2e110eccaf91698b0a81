@@ -1,0 +1,7 @@
+c999b933faa5 ("signal: Reduce copy_siginfo_to_user to just copy_to_user")
+71ee78d538a7 ("signal/blackfin: Move the blackfin specific si_codes to asm-generic/siginfo.h")
+753e5a8543da ("signal/tile: Move the tile specific si_codes to asm-generic/siginfo.h")
+ac54058d778b ("signal/ia64: Move the ia64 specific si_codes to asm-generic/siginfo.h")
+0326e7ef057d ("signal: Remove unnecessary ifdefs now that there is only one struct siginfo")
+30073566ca64 ("signal/ia64: switch the last arch-specific copy_siginfo_to_user() to generic version")
+2eb50e2e9f62 ("ia64/signal: switch to generic struct siginfo")

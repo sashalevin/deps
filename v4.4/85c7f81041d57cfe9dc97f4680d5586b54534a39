@@ -1,0 +1,5 @@
+85c7f81041d5 ("beginning of transition to parallel lookups - marking in-lookup dentries")
+0568d705b008 ("__d_add(): don't drop/regain ->d_lock")
+1936386ea965 ("lookup_slow(): bugger off on IS_DEADDIR() from the very beginning")
+b96809173e94 ("security_d_instantiate(): move to the point prior to attaching dentry to inode")
+d407574e7948 ("Merge tag 'for-f2fs-4.6' of git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs")

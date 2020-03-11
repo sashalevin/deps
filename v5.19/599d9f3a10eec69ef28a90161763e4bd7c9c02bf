@@ -1,0 +1,6 @@
+599d9f3a10ee ("nvme: use helper nvme_ctrl_state in nvme_keep_alive_finish function")
+d06923670b5a ("nvme: make keep-alive synchronous operation")
+c7275ce6a5fd ("nvme: improve handling of long keep alives")
+d7ac8dca938c ("nvme: quiet user passthrough command errors")
+de671d6116b5 ("block: change request end_io handler to pass back a return value")
+585079b6e425 ("nvme: wire up async polling for io passthrough commands")

@@ -1,0 +1,6 @@
+054698316d87 ("KVM: arm64: nVHE: Migrate hyp interface to SMCCC")
+4e3393a969a0 ("KVM: arm64: nVHE: Switch to hyp context for EL2")
+6e3bfbb22c51 ("KVM: arm64: nVHE: Use separate vector for the host")
+a0e479523e3f ("KVM: arm64: Save chosen hyp vector to a percpu variable")
+d7ca1079d8ea ("KVM: arm64: Remove kvm_host_data_t typedef")
+6a0259ed29bb ("KVM: arm64: Remove hyp_panic arguments")

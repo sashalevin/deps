@@ -1,0 +1,5 @@
+e3736c3eb3a6 ("kvm: convert kvm.users_count from atomic_t to refcount_t")
+536a6f88c49d ("KVM: Create debugfs dir and stat files for each VM")
+e9ad4ec8379a ("KVM: fix spin_lock_init order on x86")
+8577370fb0cb ("KVM: Use simple waitqueue for vcpu->wq")
+4bd33b568855 ("KVM: Remove unnecessary debugfs dentry references")

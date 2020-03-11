@@ -1,0 +1,8 @@
+6c19f3bfff03 ("crypto: lib/sha256 - Use generic code from sha256_base")
+70d391a86317 ("crypto: lib/sha256 - Remove redundant and unused sha224_update")
+a24d22b225ce ("crypto: sha - split sha.h into sha1.h and sha2.h")
+b8399819b2dd ("crypto: lib/sha256 - Clear W[] in sha256_update() instead of sha256_transform()")
+7a4295f6c9d5 ("crypto: lib/sha256 - Don't clear temporary variables")
+458c0480dcb3 ("crypto: hash - Use memzero_explicit() for clearing state")
+1762818f25f3 ("crypto: lib/sha256 - Use memzero_explicit() for clearing state")
+ad0bb4e4d226 ("crypto: sa2ul - Reduce stack usage")

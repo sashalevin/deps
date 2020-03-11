@@ -1,0 +1,6 @@
+ca545b7f0823 ("smb: client: fix potential UAF in cifs_debug_files_proc_show()")
+f4e5ceb6c1a6 ("smb: client: reduce stack usage in smb2_set_ea()")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+f7f291e14dde ("cifs: fix oops during encryption")

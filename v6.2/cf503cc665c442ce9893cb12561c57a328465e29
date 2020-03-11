@@ -1,0 +1,5 @@
+cf503cc665c4 ("mm: memory: use folio_prealloc() in wp_page_copy()")
+164b06f238b9 ("mm: call wp_page_copy() under the VMA lock")
+4d4f75bf3293 ("mm: memory: use folio_throttle_swaprate() in wp_page_copy()")
+28d41a486331 ("mm: convert wp_page_copy() to use folios")
+6bc56a4d8553 ("mm: add vma_alloc_zeroed_movable_folio()")

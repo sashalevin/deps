@@ -1,0 +1,8 @@
+3cfde36df7ab ("KVM: arm64: nv: Truely enable nXS TLBI operations")
+f4f6a95bac49 ("KVM: arm64: nv: Advertise support for PAuth")
+9f75b6d447d7 ("KVM: arm64: nv: Filter out unsupported features from ID regs")
+47f3a2fc765a ("KVM: arm64: nv: Support virtual EL2 exceptions")
+89b0e7de3451 ("KVM: arm64: nv: Introduce nested virtualization VCPU feature")
+b6bcdc9f6b83 ("KVM: arm64: Fix bad dereference on MTE-enabled systems")
+cdd5036d048c ("KVM: arm64: Drop raz parameter from read_id_reg()")
+4782ccc8ef50 ("KVM: arm64: Remove internal accessor helpers for id regs")

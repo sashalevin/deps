@@ -1,0 +1,6 @@
+0c9cdff054ae ("exec: Factor bprm_execve out of do_execve_common")
+f18ac551e503 ("exec: Move bprm_mm_init into alloc_bprm")
+60d9ad1d1d7f ("exec: Move initialization of bprm->filename into alloc_bprm")
+0a8f36eb48f6 ("exec: Factor out alloc_bprm")
+25cf336de51b ("exec: Remove do_execve_file")
+886d7de631da ("Merge branch 'akpm' (patches from Andrew)")

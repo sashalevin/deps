@@ -1,0 +1,6 @@
+c73049389e58 ("powerpc/vdso: Fix VDSO data access when running in a non-root time namespace")
+fd1feade75fb ("powerpc/vdso: Merge vdso64 and vdso32 into a single directory")
+d88378d8d2c7 ("powerpc/vdso: Rework VDSO32 makefile to add a prefix to object files")
+f061fb03ee61 ("powerpc/vdso: augment VDSO32 functions to support 64 bits build")
+964c33cd0be6 ("powerpc: clean vdso32 and vdso64 directories")
+a88603f4b92e ("powerpc/vdso: Don't use r30 to avoid breaking Go lang")

@@ -1,0 +1,4 @@
+f369b07c8614 ("mm/uffd: reset write protection when unregister with wp-mode")
+5a90d5a103c2 ("mm/hugetlb: handle UFFDIO_WRITEPROTECT")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+a759a909d42d ("userfaultfd: change mmap_changing to atomic")

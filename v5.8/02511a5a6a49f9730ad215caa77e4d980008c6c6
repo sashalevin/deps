@@ -1,0 +1,7 @@
+02511a5a6a49 ("xfs: clean up inode reclaim comments")
+4d0bab3a4468 ("xfs: remove SYNC_WAIT from xfs_reclaim_inodes()")
+50718b8d73dd ("xfs: remove SYNC_TRYLOCK from inode reclaim")
+0e8e2c6343dd ("xfs: allow multiple reclaimers per AG")
+617825fe3489 ("xfs: remove IO submission from xfs_reclaim_inode()")
+993f951f501c ("xfs: make inode reclaim almost non-blocking")
+96355d5a1f0e ("xfs: Don't allow logging of XFS_ISTALE inodes")

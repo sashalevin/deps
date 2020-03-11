@@ -1,0 +1,5 @@
+ba3a6120a4e7 ("KVM: x86/mmu: Use atomic XCHG to write TDP MMU SPTEs with volatile bits")
+626808d137b7 ("KVM: x86/mmu: Refactor low-level TDP MMU set SPTE helper to take raw values")
+966da62adaf1 ("KVM: x86/mmu: WARN if old _or_ new SPTE is REMOVED in non-atomic path")
+0e587aa73355 ("KVM: x86/mmu: Add helpers to read/write TDP MMU SPTEs and document RCU")
+574c3c55e969 ("KVM: x86/mmu: Fix TLB flush range when handling disconnected pt")

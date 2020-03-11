@@ -1,0 +1,7 @@
+53ebeea50599 ("media: imx-jpeg: Support to assign slot for encoder/decoder")
+cfed9632ca8e ("media: imx-jpeg: Add a timeout mechanism for each frame")
+2bcc3b48c8dd ("media: imx-jpeg: Remove unnecessary memset() after dma_alloc_coherent()")
+22a2bc88c139 ("media: imx-jpeg: Disable slot interrupt when frame done")
+4911c5acf935 ("media: imx-jpeg: Implement drain using v4l2-mem2mem helpers")
+6285cdea19da ("media: imx-jpeg: Leave a blank space before the configuration data")
+a23196c7a9cb ("media: imx-jpeg: Encoder support to set jpeg quality")

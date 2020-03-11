@@ -1,0 +1,8 @@
+6878e75204e1 ("ASoC: fsl_esai: introduce SoC specific data")
+35dac6274719 ("ASoC: fsl_esai: Add spin lock to protect reset, stop and start")
+9c2806c49416 ("ASoC: fsl_esai: Add compatible string for imx6ull")
+7ccafa2b3879 ("ASoC: fsl_esai: recover the channel swap after xrun")
+5be6155b50bb ("ASoC: fsl_esai: Wrap some operations to be functions")
+b2d337d8de9f ("ASoC: fsl_esai: Add pm runtime function")
+0ff4e8c61b79 ("ASoC: fsl_esai: fix channel swap issue when stream starts")
+a2a4d6049aa1 ("ASoC: fsl_esai: spba clock is needed by esai device")

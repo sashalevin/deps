@@ -1,0 +1,4 @@
+aa1b46dcdc7b ("block: fix rq-qos breakage from skipping rq_qos_done_bio()")
+90b8faa0e8de ("block: only mark bio as tracked if it really is tracked")
+3caee4634be6 ("block: use bdev_get_queue() in bio.c")
+a647a524a467 ("block: don't call rq_qos_ops->done_bio if the bio isn't tracked")

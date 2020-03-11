@@ -1,1 +1,4 @@
 444ac3844895 ("thunderbolt: Make tb_switch_alloc() return ERR_PTR()")
+a9be55824a10 ("thunderbolt: Move LC specific functionality into a separate file")
+f0342e757c27 ("thunderbolt: Do not allocate switch if depth is greater than 6")
+2cc12751cf46 ("thunderbolt: Fix to check for kmemdup failure")

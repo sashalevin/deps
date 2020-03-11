@@ -1,0 +1,5 @@
+693de831c6e5 ("gpio: omap: remove irq_ack method")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")
+442af1403a28 ("gpio: omap: Add get/set_multiple() callbacks")
+8193032821d6 ("gpio: omap: initialize gpioirq chip as part of gpiochip_add_data")

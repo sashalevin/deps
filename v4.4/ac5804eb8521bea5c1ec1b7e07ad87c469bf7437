@@ -1,0 +1,5 @@
+ac5804eb8521 ("btrfs: use min() to replace open-code in btrfs_invalidatepage()")
+dbfdb6d1b369 ("Btrfs: Search for all ordered extents that could span across a page")
+ff13db41f184 ("btrfs: drop unused parameter from lock_extent_bits")
+e83b1d91f872 ("btrfs: make clear_extent_bit helpers static inline")
+c63179556af1 ("btrfs: make set_extent_bit helpers static inline")

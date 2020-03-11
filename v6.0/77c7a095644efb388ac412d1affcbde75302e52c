@@ -1,0 +1,7 @@
+77c7a095644e ("mm/page_alloc: make check_new_page() return bool")
+700d2e9a36b9 ("mm, page_alloc: reduce page alloc/free sanity checks")
+2ede3c13be88 ("mm: reduce lock contention of pcp buffer refill")
+574907741599 ("mm/page_alloc: leave IRQs enabled for per-cpu page allocations")
+c3e58a70425a ("mm/page_alloc: always remove pages from temporary list")
+d452289fcd68 ("mm/page_alloc.c: document bulkfree_pcp_prepare() return value")
+a8368cd8e225 ("mm/page_alloc.c: rename check_free_page() to free_page_is_bad()")

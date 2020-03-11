@@ -1,0 +1,8 @@
+b0802b22a975 ("shmem: convert shmem_fallocate() to use a folio")
+d144bf620534 ("huge tmpfs: fix split_huge_page() after FALLOC_FL_KEEP_SIZE")
+050dcb5c85bb ("huge tmpfs: fix fallocate(vanilla) advance over huge pages")
+006d3ff27e88 ("mm/huge_memory: fix lockdep complaint on 32-bit i_size_read()")
+8667982014d6 ("mm, pagevec: remove cold parameter for pagevecs")
+d9ed0d08b6c6 ("mm: only drain per-cpu pagevecs once per pagevec usage")
+aa65c29ce1b6 ("mm: batch radix tree operations when truncating pages")
+312e9d2f7053 ("mm: use pagevec_lookup_range_tag() in __filemap_fdatawait_range()")

@@ -1,0 +1,6 @@
+fac58b4a5287 ("zorro: Drop useless (and hardly used) .driver member in struct zorro_dev")
+18d214cc1d83 ("zorro: Simplify remove callback")
+fc7a6209d571 ("bus: Make remove callback return void")
+15f83bb01912 ("s390/scm: Make struct scm_driver::remove return void")
+a7bdb9a97673 ("s390/cio: Make struct css_driver::remove return void")
+dde0a31863d6 ("PCI: endpoint: Make struct pci_epf_driver::remove return void")

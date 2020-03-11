@@ -1,0 +1,7 @@
+4a7aee96200a ("powerpc/kasan: Fix addr error caused by page alignment")
+f08aed52412c ("powerpc/mm/kasan: rename kasan_init_32.c to init_32.c")
+a2feeb2c2ecb ("powerpc/8xx: Implement dedicated kasan_init_region()")
+509cd3f2b473 ("powerpc/32: Simplify KASAN init")
+47febbeeec44 ("powerpc/32: Force KASAN_VMALLOC for modules")
+af1725d2493d ("powerpc/kconfig: Move CONFIG_PPC32 into Kconfig.cputype")
+3d4247fcc938 ("powerpc/32: Add support of KASAN_VMALLOC")

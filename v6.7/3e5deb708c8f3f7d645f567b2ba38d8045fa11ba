@@ -1,0 +1,3 @@
+3e5deb708c8f ("perf cpumap: Clean up use of perf_cpu_map__has_any_cpu_or_is_empty")
+effe957c6bb7 ("libperf cpumap: Replace usage of perf_cpu_map__new(NULL) with perf_cpu_map__new_online_cpus()")
+923ca62a7b1e ("libperf cpumap: Rename perf_cpu_map__empty() to perf_cpu_map__has_any_cpu_or_is_empty()")

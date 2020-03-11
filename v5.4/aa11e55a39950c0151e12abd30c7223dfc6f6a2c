@@ -1,0 +1,8 @@
+aa11e55a3995 ("perf test: Use perf_cpu_map__for_each_cpu()")
+ea089692733a ("perf evsel: Rename *perf_evsel__read*() to *evsel__read()")
+53fcfa6b8efe ("perf evsel: Ditch perf_evsel__cmp(), not used for quite a while")
+e345997914a8 ("perf tools: Add support for leader-sampling with AUX area events")
+3713eb371c87 ("perf evsel: Rearrange perf_evsel__config_leader_sampling()")
+5f34278867b7 ("perf evlist: Move leader-sampling configuration")
+4b49ab708d18 ("perf stat: Use affinity for reading")
+9bca1a4ef503 ("perf record: Add a function to test for kernel support for AUX area sampling")

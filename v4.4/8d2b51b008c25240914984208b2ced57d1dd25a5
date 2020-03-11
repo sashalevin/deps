@@ -1,0 +1,4 @@
+8d2b51b008c2 ("udp: mask TOS bits in udp_v4_early_demux()")
+bc044e8db796 ("udp: perform source validation for mcast early demux")
+d24406c85d12 ("udp: call dst_hold_safe() in udp_sk_rx_set_dst()")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")

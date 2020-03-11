@@ -1,0 +1,8 @@
+54a6e6bbf3be ("landlock: Add signal scoping")
+5b6b63cd64bb ("selftests/landlock: Test handling of unknown scope")
+21d52e295ad2 ("landlock: Add abstract UNIX socket scoping")
+395a02d04ed4 ("landlock: Use bit-fields for storing handled layer access masks")
+b25f7415eb41 ("landlock: Add IOCTL access right for character and block devices")
+63817febd1f3 ("landlock: Use f_cred in security_file_open() hook")
+e3e37fe022a4 ("landlock: Rename "ptrace" files to "task"")
+b4007fd27206 ("landlock: Add support for KUnit tests")

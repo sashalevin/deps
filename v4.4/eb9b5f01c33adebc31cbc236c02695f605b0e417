@@ -1,0 +1,4 @@
+eb9b5f01c33a ("ext4: bubble errors from ext4_find_inline_data_nolock() up to ext4_iget()")
+290ab230016f ("ext4: don't read out of bounds when checking for in-inode xattrs")
+199625098a18 ("ext4: correct endianness conversion in __xattr_check_inode()")
+9e92f48c34eb ("ext4: check if in-inode xattr is corrupted in ext4_expand_extra_isize_ea()")

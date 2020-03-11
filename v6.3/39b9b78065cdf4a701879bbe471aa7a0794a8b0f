@@ -1,0 +1,6 @@
+39b9b78065cd ("net: ibm: emac: get rid of wol_irq")
+c092d0be38f4 ("net: ibm: emac: remove all waiting code")
+969b002d7b65 ("net: ibm: emac: use devm for of_iomap")
+dcc34ef7c834 ("net: ibm: emac: manage emac_irq with devm")
+b9758c434284 ("net: ibm: emac: use devm for alloc_etherdev")
+ac35a3c4c8da ("net: ethernet: ibm: Convert to platform remove callback returning void")

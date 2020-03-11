@@ -1,0 +1,8 @@
+29f252cdc293 ("mm: introduce arch_do_swap_page_nr() which allows restore metadata for nr pages")
+1eba86c096e3 ("mm: change page type prior to adding page table entry")
+b756a3b5e7ea ("mm: device exclusive memory access")
+9a5cc85c4074 ("mm/memory.c: allow different return codes for copy_nonpresent_pte()")
+6b49bf6ddbb0 ("mm: rename migrate_pgmap_owner")
+af5cdaf82238 ("mm: remove special swap entry functions")
+8f34f1eac382 ("mm/userfaultfd: fix uffd-wp special cases for fork()")
+79c1c594f49a ("mm/hugetlb: change parameters of arch_make_huge_pte()")

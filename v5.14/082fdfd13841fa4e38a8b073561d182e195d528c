@@ -1,0 +1,6 @@
+082fdfd13841 ("KVM: arm64: Prevent guests from enabling HA/HD on Ampere1")
+ce4a36225753 ("KVM: arm64: Refactor HFGxTR configuration into separate helpers")
+e9adde432bf7 ("KVM: arm64: timers: Fast-track CNTPCT_EL0 trap handling")
+4151bb636acf ("KVM: arm64: Fix SMPRI_EL1/TPIDR2_EL0 trapping on VHE")
+8a049862c38f ("KVM: arm64: Fix early exit ptrauth handling")
+8fb2046180a0 ("KVM: arm64: Move early handlers to per-EC handlers")

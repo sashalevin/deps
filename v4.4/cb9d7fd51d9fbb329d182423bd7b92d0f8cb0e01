@@ -1,0 +1,6 @@
+cb9d7fd51d9f ("watchdog: Mark watchdog touch functions as notrace")
+f2e0cff85ed1 ("kernel/watchdog: introduce arch_touch_nmi_watchdog()")
+73ce0511c436 ("kernel/watchdog.c: move hardlockup detector to separate file")
+249e52e35580 ("kernel/watchdog.c: move shared definitions to nmi.h")
+4d1f0fb096ae ("kernel/watchdog: use nmi registers snapshot in hardlockup handler")
+0f8c7901039f ("Merge branch 'for-4.5' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/wq")

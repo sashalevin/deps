@@ -1,0 +1,8 @@
+7dd847dae1c4 ("scsi: mpt3sas: Force chain buffer allocations to be within same 4 GB region")
+d6adc251dd2f ("scsi: mpt3sas: Force PCIe scatterlist allocations to be within same 4 GB region")
+55d4ce458c77 ("scsi: mpt3sas: Use true, false for ioc->use_32bit_dma")
+8012209eb26b ("scsi: mpt3sas: Handle RDPQ DMA allocation in same 4G region")
+85896421df0c ("scsi: mpt3sas: Separate out RDPQ allocation to new function")
+ba27c5cf286d ("scsi: mpt3sas: Don't change the DMA coherent mask after allocations")
+ee560e7bbab0 ("scsi: mpt3sas: Fix double free in attach error handling")
+10fd71780f7d ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,3 @@
+8840e1c13cb4 ("mmc: tmio: remove tmio_mmc_k(un)map_atomic helpers")
+8e8d695fa567 ("mmc: tmio_mmc_core: Replace kmap_atomic() with kmap_local_page()")
+14c9825f968c ("mmc: tmio_mmc_core: Remove local_irq_{save,restore}() around k[un]map_atomic()")

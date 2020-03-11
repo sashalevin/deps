@@ -1,0 +1,6 @@
+db95e2185523 ("drm/amdgpu: Add debugfs file for VBIOS and version")
+4f0955fcc052 ("drm/amdgpu: export test ib debugfs interface")
+cf4270ec689d ("drm/amdgpu: print full bios version in dmesg.")
+7ca85295d8cc ("gpu: drm: amd/radeon: Convert printk(KERN_<LEVEL> to pr_<level>")
+30a171018750 ("drm/amd/amdgpu: Remove drm_debugfs_remove_files() call")
+58309befa82d ("drm/amdgpu: don't add files at control minor debugfs directory")

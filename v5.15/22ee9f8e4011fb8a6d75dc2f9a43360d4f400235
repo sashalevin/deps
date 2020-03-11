@@ -1,0 +1,8 @@
+22ee9f8e4011 ("net: dsa: sja1105: move ts_id from sja1105_tagger_data")
+bfcf14252220 ("net: dsa: sja1105: make dp->priv point directly to sja1105_tagger_data")
+6f6770ab1ce2 ("net: dsa: sja1105: remove hwts_tx_en from tagger data")
+d38049bbe760 ("net: dsa: sja1105: bring deferred xmit implementation in line with ocelot-8021q")
+1681ae1691ef ("net: dsa: sja1105: serialize access to the dynamic config interface")
+643979cf5ec4 ("net: dsa: sja1105: wait for dynamic config command completion on writes too")
+6d709cadfde6 ("net: dsa: move sja1110_process_meta_tstamp inside the tagging protocol driver")
+68a81bb2eebd ("net: dsa: sja1105: remove sp->dp")

@@ -1,0 +1,4 @@
+cb61de2f4819 ("KVM: nVMX: do not skip VMEnter instruction that succeeds")
+7671ce21b13b ("KVM: nVMX: move check_vmentry_postreqs() call to nested_vmx_enter_non_root_mode()")
+bd18bffca353 ("KVM: nVMX: restore host state in nested_vmx_vmexit for VMFail")
+5af4157388ad ("KVM: nVMX: Fix mmu context after VMLAUNCH/VMRESUME failure")

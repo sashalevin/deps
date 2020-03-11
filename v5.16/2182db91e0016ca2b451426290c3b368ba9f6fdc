@@ -1,0 +1,6 @@
+2182db91e001 ("nl80211: rework internal_flags usage")
+1b550a0bebfc ("nl80211: don't hold RTNL in color change request")
+8415816493b7 ("cfg80211: allow continuous radar monitoring on offchannel chain")
+91e89c77322d ("cfg80211: fix possible NULL pointer dereference in cfg80211_stop_offchan_radar_detection")
+1507b1531981 ("cfg80211: move offchan_cac_event to a dedicated work")
+bc2dfc02836b ("cfg80211: implement APIs for dedicated radar detection HW")

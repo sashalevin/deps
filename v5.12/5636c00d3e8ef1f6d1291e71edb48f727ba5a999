@@ -1,0 +1,8 @@
+5636c00d3e8e ("io_uring: flush completions for fallbacks")
+f56165e62fae ("io_uring: move io_fallback_req_func()")
+8c130827f417 ("io_uring: don't alter iopoll reissue fail ret code")
+7b29f92da377 ("io_uring: cache async and regular file state for fixed files")
+de9b4ccad750 ("io_uring: wrap io_kiocb reference count manipulation in helpers")
+179ae0d15e8b ("io_uring: simplify io_resubmit_prep()")
+8c3f9cd1603d ("io_uring: use better types for cflags")
+dafecf19e25f ("io_uring: further deduplicate file slot selection")

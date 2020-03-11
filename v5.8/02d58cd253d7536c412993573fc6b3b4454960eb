@@ -1,0 +1,4 @@
+02d58cd253d7 ("f2fs: compress: disallow disabling compress on non-empty compressed file")
+78134d03511e ("f2fs: change return value of f2fs_disable_compressed_file to bool")
+c2759ebaf7e8 ("f2fs: change i_compr_blocks of inode to atomic value")
+567c4bf54a85 ("f2fs: make file immutable even if releasing zero compression block")

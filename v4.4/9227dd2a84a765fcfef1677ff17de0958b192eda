@@ -1,0 +1,6 @@
+9227dd2a84a7 ("exec: Remove LSM_UNSAFE_PTRACE_CAP")
+20523132ec5d ("exec: Test the ptracer's saved cred to see if the tracee can gain caps")
+64b875f7ac8a ("ptrace: Capture the ptracer's creds not PT_PTRACE_CAP")
+809c02e091a8 ("Smack: Handle labels consistently in untrusted mounts")
+0c6181cb301f ("selinux: consolidate the ptrace parent lookup code")
+caaee6234d05 ("ptrace: use fsuid, fsgid, effective creds for fs access checks")

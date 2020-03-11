@@ -1,0 +1,4 @@
+93f955aad4ba ("tipc: fix nametbl_lock soft lockup at node/link events")
+5405ff6e15f4 ("tipc: convert node lock to rwlock")
+2312bf61ae36 ("tipc: introduce per-link spinlock")
+1d7e1c2595bd ("tipc: reduce code dependency between binding table and node layer")

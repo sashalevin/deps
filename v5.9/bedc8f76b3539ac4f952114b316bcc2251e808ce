@@ -1,0 +1,3 @@
+bedc8f76b353 ("cifs: always initialize struct msghdr smb_msg completely")
+17d3df38dc5f ("cifs: don't send down the destination address to sendmsg for a SOCK_STREAM")
+cf0604a686b1 ("cifs: use discard iterator to discard unneeded network data more efficiently")

@@ -1,0 +1,8 @@
+b41cabb7be3c ("gpio: Switch i2c drivers back to use .probe()")
+2148a7ac3b1a ("gpio: tpic2810: Use devm_gpiochip_add_data() to simplify remove path")
+03810031c91d ("gpio: fxl6408: add I2C GPIO expander driver")
+91a0192e90e9 ("gpio: pcf857x: Get rid of legacy platform data")
+17a5f49b49fd ("gpio: pcf857x: Fix indentation of variable declarations")
+4628cb0d8e06 ("gpio: pcf857x: Replace 'unsigned' with 'unsigned int'")
+7963ba02b2d1 ("gpio: pcf857x: Convert to i2c's .probe_new()")
+bf08ce132cd0 ("drivers/gpio: use simple i2c probe")

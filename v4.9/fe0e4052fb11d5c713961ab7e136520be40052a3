@@ -1,0 +1,4 @@
+fe0e4052fb11 ("mdio_bus: use devm_gpiod_get_optional()")
+d396e84c5604 ("mdio_bus: handle only single PHY reset GPIO")
+df0c8d911abf ("net: phy: Call bus->reset() after releasing PHYs from reset")
+69226896ad63 ("mdio_bus: Issue GPIO RESET to PHYs.")

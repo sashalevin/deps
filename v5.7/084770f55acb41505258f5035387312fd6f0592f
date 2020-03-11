@@ -1,0 +1,7 @@
+084770f55acb ("perf intel-pt: Fix missed put and leak")
+f0a0251cee80 ("perf intel-pt: Add support for synthesizing branch stacks for regular events")
+cf888e08a030 ("perf intel-pt: Change branch stack support to use thread-stacks")
+1ef998ff1823 ("perf intel-pt: Consolidate thread-stack use condition")
+86d67180b920 ("perf thread-stack: Add branch stack support")
+2855c05cf14a ("perf intel-pt: Add support for synthesizing callchains for regular events")
+4fef41bfb1d8 ("perf thread-stack: Add thread_stack__sample_late()")

@@ -1,0 +1,8 @@
+f5ef06d58be8 ("sched: Move schedstats sysctls to core.c")
+a60707d74bd1 ("sched: Move child_runs_first sysctls to fair.c")
+18765447c3b7 ("sched/sysctl: Move extern sysctl declarations to sched.h")
+0cd7c741f01d ("delayacct: Add sysctl to enable at runtime")
+e4042ad49235 ("delayacct: Default disabled")
+eee4d9fee254 ("delayacct: Add static_branch in scheduler hooks")
+c5895d3f06cb ("sched: Simplify sched_info_on()")
+4e29fb709885 ("sched: Rename sched_info_{queued,dequeued}")

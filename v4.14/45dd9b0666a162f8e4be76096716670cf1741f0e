@@ -1,0 +1,7 @@
+45dd9b0666a1 ("tracing/x86/xen: Remove zero data size trace events trace_xen_mmu_flush_tlb{_all}")
+1299ef1d8870 ("x86/mm: Rename flush_tlb_single() and flush_tlb_one() to __flush_tlb_one_[user|kernel]()")
+2ea907c4fe7b ("x86/mm: Allow flushing for future ASID switches")
+3f67af51e56f ("x86/mm: Add comments to clarify which TLB-flush functions are supposed to flush what")
+a501686b2923 ("x86/mm: Use __flush_tlb_one() for kernel memory")
+23cb7d46f371 ("x86/microcode: Dont abuse the TLB-flush interface")
+3e46e0f5ee36 ("x86/uv: Use the right TLB-flush API")

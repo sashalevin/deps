@@ -1,0 +1,5 @@
+381d2f95c8aa ("um: fix time-travel syscall scheduling hack")
+49f731f1972e ("x86/syscalls: Use __NR_syscalls instead of __NR_syscall_max")
+f63815eb1d90 ("x86/unistd: Define X32_NR_syscalls only for 64-bit kernel")
+e6da5df0eefc ("um: syscall.c: include <asm/unistd.h>")
+762a9f2f0144 ("Merge tag 'for-linus-5.7-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rw/uml")

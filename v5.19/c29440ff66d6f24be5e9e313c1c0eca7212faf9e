@@ -1,0 +1,6 @@
+c29440ff66d6 ("xfs: share more code in xfs_buffered_write_iomap_begin")
+288e1f693f04 ("xfs: restrict when we try to align cow fork delalloc to cowextsz hints")
+bb712842a85d ("xfs: match lock mode in xfs_buffered_write_iomap_begin()")
+304a68b9c63b ("xfs: use iomap_valid method to detect stale cached iomaps")
+1aa91d9c9933 ("xfs: Add async buffered write support")
+9641506b2dee ("xfs: Specify lockmode when calling xfs_ilock_for_iomap()")

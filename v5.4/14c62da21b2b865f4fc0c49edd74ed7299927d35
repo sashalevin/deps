@@ -1,0 +1,4 @@
+14c62da21b2b ("mm: swap: simplify struct percpu_cluster")
+7b9e2de13095 ("mm/swapfile.c: omit a duplicate code by compare tmp and max first")
+fdff1debb965 ("mm/swapfile.c: tmp is always smaller than max")
+0fd0e19e4d0e ("mm/swapfile.c: found_free could be represented by (tmp < max)")

@@ -1,0 +1,4 @@
+5fa6863ba692 ("spi: Check we have a spi_device_id for each DT compatible")
+9db34ee64ce4 ("spi: Use bus_type functions for probe, remove and shutdown")
+440408dbadfe ("spi: fix resource leak for drivers without .remove callback")
+71f277a7bf0b ("spi: Respect all error codes from dev_pm_domain_attach()")

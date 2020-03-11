@@ -1,0 +1,3 @@
+607c63195d63 ("mm/gup: drop gup_fast_folio_allowed() in hugepd processing")
+f002882ca369 ("mm: merge folio_is_secretmem() and folio_fast_pin_allowed() into gup_fast_folio_allowed()")
+65291dcfcf89 ("mm/secretmem: fix GUP-fast succeeding on secretmem folios")

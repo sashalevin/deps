@@ -1,0 +1,5 @@
+b41ccc3bc9da ("pwm: meson: Simplify using dev_err_probe()")
+329db102a26d ("pwm: meson: make full use of common clock framework")
+ed73300326ec ("pwm: meson: switch to using struct clk_parent_data for mux parents")
+bafa23b6c07c ("pwm: meson: remove not needed check in meson_pwm_calc")
+87a2cbf02d77 ("pwm: meson: fix handling of period/duty if greater than UINT_MAX")

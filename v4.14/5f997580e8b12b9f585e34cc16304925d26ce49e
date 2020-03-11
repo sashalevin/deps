@@ -1,0 +1,7 @@
+5f997580e8b1 ("apparmor: Fix network performance issue in aa_label_sk_perm")
+56974a6fcfef ("apparmor: add base infastructure for socket mediation")
+3acfd5f54ca1 ("apparmor: audit unknown signal numbers")
+3dc6b1ce6861 ("apparmor: make signal label match work when matching stacked labels")
+98cf5bbff413 ("apparmor: fix logging of the existence test for signals")
+b5beb07ad32a ("apparmor: fix resource audit messages when auditing peer")
+b12cbb215862 ("apparmor: fix oops in audit_signal_cb hook")

@@ -1,0 +1,6 @@
+a257cacc3871 ("asm-generic: Define CONFIG_HAVE_FUNCTION_DESCRIPTORS")
+1b1ad288b8f1 ("kallsyms: remove arch specific text and data check")
+e5ae3728327f ("mm: make generic arch_is_kernel_initmem_freed() do what it says")
+4aae683f1327 ("tracing: Refactor TRACE_IRQFLAGS_SUPPORT in Kconfig")
+113616ec5b64 ("hexagon: select ARCH_WANT_LD_ORPHAN_WARN")
+63703f37aa09 ("mm: generalize ZONE_[DMA|DMA32]")

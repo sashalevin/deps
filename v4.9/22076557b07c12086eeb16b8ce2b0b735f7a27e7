@@ -1,0 +1,4 @@
+22076557b07c ("usbip: usbip_host: fix NULL-ptr deref and use-after-free errors")
+7510df3f29d4 ("usbip: usbip_host: run rebind from exit when module is removed")
+1e180f167d4e ("usbip: usbip_host: delete device from busid_table after rebind")
+4bfb141bc013 ("usbip: usbip_host: fix to hold parent lock for device_attach() calls")

@@ -1,0 +1,7 @@
+f8850206e160 ("gpio: Switch timestamps to ktime_get_ns()")
+1033be58992f ("gpiolib: fix line event timestamps for nested irqs")
+fa38869b0161 ("gpiolib: Don't support irq sharing for userspace")
+d58f2bf261fd ("gpio: Timestamp events in hardirq handler")
+24bd3efc9d1e ("gpio: Fix kernel stack leak to userspace")
+df1e76f28ffe ("gpiolib: skip unwanted events, don't convert them to opposite edge")
+ad537b822577 ("gpiolib: fix filtering out unwanted events")

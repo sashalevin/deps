@@ -1,0 +1,4 @@
+2a76fc899a04 ("drm/i915: call i915_request_await_object from _i915_vma_move_to_active")
+b5cfe6f7a6e1 ("drm/i915: Remove short-term pins from execbuf, v6.")
+6945c53bc712 ("drm/i915: Add locking to i915_gem_evict_vm(), v3.")
+e849f7e70860 ("drm/i915: Call i915_gem_evict_vm in vm_fault_gtt to prevent new ENOSPC errors, v2.")

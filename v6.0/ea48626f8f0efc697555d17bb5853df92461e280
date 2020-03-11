@@ -1,0 +1,8 @@
+ea48626f8f0e ("arm64: idreg-override: Avoid kstrtou64() to parse a single hex digit")
+060260a6be47 ("arm64: idreg-override: Avoid sprintf() for simple string concatenation")
+bcf1eed3f8a0 ("arm64: idreg-override: avoid strlen() to check for empty strings")
+01fd29092a35 ("arm64: idreg-override: Prepare for place relative reloc patching")
+cbc59c9a4e57 ("arm64: idreg-override: Omit non-NULL checks for override pointer")
+ad744e8cb346 ("arm64: Allow arm64_sw.hvhe on command line")
+0ddc312b7c73 ("arm64: Turn kaslr_feature_override into a generic SW feature override")
+a2a83eb40fbd ("arm64: kernel: Fix kernel warning when nokaslr is passed to commandline")

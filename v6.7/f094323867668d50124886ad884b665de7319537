@@ -1,0 +1,3 @@
+f09432386766 ("sunrpc: pass in the sv_stats struct through svc_create_pooled")
+1e3577a4521e ("SUNRPC: discard sv_refcnt, and svc_get/svc_put")
+7b207ccd9833 ("svc: don't hold reference for poolstats, only mutex.")

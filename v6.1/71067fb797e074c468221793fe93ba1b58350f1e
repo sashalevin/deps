@@ -1,0 +1,7 @@
+71067fb797e0 ("tty: fix kernel-doc for functions in tty.h")
+3b1a696bb968 ("tty: fix up and plug in tty_ioctl kernel-doc")
+5b4f9cf3cc33 ("tty: invert return values of tty_{,un}throttle_safe()")
+c2a36609dab3 ("tty: switch tty_{,un}throttle_safe() to return a bool")
+043c8a7c01ec ("tty: n_tty: use do-while in n_tty_check_{,un}throttle()")
+77b425e4efe5 ("tty: make tty_change_softcar() more understandable")
+87f22db4c251 ("tty: Return bool from tty_termios_hw_change()")

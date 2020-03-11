@@ -1,0 +1,6 @@
+dcb83f6ec1bf ("genirq/msi: Rename IRQ_DOMAIN_MSI_REMAP to IRQ_DOMAIN_ISOLATED_MSI")
+17cde5e601b1 ("genirq/msi: Add msi_device_has_isolated_msi()")
+13e7accb81d6 ("genirq: Get rid of GENERIC_MSI_IRQ_DOMAIN")
+762687ceb31f ("genirq/msi: Make __msi_domain_alloc_irqs() static")
+70afdab904d2 ("irqchip: Add IMX MU MSI controller driver")
+91a29af413de ("gpio: Remove dynamic allocation from populate_parent_alloc_arg()")

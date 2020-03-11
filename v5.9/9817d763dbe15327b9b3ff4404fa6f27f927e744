@@ -1,0 +1,4 @@
+9817d763dbe1 ("nvme-rdma: destroy cm id before destroy qp to avoid use after free")
+7674073b2ed3 ("nvme-rdma: avoid request double completion for concurrent nvme_rdma_timeout")
+071ba4cc559d ("RDMA: Add rdma_connect_locked()")
+2a7cec538169 ("RDMA/cma: Fix locking for the RDMA_CM_CONNECT state")

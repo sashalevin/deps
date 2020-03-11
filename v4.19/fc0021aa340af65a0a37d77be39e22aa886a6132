@@ -1,0 +1,7 @@
+fc0021aa340a ("swiotlb: remove the tbl_dma_addr argument to swiotlb_tbl_map_single")
+5ceda74093a5 ("dma-direct: rename and cleanup __phys_to_dma")
+7bc5c428a660 ("dma-direct: remove __dma_to_phys")
+ae4f0a17ee59 ("swiotlb-xen: remove start_dma_addr")
+4a47cbae0484 ("dma-direct: improve swiotlb error reporting")
+91ef26f91417 ("dma-direct: relax addressability checks in dma_direct_supported")
+81b6b96475ac ("Merge branch 'master' of git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux; tag 'dma-mapping-5.5' of git://git.infradead.org/users/hch/dma-mapping")

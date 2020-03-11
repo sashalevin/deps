@@ -1,0 +1,4 @@
+f5b0cba8f239 ("dm crypt: replace RCU read-side section with rwsem")
+c538f6ec9f56 ("dm crypt: add ability to use keys from the kernel key retention service")
+265e9098bac0 ("dm crypt: mark key as invalid until properly loaded")
+bbdb23b5d695 ("dm crypt: Use skcipher and ahash")

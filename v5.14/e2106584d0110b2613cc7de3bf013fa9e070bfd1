@@ -1,0 +1,8 @@
+e2106584d011 ("scsi: ufs: Rename sdev_ufs_device into ufs_device_wlun")
+511a083b8b6b ("scsi: ufs: Remove hba->cmd_queue")
+59830c095cf0 ("scsi: ufs: Remove the sdev_rpmb member")
+ddba1cf7a506 ("scsi: ufs: Let devices remain runtime suspended during system suspend")
+9561f58442e4 ("scsi: ufs: mediatek: Support vops pre suspend to disable auto-hibern8")
+aba3b0757b6c ("scsi: ufs: ufs-mediatek: Change dbg select by check IP version")
+bf25967ac541 ("scsi: ufshcd: Fix device links when BOOT WLUN fails to probe")
+f1ecbe1e54d5 ("scsi: ufs: Reduce power management code duplication")

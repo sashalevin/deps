@@ -1,0 +1,4 @@
+57cb3bb0dc89 ("KVM: x86: do not deliver asynchronous page faults if CR0.PG=0")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

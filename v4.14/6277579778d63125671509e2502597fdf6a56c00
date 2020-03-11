@@ -1,0 +1,8 @@
+6277579778d6 ("KVM: arm/arm64: GICv4: Hook vPE scheduling into vgic flush/sync")
+196b136498b3 ("KVM: arm/arm64: GICv4: Wire mapping/unmapping of VLPIs in VFIO irq bypass")
+74fe55dc9ab7 ("KVM: arm/arm64: GICv4: Add init/teardown of the per-VM vPE irq domain")
+e7c48059248e ("KVM: arm/arm64: GICv4: Add property field and per-VM predicate")
+bebfd2a20373 ("KVM: arm/arm64: vITS: Add MSI translation helpers")
+2412405b3141 ("KVM: arm/arm64: register irq bypass consumer on ARM/ARM64")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")

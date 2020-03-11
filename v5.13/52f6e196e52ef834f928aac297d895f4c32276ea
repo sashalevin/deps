@@ -1,0 +1,7 @@
+52f6e196e52e ("scsi: fnic: Add support for multiqueue (MQ) in fnic_main.c")
+86b86a7d2fda ("scsi: fnic: Rename wq_copy to hw_copy_wq")
+aec95e3a8ded ("scsi: fnic: Refactor code in fnic probe to initialize SCSI layer")
+924cb24df4fc ("scsi: fnic: Stop using the SCSI pointer")
+3032ed77a289 ("scsi: fnic: Fix a tracing statement")
+a7510fbd879e ("scsi: fnic: Call scsi_done() directly")
+e1c9f0cfac4f ("scsi: fnic: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")

@@ -1,0 +1,8 @@
+05b1de51df07 ("drm/cma-helper: Export dedicated wrappers for GEM object functions")
+d0c4e34db0b0 ("drm/cma-helper: Move driver and file ops to the end of header")
+077092783a4d ("drm: rcar-du: Allow importing non-contiguous dma-buf with VSP")
+fa49fdbe78a5 ("drm/vc4: Move mmap implementation into GEM object function")
+ccfe8e9c12f9 ("drm/vc4: Make several BO functions static")
+b100ed1ee8f2 ("drm/vc4: Use drm_gem_cma_vmap() directly")
+f5ca8eb6f9bd ("drm/cma-helper: Implement mmap as GEM CMA object functions")
+bc2532ab7c20 ("drm/cma-helper: Remove prime infix from GEM object functions")

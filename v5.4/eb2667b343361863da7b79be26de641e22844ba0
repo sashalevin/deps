@@ -1,0 +1,4 @@
+eb2667b34336 ("io_uring: fix shift-out-of-bounds when round up cq size")
+88ec3211e463 ("io_uring: round-up cq size before comparing with rounded sq size")
+8110c1a6212e ("io_uring: add support for IORING_SETUP_CLAMP")
+33a107f0a1b8 ("io_uring: allow application controlled CQ ring size")

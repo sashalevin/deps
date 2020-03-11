@@ -1,0 +1,6 @@
+a33c8f71d3d8 ("drm/i915/tc: Group the TC PHY setup/query functions per platform")
+2983b869881b ("drm/i915/tc: Fix initial TC mode on disabled legacy ports")
+4e936b65211a ("drm/i915/tc: Factor out helpers converting HPD mask to TC mode")
+b25f551ae197 ("drm/i915/tc: Wait for IOM/FW PHY initialization of legacy TC ports")
+06f66261a156 ("drm/i915/tc: Fix system resume MST mode restore for DP-alt sinks")
+67165722c27c ("drm/i915/tc: Fix TC port link ref init for DP MST during HW readout")

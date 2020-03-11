@@ -1,0 +1,8 @@
+115d4d08aeb9 ("bootconfig: Rename xbc_destroy_all() to xbc_exit()")
+bdac5c2b243f ("bootconfig: Allocate xbc_data inside xbc_init()")
+40caa127f3c7 ("init: bootconfig: Remove all bootconfig data when the init memory is removed")
+d0ac5fbaf783 ("init: Suppress wrong warning for bootconfig cmdline parameter")
+2b7d2fe76f9c ("bootconfig: Update prototype of setup_boot_config()")
+d54ce6158e35 ("kgdb: fix to kill breakpoints on initmem after boot")
+d052e1c6909f ("tools/bootconfig: Show bootconfig compact tree from bootconfig file")
+477d08478170 ("bootconfig: Fix to find the initargs correctly")

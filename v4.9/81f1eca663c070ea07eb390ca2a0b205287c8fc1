@@ -1,0 +1,6 @@
+81f1eca663c0 ("ftgmac100: Request the interrupt only after HW is reset")
+b8dbecff9bab ("ftgmac100: Move napi_add/del to open/close")
+87d18757ec16 ("ftgmac100: Split ring alloc, init and rx buffer alloc")
+517647773546 ("ftgmac100: Cleanup speed/duplex tracking and fix duplex config")
+831fb3388c1e ("ftgmac100: Reorder struct fields and comment")
+60b28a116774 ("ftgmac100: Use netdev->irq instead of private copy")

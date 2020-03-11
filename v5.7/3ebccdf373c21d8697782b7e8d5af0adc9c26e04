@@ -1,0 +1,8 @@
+3ebccdf373c2 ("x86/kvm/vmx: Move guest enter/exit into .noinstr.text")
+0642391e2139 ("x86/kvm/vmx: Add hardirq tracing to guest enter/exit")
+87fa7f3e98a1 ("x86/kvm: Move context tracking where it belongs")
+404d5d7bff0d ("KVM: X86: Introduce more exit_fastpath_completion enum values")
+dcf068da7eb2 ("KVM: VMX: Introduce generic fastpath handler")
+a9ab13ff6e84 ("KVM: X86: Improve latency for single target IPI fastpath")
+873e1da16918 ("KVM: VMX: Optimize handling of VM-Entry failures in vmx_vcpu_run()")
+e64419d991ea ("KVM: x86: Move "flush guest's TLB" logic to separate kvm_x86_ops hook")

@@ -1,0 +1,7 @@
+c0e81a455e23 ("cpu/hotplug: Make HOTPLUG_PARALLEL independent of HOTPLUG_SMT")
+7a4dcb4a5de1 ("cpu/hotplug: Remove dependancy against cpu_primary_thread_mask")
+18415f33e2ac ("cpu/hotplug: Allow "parallel" bringup up to CPUHP_BP_KICK_AP_STATE")
+a631be92b996 ("cpu/hotplug: Provide a split up CPUHP_BRINGUP mechanism")
+6f0621238b7e ("cpu/hotplug: Add CPU state tracking and synchronization")
+22b612e2d53f ("cpu/hotplug: Rework sparse_irq locking in bringup_cpu()")
+ba831b7b1a51 ("cpu/hotplug: Mark arch_disable_smp_support() and bringup_nonboot_cpus() __init")

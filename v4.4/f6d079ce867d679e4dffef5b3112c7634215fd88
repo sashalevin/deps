@@ -1,0 +1,8 @@
+f6d079ce867d ("perf/x86/intel/pt: Export pt_cap_get()")
+8ee83b2ab3d1 ("perf/x86/intel/pt: Add support for PTWRITE and power event tracing")
+65c7e6f1c481 ("perf/x86/intel/pt: Export CPU frequency ratios needed by PT decoders")
+eadf48cab4b6 ("perf/x86/intel/pt: Add support for address range filtering in PT")
+f127fa098d76 ("perf/x86/intel/pt: Add IP filtering register/CPUID bits")
+0dd28e2cdaff ("perf/x86/intel/pt: Move PT specific MSR bit definitions to a private header")
+1c5ac21a0e9b ("perf/x86/intel/pt: Don't die on VMXON")
+24cc12b17679 ("perf/x86/intel/pt: Add interface to stop Intel PT logging")

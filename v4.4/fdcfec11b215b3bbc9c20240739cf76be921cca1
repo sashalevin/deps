@@ -1,0 +1,7 @@
+fdcfec11b215 ("gpio: zynq: protect direction in/out with a spinlock")
+e11de4de28c0 ("gpio: zynq: Add support for suspend resume")
+e3296f19c862 ("gpio: Added zynq specific check for special pins on bank zero")
+0f84f29ff30b ("gpio: zynq: initialize clock even without CONFIG_PM")
+615d23f80efc ("gpio: zynq: Fix the error path")
+31a8944752f8 ("gpio: zynq: use gpiochip data pointer")
+3773c195d387 ("gpio: zynq: Do PM initialization earlier to support gpio hogs")

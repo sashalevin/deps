@@ -1,0 +1,7 @@
+91ca180dbdd6 ("signal: Use force_sig_fault_to_task for the two calls that don't deliver to current")
+ccf75290cc64 ("signal/parisc: Use force_sig_fault where appropriate")
+c2b0e0d33b55 ("signal/parisc: Use force_sig_mceerr where appropriate")
+f43a54a0d916 ("signal/mips: Use force_sig_fault where appropriate")
+3eb0f5193b49 ("signal: Ensure every siginfo we send has all bits initialized")
+75abf64287ca ("parisc/signal: Add FPE_CONDTRAP for conditional trap handling")
+23221d997b3d ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

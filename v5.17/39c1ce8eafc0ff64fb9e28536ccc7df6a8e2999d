@@ -1,0 +1,4 @@
+39c1ce8eafc0 ("exfat: fix inode->i_blocks for non-512 byte sector size device")
+be17b1ccd4e8 ("exfat: remove duplicate write inode for extending dir/file")
+4493895b2bdc ("exfat: remove duplicate write inode for truncating file")
+23e6e1c9b373 ("exfat: reuse __exfat_write_inode() to update directory entry")

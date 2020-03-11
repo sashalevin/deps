@@ -1,0 +1,7 @@
+0754211847d7 ("locking/atomic, riscv: Use s64 for atomic64")
+33e42ef57197 ("locking/atomic, riscv: Fix atomic64_sub_if_positive() offset argument")
+2b523f170e39 ("atomics/riscv: Define atomic64_fetch_add_unless()")
+5ce6c1f3535f ("riscv/atomic: Strengthen implementations with fences")
+8286d51a6c24 ("RISC-V: Comment on why {,cmp}xchg is ordered how it is")
+4650d02ad2d9 ("RISC-V: Remove unused arguments from ATOMIC_OP")
+fab957c11efe ("RISC-V: Atomic and Locking Code")

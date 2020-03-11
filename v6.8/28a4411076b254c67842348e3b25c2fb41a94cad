@@ -1,0 +1,6 @@
+28a4411076b2 ("bpf: use check_add_overflow() to check for addition overflows")
+4a04b4f0de59 ("bpf: fix overflow check in adjust_jmp_off()")
+5337ac4c9b80 ("bpf: Fix the corner case with may_goto and jump to the 1st insn.")
+011832b97b31 ("bpf: Introduce may_goto instruction")
+2ab256e93249 ("bpf: add is_async_callback_calling_insn() helper")
+7c05e7f3e74e ("bpf: Support inlining bpf_kptr_xchg() helper")

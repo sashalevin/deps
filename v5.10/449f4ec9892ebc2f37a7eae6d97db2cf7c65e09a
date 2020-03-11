@@ -1,0 +1,4 @@
+449f4ec9892e ("block: remove the update_bdev parameter to set_capacity_revalidate_and_notify")
+b200e38c493b ("sd: update the bdev size in sd_revalidate_disk")
+5dd55749b79c ("nvme: let set_capacity_revalidate_and_notify update the bdev size")
+3b4f85d02a4b ("loop: let set_capacity_revalidate_and_notify update the bdev size")

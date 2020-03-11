@@ -1,0 +1,5 @@
+a682850a114a ("tcp: get rid of tcp_tso_should_defer() dependency on HZ/jiffies")
+d635fbe27ebe ("tcp: use tcp_jiffies32 to feed tp->lsndtime")
+db7f00b8dba6 ("tcp: tcp_get_info() should read tcp_time_stamp later")
+67db3e4bfbc9 ("tcp: no longer hold ehash lock while calling tcp_get_info()")
+ccbf3bfaee0e ("tcp: shortcut listeners in tcp_get_info()")

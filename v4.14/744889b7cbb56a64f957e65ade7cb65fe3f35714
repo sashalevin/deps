@@ -1,0 +1,3 @@
+744889b7cbb5 ("block: don't deal with discard limit in blkdev_issue_discard()")
+b88aef36b87c ("block: fix infinite loop if the device loses discard capability")
+af097f5d199e ("block: break discard submissions into the user defined size")

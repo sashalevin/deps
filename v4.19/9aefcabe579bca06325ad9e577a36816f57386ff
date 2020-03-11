@@ -1,1 +1,6 @@
 9aefcabe579b ("IB/hfi1: Reduce lock contention on iowait_lock for sdma and pio")
+18912c452438 ("IB/hfi1: Close VNIC sdma_progress sleep window")
+5da0fc9dbf89 ("IB/hfi1: Prepare resource waits for dual leg")
+3ca633f1ff7b ("IB/hfi1: Right size user_sdma sequence numbers and related variables")
+a0e0cb82804a ("IB/hfi1: Eliminate races in the SDMA send error path")
+c54a73d8202a ("IB/hfi1: Rework file list in Makefile")

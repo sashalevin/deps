@@ -1,0 +1,4 @@
+9674f54e41ff ("md: Don't clear MD_CLOSING when the raid is about to stop")
+c731b84b51bf ("md: fix a warning caused by a race between concurrent md_ioctl()s")
+118cf084adb3 ("md: implement ->set_read_only to hook into BLKROSET processing")
+a564e23f0f99 ("md: switch to ->check_events for media change notifications")

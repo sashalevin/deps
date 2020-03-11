@@ -1,0 +1,4 @@
+823f606ab6b4 ("ARM: 9242/1: kasan: Only map modules if CONFIG_KASAN_VMALLOC=n")
+5615f69bc209 ("ARM: 9016/2: Initialize the mapping of KASan shadow memory")
+59b6359dd92d ("ARM: 8702/1: head-common.S: Clear lr before jumping to start_kernel()")
+9520b1a1b5f7 ("ARM: head-common.S: speed up startup code")

@@ -1,0 +1,7 @@
+d347739a0e76 ("fuse: always invalidate attributes after writes")
+27ae449ba26e ("fuse: rename fuse_write_update_size()")
+fa5eee57e33e ("fuse: selective attribute invalidation")
+97f044f690ba ("fuse: don't increment nlink in link()")
+cefd1b83275d ("fuse: decrement nlink on overwriting rename")
+371e8fd02969 ("fuse: move fuse_invalidate_attr() into fuse_update_ctime()")
+5c791fe1e2a4 ("fuse: make sure reclaim doesn't write the inode")

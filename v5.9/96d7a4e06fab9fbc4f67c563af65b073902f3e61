@@ -1,0 +1,8 @@
+96d7a4e06fab ("powerpc/signal64: Rewrite handle_rt_signal64() to minimise uaccess switches")
+7bb081c8f043 ("powerpc/signal64: Replace setup_sigcontext() w/ unsafe_setup_sigcontext()")
+2d19630e20fe ("powerpc/signal64: Remove TM ifdefery in middle of if/else block")
+c6c9645e3748 ("powerpc/signal64: Remove non-inline calls from setup_sigcontext()")
+c180cb305c9b ("powerpc/signal: Call get_tm_stackpointer() from get_sigframe()")
+454b1abb588b ("powerpc/signal: Move access_ok() out of get_sigframe()")
+3fcfb5d1bf73 ("powerpc/signal: Remove BUG_ON() in handler_signal functions")
+95593e930d7d ("powerpc/signal: Move inline functions in signal.h")

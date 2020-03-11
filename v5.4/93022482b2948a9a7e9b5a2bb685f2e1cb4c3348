@@ -1,0 +1,6 @@
+93022482b294 ("x86/cpu: Fix x86_match_cpu() to match just X86_VENDOR_INTEL")
+e6dfdc2e89a0 ("x86/cpu/vfm: Add new macros to work with (vendor/family/model) values")
+d8422f6bb052 ("x86/cpu: Add a X86_MATCH_INTEL_FAM6_MODEL_STEPPINGS() macro")
+e9d7144597b1 ("x86/cpu: Add a steppings field to struct x86_cpu_id")
+20d437447c00 ("x86/cpu: Add consistent CPU match macros")
+ba5bade4cc0d ("x86/devicetable: Move x86 specific macro out of generic code")

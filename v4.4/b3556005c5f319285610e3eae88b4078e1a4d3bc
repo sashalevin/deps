@@ -1,0 +1,6 @@
+b3556005c5f3 ("IB/core: Fix false search of the IB_SA_WELL_KNOWN_GUID")
+c865f24628b9 ("IB/core: Add rdma_network_type to wc")
+b39ffa1df505 ("IB/core: Add gid_type to gid attribute")
+cee3c4d0c568 ("IB/core: don't search the GID table twice")
+9c584f049596 ("IB/core: Change per-entry lock in RoCE GID table to one lock")
+f3906bd36087 ("IB/core: Refactor GID cache's ib_dispatch_event")

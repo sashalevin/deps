@@ -1,0 +1,4 @@
+3d45f221ce62 ("btrfs: fix deadlock when cloning inline extent and low on free metadata space")
+f2f121ab500d ("btrfs: skip unnecessary searches for xattrs when logging an inode")
+38d715f494f2 ("btrfs: use btrfs_start_delalloc_roots in shrink_delalloc")
+b49121393f58 ("btrfs: change nr to u64 in btrfs_start_delalloc_roots")

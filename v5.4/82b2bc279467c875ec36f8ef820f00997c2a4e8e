@@ -1,0 +1,3 @@
+82b2bc279467 ("tun: Fix memory leak for detached NAPI queue.")
+fb3f903769e8 ("tun: support NAPI for packets received from batched XDP buffs")
+3fe260e00cd0 ("net: tun: record RX queue in skb before do_xdp_generic()")

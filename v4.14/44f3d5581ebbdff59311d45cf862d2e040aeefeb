@@ -1,0 +1,7 @@
+44f3d5581ebb ("ravb: remove custom .set_link_ksettings from ethtool ops")
+468e40b5fe4f ("ravb: remove custom .get_link_ksettings from ethtool ops")
+efdf75112d89 ("ravb: remove useless serialization in ravb_get_link_ksettings()")
+eeb07284717b ("ravb: remove custom .nway_reset from ethtool ops")
+2a150c504ac2 ("ravb: simplify link auto-negotiation by ethtool")
+05925e52a7d3 ("ravb: fix invalid context bug while changing link options by ethtool")
+0973a4dd79fe ("ravb: fix invalid context bug while calling auto-negotiation by ethtool")

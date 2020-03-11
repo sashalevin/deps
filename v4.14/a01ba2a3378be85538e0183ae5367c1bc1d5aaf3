@@ -1,0 +1,4 @@
+a01ba2a3378b ("xhci: guard accesses to ep_state in xhci_endpoint_reset()")
+f1ec7ae6c9f8 ("xhci: Always restore EP_SOFT_CLEAR_TOGGLE even if ep reset failed")
+f5249461b504 ("xhci: Clear the host side toggle manually when endpoint is soft reset")
+15febf5eede9 ("xhci: refactor xhci_urb_enqueue a bit with minor changes")

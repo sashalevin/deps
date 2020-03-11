@@ -1,0 +1,6 @@
+00778e2294d5 ("smb3: add way to control slow response threshold for logging and stats")
+020eec5f712f ("smb3: add tracepoint for slow responses")
+d683bcd3e5d1 ("smb3: add additional ftrace entry points for entry/exit to cifs.ko")
+eccb4422cf97 ("smb3: Add ftrace tracepoints for improved SMB3 debugging")
+db223a590d45 ("CIFS: SMBD: Upper layer performs SMB write via RDMA read through memory registration")
+a821df3f1af7 ("cifs: fix NULL deref in SMB2_read")

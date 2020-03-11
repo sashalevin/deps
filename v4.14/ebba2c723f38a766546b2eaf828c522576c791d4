@@ -1,0 +1,8 @@
+ebba2c723f38 ("hrtimer: Make hrtimer_force_reprogramm() unconditionally available")
+11a9fe069e34 ("hrtimer: Make hrtimer_reprogramm() unconditional")
+eb27926ba052 ("hrtimer: Make hrtimer_cpu_base.next_timer handling unconditional")
+07a9a7eae86a ("hrtimer: Make the remote enqueue check unconditional")
+28bfd18bf3da ("hrtimer: Make the hrtimer_cpu_base::hres_active field unconditional, to simplify the code")
+c272ca58c3ec ("hrtimer: Switch 'for' loop to _ffs() evaluation")
+1fbc78b3c980 ("hrtimer: Fix kerneldoc syntax for 'struct hrtimer_cpu_base'")
+ae67badaa164 ("hrtimer: Optimize the hrtimer code by using static keys for migration_enable/nohz_active")

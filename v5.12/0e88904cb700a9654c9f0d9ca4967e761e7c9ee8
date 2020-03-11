@@ -1,0 +1,7 @@
+0e88904cb700 ("userfaultfd: mark uffd_wp regardless of VM_WRITE flag")
+9ae0f87d009c ("mm/shmem: unconditionally set pte dirty in mfill_atomic_install_pte")
+7d64ae3ab648 ("userfaultfd/shmem: modify shmem_mfill_atomic_pte to use install_pte()")
+153132571f02 ("userfaultfd/shmem: support UFFDIO_CONTINUE for shmem")
+3460f6e5c1ed ("userfaultfd/shmem: combine shmem_{mcopy_atomic,mfill_zeropage}_pte")
+7ed9d238c7db ("userfaultfd: release page in error path to avoid BUG_ON")
+f619147104c8 ("userfaultfd: add UFFDIO_CONTINUE ioctl")

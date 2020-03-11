@@ -1,0 +1,4 @@
+c4e38b2a27a8 ("soc: fsl: qbman: Ensure device cleanup is run for kexec")
+c5501aa92a88 ("soc/fsl/qbman: Cleanup QMan queues if device was already initialized")
+0505d00c8dba ("soc/fsl/qbman: Cleanup buffer pools if BMan was initialized prior to bootup")
+e0940b34c40e ("soc: fsl: bman_portals: defer probe after bman's probe")

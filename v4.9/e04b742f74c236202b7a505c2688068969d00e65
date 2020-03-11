@@ -1,0 +1,5 @@
+e04b742f74c2 ("kexec: export PG_offline to VMCOREINFO")
+692f66f26a4c ("crash: move crashkernel parsing and vmcore related code under CONFIG_CRASH_CORE")
+b6e92aa81038 ("kexec: Switch to __pa_symbol")
+401721ecd1dc ("kexec: export the value of phys_base instead of symbol address")
+69f58384791a ("Revert "kdump, vmcoreinfo: report memory sections virtual addresses"")

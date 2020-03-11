@@ -1,0 +1,6 @@
+52d55922e0f1 ("netfs: Move max_len/max_nr_segs from netfs_io_subrequest to netfs_io_stream")
+6a5dcd487791 ("cifs: Fix lack of credit renegotiation on read retry")
+950b03d0f664 ("netfs: Fix missing iterator reset on retry of short read")
+51d37982bbac ("cachefiles: Set the max subreq size for cache writes to MAX_RW_COUNT")
+a9d47a50cf25 ("netfs: Revert "netfs: Switch debug logging to pr_debug()"")
+519be989717c ("cifs: Add a tracepoint to track credits involved in R/W requests")

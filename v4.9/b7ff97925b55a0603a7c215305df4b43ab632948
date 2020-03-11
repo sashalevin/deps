@@ -1,0 +1,7 @@
+b7ff97925b55 ("bpf: Allow locking bpf_spin_lock in inner map values")
+f73e601aafb2 ("bpf: Populate field_offs for inner_map_meta")
+d48995723c9a ("bpf: Free inner_map_meta when btf_record_dup fails")
+db559117828d ("bpf: Consolidate spin_lock, timer management into btf_record")
+aa3496accc41 ("bpf: Refactor kptr_off_tab into btf_record")
+c4bcfb38a95e ("bpf: Implement cgroup storage available to non-cgroup-attached bpf progs")
+3566a79c9e36 ("Merge tag 'for-netdev' of git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

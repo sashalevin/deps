@@ -1,0 +1,8 @@
+c4549b871102 ("zsmalloc: remove zspage isolation for migration")
+67f1c9cd0c56 ("zsmalloc: introduce some helper functions")
+afe8605ca454 ("mm/zsmalloc.c: close race window between zs_pool_dec_isolated() and zs_unregister_migration()")
+ac8f05da5174 ("mm/zsmalloc.c: fix the migrated zspage statistics.")
+441e254cd40d ("mm/zsmalloc.c: fix build when CONFIG_COMPACTION=n")
+701d678599d0 ("mm/zsmalloc.c: fix race condition in zs_destroy_pool")
+1a87aa03597e ("mm/zsmalloc.c: migration can leave pages in ZS_EMPTY indefinitely")
+3457f4147675 ("mm/zsmalloc.c: fix -Wunneeded-internal-declaration warning")

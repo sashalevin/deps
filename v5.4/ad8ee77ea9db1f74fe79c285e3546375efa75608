@@ -1,0 +1,4 @@
+ad8ee77ea9db ("mm/mremap: for MREMAP_DONTUNMAP check security_vm_enough_memory_mm()")
+51df7bcb6151 ("mm/mremap: account memory on do_munmap() failure")
+dadbd85f2afc ("mm: Fix MREMAP_DONTUNMAP accounting on VMA merge")
+e346b3813067 ("mm/mremap: add MREMAP_DONTUNMAP to mremap()")

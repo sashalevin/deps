@@ -1,0 +1,6 @@
+3d9b95558f58 ("target/user: Fix comments to not refer to data ring")
+554617b2bbe2 ("target/user: Return an error if cmd data size is too large")
+b25c78639936 ("target/user: Don't free expired command when time out")
+26418649eead ("target/user: Introduce data_bitmap, replace data_length/data_head/data_tail")
+0c28481ffb46 ("target/user: Free data ring in unified function")
+f1dbd087cc7a ("target/user: Use iovec[] to describe continuous area")

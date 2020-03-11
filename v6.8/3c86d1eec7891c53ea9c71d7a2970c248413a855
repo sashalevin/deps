@@ -1,0 +1,5 @@
+3c86d1eec789 ("f2fs: convert f2fs_write_end() to use folio")
+1a0bd289a5db ("f2fs: atomic: fix to avoid racing w/ GC")
+87161a2b0aed ("f2fs: deprecate io_bits")
+c2034ef6192a ("f2fs: fix NULL pointer dereference in f2fs_submit_page_write()")
+8a430dd49e9c ("f2fs: compress: fix to guarantee persisting compressed blocks by CP")

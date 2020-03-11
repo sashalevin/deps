@@ -1,0 +1,6 @@
+0a7b73559b39 ("KVM: x86: Remove VMX support for virtualizing guest MTRR memtypes")
+c9f65a3f2d92 ("KVM: VMX: drop IPAT in memtype when CD=1 for KVM_X86_QUIRK_CD_NW_CLEARED")
+362ff6dca541 ("KVM: x86/mmu: Zap KVM TDP when noncoherent DMA assignment starts/stops")
+9a3768191d95 ("KVM: x86/mmu: Zap SPTEs on MTRR update iff guest MTRRs are honored")
+7a18c7c2b69a ("KVM: x86/mmu: Zap SPTEs when CR0.CD is toggled iff guest MTRRs are honored")
+1affe455d66d ("KVM: x86/mmu: Add helpers to return if KVM honors guest MTRRs")

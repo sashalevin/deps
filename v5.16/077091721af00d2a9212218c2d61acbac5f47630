@@ -1,0 +1,6 @@
+077091721af0 ("fbdev: efifb: Use devm_register_framebuffer()")
+95cdd538e0e5 ("fbdev: efifb: Register sysfs groups through driver core")
+156ebfe4c87d ("fbdev: efifb: Convert to platform remove callback returning void")
+7191ec8015f3 ("fbdev/efifb: Do not use struct fb_info.apertures")
+82dcb90b651b ("fbdev/efifb: Add struct efifb_par for driver data")
+d258d00fb9c7 ("fbdev: efifb: Cleanup fb_info in .fb_destroy rather than .remove")

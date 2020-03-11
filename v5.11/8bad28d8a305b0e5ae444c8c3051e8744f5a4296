@@ -1,0 +1,8 @@
+8bad28d8a305 ("io_uring: don't hold uring_lock when calling io_run_task_work*")
+d7954b2ba946 ("io_uring: create common fixed_rsrc_ref_node handling routines")
+bc9744cd162b ("io_uring: split ref_node alloc and init")
+6802535df7bf ("io_uring: split alloc_fixed_file_ref_node")
+2a63b2d9c30b ("io_uring: add rsrc_ref locking routines")
+d67d2263fb23 ("io_uring: separate ref_list from fixed_rsrc_data")
+502385318369 ("io_uring: generalize io_queue_rsrc_removal")
+269bbe5fd4d2 ("io_uring: rename file related variables to rsrc")

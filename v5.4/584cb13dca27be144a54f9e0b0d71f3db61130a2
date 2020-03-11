@@ -1,0 +1,6 @@
+584cb13dca27 ("arm64: simplify detection of memory zone boundaries for UMA configs")
+93b90414c33f ("arm64: mm: Fix initialisation of DMA zones on non-NUMA systems")
+4399d430700d ("arm64: mm: Fix unused variable warning in zone_sizes_init")
+1a8e1cef7603 ("arm64: use both ZONE_DMA and ZONE_DMA32")
+a573cdd7973d ("arm64: rename variables used to calculate ZONE_DMA32's size")
+ae970dc096b2 ("arm64: mm: use arm64_dma_phys_limit instead of calling max_zone_dma_phys()")

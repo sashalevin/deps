@@ -1,0 +1,6 @@
+d60be533a003 ("scripts/tags.sh: Include tools directory in tags generation")
+7394d2ebb651 ("scripts/tags.sh: Invoke 'realpath' via 'xargs'")
+162343a876f1 ("scripts/tags.sh: exclude tools directory from tags generation")
+4f491bb6ea2a ("scripts/tags.sh: collect compiled source precisely")
+656c107770e3 ("scripts/tags.sh: use `find` for $ALLSOURCE_ARCHS generation")
+cbf52a3e6a8a ("tags: honor COMPILED_SOURCE with apart output directory")

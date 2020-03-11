@@ -1,0 +1,7 @@
+91e8bcd7b4da ("crypto: cryptd - Protect per-CPU resource by disabling BH.")
+43b970fa8213 ("crypto: cryptd - Use refcount_t for refcount")
+3e56e168638b ("crypto: cryptd - move kcrypto_wq into cryptd")
+0edf8593eb09 ("crypto: cavium - remove bogus code handling cryptd")
+36b3875a97b8 ("crypto: cryptd - Remove VLA usage of skcipher")
+c3a536056374 ("crypto: cryptd - Add cryptd_max_cpu_qlen module parameter")
+37dc79565c4b ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

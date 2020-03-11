@@ -1,0 +1,5 @@
+c44000b6535d ("selftests/resctrl: Fix closing IMC fds on error and open-code R+W instead of loops")
+cc8ff7f5c85c ("selftests/resctrl: Convert perror() to ksft_perror() or ksft_print_msg()")
+508934b5d15a ("selftests/resctrl: Move run_benchmark() to a more fitting file")
+b1a901e078c4 ("selftests/resctrl: Simplify span lifetime")
+47e36f16c784 ("selftests/resctrl: Remove bw_report and bm_type from main()")

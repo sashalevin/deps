@@ -1,0 +1,5 @@
+5746ca131e24 ("powerpc/64: Don't recurse irq replay")
+1da5351f9eb9 ("powerpc/64/irq: tidy soft-masked irq replay and improve documentation")
+98552307e3a7 ("powerpc/irq64: Remove get_irq_happened()")
+7d7b28b30208 ("powerpc/irq: Split irq.c")
+5fe855169f97 ("powerpc/irq: Remove arch_local_irq_restore() for !CONFIG_CC_HAS_ASM_GOTO")

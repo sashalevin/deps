@@ -1,0 +1,4 @@
+e315bf700b40 ("pwm: stm32: Change prototype of helper that detects npwm to prepare further changes")
+f29430710d92 ("pwm: stm32: Prepare removing pwm_chip from driver data")
+19f1016ea960 ("pwm: stm32: Fix enable count for clk in .probe()")
+41fa8f57c0d2 ("pwm: stm32: Use hweight32 in stm32_pwm_detect_channels")

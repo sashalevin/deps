@@ -1,0 +1,5 @@
+4b85c921cd39 ("KVM: x86/mmu: Remove spurious TLB flushes in TDP MMU zap collapsible path")
+8ed716ca7dc9 ("KVM: x86/mmu: Pass parameter flush as false in kvm_tdp_mmu_zap_collapsible_sptes()")
+610265ea3da1 ("KVM: x86/mmu: Rename slot_handle_leaf to slot_handle_level_4k")
+269e9552d208 ("KVM: const-ify all relevant uses of struct kvm_memory_slot")
+31c656570065 ("KVM: x86/mmu: Fix uninitialized boolean variable flush")

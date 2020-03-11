@@ -1,0 +1,6 @@
+58fc155b0e4b ("bpftool: Switch to new btf__type_cnt API")
+ef9356d392f9 ("bpftool: Improve skeleton generation for data maps without DATASEC type")
+5b438f01d7eb ("bpftool: Dump more info about DATASEC members")
+fa4528379a51 ("tools/bpftool: Auto-detect split BTFs in common cases")
+75fa1777694c ("tools/bpftool: Add bpftool support for split BTF")
+8526df04570f ("tools/bpftool: Use libbpf's btf__parse() API for parsing BTF from file")

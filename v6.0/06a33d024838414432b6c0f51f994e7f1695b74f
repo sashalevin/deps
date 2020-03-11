@@ -1,0 +1,5 @@
+06a33d024838 ("riscv, bpf: Optimize bswap insns with Zbb support")
+914c7a5ff18a ("riscv, bpf: Unify 32-bit zero-extension to emit_zextw")
+e33758f7493c ("riscv, bpf: Unify 32-bit sign-extension to emit_sextw")
+83cc63afab71 ("riscv, bpf: Support unconditional bswap insn")
+694896ad3ca7 ("riscv, bpf: Support sign-extension mov insns")

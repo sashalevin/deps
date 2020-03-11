@@ -1,0 +1,8 @@
+5b2a54bb7c47 ("btrfs: remove last_ref from the extent freeing code")
+76d76e789d1f ("btrfs: make remove_extent_backref pass the root")
+07cce5cf3b48 ("btrfs: extent-tree: kill the BUG_ON() in insert_inline_extent_backref()")
+1c2a07f598d5 ("btrfs: extent-tree: kill BUG_ON() in __btrfs_free_extent()")
+87cc7a8a2afb ("btrfs: Remove fs_info from remove_extent_backref")
+61a18f1c6663 ("btrfs: Remove fs_info argument from update_inline_extent_backref")
+e9f6290d593a ("btrfs: Remove fs_info from remove_extent_data_ref")
+bd3c685ed9fd ("btrfs: Document __btrfs_inc_extent_ref")

@@ -1,0 +1,5 @@
+a98a0f050ced ("irqchip/riscv-intc: Fix SMP=n boot with ACPI")
+f8619b66bdb1 ("irqchip/riscv-intc: Add ACPI support for AIA")
+e77b8dc02a1c ("ACPI: RISC-V: Initialize GSI mapping structures")
+f8bba143dae1 ("ACPI: RISC-V: Implement function to reorder irqchip probe entries")
+f7d7ccf92f2b ("ACPI: bus: Add acpi_riscv_init() function")

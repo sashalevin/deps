@@ -1,0 +1,6 @@
+6d1823ccc480 ("lockdep: Optimize the memory usage of circular queue")
+6971c0f34562 ("lockdep: Extend __bfs() to work with multiple types of dependencies")
+3454a36d6a39 ("lockdep: Introduce lock_list::dep")
+bd76eca10de2 ("lockdep: Reduce the size of lock_list::distance")
+d563bc6ead9e ("lockdep: Make __bfs() visit every dependency until a match")
+b11be024de16 ("lockdep: Demagic the return value of BFS")

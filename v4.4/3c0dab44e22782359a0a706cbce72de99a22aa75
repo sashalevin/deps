@@ -1,0 +1,7 @@
+3c0dab44e227 ("x86/ftrace: Set trampoline pages as executable")
+d2a68c4effd8 ("x86/ftrace: Do not call function graph from dynamic trampolines")
+6ee98ffeea0b ("x86/ftrace: Make sure that ftrace trampolines are not RWX")
+9a7c348ba6a4 ("ftrace: Add return address pointer to ftrace_ret_stack")
+daa460a88c09 ("ftrace: Only allocate the ret_stack 'fp' field when needed")
+345ddcc882d8 ("ftrace: Have set_ftrace_pid use the bitmap like events do")
+7639dad93a55 ("Merge tag 'trace-v4.7-2' of git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/linux-trace")

@@ -1,0 +1,6 @@
+155da070b438 ("iio: dac: mcp4725: Add use_ext_ref_voltage to struct mcp4725_chip_info")
+18bdc686c151 ("iio: dac: mcp4725: Use i2c_get_match_data()")
+002d546fff4f ("iio: dac: mcp4725: Replace variable 'id' from struct mcp4725_data")
+818fe4546521 ("iio: dac: mcp4725: Convert to i2c's .probe_new()")
+e064222dcc16 ("iio:dac:mcp4725: Suppress clang W=1 warning about pointer to enum conversion.")
+2de887b0cfc7 ("iio:dac:mcp4725: drop of_match_ptr and use generic fw properties")

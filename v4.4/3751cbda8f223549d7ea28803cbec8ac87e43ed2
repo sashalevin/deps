@@ -1,0 +1,6 @@
+3751cbda8f22 ("mips: Manually call fdt_init_reserved_mem() method")
+30c8f4e411fb ("mips: Dump memblock regions for debugging")
+4e50a35de4cc ("mips: Use memblock to reserve the __nosave memory range")
+73346081cac1 ("MIPS: Use early_init_fdt_reserve_self to protect DTB location")
+8f4703aa4df7 ("MIPS: Octeon: detect and fix byte swapped initramfs")
+a95d069204e1 ("MIPS: Reserve nosave data for hibernation")

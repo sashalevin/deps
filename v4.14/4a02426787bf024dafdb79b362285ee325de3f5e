@@ -1,0 +1,7 @@
+4a02426787bf ("netfilter: tproxy: fix deadlock due to missing BH disable")
+f286586df68e ("netfilter: nft_tproxy: Move nf_tproxy_assign_sock() to nf_tproxy.h")
+45ca4e0cf273 ("netfilter: Libify xt_TPROXY")
+8d6e55577369 ("netfilter: Decrease code duplication regarding transparent socket option")
+554ced0a6e29 ("netfilter: nf_tables: add support for native socket matching")
+e5a10bb2acf2 ("netfilter: add includes to nf_socket.h")
+bfb15f2a95cb ("netfilter: extract Passive OS fingerprint infrastructure from xt_osf")

@@ -1,0 +1,5 @@
+d03eb9787d3a ("ppp: use the correct function to check if a netdev name is in use")
+3125f26c5148 ("ppp: Fix generating ppp unit id when ifname is not specified")
+7d9f0b48746d ("ppp: define reusable device creation functions")
+6faac63a6986 ("ppp: release rtnl mutex when interface creation fails")
+69d9728d00c7 ("ppp: declare ppp devices as enumerated interfaces")

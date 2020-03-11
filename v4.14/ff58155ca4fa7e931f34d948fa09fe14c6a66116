@@ -1,0 +1,6 @@
+ff58155ca4fa ("x86/purgatory: Add -fno-stack-protector")
+e2ac07c06058 ("x86/purgatory: Disable various profiling and sanitizing options")
+ca14c996afe7 ("x86/purgatory: Disable the stackleak GCC plugin for the purgatory")
+e16c2983fba0 ("x86/purgatory: Change compiler flags from -mcmodel=kernel to -mcmodel=large to fix kexec relocation errors")
+b059f801a937 ("x86/purgatory: Use CFLAGS_REMOVE rather than reset KBUILD_CFLAGS")
+e847f6aaf68f ("x86/purgatory: Avoid creating stray .<pid>.d files, remove -MD from KBUILD_CFLAGS")

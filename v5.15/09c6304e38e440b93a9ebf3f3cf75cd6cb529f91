@@ -1,0 +1,4 @@
+09c6304e38e4 ("kasan: test: fix compatibility with FORTIFY_SOURCE")
+cab71f7495f7 ("kasan: test: silence intentional read overflow warnings")
+d73dad4eb5ad ("kasan: test: bypass __alloc_size checks")
+758cabae312d ("kasan: test: add memcpy test that avoids out-of-bounds write")

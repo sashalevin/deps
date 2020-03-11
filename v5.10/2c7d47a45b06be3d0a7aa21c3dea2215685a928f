@@ -1,0 +1,8 @@
+2c7d47a45b06 ("rtc: mc146818-lib: refactor mc146818_does_rtc_work")
+ea6fa4961aab ("rtc: mc146818-lib: fix RTC presence check")
+0dd8d6cb9edd ("rtc: Check return value from mc146818_get_time()")
+d35786b3a28d ("rtc: mc146818-lib: change return values of mc146818_get_time()")
+e1aba37569f0 ("rtc: cmos: remove stale REVISIT comments")
+ebb22a059436 ("rtc: mc146818: Dont test for bit 0-5 in Register D")
+211e5db19d15 ("rtc: mc146818: Detect and handle broken RTCs")
+05a0302c3548 ("rtc: mc146818: Prevent reading garbage")

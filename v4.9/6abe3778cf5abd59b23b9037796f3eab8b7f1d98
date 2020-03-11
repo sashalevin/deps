@@ -1,0 +1,8 @@
+6abe3778cf5a ("drm/vmwgfx: Update the backdoor call with support for new instructions")
+cc0ba0d8624f ("drm/vmwgfx: Use the backdoor port if the HB port is not available")
+3fbeccf8ceb1 ("drm/vmwgfx: Improve on host message error messages")
+f37230c0ad48 ("drm/vmwgfx: Fix host logging / guestinfo reading error paths")
+938ae7259c90 ("drm/vmwgfx: Fix 32-bit VMW_PORT_HB_[IN|OUT] macros")
+6073a09210e0 ("drm/vmwgfx: Use kasprintf")
+1a4adb05632e ("drm/vmwgfx: Fix NULL pointer comparison")
+5d25fde23b31 ("drm/vmwgfx: Use kmemdup instead of kmalloc and memcpy")

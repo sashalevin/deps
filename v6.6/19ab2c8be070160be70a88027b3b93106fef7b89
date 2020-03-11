@@ -1,0 +1,6 @@
+19ab2c8be070 ("KVM: x86: Check EMULTYPE_WRITE_PF_TO_SP before unprotecting gfn")
+41e6e367d576 ("KVM: x86: Move EMULTYPE_ALLOW_RETRY_PF to x86_emulate_instruction()")
+dfeef3d3f310 ("KVM: x86: Drop superfluous check on direct MMU vs. WRITE_PF_TO_SP flag")
+515c18a64e70 ("KVM: x86: Drop dedicated logic for direct MMUs in reexecute_instruction()")
+474b99ed703b ("KVM: x86/mmu: Don't acquire mmu_lock when using indirect_shadow_pages as a heuristic")
+aeb904f6b9f1 ("KVM: x86: Refactor can_emulate_instruction() return to be more expressive")

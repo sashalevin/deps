@@ -1,0 +1,6 @@
+3c30883acab1 ("ps3vram: add error handling support for add_disk()")
+684bf9cd8d29 ("ps3vram: convert to blk_alloc_disk/blk_cleanup_disk")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+53042f3cc411 ("ps3vram: stop using ->queuedata")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

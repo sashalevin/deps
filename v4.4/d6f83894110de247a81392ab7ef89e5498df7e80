@@ -1,0 +1,6 @@
+d6f83894110d ("HID: i2c-hid: Use devm to allocate i2c_hid struct")
+67767a5f7c6d ("HID: i2c-hid: Move i2c_hid_acpi_pdata error reporting to inside the function")
+572d3c644497 ("HID: i2c-hid: support regulator power on/off")
+93d26aeab54c ("HID: i2c-hid: exit if the IRQ is not valid")
+ba18a9314a94 ("Revert "HID: i2c-hid: Add support for ACPI GPIO interrupts"")
+01714a6f5fa5 ("HID: i2c-hid: Fix suspend/resume when already runtime suspended")

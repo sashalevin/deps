@@ -1,0 +1,5 @@
+03009a605f2a ("hwmon: (occ) Replace open-coded variant of %*phN specifier")
+1f4d4af4d7a1 ("hwmon: replace snprintf in show functions with sysfs_emit")
+db4919ec86ff ("hwmon: (occ) Add new temperature sensor type")
+18e8db7f6526 ("hwmon: (pmbus) Add mutex locking for sysfs reads")
+a919ba06979a ("hwmon: (pmbus) Stop caching register values")

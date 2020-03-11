@@ -1,0 +1,5 @@
+87322099052b ("KVM: arm/arm64: vgic: Signal IRQs using their configured group")
+67b5b673ad4d ("KVM: arm/arm64: vgic: Disallow Active+Pending for level interrupts")
+e40cc57bac79 ("KVM: arm/arm64: vgic: Support level-triggered mapped interrupts")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")

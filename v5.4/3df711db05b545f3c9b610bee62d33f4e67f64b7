@@ -1,0 +1,5 @@
+3df711db05b5 ("net/mlx5e: Return void from mlx5e_sq_xmit and mlx5i_sq_xmit")
+f02bac9ad641 ("net/mlx5e: Return bool from TLS and IPSEC offloads")
+fed0c6cfcd58 ("net/mlx5e: Fetch WQE: reuse code and enforce typing")
+61c00cca41ae ("net/mlx5: Deprecate usage of generic TLS HW capability bit")
+342508c1c754 ("net/mlx5e: kTLS, Do not send decrypted-marked SKBs via non-accel path")

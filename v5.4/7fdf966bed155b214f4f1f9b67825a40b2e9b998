@@ -1,0 +1,6 @@
+7fdf966bed15 ("powerpc/uaccess: Remove __put_user_asm() and __put_user_asm2()")
+2f279eeb68b8 ("powerpc/uaccess: Add pre-update addressing to __get_user_asm() and __put_user_asm()")
+c20beffeec3c ("powerpc/uaccess: Use flexible addressing with __put_user()/__get_user()")
+334710b1496a ("powerpc/uaccess: Implement unsafe_put_user() using 'asm goto'")
+d02f6b7dab82 ("powerpc/uaccess: Evaluate macro arguments once, before user access is allowed")
+5cd623333e7c ("powerpc: Implement user_access_begin and friends")

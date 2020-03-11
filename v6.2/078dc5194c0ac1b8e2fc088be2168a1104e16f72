@@ -1,0 +1,8 @@
+078dc5194c0a ("ARM: omap2: Rewrite WLAN quirk to use GPIO descriptors")
+d74e316633e4 ("gpiolib: remove legacy gpio_export()")
+eccb7a00613c ("gpiolib: remove asm-generic/gpio.h")
+94d20f7d674d ("gpiolib: coldfire: remove custom asm/gpio.h")
+21d9526d13b5 ("gpiolib: Make the legacy <linux/gpio.h> consumer-only")
+e3863fa123c8 ("gpio: Get rid of gpio_to_chip()")
+a5ec171efdc6 ("gpio: Remove unused and obsoleted irq_to_gpio()")
+f2527d8f566a ("gpio: Remove unused and obsoleted gpio_export_link()")

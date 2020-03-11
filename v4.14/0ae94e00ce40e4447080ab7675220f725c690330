@@ -1,0 +1,4 @@
+0ae94e00ce40 ("rcu: Make rcu_future_needs_gp() check all ->need_future_gps[] elements")
+c91a8675b9cc ("rcu: Add accessor macros for the ->need_future_gp[] array")
+825a9911f644 ("rcu: Make rcu_start_future_gp()'s grace-period check more precise")
+b04db8e19fc2 ("rcu: Use lockdep to assert IRQs are disabled/enabled")

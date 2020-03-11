@@ -1,0 +1,5 @@
+6f039cc42f21 ("md/raid5: rename wait_for_overlap to wait_for_reshape")
+0e4aac736666 ("md/raid5: only add to wq if reshape is in progress")
+41425f96d7aa ("dm-raid456, md/raid456: fix a deadlock for dm-raid456 while io concurrent with reshape")
+5625ff8b72b0 ("dm-raid: add a new helper prepare_suspend() in md_personality")
+16c4770c75b1 ("dm-raid: really frozen sync_thread during suspend")

@@ -1,0 +1,3 @@
+27a2d0cb2f38 ("stat: use vfs_empty_path() helper")
+9013c51c630a ("vfs: mostly undo glibc turning 'fstat()' into 'fstatat(AT_EMPTY_PATH)'")
+1b6fe6e0dfec ("io-uring: Make statx API stable")

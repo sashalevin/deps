@@ -1,0 +1,4 @@
+dae37a5dccd1 ("mm/page_alloc: init local variable buddy_pfn")
+bb0e28eb5bc2 ("mm: page_alloc: simplify pageblock migratetype check in __free_one_page()")
+787af64d05cd ("mm: page_alloc: validate buddy before check its migratetype.")
+1dd214b8f21c ("mm: page_alloc: avoid merging non-fallbackable pageblocks with others")

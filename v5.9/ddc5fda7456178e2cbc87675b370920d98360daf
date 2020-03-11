@@ -1,0 +1,5 @@
+ddc5fda74561 ("tty: fix up hung_up_tty_read() conversion")
+c7135bbe5af2 ("tty: fix up hung_up_tty_write() conversion")
+dd78b0c483e3 ("tty: implement read_iter")
+3b830a9c34d5 ("tty: convert tty_ldisc_ops 'read()' function to take a kernel pointer")
+9bb48c82aced ("tty: implement write_iter")

@@ -1,0 +1,6 @@
+ac8723e88880 ("remoteproc/mtk_scp: Remove timeout variable from scp_ipi_send()")
+fad151d52ba4 ("remoteproc/mtk_scp: Use readl_poll_timeout_atomic() for polling")
+e46ceea31481 ("remoteproc/mtk_scp: Move clk ops outside send_lock")
+fd0b6c1ff85a ("remoteproc/mediatek: Add support for mt8192 SCP")
+c2781e4d9bc6 ("remoteproc: mtk_scp: use dma_addr_t for DMA API")
+63c13d61eafe ("remoteproc/mediatek: add SCP support for mt8183")

@@ -1,0 +1,5 @@
+5323922f50ec ("x86/msr: Add missing __percpu annotations")
+fc48a6d1faad ("x86/cpu: Remove write_tsc() and write_rdtscp_aux() wrappers")
+b6b4fbd90b15 ("x86/cpu: Initialize MSR_TSC_AUX if RDTSCP *or* RDPID is supported")
+13c01139b171 ("x86/headers: Remove APIC headers from <asm/smp.h>")
+12609013c43a ("x86/setup: Clean up the header portion of setup.c")

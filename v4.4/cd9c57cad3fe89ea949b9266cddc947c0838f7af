@@ -1,0 +1,7 @@
+cd9c57cad3fe ("x86/MCE: Dump MCE to dmesg if no consumers")
+a9750a31efde ("x86/mce: Define vendor-specific MSR accessors")
+8dd1e17a55b0 ("x86/mce/AMD: Fix logic to obtain block address")
+be0aec23bf46 ("x86/mce/AMD, EDAC: Enable error decoding of Scalable MCA errors")
+adc53f2e0ae2 ("x86/mce: Move MCx_CONFIG MSR definitions")
+429893b16d35 ("x86/mce/AMD: Carve out threshold block preparation")
+f57a1f3c14b9 ("x86/mce/AMD: Fix LVT offset configuration for thresholding")

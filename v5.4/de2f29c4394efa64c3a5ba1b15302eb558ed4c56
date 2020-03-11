@@ -1,0 +1,7 @@
+de2f29c4394e ("ALSA: hda: Remove redundant runtime PM calls")
+4f66a9ef37d3 ("ALSA: hda: intel: More comprehensive PM runtime setup for controller driver")
+9fc149c3bce7 ("ALSA: hda: Reinstate runtime_allow() for all hda controllers")
+07c9983b567d ("Revert "ALSA: hda: call runtime_allow() for all hda controllers"")
+9a6418487b56 ("ALSA: hda: call runtime_allow() for all hda controllers")
+3ba21113bd33 ("ALSA: hda: Explicitly permit using autosuspend if runtime PM is supported")
+2393e7555b53 ("ALSA: hda: Release resources at error in delayed probe")

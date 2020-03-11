@@ -1,0 +1,5 @@
+51dc562af09d ("s390/vfio-ap: allow hot plug/unplug of AP devices when assigned/unassigned")
+48cae940c31d ("s390/vfio-ap: refresh guest's APCB by filtering AP resources assigned to mdev")
+49b0109fb399 ("s390/vfio-ap: introduce shadow APCB")
+11cb2419fafe ("s390/vfio-ap: manage link between queue struct and matrix mdev")
+260f3ea14138 ("s390/vfio-ap: move probe and remove callbacks to vfio_ap_ops.c")

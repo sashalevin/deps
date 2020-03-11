@@ -1,0 +1,6 @@
+7e2c268dc306 ("scsi: ufs: mcq: Move the ufshcd_mcq_enable() call")
+4a8c859b44da ("scsi: ufs: mcq: Move the "hba->mcq_enabled = true" assignment")
+0fca3318e550 ("scsi: ufs: core: Inline is_mcq_enabled()")
+f4750af7081d ("scsi: ufs: core: Initialize hba->reserved_slot earlier")
+e8a1d87b7983 ("scsi: ufs: mcq: Convert MCQ_CFG_n to an inline function")
+2fc39848952d ("scsi: ufs: mcq: Fix missing argument 'hba' in MCQ_OPR_OFFSET_n")

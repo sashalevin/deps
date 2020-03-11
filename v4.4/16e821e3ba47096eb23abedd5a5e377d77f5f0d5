@@ -1,0 +1,8 @@
+16e821e3ba47 ("mmc: sunxi: Mask DATA0 when updating the clock")
+9a37e53e451e ("mmc: sunxi: Enable the new timings for the A64 MMC controllers")
+e1b8dfd1b1c6 ("mmc: sunxi: add support for A64 mmc controller")
+b465646ef41f ("mmc: sunxi: sun4i / sun5i do not have sample clocks")
+f2cecb70941c ("mmc: sunxi: Factor out clock phase setting code into a helper function")
+86a93317ed71 ("mmc: sunxi: Introduce a sunxi_mmc_cfg struct")
+2a7aa63a2784 ("mmc: sunxi: Support 8 bit eMMC DDR transfer modes")
+2dcb305a9ef0 ("mmc: sunxi: Support MMC_DDR52 timing modes")

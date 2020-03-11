@@ -1,0 +1,8 @@
+6348aafa8d24 ("KVM: VMX: Adjust number of LBR records for PERF_CAPABILITIES at refresh")
+7de8e5b6b139 ("KVM: VMX: Use proper type-safe functions for vCPU => LBRs helpers")
+9389d5774aca ("Revert "KVM: nVMX: Expose load IA32_PERF_GLOBAL_CTRL VM-{Entry,Exit} control"")
+b663f0b5f3d6 ("KVM: VMX: Add helper to check if the guest PMU has PERF_GLOBAL_CTRL")
+3f7999b988bd ("KVM: VMX: Use vcpu_get_perf_capabilities() to get guest-visible value")
+545feb96c052 ("Revert "KVM: x86: always allow host-initiated writes to PMU MSRs"")
+9fc222967a39 ("KVM: x86: Give host userspace full control of MSR_IA32_MISC_ENABLES")
+b9181c8ef356 ("KVM: x86/pmu: Avoid exposing Intel BTS feature")

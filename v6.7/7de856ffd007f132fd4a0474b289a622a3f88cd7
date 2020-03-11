@@ -1,0 +1,7 @@
+7de856ffd007 ("mm: khugepaged: support shmem mTHP collapse")
+43849758fdc9 ("khugepaged: use a folio throughout hpage_collapse_scan_file()")
+8d1e24c0b82d ("khugepaged: use a folio throughout collapse_file()")
+610ff817b981 ("khugepaged: remove hpage from collapse_file()")
+d5ab50b9412c ("khugepaged: convert alloc_charge_hpage to alloc_charge_folio")
+4746f5ce0fa5 ("khugepaged: inline hpage_collapse_alloc_folio()")
+b54d60b18e85 ("mm/khugepaged: use a folio more in collapse_file()")

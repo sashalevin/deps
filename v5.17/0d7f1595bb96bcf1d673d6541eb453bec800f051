@@ -1,0 +1,5 @@
+0d7f1595bb96 ("net/mlx5: DR, Remove hw_ste from mlx5dr_ste to reduce memory")
+597534bd5633 ("net/mlx5: DR, Remove 4 members from mlx5dr_ste_htbl to reduce memory")
+f51bb5179300 ("net/mlx5: DR, Remove num_of_entries byte_size from struct mlx5_dr_icm_chunk")
+5c4f9b6e91e8 ("net/mlx5: DR, Remove icm_addr from mlx5dr_icm_chunk to reduce memory")
+003f4f9acb05 ("net/mlx5: DR, Remove mr_addr rkey from struct mlx5dr_icm_chunk")

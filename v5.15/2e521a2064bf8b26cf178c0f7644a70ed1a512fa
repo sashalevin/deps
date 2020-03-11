@@ -1,0 +1,8 @@
+2e521a2064bf ("exit: add internal include file with helpers")
+eda7e9d409ce ("exit: add kernel_waitid_prepare() helper")
+06a101ca45b2 ("exit: move core of do_wait() into helper")
+9d900d4ea352 ("exit: abstract out should_wake helper for child_wait_callback()")
+d4ccd54d28d3 ("exit: Put an upper limit on how often we can oops")
+05ea0424f0e2 ("exit: Move oops specific logic from do_exit into make_task_dead")
+0e25498f8cd4 ("exit: Add and use make_task_dead.")
+ab2e7f4b46bf ("Merge tag 'for-linus' of git://git.armlinux.org.uk/~rmk/linux-arm")

@@ -1,0 +1,7 @@
+6411e386db0a ("phy: cadence: Sierra: Fix error return code in cdns_sierra_phy_probe()")
+a43f72ae136a ("phy: cadence: Sierra: Change MAX_LANES of Sierra to 16")
+adc4bd6f6545 ("phy: cadence: Sierra: Check for PLL lock during PHY power on")
+871002d78881 ("phy: cadence: Sierra: Configure both lane cdb and common cdb registers for external SSC")
+aead5fd6026d ("phy: cadence: Sierra: Modify register macro names to be in sync with Sierra user guide")
+367da978713b ("phy: cadence: Sierra: Add support for SERDES_16G used in J721E SoC")
+380f57083c12 ("phy: cadence: Sierra: Use "regmap" for read and write to Sierra registers")

@@ -1,0 +1,7 @@
+1ad392add59c ("pd: cleanup initialization")
+3375dca0b542 ("pd: fix a NULL vs IS_ERR() check")
+262d431f9000 ("pd: use blk_mq_alloc_disk and blk_cleanup_disk")
+773008f6fe05 ("Revert "block: unexport DISK_EVENT_MEDIA_CHANGE for legacy/fringe drivers"")
+289d088b6618 ("pd: replace ->special use with private data in the request")
+dbaa54b65e7a ("swim3: add real error handling in setup")
+99fe8b02a825 ("paride: convert pd to blk-mq")

@@ -1,0 +1,8 @@
+06152b2dec3e ("KVM: X86: Remove kvm_mmu_flush_or_zap()")
+bd047e544089 ("KVM: X86: Don't flush current tlb on shadow page modification")
+65855ed8b034 ("KVM: X86: Synchronize the shadow pagetable before link it")
+479a1efc8119 ("KVM: x86/mmu: Drop the intermediate "transient" __kvm_sync_page()")
+07dc4f35a44c ("KVM: x86/mmu: comment on kvm_mmu_get_page's syncing of pages")
+00a669780ffa ("KVM: x86/mmu: Use MMU role to check for matching guest page sizes")
+ddc16abbbae9 ("KVM: x86/mmu: Unconditionally zap unsync SPs when creating >4k SP at GFN")
+b1bd5cba3306 ("KVM: X86: MMU: Use the correct inherited permissions to get shadow page")

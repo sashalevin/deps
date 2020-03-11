@@ -1,0 +1,8 @@
+e8c716bc6812 ("mm/khugepaged: fix regression in collapse_file()")
+a2e17cc2efc7 ("mm/khugepaged: maintain page cache uptodate flag")
+ac492b9c70ca ("mm/khugepaged: skip shmem with userfaultfd")
+cae106dd67b9 ("mm/khugepaged: refactor collapse_file control flow")
+12904d953364 ("mm/khugepaged: recover from poisoned file-backed memory")
+98c76c9f1ef7 ("mm/khugepaged: recover from poisoned anonymous memory")
+2ce0bdfebc74 ("mm: khugepaged: fix kernel BUG in hpage_collapse_scan_file()")
+7cb1d7ef6677 ("mm/khugepaged: cleanup memcg uncharge for failure path")

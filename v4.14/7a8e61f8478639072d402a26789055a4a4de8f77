@@ -1,0 +1,8 @@
+7a8e61f84786 ("timekeeping: Force upper bound for setting CLOCK_REALTIME")
+3eca993740b8 ("timekeeping: Replace read_boot_clock64() with read_persistent_wall_and_boot_offset()")
+6546911ed369 ("time: Move old timekeeping interfaces to timekeeping32.h")
+abc8f96e3eb8 ("time: Move time_t conversion helpers to time32.h")
+5dbf20127f8c ("time: Move time_t based interfaces to time32.h")
+85bf19e7df24 ("time: Remove unused functions")
+1572fa037848 ("timekeeping: Use timespec64 in timekeeping_inject_offset")
+e0956dcc4ba7 ("timekeeping: Consolidate timekeeping_inject_offset code")

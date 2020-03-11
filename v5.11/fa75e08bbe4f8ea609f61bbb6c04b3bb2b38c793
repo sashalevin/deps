@@ -1,0 +1,3 @@
+fa75e08bbe4f ("KVM: x86: Invoke kvm_smm_changed() immediately after clearing SMM flag")
+edce46548b70 ("KVM: x86: Replace .set_hflags() with dedicated .exiting_smm() helper")
+78fcb2c91adf ("KVM: x86: Immediately reset the MMU context when the SMM flag is cleared")

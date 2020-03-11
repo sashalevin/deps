@@ -1,0 +1,8 @@
+4f1938673994 ("parisc: deduplicate code in flush_cache_mm() and flush_cache_range()")
+a5e8ca3783ad ("parisc: disable preemption during local tlb flush")
+4c5fe5db1ac6 ("parisc: Optimze cache flush algorithms")
+9ef0f88fe546 ("parisc: Handle case where flush_cache_range is called with no context")
+0adb24e03a12 ("parisc: Fix ordering of cache and TLB flushes")
+13d57093c141 ("parisc: Handle vma's whose context is not current in flush_cache_range")
+ae7a609c34b6 ("parisc: Prevent TLB speculation on flushed pages on CPUs that only support equivalent aliases")
+316ec0624f95 ("parisc: Optimize flush_kernel_vmap_range and invalidate_kernel_vmap_range")

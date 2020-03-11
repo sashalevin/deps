@@ -1,0 +1,3 @@
+4de8c93a4751 ("mm: handle COW faults under the VMA lock")
+61a4b8d32025 ("mm: move FAULT_FLAG_VMA_LOCK check down from do_fault()")
+ff09d7ec9786 ("mm/memory.c: recheck page table entry with page table lock held")

@@ -1,0 +1,8 @@
+45f30dab3957 ("namei: update do_*() helpers to return ints")
+da2d0cede330 ("namei: make do_symlinkat() take struct filename")
+7797251bb5ab ("namei: make do_mknodat() take struct filename")
+584d3226d665 ("namei: make do_mkdirat() take struct filename")
+0ee50b47532a ("namei: change filename_parentat() calling conventions")
+91ef658fb8b8 ("namei: ignore ERR/NULL names in putname()")
+06422964c882 ("teach set_nameidata() to handle setting the root as well")
+bcba1e7d0d52 ("take LOOKUP_{ROOT,ROOT_GRABBED,JUMPED} out of LOOKUP_... space")

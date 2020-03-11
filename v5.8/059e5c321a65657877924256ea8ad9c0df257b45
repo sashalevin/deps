@@ -1,0 +1,7 @@
+059e5c321a65 ("x86/msr: Rename MSR_K8_SYSCFG to MSR_AMD64_SYSCFG")
+eab696d8e8b9 ("x86/sev: Do not require Hypervisor CPUID bit for SEV guests")
+ed7b895f3efb ("x86/boot/compressed/64: Sanity-check CPUID results in the early #VC handler")
+b57de6cd1639 ("x86/sev-es: Add SEV-ES Feature Detection")
+29dcc60f6a19 ("x86/boot/compressed/64: Add stage1 #VC handler")
+8b0d3b3b41ab ("x86/boot/compressed/64: Add page-fault handler")
+64e682638eb5 ("x86/boot/compressed/64: Add IDT Infrastructure")

@@ -1,0 +1,5 @@
+cc2367eebb0c ("machine: Adopt is_lock_function() from builtin-lock.c")
+c1da8dd5c11d ("perf lock contention: Skip stack trace from BPF")
+96532a83ee8e ("perf lock contention: Allow to change stack depth and skip")
+a6eaf966bce9 ("perf lock contention: Show full callstack with -v option")
+637522ce97b4 ("perf lock contention: Factor out get_symbol_name_offset()")

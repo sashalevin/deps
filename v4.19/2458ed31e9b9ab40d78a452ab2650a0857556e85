@@ -1,0 +1,5 @@
+2458ed31e9b9 ("irqchip/sifive-plic: Set default irq affinity in plic_irqdomain_map()")
+466008f98435 ("irqchip/sifive-plic: Support irq domain hierarchy")
+bb0fed1c60cc ("irqchip/sifive-plic: Switch to fasteoi flow")
+cc9f04f9a84f ("irqchip/sifive-plic: Implement irq_set_affinity() for SMP host")
+86c7cbf1e8d1 ("irqchip/sifive-plic: Pre-compute context hart base and enable base")

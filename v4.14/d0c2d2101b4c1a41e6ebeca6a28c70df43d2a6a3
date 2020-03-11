@@ -1,0 +1,8 @@
+d0c2d2101b4c ("reset: uniphier-glue: Add AHCI reset control support in glue layer")
+3eb8f765f5ae ("reset: uniphier-usb3: Rename to reset-uniphier-glue")
+499fef09a323 ("reset: uniphier: add USB3 core reset control")
+f0e0ada67dfd ("reset: zx2967: use the reset-simple driver")
+0af8a1373613 ("reset: stm32: use the reset-simple driver")
+adf20d7ce7c3 ("reset: socfpga: use the reset-simple driver")
+81c22ad0cc7d ("reset: add reset-simple to unify socfpga, stm32, sunxi, and zx2967")
+db21f9cfd5ad ("reset: socfpga: build the reset-socfpga for Stratix10 SOC")

@@ -1,0 +1,7 @@
+1f43f400a2cb ("net: netcp: Fix ethss driver probe issue")
+21c328dcecfc ("net: ethernet: Convert to using %pOFn instead of device_node.name")
+cfbcb61f6c2a ("mv643xx_eth: fix of_irq_to_resource() error check")
+11a9ec43302f ("net: netcp: fix spelling mistake: "memomry" -> "memory"")
+1e515b7fdbae ("net: ethernet: mediatek: use devm_mdiobus_alloc instead of mdiobus_alloc inside mtk_mdio_init")
+b5776f01bf1f ("net: ethernet: mediatek: fix the missing of_node_put() after node is used done inside mtk_mdio_init")
+1578b0a5e928 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

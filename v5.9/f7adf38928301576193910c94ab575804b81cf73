@@ -1,0 +1,7 @@
+f7adf3892830 ("virtio_ring: make vring_alloc_queue_packed prettier")
+6b60b9c008e5 ("virtio_ring: packed: extract the logic of alloc queue")
+6356f8bb01dd ("virtio_ring: packed: introduce vring_free_packed")
+5a2224216020 ("virtio-ring: factor out desc_extra allocation")
+1f28750f2e11 ("virtio_ring: rename vring_desc_extra_packed")
+aeef9b4733c5 ("virtio-ring: maintain next in extra state for packed virtqueue")
+ae93d8ea0fa7 ("virtio_ring: Cut and paste bugs in vring_create_virtqueue_packed()")

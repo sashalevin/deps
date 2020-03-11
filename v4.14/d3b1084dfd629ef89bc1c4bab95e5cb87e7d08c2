@@ -1,0 +1,8 @@
+d3b1084dfd62 ("vfs: make open_with_fake_path() not contribute to nr_files")
+2abc77af89e1 ("new helper: open_with_fake_path()")
+ea73ea727988 ("pass ->f_flags value to alloc_empty_file()")
+6de37b6dc085 ("pass creds to get_empty_filp(), make sure dentry_open() passes the right creds")
+19f391eb05b8 ("turn filp_clone_open() into inline wrapper for dentry_open()")
+e8cff84faa4d ("fold security_file_free() into file_free()")
+b4e7a7a88b5d ("drm_mode_create_lease_ioctl(): fix open-coded filp_clone_open()")
+7a88cbd8d65d ("Backmerge tag 'v4.14-rc7' into drm-next")

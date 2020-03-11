@@ -1,0 +1,4 @@
+5e07e672412b ("tcp: Use bhash2 for v4-mapped-v6 non-wildcard address.")
+d9ba99342855 ("tcp: Fix bind() conflict check for dual-stack wildcard address.")
+5456262d2baa ("net: Fix incorrect address comparison when searching for a bind2 bucket")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")

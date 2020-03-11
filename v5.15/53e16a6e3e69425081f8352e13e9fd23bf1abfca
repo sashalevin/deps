@@ -1,0 +1,8 @@
+53e16a6e3e69 ("platform/x86: thinkpad_acpi: Enable s2idle quirk for 21A1 machine type")
+455cd867b85b ("platform/x86: thinkpad_acpi: Add a s2idle resume quirk for a number of laptops")
+c25d7f32e3e2 ("platform/x86: thinkpad_acpi: Convert btusb DMI list to quirks")
+526ac103dbc6 ("platform/x86: thinkpad_acpi: Fix the hwmon sysfs-attr showing up in the wrong place")
+5cd689683eb0 ("platform/x86: thinkpad_acpi: tpacpi_attr_group contains driver attributes not device attrs")
+2f5ad08f3eec ("platform/x86: thinkpad_acpi: Register tpacpi_pdriver after subdriver init")
+79f960e29cfc ("platform/x86: thinkpad_acpi: Convert platform driver to use dev_groups")
+c99ca78d67a6 ("platform/x86: thinkpad_acpi: Switch to common use of attributes")

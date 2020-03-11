@@ -1,0 +1,6 @@
+50ec499b9a43 ("sysctl: allow change system v ipc sysctls inside ipc namespace")
+0889f44e2810 ("ipc: Check permissions for checkpoint_restart sysctls at open time")
+1f5c135ee509 ("ipc: Store ipc sysctls in the ipc namespace")
+dc55e35f9e81 ("ipc: Store mqueue sysctls in the ipc namespace")
+0e9beb8a96f2 ("ipc/ipc_sysctl.c: remove fallback for !CONFIG_PROC_SYSCTL")
+5563cabdde7e ("ipc: check checkpoint_restore_ns_capable() to modify C/R proc files")

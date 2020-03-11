@@ -1,0 +1,5 @@
+f52c8fba984c ("rfkill: return ENOTTY on invalid ioctl")
+54f586a91532 ("rfkill: make new event layout opt-in")
+71826654ce40 ("rfkill: revert back to old userspace API by default")
+14486c82612a ("rfkill: add a reason to the HW rfkill state")
+1832f2d8ff69 ("compat_ioctl: move more drivers to compat_ptr_ioctl")

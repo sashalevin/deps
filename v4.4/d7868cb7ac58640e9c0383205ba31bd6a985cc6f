@@ -1,0 +1,5 @@
+d7868cb7ac58 ("gpu: ipu-v3: ipu-dmfc: Use static DMFC FIFO allocation mechanism")
+6bcaf0c58191 ("drm/imx: ipuv3-plane: Configure DMFC wait4eot bit after slots are determined")
+27630c206bb0 ("gpu: ipu-v3: ipu-dmfc: Rename ipu_dmfc_init_channel to ipu_dmfc_config_wait4eot")
+2bbe32f7398c ("gpu: ipu-v3: ipu-dmfc: Make function ipu_dmfc_init_channel() return void")
+32c26a56af3a ("gpu: ipu-v3: ipu-dmfc: Protect function ipu_dmfc_init_channel() with mutex")

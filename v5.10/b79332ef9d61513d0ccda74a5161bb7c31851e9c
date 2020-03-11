@@ -1,0 +1,4 @@
+b79332ef9d61 ("spi: Fix condition in the __spi_register_driver()")
+3f07657506df ("spi: deduplicate spi_match_id() in __spi_register_driver()")
+5fa6863ba692 ("spi: Check we have a spi_device_id for each DT compatible")
+9db34ee64ce4 ("spi: Use bus_type functions for probe, remove and shutdown")

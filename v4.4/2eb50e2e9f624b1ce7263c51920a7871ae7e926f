@@ -1,0 +1,7 @@
+2eb50e2e9f62 ("ia64/signal: switch to generic struct siginfo")
+7994200ce69a ("ia64: Remove HAVE_ARCH_COPY_SIGINFO")
+e6d930b4e011 ("signals: Prepare to split out <linux/signal_types.h> from <linux/signal.h>")
+ca9eb49aa956 ("SIGNAL: Move generic copy_siginfo() to signal.h")
+49cd53bf14ae ("mm/pkeys: Fix siginfo ABI breakage caused by new u64 field")
+cd0ea35ff551 ("signals, pkeys: Notify userspace about protection key faults")
+b376cd0256f8 ("signals, ia64, mips: Update arch-specific siginfos with pkeys field")

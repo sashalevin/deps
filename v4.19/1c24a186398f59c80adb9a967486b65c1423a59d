@@ -1,0 +1,5 @@
+1c24a186398f ("fs: fd tables have to be multiples of BITS_PER_LONG")
+60997c3d45d9 ("close_range: add CLOSE_RANGE_UNSHARE")
+278a5fbaed89 ("open: add close_range()")
+80cd795630d6 ("binder: fix use-after-free due to ksys_close() during fdget()")
+44d8047f1d87 ("binder: use standard functions to allocate fds")

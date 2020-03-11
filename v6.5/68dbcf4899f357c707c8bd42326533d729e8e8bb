@@ -1,0 +1,6 @@
+68dbcf4899f3 ("mm: alloc_anon_folio: avoid doing vma_thp_gfp_mask in fallback cases")
+19eaf44954df ("mm: thp: support allocation of anonymous multi-size THP")
+3485b88390b0 ("mm: thp: introduce multi-size THP sysfs interface")
+7a81751fcdeb ("mm/thp: fix "mm: thp: kill __transhuge_page_enabled()"")
+5003a2bdf688 ("mm: call update_mmu_cache_range() in more page fault handling paths")
+daa60ae64c65 ("mm,thp: fix smaps THPeligible output alignment")

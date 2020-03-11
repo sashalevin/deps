@@ -1,0 +1,7 @@
+e289df82344f ("spi: Rework per message DMA mapped flag to be per transfer")
+0535cf64e4b1 ("spi: Introduce internal spi_xfer_is_dma_mapped() helper")
+9dedabe95b49 ("spi: Assign dummy scatterlist to unidirectional transfers")
+da560097c056 ("spi: Check if transfer is mapped before calling DMA sync APIs")
+8cc3bad9d9d6 ("spi: Remove unneded check for orig_nents")
+14fe5a98fb24 ("spi: Fix types of the last chip select storage variables")
+4d8ff6b0991d ("spi: Add multi-cs memories support in SPI core")

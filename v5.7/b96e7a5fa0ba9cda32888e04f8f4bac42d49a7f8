@@ -1,0 +1,4 @@
+b96e7a5fa0ba ("rcu/tree: Defer setting of jiffies during stall reset")
+2431774f04d1 ("rcu: Mark accesses to rcu_state.n_force_qs")
+a80be428fbc1 ("rcu: Do not disable GP stall detection in rcu_cpu_stall_reset()")
+6be7436d2245 ("rcu: Add rcu_gp_might_be_stalled()")

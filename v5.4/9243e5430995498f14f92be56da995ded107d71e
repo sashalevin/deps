@@ -1,0 +1,8 @@
+9243e5430995 ("tracefs/eventfs: Use list_for_each_srcu() in dcache_dir_open_wrapper()")
+63940449555e ("eventfs: Implement eventfs lookup, read, open functions")
+88f349b4a83a ("eventfs: Implement eventfs file add functions")
+c1504e510238 ("eventfs: Implement eventfs dir creation functions")
+2c6b6b1029d4 ("tracefs: Rename and export some tracefs functions")
+ba37ff75e04b ("eventfs: Implement tracefs_inode_cache")
+ee34c52c7115 ("tracefs: Use d_inode() helper function to get the dentry inode")
+a3d1e7eb5abe ("simple_recursive_removal(): kernel-side rm -rf for ramfs-style filesystems")

@@ -1,0 +1,8 @@
+410db103f6eb ("KVM: arm64: Make idregs debugfs iterator search sysreg table directly")
+891766581dea ("KVM: arm64: Add debugfs file for guest's ID registers")
+cc5f84fbb008 ("KVM: arm64: Use the xarray as the primary sysreg/sysinsn walker")
+19f3e7ea29f8 ("KVM: arm64: Register AArch64 system register entries with the sysreg xarray")
+7fd498f473f1 ("KVM: arm64: Always populate the trap configuration xarray")
+89bc63fabc8a ("KVM: arm64: nv: Move system instructions to their own sys_reg_desc array")
+3606e0b2e462 ("KVM: arm64: nv: Add non-VHE-EL2->EL1 translation helpers")
+123f42f0ad68 ("Merge branch kvm-arm64/pmu_pmcr_n into kvmarm/next")

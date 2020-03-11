@@ -1,0 +1,8 @@
+d6f11e7d91f2 ("mmc: sunxi: Filter out unsupported modes declared in the device tree")
+eef797ac13c0 ("mmc: sunxi: Drop the init / reset of the controller from set_ios")
+9a8e1e8cc2c0 ("mmc: sunxi: Add runtime_pm support")
+e27e1f3d0406 ("mmc: sunxi: Move the card power configuration to a function")
+ad04d9555da0 ("mmc: sunxi: Move clock configuration to a function")
+3f6c808e5247 ("mmc: sunxi: Move bus width configuration to a function")
+0fc4c61fff02 ("mmc: sunxi: Change sunxi_mmc_init_host argument type")
+743b819e4178 ("mmc: sunxi: Reorder the headers")

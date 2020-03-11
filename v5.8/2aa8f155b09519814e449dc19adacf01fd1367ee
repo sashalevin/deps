@@ -1,0 +1,5 @@
+2aa8f155b095 ("net: ipv6/addrconf: ensure that regen_advance is at least 2 seconds")
+8cdafdd94654 ("Revert "net: ipv6/addrconf: clamp preferred_lft to the minimum required"")
+ec575f885e3e ("Documentation: networking: explain what happens if temp_prefered_lft is too small or too large")
+433d6c8048cb ("Documentation: networking: explain what happens if temp_valid_lft is too small")
+778964f2fdf0 ("ipv6/addrconf: fix timing bug in tempaddr regen")

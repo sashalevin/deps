@@ -1,0 +1,8 @@
+dde3979bb345 ("libbpf: Use local includes inside the library")
+6f5d467d55f0 ("libbpf: improve BPF_KPROBE_SYSCALL macro and rename it to BPF_KSYSCALL")
+55d00c37ebc3 ("libbpf: generalize virtual __kconfig externs and use it for USDT")
+d72e2968fb25 ("libbpf: Add BPF-side of USDT support")
+85153ac06283 ("libbpf: Add libbpf_kallsyms_parse function")
+816ae1095547 ("libbpf: Add BPF_KPROBE_SYSCALL macro")
+1f22a6f9f9a0 ("libbpf: Fix accessing the first syscall argument on s390")
+fbca4a2f6497 ("libbpf: Fix accessing the first syscall argument on arm64")

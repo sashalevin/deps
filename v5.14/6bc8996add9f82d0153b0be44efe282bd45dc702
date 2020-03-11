@@ -1,0 +1,5 @@
+6bc8996add9f ("locking/rtmutex: Provide rt_mutex_base_is_locked()")
+830e6acc8a1c ("locking/rtmutex: Split out the inner parts of 'struct rtmutex'")
+531ae4b06a73 ("locking/rtmutex: Split API from implementation")
+785159301bed ("locking/rtmutex: Convert macros to inlines")
+b41cda037655 ("locking/rtmutex: Set proper wait context for lockdep")

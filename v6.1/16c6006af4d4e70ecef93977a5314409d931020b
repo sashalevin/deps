@@ -1,0 +1,6 @@
+16c6006af4d4 ("kexec: enable kexec_crash_size to support two crash kernel regions")
+5b7bfb32cbaa ("kexec: add helper __crash_shrink_memory()")
+8a7db7790a3f ("kexec: improve the readability of crash_shrink_memory()")
+f7f567b95b12 ("kexec: clear crashk_res if all its memory has been released")
+6f22a744f4ee ("kexec: delete a useless check in crash_shrink_memory()")
+1cba6c4309f0 ("kexec: fix a memory leak in crash_shrink_memory()")

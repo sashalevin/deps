@@ -1,0 +1,5 @@
+5ee6cfdd11aa ("audit: remove redundant data_len check")
+756125289285 ("audit: always check the netlink payload length in audit_receive_msg()")
+626abcd13d4e ("audit: add syscall information to CONFIG_CHANGE records")
+53fc7a01df51 ("audit: give a clue what CONFIG_CHANGE op was involved")
+a2c97da11cdb ("audit: use session_info helper")

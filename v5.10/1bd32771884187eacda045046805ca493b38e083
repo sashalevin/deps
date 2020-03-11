@@ -1,0 +1,3 @@
+1bd327718841 ("r8169: don't use pci_irq_vector() in atomic context")
+cc9f07a838c4 ("r8169: fix WoL on shutdown if CONFIG_DEBUG_SHIRQ is set")
+870f531e178e ("r8169: set IRQF_NO_THREAD if MSI(X) is enabled")

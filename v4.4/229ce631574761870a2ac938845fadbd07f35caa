@@ -1,0 +1,5 @@
+229ce6315747 ("locking/pvqspinlock: Fix double hash race")
+cd0272fab785 ("locking/pvqspinlock: Queue node adaptive spinning")
+1c4941fd53af ("locking/pvqspinlock: Allow limited lock stealing")
+45e898b73562 ("locking/pvqspinlock: Collect slowpath lock statistics")
+b3e0b1b6d841 ("locking, sched: Introduce smp_cond_acquire() and use it")

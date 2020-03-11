@@ -1,0 +1,8 @@
+10a797c6e54a ("PCI: dwc: keystone: Use pci_ops for config space accessors")
+552549386624 ("PCI: designware: Use pci_is_root_bus() to check if bus is root bus")
+6a589900d050 ("PCI: Set default bridge parent device")
+56d292348470 ("PCI: rcar: Use pci_host_probe() to register host")
+e63434f4cc0d ("PCI: host-common: Use struct pci_host_bridge.windows list directly")
+c322fa0b3fa9 ("PCI: mvebu: Use struct pci_host_bridge.windows list directly")
+24344226f66b ("PCI: cadence: Use struct pci_host_bridge.windows list directly")
+3925c3bbdf88 ("Merge tag 'pci-v5.8-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

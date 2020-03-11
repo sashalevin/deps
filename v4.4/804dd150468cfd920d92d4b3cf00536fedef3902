@@ -1,0 +1,8 @@
+804dd150468c ("soft_dirty: fix soft_dirty during THP split")
+baa355fd3314 ("thp: file pages support for split_huge_page()")
+d21b9e57c74c ("thp: handle file pages in split_huge_pmd()")
+dd78fedde4b9 ("rmap: support file thp")
+33f4751e9960 ("mm: thp: move pmd check inside ptl for freeze_page()")
+d5ee7c3bcca6 ("mm: thp: split_huge_pmd_address() comment improvement")
+0139aa7b7fa1 ("mm: rename _count, field of the struct page, to _refcount")
+909b27f70643 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

@@ -1,0 +1,5 @@
+a4b35d4d05b9 ("integrity: Annotate struct ima_rule_opt_list with __counted_by")
+176377d97d6a ("ima: Pre-parse the list of keyrings in a KEY_CHECK rule")
+30031b0ec8ae ("ima: Move comprehensive rule validation checks out of the token parser")
+712183437ebe ("ima: Fail rule parsing when buffer hook functions have an invalid action")
+465aee77aae8 ("ima: Free the entire rule when deleting a list of rules")

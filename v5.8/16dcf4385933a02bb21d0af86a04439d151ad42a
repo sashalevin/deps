@@ -1,0 +1,6 @@
+16dcf4385933 ("x86/fpu: Rename fxregs-related copy functions")
+b16313f71c10 ("x86/fpu: Rename copy_xregs_to_kernel() and copy_kernel_to_xregs()")
+1f3171252dc5 ("x86/fpu: Get rid of copy_supervisor_to_kernel()")
+f9dfb5e390fa ("x86/fpu: Make init_fpstate correct with optimized XSAVE")
+50f408d96d4d ("x86/fpu/xstate: Add helpers for LBR dynamic supervisor feature")
+a063bf249b9f ("x86/fpu: Use proper mask to replace full instruction mask")

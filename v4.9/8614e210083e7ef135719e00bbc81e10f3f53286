@@ -1,0 +1,7 @@
+8614e210083e ("pwm: stm32-lp: Simplify using devm_pwmchip_add()")
+d44084c93427 ("pwm: stm32-lp: Don't modify HW state in .remove() callback")
+cce4a833fc6d ("pwm: stm32-lp: Add power management support")
+2c2059c0b85d ("pwm: stm32-lp: Remove useless loop in stm32_pwm_lp_remove()")
+f83e2ae2606b ("pwm: stm32-lp: Remove pwm_is_enabled() check before calling pwm_disable()")
+e70a540b4e02 ("pwm: Add STM32 LPTimer PWM driver")
+7edf7369205b ("pwm: Add driver for STM32 plaftorm")

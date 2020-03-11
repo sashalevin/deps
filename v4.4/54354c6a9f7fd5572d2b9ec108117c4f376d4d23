@@ -1,0 +1,7 @@
+54354c6a9f7f ("Revert "proc/wchan: use printk format instead of lookup_symbol_name()"")
+152c432b128c ("proc/wchan: use printk format instead of lookup_symbol_name()")
+21dae0ad07e6 ("proc: use set_puts() at /proc/*/wchan")
+24b2ec21192c ("proc: check permissions earlier for /proc/*/wchan")
+1e92a61c4c7e ("Revert "proc/base: make prompt shell start from new line after executing "cat /proc/$pid/wchan""")
+7e2bc81da333 ("proc/base: make prompt shell start from new line after executing "cat /proc/$pid/wchan"")
+caaee6234d05 ("ptrace: use fsuid, fsgid, effective creds for fs access checks")

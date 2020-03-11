@@ -1,0 +1,8 @@
+415e4723c432 ("ubi: fastmap: Remove unneeded break condition while filling pools")
+8ff4e620ac93 ("ubi: fastmap: Use free pebs reserved for bad block handling")
+d09e9a2bddba ("ubi: fastmap: Fix high cpu usage of ubi_bgt by making sure wl_pool not empty")
+3b185255bb2f ("ubi: fastmap: Don't produce the initial next anchor PEB when fastmap is disabled")
+4b68bf9a69d2 ("ubi: Select fastmap anchor PEBs considering wear level rules")
+c16f39d14a7e ("ubi: fastmap: Free unused fastmap anchor peb during detach")
+f9c34bb52997 ("ubi: Fix producing anchor PEBs")
+889027bca233 ("ubi: Fastmap: Fix typo")

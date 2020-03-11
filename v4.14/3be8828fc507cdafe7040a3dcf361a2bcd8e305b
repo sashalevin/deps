@@ -1,0 +1,4 @@
+3be8828fc507 ("scsi: core: Avoid that ATA error handling can trigger a kernel hang or oops")
+3bd6f43f5cb3 ("scsi: core: Ensure that the SCSI error handler gets woken up")
+826a70a08b12 ("SCSI: don't get target/host busy_count in scsi_mq_get_budget()")
+0df21c86bdbf ("scsi: implement .get_budget and .put_budget for blk-mq")

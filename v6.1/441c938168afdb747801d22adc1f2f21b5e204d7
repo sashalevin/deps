@@ -1,0 +1,6 @@
+441c938168af ("tty: vt: replace BUG_ON() by WARN_ON_ONCE()")
+feb36abbedea ("tty: vt: remove struct uni_screen")
+0c8414a68272 ("tty: vt: remove char32_t typedef")
+4ba77bfbad9e ("tty: vt: use sizeof(*variable) where possible")
+3b140fbbbb18 ("tty: vt: drop get_vc_uniscr()")
+3831c2a454a1 ("tty: vt: remove vc_uniscr_debug_check()")

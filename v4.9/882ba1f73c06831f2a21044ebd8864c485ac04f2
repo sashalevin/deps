@@ -1,0 +1,8 @@
+882ba1f73c06 ("mld: convert ipv6_mc_socklist->sflist to RCU")
+931ca7ab7fe8 ("ip*_mc_gsfget(): lift copyout of struct group_filter into callers")
+0fa39d6dd047 ("ipv6: Replace zero-length array with flexible-array")
+14105c191e09 ("ipv6: shrink struct ipv6_mc_socklist")
+dc012f3628ea ("ipv6: mcast: fix a use-after-free in inet6_mc_check")
+c7ea20c9da5b ("ipv6/mcast: init as INCLUDE when join SSM INCLUDE group")
+60d9b0314124 ("net: ipv4: add second dif to multicast source filter")
+1666d49e1d41 ("mld: do not remove mld souce list info when set link down")

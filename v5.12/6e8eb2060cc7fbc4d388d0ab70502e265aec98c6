@@ -1,0 +1,4 @@
+6e8eb2060cc7 ("KVM: x86/mmu: fast_page_fault support for the TDP MMU")
+76cd325ea75b ("KVM: x86/mmu: Rename cr2_or_gpa to gpa in fast_page_fault")
+0b873fd7fb53 ("KVM: x86/mmu: Remove redundant is_tdp_mmu_enabled check")
+ec89e6438671 ("KVM: x86/mmu: Bail from fast_page_fault() if SPTE is not shadow-present")

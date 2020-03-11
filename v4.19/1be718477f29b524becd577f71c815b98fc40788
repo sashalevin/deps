@@ -1,0 +1,8 @@
+1be718477f29 ("media: amphion: Stop direct calls to queue num_buffers field")
+e03bcb289891 ("media: amphion: Use vb2_get_buffer() instead of directly access to buffers array")
+afba6e20801a ("media: amphion: defer setting last_buffer_dequeued until resolution changes are processed")
+a3a2efca36a3 ("media: amphion: return error if format is unsupported by vpu")
+145e936380ed ("media: amphion: implement malone decoder rpc interface")
+6de8d628df6e ("media: amphion: add v4l2 m2m vpu decoder stateful driver")
+3cd084519c6f ("media: amphion: add vpu v4l2 m2m support")
+9f599f351e86 ("media: amphion: add vpu core driver")

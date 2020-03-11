@@ -1,0 +1,6 @@
+53eaa14b62d2 ("userfaultfd: remove unnecessary WARN_ON() in __mcopy_atomic_hugetlb()")
+4fb07ee65102 ("userfaultfd: use vma_pagesize for all huge page size calculation")
+810a56b943e2 ("userfaultfd: hugetlbfs: fix __mcopy_atomic_hugetlb retry/error processing")
+60d4d2d2b40e ("userfaultfd: hugetlbfs: add __mcopy_atomic_hugetlb for huge page UFFDIO_COPY")
+8fb5debc5fcd ("userfaultfd: hugetlbfs: add hugetlb_mcopy_atomic_pte for userfaultfd support")
+fa4d75c1de13 ("userfaultfd: hugetlbfs: add copy_huge_page_from_user for hugetlb userfaultfd support")

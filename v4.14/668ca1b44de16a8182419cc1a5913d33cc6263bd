@@ -1,0 +1,7 @@
+668ca1b44de1 ("drm/amdgpu:don't change ctx->reset_couner upon query")
+e55f2b646df3 ("drm/amdgpu: move the VRAM lost counter per context")
+14e47f93c5cc ("drm/amdgpu: keep copy of VRAM lost counter in job")
+396bcb41e035 ("drm/amdgpu: partial revert VRAM lost handling v2")
+c23be4ae1d50 ("drm/amdgpu: add plumbing for ctx priority changes v2")
+7ca24cf2d226 ("drm/amdgpu: add FENCE_TO_HANDLE ioctl that returns syncobj or sync_file")
+fd8bf087dffc ("drm/amdgpu: bump version for support of local BOs")

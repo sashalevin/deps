@@ -1,0 +1,7 @@
+cb92148b58a4 ("PCI: Add pci_set_vpd_size() to set VPD size")
+f1cd93f9aabe ("PCI: Rename VPD symbols to remove unnecessary "pci22"")
+da006847231b ("PCI: Remove struct pci_vpd_ops.release function pointer")
+64379079a9e3 ("PCI: Move pci_vpd_release() from header file to pci/access.c")
+fc0a407e9eb8 ("PCI: Move pci_read_vpd() and pci_write_vpd() close to other VPD code")
+104daa71b396 ("PCI: Determine actual VPD size on first access")
+c5563887a969 ("PCI: Use bitfield instead of bool for struct pci_vpd_pci22.busy")

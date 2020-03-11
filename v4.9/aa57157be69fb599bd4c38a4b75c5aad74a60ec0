@@ -1,0 +1,6 @@
+aa57157be69f ("arm64: Ensure VM_WRITE|VM_SHARED ptes are clean by default")
+e046eb0c9bf2 ("arm64: mm: Use non-global mappings for kernel space")
+73e86cb03cf2 ("arm64: Move PTE_RDONLY bit handling out of set_pte_at()")
+3bbf7157ac66 ("arm64: Convert pte handling from inline asm to using (cmp)xchg")
+6d332747fa5f ("arm64: Fix potential race with hardware DBM in ptep_set_access_flags()")
+ec663d967b22 ("arm64: Improve detection of user/non-user mappings in set_pte(_at)")

@@ -1,0 +1,8 @@
+65db949667b0 ("ALSA: emu10k1: improve cache behavior documentation")
+5b1cd21f0f05 ("ALSA: emu10k1: fix PCM playback cache and interrupt handling")
+be3b7629e13a ("ALSA: emu10k1: remove pointless displacement of the extra voices")
+1e5323bd7725 ("Revert "ALSA: emu10k1 - delay the PCM interrupts (add pcm_irq_delay parameter)"")
+77e067d0fa05 ("ALSA: emu10k1: skip needless setting of some voice registers")
+35a60d1edff4 ("ALSA: emu10k1: rewire {en,dis}abling interrupts for PCM playback")
+a61c695aee87 ("ALSA: emu10k1: remove useless resets of stop-on-loop-end bits")
+94dabafea04e ("ALSA: emu10k1: cleanup envelope register init")

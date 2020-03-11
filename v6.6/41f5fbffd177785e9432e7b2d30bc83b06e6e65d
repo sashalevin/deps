@@ -1,0 +1,8 @@
+41f5fbffd177 ("net: ethernet: fs_enet: phylink conversion")
+c614acf6e8e1 ("net: ethernet: fs_enet: simplify clock handling with devm accessors")
+21c6321459aa ("net: ethernet: fs_enet: use macros for speed and duplex values")
+6b576b2d4430 ("net: ethernet: fs_enet: drop unused phy_info and mii_if_info")
+aa3672be731d ("net: ethernet: fs_enet: only protect the .restart() call in .adjust_link")
+96bf0c4e9f48 ("net: ethernet: fs_enet: drop the .adjust_link custom fs_ops")
+2b29ac68e786 ("net: ethernet: fs_enet: cosmetic cleanups")
+b0377116decd ("net: ethernet: Use device_get_match_data()")

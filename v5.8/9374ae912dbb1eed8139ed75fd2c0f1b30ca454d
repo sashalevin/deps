@@ -1,0 +1,6 @@
+9374ae912dbb ("mmc: mtk-sd: receive cmd8 data when hs400 tuning fail")
+b98e7e8daf0e ("mmc: Avoid open coding by using mmc_op_tuning()")
+9f0d3cc23842 ("mmc: dw_mmc: Avoid hung state if GEN_CMD transfer fails")
+c4ac38c6539b ("mmc: mtk-sd: Add HS400 online tuning support")
+f4ff24f8a7c1 ("mmc: sdhci: Correct the tuning command handle for PIO mode")
+7b7d897e8898 ("mmc: sdhci-pci-o2micro: Add HW tuning for SDR104 mode")

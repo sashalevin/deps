@@ -1,0 +1,4 @@
+fc12d4bb3227 ("spi: Replace spi_pcpu_stats_totalize() macro by a C function")
+93cc2559d3fd ("spi: Remove the obsolte u64_stats_fetch_*_irq() users.")
+6598b91b5ac3 ("spi: spi.c: Convert statistics to per-cpu u64_stats_t")
+043786303b17 ("spi: use sysfs_emit() for printing statistics and add trailing newline")

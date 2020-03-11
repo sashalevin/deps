@@ -1,0 +1,7 @@
+8116b54e7e23 ("ipc/sem.c: document and update memory barriers")
+f075faa300ac ("ipc/sem.c: prevent queue.status tearing in semop")
+9de5ab8a2eee ("ipc/sem: add hysteresis")
+27d7be1801a4 ("ipc/sem.c: avoid using spin_unlock_wait()")
+370b262c896e ("ipc/sem: avoid idr tree lookup for interrupted semop")
+b5fa01a22e4b ("ipc/sem: simplify wait-wake loop")
+9ae949fa382b ("ipc/sem: rework task wakeups")

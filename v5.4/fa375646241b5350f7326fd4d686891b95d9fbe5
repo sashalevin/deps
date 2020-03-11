@@ -1,0 +1,5 @@
+fa375646241b ("dm thin: disable discards for thin-pool if no_discard_passdown")
+ef6953fb68fe ("dm thin: update .io_hints methods to not require handling discards last")
+e2dd8aca2d76 ("dm bio prison v1: improve concurrent IO performance")
+873937e75f9a ("dm thin: don't allow changing data device during thin-pool reload")
+235bc8616060 ("dm bio prison: replace spin_lock_irqsave with spin_lock_irq")

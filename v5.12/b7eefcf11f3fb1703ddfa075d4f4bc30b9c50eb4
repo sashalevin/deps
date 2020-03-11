@@ -1,0 +1,7 @@
+b7eefcf11f3f ("scsi: core: Add a device_configure method to the host template")
+693a1e8cbe12 ("scsi: core: Use the atomic queue limits API in scsi_add_lun()")
+edb854a3680b ("scsi: core: Reallocate device's budget map on queue depth change")
+020b0f0a3192 ("scsi: core: Replace sdev->device_busy with sbitmap")
+ca4453213951 ("scsi: core: Make sure sdev->queue_depth is <= max(shost->can_queue, 1024)")
+8278807abd33 ("scsi: core: Add scsi_device_busy() wrapper")
+2a5a24aa8338 ("scsi: blk-mq: Return budget token from .get_budget callback")

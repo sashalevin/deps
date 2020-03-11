@@ -1,0 +1,7 @@
+e39acc37db34 ("clocksource: hyper-v: Provide noinstr sched_clock()")
+9397fa2ea3e7 ("clocksource: hyper-v: Adjust hv_read_tsc_page_tsc() to avoid special casing U64_MAX")
+77750f78b0b3 ("x86/vdso: Fix gettimeofday masking")
+faff44069ff5 ("x86/hyperv: Add Write/Read MSR registers via ghcb page")
+810a52126502 ("x86/hyperv: Add new hvcall guest address host visibility support")
+0cc4f6d9f0b9 ("x86/hyperv: Initialize GHCB page in Isolation VM")
+e9d1d2bb75b2 ("treewide: Replace the use of mem_encrypt_active() with cc_platform_has()")

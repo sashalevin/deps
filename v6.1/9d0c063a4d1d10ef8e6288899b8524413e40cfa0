@@ -1,0 +1,6 @@
+9d0c063a4d1d ("KVM: arm64: Instantiate pKVM hypervisor VM and vCPU structures from EL1")
+a1ec5c70d3f6 ("KVM: arm64: Add infrastructure to create and track pKVM instances at EL2")
+9926cfce8dcb ("KVM: arm64: Add helpers to pin memory shared with the hypervisor at EL2")
+1ed5c24c26f4 ("KVM: arm64: Implement do_donate() helper for donating memory")
+8e6bcc3a4502 ("KVM: arm64: Back the hypervisor 'struct hyp_page' array for all memory")
+0f4f7ae10ee4 ("KVM: arm64: Move hyp refcount manipulation helpers to common header file")

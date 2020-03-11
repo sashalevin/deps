@@ -1,0 +1,8 @@
+fe49789fab97 ("drm/i915: Deconstruct execute fence")
+541ca6ed79f0 ("drm/i915: Inline __i915_gem_request_wait_for_execute()")
+7de53bf7e6f3 ("drm/i915: Add ourselves to the gpu error waitqueue for the entire wait")
+4b36b2e50677 ("drm/i915: Use a local to shorten req->i915->gpu_error.wait_queue")
+354d036fcf70 ("drm/i915/tracepoints: Add request submit and execute tracepoints")
+953c7f82eb89 ("drm/i915: Provide a hook for selftests")
+969bb72cbfd9 ("drm/i915: Check for timeout completion when waiting for the rq to submitted")
+a402eae64d0a ("Merge tag 'v4.10-rc2' into drm-intel-next-queued")

@@ -1,0 +1,7 @@
+33597f0c48be ("xhci: increase usb U3 -> U0 link resume timeout from 100ms to 500ms")
+8aaf19b8ec78 ("xhci: Make debug message consistent with bus and port number")
+0200b9f790b0 ("xhci: Wait until link state trainsits to U0 after setting USB_SS_PORT_LS_U0")
+eb002726fac7 ("xhci: Ensure link state is U3 after setting USB_SS_PORT_LS_U3")
+d92f2c59cc2c ("xhci: Don't let USB3 ports stuck in polling state prevent suspend")
+6cbcf596934c ("xhci: Fix port resume done detection for SS ports with LPM enabled")
+cd6a22310ec2 ("Merge USB 4.20-rc8 mergepoint into usb-next")

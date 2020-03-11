@@ -1,0 +1,7 @@
+81b4b56d4f81 ("KVM: VMX: avoid running vmx_handle_exit_irqoff in case of emulation")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+02f1965ff83b ("KVM: nVMX: Read EXIT_QUAL and INTR_INFO only when needed for nested exit")
+cc167bd7ee99 ("KVM: x86: Use common definition for kvm_nested_vmexit tracepoint")
+235ba74f008d ("KVM: x86: Add intr/vectoring info and error code to kvm_exit tracepoint")
+f315f2b14015 ("KVM: VMX: Add a helper to test for a valid error code given an intr info")
+a9d7d76c66ed ("KVM: x86: Read guest RIP from within the kvm_nested_vmexit tracepoint")

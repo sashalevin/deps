@@ -1,0 +1,5 @@
+49b0638502da ("mm: enable page walking API to lock vmas during the walk")
+6c21e066f925 ("mm/mempolicy: Take VMA lock before replacing policy")
+24139c07f413 ("mm/ksm: unmerge and clear VM_MERGEABLE when setting PR_SET_MEMORY_MERGE=0")
+d7597f59d1d3 ("mm: add new api to enable ksm per process")
+ddc65971bb67 ("prctl: add PR_GET_AUXV to copy auxv to userspace")

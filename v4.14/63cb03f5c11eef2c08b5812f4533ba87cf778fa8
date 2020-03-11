@@ -1,0 +1,6 @@
+63cb03f5c11e ("usb: core: split usb_phy_roothub_{init,alloc}")
+29bca25e1bc4 ("usb: skip phys initialization of shared hcd")
+ad70f937e9d0 ("usb: core: hcd: remove support for initializing a single PHY")
+178a0bce05cb ("usb: core: hcd: integrate the PHY wrapper into the HCD core")
+07dbff0ddbd8 ("usb: core: add a wrapper for the USB PHYs on the HCD")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")

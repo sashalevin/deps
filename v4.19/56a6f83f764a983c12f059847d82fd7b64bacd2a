@@ -1,0 +1,6 @@
+56a6f83f764a ("fbdev: ssd1307fb: Init backlight before registering framebuffer")
+fa64c6badea4 ("video: ssd1307fb: Introduce temporary variable to increase readability")
+59d961c5972f ("video: ssd1307fb: Convert driver to use ->probe_new()")
+0adcdbcb1796 ("video: fbdev: don't print error message on framebuffer_alloc() failure")
+5f0e6ce18e65 ("video: fbdev: intelfb: return -ENOMEM on framebuffer_alloc() failure")
+602ecfbc0456 ("video: fbdev: s3c-fb: return -ENOMEM on framebuffer_alloc() failure")

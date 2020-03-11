@@ -1,0 +1,5 @@
+1af7f88af269 ("inet: fix inet_fill_ifaddr() flags truncation")
+3ddc2231c810 ("inet: annotate data-races around ifa->ifa_flags")
+9f6fa3c4e722 ("inet: annotate data-races around ifa->ifa_preferred_lft")
+a5fcf74d80be ("inet: annotate data-races around ifa->ifa_valid_lft")
+3cd3e72ccb3a ("inet: annotate data-races around ifa->ifa_tstamp and ifa->ifa_cstamp")

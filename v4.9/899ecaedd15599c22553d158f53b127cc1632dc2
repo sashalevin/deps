@@ -1,0 +1,7 @@
+899ecaedd155 ("net: ethernet: cadence: fix socket buffer corruption problem")
+653e92a9175e ("net: macb: add support for padding and fcs computation")
+33729f25a31e ("net: macb: move checksum clearing outside of spinlock")
+d1c38957aaf3 ("net: macb: use netdev_tx_t return type for ndo_start_xmit functions")
+1629dd4f763c ("cadence: Add LSO support.")
+b410d13e10db ("net: macb: Use variables with defaults for tx/rx ring sizes instead of hardcoded values")
+44770e1180de ("ethernet: use core min/max MTU checking")

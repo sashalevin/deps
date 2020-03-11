@@ -1,0 +1,6 @@
+d7be6d7eee1b ("userfaultfd: convert mfill_atomic() to use a folio")
+07e6d4095c75 ("userfaultfd: convert mfill_atomic_pte_copy() to use a folio")
+d9712937037e ("mm: userfaultfd: combine 'mode' and 'wp_copy' arguments")
+61c5004022f5 ("mm: userfaultfd: don't pass around both mm and vma")
+a734991ccaec ("mm: userfaultfd: rename functions for clarity + consistency")
+a1b92a3f1498 ("mm/userfaultfd: support WP on multiple VMAs")

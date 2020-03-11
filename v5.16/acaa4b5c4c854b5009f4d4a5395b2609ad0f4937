@@ -1,0 +1,8 @@
+acaa4b5c4c85 ("x86/speculation: Do not enable Automatic IBRS if SEV-SNP is enabled")
+e7862eda309e ("x86/cpu: Support AMD Automatic IBRS")
+faabfcb194a8 ("x86/cpu, kvm: Add the SMM_CTL MSR not present feature")
+5b909d4ae59a ("x86/cpu, kvm: Add the Null Selector Clears Base feature")
+84168ae786f8 ("x86/cpu, kvm: Move X86_FEATURE_LFENCE_RDTSC to its native leaf")
+a9dc9ec5a1fa ("x86/cpu, kvm: Add the NO_NESTED_DATA_BP feature")
+c35ac8c4bf60 ("KVM: x86: Move open-coded CPUID leaf 0x80000021 EAX bit propagation code")
+8fa590bf3448 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

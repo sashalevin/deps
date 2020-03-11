@@ -1,0 +1,5 @@
+e1f540c3ed0e ("RDMA/core: Define client_data_lock as rwlock instead of spinlock")
+2d65f49ff961 ("RDMA/core: Use simpler spin lock irq API from blocking context")
+4512acd0d34c ("RDMA/core: Remove context entries from list while unregistering device")
+f7b65d9bf2db ("RDMA/core: Use simplified list_for_each")
+93688ddbe1da ("RDMA/core: No need to protect kfree with spin lock and semaphore")

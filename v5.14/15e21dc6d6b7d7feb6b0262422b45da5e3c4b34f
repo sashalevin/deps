@@ -1,0 +1,4 @@
+15e21dc6d6b7 ("scsi: lpfc: Fix handling of fully recovered fabric node in dev_loss callbk")
+af984c87293b ("scsi: lpfc: Allow fabric node recovery if recovery is in progress before devloss")
+0614568361b0 ("scsi: lpfc: Delay unregistering from transport until GIDFT or ADISC completes")
+21990d3d1861 ("scsi: lpfc: Fix target reset handler from falsely returning FAILURE")

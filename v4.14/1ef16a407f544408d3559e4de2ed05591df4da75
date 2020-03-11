@@ -1,0 +1,8 @@
+1ef16a407f54 ("scsi: qla2xxx: Fix return of uninitialized value in rval")
+a35f87bdcc06 ("scsi: qla2xxx: Fix I/O errors during LIP reset tests")
+2eb9238affa7 ("scsi: qla2xxx: on session delete, return nvme cmd")
+623ee824e579 ("scsi: qla2xxx: Fix FC-NVMe IO abort during driver reset")
+870fe24f3c0b ("scsi: qla2xxx: Return busy if rport going away")
+e473b3074104 ("scsi: qla2xxx: Add FC-NVMe abort processing")
+9dd9686b1419 ("scsi: qla2xxx: Add changes for devloss timeout in driver")
+bbead493a3b9 ("scsi: qla2xxx: Chip reset uses wrong lock during IO flush.")

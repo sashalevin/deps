@@ -1,0 +1,5 @@
+c67dc6247576 ("mm/vmalloc: do not call kmemleak_free() on not yet accounted memory")
+b8c8a338f75e ("Revert "vmalloc: back off when the current task is killed"")
+171012f56127 ("mm: don't warn when vmalloc() fails due to a fatal signal")
+5d17a73a2ebe ("vmalloc: back off when the current task is killed")
+bf22e37a6413 ("mm: add vfree_atomic()")

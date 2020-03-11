@@ -1,0 +1,6 @@
+334006b78ca8 ("KVM: VMX: Use kvm_read_cr4() to get cr4 value")
+2259c17f0188 ("kvm: x86: Sink cpuid update into vendor-specific set_cr4 functions")
+c2fe3cd4604a ("KVM: x86: Move vendor CR4 validity check to dedicated kvm_x86_ops hook")
+a447e38a7fad ("KVM: VMX: Drop explicit 'nested' check from vmx_set_cr4()")
+d3a9e4146a6f ("KVM: VMX: Drop guest CPUID check for VMXE in vmx_set_cr4()")
+72f211ecaa80 ("KVM: x86: allow kvm_x86_ops.set_efer to return an error value")

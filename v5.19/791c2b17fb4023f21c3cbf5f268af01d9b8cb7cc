@@ -1,0 +1,5 @@
+791c2b17fb40 ("iommu: Optimise PCI SAC address trick")
+dd8a25c557e1 ("iommu: Remove deferred attach check from __iommu_detach_device()")
+01657bc14a39 ("iommu: Avoid races around device probe")
+22d2c7afb369 ("iommu: Add max_pasids field in struct dev_iommu")
+fa49364cd5e6 ("iommu/dma: Move public interfaces to linux/iommu.h")

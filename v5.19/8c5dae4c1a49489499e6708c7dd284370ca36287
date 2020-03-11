@@ -1,0 +1,7 @@
+8c5dae4c1a49 ("dccp/tcp: Update saddr under bhash's lock.")
+8acdad37cd13 ("dccp/tcp: Remove NULL check for prev_saddr in inet_bhash2_update_saddr().")
+4461568aa4e5 ("tcp: Access &tcp_hashinfo via net.")
+429e42c1c54e ("tcp: Set NULL to sk->sk_prot->h.hashinfo.")
+e9bd0cca09d1 ("tcp: Don't allocate tcp_death_row outside of struct netns_ipv4.")
+08eaef904031 ("tcp: Clean up some functions.")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")

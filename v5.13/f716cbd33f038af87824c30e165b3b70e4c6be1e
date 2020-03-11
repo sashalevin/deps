@@ -1,0 +1,8 @@
+f716cbd33f03 ("firmware: arm_scmi: Make smc transport use common completions")
+13fba878ccdd ("firmware: arm_scmi: Add priv parameter to scmi_rx_callback")
+e9b21c96181c ("firmware: arm_scmi: Make .clear_channel optional")
+ed7c04c1fea3 ("firmware: arm_scmi: Handle concurrent and out-of-order messages")
+9ca5a1838e59 ("firmware: arm_scmi: Introduce monotonically increasing tokens")
+3669032514be ("firmware: arm_scmi: Remove scmi_dump_header_dbg() helper")
+e30d91d4ffda ("firmware: arm_scmi: Move reinit_completion from scmi_xfer_get to do_xfer")
+0cb7af474e0d ("firmware: arm_scmi: Reset Rx buffer to max size during async commands")

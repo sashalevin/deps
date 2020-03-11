@@ -1,0 +1,6 @@
+f71e0be5d297 ("ALSA: hda: cs35l41: mark cs35l41_verify_id() static")
+881b7bce0c25 ("ALSA: hda: cs35l41: Run boot process during resume callbacks")
+206b250c3e9b ("ALSA: hda: cs35l41: Consistently use dev_err_probe()")
+486465508f8a ("ALSA: hda: cs35l41: Fix unbalanced pm_runtime_get()")
+a3ff56465878 ("ALSA: hda: cs35l41: Ensure we correctly re-sync regmap before system suspending.")
+88672826e2a4 ("ALSA: hda: cs35l41: Support System Suspend")

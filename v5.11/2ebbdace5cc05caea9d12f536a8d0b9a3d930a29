@@ -1,0 +1,8 @@
+2ebbdace5cc0 ("mmc: core: change __mmc_poll_for_busy() parameter type")
+6966e6094c6d ("mmc: core: Avoid hogging the CPU while polling for busy after I/O writes")
+2c5d42769038 ("mmc: core: Add support for Power Off Notification for SD cards")
+c784f92769ae ("mmc: core: Read the SD function extension registers for power management")
+6fa79651cc80 ("mmc: core: Enable eMMC sleep commands to use HW busy polling")
+04f967ad28c8 ("mmc: core: Extend re-use of __mmc_poll_for_busy()")
+1e0b069bdc58 ("mmc: core: Re-structure some code in __mmc_poll_for_busy()")
+e62f1e0b2384 ("mmc: core: Drop open coding when preparing commands with busy signaling")

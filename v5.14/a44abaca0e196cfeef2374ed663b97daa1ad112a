@@ -1,0 +1,5 @@
+a44abaca0e19 ("modpost: move *.mod.c generation to write_mod_c_files()")
+7fedac9698b3 ("modpost: merge add_{intree_flag,retpoline,staging_flag} to add_header")
+325eba05e8ab ("modpost: traverse modules in order")
+5066743e4c2f ("modpost: change mod->gpl_compatible to bool type")
+15a28c7c7291 ("modpost: use snprintf() instead of sprintf() for safety")

@@ -1,0 +1,5 @@
+4c63c9234085 ("KVM: selftests: Hoist APIC functions out of individual tests")
+150a282d43b8 ("KVM: selftests: Move APIC definitions into a separate file")
+22721a561099 ("KVM: selftests: Keep track of memslots more efficiently")
+c9ecafaf0113 ("KVM: selftests: evmcs_test: Check that VMCS12 is alway properly synced to eVMCS after restore")
+32d1b3ab588c ("KVM: selftests: evmcs_test: Check that VMLAUNCH with bogus EVMPTR is causing #UD")

@@ -1,0 +1,5 @@
+71dcce64593f ("PCI: dwc: artpec6: Use devm_ioremap_resource() instead of devm_ioremap()")
+c68febfd68e0 ("PCI: dwc: artpec6: Fix return value check in artpec6_add_pcie_ep()")
+b5074ef6fe7d ("PCI: dwc: artpec6: Add support for endpoint mode")
+87c9a730fe31 ("PCI: dwc: artpec6: Split artpec6_pcie_establish_link() into smaller functions")
+bc5d7dfa5b9e ("PCI: dwc: artpec6: Use BIT and GENMASK macros")

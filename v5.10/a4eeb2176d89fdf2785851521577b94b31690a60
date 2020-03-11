@@ -1,0 +1,6 @@
+a4eeb2176d89 ("x86, crash: wrap crash dumping code into crash related ifdefs")
+4ece09be9913 ("x86/setup: use IS_ENABLED(CONFIG_KEXEC_CORE) instead of #ifdef")
+3d6b84132d2a ("x86/kvm: Disable all PV features on crash")
+c02027b5742b ("x86/kvm: Disable kvmclock on all CPUs on shutdown")
+8b79feffeca2 ("x86/kvm: Teardown PV features on boot CPU as well")
+2b519b5797d4 ("x86/kvm: Don't bother __pv_cpu_mask when !CONFIG_SMP")

@@ -1,0 +1,8 @@
+3e452e636d00 ("ARM: cpuidle: Convert to use cpuidle_register|unregister()")
+763f191af51f ("ARM: cpuidle: Don't register the driver when back-end init returns -ENXIO")
+818489e511a3 ("ARM: cpuidle: silence error on driver registration failure")
+bda4d21b6e5d ("ARM: cpuidle: Drop memory allocation error message from arm_idle_init_cpu()")
+7943bfaeb6bb ("ARM: cpuidle: Refactor rollback operations if init fails")
+0f87855d969a ("ARM: cpuidle: Correct driver unregistration if init fails")
+ed40fad9a568 ("ARM: cpuidle: Avoid memleak if init fail")
+d50a7d8acd78 ("ARM: cpuidle: Support asymmetric idle definition")

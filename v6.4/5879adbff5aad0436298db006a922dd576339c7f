@@ -1,0 +1,8 @@
+5879adbff5aa ("serial: use guards for simple mutex locks")
+a47cf07f60dc ("serial: core: Call device_set_awake_path() for console port")
+30926783a468 ("serial: core: Fix atomicity violation in uart_tiocmget")
+559c7ff4e324 ("serial: core: Use port lock wrappers")
+84a9582fd203 ("serial: core: Start managing serial controllers to enable runtime PM")
+51e45fba14bf ("serial: core: lock port for start_rx() in uart_resume_port()")
+abcb0cf1f5b2 ("serial: core: lock port for stop_rx() in uart_suspend_port()")
+d5b3d02d0b10 ("serial: Make uart_remove_one_port() return void")

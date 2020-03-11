@@ -1,0 +1,8 @@
+91621ba7d7b7 ("s390/tty3270: move resize work to raw3270")
+13d4999ab2fb ("s390/raw3270: fix formatting issues")
+e6d98bb823af ("s390/con3270: fix formatting issues")
+c17fe081ac1f ("s390/3270: unify con3270 + tty3270")
+a21e962e129d ("s390/tty3270: add tty3270_create_view()")
+e036ea81c0a1 ("s390/3270: make raw3270_state_final() depend on CONFIG_TN3270_CONSOLE")
+a8c11c152034 ("tty: Make ->set_termios() old ktermios const")
+4ae46db99cd8 ("s390/consoles: improve panic notifiers reliability")

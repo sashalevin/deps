@@ -1,0 +1,4 @@
+ed835d8171fc ("watchdog/hpwdt: Include nmi.h only if CONFIG_HPWDT_NMI_DECODING")
+acc195bd2cc4 ("watchdog/hpwdt: Disable NMI in Crash Kernel")
+10d790d1fa2e ("watchdog: hpwdt: Disable PreTimeout when Timeout is smaller")
+4d9186d01e7a ("watchdog: hpwdt: Initialize pretimeout from module parameter.")

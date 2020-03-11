@@ -1,0 +1,6 @@
+97ad10bb2901 ("iio: adc: rockchip_saradc: Make use of devm_clk_get_enabled")
+8f46a93bdc73 ("iio: adc: rockchip_saradc: Make use of the helper function dev_err_probe()")
+cabd6e9cf22d ("iio: adc: rockchip_saradc: add voltage notifier so get referenced voltage once at probe")
+4e130dc7b413 ("iio: adc: rockchip_saradc: Add support iio buffers")
+71eb7c855bd0 ("iio: adc: rockchip_saradc: better prefix for channel constant")
+d0389d4ed3c5 ("iio: adc: rockchip_saradc: move all of probe to devm-functions")

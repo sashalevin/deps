@@ -1,0 +1,5 @@
+063ab16c14db ("KVM: nSVM: always restore the L1's GIF on migration")
+9d290e16432c ("KVM: nSVM: leave the guest mode prior to loading a nested state")
+c08f390a75c1 ("KVM: nSVM: only copy L1 non-VMLOAD/VMSAVE data in svm_set_nested_state()")
+9e8f0fbfff1a ("KVM: nSVM: rename functions and variables according to vmcbXY nomenclature")
+4995a3685f1b ("KVM: SVM: Use a separate vmcb for the nested L2 guest")

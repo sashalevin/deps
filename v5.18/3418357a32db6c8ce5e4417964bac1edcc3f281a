@@ -1,0 +1,4 @@
+3418357a32db ("ptrace: fix clearing of JOBCTL_TRACED in ptrace_unfreeze_traced()")
+31cae1eaae4f ("sched,signal,ptrace: Rework TASK_TRACED, TASK_STOPPED state")
+2500ad1c7fa4 ("ptrace: Don't change __state")
+57b6de08b5f6 ("ptrace: Admit ptrace_stop can generate spuriuos SIGTRAPs")

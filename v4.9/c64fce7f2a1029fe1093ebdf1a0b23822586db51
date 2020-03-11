@@ -1,0 +1,8 @@
+c64fce7f2a10 ("hwmon: (adt7475) Convert to use hwmon_device_register_with_groups()")
+4afec79f652b ("hwmon: (adt7475) Change show functions to return error data correctly")
+702afead45e1 ("hwmon: (adt7475) Change update functions to add error handling")
+5cf943ede4af ("hwmon: (adt7475) Split device update function to measure and limits")
+8f05bcc33e74 ("hwmon: (adt7475) temperature smoothing")
+3490c92a0963 ("hwmon: (adt7475) add high frequency support")
+1d58f5efbf2d ("hwmon: (adt7475) fan stall prevention")
+4abdf38d206f ("hwmon: (adt7475) set start bit in probe")

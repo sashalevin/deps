@@ -1,0 +1,8 @@
+670c04add6e1 ("x86/apic: Nuke ack_APIC_irq()")
+a2b07fa7b933 ("x86/reboot: Disable SVM, not just VMX, when stopping CPUs")
+b1c3497e604d ("x86/xen: Add support for HVMOP_set_evtchn_upcall_vector")
+e07e98da924e ("xen/x86: detect support for extended destination ID")
+703f7066f405 ("random: remove unused irq_flags argument from add_interrupt_randomness()")
+d608715d4771 ("Drivers: hv: vmbus: Move handling of VMbus interrupts")
+f3c5e63c3690 ("Drivers: hv: Redo Hyper-V synthetic MSR get/set functions")
+3e89c7ea7a82 ("Merge tag 'ras_updates_for_v5.12' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

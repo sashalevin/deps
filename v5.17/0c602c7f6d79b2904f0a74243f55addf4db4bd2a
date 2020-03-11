@@ -1,0 +1,6 @@
+0c602c7f6d79 ("mfd: intel_soc_pmic_crc: Convert driver to use ->probe_new()")
+09c4e702bc9d ("mfd: intel_soc_pmic_crc: Drop redundant ACPI_PTR() and ifdeffery")
+e1efbc8e464c ("mfd: intel_soc_pmic_crc: Switch from CONFIG_PM_SLEEP guards to pm_sleep_ptr() etc")
+5a30b210bfea ("mfd: intel_soc_pmic_crc: Merge Intel PMIC core to crc")
+48749cabba10 ("mfd: intel_soc_pmic: Fix an error handling path in intel_soc_pmic_i2c_probe()")
+f49f43371b8a ("mfd: intel_soc_pmic_crc: Set main IRQ domain bus token to DOMAIN_BUS_NEXUS")

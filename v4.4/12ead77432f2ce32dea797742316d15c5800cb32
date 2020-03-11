@@ -1,0 +1,8 @@
+12ead77432f2 ("clk: Don't try to enable critical clocks if prepare failed")
+9a34b45397e5 ("clk: Add support for runtime PM")
+253160a8ad06 ("clk: core: Copy connection id")
+a4b3518d146f ("clk: core: support clocks which requires parents enable (part 1)")
+7ec986efed02 ("clk: move clk_disable_unused after clk_core_disable_unprepare function")
+ef56b79b66fa ("clk: fix critical clock locking")
+32b9b1096186 ("clk: Allow clocks to be marked as CRITICAL")
+2eb8c7104c64 ("clk: add flag for clocks that need to be enabled on rate changes")

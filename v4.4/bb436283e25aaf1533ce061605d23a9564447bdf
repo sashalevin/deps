@@ -1,0 +1,8 @@
+bb436283e25a ("i2c: validate user data in compat ioctl")
+7d5cb45655f2 ("i2c compat ioctls: move to ->compat_ioctl()")
+8d1a81a852f5 ("sanitize do_i2c_smbus_ioctl()")
+30f939feaeee ("i2c: fix kernel memory disclosure in dev interface")
+263a3df18fa2 ("nbd: use ->compat_ioctl()")
+a7f61e89af73 ("compat_ioctl: don't call do_ioctl under set_fs(KERNEL_DS)")
+66cf191f3eae ("compat_ioctl: don't pass fd around when not needed")
+b43417216e9c ("compat_ioctl: don't look up the fd twice")

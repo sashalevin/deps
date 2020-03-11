@@ -1,0 +1,8 @@
+c1056a59aee1 ("bnxt_en: Optimize xmit_more TX path")
+e8d8c5d80f5e ("bnxt: make sure xmit_more + errors does not miss doorbells")
+3c603136c9f8 ("bnxt: don't lock the tx queue from napi poll")
+83bb623c968e ("bnxt_en: Transmit and retrieve packet timestamps")
+7f5515d19cd7 ("bnxt_en: Get the RX packet timestamp")
+390862f45c85 ("bnxt_en: Get the full 48-bit hardware timestamp periodically")
+118612d519d8 ("bnxt_en: Add PTP clock APIs, ioctls, and ethtool methods")
+ae5c42f0b92c ("bnxt_en: Get PTP hardware capability from firmware")

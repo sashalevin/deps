@@ -1,0 +1,6 @@
+e965ef0e7b2c ("RDMA/irdma: Split QP handler into irdma_reg_user_mr_type_qp")
+693a5386eff0 ("RDMA/irdma: Split mr alloc and free into new functions")
+01798df19878 ("RDMA/irdma: Split MEM handler into irdma_reg_user_mr_type_mem")
+bd99ede8ef2d ("RDMA/irdma: Remove extra ret variable in favor of existing err")
+8f7e2daa6336 ("RDMA/irdma: Do not request 2-level PBLEs for CQ alloc")
+5e8afb8792f3 ("RDMA/irdma: Do not advertise 1GB page size for x722")

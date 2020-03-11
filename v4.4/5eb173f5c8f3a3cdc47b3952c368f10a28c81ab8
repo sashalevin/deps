@@ -1,0 +1,5 @@
+5eb173f5c8f3 ("i2c: xlp9xx: Fix case where SSIF read transaction completes early")
+88b4116e7e98 ("i2c: xlp9xx: Make sure the transfer size is not more than I2C_SMBUS_BLOCK_SIZE")
+8d504d804ab6 ("i2c: xlp9xx: Fix issue seen when updating receive length")
+41b1d4de9632 ("i2c: xlp9xx: Handle transactions with I2C_M_RECV_LEN properly")
+5515ae112172 ("i2c: xlp9xx: Handle I2C_M_RECV_LEN in msg->flags")

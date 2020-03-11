@@ -1,0 +1,8 @@
+151aeca21792 ("kbuild: support modules_sign for external modules as well")
+02e8487bbf1b ("kbuild: support 'make modules_sign' with CONFIG_MODULE_SIG_ALL=n")
+5e02797b8eb0 ("kbuild: move more module installation code to scripts/Makefile.modinst")
+2dfec887c0fd ("kbuild: reduce the number of mkdir calls during modules_install")
+d8131c2965d5 ("kbuild: remove $(MODLIB)/source symlink")
+79b96c332241 ("kbuild: move depmod rule to scripts/Makefile.modinst")
+2429742e506a ("kbuild: do not run depmod for 'make modules_sign'")
+8ae071fc216a ("kbuild: make modules_install copy modules.builtin(.modinfo)")

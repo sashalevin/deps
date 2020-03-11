@@ -1,0 +1,6 @@
+e70af8d040d2 ("PCI: hv: Fix the definition of vector in hv_compose_msi_msg()")
+4d0b8298818b ("genirq: Return a const cpumask from irq_data_get_affinity_mask")
+073352e951f6 ("genirq: Add and use an irq_data_update_affinity helper")
+961343d78226 ("genirq: Refactor accessors to use irq_data_get_affinity_mask")
+a2bad844a67b ("PCI: hv: Fix interrupt mapping for multi-MSI")
+b4b77778ecc5 ("PCI: hv: Reuse existing IRTE allocation in compose_msi_msg()")

@@ -1,0 +1,4 @@
+22fd98c107c7 ("spi: microchip-core: defer asserting chip select until just before write to TX FIFO")
+502a582b8dd8 ("spi: microchip-core: fix the issues in the isr")
+9e264f3f85a5 ("spi: Replace all spi->chip_select and spi->cs_gpiod references with function call")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

@@ -1,0 +1,6 @@
+ce5b2f8929df ("sctp: pass a kernel pointer to __sctp_setsockopt_connectx")
+d4e575ba9fcc ("net: sctp: drop unneeded likely() call around IS_ERR()")
+ef82bcfa671b ("sctp: use memdup_user instead of vmemdup_user")
+644fbdeacf1d ("sctp: fix the issue that flags are ignored when using kernel_connect")
+2277c7cd75e3 ("sctp: Add LSM hooks")
+b2fe5fa68642 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

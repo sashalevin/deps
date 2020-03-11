@@ -1,0 +1,6 @@
+2240a50e6294 ("KVM: arm64: vgic-debug: Don't put unmarked LPIs")
+85d3ccc8b75b ("KVM: arm64: vgic-debug: Use an xarray mark for debug iterator")
+05f4d4f5d462 ("KVM: arm64: vgic: Use atomics to count LPIs")
+9880835af78e ("KVM: arm64: vgic: Get rid of the LPI linked-list")
+2798683b8c80 ("KVM: arm64: vgic-its: Walk the LPI xarray in vgic_copy_lpi_list()")
+1d6f83f60f79 ("KVM: arm64: vgic: Store LPIs in an xarray")

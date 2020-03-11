@@ -1,0 +1,8 @@
+12cf8e75727a ("bgmac: add bgmac_umac_*() helpers for accessing UniMAC registers")
+8c7da63978f1 ("bgmac: configure MTU and add support for frames beyond 8192 byte size")
+fd786fb1d2ca ("net: convert suitable drivers to use phy_do_ioctl_running")
+0290bd291cc0 ("netdev: pass the stuck queue to the timeout handler")
+838c93dc5449 ("net: ena: implement XDP drop support")
+c5013ac1dd0e ("net: ethernet: ti: cpsw: move set of common functions in cpsw_priv")
+51a9533797b0 ("net: ethernet: ti: cpsw: resolve build deps of cpsw drivers")
+4b41d3436796 ("net: ethernet: ti: cpsw: allow untagged traffic on host port")

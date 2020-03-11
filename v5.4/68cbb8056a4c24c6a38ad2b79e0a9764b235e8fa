@@ -1,0 +1,2 @@
+68cbb8056a4c ("ceph: fix inode refcount leak when ceph_fill_inode on non-I_NEW inode fails")
+893e456b2c0b ("ceph: don't clear I_NEW until inode metadata is fully populated")

@@ -1,0 +1,7 @@
+10c513f798d6 ("perf evsel: Rename perf_evsel__resort*() to evsel__resort*()")
+862b2f8fbc5b ("perf evsel: Rename *perf_evsel__*set_sample_*() to *evsel__*set_sample_*()")
+976be84504b8 ("perf evlist: Allow reusing the side band thread for more purposes")
+9a39994467d4 ("perf evlist: Move the sideband thread routines to separate object")
+b38d85ef49cf ("perf bpf: Decouple creating the evlist from adding the SB event")
+ca6c9c8b107f ("perf top: Move sb_evlist to 'struct perf_top'")
+bc477d7983e3 ("perf record: Move sb_evlist to 'struct record'")

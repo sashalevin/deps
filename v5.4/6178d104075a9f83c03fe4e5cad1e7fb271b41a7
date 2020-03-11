@@ -1,0 +1,6 @@
+6178d104075a ("xfs: remove dead code from xfs_log_unmount_write")
+550319e9df3a ("xfs: remove the unused return value from xfs_log_unmount_write")
+1858bb0bec61 ("xfs: turn ic_state into an enum")
+fe9c0e77acc5 ("xfs: remove the unused XLOG_STATE_ALL and XLOG_STATE_UNUSED flags")
+df732b29c807 ("xfs: call xlog_state_release_iclog with l_icloglock held")
+390aab0a1640 ("xfs: move the locking from xlog_state_finish_copy to the callers")

@@ -1,0 +1,6 @@
+ee4ecdfbd289 ("x86/signal: Change return type of restore_sigcontext() to boolean")
+3add42c29ceb ("x86: get rid of get_user_ex() in restore_sigcontext()")
+978727ca331e ("x86: get rid of get_user_ex() in ia32_restore_sigcontext()")
+2b10906f2d25 ("x86: Remove force_iret()")
+88e4718275c1 ("x86/uaccess, signal: Fix AC=1 bloat")
+67a0514afdbb ("x86/ia32: Fix ia32_restore_sigcontext() AC leak")

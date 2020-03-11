@@ -1,0 +1,6 @@
+a5044ce7d1d9 ("m68k: Avoid CONFIG_COLDFIRE switch in uapi header")
+280ac17856ec ("hexagon: Remove CONFIG_HEXAGON_ARCH_VERSION from uapi header")
+550087a0ba91 ("hexagon: Remove unusable symbols from the ptrace.h uapi")
+9702a046c261 ("arch/ia64/include: remove CONFIG_IA64_DEBUG_CMPXCHG from uapi header")
+4d2cfea809fc ("hexagon: ptrace: user_regset_copyin_ignore() always returns 0")
+337015573718 ("printk: Userspace format indexing support")

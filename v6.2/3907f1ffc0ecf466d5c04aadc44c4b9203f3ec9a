@@ -1,0 +1,5 @@
+3907f1ffc0ec ("r8169: add support for RTL8126A")
+4b0768b6556a ("r8169: fix rtl8125b PAUSE frames blasting when suspended")
+49ef7d846d4b ("r8169: prepare rtl_hw_aspm_clkreq_enable for usage in atomic context")
+6bc6c4e6893e ("r8169: use spinlock to protect access to registers Config2 and Config5")
+91c8643578a2 ("r8169: use spinlock to protect mac ocp register access")

@@ -1,0 +1,8 @@
+8487f083c6ff ("io_uring: return REQ_F_ flags from io_file_get_flags")
+3beed235d1a1 ("io_uring: remove io_req_ffs_set")
+53cfd5cea7f3 ("io_uring: remove the mode variable in io_file_get_flags")
+b9a6c9459a5a ("io_uring: remove __io_file_supports_nowait")
+caec5ebe77f9 ("io_uring: rely solely on FMODE_NOWAIT")
+8501fe70ae98 ("io_uring: add tw add flags")
+d73a572df246 ("io_uring: optimize local tw add ctx pinning")
+ab1c590f5c9b ("io_uring: move pinning out of io_req_local_work_add")

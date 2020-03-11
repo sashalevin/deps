@@ -1,0 +1,4 @@
+f5bee0adb17e ("sctp: pass a kernel pointer to sctp_setsockopt_maxburst")
+746bc215a6b2 ("sctp: fix ignoring asoc_id for tcp-style sockets on SCTP_MAX_BURST sockopt")
+e0651a0dc877 ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_MAX_BURST sockopt")
+13aa8770fe42 ("sctp: add sockopt to get/set stream scheduler")

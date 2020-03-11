@@ -1,0 +1,8 @@
+f4bb7704699b ("scsi: ufs: Schedule clk gating work on correct queue")
+7ff5ab473633 ("scsi: ufs: add tracing support")
+a508253d0916 ("scsi: ufs: suspend clock scaling for failed runtime_resume")
+dcea0bfbc4cb ("scsi: ufs: fix sense buffer size to 18 bytes")
+e3ce73d69aff ("scsi: ufs: fix bugs related to null pointer access and array size")
+371131065de9 ("scsi: ufs: tune UniPro parameters to optimize hibern8 exit time")
+60f0187031c0 ("scsi: ufs: disable vccq if it's not needed by UFS device")
+c58ab7aab71e ("scsi: ufs: separate device and host quirks")

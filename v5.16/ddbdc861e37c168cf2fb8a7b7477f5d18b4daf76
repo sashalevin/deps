@@ -1,0 +1,7 @@
+ddbdc861e37c ("ksmbd: smbd: introduce read/write credits for RDMA read/write")
+1807abcf8778 ("ksmbd: smbd: change prototypes of RDMA read/write related functions")
+deae24b0b13f ("ksmbd: reduce smb direct max read/write size")
+2fd5dcb1c8ef ("ksmbd: smbd: fix missing client's memory region invalidation")
+4d02c4fdc0e2 ("ksmbd: smbd: change the default maximum read/write, receive size")
+c9f189271cff ("ksmbd: smbd: create MR pool")
+99b7650ac518 ("ksmbd: smbd: call rdma_accept() under CM handler")

@@ -1,0 +1,6 @@
+14e3cdbb00a8 ("media: don't drop front-end reference count for ->detach")
+ead666000a5f ("media: dvb_frontend: only use kref after initialized")
+1f862a68df24 ("[media] dvb_frontend: move kref to struct dvb_frontend")
+d812b3caea39 ("[media] dvb_frontend: add "detach" callback")
+967d8e8f4cac ("[media] dvb_frontend: merge the two dvb_frontend_detach() versions")
+fe35637b0a9f ("[media] dvb_frontend: eliminate blocking wait in dvb_unregister_frontend()")

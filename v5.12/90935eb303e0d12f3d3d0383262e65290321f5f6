@@ -1,0 +1,6 @@
+90935eb303e0 ("mmc: tmio: reenable card irqs after the reset callback")
+0751d56ef1f2 ("mmc: tmio: always restore irq register")
+0a446288aa9f ("mmc: tmio: restore bus width when resetting")
+ab0cdefec052 ("mmc: tmio: abort DMA before reset")
+9f12cac1bb88 ("mmc: renesas_sdhi: use custom mask for TMIO_MASK_ALL")
+0d856c4c68c6 ("mmc: tmio: support custom irq masks")

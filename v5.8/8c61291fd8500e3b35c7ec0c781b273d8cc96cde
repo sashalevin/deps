@@ -1,0 +1,8 @@
+8c61291fd850 ("mm: fix incorrect vbq reference in purge_fragmented_block")
+77e50af07f14 ("mm/vmalloc: dont purge usable blocks unnecessarily")
+a09fad96ffb1 ("mm/vmalloc: prevent flushing dirty space over and over")
+ca5e46c3400b ("mm/vmalloc: avoid iterating over per CPU vmap blocks twice")
+869176a09606 ("mm/vmalloc.c: add flags to mark vm_map_ram area")
+3f80492001aa ("mm/vmalloc: use raw_cpu_ptr() for vmap_block_queue access")
+ad216c0316ad ("mm: vmalloc: prevent use after free in _vm_unmap_aliases")
+0f14599c607d ("vmalloc: convert to XArray")

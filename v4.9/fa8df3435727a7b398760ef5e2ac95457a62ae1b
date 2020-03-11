@@ -1,0 +1,8 @@
+fa8df3435727 ("scsi: iscsi_tcp: Use sendmsg(MSG_SPLICE_PAGES) rather than sendpage")
+48b19b79cfa3 ("scsi: iscsi_tcp: Check that sock is valid before iscsi_set_param()")
+57569c37f0ad ("scsi: iscsi: iscsi_tcp: Fix null-ptr-deref while calling getpeername()")
+f93a722fa7b3 ("scsi: iscsi_tcp: Tell net when there's more data")
+f1d269765ee2 ("scsi: iscsi: Run recv path from workqueue")
+bcf3a2953d36 ("scsi: iscsi: iscsi_tcp: Avoid holding spinlock while calling getpeername()")
+9b2c45d479d0 ("net: make getname() functions return length rather than use int* parameter")
+fe53d1443a14 ("Merge tag 'armsoc-drivers' of git://git.kernel.org/pub/scm/linux/kernel/git/arm/arm-soc")

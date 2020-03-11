@@ -1,0 +1,7 @@
+ba3e5037ceeb ("pwm-sun4i: Calculate "delay_jiffies" directly, eliminate absolute time")
+c7078972038a ("pwm-sun4i: Convert "next_period" to local variable")
+c7dcccaec2f7 ("pwm: sun4i: Use nsecs_to_jiffies to avoid a division")
+d3817a647059 ("pwm: sun4i: Remove redundant needs_delay")
+413c2a110d64 ("pwm: sun4i: Initialize variables before use")
+9f28e95b5286 ("pwm: sun4i: Add support to output source clock directly")
+fa4d81784681 ("pwm: sun4i: Always calculate params when applying new parameters")

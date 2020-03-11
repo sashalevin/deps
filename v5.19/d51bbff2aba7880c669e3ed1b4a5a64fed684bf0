@@ -1,0 +1,2 @@
+d51bbff2aba7 ("bpf: net: Avoid do_tcp_getsockopt() taking sk lock when called from bpf")
+34704ef024ae ("bpf: net: Change do_tcp_getsockopt() to take the sockptr_t argument")

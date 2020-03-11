@@ -1,0 +1,4 @@
+4f8396b96a9f ("KVM: x86: Move guts of kvm_arch_init() to standalone helper")
+94bda2f4cd86 ("KVM: x86: Reject loading KVM if host.PAT[0] != WB")
+fdc298da8661 ("KVM: x86: Move kvm_ops_static_call_update() to x86.c")
+5e17b2ee45b9 ("kvm: x86: Require const tsc for RT")

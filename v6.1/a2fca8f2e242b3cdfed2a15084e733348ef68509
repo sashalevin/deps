@@ -1,0 +1,8 @@
+a2fca8f2e242 ("spi: pxa2xx: Wrap pxa_ssp_request() to be device managed resource")
+33aa27a09e9d ("spi: pxa2xx: Call pxa_ssp_free() after getting the SSP type")
+bb77c99ee6d3 ("spi: pxa2xx: Skip SSP initialization if it's done elsewhere")
+7290f1e4075d ("spi: pxa2xx: Extract pxa2xx_spi_init_ssp() helper")
+d5449432f794 ("spi: pxa2xx: Switch to use dev_err_probe()")
+60ba4431c8e8 ("spi: pxa2xx: switch to use modern name")
+31f6d96d6807 ("spi: pxa2xx: Convert to platform remove callback returning void")
+07c337927e06 ("spi: pxa2xx: Remove no more needed PCI ID table")

@@ -1,0 +1,4 @@
+b91ef1872869 ("io_uring: fix provided buffer return on failure for kiocb_done()")
+4813c3779261 ("io_uring: add a priority tw list for irq completion work")
+a90c8bf65906 ("io_uring: reuse io_req_task_complete for timeouts")
+06bdea20c107 ("io_uring: simplify reissue in kiocb_done")

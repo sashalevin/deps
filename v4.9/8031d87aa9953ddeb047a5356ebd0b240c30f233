@@ -1,0 +1,4 @@
+8031d87aa995 ("KVM: x86: Check target, not vCPU's x2APIC ID, when applying hotplug hack")
+5bd5db385b3e ("KVM: x86: allow hotplug of VCPU with APIC ID over 0xff")
+b4535b58ae0d ("KVM: x86: make interrupt delivery fast and slow path behave the same")
+6e50043912d9 ("KVM: x86: replace kvm_apic_id with kvm_{x,x2}apic_id")

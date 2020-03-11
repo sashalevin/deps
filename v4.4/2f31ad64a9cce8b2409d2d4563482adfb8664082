@@ -1,0 +1,4 @@
+2f31ad64a9cc ("panic: don't dump stack twice on warn")
+3f388f28639f ("panic: dump registers on panic_on_warn")
+2553b67a1fbe ("lib/bug.c: use common WARN helper")
+d7b85cab74ed ("lib/bug.c: make panic_on_warn available for all architectures")

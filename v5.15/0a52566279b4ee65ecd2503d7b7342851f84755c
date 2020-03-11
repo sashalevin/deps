@@ -1,0 +1,6 @@
+0a52566279b4 ("nvmet: fix a memory leak in nvmet_auth_set_key")
+db1312dd9548 ("nvmet: implement basic In-Band Authentication")
+6490c9ed06de ("nvmet: parse fabrics commands on io queues")
+22027a981134 ("nvmet: replace ida_simple[get|remove] with the simler ida_[alloc|free]")
+d3aef70124e7 ("nvmet: set 'CNTRLTYPE' in the identify controller data")
+a294711ed512 ("nvmet: add nvmet_is_disc_subsys() helper")

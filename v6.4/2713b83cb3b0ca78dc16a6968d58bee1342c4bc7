@@ -1,0 +1,8 @@
+2713b83cb3b0 ("ACPI: thermal: Mark uninitialized active trips as invalid")
+f04256a8f7de ("ACPI: thermal: Determine the number of trip points earlier")
+b09872a652d3 ("ACPI: thermal: Fold acpi_thermal_get_info() into its caller")
+ec23c1c462de ("ACPI: thermal: Use trip point table to register thermal zones")
+68b77785a1db ("ACPI: thermal: Introduce struct acpi_thermal_trip")
+68f4f0378c0c ("ACPI: thermal: Carry out trip point updates under zone lock")
+bf07b4a3ba34 ("ACPI: thermal: Clean up acpi_thermal_register_thermal_zone()")
+1996e9d73217 ("Merge 'acpi-bus' material for v6.6 to satisfy dependencies.")

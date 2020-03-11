@@ -1,0 +1,8 @@
+41e54045b741 ("bnxt_en: Fix error recovery for 5760X (P7) chips")
+43a440c4007b ("bnxt_en: Improve the status_reliable flag in bp->fw_health.")
+d1cbd1659cac ("bnxt_en: Retry sending the first message to firmware if it is under reset.")
+b187e4bae0aa ("bnxt_en: handle CRASH_NO_MASTER during bnxt_open()")
+fe1b853572f1 ("bnxt_en: Define macros for the various health register states.")
+87f7ab8d6f88 ("bnxt_en: perform no master recovery during startup")
+ba02629ff6cb ("bnxt_en: log firmware status on firmware init failure")
+3e9ec2bb932d ("bnxt_en: refactor bnxt_alloc_fw_health()")

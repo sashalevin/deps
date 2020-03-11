@@ -1,0 +1,6 @@
+8083f58d08fd ("pwm: Make pwmchip_remove() return void")
+ad5e085c63f5 ("pwm: Drop irrelevant error path from pwmchip_remove()")
+bcda91bf86c1 ("pwm: Add a device-managed function to add PWM chips")
+347ab9480313 ("pwm: Fix deadlock warning when removing PWM device")
+0e1614ac84f1 ("pwm: Fix device reference leak")
+0733424c9ba9 ("pwm: Unexport children before chip removal")

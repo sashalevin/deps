@@ -1,0 +1,6 @@
+575afc4d7f60 ("parisc: generate uapi header and system call table files")
+28ff62a4b41e ("parisc: remove __NR_Linux from uapi header file.")
+dbf91a54f7cb ("parisc: add __NR_syscalls along with __NR_Linux_syscalls")
+dfddd1a841c6 ("parisc: move __IGNORE* entries to non uapi header")
+c9dfa0c796f2 ("parisc: remove check for minimum required GCC version")
+2765b3edc41b ("parisc: Wire up io_pgetevents syscall")

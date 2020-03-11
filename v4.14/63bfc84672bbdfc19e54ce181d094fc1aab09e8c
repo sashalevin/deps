@@ -1,0 +1,4 @@
+63bfc84672bb ("ALSA: pdaudiocf: Drop superfluous GFP setup")
+6dfa8fd598ec ("ALSA: pdaudiocf: Use managed buffer allocation")
+d5dec270c00c ("ALSA: pdaudiocf: Convert to the common vmalloc memalloc")
+fa84cf094ef9 ("ALSA: pcm: Nuke snd_pcm_lib_mmap_vmalloc()")

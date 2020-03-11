@@ -1,0 +1,5 @@
+f259fe295ef0 ("MIPS: Use `pr_debug' for messages from `__compute_return_epc_for_insn'")
+27fe2200dad2 ("MIPS: Fix a typo: s/preset/present/ in r2-to-r6 emulation error message")
+a60b1a5bf88a ("MIPS: Send SIGILL for R6 branches in `__compute_return_epc_for_insn'")
+1f4edde42296 ("MIPS: Rename `sigill_r6' to `sigill_r2r6' in `__compute_return_epc_for_insn'")
+7b82c1058ac1 ("MIPS: Send SIGILL for BPOSGE32 in `__compute_return_epc_for_insn'")

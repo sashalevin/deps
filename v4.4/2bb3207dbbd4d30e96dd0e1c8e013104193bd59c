@@ -1,0 +1,7 @@
+2bb3207dbbd4 ("ethtool: fix a missing-check bug")
+84a1d9c48200 ("net: ethtool: extend RXNFC API to support RSS spreading of filter matches")
+d4ab4286276f ("ethtool: correctly ensure {GS}CHANNELS doesn't conflict with GS{RXFH}")
+e0ba1414f310 ("net: add netif_is_lag_port helper")
+7be61833042e ("net: add netif_is_lag_master helper")
+f7f019ee6d11 ("net: add netif_is_team_port helper")
+c981e4213e9d ("net: add netif_is_team_master helper")

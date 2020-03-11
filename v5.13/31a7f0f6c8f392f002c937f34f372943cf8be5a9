@@ -1,0 +1,7 @@
+31a7f0f6c8f3 ("arm64: entry: add missing noinstr")
+064dbfb41691 ("arm64: entry: convert IRQ+FIQ handlers to C")
+f8049488e7d3 ("arm64: entry: add a call_on_irq_stack helper")
+101a5b665dcd ("arm64: entry: move NMI preempt logic to C")
+33a3581a76f3 ("arm64: entry: move arm64_preempt_schedule_irq to entry-common.c")
+bb8e93a287a5 ("arm64: entry: convert SError handlers to C")
+f7c706f0391d ("arm64: entry: unmask IRQ+FIQ after EL0 handling")

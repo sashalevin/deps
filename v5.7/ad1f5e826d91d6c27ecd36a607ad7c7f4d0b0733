@@ -1,0 +1,4 @@
+ad1f5e826d91 ("can: m_can: tcan4x5x_can_probe(): fix error path: remove erroneous clk_disable_unprepare()")
+85816aba460c ("can: m_can: Fix freeing of can device from peripherials")
+c81d0b6ca665 ("can: tcan4x5x: tcan4x5x_can_remove(): fix order of deregistration")
+1ff203badbbf ("can: tcan4x5x: tcan4x5x_can_probe(): add missing error checking for devm_regmap_init()")

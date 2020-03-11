@@ -1,0 +1,6 @@
+7af2f3e55c1e ("drm/i915/cdclk: Extract bxt_cdclk_ctl()")
+e1a914aef28f ("drm/i915/cdclk: Remove the assumption that cdclk divider==2 when using squashing")
+3d3696c0fed1 ("drm/i915/lnl: Start using CDCLK through PLL")
+33d0c67dcbb0 ("drm/i915: Implement workaround for CDCLK PLL disable/enable")
+25e0e5ae5610 ("drm/i915/display: Do both crawl and squash when changing cdclk")
+9a0a4ec530a7 ("drm/i915/display: Add missing checks for cdclk crawling")

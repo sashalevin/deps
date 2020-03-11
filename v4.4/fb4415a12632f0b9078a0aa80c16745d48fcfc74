@@ -1,0 +1,4 @@
+fb4415a12632 ("staging: android: ashmem: Don't call fallocate() with ashmem_mutex held.")
+173a4906aebe ("staging: android: ashmem: Shrink directly through shmem_fallocate")
+ce8a3a9e76d0 ("staging: android: ashmem: Fix a race condition in pin ioctls")
+18e77054de74 ("staging: ashmem: Avoid deadlock with mmap/shrink")

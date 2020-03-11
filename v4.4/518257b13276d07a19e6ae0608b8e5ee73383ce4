@@ -1,0 +1,4 @@
+518257b13276 ("dm mpath: switch to using bitops for state flags")
+be7d31cca886 ("dm mpath: switch from 'unsigned' to 'bool' for flags where appropriate")
+21136f89d76d ("dm mpath: remove repeat_count support from multipath core")
+7943bd6dd3e7 ("dm mpath: remove unnecessary casts in front of ti->private")

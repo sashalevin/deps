@@ -1,0 +1,7 @@
+be0554c9bf9f ("selinux: clean up cred usage and simplify")
+d17af5056cf9 ("mm: Change vm_is_stack_for_task() to vm_is_stack_for_current()")
+c2316dbf1242 ("selinux: apply execstack check on thread stacks")
+0c6181cb301f ("selinux: consolidate the ptrace parent lookup code")
+65376df58217 ("proc: revert /proc/<pid>/maps [stack:TID] annotation")
+f9df6458218f ("selinux: export validatetrans decisions")
+6f3be9f562e3 ("security: Add hook to invalidate inode security labels")

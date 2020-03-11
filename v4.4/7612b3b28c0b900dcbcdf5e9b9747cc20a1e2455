@@ -1,0 +1,5 @@
+7612b3b28c0b ("PCI: pciehp: Report power fault only once until we clear it")
+fad214b0aa72 ("PCI: pciehp: Process all hotplug events before looking for new ones")
+70e8b40176c7 ("PCI: pciehp: Return IRQ_NONE when we can't read interrupt status")
+a8499f20d30e ("PCI: pciehp: Rename pcie_isr() locals for clarity")
+ed91de7e14fb ("PCI: pciehp: Ignore interrupts during D3cold")

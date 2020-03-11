@@ -1,0 +1,6 @@
+792ef14df5c5 ("efi: Fix boot panic because of invalid BGRT image address")
+7425826f4f7a ("efi/bgrt: Skip efi_bgrt_init() in case of non-EFI boot")
+75def552bb1e ("x86/efi/bgrt: Move efi-bgrt handling out of arch/x86")
+7b0a911478c7 ("efi/x86: Move the EFI BGRT init code to early init code")
+4bc9f92e64c8 ("x86/efi-bgrt: Use efi_mem_reserve() to avoid copying image data")
+35dc9ec1076b ("Merge branch 'linus' into efi/core, to pick up fixes")

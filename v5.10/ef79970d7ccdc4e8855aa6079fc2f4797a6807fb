@@ -1,0 +1,7 @@
+ef79970d7ccd ("x86/split-lock: Remove unused TIF_SLD bit")
+ebb1064e7c2e ("x86/traps: Handle #DB for bus lock")
+9223d0dccb8f ("thermal: Move therm_throt there from x86/mce")
+4f432e8bb15b ("x86/mce: Get rid of mcheck_intel_therm_init()")
+c8d5ed67936f ("x86: Wire up TIF_NOTIFY_SIGNAL")
+8d71d2bf6efe ("x86: Reclaim TIF_IA32 and TIF_X32")
+ff170cd05953 ("x86/mm: Convert mmu context ia32_compat into a proper flags field")

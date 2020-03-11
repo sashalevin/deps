@@ -1,0 +1,7 @@
+eb0dd6e4a3b3 ("i40e: Allow RSS Hash set with less than four parameters")
+272cdaf2472a ("i40e: Use the new rx ctl register helpers. Don't use AQ calls from clear_hw.")
+3d0da5b78262 ("i40e/i40evf: Fix for UDP/TCP RSS for X722")
+6e35c04cf633 ("i40e/i40evf: Fix RSS rx-flow-hash configuration through ethtool")
+96a8198652e5 ("i40evf: rename VF adapter specific RSS function")
+043dd650efde ("i40e: create a generic configure rss function")
+e69ff813af35 ("i40e: rework the functions to configure RSS with similar parameters")

@@ -1,0 +1,8 @@
+d6263677bb1b ("bnxt_en: support lane configuration via ethtool")
+745b5c653913 ("bnxt_en: avoid link reset if speed is not changed")
+532262ba3b84 ("bnxt_en: ethtool: support PAM4 link speeds up to 200G")
+f00530bf3c98 ("bnxt_en: refactor bnxt_get_fw_speed()")
+f704d24371a4 ("bnxt: reject unsupported coalescing params")
+38a21b34aacd ("bnxt_en: Add 100G link speed reporting for BCM57454 ASIC in ethtool")
+e70c752f88ed ("bnxt_en: Print FEC settings as part of the linkup dmesg.")
+68515a186cf8 ("bnxt_en: Fix and clarify link_info->advertising.")

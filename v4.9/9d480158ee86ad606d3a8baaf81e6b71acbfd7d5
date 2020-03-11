@@ -1,0 +1,7 @@
+9d480158ee86 ("perf/x86/intel/uncore: Remove uncore extra PCI dev HSWEP_PCI_PCU_3")
+6265adb97260 ("perf/x86/intel/uncore: Use boot_cpu_data.phys_proc_id instead of hardcorded physical package ID 0")
+156c8b58ef5c ("perf/x86/intel/uncore: Fix hardcoded index of Broadwell extra PCI devices")
+15a3e845b01c ("perf/x86/intel/uncore: Fix SBOX support for Broadwell CPUs")
+d7717587ac6d ("perf/x86/intel/uncore: Revert "Remove SBOX support for Broadwell server"")
+bb9fbe1b5750 ("perf/x86/intel/uncore: Add event constraint for BDX PCU")
+6d6daa20945f ("perf/x86/intel/uncore: Fix hardcoded socket 0 assumption in the Haswell init code")

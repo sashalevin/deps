@@ -1,0 +1,7 @@
+daf52375c19f ("amd64: switch csum_partial_copy_generic() to new calling conventions")
+c693cc4676a0 ("saner calling conventions for csum_and_copy_..._user()")
+99a2c96d52d3 ("csum_and_copy_..._user(): pass 0xffffffff instead of 0 as initial sum")
+cc44c17baf7f ("csum_partial_copy_nocheck(): drop the last argument")
+6e41c585e38f ("unify generic instances of csum_partial_copy_nocheck()")
+3ea7ca80d9c0 ("icmp_push_reply(): reorder adding the checksum up")
+8d5930dfb7ed ("skb_copy_and_csum_bits(): don't bother with the last argument")

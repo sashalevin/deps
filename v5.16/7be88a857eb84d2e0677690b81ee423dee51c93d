@@ -1,0 +1,8 @@
+7be88a857eb8 ("rcu/nocb: Assert no callbacks while nocb kthread allocation fails")
+3a5761dc025d ("rcu/nocb: Fix NOCB kthreads spawn failure with rcu_nocb_rdp_deoffload() direct call")
+1598f4a4762b ("rcu/nocb: Add/del rdp to iterate from rcuog itself")
+c8b16a65267e ("rcu: Elevate priority of offloaded callback threads")
+02e302417527 ("rcu/nocb: Handle concurrent nocb kthreads creation")
+2ebc45c44c4f ("rcu/nocb: Remove rcu_node structure from nocb list when de-offloaded")
+fbb94cbd70d4 ("rcu/nocb: Invoke rcu_core() at the start of deoffloading")
+213d56bf33bd ("rcu/nocb: Prepare state machine for a new step")

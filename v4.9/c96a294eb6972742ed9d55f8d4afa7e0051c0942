@@ -1,0 +1,4 @@
+c96a294eb697 ("kbuild: fix modname for composite modules")
+aeacb019b61c ("kbuild: define KBUILD_MODNAME even if multiple modules share objects")
+8cd0e46d3f0c ("kbuild: remove unnecessary $(subst $(obj)/, , ...) in modname-multi")
+8a78756eb545 ("kbuild: create object directories simpler and faster")

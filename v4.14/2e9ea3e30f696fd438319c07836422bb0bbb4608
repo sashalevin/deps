@@ -1,0 +1,7 @@
+2e9ea3e30f69 ("net: rtnetlink: add helper to extract msg type's kind")
+12dc5c2cb7b2 ("net: rtnetlink: add msg kind names")
+16feebcf2350 ("rtnetlink: remove __rtnl_register")
+e4202511480d ("rtnetlink: get reference on module before invoking handlers")
+addf9b90de22 ("net: rtnetlink: use rcu to free rtnl message handlers")
+c24675f871d3 ("ipv6: addrconf: don't use rtnl mutex in RTM_GETADDR")
+4ea2607f7871 ("ipv6: addrconf: don't use rtnl mutex in RTM_GETNETCONF")

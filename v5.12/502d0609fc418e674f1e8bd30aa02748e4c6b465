@@ -1,0 +1,5 @@
+502d0609fc41 ("drm/i915/gtt: add some flushing for the 64K GTT path")
+529b9ec809a0 ("drm/i915/gtt: map the PD up front")
+480ae79537b2 ("drm/i915/selftests: Prepare gtt tests for obj->mm.lock removal")
+26ad4f8b7352 ("drm/i915: Use a single page table lock for each gtt.")
+e322551f47d2 ("drm/i915/gt: Remove references to struct drm_device.pdev")

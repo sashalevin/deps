@@ -1,0 +1,5 @@
+dea5e2a4c5bc ("arm64: alternatives: Add dynamic patching feature")
+15ad6ace5203 ("arm64: fix endianness annotation for __apply_alternatives()/get_alt_insn()")
+5ea5306c3235 ("arm64: alternatives: apply boot time fixups via the linear mapping")
+f14c66ce81b5 ("arm64: mm: replace 'block_mappings_allowed' with 'page_mappings_only'")
+e98216b52176 ("arm64: mm: BUG on unsupported manipulations of live kernel mappings")

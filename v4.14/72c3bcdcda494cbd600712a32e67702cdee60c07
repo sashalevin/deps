@@ -1,0 +1,3 @@
+72c3bcdcda49 ("KVM: x86: handle !lapic_in_kernel case in kvm_cpu_*_extint")
+bb34e690e934 ("KVM: LAPIC: Fix pending interrupt in IRR blocked by software disable LAPIC")
+04140b4144cd ("KVM: x86: Rename interrupt.pending to interrupt.injected")

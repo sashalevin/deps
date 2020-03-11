@@ -1,0 +1,6 @@
+8ed00760203d ("srcu: Tighten cleanup_srcu_struct() GP checks")
+aacb5d91ab1b ("srcu: Use "ssp" instead of "sp" for srcu_struct pointer")
+eb4c2382272a ("srcu: Lock srcu_data structure in srcu_gp_start()")
+0607ba8403c4 ("srcu: Prevent __call_srcu() counter wrap with read-side critical section")
+f3e763c3e544 ("srcu: Fix kernel-doc missing notation")
+b56ada120921 ("Merge branches 'doc.2018.08.30a', 'dynticks.2018.08.30b', 'srcu.2018.08.30b' and 'torture.2018.08.29a' into HEAD")

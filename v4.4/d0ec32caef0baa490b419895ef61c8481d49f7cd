@@ -1,0 +1,4 @@
+d0ec32caef0b ("drm/tilcdc: Use devm_kzalloc() and devm_kcalloc() for private data")
+29ddd6e171ab ("drm/tilcdc: Allocate register storage based on the actual number registers")
+85fd27f80b36 ("drm/tilcdc: fix kernel panic on suspend when no hdmi monitor connected")
+416a07fbe7b1 ("drm/tilcdc: adopt pinctrl support")

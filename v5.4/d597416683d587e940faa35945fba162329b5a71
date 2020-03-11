@@ -1,0 +1,4 @@
+d597416683d5 ("x86/mm: Inhibit _PAGE_NX changes from cpa_process_alias()")
+ef9ab81af6e1 ("x86/mm: Untangle __change_page_attr_set_clr(.checkalias)")
+ab5130186d74 ("x86/mm/cpa: Flush direct map alias during cpa")
+75fbef0a8b6b ("x86/mm: Fix NX bit clearing issue in kernel_map_pages_in_pgd")

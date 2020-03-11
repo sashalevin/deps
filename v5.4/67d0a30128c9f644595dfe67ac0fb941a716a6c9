@@ -1,0 +1,5 @@
+67d0a30128c9 ("drm/meson: dw-hdmi: Fix devm_regulator_*get_enable*() conversion")
+429e87063661 ("drm/meson: dw-hdmi: Use devm_regulator_*get_enable*()")
+1dfeea904550 ("drm/meson: dw-hdmi: Disable clocks on driver teardown")
+0405f94a1ae0 ("drm/meson: dw-hdmi: Register a callback to disable the regulator")
+1374b8375c2e ("drm/meson: dw_hdmi: add resume/suspend hooks")

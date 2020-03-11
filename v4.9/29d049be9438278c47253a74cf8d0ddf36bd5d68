@@ -1,0 +1,3 @@
+29d049be9438 ("iommu/amd: Return proper error code in irq_remapping_alloc()")
+fde65dd3d309 ("iommu/amd: Remove the special case from alloc_irq_table()")
+df42a04b15f1 ("iommu/amd: Avoid locking get_irq_table() from atomic context")

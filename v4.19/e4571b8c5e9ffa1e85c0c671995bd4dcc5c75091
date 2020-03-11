@@ -1,0 +1,4 @@
+e4571b8c5e9f ("btrfs: fix NULL pointer dereference when deleting device by invalid id")
+a27a94c2b0c7 ("btrfs: Make btrfs_find_device_by_devspec return btrfs_device directly")
+6c05040702e7 ("btrfs: Make btrfs_find_device_missing_or_by_path return directly a device")
+b444ad46b2db ("btrfs: Make btrfs_find_device_by_path return struct btrfs_device")

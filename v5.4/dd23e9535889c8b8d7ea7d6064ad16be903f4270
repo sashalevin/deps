@@ -1,0 +1,7 @@
+dd23e9535889 ("RISC-V: replace cbom instructions with an insn-def")
+65e9fb081877 ("drivers/perf: riscv_pmu_sbi: add support for PMU variant on T-Head C9xx cores")
+5ff112484f2e ("RISC-V: KVM: Use Svinval for local TLB maintenance when available")
+26b73f14933e ("riscv: KVM: Apply insn-def to hlv encodings")
+bb233a11dc6b ("riscv: KVM: Apply insn-def to hfence encodings")
+5ac43ab2e3fe ("riscv: Introduce support for defining instructions")
+3aefb2ee5bdd ("riscv: implement Zicbom-based CMO instructions + the t-head variant")

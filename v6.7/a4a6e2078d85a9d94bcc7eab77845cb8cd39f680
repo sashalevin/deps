@@ -1,0 +1,6 @@
+a4a6e2078d85 ("perf: arm_pmuv3: Prepare for more than 32 counters")
+bf5ffc8c80e0 ("perf: arm_pmu: Remove event index to counter remapping")
+3115ee021bfb ("arm64: perf: Include threshold control fields in PMEVTYPER mask")
+d30f09b6d7de ("arm: perf: Convert remaining fields to use GENMASK")
+62e1f212e5fe ("arm: perf/kvm: Use GENMASK for ARMV8_PMU_PMCR_N")
+9343c790e6de ("arm: perf: Remove inlines from arm_pmuv3.c")

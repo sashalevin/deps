@@ -1,0 +1,6 @@
+6431a7e36652 ("ASoC: samsung: i2s: Fix error handling path in i2s_set_sysclk()")
+f5c97c7b0438 ("ASoC: samsung: i2s: Handle return value of clk_prepare_enable.")
+afa99da863e8 ("ASoC: samsung: i2s: Let runtime PM operations to control op_clk too")
+e7e52dfc68a2 ("ASoC: samsung: i2s: Move saving and restoring regs to runtime pm operations")
+dc938ddb5628 ("ASoC: samsung: i2s: Ensure proper runtime PM state of I2S device")
+be2c92eb6402 ("ASoC: samsung: i2s: Remove virtual device for secondary DAI")

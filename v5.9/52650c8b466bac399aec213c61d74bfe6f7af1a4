@@ -1,0 +1,3 @@
+52650c8b466b ("mm/gup: remove the vma allocation from gup_longterm_locked()")
+96e1fac162cc ("mm/gup: use unpin_user_pages() in __gup_longterm_locked()")
+8f942eea12ae ("binfmt_elf_fdpic: stop using dump_emit() on user pointers on !MMU")

@@ -1,0 +1,4 @@
+23df39fc6a36 ("locking: Fix qspinlock/x86 inline asm error")
+501f7f69bca1 ("locking: Add __lockfunc to slow path functions")
+b519b56e378e ("locking/qrwlock: Use atomic_cond_read_acquire() when spinning in qrwlock")
+f2f09a4cee35 ("locking/core: Remove cpu_relax_lowlatency() users")

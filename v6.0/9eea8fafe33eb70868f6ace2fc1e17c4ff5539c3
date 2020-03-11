@@ -1,0 +1,6 @@
+9eea8fafe33e ("libbpf: fix __arg_ctx type enforcement for perf_event programs")
+76ec90a996e3 ("libbpf: warn on unexpected __arg_ctx type when rewriting BTF")
+2f38fe689470 ("libbpf: implement __arg_ctx fallback logic")
+fb03be7c4a27 ("libbpf: move exception callbacks assignment logic into relocation step")
+7e2925f67237 ("libbpf: Add support for custom exception callbacks")
+43cb8cbadffa ("libbpf: Allows disabling auto attach")

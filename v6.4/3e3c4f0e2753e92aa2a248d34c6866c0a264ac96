@@ -1,0 +1,6 @@
+3e3c4f0e2753 ("rcuscale: Make rcu_scale_writer() tolerate repeated GFP_KERNEL failure")
+abaf1322adbf ("rcuscale: Make all writer tasks report upon hang")
+11377947b586 ("rcuscale: Provide clear error when async specified without primitives")
+42a8a2695ccb ("rcuscale: Dump stacks of stalled rcu_scale_writer() instances")
+ea793764b5c6 ("rcuscale: Save a few lines with whitespace-only change")
+bf5ddd736509 ("rcu/rcuscale: Move rcu_scale_*() after kfree_scale_cleanup()")

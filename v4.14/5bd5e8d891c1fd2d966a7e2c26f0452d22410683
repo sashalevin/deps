@@ -1,0 +1,5 @@
+5bd5e8d891c1 ("dm: remove fmode_t argument from .prepare_ioctl hook")
+971888c46993 ("dm: hold DM table for duration of ioctl rather than use blkdev_get")
+1eb5fa849f2b ("dm: allow targets to return output from messages they are sent")
+da5dadb4f116 ("dm: fix dropped return code from dm_get_bdev_for_ioctl")
+519049afead4 ("dm: use blkdev_get rather than bdgrab when issuing pass-through ioctl")

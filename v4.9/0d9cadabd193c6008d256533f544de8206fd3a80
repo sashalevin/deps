@@ -1,0 +1,8 @@
+0d9cadabd193 ("userfaultfd: disable huge PMD sharing for MINOR registered VMAs")
+c1991e0705d1 ("hugetlb/userfaultfd: forbid huge pmd sharing when uffd enabled")
+aec44e0f0213 ("hugetlb: pass vma into huge_pte_alloc() and huge_pmd_share()")
+e6e4f42eb773 ("sparc64/mm: Implement pXX_leaf_size() support")
+0bf7b64e6e51 ("hugetlb: add lockdep check for i_mmap_rwsem held in huge_pmd_share")
+cf11e85fc08c ("mm: hugetlb: optionally allocate gigantic hugepages using cma")
+c0d0381ade79 ("hugetlbfs: use i_mmap_rwsem for more pmd sharing synchronization")
+9f2a43019edc ("Merge branch 'core-headers-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

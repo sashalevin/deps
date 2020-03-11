@@ -1,0 +1,5 @@
+4153d789e299 ("cifs: Fix pages array leak when writedata alloc failed in cifs_writedata_alloc()")
+fb157ed226d2 ("cifs: when insecure legacy is disabled shrink amount of SMB1 code")
+d7d7a66aacd6 ("cifs: avoid use of global locks for high contention data")
+9543c8ab3016 ("cifs: list_for_each() -> list_for_each_entry()")
+4da2cd0517e0 ("cifs: remove redundant initialization to variable mnt_sign_enabled")

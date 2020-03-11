@@ -1,0 +1,4 @@
+2a57d83c78f8 ("mm/hwpoison: clear MF_COUNT_INCREASED before retrying get_any_page()")
+b94e02822deb ("mm,hwpoison: try to narrow window race for free pages")
+feec24a6139d ("mm, soft-offline: convert parameter to pfn")
+641fe2e9387a ("drivers/base/memory.c: don't access uninitialized memmaps in soft_offline_page_store()")

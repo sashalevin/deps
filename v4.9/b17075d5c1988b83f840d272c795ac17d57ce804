@@ -1,0 +1,6 @@
+b17075d5c198 ("xen-netback: fix race condition on XenBus disconnect")
+a254d8f9a8a9 ("xen-netback: don't vfree() queues under spinlock")
+d67ce7da3b1e ("xen-netback: keep a local pointer for vif in backend_disconnect()")
+ebf692f85ff7 ("xen-netback: vif counters from int/long to u64")
+f16f1df65f1c ("xen-netback: protect resource cleaning on XenBus disconnect")
+9a6cdf52b85e ("xen-netback: fix memory leaks on XenBus disconnect")

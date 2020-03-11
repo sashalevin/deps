@@ -1,0 +1,6 @@
+456e3788bc71 ("vdso: Make delta calculation overflow safe")
+5b26ef660a69 ("vdso: Consolidate nanoseconds calculation")
+c8e3a8b6f2e6 ("vdso: Consolidate vdso_calc_delta()")
+77750f78b0b3 ("x86/vdso: Fix gettimeofday masking")
+36af1c5c1598 ("s390/vdso: use system call functions")
+808094fcbf41 ("lib/vdso: Add vdso_data pointer as input to __arch_get_timens_vdso_data()")

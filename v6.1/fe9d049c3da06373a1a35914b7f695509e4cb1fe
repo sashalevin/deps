@@ -1,0 +1,4 @@
+fe9d049c3da0 ("libbpf: Sync progs autoload with maps autocreate for struct_ops maps")
+69e4a9d2b3f5 ("libbpf: Convert st_ops->data to shadow type.")
+dac645b950ea ("libbpf: use stable map placeholder FDs")
+4aadd2920b81 ("libbpf: Ensure FD >= 3 during bpf_map__reuse_fd()")

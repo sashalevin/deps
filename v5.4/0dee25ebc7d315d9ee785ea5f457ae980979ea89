@@ -1,0 +1,6 @@
+0dee25ebc7d3 ("hwmon: Make use of devm_clk_get_enabled()")
+493372f5d3df ("hwmon: (mr75203) skip reset-control deassert for SOCs that don't support it")
+6f7d70467121 ("hwmon: (ltc2947) Properly handle errors when looking for the external clock")
+9d823351a337 ("hwmon: Add hardware monitoring driver for Moortec MR75203 PVT controller")
+8412b410fa5e ("hwmon: Support ADI Fan Control IP")
+9f90fd652bed ("hwmon: Add support for ltc2947")

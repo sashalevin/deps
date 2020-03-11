@@ -1,0 +1,7 @@
+144ad36c3d3b ("net: ks8851: Factor out TX work flush function")
+d48b7634c692 ("net: ks8851: Split out SPI specific entries in struct ks8851_net")
+22726020050b ("net: ks8851: Factor out bus lock handling")
+88cfedd0d7ab ("net: ks8851: Use 16-bit writes to program MAC address")
+b6948e1b7b09 ("net: ks8851: Use devm_alloc_etherdev()")
+bfd1e0eb08f6 ("net: ks8851: Rename ndev to netdev in probe")
+d320692d9f85 ("net: ks8851: Factor out spi->dev in probe()/remove()")

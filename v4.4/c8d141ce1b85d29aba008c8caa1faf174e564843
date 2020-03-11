@@ -1,0 +1,5 @@
+c8d141ce1b85 ("USB: Fix up terminology in include files")
+a8c06e407ef9 ("usb: separate out sysdev pointer from usb_bus")
+b44bbc46a8bb ("usb: core: setup dma_pfn_offset for USB devices and, interfaces")
+dc5878abf49c ("usb: core: move root hub's device node assignment after it is added to bus")
+58f2266f4019 ("usb: core: Allow compilation on platforms where NO_DMA=y")

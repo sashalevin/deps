@@ -1,0 +1,6 @@
+0d027eea8988 ("USB: serial: f81232: use usb_control_msg_recv() and usb_control_msg_send()")
+18d8fe614fad ("USB: serial: f81232: drop short control-transfer checks")
+33a6b48a5748 ("USB: serial: f81232: add control driver for F81534A")
+0a68ec3d8a2c ("USB: serial: f81232: set F81534A serial port with RS232 mode")
+11301d41ab9a ("USB: serial: f81232: add F81534A support")
+c4b8f9713d66 ("USB: serial: f81232: use devm_kzalloc for port data")

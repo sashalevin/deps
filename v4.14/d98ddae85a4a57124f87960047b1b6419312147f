@@ -1,0 +1,7 @@
+d98ddae85a4a ("ath10k: fix backtrace on coredump")
+703f261dd77f ("ath10k: add memory dump support for QCA6174/QCA9377")
+e2fcf60c6fe8 ("ath10k: detach coredump.c from debug.c")
+f25b9f285a0e ("ath10k: refactor firmware crashdump code to coredump.c")
+d333bdd9b065 ("ath10k: remove deprecated fw_crash_dump debugfs file")
+7f9befbb555d ("ath10k: move pktlog_filter out of ath10k_debug")
+dafa42036012 ("ath10k: use 64-bit crash dump timestamps")

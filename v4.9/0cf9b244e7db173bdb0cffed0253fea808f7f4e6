@@ -1,0 +1,7 @@
+0cf9b244e7db ("btrfs: subpage: only allow compression if the range is fully page aligned")
+99c88dc71cae ("btrfs: make inode_can_compress take btrfs_inode")
+42c16da6d684 ("btrfs: inode: Don't compress if NODATASUM or NODATACOW set")
+c2fcdcdf36bb ("Btrfs: add skeleton code for compression heuristic")
+069eac785089 ("btrfs: use predefined limits for calculating maximum number of pages for compression")
+ff7638665c9a ("btrfs: export compression buffer limits in a header")
+974b1adc3b10 ("btrfs: use bio iterators for the decompression handlers")

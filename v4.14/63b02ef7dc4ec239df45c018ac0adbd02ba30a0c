@@ -1,0 +1,7 @@
+63b02ef7dc4e ("mm: memcg/slab: synchronize access to kmem_cache dying flag using a spinlock")
+434866947564 ("mm: memcg/slab: generalize postponed non-root kmem_cache deactivation")
+0b14e8aa6822 ("mm: memcg/slab: rename slab delayed deactivation functions and fields")
+c03914b7aa31 ("mm: memcg/slab: postpone kmem_cache memcg pointer initialization to memcg_link_cache()")
+6564a25e6c18 ("slab: Replace synchronize_sched() with synchronize_rcu()")
+92ee383f6daa ("mm: fix race between kmem_cache destroy, create and deactivate")
+880cd276dff1 ("mm, slab: memcg_link the SLAB's kmem_cache")

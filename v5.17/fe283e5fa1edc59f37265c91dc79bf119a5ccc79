@@ -1,0 +1,4 @@
+fe283e5fa1ed ("RISC-V: KVM: move preempt_disable() call in kvm_arch_vcpu_ioctl_run")
+2031f2876896 ("KVM: Add helpers to wrap vcpu->srcu_idx and yell if it's abused")
+fdd6f6ac2e48 ("KVM: RISC-V: Use kvm_vcpu.srcu_idx, drop RISC-V's unnecessary copy")
+c9d3b5bd2693 ("RISC-V: KVM: Add common kvm_riscv_vcpu_wfi() function")

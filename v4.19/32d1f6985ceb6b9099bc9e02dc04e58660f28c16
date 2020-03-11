@@ -1,1 +1,5 @@
 32d1f6985ceb ("drm/ttm: Allow the driver to provide the ttm struct vm_operations_struct")
+56b3d2041358 ("drm/ttm: make the device list mutex static")
+27eb1fa9130a ("drm/ttm: use a static ttm_mem_global instance")
+105f20706fb5 ("drm/ttm: Provide ttm_bo_global_{init/release}() for struct ttm_bo_global")
+e55a5c9b5f5b ("drm/ttm: Rename ttm_bo_global_{init,release}() to ttm_bo_global_ref_{,}()")

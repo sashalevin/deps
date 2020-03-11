@@ -1,0 +1,7 @@
+afe041c2d0fe ("hugetlb: fix hugetlb cgroup refcounting during mremap")
+550a7d60bd5e ("mm, hugepages: add mremap() support for hugepage backed vma")
+73c54763482b ("mm/hugetlb: drop __unmap_hugepage_range definition from hugetlb.h")
+09a26e832705 ("hugetlb: fix hugetlb cgroup refcounting during vma split")
+d85aecf2844f ("hugetlb_cgroup: fix imbalanced css_get and css_put pair for shared mappings")
+79aa925bf239 ("hugetlb_cgroup: fix reservation accounting")
+0bf7b64e6e51 ("hugetlb: add lockdep check for i_mmap_rwsem held in huge_pmd_share")

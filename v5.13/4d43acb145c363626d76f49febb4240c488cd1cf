@@ -1,0 +1,4 @@
+4d43acb145c3 ("dmaengine: at_xdmac: fix potential Oops in at_xdmac_prep_interleaved()")
+801db90bf294 ("dmaengine: at_xdmac: Move the free desc to the tail of the desc list")
+b63e5cb94ad6 ("dmaengine: at_xdmac: Fix race for the tx desc callback")
+506875c30fc5 ("dmaengine: at_xdmac: Fix concurrency over chan's completed_cookie")

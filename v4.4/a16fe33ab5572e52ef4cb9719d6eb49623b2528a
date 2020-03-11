@@ -1,0 +1,7 @@
+a16fe33ab557 ("fs: add ksys_chroot() helper; remove-in kernel calls to sys_chroot()")
+c7248321a3d4 ("fs: add ksys_dup{,3}() helper; remove in-kernel calls to sys_dup{,3}()")
+3a18ef5c1b39 ("fs: add ksys_umount() helper; remove in-kernel call to sys_umount()")
+312db1aa1dc7 ("fs: add ksys_mount() helper; remove in-kernel calls to sys_mount()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")
+a60f7b69d92c ("generic syscalls: Wire up memory protection keys syscalls")
+c52b76185b7a ("Merge branch 'work.const-path' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

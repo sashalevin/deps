@@ -1,0 +1,6 @@
+9458f4ba7d35 ("drm/i915: Do not WARN_ON in i915_vm_to_ppgtt")
+596c5923197b ("drm/i915: Reduce the pointer dance of i915_is_ggtt()")
+1c7f4bca5a6f ("drm/i915: Rename vma->*_list to *_link for consistency")
+c1a415e261aa ("drm/i915: Disable shrinker for non-swapped backed objects")
+d0710abbcd88 ("drm/i915: Set the map-and-fenceable flag for preallocated objects")
+1b683729e7ac ("drm/i915: Remove redundant check in i915_gem_obj_to_vma")

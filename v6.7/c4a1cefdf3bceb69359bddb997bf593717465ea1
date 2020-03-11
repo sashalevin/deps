@@ -1,0 +1,5 @@
+c4a1cefdf3bc ("net: dsa: qca8k: use "dev" consistently within qca8k_mdio_register()")
+5c5d6b34b683 ("net: dsa: qca8k: consolidate calls to a single devm_of_mdiobus_register()")
+525366b81f33 ("net: dsa: qca8k: assign ds->user_mii_bus only for the non-OF case")
+e66bf63a7f67 ("net: dsa: qca8k: skip MDIO bus creation if its OF node has status = "disabled"")
+68e1010cda79 ("net: dsa: qca8k: put MDIO bus OF node on qca8k_mdio_register() failure")

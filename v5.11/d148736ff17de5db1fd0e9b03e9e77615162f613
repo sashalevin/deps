@@ -1,0 +1,5 @@
+d148736ff17d ("crypto: x86/aesni - Correct the data type in struct aesni_xts_ctx")
+28b776098379 ("crypto: x86/aesni - remove unused parameter to aes_set_key_common()")
+74c6df413f64 ("crypto: x86/aesni - Align the address before aes_set_key_common()")
+2481104fe98d ("crypto: x86/aes-ni-xts - rewrite and drop indirections via glue helper")
+86ad60a65f29 ("crypto: x86/aes-ni-xts - use direct calls to and 4-way stride")

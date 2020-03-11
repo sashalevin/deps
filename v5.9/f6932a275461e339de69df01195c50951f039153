@@ -1,0 +1,6 @@
+f6932a275461 ("nvdimm/pmem: fix leak on dax_add_host() failure")
+30c6828a17a5 ("dax: remove the DAXDEV_F_SYNC flag")
+fb08a1908cb1 ("dax: simplify the dax_device <-> gendisk association")
+5d2a228b9e13 ("dm: make the DAX support depend on CONFIG_FS_DAX")
+d751939235b9 ("dm: fix alloc_dax error handling in alloc_dev")
+4287af35113c ("Merge tag 'libnvdimm-for-5.16' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

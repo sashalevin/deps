@@ -1,0 +1,6 @@
+af169b7759a9 ("perf: Fixup SIGTRAP and sample_flags interaction")
+ca6c21327c6a ("perf: Fix missing SIGTRAPs")
+e3265a438642 ("perf/core: Inherit event_caps")
+2aef6f306b39 ("perf: Force architectures to opt-in to guest callbacks")
+2934e3d09350 ("perf: Stop pretending that perf can handle multiple guest callbacks")
+ff083a2d972f ("perf: Protect perf_guest_cbs with RCU")

@@ -1,0 +1,5 @@
+2b84def990d3 ("perf: Split __perf_pending_irq() out of perf_pending_irq()")
+3a5465418f5f ("perf: Fix event leak upon exec and file release")
+2fd5ad3f310d ("perf: Fix event leak upon exit")
+517e6a301f34 ("perf: Fix perf_pending_task() UaF")
+ca6c21327c6a ("perf: Fix missing SIGTRAPs")

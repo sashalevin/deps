@@ -1,0 +1,6 @@
+f0442df2156a ("drm/rockchip: respect CONFIG_DRM_FBDEV_EMULATION")
+ce90d092bcd9 ("drm/rockchip: Don't build rockchip_drm_vop as modules")
+a67719d18229 ("drm/rockchip: vop: spilt register related into rockchip_reg_vop.c")
+dbb3d94444ea ("drm/rockchip: vop: move interrupt registers into vop_data")
+0cf33fe33d4e ("drm/rockchip: vop: merge vop cfg_done into vop_data")
+b5f7b75503ef ("drm/rockchip: Use new vblank api drm_crtc_vblank_*")

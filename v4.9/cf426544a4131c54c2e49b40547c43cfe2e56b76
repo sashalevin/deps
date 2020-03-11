@@ -1,0 +1,5 @@
+cf426544a413 ("serial: 8250_fintek: Remove serial_rs485 sanitization")
+af0179270977 ("serial: 8250_fintek: Check SER_RS485_RTS_* only with RS485")
+21c4e7f255e3 ("serial: 8250_fintek: Disable delays for ports != 0")
+7ecc77011c6f ("serial: 8250_fintek: Return -EINVAL on invalid configuration")
+3236a965486b ("serial: 8250_fintek: Fix rs485 disablement on invalid ioctl()")

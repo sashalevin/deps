@@ -1,0 +1,4 @@
+b803d7c664d5 ("ring-buffer: Fix slowpath of interrupted event")
+0aa0e5289cfe ("ring-buffer: Have rb_time_cmpxchg() set the msb counter too")
+fff88fa0fbc7 ("ring-buffer: Fix a race in rb_time_cmpxchg() for 32 bit archs")
+00a8478f8f5c ("ring_buffer: Use try_cmpxchg instead of cmpxchg")

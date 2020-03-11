@@ -1,0 +1,8 @@
+258aad75c621 ("scsi: iscsi: Fix iscsi_task use after free")
+d39df158518c ("scsi: iscsi: Have abort handler get ref to conn")
+14936b1ed249 ("scsi: libiscsi: Fix iscsi_task use after free()")
+5923d64b7ab6 ("scsi: libiscsi: Drop taskqueuelock")
+d28d48c69977 ("scsi: libiscsi: Fix iscsi_prep_scsi_cmd_pdu() error handling")
+fe0a8a95e713 ("scsi: libiscsi: Fix NOP race condition")
+5480e299b5ae ("scsi: iscsi: Fix a potential deadlock in the timeout handler")
+92fff53b7191 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

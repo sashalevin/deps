@@ -1,1 +1,4 @@
 28d42ea14e48 ("signal/x86: Remove task parameter from send_sigtrap")
+0a996c1a3f26 ("signal/x86: Use force_sig_fault where appropriate")
+73f297aa0728 ("signal/x86: Inline fill_sigtrap_info in it's only caller send_sigtrap")
+efc463adbccf ("signal: Simplify tracehook_report_syscall_exit")

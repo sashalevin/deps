@@ -1,1 +1,8 @@
 b3694e6c0a05 ("perf db-export: Factor out db_export__threads()")
+4650c7bed795 ("perf db-export: Also export thread's current comm")
+a5defb2f3984 ("perf db-export: Fix a white space issue in db_export__sample()")
+1ed119589834 ("perf db-export: Move export__comm_thread into db_export__sample()")
+6319790bcf82 ("perf db-export: Export comm before exporting thread")
+19207d86940d ("perf db-export: Export main_thread in db_export__sample()")
+ed5c0a16feb9 ("perf db-export: Pass main_thread to db_export__thread()")
+208032fef13b ("perf db-export: Rename db_export__comm() to db_export__exec_comm()")

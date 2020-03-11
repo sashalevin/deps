@@ -1,0 +1,5 @@
+5521eb4bca2d ("powerpc/ptrace: Add support for PTRACE_SYSEMU")
+16d7c69c8985 ("powerpc: Redefine TIF_32BITS thread flag")
+3e3786801b70 ("powerpc: Check address limit on user-mode return (TIF_FSCHECK)")
+ba0635fcbe8c ("powerpc: Rename thread_struct.fs to addr_limit")
+a768f78429fd ("livepatch/powerpc: add TIF_PATCH_PENDING thread flag")

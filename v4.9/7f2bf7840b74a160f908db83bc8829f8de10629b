@@ -1,0 +1,4 @@
+7f2bf7840b74 ("tty: hvc: hvc_write() fix break condition")
+9f65b81f36e3 ("tty: hvc: introduce the hv_ops.flush operation for hvc drivers")
+550ddadcc758 ("tty: hvc: hvc_write() may sleep")
+a9bf5c8a271b ("tty: hvc: use mutex instead of spinlock for hvc_structs lock")

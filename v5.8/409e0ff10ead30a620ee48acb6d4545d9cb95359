@@ -1,0 +1,4 @@
+409e0ff10ead ("nbd: reset NBD to NULL when restarting in nbd_genl_connect")
+6e4df4c64881 ("nbd: reduce the nbd_index_mutex scope")
+6177b56c96ff ("nbd: refactor device search and allocation in nbd_genl_connect")
+7bdc00cf7e36 ("nbd: return the allocated nbd_device from nbd_dev_add")

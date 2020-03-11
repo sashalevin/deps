@@ -1,0 +1,4 @@
+568b567f78ac ("mm/zsmalloc: fix migrate_write_lock() when !CONFIG_COMPACTION")
+9997bc017549 ("zsmalloc: implement writeback mechanism for zsmalloc")
+64f768c6b32e ("zsmalloc: add a LRU to zs_pool to keep track of zspages in LRU order")
+c0547d0b6a4b ("zsmalloc: consolidate zs_pool's migrate_lock and size_class's locks")

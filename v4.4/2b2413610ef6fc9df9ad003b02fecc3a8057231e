@@ -1,0 +1,6 @@
+2b2413610ef6 ("ipv6: Mark dead nexthops with appropriate flags")
+9fcb0714dc38 ("ipv6: Remove redundant route flushing during namespace dismantle")
+ba1cc08d9488 ("ipv6: fix memory leak with multiple tables during netns destruction")
+db916649b5dd ("ipv6: get rid of icmp6 dst garbage collector")
+8397ed36b7c5 ("net: ipv6: Release route when device is unregistering")
+a1a22c12060e ("net: ipv6: Keep nexthop of multipath route on admin down")

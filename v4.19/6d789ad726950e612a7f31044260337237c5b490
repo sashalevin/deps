@@ -1,0 +1,7 @@
+6d789ad72695 ("tpm, tpm_tis: Disable interrupts if tpm_tis_probe_irq() failed")
+282657a8bd7f ("tpm, tpm_tis: Claim locality before writing TPM_INT_ENABLE register")
+b160c94be5d2 ("tpm/tpm_tis: Free IRQ if probing fails")
+aa4a63dd9816 ("tpm: Revert "tpm_tis_core: Turn on the TPM before probing IRQ's"")
+dda8b2af395b ("tpm: Revert "tpm_tis_core: Set TPM_CHIP_FLAG_IRQ before probing for interrupts"")
+1ea32c83c699 ("tpm_tis_core: Set TPM_CHIP_FLAG_IRQ before probing for interrupts")
+5b359c7c4372 ("tpm_tis_core: Turn on the TPM before probing IRQ's")

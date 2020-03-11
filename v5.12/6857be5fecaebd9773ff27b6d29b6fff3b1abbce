@@ -1,0 +1,6 @@
+6857be5fecae ("mm: introduce ARCH_SUPPORTS_HUGE_PFNMAP and special bits to pmd/pud")
+ac3830c3b266 ("mm/Kconfig: CONFIG_PGTABLE_HAS_HUGE_LEAVES")
+43b02ba93b25 ("mm: replace CONFIG_FLAT_NODE_MEM_MAP with CONFIG_FLATMEM")
+a9ee6cf5c60e ("mm: replace CONFIG_NEED_MULTIPLE_NODES with CONFIG_NUMA")
+bb1c50d3967f ("mm: remove CONFIG_DISCONTIGMEM")
+ccbd6283a9b6 ("mm/sparse: fix check_usemap_section_nr warnings")

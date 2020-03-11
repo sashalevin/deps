@@ -1,0 +1,7 @@
+0871237a946e ("scsi: target: Replace all non-returning strlcpy() with strscpy()")
+0322913cab79 ("scsi: target: Add device product id and revision configfs attributes")
+3beeabd5f2d1 ("scsi: target: perform t10_wwn ID initialisation in target_alloc_device()")
+54a6f3f6a43c ("scsi: target: add device vendor_id configfs attribute")
+b2da4abf26e8 ("scsi: target: consistently null-terminate t10_wwn strings")
+0de263577de5 ("scsi: target: use consistent left-aligned ASCII INQUIRY data")
+dce6190ca78a ("scsi: target: split out helper for cxn timeout error stashing")

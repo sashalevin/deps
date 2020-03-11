@@ -1,0 +1,7 @@
+c929ac9eb85a ("Input: exc3000 - fix firmware version query for device in bootloader")
+102feb1ddfd0 ("Input: exc3000 - factor out vendor data request")
+a63d0120a2dd ("Input: exc3000 - split MT event handling from IRQ handler")
+d862a3068ea5 ("Input: exc3000 - add support to query model and fw_version")
+3bdd21c6937a ("Input: exc3000 - add EXC80H60 and EXC80H84 support")
+1053653ffadb ("dt-bindings: touchscreen: Convert EETI EXC3000 touchscreen to json-schema")
+deae576455bb ("Input: exc3000 - switch to i2c's probe_new API")

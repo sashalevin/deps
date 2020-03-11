@@ -1,0 +1,8 @@
+0a70bd430533 ("dax: enable dax in the presence of known media errors (badblocks)")
+a8078b1fc616 ("block: Update blkdev_dax_capable() for consistency")
+2d96afc8f70e ("block: Add bdev_dax_supported() for dax mount checks")
+cfe30b872058 ("libnvdimm, pmem: adjust for section collisions with 'System RAM'")
+d9cbe09d39aa ("libnvdimm, pmem: fix 'pfn' support for section-misaligned namespaces")
+9f4736fe7ca8 ("block: revert runtime dax control of the raw block device")
+5955102c9984 ("wrappers for ->i_mutex access")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

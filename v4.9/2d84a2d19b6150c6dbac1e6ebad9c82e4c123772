@@ -1,0 +1,4 @@
+2d84a2d19b61 ("fuse: fix possibly missed wake-up after abort")
+b8f95e5d13f5 ("fuse: umount should wait for all requests")
+87114373ea50 ("fuse: fix double request_end()")
+3b7008b226f3 ("fuse: return -ECONNABORTED on /dev/fuse read after abort")

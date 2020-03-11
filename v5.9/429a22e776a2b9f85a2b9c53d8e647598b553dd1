@@ -1,0 +1,3 @@
+429a22e776a2 ("coredump: rework elf/elf_fdpic vma_dump_size() into common helper")
+afc63a97b764 ("coredump: refactor page range dumping into common helper")
+8f942eea12ae ("binfmt_elf_fdpic: stop using dump_emit() on user pointers on !MMU")

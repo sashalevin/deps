@@ -1,0 +1,8 @@
+a971ed800211 ("virtio_blk: remove the broken zone revalidation support")
+f1ba4e674feb ("virtio-blk: fix to match virtio spec")
+07b679f70d73 ("virtio-blk: support completion batching for the IRQ path")
+489e18f3d732 ("virtio-blk: set req->state to MQ_RQ_COMPLETE after polling I/O is finished")
+2a9c844e896b ("virtio_blk: zone append in header type tweak")
+04e5421e6f61 ("virtio_blk: temporary variable type tweak")
+95bfec41bd3d ("virtio-blk: add support for zoned block devices")
+e60d64074214 ("virtio_blk: add SECURE ERASE command support")

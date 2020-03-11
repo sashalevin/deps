@@ -1,0 +1,6 @@
+63b774993dd0 ("mm: convert free_swap_cache() to take a folio")
+d4111eecdc3c ("mm: use a folio in __collapse_huge_page_copy_succeeded()")
+4907e80b76af ("mm: convert free_pages_and_swap_cache() to use folios_put()")
+d7f861b9c43a ("mm/mmu_gather: add __tlb_remove_folio_pages()")
+da510964c095 ("mm/mmu_gather: define ENCODED_PAGE_FLAG_DELAY_RMAP")
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")

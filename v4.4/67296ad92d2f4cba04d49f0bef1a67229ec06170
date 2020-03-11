@@ -1,0 +1,5 @@
+67296ad92d2f ("be2iscsi: Use macros for MCC WRB and CQE fields")
+12843f0361cb ("be2iscsi: Fix to synchronize tag allocation using spin_lock")
+cdde6682ab61 ("be2iscsi: Fix to use atomic bit operations for tag_state")
+c03a50f7098b ("be2iscsi: Fix mbox synchronization replacing spinlock with mutex")
+6ac999efeeff ("be2iscsi: Fix soft lockup in mgmt_get_all_if_id path using bmbx")

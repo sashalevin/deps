@@ -1,0 +1,4 @@
+c776b77a279c ("Revert "drivers:tty:pty: Fix a race causing data loss on close"")
+33d4ae988598 ("drivers:tty:pty: Fix a race causing data loss on close")
+f446776ebffb ("tty: Export redirect release")
+b027e2298bd5 ("tty: fix data race between tty_init_dev and flush of buf")

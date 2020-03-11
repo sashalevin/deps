@@ -1,0 +1,7 @@
+005c34ae4b44 ("irqchip/gic: Atomically update affinity")
+0c9e498286ef ("irqchip/gic: Report that effective affinity is a single target")
+04c8b0f82c7d ("irqchip/gic: Make locking a BL_SWITCHER only feature")
+059e232089e4 ("irqchip/gic: Allow self-SGIs for SMP on UP configurations")
+0407daceedfe ("irqchip/gic: Return IRQ_SET_MASK_OK_DONE in the set_affinity method")
+c27f29bbbf02 ("irqchip/mvebu-odmi: Add new driver for platform MSI on Marvell 7K/8K")
+aaa8666ada78 ("IRQCHIP: irq-pic32-evic: Add support for PIC32 interrupt controller")

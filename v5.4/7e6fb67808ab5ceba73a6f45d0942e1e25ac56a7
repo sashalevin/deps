@@ -1,0 +1,7 @@
+7e6fb67808ab ("power: supply: bq25890: Fix usb-notifier probe and remove races")
+5f5c10ecaf3f ("power: supply: bq25890: Factor out regulator registration code")
+79d35365a585 ("power: supply: bq25890: Add support for registering the Vbus boost converter as a regulator")
+d01363da53eb ("power: supply: bq25890: Fix race causing oops at boot")
+172d0ccea55c ("power: bq25890: add return values to error messages")
+cb619e80333a ("power: supply: bq25890_charger: fix incorrect error return when bq25890_field_read fails")
+d20267c9a98e ("power: supply: bq25890_charger: Add support of BQ25892 and BQ25896 chips")

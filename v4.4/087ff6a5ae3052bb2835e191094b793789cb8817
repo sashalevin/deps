@@ -1,0 +1,6 @@
+087ff6a5ae30 ("powerpc/pseries: Fix "OF: ERROR: Bad of_node_put() on /cpus" during DLPAR")
+215ee763f8cb ("powerpc: pseries: remove dlpar_attach_node dependency on full path")
+e666ae0b10aa ("powerpc/pseries: Update CPU hotplug error recovery")
+d98389f37532 ("powerpc/pseries: Factor out common cpu hotplug code")
+183deeea5871 ("powerpc/pseries: Consolidate CPU hotplug code to hotplug-cpu.c")
+1f859adb9253 ("powerpc/pseries: Verify CPU doesn't exist before adding")

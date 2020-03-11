@@ -1,0 +1,3 @@
+80ca10b6052d ("scsi: xen-scsifront: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+3da96be58f2c ("xen/scsifront: don't request a slot on the ring until request is ready")
+1eb08545c0a3 ("xen-scsifront: Add a missing call to kfree")

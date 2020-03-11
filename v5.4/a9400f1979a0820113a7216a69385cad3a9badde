@@ -1,0 +1,8 @@
+a9400f1979a0 ("usb: dwc3: imx8mp: add 2 software managed quirk properties for host mode")
+34e8df2fb2de ("usb: dwc3: imx8mp: use scoped device node handling to simplify error paths")
+9d52107185b6 ("usb: dwc3: imx8mp: Add support for setting SOC specific flags")
+81915384b5d1 ("usb: dwc3: imx8mp: rename iomem base pointer")
+6a48d0ae01a6 ("usb: dwc3: imx8mp: request irq after initializing dwc3")
+0b2b149e918f ("usb: dwc3: imx8mp: fix error return code in dwc3_imx8mp_probe()")
+b96992081fde ("usb: dwc3: imx8mp: detect dwc3 core node via compatible string")
+6dd2565989b4 ("usb: dwc3: add imx8mp dwc3 glue layer driver")

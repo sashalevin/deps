@@ -1,0 +1,3 @@
+a43d5155b945 ("iio: adc: cc10001: Use devm_ to call device power down.")
+dc0ba516d103 ("iio: adc: cc10001: Add devm_add_action_or_reset() to disable regulator.")
+26bfb581931a ("iio: adc: cc10001: Add local struct device *dev variable to avoid repitition")

@@ -1,0 +1,7 @@
+701510875975 ("dm: Start pr_reserve from the same starting path")
+8dd87f3c5283 ("dm: Allow dm_call_pr to be used for path searches")
+5bd5e8d891c1 ("dm: remove fmode_t argument from .prepare_ioctl hook")
+971888c46993 ("dm: hold DM table for duration of ioctl rather than use blkdev_get")
+1eb5fa849f2b ("dm: allow targets to return output from messages they are sent")
+da5dadb4f116 ("dm: fix dropped return code from dm_get_bdev_for_ioctl")
+519049afead4 ("dm: use blkdev_get rather than bdgrab when issuing pass-through ioctl")

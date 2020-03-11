@@ -1,0 +1,5 @@
+23ffe4bbf807 ("KVM: nVMX: Add a sanity check that nested PML Full stems from EPT Violations")
+a9466078687f ("KVM: x86: Move nEPT exit_qualification field from kvm_vcpu_arch to x86_exception")
+0c4765140351 ("KVM: nVMX: Clear EXIT_QUALIFICATION when injecting an EPT Misconfig")
+258d985f6eb3 ("KVM: x86/mmu: Use EMULTYPE flag to track write #PFs to shadow pages")
+1075d41efd59 ("KVM: x86/mmu: Expand and clean up page fault stats")

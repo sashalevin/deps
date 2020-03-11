@@ -1,0 +1,7 @@
+e2a71bdea816 ("timer: Fix wheel index calculation on last level")
+500462a9de65 ("timers: Switch to a non-cascading wheel")
+b0d6e2dcb284 ("timers: Reduce the CPU index space to 256k")
+494af3ed7848 ("timers: Give a few structs and members proper names")
+177ec0a0a531 ("timers: Remove the deprecated mod_timer_pinned() API")
+e675447bda51 ("timers: Make 'pinned' a timer property")
+6f3ffc19157a ("timer: add setup_deferrable_timer macro")

@@ -1,0 +1,7 @@
+9e894ee30afe ("usb: dwc2: stm32mp15: set otg_rev")
+f5c8a6cb2375 ("usb: dwc2: add otg_rev and otg_caps information for gadget driver")
+d58ba480285a ("usb: dwc2: don't use ID/Vbus detection if usb-role-switch on STM32MP15 SoCs")
+a415083a11cc ("usb: dwc2: add support for STM32MP15 SoCs USB OTG HS and FS")
+c846b03ff767 ("USB: dwc2: Don't turn off the usbphy in suspend if wakeup is enabled")
+707d80f0a3c5 ("usb: dwc2: gadget: Replace phyif with phy_utmi_width")
+c40cf7705e13 ("usb: dwc2: optionally assert phy reset when waking up")

@@ -1,0 +1,6 @@
+463d7cfd08d8 ("mtd: spi-nor: spansion: switch h28hx's ready() to use vreg_offset")
+362f786ea00a ("mtd: spi-nor: spansion: switch set_octal_dtr method to use vreg_offset")
+c0aa05123f11 ("mtd: spi-nor: spansion: prepare octal dtr methods for multi chip support")
+1e611e104b9a ("mtd: spi-nor: spansion: preserve CFR2V[7] when writing MEMLAT")
+d534fd9787d5 ("mtd: spi-nor: spansion: use CLPEF as an alternative to CLSR")
+d4996700abc1 ("mtd: spi-nor: rename method for enabling or disabling octal DTR")

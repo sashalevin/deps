@@ -1,0 +1,4 @@
+f8baa6be0368 ("mm/huge_memory: convert get_deferred_split_queue() to take a folio")
+8991de90e997 ("mm/huge_memory: remove page_deferred_list()")
+4375a553f46c ("mm: move page->deferred_list to folio->_deferred_list")
+81e506bec9be ("mm/thp: check and bail out if page in deferred queue already")

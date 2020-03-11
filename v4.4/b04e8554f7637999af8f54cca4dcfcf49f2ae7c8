@@ -1,0 +1,6 @@
+b04e8554f763 ("RDS: TCP: Hooks to set up a single connection path")
+ea3b1ea53930 ("RDS: TCP: make ->sk_user_data point to a rds_conn_path")
+02105b2ccdd6 ("RDS: TCP: Make rds_tcp_connection track the rds_conn_path")
+26e4e6bb6830 ("RDS: TCP: Remove dead logic around c_passive in rds-tcp")
+226f7a7d97e3 ("RDS: Rework path specific indirections")
+ee58b57100ca ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

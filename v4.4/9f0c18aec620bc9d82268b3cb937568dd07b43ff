@@ -1,0 +1,5 @@
+9f0c18aec620 ("objtool: Fix CONFIG_STACK_VALIDATION=y warning for out-of-tree modules")
+b573d8028ee6 ("kbuild: List libelf-devel as an alternative")
+c2bb9e32e231 ("objtool: Fix Makefile to properly see if libelf is supported")
+3b27a0c85d70 ("objtool: Detect and warn if libelf is missing and don't break the build")
+b9ab5ebb14ec ("objtool: Add CONFIG_STACK_VALIDATION option")

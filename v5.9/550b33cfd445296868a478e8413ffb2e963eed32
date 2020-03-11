@@ -1,0 +1,5 @@
+550b33cfd445 ("arm64: efi: Force the use of SetVirtualAddressMap() on Altra machines")
+d3549a938b73 ("efi/arm64: libstub: avoid SetVirtualAddressMap() when possible")
+3ba75c131639 ("efi: libstub: declare DXE services table")
+3820749ddcee ("efi/libstub: move TPM related prototypes into efistub.h")
+e1ac4b2406d9 ("efi: generalize efi_get_secureboot")

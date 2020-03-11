@@ -1,0 +1,7 @@
+476a5e929119 ("bpf: Sync uapi bpf.h to tools directory")
+68ca5d4eebb8 ("bpf: support BPF cookie in raw tracepoint (raw_tp, tp_btf) programs")
+d4dfc5700e86 ("bpf: pass whole link instead of prog when triggering raw tracepoint")
+6b9c2950c912 ("bpf: flatten bpf_probe_register call chain")
+05b24ff9b2cf ("bpf: Prevent bpf program recursion for raw tracepoint probes")
+c89e843a11f1 ("bpf: Use this_cpu_{inc_return|dec} for prog->active")
+24426654ed3a ("bpf: net: Avoid sk_setsockopt() taking sk lock when called from bpf")

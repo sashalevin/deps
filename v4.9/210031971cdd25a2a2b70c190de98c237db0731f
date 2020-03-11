@@ -1,0 +1,8 @@
+210031971cdd ("asm-generic/io: Add logging support for MMIO accessors")
+abbbbc83a210 ("asm-generic/io: Pass result of I/O accessor to __io_[p]ar()")
+a71e7c44ffb7 ("io: change writeX_relaxed() to remove barriers")
+8875c5543761 ("io: change readX_relaxed() to remove barriers")
+87fe2d543f81 ("io: change inX() to have their own IO barrier overrides")
+755bd04aaf4b ("io: define stronger ordering for the default writeX() implementation")
+032d59e1cde9 ("io: define stronger ordering for the default readX() implementation")
+64e2c6738b4d ("io: define several IO & PIO barrier types for the asm-generic version")

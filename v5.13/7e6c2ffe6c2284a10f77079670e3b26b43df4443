@@ -1,0 +1,8 @@
+7e6c2ffe6c22 ("phy: exynos5-usbdrd: convert some FIELD_PREP_CONST() to FIELD_PREP()")
+32267c29bc7d ("phy: exynos5-usbdrd: support Exynos USBDRD 3.1 combo phy (HS & SS)")
+26ba3261215b ("phy: exynos5-usbdrd: convert (phy) register access clock to clk_bulk")
+54290bd9811e ("phy: exynos5-usbdrd: convert core clocks to clk_bulk")
+d14c14618e85 ("phy: exynos5-usbdrd: set ref clk freq in exynos850_usbdrd_utmi_init()")
+2a0dc34bab8e ("phy: exynos5-usbdrd: uniform order of register bit macros")
+691525074db9 ("phy: exynos5-usbdrd: Add Exynos850 support")
+6b34ec66e7e7 ("phy: exynos5-usbdrd: Make it possible to pass custom phy ops")

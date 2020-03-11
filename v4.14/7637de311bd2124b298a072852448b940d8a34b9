@@ -1,0 +1,4 @@
+7637de311bd2 ("nvme-pci: limit max_hw_sectors based on the DMA max mapping size")
+943e942e6266 ("nvme-pci: limit max IO size and segments to avoid high order allocations")
+4caff8fc19f1 ("nvme-pci: don't open-code nvme_reset_ctrl")
+a7a7cbe353a5 ("nvme-pci: add SGL support")

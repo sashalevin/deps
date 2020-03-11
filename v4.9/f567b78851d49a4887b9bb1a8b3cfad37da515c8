@@ -1,0 +1,4 @@
+f567b78851d4 ("ALSA: hda - Move mic mute LED helper to the generic parser")
+62a939477173 ("ALSA: hda - Implement mic-mute LED mode enum")
+5dba8804e8c4 ("ALSA: hda - rename dell_led_set_func to dell_micmute_led_set_func")
+fa5923cea8da ("ALSA: hda - use dell_micmute_led_set() instead of dell_app_wmi_led_set()")

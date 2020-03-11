@@ -1,0 +1,5 @@
+27eb3af9a37a ("block: don't hold part0's refcount in IO path")
+b7d6c3033323 ("block: fix use-after-free on cached last_lookup partition")
+8da2892e2783 ("block: cleanup hd_struct freeing")
+cddae808aeb7 ("block: pass a hd_struct to delete_partition")
+fa9156ae597c ("block: refactor blkpg_ioctl")

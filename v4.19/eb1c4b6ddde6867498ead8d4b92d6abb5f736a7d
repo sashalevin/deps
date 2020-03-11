@@ -1,0 +1,5 @@
+eb1c4b6ddde6 ("backlight: pwm-backlight: Use backlight power constants")
+79fad92f2e59 ("backlight: pwm_bl: Improve bootloader/kernel device handover")
+2644f912b410 ("backlight: pwm_bl: Switch to full GPIO descriptor")
+cec2b18832e2 ("backlight: pwm_bl: Use gpiod_get_value_cansleep() to get initial state")
+61170ee93868 ("backlight: pwm_bl: Fix devicetree parsing with auto-generated brightness tables")

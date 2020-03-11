@@ -1,0 +1,5 @@
+105c988f5dd7 ("shmem: Convert shmem_unlock_mapping() to use filemap_get_folios()")
+96888e0ab0e6 ("mm/shmem: use pagevec_lookup in shmem_unlock_mapping")
+64e3d12f769d ("mm, drm/i915: mark pinned shmemfs pages as unevictable")
+e6db7f4d7c50 ("drm/i915: Break long iterations for get/put shmemfs pages")
+e60e1ee60630 ("Merge tag 'drm-for-v4.15' of git://people.freedesktop.org/~airlied/linux")

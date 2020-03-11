@@ -1,0 +1,4 @@
+e0d8259355cb ("selinux: increase the deprecation sleep for checkreqprot and runtime disable")
+6a9e261cbbee ("selinux: don't sleep when CONFIG_SECURITY_SELINUX_CHECKREQPROT_VALUE is true")
+81200b0265b1 ("selinux: checkreqprot is deprecated, add some ssleep() discomfort")
+43b666622c60 ("selinux: runtime disable is deprecated, add some ssleep() discomfort")

@@ -1,0 +1,5 @@
+373d664b7d3b ("gpio: rcar: Move PM device over to irq domain")
+ffe31c9ed35d ("gpio: rcar: Propagate errors from devm_request_irq()")
+f1ff272c60ed ("gpio: rcar: Use platform_get_irq() to get the interrupt")
+b470cef1ffac ("gpio: rcar: Use irqchip template")
+f932a68695e4 ("gpio: rcar: Use proper irq_chip name")

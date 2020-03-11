@@ -1,0 +1,3 @@
+8c945d32e604 ("btrfs: compression: drop kmap/kunmap from lzo")
+58c1a35cd522 ("btrfs: convert kmap to kmap_local_page, simple cases")
+3590ec58991b ("btrfs: use memcpy_[to|from]_page() and kmap_local_page()")

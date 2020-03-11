@@ -1,0 +1,5 @@
+db95ea787bd1 ("arm64: mm: Wire up TCR.DS bit to PTE shareability fields")
+60d043c10176 ("arm64: Avoid #define'ing PTE_MAYBE_NG to 0x0 for asm use")
+936a4ec28141 ("arm64/mm: Add lpa2_is_enabled() kvm_lpa2_is_enabled() stubs")
+9e9bb6ede00a ("arm64: enable Permission Indirection Extension (PIE)")
+fa4cdccaa582 ("arm64: reorganise PAGE_/PROT_ macros")

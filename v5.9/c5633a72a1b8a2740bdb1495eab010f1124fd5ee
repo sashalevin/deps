@@ -1,0 +1,7 @@
+c5633a72a1b8 ("RDMA/core: Make FD destroy callback void")
+efa968ee2024 ("RDMA/core: Postpone uobject cleanup on failure till FD close")
+a6f0b08dbaf2 ("RDMA/core: Remove ucontext->closing")
+c0a6b5ecc5b7 ("RDMA: Convert RWQ table logic to ib_core allocation scheme")
+add53535fb30 ("RDMA: Restore ability to return error for destroy WQ")
+f553246f7f79 ("RDMA/core: Change how failing destroy is handled during uobj abort")
+5d985d724bfa ("RDMA/core: Trigger a WARN_ON if the driver causes uobjects to become leaked")

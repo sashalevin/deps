@@ -1,0 +1,8 @@
+eca4ba5b6dff ("KVM: arm64: nVHE: Support CONFIG_CFI_CLANG at EL2")
+8f3873a39529 ("KVM: arm64: Introduce print_nvhe_hyp_panic helper")
+ea9d7c83d14e ("KVM: arm64: Fix __pkvm_init_switch_pgd call ABI")
+040113fa32f2 ("KVM: arm64: Add missing memory barriers when switching to pKVM's hyp pgd")
+bde971a83bbf ("KVM: arm64: nvhe: Fix build with profile optimization")
+ed6313a93fd1 ("KVM: arm64: Fix hypervisor address symbolization")
+6ccf9cb557bd ("KVM: arm64: Symbolize the nVHE HYP addresses")
+ccac96977243 ("KVM: arm64: Make hyp_panic() more robust when protected mode is enabled")

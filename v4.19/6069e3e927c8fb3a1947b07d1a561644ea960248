@@ -1,0 +1,6 @@
+6069e3e927c8 ("USB: cdc-acm: untangle a circular dependency between callback and softint")
+38203b8385bf ("usb: cdc-acm: fix cooldown mechanism")
+a4e7279cd1d1 ("cdc-acm: introduce a cool down")
+0f02321e4bd1 ("USB: cdc-acm: clean up throttle handling")
+764478f41130 ("USB: cdc-acm: fix unthrottle races")
+93e1c8a63830 ("usb: cdc-acm: fix race during wakeup blocking TX traffic")

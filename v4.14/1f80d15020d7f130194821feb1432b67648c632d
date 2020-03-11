@@ -1,0 +1,7 @@
+1f80d15020d7 ("KVM: arm64: Avoid setting the upper 32 bits of TCR_EL2 and CPTR_EL2 to 1")
+4fcdf106a433 ("arm64/kvm: disable access to AMU registers from kvm guests")
+384b40caa8af ("KVM: arm/arm64: Context-switch ptrauth registers")
+b43b5dd990eb ("KVM: arm64/sve: Context switch the SVE registers")
+73433762fcae ("KVM: arm64/sve: System register context switch and access support")
+0495067420f3 ("arm64/sve: Enable SVE state tracking for non-task contexts")
+636deed6c0bc ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

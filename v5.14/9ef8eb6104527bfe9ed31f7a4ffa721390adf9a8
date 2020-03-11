@@ -1,0 +1,7 @@
+9ef8eb610452 ("squashfs: fix read regression introduced in readahead code")
+1f13dff09ffc ("squashfs: don't call kmalloc in decompressors")
+8fc78b6fe24c ("squashfs: implement readahead")
+f268eedddf35 ("squashfs: extend "page actor" to handle missing pages")
+124cfc154f6c ("squashfs: Convert squashfs to read_folio")
+9eec1d897139 ("squashfs: provide backing_dev_info in order to disable read-ahead")
+fbc27241e537 ("squashfs: use bvec_virt")

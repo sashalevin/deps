@@ -1,0 +1,7 @@
+bb31074db95f ("s390/boot: do not emit debug info for assembly with llvm's IAS")
+42b01a553a56 ("s390: always use the packed stack layout")
+1389f17937a0 ("s390/ftrace: fix arch_ftrace_get_regs implementation")
+2ab3a0a9fad8 ("s390/ftrace: add HAVE_DYNAMIC_FTRACE_WITH_DIRECT_CALL support")
+894979689d3a ("s390/ftrace: provide separate ftrace_caller/ftrace_regs_caller implementations")
+176510ebecd1 ("s390/ftrace: add ftrace_instruction_pointer_set() helper function")
+5740a7c71ab6 ("s390/ftrace: add HAVE_DYNAMIC_FTRACE_WITH_ARGS support")

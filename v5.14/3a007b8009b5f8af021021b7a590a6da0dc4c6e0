@@ -1,0 +1,8 @@
+3a007b8009b5 ("nfp: flower: fix hardware offload for the transfer layer port")
+5cee92c6f57a ("nfp: flower: support hw offload for ct nat action")
+e43d940f480b ("nfp: flower: support ct merging when mangle action exists")
+7195464cf8f2 ("nfp: flower: utilize the tuple iifidx in offloading ct flows")
+d94a63b480c1 ("nfp: flower-ct: add actions into flow_pay for offload")
+5a2b93041646 ("nfp: flower-ct: compile match sections of flow_payload")
+71e88cfb9260 ("nfp: flower-ct: calculate required key_layers")
+16416d37f0e7 ("nfp: flower: make the match compilation functions reusable")

@@ -1,0 +1,4 @@
+1b7bc6b10a7e ("tty: use pr_warn_ratelimited() for deprecated serial flags")
+77654350306a ("take compat TIOC[SG]SERIAL treatment into tty_compat_ioctl()")
+2f46a2c1d4eb ("tty_ioctl(): start taking TIOC[SG]SERIAL into separate methods")
+7d5cb45655f2 ("i2c compat ioctls: move to ->compat_ioctl()")

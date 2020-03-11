@@ -1,0 +1,7 @@
+a8864d861d62 ("scsi: target: Simplify transport_generic_free_cmd() (1/2)")
+953bcf7ad16a ("scsi: target: Document when CMD_T_STOP and CMD_T_COMPLETE are set")
+c01706982350 ("target: Inline transport_put_cmd()")
+73d4e580ccc5 ("target: Fix kref->refcount underflow in transport_cmd_finish_abort")
+fa7e25cf13a6 ("target: Fix unknown fabric callback queue-full errors")
+b1a2ecdad72e ("target: Inline transport_cmd_check_stop()")
+a5eb307f37d1 ("target: Stop execution if CMD_T_STOP has been set")

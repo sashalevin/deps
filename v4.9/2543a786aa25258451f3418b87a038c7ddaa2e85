@@ -1,0 +1,4 @@
+2543a786aa25 ("iommu/amd: Allow the AMD IOMMU to work with memory encryption")
+ffa080ebb540 ("iommu/amd: Remove amd_iommu_disabled check from amd_iommu_detect()")
+54bd63570484 ("iommu/amd: Suppress IO_PAGE_FAULTs in kdump kernel")
+ebcfa2843954 ("iommu/amd: Tell kmemleak about the irq_remap_table")

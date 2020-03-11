@@ -1,0 +1,6 @@
+f9cdf7ca57ca ("x86: Mark stop_this_cpu() __noreturn")
+9af9dcf11bda ("x86/xen: Mark cpu_bringup_and_idle() as dead_end_function")
+c26acfbbfbc2 ("objtool: Add xen_start_kernel() to noreturn list")
+93efbde2c331 ("x86/traps: Disentangle the 32-bit and 64-bit doublefault code")
+33adf80f5b52 ("objtool: add kunit_try_catch_throw to the noreturn list")
+4fa5ecda2bf9 ("objtool: Add rewind_stack_do_exit() to the noreturn list")

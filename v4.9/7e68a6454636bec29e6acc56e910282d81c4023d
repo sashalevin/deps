@@ -1,0 +1,8 @@
+7e68a6454636 ("nvmem: mtk-efuse: Convert to use devm_nvmem_register()")
+17eb18d674d5 ("nvmem: set nvmem->owner to nvmem->dev->driver->owner if unset")
+4dd5f60e9a84 ("nvmem: mtk-efuse: use stack for nvmem_config instead of malloc'ing it")
+01d35cabd5ab ("nvmem: imx-iim: use stack for nvmem_config instead of malloc'ing it")
+c066c1c0e43f ("nvmem: Add driver for the i.MX IIM")
+01d0d2c42a14 ("nvmem: qfprom: Allow single byte accesses for read/write")
+9d59c6e8ae27 ("nvmem: Add the Broadcom OTP controller driver")
+88806daf10f4 ("nvmem: add NXP LPC18xx OTP driver")

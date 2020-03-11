@@ -1,0 +1,4 @@
+064253c1c062 ("drm: fix use of freed memory in drm_mode_setcrtc")
+64c32b490333 ("drm: Add local 'plane' variable for primary/cursor planes")
+23163a7d4b03 ("drm: Check that the plane supports the request format+modifier combo")
+ce0769e0ea4b ("drm/plane: Make framebuffer refcounting the responsibility of setplane_internal callers")

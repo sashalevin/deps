@@ -1,0 +1,4 @@
+9094db4b8004 ("ipmr: do not acquire mrt_lock before calling ipmr_cache_unresolved()")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")
+42120a864383 ("ipmr, ip6mr: add net device refcount tracker to struct vif_device")

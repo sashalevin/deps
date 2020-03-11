@@ -1,0 +1,6 @@
+5089bc51f81f ("arm64/smp: Use irq_desc_kstat_cpu() in arch_show_interrupts()")
+a26388152531 ("arm64: Remove custom IRQ stat accounting")
+5cebfd2d47c2 ("arm64: Kill __smp_cross_call and co")
+d3afc7f12987 ("arm64: Allow IPIs to be handled as normal interrupts")
+d914d4d49745 ("arm64: Implement panic_smp_self_stop()")
+5870970b9a82 ("arm64: Fix HCR.TGE status for NMI contexts")

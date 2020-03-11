@@ -1,0 +1,7 @@
+2c94512055f3 ("serial: 8250_dw: Revert "Move definitions to the shared header"")
+87d80bfbd577 ("serial: 8250_dw: Don't use struct dw8250_data outside of 8250_dw")
+173b097dcc8d ("serial: 8250_dw: Replace ACPI device check by a quirk")
+e6a46d073e11 ("serial: 8250_dw: Switch to use uart_read_port_properties()")
+22130dae0533 ("serial: 8250_dw: fall back to poll if there's no interrupt")
+bec5b814d46c ("serial: Make ->set_termios() old ktermios const")
+607ca0f742b7 ("Merge tag 'tty-6.0-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/tty")

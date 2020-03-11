@@ -1,0 +1,6 @@
+f466b111a0c6 ("drm/amdgpu: Force signal hw_fences that are embedded in non-sched jobs")
+dd70748eda3f ("drm/amdgpu: Add put fence in amdgpu_fence_driver_clear_job_fences")
+bf67014d6bda ("drm/amdgpu: introduce new amdgpu_fence object to indicate the job embedded fence")
+c530b02f3985 ("drm/amd/amdgpu embed hw_fence into amdgpu_job")
+067f44c8b459 ("drm/amdgpu: avoid over-handle of fence driver fini in s3 test (v2)")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")

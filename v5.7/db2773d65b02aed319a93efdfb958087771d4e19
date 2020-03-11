@@ -1,0 +1,5 @@
+db2773d65b02 ("can: isotp: recvmsg(): allow MSG_CMSG_COMPAT flag")
+e382fea8ae54 ("can: isotp: restore accidentally removed MSG_PEEK feature")
+42bf50a1795a ("can: isotp: support MSG_TRUNC flag when reading from socket")
+30ffd5332e06 ("can: isotp: return -EADDRNOTAVAIL when reading from unbound socket")
+e057dd3fc20f ("can: add ISO 15765-2:2016 transport protocol")

@@ -1,0 +1,6 @@
+baf67ca8e545 ("KVM: x86: Suppress code #DBs on Intel if MOV/POP SS blocking is active")
+750f8fcb261a ("KVM: x86: Don't check for code breakpoints when emulating on exception")
+fee060cd52d6 ("KVM: x86: avoid calling x86 emulator without a decoded instruction")
+b35491e66c87 ("KVM: X86: Kill off ctxt->ud")
+da6393cdd8aa ("KVM: X86: Fix warning caused by stale emulation context")
+4aa2691dcbd3 ("KVM: x86: Factor out x86 instruction emulation with decoding")

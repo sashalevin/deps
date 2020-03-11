@@ -1,0 +1,5 @@
+784a0830377d ("genirq/matrix: Deal with the sillyness of for_each_cpu() on UP")
+8ffe4e61c06a ("irq/matrix: Split out the CPU selection code into a helper")
+a0c9259dc4e1 ("irq/matrix: Spread interrupts on allocation")
+ec0f7cd273dc ("genirq/matrix: Add tracepoints")
+2f75d9e1c905 ("genirq: Implement bitmap matrix allocator")

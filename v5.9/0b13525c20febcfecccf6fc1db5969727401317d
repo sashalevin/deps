@@ -1,0 +1,6 @@
+0b13525c20fe ("s390/pci: fix leak of PCI device structure")
+ba764dd703fe ("s390/pci: refactor zpci_create_device()")
+e1bff843cde6 ("s390/pci: remove superfluous zdev->zbus check")
+c3b2c9064e76 ("s390/pci: remove clp_rescan_pci_devices_simple()")
+809fcfaf9238 ("s390/pci: remove clp_rescan_pci_devices()")
+abb95b7550f8 ("s390/pci: consolidate SR-IOV specific code")

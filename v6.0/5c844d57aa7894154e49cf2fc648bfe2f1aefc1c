@@ -1,0 +1,7 @@
+5c844d57aa78 ("net: dsa: microchip: fix writes to phy registers >= 0x10")
+5bd3ecd121e3 ("net: dsa: microchip: ksz9477: remove MII_CTRL1000 check from ksz9477_w_phy()")
+9da975e1bbef ("net: dsa: microchip: ksz9477: add error handling to ksz9477_r/w_phy")
+8f4204567923 ("net: dsa: microchip: allow to pass return values for PHY read/write accesses")
+d7539fc2b41a ("net: dsa: microchip: don't announce extended register support on non Gbit chips")
+505bf3205aaa ("net: dsa: microchip: do per-port Gbit detection instead of per-chip")
+b44908095612 ("net: dsa: microchip: add separate struct ksz_chip_data for KSZ8563 chip")

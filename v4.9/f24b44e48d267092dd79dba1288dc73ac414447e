@@ -1,0 +1,5 @@
+f24b44e48d26 ("KVM: Rename ack_flush() to ack_kick()")
+b49defe83659 ("kvm: avoid unused variable warning for UP builds")
+7a97cec26b94 ("KVM: mark requests that need synchronization")
+930f7fd6da77 ("KVM: mark requests that do not need a wakeup")
+72875d8a4d92 ("KVM: add kvm_{test,clear}_request to replace {test,clear}_bit")

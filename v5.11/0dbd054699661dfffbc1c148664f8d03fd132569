@@ -1,0 +1,6 @@
+0dbd05469966 ("KVM: x86/mmu: Use KMEM_CACHE instead of kmem_cache_create()")
+d6b87f256591 ("KVM: x86/mmu: Co-locate code for setting various SPTE masks")
+ec761cfd353f ("KVM: x86/mmu: Move initial kvm_mmu_set_mask_ptes() call into MMU proper")
+8120337a4c55 ("KVM: x86/mmu: Stop using software available bits to denote MMIO SPTEs")
+30ab5901da57 ("KVM: x86/mmu: Don't install bogus MMIO SPTEs if MMIO caching is disabled")
+44aaa0150bfd ("KVM: x86/mmu: Disable MMIO caching if MMIO value collides with L1TF")

@@ -1,0 +1,7 @@
+e9ea0b30ada0 ("xen/grants: prevent integer overflow in gnttab_dma_alloc_pages()")
+9bdc7304f536 ("xen/grant-table: Allow allocating buffers suitable for DMA")
+8c3799ee25e1 ("xen/grant-table: Make set/clear page private code shared")
+6e3cc2a6e259 ("xen/grant-table: Export gnttab_{alloc|free}_pages as GPL")
+8dca4d96c7d8 ("xen: select grant interface version")
+b988b8ff072a ("xen: re-introduce support for grant v2 interface")
+29d11cfd8698 ("xen/grant-table: log the lack of grants")

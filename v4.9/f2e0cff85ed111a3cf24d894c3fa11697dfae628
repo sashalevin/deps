@@ -1,0 +1,4 @@
+f2e0cff85ed1 ("kernel/watchdog: introduce arch_touch_nmi_watchdog()")
+73ce0511c436 ("kernel/watchdog.c: move hardlockup detector to separate file")
+249e52e35580 ("kernel/watchdog.c: move shared definitions to nmi.h")
+4d1f0fb096ae ("kernel/watchdog: use nmi registers snapshot in hardlockup handler")

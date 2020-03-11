@@ -1,0 +1,8 @@
+81287ad65da5 ("x86/apic: Sanitize APIC address setup")
+5a88f354dcd8 ("x86/apic: Split register_apic_address()")
+1751adedbd60 ("x86/apic: Make some APIC init functions bool")
+2906a67ac83b ("x86/of: Fix the APIC address registration")
+d10a904435fa ("x86/apic: Consolidate boot_cpu_physical_apicid initialization sites")
+49062454a3eb ("x86/apic: Rename disable_apic")
+bea629d57d00 ("x86/apic: Save the APIC virtual base address")
+3adee777ad0d ("x86/smpboot: Remove initial_stack on 64-bit")

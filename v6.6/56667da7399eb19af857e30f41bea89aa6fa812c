@@ -1,0 +1,7 @@
+56667da7399e ("net: implement lockless setsockopt(SO_PEEK_OFF)")
+5eef0b8de1be ("net: lockless implementation of SO_TXREHASH")
+28b24f90020f ("net: implement lockless SO_MAX_PACING_RATE")
+2a4319cf3c83 ("net: lockless implementation of SO_BUSY_POLL, SO_PREFER_BUSY_POLL, SO_BUSY_POLL_BUDGET")
+b120251590a9 ("net: lockless SO_{TYPE|PROTOCOL|DOMAIN|ERROR } setsockopt()")
+8ebfb6db5a01 ("net: lockless SO_PASSCRED, SO_PASSPIDFD and SO_PASSSEC")
+10bbf1652c1c ("net: implement lockless SO_PRIORITY")

@@ -1,0 +1,8 @@
+199d280c884d ("timekeeping: Remove static functions from kernel-doc markup")
+1572fa037848 ("timekeeping: Use timespec64 in timekeeping_inject_offset")
+e0956dcc4ba7 ("timekeeping: Consolidate timekeeping_inject_offset code")
+bfe1c566453a ("time: delete CURRENT_TIME_SEC and CURRENT_TIME")
+40d9f8275004 ("timekeeping: Remove unused timekeeping_{get,set}_tai_offset()")
+dd4e17ab7042 ("ntp: Fix ADJ_SETOFFSET being used w/ ADJ_NANO")
+c796348774f1 ("ntp: Fix second_overflow's input parameter type to be 64bits")
+37cf4dc3370f ("time: Verify time values in adjtimex ADJ_SETOFFSET to avoid overflow")

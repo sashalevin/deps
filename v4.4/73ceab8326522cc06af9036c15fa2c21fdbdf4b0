@@ -1,0 +1,7 @@
+73ceab832652 ("net: dsa: sja1105: prevent tag_8021q VLANs from being received on user ports")
+bef0746cf4cc ("net: dsa: sja1105: make sure untagged packets are dropped on ingress ports with no pvid")
+cde8078e83e3 ("net: dsa: sja1105: reset the port pvid when leaving a VLAN-aware bridge")
+884be12f8566 ("net: dsa: sja1105: add support for imprecise RX")
+6dfd23d35e75 ("net: dsa: sja1105: delete vlan delta save/restore logic")
+d63f8877c48c ("net: dsa: sja1105: remove redundant re-assignment of pointer table")
+5af84df962dd ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

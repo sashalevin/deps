@@ -1,0 +1,8 @@
+56f1cd34a4e7 ("i2c: tegra: Remove outdated barrier()")
+df384fa58a32 ("i2c: tegra: Reorder location of functions in the code")
+6fe3e2015faa ("i2c: tegra: Move out all device-tree parsing into tegra_i2c_parse_dt()")
+586a97d907ac ("i2c: tegra: Use clk-bulk helpers")
+76bc845a78c5 ("i2c: tegra: Runtime PM always available on Tegra")
+8ff727316a09 ("i2c: tegra: Remove i2c_dev.clk_divisor_non_hs_mode member")
+8548a75f3e8d ("i2c: tegra: Initialize div-clk rate unconditionally")
+e4fc2efbc310 ("i2c: tegra: Add missing pm_runtime_put()")

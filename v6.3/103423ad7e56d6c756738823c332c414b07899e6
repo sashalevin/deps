@@ -1,0 +1,8 @@
+103423ad7e56 ("arm64: Get rid of ARM64_HAS_NO_HW_PREFETCH")
+34f66c4c4d55 ("arm64: Use a positive cpucap for FP/SIMD")
+14567ba42c57 ("arm64: Rename SVE/SME cpu_enable functions")
+907722917002 ("arm64: Use build-time assertions for cpucap ordering")
+b206a708cbfb ("arm64: Add feature detection for fine grained traps")
+c876c3f182a5 ("KVM: arm64: Relax trapping of CTR_EL0 when FEAT_EVT is available")
+863da0bdb17b ("arm64/cpufeature: Use helper macro to specify ID register for capabilites")
+21642da214a9 ("arm64/cpufeature: Consistently use symbolic constants for min_field_value")

@@ -1,0 +1,4 @@
+3daebfbeb455 ("net: tulip: convert to devres")
+51ca86b4c9c7 ("ethernet: tulip: fix missing pci_disable_device() on error in tulip_init_one()")
+e059c6f340f6 ("tulip: switch from 'pci_' to 'dma_' API")
+6541d025906b ("tulip: eeprom: use struct_size() in kmalloc()")

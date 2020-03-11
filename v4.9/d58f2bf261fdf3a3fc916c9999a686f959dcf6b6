@@ -1,0 +1,4 @@
+d58f2bf261fd ("gpio: Timestamp events in hardirq handler")
+24bd3efc9d1e ("gpio: Fix kernel stack leak to userspace")
+df1e76f28ffe ("gpiolib: skip unwanted events, don't convert them to opposite edge")
+ad537b822577 ("gpiolib: fix filtering out unwanted events")

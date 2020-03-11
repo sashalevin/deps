@@ -1,0 +1,6 @@
+6fadb494a638 ("ALSA: seq: Set upper limit of processed events")
+dc7497795e01 ("ALSA: seq: Fix concurrent access to queue current tick/time")
+d0f833065221 ("ALSA: seq: Fix possible UAF in snd_seq_check_queue()")
+04a56dd8ed0d ("ALSA: seq: change ioctl command operation to get data in kernel space")
+8ce8eb601c71 ("ALSA: seq: add an alternative way to handle ioctl requests")
+3915bf294652 ("ALSA: seq_timer: use monotonic times internally")

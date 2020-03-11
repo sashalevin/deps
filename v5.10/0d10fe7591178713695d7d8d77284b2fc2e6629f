@@ -1,0 +1,6 @@
+0d10fe759117 ("iommu/amd: Use try_cmpxchg64 in alloc_pte and free_clear_pte")
+18954252a1d0 ("iommu/amd: Move IO page table related functions")
+f9b4df790aa4 ("iommu/amd: Declare functions as extern")
+1f5855306676 ("iommu/amd: Convert to using amd_io_pgtable")
+c9b258c6be09 ("iommu/amd: Prepare for generic IO page table framework")
+8c112a6b3dc6 ("iommu/amd: Re-define amd_iommu_domain_encode_pgtable as inline")

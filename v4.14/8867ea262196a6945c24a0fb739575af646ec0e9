@@ -1,0 +1,5 @@
+8867ea262196 ("usb: xhci: dbc: Don't free all memory with spinlock held")
+74cb319bd97d ("usb: xhci: dbc: Don't decrement runtime PM counter if DBC is not started")
+a098dc8b03d1 ("usb: xhci: dbc: Fix lockdep warning")
+dfba2174dc42 ("usb: xhci: Add DbC support in xHCI driver")
+02b6fdc2a153 ("usb: xhci: Add debugfs interface for xHCI driver")

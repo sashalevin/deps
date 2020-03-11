@@ -1,0 +1,8 @@
+a921cf83cc4c ("KVM: x86: hyper-v: Honor HV_DEBUGGING privilege bit")
+a60b3c594ef3 ("KVM: x86: hyper-v: Honor HV_SIGNAL_EVENTS privilege bit")
+4f532b7f969f ("KVM: x86: hyper-v: Honor HV_POST_MESSAGES privilege bit")
+34ef7d7b9c04 ("KVM: x86: hyper-v: Check access to HVCALL_NOTIFY_LONG_SPIN_WAIT hypercall")
+4ad81a91119d ("KVM: x86: hyper-v: Prepare to check access to Hyper-V hypercalls")
+5974565bc26d ("KVM: x86: kvm_hv_flush_tlb use inputs from XMM registers")
+bd38b32053eb ("KVM: hyper-v: Collect hypercall params into struct")
+5e4e6ddf8d74 ("x86/hyper-v: Move hv_message_type to architecture neutral module")

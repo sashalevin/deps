@@ -1,0 +1,5 @@
+195b9cb5b288 ("fprobe: Ensure running fprobe_exit_handler() finished before calling rethook_free()")
+5f81018753df ("fprobe: Release rethook after the ftrace_ops is unregistered")
+5b0ab78998e3 ("fprobe: Add exit_handler support")
+54ecbe6f1ed5 ("rethook: Add a generic return hook")
+cad9931f64dc ("fprobe: Add ftrace based probe APIs")

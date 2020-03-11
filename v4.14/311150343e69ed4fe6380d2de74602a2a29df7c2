@@ -1,0 +1,6 @@
+311150343e69 ("mm/gup: add missing gup_must_unshare() check to gup_huge_pgd()")
+a43e982082c2 ("mm/gup: factor out duplicate code from four routines")
+520b4a4496f1 ("mm: mark the page referenced in gup_hugepte")
+01a369160bbe ("mm: switch gup_hugepte to use try_get_compound_head")
+cbd34da7dc9a ("mm: move the powerpc hugepd code to mm/gup.c")
+b970afcfcabd ("Merge tag 'powerpc-5.2-1' of ssh://gitolite.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

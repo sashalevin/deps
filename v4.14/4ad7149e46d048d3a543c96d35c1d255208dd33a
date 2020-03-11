@@ -1,0 +1,5 @@
+4ad7149e46d0 ("x86/mtrr: Split MTRR-specific handling from cache dis/enabling")
+d5f66d5d1061 ("x86/mtrr: Rename prepare_set() and post_set()")
+01c97c730358 ("x86/mtrr: Add comment for set_mtrr_state() serialization")
+fd329f276eca ("x86/mtrr: Skip cache flushes on CPUs with cache self-snooping")
+68091ee7ac3c ("x86/CPU/AMD: Calculate last level cache ID from number of sharing threads")

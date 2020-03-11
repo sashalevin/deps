@@ -1,0 +1,6 @@
+25becba6290b ("net/sched: taprio: stop going through private ops for dequeue and peek")
+13511704f8d7 ("net: taprio offload: enforce qdisc to netdev queue mapping")
+497cc00224cf ("taprio: Handle short intervals and large packets")
+44d4775ca518 ("net/sched: sch_taprio: reset child qdiscs before freeing them")
+a9d6227436f3 ("taprio: Fix still allowing changing the flags during runtime")
+5652e63df330 ("taprio: Fix enabling offload with wrong number of traffic classes")

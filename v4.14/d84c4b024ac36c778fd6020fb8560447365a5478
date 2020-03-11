@@ -1,0 +1,6 @@
+d84c4b024ac3 ("nvme: unexport nvme_delete_ctrl_sync()")
+c5017e85705b ("nvme: move controller deletion to common code")
+29c09648734b ("nvme-fc: merge __nvme_fc_schedule_delete_work into __nvme_fc_del_ctrl")
+71c691fd06cc ("nvme-fc: avoid workqueue flush stalls")
+d22524a4782a ("nvme: switch controller refcounting to use struct device")
+9843f685ae36 ("nvme: use ida_simple_{get,remove} for the controller instance")

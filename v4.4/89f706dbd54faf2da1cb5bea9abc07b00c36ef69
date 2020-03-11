@@ -1,0 +1,4 @@
+89f706dbd54f ("mtd: fix Coverity integer handling issue")
+5cdd929da53d ("mtd: Add sanity checks in mtd_write/read_oob()")
+fea728c098ee ("mtd: Hook I/O activity to the MTD LED trigger")
+0c034fe37718 ("mtd: Uninline mtd_write_oob and move it to mtdcore.c")

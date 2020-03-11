@@ -1,0 +1,6 @@
+b84eb8e05057 ("s390/vfio-ap: use proper locking order when setting/clearing KVM pointer")
+d0786556caa1 ("s390/vfio-ap: rename matrix_dev->lock mutex to matrix_dev->mdevs_lock")
+11cb2419fafe ("s390/vfio-ap: manage link between queue struct and matrix mdev")
+260f3ea14138 ("s390/vfio-ap: move probe and remove callbacks to vfio_ap_ops.c")
+d4b2945dc9c0 ("s390/vfio-ap: remove superfluous MODULE_DEVICE_TABLE declaration")
+68f554b7d250 ("s390/vfio-ap: add s390dbf logging to the handle_pqap function")

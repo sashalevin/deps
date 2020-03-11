@@ -1,0 +1,4 @@
+5e36c25b2c1a ("mm/z3fold: move decrement of pool->pages_nr into __release_z3fold_page()")
+28473d91ff7f ("mm/z3fold: use release_z3fold_page_locked() to release locked z3fold page")
+dcf5aedb24f8 ("z3fold: stricter locking and more careful reclaim")
+fc5488651c7d ("z3fold: simplify freeing slots")

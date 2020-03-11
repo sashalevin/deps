@@ -1,1 +1,5 @@
 ce8c80c536da ("arm64: Add workaround for Cortex-A76 erratum 1286807")
+e03a4e5bb743 ("arm64: Add silicon-errata.txt entry for ARM erratum 1188873")
+95b861a4a6d9 ("arm64: arch_timer: Add workaround for ARM erratum 1188873")
+d71be2b6c0e1 ("arm64: cpufeature: Detect SSBS and advertise to userspace")
+86d0dd34eaff ("arm64: cpufeature: add feature for CRC32 instructions")

@@ -1,0 +1,5 @@
+2e84dc379200 ("driver core: Release all resources during unbind before updating device links")
+25f3bcfc54bc ("driver core: Add dma_cleanup callback in bus_type")
+9ad307213fa4 ("driver core: Refactor multiple copies of device cleanup")
+d8f7a5484f21 ("driver core: Free DMA range map when device is released")
+885e50253bfd ("driver core: Move driver_sysfs_remove() after driver_sysfs_add()")

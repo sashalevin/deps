@@ -1,0 +1,4 @@
+a48a7042613e ("x86/vdso: Use ->fault() instead of remap_pfn_range() for the vvar mapping")
+05ef76b20fc4 ("x86/vdso: Use .fault for the vDSO text mapping")
+dac16fba6fc5 ("x86/vdso: Get pvclock data from the vvar VMA instead of the fixmap")
+6b078f5de7fc ("x86, vdso, pvclock: Simplify and speed up the vdso pvclock reader")

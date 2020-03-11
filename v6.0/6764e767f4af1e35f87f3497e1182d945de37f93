@@ -1,0 +1,4 @@
+6764e767f4af ("bpf: Assign bpf_tramp_run_ctx::saved_run_ctx before recursion check.")
+271de525e1d7 ("bpf: Remove prog->active check for bpf_lsm and bpf_iter")
+64696c40d03c ("bpf: Add __bpf_prog_{enter,exit}_struct_ops for struct_ops trampoline")
+c89e843a11f1 ("bpf: Use this_cpu_{inc_return|dec} for prog->active")

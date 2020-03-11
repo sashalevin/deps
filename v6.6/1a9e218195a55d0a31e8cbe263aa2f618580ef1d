@@ -1,0 +1,8 @@
+1a9e218195a5 ("nvme: split device add from initialization")
+ea47c471a2cf ("nvme: rdma: split controller bringup handling")
+10fd7fb676d7 ("nvme: tcp: split controller bringup handling")
+b9ecbfa45516 ("nvme: apple: fix device reference counting")
+be647e2c76b2 ("nvme: use srcu for iterating namespace list")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")
+839a40d1e730 ("nvme: fix deadlock between reset and scan")

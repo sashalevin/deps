@@ -1,0 +1,6 @@
+42e03bc5240b ("powerpc/kuap: Prepare for supporting KUAP on BOOK3E/64")
+937fb7003ee1 ("powerpc/kuap: Add kuap_lock()")
+ba454f9c8e4e ("powerpc/kuap: Add a generic intermediate layer")
+526d4a4c77ae ("powerpc/32s: Do kuep_lock() and kuep_unlock() in assembly")
+df415cd75826 ("powerpc/32s: Remove capability to disable KUEP at boottime")
+6c1fa60d368e ("Revert "powerpc: Inline setup_kup()"")

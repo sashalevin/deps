@@ -1,0 +1,7 @@
+20f3cf5f860f ("HID: wacom: Avoid using stale array indicies to read contact count")
+7fb0413baa7f ("HID: wacom: Use "Confidence" flag to prevent reporting invalid contacts")
+46fc466e01a1 ("HID: wacom: Setup pen input capabilities to the targeted tools")
+f4e11d599610 ("HID: wacom: generic: support the 'report valid' usage for touch")
+184eccd40389 ("HID: wacom: generic: read HID_DG_CONTACTMAX from any feature report")
+99acedadde15 ("HID: wacom: Properly handle AES serial number and tool type")
+9e429d564926 ("HID: wacom: generic: Send BTN_STYLUS3 when both barrel switches are set")

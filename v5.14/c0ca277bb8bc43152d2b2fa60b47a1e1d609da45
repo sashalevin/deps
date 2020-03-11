@@ -1,0 +1,8 @@
+c0ca277bb8bc ("samples/bpf: Use bpf_{btf,link,map,prog}_get_info_by_fd()")
+de5bb43826dd ("samples/bpf: Check detach prog exist or not in xdp_fwd")
+d4e34bfcbe88 ("samples/bpf: adapt samples/bpf to bpf_xdp_xxx() APIs")
+e531a220cc59 ("samples: bpf: Convert xdp_redirect_cpu to XDP samples helper")
+b926c55d856c ("samples: bpf: Convert xdp_redirect to XDP samples helper")
+6e1051a54e31 ("samples: bpf: Convert xdp_monitor to XDP samples helper")
+156f886cf697 ("samples: bpf: Add basic infrastructure for XDP samples")
+34ad6d9d8c27 ("bpf, samples: Add missing mprog-disable to xdp_redirect_cpu's optstring")

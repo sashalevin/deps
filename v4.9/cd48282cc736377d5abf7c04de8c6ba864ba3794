@@ -1,0 +1,4 @@
+cd48282cc736 ("nvme: stop aer posting if controller state not live")
+c669ccdc50c2 ("nvme: queue ns scanning and async request from nvme_wq")
+7bf58533a0bc ("nvme: don't pass the full CQE to nvme_complete_async_event")
+d49187e97e94 ("nvme: introduce struct nvme_request")

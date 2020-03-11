@@ -1,0 +1,4 @@
+325efb16da2c ("mm: add nr argument in mem_cgroup_swapin_uncharge_swap() helper to support large folios")
+0add0c77a9bd ("memcg: charge before adding to swapcache on swapin")
+cae3af62b33a ("mm: memcontrol: fix swap undercounting in cgroup2")
+bcfe06bf2622 ("mm: memcontrol: Use helpers to read page's memcg data")

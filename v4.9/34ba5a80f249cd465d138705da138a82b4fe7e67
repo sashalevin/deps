@@ -1,0 +1,8 @@
+34ba5a80f249 ("drm/i915/guc: Split hw submission for replay after GPU reset")
+4d357af49918 ("drm/i915/guc: Keep the execbuf client allocated across reset")
+2d803c2de09e ("drm/i915/guc: Move guc_{send,recv}() to intel_uc.c")
+a80bc45ff0cf ("drm/i915/guc: Drop guc2host/host2guc from names")
+73cb97010d4f ("drm/i915: Combine seqno + tracking into a global timeline struct")
+2e36991a8aa2 ("drm/i915: Remove unused i915_gem_active_wait() in favour of _unlocked()")
+e95433c73a11 ("drm/i915: Rearrange i915_wait_request() accounting with callers")
+96583ddbec29 ("Merge remote-tracking branch 'airlied/drm-next' into drm-intel-next-queued")

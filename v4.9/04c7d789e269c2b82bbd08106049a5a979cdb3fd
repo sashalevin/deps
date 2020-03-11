@@ -1,0 +1,6 @@
+04c7d789e269 ("libceph: make sure need_resend targets reflect latest map")
+7de030d6b10a ("libceph: resend on PG splits if OSD has RESEND_ON_SPLIT")
+84ed45df4604 ("libceph: drop need_resend from calc_target()")
+dc98ff7230e5 ("libceph: introduce ceph_spg, ceph_pg_to_primary_shard()")
+dc93e0e2831d ("libceph: fold [l]req->last_force_resend into ceph_osd_request_target")
+aa26d662b9d4 ("libceph: remove req->r_replay_version")

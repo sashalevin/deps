@@ -1,0 +1,8 @@
+e3075fd6f80c ("platform/x86: intel_pmc_ipc: Use spin_lock to protect GCR updates")
+d7ca5ebf2493 ("platform/x86: intel_pmc_ipc: Use devm_* calls in driver probe function")
+496702068597 ("platform/x86: intel_pmc_ipc: Add pmc gcr read/write/update api's")
+76062b4ae2ea ("platform/x86: intel_pmc_ipc: read s0ix residency API")
+1f1ae997fd47 ("intel_pmc_ipc: Avoid pending IPC1 command during legacy suspend")
+1a2f25d5e73f ("intel_pmc_ipc: Fix GCR register base address and length")
+48c1917088ba ("platform:x86: Add Intel telemetry platform device")
+8cc7fb4a6523 ("intel_pmc_ipc: update acpi resource structure for Punit")

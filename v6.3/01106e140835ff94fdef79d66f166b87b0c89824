@@ -1,0 +1,7 @@
+01106e140835 ("shmem: restrict noswap option to initial user namespace")
+2c6efe9cf2d7 ("shmem: add support to ignore swap")
+d0f5a85442d1 ("shmem: update documentation")
+9a976f0c847b ("shmem: skip page split if we're not reclaiming")
+cf7992bf6105 ("shmem: move reclaim check early on writepages()")
+8ccee8c19c60 ("shmem: set shmem_writepage() variables early")
+1f514bee0c08 ("shmem: remove check for folio lock on writepage()")

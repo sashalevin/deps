@@ -1,0 +1,8 @@
+5f8e3202696f ("rcuscale: Measure grace-period kthread CPU time")
+23fc8df26dea ("rcu/rcuscale: Stop kfree_scale_thread thread(s) after unloading rcuscale")
+bf5ddd736509 ("rcu/rcuscale: Move rcu_scale_*() after kfree_scale_cleanup()")
+ef1ef3d47677 ("rcuscale: Move shutdown from wait_event() to wait_event_idle()")
+86e7ed1bd57d ("rcuscale: Always log error message")
+811192c5f24b ("rcuscale: Console output claims too few grace periods")
+899f317e4886 ("rcuscale: Add RCU Tasks Trace")
+41eea65e2aaa ("Merge tag 'core-rcu-2020-10-12' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

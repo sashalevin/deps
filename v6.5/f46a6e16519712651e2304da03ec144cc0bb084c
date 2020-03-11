@@ -1,0 +1,8 @@
+f46a6e165197 ("usb: Add tunnel_mode parameter to usb device structure")
+948ce83fbb7d ("xhci: Add USB4 tunnel detection for USB3 devices on Intel hosts")
+6d3bc5e941bf ("xhci: remove xhci_check_usb2_port_capability helper")
+63a1f8454962 ("xhci: stored cached port capability values in one place")
+1e4c574225cc ("USB: Remove remnants of Wireless USB and UWB")
+ff33299ec8bb ("USB: core: Fix race by not overwriting udev->descriptor in hub_port_init()")
+de28e469da75 ("USB: core: Change usb_get_device_descriptor() API")
+85d07c556216 ("USB: core: Unite old scheme and new scheme descriptor reads")

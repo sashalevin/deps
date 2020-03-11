@@ -1,0 +1,5 @@
+bd44ca3de49c ("dma-debug: avoid deadlock between dma debug vs printk and netconsole")
+84bc4f1dbbbb ("dma-debug: change allocation mode from GFP_NOWAIT to GFP_ATIOMIC")
+5848dc5b1b76 ("dma-debug: remove debug_dma_assert_idle() function")
+a85ffd59bd36 ("dma-debug: fix debug_dma_assert_idle(), use rcu_read_lock()")
+83d116c53058 ("mm: fix double page fault on arm64 if PTE_AF is cleared")

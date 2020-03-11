@@ -1,0 +1,6 @@
+c2ee070fb003 ("block: cache the partition index in struct block_device")
+03e262798884 ("block: Fix bdi assignment to bdev inode when racing with disk delete")
+223757016837 ("block_dev: remove DAX leftovers")
+99a01cdf9d57 ("block: remove BLK_DEV_DAX config option")
+163d4baaebe3 ("block: add QUEUE_FLAG_DAX for devices to advertise their DAX support")
+315227f6da38 ("Merge tag 'dax-misc-for-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

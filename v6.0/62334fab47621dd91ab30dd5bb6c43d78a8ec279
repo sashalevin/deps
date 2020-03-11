@@ -1,0 +1,6 @@
+62334fab4762 ("xfs: use per-mount cpumask to track nonempty percpu inodegc lists")
+ecd49f7a36fb ("xfs: fix per-cpu CIL structure aggregation racing with dying cpus")
+d4d12c02bf5f ("xfs: collect errors from inodegc for unlinked inode recovery")
+b37c4c8339cd ("xfs: check that per-cpu inodegc workers actually run on that cpu")
+03e0add80f4c ("xfs: explicitly specify cpu when forcing inodegc delayed work to run immediately")
+4da112513c01 ("xfs: Fix deadlock on xfs_inodegc_worker")

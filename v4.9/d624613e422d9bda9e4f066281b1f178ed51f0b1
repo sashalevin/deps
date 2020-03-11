@@ -1,0 +1,8 @@
+d624613e422d ("cxgb4: Check for kvzalloc allocation failure")
+752ade68cbd8 ("treewide: use kv[mz]alloc* rather than opencoded variants")
+81be3dee9634 ("fs/xattr.c: zero out memory copied to userspace in getxattr")
+a7c3e901a46f ("mm: introduce kv[mz]alloc helpers")
+586d1492f301 ("f2fs: skip scanning free nid bitmap of full NAT blocks")
+23380b8568b8 ("f2fs: use __set{__clear}_bit_le")
+9f7e4a2c49fd ("f2fs: declare static functions")
+25c4e6c3f0c1 ("Merge tag 'for-f2fs-4.11' of git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs")

@@ -1,0 +1,7 @@
+9b448bc25b77 ("kmsan: introduce __no_sanitize_memory and __no_kmsan_checks")
+9a48e7564ac8 ("compiler-gcc.h: Define __SANITIZE_ADDRESS__ under hwaddress sanitizer")
+5144f8a8dfd7 ("compiler_types.h: Add __no_sanitize_{address,undefined} to noinstr")
+5ddbc4082e10 ("x86, kcsan: Add __no_kcsan to noinstr")
+eb73876c7431 ("compiler.h: Move function attributes to compiler_types.h")
+e3b779d9ebe8 ("kcsan: Remove 'noinline' from __no_kcsan_or_inline")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

@@ -1,0 +1,5 @@
+7031edac9dbc ("perf dso: Add dso__filename_with_chroot() to reduce number of accesses to dso->nsinfo members")
+40b0c5fd2455 ("perf annotate: Try chroot filename for objdump")
+75d48c56703d ("perf inject: Try chroot directory when reading build-id")
+67fd18924647 ("perf tools: Try chroot'ed filename when opening dso/symbol")
+9bce13ea88f8 ("perf record: Disable debuginfod by default")

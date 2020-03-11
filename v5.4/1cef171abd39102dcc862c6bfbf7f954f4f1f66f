@@ -1,0 +1,6 @@
+1cef171abd39 ("dm integrity: fix data corruption due to improper use of bvec_kmap_local")
+25058d1c725c ("dm integrity: use bvec_kmap_local in __journal_read_write")
+84597a44a9d8 ("dm integrity: add optional discard support")
+b93b6643e9b5 ("dm integrity: fix a crash with unusually large tag size")
+248aa2645aa7 ("dm integrity: use dm_bio_record and dm_bio_restore")
+d537858ac8aa ("dm integrity: fix excessive alignment of metadata runs")

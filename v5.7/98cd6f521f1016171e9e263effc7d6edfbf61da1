@@ -1,0 +1,5 @@
+98cd6f521f10 ("Kconfig: allow explicit opt in to DWARF v5")
+a66049e2cf0e ("Kbuild: make DWARF version a choice")
+83272e6d4765 ("kbuild: Remove $(cc-option,-gdwarf-4) dependency from DEBUG_INFO_DWARF4")
+695afd3d7d58 ("kbuild: Simplify DEBUG_INFO Kconfig handling")
+10e68b02c861 ("Makefile: support compressed debug info")

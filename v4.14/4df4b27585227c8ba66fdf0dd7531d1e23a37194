@@ -1,0 +1,6 @@
+4df4b2758522 ("powerpc/mm: cleanup remaining ifdef mess in hugetlbpage.c")
+1e03c7e2ea83 ("powerpc/mm: fix a warning when a cache is common to PGD and hugepages")
+0356656284ca ("powerpc/mm: replace hugetlb_cache by PGT_CACHE(PTE_T_ORDER)")
+8597538712eb ("powerpc/fadump: Do not use hugepages when fadump is active")
+b71a693d3db3 ("powerpc/fadump: exclude memory holes while reserving memory in second kernel")
+fae2211697c9 ("powerpc/mm: Fix crashes with 16G huge pages")

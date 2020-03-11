@@ -1,0 +1,5 @@
+31bff9a51b26 ("io_uring: fix racy IOPOLL completions")
+229a7b63507a ("io_uring: pass in completion state to appropriate issue side handlers")
+e1e16097e265 ("io_uring: provide generic io_req_complete() helper")
+b63534c41e20 ("io_uring: re-issue block requests that failed because of resources")
+4503b7676a2e ("io_uring: catch -EIO from buffered issue request failure")

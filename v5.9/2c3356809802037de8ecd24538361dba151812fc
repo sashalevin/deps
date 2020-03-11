@@ -1,0 +1,5 @@
+2c3356809802 ("mm, kasan: don't poison boot memory with tag-based modes")
+f9d79e8dce40 ("kasan, mm: fix crash with HW_TAGS and DEBUG_PAGEALLOC")
+7fef431be9c9 ("mm/page_alloc: place pages to tail in __free_pages_core()")
+47b6a24a2382 ("mm/page_alloc: place pages to tail in __putback_isolated_page()")
+f04a5d5d913f ("mm/page_alloc: convert "report" flag of __free_one_page() to a proper flag")

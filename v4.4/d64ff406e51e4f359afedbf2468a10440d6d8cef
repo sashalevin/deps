@@ -1,0 +1,7 @@
+d64ff406e51e ("usb: dwc3: use bus->sysdev for DMA configuration")
+d9fa4c63f766 ("usb: dwc3: core: add a event buffer cache")
+5eb30cedced6 ("usb: dwc3: trace: purge dwc3_trace()")
+0f817ae696b0 ("usb: dwc3: pci: add a private driver structure")
+57b14da56227 ("usb: dwc3: don't compile dwc3_trace() unless CONFIG_FTRACE=y")
+51fbc7c06c89 ("usb: dwc3: Fix size used in dma_free_coherent()")
+81522637485d ("Merge tag 'usb-for-v4.9' of git://git.kernel.org/pub/scm/linux/kernel/git/balbi/usb into usb-next")

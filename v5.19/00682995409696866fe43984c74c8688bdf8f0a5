@@ -1,0 +1,4 @@
+006829954096 ("KVM: SVM: Treat all "skip" emulation for SEV guests as outright failures")
+aeb904f6b9f1 ("KVM: x86: Refactor can_emulate_instruction() return to be more expressive")
+cb49631ad111 ("KVM: SVM: Don't inject #UD if KVM attempts to skip SEV guest insn")
+6ef88d6e36c2 ("KVM: SVM: Re-inject INT3/INTO instead of retrying the instruction")

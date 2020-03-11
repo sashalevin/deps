@@ -1,0 +1,7 @@
+7e1813d48dd3 ("hugetlb: rename remove_huge_page to hugetlb_delete_from_page_cache")
+1508062ecd55 ("hugetlbfs: Convert remove_inode_hugepages() to use filemap_get_folios()")
+d9ef44de5d73 ("hugetlb: Convert huge_add_to_page_cache() to use a folio")
+e32905e57358 ("userfaultfd: hugetlbfs: fix new flag usage in error path")
+15b836536321 ("mm/hugetlb: remove unused variable pseudo_vma in remove_inode_hugepages()")
+d4241a049ac0 ("mm/hugetlb: avoid calculating fault_mutex_hash in truncate_op case")
+d6995da31122 ("hugetlb: use page.private for hugetlb specific page flags")

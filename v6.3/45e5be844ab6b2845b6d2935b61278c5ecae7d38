@@ -1,0 +1,4 @@
+45e5be844ab6 ("tls/sw: Convert tls_sw_sendpage() to use MSG_SPLICE_PAGES")
+fe1e81d4f73b ("tls/sw: Support MSG_SPLICE_PAGES")
+df720d288dbb ("tls/sw: Use splice_eof() to flush")
+81840b3b91aa ("tls: Allow MSG_SPLICE_PAGES but treat it as normal sendmsg")

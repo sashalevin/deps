@@ -1,0 +1,6 @@
+c5f563f9e9e6 ("rename __filename_parentat() to filename_parentat()")
+0766ec82e5fb ("namei: Fix use after free in kern_path_locked")
+0ee50b47532a ("namei: change filename_parentat() calling conventions")
+91ef658fb8b8 ("namei: ignore ERR/NULL names in putname()")
+06422964c882 ("teach set_nameidata() to handle setting the root as well")
+bcba1e7d0d52 ("take LOOKUP_{ROOT,ROOT_GRABBED,JUMPED} out of LOOKUP_... space")

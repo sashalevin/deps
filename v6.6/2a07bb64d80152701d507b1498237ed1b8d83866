@@ -1,0 +1,7 @@
+2a07bb64d801 ("s390/dasd: Remove DMA alignment")
+fde07a4d74e3 ("dasd: use the atomic queue limits API")
+0127a47f58c6 ("dasd: move queue setup to common code")
+41463f2dfde2 ("dasd: cleamup dasd_state_basic_to_ready")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")

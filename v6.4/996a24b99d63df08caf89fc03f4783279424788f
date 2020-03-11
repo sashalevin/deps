@@ -1,0 +1,8 @@
+996a24b99d63 ("scsi: ufs: Reuse compose_devman_upiu")
+00d2fa28da0a ("scsi: ufs: core: Set the Command Priority (CP) flag for RT requests")
+c788cf8a21cd ("scsi: ufs: core: Simplify ufshcd_comp_scsi_upiu()")
+c91e585cfb3d ("scsi: ufs: core: Add advanced RPMB support where UFSHCI 4.0 does not support EHS length in UTRD")
+67a2a8973832 ("scsi: ufs: Simplify transfer request header initialization")
+0fef6bb730c4 ("scsi: ufs: core: mcq: Fix the incorrect OCS value for the device command")
+72554035b979 ("scsi: ufs: core: Remove a ufshcd_add_command_trace() call")
+8d7290348992 ("scsi: ufs: mcq: Add supporting functions for MCQ abort")

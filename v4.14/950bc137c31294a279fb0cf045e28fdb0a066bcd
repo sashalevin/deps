@@ -1,0 +1,8 @@
+950bc137c312 ("drm/armada: implement primary plane update")
+f1f1bffcf014 ("drm/armada: clean up armada_drm_crtc_plane_disable()")
+28b304339900 ("drm/armada: allow the primary plane to be disabled")
+65724a19438c ("drm/armada: wait and cancel any pending frame work at disable")
+eaab01307554 ("drm/armada: store plane in armada_plane_work")
+901bb8899165 ("drm/armada: add a common frame work allocator")
+2bf57436d52b ("drm/armada: fix SRAM powerdown")
+a52ff2a509a7 ("drm/armada: Replace drm_framebuffer_reference/unreference() with _get/put()")

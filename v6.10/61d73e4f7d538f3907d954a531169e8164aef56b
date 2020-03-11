@@ -1,0 +1,6 @@
+61d73e4f7d53 ("x86/percpu: Clean up <asm/percpu.h> a bit")
+47c9dbd2fb5f ("x86/percpu: Move some percpu accessors around to reduce ifdeffery")
+48908919c906 ("x86/percpu: Rename percpu_stable_op() to __raw_cpu_read_stable()")
+539615de7004 ("x86/percpu: Introduce the __raw_cpu_read_const() macro")
+a50ea6412966 ("x86/percpu: Unify percpu read-write accessors")
+08d564ad699e ("x86/percpu: Move some percpu macros around for readability")

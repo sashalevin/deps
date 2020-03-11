@@ -1,0 +1,7 @@
+aa37f83f7bfa ("pwm: tegra: Prepare removing pwm_chip from driver data")
+f19460c1d5cc ("pwm: tegra: Rename variable pointing to driver private data")
+3da9b0feaa16 ("pwm: tegra: Add runtime PM and OPP support")
+2f1a3bd4510a ("pwm: tegra: Assert reset only after the PWM was unregistered")
+3b8b571fcc49 ("pwm: tegra: Don't needlessly enable and disable the clock in .remove()")
+86f7fa71cd83 ("pwm: tegra: Don't modify HW state in .remove callback")
+c1b8ac969feb ("pwm: tegra: Drop an if block with an always false condition")

@@ -1,0 +1,8 @@
+2d74d0421e5a ("io_uring: further remove sqpoll limits on opcodes")
+6ca56f845955 ("io_uring: mark statx/files_update/epoll_ctl as non-SQPOLL")
+61710e437f28 ("io_uring: always allow drain/link/hardlink/async sqe flags")
+3232dd02af65 ("io_uring: fix {SQ,IO}POLL with unsupported opcodes")
+360428f8c0cd ("io_uring: move timeouts flushing to a helper")
+e62753e4e292 ("io_uring: call statx directly")
+1d9e1288039a ("io_uring: add io_statx structure")
+045189452210 ("io_uring: separate DRAIN flushing into a cold path")

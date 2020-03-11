@@ -1,0 +1,6 @@
+0aa45570c324 ("l2tp: add idr consistency check in session_register")
+d587d825424b ("l2tp: make session IDR and tunnel session list coherent")
+2146b7dd354c ("l2tp: fix l2tp_session_register with colliding l2tpv3 IDs")
+d18d3f0a24fc ("l2tp: replace hlist with simple list for per-tunnel session list")
+2a3339f6c963 ("l2tp: store l2tpv2 sessions in per-net IDR")
+aa5e17e1f5ec ("l2tp: store l2tpv3 sessions in per-net IDR")

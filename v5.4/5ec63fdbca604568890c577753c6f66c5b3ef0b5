@@ -1,0 +1,4 @@
+5ec63fdbca60 ("usb: gadget: u_serial: Add null pointer check in gserial_resume")
+d98ef43bfb65 ("usb: gadget: u_serial: clear suspended flag when disconnecting")
+aba3a8d01d62 ("usb: gadget: u_serial: add suspend resume callbacks")
+c6561082b833 ("usb: gadget: u_serial: use mutex for serialising open()s")

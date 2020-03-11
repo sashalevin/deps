@@ -1,0 +1,6 @@
+f0b38d65c9d0 ("arm64: hugetlb: remove spurious calls to huge_ptep_offset()")
+bb9dd3df8ee9 ("arm64: hugetlb: refactor find_num_contig()")
+69d012345a1a ("arm64: hugetlb: fix the wrong return value for huge_ptep_set_access_flags")
+0c2f0afe3582 ("arm64: hugetlb: fix the wrong address for several functions")
+20156ce2365d ("arm64: hugetlb: remove the wrong pmd check in find_num_contig()")
+66b3923a1a0f ("arm64: hugetlb: add support for PTE contiguous bit")

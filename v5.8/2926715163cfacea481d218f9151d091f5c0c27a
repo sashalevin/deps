@@ -1,0 +1,5 @@
+2926715163cf ("riscv: allow kmalloc() caches aligned to the smallest value")
+8500808a991f ("riscv: mm: mark noncoherent_supported as __ro_after_init")
+abcc445acdbe ("riscv: move riscv_noncoherent_supported() out of ZICBOM probe")
+5c20a3a9df19 ("RISC-V: Fix compilation without RISCV_ISA_ZICBOM")
+498574970fc9 ("Merge tag 'riscv-for-linus-6.1-mw2' of git://git.kernel.org/pub/scm/linux/kernel/git/riscv/linux")

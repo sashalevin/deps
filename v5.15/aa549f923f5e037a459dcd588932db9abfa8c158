@@ -1,0 +1,8 @@
+aa549f923f5e ("mm: support poison recovery from do_cow_fault()")
+e4621e70469c ("mm: memory: use a folio in do_cow_fault()")
+68fa572b503c ("mm: memory: use folio_throttle_swaprate() in do_cow_fault()")
+8f425e4ed0eb ("mm/memcg: Convert mem_cgroup_charge() to take a folio")
+118f2875490b ("mm/memcg: Convert commit_charge() to take a folio")
+8e88bd2dfde2 ("mm/memcg: Convert memcg_check_events to take a node ID")
+658b69c9d852 ("mm/memcg: Use the node id in mem_cgroup_update_tree()")
+6e0110c247c8 ("mm/memcg: Remove 'page' parameter to mem_cgroup_charge_statistics()")

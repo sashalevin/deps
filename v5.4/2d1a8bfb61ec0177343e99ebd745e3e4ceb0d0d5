@@ -1,0 +1,5 @@
+2d1a8bfb61ec ("coresight: etm4x: Fix etm4_count race by moving cpuhp callbacks to init")
+9b6a3f3633a5 ("coresight: etmv4: Fix CPU power management setup in probe() function")
+3f4943d422c5 ("coresight: etm4x: Fix use-after-free of per-cpu etm drvdata")
+500589d8bd73 ("coresight: etm4x: Fix unused function warning")
+f188b5e76aae ("coresight: etm4x: Save/restore state across CPU low power states")

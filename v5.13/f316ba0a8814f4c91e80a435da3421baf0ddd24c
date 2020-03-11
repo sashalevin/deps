@@ -1,0 +1,5 @@
+f316ba0a8814 ("dma-iommu: Check that swiotlb is active before trying to use it")
+9b49bbc2c4df ("iommu/dma: Fold _swiotlb helpers into callers")
+ee9d4097cc14 ("iommu/dma: Skip extra sync during unmap w/swiotlb")
+06e620345d54 ("iommu/dma: Fix arch_sync_dma for map")
+7fd856aa7f42 ("swiotlb: Update is_swiotlb_buffer to add a struct device argument")

@@ -1,0 +1,8 @@
+5dbcad51f784 ("io_uring: don't miscount pinned memory")
+b2edc0a77fac ("io_uring: don't burn CPU for iopoll on exit")
+9dedd5630156 ("io_uring: partially inline io_iopoll_getevents()")
+309758254ea6 ("io_uring: report pinned memory usage")
+aad5d8da1b30 ("io_uring: rename ctx->account_mem field")
+a087e2b51992 ("io_uring: add wrappers for memory accounting")
+56952e91acc9 ("io_uring: reap poll completions while waiting for refs to drop on exit")
+0f158b4cf20e ("io_uring: name sq thread and ref completions")

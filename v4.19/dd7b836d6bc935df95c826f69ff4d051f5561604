@@ -1,0 +1,5 @@
+dd7b836d6bc9 ("ALSA: dice: fix null pointer dereference when node is disconnected")
+740680f22d96 ("ALSA: dice: unify stop and release method for duplex streams")
+3cd2c2d780a2 ("ALSA: dice: reserve/release isochronous resources in pcm.hw_params/hw_free callbacks")
+c738aed136a7 ("ALSA: dice: code refactoring to keep isochronous resources")
+b3480638a52a ("ALSA: dice: code refactoring to stop packet streaming")

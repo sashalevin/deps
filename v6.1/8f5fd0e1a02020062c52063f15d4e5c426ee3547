@@ -1,0 +1,2 @@
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+aea06577a900 ("mm: don't call vm_ops->huge_fault() in wp_huge_pmd()/wp_huge_pud() for private mappings")

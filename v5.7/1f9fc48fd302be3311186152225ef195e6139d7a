@@ -1,0 +1,7 @@
+1f9fc48fd302 ("net: dsa: sja1105: fix reception from VLAN-unaware bridges")
+219827ef92f8 ("net: dsa: sja1105: enforce FDB isolation")
+9aad3e4ede9b ("net: dsa: sja1105: stop using priv->vlan_aware")
+8ded9160928e ("net: dsa: tag_sja1105: stop asking the sja1105 driver in sja1105_xmit_tpid")
+994d2cbb08ca ("net: dsa: tag_sja1105: be dsa_loop-safe")
+022522aca430 ("net: dsa: sja1105: reorganize probe, remove, setup and teardown ordering")
+f4083a752a3b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

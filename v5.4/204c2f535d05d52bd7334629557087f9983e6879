@@ -1,0 +1,5 @@
+204c2f535d05 ("kcov: fix spelling typos in comments")
+e89eed02a5f1 ("kcov, usb: hide in_serving_softirq checks in __usb_hcd_giveback_urb")
+aee9ddb1d371 ("kcov, usb: only collect coverage from __usb_hcd_giveback_urb in softirq")
+76e278d6b505 ("usb: core: kcov: collect coverage from usb complete callback")
+eec028c9386e ("kcov: remote coverage support")

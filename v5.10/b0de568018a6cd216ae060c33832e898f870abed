@@ -1,0 +1,5 @@
+b0de568018a6 ("KVM: x86/mmu: Use MMIO SPTE bits 53 and 52 for the MMIO generation")
+8a406c89532c ("KVM: x86/mmu: Rename and document A/D scheme for TDP SPTEs")
+8120337a4c55 ("KVM: x86/mmu: Stop using software available bits to denote MMIO SPTEs")
+30ab5901da57 ("KVM: x86/mmu: Don't install bogus MMIO SPTEs if MMIO caching is disabled")
+44aaa0150bfd ("KVM: x86/mmu: Disable MMIO caching if MMIO value collides with L1TF")

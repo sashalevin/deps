@@ -1,0 +1,8 @@
+6aaa31aeb9cf ("ubsan: remove overflow checks")
+251b5497c5c9 ("ubsan: disable unsigned-overflow check for i386")
+4a26f49b7b3d ("ubsan: expand tests and reporting")
+c637693b20da ("ubsan: remove UBSAN_MISC in favor of individual options")
+d0a3ac549f38 ("ubsan: enable for all*config builds")
+61e0349f703d ("ubsan: disable object-size sanitizer under GCC")
+cdf8a76fda4a ("ubsan: move cc-option tests into Kconfig")
+d8a7f62b6eec ("ubsan: remove redundant -Wno-maybe-uninitialized")

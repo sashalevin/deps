@@ -1,0 +1,8 @@
+84dacdbd5352 ("mm: document and polish read-ahead code")
+c790fbf20a53 ("fs: Document file_ra_state")
+8151b4c8bee4 ("mm: add readahead address space operation")
+a4d9653666b3 ("mm: use readahead_control to pass arguments")
+ad4ae1c732bc ("mm: move readahead nr_pages check into read_pages")
+a1ef8566525c ("mm: ignore return value of ->readpages")
+9a42823a102e ("mm: return void from various readahead functions")
+cee9a0c4e84d ("mm: move readahead prototypes from mm.h")

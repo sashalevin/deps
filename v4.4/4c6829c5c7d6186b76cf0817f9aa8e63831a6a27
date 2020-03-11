@@ -1,0 +1,8 @@
+4c6829c5c7d6 ("staging/rdma/hfi1: Remove driver specific members from hfi1 qp type")
+9eb0432baa15 ("staging/hfi1: Move s_sde to read mostly section of hfi1_qp")
+d46e51448a9a ("staging/rdma/hfi1: Reduce number of parameters passed to send handlers")
+7c091e5c0685 ("staging/rdma/hfi1: add ACK coalescing logic")
+2fd36865b570 ("staging/rdma/hfi1: add common routine for queuing acks")
+d7b8ba5121e8 ("staging/rdma/hfi1: pre-compute sc and sde for RC/UC QPs")
+0a226edd203f ("staging/rdma/hfi1: Use parallel workqueue for SDMA engines")
+c2f3ffb08593 ("staging/rdma/hfi1: move hfi1_migrate_qp")

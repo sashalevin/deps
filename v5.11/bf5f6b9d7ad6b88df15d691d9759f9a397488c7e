@@ -1,0 +1,5 @@
+bf5f6b9d7ad6 ("KVM: SVM: move check for kvm_vcpu_apicv_active outside of avic_vcpu_{put|load}")
+a7fc06dd2f14 ("KVM: SVM: use .prepare_guest_switch() to handle CPU register save/setup")
+553cc15f6e8d ("KVM: SVM: remove uneeded fields from host_save_users_msrs")
+e79b91bb3c91 ("KVM: SVM: use vmsave/vmload for saving/restoring additional host state")
+35a7831912f4 ("KVM: SVM: Use asm goto to handle unexpected #UD on SVM instructions")

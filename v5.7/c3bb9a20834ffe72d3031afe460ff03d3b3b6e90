@@ -1,0 +1,6 @@
+c3bb9a20834f ("KVM: nVMX: Disable PML in hardware when running L2")
+2c1f3323802e ("KVM: nVMX: Split VM-Exit reflection logic into L0 vs. L1 wants")
+236871b6744a ("KVM: nVMX: Move nested VM-Exit tracepoint into nested_vmx_reflect_vmexit()")
+fbdd50250396 ("KVM: nVMX: Move VM-Fail check out of nested_vmx_exit_reflected()")
+7b7bd87dbd6a ("KVM: nVMX: Uninline nested_vmx_reflect_vmexit(), i.e. move it to nested.c")
+789afc5ccd4e ("KVM: nVMX: Move reflection check into nested_vmx_reflect_vmexit()")

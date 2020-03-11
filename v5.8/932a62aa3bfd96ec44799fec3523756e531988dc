@@ -1,0 +1,7 @@
+932a62aa3bfd ("drm/ast: Update cursor image and checksum from same function")
+dd004b9a5505 ("drm/ast: Move cursor fb pinning and mapping into helper")
+beb2355eecbf ("drm/ast: Pass struct ast_private instance to cursor init/fini functions")
+2ccebf561e4a ("drm/ast: Move cursor functions to ast_cursor.c")
+1a19b4cb1622 ("drm/ast: Use per-device logging macros")
+fa7dbd768884 ("drm/ast: Upcast from DRM device to ast structure via to_ast_private()")
+05f13f5b5996 ("drm/ast: Remove unused code paths for AST 1180")

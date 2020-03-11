@@ -1,0 +1,8 @@
+a46f4e9e5ae9 ("drm/i915/sdvo: Add helpers to get the cmd/status string")
+7b8062ea60d9 ("drm/i915/sdvo: Shrink sdvo_cmd_names[] strings")
+8a9c8028399e ("drm/i915/sdvo: Remove duplicate SET_INPUT_TIMINGS_PART1 cmd name string")
+c598a66491cf ("drm/i915/sdvo: Use named initializers for the SDVO command names")
+a85066840d29 ("drm/i915: Rework sdvo proxy i2c locking")
+579627ea1897 ("drm/i915: Shrink sdvo_cmd_names")
+bffce907d640 ("drm/i915: abstract i2c bit banging fallback in gmbus xfer")
+2a5c08323dec ("drm/i915: s/is_sdvob/enum port/")

@@ -1,0 +1,8 @@
+8154132521e9 ("crypto: ecdh - register NIST P384 tfm")
+8fd28fa5046b ("crypto: ecdh - fix 'ecdh_init'")
+6763f5ea2d9a ("crypto: ecdh - move curve_id of ECDH from the key to algorithm name")
+a53ab94eb685 ("crypto: ecdh_helper - Ensure 'len >= secret.len' in decode_key()")
+0aa171e9b267 ("crypto: ecdh - avoid buffer overflow in ecdh_set_secret()")
+075f77324f90 ("Bluetooth: Remove CRYPTO_ALG_INTERNAL flag")
+c7ff8573ad21 ("crypto/testmgr: enable selftests for paes-s390 ciphers")
+f613457a7af0 ("crypto: curve25519 - add kpp selftest")

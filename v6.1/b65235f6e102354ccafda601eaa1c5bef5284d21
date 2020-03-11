@@ -1,0 +1,5 @@
+b65235f6e102 ("x86: KVM: SVM: always update the x2avic msr interception")
+f628a34a9d52 ("KVM: SVM: Replace "avic_mode" enum with "x2avic_enabled" boolean")
+2008fab34530 ("KVM: x86: Inhibit APIC memslot if x2APIC and AVIC are enabled")
+c482f2cebe2d ("KVM: x86: Move APIC access page helper to common x86 code")
+e0bead97e759 ("KVM: SVM: Don't put/load AVIC when setting virtual APIC mode")

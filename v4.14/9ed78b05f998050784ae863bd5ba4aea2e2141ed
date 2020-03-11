@@ -1,0 +1,5 @@
+9ed78b05f998 ("irqdomain: Allow software nodes for IRQ domain creation")
+87526603c892 ("irqdomain: Get rid of special treatment for ACPI in __irq_domain_add()")
+181e9d4efaf6 ("irqdomain: Make __irq_domain_add() less OF-dependent")
+43b98d876f89 ("genirq/irqdomain: Remove WARN_ON() on out-of-memory condition")
+94967b55ebf3 ("genirq/debugfs: Reinstate full OF path for domain name")

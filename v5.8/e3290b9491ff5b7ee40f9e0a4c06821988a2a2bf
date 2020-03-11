@@ -1,0 +1,5 @@
+e3290b9491ff ("dm: simplify target code conditional on CONFIG_BLK_DEV_ZONED")
+3db564b4f592 ("dm: set DM_TARGET_PASSES_CRYPTO feature for some targets")
+6abc49468eea ("dm: add support for REQ_NOWAIT and enable it for linear target")
+8e225f04d2dd ("dm crypt: Enable zoned block device support")
+39d42fa96ba1 ("dm crypt: add flags to optionally bypass kcryptd workqueues")

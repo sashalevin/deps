@@ -1,0 +1,8 @@
+794aaf01444d ("spi: Fix use-after-free with devm_spi_alloc_*")
+5e844cc37a5c ("spi: Introduce device-managed SPI controller allocation")
+84855678add8 ("spi: Fix controller unregister order")
+ebc37af5e0a1 ("spi: No need to assign dummy value in spi_unregister_controller()")
+67f7b2781faf ("spi: fix use-after-free at controller deregistration")
+9b61e302210e ("spi: Pick spi bus number from Linux idr or spi alias")
+8caab75fd2c2 ("spi: Generalize SPI "master" to "controller"")
+c94085f587a7 ("Merge branches 'topic/core', 'topic/slave' and 'fix/doc' of git://git.kernel.org/pub/scm/linux/kernel/git/broonie/spi into spi-master")

@@ -1,0 +1,5 @@
+83c0708719f7 ("irqchip/loongson-eiointc: Remove explicit interrupt affinity restore on resume")
+a3f1132c4c6b ("irqchip/loongson-eiointc: Add DT init support")
+fb07b8f83441 ("irqchip/loongson-eiointc: Fix irq affinity setting during resume")
+bdd60211eebb ("irqchip/loongson-eiointc: Fix registration of syscore_ops")
+64cc451e45e1 ("irqchip/loongson-eiointc: Fix incorrect use of acpi_get_vec_parent")

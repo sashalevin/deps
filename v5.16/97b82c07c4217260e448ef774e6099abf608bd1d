@@ -1,0 +1,6 @@
+97b82c07c421 ("cifs: trivial style fixup")
+c6f62f81b488 ("cifs: Fix memory leak when using fscache")
+46f5cbdef7d4 ("cifs: Fix the readahead conversion to manage the batch when reading from cache")
+0174ee9947bd ("cifs: Implement cache I/O by accessing the cache directly")
+052e04a52dcd ("cifs: Transition from ->readpages() to ->readahead()")
+70431bfd825d ("cifs: Support fscache indexing rewrite")

@@ -1,0 +1,6 @@
+50ae81305c7a ("signal: Verify the alignment and size of siginfo_t")
+726e337b6454 ("arm64: Add compile-time asserts for siginfo_t offsets")
+56516a42f2f1 ("arm: Add compile-time asserts for siginfo_t offsets")
+42365abdde2a ("sparc64: Add compile-time asserts for siginfo_t offsets")
+f28380185193 ("signal: Remove the need for __ARCH_SI_PREABLE_SIZE and SI_PAD_SIZE")
+d82991a8688a ("Merge branch 'core-rseq-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

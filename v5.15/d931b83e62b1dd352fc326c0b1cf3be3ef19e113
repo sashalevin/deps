@@ -1,0 +1,6 @@
+d931b83e62b1 ("cacheinfo: Make default acpi_get_cache_info() return an error")
+bd500361a937 ("ACPI: PPTT: Update acpi_find_last_cache_level() to acpi_get_cache_info()")
+fa4d566a605b ("ACPI: PPTT: Remove acpi_find_cache_levels()")
+e75d18cecbb3 ("arm64: cacheinfo: Fix incorrect assignment of signed error value to unsigned fw_level")
+0c80f9e165f8 ("ACPI: PPTT: Leave the table mapped for the runtime usage")
+c5e22feffdd7 ("topology: Represent clusters of CPUs within a die")

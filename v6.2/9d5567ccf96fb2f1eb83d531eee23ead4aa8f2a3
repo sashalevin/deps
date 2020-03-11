@@ -1,0 +1,7 @@
+9d5567ccf96f ("riscv: fix jal offsets in patched alternatives")
+27c653c06505 ("RISC-V: fix auipc-jalr addresses in patched alternatives")
+47f05757d3d8 ("RISC-V: add helpers for handling immediates in U-type and I-type pairs")
+c9c1af3f186a ("RISC-V: rename parse_asm.h to insn.h")
+ec5f90877516 ("RISC-V: Move riscv_insn_is_* macros into a common header")
+bf0cc402d7cd ("RISC-V: add prefix to all constants/macros in parse_asm.h")
+a3775634f6da ("RISC-V: fix funct4 definition for c.jalr in parse_asm.h")

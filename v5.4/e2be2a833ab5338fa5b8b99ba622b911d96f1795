@@ -1,0 +1,4 @@
+e2be2a833ab5 ("x86/tboot: Don't disable swiotlb when iommu is forced on")
+4d213e76a359 ("iommu/vt-d: Avoid panic if iommu init fails in tboot system")
+c7eb900f5f45 ("iommu/vt-d: Move intel_iommu_gfx_mapped to Intel IOMMU header")
+8d3bcc441e6c ("x86: Use pr_warn instead of pr_warning")

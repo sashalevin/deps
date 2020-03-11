@@ -1,0 +1,7 @@
+4a6cf76edf5c ("thermal/drivers/exynos: Simplify probe() with local dev variable")
+b72ba67baec1 ("thermal/drivers/exynos: Split initialization of TMU and the thermal zone")
+5d6976d01414 ("thermal/drivers/exynos: Simplify regulator (de)initialization")
+52ef6f567e6b ("thermal/drivers/exynos: Handle devm_regulator_get_optional return value correctly")
+20009a8137ee ("thermal/drivers/exynos: Wwitch from workqueue-driven interrupt handling to threaded interrupts")
+0cefaf6c89c0 ("thermal/drivers/exynos: Remove an unnecessary field description")
+0b478d7b867b ("thermal: exynos_tmu: Convert to platform remove callback returning void")

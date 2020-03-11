@@ -1,0 +1,6 @@
+6cf9a2dce6bd ("arm64: move kimage_vaddr to .rodata")
+a5d4420b26b5 ("arm64: kernel: Convert to modern annotations for assembly data")
+61cf61d81e32 ("arm64: Fix size of __early_cpu_boot_status")
+b89d82ef01b3 ("arm64: kpti: Avoid rewriting early page tables when KASLR is enabled")
+f58cdf7e3cab ("arm64: capabilities: Merge duplicate Cavium erratum entries")
+c9460dcb06ee ("arm64: capabilities: Merge entries for ARM64_WORKAROUND_CLEAN_CACHE")

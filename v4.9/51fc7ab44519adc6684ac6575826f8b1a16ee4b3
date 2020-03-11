@@ -1,0 +1,4 @@
+51fc7ab44519 ("libceph: fix watch_item_t decoding to use ceph_decode_entity_addr")
+b726ec972cf2 ("libceph: make ceph_pr_addr take an struct ceph_entity_addr pointer")
+cede185b1ba3 ("libceph: fix unaligned accesses in ceph_entity_addr handling")
+633ee407b9d1 ("libceph: force GFP_NOIO for socket allocations")

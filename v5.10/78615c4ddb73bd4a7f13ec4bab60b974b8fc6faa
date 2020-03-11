@@ -1,0 +1,5 @@
+78615c4ddb73 ("powerpc: move the ARCH_DMA_MINALIGN definition to asm/cache.h")
+da481c4fe0e4 ("powerpc/32s: Cleanup around PTE_FLAGS_OFFSET in hash_low.S")
+f265512582a0 ("powerpc/32s: Move _tlbie() and _tlbia() in a new file")
+b91280f3f36d ("powerpc/32s: Inline _tlbie() on non SMP")
+cfe32ad0b3dc ("powerpc/32s: Move _tlbie() and _tlbia() prototypes to tlbflush.h")

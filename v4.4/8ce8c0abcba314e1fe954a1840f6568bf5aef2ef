@@ -1,0 +1,5 @@
+8ce8c0abcba3 ("can: mcp251x: only reset hardware as required")
+27a0e54bae09 ("can: mcp251x: mcp251x_restart_work_handler(): Fix potential force_quit race condition")
+375f755899b8 ("can: mcp251x: add error check when wq alloc failed")
+aa68172235ba ("can: mcp251x: mcp251x_setup(): remove unused parameter "struct mcp251x_priv *priv"")
+b6fd3aba6041 ("can: mcp251x: Replace create_freezable_workqueue with alloc_workqueue")

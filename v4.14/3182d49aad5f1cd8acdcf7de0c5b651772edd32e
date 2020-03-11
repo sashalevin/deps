@@ -1,0 +1,8 @@
+3182d49aad5f ("spi: spi-zynq: Do not check for 0 return after calling platform_get_irq()")
+f131767eefc4 ("spi: spi-zynq-qspi: Fix some wrong goto jumps & missing error code")
+d575c9b7c8b4 ("spi: zynq-qspi: Support two chip selects")
+8f16292d8b49 ("spi: zynq-qspi: Do the actual hardware initialization later in the probe")
+dffaf7439979 ("spi: zynq-qspi: Clarify the select chip function")
+941be7237351 ("spi: zynq-qspi: Keep the bitfields naming consistent")
+087622d09472 ("spi: zynq-qspi: Anything else than CS0 is not supported yet")
+795227660d05 ("Merge branch 'spi-5.3' into spi-5.4")

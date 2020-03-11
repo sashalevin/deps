@@ -1,0 +1,3 @@
+114518eb6430 ("task_work: Use TIF_NOTIFY_SIGNAL if available")
+ebf0d100df07 ("task_work: only grab task signal lock when needed")
+e91b48162332 ("task_work: teach task_work_add() to do signal_wake_up()")

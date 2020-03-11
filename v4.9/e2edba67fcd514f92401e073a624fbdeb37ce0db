@@ -1,0 +1,7 @@
+e2edba67fcd5 ("RDMA/rxe: use %u to print u32 variables")
+33023fb85a42 ("IB/core: add max_send_sge and max_recv_sge attributes")
+25fd86eca11c ("svcrdma: Don't overrun the SGE array in svc_rdma_send_ctxt")
+4201c7464753 ("svcrdma: Introduce svc_rdma_send_ctxt")
+232627905f12 ("svcrdma: Clean up Send SGE accounting")
+f016f305f981 ("svcrdma: Refactor svc_rdma_dma_map_buf")
+3316f0631139 ("svcrdma: Persistently allocate and DMA-map Receive buffers")

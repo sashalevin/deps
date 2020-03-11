@@ -1,0 +1,6 @@
+1565929b870f ("dm zoned: avoid unnecessary device recalulation for secondary superblock")
+bf28a3ba0986 ("dm zoned: store device in struct dmz_sb")
+735bd7e4cd16 ("dm zoned: use array for superblock zones")
+b71228739851 ("dm zoned: store zone id within the zone structure and kill dmz_id()")
+bc3d5717d242 ("dm zoned: add 'status' callback")
+e7fad909b68a ("dm zoned: reduce overhead of backing device checks")

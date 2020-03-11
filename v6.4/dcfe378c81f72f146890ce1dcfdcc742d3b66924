@@ -1,0 +1,8 @@
+dcfe378c81f7 ("lib: introduce support for page allocation tagging")
+22d407b164ff ("lib: add allocation tagging support for memory allocation profiling")
+916cc5167cc6 ("lib: code tagging framework")
+362d37a106dd ("mm, pcp: reduce lock contention for draining high-order pages")
+94a3bfe4073c ("cacheinfo: calculate size of per-CPU data cache slice")
+ca71fe1ad922 ("mm, pcp: avoid to drain PCP when process exit")
+8f21912a4bf8 ("mm: remove obsolete comment above struct per_cpu_pages")
+e9aae1709264 ("mm: page_alloc: collect mem statistic into show_mem.c")

@@ -1,0 +1,3 @@
+b2a2ab039bd5 ("opp: Fix use-after-free in lazy_opp_tables after probe deferral")
+976509bb310b ("opp: fix memory leak in _allocate_opp_table")
+dd461cd9183f ("opp: Allow dev_pm_opp_get_opp_table() to return -EPROBE_DEFER")

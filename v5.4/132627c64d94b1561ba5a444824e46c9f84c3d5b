@@ -1,0 +1,4 @@
+132627c64d94 ("KVM: SVM: WARN if KVM attempts emulation on #UD or #GP for SEV guests")
+55467fcd55b8 ("KVM: SVM: Never reject emulation due to SMAP errata for !SEV guests")
+bc624d9f1bbb ("KVM: SVM: Do not allow instruction emulation under SEV-ES")
+46a010dd6896 ("kVM SVM: Move SVM related files to own sub-directory")

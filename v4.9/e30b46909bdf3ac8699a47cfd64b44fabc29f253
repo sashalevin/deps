@@ -1,0 +1,7 @@
+e30b46909bdf ("mtd: nand: denali: use int where no reason to use fixed width variable")
+be72a4aa8ec1 ("mtd: nand: denali: introduce capability flag")
+60ca41f1d9cc ("mtd: nand: denali: fix comment of denali_nand_info::flash_mem")
+264a7cabb80e ("mtd: nand: denali: remove more unused struct members")
+376563917c23 ("mtd: nand: denali: remove unused struct member totalblks, blksperchip")
+c9e025843242 ("mtd: nand: denali: remove detect_partition_feature()")
+c4ae0977f57d ("mtd: nand: denali: remove unused struct member denali_nand_info::idx")

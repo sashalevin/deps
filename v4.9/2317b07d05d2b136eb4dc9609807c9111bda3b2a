@@ -1,0 +1,5 @@
+2317b07d05d2 ("s390: update sampling tag after task pid change")
+8076428f0c9f ("s390: convert release_thread() into a static inline function")
+3a890380e426 ("s390/thread_info: get rid of THREAD_ORDER define")
+d5c352cdd022 ("s390: move thread_info into task_struct")
+c360192bf4a8 ("s390/preempt: move preempt_count to the lowcore")

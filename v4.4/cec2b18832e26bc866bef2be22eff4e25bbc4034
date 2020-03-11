@@ -1,0 +1,6 @@
+cec2b18832e2 ("backlight: pwm_bl: Use gpiod_get_value_cansleep() to get initial state")
+7613c922315e ("backlight: pwm_bl: Move the checks for initial power state to a separate function")
+6cb9644db736 ("backlight: pwm_bl: Use pwm_get_args() where appropriate")
+7f044b09b68d ("backlight: pwm_bl: Remove useless call to pwm_set_period()")
+8777078015bb ("backlight: pwm_bl: Fix broken PWM backlight for non-dt platforms")
+3698d7e7d221 ("backlight: pwm_bl: Avoid backlight flicker when probed from DT")

@@ -1,0 +1,5 @@
+3846d011403b ("thunderbolt: Pass CL state bitmask to tb_port_clx_supported()")
+95f8f1cbc87b ("thunderbolt: Move port CL state functions into correct place in switch.c")
+b017a46d486c ("thunderbolt: Add CL1 support for USB4 and Titan Ridge routers")
+418a5a3d6596 ("thunderbolt: CLx disable before system suspend only if previously enabled")
+990f4b85d7d9 ("thunderbolt: Silently ignore CLx enabling in case CLx is not supported")

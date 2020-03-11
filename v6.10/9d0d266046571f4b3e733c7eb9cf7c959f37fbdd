@@ -1,0 +1,5 @@
+9d0d26604657 ("kconfig: recursive checks drop file/lineno")
+d5afb4824f14 ("kconfig: refactor error messages in sym_check_print_recursive()")
+d67624d814ae ("kconfig: improve error message for recursive dependency in choice")
+1a7d0ea83e62 ("kconfig: improve error message for dependency between choice members")
+d8f8bbcf4b94 ("kconfig: use sym_get_choice_menu() in sym_check_print_recursive()")

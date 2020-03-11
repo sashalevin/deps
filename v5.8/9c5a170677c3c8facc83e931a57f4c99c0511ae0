@@ -1,0 +1,8 @@
+9c5a170677c3 ("net: phylink: add phylink_get_link_timer_ns() helper")
+291dcae39bc4 ("net: phylink: Add helpers for c22 registers without MDIO")
+c8fb89a7a7d1 ("net: phylink: Convert some users of mdiobus_* to mdiodev_*")
+92817dad7dcb ("net: phylink: Support disabling autonegotiation for PCS")
+078e0b5363db ("net: phylink: use mdiobus_modify_changed() helper")
+cd29296fdfca ("net: phylink: disable BMCR_ISOLATE in phylink_mii_c22_pcs_config")
+afd6220999d4 ("net: phylink: add helper function to decode USXGMII word")
+93eaceb0fcf8 ("net: phylink: add interface to configure clause 22 PCS PHY")

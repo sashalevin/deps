@@ -1,0 +1,7 @@
+d1051db85f64 ("drm/i915/gt: describe the new tlb parameter at i915_vma_resource")
+e1a4bbb6e837 ("drm/i915: Initial introduction of vma resources")
+c2ea703dcafc ("drm/i915: Require the vm mutex for i915_vma_bind()")
+ff20afc4cee7 ("drm/i915: Update error capture code to avoid using the current vma state")
+e45b98ba6276 ("drm/i915: Avoid allocating a page array for the gpu coredump")
+f6c466b84cfa ("drm/i915: Add support for moving fence waiting")
+e6e1a304d759 ("drm/i915: vma is always backed by an object.")

@@ -1,0 +1,8 @@
+b768917d2c08 ("sched/headers: Move the 'cpu_idle_type' enum from <linux/sched.h> to <linux/sched/idle.h>")
+4c822698cba8 ("sched/headers: Prepare for new header dependencies before moving code to <linux/sched/idle.h>")
+105ab3d8ce72 ("sched/headers: Prepare for new header dependencies before moving code to <linux/sched/topology.h>")
+7202bde8b7ae ("arm64: parse cpu capacity-dmips-mhz from DT")
+47ae4b05d0fa ("virt, sched: Add generic vCPU pinning support")
+186f43608a5c ("x86/kernel: Audit and remove any unnecessary uses of module.h")
+cb2517653fcc ("sched/debug: Make schedstats a runtime tunable that is disabled by default")
+567bee2803cb ("Merge branch 'sched/urgent' into sched/core, to pick up fixes before merging new patches")

@@ -1,0 +1,8 @@
+35ec8fa0207b ("mempolicy: mpol_shared_policy_init() without pseudo-vma")
+a670468f5e0b ("mm: zero out the vma in vma_init()")
+bfd40eaff5ab ("mm: fix vma_is_anonymous() false-positives")
+2c4541e24c55 ("mm: use vma_init() to initialize VMAs on stack and data segments")
+027232da7c7c ("mm: introduce vma_init()")
+490fc053865c ("mm: make vm_area_alloc() initialize core fields")
+3928d4f5ee37 ("mm: use helper functions for allocating and freeing vm_area structs")
+daa280753cef ("mm/shmem.c: zero out unused vma fields in shmem_pseudo_vma_init()")

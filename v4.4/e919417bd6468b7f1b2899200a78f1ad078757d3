@@ -1,0 +1,6 @@
+e919417bd646 ("dmaengine: rcar-dmac: clear channel register when error")
+9203dbec90a6 ("dmaengine: rcar-dmac: don't use DMAC error interrupt")
+5e857047ba1e ("dmaengine: rcar-dmac: initialize all data before registering IRQ handler")
+30c45005a46b ("dmaengine: rcar-dmac: implement device_synchronize()")
+427d5ecd270b ("dmaengine: rcar-dmac: store channel IRQ in struct rcar_dmac_chan")
+c5ed08e988a3 ("dmaengine: rcar-dmac: group slave configuration")

@@ -1,0 +1,4 @@
+68f5630ae154 ("mmc: core: constify the struct device_type usage")
+254e175448b7 ("mmc: core: Export device/vendor ids from Common CIS for SDIO cards")
+c03ac5e6fad1 ("mmc: core: Do not export MMC_NAME= and MODALIAS=mmc:block for SDIO cards")
+a94a59f43749 ("mmc: sdio: Fix several potential memory leaks in mmc_sdio_init_card()")

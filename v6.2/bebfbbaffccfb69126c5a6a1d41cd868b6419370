@@ -1,0 +1,6 @@
+bebfbbaffccf ("cxl/acpi: Warn on mixed CXL VH and RCH/RCD Hierarchy")
+d02034b4025a ("cxl/acpi: Directly bind the CEDT detected CHBCR to the Host Bridge's port")
+f44c7b7ad9b8 ("cxl/acpi: Move add_host_bridge_uport() after cxl_get_chbs()")
+eb4663b07e13 ("cxl/acpi: Probe RCRB later during RCH downstream port creation")
+59c3368b2e69 ("cxl/port: Export cxl_dvsec_rr_decode() to cxl_port")
+1acba6e9206c ("cxl/pci: Break out range register decoding from cxl_hdm_decode_init()")

@@ -1,0 +1,4 @@
+bd2b879a1ca5 ("rcu: Add tracing to irq/NMI dyntick-idle transitions")
+fd581a91ac16 ("rcu: Move rcu_nmi_{enter,exit}() to prepare for consolidation")
+2e672ab2d491 ("rcu: Avoid ->dynticks_nmi_nesting store tearing")
+c0da313e090d ("rcu: Add extended-quiescent-state testing advice")

@@ -1,0 +1,6 @@
+41c8a1a1e90f ("scsi: arcmsr: Support new PCI device IDs 1883 and 1886")
+ae897ae28f9a ("scsi: arcmsr: Add support for ARC-1886 series RAID controllers")
+afdda87852ef ("scsi: arcmsr: Fix suspend/resume of ACB_ADAPTER_TYPE_B")
+222f1189b01f ("scsi: arcmsr: Merge arcmsr_alloc_io_queue to arcmsr_alloc_ccb_pool")
+609d08581a5a ("scsi: arcmsr: Rename arcmsr_free_mu to arcmsr_free_io_queue")
+381d66da7212 ("scsi: arcmsr: Rename acb structure member roundup_ccbsize to ioqueue_size")

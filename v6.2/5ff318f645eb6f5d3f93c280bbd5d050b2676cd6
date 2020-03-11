@@ -1,0 +1,3 @@
+5ff318f645eb ("nfsd: use __fput_sync() to avoid delayed closing of files.")
+b2ff1bd71db2 ("nfsd: don't take/put an extra reference when putting a file")
+4c475eee0237 ("nfsd: don't fsync nfsd_files on last close")

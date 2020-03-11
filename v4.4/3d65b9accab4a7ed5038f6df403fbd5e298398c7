@@ -1,0 +1,8 @@
+3d65b9accab4 ("batman-adv: Reduce tt_local hash refcnt only for removed entry")
+a33d970d0b54 ("batman-adv: Fix reference counting of vlan object for tt_local_entry")
+95c0db90c791 ("batman-adv: Rename batadv_tt_local_entry *_free_ref function to *_put")
+9c3bf08189bd ("batman-adv: Rename batadv_softif_vlan *_free_ref function to *_put")
+92dcdf09a139 ("batman-adv: Convert batadv_tt_common_entry to kref")
+6be4d30c1827 ("batman-adv: Convert batadv_softif_vlan to kref")
+e51f0397ded5 ("batman-adv: Fix names in kerneldoc of functions")
+f75a33aeed07 ("batman-adv: Delete an unnecessary check before the function call "batadv_softif_vlan_free_ref"")

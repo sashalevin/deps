@@ -1,0 +1,3 @@
+cd026ca2861e ("x86/mm/kcore: Add vsyscall page to /proc/kcore conditionally")
+595dd46ebfc1 ("vfs/proc/kcore, x86/mm/kcore: Fix SMAP fault when dumping vsyscall user page")
+f5beeb1851ea ("fs/proc/kcore.c: Make bounce buffer global for read")

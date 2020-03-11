@@ -1,0 +1,4 @@
+c92d781f1a5e ("tty: constify tty_ldisc_receive_buf buffer pointer")
+8d082cd300ab ("tty: Unify receive_buf() code paths")
+f33798deecbd ("tty: Fix GPF in flush_to_ldisc(), part 2")
+27228732aa94 ("tty: Eliminate global symbol tty_ldisc_N_TTY")

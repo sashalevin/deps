@@ -1,0 +1,7 @@
+7614209736fb ("ceph: check POOL_FLAG_FULL/NEARFULL in addition to OSDMAP_FULL/NEARFULL")
+8e4473bb50a1 ("ceph: do not execute direct write in parallel if O_APPEND is specified")
+321fe13c9398 ("ceph: add buffered/direct exclusionary locking for reads and writes")
+daca8bda95d8 ("ceph: remove CEPH_I_NOFLUSH")
+d6cee9dbd8c8 ("ceph: kick flushing and flush snaps before sending normal cap message")
+e450f4d1a5d6 ("ceph: pass inclusive lend parameter to filemap_write_and_wait_range()")
+fce7a9744bdf ("ceph: refactor ceph_sync_read()")

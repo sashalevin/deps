@@ -1,0 +1,4 @@
+fd896e38e5df ("net: fix napi_disable() logic error")
+4ffa1d1c6842 ("net: adopt try_cmpxchg() in napi_{enable|disable}()")
+0315a075f134 ("net: fix premature exit from NAPI state polling in napi_disable()")
+719c57197010 ("net: make napi_disable() symmetric with enable")

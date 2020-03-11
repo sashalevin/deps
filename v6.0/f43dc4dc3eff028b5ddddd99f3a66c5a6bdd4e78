@@ -1,0 +1,4 @@
+f43dc4dc3eff ("iomap: buffered write failure should not truncate the page cache")
+9c7babf94a0d ("xfs,iomap: move delalloc punching to iomap")
+b71f889c18ad ("xfs: use byte ranges for write cleanup ranges")
+198dd8aedee6 ("xfs: punching delalloc extents on write failure is racy")

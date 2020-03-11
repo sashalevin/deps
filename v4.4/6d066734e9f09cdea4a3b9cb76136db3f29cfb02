@@ -1,0 +1,8 @@
+6d066734e9f0 ("ppp: avoid loop in xmit recursion detection code")
+0a0e1a85c837 ("ppp: fix xmit recursion detection on ppp channels")
+e5dadc65f9e0 ("ppp: Fix false xmit recursion detect with two ppp devices")
+97fcc193f67e ("ppp: remove unnecessary bh disable in xmit path")
+55454a565836 ("ppp: avoid dealock on recursive xmit")
+7d9f0b48746d ("ppp: define reusable device creation functions")
+6faac63a6986 ("ppp: release rtnl mutex when interface creation fails")
+69d9728d00c7 ("ppp: declare ppp devices as enumerated interfaces")

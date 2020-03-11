@@ -1,0 +1,6 @@
+ce612879ddc7 ("mm: move pcp and lru-pcp draining into single wq")
+597b7305dd8b ("mm: move mm_percpu_wq initialization earlier")
+bd233f538d51 ("mm, page_alloc: use static global work_struct for draining per-cpu pages")
+a459eeb7b852 ("mm, page_alloc: do not depend on cpu hotplug locks inside the allocator")
+0ccce3b92421 ("mm, page_alloc: drain per-cpu pages from workqueue context")
+c11a6cfb0103 ("Merge branch 'for-4.10' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/wq")

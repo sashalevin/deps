@@ -1,0 +1,4 @@
+6ad1c94e1e7e ("eth: alx: take rtnl_lock on resume")
+4a5fe57e7751 ("alx: use fine-grained locking instead of RTNL")
+a4dcfbc4ee22 ("ethernet: alx: fix order of calls on resume")
+e89df5c4322c ("net: alx: fix race condition in alx_remove")

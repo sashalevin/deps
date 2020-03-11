@@ -1,0 +1,8 @@
+f0cd5ac1e4c5 ("arm64: entry: fix NMI {user, kernel}->kernel transitions")
+7cd1ea1010ac ("arm64: entry: fix non-NMI kernel<->kernel transitions")
+23529049c684 ("arm64: entry: fix non-NMI user<->kernel transitions")
+105fc3352077 ("arm64: entry: move el1 irq/nmi logic to C")
+3cb5ed4d76c1 ("arm64: entry: prepare ret_to_user for function call")
+2f911d494f3f ("arm64: entry: move enter_from_user_mode to entry-common.c")
+da1926764832 ("arm64: entry: mark entry code as noinstr")
+baab853229ec ("Merge branch 'for-next/mte' into for-next/core")

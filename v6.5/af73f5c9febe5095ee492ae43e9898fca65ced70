@@ -1,0 +1,7 @@
+af73f5c9febe ("workqueue: Rename workqueue_attrs->no_numa to ->ordered")
+636b927eba5b ("workqueue: Make unbound workqueues to use per-cpu pool_workqueues")
+4cbfd3de737b ("workqueue: Call wq_update_unbound_numa() on all CPUs in NUMA node on CPU hotplug")
+687a9aa56f81 ("workqueue: Make per-cpu pool_workqueues allocated and released like unbound ones")
+967b494e2fd1 ("workqueue: Use a kthread_worker to release pool_workqueues")
+ee1ceef72754 ("workqueue: Rename wq->cpu_pwqs to wq->cpu_pwq")
+fe089f87cccb ("workqueue: Not all work insertion needs to wake up a worker")

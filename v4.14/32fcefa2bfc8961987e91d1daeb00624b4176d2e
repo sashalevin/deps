@@ -1,0 +1,8 @@
+32fcefa2bfc8 ("x86/boot/compressed/64: Set up trampoline memory")
+fb5268354d20 ("x86/boot/compressed/64: Save and restore trampoline memory")
+3548e131ec6a ("x86/boot/compressed/64: Find a place for 32-bit trampoline")
+4440977be134 ("x86/boot/compressed/64: Introduce paging_prepare()")
+08529078d8d9 ("x86/boot/compressed/64: Detect and handle 5-level paging at boot-time")
+1958b5fc4010 ("x86/boot: Add early boot support when running with SEV active")
+d7b417fa08d1 ("x86/mm: Add DMA support for SEV memory encryption")
+d8aa7eea78a1 ("x86/mm: Add Secure Encrypted Virtualization (SEV) support")

@@ -1,0 +1,5 @@
+cc4db26899dc ("x86/tsc: Try to adjust TSC if sync test fails")
+4c5e3c637521 ("x86/tsc: Move sync cleanup to a safe place")
+a36f5136814b ("x86/tsc: Sync test only for the first cpu in a package")
+1d0095feea59 ("x86/tsc: Verify TSC_ADJUST from idle")
+8b223bc7abe0 ("x86/tsc: Store and check TSC ADJUST MSR")

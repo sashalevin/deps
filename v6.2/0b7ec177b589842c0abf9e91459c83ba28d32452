@@ -1,0 +1,4 @@
+0b7ec177b589 ("crypto: algif_hash - Fix race between MORE and non-MORE sends")
+c662b043cdca ("crypto: af_alg/hash: Support MSG_SPLICE_PAGES")
+c1abe6f570af ("crypto: af_alg: Use extract_iter_to_sg() to create scatterlists")
+f9e7a5fa51fb ("crypto: af_alg: Pin pages rather than ref'ing if appropriate")

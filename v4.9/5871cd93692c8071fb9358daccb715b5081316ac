@@ -1,0 +1,8 @@
+5871cd93692c ("crypto: ccp - Ignore unconfigured CCP device on suspend/resume")
+970e8303cb8d ("crypto: ccp - Use devres interface to allocate PCI/iomap and cleanup")
+3cdbe346ed3f ("crypto: ccp - Add debugfs entries for CCP information")
+6263b51eb319 ("crypto: ccp - Change ISR handler method for a v5 CCP")
+116591fe3eef ("crypto: ccp - Disable interrupts early on unload")
+56467cb11cf8 ("crypto: ccp - Use only the relevant interrupt bits")
+990672d48515 ("crypto: ccp - Enable 3DES function on v5 CCPs")
+ccebcf3f224a ("crypto: ccp - Add SHA-2 384- and 512-bit support")

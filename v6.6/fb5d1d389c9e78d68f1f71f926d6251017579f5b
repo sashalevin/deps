@@ -1,0 +1,8 @@
+fb5d1d389c9e ("ubd: open the backing files in ubd_add")
+5e4e1ff820e8 ("ubd: move set_disk_ro to ubd_add")
+0267e9cac6de ("ubd: remove ubd_disk_register")
+32621ad7a7ea ("ubd: remove the ubd_gendisk array")
+5d6789ce33a9 ("ubd: pass queue_limits to blk_mq_alloc_disk")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")

@@ -1,0 +1,8 @@
+448fadc8a4a3 ("arm64: mm: Add additional parameter to uaccess_ttbr0_enable")
+4fee94736603 ("arm64: KVM: Add invalidate_icache_range helper")
+a15f693935a9 ("KVM: arm/arm64: Split dcache/icache flushing")
+87da236ebc71 ("arm64: KVM: Add support for VPIPT I-caches")
+155433cb365e ("arm64: cache: Remove support for ASID-tagged VIVT I-caches")
+3689c75af2a3 ("arm64: cpuinfo: remove I-cache VIPT aliasing detection")
+68925176296a ("arm64: KVM: VHE: Clear HCR_TGE when invalidating guest TLBs")
+fd7e9a883484 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

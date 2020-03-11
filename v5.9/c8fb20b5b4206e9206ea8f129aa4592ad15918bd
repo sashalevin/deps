@@ -1,0 +1,5 @@
+c8fb20b5b420 ("io_uring: remove req cancel in ->flush()")
+5e2ed8c4f450 ("io_uring: Convert advanced XArray uses to the normal API")
+0f2122045b94 ("io_uring: don't rely on weak ->files references")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")
+f573d384456b ("io_uring: move dropping of files into separate helper")

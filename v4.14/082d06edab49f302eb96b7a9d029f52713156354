@@ -1,0 +1,4 @@
+082d06edab49 ("KVM: X86: Introduce handle_ud()")
+bd89525a823c ("KVM: x86: emulate #UD while in guest mode")
+61cb57c9ed63 ("KVM: x86: Exit to user-mode on #UD intercept when emulator requires")
+ac9b305caa0d ("KVM: nVMX/nSVM: Don't intercept #UD when running L2")

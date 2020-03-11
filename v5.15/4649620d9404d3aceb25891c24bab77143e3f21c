@@ -1,0 +1,4 @@
+4649620d9404 ("thermal: core: Make thermal_zone_device_unregister() return after freeing the zone")
+d35f29ed9d11 ("thermal/core: Destroy thermal zone device mutex in release function")
+5a5b7d8d5416 ("thermal: Directly use ida_alloc()/free()")
+0a5c26712f96 ("thermal/core: fix a UAF bug in __thermal_cooling_device_register()")

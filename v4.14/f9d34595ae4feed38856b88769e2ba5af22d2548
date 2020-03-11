@@ -1,0 +1,6 @@
+f9d34595ae4f ("smp: Process pending softirqs in flush_smp_call_function_from_idle()")
+b2a02fc43a1f ("smp: Optimize send_call_function_single_ipi()")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")
+d91cecc15662 ("sched: Make newidle_balance() static again")
+5ba553eff0c3 ("sched/fair: Expose newidle_balance()")

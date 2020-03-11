@@ -1,0 +1,6 @@
+3fc3e45fcdea ("erofs: fix error handling in z_erofs_init_decompressor")
+5a7cce827ee9 ("erofs: refine z_erofs_{init,exit}_subsystem()")
+392d20ccef22 ("erofs: move each decompressor to its own source file")
+7c35de4df105 ("erofs: Zstandard compression support")
+f36f3010f676 ("erofs: rename per-CPU buffers to global buffer pool and make it configurable")
+cacd5b04e24c ("erofs: rename utils.c to zutil.c")

@@ -1,0 +1,8 @@
+82e9c84d8712 ("KVM: Remove kvm_make_all_cpus_request_except()")
+458933d33af2 ("KVM: Remove unused kvm_make_cpus_request_mask() declaration")
+b56bd8e03cf4 ("KVM: Remove unused "kvm" of kvm_make_vcpu_request()")
+620b2438abf9 ("KVM: Make kvm_make_vcpus_request_mask() use pre-allocated cpu_kick_mask")
+baff59ccdc65 ("KVM: Pre-allocate cpumasks for kvm_make_all_cpus_request_except()")
+381cecc5d7b7 ("KVM: Drop 'except' parameter from kvm_make_vcpus_request_mask()")
+ae0946cd3601 ("KVM: Optimize kvm_make_vcpus_request_mask() a bit")
+6470accc7ba9 ("KVM: x86: hyper-v: Avoid calling kvm_make_vcpus_request_mask() with vcpu_mask==NULL")

@@ -1,0 +1,8 @@
+db40f0a7aea5 ("irqchip/gicv3-its: Refactor ITS DT init code to prepare for ACPI")
+d14ae5e6bac3 ("irqchip/gicv3-its: Cleanup for ITS domain initialization")
+fbf8f40e1658 ("irqchip/gicv3-its: numa: Enable workaround for Cavium thunderx erratum 23144")
+466b7d168881 ("irqchip/gicv3-its: Don't allow devices whose ID is outside range")
+04a0e4dee856 ("irqchip/gic-v3-its: Mark its_init() and its children as __init")
+db57d7460ea7 ("irqchip/gic-v3: Refactor gic_of_init() for GICv3 driver")
+1a485f4d2e28 ("irqchip/gicv3-its: Fix memory leak in its_free_tables()")
+30e4c9ad04a7 ("Merge branch 'irq-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

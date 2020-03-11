@@ -1,0 +1,8 @@
+2f9b68f57c62 ("KVM: x86: Fix stack-out-of-bounds memory access from ioapic_write_indirect()")
+0c22056f8c43 ("KVM: x86: Initializing all kvm_lapic_irq fields in ioapic_write_indirect")
+150a84fee84f ("KVM: X86: Convert the last users of "shorthand = 0" to use macros")
+c96001c5702e ("KVM: X86: Use APIC_DEST_* macros properly in kvm_lapic_irq.dest_mode")
+9a2ae9f6b6bb ("KVM: x86: Zero the IOAPIC scan request dest vCPUs bitmap")
+7ee30bc132c6 ("KVM: x86: deliver KVM IOAPIC scan request to target vCPUs")
+b200dded0a69 ("KVM: x86: ioapic: Preserve read-only values in the redirection table")
+a8bfec293052 ("KVM: x86: ioapic: Clear Remote IRR when entry is switched to edge-triggered")

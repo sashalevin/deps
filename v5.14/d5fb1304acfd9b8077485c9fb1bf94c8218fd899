@@ -1,0 +1,5 @@
+d5fb1304acfd ("misc: at25: Reorganize headers for better maintenance")
+d059ed1ba27b ("misc: at25: Switch to use BIT() instead of custom approaches")
+51902c1212fe ("misc: at25: Use at25->chip instead of local chip everywhere in ->probe()")
+58589a75bba9 ("misc: at25: Check proper value of chip length in FRAM case")
+5b557298d7d0 ("misc: at25: Make driver OF independent again")

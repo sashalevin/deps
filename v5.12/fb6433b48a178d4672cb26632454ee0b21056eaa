@@ -1,0 +1,2 @@
+fb6433b48a17 ("powerpc/perf: Fix power_pmu_disable to call clear_pmi_irq_pending only if PMI is pending")
+2c9ac51b850d ("powerpc/perf: Fix PMU callbacks to clear pending PMI before resetting an overflown PMC")

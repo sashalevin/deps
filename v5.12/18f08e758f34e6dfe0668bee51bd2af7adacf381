@@ -1,0 +1,4 @@
+18f08e758f34 ("rcu-tasks: Add trc_inspect_reader() checks for exiting critical section")
+bdb0cca0d110 ("rcu-tasks: Mark ->trc_reader_nesting data races")
+a9ab9cce9367 ("rcu-tasks: Don't delete holdouts within trc_wait_for_one_reader()")
+1d10bf55d85d ("rcu-tasks: Don't delete holdouts within trc_inspect_reader()")

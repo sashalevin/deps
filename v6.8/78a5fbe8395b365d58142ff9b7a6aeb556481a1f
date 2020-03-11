@@ -1,0 +1,5 @@
+78a5fbe8395b ("iommu/arm-smmu-v3: Make CD programming use arm_smmu_write_entry()")
+de31c3555412 ("iommu/arm-smmu-v3: Add an ops indirection to the STE code")
+e8e4398d53f9 ("iommu/arm-smmu-v3: Add a type for the CD entry")
+0493e739ccc6 ("iommu/arm-smmu-v3: Add cpu_to_le64() around STRTAB_STE_0_V")
+7da51af9125c ("iommu/arm-smmu-v3: Make STE programming independent of the callers")

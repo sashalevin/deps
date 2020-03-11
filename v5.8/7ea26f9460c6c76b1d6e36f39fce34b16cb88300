@@ -1,0 +1,4 @@
+7ea26f9460c6 ("fsnotify: compile out fsnotify permission hooks if !FANOTIFY_ACCESS_PERMISSIONS")
+36e28c42187c ("fsnotify: split fsnotify_perm() into two hooks")
+c738fbabb0ff ("fsnotify: fold fsnotify() call into fsnotify_parent()")
+71d734103edf ("fsnotify: Rearrange fast path to minimise overhead when there is no watcher")

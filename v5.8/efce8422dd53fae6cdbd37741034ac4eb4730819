@@ -1,0 +1,7 @@
+efce8422dd53 ("powerpc/paravirt: Improve vcpu_is_preempted")
+fda0eb220021 ("powerpc/paravirt: correct preempt debug splat in vcpu_is_preempted()")
+ca3f969dcb11 ("powerpc/paravirt: Use is_kvm_guest() in vcpu_is_preempted()")
+20c0e8269e9d ("powerpc/pseries: Implement paravirt qspinlocks for SPLPAR")
+aa65ff6b18e0 ("powerpc/64s: Implement queued spinlocks and rwlocks")
+12d0b9d6c843 ("powerpc: Move spinlock implementation to simple_spinlock")
+20d444d06f97 ("powerpc/pseries: Move some PAPR paravirt functions to their own file")

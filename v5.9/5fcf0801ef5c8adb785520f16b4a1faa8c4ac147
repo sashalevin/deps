@@ -1,0 +1,8 @@
+5fcf0801ef5c ("net: mctp: Consistent peer address handling in ioctl tag allocation")
+63ed1aab3d40 ("mctp: Add SIOCMCTP{ALLOC,DROP}TAG ioctls for tag control")
+5cfe53cfeb1c ("mctp: remove unnecessary check before calling kfree_skb()")
+1e4b50f06d97 ("mctp: handle the struct sockaddr_mctp padding fields")
+67737c457281 ("mctp: Pass flow data & flow release events to drivers")
+212c10c3c658 ("mctp: Return new key from mctp_alloc_local_tag")
+99ce45d5e7db ("mctp: Implement extended addressing")
+bdfa75ad70e9 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

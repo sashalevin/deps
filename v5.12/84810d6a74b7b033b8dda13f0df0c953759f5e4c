@@ -1,0 +1,8 @@
+84810d6a74b7 ("drm/ast: Map HW cursor BOs permanently")
+afee7e958b9f ("drm/ast: Store cursor BOs in cursor plane")
+a0ba992d1738 ("drm/ast: Add cursor-plane data structure")
+718c22865fc0 ("drm/ast: Inline ast cursor-update functions into modesetting code")
+22b6591f7ccb ("drm/ast: Allocate HW cursor BOs during cursor-plane initialization")
+616048af6dde ("drm/ast: Initialize planes in helper functions")
+ee4a92d690f3 ("drm/ast: Fix invalid usage of AST_MAX_HWC_WIDTH in cursor atomic_check")
+4a11bd1e88af ("drm/ast: Add constants for VGACRCB register bits")

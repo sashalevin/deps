@@ -1,0 +1,8 @@
+3d68f116ccdf ("can: m_can: fix coding style")
+f5071d9e729d ("can: m_can: m_can_handle_bus_errors(): add support for handling DLEC error on CAN-FD frames")
+6a8836e3c24a ("can: m_can: is_lec_err(): clean up LEC error handling")
+eb38c2053b67 ("can: rx-offload: rename can_rx_offload_queue_sorted() -> can_rx_offload_queue_timestamp()")
+319fdbc9433c ("can: mcp251xfd: move RX handling into separate file")
+cae9071bc5ea ("can: mcp251xfd: mcp251xfd.h: sort function prototypes")
+b2fcc7079936 ("can: mcp251xfd: mark some instances of struct mcp251xfd_priv as const")
+20779943a080 ("can: m_can: use bits.h macros for all regmasks")

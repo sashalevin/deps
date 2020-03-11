@@ -1,0 +1,5 @@
+fb37e12896c1 ("powerpc/powernv/pci: Use kmalloc_array() in two functions")
+be283eeb7f6d ("powerpc/powernv: allocate sparse PE# when using M64 BAR in Single PE mode")
+ee8222fe95e4 ("powerpc/powernv: use one M64 BAR in Single PE mode for one VF BAR")
+7fbe7a9374f8 ("powerpc/powernv: simplify the calculation of iov resource alignment")
+b0331854190e ("powerpc/powernv: don't enable SRIOV when VF BAR has non 64bit-prefetchable BAR")

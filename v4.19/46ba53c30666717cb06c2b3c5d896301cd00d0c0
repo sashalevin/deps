@@ -1,0 +1,5 @@
+46ba53c30666 ("scsi: libsas: Fix use-after-free bug in smp_execute_task_sg()")
+15ba7806c316 ("scsi: libsas: Drop SAS_DPRINTK() and revise logs levels")
+71a4a9923122 ("scsi: libsas: Drop sas_printk()")
+d188e5db9d27 ("scsi: libsas: Use pr_fmt(fmt)")
+32c850bf587f ("scsi: libsas: always unregister the old device if going to discover new")

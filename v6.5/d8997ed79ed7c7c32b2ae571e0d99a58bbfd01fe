@@ -1,0 +1,4 @@
+d8997ed79ed7 ("watchdog: rzg2l_wdt: Rely on the reset driver for doing proper reset")
+064319c3fac8 ("watchdog: rzg2l_wdt: Remove reset de-assert from probe")
+471e45a33302 ("watchdog: rzg2l_wdt: Check return status of pm_runtime_put()")
+f0ba0fcdd199 ("watchdog: rzg2l_wdt: Use pm_runtime_resume_and_get()")

@@ -1,0 +1,6 @@
+44650f33d3bd ("kobject.h remove extern from function prototypes")
+542aa24646ca ("kobject: make kobject_namespace take a const *")
+02a476d93228 ("kobject: make kobject_get_ownership() take a constant kobject *")
+33a0a1e3b3d1 ("kobject: modify kobject_get_path() to take a const *")
+ee6d3dd4ed48 ("driver core: make kobj_type constant.")
+8988bacd6045 ("kobject: unexport kobject_create() in kobject.h")

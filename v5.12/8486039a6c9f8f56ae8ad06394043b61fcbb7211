@@ -1,0 +1,5 @@
+8486039a6c9f ("KVM: x86: dump_vmcs should include the autoload/autostore MSR lists")
+0702a3cbbf73 ("KVM: x86: dump_vmcs should show the effective EFER")
+5518da62d433 ("KVM: x86: dump_vmcs should consider only the load controls of EFER/PAT")
+699e1b2e5578 ("KVM: x86: dump_vmcs should not conflate EFER and PAT presence in VMCS")
+d9e46d344e62 ("KVM: x86: dump_vmcs should not assume GUEST_IA32_EFER is valid")

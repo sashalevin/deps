@@ -1,0 +1,6 @@
+ef25e16ea967 ("tty: serial: imx: disable Ageing Timer interrupt request irq")
+79d0224f6bf2 ("tty: serial: imx: Handle RS485 DE signal active high")
+028e083832b0 ("tty: serial: imx: disable UCR4_OREN in .stop_rx() instead of .shutdown()")
+edd64f30792d ("tty: serial: imx: disable TXDC IRQ in imx_uart_shutdown() to avoid IRQ storm")
+bd78ecd6056d ("serial: imx: use hrtimers for rs485 delays")
+cb1a60923609 ("serial: imx: implement rts delaying for rs485")

@@ -1,0 +1,7 @@
+e038f7b8028a ("cpuidle, psci: Push RCU-idle into driver")
+6f0e6c1598b1 ("context_tracking: Take IRQ eqs entrypoints over RCU")
+e67198cc05b8 ("context_tracking: Take idle eqs entrypoints over RCU")
+24a9c54182b3 ("context_tracking: Split user tracking Kconfig")
+2a0aafce963d ("context_tracking: Rename context_tracking_cpu_set() to ct_cpu_track_user()")
+f163f0302ab6 ("context_tracking: Rename context_tracking_user_enter/exit() to user_enter/exit_callable()")
+f67671baadf6 ("context_tracking: Add a note about noinstr VS unsafe context tracking functions")

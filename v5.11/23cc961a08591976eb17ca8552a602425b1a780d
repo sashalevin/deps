@@ -1,0 +1,7 @@
+23cc961a0859 ("i2c: qcom-geni: Use goto for clearer exit path")
+4e91fa1ef3ce ("i2c: qcom-geni: Add missing geni_icc_disable in geni_i2c_runtime_resume")
+9ba48db9f77c ("i2c: qcom-geni: Add missing geni_icc_disable in geni_i2c_runtime_resume")
+b93d16bee557 ("i2c: qcom-geni: Add missing clk_disable_unprepare in geni_i2c_runtime_resume")
+14d02fbadb5d ("i2c: qcom-geni: add desc struct to prepare support for I2C Master Hub variant")
+d8703554f4de ("i2c: qcom-geni: Add support for GPI DMA")
+357ee8841d0b ("i2c: qcom-geni: Store DMA mapping data in geni_i2c_dev struct")

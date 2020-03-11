@@ -1,0 +1,5 @@
+0c026c361be1 ("platform/x86: dell-wmi: add new keymap type 0x0012")
+bff589be59c5 ("platform/x86: dell-wmi: Convert to the WMI bus infrastructure")
+9c656b07997f ("platform/x86: dell-*: Call new led hw_changed API on kbd brightness change")
+815edfe7ad88 ("platform/x86: dell-wmi: remove sparse_keymap_free() calls")
+1d161d4cd719 ("platform/x86: dell-laptop: Use brightness_set_blocking for kbd_led_level_set")

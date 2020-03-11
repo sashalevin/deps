@@ -1,0 +1,7 @@
+92de36080c93 ("bpf: Fail verification for sign-extension of packet data/data_end/data_meta")
+5d99e198be27 ("bpf, lsm: Add check for BPF LSM return value")
+c0e19f2c9a3e ("bpf: minimize number of allocated lsm slots per program")
+69fd337a975c ("bpf: per-cgroup lsm flavor")
+00442143a2ab ("bpf: convert cgroup_bpf.progs to hlist")
+dc368e1c658e ("bpf: Fix non-static bpf_func_proto struct definitions")
+4c46091ee985 ("bpf: Fix KASAN use-after-free Read in compute_effective_progs")

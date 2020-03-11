@@ -1,0 +1,8 @@
+34b92e8d19da ("net: limit GSO_MAX_SIZE to 524280 bytes")
+7c4e983c4f3c ("net: allow gso_max_size to exceed 65536")
+ee8b7a1156f3 ("net: make drivers set the TSO limit not the GSO limit")
+14d7b8122fd5 ("net: don't allow user space to lift the device limits")
+6df6398f7c8b ("net: add netif_inherit_tso_max()")
+ab14f1802cfb ("net: Adjust sk_gso_max_size once when set")
+eac1b93c14d6 ("gro: add ability to control gro max packet size")
+93d5404e8988 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

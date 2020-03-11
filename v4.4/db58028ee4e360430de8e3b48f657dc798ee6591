@@ -1,0 +1,8 @@
+db58028ee4e3 ("nvdimm: reduce duplicated wpq flushes")
+0c27af60d1bb ("libnvdimm: cycle flush hints")
+f284a4f23752 ("libnvdimm: introduce nvdimm_flush() and nvdimm_has_flush()")
+e5ae3b252c67 ("libnvdimm, nfit: move flush hint mapping to region-device driver-data")
+29b9aa0aa383 ("libnvdimm: introduce devm_nvdimm_memremap(), convert nfit_spa_map() users")
+ad9ac5e19575 ("nfit: always associate flush hints")
+f295e53b60eb ("libnvdimm, pmem: allow nfit_test to override pmem_direct_access()")
+315227f6da38 ("Merge tag 'dax-misc-for-4.7' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

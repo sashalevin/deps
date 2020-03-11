@@ -1,0 +1,4 @@
+626808d137b7 ("KVM: x86/mmu: Refactor low-level TDP MMU set SPTE helper to take raw values")
+966da62adaf1 ("KVM: x86/mmu: WARN if old _or_ new SPTE is REMOVED in non-atomic path")
+0e587aa73355 ("KVM: x86/mmu: Add helpers to read/write TDP MMU SPTEs and document RCU")
+657f1d86a38e ("Merge branch 'kvm-tdp-fix-rcu' into HEAD")

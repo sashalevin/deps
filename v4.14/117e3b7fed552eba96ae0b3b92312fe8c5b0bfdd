@@ -1,0 +1,3 @@
+117e3b7fed55 ("CIFS: set *resp_buf_type to NO_BUFFER on error")
+3cecf4865cd3 ("cifs: avoid a kmalloc in smb2_send_recv/SendReceive2 for the common case")
+83b7739180de ("cifs: Add smb2_send_recv")

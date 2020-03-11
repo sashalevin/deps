@@ -1,0 +1,4 @@
+07940c369a6b ("PCI: dwc: Fix MSI page leakage in suspend/resume")
+cf627713e3c0 ("PCI: dwc: Check CONFIG_PCI_MSI inside dw_pcie_msi_init()")
+e0ceb8f90b80 ("PCI: dwc: meson: Use pci_ops for root config space accessors")
+9a5595ab21a9 ("PCI: dwc: pci-dra7xx: Fix MSI IRQ handling")

@@ -1,0 +1,4 @@
+6f1d64b13097 ("scsi: iscsi_tcp: Fix UAF during logout when accessing the shost ipaddress")
+31500e902759 ("scsi: iscsi: Fix session removal on shutdown")
+d1f2ce77638d ("scsi: qedi: Fix host removal with running sessions")
+27e986289e73 ("scsi: iscsi: Drop suspend calls from ep_disconnect")

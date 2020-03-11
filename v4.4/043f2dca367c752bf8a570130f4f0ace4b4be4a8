@@ -1,0 +1,8 @@
+043f2dca367c ("mmc: sdhci-of-arasan: Add sdhci_arasan_set_power")
+a81dae3ac1f7 ("mmc: sdhci-of-arasan: constify sdhci_pltfm_data and sdhci_ops structures")
+802ac39a5566 ("mmc: sdhci-of-arasan: fix set_clock when a phy is supported")
+91aa366109e8 ("mmc: sdhci-of-arasan: add phy support for sdhci-of-arasan")
+278d09624eda ("mmc: sdhci-of-arasan: fix missing sdhci_pltfm_free for err handling")
+89211418cb71 ("mmc: sdhci-of-arasan: use sdhci_pltfm_init for private allocation")
+0c7fe32e847f ("mmc: sdhci-of-arasan: fix clk issue in sdhci_arasan_remove()")
+e99369dc95fe ("mmc: sdhci-of-arasan: Remove no-hispd and no-cmd23 quirks for sdhci-arasan4.9a")

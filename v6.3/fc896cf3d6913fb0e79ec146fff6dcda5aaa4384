@@ -1,0 +1,6 @@
+fc896cf3d691 ("drm/msm: Take lru lock once per submit_pin_objects()")
+16eb51aba0a7 ("drm/msm: Fix vmap madv warning")
+6c7c8fb863f7 ("drm/msm/gem: Protect pin_count/madv by LRU lock")
+4a02a376cbc8 ("drm/msm/gem: Move update_lru()")
+d6ae7d1cd58e ("drm/msm/gem: Simplify vmap vs LRU tracking")
+fc2f07566a2c ("drm/msm/gem: Tidy up VMA API")

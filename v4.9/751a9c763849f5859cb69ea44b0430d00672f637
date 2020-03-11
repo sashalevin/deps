@@ -1,0 +1,5 @@
+751a9c763849 ("netfilter: xtables: fix build failure from COMPAT_XT_ALIGN outside CONFIG_COMPAT")
+324318f0248c ("netfilter: xtables: zero padding in data_to_user")
+4915f7bbc402 ("xtables: use match, target and data copy_to_user helpers in compat")
+b5040f6c33a5 ("ebtables: use match, target and data copy_to_user helpers")
+f32815d21d4d ("xtables: add xt_match, xt_target and data copy_to_user functions")

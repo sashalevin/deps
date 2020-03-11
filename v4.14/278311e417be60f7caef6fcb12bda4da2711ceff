@@ -1,0 +1,3 @@
+278311e417be ("kexec, KEYS: Make use of platform keyring for signature verify")
+ea93102f3224 ("Fix kexec forbidding kernels signed with keys in the secondary keyring to boot")
+817aef260037 ("Replace magic for trusting the secondary keyring with #define")

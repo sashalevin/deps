@@ -1,0 +1,4 @@
+6b668c9b7fc6 ("io_uring: don't submit sqes when ctx->refs is dying")
+0cdaf760f42e ("io_uring: remove req->needs_fixed_files")
+4a38aed2a0a7 ("io_uring: batch reap of dead file registrations")
+7d01bd745a8f ("io_uring: remove obsolete 'state' parameter")

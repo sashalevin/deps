@@ -1,0 +1,7 @@
+aaa8e4922c88 ("net: qrtr: make checks in qrtr_endpoint_post() stricter")
+7e78c597c3eb ("net: qrtr: fix another OOB Read in qrtr_endpoint_post")
+0baa99ee353c ("net: qrtr: Allow non-immediate node routing")
+e04df98adf7d ("net: qrtr: Remove receive worker")
+0a7e0d0ef054 ("net: qrtr: Migrate node lookup tree to spinlock")
+5fdeb0d372ab ("net: qrtr: Implement outgoing flow control")
+cb6530b99faf ("net: qrtr: Move resume-tx transmission to recvmsg")

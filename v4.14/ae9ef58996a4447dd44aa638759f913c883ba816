@@ -1,0 +1,8 @@
+ae9ef58996a4 ("softirq: Move related code into one section")
+a21ee6055c30 ("lockdep: Change hardirq{s_enabled,_context} to per-cpu variables")
+c935cd62d3fe ("lockdep: Split header file into lockdep and lockdep_types")
+8a6bc4787f05 ("genirq: Provide irq_enter/exit_rcu()")
+c86e9b987cea ("lockdep: Prepare for noinstr sections")
+0995a5dfbe49 ("tracing: Provide lockdep less trace_hardirqs_on/off() variants")
+9a019db0b6be ("locking/lockdep: Improve 'invalid wait context' splat")
+d5f744f9a2ac ("Merge tag 'x86-entry-2020-03-30' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

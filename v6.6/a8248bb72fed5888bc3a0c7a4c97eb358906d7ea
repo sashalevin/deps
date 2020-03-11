@@ -1,0 +1,8 @@
+a8248bb72fed ("mm: memcg: make alloc_mem_cgroup_per_node_info() return bool")
+70a64b7919cb ("memcg: dynamically allocate lruvec_stats")
+e0bf1dc859fd ("mm: memcg: move vmstats structs definition above flushing code")
+7108cc3f765c ("mm: memcg: add per-memcg zswap writeback stat")
+811244a501b9 ("mm: memcg: add THP swap out info for anonymous reclaim")
+307bececcd12 ("mm: shrinker: add a secondary array for shrinker_info::{map, nr_deferred}")
+96f7b2b9bbb1 ("mm: vmscan: move shrinker-related code into a separate file")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")

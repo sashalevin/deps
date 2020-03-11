@@ -1,0 +1,7 @@
+77db0ec8b776 ("Drivers: hv: vmbus: Increase wait time for VMbus unload")
+911e1987efc8 ("Drivers: hv: vmbus: Add timeout to vmbus_wait_for_unload")
+cd95aad55793 ("Drivers: hv: vmbus: handle various crash scenarios")
+d452ab7b4c65 ("Drivers: hv: vmbus: avoid unneeded compiler optimizations in vmbus_wait_for_unload()")
+0f70b66975ce ("Drivers: hv: vmbus: remove code duplication in message handling")
+7be3e169444d ("Drivers: hv: vmbus: don't loose HVMSG_TIMER_EXPIRED messages")
+415719160de3 ("Drivers: hv: vmbus: avoid scheduling in interrupt context in vmbus_initiate_unload()")

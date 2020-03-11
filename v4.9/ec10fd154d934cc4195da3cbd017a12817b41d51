@@ -1,0 +1,5 @@
+ec10fd154d93 ("nfc: llcp: simplify llcp_sock_connect() error paths")
+c61760e6940d ("net/nfc: fix use-after-free llcp_sock_bind/connect")
+8a4cd82d62b5 ("nfc: fix refcount leak in llcp_sock_connect()")
+c33b1cc62ac0 ("nfc: fix refcount leak in llcp_sock_bind()")
+a0c2dc1fe63e ("nfc: fix memory leak in llcp_sock_bind()")

@@ -1,0 +1,6 @@
+9123397aeeb4 ("mlx4: bpf_xdp_metadata_rx_hash add xdp rss hash type")
+ab46182d0dcb ("net/mlx4_en: Support RX XDP metadata")
+4444584dcb0d ("net/mlx4_en: Introduce wrapper for xdp_buff")
+dee3b2d0fa4b ("net/mlx4_en: Add XDP_REDIRECT statistics")
+a8551c9b755e ("net: mlx4: Add support for XDP_REDIRECT")
+c4411b371c10 ("mlx4: Remove rcu_read_lock() around XDP program invocation")

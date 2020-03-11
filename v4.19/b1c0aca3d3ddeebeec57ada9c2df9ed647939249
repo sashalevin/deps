@@ -1,0 +1,8 @@
+b1c0aca3d3dd ("net/mlx5e: ethtool, Fix restriction of autoneg with 56G")
+5faf5b70c51d ("net/mlx5e: ethtool, Avoid setting speed to 56GBASE when autoneg off")
+bc4e12ffefdd ("net/mlx5: Refactor queries to speed fields in Port Type and Speed register")
+371289b61ac1 ("net/mlx5e: Expose ethtool pause and link functions to mlx5e callers")
+9184e51b5b3e ("net/mlx5e: Fix failing ethtool query on FEC query error")
+64e283348458 ("net/mlx5e: Removed unnecessary warnings in FEC caps query")
+6cfa94605091 ("net/mlx5e: Ethtool driver callback for query/set FEC policy")
+a5355de878f4 ("net/mlx5e: Expose ethtool rss key size / indirection table functions")

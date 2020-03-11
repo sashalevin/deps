@@ -1,0 +1,4 @@
+65ac1a60a57e ("mm/debug_vm_pgtable: ensure THP availability via has_transparent_hugepage()")
+2e326c07bbe1 ("mm/debug_vm_pgtable/basic: iterate over entire protection_map[]")
+bb5c47ced467 ("mm/debug_vm_pgtable/basic: add validation for dirtiness after write protect")
+4200605b1f80 ("mm/debug_vm_pgtable/savedwrite: enable savedwrite test with CONFIG_NUMA_BALANCING")

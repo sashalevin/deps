@@ -1,0 +1,6 @@
+c2aa2dfef243 ("seccomp: Add wait_killable semantic to seccomp user notifier")
+0ae71c7720e3 ("seccomp: Support atomic "addfd + send reply"")
+ddc473916955 ("seccomp: Refactor notification handler to prepare for new semantics")
+42eb0d54c08a ("fs: split receive_fd_replace from __receive_fd")
+8e01b51a31a1 ("seccomp/cache: Add "emulator" to check if filter is constant allow")
+f9d480b6ffbe ("seccomp/cache: Lookup syscall allowlist bitmap for fast path")

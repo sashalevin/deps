@@ -1,0 +1,8 @@
+b78f4a596692 ("KVM: selftests: Rename vm_handle_exception")
+c9ecafaf0113 ("KVM: selftests: evmcs_test: Check that VMCS12 is alway properly synced to eVMCS after restore")
+32d1b3ab588c ("KVM: selftests: evmcs_test: Check that VMLAUNCH with bogus EVMPTR is causing #UD")
+678e90a349a4 ("KVM: selftests: Test IPI to halted vCPU in xAPIC while backing page moves")
+3cea1891748e ("selftests: kvm: Test MSR exiting to userspace")
+8aa426e854c4 ("selftests: kvm: keep .gitignore add to date")
+84292e565951 ("KVM: selftests: Add dirty ring buffer test")
+60f644fb5198 ("KVM: selftests: Introduce after_vcpu_run hook for dirty log test")

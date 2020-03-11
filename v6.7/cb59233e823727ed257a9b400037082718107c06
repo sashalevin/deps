@@ -1,0 +1,7 @@
+cb59233e8237 ("xfs: don't return too-short extents from xfs_rtallocate_extent_block")
+9ade45b08a68 ("xfs: reflow the tail end of xfs_rtallocate_extent_block")
+ce42b5d37527 ("xfs: return -ENOSPC from xfs_rtallocate_*")
+152e21235727 ("xfs: move xfs_bmap_rtalloc to xfs_rtalloc.c")
+58643460546d ("xfs: also use xfs_bmap_btalloc_accounting for RT allocations")
+eef519d746bb ("xfs: remove the xfs_alloc_arg argument to xfs_bmap_btalloc_accounting")
+944df7595880 ("xfs: consider minlen sized extents in xfs_rtallocate_extent_block")

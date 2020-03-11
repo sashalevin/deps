@@ -1,0 +1,5 @@
+d81268ee1c10 ("drm/i915/hwmon: Get mutex and rpm ref just once in hwm_power_max_write")
+4ed22f1e5242 ("drm/i915/hwmon: Use 0 to designate disabled PL1 power limit")
+6fd3d8bf89fc ("drm/i915/hwmon: Enable PL1 limit when writing limit value to HW")
+f99926383bd6 ("drm/i915/hwmon: Replace hwm_field_scale_and_write with hwm_power_max_write")
+d2c3c8c3d383 ("drm/i915/hwmon: Display clamped PL1 limit")

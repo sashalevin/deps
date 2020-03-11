@@ -1,0 +1,6 @@
+4b9bdfa16535 ("quota: rename dquot_active() to inode_quota_active()")
+a478e522e314 ("quota: Inline inode_{incr,decr}_space() into callsites")
+0ed60de34a97 ("quota: Inline functions into their callsites")
+b8cb5a545c3d ("ext4: fix quota charging for shared xattr blocks")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+2f8f5e76c7da ("ext4: avoid lockdep warning when inheriting encryption context")

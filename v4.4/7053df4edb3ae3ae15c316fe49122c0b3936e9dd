@@ -1,0 +1,6 @@
+7053df4edb3a ("KVM: introduce kvm_make_vcpus_request_mask() API")
+b49defe83659 ("kvm: avoid unused variable warning for UP builds")
+7a97cec26b94 ("KVM: mark requests that need synchronization")
+930f7fd6da77 ("KVM: mark requests that do not need a wakeup")
+72875d8a4d92 ("KVM: add kvm_{test,clear}_request to replace {test,clear}_bit")
+44bcc922381e ("Merge tag 'kvm-arm-for-4-7-take2' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into kvm-next")

@@ -1,0 +1,8 @@
+622442666dcc ("arm64: cpufeatures: Clean up temporary variable to simplify code")
+1c8ae42975bd ("arm64: cpufeature: use cpucap naming")
+7f242982e408 ("arm64: standardise cpucap bitmap names")
+21fb26bfb01f ("arm64: alternatives: add alternative_has_feature_*()")
+4c0bd995d73e ("arm64: alternatives: have callbacks take a cap")
+b723edf3a12a ("arm64: alternatives: make alt_region const")
+c5ba03260c7a ("arm64: alternatives: hoist print out of __apply_alternatives()")
+92b4b5619f12 ("arm64: cpufeature: make cpus_have_cap() noinstr-safe")

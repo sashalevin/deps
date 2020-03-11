@@ -1,0 +1,5 @@
+5ae17501bc62 ("scsi: core: Avoid leaving shost->last_reset with stale value if EH does not run")
+b8e162f9e7e2 ("scsi: core: Introduce enum scsi_disposition")
+60bee27ba2df ("scsi: core: No retries on abort success")
+2a242d59d6b9 ("scsi: core: Add limitless cmd retry support")
+646d4b507626 ("scsi: core: Remove 'list' entry from struct scsi_cmnd")

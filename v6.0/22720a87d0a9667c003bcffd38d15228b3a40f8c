@@ -1,0 +1,8 @@
+22720a87d0a9 ("leds: Fix oops about sleeping in led_trigger_blink()")
+fa15d8c69238 ("leds: Fix set_brightness_delayed() race")
+e298d8a38b23 ("leds: Change led_trigger_blink[_oneshot]() delay parameters to pass-by-value")
+056f65c3938b ("leds: Remove ide-disk trigger")
+d8fe820b989b ("dt-bindings: leds: Add disk write/read and usb-host/usb-gadget")
+227e9611cd74 ("dt-bindings: leds: Document Bluetooth and WLAN triggers")
+5f52a8ba7e91 ("dt-bindings: leds: Add 'cpuX' to 'linux,default-trigger'")
+31fd71083023 ("dt-bindings: leds: Document mmc trigger")

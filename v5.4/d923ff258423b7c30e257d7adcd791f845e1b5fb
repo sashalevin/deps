@@ -1,0 +1,8 @@
+d923ff258423 ("KVM: MIPS/MMU: Convert to the gfn-based MMU notifier callbacks")
+fe9a5b055116 ("KVM: MIPS: defer flush to generic MMU notifier code")
+566a0beef52c ("KVM: MIPS: let generic code call prepare_flush_shadow")
+5194552fb1ff ("KVM: MIPS: rework flush_shadow_* callbacks into one that prepares the flush")
+5f7c292b8975 ("KVM: Move prototypes for MMU notifier callbacks to generic code")
+fdfe7cbd5880 ("KVM: Pass MMU notifier range flags to kvm_unmap_hva_range()")
+c34b26b98cac ("KVM: MIPS: clean up redundant 'kvm_run' parameters")
+f21db3090de2 ("KVM: MIPS: Add Loongson-3 Virtual IPI interrupt support")

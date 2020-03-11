@@ -1,0 +1,7 @@
+345c7b741c46 ("Input: Use pm_sleep_ptr() to avoid need for ifdef CONFIG_PM_SLEEP")
+a181616487db ("Input: Add "inhibited" property")
+39be39ceffd5 ("Input: add input_device_enabled()")
+e95656ea15e5 ("Input: add support for polling to input devices")
+3b51c44bd693 ("Input: allow drivers specify timestamp for input events")
+152194fe9c3f ("Input: extend usable life of event timestamps to 2106 on 32 bit systems")
+b3495cecb24c ("Input: uinput - use monotonic times for timestamps")

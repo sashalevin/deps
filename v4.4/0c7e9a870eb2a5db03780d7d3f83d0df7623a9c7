@@ -1,0 +1,5 @@
+0c7e9a870eb2 ("cris: switch to RAW_COPY_USER")
+b71f1bf57f99 ("cris: rename __copy_user_zeroing to __copy_user_in")
+07f78b308984 ("cris: don't rely upon __copy_user_zeroing() zeroing the tail")
+eb47e0293baa ("cris: buggered copy_from_user/copy_to_user/clear_user")
+42a0bb3f7138 ("printk/nmi: generic solution for safe printk in NMI")

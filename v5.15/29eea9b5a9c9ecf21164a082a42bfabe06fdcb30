@@ -1,0 +1,7 @@
+29eea9b5a9c9 ("mm: convert page_get_anon_vma() to folio_get_anon_vma()")
+3e9a13daa612 ("huge_memory: convert split_huge_page_to_list() to use a folio")
+c33db29231ad ("migrate: convert unmap_and_move_huge_page() to use folios")
+682a71a1b6b3 ("migrate: convert __unmap_and_move() to use folios")
+6a3edd293956 ("mm: release private data before split THP")
+b653db77350c ("mm: Clear page->private when splitting or migrating a page")
+98931dd95fd4 ("Merge tag 'mm-stable-2022-05-25' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

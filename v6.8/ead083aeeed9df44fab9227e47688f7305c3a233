@@ -1,0 +1,7 @@
+ead083aeeed9 ("set_blocksize(): switch to passing struct file *")
+b85c42981ac4 ("btrfs_get_bdev_and_sb(): call set_blocksize() only for exclusive opens")
+3a52c03d1ece ("pktcdvd: sort set_blocksize() calls out")
+9de31ee6d7a8 ("reiserfs: port block device access to file")
+9ae061cf2a46 ("btrfs: port device access to file")
+05fb1dbc821f ("pktcdvd: port block device access to file")
+e5ca9d391615 ("block/ioctl: port blkdev_bszset() to file")

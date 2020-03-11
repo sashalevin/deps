@@ -1,0 +1,6 @@
+4ab39e2f98f2 ("RDMA/cxgb4: Make c4iw_poll_cq_one() easier to analyze")
+4fe7c2962e11 ("iw_cxgb4: refactor sq/rq drain logic")
+5c6b2aaf9316 ("iw_cxgb4: invalidate the mr when posting a read_w_inv wr")
+4ff522ea4794 ("iw_cxgb4: set *bad_wr for post_send/post_recv errors")
+49b53a93a64a ("iw_cxgb4: add fast-path for small REG_MR operations")
+3e5e8e8a9a05 ("Merge branches 'cxgb4' and 'mlx5' into k.o/for-4.8")

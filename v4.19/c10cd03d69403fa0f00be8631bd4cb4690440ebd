@@ -1,0 +1,8 @@
+c10cd03d6940 ("pinctrl: pinctrl-aspeed-g6: Fix register offset for pinconf of GPIOR-T")
+15711ba6ff19 ("pinctrl: aspeed-g6: Add AST2600 pinconf support")
+5b854f284245 ("pinctrl: aspeed: Move aspeed_pin_config_map to separate source file")
+a79bcd51ae06 ("pinctrl: aspeed: Add ASPEED_SB_PINCONF() helper")
+2eda1cdec49f ("pinctrl: aspeed: Add AST2600 pinmux support")
+efa5623981b7 ("pinctrl: aspeed: Split out pinmux from general pinctrl")
+d0d88b5c9ed7 ("pinctrl: aspeed: Clarify comment about strapping W1C")
+7f07675c117a ("pinctrl: aspeed: Wrap -Woverride-init with cc-option")

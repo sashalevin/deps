@@ -1,0 +1,5 @@
+d502f6c4389f ("drm/i915/fbc: Handle 16bpp compression limit better")
+0ba1d03cd878 ("drm/i915/fbc: s/threshold/limit/")
+83c0926f3e18 ("drm/i915/fbc: Limit cfb to the first 256MiB of stolen on g4x+")
+0428ab013fdd ("drm/i915: Recalculate FBC w/a stride when needed")
+97ed48b5c8b1 ("drm/i915/fbc: convert to drm_device based logging macros.")

@@ -1,0 +1,5 @@
+36fc54375f98 ("Input: ads7846 - do not attempt IRQ workaround when deferring probe")
+845ef3a7ce57 ("Input: ads7846 - switch to devm initialization")
+937f5d5ec642 ("Input: ads7846 - remove custom filter handling functions from pdata")
+de609b56b832 ("Input: ads7846 - add short-hand for spi->dev in probe() function")
+8e1b4d83cf8b ("Input: touchscreen - drop unnecessary calls to device_init_wakeup")

@@ -1,0 +1,3 @@
+bd233f538d51 ("mm, page_alloc: use static global work_struct for draining per-cpu pages")
+a459eeb7b852 ("mm, page_alloc: do not depend on cpu hotplug locks inside the allocator")
+0ccce3b92421 ("mm, page_alloc: drain per-cpu pages from workqueue context")

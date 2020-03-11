@@ -1,0 +1,5 @@
+814b186079cd ("arm64: __flush_dcache_area to take end parameter instead of size")
+e3974adb4ef5 ("arm64: __inval_dcache_area to take end parameter instead of size")
+5e20e3499682 ("arm64: Downgrade flush_icache_range to invalidate")
+7908072da535 ("arm64: Do not enable uaccess for invalidate_icache_range")
+152d32aa8468 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

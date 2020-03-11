@@ -1,0 +1,4 @@
+111bcb373853 ("powerpc/64s/radix: Fix RWX mapping with relocated kernel")
+98d0219e043e ("powerpc/64s/radix: Fix crash with unaligned relocated kernel")
+b150a4d12b91 ("powerpc/vmlinux.lds: Add an explicit symbol for the SRWX boundary")
+331771e836e6 ("powerpc/vmlinux.lds: Ensure STRICT_ALIGN_SIZE is at least page aligned")

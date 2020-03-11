@@ -1,0 +1,4 @@
+11dd2666375e ("audit: do not panic on invalid boot parameter")
+5d842a5b77a5 ("audit: use audit_set_enabled() in audit_enable()")
+80ab4df62706 ("audit: don't use simple_strtol() anymore")
+173743dd99a4 ("audit: ensure that 'audit=1' actually enables audit for PID 1")

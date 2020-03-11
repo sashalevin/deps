@@ -1,0 +1,4 @@
+98cc1730c894 ("workqueue: Remove incorrect "WARN_ON_ONCE(!list_empty(&worker->entry));" from dying worker")
+f4b7b53c94af ("workqueue: Detach workers directly in idle_cull_fn()")
+f45b1c3c3337 ("workqueue: Don't bind the rescuer in the last working cpu")
+68f83057b913 ("workqueue: Reap workers via kthread_stop() and remove detach_completion")

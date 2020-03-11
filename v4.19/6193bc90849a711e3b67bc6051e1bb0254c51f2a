@@ -1,0 +1,4 @@
+6193bc90849a ("tty: serial: kgdboc: synchronize tty_find_polling_driver() and register_console()")
+66857443699b ("tty: serial: kgdboc: use console_list_lock for list traversal")
+9e409c4778af ("serial: kgdboc: Lock console list in probe function")
+8e217b078138 ("kgdboc: Use for_each_console() helper")

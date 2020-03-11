@@ -1,0 +1,6 @@
+e003a687aac4 ("pwm: tiehrpwm: Make use of pwmchip_parent() accessor")
+4e1c8593e5fa ("pwm: tiehrpwm: Change prototype of helpers to prepare further changes")
+b514a1b29df8 ("pwm: tiehrpwm: Simplify code to determine the pwmchip's parent device")
+fb1b517fd876 ("pwm: tiehrpwm: Use DEFINE_SIMPLE_DEV_PM_OPS for PM functions")
+1a0c97b6460f ("pwm: tiehrpwm: Unprepare clock only after the PWM was unregistered")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

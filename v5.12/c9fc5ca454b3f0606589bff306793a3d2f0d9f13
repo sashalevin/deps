@@ -1,0 +1,6 @@
+c9fc5ca454b3 ("cifs: set the CREATE_NOT_FILE when opening the directory in use_cached_dir()")
+8708b1076047 ("cifs: change smb2_query_info_compound to use a cached fid, if available")
+5e0c969e9ed2 ("cifs: convert the path to utf16 in smb2_query_info_compound")
+45c0f1aabea9 ("cifs: rename the *_shroot* functions to *_cached_dir*")
+e6eb19504e23 ("cifs: pass a path to open_shroot and check if it is the root or not")
+4df3d976dda2 ("cifs: move the check for nohandlecache into open_shroot")

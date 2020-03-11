@@ -1,0 +1,7 @@
+46d4703b1db4 ("md/raid10: Remove unnecessary rcu_dereference in raid10_handle_discard")
+254c271da071 ("md/raid10: improve discard request for far layout")
+d30588b2731f ("md/raid10: improve raid10 discard request")
+cc27b0c78c79 ("md: fix deadlock between mddev_suspend() and md_write_start()")
+a415c0f10627 ("md: initialise ->writes_pending in personality modules.")
+29efc390b946 ("md/md0: optimize raid0 discard handling")
+e265eb3a3054 ("Merge branch 'md-next' into md-linus")

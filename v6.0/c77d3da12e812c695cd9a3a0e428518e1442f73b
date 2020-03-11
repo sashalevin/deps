@@ -1,0 +1,6 @@
+c77d3da12e81 ("media: i2c: Drop unused m5mols camera sensor driver")
+2ac2793f8d7f ("media: m5mols: Convert to i2c's .probe_new()")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")

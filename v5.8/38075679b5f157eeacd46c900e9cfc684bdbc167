@@ -1,0 +1,4 @@
+38075679b5f1 ("mm/mremap: replace can_modify_mm with can_modify_vma")
+550a7d60bd5e ("mm, hugepages: add mremap() support for hugepage backed vma")
+73c54763482b ("mm/hugetlb: drop __unmap_hugepage_range definition from hugetlb.h")
+0bf7b64e6e51 ("hugetlb: add lockdep check for i_mmap_rwsem held in huge_pmd_share")

@@ -1,0 +1,4 @@
+f7866c358733 ("bpf: Fix null pointer dereference in resolve_prog_type() for BPF_PROG_TYPE_EXT")
+4a9c7bbe2ed4 ("bpf: Resolve to prog->aux->dst_prog->type only for BPF_PROG_TYPE_EXT")
+5c073f26f9dc ("bpf: Add reference tracking support to kfunc")
+b202d8442222 ("bpf: Remove check_kfunc_call callback and old kfunc BTF ID API")

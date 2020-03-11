@@ -1,0 +1,6 @@
+8121fbc4ebbb ("parisc: map_pages(): cleanup page table initialization")
+8b7f938e0a03 ("parisc: fix map_pages() to actually populate upper directory")
+6a5280012da5 ("parisc: use memblock_alloc() instead of custom get_memblock()")
+e3b6a02816eb ("parisc: Zero-initialize newly alloced memblock")
+4fe9e1d957e4 ("parisc: Drop bootmem and switch to memblock")
+35d98e93fe6a ("arch: Set IORESOURCE_SYSTEM_RAM flag for System RAM")

@@ -1,0 +1,8 @@
+5701cb8bf50e ("tty: Call ->dtr_rts() parameter active consistently")
+5d4203990737 ("tty: Convert ->dtr_rts() to take bool argument")
+b300fb26c59a ("tty: Convert ->carrier_raised() and callchains to bool")
+c07da737af4d ("tty: n_gsm: name the debug bits")
+669609cea1d2 ("tty: n_gsm: replace use of gsm_read_ea() with gsm_read_ea_val()")
+19fb0a664f64 ("tty: n_gsm: add enumeration for gsm encodings")
+4bb1a53be85f ("tty: n_gsm: initialize more members at gsm_alloc_mux()")
+607ca0f742b7 ("Merge tag 'tty-6.0-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/tty")

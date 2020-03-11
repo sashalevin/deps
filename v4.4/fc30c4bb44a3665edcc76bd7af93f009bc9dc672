@@ -1,0 +1,7 @@
+fc30c4bb44a3 ("usb: dwc2: Workaround case where GOTGCTL state is wrong")
+04a9db799253 ("usb: dwc2: host: use msleep() for long delays")
+4a065c7bdbec ("usb: dwc2: host: Add missing spinlock in dwc2_hcd_reset_func()")
+3b5fcc9ac2f4 ("usb: dwc2: host: use kmem cache to allocate descriptors")
+95105a998dff ("usb: dwc2: host: avoid usage of dma_alloc_coherent with irqs disabled")
+fbb9e22b15ad ("usb: dwc2: host: enable descriptor dma for fs devices")
+3ac38d260fa5 ("usb: dwc2: host: ensure filling of isoc desc is correctly done")

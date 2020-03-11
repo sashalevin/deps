@@ -1,0 +1,6 @@
+9ea597286570 ("KVM: s390: vsie: simulate VCPU SIE entry/exit")
+f315104ad8b0 ("KVM: s390: force bp isolation for VSIE")
+ef8f4f49fcfa ("KVM: s390: reuse kvm_s390_set_cpuflags()")
+a9f6c9a92f37 ("KVM: s390: cleanup struct kvm_s390_float_interrupt")
+588629385c4b ("KVM: s390: drop use of spin lock in __floating_irq_kick")
+730cd632c4e4 ("KVM: s390: Support keyless subset guest mode")

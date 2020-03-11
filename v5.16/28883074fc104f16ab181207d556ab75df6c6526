@@ -1,0 +1,6 @@
+28883074fc10 ("block: do more work in elevator_exit")
+28ce942fa2d5 ("block: move blk_exit_queue into disk_release")
+1059699f87eb ("block: move blkcg initialization/destroy into disk allocation/release handler")
+f5ec592dd3bc ("block: simplify calling convention of elv_unregister_queue()")
+0c6cb3a293fa ("block: remove the e argument to elevator_exit")
+f46b81c54b24 ("block: remove elevator_exit")

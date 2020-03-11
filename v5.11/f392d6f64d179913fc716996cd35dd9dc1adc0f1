@@ -1,0 +1,5 @@
+f392d6f64d17 ("drm/msm: Make enable_eviction flag static")
+63f17ef83428 ("drm/msm: Support evicting GEM objects to swap")
+6afb0750dba0 ("drm/msm: Reorganize msm_gem_shrinker_scan()")
+25ed38b3ed26 ("drm/msm: Drop mm_lock in scan loop")
+cc8a4d5a1bd8 ("drm/msm: Avoid mutex in shrinker_count()")

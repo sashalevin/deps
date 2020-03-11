@@ -1,0 +1,6 @@
+8358378b2251 ("hwmon: (it87) Avoid registering the same chip on both SIO addresses")
+e84bd9535e2b ("hwmon: (it87) Add support for second Super-IO chip")
+3c2e35126f28 ("hwmon: (it87) Pass SIO base address as parameter to superio functions")
+8e50e3c3f60c ("hwmon: (it87) Don't use pdev as static driver variable")
+36c4d98a7883 ("hwmon: (it87) Add support for all pwm channels on IT8620E")
+730554059bf2 ("hwmon: (it87) Add feature flag for AVCC3 support")

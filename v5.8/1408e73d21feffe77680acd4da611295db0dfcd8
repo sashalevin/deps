@@ -1,0 +1,4 @@
+1408e73d21fe ("KVM: arm64: Restructure the point where has_run_once is advertised")
+263d6287da14 ("KVM: arm64: Initialize VCPU mdcr_el2 before loading it")
+a354a64d91ee ("KVM: arm64: Disable guest access to trace filter controls")
+1c91f06d296d ("KVM: arm64: Move double-checked lock to kvm_vgic_map_resources()")

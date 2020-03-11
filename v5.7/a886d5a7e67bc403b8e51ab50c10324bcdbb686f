@@ -1,0 +1,7 @@
+a886d5a7e67b ("iommu/vt-d: Report real pgsize bitmap to iommu core")
+7c29ada5e700 ("iommu/vt-d: Fix ineffective devTLB invalidation for subdevices")
+c062db039f40 ("iommu/vt-d: Update domain geometry in iommu_ops.at(de)tach_dev")
+d2ef0962492c ("iommu/vt-d: Use device numa domain if RHSA is missing")
+672cf6df9b8a ("iommu/vt-d: Move Intel IOMMU driver into subdirectory")
+56722a4398a3 ("iommu/vt-d: Add bind guest PASID support")
+7039d11b3e4a ("iommu/vt-d: Wire up iommu_ops->def_domain_type")

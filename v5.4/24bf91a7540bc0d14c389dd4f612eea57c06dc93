@@ -1,0 +1,6 @@
+24bf91a7540b ("perf evlist: Use the right prefix for 'struct evlist' 'filter' methods")
+90df0249c2ea ("perf trace: Expand strings in filters to integers")
+d4097f1937f2 ("perf trace: Introduce --filter for tracepoint events")
+1827ab5ba8e1 ("perf evlist: Introduce append_tp_filter_pid() and append_tp_filter_pids()")
+53c92f73389d ("perf evlist: Introduce append_tp_filter() method")
+05cea4492c9d ("perf evlist: Factor out asprintf routine to build a tracepoint pid filter")

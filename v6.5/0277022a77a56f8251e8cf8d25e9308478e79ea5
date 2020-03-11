@@ -1,0 +1,3 @@
+0277022a77a5 ("KVM: x86/mmu: Declare flush_remote_tlbs{_range}() hooks iff HYPERV!=n")
+d4788996051e ("KVM: Allow range-based TLB invalidation from common code")
+a1342c802728 ("KVM: Rename kvm_arch_flush_remote_tlb() to kvm_arch_flush_remote_tlbs()")

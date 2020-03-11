@@ -1,0 +1,6 @@
+5afb6d203d02 ("watchdog: Fix memleak in watchdog_cdev_register")
+38a1222ae4f3 ("watchdog: core: make sure the watchdog worker always works")
+914d65f3f013 ("watchdog: Fix kref imbalance seen if handle_boot_enabled=0")
+c013b65ad8a1 ("watchdog: introduce watchdog_worker_should_ping helper")
+2501b015313f ("watchdog: core: add option to avoid early handling of watchdog")
+bb292ac1c602 ("watchdog: Introduce watchdog_stop_on_unregister helper")

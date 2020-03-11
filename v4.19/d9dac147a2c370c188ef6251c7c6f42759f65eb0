@@ -1,0 +1,5 @@
+d9dac147a2c3 ("kbuild: deb-pkg: fix warning when CONFIG_DEBUG_INFO is unset")
+5a46421789f4 ("builddeb: generate multi-arch friendly linux-libc-dev package")
+175209cce23d ("kbuild: pkg: use -f $(srctree)/Makefile to recurse to top Makefile")
+d5615e472d23 ("builddeb: Fix inclusion of dtbs in debian package")
+bbcde0a72412 ("kbuild: deb-pkg: fix too low build version number")

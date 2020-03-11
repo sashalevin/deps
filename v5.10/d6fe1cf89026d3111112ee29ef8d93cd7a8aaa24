@@ -1,0 +1,7 @@
+d6fe1cf89026 ("bpf: Fix a spelling typo in bpf_atomic_alu_string disasm")
+981f94c3e921 ("bpf: Add bitwise atomic instructions")
+462910670e4a ("bpf: Pull out a macro for interpreting atomic ALU operations")
+5ffa25502b5a ("bpf: Add instructions for atomic_[cmp]xchg")
+5ca419f2864a ("bpf: Add BPF_FETCH field / create atomic_fetch_add instruction")
+91c960b00566 ("bpf: Rename BPF_XADD and prepare to encode other atomics in .imm")
+11c11d0751fc ("bpf: x86: Factor out emission of ModR/M for *(reg + off)")

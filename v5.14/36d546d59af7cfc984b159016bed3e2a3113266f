@@ -1,0 +1,3 @@
+36d546d59af7 ("KVM: x86: Return emulator error if RDMSR/WRMSR emulation failed")
+ac8d6cad3c7b ("KVM: x86: Only do MSR filtering when access MSR by rdmsr/wrmsr")
+d2f7d49826ae ("KVM: x86: Use different callback if msr access comes from the emulator")

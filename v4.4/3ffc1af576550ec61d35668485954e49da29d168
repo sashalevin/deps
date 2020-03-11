@@ -1,0 +1,7 @@
+3ffc1af57655 ("ixgbe: get rid of custom busy polling code")
+75b6462e965d ("ixgbe: on recv increment rx.ring->stats.yields")
+5d6002b7b822 ("ixgbe: Fix handling of NAPI budget when multiple queues are enabled per vector")
+93f93a440415 ("net: move skb_mark_napi_id() into core networking stack")
+868fdb06063d ("mlx4: remove mlx4_en_low_latency_recv()")
+b59768c6b4fc ("bnx2x: remove bnx2x_low_latency_recv() support")
+5865316c9db3 ("mlx4: mlx4_en_low_latency_recv() called with BH disabled")

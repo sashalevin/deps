@@ -1,0 +1,4 @@
+013115d90e00 ("ata: libata: fetch sense data for ATA devices supporting sense reporting")
+7390896b3484 ("ata: libata: fix NCQ autosense logic")
+b46c760e11c8 ("ata: libata: drop superfluous ata_eh_request_sense() parameter")
+efcef265fd83 ("ata: add/use ata_taskfile::{error|status} fields")

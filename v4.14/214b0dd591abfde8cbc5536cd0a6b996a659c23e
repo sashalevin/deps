@@ -1,0 +1,6 @@
+214b0dd591ab ("dummycon: Sprinkle locking checks")
+83d83bebf401 ("console/fbcon: Add support for deferred console takeover")
+3bd3a0e330aa ("fbcon: Call WARN_CONSOLE_UNLOCKED() where applicable")
+c396a5bf457f ("console: Expand dummy functions for CFI")
+ea92110bc048 ("console: SisUSB2VGA: Drop dummy con_font_get()")
+724ba8b30b04 ("console/dummy: leave .con_font_get set to NULL")

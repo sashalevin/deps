@@ -1,0 +1,8 @@
+b62933eee41e ("sched/core: Make select_task_rq() take the pointer to wake_flags instead of value")
+e23edc86b09d ("sched/fair: Rename check_preempt_curr() to wakeup_preempt()")
+82845683ca6a ("sched/fair: Rename check_preempt_wakeup() to check_preempt_wakeup_fair()")
+857d315f1201 ("sched: Simplify ttwu()")
+160fb0d83f20 ("sched/core: Reorganize ttwu_do_wakeup() and ttwu_do_activate()")
+efe09385864f ("sched/core: Micro-optimize ttwu_runnable()")
+f3dd3f674555 ("sched: Remove the limitation of WF_ON_CPU on wakelist if wakee cpu is idle")
+28156108fecb ("sched: Fix the check of nr_running at queue wakelist")

@@ -1,0 +1,7 @@
+f59bb60f7d56 ("nilfs2: convert nilfs_add_link() to use a folio")
+9b77f66f9927 ("nilfs2: switch to kmap_local for directory handling")
+09a46acb3697 ("nilfs2: return the mapped address from nilfs_get_page()")
+2197f5aed404 ("nilfs2: remove page_address() from nilfs_add_link")
+8cf57c6df818 ("nilfs2: eliminate staggered calls to kunmap in nilfs_rename")
+584db20c181f ("nilfs2: move page release outside of nilfs_delete_entry and nilfs_set_link")
+b3e1cc3935ff ("nilfs2: convert to new timestamp accessors")

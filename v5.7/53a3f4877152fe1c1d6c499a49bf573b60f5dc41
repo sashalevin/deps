@@ -1,0 +1,4 @@
+53a3f4877152 ("KVM: x86/mmu: Try to avoid crashing KVM if a MMU memory cache is empty")
+356ec69adfc8 ("KVM: x86/mmu: Use consistent "mc" name for kvm_mmu_memory_cache locals")
+45177cccd9c9 ("KVM: x86/mmu: Consolidate "page" variant of memory cache helpers")
+5962bfb748f8 ("KVM: x86/mmu: Track the associated kmem_cache in the MMU caches")

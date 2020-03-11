@@ -1,0 +1,3 @@
+401b0de3ae4f ("rcu-tasks: Stop rcu_tasks_invoke_cbs() from using never-onlined CPUs")
+15d44dfa4030 ("rcu: Make rcu_cpu_starting() rely on interrupts being disabled")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")

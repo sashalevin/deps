@@ -1,0 +1,7 @@
+df6380dca272 ("ASoC: SOF: amd: Add pcm pointer callback for amd platforms.")
+4da6b033f545 ("ASoC: SOF: amd: Make ACP core code generic for newer SOC transition")
+b585692fc937 ("ASoC: SOF: amd: Add SOF pm ops callback for Renoir")
+0da5f110c583 ("ASoC: SOF: amd: renoir: Do not set the load_module ops")
+473dd4ea340c ("ASoC: SOF: amd: Do not set fw_ready callback")
+856601e5a7eb ("ASoC: SOF: remove const qualifier for 'struct snd_sof_dsp_ops'")
+31f60a0c943d ("ASoC: SOF: Make pcm_hw_params snd_sof_dsp_ops callback IPC neutral")

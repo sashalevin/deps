@@ -1,0 +1,8 @@
+edb5b700f9f8 ("KVM: selftests: Add #define of expected KVM exit reason for ucall")
+b35f4c73d389 ("KVM: selftests: Add arch ucall.h and inline simple arch hooks")
+28a65567acb5 ("KVM: selftests: Drop now-unnecessary ucall_uninit()")
+03b4750533fc ("KVM: selftests: Make arm64's MMIO ucall multi-VM friendly")
+dc88244bf548 ("KVM: selftests: Automatically do init_ucall() for non-barebones VMs")
+ef38871eb228 ("KVM: selftests: Consolidate boilerplate code in get_ucall()")
+7046638192d5 ("KVM: selftests: Consolidate common code for populating ucall struct")
+bb0cca240a16 ("Merge branch kvm-arm64/single-step-async-exception into kvmarm-master/next")

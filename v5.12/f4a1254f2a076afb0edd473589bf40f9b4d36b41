@@ -1,0 +1,5 @@
+f4a1254f2a07 ("io_uring: fix cancellation overwriting req->flags")
+521223d7c229 ("io_uring/cancel: don't default to setting req->work.cancel_seq")
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")
+595e52284d24 ("io_uring/poll: don't enable lazy wake for POLLEXCLUSIVE")
+4de520f1fcef ("Merge tag 'io_uring-futex-2023-10-30' of git://git.kernel.dk/linux")

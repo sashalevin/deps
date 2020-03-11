@@ -1,0 +1,5 @@
+2d5e8071c47a ("net/sched: taprio: split segmentation logic from qdisc_enqueue()")
+2c08a4f898d0 ("net/sched: taprio: replace safety precautions with comments")
+25becba6290b ("net/sched: taprio: stop going through private ops for dequeue and peek")
+fa65edde5e49 ("net/sched: taprio: remove redundant FULL_OFFLOAD_IS_ENABLED check in taprio_enqueue")
+13511704f8d7 ("net: taprio offload: enforce qdisc to netdev queue mapping")

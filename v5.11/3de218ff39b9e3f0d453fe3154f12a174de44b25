@@ -1,0 +1,3 @@
+3de218ff39b9 ("xen/events: reset active flag for lateeoi events later")
+b6622798bc50 ("xen/events: avoid handling the same event on two cpus at the same time")
+25da4618af24 ("xen/events: don't unmask an event channel when an eoi is pending")

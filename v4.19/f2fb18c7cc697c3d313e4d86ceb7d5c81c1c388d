@@ -1,1 +1,6 @@
 f2fb18c7cc69 ("ARM: dts: Add am335x mcasp with l3 data port ranges")
+5d2632a577ba ("ARM: dts: Revert am335x mcasp ti-sysc changes")
+87fc89ced3a7 ("ARM: dts: am335x: Move l4 child devices to probe them with ti-sysc")
+f711c575cfec ("ARM: dts: am335x: Add l4 interconnect hierarchy and ti-sysc data")
+69fd70c7ff31 ("ARM: dts: am33xx: convert to use new clkctrl layout")
+769de05b2ae4 ("ARM: dts: am335x-shc: get rid of phy_id property")

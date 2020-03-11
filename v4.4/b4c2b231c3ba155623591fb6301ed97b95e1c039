@@ -1,0 +1,7 @@
+b4c2b231c3ba ("mm: assign id to every memcg-aware shrinker")
+8e04944f0ea8 ("mm,vmscan: Allow preallocating memory for register_shrinker().")
+9ee332d99e4d ("sget(): handle failures of register_shrinker()")
+bb422a738f65 ("mm,vmscan: Make unregister_shrinker() no-op if register_shrinker() failed.")
+0200894d1155 ("new helper: destroy_unused_super()")
+6e4eab577a0c ("fs: Add user namespace member to struct super_block")
+d91ee87d8d85 ("vfs: Pass data, ns, and ns->userns to mount_ns")

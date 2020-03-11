@@ -1,0 +1,7 @@
+71e8a8cdaff9 ("iommu/arm-smmu: Split arm_smmu_tlb_inv_range_nosync()")
+353b325047fd ("iommu/arm-smmu: Mask TLBI address correctly")
+7d321bd35425 ("iommu/arm-smmu: Ensure that page-table updates are visible before TLBI")
+11febfca2419 ("iommu/arm-smmu: Use per-context TLB sync as appropriate")
+452107c79035 ("iommu/arm-smmu: Tidy up context bank indexing")
+280b683ceace ("iommu/arm-smmu: Simplify ASID/VMID handling")
+5896f3a3a1a8 ("iommu/arm-smmu: Constify iommu_gather_ops structures")

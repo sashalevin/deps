@@ -1,0 +1,4 @@
+ac81d3de03f7 ("x86/efi: Extend CONFIG_EFI_PGT_DUMP support to x86_32 and kexec as well")
+6d0cc887d571 ("x86/efi: Map EFI_MEMORY_{XP,RO} memory region bits to EFI page tables")
+67a9108ed431 ("x86/efi: Build our own page table structures")
+edc3b9129cec ("x86/mm/pat: Ensure cpa->pfn only contains page frame numbers")

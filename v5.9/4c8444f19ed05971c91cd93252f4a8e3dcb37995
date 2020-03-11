@@ -1,0 +1,6 @@
+4c8444f19ed0 ("iommu: Cleanup iommu_change_dev_def_domain()")
+33793748de8f ("iommu: Move lock from iommu_change_dev_def_domain() to its caller")
+e86b041ffeff ("iommu: Delete a duplicate check in iommu_change_dev_def_domain()")
+62c9917d9c10 ("iommu: Fix htmldocs warnings in sysfs-kernel-iommu_groups")
+63a816749d86 ("iommu: Document usage of "/sys/kernel/iommu_groups/<grp_id>/type" file")
+08a27c1c3ecf ("iommu: Add support to change default domain of an iommu group")

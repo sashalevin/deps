@@ -1,0 +1,5 @@
+62a0fe46e2aa ("netfilter: core: pass hook number, family and device to nf_find_hook_list()")
+2a95183a5e03 ("netfilter: don't allocate space for arp/bridge hooks unless needed")
+bb4badf3a3dc ("netfilter: don't allocate space for decnet hooks unless needed")
+ef57170bbfdd ("netfilter: reduce hook array sizes to what is needed")
+b0f38338aef2 ("netfilter: reduce size of hook entry point locations")

@@ -1,0 +1,8 @@
+7f252f277b66 ("mm, memory_hotplug: simplify empty node mask handling in new_node_page")
+04ec6264f287 ("mm, page_alloc: pass preferred nid instead of zonelist to allocator")
+9cd7555875bb ("mm, page_alloc: split alloc_pages_nodemask()")
+5ce9bfef1d27 ("mm, page_alloc: move cpuset seqcount checking to slowpath")
+16096c25bf0c ("mm, page_alloc: fix fast-path race with cpuset update or removal")
+ea57485af8f4 ("mm, page_alloc: fix check for NULL preferred_zone")
+d51e9894d274 ("mm/mempolicy.c: do not put mempolicy before using its nodemask")
+6d8409580bee ("mm, mempolicy: clean up __GFP_THISNODE confusion in policy_zonelist")

@@ -1,0 +1,7 @@
+46347e3ec616 ("media: v4l: async: Also match secondary fwnode endpoints")
+7e7618579dcd ("media: v4l2-async: Remove V4L2_ASYNC_MATCH_DEVNAME")
+517fd2b6a058 ("media: v4l2-async: Add waiting subdevices debugfs")
+97cf50b6f8e5 ("media: v4l2-async: Remove V4L2_ASYNC_MATCH_CUSTOM")
+06c85233121f ("media: v4l2-core: v4l2-async: Check sd->fwnode->secondary in match_fwnode()")
+3e33392a9561 ("media: v4l2-async: Pass notifier pointer to match functions")
+b98158d837ef ("media: v4l2-async: Accept endpoints and devices for fwnode matching")

@@ -1,0 +1,6 @@
+3db6154e44db ("can: at91_can: at91_irq_err_line(): send error counters with state change")
+9df2faf947bc ("can: at91_can: at91_irq_err_line(): make use of can_change_state() and can_bus_off()")
+f13e86993d85 ("can: at91_can: at91_irq_err_line(): take reg_sr into account for bus off")
+910f179aa0de ("can: at91_can: at91_irq_err_line(): make use of can_state_get_by_berr_counter()")
+efad777c3e97 ("can: at91_can: at91_irq_err(): rename to at91_irq_err_line()")
+8227088cb3c2 ("can: at91_can: at91_chip_start(): don't disable IRQs twice")

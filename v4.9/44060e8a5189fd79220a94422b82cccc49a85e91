@@ -1,0 +1,6 @@
+44060e8a5189 ("x86/boot/KASLR: Remove return value from handle_mem_options()")
+747ff6265db4 ("x86/boot/KASLR: Skip specified number of 1GB huge pages when doing physical randomization (KASLR)")
+9b912485e0e7 ("x86/boot/KASLR: Add two new functions for 1GB huge pages handling")
+4cdba14f84c9 ("x86/KASLR: Handle the memory limit specified by the 'memmap=' and 'mem=' boot options")
+d52e7d5a952c ("x86/KASLR: Parse all 'memmap=' boot option entries")
+f28442497b5c ("x86/boot: Fix KASLR and memmap= collision")

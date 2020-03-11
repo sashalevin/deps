@@ -1,0 +1,5 @@
+9584d98bed7a ("x86/fsgsbase/64: Report FSBASE and GSBASE correctly in core dumps")
+296f781a4b78 ("x86/asm/64: Rename thread_struct's fs and gs to fsbase and gsbase")
+731e33e39a5b ("x86/arch_prctl/64: Remove FSBASE/GSBASE < 4G optimization")
+3e2b68d752c9 ("x86/asm, sched/x86: Rewrite the FS and GS context switch code")
+d47b50e7a111 ("x86/arch_prctl: Fix ARCH_GET_FS and ARCH_GET_GS")

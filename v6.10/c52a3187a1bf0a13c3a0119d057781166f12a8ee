@@ -1,0 +1,7 @@
+c52a3187a1bf ("drm/i915/psr: Add new debug bit to disable Panel Replay")
+b445130c35e5 ("drm/i915/psr: Disable Panel Replay if PSR mode is set via module parameter")
+04d0aed08206 ("drm/i915/psr: Allow setting I915_PSR_DEBUG_SU_REGION_ET_DISABLE via debugfs")
+ba7cf33f233e ("drm/i915/psr: Rename psr2_enabled as sel_update_enabled")
+1e52db8a439b ("drm/i915/psr: Rename has_psr2 as has_sel_update")
+d82d1a6be60d ("drm/i915: pass dev_priv explicitly to EDP_PSR2_STATUS")
+9b0dddd50e68 ("drm/i915: pass dev_priv explicitly to EDP_PSR2_CTL")

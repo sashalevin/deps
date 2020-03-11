@@ -1,0 +1,6 @@
+bee1d5becdf5 ("io_uring: disable io-wq execution of multishot NOWAIT requests")
+e0e4ab52d170 ("io_uring: refactor DEFER_TASKRUN multishot checks")
+3a96378e22cc ("io_uring: fix mshot io-wq checks")
+eb18c29dd2a3 ("io_uring/net: move recv/recvmsg flags out of retry loop")
+76b367a2d831 ("io_uring/net: limit inline multishot retries")
+91e5d765a82f ("io_uring/net: un-indent mshot retry path in io_recv_finish()")

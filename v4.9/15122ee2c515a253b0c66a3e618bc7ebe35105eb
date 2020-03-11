@@ -1,0 +1,5 @@
+15122ee2c515 ("arm64: Enforce BBM for huge IO/VMAP mappings")
+193383043f14 ("arm64: don't open code page table entry creation")
+2077be6783b5 ("arm64: Use __pa_symbol for kernel symbols")
+869dcfd10dfe ("arm64: Add cast for virt_to_pfn")
+e98216b52176 ("arm64: mm: BUG on unsupported manipulations of live kernel mappings")

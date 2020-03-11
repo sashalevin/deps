@@ -1,0 +1,4 @@
+699cf8246ee4 ("fuse: create helper function if DIO write needs exclusive lock")
+3f29f1c336c0 ("fuse: disable FOPEN_PARALLEL_DIRECT_WRITES with FUSE_DIRECT_IO_ALLOW_MMAP")
+153524053bbb ("fuse: allow non-extending parallel direct writes on the same file")
+4f8d37020e1f ("fuse: add "expire only" mode to FUSE_NOTIFY_INVAL_ENTRY")

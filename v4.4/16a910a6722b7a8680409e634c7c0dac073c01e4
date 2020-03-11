@@ -1,0 +1,5 @@
+16a910a6722b ("cfg80211: handle failed skb allocation")
+2b67f944f88c ("cfg80211: reuse existing page fragments in A-MSDU rx")
+2bf0ccc7095e ("cfg80211: fix faulty variable initialization in ieee80211_amsdu_to_8023s")
+230fd28a9154 ("cfg80211: add support for non-linear skbs in ieee80211_amsdu_to_8023s")
+88665f5a797a ("mac80211: move A-MSDU skb_linearize call to ieee80211_amsdu_to_8023s")

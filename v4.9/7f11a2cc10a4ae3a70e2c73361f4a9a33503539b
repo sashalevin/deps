@@ -1,0 +1,7 @@
+7f11a2cc10a4 ("x86/Hyper-V: Free hv_panic_page when fail to register kmsg dump")
+53edce00ceb7 ("Drivers: hv: vmbus: Remove dependencies on guest page size")
+8afc06dd75c0 ("Drivers: hv: vmbus: Fix the issue with freeing up hv_ctl_table_hdr")
+ddcaf3ca4c3c ("Drivers: hv: vmus: Fix the check for return value from kmsg get dump buffer")
+81b18bce48af ("Drivers: HV: Send one page worth of kmsg dump over Hyper-V during panic")
+4a5f3cde4d51 ("Drivers: hv: vmbus: Remove x86-isms from arch independent drivers")
+2bf16b7a73ca ("Merge tag 'char-misc-4.15-rc1' of ssh://gitolite.kernel.org/pub/scm/linux/kernel/git/gregkh/char-misc")

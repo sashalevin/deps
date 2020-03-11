@@ -1,0 +1,5 @@
+b64913394f12 ("lkdtm: Really write into kernel text in WRITE_KERN")
+e1478d8eaf27 ("asm-generic: Refactor dereference_[kernel]_function_descriptor()")
+a257cacc3871 ("asm-generic: Define CONFIG_HAVE_FUNCTION_DESCRIPTORS")
+41a88b45479d ("ia64: Rename 'ip' to 'addr' in 'struct fdesc'")
+d3e32b997a4c ("powerpc: Use 'struct func_desc' instead of 'struct ppc64_opd_entry'")

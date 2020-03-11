@@ -1,0 +1,7 @@
+f5cb5adaa8ec ("media: atomisp: Drop userptr support from hmm")
+931d87d204aa ("media: atomisp: Add hmm_create_from_vmalloc_buf() function")
+30cf7e90f0ea ("media: atomisp: hmm_bo: Drop PFN code path from alloc_user_pages()")
+3df52e584ed1 ("media: atomisp: hmm_bo: Rewrite free_private_pages() using pages_array helper funcs")
+2691ecc089ca ("media: atomisp: hmm_bo: Rewrite alloc_private_pages() using pages_array helper funcs")
+fce48bf10141 ("media: atomisp: hmm_bo: Further simplify alloc_private_pages()")
+8519635cb292 ("media: atomisp: hmm_bo: Simplify alloc_private_pages()")

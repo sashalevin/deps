@@ -1,0 +1,5 @@
+bc9bbb78801a ("arm64: Explicitly save/restore CPACR when probing SVE and SME")
+01948b09edc3 ("arm64/fpsimd: Only provide the length to cpufeature for xCR registers")
+fcd3d2c082b2 ("arm64/sme: Don't use streaming mode to probe the maximum SME VL")
+892f7237b3ff ("arm64: Delay initialisation of cpuinfo_arm64::reg_{zcr,smcr}")
+d69d56496487 ("arm64/sme: Expose SMIDR through sysfs")

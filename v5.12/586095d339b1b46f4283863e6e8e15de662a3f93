@@ -1,0 +1,7 @@
+586095d339b1 ("SUNRPC: Don't disable preemption while calling svc_pool_for_cpu().")
+5089f3d97552 ("SUNRPC: Remove low signal-to-noise tracepoints")
+22a027e8c03f ("SUNRPC: Add trace event when alloc_pages_bulk() makes no progress")
+062b829c52ef ("SUNRPC: Fix XPT_BUSY flag leakage in svc_handle_xprt()...")
+f6e70aab9dfe ("SUNRPC: refresh rq_pages using a bulk page allocator")
+ab8362645fba ("SUNRPC: set rq_page_end differently")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")

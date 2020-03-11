@@ -1,0 +1,4 @@
+d0f5c7076e01 ("ipvlan: fix device features")
+41441d85b671 ("ipvlan: consolidate TSO flags using NETIF_F_ALL_TSO")
+a4d2113e46c1 ("ipvlan: set hw_enc_features like macvlan")
+ceae266bf0ae ("net: ipvlan: Fix ipvlan device tso disabled while NETIF_F_IP_CSUM is set")

@@ -1,0 +1,5 @@
+4dd2a1b92b91 ("x86: Replace setup_irq() by request_irq()")
+451f743a64e1 ("x86/irq/32: Invoke irq_ctx_init() from init_IRQ()")
+6d671e1b85c6 ("x86/time: Unconditionally register legacy timer interrupt")
+b1b4f2fe6839 ("x86/time: Make setup_default_timer_irq() static")
+0ccecd95e797 ("x86/irq: Remove a redundant #ifdef directive")

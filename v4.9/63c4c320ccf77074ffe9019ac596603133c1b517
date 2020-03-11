@@ -1,0 +1,6 @@
+63c4c320ccf7 ("usb: dwc3: gadget: Check for L1/L2/U3 for Start Transfer")
+c560e76319a9 ("usb: dwc3: gadget: Fix START_TRANSFER link state check")
+d0550cd20e52 ("usb: dwc3: gadget: Do link recovery for SS and SSP")
+5eb30cedced6 ("usb: dwc3: trace: purge dwc3_trace()")
+57b14da56227 ("usb: dwc3: don't compile dwc3_trace() unless CONFIG_FTRACE=y")
+5999914f227b ("usb: dwc3: gadget: properly check ep cmd")

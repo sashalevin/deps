@@ -1,0 +1,7 @@
+1aee9158bc97 ("nfsd: lock_rename() needs both directories to live on the same fs")
+7f84b488f9ad ("nfsd: close cached files prior to a REMOVE or RENAME that would replace target")
+ba5e8187c555 ("nfsd: allow filesystems to opt out of subtree checking")
+daab110e47f8 ("nfsd: add a new EXPORT_OP_NOWCC flag to struct export_operations")
+b9e8638e3d9e ("NFSD: allow inter server COPY to have a STALE source server fh")
+7775ec57f4c7 ("nfsd: close cached files prior to a REMOVE or RENAME that would replace target")
+39ca1bf624b6 ("nfsd: store stat times in fill_pre_wcc() instead of inode times")

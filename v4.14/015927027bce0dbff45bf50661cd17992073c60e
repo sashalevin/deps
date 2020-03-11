@@ -1,0 +1,5 @@
+015927027bce ("ARM: davinci: dm644x: Remove legacy clock init")
+a5b1a87199ac ("ARM: davinci: dm644x: add new clock init using common clock framework")
+a7da5277cdc6 ("ARM: davinci: pass clock as parameter to davinci_timer_init()")
+8e730c7f907a ("ARM: davinci: dm644x: remove unnecessary postcore_initcall()")
+96c081735d51 ("ARM: davinci: move davinci_clk_init() to init_time")

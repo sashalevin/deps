@@ -1,0 +1,7 @@
+85574dbf9d12 ("net: ethernet: mediatek: refactoring mtk_hw_init to be reused")
+549e5495467a ("net: ethernet: mediatek: fix incorrect return value of devm_clk_get with EPROBE_DEFER")
+8067302973a1 ("net-next: mediatek: add support for IRQ grouping")
+eece71e8fb09 ("net-next: mediatek: don't use intermediate variables to store IRQ masks")
+ad3cba989e8b ("net: mediatek: only wake the queue if it is stopped")
+13c822f6d468 ("net: mediatek: fix stop and wakeup of queue")
+656e705243fd ("net-next: mediatek: add support for MT7623 ethernet")

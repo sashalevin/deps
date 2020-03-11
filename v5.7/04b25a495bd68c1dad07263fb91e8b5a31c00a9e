@@ -1,0 +1,4 @@
+04b25a495bd6 ("rcu: Mark rcu_nmi_enter() call to rcu_cleanup_after_idle() noinstr")
+9ea366f669de ("rcu: Make RCU IRQ enter/exit functions rely on in_nmi()")
+ff5c4f5cad33 ("rcu/tree: Mark the idle relevant functions noinstr")
+ac3caf827488 ("rcu: Add comments marking transitions between RCU watching and not")

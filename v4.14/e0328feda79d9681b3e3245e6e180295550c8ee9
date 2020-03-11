@@ -1,0 +1,7 @@
+e0328feda79d ("arm64/module: set trampoline section flags regardless of CONFIG_DYNAMIC_FTRACE")
+c8ebf64eab74 ("arm64/module: use plt section indices for relocations")
+ed231ae384fd ("arm64/kernel: rename module_emit_adrp_veneer->module_emit_veneer_for_adrp")
+a257e02579e4 ("arm64/kernel: don't ban ADRP to work around Cortex-A53 erratum #843419")
+5e8307b9c6f4 ("arm64: module: don't BUG when exceeding preallocated PLT count")
+be0f272bfc83 ("arm64: ftrace: emit ftrace-mod.o contents through code")
+ddd25ad1fde8 ("arm64/sve: Kconfig update and conditional compilation support")

@@ -1,0 +1,7 @@
+063b1f21cc9b ("btrfs: fix a memory allocation failure test in btrfs_submit_direct")
+642c5d34da53 ("btrfs: allocate the btrfs_dio_private as part of the iomap dio bio")
+a3e171a09cd4 ("btrfs: move struct btrfs_dio_private to inode.c")
+acb8b52a158a ("btrfs: remove the disk_bytenr in struct btrfs_dio_private")
+e6f9d6964802 ("btrfs: export a helper for compression hard check")
+88d2beec7e53 ("btrfs: avoid logging all directory changes during renames")
+d5f5bd546552 ("btrfs: pass the dentry to btrfs_log_new_name() instead of the inode")

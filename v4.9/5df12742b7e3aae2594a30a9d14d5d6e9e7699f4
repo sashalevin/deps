@@ -1,0 +1,7 @@
+5df12742b7e3 ("Revert "PCI: acpiphp: Reassign resources on bridge if necessary"")
+cc22522fd55e ("PCI: acpiphp: Use pci_assign_unassigned_bridge_resources() only for non-root bus")
+40613da52b13 ("PCI: acpiphp: Reassign resources on bridge if necessary")
+84c8b58ed3ad ("ACPI / hotplug / PCI: Don't scan bridges managed by native hotplug")
+24a0c654d7d6 ("PCI: Add for_each_pci_bridge() helper")
+437eb7bf7b28 ("ACPI / hotplug / PCI: Make device_is_managed_by_native_pciehp() public")
+6ef13824e0d8 ("ACPI / hotplug / PCI: Use cached copy of PCI_EXP_SLTCAP_HPC bit")

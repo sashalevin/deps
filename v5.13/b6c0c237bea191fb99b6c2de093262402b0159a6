@@ -1,0 +1,8 @@
+b6c0c237bea1 ("nvme-pci: remove iod use_sgls")
+ae5829350324 ("nvme-pci: use mapped entries for sgl decision")
+52da4f3f5cbd ("nvme-pci: iod's 'aborted' is a bool")
+a53232cb3abe ("nvme-pci: remove nvme_queue from nvme_iod")
+91fb2b6052f7 ("nvme-pci: convert to using dma_map_sgtable()")
+62451a2b2e7e ("nvme: separate command prep and issue")
+3233b94cf842 ("nvme: split command copy into a helper")
+253a0b76a12a ("nvme-pci: use ctrl sgl check helper")

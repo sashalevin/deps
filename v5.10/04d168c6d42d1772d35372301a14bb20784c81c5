@@ -1,0 +1,3 @@
+04d168c6d42d ("fs/proc/kcore.c: remove check of list iterator against head past the loop body")
+c6d9eee2a686 ("fs/proc/kcore: use page_offline_(freeze|thaw)")
+2711032c64a9 ("fs/proc/kcore: pfn_is_ram check only applies to KCORE_RAM")

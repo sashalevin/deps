@@ -1,0 +1,4 @@
+37ac86c3a76c ("SUNRPC: Initialize rpc_rqst outside of xprt->reserve_lock")
+ff699ea8269a ("SUNRPC: Make num_reqs a non-atomic integer")
+90d91b0cd371 ("SUNRPC: Fix a race in the receive code path")
+92ea011f7cba ("SUNRPC: Make slot allocation more reliable")

@@ -1,0 +1,7 @@
+4b9880dbf3bd ("powerpc/vmlinux.lds: Define RUNTIME_DISCARD_EXIT")
+4e9e559a0385 ("powerpc: Move EXCEPTION_TABLE to RO_DATA segment")
+441110a547f8 ("vmlinux.lds.h: Provide EMIT_PT_NOTE to indicate export of .notes")
+76a5eaa38b15 ("powerpc/fsl: Add infrastructure to fixup branch predictor flush")
+5f69e38885c3 ("powerpc/prom_init: Move __prombss to it's own section and store it in .bss")
+e63334e556d9 ("powerpc/prom_init: Replace __initdata with __prombss when applicable")
+3bad719b4954 ("powerpc/prom_init: Make of_workarounds static")

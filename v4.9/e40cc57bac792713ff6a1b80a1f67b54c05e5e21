@@ -1,0 +1,4 @@
+e40cc57bac79 ("KVM: arm/arm64: vgic: Support level-triggered mapped interrupts")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")
+36c344f3f1ff ("Merge tag 'kvm-arm-for-v4.12-round2' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

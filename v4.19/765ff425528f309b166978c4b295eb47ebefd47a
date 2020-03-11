@@ -1,0 +1,5 @@
+765ff425528f ("mptcp: use lockdep_assert_held_once() instead of open-coding it")
+b5941f066b4c ("mptcp: fix sk_forward_memory corruption on retransmission")
+417789df4a03 ("mptcp: fix missing wakeup")
+c2e6048fa1cf ("mptcp: fix race in release_cb")
+d489ded1a369 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

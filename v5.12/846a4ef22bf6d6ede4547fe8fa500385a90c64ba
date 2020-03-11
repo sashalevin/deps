@@ -1,0 +1,8 @@
+846a4ef22bf6 ("io_uring: refactor file tables alloc/free")
+82fbcfa996e0 ("io_uring: encapsulate rsrc node manipulations")
+f3baed39929e ("io_uring: use rsrc prealloc infra for files reg")
+b895c9a632e7 ("io_uring: name rsrc bits consistently")
+68fb897966fe ("io_uring: inline io_clean_op()'s fast path")
+8dd03afe611d ("io_uring: refactor rsrc refnode allocation")
+7b29f92da377 ("io_uring: cache async and regular file state for fixed files")
+dafecf19e25f ("io_uring: further deduplicate file slot selection")

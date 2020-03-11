@@ -1,0 +1,5 @@
+52b166af40fa ("x86/apic: Move online masking to core code")
+ad95212ee6e0 ("x86/apic: Move flat_cpu_mask_to_apicid_and() into C source")
+3716fd27a604 ("x86/irq: Check vector allocation early")
+433cbd57d190 ("x86/irq: Reorganize the return path in assign_irq_vector")
+8a580f70f693 ("x86/irq: Do not use apic_chip_data.old_domain as temporary buffer")

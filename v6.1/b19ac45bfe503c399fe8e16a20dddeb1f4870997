@@ -1,0 +1,7 @@
+b19ac45bfe50 ("iio: pressure: bmp280: Add support for BMP390")
+33564435c808 ("iio: pressure: bmp280: Allow multiple chips id per family of devices")
+597dfb2af052 ("iio: pressure: bmp280: Add support for new sensor BMP580")
+42cde8808573 ("iio: pressure: Kconfig: Delete misleading I2C reference on bmp280 title")
+c25ea00fefa4 ("iio: pressure: bmp280: Add preinit callback")
+0b0b772637cd ("iio: pressure: bmp280: Use chip_info pointers for each chip as driver data")
+12491d35551d ("iio: pressure: bmp280: convert to i2c's .probe_new()")

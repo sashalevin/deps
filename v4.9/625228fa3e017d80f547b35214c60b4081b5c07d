@@ -1,0 +1,6 @@
+625228fa3e01 ("mmc: core: Rename ignore_crc to retry_crc_err to reflect its purpose")
+437590a123b6 ("mmc: core: Retry instead of ignore at CRC errors when polling for busy")
+70562644f4ee ("mmc: core: Don't use ->card_busy() and CMD13 in combination when polling")
+716bdb8953c7 ("mmc: core: Factor out code related to polling in __mmc_switch()")
+cb26ce069ffa ("mmc: core: Clarify code which deals with polling in __mmc_switch()")
+20348d1981da ("mmc: core: Make mmc_switch_status() available for mmc core")

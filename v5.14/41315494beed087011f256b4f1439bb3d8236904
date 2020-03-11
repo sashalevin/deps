@@ -1,0 +1,4 @@
+41315494beed ("powerpc/ftrace: Prepare ftrace_64_mprofile.S for reuse by PPC32")
+c75388a8ceff ("powerpc/ftrace: Prepare PPC64's ftrace_caller() for CONFIG_DYNAMIC_FTRACE_WITH_ARGS")
+aebd1fb45c62 ("powerpc: flexible GPR range save/restore macros")
+a85c728cb5e1 ("powerpc/32: Don't use lmw/stmw for saving/restoring non volatile regs")

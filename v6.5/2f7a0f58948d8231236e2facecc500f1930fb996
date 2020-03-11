@@ -1,0 +1,7 @@
+2f7a0f58948d ("sched/deadline: Move bandwidth accounting into {en,de}queue_dl_entity")
+d07f09a1f99c ("sched/fair: Propagate enqueue flags into place_entity()")
+e8f331bcc270 ("sched/smp: Use lag to simplify cross-runqueue placement")
+147f3efaa241 ("sched/fair: Implement an EEVDF-like scheduling policy")
+86bfbb7ce4f6 ("sched/fair: Add lag based placement")
+e0c2ff903c32 ("sched/fair: Remove sched_feat(START_DEBIT)")
+af4cf40470c2 ("sched/fair: Add cfs_rq::avg_vruntime")

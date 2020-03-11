@@ -1,0 +1,6 @@
+4f4c4fc0153f ("bpf: decouple stack_map_get_build_id_offset() from perf_callchain_entry")
+45b8fc309654 ("lib/buildid: rename build_id_parse() into build_id_parse_nofault()")
+bdcb37a5d8de ("buildid: reduce header file dependencies for module")
+ee2a098851bf ("bpf: Adjust BPF stack helper functions to accommodate skip > 0")
+ceac059ed4fd ("bpf: Cache the last valid build_id")
+7c7e3d31e785 ("bpf: Introduce helper bpf_find_vma")

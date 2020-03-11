@@ -1,0 +1,8 @@
+a33a502d50fd ("scsi: ufs: Remove support for old UFSHCI versions")
+996a24b99d63 ("scsi: ufs: Reuse compose_devman_upiu")
+e66413faa5b5 ("scsi: ufs: core: Remove dev cmd clock scaling busy")
+00d2fa28da0a ("scsi: ufs: core: Set the Command Priority (CP) flag for RT requests")
+c788cf8a21cd ("scsi: ufs: core: Simplify ufshcd_comp_scsi_upiu()")
+c91e585cfb3d ("scsi: ufs: core: Add advanced RPMB support where UFSHCI 4.0 does not support EHS length in UTRD")
+67a2a8973832 ("scsi: ufs: Simplify transfer request header initialization")
+3a17fefe0f19 ("scsi: ufs: Follow the kernel-doc syntax for documenting return values")

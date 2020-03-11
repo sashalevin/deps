@@ -1,0 +1,5 @@
+7183b2b5ae6b ("KVM: arm64: Move pkvm's special 32bit handling into a generic infrastructure")
+83bb2c1a01d7 ("KVM: arm64: Save PSTATE early on exit")
+271b7286058d ("KVM: arm64: pkvm: Preserve pending SError on exit from AArch32")
+5f39efc42052 ("KVM: arm64: Handle protected guests at 32 bits")
+8fb2046180a0 ("KVM: arm64: Move early handlers to per-EC handlers")

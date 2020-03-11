@@ -1,0 +1,6 @@
+84d751a019a9 ("KVM: arm64: Pass pmu events to hyp via vcpu")
+e987a4c60f97 ("KVM: arm64: Repack struct kvm_pmu to reduce size")
+3cb8a091a701 ("KVM: arm64: Wrapper for getting pmu_events")
+8cfe148a7136 ("kvm/arm64: rework guest entry logic")
+6caa5812e2d1 ("KVM: arm64: Use generic KVM xfer to guest work function")
+fe5161d2c39b ("KVM: arm64: Record number of signal exits as a vCPU stat")

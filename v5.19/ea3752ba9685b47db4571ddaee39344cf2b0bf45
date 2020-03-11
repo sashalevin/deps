@@ -1,0 +1,6 @@
+ea3752ba9685 ("arm64: module: mandate MODULE_PLTS")
+8339f7d8e178 ("arm64: module: remove old !KASAN_VMALLOC logic")
+26299b3f6ba2 ("ftrace: arm64: move from REGS to ARGS")
+8cfb08575c6d ("arm64: ftrace: fix module PLTs with mcount")
+fc5a89f75d2a ("arm64: kaslr: defer initialization to initcall where permitted")
+2e945851e268 ("arm64: kernel: drop unnecessary PoC cache clean+invalidate")

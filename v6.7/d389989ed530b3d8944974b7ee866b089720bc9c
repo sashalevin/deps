@@ -1,0 +1,6 @@
+d389989ed530 ("drm/dp_mst: Fix PBN divider calculation for UHBR rates")
+191dc43935d1 ("drm/dp_mst: Store the MST PBN divider value in fixed point format")
+4e0837a8d00a ("drm/i915/dp_mst: Account for FEC and DSC overhead during BW allocation")
+7ff2090c7c98 ("drm/i915/dp: Pass actual BW overhead to m_n calculation")
+d91680efcaab ("drm/i915/dp_mst: Enable FEC early once it's known DSC is needed")
+7707dd602259 ("drm/dp_mst: Fix fractional DSC bpp handling")

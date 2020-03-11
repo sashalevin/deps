@@ -1,0 +1,8 @@
+7d8a819dd316 ("libbpf: Install skel_internal.h header used from light skeletons")
+232c9e8bd5eb ("libbpf: Refactor header installation portions of Makefile")
+5981881d21df ("libbpf: Add libbpf_set_strict_mode() API to turn on libbpf 1.0 behaviors")
+7e8bbe24cb8b ("libbpf: xsk: Move barriers from libbpf_util.h to xsk.h")
+2882c48bf8f2 ("libbpf: xsk: Remove linux/compiler.h header")
+a6aac408c561 ("libbpf: Fix arm64 build")
+291471dd1559 ("libbpf, xsk: Add libbpf_smp_store_release libbpf_smp_load_acquire")
+22541a9eeb0d ("libbpf: Add BTF_KIND_FLOAT support")

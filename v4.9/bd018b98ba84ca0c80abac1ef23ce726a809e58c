@@ -1,0 +1,6 @@
+bd018b98ba84 ("SUNRPC: Revert 5f7fc5d69f6e92ec0b38774c387f5cf7812c5806")
+5f7fc5d69f6e ("SUNRPC: Resupply rq_pages from node-local memory")
+e38b3f200594 ("SUNRPC: don't pause on incomplete allocation")
+f6e70aab9dfe ("SUNRPC: refresh rq_pages using a bulk page allocator")
+ab8362645fba ("SUNRPC: set rq_page_end differently")
+8c6ae4980e70 ("sunrpc: Allocate up to RPCSVC_MAXPAGES per svc_rqst")

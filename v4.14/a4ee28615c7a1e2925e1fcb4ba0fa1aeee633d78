@@ -1,0 +1,5 @@
+a4ee28615c7a ("arm64/mm: Simplify and document pte_to_phys() for 52 bit addresses")
+c7c386fbc202 ("arm64: pgtable: make __pte_to_phys/__phys_to_pte_val inline functions")
+f992b4dfd58b ("arm64: kpti: Add ->enable callback to remap swapper using nG mappings")
+3060e9f0d14b ("arm64: Add software workaround for Falkor erratum 1041")
+1f911c3a1140 ("Merge branch 'for-next/52-bit-pa' into for-next/core")

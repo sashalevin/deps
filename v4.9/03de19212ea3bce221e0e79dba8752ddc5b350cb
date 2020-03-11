@@ -1,0 +1,7 @@
+03de19212ea3 ("mmc: dw_mmc: introduce timer for broken command transfer over scheme")
+4dba18defb4c ("mmc: dw_mmc: move mci_send_cmd forward to avoid declaration")
+8e6db1f65510 ("mmc: dw_mmc: move dw_mci_ctrl_reset forward to avoid declaration")
+4e7392b2ac6e ("mmc: dw_mmc: move dw_mci_reset forward to avoid declaration")
+b6d2d81c5c2d ("mmc: dw_mmc: improve the timeout polling code")
+0f21c58c63ad ("mmc: dw_mmc: Remove the public dw_mmc header file")
+a4cc7eb4416f ("mmc: dw_mmc: use the cookie's enum values for post/pre_req()")

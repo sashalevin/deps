@@ -1,0 +1,7 @@
+d8c2869300ab ("staging: vt6656: use meaningful error code during buffer allocation")
+beac4303532f ("Staging: vt6656: Fix unnecessary 'out of memory' message")
+f124a478575b ("staging: vt6656: Use variable instead of its type in sizeof(...)")
+c6bf6d2d202b ("staging:vt6656:main_usb.c Aligned code to match open parenthesis")
+68d81dea4fc1 ("staging: vt6656: main_usb: don't print error when allocating urb fails")
+3e0f86b33709 ("staging: vt6656: replace GFP_ATOMIC with GFP_KERNEL for urb allocation")
+27f31cf9f723 ("staging: vt6656: replace explicit NULL comparison with ! operator")

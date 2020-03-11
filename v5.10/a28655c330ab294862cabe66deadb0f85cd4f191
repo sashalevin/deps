@@ -1,0 +1,4 @@
+a28655c330ab ("efi: pstore: Allow dynamic initialization based on module parameter")
+859748255b43 ("efi: pstore: Omit efivars caching EFI varstore access layer")
+ec3507b2ca51 ("efi: vars: Don't drop lock in the middle of efivar_init()")
+8126b1c73108 ("pstore: Don't use semaphores in always-atomic-context code")

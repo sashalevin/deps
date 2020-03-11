@@ -1,0 +1,7 @@
+9fe7bfce8b3e ("virtio_net: refactor freeze/restore logic into virtnet reset logic")
+473153291b8a ("virtio_net: wrap rtnl_lock in test for calling with lock already held")
+672aafd5d88a ("virtio_net: add dedicated XDP transmit queues")
+f600b6905015 ("virtio_net: Add XDP support")
+a220871be66f ("virtio-net: correctly enable multiqueue")
+449000102901 ("virtio-net: enable multiqueue by default")
+d0c2c9973ecd ("net: use core MTU range checking in virt drivers")

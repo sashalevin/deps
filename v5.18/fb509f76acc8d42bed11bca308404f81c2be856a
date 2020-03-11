@@ -1,0 +1,5 @@
+fb509f76acc8 ("KVM: VMX: Make CR0.WP a guest owned bit")
+432727f1cb6e ("KVM: VMX: Always inline to_vmx() and to_kvm_vmx()")
+e8733482f59e ("KVM: VMX: don't use "unsigned long" in vmx_vcpu_enter_exit()")
+bb06650634d3 ("KVM: VMX: Convert launched argument to flags")
+8bd200d23ec4 ("KVM: VMX: Flatten __vmx_vcpu_run()")

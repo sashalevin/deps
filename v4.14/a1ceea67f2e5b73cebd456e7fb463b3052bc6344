@@ -1,0 +1,7 @@
+a1ceea67f2e5 ("PCI/IOV: Introduce pci_iov_sysfs_link() function")
+8c386cc81787 ("PCI/IOV: Fix memory leak in pci_iov_add_virtfn()")
+cf0921bea66c ("PCI/IOV: Use VF0 cached config registers for other VFs")
+0aa0f5d1084c ("PCI: Clean up whitespace in linux/pci.h, pci/pci.h")
+27d6162944b9 ("PCI: Create SR-IOV virtfn/physfn links before attaching driver")
+3142d832af10 ("PCI: Cache the VF device ID in the SR-IOV structure")
+753f61247181 ("PCI: Remove reset argument from pci_iov_{add,remove}_virtfn()")

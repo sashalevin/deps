@@ -1,0 +1,7 @@
+4e6f55120c7e ("drm/i915: Workaround broken BIOS DBUF configuration on TGL/RKL")
+d8d5afe35e3f ("drm/i915: Make active_pipes check skl specific")
+1d0a6c8486aa ("drm/i915: Extract skl SAGV checking")
+ecab0f3d055d ("drm/i915: Track active_pipes in bw_state")
+9728889f42b9 ("drm/i915: Use bw state for per crtc SAGV evaluation")
+680e1af713d9 ("drm/i915: Add pre/post plane updates for SAGV")
+a389c49fac55 ("drm/i915: Prepare to extract gen specific functions from intel_can_enable_sagv")

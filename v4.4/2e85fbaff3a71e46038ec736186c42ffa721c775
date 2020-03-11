@@ -1,0 +1,7 @@
+2e85fbaff3a7 ("block: Limit allocation of zone descriptors for report zones")
+327ea4adcfa3 ("blkdev_report_zones_ioctl(): Use vmalloc() to allocate large buffers")
+3ed05a987e0f ("blk-zoned: implement ioctls")
+6a0cb1bc106f ("block: Implement support for zoned block devices")
+797476b88bde ("block: Add 'zoned' queue limit")
+8ec2ef2b66ea ("blk_mq: linux/blk-mq.h does not include all the headers it depends on")
+973c4e372c8f ("blk-mq: provide a default queue mapping for PCI device")

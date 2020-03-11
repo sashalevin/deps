@@ -1,0 +1,8 @@
+f1d599d315fb ("video/aperture: Move vga handling to pci function")
+7450cd235b45 ("video/aperture: Only kick vgacon when the pdev is decoding vga")
+e0ba1a39b8df ("fbdev/core: Avoid uninitialized read in aperture_remove_conflicting_pci_device()")
+15fced5b051e ("fbdev: Remove conflict-handling code")
+482b1c7d4788 ("video/aperture: Remove conflicting VGA devices, if any")
+4652905f4e30 ("video: Provide constants for VGA I/O range")
+5e0137612430 ("video/aperture: Disable and unregister sysfb devices via aperture helpers")
+9d69ef183815 ("fbdev/core: Remove remove_conflicting_pci_framebuffers()")

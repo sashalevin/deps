@@ -1,1 +1,7 @@
 4ba7f80f4256 ("powerpc/boot: pass CONFIG options in a simpler and more robust way")
+264bffad4d08 ("powerpc/boot: Add lzo support for uImage")
+1cc9a21b0bb3 ("powerpc/boot: Add lzma support for uImage")
+423bfc69d7f4 ("powerpc: Enable kernel XZ compression option on 44x")
+e41b93a6be57 ("powerpc/boot: Fix build failures with -j 1")
+e8e132e68859 ("powerpc/boot: Disable vector instructions")
+5e9dcb6188a4 ("powerpc/boot: Expose Kconfig symbols to wrapper")

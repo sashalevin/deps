@@ -1,0 +1,8 @@
+817c968b79d0 ("f2fs: factor out a f2fs_map_no_dnode")
+0094e98bd147 ("f2fs: factor a f2fs_map_blocks_cached helper")
+cd8fc5226bef ("f2fs: remove the create argument to f2fs_map_blocks")
+cf342d3beda0 ("f2fs: add a f2fs_get_block_locked helper")
+e7547daccd6a ("f2fs: refactor extent_cache to support for read and more")
+749d543c0d45 ("f2fs: remove unnecessary __init_extent_tree")
+3bac20a8f011 ("f2fs: move internal functions into extent_cache.c")
+12607c1ba763 ("f2fs: specify extent cache for read explicitly")

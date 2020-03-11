@@ -1,0 +1,4 @@
+1e3f407f3cac ("net: dsa: first set up shared ports, then non-shared ports")
+e5845aa0eadd ("net: dsa: fix dsa_tree_setup error path")
+fd292c189a97 ("net: dsa: tear down devlink port regions when tearing down the devlink port on error")
+a57d8c217aad ("net: dsa: flush switchdev workqueue before tearing down CPU/DSA ports")

@@ -1,0 +1,6 @@
+29ffbca19e82 ("arm64: convert to setup_initial_init_mm()")
+e2a073dde921 ("arm64: omit [_text, _stext) from permanent kernel mapping")
+a2d50c1c77aa ("arm64: efi: increase EFI PE/COFF header padding to 64 KB")
+c756c592e442 ("arm64: Utilize phys_initrd_start/phys_initrd_size")
+20a004e7b017 ("arm64: mm: Use READ_ONCE/WRITE_ONCE when accessing page tables")
+15303ba5d1cd ("Merge tag 'kvm-4.16-1' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

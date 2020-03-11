@@ -1,0 +1,4 @@
+7544fd7f3845 ("PM / devfreq: Fix kernel oops on governor module load")
+b53b0128052f ("PM / devfreq: Fix static checker warning in try_then_request_governor")
+23c7b54ca1cd ("PM / devfreq: Fix devfreq_add_device() when drivers are built as modules.")
+73613b16cb5c ("PM / devfreq: Fix the bug of devfreq_add_device when governor is NULL")

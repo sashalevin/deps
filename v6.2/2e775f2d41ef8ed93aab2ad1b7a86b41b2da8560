@@ -1,0 +1,7 @@
+2e775f2d41ef ("drm/i915/display: update intel_dp_has_audio to support MST")
+1bd1817b68d7 ("drm/i915/display: combine DP audio compute config steps")
+28da4f833608 ("drm/i915/dp: stop caching has_audio in struct intel_dp")
+82ea22256b9c ("drm/i915: Drop useless intel_dp_has_audio() argument")
+5d986635e296 ("drm/i915/audio: Precompute the ELD")
+c7104c382b10 ("drm/i915/audio: Introduce a struct for the acomp audio state")
+8853750dbad8 ("drm/i915: Enable SDP split for DP2.0")

@@ -1,0 +1,5 @@
+476b30a0949a ("mm: vmscan: don't need allocate shrinker->nr_deferred for memcg aware shrinkers")
+41ca668a71e7 ("mm: vmscan: use a new flag to indicate shrinker is registered")
+2bfd36374edd ("mm: vmscan: consolidate shrinker_maps handling code")
+a3747b53b177 ("mm: memcontrol: kill mem_cgroup_nodeinfo()")
+a3d4c05a4474 ("mm: memcontrol: fix cpuhotplug statistics flushing")

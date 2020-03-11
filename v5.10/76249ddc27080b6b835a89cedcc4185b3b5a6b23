@@ -1,0 +1,5 @@
+76249ddc2708 ("powerpc/32: On syscall entry, enable instruction translation at the same time as data")
+eca2411040c1 ("powerpc/32: Always enable data translation on syscall entry")
+d5c243989fb0 ("powerpc/32: Fix vmap stack - Properly set r1 before activating MMU on syscall too")
+62182e6c0faf ("powerpc: Remove RFI macro")
+120c0518ec32 ("powerpc: Replace RFI by rfi on book3s/32 and booke")

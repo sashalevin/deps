@@ -1,0 +1,6 @@
+da0386c1c70d ("btrfs: fix folio refcount in btrfs_do_encoded_write()")
+400b172b8cdc ("btrfs: compression: migrate compression/decompression paths to folios")
+ae0d22a7fcb6 ("btrfs: migrate insert_inline_extent() to folio interfaces")
+eb1fa9ab4702 ("btrfs: make insert_inline_extent() accept one page directly")
+98fe01af7ebe ("btrfs: compression: convert page allocation to folio interfaces")
+6de3595473b0 ("btrfs: compression: add error handling for missed page cache")

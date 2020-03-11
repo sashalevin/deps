@@ -1,0 +1,7 @@
+0b57e0d44299 ("ice: Check if reset in progress while waiting for offsets")
+a69f1cb62aec ("ice: exit bypass mode once hardware finishes timestamp calibration")
+3a7496234d17 ("ice: implement basic E822 PTP support")
+b2ee72565cd0 ("ice: introduce ice_ptp_init_phc function")
+39b2810642e8 ("ice: use 'int err' instead of 'int status' in ice_ptp_hw.c")
+78267d0c9cab ("ice: introduce ice_base_incval function")
+4809671015a1 ("ice: Fix E810 PTP reset flow")

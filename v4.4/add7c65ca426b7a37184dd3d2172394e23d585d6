@@ -1,0 +1,7 @@
+add7c65ca426 ("pid: fix lockdep deadlock warning due to ucount_lock")
+f333c700c610 ("pidns: Add a limit on the number of pid namespaces")
+25f9c0817c53 ("userns: Generalize the user namespace count into ucount")
+f6b2db1a3e8d ("userns: Make the count of user namespaces per user")
+b376c3e1b677 ("userns: Add a limit on the number of user namespaces")
+dbec28460a89 ("userns: Add per user namespace sysctls.")
+b032132c3c21 ("userns: Free user namespaces in process context")

@@ -1,0 +1,7 @@
+9be34be87cc8 ("arm64: Add macro version of the BTI instruction")
+5318d3db465d ("crypto: arm64/aes-ctr - improve tail handling")
+2d21889f8b5c ("arm64: Don't insert a BTI instruction at inner labels")
+3a9b136c998f ("arm64: asm: Provide a mechanism for generating ELF note for BTI")
+714a8d02ca4d ("arm64: asm: Override SYM_FUNC_START when building the kernel with BTI")
+b8e505484e37 ("arm64: crypto: Modernize names for AES function macros")
+a78208e24369 ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

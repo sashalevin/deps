@@ -1,0 +1,8 @@
+0fd64e821377 ("drm/i915/dp: reduce missing TPS3 support errors to debug logging")
+bf039fa9357b ("drm/i915/dp: abstract training pattern selection")
+e588fa18c1cc ("drm/i915: Make intel_dp_source_supports_hbr2() take an intel_dp pointer")
+94223d041b07 ("drm/i915: Move generic link training code to a separate file")
+b905a9155db6 ("drm/i915: Move register write into intel_dp_set_signal_levels()")
+c1a5e9f69a40 ("drm/i915 Call get_adjust_train() from clock recovery and channel eq")
+e9c176d51198 ("drm/i915: Split write of pattern to DP reg from intel_dp_set_link_train")
+f4eb692e8edc ("drm/i915: Don't pass *DP around to link training functions")

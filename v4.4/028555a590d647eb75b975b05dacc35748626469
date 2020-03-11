@@ -1,0 +1,8 @@
+028555a590d6 ("powerpc/xive: fix hcall H_INT_RESET to support long busy delays")
+eac1e731b59e ("powerpc/xive: guest exploitation of the XIVE interrupt controller")
+102c05e8dc4f ("powerpc/pseries: Implement NMI IPI with H_SIGNAL_SYS_RESET")
+c64af6458e2e ("powerpc: Add struct smp_ops_t.cause_nmi_ipi operation")
+ddd703ca06ed ("powerpc: Add NMI IPI infrastructure")
+b866cc2199d6 ("powerpc: Change the doorbell IPI calling convention")
+243e25112d06 ("powerpc/xive: Native exploitation of the XIVE interrupt controller")
+b286cedd4730 ("Merge tag 'powerpc-4.11-2' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

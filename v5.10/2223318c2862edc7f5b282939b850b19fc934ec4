@@ -1,0 +1,6 @@
+2223318c2862 ("s390/qdio: remove 'merge_pending' mechanism")
+7940eaf2e956 ("s390/qdio: improve handling of PENDING buffers for QEBSM devices")
+540936df4438 ("s390/qdio: rework q->qdio_error indication")
+3bf526e036c9 ("s390/qdio: inline qdio_kick_handler()")
+ed645696e07a ("s390/qdio: remove qdio_inbound_q_moved() wrapper")
+1ecbcfd57ed6 ("s390/qdio: remove Input tasklet code")

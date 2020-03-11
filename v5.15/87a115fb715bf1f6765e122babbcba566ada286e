@@ -1,0 +1,5 @@
+87a115fb715b ("io_uring: force_nonspin")
+ef99b2d37666 ("block: replace the spin argument to blk_iopoll with a flags argument")
+c6699d6fe0ff ("blk-mq: factor out a "classic" poll helper")
+f70299f0d58e ("blk-mq: factor out a blk_qc_to_hctx helper")
+71fc3f5e2c00 ("block: don't try to poll multi-bio I/Os in __blkdev_direct_IO")

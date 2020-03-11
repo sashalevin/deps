@@ -1,0 +1,5 @@
+c3b0e880bbfa ("iomap: support REQ_OP_ZONE_APPEND")
+f550ee9b85fd ("iomap: Do not create fake iter in iomap_dio_bio_actor()")
+e9f930ac88a8 ("iomap: fix return value of iomap_dio_bio_actor on 32bit systems")
+65a60e8687c1 ("iomap: better document the IOMAP_F_* flags")
+7684e2c4384d ("iomap: iomap that extends beyond EOF should be marked dirty")

@@ -1,0 +1,7 @@
+b475d42d2c43 ("zsmalloc: replace per zpage lock with pool->migrate_lock")
+c4549b871102 ("zsmalloc: remove zspage isolation for migration")
+3ae92ac23bd8 ("zsmalloc: introduce obj_allocated")
+0a5f079b8107 ("zsmalloc: decouple class actions from zspage works")
+3828a7647079 ("zsmalloc: rename zs_stat_type to class_stat_type")
+67f1c9cd0c56 ("zsmalloc: introduce some helper functions")
+afe8605ca454 ("mm/zsmalloc.c: close race window between zs_pool_dec_isolated() and zs_unregister_migration()")

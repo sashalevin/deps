@@ -1,0 +1,6 @@
+8c1a595cc63e ("i40e: Record number TXes cleaned during NAPI")
+5574ff7b7b3d ("i40e: optimize AF_XDP Tx completion path")
+705639572e8c ("i40e: need_wakeup flag might not be set for Tx")
+3d0c5f1cd268 ("i40e: add support for AF_XDP need_wakeup feature")
+9116e5e2b1ff ("xsk: replace ndo_xsk_async_xmit with ndo_xsk_wakeup")
+c4cde5804d51 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

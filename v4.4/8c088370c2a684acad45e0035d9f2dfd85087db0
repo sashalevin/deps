@@ -1,0 +1,6 @@
+8c088370c2a6 ("watchdog: dw: save/restore control and timeout across suspend/resume")
+65a3b6935d92 ("watchdog: dw_wdt: get reset lines from dt")
+a70dcc016fed ("watchdog: dw_wdt: Use watchdog core to install restart handler")
+c97344f73fdc ("watchdog: dw_wdt: Read clock rate only once and validate it")
+f29a72c24ad4 ("watchdog: dw_wdt: Convert to use watchdog infrastructure")
+3024e0d13b0f ("watchdog: dw_wdt: fix signedness bug in dw_wdt_top_in_seconds()")

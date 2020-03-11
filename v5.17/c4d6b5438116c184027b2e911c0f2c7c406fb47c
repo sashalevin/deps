@@ -1,0 +1,6 @@
+c4d6b5438116 ("tracing/synthetic: Allocate one additional element for size")
+fc1a9dc10129 ("tracing/histogram: Don't use strlen to find length of stacktrace variables")
+288709c9f3b0 ("tracing: Allow stacktraces to be saved as histogram variables")
+5f2e094ed259 ("tracing: Allow multiple hitcount values in histograms")
+0934ae9977c2 ("tracing: Fix reading strings from synthetic events")
+86087383ec0a ("tracing/hist: Call hist functions directly via a switch statement")

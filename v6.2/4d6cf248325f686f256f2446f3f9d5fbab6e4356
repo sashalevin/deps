@@ -1,0 +1,6 @@
+4d6cf248325f ("kunit/usercopy: Disable testing on !CONFIG_MMU")
+cf6219ee889f ("usercopy: Convert test_user_copy to KUnit test")
+51104c19d857 ("kunit: test: Add vm_mmap() allocation resource manager")
+215199e3d9f3 ("hardening: Provide Kconfig fragments for basic options")
+e047c5eaa763 ("kunit: Expose 'static stub' API to redirect functions")
+7170b7ed6acb ("kunit: Add "hooks" to call into KUnit when it's built as a module")

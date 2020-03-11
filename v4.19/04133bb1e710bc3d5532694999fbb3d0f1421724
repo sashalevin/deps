@@ -1,0 +1,5 @@
+04133bb1e710 ("irqchip/stm32-exti: Add STM32MP13 support")
+9d6a5fe1757c ("irqchip/stm32-exti: Map direct event to irq parent")
+cfbf9e497094 ("irqchip/stm32: Use a platform driver for stm32mp1-exti device")
+fb94109b764e ("irqchip/stm32: protect configuration registers with hwspinlock")
+f9c75bca44d4 ("irqchhip: Convert to using %pOFn instead of device_node.name")

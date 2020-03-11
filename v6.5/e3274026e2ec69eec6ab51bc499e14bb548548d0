@@ -1,0 +1,7 @@
+e3274026e2ec ("SUNRPC: move all of xprt handling into svc_xprt_handle()")
+f208e9508ace ("SUNRPC: Count ingress RPC messages per svc_pool")
+c743b4259c3a ("SUNRPC: remove timeout arg from svc_recv()")
+7b719e2bf342 ("SUNRPC: change svc_recv() to return void.")
+f78116d3bf4f ("SUNRPC: call svc_process() from svc_recv().")
+390390240145 ("nfsd: don't allow nfsd threads to be signalled.")
+8db14cad28ae ("lockd: remove SIGKILL handling")

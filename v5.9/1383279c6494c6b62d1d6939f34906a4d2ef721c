@@ -1,0 +1,3 @@
+1383279c6494 ("KVM: x86: Allow guest to set EFER.NX=1 on non-PAE 32-bit kernels")
+255cbecfe0c9 ("KVM: x86: allocate vcpu->arch.cpuid_entries dynamically")
+f69858fcc727 ("KVM: x86: disconnect kvm_check_cpuid() from vcpu->arch.cpuid_entries")

@@ -1,0 +1,7 @@
+ec5d9e87842a ("PCI: Add pci_status_get_and_clear_errors")
+2856ba6020fc ("PCI: Introduce pci_real_dma_dev()")
+4e544bac8267 ("PCI: Add pci_dev_id() helper")
+235b2c776bc3 ("PCI/MSI: Assume MSIs use real Requester ID, not an alias")
+0a701aa63784 ("PCI: Add pcibios_default_alignment() for arch-specific alignment control")
+699c4cec2387 ("PCI/MSI: Remove pci_msi_domain_{alloc,free}_irqs()")
+47feb41888bc ("PCI/MSI: Remove unused pci_msi_create_default_irq_domain()")

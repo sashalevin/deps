@@ -1,0 +1,6 @@
+cca5de97aed7 ("btrfs: make find_desired_extent take btrfs_inode")
+a14b78ad06ab ("btrfs: introduce btrfs_inode_lock()/unlock()")
+b8d8e1fd570a ("btrfs: introduce btrfs_write_check()")
+c86537a42f86 ("btrfs: check FS error state bit early during write")
+5e8b9ef30392 ("btrfs: move pos increment and pagecache extension to btrfs_buffered_write")
+4e4cabece9f9 ("btrfs: split btrfs_direct_IO to read and write")

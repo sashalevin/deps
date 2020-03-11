@@ -1,0 +1,6 @@
+e83e73f5b0f8 ("rcu/nocb: Leave ->cblist enabled for no-CBs CPUs")
+ce5215c1342c ("rcu/nocb: Use separate flag to indicate offloaded ->cblist")
+1bb5f9b95afe ("rcu/nocb: Use separate flag to indicate disabled ->cblist")
+903ee83d9177 ("rcu: Account for nocb-CPU callback counts in RCU CPU stall warnings")
+5ab7ab8362fa ("rcutorture: Affinity forward-progress test to avoid housekeeping CPUs")
+b56ada120921 ("Merge branches 'doc.2018.08.30a', 'dynticks.2018.08.30b', 'srcu.2018.08.30b' and 'torture.2018.08.29a' into HEAD")

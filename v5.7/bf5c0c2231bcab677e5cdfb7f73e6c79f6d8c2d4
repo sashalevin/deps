@@ -1,0 +1,8 @@
+bf5c0c2231bc ("modpost: restore the warning message for missing symbol versions")
+4a6795933a89 ("kbuild: modpost: Explicitly warn about unprototyped symbols")
+5a438af9db2c ("modpost: add mod->is_vmlinux struct member")
+4ddea2f8e825 ("modpost: do not call get_modinfo() for vmlinux(.o)")
+f69315351960 ("modpost: drop RCS/CVS $Revision handling in MODULE_VERSION()")
+7e8a3235823b ("modpost: show warning if vmlinux is not found when processing modules")
+52c3416db00d ("modpost: track if the symbol origin is a dump file or ELF object")
+2beee8689974 ("modpost: load KBUILD_EXTRA_SYMBOLS files in order")

@@ -1,0 +1,4 @@
+cd9fdf5ae81c ("spi: coldfire-qspi: switch to use modern name")
+a90a987ebe00 ("spi: use devm_clk_get_enabled() in mcfqspi_probe()")
+9e264f3f85a5 ("spi: Replace all spi->chip_select and spi->cs_gpiod references with function call")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

@@ -1,0 +1,7 @@
+607c63195d63 ("mm/gup: drop gup_fast_folio_allowed() in hugepd processing")
+f002882ca369 ("mm: merge folio_is_secretmem() and folio_fast_pin_allowed() into gup_fast_folio_allowed()")
+65291dcfcf89 ("mm/secretmem: fix GUP-fast succeeding on secretmem folios")
+8f9ff2deb8b9 ("secretmem: convert page_is_secretmem() to folio_is_secretmem()")
+a6e79df92e4a ("mm/gup: disallow FOLL_LONGTERM GUP-fast writing to file-backed mappings")
+311150343e69 ("mm/gup: add missing gup_must_unshare() check to gup_huge_pgd()")
+84209e87c696 ("mm/gup: reliable R/O long-term pinning in COW mappings")

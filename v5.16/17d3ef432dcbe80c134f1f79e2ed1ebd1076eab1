@@ -1,0 +1,7 @@
+17d3ef432dcb ("mm: move debug checks from __vunmap to remove_vm_area")
+75c59ce74e47 ("mm: use remove_vm_area in __vunmap")
+39e65b7f6339 ("mm: move __remove_vm_area out of va_remove_mappings")
+edd898181e2f ("mm: vmalloc: avoid calling __find_vmap_area() twice in __vunmap()")
+899c6efe58db ("mm/vmalloc: extend __find_vmap_area() with one more argument")
+63840de29647 ("kasan, x86, arm64, s390: rename functions for modules shadow")
+60115fa54ad7 ("mm: defer kmemleak object creation of module_alloc()")

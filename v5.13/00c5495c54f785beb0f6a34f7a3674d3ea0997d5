@@ -1,0 +1,7 @@
+00c5495c54f7 ("zram: replace fsync_bdev with sync_blockdev")
+8c54499a59b0 ("zram: don't fail to remove zram during unloading module")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+7681750bd35f ("zram: convert to blk_alloc_disk/blk_cleanup_disk")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")

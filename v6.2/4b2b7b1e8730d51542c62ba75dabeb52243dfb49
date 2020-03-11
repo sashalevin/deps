@@ -1,0 +1,6 @@
+4b2b7b1e8730 ("leds: qcom-lpg: Make use of devm_pwmchip_alloc() function")
+9e314ded2832 ("leds: qcom-lpg: Introduce a wrapper for getting driver data from a pwm chip")
+9e1815f8c771 ("leds: qcom-lpg: Use devm_pwmchip_add() simplifying driver removal")
+606130209230 ("leds: Convert all platform drivers to return void")
+841165267827 ("leds: qcom-lpg: Drop assignment to struct pwmchip::base")
+96a2e242a5dc ("leds: flash: Add driver to support flash LED module in QCOM PMICs")

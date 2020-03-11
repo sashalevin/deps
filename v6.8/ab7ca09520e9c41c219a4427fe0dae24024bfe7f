@@ -1,0 +1,5 @@
+ab7ca09520e9 ("mm/slub: add check for s->flags in the alloc_tagging_slab_free_hook")
+3b89ec41747a ("mm/slub: avoid recursive loop with kmemleak")
+4b8736964640 ("mm/slab: add allocation accounting into slab allocation and free paths")
+21c690a349ba ("mm: introduce slabobj_ext to support slab object extensions")
+17cce771c5fc ("mm, slab: remove memcg_from_slab_obj()")

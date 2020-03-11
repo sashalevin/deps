@@ -1,0 +1,6 @@
+205c1d802683 ("fuse: allow parallel dio writes with FUSE_DIRECT_IO_ALLOW_MMAP")
+cb098dd24bab ("fuse: introduce inode io modes")
+e26ee4efbc79 ("fuse: allocate ff->release_args only if release is needed")
+9bbb6717dfd2 ("fuse: add fuse_dio_lock/unlock helper functions")
+699cf8246ee4 ("fuse: create helper function if DIO write needs exclusive lock")
+9511176bbaee ("fuse: fix VM_MAYSHARE and direct_io_allow_mmap")

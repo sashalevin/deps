@@ -1,0 +1,8 @@
+138a762e7f45 ("f2fs: convert __f2fs_write_meta_page() to use folio")
+e55561d278f2 ("f2fs: convert f2fs_do_write_meta_page() to use folio")
+92f750d847c9 ("f2fs: convert f2fs__page tracepoint class to use folio")
+96ea46f30b26 ("f2fs: convert f2fs_read_inline_data() to use folio")
+c9b3649a934d ("f2fs: fix to drop all dirty pages during umount() if cp_error is set")
+8358014d6be8 ("f2fs: avoid to check PG_error flag")
+34a23525601a ("f2fs: iostat: support accounting compressed IO")
+b87846bd61c7 ("f2fs: use memcpy_{to,from}_page() where possible")

@@ -1,0 +1,5 @@
+5588d039b5ea ("crypto: caam - add ahash_edesc_alloc() for descriptor allocation")
+bc13c69e2969 ("crypto: caam - check and use dma_map_sg() return code")
+64ce56cb44f8 ("crypto: caam - incorporate job descriptor into struct ahash_edesc")
+3d5a2db69557 ("crypto: caam - fix DMA API mapping leak")
+f9970c2865d3 ("crypto: caam - check return value of sg_nents_for_len")

@@ -1,0 +1,3 @@
+4eadb88244d1 ("ipmr: do not acquire mrt_lock while calling ip_mr_forward()")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")

@@ -1,0 +1,5 @@
+12c4d978fd17 ("x86/mm/tlb: Restructure switch_mm_irqs_off()")
+4012e77a903d ("x86/nmi: Fix NMI uaccess race against CR3 switching")
+18bf3c3ea8ec ("x86/speculation: Use Indirect Branch Prediction Barrier in context switch")
+48e111982cda ("x86/mm: Abstract switching CR3")
+50fb83a62cf4 ("x86/mm: Move the CR3 construction functions to tlbflush.h")

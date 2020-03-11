@@ -1,0 +1,7 @@
+4057e6ce3384 ("drm/amdkfd: add event_age tracking when receiving interrupt")
+74e4071665da ("drm/amdkfd: Use wait_queue_t to implement event waiting")
+ebf947fe93dd ("drm/amdkfd: remove redundant kfd_event_waiter.input_index")
+fe528c13acc7 ("drm/amdkfd: Fix event destruction with pending waiters")
+fdf0c8332a03 ("drm/amdkfd: Clean up kfd_wait_on_events")
+d9aeec4cbb58 ("drm/amdkfd: Fix scheduler race in kfd_wait_on_events sleep loop")
+1f9d09becb9a ("drm/amdkfd: Short cut for kfd_wait_on_events without waiting")

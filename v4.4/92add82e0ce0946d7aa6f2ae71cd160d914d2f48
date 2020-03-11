@@ -1,0 +1,8 @@
+92add82e0ce0 ("mmc: sdhci: Remove ->platform_init() callback as it's no longer used")
+5c59065be5a1 ("mmc: sdhci-pltfm: call platform_get_irq() before sdhci_alloc_host()")
+378382b8d09d ("mmc: sdhci-pltfm: move devm_ioremap_resource() up")
+e30568d43f5e ("mmc: sdhci-pltfm: use devm_ioremap_resource()")
+6113d8123624 ("mmc: sdhci-pltfm: use devm_ioremap()")
+e95f644d8b11 ("mmc: sdhci-pltfm: use devm_request_mem_region()")
+0a782cb1fc24 ("mmc: sdhci-pltfm: check return value of platform_get_irq()")
+0b2ed795e1f4 ("mmc: sdhci-pltfm: drop error message for too small MMIO resource size")

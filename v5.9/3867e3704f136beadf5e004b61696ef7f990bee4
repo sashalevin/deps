@@ -1,0 +1,8 @@
+3867e3704f13 ("amdgpu/pm: Create shared array of power profile name strings")
+828db598bfcd ("amdgpu/pm: Replace navi10 usage of sprintf with sysfs_emit")
+7aeef2aacccd ("drm/amd/swsmu: correct wrong feature bit mapping")
+e098bc9612c2 ("drm/amd/pm: optimize the power related source code layout")
+e9372d23715d ("drm/amd/powerplay: put those exposed power interfaces in amdgpu_dpm.c")
+20d3c28ce4e2 ("drm/amd/powerplay: optimize i2c bus access implementation")
+b89e9eb68165 ("drm/amd/powerplay: optimize amdgpu_dpm_set_clockgating_by_smu() implementation")
+f10bb940d8d2 ("drm/amd/powerplay: optimize the interface for mgpu fan boost enablement")

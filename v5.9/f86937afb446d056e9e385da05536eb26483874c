@@ -1,0 +1,5 @@
+f86937afb446 ("mmc: tmio: Remove obsolete .set_pwr() callback()")
+89f415b99050 ("mfd: tmio: Remove obsolete .set_clk_div() callback")
+58959f89dd3d ("mmc: tmio: add hook for custom busy_wait calculation")
+30ae3e13caea ("mmc: tmio: set max_busy_timeout")
+354f47b699ae ("mmc: tmio: add generic hook to fixup after a completed request")

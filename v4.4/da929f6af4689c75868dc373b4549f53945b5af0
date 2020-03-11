@@ -1,0 +1,4 @@
+da929f6af468 ("powerpc/mm: Evaluate user_mode(regs) only once in do_page_fault()")
+e8de85ca32f5 ("powerpc/mm: Only call store_updates_sp() on stores in do_page_fault()")
+a7a9dcd882a6 ("powerpc: Avoid taking a data miss on every userspace instruction miss")
+d7df2443cd5f ("powerpc/mm: Fix spurrious segfaults on radix with autonuma")

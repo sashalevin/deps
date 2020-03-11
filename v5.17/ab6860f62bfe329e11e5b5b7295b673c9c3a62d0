@@ -1,0 +1,7 @@
+ab6860f62bfe ("block: simplify the disk_force_media_change interface")
+b90ecc0379eb ("block: increment diskseq on all media change events")
+bb430b694226 ("loop: LOOP_CONFIGURE: send uevents for partitions")
+498ef5c777d9 ("loop: suppress uevents while reconfiguring the device")
+322cbb50de71 ("block: remove genhd.h")
+e7243285c0fc ("block: move blk_drop_partitions to blk.h")
+926597ffce0e ("block: move disk_{block,unblock,flush}_events to blk.h")

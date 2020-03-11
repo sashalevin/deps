@@ -1,0 +1,4 @@
+f53b9b0bdc59 ("netfilter: introduce support for reject at prerouting stage")
+7fc38225363d ("netfilter: reject: skip csum verification for protocols that don't support it")
+00b4422fe363 ("netfilter: Update nf_send_reset6 to consider L3 domain")
+89e1f6d2b956 ("netfilter: nft_reject: restrict to INPUT/FORWARD/OUTPUT")

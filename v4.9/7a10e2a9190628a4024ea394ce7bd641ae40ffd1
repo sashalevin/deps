@@ -1,0 +1,4 @@
+7a10e2a91906 ("x86: Use lockdep to assert IRQs are disabled/enabled")
+5ea0727b163c ("x86/syscalls: Check address limit on user-mode return")
+afb94c9e0b41 ("livepatch/x86: add TIF_PATCH_PENDING thread flag")
+3a404842547c ("x86/entry: define _TIF_ALLWORK_MASK flags explicitly")

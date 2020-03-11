@@ -1,0 +1,8 @@
+46ebef51fd92 ("powerpc/32s: Add _PAGE_WRITE to supplement _PAGE_RW")
+4634bf4455fe ("powerpc/603: Clear C bit when PTE is read only")
+ca8cc36901e9 ("powerpc/32s: Remove asm/book3s/32/hash.h")
+1b03e71ff6f2 ("powerpc/32s: Handle PROTFAULT in hash_page() also for CONFIG_PPC_KUAP")
+2e38ea486615 ("powerpc: Tidy up a bit after removal of PowerPC 601.")
+8b14e1dff067 ("powerpc: Remove support for PowerPC 601")
+ee36d867b2fe ("powerpc: Drop old comment about CONFIG_POWER")
+df4d4ef22446 ("powerpc/32s: Fix CONFIG_BOOK3S_601 uses")

@@ -1,0 +1,6 @@
+51287dcb00cc ("kasan: emit different calls for instrumentable memintrinsics")
+fc0e5b91dfe4 ("kasan: clean up comments in internal kasan.h")
+00a756133bb9 ("kasan: define KASAN_VMALLOC_INVALID for SW_TAGS")
+fe1ac91edb9a ("kasan: clean up metadata byte definitions")
+19532869feb9 ("kasan: always respect CONFIG_KASAN_STACK")
+77a63c69ec43 ("kasan: add memzero init for unaligned size at DEBUG")

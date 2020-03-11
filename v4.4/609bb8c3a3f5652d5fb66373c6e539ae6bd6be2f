@@ -1,0 +1,6 @@
+609bb8c3a3f5 ("RDMA/rxe: Change the is_user member of struct rxe_cq to bool")
+0c43ab371bcb ("RDMA/rxe: Use structs to describe the uABI instead of opencoding")
+bfc3ae05660e ("IB/rxe: Disable completion upcalls when a CQ is destroyed")
+32404fb76408 ("IB/rxe: Let the compiler check the type of the cleanup functions")
+8700e3e7c485 ("Soft RoCE driver")
+0194621b2253 ("IB/rdmavt: Create module framework and handle driver registration")

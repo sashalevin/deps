@@ -1,0 +1,3 @@
+98b74bb4d7e9 ("mm/hugetlb.c: fix UAF of vma in hugetlb fault pathway")
+37641efaa3fa ("hugetlb: check for anon_vma prior to folio allocation")
+9acad7ba3e25 ("hugetlb: use vmf_anon_prepare() instead of anon_vma_prepare()")

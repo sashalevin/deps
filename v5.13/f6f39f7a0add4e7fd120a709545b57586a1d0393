@@ -1,0 +1,3 @@
+f6f39f7a0add ("btrfs: rename btrfs_alloc_chunk to btrfs_create_chunk")
+79bd37120b14 ("btrfs: rework chunk allocation to avoid exhaustion of the system chunk array")
+1cb3db1cf383 ("btrfs: fix deadlock with concurrent chunk allocations involving system chunks")

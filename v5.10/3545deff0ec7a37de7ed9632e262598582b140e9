@@ -1,0 +1,7 @@
+3545deff0ec7 ("binfmt_elf: Honor PT_LOAD alignment for static PIE")
+2d4cf7b190bb ("binfmt_elf: Calculate total_size earlier")
+b57a2907c9d9 ("selftests/exec: Build both static and non-static load_address tests")
+c4095067736b ("selftests/exec: load_address: conform test to TAP format output")
+aeb7923733d1 ("revert "fs/binfmt_elf: use PT_LOAD p_align values for static PIE"")
+354e923df042 ("revert "fs/binfmt_elf: fix PT_LOAD p_align values for loaders"")
+23d1dea55520 ("Merge tag 'linux-kselftest-next-5.18-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-kselftest")

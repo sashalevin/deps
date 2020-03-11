@@ -1,0 +1,4 @@
+f0a4e62bb534 ("io_uring: Fix use of uninitialized ret in io_eventfd_register()")
+77bc59b49817 ("io_uring: avoid ring quiesce while registering/unregistering eventfd")
+d60aa65ba221 ("io_uring: merge CQ and poll waitqueues")
+aede728aae35 ("io_uring: don't wake sqpoll in io_cqring_ev_posted")

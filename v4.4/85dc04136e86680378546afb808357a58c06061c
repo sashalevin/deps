@@ -1,0 +1,8 @@
+85dc04136e86 ("arm64: PCI: Preserve firmware configuration when desired")
+3e8ba9686600 ("arm64: PCI: Allow resource reallocation if necessary")
+093d24a20442 ("arm64: PCI: Manage controller-specific data on per-controller basis")
+0cb0786bac15 ("ARM64: PCI: Support ACPI-based PCI host controller")
+2ab51ddeca2f ("ARM64: PCI: Add acpi_pci_bus_find_domain_nr()")
+1a4f93f7112f ("PCI: Factor DT-specific pci_bus_find_domain_nr() code out")
+9c7cb891ecfe ("PCI: Refactor pci_bus_assign_domain_nr() for CONFIG_PCI_DOMAINS_GENERIC")
+21266be9ed54 ("arch: consolidate CONFIG_STRICT_DEVM in lib/Kconfig.debug")

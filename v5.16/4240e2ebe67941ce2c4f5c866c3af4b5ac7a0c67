@@ -1,0 +1,5 @@
+4240e2ebe679 ("x86/MCE: Always save CS register on AMD Zen IF Poison errors")
+8ca97812c3c8 ("x86/mce: Work around an erratum on fast string copy instructions")
+75581a203e63 ("x86/mce: Move the tainting outside of the noinstr region")
+4fbce464db81 ("x86/mce: Allow instrumentation during task work queueing")
+cd5e0d1fc93a ("x86/mce: Do not use memset to clear the banks bitmaps")

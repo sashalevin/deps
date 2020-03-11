@@ -1,0 +1,5 @@
+0279400ad38d ("user_events: Optimize writing events by only copying data once")
+3207d0459ef3 ("user_events: Add basic perf and eBPF support")
+7f5a08c79df3 ("user_events: Add minimal support for trace_event into ftrace")
+726721a51838 ("tracing: Move synthetic events to a separate file")
+1b94b3aed367 ("tracing: Check state.disabled in synth event trace functions")

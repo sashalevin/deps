@@ -1,0 +1,7 @@
+6f3a81b60091 ("powerpc/code-patching: Remove protection against patching init addresses after init")
+84ecfe6f38ae ("powerpc/code-patching: Remove #ifdef CONFIG_STRICT_KERNEL_RWX")
+2f228ee1ade5 ("powerpc/code-patching: Consolidate and cache per-cpu patching context")
+c28c15b6d28a ("powerpc/code-patching: Use temporary mm for Radix MMU")
+071c95c1acbd ("powerpc/code-patching: Use WARN_ON and fix check in poking_init")
+8b4bb0ad00cb ("powerpc/code-patching: Speed up page mapping/unmapping")
+1acbf27e8a58 ("powerpc/code-patching: Inline is_offset_in_{cond}_branch_range()")

@@ -1,0 +1,4 @@
+85f195b12d8b ("kasan: test: fix test for new meminstrinsic instrumentation")
+f7e01ab828fd ("kasan: move tests to mm/kasan/")
+09eb911d9345 ("mm/kasan: remove unnecessary CONFIG_KASAN option")
+758cabae312d ("kasan: test: add memcpy test that avoids out-of-bounds write")

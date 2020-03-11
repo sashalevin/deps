@@ -1,0 +1,6 @@
+ad70f937e9d0 ("usb: core: hcd: remove support for initializing a single PHY")
+178a0bce05cb ("usb: core: hcd: integrate the PHY wrapper into the HCD core")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")
+a8c06e407ef9 ("usb: separate out sysdev pointer from usb_bus")
+d3d6ef1fb908 ("usb: host: ohci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")
+42a58c9949dd ("usb: host: ehci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")

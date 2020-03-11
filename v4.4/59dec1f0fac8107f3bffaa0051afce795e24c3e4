@@ -1,0 +1,8 @@
+59dec1f0fac8 ("regulator: max77650: Move max77651_SBB1_desc's declaration down")
+3df4235ac41c ("regulator: max77650: Convert MAX77651 SBB1 to pickable linear range")
+5fe0ed243796 ("regulator: max77650: Use unsigned int for max77651_sbb1_regulator_volt_table")
+6c98ac2a347f ("regulator: max77650: Convert to use regulator_set/get_current_limit_regmap")
+d3d1a6a72b23 ("regulator: max77650: Fix set_current_limit implementation")
+721efb504d28 ("regulator: max77650: Add missing .owner field in regulator_desc")
+bcc61f1c44fd ("regulator: max77650: add regulator support")
+5b1c20286fc9 ("regulator: max77620: add regulator driver for max77620/max20024")

@@ -1,0 +1,4 @@
+4980e837cab7 ("mm/pagemap: fix wr-protect even if PM_SCAN_WP_MATCHING not set")
+12f6b01a0bcb ("fs/proc/task_mmu: add fast paths to get/clear PAGE_IS_WRITTEN flag")
+52526ca7fdb9 ("fs/proc/task_mmu: implement IOCTL to get and optionally clear info about PTEs")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")

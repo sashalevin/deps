@@ -1,0 +1,4 @@
+d75e7f63b7c9 ("xen-blkback: fix compatibility bug with single page rings")
+ae78ca3cf3d9 ("xen/blkback: fix memory leaks")
+4a8c31a1c6f5 ("xen/blkback: rework connect_ring() to avoid inconsistent xenstore 'ring-page-order' set by malicious blkfront")
+5b8e432dbb0e ("xen/blkback: add stack variable 'blkif' in connect_ring()")

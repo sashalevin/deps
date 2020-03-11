@@ -1,0 +1,8 @@
+f886261735fc ("drm/i915/edp: always add fixed mode to probed modes in ->get_modes()")
+3dafe8a8532d ("drm/i915/display/dp: Attach and set drm connector VRR property")
+5b0c59454314 ("drm/i915/display/vrr: Create VRR file and add VRR capability check")
+4b3bb839873f ("drm/i915: Handle downstream facing ports w/o EDID")
+d079b7e4b638 ("drm/i915: Factor out HDCP shim functions from dp for use by dp_mst")
+f1c7a36b05ed ("drm/i915: Use ddi_update_pipe in intel_dp_mst")
+0b9c9290d1d1 ("drm/i915: Use the cpu_transcoder in intel_hdcp to toggle HDCP signalling")
+58418f0c0f70 ("drm/i915: Intercept Aksv writes in the aux hooks")

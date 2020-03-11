@@ -1,0 +1,5 @@
+9a2ae9f6b6bb ("KVM: x86: Zero the IOAPIC scan request dest vCPUs bitmap")
+7ee30bc132c6 ("KVM: x86: deliver KVM IOAPIC scan request to target vCPUs")
+b200dded0a69 ("KVM: x86: ioapic: Preserve read-only values in the redirection table")
+a8bfec293052 ("KVM: x86: ioapic: Clear Remote IRR when entry is switched to edge-triggered")
+ca8ab3f8959c ("KVM: x86: directly call kvm_make_scan_ioapic_request() in ioapic.c")

@@ -1,0 +1,4 @@
+6e6fee569d47 ("nvme-auth: remove the redundant req->cqe->result.u16 assignment operation")
+db1312dd9548 ("nvmet: implement basic In-Band Authentication")
+6490c9ed06de ("nvmet: parse fabrics commands on io queues")
+22027a981134 ("nvmet: replace ida_simple[get|remove] with the simler ida_[alloc|free]")

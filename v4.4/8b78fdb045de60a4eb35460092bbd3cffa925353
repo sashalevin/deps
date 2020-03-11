@@ -1,0 +1,4 @@
+8b78fdb045de ("powerpc/time: Use clockevents_register_device(), fixing an issue with large decrementer")
+115631c350bf ("powerpc/time: Set ->min_delta_ticks and ->max_delta_ticks")
+799010244685 ("powerpc/timer: Large Decrementer support")
+63e9e1c28fa6 ("powerpc/8xx: remove special handling of CPU6 errata in set_dec()")

@@ -1,0 +1,7 @@
+6030fd5fd1f7 ("mm: vmalloc: use trace_purge_vmap_area_lazy event")
+baa468a648b4 ("mm/vmalloc: fix typo in local variable name")
+96e2db456135 ("mm/vmalloc: rework the drain logic")
+9c801f61d0e9 ("mm/vmalloc.c: remove BUG() from the find_va_links()")
+5dd786409403 ("mm/vmalloc: simplify merge_or_add_vmap_area()")
+73f693c3a705 ("mm: remove vmalloc_sync_(un)mappings()")
+86cf69f1d893 ("x86/mm/32: implement arch_sync_kernel_mappings()")

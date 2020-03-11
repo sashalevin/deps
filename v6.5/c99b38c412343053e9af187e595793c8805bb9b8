@@ -1,0 +1,5 @@
+c99b38c41234 ("xhci: add support to allocate several interrupters")
+47f503cf5f79 ("xhci: split free interrupter into separate remove and free parts")
+28084d3fcc3c ("xhci: Use more than one Event Ring segment")
+044818a6cd80 ("xhci: Set DESI bits in ERDP register correctly")
+15f3ef070933 ("xhci: Clear EHB bit only at end of interrupt handler")

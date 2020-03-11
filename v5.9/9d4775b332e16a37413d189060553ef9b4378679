@@ -1,0 +1,5 @@
+9d4775b332e1 ("arm64: vdso32: enable orphan handling for VDSO")
+34688c76911e ("arm64: vdso: remove -nostdlib compiler flag")
+e2bba5f92354 ("arm64: vdso: disable .eh_frame_hdr via /DISCARD/ instead of --no-eh-frame-hdr")
+0fa97e9403c7 ("arm64: vdso32: Allow ld.lld to properly link the VDSO")
+a96843372331 ("kbuild: explicitly specify the build id style")

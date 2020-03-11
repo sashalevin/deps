@@ -1,0 +1,6 @@
+826d7bc9f013 ("fs/lock: skip lock owner pid translation in case we are in init_pid_ns")
+9d5b86ac13c5 ("fs/locks: Remove fl_nspid and use fs-specific l_pid for remote locks")
+0b6e9ea041e6 ("fuse: Add support for pid namespaces")
+4e8c2eb54327 ("fuse: convert fuse_file.count from atomic_t to refcount_t")
+267d84449f52 ("fuse: cleanup fuse_file refcounting")
+edadd0e5a7f9 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mszeredi/fuse")

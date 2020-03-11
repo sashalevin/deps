@@ -1,0 +1,6 @@
+8b5d46fd7a38 ("tracing/histogram: Optimize division by constants")
+f47716b7a955 ("tracing/histogram: Covert expr to const if both operands are constants")
+c5eac6ee8bc5 ("tracing/histogram: Simplify handling of .sym-offset in expressions")
+9710b2f341a0 ("tracing: Fix operator precedence for hist triggers expression")
+bcef04415032 ("tracing: Add division and multiplication support for hist triggers")
+52cfb373536a ("tracing: Add support for creating hist trigger variables from literal")

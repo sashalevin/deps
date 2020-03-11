@@ -1,0 +1,6 @@
+0081cdfe63f0 ("qxl: Make sure qxl_cursor memory is pinned")
+76a57db4a867 ("qxl: No need for NULL check before calling qxl_bo_unref()")
+889ad63d41ee ("drm/qxl: Call qxl_bo_unref outside atomic context")
+9428088c90b6 ("drm/qxl: reapply cursor after resetting primary")
+16c6db368873 ("drm/qxl: unref cursor bo when finished with it")
+62676d10b483 ("qxl: alloc & use shadow for dumb buffers")

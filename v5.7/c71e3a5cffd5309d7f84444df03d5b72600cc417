@@ -1,0 +1,7 @@
+c71e3a5cffd5 ("r8169: Fix possible ring buffer corruption on fragmented Tx packets.")
+bd4bdeb4f290 ("r8169: remove not needed check in rtl8169_start_xmit")
+83c317d7b36b ("r8169: remove nr_frags argument from rtl_tx_slots_avail")
+41294e6a434d ("r8169: improve rtl8169_start_xmit")
+ca1ab89cd2d6 ("r8169: improve rtl_tx")
+3a689e34973e ("r8169: remove unneeded memory barrier in rtl_tx")
+93882c6f210a ("r8169: switch from netif_xxx message functions to netdev_xxx")

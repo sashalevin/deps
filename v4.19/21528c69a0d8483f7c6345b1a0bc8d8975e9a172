@@ -1,0 +1,6 @@
+21528c69a0d8 ("rootfs: Fix support for rootfstype= when root= is given")
+037f11b4752f ("mnt_init(): call shmem_init() unconditionally")
+fd3e007f6c6a ("don't bother with registering rootfs")
+14a253ce4210 ("init_rootfs(): don't bother with init_ramfs_fs()")
+9bc61ab18b1d ("vfs: Introduce fs_context, switch vfs_kern_mount() to it.")
+505b050fdf42 ("Merge branch 'mount.part1' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

@@ -1,0 +1,5 @@
+b5e7307d9d5a ("arm64: fix dump_backtrace/unwind_frame with NULL tsk")
+a80a0eb70c35 ("arm64: make irq_stack_ptr more robust")
+20380bb390a4 ("arm64: ftrace: fix a stack tracer's output under function graph tracer")
+fe13f95b7200 ("arm64: pass a task parameter to unwind_frame()")
+132cd887b5c5 ("arm64: Modify stack trace and dump for use with irq_stack")

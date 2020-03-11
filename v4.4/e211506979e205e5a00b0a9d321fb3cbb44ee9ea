@@ -1,0 +1,7 @@
+e211506979e2 ("crypto: arm64/aes-blk - add a non-SIMD fallback for synchronous CTR")
+4860620da7e5 ("crypto: arm64/aes - add NEON/Crypto Extensions CBCMAC/CMAC/XCBC driver")
+7f329c17427b ("crypto: arm/aes-ce - fix broken monolithic build")
+585b5fa63da9 ("crypto: arm/aes - Select SIMD in Kconfig")
+d0ed0db149fc ("crypto: arm64/aes - Convert to skcipher")
+2db34e78f126 ("crypto: arm64/aes-ctr - fix NULL dereference in tail processing")
+70477371dc35 ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

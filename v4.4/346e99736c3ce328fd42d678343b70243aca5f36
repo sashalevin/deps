@@ -1,0 +1,7 @@
+346e99736c3c ("xhci: workaround for hosts missing CAS bit")
+0a380be8233d ("usb: host: xhci: add a new quirk XHCI_NO_64BIT_SUPPORT")
+0d46faca6f88 ("usb: xhci: applying XHCI_PME_STUCK_QUIRK to Intel BXT B0 host")
+ccc04afb72cd ("usb: xhci: apply XHCI_PME_STUCK_QUIRK to Intel Broxton-M platforms")
+7e70cbffe236 ("usb: xhci: add a quirk bit for ssic port unused")
+fa89537783cb ("usb: xhci: handle both SSIC ports in PME stuck quirk")
+0cbd4b34cda9 ("xhci: mediatek: support MTK xHCI host controller")

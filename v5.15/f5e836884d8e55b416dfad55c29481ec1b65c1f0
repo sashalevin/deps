@@ -1,0 +1,4 @@
+f5e836884d8e ("kernel: Drop IA64 support from sig_fault handlers")
+e349d945fac7 ("signal: Don't always set SA_IMMUTABLE for forced signals")
+00b06da29cf9 ("signal: Add SA_IMMUTABLE to ensure forced siganls do not get changed")
+26d5badbccdd ("signal: Implement force_fatal_sig")

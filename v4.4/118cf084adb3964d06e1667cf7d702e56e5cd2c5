@@ -1,0 +1,4 @@
+118cf084adb3 ("md: implement ->set_read_only to hook into BLKROSET processing")
+a564e23f0f99 ("md: switch to ->check_events for media change notifications")
+065e519e71b2 ("md: MD_CLOSING needs to be cleared after called md_set_readonly or do_md_stop")
+af8d8e6f0315 ("md: changes for MD_STILL_CLOSED flag")

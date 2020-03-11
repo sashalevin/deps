@@ -1,0 +1,7 @@
+6677f3dad874 ("KVM: nVMX: introduce struct nested_vmx_msrs")
+5b15706dbf5b ("kvm: vmx: Introduce VMCS12_MAX_FIELD_INDEX")
+575b3a2cb439 ("KVM: nVMX: Fix EPT switching advertising")
+72e9cbdb4338 ("KVM: nVMX: fix SMI injection in guest mode")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")
+736fdf72518b ("KVM: VMX: rename RDSEED and RDRAND vmx ctrls to reflect exiting")

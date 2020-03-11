@@ -1,0 +1,6 @@
+c3d77172dfc0 ("mm/vmalloc: eliminate an extra orig_gfp_mask")
+9376130c390a ("mm/vmalloc: add support for __GFP_NOFAIL")
+451769ebb7e7 ("mm/vmalloc: alloc GFP_NO{FS,IO} for vmalloc")
+c00b6b961099 ("mm/vmalloc: introduce alloc_pages_bulk_array_mempolicy to accelerate memory allocation")
+228f778e9730 ("mm/vmalloc: repair warn_alloc()s in __vmalloc_area_node()")
+343ab8178f31 ("mm/vmalloc: use batched page requests in bulk-allocator")

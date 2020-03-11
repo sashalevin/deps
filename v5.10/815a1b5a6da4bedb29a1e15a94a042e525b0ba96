@@ -1,0 +1,7 @@
+815a1b5a6da4 ("gpio: take the SRCU read lock in gpiod_hog()")
+2559f2e09211 ("gpio: reinforce desc->flags handling")
+be6736cc5423 ("gpiolib: demote the hogging log messages to debug")
+1cef8b501976 ("gpiolib: Get rid of redundant 'else'")
+e85860e5bc07 ("of: unittest: fix EXPECT text for gpio hog errors")
+2e202ad87336 ("gpiolib: cdev: fix frame size warning in gpio_ioctl()")
+6aa32ad70759 ("gpiolib: move bias related code from gpio_set_config() to gpio_set_bias()")

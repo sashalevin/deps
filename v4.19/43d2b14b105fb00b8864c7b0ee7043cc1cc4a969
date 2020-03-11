@@ -1,1 +1,6 @@
 43d2b14b105f ("Revert "KVM: MMU: zap pages in batch"")
+210f494261e1 ("Revert "KVM: MMU: collapse TLB flushes when zap all pages"")
+52d5dedc79bd ("Revert "KVM: MMU: reclaim the zapped-obsolete page first"")
+4771450c345d ("Revert "KVM: MMU: drop kvm_mmu_zap_mmio_sptes"")
+152482580a1b ("KVM: Call kvm_arch_memslots_updated() before updating memslots")
+3ff519f29d98 ("KVM: x86: adjust kvm_mmu_page member to save 8 bytes")

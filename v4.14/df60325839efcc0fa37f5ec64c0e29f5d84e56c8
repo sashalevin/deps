@@ -1,0 +1,6 @@
+df60325839ef ("pinctrl: sx150x: Convert to immutable irq_chip")
+0a04d767af8c ("pinctrl: sx150x: Use irqchip template")
+a9d9f6b83f1b ("pinctrl: sx150x: handle failure case of devm_kstrdup")
+b930151e5b55 ("pinctrl: sx150x: Add a static gpio/pinctrl pin range mapping")
+1a1d39e1b8dd ("pinctrl: sx150x: Register pinctrl before adding the gpiochip")
+0657cb50b5a7 ("pinctrl: sx150x: Unregister the pinctrl on release")

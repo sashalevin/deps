@@ -1,0 +1,5 @@
+dd62abd2d84d ("s390/qdio: clean up cdev access in qdio_setup_irq()")
+313dc689b16c ("s390/qdio: let drivers opt-out from Output Queue scanning")
+f85b2b297c16 ("s390/qdio: clean up pci_out_supported()")
+2e68adcd2fb2 ("s390/qdio: don't release memory in qdio_setup_irq()")
+7eee12b44eb4 ("s390/qdio: lock device while installing IRQ handler")

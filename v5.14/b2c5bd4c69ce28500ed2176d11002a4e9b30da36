@@ -1,0 +1,6 @@
+b2c5bd4c69ce ("kasan: migrate workqueue_uaf test to kunit")
+8516e837cab0 ("kasan: migrate kasan_rcu_uaf test to kunit")
+f7e01ab828fd ("kasan: move tests to mm/kasan/")
+09eb911d9345 ("mm/kasan: remove unnecessary CONFIG_KASAN option")
+1a2473f0cbc0 ("kasan: improve vmalloc tests")
+f16de0bcdb55 ("kasan: test: avoid corrupting memory in kasan_rcu_uaf")

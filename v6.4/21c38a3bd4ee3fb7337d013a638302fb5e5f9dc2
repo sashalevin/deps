@@ -1,0 +1,5 @@
+21c38a3bd4ee ("cgroup/rstat: add cgroup_rstat_cpu_lock helpers and tracepoints")
+fc29e04ae1ad ("cgroup/rstat: add cgroup_rstat_lock helpers and tracepoints")
+d499fd418fa1 ("cgroup/rstat: Optimize cgroup_rstat_updated_list()")
+e76d28bdf9ba ("cgroup/rstat: Reduce cpu_lock hold time in cgroup_rstat_flush_locked()")
+0a2dc6ac3329 ("cgroup: remove cgroup_rstat_flush_atomic()")

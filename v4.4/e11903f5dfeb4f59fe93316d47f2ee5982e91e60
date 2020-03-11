@@ -1,0 +1,8 @@
+e11903f5dfeb ("lightnvm: refactor device ops->get_bb_tbl()")
+5136061ce705 ("lightnvm: introduce nvm_for_each_lun_ppa() macro")
+22e8c9766a66 ("lightnvm: move block fold outside of get_bb_tbl()")
+1145e6351a9f ("lightnvm: implement nvm_submit_ppa_list")
+ecfb40c6aa56 ("lightnvm: handle submit_io failure")
+57aac2f1be4a ("lightnvm: fix "warning: ‘ret’ may be used uninitialized"")
+d5bdec8ddb9f ("lightnvm: fold get bb tbl when using dual/quad plane mode")
+3e1e21c7bfcf ("Merge branch 'for-4.5/nvme' of git://git.kernel.dk/linux-block")

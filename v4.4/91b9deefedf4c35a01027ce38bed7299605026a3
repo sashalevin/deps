@@ -1,0 +1,5 @@
+91b9deefedf4 ("spi: omap2-mcspi: Add missing suspend and resume calls")
+d073bfa56bb7 ("spi: omap2-mcspi: Remove unnecessary pm_runtime_force_suspend()")
+5a686b2c9ed4 ("spi: omap2-mcspi: Idle hardware during suspend and resume")
+52e9a5bb4545 ("spi: omap2-mcspi: Restore context always in runtime_resume")
+beca365565d8 ("spi: omap2-mcspi: Add calls for pinctrl state select")

@@ -1,0 +1,5 @@
+6a3207395563 ("fs, block: remove bdev->bd_super")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")

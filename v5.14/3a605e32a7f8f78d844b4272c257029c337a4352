@@ -1,0 +1,4 @@
+3a605e32a7f8 ("nvme: drop unused variable ctrl in nvme_setup_cmd")
+a2941f6aa71a ("nvme: add command id quirk for apple controllers")
+e7006de6c238 ("nvme: code command_id with a genctr for use-after-free validation")
+3b01a9d0caa8 ("nvme-tcp: don't check blk_mq_tag_to_rq when receiving pdu data")

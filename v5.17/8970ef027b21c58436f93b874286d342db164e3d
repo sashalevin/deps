@@ -1,0 +1,6 @@
+8970ef027b21 ("x86/fpu/xstate: Introduce CET MSR and XSAVES supervisor states")
+48280042f2c6 ("x86/fpu/xstate: Fix XSTATE_WARN_ON() to emit relevant diagnostics")
+8ad7e8f69695 ("x86/fpu/xsave: Support XSAVEC in the kernel")
+7aa5128b5fea ("x86/fpu/xsave: Handle compacted offsets correctly with supervisor states")
+6afbb58cc225 ("x86/fpu: Cache xfeature flags from CPUID")
+d47f71f6de79 ("x86/fpu: Remove unused supervisor only offsets")

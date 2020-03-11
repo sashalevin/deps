@@ -1,0 +1,8 @@
+392a53246257 ("x86: kvm: x86: Remove unnecessary initial values of variables")
+aca352886ebd ("KVM: x86: Hoist input checks in kvm_add_msr_filter()")
+b318e8decf6b ("KVM: x86: Protect userspace MSR filter with SRCU, and set atomically-ish")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+fe6b6bc802b4 ("KVM: VMX: Enable bus lock VM exit")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

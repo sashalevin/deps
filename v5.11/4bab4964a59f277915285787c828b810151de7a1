@@ -1,0 +1,6 @@
+4bab4964a59f ("mm: memory_hotplug: disable memmap_on_memory when hugetlb_free_vmemmap enabled")
+e9fdff87e893 ("mm: hugetlb: add a kernel parameter hugetlb_free_vmemmap")
+b65d4adbc0f0 ("mm: hugetlb: defer freeing of HugeTLB pages")
+f41f2ed43ca5 ("mm: hugetlb: free the vmemmap pages associated with each HugeTLB page")
+426e5c429d16 ("mm: memory_hotplug: factor out bootmem core functions to bootmem_info.c")
+939b7cbc0090 ("Merge tag 'riscv-for-linus-5.13-mw0' of git://git.kernel.org/pub/scm/linux/kernel/git/riscv/linux")

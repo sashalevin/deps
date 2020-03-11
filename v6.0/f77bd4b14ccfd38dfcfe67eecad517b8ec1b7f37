@@ -1,0 +1,8 @@
+f77bd4b14ccf ("mm: memcg: don't call propagate_protected_usage() needlessly")
+05dfec123dde ("mm: memcg: guard memcg1-specific fields accesses in mm/memcontrol.c")
+17c56de6a8c9 ("mm, memcg: Prevent memory.oom_control load/store tearing")
+82b3aa2681ca ("mm, memcg: Prevent memory.swappiness load/store tearing")
+8278f1c7b492 ("memcg: reduce size of memcg vmstats structures")
+d396def5d86d ("memcg: rearrange code")
+410f8e82689e ("memcg: extract memcg_vmstats from struct mem_cgroup")
+408587baee39 ("mm: page_counter: rearrange struct page_counter fields")

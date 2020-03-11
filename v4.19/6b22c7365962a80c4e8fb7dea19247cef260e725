@@ -1,0 +1,4 @@
+6b22c7365962 ("riscv: Use do_kernel_power_off()")
+f2928e224d85 ("riscv: set default pm_power_off to NULL")
+405945588fee ("riscv: export pm_power_off again")
+bf0102a0fdd9 ("riscv: call pm_power_off from machine_halt / machine_power_off")

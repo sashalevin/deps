@@ -1,0 +1,7 @@
+d484735dcf92 ("net: virtio: switch to netif_napi_add_weight()")
+8d602e1a132e ("net: move snowflake callers to netif_napi_add_tx_weight()")
+bbbe6ecbc36d ("eth: gfar: remove a copy of the NAPI_POLL_WEIGHT define")
+8eda54c5e6c4 ("gianfar: Drop GFAR_MQ_POLLING support")
+7d993c5f86aa ("gianfar: remove forward declarations")
+6211d46713c5 ("gianfar: Add change_carrier() for Fixed PHYs")
+e561bb29b650 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

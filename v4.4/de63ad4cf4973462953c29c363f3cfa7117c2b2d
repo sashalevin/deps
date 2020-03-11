@@ -1,0 +1,6 @@
+de63ad4cf497 ("KVM: X86: implement the logic for spinlock optimization")
+199b5763d329 ("KVM: add spinlock optimization framework")
+0f89b207b04a ("kvm: svm: Use the hardware provided GPA instead of page walk")
+cc0d907c0907 ("kvm: take srcu lock around kvm_steal_time_set_preempted()")
+931f261b42f1 ("kvm: fix schedule in atomic in kvm_steal_time_set_preempted()")
+93173b5bf284 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

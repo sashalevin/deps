@@ -1,0 +1,6 @@
+b0a284dc65b4 ("Drivers: hv: make sure that 'struct vmbus_channel_message_header' compiles correctly")
+cd95aad55793 ("Drivers: hv: vmbus: handle various crash scenarios")
+d452ab7b4c65 ("Drivers: hv: vmbus: avoid unneeded compiler optimizations in vmbus_wait_for_unload()")
+0f70b66975ce ("Drivers: hv: vmbus: remove code duplication in message handling")
+7be3e169444d ("Drivers: hv: vmbus: don't loose HVMSG_TIMER_EXPIRED messages")
+415719160de3 ("Drivers: hv: vmbus: avoid scheduling in interrupt context in vmbus_initiate_unload()")

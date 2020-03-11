@@ -1,0 +1,4 @@
+2d7e935809b7 ("io_uring: inline io_async_submit()")
+f13fad7ba41c ("io_uring: pass down completion state on the issue side")
+bcf5a06304d6 ("io_uring: support true async buffered reads, if file provides it")
+ac8691c415e0 ("io_uring: always plug for any number of IOs")

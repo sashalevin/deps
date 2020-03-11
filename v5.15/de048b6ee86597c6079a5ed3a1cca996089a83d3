@@ -1,0 +1,5 @@
+de048b6ee865 ("libbpf: Resolve enum fwd as full enum64 and vice versa")
+2ef2026349cf ("libbpf: Add enum64 deduplication support")
+2dc1e488e5cd ("libbpf: Support BTF_KIND_TYPE_TAG")
+957d350a8b94 ("libbpf: Turn btf_dedup_opts into OPTS-based struct")
+557c8c480401 ("selftests/bpf: Test deduplication for BTF_KIND_DECL_TAG typedef")

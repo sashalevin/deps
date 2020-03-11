@@ -1,0 +1,8 @@
+30188bd7838c ("rtnetlink: Reject negative ifindexes in RTM_NEWLINK")
+6f37c9f9dfbf ("Revert "rtnetlink: return EINVAL when request cannot succeed"")
+b6177d3240a4 ("rtnetlink: return EINVAL when request cannot succeed")
+5ea08b5286f6 ("rtnetlink: enable alt_ifname for setlink/newlink")
+ef2a7c9065ce ("rtnetlink: return ENODEV when ifname does not exist and group is given")
+96a6b93b6988 ("rtnetlink: Return correct error on changing device netns")
+0854fa82c96c ("net: remove the new_ifindex argument from dev_change_net_namespace")
+eeb85a14ee34 ("net: Allow to specify ifindex when device is moved to another namespace")

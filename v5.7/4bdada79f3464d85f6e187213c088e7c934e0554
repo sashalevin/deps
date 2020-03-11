@@ -1,0 +1,7 @@
+4bdada79f346 ("sched: Simplify sched_exec()")
+3aef1551e942 ("sched: Remove select_task_rq()'s sd_flag parameter")
+af449901b84c ("sched: Add migrate_disable()")
+9cfc3e18adb0 ("sched: Massage set_cpus_allowed()")
+ce3614daabea ("sched: Fix unreliable rseq cpu_id for new tasks")
+fd844ba9ae59 ("sched/core: Check cpus_mask, not cpus_ptr in __set_cpus_allowed_ptr(), to fix mask corruption")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

@@ -1,0 +1,4 @@
+0c979e6b55f9 ("net: stmmac: dwmac-loongson: Drop pci_enable/disable_msi calls")
+fe5b3ce8b437 ("stmmac: dwmac-loongson: fix missing pci_disable_device() in loongson_dwmac_probe()")
+f2d45fdf9a0e ("stmmac: dwmac-loongson: fix missing pci_disable_msi() while module exiting")
+5289de5929d1 ("stmmac: dwmac-loongson:Fix missing return value")

@@ -1,0 +1,6 @@
+4e94ee80e197 ("btrfs: remove do_list variable at btrfs_clear_delalloc_extent()")
+bdc0f89e068a ("btrfs: reduce inode lock critical section when setting and clearing delalloc")
+f4f15454fa42 ("btrfs: rename btrfs_add_delalloc_inodes() to singular form")
+f23f89524b33 ("btrfs: assert root delalloc lock is held at __btrfs_del_delalloc_inode()")
+f5169f12d7ea ("btrfs: stop passing root argument to __btrfs_del_delalloc_inode()")
+8a46e55a6cbb ("btrfs: stop passing root argument to btrfs_add_delalloc_inodes()")

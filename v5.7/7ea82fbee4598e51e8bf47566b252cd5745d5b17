@@ -1,0 +1,7 @@
+7ea82fbee459 ("perf stat: Use perf_cpu_map__for_each_cpu()")
+ab90caa7b2d0 ("perf stat: Rename aggr_data cpu to imply it's an index")
+2760f5a14fe7 ("perf stat: Replace aggregation ID with a struct")
+91585846f105 ("perf cpumap: Use existing allocator to avoid using malloc")
+23331eeb731a ("perf tests: Improve topology test to check all aggregation types")
+313146a84418 ("perf stat: Fix out of bounds array access in the print_counters() evlist method")
+5eb88f0476ab ("perf evsel: Rename perf_evsel__nr_cpus() to evsel__nr_cpus()")

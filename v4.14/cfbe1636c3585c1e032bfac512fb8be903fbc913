@@ -1,0 +1,4 @@
+cfbe1636c358 ("mm, kcsan: instrument SLAB/SLUB free with "ASSERT_EXCLUSIVE_ACCESS"")
+c3895391df38 ("kasan, slub: fix handling of kasan_slab_free hook")
+ee3ce779b58c ("kasan: don't use __builtin_return_address(1)")
+47adccce3e8a ("kasan: detect invalid frees for large objects")

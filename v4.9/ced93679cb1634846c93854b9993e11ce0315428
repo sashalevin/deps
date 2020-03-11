@@ -1,0 +1,8 @@
+ced93679cb16 ("cifs: remove rfc1002 header from smb2_lock_req")
+7fb8986e7449 ("CIFS: Add capability to transform requests before sending")
+b8f57ee8aad4 ("CIFS: Separate RFC1001 length processing for SMB2 read")
+cb200bd6264a ("CIFS: Separate SMB2 sync header processing")
+738f9de5cdb9 ("CIFS: Send RFC1001 length in a separate iov")
+fb2036d81758 ("CIFS: Make send_cancel take rqst as argument")
+da502f7df03d ("CIFS: Make SendReceive2() takes resp iov")
+31473fc4f965 ("CIFS: Separate SMB2 header structure")

@@ -1,0 +1,5 @@
+8fde0248a32d ("drm/amdkfd: Use atomic64_t type for pdd->tlb_seq")
+bffa91dadf59 ("drm/amdkfd: start using tlb_seq from the VM subsystem")
+b40a6ab2cf92 ("drm/amdkfd: Use drm_priv to pass VM from KFD to amdgpu")
+f45e6b9d03ff ("drm/amdkfd: Remove legacy code not acquiring VMs")
+6ae2784114c0 ("drm/amdgpu: replace per_device_list by array")

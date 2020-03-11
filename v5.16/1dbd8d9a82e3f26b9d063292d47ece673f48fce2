@@ -1,0 +1,6 @@
+1dbd8d9a82e3 ("ipvs: use u64_stats_t for the per-cpu counters")
+d120d1a63b2c ("net: Remove the obsolte u64_stats_fetch_*_irq() users (net).")
+c6cce71e7468 ("drop_monitor: adopt u64_stats_t")
+958751e0807d ("devlink: adopt u64_stats_t")
+9962acefbcb9 ("net: adopt u64_stats_t in struct pcpu_sw_netstats")
+09cca53c1656 ("vlan: adopt u64_stats_t")

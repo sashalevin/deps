@@ -1,0 +1,8 @@
+65901a9e7058 ("ath10k: do not check if reset is NULL")
+c5d8a34675d9 ("ath10k: use devm_reset_control_get() instead of reset_control_get()")
+14854bfd9daa ("ath10k: add reset ctrl related functions in ahb")
+8beff219c528 ("ath10k: add clock ctrl related functions in ahb")
+7f8e79cdc253 ("ath10k: add helper functions in ahb.c for reg rd/wr")
+0b523ced9a3c ("ath10k: add basic skeleton to support ahb")
+4ddb3299aa49 ("ath10k: make ath10k_pci_read32/write32() ops more generic")
+f52f517189de ("ath10k: make some of ath10k_pci_* func reusable")

@@ -1,0 +1,6 @@
+0f2c7af45d7e ("gpio: mxc: Convert the driver to DT-only")
+123ac0e5356c ("drivers: gpio: mxc: use devm_platform_ioremap_resource()")
+c19fdaeea0aa ("gpio: mxc: add power management support")
+2808801aab8a ("gpio: mxc: add clock operation")
+db5270acaae5 ("gpio: mxc: use devres for irq generic chip")
+90e1fc4c4ccf ("gpio: mxc: disallow unbinding the driver")

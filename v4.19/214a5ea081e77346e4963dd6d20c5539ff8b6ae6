@@ -1,0 +1,3 @@
+214a5ea081e7 ("cifs: do not fail __smb_send_rqst if non-fatal signals are pending")
+6988a619f5b7 ("cifs: allow syscalls to be restarted in __smb_send_rqst()")
+b30c74c73c78 ("CIFS: Mask off signals when sending SMB packets")

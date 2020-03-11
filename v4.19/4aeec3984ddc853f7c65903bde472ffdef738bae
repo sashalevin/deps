@@ -1,0 +1,8 @@
+4aeec3984ddc ("vfio/pci: Re-order vfio_pci_probe()")
+61e908174828 ("vfio/pci: Move VGA and VF initialization to functions")
+b66574a3fb32 ("vfio/pci: Cleanup .probe() exit paths")
+137e5531351d ("vfio/pci: Add sriov_configure support")
+cc20d7999000 ("vfio/pci: Introduce VF token")
+467c084f9ad3 ("vfio/pci: Implement match ops")
+51ef3a004b1e ("vfio/pci: Restore device state on PM transition")
+e309df5b0c9e ("vfio/pci: Parallelize device open and release")

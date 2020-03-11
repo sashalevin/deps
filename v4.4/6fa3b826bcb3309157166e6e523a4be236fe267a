@@ -1,0 +1,4 @@
+6fa3b826bcb3 ("stop_machine: Kill cpu_stop_done->executed")
+4aff1ca6970a ("stop_machine: Change __stop_cpus() to rely on cpu_stop_queue_work()")
+958c5f848e17 ("stop_machine: Change stop_one_cpu() to rely on cpu_stop_queue_work()")
+6a19005157c4 ("stop_machine: Don't disable preemption in stop_two_cpus()")

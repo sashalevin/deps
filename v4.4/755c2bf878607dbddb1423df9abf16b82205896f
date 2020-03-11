@@ -1,0 +1,4 @@
+755c2bf87860 ("KVM: x86: lapic: don't touch irr_pending in kvm_apic_update_apicv when inhibiting it")
+b26a695a1d78 ("kvm: lapic: Introduce APICv update helper function")
+d62caabb41f3 ("kvm/x86: per-vcpu apicv deactivation support")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

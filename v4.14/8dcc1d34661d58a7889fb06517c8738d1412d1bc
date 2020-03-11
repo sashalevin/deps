@@ -1,0 +1,3 @@
+8dcc1d34661d ("kasan: don't tag stacks allocated with pagealloc")
+1bf4580e00a2 ("fork,memcg: alloc_thread_stack_node needs to set tsk->stack")
+5eed6f1dff87 ("fork,memcg: fix crash in free_thread_stack on memcg charge fail")

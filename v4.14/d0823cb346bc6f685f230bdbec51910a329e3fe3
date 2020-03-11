@@ -1,0 +1,4 @@
+d0823cb346bc ("KVM: arm/arm64: vgic: Do not use spin_lock_irqsave/restore with irq disabled")
+bf9a41377d14 ("KVM: arm/arm64: vgic: Kick new VCPU on interrupt migration")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")

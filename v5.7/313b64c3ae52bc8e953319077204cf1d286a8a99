@@ -1,0 +1,6 @@
+313b64c3ae52 ("PCI: xilinx: Convert to MSI domains")
+161260e7f7bc ("PCI: xilinx: Don't allocate extra memory for the MSI capture address")
+077ee78e3928 ("PCI/MSI: Make arch_.*_msi_irq[s] fallbacks selectable")
+49169c255c99 ("PCI: xilinx: Use pci_is_root_bus() to check if bus is root bus")
+78aada4b05bd ("PCI: xilinx: Use pci_host_probe() to register host")
+a18f4b6ea50b ("PCI: rcar: Rename pcie-rcar.c to pcie-rcar-host.c")

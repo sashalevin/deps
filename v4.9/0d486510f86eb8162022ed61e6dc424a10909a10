@@ -1,0 +1,8 @@
+0d486510f86e ("dentry.h: trim externs")
+9bdebc2bd1c4 ("Teach shrink_dcache_parent() to cope with mixed-filesystem shrink lists")
+ab1152dd5650 ("unexport d_alloc_pseudo()")
+5467a68cbf68 ("dcache: sort the freeing-without-RCU-delay mess for good.")
+1a16dbaf798c ("Document d_splice_alias() calling conventions for ->lookup() users.")
+5014c2f378ca ("document alloc_file() changes")
+6c9b1de172bd ("document ->atomic_open() changes")
+06c86e66d6c2 ("Merge branch 'work.dcache' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

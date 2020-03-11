@@ -1,0 +1,4 @@
+34c86f4c4a7b ("crypto: af_alg - fix use-after-free in af_alg_accept() due to bh_lock_sock()")
+37f96694cf73 ("crypto: af_alg - Use bh_lock_sock in sk_destruct")
+6d0d6cfb12e5 ("crypto: af_alg - remove redundant initializations of sk_family")
+2a2a251f1105 ("crypto: algif_aead - Require setkey before accept(2)")

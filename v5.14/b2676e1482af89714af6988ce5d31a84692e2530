@@ -1,0 +1,7 @@
+b2676e1482af ("dm writecache: count number of blocks written, not number of write bios")
+2c6e755b49d2 ("dm writecache: count number of blocks read, not number of read bios")
+9bc0c92e4b82 ("dm writecache: return void from functions")
+e3a35d03407c ("dm writecache: add event counters")
+15cb6f39dbaf ("dm writecache: further writecache_map() cleanup")
+4d020b3a2907 ("dm writecache: factor out writecache_map_remap_origin()")
+cdd4d7832d51 ("dm writecache: split up writecache_map() to improve code readability")

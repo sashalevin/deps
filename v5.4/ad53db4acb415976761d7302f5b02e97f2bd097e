@@ -1,0 +1,3 @@
+ad53db4acb41 ("powerpc/imc-pmu: Revert nest_init_lock to being a mutex")
+76d588dddc45 ("powerpc/imc-pmu: Fix use of mutex in IRQs disabled section")
+a36e8ba60b99 ("powerpc/perf: Implement a global lock to avoid races between trace, core and thread imc events.")

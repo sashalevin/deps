@@ -1,0 +1,5 @@
+2f36028ce98e ("IB/uverbs: Use u64_to_user_ptr() not a union")
+6c976c30ad1c ("IB/uverbs: Use inline data transfer for UHW_IN")
+89d9e8d3f14d ("IB/uverbs: Always use the attribute size provided by the user")
+cb9fd89f9133 ("RDMA/core: avoid uninitialized variable warning in create_udata")
+12f727721eee ("IB/uverbs: clean up INIT_UDATA_BUF_OR_NULL usage")

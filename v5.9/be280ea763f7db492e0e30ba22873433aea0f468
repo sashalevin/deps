@@ -1,0 +1,5 @@
+be280ea763f7 ("iommu/amd: Fix compile warning in init code")
+a8d4a37d1bb9 ("iommu/amd: Restore GA log/tail pointer on host resume")
+eb03f2d2f6a4 ("iommu/amd: Remove iommu_init_ga()")
+c3811a50addd ("iommu/amd: Relocate GAMSup check to early_enable_iommus")
+a44092e326d4 ("iommu/amd: Use IVHD EFR for early initialization of IOMMU features")

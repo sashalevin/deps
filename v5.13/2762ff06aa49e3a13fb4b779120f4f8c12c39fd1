@@ -1,0 +1,5 @@
+2762ff06aa49 ("nvdimm/btt: use goto error labels on btt_blk_init()")
+3aefb5ee843f ("nvdimm/btt: do not call del_gendisk() if not needed")
+d4e4e5835f29 ("nvdimm-btt: convert to blk_alloc_disk/blk_cleanup_disk")
+0d1feb72ffd8 ("block: automatically enable GENHD_FL_EXT_DEVT")
+7c3f828b522b ("block: refactor device number setup in __device_add_disk")

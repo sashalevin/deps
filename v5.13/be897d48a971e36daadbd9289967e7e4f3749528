@@ -1,0 +1,6 @@
+be897d48a971 ("mm/mempolicy: unify the create() func for bind/interleave/prefer-many policies")
+b27abaccf8e8 ("mm/mempolicy: add MPOL_PREFERRED_MANY for multiple preferred nodes")
+269fbe72cded ("mm/mempolicy: use unified 'nodes' for bind/interleave/prefer policies")
+95837924587c ("mm/mempolicy: unify the parameter sanity check for mbind and set_mempolicy")
+7858d7bca7fb ("mm/mempolicy: don't handle MPOL_LOCAL like a fake MPOL_PREFERRED policy")
+b26e517a058b ("mm/mempolicy: cleanup nodemask intersection check for oom")

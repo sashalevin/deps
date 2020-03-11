@@ -1,0 +1,5 @@
+3f9169196be5 ("cpu/SMT: Move SMT prototypes into cpu_smt.h")
+731dc9df975a ("cpu/speculation: Uninline and export CPU mitigations helpers")
+e1572f1d08be ("cpu/SMT: create and export cpu_smt_possible()")
+ec527c318036 ("x86/power: Fix 'nosmt' vs hibernation triple fault during resume")
+5a2bf1abbf96 ("Merge branch 'smp-hotplug-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

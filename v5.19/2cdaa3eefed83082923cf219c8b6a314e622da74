@@ -1,0 +1,6 @@
+2cdaa3eefed8 ("netfilter: conntrack: restore IPS_CONFIRMED out of nf_conntrack_hash_check_insert()")
+e6d57e9ff0ae ("netfilter: conntrack: fix rmmod double-free race")
+9464d0b68f11 ("netfilter: conntrack: fix using __this_cpu_add in preemptible")
+d7e79c97c00c ("net: netfilter: Add kfuncs to allocate and insert CT")
+aed8ee7feb44 ("net: netfilter: Deduplicate code in bpf_{xdp,skb}_ct_lookup")
+a4703e318432 ("bpf: Switch to new kfunc flags infrastructure")

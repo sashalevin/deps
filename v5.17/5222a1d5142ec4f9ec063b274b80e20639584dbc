@@ -1,0 +1,8 @@
+5222a1d5142e ("powerpc/kuap: Simplify KUAP lock/unlock on BOOK3S/32")
+26e041208291 ("powerpc/kuap: Use MMU_FTR_KUAP on all and refactor disabling kuap")
+4589a2b7894d ("powerpc/kuap: MMU_FTR_BOOK3S_KUAP becomes MMU_FTR_KUAP")
+38bb171b9584 ("powerpc/kuap: Fold kuep_is_disabled() into its only user")
+1bec4adcd59e ("powerpc/kuap: Avoid useless jump_label on empty function")
+880df2d46a3f ("powerpc/kuap: Avoid unnecessary reads of MD_AP")
+1547db7d1f44 ("powerpc: Move system_call_exception() to syscall.c")
+5e6ec1ad2e89 ("powerpc/kuap: Remove unused inline function __kuap_assert_locked()")

@@ -1,1 +1,7 @@
 8b515be512a2 ("vfio-ccw: Fix memory leak and don't call cp_free in cp_init")
+6246590230e9 ("vfio-ccw: Skip second copy of guest cp to host")
+99afcb05d973 ("s390/cio: Use generalized CCW handler in cp_init()")
+363fe5f7aee0 ("s390/cio: Generalize the TIC handler")
+e64bd68946be ("s390/cio: Refactor the routine that handles TIC CCWs")
+812271b91006 ("s390/cio: Squash cp_free() and cp_unpin_free()")
+71189f263f8a ("vfio-ccw: make it safe to access channel programs")

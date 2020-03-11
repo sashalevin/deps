@@ -1,0 +1,6 @@
+611fbca1c861 ("nvmem: meson-efuse: add peripheral clock")
+401488d121a4 ("nvmem: meson-efuse: remove econfig global")
+90696a4097e3 ("nvmem: meson-efuse: Convert to use devm_nvmem_register()")
+17eb18d674d5 ("nvmem: set nvmem->owner to nvmem->dev->driver->owner if unset")
+4dd5f60e9a84 ("nvmem: mtk-efuse: use stack for nvmem_config instead of malloc'ing it")
+01d35cabd5ab ("nvmem: imx-iim: use stack for nvmem_config instead of malloc'ing it")

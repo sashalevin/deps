@@ -1,0 +1,4 @@
+9c6bb8c6a1a4 ("mmc: sdhci: Return true only when timeout exceeds capacity of the HW timer")
+e30314f25511 ("mmc: sdhci: Introduce max_timeout_count variable in sdhci_host")
+401059df9b62 ("mmc: sdhci: correct the maximum timeout when enable CMDQ")
+e93be38af155 ("mmc: sdhci: add adma_table_cnt member to struct sdhci_host")

@@ -1,0 +1,4 @@
+5e66d2d92a1c ("nfsd: factor out __fh_verify to allow NULL rqstp to be passed")
+b0d87dbd8bd3 ("NFSD: Refactor nfsd_setuser_and_check_port()")
+9fd45c16f3e3 ("nfsd: Pass 'cred' instead of 'rqstp' to some functions.")
+c55aeef7766c ("nfsd: Don't pass all of rqst into rqst_exp_find()")

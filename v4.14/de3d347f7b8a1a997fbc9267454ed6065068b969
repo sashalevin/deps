@@ -1,0 +1,6 @@
+de3d347f7b8a ("block: don't remove hctx debugfs dir from blk_mq_exit_queue")
+477e19dedc9d ("blk-mq: adjust debugfs and sysfs register when updating nr_hw_queues")
+8ab0b7dc73e1 ("blk-mq: fix kernel oops in blk_mq_tag_idle()")
+fb350e0ad993 ("blk-mq: fix race between updating nr_hw_queues and switching io sched")
+ff821d271415 ("blk-mq: fixup some comment typos and lengths")
+6d6f167ce741 ("blk-mq: put the driver tag of nxt rq before first one is requeued")

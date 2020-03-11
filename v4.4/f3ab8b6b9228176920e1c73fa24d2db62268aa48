@@ -1,0 +1,5 @@
+f3ab8b6b9228 ("mm, slub: move irq control into unfreeze_partials()")
+bbd4e305e373 ("mm/slub.c: replace kmem_cache->cpu_partial with wrapped APIs")
+6dfd1b653c49 ("slub: add comments to endif pre-processor macros")
+e6d0e1dcf5f0 ("mm/slub.c: wrap kmem_cache->cpu_partial in config CONFIG_SLUB_CPU_PARTIAL")
+c9fc586403e7 ("slab: introduce __kmemcg_cache_deactivate()")

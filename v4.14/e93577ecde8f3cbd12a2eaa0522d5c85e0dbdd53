@@ -1,0 +1,8 @@
+e93577ecde8f ("mmc: sdhci: add quirks for be to le byte swapping")
+1774b0021405 ("mmc: host: sdhci: Add request_done ops for struct sdhci_ops")
+19d2f695f4e8 ("mmc: sdhci: Call mmc_request_done() from IRQ handler if possible")
+af849c86109d ("mmc: sdhci: Handle auto-command errors")
+869f8a69bb3a ("mmc: sdhci: Rename SDHCI_ACMD12_ERR and SDHCI_INT_ACMD12ERR")
+54552e4948cb ("mmc: sdhci: introduce adma_write_desc() hook to struct sdhci_ops")
+bd9b902798ab ("mmc: sdhci: Implement an SDHCI-specific bounce buffer")
+250dcd11466e ("mmc: sdhci: Avoid swiotlb buffer being full")

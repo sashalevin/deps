@@ -1,0 +1,6 @@
+6453b9532b5f ("gpio: xilinx: No need to disable IRQs in the handler")
+02b3f84d9080 ("gpio: xilinx: Switch to use bitmap APIs")
+043aa3db1cbb ("gpio: xilinx: Introduce xgpio_read_chan() / xgpio_write_chan()")
+6e551bfa9872 ("gpio: gpio-xilinx: Add check if width exceeds 32")
+a32c7caea292 ("gpio: gpio-xilinx: Add interrupt support")
+37ef33468080 ("gpio: gpio-xilinx: Reduce spinlock array to array")

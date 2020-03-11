@@ -1,0 +1,3 @@
+d9770fcc1c0c ("mm/rmap: fix old bug: munlocking THP missed other mlocks")
+cd62734ca60d ("mm/rmap: split try_to_munlock from try_to_unmap")
+732ed55823fc ("mm/thp: try_to_unmap() use TTU_SYNC for safe splitting")

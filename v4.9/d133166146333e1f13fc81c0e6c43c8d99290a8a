@@ -1,0 +1,4 @@
+d13316614633 ("locking/qrwlock: Prevent slowpath writers getting held up by fastpath")
+b519b56e378e ("locking/qrwlock: Use atomic_cond_read_acquire() when spinning in qrwlock")
+e0d02285f16e ("locking/qrwlock: Use 'struct qrwlock' instead of 'struct __qrwlock'")
+f2f09a4cee35 ("locking/core: Remove cpu_relax_lowlatency() users")

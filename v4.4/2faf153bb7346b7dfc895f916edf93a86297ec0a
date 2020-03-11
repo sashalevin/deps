@@ -1,0 +1,7 @@
+2faf153bb734 ("x86/tlb: Move __flush_tlb() out of line")
+8c5cc19e9470 ("x86/tlb: Uninline __get_current_cr3_fast()")
+3db6d5a5ecaf ("x86/mm/tlb: Remove 'struct flush_tlb_info' from the stack")
+780e0106d468 ("x86/mm/tlb: Revert "x86/mm: Align TLB invalidation info"")
+935f5839827e ("x86/mm/cpa: Optimize cpa_flush_array() TLB invalidation")
+721066dfd4d5 ("x86/mm/cpa: Fix cpa_flush_array() TLB invalidation")
+f682a7920baf ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

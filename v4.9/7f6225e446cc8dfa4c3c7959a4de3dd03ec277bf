@@ -1,0 +1,8 @@
+7f6225e446cc ("jbd2: clean __jbd2_journal_abort_hard() and __journal_abort_soft()")
+0e98c084a211 ("jbd2: make sure ESHUTDOWN to be recorded in the journal superblock")
+51f57b01e4a3 ("ext4, jbd2: ensure panic when aborting with zero errno")
+fb7c02445c49 ("ext4: pass -ESHUTDOWN code to jbd2 layer")
+a6d9946bb925 ("ext4: eliminate sleep from shutdown ioctl")
+783d94854499 ("ext4: add EXT4_IOC_GOINGDOWN ioctl")
+7c0f6ba682b9 ("Replace <asm/uaccess.h> with <linux/uaccess.h> globally")
+41e0e24b450f ("Merge branch 'kbuild' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

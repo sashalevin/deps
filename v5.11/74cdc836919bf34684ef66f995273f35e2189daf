@@ -1,0 +1,5 @@
+74cdc836919b ("KVM: x86: Make use of kvm_read_cr*_bits() when testing bits")
+fb43496c8362 ("KVM: x86/MMU: Simplify flow of vmx_get_mt_mask")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

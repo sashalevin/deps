@@ -1,0 +1,7 @@
+f9dcbc44cd31 ("rbd: get rid of img_req->copyup_pages")
+d98f153f1a11 ("rbd: don't NULL out ->obj_request in rbd_img_obj_parent_read_full()")
+6c696d8560e7 ("rbd: kill obj_request->object_name and rbd_segment_name_cache")
+a90bb0c1d47d ("rbd: store and use obj_request->object_no")
+223768d02e2c ("rbd: RBD_V{1,2}_DATA_FORMAT macros")
+bc81207ea9fc ("rbd: factor out __rbd_osd_req_create()")
+67e2b65274e3 ("rbd: set offset and length outside of rbd_obj_request_create()")

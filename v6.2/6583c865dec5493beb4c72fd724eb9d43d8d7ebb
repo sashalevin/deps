@@ -1,0 +1,8 @@
+6583c865dec5 ("iommufd/selftest: Add a selftest for IOMMU_HWPT_ALLOC")
+7a467e02b339 ("iommufd/selftest: Return the real idev id from selftest mock_domain")
+fa1ffdb9e293 ("iommufd/selftest: Test iommufd_device_replace()")
+4ed4791afb34 ("iommufd/selftest: Add a selftest for iommufd_device_attach() with a hwpt argument")
+f8406f65c1cf ("iommufd/selftest: Rename the remaining mock device_id's to stdev_id")
+11a86ae93d75 ("iommufd/selftest: Rename domain_id to hwpt_id for FIXTURE iommufd_mock_domain")
+a150c4229700 ("iommufd/selftest: Rename domain_id to stdev_id for FIXTURE iommufd_ioas")
+2cfdeaa07be3 ("iommufd/selftest: Rename the sefltest 'device_id' to 'stdev_id'")

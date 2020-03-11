@@ -1,0 +1,7 @@
+52f737c2da40 ("timer: Provide wrappers safe for use with LOCKDEP")
+58e1177b4cd1 ("timer: Convert schedule_timeout() to use from_timer()")
+686fef928bba ("timer: Prepare to change timer callback argument type")
+74ba181e61c6 ("timer: Move sys_alarm from timer.c to itimer.c")
+177ec0a0a531 ("timers: Remove the deprecated mod_timer_pinned() API")
+e675447bda51 ("timers: Make 'pinned' a timer property")
+6f3ffc19157a ("timer: add setup_deferrable_timer macro")

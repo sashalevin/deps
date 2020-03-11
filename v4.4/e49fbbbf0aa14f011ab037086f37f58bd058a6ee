@@ -1,0 +1,7 @@
+e49fbbbf0aa1 ("block: split block_class_lock")
+62b508f8b6b1 ("block: open code kobj_map into in block/genhd.c")
+31eb6186797c ("block: mark block_depr static")
+133d55cdb2f1 ("block: order /proc/devices by major number")
+8a932f73e5b4 ("char_dev: order /proc/devices by major number")
+49db08c35887 ("chrdev: emit a warning when we go below dynamic major range")
+99e6608c9e74 ("block: Add badblock management for gendisks")

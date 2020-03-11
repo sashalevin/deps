@@ -1,0 +1,6 @@
+b46d59cb1832 ("clk: xilinx: Drop if block with always false condition")
+a2fe7baa27a4 ("clk: xilinx: move xlnx_vcu clock driver from soc")
+5a2b2e134187 ("soc: xilinx: vcu: register PLL as fixed rate clock")
+354dcf7b02a3 ("soc: xilinx: vcu: add helpers for configuring PLL")
+a3ab984bb8b0 ("soc: xilinx: vcu: add helper to wait for PLL locked")
+d387dfc43cba ("soc: xilinx: vcu: drop coreclk from struct xlnx_vcu")

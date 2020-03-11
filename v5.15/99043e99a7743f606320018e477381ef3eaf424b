@@ -1,0 +1,7 @@
+99043e99a774 ("mt76: move mt76_sta_stats in mt76.h")
+bc529ee3a7b8 ("mt76: mt7915: add some per-station tx stats to ethtool")
+c4c2a370300e ("mt76: mt7915: add tx stats gathered from tx-status callbacks")
+95bc1457f66a ("mt76: mt7915: add ethtool stats support")
+05909e4625b0 ("mt76: mt7915: remove mt7915_sta_stats")
+9908d98ae72c ("mt76: mt7915: report tx rate directly from tx status")
+08b3c8da87ae ("mt76: mt7915: fix endianness warning in mt7915_mac_add_txs_skb")

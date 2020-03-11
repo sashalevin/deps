@@ -1,0 +1,6 @@
+42abd0043e0c ("drm/virtio: use drm_poll(..) instead of virtio_gpu_poll(..)")
+d89c0c8322ec ("drm/virtio: Fix NULL dereference error in virtio_gpu_poll")
+cd7f5ca33585 ("drm/virtio: implement context init: add virtio_gpu_fence_event")
+7547675b84bf ("drm/virtio: implement context init: track {ring_idx, emit_fence_info} in virtio_gpu_fence")
+4fb530e5caf7 ("drm/virtio: implement context init: support init ioctl")
+36549848ed27 ("drm/virtio: consider dma-fence context when signaling")

@@ -1,0 +1,8 @@
+0f1979b402df ("m68k: Remove ioremap_fullcache()")
+ab4d391d2756 ("m68k/io: Move mem*io define guards to <asm/kmap.h>")
+e295066f66a4 ("m68k/io: Add missing ioremap define guards, fix typo")
+927c28c252dc ("m68k: setup PCI support code in io_no.h")
+9746882f547d ("m68k: group io mapping definitions and functions")
+4478048b4485 ("m68k: rework raw access macros for the non-MMU case")
+d97cf70af097 ("m68k: use asm-generic/io.h for non-MMU io access functions")
+fedc33e36406 ("m68k: move *_relaxed macros into io_no.h and io_mm.h")

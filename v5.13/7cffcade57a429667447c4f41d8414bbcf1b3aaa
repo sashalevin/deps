@@ -1,0 +1,8 @@
+7cffcade57a4 ("xen: make remove callback of xen driver void returned")
+494ed3997d75 ("usb: Introduce Xen pvUSB frontend (xen hcd)")
+05d69d950d9d ("xen-blkfront: sanitize the removal state machine")
+3b62c140e93d ("xen-blkfront: use blk_mq_alloc_disk and blk_cleanup_disk")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")

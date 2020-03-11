@@ -1,0 +1,8 @@
+fbbfb3f83e78 ("hwrng: omap3-rom - Fix unused function warnings")
+8d9d4bdc495f ("hwrng: omap3-rom - Use runtime PM instead of custom functions")
+b8d665aed401 ("hwrng: omap3-rom - Update to use standard driver data")
+a0f19a894c46 ("hwrng: omap3-rom - Initialize default quality to get data")
+eaecce12f5f0 ("hwrng: omap3-rom - Call clk_disable_unprepare() on exit only if not idled")
+0c0ef9ea6f3f ("hwrng: omap3-rom - Fix missing clock by probing with device tree")
+986130bf3701 ("hwrng: omap3-rom - Handle return value of clk_prepare_enable")
+3d5c656858cb ("ARM: dts: N900: Add bluetooth")

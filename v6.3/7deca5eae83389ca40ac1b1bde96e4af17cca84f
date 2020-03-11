@@ -1,0 +1,4 @@
+7deca5eae833 ("bpf: Disable bpf_refcount_acquire kfunc calls until race conditions are fixed")
+6147f15131e2 ("selftests/bpf: Add refcounted_kptr tests")
+7c50b1cb76ac ("bpf: Add bpf_refcount_acquire kfunc")
+f6a6a5a97628 ("bpf: Fix struct_meta lookup for bpf_obj_free_fields kfunc call")

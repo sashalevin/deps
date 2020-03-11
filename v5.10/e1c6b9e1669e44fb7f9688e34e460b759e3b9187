@@ -1,0 +1,7 @@
+e1c6b9e1669e ("entry: KVM: Allow use of generic KVM entry w/o full generic support")
+f268c3737eca ("tick/nohz: Only check for RCU deferred wakeup on user/guest entry when needed")
+4ae7dc97f726 ("entry/kvm: Explicitly flush pending rcuog wakeup before last rescheduling point")
+47b8ff194c1f ("entry: Explicitly flush pending rcuog wakeup before last rescheduling point")
+f8bb5cae9616 ("rcu/nocb: Trigger self-IPI on late deferred wake up before user resume")
+43789ef3f7d6 ("rcu/nocb: Perform deferred wake up before last idle's need_resched() check")
+54b7429efffc ("rcu: Pull deferred rcuog wake up to rcu_eqs_enter() callers")

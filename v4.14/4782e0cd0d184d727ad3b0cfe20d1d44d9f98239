@@ -1,0 +1,7 @@
+4782e0cd0d18 ("KVM: PPC: Book3S HV P9: Fixes for TM softpatch interrupt NIP")
+1dff3064c764 ("KVM: PPC: Book3S HV: Treat TM-related invalid form instructions on P9 like the valid ones")
+173c520a049f ("KVM: PPC: Move nip/ctr/lr/xer registers to pt_regs in kvm_vcpu_arch")
+4bb3c7a0208f ("KVM: PPC: Book3S HV: Work around transactional memory bugs in POWER9")
+875656fe0c84 ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_regs")
+1fc9b76b3dd2 ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_get_regs")
+072df8130c6b ("Merge branch 'kvm-ppc-fixes' into kvm-ppc-next")

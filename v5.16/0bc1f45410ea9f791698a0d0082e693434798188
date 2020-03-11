@@ -1,0 +1,6 @@
+0bc1f45410ea ("sunhme: Convert printk(KERN_FOO ...) to pr_foo(...)")
+03290907a5d1 ("sunhme: Convert FOO((...)) to FOO(...)")
+914d9b2711dd ("sunhme: switch to devres")
+5b3dc6dda6b1 ("sunhme: Regularize probe errors")
+acb3f35f920b ("sunhme: forward the error code from pci_enable_device()")
+bb77bd31c281 ("ethernet: sun: Free the coherent when failing in probing")

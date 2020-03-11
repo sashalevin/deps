@@ -1,0 +1,5 @@
+3d6bcddf5490 ("serial: fsl_lpuart: Avoid using irq_wake flag")
+54a44d54be3a ("tty: serial: fsl_lpuart: fix del_timer_sync() vs timer routine deadlock")
+c05efd692f1f ("tty: serial: fsl_lpuart: Update suspend/resume for DMA mode")
+5887ad43ee02 ("tty: serial: fsl_lpuart: Use cyclic DMA for Rx")
+d6b0d2f243fe ("tty: serial: fsl_lpuart: support suspend/resume")

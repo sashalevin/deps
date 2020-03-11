@@ -1,0 +1,5 @@
+09e3e2a1cc8d ("KVM: x86: Add kvm_x86_ops hook to short circuit emulation")
+cc5b54dd58d0 ("KVM: x86: fix MSR_IA32_TSC read for nested migration")
+33b22172452f ("KVM: x86: move nested-related kvm_x86_ops to a separate struct")
+56083bdf67c7 ("KVM: x86: check_nested_events is never NULL")
+e72436bc3a52 ("KVM: SVM: avoid infinite loop on NPF from bad address")

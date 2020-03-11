@@ -1,0 +1,8 @@
+d2ee413884cd ("SUNRPC: Allow specification of TCP client connect timeout at setup")
+500053191297 ("SUNRPC: Plumb an API for setting transport layer security")
+b8a09619a563 ("SUNRPC allow for unspecified transport time in rpc_clnt_add_xprt")
+dc48e0abee24 ("SUNRPC enforce creation of no more than max_connect xprts")
+e6237b6feb37 ("NFSv4.1: Don't rebind to the same source port when reconnecting to the server")
+52f98f1a2ddd ("NFS/pnfs: Separate NFSv3 DS and MDS traffic")
+c6eb58435b98 ("pNFS: nfs3_set_ds_client should set NFS_CS_NOPING")
+4b1b69cedf9d ("NFS: Add a flag to tell nfs_client to set RPC_CLNT_CREATE_NOPING")

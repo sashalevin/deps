@@ -1,0 +1,7 @@
+2687275a5843 ("arm64: Force NO_BLOCK_MAPPINGS if crashkernel reservation is required")
+c55191e96caa ("arm64: mm: apply r/o permissions of VM areas to its linear alias as well")
+b34d2ef0c60e ("arm64: mm: purge lazily unmapped vm regions before changing permissions")
+a725e3dda181 ("arm64: Add ARCH_WORKAROUND_2 probing")
+8e2906245f1e ("arm64: Call ARCH_WORKAROUND_2 on transitions between EL0 and EL1")
+4bc352ffb39e ("arm64: KVM: Use SMCCC_ARCH_WORKAROUND_1 for Falkor BP hardening")
+d8312a3f6102 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

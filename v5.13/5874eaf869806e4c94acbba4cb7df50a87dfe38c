@@ -1,0 +1,8 @@
+5874eaf86980 ("pwm: berlin: Prepare removing pwm_chip from driver data")
+6dbf23f5cfff ("pwm: berlin: Simplify using devm functions")
+1b2af7bb7523 ("pwm: berlin: Put per-channel config into driver data")
+9baa8a00de7d ("pwm: berlin: Convert to platform remove callback returning void")
+0512f0503b05 ("pwm: berlin: Don't check the return code of pwmchip_remove()")
+30dffb42fcd4 ("pwm: berlin: Implement .apply() callback")
+3f3e805177af ("pwm: berlin: use consistent naming for variables")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

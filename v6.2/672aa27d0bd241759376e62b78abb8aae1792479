@@ -1,0 +1,6 @@
+672aa27d0bd2 ("mm: remove munlock_vma_page()")
+7efecffb8e79 ("mm: remove mlock_vma_page()")
+a8265cd917a6 ("Documentation/mm: update references to __m[un]lock_page() to *_folio()")
+96f97c438f61 ("mm: mlock: update the interface to use folios")
+90d07210ab55 ("mm: mlock: use folios and a folio batch internally")
+c7c3dec1c9db ("mm: rmap: remove lock_page_memcg()")

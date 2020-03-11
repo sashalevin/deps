@@ -1,0 +1,7 @@
+06fe45634942 ("sched: remove _do_fork()")
+cad6967ac108 ("fork: introduce kernel_clone()")
+ff2a91127b37 ("fork: remove do_fork()")
+3af8588c7718 ("fork: fold legacy_clone_args_valid() into _do_fork()")
+3f2c788a1314 ("fork: prevent accidental access to clone3 features")
+6aabc1facdb2 ("m68k: Implement copy_thread_tls()")
+e8bb2a2a1d51 ("m68k: Wire up clone3() syscall")

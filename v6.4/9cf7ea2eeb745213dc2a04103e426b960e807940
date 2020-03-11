@@ -1,0 +1,6 @@
+9cf7ea2eeb74 ("serial: core: Clearing the circular buffer before NULLifying it")
+559c7ff4e324 ("serial: core: Use port lock wrappers")
+84a9582fd203 ("serial: core: Start managing serial controllers to enable runtime PM")
+51e45fba14bf ("serial: core: lock port for start_rx() in uart_resume_port()")
+abcb0cf1f5b2 ("serial: core: lock port for stop_rx() in uart_suspend_port()")
+d5b3d02d0b10 ("serial: Make uart_remove_one_port() return void")

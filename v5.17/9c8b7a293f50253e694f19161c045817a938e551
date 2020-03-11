@@ -1,0 +1,3 @@
+9c8b7a293f50 ("smb3: fix temporary data corruption in insert range")
+c3a72bb21320 ("smb3: Move the flush out of smb2_copychunk_range() into its callers")
+f5d0f921ea36 ("cifs: destage any unwritten data to the server before calling copychunk_write")

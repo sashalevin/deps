@@ -1,0 +1,4 @@
+cb537b241725 ("ravb: Use unsigned int for num_tx_desc variable in struct ravb_private")
+a6f51f2efa74 ("ravb: Add support for explicit internal clock delay configuration")
+ce19a9eb53be ("ravb: Split delay handling in parsing and applying")
+9b23203c32ee ("ravb: Mask PHY mode to avoid inserting delays twice")

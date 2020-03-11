@@ -1,0 +1,8 @@
+6ffa6f397e80 ("ALSA: pcm: simplify top-up mode init in snd_pcm_playback_silence()")
+6d8d56db0cd1 ("ALSA: pcm: playback silence - move silence variable updates to separate function")
+190cb66a4ee0 ("ALSA: pcm: playback silence - remove extra code")
+781b4da64b9e ("ALSA: pcm: fix playback silence - correct incremental silencing")
+2fbaa44a5988 ("ALSA: pcm: fix playback silence - use the actual new_hw_ptr for the threshold mode")
+d7f5dd9790bb ("ALSA: pcm: Revert "ALSA: pcm: rewrite snd_pcm_playback_silence()"")
+9f656705c5fa ("ALSA: pcm: rewrite snd_pcm_playback_silence()")
+1f68915b2efd ("ALSA: pcm: Add stream lock during PCM reset ioctl operations")

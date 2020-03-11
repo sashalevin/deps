@@ -1,0 +1,7 @@
+bd1a5a53d7c1 ("security: <linux/lsm_hooks.h>: fix all kernel-doc warnings")
+9e47d31d6a57 ("security: Add a "locked down" LSM hook")
+afdb09c720b6 ("security: bpf: Add LSM hooks for bpf object related syscall")
+067cae47771c ("bpf: Use char in prog and map name")
+88cda1c9da02 ("bpf: libbpf: Provide basic API support to specify BPF obj name")
+ad5b177bd73f ("bpf: Add map_name to bpf_map_info")
+cb4d2b3f03d8 ("bpf: Add name, load_time, uid and map_ids to bpf_prog_info")

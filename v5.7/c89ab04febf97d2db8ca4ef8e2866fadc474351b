@@ -1,0 +1,7 @@
+c89ab04febf9 ("mm/sparse: cleanup the code surrounding memory_present()")
+2e6787d38062 ("mm/sparse: fix a typo in comment "convienence"->"convenience"")
+4ca7be24eeb3 ("mm/page_alloc.c: remove unused free_bootmem_with_active_regions")
+9691a071aa26 ("mm: use free_area_init() instead of free_area_init_nodes()")
+fa3354e4ea39 ("mm: free_area_init: use maximal zone PFNs rather than zone sizes")
+3f08a302f533 ("mm: remove CONFIG_HAVE_MEMBLOCK_NODE_MAP option")
+6f24fbd38c4e ("mm: make early_pfn_to_nid() and related defintions close to each other")

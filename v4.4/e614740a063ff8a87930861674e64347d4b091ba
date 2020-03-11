@@ -1,0 +1,5 @@
+e614740a063f ("mmc: sdhci-s3c: constify uses of driver/match data")
+0ab53e498fa4 ("mmc: sdhci-s3c: simplify getting of_device_id match data")
+94d4c3cffefc ("mmc: sdhci-s3c: hide forward declaration of of_device_id behind CONFIG_OF")
+3a8e9cad3e6d ("mmc: sdhci-s3c: Fix driver data for Exynos4 SoCs")
+6b3a194b7c16 ("mmc: sdhci-s3c: Remove non needed #ifdef CONFIG_PM for dev_pm_ops")

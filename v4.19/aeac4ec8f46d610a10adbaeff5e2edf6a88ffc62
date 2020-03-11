@@ -1,0 +1,7 @@
+aeac4ec8f46d ("tcp: configurable source port perturb table size")
+4c2c8f03a5ab ("tcp: increase source port perturb table to 2^16")
+e9261476184b ("tcp: dynamically allocate the perturb table used by source ports")
+190cc82489f4 ("tcp: change source port randomizarion at connect() time")
+c92c81df93df ("net: dccp: fix kernel crash on module load")
+eedbbb0d98b2 ("net: dccp: initialize (addr,port) listening hashtable")
+3c82a21f4320 ("net: allow binding socket in a VRF when there's an unbound socket")

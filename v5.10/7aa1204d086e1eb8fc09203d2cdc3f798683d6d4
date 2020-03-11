@@ -1,0 +1,8 @@
+7aa1204d086e ("cpuidle: psci: Simplify with scoped for each OF child loop")
+12acb348fa45 ("cpuidle: psci: Move enabling OSI mode after power domains creation")
+f914bfdd7f84 ("cpuidle: Use of_property_present() for testing DT property presence")
+668057b07db0 ("cpuidle: psci: Extend information in log about OSI/PC mode")
+998fcd001feb ("firmware/psci: Print a warning if PSCI doesn't accept PC mode")
+6abf32f1d9c5 ("cpuidle: Add RISC-V SBI CPU idle driver")
+9d976d6721df ("cpuidle: Factor-out power domain related code from PSCI domain driver")
+670c90def034 ("cpuidle: psci: Enable suspend-to-idle for PSCI OSI mode")

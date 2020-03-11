@@ -1,0 +1,8 @@
+f33096a3c99c ("io_uring: add io_add_aux_cqe() helper")
+902ce82c2aa1 ("io_uring: get rid of intermediate aux cqe caches")
+e5c12945be50 ("io_uring: refactor io_fill_cqe_req_aux")
+8e5b3b89ecaf ("io_uring: remove struct io_tw_state::locked")
+92219afb980e ("io_uring: force tw ctx locking")
+e1eef2e56cb0 ("io_uring/cmd: fix tw <-> issue_flags conversion")
+6edd953b6ec7 ("io_uring/cmd: kill one issue_flags to tw conversion")
+da12d9ab5889 ("io_uring/cmd: move io_uring_try_cancel_uring_cmd()")

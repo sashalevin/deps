@@ -1,0 +1,4 @@
+7cc8c75b54fa ("riscv: Make vmalloc/vmemmap end equal to the start of the next region")
+ac416a724f11 ("riscv/mm/fault: Move vmalloc fault handling to vmalloc_fault()")
+a51271d99cdd ("riscv/mm/fault: Move bad area handling to bad_area()")
+cac4d1dc85be ("riscv/mm/fault: Move no context handling to no_context()")

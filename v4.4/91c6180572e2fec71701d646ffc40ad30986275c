@@ -1,0 +1,4 @@
+91c6180572e2 ("signals/sigaltstack: Change SS_AUTODISARM to (1U << 31)")
+19fd2868e367 ("selftests/sigaltstack: Add new testcase for sigaltstack(SS_ONSTACK|SS_AUTODISARM)")
+2a7421383810 ("signals/sigaltstack: Implement SS_AUTODISARM flag")
+407bc16ad176 ("signals/sigaltstack: Prepare to add new SS_xxx flags")

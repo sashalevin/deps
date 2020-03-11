@@ -1,0 +1,4 @@
+221a1f4ac12d ("driver: uio: fix possible use-after-free in __uio_register_device")
+a93e7b331568 ("uio: Prevent device destruction while fds are open")
+81daa406c2cc ("uio: Reduce return paths from uio_write()")
+0320a278b9ef ("uio: add missing error codes")

@@ -1,0 +1,5 @@
+a44d9e72100f ("net: make ->{get,set}sockopt in proto_ops optional")
+8c918ffbbad4 ("net: remove compat_sock_common_{get,set}sockopt")
+d8a9b38f83ea ("net: streamline __sys_getsockopt")
+4a3672993f95 ("net: streamline __sys_setsockopt")
+83f0c10bc36f ("net: use mptcp setsockopt function for SOL_SOCKET on mptcp sockets")

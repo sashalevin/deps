@@ -1,0 +1,7 @@
+a453be9725a1 ("cgroup/cpuset: simplify the percpu kthreads check in update_tasks_cpumask()")
+6667439f51c4 ("cgroup/cpuset: Include offline CPUs when tasks' cpumasks in top_cpuset are updated")
+7a2127e66a00 ("cpuset: Call set_cpus_allowed_ptr() with appropriate mask for task")
+f0af1bfc27b5 ("cgroup/cpuset: Relax constraints to partition & cpus changes")
+e2d59900d936 ("cgroup/cpuset: Allow no-task partition to have empty cpuset.cpus.effective")
+18065ebe9b33 ("cgroup/cpuset: Miscellaneous cleanups & add helper functions")
+ec5fbdfb99d1 ("cgroup/cpuset: Enable update_tasks_cpumask() on top_cpuset")

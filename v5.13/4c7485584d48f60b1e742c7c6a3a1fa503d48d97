@@ -1,0 +1,5 @@
+4c7485584d48 ("sched/preempt: Move PREEMPT_DYNAMIC logic later")
+9ed20bafc858 ("preempt/dynamic: Fix setup_preempt_mode() return value")
+a8b76910e465 ("preempt: Restore preemption model selection configs")
+c597bfddc9e9 ("sched: Provide Kconfig support for default dynamic preempt mode")
+41eba23efba3 ("init: use $(call cmd,) for generating include/generated/compile.h")

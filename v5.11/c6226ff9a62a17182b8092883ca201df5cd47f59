@@ -1,0 +1,5 @@
+c6226ff9a62a ("svcrdma: Deprecate stat variables that are no longer used")
+1e7e55731628 ("svcrdma: Restore read and write stats")
+22df5a22462e ("svcrdma: Convert rdma_stat_sq_starve to a per-CPU counter")
+df971cd853c0 ("svcrdma: Convert rdma_stat_recv to a per-CPU counter")
+59a00257c66c ("svcrdma: Refactor svc_rdma_init() and svc_rdma_clean_up()")

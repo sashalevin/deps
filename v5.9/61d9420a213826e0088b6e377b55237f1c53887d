@@ -1,0 +1,8 @@
+61d9420a2138 ("mfd: remove htc-pasic3 driver")
+707857d997ae ("mfd: Remove htc-i2cpld driver")
+9c90f21f93e4 ("mfd: htc-i2cpld: Fix an IS_ERR() vs NULL bug in htcpld_core_probe()")
+a47137a5134b ("mfd/omap1: htc-i2cpld: Convert to a pure GPIO driver")
+6a32d3995f7b ("mfd: Move from strlcpy with unused retval to strscpy")
+0c9b9c2ac0df ("mfd: core: Use acpi_dev_for_each_child()")
+40cb71f321dd ("mfd: core: Use acpi_find_child_device() for child devices lookup")
+9a463284706c ("mfd: htc-i2cpld: Add the missed i2c_put_adapter() in htcpld_register_chip_i2c()")

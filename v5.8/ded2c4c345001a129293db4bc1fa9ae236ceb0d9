@@ -1,0 +1,5 @@
+ded2c4c34500 ("mmc: sdhci-of-arasan: Add NULL check for data field")
+2ff0b85d627f ("mmc: sdhci-of-arasan: Add structure device pointer in probe function")
+80d41efe2e5f ("mmc: sdhci-of-arasan: Convert to use np instead of pdev->dev.of_node")
+eb085875243d ("mmc: sdhci-of-arasan: use of_device_get_match_data()")
+72ea817db5d2 ("mmc: sdhci-of-arasan: Simplify with dev_err_probe()")

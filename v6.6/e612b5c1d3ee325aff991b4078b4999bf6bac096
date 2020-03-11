@@ -1,0 +1,8 @@
+e612b5c1d3ee ("bpf, arm64: Add support for lse atomics in bpf_arena")
+4dd31243e308 ("bpf: Add arm64 JIT support for bpf_addr_space_cast instruction.")
+339af577ec05 ("bpf: Add arm64 JIT support for PROBE_MEM32 pseudo instructions.")
+1dad391daef1 ("bpf, arm64: use bpf_prog_pack for memory management")
+22fc0e80aeb5 ("bpf, arm64: support exceptions")
+18a45f12d746 ("bpf, arm64: Enable the inline of bpf_kptr_xchg()")
+59e83c0187c5 ("selftests/bpf: Add test for recursion counts of perf event link kprobe")
+01e4ae474e39 ("selftests/bpf: Add test for missed counts of perf event link kprobe")

@@ -1,0 +1,5 @@
+474098edac26 ("mm/gup: replace FOLL_NUMA by gup_can_follow_protnone()")
+5535be309971 ("mm/gup: fix FOLL_FORCE COW security issue and remove FOLL_COW")
+a7f226604170 ("mm/gup: trigger FAULT_FLAG_UNSHARE when R/O-pinning a possibly shared anonymous page")
+b0496fe4effd ("mm/gup: Convert gup_pte_range() to use a folio")
+1507f51255c9 ("mm: introduce memfd_secret system call to create "secret" memory areas")

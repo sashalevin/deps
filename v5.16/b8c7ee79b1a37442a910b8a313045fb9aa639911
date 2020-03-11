@@ -1,0 +1,8 @@
+b8c7ee79b1a3 ("KVM: PPC: Book3s HV: Remove unused function kvmppc_bad_interrupt")
+4c9da83011c4 ("KVM: PPC: Book3S HV: Remove kvmhv_p9_[set,restore]_lpcr declarations")
+b22af9041927 ("KVM: PPC: Book3s: Remove real mode interrupt controller hcalls handlers")
+76222808fc25 ("powerpc: Move C prototypes out of asm-prototypes.h")
+a4abd55a2490 ("powerpc/kexec: Declare kexec_paca static")
+e15c703be48e ("powerpc/smp: Declare current_set static")
+e86debbbb5f8 ("powerpc: Cleanup asm-prototypes.c")
+cc15ff327569 ("powerpc/mce: Avoid using irq_work_queue() in realmode")

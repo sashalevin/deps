@@ -1,0 +1,7 @@
+8c0ae778e287 ("ALSA: core: Simplify snd_power_ref_and_wait() with the standard macro")
+e94fdbd7b25d ("ALSA: control: Track in-flight control read/write/tlv accesses")
+1fa4445f9adf ("ALSA: control - introduce snd_ctl_notify_one() helper")
+fbd3eb7f66c5 ("ALSA: control: Add verification for kctl accesses")
+ff16351e3f30 ("ALSA: ctl: remove dimen member from elem_info structure")
+3103c08f968d ("ALSA: control: Consolidate helpers for adding and replacing ctl elements")
+e1a7bfe38079 ("ALSA: control: Fix race between adding and removing a user element")

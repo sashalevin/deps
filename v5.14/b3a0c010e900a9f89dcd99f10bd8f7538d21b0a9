@@ -1,0 +1,7 @@
+b3a0c010e900 ("arm64: allow kprobes on EL0 handlers")
+3fc24ef32d3b ("arm64: compat: Implement misalignment fixups for multiword loads")
+8d56e5c5a99c ("arm64: Treat ESR_ELx as a 64-bit register")
+e130338eed5d ("arm64: entry: call exit_to_user_mode() from C")
+4d1c2ee2709f ("arm64: entry: move bulk of ret_to_user to C")
+bc29b71f53b1 ("arm64: entry: clarify entry/exit helpers")
+46a2b02d232e ("arm64: entry: consolidate entry/exit helpers")

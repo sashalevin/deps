@@ -1,0 +1,5 @@
+75d892588e95 ("fuse: Update stale comment in queue_interrupt()")
+217316a60101 ("fuse: Optimize request_end() by not taking fiq->waitq.lock")
+b8f95e5d13f5 ("fuse: umount should wait for all requests")
+87114373ea50 ("fuse: fix double request_end()")
+3b7008b226f3 ("fuse: return -ECONNABORTED on /dev/fuse read after abort")

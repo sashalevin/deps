@@ -1,0 +1,7 @@
+8f96c434dfbc ("spi: spi-geni-qcom: Fix use-after-free on unbind")
+7d568edff5cb ("spi: spi-geni-qcom: Unconditionally call dev_pm_opp_of_remove_table()")
+1a9e489e6128 ("spi: spi-geni-qcom: Use OPP API to set clk/perf state")
+0e3b8a81f5df ("spi: spi-geni-qcom: Add interconnect support")
+e68b6624a0f7 ("spi: spi-geni-qcom: Combine the clock setting code")
+ea1e5b3354b1 ("spi: spi-geni-qcom: Grow a dev pointer to simplify code")
+ece9ef3b60cb ("spi: spi-geni-qcom: Let firmware specify irq trigger flags")

@@ -1,0 +1,7 @@
+e8d39a903cc6 ("dma-iommu: implement ->alloc_noncoherent")
+efa70f2fdc84 ("dma-mapping: add a new dma_alloc_pages API")
+0d71675f87dc ("dma-mapping: add a new dma_alloc_noncoherent API")
+a92df4f62fda ("dma-mapping: move the dma_declare_coherent_memory documentation")
+545d29272f38 ("dma-mapping: move dma_common_{mmap,get_sgtable} out of mapping.c")
+2f5388a29be8 ("dma-direct: remove dma_direct_{alloc,free}_pages")
+170780be324d ("MIPS/jazzdma: decouple from dma-direct")

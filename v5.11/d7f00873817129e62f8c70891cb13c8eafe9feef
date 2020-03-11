@@ -1,0 +1,7 @@
+d7f008738171 ("bpf: try harder to deduce register bounds from different numeric domains")
+3844d153a41a ("bpf: Fix insufficient bounds propagation from adjust_scalar_min_max_vals")
+e572ff80f05c ("bpf: Make 32->64 bounds propagation slightly more robust")
+3cf2b61eb067 ("bpf: Fix signed bounds propagation after mov32")
+10bf4e83167c ("bpf: Fix propagation of 32 bit unsigned bounds from 64 bit bounds")
+073815b756c5 ("bpf: Refactor and streamline bounds check into helper")
+01f810ace9ed ("bpf: Allow variable-offset stack access")

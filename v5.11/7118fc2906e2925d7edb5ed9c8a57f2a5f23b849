@@ -1,0 +1,4 @@
+7118fc2906e2 ("hugetlb: address ref count racing in prep_compound_gigantic_page")
+48b8d744ea84 ("hugetlb: remove prep_compound_huge_page cleanup")
+5291c09b3edb ("mm/hugetlb: remove redundant check in preparing and destroying gigantic page")
+c78a7f363993 ("mm/hugetlb: use helper huge_page_order and pages_per_huge_page")

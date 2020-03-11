@@ -1,0 +1,4 @@
+4ddb85d36613 ("ataflop: remove ataflop_probe_lock mutex")
+deae1138d047 ("block/ataflop: provide a helper for cleanup up an atari disk")
+573effb29801 ("block/ataflop: add registration bool before calling del_gendisk()")
+44a469b6acae ("block/ataflop: use the blk_cleanup_disk() helper")

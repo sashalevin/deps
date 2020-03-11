@@ -1,0 +1,5 @@
+489b80060cf6 ("io_uring/napi: refactor __io_napi_busy_loop()")
+84f2eecf9501 ("io_uring/napi: check napi_enabled in io_napi_add() before proceeding")
+342b2e395d5f ("io_uring/napi: use ktime in busy polling")
+f7c696a56cc7 ("io_uring/napi: Remove unnecessary s64 cast")
+415ce0ea55c5 ("io_uring/napi: fix timeout calculation")

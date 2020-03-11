@@ -1,0 +1,8 @@
+c78f463649d6 ("mm: remove src/dst mm parameter in copy_page_range()")
+70e806e4e645 ("mm: Do early cow for pinned pages during fork() for ptes")
+7a4830c380f3 ("mm/fork: Pass new vma pointer into copy_page_range()")
+79a1971c5f14 ("mm: move the copy_one_pte() pte_present check into the caller")
+df3a57d1f607 ("mm: split out the non-present case from copy_one_pte()")
+6972f55c413f ("mm/memory: remove unnecessary pte_devmap case in copy_one_pte()")
+f45ec5ff16a7 ("userfaultfd: wp: support swap and page migration")
+b569a1760782 ("userfaultfd: wp: drop _PAGE_UFFD_WP properly when fork")

@@ -1,0 +1,5 @@
+83ebb7b3036d ("rtc: cmos: Disable ACPI RTC event on removal")
+d13e9ad9f514 ("rtc: cmos: Rename ACPI-related functions")
+dca4d3b71c8a ("rtc: cmos: Eliminate forward declarations of some functions")
+375bbba09692 ("rtc: cmos: Call rtc_wake_setup() from cmos_do_probe()")
+508ccdfb86b2 ("rtc: cmos: Call cmos_wake_setup() from cmos_do_probe()")

@@ -1,0 +1,7 @@
+77795f900e2a ("mm/mprotect: fix do_mprotect_pkey() limit check")
+82f951340f25 ("mm/mprotect: fix do_mprotect_pkey() return on error")
+2286a6914c77 ("mm: change mprotect_fixup to vma iterator")
+1ef488edd6c4 ("mm/mprotect: drop pgprot_t parameter from change_protection()")
+931298e103c2 ("mm/userfaultfd: rely on vma->vm_page_prot in uffd_wp_range()")
+eb309ec89953 ("mm/mprotect: factor out check whether manual PTE write upgrades are required")
+70821e0b89dd ("mm/mprotect: use maple tree navigation instead of VMA linked list")

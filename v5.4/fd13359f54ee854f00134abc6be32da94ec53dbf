@@ -1,0 +1,7 @@
+fd13359f54ee ("SUNRPC: Ensure that the gssproxy client can start in a connected state")
+823c73d0c539 ("SUNRPC: Unset RPC_TASK_NO_RETRANS_TIMEOUT for NULL RPCs")
+aede517207b2 ("SUNRPC: Refactor rpc_ping()")
+e6237b6feb37 ("NFSv4.1: Don't rebind to the same source port when reconnecting to the server")
+52f98f1a2ddd ("NFS/pnfs: Separate NFSv3 DS and MDS traffic")
+c6eb58435b98 ("pNFS: nfs3_set_ds_client should set NFS_CS_NOPING")
+4b1b69cedf9d ("NFS: Add a flag to tell nfs_client to set RPC_CLNT_CREATE_NOPING")

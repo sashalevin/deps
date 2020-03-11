@@ -1,0 +1,7 @@
+a0827713e298 ("perf/core: Don't pass task around when ctx sched in")
+09f5e7dc7ad7 ("perf: Fix perf_event_read_local() time")
+f79256532682 ("perf/core: fix userpage->time_enabled of inactive events")
+c034f48e9990 ("kernel: delete repeated words in comments")
+2714c3962f30 ("perf: Fix event multiplexing for exclusive groups")
+251ff2d49347 ("perf: Simplify group_sched_in()")
+556cccad3897 ("perf/core: Pull pmu::sched_task() into perf_event_context_sched_in()")

@@ -1,0 +1,8 @@
+dab4812705c9 ("staging: dpaa2-switch: make sure that the VLAN is not already configured")
+70476feb62ce ("staging: dpaa2-ethsw: check if there is space for a new VLAN")
+ab4a16869f25 ("rocker, dsa, ethsw: Don't filter VLAN events on bridge itself")
+13b72b089b9c ("staging: fsl-dpaa2/ethsw: Fix uninitialized variables")
+2855118fdafa ("rocker: rocker_main: Ignore bridge VLAN events")
+44baaa43d7cc ("staging: fsl-dpaa2/ethsw: Add Freescale DPAA2 Ethernet Switch driver")
+0006351fd1aa ("staging: fsl-dpaa2/ethsw: Add APIs for DPSW object")
+2ea7a679ca2a ("net: dsa: Don't add vlans when vlan filtering is disabled")

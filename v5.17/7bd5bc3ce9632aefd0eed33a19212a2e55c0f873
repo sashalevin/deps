@@ -1,0 +1,4 @@
+7bd5bc3ce963 ("mm: memcg: normalize the value passed into memcg_rstat_updated()")
+410f8e82689e ("memcg: extract memcg_vmstats from struct mem_cgroup")
+dbb16df6443c ("Revert "memcg: cleanup racy sum avoidance code"")
+be3e67b54b43 ("mm/memcg: protect per-CPU counter by disabling preemption on PREEMPT_RT where needed.")

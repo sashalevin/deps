@@ -1,0 +1,4 @@
+625a28a7e60c ("swim: add error handling support for add_disk()")
+9ef41effb9b6 ("swim: add a floppy registration bool which triggers del_gendisk()")
+4e9abe72530a ("swim: add helper for disk cleanup")
+b76a30c254d9 ("swim: simplify using blk_cleanup_disk() on swim_remove()")

@@ -1,0 +1,5 @@
+ca3bb3d027f6 ("perf/ring_buffer: Convert ring_buffer.aux_refcount to refcount_t")
+b79ccadd6bb1 ("perf/core: Fix aux_mmap_count vs aux_refcount order")
+95ff4ca26c49 ("perf/core: Free AUX pages in unmap path")
+dcb10a967ce8 ("perf/ring_buffer: Refuse to begin AUX transaction after rb->aux_mmap_count drops")
+45c815f06b80 ("perf: Synchronously free aux pages in case of allocation failure")

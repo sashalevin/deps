@@ -1,0 +1,5 @@
+114945d84a30 ("arm64: Fix labels in el2_setup macros")
+78869f0f0552 ("arm64: Extract parts of el2_setup into a macro")
+d87a8e65b510 ("arm64: head.S: always initialize PSTATE")
+2ffac9e3fdbd ("arm64: head.S: cleanup SCTLR_ELx initialization")
+ecbb11ab3ebc ("arm64: head.S: rename el2_setup -> init_kernel_el")

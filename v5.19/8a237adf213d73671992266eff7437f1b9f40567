@@ -1,0 +1,3 @@
+8a237adf213d ("fs/buffer.c: disable per-CPU buffer_head cache for isolated CPUs")
+4fa512ce7051 ("fs/buffer.c: support fsverity in block_read_full_folio()")
+b7a6eb22ba10 ("buffer: Don't test folio error in block_read_full_folio()")

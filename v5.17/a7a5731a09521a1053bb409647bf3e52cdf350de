@@ -1,0 +1,5 @@
+a7a5731a0952 ("hwmon: (adt7x10) Use hwmon_notify_event")
+f691adc3e95e ("hwmon: (adt7x10) Use devm_request_threaded_irq")
+a748d30c37bb ("hwmon: (adt7x10) Use devm_hwmon_device_register_with_info")
+af910e92886c ("hwmon: (adt7x10) Add device managed action for restoring config")
+f53207017fd9 ("hwmon: (adt7x10) Convert to use regmap")

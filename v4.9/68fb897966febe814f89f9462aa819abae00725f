@@ -1,0 +1,8 @@
+68fb897966fe ("io_uring: inline io_clean_op()'s fast path")
+34e08fed2c1c ("io_uring: inline io_req_drop_files()")
+a38d68db6742 ("io_uring: help inlining of io_req_complete()")
+907d1df30a51 ("io_uring: fix wqe->lock/completion_lock deadlock")
+02a13674fa0e ("io_uring: account io_uring internal files as REQ_F_INFLIGHT")
+9d5c8190683a ("io_uring: fix sleeping under spin in __io_clean_op")
+dfea9fce29fd ("io_uring: close a small race gap for files cancel")
+48aba79bcf6e ("Merge tag 'for-5.11/io_uring-2020-12-14' of git://git.kernel.dk/linux-block")

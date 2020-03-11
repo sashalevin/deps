@@ -1,0 +1,7 @@
+1cb8f3e2d8fe ("hwspinlock: remove sirf driver")
+c3e9b463b41b ("hwspinlock: sirf: Remove the redundant 'of_match_ptr'")
+285e74ab4f94 ("hwspinlock: Simplify Kconfig")
+ffd0bbfb378e ("hwspinlock: Allow drivers to be built with COMPILE_TEST")
+cb36017a8b1b ("hwspinlock: sirf: Use devm_hwspin_lock_register() to register hwlock controller")
+8f2a0dc87dad ("hwspinlock: sirf: Remove redundant PM runtime functions")
+77d99a6a9df2 ("hwspinlock: sirf: Change to use devm_platform_ioremap_resource()")

@@ -1,0 +1,7 @@
+a6e66e6f8c1b ("btrfs: rework lzo_decompress_bio() to make it subpage compatible")
+1c3dc1731ed2 ("btrfs: rework btrfs_decompress_buf2page()")
+8c945d32e604 ("btrfs: compression: drop kmap/kunmap from lzo")
+58c1a35cd522 ("btrfs: convert kmap to kmap_local_page, simple cases")
+3590ec58991b ("btrfs: use memcpy_[to|from]_page() and kmap_local_page()")
+8c7d9fe06f5b ("btrfs: send: avoid copying file data")
+a9b2e0de92cb ("btrfs: send: get rid of i_size logic in send_write()")

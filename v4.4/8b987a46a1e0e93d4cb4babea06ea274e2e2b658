@@ -1,0 +1,5 @@
+8b987a46a1e0 ("split the slow part of lock_parent() off")
+65d8eb5a8f54 ("now lock_parent() can't run into killed dentry")
+c1d0c1a2b51e ("fs/dcache: Move dentry_kill() below lock_parent()")
+06080d100d92 ("fs/dcache: Remove stale comment from dentry_kill()")
+47be61845c77 ("fs/dcache.c: avoid soft-lockup in dput()")

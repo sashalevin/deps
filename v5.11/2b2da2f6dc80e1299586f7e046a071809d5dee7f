@@ -1,0 +1,5 @@
+2b2da2f6dc80 ("blk-iocost: prevent configuration update concurrent with io throttling")
+2c0647988433 ("blk-iocost: don't release 'ioc->lock' while updating params")
+ed6cddefdfd3 ("block: convert the rest of block to bdev_get_queue")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")

@@ -1,0 +1,5 @@
+2ed6e3bac152 ("spi: amd: Use devm_platform_ioremap_resource() in amd_spi_probe")
+36c72a58d472 ("spi: amd: Drop superfluous member from struct amd_spi")
+f84b604dbaf2 ("spi: spi-amd: Fix a NULL vs IS_ERR() check in amd_spi_probe()")
+bbb336f39efc ("spi: spi-amd: Add AMD SPI controller driver support")
+529766e0a011 ("i2c: Add drivers for the AMD PCIe MP2 I2C controller")

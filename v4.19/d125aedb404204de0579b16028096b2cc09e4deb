@@ -1,0 +1,8 @@
+d125aedb4042 ("powerpc/eeh: Rework EEH initialisation")
+466381ecdc74 ("powerpc/eeh: Release EEH device state synchronously")
+c44e4ccadaca ("powerpc/eeh: Refactor around eeh_probe_devices()")
+685a0bc00abc ("powerpc/eeh: Initialize EEH address cache earlier")
+5ca85ae6318d ("powerpc/eeh_cache: Add a way to dump the EEH address cache")
+46ee7c3c5212 ("powerpc/eeh: Use debugfs_create_u32 for eeh_max_freezes")
+8c6c942d33f2 ("powerpc/eeh: Fix debugfs_simple_attr.cocci warnings")
+bffc0176e7d0 ("powerpc/eeh: Cleanup EEH_POSTPONED_PROBE")

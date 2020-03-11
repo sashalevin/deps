@@ -1,0 +1,6 @@
+958e8e14fd24 ("KVM: arm64: vgic-v4: Initialize GICv4.1 even in the absence of a virtual ITS")
+24cab82c34aa ("KVM: arm/arm64: vgic: Add LPI translation cache definition")
+ab2d5eb03dbb ("KVM: arm/arm64: vgic: Always initialize the group of private IRQs")
+fc3bc475231e ("KVM: arm/arm64: vgic: Make vgic_dist->lpi_list_lock a raw_spinlock")
+8df3c8f33f46 ("KVM: arm/arm64: vgic: Add group field to struct irq")
+5eec43a1fa2a ("Merge tag 'kvmarm-for-v4.18' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

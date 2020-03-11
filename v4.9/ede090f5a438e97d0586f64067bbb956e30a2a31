@@ -1,0 +1,7 @@
+ede090f5a438 ("spi: altera: fix return value for altera_spi_txrx()")
+3c6519736eef ("spi: altera: use regmap-mmio instead of direct mmio register access")
+1fccd182a469 ("spi: altera: add platform data for slave information.")
+8e04187c1bc7 ("spi: altera: add SPI core parameters support via platform data.")
+5277ab6c8383 ("spi: altera: use devm_platform_ioremap_resource() to simplify code")
+b64836a5718b ("spi: altera: Consolidate TX/RX data register access")
+e19b63cd3cb7 ("spi: altera: Switch to SPI core transfer queue management")

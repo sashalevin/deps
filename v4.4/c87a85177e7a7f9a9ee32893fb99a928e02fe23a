@@ -1,0 +1,4 @@
+c87a85177e7a ("x86/entry: Get rid of two-phase syscall entry work")
+abfb9498ee13 ("x86/entry: Rename is_{ia32,x32}_task() to in_{ia32,x32}_syscall()")
+392a62549fbb ("x86/entry: Remove TIF_SINGLESTEP entry work")
+95d97adb2bb8 ("x86/signal: Cleanup get_nr_restart_syscall()")

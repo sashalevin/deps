@@ -1,0 +1,7 @@
+8188b154f950 ("PM / devfreq: remove redundant null pointer check before kfree")
+9e14de1077e9 ("PM / devfreq: Fix memory leak when fail to register device")
+ac4b281176a5 ("PM / devfreq: fix duplicated kfree on devfreq pointer")
+3e1d7fb0d279 ("PM / devfreq: devm_kzalloc to have dev pointer more precisely")
+0fe3a66410a3 ("PM / devfreq: Add new DEVFREQ_TRANSITION_NOTIFIER notifier")
+8f510aeb223b ("PM / devfreq: Add devfreq_get_devfreq_by_phandle()")
+0ec09ac2cebe ("PM / devfreq: Set the freq_table of devfreq device")

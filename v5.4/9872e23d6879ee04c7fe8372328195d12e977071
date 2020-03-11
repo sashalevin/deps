@@ -1,0 +1,5 @@
+9872e23d6879 ("dmaengine: Fix doc strings to satisfy validation script")
+4db8fd32ed2b ("dmaengine: Add metadata_ops for dma_async_tx_descriptor")
+8ad342a86359 ("dmaengine: Add reference counting to dma_device struct")
+11a0fd2b3baa ("dmaengine: Move dma_channel_rebalance() infrastructure up in code")
+686607106f1f ("dmaengine: Call module_put() after device_free_chan_resources()")

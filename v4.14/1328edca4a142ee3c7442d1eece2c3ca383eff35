@@ -1,0 +1,7 @@
+1328edca4a14 ("cpuidle-haltpoll: Enable kvm guest polling when dedicated physical CPUs are available")
+5cc59f597c06 ("cpuidle-haltpoll: return -ENODEV on modinit failure")
+fa86ee90eb11 ("add cpuidle-haltpoll driver")
+a4429e53c9b3 ("KVM: Introduce paravirtualization hints and KVM_HINTS_DEDICATED")
+f3614646005a ("x86/virt, x86/platform: Add ->guest_late_init() callback to hypervisor_x86 structure")
+03b2a320b19f ("x86/virt: Add enum for hypervisors to replace x86_hyper")
+f72e38e8ec88 ("x86/virt, x86/platform: Merge 'struct x86_hyper' into 'struct x86_platform' and 'struct x86_init'")

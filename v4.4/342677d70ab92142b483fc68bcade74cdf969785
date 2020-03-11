@@ -1,0 +1,7 @@
+342677d70ab9 ("irqchip/gic-v3: Remove acknowledge loop")
+d01d327406d9 ("irqchip/gic: Update supports_deactivate static key to modern api")
+d33a3c8c48c3 ("KVM: arm/arm64: Check that system supports split eoi/deactivate")
+39a06b67c2c1 ("irqchip/gic: Ensure we have an ISB between ack and ->handle_irq")
+faea645585de ("irqchip/gic: Add helper function for chip initialisation")
+d6ce564cea0c ("irqchip/gic: Isolate early GIC initialisation code")
+7beaa24ba497 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

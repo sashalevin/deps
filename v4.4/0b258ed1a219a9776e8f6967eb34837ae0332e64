@@ -1,0 +1,8 @@
+0b258ed1a219 ("drm: revert "expand replace_fence to support timeline point v2"")
+86bbd89d5da6 ("drm/syncobj: use dma_fence_get_stub")
+131280a162e7 ("drm: Revert syncobj timeline changes.")
+783195ec1cad ("drm/syncobj: disable the timeline UAPI for now v2")
+aecbde630e95 ("drm/syncobj: Fix oops on drm_syncobj_find_fence(file_priv, 0, ...).")
+9cbe67c5bc44 ("drm/syncobj: Mark local add/remove callback functions as static")
+4fb2c933c965 ("drm/syncobj: Avoid kmalloc(GFP_KERNEL) under spinlock")
+6542e9adc0da ("Merge drm/drm-next into drm-misc-next")

@@ -1,0 +1,8 @@
+f04a4186afb6 ("drm/nouveau/kms/nv04-nv4x: move suspend code to dispnv04 fini hook")
+fcd6f048386d ("drm/nouveau/kms/nv04-nv4x: move a bunch of pre-nv50 page flip code to dispnv04")
+ba801ef068c1 ("drm/nouveau/kms: display destroy/init/fini hooks can be static")
+2f7ca781fd38 ("drm/nouveau/drm/nouveau: Don't forget to cancel hpd_work on suspend/unload")
+eb493fbc150f ("drm/nouveau: Set DRIVER_ATOMIC cap earlier to fix debugfs")
+30ed49b55b6e ("drm/nouveau/kms/nv50-: move code underneath dispnv50/")
+512fa0b8a398 ("drm/nouveau/drm/nv50-: remove allocation of sw class")
+c20bb155c2c5 ("drm/nouveau: prefer XBGR2101010 for addfb ioctl")

@@ -1,0 +1,7 @@
+d8fcb81f1acf ("sched/fair: Check for idle core in wake_affine")
+3b76c4a33959 ("sched/fair: Restructure wake_affine*() to return a CPU id")
+89a55f56fd1c ("sched/fair: Remove unnecessary parameters from wake_affine_idle()")
+7332dec055f2 ("sched/fair: Only immediately migrate tasks due to interrupts if prev and target CPUs share cache")
+f2cdd9cc6c97 ("sched/core: Address more wake_affine() regressions")
+d153b153446f ("sched/core: Fix wake_affine() performance regression")
+040b9d7ccff4 ("Merge branch 'sched-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

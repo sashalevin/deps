@@ -1,0 +1,5 @@
+b9bf97105f4b ("gpio: 104-idi-48: improve code indentation")
+e1e37d6c4a78 ("gpio: 104-idi-48: make use of raw_spinlock variants")
+053ae6499a56 ("gpio: 104-idi-48: Fix missing spin_lock_init for ack_lock")
+9ae482104cb9 ("gpio: 104-idi-48: Clear pending interrupt once in IRQ handler")
+6ddcf9b486f1 ("gpio: Add GPIO support for the ACCES 104-IDI-48")

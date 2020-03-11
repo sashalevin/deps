@@ -1,0 +1,8 @@
+9fe6299dde58 ("x86/process: Don't mix user/kernel regs in 64bit __show_regs()")
+602bd705da33 ("x86/dumpstack: Save first regs set for the executive summary")
+f0a1d7c11c3e ("x86/dumpstack: Carve out code-dumping into a function")
+5d12f0424edf ("x86/dumpstack: Remove code_bytes")
+16d1cb0bc436 ("x86/dumpstack: Unify show_regs()")
+a9cdbe72c4e8 ("x86/dumpstack: Fix partial register dumps")
+b02fcf9ba121 ("x86/unwinder: Handle stack overflows more gracefully")
+f95b23a112f1 ("Merge branch 'x86/urgent' into x86/asm, to pick up dependent fixes")

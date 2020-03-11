@@ -1,0 +1,8 @@
+bfb81535c266 ("svcrdma: Clean up locking")
+b6c2bfea096b ("svcrdma: Relieve contention on sc_send_lock.")
+9af723be8639 ("svcrdma: Remove sc_read_complete_q")
+7d81ee8722d6 ("svcrdma: Single-stage RDMA Read")
+82011c80b3ec ("SUNRPC: Move svc_xprt_received() call sites")
+579900670ac7 ("svcrdma: Remove unused sc_pages field")
+2a1e4f21d841 ("svcrdma: Normalize Send page handling")
+e844d307d46c ("svcrdma: Add a "deferred close" helper")

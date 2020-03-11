@@ -1,0 +1,5 @@
+906123739272 ("riscv/atomic.h : Deduplicate arch_atomic.*")
+d12157efc8e0 ("locking/atomic: make atomic*_{cmp,}xchg optional")
+a7bafa7969da ("locking/atomic: hexagon: remove redundant arch_atomic_cmpxchg")
+14d72d4b6f0e ("locking/atomic: remove fallback comments")
+8c8b096a23d1 ("instrumentation: Wire up cmpxchg128()")

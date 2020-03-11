@@ -1,0 +1,4 @@
+96c1fa04f089 ("tick/rcu: Fix false positive "softirq work is pending" messages")
+0345691b24c0 ("tick/rcu: Stop allowing RCU_SOFTIRQ in idle")
+47c218dcae65 ("tick/sched: Prevent false positive softirq pending warnings on RT")
+8b1c04acad08 ("softirq: Make softirq control and processing RT aware")

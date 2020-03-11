@@ -1,0 +1,6 @@
+03bf32bbb607 ("usb: dwc3: Use devres to get clocks")
+615277779f41 ("usb: dwc3: Only call clk_bulk_get() on devicetree instantiated devices")
+fe8abf332b8f ("usb: dwc3: support clocks and resets for DWC3 core")
+44feb8e6ea2d ("usb: dwc3: use local copy of resource to fix-up register offset")
+c4a5153e87fd ("usb: dwc3: core: Power-off core/PHYs on system_suspend in host mode")
+689bf72c6e0d ("usb: dwc3: Don't reinitialize core during host bus-suspend/resume")

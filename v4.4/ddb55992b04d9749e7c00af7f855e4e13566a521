@@ -1,0 +1,6 @@
+ddb55992b04d ("arm64: bpf: implement bpf_tail_call() helper")
+4c1cd4fdfd14 ("bpf: arm64: remove callee-save registers use for tmp registers")
+26eb042ee4c7 ("bpf, arm64: add support for constant blinding")
+d1c55ab5e41f ("bpf: prepare bpf_int_jit_compile/bpf_prog_select_runtime apis")
+42ff712bc0c3 ("arm64: bpf: add extra pass to handle faulty codegen")
+8b614aebecdf ("bpf: move clearing of A/X into classic to eBPF migration prologue")

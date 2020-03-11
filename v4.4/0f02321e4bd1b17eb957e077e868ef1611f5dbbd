@@ -1,0 +1,8 @@
+0f02321e4bd1 ("USB: cdc-acm: clean up throttle handling")
+764478f41130 ("USB: cdc-acm: fix unthrottle races")
+1aba579f3cf5 ("cdc-acm: handle read pipe errors")
+d305394ee8c4 ("cdc-acm: remove is_int_ep from acm structure")
+74bccc9b71dc ("cdc-acm: store in and out pipes in acm structure")
+efbe27b3cf60 ("cdc-acm: cleaning up debug in data submission path")
+add125054b87 ("cdc-acm: fix wrong pipe type on rx interrupt xfers")
+19454462acb1 ("usb: cdc-acm: handle unlinked urb in acm read callback")

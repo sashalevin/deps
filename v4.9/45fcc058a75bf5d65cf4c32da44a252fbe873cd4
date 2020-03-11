@@ -1,0 +1,4 @@
+45fcc058a75b ("fbdev: imxfb: Removed unneeded release_mem_region")
+b083c22d5114 ("video: fbdev: imxfb: Convert request_mem_region + ioremap to devm_ioremap_resource")
+9d54c5d47406 ("video: fbdev: imxfb: Check for null res pointer")
+5ae29649e03f ("video: fbdev: imxfb: use after free in imxfb_remove()")

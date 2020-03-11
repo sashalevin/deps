@@ -1,0 +1,3 @@
+e9458a4e337d ("rhashtable: Fix cmpxchg RCU warnings")
+7a41c294c146 ("rhashtable: use cmpxchg() in nested_table_alloc()")
+0ad66449aa3c ("rhashtable: use cmpxchg() to protect ->future_tbl.")

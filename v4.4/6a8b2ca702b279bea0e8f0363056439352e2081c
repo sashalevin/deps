@@ -1,0 +1,4 @@
+6a8b2ca702b2 ("ARC: mm: PAE40: Fix crash at munmap")
+1c3c90930392 ("ARC: mm: fix build breakage with STRICT_MM_TYPECHECKS")
+2519d753676b ("ARC: Fix PAE40 boot failures due to PTE truncation")
+c2ff5cf2735c ("ARC: mm: Use virt_to_pfn() for addr >> PAGE_SHIFT pattern")

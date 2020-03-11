@@ -1,0 +1,4 @@
+197231da7f6a ("proc: Fix W=1 build kernel-doc warning")
+0a960ba49869 ("proc: Move fdinfo PTRACE_MODE_READ check into the inode .permission operation")
+1927e498aee1 ("procfs: prevent unprivileged processes accessing fdinfo dir")
+7bc3fa0172a4 ("procfs: allow reading fdinfo with PTRACE_MODE_READ")

@@ -1,0 +1,5 @@
+8cbf74149903 ("i40e, xsk: move buffer allocation out of the Rx processing loop")
+3b4f0b66c2b3 ("i40e, xsk: Migrate to new MEM_TYPE_XSK_BUFF_POOL")
+be1222b585fd ("i40e: Separate kernel allocated rx_bi rings from AF_XDP rings")
+e1675f97367b ("i40e: Refactor rx_bi accesses")
+2a637c5b1aaf ("xdp: For Intel AF_XDP drivers add XDP frame_sz")

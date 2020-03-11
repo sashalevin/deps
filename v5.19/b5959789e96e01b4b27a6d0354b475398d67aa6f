@@ -1,0 +1,4 @@
+b5959789e96e ("mm, slab: dissolve shutdown_cache() into its caller")
+46a9ea668190 ("mm/slab_common: fix slab_caches list corruption after kmem_cache_destroy()")
+d71608a87736 ("mm/slab_common: fix possible double free of kmem_cache")
+0495e337b703 ("mm/slab_common: Deleting kobject in kmem_cache_destroy() without holding slab_mutex/cpu_hotplug_lock")

@@ -1,0 +1,8 @@
+8fac41ebe289 ("mtd: rawnand: fsl_upm: Get rid of the legacy interface implementation")
+abc846afda66 ("mtd: rawnand: fsl_upm: Inherit from nand_controller")
+a50895bbdbd4 ("mtd: rawnand: fsl_upm: Use gpio descriptors")
+58c5a0e04dfc ("mtd: rawnand: fsl_upm: Use platform_get_resource() + devm_ioremap_resource()")
+f760bf29f867 ("mtd: rawnand: fsl_upm: Allocate the fsl_upm_nand object using devm_kzalloc()")
+5290833c10b9 ("mtd: rawnand: fsl_upm: Get rid of the unused fsl_upm_nand.parts field")
+ccc49eff77be ("mtd: rawnand: fsl_upm: Remove unused mtd var")
+f6c4e661491a ("mtd: rawnand: fsl_upm: Stop using nand_release()")

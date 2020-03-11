@@ -1,0 +1,8 @@
+effc5b3b0d20 ("ext4: remove useless resetting io_end_size in mpage_process_page()")
+c8cc88163f40 ("ext4: Add support for blocksize < pagesize in dioread_nolock")
+2943fdbc688e ("ext4: Refactor mpage_map_and_submit_buffers function")
+a00713ea982b ("ext4: Add API to bring in support for unwritten io_end_vec conversion")
+821ff38d192a ("ext4: keep uniform naming convention for io & io_end variables")
+2b85a6171d13 ("ext4: use pagevec_lookup_range() in writeback code")
+d72dc8a25afc ("mm: make pagevec_lookup() update index")
+642338ba33c5 ("Merge tag 'xfs-4.13-merge-5' of git://git.kernel.org/pub/scm/fs/xfs/xfs-linux")

@@ -1,0 +1,5 @@
+d1db9fb432d5 ("sched/fair: Fix open-coded numa_nearest_node()")
+ab31c7fd2d37 ("sched/numa: Fix boot crash on arm64 systems")
+5c7b1aaf139d ("sched/numa: Avoid migrating task to CPU-less node")
+cb361d8cdef6 ("sched/fair: Use RCU accessors consistently for ->numa_group")
+16d51a590a8c ("sched/fair: Don't free p->numa_faults with concurrent readers")

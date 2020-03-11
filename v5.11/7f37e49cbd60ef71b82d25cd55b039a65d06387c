@@ -1,0 +1,7 @@
+7f37e49cbd60 ("mm/mmzone.h: remove unused macros")
+351de44fde5a ("mm/swap: make NODE_DATA an inline function on CONFIG_FLATMEM")
+43b02ba93b25 ("mm: replace CONFIG_FLAT_NODE_MEM_MAP with CONFIG_FLATMEM")
+0740a50b9baa ("mm/page_alloc.c: refactor initialization of struct page for holes in memory layout")
+3256ff83c566 ("mm: simplify parater of function memmap_init_zone()")
+ab28cb6e1e5e ("mm: rename memmap_init() and memmap_init_zone()")
+93f503c3fcd1 ("mm: fix prototype warning from kernel test robot")

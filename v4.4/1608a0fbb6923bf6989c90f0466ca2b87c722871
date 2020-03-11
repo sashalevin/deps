@@ -1,0 +1,6 @@
+1608a0fbb692 ("drm/nouveau/fbcon: refcount the drm_framebuffer")
+595b61cc1316 ("drm/nouveau/fbcon: make use of drm_fb_helper.fb")
+9dec92805231 ("drm/nouveau/fbcon: make use of drm_fb_helper.dev")
+e889c24490cc ("drm/nouveau: Use unlocked gem unreferencing")
+1eb83451ba55 ("drm: Pass the user drm_mode_fb_cmd2 as const to .fb_create()")
+cb1197173f46 ("drm: Remove unused fbdev_list members")

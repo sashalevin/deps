@@ -1,0 +1,5 @@
+2675251d5037 ("mm/page_io: use a folio in swap_writepage_bdev_async()")
+05cda97ecb70 ("mm: factor out a swap_writepage_bdev helper")
+e3e2762bd3c5 ("mm: remove the __swap_writepage return value")
+71fa1a533d2e ("swap: convert swap_writepage() to use a folio")
+cf1e3fe4975c ("mm/swap: remove the end_write_func argument to __swap_writepage")

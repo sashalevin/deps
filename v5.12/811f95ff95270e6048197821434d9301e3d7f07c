@@ -1,0 +1,8 @@
+811f95ff9527 ("KVM: x86: Free kvm_cpuid_entry2 array on post-KVM_RUN KVM_SET_CPUID{,2}")
+c6617c61e8fe ("KVM: x86: Partially allow KVM_SET_CPUID{,2} after KVM_RUN")
+ee3a5f9e3d9b ("KVM: x86: Do runtime CPUID update before updating vcpu->arch.cpuid_entries")
+5ab2f45bba48 ("kvm: x86: Enable dynamic xfeatures at KVM_SET_CPUID2")
+dc23a5110b10 ("cpuid: kvm_find_kvm_cpuid_features() should be declared 'static'")
+760849b1476c ("KVM: x86: Make sure KVM_CPUID_FEATURES really are KVM_CPUID_FEATURES")
+8b44b174f6ac ("KVM: x86: Add helper to consolidate core logic of SET_CPUID{2} flows")
+1383279c6494 ("KVM: x86: Allow guest to set EFER.NX=1 on non-PAE 32-bit kernels")

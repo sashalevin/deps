@@ -1,0 +1,7 @@
+4e00b339e264 ("random: rate limit unseeded randomness warnings")
+d848e5f8e1eb ("random: add new ioctl RNDRESEEDCRNG")
+8ef35c866f88 ("random: set up the NUMA crng instances after the CRNG is fully initialized")
+dc12baacb95f ("random: use a different mixing algorithm for add_device_randomness()")
+43838a23a05f ("random: fix crng_ready() test")
+51d96dc2e2dc ("random: fix warning message on ia64 and parisc")
+52f6c588c77b ("Merge tag 'random_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/random")

@@ -1,0 +1,7 @@
+5a43b87b3c62 ("x86/mce/therm_throt: Mask out read-only and reserved MSR bits")
+f6656208f04e ("x86/mce/therm_throt: Optimize notifications of thermal throttle")
+9c3bafaa1fd8 ("x86/mce: Lower throttling MCE messages' priority to warning")
+9b052ea4ced0 ("x86/ras/therm_throt: Do not log a fake MCE for thermal events")
+d6526e73dbbb ("x86/mce/therm_throt: Convert to hotplug state machine")
+38643a0e691e ("drivers base/topology: Convert to hotplug state machine")
+a4fc1bfc4206 ("net/flowcache: Convert to hotplug state machine")

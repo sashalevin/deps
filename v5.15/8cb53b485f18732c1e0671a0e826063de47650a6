@@ -1,0 +1,8 @@
+8cb53b485f18 ("can: flexcan: add auto stop mode for IMX93 to support wakeup")
+d945346db1ef ("can: flexcan: fix typo: FLEXCAN_QUIRK_SUPPPORT_* -> FLEXCAN_QUIRK_SUPPORT_*")
+f04aefd4659b ("can: flexcan: mark RX via mailboxes as supported on MCF5441X")
+1c45f5778a3b ("can: flexcan: add ethtool support to change rx-rtr setting during runtime")
+c5c88591040e ("can: flexcan: add more quirks to describe RX path capabilities")
+34ea4e1c99f1 ("can: flexcan: rename RX modes")
+01bb4dccd92b ("can: flexcan: allow to change quirks at runtime")
+bfd00e021cf1 ("can: flexcan: move driver into separate sub directory")

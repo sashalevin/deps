@@ -1,0 +1,8 @@
+c30e9bc8b606 ("KVM: nVMX: hyper-v: Enable L2 TLB flush")
+b0c9c25e4625 ("KVM: x86: Introduce .hv_inject_synthetic_vmexit_post_tlb_flush() nested hook")
+a789aeba4196 ("KVM: VMX: Rename "vmx/evmcs.{ch}" to "vmx/hyperv.{ch}"")
+089fe572a2e0 ("x86/hyperv: Move VMCB enlightenment definitions to hyperv-tlfs.h")
+e67bd7df28a0 ("KVM: selftests: nSVM: Add enlightened MSR-Bitmap selftest")
+66c03a926f18 ("KVM: nSVM: Implement Enlightened MSR-Bitmap feature")
+9e083ec7bb66 ("KVM: nSVM: Split off common definitions for Hyper-V on KVM and KVM on Hyper-V")
+73c25546d47f ("KVM: nSVM: Track whether changes in L0 require MSR bitmap for L2 to be rebuilt")

@@ -1,0 +1,6 @@
+3db6e0d172c9 ("rds: use RCU to synchronize work-enqueue with connection teardown")
+c90ecbfaf50d ("rds: Use atomic flag to track connections being destroyed")
+681648e67d43 ("rds: tcp: correctly sequence cleanup on netns deletion.")
+126f760ca94d ("rds: Fix incorrect statistics counting")
+840df162b3eb ("rds: reduce memory footprint for RDS when transport is RDMA")
+7a68ada6ec7d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

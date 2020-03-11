@@ -1,0 +1,5 @@
+7e4fd16b3892 ("MIPS: RALINK: Define pci_remap_iospace under CONFIG_PCI_DRIVERS_GENERIC")
+09d97da660ff ("MIPS: Only define pci_remap_iospace() for Ralink")
+e538e8649892 ("MIPS: asm: pci: define arch-specific 'pci_remap_iospace()' dependent on 'CONFIG_PCI_DRIVERS_GENERIC'")
+9f76779f2418 ("MIPS: implement architecture-specific 'pci_remap_iospace()'")
+222b27713d7f ("MIPS: ralink: Define PCI_IOBASE")

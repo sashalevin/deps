@@ -1,0 +1,4 @@
+632a1c209b87 ("x86/traps: Correct exc_general_protection() and math_error() return paths")
+334872a09198 ("x86/traps: Attempt to fixup exceptions in vDSO before signaling")
+cd072dab453a ("x86/fault: Add a helper function to sanitize error code")
+ef68017eb570 ("x86/kvm: Handle async page faults directly through do_page_fault()")

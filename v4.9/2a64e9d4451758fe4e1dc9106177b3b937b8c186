@@ -1,0 +1,5 @@
+2a64e9d44517 ("hwmon: (it87) Allow multiple chip IDs for force_id")
+b361a1cf6245 ("hwmon: (it87) Group all related MODULE_PARM definitions together")
+b3b19931a5c2 ("hwmon: (it87) Check for a valid chip before using force_id")
+12c44ab8b401 ("hwmon: (it87) Add param to ignore ACPI resource conflicts")
+8358378b2251 ("hwmon: (it87) Avoid registering the same chip on both SIO addresses")

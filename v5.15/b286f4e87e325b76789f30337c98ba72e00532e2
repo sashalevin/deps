@@ -1,0 +1,4 @@
+b286f4e87e32 ("serial: core: Move tty and serdev to be children of serial core port device")
+64ebf8797249 ("serdev: Replace custom code with device_match_acpi_handle()")
+aef0f5a1841e ("serdev: Make use of device_set_node()")
+0890186a9658 ("serdev: Do not instantiate serdevs on boards with known bogus DSDT entries")

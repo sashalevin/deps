@@ -1,0 +1,6 @@
+22add2a20e96 ("powerpc/8xx: Convert CPM1 error interrupt handler to platform driver")
+acf9e575d889 ("powerpc/8xx: Move CPM interrupt controller into a dedicated file")
+b4f00d5b2098 ("powerpc: Replace setup_irq() by request_irq()")
+eafd687e689a ("powerpc/8xx: use the fixmapped IMMR in cpm_reset()")
+132f92fdc427 ("powerpc/8xx: add __init to cpm1 init functions")
+4128a89ac80d ("powerpc/8xx: move CPM1 related files from sysdev/ to platforms/8xx")

@@ -1,0 +1,5 @@
+0f1bf7e39822 ("arm64/vdso: don't leak kernel addresses")
+dbbb08f500d6 ("arm64, vdso: Define vdso_{start,end} as array")
+2077be6783b5 ("arm64: Use __pa_symbol for kernel symbols")
+869dcfd10dfe ("arm64: Add cast for virt_to_pfn")
+e98216b52176 ("arm64: mm: BUG on unsupported manipulations of live kernel mappings")

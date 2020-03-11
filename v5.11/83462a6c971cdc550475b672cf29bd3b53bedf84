@@ -1,0 +1,6 @@
+83462a6c971c ("blkcg: Drop unnecessary RCU read [un]locks from blkg_conf_prep/finish()")
+15c301049651 ("blk-cgroup: fix missing put device in error path from blkg_conf_pref()")
+0c9d338c8443 ("blk-cgroup: synchronize blkg creation against policy deactivation")
+ed6cddefdfd3 ("block: convert the rest of block to bdev_get_queue")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")

@@ -1,0 +1,7 @@
+f8ae9bb51670 ("dt-bindings: power: reset: gpio-poweroff: Convert txt bindings to yaml")
+76ee875c2f48 ("power: reset: gpio-poweroff: add ability to specific active and inactive delays")
+77142a611252 ("gpio-poweroff: Use gpiod_set_value_cansleep")
+d85b4f7b7fae ("power: reset: gpio-poweroff: Support for timeout from device property")
+88f598725f42 ("dt-bindings: power: reset: gpio-poweroff: Add 'timeout-ms' property")
+a7f5cf380138 ("dt-bindings: power: reset: gpio-poweroff: Drop reference to pm_power_off")
+c686090f14e0 ("gpio/reset: move gpio-{poweroff|restart} DT doc to proper place")

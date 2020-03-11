@@ -1,0 +1,4 @@
+ff963634f7b2 ("drm/drv: Fix potential memory leak in drm_dev_init()")
+2cbf7fc6718b ("drm: Use drmm_ for drm_dev_init cleanup")
+a5c71fdba9df ("drm: Handle dev->unique with drmm_")
+c6603c740e0e ("drm: add managed resources tied to drm_device")

@@ -1,0 +1,6 @@
+55793ea54d77 ("nbd: fix incomplete validation of ioctl arg")
+2dc691cc4ac2 ("nbd: refactor size updates")
+92f93c3a1bf9 ("nbd: move the task_recv check into nbd_size_update")
+ee4bf6486350 ("nbd: remove the call to set_blocksize")
+b40813ddcd6b ("nbd: don't update block size after device is started")
+38430f0876fa ("block: move the NEED_PART_SCAN flag to struct gendisk")

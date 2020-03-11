@@ -1,0 +1,7 @@
+4ba77bfbad9e ("tty: vt: use sizeof(*variable) where possible")
+af77c56aa353 ("tty: vt: initialize unicode screen buffer")
+9a98e7a80f95 ("vt: don't use kmalloc() for the unicode screen buffer")
+d8ae72427187 ("vt: preserve unicode values corresponding to screen characters")
+4b4ecd9cb853 ("vt: Perform safe console erase only once")
+bcd375f7f71f ("console: Add callback to flush scrollback buffer to consw struct")
+5131dcd78108 ("Merge 4.9-rc3 into tty-next")

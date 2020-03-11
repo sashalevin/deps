@@ -1,0 +1,8 @@
+d97180ad68bd ("parisc: Mark sched_clock unstable only if clocks are not syncronized")
+82292aaede74 ("arch/parisc/setup: Drop dummy_con initialization")
+c8c3735997a3 ("parisc: Enhance detection of synchronous cr16 clocksources")
+acb04058de49 ("sched/clock: Fix hotplug crash")
+9881b024b7d7 ("sched/clock: Delay switching sched_clock to stable")
+555570d744f8 ("sched/clock: Update static_key usage")
+41744213602a ("parisc: Mark cr16 clocksource unstable on SMP systems")
+637250cc8f5e ("parisc: Enhance CPU detection code on PAT machines")

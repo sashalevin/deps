@@ -1,0 +1,4 @@
+519f490db07e ("dma-buf/sync-file: fix warning about fence containers")
+ffe000217c50 ("dma-buf/sync_file: Don't leak fences on merge failure")
+a47fc51d8e1e ("dma-buf: use krealloc_array()")
+6645d42d79d3 ("dma-buf: Fix memory leak in sync_file_merge()")

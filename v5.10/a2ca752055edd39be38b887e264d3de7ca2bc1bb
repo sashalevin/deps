@@ -1,0 +1,7 @@
+a2ca752055ed ("hwmon: (pwm-fan) Ensure the fan going on in .probe()")
+86585c61972f ("hwmon: (pwm-fan) stop using legacy PWM functions and some cleanups")
+f0dc7cb6b4c9 ("hwmon: (pwm-fan) Support multiple fan tachometers")
+01695410d452 ("hwmon: (pwm-fan) Store tach data separately")
+1eda52334e6d ("hwmon: (pwm-fan) Ensure that calculation doesn't discard big period values")
+1aa0365574ab ("hwmon: (pwm-fan) Convert to hwmon_device_register_with_info API")
+b5fcb8a4018d ("hwmon: pwm-fan: Refactor pwm_fan_probe")

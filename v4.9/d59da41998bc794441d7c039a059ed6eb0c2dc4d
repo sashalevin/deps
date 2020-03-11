@@ -1,0 +1,7 @@
+d59da41998bc ("block: remove the unused blk_integrity_merge_bio export")
+92cf2fd156b2 ("block: remove the unused blk_integrity_merge_rq export")
+43b729bfe9cf ("block: move integrity_req_gap_{back,front}_merge to blk.h")
+359f642700f2 ("block: move bio_integrity_{intervals,bytes} into blkdev.h")
+7c20f11680a4 ("bio-integrity: stop abusing bi_end_io")
+e23947bd76f0 ("bio-integrity: fold bio_integrity_enabled to bio_integrity_prep")
+8f66439eec46 ("Merge tag 'v4.12-rc5' into for-4.13/block")

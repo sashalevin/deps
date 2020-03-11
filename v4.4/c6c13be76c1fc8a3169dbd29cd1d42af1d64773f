@@ -1,0 +1,5 @@
+c6c13be76c1f ("perf annotate: Do not overwrite perf_sample->weight")
+ecd5f9959d2c ("perf annotate: Do not overwrite sample->period")
+70fbe0574558 ("perf annotate: Add branch stack / basic block")
+0102ef3ec940 ("perf hists: Rename __hists__add_entry to hists__add_entry")
+fd36f3dd7933 ("perf hist: Pass struct sample to __hists__add_entry()")

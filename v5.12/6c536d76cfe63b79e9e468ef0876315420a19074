@@ -1,0 +1,6 @@
+6c536d76cfe6 ("tracing: Disable preemption when using the filter buffer")
+e07a1d576239 ("tracing: Use __this_cpu_read() in trace_event_buffer_lock_reserver()")
+8f0901cda14d ("tracing: Add better comments for the filtering temp buffer use case")
+faa76a6c289f ("tracing: Simplify the max length test when using the filtering temp buffer")
+3e08a9f9760f ("tracing: Correct the length check which causes memory corruption")
+b94bc80df648 ("tracing: Use a no_filter_buffering_ref to stop using the filter buffer")

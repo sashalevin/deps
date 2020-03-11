@@ -1,0 +1,7 @@
+7674a42f35ea ("erofs: use struct lockref to replace handcrafted approach")
+7b4e372c36fc ("erofs: adapt managed inode operations into folios")
+285d0f85dae6 ("erofs: avoid pcpubuf.c inclusion if CONFIG_EROFS_FS_ZIP is off")
+4fdadd5b0f0c ("erofs: get rid of z_erofs_fill_inode()")
+1c7f49a76773 ("erofs: tidy up EROFS on-disk naming")
+d3c4bdcc756e ("erofs: set block size to the on-disk block size")
+3acea5fc3354 ("erofs: avoid hardcoded blocksize for subpage block support")

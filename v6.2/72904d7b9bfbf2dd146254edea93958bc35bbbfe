@@ -1,0 +1,7 @@
+72904d7b9bfb ("rxrpc, afs: Allow afs to pin rxrpc_peer objects")
+07f3502b33a2 ("afs: Turn the afs_addr_list address array into an array of structs")
+1702e0654ca9 ("afs: fix the usage of read_seqbegin_or_lock() in afs_find_server*()")
+2d26302bdff1 ("afs: Annotate struct afs_addr_list with __counted_by")
+ba00b1906708 ("afs: Fix vlserver probe RTT handling")
+db099c625b13 ("rxrpc: Fix timeout of a call that hasn't yet been granted a channel")
+e0416e7d3336 ("rxrpc: Fix potential race in error handling in afs_make_call()")

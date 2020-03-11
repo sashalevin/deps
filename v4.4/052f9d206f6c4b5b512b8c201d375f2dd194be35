@@ -1,0 +1,7 @@
+052f9d206f6c ("powerpc/uaccess: Merge raw_copy_to_user_allowed() into raw_copy_to_user()")
+6b385d1d7c0a ("powerpc/uaccess: get rid of small constant size cases in raw_copy_{to,from}_user()")
+8524e2e76441 ("powerpc/uaccess: Perform barrier_nospec() in KUAP allowance helpers")
+d02f6b7dab82 ("powerpc/uaccess: Evaluate macro arguments once, before user access is allowed")
+5cd623333e7c ("powerpc: Implement user_access_begin and friends")
+1d8f739b07bd ("powerpc/kuap: Fix set direction in allow/prevent_user_access()")
+6ec20aa2e510 ("powerpc/32s: Fix bad_kuap_fault()")

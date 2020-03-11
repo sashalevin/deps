@@ -1,0 +1,5 @@
+8d86e373b0ef ("SUNRPC: Clean up helpers xdr_set_iov() and xdr_set_page_base()")
+2b1f83d108bd ("SUNRPC: Fix up typo in xdr_init_decode()")
+f7d61ee414ca ("SUNRPC: Split out a function for setting current page")
+a6cebd41b83a ("SUNRPC: Fix setting of buffer length in xdr_set_next_buffer()")
+06ef26a0e351 ("SUNRPC: init xdr_stream for zero iov_len, page_len")

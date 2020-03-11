@@ -1,0 +1,5 @@
+1e7f6def8b23 ("btrfs: zstd: fix and simplify the inline extent decompression")
+3e09b5b2293f ("btrfs: constify input buffer parameter in compression code")
+cf30f6a5f0c6 ("lib: zstd: Add kernel-specific API")
+d048b9c2a737 ("btrfs: use memzero_page() instead of open coded kmap pattern")
+7a7fd0de4a98 ("Merge branch 'kmap-conversion-for-5.12' of git://git.kernel.org/pub/scm/linux/kernel/git/kdave/linux")

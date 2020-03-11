@@ -1,0 +1,7 @@
+78d17ecffcf4 ("staging: pi433: Add debugfs_remove in case of driver register fails.")
+bd9ea55b228b ("staging: pi433: Remove duplicated code using the "goto" error recovery scheme.")
+494566f7a544 ("staging: pi433: Rename "pi433_dev" of type "dev_t" to "pi433_devt"")
+6f85a7035217 ("staging: pi433: Rename struct pi433_device instances to pi433.")
+80f91c823739 ("staging: pi433: Rename struct pi433_device buffer field to tx_buffer.")
+d6b86fdecddd ("staging: pi433: Correct comment typos in pi433_if.c")
+f267da65bb6b ("staging: pi433: make pi433_class constant")

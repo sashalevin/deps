@@ -1,0 +1,6 @@
+de24e0a108bc ("USB: serial: cp210x: fix tiocmget error handling")
+fe1b07e99ce5 ("USB: serial: cp210x: add 8-bit and 32-bit register access functions")
+19165b2b10a3 ("USB: serial: cp210x: add 16-bit register access functions")
+d0bf1ff0ae32 ("USB: cp210x: work around cp2108 GET_LINE_CTL bug")
+e2ae67a3b551 ("USB: cp210x: relocate private data from USB interface to port")
+ebfb319bb601 ("USB: cp210x: flush device queues at close")

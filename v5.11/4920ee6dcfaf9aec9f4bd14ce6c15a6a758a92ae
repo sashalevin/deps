@@ -1,0 +1,6 @@
+4920ee6dcfaf ("PM / devfreq: Convert to use sysfs_emit_at() API")
+08e23d05fa6d ("PM / devfreq: Fix buffer overflow in trans_stat_show")
+b5d281f6c16d ("PM / devfreq: Rework freq_table to be local to devfreq struct")
+05723e71234b ("PM / devfreq: passive: Reduce duplicate code when passive_devfreq case")
+8c37d01e1a86 ("PM / devfreq: passive: Fix get_target_freq when not using required-opp")
+86ad9a24f21e ("PM / devfreq: Add required OPPs support to passive governor")

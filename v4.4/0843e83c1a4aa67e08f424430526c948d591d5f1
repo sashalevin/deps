@@ -1,0 +1,8 @@
+0843e83c1a4a ("cpufreq: intel_pstate: Proportional algorithm for Atom")
+09c448d3c61f ("cpufreq: intel_pstate: Use IOWAIT flag in Atom algorithm")
+41bad47f7648 ("cpufreq: intel_pstate: Broxton support")
+5b20c944882c ("x86/cpufreq: Use Intel family name macros for the intel_pstate cpufreq driver")
+4578ee7e1def ("intel_pstate: Avoid unnecessary synchronize_sched() during initialization")
+9522a2ff9cde ("cpufreq: intel_pstate: Enforce _PPC limits")
+bdcaa23fb872 ("cpufreq: intel_pstate: Use average P-State instead of current P-State")
+4b42fafc1cdc ("Merge branch 'pm-cpufreq-sched' into pm-cpufreq")

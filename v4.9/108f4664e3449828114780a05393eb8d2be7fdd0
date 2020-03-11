@@ -1,0 +1,8 @@
+108f4664e344 ("leds: tlc591xx: fix leak of device node iterator")
+03eb2ca44a95 ("leds: tlc591xx: Simplify with dev_err_probe()")
+ba50e011b142 ("leds: tlc591xxt: hide error on EPROBE_DEFER")
+5b4b723c483f ("leds: tlc591xx: use devm_led_classdev_register_ext()")
+1ab4531ad132 ("leds: tlc591xx: simplify driver by using the managed led API")
+b46d2b4d3d81 ("drivers: leds: tlc591xx: check error during device init")
+c68729119f4d ("leds: tlc591xx: add missing of_node_put")
+1055790b0df7 ("leds: tlc591xx: merge conditional tests")

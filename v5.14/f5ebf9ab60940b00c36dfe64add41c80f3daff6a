@@ -1,0 +1,8 @@
+f5ebf9ab6094 ("net: dsa: lantiq_gswip: Don't manually call gswip_port_enable()")
+c40bb4fedcd6 ("net: dsa: lantiq_gswip: enable jumbo frames on GSWIP")
+a2279b08c7f4 ("net: dsa: lantiq: convert to phylink_generic_validate()")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")
+552799f8b3b0 ("net: dsa: lantiq_gswip: fix maximum frame length")
+e6e12df625f2 ("net: mscc: ocelot: convert to phylink")
+46efe4efb9d1 ("net: dsa: felix: stop calling ocelot_port_{enable,disable}")
+c762b7fac1b2 ("net: mvneta: deny disabling autoneg for 802.3z modes")

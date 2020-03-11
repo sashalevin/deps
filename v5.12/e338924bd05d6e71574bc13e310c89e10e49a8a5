@@ -1,0 +1,6 @@
+e338924bd05d ("block: check minor range in device_add_disk()")
+d1254a874971 ("block: remove support for delayed queue registrations")
+26a9750aa875 ("blk-mq: improve the blk_mq_init_allocated_queue interface")
+2e3c73fa0c41 ("block: move the DISK_MAX_PARTS sanity check into __device_add_disk")
+7c3f828b522b ("block: refactor device number setup in __device_add_disk")
+45611837bb37 ("block: remove invalidate_partition")

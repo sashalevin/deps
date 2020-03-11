@@ -1,0 +1,8 @@
+58acfd714e6b ("ipv6: Honor specified parameters in fibmatch lookup")
+401481e06099 ("ipv6: fix false-postive maybe-uninitialized warning")
+121622dba8da ("ipv6: route: make rtm_getroute not assume rtnl is locked")
+18c3a61c4264 ("net: ipv6: RTM_GETROUTE: return matched fib result when requested")
+9d6acb3bc905 ("ipv6: ignore null_entry in inet6_rtm_getroute() too")
+f8cfe2ceb1c2 ("net: ipv6: remove prefix arg to rt6_fill_node")
+fd61c6ba313d ("net: ipv6: remove nowait arg to rt6_fill_node")
+b50afd203a5e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

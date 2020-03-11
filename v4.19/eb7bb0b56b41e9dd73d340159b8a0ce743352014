@@ -1,0 +1,7 @@
+eb7bb0b56b41 ("crypto: atmel - use devm_clk_get_prepared() helpers")
+413f850d022d ("crypto: atmel-sha - Convert to platform remove callback returning void")
+5d966381bf7a ("crypto: atmel-aes - Convert to platform remove callback returning void")
+f069fa9d789d ("crypto: atmel-sha - Use devm_platform_get_and_ioremap_resource()")
+3aaafe054b71 ("crypto: atmel-aes - Use devm_platform_get_and_ioremap_resource()")
+e7836518c6bc ("crypto: atmel-{aes,sha,tdes} - Rename labels in probe()")
+0efe58f3e9c8 ("crypto: atmel-{sha,tdes} - Propagate error from _hw_version_init()")

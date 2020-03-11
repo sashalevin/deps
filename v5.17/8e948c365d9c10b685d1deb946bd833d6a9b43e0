@@ -1,0 +1,8 @@
+8e948c365d9c ("nfsd: fix oops when reading pool_stats before server is started")
+7b207ccd9833 ("svc: don't hold reference for poolstats, only mutex.")
+88956eabfdea ("NFSD: fix possible oops when nfsd/pool_stats is closed.")
+55fcc7d9159d ("SUNRPC: Ignore return value of ->xpo_sendto")
+81593c4dff32 ("SUNRPC: Optimize svc_process()")
+c7d7ec8f043e ("SUNRPC: Remove svc_shutdown_net()")
+352ad31448fe ("SUNRPC: Rename svc_create_xprt()")
+87cdd8641c8a ("SUNRPC: Remove svo_shutdown method")

@@ -1,0 +1,7 @@
+b539ea60f504 ("cxgb4/cxgb4vf: Fix mac_hlist initialization and free")
+24357e06ba51 ("cxgb4vf: fix memleak in mac_hlist initialization")
+2a8d84bf5138 ("cxgb4: free mac_hlist properly")
+dec6b33163d2 ("cxgb4: notify uP to route ctrlq compl to rdma rspq")
+e7519f9926f1 ("cxgb4: avoid enabling napi twice to the same queue")
+fe5d2709b09a ("cxgb4vf: Use __dev_uc_sync/__dev_mc_sync to sync MAC address")
+fc08a01a6925 ("cxgb4: Use __dev_uc_sync/__dev_mc_sync to sync MAC address")

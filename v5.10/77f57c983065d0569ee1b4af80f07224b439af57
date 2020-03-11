@@ -1,0 +1,7 @@
+77f57c983065 ("kasan: remove __kasan_unpoison_stack")
+d56a9ef84bd0 ("kasan, arm64: unpoison stack only with CONFIG_KASAN_STACK")
+d73b49365ee6 ("kasan, arm64: only use kasan_depth for software modes")
+afe6ef80dcec ("kasan, arm64: only init shadow for software modes")
+cebd0eb29acd ("kasan: rename (un)poison_shadow to (un)poison_range")
+d5750edf6da7 ("kasan: shadow declarations only for software modes")
+3b1a4a864087 ("kasan: group vmalloc code")

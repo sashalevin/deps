@@ -1,0 +1,5 @@
+f9901144e48f ("mm,memory_hotplug: factor out adjusting present pages into adjust_present_page_count()")
+aac65321ba69 ("mm/memory_hotplug: simplify page onlining")
+0a1a9a0008bb ("mm/memory_hotplug: simplify page offlining")
+73a11c965857 ("mm/memory_hotplug: inline __offline_pages() into offline_pages()")
+968318261221 ("mm/memory_hotplug: drain per-cpu pages again during memory offline")

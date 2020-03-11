@@ -1,0 +1,5 @@
+710fb612672e ("KVM: selftests: Move 0/initial value PERF_CAPS checks to dedicated sub-test")
+e4d86fb910df ("KVM: selftests: Split PMU caps sub-tests to avoid writing MSR after KVM_RUN")
+4feb9d21a407 ("KVM: selftests: Convert vmx_pmu_caps_test to use X86_PROPERTY_*")
+5dc19f1c7dd3 ("KVM: selftests: Convert AMX test to use X86_PROPRETY_XXX")
+53a7dc0f215e ("KVM: selftests: Add X86_PROPERTY_* framework to retrieve CPUID values")

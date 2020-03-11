@@ -1,0 +1,8 @@
+726be2c72efc ("nvme: fix the read-only state for zoned namespaces with unsupposed features")
+e7d65803e2bb ("nvme-multipath: revalidate paths during rescan")
+5befc7c26e5a ("nvme: implement non-mdts command limits")
+44ef5611c2a5 ("nvme: split init identify into helper")
+f21c4769d0de ("nvme: rename nvme_init_identify()")
+73d90386b559 ("nvme: cleanup zone information initialization")
+d11cd28998e9 ("nvme: allow revalidate to set a namespace read-only")
+2f4c9ba23b88 ("nvme: export zoned namespaces without Zone Append support read-only")

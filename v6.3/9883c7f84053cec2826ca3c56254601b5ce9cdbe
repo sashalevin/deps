@@ -1,0 +1,4 @@
+9883c7f84053 ("mm/gup: do not return 0 from pin_user_pages_fast() for bad args")
+6014bc27561f ("x86-64: make access_ok() independent of LAM")
+74c228d20a51 ("x86/uaccess: Provide untagged_addr() and remove tags before address check")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")

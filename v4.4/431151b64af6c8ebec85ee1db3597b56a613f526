@@ -1,0 +1,5 @@
+431151b64af6 ("scripts/decode_stacktrace.sh: guess path to modules")
+a5dc8300df75 ("scripts/decode_stacktrace: warn when modpath is needed but is unset")
+ca90bbd410a1 ("scripts/decode_stacktrace: Accept dash/underscore in modules")
+fe7d14f174f1 ("scripts/decode_stacktrace: look for modules with .ko.debug extension")
+310c6dd06a0b ("scripts/decode_stacktrace.sh: handle symbols in modules")

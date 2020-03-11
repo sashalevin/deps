@@ -1,0 +1,4 @@
+22dc391865af ("x86/boot: Fix the end of the stack for idle tasks")
+ae952ffdfdf9 ("x86/head: Remove useless zeroed word")
+b32f96c75d0d ("x86/asm/head: Rename 'stack_start' -> 'initial_stack'")
+91ed140d6c1e ("x86/asm: Make sure verify_cpu() has a good stack")

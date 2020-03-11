@@ -1,0 +1,8 @@
+d53b5c013e1e ("arm64/vdso: use the fault callback to map vvar pages")
+d3418f3839b6 ("arm64: vdso: use consistent 'abi' nomenclature")
+3ee16ff3437c ("arm64: vdso: simplify arch_vdso_type ifdeffery")
+7c1deeeb0130 ("arm64: compat: VDSO setup for compat layer")
+c7aa2d71020d ("arm64: vdso: Refactor vDSO code")
+1255a7341bee ("arm64: compat: Refactor aarch32_alloc_vdso_pages()")
+0d747f658595 ("arm64: compat: Alloc separate pages for vectors and sigpage")
+0f1bf7e39822 ("arm64/vdso: don't leak kernel addresses")

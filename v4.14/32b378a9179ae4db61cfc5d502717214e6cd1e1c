@@ -1,0 +1,6 @@
+32b378a9179a ("phy: stm32: fix error return in stm32_usbphyc_phy_init")
+5b1af71280ab ("phy: stm32: rework PLL Lock detection")
+04edf6d6e22b ("phy: stm32: replace regulator_bulk* by multiple regulator_*")
+613a475f0be1 ("phy: stm32: manage 1v1 and 1v8 supplies at pll activation/deactivation")
+52113be1c6e9 ("phy: stm32: fix usbphyc static checker and checkpatch warnings")
+94c358da3a05 ("phy: stm32: add support for STM32 USB PHY Controller (USBPHYC)")

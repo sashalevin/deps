@@ -1,0 +1,8 @@
+c00db496bbd4 ("drm/i915: Remove superfluous GEN8_LR_CONTEXT_ALIGN")
+f4e15af7e218 ("drm/i915: Mark the context state as dirty/written")
+3d574a6bbb12 ("drm/i915: Remove walk over obj->vma_list for the shrinker")
+b2241f182aa0 ("drm/i915: Only GGTT vma may be pinned and prevent shrinking")
+266a240bf0ab ("drm/i915: Use engine->context_pin() to report the intel_ring")
+3204c343bb69 ("drm/i915: Defer context state allocation for legacy ring submission")
+8f612d055183 ("drm/i915: Don't call synchronize_rcu_expedited under struct_mutex")
+4adda532c05f ("Merge remote-tracking branch 'airlied/drm-next' into drm-intel-next-queued")

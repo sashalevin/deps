@@ -1,0 +1,8 @@
+91e9db33be12 ("drm/amdgpu/soc15: get rev_id in soc15_common_early_init")
+c93aa77586c2 ("drm/amdgpu: Doorbell layout for vega20 and future asic")
+062f38072537 ("drm/amdgpu: Vega10 doorbell index initialization")
+c3bce35c662b ("drm/amdgpu: fix sdma doorbell comments typo")
+a2a8fb512e09 ("drm/amdgpu/sriov: Correct the setting about sdma doorbell offset of Vega10")
+c5892230d98b ("drm/amdgpu: Doorbell assignment for 8 sdma user queue per engine")
+520cbe0f4a7f ("drm/amdgpu: set CG flags for raven2 (v2)")
+4cb0becb269e ("drm/amdgpu: move get_rev_id at first before load gpu_info firmware")

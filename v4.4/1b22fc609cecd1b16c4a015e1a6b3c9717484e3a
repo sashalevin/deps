@@ -1,0 +1,6 @@
+1b22fc609cec ("locking/rwsem: Simplify the is-owner-spinnable checks")
+d7d760efad70 ("locking/rwsem: Add a new RWSEM_ANONYMOUSLY_OWNED flag")
+05ffc951392d ("locking/mutex: Break out of expensive busy-loop on {mutex,rwsem}_spin_on_owner() when owner vCPU is preempted")
+3ca0ff571b09 ("locking/mutex: Rework mutex::owner")
+6075620b0590 ("sched/cputime: Mitigate performance regression in times()/clock_gettime()")
+c86ad14d305d ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

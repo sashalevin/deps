@@ -1,0 +1,8 @@
+53c49b6e6dd2 ("PCI/CXL: Add 'cxl_bus' reset method for devices below CXL Ports")
+dfd5bb23ad75 ("PCI: Export pci_dev_lock()")
+6937b7dd4349 ("PCI: Add support for ACPI _RST reset method")
+4273e64cc4eb ("PCI: Use acpi_pci_power_manageable()")
+3a15955d7cf0 ("PCI: Add pci_set_acpi_fwnode() to set ACPI_COMPANION")
+e20afa06244e ("PCI: Add array to track reset method ordering")
+56f107d7813f ("PCI: Add pcie_reset_flr() with 'probe' argument")
+691392448065 ("PCI: Cache PCIe Device Capabilities register")

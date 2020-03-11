@@ -1,0 +1,6 @@
+447f3e45c18a ("mm/gup: don't permit users to call get_user_pages with FOLL_LONGTERM")
+22bf29b67dee ("mm/gup: split get_user_pages_remote() into two routines")
+eddb1c228f79 ("mm/gup: introduce pin_user_pages*() and FOLL_PIN")
+f4000fdf435b ("mm/gup: allow FOLL_FORCE for get_user_pages_fast()")
+c4237f8b1f4f ("mm: fix get_user_pages_remote()'s handling of FOLL_LONGTERM")
+d2dfbe47fa0e ("mm/gup.c: fix comments of __get_user_pages() and get_user_pages_remote()")

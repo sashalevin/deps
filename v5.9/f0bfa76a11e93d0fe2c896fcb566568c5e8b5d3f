@@ -1,0 +1,7 @@
+f0bfa76a11e9 ("btrfs: fix ENOSPC failure when attempting direct IO write into NOCOW range")
+ecfdc08b8cc6 ("btrfs: remove dio iomap DSYNC workaround")
+5e8b9ef30392 ("btrfs: move pos increment and pagecache extension to btrfs_buffered_write")
+4e4cabece9f9 ("btrfs: split btrfs_direct_IO to read and write")
+0425e7badbdc ("btrfs: don't fallback to buffered read if we don't need to")
+0eb79294dbe3 ("btrfs: dio iomap DSYNC workaround")
+f85781fb505e ("btrfs: switch to iomap for direct IO")

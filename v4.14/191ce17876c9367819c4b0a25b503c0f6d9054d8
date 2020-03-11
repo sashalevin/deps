@@ -1,0 +1,6 @@
+191ce17876c9 ("ext4: fix special inode number checks in __ext4_iget()")
+8a363970d1dc ("ext4: avoid declaring fs inconsistent due to invalid file handles")
+6390d33bf5d9 ("ext4: add verifier check for symlink with append/immutable flags")
+e254d1afac83 ("ext4: use raw i_version value for ea_inode")
+8e4b5eae5dec ("ext4: fail ext4_iget for root directory if unallocated")
+ee73f9a52a34 ("ext4: convert to new i_version API")

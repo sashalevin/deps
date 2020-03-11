@@ -1,0 +1,5 @@
+c7c7bce093c8 ("efi/runtime-wrappers: Use type safe encapsulation of call arguments")
+5c418dc789a3 ("efi: Fix build error due to enum collision between efi.h and ima.h")
+ef1491e79130 ("efi: Fix debugobjects warning on 'efi_rts_work'")
+3425d934fc03 ("efi/x86: Handle page faults occurring while running EFI runtime services")
+9dbbedaa6171 ("efi: Make efi_rts_work accessible to efi page fault handler")

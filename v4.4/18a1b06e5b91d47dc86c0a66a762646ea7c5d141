@@ -1,0 +1,5 @@
+18a1b06e5b91 ("HID: hiddev: fix mess in hiddev_open()")
+6d4472d7bec3 ("HID: hiddev: do cleanup in failure of opening a device")
+9c09b214f30e ("HID: hiddev: avoid opening a disconnected device")
+9a83563fb3f9 ("HID: hiddev: use hid_hw_power instead of usbhid_get/put_power")
+d36b7d4c271b ("HID: hiddev: use hid_hw_open/close instead of usbhid_open/close")

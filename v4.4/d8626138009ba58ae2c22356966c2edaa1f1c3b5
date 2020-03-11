@@ -1,0 +1,8 @@
+d8626138009b ("mm: add functions to track page directory modifications")
+f949286c668a ("mm: remove __ARCH_HAS_4LEVEL_HACK and include/asm-generic/4level-fixup.h")
+b08861d10bbe ("asm-generic/tlb: stub out pud_free_tlb() if nopud ...")
+0cfaee2af3a0 ("include/asm-generic/5level-fixup.h: fix variable 'p4d' set but not used")
+a8874e7e8a88 ("mm: make the __PAGETABLE_PxD_FOLDED defines non-empty")
+1a9b4b3d7567 ("mm: provide a fallback for PAGE_KERNEL_EXEC for architectures")
+a3266bd49c72 ("mm: provide a fallback for PAGE_KERNEL_RO for architectures")
+f2701b77bbd9 ("Merge 4.18-rc7 into master to pick up the KVM dependcy")

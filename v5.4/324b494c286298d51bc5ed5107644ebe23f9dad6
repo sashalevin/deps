@@ -1,0 +1,5 @@
+324b494c2862 ("nvme-pci: Remove two-pass completions")
+bf392a5dc02a ("nvme-pci: Remove tag from process cq")
+9515743bfb39 ("nvme-pci: Hold cq_poll_lock while completing CQEs")
+fa46c6fb5d61 ("nvme/pci: move cqe check after device shutdown")
+f6c4d97b0d82 ("nvme/pci: Remove last_cq_head")

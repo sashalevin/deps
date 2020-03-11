@@ -1,0 +1,8 @@
+8512b6873461 ("phy: cadence-torrent: register resets even if the phy is already configured")
+c2286092424b ("phy: cadence-torrent: extract calls to clk_get from cdns_torrent_clk")
+b426146adc20 ("phy: cadence-torrent: Add PCIe(100MHz) + USXGMII(156.25MHz) multilink configuration")
+ebd05f90bfef ("phy: cadence-torrent: Use key:value pair table for all settings")
+16e0f0ea7f46 ("phy: cadence-torrent: Add single link USXGMII configuration for 156.25MHz refclk")
+72a5ce33b8d1 ("phy: cadence-torrent: Add USB + DP multilink configuration")
+ede775a87bee ("phy: cadence-torrent: Add PCIe + DP multilink configuration for 100MHz refclk")
+a46346299877 ("phy: cadence-torrent: use swap() to make code cleaner")

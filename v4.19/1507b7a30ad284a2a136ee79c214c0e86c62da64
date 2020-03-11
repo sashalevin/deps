@@ -1,0 +1,8 @@
+1507b7a30ad2 ("exec: Rename the flag called_exec_mmap point_of_no_return")
+89826cce3754 ("exec: Make unlocking exec_update_mutex explict")
+eea9673250db ("exec: Add exec_update_mutex to replace cred_guard_mutex")
+ccf0fa6be026 ("exec: Move exec_mmap right after de_thread in flush_old_exec")
+153ffb6ba49f ("exec: Move cleanup of posix timers on exec out of de_thread")
+021691559245 ("exec: Factor unshare_sighand out of de_thread and call it separately")
+d53ddd0181d1 ("fs/exec.c: move ->recursion_depth out of critical sections")
+d036bda7d0e7 ("sched/core: Convert sighand_struct.count to refcount_t")

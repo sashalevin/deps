@@ -1,0 +1,7 @@
+9d3aaff3d852 ("net: sched: avoid usage of tp->q in tcf_classify")
+87d83093bfc2 ("net: sched: move tc_classify function to cls_api.c")
+8ae70032552a ("sched: have stub for tcf_destroy_chain in case NET_CLS is not configured")
+cf1facda2f61 ("sched: move tcf_proto_destroy and tcf_destroy_chain helpers into cls_api")
+79112c26f14c ("sched: rename tcf_destroy to tcf_destroy_proto")
+d6264071ce7d ("net-tc: make MAX_RECLASSIFY_LOOP local")
+aec745e2c520 ("net-tc: remove unused tc_verd fields")

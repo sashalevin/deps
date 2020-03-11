@@ -1,0 +1,6 @@
+dca947d4d26d ("ALSA: pcm: Fix races among concurrent read/write and buffer changes")
+c48f12ee0acb ("ALSA: pcm: Call directly the common read/write helpers")
+bdc4acf7f6eb ("ALSA: pcm: Shuffle codes")
+6ba63929ae76 ("ALSA: pcm: Check PCM state by a common helper function")
+2ae48354a1a7 ("ALSA: pcm: Drop the old copy and silence ops")
+29d1a873de54 ("ALSA: pcm: Introduce copy_user, copy_kernel and fill_silence ops")

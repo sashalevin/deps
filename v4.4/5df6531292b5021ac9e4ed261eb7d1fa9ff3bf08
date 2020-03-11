@@ -1,0 +1,8 @@
+5df6531292b5 ("inet6: Extract helper for selecting socket from reuseport group")
+e94a62f507f9 ("net/reuseport: drop legacy code")
+63a6fff353d0 ("net: Avoid receiving packets with an l3mdev on unbound UDP sockets")
+4548b683b781 ("Introduce a sysctl that modifies the value of PROT_SOCK.")
+a04a480d4392 ("net: Require exact match for TCP socket lookups if dif is l3mdev")
+359ebda25aa0 ("net/ipv4: Introduce IPSKB_FRAG_SEGS bit to inet_skb_parm.flags")
+6e07653765bd ("net: vrf: Documentation update")
+ee58b57100ca ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

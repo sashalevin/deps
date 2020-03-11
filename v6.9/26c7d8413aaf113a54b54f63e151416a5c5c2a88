@@ -1,0 +1,4 @@
+26c7d8413aaf ("mm: thp: support "THPeligible" semantics for mTHP with anonymous shmem")
+e7a2ab7b3bb5 ("mm: shmem: add mTHP support for anonymous shmem")
+3d95bc21cea5 ("mm: shmem: add THP validation for PMD-mapped THP related statistics")
+6f775463d002 ("mm: shmem: use folio_alloc_mpol() in shmem_alloc_folio()")

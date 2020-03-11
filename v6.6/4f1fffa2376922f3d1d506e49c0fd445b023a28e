@@ -1,0 +1,5 @@
+4f1fffa23769 ("cifs: commands that are retried should have replay flag set")
+64cc377b7628 ("cifs: helper function to check replayable error codes")
+936eba9cfb5c ("cifs: open_cached_dir should not rely on primary channel")
+3322960ce222 ("smb: client: extend smb2_compound_op() to accept more commands")
+5c86919455c1 ("smb: client: fix use-after-free in smb2_query_info_compound()")

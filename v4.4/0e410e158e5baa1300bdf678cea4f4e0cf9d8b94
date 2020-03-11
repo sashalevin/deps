@@ -1,0 +1,5 @@
+0e410e158e5b ("kasan: don't emit builtin calls when sanitization is off")
+433dc2ebe7d1 ("kbuild: do not call cc-option before KBUILD_CFLAGS initialization")
+b334e19ae938 ("Kbuild: use cc-disable-warning consistently for maybe-uninitialized")
+c5caf21ab0cf ("kasan: turn on -fsanitize-address-use-after-scope")
+04e36857d674 ("Merge branch 'rc-fixes' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

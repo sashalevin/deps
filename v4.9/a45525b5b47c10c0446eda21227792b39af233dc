@@ -1,0 +1,6 @@
+a45525b5b47c ("x86/irq_work: Make it depend on APIC")
+daabb8eb9a55 ("x86/irqwork: Get rid of duplicated tracing interrupt code")
+61069de7a325 ("x86/apic: Remove the duplicated tracing versions of interrupts")
+8a17116b1fdd ("x86/irq: Get rid of duplicated trace_x86_platform_ipi() code")
+302a98f896bb ("x86/apic: Remove the duplicated tracing version of local_timer_interrupt()")
+c4158ff53643 ("x86/irq, trace: Add __irq_entry annotation to x86's platform IRQ handlers")

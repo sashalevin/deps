@@ -1,0 +1,6 @@
+1442d628d05c ("mtd: cfi: Annotate struct cfi_private with __counted_by")
+0a8e98305f63 ("mtd: cfi_cmdset_0002: Use chip_ready() for write on S29GL064N")
+083084df578a ("mtd: cfi_cmdset_0002: Move and rename chip_check/chip_ready/chip_good_for_write")
+11399346ac39 ("mtd: Replace zero-length array with flexible-array")
+c15995695ea9 ("mtd: cfi_cmdset_0002: fix delayed error detection on HyperFlash")
+72914a8cff7e ("mtd: cfi_cmdset_0002: only check errors when ready in cfi_check_err_status()")

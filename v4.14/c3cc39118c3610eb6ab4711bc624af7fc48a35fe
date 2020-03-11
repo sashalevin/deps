@@ -1,0 +1,4 @@
+c3cc39118c36 ("mm: memcontrol: fix NR_WRITEBACK leak in memcg and system stats")
+a983b5ebee57 ("mm: memcontrol: fix excessive complexity in memory.stat reporting")
+284542656e22 ("mm: memcontrol: implement lruvec stat functions on top of each other")
+c9019e9bf42e ("mm: memcontrol: eliminate raw access to stat and event counters")

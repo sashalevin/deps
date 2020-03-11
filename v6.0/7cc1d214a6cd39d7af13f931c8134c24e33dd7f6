@@ -1,0 +1,4 @@
+7cc1d214a6cd ("KVM: arm64: Avoid BBM when changing only s/w bits in Stage-2 PTE")
+946fbfdf336b ("KVM: arm64: Make leaf->leaf PTE changes parallel-aware")
+83844a2317ec ("KVM: arm64: Stash observed pte value in visitor context")
+dfc7a7769ab7 ("KVM: arm64: Combine visitor arguments into a context structure")

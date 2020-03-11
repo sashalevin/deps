@@ -1,0 +1,5 @@
+aff65393fa14 ("arm64: entry: Add non-kpti __bp_harden_el1_vectors for mitigations")
+3085e1645e23 ("arm64: remove sigreturn wrappers")
+be04a6d1126b ("arm64: use RET instruction for exiting the trampoline")
+c7b9adaf85f8 ("arm64: entry: Add exception trampoline page for exceptions from EL0")
+eef94a3d09aa ("arm64: move TASK_* definitions to <asm/processor.h>")

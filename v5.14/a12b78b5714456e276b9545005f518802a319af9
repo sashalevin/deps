@@ -1,0 +1,4 @@
+a12b78b57144 ("efi: libstub: remove pointless goto kludge")
+eab3126571ed ("efi: libstub: simplify efi_get_memory_map() and struct efi_boot_memmap")
+f80d26043af9 ("efi: libstub: avoid efi_get_memory_map() for allocating the virt map")
+a6cfe03c34ba ("efi: stub: prefer mirrored memory for randomized allocations")

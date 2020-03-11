@@ -1,0 +1,6 @@
+8c5cc19e9470 ("x86/tlb: Uninline __get_current_cr3_fast()")
+3db6d5a5ecaf ("x86/mm/tlb: Remove 'struct flush_tlb_info' from the stack")
+780e0106d468 ("x86/mm/tlb: Revert "x86/mm: Align TLB invalidation info"")
+97807813fe70 ("x86/mm/tlb: Add freed_tables element to flush_tlb_info")
+a31acd3ee8f7 ("x86/mm: Page size aware flush_tlb_mm_range()")
+3f7df3efeb41 ("Merge tag 'v4.16-rc3' into x86/mm, to pick up fixes")

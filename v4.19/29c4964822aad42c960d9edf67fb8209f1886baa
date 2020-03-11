@@ -1,0 +1,5 @@
+29c4964822aa ("net: socket: rework compat_ifreq_ioctl()")
+98406133dd9c ("net: socket: make bond ioctls go through compat_ifreq_ioctl()")
+c6c9fee35dc2 ("net: socket: fix SIOCGIFNAME in compat")
+37ac39bdddc5 ("Revert "kill dev_ifsioc()"")
+63ff03ab786a ("Revert "socket: fix struct ifreq size in compat ioctl"")

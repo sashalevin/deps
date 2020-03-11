@@ -1,0 +1,4 @@
+19821fee3ed4 ("block: Introduce blk_rq_is_seq_zoned_write()")
+8cafdb5ab94c ("block: adapt blk_mq_plug() to not plug for writes that require a zone lock")
+6deacb3bfac2 ("block: simplify blk_mq_plug")
+edd1dbc83b1d ("block: use bdev_is_zoned instead of open coding it")

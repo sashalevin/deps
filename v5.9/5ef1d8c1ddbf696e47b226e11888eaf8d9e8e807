@@ -1,0 +1,2 @@
+5ef1d8c1ddbf ("KVM: SVM: Flush pages under kvm->lock to fix UAF in svm_register_enc_region()")
+19a23da53932 ("Fix unsynchronized access to sev members through svm_register_enc_region")

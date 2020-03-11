@@ -1,0 +1,7 @@
+96926686deab ("rcu: Make CPU-hotplug removal operations enable tick")
+e81baf4cb19a ("srcu: Remove srcu_queue_delayed_work_on()")
+aacb5d91ab1b ("srcu: Use "ssp" instead of "sp" for srcu_struct pointer")
+eb4c2382272a ("srcu: Lock srcu_data structure in srcu_gp_start()")
+0607ba8403c4 ("srcu: Prevent __call_srcu() counter wrap with read-side critical section")
+f3e763c3e544 ("srcu: Fix kernel-doc missing notation")
+b56ada120921 ("Merge branches 'doc.2018.08.30a', 'dynticks.2018.08.30b', 'srcu.2018.08.30b' and 'torture.2018.08.29a' into HEAD")

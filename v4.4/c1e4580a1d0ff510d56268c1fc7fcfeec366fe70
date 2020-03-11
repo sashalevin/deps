@@ -1,0 +1,8 @@
+c1e4580a1d0f ("clk: at91: generated: set audio_pll_allowed in at91_clk_register_generated()")
+6d631027b807 ("clk: at91: generated: SSCs don't have a gclk")
+1a1a36d72e3d ("clk: at91: clk-generated: make gclk determine audio_pll rate")
+8a8f4bf0c480 ("clk: at91: clk-generated: create function to find best_diff")
+8c7aa6328947 ("clk: at91: clk-generated: remove useless divisor loop")
+f5644f10dcfb ("clk: at91: Migrate to clk_hw based registration and OF APIs")
+cb0ceaf77d93 ("clk: at91: fix check of clk_register() returned value")
+33c1f638a0fe ("Merge tag 'clk-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/clk/linux")

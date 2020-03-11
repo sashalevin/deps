@@ -1,0 +1,6 @@
+3c525b69e8c1 ("spi: spi-fsl-dspi: Fix lockup if device is shutdown during SPI transfer")
+dc234825997e ("spi: spi-fsl-dspi: Adding shutdown hook")
+b2655196cf9c ("spi: spi-fsl-dspi: Use BIT() and GENMASK() macros")
+5782a17fe528 ("spi: spi-fsl-dspi: Remove unused defines and includes")
+50fcd84764fc ("spi: spi-fsl-dspi: Fix code alignment")
+aa54c1c9d90e ("spi: fix initial SPI_SR value in spi-fsl-dspi")

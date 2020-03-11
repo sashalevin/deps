@@ -1,0 +1,8 @@
+d12a26b74fb7 ("virtio_net: avoid data-races on dev->stats fields")
+4cb00b13c064 ("virtio_net: virtnet_build_xdp_buff_mrg() auto release xdp shinfo")
+80f50f918c6e ("virtio_net: separate the logic of freeing the rest mergeable buf")
+eb1d929f1551 ("virtio_net: Reuse buffer free function")
+b26aa481b4b7 ("virtio-net: build skb from multi-buffer xdp")
+22174f79a44b ("virtio-net: construct multi-buffer xdp in mergeable")
+ef75cb51f139 ("virtio-net: build xdp_buff with multi buffers")
+053c9e18c6f9 ("virtio_net: fix rx_drops stat for small pkts")

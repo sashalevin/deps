@@ -1,0 +1,6 @@
+3951f6add519 ("riscv: Fix arch_tlbbatch_flush() by clearing the batch cpumask")
+54d7431af73e ("riscv: Add support for BATCHED_UNMAP_TLB_FLUSH")
+5e22bfd520ea ("riscv: Improve flush_tlb_kernel_range()")
+9d4e8d5fa7db ("riscv: Make __flush_tlb_range() loop over pte instead of flushing the whole tlb")
+c962a6e74639 ("riscv: Improve flush_tlb_range() for hugetlb pages")
+c5e9b2c2ae82 ("riscv: Improve tlb_flush()")

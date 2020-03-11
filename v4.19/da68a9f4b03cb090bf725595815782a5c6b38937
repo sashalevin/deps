@@ -1,0 +1,3 @@
+da68a9f4b03c ("pwm: lpc32xx: Simplify using devm_pwmchip_add()")
+3d2813fb17e5 ("pwm: lpc32xx: Don't modify HW state in .probe() after the PWM chip was registered")
+13ef0414c891 ("pwm: lpc3200: Don't modify HW state in .remove callback")

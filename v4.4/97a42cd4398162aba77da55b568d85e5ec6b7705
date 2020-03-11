@@ -1,0 +1,3 @@
+97a42cd43981 ("mm: vma_adjust: remove superfluous check for next not NULL")
+734537c9cb72 ("mm: fix use-after-free if memory allocation failed in vma_adjust()")
+37f9f5595c26 ("thp: run vma_adjust_trans_huge() outside i_mmap_rwsem")

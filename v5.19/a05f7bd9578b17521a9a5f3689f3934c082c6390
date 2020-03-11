@@ -1,0 +1,4 @@
+a05f7bd9578b ("block: stop setting ->direct_IO")
+e9833d870102 ("block: mark bdev files as FMODE_NOWAIT if underlying device supports it")
+470373e888f4 ("block: remove blkdev_writepages")
+67235182a41c ("mm/migrate: Convert buffer_migrate_page() to buffer_migrate_folio()")

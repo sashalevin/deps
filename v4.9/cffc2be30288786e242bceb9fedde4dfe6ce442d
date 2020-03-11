@@ -1,0 +1,6 @@
+cffc2be30288 ("regmap-irq: Cleanup sizeof(...) use in memory allocation")
+4c5014456305 ("regmap-irq: Introduce virtual regs to handle more config regs")
+a2d21848d921 ("regmap: regmap-irq: Add main status register support")
+bc998a730367 ("regmap: irq: handle HW using separate rising/falling edge interrupts")
+43fac3238c1d ("regmap: add a new macro:REGMAP_IRQ_REG_LINE(_id, _reg_bits)")
+a71411dbf6c8 ("regmap: irq: add chip option mask_writeonly")

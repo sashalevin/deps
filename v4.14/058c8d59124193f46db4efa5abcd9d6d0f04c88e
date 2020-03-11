@@ -1,0 +1,7 @@
+058c8d591241 ("net: core: rtnetlink: use BUG_ON instead of if condition followed by BUG")
+5fa85a09390c ("net: core: rcu-ify rtnl af_ops")
+070cbf5be777 ("rtnetlink: place link af dump into own helper")
+6621dd29eb9b ("dev: advertise the new nsid when the netns iface changes")
+5c45121dc390 ("rtnetlink: remove __rtnl_af_unregister")
+b1e66b9a67d6 ("rtnetlink: add helpers to dump netnsid information")
+79110a0426d8 ("rtnetlink: add helper to put master and link ifindexes")

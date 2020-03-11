@@ -1,1 +1,7 @@
 48720ba56891 ("virtio/s390: use DMA memory for ccw I/O and classic notifiers")
+22a4a639b9ce ("virtio/s390: add indirection to indicators access")
+37db8985b211 ("s390/cio: add basic protected virtualization support")
+f35f54f11f7f ("virtio/s390: DMA support for virtio-ccw")
+3279beac5451 ("virtio/s390: use vring_create_virtqueue")
+3438b2c039b4 ("s390/virtio: handle find on invalid queue gracefully")
+3a814fdf2715 ("virtio_ring: disable packed ring on unsupported transports")

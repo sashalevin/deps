@@ -1,0 +1,7 @@
+e261768e9e39 ("be2net: support asymmetric rx/tx queue counts")
+ce7faf0a071b ("be2net: fix definition of be_max_eqs()")
+de2b1e0366c8 ("be2net: Fix provisioning of RSS for VFs in multi-partition configurations")
+b9263cbf2174 ("be2net: use max-TXQs limit too while provisioning VF queue pairs")
+622190669403 ("be2net: Request RSS capability of Rx interface depending on number of Rx rings")
+ee9ad2802449 ("be2net: SRIOV Queue distribution should factor in EQ-count of VFs")
+980df249bdab ("be2net: fix port-res desc query of GET_PROFILE_CONFIG FW cmd")

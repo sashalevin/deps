@@ -1,0 +1,5 @@
+7cbee87c1796 ("IB/ipoib: Move all uninit code into ndo_uninit")
+cda8daf17914 ("IB/ipoib: Use cancel_delayed_work_sync for neigh-clean task")
+577e07ffbad9 ("IB/ipoib: Get rid of IPOIB_FLAG_GOING_DOWN")
+b1b639708f74 ("RDMA/ipoib: Fix use of sizeof()")
+c55359a23c23 ("IB/ipoib: Replace printk with pr_warn")

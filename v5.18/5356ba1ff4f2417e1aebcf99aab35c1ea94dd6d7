@@ -1,0 +1,8 @@
+5356ba1ff4f2 ("s390/bpf: Fix unwinding past the trampoline")
+ce10fc0604bc ("s390/bpf: Fix clobbering the caller's backchain in the trampoline")
+a192103a1146 ("s390/bpf: Pass through tail call counter in trampolines")
+528eb2cb87bc ("s390/bpf: Implement arch_prepare_bpf_trampoline()")
+f1d5df84cd8c ("s390/bpf: Implement bpf_arch_text_poke()")
+390a07a921b3 ("bpf: Change BPF_MAX_TRAMP_LINKS to enum")
+f7e0beaf39d3 ("bpf, x86: Generate trampolines from bpf_tramp_links")
+fff3dfab1786 ("bpftool: Add missing link types")

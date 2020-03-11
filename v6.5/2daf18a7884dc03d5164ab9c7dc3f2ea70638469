@@ -1,0 +1,8 @@
+2daf18a7884d ("tmpfs,xattr: enable limited user extended attributes")
+e07c469e979c ("tmpfs: track free_ispace instead of free_inodes")
+5de75970c9fd ("xattr: simple_xattr_set() return old_xattr to be freed")
+a2e459555c5f ("shmem: stable directory offsets")
+23a31d87645c ("shmem: Refactor shmem_symlink()")
+e09764cff44b ("shmem: quota support")
+eafc474e2029 ("shmem: prepare shmem quota infrastructure")
+71480663b751 ("shmem: make shmem_get_inode() return ERR_PTR instead of NULL")

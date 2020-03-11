@@ -1,0 +1,6 @@
+8289f913fe12 ("kbuild: add -Wvla flag unconditionally")
+0bb95f80a38f ("Makefile: Globally enable VLA warning")
+854686f4edf4 ("lib: add testing module for UBSAN")
+69ca372c100f ("kasan: prevent compiler from optimizing away memset in tests")
+4ab09d0ec3c8 ("drm/i915: Replace "cc-option -Wno-foo" with "cc-disable-warning foo"")
+39bf4de89ff7 ("drm/i915: Add -Wall -Wextra to our build, set warnings to full")

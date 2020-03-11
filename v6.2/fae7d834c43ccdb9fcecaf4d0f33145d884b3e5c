@@ -1,0 +1,7 @@
+fae7d834c43c ("mm: add __dump_folio()")
+f2421a16f42a ("mm/debug: use %pGt to display page_type in dump_page()")
+21a000fe97a0 ("mm: reimplement compound_nr()")
+91ec7f284a0c ("mm/debug: remove call to head_compound_mapcount()")
+eec20426d48b ("mm: convert head_subpages_mapcount() into folio_nr_pages_mapped()")
+94688e8eb453 ("mm: remove folio_pincount_ptr() and head_compound_pincount()")
+04a42e72d77a ("mm: move folio_set_compound_order() to mm/internal.h")

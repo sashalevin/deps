@@ -1,0 +1,8 @@
+73ed298b0605 ("platform/x86: Revert intel_pmc_ipc: Use MFD framework to create dependent devices")
+43aaf4f03f06 ("platform/x86: intel_pmc_ipc: Use MFD framework to create dependent devices")
+e3075fd6f80c ("platform/x86: intel_pmc_ipc: Use spin_lock to protect GCR updates")
+d7ca5ebf2493 ("platform/x86: intel_pmc_ipc: Use devm_* calls in driver probe function")
+9d855d468dc6 ("platform/x86: intel_pmc_ipc: Fix iTCO_wdt GCS memory mapping failure")
+496702068597 ("platform/x86: intel_pmc_ipc: Add pmc gcr read/write/update api's")
+76062b4ae2ea ("platform/x86: intel_pmc_ipc: read s0ix residency API")
+596c12423264 ("platform/x86: intel_pmc_ipc: Remove unused iTCO_version variable")

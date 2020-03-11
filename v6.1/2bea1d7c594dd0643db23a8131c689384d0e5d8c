@@ -1,0 +1,7 @@
+2bea1d7c594d ("drm/i915: Nuke intel_bios_is_port_dp_dual_mode()")
+db5d650ff0b5 ("drm/i915: Replace intel_bios_is_lspcon_present() with intel_bios_encoder_is_lspcon()")
+ba00eb6a4bfb ("drm/i915: Populate encoder->devdata for DSI on icl+")
+3f9ffce5765d ("drm/i915: Do panel VBT init early if the VBT declares an explicit panel type")
+f70f8153e364 ("drm/i915: Introduce intel_panel_init_alloc()")
+0281af2ade1f ("drm/i915/hdmi: stop using connector->override_edid")
+6e0fff462ecc ("drm/i915/hdmi: do dual mode detect only if connected")

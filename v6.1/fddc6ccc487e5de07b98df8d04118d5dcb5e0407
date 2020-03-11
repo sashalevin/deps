@@ -1,0 +1,6 @@
+fddc6ccc487e ("cifs: append path to open_enter trace event")
+de036dcaca65 ("cifs: Fix uninitialized memory reads for oparms.mode")
+d447e794a372 ("cifs: Fix uninitialized memory read in smb3_qfs_tcon()")
+a152d05ae4a7 ("cifs: Fix uninitialized memory read for smb311 posix symlink create")
+ba5d4c1596ca ("cifs: fix file info setting in cifs_open_file()")
+29cf28235e3e ("cifs: fix file info setting in cifs_query_path_info()")

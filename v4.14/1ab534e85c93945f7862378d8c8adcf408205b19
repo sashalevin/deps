@@ -1,0 +1,3 @@
+1ab534e85c93 ("x86/spectre: Add missing family 6 check to microcode check")
+36268223c1e9 ("x86/spectre_v2: Don't check microcode versions when running under hypervisors")
+a5b296636453 ("x86/cpufeature: Blacklist SPEC_CTRL/PRED_CMD on early Spectre v2 microcodes")

@@ -1,0 +1,8 @@
+4edd8cd4e86d ("scsi: core: sysfs: Fix hang when device state is set via sysfs")
+02c6dcd543f8 ("scsi: core: Fix hang of freezing queue between blocking and running device")
+f0f82e2476f6 ("scsi: core: Fix capacity set to zero after offlinining device")
+70fc085c5015 ("scsi: core: Run queue when state is set to running after being blocked")
+0db6ca8a5e1e ("scsi: Protect SCSI device state changes with a mutex")
+43f7571be077 ("scsi: Create two versions of scsi_internal_device_unblock()")
+551eb598e5ea ("scsi: Split scsi_internal_device_block()")
+8d5e72dfdf0f ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

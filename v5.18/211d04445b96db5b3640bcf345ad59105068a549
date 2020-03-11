@@ -1,0 +1,4 @@
+211d04445b96 ("mpage: Convert do_mpage_readpage() to use a folio")
+f132ab7d3ab0 ("fs: Convert mpage_readpage to mpage_read_folio")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")

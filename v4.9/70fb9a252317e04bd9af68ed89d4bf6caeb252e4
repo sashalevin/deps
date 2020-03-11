@@ -1,0 +1,7 @@
+70fb9a252317 ("driver core: Document limitation related to DL_FLAG_RPM_ACTIVE")
+72175d4ea4c4 ("driver core: Make driver core own stateful device links")
+e2f3cd831a28 ("driver core: Fix handling of runtime PM flags in device_link_add()")
+5db25c9eb893 ("driver core: Do not resume suppliers under device_links_write_lock()")
+f265df550a43 ("driver core: Avoid careless re-use of existing device links")
+c8d50986da5d ("driver core: Fix DL_FLAG_AUTOREMOVE_SUPPLIER device link flag handling")
+b018fc980055 ("Merge tag 'pm-4.19-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rafael/linux-pm")

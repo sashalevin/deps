@@ -1,0 +1,6 @@
+f41ec1fd1c20 ("net: dsa: all DSA masters must be down when changing the tagging protocol")
+d0004a020bb5 ("net: dsa: remove the "dsa_to_port in a loop" antipattern from the core")
+1951b3f19cfe ("net: dsa: hold rtnl_lock in dsa_switch_setup_tag_protocol")
+58adf9dcb15b ("net: dsa: let drivers state that they need VLAN filtering while standalone")
+06cfb2df7eb0 ("net: dsa: don't advertise 'rx-vlan-filter' when not needed")
+21cf377a9c40 ("net: dsa: ensure linearized SKBs in case of tail taggers")

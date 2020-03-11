@@ -1,0 +1,5 @@
+ef488e47e060 ("can: gs_usb: gs_cmd_reset(): use cpu_to_le32() to assign mode")
+3814ed27548a ("can: gs_usb: convert from usb_control_msg() to usb_control_msg_{send,recv}()")
+002467518688 ("can: gs_usb: gs_cmd_reset(): rename variable holding struct gs_can pointer to dev")
+103108cb9673 ("can: gs_usb: gs_can_open(): initialize time counter before starting device")
+0140a7168f8b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

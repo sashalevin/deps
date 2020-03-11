@@ -1,0 +1,5 @@
+4abafdc4360d ("block: remove the initialize_rq_fn blk_mq_ops method")
+a4d34da715e3 ("scsi: block: Remove RQF_PREEMPT and BLK_MQ_REQ_PREEMPT")
+0854bcdcdec2 ("scsi: block: Introduce BLK_MQ_REQ_PM")
+42fdc5e49c2b ("blk-mq: remove the BLK_MQ_REQ_INTERNAL flag")
+600c3b0cea78 ("blk-mq: open code __blk_mq_alloc_request in blk_mq_alloc_request_hctx")

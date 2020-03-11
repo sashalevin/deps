@@ -1,0 +1,7 @@
+f014165faa7b ("scsi: iscsi: Fix possible memory leak when device_register() failed")
+3c6ae371b8a1 ("scsi: iscsi: Release endpoint ID when its freed")
+23d6fefbb3f6 ("scsi: iscsi: Fix in-kernel conn failure handling")
+9e5fe1700896 ("scsi: iscsi: Rel ref after iscsi_lookup_endpoint()")
+b25b957d2db1 ("scsi: iscsi: Use system_unbound_wq for destroy_work")
+06c203a5566b ("scsi: iscsi: Force immediate failure during shutdown")
+891e2639deae ("scsi: iscsi: Stop queueing during ep_disconnect")

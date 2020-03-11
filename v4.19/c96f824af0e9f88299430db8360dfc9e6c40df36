@@ -1,0 +1,7 @@
+c96f824af0e9 ("mtd: rawnand: cs553x: simplify the return expression of cs553x_write_ctrl_byte()")
+b4ed6328b93d ("mtd: rawnand: cs553x: Implement exec_op()")
+c9e1817ff945 ("mtd: rawnand: cs553x: Declare controllers instead of NAND chips")
+7e534323c416 ("mtd: rawnand: Pass a nand_chip object to chip->read_xxx() hooks")
+ec47636cd7e7 ("mtd: rawnand: Pass a nand_chip object to ecc->hwctl()")
+47bd59e538d4 ("mtd: rawnand: plat_nand: Pass a nand_chip object to all platform_nand_ctrl hooks")
+7525c9518ea6 ("mtd: rawnand: Get rid of the ->read_word() hook")

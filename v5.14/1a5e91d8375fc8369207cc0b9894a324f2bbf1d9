@@ -1,0 +1,6 @@
+1a5e91d8375f ("swiotlb: Add swiotlb bounce buffer remap function for HV IVM")
+868c9ddc182b ("swiotlb: add overflow checks to swiotlb_bounce")
+f4111e39a52a ("swiotlb: Add restricted DMA alloc/free support")
+903cd0f315fe ("swiotlb: Use is_swiotlb_force_bounce for swiotlb data bouncing")
+6f2beb268a5d ("swiotlb: Update is_swiotlb_active to add a struct device argument")
+0a65579cdd28 ("swiotlb: Refactor swiotlb init functions")

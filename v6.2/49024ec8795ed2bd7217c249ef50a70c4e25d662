@@ -1,0 +1,5 @@
+49024ec8795e ("smb: client: fix parsing of source mount option")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+d5a863a153e9 ("cifs: avoid dup prefix path in dfs_get_automount_devname()")
+d19342c6609b ("cifs: sanitize paths in cifs_update_super_prepath.")
+7e0e76d99079 ("smb3: lower default deferred close timeout to address perf regression")

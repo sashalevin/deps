@@ -1,0 +1,6 @@
+5d0fbbbe1d87 ("riscv: switch has_fpu() to the unified static key mechanism")
+c360cbec3511 ("riscv: introduce unified static key mechanism for ISA extensions")
+a9b202606c69 ("RISC-V: Improve /proc/cpuinfo output for ISA extensions")
+37a7a2a10ec5 ("riscv: Turn has_fpu into a static key if FPU=y")
+6bcff51539cc ("RISC-V: Add bitmap reprensenting ISA features common across CPUs")
+5ba9aa56e6d3 ("Merge branch 'next/nommu' into for-next")

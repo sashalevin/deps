@@ -1,0 +1,6 @@
+e86e793c28e7 ("locking/atomic: m68k: move to ARCH_ATOMIC")
+6988631bdfdd ("locking/atomic: cmpxchg: make `generic` a prefix")
+1e10cf448f84 ("m68k: Avoid xchg() warning")
+7ca8cf5347f7 ("locking/atomic: Move ATOMIC_INIT into linux/types.h")
+37f8173dd849 ("locking/atomics: Flip fallbacks and instrumentation")
+765dcd209947 ("asm-generic/atomic: Use __always_inline for fallback wrappers")

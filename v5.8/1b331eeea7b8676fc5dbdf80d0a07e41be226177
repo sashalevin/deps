@@ -1,0 +1,5 @@
+1b331eeea7b8 ("x86/entry: Remove skip_r11rcx")
+29e9758966f4 ("x86/entry: Split PUSH_AND_CLEAR_REGS into two submacros")
+6627eb25e40c ("x86/entry: Unify definitions from <asm/calling.h> and <asm/ptrace-abi.h>")
+eb3621798bcd ("x86/entry/64: Do not include inst.h in calling.h")
+eaad981291ee ("x86/entry/64: Introduce the FIND_PERCPU_BASE macro")

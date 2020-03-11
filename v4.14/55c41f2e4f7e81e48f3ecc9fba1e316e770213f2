@@ -1,0 +1,8 @@
+55c41f2e4f7e ("perf help: Use HAVE_LIBTRACEEVENT to filter out unsupported commands")
+0f70d8e9db4f ("perf kwork: New tool to trace time properties of kernel work (such as softirq, and workqueue)")
+d450bc501fbd ("perf daemon: Add daemon command")
+3b9c25c0a046 ("perf help: Add missing subcommand `version`")
+22e9af4e9480 ("perf tools: Rename HAVE_SYSCALL_TABLE to HAVE_SYSCALL_TABLE_SUPPORT")
+b3fa38963a6a ("perf trace: Remove audit-libs dependency if syscall tables are present")
+901bb0280b60 ("perf trace: Use generated syscall table on s390 too")
+f704ef44602f ("s390/perf: add support for perf_regs and libdw")

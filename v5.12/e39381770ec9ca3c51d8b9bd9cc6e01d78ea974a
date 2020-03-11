@@ -1,0 +1,4 @@
+e39381770ec9 ("can: m_can: Disable IRQs on FIFO bus errors")
+20779943a080 ("can: m_can: use bits.h macros for all regmasks")
+1be37d3b0414 ("can: m_can: fix periph RX path: use rx-offload to ensure skbs are sent from softirq context")
+17447f08202d ("can: m_can: add infrastructure for internal timestamps")

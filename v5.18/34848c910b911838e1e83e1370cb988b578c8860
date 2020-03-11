@@ -1,0 +1,6 @@
+34848c910b91 ("zram: use __bio_add_page for adding single page to bio")
+79c744eeaa8e ("zram: directly call zram_read_page in writeback_store")
+13ae4db0c051 ("zram: use bvec_set_page to initialize bvecs")
+5561347aa598 ("zram: factor out WB and non-WB zram read functions")
+94541bc3fbde ("zram: always expose rw_page")
+13c1c74af764 ("zram: fix unused 'zram_wb_devops' warning")

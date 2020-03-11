@@ -1,0 +1,6 @@
+69ba1ee9360a ("drbd: possibly disable discard support, if backend has discard_zeroes_data=0")
+dd4f699da674 ("drbd: when receiving P_TRIM, zero-out partial unaligned chunks")
+700ca8c04a0f ("drbd: Implement handling of thinly provisioned storage on resync target nodes")
+bb3cc85e1643 ("drbd: use bio op accessors")
+4e49ea4a3d27 ("block/fs/drivers: remove rw argument from submit_bio")
+0b9210c9c86e ("Merge tag 'xfs-for-linus-4.7-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/dgc/linux-xfs")

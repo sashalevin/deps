@@ -1,0 +1,6 @@
+e19f2c6cd146 ("KVM: arm64: Warn when PENDING_EXCEPTION and INCREMENT_PC are set together")
+699bb2e0c6f3 ("KVM: arm64: Move vcpu PC/Exception flags to the input flag set")
+4c0680d394d8 ("KVM: arm64: Move vcpu configuration flags into their own set")
+e87abb73e594 ("KVM: arm64: Add helpers to manipulate vcpu flags among a set")
+892fd259cbf6 ("KVM: arm64: Reorder vcpu flag definitions")
+6c30bfb18d0b ("KVM: arm64: Add handlers for protected VM System Registers")

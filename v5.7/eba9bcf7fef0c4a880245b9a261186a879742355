@@ -1,0 +1,5 @@
+eba9bcf7fef0 ("nvme: rename nvme_validate_ns to nvme_validate_or_alloc_ns")
+4005f28d25cb ("nvme: avoid an Identify Controller command for each namespace scan")
+4450ba3bbb47 ("nvme: factor out a nvme_ns_remove_by_nsid helper")
+25dcaa9292af ("nvme: clean up nvme_scan_work")
+b9a5c3d4c34d ("nvme: refine the Qemu Identify CNS quirk")

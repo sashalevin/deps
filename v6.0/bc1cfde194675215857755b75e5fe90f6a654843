@@ -1,0 +1,5 @@
+bc1cfde19467 ("mm/memory-failure: convert try_memory_failure_hugetlb() to folios")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")
+b66d00dfebe7 ("mm: memory-failure: make action_result() return int")
+f36a5543a748 ("mm, hwpoison: fix page refcnt leaking in try_memory_failure_hugetlb()")
+2ace36f0f557 ("mm: memory-failure: cleanup try_to_split_thp_page()")

@@ -1,0 +1,7 @@
+e15dc99dbb9c ("ALSA: pcm: Fix endless loop for XRUN recovery in OSS emulation")
+02a5d6925cd3 ("ALSA: pcm: Avoid potential races between OSS ioctls and read/write")
+c64ed5dd9feb ("ALSA: pcm: Use ERESTARTSYS instead of EINTR in OSS emulation")
+900498a34a3a ("ALSA: pcm: Allow aborting mutex lock at OSS read/write loops")
+29159a4ed704 ("ALSA: pcm: Abort properly at pending signal in OSS read/write loops")
+b248371628aa ("ALSA: pcm: Fix potential deadlock in OSS emulation")
+46325371b230 ("ALSA: oss: consolidate kmalloc/memset 0 call to kzalloc")

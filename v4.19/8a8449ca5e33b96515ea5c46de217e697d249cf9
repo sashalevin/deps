@@ -1,0 +1,6 @@
+8a8449ca5e33 ("scsi: fnic: Modify ISRs to support multiqueue (MQ)")
+86b86a7d2fda ("scsi: fnic: Rename wq_copy to hw_copy_wq")
+3ec24fb4c035 ("scsi: fnic: fix msix interrupt allocation")
+18244e9445fe ("scsi: fnic: Impose upper limit on max. # of CQs processed per intr")
+3567dca1bac6 ("scsi: fnic: fnic stats for max CQs processed and ISR time")
+d948e6383ec3 ("scsi: fnic: Add port speed stat to fnic debug stats")

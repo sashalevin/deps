@@ -1,0 +1,6 @@
+7da13023655d ("i2c: imx: Simplify using devm_clk_get_enabled()")
+d98bdd3a5b50 ("i2c: imx: Make sure to unregister adapter on remove()")
+47ff617217ca ("i2c: imx: fix reference leak when pm_runtime_get_sync fails")
+e50e4f0b85be ("i2c: imx: Fix external abort on interrupt in exit paths")
+60a9f851f6bb ("i2c: imx: Use dev_err_probe() to simplify error handling")
+3a5ee18d2a32 ("i2c: imx: implement master_xfer_atomic callback")

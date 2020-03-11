@@ -1,0 +1,6 @@
+8aaff15168cf ("ceph: avoid a use-after-free in ceph_destroy_options()")
+c843d13caefa ("libceph: make abort_on_full a per-osdc setting")
+690f951d7eb8 ("libceph: don't abort reads in ceph_osdc_abort_on_full()")
+29e878201ee6 ("libceph: don't warn if req->r_abort_on_full is set")
+4eea0fefd7e6 ("libceph: use for_each_request() in ceph_osdc_abort_on_full()")
+66850df58529 ("libceph: introduce ceph_osdc_abort_requests()")

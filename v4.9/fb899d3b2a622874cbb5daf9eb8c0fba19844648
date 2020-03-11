@@ -1,0 +1,6 @@
+fb899d3b2a62 ("mtd: parser_imagetag: add of_match_table support")
+dd84cb022b31 ("mtd: bcm63xxpart: move imagetag parsing to its own parser")
+99352afe8f16 ("mtd: extract TRX parser out of bcm47xxpart into a separated module")
+89a0d9a9f194 ("mtd: bcm47xxpart: support layouts with multiple TRX partitions")
+b522d7b0ebe3 ("mtd: bcm47xxpart: move TRX parsing code to separated function")
+bd5d21310133 ("mtd: bcm47xxpart: fix parsing first block after aligned TRX")

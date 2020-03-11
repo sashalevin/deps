@@ -1,0 +1,6 @@
+3de218ff39b9 ("xen/events: reset active flag for lateeoi events later")
+b6622798bc50 ("xen/events: avoid handling the same event on two cpus at the same time")
+25da4618af24 ("xen/events: don't unmask an event channel when an eoi is pending")
+88f0a9d06644 ("xen/events: Implement irq distribution")
+62ebcda8a8df ("xen/events: Reduce irq_info:: Spurious_cnt storage size")
+1ca1b4e2c0cb ("xen/events: Use immediate affinity setting")

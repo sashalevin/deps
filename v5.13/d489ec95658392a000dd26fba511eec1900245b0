@@ -1,0 +1,3 @@
+d489ec956583 ("KVM: Harden against unpaired kvm_mmu_notifier_invalidate_range_end() calls")
+52ac8b358b0c ("KVM: Block memslot updates across range_start() and range_end()")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")

@@ -1,0 +1,7 @@
+66ee50c6e234 ("soc/tegra: pmc: Ensure that clock rates aren't too high")
+495ac33a3b82 ("soc/tegra: pmc: Don't allocate struct tegra_powergate on stack")
+4c817ccf73ab ("soc/tegra: pmc: Use the new reset APIs to manage reset controllers")
+507c655a06c8 ("soc/tegra: pmc: Pass PMC to tegra_powergate_power_up()")
+a263394a096e ("soc/tegra: pmc: MBIST work around for Tegra210")
+21b499105178 ("soc/tegra: pmc: Add I/O pad voltage support")
+84cf85ea6ea2 ("soc/tegra: pmc: Correct type of variable for tegra_pmc_readl()")

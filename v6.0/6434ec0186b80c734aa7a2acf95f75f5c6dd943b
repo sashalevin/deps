@@ -1,0 +1,5 @@
+6434ec0186b8 ("io_uring: don't use TIF_NOTIFY_SIGNAL to test for availability of task_work")
+dac6a0eae793 ("io_uring: ensure iopoll runs local task work as well")
+5756a3a7e713 ("io_uring: add iopoll infrastructure for io_uring_cmd")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

@@ -1,0 +1,7 @@
+678164a5f0ec ("pwm: bcm2835: Remove duplicate call to clk_rate_exclusive_put()")
+fcc760729359 ("pwm: bcm2835: Allow PWM driver to be used in atomic context")
+2ce7b7f6704c ("pwm: bcm2835: Simplify using devm functions")
+c49670108b76 ("pwm: bcm2835: Convert to platform remove callback returning void")
+3c817469a53d ("pwm: bcm2835: Free resources only after pwmchip_remove()")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+ca0d2fb790eb ("pwm: bcm2835: Improve period and duty cycle calculation")

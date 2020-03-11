@@ -1,0 +1,5 @@
+18e4af04d218 ("drm/i915: Drop no-semaphore boosting")
+fcae496153a3 ("drm/i915: Prevent using semaphores to chain up to external fences")
+ac938052e571 ("drm/i915: Pull waiting on an external dma-fence into its routine")
+eec39e441c29 ("drm/i915: Remove wait priority boosting")
+41e4065a6b0b ("drm/i915: Rely on direct submission to the queue")

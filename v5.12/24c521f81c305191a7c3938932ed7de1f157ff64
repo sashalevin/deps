@@ -1,0 +1,5 @@
+24c521f81c30 ("cxgb4: Use pci_vpd_find_id_string() to find VPD ID string")
+fc9279298e3a ("cxgb4: Search VPD with pci_vpd_find_ro_info_keyword()")
+f9f3caa8dcd7 ("cxgb4: Remove unused vpd_param member ec")
+52f0a1e00770 ("cxgb4: Validate VPD checksum with pci_vpd_check_csum()")
+4cf0abbce69b ("PCI/VPD: Remove pci_vpd_find_tag() 'offset' argument")

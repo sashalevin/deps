@@ -1,0 +1,6 @@
+ca068c2c6ca0 ("scsi: lpfc: Call scsi_done() directly")
+3e49af9393c6 ("scsi: lpfc: Add a option to enable interlocked ABTS before job completion")
+96e209be6ecb ("scsi: lpfc: Convert SCSI I/O completions to SLI-3 and SLI-4 handlers")
+da255e2e7cc8 ("scsi: lpfc: Convert SCSI path to use common I/O submission path")
+47ff4c510f02 ("scsi: lpfc: Enable common send_io interface for SCSI and NVMe")
+307e338097dc ("scsi: lpfc: Rework remote port ref counting and node freeing")

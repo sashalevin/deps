@@ -1,0 +1,6 @@
+73e14451f39e ("bpf, x86: Fall back to interpreter mode when extra pass fails")
+676b2daabaf9 ("bpf, x86: Set header->size properly before freeing it")
+f95f768f0af4 ("bpf, x86_64: Fail gracefully on bpf_jit_binary_pack_finalize failures")
+1022a5498f6f ("bpf, x86_64: Use bpf_jit_binary_pack_alloc")
+33c9805860e5 ("bpf: Introduce bpf_jit_binary_pack_[alloc|finalize|free]")
+c2f2cdbeffda ("bpf: introduce BPF_F_XDP_HAS_FRAGS flag in prog_flags loading the ebpf program")

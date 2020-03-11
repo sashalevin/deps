@@ -1,0 +1,5 @@
+8cae4b578ea0 ("drm/amdgpu: refine psp firmware loading")
+07dbfc6b102e ("drm/amd: Use `amdgpu_ucode_*` helpers for PSP")
+2d39c7ae37a5 ("drm/amd: Load PSP microcode during early_init")
+93fec4f8c158 ("drm/amd: Avoid BUG() for case of SRIOV missing IP version")
+994a97447e38 ("drm/amd: Parse both v1 and v2 TA microcode headers using same function")

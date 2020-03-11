@@ -1,0 +1,5 @@
+b2c6941a5cf4 ("ipmi: Convert pr_debug() to dev_dbg()")
+8ee7b485bbfb ("ipmi: use %*ph to print small buffer")
+383035211c79 ("ipmi: move message error checking to avoid deadlock")
+913a89f009d9 ("ipmi: Don't initialize anything in the core until something uses it")
+445e2cbda928 ("ipmi: msghandler: Add and use pr_fmt and dev_fmt, remove PFX")

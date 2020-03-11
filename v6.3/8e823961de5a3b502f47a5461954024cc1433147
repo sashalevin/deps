@@ -1,0 +1,6 @@
+8e823961de5a ("erofs: unify xattr_iter structures")
+eba67eb6de44 ("erofs: use absolute position in xattr iterator")
+9c39ec0cff4e ("erofs: convert erofs_read_metabuf() to erofs_bread() for xattr")
+82bc1ef41d27 ("erofs: handle long xattr name prefixes properly")
+399f36d8c6e0 ("erofs: move several xattr helpers into xattr.c")
+3acea5fc3354 ("erofs: avoid hardcoded blocksize for subpage block support")

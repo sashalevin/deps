@@ -1,0 +1,5 @@
+4d3acf4311a0 ("wifi: mac80211: remove sta_mtx")
+01ca280d323e ("wifi: mac80211: ethtool: hold wiphy mutex")
+b8b80770b26c ("wifi: mac80211: avoid lockdep checking when removing deflink")
+79973d5cfdc1 ("wifi: mac80211: add set_active_links variant not locking sdata")
+d2caad527c19 ("wifi: mac80211: add API to show the link STAs in debugfs")

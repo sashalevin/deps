@@ -1,0 +1,5 @@
+b1c3497e604d ("x86/xen: Add support for HVMOP_set_evtchn_upcall_vector")
+e07e98da924e ("xen/x86: detect support for extended destination ID")
+4621dc6a5bf1 ("x86/xen: Don't register Xen IPIs when they aren't going to be used")
+b36b0fe96af1 ("x86/xen: Add xen_no_vector_callback option to test PCI INTX delivery")
+3499ba8198ca ("xen: Fix event channel callback via INTX/GSI")

@@ -1,0 +1,6 @@
+c14decfca23c ("clocksource: clint: Export clint_time_val for modules")
+d5be89a8d118 ("RISC-V: Resurrect the MMIO timer implementation for M-mode systems")
+2bc3fc877aa9 ("RISC-V: Remove CLINT related code from timer and arch")
+2ac6795fcc08 ("clocksource/drivers: Add CLINT timer driver")
+cc7f3f72dc2a ("RISC-V: Add mechanism to provide custom IPI operations")
+635093e306a3 ("RISC-V: Fix build warning for smpboot.c")

@@ -1,0 +1,5 @@
+4947ed93c232 ("mm: madvise: use vm_normal_folio() in madvise_free_pte_range()")
+98b211d6415f ("madvise: convert madvise_free_pte_range() to use a folio")
+3218f8712d6b ("mm: handling Non-LRU pages returned by vm_normal_pages")
+f3b9e8cc8b09 ("mm/madvise: fix potential pte_unmap_unlock pte error")
+4cd614841c06 ("mm/migration: fix possible do_pages_stat_array racing with memory offline")

@@ -1,0 +1,7 @@
+c1aaee943808 ("gpu: host1x: Don't rely on dma_fence_wait_timeout return value")
+f0fb260a0cdb ("gpu: host1x: Implement syncpoint wait using DMA fences")
+184b58fa816f ("gpu: host1x: Always return syncpoint value when waiting")
+ecfb888ade42 ("gpu: host1x: Remove cancelled waiters immediately")
+ac330f45c7ca ("gpu: host1x: Drop unnecessary host1x argument")
+466749f13e33 ("gpu: host1x: Flesh out kerneldoc")
+b0d36daa0ab5 ("gpu: host1x: Fix host1x driver shutdown")

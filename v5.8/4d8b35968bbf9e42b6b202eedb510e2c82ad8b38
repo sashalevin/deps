@@ -1,0 +1,6 @@
+4d8b35968bbf ("objtool: Remove reloc symbol type checks in get_alt_entry()")
+7fab1c12bde9 ("objtool: print out the symbol type when complaining about it")
+24ff65257375 ("objtool: Teach get_alt_entry() about more relocation types")
+50e7b4a1a1b2 ("objtool: Skip magical retpoline .altinstr_replacement")
+eda3dc905834 ("objtool: Abstract alternative special case handling")
+f19742226340 ("objtool: Rename rela to reloc")

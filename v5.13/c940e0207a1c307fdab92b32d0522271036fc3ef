@@ -1,0 +1,4 @@
+c940e0207a1c ("mm/page_alloc: use helper macro SZ_1{K,M}")
+ff7ed9e4532d ("mm/page_alloc.c: simplify the code by using macro K()")
+b92ca18e8ca5 ("mm/page_alloc: disassociate the pcp->high from pcp->batch")
+bbbecb35a41c ("mm/page_alloc: delete vm.percpu_pagelist_fraction")

@@ -1,0 +1,6 @@
+6ccf44388206 ("KVM: MMU: unify tdp_mmu_map_set_spte_atomic and tdp_mmu_set_spte_atomic_no_dirty_log")
+bcc4f2bc5026 ("KVM: MMU: mark page dirty in make_spte")
+9653f2da7522 ("KVM: x86/mmu: Drop 'shared' param from tdp_mmu_link_page()")
+081de470f1e6 ("KVM: x86/mmu: Leverage vcpu->last_used_slot in tdp_mmu_map_handle_target_level")
+3b77daa5efe1 ("KVM: x86/mmu: WARN on any reserved SPTE value when making a valid SPTE")
+24ae4cfaaaa2 ("KVM: x86/mmu: Allow enabling/disabling dirty logging under MMU read lock")

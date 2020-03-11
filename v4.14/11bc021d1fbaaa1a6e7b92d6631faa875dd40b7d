@@ -1,0 +1,8 @@
+11bc021d1fba ("cpu/hotplug: Eliminate all kernel-doc warnings")
+33c3736ec888 ("cpu/hotplug: Hide cpu_up/down()")
+b99a26593b51 ("cpu/hotplug: Move bringup of secondary CPUs out of smp_init()")
+d720f9860439 ("cpu/hotplug: Provide bringup_hibernate_cpu()")
+0441a5597c5d ("cpu/hotplug: Create a new function to shutdown nonboot cpus")
+93ef1429e556 ("cpu/hotplug: Add new {add,remove}_cpu() functions")
+6fb86d972078 ("cpu/hotplug: Remove skip_onerr field from cpuhp_step structure")
+cc1fe215e1ef ("cpu/hotplug: Split do_cpu_down()")

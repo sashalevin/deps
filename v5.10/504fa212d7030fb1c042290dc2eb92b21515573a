@@ -1,0 +1,6 @@
+504fa212d703 ("driver core: Make driver_deferred_probe_timeout a static variable")
+f516d01b9df2 ("Revert "driver core: Set default deferred_probe_timeout back to 0."")
+9be4cbd09da8 ("driver core: Set default deferred_probe_timeout back to 0.")
+5ee76c256e92 ("driver core: Fix wait_for_device_probe() & deferred_probe_timeout interaction")
+2b28a1a84a0e ("driver core: Extend deferred probe timeout on driver registration")
+eed6e41813de ("driver core: Fix locking bug in deferred_probe_timeout_work_func()")

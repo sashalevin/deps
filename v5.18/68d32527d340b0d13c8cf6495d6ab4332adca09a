@@ -1,0 +1,4 @@
+68d32527d340 ("hugetlbfs: zero partial pages during fallocate hole punch")
+05e90bd05eea ("mm/hugetlb: only drop uffd-wp special pte if required")
+999dad824c39 ("mm/shmem: persist uffd-wp bit across zapping for file-backed")
+5c041f5d1f23 ("mm: teach core mm about pte markers")

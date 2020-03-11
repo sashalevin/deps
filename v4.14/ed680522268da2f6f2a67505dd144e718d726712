@@ -1,0 +1,5 @@
+ed680522268d ("i2c: convert SMBus alert setup function to return an ERRPTR")
+40f4e372cba8 ("i2c: xlp9xx: Add support for SMBAlert")
+69d17246ab25 ("i2c: i2c-smbus: add of_i2c_setup_smbus_alert")
+3c0a60bee1d1 ("i2c: i2c-smbus: Move i2c_setup_smbus_alert from i2c-smbus to i2c-core-smbus")
+9b9f2b8bc2ac ("i2c: i2c-smbus: Use threaded irq for smbalert")

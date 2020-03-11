@@ -1,0 +1,5 @@
+f60442ddc40c ("nvmem: core: use device_register and device_unregister")
+c1de7f43bd84 ("nvmem: use kref")
+79fbf0468b2a ("nvmem: core: Call put_device() in nvmem_unregister()")
+b6c217ab9be6 ("nvmem: Add backwards compatibility support for older EEPROM drivers.")
+811b0d6538b9 ("nvmem: Add flag to export NVMEM to root only")

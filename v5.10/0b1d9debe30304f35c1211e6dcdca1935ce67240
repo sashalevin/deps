@@ -1,0 +1,6 @@
+0b1d9debe303 ("efi/libstub: randomalloc: Return EFI_OUT_OF_RESOURCES on failure")
+eab3126571ed ("efi: libstub: simplify efi_get_memory_map() and struct efi_boot_memmap")
+f80d26043af9 ("efi: libstub: avoid efi_get_memory_map() for allocating the virt map")
+a6cfe03c34ba ("efi: stub: prefer mirrored memory for randomized allocations")
+5b94046efb47 ("efi/libstub: arm64: Force Image reallocation if BSS was not reserved")
+54649911f31b ("efi: stub: get rid of efi_get_max_fdt_addr()")

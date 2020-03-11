@@ -1,0 +1,8 @@
+b13a3539eb2a ("scsi: ufs-bsg: complete ufs-bsg job only if no error")
+4eaa329e3313 ("scsi: ufs-bsg: Change the calling convention for write descriptor")
+95e34bf930ea ("scsi: ufs-bsg: Add support for raw upiu in ufs_bsg_request()")
+df032bf27a41 ("scsi: ufs: Add a bsg endpoint that supports UPIUs")
+a851b2bd3632 ("scsi: uapi: ufs: Make utp_upiu_req visible to user space")
+8111b5e33486 ("scsi: ufs: add Hisilicon ufs driver code")
+38135535dcc2 ("scsi: ufs: add reference counting for scsi block requests")
+cbb6813ee771 ("scsi: ufs: sysfs: attribute group for existing sysfs entries.")

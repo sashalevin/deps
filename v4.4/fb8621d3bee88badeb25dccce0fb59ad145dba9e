@@ -1,0 +1,5 @@
+fb8621d3bee8 ("drm/i915: Avoid allocating a vmap arena for a single page")
+f2a85e1975d8 ("drm,i915: Introduce drm_malloc_gfp()")
+0a798eb92e6d ("drm/i915: Refactor duplicate object vmap functions")
+0eb973d31d0a ("drm/i915: Cache ringbuffer GTT VMA")
+def0c5f6b0cd ("drm/i915: Map the ringbuffer using WB on LLC machines")

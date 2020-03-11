@@ -1,0 +1,7 @@
+061478438d04 ("mm/page_alloc: further fix __alloc_pages_bulk() return value")
+e5c15cea3391 ("mm/page_alloc: correct return value when failing at preparing")
+ff4b2b4014cb ("mm/page_alloc: correct return value of populated elements if bulk array is populated")
+b3b64ebd3822 ("mm/page_alloc: do bulk array bounds check after checking populated elements")
+ce76f9a1d9a2 ("mm/page_alloc: optimize code layout for __alloc_pages_bulk")
+0f87d9d30f21 ("mm/page_alloc: add an array-based interface to the bulk page allocator")
+387ba26fb1cb ("mm/page_alloc: add a bulk page allocator")

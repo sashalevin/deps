@@ -1,0 +1,7 @@
+27a59d57f073 ("KVM: x86/mmu: Use a bool for direct")
+0a2b64c50db0 ("kvm: mmu: Replace unsigned with unsigned int for PTE access")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+9b8ebbdb74b5 ("KVM: x86: extend usage of RET_MMIO_PF_* constants")
+e08d26f07125 ("KVM: x86: simplify ept_misconfig")
+db1c056cee59 ("kvm: vmx: Use the hardware provided GPA instead of page walk")
+147277540bbc ("kvm: svm: Add support for additional SVM NPF error codes")

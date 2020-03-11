@@ -1,0 +1,7 @@
+2ca2a09d6215 ("fs: add ksys_close() wrapper; remove in-kernel calls to sys_close()")
+312db1aa1dc7 ("fs: add ksys_mount() helper; remove in-kernel calls to sys_mount()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")
+a60f7b69d92c ("generic syscalls: Wire up memory protection keys syscalls")
+1f93e9f2318b ("asm-generic: use compat version for preadv2 and pwritev2")
+987aedb5d6f6 ("generic syscalls: wire up preadv2 and pwritev2 syscalls")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

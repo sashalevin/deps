@@ -1,0 +1,8 @@
+49ef7d846d4b ("r8169: prepare rtl_hw_aspm_clkreq_enable for usage in atomic context")
+62b1b3b3b6d3 ("r8169: don't activate ASPM in chip if OS can't control ASPM")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+b75bb8a5b755 ("r8169: disable ASPM again")
+703732f0058b ("r8169: replace mii_bus member with phy_device member in struct rtl8169_private")
+ee28b30cbbe0 ("r8169: fix crash if CONFIG_DEBUG_SHIRQ is enabled")
+649f0837a8cc ("r8169: fix broken Wake-on-LAN from S5 (poweroff)")
+38caff5a445b ("r8169: handle all interrupt events in the hard irq handler")

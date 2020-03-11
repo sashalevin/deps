@@ -1,0 +1,8 @@
+90001d67be2f ("sched/fair: Fix wake_affine() for !NUMA_BALANCING")
+ff801b716eff ("sched/numa: Hide numa_wake_affine() from UP build")
+3fed382b46ba ("sched/numa: Implement NUMA node level wake_affine()")
+7d894e6e34a5 ("sched/fair: Simplify wake_affine() for the single socket case")
+a60b9eda67be ("sched/headers: Move scheduler topology interfaces to <linux/sched/topology.h>")
+4c822698cba8 ("sched/headers: Prepare for new header dependencies before moving code to <linux/sched/idle.h>")
+105ab3d8ce72 ("sched/headers: Prepare for new header dependencies before moving code to <linux/sched/topology.h>")
+f4000cd99750 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

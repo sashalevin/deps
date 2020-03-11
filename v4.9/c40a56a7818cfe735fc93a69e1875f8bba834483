@@ -1,0 +1,8 @@
+c40a56a7818c ("x86/mm/init: Remove freed kernel image areas from alias mapping")
+6ea2738e0ca0 ("x86/mm/init: Add helper for freeing kernel image pages")
+9f515cdb411e ("x86/mm/init: Pass unconverted symbol addresses to free_init_pages()")
+77bd2342d430 ("x86/mm: Add support for changing the memory encryption attribute")
+299878bac326 ("treewide: move set_memory_* functions away from cacheflush.h")
+9b0aa14e3155 ("arm64: mm: add set_memory_valid()")
+2959a5f726f6 ("mm: add arch-independent testcases for RODATA")
+ff47d8c05019 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

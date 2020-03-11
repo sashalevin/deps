@@ -1,0 +1,8 @@
+eb6c2eb6c7fb ("usb: host: xhci-plat: Prevent an abnormally restrictive PHY init skipping")
+4e88d4c08301 ("usb: add a flag to skip PHY initialization to struct usb_hcd")
+a8c06e407ef9 ("usb: separate out sysdev pointer from usb_bus")
+d3d6ef1fb908 ("usb: host: ohci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")
+42a58c9949dd ("usb: host: ehci-platform: set hcd->phy to avoid phy_get() in usb_add_hcd()")
+b44bbc46a8bb ("usb: core: setup dma_pfn_offset for USB devices and, interfaces")
+dc5878abf49c ("usb: core: move root hub's device node assignment after it is added to bus")
+58f2266f4019 ("usb: core: Allow compilation on platforms where NO_DMA=y")

@@ -1,0 +1,8 @@
+998af18082fe ("media: ipu-bridge: Add a parse_sensor_fwnode callback to ipu_bridge_init()")
+dd671ed0c580 ("media: ipu-bridge: Add a ipu_bridge_parse_ssdb() helper function")
+77c45766409a ("media: ipu-bridge: Only keep PLD around while parsing")
+d3cb5f61cdac ("media: ipu-bridge: Store dev pointer in struct ipu_bridge")
+928d8e2fa642 ("media: ipu-bridge: Move initialization of node_names.vcm to ipu_bridge_init_swnode_names()")
+41eebd643835 ("media: ipu-bridge: Move initialization of node_names.vcm to ipu_bridge_init_swnode_names()")
+11e0a7c8e04e ("media: ipu-bridge: Do not use on stack memory for software_node.name field")
+881ca25978c6 ("media: ipu3-cio2: rename cio2 bridge to ipu bridge and move out of ipu3")

@@ -1,0 +1,6 @@
+3fd1239a7835 ("x86/boot/compressed: Handle unaccepted memory")
+745e3ed85f71 ("efi/libstub: Implement support for unaccepted memory")
+2e9f46ee1599 ("efi/x86: Get full memory map in allocate_e820()")
+fd936fd8ac10 ("efi: fix missing prototype warnings")
+c0fecaa44dc3 ("efi: Apply allowlist to EFI configuration tables when running under Xen")
+aca1d27ac38a ("efi: xen: Implement memory descriptor lookup based on hypercall")

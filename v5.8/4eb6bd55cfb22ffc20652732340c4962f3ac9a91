@@ -1,0 +1,6 @@
+4eb6bd55cfb2 ("compiler.h: drop fallback overflow checkers")
+540540d06e9d ("kcov: add __no_sanitize_coverage to fix noinstr for all architectures")
+3347acc6fcd4 ("compiler.h: fix barrier_data() on clang")
+9b80e4c4ddac ("overflow: Add __must_check attribute to check_*() helpers")
+c5f748e2f2ad ("include/linux/compiler-clang.h: drop duplicated word in a comment")
+e506ea451254 ("compiler.h: Split {READ,WRITE}_ONCE definitions out into rwonce.h")

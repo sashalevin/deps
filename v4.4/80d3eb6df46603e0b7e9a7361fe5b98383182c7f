@@ -1,0 +1,5 @@
+80d3eb6df466 ("atari_NCR5380: Set do_abort() timeouts")
+1cc160e1ba93 ("ncr5380: Fix !REQ timeout in do_abort()")
+636b1ec8575a ("atari_NCR5380: Reset bus on driver initialization if required")
+b6488f97d3b5 ("ncr5380: Split NCR5380_init() into two functions")
+54d8fe4425c9 ("ncr5380: Remove NCR5380_local_declare and NCR5380_setup macros")

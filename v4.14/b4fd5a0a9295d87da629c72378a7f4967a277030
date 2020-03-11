@@ -1,0 +1,7 @@
+b4fd5a0a9295 ("s390/atomic,bitops: mark function(s) __always_inline")
+9779048d71b1 ("s390/kasan: add bitops instrumentation")
+0a5c3c2f4766 ("s390/bitops: make test functions return bool")
+f3ec471a9832 ("s390/bitops: add test_and_clear_bit_inv()")
+eb3b7b848fb3 ("s390/rwlock: introduce rwlock wait queueing")
+b96f7d881ad9 ("s390/spinlock: introduce spinlock wait queueing")
+8153380379ec ("s390/spinlock: use the cpu number +1 as spinlock value")

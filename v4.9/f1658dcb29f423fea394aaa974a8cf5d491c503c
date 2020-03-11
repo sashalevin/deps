@@ -1,0 +1,8 @@
+f1658dcb29f4 ("iwlwifi: pcie: make sure iwl_rx_packet_payload_len() will not underflow")
+df72138de4bc ("iwlwifi: pcie: validate RX descriptor length")
+0307c839613e ("iwlwifi: pcie: support rx structures for 22560 devices")
+cf495496b688 ("iwlwifi: introduce new rx structures used by 22560 RFH")
+1b493e30a195 ("iwlwifi: pcie: allocate and free rx cr's and tr's tails")
+6aa7de059173 ("locking/atomics: COCCINELLE/treewide: Convert trivial ACCESS_ONCE() patterns to READ_ONCE()/WRITE_ONCE()")
+656710a60e36 ("userfaultfd: non-cooperative: closing the uffd without triggering SIGBUS")
+5f82e71a001d ("Merge branch 'locking-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

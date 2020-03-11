@@ -1,0 +1,6 @@
+339020091e24 ("scsi: qla2xxx: Fix end of loop test")
+b843adde8d49 ("scsi: qla2xxx: Fix mem access after free")
+d3affdeb400f ("scsi: qla2xxx: Synchronize the IOCB count to be in order")
+c39587bc0aba ("scsi: qla2xxx: Fix crash due to stale SRB access around I/O timeouts")
+5597616333ea ("scsi: qla2xxx: Stop using the SCSI pointer")
+79e30b884a01 ("scsi: qla2xxx: Call scsi_done() directly")

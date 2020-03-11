@@ -1,0 +1,5 @@
+4547833602fd ("x86/mm/pat: Add 5-level paging support")
+e535ec0899d1 ("x86/mm/pat: Prevent hang during boot when mapping pages")
+55920d31f1e3 ("x86/mm/cpa: Add missing comment in populate_pdg()")
+530dd8d4b9da ("x86/mm/cpa: Fix populate_pgd(): Stop trying to deallocate failed PUDs")
+360cb4d15567 ("x86/mm/cpa: In populate_pgd(), don't set the PGD entry until it's populated")

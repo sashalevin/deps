@@ -1,0 +1,5 @@
+69d6302b65a8 ("libceph: Remove VLA usage of skcipher")
+7af3ea189a9a ("libceph: stop allocating a new cipher on every crypto request")
+6db2304aabb0 ("libceph: uninline ceph_crypto_key_destroy()")
+a45f795c65b4 ("libceph: introduce ceph_crypt() for in-place en/decryption")
+e59dd982d355 ("libceph: Use skcipher")

@@ -1,0 +1,3 @@
+13ede3315087 ("sched/numa: Do not swap tasks between nodes when spare capacity is available")
+cb361d8cdef6 ("sched/fair: Use RCU accessors consistently for ->numa_group")
+16d51a590a8c ("sched/fair: Don't free p->numa_faults with concurrent readers")

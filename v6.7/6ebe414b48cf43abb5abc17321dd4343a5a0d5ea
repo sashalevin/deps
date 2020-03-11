@@ -1,0 +1,8 @@
+6ebe414b48cf ("net: dsa: mt7530: remove .mac_port_config for MT7988 and make it optional")
+8c2703f55837 ("net: dsa: mt7530: remove pad_setup function pointer")
+4ea4c040ddc8 ("net: dsa: mt7530: call port 6 setup from mt7530_mac_config()")
+4eec447ef640 ("net: dsa: mt7530: simplify mt7530_pad_clk_setup()")
+fd7929095a52 ("net: dsa: mt7530: move XTAL check to mt7530_setup()")
+1f4a85f2eaa8 ("net: dsa: mt7530: store port 5 SGMII capability of MT7531")
+b198c9097f06 ("net: dsa: mt7530: use p5_interface_select as data type for p5_intf_sel")
+024d8577f534 ("net: dsa: mt7530: always trap frames to active CPU port on MT7530")

@@ -1,0 +1,6 @@
+f08789462255 ("crypto: qce - Return error for zero length messages")
+7f19380b2cfd ("crypto: qce - handle AES-XTS cases that qce fails")
+ce163ba0bf29 ("crypto: qce - use AES fallback for small requests")
+7de4c2bd196f ("crypto: qce - fix xts-aes-qce key sizes")
+8bf0871539fa ("crypto: qce - switch to skcipher API")
+f65eae617e5d ("crypto: qce - add CRYPTO_ALG_KERN_DRIVER_ONLY flag")

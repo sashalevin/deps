@@ -1,0 +1,7 @@
+c582ffadbe6c ("drm/i915/psr: Fix PSR2 handling of multiplanar format")
+3809991ff5f4 ("drm/i915/display: Add initial selective fetch support for biplanar formats")
+7b24b79bf5f9 ("drm/i915/display: Fix sel fetch plane offset calculation")
+5cc92edb6ee8 ("drm/i915/display/psr2: Mark as updated all planes that intersect with pipe_clip")
+6b9663413ba7 ("drm/i915/display/psr: Program plane's calculated offset to plane SF register")
+3fea9f4244f8 ("drm/i915/display/psr: Use plane damage clips to calculate damaged area")
+efab47658a6c ("drm/i915/display/psr: Calculate selective fetch plane registers")

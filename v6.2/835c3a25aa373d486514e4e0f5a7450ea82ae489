@@ -1,0 +1,4 @@
+835c3a25aa37 ("mm: huge_memory: add the missing folio_test_pmd_mappable() for THP split statistics")
+8991de90e997 ("mm/huge_memory: remove page_deferred_list()")
+4375a553f46c ("mm: move page->deferred_list to folio->_deferred_list")
+81e506bec9be ("mm/thp: check and bail out if page in deferred queue already")

@@ -1,0 +1,6 @@
+b9470c27607b ("inet: kill smallest_size and smallest_port")
+aa078842b702 ("inet: drop ->bind_conflict")
+fe38d2a1c8be ("inet: collapse ipv4/v6 rcv_saddr_equal functions into one")
+df560056d960 ("udp: inuse checks can quit early for reuseport")
+0643ee4fd1b7 ("inet: Fix get port to handle zero port number with soreuseport set")
+9af7e923fdd8 ("inet: Don't go into port scan when looking for specific bind port")

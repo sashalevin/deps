@@ -1,0 +1,8 @@
+844e5e74c1a8 ("xfs: fix double ijoin in xfs_reflink_clear_inode_flag()")
+ea7cdd7b7baf ("xfs: separate function to check if inode shares extents")
+92ff7285f1df ("xfs: reflink find shared should take a transaction")
+9c4f29d39168 ("xfs: factor out a xfs_bmap_is_real_extent helper")
+3802a345321a ("xfs: only reclaim unwritten COW extents periodically")
+acdda3aae146 ("xfs: use iomap_dio_rw")
+6552321831dc ("xfs: remove i_iolock and use i_rwsem in the VFS inode instead")
+e3df41f97847 ("Merge branch 'xfs-4.10-misc-fixes-2' into iomap-4.10-directio")

@@ -1,0 +1,5 @@
+0755a9bd9963 ("intel_idle: Move and clean up intel_idle_cpuidle_devices_uninit()")
+ca42489d9ee3 ("intel_idle: Avoid a double free of the per-CPU data.")
+51319918bcc3 ("intel_idle: Fix deallocation order on the driver exit path.")
+f70415496d5d ("intel_idle: remove useless return from void function.")
+d70e28f57e14 ("intel_idle: prevent SKL-H boot failure when C8+C9+C10 enabled")

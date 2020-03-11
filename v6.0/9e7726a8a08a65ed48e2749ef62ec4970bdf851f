@@ -1,0 +1,8 @@
+9e7726a8a08a ("KVM: selftests: Hyper-V PV TLB flush selftest")
+998489245d84 ("KVM: selftests: Hyper-V PV IPI selftest")
+caf4110fbaa8 ("KVM: selftests: Move the function doing Hyper-V hypercall to a common header")
+c05a0a71c5d0 ("KVM: selftests: Move HYPERV_LINUX_OS_ID definition to a common header")
+b9635930f0a7 ("KVM: selftests: Provide error code as a KVM_ASM_SAFE() output")
+f2e5b53b4ba9 ("KVM: selftests: Avoid JMP in non-faulting path of KVM_ASM_SAFE()")
+dfb45db43e9f ("KVM: selftests: Load RAX with -EFAULT before Hyper-V hypercall")
+bf3f11581893 ("KVM: selftests: Check result in hyperv_features for successful hypercalls")

@@ -1,0 +1,6 @@
+a9cb97c3e628 ("media: dvb_frontend: be sure to init dvb_frontend_handle_ioctl() return code")
+d73dcf0cdb95 ("media: dvb_frontend: cleanup ioctl handling logic")
+2b5df42b8dec ("media: dvb_frontend: cleanup dvb_frontend_ioctl_properties()")
+fb6609280db9 ("[media] dvb_frontend: Use memdup_user() rather than duplicating its implementation")
+bb31d2381c73 ("[media] dvb_frontend: Don't let drivers to trash data at cache")
+2ea9a08d59b9 ("[media] dvb_frontend: add props argument to dtv_get_frontend()")

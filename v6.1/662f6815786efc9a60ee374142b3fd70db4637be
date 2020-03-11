@@ -1,0 +1,6 @@
+662f6815786e ("KVM: VMX: Rename XSAVES control to follow KVM's preferred "ENABLE_XYZ"")
+1143c0b85c07 ("KVM: VMX: Recompute "XSAVES enabled" only after CPUID update")
+68ac4221497b ("KVM: nVMX: Move EVMCS1_SUPPORT_* macros to hyperv.c")
+c128d3fd389b ("KVM: nVMX: Prepare to sanitize tertiary execution controls with eVMCS")
+96d6955d215e ("KVM: nVMX: Invert 'unsupported by eVMCSv1' check")
+a2ad080b4dfd ("KVM: nVMX: Sanitize primary processor-based VM-execution controls with eVMCS too")

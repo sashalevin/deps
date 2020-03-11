@@ -1,0 +1,5 @@
+d17e66aadbe5 ("nvme: use set_capacity_and_notify in nvme_set_queue_dying")
+c13f0fbc4c19 ("nvme: don't call revalidate_disk from nvme_set_queue_dying")
+611bee526b4a ("block: replace bd_set_size with bd_set_nr_sectors")
+b9b1a5d71533 ("block: remove blk_queue_stack_limits")
+4f43d648078a ("Merge branch 'for-5.9/drivers' into for-5.9/block-merge")

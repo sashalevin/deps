@@ -1,0 +1,7 @@
+73c25546d47f ("KVM: nSVM: Track whether changes in L0 require MSR bitmap for L2 to be rebuilt")
+b222b0b88162 ("KVM: nSVM: refactor the CR3 reload on migration")
+a36dbec67e26 ("KVM: nSVM: Drop pointless pdptrs_changed() check on nested transition")
+c4327f15dfc7 ("KVM: SVM: hyper-v: Enlightened MSR-Bitmap support")
+1e0c7d40758b ("KVM: SVM: hyper-v: Remote TLB flush for SVM")
+fa13680f5668 ("KVM: SVM: Disable SEV/SEV-ES if NPT is disabled")
+232f75d3b4b5 ("KVM: nSVM: call nested_svm_load_cr3 on nested state load")

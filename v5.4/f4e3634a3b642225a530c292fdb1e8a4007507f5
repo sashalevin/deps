@@ -1,0 +1,4 @@
+f4e3634a3b64 ("ubifs: Fix races between xattr_{set|get} and listxattr operations")
+f2aae745b82c ("ubifs: xattr: Fix some potential memory leaks while iterating entries")
+927cc5cec35f ("ubifs: ubifs_add_orphan: Fix a memory leak bug")
+81423c785516 ("ubifs: ubifs_jnl_write_inode: Fix a memory leak bug")

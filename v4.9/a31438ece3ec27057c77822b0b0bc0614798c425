@@ -1,0 +1,7 @@
+a31438ece3ec ("power: reset: at91-poweroff: Convert to platform remove callback returning void")
+099806de68b7 ("power: reset: at91-poweroff: Stop using module_platform_driver_probe()")
+caa6e150f8fb ("power: reset: at91-poweroff: move shdwc related data to one structure")
+996463fdb8cd ("power: reset: at91-poweroff: use one poweroff function for at91-poweroff")
+ab08824826d7 ("power: reset: at91-poweroff: Remove redundant dev_err call in at91_poweroff_probe()")
+062836db01f9 ("power: reset: at91-poweroff: Switch from the pr_*() to the dev_*() logging functions")
+0b0408745e7f ("power: reset: at91-poweroff: timely shutdown LPDDR memories")

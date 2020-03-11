@@ -1,0 +1,8 @@
+161f6e5baabd ("clk: meson: add regmap to the clock controllers")
+14bd7b9c8d3f ("clk: meson: only one loop index is necessary in probe")
+332b32a23225 ("clk: meson: use devm_of_clk_add_hw_provider")
+323346d31d68 ("clk: meson: use dev pointer where possible")
+9d548d803847 ("clk: meson-axg: fix potential NULL dereference in axg_clkc_probe()")
+4f8f7809e47b ("clk: meson-axg: fix return value check in axg_clkc_probe()")
+78b4af312f91 ("clk: meson-axg: add clock controller drivers")
+f2c2122a6cbc ("ARM64: meson: enable MESON_IRQ_GPIO in Kconfig")

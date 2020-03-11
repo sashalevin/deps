@@ -1,1 +1,4 @@
 2f97967503df ("arm64: kpti: Update arm64_kernel_use_ng_mappings() when forced on")
+b89d82ef01b3 ("arm64: kpti: Avoid rewriting early page tables when KASLR is enabled")
+f58cdf7e3cab ("arm64: capabilities: Merge duplicate Cavium erratum entries")
+c9460dcb06ee ("arm64: capabilities: Merge entries for ARM64_WORKAROUND_CLEAN_CACHE")

@@ -1,0 +1,7 @@
+923510c88d2b ("x86/static_call: Add support for Jcc tail-calls")
+c27c753ea6fd ("x86/static_call: Serialize __static_call_fixup() properly")
+ee88d363d156 ("x86,static_call: Use alternative RET encoding")
+15e67227c49a ("x86: Undo return-thunk damage")
+369ae6ffc41a ("x86/retpoline: Cleanup some #ifdefery")
+a883d624aed4 ("x86/cpufeatures: Move RETPOLINE flags to word 11")
+03f16cd020eb ("objtool: Add CONFIG_OBJTOOL")

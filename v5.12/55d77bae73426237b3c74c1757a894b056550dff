@@ -1,0 +1,8 @@
+55d77bae7342 ("kasan: fix Oops due to missing calls to kasan_arch_is_ready()")
+23689e91fb22 ("kasan, vmalloc: add vmalloc tagging for HW_TAGS")
+19f1c3acf8f4 ("kasan, vmalloc: unpoison VM_ALLOC pages after mapping")
+01d92c7f358c ("kasan, vmalloc, arm64: mark vmalloc mappings as pgprot_tagged")
+1d96320f8d53 ("kasan, vmalloc: add vmalloc tagging for SW_TAGS")
+579fb0ac085b ("kasan: add wrappers for vmalloc hooks")
+5bd9bae22a45 ("kasan: reorder vmalloc hooks")
+512b7931ad05 ("Merge branch 'akpm' (patches from Andrew)")

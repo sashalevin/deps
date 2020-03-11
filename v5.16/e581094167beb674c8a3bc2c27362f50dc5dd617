@@ -1,0 +1,6 @@
+e581094167be ("bpf: Fix bpf_prog_pack when PMU_SIZE is not defined")
+96805674e562 ("bpf: Fix bpf_prog_pack for multi-node setup")
+ef078600eec2 ("bpf: Select proper size for bpf_prog_pack")
+4cc0991abd39 ("bpf: Fix bpf_prog_pack build for ppc64_defconfig")
+c1b13a9451ab ("bpf: Fix bpf_prog_pack build HPAGE_PMD_SIZE")
+57631054fae6 ("bpf: Introduce bpf_prog_pack allocator")

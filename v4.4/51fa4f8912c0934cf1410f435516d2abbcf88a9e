@@ -1,0 +1,5 @@
+51fa4f8912c0 ("MIPS: ath79: drop legacy IRQ code")
+81ffb18ce4a0 ("irqchip/ath79-cpu: Move the CPU IRQ driver from arch/mips/ath79/")
+07ba4b061a79 ("irqchip/ath79-misc: Move the MISC driver from arch/mips/ath79/")
+f9a3e047bc80 ("MIPS: ath79: Prepare moving the MISC driver to drivers/irqchip")
+a797a0cf9c7b ("MIPS: ath79: Remove useless #ifdef CONFIG_IRQCHIP")

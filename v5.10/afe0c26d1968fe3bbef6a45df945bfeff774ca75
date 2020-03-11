@@ -1,0 +1,5 @@
+afe0c26d1968 ("mm, slub: move slub_debug static key enabling outside slab_mutex")
+59450bbc12be ("mm, slab, slub: stop taking cpu hotplug lock")
+7e1fa93deff4 ("mm, slab, slub: stop taking memory hotplug lock")
+666716fd267d ("mm, slub: stop freeing kmem_cache_node structures on node offline")
+375400087218 ("mm/sl?b.c: remove ctor argument from kmem_cache_flags")

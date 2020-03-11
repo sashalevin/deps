@@ -1,0 +1,3 @@
+59765db5fc82 ("x86/reboot: Disable virtualization during reboot iff callback is registered")
+d81f952aa657 ("x86/reboot: Disable virtualization in an emergency if SVM is supported")
+26044aff37a5 ("x86/crash: Disable virt in core NMI crash handler to avoid double shootdown")

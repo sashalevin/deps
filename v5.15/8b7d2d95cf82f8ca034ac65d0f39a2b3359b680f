@@ -1,0 +1,7 @@
+8b7d2d95cf82 ("tty: Make ldisc ->set_termios() old ktermios const")
+98629663bff8 ("tty: reformat kernel-doc in n_tty.c")
+c66453ce8af8 ("tty: fix kernel-doc in n_tty.c")
+40f4268cddb9 ("tty: combine tty_ldisc_ops docs into kernel-doc")
+0c6119f9f7dc ("tty: add kernel-doc for tty_ldisc_ops")
+d78328bcc4d0 ("tty: remove file from tty_ldisc_ops::ioctl and compat_ioctl")
+28f194da4a2c ("tty: make tty_ldisc_ops::hangup return void")

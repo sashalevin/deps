@@ -1,0 +1,6 @@
+4cd179a312c6 ("drm/ssd130x: Inline the ssd130x_buf_{alloc, free}() function helpers")
+7dae503584a1 ("drm/ssd130x: Change pixel format used to compute the buffer size")
+e254b584dbc0 ("drm/ssd130x: Remove hardcoded bits-per-pixel in ssd130x_buf_alloc()")
+49d7d581ceaf ("drm/ssd130x: Don't allocate buffers on each plane update")
+179a790aaf2a ("drm/ssd130x: Set the page height value in the device info data")
+f1f288d07afb ("drm/ssd130x: Make default width and height to be controller dependent")

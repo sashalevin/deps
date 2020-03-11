@@ -1,0 +1,7 @@
+2427f03fb42f ("net: ethernet: litex: Add the dependency on HAS_IOMEM")
+e330fb14590c ("of: net: move of_net under net/")
+c3496da580b0 ("net: Add depends on OF_NET for LiteX's LiteETH")
+ee7da21ac4c3 ("net: Add driver for LiteX's LiteETH network interface")
+14b26b127c09 ("net: phy: Move of_mdio from drivers/of to drivers/net/mdio")
+a9770eac511a ("net: mdio: Move MDIO drivers into a new subdirectory")
+2fa4e4b799e1 ("net: pcs: Move XPCS into new PCS subdirectory")

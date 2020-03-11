@@ -1,0 +1,7 @@
+41c9e132c5cc ("rtc: nvmem: remove nvmem from struct rtc_device")
+461e557b9727 ("rtc: nvmem: use devm_nvmem_register()")
+046dbb2420ce ("rtc: nvmem: don't use IS_ERR_OR_NULL")
+0391df74a608 ("rtc: remove nvmem_config")
+ab3ea36eda76 ("rtc: nvmem: disallow registering nvmem more than once")
+2cc821219882 ("rtc: nvmem: return error values")
+4cce9d3988ae ("rtc: nvmem: pass nvmem_config to rtc_nvmem_register()")

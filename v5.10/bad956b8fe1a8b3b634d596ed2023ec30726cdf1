@@ -1,0 +1,5 @@
+bad956b8fe1a ("powerpc/uaccess: Remove __get/put_user_inatomic()")
+9bd68dc5d746 ("powerpc/uaccess: Define ___get_user_instr() for ppc32")
+8cdf748d557f ("powerpc/uaccess: Remove __get_user_allowed() and unsafe_op_wrap()")
+de4ffc653f37 ("powerpc/uaccess: Simplify unsafe_put_user() implementation")
+8524e2e76441 ("powerpc/uaccess: Perform barrier_nospec() in KUAP allowance helpers")

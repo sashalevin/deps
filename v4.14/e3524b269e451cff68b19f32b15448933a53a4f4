@@ -1,0 +1,3 @@
+e3524b269e45 ("RDMA/vmw_pvrdma: Avoid use after free due to QP/CQ/SRQ destroy")
+30a366a9dabd ("RDMA/vmw_pvrdma: Use refcount_dec_and_test to avoid warning")
+8b10ba783c9d ("RDMA/vmw_pvrdma: Add shared receive queue support")

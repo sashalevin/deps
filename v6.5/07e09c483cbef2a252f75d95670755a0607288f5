@@ -1,0 +1,3 @@
+07e09c483cbe ("mm/huge_memory: work on folio->swap instead of page->private when splitting folio")
+cfeed8ffe55b ("mm/swap: stop using page->private on tail pages for THP_SWAP")
+b10ff04dc0ec ("mm: add tail private fields to struct folio")

@@ -1,0 +1,5 @@
+fb23b97346f9 ("rpmsg: glink: Cancel pending intent requests at removal")
+9c96bacf1af5 ("rpmsg: glink: Fail qcom_glink_tx() once remove has been initiated")
+b16a37e1846c ("rpmsg: glink: Send READ_NOTIFY command in FIFO full case")
+6f0b9584275a ("rpmsg: glink: Fix various kerneldoc warnings.")
+29fc9b387360 ("rpmsg: glink: Use spinlock in tx path")

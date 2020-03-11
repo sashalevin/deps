@@ -1,0 +1,5 @@
+75cc9a84c9eb ("x86/sev: Remove do_early_exception() forward declarations")
+541ac97186d9 ("x86/sev: Make the #VC exception stacks part of the default stacks storage")
+fea63d54f7a3 ("x86/sev-es: Move sev_es_put_ghcb() in prep for follow on patch")
+e759959fe3b8 ("x86/sev-es: Rename sev-es.{ch} to sev.{ch}")
+545ac14c16b5 ("x86/sev-es: Check regs->sp is trusted before adjusting #VC IST stack")

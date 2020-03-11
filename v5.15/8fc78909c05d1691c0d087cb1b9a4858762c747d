@@ -1,0 +1,8 @@
+8fc78909c05d ("KVM: nSVM: introduce struct vmcb_ctrl_area_cached")
+bd95926c2b2b ("KVM: nSVM: split out __nested_vmcb_check_controls")
+b7a3d8b6f433 ("KVM: nSVM: use vmcb_save_area_cached in nested_vmcb_valid_sregs()")
+7907160dbf1a ("KVM: nSVM: rename nested_load_control_from_vmcb12 in nested_copy_vmcb_control_to_cache")
+f2740a8d851a ("KVM: nSVM: introduce svm->nested.save to cache save area before checks")
+174a921b6975 ("nSVM: Check for reserved encodings of TLB_CONTROL in nested VMCB")
+5228eb96a487 ("KVM: x86: nSVM: implement nested TSC scaling")
+9ebe530b9f5d ("KVM: SVM: Move RESET emulation to svm_vcpu_reset()")

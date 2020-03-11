@@ -1,0 +1,4 @@
+ce578f16348b ("x86/fpu: Mark various FPU state variables __ro_after_init")
+eeedf1533687 ("x86/fpu: Introduce copy_supervisor_to_kernel()")
+49a91d61aed1 ("x86/fpu/xstate: Fix XSAVES offsets in setup_xstate_comp()")
+c08550510ca2 ("x86/fpu: Shrink space allocated for xstate_comp_offsets")

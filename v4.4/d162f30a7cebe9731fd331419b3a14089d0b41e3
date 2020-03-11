@@ -1,0 +1,4 @@
+d162f30a7ceb ("kvm: x86: mmu: Move pgtbl walk inside retry loop in fast_page_fault")
+97dceba29a6a ("kvm: x86: mmu: Fast Page Fault path retries")
+ea4114bcd3a8 ("kvm: x86: mmu: Rename spte_is_locklessly_modifiable()")
+afd28fe1c901 ("KVM: x86: MMU: Remove is_rmap_spte() and use is_shadow_present_pte()")

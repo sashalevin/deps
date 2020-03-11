@@ -1,0 +1,8 @@
+68d875131e43 ("x86: Remove TIF_NOHZ")
+953fee1d82f3 ("x86/kconfig: Clean up 32-bit compat options")
+d94e068573f2 ("x86/kconfig: Move 64-bit only arch Kconfig selects to 'config X86_64'")
+341c787e34af ("x86/kconfig: Move 32-bit only arch Kconfig selects to 'config X86_32'")
+0100301bfdf5 ("sched/x86: Rewrite the switch_to() code")
+7b32aeadbc95 ("sched/x86: Add 'struct inactive_task_frame' to better document the sleeping task stack frame")
+e37e43a497d5 ("x86/mm/64: Enable vmapped stacks (CONFIG_HAVE_ARCH_VMAP_STACK=y)")
+f716a85cd604 ("Merge branch 'kbuild' of git://git.kernel.org/pub/scm/linux/kernel/git/mmarek/kbuild")

@@ -1,0 +1,7 @@
+45f7091aac35 ("powerpc/64: Set default CPU in Kconfig")
+4b2a9315f20d ("powerpc/64s: POWER10 CPU Kconfig build option")
+7fd123e54488 ("powerpc/64s: update cpu selection options")
+58ec7f06b74e ("powerpc/64s: Fix GENERIC_CPU build flags for PPC970 / G5")
+d6b551b8f90c ("powerpc/64e: Fix build failure with GCC 12 (unrecognized opcode: `wrteei')")
+ff27d9200a98 ("powerpc/405: Fix build failure with GCC 12 (unrecognized opcode: `wrteei')")
+446cda1b21d9 ("powerpc/32: Don't always pass -mcpu=powerpc to the compiler")

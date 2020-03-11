@@ -1,0 +1,4 @@
+8f3086d2a9c1 ("spi: fsl-espi: don't write ESPI_SPMODE register if the mode doesn't change")
+b3bec5f95f73 ("spi: fsl-espi: simplify and inline function fsl_espi_change_mode")
+54731265966d ("spi: fsl-espi: fix and improve writing to TX FIFO")
+923ab15e1a5c ("spi: fsl-espi: fix handling of word sizes other than 8 bit")

@@ -1,0 +1,7 @@
+1328cb7c34bf ("drm/msm/dsi: correct programming sequence for SM8350 / SM8450")
+8b034e677111 ("drm/msm/dsi: add support for DSI-PHY on SM8550")
+2f9ae4e395ed ("drm/msm/dsi: add support for DSI-PHY on SM8350 and SM8450")
+1a1bd3f45000 ("drm/msm/dsi/phy: rework register setting for 7nm PHY")
+d8810a669244 ("drm/msm/dsi: Take advantage of devm_regulator_bulk_get_const()")
+15cde7ea0778 ("drm/msm/dsi: Use the new regulator bulk feature to specify the load")
+0587e9aa0493 ("drm/msm/dsi: Don't set a load before disabling a regulator")

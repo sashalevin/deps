@@ -1,0 +1,4 @@
+479d89c91f72 ("fbdev/hecubafb: Generate deferred I/O ops")
+3f8974f68f40 ("fbdev: Validate info->screen_{base, buffer} in fb_ops implementations")
+453bd91302f1 ("fbdev: Don't re-validate info->state in fb_ops implementations")
+3907e683c09e ("fbdev/hecubafb: Use struct fb_info.screen_buffer")

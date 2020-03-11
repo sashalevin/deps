@@ -1,0 +1,7 @@
+1f008e114b1b ("KVM: x86: VMX: redo fix for link error without CONFIG_HYPERV")
+dbee3d02458b ("KVM: x86: VMX: fix build without hyper-v")
+ceef7d10dfb6 ("KVM: x86: VMX: hyper-v: Enlightened MSR-Bitmap support")
+773e8a0425c9 ("x86/kvm: use Enlightened VMCS when running on Hyper-V")
+68d1eb72ee99 ("x86/hyper-v: define struct hv_enlightened_vmcs and clean field bits")
+a46d15cc1ae5 ("x86/hyper-v: allocate and use Virtual Processor Assist Pages")
+80132f4c0cf9 ("Merge branch 'msr-bitmaps' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

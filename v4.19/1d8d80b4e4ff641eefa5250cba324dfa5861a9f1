@@ -1,1 +1,6 @@
 1d8d80b4e4ff ("i40e: Add macvlan support on i40e")
+d5596fd46770 ("i40e: enable NETIF_F_NTUPLE and NETIF_F_HW_TC at driver load")
+1328dcddbd53 ("i40e: add AF_XDP zero-copy Tx support")
+0a714186d3c0 ("i40e: add AF_XDP zero-copy Rx support")
+20a739dbef28 ("i40e: move common Rx functions to i40e_txrx_common.h")
+6d7aad1da279 ("i40e: refactor Rx path for re-use")

@@ -1,0 +1,7 @@
+1a5efc9e13f3 ("libsubcmd: Don't free the usage string")
+bd2cdf26b9ea ("perf sched: Move curr_pid and cpu_last_switched initialization to perf_sched__{lat|map|replay}()")
+5e895278697c ("perf sched: Move curr_thread initialization to perf_sched__map()")
+ef76a5af8197 ("perf sched: Fix memory leak in perf_sched__map()")
+c6907863519c ("perf sched: Move start_work_mutex and work_done_wait_mutex initialization to perf_sched__replay()")
+232418a0b2e8 ("perf sched: Avoid large stack allocations")
+eef4fee5e520 ("perf lock: Dynamically allocate lockhash_table")

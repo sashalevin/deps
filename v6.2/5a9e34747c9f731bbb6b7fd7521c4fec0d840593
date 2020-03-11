@@ -1,0 +1,6 @@
+5a9e34747c9f ("mm/swap: convert deactivate_page() to folio_deactivate()")
+f70da5ee8fe1 ("mm/damon: convert damon_pa_mark_accessed_or_deactivate() to use folios")
+07e8c82b5eff ("madvise: convert madvise_cold_or_pageout_pte_range() to use folios")
+18250e78f9c7 ("mm/damon/paddr: support DAMOS filters")
+6a6fe9ebd571 ("mm: swap: convert mark_page_lazyfree() to folio_mark_lazyfree()")
+fc986a38b670 ("mm: huge_memory: convert madvise_free_huge_pmd to use a folio")

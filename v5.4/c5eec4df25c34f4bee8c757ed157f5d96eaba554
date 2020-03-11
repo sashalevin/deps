@@ -1,0 +1,7 @@
+c5eec4df25c3 ("powerpc/8xx: Reduce default size of module/execmem area")
+9132a2e82adc ("powerpc/8xx: Define a MODULE area below kernel text")
+684c1664e0de ("powerpc/8xx: Always pin TLBs at startup.")
+136a9a0f74d2 ("powerpc/8xx: Don't set IMMR map anymore at boot")
+5d4656696c30 ("powerpc/8xx: Move PPC_PIN_TLB options into 8xx Kconfig")
+1e1c8b2cc37a ("powerpc/ptdump: don't entirely rebuild kernel when selecting CONFIG_PPC_DEBUG_WX")
+a2227a277743 ("powerpc/32: Don't populate page tables for block mapped pages except on the 8xx.")

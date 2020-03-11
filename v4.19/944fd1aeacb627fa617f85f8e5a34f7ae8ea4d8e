@@ -1,0 +1,8 @@
+944fd1aeacb6 ("net: allow unbound socket for packets in VRF when tcp_l3mdev_accept set")
+08a75f106794 ("tcp: Fix data-races around sysctl_tcp_l3mdev_accept.")
+5d368f03280d ("ipv6: add READ_ONCE(sk->sk_bound_dev_if) in INET6_MATCH()")
+fdb5fd7f736e ("tcp: sk->sk_bound_dev_if once in inet_request_bound_dev_if()")
+4915d50e300e ("inet: add READ_ONCE(sk->sk_bound_dev_if) in INET_MATCH()")
+01770a166165 ("tcp: fix race condition when creating child sockets from syncookies")
+e78190581aff ("net: ensure unbound stream socket to be chosen when not in a VRF")
+3c82a21f4320 ("net: allow binding socket in a VRF when there's an unbound socket")

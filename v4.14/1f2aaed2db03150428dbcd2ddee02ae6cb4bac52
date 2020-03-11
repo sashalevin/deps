@@ -1,0 +1,5 @@
+1f2aaed2db03 ("powerpc/module_64: Simplify check for -mprofile-kernel ftrace relocations")
+abba759796f9 ("powerpc/kbuild: move -mprofile-kernel check to Kconfig")
+250122baed29 ("powerpc64/module: Tighten detection of mcount call sites with -mprofile-kernel")
+73aca179d78e ("powerpc/modules: Fix crashes by adding CONFIG_RELOCATABLE to vermagic")
+b9eab08d012f ("powerpc/modules: Don't try to restore r2 after a sibling call")

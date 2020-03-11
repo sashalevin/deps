@@ -1,0 +1,5 @@
+93e720d710df ("selftests/seccomp: More closely track fds being assigned")
+e540ad97e73c ("selftests/seccomp: Add test for atomic addfd+send")
+e0c0840a46db ("selftests/seccomp: Accept any valid fd in user_notification_addfd")
+c97aedc52dce ("selftests/seccomp: Test SECCOMP_IOCTL_NOTIF_ADDFD")
+ad5682184a81 ("selftests/seccomp: Check for EPOLLHUP for user_notif")

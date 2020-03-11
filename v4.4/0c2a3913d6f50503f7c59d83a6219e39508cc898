@@ -1,0 +1,8 @@
+0c2a3913d6f5 ("x86/fpu: Parse clearcpuid= as early XSAVE argument")
+dd853fd216d1 ("x86/cpu: Fix bootup crashes by sanitizing the argument of the 'clearcpuid=' command-line option")
+ca6938a1cd8a ("x86/fpu: Hard-disable lazy FPU mode")
+b9d989c7218a ("x86/asm: Move the thread_info::status field to thread_struct")
+0100301bfdf5 ("sched/x86: Rewrite the switch_to() code")
+7b32aeadbc95 ("sched/x86: Add 'struct inactive_task_frame' to better document the sleeping task stack frame")
+e37e43a497d5 ("x86/mm/64: Enable vmapped stacks (CONFIG_HAVE_ARCH_VMAP_STACK=y)")
+c98f5827f8f0 ("Merge branch 'x86-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,7 @@
+8ede890b0bce ("ARM: uaccess: integrate uaccess_save and uaccess_restore")
+747ffc2fcf96 ("ARM: uaccess: consolidate uaccess asm to asm/uaccess-asm.h")
+c001899a5d6c ("ARM: 8843/1: use unified assembler in headers")
+afaf6838f4bc ("ARM: 8796/1: spectre-v1,v1.1: provide helpers for address sanitization")
+a3c0f84765bb ("ARM: spectre-v1: mitigate user accesses")
+d09fbb327d67 ("ARM: use __inttype() in get_user()")
+a78d15658793 ("ARM: spectre-v1: add speculation barrier (csdb) macros")

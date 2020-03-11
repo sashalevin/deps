@@ -1,0 +1,7 @@
+ba31c1a48538 ("futex: Move futex exit handling into futex code")
+04e7712f4460 ("y2038: futex: Move compat implementation into futex.c")
+9afc5eee65ca ("y2038: globally rename compat_time to old_time32")
+fd991a23c8f6 ("y2038: Provide aliases for compat helpers")
+afef05cf238c ("time: Enable get/put_compat_itimerspec64 always")
+f5a89295e2f5 ("time: Use ktime_get_real_seconds() in time syscall")
+ba252f16e443 ("Merge branch 'timers-2038-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

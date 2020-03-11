@@ -1,0 +1,4 @@
+744b9a0c3c83 ("ACPI: irq: Allow acpi_gsi_to_irq() to have an arch-specific fallback")
+7327b16f5f56 ("APCI: irq: Add support for multiple GSI domains")
+2a20b08f06e7 ("ACPI: irq: Prevent unregistering of GIC SGIs")
+aba3c7ed3fcf ("drivers/irqchip: Use new macro ACPI_DECLARE_SUBTABLE_PROBE_ENTRY")

@@ -1,0 +1,7 @@
+7436830c8d1a ("drm/i915/glk: Apply WaProgramL3SqcReg1DefaultForPerf for GLK too")
+70a84f3c6075 ("drm/i915: Unconditionally apply the Broxton register workaround set")
+f3e2b2c54050 ("drm/i915: Remove pre-production Broxton register workarounds")
+930a784d0233 ("drm/i915: Use a mask when applying WaProgramL3SqcReg1Default")
+212154ba4d1c ("drm/i915: Transform WaDisablePooledEuLoadBalancingFix into a simple register write")
+efc886cb1355 ("drm/i915: Transform WaInPlaceDecompressionHang into a simple reg write")
+90007bca6162 ("drm/i915/cnl: Introduce initial Cannonlake Workarounds.")

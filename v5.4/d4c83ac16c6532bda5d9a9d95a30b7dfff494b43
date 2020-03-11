@@ -1,0 +1,4 @@
+d4c83ac16c65 ("clk: meson: add 'NOINIT_ENABLED' flag to eliminate init for enabled PLL")
+02f1e17c4106 ("clk: meson: make pll rst bit as optional")
+89d079dc17e8 ("clk: let init callback return an error code")
+f6fa75ca912b ("clk: actually call the clock init before any other callback of the clock")

@@ -1,0 +1,8 @@
+88390dd788db ("cpuidle: Avoid potential overflow in integer multiplication")
+2ab80d46fead ("cpuidle: Use s64 as exit_latency_ns and target_residency_ns data type")
+c1d51f684c72 ("cpuidle: Use nanoseconds as the unit of time")
+99e98d3fb100 ("cpuidle: Consolidate disabled state checks")
+159e48560f51 ("cpuidle: teo: Fix "early hits" handling for disabled idle states")
+e43dcf20215f ("cpuidle: teo: Consider hits and misses metrics of disabled states")
+4f690bb8ce4c ("cpuidle: teo: Rename local variable in teo_select()")
+069ce2ef1a6d ("cpuidle: teo: Ignore disabled idle states that are too deep")

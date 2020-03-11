@@ -1,0 +1,7 @@
+cd19bab825bd ("x86/objtool: Teach objtool about ERET[US]")
+20a554638dd2 ("objtool: Change arch_decode_instruction() signature")
+c984aef8c832 ("objtool/powerpc: Add --mcount specific implementation")
+e52ec98c5ab1 ("objtool/powerpc: Enable objtool to be built on ppc")
+7a7621dfa417 ("objtool,x86: Teach decode about LOOP* instructions")
+7d209d13e7c3 ("objtool: Add IBT/ENDBR decoding")
+227a06553fe6 ("tools/objtool: Check for use of the ENQCMD instruction in the kernel")

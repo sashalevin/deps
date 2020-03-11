@@ -1,0 +1,6 @@
+5b9e4432db03 ("fm10k: use software values when checking for Tx hangs in hot path")
+94877768cfaa ("fm10k: wait for queues to drain if stop_hw() fails once")
+106ca42356b4 ("fm10k: only warn when stop_hw fails with FM10K_ERR_REQUESTS_PENDING")
+34bad71c7c25 ("fm10k: use actual hardware registers when checking for pending Tx")
+9d73edee5900 ("fm10k: prevent multiple threads updating statistics")
+61e0217e8335 ("fm10k: print error message when stop_hw fails")

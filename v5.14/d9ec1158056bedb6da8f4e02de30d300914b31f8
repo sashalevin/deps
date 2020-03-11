@@ -1,0 +1,4 @@
+d9ec1158056b ("x86/boot/64: Use RIP_REL_REF() to assign 'phys_base'")
+5ed0a99b12aa ("x86/head64: Carve out the guest encryption postprocessing into a helper")
+e9d1d2bb75b2 ("treewide: Replace the use of mem_encrypt_active() with cc_platform_has()")
+a449ffaf9181 ("powerpc/svm: Don't issue ultracalls if !mem_encrypt_active()")

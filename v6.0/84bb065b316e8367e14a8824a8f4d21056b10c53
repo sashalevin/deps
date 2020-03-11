@@ -1,0 +1,7 @@
+84bb065b316e ("ALSA: rawmidi: Use guard() for locking")
+ea29a02fd802 ("ALSA: rawmidi: Don't embed device")
+fa030f666d24 ("ALSA: ump: Additional proc output")
+30fc139260d4 ("ALSA: ump: Add ioctls to inquiry UMP EP and Block info via control API")
+127ae6f6dad2 ("ALSA: rawmidi: Skip UMP devices at SNDRV_CTL_IOCTL_RAWMIDI_NEXT_DEVICE")
+e3a8a5b726bd ("ALSA: rawmidi: UMP support")
+fb3bd1215909 ("ALSA: rawmidi: Add ioctl callback to snd_rawmidi_global_ops")

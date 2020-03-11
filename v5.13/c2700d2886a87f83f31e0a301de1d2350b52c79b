@@ -1,0 +1,7 @@
+c2700d2886a8 ("nvme-tcp: send H2CData PDUs based on MAXH2CDATA")
+1d3ef9c3a39e ("nvme-tcp: validate R2T PDU in nvme_tcp_handle_r2t()")
+ce7723e9cdae ("nvme-tcp: fix possible req->offset corruption")
+25e1f67eda4a ("nvme-tcp: fix H2CData PDU send accounting (again)")
+e371af033c56 ("nvme-tcp: fix incorrect h2cdata pdu offset accounting")
+e7006de6c238 ("nvme: code command_id with a genctr for use-after-free validation")
+3b01a9d0caa8 ("nvme-tcp: don't check blk_mq_tag_to_rq when receiving pdu data")

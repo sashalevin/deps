@@ -1,0 +1,3 @@
+7f654157f0ae ("net: phy: make mdio_bus_phy_suspend/resume as __maybe_unused")
+4c0d2e96ba05 ("net: phy: consider that suspend2ram may cut off PHY power")
+7d3ba9360c6d ("net: phy: call phy_disable_interrupts() in phy_attach_direct() instead")

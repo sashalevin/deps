@@ -1,0 +1,3 @@
+a65925475571 ("sctp: fix the issue that pathmtu may be set lower than MINSEGMENT")
+b6c5734db070 ("sctp: fix the handling of ICMP Frag Needed for too small MTUs")
+cc35c3d1edf7 ("sctp: do not retransmit upon FragNeeded if PMTU discovery is disabled")

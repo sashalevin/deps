@@ -1,0 +1,5 @@
+d934423ac26e ("drivers/net/ethernet/marvell/mvmdio.c: Fix non OF case")
+433a06d7d74e ("net: mvmdio: defer probe of orion-mdio if a clock is not ready")
+ea664b1bdc19 ("net: mvmdio: print warning when orion-mdio has too many clocks")
+96cb43423822 ("net: mvmdio: allow up to three clocks to be specified for orion-mdio")
+37282485dd4c ("net: mvmdio: disable interrupts in driver failure path")

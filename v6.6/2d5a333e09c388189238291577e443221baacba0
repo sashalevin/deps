@@ -1,0 +1,8 @@
+2d5a333e09c3 ("nvme-tcp: fix link failure for TCP auth")
+6affe08aea5f ("nvme: common: make keyring and auth separate modules")
+d68006348288 ("nvme: rework NVME_AUTH Kconfig selection")
+675b453e0241 ("nvmet-tcp: enable TLS handshake upcall")
+4f8cce2d32a3 ("nvmet-tcp: make nvmet_tcp_alloc_queue() a void function")
+3f123494db72 ("nvmet: make TCP sectype settable via configfs")
+be8e82caa685 ("nvme-tcp: enable TLS handshake upcall")
+9d77eb527784 ("nvme-keyring: register '.nvme' keyring")

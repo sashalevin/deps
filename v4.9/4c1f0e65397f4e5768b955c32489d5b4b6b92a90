@@ -1,0 +1,4 @@
+4c1f0e65397f ("target/tcm_loop: Make TMF processing slightly faster")
+75f141aaf48e ("target/tcm_loop: Use target_submit_tmr() instead of open-coding this function")
+d17203c41185 ("target/tcm_loop: Replace a waitqueue and a counter by a completion")
+4d3895d5ea43 ("target/tcm_loop: Merge struct tcm_loop_cmd and struct tcm_loop_tmr")

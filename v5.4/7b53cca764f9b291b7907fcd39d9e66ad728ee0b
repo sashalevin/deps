@@ -1,0 +1,7 @@
+7b53cca764f9 ("media: v4l2-core: explicitly clear ioctl input data")
+c344f07aa1b4 ("media: v4l2-core: ignore native time32 ioctls on 64-bit")
+8dbcc3fa387c ("media: v4l2: prepare compat-ioctl rework")
+1dc8b65c944e ("media: v4l2-core: only zero-out ioctl-read buffers")
+577c89b0ce72 ("media: v4l2-core: fix v4l2_buffer handling for time64 ABI")
+1a6c0b36dd19 ("media: v4l2-core: fix VIDIOC_DQEVENT for time64 ABI")
+c8ef1a6076bf ("media: v4l2-core: split out data copy from video_usercopy")

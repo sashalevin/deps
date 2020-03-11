@@ -1,0 +1,7 @@
+109324cfda06 ("btrfs: move leaf search logic out of btrfs_search_slot()")
+e5e1c1741b3d ("btrfs: remove useless condition check before splitting leaf")
+e2e58d0f8dc5 ("btrfs: try to unlock parent nodes earlier when inserting a key")
+9a664971569d ("btrfs: correctly calculate item size used when item key collision happens")
+2f5239dcb26b ("btrfs: remove btrfs_path::recurse")
+ac5887c8e013 ("btrfs: locking: remove all the blocking helpers")
+196d59ab9ccc ("btrfs: switch extent buffer tree lock to rw_semaphore")

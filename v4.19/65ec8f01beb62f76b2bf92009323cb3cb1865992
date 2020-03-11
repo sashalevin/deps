@@ -1,0 +1,5 @@
+65ec8f01beb6 ("KVM: VMX: Update MTF and ICEBP comments to document KVM's subtle behavior")
+b9bed78e2fa9 ("KVM: VMX: Set vmcs.PENDING_DBG.BS on #DB in STI/MOVSS blocking shadow")
+4d5523cfd5d2 ("KVM: x86: fix DR6 delivery for various cases of #DB injection")
+5ef8acbdd687 ("KVM: nVMX: Emulate MTF when performing instruction emulation")
+307f1cfa2696 ("KVM: x86: Mask off reserved bit from #DB exception payload")

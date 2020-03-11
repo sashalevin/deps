@@ -1,0 +1,8 @@
+9fd4a4e3a3d9 ("KVM: x86/mmu: Remove FNAME(invlpg) and use FNAME(sync_spte) to update vTLB instead.")
+ed335278bd12 ("KVM: x86/mmu: Allow the roots to be invalid in FNAME(invlpg)")
+cd42853e9530 ("kvm: x86/mmu: Use KVM_MMU_ROOT_XXX for kvm_mmu_invalidate_addr()")
+c3c6c9fc5d24 ("KVM: x86/mmu: Move the code out of FNAME(sync_page)'s loop body into mmu.c")
+8ef228c20cae ("KVM: x86/mmu: Set mmu->sync_page as NULL for direct paging")
+51dddf6c49b9 ("KVM: x86/mmu: Check mmu->sync_page pointer in kvm_sync_page_check()")
+90e444702a7c ("KVM: x86/mmu: Move the check in FNAME(sync_page) as kvm_sync_page_check()")
+753b43c9d1b7 ("KVM: x86/mmu: Use 64-bit address to invalidate to fix a subtle bug")

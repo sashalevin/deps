@@ -1,0 +1,3 @@
+9f33697ac7ff ("KVM: x86/mmu: Stop needlessly making MMU pages available for TDP MMU faults")
+9aa8ab43b381 ("KVM: x86/mmu: Split out TDP MMU page fault handling")
+ba6e3fe25543 ("KVM: x86/mmu: Grab mmu_invalidate_seq in kvm_faultin_pfn()")

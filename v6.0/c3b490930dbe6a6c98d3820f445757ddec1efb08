@@ -1,0 +1,6 @@
+c3b490930dbe ("io_uring: don't use complete_post in kbuf")
+1bec951c3809 ("io_uring: iopoll protect complete_post")
+fa18fa2272c7 ("io_uring: inline __io_req_complete_put()")
+f9d567c75ec2 ("io_uring: inline __io_req_complete_post()")
+a47b255e9039 ("io_uring: add custom opcode hooks on fail")
+5756a3a7e713 ("io_uring: add iopoll infrastructure for io_uring_cmd")

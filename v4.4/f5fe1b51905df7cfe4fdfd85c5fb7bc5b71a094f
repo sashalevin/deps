@@ -1,0 +1,7 @@
+f5fe1b51905d ("blk: Ensure users for current->bio_list can see the full list.")
+79bd99596b73 ("blk: improve order of bio handling in generic_make_request()")
+d67a5f4b5947 ("dm: flush queued bios when process blocks to avoid deadlock")
+cfae7529b525 ("dm: remove unused mapped_device argument from free_tio()")
+072623de1f96 ("dm: fix dm_target_io leak if clone_bio() returns an error")
+c80914e81ec5 ("dm: return error if bio_integrity_clone() fails in clone_bio()")
+6f3b0e8bcf3c ("blk-mq: add a flags parameter to blk_mq_alloc_request")

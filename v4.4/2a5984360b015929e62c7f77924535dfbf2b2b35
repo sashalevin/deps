@@ -1,0 +1,5 @@
+2a5984360b01 ("MIPS: Drop CPU_SUPPORTS_UNCACHED_ACCELERATED")
+171543e75272 ("MIPS: Disallow CPU_SUPPORTS_HUGEPAGES for XPA,EVA")
+08ea8c07fb56 ("mm: move phys_mem_access_prot_allowed() declaration to pgtable.h")
+458aa76d132d ("mm/thp/migration: switch from flush_tlb_range to flush_pmd_tlb_range")
+6b75d14912f2 ("mm,thp: fix spellos in describing __HAVE_ARCH_FLUSH_PMD_TLB_RANGE")

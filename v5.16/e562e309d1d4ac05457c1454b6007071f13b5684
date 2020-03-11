@@ -1,0 +1,4 @@
+e562e309d1d4 ("kunit: make kunit_kfree() not segfault on invalid inputs")
+047a8a0a2da7 ("kunit: make kunit_kfree() only work on pointers from kunit_malloc() and friends")
+61695f8c5d51 ("kunit: split resource API from test.h into new resource.h")
+58b391d74630 ("Documentation: kunit: remove claims that kunit is a mocking framework")

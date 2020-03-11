@@ -1,0 +1,6 @@
+dec8784c9088 ("x86/kprobes: Update kcb status flag after singlestepping")
+6256e668b7af ("x86/kprobes: Use int3 instead of debug trap for single-step")
+a194acd316f9 ("x86/kprobes: Identify far indirect JMP correctly")
+abd82e533d88 ("x86/kprobes: Do not decode opcode in resume_execution()")
+e689b300c99c ("kprobes/x86: Fix fall-through warnings for Clang")
+78ff2733ff35 ("x86/kprobes: Restore BTF if the single-stepping is cancelled")

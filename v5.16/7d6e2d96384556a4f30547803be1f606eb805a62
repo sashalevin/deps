@@ -1,0 +1,5 @@
+7d6e2d963845 ("mm: untangle config dependencies for demote-on-reclaim")
+734c15700cdf ("mm: only re-generate demotion targets when a numa node changes its N_CPU state")
+dcee9bf5bf2f ("mm/migrate: move node demotion code to near its user")
+7813a1b5257b ("mm: migrate: add more comments for selecting target node randomly")
+ac16ec835314 ("mm: migrate: support multiple target nodes demotion")

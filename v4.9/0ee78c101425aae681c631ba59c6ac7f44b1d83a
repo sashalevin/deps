@@ -1,0 +1,4 @@
+0ee78c101425 ("xhci: Show what USB release number the xHC supports from protocol capablity")
+ea7d0d69426c ("xhci: Identify USB 3.1 capable hosts by their port protocol capability")
+4c39d4b949d3 ("usb: xhci: use bus->sysdev for DMA configuration")
+488dc164914f ("xhci: remove WARN_ON if dma mask is not set for platform devices")

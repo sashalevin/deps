@@ -1,0 +1,8 @@
+a743d7582db9 ("drm: Wrap the check for atomic_commit implementation")
+fc21a4a0993a ("drm/nouveau/kms: never call drm_helper_disable_unused_functions() with atomic")
+b167db0e68dc ("drm/nouveau/kms: prepare to support suspend/resume of display state with atomic")
+986edb91b273 ("drm/nouveau/kms: prepare to support vbl timestamp calculation with atomic")
+d6455379a9ab ("drm/nouveau/kms: prepare to support legacy connector set_property with atomic")
+b2b75eea576b ("drm/nouveau/kms: prepare to support legacy connector dpms with atomic")
+616915ec7629 ("drm/nouveau/kms: subclass atomic connector state")
+3b4c0abb1bb7 ("drm/nouveau/kms: move drm_crtc_force_disable_all() earlier")

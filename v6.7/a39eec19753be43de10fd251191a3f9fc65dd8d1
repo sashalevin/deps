@@ -1,0 +1,4 @@
+a39eec19753b ("drm/i915/dpio: s/VLV_PLL_DW9_BCAST/VLV_PCS_DW17_BCAST/")
+f70a68bc1d18 ("drm/i915: convert vlv_dpio_read()/write() from pipe to phy")
+9fda18c2c32a ("drm/i915: add vlv_pipe_to_phy() helper to replace DPIO_PHY()")
+9d6953335284 ("drm/i915: move *_crtc_clock_get() to intel_dpll.c")

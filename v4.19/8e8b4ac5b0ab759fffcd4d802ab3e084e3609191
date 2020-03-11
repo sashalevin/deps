@@ -1,0 +1,7 @@
+8e8b4ac5b0ab ("iommu/tegra-smmu: use page allocation function provided by iommu-pages.h")
+404d0b308e4f ("iommu/tegra-smmu: Add locking around mapping operations")
+781ca2de89ba ("iommu: Add gfp parameter to iommu_ops::map")
+56f8af5e9d38 ("iommu: Pass struct iommu_iotlb_gather to ->unmap() and ->iotlb_sync()")
+a7d20dc19d9e ("iommu: Introduce struct iommu_iotlb_gather for batching TLB flushes")
+6d1bcb957be2 ("iommu: Remove empty iommu_tlb_range_add() callback from iommu_ops")
+3a1d5384b7de ("Merge tag 'for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mst/vhost")

@@ -1,0 +1,8 @@
+0300a92e96cb ("powerpc/perf: Set cpumode flags using sample address")
+82d2c16b350f ("powerpc/perf: Adds support for programming of Thresholding in P10")
+0263bbb377af ("powerpc/perf: Fix the PMU group constraints for threshold events in power10")
+d3afd28cd2f3 ("powerpc/perf: Fix to update radix_scope_qual in power10")
+f66de7ac4849 ("powerpc/perf: Invoke per-CPU variable access with disabled interrupts")
+2ca13a4cc56c ("powerpc/perf: Use regs->nip when SIAR is zero")
+d9f7088dd6d8 ("powerpc/perf: Use the address from SIAR register to set cpumode flags")
+9e8d13697c38 ("powerpc/perf: Add new power PMU flag "PPMU_P10_DD1" for power10 DD1")

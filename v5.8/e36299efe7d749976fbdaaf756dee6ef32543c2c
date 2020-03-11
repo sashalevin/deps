@@ -1,0 +1,8 @@
+e36299efe7d7 ("kcsan, debugfs: Move debugfs file creation out of early init")
+71a076f4a61a ("kcsan: Rewrite kcsan_prandom_u32_max() without prandom_u32_state()")
+cd290ec24633 ("kcsan: Use tracing-safe version of prandom")
+2e986b81f698 ("kcsan: Optimize debugfs stats counters")
+69b2c81bc894 ("kcsan: Simplify debugfs counter to name mapping")
+106a307fd0a7 ("kcsan: Skew delay to be longer for certain access types")
+92c209ac6d3d ("kcsan: Improve IRQ state trace reporting")
+248591f5d257 ("kcsan: Make KCSAN compatible with new IRQ state tracking")

@@ -1,0 +1,8 @@
+0b68d02b6a0d ("gpio: mvebu: improve handling of pwm zero on/off values")
+2bee255a5ecf ("gpio: mvebu: don't limit pwm period/duty_cycle to UINT_MAX")
+de1eaf6016b3 ("gpio: mvebu: make pwm .get_state closer to idempotent")
+aa37e27f610f ("gpio: mvebu: improve pwm period calculation accuracy")
+e73b0101ae51 ("gpio: mvebu: fix pwm .get_state period calculation")
+48f32a835373 ("gpio: mvebu: switch pwm duration registers to regmap")
+19c26d90ff4c ("gpio: mvebu: Fix probing for chips without PWM")
+f51b18d92b66 ("gpio: mvebu: use devm_platform_ioremap_resource_byname()")

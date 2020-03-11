@@ -1,0 +1,6 @@
+8f0545d232ca ("be2net: convert to new udp_tunnel_nic infra")
+2d52527e80c2 ("be2net: don't flip hw_features when VXLANs are added/deleted")
+bf8d9dfb9bee ("be2net: VxLAN offload should be re-enabled when only 1 UDP port is left")
+fb6113e688e0 ("be2net: get rid of custom busy poll code")
+d894be57ca92 ("ethernet: use net core MTU range checking in more drivers")
+a52ad514fdf3 ("net: deprecate eth_change_mtu, remove usage")

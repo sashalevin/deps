@@ -1,0 +1,5 @@
+b3e8813773c5 ("fbdev: Warn on incorrect framebuffer access")
+33253d9e01d4 ("fbdev: Move default fb_mmap code into helper function")
+6b180f66c0dd ("fbdev: Provide I/O-memory helpers as module")
+052ddf7b86d2 ("fbdev: Replace fb_pgprotect() with pgprot_framebuffer()")
+c205a67d2876 ("fbdev: Avoid file argument in fb_pgprotect()")

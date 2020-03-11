@@ -1,0 +1,6 @@
+0957c29f78af ("IB/core: Restore I/O MMU, s390 and powerpc support")
+0bbb3b7496ea ("IB/rxe, IB/rdmavt: Use dma_virt_ops instead of duplicating it")
+99db9494035f ("IB/core: Remove ib_device.dma_device")
+97a9ea848016 ("IB/core: Initialize ib_device.dev.parent earlier")
+d43dbacfc063 ("IB/core: Change the type of an ib_dma_alloc_coherent() argument")
+839f5ac0d806 ("IB/rxe: Remove a pointless indirection layer")

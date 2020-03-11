@@ -1,0 +1,6 @@
+1eb9fb52040f ("cifs: create SMB2_open_init()/SMB2_open_free() helpers.")
+729c0c9dd552 ("cifs: Fix stack out-of-bounds in smb{2,3}_create_lease_buf()")
+40eff45b5dc7 ("cifs: remove smb2_send_recv()")
+c713c8770fa5 ("cifs: push rfc1002 generation down the stack")
+6da2ec56059c ("treewide: kmalloc() -> kmalloc_array()")
+0c14e43a42e4 ("Merge tag '4.18-fixes-smb3' of git://git.samba.org/sfrench/cifs-2.6")

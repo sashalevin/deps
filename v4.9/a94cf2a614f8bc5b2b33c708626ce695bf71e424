@@ -1,0 +1,6 @@
+a94cf2a614f8 ("sh_eth: fix TSU init on SH7734/R8A7740")
+267e1d5c7473 ("sh_eth: enable wake-on-lan for sh7763")
+d8981d029da9 ("sh_eth: add generic wake-on-lan support via magic packet")
+9b39f05ce8e0 ("sh_eth: factor out sh_eth_emac_interrupt()")
+1940f240769a ("sh_eth: no need for *else* after *goto*")
+4063469971af ("sh_eth: handle only enabled E-MAC interrupts")

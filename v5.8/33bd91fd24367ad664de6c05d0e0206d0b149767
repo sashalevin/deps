@@ -1,0 +1,7 @@
+33bd91fd2436 ("virtio: Add missing documentation for structure fields")
+0e566c8f0f2e ("virtio: Protect vqs list access")
+249f25547632 ("virtio: Keep vring_del_virtqueue() mirror of VQ create")
+72b5e8958738 ("virtio-ring: store DMA metadata in desc_extra for split virtqueue")
+5bc72234f7c6 ("virtio: use err label in __vring_new_virtqueue()")
+fe4c3862df63 ("virtio_ring: introduce virtqueue_desc_add_split()")
+e152d8af4220 ("virtio_ring: Fix two use after free bugs")

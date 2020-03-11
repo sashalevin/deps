@@ -1,0 +1,7 @@
+0728c810873e ("thermal: trip: Pass trip pointer to .set_trip_temp() thermal zone callback")
+cca52f696952 ("thermal: intel: Set THERMAL_TRIP_FLAG_RW_TEMP directly")
+46f5bef8ec2e ("thermal: core: Drop the .set_trip_hyst() thermal zone operation")
+62dd17846d33 ("thermal: intel: Adjust ops handling during thermal zone registration")
+698a1eb1f75e ("thermal: core: Store zone ops in struct thermal_zone_device")
+fcbf87800086 ("thermal: intel: Discard trip tables after zone registration")
+9b0a62758665 ("thermal: core: Store zone trips table in struct thermal_zone_device")

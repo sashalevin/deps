@@ -1,0 +1,7 @@
+41493a095e48 ("selftests/sgx: Provide per-op parameter structs for the test enclave")
+f0ff2447b861 ("selftests/sgx: Add a new kselftest: Unclobbered_vdso_oversubscribed")
+065825db1fd6 ("selftests/sgx: Move setup_test_encl() to each TEST_F()")
+1b35eb719549 ("selftests/sgx: Encpsulate the test enclave creation")
+147172148909 ("selftests/sgx: Dump segments and /proc/self/maps only on failure")
+3200505d4de6 ("selftests/sgx: Create a heap for the test enclave")
+39f62536be2f ("selftests/sgx: Assign source for each segment")

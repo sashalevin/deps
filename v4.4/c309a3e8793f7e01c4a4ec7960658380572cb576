@@ -1,0 +1,7 @@
+c309a3e8793f ("extcon: arizona: Fix some issues when HPDET IRQ fires after the jack has been unplugged")
+8670b4598064 ("extcon: Use the extcon_set_state_sync() instead of deprecated functions")
+7575591c2db8 ("extcon: gpio: Remove the usage of extcon_set_state()")
+a7da72eeec78 ("extcon: adc-jack: Remove the usage of extcon_set_state()")
+5475e6317525 ("extcon: arizona: Remove the usage of extcon_update_state()")
+8b45b6a07416 ("extcon: Add the EXTCON_CHG_USB_SDP to support SDP charing port")
+08a0a4f987a4 ("extcon: add Maxim MAX3355 driver")

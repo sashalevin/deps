@@ -1,0 +1,8 @@
+2824ec9f9e81 ("scsi: ufs: Flush exception event before suspend")
+03e1d28edda1 ("scsi: ufs: unify scsi_block_requests usage")
+2e3611e9546c ("scsi: ufs: fix exception event handling")
+583fa62d0824 ("scsi: ufs: add error recovery after DL NAC error")
+9a47ec7c390e ("scsi: ufs: make error handling bit faster")
+60f0187031c0 ("scsi: ufs: disable vccq if it's not needed by UFS device")
+c58ab7aab71e ("scsi: ufs: separate device and host quirks")
+f05ac2e59305 ("scsi: ufs: avoid exception event handler racing with PM callbacks")

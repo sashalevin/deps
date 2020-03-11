@@ -1,0 +1,8 @@
+55477206f15c ("tcp: make function tcp_retransmit_stamp() static")
+a7fa37703d49 ("tcp: Add tcp_retransmit_stamp() helper routine")
+2c04ac8ae0b6 ("tcp: Namespace-ify sysctl_tcp_thin_linear_timeouts")
+e20223f19628 ("tcp: Namespace-ify sysctl_tcp_recovery")
+2ae21cf527da ("tcp: Namespace-ify sysctl_tcp_early_retrans")
+75c119afe14f ("tcp: implement rb-tree based retransmit queue")
+ac3f09ba3e49 ("tcp: uninline tcp_write_queue_purge()")
+e2080072ed2d ("tcp: new list for sent but unacked skbs for RACK recovery")

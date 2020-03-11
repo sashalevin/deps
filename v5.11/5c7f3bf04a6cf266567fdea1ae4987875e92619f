@@ -1,0 +1,8 @@
+5c7f3bf04a6c ("s390: allow pte_offset_map_lock() to fail")
+c148dc8e2fa4 ("KVM: s390: fix race in gmap_make_secure()")
+72b1daff2671 ("KVM: s390: pv: add export before import")
+f0a1a0615a6f ("KVM: s390: pv: avoid stalls when making pages secure")
+14ea40e22c41 ("s390/mm: optimize reset_guest_reference_bit()")
+7cb70266b0e3 ("s390/mm: optimize set_guest_storage_key()")
+8318c404cf8c ("s390/mm: no need for pte_alloc_map_lock() if we know the pmd is present")
+949f5c1244ee ("s390/mm: fix VMA and page table handling code in storage key handling functions")

@@ -1,0 +1,5 @@
+61e982030479 ("io_uring: make op handlers always take issue flags")
+bfe76559833d ("io_uring: decouple issuing and req preparation")
+73debe68b300 ("io_uring: remove nonblock arg from io_{rw}_prep()")
+e8c2bc1fb6c9 ("io_uring: get rid of req->io/io_async_ctx union")
+f4bff104fffb ("io_uring: simplify io_rw_prep_async()")

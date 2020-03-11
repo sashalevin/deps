@@ -1,0 +1,5 @@
+e3dd11a9f252 ("arm64: kpti: Add KRYO2XX gold/silver CPU cores to kpti safelist")
+f4617be35b4b ("arm64: kpti: Add KRYO{3, 4}XX silver CPU cores to kpti safelist")
+918e1946c8ac ("arm64: kpti: Add NVIDIA's Carmel core to the KPTI whitelist")
+0ecc471a2cb7 ("arm64: kpti: Whitelist HiSilicon Taishan v110 CPUs")
+2a355ec25729 ("arm64: kpti: Whitelist Cortex-A CPUs that don't implement the CSV3 field")

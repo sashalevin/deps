@@ -1,0 +1,6 @@
+105fb38124a4 ("powerpc/8xx: Modify ptep_get()")
+6ad41bfbc907 ("powerpc/mm: Create a dedicated pte_update() for 8xx")
+06f525248701 ("powerpc/mm: Standardise pte_update() prototype between PPC32 and PPC64")
+1c1bf294882b ("powerpc/mm: Refactor pte_update() on book3s/32")
+2db99aeb63dd ("powerpc/mm: Refactor pte_update() on nohash/32")
+fadaac67c900 ("powerpc/mm: PTE_ATOMIC_UPDATES is only for 40x")

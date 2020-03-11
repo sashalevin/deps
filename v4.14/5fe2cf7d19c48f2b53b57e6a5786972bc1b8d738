@@ -1,0 +1,8 @@
+5fe2cf7d19c4 ("perf intel-pt: Synthesize CBR events when last seen value changes")
+0dfded34a2e3 ("perf intel-pt: Factor out common sample preparation for re-use")
+e62ca655eea7 ("perf intel-pt: Prepare to synthesize PEBS samples")
+5b1dc0fd1da0 ("perf intel-pt: Add support for samples to contain IPC ratio")
+5d4f0edaa3ac ("perf intel-pt/bts: Calculate cpumode for synthesized samples")
+1c071c80d966 ("perf intel-pt: Get rid of intel_pt_use_buffer_pid_tid()")
+63d8e38f6ae6 ("perf intel-pt: Fix sync_switch")
+a10eb530ae49 ("perf intel-pt/bts: Do not swap when synthesizing samples")

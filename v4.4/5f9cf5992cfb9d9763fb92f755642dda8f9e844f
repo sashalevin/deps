@@ -1,0 +1,7 @@
+5f9cf5992cfb ("perf tools: Derive trigger class from auxtrace_snapshot")
+c0bdc1c461dd ("perf record: Turns auxtrace_snapshot_enable into 3 states")
+d8871ea71281 ("perf record: Use WARN_ONCE to replace 'if' condition")
+8690a2a77370 ("perf record: Apply config to BPF objects before recording")
+066dacbf2a32 ("perf bpf: Add API to set values to map entries in a bpf object")
+bfc077b4cf10 ("perf bpf: Add prologue for BPF programs for fetching arguments")
+361f2b1d1d72 ("perf bpf: Allow BPF program attach to uprobe events")

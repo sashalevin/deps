@@ -1,0 +1,3 @@
+b1728ff617f8 ("media: dvb_frontend: fix ifnullfree.cocci warnings")
+b1cb7372fa82 ("dvb_frontend: don't use-after-free the frontend struct")
+62229de19ff2 ("media: dvb-core: always call invoke_release() in fe_free()")

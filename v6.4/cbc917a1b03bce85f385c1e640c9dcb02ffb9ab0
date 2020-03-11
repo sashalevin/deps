@@ -1,0 +1,8 @@
+cbc917a1b03b ("perf stat: Support per-cluster aggregation")
+99a04a48f225 ("perf test: Add test case for the standard 'perf stat' output")
+fc51fc87b1b8 ("perf test: Move all the check functions of stat CSV output to lib")
+9e9d07a71fa4 ("perf tests stat+csv_output: Fix shellcheck warnings")
+540c910c65a9 ("perf test: Fix perf stat JSON output test")
+bfce728db317 ("pert tests: Add tests for new "perf stat --per-cache" aggregation option")
+aab667ca8837 ("perf stat: Add "--per-cache" aggregation option and document it")
+995ed074b829 ("perf stat: Setup the foundation to allow aggregation based on cache topology")

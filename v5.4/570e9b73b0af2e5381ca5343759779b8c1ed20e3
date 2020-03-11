@@ -1,0 +1,6 @@
+570e9b73b0af ("blk-mq: move blk_mq_get_driver_tag into blk-mq.c")
+d94ecfc39971 ("blk-mq: split out a __blk_mq_get_driver_tag helper")
+766473681c13 ("blk-mq: use BLK_MQ_NO_TAG in more places")
+cae740a04b4d ("blk-mq: Remove some unused function arguments")
+cb711b91a3c6 ("blk-mq: Delete blk_mq_has_free_tags() and blk_mq_can_queue()")
+1fead7182f38 ("blk-mq: remove needless goto from blk_mq_get_driver_tag")

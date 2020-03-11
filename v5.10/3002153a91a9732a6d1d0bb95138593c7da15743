@@ -1,0 +1,8 @@
+3002153a91a9 ("rcutorture: Fix ksoftirqd boosting timing and iteration")
+fd13fe16db0d ("rcutorture: Don't cpuhp_remove_state() if cpuhp_setup_state() failed")
+efeff6b39b9d ("rcutorture: Warn on individual rcu_torture_init() error conditions")
+ea6d962e80b6 ("rcutorture: Judge RCU priority boosting on grace periods, not callbacks")
+5e59fba573e6 ("rcutorture: Fix testing of RCU priority boosting")
+2c4319bd1d14 ("rcutorture: Test runtime toggling of CPUs' callback offloading")
+ab1b7880dec8 ("rcutorture:  Make stutter_wait() caller restore priority")
+19012b786ecc ("torture: Periodically pause in stutter_wait()")

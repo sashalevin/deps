@@ -1,0 +1,6 @@
+0a269a008f83 ("x86/kvm: Fix pr_info() for async PF setup/teardown")
+6bca69ada4bc ("x86/kvm: Sanitize kvm_async_pf_task_wait()")
+ef68017eb570 ("x86/kvm: Handle async page faults directly through do_page_fault()")
+8a9442f49c72 ("KVM: Pre-allocate 1 cpumask variable per cpu for both pv tlb and pv ipis")
+a262bca3aba0 ("KVM: Introduce pv check helpers")
+1a2a76c2685a ("Merge tag 'x86-urgent-2020-02-09' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

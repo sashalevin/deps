@@ -1,0 +1,6 @@
+ec851b23084b ("gpiolib: fix memory leak in gpiochip_setup_dev()")
+9dbd1ab20509 ("gpiolib: check the 'ngpios' property in core gpiolib code")
+e5ab49cd3d69 ("gpiolib: improve coding style for local variables")
+6cb59afe9e5b ("gpiolib: Assign fwnode to parent's if no primary one provided")
+c351bb64cbe6 ("gpiolib: free device name on error path to fix kmemleak")
+3cc1fb739939 ("gpiolib: do not print err message for EPROBE_DEFER")

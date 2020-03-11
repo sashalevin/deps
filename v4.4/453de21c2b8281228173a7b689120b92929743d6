@@ -1,0 +1,7 @@
+453de21c2b82 ("scsi: storvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+c967590457ca ("scsi: storvsc: Fix a race in sub-channel creation that can cause panic")
+ddccd9528d89 ("scsi: storvsc: use in place iterator function")
+8d4208c1a73a ("scsi: storvsc: remove return at end of void function")
+d86adf482b84 ("scsi: storvsc: Enable multi-queue support")
+03996f2064a5 ("storvsc: Tighten up the interrupt path")
+dac582417bc4 ("storvsc: Properly support Fibre Channel devices")

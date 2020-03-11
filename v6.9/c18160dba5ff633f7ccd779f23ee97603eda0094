@@ -1,0 +1,3 @@
+c18160dba5ff ("mm: swap: reuse exclusive folio directly instead of wp page faults")
+508758960b8d ("mm: swap: entirely map large folios found in swapcache")
+29f252cdc293 ("mm: introduce arch_do_swap_page_nr() which allows restore metadata for nr pages")

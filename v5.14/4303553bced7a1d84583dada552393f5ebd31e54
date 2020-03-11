@@ -1,0 +1,8 @@
+4303553bced7 ("tpm, tpm_tis: Move interrupt mask checks into own function")
+e87fcf0dc2b4 ("tpm, tpm_tis: Only handle supported interrupts")
+6d789ad72695 ("tpm, tpm_tis: Disable interrupts if tpm_tis_probe_irq() failed")
+282657a8bd7f ("tpm, tpm_tis: Claim locality before writing TPM_INT_ENABLE register")
+858e8b792d06 ("tpm, tpm_tis: Avoid cache incoherency in test for interrupts")
+7bfda9c73fa9 ("tpm: Add flag to use default cancellation policy")
+bbc23a07b072 ("tpm: Add tpm_tis_i2c backend for tpm_tis_core")
+79ca6f74dae0 ("tpm: fix Atmel TPM crash caused by too frequent queries")

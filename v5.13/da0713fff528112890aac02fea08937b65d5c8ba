@@ -1,0 +1,4 @@
+da0713fff528 ("ALSA: core: Remove superfluous CONFIG_PM")
+87988a534d8e ("ALSA: Fix deadlocks with kctl removals at disconnection")
+663f922fd7a9 ("ALSA: core: Make snd_card_disconnect() return void")
+e94fdbd7b25d ("ALSA: control: Track in-flight control read/write/tlv accesses")

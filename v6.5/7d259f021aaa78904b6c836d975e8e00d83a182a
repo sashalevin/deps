@@ -1,0 +1,3 @@
+7d259f021aaa ("netfilter: nft_set_rbtree: prefer sync gc to async worker")
+4a9e12ea7e70 ("netfilter: nft_set_pipapo: call nft_trans_gc_queue_sync() in catchall GC")
+96b33300fba8 ("netfilter: nft_set_rbtree: use read spinlock to avoid datapath contention")

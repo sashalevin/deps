@@ -1,0 +1,8 @@
+ab5043ef7503 ("usb: phy: remove phy-isp1301-omap driver")
+8825acd7cc8a ("ARM: omap1: remove dead code")
+980a637d11fe ("ARM: omap1: fix !ARCH_OMAP1_ANY link failures")
+c3ed6965fe74 ("usb: isp1301-omap: Convert to i2c's .probe_new()")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")

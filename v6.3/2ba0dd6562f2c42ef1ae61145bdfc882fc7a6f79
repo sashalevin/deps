@@ -1,0 +1,6 @@
+2ba0dd6562f2 ("porting: document new block device opening order")
+40d49a3c9e4a ("mm: allow ->huge_fault() to be called without the mmap_lock held")
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+c4fd825e1884 ("mm: handle PUD faults under the VMA lock")
+58ef47ef7db9 ("mm: hold the RCU read lock over calls to ->map_pages")
+9042599e81c2 ("mm: refactor do_fault_around()")

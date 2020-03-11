@@ -1,0 +1,8 @@
+cad3b6895413 ("perf stat: Fix cpu check to use id.cpu.cpu in aggr_printout()")
+df936cadfb58 ("perf stat: Add JSON output option")
+9a0b36266f7a ("perf stat: Add topdown metrics in the default perf stat on the hybrid machine")
+cdb204ad4223 ("perf x86 evlist: Add default hybrid events for perf stat")
+a9c1ecdabc4f ("perf evlist: Always use arch_evlist__add_default_attrs()")
+126d68fdcabe ("perf evlist: Add evlist__add_dummy_on_all_cpus()")
+e0e14cdff31d ("perf parse-events: Move slots event for the hybrid platform too")
+d7e3c397087f ("perf stat: Support hybrid --topdown option")

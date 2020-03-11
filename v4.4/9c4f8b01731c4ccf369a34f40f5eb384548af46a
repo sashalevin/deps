@@ -1,0 +1,7 @@
+9c4f8b01731c ("be2iscsi: Fix async link event processing")
+048084c26830 ("be2iscsi: Fix to process 25G link speed info from FW")
+53aefe2552e6 ("be2iscsi: Fix to handle misconfigured optics events")
+cdaa4ded06d9 ("be2iscsi: Fix to remove shutdown entry point")
+cdde6682ab61 ("be2iscsi: Fix to use atomic bit operations for tag_state")
+c03a50f7098b ("be2iscsi: Fix mbox synchronization replacing spinlock with mutex")
+6ac999efeeff ("be2iscsi: Fix soft lockup in mgmt_get_all_if_id path using bmbx")

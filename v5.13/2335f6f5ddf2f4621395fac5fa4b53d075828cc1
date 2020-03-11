@@ -1,0 +1,7 @@
+2335f6f5ddf2 ("io_uring: optimise io_commit_cqring()")
+10c669040e9b ("io_uring: switch !DRAIN fast path when possible")
+441b8a7803bf ("io_uring: optimise non-drain path")
+76cc33d79175 ("io_uring: refactor io_req_defer()")
+f18ee4cf0a27 ("io_uring: optimise completion timeout flushing")
+b52ecf8cb5b5 ("io_uring: move ctx->flags from SQ cacheline")
+b986af7e2df4 ("io_uring: shuffle rarely used ctx fields")

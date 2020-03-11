@@ -1,0 +1,8 @@
+669996add4c9 ("SUNRPC: Destroy the back channel when we destroy the host transport")
+7402a4fedc2b ("SUNRPC: Fix up backchannel slot table accounting")
+0d1bf3407c4a ("SUNRPC: Allow dynamic allocation of back channel slots")
+a289ce5311f4 ("sunrpc: replace svc_serv->sv_bc_xprt by boolean flag")
+62421cd94301 ("NFSv4: Fix a typo in nfs4_init_channel_attrs()")
+cf73daf52750 ("xprtrdma: Split xprt_rdma_send_request")
+528fd3547bad ("SUNRPC: Destroy transport from the system workqueue")
+f9773b22a27a ("Merge tag 'nfs-rdma-for-4.14-1' of git://git.linux-nfs.org/projects/anna/linux-nfs into linux-next")

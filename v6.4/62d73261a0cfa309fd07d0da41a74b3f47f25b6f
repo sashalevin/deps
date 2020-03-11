@@ -1,0 +1,6 @@
+62d73261a0cf ("can: m_can: Constify struct m_can_ops")
+ec390d087617 ("can: m_can: Implement transmit coalescing")
+07f25091ca02 ("can: m_can: Implement receive coalescing")
+ba72f6c78b9b ("can: m_can: Move hrtimer init to m_can_class_register")
+a163c5761019 ("can: m_can: Start/Cancel polling timer together with interrupts")
+b382380c0d2d ("can: m_can: Add hrtimer to generate software interrupt")

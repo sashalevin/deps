@@ -1,0 +1,7 @@
+1cb86b6c3136 ("kbuild: save overridden KERNELRELEASE in include/config/kernel.release")
+ec31f868ec67 ("setlocalversion: absorb $(KERNELVERSION)")
+ba97df45581f ("kbuild: use assignment instead of define ... endef for filechk_* rules")
+ad774086356d ("kbuild: change filechk to surround the given command with { }")
+dec28d8ea2f7 ("kbuild: remove unused cmd_gentimeconst")
+3470d9eb6387 ("firmware: refactor firmware/Makefile")
+f3fd4a3f3a38 ("kbuild: remove redundant 'set -e' from filechk_offsets")

@@ -1,0 +1,8 @@
+4fbfde4e2720 ("net: tcp: make the txhash available in TIME_WAIT sockets for IPv4 too")
+a842fe1425cb ("tcp: add optional per socket transmit delay")
+c67b85558ff2 ("ipv6: tcp: send consistent autoflowlabel in TIME_WAIT state")
+5472c3c6a5f0 ("tcp: use this_cpu_read(*X) instead of *this_cpu_ptr(X)")
+9e450c1ecb02 ("tcp: better SYNACK sent timestamp")
+d3edd06ea8ea ("tcp: provide earliest departure time in skb->tstamp")
+9799ccb0e984 ("tcp: add tcp_wstamp_ns socket field")
+2fd66ffba507 ("tcp: introduce tcp_skb_timestamp_us() helper")

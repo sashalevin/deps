@@ -1,0 +1,3 @@
+01cf30825c87 ("cifs: make locking consistent around the server session status")
+0fa757b5d3ea ("smb3: prevent races updating CurrentMid")
+0060a4f28a9e ("cifs: fix missing spinlock around update to ses->status")

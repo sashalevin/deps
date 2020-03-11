@@ -1,0 +1,7 @@
+bc4c94994ffe ("iio: temperature: ltc2983: Make use of device properties")
+e59b18a28909 ("iio: temperature: ltc2983: Use single error path to put OF node")
+25d4abbf3ddc ("iio: ltc2983: fail probe if no channels are given")
+b07c47bfab6f ("iio: ltc2983: Fix of_node refcounting")
+5a464c6e274c ("iio: temperature: ltc2983: remove redundant comparison to bool")
+2e19b6c3efcf ("iio: temperature: ltc2983: fix u32 read into a unsigned long long")
+f110f3188e56 ("iio: temperature: Add support for LTC2983")

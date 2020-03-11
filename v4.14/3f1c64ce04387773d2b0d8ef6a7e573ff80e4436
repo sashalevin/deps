@@ -1,0 +1,7 @@
+3f1c64ce0438 ("btrfs: delete the ordered isize update code")
+5b840301ac4b ("btrfs: switch BTRFS_ORDERED_* to enums")
+85dd506c8e02 ("Btrfs: remove no longer used stuff for tracking pending ordered extents")
+ca5788aba3e8 ("btrfs: remove remaing full_sync logic from btrfs_sync_file")
+5636cf7d6dc8 ("btrfs: remove the logged extents infrastructure")
+b5e6c3e170b7 ("btrfs: always wait on ordered extents at fsync time")
+897ca8194cd1 ("btrfs: Fix bool initialization/comparison")

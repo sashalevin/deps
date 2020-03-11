@@ -1,0 +1,7 @@
+a812f2d60a9f ("RDMA/bnxt_re: Do not add user qps to flushlist")
+942c9b6ca8de ("RDMA/bnxt_re: Avoid Hard lockup during error CQE processing")
+3b921e3bc4c2 ("RDMA/bnxt_re: Synchronize destroy_qp with poll_cq")
+37cb11acf1f7 ("RDMA/bnxt_re: Add SRQ support for Broadcom adapters")
+c88a7858d721 ("RDMA/bnxt_re: Flush CQ notification Work Queue before destroying QP")
+237379fc3397 ("RDMA/bnxt_re: Set QP state in case of response completion errors")
+d6d5c59905c8 ("bnxt_re: fix a crash in qp error event processing")

@@ -1,0 +1,8 @@
+09b15e35071d ("scsi: lpfc: Fix set but unused variables in lpfc_dev_loss_tmo_handler()")
+c6adba150191 ("scsi: lpfc: Rework remote port lock handling")
+e9b1108316b9 ("scsi: lpfc: Fix refcounting around SCSI and NVMe transport APIs")
+95f0ef8a8368 ("scsi: lpfc: Fix removal of SCSI transport device get and put on dev structure")
+4430f7fd09ec ("scsi: lpfc: Rework locations of ndlp reference taking")
+307e338097dc ("scsi: lpfc: Rework remote port ref counting and node freeing")
+8aaa7bcf07a2 ("scsi: lpfc: Add FDMI Vendor MIB support")
+962d359c4d3b ("scsi: lpfc: Drop nodelist reference on error in lpfc_gen_req()")

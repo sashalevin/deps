@@ -1,0 +1,7 @@
+f663706a33ce ("tun: Do SIOCGSKNS out of rtnl_lock()")
+9484dc74fcf0 ("tun: delete original tun_get() and rename __tun_get() to tun_get()")
+0f16bc1355ba ("driver: tun: Move tun check into the block of TUNSETIFF condition check")
+1576d9860599 ("tun: switch to use skb array for tx")
+addf8fc4acb1 ("tuntap: correctly wake up process during uninit")
+030881372460 ("vhost_net: basic polling support")
+c507203756ca ("vhost: rename cross-endian helpers")

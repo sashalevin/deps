@@ -1,0 +1,8 @@
+2f987a76a977 ("net: ipv6: keep sk status consistent after datagram connect failure")
+85cb73ff9b74 ("net: ipv6: reset daddr and dport in sk if connect() fails")
+0bd84065b19b ("net: ipv6: Fix UDP early demux lookup with udp_l3mdev_accept=0")
+5425077d73e0 ("net: ipv6: Add early demux handler for UDP unicast")
+33c162a980fe ("ipv6: datagram: Update dst cache of a connected datagram sk during pmtu update")
+7e2040db1539 ("ipv6: datagram: Refactor dst lookup and update codes to a new function")
+80fbdb208f37 ("ipv6: datagram: Refactor flowi6 init codes to a new function")
+1cdda9187147 ("ipv6/udp: use sticky pktinfo egress ifindex on connect()")

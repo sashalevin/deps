@@ -1,0 +1,4 @@
+2ffc48fc7071 ("RISC-V: Move spinwait booting method to its own config")
+0b39eb38f859 ("RISC-V: Move the entire hart selection via lottery to SMP")
+c78f94f35cf6 ("RISC-V: Use __cpu_up_stack/task_pointer only for spinwait method")
+153c46faf6ae ("riscv: head: make secondary_start_common() static")

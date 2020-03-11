@@ -1,0 +1,6 @@
+3264f599c1a8 ("net: dpaa2-mac: Add ACPI support for DPAA2 MAC driver")
+b193f2ed533f ("dpaa2-eth: setup the of_node field of the device")
+095dca16d92f ("dpaa2-mac: split up initializing the MAC object from connecting to it")
+bbef72c630b5 ("dpaa2-mac: Add a missing of_node_put after of_device_is_available")
+98179709c95e ("dpaa2-mac: do not check for both child and parent DTS nodes")
+94ae899b2096 ("dpaa2-mac: add PCS support through the Lynx module")

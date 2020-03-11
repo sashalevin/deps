@@ -1,0 +1,8 @@
+ab9e00cc72fa ("nvme: track subsystems")
+a47619b5c6ea ("nvme: compare NQN string with right size")
+84fef62d135b ("nvme: check admin passthru command effects")
+c627c487ec72 ("nvme: factor get log into a helper")
+a6a5149b10ec ("nvme: get rid of nvme_ctrl_list")
+d22524a4782a ("nvme: switch controller refcounting to use struct device")
+c6424a90da44 ("nvme: simplify nvme_open")
+9843f685ae36 ("nvme: use ida_simple_{get,remove} for the controller instance")

@@ -1,0 +1,5 @@
+d8eb6ea4b302 ("net: ravb: Check return value of reset_control_deassert()")
+0d13a1a464a0 ("ravb: Add reset support")
+ebb091461a9e ("ravb: Add struct ravb_hw_info to driver data")
+cb537b241725 ("ravb: Use unsigned int for num_tx_desc variable in struct ravb_private")
+e89a2cdb1cca ("net: ethernet: ravb: Use devm_platform_get_and_ioremap_resource()")

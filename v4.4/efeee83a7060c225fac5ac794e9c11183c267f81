@@ -1,0 +1,5 @@
+efeee83a7060 ("apparmor: rename mediated_filesystem() to path_mediated_fs()")
+12557dcba21b ("apparmor: move lib definitions into separate lib include")
+8db0185659c3 ("apparmor: remove useless checks for NULL ->mnt")
+741aca71d61c ("apparmor: new helper - common_path_perm()")
+928e1ebfb576 ("apparmor_path_truncate(): path->mnt is never NULL")

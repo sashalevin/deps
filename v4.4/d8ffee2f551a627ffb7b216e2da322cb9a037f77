@@ -1,0 +1,5 @@
+d8ffee2f551a ("spi: spi-fsl-dspi: Fix imprecise abort on VF500 during probe")
+58ba07ec79e6 ("spi: spi-fsl-dspi: Add support for XSPI mode registers")
+5ee67b587a2b ("spi: dspi: clear SPI_SR before enable interrupt")
+1c5ea2b4de22 ("spi: spi-fsl-dspi: Check clk_prepare_enable() error")
+9419b2006cf4 ("spi: fsl-dspi: Set max_speed_hz for master")

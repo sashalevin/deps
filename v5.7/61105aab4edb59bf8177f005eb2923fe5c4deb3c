@@ -1,0 +1,7 @@
+61105aab4edb ("pipe: reduce padding in struct pipe_inode_info")
+f485922d8fe4 ("pipe: make poll_usage boolean and annotate its access")
+3b844826b6c6 ("pipe: avoid unnecessary EPOLLET wakeups under normal loads")
+3a34b13a88ca ("pipe: make pipe writes always wake up readers")
+c73be61cede5 ("pipe: Add general notification queue support")
+b580b93664f9 ("pipe: Add O_NOTIFICATION_PIPE")
+0858caa419e6 ("uapi: General notification queue definitions")

@@ -1,0 +1,8 @@
+6aaf663ee04a ("tpm_tis: Opt-in interrupts")
+77218e83c83c ("tpm_tis: fix stall after iowrite*()s")
+6422cbd3c52d ("tpm: Remove read16/read32/write32 calls from tpm_tis_phy_ops")
+b154ce11ead9 ("tpm_tis: Disable interrupts on ThinkPad T490s")
+d5ae56a4fe51 ("tpm: tis: add support for MMIO TPM on SynQuacer")
+faaca0a0d48e ("tpm: Revert tpm_tis_spi_mod.ko to tpm_tis_spi.ko.")
+797c0113c9a4 ("tpm: tpm_tis_spi: Support cr50 devices")
+8ab5e82afa96 ("tpm: tpm_tis_spi: Introduce a flow control callback")

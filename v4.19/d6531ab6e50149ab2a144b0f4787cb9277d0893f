@@ -1,0 +1,8 @@
+d6531ab6e501 ("sched/fair: Move task sched_avg attach to enqueue_task_fair()")
+dac9f027b109 ("sched/fair: Remove unused cfs_rq_clock_task() function")
+d0fe0b9c45c1 ("sched/fair: Simplify post_init_entity_util_avg() by calling it with a task_struct pointer argument")
+f6783319737f ("sched/fair: Fix insertion in rq->leaf_cfs_rq_list")
+5d299eabea5a ("sched/fair: Add tmp_alone_branch assertion")
+23127296889f ("sched/fair: Update scale invariance of PELT")
+c40f7d74c741 ("sched/fair: Fix infinite loop in update_blocked_averages() by reverting a9e7f6544b9c")
+4a465e3ebbc8 ("sched/fair: Remove setting task's se->runnable_weight during PELT update")

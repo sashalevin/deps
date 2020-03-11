@@ -1,0 +1,7 @@
+d64e3eab75a8 ("powerpc/xive: fix return value of __setup handler")
+c21ee04f11ae ("powerpc/xive: Add a kernel parameter for StoreEOI")
+412877dfae3d ("powerpc/xive: Introduce xive_core_debugfs_create()")
+bd5b00c6cf0c ("powerpc/xive: Introduce an helper to print out interrupt characteristics")
+dbf77fed8b30 ("powerpc: rename powerpc_debugfs_root to arch_debugfs_dir")
+3e188b1ae880 ("powerpc/book3s64/radix: make tlb_single_page_flush_ceiling a debugfs entry")
+633c8e9800f3 ("powerpc/pseries: Enable hardlockup watchdog for PowerVM partitions")

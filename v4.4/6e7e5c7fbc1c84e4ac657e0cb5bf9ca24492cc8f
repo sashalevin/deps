@@ -1,0 +1,8 @@
+6e7e5c7fbc1c ("hwmon: pwm-fan: Use platform_get_irq_optional()")
+6b1ec4789fb1 ("hwmon: (pwm-fan) Add RPM support via external interrupt")
+53f1647da3e8 ("hwmon: (pwm-fan) Disable PWM if fetching cooling data fails")
+b57e1d429397 ("hwmon: (pwm-fan) Add optional regulator support")
+cb1d85341fd7 ("hwmon: (pwm-fan) Auto-convert to use SENSOR_DEVICE_ATTR_{RO, RW, WO}")
+95dcd64bc5a2 ("hwmon: (pwm-fan) Set fan speed to 0 on suspend")
+677252a185a9 ("hwmon: (pwm-fan) Switch to new atomic PWM API")
+2289711c9d4d ("hwmon: pwm-fan: Use pwm_get_args() where appropriate")

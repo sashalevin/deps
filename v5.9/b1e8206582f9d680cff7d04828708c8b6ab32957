@@ -1,0 +1,6 @@
+b1e8206582f9 ("sched: Fix yet more sched_fork() races")
+4ef0c5c6b5ba ("kernel/sched: Fix sched_fork() access an invalid sched_task_group")
+f558c2b834ec ("sched/rt: Fix double enqueue caused by rt_effective_prio")
+2279f540ea7d ("sched/deadline: Fix priority inheritance with multiple scheduling classes")
+feff2e65efd8 ("sched/deadline: Unthrottle PI boosted threads while enqueuing")
+46fcc4b00c3c ("sched/deadline: Fix stale throttling on de-/boosted tasks")

@@ -1,0 +1,6 @@
+1695b421e1b5 ("pwm: sifive: Simplify clk handling")
+3586b02663f0 ("pwm: sifive: Enable clk only after period check in .apply()")
+0f02f491b786 ("pwm: sifive: Reduce time the controller lock is held")
+61180f68ad5b ("pwm: sifive: Fold pwm_sifive_enable() into its only caller")
+20550a61880f ("pwm: sifive: Simplify offset calculation for PWMCMP registers")
+762c4e7fce55 ("pwm: sifive: Simplify if-if to if-else")

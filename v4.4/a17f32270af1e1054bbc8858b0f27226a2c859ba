@@ -1,0 +1,7 @@
+a17f32270af1 ("kvm: x86: Expose Intel VPOPCNTDQ feature to guest")
+83781d180b21 ("KVM: x86: Expose Intel AVX512IFMA/AVX512VBMI/SHA features to guest.")
+8e3562f6f8d2 ("KVM: x86: Expose more Intel AVX512 feature to guest")
+dfa169bbee00 ("Revert "KVM: x86: add pcommit support"")
+b9baba861489 ("KVM, pkeys: expose CPUID/CR4 to guest")
+a87036add092 ("KVM: x86: disable MPX if host did not enable MPX XSAVE features")
+45bdbcfdf241 ("kvm: x86: Fix vmwrite to SECONDARY_VM_EXEC_CONTROL")

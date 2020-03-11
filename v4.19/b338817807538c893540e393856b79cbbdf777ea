@@ -1,0 +1,4 @@
+b33881780753 ("kprobes: Free kretprobe_instance with RCU callback")
+66ada2ccae4e ("kprobes: Add generic kretprobe trampoline handler")
+9b38cc704e84 ("kretprobe: Prevent triggering kretprobe from within kprobe_flush_task")
+b191fa96ea6d ("x86/kprobes: Avoid kretprobe recursion bug")

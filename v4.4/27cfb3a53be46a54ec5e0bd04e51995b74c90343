@@ -1,0 +1,3 @@
+27cfb3a53be4 ("tty: Handle problem if line discipline does not have receive_buf")
+e55afd11a483 ("tty: Prepare for destroying line discipline on hangup")
+5c17c861a357 ("tty: Fix unsafe ldisc reference via ioctl(TIOCGETD)")

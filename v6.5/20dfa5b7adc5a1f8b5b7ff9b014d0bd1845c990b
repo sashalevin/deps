@@ -1,0 +1,7 @@
+20dfa5b7adc5 ("mm: set pte writable while pte_soft_dirty() is true in do_swap_page()")
+c18160dba5ff ("mm: swap: reuse exclusive folio directly instead of wp page faults")
+508758960b8d ("mm: swap: entirely map large folios found in swapcache")
+29f252cdc293 ("mm: introduce arch_do_swap_page_nr() which allows restore metadata for nr pages")
+b832a354d787 ("mm/memory: page_add_anon_rmap() -> folio_add_anon_rmap_pte()")
+2853b66b601a ("mm: remove some calls to page_add_new_anon_rmap()")
+5003a2bdf688 ("mm: call update_mmu_cache_range() in more page fault handling paths")

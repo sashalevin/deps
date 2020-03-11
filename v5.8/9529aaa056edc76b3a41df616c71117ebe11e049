@@ -1,0 +1,4 @@
+9529aaa056ed ("KVM: arm64: Filter out v8.1+ events on v8.0 HW")
+88865beca906 ("KVM: arm64: Mask out filtered events in PCMEID{0,1}_EL1")
+fd65a3b5f855 ("KVM: arm64: Use event mask matching architecture revision")
+42223fb100b4 ("KVM: arm64: Refactor PMU attribute error handling")

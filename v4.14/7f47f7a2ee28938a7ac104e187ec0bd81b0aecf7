@@ -1,0 +1,6 @@
+7f47f7a2ee28 ("spi: tegra20-slink: Convert to platform remove callback returning void")
+7e9984d183bb ("spi: tegra20-slink: fix UAF in tegra_slink_remove()")
+e4bb903fda0e ("spi: tegra20-slink: Improve runtime PM usage")
+aceda401e841 ("spi: tegra20-slink: Ensure SPI controller reset is deasserted")
+04358e40ba96 ("spi: tegra20-slink: add missed clk_unprepare")
+7001cab1dabc ("spi: tegra20-slink: explicitly enable/disable clock")

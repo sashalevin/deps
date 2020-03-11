@@ -1,0 +1,4 @@
+3ff8a13d41b2 ("KVM: nVMX: WARN once and fail VM-Enter if eVMCS sees VMFUNC[63:32] != 0")
+6cce93de28c2 ("KVM: nVMX: Use CC() macro to handle eVMCS unsupported controls checks")
+f4d361b4c294 ("KVM: nVMX: Refactor unsupported eVMCS controls logic to use 2-d array")
+8d68bad6d869 ("KVM: nVMX: Filter out all unsupported controls when eVMCS was activated")

@@ -1,0 +1,8 @@
+e5a65d4f723a ("KVM: x86/pmu: Add macros to iterate over all PMCs given a bitmap")
+004a0aa56ede ("KVM: x86/pmu: Snapshot and clear reprogramming bitmap before reprogramming")
+b31880ca2f41 ("KVM: x86/pmu: Move pmc_idx => pmc translation helper to common code")
+be6b067dae15 ("KVM: x86/pmu: Add common define to capture fixed counters offset")
+7bb7fce13601 ("KVM: x86/pmu: Prioritize VMX interception over #GP on RDPMC due to bad index")
+ecb490770ad4 ("KVM: x86/pmu: Don't ignore bits 31:30 for RDPMC index on AMD")
+cbbd1aa89139 ("KVM: x86/pmu: Allow programming events that match unsupported arch events")
+5eb7fcbdea63 ("KVM: x86/pmu: Always treat Fixed counters as available when supported")

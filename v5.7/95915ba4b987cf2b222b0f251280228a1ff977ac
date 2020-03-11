@@ -1,0 +1,6 @@
+95915ba4b987 ("tee: optee: Fix kernel panic caused by incorrect error handling")
+7269cba53d90 ("tee: optee: Fix supplicant based device enumeration")
+cce616e012c2 ("tee: optee: fix possible memory leak in optee_register_device()")
+7f565d0ead26 ("tee: optee: Fix missing devices unregister during optee_remove")
+5f178bb71e3a ("optee: enable support for multi-stage bus enumeration")
+58df195cd47d ("optee: use uuid for sysfs driver entry")

@@ -1,0 +1,7 @@
+b7d5dc21072c ("random: add a spinlock_t to struct batched_entropy")
+72e5c740f633 ("random: reorder READ_ONCE() in get_random_uXX")
+d06bfd1989fe ("random: warn when kernel uses unseeded randomness")
+4a072c71f49b ("random: silence compiler warnings and fix race")
+b169c13de473 ("random: invalidate batched entropy after crng init")
+c440408cf690 ("random: convert get_random_int/long into get_random_u32/u64")
+f5b98461cb81 ("random: use chacha20 for get_random_int/long")

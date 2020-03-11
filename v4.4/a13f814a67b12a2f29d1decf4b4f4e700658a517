@@ -1,0 +1,7 @@
+a13f814a67b1 ("netfilter: nft_set_rbtree: add missing rb_erase() in GC routine")
+c293ac959f80 ("netfilter: nft_set_rbtree: fix panic when destroying set by GC")
+8d8540c4f5e0 ("netfilter: nft_set_rbtree: add timeout support")
+71cc0873e0e0 ("netfilter: nf_tables: Simplify set backend selection")
+4f2921ca21b7 ("netfilter: nf_tables: meter: pick a set backend that supports updates")
+0d3601d2994a ("netfilter: nft_set_hash: skip fixed hash if timeout is specified")
+2eb3ed33e55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

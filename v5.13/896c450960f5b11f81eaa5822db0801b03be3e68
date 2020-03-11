@@ -1,0 +1,4 @@
+896c450960f5 ("pwm: cros-ec: Simplify using devm_pwmchip_add() and dev_err_probe()")
+159a61a7b5b0 ("pwm: cros-ec: Convert to platform remove callback returning void")
+3d593b6e80ad ("pwm: pwm-cros-ec: Add channel type support")
+a08be12771c0 ("pwm: cros-ec: Don't check the return code of pwmchip_remove()")

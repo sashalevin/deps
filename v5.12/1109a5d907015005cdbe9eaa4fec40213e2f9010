@@ -1,0 +1,5 @@
+1109a5d90701 ("usercopy: Remove HARDENED_USERCOPY_PAGESPAN")
+ab502103ae3c ("mm/usercopy: Detect large folio overruns")
+ef3e787c21d1 ("usercopy: Disable CONFIG_HARDENED_USERCOPY_PAGESPAN")
+0b3eb091d575 ("mm: Convert check_heap_object() to use struct slab")
+53944f171a89 ("mm: remove HARDENED_USERCOPY_FALLBACK")

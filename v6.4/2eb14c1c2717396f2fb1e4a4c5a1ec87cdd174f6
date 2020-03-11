@@ -1,0 +1,6 @@
+2eb14c1c2717 ("mm, slab: reintroduce rcu_barrier() into kmem_cache_destroy()")
+f77d0cda4a8e ("mm, slab: move kfence_shutdown_cache() outside slab_mutex")
+4ec10268ed98 ("mm, slab: unlink slabinfo, sysfs and debugfs immediately")
+b5959789e96e ("mm, slab: dissolve shutdown_cache() into its caller")
+b32801d1255b ("mm/slab: Introduce kmem_buckets_create() and family")
+61307b7be41a ("Merge tag 'mm-stable-2024-05-17-19-19' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

@@ -1,0 +1,8 @@
+043ae13bbd55 ("ASoC: SOF: Add system_suspend_target field to struct snd_sof_dev")
+16299326a0cb ("ASoC: SOF: Intel: hda: set L1SEN on S0ix suspend")
+66e40876ddc3 ("ASoC: SOF: Intel: hda-dsp: implement suspend/resume for S0ix<->S0 transition")
+ac8c046f19f9 ("ASoC: SOF: ignore suspend/resume for D0ix compatible streams")
+0b50b3b1c3bc ("ASoC: SOF: PM: implement prepare/complete callbacks")
+7367d3096b14 ("ASoC: SOF: add a flag to indicate the system suspend target")
+601252869f50 ("ASoC: SOF: PM: add helpers for setting D0 substate for ADSP")
+4c19030c511f ("ASoC: SOF: add a field to store the current D0 substate of DSP")

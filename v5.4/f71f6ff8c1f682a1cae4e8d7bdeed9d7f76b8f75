@@ -1,0 +1,8 @@
+f71f6ff8c1f6 ("bus: ti-sysc: Flush posted write only after srst_udelay")
+d929b2b7464f ("bus: ti-sysc: Use fsleep() instead of usleep_range() in sysc_reset()")
+34539b442b3b ("bus: ti-sysc: Flush posted write on enable before reset")
+ab4d309d8708 ("bus: ti-sysc: Improve reset to work with modules with no sysconfig")
+e64c021fd924 ("bus: ti-sysc: Rename clk related quirks to pre_reset and post_reset quirks")
+aec551c7a00f ("bus: ti-sysc: Fix 1-wire reset quirk")
+e709ed70d122 ("bus: ti-sysc: Fix missing reset delay handling")
+020003f763e2 ("bus: ti-sysc: Add module enable quirk for audio AESS")

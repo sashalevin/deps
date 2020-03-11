@@ -1,0 +1,8 @@
+ce0929d222f8 ("gpiolib: acpi: Add quirks field to struct acpi_gpio_mapping")
+5870cff47bb6 ("gpiolib: acpi: Move adev member to struct acpi_gpio_info")
+08be1a795de3 ("gpiolib: acpi: Don't contaminate return parameter in case of error")
+a31f5c3a6852 ("gpio: acpi: Override GPIO initialization flags")
+2eca25af0548 ("gpio: acpi: Factor out acpi_gpio_to_gpiod_flags() helper")
+fe06b56cbf9f ("gpio: acpi: Do sanity check for GpioInt in acpi_find_gpio()")
+6798d7271cb4 ("gpio: acpi: Ignore -EPROBE_DEFER for unselected gpioints")
+e4df1ebdfeb4 ("Merge branch 'ib-gpiod-flags' into devel")

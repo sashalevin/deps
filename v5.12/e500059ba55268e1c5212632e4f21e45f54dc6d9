@@ -1,0 +1,6 @@
+e500059ba552 ("mm, slub: move disabling/enabling irqs to ___slab_alloc()")
+53a0de06e50a ("mm, slub: dissolve new_slab_objects() into ___slab_alloc()")
+2a904905ae04 ("mm, slub: extract get_partial() from new_slab_objects()")
+da844b787245 ("kasan, mm: integrate slab init_on_alloc with HW_TAGS")
+aa5c219c60cc ("kasan: init memory in kasan_(un)poison for HW_TAGS")
+d9b6f90794ba ("arm64: kasan: allow to init memory when setting tags")

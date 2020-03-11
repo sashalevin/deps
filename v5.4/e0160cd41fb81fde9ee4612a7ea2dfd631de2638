@@ -1,0 +1,7 @@
+e0160cd41fb8 ("mtd: rawnand: Hide the chip->data_interface indirection")
+adcf98b2d874 ("mtd: rawnand: Rename nand_has_setup_data_iface()")
+90d6bf481a5d ("mtd: rawnand: tango: Convert the driver to exec_op()")
+ce8148d7b8f2 ("mtd: rawnand: Rename a NAND chip option")
+dd6ed5c9890b ("mtd: rawnand: Translate obscure bitfields into readable macros")
+fca88925d769 ("mtd: rawnand: toshiba: Support reading the number of bitflips for BENAND (Built-in ECC NAND)")
+4114b17af412 ("mtd: rawnand: stm32_fmc2: avoid to lock the CPU bus")

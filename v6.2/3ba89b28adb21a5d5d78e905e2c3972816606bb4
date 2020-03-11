@@ -1,0 +1,4 @@
+3ba89b28adb2 ("net: dsa: mv88e6xxx: add field to specify internal phys layout")
+ca345931907f ("net: dsa: mv88e6xxx: pass directly chip structure to mv88e6xxx_phy_is_internal")
+267d7692f6cd ("net: dsa: mv88e6xxx: move link forcing to mac_prepare/mac_finish")
+b1a2de9ccfe6 ("net: dsa: mv88e6xxx: don't dispose of Global2 IRQ mappings from mdiobus code")

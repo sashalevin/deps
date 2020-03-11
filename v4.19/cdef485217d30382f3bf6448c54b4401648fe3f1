@@ -1,0 +1,7 @@
+cdef485217d3 ("ipv6: fix memory leak in fib6_rule_suppress")
+41d707b7332f ("fib: fix fib_rules_ops indirect calls wrappers")
+b9aaec8f0be5 ("fib: use indirect call wrappers in the most common fib_rules_ops")
+ca7a03c41753 ("ipv6: do not free rt if FIB_LOOKUP_NOREF is set on suppress rule")
+adb701d6cfa4 ("selftests: add a test case for rp_filter")
+228ddb3315ba ("selftests: fib_tests: Add tests for ipv6 gateway with ipv4 route")
+a0e11da78f48 ("fib_tests: Add tests for metrics on routes")

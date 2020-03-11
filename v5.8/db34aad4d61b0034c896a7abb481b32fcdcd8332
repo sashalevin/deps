@@ -1,0 +1,8 @@
+db34aad4d61b ("spi: tegra20-slink: switch to use modern name")
+7f47f7a2ee28 ("spi: tegra20-slink: Convert to platform remove callback returning void")
+7e9984d183bb ("spi: tegra20-slink: fix UAF in tegra_slink_remove()")
+07f837554bb5 ("spi: tegra20-slink: Add OPP support")
+02cea7039ad5 ("spi: tegra20-slink: remove spi_master_put() in tegra_slink_remove()")
+26c863418221 ("spi: tegra20-slink: Don't use resource-managed spi_register helper")
+e4bb903fda0e ("spi: tegra20-slink: Improve runtime PM usage")
+aceda401e841 ("spi: tegra20-slink: Ensure SPI controller reset is deasserted")

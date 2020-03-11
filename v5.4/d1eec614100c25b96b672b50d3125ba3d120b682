@@ -1,0 +1,7 @@
+d1eec614100c ("bnxt_en: Restructure cp_ring_arr in struct bnxt_cp_ring_info")
+195af57914d1 ("bnxt_en: Fix unnecessary dropping of RX packets")
+dc1f5d1ebc5c ("bnxt_en: enable interrupt sampling on 5750X for DIM")
+03c7448790b8 ("bnxt_en: Don't use static arrays for completion ring pages")
+389a877a3b20 ("bnxt_en: Process the NQ under NAPI continuous polling.")
+340ac85eabce ("bnxt_en: Simplify __bnxt_poll_cqs_done().")
+54a9062f6909 ("bnxt_en: Handle all NQ notifications in bnxt_poll_p5().")

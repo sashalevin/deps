@@ -1,0 +1,6 @@
+0356d778aa1e ("hwmon: (pmbus) fix build error unused-function")
+8a85007c8386 ("hwmon: (pmbus) add a function to check the presence of a block register")
+f0a5c8397663 ("hwmon: (pmbus) Use _pmbus_read_byte_data with callback")
+5de3e13f7f6b ("hwmon: (pmbus) Introduce and use write_byte_data callback")
+e0f0307ac16f ("hwmon: (pmbus) Add get_error_flags support to regulator ops")
+686d303ee630 ("hwmon: (pmbus) Add mutex to regulator ops")

@@ -1,0 +1,4 @@
+da656a042568 ("iommu/vt-d: Use pci_ats_supported()")
+d8b859105457 ("iommu/vt-d: Disable ATS support on untrusted devices")
+61363c1474b1 ("iommu/vt-d: Enable ATS only if the device uses page aligned address.")
+fb58fdcd295b ("iommu/vt-d: Do not enable ATS for untrusted devices")

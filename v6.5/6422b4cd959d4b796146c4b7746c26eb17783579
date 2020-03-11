@@ -1,0 +1,4 @@
+6422b4cd959d ("btrfs: move btrfs_realloc_node() from ctree.c into defrag.c")
+79d25df0d737 ("btrfs: export comp_keys() from ctree.c as btrfs_comp_keys()")
+95f93bc4cbca ("btrfs: rename and export __btrfs_cow_block()")
+e36f94914021 ("btrfs: error out when reallocating block for defrag using a stale transaction")

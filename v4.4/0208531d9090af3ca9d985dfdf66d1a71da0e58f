@@ -1,0 +1,6 @@
+0208531d9090 ("hwmon: (tmp102) Convert to use new hwmon registration API")
+28a340db9043 ("hwmon: (tmp102) Convert to use regmap, and drop local cache")
+a9f92ccf334f ("hwmon: (tmp102) Rework chip configuration")
+3d8f7a89a197 ("hwmon: (tmp102) Improve handling of initial read delay")
+b17ea1ca1da1 ("hwmon: (tmp102) Use devm_add_action to register cleanup function")
+51b77fd7b17f ("hwmon: convert tmp102 to use devm_thermal_zone_of_sensor_register")

@@ -1,0 +1,8 @@
+2a50fc5fd097 ("KVM: arm64: Handle host stage-2 faults from 32-bit EL0")
+a2e102e20fd6 ("KVM: arm64: nVHE: Handle hyp panics")
+4e3393a969a0 ("KVM: arm64: nVHE: Switch to hyp context for EL2")
+7db21530479f ("KVM: arm64: Restore hyp when panicking in guest context")
+6e3bfbb22c51 ("KVM: arm64: nVHE: Use separate vector for the host")
+a0e479523e3f ("KVM: arm64: Save chosen hyp vector to a percpu variable")
+d7ca1079d8ea ("KVM: arm64: Remove kvm_host_data_t typedef")
+6a0259ed29bb ("KVM: arm64: Remove hyp_panic arguments")

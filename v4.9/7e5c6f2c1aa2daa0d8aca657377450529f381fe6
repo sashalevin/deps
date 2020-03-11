@@ -1,0 +1,7 @@
+7e5c6f2c1aa2 ("perf machine: Move machine__resolve() from event.h")
+4d99e4136580 ("perf machine: Workaround missing maps for x86 PTI entry trampolines")
+1fb87b8e9599 ("perf machine: Don't search for active kernel start in __machine__create_kernel_maps")
+05db6ff73d80 ("perf machine: Generalize machine__set_kernel_mmap()")
+3f938ee2f6c4 ("perf machine: Fix segfault for kernel.kptr_restrict=2")
+b843f62ad942 ("perf symbols: Accept symbols starting at address 0")
+a0b2f5af4c99 ("perf tools: Be consistent on the type of map->symbols[] interator")

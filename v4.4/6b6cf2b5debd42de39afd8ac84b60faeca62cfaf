@@ -1,0 +1,7 @@
+6b6cf2b5debd ("mfd: core: Fix double-free in mfd_remove_devices_fn()")
+466a62d7642f ("mfd: core: Make a best effort attempt to match devices with the correct of_nodes")
+6b5c350648b8 ("mfd: mfd-core: Honour Device Tree's request to disable a child-device")
+5a47c0fbd276 ("mfd: mfd-core: Remove usage counting for .{en,dis}able() call-backs")
+b195e101580d ("mfd: mfd-core: Protect against NULL call-back function pointer")
+c176c6d7e932 ("mfd: core: Set fwnode for created devices")
+4d215cabc784 ("mfd: core: propagate device properties to sub devices drivers")

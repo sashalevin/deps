@@ -1,0 +1,5 @@
+2fe5273f149c ("net/smc: prevent UAF in inet_create()")
+d0e35656d834 ("net/smc: refactoring initialization of smc sock")
+833bac7ec392 ("net/smc: Fix setsockopt and sysctl to specify same buffer size again")
+9744d2bf1976 ("smc: Fix use-after-free in tcp_write_timer_handler().")
+aff7bfed9097 ("net/smc: replace mutex rmbs_lock and sndbufs_lock with rw_semaphore")

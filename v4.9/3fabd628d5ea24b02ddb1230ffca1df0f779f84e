@@ -1,0 +1,5 @@
+3fabd628d5ea ("efi/capsule-loader: Redirect calls to efi_capsule_setup_info() via weak alias")
+82c3768b8d68 ("efi/capsule-loader: Use a cached copy of the capsule header")
+41b0c3769514 ("efi/capsule: Adjust return type of efi_capsule_setup_info()")
+7367633f0bfd ("efi/capsule: Remove pr_debug() on ENOMEM or EFAULT")
+fb153dc53f0e ("efi/capsule: Fix return code on failing kmap/vmap")

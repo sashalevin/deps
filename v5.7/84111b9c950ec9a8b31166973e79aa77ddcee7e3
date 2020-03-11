@@ -1,0 +1,7 @@
+84111b9c950e ("perf tools: Allow controlling synthesizing PERF_RECORD_ metadata events during record")
+c1b907953b2c ("perf tools: Skip PERF_RECORD_MMAP event synthesis for kernel threads")
+30626e084475 ("perf tools: Use /proc/<PID>/task/<TID>/status for PERF_RECORD_ event synthesis")
+13edc237200c ("perf bench: Add a multi-threaded synthesize benchmark")
+d99c22eabee4 ("perf record: Add num-synthesize-threads option")
+04ed4ccb9c07 ("perf synthetic-events: save 4kb from 2 stack frames")
+2a4b51666af8 ("perf bench: Add event synthesis benchmark")

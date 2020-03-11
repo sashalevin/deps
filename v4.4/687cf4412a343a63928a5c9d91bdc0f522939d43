@@ -1,0 +1,7 @@
+687cf4412a34 ("dm cache metadata: verify cache has blocks in blocks_are_clean_separate_dirty()")
+7f1b21591a63 ("dm cache metadata: use cursor api in blocks_are_clean_separate_dirty()")
+629d0a8a1a10 ("dm cache metadata: add "metadata2" feature")
+f177940a8091 ("dm cache metadata: switch to using the new cursor api for loading metadata")
+9567366fefdd ("dm cache metadata: fix READ_LOCK macros and cleanup WRITE_LOCK macros")
+843f0f2e8f52 ("dm cache: bump the target version")
+d14fcf3dd79c ("dm cache: make sure every metadata function checks fail_io")

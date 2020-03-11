@@ -1,0 +1,7 @@
+52f4607940b1 ("KVM: x86: Further clarify the logic and comments for toggling log dirty")
+3741679ba4b4 ("KVM: x86: minor code refactor and comments fixup around dirty logging")
+4b44295538b4 ("KVM: x86: avoid unnecessary rmap walks when creating/moving slots")
+5688fed649f1 ("KVM: x86: remove unnecessary rmap walk of read-only memslots")
+3bae0459bcd5 ("KVM: x86/mmu: Drop KVM's hugepage enums in favor of the kernel's enums")
+e662ec3e0705 ("KVM: x86/mmu: Move max hugepage level to a separate #define")
+b2f432f872d9 ("KVM: x86/mmu: Tweak PSE hugepage handling to avoid 2M vs 4M conundrum")

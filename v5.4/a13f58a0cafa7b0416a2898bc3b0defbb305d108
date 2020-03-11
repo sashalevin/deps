@@ -1,0 +1,6 @@
+a13f58a0cafa ("locking/refcount: Document interaction with PID_MAX_LIMIT")
+dcb786493f3e ("locking/refcount: Improve performance of generic REFCOUNT_FULL code")
+77e9971c79c2 ("locking/refcount: Move the bulk of the REFCOUNT_FULL implementation into the <linux/refcount.h> header")
+7221762c48c6 ("locking/refcount: Remove unused refcount_*_checked() variants")
+97a1420adf0c ("locking/refcount: Ensure integer operands are treated as signed")
+23e6b169c991 ("locking/refcount: Define constants for saturation and max refcount values")

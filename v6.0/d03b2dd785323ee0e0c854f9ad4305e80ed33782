@@ -1,0 +1,7 @@
+d03b2dd78532 ("PCI: kirin: Convert to use agnostic GPIO API")
+7e8e4fc5321b ("PCI: kirin: Convert kirin_pcie_parse_port() to scoped iterator")
+9f5077ef8f81 ("PCI: kirin: Use devm_kasprintf() to dynamically allocate clock names")
+c925cfaf0992 ("PCI: Explicitly include correct DT includes")
+9dd3c7c4c8c3 ("PCI: rockchip: Add poll and timeout to wait for PHY PLLs to be locked")
+277004d7a4a3 ("PCI: Remove unnecessary <linux/of_irq.h> includes")
+0dbc45241dc3 ("PCI: dwc: Replace of_gpio_named_count() by gpiod_count()")

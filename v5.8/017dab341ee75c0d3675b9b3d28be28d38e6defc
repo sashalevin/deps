@@ -1,0 +1,8 @@
+017dab341ee7 ("bpf: Check CONFIG_BPF option for resolve_btfids")
+c9a0f3b85e09 ("bpf: Resolve BTF IDs in vmlinux image")
+33a57ce0a54d ("bpf: Compile resolve_btfids tool at kernel compilation start")
+fa28dcb82a38 ("bpf: Introduce helper bpf_get_task_stack()")
+0d4fad3e57df ("bpf: Add bpf_skc_to_udp6_sock() helper")
+478cfbdf5f13 ("bpf: Add bpf_skc_to_{tcp, tcp_timewait, tcp_request}_sock() helpers")
+af7ec1383361 ("bpf: Add bpf_skc_to_tcp6_sock() helper")
+72e2b2b66f9c ("bpf: Allow tracing programs to use bpf_jiffies64() helper")

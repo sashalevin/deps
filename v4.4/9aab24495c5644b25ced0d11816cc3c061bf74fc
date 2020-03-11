@@ -1,0 +1,6 @@
+9aab24495c56 ("powerpc/opal: Add opal_async_wait_response_interruptible() to opal-async")
+86cd6d980209 ("powerpc/opal: Rework the opal-async interface")
+71e24d7731a2 ("powerpc/opal: Fix EBUSY bug in acquiring tokens")
+a203658b5ed3 ("powerpc/opal: Wake up kopald polling thread before waiting for events")
+d0226d315dba ("powerpc/opal: Add inline function to get rc from an ASYNC_COMP opal_msg")
+9b4fffa14906 ("powerpc/powernv: new function to access OPAL msglog")

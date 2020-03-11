@@ -1,0 +1,6 @@
+e2eed85bc751 ("md/raid5: Ensure stripe_fill happens on non-read IO with journal")
+07e83364845e ("md/r5cache: shift complex rmw from read path to write path")
+d7bd398e97f2 ("md/r5cache: handle alloc_page failure")
+a39f7afde358 ("md/r5cache: write-out phase and reclaim support")
+1e6d690b9334 ("md/r5cache: caching phase of r5cache")
+2ded370373a4 ("md/r5cache: State machine for raid5-cache write back mode")

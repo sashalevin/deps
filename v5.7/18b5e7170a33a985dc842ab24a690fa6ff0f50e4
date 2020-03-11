@@ -1,0 +1,4 @@
+18b5e7170a33 ("powerpc/pseries: Always inline functions called from cpuidle")
+dc8afce5f45b ("powerpc/pseries: Account for SPURR ticks on idle CPUs")
+c4019198cfa8 ("powerpc/idle: Store PURR snapshot in a per-cpu global variable")
+e4a884cc28fa ("powerpc: Move idle_loop_prolog()/epilog() functions to header file")

@@ -1,0 +1,5 @@
+f28380185193 ("signal: Remove the need for __ARCH_SI_PREABLE_SIZE and SI_PAD_SIZE")
+e821fa424525 ("signal/powerpc: Replace TRAP_FIXME with TRAP_UNK")
+aeb1c0f6ff18 ("signal/powerpc: Replace FPE_FIXME with FPE_FLTUNK")
+75abf64287ca ("parisc/signal: Add FPE_CONDTRAP for conditional trap handling")
+d66db9f6e427 ("Merge branch 'siginfo-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/ebiederm/user-namespace")

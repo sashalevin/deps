@@ -1,0 +1,7 @@
+b68d0ff529a9 ("irqchip/sifive-plic: Use devm_xyz() for managed allocation")
+8ec99b033147 ("irqchip/sifive-plic: Convert PLIC driver into a platform driver")
+f99b926f6543 ("irqchip/sifive-plic: Fix syscore registration for multi-socket systems")
+e80f0b6a2cf3 ("irqchip/irq-sifive-plic: Add syscore callbacks for hibernation")
+5873ba559101 ("irqchip/sifive-plic: Fix T-HEAD PLIC edge trigger handling")
+dd46337ca696 ("irqchip/sifive-plic: Add support for Renesas RZ/Five SoC")
+f0fae8a0edd4 ("Merge tag 'irqchip-5.18' of git://git.kernel.org/pub/scm/linux/kernel/git/maz/arm-platforms into irq/core")

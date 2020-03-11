@@ -1,0 +1,8 @@
+3cb7b121ff4d ("mm/filemap.c: Use existing variable")
+6be96d3ad34a ("fs: return if direct I/O will trigger writeback")
+0d5b0cf246a3 ("fs: update atime before I/O in generic_file_read_iter")
+c8b8e32d700f ("direct-io: eliminate the offset argument to ->direct_IO")
+13712713caba ("xfs: eliminate the pos variable in xfs_file_dio_aio_write")
+c64fb5c7448c ("filemap: remove pos variables in generic_file_read_iter")
+09cbfeaf1a5a ("mm, fs: get rid of PAGE_CACHE_* and page_cache_{get,release} macros")
+d5a38f6e4668 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/sage/ceph-client")

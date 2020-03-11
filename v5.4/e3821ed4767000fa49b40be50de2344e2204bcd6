@@ -1,0 +1,4 @@
+e3821ed47670 ("ARM: at91: pm: s/CONFIG_SOC_SAM9X60/CONFIG_HAVE_AT91_SAM9X60_PLL/g")
+4fd36e458392 ("ARM: at91: pm: add plla disable/enable support for sam9x60")
+63d1a6b107d5 ("ARM: at91: pm: add macros for plla disable/enable")
+c4cae59d80f0 ("ARM: at91: pm: revert do not disable/enable PLLA for ULP modes")

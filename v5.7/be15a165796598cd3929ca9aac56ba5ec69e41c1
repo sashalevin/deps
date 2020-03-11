@@ -1,0 +1,6 @@
+be15a1657965 ("powerpc/uaccess: Remove __unsafe_put_user_goto()")
+7d506ca97b66 ("powerpc/uaccess: Avoid might_fault() when user access is enabled")
+de4ffc653f37 ("powerpc/uaccess: Simplify unsafe_put_user() implementation")
+4fe5cda9f89d ("powerpc/uaccess: Implement user_read_access_begin and user_write_access_begin")
+17bc43367fc2 ("powerpc/uaccess: Implement unsafe_copy_to_user() as a simple loop")
+334710b1496a ("powerpc/uaccess: Implement unsafe_put_user() using 'asm goto'")

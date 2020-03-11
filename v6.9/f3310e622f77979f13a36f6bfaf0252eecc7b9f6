@@ -1,0 +1,5 @@
+f3310e622f77 ("KVM: x86/mmu: Initialize kvm_page_fault's pfn and hva to error values")
+b3d5dc629c32 ("KVM: x86/mmu: Use synthetic page fault error code to indicate private faults")
+dee281e4b435 ("KVM: x86: Move synthetic PFERR_* sanity checks to SVM's #NPF handler")
+9b62e03e192c ("KVM: x86: Define more SEV+ page fault error bits/flags for #NPF")
+63b6206e2f9a ("KVM: x86: Remove separate "bit" defines for page fault error code masks")

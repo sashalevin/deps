@@ -1,0 +1,4 @@
+c482f2cebe2d ("KVM: x86: Move APIC access page helper to common x86 code")
+36222b117e36 ("KVM: x86: don't disable APICv memslot when inhibited")
+df63202fe52b ("KVM: x86: APICv: drop immediate APICv disablement on current vCPU")
+a01b45e9d34d ("KVM: x86: rename apic_access_page_done to apic_access_memslot_enabled")

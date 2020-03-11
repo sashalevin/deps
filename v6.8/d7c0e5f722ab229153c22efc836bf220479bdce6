@@ -1,0 +1,5 @@
+d7c0e5f722ab ("mm/memory: ignore writable bit in folio_pte_batch()")
+25365e10699a ("mm/memory: ignore dirty/accessed/soft-dirty bits in folio_pte_batch()")
+f8d937761d65 ("mm/memory: optimize fork() with PTE-mapped THP")
+53723298ba43 ("mm/memory: pass PTE to copy_present_pte()")
+23ed190868a6 ("mm/memory: factor out copying the actual PTE in copy_present_pte()")

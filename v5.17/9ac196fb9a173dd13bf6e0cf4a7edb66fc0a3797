@@ -1,0 +1,8 @@
+9ac196fb9a17 ("drm: adv7511: Add supply_names and num_supplies variables to struct adv7511_chip_info")
+399562fc02d8 ("drm: adv7511: Add max_lane_freq_khz variable to struct adv7511_chip_info")
+11ae4e406dd9 ("drm: adv7511: Add max_mode_clock_khz variable to struct adv7511_chip_info")
+19e77c7aef57 ("drm: adv7511: Add struct adv7511_chip_info and use i2c_get_match_data()")
+d281eeaa4de2 ("drm: adv7511: Fix low refresh rate register for ADV7533/5")
+ee0285e13455 ("drm/bridge: adv7533: Fix adv7533_mode_valid for adv7533 and adv7535")
+9a0cdcd6649b ("drm/bridge: adv7533: remove dynamic lane switching from adv7533 bridge")
+3dbc84a595d1 ("drm: bridge: adv7511: Fix ADV7535 HPD enablement")

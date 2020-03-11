@@ -1,0 +1,6 @@
+254274cde1f2 ("mmc: sdhci: Eliminate SDHCI_QUIRK_UNSTABLE_RO_DETECT")
+fbd64f902b93 ("mmc: sdhci: Do not invert write-protect twice")
+2caa11bc2d29 ("mmc: sdhci: Deduplicate sdhci_get_cd_nogpio()")
+6ab4e2eb5e95 ("mmc: sdhci-pci: Read card detect from ACPI for Intel Merrifield")
+6d5cd068ee59 ("mmc: sdhci: use WP GPIO in sdhci_check_ro()")
+d462c1b47452 ("mmc: sdhci: Export sdhci_request()")

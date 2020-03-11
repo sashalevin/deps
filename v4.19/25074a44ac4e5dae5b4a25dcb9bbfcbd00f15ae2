@@ -1,0 +1,8 @@
+25074a44ac4e ("virtio_net: reorder some funcs")
+50bd14bc98fa ("virtio-net: update bytes calculation for xdp_frame")
+546f28974d77 ("virtio_net: Account for tx bytes and packets on sending xdp_frames")
+5050471d35d1 ("virtio_net: Differentiate sk_buff and xdp_frame on freeing")
+07b344f494dd ("virtio_net: Use xdp_return_frame to free xdp_frames on destroying vqs")
+534da5e85633 ("virtio_net: Don't call free_old_xmit_skbs for xdp_frames")
+8be4d9a492f8 ("virtio_net: Don't enable NAPI when interface is down")
+df133f3f9625 ("virtio_net: bulk free tx skbs")

@@ -1,0 +1,8 @@
+4545d4777d9e ("iio: mlx90614: Use i2c_get_match_data()")
+3d5ead238bc8 ("iio: mlx90614: Factor our register IO and constants into model specific descriptor")
+8a0377bf671d ("iio: mlx90614: Drop MLX90614_CONST_EMISSIVITY_RESOLUTION")
+022148372876 ("iio: mlx90614: Drop unused register macros")
+4c077429b422 ("iio: mlx90614: Sort headers")
+d9d0c0725ae2 ("iio: temperature: mlx90614 Refactoring available filter attributes")
+66e748ae7f82 ("iio: temp: mlx90614: Handle failure in pm_runtime_resume_and_get()")
+5e42916ad9e9 ("iio:temperature: drop assignment of iio_info.driver_module")

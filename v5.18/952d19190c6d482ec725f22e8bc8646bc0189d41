@@ -1,0 +1,7 @@
+952d19190c6d ("drm/i915/migrate: fix corner case in CCS aux copying")
+353819d85f87 ("drm/i915/ttm: don't leak the ccs state")
+b8c9d486af7b ("drm/i915/gt: optimize the ccs_sz calculation per chunk")
+da0595ae91da ("drm/i915/migrate: Evict and restore the flatccs capable lmem obj")
+310bf25df2fc ("drm/i915/gt: Pass the -EINVAL when emit_pte doesn't update any PTE")
+6e6bc8c0a815 ("drm/i915/gt: Optimize the migration and clear loop")
+552caa1fdbb8 ("drm/i915/migrate: move the sanity check")

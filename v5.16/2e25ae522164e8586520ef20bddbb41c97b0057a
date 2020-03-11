@@ -1,0 +1,8 @@
+2e25ae522164 ("drm/i915: Use _MMIO_TRANS2() where appropriate")
+d5a680548edd ("drm/i915: s/_CURSOR2/_MMIO_CURSOR2//")
+12d745537266 ("drm/i915: Move pipe_offsets[] & co. to INTEL_INFO->display")
+348abd4cf353 ("drm/i915: Clean up cursor registers")
+6678916dfa01 ("drm/i915: Move pipe/transcoder/abox masks under intel_device_info.display")
+1c7ab5affa5e ("drm/i915/xelpd: Add Pipe Color Lut caps to platform config")
+dfb924e33927 ("drm/i915/adlp: Remove require_force_probe protection")
+09eea2126533 ("drm/i915/dsi/xelpd: Add DSI transcoder support")

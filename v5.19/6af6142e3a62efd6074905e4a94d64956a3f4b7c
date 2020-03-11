@@ -1,0 +1,8 @@
+6af6142e3a62 ("KVM: x86: Disable KVM_INTEL_PROVE_VE by default")
+8131cf5b4fd8 ("KVM: VMX: Introduce test mode related to EPT violation VE")
+fb29541eadb6 ("KVM, x86: add architectural support code for #VE")
+ee087b4da022 ("KVM: VMX: Extend VMX controls macro shenanigans")
+1dae276569bd ("KVM: VMX: Tweak the special handling of SECONDARY_EXEC_ENCLS_EXITING in setup_vmcs_config()")
+378c4c18509b ("KVM: VMX: Check CPU_BASED_{INTR,NMI}_WINDOW_EXITING in setup_vmcs_config()")
+ffaaf5913f8c ("KVM: VMX: Check VM_ENTRY_IA32E_MODE in setup_vmcs_config()")
+3dbec44d9c94 ("KVM: VMX: Reject kvm_intel if an inconsistent VMCS config is detected")

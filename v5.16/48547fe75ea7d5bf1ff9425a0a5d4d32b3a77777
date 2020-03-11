@@ -1,0 +1,6 @@
+48547fe75ea7 ("KVM: SVM: Add a helper to convert a SME-aware PA back to a struct page")
+4a9e7b9ea252 ("KVM: SVM: Fix kvm_cache_regs.h inclusions for is_guest_mode()")
+54744e17f031 ("KVM: SVM: Move svm_hardware_setup() and its helpers below svm_x86_ops")
+4732f2444acd ("KVM: x86: Making the module parameter of vPMU more common")
+1af4a1199a41 ("KVM: SVM: Rename get_max_npt_level() to get_npt_level()")
+b1d66dad65dc ("KVM: x86/svm: Add module param to control PMU virtualization")

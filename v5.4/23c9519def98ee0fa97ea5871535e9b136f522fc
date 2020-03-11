@@ -1,0 +1,3 @@
+23c9519def98 ("sched/uclamp: Ignore (util == 0) optimization in feec() when p_util_max = 0")
+d81304bc6193 ("sched/uclamp: Cater for uclamp in find_energy_efficient_cpu()'s early exit condition")
+a7008c07a568 ("sched/fair: Make task_fits_capacity() consider uclamp restrictions")

@@ -1,0 +1,6 @@
+99b902ac1725 ("md: sync blockdev before stopping raid or setting readonly")
+09f894affcf2 ("md: do not require mddev_lock() for all options in array_state_store()")
+f97a5528b21e ("md: introduce md_ro_state")
+d7a4783883d3 ("md: check for NULL ->meta_bdev before calling bdev_read_only")
+118cf084adb3 ("md: implement ->set_read_only to hook into BLKROSET processing")
+905e321e21dc ("Merge branch 'md-next' of https://git.kernel.org/pub/scm/linux/kernel/git/song/md into block-5.9")

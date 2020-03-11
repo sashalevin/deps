@@ -1,0 +1,4 @@
+9704154fa0b2 ("scsi: zfcp: drop duplicate seq_no from zfcp_fsf_req which is also in QTCB header")
+f9eca0227600 ("scsi: zfcp: drop duplicate fsf_command from zfcp_fsf_req which is also in QTCB header")
+dac37e15b7d5 ("scsi: zfcp: fix use-after-"free" in FC ingress path after TMF")
+4eeaa4f3f1d6 ("zfcp: close window with unblocked rport during rport gone")

@@ -1,0 +1,5 @@
+ecba85e951c1 ("svcrdma: Copy construction of svc_rqst::rq_arg to rdma_read_complete()")
+a937693a82fd ("svcrdma: Add back svcxprt_rdma::sc_read_complete_q")
+45f135846815 ("svcrdma: Split svcrmda_wc_{read,write} tracepoints")
+b6c2bfea096b ("svcrdma: Relieve contention on sc_send_lock.")
+6c8c84f52510 ("svcrdma: Fewer calls to wake_up() in Send completion handler")

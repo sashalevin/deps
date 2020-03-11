@@ -1,0 +1,4 @@
+76e278d6b505 ("usb: core: kcov: collect coverage from usb complete callback")
+b0310c2f09bb ("USB: use genalloc for USB HCs with local memory")
+ed194d136769 ("usb: core: remove local_irq_save() around ->complete() handler")
+8694f59c3b13 ("USB: OHCI: use dma_pool_zalloc")

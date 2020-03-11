@@ -1,0 +1,8 @@
+8423f0b6d513 ("ALSA: pcm: oss: Fix race at SNDCTL_DSP_SYNC")
+51c816fdd17c ("ALSA: oss: Fix assignment in if condition")
+40cab6e88cb0 ("ALSA: pcm: Return -EBUSY for OSS ioctls changing busy streams")
+02a5d6925cd3 ("ALSA: pcm: Avoid potential races between OSS ioctls and read/write")
+c64ed5dd9feb ("ALSA: pcm: Use ERESTARTSYS instead of EINTR in OSS emulation")
+900498a34a3a ("ALSA: pcm: Allow aborting mutex lock at OSS read/write loops")
+29159a4ed704 ("ALSA: pcm: Abort properly at pending signal in OSS read/write loops")
+670891375034 ("ALSA: pcm: Add missing error checks in OSS emulation plugin builder")

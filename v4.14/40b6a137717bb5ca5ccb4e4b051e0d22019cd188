@@ -1,0 +1,8 @@
+40b6a137717b ("spi: spi-omap2-mcspi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+2ec6f20b33eb ("spi: Cleanup on failure of initial setup")
+dd67de8c3b42 ("spi: fsl: add missing __iomem annotation")
+f27b1dc64125 ("spi: omap2-mcspi: Convert to use GPIO descriptors")
+32f2fc5dc399 ("spi: spi-omap2-mcspi: Support probe deferral for DMA channels")
+89e8b9cb8465 ("spi: omap2-mcspi: Add slave mode support")
+5a686b2c9ed4 ("spi: omap2-mcspi: Idle hardware during suspend and resume")
+52e9a5bb4545 ("spi: omap2-mcspi: Restore context always in runtime_resume")

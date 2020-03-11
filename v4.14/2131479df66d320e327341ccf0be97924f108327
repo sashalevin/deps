@@ -1,0 +1,7 @@
+2131479df66d ("veth: Account for packet drops in ndo_xdp_xmit")
+638264dc9022 ("veth: Support per queue XDP ring")
+d1396004dd86 ("veth: Add XDP TX and REDIRECT")
+af87a3aa1b5f ("veth: Add ndo_xdp_xmit")
+9fc8d518d9d5 ("veth: Handle xdp_frames in xdp napi ring")
+dc2248220a4a ("veth: Avoid drops by oversized packets when XDP is enabled")
+948d4f214fde ("veth: Add driver XDP")

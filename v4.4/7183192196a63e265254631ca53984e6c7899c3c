@@ -1,0 +1,8 @@
+7183192196a6 ("USB: serial: mos7840: rip out broken interrupt handling")
+32d8a6fc5bd6 ("USB: serial: mos7840: remove set but not used variables 'st, data1, iflag'")
+794744abfffe ("USB: serial: mos7840: fix status-register error handling")
+5182c2cf2a9b ("USB: serial: mos7840: fix another NULL-deref at open")
+472d7e55d559 ("USB: serial: mos7840: fix misleading interrupt-URB comment")
+fc43e651bf39 ("USB: serial: mos7840: remove unused write URB")
+5c75633ef751 ("USB: serial: mos7840: fix NULL-deref at open")
+365a0442f6de ("USB: mos7840: remove redundant condition")

@@ -1,0 +1,4 @@
+3217d3c79b5d ("userfaultfd: mcopy_atomic: introduce mfill_atomic_pte helper")
+26071cedc519 ("userfaultfd: shmem: use shmem_mcopy_atomic_pte for shared memory")
+60d4d2d2b40e ("userfaultfd: hugetlbfs: add __mcopy_atomic_hugetlb for huge page UFFDIO_COPY")
+a94720bf821d ("userfaultfd: use vma_is_anonymous")

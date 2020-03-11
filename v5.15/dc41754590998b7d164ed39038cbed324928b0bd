@@ -1,0 +1,8 @@
+dc4175459099 ("scsi: arm: Move the SCSI pointer to private command data")
+af049dfd0b10 ("scsi: core: Remove the 'done' argument from SCSI queuecommand_lck functions")
+0feb3429d735 ("scsi: fas216: Introduce the function fas216_queue_command_internal()")
+11b68e36b167 ("scsi: core: Call scsi_done directly")
+caffd3ad966e ("scsi: fas216: Introduce struct fas216_cmd_priv")
+3ab3b151ff12 ("scsi: aha152x: Call scsi_done() directly")
+a710eacb9d13 ("scsi: core: Rename scsi_mq_done() into scsi_done() and export it")
+bf23e619039d ("scsi: core: Use a structure member to track the SCSI command submitter")

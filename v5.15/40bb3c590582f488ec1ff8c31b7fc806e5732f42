@@ -1,0 +1,4 @@
+40bb3c590582 ("fs/ntfs3: Always make file nonresident on fallocate call")
+b3e048720dee ("fs/ntfs3: Make ntfs_fallocate return -ENOSPC instead of -EFBIG")
+e4d2f4fd5341 ("fs/ntfs3: Enable FALLOC_FL_INSERT_RANGE")
+114346978cf6 ("fs/ntfs3: Check new size for limits")

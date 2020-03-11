@@ -1,0 +1,8 @@
+b203c67ebe75 ("csky: add arch support current_stack_pointer")
+7f8030cea330 ("csky: Enable ARCH_INLINE_READ*/WRITE*/SPIN*")
+45e15c1a375e ("csky: Add qspinlock support")
+9282d0996936 ("csky: Move to generic ticket-spinlock")
+66bcd06099bb ("parport_pc: Also enable driver for PCI systems")
+77993b595ada ("locking: Allow to include asm/spinlock_types.h from linux/spinlock_types_raw.h")
+aeba0b84dd07 ("csky: Select ARCH_WANT_FRAME_POINTERS only if compiler supports it")
+dcf3c935dd9e ("Merge tag 'for-linus-5.14-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/rw/uml")

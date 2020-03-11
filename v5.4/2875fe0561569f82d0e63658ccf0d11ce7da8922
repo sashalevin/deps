@@ -1,0 +1,6 @@
+2875fe056156 ("RISC-V: Add cpu_ops and modify default booting method")
+fcdc65375186 ("riscv: provide native clint access for M-mode")
+4f9bbcefa142 ("riscv: add support for MMIO access to the timer registers")
+8bf90f320d9a ("riscv: implement remote sfence.i using IPIs")
+3b03ac6bbd6e ("riscv: poison SBI calls for M-mode")
+a4c3733d32a7 ("riscv: abstract out CSR names for supervisor vs machine mode")

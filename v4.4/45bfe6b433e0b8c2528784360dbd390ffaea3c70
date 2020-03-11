@@ -1,0 +1,7 @@
+45bfe6b433e0 ("mlxsw: spectrum_switchdev: Don't batch STP operations")
+454911333b1d ("mlxsw: spectrum: Disable learning according to STP state")
+9cb026ebb8ab ("mlxsw: spectrum: Don't forward packets when STP state is DISABLED")
+54a732018d8e ("mlxsw: spectrum: Adjust switchdev ops for VLAN devices")
+9de6a80e0612 ("mlxsw: spectrum: Use FID instead of VID when accessing FDB")
+8a1ab5d76639 ("mlxsw: spectrum: Implement FDB add/remove/dump for LAG")
+e4bfbae29a19 ("mlxsw: reg: Add definition of LAG unicast record for SFD register")

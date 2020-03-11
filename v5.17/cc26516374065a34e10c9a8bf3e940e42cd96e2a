@@ -1,0 +1,5 @@
+cc2651637406 ("ALSA: memalloc: Allocate more contiguous pages for fallback case")
+dd164fbfdc20 ("ALSA: memalloc: Drop special handling of GFP for CONTINUOUS allocation")
+a8d302a0b770 ("ALSA: memalloc: Revive x86-specific WC page allocations again")
+9882d63bea14 ("ALSA: memalloc: Drop x86-specific hack for WC allocations")
+925ca893b4a6 ("ALSA: memalloc: Add fallback SG-buffer allocations for x86")

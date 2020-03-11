@@ -1,0 +1,4 @@
+49378a05ce7f ("mm/slub: remove slab_alloc() and __kmem_cache_alloc_lru() wrappers")
+be784ba861b9 ("mm, slub: don't aggressively inline with CONFIG_SLUB_TINY")
+56d5a2b9ba85 ("mm, slub: split out allocations from pre/post hooks")
+b77d5b1b83e3 ("mm: slab: optimize memcg_slab_free_hook()")

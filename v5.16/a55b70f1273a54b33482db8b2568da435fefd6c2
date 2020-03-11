@@ -1,0 +1,8 @@
+a55b70f1273a ("block: remove bio_start_io_acct_time")
+5f0614a55ece ("block: change exported IO accounting interface from gendisk to bdev")
+e45c47d1f94e ("block: add bio_start_io_acct_time() to control start_time")
+450b7879e345 ("block: move blk_account_io_{start,done} to blk-mq.c")
+f2b8f3ce989d ("block: move blk_steal_bios to blk-mq.c")
+06c8c691e282 ("block: move request based cloning helpers to blk-mq.c")
+786d4e01c550 ("block: remove rq_flush_dcache_pages")
+79478bf9ea9f ("block: move blk_rq_err_bytes to scsi")

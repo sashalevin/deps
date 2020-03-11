@@ -1,0 +1,7 @@
+f8af4519dfb6 ("irqchip/gic-v3: Fix __iomem warning")
+3ca63f363f3f ("irqchip/gic-v3-its: Add VPENDBASER/VPROPBASER accessors")
+92116b804a02 ("ARM: gic-v3-its: Add 32bit support to GICv3 ITS")
+0968a61918a9 ("irqchip/gic-v3-its: Specialise readq and writeq accesses")
+328191c05ed7 ("irqchip/gic-v3-its: Specialise flush_dcache operation")
+4f2546384150 ("ARM: Move system register accessors to asm/cp15.h")
+221bb8a46e23 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

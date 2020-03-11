@@ -1,0 +1,5 @@
+fe3241679009 ("tty: Drop tty->count on tty_reopen() failure")
+892d1fa7eaae ("tty: Destroy ldisc instance on hangup")
+7896f30d6fc6 ("tty: Refactor tty_ldisc_reinit() for reuse")
+c12da96f801a ("tty: Use 'disc' for line discipline index name")
+63d8cb3f19da ("tty: Simplify tty_set_ldisc() exit handling")

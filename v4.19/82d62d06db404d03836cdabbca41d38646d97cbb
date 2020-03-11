@@ -1,0 +1,5 @@
+82d62d06db40 ("btrfs: do not initialize dev stats if we have no dev_root")
+124604eb50f8 ("btrfs: init device stats for seed devices")
+440630ea7c37 ("btrfs: dev stats item key conversion per cpu type is not needed")
+ae4b9b4c7d54 ("btrfs: opencode reset of all device stats")
+4e411a7d0441 ("btrfs: reset device stat using btrfs_dev_stat_set")

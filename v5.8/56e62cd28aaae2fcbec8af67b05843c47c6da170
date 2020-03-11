@@ -1,0 +1,4 @@
+56e62cd28aaa ("x86/fault: Correct a few user vs kernel checks wrt WRUSS")
+ec352711ceba ("x86/fault: Fold mm_fault_error() into do_user_addr_fault()")
+968614fc7b84 ("mm/x86: use general page fault accounting")
+bce617edecad ("mm: do page fault accounting in handle_mm_fault")

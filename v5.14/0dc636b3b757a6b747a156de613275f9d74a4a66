@@ -1,0 +1,4 @@
+0dc636b3b757 ("x86: Pin task-stack in __get_wchan()")
+5d1ceb3969b6 ("x86: Fix __get_wchan() for !STACKTRACE")
+42a20f86dc19 ("sched: Add wrapper for get_wchan() to keep task blocked")
+bc9bbb81730e ("x86: Fix get_wchan() to support the ORC unwinder")

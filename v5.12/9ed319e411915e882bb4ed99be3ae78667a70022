@@ -1,0 +1,8 @@
+9ed319e41191 ("of: net: support NVMEM cells with MAC in text format")
+e330fb14590c ("of: net: move of_net under net/")
+c3496da580b0 ("net: Add depends on OF_NET for LiteX's LiteETH")
+ee7da21ac4c3 ("net: Add driver for LiteX's LiteETH network interface")
+f10843e04a07 ("of: net: fix of_get_mac_addr_nvmem() for non-platform devices")
+83216e3988cd ("of: net: pass the dst buffer to of_get_mac_address()")
+21e0b8fc1608 ("of: of_net: Provide function name and param description")
+3559c1ea4336 ("net: broadcom: bcm4908_enet: read MAC from OF")

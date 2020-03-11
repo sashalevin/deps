@@ -1,0 +1,5 @@
+393debc23c78 ("md: separate request handling")
+cc27b0c78c79 ("md: fix deadlock between mddev_suspend() and md_write_start()")
+a415c0f10627 ("md: initialise ->writes_pending in personality modules.")
+29efc390b946 ("md/md0: optimize raid0 discard handling")
+e265eb3a3054 ("Merge branch 'md-next' into md-linus")

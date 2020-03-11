@@ -1,0 +1,5 @@
+d31327922858 ("HID: usbhid: do not sleep when opening device")
+0ed08faded1d ("HID: usbhid: Fix race between usbhid_close() and usbhid_stop()")
+cf601774c9f2 ("HID: usbhid: fix "always poll" quirk")
+e399396a6b06 ("HID: usbhid: remove custom locking from usbhid_open/close")
+28cbc863f4bf ("HID: usbhid: do not rely on hid->open when deciding to do IO")

@@ -1,0 +1,4 @@
+bc55cfd5718c ("ALSA: pcm: Fix potential AB/BA lock with buffer_mutex and mmap_lock")
+3c3201f8c7bb ("ALSA: pcm: Fix races among concurrent prepare and hw_params/hw_free calls")
+92ee3c60ec9f ("ALSA: pcm: Fix races among concurrent hw_params and hw_free calls")
+931522b90813 ("ALSA: core: pcm: simplify locking for timers")

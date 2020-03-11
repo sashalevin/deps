@@ -1,0 +1,6 @@
+0c6793823d2b ("fs/fuse: introduce and use fuse_simple_idmap_request() helper")
+4be75ffe721c ("fuse: support idmapped ->rename op")
+556208e139e1 ("fuse: support idmap for mkdir/mknod/symlink/create/tmpfile")
+d561254fb7ba ("fuse: support idmapped FUSE_EXT_GROUPS")
+10dc721836c0 ("fuse: add an idmap argument to fuse_simple_request")
+aa16880d9f13 ("fuse: add basic infrastructure to support idmappings")

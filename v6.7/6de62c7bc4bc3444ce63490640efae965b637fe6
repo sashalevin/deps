@@ -1,0 +1,8 @@
+6de62c7bc4bc ("mm: pass a folio to swap_writepage_bdev_sync()")
+b99b4e0d9d7f ("mm: pass a folio to __swap_writepage()")
+96c7b0b42239 ("mm: return the folio from __read_swap_cache_async()")
+e947ba0bbf47 ("mm/zswap: cleanup zswap_writeback_entry()")
+32acba4c0483 ("mm/zswap: refactor out __zswap_load()")
+c75f5c1e0f1d ("mm/zswap: reuse dstmem when decompress")
+b5ba474f3f51 ("zswap: shrink zswap pool based on memory pressure")
+a65b0e7607cc ("zswap: make shrinking memcg-aware")

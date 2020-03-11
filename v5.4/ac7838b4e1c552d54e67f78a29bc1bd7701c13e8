@@ -1,0 +1,5 @@
+ac7838b4e1c5 ("stackleak: remove redundant check")
+a12685e2d1f7 ("stackleak: move skip_erasing() check earlier")
+dcb85f85fa6f ("gcc-plugins/stackleak: Use noinstr in favor of notrace")
+feee1b8c4908 ("gcc-plugins/stackleak: Use asm instrumentation to avoid useless register saving")
+8d97fb393c5c ("gcc-plugins/stackleak: Avoid assignment for unused macro argument")

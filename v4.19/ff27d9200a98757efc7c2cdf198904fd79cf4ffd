@@ -1,0 +1,7 @@
+ff27d9200a98 ("powerpc/405: Fix build failure with GCC 12 (unrecognized opcode: `wrteei')")
+446cda1b21d9 ("powerpc/32: Don't always pass -mcpu=powerpc to the compiler")
+af5cd05de5dd ("powerpc: Fix defconfig choice logic when cross compiling")
+9bd10b649826 ("powerpc: Allow CPU selection of G4/74xx variant")
+ebd1d3b74f85 ("powerpc/32: Move the old 6xx -mcpu logic before the TARGET_CPU logic")
+d7cceda96bad ("powerpc: change CONFIG_6xx to CONFIG_PPC_BOOK3S_32")
+2a056f58fd33 ("powerpc: consolidate -mno-sched-epilog into FTRACE flags")

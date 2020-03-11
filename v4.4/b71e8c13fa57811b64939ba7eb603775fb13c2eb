@@ -1,0 +1,5 @@
+b71e8c13fa57 ("block: mtip32xx: Remove call to memset after dma_alloc_coherent")
+a4e84aae8139 ("mtip32xx: use runtime tag to initialize command header")
+008e56d20022 ("mtip32xx: Cleanup queued requests after surprise removal")
+51c6570eb922 ("mtip32xx: Handle safe removal during IO")
+6f3b0e8bcf3c ("blk-mq: add a flags parameter to blk_mq_alloc_request")

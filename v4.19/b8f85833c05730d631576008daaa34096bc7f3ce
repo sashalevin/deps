@@ -1,0 +1,7 @@
+b8f85833c057 ("cpufreq: exit() callback is optional")
+f339f3541701 ("cpufreq: Rearrange locking in cpufreq_remove_dev()")
+fddd8f86dff4 ("cpufreq: Split cpufreq_offline()")
+e1e962c5b9ed ("cpufreq: Reorganize checks in cpufreq_offline()")
+bcc61569997b ("cpufreq: Move the IS_ENABLED(CPU_THERMAL) macro into a stub")
+91a12e91dc39 ("cpufreq: Allow light-weight tear down and bring up of CPUs")
+5c238a8b599f ("cpufreq: Auto-register the driver as a thermal cooling device if asked")

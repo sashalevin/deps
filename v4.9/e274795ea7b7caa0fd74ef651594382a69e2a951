@@ -1,0 +1,5 @@
+e274795ea7b7 ("locking/mutex: Fix mutex handoff")
+b341afb325eb ("locking/mutex: Enable optimistic spinning of woken waiter")
+5bbd7e644378 ("locking/mutex: Restructure wait loop")
+9d659ae14b54 ("locking/mutex: Add lock handoff to avoid starvation")
+3ca0ff571b09 ("locking/mutex: Rework mutex::owner")

@@ -1,0 +1,6 @@
+adf1e17edc65 ("s390/entry: remove toolchain dependent micro-optimization")
+4c25f0ff6336 ("s390/entry: workaround llvm's IAS limitations")
+b5415c8f9755 ("s390/entry.S: factor out OUTSIDE macro")
+20232b18e534 ("s390/mcck: cleanup use of cleanup_sie_mcck")
+1874cb13d5d7 ("s390/mcck: fix invalid KVM guest condition check")
+5bcbe3285fb6 ("s390/mcck: fix calculation of SIE critical section size")

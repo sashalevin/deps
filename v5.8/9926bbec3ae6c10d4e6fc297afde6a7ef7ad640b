@@ -1,0 +1,8 @@
+9926bbec3ae6 ("thermal: cooling: Check Energy Model type in cpufreq_cooling and devfreq_cooling")
+f8d354e821b2 ("thermal/drivers/devfreq_cooling: Use device name instead of auto-numbering")
+4401117bf7fc ("thermal/drivers/devfreq_cooling: Fix the build when !ENERGY_MODEL")
+615510fe13bd ("thermal: devfreq_cooling: remove old power model and use EM")
+84e0d87c9944 ("thermal: devfreq_cooling: add new registration functions with Energy Model")
+229794eee27f ("thermal: devfreq_cooling: use a copy of device status")
+b8643a529930 ("thermal: devfreq_cooling: change tracing function and arguments")
+ecd1d2a3e4f8 ("thermal: cooling: Remove unused variable *tz")

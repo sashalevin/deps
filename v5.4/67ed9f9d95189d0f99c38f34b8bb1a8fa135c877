@@ -1,0 +1,8 @@
+67ed9f9d9518 ("drm: host1x: fix common struct sg_table related issues")
+fd323e9ef0a1 ("gpu: host1x: Put gather's BO on pinning error")
+26c8de5e5dea ("gpu: host1x: Optimize BOs usage when firewall is enabled")
+273da5a04696 ("drm/tegra: Reuse IOVA mapping where possible")
+2e8d8749f6f9 ("drm/tegra: Support DMA API for display controllers")
+af1cbfb9bf0f ("gpu: host1x: Support DMA mapping of buffers")
+80327ce3d4ed ("gpu: host1x: Overhaul host1x_bo_{pin,unpin}() API")
+7e3c53a096a9 ("drm/tegra: gem: Rename paddr -> iova")

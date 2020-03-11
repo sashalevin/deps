@@ -1,0 +1,4 @@
+cb8d9937e855 ("drivers/dma/tegra20-apb-dma.c: fix platform_get_irq.cocci warnings")
+2cd3d13cb4aa ("dmaengine: tegra-apb: Use devm_request_irq")
+41ffc423e117 ("dmaengine: tegra-apb: Clean up tasklet releasing")
+8e84172e372b ("dmaengine: tegra-apb: Prevent race conditions on channel's freeing")

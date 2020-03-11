@@ -1,0 +1,8 @@
+132b3b6aa618 ("mmc: dw_mmc: remove declaration of dw_mci_card_busy")
+671fa142fc03 ("mmc: dw_mmc: move dw_mci_get_cd forward to avoid declaration")
+8e6db1f65510 ("mmc: dw_mmc: move dw_mci_ctrl_reset forward to avoid declaration")
+4e7392b2ac6e ("mmc: dw_mmc: move dw_mci_reset forward to avoid declaration")
+b6d2d81c5c2d ("mmc: dw_mmc: improve the timeout polling code")
+d10111cf8586 ("mmc: dw_mmc: add the debug message for polling and non-removable")
+1c238a95a727 ("mmc: dw_mmc: check the "present" variable before checking flags")
+1f4d50790b74 ("mmc: dw_mmc: fix the debug message for checking card's present")

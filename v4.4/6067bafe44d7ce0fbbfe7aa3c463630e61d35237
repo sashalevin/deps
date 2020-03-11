@@ -1,0 +1,4 @@
+6067bafe44d7 ("mmc: core: use the defined function to check whether card is removable")
+1ff2575bcf42 ("mmc: core: Check for non-removable cards earlier in the error path")
+d234d2123fa7 ("mmc: core: Keep host claimed in mmc_rescan() while calling host ops")
+86236813ff23 ("mmc: core: Invoke ->card_event() callback only when needed")

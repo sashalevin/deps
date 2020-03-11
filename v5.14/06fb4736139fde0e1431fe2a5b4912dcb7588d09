@@ -1,0 +1,8 @@
+06fb4736139f ("kernfs: change kernfs_rename_lock into a read-write lock.")
+1a702dc88e15 ("kernfs: Separate kernfs_pr_cont_buf and rename_lock.")
+393c3714081a ("kernfs: switch global kernfs_rwsem lock to per-fs lock")
+410d591a1954 ("kernfs: don't create a negative dentry if inactive node exists")
+df6192f47d23 ("kernfs: dont call d_splice_alias() under kernfs node lock")
+47b5c64d0ab5 ("kernfs: use i_lock to protect concurrent inode updates")
+7ba0273b2f34 ("kernfs: switch kernfs to use an rwsem")
+c7e7c04274b1 ("kernfs: use VFS negative dentry caching")

@@ -1,0 +1,8 @@
+462696fd0fd2 ("lib/mpi: mpi_read_buffer(): fix buffer overflow")
+90f864e20029 ("lib/mpi: mpi_read_buffer(): replace open coded endian conversion")
+f00fa2417b3e ("lib/mpi: mpi_read_buffer(): optimize skipping of leading zero limbs")
+d75529068964 ("lib/mpi: mpi_write_sgl(): replace open coded endian conversion")
+cece762f6f3c ("lib/mpi: mpi_write_sgl(): fix out-of-bounds stack access")
+ea122be0b8f7 ("lib/mpi: mpi_write_sgl(): purge redundant pointer arithmetic")
+654842ef53d7 ("lib/mpi: mpi_write_sgl(): fix style issue with lzero decrement")
+f2d1362ff7d2 ("lib/mpi: mpi_write_sgl(): fix skipping of leading zero limbs")

@@ -1,0 +1,6 @@
+da405477e767 ("firmware: arm_scmi: Add qcom smc/hvc transport support")
+1f17395124a5 ("firmware: arm_scmi: Convert u32 to unsigned long to align with arm_smccc_1_1_invoke()")
+5f2ea10a808a ("firmware: arm_scmi: Augment SMC/HVC to allow optional parameters")
+0bfdca8a8661 ("firmware: arm_scmi: Add atomic mode support to smc transport")
+117542b81fe7 ("firmware: arm_scmi: Make smc support sync_cmds_completed_on_ret")
+f716cbd33f03 ("firmware: arm_scmi: Make smc transport use common completions")

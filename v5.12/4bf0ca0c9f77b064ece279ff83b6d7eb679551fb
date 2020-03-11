@@ -1,0 +1,6 @@
+4bf0ca0c9f77 ("IB/hfi1: Get rid of hot path divide")
+d47dfc2b00e6 ("IB/hfi1: Remove cache and embed txreq in ring")
+70d44c18a7b3 ("IB/hfi1: Use napi_schedule_irqoff() for tx napi")
+b536d4b2a279 ("IB/hfi1: Correct oversized ring allocation")
+042a00f93aad ("IB/{ipoib,hfi1}: Add a timeout handler for rdma_netdev")
+4bd00b55c978 ("IB/hfi1: Add AIP tx traces")

@@ -1,0 +1,6 @@
+6dd3fa9fcc66 ("iio: adc: ad9467: use chip_info variables instead of array")
+283026528e0e ("iio: adc: ad9467: Silence no spi_device_id warnings")
+eb61343dfd21 ("iio: adc: ad9467: add support for AD9265 high-speed ADC")
+4606d0f4b05f ("iio: adc: ad9467: add support for AD9434 high-speed ADC")
+337dbb6ec1ac ("iio: adc: ad9467: wrap a axi-adc chip-info into a ad9467_chip_info type")
+13ca1a1be501 ("iio: adc: ad9467: return ENODEV vs EINVAL in ad9467_setup()")

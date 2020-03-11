@@ -1,0 +1,5 @@
+dd54fd7dfa45 ("random: use init_utsname() instead of utsname()")
+f62384995e4c ("random: split initialization into early step and later step")
+d349ab99eec7 ("random: handle archrandom with multiple longs")
+0b9ba6135d7f ("um: seed rng using host OS rng")
+9592eef7c16e ("random: remove CONFIG_ARCH_RANDOM")

@@ -1,0 +1,6 @@
+a12f1ae61c48 ("aio: fix lock dep warning")
+70fe2f48152e ("aio: fix freeze protection of aio writes")
+89319d31d2d0 ("fs: remove aio_run_iocb")
+723c038475b7 ("fs: remove the never implemented aio_fsync file operation")
+0b944d3a4bba ("aio: hold an extra file reference over AIO read/write operations")
+69370471d0b2 ("Merge branch 'work.iov_iter' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

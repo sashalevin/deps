@@ -1,0 +1,4 @@
+7b3c70c43c13 ("raid6: test: only check for Altivec if building on powerpc hosts")
+633174a7046e ("lib/raid6/test/Makefile: Use $(pound) instead of \# for Make 4.3")
+aa9532d4899f ("lib/raid6: Build proper raid6test files on powerpc")
+751ba79cc552 ("lib/raid6/altivec: Add vpermxor implementation for raid6 Q syndrome")

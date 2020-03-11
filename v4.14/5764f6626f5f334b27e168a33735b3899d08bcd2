@@ -1,0 +1,5 @@
+5764f6626f5f ("modpost: drop executable ELF support")
+d2e4d05cf1a1 ("modpost: fix potential segmentation fault for addend_i386_rel()")
+4b8a5cfb5fd3 ("modpost: Get proper section index by get_secindex() instead of st_shndx")
+afa0459daa7b ("modpost: add a helper to get data pointed by a symbol")
+54a7151b1496 ("kbuild: modversions: Fix relative CRC byte order interpretation")

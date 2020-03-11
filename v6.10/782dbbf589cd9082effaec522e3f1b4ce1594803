@@ -1,0 +1,5 @@
+782dbbf589cd ("netdev_features: convert NETIF_F_FCOE_MTU to dev->fcoe_mtu")
+05c1280a2bcf ("netdev_features: convert NETIF_F_NETNS_LOCAL to dev->netns_local")
+00d066a4d4ed ("netdev_features: convert NETIF_F_LLTX to dev->lltx")
+beb5a9bea823 ("netdevice: convert private flags > BIT(31) to bitfields")
+45160cebd6ac ("net: veth: Disable netpoll support")

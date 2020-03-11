@@ -1,0 +1,8 @@
+1d103d6af241 ("usb: typec: ucsi: fix UCSI on buggy Qualcomm devices")
+c6165ed2f425 ("usb: ucsi: glink: use the connector orientation GPIO to provide switch events")
+62b5412b1f4a ("usb: typec: ucsi: add PMIC Glink UCSI driver")
+72849d4fcee7 ("usb: typec: ucsi: stm32g0: add support for stm32g0 controller")
+512df95b9432 ("usb: typec: ucsi: Better fix for missing unplug events issue")
+bd19ac98f77e ("usb: typec: ucsi: Read the PDOs in separate work")
+6cbe4b2d5a3f ("usb: typec: ucsi: Check the partner alt modes always if there is PD contract")
+b9aa02ca39a4 ("usb: typec: ucsi: Add polling mechanism for partner tasks like alt mode checking")

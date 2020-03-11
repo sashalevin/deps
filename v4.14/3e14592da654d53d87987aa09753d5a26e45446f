@@ -1,0 +1,8 @@
+3e14592da654 ("scsi: gdth: Only call dma_free_coherent when buf is not NULL in ioc_general")
+bb327df8326e ("scsi: gdth: use generic DMA API")
+d8e1e6add226 ("scsi: gdth: remove interrupt coalescing support")
+314814552a0a ("scsi: gdth: remove ISA and EISA support")
+463563fa745a ("scsi: gdth: remove gdth_{alloc,free}_ioctl")
+8d22022c3a56 ("scsi: gdth: reuse dma coherent allocation in gdth_show_info")
+9f475ebff8e4 ("scsi: gdth: refactor ioc_general")
+91ebc1facd77 ("scsi: core: remove Scsi_Cmnd typedef")

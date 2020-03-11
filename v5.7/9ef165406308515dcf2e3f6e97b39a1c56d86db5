@@ -1,0 +1,8 @@
+9ef165406308 ("usb: typec: wcove: Drop wrong dependency to INTEL_SOC_PMIC")
+25f1ca31e230 ("platform/x86: intel_pmc_ipc: Convert to MFD")
+b8da68f44f6d ("platform/x86: intel_pmc_ipc: Move PCI IDs to intel_scu_pcidrv.c")
+7713f9180cb4 ("platform/x86: intel_pmc_ipc: Drop intel_pmc_ipc_command()")
+68c73fb22477 ("platform/x86: intel_telemetry: Convert to use new SCU IPC API")
+4181bc8f6fab ("mfd: intel_soc_pmic_bxtwc: Convert to use new SCU IPC API")
+ddcce057f50d ("platform/x86: intel_pmc_ipc: Start using SCU IPC")
+54b34aa0a729 ("platform/x86: intel_scu_ipc: Split out SCU IPC functionality from the SCU driver")

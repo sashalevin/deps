@@ -1,0 +1,6 @@
+94b5f312cfb4 ("locking/static_key: Don't take sleeping locks in __static_key_slow_dec_deferred()")
+b92e793bbe4a ("locking/static_key: Factor out the fast path of static_key_slow_dec()")
+ad282a8117d5 ("locking/static_key: Add support for deferred static branches")
+a1247d06d010 ("locking/static_key: Fix false positive warnings on concurrent dec/inc")
+e9666d10a567 ("jump_label: move 'asm goto' support test to Kconfig")
+668c35f69cc7 ("Merge tag 'kbuild-v4.21' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

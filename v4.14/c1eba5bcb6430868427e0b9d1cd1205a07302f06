@@ -1,0 +1,6 @@
+c1eba5bcb643 ("timer: Pass timer_list pointer to callbacks unconditionally")
+8ede369b2ccc ("timer: Remove expires argument from __TIMER_INITIALIZER()")
+1d27e3e2252b ("timer: Remove expires and data arguments from DEFINE_TIMER")
+1ff97897454b ("timer: Remove users of expire and data arguments to DEFINE_TIMER")
+fca7ce5b7c6d ("timer: Remove unused static initializer macros")
+51487d9ed1e3 ("timer: Remove last user of TIMER_INITIALIZER")

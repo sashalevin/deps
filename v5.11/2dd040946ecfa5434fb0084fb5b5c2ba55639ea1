@@ -1,0 +1,5 @@
+2dd040946ecf ("drm/mgag200: Store values (not bits) in struct mgag200_pll_values")
+f86c3ed55920 ("drm/mgag200: Split PLL setup into compute and update functions")
+83c90cdb7525 ("drm/mgag200: Remove P_ARRAY_SIZE")
+147696720eca ("drm/mgag200: Select clock in PLL update functions")
+0c9d59c3dbcf ("drm/mgag200: make a const array static, makes object smaller")

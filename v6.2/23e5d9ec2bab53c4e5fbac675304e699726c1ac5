@@ -1,0 +1,6 @@
+23e5d9ec2bab ("x86/mm/iommu/sva: Make LAM and SVA mutually exclusive")
+f7d304343b9d ("mm: Expose untagging mask in /proc/$PID/status")
+2f8794bd087e ("x86/mm: Provide arch_prctl() interface for LAM")
+74c228d20a51 ("x86/uaccess: Provide untagged_addr() and remove tags before address check")
+82721d8b25d7 ("x86/mm: Handle LAM on context switch")
+5ef495e55f07 ("x86: Allow atomic MM_CONTEXT flags setting")

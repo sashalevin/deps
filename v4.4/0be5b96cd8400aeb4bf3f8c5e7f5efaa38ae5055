@@ -1,0 +1,6 @@
+0be5b96cd840 ("e1000e: factor out systim sanitization")
+3d05b15b03da ("e1000e: prevent division by zero if TIMINCA is zero")
+18dd23920703 ("e1000e: use BIT() macro for bit defines")
+ab507c9a54ce ("e1000e: e1000e_cyclecounter_read(): do overflow check only if needed")
+a07fd74d5ea9 ("e1000e: e1000e_cyclecounter_read(): fix er32(SYSTIML) overflow check")
+fb5277f2c2e4 ("e1000e: e1000e_cyclecounter_read(): incvalue is 32 bits, not 64")

@@ -1,0 +1,7 @@
+cc4b2dd95f0d ("erofs: fix infinite loop due to a race of filling compressed_bvecs")
+0ee3a0d59e00 ("erofs: enable sub-page compressed block support")
+192351616a9d ("erofs: support I/O submission for sub-page compressed blocks")
+e4c1cf523d82 ("erofs: tidy up z_erofs_do_read_page()")
+aeebae9d7721 ("erofs: move preparation logic into z_erofs_pcluster_begin()")
+dcba1b232e26 ("erofs: avoid obsolete {collector,collection} terms")
+8b00be163f7b ("erofs: simplify z_erofs_read_fragment()")

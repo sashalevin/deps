@@ -1,0 +1,5 @@
+70994becf2d0 ("drm/i915/uncore: cast iomem to avoid sparse warning")
+9ebb80e80e47 ("drm/i915: Drop intel_gt_tile_cleanup()")
+45474ca4814f ("drm/i915: Use managed allocations for extra uncore objects")
+639e30ee3950 ("drm/i915: Only hook up uncore->debug for primary uncore")
+f16bfc1d5de0 ("drm/i915: Move locking and unclaimed check into mmio_debug_{suspend, resume}")

@@ -1,0 +1,6 @@
+18564756ab32 ("s390/fpu: get rid of MACHINE_HAS_VX")
+af6ed37eb0be ("s390/fpu: remove "novx" option")
+d7271ba40155 ("KVM: s390: remove superfluous save_fpu_regs() call")
+702644249d3e ("s390/fpu: get rid of test_fp_ctl()")
+3b2e00f167f4 ("KVM: s390: use READ_ONCE() to read fpc register value")
+8b13601d19c5 ("s390/ptrace: handle setting of fpc register correctly")

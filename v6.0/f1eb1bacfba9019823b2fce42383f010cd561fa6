@@ -1,0 +1,8 @@
+f1eb1bacfba9 ("mm/uffd: always wr-protect pte in pte|pmd_mkuffd_wp()")
+6a56ccbcf6c6 ("mm/autonuma: use can_change_(pte|pmd)_writable() to replace savedwrite")
+eb309ec89953 ("mm/mprotect: factor out check whether manual PTE write upgrades are required")
+c27f479ef542 ("mm/huge_memory: try avoiding write faults when changing PMD protection")
+2e3468778dbe ("mm: remember young/dirty bit for page migrations")
+0d206b5d2e0d ("mm/swap: add swp_offset_pfn() to fetch PFN from swap entry")
+eba4d770efc8 ("mm/swap: comment all the ifdef in swapops.h")
+33024536bafd ("memory tiering: hot page selection with hint page fault latency")

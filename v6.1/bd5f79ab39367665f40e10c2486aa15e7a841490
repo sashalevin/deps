@@ -1,0 +1,5 @@
+bd5f79ab3936 ("mm/sparse: remove unused parameters in sparse_remove_section()")
+5033091de814 ("mm/hwpoison: introduce per-memory_block hwpoison counter")
+a46c9304b4bb ("mm/hwpoison: pass pfn to num_poisoned_pages_*()")
+d027122d8363 ("mm/hwpoison: move definitions of num_poisoned_pages_* to memory-failure.c")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")

@@ -1,0 +1,4 @@
+5f51c5d0e905 ("x86/efi: Drop EFI stub .bss from .data section")
+26a92425f9a3 ("efi/x86: Remove __efistub_global and add relocation check")
+420b6d00ca94 ("efi/arm: Remove __efistub_global annotation")
+2e0eb483c058 ("efi/libstub: Move arm-stub to a common file")

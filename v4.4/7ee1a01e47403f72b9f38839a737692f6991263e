@@ -1,0 +1,8 @@
+7ee1a01e4740 ("gpio: mvebu: fix potential user-after-free on probe")
+6c7515c61ffa ("gpio: mvebu: change compatible string for PWM support")
+757642f9a584 ("gpio: mvebu: Add limited PWM support")
+d2cabc4a23f8 ("gpio: mvebu: use BIT macro instead of bit shifting")
+f07708c43b37 ("gpio: mvebu: let the compiler inline")
+812d47889a8e ("gpio/mvebu: Use irq_domain_add_linear")
+00b9ab4a25cf ("gpio: mvebu: Use devm_gpiochip_add_data() for gpio registration")
+bbe760041a05 ("gpio: mvebu: use gpiochip data pointer")

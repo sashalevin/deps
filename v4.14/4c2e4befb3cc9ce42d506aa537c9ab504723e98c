@@ -1,0 +1,5 @@
+4c2e4befb3cc ("pipe, sysctl: drop 'min' parameter from pipe-max-size converter")
+fb910c42cceb ("sysctl: check for UINT_MAX before unsigned int min/max")
+7a8d181949fb ("pipe: add proc_dopipe_max_size() to safely assign pipe_max_size")
+d3f14c485867 ("pipe: avoid round_pipe_size() nr_pages overflow on 32-bit")
+98159d977f71 ("pipe: match pipe_max_size data type with procfs")

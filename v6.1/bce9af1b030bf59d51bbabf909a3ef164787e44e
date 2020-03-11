@@ -1,0 +1,8 @@
+bce9af1b030b ("ice: Fix increasing MSI-X on VF")
+4035c72dc1ba ("ice: reconfig host after changing MSI-X on VF")
+2a2cb4c6c181 ("ice: replace ice_vf_recreate_vsi() with ice_vf_reconfig_vsi()")
+4d38cb44bd32 ("ice: manage VFs MSI-X using resource tracking")
+05c16687e0cc ("ice: set MSI-X vector count on VF")
+537dfe06acca ("ice: introduce .irq_close VF operation")
+5531bb851fba ("ice: convert vf_ops .vsi_rebuild to .create_vsi")
+b5dcff1fd57a ("ice: add a function to initialize vf entry")

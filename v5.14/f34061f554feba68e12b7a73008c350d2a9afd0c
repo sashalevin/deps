@@ -1,0 +1,4 @@
+f34061f554fe ("xfs: pass explicit mount pointer to rtalloc query functions")
+159eb69dba8b ("xfs: make the record pointer passed to query_range functions const")
+9ab72f222774 ("xfs: fix off-by-one error when the last rt extent is in use")
+c02f6529864a ("xfs: make xfs_rtalloc_query_range input parameters const")

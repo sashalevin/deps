@@ -1,0 +1,6 @@
+ac0c26bae662 ("hwmon: (lm25066) Use i2c_get_match_data()")
+b7792f3ea392 ("hwmon: (pmbus/lm25066) Add OF device ID table")
+df60a5daa7fb ("hwmon: (pmbus/lm25066) Mark lm25066_coeff array const")
+b7931a7b0e0d ("hwmon: (pmbus/lm25066) Let compiler determine outer dimension of lm25066_coeff")
+6d2ff184cbe7 ("hwmon: (pmbus/lm25066) Avoid forward declaration of lm25066_id")
+dd43193976b9 ("hwmon (pmbus) use simple i2c probe function")

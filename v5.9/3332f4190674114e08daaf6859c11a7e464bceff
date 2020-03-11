@@ -1,0 +1,7 @@
+3332f4190674 ("riscv: mremap speedup - enable HAVE_MOVE_PUD and HAVE_MOVE_PMD")
+e88b333142e4 ("riscv: mm: add THP support on 64-bit")
+c22b0bcb1dd0 ("riscv: Add kprobes supported")
+3e5b0bdb2a4d ("riscv: Add support pte_protnone and pmd_protnone if CONFIG_NUMA_BALANCING")
+31564b8b6dba ("riscv: Add HAVE_IRQ_TIME_ACCOUNTING")
+11129e8ed4d9 ("riscv: use memcpy based uaccess for nommu again")
+5e6e9852d6f7 ("uaccess: add infrastructure for kernel builds with set_fs()")

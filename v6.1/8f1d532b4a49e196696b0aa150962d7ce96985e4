@@ -1,0 +1,6 @@
+8f1d532b4a49 ("tls: drop unnecessary cipher_type checks in tls offload")
+3bab3ee0f95e ("tls: get salt using crypto_info_salt in tls_enc_skb")
+8db44ab26beb ("tls: rename tls_cipher_size_desc to tls_cipher_desc")
+037303d67607 ("tls: reduce size of tls_cipher_size_desc")
+200e23165109 ("tls: add TLS_CIPHER_ARIA_GCM_* to tls_cipher_size_desc")
+fd0fc6fdd889 ("tls: move tls_cipher_size_desc to net/tls/tls.h")

@@ -1,0 +1,4 @@
+96d990239e31 ("mm/mmap: introduce unlock_range() for code cleanup")
+cb4922496ae4 ("mm: unmap VM_PFNMAP mappings with optimized path")
+b4cefb360512 ("mm: unmap VM_HUGETLB mappings with optimized path")
+dd2283f2605e ("mm: mmap: zap pages with read mmap_sem in munmap")

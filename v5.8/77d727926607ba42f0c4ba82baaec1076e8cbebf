@@ -1,0 +1,4 @@
+77d727926607 ("x86/kvm: Don't waste kvmclock memory if there is nopv parameter")
+92e68cc55877 ("x86/kvmclock: Fix Hyper-V Isolated VM's boot issue when vCPUs > 64")
+3c51d0a6c761 ("x86/kvm: Don't waste memory if kvmclock is disabled")
+d7eb79c6290c ("KVM: kvmclock: Fix vCPUs > 64 can't be online/hotpluged")

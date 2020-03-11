@@ -1,0 +1,4 @@
+bc962159e8e3 ("cifs: avoid race conditions with parallel reconnects")
+1bcd548d935a ("cifs: prevent data race in cifs_reconnect_tcon()")
+e77978de4765 ("cifs: update ip_addr for ses only for primary chan setup")
+3c0070f54b31 ("cifs: prevent data race in smb2_reconnect()")

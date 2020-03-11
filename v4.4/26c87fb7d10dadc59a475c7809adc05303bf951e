@@ -1,0 +1,6 @@
+26c87fb7d10d ("fs: remove do_compat_readv_writev")
+20223f0f39ea ("fs: pass on flags in compat_writev")
+7687a7a4435f ("vfs: extract common parts of {compat_,}do_readv_writev()")
+f17d8b35452c ("vfs: vfs: Define new syscalls preadv2,pwritev2")
+793b80ef14af ("vfs: pass a flags argument to vfs_readv/vfs_writev")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

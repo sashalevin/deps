@@ -1,0 +1,8 @@
+07b8ca3792de ("net/l2tp: convert tunnel rwlock_t to rcu")
+9d319a8e9309 ("l2tp: avoid duplicated code in l2tp_tunnel_closeall")
+ab141e3733d1 ("l2tp: remove noisy logging, use appropriate log levels")
+b2aecfe8e490 ("l2tp: don't export __l2tp_session_unhash")
+cd3e29b333cc ("l2tp: remove BUG_ON in l2tp_tunnel_closeall")
+0febc7b3cd17 ("l2tp: cleanup comparisons to NULL")
+20dcb1107ab1 ("l2tp: cleanup comments")
+b71a61ccfebb ("l2tp: cleanup whitespace use")

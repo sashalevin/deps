@@ -1,0 +1,7 @@
+64dbb2d70744 ("PCI/ASPM: Disable L1 before configuring L1 Substates")
+c198fafa0125 ("PCI/ASPM: Call pci_save_ltr_state() from pci_save_pcie_state()")
+17423360a27a ("PCI/ASPM: Save L1 PM Substates Capability for suspend/resume")
+1e11b5494c3d ("PCI/ASPM: Move pci_save_ltr_state() to aspm.c")
+f3994bba8200 ("PCI/ASPM: Always build aspm.c")
+fa84f4435a62 ("PCI/ASPM: Move pci_configure_ltr() to aspm.c")
+1abb47390350 ("Merge branch 'pci/enumeration'")

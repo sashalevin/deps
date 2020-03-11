@@ -1,0 +1,6 @@
+03b51416e876 ("powerpc/module_64: Consolidate ftrace code")
+336a7b5dd80a ("powerpc/module: Create a special stub for ftrace_caller()")
+f17c4e01e906 ("powerpc/module: Mark module stubs with a magic value")
+136cd3450af8 ("powerpc/module: Only try to generate the ftrace_caller() stub once")
+7523e4dc5057 ("module: use a structure to encapsulate layout.")
+20ef10c1b306 ("module: Use the same logic for setting and unsetting RO/NX")

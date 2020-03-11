@@ -1,0 +1,7 @@
+e618447cf492 ("net: airoha: Allow mapping IO region for multiple qdma controllers")
+9a2500ab22f0 ("net: airoha: Add airoha_qdma pointer in airoha_tx_irq_queue/airoha_queue structures")
+19e47fc2aeda ("net: airoha: Move irq_mask in airoha_qdma structure")
+245c7bc86b19 ("net: airoha: Move airoha_queues in airoha_qdma")
+16874d1cf381 ("net: airoha: Introduce airoha_qdma struct")
+4e076ff6ad53 ("net: airoha: Fix NULL pointer dereference in airoha_qdma_cleanup_rx_queue()")
+23020f049327 ("net: airoha: Introduce ethernet support for EN7581 SoC")

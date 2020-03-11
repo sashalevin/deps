@@ -1,0 +1,3 @@
+156172a13ff0 ("irq_work: Make irq_work_queue() NMI-safe again")
+e2b5bcf9f5ba ("irq_work: record irq_work_queue() call stack")
+471ba0e686cb ("irq_work: Do not raise an IPI when queueing work on the local CPU")

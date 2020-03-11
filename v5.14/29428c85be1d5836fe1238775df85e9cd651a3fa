@@ -1,0 +1,6 @@
+29428c85be1d ("drm/i915/dsi: Do DSC/scaler disable earlier on icl+")
+a57aa1e36919 ("drm/i915/dsi: Move most things from .disable() into .post_disable() on icl+")
+c0a52f8bd755 ("drm/i915/backlight: mass rename functions to have intel_backlight_ prefix")
+6cc42fbeb150 ("drm/i915/backlight: extract backlight code to a separate file")
+cdad39216afd ("drm/i915: keep backlight_enable on until turn eDP display off")
+544021e3f2aa ("drm/i915/jsl: Add W/A 1409054076 for JSL")

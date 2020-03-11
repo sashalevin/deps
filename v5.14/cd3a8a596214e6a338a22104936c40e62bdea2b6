@@ -1,0 +1,5 @@
+cd3a8a596214 ("drm/ttm: remove ttm_bo_(un)lock_delayed_workqueue")
+98f561884683 ("drm/amdgpu: flush delete wq after wait fence")
+691191a2f458 ("drm/amd/amdgpu:flush ttm delayed work before cancel_sync")
+e78b3197dbf7 ("drm/amd/amdgpu: skip locking delayed work if not initialized.")
+403797925768 ("drm/ttm: Fix multihop assert on eviction.")

@@ -1,0 +1,7 @@
+fe7d9d804337 ("rust: kernel: make impl_has_work compatible with more generics")
+115c95e9e14c ("rust: workqueue: add `try_spawn` helper method")
+47f0dbe8fdc2 ("rust: workqueue: implement `WorkItemPointer` for pointer types")
+7324b88975c5 ("rust: workqueue: add helper for defining work_struct fields")
+033941307471 ("rust: workqueue: define built-in queues")
+d4d791d4aac0 ("rust: workqueue: add low-level workqueue bindings")
+a8321776ca0b ("rust: sync: add `Arc::{from_raw, into_raw}`")

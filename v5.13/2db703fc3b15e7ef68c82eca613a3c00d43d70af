@@ -1,0 +1,8 @@
+2db703fc3b15 ("selftests/sgx: Ensure enclave data available during debug print")
+1b35eb719549 ("selftests/sgx: Encpsulate the test enclave creation")
+147172148909 ("selftests/sgx: Dump segments and /proc/self/maps only on failure")
+3200505d4de6 ("selftests/sgx: Create a heap for the test enclave")
+39f62536be2f ("selftests/sgx: Assign source for each segment")
+040efd1c35f9 ("selftests/sgx: Dump enclave memory map")
+235d1c9c6308 ("selftests/sgx: Migrate to kselftest harness")
+6a7171b8a0f8 ("selftests/sgx: Rename 'eenter' and 'sgx_call_vdso'")

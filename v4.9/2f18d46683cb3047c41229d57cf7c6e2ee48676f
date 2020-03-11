@@ -1,0 +1,7 @@
+2f18d46683cb ("rbd: refactor rbd_wait_state_locked()")
+e010dd0ada61 ("rbd: exclusive map option")
+3b77faa0495a ("rbd: return ResponseMessage result from rbd_handle_request_lock()")
+14bb211d324d ("rbd: support updating the lock cookie without releasing the lock")
+5769ed0cb12d ("rbd: fix error handling around rbd_init_disk()")
+fd22aef8b47c ("rbd: move rbd_unregister_watch() call into rbd_dev_image_release()")
+8b679ec5257e ("rbd: move rbd_dev_destroy() call out of rbd_dev_image_release()")

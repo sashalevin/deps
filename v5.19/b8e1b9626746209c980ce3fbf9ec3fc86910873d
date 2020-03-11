@@ -1,0 +1,3 @@
+b8e1b9626746 ("KVM: x86: Use lapic_in_kernel() to query in-kernel APIC in APICv helper")
+ce0a58f4756c ("KVM: x86: Move "apicv_active" into "struct kvm_lapic"")
+d39850f57d21 ("KVM: x86: Drop @vcpu parameter from kvm_x86_ops.hwapic_isr_update()")

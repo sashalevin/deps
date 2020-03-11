@@ -1,0 +1,5 @@
+5d13243820c4 ("blk-wbt: remove the separate write cache tracking")
+645a829e0338 ("blk-wbt: don't create wbt sysfs entry if CONFIG_BLK_WBT is disabled")
+0bc65bd41dfd ("blk-wbt: move private information from blk-wbt.h to blk-wbt.c")
+958f29654747 ("blk-wbt: pass a gendisk to wbt_init")
+04aad37be1a8 ("blk-wbt: pass a gendisk to wbt_{enable,disable}_default")

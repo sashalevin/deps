@@ -1,0 +1,5 @@
+df4928818b30 ("btrfs: remove root argument from btrfs_delayed_item_reserve_metadata()")
+763748b238ef ("btrfs: reduce amount of reserved metadata for delayed item insertion")
+c9d02ab4b436 ("btrfs: set delayed item type when initializing it")
+3bae13e9d42e ("btrfs: do not BUG_ON() on failure to reserve metadata for delayed item")
+a176affe547c ("btrfs: assert that delayed item is a dir index item when adding it")

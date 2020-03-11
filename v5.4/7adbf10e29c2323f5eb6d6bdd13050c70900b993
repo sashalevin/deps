@@ -1,0 +1,8 @@
+7adbf10e29c2 ("arm64: compat: Allow signal page to be remapped")
+0cbc2659123e ("arm64: vdso32: Remove a bunch of #ifdef CONFIG_COMPAT_VDSO guards")
+a39060b009ca ("arm64: compat: Allow 32-bit vdso and sigpage to co-exist")
+1d09094aa620 ("arm64: vdso: use consistent 'map' nomenclature")
+d3418f3839b6 ("arm64: vdso: use consistent 'abi' nomenclature")
+3ee16ff3437c ("arm64: vdso: simplify arch_vdso_type ifdeffery")
+74fc72e77dc5 ("arm64: vdso: remove aarch32_vdso_pages[]")
+9cc3d0c6915a ("arm64: vdso: don't free unallocated pages")

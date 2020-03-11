@@ -1,0 +1,6 @@
+f068090426ea ("xhci: Fix leaking USB3 shared_hcd at xhci removal")
+c508f41da078 ("xhci: hisilicon: support HiSilicon STB xHCI host controller")
+3ae2da7b28b3 ("usb: host: xhci-plat: Fix clock resource by adding a register clock")
+2d79609bf21e ("usb: host: xhci-plat: Remove useless test before clk_disable_unprepare")
+6ae9f5062aa6 ("usb: host: xhci-mtk: remove custom USB PHY handling")
+4750bc78efdb ("usb: host: xhci support option to disable the xHCI USB2 HW LPM")

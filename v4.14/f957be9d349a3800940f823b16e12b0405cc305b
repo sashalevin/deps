@@ -1,0 +1,4 @@
+f957be9d349a ("netfilter: conntrack: remove ctnetlink callbacks from l3 protocol trackers")
+90964016e5d3 ("netfilter: nf_conntrack: add IPS_OFFLOAD status bit")
+8252fceac015 ("netfilter: add ifdef around ctnetlink_proto_size")
+5caaed151a68 ("netfilter: conntrack: don't cache nlattr_tuple_size result in nla_size")

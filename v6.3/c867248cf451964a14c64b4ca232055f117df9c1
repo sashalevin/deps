@@ -1,0 +1,4 @@
+c867248cf451 ("selinux: avoid implicit conversions regarding enforcing status")
+1f270f1c3412 ("selinux: consistently use u32 as sequence number type in the status code")
+e67b79850fcc ("selinux: stop passing selinux_state pointers and their offspring")
+f62ca0b6e31d ("selinux: uninline unlikely parts of avc_has_perm_noaudit()")

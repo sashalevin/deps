@@ -1,0 +1,7 @@
+ed4090a22c12 ("perf stat: Reset aggr stats for each run")
+49de179577e7 ("perf stat: No need to setup affinities when starting a workload")
+472832d2c000 ("perf evlist: Refactor evlist__for_each_cpu()")
+fba7c86601e2 ("libperf: Move 'leader' from tools/perf to perf_evsel::leader")
+38fe0e0156c0 ("libperf: Move 'idx' from tools/perf to perf_evsel::idx")
+944138f048f7 ("perf stat: Enable BPF counter with --for-each-cgroup")
+ce09673636f9 ("Merge remote-tracking branch 'torvalds/master' into perf/core")

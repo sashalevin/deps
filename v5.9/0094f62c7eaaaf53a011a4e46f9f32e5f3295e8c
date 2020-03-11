@@ -1,0 +1,4 @@
+0094f62c7eaa ("KVM: x86: Disallow writes to immutable feature MSRs after KVM_RUN")
+0204750bd4c6 ("KVM: x86: Mask off unsupported and unknown bits of IA32_ARCH_CAPABILITIES")
+7131636e7ea5 ("KVM: x86: Allow guests to see MSR_IA32_TSX_CTRL even if tsx=off")
+eb3db1b13788 ("KVM: VMX: Rename the "shared_msr_entry" struct to "vmx_uret_msr"")

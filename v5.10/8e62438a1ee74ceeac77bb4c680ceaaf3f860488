@@ -1,0 +1,5 @@
+8e62438a1ee7 ("drm/i915: Workaround async flip + VT-d corruption on HSW/BDW")
+5f461660db17 ("drm/i915/pm: replace I915_READ()/WRITE() with intel_uncore_read()/write()")
+96eaeb3dfa40 ("drm/i915: Use _MMIO_PIPE3() for ilk+ WM0_PIPE registers")
+4d6bde58a026 ("drm/i915: Apply WAC6entrylatency to kbl/cfl")
+da942750928a ("drm/i915/dg1: Add initial DG1 workarounds")

@@ -1,0 +1,4 @@
+bb4c0419476b ("cifs: smbd: Don't use RDMA read/write when signing is used")
+bd3dcc6a22a9 ("CIFS: SMBD: Upper layer performs SMB read via RDMA write through memory registration")
+db223a590d45 ("CIFS: SMBD: Upper layer performs SMB write via RDMA read through memory registration")
+09902f8dc849 ("CIFS: SMBD: Set SMB Direct maximum read or write size for I/O")

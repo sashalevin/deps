@@ -1,0 +1,4 @@
+be79afc740b5 ("riscv: Enable HAVE_ARCH_HUGE_VMALLOC for 64BIT")
+310f541a027b ("riscv: Enable HAVE_ARCH_HUGE_VMAP for 64BIT")
+42e0e0b453bc ("riscv: code patching only works on !XIP_KERNEL")
+adebc8817b5c ("riscv: Select HAVE_DYNAMIC_FTRACE when -fpatchable-function-entry is available")

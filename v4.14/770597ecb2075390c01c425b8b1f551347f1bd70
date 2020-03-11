@@ -1,0 +1,7 @@
+770597ecb207 ("nvme-pci: Free tagset if no IO queues")
+2b1b7e784a63 ("nvme-pci: fix NULL pointer reference in nvme_alloc_ns")
+999ada28713d ("nvme: check for a live controller in nvme_dev_open")
+a6a5149b10ec ("nvme: get rid of nvme_ctrl_list")
+d22524a4782a ("nvme: switch controller refcounting to use struct device")
+c6424a90da44 ("nvme: simplify nvme_open")
+9843f685ae36 ("nvme: use ida_simple_{get,remove} for the controller instance")

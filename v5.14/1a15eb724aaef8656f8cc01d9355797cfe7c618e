@@ -1,0 +1,3 @@
+1a15eb724aae ("btrfs: use btrfs_get_dev_args_from_path in dev removal ioctls")
+3fa421dedbc8 ("btrfs: delay blkdev_put until after the device remove")
+e4571b8c5e9f ("btrfs: fix NULL pointer dereference when deleting device by invalid id")

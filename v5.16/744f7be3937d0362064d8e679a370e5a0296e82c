@@ -1,0 +1,8 @@
+744f7be3937d ("hwmon: (dell-smm) Prepare for multiple SMM calling backends")
+688fcd047ef0 ("hwmon: (dell-smm) Move error message to make probing silent")
+c10d52d6eda3 ("hwmon: (dell-smm) Improve assembly code")
+981c5f3c744b ("hwmon: (dell-smm) Warn if SMM call took a very long time to execute")
+4fc1a51c8572 ("hwmon: (dell-smm) Avoid unnecessary SMM calls during init")
+c82fdd42fb50 ("hwmon: (dell-smm) Improve temperature sensors detection")
+4d9983dee5d4 ("hwmon: (dell-smm) Make fan/temp sensor number a u8")
+565210c78120 ("hwmon: (dell-smm) Pack the whole smm_regs struct")

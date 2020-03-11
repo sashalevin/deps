@@ -1,0 +1,5 @@
+0803e6051c15 ("swiotlb: Make swiotlb_{alloc,free}_buffer depend on CONFIG_DMA_DIRECT_OPS")
+0176adb00406 ("swiotlb: refactor coherent buffer allocation")
+a25381aa3ae6 ("swiotlb: refactor coherent buffer freeing")
+251533eb35b2 ("swiotlb: add common swiotlb_map_ops")
+d0bc0c2a31c9 ("swiotlb: suppress warning when __GFP_NOWARN is set")

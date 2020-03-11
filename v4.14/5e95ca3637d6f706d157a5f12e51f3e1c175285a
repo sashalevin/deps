@@ -1,0 +1,6 @@
+5e95ca3637d6 ("iio: imu: inv_mpu6050: dynamic sampling rate change")
+7b782508f829 ("iio: imu: inv_mpu6050: switch to use sample rate divider")
+edddddd98cbd ("iio: imu: inv_mpu6050: fix user_ctrl register overwritten")
+ca4c8fc97e66 ("iio: imu: inv_mpu6050: fix possible deadlock between mutex and iio")
+880b2d6cfdca ("iio: imu: inv_mpu6050: clean read channel data error path")
+6792b4552b0a ("iio: imu: inv_mpu6050: clean read raw by factorizing out raw data")

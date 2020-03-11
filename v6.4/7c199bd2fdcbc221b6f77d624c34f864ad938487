@@ -1,0 +1,7 @@
+7c199bd2fdcb ("serial: 8250: omap: Parse DT wakeup-source proerty")
+4179df77e5f5 ("serial: 8250: omap: Set wakeup capable, do not enable")
+7e1efdf8fce4 ("serial: 8250: Convert to platform remove callback returning void")
+182fb83d596b ("serial: 8250_aspeed_vuart: Use devm_clk_get_enabled()")
+e8bbaeac2550 ("serial: 8250_aspeed_vuart: Use dev_err_probe() instead of dev_err()")
+b6c7ff2693dd ("serial: 8250_mtk: Simplify clock sequencing and runtime PM")
+398cecc24846 ("serial: 8250: omap: Fix imprecise external abort for omap_8250_pm()")

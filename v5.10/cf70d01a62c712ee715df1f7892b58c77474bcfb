@@ -1,0 +1,8 @@
+cf70d01a62c7 ("pwm: dwc: Use devm_pwmchip_add()")
+a357d1493f0c ("pwm: dwc: Move memory allocation to own function")
+f7c843d6d7f8 ("pwm: dwc: Change &pci->dev to dev in probe")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+97960addcd9f ("pwm: Add PWM fan controller driver for LGM SoC")
+1ed2b3fca645 ("pwm: Add DesignWare PWM Controller Driver")
+bd899ceb8f91 ("pwm: Add PWM driver for Intel Keem Bay")
+5e5da1e9fbee ("pwm: ab8500: Explicitly allocate pwm chip base dynamically")

@@ -1,0 +1,7 @@
+c7f79f2620b7 ("openvswitch: prepare for stolen verdict coming from conntrack and nat engine")
+ebddb1404900 ("net: move the nat function to nf_nat_ovs for ovs and tc")
+0564c3e51bc7 ("net: sched: update the nat flag for icmp error packets in ct_nat_execute")
+2b85144ab36e ("openvswitch: return NF_DROP when fails to add nat ext in ovs_ct_nat")
+779592892133 ("openvswitch: return NF_ACCEPT when OVS_CT_NAT is not set in info nat")
+bf14f4923d51 ("openvswitch: delete the unncessary skb_pull_rcsum call in ovs_ct_nat_execute")
+f2bb566f5c97 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

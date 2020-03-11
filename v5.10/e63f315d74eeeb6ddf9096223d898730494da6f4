@@ -1,0 +1,6 @@
+e63f315d74ee ("KVM: X86: Move CR0 pdptr_bits into header file as X86_CR0_PDPTR_BITS")
+5ec60aad547f ("KVM: VMX: Add and use X86_CR4_TLBFLUSH_BITS when !enable_ept")
+aed89418de9a ("KVM: x86: Revert "KVM: x86: Mark GPRs dirty when written"")
+f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")
+2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")
+1c04d8c98656 ("KVM: x86: Mark GPRs dirty when written")

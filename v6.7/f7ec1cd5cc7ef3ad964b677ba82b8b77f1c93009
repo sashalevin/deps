@@ -1,0 +1,2 @@
+f7ec1cd5cc7e ("getrusage: use sig->stats_lock rather than lock_task_sighand()")
+daa694e41375 ("getrusage: move thread_group_cputime_adjusted() outside of lock_task_sighand()")

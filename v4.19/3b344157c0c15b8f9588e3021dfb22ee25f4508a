@@ -1,0 +1,8 @@
+3b344157c0c1 ("mm: remove try_to_free_swap()")
+e2e3fdc7d4af ("swap: turn get_swap_page() into folio_alloc_swap()")
+03104c2c5db8 ("mm/swapfile: remove stale reuse_swap_page()")
+84d60fdd3733 ("mm: slightly clarify KSM logic in do_swap_page()")
+ca6d60f3f18b ("mm: Turn putback_lru_page() into folio_putback_lru()")
+3ecb0087ecee ("mm/memcg: Convert mem_cgroup_swapout() to take a folio")
+d1d8a3b4d06d ("mm: Turn isolate_lru_page() into folio_isolate_lru()")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

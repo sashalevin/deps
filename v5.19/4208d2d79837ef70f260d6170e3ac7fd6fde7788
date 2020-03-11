@@ -1,0 +1,4 @@
+4208d2d79837 ("x86/head: Mark *_start_kernel() __noreturn")
+f697cb00afa9 ("x86/xen: mark xen_pv_play_dead() as __noreturn")
+336f560a8917 ("x86/xen: don't let xen_pv_play_dead() return")
+c93c296fff6b ("x86/sev: Mark snp_abort() noreturn")

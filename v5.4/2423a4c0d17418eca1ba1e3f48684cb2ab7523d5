@@ -1,0 +1,4 @@
+2423a4c0d174 ("KVM: nVMX: Rename vmcs_to_field_offset{,_table}")
+c1a527a1de46 ("KVM: x86: Clean up redundant ROL16(val, n) macro definition")
+ba1f82456ba8 ("KVM: nVMX: Dynamically compute max VMCS index for vmcs12")
+693e02cc2409 ("kvm: nVMX: VMWRITE checks unsupported field before read-only field")

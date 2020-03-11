@@ -1,0 +1,3 @@
+2b5160b12091 ("ipmi: bail out if init_srcu_struct fails")
+913a89f009d9 ("ipmi: Don't initialize anything in the core until something uses it")
+445e2cbda928 ("ipmi: msghandler: Add and use pr_fmt and dev_fmt, remove PFX")

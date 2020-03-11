@@ -1,0 +1,5 @@
+6126891c6d4f ("memcg: enable accounting for IP address and routing-related objects")
+4127c6504f25 ("mm: kmem: enable kernel memcg accounting from interrupt contexts")
+37d5985c003d ("mm: kmem: prepare remote memcg charging infra for interrupt contexts")
+279c3393e2c1 ("mm: kmem: move memcg_kmem_bypass() calls to get_mem/obj_cgroup_from_current()")
+b87d8cefe43c ("mm, memcg: rework remote charging API to support nesting")

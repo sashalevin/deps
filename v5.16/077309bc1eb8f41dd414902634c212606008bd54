@@ -1,0 +1,8 @@
+077309bc1eb8 ("migrate_pages(): fix failure counting for retry")
+69a041ff5058 ("mm/migration: fix potential page refcounts leak in migrate_pages")
+f430893b01e7 ("mm/migration: remove some duplicated codes in migrate_pages")
+dcee9bf5bf2f ("mm/migrate: move node demotion code to near its user")
+7813a1b5257b ("mm: migrate: add more comments for selecting target node randomly")
+ac16ec835314 ("mm: migrate: support multiple target nodes demotion")
+5d39a7ebc8be ("mm: migrate: correct the hugetlb migration stats")
+b5bade978e9b ("mm: migrate: fix the return value of migrate_pages()")

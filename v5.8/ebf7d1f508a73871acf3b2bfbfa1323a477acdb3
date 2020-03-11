@@ -1,0 +1,5 @@
+ebf7d1f508a7 ("bpf, x64: rework pro/epilogue and tailcall handling in JIT")
+7f6e4312e15a ("bpf: Limit caller's stack depth 256 for subprogs with tailcalls")
+cf71b174d346 ("bpf: rename poke descriptor's 'ip' member to 'tailcall_target'")
+0d4ddce300bd ("bpf, x64: use %rcx instead of %rax for tail call retpolines")
+1e6c62a88215 ("bpf: Introduce sleepable BPF programs")

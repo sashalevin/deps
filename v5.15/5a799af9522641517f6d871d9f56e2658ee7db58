@@ -1,0 +1,7 @@
+5a799af95226 ("powerpc/mm: Update the memory limit based on direct mapping restrictions")
+5ca096161cdc ("powerpc/mm: Align memory_limit value specified using mem= kernel parameter")
+dc222fa77372 ("powerpc/64: Move paca allocation to early_setup()")
+519b2e317e39 ("powerpc/64: don't set boot CPU's r13 to paca until the structure is set up")
+2f5182cffa43 ("powerpc/64s: early boot machine check handler")
+799f7063c764 ("powerpc/64: mark irqs hard disabled in boot paca")
+2e7f1e2b30b5 ("powerpc/64: Move paca allocation later in boot")

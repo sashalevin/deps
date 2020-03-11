@@ -1,0 +1,6 @@
+f9dfb5e390fa ("x86/fpu: Make init_fpstate correct with optimized XSAVE")
+a063bf249b9f ("x86/fpu: Use proper mask to replace full instruction mask")
+6d79d86f9600 ("x86/fpu: Simplify kernel_fpu_begin()")
+b78ea19ac22f ("x86/fpu: Simplify kernel_fpu_end()")
+8d3289f2fa1e ("x86/fpu: Don't use current->mm to check for a kthread")
+8ff468c29e9a ("Merge branch 'x86-fpu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+1827b0678863 ("lan78xx: Read LED states from Device Tree")
+760db29bdc97 ("lan78xx: Read MAC address from DT if present")
+8c56ea410efb ("net: lan78xx: fix build errors when linux/phy*.h is removed from net/dsa.h")
+146498ea0614 ("MAINTAINERS: Add LAN78XX entry")
+349e0c5e2237 ("lan78xx: add ethtool set & get pause functions")
+e270b2dbd83c ("lan78xx: remove unnecessary code")
+e4953910aee0 ("lan78xx: change to use updated phy-ignore-interrupts")
+e7f4dc3536a4 ("mdio: Move allocation of interrupts into core")

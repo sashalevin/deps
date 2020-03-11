@@ -1,0 +1,4 @@
+d32cdbfb0ba3 ("locking/lglock: Remove lglock implementation")
+e6253970413d ("stop_machine: Remove stop_cpus_lock and lg_double_lock/unlock()")
+ce4f06dcbb5d ("stop_machine: Touch_nmi_watchdog() after MULTI_STOP_PREPARE")
+4aff1ca6970a ("stop_machine: Change __stop_cpus() to rely on cpu_stop_queue_work()")

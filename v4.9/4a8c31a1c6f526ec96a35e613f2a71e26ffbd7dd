@@ -1,0 +1,3 @@
+4a8c31a1c6f5 ("xen/blkback: rework connect_ring() to avoid inconsistent xenstore 'ring-page-order' set by malicious blkfront")
+5b8e432dbb0e ("xen/blkback: add stack variable 'blkif' in connect_ring()")
+8235777b2068 ("xen: make use of xenbus_read_unsigned() in xen-blkback")

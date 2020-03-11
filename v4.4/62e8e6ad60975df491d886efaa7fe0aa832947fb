@@ -1,0 +1,5 @@
+62e8e6ad6097 ("mei: rename variable names 'file_object' to fp")
+f23e2cc4bb1d ("mei: constify struct file pointer")
+d0df8dfb8582 ("mei: amthif: don't drop read packets on timeout")
+f862b6b24f0f ("mei: fix possible integer overflow issue")
+8b2458f413c4 ("mei: always copy the read buffer if data is ready")

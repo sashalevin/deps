@@ -1,0 +1,6 @@
+7e09a052dc4e ("ravb: Exclude gPTP feature support for RZ/G2L")
+cb537b241725 ("ravb: Use unsigned int for num_tx_desc variable in struct ravb_private")
+36e69da892f1 ("net: ethernet: ravb: Fix release of refclk")
+8ef7adc6beb2 ("net: ethernet: ravb: Enable optional refclk")
+a6f51f2efa74 ("ravb: Add support for explicit internal clock delay configuration")
+ce19a9eb53be ("ravb: Split delay handling in parsing and applying")

@@ -1,0 +1,4 @@
+095fe4891282 ("tracing: Limit trace_marker writes to just 4K")
+8ec90be7f15f ("tracing: Allow for max buffer data size trace_marker writes")
+7e42907f3a7b ("ring-buffer: Fix deadloop issue on reading trace_pipe")
+36590c50b2d0 ("tracing: Merge irqflags + preempt counter.")

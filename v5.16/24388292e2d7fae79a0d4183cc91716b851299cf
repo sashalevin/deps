@@ -1,0 +1,7 @@
+24388292e2d7 ("x86/decompressor: Move global symbol references to C code")
+8b63cba746f8 ("x86/decompressor: Store boot_params pointer in callee save register")
+264b82fdb498 ("x86/decompressor: Don't rely on upper 32 bits of GPRs being preserved")
+7734a0f31e99 ("x86/boot: Robustify calling startup_{32,64}() from the decompressor code")
+ec1c66af3a30 ("x86/compressed/64: Detect/setup SEV/SME features earlier during boot")
+f94909ceb1ed ("x86: Prepare asm files for straight-line-speculation")
+22da5a07c75e ("x86/lib/atomic64_386_32: Rename things")

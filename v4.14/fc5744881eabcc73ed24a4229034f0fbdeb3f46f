@@ -1,0 +1,6 @@
+fc5744881eab ("mm/page_alloc: invert logic for early page initialisation checks")
+3c0c12cc8f00 ("mm/page_alloc.c: don't call kasan_free_pages() at deferred mem init")
+c9e97a1997fb ("mm: initialize pages on demand during boot")
+3c2c64884284 ("mm/page_alloc.c: fix typos in comments")
+d135e5750205 ("mm/page_alloc.c: broken deferred calculation")
+66e8b438bd5c ("mm/memblock.c: make the index explicit argument of for_each_memblock_type")

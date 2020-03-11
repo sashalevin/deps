@@ -1,0 +1,5 @@
+973e5405f2f6 ("xen/blkback: don't keep persistent grants too long")
+d4bf0065b725 ("xen/blkback: make pool of persistent grants and free pages per-queue")
+d62d86000316 ("xen/blkback: get the number of hardware queues/rings from blkfront")
+2fb1ef4f1226 ("xen/blkback: pseudo support for multi hardware queues/rings")
+597957000ab5 ("xen/blkback: separate ring information out of struct xen_blkif")

@@ -1,0 +1,7 @@
+80e9963fb3b5 ("irqchip/gic-v3-its: Fix VSYNC referencing an unmapped VPE on GIC v4.1")
+64edfaa9a234 ("irqchip/gic-v4.1: Implement the v4.1 flavour of VMAPP")
+8e01d9a396e6 ("KVM: arm64: vgic-v4: Move the GICv4 residency flow to be driven by vcpu_load/put")
+5eeaf10eec39 ("KVM: arm/arm64: Sync ICH_VMCR_EL2 back when about to block")
+accb99bcd0ca ("KVM: arm/arm64: Simplify bg_timer programming")
+7aa8d1464165 ("arm/arm64: KVM: Introduce kvm_call_hyp_ret()")
+8a411b060f82 ("KVM: arm/arm64: Remove arch timer workqueue")

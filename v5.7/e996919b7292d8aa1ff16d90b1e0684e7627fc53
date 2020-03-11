@@ -1,0 +1,6 @@
+e996919b7292 ("Documentation: fix sysctl/kernel.rst heading format warnings")
+60c958d8df9c ("panic: add sysctl to dump all CPUs backtraces on oops event")
+0ec9dc9bcba0 ("kernel/hung_task.c: introduce sysctl to print all traces when a hung task is detected")
+f461d2dcd511 ("sysctl: avoid forward declarations")
+2374c09b1c8a ("sysctl: remove all extern declaration from sysctl.c")
+26363af56434 ("mm: remove watermark_boost_factor_sysctl_handler")

@@ -1,0 +1,4 @@
+62d19b358088 ("wifi: brcmfmac: fweh: Add __counted_by for struct brcmf_fweh_queue_item and use struct_size()")
+c597ede4030d ("net: brcmfmac: Convey allocation mode as argument")
+687006e20c44 ("net: brcmfmac: Convey execution context via argument to brcmf_netif_rx()")
+232c897eb5ca ("brcmfmac: Replace zero-length array with flexible-array member")

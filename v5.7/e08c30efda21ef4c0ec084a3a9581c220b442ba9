@@ -1,0 +1,5 @@
+e08c30efda21 ("fbdev: imsttfb: fix double free in probe()")
+5cf9a090a39c ("fbdev: imsttfb: Release framebuffer and dealloc cmap on error path")
+c75f5a550610 ("fbdev: imsttfb: Fix use after free bug in imsttfb_probe")
+13b7c0390a5d ("video: imsttfb: check for ioremap() failures")
+ed04fe8a0e87 ("Revert "video: imsttfb: fix potential NULL pointer dereferences"")

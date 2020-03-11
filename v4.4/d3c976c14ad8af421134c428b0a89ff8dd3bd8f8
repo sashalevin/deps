@@ -1,0 +1,4 @@
+d3c976c14ad8 ("sparc64: Fix regression in non-hypervisor TLB flush xcall")
+a74ad5e660a9 ("sparc64: Handle extremely large kernel TLB range flushes more gracefully.")
+a236441bb697 ("sparc64: Fix illegal relative branches in hypervisor patched TLB cross-call code.")
+b429ae4d5b56 ("sparc64: Fix illegal relative branches in hypervisor patched TLB code.")

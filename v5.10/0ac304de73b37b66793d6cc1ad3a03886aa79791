@@ -1,0 +1,7 @@
+0ac304de73b3 ("KVM: VMX: Use try_cmpxchg64 in pi_try_set_control")
+45af1bb99b72 ("KVM: VMX: Clean up PI pre/post-block WARNs")
+724b3962ef80 ("KVM: VMX: Move Posted Interrupt ndst computation out of write loop")
+cfb0e1306a37 ("KVM: VMX: Read Posted Interrupt "control" exactly once per loop iteration")
+29802380b679 ("KVM: VMX: Drop pointless PI.NDST update when blocking")
+c95717218add ("KVM: VMX: Drop unnecessary PI logic to handle impossible conditions")
+563c54c4d5b1 ("KVM: VMX: Use x2apic_mode to avoid RDMSR when querying PI state")

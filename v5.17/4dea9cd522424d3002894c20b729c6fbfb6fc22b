@@ -1,0 +1,8 @@
+4dea9cd52242 ("fs/ntfs3: Add file_modified")
+ad26a9c84510 ("fs/ntfs3: Fixing wrong logic in attr_set_size and ntfs_fallocate")
+0e5b044cbf3a ("fs/ntfs3: Refactoring attr_set_size to restore after errors")
+c1e0ab378921 ("fs/ntfs3: extend ni_insert_nonresident to return inserted ATTR_LIST_ENTRY")
+e4d2f4fd5341 ("fs/ntfs3: Enable FALLOC_FL_INSERT_RANGE")
+aa30eccb24e5 ("fs/ntfs3: Fallocate (FALLOC_FL_INSERT_RANGE) implementation")
+114346978cf6 ("fs/ntfs3: Check new size for limits")
+3880f2b816a7 ("fs/ntfs3: Fix fiemap + fix shrink file size (to remove preallocated space)")

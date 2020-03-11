@@ -1,0 +1,8 @@
+c9129371cb3d ("USB: serial: keyspan_pda: use usb_control_msg_recv()")
+66c32e483355 ("USB: serial: keyspan_pda: drop redundant usb-serial pointer")
+7184933b52a6 ("USB: serial: keyspan_pda: fix write implementation")
+79fe6826a5eb ("USB: serial: keyspan_pda: refactor write-room handling")
+320f9028c787 ("USB: serial: keyspan_pda: fix write unthrottling")
+37faf5061541 ("USB: serial: keyspan_pda: fix write-wakeup use-after-free")
+c01d2c58698f ("USB: serial: keyspan_pda: fix stalled writes")
+7353cad7ee4d ("USB: serial: keyspan_pda: fix write deadlock")

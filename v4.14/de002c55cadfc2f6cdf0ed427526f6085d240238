@@ -1,0 +1,8 @@
+de002c55cadf ("cpufreq: intel_pstate: Fix EPP setting via sysfs in active mode")
+3a9571760665 ("cpufreq: intel_pstate: Rearrange the storing of new EPP values")
+3ff79754d7a2 ("cpufreq: intel_pstate: Fix static checker warning for epp variable")
+f473bf398bf1 ("cpufreq: intel_pstate: Allow raw energy performance preference value")
+108ec36b6994 ("drivers/cpufreq: Convert some slow-path static_cpu_has() callers to boot_cpu_has()")
+af3b7379e2d7 ("cpufreq: intel_pstate: Force HWP min perf before offline")
+1111b7836c80 ("cpufreq: intel_pstate: use match_string() helper")
+59a3b3a8db16 ("cpufreq: AMD: Ignore the check for ProcFeedback in ST/CZ")

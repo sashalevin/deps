@@ -1,0 +1,4 @@
+4e260a8fd740 ("cifs: Implement splice_read to pass down ITER_BVEC not ITER_PIPE")
+d0677992d2af ("cifs: add support for flock")
+bc31d0cdcfba ("CIFS: fix POSIX lock leak and invalid ptr deref")
+cd1aca29fa02 ("cifs: add .splice_write")

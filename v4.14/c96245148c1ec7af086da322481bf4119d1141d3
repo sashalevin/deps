@@ -1,0 +1,8 @@
+c96245148c1e ("mm/mmu_notifiers: remove unregister_no_release")
+2c7933f53f6b ("mm/mmu_notifiers: add a get/put scheme for the registration")
+70df291bf81f ("mm/mmu_notifiers: do not speculatively allocate a mmu_notifier_mm")
+56c57103db17 ("mm/mmu_notifiers: hoist do_mmu_notifier_register down_write to the caller")
+c6d23413f81b ("mm/mmu_notifier: mmu_notifier_range_update_to_read_only() helper")
+6a90a83f1d19 ("mm/mmu_notifier.c: remove mmu_notifier_synchronize()")
+4e15a073a168 ("Revert "mm, mmu_notifier: annotate mmu notifiers with blockable invalidate callbacks"")
+5ff7091f5a2c ("mm, mmu_notifier: annotate mmu notifiers with blockable invalidate callbacks")

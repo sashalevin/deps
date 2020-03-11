@@ -1,0 +1,3 @@
+031a072a0b8a ("vfs: call vfs_clone_file_range() under freeze protection")
+913b86e92e1f ("vfs: allow vfs_clone_file_range() across mount points")
+3616119da484 ("vfs: no mnt_want_write_file() in vfs_{copy,clone}_file_range()")

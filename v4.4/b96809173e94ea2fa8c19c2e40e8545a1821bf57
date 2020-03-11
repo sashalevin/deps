@@ -1,0 +1,7 @@
+b96809173e94 ("security_d_instantiate(): move to the point prior to attaching dentry to inode")
+ed782b5a70a0 ("dcache.c: new helper: __d_add()")
+de689f5e3663 ("don't bother with __d_instantiate(dentry, NULL)")
+27f203f655a2 ("untangle fsnotify_d_instantiate() a bit")
+34d0d19dc092 ("uninline d_add()")
+668d0cd56ef7 ("replace d_add_unique() with saner primitive")
+a528aca7f359 ("use ->d_seq to get coherency between ->d_inode and ->d_flags")

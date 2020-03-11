@@ -1,0 +1,4 @@
+2bfc8134f958 ("perf evlist: Use zfree() to reduce chances of use after free")
+6657a099e185 ("perf record: Allow multiple recording time ranges")
+feff0b61ffd8 ("perf record: Change evlist->ctl_fd to use fdarray_flag__non_perf_event")
+6562c9acb43a ("perf record: Fix way of handling non-perf-event pollfds")

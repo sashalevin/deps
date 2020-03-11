@@ -1,0 +1,8 @@
+ef9f643a9f8b ("cacheinfo: Add use_arch[|_cache]_info field/function")
+7a306e3eabf2 ("cacheinfo: Check sib_leaf in cache_leaves_are_shared()")
+36bbc5b4ffab ("cacheinfo: Allow early detection and population of cache attributes")
+cc1cfc47ea47 ("cacheinfo: Add support to check if last level cache(LLC) is valid or shared")
+9447eb0f1575 ("cacheinfo: Move cache_leaves_are_shared out of CONFIG_OF")
+b14e8d21f726 ("cacheinfo: Add helper to access any cache index for a given CPU")
+d4ec840baecb ("cacheinfo: Use of_cpu_device_node_get instead cpu_dev->of_node")
+709c4362725a ("cacheinfo: Move resctrl's get_cache_id() to the cacheinfo header file")

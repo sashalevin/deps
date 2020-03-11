@@ -1,0 +1,5 @@
+468cdabe93c5 ("tty: serial: atmel: Add COMMON_CLK dependency to SERIAL_ATMEL")
+d6810a82c7c7 ("serial: Remove depends on HAS_DMA in case of platform dependency")
+72ce5732eeca ("tty/serial: atmel: Remove AVR32 bits from the driver")
+432f974801e2 ("tty/serial: atmel: increase ATMEL_MAX_UART")
+adcb05f01f36 ("tty: serial: Make the STM32 serial port depend on it's arch")

@@ -1,0 +1,4 @@
+8e4ff9b56957 ("drm: Remove the dma_alloc_coherent wrapper for internal usage")
+ea36ec8623f5 ("drm: Remove PageReserved manipulation from drm_pci_alloc")
+1be9d5f06996 ("drm/pci: Hide legacy PCI functions from non-legacy code")
+5c7a0bb0cffc ("drm/pci: Only build drm_pci.c if CONFIG_PCI is set")

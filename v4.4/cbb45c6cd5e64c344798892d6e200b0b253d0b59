@@ -1,0 +1,7 @@
+cbb45c6cd5e6 ("sctp: fix ignoring asoc_id for tcp-style sockets on SCTP_DEFAULT_PRINFO sockopt")
+3a583059d187 ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_DEFAULT_PRINFO sockopt")
+d25adbeb0cdb ("sctp: fix an use-after-free issue in sctp_sock_dump")
+2cb5c8e378d1 ("sctp: Add peeloff-flags socket option")
+86fdb3448cc1 ("sctp: ensure ep is not destroyed before doing the dump")
+988c73221169 ("sctp: return next obj by passing pos + 1 into sctp_transport_get_idx")
+6b6cbc147167 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

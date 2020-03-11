@@ -1,0 +1,6 @@
+f57aec443c24 ("cxl/pmem: Fix nvdimm registration races")
+4a0079bc7aae ("nvdimm: Replace lockdep_mutex with local lock classes")
+3b6c6c039707 ("nvdimm/region: Delete nd_blk_region infrastructure")
+84bd3690bf54 ("nvdimm/namespace: Delete nd_namespace_blk")
+fadc38a6672a ("nvdimm/namespace: Delete blk namespace consideration in shared paths")
+d9d290d7e659 ("nvdimm/region: Fix default alignment for small regions")

@@ -1,0 +1,6 @@
+57234bc10385 ("ALSA: usb-audio: Stop both endpoints properly at error")
+e93e890e16ef ("ALSA: usb-audio: Improve some debug prints")
+1803503fe963 ("ALSA: usb-audio: Set and clear sync EP link properly")
+c7474d09777c ("ALSA: usb-audio: Add snd_usb_get_endpoint() helper")
+4974b7950929 ("ALSA: usb-audio: Don't call usb_set_interface() at trigger callback")
+dc5eafe7787c ("ALSA: usb-audio: Support PCM sync_stop")

@@ -1,0 +1,4 @@
+36c6b7613ef1 ("scsi: hisi_sas: Initialise devices in .slave_alloc callback")
+49da96d77938 ("scsi: libsas: Add LUN number check in .slave_alloc callback")
+57dbb2b218eb ("scsi: hisi_sas: Send HARD RESET to clear the previous affiliation of STP target port")
+ffb1c820b8b6 ("scsi: hisi_sas: remove the check of sas_dev status in hisi_sas_I_T_nexus_reset()")

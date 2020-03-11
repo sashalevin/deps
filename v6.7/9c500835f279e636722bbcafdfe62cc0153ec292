@@ -1,0 +1,6 @@
+9c500835f279 ("mm: zswap: fix kernel BUG in sg_init_one")
+270700dd06ca ("mm/zswap: remove the memcpy if acomp is not sleepable")
+8ba2f844f050 ("mm/zswap: change per-cpu mutex and buffer to per-acomp_ctx")
+32acba4c0483 ("mm/zswap: refactor out __zswap_load()")
+c75f5c1e0f1d ("mm/zswap: reuse dstmem when decompress")
+a65b0e7607cc ("zswap: make shrinking memcg-aware")

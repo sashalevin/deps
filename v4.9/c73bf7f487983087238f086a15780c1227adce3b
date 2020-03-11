@@ -1,0 +1,7 @@
+c73bf7f48798 ("firmware: remove unused __fw_state_is_done()")
+5d47ec02c37e ("firmware: Correct handling of fw_state_wait() return value")
+fab82cb3f1e1 ("firmware: move fw_state_is_done() into UHM section")
+5b029624948d ("firmware: do not use fw_lock for fw_state protection")
+0430cafcc4fb ("firmware: drop bit ops in favor of simple state machine")
+f52cc379423d ("firmware: refactor loading status")
+2e700f8d8597 ("firmware: fix usermode helper fallback loading")

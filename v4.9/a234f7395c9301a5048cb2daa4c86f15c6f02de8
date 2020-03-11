@@ -1,0 +1,4 @@
+a234f7395c93 ("libata: switch to dynamic allocation instead of ata_scsi_rbuf")
+8fc6c0657bf8 ("libata: call ->scsi_done from ata_scsi_simulate")
+506db3609cdf ("libata: remove the done callback from ata_scsi_args")
+f0a37d12f51a ("libata: move struct ata_scsi_args to libata-scsi.c")

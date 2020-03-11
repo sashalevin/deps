@@ -1,0 +1,4 @@
+862526523e71 ("serial: pch: remove xmit circ_buf size double check")
+fcfb1c3982b9 ("serial: pch: decomission pch_uart_hal_write()")
+d9f3af4fbb1d ("serial: pch: don't overwrite xmit->buf[0] by x_char")
+6c1f77c3781a ("serial: pch: move size check from pop_tx one level up")

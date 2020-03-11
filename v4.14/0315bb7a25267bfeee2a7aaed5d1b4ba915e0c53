@@ -1,0 +1,6 @@
+0315bb7a2526 ("kbuild: deb-pkg: do not run headers_check")
+175209cce23d ("kbuild: pkg: use -f $(srctree)/Makefile to recurse to top Makefile")
+d5615e472d23 ("builddeb: Fix inclusion of dtbs in debian package")
+bbcde0a72412 ("kbuild: deb-pkg: fix too low build version number")
+b41d920acff8 ("kbuild: deb-pkg: split generating packaging and build")
+bace64800bae ("builddeb: Pass the kernel:debarch substvar to dpkg-genchanges")

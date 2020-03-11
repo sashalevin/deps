@@ -1,0 +1,4 @@
+898387e40cf5 ("crypto: arm64/aes-ccm - avoid by-ref argument for ce_aes_ccm_auth_data")
+741691c44606 ("crypto: arm64/aes-ccm - reduce NEON begin/end calls for common case")
+b3482635e5d6 ("crypto: arm64/aes-ccm - remove non-SIMD fallback path")
+0e89640b640d ("crypto: arm64 - Use modern annotations for assembly functions")

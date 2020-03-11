@@ -1,0 +1,7 @@
+e85465e420be ("libbpf: Simplify barrier_var()")
+f760d0537925 ("libbpf: Provide barrier() and barrier_var() in bpf_helpers.h")
+f6e659b7f97c ("selftests/bpf: Measure bpf_loop verifier performance")
+c23551c9c36a ("selftests/bpf: Add exception handling selftests for tp_bpf program")
+3762a39ce85f ("selftests/bpf: Split out bpf_verif_scale selftests into multiple tests")
+dd65acf72d0e ("selftests/bpf: Remove SEC("version") from test progs")
+86a35af628e5 ("selftests/bpf: Add a verifier scale test with unknown bounded loop")

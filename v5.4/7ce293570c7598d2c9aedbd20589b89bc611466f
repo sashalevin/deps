@@ -1,0 +1,8 @@
+7ce293570c75 ("drm/amdgpu/nbio: add aldebaran support")
+f8a98f1645cd ("drm/amdgpu: fix incorrect EP_STRAP reg offset for aldebaran")
+28f87950d935 ("drm/amdgpu: clear ras controller status registers when interrupt occurs")
+4a2d93565ada ("drm/amdgpu: remove ras global recovery handling from ras_controller_int handler")
+7c6e68c777f1 ("drm/amdgpu: Avoid HW GPU reset for RAS.")
+12ffa55da60f ("drm/amdgpu: Fix bugs in amdgpu_device_gpu_recover in XGMI case.")
+4241863afce1 ("drm/amdgpu/nbio: add functions to query ras specific interrupt status")
+078ef4e93250 ("drm/amdgpu: add new amdgpu nbio header file")

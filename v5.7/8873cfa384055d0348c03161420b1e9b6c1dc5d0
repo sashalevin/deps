@@ -1,0 +1,6 @@
+8873cfa38405 ("drm/edid: Allow looking for ext blocks starting from a specified index")
+092c367ac6c6 ("drm/edid: Fix DispID tile parsing for override EDID")
+8e88c75245a3 ("drm/edid: Don't parse garbage as DispID blocks")
+ea0aa608a8e8 ("drm/edid: Move validate_displayid() drm_find_displayid_extension()")
+23b03867a220 ("drm/edid: Return DispID length from drm_find_displayid_extension()")
+3688118404ad ("drm/edid: Remove idx==1 assumptions from all over the DispID parsing")

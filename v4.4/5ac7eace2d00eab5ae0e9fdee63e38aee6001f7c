@@ -1,0 +1,6 @@
+5ac7eace2d00 ("KEYS: Add a facility to restrict new links into a keyring")
+5d2787cf0b21 ("KEYS: Add an alloc flag to convey the builtinness of a key")
+501f1bde6652 ("IMA: prevent keys on the .ima_blacklist from being removed")
+d3600bcf9d64 ("KEYS: prevent keys from being removed from specified keyrings")
+41c89b64d718 ("IMA: create machine owner and blacklist keyrings")
+f4dc37785e9b ("integrity: define '.evm' as a builtin 'trusted' keyring")

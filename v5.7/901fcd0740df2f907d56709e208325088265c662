@@ -1,0 +1,6 @@
+901fcd0740df ("spi: bcm2835aux: switch to use modern name")
+b651d1da86aa ("spi: bcm2835aux: Convert to use GPIO descriptors")
+7dfa69af2b5a ("spi: bcm2835aux: Call the dedicated transfer completion function.")
+e13ee6cc4781 ("spi: bcm2835aux: Fix use-after-free on unbind")
+5e94c3cdaa29 ("spi: bcm2835aux: support effective_speed_hz")
+b9dd3f6d4172 ("spi: bcm2835aux: Fix controller unregister order")

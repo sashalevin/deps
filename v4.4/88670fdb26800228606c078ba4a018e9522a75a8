@@ -1,0 +1,8 @@
+88670fdb2680 ("powerpc/ftrace: No need to read LR from stack in _mcount()")
+0c0c52306f47 ("powerpc: Only support DYNAMIC_FTRACE not static")
+ae30cc05bed2 ("powerpc64/ftrace: Implement support for ftrace_regs_caller()")
+ea678ac627e0 ("powerpc64/ftrace: Add a field in paca to disable ftrace in unsafe code paths")
+a4979a7e71eb ("powerpc/ftrace: Pass the correct stack pointer for DYNAMIC_FTRACE_WITH_REGS")
+096ff2ddba83 ("powerpc/ftrace/64: Split further based on -mprofile-kernel")
+7853f9c029ac ("powerpc: Split ftrace bits into a separate file")
+9fc849144c80 ("Merge branch 'topic/kprobes' into next")

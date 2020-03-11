@@ -1,0 +1,4 @@
+b243dcbf2f13 ("swap: remove remnants of polling from read_swap_cache_async")
+179d3e4f3bfa ("mm/madvise: clean up force_shm_swapin_readahead()")
+f3cd4ab0aabf ("mm/madvise: clean up pte_offset_map_lock() scans")
+07e8c82b5eff ("madvise: convert madvise_cold_or_pageout_pte_range() to use folios")

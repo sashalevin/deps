@@ -1,0 +1,5 @@
+79c1879ee547 ("iommu-helper: mark iommu_is_span_boundary as inline")
+ac2e8860cb54 ("mips: use swiotlb_{alloc,free}")
+57bf5a8963f8 ("dma-mapping: clear harmful GFP_* flags in common code")
+e9663b13c81b ("MIPS: Octeon: Avoid empty-body warning")
+72d1cfc924f8 ("MIPS: Loongson64: Fix empty-body warning in dma_alloc")

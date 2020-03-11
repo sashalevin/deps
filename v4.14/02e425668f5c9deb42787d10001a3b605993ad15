@@ -1,0 +1,4 @@
+02e425668f5c ("x86/vdso: Fix vDSO syscall fallback asm constraint regression")
+7c03e7035ac1 ("selftests/x86: Add clock_gettime() tests to test_vdso")
+715bd9d12f84 ("x86/vdso: Fix asm constraints on vDSO syscall fallbacks")
+198ee8e17502 ("selftests/x86: Fix vDSO selftest segfault for vsyscall=none")

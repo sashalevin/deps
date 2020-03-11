@@ -1,0 +1,5 @@
+b89b6a863dd5 ("bus: mhi: host: Add spinlock to protect WP access when queueing TREs")
+a0f5a630668c ("bus: mhi: Move host MHI code to "host" directory")
+4547a749be99 ("bus: mhi: core: Fix MHI runtime_pm behavior")
+68731852f6e5 ("bus: mhi: core: Return EAGAIN if MHI ring is full")
+a8f75cb348fd ("mhi: core: Factorize mhi queuing")

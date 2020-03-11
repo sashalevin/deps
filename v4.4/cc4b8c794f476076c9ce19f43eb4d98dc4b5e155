@@ -1,0 +1,6 @@
+cc4b8c794f47 ("mm: dax: add comment for PFN_SPECIAL")
+34c0fd540e79 ("mm, dax, pmem: introduce pfn_t")
+b2e0d1625e19 ("dax: fix lifetime of in-kernel dax mappings with dax_map_atomic()")
+fe683adabfe6 ("dax: guarantee page aligned results from bdev_direct_access()")
+0e749e54244e ("dax: increase granularity of dax_clear_blocks() operations")
+52db400fcd50 ("pmem, dax: clean up clear_pmem()")

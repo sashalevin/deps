@@ -1,0 +1,3 @@
+bed0a9b59149 ("kasan: add ability to detect double-kmem_cache_destroy()")
+7302e91f39a8 ("mm/slab_common: use WARN() if cache still has objects on destroy")
+4acaa7d5045e ("slab: use __func__ to trace function name")

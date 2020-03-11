@@ -1,0 +1,6 @@
+c65d1fd350fa ("gpio: sa1100: implement get_direction method")
+07242b248119 ("gpio: sa1100: convert to use IO accessors")
+9dd4819ed58a ("gpio: sa1100: use sa11x0_gpio_set_wake()")
+56beac95cb88 ("gpio: sa1100: fix irq probing for ucb1x00")
+4eab22e748b5 ("gpio: convert remaining users to gpiochip_add_data()")
+6a681b61470e ("gpio: sa1100: Be sure to clamp return value")

@@ -1,0 +1,6 @@
+27f0ad71699d ("net: fix hangup on napi_disable for threaded napi")
+cb038357937e ("net: fix race between napi kthread mode and busy poll")
+29863d41bb6e ("net: implement threaded-able napi poll loop support")
+7fd3253a7de6 ("net: Introduce preferred busy-polling")
+4d092dd2041a ("net: manage napi add/del idempotence explicitly")
+5198d545dba8 ("net: remove napi_hash_del() from driver-facing API")

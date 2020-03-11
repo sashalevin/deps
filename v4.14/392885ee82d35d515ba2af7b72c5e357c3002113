@@ -1,0 +1,6 @@
+392885ee82d3 ("kbuild: let fixdep directly write to .*.cmd files")
+00d78ab2ba75 ("kbuild: remove dead code in cmd_files calculation in top Makefile")
+3fca1700c4c3 ("kbuild: make samples really depend on headers_install")
+c4da7ed0e7d7 ("kbuild: optimize object directory creation for incremental build")
+8a78756eb545 ("kbuild: create object directories simpler and faster")
+2982c953570b ("kbuild: remove redundant $(wildcard ...) for cmd_files calculation")

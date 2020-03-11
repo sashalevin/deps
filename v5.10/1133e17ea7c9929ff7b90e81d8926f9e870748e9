@@ -1,0 +1,8 @@
+1133e17ea7c9 ("KVM: selftests: Use vm_create_with_vcpus in create_vm")
+e42ac777d661 ("KVM: selftests: Factor out guest mode code")
+22f232d134e1 ("KVM: selftests: x86: Set supported CPUIDs on default VM")
+0aa9ec45d427 ("KVM: selftests: Introduce vm_create_[default_]_with_vcpus")
+ec2f18bb4783 ("KVM: selftests: Make vm_create_default common")
+f63f0b68c864 ("KVM: selftests: always use manual clear in dirty_log_perf_test")
+84292e565951 ("KVM: selftests: Add dirty ring buffer test")
+60f644fb5198 ("KVM: selftests: Introduce after_vcpu_run hook for dirty log test")

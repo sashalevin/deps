@@ -1,0 +1,8 @@
+211ff31b3d33 ("iommu: Fix race condition during default domain allocation")
+79659190ee97 ("iommu: Don't take group reference in iommu_alloc_default_domain()")
+cf193888bfbd ("iommu: Move new probe_device path to separate function")
+41df6dcc0a3f ("iommu: Keep a list of allocated groups in __iommu_probe_device()")
+6e1aa2049154 ("iommu: Move default domain allocation to iommu_probe_device()")
+a6a4c7e2c5b8 ("iommu: Add probe_device() and release_device() call-backs")
+4cbf38511a00 ("iommu: Add def_domain_type() callback in iommu_ops")
+ff2a08b39bce ("iommu: Move default domain allocation to separate function")

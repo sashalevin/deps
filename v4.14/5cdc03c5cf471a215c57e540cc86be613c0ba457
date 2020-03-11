@@ -1,0 +1,4 @@
+5cdc03c5cf47 ("devtmpfs: convert to pr_fmt")
+d401727ea0d7 ("devtmpfs: don't mix {ramfs,shmem}_fill_super() with mount_single()")
+312db1aa1dc7 ("fs: add ksys_mount() helper; remove in-kernel calls to sys_mount()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")

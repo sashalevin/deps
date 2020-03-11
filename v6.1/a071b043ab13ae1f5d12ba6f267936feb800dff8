@@ -1,0 +1,7 @@
+a071b043ab13 ("workqueue: Remove useless pool->dying_workers")
+68f83057b913 ("workqueue: Reap workers via kthread_stop() and remove detach_completion")
+9680540c0c56 ("workqueue: use LIST_HEAD to initialize cull_list")
+e02b93124855 ("workqueue: Unbind kworkers before sending them to exit()")
+9ab03be42b8f ("workqueue: Don't hold any lock while rcuwait'ing for !POOL_MANAGER_ACTIVE")
+3f959aa3b338 ("workqueue: Convert the idle_timer to a timer + work_struct")
+793777bc193b ("workqueue: Factorize unbind/rebind_workers() logic")

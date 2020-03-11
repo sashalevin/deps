@@ -1,0 +1,8 @@
+fd3a88625844 ("net: in virtio_net_hdr only add VLAN_HLEN to csum_start if payload holds vlan")
+49da7e64f33e ("High Performance UML Vector Network Driver")
+635b8c8ecdd2 ("tap: Renaming tap related APIs, data structures, macros")
+a8e046987327 ("tap: Refactoring macvtap.c")
+837585a5375c ("macvtap: read vnet_hdr_size once")
+6391a4481ba0 ("virtio-net: restore VIRTIO_HDR_F_DATA_VALID on receiving")
+501db511397f ("virtio: don't set VIRTIO_NET_HDR_F_DATA_VALID on xmit")
+2745529ac735 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

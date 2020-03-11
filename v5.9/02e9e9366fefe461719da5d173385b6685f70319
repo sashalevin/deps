@@ -1,0 +1,4 @@
+02e9e9366fef ("vhost_vdpa: assign irq bypass producer token correctly")
+5e68470f4e80 ("vdpa: Add eventfd for the vdpa callback")
+cce0ab2b2a39 ("vhost_vdpa: don't setup irq offloading when irq_num < 0")
+86e182fe12ee ("vhost_vdpa: remove unnecessary spin_lock in vhost_vring_call")

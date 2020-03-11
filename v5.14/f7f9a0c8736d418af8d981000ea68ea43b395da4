@@ -1,0 +1,6 @@
+f7f9a0c8736d ("iov_iter: Map the page later in copy_page_from_iter_atomic()")
+a41dad905e5a ("iov_iter: saner checks for attempt to copy to/from iterator")
+40a86061a561 ("get rid of unlikely() on page_copy_sane() calls")
+f0f6b614f83d ("copy_page_to_iter(): don't split high-order page in case of ITER_PIPE")
+fcb14cb1bdac ("new iov_iter flavour - ITER_UBUF")
+5264406cdb66 ("Merge tag 'pull-work.iov_iter-base' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

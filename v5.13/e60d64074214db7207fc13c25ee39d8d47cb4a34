@@ -1,0 +1,8 @@
+e60d64074214 ("virtio_blk: add SECURE ERASE command support")
+62952cc5bccd ("virtio_blk: fix the discard_granularity and discard_alignment queue limits")
+70200574cc22 ("block: remove QUEUE_FLAG_DISCARD")
+cf0fbf894bb5 ("block: add a bdev_max_discard_sectors helper")
+998e9cbcd615 ("drbd: cleanup decide_on_discard_support")
+7a38acce2296 ("drbd: use bdev based limit helpers in drbd_send_sizes")
+40349d0e16ce ("drbd: remove assign_p_sizes_qlim")
+6f2689a76628 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

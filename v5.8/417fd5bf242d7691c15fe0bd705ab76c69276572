@@ -1,0 +1,7 @@
+417fd5bf242d ("vfio/mdev: Use struct mdev_type in struct mdev_device")
+2a3d15f270ef ("vfio/mdev: Add missing typesafety around mdev_device")
+66873b5fa738 ("vfio/mdev: Make to_mdev_device() into a static inline")
+1ae1b20f6f2c ("vfio/mdev: Use vfio_init/register/unregister_group_dev")
+0bfc6a4ea63c ("vfio: Split creation of a vfio_device into init and register ops")
+5e42c999445b ("vfio: Simplify the lifetime logic for vfio_device")
+e572bfb2b6a8 ("vfio: Remove extra put/gets around vfio_device->group")

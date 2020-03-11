@@ -1,0 +1,6 @@
+f50e5d670c62 ("ublk_drv: fix missing error return code in ublk_add_dev()")
+cebbe577cb17 ("ublk_drv: fix request queue leak")
+0edb3696c171 ("ublk_drv: support to complete io command via task_work_add")
+71f28f3136af ("ublk_drv: add io_uring based userspace block driver")
+3427f2b2c533 ("block: remove the rsxx driver")
+ac6f6548fcb3 ("rsxx: Drop PCI legacy power management")

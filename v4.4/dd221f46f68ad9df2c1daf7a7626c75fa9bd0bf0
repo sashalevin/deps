@@ -1,0 +1,5 @@
+dd221f46f68a ("io_uring: inline io_poll_task_handler()")
+6a0af224c213 ("io_uring: don't put a poll req under spinlock")
+6d816e088c35 ("io_uring: hold 'ctx' reference around task_work queue + execute")
+e73751225bae ("io_uring: replace rw->task_work with rq->task_work")
+760618f7a8e3 ("Merge branch 'io_uring-5.8' into for-5.9/io_uring")

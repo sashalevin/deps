@@ -1,0 +1,5 @@
+ecc3a92c6f49 ("KVM: selftests: Remove errant asm/barrier.h include to fix arm64 build")
+016ff1a442d9 ("KVM: selftests: Sync data verify of dirty logging with guest sync")
+019d321a68ea ("KVM: selftests: Run dirty ring test asynchronously")
+84292e565951 ("KVM: selftests: Add dirty ring buffer test")
+60f644fb5198 ("KVM: selftests: Introduce after_vcpu_run hook for dirty log test")

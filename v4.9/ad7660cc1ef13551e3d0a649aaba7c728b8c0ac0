@@ -1,0 +1,4 @@
+ad7660cc1ef1 ("scsi: fc: implement kref backed reference counting")
+1abaede71560 ("scsi: fc: Export fc_bsg_jobdone and use it in FC drivers")
+01e0e15c8b3b ("scsi: don't use fc_bsg_job::request and fc_bsg_job::reply directly")
+c691816e00d0 ("scsi: lpfc: Synchronize link speed with boot driver")

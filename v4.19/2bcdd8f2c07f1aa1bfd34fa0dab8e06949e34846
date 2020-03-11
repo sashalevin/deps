@@ -1,0 +1,8 @@
+2bcdd8f2c07f ("of/irq: Make of_msi_map_rid() PCI bus agnostic")
+6f881aba0110 ("of/irq: make of_msi_map_get_device_domain() bus agnostic")
+746a71d02b5d ("of/iommu: Make of_map_rid() PCI agnostic")
+39c3cf566cea ("ACPI/IORT: Make iort_msi_map_rid() PCI agnostic")
+d1718a1b7a86 ("ACPI/IORT: Make iort_get_device_domain IRQ domain agnostic")
+fb709b5e1cca ("of: Allow the iommu-map property to omit untranslated devices")
+fa0656b40e0f ("iommu/of: support iommu configuration for fsl-mc devices")
+2a6db719c92d ("iommu/of: make of_pci_map_rid() available for other devices too")

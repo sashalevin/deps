@@ -1,0 +1,4 @@
+33b93727ce90 ("nvme: fix setting the queue depth in nvme_alloc_io_tag_set")
+93b24f579c39 ("nvme: add the Apple shared tag workaround to nvme_alloc_io_tag_set")
+b794d1c2ad6d ("nvme: only set reserved_tags in nvme_alloc_io_tag_set for fabrics controllers")
+fe60e8c53411 ("nvme: add common helpers to allocate and free tagsets")

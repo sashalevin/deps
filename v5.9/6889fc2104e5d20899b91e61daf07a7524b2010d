@@ -1,0 +1,4 @@
+6889fc2104e5 ("crypto: ecdh - fix ecdh-nist-p192's entry in testmgr")
+6763f5ea2d9a ("crypto: ecdh - move curve_id of ECDH from the key to algorithm name")
+a53ab94eb685 ("crypto: ecdh_helper - Ensure 'len >= secret.len' in decode_key()")
+0aa171e9b267 ("crypto: ecdh - avoid buffer overflow in ecdh_set_secret()")

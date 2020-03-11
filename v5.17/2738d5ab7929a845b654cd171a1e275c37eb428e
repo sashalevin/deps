@@ -1,0 +1,3 @@
+2738d5ab7929 ("PCI: hv: Fix a race condition in hv_irq_unmask() that can cause panic")
+455880dfe292 ("PCI: hv: Fix hv_arch_irq_unmask() for multi-MSI")
+d06957d7a692 ("PCI: hv: Avoid the retarget interrupt hypercall in irq_unmask() on ARM64")

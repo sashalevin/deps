@@ -1,0 +1,7 @@
+b799a09f639b ("kexec_file: make use of purgatory optional")
+80f60e509a03 ("powerpc/kexec: Enable kexec_file_load() syscall")
+4c91bd6eeabb ("powerpc: Merge the RELOCATABLE config entries for ppc32 and ppc64")
+da4230714662 ("powerpc/32/booke: Fix the build error when CRASH_DUMP is enabled")
+d701cca6744f ("powerpc: wire up preadv2 and pwritev2 syscalls")
+d7f9ee60a6eb ("powerpc: Wire up copy_file_range() syscall")
+f43194e45852 ("powerpc: Standardise on NR_syscalls rather than __NR_syscalls.")

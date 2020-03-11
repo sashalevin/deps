@@ -1,0 +1,8 @@
+c04fa44b76b8 ("block: always set partition number to '0' in blk_partition_remap()")
+52c5e62d4c4b ("block: bio_check_eod() needs to consider partitions")
+721c7fc701c7 ("block: fail op_is_write() requests to read-only partitions")
+74d46992e0d9 ("block: replace bi_bdev with a gendisk pointer and partitions index")
+f8f84b2dfda5 ("btrfs: index check-integrity state hash by a dev_t")
+d62e26b3ffd2 ("block: pass in queue to inflight accounting")
+9346beb9d0ee ("bio-integrity: move the bio integrity profile check earlier in bio_integrity_prep")
+130568d5eac5 ("Merge branch 'for-linus' of git://git.kernel.dk/linux-block")

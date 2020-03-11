@@ -1,0 +1,5 @@
+359d5a85a758 ("usb: dwc3: Do not service EP0 and conndone events if soft disconnected")
+c96683798e27 ("usb: dwc3: ep0: Don't prepare beyond Setup stage")
+861c010a2ee1 ("usb: dwc3: gadget: Refactor pullup()")
+8217f07a5023 ("usb: dwc3: gadget: Avoid starting DWC3 gadget during UDC unbind")
+4a1e25c0a029 ("usb: dwc3: gadget: Stop EP0 transfers during pullup disable")

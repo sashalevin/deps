@@ -1,0 +1,6 @@
+4126f149c48b ("serial: core: Acquire nbcon context in port->lock wrapper")
+eabd4600dafa ("serial: core: Introduce wrapper to set @uart_port->cons")
+1788cf6a91d9 ("tty: serial: switch from circ_buf to kfifo")
+f8fef2fa419f ("tty: msm_serial: use dmaengine_prep_slave_sg()")
+9054605ab846 ("tty: 8250_omap: use dmaengine_prep_slave_sg()")
+8192fabb0db2 ("tty: 8250_dma: use dmaengine_prep_slave_sg()")

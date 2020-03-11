@@ -1,0 +1,5 @@
+78596b5c321c ("ACPI: Retire acpi_iommu_fwspec_ops()")
+e80d4122df9c ("ACPI: scan: Move misleading comment to acpi_dma_configure_id()")
+cdbc723f2da1 ("acpi: Do not return struct iommu_ops from acpi_iommu_configure_id()")
+4720287c7bf7 ("iommu: Remove struct iommu_ops *iommu from arch_setup_dma_ops()")
+a2e7e59a9426 ("iommu: Avoid more races around device probe")

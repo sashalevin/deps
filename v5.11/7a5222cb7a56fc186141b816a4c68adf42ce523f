@@ -1,0 +1,4 @@
+7a5222cb7a56 ("net: enetc: make enetc_refill_rx_ring update the consumer index")
+3a5d12c9be6f ("net: enetc: keep RX ring consumer index in sync with hardware")
+96a5223b918c ("net: enetc: remove bogus write to SIRXIDR from enetc_setup_rxbdr")
+6d36ecdbc441 ("net: enetc: take the MDIO lock only once per NAPI poll cycle")

@@ -1,0 +1,3 @@
+5f96bfb7633c ("btrfs: fix race that results in logging old extents during a fast fsync")
+ce02f0326680 ("Btrfs: remove no longer used logged range variables when logging extents")
+31d11b83b96f ("Btrfs: fix duplicate extents after fsync of file with prealloc extents")

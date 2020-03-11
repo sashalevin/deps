@@ -1,0 +1,8 @@
+d0c94c49792c ("KVM: arm64: Restore PMU configuration on first run")
+282ff8013571 ("KVM: arm64: Remove redundant call to kvm_pmu_vcpu_reset()")
+7521c3a9e630 ("KVM: arm64: Get rid of the PMU ready state")
+d9c3872cd2f8 ("KVM: arm64: GICv4.1: Reload VLPI configuration on distributor enable/disable")
+2291ff2f2a56 ("KVM: arm64: GICv4.1: Plumb SGI implementation selection in the distributor")
+8564d6372a7d ("KVM: arm64: Support stolen time reporting via shared structure")
+b48c1a45a190 ("KVM: arm64: Implement PV_TIME_FEATURES call")
+55009c6ed2d2 ("KVM: arm/arm64: Factor out hypercall handling from PSCI code")

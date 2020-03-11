@@ -1,0 +1,8 @@
+c5d3f9b7649a ("f2fs: compress: fix deadloop in f2fs_write_cache_pages()")
+1cd98ee747cf ("f2fs: convert f2fs_write_cache_pages() to use filemap_get_folios_tag()")
+01fc4b9a6ed8 ("f2fs: use onstack pages instead of pvec")
+4f8219f8aa17 ("f2fs: intorduce f2fs_all_cluster_page_ready")
+430f163b0188 ("f2fs: adjust readahead block number during recovery")
+b368cc5e2634 ("f2fs: compress: fix overwrite may reduce compress ratio unproperly")
+bbe1da7e34ac ("f2fs: compress: do sanity check on cluster")
+94afd6d6e525 ("f2fs: extent cache: support unaligned extent")

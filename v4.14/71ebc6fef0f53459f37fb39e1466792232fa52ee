@@ -1,0 +1,6 @@
+71ebc6fef0f5 ("aio: use iocb_put() instead of open coding it")
+432c79978c33 ("aio: separate out ring reservation from req allocation")
+54843f875f7a ("aio: refactor read/write iocb setup")
+92ce4728563a ("aio: remove the extra get_file/fput pair in io_submit_one")
+75321b50a37a ("aio: sanitize ki_list handling")
+c213dc826c59 ("aio: remove an outdated BUG_ON and comment in aio_complete")

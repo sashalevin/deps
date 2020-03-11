@@ -1,0 +1,4 @@
+a68fdb3aed54 ("scsi: hpsa: correct simple mode")
+7dc62d935459 ("scsi: hpsa: free irq on q indexed by h->intr_mode and not i")
+bc2bb1543e62 ("scsi: hpsa: use pci_alloc_irq_vectors and automatic irq affinity")
+45e596cd6ead ("scsi: hpsa: Check for null devices in ioaccel submission patch")

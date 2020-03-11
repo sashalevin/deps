@@ -1,0 +1,5 @@
+5f1eb1ff58ea ("scm: add user copy checks to put_cmsg()")
+38ebcf5096a8 ("scm: optimize put_cmsg()")
+1f466e1f15cf ("net: cleanly handle kernel vs user buffers for ->msg_control")
+2618d530dd8b ("net/scm: cleanup scm_detach_fds")
+0462b6bdb644 ("net: add a CMSG_USER_DATA macro")

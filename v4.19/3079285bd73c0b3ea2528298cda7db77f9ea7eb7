@@ -1,0 +1,3 @@
+3079285bd73c ("scsi: qedf: Fix race between ELS completion and flushing ELS request")
+22ddec31b0d4 ("scsi: qedf: Don't process ELS completion if event is flushed or cleaned up")
+5d5e55659b37 ("scsi: qedf: Modify flush routine to handle all I/Os and TMF")

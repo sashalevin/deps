@@ -1,0 +1,6 @@
+8a237adf213d ("fs/buffer.c: disable per-CPU buffer_head cache for isolated CPUs")
+4fa512ce7051 ("fs/buffer.c: support fsverity in block_read_full_folio()")
+b7a6eb22ba10 ("buffer: Don't test folio error in block_read_full_folio()")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")
+6b1f86f8e9c7 ("Merge tag 'folio-5.18b' of git://git.infradead.org/users/willy/pagecache")

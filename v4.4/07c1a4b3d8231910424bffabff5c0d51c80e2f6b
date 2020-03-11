@@ -1,0 +1,8 @@
+07c1a4b3d823 ("mtd: rawnand: hisi504: convert driver to nand_scan()")
+9326dc754c64 ("mtd: rawnand: hisi504: clean the probe function error path")
+c8cae35572b6 ("mtd: nand: hisi504: return error code of nand_scan_ident() on error")
+2d01922c1160 ("mtd: nand: hisi504: rely on generic DT parsing done in nand_scan_ident()")
+fa100163d38e ("mtd: nand: hisi504: use the mtd instance embedded in struct nand_chip")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")

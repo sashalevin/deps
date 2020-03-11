@@ -1,0 +1,5 @@
+8f156c23f4c0 ("powerpc/32s: don't try to print hash table address.")
+57e0491b58fa ("powerpc/32s: drop Hash_end")
+14e609d693ef ("powerpc/mm/32: add base address to mmu_mapin_ram()")
+4a3a224c5ae3 ("powerpc/book3s/32: Use MMU_FTR_HPTE_TABLE in head_32.S")
+34eb138ed74d ("powerpc/mm: don't use _PAGE_EXEC for calling hash_preload()")

@@ -1,0 +1,8 @@
+9181d6f8a2bb ("net: add more sanity check in virtio_net_hdr_to_skb()")
+fc8b2a619469 ("net: more strict VIRTIO_NET_HDR_GSO_UDP_L4 validation")
+cf9acc90c80e ("net: virtio_net_hdr_to_skb: count transport header in UFO")
+0f6925b3e8da ("virtio_net: Do not pull payload in skb->head")
+7c6d2ecbda83 ("net: be more gentle about silly gso requests coming from user")
+6dd912f82680 ("net: check untrusted gso_size at kernel entry")
+9274124f023b ("net: stricter validation of untrusted gso packets")
+70f3522614e6 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

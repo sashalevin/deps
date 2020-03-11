@@ -1,0 +1,7 @@
+54b2fcee1db0 ("nvme-pci: remove last_sq_tail")
+04f3eafda6e0 ("nvme: implement mq_ops->commit_rqs() hook")
+dabcefab45d3 ("nvme: provide optimized poll function for separate poll queues")
+3b6592f70ad7 ("nvme: utilize two queue maps, one for reads and one for writes")
+ed76e329d74a ("blk-mq: abstract out queue map")
+a8908939af56 ("blk-mq: kill q->mq_map")
+bd6bf7c10484 ("Merge tag 'pci-v4.20-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

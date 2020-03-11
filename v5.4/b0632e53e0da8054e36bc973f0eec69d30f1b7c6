@@ -1,0 +1,6 @@
+b0632e53e0da ("af_unix: Annotate data-races around sk->sk_sndbuf.")
+eb0718fb3e97 ("af_unix: Annotate data-races around sk->sk_state in unix_write_space() and poll().")
+a0dbf5f818f9 ("af_unix: Support MSG_SPLICE_PAGES")
+e1d09c2c2f57 ("af_unix: Fix data races around sk->sk_shutdown.")
+f9390b249c90 ("af_unix: fix regression in read after shutdown")
+d0c6416bd709 ("unix: Fix an issue in unix_shutdown causing the other end read/write failures")

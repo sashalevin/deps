@@ -1,0 +1,7 @@
+a161e6c76aeb ("NFSD: Add a helper that encodes NFSv3 directory offset cookies")
+0a8f37fb34a9 ("NFSD: Fix returned READDIR offset cookie")
+14168d678a0f ("NFSD: Remove the RETURN_STATUS() macro")
+19e0663ff9bc ("nfsd: Ensure sampling of the write verifier is atomic with the write")
+524ff1af226c ("nfsd: Ensure sampling of the commit verifier is atomic with the commit")
+5011af4c698a ("nfsd: Fix stable writes")
+16f8f8941082 ("nfsd: Allow nfsd_vfs_write() to take the nfsd_file as an argument")

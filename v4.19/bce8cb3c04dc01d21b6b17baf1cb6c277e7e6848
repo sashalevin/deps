@@ -1,0 +1,5 @@
+bce8cb3c04dc ("mm: use update_mmu_tlb() on the second thread")
+7df676974359 ("mm/memory.c: Update local TLB if PTE entry exists")
+4dd7683ea1d6 ("MIPS: Do not flush tlb page when updating PTE entry")
+c3e5ea6ee574 ("mm: avoid data corruption on CoW fault into PFN-mapped VMA")
+83d116c53058 ("mm: fix double page fault on arm64 if PTE_AF is cleared")

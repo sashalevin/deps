@@ -1,0 +1,5 @@
+889ae9169b45 ("zram: refactor zram_bdev_read")
+ffb0a9e66562 ("zram: rename __zram_bvec_read to zram_read_page")
+f575a5add8a9 ("zram: don't use highmem for the bounce buffer in zram_bvec_{read,write}")
+5561347aa598 ("zram: factor out WB and non-WB zram read functions")
+94541bc3fbde ("zram: always expose rw_page")

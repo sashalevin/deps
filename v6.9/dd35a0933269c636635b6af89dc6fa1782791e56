@@ -1,0 +1,4 @@
+dd35a0933269 ("x86/uaccess: Zero the 8-byte get_range case on failure on 32-bit")
+8a2462df1547 ("x86/uaccess: Improve the 8-byte getuser() case")
+8c860ed825cb ("x86/uaccess: Fix missed zeroing of ia32 u64 get_user() range checking")
+41cd2e1ee96e ("x86/asm: Use %c/%n instead of %P operand modifier in asm templates")

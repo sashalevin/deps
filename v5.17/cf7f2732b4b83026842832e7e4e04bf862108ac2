@@ -1,0 +1,8 @@
+cf7f2732b4b8 ("erofs: use HIPRI by default if per-cpu kthreads are enabled")
+3fffb589b9a6 ("erofs: add per-cpu threads for decompression as an option")
+a9a94d937334 ("erofs: move zdata.h into zdata.c")
+b1ed220c6262 ("erofs: remove tagged pointer helpers")
+cdba55067f2f ("erofs: avoid tagged pointers to mark sync decompression")
+1282dea37b09 ("erofs: clean up cached I/O strategies")
+63bbb85658ea ("erofs: shouldn't churn the mapping page for duplicated copies")
+513389809e13 ("Merge tag 'for-6.1/block-2022-10-03' of git://git.kernel.dk/linux")

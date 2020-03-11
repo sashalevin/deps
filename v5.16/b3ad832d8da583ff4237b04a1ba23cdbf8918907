@@ -1,0 +1,4 @@
+b3ad832d8da5 ("perf dso: Reorder members to save space in 'struct dso'")
+6be5d82862ee ("tools/perf: Add "is_kmod" to struct dso to check if it is kernel module")
+26a5262d30e1 ("tools/perf: Add text_end to "struct dso" to save .text section size")
+dc2cf4ca866f ("perf unwind: Fix segbase for ld.lld linked objects")

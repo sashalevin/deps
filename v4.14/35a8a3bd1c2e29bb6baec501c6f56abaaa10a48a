@@ -1,0 +1,8 @@
+35a8a3bd1c2e ("netfilter: nft_osf: use NFT_OSF_MAXGENRELEN instead of IFNAMSIZ")
+b96af92d6eaf ("netfilter: nf_tables: implement Passive OS fingerprint module in nft_osf")
+554ced0a6e29 ("netfilter: nf_tables: add support for native socket matching")
+bfb15f2a95cb ("netfilter: extract Passive OS fingerprint infrastructure from xt_osf")
+3b49e2e94e6e ("netfilter: nf_tables: add flow table netlink frontend")
+c974a3a36468 ("netfilter: nf_tables: remove multihook chains and families")
+12355d3670da ("netfilter: nf_tables_inet: don't use multihook infrastructure anymore")
+f92b40a8b264 ("netfilter: core: only allow one nat hook per hook point")

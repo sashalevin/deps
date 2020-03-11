@@ -1,0 +1,6 @@
+bf3aed4660c6 ("iommu: Introduce explicit type for non-strict DMA domains")
+46983fcd67ac ("iommu: Pull IOVA cookie management into the core")
+ac6d704679d3 ("iommu/dma: Pass address limit rather than size to iommu_setup_dma_ops()")
+d6177a6556f8 ("iommu/amd: Clear DMA ops when switching domain")
+c588072bba6b ("iommu/vt-d: Convert intel iommu driver to the iommu ops")
+2a2b8eaa5b25 ("iommu: Handle freelists when using deferred flushing in iommu drivers")

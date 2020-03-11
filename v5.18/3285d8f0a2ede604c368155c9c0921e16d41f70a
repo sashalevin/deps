@@ -1,0 +1,6 @@
+3285d8f0a2ed ("firmware: sysfb: Fix reference count of sysfb parent device")
+4e754597d603 ("firmware/sysfb: Create firmware device only for enabled PCI devices")
+9eac534db001 ("firmware/sysfb: Set firmware-framebuffer parent device")
+3615c78673c3 ("efi: sysfb_efi: Fix DMI quirks not working for simpledrm")
+bde376e9de3c ("firmware: sysfb: Add sysfb_disable() helper function")
+9e121040e54a ("firmware: sysfb: Make sysfb_create_simplefb() return a pdev pointer")

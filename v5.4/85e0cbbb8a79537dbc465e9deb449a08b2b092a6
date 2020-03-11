@@ -1,0 +1,8 @@
+85e0cbbb8a79 ("block: create the request_queue debugfs_dir on registration")
+bad8e64fb19d ("blktrace: fix debugfs use after free")
+a67549c8e568 ("blktrace: annotate required lock on do_blk_trace_setup()")
+c3dbe541ef77 ("blktrace: Avoid sparse warnings when assigning q->blk_trace")
+1b0b28364816 ("blktrace: break out of blktrace setup on concurrent calls")
+153031a301bb ("blktrace: fix dereference after null check")
+c780e86dd48e ("blktrace: Protect q->blk_trace with RCU")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")

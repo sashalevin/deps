@@ -1,0 +1,8 @@
+2d54067fcd23 ("pinctrl: amd: Fix wakeups when IRQ is shared with SCI")
+10ff58aa3c2e ("pinctrl: amd: fix __iomem annotation in amd_gpio_irq_handler()")
+8bbed1eef001 ("pinctrl/amd: only handle irq if it is pending and unmasked")
+6afb10267c16 ("pinctrl/amd: fix masking of GPIO interrupts")
+ba714a9c1dea ("pinctrl/amd: Use regular interrupt instead of chained")
+229710fecdd8 ("pinctrl: amd: make use of raw_spinlock variants")
+8dca4a41f1ad ("pinctrl/amd: Drop pinctrl_unregister for devm_ registered device")
+3bfd44306c65 ("pinctrl: amd: Add support for additional GPIO")

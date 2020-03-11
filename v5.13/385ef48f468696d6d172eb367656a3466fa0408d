@@ -1,0 +1,7 @@
+385ef48f4686 ("net: phy: add support for scanning PHY in PHY packages nodes")
+bcc858689db5 ("net: Use of_property_present() for testing DT property presence")
+1c48709e6d9d ("of: mdio: Add of_node_put() when breaking out of for_each_xx")
+d33dae51645c ("net: phy: add a note about refcounting")
+7e33d84db1a8 ("net: mdio: use device_set_node() to setup both fwnode and of")
+70ef608c224a ("net: mdio: setup of_node for the MDIO device")
+bc1bee3b87ee ("net: mdiobus: Introduce fwnode_mdiobus_register_phy()")

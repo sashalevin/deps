@@ -1,0 +1,8 @@
+887371066039 ("PM: runtime: Fix supplier device management during consumer probe")
+07358194badf ("PM: runtime: Redefine pm_runtime_release_supplier()")
+50a460665558 ("PM: runtime: Simplify locking in pm_runtime_put_suppliers()")
+d1579e61192e ("PM: runtime: Add safety net to supplier device release")
+80dd33cf72d1 ("drivers: base: Fix device link removal")
+9dfacc54a866 ("PM: runtime: Fix race getting/putting suppliers at probe")
+c0c33442f720 ("PM: runtime: Fix ordering in pm_runtime_get_suppliers()")
+5244f5e2d801 ("PM: runtime: Defer suspending suppliers")

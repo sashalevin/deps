@@ -1,0 +1,4 @@
+244eb888f9ab ("soundwire: intel: remove stream handling from .prepare and .hw_free")
+a5a0239c27fe ("soundwire: intel: reinitialize IP+DSP in .prepare(), but only when resuming")
+ff16d1e58462 ("soundwire: intel: remove stream allocation/free")
+611905d6e31c ("soundwire: intel: use asoc_rtd_to_cpu() / asoc_rtd_to_codec() macro for DAI pointer")

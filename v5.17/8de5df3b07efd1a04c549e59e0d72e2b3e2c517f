@@ -1,0 +1,8 @@
+8de5df3b07ef ("drm/i915: Move M/N setup to a more logical place on ddi platforms")
+0adc41de818c ("drm/i915: Pass crtc+cpu_transcoder to intel_cpu_transcoder_set_m_n()")
+be0c94ee2150 ("drm/i915: Split intel_cpu_transcoder_set_m_n() into M1/N1 vs. M2/N2 variants")
+6149cb68a5be ("drm/i915: Nuke intel_dp_get_m_n()")
+8023d3bef18b ("drm/i915: Nuke intel_dp_set_m_n()")
+14683babf8ee ("drm/i915: Move drrs hardware bit frobbing to small helpers")
+d29c9930279d ("drm/i915: Extract intel_{get,set}_m_n()")
+1d894ce88eca ("drm/i915: Extract hsw_configure_cpu_transcoder()")

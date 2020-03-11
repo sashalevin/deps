@@ -1,0 +1,4 @@
+8d214c481611 ("KVM: x86: Reset MMU context if guest toggles CR4.SMAP or CR4.PKE")
+cb957adb4ea4 ("kvm: x86: Toggling CR4.PKE does not load PDPTEs in PAE mode")
+427890aff855 ("kvm: x86: Toggling CR4.SMAP does not load PDPTEs in PAE mode")
+b9baba861489 ("KVM, pkeys: expose CPUID/CR4 to guest")

@@ -1,0 +1,5 @@
+d9962b0d4202 ("r8152: Block future register access if register access fails")
+715f67f33af4 ("r8152: Rename RTL8152_UNPLUG to RTL8152_INACCESSIBLE")
+bc65cc42af73 ("r8152: Check for unplug in r8153b_ups_en() / r8153c_ups_en()")
+dc90ba37a8c3 ("r8152: Check for unplug in rtl_phy_patch_request()")
+a5feba71ec9c ("r8152: Increase USB control msg timeout to 5000ms as per spec")

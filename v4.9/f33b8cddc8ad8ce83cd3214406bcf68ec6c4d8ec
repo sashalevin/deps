@@ -1,0 +1,7 @@
+f33b8cddc8ad ("ARCv2: intc: Rework the build time irq count information")
+fe7b10994618 ("ARC: [intc-*]: confine NR_CPU_IRQS to intc code")
+107177b14d81 ("ARCv2: intc: default all interrupts to priority 1")
+c4c9a040ecb7 ("clocksource: import ARC timer driver")
+b26c2e3823ba ("ARC: breakout timer include code into separate header ...")
+2d7f5c48c03e ("ARC: move mcip.h into include/soc and adjust the includes")
+044214200b0b ("ARC: timer: gfrc, rtc: build under same option (64-bit timers)")

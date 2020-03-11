@@ -1,0 +1,7 @@
+110d3047a3ec ("vxlan: use exit_batch_rtnl() method")
+6765393614ea ("vxlan: move to its own directory")
+3106a0847525 ("nexthop: Fix memory leaks in nexthop notification chain listeners")
+92584ddf550a ("vxlan: move debug check after netdev unregister")
+975ff7f3324a ("nexthop: Replay nexthops when registering a notifier")
+ce7e9c8a080b ("nexthop: Pass extack to register_nexthop_notifier()")
+626d667b1960 ("vxlan: Use a per-namespace nexthop listener instead of a global one")

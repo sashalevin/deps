@@ -1,0 +1,4 @@
+153654dbe595 ("x86/PCI: Implement pcibios_release_device to release IRQ from IOAPIC")
+6c777e8799a9 ("Revert "PCI, x86: Implement pcibios_alloc_irq() and pcibios_free_irq()"")
+67b4eab91caf ("Revert "PCI: Add helpers to manage pci_dev->irq and pci_dev->irq_managed"")
+fe25d078874f ("Revert "x86/PCI: Don't alloc pcibios-irq when MSI is enabled"")

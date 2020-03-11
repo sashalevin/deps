@@ -1,0 +1,4 @@
+e77f43d531af ("Bluetooth: hci_core: Fix not handling hdev->le_num_of_adv_sets=1")
+c4585edf708e ("Bluetooth: hci_conn, hci_sync: Use __counted_by() to avoid -Wfamnae warnings")
+7f74563e6140 ("Bluetooth: ISO: do not emit new LE Create CIS if previous is pending")
+a0bfde167b50 ("Bluetooth: ISO: Add support for connecting multiple BISes")

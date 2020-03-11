@@ -1,0 +1,4 @@
+22408d58a42c ("selftests/bpf: Test that SO_REUSEPORT can be used with sk_assign helper")
+3084097c369c ("selftests/bpf: Remove the "/sys" mount and umount dance in {open,close}_netns")
+8ac88eece800 ("selftests/bpf: Mount debugfs in setns_by_fd")
+68f8e3d4b916 ("selftests/bpf: Make sure zero-len skbs aren't redirectable")

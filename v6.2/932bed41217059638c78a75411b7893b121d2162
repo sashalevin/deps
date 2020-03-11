@@ -1,0 +1,8 @@
+932bed412170 ("powerpc/kexec_file: fix cpus node update to FDT")
+0857beff9c1e ("powerpc/kexec: make the update_cpus_node() function public")
+33f2cc0a2e90 ("powerpc/kexec: split CONFIG_KEXEC_FILE and CONFIG_CRASH_DUMP")
+91361b5175d2 ("powerpc/pseries: Pass PLPKS password on kexec")
+9ee76bd5c7e3 ("powerpc/pseries: Add helper to get PLPKS password length")
+119da30d037d ("powerpc/pseries: Expose PLPKS config values, support additional fields")
+90b74e305d6b ("powerpc/pseries: Move plpks.h to include directory")
+fcf63d6b8ab9 ("powerpc/pseries: Fix alignment of PLPKS structures and buffers")

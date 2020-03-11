@@ -1,0 +1,8 @@
+b18256d9b744 ("riscv: kprobes: simulate c.jr and c.jalr instructions")
+a93892974f2e ("riscv: kprobes: simulate c.j instruction")
+ec5f90877516 ("RISC-V: Move riscv_insn_is_* macros into a common header")
+bf0cc402d7cd ("RISC-V: add prefix to all constants/macros in parse_asm.h")
+a3775634f6da ("RISC-V: fix funct4 definition for c.jalr in parse_asm.h")
+67979e927dd0 ("riscv: kprobes: implement the branch instructions")
+b7d2be48cc08 ("riscv: kprobes: implement the auipc instruction")
+c22b0bcb1dd0 ("riscv: Add kprobes supported")

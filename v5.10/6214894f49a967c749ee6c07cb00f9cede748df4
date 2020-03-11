@@ -1,0 +1,4 @@
+6214894f49a9 ("hvc/xen: prevent concurrent accesses to the shared ring")
+fe415186b43d ("xen/console: harden hvc_xen against event channel storms")
+e679004dec37 ("tty: hvc: replace BUG_ON() with negative return value")
+3bd5371a4da6 ("xen/events: Remove unused bind_evtchn_to_irq_lateeoi()")

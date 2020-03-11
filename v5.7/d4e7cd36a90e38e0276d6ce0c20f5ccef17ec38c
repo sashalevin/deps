@@ -1,0 +1,7 @@
+d4e7cd36a90e ("io_uring: sanitize double poll handling")
+a36da65c4656 ("io_uring: fail poll arm on queue proc failure")
+807abcb08834 ("io_uring: ensure double poll additions work with both request types")
+405a5d2b2762 ("io_uring: avoid unnecessary io_wq_work copy for fast poll feature")
+310672552f4a ("io_uring: async task poll trigger cleanup")
+3bfa5bcb26f0 ("io_uring: cleanup io_poll_remove_one() logic")
+18bceab101ad ("io_uring: allow POLL_ADD with double poll_wait() users")

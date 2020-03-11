@@ -1,0 +1,6 @@
+c249f1f423ea ("drm/i915: Eliminate crtc->config usage from CRT code")
+27d81c28eef1 ("drm/i915: push DDI FDI link training on enable to CRT encoder")
+3daa3cee6ebc ("drm/i915: push DDI CRT underrun reporting on disable to encoder")
+51c4fa6903f9 ("drm/i915: push DDI CRT underrun reporting on enable to encoder")
+ed69cd40685c ("drm/i915/glk, cnl: Implement WaDisableScalarClockGating")
+5f88a9c61978 ("drm/i915: Constify states passed to enable/disable/etc. encoder hooks")

@@ -1,0 +1,6 @@
+b64d740ea7dd ("kvm: x86: mmu: Always flush TLBs when enabling dirty logging")
+02844ac1eb34 ("KVM: x86/mmu: Consolidate comments about {Host,MMU}-writable")
+1ca87e015d99 ("KVM: x86/mmu: Rename DEFAULT_SPTE_MMU_WRITEABLE to DEFAULT_SPTE_MMU_WRITABLE")
+006100212d7f ("KVM: x86/mmu: Move is_writable_pte() to spte.h")
+115111efd97c ("KVM: x86/mmu: Check SPTE writable invariants when setting leaf SPTEs")
+932859a4e0b9 ("KVM: x86/mmu: Move SPTE writable invariant checks to a helper function")

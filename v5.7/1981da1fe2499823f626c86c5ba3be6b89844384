@@ -1,0 +1,4 @@
+1981da1fe249 ("perf machine: Don't leak module maps")
+1ca6e8025414 ("perf tools: Store build id when available in PERF_RECORD_MMAP2 metadata events")
+031f112f8dc0 ("perf tools: Use struct extra_kernel_map in machine__process_kernel_mmap_event")
+1c695c88a109 ("perf tools: Rename 'enum dso_kernel_type' to 'enum dso_space_type'")

@@ -1,0 +1,7 @@
+070e004912fe ("powerpc/4xx: Fix compile error with 64K pages on 40x, 44x")
+957b778a166e ("powerpc/mm: Add addr_limit to mm_context and use it to derive max slice index")
+760573c1a98c ("powerpc/mm: Split radix vs hash mm context initialisation")
+c1ff840d2120 ("powerpc/mm/hash: Pull hash constants into hash__alloc_context_id()")
+a336f2f5b05c ("powerpc/mm/hash: Abstract context id allocation for KVM")
+52b1e66587b6 ("powerpc/mm: Move copy_mm_to_paca to paca.c")
+f3207c124e7a ("powerpc/mm/slice: Convert slice_mask high slice to a bitmap")

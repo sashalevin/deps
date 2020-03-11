@@ -1,0 +1,6 @@
+6c7289528d3c ("xfs: abort directory parent scrub scans if we encounter a zapped directory")
+8336a64eb75c ("xfs: don't complain about unfixed metadata when repairs were injected")
+0916056eba4f ("xfs: fix parent pointer scrub racing with subdirectory reparenting")
+b049962c0f6e ("xfs: simplify xchk_parent_validate")
+cbab28f4c071 ("xfs: remove xchk_parent_count_parent_dentries")
+4c233b5c4f29 ("xfs: streamline the directory iteration code for scrub")

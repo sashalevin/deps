@@ -1,0 +1,4 @@
+2255411d1d0f ("powerpc/44x: Fix build failure with GCC 12 (unrecognized opcode: `wrteei')")
+ff27d9200a98 ("powerpc/405: Fix build failure with GCC 12 (unrecognized opcode: `wrteei')")
+446cda1b21d9 ("powerpc/32: Don't always pass -mcpu=powerpc to the compiler")
+d85be8a49e73 ("powerpc: Fix incorrect stw{, ux, u, x} instructions in __set_pte_at")

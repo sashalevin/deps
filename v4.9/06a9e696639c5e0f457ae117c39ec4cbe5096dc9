@@ -1,0 +1,6 @@
+06a9e696639c ("mm: gup: remove useless BUG_ON in __get_user_pages()")
+ad415db81796 ("mm/gup: fix __get_user_pages() on fault retry of hugetlb")
+4f6da9341180 ("mm/gup: rename "nonblocking" to "locked" where proper")
+1ac25013fb9e ("mm/hugetlb.c: teach follow_hugetlb_page() to handle FOLL_NOWAIT")
+96312e61282a ("mm/gup.c: teach get_user_pages_unlocked to handle FOLL_NOWAIT")
+87ffc118b54d ("userfaultfd: hugetlbfs: gup: support VM_FAULT_RETRY")

@@ -1,0 +1,8 @@
+b8b2f37cf632 ("powerpc/64s: Fix pte update for kernel memory on radix")
+f1cb8f9beba8 ("powerpc/64s/radix: avoid ptesync after set_pte and ptep_set_access_flags")
+bd5050e38aec ("powerpc/mm/radix: Change pte relax sequence to handle nest MMU hang")
+e4c1112c3fc5 ("powerpc/mm: Change function prototype")
+044003b52a78 ("powerpc/mm/radix: Move function from radix.h to pgtable-radix.c")
+f069ff396d65 ("powerpc/mm/hugetlb: Update huge_ptep_set_access_flags to call __ptep_set_access_flags directly")
+2ad452ffaaa8 ("powerpc/64s/radix: Allocate kernel page tables node-local if possible")
+0633dafcf892 ("powerpc/64s/radix: Split early page table mapping to its own function")

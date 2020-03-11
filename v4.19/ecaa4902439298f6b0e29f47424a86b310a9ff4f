@@ -1,0 +1,3 @@
+ecaa49024392 ("xhci: also avoid the XHCI_ZERO_64B_REGS quirk with a passthrough iommu")
+f7fac17ca925 ("xhci: Convert xhci_handshake() to use readl_poll_timeout_atomic()")
+05afde1a7ef3 ("xhci: Use device_iommu_mapped()")

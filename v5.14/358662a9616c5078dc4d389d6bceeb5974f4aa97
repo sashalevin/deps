@@ -1,0 +1,4 @@
+358662a9616c ("rcu: Assume IRQS disabled from rcu_report_dead()")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")
+2caebefb00f0 ("rcu: Move rcu_dynticks_eqs_online() to rcu_cpu_starting()")
+ebc88ad49136 ("rcu: Comment rcu_gp_init() code waiting for CPU-hotplug operations")

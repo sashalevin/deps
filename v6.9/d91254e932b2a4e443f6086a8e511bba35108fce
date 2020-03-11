@@ -1,0 +1,8 @@
+d91254e932b2 ("drm/i915: Add debugs for mbus joining and dbuf ratio programming")
+8d7fc2612e4a ("drm/i915: Extract intel_dbuf_mbus_join_update()")
+359e4f4fed29 ("drm/i915: Relocate intel_mbus_dbox_update()")
+e8333ab22cd8 ("drm/i915: Loop over all active pipes in intel_mbus_dbox_update")
+c834a080a013 ("drm/i915/xe2lpd: Support MDCLK:CDCLK ratio changes")
+9161e3118144 ("drm/i915: Add mdclk_cdclk_ratio to intel_dbuf_state")
+66a0e0681392 ("drm/i915: Extract intel_dbuf_mdclk_cdclk_ratio_update()")
+5372a54d7a3c ("drm/i915/cdclk: Add and use mdclk_source_is_cdclk_pll()")

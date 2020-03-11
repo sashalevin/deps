@@ -1,0 +1,5 @@
+6e237d099fac ("netlink: Relax attr validation for fixed length types")
+28033ae4e0f5 ("net: netlink: Update attr validation to require exact length for some types")
+64c83d837329 ("net netlink: Add new type NLA_BITFIELD32")
+32d84cdcfde0 ("netlink: smaller nla_attr_minlen table")
+b15ca182ed13 ("netlink: Add nla_memdup() to wrap kmemdup() use on nlattr")

@@ -1,0 +1,7 @@
+c95e67bac42d ("virtio: convert the rest virtio_find_vqs() users to virtio_find_vqs_info()")
+a10320988626 ("vsock/virtio: factor our the code to initialize and delete VQs")
+88704454ef8b ("vsock/virtio: enable VQs early on probe")
+c1011c0b3a9c ("vsock/virtio: read the negotiated features before using VQs")
+4b5f1ad5566a ("vsock/virtio: initialize vdev->priv before using VQs")
+8e6ed963763f ("vsock: each transport cycles only on its own sockets")
+d20f7a09e5ee ("Merge tag 'gpio-updates-for-v5.16' of git://git.kernel.org/pub/scm/linux/kernel/git/brgl/linux")

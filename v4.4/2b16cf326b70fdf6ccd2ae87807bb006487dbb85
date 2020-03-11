@@ -1,0 +1,8 @@
+2b16cf326b70 ("mmc: sdhci-esdhc-imx: move tuning static configuration into hwinit function")
+f3f5cf3dfc3a ("mmc: sdhci-esdhc-imx: factor out hw related initialization into function")
+0b330e385897 ("mmc: sdhci-esdhc-imx: enable hw auto retuning for STD_TUNING")
+d87fc9663688 ("mmc: sdhci-esdhc-imx: support setting tuning start point")
+ca8cc0fe0e55 ("mmc: sdhci-esdhci-imx: disable DLL delay line settings explicitly")
+cc17e1294b8a ("mmc: sdhci-esdhc-imx: restore watermark level setting after resume")
+04143fbaeb57 ("mmc: sdhci-esdhc-imx: add esdhc specific suspend resume callback")
+260ecb3c915f ("mmc: sdhci-esdhc-imx: correct the tuning-step setting")

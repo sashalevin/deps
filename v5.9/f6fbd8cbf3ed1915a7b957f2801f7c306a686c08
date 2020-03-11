@@ -1,0 +1,7 @@
+f6fbd8cbf3ed ("lsm,fs: fix vfs_getxattr_alloc() return type and caller error paths")
+026d7fc92a9d ("ima: Introduce template field evmsig and write to field sig as fallback")
+1886ab01a3fb ("evm: Allow setxattr() and setattr() for unmodified metadata")
+cdef685be5b4 ("evm: Allow xattr/attr operations for portable signatures")
+4a804b8a4572 ("evm: Introduce evm_hmac_disabled() to safely ignore verification errors")
+e3ccfe1ad7d8 ("evm: Introduce evm_revalidate_status()")
+acd3d2859453 ("Merge tag 'fixes-v5.13' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")

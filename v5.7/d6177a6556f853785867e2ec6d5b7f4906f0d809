@@ -1,0 +1,6 @@
+d6177a6556f8 ("iommu/amd: Clear DMA ops when switching domain")
+ad8694bac410 ("iommu/amd: Move AMD IOMMU driver into subdirectory")
+786dfe496e3b ("iommu/amd: Merge private header files")
+fb1b6955bbf3 ("iommu/amd: Unexport get_dev_data()")
+dce8d6964ebd ("iommu/amd: Convert to probe/release_device() call-backs")
+57bd2c24ba16 ("iommu/amd: Return -ENODEV in add_device when device is not handled by IOMMU")

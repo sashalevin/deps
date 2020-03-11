@@ -1,0 +1,8 @@
+3e20889cfbee ("x86/pgtable: support __HAVE_ARCH_PTE_SWP_EXCLUSIVE")
+58a18fe95e83 ("x86/mm/64: Do not sync vmalloc/ioremap mappings")
+8e19843c36ab ("x86/mm/64: implement arch_sync_kernel_mappings()")
+5a281062af1d ("userfaultfd: wp: add WP pagetable tracking to x86")
+6db73f17c5f1 ("x86: Don't let pgprot_modify() change the page encryption bit")
+0d714dba1626 ("x86/fpu: Update xstate's PKRU value on write_pkru()")
+4628a64591e6 ("mm: Preserve _PAGE_DEVMAP across mprotect() calls")
+958f338e96f8 ("Merge branch 'l1tf-final' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

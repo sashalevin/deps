@@ -1,0 +1,7 @@
+2af89abda7d9 ("io_uring: add option to remove SQ indirection")
+cfdbaa3a291d ("io_uring: fix drain stalls by invalid SQE")
+6e76ac595855 ("io_uring: Add io_uring_setup flag to pre-register ring fd and never install it")
+03d89a2de25b ("io_uring: support for user allocated memory for rings/sqes")
+9c189eee73af ("io_uring: add ring freeing helper")
+e27cef86a0ed ("io_uring: return error pointer from io_mem_alloc()")
+9b1b58cacc65 ("io_uring: remove sq/cq_off memset")

@@ -1,0 +1,8 @@
+3e44d5c9e987 ("driver core: physical_location.h remove extern from function prototypes")
+6423d2951087 ("driver core: Add sysfs support for physical location of a device")
+34fff62827b2 ("device: Move MSI related data into a struct")
+cd119b09a87d ("PCI/MSI: Move msi_lock to struct pci_dev")
+85aa607e79f8 ("PCI/MSI: Sanitize MSI-X table map handling")
+288c81ce4be7 ("PCI/MSI: Move code into a separate directory")
+e58f2259b91c ("genirq/msi, treewide: Use a named struct for PCI/MSI attributes")
+29bbc35e29d9 ("PCI/MSI: Fix pci_irq_vector()/pci_irq_get_affinity()")

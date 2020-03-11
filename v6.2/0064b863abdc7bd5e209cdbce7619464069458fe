@@ -1,0 +1,5 @@
+0064b863abdc ("net: dsa: tag_sja1105: absorb entire sja1105_vlan_rcv() into dsa_8021q_rcv()")
+dcfe7673787b ("net: dsa: tag_sja1105: absorb logic for not overwriting precise info into dsa_8021q_rcv()")
+a398b9ea0c3b ("net: dsa: tag_sja1105: fix source port decoding in vlan_filtering=0 bridge mode")
+c1ae02d87689 ("net: dsa: tag_sja1105: always prefer source port information from INCL_SRCPT")
+b5653b157e55 ("net: dsa: tag_sja1105: replace skb_mac_header() with vlan_eth_hdr()")

@@ -1,0 +1,7 @@
+739c9765793e ("x86/resctrl: Don't try to free nonexistent RMIDs")
+6791e0ea3071 ("x86/resctrl: Access per-rmid structures by index")
+40fc735b78f0 ("x86/resctrl: Track the closid with the rmid")
+311639e9512b ("x86/resctrl: Move RMID allocation out of mkdir_rdt_prepare()")
+b1de313979af ("x86/resctrl: Create helper for RMID allocation and mondata dir creation")
+322b72e0fd10 ("x86/resctrl: Avoid redundant counter read in __mon_event_count()")
+97fa21f65c3e ("x86/resctrl: Move MSR defines into msr-index.h")

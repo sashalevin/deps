@@ -1,0 +1,5 @@
+3bc6a37f59f2 ("drm/vc4: hdmi: Fix HSM clock too low on Pi4")
+4190e8bbcbc7 ("drm/vc4: hdmi: Check the HSM rate at runtime_resume")
+ae71ab585c81 ("drm/vc4: hdmi: Enforce the minimum rate at runtime_resume")
+467e30171b5b ("drm/vc4: hdmi: Move HDMI reset to pm_resume")
+81fb55e500a8 ("drm/vc4: hdmi: Add a spinlock to protect register access")

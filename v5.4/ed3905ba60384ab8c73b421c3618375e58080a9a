@@ -1,0 +1,8 @@
+ed3905ba6038 ("KVM: VMX: Extend BUILD_CONTROLS_SHADOW macro to support 64-bit variation")
+389ab25216c9 ("KVM: nVMX: Pull KVM L0's desired controls directly from vmcs01")
+d041b5ea9335 ("KVM: nVMX: Enable nested TSC scaling")
+5e3d394fdd9e ("KVM: VMX: Fix the spelling of CPU_BASED_USE_TSC_OFFSETTING")
+4e2a0bc56ad1 ("KVM: VMX: Rename NMI_PENDING to NMI_WINDOW")
+9dadc2f918df ("KVM: VMX: Rename INTERRUPT_PENDING to INTERRUPT_WINDOW")
+4289d2728664 ("KVM: retpolines: x86: eliminate retpoline from vmx.c exit handlers")
+f399e60c45f6 ("KVM: x86: optimize more exit handlers in vmx.c")

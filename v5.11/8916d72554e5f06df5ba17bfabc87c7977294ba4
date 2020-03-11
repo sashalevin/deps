@@ -1,0 +1,5 @@
+8916d72554e5 ("perf build: Stop using __weak bpf_object__next_program() to handle older libbpf versions")
+5c83eff38194 ("perf build: Stop using __weak bpf_prog_load() to handle older libbpf versions")
+0ae065a5d265 ("perf build: Fix check for btf__load_from_kernel_by_id() in libbpf")
+710f6c38bc5f ("perf bpf: Stop using deprecated bpf_load_program() API")
+be3158290db8 ("Merge https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

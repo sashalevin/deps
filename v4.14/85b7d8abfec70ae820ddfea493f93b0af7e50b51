@@ -1,0 +1,4 @@
+85b7d8abfec7 ("gpio: mvebu: add pwm support for Armada 8K/7K")
+48f32a835373 ("gpio: mvebu: switch pwm duration registers to regmap")
+19c26d90ff4c ("gpio: mvebu: Fix probing for chips without PWM")
+f51b18d92b66 ("gpio: mvebu: use devm_platform_ioremap_resource_byname()")

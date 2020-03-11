@@ -1,0 +1,7 @@
+5f75ff295c66 ("cpumask: Introduce for_each_cpu_andnot()")
+9b2e70860ef2 ("lib/cpumask: move trivial wrappers around find_bit to the header")
+8b6b795d9bfc ("lib/cpumask: change return types to unsigned where appropriate")
+bc9d6635c293 ("include/linux: move for_each_bit() macros from bitops.h to find.h")
+47d8c15615c0 ("include: move find.h from asm_generic to linux")
+6b8ecb84f8f6 ("bitops: move find_bit_*_le functions from le.h to find.h")
+0760a9157bc9 ("parisc: Drop ifdef __KERNEL__ from non-uapi kernel headers")

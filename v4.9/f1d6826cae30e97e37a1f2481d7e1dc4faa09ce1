@@ -1,0 +1,6 @@
+f1d6826cae30 ("usb: dwc3: gadget: Fix ISO transfer performance")
+5eb30cedced6 ("usb: dwc3: trace: purge dwc3_trace()")
+6cb2e4e3de10 ("usb: dwc3: gadget: cope with XferNotReady before usb_ep_queue()")
+76a638f8ac0d ("usb: dwc3: gadget: wait for End Transfer to complete")
+57b14da56227 ("usb: dwc3: don't compile dwc3_trace() unless CONFIG_FTRACE=y")
+8566cd1adf29 ("usb: dwc3: gadget: remove redundant trace prints")

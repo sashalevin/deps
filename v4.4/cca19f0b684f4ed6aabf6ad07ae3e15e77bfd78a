@@ -1,0 +1,8 @@
+cca19f0b684f ("powerpc/64s/radix: Fix missing global invalidations when removing copro")
+aff6f8cb3e21 ("powerpc/mm: Add tracking of the number of coprocessors using a context")
+03b8abedf4f4 ("cxl: Enable global TLBIs for cxl contexts")
+197267d03560 ("cxl: Fix driver use count")
+3a2df3798d4d ("powerpc/mm: Make switch_mm_irqs_off() out of line")
+a619e59c075c ("powerpc/mm: Optimize detection of thread local mm's")
+43ed84a891b7 ("powerpc/mm: Move pgdir setting into a helper")
+15c659ff9d5b ("Merge branch 'fixes' into next")

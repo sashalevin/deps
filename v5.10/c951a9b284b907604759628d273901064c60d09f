@@ -1,0 +1,6 @@
+c951a9b284b9 ("drm/msm: Remove msm_gem_free_work")
+25c49c838bde ("drm/msm: Drop struct_mutex in free_object() path")
+d984457b31c4 ("drm/msm: Add priv->mm_lock to protect active/inactive lists")
+599089c6af68 ("drm/msm/gem: Move locking in shrinker path")
+8f642378bfe5 ("drm/msm/gem: Move prototypes to msm_gem.h")
+a6ae74c956e7 ("drm/msm/gem: Add obj->lock wrappers")

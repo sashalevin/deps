@@ -1,0 +1,6 @@
+c36be0cdf63d ("kfence: save freeing stack trace at calling time instead of freeing time")
+62e73fd85d7b ("mm: kfence: print the elapsed time for allocated/freed track")
+1ba3cbf3ec3b ("mm: kfence: improve the performance of __kfence_alloc() and __kfence_free()")
+3c81b3bb0a33 ("kfence: enable check kfence canary on panic via boot param")
+2dfe63e61cc3 ("mm, kfence: support kmem_dump_obj() for KFENCE objects")
+737b6a10ac19 ("kfence: allow use of a deferrable timer")

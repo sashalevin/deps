@@ -1,0 +1,5 @@
+686e0f0324f0 ("KVM: x86: Directly query supported PERF_CAPABILITIES for WRMSR checks")
+17a024a8b981 ("KVM: x86: Refresh PMU after writes to MSR_IA32_PERF_CAPABILITIES")
+1aa2abb33a41 ("KVM: x86: Drop guest CPUID check for host initiated writes to MSR_IA32_PERF_CAPABILITIES")
+d574c539c3c4 ("KVM: x86: move MSR_IA32_PERF_CAPABILITIES emulation to common x86 code")
+cbd717585b80 ("KVM: x86/pmu: Tweak kvm_pmu_get_msr to pass 'struct msr_data' in")

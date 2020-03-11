@@ -1,0 +1,7 @@
+04dee9e85cf5 ("mm/various: give up if pte_offset_map[_lock]() fails")
+0cb8fd4d1416 ("mm/migrate: remove cruft from migration_entry_wait()s")
+fcd48540d188 ("mm/hugetlb: move swap entry handling into vma lock when faulted")
+f7355e99d9f7 ("mm/gup: remove FOLL_MIGRATION")
+d7c0e68dab98 ("mm/ksm: convert break_ksm() to use walk_page_range_vma()")
+58f595c66591 ("mm/ksm: simplify break_ksm() to not rely on VM_FAULT_WRITE")
+57a196a58421 ("hugetlb: simplify hugetlb handling in follow_page_mask")

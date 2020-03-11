@@ -1,0 +1,8 @@
+d486f1f20438 ("block: move internal_tag to same cache line as tag")
+e806402130c9 ("block: split out request-only flags into a new namespace")
+8d2bbd4c8236 ("block: replace REQ_THROTTLED with a bio flag")
+188bd2b16b3c ("block: move REQ_RAHEAD to common flags")
+bd1c1c21741c ("block: REQ_NOMERGE is common to the bio and request")
+89d947561077 ("sd: Implement support for ZBC devices")
+1eff9d322a44 ("block: rename bio bi_rw to bi_opf")
+f0c98ebc57c2 ("Merge tag 'libnvdimm-for-4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

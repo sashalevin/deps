@@ -1,0 +1,4 @@
+58e2071742e3 ("net: bridge: fix vlan tunnel dst null pointer dereference")
+afcb50ba7f74 ("bridge: vlan_tunnel: explicitly reset metadata attrs to NULL on failure")
+11538d039ac6 ("bridge: vlan dst_metadata hooks in ingress and egress paths")
+efa5356b0d97 ("bridge: per vlan dst_metadata netlink support")

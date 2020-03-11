@@ -1,0 +1,6 @@
+fa8c919dac3f ("mm/damon/ops-common: refactor to use {pte|pmd}p_clear_young_notify()")
+c11d34fa139e ("mm/damon/ops-common: atomically test and clear young on ptes and pmds")
+70e314c9ab4f ("mm/damon: convert damon_ptep/pmdp_mkold() to use a folio")
+72c33ef4c02e ("mm/damon: replace pmd_huge() with pmd_trans_huge() for THP")
+c8b9aff41930 ("mm/damon: validate if the pmd entry is present before accessing")
+02e34fff195d ("mm: damon: use HPAGE_PMD_SIZE")

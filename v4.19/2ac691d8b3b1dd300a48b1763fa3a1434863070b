@@ -1,0 +1,4 @@
+2ac691d8b3b1 ("btrfs: avoid unnecessary lock and leaf splits when updating inode in the log")
+b590b839720c ("btrfs: avoid unnecessary logging of xattrs during fast fsyncs")
+a3baaf0d786e ("Btrfs: fix fsync after succession of renames and unlink/rmdir")
+6b5fc433a7ad ("Btrfs: fix fsync after succession of renames of different files")

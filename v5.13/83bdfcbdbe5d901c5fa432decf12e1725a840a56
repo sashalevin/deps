@@ -1,0 +1,7 @@
+83bdfcbdbe5d ("nvme-pci: qdepth 1 quirk")
+e89086c43f05 ("drivers/nvme: Add quirks for device 126f:2262")
+66dd346b84d7 ("nvme-pci: disable namespace identifiers for Qemu controllers")
+9ea9b9c48387 ("remove the lightnvm subsystem")
+1aabd53a4b49 ("lightnvm: convert to blk_alloc_disk/blk_cleanup_disk")
+0d1feb72ffd8 ("block: automatically enable GENHD_FL_EXT_DEVT")
+7c3f828b522b ("block: refactor device number setup in __device_add_disk")

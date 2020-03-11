@@ -1,0 +1,6 @@
+b881cdce77b4 ("KVM: arm64: Allocate hyp vectors statically")
+6279017e8077 ("KVM: arm64: Move BP hardening helpers into spectre.h")
+042c76a9502b ("KVM: arm64: Move kvm_get_hyp_vector() out of header file")
+de5bcdb48498 ("KVM: arm64: Tidy up kvm_map_vector()")
+8934c8454064 ("KVM: arm64: Remove redundant Spectre-v2 code from kvm_map_vector()")
+14ef9d04928b ("Merge branch 'kvm-arm64/hyp-pcpu' into kvmarm-master/next")

@@ -1,0 +1,6 @@
+73b2652cbbb9 ("Bluetooth: hci_sync: Use cmd->num_cis instead of magic number")
+c4585edf708e ("Bluetooth: hci_conn, hci_sync: Use __counted_by() to avoid -Wfamnae warnings")
+7f74563e6140 ("Bluetooth: ISO: do not emit new LE Create CIS if previous is pending")
+a0bfde167b50 ("Bluetooth: ISO: Add support for connecting multiple BISes")
+2be22f1941d5 ("Bluetooth: hci_event: Fix parsing of CIS Established Event")
+6b9545dc9f8f ("Bluetooth: ISO: use hci_sync for setting CIG parameters")

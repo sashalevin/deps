@@ -1,0 +1,5 @@
+aafc8a8300ec ("powerpc/64s: Move IDLE_STATE_ENTER_SEQ[_NORET] into idle_book3s.S")
+424f8acd328a ("powerpc/powernv: Fix bug due to labeling ambiguity in power_enter_stop")
+09206b600c76 ("powernv: Pass PSSCR value and mask to power9_idle_stop")
+9e9fc6f00a54 ("cpuidle:powernv: Add helper function to populate powernv idle states.")
+823b7bd5156a ("powernv:idle: Add IDLE_STATE_ENTER_SEQ_NORET macro")

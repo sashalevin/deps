@@ -1,0 +1,7 @@
+ff81a90f45ce ("KVM: x86: Ignore benign host writes to "unsupported" F15H_PERF_CTL MSRs")
+157fc497b54f ("KVM: x86: Ignore benign host accesses to "unsupported" PEBS and BTS MSRs")
+820a6ee944e7 ("kvm: x86: Add emulation for IA32_XFD")
+e1fc1553cd78 ("kvm: x86: Add AMD PMU MSRs to msrs_to_save_all[]")
+c28fa560c5bb ("KVM: x86/vPMU: Forbid reading from MSR_F15H_PERF MSRs when guest doesn't have X86_FEATURE_PERFCTR_CORE")
+7cb85fc465fd ("KVM: x86: Remove superfluous brackets from case statement")
+7b874c26a624 ("KVM: x86: Check for Intel PT MSR virtualization using KVM cpu caps")

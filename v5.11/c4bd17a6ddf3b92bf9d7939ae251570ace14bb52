@@ -1,0 +1,6 @@
+c4bd17a6ddf3 ("Documentation: serial: dedup kernel-doc for uart functions")
+f9008285bb69 ("serial: Drop timeout from uart_port")
+31f6bd7fad3b ("serial: Store character timing information to uart_port")
+b0e0bd9d0d89 ("serial: core: fix tcdrain() with CTS enabled")
+654ee49b7e08 ("tty: make tty_get_{char,frame}_size available")
+a157270fbf37 ("serial: core: Remove BUG_ON(in_interrupt()) check")

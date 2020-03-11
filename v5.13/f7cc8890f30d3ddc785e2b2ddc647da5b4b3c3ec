@@ -1,0 +1,6 @@
+f7cc8890f30d ("mptcp: fix corrupt receiver key in MPC + data + checksum")
+d7b269083786 ("mptcp: shrink mptcp_out_options struct")
+bab6b88e0560 ("mptcp: add allow_join_id0 in mptcp_out_options")
+c5b39e26d003 ("mptcp: send out checksum for DSS")
+c94b1f96dcfb ("mptcp: send out checksum for MP_CAPABLE with data")
+06fe1719aa50 ("mptcp: add csum_reqd in mptcp_out_options")

@@ -1,0 +1,7 @@
+cb222a013dca ("scsi: target: core: Drop kref_get_unless_zero() in target_get_sess_cmd()")
+1b4c59b7a1d0 ("target: fix potential race window in target_sess_cmd_list_waiting()")
+527268df31e5 ("target: Re-add missing SCF_ACK_KREF assignment in v4.1.y")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

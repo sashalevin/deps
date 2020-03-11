@@ -1,0 +1,7 @@
+ca1ab89cd2d6 ("r8169: improve rtl_tx")
+3a689e34973e ("r8169: remove unneeded memory barrier in rtl_tx")
+a0e6650bdd25 ("r8169: convert while to for loop in rtl_tx")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+d92060bc6923 ("r8169: add support for Byte Queue Limits")
+7a4b813cb739 ("r8169: Be drop monitor friendly")
+1089650d8837 ("r8169: Do not increment tx_dropped in TX ring cleaning")

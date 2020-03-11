@@ -1,0 +1,8 @@
+fb23bf6bd288 ("mm: tidy up pte_next_pfn() definition")
+583ceaaa3399 ("mm: introduce pte_advance_pfn() and use for pte_next_pfn()")
+6cdfa1d5d5d8 ("mm/pgtable: make pte_next_pfn() independent of set_ptes()")
+ce60f27bb62d ("mm: abstract moving to the next PFN")
+af4fcb072932 ("mm: tidy up set_ptes definition")
+bcc6cc832573 ("mm: add default definition of set_ptes()")
+6617da8fb565 ("mm: add dummy pmd_young() for architectures not having it")
+09cfefb7fa70 ("LoongArch: Add memory management")

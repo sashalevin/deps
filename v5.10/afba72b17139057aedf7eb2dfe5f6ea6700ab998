@@ -1,0 +1,8 @@
+afba72b17139 ("mm/swap: fold __swap_info_get() into its sole caller")
+03104c2c5db8 ("mm/swapfile: remove stale reuse_swap_page()")
+d08d2b62510e ("mm: remove the total_mapcount argument from page_trans_huge_mapcount()")
+66c7f7a6ac66 ("mm: remove the total_mapcount argument from page_trans_huge_map_swapcount()")
+020e87650af9 ("mm: remove last argument of reuse_swap_page()")
+bb243f7dc624 ("mm/swapfile: move get_swap_page_of_type() under CONFIG_HIBERNATION")
+cf532faa41c5 ("mm/swapfile.c: fix debugging information problem")
+b50da6e9f42a ("mm: fix a race on nr_swap_pages")

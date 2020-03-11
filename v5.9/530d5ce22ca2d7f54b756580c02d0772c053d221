@@ -1,0 +1,8 @@
+530d5ce22ca2 ("net/mlx5e: Generalize TX MPWQE checks for full session")
+97e3afd64dc2 ("net/mlx5e: Unify constants for WQE_EMPTY_DS_COUNT")
+388a2b56e5b0 ("net/mlx5e: Small improvements for XDP TX MPWQE logic")
+8e4b53f60f7d ("net/mlx5e: Refactor xmit functions")
+d02dfcd51f1f ("net/mlx5e: Move mlx5e_tx_wqe_inline_mode to en_tx.c")
+8ba6f18399c9 ("net/mlx5e: Use struct assignment to initialize mlx5e_tx_wqe_info")
+6d55af43fe93 ("net/mlx5e: Refactor inline header size calculation in the TX path")
+e20f0dbf204f ("net/mlx5e: RX, Add a prefetch command for small L1_CACHE_BYTES")

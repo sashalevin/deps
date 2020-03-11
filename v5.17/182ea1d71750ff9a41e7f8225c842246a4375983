@@ -1,0 +1,5 @@
+182ea1d71750 ("coredump: remove vma linked list walk")
+390031c94211 ("coredump: Use the vma snapshot in fill_files_note")
+95c5436a4883 ("coredump: Snapshot the vmas in do_coredump")
+a99a3e2efaf1 ("coredump: Move definition of struct coredump_params into coredump.h")
+84158b7f6a06 ("coredump: Also dump first pages of non-executable ELF libraries")

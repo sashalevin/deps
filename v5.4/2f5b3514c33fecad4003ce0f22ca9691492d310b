@@ -1,0 +1,5 @@
+2f5b3514c33f ("x86/boot: Move EFI range reservation after cmdline parsing")
+8aa83e6395ce ("x86/setup: Call early_reserve_memory() earlier")
+a799c2bd29d1 ("x86/setup: Consolidate early memory reservations")
+e998879d4fb7 ("x86,swiotlb: Adjust SWIOTLB bounce buffer size for SEV guests")
+6950e31b35fd ("x86/efi: Push EFI_MEMMAP check into leaf routines")

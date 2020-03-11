@@ -1,0 +1,6 @@
+7b804135d4d1 ("x86/virt/tdx: Make TDX_MODULE_CALL handle SEAMCALL #UD and #GP")
+12f34ed8622a ("x86/tdx: Extend TDX_MODULE_CALL to support more TDCALL/SEAMCALL leafs")
+57a420bb8186 ("x86/tdx: Pass TDCALL/SEAMCALL input/output registers via a structure")
+5efb96289e58 ("x86/tdx: Rename __tdx_module_call() to __tdcall()")
+f0024dbfc48d ("x86/tdx: Make macros of TDCALLs consistent with the spec")
+03a423d40cb3 ("x86/tdx: Skip saving output regs when SEAMCALL fails with VMFailInvalid")

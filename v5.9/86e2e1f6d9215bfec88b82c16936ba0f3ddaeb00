@@ -1,0 +1,7 @@
+86e2e1f6d921 ("NFSv4.2: SETXATTR should update ctime")
+64edd55d0f19 ("NFSv4.2: Clean up xattr size macros")
+31f1bd8f89f5 ("NFSv4.2: Clean up: Move nfs4_xdr_enc_*xattr() functions")
+a1f26739ccdc ("NFSv4.2: improve page handling for GETXATTR")
+fa94a951bf35 ("NFSv4.2: Fix up the get/listxattr calls to rpc_prepare_reply_pages()")
+5482e09a8840 ("NFS: Fix rpcrdma_inline_fixup() crash with new LISTXATTRS operation")
+6c2190b3fcbc ("NFS: Fix listxattr receive buffer size")

@@ -1,0 +1,7 @@
+b7b56e64a345 ("gpio: swnode: replace gpiochip_find() with gpio_device_find_by_label()")
+e7f9ff5dc90c ("gpiolib: add support for software nodes")
+8eb1f71e7acc ("gpiolib: consolidate GPIO lookups")
+b7452d670fde ("gpiolib: acpi: avoid leaking ACPI details into upper gpiolib layers")
+16ba046e86e9 ("gpiolib: acpi: teach acpi_find_gpio() to handle data-only nodes")
+2b6bce80ae70 ("gpiolib: acpi: change acpi_find_gpio() to accept firmware node")
+07445ae1c263 ("gpiolib: of: change of_find_gpio() to accept device node")

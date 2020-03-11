@@ -1,0 +1,6 @@
+577e07ffbad9 ("IB/ipoib: Get rid of IPOIB_FLAG_GOING_DOWN")
+b1b639708f74 ("RDMA/ipoib: Fix use of sizeof()")
+9c6f42e92541 ("IB/ipoib: Fix sysfs Pkey create<->remove possible deadlock")
+69956d83267e ("IB/ipoib: Sync between remove_one to sysfs calls that use rtnl_lock")
+edf3f301db7a ("IB/ipoib: Fix race between light events and interface restart")
+9871ab22f278 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/dledford/rdma")

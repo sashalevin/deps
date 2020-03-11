@@ -1,0 +1,8 @@
+e5bb0988a5b6 ("nvme: add BOGUS_NID quirk for Samsung SM953")
+43047e082b90 ("nvme-pci: disable write zeros support on UMIC and Samsung SSDs")
+dc22c1c058b5 ("nvme-pci: mark Kingston SKC2000 as not supporting the deepest power state")
+538e4a8c571e ("nvme-pci: avoid the deepest sleep state on Kingston A2000 SSDs")
+899199292b14 ("nvme-pci: add the DISABLE_WRITE_ZEROES quirk for a SPCC device")
+02ca079c9931 ("nvme-pci: disable Write Zeroes on Sandisk Skyhawk")
+0b85f59d30b9 ("nvme-pci: Move enumeration by class to be last in the table")
+5611ec2b9814 ("nvme-pci: prevent SK hynix PC400 from using Write Zeroes command")

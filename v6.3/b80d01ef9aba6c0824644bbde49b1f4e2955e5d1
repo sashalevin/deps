@@ -1,0 +1,7 @@
+b80d01ef9aba ("ice: store VF relative MSI-X index in q_vector->vf_reg_idx")
+f8e9889f54da ("ice: change vfs.num_msix_per to vf->num_msix")
+4aad5335969f ("ice: add individual interrupt allocation")
+369bb5a2a9a7 ("ice: refactor VF control VSI interrupt handling")
+05018936a1fe ("ice: use preferred MSIX allocation api")
+afe87cfe820e ("ice: use pci_irq_vector helper function")
+38e97a98e371 ("ice: move interrupt related code to separate file")

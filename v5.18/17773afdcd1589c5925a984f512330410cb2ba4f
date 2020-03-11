@@ -1,0 +1,7 @@
+17773afdcd15 ("powerpc/64: use 32-bit immediate for STACK_FRAME_REGS_MARKER")
+f8971c627b14 ("powerpc: Change system_call_exception calling convention")
+53ecaa6778d6 ("powerpc/64e: Clarify register saves and clears with {SAVE,ZEROIZE}_GPRS")
+2b1dac4b5f97 ("powerpc/64s: Use {ZEROIZE,SAVE,REST}_GPRS macros in sc, scv 0 handlers")
+2c27d4a419f6 ("powerpc: Save caller r3 prior to system_call_exception")
+f4a0318f278d ("powerpc: add support for syscall stack randomization")
+1547db7d1f44 ("powerpc: Move system_call_exception() to syscall.c")

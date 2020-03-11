@@ -1,0 +1,8 @@
+3a6de51a437f ("KVM: x86/pmu: WARN and bug the VM if PMU is refreshed after vCPU has run")
+7e768ce8278b ("KVM: x86/pmu: Zero out pmu->all_valid_pmc_idx each time it's refreshed")
+686e0f0324f0 ("KVM: x86: Directly query supported PERF_CAPABILITIES for WRMSR checks")
+17a024a8b981 ("KVM: x86: Refresh PMU after writes to MSR_IA32_PERF_CAPABILITIES")
+1921f3aa9263 ("KVM: x86: Use static calls to reduce kvm_pmu_ops overhead")
+8f969c0c3443 ("KVM: x86: Copy kvm_pmu_ops by value to eliminate layer of indirection")
+fdc298da8661 ("KVM: x86: Move kvm_ops_static_call_update() to x86.c")
+925088781eed ("KVM: x86: Fix pointer mistmatch warning when patching RET0 static calls")

@@ -1,0 +1,6 @@
+f7e1c6461e04 ("PCI: rcar: Reuse generic pci_parse_request_of_pci_ranges() function")
+83c75ddd816e ("PCI: rcar: Handle rcar_pcie_parse_request_of_pci_ranges() failures")
+0c31f1d7be1b ("PCI: rcar: Fix use-after-free in probe error path")
+ddd535f1ea3e ("PCI: rcar: Fix memory leak when no PCIe card is inserted")
+3c60e01a1246 ("PCI: rcar: Fix error exit path")
+90634e854079 ("PCI: rcar: Convert PCI scan API to pci_scan_root_bus_bridge()")

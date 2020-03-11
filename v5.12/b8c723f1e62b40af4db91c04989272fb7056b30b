@@ -1,0 +1,6 @@
+b8c723f1e62b ("s390: replace #include <asm/export.h> with #include <linux/export.h>")
+fbac266f095d ("s390: select ARCH_SUPPORTS_INT128")
+bb9c14ad267d ("hugetlbfs: s390 is always 64bit")
+855f9a8e87fe ("mm: generalize SYS_SUPPORTS_HUGETLBFS (rename as ARCH_SUPPORTS_HUGETLBFS)")
+c2280be81de4 ("mm: generalize ARCH_HAS_CACHE_LINE_SIZE")
+18107f8a2df6 ("arm64: Support execute-only permissions with Enhanced PAN")

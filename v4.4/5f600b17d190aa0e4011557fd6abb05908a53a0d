@@ -1,0 +1,6 @@
+5f600b17d190 ("powerpc/pci: Remove unused parameter from add_one_dev_pci_data()")
+d468fcafb7a4 ("powerpc/pci: Fix build with PCI_IOV=y and EEH=n")
+fb36e9073693 ("powerpc/pci: Fix SRIOV not building without EEH enabled")
+67086e32b564 ("powerpc/eeh: powerpc/eeh: Support error recovery for VF PE")
+39218cd00ebf ("powerpc/eeh: EEH device for VF")
+05ba75f84864 ("powerpc/eeh: Fix stale cached primary bus")

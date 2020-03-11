@@ -1,0 +1,5 @@
+563f8598cbc2 ("spi: cadence-qspi: minimise register accesses on each op if !DTR")
+f453f293979f ("spi: cadence-quadspi: Add DTR support")
+a273596b9b50 ("spi: cadence-quadspi: Implement a simple supports_op hook")
+7512eaf54190 ("spi: cadence-quadspi: Fix dummy cycle calculation when buswidth > 1")
+888d517b9925 ("spi: cadence-quadspi: Set dummy cycles from STIG commands")

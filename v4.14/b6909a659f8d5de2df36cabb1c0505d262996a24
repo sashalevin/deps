@@ -1,0 +1,5 @@
+b6909a659f8d ("KVM: arm/arm64: Support a vgic interrupt line level sample function")
+e40cc57bac79 ("KVM: arm/arm64: vgic: Support level-triggered mapped interrupts")
+47bbd31f740c ("KVM: arm/arm64: vgic: restructure kvm_vgic_(un)map_phys_irq")
+006df0f34930 ("KVM: arm/arm64: Support calling vgic_update_irq_pending from irq context")
+f39d16cbabf9 ("KVM: arm/arm64: Guard kvm_vgic_map_is_active against !vgic_initialized")

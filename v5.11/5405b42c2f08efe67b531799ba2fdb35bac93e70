@@ -1,0 +1,3 @@
+5405b42c2f08 ("x86/fault: Don't send SIGSEGV twice on SEGV_PKUERR")
+5042d40a264c ("x86/fault: Bypass no_context() for implicit kernel faults from usermode")
+f42a40fd53fb ("x86/fault/32: Move is_f00f_bug() to do_kern_addr_fault()")

@@ -1,0 +1,8 @@
+e104d530f373 ("hwmon: Replace deprecated CPU-hotplug functions.")
+27046a3ffbb0 ("hwmon: Use smp_call_on_cpu() for dell-smm i8k")
+9d58bec0966b ("hwmon: (dell-smm) In debug mode log duration of SMM calls")
+053ea6408188 ("hwmon: (dell-smm) Fail in ioctl I8K_BIOS_VERSION when bios version is not a number")
+7be4881846cf ("hwmon: (fam15h_power) Disable preemption when reading registers")
+11bf0d78ccc4 ("hwmon: (fam15h_power) Introduce a cpu accumulated power reporting algorithm")
+cdb9e110b10a ("hwmon: (fam15h_power) Add ptsc counter value for accumulated power")
+fa7943449943 ("hwmon: (fam15h_power) Add compute unit accumulated power")

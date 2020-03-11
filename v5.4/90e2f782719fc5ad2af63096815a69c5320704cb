@@ -1,0 +1,7 @@
+90e2f782719f ("crypto: qce - permit asynchronous skcipher as fallback")
+7f19380b2cfd ("crypto: qce - handle AES-XTS cases that qce fails")
+ce163ba0bf29 ("crypto: qce - use AES fallback for small requests")
+8ceda883205d ("crypto: qce - initialize fallback only for AES")
+7de4c2bd196f ("crypto: qce - fix xts-aes-qce key sizes")
+8bf0871539fa ("crypto: qce - switch to skcipher API")
+f65eae617e5d ("crypto: qce - add CRYPTO_ALG_KERN_DRIVER_ONLY flag")

@@ -1,0 +1,5 @@
+e0223003e6e1 ("cgroup: fix error handling regressions in proc_cgroup_show() and cgroup_release_agent()")
+4c737b41de7f ("cgroup: make cgroup_path() and friends behave in the style of strlcpy()")
+82d6489d0fed ("cgroup: Disable IRQs while holding css_set_lock")
+4f41fc59620f ("cgroup, kernfs: make mountinfo show properly scoped path for cgroup namespaces")
+5518f66b5a64 ("Merge branch 'for-4.6-ns' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

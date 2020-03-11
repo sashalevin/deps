@@ -1,0 +1,5 @@
+f0d8d0eea5ed ("pinctrl: at91: Switch to use DEFINE_NOIRQ_DEV_PM_OPS() helper")
+5d8ae2928f71 ("pinctrl: at91: convert to NOIRQ_SYSTEM_SLEEP_PM_OPS")
+a57520758367 ("pinctrl: at91: move gpio suspend/resume calls to driver's context")
+7fec8c9ceeed ("pinctrl: at91: use kernel-doc style for documentation of at91_gpio_chip")
+04156e7dd7ae ("pinctrl: at91: remove #ifdef CONFIG_PM")

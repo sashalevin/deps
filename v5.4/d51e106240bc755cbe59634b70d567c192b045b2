@@ -1,0 +1,5 @@
+d51e106240bc ("cpufreq: mediatek: fix KP caused by handler usage after regulator_put/clk_put")
+d2394860b45c ("cpufreq: mediatek: Handle sram regulator probe deferral")
+ffa7bdf7f344 ("cpufreq: mediatek: Make sram regulator optional")
+4b9ceb757bbb ("cpufreq: mediatek: Enable clocks and regulators")
+396dee972a1c ("cpufreq: mediatek: Cleanup variables and error handling in mtk_cpu_dvfs_info_init()")

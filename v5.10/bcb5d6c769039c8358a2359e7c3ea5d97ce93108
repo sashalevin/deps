@@ -1,0 +1,6 @@
+bcb5d6c76903 ("s390/pci: introduce lock to synchronize state of zpci_dev's")
+0d48566d4b58 ("s390/pci: rename lock member in struct zpci_dev")
+c76c067e488c ("s390/pci: Use dma-iommu layer")
+fa4c4507099f ("iommu: Allow .iotlb_sync_map to fail and handle s390's -ENOMEM return")
+e04c7487a665 ("iommu: Add IOMMU_DOMAIN_PLATFORM for S390")
+143c7bc6496c ("Merge tag 'for-linus-iommufd' of git://git.kernel.org/pub/scm/linux/kernel/git/jgg/iommufd")

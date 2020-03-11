@@ -1,0 +1,5 @@
+a5d8de1cb7e1 ("mmc: uniphier-sd: register irqs before registering controller")
+b03aec1c1f33 ("mmc: uniphier-sd: Fix an error handling path in uniphier_sd_probe()")
+5d1f42e14b13 ("mmc: uniphier-sd: call devm_request_irq() after tmio_mmc_host_probe()")
+3fd784f745dd ("mmc: uniphier-sd: add UniPhier SD/eMMC controller driver")
+c813e10a6bba ("mmc: renesas_sdhi: consolidate DMAC CONFIG options")

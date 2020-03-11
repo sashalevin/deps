@@ -1,0 +1,6 @@
+c6d277064b1d ("tcp: Factorise sk_family-independent comparison in inet_bind2_bucket_match(_addr_any).")
+8cdc3223e78c ("ipv6: Remove in6addr_any alternatives.")
+d9ba99342855 ("tcp: Fix bind() conflict check for dual-stack wildcard address.")
+5456262d2baa ("net: Fix incorrect address comparison when searching for a bind2 bucket")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")
+d2c135619cb8 ("inet: add READ_ONCE(sk->sk_bound_dev_if) in inet_csk_bind_conflict()")

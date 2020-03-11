@@ -1,0 +1,7 @@
+d01ac3c35214 ("mm/memory: remove page fault assumption of compound page size")
+2b7403035459 ("mm: Change return type int to vm_fault_t for fault handlers")
+eaf649ebc3ac ("mm: swap: clean up swap readahead")
+f80207727aac ("mm/memory.c: release locked page in do_swap_page()")
+183f24aa5b76 ("mm/memory.c: mark wp_huge_pmd() inline to prevent build failure")
+aa8d22a11da9 ("mm: swap: SWP_SYNCHRONOUS_IO: skip swapcache only if swapped page has no other reference")
+0bcac06f27d7 ("mm, swap: skip swapcache for swapin of synchronous device")

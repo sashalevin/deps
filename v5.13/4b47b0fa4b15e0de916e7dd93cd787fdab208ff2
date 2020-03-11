@@ -1,0 +1,8 @@
+4b47b0fa4b15 ("powerpc/bpf: Fixed 'instead' typo in bpf_jit_build_body()")
+e919c0b2323b ("bpf ppc32: Access only if addr is kernel address")
+23b51916ee12 ("bpf ppc32: Add BPF_PROBE_MEM support for JIT")
+983bdc0245a2 ("bpf ppc64: Add BPF_PROBE_MEM support for JIT")
+efa95f031bf3 ("bpf powerpc: refactor JIT compiler code")
+04c04205bc35 ("bpf powerpc: Remove extra_pass from bpf_jit_build_body()")
+3832ba4e283d ("powerpc/bpf: Validate branch ranges")
+bc33cfdb0bb8 ("powerpc/bpf: Remove bpf_jit_free()")

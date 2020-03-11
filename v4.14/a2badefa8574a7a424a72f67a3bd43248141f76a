@@ -1,0 +1,4 @@
+a2badefa8574 ("rcu: Eliminate redundant NULL-pointer check")
+a32e01ee6897 ("rcu: Use wrapper for lockdep asserts")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

@@ -1,0 +1,5 @@
+d2e8590fd104 ("serial: sc16is7xx: convert bitmask definitions to use BIT() macro")
+eccdb0fd1c34 ("serial: sc16is7xx: fix copy-paste errors in EFR_SWFLOWx_BIT constants")
+cf9c37530fda ("serial: sc16is7xx: split into core and I2C/SPI parts (sc16is7xx_lines)")
+d49216438139 ("serial: sc16is7xx: split into core and I2C/SPI parts (core)")
+7f3357448170 ("serial: sc16is7xx: unconditionally clear line bit in sc16is7xx_remove()")

@@ -1,0 +1,5 @@
+8b4865cd9046 ("cpufreq: intel_pstate: Make hwp_notify_lock a raw spinlock")
+d845cd901b28 ("cpufreq: intel_pstate: Support highest performance change interrupt")
+0f2828e17b6f ("cpufreq: intel_pstate: Get rid of unnecessary READ_ONCE() annotations")
+432acb219af4 ("cpufreq: intel_pstate: Wait for canceled delayed work to complete")
+12ebba42d2f1 ("cpufreq: intel_pstate: Simplify spinlock locking")

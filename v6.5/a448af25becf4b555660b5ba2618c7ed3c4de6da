@@ -1,0 +1,7 @@
+a448af25becf ("md/raid10: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+673643490b9a ("md/raid10: use dereference_rdev_and_rrdev() to get devices")
+b99f8fd2d91e ("md/raid10: factor out dereference_rdev_and_rrdev()")
+02c67a3b72b1 ("md: remove redundant check in fix_read_error()")
+605eeda6e70f ("md/raid10: optimize fix_read_error")

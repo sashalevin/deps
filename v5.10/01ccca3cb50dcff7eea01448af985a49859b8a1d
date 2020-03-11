@@ -1,0 +1,7 @@
+01ccca3cb50d ("Drivers: hv : vmbus: Adding NULL pointer check")
+9a8797722e42 ("Drivers: hv: vmbus: Initialize VMbus ring buffer for Isolation VM")
+7aff79e297ee ("Drivers: hv: Enable Hyper-V code to be built on ARM64")
+adae1e931acd ("Drivers: hv: vmbus: Copy packets sent by Hyper-V out of the ring buffer")
+4d18fcc95f50 ("hv_netvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+453de21c2b82 ("scsi: storvsc: Use vmbus_requestor to generate transaction IDs for VMBus hardening")
+e8b7db38449a ("Drivers: hv: vmbus: Add vmbus_requestor data structure for VMBus hardening")

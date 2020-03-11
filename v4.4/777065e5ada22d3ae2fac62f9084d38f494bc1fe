@@ -1,0 +1,6 @@
+777065e5ada2 ("dwc_eth_qos: constify ethtool_ops structures")
+8a79813c1401 ("net: ethernet: dwc_eth_qos: use phy_ethtool_{get|set}_link_ksettings")
+ce554d32eb16 ("net: ethernet: dwc_eth_qos: use phydev from struct net_device")
+cd5e41234729 ("dwc_eth_qos: do phy_start before resetting hardware")
+d4dc35f26e10 ("dwc_eth_qos: release descriptors outside netif_tx_lock")
+3647bc35bd42 ("dwc_eth_qos: Reset hardware before PHY start")

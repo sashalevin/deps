@@ -1,0 +1,6 @@
+87c91a965aa2 ("ceph: voluntarily drop Fx cap for readdir request")
+5d37ca1480a7 ("ceph: send LSSNAP request to auth mds of directory inode")
+bc2de10dc4da ("ceph: convert bools in ceph_mds_request to a new r_req_flags field")
+30c71233a1d4 ("ceph: clean up unsafe d_parent access in __choose_mds")
+315f24088048 ("ceph: fix security xattr deadlock")
+f7380af04bac ("ceph: don't bother with d_rehash() in splice_dentry()")

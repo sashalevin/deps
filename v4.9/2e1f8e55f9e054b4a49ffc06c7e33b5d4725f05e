@@ -1,0 +1,6 @@
+2e1f8e55f9e0 ("x86/paravirt: Use %rip-relative addressing in hook calls")
+a4da3d86a285 ("Revert "x86/paravirt: Work around GCC inlining bugs when compiling paravirt ops"")
+81a68455e795 ("Revert "x86/extable: Macrofy inline assembly code to work around GCC inlining bugs"")
+c3462ba98683 ("Revert "x86/cpufeature: Macrofy inline assembly code to work around GCC inlining bugs"")
+e769742d3584 ("Revert "x86/jump-labels: Macrofy inline assembly code to work around GCC inlining bugs"")
+f682a7920baf ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

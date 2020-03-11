@@ -1,0 +1,6 @@
+04360d3e05e8 ("io_uring/net: fix non-zc send with address")
+516e82f0e043 ("io_uring/net: support non-zerocopy sendto")
+7e6b638ed501 ("io_uring/net: don't lose partial send/recv on fail")
+ac9e5784bbe7 ("io_uring/net: use io_sr_msg for sendzc")
+0b048557db76 ("io_uring/net: refactor io_sr_msg types")
+95eafc74be5e ("io_uring/net: reshuffle error handling")

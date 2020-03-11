@@ -1,0 +1,6 @@
+21fd880d3da7 ("m68k/emu/nfblock: add error handling support for add_disk()")
+c3e235383645 ("nfblock: convert to blk_alloc_disk/blk_cleanup_disk")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+6d41bb4d466f ("nfblock: stop using ->queuedata")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

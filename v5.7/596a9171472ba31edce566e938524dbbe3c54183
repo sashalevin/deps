@@ -1,0 +1,8 @@
+596a9171472b ("serial: Clear rs485 struct when non-RS485 mode is set")
+be2e2cb1d281 ("serial: Sanitize rs485_struct")
+2dbd0c14ebe8 ("serial: Move serial_rs485 sanitization into separate function")
+8322b1f52715 ("serial: Add uart_rs485_config()")
+0ed12afa5655 ("serial: core: move RS485 configuration tasks from drivers into core")
+08d5470308ac ("serial: core: fix sysrq overhead regression")
+10652a9e9fe3 ("Revert "serial: core: Refactor uart_unlock_and_check_sysrq()"")
+c150c0f362c1 ("serial: Allow uart_get_rs485_mode() to return errno")

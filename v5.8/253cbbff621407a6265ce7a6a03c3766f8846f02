@@ -1,0 +1,5 @@
+253cbbff6214 ("rcu: Throttle callback invocation based on number of ready callbacks")
+b4e6039e8af8 ("rcu/segcblist: Add debug checks for segment lengths")
+ae5c2341ed39 ("rcu/segcblist: Add counters to segcblist datastructure")
+b5374b2df0ac ("rcu: Add READ_ONCE() to rcu_do_batch() access to rcu_divisor")
+9b1ce0acb5e6 ("rcu/tree: Remove CONFIG_PREMPT_RCU check in force_qs_rnp()")

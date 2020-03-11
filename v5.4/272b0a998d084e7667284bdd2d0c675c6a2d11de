@@ -1,0 +1,5 @@
+272b0a998d08 ("KVM: nVMX: Don't clobber nested MMU's A/D status on EPTP switch")
+c805f5d5585a ("KVM: nVMX: Defer the MMU reload to the normal path on an EPTP switch")
+ac6389ab2c7a ("KVM: nVMX: Rename EPTP validity helper and associated variables")
+bb1fcc70d98f ("KVM: nVMX: Allow L1 to use 5-level page walks for nested EPT")
+148d735eb55d ("KVM: nVMX: Use correct root level for nested EPT shadow page tables")

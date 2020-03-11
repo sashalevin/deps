@@ -1,0 +1,6 @@
+2a4557452aac ("SUNRPC: Remove return value of svc_pool_wake_idle_thread()")
+850bac3ae4a6 ("SUNRPC: Deduplicate thread wake-up code")
+82e5d82a4574 ("SUNRPC: Move trace_svc_xprt_enqueue")
+ccf08bed6e7a ("SUNRPC: Replace pool stats with per-CPU variables")
+2059b698a2ef ("SUNRPC: Simplify synopsis of svc_pool_for_cpu()")
+586095d339b1 ("SUNRPC: Don't disable preemption while calling svc_pool_for_cpu().")

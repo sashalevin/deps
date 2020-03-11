@@ -1,0 +1,4 @@
+3b724909a380 ("drm/mipi-dsi: Reduce driver bloat of mipi_dsi_*_write_seq()")
+7d3f6acaf87c ("drm/mipi-dsi: mipi_dsi_*_write functions don't need to ratelimit prints")
+24acbcce5cc6 ("drm/mipi-dsi: Fix theoretical int overflow in mipi_dsi_generic_write_seq()")
+0b03829fdece ("drm/mipi-dsi: Fix theoretical int overflow in mipi_dsi_dcs_write_seq()")

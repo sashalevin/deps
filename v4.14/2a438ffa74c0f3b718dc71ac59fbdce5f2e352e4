@@ -1,0 +1,8 @@
+2a438ffa74c0 ("arm64: Allow selecting Pseudo-NMI again")
+96a13f57b946 ("arm64: Kconfig: Make ARM64_PSEUDO_NMI depend on BROKEN for now")
+bc3c03ccb464 ("arm64: Enable the support of pseudo-NMIs")
+b90d2b22afdc ("arm64: cpufeature: Add cpufeature for IRQ priority masking")
+a56005d32105 ("arm64: cpufeature: Reduce number of pointer auth CPU caps from 6 to 4")
+750319756256 ("arm64: add basic pointer authentication support")
+6984eb47d5c1 ("arm64/cpufeature: detect pointer authentication")
+bc84a2d106be ("Merge branch 'kvm/cortex-a76-erratum-1165522' into aarch64/for-next/core")

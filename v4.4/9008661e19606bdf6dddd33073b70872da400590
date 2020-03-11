@@ -1,0 +1,7 @@
+9008661e1960 ("scsi: ufs: Modify Tactive time setting conditions")
+c6a6db439868 ("scsi: ufs: ensure that host pa_tactivate is higher than device")
+87ee1a81644b ("ufs: add unipro attributes")
+b799fdf754b5 ("scsi: ufs: add device quirk delay before putting UFS rails in LPM")
+371131065de9 ("scsi: ufs: tune UniPro parameters to optimize hibern8 exit time")
+60f0187031c0 ("scsi: ufs: disable vccq if it's not needed by UFS device")
+c58ab7aab71e ("scsi: ufs: separate device and host quirks")

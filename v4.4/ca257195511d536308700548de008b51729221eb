@@ -1,0 +1,5 @@
+ca257195511d ("mm: new API kfree_bulk() for SLAB+SLUB allocators")
+e6cdb58d1c83 ("slab: implement bulk free in SLAB allocator")
+7b0501dd6b18 ("slab: avoid running debug SLAB code with IRQs disabled for alloc_bulk")
+2a777eac173a ("slab: implement bulk alloc in SLAB allocator")
+376bf125ac78 ("slub: clean up code for kmem cgroup support to kmem_cache_free_bulk")

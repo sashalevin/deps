@@ -1,0 +1,6 @@
+3241d3eb7d9b ("s390: rework __switch_to() to allow larger task_struct offsets")
+df26c2e87e6c ("s390/cpumf: simplify detection of guest samples")
+cab36c262ef9 ("s390: use 64-bit lctlg to load task pid to cr4 on context switch")
+c19805f870c1 ("s390/cpumf: Use configuration level indication for sampling data")
+d5c352cdd022 ("s390: move thread_info into task_struct")
+c360192bf4a8 ("s390/preempt: move preempt_count to the lowcore")

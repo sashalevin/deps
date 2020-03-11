@@ -1,0 +1,8 @@
+5a6f6873606e ("ip, ip6: Fix splice to raw and ping sockets")
+6d8192bd69bb ("ip6, udp6: Support MSG_SPLICE_PAGES")
+7da0dde68486 ("ip, udp: Support MSG_SPLICE_PAGES")
+1fd3ae8c906c ("ipv6/udp: support externally provided ubufs")
+c445f31b3cfa ("ipv4/udp: support externally provided ubufs")
+773ba4fe9104 ("ipv6: avoid partial copy for zc")
+8eb77cc73977 ("ipv4: avoid partial copy for zc")
+6d123b81ac61 ("net: ip: avoid OOM kills with large UDP sends over loopback")

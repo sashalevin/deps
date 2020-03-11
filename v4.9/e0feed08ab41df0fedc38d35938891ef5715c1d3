@@ -1,0 +1,8 @@
+e0feed08ab41 ("mm/list_lru.c: Rename kvfree_rcu() to local variant")
+0c7c1bed7e13 ("mm: make counting of list_lru_one::nr_items lockless")
+f80c7dab95a1 ("mm: memcontrol: use vmalloc fallback for large kmem memcg arrays")
+510ded33e075 ("slab: implement slab_root_caches list")
+bc2791f857e1 ("slab: link memcg kmem_caches on their associated memory cgroup")
+9eeadc8b6e0e ("slab: reorganize memcg_cache_params")
+657dc2f97220 ("slab: remove synchronous rcu_barrier() call in memcg cache release path")
+c6e28895a437 ("slub: do not merge cache if slub_debug contains a never-merge flag")

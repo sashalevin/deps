@@ -1,0 +1,7 @@
+a31d47be64b9 ("netfilter: ipset: fix hash:net,port,net hang with /0 subnet")
+5f7b51bf09ba ("netfilter: ipset: Limit the maximal range of consecutive elements to add/delete")
+ccf0a4b7fc68 ("netfilter: ipset: Add bucketsize parameter to all hash types")
+b6520fce073b ("netfilter: ipset: Add wildcard support to net,iface")
+8dea982a88dc ("netfilter: ipset: remove inline from static functions in .c files.")
+439cd39ea136 ("netfilter: ipset: list:set: Decrease refcount synchronously on deletion and replace")
+0b8d9073539e ("netfilter: ipset: Fix wraparound in hash:*net* types")

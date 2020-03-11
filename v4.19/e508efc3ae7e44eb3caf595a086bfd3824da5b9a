@@ -1,0 +1,7 @@
+e508efc3ae7e ("vhost-scsi: Fix vhost_scsi struct use after free")
+25b98b64e284 ("vhost scsi: alloc cmds per vq instead of session")
+a691ffb46edd ("vhost: correct the related warning message")
+09d7583294aa ("vhost/scsi: Use common handling code in request queue handler")
+3f8ca2e115e5 ("vhost/scsi: Extract common handling code from control queue handler")
+0d02dbd68c47 ("vhost/scsi: Respond to control queue operations")
+4542d623c713 ("vhost/scsi: truncate T10 PI iov_iter to prot_bytes")

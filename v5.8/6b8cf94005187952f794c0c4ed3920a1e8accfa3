@@ -1,0 +1,7 @@
+6b8cf9400518 ("nvme-hwmon: consistently ignore errors from nvme_hwmon_init")
+78570f8873c8 ("nvme-hwmon: Return error code when registration fails")
+ed7770f66286 ("nvme-hwmon: rework to avoid devm allocation")
+5ab25a32cd90 ("nvme: don't intialize hwmon for discovery controllers")
+59e330f8ff7a ("nvme: return errors for hwmon init")
+653303f21682 ("nvme-hwmon: log the controller device name")
+be93e87e7802 ("nvme: support for multiple Command Sets Supported and Effects log pages")

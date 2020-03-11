@@ -1,0 +1,4 @@
+d63d07c6fc25 ("power: supply: bq24190_charger: Limit over/under voltage fault logging")
+68abfb801583 ("power: supply: bq24190_charger: Don't read fault register outside irq_handle_thread()")
+2d9fee6a42ea ("power: supply: bq24190_charger: Call power_supply_changed() for relevant component")
+e05ad7e0741c ("power: supply: bq24190_charger: Call set_mode_host() on pm_resume()")

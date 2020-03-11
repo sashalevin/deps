@@ -1,0 +1,8 @@
+8881e1639f1f ("sched/fair: Scan cluster before scanning LLC in wake-up path")
+a2e7f03ed28f ("sched/uclamp: Make asym_fits_capacity() use util_fits_cpu()")
+740cf8a760b7 ("sched/core: Introduce sched_asym_cpucap_active()")
+70fb5ccf2ebb ("sched/fair: Introduce SIS_UTIL to search idle CPU based on sum of util_avg")
+ef8df9798d46 ("sched/fair: Cleanup task_util and capacity type")
+014ba44e8184 ("sched/fair: Fix per-CPU kthread and wakee stacking for asym CPU capacity")
+a7ba894821b6 ("sched/fair: Removed useless update of p->recent_used_cpu")
+56498cfb045d ("sched/fair: Avoid a second scan of target in select_idle_cpu")

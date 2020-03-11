@@ -1,0 +1,6 @@
+28b41e2c6aeb ("iommu: Move def_domain type check for untrusted device into core")
+deac0b3bed26 ("iommu: Split off default domain allocation from group assignment")
+6e1aa2049154 ("iommu: Move default domain allocation to iommu_probe_device()")
+a6a4c7e2c5b8 ("iommu: Add probe_device() and release_device() call-backs")
+4cbf38511a00 ("iommu: Add def_domain_type() callback in iommu_ops")
+ff2a08b39bce ("iommu: Move default domain allocation to separate function")

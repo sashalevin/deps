@@ -1,0 +1,6 @@
+f19c5a73e6f7 ("mmc: core: Fix error propagation for some ioctl commands")
+568898cbc8b5 ("mmc: block: ioctl: do write error check for spi")
+51f5b3056790 ("mmc: core: Align to common busy polling behaviour for mmc ioctls")
+23e09be254f9 ("mmc: core: Allows to override the timeout value for ioctl() path")
+e72a55f2e5dd ("mmc: core: Return correct emmc response in case of ioctl error")
+468108155b0f ("mmc: core: Avoid hogging the CPU while polling for busy for mmc ioctls")

@@ -1,0 +1,6 @@
+c1755c25a719 ("io_uring: Enable KASAN for request cache")
+b5d3ae202fbf ("io_uring: handle TIF_NOTIFY_RESUME when checking for task_work")
+7cfe7a09489c ("io_uring: clear TIF_NOTIFY_SIGNAL if set and task_work not available")
+46a525e199e4 ("io_uring: don't gate task_work run on TIF_NOTIFY_SIGNAL")
+c0e0d6ba25f1 ("io_uring: add IORING_SETUP_DEFER_TASKRUN")
+b4c98d59a787 ("io_uring: introduce io_has_work")

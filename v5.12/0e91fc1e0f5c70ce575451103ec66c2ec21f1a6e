@@ -1,0 +1,7 @@
+0e91fc1e0f5c ("fscrypt: work on block_devices instead of request_queues")
+22e9947a4b2b ("fscrypt: stop holding extra request_queue references")
+d7e7b9af104c ("fscrypt: stop using keyrings subsystem for fscrypt_master_key")
+a7a5bc5fe8ac ("fscrypt: log when starting to use inline encryption")
+7f595d6a6cdc ("fscrypt: allow 256-bit master keys with AES-256-XTS")
+38ef66b05cfa ("fscrypt: document struct fscrypt_operations")
+83e804f0bfee ("fs,security: Add sb_delete hook")

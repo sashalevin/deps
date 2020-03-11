@@ -1,0 +1,7 @@
+b83ce9cb4a46 ("dma-buf: add dma_fence_timestamp helper")
+f781f661e8c9 ("dma-buf: keep the signaling time of merged fences v3")
+c85d00d4fd8b ("dma-buf: set signaling bit for the stub fence")
+bbd60fee2d21 ("dma-buf: revert "return only unsignaled fences in dma_fence_unwrap_for_each v3"")
+245a4a7b531c ("dma-buf: generalize dma_fence unwrap & merging v3")
+01357a5a45ed ("dma-buf: cleanup dma_fence_unwrap implementation")
+f778f405faa2 ("dma-buf/sync_file: cleanup fence merging a bit")

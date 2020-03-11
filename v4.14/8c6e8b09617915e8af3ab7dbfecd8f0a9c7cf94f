@@ -1,0 +1,6 @@
+8c6e8b096179 ("usb: host: xhci-plat: Improve clock handling in probe()")
+08048c04cc6f ("usb: host: xhci-plat: get optional clock by devm_clk_get_optional()")
+3ae2da7b28b3 ("usb: host: xhci-plat: Fix clock resource by adding a register clock")
+2d79609bf21e ("usb: host: xhci-plat: Remove useless test before clk_disable_unprepare")
+2847d242a1e4 ("usb: host: xhci-plat: Use of_device_get_match_data() helper")
+4750bc78efdb ("usb: host: xhci support option to disable the xHCI USB2 HW LPM")

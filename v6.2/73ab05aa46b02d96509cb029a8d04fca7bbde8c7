@@ -1,0 +1,7 @@
+73ab05aa46b0 ("sched/core: Disable page allocation in task_tick_mm_cid()")
+466e4d801cd4 ("task_work: Add TWA_NMI_CURRENT as an additional notify mode.")
+223baf9d17f2 ("sched: Fix performance regression introduced by mm_cid")
+a53ce18cacb4 ("sched/fair: Sanitize vruntime of entity being migrated")
+829c1651e9c4 ("sched/fair: sanitize vruntime of entity being placed")
+bbd0b031509b ("sched/rseq: Fix concurrency ID handling of usermodehelper kthreads")
+af7f588d8f73 ("sched: Introduce per-memory-map concurrency ID")

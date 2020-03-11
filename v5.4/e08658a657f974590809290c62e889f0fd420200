@@ -1,0 +1,7 @@
+e08658a657f9 ("powerpc/watchpoint: Don't call dar_within_range() for Book3S")
+39413ae00967 ("powerpc/hw_breakpoints: Rewrite 8xx breakpoints to allow any address range size.")
+44448640dd0d ("powerpc: permanently include 8xx registers in reg.h")
+27985b2a640e ("powerpc/watchpoint: Don't ignore extraneous exceptions blindly")
+c3f68b0478e7 ("powerpc/watchpoint: Fix ptrace code that muck around with address/len")
+b57aeab811db ("powerpc/watchpoint: Fix length calculation for unaligned target")
+b811be615cb7 ("powerpc/watchpoint: Introduce macros for watchpoint length")

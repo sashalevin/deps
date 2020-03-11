@@ -1,0 +1,7 @@
+4f475e8e0a6d ("x86/PCI: Apply VMD's AERSID fixup generically")
+a5ad57e6b831 ("x86/PCI: Add additional VMD device root ports to VMD AER quirk")
+fa564ad96366 ("x86/PCI: Enable a 64bit BAR on AMD Family 15h (Models 00-1f, 30-3f, 60-7f)")
+c37f23d44e86 ("x86/PCI: Use is_vmd() rather than relying on the domain number")
+f1b0e54e16b3 ("x86/PCI: Move VMD quirk to x86 fixups")
+13cfc732160f ("PCI: Work around poweroff & suspend-to-RAM issue on Macbook Pro 11")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")

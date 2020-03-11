@@ -1,0 +1,8 @@
+3fe5185db46f ("scsi: qedi: Fix cmd_cleanup_cmpl counter mismatch issue")
+ed1b86ba0fba ("scsi: qedi: Wake up if cmd_cleanup_req is set")
+5b04d050cde4 ("scsi: qedi: Fix use after free during abort cleanup")
+2ce002366a3f ("scsi: qedi: Fix race during abort timeouts")
+f4ba4e55db6d ("scsi: qedi: Add firmware error recovery invocation support")
+28b35d17f9f8 ("scsi: qedi: Fix list_del corruption while removing active I/O")
+5c35e4646566 ("scsi: qedi: Skip firmware connection termination for PCI shutdown handler")
+e4020e0835ed ("scsi: qedi: Remove 2 set but unused variables")

@@ -1,0 +1,6 @@
+d8dd54e06348 ("KVM: x86/mmu: Rename kvm_mmu->get_cr3() to ->get_guest_pgd()")
+ac69dfaacee8 ("KVM: nVMX: Rename nested_ept_get_cr3() to nested_ept_get_eptp()")
+bb1fcc70d98f ("KVM: nVMX: Allow L1 to use 5-level page walks for nested EPT")
+148d735eb55d ("KVM: nVMX: Use correct root level for nested EPT shadow page tables")
+bc8a0aafcbb8 ("KVM: x86: Relocate MMIO exit stats counting")
+fe38bd686207 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

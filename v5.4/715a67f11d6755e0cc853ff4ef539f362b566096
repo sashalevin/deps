@@ -1,0 +1,7 @@
+715a67f11d67 ("jbd2: fix kernel-doc descriptions for jbd2_journal_shrink_{scan,count}()")
+0705e8d1e220 ("ext4: inline jbd2_journal_[un]register_shrinker()")
+16aa4c9a1fbe ("jbd2: export jbd2_journal_[un]register_shrinker()")
+4ba3fcdde7e3 ("jbd2,ext4: add a shrinker to release checkpointed buffers")
+2bf31d94423c ("jbd2: fix kernel-doc markups")
+60ed633f51d0 ("jbd2: fix incorrect code style")
+b90bfdf58119 ("jbd2: Completely fill journal descriptor blocks")

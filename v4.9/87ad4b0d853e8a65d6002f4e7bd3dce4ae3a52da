@@ -1,0 +1,6 @@
+87ad4b0d853e ("ipc: fix ipc data structures inconsistency")
+45a4a64ab485 ("semctl(): separate all layout-dependent copyin/copyout")
+156d9ed1260e ("msgctl(): split the actual work from copyin/copyout")
+9ba720c18622 ("shmctl: split the work from copyin/copyout")
+9ae949fa382b ("ipc/sem: rework task wakeups")
+63980c80e1e9 ("ipc/shm.c: coding style fixes")

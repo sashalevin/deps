@@ -1,0 +1,4 @@
+cbdb1f163af2 ("vdso/bits.h: Add BIT_ULL() for the sake of consistency")
+3945ff37d2f4 ("linux/bits.h: Extract common header for vDSO")
+95b980d62d52 ("linux/bits.h: make BIT(), GENMASK(), and friends available in assembly")
+8bd9cb51daac ("locking/atomics, asm-generic: Move some macros from <linux/bitops.h> to a new <linux/bits.h> file")

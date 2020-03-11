@@ -1,0 +1,8 @@
+d6ce564cea0c ("irqchip/gic: Isolate early GIC initialisation code")
+f673b9b5cb54 ("irqchip/gic: Store GIC configuration parameters")
+dc9722cc57eb ("irqchip/gic: Return an error if GIC initialisation fails")
+c2baa2f3f42f ("irqchip/gic: Remove static irq_chip definition for eoimode1")
+26acfe7463dc ("irqchip/gic: Don't initialise chip if mapping IO space fails")
+7bf29d3af680 ("irqchip/gic: Only populate set_affinity for the root controller")
+a27d21e03eb1 ("irqchip/gic: Kconfig the number of instances")
+58b8964990dc ("irqchip/gic: Assign irqchip dynamically")

@@ -1,0 +1,8 @@
+be1a5408868a ("x86/sev: Split up runtime #VC handler for correct state tracking")
+d187f217335d ("x86/sev: Make sure IRQs are disabled while GHCB is active")
+b250f2f7792d ("x86/sev-es: Don't return NULL from sev_es_get_ghcb()")
+fea63d54f7a3 ("x86/sev-es: Move sev_es_put_ghcb() in prep for follow on patch")
+d9f6e12fb0b7 ("x86: Fix various typos in comments")
+bffe30dd9f1f ("x86/sev-es: Use __copy_from_user_inatomic()")
+62441a1fb532 ("x86/sev-es: Correctly track IRQ states in runtime #VC handler")
+29c395c77a9a ("Merge tag 'x86-entry-2021-02-24' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

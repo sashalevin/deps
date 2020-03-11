@@ -1,0 +1,5 @@
+1c3e5d3f60e2 ("x86/entry: Make entry_64_compat.S objtool clean")
+dd8e2d9ae64f ("x86/entry: Move irq tracing on syscall entry to C-code")
+8f159f1dfa1e ("x86/entry/common: Protect against instrumentation")
+1723be30e46f ("x86/entry: Mark enter_from_user_mode() noinstr")
+20355e5f73a7 ("x86/entry: Exclude low level entry code from sanitizing")

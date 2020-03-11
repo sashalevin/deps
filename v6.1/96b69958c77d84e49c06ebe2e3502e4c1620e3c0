@@ -1,0 +1,6 @@
+96b69958c77d ("KVM: selftests: Play nice with huge pages when getting PTEs/GPAs")
+efe91dc307d0 ("KVM: selftests: Use vm_get_page_table_entry() in addr_arch_gva2gpa()")
+99d51c6eef2d ("KVM: selftests: Use virt_get_pte() when getting PTE pointer")
+91add12d384c ("KVM: selftests: Remove useless shifts when creating guest page tables")
+751f280017b6 ("KVM: selftests: Drop reserved bit checks from PTE accessor")
+816c54b74742 ("KVM: selftests: Drop helpers to read/write page table entries")

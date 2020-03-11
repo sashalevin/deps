@@ -1,0 +1,7 @@
+a0cb909644c3 ("net/mlx5e: Fix skb memory leak when TC classifier action offloads are disabled")
+28e7606fa8f1 ("net/mlx5e: Refactor rx handler of represetor device")
+ee950e5db1b9 ("net/mlx5e: TC, Restore tunnel info for sample offload")
+d12e20ac0661 ("net/mlx5e: TC, Remove CONFIG_NET_TC_SKB_EXT dependency when restoring tunnel")
+bcd6740c6b6d ("net/mlx5e: Move sample attribute to flow attribute")
+0027d70c73c9 ("net/mlx5e: Move esw/sample to en/tc/sample")
+5024fa95a144 ("net/mlx5e: Remove mlx5e dependency from E-Switch sample")

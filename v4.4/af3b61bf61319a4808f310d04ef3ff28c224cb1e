@@ -1,0 +1,5 @@
+af3b61bf6131 ("NFSv4: Clean up nfs_client_return_marked_delegations()")
+e04bbf6b1bbe ("NFS: Avoid quadratic search when freeing delegations.")
+3ca951b61838 ("NFS: use cond_resched() when restarting walk of delegation list.")
+f3893491427f ("NFS: slight optimization for walking list for delegations")
+45870d6909d5 ("NFSv4.1: Test delegation stateids when server declares "some state revoked"")

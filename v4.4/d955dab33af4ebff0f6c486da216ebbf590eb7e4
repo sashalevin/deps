@@ -1,0 +1,3 @@
+d955dab33af4 ("ALSA: pcm: Use dma_mmap_coherent() on x86, too")
+9066ae7ff5d8 ("ALSA: pcm: Use dma_bytes as size parameter in dma_mmap_coherent()")
+abe594c2cf55 ("ALSA: pcm: Protect call to dma_mmap_coherent() by check for HAS_DMA")

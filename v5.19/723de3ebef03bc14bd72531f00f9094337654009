@@ -1,0 +1,4 @@
+723de3ebef03 ("net: free altname using an RCU callback")
+d09486a04f5d ("net: fix removing a namespace with conflicting altnames")
+1a83f4a7c156 ("net: avoid UAF on deleted altname")
+7663d522099e ("net: check for altname conflicts when changing netdev's netns")

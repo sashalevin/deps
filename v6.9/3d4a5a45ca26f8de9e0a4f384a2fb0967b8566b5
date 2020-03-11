@@ -1,0 +1,3 @@
+3d4a5a45ca26 ("KVM: x86/mmu: Unnest TDP MMU helpers that allocate SPs for eager splitting")
+e1c04f7a9f42 ("KVM: x86/mmu: Hard code GFP flags for TDP MMU eager split allocations")
+cf3ff0ee24d6 ("KVM: x86/mmu: Always drop mmu_lock to allocate TDP MMU SPs for eager splitting")

@@ -1,0 +1,4 @@
+978b63f7464a ("btrfs: fix race when detecting delalloc ranges during fiemap")
+418b09027743 ("btrfs: ensure fiemap doesn't race with writes when FIEMAP_FLAG_SYNC is given")
+a1a4a9ca77f1 ("btrfs: fix race between ordered extent completion and fiemap")
+b0ad381fa769 ("btrfs: fix deadlock with fiemap and extent locking")

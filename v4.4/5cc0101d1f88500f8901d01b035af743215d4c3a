@@ -1,0 +1,6 @@
+5cc0101d1f88 ("tpm_tis_spi: Add small delay after last transfer")
+591e48c26ced ("tpm_tis_spi: Remove limitation of transfers to MAX_SPI_FRAMESIZE bytes")
+e110cc69dc2a ("tpm_tis_spi: Check correct byte for wait state indicator")
+975094ddc369 ("tpm_tis_spi: Abort transfer when too many wait states are signaled")
+f848f2143ae4 ("tpm_tis_spi: Use single function to transfer data")
+0edbfea537d1 ("tpm/tpm_tis_spi: Add support for spi phy")

@@ -1,0 +1,5 @@
+96af28dc44b9 ("pwm: ab8500: Introduce a local pwm_chip variable in .probe()")
+14ac9e17f9bd ("pwm: ab8500: Simplify using devm_pwmchip_add()")
+eb41f334589d ("pwm: ab8500: Fix register offset calculation to not depend on probe order")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+acf3402d8363 ("pwm: ab8500: Implement .apply instead of .config, .enable and .disable")

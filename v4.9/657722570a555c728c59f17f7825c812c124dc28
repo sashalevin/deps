@@ -1,0 +1,7 @@
+657722570a55 ("PCI: dwc: Replace bit rotation operation (1 << bit) with BIT(bit)")
+a348d015f0de ("PCI: dwc: Improve code readability and simplify mask/unmask operations")
+3f7bb2ec20ce ("PCI: dwc: Move interrupt acking into the proper callback")
+fce5423e4f43 ("PCI: dwc: Take lock when ACKing an interrupt")
+830920e065e9 ("PCI: dwc: Use interrupt masking instead of disabling")
+6e0832fa432e ("PCI: Collect all native drivers under drivers/pci/controller/")
+e52d38f4abf4 ("Merge branch 'lorenzo/pci/rockchip'")

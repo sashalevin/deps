@@ -1,0 +1,7 @@
+450e749707bc ("sched/fair: Fix SMT4 group_smt_balance handling")
+7ff1693236f5 ("sched/fair: Implement prefer sibling imbalance calculation between asymmetric groups")
+fee1759e4f04 ("sched/fair: Determine active load balance for SMT sched groups")
+c82a69629c53 ("sched/fair: fix case with reduced capacity CPU")
+cb29a5c19d2d ("sched/numa: Apply imbalance limitations consistently")
+e496132ebedd ("sched/fair: Adjust the allowed NUMA imbalance when SD_NUMA spans multiple LLCs")
+2cfb7a1b031b ("sched/fair: Improve consistency of allowed NUMA balance calculations")

@@ -1,0 +1,5 @@
+832296804bc7 ("ASoC: rt5640: Do not manipulate pin "Platform Clock" if the "Platform Clock" is not in the DAPM")
+701d636a224a ("ASoC: rt5640: Add support for boards with an external jack-detect GPIO")
+b35a9ab49049 ("ASoC: rt5640: Allow snd_soc_component_set_jack() to override the codec IRQ")
+2b9c8d2b3c89 ("ASoC: rt5640: Add the HDA header support")
+15d54840ecf6 ("ASoC: rt5640: Delay requesting IRQ until the machine-drv calls set_jack")

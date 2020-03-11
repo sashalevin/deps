@@ -1,0 +1,5 @@
+cd8f318fbd26 ("drm/gma500: Add the missed drm_gem_object_put() in psb_user_framebuffer_create()")
+0471c9f57d07 ("drm/gma500: Pass struct drm_gem_object to framebuffer functions")
+e18da8ce7d73 ("drm/gma500: Replace struct psb_framebuffer with struct drm_framebuffer")
+86eda5a4c167 ("drm/gma500: Remove field 'fbdev' from struct psb_framebuffer")
+641099fe0cf8 ("drm/gma500: Remove addr_space field from psb_framebuffer")

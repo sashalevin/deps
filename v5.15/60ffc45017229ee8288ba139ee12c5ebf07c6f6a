@@ -1,0 +1,8 @@
+60ffc4501722 ("vfio/type1: Use iommu_paging_domain_alloc()")
+eed20c782aea ("vfio/type1: Simplify bus_type determination")
+296e505baddf ("vfio/iommu_type1: remove the "external" domain")
+65cdbf106337 ("vfio/iommu_type1: initialize pgsize_bitmap in ->open")
+c3c0fa9d94f7 ("vfio: clean up the check for mediated device in vfio_iommu_type1")
+fda49d97f2c4 ("vfio: remove the unused mdev iommu hook")
+8cc02d22d7e1 ("vfio: move the vfio_iommu_driver_ops interface out of <linux/vfio.h>")
+67462037872d ("vfio: remove unused method from vfio_iommu_driver_ops")

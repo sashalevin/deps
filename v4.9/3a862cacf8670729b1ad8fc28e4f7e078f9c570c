@@ -1,0 +1,6 @@
+3a862cacf867 ("fs: add anon_inode_getfile_secure() similar to anon_inode_getfd_secure()")
+e7e832ce6fa7 ("fs: add LSM-supporting anon-inode interface")
+52c91f8b3b1f ("anon_inode_getfile(): switch to alloc_file_pseudo()")
+c9c554f21490 ("alloc_file(): switch to passing O_... flags instead of FMODE_... mode")
+d202797f480c ("cxl_getfile(): fix double-iput() on alloc_file() failures")
+5f85942c2ea2 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

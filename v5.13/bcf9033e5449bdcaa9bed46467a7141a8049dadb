@@ -1,0 +1,6 @@
+bcf9033e5449 ("sched: move CPU field back into thread_info if THREAD_INFO_IN_TASK=y")
+3d8c1a013d78 ("arm64: smp: initialize cpu offset earlier")
+8e334d729bc4 ("arm64: smp: unify task and sp setup")
+3305e7f74a14 ("arm64: smp: remove stack from secondary_data")
+98c7a1666ee9 ("arm64: smp: remove pointless secondary_data maintenance")
+7d7b720a4b80 ("arm64: Implement stack trace termination record")

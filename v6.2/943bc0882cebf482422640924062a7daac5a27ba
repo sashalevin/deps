@@ -1,0 +1,5 @@
+943bc0882ceb ("iomap: don't increase i_size if it's not a write operation")
+89c6c1d91ab2 ("iomap: drop the write failure handles when unsharing and zeroing")
+a5f31a5028d1 ("iomap: convert iomap_unshare_iter to use large folios")
+5d8edfb900d5 ("iomap: Copy larger chunks from userspace")
+7a70a5085ed0 ("iomap: Add __iomap_put_folio helper")

@@ -1,0 +1,6 @@
+f61a825aa861 ("drm/amdgpu: Skip put_reset_domain if it doesn't exist")
+cfbb6b004744 ("drm/amdgpu: Rework reset domain to be refcounted.")
+02599bc7f704 ("drm/amd/virt: For SRIOV send GPU reset directly to TDR queue.")
+54f329cc7a7a ("drm/amdgpu: Serialize non TDR gpu recovery with TDRs")
+5fd8518d187e ("drm/amdgpu: Move scheduler init to after XGMI is ready")
+a4c63cafa58b ("drm/amdgpu: Introduce reset domain")

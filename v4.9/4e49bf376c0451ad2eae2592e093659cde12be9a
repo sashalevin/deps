@@ -1,0 +1,3 @@
+4e49bf376c04 ("USB: cdc-acm: fix use-after-free after probe failure")
+cae2bc768d17 ("usb: cdc-acm: Decrement tty port's refcount if probe() fail")
+74bccc9b71dc ("cdc-acm: store in and out pipes in acm structure")

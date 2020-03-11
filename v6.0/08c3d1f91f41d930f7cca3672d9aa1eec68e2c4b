@@ -1,0 +1,8 @@
+08c3d1f91f41 ("drm/i915/dsi: Combine checks in mipi_exec_gpio()")
+acc06840fb9e ("drm/i915/dsi: bxt/icl GPIO set value do not need gpio source")
+ba24d15859e0 ("drm/i915/dsi: rename platform specific *_exec_gpio() to *_gpio_set_value()")
+03930e3d9756 ("drm/i915/dsi: switch mipi_exec_gpio() from dev_priv to i915")
+211ed0b3ac9a ("drm/i915/dsi: assume BXT gpio works for non-native GPIO")
+f087cfe6fcff ("drm/i915/dsi: add support for ICL+ native MIPI GPIO sequence")
+8cee664d3eb6 ("drm/i915: use proper helper for register updates")
+e58c2cac2c21 ("drm/i915/display: Use intel_uncore alias if defined")

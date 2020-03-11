@@ -1,0 +1,5 @@
+956a25c9f120 ("hyperv: netvsc: Neaten netvsc_send_pkt by using a temporary")
+b8b835a89b2f ("netvsc: group all per-channel state together")
+d8e18ee0fa96 ("netvsc: enhance transmit select_queue")
+0b307ebd6834 ("netvsc: remove no longer needed receive staging buffers")
+e8f0a89cd759 ("hv_netvsc: fix a race between netvsc_send() and netvsc_init_buf()")

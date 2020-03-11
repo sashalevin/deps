@@ -1,0 +1,7 @@
+af3ac8e41786 ("watchdog: rt2880-wdt: prefer unsigned int over unsigned")
+76ad36bf0ea6 ("watchdog: rt2880-wdt: avoid static global declarations")
+570927df4689 ("watchdog: rt2880_wdt: Convert to use device managed functions and other improvements")
+0f0a6a285ec0 ("watchdog: Convert to use devm_platform_ioremap_resource")
+79b10e09bb52 ("watchdog: mpc8xxx: use dev_xxxx() instead of pr_xxxx()")
+dcd7e04e8e2f ("watchdog: lantiq: Convert to watchdog_device")
+1f59f8aff98f ("watchdog: lantiq: update register names to better match spec")

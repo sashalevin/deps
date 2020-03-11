@@ -1,0 +1,4 @@
+73f37dbcfe17 ("mm: userfaultfd: fix UFFDIO_CONTINUE on fallocated shmem pages")
+153132571f02 ("userfaultfd/shmem: support UFFDIO_CONTINUE for shmem")
+3460f6e5c1ed ("userfaultfd/shmem: combine shmem_{mcopy_atomic,mfill_zeropage}_pte")
+f619147104c8 ("userfaultfd: add UFFDIO_CONTINUE ioctl")

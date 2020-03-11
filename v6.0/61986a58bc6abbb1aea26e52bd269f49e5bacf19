@@ -1,0 +1,6 @@
+61986a58bc6a ("cifs: new dynamic tracepoint to track ses not found errors")
+ac615db03ba5 ("cifs: log session id when a matching ses is not found")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+09a1f9a168ae ("cifs: return correct error in ->calc_signature()")

@@ -1,0 +1,5 @@
+f29f19082823 ("exfat: convert to ctime accessor functions")
+fb91816e403e ("exfat: ensure that ctime is updated whenever the mtime is")
+e981917b3fae ("exfat: remove argument 'size' from exfat_truncate()")
+4493895b2bdc ("exfat: remove duplicate write inode for truncating file")
+23e6e1c9b373 ("exfat: reuse __exfat_write_inode() to update directory entry")

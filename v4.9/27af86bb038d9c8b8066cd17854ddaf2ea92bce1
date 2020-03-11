@@ -1,0 +1,4 @@
+27af86bb038d ("sctp: do not pr_err for the duplicated node in transport rhlist")
+5179b26694c9 ("sctp: call rcu_read_lock before checking for duplicate transport nodes")
+cd2b70875058 ("sctp: check duplicate node before inserting a new transport")
+7fda702f9315 ("sctp: use new rhlist interface on sctp transport rhashtable")

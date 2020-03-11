@@ -1,0 +1,5 @@
+d9c04a1b7a15 ("udmabuf: Set ubuf->sg = NULL if the creation of sg table fails")
+284562e1f348 ("udmabuf: implement begin_cpu_access/end_cpu_access hooks")
+c1bbed668997 ("udmabuf: add a pointer to the miscdevice in dma-buf private data")
+bc7a71da43b4 ("udmabuf: use cache_sgt_mapping option")
+19d32ace8b6a ("udmabuf: Remove deleted map/unmap handlers.")

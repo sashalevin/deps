@@ -1,0 +1,8 @@
+cd846bef2d74 ("sfc: add XDP counters to ethtool stats")
+dfe44c1f52ee ("sfc: handle XDP_TX outcomes of XDP eBPF programs")
+e45a4fed9d00 ("sfc: Enable setting of xdp_prog")
+eb9a36be7f3e ("sfc: perform XDP processing on received packets")
+c2bebe37c6b6 ("sfc: give ef10 its own rwsem in the filter table instead of filter_lock")
+3af0f34290f6 ("sfc: replace asynchronous filter operations")
+42356d9a137b ("sfc: support RSS spreading of ethtool ntuple filters")
+7aa1402e2eb4 ("net: ethernet/sfc: Convert timers to use timer_setup()")

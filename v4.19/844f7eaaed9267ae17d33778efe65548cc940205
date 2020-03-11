@@ -1,0 +1,6 @@
+844f7eaaed92 ("include/uapi/linux/xfrm.h: Fix XFRM_MSG_MAPPING ABI breakage")
+2d151d39073a ("xfrm: Add possibility to set the default to block if we have no policy")
+b1e3a5607034 ("xfrm: Fix NULL pointer dereference on policy lookup")
+26912e3756d0 ("xfrm: use secpath_exist where applicable")
+2294be0f11e2 ("net: use skb_sec_path helper in more places")
+f92a2ebb3d55 ("Merge tag 'selinux-pr-20181129' of git://git.kernel.org/pub/scm/linux/kernel/git/pcmoore/selinux")

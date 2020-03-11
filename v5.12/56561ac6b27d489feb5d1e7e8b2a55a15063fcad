@@ -1,0 +1,7 @@
+56561ac6b27d ("RDMA/mlx5: Merge similar flows of allocating MR from the cache")
+185b9826782a ("RDMA/mlx5: Remove redundant work in struct mlx5_cache_ent")
+b68362304bcf ("RDMA/mlx5: Avoid taking MRs from larger MR cache pools when a pool is empty")
+e6a1f8c696be ("RDMA/mlx5: Remove redundant assignment to ret")
+e6fb246ccafb ("RDMA/mlx5: Consolidate MR destruction to mlx5_ib_dereg_mr()")
+f18ec4223117 ("RDMA/mlx5: Use a union inside mlx5_ib_mr")
+a639e66703ee ("RDMA/mlx5: Zero out ODP related items in the mlx5_ib_mr")

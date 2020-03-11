@@ -1,0 +1,8 @@
+2bf91341ee42 ("drm/i915: Move display power initialization during driver probing later")
+03d2c54d3090 ("drm/i915/mtl: Use primary GT's irq lock for media GT")
+f0e2f00c49db ("drm/i915/xelpmp: Expose media as another GT")
+4ecd56fdad56 ("drm/i915: Rename and expose common GT early init routine")
+70fff19a570d ("drm/i915: Prepare more multi-GT initialization")
+639e30ee3950 ("drm/i915: Only hook up uncore->debug for primary uncore")
+f16bfc1d5de0 ("drm/i915: Move locking and unclaimed check into mmio_debug_{suspend, resume}")
+5dca122f8388 ("drm/i915/gt: Create gt/gtN/.defaults/ for per gt sysfs defaults")

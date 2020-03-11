@@ -1,0 +1,5 @@
+ea55c65dedf4 ("serial: bcm63xx-uart: fix tx after conversion to uart_port_tx_limited()")
+d11cc8c3c4b6 ("tty: serial: use uart_port_tx_limited()")
+523f54ed3be7 ("tty: serial: unify TX space reads under altera_jtaguart_tx_space()")
+7ef26ab6feea ("tty: serial: extract serial_omap_put_char() from transmit_chars()")
+9c3a431a486d ("tty: serial: altera: use altera_jtaguart_stop_tx()")

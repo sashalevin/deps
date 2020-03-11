@@ -1,0 +1,6 @@
+9e95c67efa8a ("soc: bcm: bcm2835-power: Bypass power_on/off() calls")
+670c672608a1 ("soc: bcm: bcm2835-pm: Add support for power domains under a new binding.")
+5e6acc3e678e ("bcm2835-pm: Move bcm2835-watchdog's DT probe to an MFD.")
+5f5aa6f10a11 ("watchdog: bcm2835_wdt: Convert to use device managed functions and other improvements")
+71e9b2f0bf2a ("watchdog: bcm2835_wdt: Use watchdog core to install restart handler")
+054ae1942285 ("watchdog: bcm2835_wdt: set WDOG_HW_RUNNING bit when appropriate")

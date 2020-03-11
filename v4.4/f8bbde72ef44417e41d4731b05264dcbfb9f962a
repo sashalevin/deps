@@ -1,0 +1,8 @@
+f8bbde72ef44 ("dt-bindings: i2c: mv64xxx: Add YAML schemas")
+1534156e9997 ("i2c: mv64xxx: Fix clock resource by adding an optional bus clock")
+a9e94bb80ea6 ("i2c: mv64xxx: Remove useless test before clk_disable_unprepare")
+88ad60c23a39 ("i2c: mv64xxx: don't override deferred probing when getting irq")
+074363a5a08c ("i2c: mv64xxx: simplify optional reset handling")
+f3a36fbdd359 ("i2c: mv64xxx: remove CONFIG_HAVE_CLK conditionals")
+70719350ca25 ("i2c: mv64xxx: use clk_{prepare_enable,disable_unprepare}")
+9f4d6f164229 ("i2c: mv64xxx: handle probe deferral for the clock")

@@ -1,0 +1,5 @@
+be90cc318b4c ("drm/i915: Restore planes after load detection")
+20bdc112bbe4 ("drm/i915: Disable all planes for load detection, v2.")
+3e72be177cf1 ("drm/i915: Drop fb reference on load_detect_pipe failure path")
+c3ed110386db ("drm/i915: Replace *_reference/unreference() or *_ref/unref with _get/put()")
+bacdcd55fa5f ("drm/i915: Constify load detect mode")

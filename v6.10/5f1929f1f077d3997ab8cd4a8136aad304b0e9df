@@ -1,0 +1,6 @@
+5f1929f1f077 ("bcachefs: key cache can now allocate from pending")
+f2bfe7e83765 ("bcachefs: Rip out freelists from btree key cache")
+a592cdf5164d ("bcachefs: don't use rht_bucket() in btree_key_cache_scan()")
+d2cb6b219d37 ("bcachefs: Simplify btree key cache fill path")
+789566da258f ("bcachefs: bch2_btree_key_cache_drop() now evicts")
+c30402e5483d ("bcachefs: btree_path_cached_set()")

@@ -1,0 +1,6 @@
+381cae169853 ("riscv: only select DMA_DIRECT_REMAP from RISCV_ISA_ZICBOM and ERRATA_THEAD_PBMT")
+e7ddd00eb375 ("riscv: Kconfig: Select DMA_DIRECT_REMAP only if MMU is enabled")
+f51f7a0fc2f4 ("riscv: enable DMA_BOUNCE_UNALIGNED_KMALLOC for !dma_coherent")
+5f365c133b83 ("RISC-V: re-order Kconfig selects alphanumerically")
+c528ef0888b7 ("riscv: Fixup compile error with !MMU")
+2e64066dab15 ("Merge tag 'riscv-for-linus-6.1-mw1' of git://git.kernel.org/pub/scm/linux/kernel/git/riscv/linux")

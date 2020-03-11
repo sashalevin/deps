@@ -1,0 +1,8 @@
+1dc5a61559e7 ("mmc: sdio: Align the initialization commands in retry path for UHS-I")
+fa1e3191922b ("mmc: sdio: Re-use negotiated OCR mask when re-sending CMD8")
+ee550947a0d6 ("mmc: sdio: Move comment about re-initialization to mmc_sdio_reinit_card()")
+cd23042d0546 ("mmc: sdio: Drop mmc_claim|release_host() in mmc_sdio_power_restore()")
+fb09f44e290b ("mmc: core: Re-factor some code for SDIO re-initialization")
+5fc3d80ef496 ("mmc: sdio: don't use rocr to check if the card could support UHS mode")
+0eb51a58ad82 ("mmc: sdio: Factor out retry init card helper function")
+5df0e8231f95 ("mmc: core: remove BUG_ONs from sdio")

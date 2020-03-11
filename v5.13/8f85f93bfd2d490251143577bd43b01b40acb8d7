@@ -1,0 +1,4 @@
+8f85f93bfd2d ("um: use obj-y to descend into arch/um/*/")
+d32df1080f01 ("um: Hard-code the result of 'uname -s'")
+d82856395505 ("kbuild: do not require sub-make for separate output tree builds")
+d92cc4d51643 ("kbuild: require all architectures to have arch/$(SRCARCH)/Kbuild")

@@ -1,0 +1,4 @@
+d6bf71a18c74 ("KVM: nVMX: Ignore 'hv_clean_fields' data when eVMCS data is copied in vmx_get_nested_state()")
+25641cafabc6 ("KVM: nVMX: Make copy_vmcs12_to_enlightened()/copy_enlightened_to_vmcs12() return 'void'")
+1e9dfbd748f3 ("KVM: nVMX: Use '-1' in 'hv_evmcs_vmptr' to indicate that eVMCS is not in use")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")

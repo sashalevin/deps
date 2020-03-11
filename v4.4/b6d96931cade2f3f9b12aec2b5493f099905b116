@@ -1,0 +1,8 @@
+b6d96931cade ("sfc: fix unused-but-set-variable warning in efx_farch_filter_remove_safe")
+fc7a6c287ff3 ("sfc: use a semaphore to lock farch filters too")
+c2bebe37c6b6 ("sfc: give ef10 its own rwsem in the filter table instead of filter_lock")
+3af0f34290f6 ("sfc: replace asynchronous filter operations")
+42356d9a137b ("sfc: support RSS spreading of ethtool ntuple filters")
+7aa1402e2eb4 ("net: ethernet/sfc: Convert timers to use timer_setup()")
+bb53f4d4f511 ("sfc: Fix MCDI command size for filter operations")
+105eac6c35a1 ("sfc: forget filters from sw table if hw replies ENOENT on removing them")

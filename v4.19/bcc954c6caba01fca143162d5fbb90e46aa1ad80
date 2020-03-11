@@ -1,0 +1,5 @@
+bcc954c6caba ("printk/panic: Allow cpu backtraces to be written into ringbuffer during panic")
+779dbc2e78d7 ("printk: Avoid non-panic CPUs writing to ringbuffer")
+0ab7cdd00491 ("printk: For @suppress_panic_printk check for other CPU in panic")
+b905039e428d ("panic: fix the panic_print NMI backtrace setting")
+d8763154455e ("Merge tag 'printk-for-6.3' of git://git.kernel.org/pub/scm/linux/kernel/git/printk/linux")

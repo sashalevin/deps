@@ -1,0 +1,5 @@
+f560bd19d2fe ("x86/realmode: Make set_real_mode_mem() static inline")
+b929a500d684 ("x86/realmode: Don't leak the trampoline kernel address")
+5bc653b73182 ("x86/efi: Allocate a trampoline if needed in efi_free_boot_services()")
+5ff3e2c3c3ee ("x86/boot: Rework reserve_real_mode() to allow multiple tries")
+b234e8a09003 ("x86/mm: Separate variable for trampoline PGD")

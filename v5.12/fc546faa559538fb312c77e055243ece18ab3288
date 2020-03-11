@@ -1,0 +1,6 @@
+fc546faa5595 ("powerpc/kexec_file: Count hot-pluggable memory in FDT estimate")
+7294194b47e9 ("powerpc/kexec_file: Fix division by zero in extra size estimation")
+340a4a9f8773 ("powerpc: Take in account addition CPU node when building kexec FDT")
+886db32398ab ("powerpc/kexec_file: Restore FDT size estimation for kdump kernel")
+3c985d31ad66 ("powerpc: Use common of_kexec_alloc_and_setup_fdt()")
+e6635bab530d ("powerpc: Use ELF fields defined in 'struct kimage'")

@@ -1,0 +1,5 @@
+1ca87e015d99 ("KVM: x86/mmu: Rename DEFAULT_SPTE_MMU_WRITEABLE to DEFAULT_SPTE_MMU_WRITABLE")
+6ff94f27fd47 ("KVM: x86/mmu: Improve TLB flush comment in kvm_mmu_slot_remove_write_access()")
+5f16bcac6e28 ("KVM: x86/mmu: Document and enforce MMU-writable and Host-writable invariants")
+21fa324654e4 ("KVM: x86/mmu: Extract zapping of rmaps for gfn range to separate helper")
+e8be2a5ba86c ("KVM: x86/mmu: Drop a redundant remote TLB flush in kvm_zap_gfn_range()")

@@ -1,0 +1,7 @@
+013be03840c2 ("scsi: s390: zfcp_fc: use sg helper to iterate over scatterlist")
+58f3ead54752 ("scsi: zfcp: move SG table helper from aux to fc and make them static")
+d39eda54b70d ("scsi: zfcp: consistently use function name space prefix")
+674595d8519f ("scsi: zfcp: decouple our scsi_eh callbacks from scsi_cmnd")
+822121186375 ("scsi: zfcp: decouple SCSI traces for scsi_eh / TMF from scsi_cmnd")
+81979ae63e87 ("scsi: zfcp: fix missing SCSI trace for retry of abort / scsi_eh TMF")
+df30781699f5 ("scsi: zfcp: fix missing SCSI trace for result of eh_host_reset_handler")

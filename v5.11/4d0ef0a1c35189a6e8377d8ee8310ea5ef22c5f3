@@ -1,0 +1,3 @@
+4d0ef0a1c351 ("spi: cadence-quadspi: Fix PM disable depth imbalance in cqspi_probe")
+73d5fe046270 ("spi: cadence-quadspi: Remove spi_master_put() in probe failure path")
+b7be05d5e4a3 ("spi: spi-cadence-quadspi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")

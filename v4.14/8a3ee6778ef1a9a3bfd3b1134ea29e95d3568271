@@ -1,0 +1,4 @@
+8a3ee6778ef1 ("block: print the current process in handle_bad_sector")
+f4ac712e4fe0 ("block: ratelimit handle_bad_sector() message")
+52c5e62d4c4b ("block: bio_check_eod() needs to consider partitions")
+721c7fc701c7 ("block: fail op_is_write() requests to read-only partitions")

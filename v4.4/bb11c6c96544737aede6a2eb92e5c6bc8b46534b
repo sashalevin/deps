@@ -1,0 +1,5 @@
+bb11c6c96544 ("KVM: x86: MMU: Remove unused parameter parent_pte from kvm_mmu_get_page()")
+98bba238429e ("KVM: x86: MMU: Move parent_pte handling from kvm_mmu_get_page() to link_shadow_page()")
+4700579241d2 ("KVM: x86: MMU: Move initialization of parent_ptes out from kvm_mmu_alloc_page()")
+018aabb56d61 ("KVM: x86: MMU: Encapsulate the type of rmap-chain head in a new struct")
+0e3d0648bd90 ("KVM: x86: MMU: always set accessed bit in shadow PTEs")

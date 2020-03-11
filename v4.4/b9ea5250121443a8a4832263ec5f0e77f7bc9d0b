@@ -1,0 +1,7 @@
+b9ea52501214 ("s390/qeth: improve error reporting on IP add/removal")
+02f510f32650 ("s390/qeth: update takeover IPs after configuration change")
+8a03a3692b10 ("s390/qeth: lock IP table while applying takeover changes")
+b22d73d6689f ("s390/qeth: don't apply takeover changes to RXIP")
+7fbd9493f0ee ("s390/qeth: apply takeover changes when mode is toggled")
+016930b88a1d ("s390/qeth: use ip_lock for hsuid configuration")
+5f78e29ceebf ("qeth: optimize IP handling in rx_mode callback")

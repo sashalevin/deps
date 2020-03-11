@@ -1,0 +1,6 @@
+080b76d81117 ("drm/i915/xe2hpd: Initial cdclk table")
+dfdfc609bb71 ("drm/i915/cdclk: Rename lnl_cdclk_table to xe2lpd_cdclk_table")
+0e7dd6fe9602 ("drm/i915: Reuse RPLU cdclk fns for MTL+")
+26aba0d1c35f ("drm/i915/cdclk: Extract cdclk_divider()")
+7af2f3e55c1e ("drm/i915/cdclk: Extract bxt_cdclk_ctl()")
+89d6708d947a ("drm/i915/cdclk: Remove divider field from tables")

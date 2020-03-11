@@ -1,0 +1,7 @@
+737c086eddab ("hwmon: (ntc_thermistor) use a table to lookup the thermistor type")
+e8fda2c8646e ("hwmon: (ntc_thermistor): add support for B57891S0103 from Epcos")
+5e7f5994bddd ("hwmon: (ntc_thermistor) Use devm_hwmon_device_register_with_groups")
+48001525c94b ("hwmon: (ntc_thermistor) Use dev instead of &pdev->dev where possible")
+640208567660 ("hwmon: (ntc_thermistor) Use devm_iio_channel_get")
+0e058bc3acc0 ("hwmon: convert ntc_thermistor to use devm_thermal_zone_of_sensor_register")
+54ce3a0d8011 ("hwmon: (ntc_thermistor) Add support for ncpXXxh103")

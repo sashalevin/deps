@@ -1,0 +1,6 @@
+8c3fffe3993b ("crypto: scompress - initialize per-CPU variables on each CPU")
+71052dcf4be7 ("crypto: scompress - Use per-CPU struct instead multiple variables")
+6a8487a1f29f ("crypto: scompress - defer allocation of scratch buffer to first use")
+cc4d110ec824 ("crypto: scompress - free partially allocated scratch buffers on failure")
+1ab53a77b772 ("crypto: acomp - add driver-side scomp interface")
+2ebda74fd6c9 ("crypto: acomp - add asynchronous compression api")

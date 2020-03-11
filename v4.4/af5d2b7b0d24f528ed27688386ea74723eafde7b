@@ -1,0 +1,6 @@
+af5d2b7b0d24 ("mmc: sdhci: Drop redundant code for SDIO IRQs")
+3602785b341a ("mmc: sdhci-esdhc-imx: Enable/Disable mmc clock during runtime suspend")
+a0ad3087586d ("mmc: sdhci-esdhc-imx: Changes the order of how clocks are being re-enabled")
+17b1eb7f0bf3 ("mmc: sdhci-esdhc-imx: Check the return value from clk_prepare_enable()")
+fb9ee04779cf ("mmc: sdhci: Introduce sdhci_calc_clk()")
+070e6d3ff5a6 ("mmc: sdhci-esdhc-imx: use sdhci_pltfm_init for private allocation")

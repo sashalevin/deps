@@ -1,0 +1,8 @@
+8fb2046180a0 ("KVM: arm64: Move early handlers to per-EC handlers")
+159b859beed7 ("KVM: arm64: Refactor __populate_fault_info()")
+52029198c1ce ("KVM: arm64: Rework SVE host-save/guest-restore")
+468f3477ef8b ("KVM: arm64: Introduce vcpu_sve_vq() helper")
+83857371d4cb ("KVM: arm64: Use {read,write}_sysreg_el1 to access ZCR_EL1")
+297b8603e356 ("KVM: arm64: Provide KVM's own save/restore SVE primitives")
+96d389ca1011 ("arm64: Add workaround for Arm Cortex-A77 erratum 1508412")
+f9a705ad1c07 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

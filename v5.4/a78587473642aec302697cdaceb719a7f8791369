@@ -1,0 +1,7 @@
+a78587473642 ("powerpc: Rely on address instead of pte_user()")
+42a2722319f0 ("powerpc/nohash: Refactor pte_update()")
+0f4027eab592 ("powerpc/nohash: Replace #ifdef CONFIG_44x by IS_ENABLED(CONFIG_44x) in pgtable.h")
+4c1a89d983be ("powerpc/nohash: Move 8xx version of pte_update() into pte-8xx.h")
+9fee28baa601 ("powerpc: implement the new page table range API")
+2bba2ffbe030 ("powerpc/nohash/mm: support __HAVE_ARCH_PTE_SWP_EXCLUSIVE")
+5f6e430f931d ("Merge tag 'powerpc-6.2-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

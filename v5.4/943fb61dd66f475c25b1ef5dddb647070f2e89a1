@@ -1,0 +1,6 @@
+943fb61dd66f ("mm/z3fold: fix z3fold_page_migrate races with z3fold_map")
+8ea2f86cea6e ("mm/z3fold: remove unneeded page_mapcount_reset and ClearPagePrivate")
+dcf5aedb24f8 ("z3fold: stricter locking and more careful reclaim")
+fc5488651c7d ("z3fold: simplify freeing slots")
+d8f117abb380 ("z3fold: fix use-after-free when freeing handles")
+4a3ac9311dac ("mm/z3fold.c: add inter-page compaction")

@@ -1,0 +1,8 @@
+21bdff48e12b ("scsi: core: Have midlayer retry scsi_mode_sense() UAs")
+7dfe0b5e7ca6 ("scsi: core: Convert to scsi_execute_cmd()")
+e17d63403076 ("scsi: core: Pick suitable allocation length in scsi_report_opcode()")
+d0672a03e0af ("scsi: core: Introduce scsi_status_is_check_condition()")
+ced202f7bd78 ("scsi: core: Stop using DRIVER_ERROR")
+64aaa3dd096a ("scsi: core: Reshuffle response handling in scsi_mode_sense()")
+8793613de913 ("scsi: core: Fixup calling convention for scsi_mode_sense()")
+1ee275342234 ("scsi: core: Treat device offline as a failure")

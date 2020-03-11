@@ -1,0 +1,7 @@
+f70ff1271378 ("arm64: topology: rename llc_siblings to align with other struct members")
+5bdd2b3f0f88 ("arm64: topology: add support to remove cpu topology sibling masks")
+31b46035576d ("arm64: topology: refactor reset_cpu_topology to add support for removing topology")
+e156ab71a974 ("arm64: topology: Avoid checking numa mask for scheduler MC selection")
+37c3ec2d810f ("arm64: topology: divorce MC scheduling domain from core_siblings")
+2f0a5d107e1f ("arm64: topology: enable ACPI/PPTT based CPU topology")
+868abc07680c ("arm64: topology: rename cluster_id")

@@ -1,0 +1,4 @@
+dfbb3409b27f ("block: genhd: don't call blkdev_show() with major_names_lock held")
+e49fbbbf0aa1 ("block: split block_class_lock")
+62b508f8b6b1 ("block: open code kobj_map into in block/genhd.c")
+31eb6186797c ("block: mark block_depr static")

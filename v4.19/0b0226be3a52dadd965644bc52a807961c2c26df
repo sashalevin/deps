@@ -1,0 +1,5 @@
+0b0226be3a52 ("uio_hv_generic: Fix another memory leak in error handling paths")
+74e71964b1a9 ("uio: uio_hv_generic: use devm_kzalloc() for private data alloc")
+cdfa835c6e5e ("uio_hv_generic: defer opening vmbus until first use")
+9da197f1df40 ("hv_uio_generic: map ringbuffer phys addr")
+52a42c2a9022 ("vmbus: keep pointer to ring buffer page")

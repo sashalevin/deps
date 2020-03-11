@@ -1,0 +1,6 @@
+87e02063d077 ("crypto: safexcel - Add error handling for dma_map_sg() calls")
+49186a7d9e46 ("crypto: inside_secure - Avoid dma map if size is zero")
+19b347b32bb1 ("crypto: inside-secure - fix scatter/gather list to descriptor conversion")
+5bdb6e6aa53b ("crypto: inside-secure - fix incorrect skcipher output IV")
+893325904272 ("crypto: inside-secure - do not rely on the hardware last bit for result descriptors")
+583d7e195f48 ("crypto: inside-secure - fix use of the SG list")

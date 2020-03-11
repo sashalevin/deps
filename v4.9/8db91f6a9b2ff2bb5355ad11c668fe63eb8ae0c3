@@ -1,0 +1,6 @@
+8db91f6a9b2f ("hv_netvsc: Fix the queue index computation in forwarding case")
+7ce101246655 ("netvsc: handle select_queue when device is being removed")
+b8b835a89b2f ("netvsc: group all per-channel state together")
+d8e18ee0fa96 ("netvsc: enhance transmit select_queue")
+0b307ebd6834 ("netvsc: remove no longer needed receive staging buffers")
+e8f0a89cd759 ("hv_netvsc: fix a race between netvsc_send() and netvsc_init_buf()")

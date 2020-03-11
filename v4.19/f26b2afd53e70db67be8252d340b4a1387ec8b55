@@ -1,0 +1,5 @@
+f26b2afd53e7 ("ptrace: remove redudant check of #ifdef PTRACE_SINGLESTEP")
+90f093fa8ea4 ("rseq, ptrace: Add PTRACE_GET_RSEQ_CONFIGURATION request")
+201766a20e30 ("ptrace: add PTRACE_GET_SYSCALL_INFO request")
+fcfc2aa0185f ("ptrace: take into account saved_sigmask in PTRACE{GET,SET}SIGMASK")
+efc463adbccf ("signal: Simplify tracehook_report_syscall_exit")

@@ -1,0 +1,6 @@
+d8c0418aac78 ("kernel/sysctl.c: rename sysctl_init() to sysctl_init_bases()")
+3ddd9a808cee ("sysctl: add a new register_sysctl_init() interface")
+3db978d480e2 ("kernel/sysctl: support setting sysctl parameters from kernel command line")
+f461d2dcd511 ("sysctl: avoid forward declarations")
+2374c09b1c8a ("sysctl: remove all extern declaration from sysctl.c")
+26363af56434 ("mm: remove watermark_boost_factor_sysctl_handler")

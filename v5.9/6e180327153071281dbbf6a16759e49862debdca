@@ -1,0 +1,4 @@
+6e1803271530 ("namei: move clearing LOOKUP_RCU towards rcu_read_unlock()")
+eacd9aa8cede ("fix handling of nd->depth on LOOKUP_CACHED failures in try_to_unlazy*")
+ae66db45fd30 ("saner calling conventions for unlazy_child()")
+e36cffed20a3 ("fs: make unlazy_walk() error handling consistent")

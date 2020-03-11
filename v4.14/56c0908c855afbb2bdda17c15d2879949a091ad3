@@ -1,0 +1,6 @@
+56c0908c855a ("genhd: Fix BUG in blkdev_open()")
+9df6c2991231 ("genhd: Add helper put_disk_and_module()")
+d52987b524cc ("genhd: Fix leaked module reference for NVME devices")
+f0fba398fec6 ("block: avoid null pointer dereference on null disk")
+8ddcd653257c ("block: introduce GENHD_FL_HIDDEN")
+517bf3c306ba ("block: don't look at the struct device dev_t in disk_devt")

@@ -1,0 +1,4 @@
+354b41296701 ("mtd: spi-nor: core: do 2 byte reads for SR and FSR in DTR mode")
+6c6a2b2b8ed6 ("mtd: spi-nor: core: use dummy cycle and address width info from SFDP")
+0e30f47232ab ("mtd: spi-nor: add support for DTR protocol")
+6e1bf55d7207 ("mtd: spi-nor: add spi_nor_controller_ops_{read_reg, write_reg, erase}()")

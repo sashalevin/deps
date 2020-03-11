@@ -1,0 +1,5 @@
+a09ac3974d0c ("tty: resolve tty contention between kernel and user space")
+fc61ed51270e ("tty: add function to convert device name to number")
+cbf4b3867875 ("tty: define tty_open_by_driver when CONFIG_TTY is not defined")
+12e84c71b7d4 ("tty: export tty_open_by_driver")
+9ed90d20449b ("tty: move the non-file related parts of tty_release to new tty_release_struct")

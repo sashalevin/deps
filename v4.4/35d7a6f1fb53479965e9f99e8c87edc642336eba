@@ -1,0 +1,8 @@
+35d7a6f1fb53 ("nfc: hci: pass callback data param as pointer in nci_request()")
+ddecf5556f7f ("nfc: nci: constify several pointers to u8, sk_buff and other structs")
+4964e5a1e080 ("net: nfc: nci: fix the wrong NCI_CORE_INIT parameters")
+bcd684aace34 ("net/nfc/nci: Support NCI 2.x initial sequence")
+1c53855f6be2 ("nfc: nci: Add nci_nfcc_loopback to the nci core")
+9b8d1a4cf2aa ("nfc: nci: Add an additional parameter to identify a connection id")
+de5ea8517c2a ("nfc: nci: Fix nci_core_conn_close")
+18836029d8c0 ("nfc: nci: Fix nci_core_conn_create to allowing empty destination")

@@ -1,0 +1,4 @@
+7f953ab2ba46 ("af_packet: TX_RING support for TPACKET_V3")
+84ac7260236a ("packet: fix race condition in packet_set_ring")
+6ae81ced3788 ("af_packet: tone down the Tx-ring unsupported spew.")
+8d39b4a6b83c ("packet: parse tpacket header before skb alloc")

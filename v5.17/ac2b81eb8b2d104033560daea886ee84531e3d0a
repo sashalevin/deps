@@ -1,0 +1,7 @@
+ac2b81eb8b2d ("can: mcp251xfd: mcp251xfd_ring_init(): check TX-coalescing configuration")
+83daa863f16b ("can: mcp251xfd: ring: update FIFO setup debug info")
+fa0b68df7c95 ("can: mcp251xfd: ring: mcp251xfd_ring_init(): checked RAM usage of ring setup")
+62713f0d9a38 ("can: mcp251xfd: ring: change order of TX and RX FIFOs")
+617283b9c4db ("can: mcp251xfd: ring: prepare to change order of TX and RX FIFOs")
+d2d5397fcae1 ("can: mcp251xfd: mcp251xfd_ring_init(): split ring_init into separate functions")
+c912f19ee382 ("can: mcp251xfd: introduce struct mcp251xfd_tx_ring::nr and ::fifo_nr and make use of it")

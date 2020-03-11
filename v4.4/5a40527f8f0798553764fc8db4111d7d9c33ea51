@@ -1,0 +1,7 @@
+5a40527f8f07 ("jump_label: Provide hotplug context variants")
+7a34bcb8b272 ("jump_label: Do not use unserialized static_key_enabled()")
+1dbb6704de91 ("jump_label: Fix concurrent static_key_enable/disable()")
+603699bbfb78 ("static-keys.txt: standardize document format")
+ef0da55a84a3 ("jump_labels: Allow array initialisers")
+1f69bf9c6137 ("jump_label: remove bug.h, atomic.h dependencies for HAVE_JUMP_LABEL")
+4c5ea0a9cd02 ("locking/static_key: Fix concurrent static_key_slow_inc()")

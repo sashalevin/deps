@@ -1,0 +1,8 @@
+f836b27ecad9 ("NFS: Have nfs4_proc_get_lease_time() call nfs4_call_sync_custom()")
+fba83f34119a ("NFS: Pass "privileged" value to nfs4_init_sequence()")
+e9ae1ee2b2ac ("NFS: Move call to nfs4_state_protect() to nfs4_commit_setup()")
+fb91fb0ee7b2 ("NFS: Move call to nfs4_state_protect_write() to nfs4_write_setup()")
+f2c2c552f119 ("NFS: Move delegation recall into the NFSv4 callback for rename_setup()")
+3be0f80b5fe9 ("NFSv4.1: Fix up replays of interrupted requests")
+8224b2734ab1 ("NFS: Add static NFS I/O tracepoints")
+b86faee6d111 ("Merge tag 'nfs-for-4.13-1' of git://git.linux-nfs.org/projects/anna/linux-nfs")

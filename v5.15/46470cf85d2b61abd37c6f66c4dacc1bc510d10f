@@ -1,0 +1,6 @@
+46470cf85d2b ("srcu: Prevent cleanup_srcu_struct() from freeing non-dynamic ->sda")
+c69a00a12e26 ("srcu: Add boot-time control over srcu_node array allocation")
+e2f638365dd6 ("srcu: Add size-state transitioning code")
+2ec303113d97 ("srcu: Dynamically allocate srcu_node array")
+994f706872e6 ("srcu: Make Tree SRCU able to operate without snp_node array")
+7b9e9b5856e1 ("srcu: Make srcu_funnel_gp_start() cache ->mynode in snp_leaf")

@@ -1,0 +1,6 @@
+e3a00a23781c ("jbd2: precompute number of transaction descriptor blocks")
+29a511e49f33 ("jbd2: move load_superblock() dependent functions")
+31464ab01fff ("jbd2: skip reading super block if it has been verified")
+04c2e9817965 ("jbd2: remove j_format_version")
+3e5cf02cfa3f ("jbd2: factor out journal initialization from journal_get_superblock()")
+8c004d1fc149 ("jbd2: replace ll_rw_block()")

@@ -1,0 +1,8 @@
+609f80974645 ("kcsan: Remove kcsan_report_type")
+19dfdc05ffed ("kcsan: Remove reporting indirection")
+39b2e763f2de ("kcsan: Refactor access_info initialization")
+97aa6139e1b5 ("kcsan: Fold panic() call into print_report()")
+95f7524d7f0c ("kcsan: Refactor passing watchpoint/other_info")
+793c2579beef ("kcsan: Distinguish kcsan_report() calls")
+92c209ac6d3d ("kcsan: Improve IRQ state trace reporting")
+248591f5d257 ("kcsan: Make KCSAN compatible with new IRQ state tracking")

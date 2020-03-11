@@ -1,0 +1,8 @@
+2d2db7d40254 ("xen/gntdev: Fix the abuse of underlying struct page in DMA-buf import")
+d1749eb1ab85 ("xen: gntdev: fix common struct sg_table related issues")
+bf8dc55b1358 ("xen/gntdev: Implement dma-buf import functionality")
+a240d6e42e28 ("xen/gntdev: Implement dma-buf export functionality")
+932d6562179e ("xen/gntdev: Add initial support for dma-buf UAPI")
+1d3145675538 ("xen/gntdev: Make private routines/structures accessible")
+975ef7ff81bb ("xen/gntdev: Allow mappings for DMA buffers")
+c5f7c5a9a0f8 ("drivers, xen: convert grant_map.users from atomic_t to refcount_t")

@@ -1,0 +1,8 @@
+852f71942ce7 ("i2c: designware: Adjust bus speed independently of ACPI")
+64d0a0755c7d ("i2c: designware: Read counters from ACPI for PCI driver")
+f9288fcc5c61 ("i2c: designware: Move ACPI parts into common module")
+462cfcb4aa1c ("i2c: designware: Drop unneeded condition in i2c_dw_validate_speed()")
+20ee1d9020c9 ("i2c: designware: Move i2c_dw_validate_speed() helper to a common code")
+7943f1d17883 ("i2c: designware: Allow slave mode for PCI enumerated devices")
+42ab0012340d ("i2c: designware: Switch PCI driver to use i2c_dw_configure_master()")
+188fe480cd65 ("i2c: designware: Use devm_platform_ioremap_resource() to simplify code")

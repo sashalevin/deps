@@ -1,0 +1,7 @@
+9721634441d5 ("drm/i915/gt: Limit the reserved VM space to only the platforms that need it")
+9bb66c179f50 ("drm/i915: Reserve some kernel space per vm")
+82b1e8f7ff6a ("drm/i915/gt: remove a static inline that requires including i915_drv.h")
+5a213086a025 ("drm/i915: Eliminate IS_MTL_GRAPHICS_STEP")
+f7696ded7c9e ("drm/i915/xelpg: Call Xe_LPG workaround functions based on IP version")
+28c46feec7f8 ("drm/i915: Consolidate condition for Wa_22011802037")
+eaeb4b361452 ("drm/i915/dg2: Drop pre-production GT workarounds")

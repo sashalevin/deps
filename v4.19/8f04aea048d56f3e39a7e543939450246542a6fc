@@ -1,0 +1,4 @@
+8f04aea048d5 ("ARM: OMAP2+: Restore MPU power domain if cpu_cluster_pm_enter() fails")
+55be2f50336f ("ARM: OMAP2+: Handle errors for cpu_pm")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")

@@ -1,0 +1,8 @@
+fd5439e0c97b ("x86/mm: Check shadow stack page fault errors")
+ec352711ceba ("x86/fault: Fold mm_fault_error() into do_user_addr_fault()")
+74faeee06db8 ("x86/mm: Signal SIGSEGV with PF_SGX")
+05a2fdf32303 ("x86/traps: Move pf error codes to <asm/trap_pf.h>")
+53aaf262c66e ("x86/idtentry: Provide macros to define/declare IDT entry points")
+877f183f83cc ("x86/traps: Split trap numbers out in a separate header")
+d8ed45c5dcd4 ("mmap locking API: use coccinelle to convert mmap_sem rwsem call sites")
+7ae77150d94d ("Merge tag 'powerpc-5.8-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

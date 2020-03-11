@@ -1,0 +1,8 @@
+cf412ec33325 ("net: ipa: properly limit modem routing table use")
+4ea29143ebe6 ("net: ipa: kill IPA_TABLE_ENTRY_SIZE")
+19aaf72c0c7a ("net: ipa: DMA addresses are nicely aligned")
+437c78f976f5 ("net: ipa: avoid 64-bit modulus")
+e5d4e96b44cf ("net: ipa: fix table alignment requirement")
+d2fd2311de90 ("net: ipa: fix assumptions about DMA address size")
+4ace7a6e287b ("net: ipa: pass correct dma_handle to dma_free_coherent()")
+1130b252480f ("net: ipa: pass the correct size when freeing DMA memory")

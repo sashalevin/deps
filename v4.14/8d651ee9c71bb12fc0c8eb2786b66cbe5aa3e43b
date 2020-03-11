@@ -1,0 +1,6 @@
+8d651ee9c71b ("x86/ioremap: Map EFI-reserved memory as encrypted for SEV")
+870b4333a62e ("x86/ioremap: Fix CONFIG_EFI=n build")
+985e537a4082 ("x86/ioremap: Map EFI runtime services data as encrypted for SEV")
+5da04cc86d12 ("x86/mm: Rework ioremap resource mapping determination")
+c3a7a61c192e ("x86/ioremap: Add an ioremap_encrypted() helper")
+0e4c12b45aa8 ("x86/mm, resource: Use PAGE_KERNEL protection for ioremap of memory pages")

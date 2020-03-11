@@ -1,0 +1,8 @@
+c7a909cf25c6 ("spi: spi-ep93xx: remove private data 'current_msg'")
+487388310180 ("spi: spi-ep93xx: pass the spi_master pointer around")
+ac8d06df9a1f ("spi: spi-ep93xx: absorb the interrupt enable/disable helpers")
+16779622be1c ("spi: spi-ep93xx: add spi master prepare_transfer_hardware()")
+8447e4781f03 ("spi: spi-ep93xx: use 32-bit read/write for all registers")
+1232978a0dff ("spi: spi-ep93xx: remove io wrappers")
+55f0cd3fb9c2 ("spi: spi-ep93xx: simplify GPIO chip selects")
+f7aa23cb8dba ("spi: spi-ep93xx: Fix the PTR_ERR() argument")

@@ -1,0 +1,8 @@
+4173f018aae1 ("tty/vt: consolemap: rename and document struct uni_pagedir")
+f4c6fbc96eb1 ("vt: drop unused struct vt_struct")
+d8ae72427187 ("vt: preserve unicode values corresponding to screen characters")
+4b4ecd9cb853 ("vt: Perform safe console erase only once")
+915f0a8d2884 ("vt: use copy_to_user instead of __put_user in GIO_UNIMAP ioctl")
+bcd375f7f71f ("console: Add callback to flush scrollback buffer to consw struct")
+7edd7e82b96b ("console: Move userspace I/O out of console_lock to fix lockdep warning")
+5131dcd78108 ("Merge 4.9-rc3 into tty-next")

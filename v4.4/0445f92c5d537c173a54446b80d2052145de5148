@@ -1,0 +1,8 @@
+0445f92c5d53 ("SUNRPC: Fix disconnection races")
+9b30889c548a ("SUNRPC: Ensure we always close the socket after a connection shuts down")
+e9d476393504 ("net: sunrpc: mark expected switch fall-throughs")
+fd01b2597941 ("SUNRPC: ECONNREFUSED should cause a rebind.")
+3ffbc1d65583 ("net/sunrpc/xprt_sock: fix regression in connection error reporting.")
+40a5f1b19bac ("SUNRPC: RPC transport queue must be low latency")
+42d42a5b0cd2 ("SUNRPC: Small optimisation of client receive")
+d1358917f2eb ("SUNRPC: drop unused xs_reclassify_socketX() helpers")

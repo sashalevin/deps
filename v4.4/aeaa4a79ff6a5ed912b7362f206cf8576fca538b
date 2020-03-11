@@ -1,0 +1,5 @@
+aeaa4a79ff6a ("fs: Call d_automount with the filesystems creds")
+2a18da7a9c78 ("fs/namei.c: Improve dcache hash function")
+fcfd2fbf22d2 ("fs/namei.c: Add hashlen_string() function")
+f4bcbe792b8f ("Pull out string hash to <linux/stringhash.h>")
+0fed3ac866ea ("namei: Improve hash mixing if CONFIG_DCACHE_WORD_ACCESS")

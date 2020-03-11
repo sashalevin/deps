@@ -1,0 +1,8 @@
+9811f7a2c9f4 ("mlxsw: spectrum: Remove RTNL where possible")
+6a5c69cd5512 ("mlxsw: spectrum_dpipe: Take router lock from dpipe code")
+894276e85c16 ("mlxsw: spectrum_router: Take router lock from inside routing code")
+3a99cbb6fa7b ("mlxsw: spectrum_dpipe: Add missing error path")
+965fa8e600d2 ("mlxsw: spectrum_router: Make RIF deletion more robust")
+21ffedb6db5a ("mlxsw: spectrum_router: Propagate 'struct mlxsw_sp' further")
+74bc99397438 ("mlxsw: spectrum_router: Veto unsupported RIF MAC addresses")
+9735f2d2fe2c ("mlxsw: spectrum_router: Generalize mlxsw_sp_netdevice_router_port_event()")

@@ -1,0 +1,6 @@
+d1408f6b4dd7 ("usbnet: Run unregister_netdev() before unbind() again")
+a049a30fc27c ("net: usb: Correct PHY handling of smsc95xx")
+5ab8a447bcfe ("smsc95xx: fix stalled rx after link change")
+2c9d6c2b871d ("usbnet: run unbind() before unregister_netdev()")
+e532a096be0e ("net: usb: asix: ax88772: add phylib support")
+7e88b11a862a ("net: usb: asix: refactor asix_read_phy_addr() and handle errors on return")

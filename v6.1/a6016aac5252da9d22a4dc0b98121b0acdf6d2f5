@@ -1,0 +1,4 @@
+a6016aac5252 ("dma: fix DMA sync for drivers not calling dma_set_mask*()")
+f406c8e4b770 ("dma: avoid redundant calls for sync operations")
+fe7514b149e0 ("dma: compile-out DMA sync op calls when not used")
+370645f41e6e ("dma-mapping: force bouncing if the kmalloc() size is not cache-line-aligned")

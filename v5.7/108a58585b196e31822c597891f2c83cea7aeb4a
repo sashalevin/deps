@@ -1,0 +1,6 @@
+108a58585b19 ("nvme: do not call del_gendisk() on a disk that was never added")
+33cfdc2aa696 ("nvme: enforce extended LBA format for fabrics metadata")
+b29f84857a0f ("nvme: introduce NVME_NS_METADATA_SUPPORTED flag")
+ffc89b1d3ca4 ("nvme: introduce namespace features flag")
+38adf94e166e ("nvme: consolidate chunk_sectors settings")
+b2b2de7c5a01 ("nvme: revalidate after verifying identifiers")

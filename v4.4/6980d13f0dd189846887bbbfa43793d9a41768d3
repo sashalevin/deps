@@ -1,0 +1,8 @@
+6980d13f0dd1 ("powerpc/smp: Set numa node before updating mask")
+96d91431d691 ("powerpc/smp: Add Power9 scheduler topology")
+df52f6714071 ("powerpc/smp: Rework CPU topology construction")
+e3d8b67e2c60 ("powerpc/smp: Use cpu_to_chip_id() to find core siblings")
+7b7622bb95eb ("powerpc/smp: Call smp_ops->setup_cpu() directly on the boot CPU")
+6d11b87d55eb ("powerpc/smp: Replace open coded task affinity logic")
+0c98d344fe5c ("sched/core: Remove the tsk_cpus_allowed() wrapper")
+ce866e2d182b ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/dledford/rdma")

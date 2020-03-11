@@ -1,0 +1,4 @@
+009d9bea49b4 ("btrfs: avoid memory allocation at log_new_dir_dentries() for common case")
+4008481343aa ("btrfs: free list element sooner at log_new_dir_dentries()")
+732d591a5d6c ("btrfs: stop copying old dir items when logging a directory")
+a450a4af7433 ("btrfs: don't log unnecessary boundary keys when logging directory")

@@ -1,0 +1,6 @@
+9c85b7fa12ef ("iavf: remove active_cvlans and active_svlans bitmaps")
+0c0da0e95105 ("iavf: refactor VLAN filter states")
+964290ff32d1 ("iavf: do not track VLAN 0 filters")
+4411a608f7c8 ("iavf: fix temporary deadlock and failure to set MAC address")
+227d8d2f7f22 ("iavf: Fix error handling in iavf_init_module()")
+11c12adcbc15 ("iavf: Fix race between iavf_close and iavf_reset_task")

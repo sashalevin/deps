@@ -1,0 +1,6 @@
+f9981d4f50b4 ("spi: spi_register_controller(): free bus id on error paths")
+f9481b08220d ("spi: fix ctrl->num_chipselect constraint")
+0a919ae49223 ("spi: Don't call spi_get_gpio_descs() before device name is set")
+2df201e0067d ("spi: Support high CS when using descriptors")
+f3186dd87669 ("spi: Optionally use GPIO descriptors for CS GPIOs")
+4b51c747e4a5 ("Merge branch 'spi-4.20' into spi-next")

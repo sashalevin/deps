@@ -1,0 +1,7 @@
+4a663dae4731 ("iommu/vt-d: Add build dependency on IOASID")
+c5a5dc4cbbf4 ("iommu/vt-d: Don't switch off swiotlb if bounce page is used")
+89a6079df791 ("iommu/vt-d: Force IOMMU on for platform opt in hint")
+4fac8076df85 ("ia64: clean up swiotlb support")
+543cea9accd9 ("ia64: use generic swiotlb_ops")
+d5c23ebf1b52 ("ia64: replace ZONE_DMA with ZONE_DMA32")
+fde25dd4c7b0 ("ia64: rename swiotlb_dma_ops")

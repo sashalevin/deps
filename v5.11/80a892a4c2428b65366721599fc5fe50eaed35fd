@@ -1,0 +1,8 @@
+80a892a4c242 ("drm/i915: Move CSC load back into .color_commit_arm() when PSR is enabled on skl/glk")
+d13dde449580 ("drm/i915: Split pipe+output CSC programming to noarm+arm pair")
+e9b14658d519 ("drm/i915: Split color_commit() into noarm+arm pair")
+61b3b2da10db ("drm/i915: Make the pipe/output CSC register writes lockless")
+9b43698af7c3 ("drm/i915: Introduce intel_crtc_planes_update_arm()")
+6e007c3bc970 ("drm/i915/color: hide struct intel_color_funcs")
+2ecf64a0d266 ("drm/i915: group i915_drv.h forward declarations together")
+063565aca373 ("Merge drm/drm-next into drm-intel-next")

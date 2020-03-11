@@ -1,0 +1,5 @@
+efc8b329c7fd ("clocksource: Verify HPET and PMTMR when TSC unverified")
+b50db7095fe0 ("x86/tsc: Disable clocksource watchdog for TSC on qualified platorms")
+63ec58b44fcc ("x86/tsc: Respect tsc command line paraemeter for clocksource_tsc_early")
+643d83f0a351 ("x86/hpet: Undo the early counter is counting check")
+2f0f6503e375 ("Merge branch 'x86-timers-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+7aa5783d9564 ("ima: Allow imasig requirement to be satisfied by EVM portable signatures")
+cdef685be5b4 ("evm: Allow xattr/attr operations for portable signatures")
+4a804b8a4572 ("evm: Introduce evm_hmac_disabled() to safely ignore verification errors")
+e3ccfe1ad7d8 ("evm: Introduce evm_revalidate_status()")
+455b6c9112ef ("evm: Check size of security.evm before using it")
+a5fbeb615ca4 ("ima: Factor xattr_verify() out of ima_appraise_measurement()")
+650b29dbdf2c ("integrity: Introduce struct evm_xattr")
+d7cecb676dd3 ("ima: Support platform keyring for kernel appraisal")

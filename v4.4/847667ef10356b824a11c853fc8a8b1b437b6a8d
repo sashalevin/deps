@@ -1,0 +1,7 @@
+847667ef1035 ("x86/irq: Remove offline cpus from vector cleanup")
+ab25ac02148b ("x86/irq: Get rid of code duplication")
+9ac15b7a8af4 ("x86/irq: Copy vectormask instead of an AND operation")
+3716fd27a604 ("x86/irq: Check vector allocation early")
+95ffeb4b5bac ("x86/irq: Reorganize the search in assign_irq_vector")
+433cbd57d190 ("x86/irq: Reorganize the return path in assign_irq_vector")
+8a580f70f693 ("x86/irq: Do not use apic_chip_data.old_domain as temporary buffer")

@@ -1,0 +1,7 @@
+928f94642690 ("mxser: move max_baud from port to board")
+58a2ddb3aa85 ("mxser: drop constant board::uart_type")
+e45583668e03 ("mxser: introduce enum mxser_must_hwid")
+292955a7c011 ("mxser: rename mxser_board::chip_flag to must_hwid")
+3b6618299a38 ("mxser: rename CheckIsMoxaMust to mxser_get_must_hwid")
+dc33f644f1cb ("mxser: cleanup Gpci_uart_info struct")
+291343676e32 ("mxser: drop ISA support")

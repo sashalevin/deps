@@ -1,0 +1,6 @@
+0c0c5bffd0a2 ("mmap: pass through vmi iterator to __split_vma()")
+183654ce26a5 ("mmap: change do_mas_munmap and do_mas_aligned_munmap() to use vma iterator")
+0378c0a0e9e4 ("mm/mmap: remove preallocation from do_mas_align_munmap()")
+92fed82047d7 ("mm/mmap: convert brk to use vma iterator")
+baabcfc93d3b ("mm/mmap: fix typo in comment")
+c5d5546ea065 ("maple_tree: remove the parameter entry of mas_preallocate")

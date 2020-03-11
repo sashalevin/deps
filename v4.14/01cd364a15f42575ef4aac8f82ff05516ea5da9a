@@ -1,0 +1,4 @@
+01cd364a15f4 ("net/mlx4: replace pci_{,un}map_sg with dma_{,un}map_sg")
+f65e192af350 ("net/mlx4: Get rid of page operation after dma_alloc_coherent")
+885892fb378d ("mlx4_core: restore optimal ICM memory allocation")
+1383cb8103bb ("mlx4_core: allocate ICM memory in page size chunks")

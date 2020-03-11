@@ -1,0 +1,7 @@
+b37cab587aa3 ("Bluetooth: ISO: Don't reject BT_ISO_QOS if parameters are unset")
+14f0dceca60b ("Bluetooth: ISO: Rework sync_interval to be sync_factor")
+0fe8c8d07134 ("Bluetooth: Split bt_iso_qos into dedicated structures")
+506d9b4099a0 ("Bluetooth: ISO: Fix possible circular locking dependency")
+37224a290853 ("Bluetooth: Use kzalloc instead of kmalloc/memset")
+d11ab690c300 ("Bluetooth: hci_conn: use HCI dst_type values also for BIS")
+7e7df2c10c92 ("Bluetooth: hci_conn: add missing hci_dev_put() in iso_listen_bis()")

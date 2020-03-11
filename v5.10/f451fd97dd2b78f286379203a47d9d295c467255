@@ -1,0 +1,6 @@
+f451fd97dd2b ("ext4: drop the call to ext4_error() from ext4_get_group_info()")
+5354b2af3406 ("ext4: allow ext4_get_group_info() to fail")
+fa08a7b61dff ("ext4: fix WARNING in mb_find_extent")
+01e4ca294517 ("ext4: allow to find by goal if EXT4_MB_HINT_GOAL_ONLY is set")
+a6c75eaf1103 ("ext4: add mballoc stats proc file")
+67d251860461 ("ext4: drop s_mb_bal_lock and convert protected fields to atomic")

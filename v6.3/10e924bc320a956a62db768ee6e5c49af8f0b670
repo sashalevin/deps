@@ -1,0 +1,4 @@
+10e924bc320a ("btrfs: factor out a btrfs_add_compressed_bio_pages helper")
+e7aff33e3161 ("btrfs: use the bbio file offset in btrfs_submit_compressed_read")
+798c9fc74d03 ("btrfs: remove redundant free_extent_map in btrfs_submit_compressed_read")
+544fe4a903ce ("btrfs: embed a btrfs_bio into struct compressed_bio")

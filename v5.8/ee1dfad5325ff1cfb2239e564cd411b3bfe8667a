@@ -1,0 +1,4 @@
+ee1dfad5325f ("dm: fix bio splitting and its bio completion order for regular IO")
+ed00aabd5eb9 ("block: rename generic_make_request to submit_bio_noacct")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+f695ca3886ce ("block: remove the request_queue argument from blk_queue_split")

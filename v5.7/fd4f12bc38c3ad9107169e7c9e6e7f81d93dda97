@@ -1,0 +1,8 @@
+fd4f12bc38c3 ("bpf: Implement bpf_seq_read() for bpf iterator")
+2057c92bc927 ("bpf: Support bpf tracing/iter programs for BPF_LINK_UPDATE")
+de4e05cac46d ("bpf: Support bpf tracing/iter programs for BPF_LINK_CREATE")
+15d83c4d7cef ("bpf: Allow loading of a bpf_iter program")
+ae24345da54e ("bpf: Implement an interface to register bpf_iter targets")
+f2e10bff16a0 ("bpf: Add support for BPF_OBJ_GET_INFO_BY_FD for bpf_link")
+a3b80e107894 ("bpf: Allocate ID for bpf_link")
+f9d041271cf4 ("bpf: Refactor bpf_link update handling")

@@ -1,0 +1,8 @@
+9089f16e053a ("ACPI: EC: Return bool from acpi_ec_dispatch_gpe()")
+f941d3e41da7 ("ACPI: EC / PM: Disable non-wakeup GPEs for suspend-to-idle")
+68e22011856f ("ACPI: EC: Dispatch the EC GPE directly on s2idle wake")
+147a7d9d25ca ("ACPI / PM: Do not reconfigure GPEs for suspend-to-idle")
+8110dd281e15 ("ACPI / sleep: EC-based wakeup from suspend-to-idle on recent systems")
+33e4f80ee69b ("ACPI / PM: Ignore spurious SCI wakeups from suspend-to-idle")
+235d81a630ca ("ACPI / PM: Clean up device wakeup enable/disable code")
+64fd1c704088 ("ACPI / PM: Run wakeup notify handlers synchronously")

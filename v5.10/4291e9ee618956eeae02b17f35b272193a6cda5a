@@ -1,0 +1,8 @@
+4291e9ee6189 ("kasan, arm64: print report from tag fault handler")
+98c970da8b35 ("arm64: mte: add in-kernel tag fault handler")
+f469c032c05e ("arm64: enable armv8.5-a asm-arch option")
+7cf283c7bd62 ("arm64: uaccess: remove redundant PAN toggling")
+fc703d80130b ("arm64: uaccess: split user/kernel routines")
+f253d827f33c ("arm64: uaccess: refactor __{get,put}_user")
+923e1e7d8223 ("arm64: uaccess: rename privileged uaccess routines")
+e2a2190a80ca ("arm64: uaccess: move uao_* alternatives to asm-uaccess.h")

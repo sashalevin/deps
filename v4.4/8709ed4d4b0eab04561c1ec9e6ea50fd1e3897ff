@@ -1,0 +1,7 @@
+8709ed4d4b0e ("x86/cpu: Fix duplicated X86_BUG(9) macro")
+96e5d28ae7a5 ("x86/cpu: Add Erratum 88 detection on AMD")
+7a5d67048745 ("x86/cpu: Probe the behavior of nulling out a segment at boot time")
+58a5aac53313 ("x86/entry/32: Introduce and use X86_BUG_ESPFIX instead of paravirt_enabled")
+cd4d09ec6f6c ("x86/cpufeature: Carve out X86_FEATURE_*")
+a1ff57260818 ("x86/cpufeature: Add AMD AVIC bit")
+67c707e451e1 ("Merge branch 'x86-cleanups-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

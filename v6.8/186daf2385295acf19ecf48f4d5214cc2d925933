@@ -1,0 +1,5 @@
+186daf238529 ("io_uring/kbuf: rename REQ_F_PARTIAL_IO to REQ_F_BL_NO_RECYCLE")
+c3f9109dbc9e ("io_uring/kbuf: flag request if buffer pool is empty after buffer pick")
+95041b93e90a ("io_uring: add io_file_can_poll() helper")
+521223d7c229 ("io_uring/cancel: don't default to setting req->work.cancel_seq")
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")

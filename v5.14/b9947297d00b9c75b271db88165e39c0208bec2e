@@ -1,0 +1,7 @@
+b9947297d00b ("block: refactor disk_update_readahead")
+edb0872f44ec ("block: move the bdi from the request_queue to the gendisk")
+471aa704db49 ("block: pass a gendisk to blk_queue_update_readahead")
+2f4731dcd0bb ("block: remove bdput")
+14cf1dbb55bb ("block: remove bdgrab")
+9d3b8813895d ("block: change the refcounting for partitions")
+d7a66574b34e ("block: unhash the whole device inode earlier")

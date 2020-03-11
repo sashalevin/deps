@@ -1,0 +1,6 @@
+52668badd34b ("x86/cpu: Mark {hlt,resume}_play_dead() __noreturn")
+9ea7e6b62c2b ("init: Mark [arch_call_]rest_init() __noreturn")
+071c44e42781 ("sched/idle: Mark arch_cpu_idle_dead() __noreturn")
+dfb0f170cadb ("sched/idle: Make sure weak version of arch_cpu_idle_dead() doesn't return")
+c93c296fff6b ("x86/sev: Mark snp_abort() noreturn")
+44688ffd111a ("Merge tag 'objtool-urgent-2022-06-05' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

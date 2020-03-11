@@ -1,0 +1,6 @@
+358b763ee64b ("kselftest/arm64: Size sycall-abi buffers for the actual maximum VL")
+daac835347a5 ("kselftest/arm64: Correct buffer size for SME ZA storage")
+00598857e38f ("kselftest/arm64: Remove the local NUM_VL definition")
+10f326fbb458 ("kselftest/arm64: Only enumerate power of two VLs in syscall-abi")
+fae491e52cc2 ("kselftest/arm64: Only enumerate VLs once in syscall-abi")
+97ec597b26df ("kselftest/arm64: Fix syscall-abi for systems without 128 bit SME")

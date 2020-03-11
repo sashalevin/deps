@@ -1,0 +1,8 @@
+3378d0cc9327 ("clk: Fix comment typo")
+66d9506440bb ("clk: walk orphan list on clock provider registration")
+fc0c209c147f ("clk: Allow parents to be specified without string names")
+89a5ddcc799d ("clk: Add of_clk_hw_register() API for early clk drivers")
+fceaa7d80043 ("clk: Prepare for clk registration API that uses DT nodes")
+2447883934a0 ("clk: core: clarify the check for runtime PM")
+1df4046a93e0 ("clk: Combine __clk_get() and __clk_create_clk()")
+ede77858473a ("clk: Remove global clk traversal on fetch parent index")

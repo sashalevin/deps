@@ -1,0 +1,8 @@
+e79a10652bbd ("ACPI: x86: Force StorageD3Enable on more products")
+10b6b4a8ac61 ("ACPI: x86: utils: Add Picasso to the list for forcing StorageD3Enable")
+e2a56364485e ("ACPI: x86: utils: Add Cezanne to the list for forcing StorageD3Enable")
+2124becad797 ("ACPI: x86: Add another system to quirk list for forcing StorageD3Enable")
+018d6711c26e ("ACPI: x86: Add a quirk for Dell Inspiron 14 2-in-1 for StorageD3Enable")
+6485fc18faa0 ("ACPI: Add quirks for AMD Renoir/Lucienne CPUs to force the D3 hint")
+2744d7a07335 ("ACPI: Check StorageD3Enable _DSD property in ACPI code")
+e21e0243e7b0 ("nvme-pci: look for StorageD3Enable on companion ACPI device instead")

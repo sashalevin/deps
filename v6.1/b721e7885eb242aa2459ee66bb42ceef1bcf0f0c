@@ -1,0 +1,4 @@
+b721e7885eb2 ("md: don't rely on 'mddev->pers' to be set in mddev_suspend()")
+3e00777d5157 ("md: add a new api prepare_suspend() in md_personality")
+72adae23a72c ("md: Change active_io to percpu")
+d19329133d25 ("md: Factor out is_md_suspended helper")

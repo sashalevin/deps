@@ -1,0 +1,5 @@
+2eb2b9358181 ("SUNRPC: Convert svc_tcp_sendmsg to use bio_vecs directly")
+f16ff1cafbf1 ("SUNRPC: Fix the recent bv_offset fix")
+c96e2a695e00 ("sunrpc: set the bv_offset of first bvec in svc_tcp_sendmsg")
+5df5dd03a8f7 ("sunrpc: Use sendmsg(MSG_SPLICE_PAGES) rather then sendpage")
+b056fa070814 ("SUNRPC: svc_tcp_sendmsg() should handle errors from xdr_alloc_bvec()")

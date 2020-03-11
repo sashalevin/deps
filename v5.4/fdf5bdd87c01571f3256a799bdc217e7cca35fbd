@@ -1,0 +1,7 @@
+fdf5bdd87c01 ("net/ipv6: factor out mcast join/leave setsockopt helpers")
+ca0e65eb2954 ("net/ipv6: factor out MCAST_MSFILTER setsockopt helpers")
+fcfa0b09d3f7 ("ipv6: take handling of group_source_req options into a helper")
+2f984f11fdc0 ("ipv[46]: do compat setsockopt for MCAST_{JOIN,LEAVE}_GROUP directly")
+168a2cca8143 ("ipv6: do compat setsockopt for MCAST_MSFILTER directly")
+d59eb177c84f ("ip6_mc_msfilter(): pass the address list separately")
+e9c375fb5ede ("compat_ip{,v6}_setsockopt(): enumerate MCAST_... options explicitly")

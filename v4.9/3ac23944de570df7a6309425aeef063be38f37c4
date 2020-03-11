@@ -1,0 +1,7 @@
+3ac23944de57 ("nios2: update_mmu_cache preload the TLB with the new PTE")
+b6a10463438d ("nios2: User address TLB flush break after finding the matching entry")
+c6b1d363f883 ("nios2: improve readability of tlb functions")
+7d1730708b8a ("nios2: TLBMISC writes do not require PID bits to be set")
+3437d3c886ed ("nios2: Use an invalid TLB entry address helper function")
+195568a10a26 ("nios2: flush_tlb_page use PID based flush")
+ef5cbcb6bfc8 ("nios2: update_mmu_cache clear the old entry from the TLB")

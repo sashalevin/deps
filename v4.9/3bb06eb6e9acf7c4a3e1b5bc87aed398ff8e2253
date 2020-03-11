@@ -1,0 +1,6 @@
+3bb06eb6e9ac ("tracing: Make sure trace_printk() can output as soon as it can be used")
+58b9254757e0 ("tracing: Have event_trace_init() called by trace_init_tracefs()")
+d914ba37d714 ("tracing: Add support for recording tgid of tasks")
+e725c731e3bb ("tracing: Split tracing initialization into two for early initialization")
+52ffabe3848a ("tracing: Make __buffer_unlock_commit() always_inline")
+478409dd683d ("tracing: Add hook to function tracing for other subsystems to use")

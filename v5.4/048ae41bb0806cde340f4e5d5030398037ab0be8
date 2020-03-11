@@ -1,0 +1,8 @@
+048ae41bb080 ("integrity: Fix sparse warnings in keyring_handler")
+45fcd5e521cd ("integrity: add new keyring handler for mok keys")
+56c5812623f9 ("certs: Add EFI_CERT_X509_GUID support for dbx entries")
+726bd8965a5f ("integrity: Load certs from the EFI MOK config table")
+38a1f03aa240 ("integrity: Move import of MokListRT certs to a separate routine")
+3be54d558c75 ("efi: Only print errors about failing to get certs if EFI vars are found")
+ad723674d675 ("x86/efi: move common keyring handler functions to new file")
+2434f7d2d488 ("certs: Add wrapper function to check blacklisted binary hash")

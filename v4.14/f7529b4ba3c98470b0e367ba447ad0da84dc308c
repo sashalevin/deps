@@ -1,0 +1,8 @@
+f7529b4ba3c9 ("fm10k: convert to new udp_tunnel_nic infra")
+0e100440e24b ("fm10k: add support for ndo_get_vf_stats operation")
+363656eb5e57 ("fm10k: fix function doxygen comments")
+fc9173682dcf ("fm10k: introduce a message queue for MAC/VLAN messages")
+b4fcd43661df ("fm10k: use spinlock to implement mailbox lock")
+04914390f5a1 ("fm10k: prevent race condition of __FM10K_SERVICE_SCHED")
+375ce90eab7e ("fm10k: fix typos on fall through comments")
+5c66d1251d67 ("fm10k: stop spurious link down messages when Tx FIFO is full")

@@ -1,0 +1,4 @@
+90c91dfb86d0 ("perf/core: Fix endless multiplex timer")
+7fa343b7fdc4 ("perf/core: Fix corner case in perf_rotate_context()")
+fd7d55172d1e ("perf/cgroups: Don't rotate events for cgroups unnecessarily")
+8c94abbbe1ba ("perf: Convert perf_event_context.refcount to refcount_t")

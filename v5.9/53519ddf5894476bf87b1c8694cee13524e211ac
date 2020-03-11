@@ -1,0 +1,7 @@
+53519ddf5894 ("arm64: head: simplify page table mapping macros (slightly)")
+ebd9aea1f27e ("arm64: head: drop idmap_ptrs_per_pgd")
+e8d13cced5c5 ("arm64: head: move assignment of idmap_t0sz to C code")
+90268574a3e8 ("arm64: head: avoid over-mapping in map_memory")
+f91671b5418b ("arm64: mm: drop unused __pa(__idmap_text_start)")
+c70fe14f83ae ("arm64: mm: fix the count comments in compute_indices")
+7ba8f2b2d652 ("arm64: mm: use a 48-bit ID map when possible on 52-bit VA builds")

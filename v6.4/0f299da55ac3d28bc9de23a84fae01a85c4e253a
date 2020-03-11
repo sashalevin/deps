@@ -1,0 +1,4 @@
+0f299da55ac3 ("blk-mq: move blk_mq_attempt_bio_merge out blk_mq_get_new_requests")
+7b4f36cd22a6 ("block: ensure we hold a queue reference when using queue limits")
+b0077e269f6c ("blk-mq: make sure active queue usage is held for bio_integrity_prep()")
+5c17f45e91f5 ("blk-mq: fix start_time_ns and alloc_time_ns for pre-allocated rq")

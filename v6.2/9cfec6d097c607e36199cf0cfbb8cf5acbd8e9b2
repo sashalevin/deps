@@ -1,0 +1,7 @@
+9cfec6d097c6 ("KVM: x86: Fix lapic timer interrupt lost after loading a snapshot.")
+b3f257a84696 ("KVM: x86: Track required APICv inhibits with variable, not callback")
+9a364857ab4f ("KVM: SVM: Inhibit AVIC if vCPUs are aliased in logical mode")
+5063c41bebac ("KVM: x86: Inhibit APICv/AVIC if the optimized physical map is disabled")
+2008fab34530 ("KVM: x86: Inhibit APIC memslot if x2APIC and AVIC are enabled")
+c482f2cebe2d ("KVM: x86: Move APIC access page helper to common x86 code")
+f651a0089548 ("KVM: x86: Don't inhibit APICv/AVIC if xAPIC ID mismatch is due to 32-bit ID")

@@ -1,0 +1,3 @@
+c948bb5c2cc4 ("RDS: TCP: Avoid rds connection churn from rogue SYNs")
+bd7c5f983f31 ("RDS: TCP: Synchronize accept() and connect() paths on t_conn_lock.")
+eb192840266f ("RDS:TCP: Synchronize rds_tcp_accept_one with rds_send_xmit when resetting t_sock")

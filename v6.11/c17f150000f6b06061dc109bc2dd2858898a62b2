@@ -1,0 +1,4 @@
+c17f150000f6 ("KVM: x86/mmu: Morph kvm_handle_gfn_range() into an aging specific helper")
+dd9eaad744f4 ("KVM: x86/mmu: Add a helper to walk and zap rmaps for a memslot")
+5b1fb116e1a6 ("KVM: x86/mmu: Plumb a @can_yield parameter into __walk_slot_rmaps()")
+0a37fffda145 ("KVM: x86/mmu: Move walk_slot_rmaps() up near for_each_slot_rmap_range()")

@@ -1,0 +1,8 @@
+3d5854d75e31 ("fs/proc/kcore.c: allow translation of physical memory addresses")
+17457784004c ("fs/proc/kcore: reinstate bounce buffer for KCORE_TEXT regions")
+46c0d6d0904a ("fs/proc/kcore: convert read_kcore() to read_kcore_iter()")
+2e1c0170771e ("fs/proc/kcore: avoid bounce buffer for ktext data")
+e025ab842ec3 ("mm: remove kern_addr_valid() completely")
+501dcbe495c0 ("LoongArch: Fix the !THP build")
+09cfefb7fa70 ("LoongArch: Add memory management")
+04d168c6d42d ("fs/proc/kcore.c: remove check of list iterator against head past the loop body")

@@ -1,0 +1,8 @@
+d670c78ea756 ("drm/i915: rename intel_pm.[ch] to intel_clock_gating.[ch]")
+893a6c224a24 ("drm/i915/pm: drop intel_suspend_hw()")
+d3708182cbc3 ("drm/i915/pm: drop intel_pm_setup()")
+94b49d53acec ("drm/i915/wm: move remaining watermark code out of intel_pm.c")
+1b2146de7c5b ("drm/i915: move memory frequency detection to intel_dram.c")
+2bf91341ee42 ("drm/i915: Move display power initialization during driver probing later")
+7ee6f99dbc45 ("drm/i915: Replace wm.max_levels with wm.num_levels and use it everywhere")
+064b3eee8e02 ("drm/i915: Populate wm.max_level for everyone")

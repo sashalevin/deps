@@ -1,0 +1,4 @@
+c58949f41850 ("drm/i915: Do not re-calculate num_rings locally")
+6f9b850bec05 ("drm/i915: Fix semaphore emission for BDW+ RCS ringbuffer emission")
+98f29e8d908f ("drm/i915: Record space required for breadcrumb emission")
+9b81d556b11f ("drm/i915: Rename ->emit_request to ->emit_breadcrumb")

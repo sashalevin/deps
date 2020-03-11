@@ -1,0 +1,5 @@
+0e4a862174f2 ("libfs: Convert simple directory offsets to use a Maple Tree")
+ecba88a3b32d ("libfs: Add simple_offset_empty()")
+7beea725a8ca ("libfs: Define a minimum directory offset")
+3f6d810665df ("libfs: Re-arrange locking in offset_iterate_dir()")
+796432efab1e ("libfs: getdents() should return 0 after reaching EOD")

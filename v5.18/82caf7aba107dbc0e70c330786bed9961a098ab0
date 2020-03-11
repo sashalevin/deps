@@ -1,0 +1,6 @@
+82caf7aba107 ("s390/kdump: rework invocation of DAT-off code")
+39218bcf941a ("s390/kdump: fix virtual vs physical address confusion")
+86295cb4530d ("s390/kdump: cleanup do_start_kdump() prototype and usage")
+7a04d491edf4 ("s390/kexec: turn DAT mode off immediately before purgatory")
+23be82f0deb8 ("s390/stacktrace: remove call_on_stack_noreturn()")
+2ba24343bdb8 ("s390/kexec: set end-of-ipl flag in last diag308 call")

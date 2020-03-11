@@ -1,0 +1,7 @@
+c3df39ac9b0e ("udp: ipv4: manipulate network header of NATed UDP GRO fraglist")
+9fd1ff5d2ac7 ("udp: Support UDP fraglist GRO/GSO.")
+4dd2b82d5adf ("udp: fix GRO packet of death")
+21f1b8a6636c ("udp: fix GRO reception in case of length mismatch")
+4f24ed77dec9 ("udp: use indirect call wrappers for GRO socket lookup")
+e20cf8d3f1f7 ("udp: implement GRO for plain UDP sockets.")
+60fb9567bf30 ("udp: implement complete book-keeping for encap_needed")

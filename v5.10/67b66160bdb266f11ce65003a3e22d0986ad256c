@@ -1,0 +1,8 @@
+67b66160bdb2 ("leds: spi-byte: Make use of device properties")
+4b268456e0aa ("leds: spi-byte: Get rid of custom led_init_default_state_get()")
+7f9ab862e05c ("leds: spi-byte: Call of_node_put() on error path")
+ccc35ff2fd29 ("leds: spi-byte: Use devm_led_classdev_register_ext()")
+3192f1412403 ("leds: Explicitly include correct DT includes")
+bf4a35e9201d ("leds: Replace all non-returning strlcpy with strscpy")
+24e2d05d1b68 ("leds: Add driver for Qualcomm LPG")
+e1c6edcbea13 ("leds: rt8515: Add Richtek RT8515 LED driver")

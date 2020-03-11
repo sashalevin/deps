@@ -1,0 +1,4 @@
+4a08d6c86624 ("spi: stm32-qspi: properly manage probe errors")
+8196f7bcc2ad ("spi: stm32-qspi: defer probe for reset controller")
+658606ff4cf6 ("spi: stm32-qspi: Use dma_request_chan() instead dma_request_slave_channel()")
+3c0af1dd2fe7 ("spi: stm32-qspi: Fix kernel oops when unbinding driver")

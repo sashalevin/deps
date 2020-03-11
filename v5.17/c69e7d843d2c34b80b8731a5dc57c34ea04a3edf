@@ -1,0 +1,7 @@
+c69e7d843d2c ("platform/x86: ideapad-laptop: Only toggle ps2 aux port on/off on select models")
+f4dd8c44bb83 ("platform/x86: ideapad-laptop: Do not send KEY_TOUCHPAD* events on probe / resume")
+289a59895e7a ("platform/x86: ideapad-laptop: Refactor ideapad_sync_touchpad_state()")
+b44fd994e451 ("platform/x86: ideapad-laptop: Add module parameters to match DMI quirk tables")
+81a5603a0f50 ("platform/x86: ideapad-laptop: Fix interrupt storm on fn-lock toggle on some Yoga laptops")
+a231224a601c ("platform/x86: ideapad-laptop: Disable touchpad_switch")
+a27a1e35f5c8 ("platform/x86: ideapad-laptop: Add allow_v4_dytc module parameter")

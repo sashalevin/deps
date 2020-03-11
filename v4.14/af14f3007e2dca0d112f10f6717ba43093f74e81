@@ -1,0 +1,4 @@
+af14f3007e2d ("serial: 8250_dw: Store LSR into lsr_saved_flags in dw8250_tx_wait_empty()")
+b7639b0b15dd ("serial: 8250_dw: Limit dw8250_tx_wait_empty quirk to armada-38x devices")
+7d6e2143bed7 ("serial: 8250_dw: Switch to use acpi_dev_present()")
+914eaf935ec7 ("serial: 8250_dw: Allow TX FIFO to drain before writing to UART_LCR")

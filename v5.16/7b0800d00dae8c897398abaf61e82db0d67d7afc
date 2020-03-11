@@ -1,0 +1,7 @@
+7b0800d00dae ("dax: remove dax_capable")
+679a99495b8f ("xfs: factor out a xfs_setup_dax_always helper")
+0c445871388f ("dax: move the partition alignment check into fs_dax_get_by_bdev")
+586f61682816 ("dax: remove the pgmap sanity checks in generic_fsdax_supported")
+fb08a1908cb1 ("dax: simplify the dax_device <-> gendisk association")
+5d2a228b9e13 ("dm: make the DAX support depend on CONFIG_FS_DAX")
+d751939235b9 ("dm: fix alloc_dax error handling in alloc_dev")

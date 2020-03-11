@@ -1,0 +1,6 @@
+781bf4cee3c1 ("media: atomisp: Fix probe()/remove() power-management")
+3a9ceebd8ffb ("media: atomisp: Group cpu_latency_qos_add_request() call together with other PM calls")
+ba68b88da0a2 ("media: atomisp: Fix atomisp_pci_remove()")
+7f7b6b5da0d6 ("media: atomisp: Fix probe error-exit path")
+62c319a51bcf ("media: atomisp: Call pcim_enable_device() and pcim_iomap_regions() later")
+571f043d2ab2 ("media: atomisp: Remove remaining deferred firmware loading code")

@@ -1,0 +1,7 @@
+ea78979d302f ("IMA: fix measuring asymmetric keys Kconfig")
+cb1aa3823c92 ("KEYS: Call the IMA hook to measure keys")
+88e70da170e8 ("IMA: Define an IMA hook to measure keys")
+7b8589cc29e7 ("ima: on soft reboot, save the measurement list")
+d158847ae89a ("ima: maintain memory size needed for serializing the measurement list")
+dcfc56937b62 ("ima: permit duplicate measurement list entries")
+94c3aac567a9 ("ima: on soft reboot, restore the measurement list")

@@ -1,0 +1,5 @@
+9efd24ec5599 ("kprobes: Remove unnecessary initial values of variables")
+03bac0df2886 ("kprobes: Add kretprobe_find_ret_addr() for searching return address")
+96fed8ac2bb6 ("kprobes: treewide: Remove trampoline_address from kretprobe_trampoline_handler()")
+a7fe2378454c ("ia64: kprobes: Fix to pass correct trampoline address to the handler")
+9c89bb8e3272 ("kprobes: treewide: Cleanup the error messages for kprobes")

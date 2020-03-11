@@ -1,0 +1,5 @@
+cf9d052aa600 ("pinctrl: qcom: Don't clear pending interrupts when enabling")
+a95881d6aa2c ("pinctrl: qcom: Properly clear "intr_ack_high" interrupts when unmasking")
+4079d35fa4fc ("pinctrl: qcom: No need to read-modify-write the interrupt status")
+71266d9d3936 ("pinctrl: qcom: Move clearing pending IRQ to .irq_request_resources callback")
+9420f1ce0186 ("Merge tag 'pinctrl-v5.9-1' of git://git.kernel.org/pub/scm/linux/kernel/git/linusw/linux-pinctrl")

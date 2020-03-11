@@ -1,0 +1,5 @@
+41d6cf68b5f6 ("powerpc: Rename probe_kernel_read_inst()")
+6449078d5011 ("powerpc: Make probe_kernel_read_inst() common to PPC32 and PPC64")
+6ac7897f08e0 ("powerpc: Remove probe_user_read_inst()")
+111631b5e9da ("powerpc/align: Don't use __get_user_instr() on kernel addresses")
+50428fdc53ba ("powerpc: Add a ppc_inst_as_str() helper")

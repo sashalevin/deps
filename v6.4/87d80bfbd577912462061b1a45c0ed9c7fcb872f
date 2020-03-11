@@ -1,0 +1,4 @@
+87d80bfbd577 ("serial: 8250_dw: Don't use struct dw8250_data outside of 8250_dw")
+173b097dcc8d ("serial: 8250_dw: Replace ACPI device check by a quirk")
+e6a46d073e11 ("serial: 8250_dw: Switch to use uart_read_port_properties()")
+22130dae0533 ("serial: 8250_dw: fall back to poll if there's no interrupt")

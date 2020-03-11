@@ -1,0 +1,6 @@
+115485e83f49 ("dm: add 'dm_numa_node' module parameter")
+c5248f79f39e ("dm: remove support for stacking dm-mq on .request_fn device(s)")
+1c357a1e86a4 ("dm: allocate blk_mq_tag_set rather than embed in mapped_device")
+faad87df4b90 ("dm: add 'dm_mq_nr_hw_queues' and 'dm_mq_queue_depth' module params")
+16f122661dbb ("dm: optimize dm_mq_queue_rq()")
+f083b09b7819 ("dm: set DM_TARGET_WILDCARD feature on "error" target")

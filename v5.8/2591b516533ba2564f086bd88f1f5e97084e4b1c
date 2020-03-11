@@ -1,0 +1,6 @@
+2591b516533b ("dmapool: consolidate page initialization")
+36d1a28921a4 ("dmapool: rearrange page alloc failure handling")
+52e7d5653979 ("dmapool: move debug code to own functions")
+19f504584038 ("dmapool: speedup DMAPOOL_DEBUG with init_on_alloc")
+7f796d141c07 ("dmapool: remove checks for dev == NULL")
+41a04814a715 ("mm/dmapool.c: replace hard coded function name with __func__")

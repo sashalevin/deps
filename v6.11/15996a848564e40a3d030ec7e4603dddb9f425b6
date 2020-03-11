@@ -1,0 +1,4 @@
+15996a848564 ("ext4: use ext4_map_query_blocks() in ext4_map_blocks()")
+f3baf33b9cae ("ext4: passing block allocation information to ext4_es_insert_extent()")
+eba8c368c8cb ("ext4: don't set EXTENT_STATUS_DELAYED on allocated blocks")
+130078d020e0 ("ext4: factor out ext4_map_create_blocks() to allocate new blocks")

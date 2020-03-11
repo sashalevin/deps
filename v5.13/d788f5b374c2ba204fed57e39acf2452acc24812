@@ -1,0 +1,8 @@
+d788f5b374c2 ("mm: add split_folio()")
+d0637c505f8a ("arm64: enable THP_SWAP for arm64")
+056245718675 ("mm/shmem: use a folio in shmem_unused_huge_shrink")
+e2e3fdc7d4af ("swap: turn get_swap_page() into folio_alloc_swap()")
+18788cfa2369 ("mm: Support arbitrary THP sizes")
+346cf61311f6 ("mm: Add split_folio_to_list()")
+3ecb0087ecee ("mm/memcg: Convert mem_cgroup_swapout() to take a folio")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

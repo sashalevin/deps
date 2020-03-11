@@ -1,0 +1,7 @@
+76fc217d7fb1 ("vxlan_core: move common declarations to private header file")
+6765393614ea ("vxlan: move to its own directory")
+626d667b1960 ("vxlan: Use a per-namespace nexthop listener instead of a global one")
+78ec710e7f32 ("vxlan: fix vxlan_find_sock() documentation for l3mdev")
+79472fe873dd ("vxlan: few locking fixes in nexthop event handler")
+c7cdbe2efc40 ("vxlan: support for nexthop notifiers")
+1274e1cc4226 ("vxlan: ecmp support for mac fdb entries")

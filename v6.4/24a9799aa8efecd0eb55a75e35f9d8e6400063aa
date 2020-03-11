@@ -1,0 +1,7 @@
+24a9799aa8ef ("smb: client: fix UAF in smb2_reconnect_server()")
+7257bcf3bdc7 ("cifs: cifs_chan_is_iface_active should be called with chan_lock held")
+27e1fd343f80 ("cifs: after disabling multichannel, mark tcon for reconnect")
+fa1d0508bdd4 ("cifs: account for primary channel in the interface list")
+a6d8fb54a515 ("cifs: distribute channels across interfaces based on speed")
+c37ed2d7d098 ("smb: client: remove extra @chan_count check in __cifs_put_smb_ses()")
+ff7d80a9f271 ("cifs: fix session state transition to avoid use-after-free issue")

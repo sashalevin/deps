@@ -1,1 +1,5 @@
 f16fb16ed16c ("PCI: endpoint: Allocate enough space for fixed size BAR")
+2a9a801620ef ("PCI: endpoint: Add support to specify alignment for buffers allocated to BARs")
+2c04c5b8eef7 ("PCI: pci-epf-test: Use pci_epc_get_features() to get EPC features")
+0342e9a797db ("PCI: pci-epf-test: Remove setting epf_bar flags in function driver")
+41cb8d189c9d ("PCI: endpoint: Add new pci_epc_ops to get EPC features")

@@ -1,0 +1,4 @@
+f742b90e61bb ("x86/mm: Extend cc_attr to include AMD SEV-SNP")
+20f07a044a76 ("x86/sev: Move common memory encryption code to mem_encrypt.c")
+dbca5e1a04f8 ("x86/sev: Rename mem_encrypt.c to mem_encrypt_amd.c")
+8260b9820f70 ("x86/sev: Use CC_ATTR attribute to generalize string I/O unroll")

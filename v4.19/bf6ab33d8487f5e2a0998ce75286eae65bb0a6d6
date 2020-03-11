@@ -1,0 +1,4 @@
+bf6ab33d8487 ("x86/kmsan: Fix hook for unaligned accesses")
+9245ec01ce84 ("x86: kmsan: handle open-coded assembly in lib/iomem.c")
+c228d294f204 ("x86: explicitly align IO accesses in memcpy_{to,from}io")
+170d13ca3a2f ("x86: re-introduce non-generic memcpy_{to,from}io")

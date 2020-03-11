@@ -1,0 +1,8 @@
+363010e1dd0e ("KVM: nVMX: Get to-be-acknowledge IRQ for nested VM-Exit at injection site")
+15ff0b450b65 ("KVM: nVMX: Preserve IRQ/NMI priority irrespective of exiting behavior")
+4dcefa312a6c ("KVM: nVMX: Rename exit_reason to vm_exit_reason for nested VM-Exit")
+2a7833899f6a ("KVM: nVMX: Cast exit_reason to u16 to check for nested EXTERNAL_INTERRUPT")
+f47baaed4fef ("KVM: nVMX: Pull exit_reason from vcpu_vmx in nested_vmx_reflect_vmexit()")
+fbdd50250396 ("KVM: nVMX: Move VM-Fail check out of nested_vmx_exit_reflected()")
+7b7bd87dbd6a ("KVM: nVMX: Uninline nested_vmx_reflect_vmexit(), i.e. move it to nested.c")
+789afc5ccd4e ("KVM: nVMX: Move reflection check into nested_vmx_reflect_vmexit()")

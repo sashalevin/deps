@@ -1,0 +1,7 @@
+0b3ed50eee5d ("drm/i915/gt: Extract function to apply media fuses")
+ff21ed39ca68 ("drm/i915/gt: Use MEDIA_VER() when handling media fuses")
+068a0f5c8260 ("drm/i915/mtl: Don't mask off CCS according to DSS fusing")
+88ed07cb2737 ("drm/i915/xehp: handle fused off CCS engines")
+ff04f8beade5 ("drm/i915/xehp: Check new fuse bits for SFC availability")
+eea97e42f48b ("drm/i915/xehp: VDBOX/VEBOX fusing registers are enable-based")
+442e049aedb2 ("drm/i915/gen12: Use fuse info to enable SFC")

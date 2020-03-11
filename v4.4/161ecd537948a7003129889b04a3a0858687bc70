@@ -1,0 +1,7 @@
+161ecd537948 ("libbpf: Properly ignore STT_SECTION symbols in legacy map definitions")
+4708bbda5cb2 ("tools lib bpf: Fix maps resolution")
+666810e86a3b ("perf bpf: Check relocation target section")
+77ba9a5b48a7 ("tools lib bpf: Fetch map names from correct strtab")
+973170e66726 ("tools lib bpf: Check return value of strdup when reading map names")
+561bbccac72d ("tools lib bpf: Extract and collect map names from BPF object file")
+9d759a9b4ac2 ("tools lib bpf: Collect map definition in bpf_object")

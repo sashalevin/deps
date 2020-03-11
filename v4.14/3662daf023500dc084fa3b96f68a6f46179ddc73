@@ -1,0 +1,5 @@
+3662daf02350 ("sched/isolation: Allow "isolcpus=" to skip unknown sub-parameters")
+11ea68f553e2 ("genirq, sched/isolation: Isolate from handling managed interrupts")
+1bda3f8087fc ("sched/isolation: Isolate workqueues when "nohz_full=" is set")
+c98a98050964 ("workqueue: respect isolated cpus when queueing an unbound work")
+8a103df440af ("Merge branch 'linus' into sched/core, to pick up fixes")

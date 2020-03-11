@@ -1,0 +1,8 @@
+91e326563ee3 ("ima: rework CONFIG_IMA dependency block")
+891163adf180 ("ima: remove the IMA_TEMPLATE Kconfig option")
+52c208397c24 ("IMA: support for duplicate measurement records")
+1768215a650c ("ima: AppArmor satisfies the audit rule requirements")
+1ea973df6e21 ("ima: Calculate and extend PCR with digests in ima_template_entry")
+6d94809af6b0 ("ima: Allocate and initialize tfm for each PCR bank")
+aa724fe18a8a ("ima: Switch to dynamically allocated buffer for template digests")
+7ca79645a1f8 ("ima: Store template digest directly in ima_template_entry")

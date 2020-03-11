@@ -1,0 +1,7 @@
+53dfa0088edd ("hwmon: (k10temp) Support all Family 15h Model 6xh and Model 7xh processors")
+40626a1bf657 ("hwmon: (k10temp) Fix reading critical temperature register")
+1b59788979ac ("hwmon: (k10temp) Add temperature offset for Ryzen 2700X")
+aef17ca12719 ("hwmon: (k10temp) Only apply temperature offset if result is positive")
+1b50b776355f ("hwmon: (k10temp) Add support for temperature offsets")
+9af0a9aecdb9 ("hwmon: (k10temp) Add support for family 17h")
+68546abf7a3a ("hwmon: (k10temp) Move chip specific code into probe function")

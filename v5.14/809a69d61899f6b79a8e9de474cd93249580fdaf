@@ -1,0 +1,7 @@
+809a69d61899 ("libbpf: Use .struct_ops.link section to indicate a struct_ops with a link.")
+ad23b7238474 ("libbpf: Use Elf64-specific types explicitly for dealing with ELF")
+29a30ff50151 ("libbpf: Extract ELF processing state into separate struct")
+161ecd537948 ("libbpf: Properly ignore STT_SECTION symbols in legacy map definitions")
+c3e8c44a9063 ("libbpf: Ignore STT_SECTION symbols in 'maps' section")
+91b4d1d1d544 ("libbpf: Ensure BPF prog types are set before relocations")
+1373ff599556 ("libbpf: Introduce 'btf_custom_path' to 'bpf_obj_open_opts'")

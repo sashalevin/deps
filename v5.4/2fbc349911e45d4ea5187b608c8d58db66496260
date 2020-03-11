@@ -1,0 +1,3 @@
+2fbc349911e4 ("asm-generic/io.h: give stub iounmap() on !MMU same prototype as elsewhere")
+97c9801a15e5 ("asm-generic: don't provide ioremap for CONFIG_MMU")
+e97133959ad2 ("asm-generic: ioremap_uc should behave the same with and without MMU")

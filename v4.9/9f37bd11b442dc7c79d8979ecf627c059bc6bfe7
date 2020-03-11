@@ -1,0 +1,8 @@
+9f37bd11b442 ("xfs: check reflink allocation mappings")
+3c68d44a2b49 ("xfs: allocate direct I/O COW blocks in iomap_begin")
+a14234c72bf4 ("xfs: go straight to real allocations for direct I/O COW writes")
+54a4ef8af4e0 ("xfs: reject all unaligned direct writes to reflinked files")
+5eda43000064 ("xfs: mark speculative prealloc CoW fork extents unwritten")
+acdda3aae146 ("xfs: use iomap_dio_rw")
+6552321831dc ("xfs: remove i_iolock and use i_rwsem in the VFS inode instead")
+e3df41f97847 ("Merge branch 'xfs-4.10-misc-fixes-2' into iomap-4.10-directio")

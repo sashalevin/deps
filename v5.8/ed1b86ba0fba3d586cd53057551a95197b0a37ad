@@ -1,0 +1,4 @@
+ed1b86ba0fba ("scsi: qedi: Wake up if cmd_cleanup_req is set")
+5b04d050cde4 ("scsi: qedi: Fix use after free during abort cleanup")
+2ce002366a3f ("scsi: qedi: Fix race during abort timeouts")
+28b35d17f9f8 ("scsi: qedi: Fix list_del corruption while removing active I/O")

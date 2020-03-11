@@ -1,0 +1,6 @@
+93d77e7f1410 ("ARM: module: Fix function kallsyms on Thumb-2")
+5439c985c5a8 ("module: Overwrite st_size instead of st_info")
+2d25bc552353 ("module: make it clearer when we're handling kallsyms symbols vs exported symbols")
+7290d5809571 ("module: use relative references for __ksymtab entries")
+9f2d1e68cf4d ("module: exclude SHN_UNDEF symbols from kallsyms api")
+94e58e0ac312 ("export.h: remove code for prefixing symbols with underscore")

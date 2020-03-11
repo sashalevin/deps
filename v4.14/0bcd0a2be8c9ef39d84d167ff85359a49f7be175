@@ -1,0 +1,5 @@
+0bcd0a2be8c9 ("asm-generic: mark __{get,put}_user_fn as __always_inline")
+931de11f5a37 ("asm-generic: improve the nommu {get,put}_user handling")
+6edd1dbace0e ("asm-generic: optimize generic uaccess for 8-byte loads and stores")
+bd79f94758c0 ("asm-generic: provide entirely generic nommu uaccess")
+737d42f75e94 ("asm-generic: don't include <asm/segment.h> from <asm/uaccess.h>")

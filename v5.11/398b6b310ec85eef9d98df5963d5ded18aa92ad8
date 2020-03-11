@@ -1,0 +1,8 @@
+398b6b310ec8 ("spi: atmel: switch to use modern name")
+f44a29ceb99f ("spi: atmel: Remove setting of deprecated member of struct dma_slave_config")
+c1b00674aab0 ("spi: atmel: Drop slave_config argument in atmel_spi_dma_slave_config()")
+75e33c55ae8f ("spi: atmel: Fix PDC transfer setup bug")
+69e1818ad27b ("spi: atmel: Fix CS and initialization bug")
+4abd64150166 ("spi: atmel: Reduce spin lock usage")
+5fa5e6dec762 ("spi: atmel: Switch to transfer_one transfer method")
+120a9e8155cb ("spi: atmel: Drop unused variable")

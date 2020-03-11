@@ -1,0 +1,7 @@
+c50e2ea6507b ("clk: mediatek: mt7622-apmixedsys: Add .remove() callback for module build")
+9aed98adf601 ("clk: mediatek: mt7622: Move apmixedsys clock driver to its own file")
+fa8c0d01df62 ("clk: mediatek: mt7622: Properly use CLK_IS_CRITICAL flag")
+4c85e20b6566 ("clk: mediatek: Consistently use GATE_MTK() macro")
+20498d52c9c1 ("clk: mediatek: clk-gate: Propagate struct device with mtk_clk_register_gates()")
+fdc325c8f79c ("clk: mediatek: mt8192: Propagate struct device for gate clocks")
+0cbe12694990 ("clk: mediatek: mt8192: Correctly unregister and free clocks on failure")

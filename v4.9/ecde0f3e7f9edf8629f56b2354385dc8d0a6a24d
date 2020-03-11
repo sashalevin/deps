@@ -1,0 +1,7 @@
+ecde0f3e7f9e ("mm, memory_hotplug: remove timeout from __offline_memory")
+72b39cfc4d75 ("mm, memory_hotplug: do not fail offlining too early")
+3f906ba23689 ("mm/memory-hotplug: switch locking to a percpu rwsem")
+55adc1d05dca ("mm: add private lock to serialize memory hotplug operations")
+3fc21924100b ("mm: validate device_hotplug is held for memory hotplug")
+b5d24fda9c3d ("mm, devm_memremap_pages: hold device_hotplug lock over mem_hotplug_{begin, done}")
+f931ab479dd2 ("mm: fix devm_memremap_pages crash, use mem_hotplug_{begin, done}")

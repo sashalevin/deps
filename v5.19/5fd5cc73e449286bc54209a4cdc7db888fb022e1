@@ -1,0 +1,6 @@
+5fd5cc73e449 ("drm/i915: split out i915_gem.c declarations to i915_gem.h")
+5aea37bf4112 ("drm/i915: un-inline i915_gem_drain_freed_objects()")
+230bb131a614 ("drm/i915: un-inline i915_gem_drain_workqueue()")
+c1bdf4aabc09 ("drm/i915: remove unused i915_gem_set_global_seqno() declaration")
+2826d447fbd6 ("drm/i915/gem: Remove shared locking on freeing objects")
+330c1b3180b0 ("drm/i915/tasklet: separate local hacks around struct tasklet_struct")

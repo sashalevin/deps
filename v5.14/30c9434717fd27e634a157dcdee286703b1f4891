@@ -1,0 +1,5 @@
+30c9434717fd ("KVM: Reconcile discrepancies in halt-polling stats")
+29e72893cec3 ("KVM: Refactor and document halt-polling stats update helper")
+8df6a61c0403 ("KVM: Update halt-polling stats if and only if halt-polling was attempted")
+6f390916c4fb ("KVM: s390: Ensure kvm_arch_no_poll() is read once when blocking vCPU")
+8ccba534a1a5 ("KVM: stats: Add halt polling related histogram stats")

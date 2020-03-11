@@ -1,0 +1,4 @@
+de0f619564f4 ("KVM: x86/pmu: Defer counter emulated overflow via pmc->prev_counter")
+68fb4757e867 ("KVM: x86/pmu: Defer reprogram_counter() to kvm_pmu_handle_event()")
+dcbb816a2842 ("KVM: x86/pmu: Clear "reprogram" bit if counter is disabled or disallowed")
+02791a5c362b ("KVM: x86/pmu: Use PERF_TYPE_RAW to merge reprogram_{gp,fixed}counter()")

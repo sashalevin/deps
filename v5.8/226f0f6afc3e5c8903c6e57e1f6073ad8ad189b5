@@ -1,0 +1,8 @@
+226f0f6afc3e ("block: Catch possible entries missing from hctx_flag_name[]")
+90b7198001f2 ("blk-mq: Introduce the BLK_MQ_F_NO_SCHED_BY_DEFAULT flag")
+580dca8143d2 ("blk-mq: set default elevator as deadline in case of hctx shared tagset")
+32bc15afed04 ("blk-mq: Facilitate a shared sbitmap per tagset")
+222a5ae03cdd ("blk-mq: Use pointers for blk_mq_tags bitmap tags")
+1c0706a70a64 ("blk-mq: Pass flags for tag init/free")
+4d063237b92a ("blk-mq: Free tags in blk_mq_init_tags() upon error")
+570e9b73b0af ("blk-mq: move blk_mq_get_driver_tag into blk-mq.c")

@@ -1,0 +1,8 @@
+121e4dcba370 ("ionic: use pci_is_enabled not open code")
+13943d6c8273 ("ionic: prevent pci disable of already disabled device")
+87d7a9f3734f ("ionic: extract common bits from ionic_remove")
+3a7af34fb6ec ("ionic: remove dead device fail path")
+f686e9592734 ("ionic: Remove redundant pci_clear_master")
+40bc471dc714 ("ionic: add tx/rx-push support with device Component Memory Buffers")
+e4b1045bf9cf ("ionic: fix missing pci_release_regions() on error in ionic_probe()")
+9ad2939a1525 ("ionic: start watchdog after all is setup")

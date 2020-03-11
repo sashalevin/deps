@@ -1,0 +1,8 @@
+e59f5af9fba2 ("drm/tilcdc: Add timeout wait for palette loading to complete")
+55e165c4d9d3 ("drm/tilcdc: Enable palette loading for revision 2 LCDC too")
+9963d36d14ec ("drm/tilcdc: Fix tilcdc_crtc_create() return value handling")
+9345235e9c67 ("drm/tilcdc: implement palette loading for rev1")
+cba8844a687e ("drm/tilcdc: Enable sync lost error and recovery handling for rev 1 LCDC")
+13b3d7270581 ("drm/tilcdc: Recover from sync lost error flood by resetting the LCDC")
+9e79e062dc9b ("drm/tilcdc: Use unload to handle initialization failures")
+923310ba73d7 ("drm/tilcdc: Stop using struct drm_driver load() callback")

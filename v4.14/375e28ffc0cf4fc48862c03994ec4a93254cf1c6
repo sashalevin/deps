@@ -1,0 +1,6 @@
+375e28ffc0cf ("KVM: X86: Set host DR6 only on VMX and for KVM_DEBUGREG_WONT_EXIT")
+34e9f860071f ("KVM: X86: Remove unneeded KVM_DEBUGREG_RELOAD")
+f85d40160691 ("KVM: X86: Disable hardware breakpoints unconditionally before kvm_x86->run()")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")
+773e8a0425c9 ("x86/kvm: use Enlightened VMCS when running on Hyper-V")
+7bf14c28ee77 ("Merge branch 'x86/hyperv' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

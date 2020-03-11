@@ -1,0 +1,4 @@
+f796721040f9 ("sh_eth: get rid of the 2nd parameter to sh_eth_dev_init()")
+49dd48dafec6 ("sh_eth: re-enable-E-MAC interrupts in sh_eth_set_ringparam()")
+ad846aa52ca7 ("sh_eth: do not call netif_start_queue() from sh_eth_dev_init()")
+b2b14d2f57df ("sh_eth: factor out register bit twiddling code")

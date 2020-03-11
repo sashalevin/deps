@@ -1,0 +1,6 @@
+49f8b459fc1d ("xen: switch gnttab_end_foreign_access() to take a struct page pointer")
+7050096d0775 ("xen/xenbus: add xenbus_setup_ring() service function")
+888fd787f30d ("xen/shbuf: switch xen-front-pgdir-shbuf to use INVALID_GRANT_REF")
+bd506c781207 ("xen/dmabuf: switch gntdev-dmabuf to use INVALID_GRANT_REF")
+145daab239a1 ("xen/netfront: switch netfront to use INVALID_GRANT_REF")
+c94b731da21f ("xen/grant-table: remove readonly parameter from functions")

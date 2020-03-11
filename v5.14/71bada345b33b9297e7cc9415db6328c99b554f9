@@ -1,0 +1,3 @@
+71bada345b33 ("scsi: core: Don't memset() the entire scsi_cmnd in scsi_init_command()")
+5ae17501bc62 ("scsi: core: Avoid leaving shost->last_reset with stale value if EH does not run")
+4c7b6ea336c1 ("scsi: core: Remove scsi_cmnd.tag")

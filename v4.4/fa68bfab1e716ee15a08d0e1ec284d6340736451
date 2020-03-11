@@ -1,0 +1,5 @@
+fa68bfab1e71 ("ibmvnic: improve ibmvnic_init and ibmvnic_reset_init")
+7ed5b31f4a66 ("net/ibmvnic: prevent more than one thread from running in reset")
+b27507bb59ed ("net/ibmvnic: unlock rtnl_lock in reset so linkwatch_event can run")
+1c2977c09499 ("net/ibmvnic: free reset work of removed device from queue")
+36f1031c51a2 ("ibmvnic: Do not process reset during or after device removal")

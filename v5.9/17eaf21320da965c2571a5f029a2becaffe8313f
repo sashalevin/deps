@@ -1,0 +1,6 @@
+17eaf21320da ("bus/fsl-mc: Add a container setup function")
+46f35b5fbbbb ("bus/fsl-mc: Export a cleanup function for DPRC")
+5d781fabe642 ("bus/fsl-mc: Export dprc_scan/dprc_remove functions to be used by multiple entities")
+715b02ce8968 ("bus/fsl-mc: Add dprc-reset-container support")
+35df88208c8b ("bus/fsl-mc: Add a new parameter to dprc_scan_objects function")
+7490cf5e184e ("bus/fsl-mc: Do no longer export the total number of irqs outside dprc_scan_objects")

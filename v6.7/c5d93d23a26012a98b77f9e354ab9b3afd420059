@@ -1,0 +1,4 @@
+c5d93d23a260 ("perf: Enqueue SIGTRAP always via task_work.")
+058244c68311 ("perf: Move irq_work_queue() where the event is prepared.")
+3a5465418f5f ("perf: Fix event leak upon exec and file release")
+2fd5ad3f310d ("perf: Fix event leak upon exit")

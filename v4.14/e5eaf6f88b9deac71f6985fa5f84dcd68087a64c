@@ -1,0 +1,8 @@
+e5eaf6f88b9d ("media: ddbridge: adapt cxd2099 attach to new i2c_client way")
+9403f089bfa0 ("media: ddbridge/ci: further deduplicate code/logic in ddb_ci_attach()")
+12081a25a676 ("media: ddbridge: move CI detach code to ddbridge-ci.c")
+b5472c12facb ("media: ddbridge: deduplicate calls to dvb_ca_en50221_init()")
+fac37bb124c2 ("media: ddbridge: fix resources cleanup for CI hardware")
+70d3ae1bea10 ("media: ddbridge: split off CI (common interface) from ddbridge-core")
+757d78d35aea ("media: ddbridge: fixup checkpatch-strict issues")
+1d8343aa35b1 ("media: ddbridge: remove unneeded *fe vars from attach functions")

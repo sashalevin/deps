@@ -1,0 +1,5 @@
+5298b8365832 ("extcon: axp288: Set EXTCON_USB when EXTCON_CHG_USB_SDP was set")
+5d2199ea340d ("extcon: axp288: Fix possibly reporting 2 cables in state true")
+3fe1e0e2ab50 ("extcon: axp288: Simplify axp288_handle_chrg_det_event")
+1490d157e075 ("extcon: axp288: Remove usb_phy notification code")
+768842413997 ("extcon: axp288: Remove dependency on non-existing platform_data")

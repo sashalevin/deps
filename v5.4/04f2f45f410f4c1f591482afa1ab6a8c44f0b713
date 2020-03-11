@@ -1,0 +1,7 @@
+04f2f45f410f ("mmc: sdricoh_cs: Respect the cmd->busy_timeout from the mmc core")
+3eea697c1da5 ("mmc: sdricoh_cs: Throttle polling rate for commands")
+eadb7897652d ("mmc: sdricoh_cs: Throttle polling rate for data transfers")
+6ccff65a2945 ("mmc: sdricoh_cs: Drop redundant in-parameter to sdricoh_query_status()")
+4b4c7daec4f9 ("mmc: sdricoh_cs: Move MMC_APP_CMD handling to sdricoh_mmc_cmd()")
+cfa2c1dc7bb4 ("mmc: sdricoh_cs: Use MMC_APP_CMD rather than a hardcoded number")
+710c7ff9a681 ("mmc: sdricoh_cs: Drop unused defines")

@@ -1,0 +1,4 @@
+97b70180b7f9 ("crypto: aegis128/neon - move final tag check to SIMD domain")
+ad00d41b47e6 ("crypto: aegis128/neon - optimize tail block handling")
+528282630ca9 ("crypto: aegis128 - duplicate init() and final() hooks in SIMD code")
+2698bce1f05f ("crypto: aegis128 - avoid function pointers for parameterization")

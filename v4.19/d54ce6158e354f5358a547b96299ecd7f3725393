@@ -1,0 +1,7 @@
+d54ce6158e35 ("kgdb: fix to kill breakpoints on initmem after boot")
+2277b492582d ("kdb: Fix stack crawling on 'running' CPUs that aren't the master")
+0f8b5b6d56b5 ("kgdb: Remove unused DCPU_SSTEP definition")
+7d92bda271dd ("kgdb: don't use a notifier to enter kgdb at panic; call directly")
+19483677684b ("jump_label: Annotate entries that operate on __init code earlier")
+50ff18ab497a ("jump_label: Implement generic support for relative references")
+9ae033aca8d6 ("jump_label: Abstract jump_entry member accessors")

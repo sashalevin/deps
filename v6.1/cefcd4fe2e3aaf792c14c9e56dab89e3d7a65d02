@@ -1,0 +1,6 @@
+cefcd4fe2e3a ("x86/efistub: Call mixed mode boot services on the firmware's stack")
+df9215f15206 ("x86/efistub: Simplify and clean up handover entry code")
+cc3fdda2876e ("x86/efi: Make the deprecated EFI handover protocol optional")
+73a6dec80e2a ("x86/boot/compressed: Move efi32_entry out of head_64.S")
+5c3a85f35b58 ("x86/boot/compressed: Move bootargs parsing out of 32-bit startup code")
+e2ab9eab324c ("x86/boot/compressed: Move 32-bit entrypoint code into .text section")

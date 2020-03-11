@@ -1,0 +1,5 @@
+96e6122cb796 ("tracing: Optimize event type allocation with IDA")
+1da27a25054f ("tracing: Remove usage of list iterator after the loop body")
+4ee51101e93f ("tracing: Use WARN instead of printk and WARN_ON")
+36b8aacf2a48 ("tracing: Save one trace_event->type by using __TRACE_LAST_TYPE")
+746cf3459f11 ("tracing: Simplify defining of the next event id")

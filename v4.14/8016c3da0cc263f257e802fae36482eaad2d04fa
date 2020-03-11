@@ -1,0 +1,5 @@
+8016c3da0cc2 ("tty: max310x: fix off-by-one buffer access when storing overrun")
+9c12d739d69b ("tty: max310x: Split uart characters insertion loop")
+b7382c73b2d7 ("tty: max310x: Don't pass stacked buffers to SPI")
+2b4bac48c108 ("serial: max310x: Use batched reads when reasonably safe")
+d584b65c0ddf ("serial: max310x: use a batch write op for UART transmit")

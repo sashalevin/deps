@@ -1,0 +1,5 @@
+c8c412f97612 ("SMB3: Fix mkdir when idsfromsid configured on mount")
+a7d5c2946280 ("cifs: reduce stack use in smb2_compound_op")
+0f060936e490 ("SMB3: Backup intent flag missing from some more ops")
+e0fc5b1153b8 ("SMB3: Fix crash in SMB2_open_init due to uninitialized field in compounding path")
+44805b0e62f1 ("CIFS: Respect O_SYNC and O_DIRECT flags during reconnect")

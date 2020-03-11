@@ -1,0 +1,8 @@
+eb3b5bf1a88d ("PCI: Whitelist native hotplug ports for runtime D3")
+97a90aee5dab ("PCI: Consolidate conditions to allow runtime PM on PCIe ports")
+c6a633070614 ("PCI: Activate runtime PM on a PCIe port only if it can suspend")
+1ed276a7b9d8 ("PCI: Autosense device removal in pci_bridge_d3_update()")
+035ee288ae7a ("PCI: Fix bridge_d3 update on device removal")
+006d44e49a25 ("PCI: Add runtime PM support for PCIe ports")
+9d26d3a8f1b0 ("PCI: Put PCIe ports into D3 during suspend")
+43f7f88b9362 ("PCI: Don't clear d3cold_allowed for PCIe ports")

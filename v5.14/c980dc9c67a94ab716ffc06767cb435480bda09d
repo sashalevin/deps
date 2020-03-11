@@ -1,0 +1,6 @@
+c980dc9c67a9 ("btf: remove redundant CONFIG_BPF test in scripts/link-vmlinux.sh")
+7d153696e5db ("kbuild: do not include include/config/auto.conf from shell scripts")
+5df77ad61fd7 ("kbuild: merge vmlinux_link() between ARCH=um and other architectures")
+d40aecd108d2 ("kbuild: do not remove 'linux' link in scripts/link-vmlinux.sh")
+8f1305124ea4 ("kbuild: merge vmlinux_link() between the ordinary link and Clang LTO")
+850ded46c642 ("kbuild: Fix TRIM_UNUSED_KSYMS with LTO_CLANG")

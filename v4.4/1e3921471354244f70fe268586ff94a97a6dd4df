@@ -1,0 +1,7 @@
+1e3921471354 ("userfaultfd: hugetlbfs: prevent UFFDIO_COPY to fill beyond the end of i_size")
+1c9e8def43a3 ("userfaultfd: hugetlbfs: add UFFDIO_COPY support for shared mappings")
+26071cedc519 ("userfaultfd: shmem: use shmem_mcopy_atomic_pte for shared memory")
+21205bf8f77b ("userfaultfd: hugetlbfs: reserve count on error in __mcopy_atomic_hugetlb")
+60d4d2d2b40e ("userfaultfd: hugetlbfs: add __mcopy_atomic_hugetlb for huge page UFFDIO_COPY")
+8fb5debc5fcd ("userfaultfd: hugetlbfs: add hugetlb_mcopy_atomic_pte for userfaultfd support")
+a94720bf821d ("userfaultfd: use vma_is_anonymous")

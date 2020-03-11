@@ -1,0 +1,8 @@
+a9b2dff80be9 ("l2tp: take remote address into account in l2tp_ip and l2tp_ip6 socket lookups")
+97b84fd6d917 ("l2tp: consider '::' as wildcard address in l2tp_ip6 socket lookup")
+31e2f21fb35b ("l2tp: fix address test in __l2tp_ip6_bind_lookup()")
+df90e6886146 ("l2tp: fix lookup for sockets not bound to a device in l2tp_ip")
+d5e3a190937a ("l2tp: fix racy socket lookup in l2tp_ip and l2tp_ip6 bind()")
+a3c18422a4b4 ("l2tp: hold socket before dropping lock in l2tp_ip{, 6}_recv()")
+32c231164b76 ("l2tp: fix racy SOCK_ZAPPED flag check in l2tp_ip{,6}_bind()")
+0e6b5259824e ("net: l2tp: Make l2tp_ip6 namespace aware")

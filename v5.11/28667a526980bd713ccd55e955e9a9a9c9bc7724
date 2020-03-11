@@ -1,0 +1,8 @@
+28667a526980 ("perf evsel: Handle precise_ip fallback in evsel__open_cpu()")
+da7c3b462293 ("perf evsel: Move ignore_missing_thread() to fallback code")
+46def08f5db0 ("perf evsel: Save open flags in evsel in prepare_open()")
+d45ce03434fd ("perf evsel: Separate open preparation from open itself")
+7fac83aaf2ee ("perf stat: Introduce 'bperf' to share hardware PMCs with BPF")
+034f7ee130c1 ("perf stat: Fix wrong skipping for per-die aggregation")
+fa853c4b839e ("perf stat: Enable counting events for BPF programs")
+fbcdaa1908e8 ("perf build: Support build BPF skeletons with perf")

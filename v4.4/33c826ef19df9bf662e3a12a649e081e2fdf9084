@@ -1,0 +1,8 @@
+33c826ef19df ("block: Convert blk_invalidate_devt() header into a non-kernel-doc header")
+6fcc44d1d77f ("block: fix use-after-free on gendisk")
+17eac0996341 ("block: create 'slaves' and 'holders' entries for hidden gendisks")
+8ddcd653257c ("block: introduce GENHD_FL_HIDDEN")
+517bf3c306ba ("block: don't look at the struct device dev_t in disk_devt")
+c01228db4ba9 ("Revert "scsi, block: fix duplicate bdi name registration crashes"")
+90f16fddcc28 ("block: Make del_gendisk() safer for disks without queues")
+a3b4924b027f ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

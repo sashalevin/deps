@@ -1,0 +1,6 @@
+19e8c85e336d ("virtio_net: introduce receive_small_build_xdp")
+aef76506bc64 ("virtio_net: small: remove skip_xdp")
+7af70fc169bd ("virtio_net: small: avoid code duplication in xdp scenarios")
+c5f3e72f04c0 ("virtio_net: introduce receive_small_xdp()")
+00765f8ed742 ("virtio_net: introduce virtnet_xdp_handler() to seprate the logic of run xdp")
+363d8ce4b947 ("virtio_net: mergeable xdp: put old page immediately")

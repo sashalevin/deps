@@ -1,0 +1,7 @@
+4f2abe91922b ("perf record: Move probing cgroup sampling support")
+e29386c8f7d7 ("perf record: Add --buildid-mmap option to enable PERF_RECORD_MMAP2's build id")
+246eba8e9041 ("perf tools: Add support for PERF_RECORD_TEXT_POKE")
+40c7d2460e03 ("perf tools: Move routines that probe for perf API features to separate file")
+e345997914a8 ("perf tools: Add support for leader-sampling with AUX area events")
+3713eb371c87 ("perf evsel: Rearrange perf_evsel__config_leader_sampling()")
+5f34278867b7 ("perf evlist: Move leader-sampling configuration")

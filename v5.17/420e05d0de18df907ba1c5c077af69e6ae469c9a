@@ -1,0 +1,8 @@
+420e05d0de18 ("fs: remove calls to set and clear the folio error flag")
+6817ef514e1a ("filemap: convert __filemap_fdatawait_range() to use filemap_get_folios_tag()")
+feeb9b269523 ("filemap: skip write and wait if end offset precedes start")
+176042404ee6 ("mm: add PSI accounting around ->read_folio and ->readahead calls")
+290e1a320437 ("filemap: Use filemap_read_folio() in do_read_cache_folio()")
+1dfa24a4bf3b ("filemap: Handle AOP_TRUNCATED_PAGE in do_read_cache_folio()")
+9bc3e869386b ("filemap: Move 'filler' case to the end of do_read_cache_folio()")
+98931dd95fd4 ("Merge tag 'mm-stable-2022-05-25' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

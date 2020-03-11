@@ -1,0 +1,4 @@
+11e3107d47cb ("btrfs: drop transaction parameter from btrfs_add_inode_defrag()")
+91c9f2855ead ("btrfs: return void from btrfs_add_inode_defrag()")
+6d2f07e13c01 ("btrfs: rename __need_auto_defrag() and drop double underscores")
+ca84529a842f ("btrfs: fix data race when accessing the last_trans field of a root")

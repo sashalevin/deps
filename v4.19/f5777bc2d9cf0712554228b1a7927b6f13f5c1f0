@@ -1,1 +1,4 @@
 f5777bc2d9cf ("mm/page_isolation.c: fix a wrong flag in set_migratetype_isolate()")
+d381c54760dc ("mm: only report isolation failures when offlining memory")
+2932c8b05056 ("mm, memory_hotplug: be more verbose for memory offline failures")
+381eab4a6ee8 ("mm/memory_hotplug: fix online/offline_pages called w.o. mem_hotplug_lock")

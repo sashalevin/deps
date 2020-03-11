@@ -1,0 +1,4 @@
+bb362d0e91e1 ("clk: ti: Replace kstrdup() + strreplace() with kstrdup_and_replace()")
+d02747e9894c ("clk: ti: Use clock-output-names for clkctrl")
+51f661ef9a10 ("clk: ti: Add ti_find_clock_provider() to use clock-output-names")
+6c3090520554 ("clk: ti: clkctrl: Fix hidden dependency to node name")

@@ -1,0 +1,7 @@
+12427de9439d ("Squashfs: fix variable overflow triggered by sysbot")
+8fc78b6fe24c ("squashfs: implement readahead")
+1bb1a07afad9 ("squashfs: don't use intermediate buffer if pages missing")
+f268eedddf35 ("squashfs: extend "page actor" to handle missing pages")
+124cfc154f6c ("squashfs: Convert squashfs to read_folio")
+9eec1d897139 ("squashfs: provide backing_dev_info in order to disable read-ahead")
+fbc27241e537 ("squashfs: use bvec_virt")

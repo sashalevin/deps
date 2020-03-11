@@ -1,0 +1,5 @@
+a4db9055fdb9 ("net: phy: fix duplex out of sync problem while changing settings")
+af1a02aa23c3 ("phy: phy_ethtool_ksettings_set: Lock the PHY while changing settings")
+64cd92d5e818 ("phy: phy_ethtool_ksettings_set: Move after phy_start_aneg")
+d9032dba5a2b ("net: phy: fix save wrong speed and duplex problem if autoneg is on")
+bdbdac7649fa ("ethtool: provide UAPI for PHY master/slave configuration.")

@@ -1,0 +1,6 @@
+1580f488ea8c ("x86/mce: Convert to insn_decode()")
+300638101329 ("x86/mce: Decode a kernel instruction to determine if it is copying from user")
+a05d54c41ecf ("x86/mce: Provide method to find out the type of an exception handler")
+fd258dc4442c ("x86/mce: Add Skylake quirk for patrol scrub reported errors")
+17fae1294ad9 ("x86/{mce,mm}: Unmap the entire page if the whole page is affected and poisoned")
+f77d26a9fc52 ("Merge branch 'x86/entry' into ras/core")

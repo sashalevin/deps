@@ -1,0 +1,8 @@
+1727fd5015d8 ("md: Replace snprintf with scnprintf")
+913cce5a1e58 ("md: remove most calls to bdevname")
+9151ad5d8676 ("md: Replace role magic numbers with defined constants")
+b0920ede081b ("md/raid5: Add __rcu annotation to struct disk_info")
+57668f0a4cc4 ("raid5: introduce MD_BROKEN")
+f51d46d0e7cb ("md: add support for REQ_NOWAIT")
+9b8ae7b93823 ("md/raid1: rename print_msg with r1bio_existed")
+61a27e1f521c ("md: compare bd_disk instead of bd_contains")

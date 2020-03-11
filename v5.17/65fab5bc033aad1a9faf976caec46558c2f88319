@@ -1,0 +1,8 @@
+65fab5bc033a ("x86/tdx: Exclude shared bit from __PHYSICAL_MASK")
+41394e33f3a0 ("x86/tdx: Extend the confidential computing API to support TDX guests")
+eb94f1b6a70a ("x86/tdx: Add __tdx_module_call() and __tdx_hypercall() helper functions")
+527a534c7326 ("x86/tdx: Provide common base for SEAMCALL and TDCALL C wrappers")
+59bd54a84d15 ("x86/tdx: Detect running as a TDX guest in early boot")
+b577f542f93c ("x86/coco: Add API to handle encryption mask")
+655a0fa34b4f ("x86/coco: Explicitly declare type of confidential computing platform")
+6198311093da ("x86/cc: Move arch/x86/{kernel/cc_platform.c => coco/core.c}")

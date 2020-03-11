@@ -1,0 +1,7 @@
+6cbd979080c7 ("serial: msm: Use port lock wrappers")
+fddbab7b40b3 ("serial: msm: Rename UART_* defines to MSM_UART_*")
+24b5596a858d ("serial: msm: Convert container_of UART_TO_MSM to static inline")
+aabdbb1b7a58 ("serial: msm_serial: disable interrupts in __msm_console_write()")
+76460fbd845b ("tty: serial: msm_serial: RX SW/FIFO mode fallback")
+0e4f7f920a5c ("tty: serial: msm_serial: Fix lockup for sysrq and oops")
+b027ce258369 ("tty: serial: msm_serial: Fix flow control")

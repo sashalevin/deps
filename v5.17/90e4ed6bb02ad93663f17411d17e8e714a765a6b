@@ -1,0 +1,8 @@
+90e4ed6bb02a ("cpufreq/cppc: Don't compare desired_perf in target()")
+50b813b147e9 ("cpufreq/cppc: Move and rename cppc_cpufreq_{perf_to_khz|khz_to_perf}()")
+ae2df912d1a5 ("ACPI: CPPC: Disable FIE if registers in PCC regions")
+a3f083e04a87 ("cpufreq: CPPC: Fix build error without CONFIG_ACPI_CPPC_CPUFREQ_FIE")
+3cc30dd00a58 ("cpufreq: CPPC: Enable fast_switch")
+740fcdc2c20e ("cpufreq: CPPC: Register EM based on efficiency class information")
+d3c3db41df7e ("cpufreq: CPPC: Add per_cpu efficiency_class")
+ec1c7ad47664 ("cpufreq: CPPC: Fix performance/frequency conversion")

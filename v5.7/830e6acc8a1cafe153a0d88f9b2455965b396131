@@ -1,0 +1,8 @@
+830e6acc8a1c ("locking/rtmutex: Split out the inner parts of 'struct rtmutex'")
+531ae4b06a73 ("locking/rtmutex: Split API from implementation")
+785159301bed ("locking/rtmutex: Convert macros to inlines")
+b41cda037655 ("locking/rtmutex: Set proper wait context for lockdep")
+2f064a59a11f ("sched: Change task_struct::state")
+d6c23bb3a2ad ("sched: Add get_current_state()")
+b03fbd4ff24c ("sched: Introduce task_is_running()")
+a9e906b71f96 ("Merge branch 'sched/urgent' into sched/core, to pick up fixes")

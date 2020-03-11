@@ -1,0 +1,4 @@
+e766668c6cd4 ("dm rq: don't call blk_mq_queue_stopped() in dm_stop_queue()")
+7b17c2f7292b ("dm: Fix a race condition related to stopping and starting queues")
+f0d33ab76cfc ("dm: Use BLK_MQ_S_STOPPED instead of QUEUE_FLAG_STOPPED in blk-mq code")
+9b7dd572cc43 ("blk-mq: Remove blk_mq_cancel_requeue_work()")

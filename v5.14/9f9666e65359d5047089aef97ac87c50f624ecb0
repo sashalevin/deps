@@ -1,0 +1,6 @@
+9f9666e65359 ("thunderbolt: Mask ring interrupt on Intel hardware as well")
+c4af8e3fecd0 ("thunderbolt: Clear registers properly when auto clear isn't in use")
+58cdfe6f58b3 ("thunderbolt: Rename shadowed variables bit to interrupt_bit and auto_clear_bit")
+468c49f44759 ("thunderbolt: Disable interrupt auto clear for rings")
+7a1808f82a37 ("thunderbolt: Handle ring interrupt by reading interrupt status register")
+e390909ac763 ("thunderbolt: Add vendor specific NHI quirk for auto-clearing interrupt status")

@@ -1,0 +1,5 @@
+c1acf38cd11e ("scsi: sd: Have midlayer retry sd_spinup_disk() errors")
+b4d0c33a32c3 ("scsi: sd: Fix sshdr use in sd_spinup_disk")
+af16cd63d9d3 ("scsi: sd: Convert to scsi_execute_cmd()")
+4521428c4811 ("scsi: sd: Make sd_spinup_disk() less noisy")
+848ade90ba9c ("scsi: sd: Do not exit sd_spinup_disk() quietly")

@@ -1,0 +1,4 @@
+954436989cc5 ("x86/fpu: Remove PKRU handling from switch_fpu_finish()")
+510b80a6a0f1 ("x86/pkru: Write hardware init value to PKRU when xstate is init")
+12f7764ac612 ("x86/process: Check PF_KTHREAD and not current->mm for kernel threads")
+9bfecd058339 ("x86/cpufeatures: Force disable X86_FEATURE_ENQCMD and remove update_pasid()")

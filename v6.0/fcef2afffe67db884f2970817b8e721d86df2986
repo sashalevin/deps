@@ -1,0 +1,7 @@
+fcef2afffe67 ("SUNRPC: Hoist init_encode out of svc_authenticate()")
+df18f9ccb98a ("SUNRPC: Use xdr_stream to encode Reply verifier in svcauth_tls_accept()")
+3b03f3c5d4db ("SUNRPC: Use xdr_stream to encode Reply verifier in svcauth_unix_accept()")
+b2c88ca65ac8 ("SUNRPC: Use xdr_stream to encode Reply verifier in svcauth_null_accept()")
+e8e38e14009a ("SUNRPC: Convert svcauth_tls_accept() to use xdr_stream")
+6181b0c6432b ("SUNRPC: Convert svcauth_unix_accept() to use xdr_stream")
+bee13639c094 ("SUNRPC: Convert svcauth_null_accept() to use xdr_stream")

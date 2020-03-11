@@ -1,0 +1,7 @@
+330e2d61cdd5 ("xhci: Avoid USB autosuspend when resuming USB2 ports.")
+6b7f40f71234 ("xhci: change xhci_set_link_state() to work with port structures")
+74e6ad583aa3 ("xhci: rename faked_port_index to hcd_portnum")
+52c7755ba19e ("xhci: xhci-ring: use port structures for port event handler")
+e740b019d7c6 ("xhci: xhci-hub: use new port structures to get port address instead of port array")
+ffd4b4fc0b9a ("xhci: Add helper to get xhci roothub from hcd")
+0914ea66d24c ("usb: xhci: reduce device initiated resume time variance.")

@@ -1,0 +1,4 @@
+ddb2ffdc474a ("libbpf: Define MFD_CLOEXEC if not available")
+9fa5e1a180aa ("libbpf: Call memfd_create() syscall directly")
+dac645b950ea ("libbpf: use stable map placeholder FDs")
+4aadd2920b81 ("libbpf: Ensure FD >= 3 during bpf_map__reuse_fd()")

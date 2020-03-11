@@ -1,0 +1,4 @@
+6e457914935a ("drm/i915: Use tasklet_unlock_spin_wait() in __tasklet_disable_sync_once()")
+41a1bde36715 ("drm/i915: Always kick the execlists tasklet after reset")
+9e4fa01221b3 ("drm/i915/execlists: Flush tasklet directly from reset-finish")
+66fc82960c5c ("drm/i915/execlists: Include reset depth in traces")

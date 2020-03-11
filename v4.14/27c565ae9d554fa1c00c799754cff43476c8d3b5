@@ -1,0 +1,5 @@
+27c565ae9d55 ("ipv6: remove IN6_ADDR_HSIZE from addrconf.h")
+3f27fb23219e ("ipv6: addrconf: add per netns perturbation in inet6_addr_hash()")
+752a92927e97 ("ipv6: addrconf: factorize inet6_addr_hash() call")
+56fc709b7a9f ("ipv6: addrconf: move ipv6_chk_same_addr() to avoid forward declaration")
+f3d9832e56c4 ("ipv6: addrconf: cleanup locking in ipv6_add_addr")

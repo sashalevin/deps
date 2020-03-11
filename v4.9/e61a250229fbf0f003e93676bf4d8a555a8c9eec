@@ -1,0 +1,7 @@
+e61a250229fb ("lift getrusage() from wait_noreap_copyout()")
+67d7ddded322 ("waitid(2): leave copyout of siginfo to syscall itself")
+359566faefa8 ("kernel_wait4()/kernel_waitid(): delay copying status to userland")
+ce72a16fa705 ("wait4(2)/waitid(2): separate copying rusage to userland")
+7e95a225901a ("move compat wait4 and waitid next to native variants")
+8f95c90ceb54 ("sched/wait, RCU: Introduce rcuwait machinery")
+53d3eaa31508 ("posix_cpu_timers: Move the add_device_randomness() call to a proper place")

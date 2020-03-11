@@ -1,0 +1,6 @@
+479382360da6 ("video: ssd1307fb: Convert to atomic PWM API")
+6bc9431111be ("video: ssd1307fb: Remove unneeded semicolons")
+ba14301e0356 ("fbdev/ssd1307fb: add support to enable VBAT")
+fdde1a8148d8 ("fbdev: ssd1307fb: Make reset gpio devicetree property optional")
+519b4dba5861 ("fbdev: ssd1307fb: Remove reset-active-low from the DT binding document")
+72db33355c14 ("fbdev: ssd1307fb: Start to use gpiod API for reset gpio")

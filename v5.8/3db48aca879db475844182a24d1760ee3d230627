@@ -1,0 +1,5 @@
+3db48aca879d ("kernfs: Simply by replacing kernfs_deref_open_node() with of_on()")
+41448c614815 ("kernfs: Introduce interface to access global kernfs_open_file_mutex.")
+086c00c71fc8 ("kernfs: make ->attr.open RCU protected.")
+c1b1352f21bc ("kernfs: Rename kernfs_put_open_node to kernfs_unlink_open_file.")
+bd900901b8d1 ("kernfs: Remove reference counting for kernfs_open_node.")

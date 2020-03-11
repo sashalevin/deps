@@ -1,0 +1,5 @@
+961a28513245 ("build-id: require program headers to be right after ELF header")
+bd7525dacd7e ("bpf: Move stack_map_get_build_id into lib")
+b33164f2bd1c ("bpf: Iterate through all PT_NOTE sections when looking for build id")
+c9a0f3b85e09 ("bpf: Resolve BTF IDs in vmlinux image")
+fa28dcb82a38 ("bpf: Introduce helper bpf_get_task_stack()")

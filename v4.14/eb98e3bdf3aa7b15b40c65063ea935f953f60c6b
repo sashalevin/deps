@@ -1,0 +1,8 @@
+eb98e3bdf3aa ("fuse: clean up aborted")
+63825b4e1da5 ("fuse: do not take fc->lock in fuse_request_send_background()")
+ae2dffa39485 ("fuse: introduce fc->bg_lock")
+2b30a533148a ("fuse: add locking to max_background and congestion_threshold changes")
+e8f3bd773d22 ("fuse: Fix oops at process_init_reply()")
+b8f95e5d13f5 ("fuse: umount should wait for all requests")
+87114373ea50 ("fuse: fix double request_end()")
+3b7008b226f3 ("fuse: return -ECONNABORTED on /dev/fuse read after abort")

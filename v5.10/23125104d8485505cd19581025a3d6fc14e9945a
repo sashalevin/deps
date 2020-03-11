@@ -1,0 +1,4 @@
+23125104d848 ("btrfs: make btrfs_root::free_objectid hold the next available objectid")
+6b8fad576a3c ("btrfs: rename btrfs_root::highest_objectid to free_objectid")
+453e4873869f ("btrfs: rename btrfs_find_highest_objectid to btrfs_init_root_free_objectid")
+ec7d6dfd73b2 ("btrfs: move btrfs_find_highest_objectid/btrfs_find_free_objectid to disk-io.c")

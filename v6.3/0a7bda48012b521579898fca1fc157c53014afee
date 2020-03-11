@@ -1,0 +1,3 @@
+0a7bda48012b ("mm/huge_memory: use folio_mapcount() in zap_huge_pmd() sanity check")
+0103b27a6b82 ("mm: use pfn_swap_entry_to_folio() in zap_huge_pmd()")
+a8e61d584eda ("mm/huge_memory: page_remove_rmap() -> folio_remove_rmap_pmd()")

@@ -1,0 +1,8 @@
+9168f5ae3837 ("s390/qeth: remove unused fallback in Layer3's MAC code")
+99f0b85d5f5a ("s390/qeth: use ether_addr_* helpers")
+4641b027f7c3 ("s390/qeth: don't keep track of MAC address's cast type")
+8d9183d6ebeb ("s390/qeth: use ip*_eth_mc_map helpers")
+bc3ab7058469 ("s390/qeth: fix thinko in IPv4 multicast address tracking")
+d7aa9d0bb923 ("s390/qeth: fold VLAN handling into l3_rebuild_skb()")
+2aa4867198c2 ("s390/qeth: translate SETVLAN/DELVLAN errors")
+a45b3faf16f0 ("s390/qeth: add basic VNICC support")

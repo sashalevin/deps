@@ -1,0 +1,8 @@
+e3157bb55d3e ("erofs: refine warning messages for zdata I/Os")
+6ab5eed6002e ("erofs: avoid on-stack pagepool directly passed by arguments")
+05b63d2beb8b ("erofs: allocate extra bvec pages directly instead of retrying")
+796e9149a2fc ("erofs: clean up z_erofs_pcluster_readmore()")
+ef4b4b46c6aa ("erofs: remove the member readahead from struct z_erofs_decompress_frontend")
+cdba55067f2f ("erofs: avoid tagged pointers to mark sync decompression")
+1282dea37b09 ("erofs: clean up cached I/O strategies")
+513389809e13 ("Merge tag 'for-6.1/block-2022-10-03' of git://git.kernel.dk/linux")

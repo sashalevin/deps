@@ -1,0 +1,4 @@
+73a6dec80e2a ("x86/boot/compressed: Move efi32_entry out of head_64.S")
+5c3a85f35b58 ("x86/boot/compressed: Move bootargs parsing out of 32-bit startup code")
+e2ab9eab324c ("x86/boot/compressed: Move 32-bit entrypoint code into .text section")
+22aa45cb465b ("x86/efi: Restore Firmware IDT before calling ExitBootServices()")

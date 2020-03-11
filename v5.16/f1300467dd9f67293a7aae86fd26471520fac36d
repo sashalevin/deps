@@ -1,0 +1,8 @@
+f1300467dd9f ("bpf: sockmap, add tests for proto updates single socket to many map")
+8c1b382a555a ("bpf: sockmap, add tests for proto updates many to single map")
+50d96f05af67 ("bpf: sockmap, test for unconnected af_unix sock")
+5f405c0c0c46 ("bpf, sockmap: Add tests for MSG_F_PEEK")
+80e24d222675 ("bpf, sockmap: Test FIONREAD returns correct bytes in rx buffer with drops")
+bb516f98c731 ("bpf, sockmap: Test FIONREAD returns correct bytes in rx buffer")
+1fa1fe8ff161 ("bpf, sockmap: Test shutdown() correctly exits epoll and recv()=0")
+820e6e227c40 ("selftests: bpf: test BPF_PROG_QUERY for progs attached to sockmap")

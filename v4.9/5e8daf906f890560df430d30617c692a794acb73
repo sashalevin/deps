@@ -1,0 +1,7 @@
+5e8daf906f89 ("md: Flush workqueue md_rdev_misc_wq in md_alloc()")
+0d809b3837a0 ("md: do not return existing mddevs from mddev_find_or_alloc")
+d144fe6ff176 ("md: refactor mddev_find_or_alloc")
+85c8c3c1f8d9 ("md: factor out a mddev_alloc_unit helper from mddev_find")
+65aa97c4d2bf ("md: split mddev_find")
+8b57251f9a91 ("md: factor out a mddev_find_locked helper from mddev_find")
+9d48739ef19a ("md: change all printk() to pr_err() or pr_warn() etc.")

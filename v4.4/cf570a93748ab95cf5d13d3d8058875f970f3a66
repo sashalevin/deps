@@ -1,0 +1,5 @@
+cf570a93748a ("svcrdma: Do not write xdr_buf::tail in a Write chunk")
+08ae4e7fedc6 ("svcrdma: Find client-provided write and reply chunks once per reply")
+ba986c96f907 ("svcrdma: Make map_xdr non-static")
+2fe81b239dbb ("svcrdma: Improve allocation of struct svc_rdma_req_map")
+cc886c9ff160 ("svcrdma: Improve allocation of struct svc_rdma_op_ctxt")

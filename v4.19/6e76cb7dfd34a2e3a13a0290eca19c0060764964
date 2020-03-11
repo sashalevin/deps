@@ -1,1 +1,4 @@
 6e76cb7dfd34 ("i2c: core: Tidy up handling of init_irq")
+72bfcee11cf8 ("i2c: Prevent runtime suspend of adapter when Host Notify is required")
+93b6604c5a66 ("i2c: Allow recovery of the initial IRQ by an I2C client device.")
+6f108dd70d30 ("i2c: Clear client->irq in i2c_device_remove")

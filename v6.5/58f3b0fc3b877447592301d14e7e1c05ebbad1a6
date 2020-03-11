@@ -1,0 +1,4 @@
+58f3b0fc3b87 ("KVM: arm64: Support TLB invalidation in guest context")
+ced242ba9d7c ("KVM: arm64: Remove VPIPT I-cache handling")
+909b583f81b5 ("KVM: arm64: Avoid soft lockups due to I-cache maintenance")
+6354d15052ec ("KVM: arm64: Implement __kvm_tlb_flush_vmid_range()")

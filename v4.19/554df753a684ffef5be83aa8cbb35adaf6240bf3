@@ -1,0 +1,4 @@
+554df753a684 ("media: videobuf2: Fix IS_ERR checking in vb2_dc_put_userptr()")
+8b7c0280ab03 ("media: videobuf2: use sgtable-based scatterlist wrappers")
+a9a2c8236017 ("media: videobuf2: don't test db_attach in dma-contig prepare and finish")
+596a5a58e89a ("media: vb2-dc: skip CPU sync in map/unmap dma_buf")

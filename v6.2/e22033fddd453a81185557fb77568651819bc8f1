@@ -1,0 +1,6 @@
+e22033fddd45 ("s390/pai: change sampling event assignment for PMU device driver")
+cb1259b7b574 ("s390/pai: rework paiXXX_start and paiXXX_stop functions")
+4711b7b8f995 ("s390/pai: cleanup event initialization")
+aecd5a37b5ef ("s390/pai_crypto: remove per-cpu variable assignement in event initialization")
+b286997e83dc ("s390/pai: initialize event count once at initialization")
+1f2597cd3686 ("s390/pai_ext: replace atomic_t with refcount_t")

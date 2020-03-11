@@ -1,0 +1,4 @@
+1954da4a2b62 ("s390/mm: add missing arch_set_page_dat() call to gmap allocations")
+6326c26c1514 ("s390: convert various pgalloc functions to use ptdescs")
+8211dad62798 ("s390: add pte_free_defer() for pgtables sharing page")
+292a7d6fca33 ("KVM: s390: pv: fix asynchronous teardown for small VMs")

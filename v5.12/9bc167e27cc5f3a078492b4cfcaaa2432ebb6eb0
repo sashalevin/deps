@@ -1,0 +1,8 @@
+9bc167e27cc5 ("gpio: loongson1: Add DT support")
+31b6ec6793a0 ("gpio: loongson1: Introduce ls1x_gpio_chip struct")
+3c938cc5cebc ("gpio: use raw spinlock for gpio chip shadowed data")
+2b725265cb08 ("gpio: mlxbf2: Introduce IRQ support")
+603607e70e36 ("gpio: mlxbf2: Drop wrong use of ACPI_PTR()")
+dabe57c3a32d ("gpio: mlxbf2: Convert to device PM ops")
+4195926aedca ("gpio: Add support for IDT 79RC3243x GPIO controller")
+5a5bc826fed1 ("gpio: dwapb: Drop redundant check in dwapb_irq_set_type()")

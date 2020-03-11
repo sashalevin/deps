@@ -1,0 +1,7 @@
+492eee82574b ("irqchip/renesas-rzg2l: Reorder function calls in rzg2l_irqc_irq_disable()")
+46efb3053f4f ("irqchip/renesas-rzg2l: Simplify rzg2l_irqc_irq_{en,dis}able()")
+dce0919c83c3 ("irqchip/renesas-rzg2l: Do not set TIEN and TINT source at the same time")
+8a4f44f3e9b0 ("irqchip/renesas-rzg2l: Convert to irq_data_get_irq_chip_data()")
+9b8df572ba3f ("irqchip: renesas-rzg2l: Fix logic to clear TINT interrupt source")
+3fed09559cd8 ("irqchip: Add RZ/G2L IA55 Interrupt Controller driver")
+03ac990e0ac0 ("irqchip: Add sl28cpld interrupt controller support")

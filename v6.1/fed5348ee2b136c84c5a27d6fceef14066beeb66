@@ -1,0 +1,6 @@
+fed5348ee2b1 ("mm/memory-failure: convert shake_page() to shake_folio()")
+b7b618da0edc ("mm: memory-failure: remove unneeded page state check in shake_page()")
+8cbc82f3ec0d ("mm: memory-failure: Move memory failure sysctls to its own file")
+44b8f8bf2438 ("mm: memory-failure: add memory failure stats to sysfs")
+d027122d8363 ("mm/hwpoison: move definitions of num_poisoned_pages_* to memory-failure.c")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")

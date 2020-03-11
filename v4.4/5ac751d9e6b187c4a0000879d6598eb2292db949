@@ -1,0 +1,4 @@
+5ac751d9e6b1 ("x86: Don't cast away the __user in __get_user_asm_u64()")
+33c9e9729033 ("x86: fix 32-bit case of __get_user_asm_u64()")
+b2f680380ddf ("x86/mm/32: Add support for 64-bit __get_user() on 32-bit kernels")
+11f1a4b9755f ("x86: reorganize SMAP handling in user space accesses")

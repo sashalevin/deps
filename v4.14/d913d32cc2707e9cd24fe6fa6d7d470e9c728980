@@ -1,0 +1,6 @@
+d913d32cc270 ("netlink: Use copy_to_user() for optval in netlink_getsockopt().")
+d3e8869ec826 ("net: netlink: rename NETLINK_DUMP_STRICT_CHK -> NETLINK_GET_STRICT_CHK")
+d45a57fff0a6 ("tools headers uapi: Update linux/netlink.h header copy")
+89d35528d17d ("netlink: Add new socket option to enable strict checking on dumps")
+3730cf4dd70b ("netlink: do not store start function in netlink_cb")
+dc2b9f19e3bd ("tools: add netlink.h and if_link.h in tools uapi")

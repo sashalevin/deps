@@ -1,0 +1,5 @@
+421d1069cd85 ("arm64: function_graph: Remove use of FTRACE_NOTRACE_DEPTH")
+9f416319f40c ("arm64: fix unwind_frame() for filtered out fn for function graph tracing")
+20380bb390a4 ("arm64: ftrace: fix a stack tracer's output under function graph tracer")
+fe13f95b7200 ("arm64: pass a task parameter to unwind_frame()")
+132cd887b5c5 ("arm64: Modify stack trace and dump for use with irq_stack")

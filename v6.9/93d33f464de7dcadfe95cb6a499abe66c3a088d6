@@ -1,0 +1,8 @@
+93d33f464de7 ("drm/i915/de: allow intel_display and drm_i915_private for de functions")
+8e58c0346ec2 ("drm/i915/dmc: convert dmc wakelock interface to struct intel_display")
+f5b84c28e340 ("drm/i915/display: rename __intel_wait_for_register_nowl() to indicate intel_de_")
+700c34019555 ("drm/i915/display: tie DMC wakelock to DC5/6 state transitions")
+8a8dcb23b6b3 ("drm/i915/display: add module parameter to enable DMC wakelock")
+fe3b3ed7ff5e ("drm/i915/display: don't allow DMC wakelock on older hardware")
+765425f598c2 ("drm/i915/display: add support for DMC wakelocks")
+b2e0059bcd6e ("drm/i915/de: register wait function renames")

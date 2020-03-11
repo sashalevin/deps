@@ -1,0 +1,7 @@
+4a8c31a1c6f5 ("xen/blkback: rework connect_ring() to avoid inconsistent xenstore 'ring-page-order' set by malicious blkfront")
+5b8e432dbb0e ("xen/blkback: add stack variable 'blkif' in connect_ring()")
+8235777b2068 ("xen: make use of xenbus_read_unsigned() in xen-blkback")
+6694389af9be ("xen-blkback: prefer xenbus_scanf() over xenbus_gather()")
+d62d86000316 ("xen/blkback: get the number of hardware queues/rings from blkfront")
+2fb1ef4f1226 ("xen/blkback: pseudo support for multi hardware queues/rings")
+597957000ab5 ("xen/blkback: separate ring information out of struct xen_blkif")

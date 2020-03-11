@@ -1,0 +1,5 @@
+4266f41feaee ("bpf: Fix bad unlock balance on freeze_mutex")
+c4c84f6fb2c4 ("bpf: drop unnecessary bpf_capable() check in BPF_MAP_FREEZE command")
+2c78ee898d8f ("bpf: Implement CAP_BPF")
+6890896bd765 ("bpf: Fix missing bpf_base_func_proto in cgroup_base_func_proto for CGROUP_NET=n")
+0456ea170cd6 ("bpf: Enable more helpers for BPF_PROG_TYPE_CGROUP_{DEVICE,SYSCTL,SOCKOPT}")

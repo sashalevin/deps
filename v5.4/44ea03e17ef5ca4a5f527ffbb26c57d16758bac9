@@ -1,0 +1,8 @@
+44ea03e17ef5 ("drm/amdgpu: use true and false for bool initialisations")
+d4566dee849e ("drm/amdkfd: Track GPU memory utilization per process")
+fe158997c8b7 ("drm/amdgpu: shrink critical section in amdgpu_amdkfd_gpuvm_free_memory_of_gpu")
+9593f4d6a69b ("drm/amdkfd: refactor runtime pm for baco")
+6d220a7e7971 ("drm/amdkfd: Add queue information to sysfs")
+09c34e8d7a63 ("drm/amdkfd: Improve HWS hang detection and handling")
+2c99a547bcf9 ("drm/amdkfd: don't use dqm lock during device reset/suspend/resume")
+424b5442a2a6 ("drm/amdkfd: Remove unnecessary pm_init() for non HWS mode")

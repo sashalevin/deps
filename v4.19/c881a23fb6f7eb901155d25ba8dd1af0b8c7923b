@@ -1,0 +1,6 @@
+c881a23fb6f7 ("nvme: disallow passthru cmd from targeting a nsid != nsid of the block dev")
+65e68edce0db ("nvme: allow 64-bit results in passthru commands")
+5fb4aac756ac ("nvme: release namespace SRCU protection before performing controller ioctls")
+90ec611adcf2 ("nvme: merge nvme_ns_ioctl into nvme_ioctl")
+3f98bcc58cd5 ("nvme: remove the ifdef around nvme_nvm_ioctl")
+100c815cbd56 ("nvme: fix srcu locking on error return in nvme_get_ns_from_disk")

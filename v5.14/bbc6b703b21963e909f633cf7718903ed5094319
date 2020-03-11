@@ -1,0 +1,8 @@
+bbc6b703b219 ("mm/memcg: Convert mem_cgroup_uncharge() to take a folio")
+c4ed6ebfcb09 ("mm/memcg: Convert uncharge_page() to uncharge_folio()")
+1b7e4464d43a ("mm/memcg: Add folio_memcg() and related functions")
+8e88bd2dfde2 ("mm/memcg: Convert memcg_check_events to take a node ID")
+658b69c9d852 ("mm/memcg: Use the node id in mem_cgroup_update_tree()")
+6e0110c247c8 ("mm/memcg: Remove 'page' parameter to mem_cgroup_charge_statistics()")
+bec49c067c67 ("mm, memcg: remove unused functions")
+2c8d8f97ae22 ("mm, memcg: inline mem_cgroup_{charge/uncharge} to improve disabled memcg config")

@@ -1,0 +1,5 @@
+5bdd181821b2 ("x86/asm: Remove the __iomem annotation of movdir64b()'s dst argument")
+7f5933f81bd8 ("x86/asm: Add an enqcmds() wrapper for the ENQCMDS instruction")
+0888e1030d3e ("x86/asm: Carve out a generic movdir64b() helper for general usage")
+f69ca629d89d ("x86/cpu: Refactor sync_core() for readability")
+9998a9832c40 ("x86/cpu: Relocate sync_core() to sync_core.h")

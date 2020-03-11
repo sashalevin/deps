@@ -1,0 +1,6 @@
+41f6c9344713 ("arm64: Add missing _EL2 encodings")
+cc24f656f7cf ("arm64: Add HDFGRTR_EL2 and HDFGWTR_EL2 layouts")
+57596c8f991c ("arm64: Add debug registers affected by HDFGxTR_EL2")
+bbd329fe723d ("arm64/sysreg: Convert HFGITR_EL2 to automatic generation")
+cc077e7facbe ("arm64/sysreg: Convert HFG[RW]TR_EL2 to automatic generation")
+6ff9dc238a53 ("KVM: arm64: nv: Handle HCR_EL2.NV system register traps")

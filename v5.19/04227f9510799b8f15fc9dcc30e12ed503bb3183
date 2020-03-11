@@ -1,0 +1,7 @@
+04227f951079 ("iio: adc: at91-sama5d2_adc: update trackx on emr")
+426b64752c4c ("iio: adc: at91-sama5d2_adc: move oversampling storage in its function")
+502966c3b026 ("iio: adc: at91-sama5d2_adc: move the check of oversampling in its function")
+287c271dee14 ("iio: adc: at91-sama5d2_adc: handle different EMR.OSR for different hw versions")
+cf15a2b518b3 ("iio: adc: at91-sama5d2_adc: exit from write_raw() when buffers are enabled")
+9780a23ed5a0 ("iio: adc: at91-sama5d2_adc: lock around oversampling and sample freq")
+d84ace944a3b ("iio: adc: at91-sama5d2_adc: check return status for pressure and touch")

@@ -1,0 +1,6 @@
+5191d70f83fd ("netfilter: Replace printk() with pr_*() and define pr_fmt()")
+e1bf1687740c ("netfilter: nat: Revert "netfilter: nat: convert nat bysrc hash to rhashtable"")
+97772bcd56ef ("netfilter: nat: fix src map lookup")
+124dffea9e8e ("netfilter: nat: use atomic bit op to clear the _SRC_NAT_DONE_BIT")
+01026edef906 ("nefilter: eache: reduce struct size from 32 to 24 byte")
+6e699867f84c ("netfilter: nat: avoid use of nf_conn_nat extension")

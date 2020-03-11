@@ -1,0 +1,6 @@
+36cc552055a5 ("x86/kexec: Make relocate_kernel_64.S objtool clean")
+6ec2a968247e ("x86/asm: Annotate relocate_kernel_{32,64}.c")
+e2ac83d74a4d ("x86/ftrace: Fix ORC unwinding from ftrace handlers")
+9351803bd803 ("x86/retpoline/ftrace: Convert ftrace assembler indirect jumps")
+2704fbb672d0 ("x86/head: Add unwind hint annotations")
+015a2ea54786 ("x86/head: Fix head ELF function annotations")

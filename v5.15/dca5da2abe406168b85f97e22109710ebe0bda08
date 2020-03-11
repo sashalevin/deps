@@ -1,0 +1,5 @@
+dca5da2abe40 ("x86,objtool: Move the ASM_REACHABLE annotation to objtool.h")
+c8c301abeae5 ("x86/ibt: Add ANNOTATE_NOENDBR")
+bfb1a7c91fb7 ("x86/bug: Merge annotate_reachable() into _BUG_FLAGS() asm")
+dcce50e6cc4d ("compiler.h: Fix annotation macro misplacement with Clang")
+e028c4f7ac7c ("objtool: Add frame-pointer-specific function ignore")

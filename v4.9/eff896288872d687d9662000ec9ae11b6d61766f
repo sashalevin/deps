@@ -1,0 +1,7 @@
+eff896288872 ("efi/arm: Defer persistent reservations until after paging_init()")
+b844470f2206 ("efi/arm: libstub: add a root memreserve config table")
+71e0940d52e1 ("efi: honour memory reservations passed via a linux specific config table")
+3eb420e70d87 ("efi: Use a work queue to invoke EFI Runtime Services")
+7e904a91bf60 ("efi: Use efi_mm in x86 as well as ARM")
+dd84441a7971 ("x86/speculation: Use IBRS if available before calling into firmware")
+d4667ca14261 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

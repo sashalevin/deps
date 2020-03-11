@@ -1,0 +1,5 @@
+60f540389a5d ("workqueue: Interrupted create_worker() is not a repeated event")
+3f0ea0b86456 ("workqueue: Warn when a new worker could not be created")
+e441b56fe438 ("workqueue: Replace deprecated ida_simple_*() with ida_alloc()/ida_free()")
+a2d812a27a45 ("workqueue: Make worker_attach/detach_pool() update worker->pool")
+1258fae73c59 ("workqueue: Replace pool->attach_mutex with global wq_pool_attach_mutex")

@@ -1,0 +1,7 @@
+d552ddeaab4a ("MIPS: bmips: Remove obsolete DMA mapping support")
+bb28b9f70f20 ("MIPS: bmips: include <linux/dma-direct.h> for phys_to_dma")
+5ceda74093a5 ("dma-direct: rename and cleanup __phys_to_dma")
+7bc5c428a660 ("dma-direct: remove __dma_to_phys")
+4a47cbae0484 ("dma-direct: improve swiotlb error reporting")
+91ef26f91417 ("dma-direct: relax addressability checks in dma_direct_supported")
+81b6b96475ac ("Merge branch 'master' of git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux; tag 'dma-mapping-5.5' of git://git.infradead.org/users/hch/dma-mapping")

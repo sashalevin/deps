@@ -1,0 +1,7 @@
+ab5eb336411f ("xtensa: move coprocessor_flush to the .text section")
+d6d5f19e21d9 ("xtensa: abstract 'entry' and 'retw' in assembly code")
+2201f31f2c6d ("xtensa: use actual syscall number in do_syscall_trace_leave")
+3aee3e25deea ("xtensa: call do_syscall_trace_{enter,leave} selectively")
+6a986984b639 ("xtensa: use NO_SYSCALL instead of -1")
+5dacbbef3d29 ("xtensa: simplify coprocessor.S")
+3ffc2df9c76d ("xtensa: drop unused coprocessor helper functions")

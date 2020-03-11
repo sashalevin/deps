@@ -1,0 +1,6 @@
+19a046f07ce5 ("arm64: kexec: use ld script for relocation function")
+08eae0ef618f ("arm64: kexec: configure EL2 vectors for kexec")
+878fdbd70486 ("arm64: kexec: pass kimage as the only argument to relocation function")
+5bb6834fc290 ("arm64: kexec: skip relocation code for inplace kexec")
+0d8732e461d6 ("arm64: kexec: flush image and lists during kexec load time")
+788bfdd97434 ("arm64: trans_pgd: hibernate: Add trans_pgd_copy_el2_vectors")

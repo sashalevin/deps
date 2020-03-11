@@ -1,0 +1,8 @@
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+a16578dd5e3a ("rcu: Rework rcu_barrier() and callback-migration logic")
+0cabb47af3cf ("rcu: Refactor rcu_barrier() empty-list handling")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")
+2caebefb00f0 ("rcu: Move rcu_dynticks_eqs_online() to rcu_cpu_starting()")
+ebc88ad49136 ("rcu: Comment rcu_gp_init() code waiting for CPU-hotplug operations")
+dfcb27540213 ("rcu/nocb: Start moving nocb code to its own plugin file")
+28e92f990337 ("Merge branch 'core-rcu-2021.07.04' of git://git.kernel.org/pub/scm/linux/kernel/git/paulmck/linux-rcu")

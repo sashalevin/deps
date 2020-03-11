@@ -1,0 +1,8 @@
+92c14cab4326 ("percpu: convert chunk hints to be based on pcpu_block_md")
+b239f7daf553 ("percpu: set PCPU_BITMAP_BLOCK_SIZE to PAGE_SIZE")
+3e54097beb22 ("percpu: manage chunks based on contig_bits instead of free_bytes")
+d9f3a01eebe8 ("percpu: introduce helper to determine if two regions overlap")
+8e5a2b9893f3 ("percpu: update free path with correct new free region")
+6ab7d47bcbf0 ("percpu: convert spin_lock_irq to spin_lock_irqsave.")
+7e8a6304d541 ("/proc/meminfo: add percpu populated pages count")
+655c75a206e6 ("Documentation: proc.txt: Adding 'HardwareCorrupted' field and description.")

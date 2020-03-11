@@ -1,0 +1,8 @@
+8981bdfda744 ("fuse: don't send ATTR_MODE to kill suid/sgid for handle_killpriv_v2")
+c01638f5d919 ("fuse: fix clearing suid, sgid for chown()")
+5e940c1dd3c1 ("fuse: handle killpriv in userspace fs")
+a09f99eddef4 ("fuse: fix killing s[ug]id in setattr")
+5e2b8828ff3d ("fuse: invalidate dir dentry after chmod")
+5c672ab3f0ee ("fuse: serialize dirops by default")
+5955102c9984 ("wrappers for ->i_mutex access")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

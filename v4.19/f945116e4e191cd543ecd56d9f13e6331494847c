@@ -1,0 +1,6 @@
+f945116e4e19 ("mm: page_alloc: remove stale CMA guard code")
+eb2e2b425c69 ("mm/page_alloc: explicitly record high-order atomic allocations in alloc_flags")
+663d0cfd2e77 ("mm/page_alloc.c: delete a redundant parameter of rmqueue_pcplist")
+4b23a68f9536 ("mm/page_alloc: protect PCP lists with a spinlock")
+589d9973c1d2 ("mm/page_alloc: split out buddy removal code from rmqueue into separate helper")
+77fb622de139 ("Merge tag 'mm-hotfixes-stable-2022-05-27' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

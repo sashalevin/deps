@@ -1,0 +1,5 @@
+d729b554e179 ("efi/loongarch: libstub: Split off kernel image relocation for builtin stub")
+0efb61c89fa0 ("efi/loongarch: Don't jump to kernel entry via the old image")
+f1a116c055e3 ("efi/riscv: libstub: Split off kernel image relocation for builtin stub")
+895bc3a135ff ("efi: libstub: Factor out min alignment and preferred kernel load address")
+732ea9db9d8a ("efi: libstub: Move screen_info handling to common code")

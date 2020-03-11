@@ -1,0 +1,6 @@
+0b385be4c3cc ("drm/i915: Don't explode when the dig port we don't have an AUX CH")
+992ed9d52560 ("drm/i915/display/power: use intel_de_rmw if possible")
+ee9125720c02 ("drm/i915: Consult the registered encoders for the ICL combo PHY w/a")
+a0c51490885f ("drm/i915/power: switch to intel_de_* register accessors in display code")
+3721d4fb763e ("drm/i915/reg: stop using implicit dev_priv in DSPCLK_GATE_D")
+61c86578229d ("drm/i915/mtl: Add support for MTL in Display Init sequences")

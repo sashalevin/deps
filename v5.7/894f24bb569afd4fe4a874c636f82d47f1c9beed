@@ -1,0 +1,8 @@
+894f24bb569a ("mm/vmalloc: add __alloc_size attributes for better bounds checking")
+15a64f5a8870 ("mm/vmalloc: add vmalloc_no_huge")
+7a0e27b2a0ce ("mm: remove vmalloc_exec")
+041de93ff86f ("mm: remove vmalloc_user_node_flags")
+2b9059489c83 ("mm: remove __vmalloc_node_flags_caller")
+4d39d7285f45 ("mm: remove both instances of __vmalloc_node_flags")
+f38fcb9c1c5e ("mm: remove the prot argument to __vmalloc_node")
+88dca4ca5a93 ("mm: remove the pgprot argument to __vmalloc")

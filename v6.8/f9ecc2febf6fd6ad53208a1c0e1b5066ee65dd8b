@@ -1,0 +1,6 @@
+f9ecc2febf6f ("pwm: Don't export pwm_capture()")
+024913dbf99f ("pwm: Provide pwmchip_alloc() function and a devm variant of it")
+62928315adfe ("pwm: Reorder symbols in core.c")
+91bb23493f8f ("pwm: Drop duplicate check against chip->npwm in of_pwm_xlate_with_flags()")
+40ade0c2e794 ("pwm: Let the of_xlate callbacks accept references without period")
+4e77431cda49 ("pwm: Drop useless member .of_pwm_n_cells of struct pwm_chip")

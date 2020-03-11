@@ -1,0 +1,7 @@
+3a836bfe9ff6 ("thermal: core: move passive attr to tz->device.groups")
+8baa5dae60ad ("thermal: core: move mode attribute to tz->device.groups")
+66e554bde9f8 ("thermal: core: move emul_temp creation to tz->device.groups")
+1c600861fa6f ("thermal: core: use dev.groups to manage always present tz attributes")
+308f726ac872 ("thermal: core: group device_create_file() calls that are always created")
+ef1d8bff72e1 ("thermal: core: group thermal_zone DEVICE_ATTR's declarations")
+54fa38cc2eda ("thermal: core: prevent zones with no types to be registered")

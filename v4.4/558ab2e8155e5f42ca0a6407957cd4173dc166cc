@@ -1,0 +1,6 @@
+558ab2e8155e ("gpio: pxa: Fix return value of pxa_gpio_probe()")
+542c25b7a209 ("drivers: gpio: pxa: use devm_platform_ioremap_resource()")
+9506755633d0 ("gpio: pxa: Fix potential NULL dereference")
+384ca3c6a28d ("gpio: pxa: change the interrupt management")
+8852b2f7dbf6 ("gpio: pxa: convert to devm_ioremap")
+fc0589ca6478 ("gpio: pxa: convert to one gpiochip")

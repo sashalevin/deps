@@ -1,0 +1,6 @@
+8b7b0a5eee22 ("mm: remove free_unref_page_list()")
+90491d87dd46 ("mm: add free_unref_folios()")
+7c76d92253db ("mm: convert free_unref_page_list() to use folios")
+a4bafffb5dc5 ("mm/page_alloc: simplify locking during free_unref_page_list")
+574907741599 ("mm/page_alloc: leave IRQs enabled for per-cpu page allocations")
+c3e58a70425a ("mm/page_alloc: always remove pages from temporary list")

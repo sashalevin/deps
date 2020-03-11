@@ -1,0 +1,5 @@
+b378a9826143 ("s390: include linux/io.h instead of asm/io.h")
+51f513fd9659 ("s390/mm: do not include <asm-generic/io.h> directly")
+a64e45c2ea62 ("s390/cpum_sf: move functions from header file to source file")
+82d3edb50a11 ("s390/cpum_sf: add READ_ONCE() semantics to compare and swap loops")
+78c045c08a39 ("s390/appldata: remove power management callbacks")

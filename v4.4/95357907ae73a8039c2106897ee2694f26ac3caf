@@ -1,0 +1,6 @@
+95357907ae73 ("mlx4: fix XDP_TX is acting like XDP_PASS on TX ring full")
+9ecc2d86171a ("net/mlx4_en: add xdp forwarding and data write support")
+d576acf0a228 ("net/mlx4_en: add page recycle to prepare rx ring for tx support")
+47a38e155037 ("net/mlx4_en: add support for fast rx drop bpf program")
+73898db04301 ("net/mlx4: Avoid wrong virtual mappings")
+b4a53379a0c1 ("mlx4: use napi_consume_skb API to get bulk free operations")

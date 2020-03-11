@@ -1,0 +1,7 @@
+9ea74f7c70cd ("x86/mce: Enable PPIN for Knights Landing/Mill")
+3f5a7896a509 ("x86/mce: Include the PPIN in MCE records when available")
+5828c46f2c07 ("x86/mce/AMD: Save MCA_IPID in MCE struct on SMCA systems")
+db819d60f672 ("x86/mce: Add support for new MCA_SYND register")
+34102009580a ("x86/mce/AMD: Log Deferred Errors using SMCA MCA_DE{STAT,ADDR} registers")
+d9d73fcc8784 ("x86/mce: Detect and use SMCA-specific msr_ops")
+ba33ea811e1f ("Merge branch 'x86-asm-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

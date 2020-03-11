@@ -1,0 +1,6 @@
+974854ab0728 ("cxl/acpi: Track CXL resources in iomem_resource")
+e636479e2f1b ("cxl/core: Define a 'struct cxl_switch_decoder'")
+419af595b118 ("cxl: Introduce cxl_to_{ways,granularity}")
+885d3bed6de1 ("cxl/core: Drop is_cxl_decoder()")
+e50fe01e1f2a ("cxl/core: Drop ->platform_res attribute for root decoders")
+e8b7ea58abbd ("cxl/core: Rename ->decoder_range ->hpa_range")

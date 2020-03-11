@@ -1,0 +1,4 @@
+77aa60753a7b ("KVM: x86/mmu: Refactor TDP MMU iterators to take kvm_mmu_page root")
+0103098fb4f1 ("KVM: x86/mmu: Don't step down in the TDP iterator when zapping all SPTEs")
+524a1e4e381f ("KVM: x86/mmu: Don't leak non-leaf SPTEs when zapping all SPTEs")
+3ad93562093d ("KVM: x86: Support write protecting only large pages")

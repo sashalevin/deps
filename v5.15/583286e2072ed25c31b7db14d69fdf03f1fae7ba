@@ -1,0 +1,8 @@
+583286e2072e ("riscv: Move cast inside kernel_mapping_[pv]a_to_[vp]a")
+677b9eb8810e ("riscv: mm: Prepare pt_ops helper functions for sv57")
+e8a62cc26ddf ("riscv: Implement sv48 support")
+3270bfdb9e4a ("riscv: Allow to dynamically define VA_BITS")
+840125a97abc ("riscv: Introduce functions to switch pt_ops")
+2efad17e5794 ("riscv: Split early kasan mapping to prepare sv48 introduction")
+f7ae02333d13 ("riscv: Move KASAN mapping next to the kernel mapping")
+db1503d355a7 ("riscv: Get rid of MAXPHYSMEM configs")

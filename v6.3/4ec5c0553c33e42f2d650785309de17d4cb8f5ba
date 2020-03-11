@@ -1,0 +1,6 @@
+4ec5c0553c33 ("blk-mq: fold __blk_mq_insert_req_list into blk_mq_insert_request")
+a88db1e0003e ("blk-mq: fold __blk_mq_insert_request into blk_mq_insert_request")
+2bd215df791b ("blk-mq: move blk_mq_sched_insert_request to blk-mq.c")
+05a93117703e ("blk-mq: fold blk_mq_sched_insert_requests into blk_mq_dispatch_plug_list")
+94aa228c2a2f ("blk-mq: move more logic into blk_mq_insert_requests")
+54bdd67d0f88 ("blk-mq: remove hybrid polling")

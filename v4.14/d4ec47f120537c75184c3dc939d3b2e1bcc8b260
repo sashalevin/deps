@@ -1,0 +1,7 @@
+d4ec47f12053 ("nvme-pci: initialize tagset numa value to the value of the ctrl")
+d43f1ccfad05 ("nvme-pci: remove the inline scatterlist optimization")
+9b048119a153 ("nvme-pci: remove nvme_init_iod")
+39f8e3640114 ("nvme-pci: remove unused nvme_iod member")
+943e942e6266 ("nvme-pci: limit max IO size and segments to avoid high order allocations")
+d1f06f4ae041 ("nvme-pci: move ->cq_vector == -1 check outside of ->q_lock")
+0a4b6e2f80aa ("Merge branch 'for-4.16/block' of git://git.kernel.dk/linux-block")

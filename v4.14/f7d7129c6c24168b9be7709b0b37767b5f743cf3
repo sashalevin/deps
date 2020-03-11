@@ -1,0 +1,6 @@
+f7d7129c6c24 ("scsi: sr: Fix sshdr use in sr_get_events")
+49d33b6245d9 ("scsi: sr: Convert to scsi_execute_cmd()")
+e7d0748dd716 ("block: Switch struct packet_command to use struct scsi_sense_hdr")
+54f8a7ae7c21 ("ide-cd: Drop unused sense buffers")
+ada94973f15f ("pktcdvd: remove assignment in if condition")
+f7068114d45e ("sr: pass down correctly sized SCSI sense buffer")

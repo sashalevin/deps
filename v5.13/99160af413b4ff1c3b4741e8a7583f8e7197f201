@@ -1,0 +1,6 @@
+99160af413b4 ("nvme-mpath: fix I/O failure with EAGAIN when failing over I/O")
+c712dccc6435 ("nvme-multipath: enable polled I/O")
+d32d3d0b47f7 ("nvme-multipath: set QUEUE_FLAG_NOWAIT")
+f165fb89b71f ("nvme-multipath: convert to blk_alloc_disk/blk_cleanup_disk")
+0d1feb72ffd8 ("block: automatically enable GENHD_FL_EXT_DEVT")
+7c3f828b522b ("block: refactor device number setup in __device_add_disk")

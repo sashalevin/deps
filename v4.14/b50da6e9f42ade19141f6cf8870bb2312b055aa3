@@ -1,0 +1,5 @@
+b50da6e9f42a ("mm: fix a race on nr_swap_pages")
+c10d38cc8d3e ("mm, swap: bounds check swap_info array accesses to avoid NULL derefs")
+5d5e8f19544a ("mm, swap, get_swap_pages: use entry_size instead of cluster in parameter")
+bb98f2c5ac5d ("mm, memcontrol: move swap charge handling into get_swap_page()")
+0bcac06f27d7 ("mm, swap: skip swapcache for swapin of synchronous device")

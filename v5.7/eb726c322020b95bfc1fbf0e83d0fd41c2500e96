@@ -1,0 +1,8 @@
+eb726c322020 ("mtd: spi-nor: core: Don't use mtd_info in the NOR's probe sequence of calls")
+f656b419d41a ("mtd: spi-nor: Fix mtd size for s3an flashes")
+5854d4a6cc35 ("mtd: spi-nor: Get rid of nor->page_size")
+04fc298c7d08 ("mtd: spi-nor: use is_power_of_2()")
+39bdfb789bac ("mtd: spi-nor: core: use EOPNOTSUPP instead of ENOTSUPP")
+324f78dfb442 ("mtd: spi-nor: Fix address width on flash chips > 16MB")
+1ac71ec0130c ("mtd: spi-nor: Fix SPI NOR acronym")
+80cb80114426 ("mtd: spi-nor: fix kernel-doc for spi_nor::info")

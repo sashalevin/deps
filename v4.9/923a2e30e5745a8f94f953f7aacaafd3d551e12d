@@ -1,0 +1,8 @@
+923a2e30e574 ("KVM: arm/arm64: Move VGIC APR save/restore to vgic put/load")
+75174ba6ca9d ("KVM: arm/arm64: Handle VGICv2 save/restore from the main VGIC code")
+bb5ed7035918 ("KVM: arm/arm64: Get rid of vgic_elrsr")
+35a84dec00a7 ("KVM: arm64: Move HCR_INT_OVERRIDE to default HCR_EL2 guest flag")
+cc33c4e20185 ("arm64/kvm: Prohibit guest LOR accesses")
+558daf693e0c ("KVM: arm64: Emulate RAS error registers and set HCR_EL2's TERR & TEA")
+fc396e066318 ("KVM: arm/arm64: Fix broken GICH_ELRSR big endian conversion")
+fc3790fa0768 ("Merge tag 'kvm-arm-gicv4-for-v4.15' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

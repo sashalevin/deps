@@ -1,0 +1,5 @@
+3f893a5962d3 ("irqchip/gic-v3: Always trust the managed affinity provided by the core code")
+c5d6082d35e0 ("irqchip/gic-v3-its: Balance initial LPI affinity across CPUs")
+2f13ff1d1d5c ("irqchip/gic-v3-its: Track LPI distribution on a per CPU basis")
+c1797b11a09c ("irqchip/gic-v3-its: Don't bind LPI to unavailable NUMA node")
+9fbd7fd28d1a ("Merge tag 'irqchip-4.14' of git://git.kernel.org/pub/scm/linux/kernel/git/maz/arm-platforms into irq/core")

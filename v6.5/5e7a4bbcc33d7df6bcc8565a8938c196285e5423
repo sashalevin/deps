@@ -1,0 +1,5 @@
+5e7a4bbcc33d ("dm: remove dm_check_zoned")
+44cccb3027d4 ("dm: Check that a zoned table leads to a valid mapped device")
+f211268ed1f9 ("dm: Use the block layer zone append emulation")
+6f25dd1c57b8 ("dm: respect REQ_NOWAIT flag in normal bios issued to DM")
+f1445032173d ("dm: shortcut the calls to linear_map and stripe_map")

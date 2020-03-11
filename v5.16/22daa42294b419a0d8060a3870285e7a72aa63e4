@@ -1,0 +1,5 @@
+22daa42294b4 ("x86/mm: Add callbacks to prepare encrypted memory for kexec")
+88e378d400fa ("x86/ioremap: Add hypervisor callback for private MMIO mapping in coco VM")
+f4c9361f97c4 ("x86/tdx/ioapic: Add shared bit for IOAPIC base address")
+1e8c5971c249 ("x86/mm/cpa: Generalize __set_memory_enc_pgtable()")
+dbca5e1a04f8 ("x86/sev: Rename mem_encrypt.c to mem_encrypt_amd.c")

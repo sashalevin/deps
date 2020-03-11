@@ -1,0 +1,4 @@
+b385ef088c7a ("usb: cdnsp: Replace snprintf() with the safer scnprintf() variant")
+2998874736bc ("usb:cdnsp: remove TRB_FLUSH_ENDPOINT command")
+03db9289b5ab ("usb: cdnsp: fix cdnsp_decode_trb function to properly handle ret value")
+10076de33b5e ("usb: cdnsp: Fixes issue with Configure Endpoint command")

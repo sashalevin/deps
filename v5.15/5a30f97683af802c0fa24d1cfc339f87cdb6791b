@@ -1,0 +1,5 @@
+5a30f97683af ("KVM: nVMX: Hide more stuff under CONFIG_KVM_HYPERV")
+06692e4b8055 ("KVM: VMX: Move RESET emulation to vmx_vcpu_reset()")
+d06567353e12 ("KVM: VMX: Drop explicit zeroing of MSR guest values at vCPU creation")
+feb3162f9deb ("KVM: nVMX: Reset vmxon_ptr upon VMXOFF emulation.")
+64c785082c21 ("KVM: nVMX: Use INVALID_GPA for pointers used in nVMX.")

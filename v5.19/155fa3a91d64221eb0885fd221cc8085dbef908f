@@ -1,0 +1,6 @@
+155fa3a91d64 ("drm/msm/dsi: Remove incorrect references to slice_count")
+82e72fd22a8f ("drm/msm/dsi: Flip greater-than check for slice_count and slice_per_intf")
+bc6b6ff8135c ("drm/msm/dsi: Use DSC slice(s) packet size to compute word count")
+e443459e2e6b ("drm/msm/dsi: Reuse earlier computed dsc->slice_chunk_size")
+170ffca836dd ("drm/msm/dsi: Remove repeated calculation of slice_per_intf")
+4b2b1b3674f8 ("drm/msm/dsi: use drm_dsc_config instead of msm_display_dsc_config")

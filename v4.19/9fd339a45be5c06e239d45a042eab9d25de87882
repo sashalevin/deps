@@ -1,0 +1,5 @@
+9fd339a45be5 ("arm64: Work around broken GCC 4.9 handling of "S" constraint")
+304e2989c93e ("KVM: arm64: Move hyp_symbol_addr() to kvm_asm.h")
+b990d37fdf67 ("KVM: arm64: Stop sparse from moaning at __hyp_this_cpu_ptr")
+4db61fef16a1 ("arm64: kvm: Modernize __smccc_workaround_1_smc_start annotations")
+14edff88315a ("Merge tag 'kvmarm-5.5' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

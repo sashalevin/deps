@@ -1,0 +1,6 @@
+8f2d6c41e5a6 ("x86/sched: Rewrite topology setup")
+044f0e27dec6 ("x86/sched: Add the SD_ASYM_PACKING flag to the die domain of hybrid processors")
+cabdc3a8475b ("sched,x86: Don't use cluster topology for x86 hybrid CPUs")
+66558b730f25 ("sched: Add cluster scheduler level for x86")
+9164d9493a79 ("x86/cpu: Add get_llc_id() helper function")
+2c88d45edbb8 ("x86, sched: Treat Intel SNC topology as default, COD as exception")

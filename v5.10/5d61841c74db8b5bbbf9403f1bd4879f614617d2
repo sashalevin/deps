@@ -1,0 +1,5 @@
+5d61841c74db ("spi: zynqmp-gqspi: Scale timeout by data size")
+ca6f114372ae ("spi: zynqmp-gqspi: switch to use modern name")
+c6bdae08012b ("spi: spi-zynqmp-gqspi: fix clk_enable/disable imbalance issue")
+a0f65be6e880 ("spi: spi-zynqmp-gqspi: add mutex locking for exec_op")
+a16bff68b75f ("spi: spi-zynqmp-gqspi: use wait_for_completion_timeout to make zynqmp_qspi_exec_op not interruptible")

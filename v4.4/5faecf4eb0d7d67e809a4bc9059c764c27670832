@@ -1,0 +1,5 @@
+5faecf4eb0d7 ("libnvdimm: protect nvdimm_{bus|namespace}_add_poison() with nvdimm_bus_lock()")
+b95f5f4391fa ("libnvdimm: convert to statically allocated badblocks")
+87ba05dff351 ("libnvdimm: don't fail init for full badblocks list")
+ad9a8bde2cb1 ("libnvdimm, pmem: move definition of nvdimm_namespace_add_poison to nd.h")
+0caeef63e6d2 ("libnvdimm: Add a poison list and export badblocks")

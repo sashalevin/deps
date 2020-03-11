@@ -1,0 +1,7 @@
+71b0aa10b18d ("iommu/arm-smmu-v3: Build the whole STE in arm_smmu_make_s2_domain_ste()")
+efe15df08727 ("iommu/arm-smmu-v3: Move the STE generation for S1 and S2 domains into functions")
+7686aa5f8d61 ("iommu/arm-smmu-v3: Consolidate the STE generation for abort/bypass")
+7da51af9125c ("iommu/arm-smmu-v3: Make STE programming independent of the callers")
+9fde008337d3 ("iommu/arm-smmu-v3: Remove ARM_SMMU_DOMAIN_NESTED")
+12a48fe90d09 ("iommu/arm-smmu-v3: Master cannot be NULL in arm_smmu_write_strtab_ent()")
+57b89048874c ("iommu/arm-smmu-v3: Add a type for the STE")

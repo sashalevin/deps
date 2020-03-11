@@ -1,0 +1,4 @@
+98442f0ccd82 ("sched: Fix delayed_dequeue vs switched_from_fair()")
+9753358a6a2b ("sched_ext: Fix SCX_TASK_INIT -> SCX_TASK_READY transitions in scx_ops_enable()")
+61eeb9a90522 ("sched_ext: TASK_DEAD tasks must be switched out of SCX on ops_disable")
+f0e1a0643a59 ("sched_ext: Implement BPF extensible scheduler class")

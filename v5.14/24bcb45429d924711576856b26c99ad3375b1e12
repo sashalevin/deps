@@ -1,0 +1,3 @@
+24bcb45429d9 ("btrfs: fix deadlock when defragging transparent huge pages")
+5767b50c0096 ("btrfs: defrag: factor out page preparation into a helper")
+cae796868042 ("btrfs: defrag: also check PagePrivate for subpage cases in cluster_pages_for_defrag()")

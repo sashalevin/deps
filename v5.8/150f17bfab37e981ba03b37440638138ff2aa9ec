@@ -1,0 +1,8 @@
+150f17bfab37 ("KVM/nVMX: Use __vmx_vcpu_run in nested_vmx_check_vmentry_hw")
+a128a934f202 ("KVM: VMX: Rename "vmx_find_msr_index" to "vmx_find_loadstore_msr_slot"")
+3f3393b3ce38 ("KVM: X86: Rename and move the function vmx_handle_memory_failure to x86.c")
+43fea4e42599 ("KVM: nVMX: Update VMCS02 when L2 PAE PDPTE updates detected")
+897861479c06 ("KVM: x86: Add helper functions for illegal GPA checking and page fault injection")
+3ebccdf373c2 ("x86/kvm/vmx: Move guest enter/exit into .noinstr.text")
+0642391e2139 ("x86/kvm/vmx: Add hardirq tracing to guest enter/exit")
+87fa7f3e98a1 ("x86/kvm: Move context tracking where it belongs")

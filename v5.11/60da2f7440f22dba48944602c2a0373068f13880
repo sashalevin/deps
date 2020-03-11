@@ -1,0 +1,7 @@
+60da2f7440f2 ("drm/amdgpu: drop amdgpu_display_gem_fb_init()")
+24981fa336b6 ("drm/amdgpu: Call drm_framebuffer_init last for framebuffer init")
+32d6378cab2d ("drm/amdgpu: Use drm_dbg_kms for reporting failure to get a GEM FB")
+37ac3dc00da0 ("drm/amdgpu: Use device specific BO size & stride check.")
+f4a9be998c8e ("drm/amdgpu: Ensure that the modifier requested is supported by plane.")
+79fcd446e7e1 ("drm/amdgpu: Fix memory leak")
+f258907fdd83 ("drm/amdgpu: Verify bo size can fit framebuffer size on init.")

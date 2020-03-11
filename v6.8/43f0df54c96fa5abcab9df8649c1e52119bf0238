@@ -1,0 +1,3 @@
+43f0df54c96f ("pidfd_poll: report POLLHUP when pid_task() == NULL")
+64bef697d33b ("pidfd: implement PIDFD_THREAD flag for pidfd_open()")
+21e25205d7f9 ("pidfd: don't do_notify_pidfd() if !thread_group_empty()")

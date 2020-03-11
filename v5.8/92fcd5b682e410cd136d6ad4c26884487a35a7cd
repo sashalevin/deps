@@ -1,0 +1,4 @@
+92fcd5b682e4 ("pwm: imx-tpm: Simplify using devm functions")
+ed60a877affc ("pwm: imx-tpm: Convert to platform remove callback returning void")
+bfecbc9490dc ("pwm: imx-tpm: Don't check the return code of pwmchip_remove()")
+168cc32920ef ("pwm: imx-tpm: Use dev_err_probe() to simplify error handling")

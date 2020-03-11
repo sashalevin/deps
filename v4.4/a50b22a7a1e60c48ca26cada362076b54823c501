@@ -1,0 +1,4 @@
+a50b22a7a1e6 ("x86/init: Disable pnpbios and rtc for X86_SUBARCH_CE4100")
+f6935b7bfbf8 ("x86/init: Disable pnpbios for X86_SUBARCH_INTEL_MID")
+088a8ef8207f ("x86/ACPI: Move ACPI_FADT_NO_CMOS_RTC check to ACPI boot code")
+8d152e7a5c75 ("x86/rtc: Replace paravirt rtc check with platform legacy quirk")

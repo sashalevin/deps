@@ -1,0 +1,5 @@
+a11334d8327b ("powerpc: Allow CONFIG_PPC64_BIG_ENDIAN_ELF_ABI_V2 with ld.lld 15+")
+5017b4594672 ("powerpc/64: Option to build big-endian with ELFv2 ABI")
+661aa880398a ("powerpc: Add CONFIG_PPC64_ELF_ABI_V1 and CONFIG_PPC64_ELF_ABI_V2")
+af1725d2493d ("powerpc/kconfig: Move CONFIG_PPC32 into Kconfig.cputype")
+465bfd9c44de ("powerpc: Don't add -mabi= flags when building with Clang")

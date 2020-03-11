@@ -1,0 +1,4 @@
+63b605128655 ("mm/gup: move gup_must_unshare() to mm/internal.h")
+84209e87c696 ("mm/gup: reliable R/O long-term pinning in COW mappings")
+474098edac26 ("mm/gup: replace FOLL_NUMA by gup_can_follow_protnone()")
+088b8aa537c2 ("mm: fix PageAnonExclusive clearing racing with concurrent RCU GUP-fast")

@@ -1,0 +1,7 @@
+c5c2a97b3ac7 ("PM / OPP: Update voltage in case freq == old_freq")
+947355850fcb ("PM / OPP: Separate out _generic_set_opp()")
+dfbe4678d709 ("PM / OPP: Add infrastructure to manage multiple regulators")
+ce31781a7574 ("PM / OPP: Pass struct dev_pm_opp_supply to _set_opp_voltage()")
+0f0fe7e01327 ("PM / OPP: Manage supply's voltage/current in a separate structure")
+dc39d06fcd7a ("PM / OPP: Don't use OPP structure outside of rcu protected section")
+91291d9ad92f ("PM / OPP: Pass opp_table to dev_pm_opp_put_regulator()")

@@ -1,0 +1,8 @@
+ceaf69f8eadc ("fanotify: do not allow setting dirent events in mask of non-dir")
+85af5d9258cc ("fanotify: use FAN_EVENT_ON_CHILD as implicit flag on sb/mount/non-dir marks")
+4ed6814a91cc ("fanotify: prepare for implicit event flags in mark mask")
+d809daf1b6ad ("fanotify: generalize test for FAN_REPORT_FID")
+0badfa029e5f ("fanotify: generalize the handling of extra event flags")
+08b95c338e0c ("fanotify: remove event FAN_DIR_MODIFY")
+9c61f3b560f5 ("fanotify: break up fanotify_alloc_event()")
+b8a6c3a2f0ae ("fanotify: create overflow event type")

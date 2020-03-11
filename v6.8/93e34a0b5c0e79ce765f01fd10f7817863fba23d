@@ -1,0 +1,5 @@
+93e34a0b5c0e ("rust: KASAN+RETHUNK requires rustc 1.83.0")
+f64e2f3a66e3 ("rust: kasan: Rust does not support KHWASAN")
+ca627e636551 ("rust: cfi: add support for CFI_CLANG with Rust")
+ce4a2620985c ("cfi: add CONFIG_CFI_ICALL_NORMALIZE_INTEGERS")
+7d49f53af4b9 ("rust: don't select CONSTRUCTORS")

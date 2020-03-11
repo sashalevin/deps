@@ -1,0 +1,8 @@
+63b6206e2f9a ("KVM: x86: Remove separate "bit" defines for page fault error code masks")
+cf9f4c0eb169 ("KVM: x86/mmu: Refresh CR0.WP prior to checking for emulated permission faults")
+d6ecfe976ac3 ("KVM: x86/mmu: Use BIT{,_ULL}() for PFERR masks")
+4f4aa80e3b88 ("KVM: X86: Handle implicit supervisor access with SMAP")
+8873c1434fac ("KVM: X86: Rename variable smap to not_smap in permission_fault()")
+5b22bbe717d9 ("KVM: X86: Change the type of access u32 to u64")
+c59a0f57fa32 ("KVM: X86: Remove mmu->translate_gpa")
+1f5a21ee8400 ("KVM: X86: Add parameter struct kvm_mmu *mmu into mmu->gva_to_gpa()")

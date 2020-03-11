@@ -1,0 +1,5 @@
+2127d22509ae ("mm, slub: fix two bugs in slab_debug_trace_open()")
+b3fd64e1451b ("mm, slub: allocate private object map for debugfs listings")
+64dd68497be7 ("mm: slub: move sysfs slab alloc/free interfaces to debugfs")
+1f9f78b1b376 ("mm/slub, kunit: add a KUnit test for SLUB debugging functionality")
+5bb1bb353cfe ("mm: Don't build mm_dump_obj() on CONFIG_PRINTK=n kernels")

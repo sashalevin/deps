@@ -1,0 +1,6 @@
+1096bc93df75 ("mm: clean up populate_vma_page_range() FOLL_* flag handling")
+b67bf49ce7aa ("mm/munlock: delete FOLL_MLOCK and FOLL_POPULATE")
+55b8fe703bc5 ("gup: Introduce FOLL_NOFAULT flag to disable page faults")
+4ca9b3859dac ("mm/madvise: introduce MADV_POPULATE_(READ|WRITE) to prefault page tables")
+a78f1ccd37fb ("mm: make variable names for populate_vma_page_range() consistent")
+4066c119483a ("mm: gup: remove FOLL_SPLIT")

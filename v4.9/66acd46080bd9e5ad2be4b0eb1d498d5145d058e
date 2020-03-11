@@ -1,0 +1,5 @@
+66acd46080bd ("powerpc: select ARCH_WANT_IRQS_OFF_ACTIVATE_MM")
+058ccc3465d9 ("powerpc/mm: Avoid double irq save/restore in activate_mm")
+77e584968867 ("rcu: Make arch select smp_mb__after_unlock_lock() strength")
+a7d2475af7ae ("powerpc: Sort the selects under CONFIG_PPC")
+b286cedd4730 ("Merge tag 'powerpc-4.11-2' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

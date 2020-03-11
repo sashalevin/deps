@@ -1,0 +1,3 @@
+87b095928584 ("kgdb: Don't round up a CPU that failed rounding up before")
+3cd99ac35598 ("kgdb: Fix kgdb_roundup_cpus() for arches who used smp_call_function()")
+9ef7fa507d6b ("kgdb: Remove irq flags from roundup")

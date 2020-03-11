@@ -1,0 +1,5 @@
+869b6ea1609f ("quota: Fix slow quotaoff")
+dabc8b207566 ("quota: fix dqput() to follow the guarantees dquot_srcu should provide")
+33bcfafc48cb ("quota: add new helper dquot_active()")
+024128477809 ("quota: factor out dquot_write_dquot()")
+d6a95db3c7ad ("quota: fix warning in dqgrab()")

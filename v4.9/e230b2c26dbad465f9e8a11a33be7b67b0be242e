@@ -1,0 +1,4 @@
+e230b2c26dba ("rtc: tx4939: switch to rtc_time64_to_tm/rtc_tm_to_time64")
+72d381974403 ("rtc: tx4939: remove useless test")
+ab62670e5717 ("rtc: stop validating rtc_time after rtc_time_to_tm")
+347876ad47b9 ("rtc: tx4939: avoid unintended sign extension on a 24 bit shift")

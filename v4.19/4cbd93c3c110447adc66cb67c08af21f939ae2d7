@@ -1,0 +1,8 @@
+4cbd93c3c110 ("pidfd: fix test failure due to stack overflow on some arches")
+2def297ec7fb ("pidfd: add tests for NSpid info in fdinfo")
+aed5a8df3dbb ("tests: add pidfd poll tests")
+e63f3085709e ("pidfd: add pidfd_wait tests")
+172bb24a4f48 ("tests: add pidfd_open() tests")
+740378dc7834 ("pidfd: add polling selftests")
+4d0b5f4d7561 ("selftests: pidfd: Create .gitignore to include pidfd_test")
+575a0ae9744d ("selftests: add tests for pidfd_send_signal()")

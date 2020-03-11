@@ -1,0 +1,7 @@
+1712be05a8a7 ("net: dsa: felix: offload per-tc max SDU from tc-taprio")
+843794bbdef8 ("net: dsa: felix: disable cut-through forwarding for frames oversized for tc-taprio")
+11afdc6526de ("net: dsa: felix: tc-taprio intervals smaller than MTU should send at least one packet")
+837ced3a1a5d ("time64.h: consolidate uses of PSEC_PER_NSEC")
+55a515b1f5a9 ("net: dsa: felix: drop oversized frames with tc-taprio instead of hanging the port")
+1c9017e44af2 ("net: dsa: felix: keep reference on entire tc-taprio config")
+8670dc33f48b ("net: dsa: felix: update base time of time-aware shaper when adjusting PTP time")

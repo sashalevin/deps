@@ -1,0 +1,8 @@
+ffb324e6f874 ("tty: vt: always invoke vc->vc_sw->con_resize callback")
+b1cba76de6c7 ("video: fbcon: Fix warnings by using pr_debug() in fbcon")
+94193d2aae63 ("fbcon: Document what I learned about fbcon locking")
+6ca8dfd78187 ("tty: vt, convert more macros to functions")
+6af39ed30264 ("tty: vt, drop VT_BUF_VRAM_ONLY")
+709280da6238 ("tty: vt, consw->con_set_palette cleanup")
+97293de97736 ("tty: vt, consw->con_scrolldelta cleanup")
+8ede5cce4f0b ("tty: vt, make color_table const")

@@ -1,0 +1,6 @@
+8fc009986471 ("mmc: sh_mobile_sdhi: only change the clock on RCar Gen2+")
+3072ba8cd95b ("mmc: sh_mobile_sdhi: make clk_update function more compact")
+2fb55956ce4d ("mmc: tmio, sh_mobile_sdhi: Add support for variable input clock frequency")
+0ea28210c156 ("mmc: tmio, sh_mobile_sdhi: Pass tmio_mmc_host ptr to clk_{enable, disable} ops")
+bf96208f0539 ("mmc: tmio: refactor set_clock a little")
+04e24b80a3dd ("mmc: tmio: add flag to reduce delay after changing clock status")

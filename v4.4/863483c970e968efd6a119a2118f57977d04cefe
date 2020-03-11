@@ -1,0 +1,6 @@
+863483c970e9 ("macsec: double accounting of dropped rx/tx packets")
+c78ebe1df01f ("macsec: fix reference counting on RXSC in macsec_handle_frame")
+5491e7c6b1a9 ("macsec: enable GRO and RPS on macsec devices")
+c3b7d0bd7ac2 ("macsec: fix rx_sa refcounting with decrypt callback")
+497f358aa4c0 ("macsec: don't put a NULL rxsa")
+c09440f7dcb3 ("macsec: introduce IEEE 802.1AE driver")

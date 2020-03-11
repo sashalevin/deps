@@ -1,0 +1,5 @@
+b5f32555567c ("cdrom: Reset sector_size back it is not 2048.")
+e7d0748dd716 ("block: Switch struct packet_command to use struct scsi_sense_hdr")
+54f8a7ae7c21 ("ide-cd: Drop unused sense buffers")
+ada94973f15f ("pktcdvd: remove assignment in if condition")
+f7068114d45e ("sr: pass down correctly sized SCSI sense buffer")

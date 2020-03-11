@@ -1,0 +1,8 @@
+275498a98b1f ("exec: Add comments on check_unsafe_exec() fs counting")
+0c9cdff054ae ("exec: Factor bprm_execve out of do_execve_common")
+f18ac551e503 ("exec: Move bprm_mm_init into alloc_bprm")
+60d9ad1d1d7f ("exec: Move initialization of bprm->filename into alloc_bprm")
+0a8f36eb48f6 ("exec: Factor out alloc_bprm")
+25cf336de51b ("exec: Remove do_execve_file")
+b8bff599261c ("exec: Factor security_bprm_creds_for_exec out of security_bprm_set_creds")
+b127c16d0603 ("Merge f87d1c955916 ("exec: Move would_dump into flush_old_exec")")

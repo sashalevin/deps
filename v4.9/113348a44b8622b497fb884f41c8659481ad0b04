@@ -1,0 +1,5 @@
+113348a44b86 ("eventfd: use wait_event_interruptible_locked_irq() helper")
+12aceb89b0bc ("eventfd: convert to f_op->read_iter()")
+b556db17b0e7 ("eventfd: present id to userspace via fdinfo")
+a11e1d432b51 ("Revert changes to convert to ->poll_mask() and aio IOCB_CMD_POLL")
+a5b729ea18ae ("Merge branch 'work.aio' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

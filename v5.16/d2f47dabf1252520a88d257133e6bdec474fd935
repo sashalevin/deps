@@ -1,0 +1,7 @@
+d2f47dabf125 ("powerpc/code-patching: Inline create_branch()")
+1acbf27e8a58 ("powerpc/code-patching: Inline is_offset_in_{cond}_branch_range()")
+b033767848c4 ("powerpc/code-patching: Use jump_label for testing freed initmem")
+af5304a75065 ("powerpc/code-patching: Remove init_mem_is_free")
+edecd2d6d6f4 ("powerpc/code-patching: Remove pr_debug()/pr_devel() messages and fix check()")
+c545b9f040f3 ("powerpc/inst: Define ppc_inst_t")
+c93d4f6ecf4b ("powerpc/ftrace: Add module_trampoline_target() for PPC32")

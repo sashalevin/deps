@@ -1,0 +1,4 @@
+c48ef9c4aed3 ("tcp: Fix bind() regression for v4-mapped-v6 non-wildcard address.")
+5456262d2baa ("net: Fix incorrect address comparison when searching for a bind2 bucket")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")
+d2c135619cb8 ("inet: add READ_ONCE(sk->sk_bound_dev_if) in inet_csk_bind_conflict()")

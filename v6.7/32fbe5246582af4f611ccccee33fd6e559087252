@@ -1,0 +1,4 @@
+32fbe5246582 ("crash: use macro to add crashk_res into iomem early for specific arch")
+85fcde402db1 ("kexec: split crashkernel reservation code out from crash_core.c")
+4a693ce65b18 ("kdump: defer the insertion of crashkernel resources")
+29166371ef67 ("kdump: remove redundant DEFAULT_CRASH_KERNEL_LOW_SIZE")

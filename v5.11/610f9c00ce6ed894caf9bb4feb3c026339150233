@@ -1,0 +1,4 @@
+610f9c00ce6e ("mm/slab_common: Remove the unneeded result variable")
+59450bbc12be ("mm, slab, slub: stop taking cpu hotplug lock")
+7e1fa93deff4 ("mm, slab, slub: stop taking memory hotplug lock")
+666716fd267d ("mm, slub: stop freeing kmem_cache_node structures on node offline")

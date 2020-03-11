@@ -1,0 +1,4 @@
+14e292f8d453 ("sched,rt: Use cpumask_any*_distribute()")
+46a87b3851f0 ("sched/core: Distribute tasks within affinity masks")
+714e501e16cd ("sched/core: Fix migration to invalid CPU in __set_cpus_allowed_ptr()")
+b18c3ca11c20 ("sched/deadline: Make find_later_rq() choose a closer CPU in topology")

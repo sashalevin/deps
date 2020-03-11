@@ -1,0 +1,7 @@
+23c832b10ca9 ("remove spd_release_page()")
+79fddc4efd5d ("new helper: add_to_pipe()")
+8924feff66f3 ("splice: lift pipe_lock out of splice_to_pipe()")
+db85a9eb2e36 ("splice: switch get_iovec_page_array() to iov_iter")
+e7c3c6462406 ("splice_to_pipe(): don't open-code wakeup_pipe_readers()")
+09cbfeaf1a5a ("mm, fs: get rid of PAGE_CACHE_* and page_cache_{get,release} macros")
+d5a38f6e4668 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/sage/ceph-client")

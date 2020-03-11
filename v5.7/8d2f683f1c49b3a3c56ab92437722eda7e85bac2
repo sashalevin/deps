@@ -1,0 +1,8 @@
+8d2f683f1c49 ("drm/i915: Factor out i915_ggtt_suspend_vm/i915_ggtt_resume_vm()")
+cd0452aa2a0d ("drm/i915: Preallocate stashes for vma page-directories")
+b297bde16c0f ("drm/i915/gt: Optimise aliasing-ppgtt allocations")
+12b07256c223 ("drm/i915: Export ppgtt_bind_vma")
+bffa18dd0bca ("drm/i915/gt: Remove local entries from GGTT on suspend")
+dc6cd912c7cd ("drm/i915/gt: Restore both GGTT bindings on resume")
+0109a16ef391 ("drm/i915/gt: Clear LOCAL_BIND from shared GGTT on resume")
+bf0840cdb304 ("drm/i915/gt: Stop cross-polluting PIN_GLOBAL with PIN_USER with no-ppgtt")

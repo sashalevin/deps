@@ -1,0 +1,7 @@
+7a84665619bb ("nvmet-rdma: Fix NULL deref when setting pi_enable and traddr INADDR_ANY")
+a032e4f6d60d ("nvmet-rdma: fix bonding failover possible NULL deref")
+0d5ee2b2ab4f ("nvmet-rdma: support max(16KB, PAGE_SIZE) inline data")
+4c6526858810 ("nvmet: don't return "any" ip address in discovery log page")
+68c6e9cd2fa4 ("nvmet/rdma: Use sgl_alloc() and sgl_free()")
+f1d4ef7d8883 ("nvmet-rdma: register ib_client to not deadlock in device removal")
+670c2a3ad51d ("nvmet-rdma: use generic inet_pton_with_scope")

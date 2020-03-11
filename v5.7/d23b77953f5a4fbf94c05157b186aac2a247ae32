@@ -1,0 +1,8 @@
+d23b77953f5a ("LoongArch: Change SHMLBA from SZ_64K to PAGE_SIZE")
+8cbd5ebfe241 ("LoongArch: Add JUMP_VIRT_ADDR macro implementation to avoid using la.abs")
+366bb35a8e48 ("LoongArch: Add suspend (ACPI S3) support")
+538eafc6deae ("LoongArch: Combine acpi_boot_table_init() and acpi_boot_init()")
+e9e7ff16d7f0 ("LoongArch: Parse MADT to get multi-processor information")
+ab2579d79529 ("LoongArch: Jump to the link address before enable PG")
+f30d1f495cc1 ("LoongArch: Adjust arch/loongarch/Kconfig")
+6de9eb21cd36 ("Merge 'irq/loongarch', 'pci/ctrl/loongson' and 'pci/header-cleanup-immutable'")

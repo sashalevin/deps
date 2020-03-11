@@ -1,0 +1,5 @@
+795d82ed389b ("MIPS: Use memblock_add_node() in early_parse_mem() under CONFIG_NUMA")
+6d4e9a8efe3d ("driver core: lift dma_default_coherent into common code")
+14ac09a65e19 ("MIPS: refactor the runtime coherent vs noncoherent DMA indicators")
+3440caf5f28c ("MIPS/alchemy: factor out the DMA coherent setup")
+04e4783fccf4 ("MIPS/malta: simplify plat_setup_iocoherency")

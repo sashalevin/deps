@@ -1,0 +1,4 @@
+669de8bda87b ("kernel/workqueue: Use dynamic lockdep keys for workqueues")
+25b0077511fe ("workqueue: Replace call_rcu_sched() with call_rcu()")
+983c75153273 ("workqueue: separate out init_rescuer()")
+fd1a5b04dfb8 ("workqueue: Remove now redundant lock acquisitions wrt. workqueue flushes")

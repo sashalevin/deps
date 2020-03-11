@@ -1,0 +1,8 @@
+4f768e94774c ("serial: Support for RS-485 multipoint addresses")
+51ad36baacb3 ("serial: return -EINVAL for non-legacy RS485 flags")
+2dbd0c14ebe8 ("serial: Move serial_rs485 sanitization into separate function")
+8322b1f52715 ("serial: Add uart_rs485_config()")
+0b46ac44f267 ("termbits.h: create termbits-common.h for identical bits")
+6808b7f5c825 ("termbits: Convert octal defines to hex")
+0ed12afa5655 ("serial: core: move RS485 configuration tasks from drivers into core")
+654ee49b7e08 ("tty: make tty_get_{char,frame}_size available")

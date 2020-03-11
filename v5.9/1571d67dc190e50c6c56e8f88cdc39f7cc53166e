@@ -1,0 +1,7 @@
+1571d67dc190 ("PCI: aardvark: Rewrite IRQ code to chained IRQ handler")
+13bcdf07cb2e ("PCI: aardvark: Mask all interrupts when unbinding driver")
+a46f2f6dd409 ("PCI: aardvark: Disable bus mastering when unbinding driver")
+a4ca7948e1d4 ("PCI: aardvark: Comment actions in driver remove method")
+64f160e19e92 ("PCI: aardvark: Configure PCIe resources from 'ranges' DT property")
+d0c6a3475b03 ("PCI: aardvark: Move PCIe reset card code to advk_pcie_train_link()")
+526a76991b7b ("PCI: aardvark: Implement driver 'remove' function and allow to build it as module")

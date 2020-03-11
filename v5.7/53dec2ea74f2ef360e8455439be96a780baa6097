@@ -1,0 +1,8 @@
+53dec2ea74f2 ("fs: provide locked helper variant of close_fd_get_file()")
+9fe83c43e71c ("file: Rename __close_fd_get_file close_fd_get_file")
+60997c3d45d9 ("close_range: add CLOSE_RANGE_UNSHARE")
+278a5fbaed89 ("open: add close_range()")
+3af73b286cce ("io_uring: don't derive close state from ->func")
+fd2206e4e97b ("io_uring: disallow close of ring itself")
+0bf0eefdab52 ("io_uring: get rid of manual punting in io_close")
+904fbcb115c8 ("io_uring: remove 'fd is io_uring' from close path")

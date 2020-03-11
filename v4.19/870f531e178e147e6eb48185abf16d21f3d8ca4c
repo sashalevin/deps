@@ -1,0 +1,7 @@
+870f531e178e ("r8169: set IRQF_NO_THREAD if MSI(X) is enabled")
+2734a24e6e5d ("r8169: fix issue with forced threading in combination with shared interrupts")
+424a646e072a ("r8169: fix operation under forced interrupt threading")
+25e992a4603c ("r8169: rename r8169.c to r8169_main.c")
+e62b2fd5d3b4 ("r8169: change irq handler to always trigger NAPI polling")
+23c78343ec36 ("r8169: fix cable re-plugging issue")
+38caff5a445b ("r8169: handle all interrupt events in the hard irq handler")

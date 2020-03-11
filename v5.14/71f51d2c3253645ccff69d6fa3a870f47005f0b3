@@ -1,0 +1,7 @@
+71f51d2c3253 ("KVM: x86/mmu: Add detailed page size stats")
+088acd235266 ("KVM: x86/mmu: Avoid collision with !PRESENT SPTEs in TDP MMU lpage stats")
+4293ddb788c1 ("KVM: x86/mmu: Remove redundant spte present check in mmu_set_spte")
+4139b1972af2 ("KVM: X86: Introduce kvm_mmu_slot_lpages() helpers")
+a75b540451d2 ("KVM: X86: Optimize zapping rmap")
+ec1cf69c3769 ("KVM: X86: Add per-vm stat for max rmap list size")
+7fa2a347512a ("KVM: x86/mmu: Return old SPTE from mmu_spte_clear_track_bits()")

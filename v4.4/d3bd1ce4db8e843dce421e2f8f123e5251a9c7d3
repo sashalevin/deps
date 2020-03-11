@@ -1,0 +1,7 @@
+d3bd1ce4db8e ("net: ethernet: mediatek: remove redundant free_irq for devm_request_irq allocated irq")
+019d0c99364a ("net-next: mediatek: remove superfluous free_irq() call")
+8067302973a1 ("net-next: mediatek: add support for IRQ grouping")
+eece71e8fb09 ("net-next: mediatek: don't use intermediate variables to store IRQ masks")
+ad3cba989e8b ("net: mediatek: only wake the queue if it is stopped")
+13c822f6d468 ("net: mediatek: fix stop and wakeup of queue")
+656e705243fd ("net-next: mediatek: add support for MT7623 ethernet")

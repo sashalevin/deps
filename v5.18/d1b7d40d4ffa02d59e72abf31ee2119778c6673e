@@ -1,0 +1,7 @@
+d1b7d40d4ffa ("powerpc/boot: Separate CPP flags from BOOTCFLAGS")
+689d592e4069 ("powerpc/boot: Separate target flags from BOOTCFLAGS")
+2b694fc96fe3 ("powerpc/boot: Disable power10 features after BOOTAFLAGS assignment")
+d1c5accacb23 ("powerpc/boot: Only use '-mabi=elfv2' with CONFIG_PPC64_BOOT_WRAPPER")
+ff7c76f66d8b ("powerpc/boot: Don't always pass -mcpu=powerpc when building 32-bit uImage")
+110a58b9f91c ("powerpc/boot: Explicitly disable usage of SPE instructions")
+661aa880398a ("powerpc: Add CONFIG_PPC64_ELF_ABI_V1 and CONFIG_PPC64_ELF_ABI_V2")

@@ -1,0 +1,6 @@
+b1366d21daae ("arm64: Add ARM64_HAS_LPA2 CPU capability")
+c876c3f182a5 ("KVM: arm64: Relax trapping of CTR_EL0 when FEAT_EVT is available")
+8cc6dedaff42 ("KVM: arm64: Always set HCR_TID2")
+f5962add74b6 ("arm64: rework EL0 MRS emulation")
+dbfbd87efa79 ("arm64: factor insn read out of call_undef_hook()")
+61d64a376ea8 ("arm64: split EL0/EL1 UNDEF handlers")

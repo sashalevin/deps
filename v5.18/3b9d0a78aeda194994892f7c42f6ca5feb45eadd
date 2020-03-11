@@ -1,0 +1,8 @@
+3b9d0a78aeda ("ACPI: Add post_eject to struct acpi_scan_handler for cpu hotplug")
+1859a671bdb9 ("ACPI: scan: switch to flags for acpi_scan_check_and_detach()")
+520c2286c222 ("ACPI: scan: Rework Device Check and Bus Check notification handling")
+514bcabc0538 ("ACPI: scan: Relocate acpi_bus_trim_one()")
+793551c96511 ("ACPI: scan: Fix device check notification handling")
+8c6fdbd635d4 ("ACPI: scan: Rename acpi_scan_device_not_present() to be about enumeration")
+b5bdb60faaaf ("ACPI: scan: Use the acpi_device_is_present() helper in more places")
+a976a2ac7708 ("ACPI: scan: Walk ACPI device's children using driver core")

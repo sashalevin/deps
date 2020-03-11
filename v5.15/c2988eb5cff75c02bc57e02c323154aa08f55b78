@@ -1,0 +1,4 @@
+c2988eb5cff7 ("xfs: rt stubs should return negative errnos when rt disabled")
+6c664484337b ("xfs: hoist freeing of rt data fork extent mappings")
+5a605fd6cb1d ("xfs: recalculate free rt extents after log recovery")
+f34061f554fe ("xfs: pass explicit mount pointer to rtalloc query functions")

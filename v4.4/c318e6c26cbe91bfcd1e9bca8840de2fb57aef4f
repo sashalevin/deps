@@ -1,0 +1,7 @@
+c318e6c26cbe ("SMB3: Log at least once if tree connect fails during reconnect")
+96a988ffeb90 ("CIFS: Fix a possible double locking of mutex during reconnect")
+53e0e11efe92 ("CIFS: Fix a possible memory corruption during reconnect")
+f2cca6a7c99f ("CIFS: Fix persistent handles re-opening on reconnect")
+52ace1ef1259 ("fs/cifs: reopen persistent handles on reconnect")
+4fcd1813e640 ("Fix reconnect to not defer smb3 session reconnect long after socket reconnect")
+373512ec5c10 ("Prepare for encryption support (first part). Add decryption and encryption key generation. Thanks to Metze for helping with this.")

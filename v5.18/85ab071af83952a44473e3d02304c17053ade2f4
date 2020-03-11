@@ -1,0 +1,7 @@
+85ab071af839 ("KVM: nVMX: Treat eVMCS as enabled for guest iff Hyper-V is also enabled")
+d588bb9be1da ("KVM: VMX: enable IPI virtualization")
+35875316384b ("KVM: x86: Allow userspace to set maximum VCPU id for VM")
+f08a06c9a357 ("KVM: VMX: Clean up vmx_refresh_apicv_exec_ctrl()")
+1ad4e5438c67 ("KVM: VMX: Detect Tertiary VM-Execution control when setup VMCS config")
+ed3905ba6038 ("KVM: VMX: Extend BUILD_CONTROLS_SHADOW macro to support 64-bit variation")
+1421211ae1de ("KVM: VMX: Prepare VMCS setting for posted interrupt enabling when APICv is available")

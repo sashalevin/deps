@@ -1,0 +1,7 @@
+61aa709ca58a ("usb: gadget: uvc: rework uvcg_queue_next_buffer to uvcg_complete_buffer")
+e81e7f9a0eb9 ("usb: gadget: uvc: add scatter gather support")
+9973772dbb2b ("usb: gadget: uvc: make uvc_num_requests depend on gadget speed")
+43cd0023872e ("usb: gadget: uvc_video: add worker to handle the frame pumping")
+9d1ff5dcb3cd ("usb: gadget: uvc: Factor out video USB request queueing")
+284eb1663bed ("usb: gadget: uvc: Minimize #include in headers")
+d396e47fb558 ("usb: gadget: uvc: Move userspace API definition to public header")

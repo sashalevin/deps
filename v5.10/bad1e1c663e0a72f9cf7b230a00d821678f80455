@@ -1,0 +1,5 @@
+bad1e1c663e0 ("arm64: mte: switch GCR_EL1 in kernel entry and exit")
+620954a67bce ("arm64: mte: convert gcr_user into an exclude mask")
+bfc62c598527 ("arm64: kasan: allow enabling in-kernel MTE")
+85f49cae4dfc ("arm64: mte: add in-kernel MTE helpers")
+49b3cf035edc ("kasan: arm64: set TCR_EL1.TBID1 when enabled")

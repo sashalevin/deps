@@ -1,0 +1,4 @@
+a85cd52d7205 ("KVM: SVM: Use svm_get_lbr_vmcb() helper to handle writes to DEBUGCTL")
+1d5a1b5860ed ("KVM: x86: nSVM: correctly virtualize LBR msrs when L2 is running")
+db663af4a001 ("kvm: x86: SVM: use vmcb* instead of svm->vmcb where it makes sense")
+b9f3973ab3a8 ("KVM: x86: nSVM: implement nested VMLOAD/VMSAVE")

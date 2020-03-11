@@ -1,0 +1,5 @@
+536bb492d39b ("ksmbd: fix out of bounds in init_smb2_rsp_hdr()")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+dc8289f91238 ("ksmbd: fix slab-out-of-bounds in init_smb2_rsp_hdr")
+39b291b86b59 ("ksmbd: return unsupported error on smb1 mount")
+b53e8cfec30b ("ksmbd: return STATUS_NOT_SUPPORTED on unsupported smb2.0 dialect")

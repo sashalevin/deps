@@ -1,0 +1,4 @@
+2ce03d850b9a ("x86/fpu: Rename fpu__activate_curr() to fpu__initialize()")
+a10b6a16cdad ("x86/fpu: Make the fpu state change in fpu__clear() scheduler-atomic")
+b22cbe404a9c ("x86/fpu: Fix invalid FPU ptrace state after execve()")
+4ecd16ec7059 ("x86/fpu: Fix math emulation in eager fpu mode")

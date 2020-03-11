@@ -1,0 +1,4 @@
+f0193d3ea73b ("change semantics of ldisc ->compat_ioctl()")
+e21120383f2d ("move compat handling of tty ioctls to tty_compat_ioctl()")
+77021f8bab02 ("presence of RS485 ioctls has been unconditional since 2014")
+956cc1e70c55 ("drivers, net, hamradio: convert sixpack.refcnt from atomic_t to refcount_t")

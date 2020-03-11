@@ -1,0 +1,5 @@
+697c89bed94e ("KVM: x86/mmu: Consolidate Dirty vs. Writable clearing logic in TDP MMU")
+5982a5392663 ("KVM: x86/mmu: Use kvm_ad_enabled() to determine if TDP MMU SPTEs need wrprot")
+3354ef5a592d ("KVM: x86/mmu: Check for present SPTE when clearing dirty bit in TDP MMU")
+3e72c791fd33 ("KVM: x86/mmu: Change tdp_mmu_{set,zap}_spte_atomic() to return 0/-EBUSY")
+3255530ab191 ("KVM: x86/mmu: Automatically update iter->old_spte if cmpxchg fails")

@@ -1,0 +1,7 @@
+0a0467af0a4d ("rcutorture: Dump # online CPUs on insufficient cb-flood laundering")
+53b541fbdb9c ("rcutorture: Combine n_max_cbs from all kthreads in a callback flood")
+82e310033d7c ("rcutorture: Enable multiple concurrent callback-flood kthreads")
+3ac858785231 ("rcu: Fix undefined Kconfig macros")
+a7eb937b67b6 ("rcutorture: Don't do need_resched() testing if ->sync is NULL")
+ab1b7880dec8 ("rcutorture:  Make stutter_wait() caller restore priority")
+19012b786ecc ("torture: Periodically pause in stutter_wait()")

@@ -1,0 +1,7 @@
+f9b5e46f4097 ("kasan: split kasan_*enabled() functions into a separate header")
+e5af50a5df57 ("arm64: kasan: mte: move GCR_EL1 switch to task switch when KASAN disabled")
+82868247897b ("arm64: kasan: mte: use a constant kernel GCR_EL1 value")
+d914b80a8f56 ("arm64: avoid double ISB on kernel entry")
+d2e0d8f9746d ("arm64: move preemption disablement to prctl handlers")
+433c38f40f6a ("arm64: mte: change ASYNC and SYNC TCF settings into bitfields")
+638982a03fbc ("arm64: mte: rename gcr_user_excl to mte_ctrl")

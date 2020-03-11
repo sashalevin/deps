@@ -1,0 +1,7 @@
+76bee035c6ad ("irqchip/mbigen: Simplify code logic with for_each_child_of_node_scoped()")
+fbfe7e13641e ("irqchip/mbigen: Prepare for real per device MSI")
+fb33a46cd75e ("irqchip/mbigen: Don't use bus_get_dev_root() to find the parent")
+cddb536a73ef ("irqchip/mbigen: Unify the error handling in mbigen_of_create_domain()")
+fea087fc291b ("irqchip/mbigen: move to use bus_get_dev_root()")
+321275f0d8f5 ("irqchip/irq-mbigen: Add of_node_put() before return")
+fca269f201a8 ("irqchip/mbigen: Don't clear eventid when freeing an MSI")

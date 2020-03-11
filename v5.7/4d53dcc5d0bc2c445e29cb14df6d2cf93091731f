@@ -1,0 +1,8 @@
+4d53dcc5d0bc ("KVM: selftests: Fix benign %llx vs. %lx issues in guest asserts")
+43f623f350ce ("KVM: selftests: Add x86-only selftest for private memory conversions")
+4e15c38a1aca ("KVM: selftests: Convert x86's XCR0 test to use printf-based guest asserts")
+30a6e0b4553d ("KVM: selftests: Convert VMX's PMU capabilities test to printf guest asserts")
+a925f7994281 ("KVM: selftests: Convert the nSVM software interrupt test to printf guest asserts")
+8d1d3ce604e5 ("KVM: selftests: Convert the Hyper-V feature test to printf style GUEST_ASSERT")
+9291c9cef5b5 ("KVM: selftests: Convert set_memory_region_test to printf-based GUEST_ASSERT")
+c21775ae021f ("Merge tag 'kvm-x86-selftests-6.4' of https://github.com/kvm-x86/linux into HEAD")

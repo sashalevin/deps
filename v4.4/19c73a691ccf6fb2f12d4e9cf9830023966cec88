@@ -1,0 +1,8 @@
+19c73a691ccf ("f2fs: fix to recover inode's i_flags during POR")
+26787236b366 ("f2fs: do not activate auto_recovery for fallocated i_size")
+97dd26ad8347 ("f2fs: fix wrong AUTO_RECOVER condition")
+3a3a5ead7b6d ("f2fs: do not recover i_size if it's valid")
+281518c694a5 ("f2fs: fix fdatasync")
+7c45729a4d6d ("f2fs: keep dirty inodes selectively for checkpoint")
+15d04354555f ("f2fs: call f2fs_balance_fs for setattr")
+101105b1717f ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

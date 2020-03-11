@@ -1,0 +1,8 @@
+a04ea6ae7c67 ("drm/i915: Use a table for i915_init/exit (v2)")
+db484889d1ff ("drm/i915: Call i915_globals_exit() if pci_register_device() fails")
+75d3bf84dfca ("drm/i915: Call i915_globals_exit() after i915_pmu_exit()")
+4f62a7e0d333 ("drm/i915: Ditch i915 globals shrink infrastructure")
+3e28d37146db ("drm/i915: Move priolist to new i915_sched_engine object")
+2913fa4d7d42 ("drm/i915/gt: use new tasklet API for execution list")
+eb5c10cbbc2f ("drm/i915: Remove I915_USER_PRIORITY_SHIFT")
+2867ff6ceb25 ("drm/i915: Strip out internal priorities")

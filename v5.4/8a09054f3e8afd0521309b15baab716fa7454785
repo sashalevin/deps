@@ -1,0 +1,4 @@
+8a09054f3e8a ("iio: adc: stm32-adc: enable timestamping for non-DMA usage")
+52cd91c27f39 ("iio: adc: stm32-adc: fix device used to request dma")
+e2042d2936df ("iio: adc: stm32-adc: fix sleep in atomic context")
+735404b846df ("iio: adc: stm32-adc: Use dma_request_chan() instead dma_request_slave_channel()")

@@ -1,0 +1,6 @@
+72a7804a667e ("cifs: fix smb1 mount regression")
+8e3554150d6c ("cifs: fix sharing of DFS connections")
+2f4e429c8469 ("cifs: lock chan_lock outside match_session")
+396935de1455 ("cifs: fix use-after-free bug in refresh_cache_worker()")
+b56bce502f55 ("cifs: set DFS root session in cifs_get_smb_ses()")
+b9ee2e307c6b ("cifs: improve checking of DFS links over STATUS_OBJECT_NAME_INVALID")

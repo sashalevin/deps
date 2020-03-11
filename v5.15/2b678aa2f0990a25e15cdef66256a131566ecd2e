@@ -1,0 +1,8 @@
+2b678aa2f099 ("vfio: Use a refcount_t instead of a kref in the vfio_group")
+325a31c92030 ("vfio: Don't leak a group reference if the group already exists")
+63b150fde7a2 ("vfio: Delete vfio_get/put_group from vfio_iommu_group_notifier()")
+c68ea0d00ad8 ("vfio: simplify iommu group allocation for mediated devices")
+c04ac34078a4 ("vfio: remove the iommudata hack for noiommu groups")
+3af917713230 ("vfio: refactor noiommu group creation")
+1362591f1523 ("vfio: factor out a vfio_group_find_or_alloc helper")
+38a68934aa72 ("vfio: Move vfio_iommu_group_get() to vfio_register_group_dev()")

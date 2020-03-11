@@ -1,0 +1,4 @@
+be0d5fa7f037 ("certs: move the 'depends on' to the choice of module signing keys")
+a4aed36ed592 ("certs: Add support for using elliptic curve keys for signing modules")
+ea35e0d5df6c ("certs: Trigger creation of RSA module signing key if it's not an RSA key")
+5d06ee20b662 ("modsign: hide openssl output in silent builds")

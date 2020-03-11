@@ -1,0 +1,7 @@
+1e1b8c04fa34 ("arm64: entry: Move the trampoline to be before PAN")
+9dfe4828aa32 ("arm64: Re-order reserved_ttbr0 in linker script")
+b519538dfefc ("arm64: mm: Introduce TTBR_ASID_MASK for getting at the ASID in the TTBR")
+c7b9adaf85f8 ("arm64: entry: Add exception trampoline page for exceptions from EL0")
+0c8ea531b774 ("arm64: mm: Allocate ASIDs in pairs")
+27a921e75711 ("arm64: mm: Fix and re-enable ARM64_SW_TTBR0_PAN")
+eef94a3d09aa ("arm64: move TASK_* definitions to <asm/processor.h>")

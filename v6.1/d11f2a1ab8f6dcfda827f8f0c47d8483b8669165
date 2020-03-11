@@ -1,0 +1,7 @@
+d11f2a1ab8f6 ("driver core: Sort headers")
+15fffc6a5624 ("driver core: Fix uevent_show() vs driver detach race")
+7f146b24297b ("driver core: Replace kstrdup() + strreplace() with kstrdup_and_replace()")
+56d5f362ad0f ("kobject: kset_uevent_ops: make uevent() callback take a const *")
+a53d1acc9783 ("kobject: kset_uevent_ops: make name() callback take a const *")
+c45a88bb3f6c ("kobject: kset_uevent_ops: make filter() callback take a const *")
+730600223b64 ("driver core: Use kstrtobool() instead of strtobool()")

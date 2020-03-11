@@ -1,0 +1,7 @@
+da6f16662a6e ("KVM: arm64: Make vcpu const in vcpu_read_sys_reg")
+d47533dab9f5 ("KVM: arm64: Introduce framework for accessing deferred sysregs")
+8d404c4c2461 ("KVM: arm64: Rewrite system register accessors to read/write functions")
+52f6c4f02164 ("KVM: arm64: Change 32-bit handling of VM system registers")
+54ceb1bcf8d8 ("KVM: arm64: Move debug dirty flag calculation out of world switch")
+4715c14bc136 ("KVM: arm64: Set an impdef ESR for Virtual-SError using VSESR_EL2.")
+93390c0a1b20 ("arm64: KVM: Hide unsupported AArch64 CPU features from guests")

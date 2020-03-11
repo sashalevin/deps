@@ -1,0 +1,8 @@
+7e2fca52ef91 ("mm/secretmem: use a folio in secretmem_fault()")
+84ac013046cc ("secretmem: fix unhandled fault in truncate")
+f9b141f93659 ("mm/secretmem: fix panic when growing a memfd_secret")
+1507f51255c9 ("mm: introduce memfd_secret system call to create "secret" memory areas")
+43ca106fa8ec ("mm: cma: support sysfs")
+bbb269206f3c ("mm: vmstat: add cma statistics")
+1fbaf8fc12a0 ("mm: add a io_mapping_map_user helper")
+ac73e3dc8acd ("Merge branch 'akpm' (patches from Andrew)")

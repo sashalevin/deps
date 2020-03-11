@@ -1,0 +1,7 @@
+415d83249709 ("locking/atomic: Make test_and_*_bit() ordered on failure")
+cf3ee3c8c29d ("locking/atomic: add generic arch_*() bitops")
+c35a824c3183 ("arm64: make atomic helpers __always_inline")
+068df05363b7 ("bitops, kcsan: Partially revert instrumentation for non-atomic bitops")
+b159eeccb75a ("asm-generic/bitops: Use instrument_read_write() where appropriate")
+27f937cc810a ("asm-generic, kcsan: Add KCSAN instrumentation for bitops")
+81d2c6f81996 ("kasan: support instrumented bitops combined with generic bitops")

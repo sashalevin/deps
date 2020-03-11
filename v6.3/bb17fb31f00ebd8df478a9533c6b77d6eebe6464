@@ -1,0 +1,8 @@
+bb17fb31f00e ("KVM: arm64: Add a predicate for testing if SMCCC filter is configured")
+821d935c87bc ("KVM: arm64: Introduce support for userspace SMCCC filtering")
+d824dff1919b ("KVM: arm64: Add support for KVM_EXIT_HYPERCALL")
+fb88707dd39b ("KVM: arm64: Use a maple tree to represent the SMCCC filter")
+a8308b3fc949 ("KVM: arm64: Refactor hvc filtering to support different actions")
+c2d2e9b3d8ce ("KVM: arm64: Start handling SMCs from EL1")
+aac94968126b ("KVM: arm64: Rename SMC/HVC call handler to reflect reality")
+e0fc6b21616d ("KVM: arm64: Add vm fd device attribute accessors")

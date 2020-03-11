@@ -1,0 +1,3 @@
+c988dcbecf3f ("mm/page_alloc: treat RT tasks similar to __GFP_HIGH")
+88dc6f208829 ("mm/page_alloc.c: use in_task()")
+182f3d7a02fd ("mm/page_alloc.c: skip setting nodemask when we are in interrupt")

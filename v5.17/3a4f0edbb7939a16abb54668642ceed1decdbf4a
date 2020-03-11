@@ -1,0 +1,8 @@
+3a4f0edbb793 ("ipv6: fix a typo in ip6mr_sk_ioctl()")
+e1d001fa5b47 ("net: ioctl: Use kernel memory on protocol ioctl callbacks")
+728f064cd7eb ("bpf: net: Change do_ip_getsockopt() to take the sockptr_t argument")
+638cf4a24a09 ("ip6mr: do not acquire mrt_lock in ioctl(SIOCGETMIFCNT_IN6)")
+559260fd9d9a ("ipmr: do not acquire mrt_lock in ioctl(SIOCGETVIFCNT)")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")
+086d49058cd8 ("ipv6: annotate some data-races around sk->sk_prot")

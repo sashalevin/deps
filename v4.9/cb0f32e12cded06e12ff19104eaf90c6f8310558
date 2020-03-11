@@ -1,0 +1,8 @@
+cb0f32e12cde ("scsi: target: add helper to check if dev is configured")
+b1943fd454d1 ("target: add helper to iterate over devices")
+85441e6b8c97 ("target: add helper to find se_device by dev_index")
+a85d667e58bd ("target: Use {get,put}_unaligned_be*() instead of open coding these functions")
+4ec5bf0ea839 ("target/user: PGR Support")
+530c6891b122 ("target: allow ALUA setup for some passthrough backends")
+a04e54f2c358 ("target/pscsi: Fix TYPE_TAPE + TYPE_MEDIMUM_CHANGER export")
+8dcf07be2d0b ("target: Minimize #include directives")

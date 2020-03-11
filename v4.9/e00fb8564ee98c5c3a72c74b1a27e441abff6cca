@@ -1,0 +1,8 @@
+e00fb8564ee9 ("drm: Stop updating plane->crtc/fb/old_fb on atomic drivers")
+23a5e1fb349d ("drm: Make the fb refcount handover less magic")
+64c32b490333 ("drm: Add local 'plane' variable for primary/cursor planes")
+7e7de761af2e ("drm: Clear crtc->primary->crtc when disabling the crtc via setcrtc()")
+5e9cfeba6abb ("drm/atomic-helper: Drop plane->fb references only for drm_atomic_helper_shutdown()")
+23163a7d4b03 ("drm: Check that the plane supports the request format+modifier combo")
+ce0769e0ea4b ("drm/plane: Make framebuffer refcounting the responsibility of setplane_internal callers")
+906dde0f355b ("Merge tag 'drm-for-v4.14' of git://people.freedesktop.org/~airlied/linux")

@@ -1,0 +1,8 @@
+5a436cc0af62 ("mmc: sdhci: Optimize delay loops")
+e2ebfb2142ac ("mmc: sdhci: Do not disable interrupts while waiting for clock")
+fec796739740 ("mmc: sdhci: Factor out sdhci_enable_clk")
+7758229135e3 ("mmc: sdhci: Remove SDHCI_QUIRK2_NEED_DELAY_AFTER_INT_CLK_RST")
+fb9ee04779cf ("mmc: sdhci: Introduce sdhci_calc_clk()")
+1dceb0415aa0 ("mmc: sdhci: Fix regression setting power on Trats2 board")
+918f4cbd4340 ("mmc: sdhci: restore behavior when setting VDD via external regulator")
+2e4456f08fa8 ("mmc: sdhci: Fix strings broken across multiple lines")

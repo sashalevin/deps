@@ -1,0 +1,6 @@
+9bc4f28af75a ("x86/mm: Use WRITE_ONCE() when setting PTEs")
+f59dbe9ca670 ("x86/pgtable/pae: Use separate kernel PMDs for user page-table")
+23b772883d1d ("x86/pgtable: Rename pti_set_user_pgd() to pti_set_user_pgtbl()")
+ed7588d5dc6f ("x86/mm: Stop pretending pgtable_l5_enabled is a variable")
+ad3fe525b950 ("x86/mm: Unify pgtable_l5_enabled usage in early boot code")
+0bc91d4ba771 ("Merge tag 'v4.16-rc7' into x86/mm, to fix up conflict")

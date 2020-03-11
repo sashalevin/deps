@@ -1,0 +1,7 @@
+638f32604385 ("af_unix: Disable MSG_OOB handling for sockets in sockmap/sockhash")
+af4c733b6b1a ("af_unix: Annotate data-race of sk->sk_state in unix_stream_read_skb().")
+d900f3d20cc3 ("bpf, sockmap: Fix an infinite loop error when len is 0 in tcp_bpf_recvmsg_parser()")
+965b57b469a5 ("net: Introduce a new proto_ops ->read_skb()")
+04919bed948d ("tcp: Introduce tcp_read_skb()")
+099f896f498a ("udp: Validate checksum in udp_read_sock()")
+c5d2177a72a1 ("bpf, sockmap: Fix race in ingress receive verdict with redirect to self")

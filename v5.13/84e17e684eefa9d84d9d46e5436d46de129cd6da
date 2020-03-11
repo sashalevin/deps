@@ -1,0 +1,4 @@
+84e17e684eef ("virtio-mem: factor out hotplug specifics from virtio_mem_probe() into virtio_mem_init_hotplug()")
+94300fcf4cef ("virtio-mem: factor out hotplug specifics from virtio_mem_init() into virtio_mem_init_hotplug()")
+ffaa6ce835ea ("virtio-mem: use a single dynamic memory group for a single virtio-mem device")
+500817bf5e11 ("virtio-mem: don't read big block size in Sub Block Mode")

@@ -1,0 +1,8 @@
+988896bb6182 ("x86/kvm/fpu: Remove kvm_vcpu_arch.guest_supported_xcr0")
+ad856280ddea ("x86/kvm/fpu: Limit guest user_xfeatures to supported bits of XCR0")
+5c89be1dd5cf ("KVM: x86: Move CPUID.(EAX=0x12,ECX=1) mangling to __kvm_update_cpuid_runtime()")
+ee3a5f9e3d9b ("KVM: x86: Do runtime CPUID update before updating vcpu->arch.cpuid_entries")
+548e83650a51 ("kvm: x86: Emulate IA32_XFD_ERR for guest")
+820a6ee944e7 ("kvm: x86: Add emulation for IA32_XFD")
+5ab2f45bba48 ("kvm: x86: Enable dynamic xfeatures at KVM_SET_CPUID2")
+817506df9dba ("Merge branch 'kvm-5.16-fixes' into kvm-master")

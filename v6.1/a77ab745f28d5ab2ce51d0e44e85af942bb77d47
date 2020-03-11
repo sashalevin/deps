@@ -1,0 +1,7 @@
+a77ab745f28d ("io_uring: make io_fill_cqe_aux static")
+9b8c54755a2b ("io_uring: add io_aux_cqe which allows deferred completion")
+1bec951c3809 ("io_uring: iopoll protect complete_post")
+fa18fa2272c7 ("io_uring: inline __io_req_complete_put()")
+f9d567c75ec2 ("io_uring: inline __io_req_complete_post()")
+e2ad599d1ed3 ("io_uring: allow multishot recv CQEs to overflow")
+515e26961295 ("io_uring: revert "io_uring fix multishot accept ordering"")

@@ -1,0 +1,7 @@
+9caea0007601 ("parisc: Declare pci_iounmap() parisc version only when CONFIG_PCI enabled")
+7c566bb5e4d5 ("asm-generic/io.h:  Add a non-posted variant of ioremap()")
+97c9801a15e5 ("asm-generic: don't provide ioremap for CONFIG_MMU")
+e97133959ad2 ("asm-generic: ioremap_uc should behave the same with and without MMU")
+8d84b18f5678 ("devres: always use dev_name() in devm_ioremap_resource()")
+bb912671e365 ("nds32: Fix the unknown type u8 issue.")
+06dd3dfeea60 ("Merge tag 'char-misc-4.17-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/char-misc")

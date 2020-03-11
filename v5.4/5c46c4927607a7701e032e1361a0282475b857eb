@@ -1,0 +1,5 @@
+5c46c4927607 ("drm/amdgpu/gmc10: remove dummy read workaround for newer chips")
+af6c5c4f53d6 ("drm/amdgpu: use register distance member instead of hardcode in GMC10")
+8db1015b99b2 ("drm/amdgpu/sriov : Use kiq to do tlb invalidation for gfx10 on sriov")
+37c58ddf5736 ("drm/amdgpu: Fix TLB invalidation request when using semaphore")
+4ed8a03740d0 ("drm/amdgpu: invalidate mmhub semaphore workaround in gmc9/gmc10")

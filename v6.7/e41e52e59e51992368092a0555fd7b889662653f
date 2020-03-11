@@ -1,0 +1,4 @@
+e41e52e59e51 ("dm-verity: move data hash mismatch handling into its own function")
+c375b2233388 ("dm-verity: Convert from tasklet to BH workqueue")
+9177f3c0dea6 ("dm-verity: recheck the hash after a failure")
+0a9bab391e33 ("dm-crypt, dm-verity: disable tasklets")

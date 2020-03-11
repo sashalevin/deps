@@ -1,0 +1,8 @@
+5119e4381a90 ("netfilter: Fix potential null pointer dereference")
+e3b37f11e6e4 ("netfilter: replace list_head with single linked list")
+54f17bbc52f7 ("netfilter: nf_queue: whitespace cleanup")
+e2361cb90a03 ("netfilter: Remove explicit rcu_read_lock in nf_hook_slow")
+fe72926b792e ("netfilter: call nf_hook_state_init with rcu_read_lock held")
+c5136b15ea36 ("netfilter: bridge: add and use br_nf_hook_thresh")
+af4610c39589 ("netfilter: don't call hooks unless needed")
+5f6c253ebe93 ("netfilter: bridge: register hooks only when bridge interface is added")

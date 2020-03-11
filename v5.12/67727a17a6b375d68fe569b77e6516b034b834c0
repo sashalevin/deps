@@ -1,0 +1,7 @@
+67727a17a6b3 ("can: tcan4x5x: Fix use of register error status mask")
+40c9e4f676ab ("can: tcan4x5x: Remove invalid write in clear_interrupts")
+eaacfeaca7ad ("can: m_can: Call the RAM init directly from m_can_chip_config")
+e39381770ec9 ("can: m_can: Disable IRQs on FIFO bus errors")
+20779943a080 ("can: m_can: use bits.h macros for all regmasks")
+1be37d3b0414 ("can: m_can: fix periph RX path: use rx-offload to ensure skbs are sent from softirq context")
+17447f08202d ("can: m_can: add infrastructure for internal timestamps")

@@ -1,0 +1,5 @@
+4eda11175fd9 ("efi/x86: drop task_lock() from efi_switch_mm()")
+03781e40890c ("x86/efi: Use efi_switch_mm() rather than manually twiddling with %cr3")
+3ede3417f8d5 ("x86/efi: Replace efi_pgd with efi_mm.pgd")
+7e904a91bf60 ("efi: Use efi_mm in x86 as well as ARM")
+b0599e2801df ("Merge branch 'x86/mm' into efi/core")

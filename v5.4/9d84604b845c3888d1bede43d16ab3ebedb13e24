@@ -1,0 +1,7 @@
+9d84604b845c ("mm/thp: refix __split_huge_pmd_locked() for migration PMD")
+292924b26024 ("userfaultfd: wp: apply _PAGE_UFFD_WP bit")
+58705444c45b ("mm: merge parameters for change_protection()")
+72981e0e7b60 ("userfaultfd: wp: add UFFDIO_COPY_MODE_WP")
+529b930b87d9 ("userfaultfd: wp: hook userfault handler to write protection fault")
+9a9731b18c9b ("mm: Add vmf_insert_pfn_xxx_prot() for huge page-table entries")
+327e9fd48972 ("mm: Split huge pages on write-notify or COW")

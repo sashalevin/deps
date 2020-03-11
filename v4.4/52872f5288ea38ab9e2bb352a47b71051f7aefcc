@@ -1,0 +1,8 @@
+52872f5288ea ("crypto: drop unnecessary return statements")
+85030c5168f1 ("crypto: marvell - Add support for chaining crypto requests in TDMA mode")
+bf8f91e71192 ("crypto: marvell - Add load balancing between engines")
+1bf6682cb31d ("crypto: marvell - Add a complete operation for async requests")
+53da740fed30 ("crypto: marvell - Move tdma chain out of mv_cesa_tdma_req and remove it")
+bac8e805a30d ("crypto: marvell - Copy IV vectors by DMA transfers for acipher requests")
+e26df73f8029 ("crypto: marvell - Add a macro constant for the size of the crypto queue")
+7850c91b175d ("crypto: marvell/cesa - fix memory leak")

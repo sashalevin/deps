@@ -1,0 +1,8 @@
+91e79d22be75 ("mm: convert DAX lock/unlock page to lock/unlock folio")
+2f437effc689 ("fsdax: introduce dax_lock_mapping_entry()")
+00cc790e0036 ("mm: factor helpers for memory_failure_dev_pagemap")
+f25cbb7a95a2 ("mm: add zone device coherent type memory support")
+034e5afad921 ("mm: re-allow pinning of zero pfns")
+1c563432588d ("mm: fix is_pinnable_page against a cma page")
+405ce051236c ("mm/hwpoison: fix race between hugetlb free/demotion and memory_failure_hugetlb()")
+f0614eefbf82 ("Merge tag 'dax-for-5.18' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

@@ -1,1 +1,8 @@
 87870cfb4b5a ("crypto: caam - add support for cmac(aes)")
+12b8567f6fa4 ("crypto: caam - add support for xcbc(aes)")
+d239b10d4ceb ("crypto: caam - add register map changes cf. Era 10")
+0efa7579f3de ("crypto: caam - export ahash shared descriptor generation")
+8d818c105501 ("crypto: caam/qi2 - add DPAA2-CAAM driver")
+94cebd9da42c ("crypto: caam - add Queue Interface v2 error codes")
+5ca7badb1f62 ("crypto: caam/jr - ablkcipher -> skcipher conversion")
+cf5448b5c3d8 ("crypto: caam/jr - remove ablkcipher IV generation")

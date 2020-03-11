@@ -1,0 +1,6 @@
+df1b01417885 ("spi: s3c64xx: Use dma_request_chan() directly for channel request")
+3d63a47a380a ("spi: s3c64xx: Don't request/release DMA channels for each SPI transfer")
+6f8dc9d48175 ("spi: s3c64xx: Do not use platform_data for DMA parameters")
+7990b00819e7 ("spi: s3c64xx: add Exynos5433 compatible for ioclk handling")
+730d9d4d11cf ("spi: s3c64xx: simplify if statement in prepare_transfer function")
+a0067db36a2f ("spi: s3c64xx: pass DMA arguments in platform data")

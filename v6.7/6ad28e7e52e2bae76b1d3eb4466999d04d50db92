@@ -1,0 +1,6 @@
+6ad28e7e52e2 ("mm/rmap: sanity check that zeropages are not passed to RMAP")
+9c5938694cd0 ("mm/rmap: silence VM_WARN_ON_FOLIO() in __folio_rmap_sanity_checks()")
+68f0320824fa ("mm/rmap: convert folio_add_file_rmap_range() into folio_add_file_rmap_[pte|ptes|pmd]()")
+44887f399455 ("mm/rmap: introduce and use hugetlb_add_file_rmap()")
+e135826b2da0 ("mm/rmap: introduce and use hugetlb_remove_rmap()")
+9d5fafd5d882 ("mm/rmap: rename hugepage_add* to hugetlb_add*")

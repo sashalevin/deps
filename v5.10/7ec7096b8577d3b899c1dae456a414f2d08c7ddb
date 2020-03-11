@@ -1,0 +1,5 @@
+7ec7096b8577 ("mm/page_ext: init page_ext early if there are no deferred struct pages")
+c4f20f1479c4 ("page_ext: introduce boot parameter 'early_page_ext'")
+bbc180a5adb0 ("mm: HUGE_VMAP arch support cleanup")
+95f0ddf081af ("mm/ioremap: rename ioremap_*_range to vmap_*_range")
+dc2da7b45ffe ("mm: memmap defer init doesn't work as expected")

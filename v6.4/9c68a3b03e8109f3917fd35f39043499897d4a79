@@ -1,0 +1,5 @@
+9c68a3b03e81 ("cpufreq/amd-pstate: Remove warning for X86_FEATURE_CPPC on certain Zen models")
+bff7d13c190a ("cpufreq: amd-pstate: add debug message while CPPC is supported and disabled by SBIOS")
+cb817ec6673b ("cpufreq: amd-pstate: show CPPC debug message if CPPC is not supported")
+c88ad30e3f86 ("cpufreq: amd-pstate: Add a kernel config option to set default mode")
+217e67784eab ("cpufreq: amd-pstate: Write CPPC enable bit per-socket")

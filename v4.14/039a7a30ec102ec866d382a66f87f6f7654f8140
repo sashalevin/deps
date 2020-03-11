@@ -1,0 +1,5 @@
+039a7a30ec10 ("x86/stacktrace: Fix reliable check for empty user task stacks")
+c5c27a0a5838 ("x86/stacktrace: Remove the pointless ULONG_MAX marker")
+0c414367c04e ("x86/stacktrace: Do not fail for ORC with regs on stack")
+441ccc3580f4 ("x86/stacktrace: Clarify the reliable success paths")
+0797a8d0d797 ("x86/stacktrace: Do not unwind after user regs")

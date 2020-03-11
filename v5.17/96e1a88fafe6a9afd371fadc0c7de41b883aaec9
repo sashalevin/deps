@@ -1,0 +1,8 @@
+96e1a88fafe6 ("drm/amdgpu/psp: don't free PSP buffers on suspend")
+cd3a49af58c2 ("drm/amdgpu: change the alignment size of TMR BO to 1M")
+e2c34219d16e ("drm/amdgpu/psp: deallocate memory when psp_load_fw failed")
+da40bf8f9376 ("drm/amdgpu/psp: move shared buffer frees into single function")
+fb4f4f4256f8 ("drm/amdgpu/psp: fix memory leak in terminate functions")
+f03d97b0bd96 ("drm/amdgpu/psp: drop load/unload/init_shared_buf wrappers")
+b95b5391684b ("drm/amdgpu/psp: move PSP memory alloc from hw_init to sw_init")
+fe96e5636acf ("drm/amdgpu: Use indirect buffer and save response status for TA load/invoke")

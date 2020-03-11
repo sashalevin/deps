@@ -1,0 +1,7 @@
+2a7a7e658682 ("perf/amd/ibs: Use ->is_visible callback for dynamic attributes")
+39b2ca75eec8 ("perf/amd/ibs: Cascade pmu init functions' return value")
+26db2e0c51fe ("perf/x86/amd/ibs: Work around erratum #1197")
+221bfce5ebbd ("arch/x86/amd/ibs: Fix re-arming IBS Fetch")
+8b0bed7d410f ("perf/x86/amd/ibs: Support 27-bit extended Op/cycle counter")
+680d69635005 ("perf/x86/amd/ibs: Don't include randomized bits in get_ibs_op_count()")
+0f4cd769c410 ("perf/x86/amd/ibs: Fix sample bias for dispatched micro-ops")

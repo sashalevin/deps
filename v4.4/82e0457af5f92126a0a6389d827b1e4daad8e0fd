@@ -1,0 +1,4 @@
+82e0457af5f9 ("CIFS: Do not log credits when unmounting a share")
+ef68e831840c ("CIFS: Do not reconnect TCP session in add_credits()")
+71335664c38f ("cifs: don't bother with kmap on read_pages side")
+09aab880f7c5 ("cifs: no need to wank with copying and advancing iovec on recvmsg side either")

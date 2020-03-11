@@ -1,0 +1,5 @@
+791c9f143c77 ("PCI: Call platform_set_drvdata earlier in devm_pci_alloc_host_bridge")
+e63434f4cc0d ("PCI: host-common: Use struct pci_host_bridge.windows list directly")
+b2f75a41eaa6 ("PCI: host-generic: Eliminate pci_host_common_probe wrappers")
+0c59c06a7c90 ("PCI: host-generic: Support building as modules")
+0b104773b4f7 ("PCI: Constify struct pci_ecam_ops")

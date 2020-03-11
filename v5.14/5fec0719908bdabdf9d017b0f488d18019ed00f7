@@ -1,0 +1,7 @@
+5fec0719908b ("mm/gup: Convert try_grab_page() to use a folio")
+5232c63f46fd ("mm: Make compound_pincount always available")
+6315d8a23ce3 ("mm/gup: Remove hpage_pincount_sub()")
+78d9d6ced31a ("mm/gup: Remove hpage_pincount_add()")
+8ea2979c1444 ("mm/gup: Increment the page refcount before the pincount")
+c36c04c2e132 ("Revert "mm/gup: small refactoring: simplify try_grab_page()"")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

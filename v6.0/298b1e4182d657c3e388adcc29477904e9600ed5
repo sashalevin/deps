@@ -1,0 +1,5 @@
+298b1e4182d6 ("f2fs: fix to truncate preallocated blocks in f2fs_file_open()")
+41e8f85a75fc ("f2fs: introduce F2FS_IOC_START_ATOMIC_REPLACE")
+4d8d45df2252 ("f2fs: correct i_size change for atomic writes")
+b4dac1203f39 ("f2fs: change to use atomic_t type form sbi.atomic_files")
+8ec071c363da ("f2fs: account swapfile inodes")

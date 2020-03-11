@@ -1,0 +1,5 @@
+595058b6675e ("sched/headers: Fix typo")
+adcc8da8859b ("sched/core: Simplify helpers for rq clock update skip requests")
+cb42c9a3ebbb ("sched/core: Add debugging code to catch missing update_rq_clock() calls")
+92509b732baf ("sched/core: Reset RQCF_ACT_SKIP before unpinning rq->lock")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")

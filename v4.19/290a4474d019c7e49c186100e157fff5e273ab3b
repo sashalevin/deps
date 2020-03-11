@@ -1,0 +1,8 @@
+290a4474d019 ("x86/entry: Fix build error x86 with !CONFIG_POSIX_TIMERS")
+a74d187c2df3 ("x86/entry: Refactor SYS_NI macros")
+6cc8d2b286d9 ("x86/entry: Refactor COND_SYSCALL macros")
+d2b5de495ee9 ("x86/entry: Refactor SYSCALL_DEFINE0 macros")
+4399e0cf494f ("x86/entry: Refactor SYSCALL_DEFINEx macros")
+6e4847640c6a ("syscalls/x86: Fix function types in COND_SYSCALL")
+cf3b83e19d7c ("syscalls/x86: Wire up COMPAT_SYSCALL_DEFINE0")
+8661d769ab77 ("syscalls/x86: Use the correct function type in SYSCALL_DEFINE0")

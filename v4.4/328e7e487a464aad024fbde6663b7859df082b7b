@@ -1,0 +1,5 @@
+328e7e487a46 ("powerpc: force inlining of csum_partial() to avoid multiple csum_partial() with GCC10")
+7e393220b6e1 ("powerpc: optimise csum_partial() call when len is constant")
+48821a34b1bd ("powerpc32: optimise a few instructions in csum_partial()")
+37e08cad8f17 ("powerpc: inline ip_fast_csum()")
+e0f82bdf2dd0 ("powerpc: unexport csum_tcpudp_magic")

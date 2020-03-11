@@ -1,0 +1,6 @@
+5ce995f313ce ("vhost: use mmgrab() instead of mmget() for non worker device")
+8f6a7f96dc29 ("vhost, kcov: collect coverage from vhost_worker")
+e82b9b0727ff ("vhost: introduce vhost_exceeds_weight()")
+b46a0bf78ad7 ("vhost: fix OOB in get_rx_bufs()")
+ff002269a4ee ("vhost: Fix Spectre V1 vulnerability")
+0a0be13b8fe2 ("vhost_net: batch submitting XDP buffers to underlayer sockets")

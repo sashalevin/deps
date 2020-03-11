@@ -1,0 +1,8 @@
+9ebff83e6481 ("netfs: Prep to use folio->private for write grouping and streaming write")
+c1ec4d7c2e13 ("netfs: Provide invalidate_folio and release_folio calls")
+a34847d4b73c ("afs: Don't use folio->private to record partial modification")
+c9c4ff12df11 ("netfs: Move pinning-for-writeback from fscache to netfs")
+4498a8eccc97 ("netfs, fscache: Remove ->begin_cache_operation")
+915cd30cdea8 ("netfs, fscache: Combine fscache with netfs")
+47757ea83a54 ("netfs, fscache: Move fs/fscache/* into fs/netfs/")
+a790c2584c02 ("afs: Remove whitespace before most ')' from the trace header")

@@ -1,0 +1,7 @@
+c5c9f920f7a5 ("KVM: VMX: Don't _explicitly_ reconfigure user return MSRs on vCPU INIT")
+400dd54b3717 ("KVM: VMX: Skip pointless MSR bitmap update when setting EFER")
+ee9d22e08d13 ("KVM: VMX: Use flag to indicate "active" uret MSRs instead of sorting list")
+b6194b94a2ca ("KVM: VMX: Configure list of user return MSRs at module init")
+36fa06f9ff39 ("KVM: x86: Add support for RDPID without RDTSCP")
+5104d7ffcf24 ("KVM: VMX: Disable preemption when probing user return MSRs")
+6f2b296aa643 ("KVM: SVM: Inject #GP on guest MSR_TSC_AUX accesses if RDTSCP unsupported")

@@ -1,0 +1,8 @@
+e9bdcdbf6936 ("pid: add pidfd_get_task() helper")
+c576e0fcd618 ("kernel/pid.c: remove static qualifier from pidfd_create()")
+1aa92cd31c1c ("pid: move pidfd_get_pid() to pid.c")
+6da73d15258a ("pidfd: support PIDFD_NONBLOCK in pidfd_open()")
+ba7d25f3dff6 ("exit: support non-blocking pidfds")
+4969f8a07397 ("pidfd: Add missing sock updates for pidfd_getfd()")
+8649c322f75c ("pid: Implement pidfd_getfd syscall")
+1e1d0f0b1a3e ("pid: use pid_has_task() in pidfd_open()")

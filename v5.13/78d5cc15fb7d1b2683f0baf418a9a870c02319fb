@@ -1,0 +1,6 @@
+78d5cc15fb7d ("powerpc/pseries/fadump: add support for multiple boot memory regions")
+9cf3b3a33a36 ("powerpc/fadump: align destination address to pagesize")
+d276960d9296 ("powerpc/kernel: Add __init attribute to eligible functions")
+e9ef81e1079b ("powerpc/smp: Use existing L2 cache_map cpumask to find L3 cache siblings")
+a4bec516b9c0 ("powerpc/cacheinfo: Lookup cache by dt node and thread-group id")
+95839225639b ("powerpc: Fix is_kvm_guest() / kvm_para_available()")

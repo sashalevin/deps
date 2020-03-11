@@ -1,0 +1,6 @@
+d0f0c55e7c4c ("net: phy: Use IS_ERR() to check and simplify code")
+40ba6a12a548 ("net: mdio: switch to using gpiod_get_optional()")
+6110ed2db3a4 ("net: mdio: rename mdio_device reset to reset_gpio")
+71dd6c0dff51 ("net: phy: add support for reset-controller")
+5c5f626bcace ("net: phy: improve handling link_change_notify callback")
+780feae7eb69 ("mdio_bus: Fix PTR_ERR() usage after initialization to constant")

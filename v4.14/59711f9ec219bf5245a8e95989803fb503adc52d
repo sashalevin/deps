@@ -1,0 +1,7 @@
+59711f9ec219 ("libceph: amend cephx init_protocol() and build_request()")
+285ea34fc876 ("libceph, ceph: incorporate nautilus cephx changes")
+6610fff2782a ("libceph: safer en/decoding of cephx requests and replies")
+f1d10e046379 ("libceph: weaken sizeof check in ceph_x_verify_authorizer_reply()")
+6daca13d2e72 ("libceph: add authorizer challenge")
+149cac4a50b0 ("libceph: factor out encrypt_authorizer()")
+473bd2d780d1 ("libceph: use timespec64 in for keepalive2 and ticket validity")

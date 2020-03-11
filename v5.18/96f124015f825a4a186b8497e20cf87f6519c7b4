@@ -1,0 +1,7 @@
+96f124015f82 ("KVM: selftests: add -MP to CFLAGS")
+5ed19528db8d ("KVM: selftests: Add new CFLAGS to generate dependency files")
+db7b780dab67 ("KVM: selftests: Disable "gnu-variable-sized-type-not-at-end" warning")
+5efb946b9569 ("KVM: selftests: Include lib.mk before consuming $(CC)")
+7cf2e7373ab1 ("KVM: selftests: Explicitly disable builtins for mem*() overrides")
+cdc979dae265 ("KVM: selftests: Link selftests directly with lib object files")
+acf57736e755 ("KVM: selftests: Drop unnecessary rule for STATIC_LIBS")

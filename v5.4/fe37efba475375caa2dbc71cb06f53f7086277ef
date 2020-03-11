@@ -1,0 +1,8 @@
+fe37efba4753 ("virtio-vdpa: Fix unchecked call to NULL set_vq_affinity")
+3dad56823b53 ("virtio-vdpa: Support interrupt affinity spreading mechanism")
+3153234097f6 ("virtio: Replace unsigned with unsigned int")
+4fa59ede9519 ("virtio: acknowledge all features before access")
+838d6d3461db ("virtio: unexport virtio_finalize_features")
+bc22ed2ea112 ("virtio: remove export for virtio_config_{enable, disable}")
+c043b4a8cf3b ("virtio: introduce a vDPA based transport")
+961e9c84077f ("vDPA: introduce vDPA bus")

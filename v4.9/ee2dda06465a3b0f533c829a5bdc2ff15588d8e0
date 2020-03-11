@@ -1,0 +1,8 @@
+ee2dda06465a ("dmaengine: fsl-edma: simply ATTR_DSIZE and ATTR_SSIZE by using ffs()")
+e06748539432 ("dmaengine: fsl-edma: support edma memcpy")
+8678c71c1772 ("dmaengine: fsl-edma: fix wrong tcd endianness for big-endian cpu")
+e142087b1596 ("dmaengine: fsl-edma-common: correct DSIZE_32BYTE")
+0e819e3564c0 ("dmaengine: fsl-edma: remove dma_slave_config direction usage")
+4d6d3a90e4ac ("dmaengine: fsl-edma: fix macros")
+377eaf3b3c4a ("dmaengine: fsl-edma: add edma version and configurable registers")
+9d831528a656 ("dmaengine: fsl-edma: extract common fsl-edma code (no changes in behavior intended)")

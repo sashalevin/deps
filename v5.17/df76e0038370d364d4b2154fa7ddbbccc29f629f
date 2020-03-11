@@ -1,0 +1,7 @@
+df76e0038370 ("perf build: Stop using __weak bpf_map_create() to handle older libbpf versions")
+982be4775164 ("perf build: Stop using __weak btf__raw_data() to handle older libbpf versions")
+739c9180cfa4 ("perf build: Stop using __weak bpf_object__next_map() to handle older libbpf versions")
+8916d72554e5 ("perf build: Stop using __weak bpf_object__next_program() to handle older libbpf versions")
+5c83eff38194 ("perf build: Stop using __weak bpf_prog_load() to handle older libbpf versions")
+0ae065a5d265 ("perf build: Fix check for btf__load_from_kernel_by_id() in libbpf")
+710f6c38bc5f ("perf bpf: Stop using deprecated bpf_load_program() API")

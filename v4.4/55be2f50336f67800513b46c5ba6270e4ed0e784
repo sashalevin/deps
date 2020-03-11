@@ -1,0 +1,6 @@
+55be2f50336f ("ARM: OMAP2+: Handle errors for cpu_pm")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")
+1560d1586176 ("ARM: OMAP3: Fix external abort on 36xx waking from off mode idle")
+7b1e5dc86c00 ("gpio: omap: drop dev field from gpio_bank structure")
+58383c78425e ("gpio: change member .dev to .parent")

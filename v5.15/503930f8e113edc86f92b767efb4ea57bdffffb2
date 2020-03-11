@@ -1,0 +1,6 @@
+503930f8e113 ("netlink: Correct offload_xstats size")
+0e7788fd7622 ("net: rtnetlink: Add UAPI for obtaining L3 offload xstats")
+46efc97b7306 ("net: rtnetlink: RTM_GETSTATS: Allow filtering inside nests")
+f6e0fb812988 ("net: rtnetlink: Stop assuming that IFLA_OFFLOAD_XSTATS_* are dev-backed")
+6b524a1d012b ("net: rtnetlink: Namespace functions related to IFLA_OFFLOAD_XSTATS_*")
+22b67d17194f ("net: rtnetlink: rtnl_stats_get(): Emit an extack for unset filter_mask")

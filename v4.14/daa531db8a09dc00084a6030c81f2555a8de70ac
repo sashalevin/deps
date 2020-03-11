@@ -1,0 +1,8 @@
+daa531db8a09 ("regulator: wm8994: Rely on core to handle GPIO descriptor")
+466affa06703 ("regulator: wm8994: Don't use devres for enable GPIOs")
+1d2f46814d20 ("regulator: wm8994: Pass descriptor instead of GPIO number")
+4d3e55bc7690 ("mfd: wm8994: Allow to configure CS/ADDR Pulldown from dts")
+102370fb048a ("mfd: wm8994: Allow to configure Speaker Mode Pullup from dts")
+ab4d11e2c232 ("regulator: wm8994: Fix shared GPIOs")
+3c6b38d45fa5 ("regulator: wm8994: Pass descriptor instead of GPIO number")
+e1739e86f0cb ("regulator: arizona-ldo1: Look up a descriptor and pass to the core")

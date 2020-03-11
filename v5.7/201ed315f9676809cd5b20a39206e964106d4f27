@@ -1,0 +1,6 @@
+201ed315f967 ("net/ethtool/ioctl: split ethtool_get_phy_stats into multiple helpers")
+fd4778581d61 ("net/ethtool/ioctl: remove if n_stats checks from ethtool_get_phy_stats")
+ccd21ec5b8dd ("ethtool: use phydev variable")
+17809516a03a ("net: phy: Uninline PHY ethtool statistics operations")
+3dd1499666f6 ("ethtool: ioctl: Use array_size() in copy_to_user()")
+a68a813836e1 ("net: phy: Add cable test support to state machine")

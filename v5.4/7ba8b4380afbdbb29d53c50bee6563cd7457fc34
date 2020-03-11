@@ -1,0 +1,6 @@
+7ba8b4380afb ("KVM: arm64: Use the reg_to_encoding() macro instead of sys_reg()")
+957cbca7317f ("KVM: arm64: Remove spurious semicolon in reg_to_encoding()")
+c512298eed03 ("KVM: arm64: Remove AA64ZFR0_EL1 accessors")
+912dee572691 ("KVM: arm64: Check RAZ visibility in ID register accessors")
+01fe5ace92dd ("KVM: arm64: Consolidate REG_HIDDEN_GUEST/USER")
+f81cb2c3ad41 ("KVM: arm64: Don't hide ID registers from userspace")

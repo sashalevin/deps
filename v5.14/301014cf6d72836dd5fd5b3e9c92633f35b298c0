@@ -1,0 +1,4 @@
+301014cf6d72 ("ARC: atomic_cmpxchg/atomic_xchg: implement relaxed variants")
+e188f3330a13 ("ARC: cmpxchg/xchg: rewrite as macros to make type safe")
+ecf51c9fa096 ("ARC: xchg: !LLSC: remove UP micro-optimization/hack")
+b0f839b4b915 ("ARC: atomics: disintegrate header")

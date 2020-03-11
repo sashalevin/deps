@@ -1,0 +1,8 @@
+ad510e37e4b4 ("powerpc/32s: Regroup 603 based CPUs in cputable")
+a6a50d8495d0 ("powerpc/32s: Remove CONFIG_PPC_BOOK3S_6xx")
+7d68c8916950 ("powerpc/32s: Allow deselecting CONFIG_PPC_FPU on mpc832x")
+b6254ced4da6 ("powerpc/signal: Don't manage floating point regs when no FPU")
+4d90eb97e292 ("powerpc/ptrace: Create ptrace_get_fpr() and ptrace_put_fpr()")
+e009fa433542 ("powerpc/ptrace: Consolidate reg index calculation")
+95593e930d7d ("powerpc/signal: Move inline functions in signal.h")
+78665179e569 ("powerpc/feature: Fix CPU_FTRS_ALWAYS by removing CPU_FTRS_GENERIC_32")

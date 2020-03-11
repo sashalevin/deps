@@ -1,0 +1,8 @@
+6b19788ddc59 ("perf/x86/intel/lbr: Add static_branch for LBR INFO flags")
+1ac7fd8159a8 ("perf/x86/intel/lbr: Support LBR format V7")
+c22ac2a3d4bd ("perf: Enable branch record for software events")
+34d5b61f29ee ("perf/x86/intel: Factor out intel_pmu_check_extra_regs")
+bc14fe1beeec ("perf/x86/intel: Factor out intel_pmu_check_event_constraints")
+b8c4d1a87610 ("perf/x86/intel: Factor out intel_pmu_check_num_counters")
+32451614da2a ("perf/x86/intel: Support CPUID 10.ECX to disable fixed counters")
+20c7775aecea ("Merge remote-tracking branch 'origin/master' into perf/core")

@@ -1,0 +1,5 @@
+2b3d2987d800 ("ALSA: firewire: Replace tasklet with work")
+51bc581a21c4 ("ALSA: firewire: convert tasklets to use new tasklet_setup() API")
+f890f9a04b36 ("ALSA: firewire-lib: replace pointer callback to flush isoc contexts in AMDTP domain")
+99921ec67dcd ("ALSA: firewire-lib: tune the maximum available size of PCM period")
+d68c3123ba88 ("ALSA: firewire-lib: add a member into AMDTP domain for events per period")

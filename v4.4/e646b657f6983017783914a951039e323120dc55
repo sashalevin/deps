@@ -1,0 +1,5 @@
+e646b657f698 ("ipv6: udp: Do a route lookup and update during release_cb")
+33c162a980fe ("ipv6: datagram: Update dst cache of a connected datagram sk during pmtu update")
+7e2040db1539 ("ipv6: datagram: Refactor dst lookup and update codes to a new function")
+80fbdb208f37 ("ipv6: datagram: Refactor flowi6 init codes to a new function")
+1cdda9187147 ("ipv6/udp: use sticky pktinfo egress ifindex on connect()")

@@ -1,1 +1,6 @@
 488ca3d8d088 ("xfs: chain bios the right way around in xfs_rw_bdev")
+6ad5b3255b9e ("xfs: use bios directly to read and write the log recovery buffers")
+18ffb8c3f0bf ("xfs: return an offset instead of a pointer from xlog_align")
+2d15d2c0e0f7 ("xfs: make use of the l_targ field in struct xlog")
+94860a301b75 ("xfs: factor out log buffer writing from xlog_sync")
+1f9489be0257 ("xfs: don't use REQ_PREFLUSH for split log writes")

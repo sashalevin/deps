@@ -1,0 +1,4 @@
+2e521a2064bf ("exit: add internal include file with helpers")
+eda7e9d409ce ("exit: add kernel_waitid_prepare() helper")
+06a101ca45b2 ("exit: move core of do_wait() into helper")
+9d900d4ea352 ("exit: abstract out should_wake helper for child_wait_callback()")

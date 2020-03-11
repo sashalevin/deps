@@ -1,0 +1,5 @@
+f29cd5bb64c2 ("crypto: qcom-rng - Add hw_random interface support")
+882aa6525cab ("crypto: qcom-rng - Fix qcom_rng_of_match unused warning")
+16287397ec5c ("crypto: qcom-rng - fix infinite loop on requests not multiple of WORD_SZ")
+a680b1832ced ("crypto: qcom-rng - ensure buffer for generate is completely filled")
+0c3dc787a62a ("crypto: algapi - Remove skbuff.h inclusion")

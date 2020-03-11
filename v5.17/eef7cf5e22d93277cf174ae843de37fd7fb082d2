@@ -1,0 +1,6 @@
+eef7cf5e22d9 ("dm vdo indexer sparse-cache: cleanup threads_barrier code")
+0593855a8320 ("dm vdo uds-threads: push 'barrier' down to sparse-cache")
+2d98aa17806f ("dm vdo uds-threads: eliminate uds_*_semaphore interfaces")
+9d8741894520 ("dm vdo: make uds_*_semaphore interface private to uds-threads.c")
+766130e8a9f3 ("dm vdo: implement top-level deduplication index")
+89f9b701f5b8 ("dm vdo: add thread and synchronization utilities")

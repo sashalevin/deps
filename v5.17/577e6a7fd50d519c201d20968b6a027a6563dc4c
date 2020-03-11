@@ -1,0 +1,5 @@
+577e6a7fd50d ("x86: inline the 'rep movs' in user copies for the FSRM case")
+3639a535587d ("x86: move stac/clac from user copy routines into callers")
+adfcf4231b8c ("x86: don't use REP_GOOD or ERMS for user memory copies")
+0db7058e8e23 ("x86/clear_user: Make it faster")
+02041b322566 ("x86/uaccess: Don't jump between functions")

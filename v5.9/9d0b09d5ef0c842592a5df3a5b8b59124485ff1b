@@ -1,0 +1,6 @@
+9d0b09d5ef0c ("svcrdma: Support multiple write chunks when pulling up")
+f6ad77590a5d ("svcrdma: Post RDMA Writes while XDR encoding replies")
+76e5492b161f ("NFSD: Invoke svc_encode_result_payload() in "read" NFSD encoders")
+03493bca084f ("SUNRPC: Rename svc_encode_read_payload()")
+ab1394ee7a11 ("svcrdma: Refactor the RDMA Write path")
+c327a310ec4d ("svcrdma: fix bounce buffers for unaligned offsets and multiple pages")

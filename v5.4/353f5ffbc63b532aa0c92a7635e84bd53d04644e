@@ -1,0 +1,6 @@
+353f5ffbc63b ("gtp: remove useless initialization")
+b20dc3c68458 ("gtp: Allow to create GTP device without FDs")
+51467431200b ("gtp: fix an use-before-init in gtp_newlink()")
+b289ba5e0710 ("gtp: simplify error handling code in 'gtp_encap_enable()'")
+6a902c0f3199 ("gtp: avoid zero size hashtable")
+94dc550a5062 ("gtp: fix an use-after-free in ipv4_pdp_find()")

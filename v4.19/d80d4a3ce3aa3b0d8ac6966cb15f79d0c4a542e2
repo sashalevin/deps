@@ -1,0 +1,6 @@
+d80d4a3ce3aa ("iio: imu: adis_buffer: split trigger handling")
+669da56a7eaf ("iio: adis_buffer: don't push data to buffers on failure")
+0ae157081ca3 ("iio: adis_buffer: update device page after changing it")
+00f6742b5ff4 ("iio: adis_buffer: check return value on page change")
+d877539ad8e8 ("iio: adis_buffer: do not return ints in irq handlers")
+6a9afcb198b4 ("iio: imu: adis: rename txrx_lock -> state_lock")

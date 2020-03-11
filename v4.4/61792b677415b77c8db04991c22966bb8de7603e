@@ -1,0 +1,4 @@
+61792b677415 ("netfilter: ipv6: fix oops when defragmenting locally generated fragments")
+84379c9afe01 ("netfilter: ipv6: nf_defrag: drop skb dst before queueing")
+daaa7d647f81 ("netfilter: ipv6: avoid nf_iterate recursion")
+029f7f3b8701 ("netfilter: ipv6: nf_defrag: avoid/free clone operations")

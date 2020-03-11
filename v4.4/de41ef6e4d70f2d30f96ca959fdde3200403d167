@@ -1,0 +1,7 @@
+de41ef6e4d70 ("powerpc/8xx: Move mpc8xx_pic.c from sysdev to platform/8xx")
+ea16e83aec40 ("powerpc/cpm1: link to CONFIG_CPM1 instead of CONFIG_8xx")
+f70b1e8d17ce ("powerpc/8xx: Move 8xx machine check handlers into platforms/8xx")
+0e23e7b32bfd ("powerpc/8xx: Simplify CONFIG_8xx checks in Makefile")
+7f3f819e9441 ("powerpc/traps: machine_check_generic() is only used on 32-bit")
+42bff234be3b ("powerpc/traps: Inline get_mc_reason()")
+e627f8dc9a6f ("powerpc/8xx: add dedicated machine check handler")

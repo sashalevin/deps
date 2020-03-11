@@ -1,0 +1,4 @@
+f49236ae424d ("x86/kaslr: Add a check that the random address is in range")
+4268b4da572f ("x86/kaslr: Small cleanup of find_random_phys_addr()")
+451286940d95 ("x86/kaslr: Initialize mem_limit to the real maximum address")
+199c84717612 ("x86/efi: Add efi_fake_mem support for EFI_MEMORY_SP")

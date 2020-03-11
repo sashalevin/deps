@@ -1,0 +1,6 @@
+7af9da8ce8f9 ("thunderbolt: Add quirk to disable CLx")
+aef9c693e7e5 ("thunderbolt: Move vendor specific NVM handling into nvm.c")
+8b02b2da77c8 ("thunderbolt: Provide tb_retimer_nvm_read() analogous to tb_switch_nvm_read()")
+7bfafaa5185b ("thunderbolt: Rename and make nvm_read() available for other files")
+5424e1bf16f9 ("thunderbolt: Extend NVM version fields to 32-bits")
+7f333ace0257 ("thunderbolt: Move tb_xdomain_parent() to tb.h")

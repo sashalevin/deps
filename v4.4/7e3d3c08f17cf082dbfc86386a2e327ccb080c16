@@ -1,0 +1,7 @@
+7e3d3c08f17c ("tty: 8250, cleanup em485 timers")
+ae28d7402a7e ("serial: 8250_port: Remove useless NULL checks")
+6e0a5de2136b ("serial: 8250: Use hrtimers for rs485 delays")
+b3965767d86c ("serial: 8250_port: fix runtime PM use in __do_stop_tx_rs485()")
+0c66940d584d ("tty/serial/8250: fix RS485 half-duplex RX")
+e490c9144cfa ("tty: Add software emulated RS485 support for 8250")
+a07a70bcb72e ("tty: Move serial8250_stop_rx() in front of serial8250_start_tx()")

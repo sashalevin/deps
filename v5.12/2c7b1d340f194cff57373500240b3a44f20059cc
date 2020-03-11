@@ -1,0 +1,7 @@
+2c7b1d340f19 ("drm/i195: Extract cnl_ddi_{enable,disable}_clock()")
+38e31f1acd64 ("drm/i915: Extract skl_ddi_{enable,disable}_clock()")
+d135368d1632 ("drm/i915: Extract hsw_ddi_{enable,disable}_clock()")
+c133df699412 ("drm/i915: Introduce .{enable,disable}_clock() encoder vfuncs")
+ad9529824caf ("drm/i915: Use intel_ddi_clk_select() for FDI")
+dcb38f79126e ("drm/i915: migrate hsw fdi code to new file.")
+99092a976c8c ("drm/i915: refactor ddi translations into a separate file (v2)")

@@ -1,0 +1,5 @@
+46a9ea668190 ("mm/slab_common: fix slab_caches list corruption after kmem_cache_destroy()")
+d71608a87736 ("mm/slab_common: fix possible double free of kmem_cache")
+0495e337b703 ("mm/slab_common: Deleting kobject in kmem_cache_destroy() without holding slab_mutex/cpu_hotplug_lock")
+bed0a9b59149 ("kasan: add ability to detect double-kmem_cache_destroy()")
+7302e91f39a8 ("mm/slab_common: use WARN() if cache still has objects on destroy")

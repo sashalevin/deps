@@ -1,0 +1,7 @@
+b49f700668ff ("riscv: mm: fix regression due to update_mmu_cache change")
+4bd1d80efb5a ("riscv: mm: notify remote harts about mmu cache updates")
+3f1e782998cd ("riscv: add ASID-based tlbflushing methods")
+70c7605c08c5 ("riscv: pass the mm_struct to __sbi_tlb_flush_range")
+e88b333142e4 ("riscv: mm: add THP support on 64-bit")
+c3b2d67046d2 ("riscv: mm: add param stride for __sbi_tlb_flush_range")
+65d4b9c53017 ("RISC-V: Implement ASID allocator")

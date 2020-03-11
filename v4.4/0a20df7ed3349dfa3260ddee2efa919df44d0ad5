@@ -1,0 +1,5 @@
+0a20df7ed334 ("fsnotify: report FS_ISDIR flag with MOVE_SELF and DELETE_SELF events")
+5f02a8776384 ("fsnotify: annotate directory entry modification events")
+12c7f9dc0fd1 ("constify fsnotify_parent()")
+27f203f655a2 ("untangle fsnotify_d_instantiate() a bit")
+a528aca7f359 ("use ->d_seq to get coherency between ->d_inode and ->d_flags")

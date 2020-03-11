@@ -1,0 +1,5 @@
+c49467a45fe0 ("KVM: x86/pmu: Don't overwrite the pmu->global_ctrl when refreshing")
+c59a1f106f5c ("KVM: x86/pmu: Add IA32_PEBS_ENABLE MSR emulation for extended PEBS")
+0d23dc34a7ce ("x86/perf/core: Add pebs_capable to store valid PEBS_COUNTER_MASK value")
+2c985527dd8d ("KVM: x86/pmu: Introduce the ctrl_mask value for fixed counter")
+39a4d779546a ("perf/x86/core: Pass "struct kvm_pmu *" to determine the guest values")

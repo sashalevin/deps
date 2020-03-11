@@ -1,0 +1,7 @@
+bc8b50c2dfac ("workqueue: Drop the special locking rule for worker->flags and worker_pool->flags")
+bdf8b9bfc131 ("workqueue: Improve locking rule description for worker fields")
+3a46c9833c1f ("workqueue: Re-order struct worker fields")
+bc35f7ef9628 ("workqueue: Convert the type of pool->nr_running to int")
+cc5bff38463e ("workqueue: Use wake_up_worker() in wq_worker_sleeping() instead of open code")
+2c1f1a9180bf ("workqueue: Change the comments of the synchronization about the idle_list")
+21b195c05cf6 ("workqueue: Remove the mb() pair between wq_worker_sleeping() and insert_work()")

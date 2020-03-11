@@ -1,0 +1,5 @@
+019cd46984d0 ("crypto: arm64/aes-ce-cipher - move assembler code to .S file")
+b8fb993a836c ("crypto: arm64/aes-ce-cipher: add non-SIMD generic fallback")
+f402e3115e20 ("crypto: arm64/aes-ce-cipher - match round key endianness with generic code")
+56e4e76c68fc ("crypto: arm64/aes-ccm-ce: fix for big endian")
+1803b9a52c4e ("crypto: arm64/aes-ce - fix for big endian")

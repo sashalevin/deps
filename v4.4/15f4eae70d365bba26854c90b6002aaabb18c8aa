@@ -1,0 +1,6 @@
+15f4eae70d36 ("x86: Move thread_info into task_struct")
+b9d989c7218a ("x86/asm: Move the thread_info::status field to thread_struct")
+0100301bfdf5 ("sched/x86: Rewrite the switch_to() code")
+7b32aeadbc95 ("sched/x86: Add 'struct inactive_task_frame' to better document the sleeping task stack frame")
+e37e43a497d5 ("x86/mm/64: Enable vmapped stacks (CONFIG_HAVE_ARCH_VMAP_STACK=y)")
+c98f5827f8f0 ("Merge branch 'x86-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

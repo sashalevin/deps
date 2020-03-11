@@ -1,0 +1,7 @@
+2371cd90abe3 ("scsi: storvsc: remove unnecessary channel inbound lock")
+5529eaf6e79a ("vmbus: remove conditional locking of vmbus_write")
+f6c439155357 ("vmbus: remove no longer used signal_policy")
+b103a56f8087 ("vmbus: drop no longer used kick_q argument")
+e7e97dd8b77e ("Drivers: hv: vmbus: Prevent sending data on a rescinded channel")
+1f6ee4e7d835 ("Drivers: hv: vmbus: On write cleanup the logic to interrupt the host")
+74198eb4a42c ("Drivers: hv: vmbus: Base host signaling strictly on the ring state")

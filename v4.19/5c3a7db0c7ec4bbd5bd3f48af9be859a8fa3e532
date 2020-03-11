@@ -1,0 +1,7 @@
+5c3a7db0c7ec ("module: Harden STRICT_MODULE_RWX")
+958de6681976 ("module: Remove set_all_modules_text_*()")
+93651f80dcb6 ("modules: fix compile error if don't have strict module rwx")
+2eef1399a866 ("modules: fix BUG when load module with rodata=n")
+1a7b7d922081 ("modules: Use vmalloc special flag")
+f2c65fb3221a ("x86/modules: Avoid breaking W^X while loading modules")
+cb2f55369d3a ("modules: Replace synchronize_sched() and call_rcu_sched()")

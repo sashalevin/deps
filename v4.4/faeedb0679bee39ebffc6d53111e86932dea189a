@@ -1,0 +1,5 @@
+faeedb0679be ("x86/stackframe/32: Allow int3_emulate_push()")
+693713cbdb3a ("x86: Hide the int3_emulate_call/jmp functions from UML")
+9e298e860408 ("ftrace/x86_64: Emulate call function while updating in breakpoint handler")
+4b33dadf3766 ("x86_64: Allow breakpoints to emulate call instructions")
+35de5b0692aa ("x86/asm: Stop depending on ptrace.h in alternative.h")

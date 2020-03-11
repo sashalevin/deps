@@ -1,0 +1,8 @@
+7e722083fcc3 ("i2c: Remove I2C_COMPAT config symbol and related code")
+73febd775bdb ("i2c: create debugfs entry per adapter")
+a263a84088f6 ("i2c: smbus: Use device_*() functions instead of of_*()")
+5a7b95fb993e ("i2c: core: support bus regulator controlling in adapter")
+4e970a0ada52 ("i2c: remove check that can never be true")
+23a698fe65ec ("i2c: core: treat EPROBE_DEFER when acquiring SCL/SDA GPIOs")
+75820314de26 ("i2c: core: add generic I2C GPIO recovery")
+0c2a34937f7e ("i2c: revert "i2c: core: Allow drivers to disable i2c-core irq mapping"")

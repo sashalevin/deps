@@ -1,0 +1,7 @@
+054a3ef683a1 ("cpufreq: qcom-hw: Allocate qcom_cpufreq_data during probe")
+c377d4ba86e9 ("cpufreq: qcom-hw: Add support for per-core-dcvs")
+275157b367f4 ("cpufreq: qcom-cpufreq-hw: Add dcvs interrupt support")
+536eb97abeba ("cpufreq: qcom-hw: Fix return value check in qcom_cpufreq_hw_cpu_init()")
+02fc40954030 ("cpufreq: qcom-hw: fix dereferencing freed memory 'data'")
+67fc209b527d ("cpufreq: qcom-hw: drop devm_xxx() calls from init/exit hooks")
+a17a733e377d ("Merge branch 'cpufreq/arm/linux-next' of git://git.kernel.org/pub/scm/linux/kernel/git/vireshk/pm")

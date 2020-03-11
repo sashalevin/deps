@@ -1,0 +1,7 @@
+0a3ccc75a95f ("comedi: do_cmd_ioctl(): lift copyin/copyout into the caller")
+f0e4de5cd0bb ("comedi: do_cmdtest_ioctl(): lift copyin/copyout into the caller")
+00035beeec2c ("comedi: lift copy_from_user() into callers of __comedi_get_user_cmd()")
+b8d47d881305 ("comedi: get rid of compat_alloc_user_space() mess in COMEDI_INSNLIST compat")
+aa332e6759fa ("comedi: get rid of compat_alloc_user_space() mess in COMEDI_INSN compat")
+5c6a8747e0cf ("comedi: get rid of indirection via translated_ioctl()")
+e0d0bf8a28eb ("comedi: move compat ioctl handling to native fops")

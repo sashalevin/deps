@@ -1,0 +1,5 @@
+0f6273ab4637 ("erofs: add a reserved buffer pool for lz4 decompression")
+f36f3010f676 ("erofs: rename per-CPU buffers to global buffer pool and make it configurable")
+cacd5b04e24c ("erofs: rename utils.c to zutil.c")
+d9281660ff3f ("erofs: relaxed temporary buffers allocation on readahead")
+3c12466b6b7b ("erofs: fix lz4 inplace decompression")

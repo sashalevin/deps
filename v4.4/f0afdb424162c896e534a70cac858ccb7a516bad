@@ -1,0 +1,6 @@
+f0afdb424162 ("usb: dwc2: gadget: For DDMA parse setup only after SetUp interrupt")
+9d9a6b07ebf5 ("usb: dwc2: gadget: Fixes for StsPhseRcvd interrupt")
+837e9f00bf99 ("usb: dwc2: gadget: Final fixes for BDMA ISOC")
+142bd33fcd18 ("usb: dwc2: gadget: Corrected interval calculation")
+92d1635d781a ("usb: dwc2: gadget: Add dwc2_gadget_incr_frame_num()")
+3be99cd0e882 ("usb: dwc2: gadget: don't overwrite DCTL register on NAKEFF interrupts")

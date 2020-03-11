@@ -1,0 +1,5 @@
+42e0e95474fc ("x86/build: Add -Wnoaddress-of-packed-member to REALMODE_CFLAGS, to silence GCC9 build warning")
+9e8730b178a2 ("x86/build: Use cc-option to validate stack alignment parameter")
+8f91869766c0 ("x86/build: Fix stack alignment for CLang")
+d77698df39a5 ("x86/build: Specify stack alignment for clang")
+032a2c4f65a2 ("x86/build: Use __cc-option for boot code compiler options")

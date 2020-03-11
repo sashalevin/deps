@@ -1,0 +1,6 @@
+f227f0faf63b ("slub: fix unreclaimable slab stat for bulk free")
+96403bfe50c3 ("mm: memcontrol: fix slub memory accounting")
+d42f3245c7e2 ("mm: memcg: convert vmstat slab counters to bytes")
+ea426c2a7de8 ("mm: memcg: prepare for byte-sized vmstat items")
+eedc4e5a142c ("mm: memcg: factor out memcg- and lruvec-level changes out of __mod_lruvec_state()")
+8d92890bd6b8 ("mm/writeback: discard NR_UNSTABLE_NFS, use NR_WRITEBACK instead")

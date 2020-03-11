@@ -1,0 +1,6 @@
+3fdc54646234 ("NFSD: Reduce amount of struct nfsd4_compoundargs that needs clearing")
+103cc1fafee4 ("SUNRPC: Parametrize how much of argsize should be zeroed")
+09426ef2a64e ("NFSD: Shrink size of struct nfsd4_copy_notify")
+1fcbd1c9456b ("NFSD: Update the NFSv2 READLINK argument decoder to use struct xdr_stream")
+224c1c894e48 ("NFSD: Update READLINK3arg decoder to use struct xdr_stream")
+9575363a9e4c ("NFSD: Update GETATTR3args decoder to use struct xdr_stream")

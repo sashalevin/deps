@@ -1,0 +1,6 @@
+977115c0f664 ("block: stop using bdget_disk for partition 0")
+5b56b6ed574b ("block: refactor blkdev_get")
+ec5d451438a2 ("block: refactor __blkdev_put")
+b0519b542303 ("dm: remove the block_device reference in struct mapped_device")
+040f04bd2e82 ("fs: simplify freeze_bdev/thaw_bdev")
+6e017a3931d7 ("zram: use set_capacity_and_notify")

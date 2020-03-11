@@ -1,0 +1,4 @@
+aaa5e1aa3907 ("ASoC: Use __counted_by() annotation for snd_soc_pcm_runtime")
+dd9f9cc1e6b9 ("ASoC: core: Do not call link_exit() on uninitialized rtd objects")
+c7eb967d7044 ("ASoC: core: Exit all links before removing their components")
+66a796c04b63 ("ASoC: core: fix wrong size kzalloc for rtd's components member")

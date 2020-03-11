@@ -1,0 +1,5 @@
+d2ab4eea732d ("iio: adc: palmas: replace "wakeup" with "event"")
+79d9622d622d ("iio: adc: palmas: remove adc_wakeupX_data")
+6d52b0e70698 ("iio: adc: palmas: Take probe fully device managed.")
+49f76c499d38 ("iio: adc: palmas_gpadc: fix NULL dereference on rmmod")
+3f1a9c392d69 ("iio:adc:palmas_gpadc: Switch from CONFIG_PM_SLEEP guards to pm_sleep_ptr()")

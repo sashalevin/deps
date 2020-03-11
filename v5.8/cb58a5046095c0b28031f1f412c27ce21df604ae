@@ -1,0 +1,6 @@
+cb58a5046095 ("vt: keyboard, union perm checks in vt_do_kdgkb_ioctl")
+07edff926520 ("vt: keyboard, reorder user buffer handling in vt_do_kdgkb_ioctl")
+9788c950ed4a ("vt: keyboard, rename i to kb_func in vt_do_kdgkb_ioctl")
+82e61c3909db ("vt: keyboard, extend func_buf_lock to readers")
+6ca03f90527e ("vt: keyboard, simplify vt_kdgkbsent")
+f3af1b68fc96 ("tty: keyboard, do not speculate on func_table index")

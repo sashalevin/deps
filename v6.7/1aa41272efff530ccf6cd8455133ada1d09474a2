@@ -1,0 +1,8 @@
+1aa41272efff ("ALSA: emu10k1: move code for entering E-MU card FPGA programming mode")
+4c0c36863cc5 ("ALSA: emu10k1: move snd_emu1010_load_firmware_entry() to io.c")
+b83587eaf2a8 ("ALSA: emu10k1: make snd_emu1010_load_firmware_entry() void")
+7868e4c1794d ("ALSA: emu10k1: simplify E-MU card FPGA reset sequence")
+2d3f4810886e ("ALSA: emu10k1: use mutex for E-MU FPGA access locking")
+f848337cd801 ("ALSA: emu10k1: move the whole GPIO event handling to the workqueue")
+28deafd0fbdc ("ALSA: emu10k1: factor out snd_emu1010_load_dock_firmware()")
+398321d75319 ("ALSA: emu10k1: fix E-MU card dock presence monitoring")

@@ -1,0 +1,6 @@
+2c9db7475e5d ("perf annotate: Set instruction name to be used with insn-stat when using raw instruction")
+cd0b6f67c4ab ("perf annotate: Add some of the arithmetic instructions to support instruction tracking in powerpc")
+ace7d681d82d ("perf annotate: Add support to identify memory instructions of opcode 31 in powerpc")
+1acdad68183a ("perf annotate: Add parse function for memory instructions in powerpc")
+1b4406d2a88c ("perf annotate: Update parameters for reg extract functions to use raw instruction on powerpc")
+06dd4c5a561c ("perf annotate: Add disasm_line__parse() to parse raw instruction for powerpc")

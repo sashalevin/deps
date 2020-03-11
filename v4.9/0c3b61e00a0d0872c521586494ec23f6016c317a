@@ -1,0 +1,7 @@
+0c3b61e00a0d ("jump_label: s390: avoid pointless initial NOP patching")
+acd6c9afc63c ("s390/jump_label: rename __jump_label_transform()")
+4e0502b8b310 ("s390/jump_label: make use of HAVE_JUMP_LABEL_BATCH")
+1c27dfb24e3b ("s390/jump_label: use text_poke_sync()")
+a646ef398e72 ("s390/jump_label: replace stop_machine with smp_call_function")
+13ddb52c165b ("s390/jump_label: Switch to relative references")
+5d5dbc4ef27e ("s390: Prevent hotplug rwsem recursion")

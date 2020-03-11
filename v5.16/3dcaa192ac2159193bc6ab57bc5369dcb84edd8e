@@ -1,0 +1,3 @@
+3dcaa192ac21 ("Bluetooth: SCO: fix sco_conn related locking and validity issues")
+9a8ec9e8ebb5 ("Bluetooth: SCO: Fix possible circular locking dependency on sco_connect_cfm")
+7aa1e7d15f8a ("Bluetooth: fix dangling sco_conn and use-after-free in sco_sock_timeout")

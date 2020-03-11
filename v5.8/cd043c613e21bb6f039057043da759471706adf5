@@ -1,0 +1,3 @@
+cd043c613e21 ("mtd: st_spi_fsm: Disable clock only after device was unregistered")
+cfa7847f150c ("mtd: st_spi_fsm: Warn about failure to unregister mtd device")
+1fefc8ecb834 ("mtd: st_spi_fsm: add missing clk_disable_unprepare() in stfsm_remove()")

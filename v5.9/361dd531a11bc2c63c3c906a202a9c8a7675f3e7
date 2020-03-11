@@ -1,0 +1,8 @@
+361dd531a11b ("net: pcs: xpcs: Explicitly return error on caps validation")
+9900074eccce ("net: pcs: xpcs: make the checks related to the PHY interface mode stateless")
+a54a8b71f6fa ("net: pcs: xpcs: there is only one PHY ID")
+b81017aeee4e ("net: pcs: xpcs: delete shim definition for mdio_xpcs_get_ops()")
+c62808e8105f ("net: stmmac: ensure phydev is attached to phylink for C37 AN")
+b97b5331b8ab ("net: pcs: add C37 SGMII AN support for intel mGbE controller")
+07a4bc51fc73 ("net: pcs: rearrange C73 functions to prepare for C37 support later")
+2fa4e4b799e1 ("net: pcs: Move XPCS into new PCS subdirectory")

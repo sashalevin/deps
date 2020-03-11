@@ -1,0 +1,7 @@
+b2fe96a350de ("perf tools: Fix module symbol processing")
+1c695c88a109 ("perf tools: Rename 'enum dso_kernel_type' to 'enum dso_space_type'")
+b5c0951860ba ("perf symbols: Don't try to find a vmlinux file when looking for kernel modules")
+4a4eb6154d67 ("perf maps: Mark ksymbol DSOs with kernel type")
+02213cec64bb ("perf maps: Mark module DSOs with kernel type")
+93fcce96c719 ("perf symbols: Use kmaps(map)->machine when we know its a kernel map")
+b0c76fc4cfd9 ("perf symbols: Remove needless checks for map->groups->machine")

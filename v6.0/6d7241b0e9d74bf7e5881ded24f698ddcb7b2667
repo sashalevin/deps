@@ -1,0 +1,8 @@
+6d7241b0e9d7 ("drm/i915: Streamline eDP handling in icl_combo_phy_aux_power_well_enable()")
+5ba1423c70a1 ("drm/i915: Rename ICL_AUX_ANAOVRD1 to ICL_PORT_TX_DW6_AUX")
+992ed9d52560 ("drm/i915/display/power: use intel_de_rmw if possible")
+ee9125720c02 ("drm/i915: Consult the registered encoders for the ICL combo PHY w/a")
+a0c51490885f ("drm/i915/power: switch to intel_de_* register accessors in display code")
+3721d4fb763e ("drm/i915/reg: stop using implicit dev_priv in DSPCLK_GATE_D")
+61c86578229d ("drm/i915/mtl: Add support for MTL in Display Init sequences")
+9e6a82b9fcec ("drm/i915/hdcp: split out hdcp registers to a separate file")

@@ -1,0 +1,4 @@
+81d3c9e7b43e ("irqchip/gic-v2m: Switch to bitmap_zalloc()")
+90b4c5558615 ("irqchip/gic-v2m: Add support for Amazon Graviton variant of GICv3+GICv2m")
+737be74710f3 ("irqchip/gicv2m: Don't map the MSI page in gicv2m_compose_msi_msg()")
+d38a71c54525 ("irqchip/gic-v3-its: Change initialization ordering for LPIs")

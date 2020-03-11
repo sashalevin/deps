@@ -1,0 +1,7 @@
+4d1114c05467 ("rcu-tasks: Abstract checking of callback lists")
+381a4f3b3860 ("rcu-tasks: Use spin_lock_rcu_node() and friends")
+9b073de1c7a3 ("rcu_tasks: Convert bespoke callback list to rcu_segcblist structure")
+b14fb4fbbcd8 ("rcu-tasks: Convert grace-period counter to grace-period sequence number")
+7a30871b6a27 ("rcu-tasks: Introduce ->percpu_enqueue_shift for dynamic queue selection")
+cafafd67765b ("rcu-tasks: Create per-CPU callback lists")
+0db7c32ad316 ("rcu-tasks: Move RTGS_WAIT_CBS to beginning of rcu_tasks_kthread() loop")

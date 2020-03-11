@@ -1,0 +1,6 @@
+ee97347fe058 ("powerpc/fadump: opt out from freeing pages on cma activation failure")
+a4e92ce8e4c8 ("powerpc/fadump: Reservationless firmware assisted dump")
+a58183138cb7 ("powerpc/fadump: cleanup crash memory ranges support")
+ced1bf52f477 ("powerpc/fadump: merge adjacent memory ranges to reduce PT_LOAD segements")
+1bd6a1c4b80a ("powerpc/fadump: handle crash memory ranges array index overflow")
+722cde76d68e ("powerpc/fadump: Unregister fadump on kexec down path.")

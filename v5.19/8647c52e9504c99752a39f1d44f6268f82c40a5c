@@ -1,0 +1,4 @@
+8647c52e9504 ("KVM: x86: Constrain guest-supported xfeatures only at KVM_GET_XSAVE{2}")
+18164f66e6c5 ("x86/fpu: Allow caller to constrain xfeatures when copying to uabi buffer")
+a1020a25e697 ("KVM: x86: Always enable legacy FP/SSE in allowed user XFEATURES")
+ee519b3a2ae3 ("KVM: x86: Reinstate kvm_vcpu_arch.guest_supported_xcr0")

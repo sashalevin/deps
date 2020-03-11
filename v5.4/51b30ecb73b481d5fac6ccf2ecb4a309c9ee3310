@@ -1,0 +1,6 @@
+51b30ecb73b4 ("swiotlb: Fix alignment checks when both allocation and DMA masks are present")
+04867a7a3332 ("swiotlb: Fix double-allocation of slots due to broken alignment handling")
+158dbe9c9a3d ("swiotlb: separate memory pool data from other allocator data")
+fea18777a78e ("swiotlb: add documentation and rename swiotlb_do_find_slots()")
+05ee774122bd ("swiotlb: make io_tlb_default_mem local to swiotlb.c")
+f71f64210d69 ("Merge tag 'dma-mapping-6.5-2023-07-09' of git://git.infradead.org/users/hch/dma-mapping")

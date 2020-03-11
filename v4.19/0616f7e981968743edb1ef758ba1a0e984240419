@@ -1,0 +1,6 @@
+0616f7e98196 ("rcu: Mark callbacks not currently participating in barrier operation")
+aa24f93753e2 ("rcu: Fix rcu_barrier_callback() race condition")
+66e4c33b51bc ("rcu: Force tick on for nohz_full CPUs not reaching quiescent states")
+43e903ad3e08 ("rcu: Inline invoke_rcu_callbacks() into its sole remaining caller")
+48d07c04b4cc ("rcu: Enable elimination of Tree-RCU softirq processing")
+203b6609e0ed ("Merge branch 'perf-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,7 @@
+d02a0efd0f47 ("x86/microcode: Move core specific defines to local header")
+b0e67db12d76 ("x86/microcode/intel: Rename get_datasize() since its used externally")
+18648dbd3338 ("x86/microcode: Make reload_early_microcode() static")
+82ad097b02b6 ("x86/microcode: Include vendor headers into microcode.h")
+4da2131fac10 ("x86/microcode/intel: Move microcode functions out of cpu/intel.c")
+e6bcfdd75d53 ("x86/microcode: Hide the config knob")
+05e91e721138 ("x86/microcode/AMD: Rip out static buffers")

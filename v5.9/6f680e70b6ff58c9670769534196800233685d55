@@ -1,0 +1,7 @@
+6f680e70b6ff ("mm/vmalloc: provide fallback arch huge vmap support functions")
+97dc2a1548ab ("x86: inline huge vmap supported functions")
+168a6333142b ("arm64: inline huge vmap supported functions")
+8309c9d71702 ("powerpc: inline huge vmap supported functions")
+bbc180a5adb0 ("mm: HUGE_VMAP arch support cleanup")
+95f0ddf081af ("mm/ioremap: rename ioremap_*_range to vmap_*_range")
+85a144632dcc ("mm/debug_vm_pgtables/hugevmap: use the arch helper to identify huge vmap support.")

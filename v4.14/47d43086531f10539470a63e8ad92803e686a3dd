@@ -1,0 +1,5 @@
+47d43086531f ("clk: sprd: set max_register according to mapping range")
+793ee798cc47 ("clk: sprd: Change to use devm_platform_ioremap_resource()")
+78f529695182 ("clk: sprd: Check error only for devm_regmap_init_mmio()")
+69b39d2503af ("clk: sprd: Switch from of_iomap() to devm_ioremap_resource()")
+d41f59fd92f2 ("clk: sprd: Add common infrastructure")

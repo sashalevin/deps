@@ -1,0 +1,7 @@
+f3e02e479deb ("net/mlx5e: Use tc sample stubs instead of ifdefs in source file")
+2741f2230905 ("net/mlx5e: TC, Support sample offload action for tunneled traffic")
+ee950e5db1b9 ("net/mlx5e: TC, Restore tunnel info for sample offload")
+d12e20ac0661 ("net/mlx5e: TC, Remove CONFIG_NET_TC_SKB_EXT dependency when restoring tunnel")
+bcd6740c6b6d ("net/mlx5e: Move sample attribute to flow attribute")
+0027d70c73c9 ("net/mlx5e: Move esw/sample to en/tc/sample")
+5024fa95a144 ("net/mlx5e: Remove mlx5e dependency from E-Switch sample")

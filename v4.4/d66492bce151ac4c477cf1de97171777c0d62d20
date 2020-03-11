@@ -1,0 +1,6 @@
+d66492bce151 ("fs: fix binfmt_aout.c build error")
+5d22fc25d4fc ("mm: remove more IS_ERR_VALUE abuses")
+2d6c928241ad ("mm: make vm_brk killable")
+ecc2bc8ac038 ("mm, elf: handle vm_brk error")
+864778b15423 ("mm, aout: handle vm_brk failures")
+dc0ef0df7b6a ("mm: make mmap_sem for write waits killable for mm syscalls")

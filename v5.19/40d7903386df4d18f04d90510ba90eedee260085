@@ -1,0 +1,6 @@
+40d7903386df ("serial: imx: Update mctrl old_status on RTSD interrupt")
+968d64578ec9 ("serial: Make uart_handle_cts_change() status param bool active")
+0388a152fc55 ("tty/serial: Make ->dcd_change()+uart_handle_dcd_change() status bool active")
+987233b342b9 ("tty: serial: serial_core, reformat kernel-doc for functions")
+c4bd17a6ddf3 ("Documentation: serial: dedup kernel-doc for uart functions")
+f9008285bb69 ("serial: Drop timeout from uart_port")

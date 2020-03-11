@@ -1,0 +1,7 @@
+3c89a068bfd0 ("PM: s2idle: Make sure CPUs will wakeup directly on resume")
+8d89835b0467 ("PM: suspend: Do not pause cpuidle in the suspend-to-idle path")
+d2c8cce647f3 ("PM: sleep: s2idle: Replace deprecated CPU-hotplug functions")
+b605c44c30b5 ("PM: sleep: Drop dpm_noirq_begin() and dpm_noirq_end()")
+8eb0fd3b55f0 ("PM: sleep: Integrate suspend-to-idle with generig suspend flow")
+3540d38dd383 ("PM: sleep: Show how long dpm_suspend_start() and dpm_suspend_end() take")
+2f1a6fbbef77 ("power/suspend: Add function to disable secondaries for suspend")

@@ -1,0 +1,5 @@
+29113f2f0a7d ("ACPI: EC: PM: Make acpi_ec_dispatch_gpe() print debug message")
+d7589404932b ("ACPI: EC: PM: Consolidate some code depending on PM_SLEEP")
+880a66275ef4 ("ACPI / PM / EC: Flush all EC work in acpi_freeze_sync()")
+33e4f80ee69b ("ACPI / PM: Ignore spurious SCI wakeups from suspend-to-idle")
+64fd1c704088 ("ACPI / PM: Run wakeup notify handlers synchronously")

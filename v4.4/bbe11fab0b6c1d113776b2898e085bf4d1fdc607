@@ -1,0 +1,5 @@
+bbe11fab0b6c ("macsec: use after free when deleting the underlying device")
+960d5848dbf1 ("macsec: fix memory leaks around rx_handler (un)registration")
+96cfc5052c5d ("macsec: add consistency check to netlink dumps")
+c10c63ea739b ("macsec: take rtnl lock before for_each_netdev")
+c09440f7dcb3 ("macsec: introduce IEEE 802.1AE driver")

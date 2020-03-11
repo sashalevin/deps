@@ -1,0 +1,8 @@
+f61033390bc3 ("block: assert that we're not holding open_mutex over blk_report_disk_dead")
+f55e017c6420 ("block: add a mark_dead holder operation")
+0718afd47f70 ("block: introduce holder ops")
+66fddc25fe18 ("block: consolidate the shutdown logic in blk_mark_disk_dead and del_gendisk")
+74e6464a987b ("block: turn bdev_lock into a mutex")
+ae5f855ead6b ("block: refactor bd_may_claim")
+0783b1a7cbd9 ("block: factor out a bd_end_claim helper from blkdev_put")
+fa31fc82fb77 ("Merge tag 'pm-6.4-rc1-2' of git://git.kernel.org/pub/scm/linux/kernel/git/rafael/linux-pm")

@@ -1,0 +1,4 @@
+723df2bcc9e1 ("btrfs: join running log transaction when logging new name")
+259c4b96d78d ("btrfs: stop doing unnecessary log updates during a rename")
+88d2beec7e53 ("btrfs: avoid logging all directory changes during renames")
+d5f5bd546552 ("btrfs: pass the dentry to btrfs_log_new_name() instead of the inode")

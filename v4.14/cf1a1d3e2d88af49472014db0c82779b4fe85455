@@ -1,0 +1,8 @@
+cf1a1d3e2d88 ("scsi: lpfc: Fix random heartbeat timeouts during heavy IO")
+c3725bdcdf28 ("scsi: lpfc: Fix driver handling of nvme resources during unload")
+3386f4bdd243 ("scsi: lpfc: Fix crash during driver unload with running nvme traffic")
+add9d6be3d65 ("scsi: lpfc: Correct driver deregistrations with host nvme transport")
+41319e4f62f2 ("scsi: lpfc: Fix a precedence bug in lpfc_nvme_io_cmd_wqe_cmpl()")
+1abcb3718b08 ("scsi: lpfc: Fix oops of nvme host during driver unload.")
+952c303b329c ("scsi: lpfc: Ensure io aborts interlocked with the target.")
+b7672ae681f8 ("scsi: lpfc: Fix crash in lpfc_nvme_fcp_io_submit during LIP")

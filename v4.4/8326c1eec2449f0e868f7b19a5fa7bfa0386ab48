@@ -1,0 +1,8 @@
+8326c1eec244 ("ubifs: Add CONFIG_UBIFS_FS_SECURITY to disable/enable security labels")
+d475a507457b ("ubifs: Add skeleton for fscrypto")
+ade46c3a6029 ("ubifs: Export xattr get and set functions")
+843741c57783 ("ubifs: Fix xattr_names length in exit paths")
+17ce1eb0b64e ("ubifs: Fix xattr generic handler usage")
+dfaf8d2aeca4 ("ubifs: Make xattr structures static")
+5930122683df ("switch xattr_handler->set() to passing dentry and inode separately")
+ba5a2655c270 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

@@ -1,0 +1,4 @@
+18c3933c1983 ("x86/sev: Shorten GHCB terminate macro names")
+b81fc74d53d1 ("x86/sev: Move GHCB MSR protocol and NAE definitions in a common header")
+e759959fe3b8 ("x86/sev-es: Rename sev-es.{ch} to sev.{ch}")
+f15a0a732aef ("x86/sev-es: Replace open-coded hlt-loops with sev_es_terminate()")

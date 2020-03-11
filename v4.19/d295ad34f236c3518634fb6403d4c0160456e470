@@ -1,0 +1,6 @@
+d295ad34f236 ("intel_idle: Fix false positive RCU splats due to incorrect hardirqs state")
+32d4fd5751ea ("cpuidle,intel_idle: Fix CPUIDLE_FLAG_IRQ_ENABLE")
+c227233ad64c ("intel_idle: enable interrupts before C1 on Xeons")
+6e1d2bc675bd ("intel_idle: Fix intel_idle() vs tracing")
+bf9282dc26e7 ("cpuidle: Make CPUIDLE_FLAG_TLB_FLUSHED generic")
+99ea1521a097 ("Merge tag 'uninit-macro-v5.9-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

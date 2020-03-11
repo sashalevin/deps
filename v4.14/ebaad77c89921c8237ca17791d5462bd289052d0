@@ -1,0 +1,6 @@
+ebaad77c8992 ("cifs: remove ->writepage")
+ce3bb0d2cb60 ("cifs: Convert cifs to read_folio")
+052e04a52dcd ("cifs: Transition from ->readpages() to ->readahead()")
+f2a26a3cff27 ("SMB3: fix readpage for large swap cache")
+95a3d8f3af9b ("cifs: Fix double add page to memcg when cifs_readpages")
+3803d5e4d3ce ("Merge tag '5.8-rc-smb3-fixes-part-1' of git://git.samba.org/sfrench/cifs-2.6")

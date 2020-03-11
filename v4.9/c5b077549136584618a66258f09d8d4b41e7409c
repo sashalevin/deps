@@ -1,0 +1,7 @@
+c5b077549136 ("KVM: Convert the kvm->vcpus array to a xarray")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")
+99cdc6c18c2d ("RISC-V: Add initial skeletal KVM support")
+52ac8b358b0c ("KVM: Block memslot updates across range_start() and range_end()")
+2fdef3a2ae01 ("kvm: add PM-notifier")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")
+939b7cbc0090 ("Merge tag 'riscv-for-linus-5.13-mw0' of git://git.kernel.org/pub/scm/linux/kernel/git/riscv/linux")

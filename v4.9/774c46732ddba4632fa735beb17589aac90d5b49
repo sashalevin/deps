@@ -1,0 +1,6 @@
+774c46732ddb ("tcp: Export tcp_{sendpage,sendmsg}_locked() for ipv6.")
+306b13eb3cf9 ("proto_ops: Add locked held versions of sendmsg and sendpage")
+e3b5616a3476 ("tcp: export do_tcp_sendpages and tcp_rate_check_app_limited functions")
+8605330aac5a ("tcp: fix SCM_TIMESTAMPING_OPT_STATS for normal skbs")
+1c885808e456 ("tcp: SOF_TIMESTAMPING_OPT_STATS option for SO_TIMESTAMPING")
+b0f71bd3e190 ("tcp: instrument how long TCP is limited by insufficient send buffer")

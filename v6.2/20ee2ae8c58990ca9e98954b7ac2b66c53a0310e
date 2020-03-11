@@ -1,0 +1,8 @@
+20ee2ae8c589 ("fbdev/hyperv_fb: Fix logic error for Gen2 VMs in hvfb_getmem()")
+0aa0838c84da ("fbdev/hyperv_fb: Remove firmware framebuffers with aperture helpers")
+cca202a5e595 ("fbdev: hyperv_fb: fix uninitialized local variable use")
+a07b50d80ab6 ("hyperv: avoid dependency on screen_info")
+5fbcc6708fe3 ("video/aperture: Drop primary argument")
+62aeaeaa1b26 ("drm/aperture: Remove primary argument")
+80e993988b97 ("drm/gma500: Use drm_aperture_remove_conflicting_pci_framebuffers")
+81d2393485f0 ("fbdev/hyperv-fb: Do not set struct fb_info.apertures")

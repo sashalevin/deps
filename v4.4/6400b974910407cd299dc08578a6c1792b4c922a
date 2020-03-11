@@ -1,0 +1,7 @@
+6400b9749104 ("USB: serial: allow hung up ports to be suspended")
+96a83c95c3da ("USB: serial: clean up core error labels")
+d51bdb93ca7e ("USB: serial: fix runtime PM after driver unbind")
+579bebe5dd52 ("USB: serial: fix initial-termios handling")
+79ef51894a8d ("USB: serial: use tty_port_register_device()")
+2944fd27d1c0 ("USB: serial: drop unused core USB driver")
+647024a7df36 ("USB: serial: fix memleak in driver-registration error path")

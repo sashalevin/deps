@@ -1,0 +1,5 @@
+80b18dfa53bb ("ksm: optimize refile of stable_node_dup at the head of the chain")
+0ba1d0f7c41c ("ksm: cleanup stable_node chain collapse case")
+b4fecc67cc56 ("ksm: fix use after free with merge_across_nodes = 0")
+2c653d0ee2ae ("ksm: introduce ksm_max_page_sharing per page deduplication limit")
+e86c59b1b12d ("mm/ksm: improve deduplication of zero pages with colouring")

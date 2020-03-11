@@ -1,0 +1,3 @@
+567511462387 ("mm/memcg: protect memcg_stock with a local_lock_t")
+af9a3b69e84b ("mm/memcg: opencode the inner part of obj_cgroup_uncharge_pages() in drain_obj_stock()")
+fead2b869764 ("mm/memcg: revert ("mm/memcg: optimize user context object stock access")")

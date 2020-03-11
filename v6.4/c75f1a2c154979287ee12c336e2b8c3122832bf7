@@ -1,0 +1,7 @@
+c75f1a2c1549 ("xfs: add a xattr_entry helper")
+e6e5299fcbf0 ("xfs: collapse the ->finish_item helpers")
+3dd75c8db1c1 ("xfs: hoist intent done flag setting to ->finish_item callsite")
+172538beba82 ("xfs: don't set XFS_TRANS_HAS_INTENT_DONE when there's no ATTRD log item")
+07bcbdf020c9 ("xfs: don't leak recovered attri intent items")
+0853b5de42b4 ("xfs: allow extent free intents to be retried")
+b742d7b4f0e0 ("xfs: use deferred frees for btree block freeing")

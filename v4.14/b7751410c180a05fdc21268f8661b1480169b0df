@@ -1,0 +1,7 @@
+b7751410c180 ("device-dax: avoid hang on error before devm_memremap_pages()")
+e8d513483300 ("memremap: change devm_memremap_pages interface to use struct dev_pagemap")
+e7744aa25cff ("memremap: drop private struct page_map")
+832d7aa05110 ("mm: optimize dev_pagemap reference counting around get_dev_pagemap")
+0822acb86cf3 ("mm: move get_dev_pagemap out of line")
+da024512a1fa ("mm: pass the vmem_altmap to arch_remove_memory and __remove_pages")
+24e6d5a59ac7 ("mm: pass the vmem_altmap to arch_add_memory and __add_pages")

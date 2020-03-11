@@ -1,0 +1,4 @@
+c135f401265a ("gpiolib: Get rid of gpio_bus_match() forward declaration")
+1df62542e016 ("gpiolib: Move of_node operations to gpiolib-of and correct fwnode use")
+ced2af419528 ("gpiolib: Don't probe gpio_device if it's not the primary device")
+4731210c09f5 ("gpiolib: Bind gpio_device to a driver to enable fw_devlink=on by default")

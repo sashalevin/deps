@@ -1,0 +1,7 @@
+f83cec3b3a7c ("drm/amdgpu: Disable dpm_enabled flag while VF is in reset")
+ab66c832847f ("drm/amdgpu: trigger flr_work if reading pf2vf data failed")
+83f24a8f0532 ("drm/amdgpu: set sw state to gfxoff after SR-IOV reset")
+d9d86d085fbc ("drm/amdgpu: refine virtualization psp fw skip check")
+947f63f17e1d ("drm/amdgpu: Remove the additional kfd pre reset call for sriov")
+d193b12b2fa6 ("drm/amdgpu: Fix typos in amdgpu_stop_pending_resets")
+247c7b0dac3c ("drm/amdgpu: Stop any pending reset if another in progress.")

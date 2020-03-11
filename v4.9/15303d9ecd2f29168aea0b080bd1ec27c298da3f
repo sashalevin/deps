@@ -1,0 +1,7 @@
+15303d9ecd2f ("xprtrdma: Recognize XDRBUF_SPARSE_PAGES")
+28d9d56f4c77 ("xprtrdma: Remove imul instructions from rpcrdma_convert_iovs()")
+d933cc320190 ("xprtrdma: Replace PAGE_MASK with offset_in_page()")
+16f906d66cd7 ("xprtrdma: Reduce required number of send SGEs")
+b5f0afbea4f2 ("xprtrdma: Per-connection pad optimization")
+24abdf1be15c ("xprtrdma: Fix Read chunk padding")
+5e9fc6a06bba ("xprtrdma: Support for SG_GAP devices")

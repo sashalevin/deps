@@ -1,0 +1,7 @@
+b98e2e728eed ("ARM: KVM: Remove the old world switch")
+b57cd6f6407d ("ARM: KVM: Change kvm_call_hyp return type to unsigned long")
+c2a8dab507ca ("ARM: KVM: Move GP registers into the CPU context structure")
+fb32a52a1d44 ("ARM: KVM: Move CP15 array into the CPU context structure")
+0ca5565df8ef ("ARM: KVM: Move VFP registers to a CPU context structure")
+1a61ae7af4d6 ("ARM: KVM: Move the  HYP code to its own section")
+e078ef815142 ("ARM: KVM: Cleanup exception injection")

@@ -1,0 +1,5 @@
+f9287c3e93f0 ("md/raid5: Don't read ->active_stripes if it's not needed")
+3514da58be9c ("md/raid5: Make is_inactive_blocked() helper")
+5165ed40a1f0 ("md/raid5: Refactor raid5_get_active_stripe()")
+1baa1126e0f6 ("md/raid5: Move common stripe get code into new find_get_stripe() helper")
+c911c46c017c ("md/raid456: convert macro STRIPE_* to RAID5_STRIPE_*")

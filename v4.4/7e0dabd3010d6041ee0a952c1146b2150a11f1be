@@ -1,0 +1,4 @@
+7e0dabd3010d ("x86/mm/pageattr: Introduce helper function to unmap EFI boot services")
+d92fc69ccac4 ("x86/mm: Remove kernel_unmap_pages_in_pgd() and efi_cleanup_page_tables()")
+67a9108ed431 ("x86/efi: Build our own page table structures")
+edc3b9129cec ("x86/mm/pat: Ensure cpa->pfn only contains page frame numbers")

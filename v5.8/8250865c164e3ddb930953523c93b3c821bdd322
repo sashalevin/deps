@@ -1,0 +1,6 @@
+8250865c164e ("evm: call dump_security_xattr() in all cases to remove code duplication")
+87ac3d002d56 ("evm: output EVM digest calculation info")
+cdef685be5b4 ("evm: Allow xattr/attr operations for portable signatures")
+4a804b8a4572 ("evm: Introduce evm_hmac_disabled() to safely ignore verification errors")
+e3ccfe1ad7d8 ("evm: Introduce evm_revalidate_status()")
+455b6c9112ef ("evm: Check size of security.evm before using it")

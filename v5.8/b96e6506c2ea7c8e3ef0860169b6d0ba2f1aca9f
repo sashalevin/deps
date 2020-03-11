@@ -1,0 +1,5 @@
+b96e6506c2ea ("KVM: x86: VMX: Make smaller physical guest address space support user-configurable")
+3edd68399dc1 ("KVM: x86: Add a capability for GUEST_MAXPHYADDR < HOST_MAXPHYADDR support")
+1dbf5d68af6f ("KVM: VMX: Add guest physical address check in EPT violation and misconfig")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")
+1aa561b1a4c0 ("kvm: x86: Add "last CPU" to some KVM_EXIT information")

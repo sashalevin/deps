@@ -1,0 +1,4 @@
+e383a4590233 ("bpf: Use bpf_global_percpu_ma for per-cpu kptr in __bpf_obj_drop_impl()")
+e581a3461de3 ("bpf: Move the declaration of __bpf_obj_drop_impl() to bpf.h")
+7e26cd12ad1c ("bpf: Use bpf_mem_free_rcu when bpf_obj_dropping refcounted nodes")
+cc0d76cafebb ("bpf: Fix __bpf_{list,rbtree}_add's beginning-of-node calculation")

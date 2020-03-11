@@ -1,0 +1,6 @@
+018043be1f1b ("io_uring: split poll and poll_remove structs")
+6ab231448fdc ("io_uring: cancel pending async work if task exits")
+ff002b30181d ("io_uring: grab ->fs as part of async preparation")
+df069d80c8e3 ("io_uring: spin for sq thread to idle on shutdown")
+3e69426da259 ("io_uring: punt even fadvise() WILLNEED to async context")
+896f8d23d0cb ("Merge tag 'for-5.6/io_uring-vfs-2020-01-29' of git://git.kernel.dk/linux-block")

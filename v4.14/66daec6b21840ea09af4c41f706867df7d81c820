@@ -1,0 +1,6 @@
+66daec6b2184 ("drm/i915/gtt: Control cache domain of dma_map_page() directly")
+58174eac1593 ("drm/i915/gtt: Suppress warnings for dma_map_page")
+7fb9ee5db24a ("drm/i915: Simplify guard logic for setup_scratch_page()")
+06ea8c537ab8 ("drm/i915: Silently fallback to 4k scratch")
+aa095871e4a7 ("drm/i915: add support for 64K scratch page")
+66df1014efba ("drm/i915: Keep a small stash of preallocated WC pages")

@@ -1,0 +1,6 @@
+6b87fbe41550 ("ext4: Convert ext4_read_inline_page() to ext4_read_inline_folio()")
+9a9d01f081ea ("ext4: Convert ext4_da_write_inline_data_begin() to use a folio")
+4ed9b598ac30 ("ext4: Convert ext4_da_convert_inline_data_to_extent() to use a folio")
+f8f8c89f59f7 ("ext4: Convert ext4_try_to_write_inline_data() to use a folio")
+83eba701cf6e ("ext4: Convert ext4_convert_inline_data_to_extent() to use a folio")
+3edde93e0795 ("ext4: Convert ext4_readpage_inline() to take a folio")

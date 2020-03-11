@@ -1,0 +1,5 @@
+19248d867bde ("pwm: hibvt: Make use of devm_pwmchip_alloc() function")
+c8cf591113a0 ("pwm: hibvt: Consistently name driver data hi_pwm_chip")
+1b6d6ce5a5f3 ("pwm: hibvt: Convert to platform remove callback returning void")
+04d775210fb9 ("pwm: hibvt: Disable the clock only after the PWM was unregistered")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

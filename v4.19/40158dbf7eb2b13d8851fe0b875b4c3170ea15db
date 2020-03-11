@@ -1,0 +1,8 @@
+40158dbf7eb2 ("Revert "pstore: migrate to crypto acomp interface"")
+e4f0a7ec586b ("pstore: migrate to crypto acomp interface")
+fd49e03280e5 ("pstore: Fix linking when crypto API disabled")
+a9fb94a99bb5 ("pstore: Set tfm to NULL on free_buf_for_compression")
+bdabc8e71c85 ("pstore: Do not use crash buffer for decompression")
+95047b0519c1 ("pstore: Refactor compression initialization")
+416031653eb5 ("pstore: Allocate compression during late_initcall()")
+cb095afd4476 ("pstore: Centralize init/exit routines")

@@ -1,0 +1,8 @@
+341361533011 ("net/mlx5e: kTLS, Use a single async context object per a callback bulk")
+4d78a2ebbd2b ("net/mlx5e: kTLS, Remove unnecessary per-callback completion")
+1f74399fd1ed ("net/mlx5e: kTLS, Remove unused work field")
+6514210b6d0d ("net/mlx5e: kTLS, Use _safe() iterator in mlx5e_tls_priv_tx_list_cleanup()")
+624bf0992133 ("net/mlx5e: kTLS, Dynamically re-size TX recycling pool")
+c4dfe704f53f ("net/mlx5e: kTLS, Recycle objects of device-offloaded TLS TX connections")
+23b1cf1e3fe0 ("net/mlx5e: kTLS, Take stats out of OOO handler")
+0bb7228f7096 ("net/mlx5e: Fix mqprio_rl handling on devlink reload")

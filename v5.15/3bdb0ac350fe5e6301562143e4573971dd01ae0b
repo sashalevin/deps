@@ -1,0 +1,5 @@
+3bdb0ac350fe ("xen/events: remove some simple helpers from events_base.c")
+686464514fbe ("xen/events: reduce externally visible helper functions")
+9e90e58c11b7 ("xen: evtchn: Allow shared registration of IRQ handers")
+073352e951f6 ("genirq: Add and use an irq_data_update_affinity helper")
+961343d78226 ("genirq: Refactor accessors to use irq_data_get_affinity_mask")

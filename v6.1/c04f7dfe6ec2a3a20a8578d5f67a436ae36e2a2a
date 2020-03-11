@@ -1,0 +1,6 @@
+c04f7dfe6ec2 ("ipv6: Fix address dump when IPv6 is disabled on an interface")
+9cc4cc329d30 ("ipv6: use xa_array iterator to implement inet6_dump_addr()")
+46f5182dd792 ("ipv6: make in6_dump_addrs() lockless")
+67ea41d19d2a ("inet6: expand rcu_read_lock() scope in inet6_dump_addr()")
+c3718936ec47 ("ipv6: anycast: complete RCU handling of struct ifacaddr6")
+e898e4cd1aab ("ipv6: properly combine dev_base_seq and ipv6.dev_addr_genid")

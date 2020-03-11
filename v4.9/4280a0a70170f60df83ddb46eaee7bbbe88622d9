@@ -1,0 +1,4 @@
+4280a0a70170 ("scsi: message: fusion: Replace deprecated strncpy() with strscpy_pad()")
+dbe37c71d124 ("scsi: message: fusion: Replace all non-returning strlcpy() with strscpy()")
+7bd1d615a57f ("scsi: mptctl: change strncpy+truncation to strlcpy")
+6f5c592ce936 ("scsi: mptfusion: use strlcpy() instead of strncpy()")

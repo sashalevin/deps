@@ -1,0 +1,5 @@
+a1461f1fd6cf ("rethook: Use __rcu pointer for rethook::handler")
+4bbd93455659 ("kprobes: kretprobe scalability improvement")
+8865aea0471c ("kernel: kprobes: Use struct_size()")
+195b9cb5b288 ("fprobe: Ensure running fprobe_exit_handler() finished before calling rethook_free()")
+5f81018753df ("fprobe: Release rethook after the ftrace_ops is unregistered")

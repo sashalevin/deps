@@ -1,0 +1,8 @@
+80647a89eaf3 ("scsi: target: core: Release SPC-2 reservations when closing a session")
+01d4d6735589 ("target: Fix multi-session dynamic se_node_acl double free OOPs")
+fba81f8831b2 ("target: remove acl_stop")
+bc6e6bb470ed ("target: consolidate and fix session shutdown")
+21aaa23b0ebb ("target: Obtain se_node_acl->acl_kref during get_initiator_node_acl")
+d36ad77f7023 ("target: Convert ACL change queue_depth se_session reference usage")
+26a99c19f810 ("iscsi-target: Fix potential dead-lock during node acl delete")
+dba5ccc7a677 ("target: Remove an unused variable")

@@ -1,0 +1,5 @@
+c08b4848f596 ("riscv: lib: uaccess: fix CSR_STATUS SR_SUM bit")
+9d504f9aa5c1 ("riscv: lib: uaccess: fold fixups into body")
+ca6eaaa210de ("riscv: __asm_copy_to-from_user: Optimize unaligned memory access and pipeline stall")
+4d47ce158efb ("riscv: fix compile failure with EXPORT_SYMBOL() & !MMU")
+a4c3733d32a7 ("riscv: abstract out CSR names for supervisor vs machine mode")

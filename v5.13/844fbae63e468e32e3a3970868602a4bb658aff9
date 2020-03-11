@@ -1,0 +1,4 @@
+844fbae63e46 ("mm: page_isolation: check specified range for unmovable pages")
+b48d8a8e5ce5 ("mm: page_isolation: move has_unmovable_pages() to mm/page_isolation.c")
+e1d8c966dbf1 ("mm/page_isolation: fix potential missing call to unset_migratetype_isolate()")
+859a85ddf90e ("mm: remove pfn_valid_within() and CONFIG_HOLES_IN_ZONE")

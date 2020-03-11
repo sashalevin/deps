@@ -1,0 +1,5 @@
+5fa31af31e72 ("x86/bugs: Rename CONFIG_CALL_DEPTH_TRACKING  => CONFIG_MITIGATION_CALL_DEPTH_TRACKING")
+99ee56c7657f ("x86/calldepth: Rename __x86_return_skl() to call_depth_return_thunk()")
+34a3cae7474c ("x86/srso: Disentangle rethunk-dependent options")
+eb54be26b0d2 ("x86/srso: Unexport untraining functions")
+eeb9f34df065 ("x86/srso: Fix unret validation dependencies")

@@ -1,0 +1,6 @@
+3098e6eca88e ("KVM: x86: Virtualize LAM for user pointer")
+93d1c9f498a7 ("KVM: x86: Virtualize LAM for supervisor pointer")
+b39bd520a60c ("KVM: x86: Untag addresses for LAM emulation where applicable")
+2c49db455ee2 ("KVM: x86: Add & use kvm_vcpu_is_legal_cr3() to check CR3's legality")
+42764413d195 ("KVM: x86: Add a framework for enabling KVM-governed x86 features")
+548bd27428b9 ("KVM: VMX: Use is_64_bit_mode() to check 64-bit mode in SGX handler")

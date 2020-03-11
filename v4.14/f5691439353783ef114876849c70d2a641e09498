@@ -1,0 +1,4 @@
+f56914393537 ("gpio: zynq: fix zynqmp_gpio not an immutable chip warning")
+f6a7053ddcf1 ("gpio: zynq: Pass irqchip when adding gpiochip")
+77bc0e69c3e2 ("gpio: zynq: use devm_platform_ioremap_resource()")
+c2df3de0d07e ("gpio: zynq: properly support runtime PM for GPIO used as interrupts")

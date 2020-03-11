@@ -1,0 +1,8 @@
+123d6455771e ("ftrace: Fix build warning for ops_references_rec() not used")
+53cd885bc5c3 ("ftrace: Allow IPMODIFY and DIRECT ops on the same function")
+2e6e9058d13a ("ftrace/direct: Fix lockup in modify_ftrace_direct_multi")
+ed29271894aa ("ftrace/direct: Do not disable when switching direct callers")
+ccf5a89efd6f ("ftrace: Add multi direct modify interface")
+f64dd4627ec6 ("ftrace: Add multi direct register/unregister interface")
+8a141dd7f706 ("ftrace: Fix modify_ftrace_direct.")
+a25d036d939a ("ftrace: Reverse what the RECURSION flag means in the ftrace_ops")

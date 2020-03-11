@@ -1,0 +1,4 @@
+9c9b26b0df27 ("locking/csd_lock: Change csdlock_debug from early_param to __setup")
+8d0968cc6b8f ("locking/csd_lock: Add boot parameter for controlling CSD lock debugging")
+35feb60474bf ("kernel/smp: Provide CSD lock timeout diagnostics")
+e48c15b796d4 ("smp: Add source and destination CPUs to __call_single_data")

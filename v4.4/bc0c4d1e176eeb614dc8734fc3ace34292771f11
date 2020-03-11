@@ -1,0 +1,5 @@
+bc0c4d1e176e ("mm: check that mm is still valid in madvise()")
+dc0ef0df7b6a ("mm: make mmap_sem for write waits killable for mm syscalls")
+854e9ed09ded ("mm: support madvise(MADV_FREE)")
+d281ee614518 ("rmap: add argument to charge compound page")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

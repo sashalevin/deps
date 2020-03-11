@@ -1,0 +1,6 @@
+db7bbd13f087 ("drm/i915: Check before removing mm notifier")
+ed29c2691188 ("drm/i915: Fix userptr so we do not have to worry about obj->mm.lock, v7.")
+20ee27bd84a8 ("drm/i915: Make compilation of userptr code depend on MMU_NOTIFIER.")
+c6bcc0c2fdfd ("drm/i915: Reject UNSYNCHRONIZED for userptr, v2.")
+02b64a4a0cb1 ("drm/i915: Reject more ioctls for userptr, v2.")
+bfaae47db3c0 ("drm/i915: make lockdep slightly happier about execbuf.")

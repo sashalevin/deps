@@ -1,0 +1,8 @@
+7e897bb7be11 ("thunderbolt: Check that both ports are reachable when allocating path")
+c64c3f3ac63a ("thunderbolt: Make tb_path_alloc() work with tree topologies")
+8c7acaaf020f ("thunderbolt: Extend tunnel creation to more than 2 adjacent switches")
+93f36ade5b7b ("thunderbolt: Generalize tunnel creation functionality")
+1752b9f78713 ("thunderbolt: Rename tunnel_pci to tunnel")
+56183c88f368 ("thunderbolt: Cache adapter specific capability offset into struct port")
+a9be55824a10 ("thunderbolt: Move LC specific functionality into a separate file")
+2cc12751cf46 ("thunderbolt: Fix to check for kmemdup failure")

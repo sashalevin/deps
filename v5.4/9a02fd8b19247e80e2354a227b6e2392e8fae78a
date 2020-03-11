@@ -1,0 +1,8 @@
+9a02fd8b1924 ("x86/ia32_signal: Propagate __user annotation properly")
+57d563c82925 ("x86: ia32_setup_rt_frame(): consolidate uaccess areas")
+44a1d9963259 ("x86: ia32_setup_sigcontext(): lift user_access_{begin,end}() into the callers")
+39f16c1c0f14 ("x86: get rid of put_user_try in {ia32,x32}_setup_rt_frame()")
+d2d2728d161c ("x86: switch ia32_setup_sigcontext() to unsafe_put_user()")
+978727ca331e ("x86: get rid of get_user_ex() in ia32_restore_sigcontext()")
+71c3313a38aa ("x86: switch sigframe sigset handling to explict __get_user()/__put_user()")
+2b10906f2d25 ("x86: Remove force_iret()")

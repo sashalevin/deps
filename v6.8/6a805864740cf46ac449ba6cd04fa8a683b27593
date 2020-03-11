@@ -1,0 +1,4 @@
+6a805864740c ("crypto: x86/aes-xts - simplify loop in xts_crypt_slowpath()")
+751fb2528c12 ("crypto: x86/aes-xts - make non-AVX implementation use new glue code")
+996f4dcbd231 ("crypto: x86/aes-xts - wire up AESNI + AVX implementation")
+d63716881012 ("crypto: x86/aes-xts - add AES-XTS assembly macro for modern CPUs")

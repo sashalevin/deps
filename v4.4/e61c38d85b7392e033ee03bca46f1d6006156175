@@ -1,0 +1,4 @@
+e61c38d85b73 ("serial: imx: setup DCEDTE early and ensure DCD and RI irqs to be off")
+27e16501052e ("serial: imx: implement DSR irq handling for DTE mode")
+16804d68bfaa ("serial: imx: make sure unhandled irqs are disabled")
+4d845a62b3f5 ("serial: imx: let irq handler return IRQ_NONE if no event was handled")

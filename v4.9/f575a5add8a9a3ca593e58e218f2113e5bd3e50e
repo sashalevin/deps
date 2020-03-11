@@ -1,0 +1,8 @@
+f575a5add8a9 ("zram: don't use highmem for the bounce buffer in zram_bvec_{read,write}")
+bd3d3203eb84 ("zram: use memcpy_from_bvec in zram_bvec_write")
+b3bd0a8a74ab ("zram: use memcpy_to_bvec in zram_bvec_read")
+1f7319c74275 ("zram: partial IO refactoring")
+d72e9a7a93e4 ("zram: do not use copy_page with non-page aligned address")
+8e19d540d107 ("zram: extend zero pages to same element pages")
+a09759acaacf ("zram: remove waitqueue for IO done")
+c87d1655c295 ("zram: remove obsolete sysfs attrs")

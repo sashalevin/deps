@@ -1,0 +1,7 @@
+ede6bc88d6bb ("bpf: Use PTR_ERR_OR_ZERO in xsk_map_inc()")
+0402acd683c6 ("xsk: remove AF_XDP socket from map when the socket is released")
+455302d1c9ae ("xdp: fix hang while unregistering device bound to xdp socket")
+01d76b531700 ("xdp: check device pointer before clearing")
+044175a06706 ("xsk: fix umem memory leak on cleanup")
+1d0dc06930a9 ("net: xsk: track AF_XDP sockets on a per-netns list")
+2e2d6f0342be ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

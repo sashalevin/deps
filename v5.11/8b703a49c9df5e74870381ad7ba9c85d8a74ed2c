@@ -1,0 +1,6 @@
+8b703a49c9df ("KVM: x86: Account fastpath-only VM-Exits in vCPU stats")
+de7cd3f6761f ("KVM: x86: check for interrupts before deciding whether to exit the fast path")
+d89d04ab6030 ("KVM: move EXIT_FASTPATH_REENTER_GUEST to common code")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

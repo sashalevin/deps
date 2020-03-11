@@ -1,0 +1,7 @@
+78f636e82b22 ("s390/ap: Fix CCA crypto card behavior within protected execution environment")
+207022d39d3b ("s390/ap: handle outband SE bind state change")
+d4c53ae8e494 ("s390/ap: store TAPQ hwinfo in struct ap_card")
+5cf1a563a328 ("s390/ap: fix vanishing crypto cards in SE environment")
+01c89ab7f81b ("s390/ap: rework to use irq info from ap queue status")
+a19a161482b1 ("s390/zcrypt: introduce new internal AP queue se_bound attribute")
+5ac8c72462cd ("s390/zcrypt: remove CEX2 and CEX3 device drivers")

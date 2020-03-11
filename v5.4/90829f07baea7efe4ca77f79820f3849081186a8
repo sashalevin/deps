@@ -1,0 +1,5 @@
+90829f07baea ("net: qrtr: Release distant nodes along the bridge node")
+f7dec6cb914c ("net: qrtr: Add GFP flags parameter to qrtr_alloc_ctrl_packet")
+0a7e0d0ef054 ("net: qrtr: Migrate node lookup tree to spinlock")
+5fdeb0d372ab ("net: qrtr: Implement outgoing flow control")
+cb6530b99faf ("net: qrtr: Move resume-tx transmission to recvmsg")

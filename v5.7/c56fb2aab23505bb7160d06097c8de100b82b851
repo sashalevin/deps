@@ -1,0 +1,8 @@
+c56fb2aab235 ("riscv, bpf: Fix inconsistent JIT image generation")
+3cb70413041f ("bpf, riscv: Support riscv jit to provide bpf_line_info")
+fc8504765ec5 ("riscv: bpf: Avoid breaking W^X")
+1d27d854425f ("riscv: bpf: Move bpf_jit_alloc_exec() and bpf_jit_free_exec() to core")
+bfabff3cb0fe ("bpf, riscv: Modify JIT ctx to support compressed instructions")
+073ca6a0369e ("bpf, riscv: Optimize BPF_JSET BPF_K using andi on RV64")
+ca349a6a104e ("bpf, riscv: Optimize BPF_JMP BPF_K when imm == 0 on RV64")
+745abfaa9eaf ("bpf, riscv: Fix tail call count off by one in RV32 BPF JIT")

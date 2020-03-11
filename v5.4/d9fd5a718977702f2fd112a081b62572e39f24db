@@ -1,0 +1,8 @@
+d9fd5a718977 ("perf tools: Generate mips syscalls_n64.c syscall table")
+b5f184fbdb03 ("perf tools: Support MIPS unwinding and dwarf-regs")
+22ffc3f5598d ("perf s390: Move syscall.tbl check into check-headers.sh")
+9bad32b2c63c ("perf powerpc: Move syscall.tbl check to check-headers.sh")
+43de3869b516 ("perf build: Allow explicitely disabling the NO_SYSCALL_TABLE variable")
+9b90d9734ab7 ("perf build: Group the NO_SYSCALL_TABLE logic")
+7b65e2034fde ("perf tools: Allow to link with libbpf dynamicaly")
+bb91a073ed12 ("perf tools: Allow to build with -ltcmalloc")

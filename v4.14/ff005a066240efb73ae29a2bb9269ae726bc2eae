@@ -1,0 +1,7 @@
+ff005a066240 ("block: sanitize blk_get_request calling conventions")
+ac613e4566f9 ("scsi/osd: remove the gfp argument to osd_start_request")
+17cb960f29c2 ("bsg: split handling of SCSI CDBs vs transport requeues")
+ef6fa64f9b8e ("bsg-lib: remove bsg_job.req")
+31156ec378c2 ("bsg-lib: introduce a timeout field in struct bsg_job")
+8b904b5b6b58 ("block: Use blk_queue_flag_*() in drivers instead of queue_flag_*()")
+0be600a5add7 ("Merge tag 'for-4.16/dm-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

@@ -1,0 +1,5 @@
+3ecc8cb7c092 ("firmware: fix theoretical UAF race with firmware cache and resume")
+89287c169f8f ("firmware: Store opt_flags in fw_priv")
+c2c076166b58 ("firmware_loader: change enum fw_opt to u32")
+e4c2c0ff00ec ("firmware: Add new platform fallback mechanism and firmware_request_platform()")
+85db1cde8253 ("firmware: Rename FW_OPT_NOFALLBACK to FW_OPT_NOFALLBACK_SYSFS")

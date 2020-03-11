@@ -1,0 +1,4 @@
+9409c9b6709e ("pmem: refactor pmem_clear_poison()")
+5898b43af954 ("mce: fix set_mce_nospec to always unmap the whole page")
+b3fdf9398a16 ("x86/mce: relocate set{clear}_mce_nospec() functions")
+03b122da74b2 ("x86/sgx: Hook arch_memory_failure() into mainline code")

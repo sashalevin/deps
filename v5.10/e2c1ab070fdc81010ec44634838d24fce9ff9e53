@@ -1,0 +1,5 @@
+e2c1ab070fdc ("mm: memory-failure: fix unexpected return value in soft_offline_page()")
+7adb45887c8a ("mm: memory-failure: kill soft_offline_free_page()")
+2a57d83c78f8 ("mm/hwpoison: clear MF_COUNT_INCREASED before retrying get_any_page()")
+dad4e5b39086 ("mm: fix page reference leak in soft_offline_page()")
+8295d535e2aa ("mm,hwpoison: refactor get_any_page")

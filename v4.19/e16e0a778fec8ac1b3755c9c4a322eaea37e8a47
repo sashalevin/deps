@@ -1,0 +1,5 @@
+e16e0a778fec ("iio: buffer: split buffer sysfs creation to take buffer as primary arg")
+96144d43fd01 ("iio: buffer: remove attrcount_orig var from sysfs creation")
+ff3f7e049aef ("iio: buffer: extend short-hand use for 'indio_dev->buffer'")
+2e036804d773 ("iio: buffer: remove 'scan_el_attrs' attribute group from buffer struct")
+3862828a903d ("iio: buffer: Switch to bitmap_zalloc()")

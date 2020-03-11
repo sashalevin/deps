@@ -1,0 +1,7 @@
+2af4b918848b ("serial: imx: refine local variables in rxint()")
+53701b6d2ce7 ("serial: imx: stop using USR2 in FIFO reading loop")
+0fbca4798af8 ("serial: imx: remove redundant USR2 read from FIFO reading loop")
+fbf971701d03 ("serial: imx: do not break from FIFO reading loop prematurely")
+e1c6a7e5f87d ("serial: imx: do not sysrq broken chars")
+496a4471b7c3 ("serial: imx: work-around for hardware RX flood")
+d45fb2e430e5 ("serial: imx: factor-out common code to imx_uart_soft_reset()")

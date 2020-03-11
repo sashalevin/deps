@@ -1,0 +1,8 @@
+1268c33382fa ("asm-generic: add a flush_icache_user_range stub")
+4f0bd808134d ("asm-generic/nds32: don't redefine cacheflush primitives")
+c296d4dc13ae ("asm-generic: fix a compilation warning")
+f706abf188a8 ("nds32: To implement these icache invalidation APIs since nds32 cores don't snoop data cache. This issue is found by Guo Ren. Based on the Documentation/core-api/cachetlb.rst and it says:")
+e3f462438873 ("nds32: Fix the symbols undefined issue by exporting them.")
+03969d0b3a3f ("nds32: Fix xfs_buf built failed by export invalidate_kernel_vmap_range and flush_kernel_vmap_range")
+b93b016313b3 ("page cache: use xa_lock")
+9f3a0941fb5e ("Merge tag 'libnvdimm-for-4.17' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

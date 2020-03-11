@@ -1,0 +1,5 @@
+bf9b7554f46c ("scsi: be2iscsi: Remove redundant iscsi_wrb desc memset")
+e1f9d31eb327 ("scsi: be2iscsi: Fix bad WRB index error")
+f64d92e66520 ("be2iscsi: Add lock to protect WRB alloc and free")
+10139fe0212e ("be2iscsi: _bh for io_sgl_lock and mgmt_sgl_lock")
+cb564c6b4498 ("be2iscsi: Fix WRB leak in login/logout path")

@@ -1,0 +1,7 @@
+e372843a407d ("xfs: refactor xfs_setfilesize")
+fa8d972d055c ("xfs: direct calls in the direct I/O path")
+f1285ff0acf9 ("xfs: stop using generic_file_read_iter for direct I/O")
+bbc5a740c4f2 ("xfs: split xfs_file_read_iter into buffered and direct I/O helpers")
+cf810712cc82 ("xfs: remove s_maxbytes enforcement in xfs_file_read_iter")
+3176c3e0ef32 ("xfs: kill ioflags")
+0b9210c9c86e ("Merge tag 'xfs-for-linus-4.7-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/dgc/linux-xfs")

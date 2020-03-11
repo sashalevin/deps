@@ -1,0 +1,5 @@
+08dca7a8e73a ("KVM: x86/pmu: Replace pmc_perf_hw_id() with perf_get_hw_event_config()")
+1921f3aa9263 ("KVM: x86: Use static calls to reduce kvm_pmu_ops overhead")
+8f969c0c3443 ("KVM: x86: Copy kvm_pmu_ops by value to eliminate layer of indirection")
+fdc298da8661 ("KVM: x86: Move kvm_ops_static_call_update() to x86.c")
+925088781eed ("KVM: x86: Fix pointer mistmatch warning when patching RET0 static calls")

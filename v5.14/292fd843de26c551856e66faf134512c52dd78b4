@@ -1,0 +1,7 @@
+292fd843de26 ("cgroup/cpuset: Fix partition root's cpuset.cpus update bug")
+7a2127e66a00 ("cpuset: Call set_cpus_allowed_ptr() with appropriate mask for task")
+f0af1bfc27b5 ("cgroup/cpuset: Relax constraints to partition & cpus changes")
+e2d59900d936 ("cgroup/cpuset: Allow no-task partition to have empty cpuset.cpus.effective")
+18065ebe9b33 ("cgroup/cpuset: Miscellaneous cleanups & add helper functions")
+ec5fbdfb99d1 ("cgroup/cpuset: Enable update_tasks_cpumask() on top_cpuset")
+2fce7ea0e096 ("Merge branch 'for-5.18' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

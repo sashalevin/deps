@@ -1,0 +1,5 @@
+319a7827df97 ("bnxt_en: Prevent kernel panic when receiving unexpected PHC_UPDATE event")
+2b156fb57d8f ("bnxt_en: Initiallize bp->ptp_lock first before using it")
+8bcf6f04d4a5 ("bnxt_en: Handle async event when the PHC is updated in RTC mode")
+24ac1ecd5240 ("bnxt_en: Add driver support to use Real Time Counter for PTP")
+740c342e3999 ("bnxt_en: PTP: Refactor PTP initialization functions")

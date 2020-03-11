@@ -1,0 +1,6 @@
+bf181c582588 ("mm/hwpoison: fix unpoison_memory()")
+91d005479e06 ("mm/hwpoison: mf_mutex for soft offline and unpoison")
+0ed950d1f281 ("mm,hwpoison: make get_hwpoison_page() call get_any_page()")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")
+25182f05ffed ("mm,hwpoison: fix race with hugetlb page allocation")
+bac9c6fa1f92 ("mm/page_alloc: fix counting of free pages after take off from buddy")

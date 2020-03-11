@@ -1,0 +1,5 @@
+097691dbadcd ("dlm: convert ls_waiters_mutex to spinlock")
+6b52ea791603 ("dlm: drop mutex use in waiters recovery")
+c53309b912fd ("dlm: add comments about forced waiters reset")
+484b4f90c28f ("dlm: revert atomic_t lkb_wait_count")
+75a7d60134ce ("fs: dlm: handle lkb wait count as atomic_t")

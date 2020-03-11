@@ -1,0 +1,8 @@
+fc0c77fcbfb7 ("drm/v3d: fix a NULL vs error pointer mixup")
+40609d4820b2 ("drm/v3d: Use the new shmem helpers to reduce driver boilerplate.")
+a83e47e421ec ("drm/v3d: Remove some dead members of struct v3d_bo.")
+8d668309769d ("drm: v3d: Switch to use drm_gem_object reservation_object")
+cc3f60cfd4f2 ("drm/v3d: Fix BO stats accounting for dma-buf-imported buffers.")
+62d1a7528749 ("drm/v3d: Fix prime imports of buffers from other drivers.")
+1584f16ca96e ("drm/v3d: Add support for submitting jobs to the TFU.")
+61647c77cb15 ("Merge tag 'drm-misc-next-2018-11-28' of git://anongit.freedesktop.org/drm/drm-misc into drm-next")

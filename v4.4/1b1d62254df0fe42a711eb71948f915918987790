@@ -1,0 +1,6 @@
+1b1d62254df0 ("sched/core: Add missing update_rq_clock() call in sched_move_task()")
+ea86cb4b7621 ("sched/cgroup: Fix cpu_cgroup_fork() handling")
+eb58075149b7 ("sched/core: Introduce 'struct rq_flags'")
+3e71a462dd48 ("sched/core: Move task_rq_lock() out of line")
+ff77e4685359 ("sched/rt: Fix PI handling vs. sched_setscheduler()")
+b53202e63089 ("cgroup: kill cgrp_ss_priv[CGROUP_CANFORK_COUNT] and friends")

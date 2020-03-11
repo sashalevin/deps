@@ -1,0 +1,4 @@
+f02ab08afbe7 ("arm64: hugetlb: Fix huge_pte_offset to return poisoned page table entries")
+ab4db1f2244d ("arm64: Replace hard-coded values in the pmd/pud_bad() macros")
+05ee26d9e7e2 ("arch/arm64/include/asm/pgtable.h: add pmd_mkclean for THP")
+66b3923a1a0f ("arm64: hugetlb: add support for PTE contiguous bit")

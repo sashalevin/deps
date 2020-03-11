@@ -1,0 +1,3 @@
+3e813d61401a ("net: gemini: Clean up phy registration")
+eb0f3bc463d5 ("net: gemini: Fix another missing clk_disable_unprepare() in probe")
+cf96d977381d ("net: gemini: Fix missing free_netdev() in error path of gemini_ethernet_port_probe()")

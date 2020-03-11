@@ -1,0 +1,4 @@
+ba52e7571878 ("power: supply: bq24190_charger: Handle fault before status on interrupt")
+68abfb801583 ("power: supply: bq24190_charger: Don't read fault register outside irq_handle_thread()")
+2d9fee6a42ea ("power: supply: bq24190_charger: Call power_supply_changed() for relevant component")
+e05ad7e0741c ("power: supply: bq24190_charger: Call set_mode_host() on pm_resume()")

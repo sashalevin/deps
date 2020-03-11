@@ -1,0 +1,6 @@
+5e0cf5e6c43b ("iscsi-target: Always wait for kthread_should_stop() before kthread exit")
+e8205cca0abd ("iscsi-target: split iscsi_target_rx_thread()")
+187e84f7c2e4 ("iscsi-target: add void (*iscsit_get_rx_pdu)()")
+7ec811a8e9c3 ("iscsi-target: add void (*iscsit_release_cmd)()")
+2854bb23cd5b ("iscsi-target: add int (*iscsit_xmit_pdu)()")
+69110e3cedbb ("iscsi-target: Use shash and ahash")

@@ -1,0 +1,7 @@
+ee69c92bac61 ("KVM: x86: Return bool instead of int for CR4 and SREGS validity checks")
+c2fe3cd4604a ("KVM: x86: Move vendor CR4 validity check to dedicated kvm_x86_ops hook")
+a447e38a7fad ("KVM: VMX: Drop explicit 'nested' check from vmx_set_cr4()")
+d3a9e4146a6f ("KVM: VMX: Drop guest CPUID check for VMXE in vmx_set_cr4()")
+72f211ecaa80 ("KVM: x86: allow kvm_x86_ops.set_efer to return an error value")
+0dd16b5b0c9b ("KVM: nSVM: rename nested vmcb to vmcb12")
+bf3c0e5e7102 ("Merge branch 'x86-seves-for-paolo' of https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip into HEAD")

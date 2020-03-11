@@ -1,0 +1,3 @@
+a4837980fd9f ("net: revert default NAPI poll timeout to 2 jiffies")
+7acf8a1e8a28 ("Replace 2 jiffies with sysctl netdev_budget_usecs to enable softirq tuning")
+3d48b53fb2ae ("net: dev_weight: TX/RX orthogonality")

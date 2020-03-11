@@ -1,0 +1,7 @@
+9713a6706789 ("block/blk-rq-qos: delete useless enmu RQ_QOS_IOPRIO")
+556910e39249 ("block: Introduce the ioprio rq-qos policy")
+fb44023e7022 ("block/blk-rq-qos: Move a function from a header file into a C file")
+19688d7f9592 ("block/blk-cgroup: Swap the blk_throtl_init() and blk_iolatency_init() calls")
+5f6776ba413c ("block/Kconfig: Make the BLK_WBT and BLK_WBT_MQ entries consecutive")
+339b5a25c28c ("blk-wbt: Remove obsolete multiqueue I/O scheduling comment")
+27029b4b18aa ("blkcg: fix memleak for iolatency")

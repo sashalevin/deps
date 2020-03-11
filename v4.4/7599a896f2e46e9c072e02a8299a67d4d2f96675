@@ -1,0 +1,5 @@
+7599a896f2e4 ("audit: Move audit_log_task declaration under CONFIG_AUDITSYSCALL")
+94b9d9b7a14c ("audit: remove path param from link denied function")
+f7b53637c090 ("Audit: remove unused audit_log_secctx function")
+8bd107633b64 ("audit_log_{name,link_denied}: constify struct path")
+96368701e1c8 ("audit: force seccomp event logging to honor the audit_enabled flag")

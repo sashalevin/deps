@@ -1,0 +1,8 @@
+c4718308d777 ("watchdog: da9063: Make use of pre-configured timeout during probe")
+280ce5c00661 ("watchdog: da9063_wdt: parse DT for timeout value, too")
+865802917f7c ("watchdog: da9063_wdt: Use 'dev' instead of dereferencing it repeatedly")
+16a7eec2fcd0 ("watchdog: da9063: remove duplicated timeout_to_sel calls")
+6f4cedb7b4c3 ("watchdog: da9063: rename helper function to avoid misunderstandings")
+be9e9c2ad52b ("watchdog: da9063: Fix timeout handling during probe")
+44ee54aabfdb ("watchdog: da9063: Fix updating timeout value")
+e46bb55dbc94 ("watchdog: da9063: Fix setting/changing timeout")

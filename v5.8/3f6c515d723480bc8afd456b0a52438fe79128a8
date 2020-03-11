@@ -1,0 +1,4 @@
+3f6c515d7234 ("MIPS: vmlinux.lds.S: Fix appended dtb not properly aligned")
+6654111c893f ("MIPS: vmlinux.lds.S: align raw appended dtb to 8 bytes")
+7a05293af39f ("MIPS: boot/compressed: Copy DTB to aligned address")
+4d4f9c1a17a3 ("MIPS: boot: Fix unaligned access with CONFIG_MIPS_RAW_APPENDED_DTB")

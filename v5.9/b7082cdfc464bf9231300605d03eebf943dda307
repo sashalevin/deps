@@ -1,0 +1,6 @@
+b7082cdfc464 ("clocksource: Suspend the watchdog temporarily when high read latency detected")
+c86ff8c55b8a ("clocksource: Avoid accidental unstable marking of clocksources")
+2e27e793e280 ("clocksource: Reduce clocksource-skew threshold")
+7560c02bdffb ("clocksource: Check per-CPU clock synchronization when marked unstable")
+db3a34e17433 ("clocksource: Retry clock read if long delays detected")
+0a4bb5e5507a ("x86/fpu: Allow multiple bits in clearcpuid= parameter")

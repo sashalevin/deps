@@ -1,0 +1,7 @@
+0f21a9574b1d ("io_uring: Avoid anonymous enums in io_uring uapi")
+8e9fad0e70b7 ("io_uring: Add io_uring command support for sockets")
+293007b03341 ("io_uring: make io_uring_sqe_cmd() unconditionally available")
+c56e022c0a27 ("io_uring: add support for user mapped provided buffer ring")
+81cf17cd3ab3 ("io_uring/kbuf: rename struct io_uring_buf_reg 'pad' to'flags'")
+25a2c188a0a0 ("io_uring/kbuf: add buffer_list->is_mapped member")
+ba56b63242d1 ("io_uring/kbuf: move pinning of provided buffer ring into helper")

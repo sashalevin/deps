@@ -1,0 +1,5 @@
+202798db9570 ("Bluetooth: hci_serdev: Only unregister device if it was registered")
+7cf7846d27bf ("Bluetooth: hci_serdev: clear HCI_UART_PROTO_READY to avoid closing proto races")
+c34dc3bfa764 ("Bluetooth: hci_serdev: Introduce hci_uart_unregister_device()")
+081f36a8c2e0 ("Bluetooth: hci_serdev: allow modular drivers")
+82f5169bf3d3 ("Bluetooth: hci_uart: add serdev driver support library")

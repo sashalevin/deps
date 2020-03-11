@@ -1,0 +1,5 @@
+88c6d50f649b ("crypto: arm64/aes-ccm - Keep NEON enabled during skcipher walk")
+f722002441a1 ("crypto: arm64/aes-ccm - Revert "Rewrite skcipher walker loop"")
+57ead1bf1c54 ("crypto: arm64/aes-ccm - Rewrite skcipher walker loop")
+741691c44606 ("crypto: arm64/aes-ccm - reduce NEON begin/end calls for common case")
+b3482635e5d6 ("crypto: arm64/aes-ccm - remove non-SIMD fallback path")

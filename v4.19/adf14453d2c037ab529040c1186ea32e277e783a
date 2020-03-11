@@ -1,0 +1,6 @@
+adf14453d2c0 ("irqchip/gic-v3: Ensure pseudo-NMIs have an ISB between ack and handling")
+f32c926651dc ("irqchip/gic-v3: Handle pseudo-NMIs")
+3f1f3234bc2d ("irqchip/gic-v3: Switch to PMR masking before calling IRQ handler")
+9c8114c20d18 ("irqchip/gic-v3: Add quirk for msm8996 broken registers")
+f70fdb42a095 ("irqchip/gic: Add support to device tree based quirks")
+342677d70ab9 ("irqchip/gic-v3: Remove acknowledge loop")

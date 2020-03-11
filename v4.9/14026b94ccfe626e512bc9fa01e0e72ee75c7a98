@@ -1,0 +1,8 @@
+14026b94ccfe ("signal: Add unsafe_put_compat_sigset()")
+c679a08983db ("syscalls: sort syscall prototypes in include/linux/compat.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+fde9fc766e96 ("signals: Move put_compat_sigset to compat.h to silence hardened usercopy")
+3968cf623892 ("get_compat_sigset()")
+b8e8e1aa9f14 ("get rid of {get,put}_compat_itimerspec()")
+f454322efbf6 ("signal: replace sigset_to_compat() with put_compat_sigset()")
+6c51e67b64d1 ("Merge branch 'x86-syscall-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

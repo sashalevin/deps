@@ -1,0 +1,7 @@
+91edf63d5022 ("usb: chipidea: msm: Ensure proper controller reset using role switch API")
+47654a162081 ("usb: chipidea: msm: Restore wrapper settings after reset")
+2fc305be364e ("usb: chipidea: msm: Mux over secondary phy at the right time")
+e9f15a71f17b ("usb: chipidea: msm: Add proper clk and reset support")
+ee33f6e70b9e ("usb: chipidea: msm: Use hw_write_id_reg() instead of writel")
+dd3749099cfa ("usb: chipidea: msm: Rely on core to override AHBBURST")
+5ce7d27d5c4d ("usb: chipidea: msm: Use posted data writes on AHB")

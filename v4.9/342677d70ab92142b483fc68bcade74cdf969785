@@ -1,0 +1,4 @@
+342677d70ab9 ("irqchip/gic-v3: Remove acknowledge loop")
+d01d327406d9 ("irqchip/gic: Update supports_deactivate static key to modern api")
+d33a3c8c48c3 ("KVM: arm/arm64: Check that system supports split eoi/deactivate")
+39a06b67c2c1 ("irqchip/gic: Ensure we have an ISB between ack and ->handle_irq")

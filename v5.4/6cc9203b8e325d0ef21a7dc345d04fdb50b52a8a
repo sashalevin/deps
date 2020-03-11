@@ -1,0 +1,7 @@
+6cc9203b8e32 ("arch/arm64: Add ARCH_HAS_NMI_SAFE_THIS_CPU_OPS Kconfig option")
+0ebeea8ca8a4 ("bpf: Restrict bpf_probe_read{, str}() only to archs where they work")
+6ae08ae3dea2 ("bpf: Add probe_read_{user, kernel} and probe_read_{user, kernel}_str helpers")
+a7658e1a4164 ("bpf: Check types of arguments passed into helpers")
+9e15db66136a ("bpf: Implement accurate raw_tp context access via BTF")
+8580ac9404f6 ("bpf: Process in-kernel BTF")
+a23740ec43ba ("bpf: Track contents of read-only maps as scalars")

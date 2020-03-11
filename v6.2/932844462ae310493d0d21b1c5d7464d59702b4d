@@ -1,0 +1,5 @@
+932844462ae3 ("KVM: x86/mmu: Don't bounce through page-track mechanism for guest PTEs")
+eeb87272a364 ("KVM: x86/mmu: Don't rely on page-track mechanism to flush on memslot change")
+db0d70e61082 ("KVM: x86/mmu: Move kvm_arch_flush_shadow_{all,memslot}() to mmu.c")
+09732d2b4dc5 ("KVM: x86/mmu: Move TDP MMU VM init/uninit behind tdp_mmu_enabled")
+1f98f2bd8ec4 ("KVM: x86/mmu: Change tdp_mmu to a read-only parameter")

@@ -1,0 +1,5 @@
+2ce7b7f6704c ("pwm: bcm2835: Simplify using devm functions")
+c49670108b76 ("pwm: bcm2835: Convert to platform remove callback returning void")
+3c817469a53d ("pwm: bcm2835: Free resources only after pwmchip_remove()")
+85a5745f17b8 ("pwm: bcm2835: Simplify with dev_err_probe()")
+9e3ca01f7e58 ("pwm: bcm2835: Suppress error message during deferred probe")

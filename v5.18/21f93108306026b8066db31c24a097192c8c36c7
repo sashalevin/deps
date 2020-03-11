@@ -1,0 +1,3 @@
+21f931083060 ("exec: Avoid pathological argc, envc, and bprm->p values")
+084ebf7ca83e ("execve: Keep bprm->argmin behind CONFIG_MMU")
+60371f43e56b ("exec: Add KUnit test for bprm_stack_limits()")

@@ -1,0 +1,7 @@
+973b9e373306 ("arm64: mte: move register initialization to C")
+e921da6bc7ca ("arm64/mm: Consolidate TCR_EL1 fields")
+7a062ce31807 ("arm64/cpufeature: Optionally disable MTE via command-line")
+82868247897b ("arm64: kasan: mte: use a constant kernel GCR_EL1 value")
+d914b80a8f56 ("arm64: avoid double ISB on kernel entry")
+59f44069e052 ("arm64: mte: fix restoration of GCR_EL1 from suspend")
+fdceddb06a5f ("Merge branch 'for-next/mte' into for-next/core")

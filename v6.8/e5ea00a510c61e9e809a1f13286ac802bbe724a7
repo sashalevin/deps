@@ -1,0 +1,7 @@
+e5ea00a510c6 ("nvme: don't query identify data in configure_metadata")
+c6fce9f12764 ("nvme: split out a nvme_identify_ns_nvm helper")
+46e7422cda84 ("nvme: move common logic into nvme_update_ns_info")
+d60c23e4552b ("nvme: move setting the write cache flags out of nvme_set_queue_limits")
+8f03cfa117e0 ("nvme: don't use nvme_update_disk_info for the multipath disk")
+152694c82950 ("nvme: set max_hw_sectors unconditionally")
+921e81db524d ("nvme: allow integrity when PI is not in first bytes")

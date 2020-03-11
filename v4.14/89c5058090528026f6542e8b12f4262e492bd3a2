@@ -1,0 +1,8 @@
+89c505809052 ("KVM: SVM: Add support for KVM_SEV_LAUNCH_UPDATE_DATA command")
+59414c989220 ("KVM: SVM: Add support for KVM_SEV_LAUNCH_START command")
+1654efcbc431 ("KVM: SVM: Add KVM_SEV_INIT command")
+e9df09428996 ("KVM: SVM: Add sev module_param")
+ed3cd233f807 ("KVM: SVM: Reserve ASID range for SEV guest")
+4faefff3241e ("KVM: SVM: Prepare to reserve asid for SEV guest")
+cc3d967f7e32 ("KVM: SVM: detect opening of SMI window using STGI intercept")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

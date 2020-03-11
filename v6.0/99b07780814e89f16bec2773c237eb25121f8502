@@ -1,0 +1,7 @@
+99b07780814e ("rnbd-srv: replace sess->open_flags with a "bool readonly"")
+f7de4886fe8f ("rnbd-srv: remove struct rnbd_dev")
+6856b194b29f ("rnbd-srv: remove rnbd_dev_{open,close}")
+2ecaa58104c7 ("rnbd-srv: remove rnbd_endio")
+9ad1532060d9 ("rnbd-srv: simplify rnbd_srv_fill_msg_open_rsp")
+8807707df7ef ("rnbd-srv: remove redundant setting of blk_open_flags")
+74e237b6e742 ("block/rnbd-srv: Add event tracing support")

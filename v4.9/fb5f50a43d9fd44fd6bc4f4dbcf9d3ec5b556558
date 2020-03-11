@@ -1,0 +1,8 @@
+fb5f50a43d9f ("iommu/vt-d: Fix to convert mm pfn to dma pfn")
+c95a9c278df8 ("iommu/vt-d: Remove unused dma_to_mm_pfn function")
+405a43cc0047 ("iommu/vt-d: Remove set but not used variable")
+2a2b8eaa5b25 ("iommu: Handle freelists when using deferred flushing in iommu drivers")
+b34e9b0de3c4 ("iommu/dma: Handle init_iova_flush_queue() failure in dma-iommu path")
+aae4c8e27bd7 ("iommu: Rename iommu_tlb_* functions to iommu_iotlb_*")
+48f0bcfb7aad ("iommu/vt-d: Fix misuse of iommu_domain_identity_map()")
+cc69fc486170 ("Merge branches 'arm/msm', 'arm/allwinner', 'arm/smmu', 'x86/vt-d', 'hyper-v', 'core' and 'x86/amd' into next")

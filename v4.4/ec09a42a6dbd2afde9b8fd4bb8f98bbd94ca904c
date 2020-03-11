@@ -1,0 +1,5 @@
+ec09a42a6dbd ("perf cpumap: Convert cpu_map.refcnt from atomic_t to refcount_t")
+f77b57ad4fc4 ("perf cpu_map: Add cpu_map__new_event function")
+6c872901af07 ("perf cpu_map: Add cpu_map event synthesize function")
+99471c967a00 ("perf thread_map: Add thread_map event sythesize function")
+721a1f53df6a ("perf tests: Pass the subtest index to each test routine")

@@ -1,0 +1,6 @@
+4b2543f7e1e6 ("efi: libstub: only free priv.runtime_map when allocated")
+4fc8e738ff3e ("efi: libstub: remove DT dependency from generic stub")
+f4dc7fffa987 ("efi: libstub: unify initrd loading between architectures")
+f80d26043af9 ("efi: libstub: avoid efi_get_memory_map() for allocating the virt map")
+122741898934 ("efi: Save location of EFI confidential computing area")
+a031651ff214 ("efi: Allow to enable EFI runtime services by default on RT")

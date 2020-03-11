@@ -1,0 +1,5 @@
+fa1f51162338 ("locking: Make rwsem_assert_held_write_nolockdep() build with PREEMPT_RT=y")
+f70405afc99b ("locking: Add rwsem_assert_held() and rwsem_assert_held_write()")
+42254105dfe8 ("locking/rwsem: Add rtmutex based R/W semaphore implementation")
+943f0edb754f ("locking/rt: Add base code for RT rw_semaphore and rwlock")
+a9232dc5607d ("rwsem: fix commas in initialisation")

@@ -1,0 +1,8 @@
+bd97615a3316 ("fbdev: efifb: Use driver-private screen_info for sysfs")
+784e27f28118 ("fbdev/efifb: Do not track parent device status")
+b9cfd1d271ab ("fbdev/efifb: Use screen_info pointer from device")
+8505e70821ad ("fbdev/efifb: Replace references to global screen_info by local pointer")
+bdde97ac4bea ("Revert "fbdev: Prevent probing generic drivers if a FB is already registered"")
+fb561bf9abde ("fbdev: Prevent probing generic drivers if a FB is already registered")
+55285e21f045 ("fbdev/efifb: Release PCI device's runtime PM ref during FB destroy")
+86925b9f5203 ("video: fbdev: efifb: Fix set but not used warning for screen_pitch")

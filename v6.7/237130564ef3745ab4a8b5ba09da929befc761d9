@@ -1,0 +1,7 @@
+237130564ef3 ("xfs: cleanup the calling convention for xfs_rtpick_extent")
+a3e48f68b5f4 ("xfs: cleanup picking the start extent hint in xfs_bmap_rtalloc")
+db8616e2765a ("xfs: reflow the tail end of xfs_bmap_rtalloc")
+ce42b5d37527 ("xfs: return -ENOSPC from xfs_rtallocate_*")
+152e21235727 ("xfs: move xfs_bmap_rtalloc to xfs_rtalloc.c")
+58643460546d ("xfs: also use xfs_bmap_btalloc_accounting for RT allocations")
+eef519d746bb ("xfs: remove the xfs_alloc_arg argument to xfs_bmap_btalloc_accounting")

@@ -1,0 +1,6 @@
+bd93a3af82d5 ("mtd: nand: omap2: return error code of nand_scan_ident/tail() on error")
+01b95fc6b299 ("mtd: nand: omap: Copy platform data parameters to omap_nand_info data")
+432420c0fc8d ("mtd: nand: omap2: use the mtd instance embedded in struct nand_chip")
+4578ea9a9989 ("mtd: nand: omap2: create and use mtd_to_omap()")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")

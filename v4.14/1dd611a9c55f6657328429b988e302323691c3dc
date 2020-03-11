@@ -1,0 +1,5 @@
+1dd611a9c55f ("mmc: core: Switch to basic workqueue API for sdio_irq_work")
+51133850bce2 ("mmc: core: Fixup processing of SDIO IRQs during system suspend/resume")
+2c32dbbb5fc0 ("mmc: core: Clarify that the ->ack_sdio_irq() callback is mandatory")
+36d57efb4af5 ("mmc: core: Clarify sdio_irq_pending flag for MMC_CAP2_SDIO_IRQ_NOTHREAD")
+83293386bc95 ("mmc: core: Prevent processing SDIO IRQs when the card is suspended")

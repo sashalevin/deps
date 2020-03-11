@@ -1,0 +1,5 @@
+fb74e4fa524d ("leds: aw2013: Use devm API to cleanup module's resources")
+6969d0a2ba1a ("leds: aw2013: Unlock mutex before destroying it")
+d9ff8a8eecf8 ("leds: Switch i2c drivers back to use .probe()")
+8325642d2757 ("leds: bd2606mvv: Driver for the Rohm 6 Channel i2c LED driver")
+2c6aaf88a265 ("leds: pca963x: Convert to i2c's .probe_new()")

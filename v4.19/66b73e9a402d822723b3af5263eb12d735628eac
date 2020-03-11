@@ -1,0 +1,5 @@
+66b73e9a402d ("sizes.h: Add entries between SZ_32G and SZ_64T")
+0cc62aed370d ("sizes.h: Add SZ_1T macro")
+8b0fac44bd1f ("sizes.h: add SZ_8G/SZ_16G/SZ_32G macros")
+8ff80fbe7e98 ("x86/kdump/64: Restrict kdump kernel reservation to <64TB")
+9ca5c8e632ce ("x86/kdump: Have crashkernel=X reserve under 4G by default")

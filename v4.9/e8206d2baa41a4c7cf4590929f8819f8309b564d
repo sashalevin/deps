@@ -1,0 +1,6 @@
+e8206d2baa41 ("ARCv2: SMP: Mask only private-per-core IRQ lines on boot at core intc")
+a8ec3ee861b6 ("arc: Mask individual IRQ lines during core INTC init")
+be568e78dbb3 ("ARCv2: intc: Set default priority for all core interrupts")
+179cf194e6d1 ("ARCv2: intc: Use runtime value of irq count for setting up intc")
+fe7b10994618 ("ARC: [intc-*]: confine NR_CPU_IRQS to intc code")
+107177b14d81 ("ARCv2: intc: default all interrupts to priority 1")

@@ -1,0 +1,8 @@
+7c44202e3609 ("powerpc/e500: use contiguous PMD instead of hugepd")
+dc0aa538a954 ("powerpc/e500: free r10 for FIND_PTE")
+276d5affbbae ("powerpc/e500: don't pre-check write access on data TLB error")
+84319905ca5f ("powerpc/e500: encode hugepage size in PTE bits")
+6b0e82791bd0 ("powerpc/e500: switch to 64 bits PGD on 85xx (32 bits)")
+0549e7666373 ("powerpc/8xx: rework support for 8M pages using contiguous PTE entries")
+d6a1a9a3be85 ("powerpc/mm: allow hugepages without hugepd")
+afc8969f6da2 ("powerpc/mm: remove _PAGE_PSIZE")

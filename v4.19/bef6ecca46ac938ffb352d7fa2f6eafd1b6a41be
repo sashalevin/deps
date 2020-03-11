@@ -1,0 +1,6 @@
+bef6ecca46ac ("KVM: x86/pmu: Set MSR_IA32_MISC_ENABLE_EMON bit when vPMU is enabled")
+e1fba49cc1e9 ("kvm: vmx: Limit guest PMCs to those supported on the host")
+511a8556e334 ("KVM: X86: Emulate MSR_IA32_MISC_ENABLE MWAIT bit")
+8764ed55c970 ("KVM: x86: Whitelist port 0x7e for pre-incrementing %rip")
+45def77ebf79 ("KVM: x86: update %rip after emulating IO")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")

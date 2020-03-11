@@ -1,0 +1,6 @@
+126f4f96c41d ("net: stmmac: dwmac-loongson: Add DT-less GMAC PCI-device support")
+0ec04d32b5e7 ("net: stmmac: dwmac-loongson: Introduce PCI device info data")
+79afc70002c2 ("net: stmmac: dwmac-loongson: Detach GMAC-specific platform data init")
+324d96b46520 ("net: stmmac: dwmac-loongson: Use PCI_DEVICE_DATA() macro for device identification")
+0c979e6b55f9 ("net: stmmac: dwmac-loongson: Drop pci_enable/disable_msi calls")
+e87d3a1370ce ("stmmac: dwmac-loongson: Make sure MDIO is initialized before use")

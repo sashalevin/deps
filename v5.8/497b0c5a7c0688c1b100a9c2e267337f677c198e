@@ -1,0 +1,4 @@
+497b0c5a7c06 ("fsnotify: send event to parent and child with single callback")
+9991bb84b27a ("kernfs: do not call fsnotify() with name without a parent")
+c738fbabb0ff ("fsnotify: fold fsnotify() call into fsnotify_parent()")
+71d734103edf ("fsnotify: Rearrange fast path to minimise overhead when there is no watcher")

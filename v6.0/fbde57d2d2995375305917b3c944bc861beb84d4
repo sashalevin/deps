@@ -1,0 +1,4 @@
+fbde57d2d299 ("rcu/nocb: Make shrinker iterate only over NOCB CPUs")
+5c83cedbaaad ("rcu/nocb: Protect lazy shrinker against concurrent (de-)offloading")
+c945b4da7a44 ("rcu: Shrinker for lazy rcu")
+f1ffec1ea30f ("rcu: Simplify rcu_init_nohz() cpumask handling")

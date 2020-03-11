@@ -1,0 +1,4 @@
+f0e3c1480251 ("jbd2: correctly compare tids with tid_geq function in jbd2_fc_begin_commit")
+480f89d55326 ("jbd2: don't read journal->j_commit_sequence without taking a lock")
+ff780b91efe9 ("jbd2: add fast commit machinery")
+6866d7b3f2bb ("ext4 / jbd2: add fast commit initialization")

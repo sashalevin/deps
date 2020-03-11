@@ -1,0 +1,4 @@
+79c4a5625021 ("mtd: call external _get and _put in right order")
+19bfa9ebebb5 ("mtd: use refcount to prevent corruption")
+56570bdad5e3 ("mtd: core: Fix refcount error in del_mtd_device()")
+bcf4ef28b083 ("mtd: core: Drop duplicate NULL checks around nvmem_unregister()")

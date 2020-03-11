@@ -1,0 +1,5 @@
+aa97f6cdb7e9 ("bcache: fix NULL pointer reference in cached_dev_detach_finish")
+0259d4498ba4 ("bcache: move calc_cached_dev_sectors to proper place on backing device detach")
+df4ad5324215 ("bcache: fix race between setting bdev state to none and new write request direct to backing")
+97ba3b816e2c ("bcache: acquire bch_register_lock later in cached_dev_detach_finish()")
+46010141da66 ("bcache: recal cached_dev_sectors on detach")

@@ -1,0 +1,3 @@
+4e1d91ae876b ("blk-wbt: open code wbt_queue_depth_changed in wbt_init")
+285febabac4a ("blk-wbt: fix that 'rwb->wc' is always set to 1 in wbt_init()")
+8c5035dfbb94 ("blk-wbt: call rq_qos_add() after wb_normal is initialized")

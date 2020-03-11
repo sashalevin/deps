@@ -1,0 +1,5 @@
+a3db542410af ("can: dev: register_candev(): bail out if both fixed bit rates and bit timing constants are provided")
+d58ac89d0d38 ("can: dev: register_candev(): ensure that bittiming const are valid")
+6e86a1543c37 ("can: dev: provide optional GPIO based termination support")
+4c9258dd26fd ("can: dev: reorder struct can_priv members for better packing")
+289ea9e4ae59 ("can: add new CAN FD bittiming parameters: Transmitter Delay Compensation (TDC)")

@@ -1,0 +1,8 @@
+88b61e3bff93 ("Makefile.compiler: replace cc-ifversion with compiler-specific macros")
+b0839b281c42 ("Makefile.extrawarn: re-enable -Wformat for clang; take 2")
+f0be87c42cbd ("gcc-12: disable '-Warray-bounds' universally for now")
+8b202ee21839 ("s390: disable -Warray-bounds")
+e92e2634ef3a ("Revert "Makefile: Do not quote value for CONFIG_CC_IMPLICIT_FALLTHROUGH"")
+cd8c917a56f2 ("Makefile: Do not quote value for CONFIG_CC_IMPLICIT_FALLTHROUGH")
+dee2b702bcf0 ("kconfig: Add support for -Wimplicit-fallthrough")
+86cffecdeaa2 ("Compiler Attributes: add __alloc_size() for better bounds checking")

@@ -1,0 +1,5 @@
+fa191b711c32 ("ARM: 9150/1: Fix PID_IN_CONTEXTIDR regression when THREAD_INFO_IN_TASK=y")
+18ed1c01a7dd ("ARM: smp: Enable THREAD_INFO_IN_TASK")
+50596b7559bf ("ARM: smp: Store current pointer in TPIDRURO register if available")
+19f29aebd929 ("ARM: smp: Pass task to secondary_start_kernel")
+35776f10513c ("Merge tag 'for-linus' of git://git.armlinux.org.uk/~rmk/linux-arm")

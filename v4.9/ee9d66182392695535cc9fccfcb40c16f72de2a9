@@ -1,0 +1,7 @@
+ee9d66182392 ("SMB3: Kernel oops mounting a encryptData share with CONFIG_DEBUG_VIRTUAL")
+262916bc69fa ("fix smb3-encryption breakage when CONFIG_DEBUG_SG=y")
+026e93dc0a3e ("CIFS: Encrypt SMB3 requests before sending")
+31473fc4f965 ("CIFS: Separate SMB2 header structure")
+b9be76d585d4 ("cifs: Add soft dependencies")
+3692304bba61 ("cifs: Only select the required crypto modules")
+53e0e11efe92 ("CIFS: Fix a possible memory corruption during reconnect")

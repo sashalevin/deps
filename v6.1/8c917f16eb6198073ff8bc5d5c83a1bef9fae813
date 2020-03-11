@@ -1,0 +1,7 @@
+8c917f16eb61 ("wifi: mac80211: do not re-add debugfs entries during resume")
+63bafd9d5421 ("wifi: mac80211: don't re-add debugfs during reconfig")
+c942398f95ef ("wifi: mac80211: handle debugfs when switching to/from MLO")
+a1f5dcb1c0c1 ("wifi: mac80211: add a driver callback to add vif debugfs")
+822cab1987a0 ("wifi: mac80211: don't recreate driver link debugfs in reconfig")
+170cd6a66d9a ("wifi: mac80211: add netdev per-link debugfs data and driver hook")
+d2caad527c19 ("wifi: mac80211: add API to show the link STAs in debugfs")

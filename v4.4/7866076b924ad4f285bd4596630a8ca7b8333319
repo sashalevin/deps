@@ -1,0 +1,7 @@
+7866076b924a ("mm/mmap.c: fix a data race of mm->total_vm")
+9344c92c2e72 ("time, acct: Drop irq save & restore from __acct_update_integrals()")
+b2add86edd3b ("acct, time: Change indentation in __acct_update_integrals()")
+382c2fe99432 ("sched, time: Remove non-power-of-two divides from __acct_update_integrals()")
+84638335900f ("mm: rework virtual memory accounting")
+8cee852ec53f ("mm, procfs: breakdown RSS for anon, shmem and file in /proc/pid/status")
+0b57d6ba0bd1 ("mm/mmap.c: remove redundant local variables for may_expand_vm()")

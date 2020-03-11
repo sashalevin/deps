@@ -1,0 +1,6 @@
+11921796f479 ("ipset: Fix memory accounting for hash types on resize")
+a71bdbfa9927 ("netfilter: ipset: Fix reported memory size for hash:* types")
+9e41f26a505c ("netfilter: ipset: Count non-static extension memory for userspace")
+702b71e7c666 ("netfilter: ipset: Add element count to all set types header")
+a54dad51a83b ("netfilter: ipset: Add element count to hash headers")
+722a94519a68 ("netfilter: ipset: Separate memsize calculation code into dedicated function")

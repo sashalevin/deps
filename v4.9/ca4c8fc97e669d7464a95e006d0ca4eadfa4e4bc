@@ -1,0 +1,4 @@
+ca4c8fc97e66 ("iio: imu: inv_mpu6050: fix possible deadlock between mutex and iio")
+880b2d6cfdca ("iio: imu: inv_mpu6050: clean read channel data error path")
+6792b4552b0a ("iio: imu: inv_mpu6050: clean read raw by factorizing out raw data")
+68cd6e5b206b ("iio: imu: inv_mpu6050: fix lock issues by using our own mutex")

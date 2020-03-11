@@ -1,0 +1,4 @@
+67eaedc1c52f ("mm/zsmalloc: remove_zspage() don't need fullness parameter")
+b3067742ae36 ("mm: zswap: remove page reclaim logic from zsmalloc")
+d461aac924b9 ("zsmalloc: move LRU update from zs_map_object() to zs_malloc()")
+4c7ac97285d8 ("zsmalloc: fine-grained inuse ratio based fullness grouping")

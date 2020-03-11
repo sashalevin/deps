@@ -1,0 +1,8 @@
+1a8b612ef09b ("drm/msm: Take lru lock once per job_run")
+17b704f1c0fb ("drm/msm/gem: Avoid obj lock in job_run()")
+6c7c8fb863f7 ("drm/msm/gem: Protect pin_count/madv by LRU lock")
+4a02a376cbc8 ("drm/msm/gem: Move update_lru()")
+d6ae7d1cd58e ("drm/msm/gem: Simplify vmap vs LRU tracking")
+b14b8c5f0eaf ("drm/msm: Decouple vma tracking from obj lock")
+fc2f07566a2c ("drm/msm/gem: Tidy up VMA API")
+769fec1e4f91 ("drm/msm: Move submit bo flags update from obj lock")

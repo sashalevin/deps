@@ -1,0 +1,4 @@
+c41a4e877a18 ("drm/amdgpu: Fix build with missing pm_suspend_target_state module export")
+5706cb3c910c ("drm/amdgpu: fix checking pmops when PM_SLEEP is not enabled")
+a5cb3c1a3637 ("drm/amdgpu: fix S0ix handling when the CONFIG_AMD_PMC=m")
+31ada99bdd1b ("drm/amdgpu: Only check for S0ix if AMD_PMC is configured")

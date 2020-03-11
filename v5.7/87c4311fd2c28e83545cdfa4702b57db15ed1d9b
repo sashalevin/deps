@@ -1,0 +1,6 @@
+87c4311fd2c2 ("io_uring: kill callback_head argument for io_req_task_work_add()")
+fd7d6de22414 ("io_uring: don't recurse on tsk->sighand->siglock with signalfd")
+6d816e088c35 ("io_uring: hold 'ctx' reference around task_work queue + execute")
+0ba9c9edcd15 ("io_uring: use TWA_SIGNAL for task_work uncondtionally")
+e73751225bae ("io_uring: replace rw->task_work with rq->task_work")
+760618f7a8e3 ("Merge branch 'io_uring-5.8' into for-5.9/io_uring")

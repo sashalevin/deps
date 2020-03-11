@@ -1,0 +1,8 @@
+41ab93727467 ("KVM: nVMX: Emulate EPTP switching for the L1 hypervisor")
+27c42a1bb867 ("KVM: nVMX: Enable VMFUNC for the L1 hypervisor")
+2a499e49c2ec ("KVM: vmx: Enable VMFUNCs")
+c7c2c709b60e ("kvm: nVMX: Validate CR3 target count on nested VM-entry")
+ab007cc94ff9 ("KVM: nVMX: do not leak PML full vmexit to L1")
+ef85b6738543 ("kvm: nVMX: Allow L1 to intercept software exceptions (#BP and #OF)")
+3899152ccbf4 ("KVM: nVMX: fix checks on CR{0,4} during virtual VMX operation")
+62cc6b9dc61e ("KVM: nVMX: support restore of VMX capability MSRs")

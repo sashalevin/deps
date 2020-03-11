@@ -1,0 +1,5 @@
+4d004365e252 ("perf machine: Fix map_groups__split_kallsyms() for entry trampoline symbols")
+15e0e2d4eeb1 ("perf symbols: Move split_kallsyms to struct map_groups")
+e94b861a2315 ("perf map: Introduce map__has_symbols()")
+d88205db9caa ("perf dso: Add dso__has_symbols() method")
+68766bfa5647 ("perf top: Use __map__is_kernel()")

@@ -1,0 +1,5 @@
+28fbfaf6bd1d ("ALSA: hda: Use non-SG allocation for the communication buffers")
+37137ec26c2c ("ALSA: hda: Once again fix regression of page allocations with IOMMU")
+925ca893b4a6 ("ALSA: memalloc: Add fallback SG-buffer allocations for x86")
+8e1741c65899 ("ALSA: memalloc: Fix dma_need_sync() checks")
+2c95b92ecd92 ("ALSA: memalloc: Unify x86 SG-buffer handling (take#3)")

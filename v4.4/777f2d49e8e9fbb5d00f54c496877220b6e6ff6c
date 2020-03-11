@@ -1,0 +1,6 @@
+777f2d49e8e9 ("mtd: nand: denali: enable bad block table scan")
+1394a7265f88 ("mtd: nand: denali: use nand_chip to hold frequently accessed data")
+01a1d524eb68 ("mtd: nand: denali: remove unneeded parentheses")
+14fad62b688f ("mtd: nand: denali: switch to mtd_ooblayout_ops")
+442f201b93b5 ("mtd: nand: denali: use the mtd instance embedded in struct nand_chip")
+320092a05dab ("mtd: nand: denali: add missing nand_release() call in denali_remove()")

@@ -1,0 +1,5 @@
+3c92792da850 ("ext4: Fix deadlock during directory rename")
+c9f62c8b2dbf ("ext4: fix RENAME_WHITEOUT handling for inline directories")
+5dccdc5a1916 ("ext4: do not iput inode under running transaction in ext4_rename()")
+b7ff91fd030d ("ext4: find old entry again if failed to rename whiteout")
+6b4b8e6b4ad8 ("ext4: fix bug for rename with RENAME_WHITEOUT")

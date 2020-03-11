@@ -1,0 +1,4 @@
+9bc421b6be95 ("bpf: populate the per-cpu insertions/deletions counters for hashmaps")
+b34ffb0c6d23 ("bpf: fix a memory leak in the LRU and LRU_PERCPU hash maps")
+d7f5ef653c3d ("bpf: Do btf_record_free outside map_free callback")
+aa3496accc41 ("bpf: Refactor kptr_off_tab into btf_record")

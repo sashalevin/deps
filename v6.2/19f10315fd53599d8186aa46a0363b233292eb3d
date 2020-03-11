@@ -1,0 +1,4 @@
+19f10315fd53 ("KVM: VMX: Stub out enable_evmcs static key for CONFIG_HYPERV=n")
+68ac4221497b ("KVM: nVMX: Move EVMCS1_SUPPORT_* macros to hyperv.c")
+93827a0a3639 ("KVM: VMX: Fix crash due to uninitialized current_vmcs")
+8504ef2139e2 ("KVM: VMX: Shuffle support checks and hardware enabling code around")

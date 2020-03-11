@@ -1,0 +1,5 @@
+340e134727c9 ("block: Remove the repeat word 'can'")
+066ff571011d ("block: turn bio_kmalloc into a simple kmalloc wrapper")
+7655db80932d ("target/pscsi: remove pscsi_get_bio")
+46a2d4ccc499 ("squashfs: always use bio_kmalloc in squashfs_bio_read")
+0df71650c051 ("block: allow using the per-cpu bio cache from bio_alloc_bioset")

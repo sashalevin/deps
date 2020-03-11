@@ -1,0 +1,7 @@
+cced0699cbf1 ("samples/bpf: Remove the xdp_sample_pkts utility")
+c0ca277bb8bc ("samples/bpf: Use bpf_{btf,link,map,prog}_get_info_by_fd()")
+de5bb43826dd ("samples/bpf: Check detach prog exist or not in xdp_fwd")
+b25acdafd373 ("samples/bpf: Use libbpf 1.0 API mode instead of RLIMIT_MEMLOCK")
+d4e34bfcbe88 ("samples/bpf: adapt samples/bpf to bpf_xdp_xxx() APIs")
+c58f9815ba97 ("samples/bpf: Get rid of deprecated libbpf API uses")
+64b5b97b8cff ("samples: bpf: Fix conflicting types in fds_example")

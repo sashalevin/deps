@@ -1,0 +1,5 @@
+250122baed29 ("powerpc64/module: Tighten detection of mcount call sites with -mprofile-kernel")
+b9eab08d012f ("powerpc/modules: Don't try to restore r2 after a sibling call")
+31278b17a0df ("powerpc/modules: Never restore r2 for a mprofile-kernel style mcount() call")
+153086644fd1 ("powerpc/ftrace: Add support for -mprofile-kernel ftrace ABI")
+f17c4e01e906 ("powerpc/module: Mark module stubs with a magic value")

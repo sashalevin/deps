@@ -1,0 +1,5 @@
+ef1aec6000a7 ("perf hists browser: Avoid potential NULL dereference")
+7b0a0dcb6470 ("perf report: Support interactive annotation of code without symbols")
+ea537f22f6e5 ("perf report/top: Do not offer annotation for symbols without samples")
+d46a4cdf4993 ("pref tools: Make 'struct addr_map_symbol' contain 'struct map_symbol'")
+9d355b381b35 ("perf map_groups: Pass the object to map_groups__find_ams()")

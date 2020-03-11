@@ -1,0 +1,8 @@
+683f31c3ab2e ("xprtrdma: Add xprtrdma_post_recvs_err() tracepoint")
+97480cae13ca ("xprtrdma: Put rpcrdma_reps before waking the tear-down completion")
+83189d151154 ("xprtrdma: Don't display r_xprt memory addresses in tracepoints")
+15788d1d1077 ("xprtrdma: Do not refresh Receive Queue while it is draining")
+c487eb7d8e41 ("xprtrdma: Clean up disconnect")
+f423f755f41e ("xprtrdma: Clean up synopsis of rpcrdma_flush_disconnect()")
+2acc5cae2923 ("xprtrdma: Prevent dereferencing r_xprt->rx_ep after it is freed")
+911813d7a152 ("SUNRPC: Trace transport lifetime events")

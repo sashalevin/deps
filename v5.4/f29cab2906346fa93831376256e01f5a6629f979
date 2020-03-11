@@ -1,0 +1,6 @@
+f29cab290634 ("xtensa: get rid of stack frame in coprocessor_flush")
+e45d4bfbeb26 ("xtensa: merge SAVE_CP_REGS_TAB and LOAD_CP_REGS_TAB")
+6179ef4d460a ("xtensa: use callx0 opcode in fast_coprocessor")
+839769c35477 ("xtensa: fix a7 clobbering in coprocessor context load/store")
+ab5eb336411f ("xtensa: move coprocessor_flush to the .text section")
+50722f0bf631 ("xtensa: move fast exception handlers close to vectors")

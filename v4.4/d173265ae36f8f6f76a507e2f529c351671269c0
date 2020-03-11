@@ -1,0 +1,5 @@
+d173265ae36f ("ALSA: bebob: code refactoring for error path to start duplex stream")
+c71283cb682c ("ALSA: bebob: drop reuse of incoming packet parameter for outgoing packet parameter")
+4fd6c6c7295a ("ALSA: bebob: change type of substream counter from atomic_t to unsigned int")
+2a71e701660d ("ALSA: bebob: move mutex from function callee to callers")
+14a37ac1bf8a ("ALSA: bebob: simplify bus-reset handling")

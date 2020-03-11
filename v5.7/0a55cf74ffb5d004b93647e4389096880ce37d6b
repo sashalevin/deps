@@ -1,0 +1,5 @@
+0a55cf74ffb5 ("SMB3: EBADF/EIO errors in rename/open caused by race condition in smb2_compound_op")
+352d96f3acc6 ("cifs: multichannel: move channel selection above transport layer")
+5f68ea4aa98b ("cifs: multichannel: move channel selection in function")
+b2ca6c2c9edd ("cifs: move some variables off the stack in smb2_ioctl_query_info")
+a7d5c2946280 ("cifs: reduce stack use in smb2_compound_op")

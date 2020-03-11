@@ -1,0 +1,7 @@
+82feeaa00925 ("slub: use a folio in __kmalloc_large_node")
+c4cab557521a ("mm/slab_common: cleanup kmalloc_large()")
+bf37d791022e ("mm/slab_common: kmalloc_node: pass large requests to page allocator")
+a0c3b940023e ("mm/slub: move kmalloc_large_node() to slab_common.c")
+e4c98d68959e ("mm/slab_common: fold kmalloc_order_trace() into kmalloc_large()")
+0f853b2e6dd9 ("mm/sl[au]b: factor out __do_kmalloc_node()")
+f78a03f6e28b ("mm/slab_common: remove CONFIG_NUMA ifdefs for common kmalloc functions")

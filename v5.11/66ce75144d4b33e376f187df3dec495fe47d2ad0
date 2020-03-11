@@ -1,0 +1,4 @@
+66ce75144d4b ("kprobes: remove duplicated strong free_insn_page in x86 and s390")
+6256e668b7af ("x86/kprobes: Use int3 instead of debug trap for single-step")
+a194acd316f9 ("x86/kprobes: Identify far indirect JMP correctly")
+abd82e533d88 ("x86/kprobes: Do not decode opcode in resume_execution()")

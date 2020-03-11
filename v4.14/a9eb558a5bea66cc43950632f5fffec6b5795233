@@ -1,0 +1,7 @@
+a9eb558a5bea ("afs: Stop implementing ->writepage()")
+fcf227daed82 ("afs: Convert invalidatepage to invalidate_folio")
+f6bc6fb88c16 ("afs: Convert directory aops to invalidate_folio")
+c7f75ef33b6d ("afs: Copy local writes to the cache when writing to the server")
+255ed63638da ("afs: Use folios in directory handling")
+78525c74d9e7 ("netfs, 9p, afs, ceph: Use folios")
+f89ce84bc333 ("Merge tag '9p-for-5.16-rc1' of git://github.com/martinetd/linux")

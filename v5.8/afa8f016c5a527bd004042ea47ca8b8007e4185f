@@ -1,0 +1,8 @@
+afa8f016c5a5 ("ksmbd: initialize variables on the declaration")
+d2f72ed8fa0c ("cifsd: use file_inode() instead of d_inode()")
+96a34377dc5a ("cifsd: remove calling d_path in error paths")
+c36fca8630dd ("cifsd: add the check to work file lock and rename behaviors like Windows unless POSIX extensions are negotiated")
+e5066499079d ("cifsd: remove unneeded macros")
+f44158485826 ("cifsd: add file operations")
+e2f34481b24d ("cifsd: add server-side procedures for SMB3")
+0626e6641f6b ("cifsd: add server handler for central processing and tranport layers")

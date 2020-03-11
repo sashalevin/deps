@@ -1,0 +1,5 @@
+b623023225ab ("PCI: qcom: Drop unused post_deinit callback")
+f94c35e02464 ("PCI: qcom: Remove redundancy between qcom_pcie and qcom_pcie_cfg")
+4e0e90539bb0 ("PCI: qcom: Fix an error handling path in 'qcom_pcie_probe()'")
+aa9c0df98c29 ("PCI: qcom: Switch pcie_1_pipe_clk_src after PHY init in SC7280")
+b89ff410253d ("PCI: qcom: Replace ops with struct pcie_cfg in pcie match data")

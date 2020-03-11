@@ -1,0 +1,5 @@
+6ec228b6fef5 ("device-dax: remove pfn from __dev_dax_{pte,pmd,pud}_fault()")
+0e7325f03f09 ("device-dax: set mapping prior to vmf_insert_pfn{,_pmd,pud}()")
+a0fb038e50d7 ("device-dax: factor out page mapping initialization")
+b9b5777f09be ("device-dax: use ALIGN() for determining pgoff")
+ec826909981c ("device-dax: drop the dax_region.pfn_flags attribute")

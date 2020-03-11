@@ -1,0 +1,8 @@
+c9c70b28face ("selftests/bpf: Exercise SOCK_STREAM unix_inet_redir_to_connected()")
+0befb349c4cd ("selftests/bpf: Parametrize AF_UNIX redir functions to accept send() flags")
+51354f700d40 ("bpf, sockmap: Add af_unix test with both sockets in map")
+fdd11c14c33b ("selftests/bpf: Add pairs_redir_to_connected helper")
+298970c8af9d ("bpf, sockmap: Build helper to create connected socket pair")
+4e02588d9a95 ("bpf, sockmap: Pull socket helpers out of listen test for general use")
+d61bd8c1fd02 ("selftests/bpf: add a test case for vsock sockmap")
+b4ea530d024c ("selftests/bpf: Pass BPF skeleton to sockmap_listen ops tests")

@@ -1,0 +1,7 @@
+72cdd117c449 ("pseries/hotplug-memory: hot-add: skip redundant LMB lookup")
+e5e179aa3a39 ("pseries/drmem: don't cache node id in drmem_lmb struct")
+b2d3b5ee66f2 ("powerpc/pseries: Track LMB nid instead of using device tree")
+8df1d0e4a265 ("mm/memory_hotplug: make add_memory() take the device_hotplug_lock")
+d15e59260f62 ("mm/memory_hotplug: make remove_memory() take the device_hotplug_lock")
+063b8b1251fd ("powerpc/pseries/memory-hotplug: Only update DT once per memory DLPAR request")
+3f7daf3d7582 ("powerpc/memtrace: Remove memory in chunks")

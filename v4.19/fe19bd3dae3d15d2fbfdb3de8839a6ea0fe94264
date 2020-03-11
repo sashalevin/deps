@@ -1,0 +1,6 @@
+fe19bd3dae3d ("mm, futex: fix shared futex pgoff on shmem huge page")
+9a71df495c3d ("futex: Remove unused or redundant includes")
+8019ad13ef7f ("futex: Fix inode life-time issue")
+5ca584d935c3 ("futex: Consolidate duplicated timer setup code")
+04e7712f4460 ("y2038: futex: Move compat implementation into futex.c")
+9afc5eee65ca ("y2038: globally rename compat_time to old_time32")

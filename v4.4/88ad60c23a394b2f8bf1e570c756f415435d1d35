@@ -1,0 +1,4 @@
+88ad60c23a39 ("i2c: mv64xxx: don't override deferred probing when getting irq")
+f3a36fbdd359 ("i2c: mv64xxx: remove CONFIG_HAVE_CLK conditionals")
+70719350ca25 ("i2c: mv64xxx: use clk_{prepare_enable,disable_unprepare}")
+9f4d6f164229 ("i2c: mv64xxx: handle probe deferral for the clock")

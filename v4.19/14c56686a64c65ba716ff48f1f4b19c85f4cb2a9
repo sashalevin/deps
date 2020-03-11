@@ -1,0 +1,8 @@
+14c56686a64c ("mptcp: avoid sending RST when closing the initial subflow")
+39880bd808ad ("mptcp: get rid of msk->subflow")
+ff18f9ef30ee ("mptcp: avoid bogus reset on fallback close")
+c2b2ae3925b6 ("mptcp: handle correctly disconnect() failures")
+1b1b43ee7a20 ("mptcp: fix data race around msk->first access")
+5b825727d087 ("mptcp: add annotations around msk->subflow accesses")
+786fc1245726 ("mptcp: fix connect timeout handling")
+681c5b51dc6b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

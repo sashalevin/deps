@@ -1,0 +1,5 @@
+40a024b81d1c ("ALSA: core: Drop superfluous no_free_ptr() for memdup_user() errors")
+37745918e0e7 ("ALSA: timer: Introduce virtual userspace-driven timers")
+ae9213984864 ("ALSA: pcm: Use automatic cleanup of kfree()")
+358040e38077 ("ALSA: pcm: Fix missing fixup call in compat hw_refine ioctl")
+ebe6976d3634 ("pcm_native: result of put_user() needs to be checked")

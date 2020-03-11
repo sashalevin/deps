@@ -1,0 +1,5 @@
+912616f142bf ("exit: Guarantee make_task_dead leaks the tsk when calling do_task_exit")
+7f80a2fd7db9 ("exit: Stop poorly open coding do_task_dead in make_task_dead")
+05ea0424f0e2 ("exit: Move oops specific logic from do_exit into make_task_dead")
+0e25498f8cd4 ("exit: Add and use make_task_dead.")
+ab2e7f4b46bf ("Merge tag 'for-linus' of git://git.armlinux.org.uk/~rmk/linux-arm")

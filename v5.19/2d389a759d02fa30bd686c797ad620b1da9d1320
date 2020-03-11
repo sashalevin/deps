@@ -1,0 +1,7 @@
+2d389a759d02 ("md/raid1: Clean up local variable 'b' from raid1_read_request()")
+2d32777d60de ("md/raid1: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+ffb1e7a03f96 ("md/raid1: prioritize adding disk to 'removed' mirror")
+900d156bac2b ("block: remove bdevname")
+c5b045b98389 ("ext4: only initialize mmp_bdevname once")

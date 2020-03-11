@@ -1,0 +1,7 @@
+02390f66bd23 ("powerpc/64s/radix: Fix MADV_[FREE|DONTNEED] TLB flush miss problem with THP")
+0cef77c7798a ("powerpc/64s/radix: flush remote CPUs out of single-threaded mm_cpumask")
+85bcfaf69cbd ("powerpc/64s/radix: optimise pte_update")
+a5d4b5891c2f ("powerpc/mm: Fixup tlbie vs store ordering issue on POWER9")
+243fee3249ff ("powerpc/mm/radix: Move the functions that does the actual tlbie closer")
+80a4ae202f2d ("powerpc/mm: Workaround Nest MMU bug with TLB invalidations")
+828450791608 ("Merge branch 'linus' into sched/urgent, to resolve conflicts")

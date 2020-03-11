@@ -1,0 +1,6 @@
+ad6c19e5f932 ("jfs: Change metapage->page to metapage->folio")
+1252ad136e16 ("jfs: Convert force_metapage to use a folio")
+40e1bd195b0e ("jfs; Convert release_metapage to use a folio")
+2dcd9630d988 ("jfs: Convert __get_metapage to use a folio")
+2d6831758271 ("mm,jfs: move write_one_page/folio_write_one to jfs")
+3b60d53df07f ("jfs: Remove check for PageUptodate")

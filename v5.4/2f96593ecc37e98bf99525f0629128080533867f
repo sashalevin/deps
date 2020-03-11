@@ -1,0 +1,5 @@
+2f96593ecc37 ("of_address: Add bus type match for pci ranges parser")
+bc5e522ec471 ("of/address: Rework of_pci_range parsing for non-PCI buses")
+c67f3df88ffc ("of: Drop struct of_pci_range.pci_space field")
+67ccd2b97db2 ("of/address: Move range parser code out of CONFIG_PCI")
+645c138636de ("of/address: Fix of_pci_range_parser_one translation of DMA addresses")

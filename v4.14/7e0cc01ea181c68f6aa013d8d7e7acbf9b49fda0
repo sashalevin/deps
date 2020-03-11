@@ -1,0 +1,7 @@
+7e0cc01ea181 ("mm/swap.c: annotate data races for lru_rotate_pvecs")
+b01b21419999 ("mm/swap: Use local_lock for protection")
+9c276cc65a58 ("mm: introduce MADV_COLD")
+40cacbcb3240 ("mm, compaction: remove unnecessary zone parameter in some instances")
+566e54e113eb ("mm, compaction: remove last_migrated_pfn from compact_control")
+c5943b9c5312 ("mm, compaction: rearrange compact_control")
+c5fbd937b603 ("mm, compaction: shrink compact_control")

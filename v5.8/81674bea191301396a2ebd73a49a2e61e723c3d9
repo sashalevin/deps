@@ -1,0 +1,6 @@
+81674bea1913 ("gpio: aggregator: Set up a parser of delay line parameters")
+39ebbd52b73d ("gpio: aggregator: Add missing header(s)")
+95b39792c664 ("gpio: aggregator: Stop using ARCH_NR_GPIOS")
+a00128dfc8fc ("gpio: aggregator: Add interrupt support")
+01e8d85b68fd ("gpio: aggregator: Refactor ->{get, set}_multiple() to make Sparse happy")
+ec75039d5550 ("gpio: aggregator: Use bitmap_parselist() for parsing GPIO offsets")

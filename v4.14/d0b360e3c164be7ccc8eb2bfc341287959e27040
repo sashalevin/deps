@@ -1,0 +1,6 @@
+d0b360e3c164 ("dmaengine: stm32-dmamux: avoid reset of dmamux if used by coprocessor")
+6cc7089764ab ("dmaengine: stm32-dmamux: driver defers probe for clock and reset")
+d04d2f620dcf ("dmaengine: stm32-dmamux: use reset controller only at probe time")
+57e9f3666a1b ("dmaengine: stm32-dmamux: fix clock handling in probe sequence")
+4f3ceca254e0 ("dmaengine: stm32-dmamux: Add PM Runtime support")
+df7e762db5f6 ("dmaengine: Add STM32 DMAMUX driver")

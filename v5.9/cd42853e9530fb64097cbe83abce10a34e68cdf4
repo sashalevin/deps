@@ -1,0 +1,7 @@
+cd42853e9530 ("kvm: x86/mmu: Use KVM_MMU_ROOT_XXX for kvm_mmu_invalidate_addr()")
+753b43c9d1b7 ("KVM: x86/mmu: Use 64-bit address to invalidate to fix a subtle bug")
+b9e5603c2a3a ("KVM: x86: use struct kvm_mmu_root_info for mmu->root")
+77aa60753a7b ("KVM: x86/mmu: Refactor TDP MMU iterators to take kvm_mmu_page root")
+e27bc0440ebd ("KVM: x86: Rename kvm_x86_ops pointers to align w/ preferred vendor names")
+fc4fad79fc3d ("KVM: VMX: Reject KVM_RUN if emulation is required with pending exception")
+855fb0384a3d ("Merge remote-tracking branch 'kvm/master' into HEAD")

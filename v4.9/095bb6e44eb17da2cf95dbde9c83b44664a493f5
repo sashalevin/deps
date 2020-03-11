@@ -1,0 +1,5 @@
+095bb6e44eb1 ("mtdchar: add MEMREAD ioctl")
+e3c1f1c92d6e ("mtd: add OTP (one-time-programmable) erase ioctl")
+1e97743fd180 ("mtd: require write permissions for locking and badblock ioctls")
+f7e6b19bc764 ("mtd: properly check all write ioctls for permissions")
+0db188f96b69 ("mtdchar: get rid of pointless access_ok()")

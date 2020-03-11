@@ -1,0 +1,5 @@
+e625fb70a6d2 ("pwm: core: Unify fwnode checks in the module")
+6cf9481b440d ("pwm: Fallback to the static lookup-list when acpi_pwm_get fails")
+4a6ef8e37c4d ("pwm: Add support referencing PWMs from ACPI")
+b2c200e3f2fd ("pwm: Add consumer device link")
+69efb3439ccf ("pwm: Don't hold pwm_lookup_lock longer than necessary")

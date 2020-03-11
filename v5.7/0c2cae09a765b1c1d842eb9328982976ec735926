@@ -1,0 +1,6 @@
+0c2cae09a765 ("gpiolib: acpi: Convert type for pin to be unsigned")
+43582f29b161 ("gpiolib: acpi: Introduce acpi_get_and_request_gpiod() helper")
+2e2b496cebef ("gpiolib: acpi: Extract acpi_request_own_gpiod() helper")
+56f7058af0dc ("gpiolib: acpi: Set initial value for output pin based on bias and polarity")
+1a81f19154b4 ("gpiolib: acpi: Move acpi_gpio_to_gpiod_flags() upper in the code")
+8dcb7a15a585 ("gpiolib: acpi: Take into account debounce settings")

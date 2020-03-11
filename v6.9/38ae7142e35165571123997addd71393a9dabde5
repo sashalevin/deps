@@ -1,0 +1,3 @@
+38ae7142e351 ("pwm: Make pwmchip_[sg]et_drvdata() a wrapper around dev_set_drvdata()")
+ee37bf50749f ("pwm: Ensure a struct pwm has the same lifetime as its pwm_chip")
+05947224ff46 ("pwm: Ensure that pwm_chips are allocated using pwmchip_alloc()")

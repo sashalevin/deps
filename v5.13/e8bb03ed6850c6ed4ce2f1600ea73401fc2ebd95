@@ -1,0 +1,7 @@
+e8bb03ed6850 ("perf dwarf-aux: Check allowed location expressions when collecting variables")
+932dcc2c39ae ("perf dwarf-aux: Add die_collect_vars()")
+6fed025f119d ("perf dwarf-aux: Add die_get_cfa()")
+d60469d7c0e5 ("perf dwarf-aux: Add die_find_variable_by_addr()")
+3f5928e461e3 ("perf dwarf-aux: Add die_find_variable_by_reg() helper")
+981620fd2776 ("perf dwarf-aux: Add die_get_scopes() alternative to dwarf_getscopes()")
+3796eba7c137 ("perf dwarf-aux: Move #else block of #ifdef HAVE_DWARF_GETLOCATIONS_SUPPORT code to the header file")

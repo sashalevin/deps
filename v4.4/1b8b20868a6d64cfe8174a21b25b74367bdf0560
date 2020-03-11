@@ -1,0 +1,5 @@
+1b8b20868a6d ("tty: fix return value for unsupported ioctls")
+d20c219c7317 ("tty: new helper function tty_get_icount()")
+05de87ed9531 ("tty: Re-declare tty_driver_remove_tty() file scope")
+a3123fd0a4a5 ("tty: Fix tty_init_termios() declaration")
+c8b710b3e434 ("tty: Fix ldisc leak in failed tty_init_dev()")

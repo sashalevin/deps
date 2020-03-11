@@ -1,0 +1,5 @@
+1033990ac5b2 ("sctp: implement memory accounting on tx path")
+cd305c74b0f8 ("sctp: use sk_wmem_queued to check for writable space")
+0aee4c259849 ("sctp: Fix double free in sctp_sendmsg_to_asoc")
+f84af33138a8 ("sctp: factor out sctp_sendmsg_to_asoc from sctp_sendmsg")
+c02b3741eb99 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

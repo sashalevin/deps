@@ -1,0 +1,6 @@
+c198b121b1a1 ("x86/asm: Rewrite sync_core() to use IRET-to-self")
+1c52d859cb2d ("x86/asm/32: Make sync_core() handle missing CPUID on all 32-bit kernels")
+6d0d287891a0 ("locking/core: Provide common cpu_relax_yield() definition")
+5bd0b85ba8bb ("locking/core, arch: Remove cpu_relax_lowlatency()")
+22b6430d3665 ("locking/core, s390: Make cpu_relax() a barrier again")
+79ab11cdb90d ("locking/core: Introduce cpu_relax_yield()")

@@ -1,0 +1,6 @@
+ceac766a5581 ("io_uring/kbuf: remove extra ->buf_ring null check")
+c56e022c0a27 ("io_uring: add support for user mapped provided buffer ring")
+81cf17cd3ab3 ("io_uring/kbuf: rename struct io_uring_buf_reg 'pad' to'flags'")
+25a2c188a0a0 ("io_uring/kbuf: add buffer_list->is_mapped member")
+ba56b63242d1 ("io_uring/kbuf: move pinning of provided buffer ring into helper")
+48ba08374e77 ("io_uring: fix size calculation when registering buf ring")

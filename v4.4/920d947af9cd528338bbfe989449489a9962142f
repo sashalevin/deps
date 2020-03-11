@@ -1,0 +1,8 @@
+920d947af9cd ("spi: sh-msiof: Use devm_platform_ioremap_resource() helper")
+35c35fd92564 ("spi: sh-msiof: Replace spi_master by spi_controller")
+ffa69d6a16f6 ("spi: sh-msiof: Fix invalid SPI use during system suspend")
+08ba7ae35b15 ("spi: sh-msiof: Make sure all DMA operations have completed")
+51093cba290a ("spi: sh-msiof: Simplify calculation of divisors for transfer rate")
+10b4640833e9 ("spi: sh-msiof: Fix bit field overflow writes to TSCR/RSCR")
+da779513d335 ("spi: sh-msiof: Use correct enum for DMA transfer direction")
+977b06d0a433 ("Merge remote-tracking branches 'spi/topic/pxa2xx', 'spi/topic/s3c64xx', 'spi/topic/sh-msiof', 'spi/topic/sirf' and 'spi/topic/sun6i' into spi-next")

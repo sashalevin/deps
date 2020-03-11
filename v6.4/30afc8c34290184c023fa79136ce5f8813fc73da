@@ -1,0 +1,5 @@
+30afc8c34290 ("mm/mmap: simplify vma link and unlink")
+e8e17ee90eaf ("mm: drop the assumption that VM_SHARED always implies writable")
+ad9f006351c3 ("mm: always lock new vma before inserting into vma tree")
+6852c46c783d ("mm/mmap: move vma operations to mm_struct out of the critical section of file mapping lock")
+1c7873e33645 ("mm: lock newly mapped VMA with corrected ordering")

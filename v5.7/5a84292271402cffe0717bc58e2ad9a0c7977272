@@ -1,0 +1,8 @@
+5a8429227140 ("dma-mapping: remove dma_cache_sync")
+170780be324d ("MIPS/jazzdma: decouple from dma-direct")
+cbf1449ba5ae ("MIPS: make dma_sync_*_for_cpu a little less overzealous")
+d35834c64820 ("dma-mapping: add a dma_ops_bypass flag to struct device")
+2f9237d4f6df ("dma-mapping: make support for dma ops optional")
+d3fa60d7bfdc ("dma-mapping: move the remaining DMA API calls out of line")
+3aa916250078 ("dma-mapping: Add a new dma_need_sync API")
+213e77213867 ("vhost: revert "vhost: disable for OABI"")

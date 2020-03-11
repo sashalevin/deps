@@ -1,0 +1,4 @@
+903edea6c53f ("mm: warn about illegal __GFP_NOFAIL usage in a more appropriate location and manner")
+803de9000f33 ("mm, vmscan: prevent infinite loop for costly GFP_NOIO | __GFP_RETRY_MAYFAIL allocations")
+f98a497e1f16 ("mm: compaction: remove unnecessary is_via_compact_memory() checks")
+e8606320e9af ("mm: compaction: refactor __compaction_suitable()")

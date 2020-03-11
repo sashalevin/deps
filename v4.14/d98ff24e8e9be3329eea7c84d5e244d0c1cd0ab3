@@ -1,0 +1,7 @@
+d98ff24e8e9b ("drm/amdgpu: fix preamble handling")
+eb01abc7c4fd ("drm/amdgpu:make ctx_add_fence interruptible(v2)")
+3fe89771cb0a ("drm/amdgpu: stop reserving the BO in the MMU callback v3")
+1b0c0f9dc5ca ("drm/amdgpu: move userptr BOs to CPU domain during CS v2")
+ca666a3c298f ("drm/amdgpu: stop using BO status for user pages")
+b72cf4fca2bb ("drm/amdgpu: move taking mmap_sem into get_user_pages v2")
+a216ab09955d ("drm/amdgpu: fix userptr put_page handling")

@@ -1,0 +1,5 @@
+d8db84d71c0e ("selftests/bpf: Test task storage when local_storage->smap is NULL")
+1f443d0f2b57 ("selftests/bpf: Check freeing sk->sk_local_storage with sk_local_storage->smap is NULL")
+57ef77152b58 ("selftests/bpf: Replace CHECK with ASSERT in test_local_storage")
+0e790cbb1af9 ("selftests/bpf: Test for associating multiple elements with the local storage")
+0ae6eff2978e ("bpf/selftests: Update local storage selftest for sleepable programs")

@@ -1,0 +1,3 @@
+cce6bfa6ca0e ("netfs: Fix trimming of streaming-write folios in netfs_inval_folio()")
+7dfc8f0c6144 ("netfs: Fix netfs_release_folio() to say no if folio dirty")
+92764e8822d4 ("netfs, ceph: Partially revert "netfs: Replace PG_fscache by setting folio->private and marking dirty"")

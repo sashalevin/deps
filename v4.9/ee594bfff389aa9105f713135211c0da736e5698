@@ -1,0 +1,4 @@
+ee594bfff389 ("fs/namei.c: new helper - legitimize_root()")
+4675ac39b5dd ("namei.c: split unlazy_walk()")
+209a7fb2104f ("lookup_fast(): clean up the logics around the fallback to non-rcu mode")
+ad1633a151df ("namei: fold unlazy_link() into its sole caller")

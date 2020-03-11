@@ -1,0 +1,5 @@
+ba6f35964c51 ("riscv: Make __flush_tlb_range() loop over pte instead of flushing the whole tlb")
+18d2199d8105 ("RISC-V: Use IPIs for remote TLB flush when possible")
+9a801afd3eb9 ("riscv: mm: Fix incorrect ASID argument when flushing TLB")
+e921050022f1 ("Revert "riscv: mm: notify remote harts about mmu cache updates"")
+4bd1d80efb5a ("riscv: mm: notify remote harts about mmu cache updates")

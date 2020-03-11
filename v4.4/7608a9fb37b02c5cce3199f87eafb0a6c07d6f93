@@ -1,0 +1,8 @@
+7608a9fb37b0 ("drm/bridge: analogix_dp: fix no drm hpd event when panel plug in")
+3424e3a4f844 ("drm: bridge: analogix/dp: split exynos dp driver to bridge directory")
+27d60e3d288d ("drm/exynos: remove struct exynos_drm_panel_info")
+37e110625eee ("drm/exynos: dp: Fix panel and bridge lookup logic")
+800ba2b58182 ("drm/exynos: Constify function pointer structs")
+a9fa852886fd ("drm/exynos: dp: add of_graph dt binding support for panel")
+613d3853c2ac ("drm/exynos: add pm_runtime to DP")
+07c427030292 ("drm/exynos: do not start enabling DP at bind() phase")

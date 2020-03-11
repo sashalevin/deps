@@ -1,0 +1,4 @@
+7d01ef7585c0 ("Make sure nd->path.mnt and nd->path.dentry are always valid pointers")
+248fb5b9557a ("namei.c: take "jump to root" into a new helper")
+ef55d91700d5 ("path_init(): set nd->inode earlier in cwd-relative case")
+9e6697e26f98 ("namei.c: fold set_root_rcu() into set_root()")

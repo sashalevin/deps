@@ -1,0 +1,4 @@
+fa95a0cb0423 ("x86/entry/32: Remove redundant irq disable code")
+4983e5d74c82 ("x86/entry: Move irq flags tracing to prepare_exit_to_usermode()")
+8f159f1dfa1e ("x86/entry/common: Protect against instrumentation")
+1723be30e46f ("x86/entry: Mark enter_from_user_mode() noinstr")

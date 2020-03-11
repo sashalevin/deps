@@ -1,0 +1,4 @@
+4302abc628fc ("powerpc/64s: Prevent fallthrough to hash TLB flush when using radix")
+1665c027afb2 ("powerpc/64s: Reconnect tlb_flush() to hash__tlb_flush()")
+baf1ed24b27d ("powerpc/mm: Remove empty hash__ functions")
+6110236b9bbd ("powerpc/mm: Export flush_all_mm()")

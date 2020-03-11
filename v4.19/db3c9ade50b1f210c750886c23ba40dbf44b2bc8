@@ -1,0 +1,7 @@
+db3c9ade50b1 ("handle_mounts(): pass dentry in, turn path into a pure out argument")
+e73cabff5917 ("do_last(): collapse the call of path_to_nameidata()")
+da5ebf5aa676 ("lookup_open(): saner calling conventions (return dentry on success)")
+239eb983383b ("atomic_open(): saner calling conventions (return dentry on success)")
+bd7c4b508344 ("handle_mounts(): start building a sane wrapper for follow_managed()")
+31d1726d7250 ("make build_open_flags() treat O_CREAT | O_EXCL as implying O_NOFOLLOW")
+d41efb522e90 ("fs/namei.c: pull positivity check into follow_managed()")

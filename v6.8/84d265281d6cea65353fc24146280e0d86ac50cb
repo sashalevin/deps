@@ -1,0 +1,5 @@
+84d265281d6c ("sched/pelt: Use rq_clock_task() for hw_pressure")
+97450eb90965 ("sched/pelt: Remove shift of thermal clock")
+d4dbc991714e ("sched/cpufreq: Rename arch_update_thermal_pressure() => arch_update_hw_pressure()")
+f1f8d0a22422 ("sched/cpufreq: Take cpufreq feedback into account")
+8b936fc1d84f ("sched/fair: Use existing helper functions to access ->avg_rt and ->avg_dl")

@@ -1,0 +1,4 @@
+f1536585588b ("PCI: Don't rely on of_platform_depopulate() for reused OF-nodes")
+8fb18619d910 ("PCI/pwrctl: Create platform devices for child OF nodes of the port node")
+1a8c251cff20 ("PCI: move OF status = "disabled" detection to dev->match_driver")
+c6f54cf44c3d ("PCI: of: Propagate firmware node by calling device_set_node()")

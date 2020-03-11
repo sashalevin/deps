@@ -1,0 +1,7 @@
+935779eac00a ("iio: adc: ad7192: Silence no spi_device_id warnings")
+bd5dcdeb3fd0 ("iio: adc: ad7192: convert to device-managed functions")
+c9ec2cb328e3 ("iio: adc: ad7192: use devm_clk_get_optional() for mclk")
+b0f27fca5a6c ("iio: adc: ad7192: handle regulator voltage error first")
+e32fe6d90f44 ("iio: adc: ad7192: Avoid disabling a clock that was never enabled.")
+3eca1d26dbdc ("iio: adc: ad7192: move ad7192_of_match table closer to the end of the file")
+8f73a13f7457 ("iio: remove left-over parent assignments")

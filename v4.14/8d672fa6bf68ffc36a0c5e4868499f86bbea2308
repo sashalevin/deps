@@ -1,0 +1,5 @@
+8d672fa6bf68 ("rcu: Make rcu_init_new_rnp() stop upon already-set bit")
+962aff03c315 ("rcu: Clean up handling of tasks blocked across full-rcu_node offline")
+a32e01ee6897 ("rcu: Use wrapper for lockdep asserts")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

@@ -1,0 +1,6 @@
+47eefded1f70 ("scsi: target/iscsi: Simplify iscsit_handle_text_cmd()")
+e1dfb21f004f ("target/iscsi: Modify iscsit_do_crypto_hash_buf() prototype")
+c46e22f10612 ("iscsi-target: Delete error messages for failed memory allocations")
+f1725110324d ("iscsi-target: Use kcalloc() in iscsit_allocate_iovecs()")
+2854bb23cd5b ("iscsi-target: add int (*iscsit_xmit_pdu)()")
+69110e3cedbb ("iscsi-target: Use shash and ahash")

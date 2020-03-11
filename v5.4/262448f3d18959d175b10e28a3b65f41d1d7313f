@@ -1,0 +1,5 @@
+262448f3d189 ("x86/Kconfig: Only enable CONFIG_CC_HAS_IBT for clang >= 14.0.0")
+156ff4a544ae ("x86/ibt: Base IBT bits")
+256b92af784d ("x86/build: Disable CET instrumentation in the kernel for 32-bit too")
+2838307b019d ("x86/build: Remove -m16 workaround for unsupported versions of GCC")
+4ba68d000557 ("x86/mpx: remove build infrastructure")

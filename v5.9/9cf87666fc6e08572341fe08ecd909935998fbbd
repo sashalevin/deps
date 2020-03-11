@@ -1,0 +1,6 @@
+9cf87666fc6e ("USB: dwc3: qcom: fix ACPI platform device leak")
+51392a1879ff ("USB: dwc3: qcom: fix resource leaks on probe deferral")
+8fd95da2cfb5 ("usb: dwc3: qcom: Release the correct resources in dwc3_qcom_remove()")
+1cffb1c66499 ("usb: dwc3: qcom: Add missing DWC3 OF node refcount decrement")
+8dc6e6dd1bee ("usb: dwc3: qcom: Constify the software node")
+c25c210f590e ("usb: dwc3: qcom: add URS Host support for sdm845 ACPI boot")

@@ -1,0 +1,7 @@
+16842516ea9c ("powerpc/64s: Add MMU type to __die() output")
+184051396b9d ("powerpc: Show PAGE_SIZE in __die() output")
+782274434d6f ("powerpc: Stop using pr_cont() in __die()")
+1c56cd8ee945 ("powerpc/oops: Use IS_ENABLED() for oops markers")
+2e82ca3c3978 ("powerpc/oops: Print the kernel's endian in the oops")
+72c0d9ee4abc ("powerpc/oops: Fix the oops markers to use pr_cont()")
+e7df0d88c455 ("powerpc: query dynamic DEBUG_PAGEALLOC setting")

@@ -1,0 +1,8 @@
+59d0d4c3eae0 ("f2fs: update blkaddr in __set_data_blkaddr() for cleanup")
+2020cd48e41c ("f2fs: introduce get_dnode_addr() to clean up codes")
+bb6e1c8fa5b9 ("f2fs: delete obsolete FI_DROP_CACHE")
+a53936361330 ("f2fs: delete obsolete FI_FIRST_BLOCK_WRITTEN")
+e7547daccd6a ("f2fs: refactor extent_cache to support for read and more")
+749d543c0d45 ("f2fs: remove unnecessary __init_extent_tree")
+3bac20a8f011 ("f2fs: move internal functions into extent_cache.c")
+12607c1ba763 ("f2fs: specify extent cache for read explicitly")

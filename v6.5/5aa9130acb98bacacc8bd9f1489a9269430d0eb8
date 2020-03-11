@@ -1,0 +1,6 @@
+5aa9130acb98 ("porting: update locking requirements")
+060e6c7d179e ("porting: document superblock as block device holder")
+2ba0dd6562f2 ("porting: document new block device opening order")
+40d49a3c9e4a ("mm: allow ->huge_fault() to be called without the mmap_lock held")
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+c4fd825e1884 ("mm: handle PUD faults under the VMA lock")

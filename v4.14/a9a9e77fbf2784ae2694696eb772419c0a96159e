@@ -1,0 +1,8 @@
+a9a9e77fbf27 ("mm: move mirrored memory specific code outside of memmap_init_zone")
+d3035be4ce23 ("mm: calculate deferred pages after skipping mirrored memory")
+d483da5bc78b ("mm: create non-atomic version of SetPageReserved for init use")
+6f84f8d1587f ("xen, mm: allow deferred page initialization for xen pv domains")
+d0dc12e86b31 ("mm/memory_hotplug: optimize memory hotplug")
+f59f1caf72ba ("Revert "mm: page_alloc: skip over regions of invalid pfns where possible"")
+379b03b7fa05 ("mm/memblock.c: hardcode the end_pfn being -1")
+3ff1b28caaff ("Merge tag 'libnvdimm-for-4.16' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

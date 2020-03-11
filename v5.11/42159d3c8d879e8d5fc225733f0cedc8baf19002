@@ -1,0 +1,7 @@
+42159d3c8d87 ("scsi: libsas: Add spin_lock/unlock() to protect asd_sas_port->phy_list")
+f76d9f1a1511 ("scsi: libsas: Switch back to original event notifiers API")
+5d6a75a1edf6 ("scsi: libsas: Add gfp_t flags parameter to event notifications")
+19a39831ff99 ("scsi: libsas: Pass gfp_t flags to event notifiers")
+c2d0f1a65ab9 ("scsi: libsas: Introduce a _gfp() variant of event notifiers")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")

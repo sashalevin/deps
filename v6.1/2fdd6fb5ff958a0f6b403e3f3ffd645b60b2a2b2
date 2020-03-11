@@ -1,0 +1,5 @@
+2fdd6fb5ff95 ("io_uring: don't batch task put on reqs free")
+8d664282a03f ("io_uring: rename 'in_idle' to 'in_cancel'")
+5afa46507139 ("io_uring: refactor io_put_task helpers")
+68a2cc1bba98 ("io_uring: refactor __io_req_complete_post")
+89800a2dd570 ("io_uring: don't export io_put_task()")

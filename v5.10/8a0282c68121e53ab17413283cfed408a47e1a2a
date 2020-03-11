@@ -1,0 +1,8 @@
+8a0282c68121 ("KVM: arm64: Don't overwrite software bits with owner id")
+178cac08d588 ("KVM: arm64: Rename KVM_PTE_LEAF_ATTR_S2_IGNORED")
+807923e04a0f ("KVM: arm64: Use page-table to track page ownership")
+f60ca2f9321a ("KVM: arm64: Always zero invalid PTEs")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")
+694d071f8d85 ("KVM: arm64: Filter out the case of only changing permissions from stage-2 map path")
+8ed80051c8c3 ("KVM: arm64: Adjust partial code of hyp stage-1 map and guest stage-2 map")

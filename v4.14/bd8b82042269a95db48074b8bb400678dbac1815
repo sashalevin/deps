@@ -1,0 +1,5 @@
+bd8b82042269 ("usbip: vudc synchronize sysfs code paths")
+46613c9dfa96 ("usbip: fix vudc usbip_sockfd_store races leading to gpf")
+6801854be94f ("usbip: fix vudc to check for stream socket")
+df3334c223a0 ("usbip: vudc: fix null pointer dereference on udc->lock")
+ca35910a1ba2 ("USB: move many drivers to use DEVICE_ATTR_WO")

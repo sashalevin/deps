@@ -1,0 +1,8 @@
+7eefda7f353e ("s390/qeth: fix notification for pending buffers during teardown")
+c20383ad1656 ("s390/qeth: improve completion of pending TX buffers")
+75cf3854dcdf ("s390/qeth: remove QETH_QDIO_BUF_HANDLED_DELAYED state")
+db4ffdcef7c9 ("s390/qeth: don't replace a fully completed async TX buffer")
+7ed10e16e50d ("s390/qeth: fix tear down of async TX buffers")
+8908f36d20d8 ("s390/qeth: fix af_iucv notification race")
+378ac80d7f49 ("s390/qeth: static checker cleanups")
+a16684742f94 ("s390/qeth: make queue lock a proper spinlock")

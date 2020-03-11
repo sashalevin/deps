@@ -1,0 +1,7 @@
+89b35e3f2851 ("spi: fsi: Implement a timeout for polling status")
+48a78c66ad5d ("spi: fsi: Print status on error")
+34d34a56a5ea ("spi: fsi: Reduce max transfer size to 8 bytes")
+3ed4c84cc7ac ("spi: fsi: Remove multiple sequenced ops for restricted chips")
+49c9fc1d7c10 ("spi: fsi: Implement restricted size for certain controllers")
+7909eebb2bea ("spi: fsi: Fix use of the bneq+ sequencer instruction")
+2b3cef0fc757 ("spi: fsi: Handle 9 to 15 byte transfers lengths")

@@ -1,0 +1,8 @@
+1d374703fb98 ("spi: imx: rename config callback and add useful parameters")
+00b80ac93553 ("spi: imx: mx51-ecspi: Move some initialisation to prepare_message hook.")
+e697271c4e29 ("spi: imx: add a device specific prepare_message callback")
+5ba5a3730639 ("spi: imx: correct wml as the last sg length")
+987a2dfe3f04 ("spi: imx: move wml setting to later than setup_transfer")
+0486dd4d6111 ("spi: imx: remove unnecessary check in spi_imx_can_dma")
+afb27208146a ("spi: imx: Use correct number of bytes per words")
+71abd29057cb ("spi: imx: Add support for SPI Slave mode")

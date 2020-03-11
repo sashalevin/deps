@@ -1,0 +1,4 @@
+a89474aaf7cf ("efi: stub: use random seed from EFI variable")
+196dff2712ca ("efi: random: combine bootloader provided RNG seed with RNG protocol output")
+7d866e38c7e9 ("efi: random: Use 'ACPI reclaim' memory for random seed")
+161a438d730d ("efi: random: reduce seed size to 32 bytes")

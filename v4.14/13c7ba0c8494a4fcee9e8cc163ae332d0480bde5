@@ -1,0 +1,7 @@
+13c7ba0c8494 ("mptcp: adjust mptcp receive buffer limit if subflow has larger one")
+6719331c2f73 ("mptcp: trigger msk processing even for OoO data")
+47bebdf365ad ("mptcp: set data_ready status bit in subflow_check_data_avail()")
+7279da6145bb ("mptcp: Use MPTCP-level flag for sending DATA_FIN")
+0bac966a1f2a ("mptcp: Allow DATA_FIN in headers without TCP FIN")
+b93df08ccda3 ("mptcp: explicitly track the fully established status")
+71930d61025e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

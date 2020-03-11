@@ -1,0 +1,5 @@
+5541a9bacfe5 ("serial: fsl_lpuart: handle break and make sysrq work")
+5697df7322fe ("serial: fsl_lpuart: split sysrq handling")
+0d84f62220ed ("serial: fsl_lpuart: don't restore interrupt state in ISR")
+ec22c3eec543 ("serial: fsl_lpuart: use UARTDATA_MASK macro")
+4d9ec1c0ced6 ("tty/serial: Migrate fsl_lpuart to use has_sysrq")

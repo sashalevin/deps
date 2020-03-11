@@ -1,0 +1,8 @@
+36491f2df9ad ("ibmvnic: complete init_done on transport events")
+2147e3d09e9b ("ibmvnic: Terminate waiting device threads after loss of service")
+7ed5b31f4a66 ("net/ibmvnic: prevent more than one thread from running in reset")
+b27507bb59ed ("net/ibmvnic: unlock rtnl_lock in reset so linkwatch_event can run")
+1c2977c09499 ("net/ibmvnic: free reset work of removed device from queue")
+36f1031c51a2 ("ibmvnic: Do not process reset during or after device removal")
+0655f9943df2 ("net/ibmvnic: Update carrier state after link state change")
+f83f7151950d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

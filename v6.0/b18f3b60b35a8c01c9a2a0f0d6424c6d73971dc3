@@ -1,0 +1,7 @@
+b18f3b60b35a ("btrfs: zoned: fix lock ordering in btrfs_zone_activate()")
+6a8ebc773ef6 ("btrfs: zoned: no longer count fresh BG region as zone unusable")
+a7e1ac7bdc5a ("btrfs: zoned: reserve zones for an active metadata/system block group")
+fa2068d7e922 ("btrfs: zoned: count fresh BG region as zone unusable")
+9e1cdf0c354e ("btrfs: zoned: fix btrfs_can_activate_zone() to support DUP profile")
+3349b57fd47b ("btrfs: convert block group bit field to use bit helpers")
+9d4b0a129a0d ("btrfs: simplify arguments of btrfs_update_space_info and rename")

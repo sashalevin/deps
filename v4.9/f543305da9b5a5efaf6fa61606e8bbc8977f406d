@@ -1,0 +1,5 @@
+f543305da9b5 ("ravb: remove tx buffer addr 4byte alilgnment restriction for R-Car Gen3")
+3e3d647715d4 ("ravb: add wake-on-lan support via magic packet")
+9199cb7677b3 ("ravb: Double free on error in ravb_start_xmit()")
+a47b70ea86bd ("ravb: unmap descriptors when freeing rings")
+8ec3e8a192ba ("ravb: do not use zero-length alignment DMA descriptor")

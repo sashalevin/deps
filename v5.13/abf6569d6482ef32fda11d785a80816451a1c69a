@@ -1,0 +1,5 @@
+abf6569d6482 ("pwm: imx-tpm: Make use of devm_pwmchip_alloc() function")
+92fcd5b682e4 ("pwm: imx-tpm: Simplify using devm functions")
+ed60a877affc ("pwm: imx-tpm: Convert to platform remove callback returning void")
+bfecbc9490dc ("pwm: imx-tpm: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

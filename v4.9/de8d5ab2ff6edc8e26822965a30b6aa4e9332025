@@ -1,0 +1,5 @@
+de8d5ab2ff6e ("net: Make RX-FCS and HW GRO mutually exclusive")
+e6c6a9290521 ("net: Make RX-FCS and LRO mutually exclusive")
+fb1f5f79ae96 ("net: Introduce NETIF_F_GRO_HW.")
+79e7fff47b7b ("net: remove support for per driver ndo_busy_poll()")
+217f69743681 ("net: busy-poll: allow preemption in sk_busy_loop()")

@@ -1,0 +1,7 @@
+77ef56e4f0fb ("x86: Enable 5-level paging support via CONFIG_X86_5LEVEL=y")
+5e57f1d607d1 ("x86/xen: add CONFIG_XEN_PV to Kconfig")
+0991d22d5e7f ("x86/xen: separate PV and HVM hypervisors")
+7243b93345f7 ("xen/pvh: Bootstrap PVH guest")
+063334f30543 ("xen/x86: Remove PVH support")
+73c1b41e63f0 ("cpu/hotplug: Cleanup state names")
+738662c35c49 ("xen/x86: Increase xen_e820_map to E820_X_MAX possible entries")

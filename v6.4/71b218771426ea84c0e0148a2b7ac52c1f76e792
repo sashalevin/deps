@@ -1,0 +1,4 @@
+71b218771426 ("drm/i915/hwmon: Fix locking inversion in sysfs getter")
+655bd3b954cf ("drm/i915/hwmon: Block waiting for GuC reset to complete")
+1b44019a93e2 ("drm/i915/guc: Disable PL1 power limit when loading GuC firmware")
+d81268ee1c10 ("drm/i915/hwmon: Get mutex and rpm ref just once in hwm_power_max_write")

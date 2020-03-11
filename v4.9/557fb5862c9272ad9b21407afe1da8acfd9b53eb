@@ -1,0 +1,6 @@
+557fb5862c92 ("sctp: fix return value check in __sctp_rcv_asconf_lookup")
+0c5dc070ff3d ("sctp: validate from_addr_param return")
+b6f3320b1d52 ("sctp: fully initialize v4 addr in some functions")
+0630c56e40b0 ("sctp: simplify addr copy")
+b8607805dd15 ("sctp: not copying duplicate addrs to the assoc's bind address list")
+165f2cf6405a ("sctp: reduce indent level in sctp_copy_local_addr_list")

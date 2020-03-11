@@ -1,0 +1,6 @@
+e1478d8eaf27 ("asm-generic: Refactor dereference_[kernel]_function_descriptor()")
+a257cacc3871 ("asm-generic: Define CONFIG_HAVE_FUNCTION_DESCRIPTORS")
+41a88b45479d ("ia64: Rename 'ip' to 'addr' in 'struct fdesc'")
+d3e32b997a4c ("powerpc: Use 'struct func_desc' instead of 'struct ppc64_opd_entry'")
+1b1ad288b8f1 ("kallsyms: remove arch specific text and data check")
+e5ae3728327f ("mm: make generic arch_is_kernel_initmem_freed() do what it says")

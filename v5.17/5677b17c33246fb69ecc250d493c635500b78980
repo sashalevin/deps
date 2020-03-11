@@ -1,0 +1,7 @@
+5677b17c3324 ("ARM: 9361/1: amba: store owner from modules with amba_driver_register()")
+f2d3b9a46e0e ("ARM: 9220/1: amba: Remove deferred device addition")
+8030aa3ce12e ("ARM: 9207/1: amba: fix refcount underflow if amba_device_add() fails")
+7719a68b2fa4 ("ARM: 9192/1: amba: fix memory leak in amba_device_try_add()")
+1f44de0f5e30 ("ARM: 9193/1: amba: Add amba_read_periphid() helper")
+a2e7ae86a6eb ("ARM: 9174/1: amba: Move EXPORT_SYMBOL() closer to definition")
+dacf3ca134d0 ("ARM: 9173/1: amba: kill amba_find_match()")

@@ -1,0 +1,8 @@
+8ecf0477b990 ("iwlwifi: pass number of chains and sub-bands to iwl_sar_set_profile()")
+81870d138dfe ("iwlwifi: convert flat SAR profile table to a struct version")
+248e7e2a1d8d ("iwlwifi: rename ACPI_SAR_NUM_CHAIN_LIMITS to ACPI_SAR_NUM_CHAINS")
+9c08cef87048 ("iwlwifi: acpi: prepare SAR profile selection code for multiple sizes")
+216cdfb5225f ("iwlwifi: add a common struct for all iwl_tx_power_cmd versions")
+090a5d7c8b19 ("iwlwifi: don't export acpi functions unnecessarily")
+9db93491f29e ("iwlwifi: acpi: support device specific method (DSM)")
+71e9378bcfd2 ("iwlwifi: mvm: initialize iwl_dev_tx_power_cmd to zero")

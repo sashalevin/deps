@@ -1,0 +1,7 @@
+8462e0b46fe2 ("libbpf: Teach bpf_link_create() to fallback to bpf_raw_tracepoint_open()")
+549a63238603 ("libbpf: Ensure that BPF syscall fds are never 0, 1, or 2")
+3ec84f4b1638 ("libbpf: Add bpf_cookie support to bpf_link_create() API")
+b0588390dbce ("libbpf: Split CO-RE logic into relo_core.c.")
+301ba4d71028 ("libbpf: Move CO-RE types into relo_core.h.")
+3ee4f5335511 ("libbpf: Split bpf_core_apply_relo() into bpf_program independent helper.")
+6e43b2860784 ("libbpf: Cleanup the layering between CORE and bpf_program.")

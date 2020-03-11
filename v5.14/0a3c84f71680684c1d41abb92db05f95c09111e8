@@ -1,0 +1,5 @@
+0a3c84f71680 ("scsi: lpfc: Ensure DA_ID handling completion before deleting an NPIV instance")
+8ed190a91950 ("scsi: lpfc: Fix NPIV port deletion crash")
+af984c87293b ("scsi: lpfc: Allow fabric node recovery if recovery is in progress before devloss")
+0614568361b0 ("scsi: lpfc: Delay unregistering from transport until GIDFT or ADISC completes")
+21990d3d1861 ("scsi: lpfc: Fix target reset handler from falsely returning FAILURE")

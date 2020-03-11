@@ -1,0 +1,5 @@
+56d250ef9650 ("cuse: fix broken release")
+ebf84d0c7220 ("fuse: Add fuse_inode argument to fuse_prepare_release()")
+4e8c2eb54327 ("fuse: convert fuse_file.count from atomic_t to refcount_t")
+9a87ad3da905 ("fuse: release: private_data cannot be NULL")
+267d84449f52 ("fuse: cleanup fuse_file refcounting")

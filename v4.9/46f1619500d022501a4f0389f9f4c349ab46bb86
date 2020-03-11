@@ -1,0 +1,8 @@
+46f1619500d0 ("MIPS: include: Mark __xchg as __always_inline")
+4843cf8d3be4 ("MIPS: cmpxchg: Rearrange __xchg() arguments to match xchg()")
+b70eb30056dc ("MIPS: cmpxchg: Implement 1 byte & 2 byte xchg()")
+62c6081dca75 ("MIPS: cmpxchg: Drop __xchg_u{32,64} functions")
+d15dc68c1143 ("MIPS: cmpxchg: Error out on unsupported xchg() calls")
+77299db802d4 ("MIPS: cmpxchg: Use __compiletime_error() for bad cmpxchg() pointers")
+5154f3b41949 ("MIPS: cmpxchg: Pull xchg() asm into a macro")
+6b1e76297c4a ("MIPS: cmpxchg: Unify R10000_LLSC_WAR & non-R10000_LLSC_WAR cases")

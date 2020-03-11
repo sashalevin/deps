@@ -1,0 +1,4 @@
+d199483c2b97 ("mm/hugetlb: rename dissolve_free_huge_pages() to dissolve_free_hugetlb_folios()")
+54fa49b2e0ef ("mm/hugetlb: convert dissolve_free_huge_pages() to folios")
+1983184c22dd ("mm/memory-failure: fix deadlock when hugetlb_optimize_vmemmap is enabled")
+dc2628f39582 ("mm: hugetlb: remove minimum_order variable")

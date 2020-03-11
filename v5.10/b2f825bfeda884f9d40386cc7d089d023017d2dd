@@ -1,0 +1,6 @@
+b2f825bfeda8 ("x86: Move RETPOLINE*_CFLAGS to arch Makefile")
+7d73c3e9c514 ("Makefile: remove stale cc-option checks")
+3204a7fb98a3 ("kbuild: prefix $(srctree)/ to some included Makefiles")
+dc5723b02e52 ("kbuild: add support for Clang LTO")
+e732b538f455 ("kbuild: Skip module BTF generation for out-of-tree external modules")
+5f9ae91f7c0d ("kbuild: Build kernel module BTFs if BTF is enabled and pahole supports it")

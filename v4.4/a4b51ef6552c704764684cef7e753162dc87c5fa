@@ -1,0 +1,5 @@
+a4b51ef6552c ("x86/mm/dump_pagetables: Allow dumping current pagetables")
+b4bf4f924b1d ("x86/mm/dump_pagetables: Check user space page table for WX pages")
+75298aa179d5 ("x86/mm/dump_pagetables: Add page table directory to the debugfs VFS hierarchy")
+071ac0c4e8e9 ("x86/mm/ptdump: Make (debugfs)/kernel_page_tables read-only")
+8609d1b5daa3 ("x86/mm: Turn CONFIG_X86_PTDUMP into a module")

@@ -1,0 +1,4 @@
+c53aab207622 ("serial: 8250: omap: Move uart_write() inside PM section")
+398cecc24846 ("serial: 8250: omap: Fix imprecise external abort for omap_8250_pm()")
+93810191f5d2 ("serial: 8250: omap: Fix missing PM runtime calls for omap8250_set_mctrl()")
+7c7f9bc986e6 ("serial: Deassert Transmit Enable on probe in driver-specific way")

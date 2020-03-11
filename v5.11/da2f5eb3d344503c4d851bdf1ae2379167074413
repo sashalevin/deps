@@ -1,0 +1,5 @@
+da2f5eb3d344 ("mm/doc: turn fault flags into an enum")
+9d3af4b448a1 ("mm: Pass 'address' to map to do_set_pte() and drop FAULT_FLAG_PREFAULT")
+742d33729a0d ("mm: Move immutable fields of 'struct vm_fault' into anonymous struct")
+46bdb4277f98 ("mm: Allow architectures to request 'old' entries when prefaulting")
+f9ce0be71d1f ("mm: Cleanup faultaround and finish_fault() codepaths")

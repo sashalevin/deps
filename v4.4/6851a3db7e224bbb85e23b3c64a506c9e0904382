@@ -1,0 +1,8 @@
+6851a3db7e22 ("xfs: validate bdev support for DAX inode flag")
+64485437357d ("xfs: XFS_DIFLAG2_DAX limited by PAGE_SIZE")
+3a6a854a82fc ("xfs: dynamically switch modes when XFS_DIFLAG2_DAX is set/cleared")
+db10c697b40e ("xfs: S_DAX is only for regular files")
+e8897529053d ("xfs: XFS_DIFLAG_DAX is only for regular files or directories")
+58f88ca2df72 ("xfs: introduce per-inode DAX enablement")
+e7b89481017b ("xfs: use FS_XFLAG definitions directly")
+334e580a6f97 ("fs: XFS_IOC_FS[SG]SETXATTR to FS_IOC_FS[SG]ETXATTR promotion")

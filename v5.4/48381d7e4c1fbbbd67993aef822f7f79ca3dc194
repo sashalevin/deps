@@ -1,0 +1,7 @@
+48381d7e4c1f ("mm/page_isolation: drop WARN_ON_ONCE() in set_migratetype_isolate()")
+3d680bdf60a5 ("mm/page_isolation: fix potential warning from user")
+4a55c0474a92 ("mm/hotplug: silence a lockdep splat with printk()")
+fe4c86c916d9 ("mm: remove "count" parameter from has_unmovable_pages()")
+3f9903b9ca5e ("mm: remove the memory isolate notifier")
+5b57b8f22709 ("mm/debug.c: always print flags in dump_page()")
+756d25be457f ("mm/page_isolation.c: convert SKIP_HWPOISON to MEMORY_OFFLINE")

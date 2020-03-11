@@ -1,0 +1,6 @@
+ae4ba35d3638 ("usb: typec: Allow power role swapping even without USB PD")
+b747038d9d14 ("usb: typec: Make the attributes read-only when writing is not possible")
+8c038ea8b65f ("usb: typec: Remove the callback members from struct typec_capability")
+46310e4dade2 ("usb: typec: Separate the operations vector")
+8c127a42af89 ("usb: typec: Introduce typec_get_drvdata()")
+ad772c39b2fb ("usb: typec: Copy everything from struct typec_capability during registration")

@@ -1,0 +1,8 @@
+1f7aacc5eb9e ("powerpc/iommu: Incorrect DDW Table is referenced for SR-IOV device")
+4f7e0babbc7c ("powerpc/iommu: Allow bypass-only for DMA")
+8617a5c5bc00 ("powerpc/dma: handle iommu bypass in dma_iommu_ops")
+c4e9d3c1e65a ("powerpc/powernv/pseries: Rework device adding to IOMMU groups")
+c10c21efa4bc ("powerpc/vfio/iommu/kvm: Do not pin device memory")
+e0bf78b0f959 ("powerpc/mm/iommu/vfio_spapr_tce: Change mm_iommu_get to reference a region")
+9c15a87cfc6c ("powerpc/dma: remove the unused dma_iommu_ops export")
+2691f0ff3d96 ("KVM: PPC: Propagate errors to the guest when failed instead of ignoring")

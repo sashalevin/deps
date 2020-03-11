@@ -1,0 +1,7 @@
+6888da8179fd ("scsi: target: tcmu: Add backend plug/unplug callouts")
+59526d7a187f ("scsi: target: tcmu: Make TMR notification optional")
+bc2d214af5db ("scsi: target: tcmu: Implement tmr_notify callback")
+ed212ca87897 ("scsi: target: tcmu: Fix and simplify timeout handling")
+3d3f9d56a570 ("scsi: target: tcmu: Factor out new helper ring_insert_padding")
+8c4e0f212398 ("scsi: target: tcmu: Fix size in calls to tcmu_flush_dcache_range")
+61fb24822166 ("scsi: target: tcmu: Userspace must not complete queued commands")

@@ -1,0 +1,7 @@
+672d6ef4c775 ("fsverity: improve documentation for builtin signature support")
+02ee2316b935 ("fsverity: update the documentation")
+07c99001312c ("fs-verity: support reading signature with ioctl")
+947191ac8cab ("fs-verity: support reading descriptor with ioctl")
+622699cfe6ec ("fs-verity: support reading Merkle tree with ioctl")
+e17fe6579de0 ("fs-verity: add FS_IOC_READ_VERITY_METADATA ioctl")
+c2c8261151b3 ("fs-verity: factor out fsverity_get_descriptor()")

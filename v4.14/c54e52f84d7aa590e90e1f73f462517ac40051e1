@@ -1,0 +1,3 @@
+c54e52f84d7a ("arm64, irqchip/gic-v3, ACPI: Move MADT GICC enabled check into a helper")
+926b5dfa6b8d ("irqchip/gic-v3: Only provision redistributors that are enabled in ACPI")
+ebe2f8718007 ("irqchip/gic-v3: Fix the driver probe() fail due to disabled GICC entry")

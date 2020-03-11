@@ -1,0 +1,6 @@
+5b8abf1f33cc ("kvm: svm: Do not support AVIC if not CONFIG_X86_LOCAL_APIC")
+44a95dae1d22 ("KVM: x86: Detect and Initialize AVIC support")
+520040146a0a ("KVM: x86: Use vector-hashing to deliver lowest-priority interrupts")
+5c919412fe61 ("kvm/x86: Hyper-V synthetic interrupt controller")
+d62caabb41f3 ("kvm/x86: per-vcpu apicv deactivation support")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

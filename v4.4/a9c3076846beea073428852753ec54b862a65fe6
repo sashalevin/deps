@@ -1,0 +1,7 @@
+a9c3076846be ("ACPI: EC: Declare boot_ec as static")
+72c77b7ea9ce ("ACPI / EC: Cleanup first_ec/boot_ec code")
+e1191bd4f62d ("ACPI / EC: Work around method reentrancy limit in ACPICA for _Qxx")
+fd6231e785f1 ("ACPI / EC: Cleanup boot EC code using acpi_ec_alloc()")
+dcf15cbded65 ("ACPI / EC: Fix a boot EC regresion by restoring boot EC support for the DSDT EC")
+59f0aa9480cf ("ACPI 2.0 / ECDT: Remove early namespace reference from EC")
+0e1affe41bdd ("ACPI 2.0 / ECDT: Split EC_FLAGS_HANDLERS_INSTALLED")

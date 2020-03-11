@@ -1,0 +1,8 @@
+b97e8a2f7130 ("irqchip/gic-v3-its: Fix potential race condition in its_vlpi_prop_update()")
+11635fa26dc7 ("irqchip/gic-v3-its: Make vlpi_lock a spinlock")
+046b5054f566 ("irqchip/gic-v3-its: Lock VLPI map array before translating it")
+c1d4d5cd203c ("irqchip/gic-v3-its: Add its_vlpi_map helpers")
+425c09be0f09 ("irqchip/gic-v3-its: Allow LPI invalidation via the DirectLPI interface")
+2f4f064b3131 ("irqchip/gic-v3-its: Factor out wait_for_syncr primitive")
+8424312516e5 ("irqchip/gic-v3-its: Use the exact ITSList for VMOVP")
+e1a2e2010ba9 ("irqchip/gic-v3-its: Keep track of property table's PA and VA")

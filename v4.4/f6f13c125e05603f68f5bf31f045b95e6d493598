@@ -1,0 +1,7 @@
+f6f13c125e05 ("hv_netvsc: Fix unwanted wakeup in netvsc_attach()")
+1b704c4a1ba9 ("hv_netvsc: Fix unwanted wakeup after tx_disable")
+e04e7a7bbd4b ("hv_netvsc: Fix a deadlock by getting rtnl lock earlier in netvsc_probe()")
+3ffe64f1a641 ("hv_netvsc: split sub-channel setup into async and sync")
+7bf7bb37f16a ("hv_netvsc: fix network namespace issues with VF support")
+8cde8f0c0c03 ("hv_netvsc: drop common code until callback model fixed")
+f0dc7f9c6dd9 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

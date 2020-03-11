@@ -1,0 +1,5 @@
+e12963c45326 ("pinctrl: intel: Fix a glitch when updating IRQ flags on a preconfigured line")
+e8873c0afd34 ("pinctrl: intel: Actually disable Tx and Rx buffers on GPIO request")
+af7e3eeb84e2 ("pinctrl: intel: Disable input and output buffer when switching to GPIO")
+4973ddc84264 ("pinctrl: intel: Avoid potential glitches if pin is in GPIO mode")
+e58926e781d8 ("pinctrl: intel: Use GENMASK() consistently")

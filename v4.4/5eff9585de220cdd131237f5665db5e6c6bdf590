@@ -1,0 +1,8 @@
+5eff9585de22 ("drm: avoid blocking in drm_clients_info's rcu section")
+c6fdea6e1a19 ("drm: Merge drm_info.c into drm_debugfs.c")
+3ed4351a83ca ("drm: Extract drm_vblank.[hc]")
+5caa0feafcc6 ("drm/vblank: Lock down vblank->hwmode more")
+1bf6ad622b9b ("drm/vblank: drop the mode argument from drm_calc_vbltimestamp_from_scanoutpos")
+3fcdcb270936 ("drm/vblank: Switch to bool in_vblank_irq in get_vblank_timestamp")
+d673c02c4bdb ("drm/vblank: Switch drm_driver->get_vblank_timestamp to return a bool")
+8b03d1ed2c43 ("Merge branch 'linux-4.12' of git://github.com/skeggsb/linux into drm-next")

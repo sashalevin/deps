@@ -1,0 +1,6 @@
+b631b95dded5 ("crash_core: move crashk_*res definition into crash_core.c")
+f05fa10901aa ("kexec: make crashk_res, crashk_low_res and crash_notes symbols always visible")
+692f66f26a4c ("crash: move crashkernel parsing and vmcore related code under CONFIG_CRASH_CORE")
+b6e92aa81038 ("kexec: Switch to __pa_symbol")
+401721ecd1dc ("kexec: export the value of phys_base instead of symbol address")
+69f58384791a ("Revert "kdump, vmcoreinfo: report memory sections virtual addresses"")

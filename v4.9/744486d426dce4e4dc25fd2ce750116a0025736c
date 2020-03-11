@@ -1,0 +1,4 @@
+744486d426dc ("net: inet6_rtm_getroute() - use new style struct initializer instead of memset")
+18c3a61c4264 ("net: ipv6: RTM_GETROUTE: return matched fib result when requested")
+f8cfe2ceb1c2 ("net: ipv6: remove prefix arg to rt6_fill_node")
+fd61c6ba313d ("net: ipv6: remove nowait arg to rt6_fill_node")

@@ -1,0 +1,8 @@
+ddde5412fdaa ("bnxt_en: Fix bnxt_refclk_read()")
+30e96f487f64 ("bnxt_en: Do not read the PTP PHC during chip reset")
+d7859afb6880 ("bnxt_en: Move bnxt_ptp_init() to bnxt_open()")
+93cb62d98e9c ("bnxt_en: Enable hardware PTP support")
+7f5515d19cd7 ("bnxt_en: Get the RX packet timestamp")
+390862f45c85 ("bnxt_en: Get the full 48-bit hardware timestamp periodically")
+118612d519d8 ("bnxt_en: Add PTP clock APIs, ioctls, and ethtool methods")
+ae5c42f0b92c ("bnxt_en: Get PTP hardware capability from firmware")

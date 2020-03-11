@@ -1,0 +1,5 @@
+c7d18b40a80e ("drm/i915/display: ignore link training failures in CI")
+77f4ec2a4111 ("drm/i915/dp: remove accidental static on what should be a local variable")
+a421d8a99216 ("drm/i915/dp: rewrite DP 2.0 128b/132b link training based on errata")
+92e438619d16 ("drm/i915/dp: move intel_dp_prepare_link_train() call")
+147819f6b890 ("drm/i915: Disable TRAINING_PATTERN_SET before stopping the TPS transmission")

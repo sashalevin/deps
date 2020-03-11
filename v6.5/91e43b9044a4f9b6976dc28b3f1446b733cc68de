@@ -1,0 +1,8 @@
+91e43b9044a4 ("rcu/nocb: Remove SEGCBLIST_KTHREAD_CB")
+bae6076ebbd1 ("rcu/nocb: Remove SEGCBLIST_RCU_CORE")
+4e26ce423116 ("rcu/nocb: (De-)offload callbacks on offline CPUs only")
+7121dd915a26 ("rcu/nocb: Introduce nocb mutex")
+7be88a857eb8 ("rcu/nocb: Assert no callbacks while nocb kthread allocation fails")
+ff81428ede8a ("rcu/nocb: Move nocb field at the end of state struct")
+7aeba709a048 ("rcu/nocb: Introduce RCU_NOCB_LOCKDEP_WARN()")
+02219caa92b5 ("Merge branches 'doc.2024.06.06a', 'fixes.2024.07.04a', 'mb.2024.06.28a', 'nocb.2024.06.03a', 'rcu-tasks.2024.06.06a', 'rcutorture.2024.06.06a' and 'srcu.2024.06.18a' into HEAD")

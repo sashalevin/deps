@@ -1,0 +1,7 @@
+5d298baa4188 ("powerpc/powernv: Clear LPCR[PECE1] via stop-api only for deep state offline")
+24be85a23d1f ("powerpc/powernv: Clear PECE1 in LPCR via stop-api only on Hotplug")
+2525db04d1cc ("powerpc/powernv: Simplify lazy IRQ handling in CPU offline")
+2201f994a574 ("powerpc/64s/idle: Move soft interrupt mask logic into C code")
+22c6663dc69a ("powerpc/powernv/idle: Use Requested Level for restoring state on P9 DD1")
+67d204180886 ("powerpc/powernv: Fix CPU_HOTPLUG=n idle.c compile error")
+3c19d5ada1be ("Merge branch 'topic/xive' (early part) into next")

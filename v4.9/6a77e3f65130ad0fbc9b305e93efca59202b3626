@@ -1,0 +1,4 @@
+6a77e3f65130 ("staging: iio: tsl2583: remove unnecessary chip status check in taos_get_lux")
+6ba5dee90b24 ("staging: iio: tsl2583: i2c_smbus_write_byte() / i2c_smbus_read_byte() migration")
+b3d941550d9d ("staging: iio: tsl2583: convert to use iio_chan_spec and {read,write}_raw")
+9d5f36d2419e ("staging: iio: tsl2583: check for error code from i2c_smbus_read_byte()")

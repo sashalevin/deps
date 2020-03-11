@@ -1,0 +1,4 @@
+e97d70a57370 ("xfs: use shmem_get_folio in in xfile_load")
+e62e26acc9ab ("xfs: don't allow highmem pages in xfile mappings")
+0e2a24afb992 ("xfs: don't try to handle non-update pages in xfile_obj_load")
+e47e2e0ba910 ("xfs: remove the xfile_pread/pwrite APIs")

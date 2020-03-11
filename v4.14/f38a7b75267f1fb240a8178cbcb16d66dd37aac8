@@ -1,0 +1,6 @@
+f38a7b75267f ("KVM: X86: support paravirtualized help for TLB shootdowns")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")
+b1394e745b94 ("KVM: x86: fix APIC page invalidation")
+05cade71cf3b ("KVM: nSVM: fix SMI injection in guest mode")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

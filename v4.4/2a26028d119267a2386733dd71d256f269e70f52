@@ -1,0 +1,8 @@
+2a26028d1192 ("net: bridge: Send notification when host join/leaves a group")
+ff0fd34eaee9 ("net: bridge: Rename mglist to host_joined")
+e151aab9b5b3 ("net: bridge: rearrange flood vs unicast receive paths")
+46c0772d8530 ("net: bridge: minor style adjustments in br_handle_frame_finish")
+45ebcce56823 ("bridge: mdb: Marking port-group as offloaded")
+9e8430f8d60d ("bridge: mdb: Passing the port-group pointer to br_mdb module")
+9d06b6d8a3fc ("bridge: mdb: Separate br_mdb_entry->state from net_bridge_port_group->state")
+f1fecb1d10ec ("bridge: Reflect MDB entries to hardware")

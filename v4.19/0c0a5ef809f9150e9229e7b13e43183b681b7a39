@@ -1,0 +1,4 @@
+0c0a5ef809f9 ("tcp: move inet->rx_dst_ifindex to sk->sk_rx_dst_ifindex")
+bbd807dfbf20 ("net: indirect call helpers for ipv4/ipv6 dst_check functions")
+9349d600fb6a ("tcp: add skb-less helpers to retrieve SYN cookie")
+93a77c11ae79 ("tcp: add tcp_inet6_sk() helper")

@@ -1,0 +1,8 @@
+65878fd95261 ("s390/qeth: clean up error handling for isolation mode cmds")
+62f0379c6c9b ("s390/qeth: don't clear the configured isolation mode")
+08e95cae648e ("s390/qeth: only init the isolation mode when necessary")
+8cebedb64383 ("s390/qeth: let isolation mode override HW offload restrictions")
+c619e9a6f52f ("s390/qeth: don't use restricted offloads for local traffic")
+fb8d258049f7 ("s390/qeth: add debugfs file for local IP addresses")
+0d49c06bcfc2 ("s390/qeth: process local address events")
+3be83016275d ("s390/qeth: keep track of LP2LP capability for csum offload")

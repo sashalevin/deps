@@ -1,0 +1,5 @@
+a61df3c413e4 ("jffs2: Fix NULL pointer dereference in rp_size fs option parsing")
+cd3ed3c73ac6 ("jffs2: Allow setting rp_size to zero during remounting")
+08cd274f9b82 ("jffs2: Fix ignoring mounting options problem during remounting")
+ec10a24f10c8 ("vfs: Convert jffs2 to use the new mount API")
+92e2921f7eee ("jffs2: free jffs2_sb_info through jffs2_kill_sb()")

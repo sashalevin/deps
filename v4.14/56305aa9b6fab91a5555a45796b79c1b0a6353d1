@@ -1,0 +1,7 @@
+56305aa9b6fa ("exec: Compute file based creds only once")
+a7868323c263 ("exec: Add a per bprm->file version of per_clear")
+b8a61c9e7b4a ("exec: Generic execfd support")
+a16b3357b2b8 ("exec: Allow load_misc_binary to call prepare_binprm unconditionally")
+112b7147592e ("exec: Convert security_bprm_set_creds into security_bprm_repopulate_creds")
+b8bff599261c ("exec: Factor security_bprm_creds_for_exec out of security_bprm_set_creds")
+b127c16d0603 ("Merge f87d1c955916 ("exec: Move would_dump into flush_old_exec")")

@@ -1,0 +1,5 @@
+c3531edc79a7 ("KVM: x86/pmu: Don't tell userspace to save PMU MSRs if PMU is disabled")
+2374b7310b66 ("KVM: x86/pmu: Use separate array for defining "PMU MSRs to save"")
+8911ce66697e ("KVM: x86/pmu: Cap kvm_pmu_cap.num_counters_gp at KVM's internal max")
+6a5cba7bed35 ("KVM: x86/pmu: Correct the mask used in a pmu event filter lookup")
+b7483387e374 ("KVM: x86: Move hardware setup/unsetup to init/exit")

@@ -1,0 +1,8 @@
+c7270209fc6f ("ASoC: pcm3168a: refactor hw_params routine")
+abe51c351827 ("ASoC: pcm3168a: Retain the independence of DAC and ADC side of the codec")
+f2c8b5701403 ("ASoC: pcm3168a: Allow all channels in case of parallel DIN/DOUT setup")
+9700022109b6 ("ASoC: pcm3168a: Add support for multi DIN/DOUT with TDM slots parameter")
+b5d8dffb8cc9 ("ASoC: pcm3168a: Rename min_frame_size to slot_width")
+9b8e8b893ff5 ("ASoC: pcm3168a: Implement set_tdm_slot callback")
+0900d1e64815 ("ASoC: pcm3168a: cleanup hw_constraint for LEFT_J/I2S")
+4e9e07c56757 ("ASoC: pcm3168a: add hw constraint for capture channel")

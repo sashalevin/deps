@@ -1,0 +1,6 @@
+d5ca24f63958 ("binfmt_elf: Use elf_load() for library")
+42be8b425351 ("binfmt: don't use MAP_DENYWRITE when loading shared libraries via uselib()")
+24962af7e104 ("fs, elf: make sure to page align bss in load_elf_library")
+4ed28639519c ("fs, elf: drop MAP_FIXED usage from elf_map")
+a4ff8e8620d3 ("mm: introduce MAP_FIXED_NOREPLACE")
+eab09532d400 ("binfmt_elf: use ELF_ET_DYN_BASE only for PIE")

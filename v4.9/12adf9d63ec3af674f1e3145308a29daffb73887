@@ -1,0 +1,8 @@
+12adf9d63ec3 ("crypto: omap-aes-gcm - add missing .setauthsize hooks")
+ad18cc9d0f91 ("crypto: omap-aes - Add support for GCM mode")
+d695bfd6f02a ("crypto: omap-aes - export some AES driver functionality locally")
+5b3d4d2e613b ("crypto: omap-aes - move definitions over to a separate header file")
+afc2dc133697 ("crypto: omap-aes - use base omap crypto support library")
+74ed87e7e7f7 ("crypto: omap - add base support library for common routines")
+619ce700583f ("crypto: omap-aes - fix context handling for multiple cores")
+f09b348c1ac5 ("crypto: omap-aes - drop unused flags attribute from omap_aes_ctx")

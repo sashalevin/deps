@@ -1,0 +1,7 @@
+3e5ee32392ef ("s390/atomic,cmpxchg: make constraints work with old compilers")
+13525f0a62cc ("s390/cmpxchg: use unsigned long values instead of void pointers")
+d2b1f6d2d350 ("s390/cmpxchg: get rid of gcc atomic builtins")
+b23eb636d7f9 ("s390/atomic: get rid of gcc atomic builtins")
+ca897bb1814f ("s390/atomic: use proper constraints")
+c8a91c285d8c ("s390/atomic: move remaining inline assemblies to atomic_ops.h")
+0ca94800762e ("locking/atomic, s390: Use s64 for atomic64")

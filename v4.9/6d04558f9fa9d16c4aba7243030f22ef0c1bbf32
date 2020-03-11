@@ -1,0 +1,5 @@
+6d04558f9fa9 ("xfs: pass individual arguments to xfs_bmap_add_extent_hole_real")
+a14234c72bf4 ("xfs: go straight to real allocations for direct I/O COW writes")
+5eda43000064 ("xfs: mark speculative prealloc CoW fork extents unwritten")
+5d829300bee0 ("xfs: provide helper for counting extents from if_bytes")
+4dfce57db635 ("xfs: fix up xfs_swap_extent_forks inline extent handling")

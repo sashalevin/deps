@@ -1,0 +1,4 @@
+7ada3787e91c ("bpf: Check for NULL return from bpf_get_btf_vmlinux")
+9492450fd287 ("bpf: Always raise reference in btf_get_module_btf")
+edc3ec09ab70 ("bpf: Factor out fd returning from bpf_btf_find_by_name_kind")
+dee872e124e8 ("bpf: Populate kfunc BTF ID sets in struct btf")

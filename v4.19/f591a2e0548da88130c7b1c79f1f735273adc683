@@ -1,0 +1,8 @@
+f591a2e0548d ("scsi: core: Add new flag BLIST_IGN_MEDIA_CHANGE")
+b0962c53bde9 ("scsi: core: avoid repetitive logging of device offline messages")
+c74f80566217 ("scsi: core: allow auto suspend override by low-level driver")
+d16ece577bf2 ("scsi: sd: Inline sd_probe_part2()")
+21e6ba3f0e02 ("scsi: sd: Rely on the driver core for asynchronous probing")
+3f7e62bba000 ("scsi: core: Synchronize request queue PM status only on successful resume")
+c092d4ec53c9 ("scsi: simplify scsi_prep_state_check")
+fef912bf860e ("block: genhd: add 'groups' argument to device_add_disk")

@@ -1,0 +1,8 @@
+c8006f67ae03 ("usb: dwc2: Set actual frame number for completed ISOC transfer")
+729cac693eec ("usb: dwc2: Change ISOC DDMA flow")
+95d2b0370d3c ("usb: dwc2: gadget: Adjust ISOC OUT request's actual len for DDMA")
+540ccba08599 ("usb: dwc2: gadget: Start and complete DDMA isoc transfers")
+ab7d2192947c ("usb: dwc2: gadget: Add DDMA isoc related fields to dwc2_hsotg_ep")
+e02f9aa6119e ("usb: dwc2: gadget: EP 0 specific DDMA programming")
+5f54c54b0ba8 ("usb: dwc2: gadget: Add DDMA chain pointers to dwc2_hsotg_ep structure")
+cf77b5fb9b39 ("usb: dwc2: gadget: Transfer length limit checking for DDMA")

@@ -1,0 +1,5 @@
+ce0a1b608bfc ("x86/paravirt: Silence unused native_pv_lock_init() function warning")
+24a376d65177 ("locking/qspinlock,x86: Clarify virt_spin_lock_key")
+67e87d43b794 ("x86: Convert some slow-path static_cpu_has() callers to boot_cpu_has()")
+a0e6e0831c51 ("x86/ldt: Unmap PTEs for the slot before freeing LDT pages")
+f682a7920baf ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

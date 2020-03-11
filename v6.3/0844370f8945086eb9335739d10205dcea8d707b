@@ -1,0 +1,4 @@
+0844370f8945 ("tls: fix lockless read of strp->msg_ready in ->poll")
+eca9bfafee3a ("tls: rx: strp: preserve decryption status of skbs when needed")
+8b0c0dc9fbbd ("tls: rx: strp: fix determining record length in copy mode")
+b3a03b540e3c ("tls: rx: device: fix checking decryption status")

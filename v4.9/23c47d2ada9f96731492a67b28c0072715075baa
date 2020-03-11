@@ -1,0 +1,5 @@
+23c47d2ada9f ("bdi: introduce BDI_CAP_SYNCHRONOUS_IO")
+e447a0151f7c ("zram: set BDI_CAP_STABLE_WRITES once")
+e17354961bb5 ("zram_drv: update for backing dev info changes")
+b09ab054b69b ("zram: support BDI_CAP_STABLE_WRITES")
+e7ccfc4ccb70 ("zram: revalidate disk under init_lock")

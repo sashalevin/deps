@@ -1,0 +1,6 @@
+278b1d709c6a ("libceph: ceph_decode_skip_* helpers")
+66a0e2d579db ("crush: remove mutable part of CRUSH map")
+1b6a78b5b91c ("libceph: add osdmap_set_crush() helper")
+b9b519b78cfb ("crush: decode and initialize chooseleaf_stable")
+dc6ae6d8e772 ("crush: add chooseleaf_stable tunable")
+f224a6915f26 ("crush: ensure bucket id is valid before indexing buckets array")

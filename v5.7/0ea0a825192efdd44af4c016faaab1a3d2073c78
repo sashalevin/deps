@@ -1,0 +1,5 @@
+0ea0a825192e ("watchdog: imx2_wdg: Declare local symbols static")
+e42c73f1ef0d ("watchdog: imx2_wdg: suspend watchdog in WAIT mode")
+cf6e4bc16dba ("watchdog: imx2_wdg: Alow ping on suspend")
+14244b7c04d6 ("watchdog: imx2_wdg: notify wdog core to stop ping worker on suspend")
+e0b101ab01c7 ("watchdog: imx2_wdt: avoid to ping before resume back")

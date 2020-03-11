@@ -1,0 +1,4 @@
+b568b1504d04 ("watchdog: core: Remove usage of the deprecated ida_simple_xx() API")
+6f733cb2e7db ("watchdog: Fix potential dereferencing of null pointer")
+69503e585192 ("watchdog: fix UAF in reboot notifier handling in watchdog core code")
+72139dfa2464 ("watchdog: Fix the race between the release of watchdog_core_data and cdev")

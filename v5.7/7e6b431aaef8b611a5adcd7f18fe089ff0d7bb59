@@ -1,0 +1,6 @@
+7e6b431aaef8 ("device-dax/kmem: move resource name tracking to drvdata")
+59bc8d10dc41 ("device-dax/kmem: introduce dax_kmem_range()")
+f5516ec5efb9 ("device-dax: make pgmap optional for instance creation")
+174ebece379b ("device-dax: move instance creation parameters to 'struct dev_dax_data'")
+4533d3aed857 ("memremap: rename MEMORY_DEVICE_DEVDAX to MEMORY_DEVICE_GENERIC")
+8a725e4694b5 ("device-dax: add memory via add_memory_driver_managed()")

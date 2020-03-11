@@ -1,0 +1,5 @@
+d4f46c0e52d6 ("extcon: sm5502: Drop useless mask_invert flag on irqchip")
+d97c0ff5a124 ("extcon: sm5502: Add support for SM5504")
+f33c056dea2e ("extcon: sm5502: Refactor driver to use chip-specific struct")
+d3a213d23c52 ("extcon: sm5502: Use devm_regmap_add_irq_chip()")
+e3f60329097b ("extcon: sm5502: Detect OTG when USB_ID is connected to ground")

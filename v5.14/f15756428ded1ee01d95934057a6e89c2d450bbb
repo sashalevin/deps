@@ -1,0 +1,3 @@
+f15756428ded ("KVM: x86: Skip APICv update if APICv is disable at the module level")
+187c8833def8 ("KVM: x86: Use rw_semaphore for APICv lock to allow vCPU parallelism")
+06ef813466c6 ("KVM: SVM: avoid refreshing avic if its state didn't change")

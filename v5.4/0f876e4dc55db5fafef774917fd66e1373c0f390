@@ -1,0 +1,4 @@
+0f876e4dc55d ("mm: memcg/slab: move memcg_kmem_bypass() to memcontrol.h")
+50d53d7c7243 ("memcg: fix memcg_kmem_bypass() for remote memcg charging")
+f4b00eab5004 ("mm: kmem: rename memcg_kmem_(un)charge() into memcg_kmem_(un)charge_page()")
+10eaec2f63b6 ("mm: kmem: cleanup (__)memcg_kmem_charge_memcg() arguments")

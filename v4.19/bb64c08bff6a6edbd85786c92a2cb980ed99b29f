@@ -1,0 +1,5 @@
+bb64c08bff6a ("ext4: Convert ext4_finish_bio() to use folios")
+46bac5352929 ("ext4: remove the null check of bio_vec page")
+f1e67e355c2a ("fs/buffer: Make BH_Uptodate_Lock bit_spin_lock a regular spinlock_t")
+d2d0727b1654 ("fscrypt: simplify bounce page handling")
+a9fbcd672883 ("Merge tag 'fscrypt_for_linus' of git://git.kernel.org/pub/scm/fs/fscrypt/fscrypt")

@@ -1,0 +1,6 @@
+319a624ec2b7 ("mm/huge_memory: only split PMD mapping when necessary in unmap_folio()")
+3027c6f8eb9d ("mm: huge_memory: batch tlb flush when splitting a pte-mapped THP")
+684555aacc90 ("huge_memory: convert unmap_page() to unmap_folio()")
+3e9a13daa612 ("huge_memory: convert split_huge_page_to_list() to use a folio")
+6a3edd293956 ("mm: release private data before split THP")
+98931dd95fd4 ("Merge tag 'mm-stable-2022-05-25' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

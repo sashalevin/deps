@@ -1,0 +1,6 @@
+c33db29231ad ("migrate: convert unmap_and_move_huge_page() to use folios")
+e7e3ffeb274f ("mm/migrate: convert move_to_new_page() into move_to_new_folio()")
+5202978b4878 ("mm/migration: remove unneeded local variable mapping_locked")
+356ea3865687 ("mm/migrate: fix race between lock page and clear PG_Isolated")
+3150be8fa89e ("mm: replace multiple dcache flush with flush_dcache_folio()")
+2771739a7162 ("mm: fix missing cache flush for all tail pages of compound page")

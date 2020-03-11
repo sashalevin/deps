@@ -1,0 +1,5 @@
+e5bc0478ab6c ("ARC: Add missing io barriers to io{read,write}{16,32}be()")
+f5db19e93f68 ("ARC: dma: ioremap: use phys_addr_t consistenctly in code paths")
+6b7003930e01 ("ARC: dma: non-coherent pages need V-P mapping if in HIGHMEM")
+d98a15a5653b ("ARC: dma: Use struct page based page allocator helpers")
+052c96dbe33b ("arc: convert to dma_map_ops")

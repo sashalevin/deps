@@ -1,0 +1,6 @@
+527c412519eb ("compat: add a compat_need_64bit_alignment_fixup() helper")
+202bf8d7583f ("compat: provide compat_ptr() on all architectures")
+a846446b1914 ("x86/compat: Adjust in_compat_syscall() to generic code under !COMPAT")
+e4da0d6872db ("sparc: compat: Allow including asm/compat.h for 32-bit")
+5055c67760df ("compat: Make compat helpers independent of CONFIG_COMPAT")
+71d577db01a5 ("parisc: Switch to generic COMPAT_BINFMT_ELF")

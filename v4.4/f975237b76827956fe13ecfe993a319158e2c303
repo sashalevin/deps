@@ -1,0 +1,5 @@
+f975237b7682 ("printk: use printk_safe buffers in printk")
+6b97a20d3a79 ("printk: set may_schedule for some of console_trylock() callers")
+a8199371afc2 ("printk: move can_use_console() out of console_trylock_for_printk()")
+06b031de22d2 ("printk: change recursion_bug type to bool")
+8d91f8b15361 ("printk: do cond_resched() between lines while outputting to consoles")

@@ -1,0 +1,7 @@
+3917048d4572 ("mm: allow full handling of COW faults in ->fault handlers")
+936ca80d3773 ("mm: trim __do_fault() arguments")
+667240e0f2e1 ("mm: use passed vm_fault structure in __do_fault()")
+0721ec8bc156 ("mm: use pgoff in struct vm_fault instead of passing it separately")
+1a29d85eb0f1 ("mm: use vmf->address instead of of vmf->virtual_address")
+82b0f8c39a38 ("mm: join struct fault_env and vm_fault")
+9439b3710df6 ("Merge tag 'drm-for-v4.10' of git://people.freedesktop.org/~airlied/linux")

@@ -1,0 +1,7 @@
+d4fefa4801a1 ("audit: move audit_return_fixup before the filters")
+69e9cd66ae13 ("audit,io_uring,io-wq: call __audit_uring_exit for dummy contexts")
+67daf270cebc ("audit: add filtering for io_uring records")
+5bd2182d58e9 ("audit,io_uring,io-wq: add some basic audit support to io_uring")
+12c5e81d3fd0 ("audit: prepare audit_context for use in calling contexts beyond syscalls")
+ef98eb0409c3 ("io_uring: clear TIF_NOTIFY_SIGNAL when running task work")
+c288d9cd7104 ("Merge tag 'for-5.14/io_uring-2021-06-30' of git://git.kernel.dk/linux-block")

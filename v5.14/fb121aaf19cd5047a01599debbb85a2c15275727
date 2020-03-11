@@ -1,0 +1,6 @@
+fb121aaf19cd ("KVM: x86/pmu: Drop "u64 eventsel" for reprogram_gp_counter()")
+89cb454ea984 ("KVM: x86/pmu: Extract check_pmu_event_filter() handling both GP and fixed counters")
+968635abd5f5 ("KVM: x86/pmu: Add kvm_pmu_cap to optimize perf_get_x86_pmu_capability")
+63f21f326fc9 ("KVM: x86/pmu: Move pmc_speculative_in_use() to arch/x86/kvm/pmu.h")
+bef6ecca46ac ("KVM: x86/pmu: Set MSR_IA32_MISC_ENABLE_EMON bit when vPMU is enabled")
+47e8eec83262 ("Merge tag 'kvmarm-5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

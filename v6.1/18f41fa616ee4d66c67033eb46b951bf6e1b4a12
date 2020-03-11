@@ -1,0 +1,4 @@
+18f41fa616ee ("mm: memory-failure: bump memory failure stats to pglist_data")
+a46c9304b4bb ("mm/hwpoison: pass pfn to num_poisoned_pages_*()")
+d027122d8363 ("mm/hwpoison: move definitions of num_poisoned_pages_* to memory-failure.c")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")

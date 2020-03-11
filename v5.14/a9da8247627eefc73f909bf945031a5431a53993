@@ -1,0 +1,5 @@
+a9da8247627e ("drm/vmwgfx: Add unwind hints around RBP clobber")
+eb4a3f7d78c7 ("x86/kprobes: Add UNWIND_HINT_FUNC on kretprobe_trampoline()")
+adf8a61a940c ("kprobes: treewide: Make it harder to refer kretprobe_trampoline directly")
+96fed8ac2bb6 ("kprobes: treewide: Remove trampoline_address from kretprobe_trampoline_handler()")
+a7fe2378454c ("ia64: kprobes: Fix to pass correct trampoline address to the handler")

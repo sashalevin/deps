@@ -1,0 +1,7 @@
+3fe6c873af2f ("parisc: Fix build of compressed kernel even with debug enabled")
+34c201ae49fe ("parisc: Include compressed vmlinux file in vmlinuz boot kernel")
+8c031ba63f8f ("parisc: Unbreak bootloader due to gcc-7 optimizations")
+f5213b2c40f5 ("parisc: Make existing core files reuseable for bootloader")
+2f3c7b8137ef ("parisc: Add core code for self-extracting kernel")
+f39cce654f9a ("parisc: Add cfi_startproc and cfi_endproc to assembly code")
+366dd4ea9d5f ("parisc: Fix ftrace function tracer")

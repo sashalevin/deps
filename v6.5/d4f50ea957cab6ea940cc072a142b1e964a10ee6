@@ -1,0 +1,5 @@
+d4f50ea957ca ("vfs: shave a branch in getname_flags")
+dff60734fc76 ("vfs: retire user_path_at_empty and drop empty arg from getname_flags")
+969ce92da311 ("vfs: stop using user_path_at_empty in do_readlinkat")
+03adc61edad4 ("audit,io_uring: io_uring openat triggers audit reference count underflow")
+9013c51c630a ("vfs: mostly undo glibc turning 'fstat()' into 'fstatat(AT_EMPTY_PATH)'")

@@ -1,0 +1,6 @@
+b337af3a4d61 ("usb: gadget: u_ether: fix regression in setting fixed MAC address")
+890d5b40908b ("usb: gadget: u_ether: fix race in setting MAC address in setup phase")
+99984b081f99 ("usb: gadget: u_ether: use eth_hw_addr_set()")
+3a37a9636cf3 ("net: dev: Add extack argument to dev_set_mac_address()")
+16ba3266006b ("netvsc: propagate MAC address change to VF slave")
+29fda25a2d31 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

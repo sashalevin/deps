@@ -1,0 +1,6 @@
+e30e8d46cf60 ("arm64: fix compat syscall return truncation")
+70918779aec9 ("arm64: entry: Enable random_kstack_offset support")
+637ec831ea4f ("arm64: mte: Handle synchronous and asynchronous tag check faults")
+15956689a0e6 ("arm64: compat: Ensure upper 32 bits of x0 are zero on syscall return")
+ac2081cdc4d9 ("arm64: ptrace: Consistently use pseudo-singlestep exceptions")
+082af5ec5080 ("Merge branch 'for-next/scs' into for-next/core")

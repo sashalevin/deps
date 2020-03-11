@@ -1,0 +1,6 @@
+fb5833d81e43 ("net: sfc: fix using uninitialized xdp tx_queue")
+415446185b93 ("sfc: fallback for lack of xdp tx queues")
+d2a16bde7732 ("sfc: add logs explaining XDP_TX/REDIRECT is not available")
+788bc000d4c2 ("sfc: ensure correct number of XDP queues")
+99ba0ea616aa ("sfc: adjust efx->xdp_tx_queue_count with the real number of initialized queues")
+fdc13979f91e ("bpf, devmap: Move drop error path to devmap for XDP_REDIRECT")

@@ -1,0 +1,6 @@
+ce1fdb065695 ("sh_eth: remove open coded netif_running()")
+f6a2e94b3f9d ("sh_eth: Fix power down vs. is_opened flag ordering")
+d8981d029da9 ("sh_eth: add generic wake-on-lan support via magic packet")
+9b39f05ce8e0 ("sh_eth: factor out sh_eth_emac_interrupt()")
+1940f240769a ("sh_eth: no need for *else* after *goto*")
+4063469971af ("sh_eth: handle only enabled E-MAC interrupts")

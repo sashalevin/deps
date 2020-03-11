@@ -1,0 +1,6 @@
+f6763c29ab86 ("svcrdma: Do not send Write chunk XDR pad with inline content")
+5d252f90a800 ("svcrdma: Add class for RDMA backwards direction transport")
+ba986c96f907 ("svcrdma: Make map_xdr non-static")
+71810ef3271d ("svcrdma: Remove unused req_map and ctxt kmem_caches")
+2fe81b239dbb ("svcrdma: Improve allocation of struct svc_rdma_req_map")
+cc886c9ff160 ("svcrdma: Improve allocation of struct svc_rdma_op_ctxt")

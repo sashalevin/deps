@@ -1,0 +1,4 @@
+6e5710e71df1 ("tty: remove dummy tty_ldisc_ops::poll() implementations")
+c2a5a45c0276 ("net: nfc: nci: drop nci_uart_ops::recv_buf")
+3b830a9c34d5 ("tty: convert tty_ldisc_ops 'read()' function to take a kernel pointer")
+1a4b8febb6c1 ("n_hdlc_tty_read(): remove pointless access_ok()")

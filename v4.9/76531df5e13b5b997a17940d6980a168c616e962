@@ -1,0 +1,8 @@
+76531df5e13b ("ACPI: CPPC: Add min and max perf register writing support")
+6fa12d584dcb ("ACPI / CPPC: Check for valid PCC subspace only if PCC is used")
+4773e77cdc9b ("ACPI / CPPC: Add support for CPPC v3")
+951ef0e19f07 ("ACPI: CPPC: remove initial assignment of pcc_ss_data")
+1ecbd7170d65 ("ACPI / CPPC: Fix KASAN global out of bounds warning")
+85b1407bf6d2 ("ACPI / CPPC: Make CPPC ACPI driver aware of PCC subspace IDs")
+2c74d8473d19 ("ACPI / CPPC: add sysfs entries for CPPC perf capabilities")
+368520a6b2dd ("ACPI / CPPC: Read lowest nonlinear perf in cppc_get_perf_caps()")

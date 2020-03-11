@@ -1,0 +1,4 @@
+43047e082b90 ("nvme-pci: disable write zeros support on UMIC and Samsung SSDs")
+dc22c1c058b5 ("nvme-pci: mark Kingston SKC2000 as not supporting the deepest power state")
+538e4a8c571e ("nvme-pci: avoid the deepest sleep state on Kingston A2000 SSDs")
+899199292b14 ("nvme-pci: add the DISABLE_WRITE_ZEROES quirk for a SPCC device")

@@ -1,0 +1,6 @@
+78a2f92e4c4a ("dmaengine: axi-dmac: add support for reading bus attributes from registers")
+06b6e88c7ecf ("dmaengine: axi-dmac: wrap entire dt parse in a function")
+08b36dba23e5 ("dmaengine: axi-dmac: move clock enable earlier")
+a88fdece44d4 ("dmaengine: axi-dmac: move active_descs list init after device-tree init")
+b377e670bac5 ("dmaengine: axi-dmac: move version read in probe")
+a5b982af953b ("dmaengine: axi-dmac: add a check for devm_regmap_init_mmio")

@@ -1,0 +1,7 @@
+195683275373 ("kasan: introduce kasan_mempool_unpoison_object")
+2e7c954c11af ("kasan: add return value for kasan_mempool_poison_object")
+1bb843048d00 ("kasan: document kasan_mempool_poison_object")
+9b94fe91099c ("kasan: move kasan_mempool_poison_object")
+280ec6ccb642 ("kasan: rename kasan_slab_free_mempool to kasan_mempool_poison_object")
+e1fe7ee885dc ("io_uring: Add KASAN support for alloc_caches")
+efba1a9e653e ("io_uring: Move from hlist to io_wq_work_node")

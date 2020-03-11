@@ -1,0 +1,7 @@
+8be4d46e12af ("mm: vmalloc: refactor vmalloc_dump_obj() function")
+d093602919ad ("mm: vmalloc: remove global vmap_area_root rb-tree")
+7fa8cee00316 ("mm: vmalloc: move vmap_init_free_space() down in vmalloc.c")
+0818e739b5c0 ("mm/vmalloc: add a safer version of find_vm_area() for debug")
+4c91c07c93bb ("mm: vmalloc: convert vread() to vread_iter()")
+46c0d6d0904a ("fs/proc/kcore: convert read_kcore() to read_kcore_iter()")
+2e1c0170771e ("fs/proc/kcore: avoid bounce buffer for ktext data")

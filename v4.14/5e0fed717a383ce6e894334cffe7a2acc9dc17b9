@@ -1,0 +1,4 @@
+5e0fed717a38 ("fuse: Wake up req->waitq of only if not background")
+ae2dffa39485 ("fuse: introduce fc->bg_lock")
+2b30a533148a ("fuse: add locking to max_background and congestion_threshold changes")
+3b7008b226f3 ("fuse: return -ECONNABORTED on /dev/fuse read after abort")

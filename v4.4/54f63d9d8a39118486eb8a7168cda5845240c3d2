@@ -1,0 +1,6 @@
+54f63d9d8a39 ("mm/vmalloc.c: get rid of one single unlink_va() when merge")
+68ad4a330433 ("mm/vmalloc.c: keep track of free blocks for vmap allocation")
+afd07389d3f4 ("mm/vmalloc.c: fix kernel BUG at mm/vmalloc.c:512!")
+c568da282bbc ("mm/vmalloc.c: halve the number of comparisons performed in pcpu_get_vm_areas()")
+5803ed292e63 ("mm: mark all calls into the vmalloc subsystem as potentially sleeping")
+39702853197b ("Merge tag 'v4.6-rc3' into drm-intel-next-queued")

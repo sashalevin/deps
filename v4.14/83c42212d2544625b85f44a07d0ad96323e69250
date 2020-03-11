@@ -1,0 +1,5 @@
+83c42212d254 ("i2c: core: use I2C locking behaviour also for SMBUS")
+bae1d3a05a8b ("i2c: core: remove use of in_atomic()")
+cc52612ec0f3 ("i2c: core: remove level of indentation in i2c_transfer")
+a7163dc2138d ("i2c: core: remove outdated DEBUG output")
+eef5ba1aa148 ("i2c: smbus: add unlocked __i2c_smbus_xfer variant")

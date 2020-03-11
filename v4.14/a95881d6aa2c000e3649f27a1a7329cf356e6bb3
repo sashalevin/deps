@@ -1,0 +1,6 @@
+a95881d6aa2c ("pinctrl: qcom: Properly clear "intr_ack_high" interrupts when unmasking")
+4079d35fa4fc ("pinctrl: qcom: No need to read-modify-write the interrupt status")
+4b7618fdc7e6 ("pinctrl: qcom: Add irq_enable callback for msm gpio")
+6c73698904aa ("pinctrl: qcom: Introduce readl/writel accessors")
+59a18c24ba4d ("pinctrl: qcom: Print high/low status of gpios in debugfs")
+f265e8b91bb5 ("pinctrl: qcom: remove static globals to allow multiple TLMMs")

@@ -1,0 +1,7 @@
+d100ffe5048e ("dmaengine: qcom: Drop hidma DT support")
+897500c7ea91 ("dmaengine: Explicitly include correct DT includes")
+619d8ea96d98 ("dmaengine: qcom_hidma: Add explicit platform_device.h and of_device.h includes")
+5f1d429b43b3 ("dmaengine: at_hdmac: Use devm_kzalloc() and struct_size()")
+6aed75d7ccb3 ("dmaengine: apple-admac: Trigger shared reset")
+072431595a57 ("dmaengine: apple-admac: Do not use devres for IRQs")
+b127315d9a78 ("dmaengine: apple-admac: Add Apple ADMAC driver")

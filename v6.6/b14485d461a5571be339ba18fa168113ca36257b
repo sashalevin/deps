@@ -1,0 +1,7 @@
+b14485d461a5 ("usb: xhci: remove unused variables from struct 'xhci_hcd'")
+becbd202af84 ("xhci: make isoc_bei_interval variable interrupter specific.")
+4f022aad80dc ("xhci: Add interrupt pending autoclear flag to each interrupter")
+c99b38c41234 ("xhci: add support to allocate several interrupters")
+47f503cf5f79 ("xhci: split free interrupter into separate remove and free parts")
+28084d3fcc3c ("xhci: Use more than one Event Ring segment")
+044818a6cd80 ("xhci: Set DESI bits in ERDP register correctly")

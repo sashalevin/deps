@@ -1,0 +1,7 @@
+0e09c4fa72f9 ("drm: Nuke mode->private_flags")
+42acb06b01b1 ("drm: pahole struct drm_display_mode")
+3542cc54a1bb ("drm: Shrink mode->type to u8")
+2159e4629add ("drm: Shrink {width,height}_mm to u16")
+0425662fdf05 ("drm: Nuke mode->vrefresh")
+6770ef332fcc ("drm/i915: Introduce some local intel_dp variables")
+ebdc02dd4c4b ("drm: Add DRM_MODE_TYPE_USERDEF flag to probed modes matching a video= argument")

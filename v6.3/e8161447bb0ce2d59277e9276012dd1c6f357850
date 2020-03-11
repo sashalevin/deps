@@ -1,0 +1,4 @@
+e8161447bb0c ("tty: make tty_ldisc_ops::*buf*() hooks operate on size_t")
+73048bd55e6b ("tty: can327, move overflow test inside can327_ldisc_rx()'s loop")
+94b580e308c6 ("tty: can327: unify error paths in can327_ldisc_rx()")
+abb05ac9f78b ("tty: ldisc: document that ldops are optional")

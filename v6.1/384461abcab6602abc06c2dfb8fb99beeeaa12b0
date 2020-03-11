@@ -1,0 +1,7 @@
+384461abcab6 ("pwm: Manage owner assignment implicitly for drivers")
+254d3a727421 ("pwm: Add Renesas RZ/G2L MTU3a PWM driver")
+2bf7ecf7b4ff ("pwm: add microchip soft ip corePWM driver")
+bafbbef85fd7 ("pwm: Add Apple PWM controller")
+327437884e9a ("pwm: ab8500: Implement .get_state()")
+6c452cff79f8 ("pwm: Make .get_state() callback return an error code")
+c8135b517414 ("pwm: Reduce time the pwm_lock mutex is held in pwmchip_add()")

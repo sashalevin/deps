@@ -1,0 +1,8 @@
+7f604e92fb80 ("KVM: x86/mmu: Make tdp_mmu_allowed static")
+1f98f2bd8ec4 ("KVM: x86/mmu: Change tdp_mmu to a read-only parameter")
+d25ceb926436 ("KVM: x86/mmu: Track the number of TDP MMU pages, but not the actual pages")
+61f94478547b ("KVM: x86/mmu: Set disallowed_nx_huge_page in TDP MMU before setting SPTE")
+55c510e26ab6 ("KVM: x86/mmu: Rename NX huge pages fields/functions for consistency")
+428e921611bc ("KVM: x86/mmu: Tag disallowed NX huge pages even if they're not tracked")
+f96c48e9ddf4 ("kvm: mmu: fix typos in struct kvm_arch")
+43a063cab325 ("KVM: x86/mmu: count KVM mmu usage in secondary pagetable stats.")

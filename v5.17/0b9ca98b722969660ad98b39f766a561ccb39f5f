@@ -1,0 +1,4 @@
+0b9ca98b7229 ("perf/x86/core: Zero @lbr instead of returning -1 in x86_perf_get_lbr() stub")
+145dfad998ea ("KVM: VMX: Advertise PMU LBRs if and only if perf supports LBRs")
+cf8e55fe50df ("KVM: x86/pmu: Expose CPUIDs feature bits PDCM, DS, DTES64")
+39a4d779546a ("perf/x86/core: Pass "struct kvm_pmu *" to determine the guest values")

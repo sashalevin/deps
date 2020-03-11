@@ -1,0 +1,7 @@
+5c5e9a2b25b6 ("x86/tsc: Provide sched_clock_noinstr()")
+8739c6811572 ("sched/clock/x86: Mark sched_clock() noinstr")
+5c9da9fe826d ("x86/pvclock: Improve atomic update of last_value in pvclock_clocksource_read()")
+ad9af930680b ("x86/kvmclock: Move this_cpu_pvti into kvmclock.h")
+a0e2bf7cb700 ("x86/paravirt: Switch time pvops functions to use static_call()")
+b9d8cf2eb3ce ("x86/hyperv: Make hv_setup_sched_clock inline")
+6adc19fd13f1 ("Merge tag 'kbuild-v5.8-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

@@ -1,0 +1,5 @@
+100bdef2c198 ("console: introduce wrappers to read/write console flags")
+6c4afa79147e ("printk: Prepare for SRCU console list protection")
+d9a4af5690e2 ("printk: Convert console_drivers list to hlist")
+eb4531b346c9 ("printk: Remove bogus comment vs. boot consoles")
+7fc11a521e7c ("printk: Remove write only variable nr_ext_console_drivers")

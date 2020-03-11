@@ -1,0 +1,4 @@
+289088d54623 ("rust: module: add static pointer to `{init,cleanup}_module()`")
+7044dcff8301 ("rust: macros: fix soundness issue in `module!` macro")
+1b6170ff7a20 ("rust: module: place generated init_module() function in .init.text")
+41bdc6decda0 ("btf, scripts: rust: drop is_rust_module.sh")

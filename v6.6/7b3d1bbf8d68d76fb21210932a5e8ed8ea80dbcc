@@ -1,0 +1,4 @@
+7b3d1bbf8d68 ("KVM: VMX: Handle KVM-induced preemption timer exits in fastpath for L2")
+bf1a49436ea3 ("KVM: x86: Move handling of is_guest_mode() into fastpath exit handlers")
+11776aa0cfa7 ("KVM: VMX: Handle forced exit due to preemption timer in fastpath")
+e6b5d16bbd2d ("KVM: VMX: Re-enter guest in fastpath for "spurious" preemption timer exits")

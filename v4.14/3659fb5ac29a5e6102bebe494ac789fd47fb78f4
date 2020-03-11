@@ -1,0 +1,7 @@
+3659fb5ac29a ("nvme: fix multipath crash caused by flush request when blktrace is enabled")
+d24de76af836 ("block: remove the error argument to the block_bio_complete tracepoint")
+35fe0d12c8a3 ("nvme: trace bio completion")
+0d0b660f214d ("nvme: add ANA support")
+c0561f82a7b6 ("nvme: submit AEN event configuration on startup")
+868c2392a700 ("nvme.h: untangle AEN notice definitions")
+81b1dab45809 ("Merge branch 'nvme-4.18' of git://git.infradead.org/nvme into for-4.18/block")

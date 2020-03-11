@@ -1,0 +1,3 @@
+037ce005af6b ("Bluetooth: SCO: Fix sco_send_frame returning skb->len")
+0771cbb3b97d ("Bluetooth: SCO: Replace use of memcpy_from_msg with bt_skb_sendmsg")
+99c23da0eed4 ("Bluetooth: sco: Fix lock_sock() blockage by memcpy_from_msg()")

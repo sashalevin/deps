@@ -1,0 +1,8 @@
+e7ca75fe6662 ("net: mvneta: Don't force-set the offloading flag")
+75fa71e3acad ("net: mvneta: Use struct tc_mqprio_qopt_offload for MQPrio configuration")
+4906887a8ae5 ("net: mvneta: Implement mqprio support")
+b0a43db9087a ("net: mvneta: add XDP_TX support")
+9e58c8b41065 ("net: mvneta: make tx buffer array agnostic")
+0db51da7a8e9 ("net: mvneta: add basic XDP support")
+8dc9a0888f4c ("net: mvneta: rely on build_skb in mvneta_rx_swbm poll routine")
+568a3fa24a95 ("net: mvneta: introduce page pool API for sw buffer manager")

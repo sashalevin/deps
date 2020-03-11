@@ -1,0 +1,8 @@
+302ad8cc0933 ("nvme: Complete all stuck requests")
+706590609627 ("nvme: Delete created IO queues on reset")
+82469c59d222 ("nvme: Don't suspend admin queue that wasn't created")
+c21377f8366c ("nvme: Suspend all queues before deletion")
+e1958e6534a2 ("nvme: update and rename nvme_cancel_io to nvme_cancel_request")
+7e1979309699 ("NVMe: silence warning about unused 'dev'")
+82b4552b91c4 ("nvme: Use blk-mq helper for IO termination")
+237045fc3c67 ("Merge branch 'for-4.6/drivers' of git://git.kernel.dk/linux-block")

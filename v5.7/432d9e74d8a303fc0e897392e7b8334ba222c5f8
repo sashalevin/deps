@@ -1,0 +1,6 @@
+432d9e74d8a3 ("mptcp: use the variable sk instead of open-coding")
+ef0da3b8a2f1 ("mptcp: move address attribute into mptcp_addr_info")
+6bad912b7e5a ("mptcp: do nonce initialization at subflow creation time")
+2c5ebd001d4f ("mptcp: refactor token container")
+8fd4de127558 ("mptcp: cache msk on MP_JOIN init_req")
+4b5af44129d0 ("mptcp: don't leak msk in token container")

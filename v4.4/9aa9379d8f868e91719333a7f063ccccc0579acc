@@ -1,0 +1,6 @@
+9aa9379d8f86 ("can: af_can: prevent potential access of uninitialized member in canfd_rcv()")
+d4689846881d ("can: af_can: canfd_rcv(): replace WARN_ONCE by pr_warn_once")
+8e8cda6d737d ("can: initial support for network namespaces")
+f1712c737140 ("can: Fix kernel panic at security_sock_rcv_skb")
+2781ff5c8fc7 ("can: only call can_stat_update with procfs")
+a20fadf85312 ("can: build proc support only if CONFIG_PROC_FS is activated")

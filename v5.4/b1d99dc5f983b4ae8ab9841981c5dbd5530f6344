@@ -1,0 +1,4 @@
+b1d99dc5f983 ("iommu: Hook up '->unmap_pages' driver callback")
+89d5b9601f70 ("iommu: Split 'addr_merge' argument to iommu_pgsize() into separate parts")
+e7d6fff6b3d3 ("iommu: Use bitmap to calculate page size in iommu_pgsize()")
+781ca2de89ba ("iommu: Add gfp parameter to iommu_ops::map")

@@ -1,0 +1,4 @@
+34fe653716b0 ("mm/vmalloc.c:__vmalloc_area_node(): avoid 32-bit overflow")
+f255935b9767 ("mm: cleanup the gfp_mask handling in __vmalloc_area_node")
+f38fcb9c1c5e ("mm: remove the prot argument to __vmalloc_node")
+88dca4ca5a93 ("mm: remove the pgprot argument to __vmalloc")

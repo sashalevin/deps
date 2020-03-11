@@ -1,0 +1,4 @@
+92ea0720ba9c ("perf trace: Use sig_atomic_t to avoid undefined behaviour in a signal handler")
+de9f498d2b38 ("perf trace: Avoid early exit due SIGCHLD from non-workload processes")
+f06a82f9d31a ("perf trace: Avoid early exit due to running SIGCHLD handler before it makes sense to")
+86a19008af5d ("perf trace: Fix race in signal handling")

@@ -1,0 +1,8 @@
+c7fc12354be0 ("iommu/amd/pgtbl_v2: Invalidate updated page ranges only")
+bbf85fe10faa ("iommu/amd: Refactor device iotlb invalidation code")
+4f0a60079923 ("iommu/amd: Refactor IOMMU tlb invalidation code")
+cf62924daf9f ("iommu/amd: Add support to invalidate multiple guest pages")
+a976da66e8e5 ("iommu/amd: Remove redundant passing of PDE bit")
+b0cc5dae1ac0 ("iommu/amd: Rename ats related variables")
+2212fc2acf3f ("iommu/amd: Fix domain flush size when syncing iotlb")
+aaac38f61487 ("iommu/amd: Initial support for AMD IOMMU v2 page table")

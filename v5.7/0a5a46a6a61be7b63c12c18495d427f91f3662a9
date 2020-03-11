@@ -1,0 +1,7 @@
+0a5a46a6a61b ("PCI/AER: Generalize TLP Header Log reading")
+db02e176f597 ("PCI/AER: Use explicit register sizes for struct members")
+07b2fbb565e2 ("PCI/AER: Use "aer" variable for capability offset")
+af10cce7ad51 ("PCI/AER: Remove redundant dev->aer_cap checks")
+123f985aea0d ("PCI/AER: Remove redundant pci_is_pcie() checks")
+708b20003624 ("PCI/AER: Remove HEST/FIRMWARE_FIRST parsing for AER ownership")
+c100beb9ccfb ("PCI/AER: Use only _OSC to determine AER ownership")

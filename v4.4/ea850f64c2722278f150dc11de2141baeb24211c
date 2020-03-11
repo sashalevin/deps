@@ -1,0 +1,8 @@
+ea850f64c272 ("drm/i915/bios: parse DDI ports also for CHV for HDMI DDC pin and DP AUX channel")
+98f3a1dcf819 ("drm/i915/bios: prefer using dev_priv over dev pointer")
+f0067a31e834 ("drm/i915: refactor VBT validation")
+8b8e1a899086 ("drm/i915/bios: rename intel_parse_bios to intel_bios_init")
+e2051c44730b ("drm/i915/bios: move debug logging about VBT source to intel_parse_bios()")
+caf37fa4b758 ("drm/i915/bios: have functions return vbt, not bdb, header pointer")
+b30581a4d64f ("drm/i915: move "no VBT in opregion" quirk to intel_opregion_setup()")
+b3cbd98b2572 ("drm/i915: Add Intel opregion mailbox 5 structure")

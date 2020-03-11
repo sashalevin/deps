@@ -1,0 +1,5 @@
+439a1bcac648 ("fortify: Use __builtin_dynamic_object_size() when available")
+9f7d69c5cd23 ("fortify: Convert to struct vs member helpers")
+54d9469bc515 ("fortify: Add run-time WARN for cross-field memcpy()")
+311fb40aa056 ("fortify: Use SIZE_MAX instead of (size_t)-1")
+d07c0acb4f41 ("fortify: Fix __compiletime_strlen() under UBSAN_BOUNDS_LOCAL")

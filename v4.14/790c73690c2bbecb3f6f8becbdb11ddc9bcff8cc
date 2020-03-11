@@ -1,0 +1,4 @@
+790c73690c2b ("mm/gup.c: mark undo_dev_pagemap as __maybe_unused")
+7f7ccc2ccc2e ("proc: do not access cmdline nor environ from file-backed areas")
+96312e61282a ("mm/gup.c: teach get_user_pages_unlocked to handle FOLL_NOWAIT")
+5b65c4677a57 ("mm, x86/mm: Fix performance regression in get_user_pages_fast()")

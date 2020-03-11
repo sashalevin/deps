@@ -1,0 +1,7 @@
+b80350f39370 ("net: sock: simplify tw proto registration")
+0f5907af3913 ("net: Fix potential memory leak in proto_register()")
+b45ce32135d1 ("sock: fix potential memory leak in proto_register()")
+e699e2c6a654 ("net, mm: account sock objects to kmemcg")
+289a4860d1f5 ("net: Restrict unwhitelisted proto caches to size 0")
+30c2c9f158f6 ("net: Define usercopy region in struct proto slab cache")
+d50112edde1d ("slab, slub, slob: add slab_flags_t")

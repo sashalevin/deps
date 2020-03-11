@@ -1,0 +1,7 @@
+ebe1cd530fb2 ("s390/ctlreg: rename ctl_reg.h to ctlreg.h")
+0c4d01f39529 ("s390/ctlreg: move control register code to separate file")
+e1b9c2749af0 ("s390/smp: ensure global control register contents are in sync")
+c28c07fe235c ("s390/mm: move pfault code to own C file")
+b9b4568843bb ("s390/kexec: make machine_kexec() depend on CONFIG_KEXEC_CORE")
+b378a9826143 ("s390: include linux/io.h instead of asm/io.h")
+51f513fd9659 ("s390/mm: do not include <asm-generic/io.h> directly")

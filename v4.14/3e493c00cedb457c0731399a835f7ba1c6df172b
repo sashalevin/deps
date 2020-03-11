@@ -1,0 +1,8 @@
+3e493c00cedb ("nvme-fc: fix nulling of queue data on reconnect")
+587331f71e27 ("nvme-fc: remove reinit_request routine")
+d157e5343cb3 ("nvme_fc: rework sqsize handling")
+9e0ed16ab9a9 ("nvme-fc: check if queue is ready in queue_rq")
+08e150754483 ("nvme-fc: remove unused "queue_size" field")
+38dabe210fba ("nvme: centralize AEN defines")
+a7a7cbe353a5 ("nvme-pci: add SGL support")
+31b844607975 ("nvme: introduce nvme_reinit_tagset")

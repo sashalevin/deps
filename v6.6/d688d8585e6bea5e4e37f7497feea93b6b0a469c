@@ -1,0 +1,8 @@
+d688d8585e6b ("nfsd: allow admin-revoked NFSv4.0 state to be freed.")
+1ac3629bf012 ("nfsd: prepare for supporting admin-revocation of state")
+3f29cc82a84c ("nfsd: split sc_status out of sc_type")
+83e733161fde ("nfsd: avoid race after unhash_delegation_locked()")
+c6540026dfe6 ("nfsd: don't call functions with side-effecting inside WARN_ON()")
+f52f1975b171 ("NFSD: Add nfsd_seq4_status trace event")
+85dbc978b33b ("NFSD: Clean up nfsd4_encode_layoutreturn()")
+40bb2baaa8ed ("NFSD: Clean up nfsd4_encode_stateid()")

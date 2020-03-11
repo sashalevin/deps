@@ -1,0 +1,8 @@
+c763729a10e5 ("scsi: ufs-pci: Fix restore from S4 for Intel controllers")
+247f99445938 ("scsi: ufs-pci: Add LTR support for Intel controllers")
+8da76f71fef7 ("scsi: ufs-pci: Add quirk for broken auto-hibernate for Intel EHL")
+d779a6e90e18 ("scsi: ufs: Add quirk to fix abnormal ocs fatal error")
+26f968d7de82 ("scsi: ufs: Introduce UFSHCD_QUIRK_PRDT_BYTE_GRAN quirk")
+39bf2d83b54e ("scsi: ufs: Add quirk to enable host controller without hce")
+b638b5eb624b ("scsi: ufs: Add quirk to disallow reset of interrupt aggregation")
+871838412adf ("scsi: ufs: Add quirk to fix mishandling utrlclr/utmrlclr")

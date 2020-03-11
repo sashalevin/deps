@@ -1,0 +1,5 @@
+43c2adb9df7d ("team: set slave to promisc if team is already in promisc mode")
+982cf3b3999d ("team: move dev_mc_sync after master_upper_dev_link in team_port_add")
+8fd728566a35 ("team: fill-up LAG changeupper info struct and pass it along")
+29bf24afb290 ("net: add possibility to pass information about upper device via notifier")
+6dffb0447c25 ("net: propagate upper priv via netdev_master_upper_dev_link")

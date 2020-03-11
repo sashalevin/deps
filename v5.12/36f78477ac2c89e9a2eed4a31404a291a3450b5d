@@ -1,0 +1,6 @@
+36f78477ac2c ("usb: typec: tcpm: Fix altmode re-registration causes sysfs create fail")
+ef52b4a9fcc2 ("usb: typec: tcpm: Raise vdm_sm_running flag only when VDM SM is running")
+5571ea3117ca ("usb: typec: tcpm: Fix VDMs sometimes not being forwarded to alt-mode drivers")
+2b537cf877ea ("usb: typec: tcpm: Relax disconnect threshold during power negotiation")
+c34e85fa69b9 ("usb: typec: tcpm: Send DISCOVER_IDENTITY from dedicated work")
+e00943e91678 ("usb: typec: tcpm: PD3.0 sinks can send Discover Identity even in device mode")

@@ -1,0 +1,4 @@
+682cae27b1da ("mtd: rawnand: fsmc: fix the probe function error path")
+43fab011e93f ("mtd: rawnand: fsmc: clean the probe function style")
+fb8ed2ca4324 ("mtd: nand: fsmc: use devm_clk_get()")
+ad5678ec4076 ("mtd: nand: fsmc: return error code of nand_scan_ident/tail() on error")

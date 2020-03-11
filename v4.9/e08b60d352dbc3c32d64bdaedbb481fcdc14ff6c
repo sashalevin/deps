@@ -1,0 +1,6 @@
+e08b60d352db ("iio: core: Simplify iio_format_list()")
+eda20ba1e25e ("iio: core: Consolidate iio_format_avail_{list,range}()")
+35a4eeb055c9 ("iio: core: Use scnprintf() for avoiding potential buffer overflow")
+8cb340363314 ("iio: core: add char type for sysfs attributes")
+7fd6592d1287 ("iio: core: Fix IIO_VAL_FRACTIONAL_LOG2 for negative values")
+51239600074b ("iio:core: add a callback to allow drivers to provide _available attributes")

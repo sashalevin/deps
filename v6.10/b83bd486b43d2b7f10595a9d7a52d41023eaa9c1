@@ -1,0 +1,5 @@
+b83bd486b43d ("block: cleanup flag_{show,store}")
+9f4aa46f2a74 ("block: invert the BLK_INTEGRITY_{GENERATE,VERIFY} flags")
+1366251a794b ("block: factor out flag_{store,show} helper for integrity")
+e9f5f44ad372 ("block: remove the blk_integrity_profile structure")
+63e649594ab1 ("dm-integrity: use the nop integrity profile")

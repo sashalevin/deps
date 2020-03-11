@@ -1,0 +1,7 @@
+2a8e41ad3375 ("hwmon: (adt7475) Use device_property APIs when configuring polarity")
+86da28eed4fb ("hwmon: (adt7475) Add support for inverting pwm output")
+2ecff39791bd ("hwmon: (adt7475) Add attenuator bypass support")
+c64fce7f2a10 ("hwmon: (adt7475) Convert to use hwmon_device_register_with_groups()")
+4afec79f652b ("hwmon: (adt7475) Change show functions to return error data correctly")
+702afead45e1 ("hwmon: (adt7475) Change update functions to add error handling")
+5cf943ede4af ("hwmon: (adt7475) Split device update function to measure and limits")

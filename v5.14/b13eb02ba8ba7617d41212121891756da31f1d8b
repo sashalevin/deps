@@ -1,0 +1,8 @@
+b13eb02ba8ba ("drm/amdgpu: add amdgpu_error_* debugfs file")
+445d85e3c1df ("drm/amdgpu: add debugfs interface for reading MQDs")
+bf67014d6bda ("drm/amdgpu: introduce new amdgpu_fence object to indicate the job embedded fence")
+62d266b2bd4a ("drm/amdgpu: cleanup debugfs for amdgpu rings")
+59715cffce19 ("drm/amdgpu: use IS_ERR for debugfs APIs")
+c530b02f3985 ("drm/amd/amdgpu embed hw_fence into amdgpu_job")
+067f44c8b459 ("drm/amdgpu: avoid over-handle of fence driver fini in s3 test (v2)")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")

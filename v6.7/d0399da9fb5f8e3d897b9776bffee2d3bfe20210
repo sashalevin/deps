@@ -1,0 +1,5 @@
+d0399da9fb5f ("drm/sched: Re-queue run job worker when drm_sched_entity_pop_job() returns NULL")
+66dbd9004a55 ("drm/sched: Drain all entities in DRM sched run job worker")
+f7fe64ad0f22 ("drm/sched: Split free_job into own work item")
+a6149f039369 ("drm/sched: Convert drm scheduler to use a work queue rather than kthread")
+35963cf2cd25 ("drm/sched: Add drm_sched_wqueue_* helpers")

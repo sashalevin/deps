@@ -1,0 +1,8 @@
+331bc71cb175 ("SUNRPC: Convert the auth cred cache to use refcount_t")
+65b80179f9b8 ("xprtrdma: No direct data placement with krb5i and krb5p")
+ead3f26e359e ("xprtrdma: Add ro_unmap_safe memreg method")
+94f58c58c0b4 ("xprtrdma: Allow Read list and Reply chunk simultaneously")
+cce6deeb56aa ("xprtrdma: Avoid using Write list for small NFS READ requests")
+302d3deb2068 ("xprtrdma: Prevent inline overflow")
+c882a655b78d ("xprtrdma: Use an anonymous union in struct rpcrdma_mw")
+048ccca8c1c8 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/dledford/rdma")

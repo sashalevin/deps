@@ -1,0 +1,4 @@
+4004912e0ce5 ("iio: adc: lpc18xx: Benefit from devm_clk_get_enabled() to simplify")
+8eebe6281ac1 ("iio: adc: lpc18xx_adc: Reorder clk_get_rate() function call")
+922f694b5822 ("iio: adc: lpc18xx_adc: Make use of the helper function dev_err_probe()")
+0be844470eb9 ("iio: adc: lpc18xx_adc: Convert probe to device managed version")

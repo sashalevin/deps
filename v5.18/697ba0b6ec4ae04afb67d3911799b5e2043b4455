@@ -1,0 +1,4 @@
+697ba0b6ec4a ("block: fix integer overflow in BLKSECDISCARD")
+881494ed031f ("blk_ioctl_{discard,zeroout}(): we only want ->bd_inode->i_mapping here...")
+224941e8379a ("use ->bd_mapping instead of ->bd_inode->i_mapping")
+a09cd552e095 ("Merge branch 'misc.erofs' into work.bdev")

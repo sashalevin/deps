@@ -1,0 +1,4 @@
+43823c5c56f2 ("mtd: cfi_cmdset_0002: Rename chip_ready variables")
+083084df578a ("mtd: cfi_cmdset_0002: Move and rename chip_check/chip_ready/chip_good_for_write")
+c15995695ea9 ("mtd: cfi_cmdset_0002: fix delayed error detection on HyperFlash")
+72914a8cff7e ("mtd: cfi_cmdset_0002: only check errors when ready in cfi_check_err_status()")

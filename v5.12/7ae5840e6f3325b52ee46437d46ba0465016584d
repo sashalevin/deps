@@ -1,0 +1,3 @@
+7ae5840e6f33 ("KVM: x86/mmu: Document that zapping invalidated roots doesn't need to flush")
+524a1e4e381f ("KVM: x86/mmu: Don't leak non-leaf SPTEs when zapping all SPTEs")
+4c6654bd160d ("KVM: x86/mmu: Tear down roots before kvm_mmu_zap_all_fast returns")

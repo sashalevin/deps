@@ -1,0 +1,6 @@
+0d856cfedd6b ("vmscan: memcg: sleep when flushing stats during reclaim")
+9fad9aee1f26 ("memcg: sleep during flushing stats in safe contexts")
+3cd9992b9302 ("memcg: replace stats_flush_lock with an atomic")
+a2174e95cce5 ("memcg: do not flush stats in irq context")
+92fbbc7202ac ("memcg: rename mem_cgroup_flush_stats_"delayed" to "ratelimited"")
+8bff9a04ca33 ("cgroup: rename cgroup_rstat_flush_"irqsafe" to "atomic"")

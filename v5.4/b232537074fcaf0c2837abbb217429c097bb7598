@@ -1,0 +1,6 @@
+b232537074fc ("soc: ti: omap-prm: Fix external abort for am335x pruss")
+effe89e40037 ("soc: ti: omap-prm: Fix occasional abort on reset deassert for dra7 iva")
+98ece19f2471 ("soc: ti: omap-prm: use atomic iopoll instead of sleeping one")
+d30cd83f6853 ("soc: ti: omap-prm: add support for denying idle for reset clockdomain")
+c5117a78dd88 ("soc: ti: omap-prm: poll for reset complete during de-assert")
+3e99cb214f03 ("soc: ti: add initial PRM driver with reset control support")

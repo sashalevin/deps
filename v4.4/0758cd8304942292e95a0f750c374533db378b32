@@ -1,0 +1,8 @@
+0758cd830494 ("asm-generic/tlb: avoid potential double flush")
+fd1102f0aade ("mm: mmu_notifier fix for tlb_end_vma")
+db7ddef30112 ("mm: move tlb_table_flush to tlb_flush_mmu_free")
+e77b0852b551 ("mm/mmu_gather: track page size with mmu gather and force flush if page size change")
+e9d55e157034 ("mm: change the interface for __tlb_remove_page()")
+31d49da5ad01 ("mm/hugetlb: simplify hugetlb unmap")
+d281ee614518 ("rmap: add argument to charge compound page")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

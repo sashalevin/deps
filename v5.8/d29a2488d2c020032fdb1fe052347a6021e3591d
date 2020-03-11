@@ -1,0 +1,8 @@
+d29a2488d2c0 ("powerpc/powernv/sriov: Drop iov->pe_num_map[]")
+a610d35cc878 ("powerpc/powernv/sriov: Factor out M64 BAR setup")
+ad9add529d99 ("powerpc/powernv/sriov: Simplify used window tracking")
+37b59ef08c54 ("powerpc/powernv/sriov: Move SR-IOV into a separate file")
+01e12629af4e ("powerpc/powernv/pci: Add explicit tracking of the DMA setup state")
+7a52ffabe867 ("powerpc/powernv/pci: Always tear down DMA windows on PE release")
+5609ffddd19d ("powerpc/powernv/pci: Add pci_bus_to_pnvhb() helper")
+93eacd94e09d ("powerpc/powernv: Make pnv_pci_sriov_enable() and friends static")

@@ -1,0 +1,5 @@
+b0e901280d98 ("elfcore: correct reference to CONFIG_UML")
+6e7b64b9dd6d ("elfcore: fix building with clang")
+7a896028adcf ("kill elf_fpxregs_t")
+38cdabb7d835 ("binfmt_elf_fdpic: remove the set_fs(KERNEL_DS) in elf_fdpic_core_dump")
+0f74914071ab ("kernel/elfcore.c: include proper prototypes")

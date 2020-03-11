@@ -1,0 +1,8 @@
+664bad6af3cb ("Revert "drm/msm/dp: use drm_bridge_hpd_notify() to report HPD status changes"")
+e467e0bde881 ("drm/msm/dp: use drm_bridge_hpd_notify() to report HPD status changes")
+aa1131204e58 ("drm/msm/dp: rename is_connected with link_ready")
+cc2e49235d87 ("drm/msm/dp: Inline dp_display_is_sink_count_zero()")
+b4b527a1c274 ("drm/msm/dp: Remove dp_display_is_ds_bridge()")
+542b37efc20e ("drm/msm/dp: Implement hpd_notify()")
+cd198caddea7 ("drm/msm/dp: Rely on hpd_enable/disable callbacks")
+3a661247967a ("drm/msm/dp: add atomic_check to bridge ops")

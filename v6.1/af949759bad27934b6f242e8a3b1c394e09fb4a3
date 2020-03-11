@@ -1,0 +1,6 @@
+af949759bad2 ("vfio: Mark cdev usage in vfio_device")
+a4d1f91db502 ("vfio-iommufd: Support iommufd for physical VFIO devices")
+2a3dab19a0a6 ("vfio-iommufd: Allow iommufd to be used in place of a container fd")
+04f930c3e44b ("vfio: Rename vfio_device_assign/unassign_container()")
+bab6fabc01d9 ("vfio: Move vfio_device_assign_container() into vfio_device_first_open()")
+294aaccb5013 ("vfio: Move vfio_device driver open/close code to a function")

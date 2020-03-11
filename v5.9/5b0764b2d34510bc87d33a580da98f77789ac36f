@@ -1,0 +1,8 @@
+5b0764b2d345 ("bpf: samples: Do not touch RLIMIT_MEMLOCK")
+c6497df0ddc3 ("samples: bpf: Refactor test_overhead program with libbpf")
+4fe6641526db ("samples: bpf: Refactor task_fd_query program with libbpf")
+c66dca98a24c ("samples/bpf: Set rlimit for memlock to infinity in all samples")
+8ac91df6de16 ("samples: bpf: Refactor xdp_monitor with libbpf")
+f0c328f8af5d ("samples: bpf: Refactor tracepoint tracing programs with libbpf")
+3677d0a13171 ("samples: bpf: Refactor kprobe tracing programs with libbpf")
+35a8b6dd339f ("samples: bpf: Cleanup bpf_load.o from Makefile")

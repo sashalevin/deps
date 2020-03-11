@@ -1,0 +1,4 @@
+2860cd8a2353 ("livepatch: Use the default ftrace_ops instead of REGS when ARGS is available")
+02a474ca266a ("ftrace/x86: Allow for arguments to be passed in to ftrace_regs by default")
+d19ad0775dcd ("ftrace: Have the callbacks receive a struct ftrace_regs instead of pt_regs")
+c536aa1c5b17 ("kprobes/ftrace: Add recursion protection to the ftrace callback")

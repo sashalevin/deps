@@ -1,0 +1,8 @@
+53e45c4f6d4f ("mm: convert put_devmap_managed_page_refs() to put_devmap_managed_folio_refs()")
+6785c54a1b43 ("mm: remove put_devmap_managed_page()")
+99fbb6bfc16f ("mm: make folios_put() the basis of release_pages()")
+d7f861b9c43a ("mm/mmu_gather: add __tlb_remove_folio_pages()")
+da510964c095 ("mm/mmu_gather: define ENCODED_PAGE_FLAG_DELAY_RMAP")
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")
+c46265030b0f ("mm/memory: page_remove_rmap() -> folio_remove_rmap_pte()")
+85a1333417a7 ("mm/swap: use dedicated entry for swap in folio")

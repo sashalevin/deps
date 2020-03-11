@@ -1,0 +1,3 @@
+80602b6b5a23 ("xhci: Fix null pointer dereference during S4 resume when resetting ep0")
+e34900f46cd6 ("xhci: Reconfigure endpoint 0 max packet size only during endpoint reset")
+dda32c00c9a0 ("xhci: Do not use GFP_KERNEL in (potentially) atomic context")

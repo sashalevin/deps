@@ -1,0 +1,4 @@
+643bc1a2ee30 ("xfrm: add extack to xfrm_new_ae and xfrm_replay_verify_len")
+5e708e47c443 ("xfrm: make xfrm_replay_state_esn_len() return unsigned int")
+f843ee6dd019 ("xfrm_user: validate XFRM_MSG_NEWAE incoming ESN size harder")
+677e806da4d9 ("xfrm_user: validate XFRM_MSG_NEWAE XFRMA_REPLAY_ESN_VAL replay_window")

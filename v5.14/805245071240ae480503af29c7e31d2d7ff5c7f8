@@ -1,0 +1,8 @@
+805245071240 ("drm/bridge: ti-sn65dsi83: Allow GPIO operations to sleep")
+30a46873941f ("drm/bridge: ti-sn65dsi83: Optimize reset line toggling")
+24417d5b0c00 ("drm/bridge: ti-sn65dsi83: Implement .detach callback")
+03ea01c0c295 ("drm: bridge: ti-sn65dsi83: Retrieve output format from bridge state")
+a6ea7d268a63 ("drm: bridge: ti-sn65dsi83: Switch to atomic operations")
+7f0b7f5ee367 ("drm: bridge: ti-sn65dsi83: Pass mode explicitly to helper functions")
+b966d857c57a ("drm: bridge: ti-sn65dsi83: Move LVDS format selection to .mode_set()")
+db8b7ca5b232 ("drm/bridge: ti-sn65dsi83: Replace connector format patching with atomic_get_input_bus_fmts")

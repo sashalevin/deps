@@ -1,0 +1,5 @@
+f67dd218fafd ("perf/core: Assert PERF_EVENT_FLAG_ARCH does not overlap with generic flags")
+369461ce8fb6 ("x86: perf: Move RDPMC event flag to a common definition")
+5471eea5d3bf ("perf/x86: Reset the dirty counter to prevent the leak for an RDPMC task")
+46ade4740bbf ("perf/x86: Move cpuc->running into P4 specific code")
+3bff6112c80c ("Merge tag 'perf-core-2020-10-12' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

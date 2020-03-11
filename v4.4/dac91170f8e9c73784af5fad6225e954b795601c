@@ -1,0 +1,7 @@
+dac91170f8e9 ("vrf: Do not attempt to create IPv6 mcast rule if IPv6 is disabled")
+e434863718d4 ("net: vrf: Fix crash when IPv6 is disabled at boot time")
+1aa6c4f6b8cd ("net: vrf: Add l3mdev rules on first device create")
+74b20582ac38 ("net: l3mdev: Add hook in ip and ipv6")
+b3b4663c973b ("net: vrf: Create FIB tables on link create")
+9ab179d83b4e ("net: vrf: Fix dst reference counting")
+810813c47a56 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

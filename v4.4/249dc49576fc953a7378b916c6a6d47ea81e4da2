@@ -1,0 +1,6 @@
+249dc49576fc ("ASoC: dapm: Fix NULL pointer deference on CODEC to CODEC DAIs")
+19ad683abc85 ("ASoC: dapm: Avoid creating kcontrol for params")
+38b8e6f092fd ("ASoC: dapm: Refactor the code in snd_soc_dapm_new_pcm")
+e5af4f9fb3d4 ("ASoC: dapm: fix error path in snd_soc_dapm_new_pcm")
+8053f21675b0 ("ASoC: dapm: Add a dummy snd_pcm_runtime to avoid NULL pointer access")
+3de7c420a2b1 ("ASoC: core: refactor soc_link_dai_widgets()")

@@ -1,0 +1,6 @@
+f9c0a39d9530 ("binfmt_elf: Only report padzero() errors when PROT_WRITE")
+585a018627b4 ("binfmt_elf: Support segments with 0 filesz and misaligned starts")
+8f6e3f9e5a0f ("binfmt: Fix whitespace issues")
+10b19249192a ("ELF: fix overflow in total mapping size calculation")
+f2485a2dc9f0 ("elf_prstatus: collect the common part (everything before pr_reg) into a struct")
+8a00dd0012f3 ("binfmt_elf: partially sanitize PRSTATUS_SIZE and SET_PR_FPVALID")

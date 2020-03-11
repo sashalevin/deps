@@ -1,0 +1,4 @@
+24526268f4e3 ("mm: mempolicy: keep VMA walk if both MPOL_MF_STRICT and MPOL_MF_MOVE are specified")
+4a64981dfee9 ("mm/mempolicy: convert migrate_page_add() to migrate_folio_add()")
+3dae02bbd07f ("mm/mempolicy: convert queue_pages_pte_range() to queue_folios_pte_range()")
+de1f5055523e ("mm/mempolicy: convert queue_pages_pmd() to queue_folios_pmd()")

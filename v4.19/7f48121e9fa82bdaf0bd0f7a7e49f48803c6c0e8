@@ -1,0 +1,4 @@
+7f48121e9fa8 ("mm/vmalloc: add missing READ/WRITE_ONCE() annotations")
+ca5e46c3400b ("mm/vmalloc: avoid iterating over per CPU vmap blocks twice")
+ad216c0316ad ("mm: vmalloc: prevent use after free in _vm_unmap_aliases")
+868b104d7379 ("mm/vmalloc: Add flag for freeing of special permsissions")

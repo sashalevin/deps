@@ -1,0 +1,7 @@
+b801ef42149f ("KVM: s390: Unwind kvm_arch_init() piece-by-piece() if a step fails")
+98b1d33dac5f ("KVM: s390: pci: do initial setup for AEN interpretation")
+6438e30714ab ("KVM: s390: pci: add basic kvm_zdev structure")
+062f002485d4 ("s390/pci: externalize the SIC operation controls and routine")
+4e4dc65ab578 ("s390/pci: use phys_to_virt() for AIBVs/DIBVs")
+3e6c556899d0 ("KVM: s390: protvirt: Add UV debug trace")
+f76f6371643b ("KVM: s390: Cleanup kvm_arch_init error path")

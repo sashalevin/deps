@@ -1,0 +1,4 @@
+cbf4b3867875 ("tty: define tty_open_by_driver when CONFIG_TTY is not defined")
+188e3c5cd2b6 ("tty: provide tty_name() even without CONFIG_TTY")
+0a083eddae33 ("tty: core: Add helper fn to deref tty driver name")
+82b8f888e99c ("tty: Make tty_paranoia_check() file scope")

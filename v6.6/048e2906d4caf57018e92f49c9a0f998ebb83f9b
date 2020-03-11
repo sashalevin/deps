@@ -1,0 +1,6 @@
+048e2906d4ca ("riscv: Randomize lower bits of stack address")
+9f23a5d2f6b0 ("riscv: add support for PR_SET_UNALIGN and PR_GET_UNALIGN")
+bc38f61313d3 ("riscv: add support for sysctl unaligned_enabled control")
+89c12fecdc4d ("riscv: report perf event for misaligned fault")
+7c83232161f6 ("riscv: add support for misaligned trap handling in S-mode")
+f19c3b4239f5 ("riscv: remove unused functions in traps_misaligned.c")

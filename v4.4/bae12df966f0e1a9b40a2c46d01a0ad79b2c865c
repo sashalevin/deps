@@ -1,0 +1,7 @@
+bae12df966f0 ("btrfs: use kvcalloc for allocation in btrfs_ioctl_send()")
+8eb2fd00153a ("btrfs: use kvzalloc() to allocate clone_roots in btrfs_ioctl_send()")
+818e010bf9d0 ("btrfs: replace opencoded kvzalloc with the helper")
+62e855771dac ("btrfs: convert printk(KERN_* to use pr_* calls")
+5d163e0e68ce ("btrfs: unsplit printed strings")
+1eff9d322a44 ("block: rename bio bi_rw to bi_opf")
+d58b0d980f0b ("Merge branch 'for-linus-4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/mason/linux-btrfs")

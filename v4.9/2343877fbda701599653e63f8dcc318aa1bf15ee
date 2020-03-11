@@ -1,0 +1,8 @@
+2343877fbda7 ("genirq/timings: Move free timings out of spinlocked region")
+46e48e257360 ("genirq: Move irq resource handling out of spinlocked region")
+9114014cf4e6 ("genirq: Add mutex to irq desc to serialize request/free_irq()")
+3a90795e1e88 ("genirq: Move bus locking into __setup_irq()")
+b2d3d61adb7b ("genirq/timings: Add infrastructure to track the interrupt timings")
+cba4235e6031 ("genirq: Remove mask argument from setup_affinity()")
+f160203986a6 ("irq/generic-chip: Export irq_init_generic_chip() locally")
+fa07ab72cbb0 ("genirq: Release resources in __setup_irq() error path")

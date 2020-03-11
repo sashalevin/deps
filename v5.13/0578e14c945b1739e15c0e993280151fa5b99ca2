@@ -1,0 +1,6 @@
+0578e14c945b ("rcu/nocb: Avoid polling when my_rdp->nocb_head_rdp list is empty")
+1598f4a4762b ("rcu/nocb: Add/del rdp to iterate from rcuog itself")
+2ebc45c44c4f ("rcu/nocb: Remove rcu_node structure from nocb list when de-offloaded")
+213d56bf33bd ("rcu/nocb: Prepare state machine for a new step")
+dfcb27540213 ("rcu/nocb: Start moving nocb code to its own plugin file")
+28e92f990337 ("Merge branch 'core-rcu-2021.07.04' of git://git.kernel.org/pub/scm/linux/kernel/git/paulmck/linux-rcu")

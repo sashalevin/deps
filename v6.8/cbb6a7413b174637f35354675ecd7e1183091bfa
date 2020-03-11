@@ -1,0 +1,7 @@
+cbb6a7413b17 ("drm/xe: Introduce xe_pm_runtime_get_noresume for inner callers")
+d6b4137822a1 ("drm/xe: Create a xe_pm_runtime_resume_and_get variant for display")
+3b85b7bcccf4 ("drm/xe: Fix display runtime_pm handling")
+30c399529f4c ("drm/xe: Document Xe PM component")
+6e144a7d6f8a ("drm/xe: Refactor __xe_exec_queue_create()")
+fa78e188d8d1 ("drm/xe/dgfx: Release mmap mappings on rpm suspend")
+9bab383d47c9 ("drm/xe: Use intel_wakeref_t in intel_runtime_pm functions")

@@ -1,0 +1,6 @@
+300b05621a3f ("uprobes: is_trap_at_addr: don't use get_user_pages_remote()")
+ca5e863233e8 ("mm/gup: remove vmas parameter from get_user_pages_remote()")
+0b295316b3a9 ("mm/gup: remove unused vmas parameter from pin_user_pages_remote()")
+7235759084a4 ("tracing/user_events: Use remote writes for event enablement")
+fd593511cdfc ("tracing/user_events: Track fork/exec/exit for mm lifetime")
+e5a26a4048ee ("tracing/user_events: Split header into uapi and kernel")

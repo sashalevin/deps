@@ -1,0 +1,8 @@
+9b6bb07eadaf ("mtd: spi-nor: push 4k SE handling into spi_nor_select_uniform_erase()")
+773bbe104497 ("mtd: spi-nor: add generic flash driver")
+fa06bb26a40c ("mtd: spi-nor: move function declaration out of sfdp.h")
+d0ddd88438d2 ("mtd: spi-nor: Introduce spi_nor_match_id()")
+66cf87c60014 ("mtd: spi-nor: export more functions to be used in vendor modules")
+5273cc6df984 ("mtd: spi-nor: core: Call spi_nor_post_sfdp_fixups() only when SFDP is defined")
+dacc8cfee493 ("mtd: spi-nor: core: Introduce the late_init() hook")
+7158c86e5607 ("mtd: spi-nor: core: Use container_of to get the pointer to struct spi_nor")

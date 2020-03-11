@@ -1,0 +1,8 @@
+88864611940a ("tools headers UAPI: Sync powerpc syscall tables with the kernel sources")
+dec20c50df79 ("powerpc: Adopt SYSCALL_DEFINE for arch-specific syscall handlers")
+ac17defbeb4e ("powerpc: Provide do_ppc64_personality helper")
+b7fa9ce86d32 ("powerpc: Remove direct call to mmap2 syscall handlers")
+b6b1334c9510 ("powerpc/32: Remove powerpc select specialisation")
+c2e7a19827ee ("powerpc: Use generic fallocate compatibility syscall")
+016ff72bd209 ("powerpc: Fix fallocate and fadvise64_64 compat parameter combination")
+5ba6c9a912fe ("powerpc: Remove asmlinkage from syscall handler definitions")

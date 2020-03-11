@@ -1,0 +1,6 @@
+be20b51cfd85 ("scsi: ufs: Distinguish between query REQ and query RSP in query trace")
+9d5095e74c83 ("scsi: ufs: Don't call trace_ufshcd_upiu() in case trace poit is disabled")
+28fa68fc557a ("scsi: ufs: Use __print_symbolic() for UFS trace string print")
+69a314d6a155 ("scsi: ufs: Add more contexts in the ufs tracepoints")
+6edfdcfe285e ("scsi: ufs: Fix and simplify setup_xfer_req variant operation")
+aa5c697988b4 ("scsi: ufs: Add trace event for UIC commands")

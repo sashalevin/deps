@@ -1,0 +1,5 @@
+6cc041e90c17 ("cifs: avoid races in parallel reconnects in smb1")
+1bcd548d935a ("cifs: prevent data race in cifs_reconnect_tcon()")
+3c0070f54b31 ("cifs: prevent data race in smb2_reconnect()")
+d7d7a66aacd6 ("cifs: avoid use of global locks for high contention data")
+9543c8ab3016 ("cifs: list_for_each() -> list_for_each_entry()")

@@ -1,0 +1,6 @@
+386cb81e4ba7 ("s390/zcrypt_ep11misc: support API ordinal 6 with empty pin-blob")
+745742dbca11 ("s390/pkey: fix PKEY_TYPE_EP11_AES handling in PKEY_VERIFYKEY2 IOCTL")
+d1fdfb0b2f33 ("s390/pkey: fix PKEY_TYPE_EP11_AES handling in PKEY_KBLOB2PROTK[23]")
+da2863f15945 ("s390/pkey: fix PKEY_TYPE_EP11_AES handling in PKEY_CLR2SECK2 IOCTL")
+fb249ce7f7bf ("s390/pkey: fix PKEY_TYPE_EP11_AES handling in PKEY_GENSECK2 IOCTL")
+37a08f010b7c ("s390/pkey: fix/harmonize internal keyblob headers")

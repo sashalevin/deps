@@ -1,0 +1,8 @@
+179e8e47c02a ("HID: wacom: Correct NULL dereference on AES pen proximity")
+37309f47e2f5 ("HID: wacom: Fix memory leakage caused by kfifo_alloc")
+362c571b92e2 ("HID: wacom: do not call hid_set_drvdata(hdev, NULL)")
+073b50bccbbf ("HID: wacom: Fix several minor compiler warnings")
+83417206427b ("HID: wacom: Queue events with missing type/serial data for later processing")
+b6b1f19b06b7 ("HID: wacom: don't manually release resources for the EKR")
+c0265a9488c2 ("HID: wacom: remove warning while disconnecting devices")
+5b779fc52020 ("HID: wacom: release the resources before leaving despite devm")

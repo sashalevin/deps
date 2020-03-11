@@ -1,0 +1,7 @@
+d7b6ba9611ae ("x86/hyperv: Add callback filter to cpumask_to_vpset()")
+bd19c94a19b0 ("x86/hyperv: Introduce HV_MAX_SPARSE_VCPU_BANKS/HV_VCPUS_PER_SPARSE_BANK constants")
+f5c20e4a5f18 ("x86/hyperv: Avoid erroneously sending IPI to 'self'")
+dfb5c1e12c28 ("x86/hyperv: remove on-stack cpumask from hv_send_ipi_mask_allbutself")
+7ad9bb9d0f35 ("asm-generic/hyperv: provide cpumask_to_vpset_noself")
+753ed9c95c37 ("drivers: hv: Create a consistent pattern for checking Hyper-V hypercall status")
+6523592cee46 ("x86/hyperv: Move hv_do_rep_hypercall to asm-generic")

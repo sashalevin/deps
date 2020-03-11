@@ -1,0 +1,7 @@
+a5a923038d70 ("fbdev: fbcon: Properly revert changes when vc_resize() failed")
+a1ac250a82a5 ("fbcon: Avoid using FNTCHARCNT() and hard-coded built-in font charcount")
+50145474f6ef ("fbcon: remove soft scrollback code")
+39b3cffb8cf3 ("fbcon: prevent user font height or width change from causing potential out-of-bounds access")
+50233393f0cf ("fbcon: s/struct display/struct fbcon_display/")
+23cd78e28a7b ("fbcon: use kvmalloc() for scrollback buffer")
+04cfcc7ab358 ("fbdev: Drop FBINFO_CAN_FORCE_OUTPUT flag")

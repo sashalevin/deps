@@ -1,0 +1,4 @@
+86eda5a4c167 ("drm/gma500: Remove field 'fbdev' from struct psb_framebuffer")
+641099fe0cf8 ("drm/gma500: Remove addr_space field from psb_framebuffer")
+bc61c97502e2 ("drm/gma500: Move GEM BO to drm_framebuffer")
+cdc13f681372 ("drm/gma500: Use drm_fb_helper_lastclose() and _poll_changed()")

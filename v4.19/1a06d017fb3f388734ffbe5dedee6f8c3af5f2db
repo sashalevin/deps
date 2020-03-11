@@ -1,0 +1,5 @@
+1a06d017fb3f ("Drivers: hv: vmbus: Fix Suspend-to-Idle for Generation-2 VM")
+83b50f83a968 ("Drivers: hv: vmbus: Fix harmless building warnings without CONFIG_PM_SLEEP")
+1f48dcf180e5 ("Drivers: hv: vmbus: Clean up hv_sock channels by force upon suspend")
+f53335e3289f ("Drivers: hv: vmbus: Suspend/resume the vmbus itself for hibernation")
+271b2224d42f ("Drivers: hv: vmbus: Implement suspend/resume for VSC drivers for hibernation")

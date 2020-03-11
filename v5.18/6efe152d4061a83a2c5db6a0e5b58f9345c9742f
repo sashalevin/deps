@@ -1,0 +1,6 @@
+6efe152d4061 ("bpf: Prevent escaping of kptr loaded from maps")
+c0a5a21c25f3 ("bpf: Allow storing referenced kptr in map")
+8f14852e8911 ("bpf: Tag argument to be released in bpf_func_proto")
+61df10c7799e ("bpf: Allow storing unreferenced kptr in map")
+e9147b4422e1 ("bpf: Move check_ptr_off_reg before check_map_access")
+42ba1308074d ("bpf: Make btf_find_field more generic")

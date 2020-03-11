@@ -1,0 +1,8 @@
+05ce7fb946c3 ("md: Explicitly create command-line configured devices")
+7e0adbfc20c5 ("md: rewrite md_setup_drive to avoid ioctls")
+d1100488c3ce ("md: simplify md_setup_drive")
+1a6a050620e4 ("md: remove the kernel version of md_u.h")
+a1d6bc018911 ("md: remove the autoscan partition re-read")
+d82fa81c2364 ("md: replace the RAID_AUTORUN ioctl with a direct function call")
+4f5b246b37e0 ("md: move the early init autodetect code to drivers/md/")
+881627f35375 ("init: remove the bstat helper")

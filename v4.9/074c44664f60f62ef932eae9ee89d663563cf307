@@ -1,0 +1,7 @@
+074c44664f60 ("dm verity: emit audit events on verification failure and more")
+2c0468e054c0 ("dm verity: skip redundant verity_handle_err() on I/O errors")
+88cd3e6cfac9 ("dm verity: add root hash pkcs#7 signature verification")
+843f38d382b1 ("dm verity: add 'check_at_most_once' option to only validate hashes once")
+12f1ffc40a81 ("dm: move dm-verity to generic async completion")
+f52236e0b0a0 ("dm verity: fix no salt use case")
+d1ac3ff008fb ("dm verity: switch to using asynchronous hash crypto API")

@@ -1,0 +1,5 @@
+a85fffe3032d ("drm/i915: Convert i915_gem_object_attach_phys() to ww locking, v2.")
+a61170975718 ("drm/i915: Rework struct phys attachment handling")
+c471748dc742 ("drm/i915: Move HAS_STRUCT_PAGE to obj->flags")
+0175969e489a ("drm/i915/gem: Use shrinkable status for unknown swizzle quirks")
+41a9c75d0acf ("drm/i915/gem: Move stolen node into GEM object union")

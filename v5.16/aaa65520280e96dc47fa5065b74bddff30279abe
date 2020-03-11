@@ -1,0 +1,8 @@
+aaa65520280e ("drm/vkms: fix variable dereferenced before check warning")
+8ba1648567e2 ("drm: vkms: Refactor the plane composer to accept new formats")
+bbdf7b2a0b0e ("drm: vkms: Add fb information to `vkms_writeback_job`")
+2eef1ef6e22b ("drm: vkms: get the reference to `drm_framebuffer` instead if coping it")
+1645e7b9667f ("drm: vkms: Rename `vkms_composer` to `vkms_frame_info`")
+16490922a95f ("drm: vkms: Alloc the compose frame using vzalloc")
+24f6fe3226c6 ("drm/vkms: check plane_composer->map[0] before using it")
+e7a09cea6483 ("Merge tag 'drm-intel-next-2022-02-08' of git://anongit.freedesktop.org/drm/drm-intel into drm-next")

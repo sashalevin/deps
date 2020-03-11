@@ -1,0 +1,6 @@
+3da2e1fd46a7 ("trace: Use pr_warn instead of pr_warning")
+8f0994bb8cbd ("tracing: Fix return value check in trace_benchmark_reg()")
+9c1f6bb8c88a ("tracing: Allow benchmark to be enabled at early_initcall()")
+1dd349ab74d2 ("tracing: Do not start benchmark on boot up")
+8cf868affdc4 ("tracing: Have the reg function allow to fail")
+bd2a634d9e85 ("tracepoints: Move struct tracepoint to new tracepoint-defs.h header")

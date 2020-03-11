@@ -1,0 +1,4 @@
+5da39530d199 ("mtd: rawnand: Fix the nand_read_data_op() early check")
+7e534323c416 ("mtd: rawnand: Pass a nand_chip object to chip->read_xxx() hooks")
+47bd59e538d4 ("mtd: rawnand: plat_nand: Pass a nand_chip object to all platform_nand_ctrl hooks")
+7525c9518ea6 ("mtd: rawnand: Get rid of the ->read_word() hook")

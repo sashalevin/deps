@@ -1,0 +1,7 @@
+be0f272bfc83 ("arm64: ftrace: emit ftrace-mod.o contents through code")
+8486e54d30e1 ("arm64: ftrace: fix !CONFIG_ARM64_MODULE_PLTS kernels")
+687644209a6e ("arm64: ftrace: fix building without CONFIG_MODULES")
+e71a4e1bebaf ("arm64: ftrace: add support for far branches to dynamic ftrace")
+f8af0b364e24 ("arm64: ftrace: don't validate branch via PLT in ftrace_make_nop()")
+24af6c4e4e0f ("arm64: module: split core and init PLT sections")
+757b435aaabe ("efi: arm64: Add vmlinux debug link to the Image binary")

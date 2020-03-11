@@ -1,0 +1,8 @@
+a54cdeeb04fc ("r8152: Set macpassthru in reset_resume callback")
+befb2de18195 ("r8152: move the initialization to reset_resume function")
+ce594e9824ab ("r8152: simply the arguments")
+de9bf29dd6e4 ("r8152: avoid start_xmit to schedule napi when napi is disabled")
+26afec393069 ("r8152: avoid start_xmit to call napi_schedule during autosuspend")
+2c561b2b728c ("r8152: fix rtl8152_post_reset function")
+75dc692eda11 ("r8152: fix rx issue for runtime suspend")
+8fb280616878 ("r8152: split rtl8152_suspend function")

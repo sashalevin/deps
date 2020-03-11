@@ -1,0 +1,5 @@
+379b03b7fa05 ("mm/memblock.c: hardcode the end_pfn being -1")
+c9a1b80daeb5 ("mm/memblock.c: fix memblock_next_valid_pfn()")
+b92df1de5d28 ("mm: page_alloc: skip over regions of invalid pfns where possible")
+b72d0ffb5dbc ("mm/page_alloc.c: rework code layout in memmap_init_zone()")
+342332e6a925 ("mm/page_alloc.c: introduce kernelcore=mirror option")

@@ -1,0 +1,7 @@
+ed645696e07a ("s390/qdio: remove qdio_inbound_q_moved() wrapper")
+a709423f7a3a ("s390/qdio: remove internal polling in non-thinint path")
+a87ee11607b8 ("s390/qdio: reduce SLSB writes during Input Queue processing")
+c70d82e96644 ("s390/qdio: add IRQ reduction for error SBALs")
+1db85d0e73f3 ("s390/qdio: refactor ACK processing for primed SBALs")
+9de6c08700ce ("s390/qdio: simplify overlap calculation on Input refill")
+19d4c761c1d2 ("s390/qdio: remove always-true condition")

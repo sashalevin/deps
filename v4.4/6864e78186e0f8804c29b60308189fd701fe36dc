@@ -1,0 +1,6 @@
+6864e78186e0 ("ata: ahci_xgene: Fix incorrect naming of 'xgene_ahci_handle_broken_edge_irq()'s 'host' param")
+32aea2680de0 ("ahci_xgene: Implement the workaround to fix the missing of the edge interrupt for the HOST_IRQ_STAT.")
+d867b95f9654 ("ata: Remove the AHCI_HFLAG_EDGE_IRQ support from libahci.")
+f070d6715509 ("libahci: Implement the capability to override the generic ahci interrupt handler.")
+f893180b79f6 ("ahci: compile out msi/msix infrastructure")
+d684a90d38e2 ("ahci: per-port msix support")

@@ -1,0 +1,4 @@
+27131b199f9f ("KVM: arm64: Sanitize PM{C,I}NTEN{SET,CLR}, PMOVS{SET,CLR} before first run")
+57fc267f1b5c ("KVM: arm64: PMU: Add a helper to read a vCPU's PMCR_EL0")
+427733579744 ("KVM: arm64: Select default PMU in KVM_ARM_VCPU_INIT handler")
+1616ca6f3c10 ("KVM: arm64: PMU: Introduce helpers to set the guest's PMU")

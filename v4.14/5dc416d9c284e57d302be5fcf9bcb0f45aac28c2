@@ -1,0 +1,4 @@
+5dc416d9c284 ("drm/vc4: Allow scaling on cursor plane")
+58a6a36fe8e0 ("drm/vc4: Use drm_atomic_helper_check_plane_state() to simplify the logic")
+658d8cbd07da ("drm/vc4: Fix the "no scaling" case on multi-planar YUV formats")
+a6a00918d4ad ("drm/vc4: Reset ->{x, y}_scaling[1] when dealing with uniplanar formats")

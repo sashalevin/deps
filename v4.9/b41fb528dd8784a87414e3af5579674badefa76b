@@ -1,0 +1,6 @@
+b41fb528dd87 ("KVM: s390: fix typo in parameter description")
+8b905d28ee17 ("KVM: s390: provide kvm_arch_no_poll function")
+c3b9e3e1ea1c ("KVM: s390: implement CPU model only facilities")
+04478197416e ("KVM: s390: do not expose random data via facility bitmap")
+d1f7e8f85b51 ("s390: squash facilities_src.h into gen_facilities.c")
+72cc9918ef67 ("s390: delete unneeded #include <linux/kconfig.h> from facilities_src.h")

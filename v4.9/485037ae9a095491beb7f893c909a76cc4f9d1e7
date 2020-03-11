@@ -1,0 +1,4 @@
+485037ae9a09 ("regmap-irq: Fix a bug in regmap_irq_enable() for type_in_mask chips")
+c82ea33ead18 ("regmap: irq: add an option to clear status registers on unmask")
+bc998a730367 ("regmap: irq: handle HW using separate rising/falling edge interrupts")
+a71411dbf6c8 ("regmap: irq: add chip option mask_writeonly")

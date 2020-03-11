@@ -1,0 +1,5 @@
+8f5be0ec23bb ("kernfs: update comment about kernfs_path() return value")
+3abb1d90f5d9 ("kernfs: make kernfs_path*() behave in the style of strlcpy()")
+0e0b2afdf644 ("kernfs: add dummy implementation of kernfs_path_from_node()")
+e99ed4de1731 ("kernfs_path_from_node_locked: don't overwrite nlen")
+9f6df573a404 ("kernfs: Add API to generate relative kernfs path")

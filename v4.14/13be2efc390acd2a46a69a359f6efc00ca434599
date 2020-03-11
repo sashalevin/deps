@@ -1,0 +1,6 @@
+13be2efc390a ("rtc: cmos: Disable irq around direct invocation of cmos_interrupt()")
+bc51098cdd95 ("rtc: cmos: Remove the `use_acpi_alarm' module parameter for !ACPI")
+c6d3a278cc12 ("rtc: cmos: acknowledge ACPI driven wake alarms upon resume")
+311ee9c151ad ("rtc: cmos: allow using ACPI for RTC alarm instead of HPET")
+8b5b7958fd1c ("rtc: cmos: use generic nvmem")
+53d29e0a3afe ("rtc: cmos: fix possible race condition")

@@ -1,0 +1,8 @@
+76abf9cea6c8 ("remoteproc: Pass size and offset as arguments to segment dump function")
+7ac516d39dd3 ("remoteproc: qcom_q6v5_mss: Replace mask based tracking with size")
+2c010cc378cd ("remoteproc: Move coredump functionality to a new file")
+be050a3429f4 ("remoteproc: qcom_q6v5_mss: map/unmap mpss segments before/after use")
+418fd7877122 ("remoteproc: add rproc_coredump_set_elf_info")
+c0abe2ca3605 ("remoteproc: Traverse rproc_list under RCU read lock")
+8f4033507d85 ("remoteproc: Adapt coredump to generate correct elf type")
+900fc60df227 ("remoteproc: qcom_q6v5_mss: Don't reassign mpss region on shutdown")

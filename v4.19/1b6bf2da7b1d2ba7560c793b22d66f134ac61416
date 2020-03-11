@@ -1,0 +1,7 @@
+1b6bf2da7b1d ("arm64: insn: remove aarch64_insn_gen_prefetch()")
+fa1114d9eba5 ("arm64: insn: add encoders for atomic operations")
+edbcf50eb8ae ("arm64: insn: Add BUILD_BUG_ON() for invalid masks")
+c5e2edeb01ae ("arm64: insn: Fix ldadd instruction encoding")
+34b8ab091f9e ("bpf, arm64: use more scalable stadd over ldxr / stxr loop in xadd")
+8968c67a82ab ("bpf, arm64: remove prefetch insn in xadd mapping")
+7aaf7b2fd26c ("arm64/insn: add support for emitting ADR/ADRP instructions")

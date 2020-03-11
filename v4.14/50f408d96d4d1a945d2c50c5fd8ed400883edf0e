@@ -1,0 +1,5 @@
+50f408d96d4d ("x86/fpu/xstate: Add helpers for LBR dynamic supervisor feature")
+eeedf1533687 ("x86/fpu: Introduce copy_supervisor_to_kernel()")
+49a91d61aed1 ("x86/fpu/xstate: Fix XSAVES offsets in setup_xstate_comp()")
+c08550510ca2 ("x86/fpu: Shrink space allocated for xstate_comp_offsets")
+0c608dad2a77 ("x86/process: Add AVX-512 usage elapsed time to /proc/pid/arch_status")

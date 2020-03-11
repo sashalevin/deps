@@ -1,0 +1,6 @@
+650224fe8d5f ("ALSA: pcm: Use guard() for PCM stream locks")
+f0061c18c169 ("ALSA: pcm: Avoid reference to status->state")
+bc55cfd5718c ("ALSA: pcm: Fix potential AB/BA lock with buffer_mutex and mmap_lock")
+1f68915b2efd ("ALSA: pcm: Add stream lock during PCM reset ioctl operations")
+3c3201f8c7bb ("ALSA: pcm: Fix races among concurrent prepare and hw_params/hw_free calls")
+92ee3c60ec9f ("ALSA: pcm: Fix races among concurrent hw_params and hw_free calls")

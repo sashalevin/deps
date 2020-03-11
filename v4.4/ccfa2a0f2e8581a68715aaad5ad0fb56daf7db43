@@ -1,0 +1,4 @@
+ccfa2a0f2e85 ("memblock: replace __alloc_bootmem_node with appropriate memblock_ API")
+ba4a648f12f4 ("powerpc/numa: Fix percpu allocations to be NUMA aware")
+ebb99a4c12e4 ("sparc64: Fix irq stack bootmem allocation.")
+9b2f753ec237 ("sparc64: Fix cpu_possible_mask if nr_cpus is set")

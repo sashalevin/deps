@@ -1,0 +1,7 @@
+0cec9541dcc5 ("powerpc: mm: accelerate pagefault when badaccess")
+70d4cbc80c88 ("powerc/mm: try VMA lock-based page fault handling first")
+98c26a72751e ("powerpc/mm: Remove unneeded #ifdef CONFIG_PPC_MEM_KEYS")
+90cbac0e995d ("powerpc: Enable KFENCE for PPC32")
+bccc58986a2f ("powerpc/8xx: Always pin kernel text TLB")
+613df979da6c ("powerpc/8xx: DEBUG_PAGEALLOC doesn't require an ITLB miss exception handler")
+035b19a15a98 ("powerpc/32s: Always map kernel text and rodata with BATs")

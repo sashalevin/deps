@@ -1,0 +1,6 @@
+6a1803bb582c ("mm: memcontrol: remove trailing semicolon in macros")
+e81bf9793b18 ("mem_cgroup: make sure moving_account, move_lock_task and stat_cpu in the same cacheline")
+e27be240df53 ("mm: memcg: make sure memory.events is uptodate when waking pollers")
+a983b5ebee57 ("mm: memcontrol: fix excessive complexity in memory.stat reporting")
+284542656e22 ("mm: memcontrol: implement lruvec stat functions on top of each other")
+c9019e9bf42e ("mm: memcontrol: eliminate raw access to stat and event counters")

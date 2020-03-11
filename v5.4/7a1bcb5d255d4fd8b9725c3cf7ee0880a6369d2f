@@ -1,0 +1,6 @@
+7a1bcb5d255d ("iov_iter: massage iterate_iovec and iterate_kvec to logics similar to iterate_bvec")
+28f38db7edbf ("iov_iter: reorder handling of flavours in primitives")
+a506abc7b644 ("copy_page_to_iter(): fix ITER_DISCARD case")
+08aa64796016 ("teach copy_page_to_iter() to handle compound pages")
+7ff5062079ef ("iov_iter: Add ITER_XARRAY")
+54c8195b4ebe ("iov_iter: optimise bvec iov_iter_advance()")

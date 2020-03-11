@@ -1,0 +1,8 @@
+ca4d8344a72b ("usb: typec: tcpm: fix tcpm unregister port but leave a pending timer")
+e9e6e164ed8f ("usb: typec: tcpm: Support non-PD mode")
+024236abeba8 ("usb: typec: tcpm: cancel send discover hrtimer when unregister tcpm port")
+7ade4805e296 ("usb: typec: tcpm: cancel frs hrtimer when unregister tcpm port")
+3a13ff7ef434 ("usb: typec: tcpm: cancel vdm and state machine hrtimer when unregister tcpm port")
+c34e85fa69b9 ("usb: typec: tcpm: Send DISCOVER_IDENTITY from dedicated work")
+55d8b34772e0 ("usb: typec: tcpm: Add support for altmodes")
+e00943e91678 ("usb: typec: tcpm: PD3.0 sinks can send Discover Identity even in device mode")

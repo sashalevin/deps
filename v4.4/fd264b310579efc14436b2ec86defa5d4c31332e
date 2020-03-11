@@ -1,0 +1,8 @@
+fd264b310579 ("arm64/perf: Replace '0xf' instances with ID_AA64DFR0_PMUVER_IMP_DEF")
+8e35aa642ee4 ("arm64: cpufeature: Extract capped perfmon fields")
+0331365edb1d ("arm64: perf: correct PMUVer probing")
+faa9a08397f5 ("arm64: pmuv3: handle pmuv3+")
+f1b36dcb5c31 ("arm64: pmuv3: handle !PMUv3 when probing")
+569de9026c29 ("arm64: perf: move to common attr_group fields")
+5e49d73c1d87 ("arm64: cpufeature: constify arm64_ftr_bits structures")
+b6ae4055f4ab ("Merge tag 'arm64-perf' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

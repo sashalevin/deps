@@ -1,0 +1,8 @@
+e1d91dda0bd1 ("tty: serial: fsl_lpuart: only enable Idle Line Interrupt for non-dma case")
+4d9ec1c0ced6 ("tty/serial: Migrate fsl_lpuart to use has_sysrq")
+352bd55e5dce ("tty: serial: fsl_lpuart: Introduce lpuart*_setup_watermark_enable()")
+bcfa46bfb9b7 ("tty: serial: fsl_lpuart: Drop unnecessary extra parenthesis")
+d26454ee3c45 ("tty: serial: fsl_lpuart: Drop no-op bit opearation")
+f77ebb241ce0 ("tty: serial: fsl_lpuart: correct the FIFO depth size")
+42b68768e51b ("serial: fsl_lpuart: DMA support for 32-bit variant")
+b0b2735a2ba2 ("serial: fsl_lpuart: specify transmit FIFO size for 32-bit variant")

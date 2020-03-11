@@ -1,0 +1,5 @@
+ecd182cbf4e1 ("staging: android: ashmem: Avoid range_alloc() allocation with ashmem_mutex held.")
+59848d6aded5 ("staging: android: ashmem: Remove use of unlikely()")
+740a5759bf22 ("staging: android: ashmem: Fix possible deadlock in ashmem_ioctl")
+ce8a3a9e76d0 ("staging: android: ashmem: Fix a race condition in pin ioctls")
+e6bfb70959a0 ("mm/core, arch, powerpc: Pass a protection key in to calc_vm_flag_bits()")

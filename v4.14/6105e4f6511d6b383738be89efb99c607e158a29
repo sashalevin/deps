@@ -1,0 +1,7 @@
+6105e4f6511d ("kbuild: rpm-pkg: pass 'linux' to --target option of rpmbuild")
+000ec95fbe75 ("kbuild: pkg: rename scripts/package/Makefile to scripts/Makefile.package")
+dd5806ede3d7 ("kbuild: remove "rpm" target, which is alias of "rpm-pkg"")
+ebaad7d36406 ("kbuild: rpm: prompt to use "rpm-pkg" if "rpm" target is used")
+8a16a070abaa ("kbuild: rpm-pkg: do not force -jN in submake")
+af60e2070879 ("kbuild: rpm-pkg: keep spec file until make mrproper")
+606625be47bc ("kbuild: rpm-pkg: fix jobserver unavailable warning")

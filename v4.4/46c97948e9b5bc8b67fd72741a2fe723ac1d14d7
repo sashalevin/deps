@@ -1,0 +1,6 @@
+46c97948e9b5 ("scsi: usb: Call scsi_done() directly")
+8036a7e7da69 ("USB: UAS: use macro for reporting results")
+eb2a86ae8c54 ("USB: UAS: fix disconnect by unplugging a hub")
+8b52291a0743 ("usb-storage: fix deadlock involving host lock and scsi_done")
+aa742683bbea ("USB: uas: add full support for RESPONSE IU")
+b36d83913ae5 ("uas: no gfp argument to uas_submit_urbs()")

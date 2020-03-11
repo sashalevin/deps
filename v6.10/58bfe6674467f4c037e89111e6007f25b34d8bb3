@@ -1,0 +1,8 @@
+58bfe6674467 ("drm/xe: Drop xe_gt_tlb_invalidation_wait")
+90be4cc6f767 ("drm/xe: Add xe_gt_tlb_invalidation_fence_init helper")
+eb523ec38269 ("drm/xe/guc: Configure TLB timeout based on CT buffer size")
+501c4255c409 ("drm/xe/trace: Print device_id in xe_trace events")
+08f7200899ca ("drm/xe: Decouple job seqno and lrc seqno")
+c4f18703629d ("drm/xe: Add xe_gt_tlb_invalidation_range and convert PT layer to use this")
+8ed9aaae39f3 ("drm/xe: Force wedged state and block GT reset upon any GPU hang")
+fb74b205cdd2 ("drm/xe: Introduce a simple wedged state")

@@ -1,0 +1,4 @@
+51f109228308 ("drivers/soc/litex: support 32-bit subregisters, 64-bit CPUs")
+ffa4ebc48971 ("drivers/soc/litex: s/LITEX_REG_SIZE/LITEX_SUBREG_ALIGN/g")
+b5d3061ea2e6 ("drivers/soc/litex: separate MMIO from subregister offset calculation")
+9d93a9e8aab3 ("drivers/soc/litex: move generic accessors to litex.h")

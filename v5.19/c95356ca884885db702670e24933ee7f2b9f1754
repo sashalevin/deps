@@ -1,0 +1,4 @@
+c95356ca8848 ("xfs: _{attr,data}_map_shared should take ILOCK_EXCL until iread_extents is completely done")
+e45d7cb2356e ("xfs: use XFS_IFORK_Q to determine the presence of an xattr fork")
+2ed5b09b3e8f ("xfs: make inode attribute forks a permanent part of struct xfs_inode")
+732436ef916b ("xfs: convert XFS_IFORK_PTR to a static inline helper")

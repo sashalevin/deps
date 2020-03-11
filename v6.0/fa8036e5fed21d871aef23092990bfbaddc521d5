@@ -1,0 +1,5 @@
+fa8036e5fed2 ("cpufreq: sun50i: replace of_node_put() with automatic cleanup handler")
+6282fba6abd7 ("cpufreq: sun50i: fix memory leak in dt_has_supported_hw()")
+fa5aec9561cf ("cpufreq: sun50i: Add support for opp_supported_hw")
+6cc4bcceff9a ("cpufreq: sun50i: Refactor speed bin decoding")
+889a50aedcd2 ("cpufreq: sun50i: Switch to use dev_err_probe() helper")

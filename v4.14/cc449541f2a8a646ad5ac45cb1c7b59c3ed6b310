@@ -1,0 +1,4 @@
+cc449541f2a8 ("iommu/amd: Unmap all L7 PTEs when downgrading page-sizes")
+6ccb72f8374e ("iommu/amd: Fix downgrading default page-sizes in alloc_pte()")
+9db034d57a8b ("iommu/amd: Restart loop if cmpxchg64 succeeded in alloc_pte()")
+6d568ef9a622 ("iommu/amd: Allow downgrading page-sizes in alloc_pte()")

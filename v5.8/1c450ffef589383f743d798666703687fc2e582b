@@ -1,0 +1,5 @@
+1c450ffef589 ("KVM: x86: Advertise AVX10.1 CPUID to userspace")
+eefe5e668209 ("KVM: x86: Advertise CPUID.(EAX=7,ECX=2):EDX[5:0] to userspace")
+99b668545356 ("KVM: x86: Advertise AMX-COMPLEX CPUID to userspace")
+fe8d76c1a6f0 ("KVM: x86/cpuid: Add a KVM-only leaf to redirect AMD PerfMonV2 flag")
+49d575926890 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

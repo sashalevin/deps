@@ -1,0 +1,8 @@
+2c3bac6dd6c7 ("io_uring: make cached_cq_overflow non atomic_t")
+0f2122045b94 ("io_uring: don't rely on weak ->files references")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")
+f573d384456b ("io_uring: move dropping of files into separate helper")
+bb175342aa64 ("io_uring: fix racy req->flags modification")
+3b2a4439e0ae ("io_uring: get rid of kiocb_wait_page_queue_init()")
+b711d4eaf0c4 ("io_uring: find and cancel head link async work on files exit")
+2cc3c4b3c2e9 ("Merge tag 'io_uring-5.9-2020-08-15' of git://git.kernel.dk/linux-block")

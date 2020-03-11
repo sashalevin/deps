@@ -1,0 +1,4 @@
+e90e51d5f01d ("KVM: VMX: clear vmx_x86_ops.sync_pir_to_irr if APICv is disabled")
+72b0eaa94607 ("KVM: VMX: Configure runtime hooks using vmx_x86_ops")
+cc877670975b ("KVM: nVMX: Use semi-colon instead of comma for exit-handlers initialization")
+1b84292bea00 ("KVM: VMX: Rename {vmx,nested_vmx}_vcpu_setup()")

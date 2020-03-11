@@ -1,0 +1,8 @@
+bedc5d34632c ("ext4: avoid overlapping preallocations due to overflow")
+3872778664e3 ("ext4: Use rbtrees to manage PAs instead of inode i_prealloc_list")
+a8e38fd37cff ("ext4: Convert pa->pa_inode_list and pa->pa_obj_lock into a union")
+0830344c953a ("ext4: Abstract out overlap fix/check logic in ext4_mb_normalize_request()")
+7692094ac513 ("ext4: Move overlap assert logic into a separate function")
+bcf434992145 ("ext4: Refactor code in ext4_mb_normalize_request() and ext4_mb_use_preallocated()")
+e86a718228b6 ("ext4: Stop searching if PA doesn't satisfy non-extent file")
+91a48aaf59d0 ("ext4: avoid unnecessary pointer dereference in ext4_mb_normalize_request")

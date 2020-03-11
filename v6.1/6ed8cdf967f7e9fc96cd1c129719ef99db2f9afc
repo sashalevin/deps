@@ -1,0 +1,8 @@
+6ed8cdf967f7 ("SUNRPC: Clean up bc_svc_process()")
+55fcc7d9159d ("SUNRPC: Ignore return value of ->xpo_sendto")
+5f69d5f65a54 ("SUNRPC: Final clean-up of svc_process_common()")
+f4afc8fead38 ("SUNRPC: Hoist svcxdr_init_decode() into svc_process()")
+1c59a532ae38 ("SUNRPC: Remove svc_process_common's argv parameter")
+163cdfca341b ("SUNRPC: Decode most of RPC header with xdr_stream")
+4119bd030665 ("SUNRPC: Eliminate unneeded variable")
+2009e32997ed ("SUNRPC: Re-order construction of the first reply fields")

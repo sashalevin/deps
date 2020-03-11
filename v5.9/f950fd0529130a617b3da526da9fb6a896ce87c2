@@ -1,0 +1,5 @@
+f950fd052913 ("udf: Protect rename against modification of moved directory")
+e9109a92d2a9 ("udf: Convert udf_rename() to new directory iteration code")
+c791730f2554 ("udf: Avoid double brelse() in udf_rename()")
+382a2287bf9c ("udf: Remove pointless union in udf_inode_info")
+044e2e26f214 ("udf: Avoid accessing uninitialized data on failed inode read")

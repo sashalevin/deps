@@ -1,0 +1,6 @@
+b00c0d8932f1 ("spi: sun6i: change OF match data to a struct")
+345980a3a5e5 ("spi: spi-sun6i: implement DMA-based transfer mode")
+7716fa8068d4 ("spi: spi-sun6i: sun6i_spi_transfer_one(): enable RF_RDY interrupt only if needed")
+4e7390e997af ("spi: spi-sun6i: sun6i_spi_transfer_one(): collate write to Interrupt Control Register")
+e4e8ca3f43f9 ("spi: spi-sun6i: sun6i_spi_fill_fifo(): remove not needed length argument")
+7c7c31f7f934 ("spi: sun6i: use devm_platform_ioremap_resource() to simplify code")

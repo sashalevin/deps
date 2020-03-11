@@ -1,0 +1,5 @@
+8f03d74f7163 ("arm64 : mm: add wrapper function ioremap_prot()")
+f23eab0bfaef ("arm64: mm: Convert to GENERIC_IOREMAP")
+873ba463914c ("arm64: decouple check whether pfn is in linear map from pfn_valid()")
+9a63ae850255 ("arm64: Implement ioremap_np() to map MMIO as nGnRnE")
+91cb2c8b072e ("arm64: Do not pass tagged addresses to __is_lm_address()")

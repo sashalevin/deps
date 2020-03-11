@@ -1,0 +1,6 @@
+1a4f69ef15ec ("9p/client: fix data race on req->status")
+391c18cf776e ("9p/xen: check logical size for buffer size")
+11c10956515b ("9p/fd: fix issue of list_del corruption in p9_fd_cancel()")
+296ab4a81384 ("net/9p: use a dedicated spinlock for trans_fd")
+52f1c45dde91 ("9p: trans_fd/p9_conn_cancel: drop client lock earlier")
+ea0c39260d0c ("Merge tag '9p-for-5.20' of https://github.com/martinetd/linux")

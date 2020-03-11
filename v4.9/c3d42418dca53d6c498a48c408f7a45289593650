@@ -1,0 +1,8 @@
+c3d42418dca5 ("cpuidle, OMAP4: Push RCU-idle into driver")
+294a3317bef5 ("ARM: OMAP2+: Manage MPU state properly for omap_enter_idle_coupled()")
+8f04aea048d5 ("ARM: OMAP2+: Restore MPU power domain if cpu_cluster_pm_enter() fails")
+55be2f50336f ("ARM: OMAP2+: Handle errors for cpu_pm")
+50d6b3cf9403 ("ARM: OMAP2+: fix lack of timer interrupts on CPU1 after hotplug")
+b764a5863fd8 ("gpio: omap: Remove custom PM calls and use cpu_pm instead")
+ec0daae685b2 ("gpio: omap: Add level wakeup handling for omap4 based SoCs")
+7abdb0e23e7b ("ARM: OMAP5: Add basic cpuidle MPU CSWR support")

@@ -1,0 +1,5 @@
+6836f099039e ("powerpc/lib/sstep: use truncate_if_32bit()")
+7c3bba919990 ("powerpc/lib/sstep: Remove unneeded #ifdef __powerpc64__")
+67484e0de9c9 ("powerpc/lib/sstep: Use l1_dcache_bytes() instead of opencoding")
+e28d0b675056 ("powerpc/lib/sstep: Don't use __{get/put}_user() on kernel addresses")
+174b701d3dcd ("powerpc/32: Move the inline keyword at the beginning of function declaration")

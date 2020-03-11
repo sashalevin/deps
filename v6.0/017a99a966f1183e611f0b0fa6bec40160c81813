@@ -1,0 +1,5 @@
+017a99a966f1 ("KVM: nSVM: Hide more stuff under CONFIG_KVM_HYPERV/CONFIG_HYPERV")
+26b516bb3921 ("x86/hyperv: KVM: Rename "hv_enlightenments" to "hv_vmcb_enlightenments"")
+68ae7c7bc56a ("KVM: SVM: Add a proper field for Hyper-V VMCB enlightenments")
+381fc63ac075 ("KVM: selftests: Move "struct hv_enlightenments" to x86_64/svm.h")
+089fe572a2e0 ("x86/hyperv: Move VMCB enlightenment definitions to hyperv-tlfs.h")

@@ -1,0 +1,6 @@
+7df5319a239a ("habanalabs: put fences in case of unexpected wait status")
+b2faac3887df ("habanalabs: refactor fence handling in hl_cs_poll_fences")
+81f8582ec404 ("habanalabs: fix NULL pointer dereference")
+ea6eb91c09cd ("habanalabs: fix race condition in multi CS completion")
+f05d17b226db ("habanalabs: take timestamp on wait for interrupt")
+d62b9a6976cd ("habanalabs: add support for a long interrupt target value")

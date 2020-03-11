@@ -1,0 +1,8 @@
+a0d1d0f47e31 ("virtio_net: Replace deprecated CPU-hotplug functions.")
+de33212f768c ("virtio_net: Fix recursive call to cpus_read_lock()")
+473153291b8a ("virtio_net: wrap rtnl_lock in test for calling with lock already held")
+672aafd5d88a ("virtio_net: add dedicated XDP transmit queues")
+f600b6905015 ("virtio_net: Add XDP support")
+a220871be66f ("virtio-net: correctly enable multiqueue")
+449000102901 ("virtio-net: enable multiqueue by default")
+d0c2c9973ecd ("net: use core MTU range checking in virt drivers")

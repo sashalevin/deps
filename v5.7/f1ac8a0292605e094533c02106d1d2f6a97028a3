@@ -1,0 +1,5 @@
+f1ac8a029260 ("drm/i915: Fix pread/pwrite to work with new locking rules.")
+1af343cdc197 ("drm/i915: Remove locking from i915_gem_object_prepare_read/write")
+80f0b679d6f0 ("drm/i915: Add an implementation for i915_gem_ww_ctx locking, v2.")
+16dc224f1c0f ("drm/i915: Replace the hardcoded I915_FENCE_TIMEOUT")
+ac938052e571 ("drm/i915: Pull waiting on an external dma-fence into its routine")

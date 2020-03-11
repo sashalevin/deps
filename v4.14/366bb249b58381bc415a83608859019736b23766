@@ -1,0 +1,8 @@
+366bb249b583 ("net/smc: rework peer ID handling")
+be6a3f38ff2a ("net/smc: determine port attributes independent from pnet table")
+9fda3510ab60 ("net/smc: move link group list to smc_core")
+3cf52eb11fa0 ("net/smc: set link inactive before calling smc_lgr_free()")
+268ffcc4ebfc ("net/smc: free link group without pending free_work only")
+da05bf2981f1 ("net/smc: handle device, port, and QP error events")
+c5c1cc9c522f ("smc: add SMC rendezvous protocol")
+d921c420d2ef ("net/smc: replace function pointer get_netdev()")

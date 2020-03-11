@@ -1,0 +1,8 @@
+c91664c83f46 ("staging: lustre: ldlm: use delayed_work for pools_recalc")
+98b092804497 ("staging: lustre: use wait_event_idle_timeout() where appropriate.")
+672b63e55bde ("staging: lustre: discard cfs_time_seconds()")
+db1d6cbc2a2c ("staging: lustre: replace simple cases of l_wait_event() with wait_event().")
+7f76eb1a6bb7 ("staging: lustre: discard SVC_SIGNAL and related functions")
+bcfa98a50763 ("staging: lustre: replace cfs_rand() with prandom_u32_max()")
+d85db086cf0c ("drivers: lustre: ldlm: check result of register_shrinker()")
+33ec9c5cae25 ("lustre: switch struct ksock_conn to iov_iter")

@@ -1,0 +1,5 @@
+e7eb919057c3 ("powerpc/64s: Handle program checks in wrong endian during early boot")
+4f50541f6703 ("powerpc/64s/exception: Move all interrupt handlers to new style code gen macros")
+eb204d863b9e ("powerpc/64s/exception: Expand EXC_COMMON and EXC_COMMON_ASYNC macros")
+7cb3a1a03e5f ("powerpc/64s/exception: Add GEN_COMMON macro that uses INT_DEFINE parameters")
+a42a239db326 ("powerpc/64s/exception: Introduce INT_DEFINE parameter block for code generation")

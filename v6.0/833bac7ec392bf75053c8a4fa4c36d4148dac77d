@@ -1,0 +1,4 @@
+833bac7ec392 ("net/smc: Fix setsockopt and sysctl to specify same buffer size again")
+aff7bfed9097 ("net/smc: replace mutex rmbs_lock and sndbufs_lock with rw_semaphore")
+0227f058aa29 ("net/smc: Unbind r/w buffer size from clcsock and make them tunable")
+77eee3251431 ("net/smc: Introduce a specific sysctl for TEST_LINK time")

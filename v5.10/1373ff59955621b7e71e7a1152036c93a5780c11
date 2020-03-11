@@ -1,0 +1,6 @@
+1373ff599556 ("libbpf: Introduce 'btf_custom_path' to 'bpf_obj_open_opts'")
+fe62de310e2b ("libbpf: Support modules in bpf_program__set_attach_target() API")
+91abb4a6d79d ("libbpf: Support attachment of BPF tracing programs to kernel modules")
+6aef10a481a3 ("libbpf: Factor out low-level BPF program loading helper")
+4f33a53d5600 ("libbpf: Add kernel module BTF support for CO-RE relocations")
+0f7515ca7cdd ("libbpf: Refactor CO-RE relocs to not assume a single BTF object")

@@ -1,0 +1,7 @@
+72c3bcdcda49 ("KVM: x86: handle !lapic_in_kernel case in kvm_cpu_*_extint")
+bb34e690e934 ("KVM: LAPIC: Fix pending interrupt in IRR blocked by software disable LAPIC")
+04140b4144cd ("KVM: x86: Rename interrupt.pending to interrupt.injected")
+664f8e26b00c ("KVM: X86: Fix loss of exception which has not yet been injected")
+cfcd20e5caad ("KVM: x86: Simplify kvm_x86_ops->queue_exception parameter list")
+90bca0529e1b ("KVM: x86: get rid of pic_irqchip()")
+c63e45635bfa ("KVM: VMX: Better name x2apic msr bitmaps")

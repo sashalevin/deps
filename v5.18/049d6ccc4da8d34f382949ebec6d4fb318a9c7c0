@@ -1,0 +1,7 @@
+049d6ccc4da8 ("spi: Remove check for idling in __spi_pump_messages()")
+c1038165fbbf ("spi: Lock controller idling transition inside the io_mutex")
+ae7d2346dc89 ("spi: Don't use the message queue if possible in spi_sync")
+1714582a3a08 ("spi: Move ctlr->cur_msg_prepared to struct spi_message")
+6598b91b5ac3 ("spi: spi.c: Convert statistics to per-cpu u64_stats_t")
+ebf2a3521738 ("spi: core: Display return code when failing to transfer message")
+dd769f15483c ("spi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")

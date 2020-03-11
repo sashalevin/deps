@@ -1,0 +1,5 @@
+08f6b10630f2 ("kfence: limit currently covered allocations when pool nearly full")
+a9ab52bbcb52 ("kfence: move saving stack trace of allocations into __kfence_alloc()")
+9a19aeb56650 ("kfence: count unexpectedly skipped allocations")
+236e9f153852 ("kfence: skip all GFP_ZONEMASK allocations")
+235a85cb32bb ("kfence: move the size check to the beginning of __kfence_alloc()")

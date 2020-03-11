@@ -1,0 +1,7 @@
+aeb92067f6ae ("x86/boot: Derive file size from _edata symbol")
+093ab258e3fb ("x86/boot: Define setup size in linker script")
+2e765c02dcbf ("x86/boot: Grab kernel_info offset from zoffset header directly")
+b618d31f112b ("x86/boot: Drop references to startup_64")
+8eace5b35556 ("x86/boot: Omit compression buffer from PE/COFF image memory footprint")
+5f51c5d0e905 ("x86/efi: Drop EFI stub .bss from .data section")
+642d94cf336f ("x86/build: Declutter the build output")

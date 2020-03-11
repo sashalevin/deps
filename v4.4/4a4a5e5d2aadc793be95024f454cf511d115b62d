@@ -1,0 +1,8 @@
+4a4a5e5d2aad ("powerpc/pkeys: key allocation/deallocation must not change pkey registers")
+2ddc53f3a751 ("powerpc: implementation for arch_set_user_pkey_access()")
+0685f217afe8 ("powerpc: cleanup AMR, IAMR when a key is allocated or freed")
+4d70b698f957 ("powerpc: helper functions to initialize AMR, IAMR and UAMOR registers")
+1b4037deadb6 ("powerpc: helper function to read, write AMR, IAMR, UAMOR registers")
+4fb158f65ac5 ("powerpc: track allocation status of all pkeys")
+92e3da3cf193 ("powerpc: initial pkey plumbing")
+7246f6006884 ("Merge tag 'powerpc-4.12-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

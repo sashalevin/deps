@@ -1,0 +1,6 @@
+ae8c51175730 ("fs: add FS_IOC_GETFSSYSFSPATH")
+41bcbe59c3b3 ("fs: FS_IOC_GETUUID")
+a4af51ce229b ("fs: super_set_uuid()")
+0ce7c12e88cf ("kernfs: attach uuid for every kernfs and report it in fsid")
+c9f2dfb7b59e ("kernfs: Use a per-fs rwsem to protect per-fs list of kernfs_super_info.")
+9caf69614225 ("kernfs: Introduce separate rwsem to protect inode attributes.")

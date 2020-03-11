@@ -1,0 +1,3 @@
+f7f39c50edb9 ("KVM: x86: Exit to userspace if fastpath triggers one on instruction skip")
+ea60229af7fb ("KVM: x86: Dedup fastpath MSR post-handling logic")
+0dd45f2cd8cc ("KVM: x86: Re-enter guest if WRMSR(X2APIC_ICR) fastpath is successful")

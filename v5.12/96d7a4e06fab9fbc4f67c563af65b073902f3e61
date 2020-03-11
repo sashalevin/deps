@@ -1,0 +1,4 @@
+96d7a4e06fab ("powerpc/signal64: Rewrite handle_rt_signal64() to minimise uaccess switches")
+7bb081c8f043 ("powerpc/signal64: Replace setup_sigcontext() w/ unsafe_setup_sigcontext()")
+2d19630e20fe ("powerpc/signal64: Remove TM ifdefery in middle of if/else block")
+c6c9645e3748 ("powerpc/signal64: Remove non-inline calls from setup_sigcontext()")

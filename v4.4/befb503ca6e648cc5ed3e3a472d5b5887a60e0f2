@@ -1,0 +1,5 @@
+befb503ca6e6 ("iomap: expose iomap_apply outside iomap.c")
+ae259a9c8593 ("fs: introduce iomap infrastructure")
+199a31c6d93b ("fs: move struct iomap from exportfs.h to a separate header")
+66cf191f3eae ("compat_ioctl: don't pass fd around when not needed")
+b43417216e9c ("compat_ioctl: don't look up the fd twice")

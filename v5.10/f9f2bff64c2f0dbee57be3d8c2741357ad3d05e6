@@ -1,0 +1,8 @@
+f9f2bff64c2f ("powerpc/8xx: Fix initial memory mapping")
+56e54b4e6c47 ("powerpc/32: Remove 'noltlbs' kernel parameter")
+1ce844973bb5 ("powerpc/32: Remove the 'nobats' kernel parameter")
+90cbac0e995d ("powerpc: Enable KFENCE for PPC32")
+83f84041ff1c ("powerpc/83xx: Move PHB discovery")
+bccc58986a2f ("powerpc/8xx: Always pin kernel text TLB")
+613df979da6c ("powerpc/8xx: DEBUG_PAGEALLOC doesn't require an ITLB miss exception handler")
+035b19a15a98 ("powerpc/32s: Always map kernel text and rodata with BATs")

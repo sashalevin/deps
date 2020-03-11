@@ -1,0 +1,6 @@
+2895f1831e91 ("nbd: don't clear 'NBD_CMD_INFLIGHT' flag if request is not completed")
+8663b210f8c1 ("nbd: fix uaf in nbd_handle_reply()")
+3fe1db626a56 ("nbd: partition nbd_read_stat() into nbd_read_reply() and nbd_handle_reply()")
+f52c0e08237e ("nbd: clean up return value checking of sock_xmit()")
+07175cb1baf4 ("nbd: make sure request completion won't concurrent")
+4e6eef5dc25b ("nbd: don't handle response without a corresponding request message")

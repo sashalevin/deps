@@ -1,0 +1,7 @@
+b7a8f766482f ("serial: 8250: 8250_core: Fix missing unlock on error in serial8250_register_8250_port()")
+4a96895f74c9 ("tty/serial/8250: use mctrl_gpio helpers")
+42912081481c ("serial: 8250: Add MSR/MCR TIOCM conversion wrapper functions")
+6d7f677a2afa ("serial: 8250: Rate limit serial port rx interrupts during input overruns")
+bdb48e4c7d07 ("dt-bindings: serial: 8250: Add rate limit for serial port input overruns")
+e2860e1f62f2 ("serial: 8250_of: Add reset support")
+aa42db44f670 ("8250: of: remove remnants of generic of_serial driver")

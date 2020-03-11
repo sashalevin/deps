@@ -1,0 +1,6 @@
+280e91b02665 ("scsi: core: Modify the scsi_send_eh_cmnd() return value for the SDEV_BLOCK case")
+bbe9fb0d04b9 ("scsi: Avoid that .queuecommand() gets called for a blocked SCSI device")
+551eb598e5ea ("scsi: Split scsi_internal_device_block()")
+8893cf6cb1cf ("scsi: mpt3sas: Avoid sleeping in interrupt context")
+7dbbf0fa1bf1 ("scsi: scsi-mq: Wait for .queue_rq() if necessary")
+669f044170d8 ("scsi: srp_transport: Move queuecommand() wait code to SCSI core")

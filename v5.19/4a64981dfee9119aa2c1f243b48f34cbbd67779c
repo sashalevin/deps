@@ -1,0 +1,5 @@
+4a64981dfee9 ("mm/mempolicy: convert migrate_page_add() to migrate_folio_add()")
+3dae02bbd07f ("mm/mempolicy: convert queue_pages_pte_range() to queue_folios_pte_range()")
+de1f5055523e ("mm/mempolicy: convert queue_pages_pmd() to queue_folios_pmd()")
+6d97cf88ddde ("mm/mempolicy: remove unneeded out label")
+3218f8712d6b ("mm: handling Non-LRU pages returned by vm_normal_pages")

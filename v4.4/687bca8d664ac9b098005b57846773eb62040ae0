@@ -1,0 +1,5 @@
+687bca8d664a ("x86/vmware: Use tsc_khz value for calibrate_cpu()")
+cf1137294943 ("x86/vmware: Read tsc_khz only once at boot time")
+b91688f528fe ("x86/vmware: Skip lapic calibration on VMware")
+1b74dde7c47c ("x86/cpu: Convert printk(KERN_<LEVEL> ...) to pr_<level>(...)")
+0007bccc3cfd ("x86: Replace RDRAND forced-reseed with simple sanity check")

@@ -1,0 +1,5 @@
+54c8d9119ec8 ("arm64: mm: enable per pmd page table lock")
+ace8cb754539 ("arm64: tlb: Avoid synchronous TLBIs when freeing page tables")
+07212cd47efe ("arm64: tlb: Remove redundant !CONFIG_HAVE_RCU_TABLE_FREE code")
+45a284bc5ee3 ("arm64: tlb: Add DSB ISHST prior to TLBI in __flush_tlb_[kernel_]pgtable()")
+fa1b5d09d077 ("Merge tag 'kconfig-v4.19-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

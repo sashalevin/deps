@@ -1,0 +1,4 @@
+aeecee2ea6e2 ("KVM: MMU: introduce kvm_mmu_slot_gfn_write_protect")
+547ffaed871a ("KVM: MMU: introduce kvm_mmu_gfn_{allow,disallow}_lpage")
+92f94f1e9e50 ("KVM: MMU: rename has_wrprotected_page to mmu_gfn_lpage_is_disallowed")
+018aabb56d61 ("KVM: x86: MMU: Encapsulate the type of rmap-chain head in a new struct")

@@ -1,0 +1,7 @@
+0061ffe289e1 ("iommu: Add static iommu_ops->release_domain")
+e5d8be7406ca ("iommu: Move IOMMU_DOMAIN_BLOCKED global statics to ops->blocked_domain")
+4601cd2d7c4c ("iommu: Add ops->domain_alloc_paging()")
+8359cf39acba ("iommu: Add __iommu_group_domain_alloc()")
+2ad56efa80db ("powerpc/iommu: Setup a default domain and remove set_platform_dma_ops")
+1c68cbc64fe6 ("iommu: Add IOMMU_DOMAIN_PLATFORM")
+df31b298477e ("iommu: Add iommu_ops->identity_domain")

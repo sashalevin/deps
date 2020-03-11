@@ -1,0 +1,6 @@
+008304079da7 ("tty: n_tty: move newline handling to a separate function")
+102dc8aac8d0 ("tty: n_tty: move canon handling to a separate function")
+819287f0f335 ("tty: n_tty: use MASK() for masking out size bits")
+6bb6fa6908eb ("tty: Implement lookahead to process XON/XOFF timely")
+25e02ba60f0f ("tty: Rework receive flow control char logic")
+ec66b8cf03e5 ("tty: Add function for handling flow control chars")

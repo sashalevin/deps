@@ -1,0 +1,7 @@
+c2086eca8658 ("KVM: nVMX: Ignore SIPI that arrives in L2 when vCPU is not in WFS")
+bf0cd88ce363 ("KVM: x86: emulate wait-for-SIPI and SIPI-VMExit")
+4e2a0bc56ad1 ("KVM: VMX: Rename NMI_PENDING to NMI_WINDOW")
+9dadc2f918df ("KVM: VMX: Rename INTERRUPT_PENDING to INTERRUPT_WINDOW")
+e64a8508234a ("KVM: VMX: Consume pending LAPIC INIT event when exit on INIT_SIGNAL")
+4289d2728664 ("KVM: retpolines: x86: eliminate retpoline from vmx.c exit handlers")
+f399e60c45f6 ("KVM: x86: optimize more exit handlers in vmx.c")

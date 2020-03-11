@@ -1,0 +1,7 @@
+c5cf04df56e6 ("drm/sun4i: Don't skip TCONs if they don't have channel 0")
+ef0cf6441fbb ("drm/sun4i: Add support for traversing graph with TCON TOP")
+71f4796ac09d ("drm/sun4i: Split out code for enumerating endpoints in output port")
+367c359aa863 ("drm/sun4i: Fix releasing node when enumerating enpoints")
+8b11aaface2b ("drm/sun4i: Implement endpoint parsing using kfifo")
+e8afb7b67fba ("drm/sun4i: don't add components that are already in the queue")
+da82b8785eeb ("drm/sun4i: add components in breadth first traversal order")

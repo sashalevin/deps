@@ -1,0 +1,6 @@
+39f3ec8eaa60 ("mm: zswap: function ordering: pool refcounting")
+a984649b5c1f ("mm: zswap: function ordering: pool alloc & free")
+5878303c5353 ("mm/zswap: fix race between lru writeback and swapoff")
+db128f5fdee9 ("mm: zswap: remove unused tree argument in zswap_entry_put()")
+44c7c734a513 ("mm/zswap: split zswap rb-tree")
+bb29fd7760ae ("mm/zswap: make sure each swapfile always have zswap rb-tree")

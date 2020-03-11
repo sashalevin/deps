@@ -1,0 +1,8 @@
+92b31a9af73b ("bpf: add BPF_J{LT,LE,SLT,SLE} instructions")
+ddc665a4bb4b ("bpf, arm64: fix jit branch offset related to ldimm64")
+971e827bffef ("tools lib bpf: Copy bpf.h and bpf_common.h from the kernel")
+c4b6014e8bb0 ("tools: Add copy of perf_event.h to tools/include/linux/")
+cec07f53c398 ("perf tools: Move syscall number fallbacks from perf-sys.h to tools/arch/x86/include/asm/")
+4f3446bb809f ("bpf: add generic constant blinding for use in jits")
+c94987e40ebb ("bpf: move bpf_jit_enable declaration")
+c7395d6bd7cc ("lib/test_bpf: Add tests for unsigned BPF_JGT")

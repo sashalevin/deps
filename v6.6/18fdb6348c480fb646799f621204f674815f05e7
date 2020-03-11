@@ -1,0 +1,5 @@
+18fdb6348c48 ("arm64: irqchip/gic-v3: Select priorities at boot time")
+d447bf09a401 ("irqchip/gic-v3: Detect GICD_CTRL.DS and SCR_EL3.FIQ earlier")
+a6156e70316b ("irqchip/gic-v3: Make distributor priorities variables")
+e95c64a7fb71 ("irqchip/gic-common: Remove sync_access callback")
+a02026bf9da1 ("irqchip/gic-v3: Enable support for SGIs to act as NMIs")

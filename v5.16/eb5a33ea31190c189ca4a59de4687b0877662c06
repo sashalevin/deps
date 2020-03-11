@@ -1,0 +1,8 @@
+eb5a33ea3119 ("powerpc: Don't hide eh field of lwarx behind a macro")
+e89aa642be21 ("powerpc/ftrace: Use PPC_RAW_xxx() macros instead of opencoding.")
+23b44fc248f4 ("powerpc/ftrace: Make __ftrace_make_{nop/call}() common to PPC32 and PPC64")
+c545b9f040f3 ("powerpc/inst: Define ppc_inst_t")
+fb350784d8d1 ("powerpc/bitops: Use immediate operand when possible")
+7dfbfb87c243 ("powerpc/ftrace: Activate HAVE_DYNAMIC_FTRACE_WITH_REGS on PPC32")
+c93d4f6ecf4b ("powerpc/ftrace: Add module_trampoline_target() for PPC32")
+f15a71b3880b ("powerpc/ppc-opcode: introduce PPC_RAW_BRANCH() macro")

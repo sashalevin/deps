@@ -1,0 +1,7 @@
+32f5f73b79ff ("x86/fred: Fix INT80 emulation for FRED")
+14619d912b65 ("x86/fred: FRED entry/exit and dispatch code")
+32b09c230392 ("x86/fred: Add a new header file for FRED definitions")
+be5341eb0d43 ("x86/entry: Convert INT 0x80 emulation to IDTENTRY")
+61382281e905 ("x86/entry: Make IA32 syscalls' availability depend on ia32_enabled()")
+f71e1d2ff8e6 ("x86/entry: Rename ignore_sysret()")
+1da5c9bc119d ("x86: Introduce ia32_enabled()")

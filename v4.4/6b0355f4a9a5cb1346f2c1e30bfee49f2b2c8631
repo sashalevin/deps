@@ -1,0 +1,4 @@
+6b0355f4a9a5 ("net_sched/hfsc: opencode trivial set_active() and set_passive()")
+959466588aa7 ("net_sched: call qlen_notify only if child qdisc is empty")
+2354f056f684 ("net/sched/sch_hfsc.c: remove leftover dlist and droplist")
+12d0ad3be9c3 ("net/sched/sch_hfsc.c: handle corner cases where head may change invalidating calculated deadline")

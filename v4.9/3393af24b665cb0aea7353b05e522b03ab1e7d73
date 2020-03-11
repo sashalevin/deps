@@ -1,0 +1,6 @@
+3393af24b665 ("vfio/spapr_tce: Check kzalloc() return when preregistering memory")
+4b6fad7097f8 ("powerpc/mm/iommu, vfio/spapr: Put pages on VFIO container shutdown")
+bc82d122ae4a ("vfio/spapr: Reference mm in tce_container")
+39701e56f5f1 ("vfio/spapr: Postpone allocation of userspace version of TCE table")
+d7baee6901b3 ("powerpc/iommu: Stop using @current in mm_iommu_xxx")
+88f54a3581eb ("powerpc/iommu: Pass mm_struct to init/cleanup helpers")

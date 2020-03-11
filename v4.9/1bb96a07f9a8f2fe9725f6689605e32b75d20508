@@ -1,0 +1,5 @@
+1bb96a07f9a8 ("mlx4: replace mlx4_u64_to_mac() with u64_to_ether_addr()")
+ded6e16b37e4 ("mlx4: replace mlx4_mac_to_u64() with ether_addr_to_u64()")
+6f320f6990ee ("RDMA/mlx4: Remove bogus dev_base_lock usage")
+b2d0fe35471d ("net/mlx4: && vs & typo")
+745d8ae4622c ("net/mlx4: Spoofcheck and zero MAC can't coexist")

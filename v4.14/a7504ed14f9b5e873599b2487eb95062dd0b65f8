@@ -1,0 +1,6 @@
+a7504ed14f9b ("migrate: fix syscall move_pages() return value for failure")
+7ca8783ad816 ("mm/migrate.c: wrap do_move_pages_to_node() and store_status()")
+4afdacec2e31 ("mm/migrate.c: no need to check for i > start in do_pages_move()")
+5984fabb6e82 ("mm: move_pages: report the number of non-attempted pages")
+dfe9aa23cab7 ("mm/migrate.c: also overwrite error when it is bigger than zero")
+a49bd4d71637 ("mm, numa: rework do_pages_move")

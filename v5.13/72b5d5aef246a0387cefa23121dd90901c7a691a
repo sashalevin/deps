@@ -1,0 +1,8 @@
+72b5d5aef246 ("kernfs: fix potential NULL dereference in __kernfs_remove")
+393c3714081a ("kernfs: switch global kernfs_rwsem lock to per-fs lock")
+410d591a1954 ("kernfs: don't create a negative dentry if inactive node exists")
+df6192f47d23 ("kernfs: dont call d_splice_alias() under kernfs node lock")
+47b5c64d0ab5 ("kernfs: use i_lock to protect concurrent inode updates")
+7ba0273b2f34 ("kernfs: switch kernfs to use an rwsem")
+c7e7c04274b1 ("kernfs: use VFS negative dentry caching")
+d826e0365199 ("kernfs: move revalidate to be near lookup")

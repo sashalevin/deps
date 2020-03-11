@@ -1,0 +1,5 @@
+1d4b0ff30c2d ("crypto: x86/aesni - Use local .L symbols for code")
+c75962f1c439 ("crypto: x86/aesni - Use RIP-relative addressing")
+032d049ea0f4 ("crypto: aesni - Use TEST %reg,%reg instead of CMP $0,%reg")
+d7866e503bdc ("crypto: x86 - Remove include/asm/inst.h")
+74d8b90a8890 ("x86/asm/crypto: Annotate local functions")

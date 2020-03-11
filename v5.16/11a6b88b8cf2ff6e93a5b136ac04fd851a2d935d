@@ -1,0 +1,8 @@
+11a6b88b8cf2 ("drm/i915/fbc: s/gen7/ivb/")
+0242cd3a538f ("drm/i915/fbc: Introduce .nuke() vfunc")
+41b85a5202b7 ("drm/i915/fbc: Introduce intel_fbc_funcs")
+6874f95816da ("drm/i915/fbc: Extract helpers to compute FBC control register values")
+74e0457a62c6 ("drm/i915/fbc: Introduce intel_fbc_is_compressing()")
+ef9600ffd447 ("drm/i915/fbc: Just use params->fence_y_offset always")
+2013ab184971 ("drm/i915/fbc: Extract {skl,glk}_fbc_program_cfb_stride()")
+b50364af7af4 ("drm/i915/fbc: Extract snb_fbc_program_fence()")

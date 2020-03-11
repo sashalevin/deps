@@ -1,0 +1,8 @@
+528815392f87 ("mm: migrate: split folio_migrate_mapping()")
+be9581ea8c05 ("mm: fix crashes from deferred split racing folio migration")
+85ce2c517ade ("memcontrol: only transfer the memcg data for migration")
+4b569387c0d5 ("memcontrol: add helpers for hugetlb memcg accounting")
+3720dd6dcac3 ("filemap: convert replace_page_cache_page() to replace_page_cache_folio()")
+108ca8358139 ("mm/migrate: Convert expected_page_refs() to folio_expected_refs()")
+67235182a41c ("mm/migrate: Convert buffer_migrate_page() to buffer_migrate_folio()")
+6ffcd825e7d0 ("mm: Remove __delete_from_page_cache()")

@@ -1,0 +1,6 @@
+41918ec82eb6 ("ARM: ftrace: enable the graph tracer with the EABI unwinder")
+953f534a7ed6 ("ARM: ftrace: enable HAVE_FUNCTION_GRAPH_FP_TEST")
+ecb108e3e3f7 ("ARM: 9144/1: forbid ftrace with clang and thumb2_kernel")
+7411cfc3c91a ("ARM: 9070/1: Make UNWINDER_ARM depend on ld.bfd or ld.lld 11.0.0+")
+4d576cab16f5 ("ARM: 9028/1: disable KASAN in call stack capturing routines")
+3511af0a72ef ("Partially revert "ARM: 8905/1: Emit __gnu_mcount_nc when using Clang 10.0.0 or newer"")

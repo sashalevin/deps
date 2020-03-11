@@ -1,0 +1,2 @@
+4be34f3d0731 ("bpf: Don't leak memory in bpf getsockopt when optlen == 0")
+d8fe449a9c51 ("bpf: Don't return EINVAL from {get,set}sockopt when optlen > PAGE_SIZE")

@@ -1,0 +1,7 @@
+f9b6b98d24f7 ("rbd: enable multiple blk-mq queues")
+59e542c86989 ("rbd: embed image request in blk-mq pdu")
+a52cc6857535 ("rbd: acquire header_rwsem just once in rbd_queue_workfn()")
+679a97d28627 ("rbd: kill img_request kref")
+686238b7431d ("rbd: remove snapshot existence validation code")
+b948ad78971f ("rbd: treat images mapped read-only seriously")
+f3c0e45900a6 ("rbd: introduce rbd_is_snap()")

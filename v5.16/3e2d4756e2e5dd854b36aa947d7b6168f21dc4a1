@@ -1,0 +1,6 @@
+3e2d4756e2e5 ("RISC-V: KVM: Simplify kvm_arch_prepare_memory_region()")
+26708234eb12 ("RISC-V: KVM: Use G-stage name for hypervisor page table")
+a457fd5660ef ("RISC-V: KVM: Add VM capability to allow userspace get GPA bits")
+cc4f602bc436 ("KVM: RISC-V: Use common KVM implementation of MMU memory caches")
+d01495d4cffb ("KVM: RISC-V: Use "new" memslot instead of userspace memory region")
+537a17b31493 ("KVM: Let/force architectures to deal with arch specific memslot data")

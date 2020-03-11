@@ -1,0 +1,5 @@
+c8f3446c66d8 ("inotify: report both events on parent and child with single callback")
+b54cecf5e229 ("fsnotify: pass dir argument to handle_event() callback")
+9c61f3b560f5 ("fanotify: break up fanotify_alloc_event()")
+b8a6c3a2f0ae ("fanotify: create overflow event type")
+9a02aa40dd5a ("nfsd: use fsnotify_data_inode() to get the unlinked inode")

@@ -1,0 +1,8 @@
+fcbc423577ce ("sched_ext: Add __weak markers to BPF helper function decalarations")
+4c30f5ce4f7a ("sched_ext: Implement scx_bpf_dispatch[_vtime]_from_dsq()")
+6462dd53a260 ("sched_ext: Compact struct bpf_iter_scx_dsq_kern")
+fdaedba2f96f ("sched_ext: Rename scx_kfunc_set_sleepable to unlocked and relocate")
+819513666966 ("sched_ext: Add cgroup support")
+41082c1d1d2b ("sched: Make cpu_shares_read_u64() use tg_weight()")
+298dec19bdeb ("scx: Allow calling sleepable kfuncs from BPF_PROG_TYPE_SYSCALL")
+650ba21b131e ("sched_ext: Implement DSQ iterator")

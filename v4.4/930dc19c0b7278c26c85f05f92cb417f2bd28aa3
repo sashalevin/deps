@@ -1,0 +1,5 @@
+930dc19c0b72 ("drm: omapdrm: DMA-unmap pages for all buffer types when freeing buffers")
+57c22f7cc24a ("drm: omapdrm: Rename the omap_gem_object addrs field to dma_addrs")
+4fa6ce48a97d ("drm: omapdrm: Lower indentation level in omap_gem_dma_sync_buffer()")
+6cb096562e36 ("drm/omap: omap_gem: Do not try to unmap page which is not mapped")
+a3d6345d3154 ("drm/omap: use dma_mapping_error in omap_gem_dma_sync")

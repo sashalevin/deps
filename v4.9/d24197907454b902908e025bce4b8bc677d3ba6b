@@ -1,0 +1,8 @@
+d24197907454 ("mtd: nand: samsung: warn about un-parseable ECC info")
+8fc82d456e40 ("mtd: nand: samsung: Retrieve ECC requirements from extended ID")
+c51d0ac59f24 ("mtd: nand: Move Samsung specific init/detection logic in nand_samsung.c")
+f16bd7ca0457 ("mtd: nand: Kill the MTD_NAND_IDS Kconfig option")
+29a198a1592d ("mtd: nand: Get rid of busw parameter")
+7f501f0a7203 ("mtd: nand: Store nand ID in struct nand_chip")
+cbe435a182d1 ("mtd: nand: Get rid of the mtd parameter in all auto-detection functions")
+0989b0909c1f ("Merge tag 'nand/for-4.10' of github.com:linux-nand/linux")

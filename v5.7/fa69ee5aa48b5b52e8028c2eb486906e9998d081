@@ -1,0 +1,4 @@
+fa69ee5aa48b ("net: switch to storing KCOV handle directly in sk_buff")
+97f53a08cba1 ("net: linux/skbuff.h: combine SKB_EXTENSIONS + KCOV handling")
+85ce50d337d1 ("net: kcov: don't select SKB_EXTENSIONS when there is no NET")
+6370cc3bbd8a ("net: add kcov handle to skb extensions")

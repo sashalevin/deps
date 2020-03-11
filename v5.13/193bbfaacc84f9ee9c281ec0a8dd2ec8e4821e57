@@ -1,0 +1,7 @@
+193bbfaacc84 ("KVM: Drop .on_unlock() mmu_notifier hook")
+cec29eef0a81 ("KVM: Add a dedicated mmu_notifier flag for reclaiming freed memory")
+8569992d64b8 ("KVM: Use gfn instead of hva for mmu_notifier_retry")
+c0db19232c1e ("KVM: Assert that mmu_invalidate_in_progress *never* goes negative")
+e97b39c5c436 ("KVM: Tweak kvm_hva_range and hva_handler_t to allow reusing for gfn ranges")
+3e1efe2b67d3 ("KVM: Wrap kvm_{gfn,hva}_range.pte in a per-action union")
+255006adb3da ("Merge tag 'kvm-x86-vmx-6.5' of https://github.com/kvm-x86/linux into HEAD")

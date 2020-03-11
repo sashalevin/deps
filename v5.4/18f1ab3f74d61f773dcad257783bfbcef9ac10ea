@@ -1,0 +1,5 @@
+18f1ab3f74d6 ("crypto: hisilicon/zip - Use hisi_qm_alloc_qps_node() when init ctx")
+39977f4b51cd ("crypto: hisilicon - add vfs_num module param for zip")
+1e67ee9344ab ("crypto: hisilicon - replace #ifdef with IS_ENABLED for CONFIG_NUMA")
+700f7d0d29c7 ("crypto: hisilicon - fix to return sub-optimal device when best device has no qps")
+719181f39a10 ("crypto: hisilicon - fix param should be static when not external.")

@@ -1,0 +1,5 @@
+ac452b8e7932 ("scsi: qla2xxx: Fix session lookup in qlt_abort_work()")
+7560151b6b3c ("qla2xxx: Remove dependency on hardware_lock to reduce lock contention.")
+b7bd104e6f1c ("qla2xxx: Wait for all conflicts before ack'ing PLOGI")
+71cdc0796465 ("qla2xxx: Delete session if initiator is gone from FW")
+6eb54715b54b ("qla2xxx: Added interface to send explicit LOGO.")

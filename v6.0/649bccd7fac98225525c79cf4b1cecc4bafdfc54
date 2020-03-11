@@ -1,0 +1,3 @@
+649bccd7fac9 ("KVM: x86/pmu: Rewrite reprogram_counters() to improve performance")
+68fb4757e867 ("KVM: x86/pmu: Defer reprogram_counter() to kvm_pmu_handle_event()")
+c0245b774203 ("KVM: x86/pmu: Refactor PERF_GLOBAL_CTRL update helper for reuse by PEBS")

@@ -1,0 +1,8 @@
+83dc7bbaecae ("mm/damon/sysfs: use damon_commit_ctx()")
+a79b68ee3e21 ("mm/damon/sysfs: deduplicate inputs applying")
+da87878010e5 ("mm/damon/sysfs: support online inputs update")
+01538719c098 ("mm/damon/sysfs: update schemes stat in the kdamond context")
+3cbab4ca1ea8 ("mm/damon/sysfs: use enum for 'state' input handling")
+74bd8b7d2f8e ("mm/damon/sysfs: move targets setup code to a separated function")
+b82434471cd2 ("mm/damon/sysfs: support fixed virtual address ranges monitoring")
+de6d01542a5c ("mm/damon/vaddr: register a damon_operations for fixed virtual address ranges monitoring")

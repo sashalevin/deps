@@ -1,0 +1,7 @@
+c2e6c8567acd ("y2038: socket: Change recvmmsg to use __kernel_timespec")
+3c1c456f9b96 ("syscalls: sort syscall prototypes in include/linux/syscalls.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+1255e2690689 ("net: socket: add do_sys_recvmmsg() helper; remove in-kernel call to syscall")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")
+6c51e67b64d1 ("Merge branch 'x86-syscall-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,5 @@
+71f9cf8fdd72 ("ARC: Mark secondary cpu online only after all HW setup is done")
+eec3c58efa27 ("ARC: clockevent: switch to cpu notifier for clockevent setup")
+569579401ae1 ("ARC: opencode arc_request_percpu_irq")
+db4c4426daed ("ARC: [intc-compact] setup TIMER as percpu_dev")
+dbcbc7e7cee1 ("ARC: [intc-compact] Remove IPI setup from ARCompact port")

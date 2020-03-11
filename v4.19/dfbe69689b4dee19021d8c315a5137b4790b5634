@@ -1,0 +1,8 @@
+dfbe69689b4d ("vmlinux.lds.h: Add .gnu.version* to COMMON_DISCARDS")
+03c2b85cb7f1 ("vmlinux.lds.h: Create COMMON_DISCARDS")
+84d5f77fc2ee ("x86, vmlinux.lds: Add RUNTIME_DISCARD_EXIT to generic DISCARDS")
+441110a547f8 ("vmlinux.lds.h: Provide EMIT_PT_NOTE to indicate export of .notes")
+898490c010b5 ("moduleparam: Save information about built-in modules in separate file")
+5f69e38885c3 ("powerpc/prom_init: Move __prombss to it's own section and store it in .bss")
+e63334e556d9 ("powerpc/prom_init: Replace __initdata with __prombss when applicable")
+3bad719b4954 ("powerpc/prom_init: Make of_workarounds static")

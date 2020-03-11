@@ -1,0 +1,5 @@
+0f5209fee90b ("genirq: GENERIC_IRQ_IPI depends on SMP")
+151a535171be ("genirq: Let GENERIC_IRQ_IPI select IRQ_DOMAIN_HIERARCHY")
+3838a547fda2 ("irqchip: mips-cpu: Introduce IPI IRQ domain support")
+131735afc183 ("irqchip: mips-cpu: Prepare for non-legacy IRQ domains")
+c0cfbe694108 ("irqchip: mips-cpu: Replace magic 0x100 with IE_SW0")

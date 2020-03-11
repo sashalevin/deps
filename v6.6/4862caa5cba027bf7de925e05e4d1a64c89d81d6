@@ -1,0 +1,6 @@
+4862caa5cba0 ("mm/slab: move kmalloc() functions from slab_common.c to slub.c")
+5a9d31d980cb ("mm/slab: move kmalloc_slab() to mm/slab.h")
+b774d3e326d3 ("mm/slab: move kfree() from slab_common.c to slub.c")
+0bedcc66d2a4 ("mm/slab: move memcg related functions from slab.h to slub.c")
+0445ee000498 ("mm/slab, docs: switch mm-api docs generation from slab.c to slub.c")
+e86828e5446d ("mm: kmem: scoped objcg protection")

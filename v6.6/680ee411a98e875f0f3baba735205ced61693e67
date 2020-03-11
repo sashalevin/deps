@@ -1,0 +1,8 @@
+680ee411a98e ("HID: logitech-hidpp: Fix connect event race")
+6f335b47adc3 ("HID: logitech-hidpp: Remove connected check for non-unifying devices")
+8954dac18c68 ("HID: logitech-hidpp: Move hidpp_overwrite_name() to before connect check")
+219ccfb60003 ("HID: logitech-hidpp: Move g920_get_config() to just before hidpp_ff_init()")
+a3643036d7a8 ("HID: logitech-hidpp: Remove wtp_get_config() call from probe()")
+ba9de3505095 ("HID: logitech-hidpp: Move get_wireless_feature_index() check to hidpp_connect_event()")
+55bf70362ffc ("HID: logitech-hidpp: Revert "Don't restart communication if not necessary"")
+11ca0322a419 ("HID: logitech-hidpp: Don't restart IO, instead defer hid_connect() only")

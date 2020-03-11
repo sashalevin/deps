@@ -1,0 +1,6 @@
+02ce5316afc8 ("ext4: use fscrypt_prepare_new_inode() and fscrypt_set_context()")
+177cc0e71008 ("ext4: factor out ext4_xattr_credits_for_new_inode()")
+592ddec7578a ("ext4: use IS_ENCRYPTED() to check encryption status")
+6390d33bf5d9 ("ext4: add verifier check for symlink with append/immutable flags")
+996fc4477a0e ("ext4: add missing error check in __ext4_new_inode()")
+6642586b3e5f ("ext4: add ext4_should_use_dax()")

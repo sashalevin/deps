@@ -1,0 +1,5 @@
+fadcc3ab1302 ("drm/msm/gpu: Bypass PM QoS constraint for idle clamp")
+6563f60f14cb ("drm/msm/gpu: Add devfreq tuning debugfs")
+2c1b7748100e ("drm/msm: Enable clamp_to_idle for 7c3")
+e93e45b1aa49 ("drm/msm/gpu: Drop qos request if devm_devfreq_add_device() fails")
+6694482a70e9 ("drm/msm: Avoid unclocked GMU register access in 6xx gpu_busy")

@@ -1,0 +1,8 @@
+6496dbecb9c2 ("drm/i915/dp: Handle DP tunnel IRQs")
+784a2ec00904 ("drm/i915/mst: only ack the ESI we actually handled")
+b4a1c675d256 ("drm/i915/mst: ack sink irq ESI for link status changes")
+1d50942dc930 ("drm/i915/mst: read link status only when requested by sink in ESI")
+1358139bdefd ("drm/i915/mst: abstract handling of link status in DP MST")
+34ed3e83475e ("drm/i915/mst: debug log 4 bytes of ESI right after reading")
+603801d0f2f4 ("drm/i915/mst: abstract intel_dp_ack_sink_irq_esi()")
+26950f2968e8 ("drm/i915/mst: fix intel_dp_mst_hpd_irq() indentation")

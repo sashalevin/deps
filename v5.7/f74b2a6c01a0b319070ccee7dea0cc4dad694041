@@ -1,0 +1,4 @@
+f74b2a6c01a0 ("powerpc/64s: Use dec_mm_active_cpus helper")
+a2496049f1f1 ("powerpc/64s/radix: add warning and comments in mm_cpumask trim")
+01b0f0eae081 ("powerpc/64s: Trim offlined CPUs from mm_cpumasks")
+a665eec0a22e ("powerpc/64s/radix: Fix mm_cpumask trimming race vs kthread_use_mm")

@@ -1,0 +1,7 @@
+76ea438b4afc ("KVM: X86: Expose bus lock debug exception to guest")
+72add915fbd5 ("KVM: VMX: Enable SGX virtualization for SGX1, SGX2 and LC")
+8f102445d404 ("KVM: VMX: Add emulation of SGX Launch Control LE hash MSRs")
+70210c044b4e ("KVM: VMX: Add SGX ENCLS[ECREATE] handler to enforce CPUID restrictions")
+9798adbc04cf ("KVM: VMX: Frame in ENCLS handler for SGX virtualization")
+ee36656f0ac3 ("KVM: VMX: Define Hyper-V paravirt TLB flush fields iff Hyper-V is enabled")
+a4038ef1aa63 ("KVM: VMX: Track common EPTP for Hyper-V's paravirt TLB flush")

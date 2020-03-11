@@ -1,0 +1,6 @@
+6f63904c8f3e ("sched: add a few helpers to wake up tasks on the current cpu")
+ee7dc86b6d3e ("wait: Return number of exclusive waiters awaken")
+062d3f95b630 ("sched: Warn if garbage is passed to default_wake_function()")
+a5c6234e1028 ("completion: Use simple wait queues")
+b3212fe2bc06 ("sched/swait: Prepare usage in completions")
+52262ee567ad ("sched/fair: Allow a per-CPU kthread waking a task to stack on the same CPU, to fix XFS performance regression")

@@ -1,0 +1,6 @@
+07881166a892 ("sched/deadline: Make bandwidth enforcement scale-invariant")
+794a56ebd9a5 ("sched/cpufreq: Change the worker kthread to SCHED_DEADLINE")
+d4edd662ac16 ("sched/cpufreq: Use the DEADLINE utilization signal")
+34be39305a77 ("sched/deadline: Implement "runtime overrun signal" support")
+aa5222e92f80 ("sched/deadline: Don't use dubious signed bitfields")
+799ba82de01e ("sched/deadline: Use C bitfields for the state flags")

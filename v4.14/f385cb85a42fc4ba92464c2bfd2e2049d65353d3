@@ -1,0 +1,7 @@
+f385cb85a42f ("uprobe: collapse THP pmd after removing all uprobes")
+fb4fb04ff4dd ("uprobe: use original page when all uprobes are removed")
+1cc33161a83d ("uprobes: Support SDT markers having reference count (semaphore)")
+38e967ae1e60 ("Uprobes: Simplify uprobe_register() body")
+61f94203c9ef ("tracing: Remove igrab() iput() call from uprobes.c")
+0c92c7a3c5d4 ("tracing: Fix bad use of igrab in trace_uprobe.c")
+affb02807149 ("Merge tag 'trace-v4.17-2' of git://git.kernel.org/pub/scm/linux/kernel/git/rostedt/linux-trace")

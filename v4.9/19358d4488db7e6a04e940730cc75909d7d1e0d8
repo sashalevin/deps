@@ -1,0 +1,7 @@
+19358d4488db ("i2c: rcar: implement STOP and REP_START according to docs")
+b07531acd551 ("i2c: rcar: refactor private flags")
+3b770017b03a ("i2c: rcar: handle RXDMA HW behaviour on Gen3")
+b1437dcb973d ("i2c: rcar: enhance comment to avoid regressions")
+adbd77b589d0 ("i2c: rcar: skip DMA if buffer is not safe")
+63a761eef557 ("i2c: rcar: clarify PM handling with more comments")
+ae481cc13965 ("i2c: rcar: fix resume by always initializing registers before transfer")

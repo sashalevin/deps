@@ -1,0 +1,5 @@
+fd3b1bc3c86e ("mm/madvise: fix madvise_pageout for private file mappings")
+21cb47be6fb9 ("inode: make init and permission helpers idmapped mount aware")
+47291baa8ddf ("namei: make permission helpers idmapped mount aware")
+0558c1bf5a08 ("capability: handle idmapped mounts")
+02f92b3868a1 ("fs: add file and path permissions helpers")

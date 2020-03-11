@@ -1,0 +1,4 @@
+878460e8d0ff ("perf build: Remove -Wno-unused-but-set-variable from the flex flags when building with clang < 13.0.0")
+ddc8e4c96692 ("perf build: Disable fewer bison warnings")
+10c775afa599 ("perf build: Disable fewer flex warnings")
+88cc47e24597 ("perf build: Define YYNOMEM as YYNOABORT for bison < 3.81")

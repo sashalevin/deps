@@ -1,0 +1,6 @@
+79b181810285 ("SUNRPC: Convert auth creds to use refcount_t")
+07d02a67b7fa ("SUNRPC: Simplify lookup code")
+95cd623250ad ("SUNRPC: Clean up the AUTH cache code")
+4c3ffd058c28 ("SUNRPC: two small improvements to rpcauth shrinker.")
+9a8f6b5ea275 ("SUNRPC: Ensure get_rpccred() and put_rpccred() can take NULL arguments")
+62dbef2ae413 ("sunrpc: add a get_rpccred_rcu inline")

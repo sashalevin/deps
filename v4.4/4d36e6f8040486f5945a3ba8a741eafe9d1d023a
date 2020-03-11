@@ -1,0 +1,5 @@
+4d36e6f80404 ("mm/vmalloc.c: convert vmap_lazy_nr to atomic_long_t")
+68571be99f32 ("mm/vmalloc.c: add priority threshold to __purge_vmap_area_lazy()")
+763b218ddfaf ("mm: add preempt points into __purge_vmap_area_lazy()")
+0574ecd141df ("mm: refactor __purge_vmap_area_lazy()")
+80c4bd7a5e43 ("mm/vmalloc: keep a separate lazy-free list")

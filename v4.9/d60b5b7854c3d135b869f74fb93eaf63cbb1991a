@@ -1,0 +1,4 @@
+d60b5b7854c3 ("fscrypt: fix dereference of NULL user_key_payload")
+0837e49ab3fa ("KEYS: Differentiate uses of rcu_dereference_key() and user_key_payload()")
+c538f6ec9f56 ("dm crypt: add ability to use keys from the kernel key retention service")
+265e9098bac0 ("dm crypt: mark key as invalid until properly loaded")

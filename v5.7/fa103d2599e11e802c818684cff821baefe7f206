@@ -1,0 +1,4 @@
+fa103d2599e1 ("serial: qcom-geni: fix receiver enable")
+c474c775716e ("tty: serial: qcom-geni-serial: Fix get_clk_div_rate() which otherwise could return a sub-optimal clock rate.")
+c2194bc999d4 ("tty: serial: qcom-geni-serial: Remove uart frequency table. Instead, find suitable frequency with call to clk_round_rate.")
+a1b44ea340b2 ("tty: serial: qcom_geni_serial: Add 51.2MHz frequency support")

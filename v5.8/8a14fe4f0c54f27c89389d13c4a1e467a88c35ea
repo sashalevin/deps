@@ -1,0 +1,4 @@
+8a14fe4f0c54 ("kvm: x86: Move last_cpu into kvm_vcpu_arch as last_vmentry_cpu")
+1aa561b1a4c0 ("kvm: x86: Add "last CPU" to some KVM_EXIT information")
+80a1684c0161 ("kvm: vmx: Add last_cpu to struct vcpu_vmx")
+242636343c24 ("kvm: svm: Always set svm->last_cpu on VMRUN")

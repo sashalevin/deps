@@ -1,0 +1,6 @@
+086cc0803550 ("net: enetc: stop auto-configuring the port pMAC")
+12717decb570 ("net: enetc: implement software lockstep for port MAC registers")
+219355f1b093 ("net: enetc: stop configuring pMAC in lockstep with eMAC")
+dfc7175de3b0 ("net: enetc: offload per-tc max SDU from tc-taprio")
+9a2ea26d97a9 ("net: enetc: use common naming scheme for PTGCR and PTGCAPR registers")
+715bf2610f1d ("net: enetc: cache accesses to &priv->si->hw")

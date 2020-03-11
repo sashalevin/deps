@@ -1,0 +1,5 @@
+54d020692b34 ("mm/gup: remove unused vmas parameter from get_user_pages()")
+9a863a6a5139 ("mm/gup: make locked never NULL in the internal GUP functions")
+d64e2dbc33a1 ("mm/gup: simplify the external interface functions and consolidate invariants")
+afa3c33e2684 ("mm/gup: don't call __gup_longterm_locked() if FOLL_LONGTERM cannot be set")
+b2a72dff85fa ("mm/gup: have internal functions get the mmap_read_lock()")

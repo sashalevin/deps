@@ -1,0 +1,5 @@
+a2b1da09793d ("rbd: lock should be quiesced on reacquire")
+edd8ca801580 ("rbd: reacquire lock should update lock owner client id")
+14bb211d324d ("rbd: support updating the lock cookie without releasing the lock")
+cbbfb0ff1151 ("rbd: store lock cookie")
+bbead745d96c ("rbd: ignore unlock errors")

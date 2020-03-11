@@ -1,0 +1,5 @@
+7e27cb6ad4d8 ("cgroup/cpuset: Make cpuset_attach_task() skip subpartitions CPUs for top_cpuset")
+42a11bf5c543 ("cgroup/cpuset: Make cpuset_fork() handle CLONE_INTO_CGROUP properly")
+18f9a4d47527 ("cgroup/cpuset: Skip spread flags update on v2")
+b94f9ac79a73 ("cgroup/cpuset: Change references of cpuset_mutex to cpuset_rwsem")
+69dc8010b8fc ("Merge branch 'for-5.15' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

@@ -1,0 +1,5 @@
+6c81511ca1f5 ("s390/nmi: allocation of the extended save area")
+00a8f886dbda ("s390/nmi: use smp_emergency_stop instead of smp_send_stop")
+608796ffe138 ("s390/vdso: move boot_vdso_data to vdso.c")
+b96f7d881ad9 ("s390/spinlock: introduce spinlock wait queueing")
+8153380379ec ("s390/spinlock: use the cpu number +1 as spinlock value")

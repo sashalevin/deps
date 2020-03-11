@@ -1,0 +1,4 @@
+958553d13478 ("smb3: fix oops in calculating shash_setkey")
+1f3d5477b944 ("cifs: secmech: use shash_desc directly, remove sdesc")
+8698baa1b768 ("smb3: rename encryption/decryption TFMs")
+a4e430c8c8ba ("cifs: replace kfree() with kfree_sensitive() for sensitive data")

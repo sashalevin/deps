@@ -1,0 +1,7 @@
+5f75cfbd6bb0 ("mm/hugetlb: fix hugetlb vs. core-mm PT locking")
+75b25d49ca66 ("mm: convert ptlock_init() to use ptdescs")
+edbaefe53c64 ("mm: convert pmd_ptlock_init() to use ptdescs")
+1865484af6b2 ("mm: convert ptlock_ptr() to use ptdescs")
+f5ecca06b3a5 ("mm: convert ptlock_alloc() to use ptdescs")
+f8546d8494ca ("mm: convert pmd_pgtable_page() callers to use pmd_ptdesc()")
+373dfda2bac1 ("mm/thp: rename pmd_to_page() as pmd_pgtable_page()")

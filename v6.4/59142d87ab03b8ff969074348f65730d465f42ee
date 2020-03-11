@@ -1,0 +1,4 @@
+59142d87ab03 ("memcg: reduce memory size of mem_cgroup_events_index")
+811244a501b9 ("mm: memcg: add THP swap out info for anonymous reclaim")
+9b72b134eedc ("mm/page_io: convert count_swpout_vm_event() to take in a folio")
+2675251d5037 ("mm/page_io: use a folio in swap_writepage_bdev_async()")

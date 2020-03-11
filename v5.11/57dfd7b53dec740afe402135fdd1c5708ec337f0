@@ -1,0 +1,7 @@
+57dfd7b53dec ("KVM: x86: Move delivery of non-APICv interrupt into vendor code")
+8e819d75cbcf ("KVM: x86: add a tracepoint for APICv/AVIC interrupt delivery")
+b3646477d458 ("KVM: x86: use static calls to reduce kvm_x86_ops overhead")
+9af5471bdbb2 ("KVM: x86: introduce definitions to support static calls for kvm_x86_ops")
+b6a7cc35440e ("KVM: X86: prepend vmx/svm prefix to additional kvm_x86_ops functions")
+15b51dc08a34 ("KVM: x86: Take KVM's SRCU lock only if steal time update is needed")
+19979fba9bfa ("KVM: x86: Remove obsolete disabling of page faults in kvm_arch_vcpu_put()")

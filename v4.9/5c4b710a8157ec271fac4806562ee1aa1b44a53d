@@ -1,0 +1,6 @@
+5c4b710a8157 ("powerpc/32: implement HAVE_CONTEXT_TRACKING_USER support")
+24a9c54182b3 ("context_tracking: Split user tracking Kconfig")
+2a0aafce963d ("context_tracking: Rename context_tracking_cpu_set() to ct_cpu_track_user()")
+f163f0302ab6 ("context_tracking: Rename context_tracking_user_enter/exit() to user_enter/exit_callable()")
+f67671baadf6 ("context_tracking: Add a note about noinstr VS unsafe context tracking functions")
+44688ffd111a ("Merge tag 'objtool-urgent-2022-06-05' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

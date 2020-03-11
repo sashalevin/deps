@@ -1,0 +1,7 @@
+451769ebb7e7 ("mm/vmalloc: alloc GFP_NO{FS,IO} for vmalloc")
+228f778e9730 ("mm/vmalloc: repair warn_alloc()s in __vmalloc_area_node()")
+f7ee1f13d606 ("mm/vmalloc: enable mapping of huge pages at pte level in vmap")
+12b9f873a5d0 ("mm/vmalloc: fallback to a single page allocator")
+f4bdfeaf18a4 ("mm/vmalloc: remove quoted strings split across lines")
+cd61413baa10 ("mm/vmalloc: print a warning message first on failure")
+5c1f4e690eec ("mm/vmalloc: switch to bulk allocator in __vmalloc_area_node()")

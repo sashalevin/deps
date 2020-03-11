@@ -1,0 +1,5 @@
+152fe65f300e ("Kconfig.debug: provide a little extra FRAME_WARN leeway when KASAN is enabled")
+8d192bec534b ("parisc: Increase FRAME_WARN to 2048 bytes on parisc")
+867050247e29 ("xtensa: increase size of gcc stack frame check")
+55b70eed81cb ("parisc: Increase size of gcc stack frame check")
+432654df90f2 ("parisc: Fix too large frame size warnings")

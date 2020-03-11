@@ -1,0 +1,7 @@
+ea8e72f4116a ("mm/hugetlb: convert putback_active_hugepage to take in a folio")
+345c62d16349 ("mm/hugetlb: convert move_hugetlb_state() to folios")
+29f394304f62 ("mm/hugetlb_cgroup: convert hugetlb_cgroup_migrate to folios")
+de656ed376c4 ("mm/hugetlb_cgroup: convert set_hugetlb_cgroup*() to folios")
+f074732d599e ("mm/hugetlb_cgroup: convert hugetlb_cgroup_from_page() to folios")
+a098c977722c ("mm/hugetlb_cgroup: convert __set_hugetlb_cgroup() to folios")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")

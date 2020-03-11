@@ -1,0 +1,7 @@
+d76e0926d835 ("rcu/nocb: Use the rcuog CPU's ->nocb_timer")
+e02691b7ef51 ("rcu/nocb: Move trace_rcu_nocb_wake() calls outside nocb_lock when possible")
+76d00b494d79 ("rcu/nocb: Disable bypass when CPU isn't completely offloaded")
+b2fcf2102049 ("rcu/nocb: Fix missed nocb_timer requeue")
+64305db2856b ("rcu/nocb: Forbid NOCB toggling on offline CPUs")
+3820b513a2e3 ("rcu/nocb: Detect unsafe checks for offloaded rdp")
+657bd90c9314 ("Merge tag 'sched-core-2021-02-17' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

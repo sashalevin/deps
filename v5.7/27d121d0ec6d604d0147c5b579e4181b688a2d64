@@ -1,0 +1,8 @@
+27d121d0ec6d ("mm/cma: provide option to opt out from exposing pages on activation failure")
+43ca106fa8ec ("mm: cma: support sysfs")
+bbb269206f3c ("mm: vmstat: add cma statistics")
+072355c1cf2d ("mm/cma: expose all pages to the buddy if activation of an area fails")
+3a5139f1c5bb ("cma: don't quit at first error when activating reserved areas")
+18e98e56f440 ("mm: cma: fix the name of CMA areas")
+835832ba01bb ("mm/cma.c: fix NULL pointer dereference when cma could not be activated")
+a2b992c828f7 ("debugfs: make sure we can remove u32_array files cleanly")

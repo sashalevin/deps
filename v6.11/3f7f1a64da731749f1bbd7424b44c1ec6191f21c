@@ -1,0 +1,7 @@
+3f7f1a64da73 ("uprobes: revamp uprobe refcounting and lifetime management")
+12026d2034df ("uprobes: shift put_uprobe() from delete_uprobe() to uprobe_unregister()")
+70408bebba94 ("uprobes: fold __uprobe_unregister() into uprobe_unregister()")
+bb18c5de1c28 ("uprobes: change uprobe_register() to use uprobe_unregister() instead of __uprobe_unregister()")
+3c83a9ad0295 ("uprobes: make uprobe_register() return struct uprobe *")
+e04332ebc8ac ("uprobes: kill uprobe_register_refctr()")
+db61e6a4eee5 ("selftests/bpf: fix uprobe.path leak in bpf_testmod")

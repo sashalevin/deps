@@ -1,0 +1,6 @@
+457209595789 ("drm/i915: Remove delayed FBC activation.")
+c9855a561afa ("drm/i915: Block enabling FBC until flips have been completed")
+949f7c7d5fc4 ("drm/i915: Handle changing enable_fbc parameter at runtime better.")
+1b29b7ca7d43 ("drm/i915: Handle 64-bit return from drm_crtc_vblank_count()")
+4a3d1e0f9d42 ("drm/i915: Always update the no_fbc_reason when disabling")
+3138872ceb11 ("drm/i915: Show FBC worker status in debugfs")

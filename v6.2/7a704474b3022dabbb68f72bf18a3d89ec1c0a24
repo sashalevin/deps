@@ -1,0 +1,7 @@
+7a704474b302 ("mm: memcg: rename and document global_reclaim()")
+583c27a167c2 ("mm: vmscan: ignore non-LRU-based reclaim in memcg reclaim")
+54c4fe08f65e ("mm/vmscan: simplify shrink_node()")
+e9d4e1ee7880 ("mm: multi-gen LRU: clarify scan_control flags")
+e4dde56cd208 ("mm: multi-gen LRU: per-node lru_gen_folio lists")
+7348cc91821b ("mm: multi-gen LRU: remove aging fairness safeguard")
+a579086c99ed ("mm: multi-gen LRU: remove eviction fairness safeguard")

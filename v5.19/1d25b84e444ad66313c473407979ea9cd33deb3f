@@ -1,0 +1,3 @@
+1d25b84e444a ("kernfs: Replace global kernfs_open_file_mutex with hashed mutexes.")
+41448c614815 ("kernfs: Introduce interface to access global kernfs_open_file_mutex.")
+086c00c71fc8 ("kernfs: make ->attr.open RCU protected.")

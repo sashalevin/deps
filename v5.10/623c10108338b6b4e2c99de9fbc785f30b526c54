@@ -1,0 +1,5 @@
+623c10108338 ("ALSA: memalloc: Fix pgprot for WC mmap on x86")
+a202bd1ad86d ("ALSA: core: Move mmap handler into memalloc ops")
+37af81c5998f ("ALSA: core: Abstract memory alloc helpers")
+84a0374051c1 ("ALSA: core: Drop snd_sgbuf_get_ptr()")
+74c64efa1557 ("ALSA: core: memalloc: add page alignment for iram")

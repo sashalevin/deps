@@ -1,0 +1,8 @@
+ff397be685e4 ("efi/gop: Fix memory leak in __gop_query32/64()")
+540f4c0e894f ("efi/libstub: Skip GOP with PIXEL_BLT_ONLY format")
+fc37206427ce ("efi/libstub: Move Graphics Output Protocol handling to generic code")
+2c23b73c2d02 ("x86/efi: Prepare GOP handling code for reuse as generic code")
+81a0bc39ea19 ("ARM: add UEFI stub support")
+da58fb6571bf ("ARM: wire up UEFI init and runtime support")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

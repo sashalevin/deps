@@ -1,0 +1,2 @@
+38b850a73034 ("arm64: spinlock: order spin_{is_locked,unlock_wait} against local locks")
+d86b8da04dfa ("arm64: spinlock: serialise spin_unlock_wait against concurrent lockers")

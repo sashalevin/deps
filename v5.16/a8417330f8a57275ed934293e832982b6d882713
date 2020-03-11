@@ -1,0 +1,6 @@
+a8417330f8a5 ("iavf: Fix race condition between iavf_shutdown and iavf_remove")
+b04683ff8f08 ("iavf: Fix hang during reboot/shutdown")
+3ccd54ef44eb ("iavf: Fix init state closure on remove")
+974578017fc1 ("iavf: Add waiting so the port is initialized in remove")
+fc2e6b3b132a ("iavf: Rework mutexes for better synchronisation")
+bdb9e5c7aec7 ("iavf: Add trace while removing device")

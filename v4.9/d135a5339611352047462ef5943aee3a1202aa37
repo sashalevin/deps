@@ -1,0 +1,5 @@
+d135a5339611 ("btrfs: remove no longer needed full sync flag check at inode_logged()")
+6e8e777deb5c ("btrfs: eliminate some false positives when checking if inode was logged")
+803f0f64d177 ("Btrfs: fix fsync not persisting dentry deletions due to inode evictions")
+a491abb2e730 ("btrfs: Make btrfs_del_inode_ref take btrfs_inode")
+49f34d1f968f ("btrfs: Make btrfs_del_dir_entries_in_log take btrfs_inode")

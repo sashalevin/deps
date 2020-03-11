@@ -1,0 +1,6 @@
+99d055b4fd4b ("block: remove per-disk debugfs files in blk_unregister_queue")
+5cf9c91ba927 ("block: serialize all debugfs operations using q->debugfs_mutex")
+0f69288253e9 ("block: don't delete queue kobject before its children")
+a2247f19ee1c ("block: Add independent access ranges support")
+2e9bc3465ac5 ("block: move elevator.h to block/")
+9778ac77c202 ("block: remove the struct blk_queue_ctx forward declaration")

@@ -1,0 +1,4 @@
+531876c80004 ("libbpf: keep FD_CLOEXEC flag when dup()'ing FD")
+bc308d011ab8 ("libbpf: call dup2() syscall directly")
+dac645b950ea ("libbpf: use stable map placeholder FDs")
+5c742725045a ("libbpf: Move elf_find_func_offset* functions to elf object")

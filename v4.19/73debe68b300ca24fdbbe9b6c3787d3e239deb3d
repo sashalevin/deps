@@ -1,0 +1,8 @@
+73debe68b300 ("io_uring: remove nonblock arg from io_{rw}_prep()")
+f4bff104fffb ("io_uring: simplify io_rw_prep_async()")
+c183edff33fd ("io_uring: fix explicit async read/write mapping for large segments")
+8452fd0ce657 ("io_uring: cleanup io_import_iovec() of pre-mapped request")
+ff6165b2d7f6 ("io_uring: retain iov_iter state over io_read/io_write calls")
+2dd2111d0d38 ("io_uring: Fix NULL pointer dereference in loop_rw_iter()")
+c1dd91d16246 ("io_uring: add comments on how the async buffered read retry works")
+cdc8fcb49905 ("Merge tag 'for-5.9/io_uring-20200802' of git://git.kernel.dk/linux-block")

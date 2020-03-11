@@ -1,0 +1,4 @@
+65547275d769 ("iommu/arm-smmu-v3: Compute the STE only once for each master")
+efe15df08727 ("iommu/arm-smmu-v3: Move the STE generation for S1 and S2 domains into functions")
+7686aa5f8d61 ("iommu/arm-smmu-v3: Consolidate the STE generation for abort/bypass")
+7da51af9125c ("iommu/arm-smmu-v3: Make STE programming independent of the callers")

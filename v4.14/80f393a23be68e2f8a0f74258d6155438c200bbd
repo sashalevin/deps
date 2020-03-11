@@ -1,0 +1,7 @@
+80f393a23be6 ("KVM: arm/arm64: Support chained PMU counters")
+218907cbc2b8 ("KVM: arm/arm64: Remove pmc->bitmask")
+30d97754b2d1 ("KVM: arm/arm64: Re-create event when setting counter value")
+6f4d2a0b0b1e ("KVM: arm/arm64: Extract duplicated code to own function")
+8d404c4c2461 ("KVM: arm64: Rewrite system register accessors to read/write functions")
+52f6c4f02164 ("KVM: arm64: Change 32-bit handling of VM system registers")
+54ceb1bcf8d8 ("KVM: arm64: Move debug dirty flag calculation out of world switch")

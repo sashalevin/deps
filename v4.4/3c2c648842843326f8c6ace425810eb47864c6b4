@@ -1,0 +1,8 @@
+3c2c64884284 ("mm/page_alloc.c: fix typos in comments")
+d135e5750205 ("mm/page_alloc.c: broken deferred calculation")
+864b9a393dcb ("mm: consider memblock reservations for deferred memory initialization sizing")
+06ad276ac187 ("mm, oom: do not enforce OOM killer for __GFP_NOFAIL automatically")
+3da88fb3bacf ("mm, oom: move GFP_NOFS check to out_of_memory")
+0a687aace3b8 ("mm,oom: do not loop !__GFP_FS allocation if the OOM killer is disabled")
+987b3095c2a7 ("mm: meminit: initialise more memory for inode/dentry hash tables in early boot")
+5020e285856c ("mm, oom: give __GFP_NOFAIL allocations access to memory reserves")

@@ -1,0 +1,7 @@
+21764a49d32e ("spi: spi-zynqmp-gqspi: Avoid setting baud rate multiple times for same SPI frequency")
+22742b8bbdd9 ("spi: spi-zynqmp-gqspi: Set CPOL and CPHA during hardware init")
+b3b953084b1b ("spi: spi-zynqmp-gqspi: Fix kernel-doc warnings")
+58eaa7b2d07d ("spi: spi-zynqmp-gqspi: Fix runtime PM imbalance in zynqmp_qspi_probe")
+a0f65be6e880 ("spi: spi-zynqmp-gqspi: add mutex locking for exec_op")
+1c26372e5aa9 ("spi: spi-zynqmp-gqspi: Update driver to use spi-mem framework")
+91af6eb04a6b ("spi: spi-zynqmp-gqspi: Fix kernel-doc warnings")

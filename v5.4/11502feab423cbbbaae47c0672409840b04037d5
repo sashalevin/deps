@@ -1,0 +1,8 @@
+11502feab423 ("Documentation: PCI: Tidy AER documentation")
+f142badf4645 ("Documentation: PCI: Update cross references to .rst files")
+a6378a7a1c7d ("Documentation: PCI: Drop recommendation to configure AER Capability")
+894020fdd88c ("PCI/AER: Rationalize error status register clearing")
+20e15e673b05 ("PCI/AER: Add pci_aer_raw_clear_status() to unconditionally clear Error Status")
+8d077c3ce010 ("PCI/AER: Factor message prefixes with dev_fmt()")
+01daacfb9035 ("PCI/AER: Log which device prevents error recovery")
+af65d1ad416b ("PCI/AER: Save AER Capability for suspend/resume")

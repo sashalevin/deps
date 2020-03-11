@@ -1,0 +1,5 @@
+f0c7baca1800 ("genirq/affinity: Make affinity setting if activated opt-in")
+baedb87d1b53 ("genirq/affinity: Handle affinity setting on inactive interrupts correctly")
+008f1d60fe25 ("x86/apic/vector: Force interupt handler invocation to irq context")
+c16816acd086 ("genirq: Add protection against unsafe usage of generic_handle_irq()")
+6f1a4891a592 ("x86/apic/msi: Plug non-maskable MSI affinity race")

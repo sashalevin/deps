@@ -1,0 +1,7 @@
+b3222f7147e0 ("gpio: mpc8xxx: Do not reverse bits using bgpio")
+cd0d3f58a0ca ("gpio: mpc8xxx: Remove *read_reg and *write_reg from struct mpc8xxx_gpio_chip")
+fa4007ca06e4 ("gpio: mpc8xxx: Fixup setting gpio direction output")
+42178e2a1e42 ("drivers/gpio: Switch gpio-mpc8xxx to use gpio-generic")
+78179989a066 ("gpio: mpc8xxx: Do not use gpiochip_get_data() in mpc8xxx_gpio_save_regs()")
+709d71a17c33 ("gpio: mpc8xxx: use gpiochip data pointer")
+c759174e73ab ("gpio: mpc8xxx: Be sure to clamp return value")

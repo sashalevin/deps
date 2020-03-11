@@ -1,0 +1,6 @@
+31b9998bf225 ("bnxt: set xdp_buff pfmemalloc flag if needed")
+4c6c123c9af9 ("bnxt: adding bnxt_rx_agg_pages_xdp for aggregated xdp")
+23e4c0469ad0 ("bnxt: rename bnxt_rx_pages to bnxt_rx_agg_pages_skb")
+ca1df2dd8e2f ("bnxt: refactor bnxt_rx_pages operate on skb_shared_info")
+ee536dcbdce4 ("bnxt: add flag to denote that an xdp program is currently attached")
+b231c3f3414c ("bnxt: refactor bnxt_rx_xdp to separate xdp_init_buff/xdp_prepare_buff")

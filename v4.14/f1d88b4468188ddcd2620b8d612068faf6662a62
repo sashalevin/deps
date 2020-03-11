@@ -1,0 +1,8 @@
+f1d88b446818 ("sched/fair: Rearrange select_task_rq_fair() to optimize it")
+7ebb66a12f85 ("sched/fair: Avoid an unnecessary lookup of current CPU ID during wake_affine")
+32e839dda3ba ("sched/fair: Use a recently used CPU as an idle candidate and the basis for SIS")
+3b76c4a33959 ("sched/fair: Restructure wake_affine*() to return a CPU id")
+89a55f56fd1c ("sched/fair: Remove unnecessary parameters from wake_affine_idle()")
+7332dec055f2 ("sched/fair: Only immediately migrate tasks due to interrupts if prev and target CPUs share cache")
+18bd1b4bd53a ("sched/fair: Move select_task_rq_fair() slow-path into its own function")
+ea16f0ea6c3d ("sched/fair: Sync task util before slow-path wakeup")

@@ -1,0 +1,6 @@
+182ca6e0ae23 ("pstore/ram: Replace dummy_data heap memory with stack memory")
+bac6f6cda206 ("pstore/ram: Fix failure-path memory leak in ramoops_init")
+a1cf53ac6d15 ("ramoops: Split ftrace buffer space into per-CPU zones")
+4407de74df18 ("pstore/ramoops: fixup driver removal")
+e976e56423dc ("ramoops: use persistent_ram_free() instead of kfree() for freeing prz")
+35da60941e44 ("pstore/ram: add Device Tree bindings")

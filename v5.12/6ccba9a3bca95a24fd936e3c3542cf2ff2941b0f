@@ -1,0 +1,8 @@
+6ccba9a3bca9 ("habanalabs: partly skip cache flush when in PMMU map flow")
+82e5169e8adf ("habanalabs: add enum mmu_op_flags")
+08c03a19662f ("habanalabs: use mmu cache range invalidation")
+e42a6400fb38 ("habanalabs: skip DISABLE PCI packet to FW on heartbeat")
+5d6a198f9dba ("habanalabs: reset device in case of sync error")
+23c3efd1fb0e ("habanalabs: fail reset if device is not idle")
+35862d1c9947 ("habanalabs: reset after device is actually released")
+8e9445a678ca ("habanalabs: add reset support when user closes FD")

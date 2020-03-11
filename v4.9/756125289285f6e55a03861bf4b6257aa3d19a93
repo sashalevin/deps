@@ -1,0 +1,8 @@
+756125289285 ("audit: always check the netlink payload length in audit_receive_msg()")
+626abcd13d4e ("audit: add syscall information to CONFIG_CHANGE records")
+53fc7a01df51 ("audit: give a clue what CONFIG_CHANGE op was involved")
+a2c97da11cdb ("audit: use session_info helper")
+4fa7f0869935 ("audit: simplify audit_enabled check in audit_watch_log_rule_change()")
+45a0642b4d02 ("audit: kernel generated netlink traffic should have a portid of 0")
+5b52330bbfe6 ("audit: fix auditd/kernel connection state tracking")
+dcdaa2f9480c ("Merge branch 'stable-4.10' of git://git.infradead.org/users/pcmoore/audit")

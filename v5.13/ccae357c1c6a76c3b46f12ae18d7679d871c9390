@@ -1,0 +1,7 @@
+ccae357c1c6a ("mptcp: avoid additional __inet_stream_connect() call")
+131a627751e3 ("mptcp: avoid unneeded mptcp_token_destroy() calls")
+786fc1245726 ("mptcp: fix connect timeout handling")
+b6985b9b8295 ("mptcp: use the workqueue to destroy unaccepted sockets")
+cfdcfeed6449 ("mptcp: introduce 'sk' to replace 'sock->sk' in mptcp_listen()")
+7d803344fdc3 ("mptcp: fix deadlock in fastopen error path")
+f2bb566f5c97 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

@@ -1,0 +1,7 @@
+fb609b5112bd ("net/mlx5: Always use container_of to find mdev pointer from clock struct")
+ed56d749c366 ("net/mlx5: Query PPS pin operational status before registering it")
+88c8cf92db48 ("net/mlx5: Fix a bug of using ptp channel index as pin index")
+4a0475d57ad1 ("mlx5: extend PTP gettime function to read system clock")
+41069256e930 ("net/mlx5: Clock, Use async events chain")
+a52a7d01fde1 ("net/mlx5: FPGA, Use async events chain")
+64109f1dc41f ("net/mlx5e: Replace PTP clock lock from RW lock to seq lock")

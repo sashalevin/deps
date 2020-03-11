@@ -1,0 +1,8 @@
+14f853f1b257 ("KVM: PPC: Add @offset to kvmppc_spapr_tce_table")
+fe26e52712cc ("KVM: PPC: Add @page_shift to kvmppc_spapr_tce_table")
+d3695aa4f452 ("KVM: PPC: Add support for multiple-TCE hcalls")
+5ee7af18642c ("KVM: PPC: Move reusable bits of H_PUT_TCE handler to helpers")
+462ee11e58c9 ("KVM: PPC: Replace SPAPR_TCE_SHIFT with IOMMU_PAGE_SHIFT_4K")
+f8626985c7c2 ("KVM: PPC: Account TCE-containing pages in locked_vm")
+366baf28ee3f ("KVM: PPC: Use RCU for arch.spapr_tce_tables")
+fcbb2ce67284 ("KVM: PPC: Rework H_PUT_TCE/H_GET_TCE handlers")

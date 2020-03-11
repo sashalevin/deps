@@ -1,0 +1,7 @@
+be294a51adfc ("vhost_net: Avoid rx queue wake-ups during busypoll")
+027b17603b03 ("vhost_net: Avoid tx vring kicks during busyloop")
+28b9b33b983f ("vhost_net: Rename local variables in vhost_net_rx_peek_head_len")
+f5a4941aa6d1 ("vhost_net: flush batched heads before trying to busy polling")
+aaa3149bbee9 ("vhost_net: add missing lock nesting notation")
+e2b3b35eb989 ("vhost_net: batch used ring update in rx")
+1e6f74536de0 ("vhost_net: do not stall on zerocopy depletion")

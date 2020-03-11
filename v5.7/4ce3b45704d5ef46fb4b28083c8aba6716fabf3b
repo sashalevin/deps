@@ -1,0 +1,7 @@
+4ce3b45704d5 ("usb: dwc3: meson-g12a: fix shared reset control use")
+1d0d3d818eaf ("usb: dwc3: meson-g12a: Disable the regulator in the error handling path of the probe")
+a5ada3dfe6a2 ("usb: dwc3: meson-g12a: disable clk on error handling path in probe")
+347052e3bf1b ("usb: dwc3: meson-g12a: fix USB2 PHY initialization on G12A and A1 SoCs")
+8f5bc1ec770c ("usb: dwc3: meson-g12a: check return of dwc3_meson_g12a_usb_init")
+013af227f58a ("usb: dwc3: meson-g12a: handle the phy and glue registers separately")
+5174564cb915 ("usb: dwc3: meson-g12a: specify phy names in soc data")

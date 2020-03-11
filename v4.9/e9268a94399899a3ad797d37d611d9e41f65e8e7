@@ -1,0 +1,6 @@
+e9268a943998 ("hv_netvsc: Use bitmap_zalloc() when applicable")
+0102eeedb717 ("hv_netvsc: Allocate the recv_buf buffers after NVSP_MSG1_TYPE_SEND_RECV_BUF")
+44144185951a ("hv_netvsc: Add validation for untrusted Hyper-V values")
+f87238d30c0d ("hv_netvsc: Remove unnecessary round_up for recv_completion_cnt")
+351e1581395f ("hv_netvsc: Add XDP support")
+0dd0c8f7db03 ("Merge tag 'hyperv-next-signed' of git://git.kernel.org/pub/scm/linux/kernel/git/hyperv/linux")

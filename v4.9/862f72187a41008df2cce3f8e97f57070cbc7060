@@ -1,0 +1,7 @@
+862f72187a41 ("serial: sh-sci: Add support to deassert/assert reset line")
+090fa4b0dccf ("serial: sh-sci: Fix out-of-bounds access through DT alias")
+6e605a01501b ("serial: sh-sci: Use of_device_get_match_data() helper")
+54b12c48f0c6 ("serial: sh-sci: Reformat sci_parse_dt() for git diff")
+97ed9790c514 ("serial: sh-sci: Remove unused platform data capabilities field")
+3d73f32bfa31 ("serial: sh-sci: Don't rely on platform data flags when not needed")
+9f8325b3c19c ("serial: sh-sci: Set the SCSCR TE and RE bits in the driver")

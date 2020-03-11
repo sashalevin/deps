@@ -1,0 +1,5 @@
+650ea2a1dd96 ("riscv: hibernation: Replace jalr with jr before suspend_restore_regs")
+c0317210012e ("RISC-V: Add arch functions to support hibernation/suspend-to-disk")
+fcb89863d1b7 ("RISC-V: Factor out common code of __cpu_resume_enter()")
+0def12f32129 ("RISC-V: Change suspend_save_csrs and suspend_restore_csrs to public function")
+2f66a3d09994 ("riscv: Kconfig: Fix indentation and add comments")

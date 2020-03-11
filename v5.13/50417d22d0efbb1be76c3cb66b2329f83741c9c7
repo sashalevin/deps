@@ -1,0 +1,3 @@
+50417d22d0ef ("fs/dcache: Move wakeup out of i_seq_dir write held region.")
+45f78b0a2743 ("fs/dcache: Move the wakeup from __d_lookup_done() to the caller.")
+cf634d540a29 ("fs/dcache: Disable preemption on i_dir_seq write side on PREEMPT_RT")

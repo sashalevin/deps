@@ -1,0 +1,7 @@
+4bd6a7353ee1 ("sysctl: Convert to iter interfaces")
+d4d80e69927a ("Call sysctl_head_finish on error")
+ef9d965bc8b6 ("sysctl: reject gigantic reads/write to sysctl files")
+32927393dc1c ("sysctl: pass kernel pointers to ->proc_handler")
+f461d2dcd511 ("sysctl: avoid forward declarations")
+2374c09b1c8a ("sysctl: remove all extern declaration from sysctl.c")
+26363af56434 ("mm: remove watermark_boost_factor_sysctl_handler")

@@ -1,0 +1,7 @@
+bf514327c324 ("x86/setup: Parse the builtin command line before merging")
+0c40b1c7a897 ("x86/setup: Warn when option parsing is done too early")
+4faa0e5d6d79 ("x86/boot: Move kernel cmdline setup earlier in the boot process (again)")
+65c24d7b0f91 ("x86/lib: Fix compiler and kernel-doc warnings")
+e32683c6f7d2 ("x86/mm: Fix RESERVE_BRK() for older binutils")
+8a33d96bd178 ("x86/setup: Use strscpy() to replace deprecated strlcpy()")
+a1e2c031ec39 ("x86/mm: Simplify RESERVE_BRK()")

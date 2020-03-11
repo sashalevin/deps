@@ -1,0 +1,8 @@
+57150c40b639 ("mtd: Use of_property_read_bool() for boolean properties")
+26422ac78e9d ("mtd: core: set ROOT_DEV for partitions marked as rootfs in DT")
+84234652595f ("mtd: rawnand: Add support for Macronix NAND randomizer")
+33535b85478d ("mtd: rawnand: Add Macronix NAND read retry support")
+c4dfa25ab307 ("mtd: add support for reading MTD devices via the nvmem API")
+fe3dd97dd66b ("mtd: rawnand: All AC chips have a broken GET_FEATURES(TIMINGS).")
+34c5c01e0c8c ("mtd: rawnand: macronix: nack the support of changing timings for one chip")
+9de8da47742b ("kconfig: kill off GENERIC_IO option")

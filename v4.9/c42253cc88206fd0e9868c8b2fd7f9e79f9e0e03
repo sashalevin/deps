@@ -1,0 +1,6 @@
+c42253cc8820 ("bpf: sockmap remove duplicate queue free")
+604326b41a6f ("bpf, sockmap: convert to generic sk_msg interface")
+1243a51f6c05 ("tcp, ulp: remove ulp bits from sockmap")
+8b9088f806e1 ("tcp, ulp: enforce sock_owned_by_me upon ulp init and cleanup")
+3b4a63f674e9 ("bpf: return EOPNOTSUPP when map lookup isn't supported")
+105bc1306e9b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

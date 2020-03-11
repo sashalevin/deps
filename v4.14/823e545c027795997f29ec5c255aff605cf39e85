@@ -1,0 +1,6 @@
+823e545c0277 ("debugfs: simplify __debugfs_remove_file()")
+7d39bc50c47b ("debugfs: defer debugfs_fsdata allocation to first usage")
+69d29f9e6a53 ("debugfs: convert to debugfs_file_get() and -put()")
+055ab8e3e3d5 ("debugfs: debugfs_real_fops(): drop __must_hold sparse annotation")
+e9117a5a4bf6 ("debugfs: implement per-file removal protection")
+7c8d469877b1 ("debugfs: add support for more elaborate ->d_fsdata")

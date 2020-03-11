@@ -1,0 +1,7 @@
+256001672153 ("netfilter: nf_tables: de-constify set commit ops function argument")
+f6c383b8c31a ("netfilter: nf_tables: adapt set backend to use GC transaction API")
+f718863aca46 ("netfilter: nft_set_rbtree: fix overlap expiration walk")
+212ed75dc5fb ("netfilter: nf_tables: integrate pipapo into commit protocol")
+61ae320a29b0 ("netfilter: nft_set_rbtree: fix null deref on element insertion")
+5d235d6ce75c ("netfilter: nft_set_rbtree: skip elements in transaction from garbage collection")
+c9e6978e2725 ("netfilter: nft_set_rbtree: Switch to node list walk for overlap detection")

@@ -1,0 +1,6 @@
+1a8d192bccb2 ("watchdog: qcom: Use devm_clk_get_enabled() helper")
+000de5417107 ("watchdog: qcom-wdt: disable pretimeout on timer platform")
+e0b4f4e0cf7f ("watchdog: qcom: Use platform_get_irq_optional() for bark irq")
+52a142140e14 ("watchdog: qcom: remove unnecessary variable from private storage")
+36375491a439 ("watchdog: qcom: support pre-timeout when the bark irq is available")
+bba07e6ed72e ("watchdog: qcom-wdt: Convert to use device managed functions and other improvements")

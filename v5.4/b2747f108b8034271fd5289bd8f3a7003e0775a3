@@ -1,0 +1,8 @@
+b2747f108b80 ("x86/boot: Don't add the EFI stub to targets, again")
+cb8bda8ad443 ("x86/boot/compressed: Rename efi_thunk_64.S to efi-mixed.S")
+7c4146e88855 ("x86/compressed/acpi: Move EFI detection to helper")
+86ce43f7dde8 ("x86/boot/compressed/64: Check SEV encryption in 64-bit boot-path")
+3ad84246a409 ("x86/boot/compressed/64: Introduce sev_status")
+b17a45b6e53f ("x86/boot/64: Explicitly map boot_params and command line")
+e5ceb9a02402 ("x86/boot/64: Initialize 5-level paging variables earlier")
+da9803dfd395 ("Merge tag 'x86_seves_for_v5.10' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,8 @@
+1c9ba9c14658 ("i40e: xsk: add RX multi-buffer support")
+aae425efdfd1 ("i40e: Fix DMA mappings leak")
+78f319315764 ("i40e: read the XDP program once per NAPI")
+b8aef650e549 ("i40e, xsk: Terminate Rx side of NAPI when XSK Rx queue gets full")
+7e1b54d07751 ("i40e: remove dead stores on XSK hotpath")
+6dba29537c0f ("i40e: respect metadata on XSK Rx to skb")
+bc97f9c6f988 ("i40e: don't reserve excessive XDP_PACKET_HEADROOM on XSK Rx to skb")
+6aab0bb0c5cd ("i40e: Use the xsk batched rx allocation interface")

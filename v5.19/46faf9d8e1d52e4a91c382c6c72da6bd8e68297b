@@ -1,0 +1,7 @@
+46faf9d8e1d5 ("rcu-tasks: Initialize data to eliminate RCU-tasks/do_exit() deadlocks")
+cb88f7f51bc6 ("rcu-tasks: Permit use of debug-objects with RCU Tasks flavors")
+db13710a0365 ("rcu-tasks: Cancel callback laziness if too many callbacks")
+d119357d0743 ("rcu-tasks: Treat only synchronous grace periods urgently")
+5fc8cbe4cf0f ("rcu-tasks: Avoid pr_info() with spin lock in cblist_init_generic()")
+434c9eefb959 ("rcu-tasks: Add data structures for lightweight grace periods")
+d96225fd09ff ("rcu-tasks: Split rcu_tasks_one_gp() from rcu_tasks_kthread()")

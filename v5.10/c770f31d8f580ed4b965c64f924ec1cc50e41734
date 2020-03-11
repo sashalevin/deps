@@ -1,0 +1,5 @@
+c770f31d8f58 ("SUNRPC: Fix xdr_encode_bool()")
+ded04a587f6c ("NFSD: Update the NFSv3 PATHCONF3res encoder to use struct xdr_stream")
+cc9bcdad7773 ("NFSD: Update the NFSv3 READ3res encode to use struct xdr_stream")
+be63bd2ac6bb ("NFSD: Update READ3arg decoder to use struct xdr_stream")
+76e5492b161f ("NFSD: Invoke svc_encode_result_payload() in "read" NFSD encoders")

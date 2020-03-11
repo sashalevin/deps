@@ -1,0 +1,4 @@
+efc42879ec9e ("net: Do not call fib6_info_hw_flags_set() when IPv6 is disabled")
+fbaca8f895a6 ("net: Pass 'net' struct as first argument to fib6_info_hw_flags_set()")
+0ae3eb7b4611 ("netdevsim: fib: Perform the route programming in a non-atomic context")
+9e635a21cae0 ("netdevsim: fib: Convert the current occupancy to an atomic variable")

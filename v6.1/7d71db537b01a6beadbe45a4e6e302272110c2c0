@@ -1,0 +1,6 @@
+7d71db537b01 ("x86/mtrr: Disentangle MTRR init from PAT init")
+23a63e369098 ("x86/mtrr: Move cache control code to cacheinfo.c")
+4ad7149e46d0 ("x86/mtrr: Split MTRR-specific handling from cache dis/enabling")
+d5f66d5d1061 ("x86/mtrr: Rename prepare_set() and post_set()")
+45fa71f19a2d ("x86/mtrr: Replace use_intel() with a local flag")
+01c97c730358 ("x86/mtrr: Add comment for set_mtrr_state() serialization")

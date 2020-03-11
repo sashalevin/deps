@@ -1,0 +1,5 @@
+aa456c7aebb1 ("slub: remove kmalloc under list_lock from list_slab_objects() V2")
+90e9f6a66c78 ("mm/slub.c: avoid slub allocation while holding list_lock")
+dd98afd4d606 ("mm/slub.c: clean up validate_slab()")
+916ac0527837 ("slub: use slab_list instead of lru")
+0684e6526edf ("mm/slub.c: switch to bitmap_zalloc()")

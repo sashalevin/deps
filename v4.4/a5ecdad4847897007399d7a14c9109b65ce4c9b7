@@ -1,0 +1,8 @@
+a5ecdad48478 ("powerpc/mm: Add MMU_FTR_KERNEL_RO to possible feature mask")
+accfad7d0a85 ("powerpc/mm: Clear top 16 bits of va only on older cpus")
+a8ed87c92adf ("powerpc/mm/radix: Add MMU_FTR_RADIX")
+773edeadf672 ("powerpc/mm: Add mask of possible MMU features")
+566ca99af026 ("powerpc/mm/radix: Add dummy radix_enabled()")
+11a6f6abd74a ("powerpc/mm: Move radix/hash common data structures to book3s64 headers")
+f64e8084c94b ("powerpc/mm: Move hash related mmu-*.h headers to book3s/")
+15b1624b7807 ("powerpc: Use defines for __init_tlb_power[78]")

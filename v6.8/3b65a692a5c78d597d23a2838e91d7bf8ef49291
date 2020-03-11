@@ -1,0 +1,5 @@
+3b65a692a5c7 ("KVM: x86/pmu: Add a helper to enable bits in FIXED_CTR_CTRL")
+75430c412a31 ("KVM: x86/pmu: Manipulate FIXED_CTR_CTRL MSR with macros")
+0e102ce3d413 ("KVM: x86/pmu: Change ambiguous _mask suffix to _rsvd in kvm_pmu")
+be6b067dae15 ("KVM: x86/pmu: Add common define to capture fixed counters offset")
+f933b88e2015 ("KVM: x86/pmu: Zero out PMU metadata on AMD if PMU is disabled")

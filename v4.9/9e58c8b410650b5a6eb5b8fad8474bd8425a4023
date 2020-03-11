@@ -1,0 +1,5 @@
+9e58c8b41065 ("net: mvneta: make tx buffer array agnostic")
+4a188a63afdf ("net: mvneta: split rxq/txq init and txq deinit into SW and HW parts")
+f95936cca6a8 ("net: mvneta: Adjust six checks for null pointers")
+d441b688a1bc ("net: mvneta: Use kmalloc_array() in mvneta_txq_init()")
+a29b6235560a ("net: mvneta: add BQL support")

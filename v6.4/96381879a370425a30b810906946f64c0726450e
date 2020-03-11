@@ -1,0 +1,8 @@
+96381879a370 ("bpf: generalize is_scalar_branch_taken() logic")
+4d345887d2e5 ("bpf: unify 32-bit and 64-bit is_branch_taken logic")
+b74c2a842bba ("bpf: generalize is_branch_taken to handle all conditional jumps in one place")
+c697289efe4e ("bpf: move is_branch_taken() down")
+c31534267c18 ("bpf: generalize is_branch_taken() to work with two registers")
+c2a3ab094683 ("bpf: rename is_branch_taken reg arguments to prepare for the second one")
+42d31dd601fa ("bpf: Improve JEQ/JNE branch taken logic")
+51302c951c8f ("bpf: Teach verifier that trusted PTR_TO_BTF_ID pointers are non-NULL")

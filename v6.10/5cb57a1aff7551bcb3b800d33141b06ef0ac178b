@@ -1,0 +1,4 @@
+5cb57a1aff75 ("KVM: arm64: Zero ID_AA64PFR0_EL1.GIC when no GICv3 is presented to the guest")
+795a0bbaeee2 ("KVM: arm64: Add helper for last ditch idreg adjustments")
+3e6245ebe7ef ("KVM: arm64: Make ICC_*SGI*_EL1 undef in the absence of a vGICv3")
+3dc14eefa504 ("KVM: arm64: nv: Use GFP_KERNEL_ACCOUNT for sysreg_masks allocation")

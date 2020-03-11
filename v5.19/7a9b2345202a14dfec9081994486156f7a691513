@@ -1,0 +1,5 @@
+7a9b2345202a ("tools/nolibc: x86_64: disable stack protector for _start")
+7f8548589661 ("tools/nolibc: make compiler and assembler agree on the section around _start")
+18a5a09d90a7 ("nolibc: add support for s390")
+184177c3d6e0 ("tools/nolibc: restore mips branch ordering in the _start block")
+a30d551f34df ("tools/nolibc: make argc 32-bit in riscv startup code")

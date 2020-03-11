@@ -1,0 +1,7 @@
+a8b169afbf06 ("Avoid page waitqueue race leaving possible page locker waiting")
+62906027091f ("mm: add PageWaiters indicating tasks are waiting for a page bit")
+2994302bc8a1 ("mm: add orig_pte field into vm_fault")
+82b0f8c39a38 ("mm: join struct fault_env and vm_fault")
+953c66c2b22a ("mm: THP page cache support for ppc64")
+1dd38b6c27d5 ("mm: move vma_is_anonymous check within pmd_move_must_withdraw")
+fd60775aea80 ("mm, thp: avoid unlikely branches for split_huge_pmd")

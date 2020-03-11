@@ -1,0 +1,8 @@
+fe21a27e8ca0 ("rcu: Move rcu_request_urgent_qs_task() out of rcutiny.h and rcutree.h")
+82118249d0ca ("rcu: Move the RCU_SCHEDULER_ definitions from rcupdate.h")
+791875d16e2f ("rcu: Eliminate the unused __rcu_is_watching() function")
+cad7b3897279 ("rcu: Move torture-related definitions from rcupdate.h to rcu.h")
+25c36329a30c ("rcu: Move expediting-related access/control out of rcupdate.h")
+3caec62fbb31 ("rcu: Move rcu_expedited and rcu_normal externs from rcupdate.h")
+59d80fd8351b ("rcu: Print out rcupdate.c non-default boot-time settings")
+de4d195308ad ("Merge branch 'core-rcu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

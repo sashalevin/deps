@@ -1,1 +1,6 @@
 81fe92849928 ("nvme-trace: fix cdw10 buffer overrun")
+b7c8f3663d0e ("nvme: remove nvme_common command cdw10 array")
+6a8ec0ac5ede ("nvmet: add support to Discovery controllers for commands")
+90107455cce7 ("nvmet: make kato and AEN processing for use by other controllers")
+f9362ac1738a ("nvmet: allow Keep Alive for Discovery controller")
+6c8312ad509c ("nvmet: provide aen bit functions for multiple controller types")

@@ -1,0 +1,7 @@
+fc54048a4dc2 ("drm/mgag200: Set up fbdev after registering device; remove error checks")
+9623ecb07f17 ("drm/mgag200: Call mgag200_driver_{load, unload}() before registering device")
+35616a4aa919 ("drm: drop resource_id parameter from drm_fb_helper_remove_conflicting_pci_framebuffers")
+90f479ae51af ("drm/mgag200: Replace struct mga_fbdev with generic framebuffer emulation")
+9f3978011104 ("drm/mgag200: drop use of drmP.h")
+5d1771899736 ("drm/mgag200: Replace struct mga_framebuffer with GEM framebuffer helpers")
+52d2d44eee80 ("Merge v5.2-rc5 into drm-next")

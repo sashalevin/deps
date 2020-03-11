@@ -1,0 +1,5 @@
+0c9ae0b86050 ("uio: Fix use-after-free in uio_open")
+092561f06702 ("uio: Fix use-after-free in uio_unregister_device()")
+8fd0e2a6df26 ("uio: free uio id after uio file node is freed")
+221a1f4ac12d ("driver: uio: fix possible use-after-free in __uio_register_device")
+b5570ca7c475 ("uio: dismiss waiters on device unregistration")

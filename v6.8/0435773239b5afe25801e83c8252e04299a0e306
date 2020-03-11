@@ -1,0 +1,6 @@
+0435773239b5 ("bcachefs: Fix journal getting stuck on a flush commit")
+85ab365f7cdf ("bcachefs: Fix deadlock in journal write path")
+38789c250874 ("bcachefs: closure per journal buf")
+51654002755b ("bcachefs: bio per journal buf")
+bdec47f57f26 ("bcachefs: Journal writes should be REQ_SYNC|REQ_META")
+656f05d8bd65 ("bcachefs: Split out journal workqueue")

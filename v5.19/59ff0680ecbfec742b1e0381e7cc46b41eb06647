@@ -1,0 +1,6 @@
+59ff0680ecbf ("tty: n_gsm: fix flow control handling in tx path")
+0af021678d5d ("tty: n_gsm: fix deadlock and link starvation in outgoing data path")
+bec0224816d1 ("tty: n_gsm: fix non flow control frames during mux flow off")
+c568f7086c6e ("tty: n_gsm: fix missing timer to handle stalled links")
+556fc8ac0651 ("tty: n_gsm: fix wrong queuing behavior in gsm_dlci_data_output()")
+01aecd917114 ("tty: n_gsm: fix tty registration before control channel open")

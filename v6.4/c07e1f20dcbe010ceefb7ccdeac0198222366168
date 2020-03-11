@@ -1,0 +1,6 @@
+c07e1f20dcbe ("fbdev: Document that framebuffer_alloc() returns zero'ed data")
+f0f6839be41d ("fbdev/core: Move framebuffer and backlight helpers into separate files")
+6121cd9ef911 ("fbdev: Move I/O read and write code into helper functions")
+3f8974f68f40 ("fbdev: Validate info->screen_{base, buffer} in fb_ops implementations")
+453bd91302f1 ("fbdev: Don't re-validate info->state in fb_ops implementations")
+921b7383f348 ("fbdev: Return number of bytes read or written")

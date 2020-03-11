@@ -1,0 +1,5 @@
+272f35cba53d ("vhost_net: introduce vhost_exceeds_weight()")
+b0d0ea50e782 ("vhost_net: introduce helper to initialize tx iov iter")
+db688c24eada ("vhost_net: use packet weight for rx handler, too")
+a2ac99905f1e ("vhost-net: set packet weight of tx polling to 2 * vq size")
+0ed005ce02fa ("vhost_net: tx batching")

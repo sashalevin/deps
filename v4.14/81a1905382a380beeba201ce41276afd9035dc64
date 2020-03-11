@@ -1,0 +1,5 @@
+81a1905382a3 ("Bluetooth: hci_bcm: fix build error without CONFIG_PM")
+8a92056837fd ("Bluetooth: hci_bcm: Add (runtime)pm support to the serdev driver")
+c0d3ce580b7c ("Bluetooth: hci_bcm: Store device pointer instead of platform_device pointer")
+4a56f891efce ("Bluetooth: hci_bcm: Move platform_get_irq call to bcm_probe")
+227630cccdbb ("Bluetooth: hci_bcm: Fix setting of irq trigger type")

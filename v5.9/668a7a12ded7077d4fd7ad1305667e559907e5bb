@@ -1,0 +1,8 @@
+668a7a12ded7 ("cpufreq: qcom-hw: Don't do lmh things without a throttle interrupt")
+a1eb080a0447 ("cpufreq: qcom-hw: provide online/offline operations")
+be5985b3dbce ("cpufreq: qcom-hw: drop affinity hint before freeing the IRQ")
+275157b367f4 ("cpufreq: qcom-cpufreq-hw: Add dcvs interrupt support")
+e96c2153d0fc ("cpufreq: qcom-cpufreq-hw: Use .register_em() to register with energy model")
+266991721c15 ("cpufreq: qcom-hw: enable boost support")
+dcd1fd724c19 ("cpufreq: qcom-hw: Use of_device_get_match_data for offsets and row size")
+bd74e286b354 ("cpufreq: qcom-hw: Make use of cpufreq driver_data for passing pdev")

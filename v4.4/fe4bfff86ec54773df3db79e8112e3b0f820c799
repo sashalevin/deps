@@ -1,0 +1,5 @@
+fe4bfff86ec5 ("seccomp: Use -1 marker for end of mode 1 syscall list")
+cb4253aa0f77 ("secomp: Constify mode1 syscall whitelist")
+b1b4fad5cc67 ("MIPS: seccomp: Support compat with both O32 and N32")
+c983f0e8677d ("seccomp: Get compat syscalls from asm-generic header")
+5c38065e021b ("seccomp: check in_compat_syscall, not is_compat_task, in strict mode")

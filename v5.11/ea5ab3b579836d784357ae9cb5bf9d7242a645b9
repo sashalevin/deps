@@ -1,0 +1,5 @@
+ea5ab3b57983 ("io_uring: deduce cq_mask from cq_entries")
+4fccfcbb7337 ("io_uring: don't split out consume out of SQE get")
+258b29a93bfe ("io_uring: don't keep submit_state on stack")
+888aae2eeddf ("io_uring: further deduplicate #CQ events calc")
+2d7e935809b7 ("io_uring: inline io_async_submit()")

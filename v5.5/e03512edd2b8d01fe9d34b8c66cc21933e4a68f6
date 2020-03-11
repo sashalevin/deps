@@ -1,7 +1,0 @@
-e03512edd2b8 ("drm/i915/rps: Add frequency translation helpers")
-b66ecd0438bf ("drm/i915/pmu: Report frequency as zero while GPU is sleeping")
-07779a76ee1f ("drm/i915: Mark up the calling context for intel_wakeref_put()")
-c9ad602feabe ("drm/i915: Split i915_active.mutex into an irq-safe spinlock for the rbtree")
-d79e1bd676f0 ("drm/i915/pmu: Only use exclusive mmio access for gen7")
-c1c82d267ae8 ("drm/i915/pmu: Cheat when reading the actual frequency to avoid fw")
-38813767c7c5 ("drm/i915/selftests: Flush all active callbacks")

@@ -1,0 +1,5 @@
+50757018b4c9 ("mm/slob: Convert SLOB to use struct slab and struct folio")
+d42f3245c7e2 ("mm: memcg: convert vmstat slab counters to bytes")
+ea426c2a7de8 ("mm: memcg: prepare for byte-sized vmstat items")
+eedc4e5a142c ("mm: memcg: factor out memcg- and lruvec-level changes out of __mod_lruvec_state()")
+8d92890bd6b8 ("mm/writeback: discard NR_UNSTABLE_NFS, use NR_WRITEBACK instead")

@@ -1,0 +1,6 @@
+827a98df67f1 ("crypto: atmel-{aes,sha,tdes} - Stop passing unused argument in _dma_init()")
+45a536e3a7e0 ("crypto: atmel-tdes - Retire dma_request_slave_channel_compat()")
+db28512f48e2 ("crypto: atmel-sha - Retire dma_request_slave_channel_compat()")
+62f72cbdcf02 ("crypto: atmel-aes - Retire dma_request_slave_channel_compat()")
+0268483992a2 ("crypto: atmel - Delete error messages for a failed memory allocation in six functions")
+3c88761e8a7b ("crypto: atmel - return appropriate error code")

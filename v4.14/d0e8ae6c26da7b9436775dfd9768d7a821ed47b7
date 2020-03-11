@@ -1,0 +1,6 @@
+d0e8ae6c26da ("OPP: Create separate kref for static OPPs list")
+f06ed90e7051 ("OPP: Parse OPP table's DT properties from _of_init_opp_table()")
+3d2556992a87 ("OPP: Protect dev_list with opp_table lock")
+3ba98324e81a ("PM / OPP: Get performance state using genpd helper")
+fa9b274f8aef ("PM / OPP: Implement dev_pm_opp_of_add_table_indexed()")
+9867999f3a85 ("PM / OPP: add missing of_node_put() for of_get_cpu_node()")

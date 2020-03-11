@@ -1,0 +1,6 @@
+44e602b4e52f ("binder_alloc: add missing mmap_lock calls when using the VMA")
+8eb52a1ee37a ("binder: Fix race between mmap() and binder_alloc_print_pages()")
+da1b9564e85b ("android: binder: fix the race mmap and alloc_new_buf_locked")
+128f38041035 ("android: binder: Rate-limit debug and userspace triggered err msgs")
+1e81c57b5983 ("android: binder_alloc: Include asm/cacheflush.h after linux/ include files")
+3f827245463a ("ANDROID: binder: make binder_alloc_new_buf_locked static and indent its arguments")

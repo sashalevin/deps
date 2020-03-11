@@ -1,0 +1,8 @@
+556208e139e1 ("fuse: support idmap for mkdir/mknod/symlink/create/tmpfile")
+d561254fb7ba ("fuse: support idmapped FUSE_EXT_GROUPS")
+10dc721836c0 ("fuse: add an idmap argument to fuse_simple_request")
+aa16880d9f13 ("fuse: add basic infrastructure to support idmappings")
+9e7f5296f475 ("fuse: Use the high bit of request ID for indicating resend requests")
+760eac73f9f6 ("fuse: Introduce a new notification type for resend pending requests")
+e022f6a1c711 ("fuse: add support for explicit export disabling")
+7dc4e97a4f9a ("fuse: introduce FUSE_PASSTHROUGH capability")

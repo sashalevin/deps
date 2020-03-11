@@ -1,0 +1,4 @@
+35ee9e48b9df ("KVM: lapic: reorganize start_hv_timer")
+8003c9ae204e ("KVM: LAPIC: add APIC Timer periodic/oneshot mode VMX preemption timer support")
+7e810a38e6c7 ("KVM: LAPIC: rename start/cancel_hv_tscdeadline to start/cancel_hv_timer")
+7d7f7da2f1fc ("KVM: LAPIC: extract start_sw_period() to handle periodic/oneshot mode")

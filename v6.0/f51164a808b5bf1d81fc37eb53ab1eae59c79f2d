@@ -1,0 +1,8 @@
+f51164a808b5 ("rcu: Employ jiffies-based backstop to callback time limit")
+fea1c1f01017 ("rcu: Check callback-invocation time limit for rcuc kthreads")
+09853fb89f6b ("rcu: Add comment to rcu_do_batch() identifying rcuoc code path")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")
+910e12092eac ("rcu: Make synchronize_rcu() fast path update ->gp_seq counters")
+5f11bad6b722 ("rcu-tasks: Remove grace-period fast-path rcu-tasks helper")

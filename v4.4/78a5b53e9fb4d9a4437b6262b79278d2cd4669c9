@@ -1,0 +1,8 @@
+78a5b53e9fb4 ("Input: soc_button_array - work around DSDTs which modify the irqflags")
+838fc8083b62 ("Input: soc_button_array - add active_low setting to soc_button_info")
+bcf059578980 ("Input: soc_button_array - partial revert of support for newer surface devices")
+c394159310d0 ("Input: soc_button_array - add support for newer surface devices")
+e9eb788f9442 ("Input: soc_button_array - fix mapping of the 5th GPIO in a PNP0C40 device")
+4c3362f44980 ("Input: soc_button_array - add support for ACPI 6.0 Generic Button Device")
+7283b47d5d4d ("Input: soc_button_array - get rid of MAX_NBUTTONS")
+be8e7a7ec876 ("Input: soc_button_array - use gpio_is_valid()")

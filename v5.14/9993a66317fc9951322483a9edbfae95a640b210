@@ -1,0 +1,7 @@
+9993a66317fc ("NFSD: Clean up nfs4svc_encode_compoundres()")
+fda494411485 ("SUNRPC: Replace the "__be32 *p" parameter to .pc_encode")
+3b0ebb255fdc ("NFSD: Save location of NFSv4 COMPOUND status")
+c44b31c26379 ("SUNRPC: Change return value type of .pc_decode")
+16c663642c7e ("SUNRPC: Replace the "__be32 *p" parameter to .pc_decode")
+dae9a6cab800 ("NFSD: Have legacy NFSD WRITE decoders use xdr_stream_subsegment()")
+c35a810ce595 ("NFS: Remove unused callback void decoder")

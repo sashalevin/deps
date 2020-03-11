@@ -1,0 +1,4 @@
+3cf63825413c ("powerpc/vdso: Refactor 32 bits and 64 bits pages setup")
+35c1c7c0bc35 ("powerpc/vdso: Remove NULL termination element in vdso_pagelist")
+abcdbd039e68 ("powerpc/vdso: Remove get_page() in vdso_pagelist initialization")
+f55b74170b6a ("powerpc/vdso: don't clear PG_reserved")

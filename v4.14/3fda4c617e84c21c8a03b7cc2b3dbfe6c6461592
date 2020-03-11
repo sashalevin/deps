@@ -1,0 +1,4 @@
+3fda4c617e84 ("fs-verity: implement FS_IOC_ENABLE_VERITY ioctl")
+8a1d0f9cacc9 ("fs-verity: add data verification hooks for ->readpages()")
+fd2d1acfcadf ("fs-verity: add the hook for file ->open()")
+671e67b47e9f ("fs-verity: add Kconfig and the helper functions for hashing")

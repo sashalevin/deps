@@ -1,0 +1,8 @@
+da6a91252ad9 ("arm64: Add trampoline code for kretprobes")
+39a67d49ba35 ("arm64: kprobes instruction simulation support")
+888b3c8720e0 ("arm64: Treat all entry code as non-kprobe-able")
+2dd0e8d2d2a1 ("arm64: Kprobes with single stepping support")
+d59bee887231 ("arm64: Add more test functions to insn.c")
+0a8ea52c3eb1 ("arm64: Add HAVE_REGS_AND_STACK_ACCESS_API feature")
+be7635e7287e ("arch, ftrace: for KASAN put hard/soft IRQ entries into separate sections")
+e04a28d45ff3 ("arm64: debug: re-enable irqs before sending breakpoint SIGTRAP")

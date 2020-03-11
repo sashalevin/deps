@@ -1,0 +1,6 @@
+92219afb980e ("io_uring: force tw ctx locking")
+42c0905f0cac ("io_uring: cleanup handle_tw_list() calling convention")
+9fe3eaea4a35 ("io_uring: remove unconditional looping in local task_work handling")
+670d9d3df880 ("io_uring: remove next io_kiocb fetch in task_work running")
+170539bdf109 ("io_uring: handle traditional task_work in FIFO order")
+592b4805432a ("io_uring: remove looping around handling traditional task_work")

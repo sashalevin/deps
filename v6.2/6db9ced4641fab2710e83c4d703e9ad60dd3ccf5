@@ -1,0 +1,7 @@
+6db9ced4641f ("kbuild: rpm-pkg: build the kernel in-place for rpm-pkg")
+192868258d2c ("kbuild: rpm-pkg: do not hard-code $MAKE in spec file")
+7adf14d8aca1 ("kbuild: rpm-pkg: remove unneeded KERNELRELEASE from modules/headers_install")
+1ec9bb704faf ("kbuild: rpm-pkg: build binary packages from source rpm")
+f6e09b07cc12 ("kbuild: do not put .scmversion into the source tarball")
+ec61452aaad6 ("scripts: remove bin2c")
+c83b16cefd78 ("kbuild: rust: move rust/target.json to scripts/")

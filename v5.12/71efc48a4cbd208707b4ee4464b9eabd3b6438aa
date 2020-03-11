@@ -1,0 +1,8 @@
+71efc48a4cbd ("perf evsel: Separate rlimit increase from evsel__open_cpu()")
+d21fc5f077f7 ("perf evsel: Separate missing feature detection from evsel__open_cpu()")
+6efd06e37419 ("perf evsel: Add evsel__prepare_open()")
+588f4ac76399 ("perf evsel: Separate missing feature disabling from evsel__open_cpu")
+46def08f5db0 ("perf evsel: Save open flags in evsel in prepare_open()")
+d45ce03434fd ("perf evsel: Separate open preparation from open itself")
+bc0496043edf ("perf evsel: Remove retry_sample_id goto label")
+7fac83aaf2ee ("perf stat: Introduce 'bperf' to share hardware PMCs with BPF")

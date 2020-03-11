@@ -1,0 +1,2 @@
+07e23c14e1d3 ("mmc: bcm2835: Replace kmap_atomic() with kmap_local_page()")
+8ff683f6a293 ("mmc: bcm2835: Remove local_irq_{save,restore}() around k[un]map_atomic()")

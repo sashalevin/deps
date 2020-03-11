@@ -1,0 +1,3 @@
+ce2fc5fffdfa ("mm: for !CONFIG_PER_VMA_LOCK equate write lock assertion for vma and mmap")
+cf95e337cb63 ("mm: delete mmap_write_trylock() and vma_try_start_write()")
+b1f02b95758d ("mm: fix memory ordering for mm_lock_seq and vm_lock_seq")

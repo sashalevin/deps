@@ -1,0 +1,6 @@
+9fde4c557f78 ("can: length: fix bitstuffing count")
+85d99c3e2a13 ("can: length: can_skb_get_frame_len(): introduce function to get data length of frame in data link layer")
+99b7beb0431a ("can: length: canfd_sanitize_len(): add function to sanitize CAN-FD data length")
+bdd2e413192d ("can: dev: move length related code into seperate file")
+5a9d5ecd69ed ("can: dev: move bittiming related code into seperate file")
+3e77f70e7345 ("can: dev: move driver related infrastructure into separate subdir")

@@ -1,0 +1,8 @@
+96d6955d215e ("KVM: nVMX: Invert 'unsupported by eVMCSv1' check")
+a2ad080b4dfd ("KVM: nVMX: Sanitize primary processor-based VM-execution controls with eVMCS too")
+a789aeba4196 ("KVM: VMX: Rename "vmx/evmcs.{ch}" to "vmx/hyperv.{ch}"")
+4da77090b0fc ("KVM: nVMX: Support PERF_GLOBAL_CTRL with enlightened VMCS")
+6cce93de28c2 ("KVM: nVMX: Use CC() macro to handle eVMCS unsupported controls checks")
+f4d361b4c294 ("KVM: nVMX: Refactor unsupported eVMCS controls logic to use 2-d array")
+85ab071af839 ("KVM: nVMX: Treat eVMCS as enabled for guest iff Hyper-V is also enabled")
+d588bb9be1da ("KVM: VMX: enable IPI virtualization")

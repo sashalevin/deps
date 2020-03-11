@@ -1,0 +1,8 @@
+dff36801a9f0 ("crypto: caam - don't hardcode inpentry size")
+6c5f898f12a3 ("crypto: caam - drop explicit usage of struct jr_outentry")
+d488dfd9b210 ("crypto: caam - request JR IRQ as the last step")
+a6c4194ead00 ("crypto: caam - convert caam_jr_init() to use devres")
+1b30b989cbea ("crypto: caam/jr - Removed redundant vars from job ring private data")
+a118dfa0dbfc ("crypto: caam/jr - Remove spinlock for output job ring")
+16c4dd83a1b2 ("crypto: caam/jr - optimize job ring enqueue and dequeue operations")
+cc98963dbaae ("crypto: caam/jr - fix descriptor DMA unmapping")

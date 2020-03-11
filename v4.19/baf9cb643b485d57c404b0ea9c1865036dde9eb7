@@ -1,0 +1,6 @@
+baf9cb643b48 ("io_uring: change ring size calculation for CQE32")
+bd74048108c1 ("io_uring: set ctx sq/cq entry count earlier")
+75b28affdd6a ("io_uring: allocate the two rings together")
+a3a0e43fd770 ("io_uring: don't enter poll loop if we have CQEs pending")
+500f9fbadef8 ("io_uring: fix potential hang with polled IO")
+04412819652f ("Merge tag 'for-linus-20190726' of git://git.kernel.dk/linux-block")

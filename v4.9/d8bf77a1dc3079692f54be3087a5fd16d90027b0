@@ -1,0 +1,6 @@
+d8bf77a1dc30 ("riscv/mm: add arch hook arch_clear_hugepage_flags")
+5be993432821 ("mm/hugetlb: define a generic fallback for arch_clear_hugepage_flags()")
+b0eae98c66fe ("mm/hugetlb: define a generic fallback for is_hugepage_only_range()")
+be51e3fde5c1 ("arm64/mm: drop __HAVE_ARCH_HUGE_PTEP_GET")
+9e953cda5cdf ("riscv: Introduce huge page support for 32/64bit kernel")
+b0bb1269b978 ("Merge tag 'riscv-for-linus-5.2-mw2' of git://git.kernel.org/pub/scm/linux/kernel/git/palmer/riscv-linux")

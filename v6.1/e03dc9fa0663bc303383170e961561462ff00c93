@@ -1,0 +1,8 @@
+e03dc9fa0663 ("sched/psi: Change update_triggers() to a 'void' function")
+d82caa273565 ("sched/psi: Allow unprivileged polling of N*2s period")
+4468fcae49f0 ("sched/psi: Extract update_triggers side effect")
+65457b74aa94 ("sched/psi: Rename existing poll members in preparation")
+7fab21fa0d00 ("sched/psi: Rearrange polling code in preparation")
+710ffe671e01 ("sched/psi: Stop relying on timer_pending() for poll_work rescheduling")
+2fcd7bbae90a ("sched/psi: Fix avgs_work re-arm in psi_avgs_work()")
+e38f89af6a13 ("sched/psi: Fix possible missing or delayed pending event")

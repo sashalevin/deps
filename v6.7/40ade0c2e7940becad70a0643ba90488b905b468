@@ -1,0 +1,6 @@
+40ade0c2e794 ("pwm: Let the of_xlate callbacks accept references without period")
+4e77431cda49 ("pwm: Drop useless member .of_pwm_n_cells of struct pwm_chip")
+a297d07b9a1e ("pwm: Fix out-of-bounds access in of_pwm_single_xlate()")
+7170d3beafc2 ("pwm: Make it possible to apply PWM changes in atomic context")
+c748a6d77c06 ("pwm: Rename pwm_apply_state() to pwm_apply_might_sleep()")
+2d91123ae561 ("pwm: Update kernel doc for struct pwm_chip")

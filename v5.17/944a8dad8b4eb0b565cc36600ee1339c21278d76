@@ -1,0 +1,4 @@
+944a8dad8b4e ("KVM: x86: set "mitigate_smt_rsb" storage-class-specifier to static")
+6f0f2d5ef895 ("KVM: x86: Mitigate the cross-thread return address predictions bug")
+1d0e84806047 ("KVM: x86/mmu: Resolve nx_huge_pages when kvm.ko is loaded")
+a3fe5dbda0a4 ("KVM: x86/mmu: Split huge pages mapped by the TDP MMU when dirty logging is enabled")

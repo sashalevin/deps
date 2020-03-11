@@ -1,0 +1,8 @@
+cc15ff327569 ("powerpc/mce: Avoid using irq_work_queue() in realmode")
+3a1e92d0896e ("powerpc/mce: Fix access error in mce handler")
+f6f1f48e8b3b ("powerpc/mce: Make symbol 'mce_ue_event_work' static")
+74c3354bc1d8 ("powerpc/pseries/mce: restore msr before returning from handler")
+923b3cf00b3f ("powerpc/mce: Remove per cpu variables from MCE handlers")
+3c0b976bf20d ("powerpc/64: Set up a kernel stack for secondaries before cpu_restore()")
+4ff753feab02 ("powerpc/pseries: Avoid using addr_to_pfn in real mode")
+25d8d4eecace ("Merge tag 'powerpc-5.9-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

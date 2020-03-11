@@ -1,0 +1,5 @@
+2ca1a06a5440 ("kvm: Handle reads of SandyBridge RAPL PMU MSRs rather than injecting #GP")
+0e1b869fff60 ("kvm: x86: Add AMD's EX_CFG to the list of ignored MSRs")
+405a353a0e20 ("KVM: x86: Add MSR_AMD64_DC_CFG to the list of ignored MSRs")
+0c2df2a1affd ("KVM: Handle MSR_IA32_PERF_CTL")
+ae8b787543d8 ("x86/cpu/amd, kvm: Satisfy guest kernel reads of IC_CFG MSR")

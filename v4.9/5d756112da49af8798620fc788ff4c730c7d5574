@@ -1,0 +1,8 @@
+5d756112da49 ("i2c: core: apply 'is_suspended' check for SMBus, too")
+4db61c2a16fc ("i2c: core: ratelimit 'transfer when suspended' errors")
+83c42212d254 ("i2c: core: use I2C locking behaviour also for SMBUS")
+bae1d3a05a8b ("i2c: core: remove use of in_atomic()")
+9ac6cb5fbb17 ("i2c: add suspended flag and accessors for i2c adapters")
+cc52612ec0f3 ("i2c: core: remove level of indentation in i2c_transfer")
+a7163dc2138d ("i2c: core: remove outdated DEBUG output")
+fb2896a77989 ("Merge branch 'i2c/precise-locking-names_immutable' into i2c/for-4.19")

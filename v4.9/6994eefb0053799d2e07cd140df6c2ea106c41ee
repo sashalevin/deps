@@ -1,0 +1,3 @@
+6994eefb0053 ("ptrace: Fix ->ptracer_cred handling for PTRACE_TRACEME")
+c70d9d809fde ("ptrace: Properly initialize ptracer_cred on fork")
+64b875f7ac8a ("ptrace: Capture the ptracer's creds not PT_PTRACE_CAP")

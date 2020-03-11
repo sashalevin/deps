@@ -1,0 +1,8 @@
+3c6b38d45fa5 ("regulator: wm8994: Pass descriptor instead of GPIO number")
+e1739e86f0cb ("regulator: arizona-ldo1: Look up a descriptor and pass to the core")
+af367afafb5b ("regulator: arizona-ldo1: Factor out generic initialization")
+80a55f41aef4 ("regulator: arizona-ldo1: Make arizona_ldo1 independent of struct arizona")
+aaa84e6a0399 ("regulator: arizona-ldo1: Move pdata into a separate structure")
+22161f3eb65d ("regulator: arizona-micsupp: Move pdata into a separate structure")
+0feb837a42c9 ("regulator: arizona-ldo1: Avoid potential memory leak reading init_data")
+2543ef317388 ("regulator: arizona-micsupp: Avoid potential memory leak reading init_data")

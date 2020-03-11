@@ -1,0 +1,3 @@
+4ce94eabac16 ("x86/mm/tlb: Flush remote and local TLBs concurrently")
+6035152d8eeb ("x86/mm/tlb: Open-code on_each_cpu_cond_mask() for tlb_is_not_lazy()")
+4c1ba3923e6c ("x86/mm/tlb: Unify flush_tlb_func_local() and flush_tlb_func_remote()")

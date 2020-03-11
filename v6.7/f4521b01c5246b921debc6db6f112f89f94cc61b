@@ -1,0 +1,6 @@
+f4521b01c524 ("btrfs: migrate eb_bitmap_offset() to folio interfaces")
+8d993618350c ("btrfs: migrate get_eb_page_index() and get_eb_offset_in_page() to folios")
+082d5bb9b336 ("btrfs: migrate extent_buffer::pages[] to folio")
+09e6cef19c9f ("btrfs: refactor alloc_extent_buffer() to allocate-then-attach method")
+397239ed6a6c ("btrfs: allow extent buffer helpers to skip cross-page handling")
+b0d823840936 ("btrfs: use memset_page instead of opencoding it")

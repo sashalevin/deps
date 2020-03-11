@@ -1,0 +1,5 @@
+627b94f75b82 ("gro: remove rcu_read_lock/rcu_read_unlock from gro_complete handlers")
+4f24ed77dec9 ("udp: use indirect call wrappers for GRO socket lookup")
+32764c66faba ("net: 8021q: move vlan offload registrations into vlan_core")
+e20cf8d3f1f7 ("udp: implement GRO for plain UDP sockets.")
+60fb9567bf30 ("udp: implement complete book-keeping for encap_needed")

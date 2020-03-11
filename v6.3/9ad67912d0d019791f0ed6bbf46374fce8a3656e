@@ -1,0 +1,4 @@
+9ad67912d0d0 ("x86/pci: Rename acpi_mcfg_check_entry() to acpi_mcfg_valid_entry()")
+704891033b97 ("x86/pci: Rename 'MMCONFIG' to 'ECAM', use pr_fmt")
+286ae88c9e40 ("x86/pci: Add MCFG debug logging")
+070909e56a7d ("x86/pci: Reserve ECAM if BIOS didn't include it in PNP0C02 _CRS")

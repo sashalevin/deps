@@ -1,0 +1,8 @@
+c0d3ce580b7c ("Bluetooth: hci_bcm: Store device pointer instead of platform_device pointer")
+4a56f891efce ("Bluetooth: hci_bcm: Move platform_get_irq call to bcm_probe")
+227630cccdbb ("Bluetooth: hci_bcm: Fix setting of irq trigger type")
+98dc77d57169 ("Bluetooth: hci_bcm: Make bcm_request_irq fail if no IRQ resource")
+c4c285da1ee1 ("Bluetooth: hci_bcm: Add active_low irq polarity quirk for Asus T100CHI")
+fda7057f4b53 ("Bluetooth: hci_bcm: Switch to devm_acpi_dev_add_driver_gpios()")
+212d71833315 ("Bluetooth: hci_bcm: Support platform enumeration")
+89ab37b489d1 ("Bluetooth: hci_bcm: Add support for BCM2E95 and BCM2E96")

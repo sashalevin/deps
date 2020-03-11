@@ -1,0 +1,8 @@
+acb396d7c2b8 ("powerpc/64: Cleanup hard_irq_disable() macro")
+c2e480ba8227 ("powerpc/64: Add #defines for paca->soft_enabled flags")
+acb1feab320e ("powerpc/64: Don't trace irqs-off at interrupt return to soft-disabled context")
+ff967900c9d4 ("powerpc/64: Fix latency tracing for lazy irq replay")
+6f881eaeb552 ("powerpc/64: Cleanup __check_irq_replay()")
+3db40c312c2c ("powerpc/64: Fix __check_irq_replay missing decrementer interrupt")
+15770a13bebc ("powerpc/64s: Blacklist functions invoked on a trap")
+b48bbb82e2b8 ("powerpc/64s: Don't unbalance the return branch predictor in __replay_interrupt()")

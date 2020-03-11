@@ -1,0 +1,8 @@
+9dd6ad674cc7 ("net/sched: refactor mqprio qopt reconstruction to a library function")
+1dfe086dd7ef ("net/sched: taprio: centralize mqprio qopt validation")
+d404959fa23a ("net/sched: mqprio: add extack messages for queue count validation")
+19278d76915d ("net/sched: mqprio: allow offloading drivers to request queue count validation")
+d7045f520a74 ("net/sched: mqprio: allow reverse TC:TXQ mappings")
+9adafe2b8546 ("net/sched: move struct tc_mqprio_qopt_offload from pkt_cls.h to pkt_sched.h")
+5cfb45e2fb71 ("net/sched: mqprio: refactor offloading and unoffloading to dedicated functions")
+feb2cf3dcfb9 ("net/sched: mqprio: refactor nlattr parsing to a separate function")

@@ -1,0 +1,6 @@
+18feaad3c655 ("KVM: x86/mmu: Drop smep_andnot_wp check from "uses NX" for shadow MMUs")
+112022bdb5bc ("KVM: x86/mmu: Treat NX as used (not reserved) for all !TDP shadow MMUs")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+36d9594dfbf2 ("x86/kvm/mmu: make space for source data caching in struct kvm_mmu")
+3dc773e74523 ("x86/kvm/mmu.c: set get_pdptr hook in kvm_init_shadow_ept_mmu()")
+44dd3ffa7bb3 ("x86/kvm/mmu: make vcpu->mmu a pointer to the current MMU")

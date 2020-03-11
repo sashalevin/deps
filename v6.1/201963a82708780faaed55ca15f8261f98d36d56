@@ -1,0 +1,6 @@
+201963a82708 ("drm/i915/dsi: Respect power cycle delay on icl+")
+86ecd3b3d16b ("drm/i915/dsi: Do panel power on + reset deassert earlier on icl+")
+fa83c12132f7 ("drm/i915/dsi: Use unconditional msleep() instead of intel_dsi_msleep()")
+ba00eb6a4bfb ("drm/i915: Populate encoder->devdata for DSI on icl+")
+3f9ffce5765d ("drm/i915: Do panel VBT init early if the VBT declares an explicit panel type")
+f70f8153e364 ("drm/i915: Introduce intel_panel_init_alloc()")

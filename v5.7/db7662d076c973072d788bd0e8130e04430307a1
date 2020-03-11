@@ -1,0 +1,4 @@
+db7662d076c9 ("drm/msm/adreno: drop bogus pm_runtime_set_active()")
+4b18299b3365 ("drm/msm/adreno: Defer enabling runpm until hw_init()")
+08af4769c7d2 ("drm/msm: handle for EPROBE_DEFER for of_icc_get")
+17e822f7591f ("drm/msm: fix unbalanced pm_runtime_enable in adreno_gpu_{init, cleanup}")

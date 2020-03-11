@@ -1,0 +1,7 @@
+aee8960c2eae ("blk-iolatency: Use atomic{,64}_try_cmpxchg")
+c9b3007feca0 ("blk-iolatency: fix STS_AGAIN handling")
+391f552af213 ("Blk-iolatency: warn on negative inflight IO counter")
+8c772a9bfc7c ("blk-iolatency: fix IO hang due to negative inflight counter")
+13369816cb64 ("block: fix blk-iolatency accounting underflow")
+e504545446e4 ("blk-rq-qos: inline check for q->rq_qos functions")
+d53375608ebf ("block: remove the unused lock argument to rq_qos_throttle")

@@ -1,0 +1,5 @@
+9747b9e92418 ("mm: hugetlb: change to return bool for isolate_hugetlb()")
+0a2c1e818316 ("mm/mempolicy: convert queue_pages_hugetlb() to queue_folios_hugetlb()")
+3dae02bbd07f ("mm/mempolicy: convert queue_pages_pte_range() to queue_folios_pte_range()")
+6aa3a920125e ("mm/hugetlb: convert isolate_hugetlb to folios")
+04bac040bc71 ("mm/hugetlb: convert get_hwpoison_huge_page() to folios")

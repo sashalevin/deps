@@ -1,0 +1,4 @@
+a4828f81037f ("x86/ldt: Prevent LDT inheritance on exec")
+c2b3496bb30b ("x86/ldt: Rework locking")
+c10e83f598d0 ("arch, mm: Allow arch_dup_mmap() to fail")
+3382290ed2d5 ("locking/barriers: Convert users of lockless_dereference() to READ_ONCE()")

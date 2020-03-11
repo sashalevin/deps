@@ -1,0 +1,5 @@
+d6cbf4eaa467 ("crypto: aesni - replace function pointers with static branches")
+83c83e658863 ("crypto: aesni - refactor scatterlist processing")
+30f2c18eb564 ("crypto: aesni - drop unused asm prototypes")
+a13ed1d15b07 ("crypto: aesni - prevent misaligned buffers on the stack")
+86ad60a65f29 ("crypto: x86/aes-ni-xts - use direct calls to and 4-way stride")

@@ -1,0 +1,5 @@
+454a00c40a21 ("mm: convert free_huge_page() to free_huge_folio()")
+dd6fa0b61814 ("mm: call free_huge_page() directly")
+bdd7be075acb ("mm/hugetlb: convert demote_free_huge_page to folios")
+0ffdc38eb564 ("mm/hugetlb: convert restore_reserve_on_error() to folios")
+3a740e8bb56e ("mm/hugetlb: convert alloc_surplus_huge_page() to folios")

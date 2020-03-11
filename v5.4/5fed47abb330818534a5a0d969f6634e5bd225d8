@@ -1,0 +1,8 @@
+5fed47abb330 ("mfd: Add missing MODULE_DESCRIPTION() macros")
+33d550701b91 ("mfd: arizona: Allow building arizona MFD-core as module")
+3367ac3ea0dc ("mfd: rt4831: Adds support for Richtek RT4831")
+7b9d428e0519 ("mfd: vexpress-sysreg: Support building as a module")
+a229635f3bc9 ("mfd: vexpress-sysreg: Drop selecting CONFIG_CLKSRC_MMIO")
+9b06fc39084e ("ARM: vexpress: Move vexpress_flags_set() into arch code")
+d8dd3f92a6ba ("ASoC: Fix SND_SOC_ALL_CODECS imply misc fallout")
+ead1c83ddd76 ("mfd: mfd-core: Remove mfd_clone_cell()")

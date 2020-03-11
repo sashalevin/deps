@@ -1,0 +1,4 @@
+ec017d6b60f8 ("usb: gadget: f_ncm: remove check for NULL skb_tx_data in timer function")
+cf4e2e880bde ("usb: gadget: f_ncm: remove spurious boolean timer_stopping")
+dbaaca9aa5ce ("usb: gadget: f_ncm: remove timer_force_tx field")
+b1a31a5f5f27 ("usb/gadget/NCM: Replace tasklet with softirq hrtimer")

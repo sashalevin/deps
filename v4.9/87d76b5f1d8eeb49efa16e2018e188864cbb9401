@@ -1,0 +1,7 @@
+87d76b5f1d8e ("usb: gadget: uvc: calculate the number of request depending on framesize")
+9973772dbb2b ("usb: gadget: uvc: make uvc_num_requests depend on gadget speed")
+43cd0023872e ("usb: gadget: uvc_video: add worker to handle the frame pumping")
+9d1ff5dcb3cd ("usb: gadget: uvc: Factor out video USB request queueing")
+284eb1663bed ("usb: gadget: uvc: Minimize #include in headers")
+d396e47fb558 ("usb: gadget: uvc: Move userspace API definition to public header")
+97f0117b4570 ("usb: gadget: Fix checkpatch error for braces")

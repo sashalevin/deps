@@ -1,0 +1,6 @@
+9bbe13a5d414 ("genirq/msi: Provide MSI_FLAG_PARENT_PM_DEV")
+9d1c58c80046 ("genirq/msi: Optionally use dev->fwnode for device domain")
+b56ebe7c896d ("x86/apic/msi: Fix misconfigured non-maskable MSI quirk")
+9c15eeb5362c ("genirq: Allow fasteoi handler to resend interrupts on concurrent handling")
+0cfb4a1af386 ("genirq: Use BIT() for the IRQD_* state flags")
+ea9a78c3a7a4 ("genirq/msi: Drop dead domain name assignment")

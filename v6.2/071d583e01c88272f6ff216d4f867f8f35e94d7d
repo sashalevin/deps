@@ -1,0 +1,7 @@
+071d583e01c8 ("drm: Expand max DRM device number to full MINORBITS")
+45c4d994b82b ("accel: Use XArray instead of IDR for minors")
+5fbca8b48b30 ("drm: Use XArray instead of IDR for minors")
+1c7a387ffef8 ("drm: Update file owner during use")
+e48aedf7d5f1 ("drm/drv: use enum drm_minor_type when appropriate")
+3f09a0cd4ea3 ("drm: Add common fdinfo helper")
+4230cea89caf ("drm: Track clients by tgid and not tid")

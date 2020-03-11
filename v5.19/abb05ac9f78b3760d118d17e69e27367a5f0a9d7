@@ -1,0 +1,7 @@
+abb05ac9f78b ("tty: ldisc: document that ldops are optional")
+0388a152fc55 ("tty/serial: Make ->dcd_change()+uart_handle_dcd_change() status bool active")
+8b7d2d95cf82 ("tty: Make ldisc ->set_termios() old ktermios const")
+987233b342b9 ("tty: serial: serial_core, reformat kernel-doc for functions")
+c4bd17a6ddf3 ("Documentation: serial: dedup kernel-doc for uart functions")
+f9008285bb69 ("serial: Drop timeout from uart_port")
+6bb6fa6908eb ("tty: Implement lookahead to process XON/XOFF timely")

@@ -1,0 +1,6 @@
+ba4f46b28f87 ("mtd: nand: add support for "nand-ecc-algo" DT property")
+d48f62b9a0a0 ("mtd: nand: move of_get_nand_xxx() helpers into nand_base.c")
+dd2dcc004230 ("of: mtd: prepare helper reading NAND ECC algo from DT")
+7194a29a9bf1 ("mtd: nand: simplify nand_dt_init() usage")
+44ec23c9ecd9 ("mtd: nand: convert to nand_get_flash_node()")
+3e63b26bdd40 ("mtd: {nand,spi-nor}: assign MTD of_node")

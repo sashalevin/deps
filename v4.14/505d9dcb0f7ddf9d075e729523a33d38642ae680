@@ -1,0 +1,5 @@
+505d9dcb0f7d ("crypto: ccp - fix resource leaks in ccp_run_aes_gcm_cmd()")
+9f00baf74e4b ("crypto: ccp - Add support for valid authsize values less than 16")
+538a5a072e6e ("crypto: ccp/gcm - use const time tag comparison.")
+20e833dc3635 ("crypto: ccp - memset structure fields to zero before reuse")
+b698a9f4c5c5 ("crypto: ccp - Validate buffer lengths for copy operations")

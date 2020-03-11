@@ -1,0 +1,5 @@
+e0e3ea888c69 ("libbpf: Allow passing user log setting through bpf_object_open_opts")
+d10ef2b825cf ("libbpf: Unify low-level BPF_PROG_LOAD APIs into bpf_prog_load()")
+45493cbaf59e ("libbpf: Pass number of prog load attempts explicitly")
+be2f2d1680df ("libbpf: Deprecate bpf_program__load() API")
+549a63238603 ("libbpf: Ensure that BPF syscall fds are never 0, 1, or 2")

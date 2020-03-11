@@ -1,0 +1,7 @@
+b96e7a5fa0ba ("rcu/tree: Defer setting of jiffies during stall reset")
+2431774f04d1 ("rcu: Mark accesses to rcu_state.n_force_qs")
+a80be428fbc1 ("rcu: Do not disable GP stall detection in rcu_cpu_stall_reset()")
+6be7436d2245 ("rcu: Add rcu_gp_might_be_stalled()")
+a35d16905efc ("rcu: Add basic support for kfree_rcu() batching")
+79ba7ff5a992 ("rcutorture: Emulate dyntick aspect of userspace nohz_full sojourn")
+366237e7b083 ("stop_machine: Provide RCU quiescent state in multi_cpu_stop()")

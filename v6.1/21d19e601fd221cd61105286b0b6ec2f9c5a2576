@@ -1,0 +1,5 @@
+21d19e601fd2 ("spi: mpc5xxx-psc: Remove goto to the unexisted label")
+9e21720a4958 ("spi: mpc5xxx-psc: use devm_clk_get_enabled() for core clock")
+60a6c8257f41 ("spi: mpc5xxx-psc: Use platform resources instead of parsing DT properties")
+01602336524e ("spi: mpc5xxx-psc: Convert probe to use devres functions")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

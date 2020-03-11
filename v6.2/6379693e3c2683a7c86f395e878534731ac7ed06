@@ -1,0 +1,5 @@
+6379693e3c26 ("mm: memory-failure: use helper macro llist_for_each_entry_safe()")
+9e130c4b000b ("mm/hwpoison: delete all entries before traversal in __folio_free_raw_hwp")
+595dd8185cf1 ("mm/memory-failure: convert hugetlb_set_page_hwpoison() to folios")
+b02e7582ef24 ("mm/memory-failure: convert raw_hwp_list_head() to folios")
+4c110ec98e39 ("mm/memory-failure: convert __get_huge_page_for_hwpoison() to folios")

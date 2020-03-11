@@ -1,0 +1,5 @@
+add6a0cd1c5b ("KVM: MMU: try to fix up page faults before giving up")
+92176a8ede57 ("KVM: MMU: prepare to support mapping of VM_IO and VM_PFNMAP frames")
+ba049e93aef7 ("kvm: rename pfn_t to kvm_pfn_t")
+029499b47738 ("KVM: x86: MMU: Make mmu_set_spte() return emulate value")
+7ee0e5b29d27 ("KVM: x86: MMU: Remove unused parameter of __direct_map()")

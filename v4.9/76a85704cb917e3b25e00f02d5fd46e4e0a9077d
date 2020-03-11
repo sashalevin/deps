@@ -1,0 +1,8 @@
+76a85704cb91 ("spi: spi-mem: Allow controller supporting mem_ops without exec_op")
+05766050d5bd ("spi: spi-mem: fallback to using transfers when CS gpios are used")
+f86c24f47953 ("spi: spi-mem: Split spi_mem_exec_op() code")
+b5932f5c68e5 ("spi: Make support for regular transfers optional when ->mem_ops != NULL")
+c36ff266dc82 ("spi: Extend the core to ease integration of SPI memory controllers")
+bdf3a3b59a7a ("spi: Check presence the of ->transfer[_xxx]() before registering a controller")
+8caab75fd2c2 ("spi: Generalize SPI "master" to "controller"")
+c94085f587a7 ("Merge branches 'topic/core', 'topic/slave' and 'fix/doc' of git://git.kernel.org/pub/scm/linux/kernel/git/broonie/spi into spi-master")

@@ -1,0 +1,5 @@
+7c0012f522c8 ("watchdog: rename __touch_watchdog() to a better descriptive name")
+d129479f1fff ("watchdog: Remove soft_lockup_hrtimer_cnt and related code")
+be45bf5395e0 ("watchdog/softlockup: Fix cpu_stop_queue_work() double-queue bug")
+9cf57731b63e ("watchdog/softlockup: Replace "watchdog/%u" threads with cpu_stop_work")
+7863406143d8 ("sched/isolation: Move housekeeping related code to its own file")

@@ -1,0 +1,8 @@
+31d4c528cea4 ("cpufreq: scpi: Fix use after free")
+1690d8bb91e3 ("cpufreq: scpi/scmi: Fix freeing of dynamic OPPs")
+99d6bdf33877 ("cpufreq: add support for CPU DVFS based on SCMI message protocol")
+6d6a1d82eaef ("clk: add support for clocks provided by SCMI")
+fe7be8b297b2 ("dt-bindings: arm: add support for ARM System Control and Management Interface(SCMI) protocol")
+343a8d17fa8d ("cpufreq: scpi: remove arm_big_little dependency")
+b17d2f8d373e ("cpufreq: ARM: sort the Kconfig menu")
+0011c6da99dd ("cpufreq: arm_big_little: make cpufreq_arm_bL_ops structures const")

@@ -1,0 +1,3 @@
+5ea5ca3c2b4b ("KVM: destruct kvm_io_device while unregistering it from kvm_io_bus")
+b1cb1fac22ab ("KVM: Destroy target device if coalesced MMIO unregistration fails")
+23fa2e46a555 ("KVM: mmio: Fix use-after-free Read in kvm_vm_ioctl_unregister_coalesced_mmio")

@@ -1,0 +1,4 @@
+c1cc1570bc8d ("powerpc/uaccess: Also perform 64 bits copies in unsafe_copy_from_user() on ppc32")
+9466c1799fa2 ("powerpc/uaccess: Add unsafe_copy_from_user()")
+17bc43367fc2 ("powerpc/uaccess: Implement unsafe_copy_to_user() as a simple loop")
+334710b1496a ("powerpc/uaccess: Implement unsafe_put_user() using 'asm goto'")

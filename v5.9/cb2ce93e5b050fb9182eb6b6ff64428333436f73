@@ -1,0 +1,5 @@
+cb2ce93e5b05 ("drm/i915/gem: Differentiate oom failures from invalid map types")
+534a6687aacc ("drm/i915: use vmap in i915_gem_object_map")
+46ce3a62b146 ("drm/i915: stop using kmap in i915_gem_object_map")
+ba2ebf605d5f ("drm/i915/gem: Prevent using pgprot_writecombine() if PAT is not supported")
+4caf017ee937 ("drm/i915/gem: Avoid implicit vmap for highmem on x86-32")

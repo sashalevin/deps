@@ -1,0 +1,5 @@
+72f3ad73bc86 ("tls: rx: don't handle TLS 1.3 in the async crypto callback")
+c3f6bb74137c ("tls: rx: don't store the record type in socket context")
+520493f66f68 ("tls: splice_read: fix record type check")
+b2c4618162ec ("bpf, sockmap: sk_skb data_end access incorrect when src_reg = dst_reg")
+e0dc3b93bd7b ("bpf: sockmap, strparser, and tls are reusing qdisc_skb_cb and colliding")

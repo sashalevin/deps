@@ -1,0 +1,5 @@
+befbfe6f8f74 ("irqchip/renesas-irqc: Use platform_get_irq_optional() to get the interrupt")
+4770533f71de ("irqchip/renesas-irqc: Convert to managed initializations")
+9ae48bc03b26 ("irqchip/renesas-irqc: Add helper variable dev = &pdev->dev")
+5adb6cd1cd1f ("irqchip/renesas-irqc: Remove error messages on out-of-memory conditions")
+734e036a9e10 ("irqchip/renesas-irqc: Use wakeup_path i.s.o. explicit clock handling")

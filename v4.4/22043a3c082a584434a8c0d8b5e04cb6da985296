@@ -1,0 +1,5 @@
+22043a3c082a ("arm64/sve: Low-level CPU setup")
+d61c97a7773d ("arm64: move !VHE work to end of el2_setup")
+9bb003600ed9 ("arm64: head.S: avoid open-coded adr_l")
+882416c1e4d1 ("arm64: Fix EL1/EL2 early init inconsistencies with VHE")
+1f364c8c48a0 ("arm64: VHE: Add support for running Linux in EL2 mode")

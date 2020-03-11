@@ -1,0 +1,8 @@
+615c999cd8a0 ("ipc: compute kern_ipc_perm.id under the ipc lock")
+c2ab975c30f0 ("y2038: ipc: Report long times to user space")
+23c8cec8cf67 ("ipc/msg: introduce msgctl(MSG_STAT_ANY)")
+a280d6dc77eb ("ipc/sem: introduce semctl(SEM_STAT_ANY)")
+c21a6970ae72 ("ipc/shm: introduce shmctl(SHM_STAT_ANY)")
+98f929b1bd4d ("ipc/shm: Fix shmctl(..., IPC_STAT, ...) between pid namespaces.")
+a2e102cd3cdd ("shm: Move struct shmid_kernel into ipc/shm.c")
+87ad4b0d853e ("ipc: fix ipc data structures inconsistency")

@@ -1,0 +1,7 @@
+4468d0488ecb ("drm/xe: Drop EXEC_QUEUE_FLAG_BANNED")
+3713a383f540 ("drm/xe: Fix alignment in GuC exec queue state defines")
+1a1563e3245d ("drm/xe: s/ENGINE_STATE_KILLED/EXEC_QUEUE_STATE_KILLED")
+03b3517630ce ("drm/xe: s/ENGINE_STATE_SUSPENDED/EXEC_QUEUE_STATE_SUSPENDED")
+f85ada84f60c ("drm/xe: s/ENGINE_STATE_ENABLED/EXEC_QUEUE_STATE_ENABLED")
+8ed9aaae39f3 ("drm/xe: Force wedged state and block GT reset upon any GPU hang")
+fb74b205cdd2 ("drm/xe: Introduce a simple wedged state")

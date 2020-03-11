@@ -1,0 +1,6 @@
+e9714c22c1a8 ("mtd: fix use-after-free in mtd release")
+19bfa9ebebb5 ("mtd: use refcount to prevent corruption")
+56570bdad5e3 ("mtd: core: Fix refcount error in del_mtd_device()")
+bcf4ef28b083 ("mtd: core: Drop duplicate NULL checks around nvmem_unregister()")
+00596576a051 ("mtd: core: clear out unregistered devices a bit more")
+2966daf7d253 ("mtd: Fixed breaking list in __mtd_del_partition.")

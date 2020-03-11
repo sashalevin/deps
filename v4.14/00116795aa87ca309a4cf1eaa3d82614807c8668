@@ -1,0 +1,4 @@
+00116795aa87 ("KVM: Fix some grammar mistakes")
+361209e054a2 ("KVM: Explicitly define the "memslot update in-progress" bit")
+ddfd1730fd82 ("KVM: x86/mmu: Do not cache MMIO accesses while memslots are in flux")
+152482580a1b ("KVM: Call kvm_arch_memslots_updated() before updating memslots")

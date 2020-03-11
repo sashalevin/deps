@@ -1,0 +1,5 @@
+810e6defcca4 ("KVM: x86: preparatory changes for APICv cleanups")
+eb90f3417a0c ("KVM: vmx: speed up TPR below threshold vmexits")
+ad3610919e6f ("kvm: x86: avoid atomic operations on APICv vmentry")
+d62caabb41f3 ("kvm/x86: per-vcpu apicv deactivation support")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

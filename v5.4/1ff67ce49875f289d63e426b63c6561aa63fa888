@@ -1,0 +1,7 @@
+1ff67ce49875 ("drm/qxl: don't touch mem.bus.offset")
+51ea742c87f3 ("drm/qxl: stop using TTM to call driver internal functions")
+de7f7c472429 ("drm/qxl: drop verify_access")
+60f57220cd3c ("drm/qxl: switch qxl to &drm_gem_object_funcs.mmap")
+80ed59b285cc ("drm/qxl: drop qxl_ttm_fault")
+78d54f1f6a33 ("drm/qxl: use drm_gem_ttm_print_info")
+b21fc73838fa ("drm/qxl: use drm_gem_object_funcs callbacks")

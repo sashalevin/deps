@@ -1,0 +1,6 @@
+0f7c246235a0 ("fbdev/vesafb: Use screen_info pointer from device")
+3218286bbb78 ("fbdev/vesafb: Replace references to global screen_info by local pointer")
+678573b8eee2 ("fbdev/vesafb: Do not use struct fb_info.apertures")
+4ef614be6557 ("fbdev/vesafb: Remove trailing whitespaces")
+b3c9a924aab6 ("fbdev: vesafb: Cleanup fb_info in .fb_destroy rather than .remove")
+693774995595 ("video: fbdev: vesafb: add missed release_region")

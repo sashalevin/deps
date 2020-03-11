@@ -1,0 +1,5 @@
+321028bc45f0 ("wifi: mac80211: disable softirqs for queued frame handling")
+177c6ae9725d ("wifi: mac80211: handle tasklet frames before stopping")
+da1cad7342a1 ("net: mac80211: convert tasklets to use new tasklet_setup() API")
+f6c7f03f69f7 ("mac80211: fix deauth TX when we disconnect")
+21a5d4c3a45c ("mac80211: add stop/start logic for software TXQs")

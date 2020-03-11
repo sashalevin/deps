@@ -1,0 +1,6 @@
+32f51ead3d77 ("mm: remove PageSwapCache")
+79899cce33e0 ("mm/ksm: convert chain series funcs and replace get_ksm_page")
+6f528de2986e ("mm/ksm: use folio in stable_node_dup")
+b91f94729d05 ("mm/ksm: add ksm_get_folio")
+29cfe7556bfd ("mm: constify more page/folio tests")
+c36f9d3d2c3e ("mm: remove test_set_page_writeback()")

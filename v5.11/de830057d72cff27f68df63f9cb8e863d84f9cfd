@@ -1,0 +1,7 @@
+de830057d72c ("pwm: tiehrpwm: Make use of devm_pwmchip_alloc() function")
+4e1c8593e5fa ("pwm: tiehrpwm: Change prototype of helpers to prepare further changes")
+fb1b517fd876 ("pwm: tiehrpwm: Use DEFINE_SIMPLE_DEV_PM_OPS for PM functions")
+1a0c97b6460f ("pwm: tiehrpwm: Unprepare clock only after the PWM was unregistered")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+d21ba5d6217b ("pwm: rockchip: Eliminate potential race condition when probing")

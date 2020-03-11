@@ -1,0 +1,4 @@
+c4db4f20f3bf ("KVM: SVM: Check that the current CPU supports SVM in kvm_is_svm_supported()")
+85fd29dd5fe4 ("x86/virt: KVM: Open code cpu_has_svm() into kvm_is_svm_supported()")
+5df8ecfe3632 ("x86/virt: Drop unnecessary check on extended CPUID level in cpu_has_svm()")
+c82a5c5c53c5 ("KVM: x86: Do compatibility checks when onlining CPU")

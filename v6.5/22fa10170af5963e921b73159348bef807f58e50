@@ -1,0 +1,8 @@
+22fa10170af5 ("net: dsa: mt7530: get rid of priv->info->cpu_port_config()")
+adf4ae24ba42 ("net: dsa: mt7530: get rid of useless error returns on phylink code path")
+6ebe414b48cf ("net: dsa: mt7530: remove .mac_port_config for MT7988 and make it optional")
+8c2703f55837 ("net: dsa: mt7530: remove pad_setup function pointer")
+4ea4c040ddc8 ("net: dsa: mt7530: call port 6 setup from mt7530_mac_config()")
+4eec447ef640 ("net: dsa: mt7530: simplify mt7530_pad_clk_setup()")
+fd7929095a52 ("net: dsa: mt7530: move XTAL check to mt7530_setup()")
+cf244463a286 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

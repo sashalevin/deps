@@ -1,0 +1,7 @@
+dbae70d452a0 ("dm integrity: revert to not using discard filler when recalulating")
+7a5b96b47844 ("dm integrity: use discard support when recalculating")
+db7b93e38106 ("dm integrity: add the "reset_recalculate" feature flag")
+09d85f8d8909 ("dm integrity: introduce the "fix_hmac" argument")
+5c02406428d5 ("dm integrity: conditionally disable "recalculate" feature")
+2d06dfecb132 ("dm integrity: fix a crash if "recalculate" used without "internal_hash"")
+17ffc193cdc6 ("dm integrity: fix the maximum number of arguments")

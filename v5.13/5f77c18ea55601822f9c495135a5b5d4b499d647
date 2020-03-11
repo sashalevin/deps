@@ -1,0 +1,7 @@
+5f77c18ea556 ("l2tp: use IDR for all session lookups")
+2a3339f6c963 ("l2tp: store l2tpv2 sessions in per-net IDR")
+aa5e17e1f5ec ("l2tp: store l2tpv3 sessions in per-net IDR")
+c4d48a58f32c ("l2tp: convert l2tp_tunnel_list to idr")
+af295e854a4e ("l2tp: Don't sleep and disable BH under writer-side sk_callback_lock")
+b68777d54fac ("l2tp: Serialize access to sk_user_data with sk_callback_lock")
+07b8ca3792de ("net/l2tp: convert tunnel rwlock_t to rcu")

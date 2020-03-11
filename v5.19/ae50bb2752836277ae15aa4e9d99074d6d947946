@@ -1,0 +1,6 @@
+ae50bb275283 ("serial: take termios_rwsem for ->rs485_config() & pass termios as param")
+596a9171472b ("serial: Clear rs485 struct when non-RS485 mode is set")
+be2e2cb1d281 ("serial: Sanitize rs485_struct")
+59c221f8e126 ("serial: 8250_exar: Fill in rs485_supported")
+2dbd0c14ebe8 ("serial: Move serial_rs485 sanitization into separate function")
+8322b1f52715 ("serial: Add uart_rs485_config()")

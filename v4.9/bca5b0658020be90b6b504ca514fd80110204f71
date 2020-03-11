@@ -1,0 +1,6 @@
+bca5b0658020 ("md/cluster: fix deadlock when node is doing resync job")
+818da59f97d6 ("md-cluster: add the support for resize")
+b98938d16a10 ("md-cluster: introduce cluster_check_sync_size")
+0ba959774e93 ("md-cluster: use sync way to handle METADATA_UPDATED msg")
+c94836342192 ("md: move funcs from pers->resize to update_size")
+be306c298980 ("md: define mddev flags, recovery flags and r1bio state bits using enums")

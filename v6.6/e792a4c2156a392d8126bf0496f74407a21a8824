@@ -1,0 +1,5 @@
+e792a4c2156a ("md: add new helpers for sync_action")
+03e792eaf18e ("md: change the return value type of md_write_start to void")
+b8494823e236 ("md: initialize 'writes_pending' while allocating mddev")
+d58eff83bd3c ("md: initialize 'active_io' while allocating mddev")
+ac619781967b ("md: use separate work_struct for md_start_sync()")

@@ -1,0 +1,3 @@
+d60b5fbc1ce8 ("io_uring: fix current->mm NULL dereference on exit")
+bbde017a32b3 ("io_uring: add memory barrier to synchronize io_kiocb's result and iopoll_completed")
+65a6543da386 ("io_uring: fix io_kiocb.flags modification race in IOPOLL mode")

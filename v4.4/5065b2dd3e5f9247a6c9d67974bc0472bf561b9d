@@ -1,0 +1,8 @@
+5065b2dd3e5f ("s390/qeth: release cmd buffer in error paths")
+750b162598ec ("s390/qeth: reduce hard-coded access to ccw channels")
+db71bbbd11a4 ("s390/qeth: fix request-side race during cmd IO timeout")
+901e3f49facb ("s390/qeth: avoid control IO completion stalls")
+a6c3d93963e4 ("s390/qeth: on channel error, reject further cmd requests")
+d22ffb5a712f ("s390/qeth: fix IPA command submission race")
+1c5b2216fbb9 ("s390/qeth: fix SETIP command handling")
+52c44d297543 ("s390/qeth: don't dump control cmd twice")

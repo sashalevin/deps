@@ -1,0 +1,4 @@
+26a5262d30e1 ("tools/perf: Add text_end to "struct dso" to save .text section size")
+d2930ede5218 ("perf symbol: Look for ImageBase in PE file to compute .text offset")
+bff8b3072e2d ("perf symbol: Remove redundant libbfd checks")
+00a3423492bc ("perf symbols: Make dso__load_bfd_symbols() load PE files from debug cache only")

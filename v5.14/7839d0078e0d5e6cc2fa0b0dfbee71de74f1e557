@@ -1,0 +1,3 @@
+7839d0078e0d ("PM: sleep: Fix possible deadlocks in core system-wide PM code")
+73d73f5ee7fb ("PM: core: Remove unnecessary (void *) conversions")
+2aa36604e824 ("PM: sleep: Avoid calling put_device() under dpm_list_mtx")

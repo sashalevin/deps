@@ -1,0 +1,8 @@
+d4c470970d45 ("mm: optimize do_wp_page() for fresh pages in local LRU pagevecs")
+53a05ad9f21d ("mm: optimize do_wp_page() for exclusive pages in the swapcache")
+09854ba94c6a ("mm: do_wp_page() simplification")
+7df676974359 ("mm/memory.c: Update local TLB if PTE entry exists")
+4dd7683ea1d6 ("MIPS: Do not flush tlb page when updating PTE entry")
+c3e5ea6ee574 ("mm: avoid data corruption on CoW fault into PFN-mapped VMA")
+83d116c53058 ("mm: fix double page fault on arm64 if PTE_AF is cleared")
+52d1e606ee73 ("mm: reuse only-pte-mapped KSM page in do_wp_page()")

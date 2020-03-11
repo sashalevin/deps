@@ -1,0 +1,7 @@
+fde812b32c1e ("drm/amdgpu: drop redundant cg/pg ungate on runpm enter")
+94fa56605866 ("drm/amdgpu: move kfd suspend after ip_suspend_phase1")
+a23ca7f76d55 ("drm/amdgpu: fix gfx hang during suspend with video playback (v2)")
+9593f4d6a69b ("drm/amdkfd: refactor runtime pm for baco")
+09c34e8d7a63 ("drm/amdkfd: Improve HWS hang detection and handling")
+2c99a547bcf9 ("drm/amdkfd: don't use dqm lock during device reset/suspend/resume")
+424b5442a2a6 ("drm/amdkfd: Remove unnecessary pm_init() for non HWS mode")

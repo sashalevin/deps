@@ -1,0 +1,4 @@
+7198c77aa055 ("l2tp: avoid using ->tunnel_sock for getting session's parent tunnel")
+321a52a39189 ("l2tp: don't mask errors in pppol2tp_getsockopt()")
+364700cf8fd5 ("l2tp: don't mask errors in pppol2tp_setsockopt()")
+4ac36a4adaf8 ("l2tp: Correctly return -EBADF from pppol2tp_getname.")

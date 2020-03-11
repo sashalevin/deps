@@ -1,0 +1,7 @@
+9538edeb72c9 ("spi: mchp-pci1xxxx: DMA support for copying data to and from SPI Buf")
+3e7cfd6ad29a ("spi: mchp-pci1xxxx: Add support for DMA in SPI")
+c40897f4730f ("spi: mchp-pci1xxxx: Annotate struct pci1xxxx_spi with __counted_by")
+45d2af82e0e6 ("spi: mchp-pci1xxxx: Fix improper implementation of disabling chip select lines")
+35c8c5e503a8 ("spi: mchp-pci1xxxx: Fix length of SPI transactions not set properly in driver")
+9e264f3f85a5 ("spi: Replace all spi->chip_select and spi->cs_gpiod references with function call")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

@@ -1,0 +1,7 @@
+e9612987e437 ("crypto: qat - relocate bufferlist logic")
+cf5bb835b7c8 ("crypto: qat - fix DMA transfer direction")
+8fb203c65a79 ("crypto: qat - honor CRYPTO_TFM_REQ_MAY_SLEEP flag")
+029aa4624a7f ("crypto: qat - remove dma_free_coherent() for DH")
+3dfaf0071ed7 ("crypto: qat - remove dma_free_coherent() for RSA")
+af88d3c109aa ("crypto: qat - refactor submission logic")
+e0831e7af4e0 ("crypto: qat - use pre-allocated buffers in datapath")

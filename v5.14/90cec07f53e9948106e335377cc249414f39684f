@@ -1,0 +1,5 @@
+90cec07f53e9 ("scsi: lpfc: Revise ndlp kref handling for dev_loss_tmo_callbk and lpfc_drop_node")
+35ed9613d83f ("scsi: lpfc: Improve PCI EEH Error and Recovery Handling")
+25ac2c970be3 ("scsi: lpfc: Fix EEH support for NVMe I/O")
+0614568361b0 ("scsi: lpfc: Delay unregistering from transport until GIDFT or ADISC completes")
+affbe2442941 ("scsi: lpfc: Fix KASAN slab-out-of-bounds in lpfc_unreg_rpi() routine")

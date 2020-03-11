@@ -1,0 +1,5 @@
+699646734ab5 ("uprobes: prevent mutex_lock() under rcu_read_lock()")
+3eaea21b4d27 ("uprobes: encapsulate preparation of uprobe args buffer")
+25f00e40ce79 ("tracing/probes: Support $argN in return probe (kprobe and fprobe)")
+035ba76014c0 ("tracing/probes: cleanup: Set trace_probe::nr_args at trace_probe_init")
+7e37b6bc3cc0 ("tracing/fprobe-event: cleanup: Fix a wrong comment in fprobe event")

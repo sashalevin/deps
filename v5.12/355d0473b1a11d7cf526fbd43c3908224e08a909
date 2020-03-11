@@ -1,0 +1,8 @@
+355d0473b1a1 ("KVM: nSVM: use svm->nested.save to load vmcb12 registers and avoid TOC/TOU races")
+e85d3e7b495b ("KVM: x86: SVM: call KVM_REQ_GET_NESTED_STATE_PAGES on exit from SMM mode")
+e2e6e449d68d ("KVM: x86: nSVM: restore the L1 host state prior to resuming nested guest on SMM exit")
+bb00bd9c0862 ("KVM: nSVM: Restore nested control upon leaving SMM")
+37be407b2ce8 ("KVM: nSVM: Fix L1 state corruption upon return from SMM")
+b222b0b88162 ("KVM: nSVM: refactor the CR3 reload on migration")
+a36dbec67e26 ("KVM: nSVM: Drop pointless pdptrs_changed() check on nested transition")
+232f75d3b4b5 ("KVM: nSVM: call nested_svm_load_cr3 on nested state load")

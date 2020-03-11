@@ -1,0 +1,6 @@
+ed7e9ad0908a ("NFSv4: Fix sillyrename to return the delegation when appropriate")
+977fcc2b0b41 ("NFS: Add a delegation return into nfs4_proc_unlink_setup()")
+912678dbc592 ("NFS: Move the delegation return down into nfs4_proc_remove()")
+beffb8feb6e2 ("qstr: constify instances in nfs")
+884be175351e ("nfs: per-name sillyunlink exclusion")
+d2caaa0a7745 ("nfs: missing wakeup in nfs_unblock_sillyrename()")

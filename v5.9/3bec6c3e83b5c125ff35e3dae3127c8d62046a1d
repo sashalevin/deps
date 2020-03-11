@@ -1,0 +1,6 @@
+3bec6c3e83b5 ("xfrm: propagate extack to all netlink doit handlers")
+2d151d39073a ("xfrm: Add possibility to set the default to block if we have no policy")
+b1e3a5607034 ("xfrm: Fix NULL pointer dereference on policy lookup")
+5106f4a8acff ("xfrm/compat: Add 32=>64-bit messages translator")
+5461fc0c8d9f ("xfrm/compat: Add 64=>32-bit messages translator")
+c9e7c76d70fa ("xfrm: Provide API to register translator module")

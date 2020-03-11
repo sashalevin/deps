@@ -1,0 +1,8 @@
+911daf695a74 ("fs/ntfs3: Fix formatting, change comments, renaming")
+5bfb91c71207 ("fs/ntfs3: Implement simple fileattr")
+584f60ba22f7 ("ntfs3: Convert ntfs_get_frame_pages() to use a folio")
+562d060bed66 ("ntfs3: Convert attr_make_nonresident to use a folio")
+00c91073a34e ("ntfs3: Convert ntfs_write_begin to use a folio")
+50c47879650b ("fs/ntfs3: Validate ff offset")
+1cd6c96219c4 ("fs/ntfs3: Check 'folio' pointer for NULL")
+1f5fa4b3b85c ("fs/ntfs3: Add ioctl operation for directories (FITRIM)")

@@ -1,0 +1,6 @@
+a78986aae9b2 ("KVM: MMU: Do not treat ZONE_DEVICE pages as being reserved")
+e7912386ede8 ("KVM: x86: reintroduce pte_list_remove, but including mmu_spte_clear_track_bits")
+b1394e745b94 ("KVM: x86: fix APIC page invalidation")
+05cade71cf3b ("KVM: nSVM: fix SMI injection in guest mode")
+72d7b374b14d ("KVM: x86: introduce ISA specific smi_allowed callback")
+0234bf885236 ("KVM: x86: introduce ISA specific SMM entry/exit callbacks")

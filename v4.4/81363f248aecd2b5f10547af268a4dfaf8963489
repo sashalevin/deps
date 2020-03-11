@@ -1,0 +1,5 @@
+81363f248aec ("watchdog: bd70528: Add MODULE_ALIAS to allow module auto loading")
+bbc88a0ec9f3 ("watchdog: bd70528: Initial support for ROHM BD70528 watchdog block")
+4cbc69023a21 ("watchdog: softdog: make pretimeout support a compile option")
+2accf3207862 ("watchdog: softdog: implement pretimeout support")
+5889f06bd31d ("watchdog: refuse to unload softdog module when its timer is running")

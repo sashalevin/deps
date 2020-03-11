@@ -1,0 +1,6 @@
+60696eb26a37 ("fsdax: simplify the pgoff calculation")
+429f8de70d98 ("fsdax: use a saner calling convention for copy_cow_page_dax")
+9dc2f9cdc63e ("fsdax: remove a pointless __force cast in copy_cow_page_dax")
+fb08a1908cb1 ("dax: simplify the dax_device <-> gendisk association")
+5d2a228b9e13 ("dm: make the DAX support depend on CONFIG_FS_DAX")
+d751939235b9 ("dm: fix alloc_dax error handling in alloc_dev")

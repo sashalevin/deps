@@ -1,0 +1,7 @@
+9a5b2d1afa9f ("libperf: Adopt perf_counts_values__scale() from tools/perf/util")
+ea089692733a ("perf evsel: Rename *perf_evsel__read*() to *evsel__read()")
+53fcfa6b8efe ("perf evsel: Ditch perf_evsel__cmp(), not used for quite a while")
+12f5261dac90 ("perf evsel: Rename perf_evsel__compute_deltas() to evsel__compute_deltas()")
+e345997914a8 ("perf tools: Add support for leader-sampling with AUX area events")
+3713eb371c87 ("perf evsel: Rearrange perf_evsel__config_leader_sampling()")
+5f34278867b7 ("perf evlist: Move leader-sampling configuration")

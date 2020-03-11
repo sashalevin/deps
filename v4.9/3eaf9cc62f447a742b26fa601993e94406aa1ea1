@@ -1,0 +1,7 @@
+3eaf9cc62f44 ("ext4: update ext4_sync_file() to not use __generic_file_fsync()")
+6acec592c6bc ("ext4: use errseq_t based error handling for reporting data writeback errors")
+0db1ff222d40 ("ext4: add shutdown bit and check for it")
+9549a168bd50 ("ext4: rename s_resize_flags to s_ext4_flags")
+776722e85d3b ("ext4: DAX iomap write support")
+364443cbcfe7 ("ext4: convert DAX reads to iomap infrastructure")
+213bcd9ccbf0 ("ext4: factor out checks from ext4_file_write_iter()")

@@ -1,0 +1,8 @@
+6d7f677a2afa ("serial: 8250: Rate limit serial port rx interrupts during input overruns")
+aa42db44f670 ("8250: of: remove remnants of generic of_serial driver")
+ffea043965e4 ("serial: 8250: of: Load TX FIFO Threshold from DT")
+e490c9144cfa ("tty: Add software emulated RS485 support for 8250")
+a07a70bcb72e ("tty: Move serial8250_stop_rx() in front of serial8250_start_tx()")
+afd7f88f1577 ("serial: 8250: move of_serial code to 8250 directory")
+4e33870b3bb6 ("serial: of: CONFIG_SERIAL_8250 is always set")
+d1b5c87fa805 ("serial: remove NWP serial support")

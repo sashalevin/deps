@@ -1,0 +1,7 @@
+97cbf3d0accc ("bnxt_en: only set dev->queue_mgmt_ops if supported by FW")
+20c8ad72eb7f ("eth: bnxt: use the RSS context XArray instead of the local list")
+63d4769cf74a ("eth: bnxt: use context priv for struct bnxt_rss_ctx")
+bf30162915f8 ("eth: bnxt: depend on core cleaning up RSS contexts")
+1a49a23c034b ("eth: bnxt: remove rss_ctx_bmap")
+5c466b4d4e75 ("eth: bnxt: move from .set_rxfh to .create_rxfh_context and friends")
+667ac333dbb7 ("eth: bnxt: allow deleting RSS contexts when the device is down")

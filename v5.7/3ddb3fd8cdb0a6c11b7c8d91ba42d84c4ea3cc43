@@ -1,0 +1,8 @@
+3ddb3fd8cdb0 ("signal, perf: Fix siginfo_t by avoiding u64 on 32-bit architectures")
+f2c3c32f4500 ("selftests/perf_events: Add kselftest for process-wide sigtrap handling")
+fb6cc127e0b6 ("signal: Introduce TRAP_PERF si_code and si_perf to siginfo")
+6ac05e832a9e ("signal: define the SA_EXPOSE_TAGBITS bit in sa_flags")
+a54f0dfda754 ("signal: define the SA_UNSUPPORTED bit in sa_flags")
+7da5082a2f9a ("arch: provide better documentation for the arch-specific SA_* flags")
+23acdc76f179 ("signal: clear non-uapi flag bits when passing/returning sa_flags")
+1d82b7898f2a ("arch: move SA_* definitions to generic headers")

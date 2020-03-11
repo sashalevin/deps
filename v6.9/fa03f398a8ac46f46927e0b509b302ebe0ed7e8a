@@ -1,0 +1,8 @@
+fa03f398a8ac ("HID: bpf: make hid_bpf_input_report() sleep until the device is ready")
+67eccf151d76 ("HID: add source argument to HID low level functions")
+ebc0d8093e8c ("HID: bpf: implement HID-BPF through bpf_struct_ops")
+99b40bf8053f ("HID: bpf: add hid_get/put_device() helpers")
+146a06a0d225 ("HID: rename struct hid_bpf_ops into hid_ops")
+b912cf042072 ("HID: bpf: fix hid_bpf_input_report() when hid-core is not ready")
+9be50ac30a83 ("HID: bpf: allow to inject HID event from BPF")
+5599f8019661 ("HID: bpf: export hid_hw_output_report as a BPF kfunc")

@@ -1,0 +1,7 @@
+36b24ebf9a04 ("xhci: minor coding style cleanup in 'xhci_try_enable_msi()'")
+fabbd95cc47c ("xhci: Move functions to setup msi to xhci-pci")
+944e7deb4238 ("xhci: Avoid PCI MSI/MSIX interrupt reinitialization at resume")
+b17a57f89f69 ("xhci: Refactor interrupter code for initial multi interrupter support.")
+54f9927dfe22 ("xhci: remove xhci_test_trb_in_td_math early development check")
+8c1cbec9db1a ("xhci: fix event ring segment table related masks and variables in header")
+23a3b8d5a236 ("xhci: Add update_hub_device override for PCI xHCI hosts")

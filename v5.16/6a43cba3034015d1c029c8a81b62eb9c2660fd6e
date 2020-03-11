@@ -1,0 +1,5 @@
+6a43cba30340 ("net: dsa: export bridging offload helpers to drivers")
+936db8a2dba2 ("net: dsa: rename dsa_port_offloads_bridge to dsa_port_offloads_bridge_dev")
+36cbf39b5690 ("net: dsa: hide dp->bridge_dev and dp->bridge_num in the core behind helpers")
+947c8746e2c3 ("net: dsa: assign a bridge number even without TX forwarding offload")
+3f9bb0301d50 ("net: dsa: make dp->bridge_num one-based")

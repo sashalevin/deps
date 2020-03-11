@@ -1,0 +1,7 @@
+9f4107b07b17 ("block: store bdev->bd_disk->fops->submit_bio state in bdev")
+3838c406a594 ("block: re-arrange the struct block_device fields for better layout")
+9acf381f3e8f ("block: turn bdev->bd_openers into an atomic_t")
+dbdc1be32591 ("block: add a disk_openers helper")
+7a86d6dc1493 ("zram: cleanup zram_remove")
+d666e20e2e79 ("zram: cleanup reset_store")
+2a852a693f88 ("nbd: use the correct block_device in nbd_bdev_reset")

@@ -1,0 +1,8 @@
+c0f2077baa41 ("x86/boot: Mark prepare_command_line() __init")
+8d48bf8206f7 ("x86/boot: Pull up cmdline preparation and early param parsing")
+8aa83e6395ce ("x86/setup: Call early_reserve_memory() earlier")
+a799c2bd29d1 ("x86/setup: Consolidate early memory reservations")
+e998879d4fb7 ("x86,swiotlb: Adjust SWIOTLB bounce buffer size for SEV guests")
+6950e31b35fd ("x86/efi: Push EFI_MEMMAP check into leaf routines")
+e55f31a59947 ("efi: x86: move efi_is_table_address() into arch/x86")
+d4df33b0e992 ("Merge branch 'for-linus-5.2' of git://git.kernel.org/pub/scm/linux/kernel/git/konrad/swiotlb")

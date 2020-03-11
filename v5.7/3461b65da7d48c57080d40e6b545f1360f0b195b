@@ -1,0 +1,8 @@
+3461b65da7d4 ("perf tools: Add machine_pid and vcpu to perf_sample")
+3ccf8a7b66b6 ("perf evlist: Use the right prefix for 'struct evlist' sample id lookup  methods")
+6b6017a20650 ("perf evsel: Rename perf_evsel__parse_sample*() to evsel__parse_sample*()")
+9a39994467d4 ("perf evlist: Move the sideband thread routines to separate object")
+b38d85ef49cf ("perf bpf: Decouple creating the evlist from adding the SB event")
+ca6c9c8b107f ("perf top: Move sb_evlist to 'struct perf_top'")
+bc477d7983e3 ("perf record: Move sb_evlist to 'struct record'")
+1a2725f3ee55 ("perf script: Simplify auxiliary event printing functions")

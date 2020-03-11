@@ -1,0 +1,8 @@
+785a12afdb4a ("powerpc/powernv/idle: Disable LOSE_FULL_CONTEXT states when stop-api fails")
+2525db04d1cc ("powerpc/powernv: Simplify lazy IRQ handling in CPU offline")
+2201f994a574 ("powerpc/64s/idle: Move soft interrupt mask logic into C code")
+f9122ee4f558 ("cpuidle-powernv: Allow Deep stop states that don't stop time")
+22c6663dc69a ("powerpc/powernv/idle: Use Requested Level for restoring state on P9 DD1")
+1e1601b38e6e ("powerpc/powernv/idle: Restore SPRs for deep idle states via stop API.")
+67d204180886 ("powerpc/powernv: Fix CPU_HOTPLUG=n idle.c compile error")
+7246f6006884 ("Merge tag 'powerpc-4.12-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

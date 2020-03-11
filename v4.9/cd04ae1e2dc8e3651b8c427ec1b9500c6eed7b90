@@ -1,0 +1,8 @@
+cd04ae1e2dc8 ("mm, oom: do not rely on TIF_MEMDIE for memory reserves access")
+c288983dddf7 ("mm/page_alloc.c: make sure OOM victim can try allocations with no watermarks once")
+9a67f6488eca ("mm: consolidate GFP_NOFAIL checks in the allocator slowpath")
+a8e99259e7e3 ("mm, page_alloc: warn_alloc print nodemask")
+aa187507ef8b ("mm: throttle show_mem() from warn_alloc()")
+e47483bca2cc ("mm, page_alloc: fix premature OOM when racing with cpuset mems update")
+5ce9bfef1d27 ("mm, page_alloc: move cpuset seqcount checking to slowpath")
+16096c25bf0c ("mm, page_alloc: fix fast-path race with cpuset update or removal")

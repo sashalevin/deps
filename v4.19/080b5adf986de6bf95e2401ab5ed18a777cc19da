@@ -1,0 +1,6 @@
+080b5adf986d ("mmc: sdhci_f_sdh30: Use sdhci_pltfm_remove()")
+5def5c1c15bf ("mmc: sdhci-f-sdh30: Replace with sdhci_pltfm")
+dbf90a178cdc ("mmc: sdhci_f_sdh30: convert to devm_platform_ioremap_resource")
+9a7957d0c955 ("mmc: Remove dev_err() usage after platform_get_irq()")
+bb364890323c ("mmc: meson-gx: Free irq in release() callback")
+3fd784f745dd ("mmc: uniphier-sd: add UniPhier SD/eMMC controller driver")

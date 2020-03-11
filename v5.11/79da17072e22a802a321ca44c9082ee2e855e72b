@@ -1,0 +1,4 @@
+79da17072e22 ("mtd: spi-nand: Isolate the MTD read logic in a helper")
+7bea60569277 ("mtd: add ECC error accounting for each read request")
+65394169bdae ("mtd: track maximum number of bitflips for each read request")
+c93081b26573 ("mtd: spinand: Fix double counting of ECC stats")

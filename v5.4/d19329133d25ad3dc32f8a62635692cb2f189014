@@ -1,0 +1,4 @@
+d19329133d25 ("md: Factor out is_md_suspended helper")
+16648bac862f ("md: stop using for_each_mddev in md_exit")
+cc1ffe61c026 ("md: add new workqueue for delete rdev")
+6b40bec3b132 ("md: check arrays is suspended in mddev_detach before call quiesce operations")

@@ -1,0 +1,6 @@
+cf2ffdea0839 ("r8169: revert 2ab19de62d67 ("r8169: remove ASPM restrictions now that ASPM is disabled during NAPI poll")")
+162d626f3013 ("r8169: fix ASPM-related problem for chip version 42 and 43")
+2ab19de62d67 ("r8169: remove ASPM restrictions now that ASPM is disabled during NAPI poll")
+49ef7d846d4b ("r8169: prepare rtl_hw_aspm_clkreq_enable for usage in atomic context")
+6bc6c4e6893e ("r8169: use spinlock to protect access to registers Config2 and Config5")
+91c8643578a2 ("r8169: use spinlock to protect mac ocp register access")

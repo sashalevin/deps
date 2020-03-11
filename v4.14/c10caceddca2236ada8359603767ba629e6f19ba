@@ -1,0 +1,5 @@
+c10caceddca2 ("drm/ttm: remove set but not used variable 'driver'")
+38392633627c ("drm/ttm: drop bo->glob")
+e1fc12c5d9ad ("drm/ttm: Always and only destroy bo->ttm_resv in ttm_bo_release_list")
+bbb4d8d9ee81 ("drm/ttm:fix memory leak due to individualize")
+378e2d5b504f ("drm/ttm: fix ttm_bo_cleanup_refs_or_queue once more")

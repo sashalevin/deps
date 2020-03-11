@@ -1,0 +1,4 @@
+a7bed27af194 ("bug: fix "cut here" location for __WARN_TAINT architectures")
+2a8358d8a339 ("bug: define the "cut here" string in a single place")
+2553b67a1fbe ("lib/bug.c: use common WARN helper")
+d7b85cab74ed ("lib/bug.c: make panic_on_warn available for all architectures")

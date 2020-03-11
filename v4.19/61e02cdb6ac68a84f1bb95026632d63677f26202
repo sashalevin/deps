@@ -1,0 +1,5 @@
+61e02cdb6ac6 ("aio: drop needless assignment in aio_read()")
+84c4e1f89fef ("aio: simplify - and fix - fget/fput for io_submit()")
+88a6f18b950e ("aio: split out iocb copy from io_submit_one()")
+154989e45fd8 ("aio: clear IOCB_HIPRI")
+53fffe29a9e6 ("aio: fix failure to put the file pointer")

@@ -1,0 +1,7 @@
+a82e537807d5 ("pinctrl: qcom: Allow SoCs to specify a GPIO function that's not 0")
+c3c0c2e18d94 ("pinctrl: qcom: Handle broken/missing PDC dual edge IRQs on sc7180")
+6ece6d15c0b0 ("pinctrl: qcom: sc7180: Add GPIO wakeup interrupt map")
+e35a6ae0eb3a ("pinctrl/msm: Setup GPIO chip in hierarchy")
+81ef8bf88065 ("irqchip/qcom-pdc: Add irqdomain for wakeup capable GPIOs")
+da3f875a4189 ("irqchip/qcom-pdc: Do not toggle IRQ_ENABLE during mask/unmask")
+b2bb01ed0894 ("irqchip/qcom-pdc: Update max PDC interrupts")

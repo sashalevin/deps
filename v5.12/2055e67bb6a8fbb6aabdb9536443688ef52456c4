@@ -1,0 +1,4 @@
+2055e67bb6a8 ("mm/sl[au]b: use own bulk free function when bulk alloc failed")
+da844b787245 ("kasan, mm: integrate slab init_on_alloc with HW_TAGS")
+aa5c219c60cc ("kasan: init memory in kasan_(un)poison for HW_TAGS")
+d9b6f90794ba ("arm64: kasan: allow to init memory when setting tags")

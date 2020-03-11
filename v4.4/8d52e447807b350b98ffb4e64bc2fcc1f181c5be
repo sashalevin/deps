@@ -1,0 +1,6 @@
+8d52e447807b ("drm/i915: Defer modeset cleanup to a secondary task")
+9db529aac938 ("drm/i915: More surgically unbreak the modeset vs reset deadlock")
+42b062b0d946 ("drm/i915: Push i915_sw_fence_wait into the nonblocking atomic commit")
+97154ec242c1 ("drm/i915: Avoid the gpu reset vs. modeset deadlock")
+fd70075f82b7 ("drm/i915: Trim struct_mutex usage for kms")
+64282ea2d2a9 ("Merge airlied/drm-next into drm-intel-next-queued")

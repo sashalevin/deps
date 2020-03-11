@@ -1,0 +1,4 @@
+4be518d83880 ("powerpc/iommu: Do not immediately panic when failed IOMMU table allocation")
+7f1fa82d7994 ("powerpc/iommu: Allocate it_map by vmalloc")
+201ed7f327a1 ("powerpc/powernv/ioda2: Create bigger default window with 64k IOMMU pages")
+c409c6316166 ("powerpc/pseries: Remove IOMMU API support for non-LPAR systems")

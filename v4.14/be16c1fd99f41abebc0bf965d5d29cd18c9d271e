@@ -1,0 +1,7 @@
+be16c1fd99f4 ("vfio/type1: Change success value of vaddr_get_pfn()")
+41311242221e ("vfio/type1: Support faulting PFNMAP vmas")
+5cbf3264bc71 ("vfio/type1: Fix VA->PA translation for PFNMAP VMAs in vaddr_get_pfn()")
+3567813eae5e ("vfio: fix FOLL_LONGTERM use, simplify get_user_pages_remote() call")
+6cf5354c1c4b ("vfio/type1: untag user pointers in vaddr_get_pfn")
+932f4a630a69 ("mm/gup: replace get_user_pages_longterm() with FOLL_LONGTERM")
+dce45af5c2e9 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/rdma/rdma")

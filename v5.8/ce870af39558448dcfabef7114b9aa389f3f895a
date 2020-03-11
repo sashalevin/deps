@@ -1,0 +1,4 @@
+ce870af39558 ("r8169: reset bus if NIC isn't accessible after tx timeout")
+80c0576ef179 ("r8169: disable ASPM in case of tx timeout")
+476c4f5de368 ("r8169: mark device as not present when in PCI D3")
+0c28a63a47bf ("r8169: move napi_disable call and rename rtl8169_hw_reset")

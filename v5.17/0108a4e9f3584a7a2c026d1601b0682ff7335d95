@@ -1,0 +1,4 @@
+0108a4e9f358 ("bpf: ensure main program has an extable")
+d00c6473b1ee ("bpf: Use prog->jited_len in bpf_prog_ksym_set_addr()")
+ed2d9e1a26cc ("bpf: Use size instead of pages in bpf_binary_header")
+3486bedd9919 ("bpf: Use bytes instead of pages for bpf_jit_[charge|uncharge]_modmem")

@@ -1,0 +1,6 @@
+a0b028597d59 ("pinctrl: cherryview: Add support for GMMR GPIO opregion")
+d1073418d952 ("pinctrl: cherryview: Convert to use devm_gpiochip_add_data()")
+47c950d10202 ("pinctrl: cherryview: Do not add all southwest and north GPIOs to IRQ domain")
+bcb48cca23ec ("pinctrl: cherryview: Do not mask all interrupts in probe")
+7cf061fadd66 ("pinctrl: cherryview: Use devm_pinctrl_register() for pinctrl registration")
+0587d3db005c ("pinctrl: cherryview: use gpiochip data pointer")

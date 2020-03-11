@@ -1,0 +1,6 @@
+0899a6278a86 ("arm64: Remove system_uses_lse_atomics()")
+5235c7e2cfcc ("arm64: alternatives: use cpucap naming")
+a5f61cc636f4 ("arm64: irqflags: use alternative branches for pseudo-NMI logic")
+c888b7bd916c ("arm64: rename ARM64_HAS_IRQ_PRIO_MASKING to ARM64_HAS_GIC_PRIO_MASKING")
+0e62ccb9598d ("arm64: rename ARM64_HAS_SYSREG_GIC_CPUIF to ARM64_HAS_GIC_CPUIF_SYSREGS")
+b9024f87d63f ("arm64: alternative: constify alternative_has_feature_* argument")

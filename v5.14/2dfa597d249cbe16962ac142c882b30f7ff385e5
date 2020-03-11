@@ -1,0 +1,6 @@
+2dfa597d249c ("drm/i915/gem: Fix a lockdep warning the __i915_gem_is_lmem() function")
+91160c839824 ("drm/i915: Take pinning into account in __i915_gem_object_is_lmem")
+0ff375759f64 ("drm/i915: Update object placement flags to be mutable")
+cf3e3e86d779 ("drm/i915: Use ttm mmap handling for ttm bo's.")
+2e53d7c1147a ("drm/i915/lmem: Verify checks for lmem residency")
+213d50927763 ("drm/i915/ttm: Introduce a TTM i915 gem object backend")

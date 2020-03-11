@@ -1,0 +1,5 @@
+5375e874c763 ("iommu: Fix the memory leak in dev_iommu_free()")
+045a70426067 ("iommu: Rename struct iommu_param to dev_iommu")
+25f003de987a ("drivers/iommu: Take a ref to the IOMMU driver prior to ->add_device()")
+808be0aae53a ("iommu: Introduce guest PASID bind function")
+4c7c171f85b2 ("iommu: Introduce cache_invalidate API")

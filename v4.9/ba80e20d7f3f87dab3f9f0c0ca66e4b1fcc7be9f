@@ -1,0 +1,4 @@
+ba80e20d7f3f ("sctp: Set TOS and routing scope independently for fib lookups.")
+8a9c58d28d0f ("sctp: add support for dscp and flowlabel per transport")
+25e7f2de9658 ("sctp: set the value of flowi6_oif to sk_bound_dev_if to make sctp_v6_get_dst to find the correct route entry.")
+4e8f2fc1a55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

@@ -1,0 +1,5 @@
+c053383813fd ("drm/nouveau: Register ACPI video backlight when nv_backlight registration fails (v2)")
+7f908d332dc4 ("drm/nouveau: Don't register backlight when another backlight should be used (v2)")
+e15e4c13e5b7 ("drm/nouveau: Refactor nvXX_backlight_init()")
+6d757753cef8 ("drm/nouveau: Move backlight device into nouveau_connector")
+dc854914999d ("drm/nouveau: Check backlight IDs are >= 0, not > 0")

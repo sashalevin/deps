@@ -1,0 +1,7 @@
+8dc4c4100065 ("xsk: make struct xsk_cb_desc available outside CONFIG_XDP_SOCKETS")
+b4e352ff1169 ("xsk: add functions to fill control buffer")
+9ca66afe73da ("xsk: Expose min chunk size to drivers")
+ca2e1a627035 ("xsk: Mark napi_id on sendmsg()")
+a0731952d9cd ("xsk: Add busy-poll support for {recv,send}msg()")
+e39208183728 ("xsk: Check need wakeup flag in sendmsg()")
+45a86681844e ("xsk: Add support for recvmsg()")

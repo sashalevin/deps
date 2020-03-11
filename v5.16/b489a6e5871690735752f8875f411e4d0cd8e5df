@@ -1,0 +1,3 @@
+b489a6e58716 ("tls: Rename TLS_INFO_ZC_SENDFILE to TLS_INFO_ZC_TX")
+c1318b39c7d3 ("tls: Add opt-in zerocopy mode of sendfile()")
+a0df71948e95 ("tls: Skip tls_append_frag on zero copy size")

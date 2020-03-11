@@ -1,0 +1,6 @@
+afe06efdf07c ("sched: Extend scheduler's asym packing")
+0e369d757578 ("sched/core: Replace sd_busy/nr_busy_cpus with sched_domain_shared")
+24fc7edb92ee ("sched/core: Introduce 'struct sched_domain_shared'")
+3676b13e8524 ("sched/core: Pass child domain into sd_init()")
+0e6d2a67a413 ("sched/core: Remove unnecessary NULL-pointer check")
+1f621e028baf ("sched/fair: Fix asym packing to select correct CPU")

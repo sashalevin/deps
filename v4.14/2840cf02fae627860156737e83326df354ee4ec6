@@ -1,0 +1,8 @@
+2840cf02fae6 ("sched/membarrier: Call sync_core only before usermode for same mm")
+70216e18e519 ("membarrier: Provide core serializing command, *_SYNC_CORE")
+c5f58bd58f43 ("membarrier: Provide GLOBAL_EXPEDITED command")
+306e060435d7 ("membarrier: Document scheduler barrier requirements")
+3ccfebedd8cf ("powerpc, membarrier: Skip memory barrier in switch_mm()")
+31cb1bc0dc94 ("sched/core: Rework and clarify prepare_lock_switch()")
+d1b069f5febc ("EXPERT Kconfig menu: fix broken EXPERT menu")
+5b0e2cb02008 ("Merge tag 'powerpc-4.15-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

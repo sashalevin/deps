@@ -1,0 +1,8 @@
+33ec5dfe8f42 ("bcache: fix a regression of code compiling failure in debug.c")
+11e9560e6c00 ("bcache: remove PTR_CACHE")
+4a784266c6a7 ("bcache: remove embedded struct cache_sb from struct cache_set")
+4e1ebae3ee4e ("bcache: only use block_bytes() on struct cache")
+1132e56e78e3 ("bcache: add set_uuid in struct cache_set")
+08fdb2cddbdc ("bcache: remove for_each_cache()")
+697e23495c94 ("bcache: explicitly make cache_set only have single cache")
+17e4aed8309f ("bcache: remove 'int n' from parameter list of bch_bucket_alloc_set()")

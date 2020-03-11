@@ -1,0 +1,7 @@
+aa3b66f401b3 ("tick/sched: Make jiffies update quick check more robust")
+b99654491642 ("tick: Get rid of tick_period")
+7a35bf2a6a87 ("tick/sched: Optimize tick_do_update_jiffies64() further")
+94ad2e3cedb8 ("tick/sched: Reduce seqcount held scope in tick_do_update_jiffies64()")
+372acbbaa809 ("tick/sched: Use tick_next_period for lockless quick check")
+e5d4d1756b07 ("timekeeping: Split jiffies seqlock")
+de95a991bb72 ("tick/sched: Annotate lockless access to last_jiffies_update")

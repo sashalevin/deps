@@ -1,0 +1,8 @@
+8192a0cd7648 ("dm mpath: use DM_MAPIO_SUBMITTED instead of magic number 0 in process_queued_bios()")
+9157c8d3e2d3 ("dm mpath: complain about unsupported __multipath_map_bio() return values")
+846785e6a572 ("dm: don't return errnos from ->map")
+9966afaf91b3 ("dm: fix REQ_RAHEAD handling")
+18a482f5245c ("dm mpath: don't return -EIO from dm_report_EIO")
+7ed8578a96ad ("dm rq: change ->rq_end_io calling conventions")
+b79f10eefd4b ("dm mpath: merge do_end_io into multipath_end_io")
+7e25a7606147 ("Merge branch 'dm-4.12' into dm-4.12-post-merge")

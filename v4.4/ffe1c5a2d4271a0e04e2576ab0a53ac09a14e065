@@ -1,0 +1,8 @@
+ffe1c5a2d427 ("rtc: abx80x: Implement RTC_VL_READ,CLR ioctls")
+749e36d0a0d7 ("rtc: abx80x: add basic watchdog support")
+af69f9a78784 ("rtc: abx80x: use a 'priv' struct for client data")
+9da32ba64d59 ("rtc: abx80x: solve race condition")
+9360a6a81862 ("rtc: abx80x: switch to rtc_register_device")
+d8cac8d93e17 ("rtc: abx80x: use devm_add_action_or_reset()")
+59a8383adb75 ("rtc: abx80x: handle autocalibration")
+718a820a303c ("rtc: abx80x: add alarm support")

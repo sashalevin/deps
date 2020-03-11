@@ -1,0 +1,7 @@
+5b4cdd9c5676 ("Fix memory leak in posix_clock_open()")
+60c6946675fc ("posix-clock: introduce posix_clock_context concept")
+a33121e5487b ("ptp: fix the race between the release of ptp_clock and cdev")
+aea0a897af9e ("ptp: Fix pass zero to ERR_PTR() in ptp_clock_register")
+361800876f80 ("ptp: add PTP_SYS_OFFSET_EXTENDED ioctl")
+83d0bdc7390b ("ptp: check gettime64 return code in PTP_SYS_OFFSET ioctl")
+fbb960ac2617 ("ptp: reorder declarations in ptp_ioctl()")

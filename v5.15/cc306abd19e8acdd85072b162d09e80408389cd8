@@ -1,0 +1,5 @@
+cc306abd19e8 ("kbuild: fix and refactor single target build")
+fc93a4cdce1d ("kbuild: make *.mod not depend on *.o")
+9413e7640564 ("kbuild: split the second line of *.mod into *.usyms")
+b3591e061919 ("kbuild: reuse real-search to simplify cmd_mod")
+7d153696e5db ("kbuild: do not include include/config/auto.conf from shell scripts")

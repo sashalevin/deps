@@ -1,0 +1,5 @@
+71f4ecdbb42a ("block: remove gfp_flags from blkdev_zone_mgmt")
+147ec1c60e32 ("f2fs: guard blkdev_zone_mgmt with nofs scope")
+d9d556755f16 ("btrfs: zoned: call blkdev_zone_mgmt in nofs scope")
+218082010ace ("dm: dm-zoned: guard blkdev_zone_mgmt with noio scope")
+9105ce591b42 ("zonefs: pass GFP_KERNEL to blkdev_zone_mgmt() call")

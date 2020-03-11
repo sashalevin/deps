@@ -1,0 +1,6 @@
+b49d18493a0b ("tty: um: convert to u8/__u8 and size_t")
+940b241d9050 ("um: Remove obsolete reenable_XX calls")
+a43c83161a5e ("um: Switch to block-mq constants in the UML UBD driver")
+0033dfd92a56 ("ubd: fix missing initialization of io_req")
+ecb0a83e3198 ("ubd: remove use of blk_rq_map_sg")
+4e6da0fe8058 ("um: Convert ubd driver to blk-mq")

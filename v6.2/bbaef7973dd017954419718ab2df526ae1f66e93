@@ -1,0 +1,4 @@
+bbaef7973dd0 ("libfs: Add a lock class for the offset map's xa_lock")
+6faddda69f62 ("libfs: Add directory operations for stable offsets")
+77435322777d ("fs: port ->get_acl() to pass mnt_idmap")
+011e2b717b1b ("fs: port ->tmpfile() to pass mnt_idmap")

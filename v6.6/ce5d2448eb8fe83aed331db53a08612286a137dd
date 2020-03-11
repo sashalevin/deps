@@ -1,0 +1,5 @@
+ce5d2448eb8f ("KVM: arm64: Destroy mpidr_data for 'late' vCPU creation")
+888f08807022 ("KVM: arm64: nv: Add sanitising to VNCR-backed sysregs")
+3ed0b5123cd5 ("KVM: arm64: nv: Compute NV view of idregs as a one-off")
+54a8006d0b49 ("KVM: arm64: Fast-track kvm_mpidr_to_vcpu() when mpidr_data is available")
+5544750efd51 ("KVM: arm64: Build MPIDR to vcpu index cache at runtime")

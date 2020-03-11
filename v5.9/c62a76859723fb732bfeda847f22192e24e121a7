@@ -1,0 +1,6 @@
+c62a76859723 ("RISC-V: KVM: Add SBI v0.2 base extension")
+a046c2d8578c ("RISC-V: KVM: Reorganize SBI code by moving SBI v0.1 to its own file")
+cf70be9d214c ("RISC-V: KVM: Mark the existing SBI implementation as v0.1")
+46808a4cb897 ("KVM: Use 'unsigned long' as kvm_for_each_vcpu()'s index")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")
+f5396f2d8268 ("Merge branch 'kvm-5.16-fixes' into kvm-master")

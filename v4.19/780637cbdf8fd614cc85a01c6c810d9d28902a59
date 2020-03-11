@@ -1,1 +1,5 @@
 780637cbdf8f ("drm/amdgpu: let amdgpu_vm_clear_bo figure out ats status v2")
+1e2930374f56 ("drm/amdgpu: clear PDs/PTs only after initializing them")
+0aa7aa24cc11 ("drm/amdgpu: always reserve two slots for the VM")
+a9f34c70fd16 ("drm/ttm: allow reserving more than one shared slot v3")
+9235dd441af4 ("Merge branch 'drm-next-4.21' of git://people.freedesktop.org/~agd5f/linux into drm-next")

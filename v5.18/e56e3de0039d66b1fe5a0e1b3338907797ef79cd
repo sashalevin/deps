@@ -1,0 +1,5 @@
+e56e3de0039d ("spi: mt7621: switch to use modern name")
+4a5cc683543f ("spi: mt7621: Remove 'clk' from 'struct mt7621_spi'")
+30b31b29a866 ("spi: mt7621: Use devm_spi_register_controller()")
+3d6af96814d7 ("spi: mt7621: Use the devm_clk_get_enabled() helper to simplify error handling")
+2b2bf6b7faa9 ("spi: mt7621: Fix an error message in mt7621_spi_probe()")

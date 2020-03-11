@@ -1,0 +1,5 @@
+1b6fd3d5d18b ("crypto: poly1305 - add Poly1305 core API")
+878afc35cd28 ("crypto: poly1305 - use structures for key and accumulator")
+a16e772e664b ("crypto: poly1305 - remove ->setkey() method")
+fcfbeedf79ad ("crypto: poly1305 - use unaligned access macros to output digest")
+109e23bd10b5 ("crypto: poly1305 - Use unaligned access where required")

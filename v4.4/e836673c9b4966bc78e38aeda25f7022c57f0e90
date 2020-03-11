@@ -1,0 +1,4 @@
+e836673c9b49 ("x86/alternatives: Add text_poke_kgdb() to not assert the lock when debugging")
+9222f606506c ("x86/alternatives: Lockdep-enforce text_mutex in text_poke*()")
+6fffacb30349 ("x86/alternatives, jumplabel: Use text_poke_early() before mm_init()")
+35de5b0692aa ("x86/asm: Stop depending on ptrace.h in alternative.h")

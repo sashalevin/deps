@@ -1,0 +1,4 @@
+80b3fd474c91 ("rcu: Make rcu_barrier() no longer block CPU-hotplug operations")
+a16578dd5e3a ("rcu: Rework rcu_barrier() and callback-migration logic")
+0cabb47af3cf ("rcu: Refactor rcu_barrier() empty-list handling")
+82980b1622d9 ("rcu: Kill rnp->ofl_seq and use only rcu_state.ofl_lock for exclusion")

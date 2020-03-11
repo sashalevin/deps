@@ -1,0 +1,3 @@
+f3ebdf042df4 ("mm: don't check VMA write permissions if the PTE/PMD indicates write permissions")
+1462c52e9f2b ("mm/huge_memory: conditionally call maybe_mkwrite() and drop pte_wrprotect() in __split_huge_pmd_locked()")
+3c811f7883c4 ("mm/migrate: revert "mm/migrate: fix wrongly apply write bit after mkdirty on sparc64"")

@@ -1,0 +1,8 @@
+4ca54dd96eca ("net: dsa: ocelot: use ds->num_tx_queues = OCELOT_NUM_TC for all models")
+3d7316ac81ac ("net: dsa: ocelot: add external ocelot switch control")
+1dc6a2a02320 ("net: dsa: felix: add configurable device quirks")
+c8005511f387 ("net: dsa: ocelot: build felix.c into a dedicated kernel module")
+f3e893626abe ("mfd: ocelot: Add support for the vsc7512 chip via spi")
+e5abb90a590f ("dt-bindings: mfd: ocelot: Add bindings for VSC7512")
+bb5721f063ba ("mfd: ocelot: Add helper to get regmap from a resource")
+acf242fc739e ("net: dsa: felix: remove prevalidate_phy_mode interface")

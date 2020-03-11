@@ -1,0 +1,7 @@
+91398a960edf ("ravb: Use GFP_KERNEL instead of GFP_ATOMIC when possible")
+cb01c672c2a7 ("ravb: Add max_rx_len to struct ravb_hw_info")
+68ca3c923213 ("ravb: Add aligned_tx to struct ravb_hw_info")
+ebb091461a9e ("ravb: Add struct ravb_hw_info to driver data")
+cb537b241725 ("ravb: Use unsigned int for num_tx_desc variable in struct ravb_private")
+e89a2cdb1cca ("net: ethernet: ravb: Use devm_platform_get_and_ioremap_resource()")
+8b0308fe319b ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

@@ -1,0 +1,4 @@
+c78c2d090318 ("xfs: don't leak memory when attr fork loading fails")
+e45d7cb2356e ("xfs: use XFS_IFORK_Q to determine the presence of an xattr fork")
+2ed5b09b3e8f ("xfs: make inode attribute forks a permanent part of struct xfs_inode")
+732436ef916b ("xfs: convert XFS_IFORK_PTR to a static inline helper")

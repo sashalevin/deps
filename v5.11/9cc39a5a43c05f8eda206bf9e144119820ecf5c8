@@ -1,0 +1,8 @@
+9cc39a5a43c0 ("KVM: x86: Export the number of uret MSRs to vendor modules")
+8ea8b8d6f869 ("KVM: VMX: Use common x86's uret MSR list as the one true list")
+ee9d22e08d13 ("KVM: VMX: Use flag to indicate "active" uret MSRs instead of sorting list")
+b6194b94a2ca ("KVM: VMX: Configure list of user return MSRs at module init")
+36fa06f9ff39 ("KVM: x86: Add support for RDPID without RDTSCP")
+5104d7ffcf24 ("KVM: VMX: Disable preemption when probing user return MSRs")
+6f2b296aa643 ("KVM: SVM: Inject #GP on guest MSR_TSC_AUX accesses if RDTSCP unsupported")
+1aaca37e1e4e ("KVM: VMX: Allow INVPCID in guest without PCID")

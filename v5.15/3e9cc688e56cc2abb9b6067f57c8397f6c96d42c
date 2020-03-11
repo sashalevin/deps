@@ -1,0 +1,7 @@
+3e9cc688e56c ("sched: Make cond_resched_lock() variants RT aware")
+50e081b96e35 ("sched: Make RCU nest depth distinct in __might_resched()")
+8d713b699e84 ("sched: Make might_sleep() output less confusing")
+a45ed302b6e6 ("sched: Cleanup might_sleep() printks")
+42a387566c56 ("sched: Remove preempt_offset argument from __might_sleep()")
+7b5ff4bb9adc ("sched: Make cond_resched_*lock() variants consistent vs. might_sleep()")
+874f670e6088 ("sched: Clean up the might_sleep() underscore zoo")

@@ -1,0 +1,8 @@
+9010ae4a8dee ("perf/x86/intel: Update event constraints when HT is off")
+e1069839dd68 ("perf/x86: Move perf_event_intel.c ............ => x86/events/intel/core.c")
+af5d3aabc04a ("perf/x86: Move perf_event_intel_bts.c ........ => x86/events/intel/bts.c")
+5b26547dd7fa ("perf/x86: Move perf_event_amd_iommu.[ch] .. => x86/events/amd/iommu.[ch]")
+218cfe4ed888 ("perf/x86: Move perf_event_amd_ibs.c ....... => x86/events/amd/ibs.c")
+39b0332a2158 ("perf/x86: Move perf_event_amd.c ........... => x86/events/amd/core.c")
+fa9cbf320e99 ("perf/x86: Move perf_event.c ............... => x86/events/core.c")
+b7883a1c4f75 ("perf/x86: Handle multiple umask bits for BDW CYCLE_ACTIVITY.*")

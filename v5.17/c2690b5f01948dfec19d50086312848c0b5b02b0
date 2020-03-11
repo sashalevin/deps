@@ -1,0 +1,5 @@
+c2690b5f0194 ("KVM: SVM/SEV/SEV-ES: Rework intercepts")
+29de732cc95c ("KVM: SEV: Move SEV's GP_VECTOR intercept setup to SEV")
+b265ee7bae11 ("KVM: SEV: move set_dr_intercepts/clr_dr_intercepts from the header")
+6defa24d3b12 ("KVM: SEV: Init target VMCBs in sev_migrate_from")
+b2125513dfc0 ("KVM: SEV: Allow SEV intra-host migration of VM with mirrors")

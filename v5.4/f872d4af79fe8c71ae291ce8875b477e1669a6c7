@@ -1,0 +1,5 @@
+f872d4af79fe ("irqchip/meson-gpio: Convert meson_gpio_irq_controller::lock to 'raw_spinlock_t'")
+cc311074f681 ("irqchip/meson-gpio: support more than 8 channels gpio irq")
+0a66d6f90cf7 ("irqchip/meson-gpio: Fix HARDIRQ-safe -> HARDIRQ-unsafe lock order")
+8f78bd62bdd7 ("irqchip/meson-gpio: Add support for meson a1 SoCs")
+e2514165f36e ("irqchip/meson-gpio: Rework meson irqchip driver to support meson-A1 SoCs")

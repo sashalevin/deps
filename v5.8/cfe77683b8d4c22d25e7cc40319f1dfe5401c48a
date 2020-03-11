@@ -1,0 +1,8 @@
+cfe77683b8d4 ("selftests/bpf: Ensure snprintf_btf/bpf_iter tests compatibility with old vmlinux.h")
+076a95f5aff2 ("selftests/bpf: Add bpf_snprintf_btf helper tests")
+2f7de9865ba3 ("selftests: bpf: Test iterating a sockmap")
+bb23c0e1c57f ("selftests: bpf: Test sockmap update from BPF")
+363885d7c62e ("selftests/bpf: Add new bpf_iter context structs to fix build on old kernels")
+ace6d6ec9e9e ("selftests/bpf: Implement sample udp/udp6 bpf_iter programs")
+2767c97765cb ("selftests/bpf: Implement sample tcp/tcp6 bpf_iter programs")
+84544f5637ff ("selftests/bpf: Move newer bpf_iter_* type redefining to a new header file")

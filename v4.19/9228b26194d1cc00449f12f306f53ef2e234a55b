@@ -1,0 +1,6 @@
+9228b26194d1 ("KVM: arm64: PMU: Fix GET_ONE_REG for vPMC regs to return the current value")
+0ab410a93d62 ("KVM: arm64: Narrow PMU sysreg reset values to architectural requirements")
+11663111cd49 ("KVM: arm64: Hide PMU registers from userspace when not available")
+7ccadf23b861 ("KVM: arm64: Add missing reset handlers for PMU emulation")
+03fdfb269009 ("KVM: arm64: Don't write junk to sysregs on reset")
+20589c8cc47d ("arm/arm64: KVM: Don't panic on failure to properly reset system registers")

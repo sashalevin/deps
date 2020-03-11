@@ -1,0 +1,5 @@
+0a0bcb046b2f ("IB/hfi1: Fix loss of BECN with AHG")
+ca85bb1ca994 ("IB/hfi1: Remove unnecessary fecn and becn fields")
+6d6b8848c882 ("IB/hfi1: Optimize packet type comparison using 9B and bypass code paths")
+f150e2736f34 ("IB/hfi1: Compute BTH only for RDMA_WRITE_LAST/SEND_LAST packet")
+442e55661db1 ("IB/hfi1: Extend input hdr tracing for packet type")

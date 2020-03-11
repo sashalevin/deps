@@ -1,0 +1,6 @@
+9831960df237 ("xhci: rework 'xhci_try_enable_msi()' MSI and MSI-X setup code")
+dfbf4441f2d3 ("xhci: change 'msix_count' to encompass MSI or MSI-X vectors")
+a795f708b284 ("xhci: refactor static MSI function")
+74554e9c2276 ("xhci: refactor static MSI-X function")
+f977f4c9301c ("xhci: add handler for only one interrupt line")
+5080ef2d373a ("xhci: check if legacy irq is available before using it as fallback")

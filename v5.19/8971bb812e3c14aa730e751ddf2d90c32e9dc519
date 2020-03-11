@@ -1,0 +1,8 @@
+8971bb812e3c ("mfd: remove toshiba tmio drivers")
+6fed0c1e6efa ("mfd: tc6393xb: Remove #ifdef guards for PM related functions")
+daf7ea817fda ("mfd: t7l66xb: Remove #ifdef guards for PM related functions")
+2d81212cb0c8 ("mfd: tc6387xb: Remove #ifdef guards for PM related functions")
+c55333064d6e ("mfd: tc6393xb: Make disable callback return void")
+6e1f1b1c93ce ("mfd: tc6387xb: Drop disable callback that is never called")
+128ac294e1b4 ("mfd: t7l66xb: Drop platform disable callback")
+2598f6ec5471 ("mfd: asic3: Make asic3_gpio_remove() return void")

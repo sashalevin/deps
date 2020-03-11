@@ -1,0 +1,7 @@
+fa29000b6b26 ("fs: Add aops->release_folio")
+6f31a5a261db ("fs: Add aops->dirty_folio")
+f50015a596fa ("fs: Remove aops->invalidatepage")
+7ba13abbd31e ("fs: Turn block_invalidatepage into block_invalidate_folio")
+128d1f8241d6 ("fs: Add invalidate_folio() aops method")
+5ad6b2bdaaea ("fs: Turn do_invalidatepage() into folio_invalidate()")
+8834147f9505 ("Merge tag 'fscache-rewrite-20220111' of git://git.kernel.org/pub/scm/linux/kernel/git/dhowells/linux-fs")

@@ -1,0 +1,4 @@
+18f9e9d150fc ("PCI/IOV: Factor out sriov_add_vfs()")
+753f61247181 ("PCI: Remove reset argument from pci_iov_{add,remove}_virtfn()")
+0fc690a7c3f7 ("PCI: Disable VF decoding before pcibios_sriov_disable() updates resources")
+f40ec3c748c6 ("PCI: Do any VF BAR updates before enabling the BARs")

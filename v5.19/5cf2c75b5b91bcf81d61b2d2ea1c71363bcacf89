@@ -1,0 +1,8 @@
+5cf2c75b5b91 ("net: dsa: move bulk of devlink code to devlink.{c,h}")
+61e4a5162158 ("net: dsa: remove bool devlink_port_setup")
+c698a5fbf7fd ("net: dsa: don't do devlink port setup early")
+d82acd85cc41 ("net: dsa: move port_setup/teardown to be called outside devlink port registered area")
+95f510d0b792 ("net: dsa: allow the DSA master to be seen and changed through rtnetlink")
+5dc760d12082 ("net: dsa: use dsa_tree_for_each_cpu_port in dsa_tree_{setup,teardown}_master")
+770375ff3311 ("net: dsa: rename dsa_port_link_{,un}register_of")
+da2c398e59d6 ("net: dsa: avoid dsa_port_link_{,un}register_of() calls with platform data")

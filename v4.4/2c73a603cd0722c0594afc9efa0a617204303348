@@ -1,0 +1,6 @@
+2c73a603cd07 ("block: floppy: use bio_add_page()")
+3a83f4677539 ("block: bio: pass bvec table to bio_init()")
+72ecad22d9f1 ("block: support a full bio worth of IO for simplified bdev direct-io")
+189ce2b9dcc3 ("block: fast-path for small and simple direct I/O requests")
+25f4c41415e5 ("block: implement (some of) fallocate for block devices")
+513a4befae06 ("Merge branch 'for-4.9/block' of git://git.kernel.dk/linux-block")

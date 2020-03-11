@@ -1,0 +1,7 @@
+e27a9eca5d4a ("KVM: MIPS: Fix maybe-uninitialized build failure")
+57e3869cfaae ("KVM: MIPS/TLB: Generalise host TLB invalidate to kernel ASID")
+f3a8603f098f ("KVM: MIPS/TLB: Fix off-by-one in TLB invalidate")
+91e4f1b6073d ("KVM: MIPS: Drop other CPU ASIDs on guest MMU changes")
+ca64c2beecd4 ("MIPS: KVM: Abstract guest ASID mask")
+e318f0fd37b6 ("MIPS: KVM: Drop unused kvm_mips_host_tlb_inv_index()")
+caa1faa7aba6 ("MIPS: KVM: Trivial whitespace and style fixes")

@@ -1,0 +1,4 @@
+fd7ba1c1202d ("btrfs: add nesting tags to the locking helpers")
+51899412dd95 ("btrfs: introduce btrfs_path::recurse")
+329ced799be8 ("btrfs: rename extent_buffer::lock_nested to extent_buffer::lock_recursed")
+78d933c79cb6 ("btrfs: add missing annotation for btrfs_tree_lock()")

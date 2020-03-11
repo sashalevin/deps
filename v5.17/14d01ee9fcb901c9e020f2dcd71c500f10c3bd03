@@ -1,0 +1,6 @@
+14d01ee9fcb9 ("mm/swapfile: remove page_swapcount()")
+2397f780e1e0 ("mm/swap: convert try_to_free_swap to use a folio")
+3db3264d8a5f ("mm/swap: make page_swapcount and __lru_add_drain_all static")
+014bb1de4fc1 ("mm: create new mm/swap.h header file")
+7e63df00cf5e ("mm: Convert swap_set_page_dirty() to swap_dirty_folio()")
+6f31a5a261db ("fs: Add aops->dirty_folio")

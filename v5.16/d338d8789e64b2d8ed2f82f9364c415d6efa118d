@@ -1,0 +1,5 @@
+d338d8789e64 ("KVM: x86/pmu: Advertise PERFCTR_CORE iff the min nr of counters is met")
+54744e17f031 ("KVM: SVM: Move svm_hardware_setup() and its helpers below svm_x86_ops")
+4732f2444acd ("KVM: x86: Making the module parameter of vPMU more common")
+1af4a1199a41 ("KVM: SVM: Rename get_max_npt_level() to get_npt_level()")
+b1d66dad65dc ("KVM: x86/svm: Add module param to control PMU virtualization")

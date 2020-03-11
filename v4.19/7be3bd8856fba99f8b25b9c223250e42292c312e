@@ -1,0 +1,8 @@
+7be3bd8856fb ("xfs: empty xattr leaf header blocks are not corruption")
+f28cef9e4dac ("xfs: don't fail verifier on empty attr3 leaf block")
+c84760659dcf ("xfs: check attribute leaf block structure")
+8764f98351fa ("xfs: factor xfs_da3_blkinfo verification into common helper")
+39708c20ab51 ("xfs: miscellaneous verifier magic value fixups")
+09f420197d7c ("xfs: use verifier magic field in dir2 leaf verifiers")
+e34d3e74eb8f ("xfs: always check magic values in on-disk byte order")
+837514f7a4ca ("xfs: fix overflow in xfs_attr3_leaf_verify")

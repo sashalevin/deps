@@ -1,0 +1,8 @@
+82cb9b618531 ("s390/pai: simplify event start function for perf stat")
+cb1259b7b574 ("s390/pai: rework paiXXX_start and paiXXX_stop functions")
+4711b7b8f995 ("s390/pai: cleanup event initialization")
+aecd5a37b5ef ("s390/pai_crypto: remove per-cpu variable assignement in event initialization")
+b286997e83dc ("s390/pai: initialize event count once at initialization")
+58354c7d35d3 ("s390/pai: rename structure member users to active_events")
+d3db4ac3c761 ("s390/pai: rework pai_crypto mapped buffer reference count")
+c432fefe8e62 ("s390/pai: Add support for PAI Extension 1 NNPA counters")

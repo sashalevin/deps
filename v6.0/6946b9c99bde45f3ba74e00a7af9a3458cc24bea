@@ -1,0 +1,5 @@
+6946b9c99bde ("Bluetooth: hci_sync: Fix not checking error on hci_cmd_sync_cancel_sync")
+63298d6e752f ("Bluetooth: hci_core: Cancel request on command timeout")
+d883a4669a1d ("Bluetooth: hci_sync: Only allow hci_cmd_sync_queue if running")
+f41986358821 ("Bluetooth: Cancel sync command before suspend and power off")
+deee93d13d38 ("Bluetooth: use hdev->workqueue when queuing hdev->{cmd,ncmd}_timer works")

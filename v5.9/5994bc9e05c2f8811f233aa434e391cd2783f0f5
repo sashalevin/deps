@@ -1,0 +1,5 @@
+5994bc9e05c2 ("KVM: arm64: Limit stage2_apply_range() batch size to largest block")
+3f26ab58e327 ("KVM: arm64: Remove unused page-table code")
+52bae936f0e7 ("KVM: arm64: Convert unmap_stage2_range() to generic page-table API")
+0f9d09b8e29b ("KVM: arm64: Use generic allocator for hyp stage-1 page-tables")
+b1e57de62cfb ("KVM: arm64: Add stand-alone page-table walker infrastructure")

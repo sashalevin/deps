@@ -1,0 +1,8 @@
+a43f95fdd394 ("cifs: fix charset issue in reconnection")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+6cc041e90c17 ("cifs: avoid races in parallel reconnects in smb1")
+c24bb1a87dc3 ("cifs: fix missing unload_nls() in smb2_reconnect()")
+bc962159e8e3 ("cifs: avoid race conditions with parallel reconnects")
+1bcd548d935a ("cifs: prevent data race in cifs_reconnect_tcon()")
+e77978de4765 ("cifs: update ip_addr for ses only for primary chan setup")
+3c0070f54b31 ("cifs: prevent data race in smb2_reconnect()")

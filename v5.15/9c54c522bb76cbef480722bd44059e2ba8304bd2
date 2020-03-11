@@ -1,0 +1,6 @@
+9c54c522bb76 ("mm: hugetlb_vmemmap: use kstrtobool for hugetlb_vmemmap param parsing")
+0effdf461c57 ("mm: hugetlb_vmemmap: disable hugetlb_optimize_vmemmap when struct page crosses page boundaries")
+f10f1442c309 ("mm: hugetlb_vmemmap: cleanup hugetlb_free_vmemmap_enabled*")
+1e63ac088f20 ("arm64: mm: hugetlb: enable HUGETLB_PAGE_FREE_VMEMMAP for arm64")
+a6b40850c442 ("mm: hugetlb: replace hugetlb_free_vmemmap_enabled with a static_key")
+e7d324850bfc ("mm: hugetlb: free the 2nd vmemmap page associated with each HugeTLB page")

@@ -1,0 +1,7 @@
+f0c867d9588d ("mm, oom: add oom victim's memcg to the oom context information")
+ef8444ea01d7 ("mm, oom: reorganize the oom report in dump_header")
+29ef680ae7c2 ("memcg, oom: move out_of_memory back to the charge path")
+2a70f6a76bb8 ("memcg, thp: do not invoke oom killer on thp charges")
+0205f75571e3 ("mm: simplify nodemask printing")
+852d8be0ad85 ("mm: oom: show unreclaimable slab info when unreclaimable slabs > user memory")
+5b36577109be ("mm: slabinfo: remove CONFIG_SLABINFO")

@@ -1,0 +1,8 @@
+e1c05b3bf80f ("RISC-V: hwprobe: Fix vDSO SIGSEGV")
+aa5af0aa90ba ("RISC-V: Add hwprobe vDSO function and data")
+ea3de9ce8aa2 ("RISC-V: Add a syscall for HW probing")
+0715372a06ce ("riscv: compat: vdso: Add COMPAT_VDSO base code implementation")
+59c10c52f573 ("riscv: compat: syscall: Add compat_sys_call_table implementation")
+84a0c977ab98 ("asm-generic: compat: Cleanup duplicate definitions")
+3ce0f2373f70 ("compat: consolidate the compat_flock{,64} definition")
+306f7cc1e906 ("uapi: always define F_GETLK64/F_SETLK64/F_SETLKW64 in fcntl.h")

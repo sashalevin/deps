@@ -1,0 +1,6 @@
+77c6d5cd93f5 ("cpufreq: s5pv210: Use dev_err instead of pr_err in probe")
+e0e5b2b4f427 ("cpufreq: s5pv210: Defer probe if getting regulators fail")
+51b177637b5c ("cpufreq: Convert to using %pOFn instead of device_node.name")
+38c1c6a9f3c4 ("cpufreq: s5pv210: add missing of_node_put()")
+1c5864e26c99 ("cpufreq: Use consistent prefixing via pr_fmt")
+b49c22a6ca36 ("cpufreq: Convert printk(KERN_<LEVEL> to pr_<level>")

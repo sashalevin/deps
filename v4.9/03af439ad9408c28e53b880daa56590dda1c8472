@@ -1,0 +1,6 @@
+03af439ad940 ("ceph: fix warning PTR_ERR_OR_ZERO can be used")
+570df4e9c23f ("ceph: snapshot nfs re-export")
+3886274adf34 ("ceph: factor out ceph_lookup_inode()")
+03f219041fdb ("ceph: check i_nlink while converting a file handle to dentry")
+ad5cb123fd0e ("ceph: switch to use of ->d_init()")
+18fc8abdb753 ("ceph: unify dentry_operations instances")

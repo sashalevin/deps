@@ -1,0 +1,5 @@
+e1246f3f2df7 ("KVM: arm64: vgic-v3: Consolidate userspace access for MMIO registers")
+38cf0bb7625a ("KVM: arm64: vgic-v3: Use u32 to manage the line level from userspace")
+db25081e147c ("KVM: arm64: vgic-v3: Push user access into vgic_v3_cpu_sysregs_uaccess()")
+b61fc0857a3a ("KVM: arm64: vgic-v3: Simplify vgic_v3_has_cpu_sysregs_attr()")
+da8d120fbafe ("KVM: arm64: Add get_reg_by_id() as a sys_reg_desc retrieving helper")

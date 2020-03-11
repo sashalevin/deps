@@ -1,0 +1,5 @@
+25c51dad664d ("irqchip: mips-gic: Use num_possible_cpus() to reserve IPIs")
+890f6b55e5a5 ("irqchip: mips-gic: Configure EIC when CPUs come online")
+25ac19e1b076 ("irqchip: mips-gic: Mask local interrupts when CPUs come online")
+da61fcf9d62a ("irqchip: mips-gic: Use irq_cpu_online to (un)mask all-VP(E) IRQs")
+63b746b19fa6 ("irqchip: mips-gic: Inline gic_local_irq_domain_map()")

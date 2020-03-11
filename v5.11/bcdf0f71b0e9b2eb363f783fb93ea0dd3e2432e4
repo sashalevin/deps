@@ -1,0 +1,4 @@
+bcdf0f71b0e9 ("drm/i915/pps: rename vlv_init_panel_power_sequencer to vlv_pps_init")
+abad6805ee78 ("drm/i915/pps: abstract panel power sequencer from intel_dp.c")
+5f8be91161b3 ("drm/i915/pps: Reuse POWER_DOMAIN_DISPLAY_CORE in pps_{lock, unlock}")
+719065500b5d ("drm/i915: Track power reference taken for eDP VDD")

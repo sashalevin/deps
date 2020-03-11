@@ -1,0 +1,7 @@
+7c1ef59145f1 ("x86/cpufeatures: Re-enable ENQCMD")
+9bfecd058339 ("x86/cpufeatures: Force disable X86_FEATURE_ENQCMD and remove update_pasid()")
+20f0afd1fb3d ("x86/mmu: Allocate/free a PASID")
+1478b99a7653 ("x86/cpufeatures: Mark ENQCMD as disabled when configured out")
+672cf6df9b8a ("iommu/vt-d: Move Intel IOMMU driver into subdirectory")
+064a57d7ddfc ("iommu/vt-d: Replace intel SVM APIs with generic SVA APIs")
+56722a4398a3 ("iommu/vt-d: Add bind guest PASID support")

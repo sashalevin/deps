@@ -1,0 +1,7 @@
+e3d37210df5c ("sctp: count singleton chunks in assoc user stats")
+fe59379b9ab7 ("sctp: do the basic send and recv for PLPMTUD probe")
+92548ec2f1f9 ("sctp: add the probe timer in transport for PLPMTUD")
+d9e2e410ae30 ("sctp: add the constants/variables and states and some APIs for transport")
+f1bfe8b54151 ("sctp: add udphdr to overhead when udp_port is set")
+e8a3001c2120 ("sctp: add encap_port for netns sock asoc and transport")
+965ae44412f8 ("sctp: create udp4 sock and add its encap_rcv")

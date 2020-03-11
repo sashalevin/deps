@@ -1,0 +1,7 @@
+91c8643578a2 ("r8169: use spinlock to protect mac ocp register access")
+5e4cb4800168 ("r8169: use struct pcpu_sw_netstats for rx/tx packet/byte counters")
+8d6112f0a0c4 ("r8169: factor out handling rtl8169_stats")
+9e89d71911b6 ("r8169: remove member irq_enabled from struct rtl8169_private")
+588c7e5cc048 ("r8169: make rtl_rx better readable")
+314a9cbbfb1d ("r8169: simplify getting stats by using netdev_stats_to_stats64")
+0da3359a4a21 ("r8169: improve statistics of missed rx packets")

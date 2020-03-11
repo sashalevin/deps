@@ -1,0 +1,6 @@
+71b218771426 ("drm/i915/hwmon: Fix locking inversion in sysfs getter")
+655bd3b954cf ("drm/i915/hwmon: Block waiting for GuC reset to complete")
+1b44019a93e2 ("drm/i915/guc: Disable PL1 power limit when loading GuC firmware")
+d81268ee1c10 ("drm/i915/hwmon: Get mutex and rpm ref just once in hwm_power_max_write")
+4ed22f1e5242 ("drm/i915/hwmon: Use 0 to designate disabled PL1 power limit")
+d240daa2c40d ("Merge tag 'drm-intel-gt-next-2023-03-16' of git://anongit.freedesktop.org/drm/drm-intel into drm-next")

@@ -1,0 +1,4 @@
+8b72ca9004ed ("exec: Move the call of prepare_binprm into search_binary_handler")
+a16b3357b2b8 ("exec: Allow load_misc_binary to call prepare_binprm unconditionally")
+112b7147592e ("exec: Convert security_bprm_set_creds into security_bprm_repopulate_creds")
+b8bff599261c ("exec: Factor security_bprm_creds_for_exec out of security_bprm_set_creds")

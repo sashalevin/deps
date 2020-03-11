@@ -1,0 +1,5 @@
+db4f1be3ca9b ("net: udp: fix handling of CHECKSUM_COMPLETE packets")
+a6a599324355 ("iov_iter: don't revert iov buffer if csum error")
+327868212381 ("make skb_copy_datagram_msg() et.al. preserve ->msg_iter on error")
+b46d9f625b07 ("ipv4: fix checksum annotation in udp4_csum_init")
+c148d16369ff ("ipv6: fix checksum annotation in udp6_csum_init")

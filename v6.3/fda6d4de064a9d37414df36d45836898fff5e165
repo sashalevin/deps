@@ -1,0 +1,5 @@
+fda6d4de064a ("mm: khugepaged: expand the is_refcount_suitable() to support file folios")
+43849758fdc9 ("khugepaged: use a folio throughout hpage_collapse_scan_file()")
+dbf85c21e4af ("mm/khugepaged: convert is_refcount_suitable() to use folios")
+5c07ebb372d6 ("mm/khugepaged: convert hpage_collapse_scan_pmd() to use folios")
+8dd1e896735f ("mm/khugepaged: convert __collapse_huge_page_isolate() to use folios")

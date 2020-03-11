@@ -1,0 +1,6 @@
+cf9aa72d2f91 ("tty: serial: fsl_lpuart: optimize the timer based EOP logic")
+f73fd7505525 ("tty: serial: fsl_lpuart: adjust buffer length to the intended size")
+7c0105901778 ("tty: serial: fsl_lpuart: set receive watermark for imx8qxp platform")
+34ebb26f12a8 ("tty: serial: fsl_lpuart: make rx_watermark configurable for different platforms")
+43543e6f539b ("tty: serial: fsl_lpuart: Add runtime pm support")
+4f5cb8c5e915 ("tty: serial: fsl_lpuart: enable wakeup source for lpuart")

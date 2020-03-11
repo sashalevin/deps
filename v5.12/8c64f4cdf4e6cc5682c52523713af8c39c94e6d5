@@ -1,0 +1,4 @@
+8c64f4cdf4e6 ("media: edia: dvbdev: fix a use-after-free")
+627bb528b086 ("media: dvb-core: Fix use-after-free due to race at dvb_register_device()")
+0fc044b2b5e2 ("media: dvbdev: adopts refcnt to avoid UAF")
+1fec2ecc2523 ("media: dvbdev: fix error logic at dvb_register_device()")

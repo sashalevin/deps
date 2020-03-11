@@ -1,0 +1,5 @@
+117cd238adfe ("scsi: NCR5380: Call scsi_done() directly")
+6b0e87a6aafe ("scsi: NCR5380: Check for bus reset")
+45ddc1b24806 ("scsi: NCR5380: Don't clear busy flag when abort fails")
+070356513963 ("scsi: NCR5380: Use DRIVER_SENSE to indicate valid sense data")
+1aeeeed7f03c ("scsi: NCR5380: Clear all unissued commands on host reset")

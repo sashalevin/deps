@@ -1,0 +1,8 @@
+8c1d0b339d67 ("net: dpaa2: use pcs-lynx's check for fwnode availability")
+595fa7634d71 ("net: dpaa2-mac: use lynx_pcs_create_fwnode()")
+6c79a9c8b1f3 ("net: dpaa2-mac: allow lynx PCS to manage mdiodev lifetime")
+404621fab273 ("net: dpaa2-mac: use correct interface to free mdiodev")
+37fe9b981667 ("net: dpaa2: Add some debug prints on deferred probe")
+4e30e98c4b4c ("dpaa2-mac: return -EPROBE_DEFER from dpaa2_mac_open in case the fwnode is not set")
+e7026f15564f ("net: phy: lynx: refactor Lynx PCS module to use generic phylink_pcs")
+49af6a7620c5 ("net: dsa: ocelot: felix: Remove requirement for PCS in felix devices")

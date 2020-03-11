@@ -1,0 +1,8 @@
+56387634b760 ("ARM: at91: pm: Workaround DDRSDRC self-refresh bug with LPDDR1 memories.")
+65cc1a59d192 ("ARM: at91: pm: Use struct at91_pm_data in pm_suspend.S")
+9e07c3ce2c10 ("ARM: at91: pm: Move global variables into at91_pm_data")
+4d767bc3c3ae ("ARM: at91: pm: Move at91_ramc_read/write to pm.c")
+6cc7fbdf8d93 ("ARM: at91: pm: remove useless extern definition")
+fbc7edca5a7d ("ARM: at91: pm: move idle functions to pm.c")
+5737b73e193b ("ARM: at91: pm: find and remap the pmc")
+997ff83b55c3 ("ARM: at91: pm: simply call at91_pm_init")

@@ -1,0 +1,5 @@
+43bda69ed9e3 ("x86/percpu: Define PER_CPU_VAR macro also for !__ASSEMBLY__")
+1d10f3aec2bb ("x86/percpu: Use C for arch_raw_cpu_ptr(), to improve code generation")
+9a462b9eafa6 ("x86/percpu: Use compiler segment prefix qualifier")
+5f863897d964 ("x86/percpu: Define raw_cpu_try_cmpxchg and this_cpu_try_cmpxchg()")
+54cd971c6f44 ("x86/percpu: Define {raw,this}_cpu_try_cmpxchg{64,128}")

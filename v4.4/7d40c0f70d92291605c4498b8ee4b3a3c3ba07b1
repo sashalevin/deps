@@ -1,0 +1,8 @@
+7d40c0f70d92 ("arm64: PCI: Support root bridge preparation for Hyper-V")
+b424d4d42632 ("arm64: PCI: Restructure pcibios_root_bridge_prepare()")
+db46a72b9713 ("ARM64/PCI: Set root bus NUMA node on ACPI systems")
+0cb0786bac15 ("ARM64: PCI: Support ACPI-based PCI host controller")
+2ab51ddeca2f ("ARM64: PCI: Add acpi_pci_bus_find_domain_nr()")
+1a4f93f7112f ("PCI: Factor DT-specific pci_bus_find_domain_nr() code out")
+9c7cb891ecfe ("PCI: Refactor pci_bus_assign_domain_nr() for CONFIG_PCI_DOMAINS_GENERIC")
+21266be9ed54 ("arch: consolidate CONFIG_STRICT_DEVM in lib/Kconfig.debug")

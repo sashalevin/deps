@@ -1,0 +1,6 @@
+b57c4db5d23b ("scsi: libfc: Don't schedule abort twice")
+a912460efafe ("scsi: fcoe: Use per-CPU API to update per-CPU statistics")
+936bd03405fc ("scsi: bnx2fc: Make bnx2fc_recv_frame() mp safe")
+7223d80912d8 ("scsi: fcoe: remove set but not used variable 'port'")
+7eccdf005b2f ("scsi: fcoe: open-code fcoe_destroy_work() for NETDEV_UNREGISTER")
+9eed785b02fe ("scsi: fcoe: move fcoe_interface_remove() out of fcoe_interface_cleanup()")

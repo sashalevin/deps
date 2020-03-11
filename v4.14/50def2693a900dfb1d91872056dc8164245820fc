@@ -1,0 +1,5 @@
+50def2693a90 ("x86/kaslr: Short-circuit gb_huge_pages on x86-32")
+199c84717612 ("x86/efi: Add efi_fake_mem support for EFI_MEMORY_SP")
+44060e8a5189 ("x86/boot/KASLR: Remove return value from handle_mem_options()")
+747ff6265db4 ("x86/boot/KASLR: Skip specified number of 1GB huge pages when doing physical randomization (KASLR)")
+9b912485e0e7 ("x86/boot/KASLR: Add two new functions for 1GB huge pages handling")

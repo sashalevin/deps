@@ -1,0 +1,8 @@
+9b07d27d0fbb ("swiotlb: mark swiotlb_memblock_alloc() as __init")
+8d58aa484920 ("swiotlb: reduce the swiotlb buffer size on allocation failure")
+639205ed206f ("swiotlb: don't panic!")
+81c12e922b97 ("Revert "swiotlb: panic if nslabs is too small"")
+723118090312 ("swiotlb: clean up some coding style and minor issues")
+20347fca71a3 ("swiotlb: split up the global swiotlb lock")
+c51ba246cb17 ("swiotlb: fail map correctly with failed io_tlb_default_mem")
+0bf28fc40d89 ("swiotlb: panic if nslabs is too small")

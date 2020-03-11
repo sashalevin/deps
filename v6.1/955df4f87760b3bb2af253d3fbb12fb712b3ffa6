@@ -1,0 +1,6 @@
+955df4f87760 ("tpm, tpm_tis: Claim locality when interrupts are reenabled on resume")
+7a2f55d0be29 ("tpm, tpm: Implement usage counter for locality")
+15d7aa4e46eb ("tpm, tpm_tis: Claim locality before writing interrupt registers")
+ed9be0e6c892 ("tpm, tpm_tis: Do not skip reset of original interrupt vector")
+6d789ad72695 ("tpm, tpm_tis: Disable interrupts if tpm_tis_probe_irq() failed")
+282657a8bd7f ("tpm, tpm_tis: Claim locality before writing TPM_INT_ENABLE register")

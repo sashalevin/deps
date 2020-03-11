@@ -1,0 +1,5 @@
+1acb34e7dd77 ("drm/i915: Sunset igpu legacy mmap support based on GRAPHICS_VER_FULL")
+d3f3baa3562a ("drm/i915: Reinstate the mmap ioctl for some platforms")
+40e1956ec505 ("drm/i915/gem: replace IS_GEN and friends with GRAPHICS_VER")
+35cbd91eb541 ("drm/i915: Disable mmap ioctl for gen12+")
+2eb8e1a69d9f ("drm/i915/gem: Drop relocation support on all new hardware (v6)")

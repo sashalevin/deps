@@ -1,0 +1,5 @@
+e8ff8248d377 ("fs: convert clean_buffers() to take a folio")
+9160cffd45ee ("mpage: convert __mpage_writepage() to use a folio more fully")
+4b89a37d54a0 ("fs: don't allocate blocks beyond EOF from __mpage_writepage")
+f2d3e573bff9 ("fs: don't call ->writepage from __mpage_writepage")
+cc9cf350d100 ("fs: remove the nobh helpers")

@@ -1,0 +1,6 @@
+8e83622ae7ca ("USB: serial: ch341: fix lost character on LCR updates")
+74f266455062 ("USB: serial: ch314: use usb_control_msg_recv()")
+0580baa46ef6 ("USB: serial: ch341: simulate break condition if not supported")
+2c509d1cc86d ("USB: serial: ch341: name prescaler, divisor registers")
+c432df155919 ("USB: serial: ch341: fix lockup of devices with limited prescaler")
+c404bf4aa923 ("USB: serial: ch341: add basis for quirk detection")

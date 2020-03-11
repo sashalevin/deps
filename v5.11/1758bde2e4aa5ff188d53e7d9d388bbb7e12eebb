@@ -1,0 +1,4 @@
+1758bde2e4aa ("net: phy: Don't trigger state machine while in suspend")
+91a7cda1f4b8 ("net: phy: Fix race condition on link status change")
+fba863b81604 ("net: phy: make PHY PM ops a no-op if MAC driver manages PHY PM")
+b834489bcecc ("net: phy: Add is_on_sfp_module flag and phy_on_sfp helper")

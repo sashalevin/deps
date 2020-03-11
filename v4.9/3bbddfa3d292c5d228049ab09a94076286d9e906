@@ -1,0 +1,5 @@
+3bbddfa3d292 ("mtd: rawnand: fsmc: convert driver to nand_scan()")
+43fab011e93f ("mtd: rawnand: fsmc: clean the probe function style")
+838ff7b33326 ("mtd: nand: fsmc_nand: handle on-die ECC case")
+fb8ed2ca4324 ("mtd: nand: fsmc: use devm_clk_get()")
+ad5678ec4076 ("mtd: nand: fsmc: return error code of nand_scan_ident/tail() on error")

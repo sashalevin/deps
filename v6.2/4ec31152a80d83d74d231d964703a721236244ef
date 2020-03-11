@@ -1,0 +1,3 @@
+4ec31152a80d ("mm: move FAULT_FLAG_VMA_LOCK check from handle_mm_fault()")
+53156443a303 ("mm: do not increment pgfault stats when page fault handler retries")
+fcd48540d188 ("mm/hugetlb: move swap entry handling into vma lock when faulted")

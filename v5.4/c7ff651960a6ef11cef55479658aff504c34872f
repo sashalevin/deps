@@ -1,0 +1,5 @@
+c7ff651960a6 ("blktrace: fix blk_rq_issue documentation")
+a54895fa057c ("block: remove the request_queue to argument request based tracepoints")
+f3bdc62fd82e ("blktrace: Provide event for request merging")
+c780e86dd48e ("blktrace: Protect q->blk_trace with RCU")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")

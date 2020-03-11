@@ -1,0 +1,7 @@
+36989e7fd386 ("KVM: arm/arm64: Convert kvm_host_cpu_state to a static per-cpu allocation")
+47eb3cba48ec ("arm/arm64: KVM: Use HVC_RESET_VECTORS to reinit HYP mode")
+0fb265930dbc ("arm/arm64: KVM: Use __hyp_reset_vectors() directly")
+a92ce8f6ab6c ("ARM: KVM: Convert __cpu_reset_hyp_mode to using __hyp_reset_vectors")
+bc845e4fbbbb ("ARM: KVM: Implement HVC_RESET_VECTORS stub hypercall in the init code")
+4adb1341c7ef ("arm64: KVM: Convert __cpu_reset_hyp_mode to using __hyp_reset_vectors")
+fb1b4e01d2ad ("arm64: KVM: Implement HVC_RESET_VECTORS stub hypercall in the init code")

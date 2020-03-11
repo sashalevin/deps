@@ -1,0 +1,6 @@
+c0a242394cb9 ("mm, page_alloc: scale the number of pages that are batch allocated")
+ca71fe1ad922 ("mm, pcp: avoid to drain PCP when process exit")
+8f21912a4bf8 ("mm: remove obsolete comment above struct per_cpu_pages")
+15cd90049d59 ("mm/page_alloc: fix incorrect PGFREE and PGALLOC for high-order page")
+4b23a68f9536 ("mm/page_alloc: protect PCP lists with a spinlock")
+589d9973c1d2 ("mm/page_alloc: split out buddy removal code from rmqueue into separate helper")

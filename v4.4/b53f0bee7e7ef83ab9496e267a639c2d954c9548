@@ -1,0 +1,8 @@
+b53f0bee7e7e ("mmc: core: Reduce code duplication to mmc_spi_send_{csd|cid}")
+9dbd1ddf74e8 ("mmc: core: Use host instead of card argument to mmc_spi_send_csd()")
+0796e439c5cc ("mmc: core: Clarify code for sending CSD")
+a14737325074 ("mmc: core: Re-factor code for sending CID")
+3df66e77e10a ("mmc: core: Remove redundant code in mmc_send_cid()")
+06c9ccb78e68 ("mmc: core: add proper be32 annotation")
+e85baa8868b0 ("mmc: sd: Meet alignment requirements for raw_ssr DMA")
+5275a652d296 ("mmc: sd: Export SD Status via “ssr” device attribute")

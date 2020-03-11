@@ -1,0 +1,5 @@
+61a6b91283b4 ("xtensa: don't use a12 in __xtensa_copy_user in call0 ABI")
+d6d5f19e21d9 ("xtensa: abstract 'entry' and 'retw' in assembly code")
+2201f31f2c6d ("xtensa: use actual syscall number in do_syscall_trace_leave")
+3aee3e25deea ("xtensa: call do_syscall_trace_{enter,leave} selectively")
+6a986984b639 ("xtensa: use NO_SYSCALL instead of -1")

@@ -1,0 +1,7 @@
+4335417da2b8 ("gpio: mvebu: Fix check for pwm support on non-A8K platforms")
+85b7d8abfec7 ("gpio: mvebu: add pwm support for Armada 8K/7K")
+48f32a835373 ("gpio: mvebu: switch pwm duration registers to regmap")
+19c26d90ff4c ("gpio: mvebu: Fix probing for chips without PWM")
+f51b18d92b66 ("gpio: mvebu: use devm_platform_ioremap_resource_byname()")
+c8da642d41a6 ("gpio: mvebu: only fail on missing clk if pwm is actually to be used")
+c7d28eca1d58 ("Merge tag 'gpio-v4.13-1' of git://git.kernel.org/pub/scm/linux/kernel/git/linusw/linux-gpio")

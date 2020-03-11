@@ -1,0 +1,8 @@
+c467c8f08185 ("mmc: Add MMC_QUIRK_BROKEN_SD_CACHE for Kingston Canvas Go Plus from 11/2019")
+07d2872bf4c8 ("mmc: core: Add SD card quirk for broken discard")
+f7b6fc327327 ("mmc: core: Support zeroout using TRIM for eMMC")
+b360b1102670 ("mmc: core: allow to match the device tree to apply quirks")
+f3abe2e50938 ("mmc: core: rewrite mmc_fixup_device()")
+4e6306e0b83c ("mmc: core: Read performance enhancements registers for SD cards")
+c784f92769ae ("mmc: core: Read the SD function extension registers for power management")
+045d705dc1fb ("mmc: core: Enable the MMC host software queue for the SD card")

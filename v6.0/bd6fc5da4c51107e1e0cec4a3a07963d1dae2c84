@@ -1,0 +1,8 @@
+bd6fc5da4c51 ("io_uring: Don't set affinity on a dying sqpoll thread")
+ebdfefc09c6d ("io_uring/sqpoll: fix io-wq affinity when IORING_SETUP_SQPOLL is used")
+eb47943f2238 ("io-wq: Drop struct io_wqe")
+dfd63baf892c ("io-wq: Move wq accounting to io_wq")
+da64d6db3bd3 ("io_uring: One wqe per wq")
+01e68ce08a30 ("io_uring/io-wq: stop setting PF_NO_SETAFFINITY on io-wq workers")
+88b80534f60f ("io_uring: make io_sqpoll_wait_sq return void")
+996d3efeb091 ("io-wq: Fix memory leak in worker creation")

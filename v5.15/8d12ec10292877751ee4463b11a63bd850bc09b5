@@ -1,0 +1,8 @@
+8d12ec102928 ("virtio-blk: Avoid use-after-free on suspend/resume")
+0e9911fa768f ("virtio-blk: support mq_ops->queue_rqs()")
+4e0400525691 ("virtio-blk: support polling I/O")
+0466a39bd0b6 ("virtio-blk: modify the value type of num in virtio_queue_rq()")
+f0839372478e ("virtio_blk: correct types for status handling")
+6ae6ff6f6e7d ("virtio-blk: validate num_queues during probe")
+0989c41bed96 ("virtio-blk: add num_request_queues module parameter")
+02746e26c39e ("virtio-blk: avoid preallocating big SGL for data")

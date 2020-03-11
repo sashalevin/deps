@@ -1,0 +1,8 @@
+bb65f89b7d3d ("mm: memcontrol: flush percpu vmevents before releasing memcg")
+c350a99ea2b1 ("mm: memcontrol: flush percpu vmstats before releasing memcg")
+84c07d11aa61 ("mm: introduce CONFIG_MEMCG_KMEM as combination of CONFIG_MEMCG && !CONFIG_SLOB")
+29ef680ae7c2 ("memcg, oom: move out_of_memory back to the charge path")
+92ee383f6daa ("mm: fix race between kmem_cache destroy, create and deactivate")
+2a70f6a76bb8 ("memcg, thp: do not invoke oom killer on thp charges")
+4fd0b46e8987 ("slab, slub, slob: convert slab_flags_t to 32-bit")
+d50112edde1d ("slab, slub, slob: add slab_flags_t")

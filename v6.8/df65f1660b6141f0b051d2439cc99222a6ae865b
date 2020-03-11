@@ -1,0 +1,7 @@
+df65f1660b61 ("block/bdev.c: use the knowledge of inode/bdev coallocation")
+2638c2087673 ("missing helpers: bdev_unhash(), bdev_drop()")
+186ddac2072a ("block: move two helpers into bdev.c")
+a56aefca8d38 ("bdev: make struct bdev_handle private to the block layer")
+b1211a25c4fe ("bdev: make bdev_{release, open_by_dev}() private to block layer")
+e97d06a46526 ("bdev: remove bdev_open_by_path()")
+f3a608827d1f ("bdev: open block device as files")

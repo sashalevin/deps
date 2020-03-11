@@ -1,0 +1,8 @@
+5fa201f37c2e ("bpf: Remove test for MOVSX32 with offset=32")
+daabb2b098e0 ("bpf/tests: add tests for cpuv4 instructions")
+f516420f683d ("bpf, tests: Add tests for BPF_LDX/BPF_STX with different offsets")
+caaaa1667bf1 ("bpf/tests: Add tests of BPF_LDX and BPF_STX with small sizes")
+f536a7c80675 ("bpf/tests: Add more BPF_END byte order conversion tests")
+27cc6dac6ec8 ("bpf/tests: Add test case flag for verifier zero-extension")
+565731acfcf2 ("bpf, tests: Add BPF_MOV tests for zero and sign extension")
+7d134041a896 ("bpf: introduce new mov32 variant for doing explicit zero extension")

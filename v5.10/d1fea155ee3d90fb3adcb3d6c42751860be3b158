@@ -1,0 +1,7 @@
+d1fea155ee3d ("mm/page_ext.c: fix a comment")
+43b02ba93b25 ("mm: replace CONFIG_FLAT_NODE_MEM_MAP with CONFIG_FLATMEM")
+0740a50b9baa ("mm/page_alloc.c: refactor initialization of struct page for holes in memory layout")
+3256ff83c566 ("mm: simplify parater of function memmap_init_zone()")
+ab28cb6e1e5e ("mm: rename memmap_init() and memmap_init_zone()")
+93f503c3fcd1 ("mm: fix prototype warning from kernel test robot")
+dc2da7b45ffe ("mm: memmap defer init doesn't work as expected")

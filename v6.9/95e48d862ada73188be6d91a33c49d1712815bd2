@@ -1,0 +1,5 @@
+95e48d862ada ("net: enqueue_to_backlog() change vs not running device")
+765b11f8f4e2 ("net: Rename rps_lock to backlog_lock.")
+80d2eefcb4c8 ("net: Use backlog-NAPI to clean up the defer_list.")
+dad6b9770263 ("net: Allow to use SMP threads for backlog NAPI.")
+56364c910691 ("net: Remove conditional threaded-NAPI wakeup based on task state.")

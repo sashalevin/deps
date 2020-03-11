@@ -1,0 +1,3 @@
+64977918c238 ("mm/kmemleak: skip unlikely objects in kmemleak_scan() without taking lock")
+00c155066eca ("mm/kmemleak: use _irq lock/unlock variants in kmemleak_scan/_clear()")
+8c96f1bc6fc4 ("mm/kmemleak: turn kmemleak_lock and object->lock to raw_spinlock_t")

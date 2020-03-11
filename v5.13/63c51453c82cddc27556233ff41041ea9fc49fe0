@@ -1,0 +1,7 @@
+63c51453c82c ("net: dsa: replay the local bridge FDB entries pointing to the bridge dev too")
+749189453234 ("net: dsa: replay a deletion of switchdev objects for ports leaving a bridged LAG")
+4ede74e73b5b ("net: dsa: refactor the prechangeupper sanity checks into a dedicated function")
+7e8c18586daf ("net: bridge: allow the switchdev replay functions to be called for deletion")
+bdf123b455ce ("net: bridge: constify variables in the replay helpers")
+0d2cfbd41c4a ("net: bridge: ignore switchdev events for LAG ports which didn't request replay")
+97558e880f63 ("net: ocelot: delete call to br_fdb_replay")

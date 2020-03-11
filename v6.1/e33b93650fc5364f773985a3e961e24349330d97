@@ -1,0 +1,5 @@
+e33b93650fc5 ("blk-iocost: Pass gendisk to ioc_refresh_params")
+ba91c849fa50 ("blk-rq-qos: store a gendisk instead of request_queue in struct rq_qos")
+3963d84df797 ("blk-rq-qos: constify rq_qos_ops")
+ce57b558604e ("blk-rq-qos: make rq_qos_add and rq_qos_del more useful")
+b494f9c566ba ("blk-rq-qos: move rq_qos_add and rq_qos_del out of line")

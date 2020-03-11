@@ -1,0 +1,6 @@
+6ab11462c684 ("ASoC: fsl-asoc-card: Allow passing the number of slots in use")
+17198ae76e0f ("ASoC: fsl: use asoc_rtd_to_cpu() / asoc_rtd_to_codec() macro for DAI pointer")
+4468189ff307 ("ASoC: soc-core: find rtd via dai_link pointer at snd_soc_get_pcm_runtime()")
+94def8ea66be ("ASoC: soc-core: move snd_soc_get_pcm_runtime()")
+cc73390008c9 ("ASoC: soc-core: remove dai_link_list")
+da704f26ba37 ("ASoC: soc-core: merge snd_soc_remove_dai_link() and soc_unbind_dai_link()")

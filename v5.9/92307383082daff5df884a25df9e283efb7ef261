@@ -1,0 +1,5 @@
+92307383082d ("coredump:  Don't perform any cleanups before dumping core")
+d67e03e36161 ("exit: Factor coredump_exit_mm out of exit_mm")
+7d613f9f72ec ("signal: Remove the bogus sigkill_pending in ptrace_stop")
+77f6ab8b7768 ("don't dump the threads that had been already exiting when zapped.")
+01ccf592362a ("sched: Bring the PF_IO_WORKER and PF_WQ_WORKER bits closer together")

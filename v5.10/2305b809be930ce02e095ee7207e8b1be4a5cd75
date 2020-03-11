@@ -1,0 +1,7 @@
+2305b809be93 ("arm64: uaccess: simplify uaccess_mask_ptr()")
+3d2403fd10a1 ("arm64: uaccess: remove set_fs()")
+fc703d80130b ("arm64: uaccess: split user/kernel routines")
+f253d827f33c ("arm64: uaccess: refactor __{get,put}_user")
+2376e75cc77e ("arm64: sdei: explicitly simulate PAN/UAO entry")
+a0ccf2ba689f ("arm64: sdei: move uaccess logic to arch/arm64/")
+e2a2190a80ca ("arm64: uaccess: move uao_* alternatives to asm-uaccess.h")

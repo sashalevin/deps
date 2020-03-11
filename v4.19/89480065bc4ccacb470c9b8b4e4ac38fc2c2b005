@@ -1,0 +1,8 @@
+89480065bc4c ("usb: remove ohci-tmio driver")
+6184f15d877c ("headers/prep: Fix non-standard header section: drivers/usb/host/ohci-tmio.c")
+9eff2b2e59fd ("usb: host: ohci-tmio: check return value after calling platform_get_resource()")
+4ac5132e8a43 ("usb: host: ohci-tmio: add IRQ check")
+e288fc982820 ("USB: OHCI: Use fallthrough pseudo-keyword")
+8838d9224f84 ("usb/ohci-tmio: remove the HCD_DMA flag")
+7b81cb6bddd2 ("usb: add a HCD_DMA flag instead of guestimating DMA capabilities")
+7ffc95e90e30 ("Merge 5.3-rc5 into usb-next")

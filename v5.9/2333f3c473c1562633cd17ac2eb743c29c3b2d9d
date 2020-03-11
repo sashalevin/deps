@@ -1,0 +1,7 @@
+2333f3c473c1 ("x86/entry/calling: Allow PUSH_AND_CLEAR_REGS being used beyond actual entry code")
+036c07c0c3b8 ("x86/entry: Fix register corruption in compat syscall")
+8c42819b61b8 ("x86/entry: Use PUSH_AND_CLEAR_REGS for compat")
+d205222eb6a8 ("x86/entry: Simplify entry_INT80_compat()")
+29e9758966f4 ("x86/entry: Split PUSH_AND_CLEAR_REGS into two submacros")
+6627eb25e40c ("x86/entry: Unify definitions from <asm/calling.h> and <asm/ptrace-abi.h>")
+eb3621798bcd ("x86/entry/64: Do not include inst.h in calling.h")

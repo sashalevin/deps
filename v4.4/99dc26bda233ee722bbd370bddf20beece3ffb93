@@ -1,0 +1,6 @@
+99dc26bda233 ("x86/fpu: Remove struct fpu::fpregs_active")
+6cf4edbe0526 ("x86/fpu: Decouple fpregs_activate()/fpregs_deactivate() from fpu->fpregs_active")
+f1c8cd017607 ("x86/fpu: Change fpu->fpregs_active users to fpu->fpstate_active")
+b6aa85558d7e ("x86/fpu: Split the state handling in fpu__drop()")
+b3a163081c28 ("x86/fpu: Simplify fpu->fpregs_active use")
+4d69f155d58d ("Merge tag 'v4.9-rc1' into x86/fpu, to resolve conflict")

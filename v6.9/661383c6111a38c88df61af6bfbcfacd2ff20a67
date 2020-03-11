@@ -1,0 +1,8 @@
+661383c6111a ("mm: swap: relaim the cached parts that got scanned")
+477cb7ba2889 ("mm: swap: add a fragment cluster list")
+5f843a9a3a1e ("mm: swap: separate SSD allocation from scan_swap_map_slots()")
+d07a46a4ac18 ("mm: swap: mTHP allocate swap entries from nonfull list")
+73ed0baae66d ("mm: swap: swap cluster switch to double link list")
+845982eb264b ("mm: swap: allow storage of all mTHP orders")
+14c62da21b2b ("mm: swap: simplify struct percpu_cluster")
+d7d0d389ff90 ("mm: swap: remove CLUSTER_FLAG_HUGE from swap_cluster_info:flags")

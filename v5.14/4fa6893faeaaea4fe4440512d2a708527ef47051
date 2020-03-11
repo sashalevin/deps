@@ -1,0 +1,7 @@
+4fa6893faeaa ("mm: thp: consolidate vma size check to transhuge_vma_suitable")
+c791576c6028 ("mm: khugepaged: introduce khugepaged_enter_vma() helper")
+2647d11b9e71 ("mm: khugepaged: make hugepage_vma_check() non-static")
+d2081b2bf819 ("mm: khugepaged: make khugepaged_enter() void function")
+52b52bf15b67 ("mm: khugepaged: skip DAX vma")
+cb648754a1d0 ("mm: khugepaged: remove redundant check for VM_NO_KHUGEPAGED")
+a4aeaa06d45e ("mm: khugepaged: skip huge page collapse for special files")

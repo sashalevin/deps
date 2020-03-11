@@ -1,0 +1,8 @@
+eb7f33654dc1 ("mptcp: add the mibs for MP_FAIL")
+478d770008b0 ("mptcp: send out MP_FAIL when data checksum fails")
+5580d41b758a ("mptcp: MP_FAIL suboption receiving")
+ce599c516386 ("mptcp: properly account bulk freed memory")
+fde56eea01f9 ("mptcp: refine mptcp_cleanup_rbuf")
+df377be38725 ("mptcp: add deny_join_id0 in mptcp_options_received")
+75e908c33615 ("mptcp: use fast lock for subflows when possible")
+adc2e56ebe63 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

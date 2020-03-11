@@ -1,0 +1,3 @@
+dbe37c71d124 ("scsi: message: fusion: Replace all non-returning strlcpy() with strscpy()")
+7bd1d615a57f ("scsi: mptctl: change strncpy+truncation to strlcpy")
+6f5c592ce936 ("scsi: mptfusion: use strlcpy() instead of strncpy()")

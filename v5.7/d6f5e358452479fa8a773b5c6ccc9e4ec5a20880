@@ -1,0 +1,7 @@
+d6f5e3584524 ("cifs: fix NULL ptr dereference in smb2_ioctl_query_info()")
+b92e358757b9 ("cifs: prevent bad output lengths in smb2_ioctl_query_info()")
+ccd48ec3d4a6 ("smb2: fix use-after-free in smb2_ioctl_query_info()")
+352d96f3acc6 ("cifs: multichannel: move channel selection above transport layer")
+5f68ea4aa98b ("cifs: multichannel: move channel selection in function")
+b2ca6c2c9edd ("cifs: move some variables off the stack in smb2_ioctl_query_info")
+a7d5c2946280 ("cifs: reduce stack use in smb2_compound_op")

@@ -1,0 +1,7 @@
+cde0fbff07ef ("cacheinfo: Check cache properties are present in DT")
+de0df442ee49 ("cacheinfo: Check 'cache-unified' property to count cache leaves")
+8844c3df001b ("cacheinfo: Return error code in init_of_cache_level()")
+c3719bd9eeb2 ("cacheinfo: Use RISC-V's init_cache_level() as generic OF implementation")
+3da72e18371c ("cacheinfo: Decrement refcount in cache_setup_of_node()")
+9447eb0f1575 ("cacheinfo: Move cache_leaves_are_shared out of CONFIG_OF")
+b14e8d21f726 ("cacheinfo: Add helper to access any cache index for a given CPU")

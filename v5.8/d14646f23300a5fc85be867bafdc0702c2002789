@@ -1,0 +1,5 @@
+d14646f23300 ("dm-delay: fix hung task introduced by kthread mode")
+70bbeb29fab0 ("dm delay: for short delays, use kthread instead of timers and wq")
+c357342186dc ("dm delay: use dm_submit_bio_remap")
+ed00aabd5eb9 ("block: rename generic_make_request to submit_bio_noacct")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")

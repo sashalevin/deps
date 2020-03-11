@@ -1,0 +1,4 @@
+4a2dd02b0916 ("mm/mprotect: replace can_modify_mm with can_modify_vma")
+2286a6914c77 ("mm: change mprotect_fixup to vma iterator")
+1ef488edd6c4 ("mm/mprotect: drop pgprot_t parameter from change_protection()")
+931298e103c2 ("mm/userfaultfd: rely on vma->vm_page_prot in uffd_wp_range()")

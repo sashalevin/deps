@@ -1,0 +1,8 @@
+6b1c0bd6fdef ("ASoC: Intel: bytcht_es8316: Drop reference count of ACPI device after use")
+fe0596a00608 ("ASoC: Intel: bytcht_es8316: move comment to the right place")
+f1eebb3bf707 ("ASoC: Intel: boards: fix spelling in comments")
+bea03a328f97 ("ASoC: Intel: bytcht_es8316: Utilize dev_err_probe() to avoid log saturation")
+4e03b1b772ba ("ASoC: Intel: bytcht_es8316: Switch to use gpiod_get_optional()")
+d3409eb20d3e ("ASoC: Intel: boards: get codec device with ACPI instead of bus search")
+c50f126b3c9e ("ASoC: Intel: boards: harden codec property handling")
+780b1a02c179 ("ASoC: Intel: cht_bsw_nau8824: Move snd_soc_dai_set_tdm_slot call to cht_codec_fixup")

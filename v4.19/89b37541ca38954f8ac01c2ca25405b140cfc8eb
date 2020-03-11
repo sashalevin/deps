@@ -1,0 +1,8 @@
+89b37541ca38 ("irqdomain: Introduce irq_domain_free()")
+8932c32c3053 ("irqdomain: Fix domain registration race")
+20c36ce2164f ("irqdomain: Change the type of 'size' in __irq_domain_add() to be consistent")
+ed1054a02aa2 ("irqdomain: Mark fwnodes when their irqdomain is added/removed")
+181e9d4efaf6 ("irqdomain: Make __irq_domain_add() less OF-dependent")
+3a1d24ca9573 ("irq/irqdomain: Fix comment typo")
+43b98d876f89 ("genirq/irqdomain: Remove WARN_ON() on out-of-memory condition")
+94967b55ebf3 ("genirq/debugfs: Reinstate full OF path for domain name")

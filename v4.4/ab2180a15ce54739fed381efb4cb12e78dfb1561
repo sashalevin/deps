@@ -1,0 +1,5 @@
+ab2180a15ce5 ("firmware/efi: Add NULL pointer checks in efivars API functions")
+21b3ddd39fee ("efi: Don't use spinlocks for efi vars")
+217b27d4671a ("efi: Use a file local lock for efivars")
+1cfd63166c8e ("efi: Merge boolean flag arguments")
+ca0e30dcaa53 ("efi: Add nonblocking option to efi_query_variable_store()")

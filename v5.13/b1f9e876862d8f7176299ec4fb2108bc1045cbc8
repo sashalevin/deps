@@ -1,0 +1,5 @@
+b1f9e876862d ("mm/uffd: enable write protection for shmem & hugetlbfs")
+824ddc601adc ("userfaultfd: provide unmasked address on page-fault")
+964ab0040ff9 ("userfaultfd/shmem: advertise shmem minor fault support")
+c949b097ef2e ("userfaultfd/shmem: support minor fault registration for shmem")
+00b151f21f39 ("mm/userfaultfd: fail uffd-wp registration if not supported")

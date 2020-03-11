@@ -1,0 +1,8 @@
+c3f27c834ae5 ("iommu/vt-d: Remove unused domain_get_iommu()")
+4140d77a0221 ("iommu/vt-d: Fix RID2PASID setup/teardown failure")
+241469685d8d ("iommu/vt-d: Remove aux-domain related callbacks")
+989192ac6ad5 ("iommu/vt-d: Remove guest pasid related callbacks")
+00ecd5401349 ("iommu/vt-d: Clean up unused PASID updating functions")
+94f797ad61d3 ("iommu/vt-d: Delete dev_has_feat callback")
+a21518cb23a3 ("iommu/vt-d: Fix PASID leak in intel_svm_unbind_mm()")
+d8768d7eb9c2 ("Merge branches 'apple/dart', 'arm/smmu', 'iommu/fixes', 'x86/amd', 'x86/vt-d' and 'core' into next")

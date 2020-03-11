@@ -1,0 +1,4 @@
+f930c7043663 ("scsi: sg: only check for dxfer_len greater than 256M")
+14074aba4bcd ("scsi: sg: fix static checker warning in sg_is_valid_dxfer")
+68c59fcea1f2 ("scsi: sg: fix SG_DXFER_FROM_DEV transfers")
+28676d869bbb ("scsi: sg: check for valid direction before starting the request")

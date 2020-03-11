@@ -1,0 +1,5 @@
+0829381e481a ("parport: Remove the now superfluous sentinel element from ctl_table array")
+37e9981e33e4 ("parport: plug a sysctl register leak")
+02ea13480f3f ("parport: Remove register_sysctl_table from parport_default_proc_register")
+4199a64a1c13 ("parport: Remove register_sysctl_table from parport_device_proc_register")
+93810936a6bf ("parport: Remove register_sysctl_table from parport_proc_register")

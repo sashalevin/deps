@@ -1,0 +1,8 @@
+4116fd25c526 ("platform/chrome: cros_ec_lpc: Merge cros_ec_lpc and cros_ec_lpc_reg")
+6b7cb2227d4d ("platform/chrome: cros_ec: Remove cros_ec dependency in lpc_mec")
+1058ca940e40 ("platform/chrome: cros_ec_lpc: switch to SPDX identifier")
+cc8a4ea182ef ("platform/chrome: Move mfd/cros_ec_lpc* includes to drivers/platform.")
+d00a8741fd8f ("platform/chrome: Move cros-ec transport drivers to drivers/platform.")
+5f454bdf6353 ("platform/chrome: cros_ec_lpc: Register the driver if ACPI entry is missing.")
+5e0115581bbc ("cros_ec: Move cros_ec_dev module to drivers/mfd")
+ea01a31b9058 ("cros_ec: Split cros_ec_devs module")

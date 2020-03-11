@@ -1,0 +1,4 @@
+3d7f45625a84 ("dm: fix __send_changing_extent_only() to send first bio and chain remainder")
+264c869d44dc ("dm: fix REQ_OP_ZONE_REPORT bio handling")
+ac62d6208a79 ("dm: support REQ_OP_WRITE_ZEROES")
+0f5d690f7bf1 ("dm io: discards don't take a payload")

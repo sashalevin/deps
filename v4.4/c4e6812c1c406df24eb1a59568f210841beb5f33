@@ -1,0 +1,8 @@
+c4e6812c1c40 ("drm/nouveau/kms/nv50: separate out viewport commit")
+ad6336195393 ("drm/nouveau/kms/nv50: separate out core surface commit")
+3dbd036b8419 ("drm/nouveau/kms/nv50: separate out mode commit")
+616915ec7629 ("drm/nouveau/kms: subclass atomic connector state")
+700c18ca08bf ("drm/nouveau/kms: no need to check for empty edid before drm_detect_hdmi_monitor")
+2c3d77155fb0 ("drm/nouveau: Use private save/restore hooks for CRTCs")
+fee6fdfa6939 ("drm/nouveau: Ditch NULL save/restore hook assignments")
+b516a9efb7af ("drm: Move LEAVE/ENTER_ATOMIC_MODESET to fbdev helpers")

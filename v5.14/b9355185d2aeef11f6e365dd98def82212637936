@@ -1,0 +1,5 @@
+b9355185d2ae ("block: move capacity validation to blkpg_do_ioctl()")
+6f64f866aa1a ("block: add check that partition length needs to be aligned with block size")
+7f6be3765e11 ("block: pass a gendisk to bdev_add_partition")
+50b4aecfbbb0 ("block: remove GENHD_FL_UP")
+d7a66574b34e ("block: unhash the whole device inode earlier")

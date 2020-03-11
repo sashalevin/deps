@@ -1,0 +1,8 @@
+185cfaf7641e ("y2038: Compile utimes()/futimesat() conditionally")
+82b355d161c9 ("y2038: Remove newstat family from default syscall set")
+3c1c456f9b96 ("syscalls: sort syscall prototypes in include/linux/syscalls.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+f13903587c18 ("fs: add do_futimesat() helper; remove internal call to sys_futimesat()")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")
+cc73fee0bae2 ("Merge branch 'work.ipc' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

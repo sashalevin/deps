@@ -1,0 +1,3 @@
+edb25572fc70 ("mmc: core: Use kref in place of struct mmc_blk_data::usage")
+607d968a5769 ("mmc: switch to blk_mq_alloc_disk")
+249cda3325e0 ("mmc: remove an extra blk_{get,put}_queue pair")

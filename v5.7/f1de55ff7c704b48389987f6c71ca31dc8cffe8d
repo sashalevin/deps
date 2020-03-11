@@ -1,0 +1,6 @@
+f1de55ff7c70 ("dmaengine: ipu: Remove the driver")
+3f0dedc39039 ("dmaengine: remove MODULE_LICENSE in non-modules")
+41614014a7af ("dmaengine: ipu: Fix fall-through warning for Clang")
+acbef0922c7d ("dmaengine: ipu: fix doc warning in ipu_irq.c")
+f3b1024908ec ("dmaengine: ipu_idmac: remove redundant irqsave and restore in hardIRQ")
+fae985d3ea16 ("dmaengine: ipu: convert tasklets to use new tasklet_setup() API")

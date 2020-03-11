@@ -1,0 +1,5 @@
+d512b008fafb ("mt76: sdio: export mt76s_alloc_rx_queue and mt76s_alloc_tx routines")
+a2a93548db88 ("mt76: sdio: introduce mt76s_alloc_tx_queue")
+6a618acb7e62 ("mt76: sdio: convert {status/net}_work to mt76_worker")
+fefb584d460a ("mt76: mt7663s: convert txrx_work to mt76_worker")
+e0ad80024329 ("mt76: mt7663s: move tx/rx processing in the same txrx workqueue")

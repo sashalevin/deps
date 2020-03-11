@@ -1,0 +1,5 @@
+75086cc6dee0 ("wifi: ath9k: Fix possible stall on ath9k_txq_list_has_key()")
+ca2848022c12 ("ath9k: Postpone key cache entry deletion for TXQ frames reference it")
+144cd24dbc36 ("ath: Modify ath_key_delete() to not need full key entry")
+73488cb2fa3b ("ath9k: Clear key cache explicitly on disabling hardware")
+56c5485c9e44 ("ath: Use safer key clearing with key cache entries")

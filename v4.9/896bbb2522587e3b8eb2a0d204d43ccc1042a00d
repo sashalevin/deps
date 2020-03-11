@@ -1,0 +1,5 @@
+896bbb252258 ("sched/core: Allow __sched_setscheduler() in interrupts when PI is not used")
+d1ccc66df8bf ("sched/core: Clean up comments")
+cb42c9a3ebbb ("sched/core: Add debugging code to catch missing update_rq_clock() calls")
+92509b732baf ("sched/core: Reset RQCF_ACT_SKIP before unpinning rq->lock")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")

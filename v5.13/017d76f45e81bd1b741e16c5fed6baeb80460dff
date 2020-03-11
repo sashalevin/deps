@@ -1,0 +1,4 @@
+017d76f45e81 ("rnbd-clt: kill read_only from struct rnbd_clt_dev")
+030ce8ba97d2 ("block/rnbd: client device does not care queue/rotational")
+2e9e31bea019 ("rnbd: add error handling support for add_disk()")
+2c6ee0ae5fc7 ("rnbd: use blk_mq_alloc_disk and blk_cleanup_disk")

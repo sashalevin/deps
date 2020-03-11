@@ -1,0 +1,4 @@
+4aa1464acbe3 ("spi: spi-geni-qcom: Fix geni_spi_isr() NULL dereference in timeout case")
+6d66507d9b55 ("spi: spi-geni-qcom: Don't wait to start 1st transfer if transmitting")
+2ee471a1e28e ("spi: spi-geni-qcom: Mo' betta locking")
+539afdf969d6 ("spi: spi-geni-qcom: No need for irqsave variant of spinlock calls")

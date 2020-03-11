@@ -1,0 +1,6 @@
+81c6896049b6 ("random: vDSO: don't use 64-bit atomics on 32-bit architectures")
+4ad10a5f5f78 ("random: introduce generic vDSO getrandom() implementation")
+6bb20c152b6b ("random: do not include <asm/archrandom.h> from random.h")
+bbc7e1bed1f5 ("random: add back async readiness notifier")
+9148de3196ed ("random: reseed in delayed work rather than on-demand")
+2c03e16f4499 ("random: remove early archrandom abstraction")

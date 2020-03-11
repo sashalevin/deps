@@ -1,0 +1,7 @@
+e6b7e64cb119 ("spi: st-ssc4: switch to use modern name")
+321599693213 ("spi: st-ssc4: Covert to use GPIO descriptors")
+5ef76dac0f2c ("spi: st-ssc4: Fix unbalanced pm_runtime_disable() in probe error path")
+cd050abeba2a ("spi: st-ssc4: add missed pm_runtime_disable")
+338dd352acf0 ("spi: st-ssc4: use devm_platform_ioremap_resource() to simplify code")
+f3949fd021ff ("treewide: Replace GPLv2 boilerplate/reference with SPDX - rule 310")
+0b0cda4102de ("spi: st-ssc4: whitespace cleanup")

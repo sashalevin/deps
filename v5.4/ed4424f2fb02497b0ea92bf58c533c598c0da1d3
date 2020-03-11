@@ -1,0 +1,6 @@
+ed4424f2fb02 ("crypto: atmel-tdes - use semicolons rather than commas to separate statements")
+aebe5bd76583 ("crypto: atmel-{aes,sha,tdes} - Group common alg type init in dedicated methods")
+7c783029eab8 ("crypto: atmel-{sha,tdes} - Change algorithm priorities")
+967d4910ef0e ("crypto: atmel-tdes - switch to skcipher API")
+7ada42d2519e ("crypto: atmel-aes - switch to skcipher API")
+86ef1dfcb561 ("crypto: atmel-aes - Fix IV handling when req->nbytes < ivsize")

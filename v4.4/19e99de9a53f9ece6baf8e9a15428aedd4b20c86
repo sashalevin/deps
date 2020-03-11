@@ -1,0 +1,5 @@
+19e99de9a53f ("ARM: davinci: remove dead code related to MAC address reading")
+04b9665b54f7 ("ARM: davinci: only use NVMEM when available")
+bec3c11bad0e ("misc: at24: replace memory_accessor with nvmem_device_read")
+57d155506dd5 ("eeprom: at24: extend driver to plug into the NVMEM framework")
+092462c2b522 ("misc: eeprom: use kobj_to_dev()")

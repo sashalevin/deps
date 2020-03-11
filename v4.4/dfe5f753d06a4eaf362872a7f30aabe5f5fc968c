@@ -1,0 +1,7 @@
+dfe5f753d06a ("mei: drop redundant krealloc and checks in irq read")
+a808c80cdaa8 ("mei: add read callback on demand for fixed_address clients")
+06ee536bcb15 ("mei: fill file pointer in read cb for fixed address client")
+f862b6b24f0f ("mei: fix possible integer overflow issue")
+fdd9b8655933 ("mei: wd: drop the watchdog code from the core mei driver")
+b86d1bd8d1a0 ("mei: drop nfc leftovers from the mei driver")
+8b2458f413c4 ("mei: always copy the read buffer if data is ready")

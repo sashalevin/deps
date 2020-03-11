@@ -1,0 +1,7 @@
+6500ad28fd5d ("spi: sh-msiof: avoid integer overflow in constants")
+8ae7d4423930 ("spi: sh-msiof: Do not redefine STR while compile testing")
+635bdb7a3e1f ("spi: sh-msiof: Reduce delays in sh_msiof_modify_ctr_wait()")
+fedd6940682a ("spi: sh-msiof: Add reset of registers before starting transfer")
+9115b4d89b21 ("spi: sh-msiof: Use readl_poll_timeout_atomic() instead of open-coding")
+5a4df21e8371 ("spi: sh-msiof: Use BIT() and GENMASK()")
+35c35fd92564 ("spi: sh-msiof: Replace spi_master by spi_controller")

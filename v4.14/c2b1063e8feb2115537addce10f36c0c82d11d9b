@@ -1,0 +1,7 @@
+c2b1063e8feb ("genirq: Add a IRQF_NO_DEBUG flag")
+cbe16f35bee6 ("genirq: Add IRQF_NO_AUTOEN for request_irq/nmi()")
+83cfac95c018 ("genirq: Allow interrupts to be excluded from /proc/interrupts")
+b525903c254d ("genirq: Provide basic NMI management for interrupt lines")
+72a8edc2d913 ("genirq/debugfs: Add missing IRQCHIP_SUPPORTS_LEVEL_MSI debug")
+6988e0e0d283 ("genirq/msi: Limit level-triggered MSI to platform devices")
+4f8413a3a799 ("genirq: Track whether the trigger type has been set")

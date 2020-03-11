@@ -1,0 +1,8 @@
+999f2f9a63f4 ("erofs: get rid of z_erofs_do_map_blocks() forward declaration")
+b780d3fc6107 ("erofs: simplify iloc()")
+664609e49f1c ("erofs: fix illegal unmapped accesses in z_erofs_fill_inode_lazy()")
+312fe643ad11 ("erofs: clean up erofs_iget()")
+53a7f9961cdd ("erofs: clean up unnecessary code and comments")
+b15b2e307c3a ("erofs: support on-disk compressed fragments data")
+fdffc091e6f9 ("erofs: support interlaced uncompressed data for compressed files")
+2f44013e3998 ("erofs: fix pcluster use-after-free on UP platforms")

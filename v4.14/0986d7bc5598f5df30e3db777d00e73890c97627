@@ -1,0 +1,6 @@
+0986d7bc5598 ("tty: hvc: pass DMA capable memory to put_chars()")
+30480f65b575 ("tty: hvc: use correct dma alignment size")
+9a9fc42b86c0 ("tty: hvc: fix buffer overflow during hvc_alloc().")
+9f65b81f36e3 ("tty: hvc: introduce the hv_ops.flush operation for hvc drivers")
+550ddadcc758 ("tty: hvc: hvc_write() may sleep")
+a9bf5c8a271b ("tty: hvc: use mutex instead of spinlock for hvc_structs lock")

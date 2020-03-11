@@ -1,0 +1,8 @@
+3e7f57d1ef3f ("iommu: Remove sva handle list")
+14678219cf40 ("iommu: Introduce domain attachment handle")
+d2f85a263883 ("iommu: Pass domain to remove_dev_pasid() op")
+b025dea63cde ("iommu: Undo pasid attachment only for the devices that have succeeded")
+c404f55c26fc ("iommu: Validate the PASID in iommu_attach_device_pasid()")
+6384c56c99d9 ("iommu/sva: Fix SVA handle sharing in multi device case")
+65d4418c5002 ("iommu/sva: Restore SVA handle sharing")
+75f74f85a42e ("Merge branches 'apple/dart', 'arm/rockchip', 'arm/smmu', 'virtio', 'x86/vt-d', 'x86/amd' and 'core' into next")

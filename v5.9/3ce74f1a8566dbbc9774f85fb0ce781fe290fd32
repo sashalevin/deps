@@ -1,0 +1,7 @@
+3ce74f1a8566 ("tick: Move got_idle_tick away from common flags")
+605da849d598 ("timers/nohz: Restructure and reshuffle struct tick_sched")
+a1ff03cd6fb9 ("tick: Detect and fix jiffies update stall")
+4bf07f6562a0 ("timekeeping, clocksource: Fix various typos in comments")
+33e62e832384 ("ntp, rtc: Move rtc_set_ntp_time() to ntp code")
+c9e6189fb031 ("ntp: Make the RTC synchronization more reliable")
+e2d977c9f1ab ("timekeeping: Provide multi-timestamp accessor to NMI safe timekeeper")

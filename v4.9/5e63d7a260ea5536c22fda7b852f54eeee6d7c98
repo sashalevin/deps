@@ -1,0 +1,7 @@
+5e63d7a260ea ("iio: adc: rockchip_saradc: Use dev_err_probe")
+47902344c8c3 ("iio: adc: rockchip_saradc: Use of_device_get_match_data")
+948b3b3daf2b ("iio: adc: rockchip_saradc: Make use of the helper function devm_platform_ioremap_resource()")
+4e130dc7b413 ("iio: adc: rockchip_saradc: Add support iio buffers")
+71eb7c855bd0 ("iio: adc: rockchip_saradc: better prefix for channel constant")
+d0389d4ed3c5 ("iio: adc: rockchip_saradc: move all of probe to devm-functions")
+36d311bc1663 ("iio: adc: rockchip_saradc: add NULL check on of_match_device() return value")

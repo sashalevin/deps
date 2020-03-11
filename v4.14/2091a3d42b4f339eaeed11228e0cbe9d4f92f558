@@ -1,0 +1,3 @@
+2091a3d42b4f ("slcan: not call free_netdev before rtnl_unlock in slcan_open")
+9ebd796e2400 ("can: slcan: Fix use-after-free Read in slcan_open")
+ed50e1600b44 ("slcan: Fix memory leak in error path")

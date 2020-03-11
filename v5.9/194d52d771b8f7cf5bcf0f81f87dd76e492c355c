@@ -1,0 +1,8 @@
+194d52d771b8 ("tools/vm/page_owner_sort: support for sorting by task command name")
+cf3c2c8678a0 ("tools/vm/page_owner_sort.c: support sorting by tgid and update documentation")
+57f2b54a9379 ("Documentation/vm/page_owner.rst: update the documentation")
+8f9c447e2e2b ("tools/vm/page_owner_sort.c: support sorting pid and time")
+cd75ea0e3262 ("tools/vm/page_owner_sort.c: add switch between culling by stacktrace and txt")
+82f5ebc2beb3 ("tools/vm/page_owner_sort.c: support sorting by stack trace")
+ba5a396be51c ("tools/vm/page_owner_sort.c: sort by stacktrace before culling")
+f7df2b1cf03a ("tools/vm/page_owner_sort.c: count and sort by mem")

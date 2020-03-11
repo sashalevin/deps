@@ -1,0 +1,6 @@
+bbdd82c752d6 ("usb: xhci: move all segment re-numbering to xhci_link_rings()")
+35899f58fe13 ("xhci: Adjust segment numbers after ring expansion")
+f5af638f0609 ("xhci: Fix transfer ring expansion size calculation")
+0b86f02d91c8 ("usb: xhci: fix minmax.cocci warnings")
+04d21f7219ac ("xhci: prevent a theoretical endless loop while preparing rings.")
+e3bc8004bde7 ("xhci: Don't pass struct xhci_hcd pointer to xhci_link_seg()")

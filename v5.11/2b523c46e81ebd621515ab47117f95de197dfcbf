@@ -1,0 +1,7 @@
+2b523c46e81e ("i2c: rcar: introduce Gen4 devices")
+0e864b552b23 ("i2c: rcar: reset controller is mandatory for Gen3+")
+ea01b71b0799 ("i2c: rcar: Add R-Car Gen4 support")
+147178cf03a6 ("i2c: rcar: add IRQ check")
+9c975c432bc0 ("i2c: rcar: protect against supurious interrupts on V3U")
+24c6d4bc5638 ("i2c: rcar: make sure irq is not threaded on Gen2 and earlier")
+c7b514ec979e ("i2c: rcar: faster irq code to minimize HW race condition")

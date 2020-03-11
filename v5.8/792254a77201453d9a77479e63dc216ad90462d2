@@ -1,0 +1,6 @@
+792254a77201 ("powerpc/security: Fix link stack flush instruction")
+4d24e21cc694 ("powerpc/security: Allow for processors that flush the link stack using the special bcctr")
+c0036549a9d9 ("powerpc/security: split branch cache flush toggle from code patching")
+1afe00c74ffe ("powerpc/security: make display of branch cache flush more consistent")
+c06ac2771070 ("powerpc/security: change link stack flush state to the flush type enum")
+1026798c644b ("powerpc/security: re-name count cache flush to branch cache flush")

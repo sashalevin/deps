@@ -1,0 +1,4 @@
+7c9ff3deeee6 ("Drivers: hv: vmbus: Fix duplicate CPU assignments within a device")
+8a99e5013454 ("Drivers: hv: vmbus: Remove unnecessary channel->lock critical sections (sc_list updaters)")
+458d090fbad5 ("Drivers: hv: vmbus: Remove the numa_node field from the vmbus_channel struct")
+5bf74682118b ("Drivers: hv: vmbus: Remove the target_vp field from the vmbus_channel struct")

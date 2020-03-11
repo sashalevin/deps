@@ -1,0 +1,7 @@
+b03c3884ca8c ("spi: imx: set MX51_ECSPI_CTRL_SMC bit in setup function")
+882f329f31cb ("spi: imx: drop unncessary dma_is_inited variable")
+390f0ffe92ae ("spi: imx: allow only WML aligned transfers to use DMA")
+f677f17cced0 ("spi: imx: fix loopback mode setup after controller reset")
+0dfbaa8932a6 ("spi: imx: replace multiple watermarks with single for RX, TX and RXT")
+fab44ef1adcc ("spi: imx: reorder HW operations enable order to avoid possible RX data loss")
+9f6aa42bbbb2 ("spi: imx: Add loopback mode support")

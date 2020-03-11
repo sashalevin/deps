@@ -1,0 +1,7 @@
+67ac72a599d8 ("net/mlx5: Add .getmaxphase ptp_clock_info callback")
+d3c8a33a5cad ("net/mlx5: Add hardware extended range support for PTP adjtime and adjphase")
+8e11a68e2e8a ("net/mlx5: Add adjphase function to support hardware-only offset control")
+d8aad3f3694f ("ptp: mlx5: convert to .adjfine and adjust_by_scaled_ppm")
+271907ee2f29 ("net/mlx5: Query the maximum MCIA register read size from firmware")
+72fb3b60a311 ("net/mlx5: Add reset_state field to MFRL register")
+e19b0a3474ab ("net/mlx5: Refactor module EEPROM query")

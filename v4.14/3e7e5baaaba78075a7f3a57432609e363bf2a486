@@ -1,0 +1,5 @@
+3e7e5baaaba7 ("bitmap: don't assume compiler evaluates small mem*() builtins calls")
+c8cebc553368 ("linux/bitmap.h: remove redundant uses of small_const_nbits()")
+21035965f60b ("bitmap: fix memset optimization on big-endian systems")
+334cfa48d38f ("include/linux/bitmap.h: make bitmap_fill() and bitmap_zero() consistent")
+7d7363e403ce ("documentation: kernel-api: add more info on bitmap functions")

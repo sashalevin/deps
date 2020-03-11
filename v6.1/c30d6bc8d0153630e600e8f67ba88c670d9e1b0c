@@ -1,0 +1,3 @@
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")
+5df397dec7c4 ("mm: delay page_remove_rmap() until after the TLB has been flushed")
+7cc8f9c7146a ("mm: mmu_gather: prepare to gather encoded page pointers with flags")

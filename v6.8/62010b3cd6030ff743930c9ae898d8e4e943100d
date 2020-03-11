@@ -1,0 +1,8 @@
+62010b3cd603 ("drm/xe: Move xe_gpu_commands.h file to instructions/")
+b7f6318a9c3d ("drm/xe: Fix xe_device.h")
+7348a9a11228 ("drm/xe: Don't rely on xe_assert.h to be included elsewhere")
+48651e18bbe0 ("drm/xe: Move PTE/PDE bit definitions to proper header")
+7da3f561cbdf ("drm/xe: Move HW GGTT definitions to dedicated file")
+a24d9099777d ("drm/xe: Do not include current dir for generated/xe_wa_oob.h")
+1e5a4dfe3834 ("drm/xe: drop display/ subdir from include directories")
+33ff1f21bd2f ("drm/xe: Allow to exclude part of GGTT from allocations")

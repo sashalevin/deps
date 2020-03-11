@@ -1,0 +1,5 @@
+1c1a2ee1b53b ("bcache: return 0 from bch_debug_init() if CONFIG_DEBUG_FS=n")
+df2b94313ae5 ("bcache: move closure debug file into debug directory")
+539d39eb2708 ("bcache: fix wrong return value in bch_debug_init()")
+25d8be77e192 ("block: move bio_alloc_pages() to bcache")
+330a4db89d39 ("bcache: explicitly destroy mutex while exiting")

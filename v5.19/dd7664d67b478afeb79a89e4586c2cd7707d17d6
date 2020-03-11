@@ -1,0 +1,4 @@
+dd7664d67b47 ("riscv: Mark KASAN tmp* page tables variables as static")
+96f9d4daf745 ("riscv: Rework kasan population functions")
+cd0334e1c091 ("riscv: Split early and final KASAN population functions")
+9f2ac64d6ca6 ("riscv: mm: add missing memcpy in kasan_init")

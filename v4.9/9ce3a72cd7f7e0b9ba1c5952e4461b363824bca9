@@ -1,0 +1,7 @@
+9ce3a72cd7f7 ("iommu/amd: Free already flushed ring-buffer entries before full-check")
+ac3b708ad49f ("iommu/amd: Remove queue_release() function")
+fca6af6a5976 ("iommu/amd: Add per-domain timer to flush per-cpu queues")
+a6e3f6f03039 ("iommu/amd: Add flush counters to struct dma_ops_domain")
+e241f8e76c15 ("iommu/amd: Add locking to per-domain flush-queue")
+fd62190a67d6 ("iommu/amd: Make use of the per-domain flush queue")
+d4241a276119 ("iommu/amd: Add per-domain flush-queue data structures")

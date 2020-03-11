@@ -1,0 +1,6 @@
+77461c108191 ("net: dqs: Do not use extern for unused dql_group")
+74293ea1c4db ("net: sysfs: Do not create sysfs for non BQL device")
+d755407d4444 ("net-sysfs: add queue_change_owner()")
+e6dee9f3893c ("net-sysfs: add netdev_change_owner()")
+e0b60903b434 ("net-sysfs: Call dev_hold always in netdev_queue_add_kobject")
+b8eb718348b8 ("net-sysfs: Fix reference count leak in rx|netdev_queue_add_kobject")

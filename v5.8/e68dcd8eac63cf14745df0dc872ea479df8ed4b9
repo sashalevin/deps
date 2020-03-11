@@ -1,0 +1,6 @@
+e68dcd8eac63 ("kcsan: Re-add GCC as a supported compiler")
+0bb9ab3a6fa7 ("kcsan: Update Documentation to change supported compilers")
+0e1aa5b62160 ("kcsan: Restrict supported compilers")
+17168f5c1bef ("kcsan: Avoid inserting __tsan_func_entry/exit if possible")
+ea91a1d45d19 ("ubsan, kcsan: Don't combine sanitizer with kcov on clang")
+97a9474aeb78 ("Merge branch 'kcsan-for-tip' of git://git.kernel.org/pub/scm/linux/kernel/git/paulmck/linux-rcu into locking/kcsan")

@@ -1,0 +1,5 @@
+8422acdc97ed ("mm: introduce a pageflag for partially mapped folios")
+8175ebfd302a ("mm: count the number of partially mapped anonymous THPs per size")
+5d65c8d758f2 ("mm: count the number of anonymous THPs per size")
+246d3aa3e531 ("mm: cleanup count_mthp_stat() definition")
+6654d28995d2 ("mm/rmap: cleanup partially-mapped handling in __folio_remove_rmap()")

@@ -1,0 +1,5 @@
+e188e5d5ffd0 ("s390/setup: Fix __pa/__va for modules under non-GPL licenses")
+7de0446f0b26 ("s390/boot: Make identity mapping base address explicit")
+3bb11234b1d1 ("s390/boot: Uncouple virtual and physical kernel offsets")
+236f324b7473 ("s390/mm: Create virtual memory layout structure")
+bbe72f390222 ("s390/mm: Move KASLR related to <asm/page.h>")

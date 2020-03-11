@@ -1,0 +1,6 @@
+0c8d604dea43 ("i2c: xiic: Fix pm_runtime_set_suspended() with runtime pm enabled")
+8390dc7477e4 ("i2c: xiic: Use devm_clk_get_enabled()")
+9dbba3f87c78 ("i2c: xiic: Simplify with dev_err_probe()")
+10b17004a74c ("i2c: xiic: Fix the clocking across bind unbind")
+c9d059681b84 ("i2c: xiic: defer the probe if clock is not found")
+b4c119dbc300 ("i2c: xiic: Add timeout to the rx fifo wait loop")

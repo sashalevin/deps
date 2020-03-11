@@ -1,0 +1,5 @@
+34ad34bf06ca ("iavf: rely on netdev's own registered state")
+d1639a17319b ("iavf: fix a deadlock caused by rtnl and driver's lock circular dependencies")
+7598f4b40bd6 ("iavf: Move netdev_update_features() into watchdog task")
+35a2443d0910 ("iavf: Add waiting for response from PF in set mac")
+1e8a3f0d2a1e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

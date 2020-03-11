@@ -1,0 +1,8 @@
+e67b2ec9f617 ("selinux: store role transitions in a hash table")
+ae3d8c2e27bf ("selinux: fix wrong buffer types in policydb.c")
+d97bd23c2d7d ("selinux: cache the SID -> context string translation")
+66f8e2f03c02 ("selinux: sidtab reverse lookup hash table")
+116f21bb967f ("selinux: avoid atomic_t usage in sidtab")
+0eb2f2962489 ("selinux: shuffle around policydb.c to get rid of forward declarations")
+9e0cfe28fa32 ("selinux: remove useless assignments")
+3ac96c30ccfa ("Merge tag 'selinux-pr-20190305' of git://git.kernel.org/pub/scm/linux/kernel/git/pcmoore/selinux")

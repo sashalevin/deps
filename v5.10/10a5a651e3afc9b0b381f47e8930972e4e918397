@@ -1,0 +1,4 @@
+10a5a651e3af ("workqueue: Restrict kworker in the offline CPU pool running on housekeeping CPUs")
+5c25b5ff89f0 ("workqueue: Tag bound workers with KTHREAD_IS_PER_CPU")
+547a77d02f8c ("workqueue: Use cpu_possible_mask instead of cpu_active_mask to break affinity")
+06249738a41a ("workqueue: Manually break affinity on hotplug")

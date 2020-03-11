@@ -1,0 +1,8 @@
+342fb9789267 ("kunit: Reset test->priv after each param iteration")
+ee5f8cc2770b ("kunit: Reset test status on each param iteration")
+d273b72846d6 ("kunit/test: Add example test showing parameterized testing")
+e047c5eaa763 ("kunit: Expose 'static stub' API to redirect functions")
+7170b7ed6acb ("kunit: Add "hooks" to call into KUnit when it's built as a module")
+db105c37a4d6 ("kunit: Export kunit_running()")
+91e93592219f ("kunit: Use the static key when retrieving the current test")
+908d0c177bbc ("kunit: Provide a static key to check if KUnit is actively running tests")

@@ -1,0 +1,5 @@
+8a01ec97dc06 ("x86/mce: Mask out non-address bits from machine check bank")
+2738c69a8813 ("EDAC/i10nm: Add driver decoder for Ice Lake and Tremont CPUs")
+5898b43af954 ("mce: fix set_mce_nospec to always unmap the whole page")
+b3fdf9398a16 ("x86/mce: relocate set{clear}_mce_nospec() functions")
+03b122da74b2 ("x86/sgx: Hook arch_memory_failure() into mainline code")

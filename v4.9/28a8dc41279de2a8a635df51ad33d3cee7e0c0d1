@@ -1,0 +1,6 @@
+28a8dc41279d ("ima: use ima_parse_buf() to parse template data")
+d68a6fe9fccf ("ima: define a canonical binary_runtime_measurements list format")
+7b8589cc29e7 ("ima: on soft reboot, save the measurement list")
+d158847ae89a ("ima: maintain memory size needed for serializing the measurement list")
+dcfc56937b62 ("ima: permit duplicate measurement list entries")
+94c3aac567a9 ("ima: on soft reboot, restore the measurement list")

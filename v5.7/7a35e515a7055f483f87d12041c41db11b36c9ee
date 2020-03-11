@@ -1,0 +1,7 @@
+7a35e515a705 ("KVM: VMX: Properly handle kvm_read/write_guest_virt*() result")
+ce8fe7b77bd8 ("KVM: nVMX: Free only the affected contexts when emulating INVEPT")
+ee1fa209f5e5 ("KVM: x86: Sync SPTEs when injecting page/EPT fault into L1")
+0cd665bd20f9 ("KVM: x86: cleanup kvm_inject_emulated_page_fault")
+53b3d8e9d577 ("KVM: x86: Export kvm_propagate_fault() (as kvm_inject_emulated_page_fault)")
+f8aa7e3958bc ("KVM: nVMX: Invalidate all EPTP contexts when emulating INVEPT for L1")
+eed0030e4caa ("KVM: nVMX: Validate the EPTP when emulating INVEPT(EXTENT_CONTEXT)")

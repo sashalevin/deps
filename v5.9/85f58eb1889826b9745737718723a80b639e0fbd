@@ -1,0 +1,4 @@
+85f58eb18898 ("arm64: kdump: Skip kmemleak scan reserved memory for kdump")
+2b8652936f0c ("arm64: mm: Set ZONE_DMA size based on early IORT scan")
+8424ecdde7df ("arm64: mm: Set ZONE_DMA size based on devicetree's dma-ranges")
+9804f8c69b04 ("arm64: mm: Move zone_dma_bits initialization into zone_sizes_init()")

@@ -1,0 +1,8 @@
+da74b6933b3b ("wlcore: fix runtime pm imbalance in wlcore_irq_locked")
+9b71578de087 ("wlcore: Enable runtime PM autosuspend support")
+db68052bdf58 ("wlcore: Fix timout errors after recovery")
+3ebbabea4219 ("wlcore: Fix misplaced PM call for scan_complete_work()")
+fa2648a34e73 ("wlcore: Add support for runtime PM")
+02edf81362fe ("wlcore: Make sure PM calls are paired")
+4ec7cece87b3 ("wlcore: Add missing PM call for wlcore_cmd_wait_for_event_or_timeout()")
+37bf241b8e7b ("wlcore: allow elp during wowlan suspend")

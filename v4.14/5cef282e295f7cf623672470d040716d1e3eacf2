@@ -1,0 +1,7 @@
+5cef282e295f ("iommu: dma: Use of_iommu_get_resv_regions()")
+c18647900ec8 ("iommu/dma: Relax locking in iommu_dma_prepare_msi()")
+ece6e6f0218b ("iommu/dma-iommu: Split iommu_dma_map_msi_msg() in two parts")
+2da274cdf998 ("iommu/dma: Add support for non-strict mode")
+cd2c9fcf5c66 ("iommu/dma: Move PCI window region reservation back into dma specific path.")
+f51dc89265da ("iommu/dma: Add HW MSI(GICv3 ITS) address regions reservation")
+aa3ac9469c18 ("iommu/iova: Make dma_32bit_pfn implicit")

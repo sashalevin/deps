@@ -1,0 +1,4 @@
+cecbb5da9212 ("cxl/hdm: Default CXL_DEVTYPE_DEVMEM decoders to CXL_DECODER_DEVMEM")
+5aa39a9165cf ("cxl/port: Rename CXL_DECODER_{EXPANDER, ACCELERATOR} => {HOSTONLYMEM, DEVMEM}")
+c841ecd82771 ("cxl/hdm: Add more HDM decoder debug messages at startup")
+1423885c84a5 ("cxl/hdm: Use 4-byte reads to retrieve HDM decoder base+limit")

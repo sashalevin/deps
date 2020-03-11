@@ -1,0 +1,6 @@
+66b9c182538e ("mwifiex: don't do unbalanced free()'ing in cleanup_if()")
+d3f04ece53a4 ("mwifiex: use dev_err() instead of pr_err() in mwifiex_sdio_probe()")
+a82f65aae143 ("mwifiex: consolidate mwifiex_sdio_probe() error paths")
+032e0f546c7e ("mwifiex: propagate mwifiex_add_card() errno code in mwifiex_sdio_probe()")
+cc524d1706b7 ("mwifiex: propagate sdio_enable_func() errno code in mwifiex_sdio_probe()")
+ce4f6f0c353b ("mwifiex: add platform specific wakeup interrupt support")

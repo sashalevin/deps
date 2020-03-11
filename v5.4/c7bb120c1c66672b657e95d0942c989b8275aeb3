@@ -1,0 +1,8 @@
+c7bb120c1c66 ("mmc: mtk-sd: Use readl_poll_timeout_atomic in msdc_reset_hw")
+ffaea6ebfe9c ("mmc: mtk-sd: Use readl_poll_timeout instead of open-coded polling")
+e8a1ff659270 ("mmc: mediatek: Move cqhci init behind ungate clock")
+f5eccd94b63f ("mmc: mediatek: Add subsys clock control for MT8192 msdc")
+88bd652b3c74 ("mmc: mediatek: command queue support")
+1be64c7963f8 ("mmc: host: Drop redundant MMC_CAP_ERASE")
+e53b868b3cf5 ("mmc: meson-mx-sdio: Set MMC_CAP_WAIT_WHILE_BUSY")
+8f34e5bd7024 ("mmc: mediatek: fix CMD_TA to 2 for MT8173 HS200/HS400 mode")

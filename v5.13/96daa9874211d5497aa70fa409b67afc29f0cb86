@@ -1,0 +1,4 @@
+96daa9874211 ("selftests/bpf: Correct map_fd to data_fd in tailcalls")
+5e0b0a4c52d3 ("selftests/bpf: Test tail call counting with bpf2bpf and data on stack")
+1fb5ba29ad08 ("bpf: Selftest to verify mixing bpf2bpf calls and tailcalls with insn patch")
+256eab48e70c ("selftests/bpf: Stop using static variables for passing data to/from user-space")

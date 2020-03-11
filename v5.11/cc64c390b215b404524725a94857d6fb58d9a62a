@@ -1,0 +1,8 @@
+cc64c390b215 ("ASoC: rsnd: adg: clearly handle clock error / NULL case")
+d668a5e2409b ("ASoC: rsnd: adg: check return value for rsnd_adg_get_clkin/out()")
+cb2f97d89f38 ("ASoC: rsnd: adg: use more simple method for null_clk")
+b48e4aa48931 ("ASoC: rsnd: adg: tidyup rsnd_adg_get_clkin/out() parameter")
+1f9c82b5ab83 ("ASoC: rsnd: add debugfs support")
+965386c97616 ("ASoC: rsnd: call unregister for null_hw when removed")
+d6956a7dde6f ("ASoC: rsnd: add null CLOCKIN support")
+b6e499bcb32f ("ASoC: rsnd: cleanup ppcheck warning for adg.c")

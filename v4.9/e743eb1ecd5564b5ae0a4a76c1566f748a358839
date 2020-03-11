@@ -1,0 +1,6 @@
+e743eb1ecd55 ("block: remove unused syncfull/asyncfull queue flags")
+f4560ffe8cec ("blk-mq: use QUEUE_FLAG_QUIESCED to quiesce queue")
+e4e739131ac9 ("blk-mq: introduce blk_mq_unquiesce_queue")
+4f084b41a0c0 ("blk-mq: introduce blk_mq_quiesce_queue_nowait()")
+97e0120990f4 ("blk-mq: move blk_mq_quiesce_queue() into include/linux/blk-mq.h")
+8f66439eec46 ("Merge tag 'v4.12-rc5' into for-4.13/block")

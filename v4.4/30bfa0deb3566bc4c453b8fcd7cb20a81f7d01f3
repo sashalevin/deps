@@ -1,0 +1,8 @@
+30bfa0deb356 ("ARM: OMAP2: kill omap2_pmic_init")
+873fe3f9ef81 ("ARM: OMAP3: kill omap3_pmic_init")
+482fde8c2d41 ("ARM: OMAP3: kill omap3_pmic_get_config and twl_{get,set}_voltage")
+c01cda4c3515 ("ARM: OMAP4: kill omap4_pmic_init and omap4_pmic_get_config")
+502ad2a669f1 ("ARM: OMAP2+: use IS_ENABLED() instead of checking for built-in or module")
+8453c5cafd32 ("ARM: OMAP2+: Add more functions to pwm pdata for ir-rx51")
+20437f79f662 ("ARM: OMAP: Add PWM dmtimer platform data quirks")
+859e76254490 ("Merge tag 'pwm/for-4.5-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/thierry.reding/linux-pwm")

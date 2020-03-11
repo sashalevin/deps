@@ -1,0 +1,7 @@
+b7c8e1f8a7b4 ("hrtimer: Rename __hrtimer_hres_active() to hrtimer_hres_active()")
+f80e21489590 ("hrtimer: Unbreak hrtimer_force_reprogram()")
+9482fd71dbb8 ("hrtimer: Use raw_cpu_ptr() in clock_was_set()")
+81d741d3460c ("hrtimer: Avoid unnecessary SMP function calls in clock_was_set()")
+e71a4153b7c2 ("hrtimer: Force clock_was_set() handling for the HIGHRES=n, NOHZ=y case")
+b14bca97c9f5 ("hrtimer: Consolidate reprogramming code")
+46eb1701c046 ("hrtimer: Update softirq_expires_next correctly after __hrtimer_get_next_event()")

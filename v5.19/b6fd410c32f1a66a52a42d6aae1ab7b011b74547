@@ -1,0 +1,7 @@
+b6fd410c32f1 ("memory-failure: use a folio in me_huge_page()")
+dbe70dbb41ab ("mm: memory-failure: remove unneeded PageHuge() check")
+8625147cafaa ("hugetlbfs: don't delete error page from pagecache")
+7e1813d48dd3 ("hugetlb: rename remove_huge_page to hugetlb_delete_from_page_cache")
+ceaf8fbea79a ("mm, hwpoison: skip raw hwpoison page in freeing 1GB hugepage")
+7453bf621cfa ("mm, hwpoison: make __page_handle_poison returns int")
+f00654007fe1 ("Merge tag 'folio-6.0' of git://git.infradead.org/users/willy/pagecache")

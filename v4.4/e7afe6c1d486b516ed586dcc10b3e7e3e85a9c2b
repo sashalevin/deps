@@ -1,0 +1,5 @@
+e7afe6c1d486 ("sunrpc: fix 4 more call sites that were using stack memory with a scatterlist")
+e9e575b8f294 ("gss_krb5: Remove VLA usage of skcipher")
+2876a34466ce ("sunrpc: don't pass on-stack memory to sg_set_buf")
+ef609c238a8e ("sunrpc: Fix skcipher/shash conversion")
+3b5cf20cf439 ("sunrpc: Use skcipher and ahash/shash")

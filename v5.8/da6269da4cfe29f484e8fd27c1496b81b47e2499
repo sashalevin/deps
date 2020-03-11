@@ -1,0 +1,7 @@
+da6269da4cfe ("block: remove REQ_OP_SCSI_{IN,OUT}")
+8d663f34f8af ("blk-mq: bypass IO scheduler's limit_depth for passthrough request")
+e6044f714b25 ("scsi: core: Only process PM requests if rpm_status != RPM_ACTIVE")
+74e5e6c1b18c ("scsi: core: Remove scsi_setup_cmnd() and scsi_setup_fs_cmnd()")
+7007e9dd5676 ("scsi: core: Clean up allocation and freeing of sgtables")
+40b93836a136 ("scsi: core: Use rq_dma_dir in scsi_setup_cmnd()")
+4c7b4d63273d ("scsi: core: Fix formatting errors in scsi_lib.c")

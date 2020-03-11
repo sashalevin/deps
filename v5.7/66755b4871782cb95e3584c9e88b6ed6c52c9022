@@ -1,0 +1,7 @@
+66755b487178 ("drm/qxl: Move ioctl array next to its only user")
+48bd85808443 ("drm/qxl: Convert to Linux IRQ interfaces")
+dc3629ab040e ("drm/qxl: Remove references to struct drm_device.pdev")
+96fb3cbef165 ("drm/qxl: Remove fbcon acceleration leftovers")
+e304f8a0513b ("drm/qxl: Don't use drm_device->dev_private")
+a9b0b24a6fff ("drm/qxl: Use devm_drm_dev_alloc")
+7ce84471e3c7 ("drm: convert .debugfs_init() hook to return void.")

@@ -1,0 +1,6 @@
+825d8bbd2f32 ("dm: always manage discard support in terms of max_hw_discard_sectors")
+fa375646241b ("dm thin: disable discards for thin-pool if no_discard_passdown")
+ef6953fb68fe ("dm thin: update .io_hints methods to not require handling discards last")
+b6bcb8444681 ("dm error: add discard support")
+00065f925efb ("dm zero: add discard support")
+e2dd8aca2d76 ("dm bio prison v1: improve concurrent IO performance")

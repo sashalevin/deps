@@ -1,0 +1,8 @@
+e13ec939e96b ("fs: fix kernel_write prototype")
+bdd1d2d3d251 ("fs: fix kernel_read prototype")
+c41fbad015da ("fs: move kernel_read to fs/read_write.c")
+ac452acae1ca ("fs: move kernel_write to fs/read_write.c")
+680895d6efe4 ("sysctl: switch to use uuid_t")
+dcbe82149cc9 ("mtd: nand: nandsim: convert to memalloc_noreclaim_*()")
+82c156f85384 ("switch generic_file_splice_read() to use of ->read_iter()")
+8e7106a60748 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/gerg/m68knommu")

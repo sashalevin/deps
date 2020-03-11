@@ -1,0 +1,5 @@
+626e5fbc1435 ("locking/qspinlock: Use smp_store_release() in queued_spin_unlock()")
+b247be3fe89b ("locking/qspinlock/x86: Increase _Q_PENDING_LOOPS upper bound")
+3cded4179481 ("x86/paravirt: Optimize native pv_lock_ops.vcpu_is_preempted()")
+de7689cf8f38 ("x86/xen: Support the vCPU preemption check")
+446f3dc8cc0a ("locking/core, x86/paravirt: Implement vcpu_is_preempted(cpu) for KVM and Xen guests")

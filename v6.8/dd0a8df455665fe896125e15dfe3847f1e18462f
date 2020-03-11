@@ -1,0 +1,8 @@
+dd0a8df45566 ("btrfs: convert try_release_extent_state() to take a folio")
+de6f14e83e62 ("btrfs: make try_release_extent_mapping() return a bool")
+078b981aaa56 ("btrfs: rename some variables at try_release_extent_mapping()")
+c2fbd812d749 ("btrfs: pass the extent map tree's inode to remove_extent_mapping()")
+071533da5f2e ("btrfs: tests: error out on unexpected extent map reference count")
+0a308f8095f7 ("btrfs: pass an inode to btrfs_add_extent_mapping()")
+c8293894afa7 ("btrfs: add helpers to get inode from page/folio pointers")
+592a0ce9e2d9 ("btrfs: remove extent_map_tree forward declaration at extent_io.h")

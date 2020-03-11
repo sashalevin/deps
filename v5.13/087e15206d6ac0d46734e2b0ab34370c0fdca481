@@ -1,0 +1,8 @@
+087e15206d6a ("KVM: Set file_operations.owner appropriately for all such structures")
+70375c2d8fa3 ("Revert "KVM: set owner of cpu and vm file operations"")
+3bcd0662d66f ("KVM: X86: Introduce mmu_rmaps_stat per-vm debugfs file")
+93e083d4f4bf ("KVM: x86/mmu: Rename __gfn_to_rmap to gfn_to_rmap")
+601f8af01e5a ("KVM: x86/mmu: Leverage vcpu->last_used_slot for rmap_add and rmap_recycle")
+a75b540451d2 ("KVM: X86: Optimize zapping rmap")
+269e9552d208 ("KVM: const-ify all relevant uses of struct kvm_memory_slot")
+ce55c049459c ("KVM: stats: Support binary stats retrieval for a VCPU")

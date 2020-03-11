@@ -1,0 +1,4 @@
+181d0fb0bb02 ("KVM: SVM: remove dead field from struct svm_cpu_data")
+58356767107a ("KVM: SVM: Allocate sd->save_area with __GFP_ZERO")
+b95c221cac16 ("KVM: SVM: Move SEV VMCB tracking allocation to sev.c")
+3b1902b87bf1 ("KVM: SVM: Zero out the VMCB array used to track SEV ASID association")

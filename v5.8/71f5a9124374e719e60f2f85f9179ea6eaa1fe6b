@@ -1,0 +1,5 @@
+71f5a9124374 ("staging: kpc2000: kpc_dma: rearrange lines exceeding 100 columns")
+95154990a7ae ("staging: kpc2000: kpc_dma: Remove additional goto statements")
+ab7abbcac07e ("staging: kpc2000: kpc_dma: Convert get_user_pages() --> pin_user_pages()")
+b6d13bd9f2c1 ("staging: kpc2000: kpc_dma: Convert set_page_dirty() --> set_page_dirty_lock()")
+63ed1e0287ab ("staging: kpc2000: kpc_dma: Unpin partial pinned pages")

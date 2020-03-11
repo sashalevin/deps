@@ -1,0 +1,5 @@
+7e78781df491 ("drm/virtgpu api: define a dummy fence signaled event")
+cd7f5ca33585 ("drm/virtio: implement context init: add virtio_gpu_fence_event")
+7547675b84bf ("drm/virtio: implement context init: track {ring_idx, emit_fence_info} in virtio_gpu_fence")
+4fb530e5caf7 ("drm/virtio: implement context init: support init ioctl")
+b10790434cf2 ("drm/virtgpu api: create context init feature")

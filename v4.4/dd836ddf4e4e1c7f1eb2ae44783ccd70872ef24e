@@ -1,0 +1,8 @@
+dd836ddf4e4e ("ASoC: topology: Prevent use-after-free in snd_soc_get_pcm_runtime()")
+23b946ce2808 ("ASoC: soc-topology: use modern dai_link style")
+b3718b8f7e9b ("ASoC: topology: free link string in error")
+8f27c4abc2cd ("ASoC: topology: Only use valid names of PCM for the kernel DAI & DAI link")
+67d1c21e3730 ("ASoC: topology: Set CPU DAI name and enable DPCM by default for FE link")
+b84fff5afb16 ("ASoC: topology: Set the link ID when creating a FE DAI link")
+acfc7d46cddc ("ASoC: topology: Add FE DAI links dynamically")
+64527e8a3529 ("ASoC: topology: Add FE DAIs dynamically")

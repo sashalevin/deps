@@ -1,0 +1,5 @@
+8dd998e6e94e ("scsi: be2iscsi: Fix return value in mgmt_open_connection")
+37f216482a72 ("scsi: be2iscsi: Fix gateway APIs to support IPv4 & IPv6")
+291fef26e0f8 ("be2iscsi: Fix MCC WRB leak in open_connection")
+c03a50f7098b ("be2iscsi: Fix mbox synchronization replacing spinlock with mutex")
+6ac999efeeff ("be2iscsi: Fix soft lockup in mgmt_get_all_if_id path using bmbx")

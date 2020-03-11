@@ -1,0 +1,4 @@
+d6d478a14bd3 ("f2fs: continue to do direct IO if we only preallocate partial blocks")
+d5097be55c21 ("f2fs: apply write hints to select the type of segment for direct write")
+25006645d2e7 ("f2fs: still write data if preallocate only partial blocks")
+71ad682c1c29 ("f2fs: convert inline data for direct I/O & FI_NO_PREALLOC")

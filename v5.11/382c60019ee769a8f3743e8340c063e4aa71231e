@@ -1,0 +1,7 @@
+382c60019ee7 ("mptcp: add reset reason options in some places")
+8547ea5f52dd ("mptcp: fix syncookie process if mptcp can not_accept new subflow")
+9238e900d6ec ("mptcp: free resources when the port number is mismatched")
+2fbdd9eaf174 ("mptcp: add the mibs for ADD_ADDR with port")
+5bc56388c74f ("mptcp: add port number check for MP_JOIN")
+ec20e14396ae ("mptcp: add a new helper subflow_req_create_thmac")
+b5e2e42fe566 ("mptcp: drop unused skb in subflow_token_join_request")

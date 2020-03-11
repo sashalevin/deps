@@ -1,0 +1,5 @@
+270a8306917e ("xtensa: extract vmalloc_fault code into a function")
+7b9acbb6aad4 ("xtensa: fix uaccess-related livelock in do_page_fault")
+4ef873226ceb ("mm: introduce fault_signal_pending()")
+f5ee2567921d ("xtensa: get rid of __ARCH_USE_5LEVEL_HACK")
+f0d1eab8c2e1 ("xtensa: mm: fix PMD folding implementation")

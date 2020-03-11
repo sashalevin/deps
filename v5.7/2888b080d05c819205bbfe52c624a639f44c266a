@@ -1,0 +1,3 @@
+2888b080d05c ("netfilter: nftables: fix possible double hook unregistration with table owner")
+00dfe9bebdf0 ("netfilter: nftables: add helper function to release hooks of one single table")
+767d1216bff8 ("netfilter: nftables: fix possible UAF over chains from packet path in netns")

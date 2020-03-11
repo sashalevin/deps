@@ -1,0 +1,6 @@
+4a04d1d14831 ("io_uring: optimise out req->opcode reloading")
+6d63416dc57e ("io_uring: optimise plugging")
+fc0ae0244bbb ("io_uring: init opcode in io_init_req()")
+68fe256aadc0 ("io_uring: optimise io_req_init() sqe flags checks")
+4b628aeb69cc ("io_uring: kill off ios_left")
+a87acfde9491 ("io_uring: dump sqe contents if issue fails")

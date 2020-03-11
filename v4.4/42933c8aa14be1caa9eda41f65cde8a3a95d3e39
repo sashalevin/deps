@@ -1,0 +1,7 @@
+42933c8aa14b ("memstick: rtsx_usb_ms: fix UAF")
+6827ca573c03 ("memstick: rtsx_usb_ms: Support runtime power management")
+ba9d5f83735f ("memstick: rtsx_usb_ms: Use ms_dev() helper")
+01a7e8e066a5 ("memstick: rtsx_usb_ms: Add missing pm_runtime_disable() in probe function")
+9158cb29e7c2 ("memstick: rtsx_usb_ms: Manage runtime PM when accessing the device")
+796aa46adf1d ("memstick: rtsx_usb_ms: Runtime resume the device when polling for cards")
+a831979f855f ("rtsx_usb_ms: use schedule_timeout_idle() in polling loop")

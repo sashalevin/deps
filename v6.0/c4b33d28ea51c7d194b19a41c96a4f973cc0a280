@@ -1,0 +1,5 @@
+c4b33d28ea51 ("KVM: x86/mmu: Split huge pages mapped by the TDP MMU on fault")
+61f94478547b ("KVM: x86/mmu: Set disallowed_nx_huge_page in TDP MMU before setting SPTE")
+55c510e26ab6 ("KVM: x86/mmu: Rename NX huge pages fields/functions for consistency")
+428e921611bc ("KVM: x86/mmu: Tag disallowed NX huge pages even if they're not tracked")
+f96c48e9ddf4 ("kvm: mmu: fix typos in struct kvm_arch")

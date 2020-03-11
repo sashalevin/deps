@@ -1,0 +1,7 @@
+51821765e899 ("clk: mediatek: clk-mtk: Grab iomem pointer for divider clocks")
+252091242404 ("clk: mediatek: clk-mtk: Introduce clk_mtk_pdev_{probe,remove}()")
+4b476b0f4534 ("clk: mediatek: clk-mtk: Switch to device_get_match_data()")
+7b6183108c8c ("clk: mediatek: clk-mtk: Extend mtk_clk_simple_probe()")
+20498d52c9c1 ("clk: mediatek: clk-gate: Propagate struct device with mtk_clk_register_gates()")
+fdc325c8f79c ("clk: mediatek: mt8192: Propagate struct device for gate clocks")
+0cbe12694990 ("clk: mediatek: mt8192: Correctly unregister and free clocks on failure")

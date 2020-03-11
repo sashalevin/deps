@@ -1,0 +1,5 @@
+56257334e8e0 ("cifs: Make wait_mtu_credits take size_t args")
+753b67eb630d ("cifs: Replace cifs_readdata with a wrapper around netfs_io_subrequest")
+f3dc1bdb6b0b ("cifs: Fix writeback data corruption")
+c40497d82387 ("cifs: Don't use certain unnecessary folio_*() functions")
+a9540e35624d ("smb: do not test the return value of folio_start_writeback()")

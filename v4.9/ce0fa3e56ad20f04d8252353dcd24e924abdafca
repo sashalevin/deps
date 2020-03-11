@@ -1,0 +1,4 @@
+ce0fa3e56ad2 ("x86/mm, mm/hwpoison: Clear PRESENT bit for kernel 1:1 mappings of poison pages")
+761ad8d7c7b5 ("mm: hwpoison: introduce memory_failure_hugetlb()")
+b37ff71cc626 ("mm: hwpoison: change PageHWPoison behavior on hugetlb pages")
+5bc329503e81 ("x86/mce: Handle broadcasted MCE gracefully with kexec")

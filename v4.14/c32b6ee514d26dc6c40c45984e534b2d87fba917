@@ -1,0 +1,6 @@
+c32b6ee514d2 ("bpf, arm64: Support 32-bit offset jmp instruction")
+32f6865c7aa3 ("arm64: bpf: Fix branch offset in JIT")
+37ab566c178d ("bpf: arm64: Enable arm64 jit to provide bpf_line_info")
+8c11ea5ce13d ("bpf, arm64: fix getting subprog addr from aux for calls")
+6d2eea6fb079 ("bpf, arm64: optimize 32/64 immediate emission")
+db496944fdaa ("bpf: arm64: add JIT support for multi-function programs")

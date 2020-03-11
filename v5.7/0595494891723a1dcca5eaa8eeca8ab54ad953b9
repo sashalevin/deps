@@ -1,0 +1,4 @@
+059549489172 ("x86/entry/64: Sign-extend system calls on entry to int")
+3e5e7f7736b0 ("x86/entry: Reverse arguments to do_syscall_64()")
+8f159f1dfa1e ("x86/entry/common: Protect against instrumentation")
+1723be30e46f ("x86/entry: Mark enter_from_user_mode() noinstr")

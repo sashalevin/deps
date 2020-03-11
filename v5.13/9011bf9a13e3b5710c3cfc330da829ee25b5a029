@@ -1,0 +1,6 @@
+9011bf9a13e3 ("io_uring: fix stuck fallback reqs")
+e5dc480d4ed9 ("io_uring: remove not needed PF_EXITING check")
+c10d1f986b4e ("io_uring: move creds from io-wq work to io_kiocb")
+d0acdee296d4 ("io_uring: don't bounce submit_state cachelines")
+b986af7e2df4 ("io_uring: shuffle rarely used ctx fields")
+3dd0c97a9e01 ("io_uring: get rid of files in exit cancel")

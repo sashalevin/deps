@@ -1,0 +1,3 @@
+7c43a553792a ("hugetlb: allow faults to be handled under the VMA lock")
+4ec31152a80d ("mm: move FAULT_FLAG_VMA_LOCK check from handle_mm_fault()")
+53156443a303 ("mm: do not increment pgfault stats when page fault handler retries")

@@ -1,0 +1,4 @@
+27bb0a70e524 ("proc: pass a folio to smaps_page_accumulate()")
+6c977f36dc36 ("proc: convert smaps_account() to use a folio")
+8b47933544a6 ("proc/ksm: add ksm stats to /proc/pid/smaps")
+24d7275ce279 ("fs/proc: task_mmu.c: don't read mapcount for migration entry")

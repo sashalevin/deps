@@ -1,0 +1,4 @@
+d45ce03434fd ("perf evsel: Separate open preparation from open itself")
+4804e0111662 ("perf stat: Use affinity for opening events")
+e0e6a6ca3ac2 ("perf stat: Factor out open error handling")
+796c01a4bfb4 ("perf evsel: Always preserve errno while cleaning up perf_event_open failures")

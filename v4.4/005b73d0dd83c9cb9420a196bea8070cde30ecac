@@ -1,0 +1,4 @@
+005b73d0dd83 ("m68knommu: __force type casts for raw IO access")
+4478048b4485 ("m68k: rework raw access macros for the non-MMU case")
+d97cf70af097 ("m68k: use asm-generic/io.h for non-MMU io access functions")
+fedc33e36406 ("m68k: move *_relaxed macros into io_no.h and io_mm.h")

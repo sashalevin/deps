@@ -1,0 +1,5 @@
+a4912303ac6f ("serial: kgdboc: Allow earlycon initialization to be deferred")
+1feb48baf2fb ("kgdboc: Disable all the early code when kgdboc is a module")
+220995622da5 ("kgdboc: Add kgdboc_earlycon to support early kgdb using boot consoles")
+eae3e19ca930 ("kgdboc: Remove useless #ifdef CONFIG_KGDB_SERIAL_CONSOLE in kgdboc")
+68e55f61c138 ("kgdboc: Use a platform device to handle tty drivers showing up late")

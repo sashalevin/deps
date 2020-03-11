@@ -1,0 +1,7 @@
+a6806e32e7a4 ("usb: typec: hd3ss3220: Use OF graph API to get the connector fwnode")
+24dab5380512 ("usb: typec: hd3ss3220: Give the connector fwnode to the port device")
+642b1017dc43 ("usb: typec: hd3ss3220: Start using struct typec_operations")
+c8dd192be821 ("usb: typec: fix an IS_ERR() vs NULL bug in hd3ss3220_probe()")
+5a9a8a4c5058 ("usb: typec: hd3ss3220: hd3ss3220_probe() warn: passing zero to 'PTR_ERR'")
+1c48c759ef4b ("usb: typec: driver for TI HD3SS3220 USB Type-C DRP port controller")
+0a4c005bd171 ("usb: typec: driver for TI TPS6598x USB Power Delivery controllers")

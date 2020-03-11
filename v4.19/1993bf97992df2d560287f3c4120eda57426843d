@@ -1,0 +1,7 @@
+1993bf97992d ("x86/kprobes: Fix kprobes instruction boudary check with CONFIG_RETHUNK")
+ab09e95ca0c6 ("x86/kprobes: Convert to text-patching.h")
+254d2c04515e ("x86/alternative: Add text_opcode_size()")
+63f62addb88e ("x86/alternatives: Add and use text_gen_insn() helper")
+18cbc8bed0c7 ("x86/alternatives, jump_label: Provide better text_poke() batching interface")
+c3d6324f841b ("x86/alternatives: Teach text_poke_bp() to emulate instructions")
+da1770238597 ("Merge branch 'x86-paravirt-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,6 @@
+e693de186414 ("mm/hugetlb: enable arch specific huge page size support for migration")
+94310cbcaa3c ("mm/madvise: enable (soft|hard) offline of HugeTLB pages at PGD level")
+082d5b6b60e9 ("mm/hugetlb: check for reserved hugepages during memory offline")
+2247bb335ab9 ("mm/hugetlb: fix memory offline with hugepage size > memory block size")
+c1470b33bb6e ("mm/hugetlb: fix incorrect hugepages count during mem hotplug")
+d70c17d436b3 ("include/linux/hugetlb.h: use bool instead of int for hugepage_migration_supported()")

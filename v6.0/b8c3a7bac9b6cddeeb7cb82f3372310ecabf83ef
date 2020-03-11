@@ -1,0 +1,7 @@
+b8c3a7bac9b6 ("scsi: ufs: Have midlayer retry start stop errors")
+2702812ae33b ("scsi: ufs: core: Simplify ufshcd_execute_start_stop()")
+93bc4a5d00e4 ("scsi: ufs: core: Rely on the block layer for setting RQF_PM")
+7029e2151a7c ("scsi: ufs: Fix a deadlock between PM and the SCSI error handler")
+6a354a7e740e ("scsi: ufs: Introduce the function ufshcd_execute_start_stop()")
+579a4e9dbd53 ("scsi: ufs: Try harder to change the power mode")
+dcd5b7637c6d ("scsi: ufs: Reduce the START STOP UNIT timeout")

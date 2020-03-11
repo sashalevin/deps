@@ -1,0 +1,5 @@
+e877a88d1f06 ("SUNRPC in case of backlog, hand free slots directly to waiting task")
+7638e0bfaed1 ("SUNRPC: Move fault injection call sites")
+78069487539d ("SUNRPC: Remove debugging instrumentation from xprt_release")
+06e234c61327 ("SUNRPC: Hoist trace_xprtrdma_op_allocate into generic code")
+0125ecbb5267 ("SUNRPC: Add tracepoint to rpc_call_rpcerror()")

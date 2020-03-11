@@ -1,0 +1,7 @@
+3d41ec41f14c ("drm/i915/dsi: Grab the crtc from the customary place")
+5263a63c88d8 ("drm/i915/dsi: Move panel reset+power off to be the last thing")
+1c7684e7b7b6 ("drm/i915/dsi: Respect power_off_delay on icl+")
+29428c85be1d ("drm/i915/dsi: Do DSC/scaler disable earlier on icl+")
+a57aa1e36919 ("drm/i915/dsi: Move most things from .disable() into .post_disable() on icl+")
+201963a82708 ("drm/i915/dsi: Respect power cycle delay on icl+")
+86ecd3b3d16b ("drm/i915/dsi: Do panel power on + reset deassert earlier on icl+")

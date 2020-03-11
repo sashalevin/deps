@@ -1,0 +1,7 @@
+03fffc5493c8 ("KVM: x86/mmu: Refactor shadow walk in __direct_map() to reduce indentation")
+5bcaf3e1715f ("KVM: x86/mmu: Account NX huge page disallowed iff huge page was requested")
+6c2fd34f5c79 ("KVM: x86/mmu: Move "huge page disallowed" calculation into mapping helpers")
+832914452a96 ("KVM: x86/mmu: Move fast_page_fault() call above mmu_topup_memory_caches()")
+3bae0459bcd5 ("KVM: x86/mmu: Drop KVM's hugepage enums in favor of the kernel's enums")
+e662ec3e0705 ("KVM: x86/mmu: Move max hugepage level to a separate #define")
+b2f432f872d9 ("KVM: x86/mmu: Tweak PSE hugepage handling to avoid 2M vs 4M conundrum")

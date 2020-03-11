@@ -1,0 +1,7 @@
+1222109a5363 ("locking/qspinlock_stat: Count instances of nested lock slowpaths")
+81d3dc9a349b ("locking/qspinlock: Add stat tracking for pending vs. slowpath")
+59fb586b4a07 ("locking/qspinlock: Remove unbounded cmpxchg() loop from locking slowpath")
+625e88be1f41 ("locking/qspinlock: Merge 'struct __qspinlock' into 'struct qspinlock'")
+11dc13224c97 ("locking/qspinlock: Ensure node->count is updated before initialising node")
+11752adb68a3 ("locking/pvqspinlock: Implement hybrid PV queued/unfair locks")
+34d54f3d6917 ("locking/pvqspinlock: Relax cmpxchg's to improve performance on some architectures")

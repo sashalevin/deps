@@ -1,0 +1,5 @@
+bc5269ca7650 ("vt_ioctl: change VT_RESIZEX ioctl to check for error return from vc_resize()")
+5422337d569e ("vt_ioctl: move vt_resizex out of vt_ioctl")
+832a62ab6b7d ("vt_ioctl: move K* ioctls to a separate function")
+eca734d8f004 ("vt_ioctl: eliminate use of uival and ucval")
+0ce8179e2480 ("vt_ioctl: eliminate ret & breaks in vt_ioctl")

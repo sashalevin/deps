@@ -1,0 +1,6 @@
+7d9199995412 ("pwm: jz4740: Use regmap_{set,clear}_bits")
+c2693514a0a1 ("pwm: jz4740: Obtain regmap from parent node")
+485b56f08f33 ("pwm: jz4740: Improve algorithm of clock calculation")
+ce1f9cece057 ("pwm: jz4740: Use clocks from TCU driver")
+6580fd173070 ("pwm: jz4740: Force TCU2 channels to return to their init level")
+1ac99c58bda9 ("pwm: jz4740: Apply configuration atomically")

@@ -1,0 +1,3 @@
+4736d85f0d18 ("KVM: x86: Use actual kvm_cpuid.base for clearing KVM_FEATURE_PV_UNHALT")
+92e82cf632e8 ("KVM: x86: Introduce __kvm_get_hypervisor_cpuid() helper")
+275a87244ec8 ("KVM: x86: Don't adjust guest's CPUID.0x12.1 (allowed SGX enclave XFRM)")

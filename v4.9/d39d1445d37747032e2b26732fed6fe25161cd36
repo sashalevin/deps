@@ -1,0 +1,6 @@
+d39d1445d377 ("bpf: Use rcu_trace_implies_rcu_gp() in local storage map")
+0fe4b381a59e ("bpf: Allow bpf_local_storage to be used by sleepable programs")
+afa79d08c6c8 ("net: in_irq() cleanup")
+bc235cdb423a ("bpf: Prevent deadlock from recursive bpf_task_storage_[get|delete]")
+a10787e6d58c ("bpf: Enable task local storage for tracing programs")
+b8af417e4d93 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next")

@@ -1,0 +1,7 @@
+3f78c90f9eb2 ("powerpc/xive: Do not mark xive_request_ipi() as __init")
+cbc06f051c52 ("powerpc/xive: Do not skip CPU-less nodes when creating the IPIs")
+7dcc37b3eff9 ("powerpc/xive: Map one IPI interrupt per node")
+7d348494136c ("powerpc/xive: Introduce an IPI interrupt domain")
+e2cf43d59525 ("powerpc/xive: Introduce XIVE_IPI_HW_IRQ")
+930914b7d528 ("powerpc/xive: Add a debugfs file to dump internal XIVE state")
+b1a504a6500d ("powerpc/xive: Use XIVE_BAD_IRQ instead of zero to catch non configured IPIs")

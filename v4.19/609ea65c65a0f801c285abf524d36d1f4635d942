@@ -1,1 +1,2 @@
 609ea65c65a0 ("net: thunderx: add mutex to protect mailbox from concurrent calls for same VF")
+2ecbe4f4a027 ("net: thunderx: replace global nicvf_rx_mode_wq work queue for all VFs to private for each of them.")

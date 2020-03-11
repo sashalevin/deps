@@ -1,0 +1,6 @@
+544ef14031d0 ("drm/gma500: Make cdv hdmi use ddc adapter from drm_connector")
+ba1677f76b9a ("drm/gma500: Make gma_i2c_chan a subclass of i2c_adapter")
+04477e5e1e6c ("drm/gma500: Use gma_ prefix for our i2c abstraction")
+12e67cca85a0 ("drm/gma500: Free the correct connector allocation")
+9f8308f4c94a ("drm/gma500: gma500 don't register non-hotpluggable connectors")
+f71635e893c3 ("drm/gma500: Replace references to dev_private with helper function")

@@ -1,0 +1,4 @@
+63508e38c108 ("dm cache: remove needless request_queue NULL pointer checks")
+de7180ff908b ("dm cache: add support for discard passdown to the origin device")
+8e3c3827776f ("dm cache: pass cache structure to mode functions")
+d1260e2a3f85 ("dm cache: fix race condition in the writeback mode overwrite_bio optimisation")

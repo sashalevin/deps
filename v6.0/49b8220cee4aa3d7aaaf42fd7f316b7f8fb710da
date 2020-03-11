@@ -1,0 +1,5 @@
+49b8220cee4a ("tty: ldops: unify to u8")
+1d28dfedd204 ("tty: n_null: remove optional ldops")
+abb05ac9f78b ("tty: ldisc: document that ldops are optional")
+0388a152fc55 ("tty/serial: Make ->dcd_change()+uart_handle_dcd_change() status bool active")
+8b7d2d95cf82 ("tty: Make ldisc ->set_termios() old ktermios const")

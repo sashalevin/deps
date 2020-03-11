@@ -1,0 +1,7 @@
+0177669ee61d ("x86/microcode/intel: Cleanup code further")
+ae76d951f653 ("x86/microcode/intel: Rip out mixed stepping support for Intel CPUs")
+0b62f6cb0773 ("x86/microcode/32: Move early loading after paging enable")
+4c585af7180c ("x86/boot/32: Temporarily map initrd for microcode loading")
+a62f4ca106fd ("x86/boot/32: De-uglify the 2/3 level paging difference in mk_early_pgtbl_32()")
+1e2dd572d2b7 ("x86/boot: Use __pa_nodebug() in mk_early_pgtbl_32()")
+242db7589460 ("x86/boot/32: Disable stackprotector and tracing for mk_early_pgtbl_32()")

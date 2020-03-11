@@ -1,0 +1,5 @@
+902baf61adf6 ("iommu/vt-d: Fix mm reference leak")
+9d8c3af31607 ("iommu/vt-d: IOMMU Page Request needs to check if address is canonical.")
+388f79345502 ("mm: use mmget_not_zero() helper")
+db9f9203e274 ("drm/i915/userptr: Hold mmref whilst calling get-user-pages")
+643ad15d4741 ("Merge branch 'mm-pkeys-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

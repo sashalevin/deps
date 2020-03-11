@@ -1,0 +1,5 @@
+b608f11d49ec ("clk: rockchip: Initialize hw to error to avoid undefined behavior")
+63207c37eac4 ("clk: rockchip: Use clk_hw_register_composite instead of clk_register_composite calls")
+956060a52795 ("clk: rockchip: add support for half divider")
+a425702f684a ("clk: rockchip: use match_string() helper")
+fd3cbbfb76a4 ("clk: rockchip: Free the memory on the error path")

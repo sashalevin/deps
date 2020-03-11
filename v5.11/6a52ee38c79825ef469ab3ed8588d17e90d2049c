@@ -1,0 +1,6 @@
+6a52ee38c798 ("hwrng: nomadik - use dev_err_probe")
+039980de89dc ("hwrng: nomadik - keep clock enabled while hwrng is registered")
+7f0f1f3ef62e ("hwrng: nomadik - Change clk_disable to clk_disable_unprepare")
+3fd269e74f2f ("amba: Make the remove callback return void")
+5b495ac8fe03 ("vfio: platform: simplify device removal")
+de5d7adb8936 ("amba: Fix resource leak for drivers without .remove")

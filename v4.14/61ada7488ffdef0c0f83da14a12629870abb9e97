@@ -1,0 +1,5 @@
+61ada7488ffd ("KVM: nVMX: Cache shadow vmcs12 on VMEntry and flush to memory on VMExit")
+f0f4cf5b3066 ("x86: Add check for APIC access address for vmentry of L2 guests")
+135a06c3a515 ("KVM: nVMX: Don't halt vcpu when L1 is injecting events to L2")
+00647b44944a ("KVM: nVMX: Eliminate vmcs02 pool")
+8a1b43922d0d ("kvm: vmx: Reinstate support for CPUs without virtual NMI")

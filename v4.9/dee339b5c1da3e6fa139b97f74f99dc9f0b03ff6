@@ -1,0 +1,7 @@
+dee339b5c1da ("KVM: Never start grow vCPU halt_poll_ns from value below halt_poll_ns_grow_start")
+49113d360bde ("KVM: Expose the initial start value in grow_halt_poll_ns() as a module parameter")
+7fa08e71b4a0 ("KVM: grow_halt_poll_ns() should never shrink vCPU halt_poll_ns")
+6ccad8cea5bc ("KVM: Add halt polling documentation")
+e03f3921e597 ("KVM: PPC: Book3S HV: Add check for module parameter halt_poll_ns")
+307d93e476a3 ("KVM: PPC: Book3S HV: Use generic kvm module parameters")
+ec76d819d270 ("KVM: Export kvm module parameter variables")

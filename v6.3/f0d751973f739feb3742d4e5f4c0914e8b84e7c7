@@ -1,0 +1,6 @@
+f0d751973f73 ("eth: ixgbe: fix the wake condition")
+301f227fc860 ("net: piggy back on the memory barrier in bql when waking queues")
+08a096780d92 ("bnxt: use new queue try_stop/try_wake macros")
+9ded5bc77fe5 ("ixgbe: use new queue try_stop/try_wake macros")
+c91c46de6bbc ("net: provide macros for commonly copied lockless queue stop/wake code")
+d2f5c68e3f71 ("docs: net: reformat driver.rst from a list to sections")

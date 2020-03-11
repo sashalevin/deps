@@ -1,0 +1,5 @@
+ff6301dabc3c ("efi: Add efi_test driver for exporting UEFI runtime service interfaces")
+65117f1aa1b2 ("efi: Add misc char driver interface to update EFI firmware")
+06f7d4a1618d ("efibc: Add EFI Bootloader Control module")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

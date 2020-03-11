@@ -1,0 +1,4 @@
+9aa030cee1c4 ("arm64: cpufeatures: Fix FEAT_NV check when checking for FEAT_NV1")
+3673d01a2f55 ("arm64: cpufeatures: Only check for NV1 if NV is present")
+aade38faca63 ("KVM: arm64: Handle Apple M2 as not having HCR_EL2.NV1 implemented")
+da9af5071b25 ("arm64: cpufeature: Detect HCR_EL2.NV1 being RES0")

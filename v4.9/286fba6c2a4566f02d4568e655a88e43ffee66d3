@@ -1,0 +1,7 @@
+286fba6c2a45 ("arm64: gpr-num: support W registers")
+8ed1b498ada6 ("arm64: factor out GPR numbering helpers")
+be604c616ca7 ("arm64: sysreg: Make mrs_s and msr_s macros work with Clang and LTO")
+4a503217ce37 ("arm64: irqflags: Use ICC_PMR_EL1 for interrupt masking")
+d0153c7ff922 ("arm64: sysreg: Fix unprotected macro argmuent in write_sysreg")
+cd9e1927a525 ("arm64: Work around broken .inst when defective gas is detected")
+bca8f17f57bd ("arm64: Get rid of asm/opcodes.h")

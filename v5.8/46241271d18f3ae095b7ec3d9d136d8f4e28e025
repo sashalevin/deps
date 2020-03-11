@@ -1,0 +1,6 @@
+46241271d18f ("bpftool: Do not expose and init hash maps for pinned path in main.c")
+75fa1777694c ("tools/bpftool: Add bpftool support for split BTF")
+8526df04570f ("tools/bpftool: Use libbpf's btf__parse() API for parsing BTF from file")
+d53dee3fe013 ("tools/bpftool: Show info for processes holding BPF map/prog/link/btf FDs")
+05aca6da3b5a ("tools/bpftool: Generalize BPF skeleton support and generate vmlinux.h")
+16e9b187aba6 ("tools/bpftool: Minimize bootstrap bpftool")

@@ -1,0 +1,4 @@
+5189df7b8088 ("USB: gadget: dummy-hcd: Fix "task hung" problem")
+9313d139aa25 ("usb: gadget: dummy_hcd: execute hrtimer callback in softirq context")
+0a723ed3baa9 ("usb: gadget: dummy_hcd: Set transfer interval to 1 microframe")
+a7f3813e589f ("usb: gadget: dummy_hcd: Switch to hrtimer transfer scheduler")

@@ -1,0 +1,6 @@
+1e0b069bdc58 ("mmc: core: Re-structure some code in __mmc_poll_for_busy()")
+0d84c3e6a5b2 ("mmc: core: Convert to mmc_poll_for_busy() for erase/trim/discard")
+6972096a03ae ("mmc: core: Split up mmc_poll_for_busy()")
+60db8a47497d ("mmc: core: Extend mmc_switch_status() to rid of __mmc_switch_status()")
+d46a24a9d2db ("mmc: core: Throttle polling rate for CMD6")
+533a6cfe08f9 ("mmc: core: Default to generic_cmd6_time as timeout in __mmc_switch()")

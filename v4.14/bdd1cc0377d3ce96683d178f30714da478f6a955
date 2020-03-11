@@ -1,0 +1,5 @@
+bdd1cc0377d3 ("scsi: NCR5380: Reduce NCR5380_maybe_release_dma_irq() call sites")
+57f31326518e ("scsi: NCR5380: Always re-enable reselection interrupt")
+6b0e87a6aafe ("scsi: NCR5380: Check for bus reset")
+6a162836997c ("scsi: NCR5380: Reduce goto statements in NCR5380_select()")
+1aeeeed7f03c ("scsi: NCR5380: Clear all unissued commands on host reset")

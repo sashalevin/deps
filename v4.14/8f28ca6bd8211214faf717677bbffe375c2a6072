@@ -1,0 +1,6 @@
+8f28ca6bd821 ("iomap: constify ioreadX() iomem argument (as in generic implementation)")
+c81d64d3dc1f ("io-64-nonatomic: add io{read|write}64[be]{_lo_hi|_hi_lo} macros")
+79bf0cbd86ac ("iomap: introduce io{read|write}64_{lo_hi|hi_lo}")
+7d1689a2f377 ("parisc: iomap: introduce io{read|write}64")
+aecc787c06f4 ("iomap: Use non-raw io functions for io{read|write}XXbe")
+07c3d9eaa4be ("powerpc: iomap.c: introduce io{read|write}64_{lo_hi|hi_lo}")

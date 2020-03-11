@@ -1,0 +1,5 @@
+c0e97a4b4f20 ("media: ov2680: Fix ov2680_set_fmt() which == V4L2_SUBDEV_FORMAT_TRY not working")
+6d6849b2203f ("media: ov2680: Add ov2680_fill_format() helper function")
+e521b9cc1a49 ("media: ov2680: Don't take the lock for try_fmt calls")
+49c282d5a8c5 ("media: ov2680: Remove VIDEO_V4L2_SUBDEV_API ifdef-s")
+50a7bad4e0a3 ("media: ov2680: Fix ov2680_bayer_order()")

@@ -1,0 +1,6 @@
+b33bb78a1fad ("KVM: nVMX: Handle split-lock #AC exceptions that happen in L2")
+b6a7cc35440e ("KVM: X86: prepend vmx/svm prefix to additional kvm_x86_ops functions")
+a6337a3542b1 ("KVM: x86: Move call to update_exception_bitmap() into VMX code")
+c44d9b34701d ("KVM: x86: Invoke vendor's vcpu_after_set_cpuid() after all common updates")
+2ba4493a8b19 ("KVM: nVMX: Explicitly check for valid guest state for !unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")

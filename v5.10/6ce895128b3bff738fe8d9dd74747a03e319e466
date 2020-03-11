@@ -1,0 +1,4 @@
+6ce895128b3b ("entry: Snapshot thread flags")
+47b8ff194c1f ("entry: Explicitly flush pending rcuog wakeup before last rescheduling point")
+f8bb5cae9616 ("rcu/nocb: Trigger self-IPI on late deferred wake up before user resume")
+54b7429efffc ("rcu: Pull deferred rcuog wake up to rcu_eqs_enter() callers")

@@ -1,0 +1,8 @@
+f06cf1e1a503 ("vduse: fix NULL pointer dereference")
+28f6288eb63d ("vduse: Support set_vq_affinity callback")
+78885597b9cc ("vduse: Refactor allocation for vduse virtqueues")
+79a463be9e00 ("vduse: Support registering userspace memory for IOVA regions")
+0943aacf5ae1 ("vduse: Fix race condition between resetting and irq injecting")
+1394103fd72c ("vduse: Disallow injecting interrupt before DRIVER_OK is set")
+6243e3c78ace ("vduse: missing error code in vduse_init()")
+c8a6153b6c59 ("vduse: Introduce VDUSE - vDPA Device in Userspace")

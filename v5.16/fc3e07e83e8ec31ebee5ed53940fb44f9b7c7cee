@@ -1,0 +1,6 @@
+fc3e07e83e8e ("net: hisilicon: Remove redundant pci_clear_master")
+076bb537577f ("net: hns3: refactor hclgevf_cmd_send with new hclge_comm_cmd_send API")
+eaa5607db377 ("net: hns3: refactor hclge_cmd_send with new hclge_comm_cmd_send API")
+6befad603d79 ("net: hns3: use struct hclge_desc to replace hclgevf_desc in VF cmdq module")
+0a7b6d221868 ("net: hns3: create new cmdq hardware description structure hclge_comm_hw")
+5f20be4e90e6 ("net: hns3: refactor hns3 makefile to support hns3_common module")

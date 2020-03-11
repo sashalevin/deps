@@ -1,0 +1,4 @@
+83e8864fee26 ("trace/blktrace: fix memory leak with using debugfs_lookup()")
+30939293262e ("blktrace: fix use after free for struct blk_trace")
+c780e86dd48e ("blktrace: Protect q->blk_trace with RCU")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")

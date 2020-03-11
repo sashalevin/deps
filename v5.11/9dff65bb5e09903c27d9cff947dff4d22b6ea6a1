@@ -1,0 +1,7 @@
+9dff65bb5e09 ("mmc: sdhci_am654: Add ITAPDLYSEL in sdhci_j721e_4bit_set_clock")
+387c1bf7dce0 ("mmc: sdhci_am654: Add OTAP/ITAP delay enable")
+d465234493bb ("mmc: sdhci_am654: Write ITAPDLY for DDR52 timing")
+6231d99dd411 ("mmc: sdhci_am654: Add tuning algorithm for delay chain")
+5cb2f9286a31 ("mmc: sdhci_am654: Drop lookup for deprecated ti,otap-del-sel")
+71956d0cb56c ("mmc: sdhci_am654: fix start loop index for TAP value parsing")
+c7666240ec76 ("drivers: mmc: sdhci_am654: Add the quirk to set TESTCD bit")

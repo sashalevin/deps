@@ -1,0 +1,4 @@
+b7bb6138c2d5 ("drm/i915: Only reset hangcheck at the start of an activity cycle")
+7836cd02f27c ("drm/i915: Keep the rings stopped until they have been re-initialized")
+221ab9719bf3 ("drm/i915/execlists: Unwind incomplete requests on resets")
+523e7c9278f0 ("drm/i915/execlists: Kick start request processing after a reset")

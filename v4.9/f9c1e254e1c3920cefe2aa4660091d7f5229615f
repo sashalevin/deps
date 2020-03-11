@@ -1,0 +1,8 @@
+f9c1e254e1c3 ("media: dvb-frontends/stv0367: deduplicate DDB dvb_frontend_ops caps")
+dbbac11e1de1 ("[media] dvb-frontends/stv0367: add Digital Devices compatibility")
+b16338e3d346 ("[media] dvb-frontends/stv0367: support reading if_khz from tuner config")
+7718dcf06ed1 ("[media] dvb-frontends/stv0367: make full reinit on set_frontend() optional")
+8a9c07359ce5 ("[media] dvb-frontends/stv0367: make PLLSETUP a function, add 58MHz IC speed")
+8881ceb86f23 ("[media] dvb-frontends/stv0367: move out tables, support multiple tab variants")
+41727cbb203c ("[media] dvb-frontends/stv0367: refactor defaults table handling")
+f61c2991e6ee ("[media] dvb-frontends/stv0367: add flag to make i2c_gatectrl optional")

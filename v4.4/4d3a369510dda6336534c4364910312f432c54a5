@@ -1,0 +1,5 @@
+4d3a369510dd ("clk: bcm2835: use devm_platform_ioremap_resource() to simplify code")
+56eb3a2ed972 ("clk: bcm2835: remove use of BCM2835_CLOCK_COUNT in driver")
+4d3ac6662452 ("clk: bcm2835: fix check of error code returned by devm_ioremap_resource()")
+cfbab8fbab9c ("clk: bcm2835: Add PWM clock support")
+5e63dcc74b30 ("clk: bcm2835: Add a driver for the auxiliary peripheral clock gates.")

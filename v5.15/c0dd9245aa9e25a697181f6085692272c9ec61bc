@@ -1,0 +1,7 @@
+c0dd9245aa9e ("x86/microcode: Check CPU capabilities after late microcode update correctly")
+ab31c74455c6 ("x86/microcode: Add a parameter to microcode_check() to store CPU capabilities")
+7fce8d6eccbc ("x86/microcode: Print previous version of microcode after reload")
+a77a94f86273 ("x86/microcode: Default-disable late loading")
+181b6f40e9ea ("x86/microcode: Rip out the OLD_INTERFACE")
+f9cdf7ca57ca ("x86: Mark stop_this_cpu() __noreturn")
+9af9dcf11bda ("x86/xen: Mark cpu_bringup_and_idle() as dead_end_function")

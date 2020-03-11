@@ -1,0 +1,7 @@
+1e09cdd506c8 ("uio: fix potential memory leak in error case")
+57c5f4df0a5a ("uio: fix crash after the device is unregistered")
+543af5861f41 ("uio: change to use the mutex lock instead of the spin lock")
+a93e7b331568 ("uio: Prevent device destruction while fds are open")
+81daa406c2cc ("uio: Reduce return paths from uio_write()")
+11bac8000449 ("mm, fs: reduce fault, page_mkwrite, and pfn_mkwrite to take only vmf")
+ef96152e6a36 ("Merge tag 'drm-for-v4.11-less-shouty' of git://people.freedesktop.org/~airlied/linux")

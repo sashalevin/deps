@@ -1,0 +1,6 @@
+874b6476fa88 ("thermal: sysfs: Add sanity checks for trip temperature and hysteresis")
+107280e1371f ("thermal: sysfs: Refine the handling of trip hysteresis changes")
+afd84fb10ced ("thermal: sysfs: Get to trips via attribute pointers")
+0728c810873e ("thermal: trip: Pass trip pointer to .set_trip_temp() thermal zone callback")
+a52641bc6293 ("thermal: trip: Use READ_ONCE() for lockless access to trip properties")
+f41f23b0cae1 ("thermal: trip: Use common set of trip type names")

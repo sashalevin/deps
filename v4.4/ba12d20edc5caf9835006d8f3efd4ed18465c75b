@@ -1,0 +1,6 @@
+ba12d20edc5c ("perf/x86/intel: Factor out common code of PMI handler")
+82d71ed0277e ("perf/x86/intel: Properly save/restore the PMU state in the NMI handler")
+daa864b8f8e3 ("perf/x86/pebs: Fix handling of PEBS buffer overflows")
+cecf62352aee ("perf/x86/intel: Don't disable "intel_bts" around "intel" event batching")
+8077eca079a2 ("perf/x86/pebs: Add workaround for broken OVFL status on HSW+")
+c3d266c8a983 ("perf/x86/intel: Fix PEBS warning by only restoring active PMU in pmi")

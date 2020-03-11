@@ -1,0 +1,7 @@
+65b2aad0699b ("hwmon: (pwm-fan) Use dev_err_probe() to simplify error handling")
+37bcec5d9f71 ("hwmon: (pwm-fan) Use devm_thermal_of_cooling_device_register")
+b57e1d429397 ("hwmon: (pwm-fan) Add optional regulator support")
+95dcd64bc5a2 ("hwmon: (pwm-fan) Set fan speed to 0 on suspend")
+9f67f7583e77 ("hwmon: (pwm-fan) Silence error on probe deferral")
+677252a185a9 ("hwmon: (pwm-fan) Switch to new atomic PWM API")
+2289711c9d4d ("hwmon: pwm-fan: Use pwm_get_args() where appropriate")

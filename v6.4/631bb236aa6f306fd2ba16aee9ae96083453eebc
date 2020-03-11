@@ -1,0 +1,6 @@
+631bb236aa6f ("perf maps: Reduce scope of map_rb_node and maps internals")
+8d5847a61723 ("perf maps: Add remove maps function to remove a map based on callback")
+9cce3a161e17 ("perf maps: Reduce scope of maps__for_each_entry()")
+19b5bd9a59be ("perf maps: Add maps__for_each_map to iterate maps holding the lock")
+0f6ab6a3fb7e ("perf maps: Move symbol maps functions to maps.c")
+46125590e0df ("perf maps: Make delete static, always use put")

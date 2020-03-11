@@ -1,0 +1,7 @@
+3d2859d5d4c3 ("ima: Use audit_log_format() rather than audit_log_string()")
+8a3bcaf6ecd3 ("ima: Call audit_log_string() rather than logging it untrusted")
+3dd0c8d06511 ("ima: provide ">" and "<" operators for fowner/uid/euid rules.")
+0260643ce804 ("ima: add policy support for extending different pcrs")
+80eae209d63a ("IMA: allow reading back the current IMA policy")
+38d859f991f3 ("IMA: policy can now be updated multiple times")
+f4dc37785e9b ("integrity: define '.evm' as a builtin 'trusted' keyring")

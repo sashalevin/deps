@@ -1,0 +1,4 @@
+0991f6a38f57 ("bpftool: Only set obj->skeleton on complete success")
+a6cc6b34b93e ("bpftool: Provide a helper method for accessing skeleton's embedded ELF data")
+9c6c0449deb4 ("bpftool: Set errno on skeleton failures and propagate errors")
+d510296d331a ("bpftool: Use syscall/loader program in "prog load" and "gen skeleton" command.")

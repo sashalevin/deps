@@ -1,0 +1,4 @@
+6ca055322da8 ("powerpc/32s: Use dedicated segment for modules with STRICT_KERNEL_RWX")
+b6be1bb7f721 ("powerpc/32: Set user/kernel boundary at TASK_SIZE instead of PAGE_OFFSET")
+d3f3d3bf76cf ("powerpc: Replace _ALIGN() by ALIGN()")
+3d4247fcc938 ("powerpc/32: Add support of KASAN_VMALLOC")

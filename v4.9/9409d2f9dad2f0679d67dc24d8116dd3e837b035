@@ -1,0 +1,7 @@
+9409d2f9dad2 ("powerpc: Support prefixed instructions in alignment handler")
+d30a5a5262ca ("powerpc/traps: Use SRR1 defines for program check reasons")
+42bff234be3b ("powerpc/traps: Inline get_mc_reason()")
+0d0935b367b4 ("powerpc/4xx: Move machine_check_4xx() into platforms/4xx")
+bfa9a2eb9254 ("powerpc/4xx: Create 4xx pseudo-platform in platforms/4xx")
+5b4e28577b16 ("powerpc/44x: Move 44x machine check handlers into platforms/44x")
+8ab8fc688ac6 ("powerpc/44x: Simplify CONFIG_44x checks in Makefile")

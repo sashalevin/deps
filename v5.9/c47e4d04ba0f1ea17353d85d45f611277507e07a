@@ -1,0 +1,4 @@
+c47e4d04ba0f ("arm64: entry: Make the kpti trampoline's kpti sequence optional")
+ed50da776453 ("arm64: entry: Don't assume tramp_vectors is the start of the vectors")
+c091fb6ae059 ("arm64: entry: Move the trampoline data page before the text page")
+d739da1694a0 ("arm64: entry: Make the trampoline cleanup optional")

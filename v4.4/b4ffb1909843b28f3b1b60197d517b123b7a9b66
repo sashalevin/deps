@@ -1,0 +1,6 @@
+b4ffb1909843 ("watchdog: Separate and maintain variables based on variable lifetime")
+32ecc6392654 ("watchdog: Create watchdog device in watchdog_dev.c")
+33b711269ade ("watchdog: Read device status through sysfs attributes")
+906d7a5cfeda ("watchdog: Use static struct class watchdog_class in stead of pointer")
+e131319669e0 ("watchdog: core: add reboot notifier support")
+2165bf524da5 ("watchdog: core: add restart handler support")

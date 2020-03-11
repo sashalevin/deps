@@ -1,0 +1,7 @@
+2bd1bdf01fb2 ("tracing/osnoise: Use start/stop_per_cpu_kthreads() on osnoise_cpus_write()")
+15ca4bdb0327 ("tracing/osnoise: Split workload start from the tracer start")
+a955d7eac177 ("trace: Add timerlat tracer")
+bce29ac9ce0b ("trace: Add osnoise tracer")
+6880c987e451 ("tracing: Add LATENCY_FS_NOTIFY to define if latency_fsnotify() is defined")
+f689e4f280b6 ("tracing: Define new ftrace event "func_repeats"")
+178ba00c354e ("sh/ftrace: Move arch_ftrace_nmi_{enter,exit} into nmi exception")

@@ -1,0 +1,5 @@
+67b0141bd12d ("ARM: 8995/1: drop Thumb-2 workaround for ancient binutils")
+75fea300d73a ("ARM: 8723/2: always assume the "unified" syntax for assembly code")
+336303ae7fad ("arm/kbuild: replace {C, LD}FLAGS_MODULE with KBUILD_{C, LD}FLAGS_MODULE")
+494609701e06 ("ARM: always enable AEABI for ARMv6+")
+42f25bddd0a2 ("ARM: 8477/1: runtime patch udiv/sdiv instructions into __aeabi_{u}idiv()")

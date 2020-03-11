@@ -1,0 +1,6 @@
+89455017fb8d ("bnxt_en: Avoid arithmetic on void * pointer.")
+2e9ee3987719 ("bnxt_en: Use macros for firmware message doorbell offsets.")
+cc559c1ac250 ("bnxt_en: Fix firmware message delay loop regression.")
+9751e8e71487 ("bnxt_en: reduce timeout on initial HWRM calls")
+845adfe40c2a ("bnxt_en: Improve valid bit checking in firmware response message.")
+ebd5818cc5d4 ("bnxt_en: Fix a variable scoping in bnxt_hwrm_do_send_msg()")

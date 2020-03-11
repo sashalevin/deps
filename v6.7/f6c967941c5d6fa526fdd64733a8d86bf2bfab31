@@ -1,0 +1,5 @@
+f6c967941c5d ("ASoC: cs35l56: Fix misuse of wm_adsp 'part' string for silicon revision")
+07f7d6e7a124 ("ASoC: cs35l56: Fix for initializing ASP1 mixer registers")
+07687cd0539f ("ASoC: cs35l56: Don't add the same register patch multiple times")
+cd38ccbecdac ("ASoC: cs35l56: cs35l56_component_remove() must clean up wm_adsp")
+ae861c466ee5 ("ASoC: cs35l56: cs35l56_component_remove() must clear cs35l56->component")

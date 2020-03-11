@@ -1,0 +1,6 @@
+444b0111f3bc ("misc: sram: use devm_platform_ioremap_resource_wc()")
+d5b9653dd2bb ("misc: sram: enable clock before registering regions")
+f294d00961d1 ("misc: sram: fix resource leaks in probe error path")
+2ae2e28852f2 ("misc: sram: add Atmel securam support")
+d449d69d2168 ("misc: sram: fix check of devm_ioremap*() return value")
+eb43e023130b ("misc: sram: add optional ioremap without write combining")

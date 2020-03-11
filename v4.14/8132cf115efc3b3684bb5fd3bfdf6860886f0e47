@@ -1,0 +1,6 @@
+8132cf115efc ("powerpc/mm: Fix "sz" set but not used warning")
+ff31e105464d ("powerpc/mm/hash64: Store the slot information at the right offset for hugetlb")
+a8548686463b ("powerpc: use helper functions to get and set hash slots")
+bf9a95f9a648 ("powerpc: Free up four 64K PTE bits in 64K backed HPTE pages")
+9d2edb18486f ("powerpc: Free up four 64K PTE bits in 4K backed HPTE pages")
+59aa31fd6f96 ("powerpc: introduce pte_set_hidx() helper")

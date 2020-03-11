@@ -1,0 +1,6 @@
+4c9a91b94c12 ("pcf8563: add wakeup-source support")
+60cfac17d0a1 ("rtc: pcf8563: clear RTC_FEATURE_ALARM if no irq")
+d28a0e144e5e ("rtc: pcf8563: switch to RTC_FEATURE_UPDATE_INTERRUPT")
+cf4521ed7ba5 ("rtc: pcf8563: let the core handle the alarm resolution")
+f648d40b99ba ("rtc: pcf8563: let the core handle range offsetting")
+8d3f805e6896 ("rtc: pcf8563: convert to devm_rtc_allocate_device")

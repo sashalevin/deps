@@ -1,0 +1,8 @@
+22d24f75a193 ("IB/core: Search GID only for IB link layer")
+dbb12562f7c2 ("IB/{core, ipoib}: Simplify ib_find_gid to search only for IB link layer")
+492a7e67ff83 ("IB/IPoIB: Allow setting the device address")
+9c3c5f8e1f30 ("IB/ipoib: Add ndo operations for configuring VFs")
+b39ffa1df505 ("IB/core: Add gid_type to gid attribute")
+cee3c4d0c568 ("IB/core: don't search the GID table twice")
+9c584f049596 ("IB/core: Change per-entry lock in RoCE GID table to one lock")
+f3906bd36087 ("IB/core: Refactor GID cache's ib_dispatch_event")

@@ -1,0 +1,5 @@
+9997d5dd177c ("perf trace: Use zfree() to reduce chances of use after free")
+3cb4d5e00e03 ("perf trace: Free syscall tp fields in evsel->priv")
+f2ebf8ffe7af ("perf trace: Free syscall->arg_fmt")
+6c7f0ab04707 ("perf trace: Free malloc'd trace fields on exit")
+7e035929f3fe ("perf trace: Postpone parsing .perfconfig trace.add_events to after --verbose is processed")

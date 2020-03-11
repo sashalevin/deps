@@ -1,0 +1,4 @@
+0016648cdc45 ("mtd: rawnand: fsl_upm: Use devm_kasprintf() to allocate the MTD name")
+f6c4e661491a ("mtd: rawnand: fsl_upm: Stop using nand_release()")
+59ac276f2227 ("mtd: rawnand: Pass a nand_chip object to nand_release()")
+a9fdba0b0e5f ("mtd: rawnand: Convert to using %pOFn instead of device_node.name")

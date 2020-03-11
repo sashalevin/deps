@@ -1,0 +1,6 @@
+8e492eff7de9 ("crypto: arm64/ghash-ce - replace NEON yield check with block limit")
+7c50136a8aba ("crypto: arm64/aes-ghash - yield NEON after every block of input")
+03c9a333fef1 ("crypto: arm64/ghash - add NEON accelerated fallback for 64-bit PMULL")
+537c1445ab0b ("crypto: arm64/gcm - implement native driver using v8 Crypto Extensions")
+6d6254d728a2 ("crypto: arm64/ghash-ce - add non-SIMD scalar fallback")
+9c433ad5083f ("crypto: arm64/ghash-ce - fix for big endian")

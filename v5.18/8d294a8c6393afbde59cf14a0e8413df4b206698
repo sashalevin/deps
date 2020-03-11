@@ -1,0 +1,7 @@
+8d294a8c6393 ("mm: remove PageAnonExclusive assertions in unuse_pte()")
+b53e24c4f6bc ("mm: call arch_swap_restore() from unuse_pte()")
+9f186f9e5fa9 ("mm/swapfile: unuse_pte can map random data if swap read fails")
+999dad824c39 ("mm/shmem: persist uffd-wp bit across zapping for file-backed")
+5c041f5d1f23 ("mm: teach core mm about pte markers")
+679d10331910 ("mm: introduce PTE_MARKER swap entry")
+78fbe906cc90 ("mm/page-flags: reuse PG_mappedtodisk as PG_anon_exclusive for PageAnon() pages")

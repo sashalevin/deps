@@ -1,0 +1,7 @@
+63221571ef77 ("scsi: aha152x: Stop using struct scsi_pointer")
+3ac6aba37200 ("scsi: aha152x: Move the SCSI pointer to private command data")
+3ab3b151ff12 ("scsi: aha152x: Call scsi_done() directly")
+fdabe57d1269 ("scsi: aha152x: Do not set message byte when calling scsi_done()")
+aec166fde782 ("scsi: aha152x: Modify done() to use separate status bytes")
+a7a253ba6c26 ("scsi: aha152x: use sg helper to iterate over scatterlist")
+91ebc1facd77 ("scsi: core: remove Scsi_Cmnd typedef")

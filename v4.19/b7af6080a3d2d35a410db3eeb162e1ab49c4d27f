@@ -1,0 +1,5 @@
+b7af6080a3d2 ("cpufreq: stats: Fix string format specifier mismatch")
+40c3bd4cfa6f ("cpufreq: stats: Defer stats update to cpufreq_stats_record_transition()")
+3c0897c180c6 ("cpufreq: Use scnprintf() for avoiding potential buffer overflow")
+fcccc5c838c1 ("cpufreq: stats: Use lock by stat to replace global spin lock")
+9795607dc41e ("cpufreq: stats: Fix concurrency issues while resetting stats")

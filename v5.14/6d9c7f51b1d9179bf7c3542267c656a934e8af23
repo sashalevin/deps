@@ -1,0 +1,4 @@
+6d9c7f51b1d9 ("cpuidle, intel_idle: Fix CPUIDLE_FLAG_IRQ_ENABLE *again*")
+d295ad34f236 ("intel_idle: Fix false positive RCU splats due to incorrect hardirqs state")
+32d4fd5751ea ("cpuidle,intel_idle: Fix CPUIDLE_FLAG_IRQ_ENABLE")
+c227233ad64c ("intel_idle: enable interrupts before C1 on Xeons")

@@ -1,0 +1,6 @@
+b212921b13bd ("elf: don't use MAP_FIXED_NOREPLACE for elf executable mappings")
+d8e7cb39acc6 ("fs/binfmt_elf.c: extract PROT_* calculations")
+ad55eac74f20 ("elf: enforce MAP_FIXED on overlaying elf segments")
+4ed28639519c ("fs, elf: drop MAP_FIXED usage from elf_map")
+a4ff8e8620d3 ("mm: introduce MAP_FIXED_NOREPLACE")
+eab09532d400 ("binfmt_elf: use ELF_ET_DYN_BASE only for PIE")

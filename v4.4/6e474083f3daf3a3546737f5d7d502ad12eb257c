@@ -1,0 +1,8 @@
+6e474083f3da ("vhost: fix skb leak in handle_rx()")
+c67df11f6e48 ("vhost_net: try batch dequing from skb array")
+1576d9860599 ("tun: switch to use skb array for tx")
+8241a1e466cd ("vhost_net: stop polling socket during rx processing")
+addf8fc4acb1 ("tuntap: correctly wake up process during uninit")
+030881372460 ("vhost_net: basic polling support")
+80f7d0301e79 ("vhost: rename vhost_init_used()")
+c507203756ca ("vhost: rename cross-endian helpers")

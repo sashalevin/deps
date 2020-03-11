@@ -1,0 +1,7 @@
+9dd3fcb0ab73 ("selftests/seccomp: Handle namespace failures gracefully")
+30d53a5860cf ("selftests: unshare userns in seccomp pidns testcases")
+c7140706cb8a ("selftests: set NO_NEW_PRIVS bit in seccomp user tests")
+6a21cc50f0c7 ("seccomp: add a return code to trap to userspace")
+00a02d0c502a ("seccomp: Add filter flag to opt-out of SSB mitigation")
+5c3070890d06 ("seccomp: Enable speculation flaw mitigations")
+d057dc4e35e1 ("seccomp: add a selftest for get_metadata")

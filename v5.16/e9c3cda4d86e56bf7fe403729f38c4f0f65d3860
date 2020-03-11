@@ -1,0 +1,5 @@
+e9c3cda4d86e ("mm, vmalloc: fix high order __GFP_NOFAIL allocations")
+3b8000ae185c ("mm/vmalloc: huge vmalloc backing pages should be split rather than compound")
+9376130c390a ("mm/vmalloc: add support for __GFP_NOFAIL")
+451769ebb7e7 ("mm/vmalloc: alloc GFP_NO{FS,IO} for vmalloc")
+4e5aa1f4c2b4 ("memcg: add per-memcg vmalloc stat")

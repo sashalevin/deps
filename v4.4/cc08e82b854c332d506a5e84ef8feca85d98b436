@@ -1,0 +1,6 @@
+cc08e82b854c ("PCI: exynos: Pass device-specific struct to internal functions")
+fae68d690df5 ("PCI: exynos: Add local struct device pointers")
+7e00dfd0fbbb ("PCI: designware: Simplify pcie_host_ops.readl_rc() and .writel_rc() interfaces")
+446fc23fb6f0 ("PCI: designware: Return data directly from dw_pcie_readl_rc()")
+886bc5ceb5cc ("PCI: designware: Add generic dw_pcie_wait_for_link()")
+c111e8bf6edf ("Merge branches 'pci/host', 'pci/host-designware', 'pci/host-hisi', 'pci/host-qcom' and 'pci/host-rcar' into next")

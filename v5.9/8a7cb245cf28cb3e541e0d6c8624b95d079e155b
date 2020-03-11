@@ -1,0 +1,8 @@
+8a7cb245cf28 ("net: stmmac: Do not enable RX FIFO overflow interrupts")
+5ec55823438e ("net: stmmac: add clocks management for gmac driver")
+36d18b5664ef ("net: stmmac: start phylink instance before stmmac_hw_setup()")
+8e5debed3901 ("net: stmmac: Use rtnl_lock/unlock on netif_set_real_num_rx_queues() call")
+aa042f60e496 ("net: stmmac: Add support to Ethtool get/set ring parameters")
+686cff3d7022 ("net: stmmac: Fix incorrect location to set real_num_rx|tx_queues")
+0366f7e06a6b ("net: stmmac: add ethtool support for get/set channels")
+1c35cc9cf6a0 ("net: stmmac: remove redundant null check before clk_disable_unprepare()")

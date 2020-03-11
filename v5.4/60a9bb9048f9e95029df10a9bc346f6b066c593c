@@ -1,0 +1,6 @@
+60a9bb9048f9 ("blktrace: introduce 'blk_trace_{start,stop}' helper")
+30939293262e ("blktrace: fix use after free for struct blk_trace")
+361c81dbc58c ("blktrace: switch trace spinlock to a raw spinlock")
+5afedf670caf ("blktrace: Fix uaf in blk_trace access after removing by sysfs")
+c780e86dd48e ("blktrace: Protect q->blk_trace with RCU")
+67c0496e87d1 ("kernfs: convert kernfs_node->id from union kernfs_node_id to u64")

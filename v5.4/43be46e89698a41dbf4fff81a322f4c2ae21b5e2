@@ -1,0 +1,6 @@
+43be46e89698 ("x86/fpu: Sanitize xstateregs_set()")
+50f408d96d4d ("x86/fpu/xstate: Add helpers for LBR dynamic supervisor feature")
+eeedf1533687 ("x86/fpu: Introduce copy_supervisor_to_kernel()")
+5274e6c172c4 ("x86/fpu/xstate: Rename validate_xstate_header() to validate_user_xstate_header()")
+49a91d61aed1 ("x86/fpu/xstate: Fix XSAVES offsets in setup_xstate_comp()")
+c08550510ca2 ("x86/fpu: Shrink space allocated for xstate_comp_offsets")

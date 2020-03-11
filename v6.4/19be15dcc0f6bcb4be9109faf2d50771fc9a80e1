@@ -1,0 +1,5 @@
+19be15dcc0f6 ("drm/i915: Handle SKL+ WM/DDB registers next to all other plane registers")
+09fc93141d4c ("drm/i915: Nuke skl_write_wm_level() and skl_ddb_entry_write()")
+1b455361d570 ("drm/i915: Extract skl_plane_{wm,ddb}_reg_val()")
+1de63528e728 ("drm/i915: Perform vblank evasion around legacy cursor updates")
+b1f5279b5981 ("drm/i915/psr: Move plane sel fetch configuration into plane source files")

@@ -1,0 +1,6 @@
+fc595f359942 ("KVM: nVMX: Add VM-Enter failed tracepoints for super early checks")
+b2656e4d8b29 ("KVM: nVMX: Wrap VM-Fail valid path in generic VM-Fail helper")
+eed0030e4caa ("KVM: nVMX: Validate the EPTP when emulating INVEPT(EXTENT_CONTEXT)")
+b6a0653ae2cd ("KVM: nVMX: properly handle errors in nested_vmx_handle_enlightened_vmptrld()")
+e942dbf8c58e ("KVM: nVMX: stop abusing need_vmcs12_to_shadow_sync for eVMCS mapping")
+693e02cc2409 ("kvm: nVMX: VMWRITE checks unsupported field before read-only field")

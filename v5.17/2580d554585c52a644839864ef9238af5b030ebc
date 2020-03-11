@@ -1,0 +1,4 @@
+2580d554585c ("mm: use folio_xor_flags_has_waiters() in folio_end_writeback()")
+7d0795d098a1 ("mm: make __end_folio_writeback() return void")
+261b6840ed10 ("mm: Turn deactivate_file_page() into deactivate_file_folio()")
+b4545f46533b ("mm/truncate: Convert __invalidate_mapping_pages() to use a folio")

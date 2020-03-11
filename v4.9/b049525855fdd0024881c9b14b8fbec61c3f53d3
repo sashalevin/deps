@@ -1,0 +1,7 @@
+b049525855fd ("ring-buffer: Have saved event hold the entire event")
+785888c544e0 ("ring-buffer: Have rb_iter_head_event() handle concurrent writer")
+28e3fc56a471 ("ring-buffer: Add page_stamp to iterator for synchronization")
+ead6ecfddea5 ("ring-buffer: Have ring_buffer_empty() not depend on tracing stopped")
+31b265b3baaf ("tracing: kdb: Fix ftdump to not sleep")
+78f7a45dac2a ("ring-buffer: Have ring_buffer_iter_empty() return true when empty")
+2289d5672f99 ("ring-buffer: Force inline of hotpath helper functions")

@@ -1,0 +1,8 @@
+5128da323514 ("parisc: don't set ARCH_NO_COHERENT_DMA_MMAP")
+f9f3232a7d0a ("dma-mapping: explicitly wire up ->mmap and ->get_sgtable")
+efd176a04bef ("powerpc/pseries/dma: Allow SWIOTLB")
+ba767b5283c0 ("powerpc/cell: use the generic iommu bypass code")
+cc9c156db500 ("powerpc/cell: move dma direct window setup out of dma_configure")
+8617a5c5bc00 ("powerpc/dma: handle iommu bypass in dma_iommu_ops")
+a20f507f577b ("powerpc/dma: untangle vio_dma_mapping_ops from dma_iommu_ops")
+af7ddd8a627c ("Merge tag 'dma-mapping-4.21' of git://git.infradead.org/users/hch/dma-mapping")

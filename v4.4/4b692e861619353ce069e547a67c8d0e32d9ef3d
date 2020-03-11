@@ -1,0 +1,6 @@
+4b692e861619 ("kexec: move locking into do_kexec_load")
+6b27aef09fea ("kexec: call do_kexec_load() in compat syscall directly")
+7a0058ec7860 ("s390/kexec: consolidate crash_map/unmap_reserved_pages() and arch_kexec_protect(unprotect)_crashkres()")
+0eea08678ebe ("kexec: do a cleanup for function kexec_load")
+917a35605f09 ("kexec: make a pair of map/unmap reserved pages in error path")
+9b492cf58077 ("kexec: introduce a protection mechanism for the crashkernel reserved memory")

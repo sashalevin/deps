@@ -1,0 +1,8 @@
+482b3c3ba757 ("net: stmmac: Drop TBI/RTBI PCS flags")
+f9cdff1bdacc ("net: stmmac: Make stmmac_xpcs_setup() generic to all PCS devices")
+d5c50937d50f ("net: stmmac: Add dedicated XPCS cleanup method")
+10658e99d952 ("net: stmmac: don't rely on lynx_pcs presence to check for a PHY")
+a8dd7404c214 ("net: stmmac: make the pcs_lynx cleanup sequence specific to dwmac_socfpga")
+5d1f3fe7d2d5 ("net: stmmac: dwmac-sogfpga: use the lynx pcs driver")
+727e373f897d ("net: stmmac: use xpcs_create_mdiodev()")
+3246627f11c5 ("net: stmmac: Make stmmac_pltfr_remove() return void")

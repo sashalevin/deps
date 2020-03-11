@@ -1,0 +1,8 @@
+c75173a26948 ("Makefile: Remove # characters from compiler string")
+db07562aeac7 ("Makefile: reuse CC_VERSION_TEXT")
+2042b5486bd3 ("kbuild: unset variables in top Makefile instead of setting 0")
+902a6898bfb4 ("kbuild: terminate Kconfig when $(CC) or $(LD) is missing")
+d93a18f27e37 ("kbuild: move samples/ to KBUILD_VMLINUX_OBJS")
+669e06b19de8 ("kbuild: move RETPOLINE flags below config-targets")
+688931a5ad4e ("kbuild: skip sub-make for in-tree build with GNU Make 4.x")
+ffd602eb4693 ("Merge tag 'kbuild-v5.1' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

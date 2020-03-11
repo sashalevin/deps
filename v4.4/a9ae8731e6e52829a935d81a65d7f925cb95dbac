@@ -1,0 +1,6 @@
+a9ae8731e6e5 ("drm/amdgpu: Call find_vma under mmap_sem")
+9d0a16658f84 ("amdgpu: remove -EAGAIN handling for hmm_range_fault")
+9a4903e49e49 ("mm/hmm: replace the block argument to hmm_range_fault with a flags value")
+5fbcf5015db8 ("nouveau: remove the block parameter to nouveau_range_fault")
+02712bc32508 ("mm/hmm: move hmm_vma_range_done and hmm_vma_fault to nouveau")
+be8454afc50f ("Merge tag 'drm-next-2019-07-16' of git://anongit.freedesktop.org/drm/drm")

@@ -1,0 +1,8 @@
+d6c14da474bf ("crypto: lib/blake2s - reduce stack frame usage in self test")
+2d16803c562e ("crypto: blake2s - remove shash module")
+17fee07a2ac5 ("crypto: xctr - Add XCTR support")
+d2a02e3c8bb6 ("lib/crypto: blake2s: avoid indirect calls to compression function for Clang CFI")
+d8d83d8ab0a4 ("lib/crypto: blake2s: move hmac construction into wireguard")
+6048fdcc5f26 ("lib/crypto: blake2s: include as built-in")
+f03a3cab26c1 ("crypto: lib - rename 'mod_init' & 'mod_exit' functions to be module-specific")
+aa22cd7f6780 ("crypto: tcrypt - enable tests for xxhash and blake2")

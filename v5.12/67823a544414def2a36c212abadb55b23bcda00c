@@ -1,0 +1,4 @@
+67823a544414 ("mm, slub: fix potential use-after-free in slab_debugfs_fops")
+64dd68497be7 ("mm: slub: move sysfs slab alloc/free interfaces to debugfs")
+1f9f78b1b376 ("mm/slub, kunit: add a KUnit test for SLUB debugging functionality")
+5bb1bb353cfe ("mm: Don't build mm_dump_obj() on CONFIG_PRINTK=n kernels")

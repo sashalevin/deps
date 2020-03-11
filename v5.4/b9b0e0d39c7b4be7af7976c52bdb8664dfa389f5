@@ -1,0 +1,4 @@
+b9b0e0d39c7b ("io_uring: correct comment on poll vs iopoll")
+cd664b0e35cb ("io_uring: fix hanging iopoll in case of -EAGAIN")
+bbde017a32b3 ("io_uring: add memory barrier to synchronize io_kiocb's result and iopoll_completed")
+65a6543da386 ("io_uring: fix io_kiocb.flags modification race in IOPOLL mode")

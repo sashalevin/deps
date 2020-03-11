@@ -1,0 +1,6 @@
+8d1a36e42be6 ("KVM: SEV: Add GHCB handling for termination requests")
+ae0181839823 ("KVM: SEV: Add GHCB handling for Hypervisor Feature Support requests")
+d916f00316b2 ("KVM: SEV: Add support to handle AP reset MSR protocol")
+0d7bf5e5b00a ("KVM: SVM: Compile sev.c if and only if CONFIG_KVM_AMD_SEV=y")
+75253db41a46 ("KVM: SEV: Make AVIC backing, VMSA and VMCB memory allocation SNP safe")
+8ecb10bcbfa3 ("Merge tag 'kvm-x86-lam-6.8' of https://github.com/kvm-x86/linux into HEAD")

@@ -1,0 +1,4 @@
+eb019503569c ("perf/x86: Fix bogus kernel printk, again")
+fa9cbf320e99 ("perf/x86: Move perf_event.c ............... => x86/events/core.c")
+1b74dde7c47c ("x86/cpu: Convert printk(KERN_<LEVEL> ...) to pr_<level>(...)")
+0007bccc3cfd ("x86: Replace RDRAND forced-reseed with simple sanity check")

@@ -1,0 +1,4 @@
+3c436bf95a1d ("clk: drop the initial core->parents look-ups from __clk_core_init()")
+176d11690ba2 ("clk: move core->parents allocation to clk_register()")
+3a6e84545129 ("clk: change sizeof(struct clk *) to sizeof(*core->parents)")
+027f942ce441 ("clk: remove unnecessary !core->parents conditional")

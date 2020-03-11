@@ -1,0 +1,6 @@
+1d55abc0e98a ("scsi: mpt3sas: switch to pci_alloc_irq_vectors")
+bb3506612346 ("scsi: mpt3sas: Fix for incorrect numbers for MSIX vectors enabled when non RDPQ card is enumerated first.")
+5f0dfb7a9bcc ("mpt3sas: Used "synchronize_irq()"API to synchronize timed-out IO & TMs")
+7f8b8f3fba55 ("mpt3sas: Remove unnecessary synchronize_irq() before free_irq()")
+da3cec2515f0 ("mpt3sas: Remove cpumask_clear for zalloc_cpumask_var and don't free free_cpu_mask_var before reply_q")
+64038301baed ("mpt3sas: Added smp_affinity_enable module parameter.")

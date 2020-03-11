@@ -1,0 +1,4 @@
+df84fe947089 ("arm64: ptrace: Fix seccomp of traced syscall -1 (NO_SYSCALL)")
+d83ee6e3e75d ("arm64: ptrace: Use NO_SYSCALL instead of -1 in syscall_trace_enter()")
+1cf6022bd916 ("arm64: Fix PTRACE_SYSEMU semantics")
+fefad9ef58ff ("seccomp: simplify secure_computing()")

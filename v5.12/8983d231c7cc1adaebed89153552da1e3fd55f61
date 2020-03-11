@@ -1,0 +1,5 @@
+8983d231c7cc ("mm/debug_vm_pgtable: use struct pgtable_debug_args in leaf and savewrite tests")
+5fe77be6bf14 ("mm/debug_vm_pgtable: move {pmd/pud}_huge_tests out of CONFIG_TRANSPARENT_HUGEPAGE")
+65ac1a60a57e ("mm/debug_vm_pgtable: ensure THP availability via has_transparent_hugepage()")
+bbc180a5adb0 ("mm: HUGE_VMAP arch support cleanup")
+95f0ddf081af ("mm/ioremap: rename ioremap_*_range to vmap_*_range")

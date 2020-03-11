@@ -1,0 +1,5 @@
+02839cc8d72b ("rtnl: move rtnl_newlink_create()")
+63105e83987a ("rtnl: split __rtnl_newlink() into two functions")
+c92bf26ccebc ("rtnl: allocate more attr tables on the heap")
+5ea08b5286f6 ("rtnetlink: enable alt_ifname for setlink/newlink")
+ef2a7c9065ce ("rtnetlink: return ENODEV when ifname does not exist and group is given")

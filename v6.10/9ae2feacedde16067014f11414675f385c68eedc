@@ -1,0 +1,5 @@
+9ae2feacedde ("mm: use folio_add_new_anon_rmap() if folio_test_anon(folio)==false")
+15bde4abab73 ("mm: extend rmap flags arguments for folio_add_new_anon_rmap")
+508758960b8d ("mm: swap: entirely map large folios found in swapcache")
+29f252cdc293 ("mm: introduce arch_do_swap_page_nr() which allows restore metadata for nr pages")
+15c0536fb57f ("mm: rmap: abstract updating per-node and per-memcg stats")

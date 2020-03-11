@@ -1,0 +1,4 @@
+ed657e5568c5 ("mm/vmscan: don't use NUMA_NO_NODE as indicator of page on different node")
+1ae65e2749b0 ("mm/vmscan: filter empty page_list at the beginning")
+1fe47c0beb2d ("mm/vmscan: introduce helper function reclaim_page_list()")
+048f6e1a427e ("mm/vmscan: not necessary to re-init the list for each iteration")

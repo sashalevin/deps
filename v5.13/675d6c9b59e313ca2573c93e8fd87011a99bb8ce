@@ -1,0 +1,5 @@
+675d6c9b59e3 ("mm: kmem: make memcg keep a reference to the original objcg")
+0764db9b49c9 ("mm: memcg: synchronize objcg lists with a dedicated spinlock")
+e80216d9f1f5 ("mm: memcontrol: remove the kmem states")
+271dd6b1f636 ("mm: memcontrol: move obj_cgroup_uncharge_pages() out of css_set_lock")
+9838354e16a2 ("mm: memcontrol: simplify the logic of objcg pinning memcg")

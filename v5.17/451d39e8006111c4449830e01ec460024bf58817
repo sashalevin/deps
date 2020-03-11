@@ -1,0 +1,4 @@
+451d39e80061 ("KVM: VMX: Move Hyper-V eVMCS initialization to helper")
+2916b70fc342 ("KVM: VMX: Reset eVMCS controls in VP assist page during hardware disabling")
+b83237ad2167 ("KVM: x86: Rename 'enable_direct_tlbflush' to 'enable_l2_tlb_flush'")
+0b8934d3a93f ("KVM: VMX: Remove scratch 'cpu' variable that shadows an identical scratch var")

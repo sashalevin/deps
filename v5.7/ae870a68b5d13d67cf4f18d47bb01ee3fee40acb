@@ -1,0 +1,7 @@
+ae870a68b5d1 ("arm64/mm: Convert to using lock_mm_and_find_vma()")
+cd7f176aea5f ("arm64/mm: try VMA lock-based page fault handling first")
+42b2547137f5 ("arm64/mm: enable ARCH_SUPPORTS_PAGE_TABLE_CHECK")
+f6f37d9320a1 ("arm64: select KASAN_VMALLOC for SW/HW_TAGS modes")
+acc3042d62cb ("arm64: Kconfig: select KASAN_VMALLOC if KANSAN_GENERIC is enabled")
+abd4737f67d7 ("mm/arm64: Correct obsolete comment in do_page_fault()")
+ac73e3dc8acd ("Merge branch 'akpm' (patches from Andrew)")

@@ -1,0 +1,8 @@
+8b40eb73509f ("ibmvnic: continue to init in CRQ reset returns H_CLOSED")
+b27507bb59ed ("net/ibmvnic: unlock rtnl_lock in reset so linkwatch_event can run")
+36f1031c51a2 ("ibmvnic: Do not process reset during or after device removal")
+0655f9943df2 ("net/ibmvnic: Update carrier state after link state change")
+53a6b206e36f ("ibmvnic: remove set but not used variable 'netdev'")
+986103e7920c ("net/ibmvnic: Fix RTNL deadlock during device reset")
+5bf032ef08e6 ("ibmvnic: Update driver queues after change in ring size support")
+a5681e20b541 ("net/ibmnvic: Fix deadlock problem in reset")

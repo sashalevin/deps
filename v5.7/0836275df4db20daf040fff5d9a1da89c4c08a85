@@ -1,0 +1,7 @@
+0836275df4db ("floppy: suppress UBSAN warning in setup_rw_floppy()")
+bd10a5f3e21b ("floppy: add defines for sizes of cmd & reply buffers of floppy_raw_cmd")
+29ac67633c89 ("floppy: use print_hex_dump() in setup_DMA()")
+96dad77a6506 ("floppy: cleanup: make result() not rely on current_fdc anymore")
+f8a8e0f7a894 ("floppy: cleanup: make output_byte() not rely on current_fdc anymore")
+5ea00bfc52f4 ("floppy: cleanup: make wait_til_ready() not rely on current_fdc anymore")
+6d494ed03766 ("floppy: cleanup: make show_floppy() not rely on current_fdc anymore")

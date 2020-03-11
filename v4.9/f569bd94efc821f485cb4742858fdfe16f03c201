@@ -1,0 +1,4 @@
+f569bd94efc8 ("powerpc/64s/radix: make ptep_get_and_clear_full non-atomic for the full case")
+f4894b80b1dd ("powerpc/mm/radix: Use ptep_get_and_clear_full when clearing pte for full mm")
+d522ae1e49a4 ("powerpc/mm: Batch tlb flush when invalidating pte entries")
+e58d1cf24309 ("powerpc/mm: update radix__pte_update to not do full mm tlb flush")

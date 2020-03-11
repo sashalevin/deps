@@ -1,0 +1,4 @@
+1763b155da02 ("net: dsa: lantiq_gswip: Use dev_err_probe where appropriate")
+dd6d364e1895 ("net: dsa: lantiq_gswip: add terminating \n where missing")
+cd4ba3ecced9 ("net: dsa: lantiq_gswip: use devres for internal MDIO bus, not ds->user_mii_bus")
+fc74b32b4032 ("net: dsa: lantiq_gswip: delete irrelevant use of ds->phys_mii_mask")

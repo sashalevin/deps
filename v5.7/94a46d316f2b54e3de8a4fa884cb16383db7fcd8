@@ -1,0 +1,4 @@
+94a46d316f2b ("x86/mce: Move nmi_enter/exit() into the entry point")
+0d00449c7a28 ("x86: Replace ist_enter() with nmi_enter()")
+5567d11c21a1 ("x86/mce: Send #MC singal from task work")
+b052df3da821 ("x86/entry: Get rid of ist_begin/end_non_atomic()")

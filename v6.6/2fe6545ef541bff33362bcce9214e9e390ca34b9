@@ -1,0 +1,8 @@
+2fe6545ef541 ("net/mlx5: Remove SF table reference counting")
+a3cc822beacc ("net/mlx5: Push common deletion code into mlx5_sf_del()")
+a65362f2be8d ("net/mlx5: Rename mlx5_sf_deactivate_all() to mlx5_sf_del_all()")
+9497036dfbb8 ("net/mlx5: Move state lock taking into mlx5_sf_dealloc()")
+2284a4836251 ("net/mlx5: Convert SF port_indices xarray to function_ids xarray")
+9caeb1475c3e ("net/mlx5: Use devlink port pointer to get the pointer of container SF struct")
+2597ee190b4e ("net/mlx5: Call mlx5_sf_id_erase() once in mlx5_sf_dealloc()")
+ac5f395685bd ("net/mlx5: SF, Implement peer devlink set for SF representor devlink port")

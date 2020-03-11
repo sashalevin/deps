@@ -1,0 +1,6 @@
+b2ea273a477c ("tty: Fix typo in LEGACY_TIOCSTI Kconfig description")
+83efeeeb3d04 ("tty: Allow TIOCSTI to be disabled")
+5fd8c2d3de3d ("tty: Move sysctl setup into "core" tty logic")
+cbb68f919950 ("tty: reformat kernel-doc in tty_ldisc.c")
+796a75a98762 ("tty: reformat kernel-doc in tty_io.c")
+bb2853a6a421 ("tty: Fix data race between tiocsti() and flush_to_ldisc()")

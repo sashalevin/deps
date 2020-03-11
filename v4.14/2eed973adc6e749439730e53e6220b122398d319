@@ -1,0 +1,4 @@
+2eed973adc6e ("rcu: Assume rcu_init() is called before smp")
+ad7c946b35ad ("rcu: Create RCU-specific workqueues with rescuers")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

@@ -1,0 +1,6 @@
+49a43dae93c8 ("bdev: move ->bd_ro_warned to ->__bd_flags")
+ac2b6f9dee8f ("bdev: move ->bd_has_subit_bio to ->__bd_flags")
+4c80105e3909 ("bdev: move ->bd_write_holder into ->__bd_flags")
+01e198f01d55 ("bdev: move ->bd_read_only to ->__bd_flags")
+1116b9fa15c0 ("bdev: infrastructure for flags")
+b8c873edbf35 ("wrapper for access to ->bd_partno")

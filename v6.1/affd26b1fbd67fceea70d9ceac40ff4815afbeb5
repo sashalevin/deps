@@ -1,0 +1,7 @@
+affd26b1fbd6 ("mm/hugetlb: get rid of page_hstate()")
+cfd5082b5147 ("mm/hugetlb: convert remove_hugetlb_page() to folios")
+1a7cdab59b22 ("mm/hugetlb: convert dissolve_free_huge_page() to folios")
+0356c4b96f68 ("mm/hugetlb: convert free_huge_page to folios")
+f074732d599e ("mm/hugetlb_cgroup: convert hugetlb_cgroup_from_page() to folios")
+a098c977722c ("mm/hugetlb_cgroup: convert __set_hugetlb_cgroup() to folios")
+e51da3a9b6c2 ("mm/hugetlb: add folio_hstate()")

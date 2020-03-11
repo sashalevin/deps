@@ -1,0 +1,5 @@
+ebb2fe57a51c ("USB: iowarrior: use pr_err()")
+8d33e828f72c ("USB: iowarrior: drop redundant iowarrior mutex")
+7c5b971d623f ("USB: iowarrior: drop redundant disconnect mutex")
+edc4746f253d ("USB: iowarrior: fix use-after-free on disconnect")
+c468a8aa790e ("usb: iowarrior: fix deadlock on disconnect")

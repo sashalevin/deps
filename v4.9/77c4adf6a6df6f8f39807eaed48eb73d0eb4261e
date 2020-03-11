@@ -1,0 +1,6 @@
+77c4adf6a6df ("xen/balloon: mark inflated pages PG_offline")
+a9cd410a3d29 ("mm/page_alloc.c: memory hotplug: free pages as higher order")
+4f098af514d2 ("hv_balloon: simplify hv_online_page()/hv_page_online_one()")
+2d070eab2e82 ("mm: consider zone which is not fully populated to have holes")
+c4e1be9ec113 ("mm, sparsemem: break out of loops early")
+709613ad2b3c ("xen/balloon: Only mark a page as managed when it is released")

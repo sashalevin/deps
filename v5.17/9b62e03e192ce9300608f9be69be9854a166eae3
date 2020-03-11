@@ -1,0 +1,5 @@
+9b62e03e192c ("KVM: x86: Define more SEV+ page fault error bits/flags for #NPF")
+63b6206e2f9a ("KVM: x86: Remove separate "bit" defines for page fault error code masks")
+cf9f4c0eb169 ("KVM: x86/mmu: Refresh CR0.WP prior to checking for emulated permission faults")
+d6ecfe976ac3 ("KVM: x86/mmu: Use BIT{,_ULL}() for PFERR masks")
+4f4aa80e3b88 ("KVM: X86: Handle implicit supervisor access with SMAP")

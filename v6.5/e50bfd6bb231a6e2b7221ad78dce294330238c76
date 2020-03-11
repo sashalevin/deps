@@ -1,0 +1,8 @@
+e50bfd6bb231 ("net_tstamp: Add TIMESTAMPING SOFTWARE and HARDWARE mask")
+fd770e856e22 ("net: remove phy_has_hwtstamp() -> phy_mii_ioctl() decision from converted drivers")
+54e1ed69c40a ("net: lan966x: convert to ndo_hwtstamp_get() and ndo_hwtstamp_set()")
+7bdde44463b2 ("net: sparx5: convert to ndo_hwtstamp_get() and ndo_hwtstamp_set()")
+547b006d1922 ("net: fec: delete fec_ptp_disable_hwts()")
+ef5eb9c5ce45 ("net: fec: convert to ndo_hwtstamp_get() and ndo_hwtstamp_set()")
+e47d01fea663 ("net: add hwtstamping helpers for stackable net devices")
+66f7223039c0 ("net: add NDOs for configuring hardware timestamping")

@@ -1,0 +1,4 @@
+2ec0616e870f ("bpf: Fix check_return_code to only allow [0,1] in trace_iter progs")
+e92888c72fbd ("bpf: Enforce returning 0 for fentry/fexit progs")
+15ab09bdca61 ("bpf: Enforce 'return 0' in BTF-enabled raw_tp programs")
+390ee7e29fc8 ("bpf: enforce return code for cgroup-bpf programs")

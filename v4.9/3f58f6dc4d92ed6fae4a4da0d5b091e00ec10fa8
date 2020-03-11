@@ -1,0 +1,7 @@
+3f58f6dc4d92 ("regmap: add a helper to translate the register address")
+697c3892d825 ("regmap: apply reg_base and reg_downshift for single register ops")
+0074f3f2b1e4 ("regmap: allow a defined reg_base to be added to every address")
+86fc59ef818b ("regmap: add configurable downshift for addresses")
+7ef2c6b8689a ("regmap: Move the handling for max_raw_write into regmap_raw_write")
+0812d8ffa995 ("regmap: Format data for raw write in regmap_bulk_write")
+f00e71091ab9 ("regmap: Fix reversed bounds check in regmap_raw_write()")

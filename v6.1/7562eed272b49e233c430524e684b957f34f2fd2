@@ -1,0 +1,4 @@
+7562eed272b4 ("rcu/nocb: Remove superfluous memory barrier after bypass enqueue")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")

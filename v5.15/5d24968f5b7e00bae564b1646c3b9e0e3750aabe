@@ -1,0 +1,8 @@
+5d24968f5b7e ("cifs: when a channel is not found for server, log its connection id")
+d1a931ce2e3b ("cifs: track individual channel status using chans_need_reconnect")
+0f2b305af944 ("cifs: connect individual channel servers to primary channel server")
+724244cdb382 ("cifs: protect session channel fields with chan_lock")
+8e07757bece6 ("cifs: do not negotiate session if session already exists")
+ae0abb4dac8f ("cifs: convert list_for_each to entry variant")
+43b459aa5e22 ("cifs: introduce new helper for cifs_reconnect()")
+7be3248f3139 ("cifs: To match file servers, make sure the server hostname matches")

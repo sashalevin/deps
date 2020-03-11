@@ -1,0 +1,3 @@
+f71c2ffcb20d ("arm64: uaccess: Mask __user pointers for __arch_{clear, copy_*}_user")
+4d8efc2d5ee4 ("arm64: Use pointer masking to limit uaccess speculation")
+27a921e75711 ("arm64: mm: Fix and re-enable ARM64_SW_TTBR0_PAN")

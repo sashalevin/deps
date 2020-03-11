@@ -1,0 +1,4 @@
+aa44284960d5 ("x86/mm/tlb: Avoid reading mm_tlb_gen when possible")
+4c1ba3923e6c ("x86/mm/tlb: Unify flush_tlb_func_local() and flush_tlb_func_remote()")
+2faf153bb734 ("x86/tlb: Move __flush_tlb() out of line")
+8c5cc19e9470 ("x86/tlb: Uninline __get_current_cr3_fast()")

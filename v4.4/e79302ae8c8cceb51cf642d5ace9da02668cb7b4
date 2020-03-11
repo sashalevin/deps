@@ -1,0 +1,6 @@
+e79302ae8c8c ("kcsan: Remove __no_kcsan_or_inline")
+1f44328ea24c ("compiler_types.h, kasan: Use __SANITIZE_ADDRESS__ instead of CONFIG_KASAN to decide inlining")
+eb73876c7431 ("compiler.h: Move function attributes to compiler_types.h")
+0bb9ab3a6fa7 ("kcsan: Update Documentation to change supported compilers")
+e3b779d9ebe8 ("kcsan: Remove 'noinline' from __no_kcsan_or_inline")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

@@ -1,0 +1,5 @@
+a48e61de758c ("arm64: Mark functions using explicit register variables as '__always_inline'")
+addfc38672c7 ("arm64: atomics: avoid out-of-line ll/sc atomics")
+580fa1b87471 ("arm64: Use correct ll/sc atomic constraints")
+16f18688af7e ("locking/atomic, arm64: Use s64 for atomic64")
+41b8687191cf ("Merge branch 'locking/atomics' into locking/core, to pick up WIP commits")

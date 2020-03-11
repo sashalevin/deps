@@ -1,0 +1,6 @@
+22240df7ac6d ("crypto: arm64/ghash-ce - implement 4-way aggregation")
+8e492eff7de9 ("crypto: arm64/ghash-ce - replace NEON yield check with block limit")
+30f1a9f53e77 ("crypto: arm64/aes-ce-gcm - don't reload key schedule if avoidable")
+e0bd888dc487 ("crypto: arm64/aes-ce-gcm - implement 2-way aggregation")
+71e52c278c54 ("crypto: arm64/aes-ce-gcm - operate on two input blocks at a time")
+3465893d274e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

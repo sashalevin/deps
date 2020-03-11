@@ -1,0 +1,4 @@
+a66ae8ae35de ("rcu: Convert rcu_gpnum_ovf() to ->gp_seq")
+a32e01ee6897 ("rcu: Use wrapper for lockdep asserts")
+9b9500da8150 ("rcu: Make RCU CPU stall warnings check for irq-disabled CPUs")
+f79c3ad61896 ("sched,rcu: Make cond_resched() provide RCU quiescent state")

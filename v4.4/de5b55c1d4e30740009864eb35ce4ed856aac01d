@@ -1,0 +1,8 @@
+de5b55c1d4e3 ("stop_machine: Use raw spinlocks")
+e6253970413d ("stop_machine: Remove stop_cpus_lock and lg_double_lock/unlock()")
+ce4f06dcbb5d ("stop_machine: Touch_nmi_watchdog() after MULTI_STOP_PREPARE")
+6fa3b826bcb3 ("stop_machine: Kill cpu_stop_done->executed")
+4aff1ca6970a ("stop_machine: Change __stop_cpus() to rely on cpu_stop_queue_work()")
+958c5f848e17 ("stop_machine: Change stop_one_cpu() to rely on cpu_stop_queue_work()")
+1b034bd989aa ("stop_machine: Make cpu_stop_queue_work() and stop_one_cpu_nowait() return bool")
+6a19005157c4 ("stop_machine: Don't disable preemption in stop_two_cpus()")

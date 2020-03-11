@@ -1,0 +1,6 @@
+d196c20c6e58 ("KVM: arm64: Streamline save/restore of HFG[RW]TR_EL2")
+c5bac1ef7df6 ("KVM: arm64: Move existing feature disabling over to FGU infrastructure")
+f5a5a406b4b8 ("KVM: arm64: Propagate and handle Fine-Grained UNDEF bits")
+cc5f84fbb008 ("KVM: arm64: Use the xarray as the primary sysreg/sysinsn walker")
+89bc63fabc8a ("KVM: arm64: nv: Move system instructions to their own sys_reg_desc array")
+d016264d0765 ("Merge branch kvm-arm64/nv-6.8-prefix into kvmarm-master/next")

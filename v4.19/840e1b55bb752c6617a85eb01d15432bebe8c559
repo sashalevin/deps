@@ -1,0 +1,5 @@
+840e1b55bb75 ("scsi: core: Refactor scsi_mq_setup_tags function")
+8930a6c20791 ("scsi: core: add support for request batching")
+56d18f62f556 ("block: kill BLK_MQ_F_SG_MERGE")
+f664a3cc17b7 ("scsi: kill off the legacy IO path")
+3a7ea2c483a5 ("scsi: provide mq_ops->busy() hook")

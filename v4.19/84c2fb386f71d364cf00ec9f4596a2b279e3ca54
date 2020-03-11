@@ -1,0 +1,7 @@
+84c2fb386f71 ("rtc: rv8803: Convert to .probe_new()")
+c27fee16fab1 ("rtc: rv8803: re-initialize all Epson RX8803 registers on voltage loss")
+f8176e0bb83f ("rtc: rv8803: initialize registers on post-probe voltage loss")
+8c798e1ec185 ("rtc: rv8803: factor out existing register initialization to function")
+5c0189a8b52f ("rtc: rv8803: Add support for the Epson RX8804 RTC")
+da8263215040 ("rtc: rv8803: quiet maybe-unused variable warning")
+ac771ed746c8 ("rtc: rv8803: add Epson RX8803 support")

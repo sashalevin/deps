@@ -1,0 +1,7 @@
+ac84bac4062e ("vdso/datapage: Use correct clock mode name in comment")
+660fd04f9317 ("lib/vdso: Prepare for time namespace support")
+769071ac9f20 ("ns: Introduce Time Namespace")
+c966533f8c6c ("lib/vdso: Mark do_hres() and do_coarse() as __always_inline")
+8463cf80529d ("lib/vdso: Let do_coarse() return 0 to simplify the callsite")
+04d26e7b159a ("tcp: fix rejected syncookies due to stale timestamps")
+ceb307474506 ("Merge tag 'y2038-cleanups-5.5' of git://git.kernel.org:/pub/scm/linux/kernel/git/arnd/playground")

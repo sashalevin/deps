@@ -1,0 +1,7 @@
+93f6d4e18936 ("dentry: Use preempt_[dis|en]able_nested()")
+50417d22d0ef ("fs/dcache: Move wakeup out of i_seq_dir write held region.")
+45f78b0a2743 ("fs/dcache: Move the wakeup from __d_lookup_done() to the caller.")
+cf634d540a29 ("fs/dcache: Disable preemption on i_dir_seq write side on PREEMPT_RT")
+42177007aa27 ("fold dentry_lock_for_move() into its sole caller and clean it up")
+076515fc9267 ("make non-exchanging __d_move() copy ->d_parent rather than swap them")
+61647823aa92 ("VFS: close race between getcwd() and d_move()")

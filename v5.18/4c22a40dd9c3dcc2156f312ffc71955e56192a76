@@ -1,0 +1,8 @@
+4c22a40dd9c3 ("KVM: arm64: Initialize the kvm host data's fpsimd_state pointer in pKVM")
+a1ec5c70d3f6 ("KVM: arm64: Add infrastructure to create and track pKVM instances at EL2")
+9926cfce8dcb ("KVM: arm64: Add helpers to pin memory shared with the hypervisor at EL2")
+1ed5c24c26f4 ("KVM: arm64: Implement do_donate() helper for donating memory")
+8e6bcc3a4502 ("KVM: arm64: Back the hypervisor 'struct hyp_page' array for all memory")
+0f4f7ae10ee4 ("KVM: arm64: Move hyp refcount manipulation helpers to common header file")
+05714cab7d63 ("KVM: arm64: Setup a framework for hypercall bitmap firmware registers")
+85fbe08e4da8 ("KVM: arm64: Factor out firmware register handling from psci.c")

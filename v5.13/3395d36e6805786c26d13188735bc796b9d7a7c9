@@ -1,0 +1,7 @@
+3395d36e6805 ("soc: qcom: rpmh-rsc: drop redundant unsigned >=0 comparision")
+88704a0cd719 ("soc: qcom: rpmh-rsc: Support RSC v3 minor versions")
+40482e4f7364 ("soc: qcom: rpmh-rsc: Add support for RSC v3 register offsets")
+cccbe3e528be ("soc: qcom: rpmh-rsc: Write CONTROL_TCS with next timer wakeup")
+ab33c8f3a832 ("soc: qcom: rpmh-rsc: Save base address of drv")
+25092e6100ac ("soc: qcom: rpmh-rsc: Attach RSC to cluster PM domain")
+f69a91e37669 ("soc: qcom: rpmh-rsc: Make use of the helper function devm_platform_ioremap_resource_byname()")

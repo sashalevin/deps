@@ -1,0 +1,7 @@
+47932e7048df ("mm: remove folio from deferred split list before uncharging it")
+29f3843026cf ("mm: free folios directly in move_folios_to_lru()")
+bc2ff4cbc329 ("mm: free folios in a batch in shrink_folio_list()")
+d7f861b9c43a ("mm/mmu_gather: add __tlb_remove_folio_pages()")
+da510964c095 ("mm/mmu_gather: define ENCODED_PAGE_FLAG_DELAY_RMAP")
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")
+c46265030b0f ("mm/memory: page_remove_rmap() -> folio_remove_rmap_pte()")

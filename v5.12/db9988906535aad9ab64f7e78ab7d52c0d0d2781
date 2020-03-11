@@ -1,0 +1,7 @@
+db9988906535 ("drm/amd: Split up UVD suspend into prepare and suspend steps")
+4fc30ea780e0 ("drm/amdgpu: fix uvd crash on Polaris12 during driver unloading")
+d82e2c249c8f ("drm/amdgpu: Fix crash on device remove/driver unload")
+859e4659273f ("drm/amdgpu: add missing cleanups for more ASICs on UVD/VCE suspend")
+bf756fb833cb ("drm/amdgpu: add missing cleanups for Polaris12 UVD/VCE on suspend")
+f89f8c6bafd0 ("drm/amdgpu: Guard against write accesses after device removal")
+a2052839cd9f ("drm/amdgpu: Add PSP public function to load a list of FWs")

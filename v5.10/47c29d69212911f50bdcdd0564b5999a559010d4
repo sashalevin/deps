@@ -1,0 +1,3 @@
+47c29d692129 ("power: supply: bq24190: Fix use after free bug in bq24190_remove due to race condition")
+d96a89407e5f ("power: supply: bq24190_charger: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+b2f6cb78eaa1 ("power: supply: bq24190_charger: fix reference leak")

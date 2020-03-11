@@ -1,0 +1,5 @@
+92ad19559ea9 ("integrity: Do not load MOK and MOKx when secure boot be disabled")
+ebd9c2ae369a ("integrity: Load mokx variables into the blacklist keyring")
+38a1f03aa240 ("integrity: Move import of MokListRT certs to a separate routine")
+3be54d558c75 ("efi: Only print errors about failing to get certs if EFI vars are found")
+ad723674d675 ("x86/efi: move common keyring handler functions to new file")

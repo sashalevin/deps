@@ -1,0 +1,7 @@
+f987c955c745 ("x86/elf: Enumerate kernel FSGSBASE capability in AT_HWCAP2")
+2032f1f96ee0 ("x86/cpu: Enable FSGSBASE on 64bit by default and add a chicken bit")
+b64ed19b93c3 ("x86/cpu: Add 'unsafe_fsgsbase' to enable CR4.FSGSBASE")
+372fddf70904 ("x86/mm: Introduce the 'no5lvl' kernel parameter")
+3548e131ec6a ("x86/boot/compressed/64: Find a place for 32-bit trampoline")
+a403d798182f ("x86/boot/compressed/64: Describe the logic behind the LA57 check")
+1ea4fe849738 ("Merge branch 'x86/boot' into x86/mm, to unify branches")

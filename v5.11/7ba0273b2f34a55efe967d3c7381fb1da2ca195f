@@ -1,0 +1,8 @@
+7ba0273b2f34 ("kernfs: switch kernfs to use an rwsem")
+c7e7c04274b1 ("kernfs: use VFS negative dentry caching")
+d826e0365199 ("kernfs: move revalidate to be near lookup")
+2f221d6f7b88 ("attr: handle idmapped mounts")
+21cb47be6fb9 ("inode: make init and permission helpers idmapped mount aware")
+47291baa8ddf ("namei: make permission helpers idmapped mount aware")
+0558c1bf5a08 ("capability: handle idmapped mounts")
+02f92b3868a1 ("fs: add file and path permissions helpers")

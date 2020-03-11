@@ -1,0 +1,5 @@
+47592fa8eb03 ("SMB3: Close all deferred handles of inode in case of handle lease break")
+d906be3fa571 ("SMB3: Close deferred file handles in case of handle lease break")
+9e31678fb403 ("SMB3: fix lease break timeout when multiple deferred close handles for the same file.")
+9e992755be8f ("cifs: Call close synchronously during unlink/rename/lease break.")
+41535701da33 ("cifs: Handle race conditions during rename")

@@ -1,0 +1,5 @@
+6eab0ce6e1c6 ("soc: Add SoC driver for Cirrus ep93xx")
+915fb0e31c5b ("soc: canaan: Deprecate SOC_CANAAN and use SOC_CANAAN_K210 for K210")
+49f965b6fbca ("soc: canaan: Make K210_SYSCTL depend on CLK_K210")
+3c2905ea7924 ("riscv: canaan: remove useless select of non-existing config SYSCON")
+81967efb5f39 ("drivers: bus: Delete CONFIG_SIMPLE_PM_BUS")

@@ -1,0 +1,7 @@
+75d3bf84dfca ("drm/i915: Call i915_globals_exit() after i915_pmu_exit()")
+537f9c84a427 ("drm/i915/pmu: Fix CPU hotplug with multiple GPUs")
+bf07f6ebffef ("drm/i915/pmu: Prefer drm_WARN_ON over WARN_ON")
+3b55cdeb8f1b ("drm/i915/pmu: Keep a reference to module while active")
+426d0073fb6d ("drm/i915/gt: Always enable busy-stats for execlists")
+cbfd3a0c5a55 ("drm/i915/selftests: Add request throughput measurement to perf")
+2386b492ded4 ("drm/i915: Prefer '%ps' for printing function symbol names")

@@ -1,0 +1,7 @@
+cff49d58f57e ("spi: Unify error codes by replacing -ENOTSUPP with -EOPNOTSUPP")
+b6094ac83dd4 ("mtd: spi-nor: core: Introduce spi_nor_set_4byte_addr_mode()")
+37513c56139b ("mtd: spi-nor: core: Update flash's current address mode when changing address mode")
+3a4d5f4af9e6 ("mtd: spi-nor: core: Make spi_nor_set_4byte_addr_mode_brwr public")
+f1f1976224f3 ("mtd: spi-nor: core: Update name and description of spansion_set_4byte_addr_mode")
+288df4378319 ("mtd: spi-nor: core: Update name and description of micron_st_nor_set_4byte_addr_mode")
+076aa4eac8b3 ("mtd: spi-nor: core: Move generic method to core - micron_st_nor_set_4byte_addr_mode")

@@ -1,0 +1,5 @@
+db003a28e03f ("netfs: fix kernel doc for nets_wait_for_outstanding_io()")
+f89ea63f1c65 ("netfs, 9p: Fix race between umount and async request completion")
+d9f85a04fb0e ("netfs: Use mempools for allocating requests and subrequests")
+120b878158cb ("netfs: Use subreq_counter to allocate subreq debug_index values")
+93bf1cc0096f ("netfs: Make netfs_io_request::subreq_counter an atomic_t")

@@ -1,0 +1,8 @@
+e0cca8b456e2 ("RDMA/srpt: Increase max_send_sge")
+66ced2eb2ab9 ("RDMA/srpt: Reduce max_recv_sge to 1")
+5dabcd0456d7 ("RDMA/srpt: Add support for immediate data")
+82305f823562 ("RDMA/srpt: Rework the srpt_alloc_srq() error path")
+6869e0004fe1 ("IB/srpt: Fix srpt_cm_req_recv() error path (2/2)")
+781a4016be54 ("ib_srpt: use kvmalloc to allocate ring pointers")
+33023fb85a42 ("IB/core: add max_send_sge and max_recv_sge attributes")
+b08fc5277aaa ("Merge tag 'overflow-v4.18-rc1-part2' of git://git.kernel.org/pub/scm/linux/kernel/git/kees/linux")

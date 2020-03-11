@@ -1,0 +1,4 @@
+50947d7fe9fa ("blk-mq: don't plug for head insertions in blk_execute_rq_nowait")
+110fdb4486d3 ("block: add rationale for not using blk_mq_plug() when applicable")
+ae948fd6d029 ("blk-mq: remove __blk_execute_rq_nowait")
+a327c341dc65 ("blk-mq: fix passthrough plugging")

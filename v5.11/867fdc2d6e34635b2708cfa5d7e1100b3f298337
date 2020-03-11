@@ -1,0 +1,5 @@
+867fdc2d6e34 ("scsi: ufs: Make UPIU trace easier differentiate among CDB, OSF, and TM")
+0ed083e91662 ("scsi: ufs: Distinguish between TM request UPIU and response UPIU in TM UPIU trace")
+be20b51cfd85 ("scsi: ufs: Distinguish between query REQ and query RSP in query trace")
+9d5095e74c83 ("scsi: ufs: Don't call trace_ufshcd_upiu() in case trace poit is disabled")
+28fa68fc557a ("scsi: ufs: Use __print_symbolic() for UFS trace string print")

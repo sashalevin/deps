@@ -1,0 +1,6 @@
+155bd9d1abd6 ("drbd: remove ->this_bdev")
+74f94454099e ("drbd: don't set ->bd_contains")
+21cf86614504 ("writeback: remove bdi->congested_fn")
+8c911f3d4c07 ("writeback: remove struct bdi_writeback_congested")
+492d76b21566 ("writeback: remove {set,clear}_wb_congested")
+987a0ef88bf7 ("bcache: stop setting ->queuedata")

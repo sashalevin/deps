@@ -1,0 +1,8 @@
+534224b958df ("firmware: arm_scmi: Warn if domain frequency multiplier is 0 or rounded off")
+77f5032e94f2 ("firmware: arm_scmi: Fix possible frequency truncation when using level indexing mode")
+8e3c98d9187e ("firmware: arm_scmi: Fix frequency truncation by promoting multiplier type")
+033ca4de1296 ("firmware: arm_scmi: Simplify error path in scmi_dvfs_device_opps_add()")
+3d99ed60721b ("firmware: arm_scmi: Extend perf protocol ops to get information of a domain")
+e9090e70e618 ("firmware: arm_scmi: Extend perf protocol ops to get number of domains")
+31c7c1397a33 ("firmware: arm_scmi: Add v3.2 perf level indexing mode support")
+3da82112355b ("firmware: arm_scmi: Harden perf domain info access")

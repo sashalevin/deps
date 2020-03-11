@@ -1,0 +1,5 @@
+bb06748207cf ("MIPS: add missing MSACSR and upper MSA initialization")
+cc97ab235f3f ("MIPS: Simplify FP context initialization")
+8c8d953c2800 ("MIPS: Schedule on CPUs we need to lose FPU for a mode switch")
+6887a56b6e8e ("sched/wait, arch/mips: Fix and convert wait_on_atomic_t() usage to the new wait_var_event() API")
+5e4def203816 ("Pass mode to wait_on_atomic_t() action funcs and provide default actions")

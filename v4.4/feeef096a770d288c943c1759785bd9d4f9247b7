@@ -1,0 +1,6 @@
+feeef096a770 ("mmc: use new core function mmc_get_dma_dir")
+a4cc7eb4416f ("mmc: dw_mmc: use the cookie's enum values for post/pre_req()")
+41f469cac266 ("mmc: moxart: fix wait_for_completion_interruptible_timeout return variable type")
+48857d9b7865 ("mmc: sdhci: move sdhci_pre_dma_transfer()")
+771a3dc22581 ("mmc: sdhci: further fix for DMA unmapping in sdhci_post_req()")
+054cedff5e02 ("mmc: sdhci: plug DMA mapping leak on error")

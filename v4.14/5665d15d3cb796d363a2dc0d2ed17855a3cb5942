@@ -1,0 +1,4 @@
+5665d15d3cb7 ("iommu: Use iommu_group_ref_get/put() for dev->iommu_group")
+293f2564f3dd ("iommu: Split iommu_group_remove_device() into helpers")
+cc5aed44a3a8 ("iommu: Consolitate ->add/remove_device() calls")
+b4ef725eeba1 ("iommu: Introduce wrappers around dev->iommu_fwspec")

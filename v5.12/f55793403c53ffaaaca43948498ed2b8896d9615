@@ -1,0 +1,8 @@
+f55793403c53 ("riscv: efi: enable generic EFI compressed boot")
+1ae41598f482 ("RISC-V: ignore xipImage")
+399c1ec8467c ("riscv: move the (z)install rules to arch/riscv/Makefile")
+44c922572952 ("RISC-V: enable XIP")
+a9451b8e1971 ("riscv: Set ARCH_HAS_STRICT_MODULE_RWX if MMU")
+de31ea4a1181 ("riscv: Mark some global variables __ro_after_init")
+2bfc6cd81bd1 ("riscv: Move kernel mapping outside of linear mapping")
+2f100585d045 ("riscv: Enable generic clockevent broadcast")

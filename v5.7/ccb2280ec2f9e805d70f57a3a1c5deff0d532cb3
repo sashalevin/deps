@@ -1,0 +1,6 @@
+ccb2280ec2f9 ("x86/kvm: Use separate percpu variable to track the enabling of asyncpf")
+f3f26dae05e3 ("x86/kvm: Silence per-cpu pr_info noise about KVM clocks and steal time")
+0a269a008f83 ("x86/kvm: Fix pr_info() for async PF setup/teardown")
+5aefd786fba7 ("x86/kvm: Change print code to use pr_*() format")
+b1d405751cd5 ("KVM: x86: Switch KVM guest to using interrupts for page ready APF delivery")
+2635b5c4a0e4 ("KVM: x86: interrupt based APF 'page ready' event delivery")

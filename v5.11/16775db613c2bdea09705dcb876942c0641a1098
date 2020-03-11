@@ -1,0 +1,8 @@
+16775db613c2 ("scsi: hisi_sas: Prevent parallel FLR and controller reset")
+b5a9fa20e3bf ("scsi: hisi_sas: Rename HISI_SAS_{RESET -> RESETTING}_BIT")
+2c74cb1f9222 ("scsi: hisi_sas: Directly snapshot registers when executing a reset")
+2843d2fb4225 ("scsi: hisi_sas: Delete some unused callbacks")
+872a90b5b466 ("scsi: hisi_sas: Switch back to original libsas event notifiers")
+26c7efc3f952 ("scsi: hisi_sas: Pass gfp_t flags to libsas event notifiers")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")

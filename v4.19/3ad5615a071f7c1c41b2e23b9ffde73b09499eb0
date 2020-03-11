@@ -1,0 +1,5 @@
+3ad5615a071f ("do_last(): merge the may_open() calls")
+7be219b4dcd9 ("atomic_open(): lift the call of may_open() into do_last()")
+6fb968cdf9d0 ("atomic_open(): return the right dentry in FMODE_OPENED case")
+da5ebf5aa676 ("lookup_open(): saner calling conventions (return dentry on success)")
+239eb983383b ("atomic_open(): saner calling conventions (return dentry on success)")

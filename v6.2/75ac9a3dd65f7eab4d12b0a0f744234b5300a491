@@ -1,0 +1,5 @@
+75ac9a3dd65f ("ksmbd: fix race condition from parallel smb2 lock requests")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+3a9b557f44ea ("ksmbd: delete asynchronous work from list")
+d3ca9f7aeba7 ("ksmbd: fix possible memory leak in smb2_lock()")
+f8d6e7442aa7 ("ksmbd: fix typo, syncronous->synchronous")

@@ -1,0 +1,4 @@
+659e19302791 ("arm64/mm: convert set_pte_at() to set_ptes(..., 1)")
+6f1bace9a9fb ("arm64: hugetlb: fix set_huge_pte_at() to work with all swap entries")
+d77e59a8fccd ("arm64: mte: Lock a page for MTE tag initialisation")
+e059853d14ca ("arm64: mte: Fix/clarify the PG_mte_tagged semantics")

@@ -1,0 +1,7 @@
+00db58cf2118 ("xen: make HYPERVISOR_set_debugreg() always_inline")
+ee1f9d191432 ("xen: allow pv-only hypercalls only with CONFIG_XEN_PV")
+847d9317b2b9 ("x86/xen: Mark xen_force_evtchn_callback() noinstr")
+7361fac0465b ("x86/xen: Make set_debugreg() noinstr")
+f4afb713e5c3 ("x86/xen: Make get_debugreg() noinstr")
+209cfd0cbb67 ("x86/xen: Make write_cr2() noinstr")
+0a53c9acf4da ("x86/xen: Make read_cr2() noinstr")

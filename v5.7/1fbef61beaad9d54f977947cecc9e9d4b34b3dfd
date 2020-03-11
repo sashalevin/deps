@@ -1,0 +1,7 @@
+1fbef61beaad ("phy: ti: phy-j721e-wiz: stop name conflict if multiple serdes are initialized")
+9e405f87b69b ("phy: ti: j721e-wiz: Enable reference clock output in cmn_refclk_<p/m>")
+040cbe768731 ("phy: ti: j721e-wiz: Model the internal clocks without device tree input")
+7e52a39f1942 ("phy: ti: j721e-wiz: Delete "clk_div_sel" clk provider during cleanup")
+549cb1ae3e56 ("phy: ti: j721e-wiz: Remove "regmap_field" from wiz_clk_{mux|div}_sel")
+5a72122dcfd9 ("phy: ti: j721e-wiz: Constify structs")
+7ae14cf581f2 ("phy: ti: j721e-wiz: Implement DisplayPort mode to the wiz driver")

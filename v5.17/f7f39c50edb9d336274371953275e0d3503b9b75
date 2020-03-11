@@ -1,0 +1,6 @@
+f7f39c50edb9 ("KVM: x86: Exit to userspace if fastpath triggers one on instruction skip")
+ea60229af7fb ("KVM: x86: Dedup fastpath MSR post-handling logic")
+0dd45f2cd8cc ("KVM: x86: Re-enter guest if WRMSR(X2APIC_ICR) fastpath is successful")
+896046474f8d ("KVM: x86: Introduce kvm_x86_call() to simplify static calls of kvm_x86_ops")
+f4854bf741c4 ("KVM: x86: Replace static_call_cond() with static_call()")
+5dcc1e76144f ("Merge tag 'kvm-x86-misc-6.11' of https://github.com/kvm-x86/linux into HEAD")

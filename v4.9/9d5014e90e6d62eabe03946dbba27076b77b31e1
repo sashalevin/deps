@@ -1,0 +1,7 @@
+9d5014e90e6d ("PCI: rcar: Factor out rcar_pcie_hw_init() call")
+517ca93a7159 ("PCI: rcar: Add R-Car gen3 PHY support")
+bd7b6d147a14 ("PCI: rcar: Remove PHYRDY polling from rcar_pcie_hw_init_h1()")
+90634e854079 ("PCI: rcar: Convert PCI scan API to pci_scan_root_bus_bridge()")
+ff1677e23165 ("PCI: rcar: Use of_device_get_match_data() to simplify probe")
+49da21108f77 ("PCI: rcar: Add gen3 fallback compatibility string for pcie-rcar")
+d83a328ad185 ("PCI: rcar: Use gen2 fallback compatibility last")

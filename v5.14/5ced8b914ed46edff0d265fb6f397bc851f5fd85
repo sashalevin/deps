@@ -1,0 +1,8 @@
+5ced8b914ed4 ("ALSA: memalloc: Move snd_malloc_ops definition into memalloc.c again")
+5a55b51a3dea ("ALSA: memalloc: remove snd_dma_sg_ops declaration")
+a25684a95646 ("ALSA: memalloc: Support for non-contiguous page allocation")
+228af5a4fa3a ("ALSA: pcm: Workaround for a wrong offset in SYNC_PTR compat ioctl")
+d5c505581674 ("ALSA: memalloc: Support WC allocation on all architectures")
+58a95dfa4fdd ("ALSA: memalloc: Correctly name as WC")
+723c1252e058 ("ALSA: memalloc: Minor refactoring")
+427ae2689db0 ("ALSA: core: Add device-managed page allocator helper")

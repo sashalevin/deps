@@ -1,0 +1,7 @@
+f4d01a259374 ("srcu: Use static init for statically allocated in-module srcu_struct")
+3e67cb8a3c62 ("srcu: Add whitespace to __SRCU_STRUCT_INIT() & __DEFINE_SRCU()")
+db8f1471c613 ("srcu: Use export for srcu_struct defined by DEFINE_STATIC_SRCU()")
+056b89e7e699 ("module: Make srcu_struct ptr array as read-only")
+fe15b50cdeee ("srcu: Allocate per-CPU data for DEFINE_SRCU() in modules")
+a38d1107f937 ("bpf: support raw tracepoints in modules")
+cee1352f7926 ("Merge branch 'core-rcu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

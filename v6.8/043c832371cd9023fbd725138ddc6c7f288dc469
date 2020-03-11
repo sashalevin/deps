@@ -1,0 +1,7 @@
+043c832371cd ("f2fs: compress: fix error path of inc_valid_block_count()")
+0f1c6ede6da9 ("f2fs: introduce get_available_block_count() for cleanup")
+87161a2b0aed ("f2fs: deprecate io_bits")
+c2034ef6192a ("f2fs: fix NULL pointer dereference in f2fs_submit_page_write()")
+54607494875e ("f2fs: compress: fix to avoid inconsistence bewteen i_blocks and dnode")
+eb8fbaa53374 ("f2fs: compress: fix to check unreleased compressed cluster")
+8a430dd49e9c ("f2fs: compress: fix to guarantee persisting compressed blocks by CP")

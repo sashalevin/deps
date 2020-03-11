@@ -1,0 +1,8 @@
+669554c512d2 ("net: hns3: direct return when receive a unknown mailbox message")
+09431ed8de87 ("net: hns3: refactor function hclge_mbx_handler()")
+a1aed456e326 ("net: hns3: add query vf ring and vector map relation")
+c59d60629684 ("net: hns3: add return value for mailbox handling in PF")
+d9069dab2075 ("net: hns3: add log for workqueue scheduled late")
+0251d196b0e1 ("net: hns3: ignore reset event before initialization process is done")
+f29da4088fb4 ("net: hns3: change hclge/hclgevf workqueue to WQ_UNBOUND mode")
+63b1279d9905 ("net: hns3: check queue id range before using")

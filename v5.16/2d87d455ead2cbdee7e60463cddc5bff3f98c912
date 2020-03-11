@@ -1,0 +1,4 @@
+2d87d455ead2 ("blk-mq: don't add non-pt request with ->end_io to batch")
+ab3e1d3bbab9 ("block: allow end_io based requests in the completion batch handling")
+5581a5ddfe8d ("block: add completion handler for fast path")
+0d7a29a2b5ea ("block: move blk_print_req_error to blk-mq.c")

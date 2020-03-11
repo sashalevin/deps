@@ -1,0 +1,7 @@
+8749efc0c0c3 ("Revert "printk: lock/unlock console only for new logbuf entries"")
+3ac37a93fa92 ("printk: lock/unlock console only for new logbuf entries")
+ba552399954d ("printk: Split the code for storing a message into the log buffer")
+43a17111c255 ("printk: wake up klogd in vprintk_emit")
+c14376de3a1b ("printk: Wake klogd when passing console_lock owner")
+c162d5b4338d ("printk: Hide console waiter logic into helpers")
+dbdda842fe96 ("printk: Add console owner and waiter logic to load balance console writes")

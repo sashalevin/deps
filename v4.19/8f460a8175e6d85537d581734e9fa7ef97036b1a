@@ -1,0 +1,7 @@
+8f460a8175e6 ("powerpc/watchpoint: Enable watchpoint functionality on power10 guest")
+a24204c30796 ("powerpc/book3s64/pkeys: kill cpu feature key CPU_FTR_PKEY")
+a3ea40d5c736 ("powerpc: Add POWER10 architected mode")
+736bcdd3a9fc ("powerpc/mm: Remove kvm radix prefetch workaround for Power9 DD2.2")
+047e6575aec7 ("powerpc/mm: Fixup tlbie vs mtpidr/mtlpidr ordering issue on POWER9")
+09ce98cacd51 ("powerpc/book3s64/radix: Rename CPU_FTR_P9_TLBIE_BUG feature flag")
+677733e296b5 ("powerpc/book3s64/mm: Don't do tlbie fixup for some hardware revisions")

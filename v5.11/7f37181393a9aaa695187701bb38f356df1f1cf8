@@ -1,0 +1,7 @@
+7f37181393a9 ("kbuild: move 'PHONY += modules_prepare' to the common part")
+6072b2c49d23 ("kbuild: warn if a different compiler is used for external module builds")
+3e3005df73b5 ("kbuild: unify modules(_install) for in-tree and external modules")
+4b97ec0e9cfd ("kbuild: remove unneeded mkdir for external modules_install")
+6e0839fda3f8 ("kbuild: replace sed with $(subst ) or $(patsubst )")
+c75173a26948 ("Makefile: Remove # characters from compiler string")
+db07562aeac7 ("Makefile: reuse CC_VERSION_TEXT")

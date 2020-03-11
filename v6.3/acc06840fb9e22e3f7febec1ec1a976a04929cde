@@ -1,0 +1,4 @@
+acc06840fb9e ("drm/i915/dsi: bxt/icl GPIO set value do not need gpio source")
+ba24d15859e0 ("drm/i915/dsi: rename platform specific *_exec_gpio() to *_gpio_set_value()")
+03930e3d9756 ("drm/i915/dsi: switch mipi_exec_gpio() from dev_priv to i915")
+211ed0b3ac9a ("drm/i915/dsi: assume BXT gpio works for non-native GPIO")

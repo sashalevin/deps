@@ -1,0 +1,5 @@
+d8fccd9ca5f9 ("arm64: Allow to enable PREEMPT_RT.")
+43b3dfdd0455 ("arm64: support batched/deferred tlb shootdown during page reclamation/migration")
+cd7f176aea5f ("arm64/mm: try VMA lock-based page fault handling first")
+42b2547137f5 ("arm64/mm: enable ARCH_SUPPORTS_PAGE_TABLE_CHECK")
+5e10f9887ed8 ("arm64: mm: Fix TLBI vs ASID rollover")

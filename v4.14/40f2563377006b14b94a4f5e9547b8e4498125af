@@ -1,0 +1,8 @@
+40f256337700 ("ASoC: fsl_ssi: Use snd_soc_init_dma_data instead")
+f31768349447 ("ASoC: fsl_ssi: Rename fsl_ssi_private to fsl_ssi")
+10582635dc8f ("ASoC: fsl_ssi: add 20-bit sample format for AC'97 and use it for capture")
+01ca485171e3 ("ASoC: fsl_ssi: only enable proper channel slots in AC'97 mode")
+c997a92a7816 ("ASoC: fsl_ssi: call _fsl_ssi_set_dai_fmt() just once in AC'97 mode")
+b880b8056b31 ("ASoC: fsl_ssi: serialize AC'97 register access operations")
+695b78b548d8 ("ASoC: fsl_ssi: AC'97 ops need regmap, clock and cleaning up on failure")
+b0a7043d5c2c ("ASoC: fsl_ssi: Caculate bit clock rate using slot number and width")

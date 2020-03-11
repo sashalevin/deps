@@ -1,0 +1,7 @@
+bc07fb417007 ("i2c: designware: Remove ->disable() callback")
+fee61247b7f6 ("i2c: designware: Remove common i2c_dw_disable_int()")
+c57813b8b288 ("i2c: designware: Lock the adapter while setting the suspended flag")
+6960331dee17 ("i2c: designware: Add missing locks")
+0897f1735910 ("i2c: designware-pci: use __maybe_unused for PM functions")
+17631e8ca2d3 ("i2c: designware: Add driver support for AMD NAVI GPU")
+a5df4c14b9a9 ("i2c: designware: Switch header to use BIT() and GENMASK()")

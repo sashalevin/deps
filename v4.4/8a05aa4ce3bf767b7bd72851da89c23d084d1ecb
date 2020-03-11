@@ -1,0 +1,7 @@
+8a05aa4ce3bf ("mtip32xx: avoid to read HOST_CAP from HW in .queue_rq()")
+a4e84aae8139 ("mtip32xx: use runtime tag to initialize command header")
+008e56d20022 ("mtip32xx: Cleanup queued requests after surprise removal")
+abb0ccd185c9 ("mtip32xx: Implement timeout handler")
+51c6570eb922 ("mtip32xx: Handle safe removal during IO")
+cfc05bd31384 ("mtip32xx: Fix broken service thread handling")
+6f3b0e8bcf3c ("blk-mq: add a flags parameter to blk_mq_alloc_request")

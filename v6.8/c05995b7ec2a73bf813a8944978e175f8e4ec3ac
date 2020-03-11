@@ -1,0 +1,6 @@
+c05995b7ec2a ("mm/treewide: align up pXd_leaf() retval across archs")
+e72c7c2b8866 ("mm/treewide: drop pXd_large()")
+924bd6a8c967 ("mm/x86: drop two unnecessary pud_leaf() definitions")
+83ea65da325c ("mm/x86: replace pgd_large() with pgd_leaf()")
+bd18b688220c ("mm/powerpc: replace pXd_is_leaf() with pXd_leaf()")
+a2aa530d856d ("mm/powerpc: define pXd_large() with pXd_leaf()")

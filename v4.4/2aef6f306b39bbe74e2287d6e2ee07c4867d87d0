@@ -1,0 +1,7 @@
+2aef6f306b39 ("perf: Force architectures to opt-in to guest callbacks")
+2934e3d09350 ("perf: Stop pretending that perf can handle multiple guest callbacks")
+ff083a2d972f ("perf: Protect perf_guest_cbs with RCU")
+e840f42a4992 ("KVM: arm64: Fix PMU probe ordering")
+6fadc1241c33 ("KVM: arm64: perf: Replace '0xf' instances with ID_AA64DFR0_PMUVER_IMP_DEF")
+63b3f96e1a98 ("kvm: Select SCHED_INFO instead of TASK_DELAY_ACCT")
+9a8aae605b80 ("Merge branch 'kvm-arm64/kill_oprofile_dependency' into kvmarm-master/next")

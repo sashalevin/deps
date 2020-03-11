@@ -1,0 +1,4 @@
+cd9239660b8c ("ACPI: processor: Move checks and availability of acpi_processor earlier")
+47ec9b417ed9 ("ACPI: processor: Fix memory leaks in error paths of processor_add()")
+fadf231f0a06 ("ACPI: processor: Return an error if acpi_processor_get_info() fails in processor_add()")
+a02f66bb3cf4 ("ACPI: Move ACPI_HOTPLUG_CPU to be disabled on arm64 and riscv")

@@ -1,0 +1,8 @@
+6d991ba509eb ("x86/speculation: Prevent stale SPEC_CTRL msr content")
+e6da8bb6f9ab ("x86/speculation: Split out TIF update")
+5635d99953f0 ("x86/speculation: Avoid __switch_to_xtra() calls")
+ff16701a29cb ("x86/process: Consolidate and simplify switch_to_xtra() code")
+5bfbe3ad5840 ("x86/speculation: Prepare for per task indirect branch speculation control")
+01daf56875ee ("x86/speculation: Reorganize speculation control MSRs update")
+26c4d75b2340 ("x86/speculation: Rename SSBD update functions")
+d82924c3b8d0 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

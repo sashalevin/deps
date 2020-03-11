@@ -1,0 +1,8 @@
+8468f45091d2 ("bcache: fix use-after-free problem in bcache_device_free()")
+b75f4aed88fe ("bcache: move the del_gendisk call out of bcache_device_free")
+bc70852fd104 ("bcache: convert to blk_alloc_disk/blk_cleanup_disk")
+21cf86614504 ("writeback: remove bdi->congested_fn")
+8c911f3d4c07 ("writeback: remove struct bdi_writeback_congested")
+492d76b21566 ("writeback: remove {set,clear}_wb_congested")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+987a0ef88bf7 ("bcache: stop setting ->queuedata")

@@ -1,0 +1,8 @@
+5e672cd69f0a ("xfs: introduce xfs_inodegc_push()")
+6191cf3ad59f ("xfs: flush inodegc workqueue tasks before cancel")
+01e8f379a489 ("xfs: flush inode inactivation work when compiling usage statistics")
+ab23a7768739 ("xfs: per-cpu deferred inode inactivation queues")
+62af7d54a0ec ("xfs: detach dquots from inode if we don't need to inactivate it")
+c6c2066db396 ("xfs: move xfs_inactive call to xfs_inode_mark_reclaimable")
+0ed17f01c854 ("xfs: introduce all-mounts list for cpu hotplug notifications")
+f1653c2e2831 ("xfs: introduce CPU hotplug infrastructure")

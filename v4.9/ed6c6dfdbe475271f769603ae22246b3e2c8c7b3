@@ -1,0 +1,6 @@
+ed6c6dfdbe47 ("rtc: s35390a: convert to devm_rtc_allocate_device")
+4053e74996b8 ("rtc: s35390a: convert to devm_i2c_new_dummy_device()")
+ca83542cdb5c ("rtc: s35390a: convert to i2c_new_dummy_device")
+032796344092 ("rtc: s35390a: introduce struct device in probe")
+488c6dfe40a6 ("rtc: s35390a: remove useless message")
+16486d0c1c65 ("rtc: s35390a: handle invalid RTC time")

@@ -1,0 +1,8 @@
+e2f6ef091562 ("xprtrdma: FMR does not need list_del_init()")
+451d26e151f0 ("xprtrdma: Pass only the list of registered MRs to ro_unmap_sync")
+4b196dc6fee9 ("xprtrdma: Pre-mark remotely invalidated MRs")
+04d25b7d5d1b ("xprtrdma: On invalidation failure, remove MWs from rl_registered")
+9a5c63e9c405 ("xprtrdma: Refactor management of mw_list field")
+3a72dc771cc3 ("xprtrdma: Relocate connection helper functions")
+a100fda1a2e1 ("xprtrdma: Refactor FRMR invalidation")
+8d38de65644d ("xprtrdma: Make FRWR send queue entry accounting more accurate")

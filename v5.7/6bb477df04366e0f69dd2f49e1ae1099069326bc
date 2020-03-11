@@ -1,0 +1,6 @@
+6bb477df0436 ("spi: use specific last_cs instead of last_cs_enable")
+5cb4e1f33e5e ("spi: Enable tracing of the SPI setup CS selection")
+40b82c2d9a78 ("spi: Use SPI_MODE_X_MASK")
+d347b4aaa1a0 ("spi: sync up initial chipselect state")
+d40f0b6f2e21 ("spi: Avoid setting the chip select if we don't need to")
+809b1b04df89 ("spi: introduce fallback to pio")

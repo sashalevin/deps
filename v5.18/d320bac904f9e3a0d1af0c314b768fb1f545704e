@@ -1,0 +1,7 @@
+d320bac904f9 ("firewire: core: use guard macro to maintain list of asynchronous transaction")
+06cc078c078e ("firewire: core: add tracepoints event for asynchronous inbound response")
+944b06840a73 ("firewire: core: add tracepoints events for asynchronous outbound request")
+57614c28843d ("firewire: core: add support for Linux kernel tracepoints")
+e8cd3e4f2761 ("firewire: core: replace local macros with common inline functions for asynchronous packet header")
+dcadfd7f7c74 ("firewire: core: use union for callback of transaction completion")
+13a55d6bb15f ("firewire: core: use kref structure to maintain lifetime of data for fw_request structure")

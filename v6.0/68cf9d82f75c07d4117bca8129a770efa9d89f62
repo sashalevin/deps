@@ -1,0 +1,8 @@
+68cf9d82f75c ("RDMA/erdma: Introduce dma pool for hardware responses of CMDQ requests")
+3b3dfd58bace ("RDMA/erdma: Refactor the original doorbell allocation mechanism")
+7e9a1dada226 ("RDMA/erdma: Allocate doorbell resources from hardware")
+128f8404306d ("RDMA/erdma: Configure PAGE_SIZE to hardware")
+54d8fffc2a50 ("RDMA/erdma: Implement the lifecycle of reflushing work for each QP")
+b4d46c57d2fb ("RDMA/erdma: Fix a typo in annotation")
+71c6925f280a ("RDMA/erdma: Report atomic capacity when hardware supports atomic feature")
+9bdb9350f380 ("RDMA/erdma: Support dynamic mtu")

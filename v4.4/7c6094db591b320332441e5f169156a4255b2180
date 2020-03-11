@@ -1,0 +1,4 @@
+7c6094db591b ("rcu: update: Make RCU_EXPEDITE_BOOT be the default")
+3e42ec1aa716 ("rcu: Allow expedited grace periods to be disabled at init")
+5a9be7c628c5 ("rcu: Add rcu_normal kernel parameter to suppress expediting")
+06f60de19d31 ("rcu: Short-circuit synchronize_sched_expedited() if only one CPU")

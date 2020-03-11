@@ -1,0 +1,7 @@
+6a66b01de488 ("ALSA: control: Don't embed ctl_dev")
+a135dfb5de15 ("ALSA: led control - add sysfs kcontrol LED marking layer")
+cb17fe0045aa ("ALSA: control - add sysfs support to the LED trigger module")
+22d8de62f11b ("ALSA: control - add generic LED trigger module as the new control layer")
+3f0638a0333b ("ALSA: control - add layer registration routines")
+1fa4445f9adf ("ALSA: control - introduce snd_ctl_notify_one() helper")
+6564d0ad67ef ("ALSA: ctl: Workaround for lockdep warning wrt card->ctl_files_rwlock")

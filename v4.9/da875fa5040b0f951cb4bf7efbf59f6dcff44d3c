@@ -1,0 +1,5 @@
+da875fa5040b ("net: fec: Fix reference count leak in fec series ops")
+c72a0bc0aa19 ("net: freescale: fec: Fix ethtool -d runtime PM")
+a31eda65ba21 ("net: fec: fix clock count mis-match")
+c43eab3eddb4 ("net: fec: add missed clk_disable_unprepare in remove")
+a069215cf598 ("net: fec: Fix unbalanced PM runtime calls")

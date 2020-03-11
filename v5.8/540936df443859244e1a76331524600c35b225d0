@@ -1,0 +1,5 @@
+540936df4438 ("s390/qdio: rework q->qdio_error indication")
+3bf526e036c9 ("s390/qdio: inline qdio_kick_handler()")
+ed645696e07a ("s390/qdio: remove qdio_inbound_q_moved() wrapper")
+309f98dbc66c ("s390/qdio: make qdio_handle_aobs() more robust")
+a709423f7a3a ("s390/qdio: remove internal polling in non-thinint path")

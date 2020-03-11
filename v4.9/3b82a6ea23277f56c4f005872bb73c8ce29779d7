@@ -1,0 +1,6 @@
+3b82a6ea2327 ("Revert "arm64: uaccess: implement unsafe accessors"")
+a1f33941f7e1 ("arm64: uaccess: implement unsafe accessors")
+84624087dd7e ("arm64: uaccess: Don't bother eliding access_ok checks in __{get, put}_user")
+4d8efc2d5ee4 ("arm64: Use pointer masking to limit uaccess speculation")
+3170d8d226c2 ("kill {__,}{get,put}_user_unaligned()")
+eea86b637a15 ("Merge branches 'uaccess.alpha', 'uaccess.arc', 'uaccess.arm', 'uaccess.arm64', 'uaccess.avr32', 'uaccess.bfin', 'uaccess.c6x', 'uaccess.cris', 'uaccess.frv', 'uaccess.h8300', 'uaccess.hexagon', 'uaccess.ia64', 'uaccess.m32r', 'uaccess.m68k', 'uaccess.metag', 'uaccess.microblaze', 'uaccess.mips', 'uaccess.mn10300', 'uaccess.nios2', 'uaccess.openrisc', 'uaccess.parisc', 'uaccess.powerpc', 'uaccess.s390', 'uaccess.score', 'uaccess.sh', 'uaccess.sparc', 'uaccess.tile', 'uaccess.um', 'uaccess.unicore32', 'uaccess.x86' and 'uaccess.xtensa' into work.uaccess")

@@ -1,0 +1,7 @@
+88074c8b1376 ("btrfs: raid56: make it more explicit that cache rbio should have all its data sectors uptodate")
+4d1004661333 ("btrfs: update stripe_sectors::uptodate in steal_rbio")
+d4e28d9b5f04 ("btrfs: raid56: make steal_rbio() subpage compatible")
+07e4d3808047 ("btrfs: raid56: make __raid_recover_endio_io() subpage compatible")
+00425dd976d3 ("btrfs: raid56: introduce btrfs_raid_bio::bio_sectors")
+eb3570607c8c ("btrfs: raid56: introduce btrfs_raid_bio::stripe_sectors")
+dd137dd1f2d7 ("btrfs: factor out allocating an array of pages")

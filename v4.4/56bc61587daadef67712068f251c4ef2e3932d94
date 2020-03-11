@@ -1,0 +1,8 @@
+56bc61587daa ("usb: gadget: u_audio: protect stream runtime fields with stream spinlock")
+96afb54ece0e ("usb: gadget: u_audio: remove caching of stream buffer parameters")
+6b37bd78d30c ("usb: gadget: u_audio: update hw_ptr in iso_complete after data copied")
+eb9fecb9e69b ("usb: gadget: f_uac2: split out audio core")
+7158b57a4956 ("usb: gadget: f_uac2: remove platform driver/device creation")
+e92b9d449d04 ("usb: gadget: uac2: add req_number as parameter")
+88f950a69174 ("usb: gadget: f_uac2: improve error handling")
+f1d3861d63a5 ("usb: gadget: f_uac2: fix error handling at afunc_bind")

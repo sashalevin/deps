@@ -1,0 +1,8 @@
+4d1a1e4686bd ("drm/msm: remove msm_drm_private::bridges field")
+cd459c005de3 ("drm/msm: fix NULL-deref on irq uninstall")
+6808abdb33bf ("drm/msm: fix use-after-free on probe deferral")
+8e809dfb9b25 ("drm/msm: remove unused plane_property field from msm_drm_private")
+0054ac2c7e6c ("drm/msm: don't store created planes, connectors and encoders")
+fa560afaaed9 ("drm/msm: loop over encoders using drm_for_each_encoder()")
+745b51585a6c ("drm/msm/dpu: remove manual destruction of DRM objects")
+d28ea556267c ("drm/msm: properly add and remove internal bridges")

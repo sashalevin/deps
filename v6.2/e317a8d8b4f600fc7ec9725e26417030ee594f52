@@ -1,0 +1,6 @@
+e317a8d8b4f6 ("mm/ksm: convert break_ksm() from walk_page_range_vma() to folio_walk")
+afccb0804fc7 ("mm: more ptep_get() conversion")
+617c28ecab22 ("filemap: batch PTE mappings")
+3bd786f76de2 ("mm: convert do_set_pte() to set_pte_range()")
+de74976eb651 ("filemap: add filemap_map_folio_range()")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

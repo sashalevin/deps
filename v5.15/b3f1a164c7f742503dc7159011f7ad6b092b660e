@@ -1,0 +1,6 @@
+b3f1a164c7f7 ("net: dsa: mv88e6xxx: fix marvell 6350 switch probing")
+c050f5e91b47 ("net: dsa: mv88e6xxx: Fill in STU support for all supported chips")
+2ee84cfefb1e ("net: dsa: mv88e6xxx: convert to phylink_generic_validate()")
+d4ebf12bcec4 ("net: dsa: mv88e6xxx: populate supported_interfaces and mac_capabilities")
+dc2fc9f03c5c ("net: dsa: mv88e6xxx: Don't support >1G speeds on 6191X on ports other than 10")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")

@@ -1,0 +1,6 @@
+8a2cf9f5709c ("NFSD: Remove unused NFSv2 directory entry encoders")
+f5dcccd647da ("NFSD: Update the NFSv2 READDIR entry encoder to use struct xdr_stream")
+94c8f8c682a6 ("NFSD: Update the NFSv2 READDIR result encoder to use struct xdr_stream")
+8141d6a2bb6c ("NFSD: Count bytes instead of pages in the NFSv2 READDIR encoder")
+d52532002ffa ("NFSD: Add a helper that encodes NFSv3 directory offset cookies")
+788cd46ecf83 ("NFSD: Add helper to set up the pages where the dirlist is encoded")

@@ -1,0 +1,8 @@
+beb45974dd49 ("ALSA: timer: Use guard() for locking")
+ed96f6394e1b ("ALSA: timer: Use automatic cleanup of kfree()")
+6cc844504638 ("ALSA: timer: minimize open-coded access to hw.resolution")
+95cc637c1afd ("ALSA: timer: Use deferred fasync helper")
+ffdd98277f0a ("ALSA: timer: Unconditionally unlink slave instances, too")
+c0317c0e8709 ("ALSA: timer: Fix use-after-free problem")
+75b1a8f9d62e ("ALSA: Convert strlcpy to strscpy when return value is unused")
+f401b2c9931a ("Merge tag 'asoc-v5.10' of https://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound into for-linus")

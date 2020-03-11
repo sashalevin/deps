@@ -1,0 +1,8 @@
+7b8674cae80f ("selftests/clone3: Fix compiler warning")
+449a3c6c394b ("kselftest/clone3: Make test names for set_tid test stable")
+a019ff3b8b10 ("selftests/clone3: check that all pids are released on error paths")
+28df751539e8 ("selftests/clone3: report a correct number of fails")
+4f5c289ea66a ("selftests/clone3: flush stdout and stderr before clone3() and _exit()")
+41585bbeeef9 ("selftests: add tests for clone3() with *set_tid")
+17a810699c18 ("selftests: add tests for clone3()")
+de5287235631 ("tests: test CLONE_CLEAR_SIGHAND")

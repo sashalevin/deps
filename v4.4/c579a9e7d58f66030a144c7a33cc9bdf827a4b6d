@@ -1,0 +1,5 @@
+c579a9e7d58f ("netfilter: gre: Use consistent GRE and PTTP header structure instead of the ones defined by netfilter")
+ecc6569f3503 ("netfilter: gre: Use consistent GRE_* macros instead of ones defined by netfilter.")
+03459345bc00 ("pptp: Refactor the struct and macros of PPTP codes")
+ab10dccb1160 ("rps: Inspect PPTP encapsulated by GRE to get flow hash")
+78565208d73c ("net: Copy inner L3 and L4 headers as unaligned on GRE TEB")

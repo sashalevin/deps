@@ -1,0 +1,8 @@
+63b268d232b8 ("IB/isert: Properly release resources on DEVICE_REMOVAL")
+69c48846f1c7 ("iser-target: Remove redundant wait in release_conn")
+6d1fba0c2cc7 ("iser-target: Rework connection termination")
+f81bf458208e ("iser-target: Separate flows for np listeners and connections cma events")
+aea92980601f ("iser-target: Add new state ISER_CONN_BOUND to isert_conn")
+422bd0acb062 ("IB/isert: Support the remote invalidation exception")
+13bce4821fb9 ("IB/isert: Declare correct flags when accepting a connection")
+4a061b287b1e ("IB/ulps: Avoid calling ib_query_device")

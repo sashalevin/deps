@@ -1,0 +1,6 @@
+28307d938fb2 ("percpu: make pcpu_alloc() aware of current gfp context")
+71546d100422 ("percpu: include linux/sched.h for cond_resched()")
+554fef1c39ee ("percpu: allow select gfp to be passed to underlying allocators")
+47504ee04b92 ("percpu: add __GFP_NORETRY semantics to the percpu balancing path")
+15d9f3d116c0 ("percpu: match chunk allocator declarations with definitions")
+453f85d43fa9 ("mm: remove __GFP_COLD")

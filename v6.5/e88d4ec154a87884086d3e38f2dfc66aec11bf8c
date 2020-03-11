@@ -1,0 +1,7 @@
+e88d4ec154a8 ("iommufd: Add iommufd_device_replace()")
+ea2d6124b523 ("iommufd: Reorganize iommufd_device_attach into iommufd_device_change_pt")
+31422dff187b ("iommufd: Fix locking around hwpt allocation")
+91a2e17e243f ("iommufd: Replace the hwpt->devices list with iommufd_group")
+3a3329a7f14a ("iommufd: Add iommufd_group")
+d525a5b8cf39 ("iommufd: Move isolated msi enforcement to iommufd_device_bind()")
+86b0a96c2952 ("iommufd: Add iommufd_ctx_has_group()")

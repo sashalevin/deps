@@ -1,0 +1,5 @@
+1b5fc84aba17 ("powerpc/smp: Fix NMI IPI timeout")
+5b73151fff63 ("powerpc: NMI IPI make NMI IPIs fully sychronous")
+ac61c1156623 ("powerpc: Fix smp_send_stop NMI IPI handling")
+6bed3237624e ("powerpc: use NMI IPI for smp_send_stop")
+d58fdd9d7f22 ("powerpc/watchdog: Do not backtrace locked CPUs twice if allcpus backtrace is enabled")

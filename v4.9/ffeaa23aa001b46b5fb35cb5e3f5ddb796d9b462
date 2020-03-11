@@ -1,0 +1,7 @@
+ffeaa23aa001 ("pinctrl: stm32: add missing of_node_put")
+2254e77665d5 ("pinctrl: stm32: defer probe if reset resource is not yet ready")
+d888229ef2fb ("pinctrl: stm32: don't print an error on probe deferral during clock get")
+17cf082d6d0d ("pinctrl: stm32: check node status before new gpio bank registering")
+d9e99bdfb7b1 ("pinctrl: stm32: explicitly request exclusive reset control")
+1dc9d289154b ("pinctrl: stm32: add possibility to use gpio-ranges to declare bank range")
+dca72e09e0cd ("pinctrl: stm32: fix bad location of gpiochip_lock_as_irq")

@@ -1,0 +1,5 @@
+2f69a81ad687 ("x86/head_64: Store boot_params pointer in callee save register")
+469693d8f622 ("x86/head/64: Re-enable stack protection")
+bcce82908333 ("x86/sev: Detect/setup SEV/SME features earlier in boot")
+6198311093da ("x86/cc: Move arch/x86/{kernel/cc_platform.c => coco/core.c}")
+aa5a461171f9 ("x86/sev: Add an x86 version of cc_platform_has()")

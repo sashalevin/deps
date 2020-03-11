@@ -1,0 +1,8 @@
+583d369b36a9 ("KVM: x86: Fold fx_init() into kvm_arch_vcpu_create()")
+e8f65b9bb483 ("KVM: x86: Remove defunct setting of XCR0 for guest during vCPU create")
+5ebbc470d7f3 ("KVM: x86: Remove defunct setting of CR0.ET for guests during vCPU create")
+ed02b213098a ("KVM: SVM: Guest FPU state save/restore not needed for SEV-ES guest")
+f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")
+2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")
+add5e2f04541 ("KVM: SVM: Add support for the SEV-ES VMSA")
+2fcf4876ada8 ("KVM: nSVM: implement on demand allocation of the nested state")

@@ -1,0 +1,3 @@
+77d4df41d53e ("netfilter: remove the compat_{get,set} methods")
+01ea306f2ac2 ("netfilter: drop outermost socket lock in getsockopt()")
+3f34cfae1238 ("netfilter: on sockopt() acquire sock lock only in the required scope")

@@ -1,0 +1,8 @@
+2750af50a360 ("perf intel-pt: pkt-decoder: Add CFE and EVD packets")
+fa8f949d16c0 ("perf intel-pt: Add VM Time Correlation to decoder")
+31c7e27dae0e ("perf intel-pt: Better 7-byte timestamp wraparound logic")
+5ac35d778a40 ("perf intel-pt: Pass the first timestamp to the decoder")
+80a038860b5c ("perf intel-pt: Amend decoder to track the NR flag")
+90af7555c36f ("perf intel-pt: Retain the last PIP packet payload as is")
+c840cbfeffcb ("perf intel-pt: Add PSB events")
+6af4b60033e0 ("perf intel-pt: Fix IPC with CYC threshold")

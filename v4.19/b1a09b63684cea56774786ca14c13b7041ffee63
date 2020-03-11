@@ -1,0 +1,5 @@
+b1a09b63684c ("can: mcp251x: mcp251x_can_probe(): add missing unregister_candev() in error path")
+2d52dabbef60 ("can: mcp251x: add GPIO support")
+8ce8c0abcba3 ("can: mcp251x: only reset hardware as required")
+27a0e54bae09 ("can: mcp251x: mcp251x_restart_work_handler(): Fix potential force_quit race condition")
+375f755899b8 ("can: mcp251x: add error check when wq alloc failed")

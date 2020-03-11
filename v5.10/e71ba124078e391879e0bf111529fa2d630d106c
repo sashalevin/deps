@@ -1,0 +1,8 @@
+e71ba124078e ("signal: Replace __group_send_sig_info with send_signal_locked")
+157cc18122b4 ("signal: Rename send_signal send_signal_locked")
+b171f667f378 ("signal: Requeue ptrace signals")
+5768d8906bc2 ("signal: Requeue signals in the appropriate queue")
+00b06da29cf9 ("signal: Add SA_IMMUTABLE to ensure forced siganls do not get changed")
+7da5082a2f9a ("arch: provide better documentation for the arch-specific SA_* flags")
+23acdc76f179 ("signal: clear non-uapi flag bits when passing/returning sa_flags")
+1d82b7898f2a ("arch: move SA_* definitions to generic headers")

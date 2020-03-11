@@ -1,0 +1,8 @@
+bc162403e33e ("xhci: Add a quirk for writing ERST in high-low order")
+cf97c5e0f7dd ("xhci: Preserve RsvdP bits in ERSTBA register correctly")
+d9b0328d0b8b ("xhci: Show ZHAOXIN xHCI root hub speed correctly")
+2a865a652299 ("xhci: Fix TRB prefetch issue of ZHAOXIN hosts")
+f927728186f0 ("xhci: Fix resume issue of some ZHAOXIN hosts")
+b17a57f89f69 ("xhci: Refactor interrupter code for initial multi interrupter support.")
+54f9927dfe22 ("xhci: remove xhci_test_trb_in_td_math early development check")
+8c1cbec9db1a ("xhci: fix event ring segment table related masks and variables in header")

@@ -1,0 +1,8 @@
+791612e9668c ("x86: x32_setup_rt_frame(): consolidate uaccess areas")
+b00d8f8f0b2b ("x86: setup_sigcontext(): list user_access_{begin,end}() into callers")
+119cd59fcfbe ("x86: get rid of put_user_try in __setup_rt_frame() (both 32bit and 64bit)")
+39f16c1c0f14 ("x86: get rid of put_user_try in {ia32,x32}_setup_rt_frame()")
+9f855c085fb1 ("x86: switch setup_sigcontext() to unsafe_put_user()")
+71c3313a38aa ("x86: switch sigframe sigset handling to explict __get_user()/__put_user()")
+ff6613501572 ("x86: use static_cpu_has in uaccess region to avoid instrumentation")
+8ff468c29e9a ("Merge branch 'x86-fpu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

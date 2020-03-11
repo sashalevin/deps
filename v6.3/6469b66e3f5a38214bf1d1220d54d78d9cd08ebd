@@ -1,0 +1,6 @@
+6469b66e3f5a ("selftests: improve vm.memfd_noexec sysctl tests")
+202e14222fad ("memfd: do not -EACCES old memfd_create() users with vm.memfd_noexec=2")
+99f34659e78b ("selftests: memfd: error out test process when child test fails")
+badbbcd76545 ("selftests/memfd: sysctl: fix MEMFD_NOEXEC_SCOPE_NOEXEC_ENFORCED")
+72de25913022 ("mm/memfd: sysctl: fix MEMFD_NOEXEC_SCOPE_NOEXEC_ENFORCED")
+3cc0c3738cde ("selftests/memfd: fix test_sysctl")

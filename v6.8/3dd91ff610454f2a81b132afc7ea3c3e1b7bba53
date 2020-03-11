@@ -1,0 +1,5 @@
+3dd91ff61045 ("usb: xhci: remove unused 'xhci' argument")
+e30e9ad9ed66 ("xhci: update event ring dequeue pointer position to controller correctly")
+143e64df1bda ("xhci: remove unnecessary event_ring_deq parameter from xhci_handle_event()")
+becbd202af84 ("xhci: make isoc_bei_interval variable interrupter specific.")
+4f022aad80dc ("xhci: Add interrupt pending autoclear flag to each interrupter")

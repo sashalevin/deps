@@ -1,0 +1,5 @@
+60e2793d440a ("mm, oom: do not trigger out_of_memory from the #PF")
+0b28179a6138 ("mm, oom: pagefault_out_of_memory: don't force global OOM for dying tasks")
+a104808e212a ("mm: don't emit warning from pagefault_out_of_memory()")
+2a966b77ae3e ("mm: oom: add memcg to oom_control")
+798fd756952c ("mm: zap ZONE_OOM_LOCKED")

@@ -1,0 +1,7 @@
+42998ef08aba ("ARM/dma-mapping: drop .dma_supported for IOMMU ops")
+ae626eb97376 ("ARM/dma-mapping: use dma-direct unconditionally")
+f9774cfd5062 ("ARM/dma-mapping: use dma_to_phys/phys_to_dma in the dma-mapping code")
+5ed390e5a9d4 ("ARM/dma-mapping: mark various dma-mapping routines static in dma-mapping.c")
+e3217540c271 ("ARM/dma-mapping: remove dmabounce")
+31b089bbc15a ("ARM/nommu: use the generic dma-direct code for non-coherent devices")
+6506932b3268 ("ARM/dma-mapping: return error code from .map_sg() ops")

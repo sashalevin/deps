@@ -1,0 +1,5 @@
+308247d20464 ("rtc: s5m: enable wakeup only when available")
+1ed4dba2bc16 ("rtc: s5m: signal the core when alarm are not available")
+dae68c6b9620 ("rtc: s5m: switch to devm_rtc_allocate_device")
+7db7ad0817fe ("rtc: s5m: use devm_i2c_new_dummy_device()")
+aae364d2a888 ("rtc: s5m: convert to i2c_new_dummy_device")

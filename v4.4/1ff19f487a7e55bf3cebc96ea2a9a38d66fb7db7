@@ -1,0 +1,8 @@
+1ff19f487a7e ("libnvdimm: Add of_node to region and bus descriptors")
+44c462eb9e19 ("libnvdimm, region: move region-mapping input-paramters to nd_mapping_desc")
+18515942d61b ("libnvdimm: register nvdimm_bus devices with an nd_bus driver")
+bc9775d8697f ("libnvdimm: move ->module to struct nvdimm_bus_descriptor")
+e5ae3b252c67 ("libnvdimm, nfit: move flush hint mapping to region-device driver-data")
+29b9aa0aa383 ("libnvdimm: introduce devm_nvdimm_memremap(), convert nfit_spa_map() users")
+ad9ac5e19575 ("nfit: always associate flush hints")
+36092ee8ba69 ("Merge branch 'for-4.7/dax' into libnvdimm-for-next")

@@ -1,0 +1,6 @@
+d013db029491 ("seccomp: Separate read and write code for actions_logged sysctl")
+0ddec0fc8900 ("seccomp: Sysctl to configure actions that are allowed to be logged")
+8e5f1ad116df ("seccomp: Sysctl to display available actions")
+131b63515932 ("seccomp: Clean up core dump logic")
+d7276e321ff8 ("seccomp: Only dump core when single-threaded")
+b25e67161c29 ("seccomp: dump core when using SECCOMP_RET_KILL")

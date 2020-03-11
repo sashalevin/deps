@@ -1,0 +1,6 @@
+bac53336ca81 ("mmc: sdhci: replace mmc->parent with mmc_dev() for consistency")
+d2f025b08e9e ("mmc: sdhci: Use "mmc" directly rather than "host->mmc"")
+2fc88f92359d ("mmc: sdhci-of-aspeed: Expose clock phase controls")
+ebd4050c6144 ("mmc: sdhci-of-aspeed: Fix clock divider calculation")
+aebbf577e5d1 ("sdhci: tegra: Avoid reading autocal timeout values when not applicable")
+a5a944d24cbc ("mmc: host: add Coldfire esdhc support")

@@ -1,0 +1,6 @@
+cd5432c71235 ("USB: UAS: return ENODEV when submit urbs fail with device not attached")
+5dfcf1ad933f ("scsi: usb: Stop using the SCSI pointer")
+46c97948e9b5 ("scsi: usb: Call scsi_done() directly")
+8036a7e7da69 ("USB: UAS: use macro for reporting results")
+eb2a86ae8c54 ("USB: UAS: fix disconnect by unplugging a hub")
+3e99862c05a9 ("usb: uas: fix a plug & unplug racing")

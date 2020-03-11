@@ -1,0 +1,4 @@
+efd88b02bb9e ("rcu: Add comment giving debug strategy for double call_rcu()")
+15fecf89e46a ("srcu: Abstract multi-tail callback list handling")
+630c7ed9ca06 ("rcu: Don't wake rcuc/X kthreads on NOCB CPUs")
+d117c8aa1d51 ("rcu: Make cpu_needs_another_gp() be bool")

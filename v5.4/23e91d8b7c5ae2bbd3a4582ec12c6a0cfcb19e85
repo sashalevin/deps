@@ -1,0 +1,4 @@
+23e91d8b7c5a ("cifs: rename cifs_common to smbfs_common")
+42c21973fa3c ("cifs: create a MD4 module and switch cifs.ko to use it")
+71c028632461 ("cifs: fork arc4 and create a separate module for it for cifs and other users")
+3591bb83eee7 ("cifs: don't use 'pre:' for MODULE_SOFTDEP")

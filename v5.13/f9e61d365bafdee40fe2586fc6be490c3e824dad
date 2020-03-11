@@ -1,0 +1,7 @@
+f9e61d365baf ("igc: don't reserve excessive XDP_PACKET_HEADROOM on XSK Rx to skb")
+4fa8fcd34401 ("igc: AF_XDP zero-copy metadata adjust breaks SKBs on XDP_PASS")
+fc9df2a0b520 ("igc: Enable RX via AF_XDP zero-copy")
+a27e6e73e550 ("igc: Introduce TX/RX stats helpers")
+4609ffb9f615 ("igc: Refactor XDP rxq info registration")
+f485164867d3 ("igc: Refactor igc_clean_rx_ring()")
+0c20f2d29fff ("igc: Move igc_xdp_is_enabled()")

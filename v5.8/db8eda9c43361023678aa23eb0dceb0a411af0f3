@@ -1,0 +1,4 @@
+db8eda9c4336 ("xtensa/platforms/iss/simdisk: add error handling support for add_disk()")
+b1833edc4c95 ("simdisk: convert to blk_alloc_disk/blk_cleanup_disk")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+82bb454d0723 ("simdisk: stop using ->queuedata")

@@ -1,0 +1,4 @@
+7464b6e3a5fb ("efi: ARM: avoid warning about phys_addr_t cast")
+500899c2cc3e ("efi: ARM/arm64: ignore DT memory nodes instead of removing them")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

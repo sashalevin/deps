@@ -1,0 +1,4 @@
+524c48072e56 ("mm/page_alloc: rename ALLOC_HIGH to ALLOC_MIN_RESERVE")
+736838e964c3 ("mm, pagealloc: micro-optimisation: save two branches on hot page allocation path")
+0a79cdad5eb2 ("mm: use alloc_flags to record if kswapd can wake")
+6bb154504f8b ("mm, page_alloc: spread allocations across zones before introducing fragmentation")

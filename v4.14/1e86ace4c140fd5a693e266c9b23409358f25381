@@ -1,0 +1,5 @@
+1e86ace4c140 ("net/mlx5: EQ, Use the right place to store/read IRQ affinity hint")
+e3ca34880652 ("net/mlx5: Fix build break when CONFIG_SMP=n")
+6082d9c9c94a ("net/mlx5: Fix mlx5_get_vector_affinity function")
+05e0cc84e00c ("net/mlx5: Fix get vector affinity helper function")
+231243c82793 ("Revert "mlx5: move affinity hints assignments to generic code"")

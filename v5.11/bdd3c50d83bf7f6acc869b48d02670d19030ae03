@@ -1,0 +1,6 @@
+bdd3c50d83bf ("dax: remove bdev_dax_supported")
+a384f088e4a1 ("xfs: factor out a xfs_buftarg_is_dax helper")
+cd93a2a4d1b0 ("dax: remove __generic_fsdax_supported")
+673a0658f6ac ("dax: move the dax_read_lock() locking into dax_supported")
+5b0fab508992 ("dm table: fix DAX iterate_devices based device capability checks")
+a4c8dd9c2d09 ("dm table: fix iterate_devices based device capability checks")

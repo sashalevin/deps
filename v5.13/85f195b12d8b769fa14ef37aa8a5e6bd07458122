@@ -1,0 +1,8 @@
+85f195b12d8b ("kasan: test: fix test for new meminstrinsic instrumentation")
+f7e01ab828fd ("kasan: move tests to mm/kasan/")
+09eb911d9345 ("mm/kasan: remove unnecessary CONFIG_KASAN option")
+758cabae312d ("kasan: test: add memcpy test that avoids out-of-bounds write")
+25b12a58e848 ("kasan: test: only do kmalloc_uaf_memset for generic mode")
+1b0668be62cf ("kasan: test: disable kmalloc_memmove_invalid_size for HW_TAGS")
+a0503b8a0b3c ("kasan: integrate the common part of two KASAN tag-based modes")
+f06f78ab48fb ("kasan: rename CONFIG_KASAN_SW_TAGS_IDENTIFY to CONFIG_KASAN_TAGS_IDENTIFY")

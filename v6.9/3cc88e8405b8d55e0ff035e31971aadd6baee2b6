@@ -1,0 +1,5 @@
+3cc88e8405b8 ("idpf: fix memleak in vport interrupt configuration")
+bf9bf7042a38 ("idpf: avoid bloating &idpf_q_vector with big %NR_CPUS")
+e4891e4687c8 ("idpf: split &idpf_queue into 4 strictly-typed queue structures")
+66c27e3b19d5 ("idpf: stop using macros for accessing queue descriptors")
+cf1ca1f66d30 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

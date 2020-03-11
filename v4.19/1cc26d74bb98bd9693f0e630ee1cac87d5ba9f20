@@ -1,1 +1,8 @@
 1cc26d74bb98 ("net/mlx5e: Support header rewrite actions with remote port mirroring")
+f493f15534ec ("net/mlx5e: Move flow attr reformat action bit to per dest flags")
+df65a573eab2 ("net/mlx5e: Refactor eswitch flow attr for destination specific properties")
+e85e02bad29e ("net/mlx5: E-Switch, Rename esw attr mirror count field")
+ef381359e3a8 ("net/mlx5e: Replace egdev with indirect block notifications")
+f5bc2c5de101 ("net/mlx5e: Support TC indirect block notifications for eswitch uplink reprs")
+ec1366c20721 ("net/mlx5e: Store eswitch uplink representor state on a dedicated struct")
+2f62747c77e2 ("Merge branch 'mlx5-next' of git://git.kernel.org/pub/scm/linux/kernel/git/mellanox/linux")

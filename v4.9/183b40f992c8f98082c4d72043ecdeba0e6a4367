@@ -1,0 +1,8 @@
+183b40f992c8 ("MIPS: Allow FP support to be disabled")
+c92e47e585a9 ("MIPS: Introduce CONFIG_MIPS_FP_SUPPORT")
+97f7dcbf279a ("MIPS: Better abstract R2300 FPU usage in Kconfig")
+a2aea699b1dd ("MIPS: Move r4k FP code from r4k_switch.S to r4k_fpu.S")
+3b2db173f012 ("MIPS: Remove unused R6000 support")
+828d1e4e9865 ("MIPS: Remove dead define of ST_OFF")
+29830c124d83 ("MIPS: Export _save_fp & _save_msa alongside their definitions")
+9eaa9a82e5d6 ("MIPS: Allow pre-r6 emulation on SMP MIPSr6 kernels")

@@ -1,0 +1,8 @@
+283915850a44 ("s390/ap: notify drivers on config changed and scan complete callbacks")
+4f8206b88286 ("s390/ap: driver callback to indicate resource in use")
+4f2fcccdb547 ("s390/ap: add card/queue deconfig state")
+2ea2a6099ae3 ("s390/ap: add error response code field for ap queue devices")
+0b641cbd2444 ("s390/ap: split ap queue state machine state from device state")
+c8337c47deb9 ("s390/ap: rework crypto config info and default domain code")
+dc4b6ded3c17 ("s390/ap: rename and clarify ap state machine related stuff")
+bc4b295e87a8 ("s390/ap: introduce new ap function ap_get_qdev()")

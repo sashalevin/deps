@@ -1,0 +1,7 @@
+65fac0d54f37 ("blk-mq: fix io hung due to missing commit_rqs")
+632bfb632379 ("blk-mq: call commit_rqs while list empty but error happen")
+536167d47ade ("blk-mq: don't commit_rqs() if none were queued")
+fd9c40f64c51 ("block: Revert v5.0 blk_mq_request_issue_directly() changes")
+d6a51a97c0b2 ("blk-mq: replace and kill blk_mq_request_issue_directly")
+7f556a44e61d ("blk-mq: refactor the code of issue request directly")
+96f774106ed4 ("Merge tag 'v4.20-rc6' into for-4.21/block")

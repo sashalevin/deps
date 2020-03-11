@@ -1,0 +1,7 @@
+479a1efc8119 ("KVM: x86/mmu: Drop the intermediate "transient" __kvm_sync_page()")
+07dc4f35a44c ("KVM: x86/mmu: comment on kvm_mmu_get_page's syncing of pages")
+00a669780ffa ("KVM: x86/mmu: Use MMU role to check for matching guest page sizes")
+ddc16abbbae9 ("KVM: x86/mmu: Unconditionally zap unsync SPs when creating >4k SP at GFN")
+3bae0459bcd5 ("KVM: x86/mmu: Drop KVM's hugepage enums in favor of the kernel's enums")
+e662ec3e0705 ("KVM: x86/mmu: Move max hugepage level to a separate #define")
+b2f432f872d9 ("KVM: x86/mmu: Tweak PSE hugepage handling to avoid 2M vs 4M conundrum")

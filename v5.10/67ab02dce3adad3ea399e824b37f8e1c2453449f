@@ -1,0 +1,4 @@
+67ab02dce3ad ("crypto: arm64/aes-neonbs - use frame_push/pop consistently")
+dfc6031ec917 ("crypto: arm64/aes-neonbs-xts - use plain NEON for non-power-of-2 input sizes")
+fc074e130051 ("crypto: arm64/aes-neonbs-ctr - fallback to plain NEON for final chunk")
+f5943ef456f8 ("crypto: arm64/aes-neonbs - remove NEON yield calls")

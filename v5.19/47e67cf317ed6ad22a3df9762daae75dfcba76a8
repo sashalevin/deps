@@ -1,0 +1,5 @@
+47e67cf317ed ("x86/tdx: Relax SEPT_VE_DISABLE check for debug TD")
+71acdcd7cd0a ("x86/tdx: Use ReportFatalError to report missing SEPT_VE_DISABLE")
+51acfe89af11 ("x86/tdx: Add a wrapper to get TDREPORT0 from the TDX Module")
+373e715e31bf ("x86/tdx: Panic on bad configs that #VE on "private" memory access")
+a6dd6f39008b ("x86/tdx: Prepare for using "INFO" call for a second purpose")

@@ -1,0 +1,5 @@
+f1b19dff53cf ("crypto: ccree - remove struct cc_sram_ctx")
+1a895f1d5bce ("crypto: ccree - use u32 for SRAM addresses")
+e431cc043817 ("crypto: ccree - defer larval_digest_addr init until needed")
+fc3b8c11aab7 ("crypto: ccree - remove empty cc_sram_mgr_fini()")
+ce0fc6db38de ("crypto: ccree - protect against empty or NULL scatterlists")

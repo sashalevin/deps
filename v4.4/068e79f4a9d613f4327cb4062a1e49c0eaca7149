@@ -1,0 +1,7 @@
+068e79f4a9d6 ("xen/gntdev: Check and release imported dma-bufs on close")
+932d6562179e ("xen/gntdev: Add initial support for dma-buf UAPI")
+1d3145675538 ("xen/gntdev: Make private routines/structures accessible")
+975ef7ff81bb ("xen/gntdev: Allow mappings for DMA buffers")
+c5f7c5a9a0f8 ("drivers, xen: convert grant_map.users from atomic_t to refcount_t")
+c7ebf9d9c6b4 ("xen: use vma_pages().")
+a4cdb556cae0 ("xen/gntdev: add ioctl for grant copy")

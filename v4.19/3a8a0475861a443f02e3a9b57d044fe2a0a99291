@@ -1,0 +1,5 @@
+3a8a0475861a ("perf build: Don't use -ffat-lto-objects in the python feature test when building with clang-13")
+9a00df311b5c ("perf python: Check if clang supports -fno-semantic-interposition")
+7952fa3b54bf ("perf python: Remove -fstack-protector-strong if clang doesn't have it")
+a5dcc4ca9129 ("perf python: Remove -fstack-clash-protection when building with some clang versions")
+8b2f245faa62 ("perf python: More portable way to make CFLAGS work with clang")

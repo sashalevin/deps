@@ -1,0 +1,7 @@
+009384b38034 ("irqchip/gic-v4.1: Eagerly vmap vPEs")
+8424312516e5 ("irqchip/gic-v3-its: Use the exact ITSList for VMOVP")
+6ef930f20c30 ("irqchip/gic-v3-its: Fix VPE activate callback return value")
+2247e1bf7063 ("irqchip/gic-v3-its: Limit scope of VPE mapping to be per ITS")
+75fd951be846 ("irqchip/gic-v3-its: Make its_send_vmapp operate on a single ITS")
+40619a2ef69d ("irqchip/gic-v3-its: Make its_send_vinvall operate on a single ITS")
+72491643469a ("genirq/irqdomain: Update irq_domain_ops.activate() signature")

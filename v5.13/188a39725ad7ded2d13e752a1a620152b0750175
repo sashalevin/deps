@@ -1,0 +1,4 @@
+188a39725ad7 ("hugetlbfs: revert use i_mmap_rwsem to address page fault/truncate race")
+3a5497a2dae3 ("mm/hugetlb: fix missing call to restore_reserve_on_error()")
+1508062ecd55 ("hugetlbfs: Convert remove_inode_hugepages() to use filemap_get_folios()")
+c7b1850dfb41 ("hugetlb: don't pass page cache pages to restore_reserve_on_error")

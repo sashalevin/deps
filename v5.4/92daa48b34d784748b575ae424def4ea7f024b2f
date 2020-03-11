@@ -1,0 +1,3 @@
+92daa48b34d7 ("KVM: x86: Add EMULTYPE_PF when emulation is triggered by a page fault")
+ddce6208217c ("KVM: x86/mmu: Move root_hpa validity checks to top of page fault handler")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

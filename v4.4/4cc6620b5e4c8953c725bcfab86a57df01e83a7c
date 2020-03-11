@@ -1,0 +1,6 @@
+4cc6620b5e4c ("x86/jump_label: Add a __jump_label_set_jump_code() helper")
+bb0a008d6a2c ("x86/jump-label: Remove support for custom text poker")
+1fd8de46d01d ("x86/jump_label: Use text_poke_early() during early init")
+9fc0f798ab8a ("x86/jump_label: Switch to jump_entry accessors")
+6fffacb30349 ("x86/alternatives, jumplabel: Use text_poke_early() before mm_init()")
+35de5b0692aa ("x86/asm: Stop depending on ptrace.h in alternative.h")

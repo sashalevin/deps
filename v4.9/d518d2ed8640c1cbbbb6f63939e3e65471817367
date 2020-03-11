@@ -1,0 +1,5 @@
+d518d2ed8640 ("net/sched: fix race between deactivation and dequeue for NOLOCK qdisc")
+ba27b4cdaaa6 ("net: dev: introduce support for sch BYPASS for lockless qdisc")
+6b3ba9146fe6 ("net: sched: allow qdiscs to handle locking")
+6c148184b5c8 ("net: sched: cleanup qdisc_run and __qdisc_run semantics")
+49b499718fa1 ("net: sched: make default fifo qdiscs appear in the dump")

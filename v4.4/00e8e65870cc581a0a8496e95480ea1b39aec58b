@@ -1,0 +1,5 @@
+00e8e65870cc ("tty/serial: atmel: split tx and rx paths")
+9205218e491d ("tty/serial: atmel: re-integrate status check in irq handler")
+f4a8ab04ddde ("tty/serial: at91: restore dynamic driver binding")
+c39dfebc7798 ("drivers/tty/serial: make serial/atmel_serial.c explicitly non-modular")
+18dfef9c7f87 ("serial: atmel: convert to irq handling provided mctrl-gpio")

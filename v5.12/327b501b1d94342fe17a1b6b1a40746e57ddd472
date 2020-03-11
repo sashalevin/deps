@@ -1,0 +1,6 @@
+327b501b1d94 ("nbd: remove nbd_del_disk")
+3f74e0645c52 ("nbd: refactor device removal")
+68c9417b193d ("nbd: do del_gendisk() asynchronously for NBD_DESTROY_ON_DISCONNECT")
+16ad3db3b24c ("nbd: fix order of cleaning up the queue and freeing the tagset")
+6497ef8df568 ("nbd: provide a way for userspace processes to identify device backends")
+4af5f2e03013 ("nbd: use blk_mq_alloc_disk and blk_cleanup_disk")

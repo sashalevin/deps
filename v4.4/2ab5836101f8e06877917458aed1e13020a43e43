@@ -1,0 +1,8 @@
+2ab5836101f8 ("USB: serial: ftdi_sio: fix TIOCGSERIAL implementation")
+3ae36bed3a93 ("fdti_sio: switch to ->[sg]et_serial()")
+f3e8ae657e40 ("USB: serial: ftdi_sio: simplify TIOCSSERIAL flag logic")
+bb246681b3ed ("USB: serial: ftdi_sio: fix setting latency for unprivileged users")
+7e1e6ceda3f0 ("USB: serial: ftdi_sio: detect BM chip with iSerialNumber bug")
+59556608139e ("USB: serial: ftdi_sio: clean up ioctl handler")
+e3e574ad85a2 ("USB: serial: ftdi_sio: fix latency-timer error handling")
+2fbd69c4e333 ("USB: serial: fix invalid user-pointer checks")

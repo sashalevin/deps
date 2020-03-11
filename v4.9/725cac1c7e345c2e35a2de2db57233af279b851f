@@ -1,0 +1,8 @@
+725cac1c7e34 ("mm/workingset.c: avoid unnecessary max_nodes estimation in count_shadow_nodes()")
+9b996468cfdb ("mm: add SHRINK_EMPTY shrinker methods return value")
+b0dedc49a2da ("mm/vmscan.c: iterate only over charged shrinkers during memcg shrink_slab()")
+b4c2b231c3ba ("mm: assign id to every memcg-aware shrinker")
+ae1e16da14b2 ("mm: workingset: remove local_irq_disable() from count_shadow_nodes()")
+8e04944f0ea8 ("mm,vmscan: Allow preallocating memory for register_shrinker().")
+b93b016313b3 ("page cache: use xa_lock")
+9f3a0941fb5e ("Merge tag 'libnvdimm-for-4.17' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

@@ -1,0 +1,6 @@
+3fbd7ee285b2 ("tasks: Add a count of task RCU users")
+ec1d281923cf ("sched/core: Convert task_struct.usage to refcount_t")
+d70f2a14b72a ("include/linux/sched/mm.h: uninline mmdrop_async(), etc")
+d11ed3ab3166 ("Expand INIT_TASK() in init/init_task.c and remove")
+0500871f21b2 ("Construct init thread stack in the linker script rather than by union")
+caf9a82657b3 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

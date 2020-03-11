@@ -1,0 +1,4 @@
+4c07f9046e48 ("x86/mm, KVM: Fix warning when !CONFIG_PREEMPT_COUNT")
+d6e41f1151fe ("x86/mm, KVM: Teach KVM's VMX code that CR3 isn't a constant")
+9a804fecee23 ("mm/gup: Drop the arch_pte_access_permitted() MMU callback")
+04ac88abaf75 ("x86/fpu, kvm: Remove host CR0.TS manipulation")

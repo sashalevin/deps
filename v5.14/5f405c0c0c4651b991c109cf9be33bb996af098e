@@ -1,0 +1,5 @@
+5f405c0c0c46 ("bpf, sockmap: Add tests for MSG_F_PEEK")
+80e24d222675 ("bpf, sockmap: Test FIONREAD returns correct bytes in rx buffer with drops")
+bb516f98c731 ("bpf, sockmap: Test FIONREAD returns correct bytes in rx buffer")
+1fa1fe8ff161 ("bpf, sockmap: Test shutdown() correctly exits epoll and recv()=0")
+820e6e227c40 ("selftests: bpf: test BPF_PROG_QUERY for progs attached to sockmap")

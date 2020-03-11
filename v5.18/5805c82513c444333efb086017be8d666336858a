@@ -1,0 +1,5 @@
+5805c82513c4 ("libperf cpumap: Add for_each_cpu() that skips the "any CPU" case")
+ca76d7d2812b ("perf record: Fix cpu mask bit setting for mixed mmaps")
+cbd7bfc7fd99 ("tools/perf: Fix out of bound access to cpu mask array")
+e696f6dbbf9d ("perf cpumap: Add perf_cpu_map__for_each_idx()")
+0255571a1605 ("perf cpumap: Switch to using perf_cpu_map API")

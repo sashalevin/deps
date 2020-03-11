@@ -1,0 +1,6 @@
+8d9bfb260814 ("hugetlb: add vma based lock for pmd sharing")
+12710fd69634 ("hugetlb: rename vma_shareable() and refactor code")
+3a47c54f09c4 ("hugetlbfs: revert use i_mmap_rwsem for more pmd sharing synchronization")
+188a39725ad7 ("hugetlbfs: revert use i_mmap_rwsem to address page fault/truncate race")
+5e6b1bf1b5c3 ("hugetlb: remove meaningless BUG_ON(huge_pte_none())")
+3a5497a2dae3 ("mm/hugetlb: fix missing call to restore_reserve_on_error()")

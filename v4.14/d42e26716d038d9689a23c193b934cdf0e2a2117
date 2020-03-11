@@ -1,0 +1,4 @@
+d42e26716d03 ("KVM: arm64: Stash OSLSR_EL1 in the cpu context")
+e2ffceaae508 ("KVM: arm64: Correctly treat writes to OSLSR_EL1 as undefined")
+c773ae2b3476 ("KVM: arm64: Save/Restore guest DISR_EL1")
+1f742679c33b ("KVM: arm64: Stop save/restoring host tpidr_el1 on VHE")

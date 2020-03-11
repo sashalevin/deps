@@ -1,0 +1,7 @@
+18aaa82bd36a ("net: netlink: Remove the dump_cb_mutex field from struct netlink_sock")
+e39951d965bf ("rtnetlink: change nlk->cb_mutex role")
+b5590270068c ("netlink: hold nlk->cb_mutex longer in __netlink_dump_start()")
+e11eb32de3a7 ("netlink/compat: Append NLMSG_DONE/extack to frag_list")
+22e6c58b8c28 ("netlink: Add answer_flags to netlink_callback")
+89d35528d17d ("netlink: Add new socket option to enable strict checking on dumps")
+4a19edb60d02 ("netlink: Pass extack to dump handlers")

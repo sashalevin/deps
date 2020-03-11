@@ -1,0 +1,4 @@
+a0473bf31df5 ("scsi: scsi_debug: Use scsi_block_requests() to block queues")
+25b80b2c7582 ("scsi: scsi_debug: Protect block_unblock_all_queues() with mutex")
+151f0ec9ddb5 ("scsi: scsi_debug: Drop sdebug_dev_info.num_in_q")
+0befb8790969 ("scsi: scsi_debug: Drop check for num_in_q exceeding queue depth")

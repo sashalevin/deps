@@ -1,0 +1,7 @@
+58f534623c4d ("powerpc/64s: Use generic permission masks")
+395cac7752b9 ("powerpc/mm: Support execute-only memory on the Radix MMU")
+634093c59a12 ("powerpc/mm: enable ARCH_HAS_VM_GET_PAGE_PROT")
+dc90f0846df4 ("mm: don't include <linux/memremap.h> in <linux/mm.h>")
+895749455f60 ("mm: simplify freeing of devmap managed pages")
+75e55d8a107e ("mm: move free_devmap_managed_page to memremap.c")
+730ff52194cd ("mm: remove pointless includes from <linux/hmm.h>")

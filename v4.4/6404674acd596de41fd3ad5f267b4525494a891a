@@ -1,0 +1,8 @@
+6404674acd59 ("vfs: fix do_last() regression")
+d0cb50185ae9 ("do_last(): fetch directory ->i_mode and ->i_uid before it's too late")
+30aba6656f61 ("namei: allow restricted O_CREAT of FIFOs and regular files")
+47f9dbd3877d ("do_last(): get rid of duplicate ELOOP check")
+6ac087099edf ("path_openat(): take O_PATH handling out of do_last()")
+5129fa482b16 ("do_last(): ELOOP failure exit should be done after leaving RCU mode")
+759c01142a5d ("pipe: limit the per-user amount of pages allocated in pipes")
+aee3bfa3307c ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

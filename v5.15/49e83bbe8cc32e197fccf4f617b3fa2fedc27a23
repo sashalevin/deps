@@ -1,0 +1,7 @@
+49e83bbe8cc3 ("devlink: hold the instance lock in port_split / port_unsplit callbacks")
+162cca42920c ("eth: nfp: replace driver's "pf" lock with devlink instance lock")
+8a38f2cc968a ("eth: nfp: wrap locking assertions in helpers")
+4f2a81c40c3c ("nfp: Move delink_register to be last command")
+db4278c55fa5 ("devlink: Make devlink_register to be void")
+32ada69bba7e ("mlxsw: spectrum: Use PMTDB register to obtain split info")
+13bb8429ca98 ("net: wwan: iosm: firmware flashing and coredump collection")

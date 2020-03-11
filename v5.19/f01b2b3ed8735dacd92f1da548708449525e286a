@@ -1,0 +1,4 @@
+f01b2b3ed873 ("shmem: add shmem_read_folio() and shmem_read_folio_gfp()")
+4e1fc793ad98 ("shmem: add shmem_get_folio()")
+a3a9c39704f4 ("shmem: convert shmem_read_mapping_page_gfp() to use shmem_get_folio_gfp()")
+fc26babbc7d4 ("shmem: convert shmem_getpage_gfp() to shmem_get_folio_gfp()")

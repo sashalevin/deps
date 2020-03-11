@@ -1,0 +1,7 @@
+6da8f9ba5a87 ("cpuidle: teo: Skip tick_nohz_get_sleep_length() call in some cases")
+21d28cd2fa5f ("cpuidle: teo: Do not call tick_nohz_get_sleep_length() upfront")
+9a41e16f1110 ("cpuidle: teo: Drop utilized from struct teo_cpu")
+04bae4e2267d ("cpuidle: teo: Avoid stopping the tick unnecessarily when bailing out")
+3f0b0966b309 ("cpuidle: teo: Update idle duration estimate when choosing shallower state")
+9ce0f7c4bc64 ("cpuidle: teo: Introduce util-awareness")
+27f850880192 ("cpuidle: teo: Optionally skip polling states in teo_find_shallower_state()")

@@ -1,0 +1,4 @@
+5a192ccc32e2 ("nvdimm/pmem: use add_disk() error handling")
+accf58afb689 ("nvdimm/pmem: cleanup the disk if pmem_release_disk() is yet assigned")
+d55174cccac2 ("nvdimm/pmem: fix creating the dax group")
+87eb73b2ca7c ("nvdimm-pmem: convert to blk_alloc_disk/blk_cleanup_disk")

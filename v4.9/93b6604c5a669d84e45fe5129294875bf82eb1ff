@@ -1,0 +1,5 @@
+93b6604c5a66 ("i2c: Allow recovery of the initial IRQ by an I2C client device.")
+6f108dd70d30 ("i2c: Clear client->irq in i2c_device_remove")
+4124c4eba402 ("i2c: allow attaching IRQ resources to i2c_board_info")
+0daaf99d8424 ("i2c: copy device properties when using i2c_register_board_info()")
+d3e1b617ae20 ("i2c: allow specify device properties in i2c_board_info")

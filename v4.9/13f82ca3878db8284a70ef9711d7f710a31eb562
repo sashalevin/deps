@@ -1,0 +1,6 @@
+13f82ca3878d ("Input: ads7846 - always set last command to PWRDOWN")
+6965eece2a89 ("Input: ads7846 - convert to one message")
+9c9509717b53 ("Input: ads7846 - convert to full duplex")
+e52cd628a03f ("Input: ads7846 - fix race that causes missing releases")
+0dfed6dc2457 ("Input: ads7846 - use new `delay` structure for SPI transfer delays")
+f5a28a7d4858 ("Input: ads7846 - avoid pen up/down when reading hwmon")

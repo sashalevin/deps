@@ -1,0 +1,6 @@
+5c3c2ea68871 ("x86/tsc: Fold set_cyc2ns_scale() into caller")
+aa7b630ea023 ("x86/tsc: Feed refined TSC calibration into sched_clock()")
+615cd03373a0 ("x86/tsc: Fix sched_clock() sync")
+59eaef78bfea ("x86/tsc: Remodel cyc2ns to use seqcount_latch()")
+698eff6355f7 ("sched/clock, x86/perf: Fix "perf test tsc"")
+609b07b72d3c ("Merge branch 'sched-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

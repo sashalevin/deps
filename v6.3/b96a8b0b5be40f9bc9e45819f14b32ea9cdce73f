@@ -1,0 +1,3 @@
+b96a8b0b5be4 ("rcu/nocb: Recheck lazy callbacks under the ->nocb_lock from shrinker")
+762592608676 ("rcu/nocb: Fix shrinker race against callback enqueuer")
+5c83cedbaaad ("rcu/nocb: Protect lazy shrinker against concurrent (de-)offloading")

@@ -1,0 +1,7 @@
+bb850f4dae4a ("mm/vmap: add DEBUG_AUGMENT_PROPAGATE_CHECK macro")
+68ad4a330433 ("mm/vmalloc.c: keep track of free blocks for vmap allocation")
+afd07389d3f4 ("mm/vmalloc.c: fix kernel BUG at mm/vmalloc.c:512!")
+c568da282bbc ("mm/vmalloc.c: halve the number of comparisons performed in pcpu_get_vm_areas()")
+78c72746f56b ("vmalloc: show lazy-purged vma info in vmallocinfo")
+5803ed292e63 ("mm: mark all calls into the vmalloc subsystem as potentially sleeping")
+1d6da87a3241 ("Merge branch 'drm-next' of git://people.freedesktop.org/~airlied/linux")

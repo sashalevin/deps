@@ -1,0 +1,5 @@
+b9853b4d6fb4 ("null_blk: Suppress an UBSAN complaint triggered when setting 'memory_backed'")
+046755a28f9d ("drivers/block/null_blk_main.c: fix uninitialized var warnings")
+ca0a95a6ac0c ("drivers/block/null_blk_main.c: fix layout")
+45919fbfe1c4 ("null_blk: Enable modifying 'submit_queues' after an instance has been configured")
+e29158b4fff7 ("null_blk: Improve nullb_device_##NAME##_store() readability")

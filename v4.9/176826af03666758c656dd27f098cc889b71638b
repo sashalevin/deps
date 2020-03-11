@@ -1,0 +1,5 @@
+176826af0366 ("signal: lift sigset size check out of do_sigpending()")
+f454322efbf6 ("signal: replace sigset_to_compat() with put_compat_sigset()")
+fbb77611e95d ("Fix compat_sys_sigpending breakage")
+8f13621abced ("sigpending(): move compat to native")
+ca2406ed58fe ("times(2): move compat to native")

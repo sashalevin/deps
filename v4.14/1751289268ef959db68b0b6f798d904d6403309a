@@ -1,0 +1,5 @@
+1751289268ef ("powerpc/code-patching: Use jump_label to check if poking_init() is done")
+71a5b3db9f20 ("powerpc/lib/code-patching: Set up Strict RWX patching earlier")
+8183d99f4a22 ("powerpc/lib/feature-fixups: use raw_patch_instruction()")
+8cf4c05712f0 ("powerpc/lib/code-patching: refactor patch_instruction()")
+252eb55816a6 ("powerpc: Fix boot on BOOK3S_32 with CONFIG_STRICT_KERNEL_RWX")

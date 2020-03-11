@@ -1,0 +1,4 @@
+f79d474905fe ("iomap: don't try to poll multi-bio I/Os in __iomap_dio_rw")
+a6d3d49587d1 ("iomap: switch __iomap_dio_rw to use iomap_iter")
+69f4a26c1e0c ("iomap: support reading inline data from non-zero pos")
+637d3375953e ("iomap: Don't create iomap_page objects for inline files")

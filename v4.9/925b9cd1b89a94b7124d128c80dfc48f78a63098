@@ -1,0 +1,7 @@
+925b9cd1b89a ("locking/rwsem: Make owner store task pointer of last owning reader")
+03eeafdd9ab0 ("locking/rwsem: Fix up_read_non_owner() warning with DEBUG_RWSEMS")
+5a817641f68a ("locking/percpu-rwsem: Annotate rwsem ownership transfer by setting RWSEM_OWNER_UNKNOWN")
+d7d760efad70 ("locking/rwsem: Add a new RWSEM_ANONYMOUSLY_OWNED flag")
+5149cbac4235 ("locking/rwsem: Add DEBUG_RWSEMS to look for lock/unlock mismatches")
+f5694788ad8d ("rt_mutex: Add lockdep annotations")
+6419c4af777a ("locking/lockdep: Add new check to lock_downgrade()")

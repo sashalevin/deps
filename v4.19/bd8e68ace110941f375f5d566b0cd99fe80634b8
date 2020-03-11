@@ -1,1 +1,4 @@
 bd8e68ace110 ("perf thread-stack: Avoid direct reference to the thread's stack")
+03b32cb28108 ("perf thread-stack: Simplify some code in thread_stack__process()")
+242483068b4b ("perf intel-pt: Insert callchain context into synthesized callchains")
+4d60e5e36aa6 ("perf tools: Improve thread_stack__event() for trace begin / end")

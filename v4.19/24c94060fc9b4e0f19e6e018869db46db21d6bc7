@@ -1,0 +1,4 @@
+24c94060fc9b ("gpiolib: ensure that fwnode is properly set")
+6cb59afe9e5b ("gpiolib: Assign fwnode to parent's if no primary one provided")
+8d4a85b6abd3 ("gpiolib: switch to simpler IDA interface")
+a05a14049999 ("gpio: don't free unallocated ida on gpiochip_add_data_with_key() error path")

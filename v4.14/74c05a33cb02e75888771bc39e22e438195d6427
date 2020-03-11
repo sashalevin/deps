@@ -1,0 +1,5 @@
+74c05a33cb02 ("ptp_qoriq: use div_u64/div_u64_rem for 64-bit division")
+91305f281262 ("ptp_qoriq: support automatic configuration for ptp timer")
+6c50c1ed72ae ("ptp_qoriq: move some definitions to header file")
+ceefc71d4c05 ("ptp: rework gianfar_ptp as QorIQ common PTP driver")
+11d827a993a9 ("net: gianfar_ptp: move set_fipers() to spinlock protecting area")

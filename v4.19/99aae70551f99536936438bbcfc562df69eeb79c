@@ -1,0 +1,4 @@
+99aae70551f9 ("ALSA: hda: Use regcache_reg_cached() rather than open coding")
+1a462be52f45 ("ALSA: hda: Manage concurrent reg access more properly")
+ed180abba7f1 ("ALSA: hda: Fix race between creating and refreshing sysfs entries")
+1c96a2f67cd9 ("regmap: split up regmap_config.use_single_rw")

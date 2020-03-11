@@ -1,0 +1,5 @@
+2c66ca3949dc ("x86/fpu: Set X86_FEATURE_OSXSAVE feature after enabling OSXSAVE in CR4")
+4e8e4313cf81 ("x86/fpu: Make xfeatures_mask_all __ro_after_init")
+eeedf1533687 ("x86/fpu: Introduce copy_supervisor_to_kernel()")
+524bb73bc15c ("x86/fpu/xstate: Separate user and supervisor xfeatures mask")
+8ab22804efef ("x86/fpu/xstate: Define new macros for supervisor and user xstates")

@@ -1,0 +1,6 @@
+84b6269c3c28 ("iommu/fsl-pamu: Fix uninitialized variable warning")
+ba58d1216e2b ("iommu/fsl_pamu: remove support for multiple windows")
+c8224508074e ("iommu/fsl_pamu: merge iommu_alloc_dma_domain into fsl_pamu_domain_alloc")
+f7641bb71d26 ("iommu/fsl_pamu: remove support for setting DOMAIN_ATTR_GEOMETRY")
+5131e08cd0f8 ("iommu: Remove .domain_{get,set}_windows")
+701d8a624a2d ("iommu: Tidy up window attributes")

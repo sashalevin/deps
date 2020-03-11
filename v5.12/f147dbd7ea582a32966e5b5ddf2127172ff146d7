@@ -1,0 +1,8 @@
+f147dbd7ea58 ("hwmon: (sht3x) Remove use of i2c_match_id()")
+a0ac418c6007 ("hwmon: (sht3x) convert some of sysfs interface to hwmon")
+fbb5a7fee063 ("hwmon: (sht3x) complement sysfs interface for sts3x")
+af5ab550125f ("hwmon: (sht3x) Add new non-stardard sysfs attribute")
+7d6d53ba3bcc ("hwmon: (sht3x)replace "high-precision" property to "repeatability"")
+5bca68ac6357 ("hwmon: (sht3x) remove blocking_io property")
+fc669e922ecf ("hwmon: (sht3x) remove sht3x_platform_data")
+4e6104b1e700 ("hwmon: use sysfs_emit() to instead of scnprintf()")

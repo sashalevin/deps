@@ -1,0 +1,4 @@
+cff9b2332ab7 ("kernel/sched: Modify initial boot task idle setup")
+00b89fe0197f ("sched: Make the idle task quack like a per-CPU kthread")
+3a7956e25e1d ("kthread: Fix PF_KTHREAD vs to_kthread() race")
+9bcb959d05ee ("sched/fair: Ignore percpu threads for imbalance pulls")

@@ -1,0 +1,4 @@
+8b5ac68fb5ee ("bpf: tcp: Handle BPF SYN Cookie in skb_steal_sock().")
+95e752b5299f ("tcp: Move skb_steal_sock() to request_sock.h")
+9c02bec95954 ("bpf, net: Support SO_REUSEPORT sockets with bpf_sk_assign")
+67312adc96b5 ("bpf: reject unhashed sockets in bpf_sk_assign")

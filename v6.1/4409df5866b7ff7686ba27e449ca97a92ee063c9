@@ -1,0 +1,6 @@
+4409df5866b7 ("serial: sc16is7xx: change EFR lock to operate on each channels")
+3837a0379533 ("serial: sc16is7xx: improve regmap debugfs by using one regmap per port")
+b4a778303ea0 ("serial: sc16is7xx: add missing support for rs485 devicetree properties")
+049994292834 ("serial: sc16is7xx: fix regression with GPIO configuration")
+dabc54a45711 ("serial: sc16is7xx: remove obsolete out_thread label")
+c8f71b49ee4d ("serial: sc16is7xx: setup GPIO controller later in probe")

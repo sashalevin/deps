@@ -1,0 +1,6 @@
+f75a749b6d78 ("crypto: sun8i-ce - call finalize with bh disabled")
+732b764099f6 ("crypto: sun8i-ce - fix two error path's memory leak")
+56f6d5aee88d ("crypto: sun8i-ce - support hash algorithms")
+6b4f76c2cd9e ("crypto: sun8i-ce - rename has_t_dlen_in_bytes to cipher_t_dlen_in_bytes")
+0605fa0f7826 ("crypto: sun8i-ce - split into prepare/run/unprepare")
+a216f8d540cf ("crypto: sun8i-ce - move iv data to request context")

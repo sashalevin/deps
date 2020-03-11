@@ -1,0 +1,5 @@
+8de8ccaca9f8 ("pwm: atmel: Make use of devm_pwmchip_alloc() function")
+cc2b5bc6147b ("pwm: atmel: Change prototype of a helper to prepare further changes")
+b22bb0d6a828 ("pwm: atmel: Simplify using devm functions")
+a2f68c7e312f ("pwm: atmel: Enable clk when pwm already enabled in bootloader")
+a3c28bca114b ("pwm: atmel: Convert to platform remove callback returning void")

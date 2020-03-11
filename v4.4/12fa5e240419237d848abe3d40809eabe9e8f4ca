@@ -1,0 +1,7 @@
+12fa5e240419 ("lookup_open(): expand the call of real_lookup()")
+1643b43fbd05 ("lookup_open(): lift the "fallback to !O_CREAT" logics from atomic_open()")
+0fb1ea093315 ("atomic_open(): delay open_to_namei_flags() until the method call")
+55db2fd93614 ("atomic_open(): massage the create_error logics a bit")
+9d0728e16e92 ("atomic_open(): consolidate "overridden ENOENT" in open-yourself cases")
+5249e411b4d4 ("atomic_open(): don't bother with EEXIST check - it's done in do_last()")
+df889b363198 ("Merge branch 'for-linus' into work.lookups")

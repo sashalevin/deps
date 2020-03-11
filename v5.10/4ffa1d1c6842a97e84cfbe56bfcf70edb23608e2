@@ -1,0 +1,6 @@
+4ffa1d1c6842 ("net: adopt try_cmpxchg() in napi_{enable|disable}()")
+0315a075f134 ("net: fix premature exit from NAPI state polling in napi_disable()")
+719c57197010 ("net: make napi_disable() symmetric with enable")
+3765996e4f0b ("napi: fix race inside napi_enable")
+29863d41bb6e ("net: implement threaded-able napi poll loop support")
+7fd3253a7de6 ("net: Introduce preferred busy-polling")

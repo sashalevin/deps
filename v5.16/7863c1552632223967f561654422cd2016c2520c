@@ -1,0 +1,5 @@
+7863c1552632 ("drm/amd: Fail the suspend if resources can't be evicted")
+575e55ee4fbc ("drm/amdgpu: recover gart table at resume")
+1dd8b1b987fa ("drm/amdgpu: do not pass ttm_resource_manager to gtt_mgr")
+e53d9665ab00 ("drm/amdgpu: explicitly check for s0ix when evicting resources")
+948e7ce01413 ("drm/amd/amdgpu: fix gmc bo pin count leak in SRIOV")

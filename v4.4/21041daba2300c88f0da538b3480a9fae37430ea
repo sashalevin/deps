@@ -1,0 +1,7 @@
+21041daba230 ("gpio: tegra: Include the right header")
+f002d07c56c7 ("gpio: tegra: Implement gpio_get_direction callback")
+3737de42afb8 ("gpio: tegra: Add support for gpio debounce")
+b546be0db955 ("gpio: tegra: Get rid of all file scoped global variables")
+171b92c830f4 ("gpio: tegra: Don't open code of_device_get_match_data()")
+8b4acf3a9bd7 ("gpio: tegra: Use devm_gpiochip_add_data() for gpio registration")
+4eab22e748b5 ("gpio: convert remaining users to gpiochip_add_data()")

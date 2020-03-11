@@ -1,0 +1,4 @@
+9c556e5a4dd5 ("tracing/timerlat: Do not wakeup the thread if the trace stops at the IRQ")
+aa748949b4e6 ("tracing/timerlat: Notify IRQ new max latency only if stop tracing is set")
+dae181349f1e ("tracing/osnoise: Support a list of trace_array *tr")
+15ca4bdb0327 ("tracing/osnoise: Split workload start from the tracer start")

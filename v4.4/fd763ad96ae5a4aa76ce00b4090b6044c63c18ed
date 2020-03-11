@@ -1,0 +1,7 @@
+fd763ad96ae5 ("netvsc: remove bogus rtnl_unlock")
+3962981f4822 ("netvsc: add rtnl annotations in rndis")
+2a926f791211 ("netvsc: need rcu_derefence when accessing internal device info")
+9749fed5d43d ("netvsc: use ERR_PTR to avoid dereference issues")
+ea383bf146be ("netvsc: change logic for change mtu and set_queues")
+a5e1ec383321 ("netvsc: change order of steps in setting queues")
+0ddead90b223 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

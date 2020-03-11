@@ -1,0 +1,7 @@
+66293c46c931 ("netfilter: nf_tables: delay chain policy update until transaction is complete")
+9f8aac0be21e ("netfilter: nf_tables: fix memory leaks on chain rename")
+1b2470e59fb1 ("netfilter: nf_tables: handle chain name lookups via rhltable")
+a654de8fdc18 ("netfilter: nf_tables: fix chain dependency validation")
+d9adf22a2918 ("netfilter: nf_tables: use call_rcu in netlink dumps")
+0cbc06b3faba ("netfilter: nf_tables: remove synchronize_rcu in commit phase")
+fb83eb93c6aa ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

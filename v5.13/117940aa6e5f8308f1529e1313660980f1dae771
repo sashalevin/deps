@@ -1,0 +1,7 @@
+117940aa6e5f ("KVM: arm64: Define kvm_tlb_flush_vmid_range()")
+9024b3d0069a ("KVM: arm64: Enable retrieving protections attributes of PTEs")
+b53846c5f279 ("KVM: arm64: Tolerate re-creating hyp mappings to set software bits")
+c4f0935e4d95 ("KVM: arm64: Optimize host memory aborts")
+1bac49d490cb ("KVM: arm64: Provide the host_stage2_try() helper macro")
+63db506e0762 ("KVM: arm64: Introduce helper to retrieve a PTE and its level")
+7c350ea39e53 ("KVM: arm64: Unify MMIO and mem host stage-2 pools")

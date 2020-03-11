@@ -1,0 +1,6 @@
+93dec2da7b23 ("... and switch shmem_file_setup() to alloc_file_pseudo()")
+dac2d1f6cbfe ("__shmem_file_setup(): reorder allocations")
+c9c554f21490 ("alloc_file(): switch to passing O_... flags instead of FMODE_... mode")
+d202797f480c ("cxl_getfile(): fix double-iput() on alloc_file() failures")
+0825a6f98689 ("mm: use octal not symbolic permissions")
+5f85942c2ea2 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

@@ -1,0 +1,6 @@
+7825451fa4dc ("static_call: Add call depth tracking support")
+eaf44c816ed8 ("x86/modules: Add call patching")
+e81dc127ef69 ("x86/callthunks: Add call patching for call depth tracking")
+80e4c1cd42ff ("x86/retbleed: Add X86_FEATURE_CALL_DEPTH")
+3c516f89e17e ("x86: Add support for CONFIG_CFI_CLANG")
+2b1299322016 ("x86/speculation: Add RSB VM Exit protections")

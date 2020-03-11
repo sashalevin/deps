@@ -1,0 +1,6 @@
+33cd6ea9c067 ("fbdev: flush deferred IO before closing")
+fe9ae05cfbe5 ("fbdev: Fix incorrect page mapping clearance at fb_deferred_io_release()")
+3efc61d95259 ("fbdev: Fix invalid page access after closing deferred I/O devices")
+e80eec1b871a ("fbdev: Rename pagelist to pagereflist for deferred I/O")
+56c134f7f1b5 ("fbdev: Track deferred-I/O pages in pageref struct")
+856082f021a2 ("fbdev: defio: fix the pagelist corruption")

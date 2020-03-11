@@ -1,0 +1,7 @@
+ea9bae12d028 ("apparmor: cache buffers on percpu list if there is lock contention")
+341c1fda5e17 ("apparmor: make it so work buffers can be allocated from atomic context")
+8f21a6247525 ("apparmor: fix wrong buffer allocation in aa_new_mount")
+df323337e507 ("apparmor: Use a memory pool instead per-CPU caches")
+38125c2c2beb ("apparmor: improve get_buffers macro by using get_cpu_ptr")
+cf14f27f82af ("macro: introduce COUNT_ARGS() macro")
+5d7c44ef5e4f ("apparmor: fix locking when creating a new complain profile.")

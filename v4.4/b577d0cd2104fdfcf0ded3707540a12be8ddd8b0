@@ -1,0 +1,6 @@
+b577d0cd2104 ("9p: missing chunk of "fs/9p: Don't update file type when updating file attributes"")
+5e3cc1ee1405 ("9p: use inode->i_lock to protect i_size_write() under 32-bit")
+fc64005c9309 ("don't bother with ->d_inode->i_sb - it's always equal to ->d_sb")
+8012495e177b ("smack: fix cache of access labels")
+5955102c9984 ("wrappers for ->i_mutex access")
+391f2a16b74b ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

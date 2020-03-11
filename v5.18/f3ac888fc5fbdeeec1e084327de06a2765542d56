@@ -1,0 +1,6 @@
+f3ac888fc5fb ("cpufreq: scmi: Support the power scale in micro-Watts in SCMI v3.1")
+ae6ccaa65038 ("PM: EM: convert power field to micro-Watts precision and align drivers")
+75a3a99a5a98 ("PM: EM: Change the order of arguments in the .active_power() callback")
+91362463114e ("PM: EM: Use the new .get_cost() callback while registering EM")
+fc3a9a985847 ("PM: EM: Add artificial EM flag")
+bdc21a4d286c ("PM: EM: Add .get_cost() callback")

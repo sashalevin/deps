@@ -1,0 +1,7 @@
+02b182e67482 ("powerpc/perf: Refactor the code definition of perf reg extended mask")
+e79b76e03b71 ("powerpc/perf: Expose Performance Monitor Counter SPR's as part of extended regs")
+d735599a069f ("powerpc/perf: Add extended regs support for power10 platform")
+781fa4811d95 ("powerpc/perf: Add support for outputting extended regs in perf intr_regs")
+a64e697cef23 ("powerpc/perf: power10 Performance Monitoring support")
+78d76819e6f0 ("powerpc/perf: Update cpu_hw_event to use `struct` for storing MMCR registers")
+3c9450c053f8 ("powerpc/perf: Fix missing is_sier_aviable() during build")

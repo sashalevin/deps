@@ -1,0 +1,7 @@
+75cf0290271b ("instrumented.h: add KMSAN support")
+b073d7f8aee4 ("mm: kmsan: maintain KMSAN metadata for page operations")
+f80be4571b19 ("kmsan: add KMSAN runtime core")
+888f84a6da4d ("x86: asm: instrument usercopy in get_user() and put_user()")
+33b75c1d884e ("instrumented.h: allow instrumenting both sides of copy_from_user()")
+1a82f6ab2365 ("s390/uaccess: Add copy_from/to_user_key functions")
+012a224e1fa3 ("s390/uaccess: introduce bit field for OAC specifier")

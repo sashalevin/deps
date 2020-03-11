@@ -1,0 +1,5 @@
+fb73556386e0 ("clocksource/drivers/davinci: Fix memory leak in davinci_timer_register when init fails")
+4855f2bd91b6 ("clocksource: davinci: axe a pointless __GFP_NOFAIL")
+bdf8783c0dae ("clocksource/drivers/davinci: Avoid trailing '\n' hidden in pr_fmt()")
+b0c74b96d177 ("clocksource/drivers/davinci: Add support for clocksource")
+721154f972aa ("clocksource/drivers/davinci: Add support for clockevents")

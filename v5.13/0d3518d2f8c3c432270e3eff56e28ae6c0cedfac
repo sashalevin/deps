@@ -1,0 +1,5 @@
+0d3518d2f8c3 ("KVM: SVM: Remove TSS reloading code after VMEXIT")
+73412dfeea72 ("KVM: SVM: do not allocate struct svm_cpu_data dynamically")
+181d0fb0bb02 ("KVM: SVM: remove dead field from struct svm_cpu_data")
+58356767107a ("KVM: SVM: Allocate sd->save_area with __GFP_ZERO")
+179c6c27bf48 ("KVM: SVM: Fix off-by-one indexing when nullifying last used SEV VMCB")

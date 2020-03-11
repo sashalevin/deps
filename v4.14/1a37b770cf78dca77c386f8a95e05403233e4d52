@@ -1,0 +1,7 @@
+1a37b770cf78 ("sctp: make array sctp_sched_ops static")
+637784ade221 ("sctp: introduce priority based stream scheduler")
+5bbbbe32a431 ("sctp: introduce stream scheduler foundations")
+f952be79cebd ("sctp: introduce struct sctp_stream_out_ext")
+1fdb8d8fefe2 ("sctp: factor out stream->in allocation")
+e090abd0d81c ("sctp: factor out stream->out allocation")
+1ae2eaaa229b ("sctp: silence warns on sctp_stream_init allocations")

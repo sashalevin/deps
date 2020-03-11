@@ -1,0 +1,4 @@
+e08b1877452a ("initramfs: fix initramfs rebuilds w/ compression after disabling")
+9e3596b0c653 ("kbuild: initramfs cleanup, set target from Kconfig")
+ae30ab4cd711 ("kbuild: initramfs fix dependency checking for compressed target")
+35e669e1a254 ("initramfs: select builtin initram compression algorithm on KConfig instead of Makefile")

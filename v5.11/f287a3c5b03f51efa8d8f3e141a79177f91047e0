@@ -1,0 +1,7 @@
+f287a3c5b03f ("drm/amdgpu: Drop concurrent GPU reset protection for device")
+175ac6ec6bd8 ("drm/amdgpu: skip reset other device in the same hive if it's SRIOV VF")
+ff99849b00fe ("drm/amd/amdgpu: consider kernel job always not guilty")
+655ce9cb13b5 ("drm/amdgpu: Add reset_list for device list used for reset")
+8e2712e71bfc ("drm/amdgpu: Add kfd init_complete flag to check from amdgpu side")
+91fb309d8294 ("drm/amdgpu: race issue when jobs on 2 ring timeout")
+8a11d283788e ("drm/amdgpu: Fix trailing whitespaces")

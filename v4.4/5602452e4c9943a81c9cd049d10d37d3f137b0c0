@@ -1,0 +1,7 @@
+5602452e4c99 ("drm/i915: Use __sg_alloc_table_from_pages for userptr allocations")
+b8d5a9ccfba5 ("drm/i915: Encourage our shrinker more when our shmemfs allocations fails")
+bdb57b8dca8e ("drm/i915: Use the right mapping_gfp_mask for final shmem allocation")
+40149f00fb55 ("drm/i915: Actually pass the reclaim gfp_t along to shmemfs!")
+24f8e00a8a2e ("drm/i915: Prefer to report ENOMEM rather than incur the oom for gfx allocations")
+1c8782dd313e ("drm/i915/userptr: Disallow wrapping GTT into a userptr")
+5c37daf5dd2e ("Merge tag 'drm-intel-next-2017-01-09' of git://anongit.freedesktop.org/git/drm-intel into drm-next")

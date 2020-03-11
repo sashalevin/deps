@@ -1,0 +1,8 @@
+b9b1335e6403 ("remove bdi_congested() and wb_congested() and related functions")
+fe55d563d417 ("remove inode_congested()")
+a11d7fc2d05f ("block: remove the bd_bdi in struct block_device")
+edb0872f44ec ("block: move the bdi from the request_queue to the gendisk")
+2f4731dcd0bb ("block: remove bdput")
+14cf1dbb55bb ("block: remove bdgrab")
+9d3b8813895d ("block: change the refcounting for partitions")
+d7a66574b34e ("block: unhash the whole device inode earlier")

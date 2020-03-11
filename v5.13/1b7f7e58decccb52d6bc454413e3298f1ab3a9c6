@@ -1,0 +1,6 @@
+1b7f7e58decc ("mm/gup: Convert check_and_migrate_movable_pages() to use a folio")
+f9f38f78c5d5 ("mm: refactor check_and_migrate_movable_pages")
+5ac95884a784 ("mm/migrate: enable returning precise migrate_pages() success count")
+c5b5a3dd2c1f ("mm: thp: refactor NUMA fault handling")
+5db4f15c4fd7 ("mm: memory: add orig_pmd to struct vm_fault")
+8f34f1eac382 ("mm/userfaultfd: fix uffd-wp special cases for fork()")

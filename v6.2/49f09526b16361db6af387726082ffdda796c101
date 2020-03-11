@@ -1,0 +1,7 @@
+49f09526b163 ("selftests/mm: va_high_addr_switch should skip unsupported arm64 configs")
+bbe168729d4e ("selftests/mm: rename va_128TBswitch to va_high_addr_switch")
+cd834afa8ee3 ("selftests/mm: add support for arm64 platform on va switch")
+aef6fde75d8c ("selftests/mm: use TEST_GEN_PROGS where proper")
+9eac40fc0cc7 ("selftests/mm: mkdirty: test behavior of (pte|pmd)_mkdirty on VMAs without write permissions")
+baa489fabd01 ("selftests/vm: rename selftests/vm to selftests/mm")
+799fb82aa132 ("tools/vm: rename tools/vm to tools/mm")

@@ -1,0 +1,6 @@
+1ba1c41408df ("netfilter: nf_tables: rename deactivate_one() to flush()")
+5cb82a38c6b5 ("netfilter: nf_tables: pass netns to set->ops->remove()")
+35d0ac9070ef ("netfilter: nf_tables: fix set->nelems counting with no NLM_F_EXCL")
+8411b6442e59 ("netfilter: nf_tables: support for set flushing")
+37df5301a3ae ("netfilter: nft_set: introduce nft_{hash, rbtree}_deactivate_one()")
+1a37ef769d68 ("netfilter: nf_tables: constify struct nft_ctx * parameter in nft_trans_alloc()")

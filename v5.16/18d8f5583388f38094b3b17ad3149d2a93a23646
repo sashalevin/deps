@@ -1,0 +1,8 @@
+18d8f5583388 ("hwmon: (coretemp) Replace sensor_device_attribute with device_attribute")
+25f8e01baa05 ("hwmon: (coretemp) Remove unnecessary dependency of array index")
+fdaf0c8629d4 ("hwmon: (coretemp) Fix bogus core_id to attr name mapping")
+fae30e3c203e ("hwmon: (coretemp) Add support for dynamic ttarget")
+c0c67f8761ce ("hwmon: (coretemp) Add support for dynamic tjmax")
+2bc0e6d07ee5 ("hwmon: (coretemp) rearrange tjmax handing code")
+5c0e64dde80f ("hwmon: (coretemp) Remove obsolete temp_data->valid")
+7108b80a542b ("hwmon/coretemp: Handle large core ID value")

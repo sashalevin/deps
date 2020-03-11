@@ -1,0 +1,8 @@
+bac7b4e84323 ("x86/vmware: Update platform detection code for VMCALL/VMMCALL hypercalls")
+80e9a4f21fd7 ("x86/vmware: Add paravirt sched clock")
+91d1e54ebd16 ("x86/vmware: Add basic paravirt ops support")
+cf1137294943 ("x86/vmware: Read tsc_khz only once at boot time")
+b91688f528fe ("x86/vmware: Skip lapic calibration on VMware")
+186f43608a5c ("x86/kernel: Audit and remove any unnecessary uses of module.h")
+1b74dde7c47c ("x86/cpu: Convert printk(KERN_<LEVEL> ...) to pr_<level>(...)")
+671d5532aaad ("Merge branch 'x86-cpu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

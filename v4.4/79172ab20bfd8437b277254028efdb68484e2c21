@@ -1,0 +1,7 @@
+79172ab20bfd ("scsi: atari_scsi: sun3_scsi: Set sg_tablesize to 1 instead of SG_NONE")
+ded155b5e4e7 ("atari_scsi: Allow can_queue to be increased for Falcon")
+a5217a863690 ("atari_scsi: Set a reasonable default for cmd_per_lun")
+aa2e2cb1dde0 ("ncr5380: Fix and cleanup scsi_host_template initializers")
+54d8fe4425c9 ("ncr5380: Remove NCR5380_local_declare and NCR5380_setup macros")
+c0965e6371fa ("ncr5380: Remove more pointless macros")
+2f7dba9f7d8f ("ncr5380: Eliminate PDEBUG*, TDEBUG* and DTCDEBUG* macros")

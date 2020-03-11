@@ -1,0 +1,8 @@
+582eea230536 ("sctp: fix possibly using a bad saddr with a given dst")
+c4e85f73afb6 ("net: ipv6: add net argument to ip6_dst_lookup_flow")
+8a9c58d28d0f ("sctp: add support for dscp and flowlabel per transport")
+96818159c3c0 ("ipv6: allow to cache dst for a connected sk in ip6_sk_dst_lookup_flow()")
+4a31a6b19f9d ("sctp: fix dst refcnt leak in sctp_v4_get_dst")
+25e7f2de9658 ("sctp: set the value of flowi6_oif to sk_bound_dev_if to make sctp_v6_get_dst to find the correct route entry.")
+dbc2b5e9a09e ("sctp: fix src address selection if using secondary addresses for ipv6")
+4e8f2fc1a55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

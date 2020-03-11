@@ -1,0 +1,4 @@
+17e391dd09f5 ("scsi: target: Send unit attention condition even if the sense buffer is too small")
+89a104ed4f6a ("scsi: target: Do not duplicate the code that marks that a command has sense data")
+fa7e25cf13a6 ("target: Fix unknown fabric callback queue-full errors")
+310d3d314be7 ("target: Fix race with SCF_SEND_DELAYED_TAS handling")

@@ -1,0 +1,8 @@
+bc1cd99a9ad7 ("fs: remove ksys_dup")
+447016e96819 ("fs: add ksys_chdir() helper; remove in-kernel calls to sys_chdir()")
+e7a3e8b2edf5 ("fs: add ksys_write() helper; remove in-kernel calls to sys_write()")
+a16fe33ab557 ("fs: add ksys_chroot() helper; remove-in kernel calls to sys_chroot()")
+c7248321a3d4 ("fs: add ksys_dup{,3}() helper; remove in-kernel calls to sys_dup{,3}()")
+3a18ef5c1b39 ("fs: add ksys_umount() helper; remove in-kernel call to sys_umount()")
+312db1aa1dc7 ("fs: add ksys_mount() helper; remove in-kernel calls to sys_mount()")
+819671ff849b ("syscalls: define and explain goal to not call syscalls in the kernel")

@@ -1,0 +1,6 @@
+9844fb2e3513 ("power: supply: twl4030-charger: fix OF sibling-node lookup")
+7bb5a650f347 ("power: supply: twl4030-charger: add deferred probing for phy and iio")
+3950c95e2c39 ("power: supply: twl4030-charger: move irq allocation to just before irqs are enabled")
+5e6eb025b0d7 ("power: supply: twl4030-charger: move allocation of iio channel to the beginning")
+e8847c565421 ("power: supply: twl4030-charger: allocate iio by devm_iio_channel_get() and fix error path")
+49fb38465381 ("power: supply: twl4030-charger: remove nonstandard max_current sysfs attribute")

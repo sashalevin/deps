@@ -1,0 +1,4 @@
+9a798b1337af ("KVM: Register cpuhp and syscore callbacks when enabling hardware")
+44d174596260 ("KVM: Use dedicated mutex to protect kvm_usage_count to avoid deadlock")
+e0ceec221f62 ("KVM: Don't enable hardware after a restart/shutdown is initiated")
+6735150b6997 ("KVM: Use syscore_ops instead of reboot_notifier to hook restart/shutdown")

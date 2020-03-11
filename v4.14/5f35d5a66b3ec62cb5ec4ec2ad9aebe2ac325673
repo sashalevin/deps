@@ -1,0 +1,4 @@
+5f35d5a66b3e ("locking/mutex: Make __mutex_owner static to mutex.c")
+1362ae43c503 ("locking/spinlocks: Clean up comment and #ifndef for {,queued_}spin_is_locked()")
+88e77dc6a354 ("locking/mutex: Add comment to __mutex_owner() to deter usage")
+db076bef2da1 ("kernel/mutex: mutex_is_locked can be boolean")

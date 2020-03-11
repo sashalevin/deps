@@ -1,0 +1,7 @@
+8258ef28001a ("exfat: handle unreconized benign secondary entries")
+72880cb5f157 ("exfat: remove unnecessary arguments from exfat_find_dir_entry()")
+088f1343d910 ("exfat: remove call ilog2() from exfat_readdir()")
+3b9681acb0ef ("exfat: rename exfat_free_dentry_set() to exfat_put_dentry_set()")
+20914ff6dd56 ("exfat: move exfat_entry_set_cache from heap to stack")
+a3ff29a95fde ("exfat: support dynamic allocate bh for exfat_entry_set_cache")
+1e5654de0f51 ("exfat: handle wrong stream entry size in exfat_readdir()")

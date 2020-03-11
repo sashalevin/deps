@@ -1,0 +1,8 @@
+c77a4de2bbf3 ("pinctrl: st: Pass irqchip when adding gpiochip")
+98c01b19b85d ("pinctrl-st: fix of_irq_to_resource() result check")
+f5292d06c4f1 ("pinctrl: Convert to using %pOF instead of full_name")
+a5cadbbb081c ("pinctrl: imx: add generic pin config core support")
+3fd6d6ad73af ("pinctrl: imx: use generic pinmux helpers for managing functions")
+e566fc11ea76 ("pinctrl: imx: use generic pinctrl helpers for managing groups")
+a51c158bf0f7 ("pinctrl: imx: use radix trees for groups and functions")
+b28742be4709 ("pinctrl: imx: remove const qualifier of imx_pinctrl_soc_info")

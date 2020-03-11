@@ -1,0 +1,7 @@
+07cdfc44f1a4 ("firmware: arm_scmi: Refactor scmi_wait_for_message_response")
+31d2f803c19c ("firmware: arm_scmi: Add sync_cmds_completed_on_ret transport flag")
+a690b7e6e774 ("firmware: arm_scmi: Add configurable polling mode for transports")
+f872af09094c ("firmware: arm_scmi: Use new trace event scmi_xfer_response_wait")
+5a731aebd31b ("firmware: arm_scmi: Refactor message response path")
+582730b9cbcc ("firmware: arm_scmi: Set polling timeout to max_rx_timeout_ms")
+d211ddeb511a ("firmware: arm_scmi: Perform earlier cinfo lookup call in do_xfer")

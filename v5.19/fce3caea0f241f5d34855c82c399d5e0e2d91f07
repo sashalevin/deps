@@ -1,0 +1,4 @@
+fce3caea0f24 ("blk-crypto: don't use struct request_queue for public interfaces")
+0e91fc1e0f5c ("fscrypt: work on block_devices instead of request_queues")
+22e9947a4b2b ("fscrypt: stop holding extra request_queue references")
+d7e7b9af104c ("fscrypt: stop using keyrings subsystem for fscrypt_master_key")

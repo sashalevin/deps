@@ -1,0 +1,4 @@
+627778bfcfa1 ("KVM: SVM: Use kvm_is_cr4_bit_set() to query SMAP/SMEP in "can emulate"")
+3280cc22aea7 ("KVM: SVM: Don't apply SEV+SMAP workaround on code fetch or PT access")
+04c40f344def ("KVM: SVM: Inject #UD on attempted emulation for SEV guest w/o insn buffer")
+31c25585695a ("Revert "KVM: SVM: avoid infinite loop on NPF from bad address"")

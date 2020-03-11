@@ -1,0 +1,5 @@
+1506af6db8c4 ("perf: cs-etm: Support version 0.1 of HW_ID packets")
+77c123f53e97 ("perf: cs-etm: Move traceid_list to each queue")
+57880a7966be ("perf: cs-etm: Allocate queues for all CPUs")
+b6aa0de9a53a ("perf cs-etm: Create decoders after both AUX and HW_ID search passes")
+0d2e3f251149 ("perf cs-etm: Print error for new PERF_RECORD_AUX_OUTPUT_HW_ID versions")

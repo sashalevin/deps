@@ -1,0 +1,4 @@
+9360d035a579 ("panic: Separate sysctl logic from CONFIG_SMP")
+9df918698408 ("kernel/panic: move panic sysctls to its own file")
+f39650de687e ("kernel.h: split out panic and oops helpers")
+6861d27cf590 ("misc/pvpanic: split-up generic and platform dependent code")

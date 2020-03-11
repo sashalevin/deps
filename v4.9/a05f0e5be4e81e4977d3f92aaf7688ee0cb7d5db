@@ -1,0 +1,6 @@
+a05f0e5be4e8 ("powerpc/smp: Use nid as fallback for package_id")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")
+2a636a56d2d3 ("powerpc/smp: Add cpu_l2_cache_map")
+df52f6714071 ("powerpc/smp: Rework CPU topology construction")
+e3d8b67e2c60 ("powerpc/smp: Use cpu_to_chip_id() to find core siblings")
+19ab58d19ef6 ("powerpc, hotplug: Avoid to touch non-existent cpumasks.")

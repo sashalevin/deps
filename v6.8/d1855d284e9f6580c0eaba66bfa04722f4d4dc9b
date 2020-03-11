@@ -1,0 +1,6 @@
+d1855d284e9f ("drm/xe: Move sw-only pcode initialization")
+45b9066ec351 ("drm/xe: Move xe_force_wake_init_gt() inside gt initialization")
+65c4de2a9148 ("drm/xe: Move xe_gt_init_early() where it belongs")
+933fd5ffaf87 ("drm/xe: check pcode init status only on root gt of root tile")
+f7f24b7950af ("drm/xe: Add dbg messages on the suspend resume functions.")
+23be0e6e8316 ("drm/xe: Convert gt_reset from mem_access to xe_pm_runtime")

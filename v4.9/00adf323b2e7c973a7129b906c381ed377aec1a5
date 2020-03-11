@@ -1,0 +1,5 @@
+00adf323b2e7 ("ocfs2: correct range->len in ocfs2_trim_fs()")
+5500ab4ed3b8 ("ocfs2: fix the application IO timeout when fstrim is running")
+637dd20c4903 ("ocfs2: add trimfs lock to avoid duplicated trims in cluster")
+4882abebccb5 ("ocfs2: add trimfs dlm lock resource")
+439a36b8ef38 ("ocfs2/dlmglue: prepare tracking logic to avoid recursive cluster lock")

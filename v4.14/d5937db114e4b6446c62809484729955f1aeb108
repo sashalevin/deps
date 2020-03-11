@@ -1,0 +1,8 @@
+d5937db114e4 ("powerpc/code-patching: Fix patch_branch() return on out-of-range failure")
+7c95d8893fb5 ("powerpc: Change calling convention for create_branch() et. al.")
+04b0a72f2807 ("powerpc/32: use patch_site_addr() in machine_init()")
+67361cf80712 ("powerpc/ftrace: Handle large kernel configs")
+fa54a981ea7a ("powerpc/lib: Use patch_site to patch copy_32 functions once cache is enabled")
+ee13cb249fab ("powerpc/64s: Add support for software count cache flush")
+6453b532f2c8 ("powerpc/64: Make stf barrier PPC_BOOK3S_64 specific.")
+09027ab73b82 ("Merge tag 'kvm-ppc-next-4.18-2' of git://git.kernel.org/pub/scm/linux/kernel/git/paulus/powerpc into HEAD")

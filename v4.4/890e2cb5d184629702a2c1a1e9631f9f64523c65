@@ -1,0 +1,6 @@
+890e2cb5d184 ("ALSA: timer: Improve user queue reallocation")
+ba3021b2c79b ("ALSA: timer: Fix missing queue indices reset at SNDRV_TIMER_IOCTL_SELECT")
+40ed9444cd24 ("ALSA: timer: Introduce disconnect op to snd_timer_instance")
+230323dac060 ("ALSA: timer: Handle disconnection more safely")
+b5a663aa426f ("ALSA: timer: Harden slave timer list handling")
+af368027a49a ("ALSA: timer: Fix race among timer ioctls")

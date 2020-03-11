@@ -1,0 +1,7 @@
+ace8cb754539 ("arm64: tlb: Avoid synchronous TLBIs when freeing page tables")
+07212cd47efe ("arm64: tlb: Remove redundant !CONFIG_HAVE_RCU_TABLE_FREE code")
+45a284bc5ee3 ("arm64: tlb: Add DSB ISHST prior to TLBI in __flush_tlb_[kernel_]pgtable()")
+409d5db49867 ("arm64: rseq: Implement backend rseq calls and select HAVE_RSEQ")
+05f2d2f83b5a ("arm64: tlbflush: Introduce __flush_tlb_kernel_pgtable")
+d148eac0e70f ("Kbuild: rename HAVE_CC_STACKPROTECTOR config variable")
+be779f03d563 ("Merge tag 'kbuild-v4.18-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

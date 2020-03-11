@@ -1,0 +1,4 @@
+676b2daabaf9 ("bpf, x86: Set header->size properly before freeing it")
+1022a5498f6f ("bpf, x86_64: Use bpf_jit_binary_pack_alloc")
+33c9805860e5 ("bpf: Introduce bpf_jit_binary_pack_[alloc|finalize|free]")
+c2f2cdbeffda ("bpf: introduce BPF_F_XDP_HAS_FRAGS flag in prog_flags loading the ebpf program")

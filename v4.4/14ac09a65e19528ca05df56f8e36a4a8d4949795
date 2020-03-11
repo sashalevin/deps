@@ -1,0 +1,7 @@
+14ac09a65e19 ("MIPS: refactor the runtime coherent vs noncoherent DMA indicators")
+3440caf5f28c ("MIPS/alchemy: factor out the DMA coherent setup")
+04e4783fccf4 ("MIPS/malta: simplify plat_setup_iocoherency")
+2c66e281c033 ("MIPS: Do not initialise globals to 0")
+f3ecc0ff0457 ("dma-mapping: move the dma_coherent flag to struct device")
+5748e1b35ba2 ("MIPS: don't select DMA_MAYBE_COHERENT from DMA_PERDEV_COHERENT")
+f66dc7232002 ("Merge tag 'dma-mapping-4.19' of git://git.infradead.org/users/hch/dma-mapping")

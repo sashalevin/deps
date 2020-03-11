@@ -1,0 +1,5 @@
+f5ff79fddf0e ("dma-mapping: remove CONFIG_DMA_REMAP")
+a86d10942db2 ("dma-direct: refactor the !coherent checks in dma_direct_alloc")
+f3c962226dbe ("dma-direct: clean up the remapping checks in dma_direct_alloc")
+5570449b6876 ("dma-direct: don't call dma_set_decrypted for remapped allocations")
+4d0564785bb0 ("dma-direct: factor out dma_set_{de,en}crypted helpers")

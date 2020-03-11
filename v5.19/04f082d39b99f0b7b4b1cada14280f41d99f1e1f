@@ -1,0 +1,8 @@
+04f082d39b99 ("firewire: core: fix build failure due to the caller of fw_csr_string()")
+47dc55181dcb ("firewire: core: search descriptor leaf just after vendor directory entry in root directory")
+2eab8bc0f0c8 ("firewire: core: detect model name for legacy layout of configuration ROM")
+58aae0a00e0d ("firewire: test: add test of device attributes for legacy AV/C device")
+1c8506d62624 ("firewire: test: add test of device attributes for simple AV/C device")
+1770d39d10dd ("firewire: test: add KUnit test for device attributes")
+afa36dadd3b3 ("firewire: core: replace magic number with macro")
+dc7c51638f46 ("firewire: add KUnit test to check layout of UAPI structures")

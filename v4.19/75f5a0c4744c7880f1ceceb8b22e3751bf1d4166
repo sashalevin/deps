@@ -1,0 +1,6 @@
+75f5a0c4744c ("scsi: sym53c500_cs: Stop using struct scsi_pointer")
+3d75be6de78e ("scsi: sym53c500_cs: Move the SCSI pointer to private command data")
+e71eebf744e4 ("scsi: sym53c500_cs: Switch to attribute groups")
+ca0d62d29bb1 ("scsi: pcmcia: Call scsi_done() directly")
+2a3d4eb8e228 ("scsi: flip the default on use_clustering")
+c29d7d10cd1e ("scsi: virtio_scsi: Remove per-target data because it is no longer used")

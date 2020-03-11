@@ -1,0 +1,3 @@
+bc81426f5bee ("prctl_set_mm: downgrade mmap_sem to read lock")
+a3b609ef9f8b ("proc read mm's {arg,env}_{start,end} with mmap semaphore taken.")
+ddf1d398e517 ("prctl: take mmap sem for writing to protect against others")

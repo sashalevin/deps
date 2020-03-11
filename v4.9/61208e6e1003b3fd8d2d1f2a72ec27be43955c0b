@@ -1,0 +1,3 @@
+61208e6e1003 ("perf top: Do not bail out when perf_env__read_cpuid() returns ENOSYS")
+608127f73779 ("perf top: Initialize perf_env->cpuid, needed by the per arch annotation init routine")
+ecc4c5614b24 ("perf tools: Propagate perf_config() errors")

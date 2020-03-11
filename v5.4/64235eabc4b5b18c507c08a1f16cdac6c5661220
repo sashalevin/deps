@@ -1,0 +1,6 @@
+64235eabc4b5 ("udp: prevent local UDP tunnel packets from being GROed")
+18f25dc39990 ("udp: skip L4 aggregation for UDP tunnel packets")
+89e5c58fc1e2 ("net: Fix gro aggregation for udp encaps with zero csum")
+36707061d6ba ("udp: allow forwarding of plain (non-fraglisted) UDP GRO packets")
+bde1b56f898c ("udp: initialize is_flist with 0 in udp_gro_receive")
+9fd1ff5d2ac7 ("udp: Support UDP fraglist GRO/GSO.")

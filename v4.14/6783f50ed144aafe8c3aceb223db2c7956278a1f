@@ -1,0 +1,4 @@
+6783f50ed144 ("sh_eth: remove custom .set_link_ksettings from ethtool ops")
+45abbd431939 ("sh_eth: remove custom .get_link_ksettings from ethtool ops")
+f3146f3774c8 ("sh_eth: remove useless serialization in sh_eth_get_link_ksettings()")
+5cb3f52a11e1 ("sh_eth: fix invalid context bug while changing link options by ethtool")

@@ -1,0 +1,7 @@
+bb7a3681b2cf ("media: i2c: tvp5150: Use parentheses for sizeof")
+257e29f84e37 ("[media] tvp5150: convert it to use dev_foo() macros")
+ce8591ff023e ("[media] em28xx: convert it from pr_foo() to dev_foo()")
+2a96f60e89b9 ("[media] em28xx: convert the remaining printks to pr_foo")
+8314d40233f3 ("[media] em28xx: use pr_foo instead of em28xx-specific printk macros")
+3e7974169a82 ("[media] em28xx: mark printk continuation lines as such")
+5ccb197de292 ("[media] em28xx: don't break long lines")

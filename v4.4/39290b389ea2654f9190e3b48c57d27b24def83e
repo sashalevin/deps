@@ -1,0 +1,8 @@
+39290b389ea2 ("module: extend 'rodata=off' boot cmdline parameter to module mappings")
+444d13ff10fb ("modules: add ro_after_init support")
+425595a7fc20 ("livepatch: reuse module loader code to write relocations")
+8d98e96b345e ("Elf: add livepatch-specific Elf constants")
+d2aa1acad22f ("mm/init: Add 'rodata=off' boot cmdline parameter to disable read-only kernel mappings")
+e267d97b83d9 ("asm-generic: Consolidate mark_rodata_ro()")
+b56b36ee6751 ("livepatch: Cleanup module page permission changes")
+fc284d631894 ("Merge branch 'from-rusty/modules-next' into for-4.5/core")

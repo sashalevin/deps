@@ -1,0 +1,6 @@
+6c62985d576c ("x86/paravirt: Change vcp_is_preempted() arg type to long")
+3cded4179481 ("x86/paravirt: Optimize native pv_lock_ops.vcpu_is_preempted()")
+de7689cf8f38 ("x86/xen: Support the vCPU preemption check")
+446f3dc8cc0a ("locking/core, x86/paravirt: Implement vcpu_is_preempted(cpu) for KVM and Xen guests")
+cfd8983f03c7 ("x86, locking/spinlocks: Remove ticket (spin)lock implementation")
+45e898b73562 ("locking/pvqspinlock: Collect slowpath lock statistics")

@@ -1,0 +1,7 @@
+9af177ee3ef1 ("io_uring: retry early for reads if we can poll")
+6ad7f2332e84 ("io_uring: clear F_REISSUE right after getting it")
+230d50d448ac ("io_uring: move reissue into regular IO path")
+07204f21577a ("io_uring: fix EIOCBQUEUED iter revert")
+b65c128f963d ("io_uring: don't skip file_end_write() on reissue")
+3e6a0d3c7571 ("io_uring: fix -EAGAIN retry with IOPOLL")
+5695e5161974 ("Merge tag 'io_uring-worker.v3-2021-02-25' of git://git.kernel.dk/linux-block")

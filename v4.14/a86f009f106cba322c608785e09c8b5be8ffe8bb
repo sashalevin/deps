@@ -1,0 +1,5 @@
+a86f009f106c ("libceph: allocate the locator string with GFP_NOFAIL")
+08c1ac508b6d ("libceph, ceph: move ceph_calc_file_object_mapping() to striper.c")
+ed0811d2d243 ("libceph: striping framework implementation")
+dccbf08005df ("libceph, ceph: change ceph_calc_file_object_mapping() signature")
+db2196a58939 ("libceph: eliminate overflows in ceph_calc_file_object_mapping()")

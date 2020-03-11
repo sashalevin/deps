@@ -1,0 +1,6 @@
+044498cd89a1 ("serial: Remove uart_wait_until_sent() forward declaration")
+8e90cf29aef7 ("serial: Move uart_change_speed() earlier")
+a8c11c152034 ("tty: Make ->set_termios() old ktermios const")
+0ed12afa5655 ("serial: core: move RS485 configuration tasks from drivers into core")
+1fe183091753 ("tty: add kernel-doc for tty_operations")
+3fdfa165d79b ("mxser: restore baud rate if its setting fails")

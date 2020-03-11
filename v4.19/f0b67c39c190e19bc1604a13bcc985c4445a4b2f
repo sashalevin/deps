@@ -1,0 +1,8 @@
+f0b67c39c190 ("x86/debug: Move cond_local_irq_enable() block into exc_debug_user()")
+4eb5acc39187 ("x86/debug: Move historical SYSENTER junk into exc_debug_kernel()")
+4182e9436916 ("x86/debug: Simplify #DB signal code")
+7043679a989a ("x86/debug: Remove handle_debug(.user) argument")
+20a6e35a9482 ("x86/debug: Move kprobe_debug_handler() into exc_debug_kernel()")
+c182487da1b5 ("x86/debug: Sync BTF earlier")
+d5c678aed5ed ("x86/debug: Allow a single level of #DB recursion")
+f87032aec41e ("Merge branch 'locking/nmi' into x86/entry")

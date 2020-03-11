@@ -1,0 +1,8 @@
+5a41a86c525a ("iwlwifi: migrate to devm_* API")
+7c8d91eb312f ("iwlwifi: pcie: Set affinity mask for rx interrupt vectors per cpu")
+496d83caf354 ("iwlwifi: pcie: Configure shared interrupt vector in MSIX mode")
+54f315cb082b ("iwlwifi: pcie: Enable MSI mode when using MSI interrupts")
+8d80717a12c1 ("iwlwifi: pcie: Fix index iteration on free_irq in MSIX mode")
+6ed5e4d64a50 ("iwlwifi: pcie: print error value as signed int")
+2e5d4a8f61dc ("iwlwifi: pcie: Add new configuration to enable MSIX")
+3cce9bb07b5d ("Merge tag 'iwlwifi-for-kalle-2016-02-15' into HEAD")

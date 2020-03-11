@@ -1,0 +1,7 @@
+9e225fb9e636 ("drm/amdgpu: Prevent race between late signaled fences and GPU reset.")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")
+ff99849b00fe ("drm/amd/amdgpu: consider kernel job always not guilty")
+72c8c97b1522 ("drm/amdgpu: Split amdgpu_device_fini into early and late")
+91fb309d8294 ("drm/amdgpu: race issue when jobs on 2 ring timeout")
+4a0a0d6dd13e ("drm/amdgpu: de-initialize software ih ring")
+bebd4c79a4eb ("drm/amdgpu: create vega20 ih blocks")

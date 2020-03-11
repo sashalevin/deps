@@ -1,0 +1,2 @@
+65d8eb5a8f54 ("now lock_parent() can't run into killed dentry")
+3b821409632a ("lock_parent() needs to recheck if dentry got __dentry_kill'ed under it")

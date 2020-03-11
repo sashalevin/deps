@@ -1,0 +1,5 @@
+a76b62518eb3 ("cxl/port: Fix cxl_test register enumeration regression")
+5d2ffbe4b81a ("cxl/port: Store the downstream port's Component Register mappings in struct cxl_dport")
+19ab69a60e3b ("cxl/port: Store the port's Component Register mappings in struct cxl_port")
+227db57459e8 ("cxl: Rename member @dport of struct cxl_dport to @dport_dev")
+eb4663b07e13 ("cxl/acpi: Probe RCRB later during RCH downstream port creation")

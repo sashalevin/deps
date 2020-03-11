@@ -1,0 +1,3 @@
+e4a38402c36e ("oom_kill.c: futex: delay the OOM reaper to allow time for proper futex cleanup")
+bbbe48029720 ("mm, oom: remove 'prefer children over parent' heuristic")
+cefc7ef3c87d ("mm, oom: fix use-after-free in oom_kill_process")

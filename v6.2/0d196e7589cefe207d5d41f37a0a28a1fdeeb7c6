@@ -1,0 +1,7 @@
+0d196e7589ce ("exec: don't WARN for racy path_noexec check")
+2a010c412853 ("fs: don't block i_writecount during exec")
+bdd8f62431eb ("exec: Add do_close_execat() helper")
+978ffcbf00d8 ("execve: open the executable file before doing anything else")
+a7031f145257 ("kernel/fork: stop playing lockless games for exe_file replacement")
+7b8c9d7bb457 ("fsnotify: move fsnotify_open() hook into do_dentry_open()")
+af7f588d8f73 ("sched: Introduce per-memory-map concurrency ID")

@@ -1,0 +1,5 @@
+4db783d68b9b ("ipv6: prevent NULL dereference in ip6_output()")
+d289ab65b89c ("ipv6: annotate data-races around cnf.disable_ipv6")
+0339d25a2807 ("ipv6: fix NULL deref in ip6_rcv_core()")
+4daf841a2ef3 ("net: ipv6: add skb drop reasons to ip6_rcv_core()")
+794c24e9921f ("net-core: rx_otherhost_dropped to core_stats")

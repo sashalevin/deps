@@ -1,0 +1,8 @@
+1b9469cf1597 ("PCI: Move struct pci_devres.pinned bit to struct pci_dev")
+77f79ac8de0f ("PCI: Remove struct pci_devres.enabled status bit")
+815a3909ead7 ("PCI: Move devres code from pci.c to devres.c")
+acc2364fe661 ("PCI: Move PCI-specific devres code to drivers/pci/")
+ae874027524c ("PCI: Move pci_iomap.c to drivers/pci/")
+849846c41497 ("PCI: Reorder pci_dev fields to reduce holes")
+8a9b7ef74369 ("PCI: Add standard PCI Config Address macros")
+55656016daa7 ("lib: devres: use numa aware allocation")

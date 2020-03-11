@@ -1,0 +1,4 @@
+fde1c4ecf916 ("mm: hugetlb: skip initialization of gigantic tail struct pages if freed by HVO")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")
+454a00c40a21 ("mm: convert free_huge_page() to free_huge_folio()")
+dd6fa0b61814 ("mm: call free_huge_page() directly")

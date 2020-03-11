@@ -1,0 +1,6 @@
+4fbc3a52cd4d ("RDMA/core: Fix umem iterator when PAGE_SIZE is greater then HCA pgsz")
+186b169cf1e4 ("RDMA/umem: Set iova in ODP flow")
+79fbd3e1241c ("RDMA: Use the sg_table directly and remove the opencoded version from umem")
+3e302dbc6774 ("lib/scatterlist: Fix wrong update of orig_nents")
+90e7a6de6278 ("lib/scatterlist: Provide a dedicated function to support table append")
+b48c24c2d710 ("RDMA/irdma: Implement device supported verb APIs")

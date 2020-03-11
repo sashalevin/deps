@@ -1,0 +1,6 @@
+db67097aa6f2 ("pktdvd: stop using bdi congestion framework.")
+edb0872f44ec ("block: move the bdi from the request_queue to the gendisk")
+2f4731dcd0bb ("block: remove bdput")
+14cf1dbb55bb ("block: remove bdgrab")
+9d3b8813895d ("block: change the refcounting for partitions")
+d7a66574b34e ("block: unhash the whole device inode earlier")

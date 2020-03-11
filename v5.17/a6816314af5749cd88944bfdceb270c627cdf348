@@ -1,0 +1,7 @@
+a6816314af57 ("KVM: Introduce vcpu->wants_to_run")
+2fc3bd86db4b ("LoongArch: KVM: Implement basic vcpu interfaces")
+0460eb35b443 ("KVM: s390: Add configuration dump functionality")
+35d02493dba1 ("KVM: s390: pv: Add query interface")
+2031f2876896 ("KVM: Add helpers to wrap vcpu->srcu_idx and yell if it's abused")
+fdd6f6ac2e48 ("KVM: RISC-V: Use kvm_vcpu.srcu_idx, drop RISC-V's unnecessary copy")
+c9d3b5bd2693 ("RISC-V: KVM: Add common kvm_riscv_vcpu_wfi() function")

@@ -1,0 +1,8 @@
+4a3084aaa88e ("rhashtable: Drop raw RCU deref in nested_table_free")
+64e0cd0d3540 ("rhashtable: Call library function alloc_bucket_locks")
+43ca5bc4f72e ("lib/rhashtable.c: simplify a strange allocation pattern")
+c4d2603dac3a ("rhashtable: Fix RCU dereference annotation in rht_bucket_nested")
+ca435407ba66 ("rhashtable: Fix use before NULL check in bucket_table_free")
+da20420f83ea ("rhashtable: Add nested tables")
+ca26893f05e8 ("rhashtable: Add rhlist interface")
+60175ccdf46a ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

@@ -1,0 +1,6 @@
+db5271d50ec1 ("flow_dissector: cleanup FLOW_DISSECTOR_KEY_ENC_FLAGS")
+668b6a2ef832 ("flow_dissector: add support for tunnel control flags")
+5832c4a77d69 ("ip_tunnel: convert __be16 tunnel flags to bitmaps")
+117aef12a7b1 ("ip_tunnel: use a separate struct to store tunnel params in the kernel")
+2aceb896ee18 ("vxlan: use generic function for tunnel IPv6 route lookup")
+6f19b2c136d9 ("vxlan: use generic function for tunnel IPv4 route lookup")

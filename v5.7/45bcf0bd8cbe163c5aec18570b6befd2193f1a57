@@ -1,0 +1,7 @@
+45bcf0bd8cbe ("locktorture: With nested locks, occasionally skip main lock")
+b63343207da2 ("locktorture: Add nested_[un]lock() hooks and nlocks parameter")
+af5f6e27d52c ("locktorture: Count lock readers")
+aa3a5f31877e ("locking/locktorture: Pass thread id to lock/unlock functions")
+0d7202876bcb ("locktorture: Invoke percpu_free_rwsem() to do percpu-rwsem cleanup")
+3480d6774f07 ("locktorture: Track time of last ->writeunlock()")
+d02c6b52d12f ("locktorture: Use true and false to assign to bool variables")

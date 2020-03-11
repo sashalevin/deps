@@ -1,0 +1,6 @@
+df6bd6c002a4 ("mtd: spi-nor: stm32: remove the driver as it was replaced by spi-stm32-qspi.c")
+5f0d02270d0a ("mtd: spi-nor: stm32-quadspi: replace "%p" with "%pK"")
+3278aa0ec391 ("mtd: spi-nor: stm32-quadspi: explicitly request exclusive reset control")
+10cd4b7b7432 ("mtd: spi-nor: stm32-quadspi: fix prefetching outside fsize")
+e812963b9186 ("mtd: spi-nor: stm32-quadspi: change license text")
+05521bd3d117 ("mtd: spi-nor: stm32-quadspi: Fix uninitialized error return code")

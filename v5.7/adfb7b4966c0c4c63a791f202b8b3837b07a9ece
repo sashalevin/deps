@@ -1,0 +1,7 @@
+adfb7b4966c0 ("net: hns3: fix the max tx size according to user manual")
+d5d5e0193ee8 ("net: hns3: add handling for xmit skb with recursive fraglist")
+6ad595bc981d ("net: hns3: rename trace event hns3_over_8bd")
+fd665b3dbafd ("net: hns3: replace macro HNS3_MAX_NON_TSO_BD_NUM")
+f6061a056c8b ("net: hns3: batch tx doorbell operation")
+cfdaeba5ddc9 ("net: hns3: fix desc filling bug when skb is expanded or lineared")
+5c6cfd309faa ("net: hns3: remove unnecessary frag list checking in hns3_nic_net_xmit()")

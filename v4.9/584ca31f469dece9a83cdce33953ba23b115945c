@@ -1,0 +1,4 @@
+584ca31f469d ("l2tp: cleanup netlink send of tunnel address information")
+be070c77ca80 ("net: l2tp: mark expected switch fall-through")
+97b7af097edb ("net: l2tp: netlink: l2tp_nl_tunnel_send: set UDP6 checksum flags")
+7ff516ffe4ec ("net: l2tp: only set L2TP_ATTR_UDP_CSUM if AF_INET")

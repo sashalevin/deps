@@ -1,0 +1,8 @@
+9cd9e23ae3ac ("gpio: idt3243x: Convert to immutable irq_chip")
+3c938cc5cebc ("gpio: use raw spinlock for gpio chip shadowed data")
+2b725265cb08 ("gpio: mlxbf2: Introduce IRQ support")
+603607e70e36 ("gpio: mlxbf2: Drop wrong use of ACPI_PTR()")
+dabe57c3a32d ("gpio: mlxbf2: Convert to device PM ops")
+4195926aedca ("gpio: Add support for IDT 79RC3243x GPIO controller")
+5a5bc826fed1 ("gpio: dwapb: Drop redundant check in dwapb_irq_set_type()")
+944dcbe84b8a ("gpio: intel-mid: Remove driver for deprecated platform")

@@ -1,0 +1,4 @@
+ac8c58f5b535 ("igb: fix deadlock caused by taking RTNL in RPM resume path")
+000ba1f2ebf0 ("igb: mark PM functions as __maybe_unused")
+b90fa8763560 ("igb: Enable reading of wake up packet")
+9474933caf21 ("igb: close/suspend race in netif_device_detach")

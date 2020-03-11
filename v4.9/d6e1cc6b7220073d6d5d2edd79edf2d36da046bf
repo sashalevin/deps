@@ -1,0 +1,5 @@
+d6e1cc6b7220 ("perf arm64: Handle __NR3264_ prefixed syscall number")
+7e8e5e879729 ("perf arm64: Fix mksyscalltbl, don't lose syscalls due to sort -nu")
+f95d050cdc5d ("perf arm64: Fix mksyscalltbl when system kernel headers are ahead of the kernel")
+2b5882435606 ("perf arm64: Generate system call table from asm/unistd.h")
+3bb53c9f124b ("perf tools arm64: Add support for generating bpf prologue")

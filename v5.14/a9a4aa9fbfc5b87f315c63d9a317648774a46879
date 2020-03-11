@@ -1,0 +1,3 @@
+a9a4aa9fbfc5 ("io-wq: wqe and worker locks no longer need to be IRQ safe")
+79dca1846fe9 ("io-wq: move nr_running and worker_refs out of wqe->lock protection")
+d3e9f732c415 ("io-wq: remove GFP_ATOMIC allocation off schedule out path")

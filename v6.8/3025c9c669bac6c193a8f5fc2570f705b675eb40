@@ -1,0 +1,5 @@
+3025c9c669ba ("pwm: sti: Improve error reporting using dev_err_probe()")
+5bb0b194aeee ("pwm: sti: Simplify probe function using devm functions")
+3f7dc7d863cd ("pwm: sti: Make use of devm_pwmchip_alloc() function")
+54272761ce7c ("pwm: sti: Prepare removing pwm_chip from driver data")
+5f623835584f ("pwm: sti: Fix capture for st,pwm-num-chan < st,capture-num-chan")

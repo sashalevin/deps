@@ -1,0 +1,7 @@
+6c31f495d199 ("xfs: use iomap to implement DAX")
+17879e8f865f ("xfs: fix locking for DAX writes")
+51446f5ba448 ("xfs: rewrite and optimize the delalloc write path")
+f8e3a8257538 ("xfs: factor our a helper to calculate the EOF alignment")
+e9c4973638be ("xfs: move xfs_bmbt_to_iomap up")
+8b2180b3bf03 ("xfs: don't invalidate whole file on DAX read/write")
+0e6acf0204da ("Merge tag 'xfs-for-linus-4.8-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/dgc/linux-xfs")

@@ -1,0 +1,7 @@
+0978a63f9c8b ("riscv, crash: wrap crash dumping code into crash related ifdefs")
+838b3e28488f ("RISC-V: Load purgatory in kexec_file")
+8acea455fafa ("RISC-V: Support for kexec_file on panic")
+6261586e0c91 ("RISC-V: Add kexec_file support")
+d414cb379ac3 ("riscv: mm: init: use IS_ENABLED(CONFIG_KEXEC_CORE) instead of #ifdef")
+e5c35fa04019 ("riscv: Map the kernel with correct permissions the first time")
+c10bc260e7c0 ("riscv: Introduce set_kernel_memory helper")

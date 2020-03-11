@@ -1,0 +1,4 @@
+7399b886b55e ("nbd: use the structured req attr check")
+1243172d5894 ("nbd: use pr_err to output error message")
+858f1bf65d3d ("nbd: fix possible overflow on 'first_minor' in nbd_dev_add()")
+c55b2b983b0f ("nbd: fix race between nbd_alloc_config() and module removal")

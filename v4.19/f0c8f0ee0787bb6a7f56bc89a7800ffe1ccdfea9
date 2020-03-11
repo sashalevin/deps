@@ -1,0 +1,4 @@
+f0c8f0ee0787 ("i2c: i801: make FEATURE_HOST_NOTIFY dependent on FEATURE_IRQ")
+9b5bf5878138 ("i2c: i801: Restore INTREN on unload")
+c073b25dad0c ("i2c: i801: Stop using pm_runtime_set_autosuspend_delay(-1)")
+811a6e18a863 ("i2c: i801: Simplify the suspend callback")

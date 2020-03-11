@@ -1,0 +1,8 @@
+031f112f8dc0 ("perf tools: Use struct extra_kernel_map in machine__process_kernel_mmap_event")
+a94ab91a54c6 ("perf machine: No need to check if kernel module maps pre-exist")
+f068435d9bb2 ("perf map: No need to adjust the long name of modules")
+93730f85eb37 ("perf machine: Add kernel_dso() method")
+12a6d2940b5f ("perf record: Fix module size on s390")
+6738028dd57d ("perf record: Fix s390 missing module symbol and warning for non-root users")
+977c7a6d1e26 ("perf machine: Update kernel map address and re-order properly")
+9aa0bfa370b2 ("perf tools: Handle PERF_RECORD_KSYMBOL")

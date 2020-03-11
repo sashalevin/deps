@@ -1,0 +1,4 @@
+c7e263ab45b9 ("shmem: make shmem_inode_acct_block() return error")
+7d64ae3ab648 ("userfaultfd/shmem: modify shmem_mfill_atomic_pte to use install_pte()")
+153132571f02 ("userfaultfd/shmem: support UFFDIO_CONTINUE for shmem")
+3460f6e5c1ed ("userfaultfd/shmem: combine shmem_{mcopy_atomic,mfill_zeropage}_pte")

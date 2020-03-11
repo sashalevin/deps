@@ -1,0 +1,5 @@
+bc0f0d4a5853 ("usb: dwc2: override PHY input signals with usb role switch support")
+a415083a11cc ("usb: dwc2: add support for STM32MP15 SoCs USB OTG HS and FS")
+c846b03ff767 ("USB: dwc2: Don't turn off the usbphy in suspend if wakeup is enabled")
+707d80f0a3c5 ("usb: dwc2: gadget: Replace phyif with phy_utmi_width")
+c40cf7705e13 ("usb: dwc2: optionally assert phy reset when waking up")

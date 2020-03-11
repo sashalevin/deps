@@ -1,0 +1,8 @@
+1fc04a0b9733 ("net: stmmac: add new mode parameter for fix_mac_speed")
+25c4a0769443 ("net: stmmac: dwmac-qcom-ethqos: prepare the driver for more PHY modes")
+302555a0ae33 ("net: stmmac: dwmac-qcom-ethqos: use a helper variable for &pdev->dev")
+7b5e64a93825 ("net: stmmac: dwmac-qcom-ethqos: tweak the order of local variables")
+9fc68f23a6d3 ("net: stmmac: dwmac-qcom-ethqos: shrink clock code with devres")
+5580b559a80a ("net: stmmac: dwmac-qcom-ethqos: Convert to platform remove callback returning void")
+c5f3ffe35cc9 ("net: stmmac: dwmac-qcom-ethqos: Drop an if with an always false condition")
+3246627f11c5 ("net: stmmac: Make stmmac_pltfr_remove() return void")

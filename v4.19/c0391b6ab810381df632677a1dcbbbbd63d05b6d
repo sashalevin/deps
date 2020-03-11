@@ -1,0 +1,7 @@
+c0391b6ab810 ("netfilter: nf_tables: missing validation from the abort path")
+eb014de4fd41 ("netfilter: nf_tables: autoload modules from the abort path")
+9332d27d7918 ("netfilter: nf_tables: remove WARN and add NLA_STRING upper limits")
+ec7470b834fe ("netfilter: nf_tables: store transaction list locally while requesting module")
+0ef1efd1354d ("netfilter: nf_tables: force module load in case select_ops() returns -EAGAIN")
+b9c04ae7907f ("netfilter: nf_tables: add nft_expr_type_request_module()")
+0935d5588400 ("netfilter: nf_tables: asynchronous release")

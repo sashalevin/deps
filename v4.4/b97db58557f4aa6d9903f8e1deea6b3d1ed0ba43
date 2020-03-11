@@ -1,0 +1,5 @@
+b97db58557f4 ("IB/rxe: fix for duplicate request processing and ack psns")
+37b36193946e ("IB/rxe: Use BTH_PSN_MASK when ACKing duplicate sends")
+2a7a85487e54 ("IB/rxe: Don't update the response PSN unless it's going forwards")
+8700e3e7c485 ("Soft RoCE driver")
+0194621b2253 ("IB/rdmavt: Create module framework and handle driver registration")

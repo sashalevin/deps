@@ -1,0 +1,6 @@
+a1c0d00572fc ("cifs: share dfs connections and supers")
+a73a26d97eca ("cifs: split out ses and tcon retrieval from mount_get_conns()")
+2301bc103ac4 ("cifs: remove unused smb3_fs_context::mount_options")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+68e14569d7e5 ("smb3: add dynamic trace points for tree disconnect")

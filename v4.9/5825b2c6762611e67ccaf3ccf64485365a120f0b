@@ -1,0 +1,6 @@
+5825b2c67626 ("nvmem: core: Use devm_add_action_or_reset()")
+bf58e8820c48 ("nvmem: change the signature of nvmem_unregister()")
+c1de7f43bd84 ("nvmem: use kref")
+b3db17e4b864 ("drivers: nvmem: Export nvmem_add_cells()")
+f1f50eca5f90 ("nvmem: Introduce devm_nvmem_(un)register()")
+79fbf0468b2a ("nvmem: core: Call put_device() in nvmem_unregister()")

@@ -1,0 +1,5 @@
+4ba8b3f7d368 ("nvmet: remove cntlid_min and cntlid_max check in nvmet_alloc_ctrl")
+22027a981134 ("nvmet: replace ida_simple[get|remove] with the simler ida_[alloc|free]")
+fec356a61aa3 ("nvmet: fix memory leak in nvmet_alloc_ctrl()")
+6d65aeab7bf6 ("nvmet: remove unused ctrl->cqs")
+94a39d61f80f ("nvmet: make ctrl-id configurable")

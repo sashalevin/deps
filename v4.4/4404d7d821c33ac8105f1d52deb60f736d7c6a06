@@ -1,0 +1,6 @@
+4404d7d821c3 ("mtd: nand: fsmc: remove stale non-DT probe path")
+04a123a99f08 ("mtd: nand: fsmc: get rid of the fsmc_nand_eccplace struct")
+22b469577625 ("mtd: nand: fsmc: switch to mtd_ooblayout_ops")
+277af429fb40 ("mtd: nand: fsmc: create and use mtd_to_fsmc()")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")

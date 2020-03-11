@@ -1,0 +1,7 @@
+4971c268b85e ("ima: Align ima_file_mmap() parameters with mmap_file LSM hook")
+8eb613c0b8f1 ("ima: verify mprotect change is consistent with mmap policy")
+16c267aac86b ("ima: based on policy require signed kexec kernel images")
+377179cd28cd ("security: define new LSM hook named security_kernel_load_data")
+6f0911a666d1 ("ima: fix updating the ima_appraise flag")
+df0ce17331e2 ("security: convert security hooks to use hlist")
+afdb09c720b6 ("security: bpf: Add LSM hooks for bpf object related syscall")

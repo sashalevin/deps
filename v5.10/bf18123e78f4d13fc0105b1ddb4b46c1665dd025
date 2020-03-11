@@ -1,0 +1,7 @@
+bf18123e78f4 ("mailbox: pcc: Avoid accessing PCCT table in pcc_send_data and pcc_mbox_irq")
+f92ae90e52bb ("mailbox: pcc: Rename doorbell ack to platform interrupt ack register")
+7b6da7fe7bba ("mailbox: pcc: Use PCC mailbox channel pointer instead of standard")
+0f2591e21b2e ("mailbox: pcc: Add pcc_mbox_chan structure to hold shared memory region info")
+4e3c96ff950e ("mailbox: pcc: Consolidate subspace doorbell register parsing")
+319bfb35bd1d ("mailbox: pcc: Consolidate subspace interrupt information parsing")
+80b2bdde002c ("mailbox: pcc: Refactor all PCC channel information into a structure")

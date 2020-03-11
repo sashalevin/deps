@@ -1,0 +1,7 @@
+4dff9c32ae06 ("PCI: aardvark: Silence 'set affinity failed' warning")
+754e449889b2 ("PCI: aardvark: Enable MSI-X support")
+e77d9c906910 ("PCI: aardvark: Add support for masking MSI interrupts")
+4689c0916320 ("PCI: aardvark: Refactor unmasking summary MSI interrupt")
+26bcd54e4a5c ("PCI: aardvark: Make msi_domain_info structure a static driver structure")
+c3cb8e51839a ("PCI: aardvark: Make MSI irq_chip structures static driver structures")
+7d8dc1f7cd00 ("PCI: aardvark: Clear all MSIs at setup")

@@ -1,0 +1,5 @@
+3a7fd473bd5d ("mtd: rawnand: ingenic: move the GPIO quirk to gpiolib-of.c")
+99d18d42c942 ("gpiolib: of: add a quirk for reset line polarity for Himax LCDs")
+e3186e36925f ("gpiolib: of: factor out code overriding gpio line polarity")
+e6ae9a833ef4 ("gpiolib: constify passed device_node pointer")
+228fc0104070 ("gpio: of: don't warn if ignored GPIO flag matches the behavior")

@@ -1,0 +1,4 @@
+9778ac77c202 ("block: remove the struct blk_queue_ctx forward declaration")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

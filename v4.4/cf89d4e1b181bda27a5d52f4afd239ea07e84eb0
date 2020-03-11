@@ -1,0 +1,8 @@
+cf89d4e1b181 ("powerpc/ptrace: Enable support for EBB registers")
+fa439810cc1b ("powerpc/ptrace: Enable support for NT_PPPC_TAR, NT_PPC_PPR, NT_PPC_DSCR")
+08e1c01d6aed ("powerpc/ptrace: Enable support for TM SPR state")
+9d3918f7c0e5 ("powerpc/ptrace: Enable support for NT_PPC_CVSX")
+8c13f5999997 ("powerpc/ptrace: Enable support for NT_PPC_CVMX")
+19cbcbf75a0c ("powerpc/ptrace: Enable support for NT_PPC_CFPR")
+25847fb195ae ("powerpc/ptrace: Enable support for NT_PPC_CGPR")
+04fcadce0e5a ("powerpc/ptrace: Adapt gpr32_get, gpr32_set functions for transaction")

@@ -1,0 +1,5 @@
+c6d616fe10c6 ("perf evsel: Allow const evsel for certain accesses")
+e5f4afbe395f ("perf pmu: Remove mostly unused 'struct perf_pmu' 'is_hybrid' member")
+942c5593393d ("perf stat: Add perf_stat_merge_counters()")
+f7400262ea21 ("perf tools: Save evsel->pmu in parse_events()")
+3500eeebeda8 ("perf evsel: Fix missing exclude_{host,guest} setting")

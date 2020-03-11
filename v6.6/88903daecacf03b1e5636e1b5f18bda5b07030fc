@@ -1,0 +1,6 @@
+88903daecacf ("eventfs: Remove expectation that ei->is_freed means ei->dentry == NULL")
+77a06c33a22d ("eventfs: Test for ei->is_freed when accessing ei->dentry")
+f2f496370afc ("eventfs: Remove "is_freed" union with rcu head")
+29e06c10702e ("eventfs: Fix typo in eventfs_inode union comment")
+a9de4eb15ad4 ("eventfs: Fix WARN_ON() in create_file_dentry()")
+5790b1fb3d67 ("eventfs: Remove eventfs_file and just use eventfs_inode")

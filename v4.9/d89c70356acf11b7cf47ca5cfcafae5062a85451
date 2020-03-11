@@ -1,0 +1,4 @@
+d89c70356acf ("locking/core: Remove break_lock field when CONFIG_GENERIC_LOCKBREAK=y")
+f87f3a328dbb ("locking/core: Fix deadlock during boot on systems with GENERIC_LOCKBREAK")
+a8a217c22116 ("locking/core: Remove {read,spin,write}_can_lock()")
+952111d7db02 ("arch: Remove spin_unlock_wait() arch-specific definitions")

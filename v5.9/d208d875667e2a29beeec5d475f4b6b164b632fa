@@ -1,0 +1,8 @@
+d208d875667e ("drm: introduce CLOSEFB IOCTL")
+c7a472297169 ("drm/syncobj: add IOCTL to register an eventfd")
+ec8d985ff26f ("drm: use dma_fence_unwrap_merge() in drm_syncobj")
+721255b52700 ("drm/syncobj: flatten dma_fence_chains on transfer")
+440d0f12b52a ("dma-buf: add dma_fence_chain_alloc/free v3")
+0e0dc4480055 ("drm/doc: demote old doc-comments in drm.h")
+13149e8bafc4 ("drm/i915: add syncobj timeline support")
+cda9edd02425 ("drm/i915: introduce a mechanism to extend execbuf2")

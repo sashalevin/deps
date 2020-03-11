@@ -1,0 +1,4 @@
+15f003d20782 ("x86/mm/pat: Don't implicitly allow _PAGE_RW in kernel_map_pages_in_pgd()")
+67a9108ed431 ("x86/efi: Build our own page table structures")
+b61a76f8850d ("x86/efi: Map RAM into the identity page table for mixed mode")
+edc3b9129cec ("x86/mm/pat: Ensure cpa->pfn only contains page frame numbers")

@@ -1,0 +1,5 @@
+d0fbb1d8a194 ("NFSv4: Fix locking in pnfs_generic_recover_commit_reqs")
+41181886459b ("NFS: Fix another COMMIT race in pNFS")
+fe238e601d25 ("NFS: Save struct inode * inside nfs_commit_info to clarify usage of i_lock")
+6272dcc6beeb ("NFS: Simplify nfs_request_add_commit_list() arguments")
+942e3d72a62d ("Merge branch 'pnfs_generic'")

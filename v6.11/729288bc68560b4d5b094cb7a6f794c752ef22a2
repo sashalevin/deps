@@ -1,0 +1,8 @@
+729288bc6856 ("kernel/sched: Fix util_est accounting for DELAY_DEQUEUE")
+781773e3b680 ("sched/fair: Implement ENQUEUE_DELAYED")
+fab4a808ba9f ("sched/fair: Re-organize dequeue_task_fair()")
+863ccdbb918a ("sched: Allow sched_class::dequeue_task() to fail")
+cea5a3472ac4 ("sched/fair: Cleanup fair_server")
+a110a81c52a9 ("sched/deadline: Deferrable dl server")
+557a6bfc662c ("sched/fair: Add trivial fair server")
+f23c042ce34b ("sched/deadline: Comment sched_dl_entity::dl_server variable")

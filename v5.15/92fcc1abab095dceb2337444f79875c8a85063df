@@ -1,0 +1,7 @@
+92fcc1abab09 ("cxl/mbox: Improve handling of mbox_cmd hw return codes")
+cbe83a205268 ("cxl/pci: Use CXL_MBOX_SUCCESS to check against mbox_cmd return code")
+4faf31b43468 ("cxl/mbox: Move mailbox and other non-PCI specific infrastructure to the core")
+4cb35f1ca05a ("cxl/pci: Drop idr.h")
+b64955a92929 ("cxl/mbox: Introduce the mbox_send operation")
+13e7749d06b3 ("cxl/pci: Clean up cxl_mem_get_partition_info()")
+99e222a5f1b6 ("cxl/pci: Make 'struct cxl_mem' device type generic")

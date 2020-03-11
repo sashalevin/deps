@@ -1,0 +1,4 @@
+f3db09aae198 ("fbdev: vesafb: Convert to platform remove callback returning void")
+acde4003efc1 ("video: fbdev: vesafb: Fix a use-after-free due early fb_info cleanup")
+b3c9a924aab6 ("fbdev: vesafb: Cleanup fb_info in .fb_destroy rather than .remove")
+693774995595 ("video: fbdev: vesafb: add missed release_region")

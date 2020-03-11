@@ -1,0 +1,8 @@
+2889bdd0a9a1 ("Bluetooth: hci_sync: delete CIS in BT_OPEN/CONNECT/BOUND when aborting")
+f777d8827817 ("Bluetooth: ISO: Notify user space about failed bis connections")
+04a51d616929 ("Bluetooth: hci_sync: Fix not handling ISO_LINK in hci_abort_conn_sync")
+a13f316e90fd ("Bluetooth: hci_conn: Consolidate code for aborting connections")
+7f74563e6140 ("Bluetooth: ISO: do not emit new LE Create CIS if previous is pending")
+a0bfde167b50 ("Bluetooth: ISO: Add support for connecting multiple BISes")
+2be22f1941d5 ("Bluetooth: hci_event: Fix parsing of CIS Established Event")
+6b9545dc9f8f ("Bluetooth: ISO: use hci_sync for setting CIG parameters")

@@ -1,0 +1,7 @@
+8672aed7bd86 ("pstore: don't OOPS when there are no ftrace zones")
+2fbea82bbb89 ("pstore: Merge per-CPU ftrace records into one")
+a1cf53ac6d15 ("ramoops: Split ftrace buffer space into per-CPU zones")
+4407de74df18 ("pstore/ramoops: fixup driver removal")
+e976e56423dc ("ramoops: use persistent_ram_free() instead of kfree() for freeing prz")
+35da60941e44 ("pstore/ram: add Device Tree bindings")
+8cfc8ddc99df ("pstore: add lzo/lz4 compression support")

@@ -1,0 +1,8 @@
+de6d7547ce1d ("scsi: pm80xx: Switch back to original libsas event notifiers")
+cd4e8176989f ("scsi: pm80xx: Pass gfp_t flags to libsas event notifiers")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")
+1b5d2793283d ("scsi: pm8001: Neaten debug logging macros and uses")
+1f889b58716a ("scsi: pm80xx: Fix pm8001_mpi_get_nvmd_resp() race condition")
+4a2efd4b89fc ("scsi: pm80xx: Make running_req atomic")
+7640e1eb8c5d ("scsi: pm80xx: Make mpi_build_cmd locking consistent")

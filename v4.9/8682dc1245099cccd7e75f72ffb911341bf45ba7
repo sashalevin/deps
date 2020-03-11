@@ -1,0 +1,5 @@
+8682dc124509 ("i2c: core: do not use logical device when creating irq domain")
+91ed53491f4f ("i2c: rename core source file to allow refactorization")
+4d5538f5882a ("i2c: use an IRQ to report Host Notify events, not alert")
+c912a25a5a12 ("i2c: i801: remove SMBNTFDDAT reads as they always seem to return 0")
+c3ae106050b9 ("i2c: designware: Implement support for SMBus block read and write")

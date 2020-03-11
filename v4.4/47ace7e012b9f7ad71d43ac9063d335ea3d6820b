@@ -1,0 +1,8 @@
+47ace7e012b9 ("dm: fix potential for q->make_request_fn NULL pointer")
+c12c9a3c3860 ("dm: various cleanups to md->queue initialization code")
+ad3793fc3945 ("dm: set QUEUE_FLAG_DAX accordingly in dm_table_set_restrictions()")
+18a25da84354 ("dm: ensure bio submission follows a depth-first tree walk")
+5fdee2127faa ("block: remove QUEUE_FLAG_STACKABLE")
+e743eb1ecd55 ("block: remove unused syncfull/asyncfull queue flags")
+273752c9ff03 ("dm, dax: Make sure dm_dax_flush() is called if device supports it")
+b6ffe9ba4601 ("Merge tag 'libnvdimm-for-4.13' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

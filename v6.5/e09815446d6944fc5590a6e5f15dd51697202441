@@ -1,0 +1,6 @@
+e09815446d69 ("erofs: mechanically convert erofs_read_metabuf() to offsets")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+aeebae9d7721 ("erofs: move preparation logic into z_erofs_pcluster_begin()")
+dcba1b232e26 ("erofs: avoid obsolete {collector,collection} terms")
+8b00be163f7b ("erofs: simplify z_erofs_read_fragment()")
+fd73a4395d47 ("erofs: boost negative xattr lookup with bloom filter")

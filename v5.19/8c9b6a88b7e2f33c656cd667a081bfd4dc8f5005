@@ -1,0 +1,5 @@
+8c9b6a88b7e2 ("x86: improve on the non-rep 'clear_user' function")
+3639a535587d ("x86: move stac/clac from user copy routines into callers")
+d2c95f9d6802 ("x86: don't use REP_GOOD or ERMS for user memory clearing")
+adfcf4231b8c ("x86: don't use REP_GOOD or ERMS for user memory copies")
+0db7058e8e23 ("x86/clear_user: Make it faster")

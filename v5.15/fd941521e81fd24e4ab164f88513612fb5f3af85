@@ -1,0 +1,8 @@
+fd941521e81f ("perf inject: Clarify build-id options a little bit")
+8012243e62b5 ("perf inject: Add a command line option to specify build ids.")
+97406a7e4fa6 ("perf inject: Add support for injecting guest sideband events")
+d8fc08550929 ("perf inject: Keep a copy of kcore_dir")
+180b3d06263c ("perf inject: Keep some features sections from input file")
+237c96b8c158 ("perf header: Add ability to keep feature sections")
+75d48c56703d ("perf inject: Try chroot directory when reading build-id")
+c271a55b0c60 ("perf inject: Fix segfault due to perf_data__fd() without open")

@@ -1,0 +1,7 @@
+c1bab64360e6 ("powerpc/vdso: Move to _install_special_mapping() and remove arch_vma_name()")
+b2df3f60b452 ("powerpc/vdso: Simplify arch_setup_additional_pages() exit")
+7461a4f79ba1 ("powerpc/vdso: Use VDSO size in arch_setup_additional_pages()")
+4fe0e3c1724e ("powerpc/vdso: Remove unnecessary ifdefs in vdso_pagelist initialization")
+3cf63825413c ("powerpc/vdso: Refactor 32 bits and 64 bits pages setup")
+35c1c7c0bc35 ("powerpc/vdso: Remove NULL termination element in vdso_pagelist")
+abcdbd039e68 ("powerpc/vdso: Remove get_page() in vdso_pagelist initialization")

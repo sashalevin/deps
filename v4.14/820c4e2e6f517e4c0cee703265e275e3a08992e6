@@ -1,0 +1,6 @@
+820c4e2e6f51 ("mm/vmscan: Free non-shmem folios without splitting them")
+346cf61311f6 ("mm: Add split_folio_to_list()")
+af3bbc12df80 ("mm: add thp_size")
+5d64efe79703 ("pmem: Add functions for reading/writing page to/from pmem")
+1a5f439c7c02 ("mm, swap: fix THP swap out")
+3f289dcb4b26 ("block: make bdev_ops->rw_page() take a REQ_OP instead of bool")

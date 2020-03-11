@@ -1,0 +1,5 @@
+9a3768191d95 ("KVM: x86/mmu: Zap SPTEs on MTRR update iff guest MTRRs are honored")
+bc7fe2f0b751 ("KVM: x86: Move PAT MSR handling out of mtrr.c")
+34a83deac31c ("KVM: x86: Use MTRR macros to define possible MTRR MSR ranges")
+9ae38b4fb135 ("KVM: x86: Add helper to get variable MTRR range from MSR index")
+ebda79e50577 ("KVM: x86: Add helper to query if variable MTRR MSR is base (versus mask)")

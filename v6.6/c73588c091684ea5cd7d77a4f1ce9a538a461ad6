@@ -1,0 +1,6 @@
+c73588c09168 ("drm/msm/dsi: move next bridge acquisition to dsi_bind")
+9febe4a015b9 ("drm/msm/dsi: remove the drm_bridge_attach fallback")
+89cdd4dee1f0 ("drm/msm/dsi: remove msm_dsi::encoder")
+51c139615b33 ("drm/msm/dsi: stop calling set_split_display")
+ec97f371895f ("drm/msm/dsi: do not store internal bridge pointer")
+5f403fd7d5c2 ("drm/msm/dsi: switch to devm_drm_bridge_add()")

@@ -1,0 +1,5 @@
+071115301838 ("tcp: wrap mptcp and decrypted checks into tcp_skb_can_collapse_rx()")
+9f06f87fef68 ("net: skbuff: generalize the skb->decrypted bit")
+6db8a37dfc54 ("tcp: check mptcp-level constraints for backlog coalescing")
+14c4be92ebb3 ("tls: rx: strp: force mixed decrypted records into copy mode")
+0d87bbd39d7f ("tls: strp: make sure the TCP skbs do not have overlapping data")

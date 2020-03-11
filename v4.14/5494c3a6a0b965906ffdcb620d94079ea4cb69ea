@@ -1,0 +1,7 @@
+5494c3a6a0b9 ("x86/mm: Report which part of kernel image is freed")
+e5cb113f2dbc ("mm: make free_reserved_area() return "const char *"")
+b3f0907c71e0 ("x86/mm: Add .bss..decrypted section to hold shared variables")
+c40a56a7818c ("x86/mm/init: Remove freed kernel image areas from alias mapping")
+6ea2738e0ca0 ("x86/mm/init: Add helper for freeing kernel image pages")
+9f515cdb411e ("x86/mm/init: Pass unconverted symbol addresses to free_init_pages()")
+5aa90a845892 ("Merge branch 'x86-pti-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,7 @@
+27ca867042af ("KVM: x86: Stop compiling vmenter.S with OBJECT_FILES_NON_STANDARD")
+bf48d9b756b9 ("kbuild: change tool coverage variables to take the path relative to $(obj)")
+93324e684214 ("x86: kmsan: disable instrumentation of unsupported code")
+f80be4571b19 ("kmsan: add KMSAN runtime core")
+c25e1c55822f ("kbuild: do not create *.prelink.o for Clang LTO or IBT")
+0cfd90060d71 ("kbuild: replace $(linked-object) with CONFIG options")
+df202b452fe6 ("Merge tag 'kbuild-v5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

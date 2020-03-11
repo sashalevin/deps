@@ -1,0 +1,7 @@
+c269a24ce057 ("net: make free_netdev() more lenient with unregistering devices")
+2b446e650b41 ("docs: net: explain struct net_device lifetime")
+55b7ab1178cb ("net: vlan: avoid leaks on register_vlan_dev() failures")
+cebb69754f37 ("rtnetlink: Fix memory(net_device) leak when ->newlink fails")
+420d03182273 ("rtnetlink: remove a level of indentation in rtnl_newlink()")
+68d57f3b1d1a ("rtnetlink: Add more extack messages to rtnl_newlink")
+d0522f1cd25e ("net: Add extack argument to rtnl_create_link")

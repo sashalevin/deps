@@ -1,0 +1,3 @@
+e8d0059000b2 ("net: inet: Open code inet_hash2 and inet_unhash2")
+8ea1eebb49a2 ("net: inet: Remove count from inet_listen_hashbucket")
+4f9bf2a2f5aa ("tcp: Don't acquire inet_listen_hashbucket::lock with disabled BH.")

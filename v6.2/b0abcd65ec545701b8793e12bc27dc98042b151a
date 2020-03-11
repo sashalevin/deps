@@ -1,0 +1,7 @@
+b0abcd65ec54 ("smb: client: fix UAF in async decryption")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+d08089f649a0 ("cifs: Change the I/O paths to use an iterator rather than a page list")
+b8713c4dbfa3 ("cifs: Add some helper functions")
+d643a8a446fc ("cifs: introduce cifs_io_parms in smb2_async_writev()")
+89542781737a ("cifs: get rid of unneeded conditional in cifs_get_num_sgs()")
+d4fba63fe1f7 ("cifs: Get rid of unneeded conditional in the smb2_get_aead_req()")

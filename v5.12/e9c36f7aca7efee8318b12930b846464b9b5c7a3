@@ -1,0 +1,4 @@
+e9c36f7aca7e ("mm: memory-failure: remove unneeded header files")
+a3f5d80ea401 ("mm,hwpoison: send SIGBUS with error virutal address")
+47af12bae17f ("mm,hwpoison: return -EHWPOISON to denote that the page has already been poisoned")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")

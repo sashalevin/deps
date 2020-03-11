@@ -1,0 +1,8 @@
+cbc975b182a0 ("f2fs: Convert f2fs_set_node_page_dirty to f2fs_dirty_node_folio")
+915039967342 ("f2fs: Convert invalidatepage to invalidate_folio")
+2a64e303e305 ("f2fs: don't drop compressed page cache in .{invalidate,release}page")
+a1e09b03e6f5 ("f2fs: use iomap for direct I/O")
+ccf7cf92373d ("f2fs: fix the f2fs_file_write_iter tracepoint")
+d4dd19ec1ea0 ("f2fs: do not expose unwritten blocks to user by DIO")
+b31bf0f96e71 ("f2fs: reduce indentation in f2fs_file_write_iter()")
+3d697a4a6b7d ("f2fs: rework write preallocations")

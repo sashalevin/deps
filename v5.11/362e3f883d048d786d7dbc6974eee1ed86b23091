@@ -1,0 +1,7 @@
+362e3f883d04 ("pwm: sun4i: Make use of devm_pwmchip_alloc() function")
+2d7224f49da1 ("pwm: sun4i: Prepare removing pwm_chip from driver data")
+c4fab4529062 ("pwm: sun4i: Rename variable pointing to driver private data")
+7587f8a863ce ("pwm: sun4i: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+d21ba5d6217b ("pwm: rockchip: Eliminate potential race condition when probing")

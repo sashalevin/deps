@@ -1,0 +1,4 @@
+b13103559ddd ("x86/hyperv: Mark Hyper-V vp assist page unencrypted in SEV-SNP enlightened guest")
+ee6815416380 ("x86/hyperv: Restore VP assist page after cpu offlining/onlining")
+e5d9b714fe40 ("x86/hyperv: fix root partition faults when writing to VP assist page MSR")
+afca4d95dd7d ("Drivers: hv: Make portions of Hyper-V init code be arch neutral")

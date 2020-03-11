@@ -1,0 +1,8 @@
+f87b1ac06c88 ("sctp: check sk_bound_dev_if when matching ep in get_port")
+6ba845740267 ("sctp: process sk_reuseport in sctp_get_port_local")
+b0e9a2fe3ff9 ("sctp: add support for SCTP_REUSE_PORT sockopt")
+601590ec155a ("sctp: add sockopt SCTP_AUTH_DEACTIVATE_KEY")
+1b1e0bc99474 ("sctp: add refcnt support for sh_key")
+772a58693fc3 ("sctp: add stream interleave enable members and sockopt")
+0ccdf3c7fded ("sctp: add sockopt to get/set stream scheduler parameters")
+13aa8770fe42 ("sctp: add sockopt to get/set stream scheduler")

@@ -1,0 +1,6 @@
+1f4e9d03d1fb ("fuse: rearrange and resize fuse_args fields")
+d5b4854357f4 ("fuse: flatten 'struct fuse_args'")
+154603fe3ec4 ("fuse: document fuse_fsync_in.fsync_flags")
+a9c2d1e82fc2 ("fuse: fix fsync on directory")
+88bc7d5097a1 ("fuse: add support for copy_file_range()")
+3b7008b226f3 ("fuse: return -ECONNABORTED on /dev/fuse read after abort")

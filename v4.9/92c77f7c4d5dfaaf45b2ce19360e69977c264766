@@ -1,0 +1,6 @@
+92c77f7c4d5d ("x86/mm: Don't exceed the valid physical address space")
+be62a3204406 ("x86/mm: Limit mmap() of /dev/mem to valid physical addresses")
+1e0f25dbf246 ("x86/mm: Prevent non-MAP_FIXED mapping across DEFAULT_MAP_WINDOW border")
+1be7107fbe18 ("mm: larger stack guard gap, between vmas")
+b299cde245b0 ("drivers: char: mem: Check for address space wraparound with mmap()")
+de4d195308ad ("Merge branch 'core-rcu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

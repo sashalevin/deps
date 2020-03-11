@@ -1,0 +1,6 @@
+29ae6bd1b0d8 ("net: ethernet: fec: Replace interrupt driven MDIO with polled IO")
+d3ee8ec7de83 ("net: fec: add C45 MDIO read/write support")
+2429f13870d3 ("net: fec: remove workaround to restart phylib state machine on MDIO timeout")
+4ad1ceec05e4 ("net: fec: Let fec_ptp have its own interrupt routine")
+e24ee2780a1d ("net: fec: return IRQ_HANDLED if fec_ptp_check_pps_event handled it")
+7063c163cd4a ("net: fec: remove unused interrupt FEC_ENET_TS_TIMER")

@@ -1,0 +1,8 @@
+46930b7cc772 ("block: fix bio-cache for passthru IO")
+7e2e355dd9c9 ("block: extend bio-cache for non-polled requests")
+ab89e8e7ca52 ("block: factor out blk_rq_map_bio_alloc helper")
+8af870aa5b84 ("block: enable bio caching use for passthru IO")
+066ff571011d ("block: turn bio_kmalloc into a simple kmalloc wrapper")
+7655db80932d ("target/pscsi: remove pscsi_get_bio")
+46a2d4ccc499 ("squashfs: always use bio_kmalloc in squashfs_bio_read")
+0df71650c051 ("block: allow using the per-cpu bio cache from bio_alloc_bioset")

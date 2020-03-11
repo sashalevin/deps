@@ -1,0 +1,8 @@
+878ec36765fa ("ARM: NOMMU: Wire-up default DMA interface")
+1c51c429f30e ("ARM: NOMMU: Introduce dma operations for noMMU")
+e058632670b7 ("xen/arm,arm64: fix xen_dma_ops after 815dd18 "Consolidate get_dma_ops..."")
+815dd18788fe ("treewide: Consolidate get_dma_ops() implementations")
+ca6e8e103141 ("treewide: Consolidate set_dma_ops() implementations")
+5657933dbb6e ("treewide: Move dma_ops from struct dev_archdata into struct device")
+5299709d0a87 ("treewide: Constify most dma_map_ops structures")
+f4000cd99750 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

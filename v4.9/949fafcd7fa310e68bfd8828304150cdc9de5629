@@ -1,0 +1,5 @@
+949fafcd7fa3 ("tty/vt: consolemap: check put_user() in con_get_unimap()")
+fa2b360f261e ("tty/vt: avoid high order pages allocation on GIO_UNIMAP ioctl")
+4f1be1b5d9aa ("vt: use memdup_user in PIO_UNIMAP ioctl")
+915f0a8d2884 ("vt: use copy_to_user instead of __put_user in GIO_UNIMAP ioctl")
+7edd7e82b96b ("console: Move userspace I/O out of console_lock to fix lockdep warning")

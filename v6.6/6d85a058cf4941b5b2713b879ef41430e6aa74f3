@@ -1,0 +1,6 @@
+6d85a058cf49 ("crypto: x86/aes-xts - switch to new Intel CPU model defines")
+aa2197f56647 ("crypto: x86/aes-xts - wire up VAES + AVX10/512 implementation")
+ee63fea005be ("crypto: x86/aes-xts - wire up VAES + AVX10/256 implementation")
+e787060bdfa3 ("crypto: x86/aes-xts - wire up VAES + AVX2 implementation")
+996f4dcbd231 ("crypto: x86/aes-xts - wire up AESNI + AVX implementation")
+d63716881012 ("crypto: x86/aes-xts - add AES-XTS assembly macro for modern CPUs")

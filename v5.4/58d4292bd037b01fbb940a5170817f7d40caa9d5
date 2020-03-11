@@ -1,0 +1,8 @@
+58d4292bd037 ("rcu: Uninline multi-use function: finish_rcuwait()")
+5c21f7b322cb ("rcuwait: Introduce prepare_to and finish_rcuwait")
+80fbaf1c3f29 ("rcuwait: Add @state argument to rcuwait_wait_event()")
+7f26482a872c ("locking/percpu-rwsem: Remove the embedded rwsem")
+75ff64572e49 ("locking/percpu-rwsem: Extract __percpu_down_read_trylock()")
+206c98ffbeda ("locking/percpu-rwsem: Convert to bool")
+1751060e2527 ("locking/percpu-rwsem, lockdep: Make percpu-rwsem use its own lockdep_map")
+5facae4f3549 ("locking/lockdep: Remove unused @nested argument from lock_release()")

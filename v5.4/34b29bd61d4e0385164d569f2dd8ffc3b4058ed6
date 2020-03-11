@@ -1,0 +1,5 @@
+34b29bd61d4e ("perf machine: Fix leak of kernel dso")
+031f112f8dc0 ("perf tools: Use struct extra_kernel_map in machine__process_kernel_mmap_event")
+a94ab91a54c6 ("perf machine: No need to check if kernel module maps pre-exist")
+f068435d9bb2 ("perf map: No need to adjust the long name of modules")
+93730f85eb37 ("perf machine: Add kernel_dso() method")

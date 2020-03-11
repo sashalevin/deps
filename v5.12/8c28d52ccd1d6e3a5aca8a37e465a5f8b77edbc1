@@ -1,0 +1,6 @@
+8c28d52ccd1d ("arm64: sync_icache_aliases to take end parameter instead of size")
+406d7d4e2bc7 ("arm64: __clean_dcache_area_pou to take end parameter instead of size")
+f749448edb9c ("arm64: __clean_dcache_area_pop to take end parameter instead of size")
+1f42faf1d25d ("arm64: __clean_dcache_area_poc to take end parameter instead of size")
+e3974adb4ef5 ("arm64: __inval_dcache_area to take end parameter instead of size")
+588a513d3425 ("arm64: Fix race condition on PG_dcache_clean in __sync_icache_dcache()")

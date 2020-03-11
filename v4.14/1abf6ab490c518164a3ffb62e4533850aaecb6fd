@@ -1,0 +1,5 @@
+1abf6ab490c5 ("usb: cdc-wdm: Use skb_put_data() instead of skb_put/memcpy pair")
+cac6fb015f71 ("usb: class: cdc-wdm: WWAN framework integration")
+ddcb6c6ad757 ("usb: class: cdc-wdm: Provide description for usb_cdc_wdm_register()'s manage_power arg")
+579b9cca2bff ("usb: cdc-wdm: use irqsave() in USB's complete callback")
+2df694842854 ("USB: cdc-wdm: don't enable interrupts in USB-giveback")

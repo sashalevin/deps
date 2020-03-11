@@ -1,0 +1,7 @@
+38dc88890de6 ("btrfs: consolidate the error handling in run_delalloc_nocow")
+6869b0a8be77 ("btrfs: merge PAGE_CLEAR_DIRTY and PAGE_SET_WRITEBACK to PAGE_START_WRITEBACK")
+968322c8c6d5 ("btrfs: make run_delalloc_nocow take btrfs_inode")
+8ba96f3dd6a0 ("btrfs: make fallback_to_cow take btrfs_inode")
+a0ff10dcc4a5 ("btrfs: make submit_compressed_extents take btrfs_inode")
+c7ee1819dc71 ("btrfs: make btrfs_submit_compressed_write take btrfs_inode")
+ad7ff17b65a0 ("btrfs: make extent_clear_unlock_delalloc take btrfs_inode")

@@ -1,0 +1,4 @@
+c4abd7352023 ("KVM: VMX: Don't fudge CR0 and CR4 for restricted L2 guest")
+470750b34255 ("KVM: nVMX: Do not clear CR3 load/store exiting bits if L1 wants 'em")
+c834fd7fc130 ("KVM: VMX: Fold ept_update_paging_mode_cr0() back into vmx_set_cr0()")
+ee5a5584cba3 ("KVM: VMX: Invert handling of CR0.WP for EPT without unrestricted guest")

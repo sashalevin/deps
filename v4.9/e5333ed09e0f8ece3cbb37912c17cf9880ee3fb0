@@ -1,0 +1,6 @@
+e5333ed09e0f ("iio: avoid shadowing of variable name in to_iio_dev_opaque()")
+6d4ebd565d15 ("iio: core: wrap IIO device into an iio_dev_opaque object")
+78289b4a58b5 ("iio: core: pass parent device as parameter during allocation")
+0d4b2184cfee ("iio: Use an early return in iio_device_alloc to simplify code.")
+66be392a48f9 ("iio: core: drop devm_iio_device_free() API call")
+d89e119a088e ("iio: add hardware triggered operating mode")

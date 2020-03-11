@@ -1,0 +1,7 @@
+1d498df44e70 ("sunrpc: fix prog selection loop in svc_process_common")
+86ab08beb3f0 ("SUNRPC: replace program list with program array")
+73598a0cfb21 ("nfsd: don't allocate the versions array.")
+e0011bca603c ("nfsd: initialise nfsd_info.mutex early.")
+a79ec2aecb1b ("SUNRPC: introduce svc_xprt_create_from_sa utility routine")
+5a939bea25be ("NFSD: add write_version to netlink command")
+924f4fb003ba ("NFSD: convert write_threads to netlink command")

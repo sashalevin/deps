@@ -1,0 +1,6 @@
+b9757a4b6f46 ("KVM: nVMX: Simplify the initialization of nested_vmx_msrs")
+a4443267800a ("KVM: nVMX: clear PIN_BASED_POSTED_INTR from nested pinbased_ctls only when apicv is globally disabled")
+34109c0476f1 ("KVM: VMX: Use direct vcpu pointer during vCPU create/free")
+034d8e2cb929 ("KVM: VMX: Allocate VPID after initializing VCPU")
+1b84292bea00 ("KVM: VMX: Rename {vmx,nested_vmx}_vcpu_setup()")
+4be534102624 ("KVM: VMX: Initialize vmx->guest_msrs[] right after allocation")

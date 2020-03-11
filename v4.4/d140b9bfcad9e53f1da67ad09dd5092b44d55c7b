@@ -1,0 +1,4 @@
+d140b9bfcad9 ("ARC: don't enable DISCONTIGMEM unconditionally")
+26f9d5fd82ca ("ARC: support HIGHMEM even without PAE40")
+c2ff5cf2735c ("ARC: mm: Use virt_to_pfn() for addr >> PAGE_SHIFT pattern")
+37eda9df5bd8 ("ARC: mm: Introduce explicit super page size support")

@@ -1,0 +1,8 @@
+e83636ac3334 ("pseries/drc-info: Search DRC properties for CPU indexes")
+2c77721552e5 ("powerpc: Move of_drconf_cell struct to asm/drmem.h")
+6195a5001f1d ("powerpc/pseries: Update memory hotplug code to use drmem LMB array")
+514a9cb3316a ("powerpc/numa: Update numa code use walk_drmem_lmbs")
+6c6ea53725b3 ("powerpc/mm: Separate ibm, dynamic-memory data from DT format")
+b88fc309d6ad ("powerpc/numa: Look up associativity array in of_drconf_to_nid_single")
+22508f3dc985 ("powerpc/numa: Look up device node in of_get_usable_memory()")
+35f80debaef0 ("powerpc/numa: Look up device node in of_get_assoc_arrays()")

@@ -1,0 +1,5 @@
+5b2baf1fe5fd ("mtd: rawnand: atmel: Use nand_{write,read}_data_op()")
+c0739d85723a ("mtd: rawnand: Pass a nand_chip object to chip->write_xxx() hooks")
+7e534323c416 ("mtd: rawnand: Pass a nand_chip object to chip->read_xxx() hooks")
+47bd59e538d4 ("mtd: rawnand: plat_nand: Pass a nand_chip object to all platform_nand_ctrl hooks")
+7525c9518ea6 ("mtd: rawnand: Get rid of the ->read_word() hook")

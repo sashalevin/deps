@@ -1,0 +1,3 @@
+6edda04ccc7c ("mm/kmemleak: prevent soft lockup in first object iteration loop of kmemleak_scan()")
+00c155066eca ("mm/kmemleak: use _irq lock/unlock variants in kmemleak_scan/_clear()")
+8c96f1bc6fc4 ("mm/kmemleak: turn kmemleak_lock and object->lock to raw_spinlock_t")

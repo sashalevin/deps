@@ -1,0 +1,7 @@
+ba193f62c075 ("drm/i915/gvt: Don't rely on KVM's gfn_to_pfn() to query possible 2M GTT")
+96b138cd23e9 ("drm/i915/gvt: Explicitly check that vGPU is attached before shadowing")
+708e49583d7d ("drm/i915/gvt: Put the page reference obtained by KVM's gfn_to_pfn()")
+adc7b226b7d6 ("drm/i915/gvt: Verify hugepages are contiguous in physical address space")
+f046923af791 ("drm/i915/gvt: Verify pfn is "valid" before dereferencing "struct page"")
+a06d4b9e15c0 ("drm/i915/gvt: use atomic operations to change the vGPU status")
+08cdc2157966 ("Merge tag 'for-linus-iommufd' of git://git.kernel.org/pub/scm/linux/kernel/git/jgg/iommufd")

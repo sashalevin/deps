@@ -1,0 +1,6 @@
+8e1c69149f27 ("KVM: Avoid pfn_to_page() and vice versa when releasing pages")
+a1040b0d42ac ("KVM: Don't set Accessed/Dirty bits for ZERO_PAGE")
+d29c03a58705 ("KVM: get rid of var page in kvm_set_pfn_dirty()")
+a78986aae9b2 ("KVM: MMU: Do not treat ZONE_DEVICE pages as being reserved")
+8f946da73aaa ("kvm: remove unnecessary PageReserved check")
+e7912386ede8 ("KVM: x86: reintroduce pte_list_remove, but including mmu_spte_clear_track_bits")

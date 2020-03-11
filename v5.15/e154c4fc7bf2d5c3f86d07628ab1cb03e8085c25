@@ -1,0 +1,5 @@
+e154c4fc7bf2 ("drm: remove drm_debug_printer in favor of drm_dbg_printer")
+9fd6f61a297e ("drm/print: add drm_dbg_printer() for drm device specific printer")
+5e0c04c8c40b ("drm/print: make drm_err_printer() device specific by using drm_err()")
+ccc2b496324c ("drm_print: prefer bare printk KERN_DEBUG on generic fn")
+cd06ab2fd48f ("drm/locking: add backtrace for locking contended locks without backoff")

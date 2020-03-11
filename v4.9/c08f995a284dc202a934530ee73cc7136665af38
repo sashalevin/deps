@@ -1,0 +1,7 @@
+c08f995a284d ("drm/i915: Polish possible_clones setup")
+6e266956a57f ("drm/i915: Make INTEL_PCH_TYPE & co only take dev_priv")
+4f8036a28112 ("drm/i915: Make HAS_DDI and HAS_PCH_LPT_LP only take dev_priv")
+f0dfb1a81a9d ("drm/i915: Register shadow VGA even when it produces spurious detection results")
+26aa23396ed3 ("Revert "Skip intel_crt_init for Dell XPS 8700"")
+7d7f8633a827 ("drm/i915: Allow PCH DPLL sharing regardless of DPLL_SDVO_HIGH_SPEED")
+03cdc1d4f795 ("drm/i915: Store port enum in intel_encoder")

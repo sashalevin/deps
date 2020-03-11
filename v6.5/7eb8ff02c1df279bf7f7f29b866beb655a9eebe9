@@ -1,0 +1,6 @@
+7eb8ff02c1df ("md: Hold mddev->reconfig_mutex when trying to get mddev->sync_thread")
+a705b11b358d ("md/raid5-cache: fix a deadlock in r5l_exit_log()")
+130443d60b1b ("md: refactor idle/frozen_sync_thread() to fix deadlock")
+6f56f0c4f124 ("md: add a mutex to synchronize idle and frozen in action_store()")
+64e5e09afc14 ("md: refactor action_store() for 'idle' and 'frozen'")
+a865b96c513b ("Revert "md: unlock mddev before reap sync_thread in action_store"")

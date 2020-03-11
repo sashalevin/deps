@@ -1,0 +1,4 @@
+9d9a03340309 ("mm/swapfile.c: remove unnecessary out label in __swap_duplicate()")
+eb085574a752 ("mm, swap: fix race between swapoff and some swap operations")
+c10d38cc8d3e ("mm, swap: bounds check swap_info array accesses to avoid NULL derefs")
+bc4ae27d817a ("mm: split SWP_FILE into SWP_ACTIVATED and SWP_FS")

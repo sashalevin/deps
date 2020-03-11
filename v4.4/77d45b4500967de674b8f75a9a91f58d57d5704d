@@ -1,0 +1,7 @@
+77d45b450096 ("xhci: switch to pci_alloc_irq_vectors")
+4c39d4b949d3 ("usb: xhci: use bus->sysdev for DMA configuration")
+2c93e790e825 ("usb: add CONFIG_USB_PCI for system have both PCI HW and non-PCI based USB HW")
+488dc164914f ("xhci: remove WARN_ON if dma mask is not set for platform devices")
+9cecca75b5a0 ("usb: dwc3: pci: call _DSM for suspend/resume")
+0f817ae696b0 ("usb: dwc3: pci: add a private driver structure")
+fc9104d5d717 ("Merge 4.8-rc6 into usb-next")

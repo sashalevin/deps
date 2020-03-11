@@ -1,0 +1,7 @@
+f5451547b831 ("mm, slab/slub: Ensure kmem_cache_alloc_bulk() is available early")
+d6a71648dbc0 ("mm/slab: kmalloc: pass requests larger than order-1 page to page allocator")
+a0c3b940023e ("mm/slub: move kmalloc_large_node() to slab_common.c")
+e4c98d68959e ("mm/slab_common: fold kmalloc_order_trace() into kmalloc_large()")
+0f853b2e6dd9 ("mm/sl[au]b: factor out __do_kmalloc_node()")
+f78a03f6e28b ("mm/slab_common: remove CONFIG_NUMA ifdefs for common kmalloc functions")
+6614a3c3164a ("Merge tag 'mm-stable-2022-08-03' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

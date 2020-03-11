@@ -1,0 +1,7 @@
+942e7e5fc1ea ("net/mlx4_core: fix incorrect size allocation for dev->caps.spec_qps")
+c73c8b1e47ca ("net/mlx4_core: Dynamically allocate structs at mlx4_slave_cap")
+31975e27a4b5 ("mlx4: sizeof style usage")
+95f1ba9a24af ("net/mlx4_core: Fix VF overwrite of module param which disables DMFS on new probed PFs")
+72b8eaab245e ("net/mlx4: Replace ENOSYS with better fitting error codes")
+af7d51852631 ("net/mlx4_en: Add DCB PFC support through CEE netlink commands")
+85743f1eb345 ("net/mlx4_core: Set UAR page size to 4KB regardless of system page size")

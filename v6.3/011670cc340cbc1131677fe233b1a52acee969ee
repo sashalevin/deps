@@ -1,0 +1,8 @@
+011670cc340c ("ice: add dynamic interrupt allocation")
+cfebc0a36ea5 ("ice: track interrupt vectors with xarray")
+4aad5335969f ("ice: add individual interrupt allocation")
+524012c69ee1 ("ice: remove redundant SRIOV code")
+369bb5a2a9a7 ("ice: refactor VF control VSI interrupt handling")
+05018936a1fe ("ice: use preferred MSIX allocation api")
+afe87cfe820e ("ice: use pci_irq_vector helper function")
+38e97a98e371 ("ice: move interrupt related code to separate file")

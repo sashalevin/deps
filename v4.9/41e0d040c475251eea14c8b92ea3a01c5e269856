@@ -1,0 +1,8 @@
+41e0d040c475 ("perf config: Show the configuration when no arguments are provided")
+dfe1c6d7efa8 ("perf config: Refactor the code using 'ret' variable in cmd_config()")
+4f1fd7428358 ("perf config: Check error cases of {show_spec, set}_config()")
+8c1cedb44668 ("perf config: Invert an if statement to reduce nesting in cmd_config()")
+4341ec6b3db4 ("perf config: Refactor a duplicated code for obtaining config file name")
+c6fc018a7a64 ("perf config: Add support setting variables in a config file")
+36662794bb52 ("perf config: Validate config variable arguments before trying use them")
+909236083ee5 ("perf config: Add support for getting config key-value pairs")

@@ -1,0 +1,6 @@
+bba0bd31b117 ("sockfs: Get rid of getxattr iop")
+971df15bd54a ("sockfs: getxattr: Fail with -EOPNOTSUPP for invalid attribute names")
+ce23e6401334 ("->getxattr(): pass dentry and inode as separate arguments")
+b296821a7c42 ("xattr_handler: pass dentry and inode as separate arguments of ->get()")
+79a628d14ec7 ("reiserfs: switch to generic_{get,set,remove}xattr()")
+ab6652524aaf ("Orangefs: merge to v4.5")

@@ -1,0 +1,7 @@
+d7a407bc9ba3 ("drm/panfrost: Do not check for 0 return after calling platform_get_irq_byname()")
+1d0cab5461d7 ("drm/panfrost: Make sure job interrupts are masked before resetting")
+a11c4711238a ("drm/panfrost: Simplify the reset serialization logic")
+070ce7657bdf ("drm/panfrost: Use a threaded IRQ for job interrupts")
+229f45788e22 ("drm/panfrost: Expose a helper to trigger a GPU reset")
+78efe21b6f8e ("drm/sched: Allow using a dedicated workqueue for the timeout/fault tdr")
+1fad1b7ed1eb ("drm/sched: Document what the timedout_job method should do")

@@ -1,0 +1,8 @@
+cb47d16ea210 ("qed: fix error return code in qed_iwarp_ll2_start()")
+9addc92730df ("qed: Fix iWARP buffer size provided for syn packet processing.")
+1e28eaad07ea ("qed: Add iWARP support for fpdu spanned over more than two tcp packets")
+c7d1d8399994 ("qed: Add support for MPA header being split over two tcp packets")
+469981b17a4f ("qed: Add unaligned and packed packet processing")
+fcb39f6c10b2 ("qed: Add mpa buffer descriptors for storing and processing mpa fpdus")
+ae3488ff37dc ("qed: Add ll2 connection for processing unaligned MPA packets")
+d1abfd0b4ee2 ("qed: Add iWARP out of order support")

@@ -1,0 +1,6 @@
+d39bc5c5e10a ("drm/i915/dpll: make intel_shared_dpll_funcs internal to intel_dpll_mgr.c")
+76a04cd9af1e ("drm/i915: Nuke intel_prepare_shared_dpll()")
+d0f1bfc615a8 ("drm/i915: Use pipes instead crtc indices in PLL state tracking")
+3749de07bb11 ("drm/i915: Use actual readout results for .get_freq()")
+fdbc5d682e75 ("drm/i915: Introduce intel_dpll_get_hw_state()")
+0e2497e334de ("drm/i915/tgl: Fix Combo PHY DPLL fractional divider for 38.4MHz ref clock")

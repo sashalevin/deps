@@ -1,0 +1,6 @@
+721f80c4d550 ("net: lan743x: Fix to use multiqueue start/stop APIs")
+8d602e1a132e ("net: move snowflake callers to netif_napi_add_tx_weight()")
+bbbe6ecbc36d ("eth: gfar: remove a copy of the NAPI_POLL_WEIGHT define")
+bc1962e52333 ("net: lan743x: Add support to display Tx Queue statistics")
+cf9aaea8e55b ("net: lan743x: Add support for 4 Tx queues")
+8eda54c5e6c4 ("gianfar: Drop GFAR_MQ_POLLING support")

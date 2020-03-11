@@ -1,0 +1,6 @@
+8e560921b58c ("powerpc/book3s64/pkeys: Store/restore userspace AMR/IAMR correctly on entry and exit from kernel")
+d5b810b5c938 ("powerpc/book3s64/kuap: Rename MMU_FTR_RADIX_KUAP and MMU_FTR_KUEP")
+57b7505aa8ba ("powerpc/book3s64/kuep: Move KUEP related function outside radix")
+3b47b7549ead ("powerpc/book3s64/kuap: Move KUAP related function outside radix")
+39df17bc2005 ("powerpc/book3s64/kuap/kuep: Move uamor setup to pkey init")
+227ae625522c ("powerpc/book3s64/kuap/kuep: Add PPC_PKEY config on book3s64")

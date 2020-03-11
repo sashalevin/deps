@@ -1,0 +1,7 @@
+ed192c59f869 ("file: mostly eliminate spurious relocking in __range_close")
+6319194ec57b ("Unify the primitives for file descriptor closing")
+f49fd6d3c070 ("file: let pick_file() tell caller it's done")
+9eac1904d336 ("io_uring: get rid of intermediate IORING_OP_CLOSE stage")
+53dec2ea74f2 ("fs: provide locked helper variant of close_fd_get_file()")
+607ec89ed18f ("io_uring: fix SQPOLL IORING_OP_CLOSE cancelation state")
+48aba79bcf6e ("Merge tag 'for-5.11/io_uring-2020-12-14' of git://git.kernel.dk/linux-block")

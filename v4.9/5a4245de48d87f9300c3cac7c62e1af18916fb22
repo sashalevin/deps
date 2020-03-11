@@ -1,0 +1,6 @@
+5a4245de48d8 ("gpio: pch: Get rid of unneeded variable in IRQ handler")
+0511e116b832 ("gpio: pch: Remove redundant __func__ from debug print")
+9be93e1ab73f ("gpio: pch: Use for_each_set_bit() in IRQ handler")
+6ad02b29b836 ("gpio: pch: Convert to use managed functions pcim_* and devm_*")
+09445a103eb4 ("gpio: pch: check the return value of irq_alloc_generic_chip()")
+f57f3e600383 ("gpio: pch: use resource management for irqs")

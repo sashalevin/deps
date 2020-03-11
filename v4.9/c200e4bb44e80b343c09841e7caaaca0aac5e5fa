@@ -1,0 +1,5 @@
+c200e4bb44e8 ("ptrace/um: Replace PT_DTRACE with TIF_SINGLESTEP")
+9d631759818b ("signal/um: Remove task parameter from send_sigtrap")
+bc08c0781dbe ("signal/um: Use force_sig_fault where appropriate")
+3eb0f5193b49 ("signal: Ensure every siginfo we send has all bits initialized")
+23221d997b3d ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

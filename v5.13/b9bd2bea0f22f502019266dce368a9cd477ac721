@@ -1,0 +1,5 @@
+b9bd2bea0f22 ("io_uring: move io_rsrc_node_alloc() definition")
+4956b9eaad45 ("io_uring: rsrc ref lock needs to be IRQ safe")
+78cc687be9c5 ("io_uring: unify SQPOLL and user task cancellations")
+09899b19155a ("io_uring: cache task struct refs")
+3dd0c97a9e01 ("io_uring: get rid of files in exit cancel")

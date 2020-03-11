@@ -1,0 +1,4 @@
+92d420ec028d ("iommu/amd: Relax locking in dma_ops path")
+a73c1566655d ("iommu/amd: Initialize new aperture range before making it visible")
+08c5fb938e05 ("iommu/amd: Introduce bitmap_lock in struct aperture_range")
+007b74bab273 ("iommu/amd: Move 'struct dma_ops_domain' definition to amd_iommu.c")

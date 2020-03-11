@@ -1,0 +1,8 @@
+b72cbb1ab2af ("dmaengine: jz4780: Work around hardware bug on JZ4760 SoCs")
+6d6018fc30be ("drivers/dma/dma-jz4780: Fix race condition between probe and irq handler")
+e17be6e1b713 ("dmaengine: Remove dev_err() usage after platform_get_irq()")
+9135408c3ace ("dmaengine: mediatek: Add MediaTek UART APDMA support")
+c6504be53972 ("dmaengine: stm32-dma: Fix unsigned variable compared with zero")
+f4fd2ec08f17 ("dmaengine: stm32-dma: use platform_get_irq()")
+b092529e0aa0 ("dmaengine: fsl-qdma: Add qDMA controller driver for Layerscape SoCs")
+69ca36b3d629 ("Merge branch 'topic/uniphier' into for-linus")

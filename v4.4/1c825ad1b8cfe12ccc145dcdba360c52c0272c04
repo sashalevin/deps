@@ -1,0 +1,6 @@
+1c825ad1b8cf ("mtd: s3c2410: parse the device configuration from OF node")
+e9f66ae23c20 ("mtd: s3c2410: make ecc mode configurable via platform data")
+c4fe72a733c7 ("mtd: nand: s3c2410: set ECC algorithm explicitly")
+bf01e06b32c6 ("mtd: nand: s3c2410: switch to mtd_ooblayout_ops")
+f88f44cbf10c ("mtd: nand: s3c2410: kill the ->ecc_layout field")
+7208b997b726 ("mtd: nand: s3c2410: use the mtd instance embedded in struct nand_chip")

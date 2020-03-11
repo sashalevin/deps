@@ -1,0 +1,5 @@
+d4a34d7fb440 ("mm,swap: add document about RCU read lock and swapoff interaction")
+82b1c07a0af6 ("mm: swap: fix race between free_swap_and_cache() and swapoff()")
+a95722a04772 ("swap: comments get_swap_device() with usage rule")
+63d8620ecf93 ("mm/swapfile: use percpu_ref to serialize against concurrent swapoff")
+b11a76b37a5a ("mm/swapfile: do not sleep with a spin lock held")

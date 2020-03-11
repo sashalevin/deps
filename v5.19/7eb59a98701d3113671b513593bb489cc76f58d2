@@ -1,0 +1,7 @@
+7eb59a98701d ("cifs: Do not access tcon->cfids->cfid directly from is_path_accessible")
+a63ec83c462b ("cifs: Add constructor/destructors for tcon->cfid")
+05b98fd2da6b ("cifs: Move cached-dir functions into a separate file")
+fb157ed226d2 ("cifs: when insecure legacy is disabled shrink amount of SMB1 code")
+d7d7a66aacd6 ("cifs: avoid use of global locks for high contention data")
+9543c8ab3016 ("cifs: list_for_each() -> list_for_each_entry()")
+4da2cd0517e0 ("cifs: remove redundant initialization to variable mnt_sign_enabled")

@@ -1,0 +1,7 @@
+7b9d14af8777 ("fs: allow mount namespace fd")
+71aacb4c8c3d ("fs: Allow statmount() in foreign mount namespace")
+0a3deb11858a ("fs: Allow listmount() in foreign mount namespace")
+09b31295f833 ("fs: export the mount ns id via statmount")
+d04bccd8c19d ("listmount: allow listing in reverse order")
+17e70161281b ("fs: simplify error handling")
+cb54ef4f050e ("fs: don't copy to userspace under namespace semaphore")

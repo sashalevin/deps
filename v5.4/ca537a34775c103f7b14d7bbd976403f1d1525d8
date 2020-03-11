@@ -1,0 +1,6 @@
+ca537a34775c ("RDMA/restrack: Fix potential invalid address access")
+48f8a70e899f ("RDMA/restrack: Add support to get resource tracking for SRQ")
+b0810b037de0 ("RDMA/core: Consolidate ib_create_srq flows")
+b19a530b002f ("RDMA/uverbs: Cleanup wq/srq context usage from uverbs layer")
+9fbe334c6a67 ("RDMA/core: Do not erase the type of ib_srq.uobject")
+620d3f8176cb ("RDMA/core: Do not erase the type of ib_qp.uobject")

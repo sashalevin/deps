@@ -1,0 +1,6 @@
+ef8b4b720368 ("KVM: ensure APICv is considered inactive if there is no APIC")
+cae72dcc3b21 ("KVM: x86: inhibit APICv when KVM_GUESTDBG_BLOCKIRQ active")
+b0a1637f64b0 ("KVM: x86: APICv: fix race in kvm_request_apicv_update on SVM")
+36222b117e36 ("KVM: x86: don't disable APICv memslot when inhibited")
+df63202fe52b ("KVM: x86: APICv: drop immediate APICv disablement on current vCPU")
+a01b45e9d34d ("KVM: x86: rename apic_access_page_done to apic_access_memslot_enabled")

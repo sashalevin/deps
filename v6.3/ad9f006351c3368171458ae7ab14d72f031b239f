@@ -1,0 +1,4 @@
+ad9f006351c3 ("mm: always lock new vma before inserting into vma tree")
+6852c46c783d ("mm/mmap: move vma operations to mm_struct out of the critical section of file mapping lock")
+1c7873e33645 ("mm: lock newly mapped VMA with corrected ordering")
+10fca64a6611 ("mm/mmap: write-lock VMAs in vma_prepare before modifying them")

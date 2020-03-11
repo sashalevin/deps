@@ -1,0 +1,5 @@
+2b47d54ed41c ("sh: add J2 atomics using the cas.l instruction")
+726328d92a42 ("locking/spinlock, arch: Update and fix spin_unlock_wait() implementations")
+a9e4252a9b14 ("asm-generic: add __smp_xxx wrappers")
+57f7c0370f38 ("asm-generic: guard smp_store_release/load_acquire")
+5a1b26d7c629 ("lcoking/barriers, arch: Use smp barriers in smp_store_release()")

@@ -1,0 +1,6 @@
+1bb30b7a4597 ("powerpc/vdso: Rename syscall_map_32/64 to simplify vdso_setup_syscall_map()")
+bc9d5bfc4d23 ("powerpc/vdso: Add missing includes and clean vdso_setup_syscall_map()")
+ab037dd87a2f ("powerpc/vdso: Switch VDSO to generic C implementation.")
+4c62285439f8 ("Revert "powerpc/build: vdso linker warning for orphan sections"")
+f2af201002a8 ("powerpc/build: vdso linker warning for orphan sections")
+793d74a8c78e ("powerpc/vdso64: Switch from __get_datapage() to get_datapage inline macro")

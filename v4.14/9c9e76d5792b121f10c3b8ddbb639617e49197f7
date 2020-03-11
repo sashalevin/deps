@@ -1,0 +1,7 @@
+9c9e76d5792b ("nvme-pci: make sure write/poll_queues less or equal then cpu count")
+17c3316734ae ("nvme/pci Limit write queue sizes to possible cpus")
+3f68baf706ec ("nvme/pci: Fix write and poll queue types")
+483178f38cbe ("nvme-pci: remove queue_count_ops for write_queues and poll_queues")
+a232ea0ebffe ("nvme-pci: remove unnecessary zero for static var")
+665648673ef5 ("nvme-pci: remove an unneeded variable initialization")
+80201fe175cb ("Merge tag 'for-5.1/block-20190302' of git://git.kernel.dk/linux-block")

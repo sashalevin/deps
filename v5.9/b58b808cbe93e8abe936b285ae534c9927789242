@@ -1,0 +1,4 @@
+b58b808cbe93 ("KVM: x86: Move MSR_TYPE_{R,W,RW} values from VMX to x86, as enums")
+cc4cb017678a ("KVM: x86: use positive error values for msr emulation that causes #GP")
+d383b3146d80 ("KVM: x86: Fix NULL dereference at kvm_msr_ignored_check()")
+1a155254ff93 ("KVM: x86: Introduce MSR filtering")

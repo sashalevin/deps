@@ -1,0 +1,5 @@
+2e9f9d4a729f ("perf annotation: Switch lock from a mutex to a sharded_mutex")
+9b3726ef836f ("perf annotate: Update use of pthread mutex")
+4f74f187892e ("perf symbols: Factor out annotation init/exit")
+2975489458c5 ("perf annotate: Pass a 'map_symbol' in places receiving a pair of 'map' and 'symbol' pointers")
+cebf7d51a6c3 ("perf diff: Report noisy for cycles diff")

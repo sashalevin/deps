@@ -1,0 +1,5 @@
+71b68e9e3582 ("btrfs: do not batch insert non-consecutive dir indexes during log replay")
+763748b238ef ("btrfs: reduce amount of reserved metadata for delayed item insertion")
+c9d02ab4b436 ("btrfs: set delayed item type when initializing it")
+3bae13e9d42e ("btrfs: do not BUG_ON() on failure to reserve metadata for delayed item")
+a176affe547c ("btrfs: assert that delayed item is a dir index item when adding it")

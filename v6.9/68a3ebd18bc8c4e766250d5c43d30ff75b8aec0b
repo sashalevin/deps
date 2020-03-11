@@ -1,0 +1,6 @@
+68a3ebd18bc8 ("btrfs: use delayed iput during extent map shrinking")
+956a17d9d050 ("btrfs: add a shrinker for extent maps")
+f1d97e769152 ("btrfs: add a global per cpu counter to track number of used extent maps")
+6c566def955c ("btrfs: pass the extent map tree's inode to add_extent_mapping()")
+ed48adf83e09 ("btrfs: simplify add_extent_mapping() by removing pointless label")
+0a308f8095f7 ("btrfs: pass an inode to btrfs_add_extent_mapping()")

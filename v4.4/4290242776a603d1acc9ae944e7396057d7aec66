@@ -1,0 +1,8 @@
+4290242776a6 ("serial: 8250_pci: Replace custom pci_match_id() implementation")
+117738417941 ("serial: 8250_pci: Replace dev_*() by pci_*() macros")
+35b4f1723192 ("serial: 8250_pci: Refactor the loop in pci_ite887x_init()")
+9808f9be31c6 ("serial: 8250_pci: handle FL_NOIRQ board flag")
+8428413b1d14 ("serial: 8250_pci: Implement MSI(-X) support")
+c7ac15ce8924 ("serial: core: move UPF_NO_TXEN_TEST to quirks and rename")
+1104321a7b3b ("serial: Delete dead code for CIR serial ports")
+c2f5fde143b4 ("tty: serial: 8250: Remove else after return")

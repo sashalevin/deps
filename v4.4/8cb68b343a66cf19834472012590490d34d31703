@@ -1,0 +1,8 @@
+8cb68b343a66 ("sched/core: Fix update_rq_clock() splat on hotplug (and suspend/resume)")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")
+a399d233078e ("sched/core: Fix incorrect utilization accounting when switching to fair class")
+9af6528ee9b6 ("sched/core: Optimize __schedule()")
+4fa8d299b43a ("sched/debug: Remove several CONFIG_SCHEDSTATS guards")
+ae92882e5646 ("sched/debug: Clean up schedstat macros")
+1a3d027c5a68 ("sched/debug: Rename and move enqueue_sleeper()")
+62cc20bcf256 ("Merge branch 'sched/urgent' into sched/core, to pick up fixes")

@@ -1,0 +1,8 @@
+4e348c6c6e23 ("wifi: mac80211: fix qos on mesh interfaces")
+50e2ab392919 ("wifi: mac80211: fix queue selection for mesh/OCB interfaces")
+f6ab25d41b18 ("mac80211: drop check for DONT_REORDER in __ieee80211_select_queue")
+66d06c84730c ("mac80211: adhere to Tx control flag that prevents frame reordering")
+1974da8b31e6 ("mac80211: when using iTXQ, select the queue in ieee80211_subif_start_xmit")
+02049ce27ef9 ("mac80211: mark expected switch fall-throughs")
+71ec289e62f9 ("mac80211: enable VHT for mesh channel processing")
+21a8e9dd52b6 ("mac80211: Fix possible sband related NULL pointer de-reference")

@@ -1,0 +1,6 @@
+3c0ec896a4b4 ("PCI/ASPM: Factor out waiting for link training to complete")
+fd6e6e38ebe5 ("PCI/ASPM: Avoid unnecessary pcie_link_state use")
+b1689799772a ("PCI/ASPM: Use distinct local vars in pcie_retrain_link()")
+658eec837b11 ("PCI: Rework pcie_retrain_link() wait loop")
+4ec73791a64b ("PCI: Work around Pericom PCIe-to-PCI bridge Retrain Link erratum")
+86fa6a344209 ("PCI: Factor out pcie_retrain_link() function")

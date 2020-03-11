@@ -1,0 +1,8 @@
+2bc629a692a7 ("nohz: Gather tick_sched booleans under a common flag field")
+45f1ff59e27c ("cpuidle: Return nohz hint from cpuidle_select()")
+ed98c3491998 ("sched: idle: Do not stop the tick before cpuidle_idle_call()")
+2aaf709a518d ("sched: idle: Do not stop the tick upfront in the idle loop")
+0e7767687fda ("time: tick-sched: Reorganize idle tick management code")
+22ab8bc02a5f ("nohz: Allow to check if remote CPU tick is stopped")
+a364298359e7 ("nohz: Convert tick_nohz_tick_stopped() to bool")
+54b933c6c954 ("sched/idle: Micro-optimize the idle loop")

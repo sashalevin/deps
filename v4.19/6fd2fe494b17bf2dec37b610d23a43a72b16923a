@@ -1,1 +1,3 @@
 6fd2fe494b17 ("copy_process(): don't use ksys_close() on cleanups")
+c3f3ce049f7d ("userfaultfd: use RCU to free the task struct when fork fails")
+b3e583825266 ("clone: add CLONE_PIDFD")

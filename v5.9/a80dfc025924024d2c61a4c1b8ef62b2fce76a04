@@ -1,0 +1,4 @@
+a80dfc025924 ("KVM: VMX: Always clear vmx->fail on emulation_required")
+c8607e4a086f ("KVM: x86: nVMX: don't fail nested VM entry on invalid guest state if !from_vmentry")
+c42dec148b3e ("KVM: x86: VMX: synthesize invalid VM exit when emulating invalid guest state")
+2ba4493a8b19 ("KVM: nVMX: Explicitly check for valid guest state for !unrestricted guest")

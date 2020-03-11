@@ -1,0 +1,4 @@
+864ea921b030 ("io_uring: refactor io_alloc_req")
+99ebe4efbd38 ("io_uring: pre-initialise some of req fields")
+b8e64b530011 ("io_uring: track request creds with a flag")
+c10d1f986b4e ("io_uring: move creds from io-wq work to io_kiocb")

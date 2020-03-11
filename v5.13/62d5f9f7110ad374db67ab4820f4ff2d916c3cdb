@@ -1,0 +1,7 @@
+62d5f9f7110a ("drm/amdgpu: Unmap MMIO mappings when device is not unplugged")
+a5c5d8d50ecf ("drm/amdgpu: fix a potential memory leak in amdgpu_device_fini_sw()")
+8d35a2596164 ("drm/amdgpu: adjust fence driver enable sequence")
+07775fc13878 ("drm/amdgpu: Unmap all MMIO mappings")
+d10d0daa2072 ("drm/amdgpu: Handle IOMMU enabled case.")
+e9669fb78262 ("drm/amdgpu: Add early fini callback")
+72c8c97b1522 ("drm/amdgpu: Split amdgpu_device_fini into early and late")

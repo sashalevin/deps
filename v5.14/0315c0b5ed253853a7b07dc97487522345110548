@@ -1,0 +1,5 @@
+0315c0b5ed25 ("can: kvaser_usb: Simplify with dev_err_probe()")
+49f274c72357 ("can: kvaser_usb: replace run-time checks with struct kvaser_usb_driver_info")
+cc4b08c31b5c ("can: do not increase tx_bytes statistics for RTR frames")
+0b0ce2c67795 ("can: kvaser_usb: do not increase tx statistics when sending error message frames")
+05cb2ba4b231 ("can: c_can: rename IF_RX -> IF_NAPI")

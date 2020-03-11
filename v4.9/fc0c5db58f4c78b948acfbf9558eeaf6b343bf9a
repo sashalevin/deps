@@ -1,0 +1,7 @@
+fc0c5db58f4c ("watchdog: s3c2410: remove unused freq_to_wdt and s3c2410wdt_is_running functions")
+2bd33bb4bc1c ("watchdog: s3c2410: Extract disable and mask code into separate functions")
+8d9fdf60e37c ("watchdog: s3c2410: Make reset disable register optional")
+08497f22b15a ("watchdog: s3c2410: Minor code cleanup")
+456f53d65241 ("watchdog: s3c2410: Use dev_dbg instead of pr_info")
+0b445549ea6f ("watchdog: s3c2410: Fix infinite interrupt in soft mode")
+4f21195d42ef ("watchdog: s3c2410: Remove confusing CONFIG prefix from local defines")

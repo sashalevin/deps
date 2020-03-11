@@ -1,0 +1,4 @@
+5e02a1887fce ("arm64: vdso: Force the vDSO to be linked as BTI when built for BTI")
+7a0a93c51799 ("arm64: vdso: Explicitly add build-id option")
+691efbedc60d ("arm64: vdso: use $(LD) instead of $(CC) to link VDSO")
+697e96ed1720 ("arm64: vdso: fix and clean-up Makefile")

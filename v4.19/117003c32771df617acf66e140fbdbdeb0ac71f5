@@ -1,0 +1,4 @@
+117003c32771 ("mm/pagealloc.c: call touch_nmi_watchdog() on max order boundaries in deferred init")
+0e56acae4b4d ("mm: initialize MAX_ORDER_NR_PAGES at a time instead of doing larger sections")
+837566e7e08e ("mm: implement new zone specific memblock iterator")
+56ec43d8b027 ("mm: drop meminit_pfn_in_nid as it is redundant")

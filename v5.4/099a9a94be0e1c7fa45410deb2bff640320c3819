@@ -1,0 +1,6 @@
+099a9a94be0e ("dmaengine: stm32-dma: add device_pause/device_resume support")
+ded6230691e0 ("dmaengine: stm32-dma: pass DMA_SxSCR value to stm32_dma_handle_chan_done()")
+db60a63eb685 ("dmaengine: stm32-dma: introduce stm32_dma_sg_inc to manage chan->next_sg")
+a44d9d72453e ("dmaengine: stm32-dma: rework irq handler to manage error before xfer events")
+955b17665d2c ("dmaengine: stm32-dma: direct mode support through device tree")
+d80cbef35bf8 ("dmaengine: stm32-dma: use vchan_terminate_vdesc() in .terminate_all")

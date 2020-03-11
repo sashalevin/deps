@@ -1,0 +1,5 @@
+47dc096ac183 ("block: memory allocations in bounce_clone_bio must not fail")
+ebfe4183c77e ("block: remove the gfp_mask argument to bounce_clone_bio")
+b90994c6ab62 ("block: fix bounce_clone_bio for passthrough bios")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")

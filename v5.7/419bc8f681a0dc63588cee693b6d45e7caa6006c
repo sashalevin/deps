@@ -1,0 +1,7 @@
+419bc8f681a0 ("spi: rockchip: Unmask IRQ at the final to avoid preemption")
+869f2c94db92 ("spi: rockchip: Stop spi slave dma receiver when cs inactive")
+80808768e413 ("spi: rockchip: terminate dma transmission when slave abort")
+736b81e07517 ("spi: rockchip: Support SPI_CS_HIGH")
+4d9ca632c847 ("spi: rockchip: Config spi rx dma burst size depend on xfer length")
+d065f41a3f0d ("spi: spi-rockchip: add support for spi slave mode")
+d66571a20f68 ("spi: spi-rockchip: cleanup use struct spi_controller")

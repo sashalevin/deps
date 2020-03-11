@@ -1,0 +1,8 @@
+7a908832ace7 ("spi: imx: add fallback feature")
+bcd8e7761ec9 ("spi: imx: fallback to PIO if dma setup failure")
+0a9c8998e75b ("spi: imx: add module parameter to control DMA use")
+5ba5a3730639 ("spi: imx: correct wml as the last sg length")
+987a2dfe3f04 ("spi: imx: move wml setting to later than setup_transfer")
+0486dd4d6111 ("spi: imx: remove unnecessary check in spi_imx_can_dma")
+afb27208146a ("spi: imx: Use correct number of bytes per words")
+71abd29057cb ("spi: imx: Add support for SPI Slave mode")

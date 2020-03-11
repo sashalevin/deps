@@ -1,0 +1,3 @@
+d737a5805581 ("xfrm: state: don't use lock anymore unless acquire operation is needed")
+b65e3d7be06f ("xfrm: state: add sequence count to detect hash resizes")
+02efdff7e209 ("xfrm: state: use atomic_inc_not_zero to increment refcount")

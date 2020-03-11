@@ -1,0 +1,7 @@
+2905db2764cd ("drm/panfrost: Don't reset the GPU on job faults unless we really have to")
+a11c4711238a ("drm/panfrost: Simplify the reset serialization logic")
+070ce7657bdf ("drm/panfrost: Use a threaded IRQ for job interrupts")
+229f45788e22 ("drm/panfrost: Expose a helper to trigger a GPU reset")
+6ef2f37f4016 ("drm/panfrost: Drop the pfdev argument passed to panfrost_exception_name()")
+78efe21b6f8e ("drm/sched: Allow using a dedicated workqueue for the timeout/fault tdr")
+1fad1b7ed1eb ("drm/sched: Document what the timedout_job method should do")

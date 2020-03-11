@@ -1,0 +1,6 @@
+5a317412ef88 ("hugetlb: do not demote poisoned hugetlb pages")
+8531fc6f52f5 ("hugetlb: add hugetlb demote page support")
+34d9e35b13d5 ("hugetlb: add demote bool to gigantic page routines")
+79dfc695525f ("hugetlb: add demote hugetlb page sysfs interfaces")
+e32d20c0c88b ("hugetlb: before freeing hugetlb page set dtor to appropriate value")
+416d85ed3e08 ("hugetlb: simplify prep_compound_gigantic_page ref count racing code")

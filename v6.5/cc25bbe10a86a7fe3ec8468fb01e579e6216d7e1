@@ -1,0 +1,8 @@
+cc25bbe10a86 ("mm/mglru: improve struct lru_gen_mm_walk")
+2d823764fafa ("mm/mglru: improve reset_mm_stats()")
+1ce2292c1480 ("mm/mglru: drop unused parameter")
+61dd3f246b3a ("mm/mglru: add CONFIG_LRU_GEN_WALKS_MMU")
+bb5e7f234eac ("Multi-gen LRU: avoid race in inc_min_seq()")
+6080d19f0704 ("ksm: add ksm zero pages for each process")
+e2942062e01d ("ksm: count all zero pages placed by KSM")
+79271476b336 ("ksm: support unsharing KSM-placed zero pages")

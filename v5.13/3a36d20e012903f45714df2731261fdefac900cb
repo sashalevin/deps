@@ -1,0 +1,6 @@
+3a36d20e0129 ("ubifs: Fix memory leak in do_rename")
+a0c515657307 ("ubifs: Fix AA deadlock when setting xattr for encrypted file")
+278d9a243635 ("ubifs: Rename whiteout atomically")
+afd427048047 ("ubifs: Fix deadlock in concurrent rename whiteout and inode writeback")
+40a8f0d5e7b3 ("ubifs: rename_whiteout: Fix double free for whiteout_ui->data")
+a801fcfeef96 ("ubifs: Set/Clear I_LINKABLE under i_lock for whiteout inode")

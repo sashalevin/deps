@@ -1,0 +1,8 @@
+5a5409d90bd0 ("ksmbd: handle malformed smb1 message")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+dc8289f91238 ("ksmbd: fix slab-out-of-bounds in init_smb2_rsp_hdr")
+39b291b86b59 ("ksmbd: return unsupported error on smb1 mount")
+b53e8cfec30b ("ksmbd: return STATUS_NOT_SUPPORTED on unsupported smb2.0 dialect")
+62c487b53a7f ("ksmbd: limit pdu length size according to connection status")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")

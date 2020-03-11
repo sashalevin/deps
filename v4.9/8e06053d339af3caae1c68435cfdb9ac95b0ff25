@@ -1,0 +1,6 @@
+8e06053d339a ("media: fsl-viu: Use the ioread/write32be() accessors")
+17621758e53f ("media: fsl-viu: Do not redefine out_be32()/in_be32() for CONFIG_M68K")
+6898dd580a04 ("media: media/platform: fsl-viu.c: fix build for MICROBLAZE")
+27e4b6cfc970 ("media: fsl-viu: fix __iomem annotations")
+29d750686331 ("media: fsl-viu: allow building it with COMPILE_TEST")
+adfcf2e980c4 ("media: fsl-viu: mark static functions as such")

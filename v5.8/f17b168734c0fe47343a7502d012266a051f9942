@@ -1,0 +1,8 @@
+f17b168734c0 ("x86/fpu: Add a helper to prepare AMX state for low-power CPU idle")
+9bfecd058339 ("x86/cpufeatures: Force disable X86_FEATURE_ENQCMD and remove update_pasid()")
+7f5933f81bd8 ("x86/asm: Add an enqcmds() wrapper for the ENQCMDS instruction")
+0888e1030d3e ("x86/asm: Carve out a generic movdir64b() helper for general usage")
+20f0afd1fb3d ("x86/mmu: Allocate/free a PASID")
+1478b99a7653 ("x86/cpufeatures: Mark ENQCMD as disabled when configured out")
+f69ca629d89d ("x86/cpu: Refactor sync_core() for readability")
+9998a9832c40 ("x86/cpu: Relocate sync_core() to sync_core.h")

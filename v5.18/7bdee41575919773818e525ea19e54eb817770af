@@ -1,0 +1,5 @@
+7bdee4157591 ("tee: Use iov_iter to better support shared buffer registration")
+867113308217 ("tee: Pass a pointer to virt_to_page()")
+0249a75b3659 ("tee: Remove call to get_kernel_pages()")
+c83900393aa1 ("tee: Remove vmalloc page support")
+3e47235eaee0 ("tee: make tee_shm_register_kernel_buf vmalloc supported")

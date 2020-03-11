@@ -1,0 +1,6 @@
+b1d305abef46 ("net/mlx5: Fix bridge mode operations when there are no VFs")
+b55b35382e51 ("net/mlx5: E-Switch, Move legacy code to a individual file")
+b16f2bb6b6ca ("net/mlx5: E-Switch, Convert a macro to a helper routine")
+7dc84de98bab ("net/mlx5: E-Switch, Protect changing mode while adding rules")
+c55479d0cb6a ("net/mlx5: E-Switch, Change mode lock from mutex to rw semaphore")
+1aa48ca6aa9f ("net/mlx5e: Allow legacy vf ndos only if in legacy mode")

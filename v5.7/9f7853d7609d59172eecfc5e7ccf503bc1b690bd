@@ -1,0 +1,4 @@
+9f7853d7609d ("powerpc/mm: Fix set_memory_*() against concurrent accesses")
+1f9ad21c3b38 ("powerpc/mm: Implement set_memory() routines")
+bd573a81312f ("powerpc/mm/64s: Allow STRICT_KERNEL_RWX again")
+5eedf9fe8db2 ("powerpc/mm: Fix KUAP warning by providing copy_from_kernel_nofault_allowed()")

@@ -1,0 +1,7 @@
+1b8c90985f59 ("mtd: nand: vf610: check mtd_device_register() return code")
+196644fd09ab ("mtd: nand: vf610: improve readability of error label")
+f5a666bdd585 ("mtd: nand: vf610: remove the unnecessary of_node_put()")
+e9d354b4b26a ("mtd: nand: vf610: return error code of nand_scan_ident/tail() on error")
+44ec23c9ecd9 ("mtd: nand: convert to nand_get_flash_node()")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")
+3e63b26bdd40 ("mtd: {nand,spi-nor}: assign MTD of_node")

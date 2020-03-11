@@ -1,0 +1,7 @@
+edf12b913abb ("soc: fsl: guts: fix return value check in fsl_guts_init()")
+55488c90b392 ("soc: fsl: guts: drop platform driver")
+b46dd0cb93de ("soc: fsl: guts: use of_root instead of own reference")
+5d707e4e3fb5 ("soc: fsl: guts: allocate soc_dev_attr on the heap")
+ab4988d6a393 ("soc: fsl: guts: embed fsl_guts_get_svr() in probe()")
+6de6cb89fc03 ("soc: fsl: guts: remove module_exit() and fsl_guts_remove()")
+ab3f045774f7 ("soc: fsl: guts: machine variable might be unset")

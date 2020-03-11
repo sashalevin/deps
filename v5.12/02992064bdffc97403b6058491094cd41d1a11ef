@@ -1,0 +1,5 @@
+02992064bdff ("PCI: Make pci_bus_for_each_resource() index optional")
+ceb928be5cab ("PCI: Document pci_bus_for_each_resource()")
+f8cf6e513ec4 ("PCI/sysfs: Use sysfs_emit() and sysfs_emit_at() in "show" functions")
+316ae3305121 ("PCI/sysfs: Rely on lengths from scnprintf(), dsm_label_utf16s_to_utf8s()")
+bdcdaa13ad96 ("PCI/sysfs: Fix dsm_label_utf16s_to_utf8s() buffer overrun")

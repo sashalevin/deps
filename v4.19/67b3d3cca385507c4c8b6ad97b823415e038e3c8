@@ -1,0 +1,4 @@
+67b3d3cca385 ("kcov: fix potential use-after-free in kcov_remote_start")
+eec028c9386e ("kcov: remote coverage support")
+39e07cb60860 ("kcov: convert kcov.refcount to refcount_t")
+903e8ff86753 ("kernel/kcov.c: mark funcs in __sanitizer_cov_trace_pc() as notrace")

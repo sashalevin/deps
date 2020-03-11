@@ -1,0 +1,3 @@
+36fa06f9ff39 ("KVM: x86: Add support for RDPID without RDTSCP")
+6f2b296aa643 ("KVM: SVM: Inject #GP on guest MSR_TSC_AUX accesses if RDTSCP unsupported")
+1aaca37e1e4e ("KVM: VMX: Allow INVPCID in guest without PCID")

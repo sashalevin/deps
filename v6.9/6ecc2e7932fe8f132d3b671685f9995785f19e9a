@@ -1,0 +1,6 @@
+6ecc2e7932fe ("x86/irq: Use existing helper for pending vector check")
+ce0a92871179 ("x86/irq: Extend checks for pending vectors to posted interrupts")
+fef05a078b6f ("x86/irq: Factor out common code for checking pending interrupts")
+43650dcf6d63 ("x86/irq: Set up per host CPU posted interrupt descriptors")
+2254808b53d9 ("x86/irq: Remove bitfields in posted interrupt descriptor")
+699f67512f04 ("KVM: VMX: Move posted interrupt descriptor out of VMX code")

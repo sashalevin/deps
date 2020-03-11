@@ -1,0 +1,6 @@
+a77f9489f1d7 ("vfio: use the new follow_pfnmap API")
+29ae7d96d166 ("mm: pass VMA instead of MM to follow_pte()")
+3d6586008f7b ("drivers/virt/acrn: fix PFNMAP PTE checks in acrn_vm_ram_map()")
+5b34b76cb0cd ("mm: move follow_phys to arch/x86/mm/pat/memtype.c")
+cb10c28ac82c ("mm: remove follow_pfn")
+1b265da7ea1e ("virt: acrn: stop using follow_pfn")

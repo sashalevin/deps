@@ -1,0 +1,4 @@
+95cadae320be ("fortify: strlen: Avoid shadowing previous locals")
+3009f891bb9f ("fortify: Allow strlen() and strnlen() to pass compile-time known lengths")
+369cd2165d7b ("fortify: Prepare to improve strnlen() and strlen() warnings")
+a28a6e860c6c ("string.h: move fortified functions definitions in a dedicated header.")

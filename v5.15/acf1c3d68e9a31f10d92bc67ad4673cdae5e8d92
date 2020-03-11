@@ -1,0 +1,8 @@
+acf1c3d68e9a ("bpf: Fix race between btf_put and btf_idr walk.")
+edc3ec09ab70 ("bpf: Factor out fd returning from bpf_btf_find_by_name_kind")
+f18a499799dd ("bpf: Silence coverity false positive warning.")
+1e89106da253 ("bpf: Add bpf_core_add_cands() and wire it into bpf_core_apply_relo_insn().")
+fbd94c7afcf9 ("bpf: Pass a set of bpf_core_relo-s to prog_load command.")
+46334a0cd21b ("bpf: Define enum bpf_core_relo_kind as uapi.")
+29db4bea1d10 ("bpf: Prepare relo_core.c for kernel duty.")
+3930198dc9a0 ("libbpf: Use __BYTE_ORDER__")

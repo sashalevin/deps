@@ -1,0 +1,3 @@
+99c621ef243b ("workqueue: Protects wq_unbound_cpumask with wq_pool_attach_mutex")
+d25302e46592 ("workqueue: make sysfs of unbound kworker cpumask more clever")
+c98a98050964 ("workqueue: respect isolated cpus when queueing an unbound work")

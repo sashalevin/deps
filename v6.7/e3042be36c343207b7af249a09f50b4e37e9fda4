@@ -1,0 +1,6 @@
+e3042be36c34 ("xfs: automatic freeing of freshly allocated unwritten space")
+4c88fef3af4a ("xfs: remove __xfs_free_extent_later")
+e6e5299fcbf0 ("xfs: collapse the ->finish_item helpers")
+3dd75c8db1c1 ("xfs: hoist intent done flag setting to ->finish_item callsite")
+172538beba82 ("xfs: don't set XFS_TRANS_HAS_INTENT_DONE when there's no ATTRD log item")
+07bcbdf020c9 ("xfs: don't leak recovered attri intent items")

@@ -1,0 +1,5 @@
+d6e645012d97 ("IMA: define a hook to measure kernel integrity critical data")
+4834177e6332 ("ima: Support additional conditionals in the KEXEC_CMDLINE hook function")
+db2045f5892a ("ima: Fail rule parsing when the KEXEC_CMDLINE hook is combined with an invalid cond")
+712183437ebe ("ima: Fail rule parsing when buffer hook functions have an invalid action")
+34e980bb83a0 ("IMA: Add audit log for failure conditions")

@@ -1,0 +1,8 @@
+b330568f0c51 ("drm/i915/psr: Add Early Transport into psr debugfs interface")
+f0faeb2e701c ("drm/i915/psr: Move printing PSR mode to own function")
+1566b50a439c ("drm/i915/psr: Move printing sink PSR support to own function")
+3425b2205d30 ("drm/i915/psr: Add panel replay sel update support to debugfs interface")
+ba7cf33f233e ("drm/i915/psr: Rename psr2_enabled as sel_update_enabled")
+1e52db8a439b ("drm/i915/psr: Rename has_psr2 as has_sel_update")
+d82d1a6be60d ("drm/i915: pass dev_priv explicitly to EDP_PSR2_STATUS")
+9b0dddd50e68 ("drm/i915: pass dev_priv explicitly to EDP_PSR2_CTL")

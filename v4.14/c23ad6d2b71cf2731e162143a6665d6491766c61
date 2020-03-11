@@ -1,0 +1,4 @@
+c23ad6d2b71c ("sctp: pass a kernel pointer to sctp_setsockopt_default_send_param")
+1354e72fabf4 ("sctp: fix ignoring asoc_id for tcp-style sockets on SCTP_DEFAULT_SEND_PARAM sockopt")
+707e45b3dc5a ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_DEFAULT_SEND_PARAM sockopt")
+f952be79cebd ("sctp: introduce struct sctp_stream_out_ext")

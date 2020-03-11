@@ -1,0 +1,5 @@
+0cf8d32600cf ("spi: stm32-qspi: Always check SR_TCF flags in stm32_qspi_wait_cmd()")
+d83d89ea68b4 ("spi: stm32-qspi: Fix wait_cmd timeout in APM mode")
+d38fa9a155b2 ("spi: stm32-qspi: Always wait BUSY bit to be cleared in stm32_qspi_wait_cmd()")
+c530cd1d9d5e ("spi: spi-mem: add stm32 qspi controller")
+dcbe0d84dfa5 ("spi: add driver for STM32 SPI controller")

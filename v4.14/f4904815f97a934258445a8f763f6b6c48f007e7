@@ -1,0 +1,7 @@
+f4904815f97a ("sched/deadline: Fix double accounting of rq/running bw in push & pull")
+840d719604b0 ("sched/deadline: Update rq_clock of later_rq when pushing a task")
+794a56ebd9a5 ("sched/cpufreq: Change the worker kthread to SCHED_DEADLINE")
+d4edd662ac16 ("sched/cpufreq: Use the DEADLINE utilization signal")
+34be39305a77 ("sched/deadline: Implement "runtime overrun signal" support")
+aa5222e92f80 ("sched/deadline: Don't use dubious signed bitfields")
+799ba82de01e ("sched/deadline: Use C bitfields for the state flags")

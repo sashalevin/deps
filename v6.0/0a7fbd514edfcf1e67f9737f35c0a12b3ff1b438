@@ -1,0 +1,5 @@
+0a7fbd514edf ("net: dsa: microchip: ksz9477: use internal_phy instead of phy_port_cnt")
+8f4204567923 ("net: dsa: microchip: allow to pass return values for PHY read/write accesses")
+d7539fc2b41a ("net: dsa: microchip: don't announce extended register support on non Gbit chips")
+505bf3205aaa ("net: dsa: microchip: do per-port Gbit detection instead of per-chip")
+b44908095612 ("net: dsa: microchip: add separate struct ksz_chip_data for KSZ8563 chip")

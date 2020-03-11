@@ -1,0 +1,8 @@
+6eac36bb9eb0 ("x86/resctrl: Allocate the cleanest CLOSID by searching closid_num_dirty_rmid")
+5d920b6881f2 ("x86/resctrl: Use __set_bit()/__clear_bit() instead of open coding")
+0424a7dfe912 ("x86/resctrl: Clear staged_config[] before and after it is used")
+dc2a3e857981 ("x86/resctrl: Add interface to read mbm_total_bytes_config")
+d507f83ced55 ("x86/resctrl: Support monitor configuration")
+5b6fac3fa44b ("x86/resctrl: Detect and configure Slow Memory Bandwidth Allocation")
+97fa21f65c3e ("x86/resctrl: Move MSR defines into msr-index.h")
+6ce1560d35f6 ("x86/resctrl: Switch over to the resctrl mbps_val list")

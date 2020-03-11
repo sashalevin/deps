@@ -1,0 +1,8 @@
+20d06ca2679c ("net: hns3: optimize the tx clean process")
+f6061a056c8b ("net: hns3: batch tx doorbell operation")
+09783d448bcc ("net: hns3: limit the error logging in the hns3_clean_tx_ring()")
+36c67349a1a1 ("net: hns3: pad the short frame before sending to the hardware")
+2a597eff2437 ("net: hns3: fix for TX queue not restarted problem")
+88b7c58c199d ("net: hns3: minor optimization for barrier in IO path")
+5f06b903cb0b ("net: hns3: remove struct hns3_nic_ring_data in hns3_enet module")
+8ae10cfb5089 ("net: hns3: support tx-scatter-gather-fraglist feature")

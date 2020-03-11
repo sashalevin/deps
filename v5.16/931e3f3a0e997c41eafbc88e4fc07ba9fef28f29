@@ -1,0 +1,6 @@
+931e3f3a0e99 ("drm/mgag200: Protect concurrent access to I/O registers with lock")
+a7b23fd90c80 ("drm/mgag200: Replace module-init boiler-plate code with DRM helpers")
+6a2d2ddf2c34 ("drm: Move nomodeset kernel parameter to the DRM subsystem")
+d76f25d66ec8 ("drm/vboxvideo: Drop CONFIG_VGA_CONSOLE guard to call vgacon_text_force()")
+35f7775f81bf ("drm: Don't print messages if drivers are disabled due nomodeset")
+4b2b5e142ff4 ("drm: Move GEM memory managers into modules")

@@ -1,0 +1,5 @@
+dd098a0e0319 ("irqchip/mips-gic: Get rid of the reliance on irq_cpu_online()")
+6d4d367d0e9f ("irqchip/mips-gic: Use the correct local interrupt map registers")
+25ac19e1b076 ("irqchip: mips-gic: Mask local interrupts when CPUs come online")
+da61fcf9d62a ("irqchip: mips-gic: Use irq_cpu_online to (un)mask all-VP(E) IRQs")
+63b746b19fa6 ("irqchip: mips-gic: Inline gic_local_irq_domain_map()")

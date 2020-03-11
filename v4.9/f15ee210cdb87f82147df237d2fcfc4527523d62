@@ -1,0 +1,4 @@
+f15ee210cdb8 ("ALSA: core: Constify snd_device_ops definitions")
+8b645e4a40dd ("ALSA: pcm: Don't call register and disconnect callbacks for internal PCM")
+97d15a141f84 ("ALSA: pcm: Use common error handling code in _snd_pcm_new()")
+58f30d650c7f ("ALSA: pcm: Build pcm notifier code conditionally")

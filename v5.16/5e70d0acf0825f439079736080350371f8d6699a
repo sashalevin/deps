@@ -1,0 +1,7 @@
+5e70d0acf082 ("PCI: Add locking to RMW PCI Express Capability Register accessors")
+278294798ac9 ("PCI: Allow drivers to request exclusive config regions")
+cd119b09a87d ("PCI/MSI: Move msi_lock to struct pci_dev")
+85aa607e79f8 ("PCI/MSI: Sanitize MSI-X table map handling")
+288c81ce4be7 ("PCI/MSI: Move code into a separate directory")
+e58f2259b91c ("genirq/msi, treewide: Use a named struct for PCI/MSI attributes")
+29bbc35e29d9 ("PCI/MSI: Fix pci_irq_vector()/pci_irq_get_affinity()")

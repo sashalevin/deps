@@ -1,0 +1,4 @@
+65462462ffb2 ("mm/gup: follow_pfn_pte(): -EEXIST cleanup")
+7196040e19ad ("mm: fix invalid page pointer returned with FOLL_PIN gups")
+d08221a0807b ("mm/migrate.c: unify "not queued for migration" handling in do_pages_move()")
+e0153fc2c760 ("mm: move_pages: return valid node id in status if the page is already on the target node")

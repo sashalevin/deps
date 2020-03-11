@@ -1,0 +1,8 @@
+f5cfbecb0a16 ("USB: serial: cp210x: use usb_control_msg_recv() and usb_control_msg_send()")
+befc28a72036 ("USB: serial: cp210x: clean up control-request timeout")
+dc5338fc64b2 ("USB: serial: cp210x: drop short control-transfer checks")
+ed921771ffb6 ("USB: serial: cp210x: refactor flow-control handling")
+b339628ec08c ("USB: serial: cp210x: drop flow-control debugging")
+46827bda2dd6 ("USB: serial: cp210x: set terminal settings on open")
+d42976296c33 ("USB: serial: cp210x: clean up line-control handling")
+95168d624f3a ("USB: serial: cp210x: return early on unchanged termios")

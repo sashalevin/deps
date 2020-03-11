@@ -1,0 +1,6 @@
+e6cd0dc91ef9 ("eeprom: ee1004: Fix locking issues in ee1004_probe()")
+79d0df36b541 ("eeprom: ee1004: Add nvmem support")
+55d57ef6fa97 ("eeprom: ee1004: Use devres for bus data cleanup")
+393bd1000f81 ("eeprom: ee1004: add support for temperature sensor")
+431c03095d60 ("eeprom: ee1004: Add support for multiple i2c busses")
+f050bb8f56c6 ("misc: Switch i2c drivers back to use .probe()")

@@ -1,0 +1,4 @@
+47ea7d900b1c ("KVM: Open code kvm_delete_memslot() into its only caller")
+afa319a54a8c ("KVM: Require total number of memslot pages to fit in an unsigned long")
+bda44d844758 ("KVM: Ensure local memslot copies operate on up-to-date arch-specific data")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")

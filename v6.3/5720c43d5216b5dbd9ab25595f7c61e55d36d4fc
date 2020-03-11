@@ -1,0 +1,4 @@
+5720c43d5216 ("virtio_net: fix the missing of the dma cpu sync")
+295525e29a5b ("virtio_net: merge dma operations when filling mergeable buffers")
+80f50f918c6e ("virtio_net: separate the logic of freeing the rest mergeable buf")
+f8bb51043945 ("virtio_net: suppress cpu stall when free_unused_bufs")

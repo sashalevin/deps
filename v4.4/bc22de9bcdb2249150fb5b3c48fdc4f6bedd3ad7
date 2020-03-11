@@ -1,0 +1,6 @@
+bc22de9bcdb2 ("perf stat: Display time in precision based on std deviation")
+310ebb93676d ("perf stat: Use *SEC_PER_*SEC macros")
+67ccdecd09ca ("perf stat: Create events as disabled")
+ab46db0a3325 ("perf stat: Use perf_evlist__enable in handle_initial_delay")
+5cd95fc3f8d8 ("perf evsel: Use event maps directly in perf_evsel__enable")
+6acd8e9271cd ("perf stat: Clear sample_(type|period) for counting")

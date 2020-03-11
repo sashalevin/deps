@@ -1,0 +1,6 @@
+71a5bb153be1 ("nvme: ensure disabling pairs with unquiesce")
+7ad92f656bdd ("nvme-pci: cancel nvme device request before disabling")
+2036f7263d70 ("nvme-pci: Unblock reset_work on IO failure")
+39a9dd81f864 ("nvme-pci: Don't disable on timeout in reset state")
+3b7dffb971dc ("nvme-pci: mark expected switch fall-through")
+9dc1a38ef192 ("nvme-pci: shutdown on timeout during deletion")

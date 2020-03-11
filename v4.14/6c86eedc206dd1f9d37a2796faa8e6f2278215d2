@@ -1,0 +1,6 @@
+6c86eedc206d ("KVM: X86: Add Force Emulation Prefix for "emulate the next instruction"")
+082d06edab49 ("KVM: X86: Introduce handle_ud()")
+c4ae60e4bbf8 ("KVM: x86: Add module parameter for supporting VMware backdoor")
+bd89525a823c ("KVM: x86: emulate #UD while in guest mode")
+61cb57c9ed63 ("KVM: x86: Exit to user-mode on #UD intercept when emulator requires")
+ac9b305caa0d ("KVM: nVMX/nSVM: Don't intercept #UD when running L2")

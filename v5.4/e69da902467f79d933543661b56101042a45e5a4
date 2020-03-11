@@ -1,0 +1,8 @@
+e69da902467f ("drm/panel: simple: switch to struct drm_edid")
+63358e24ee79 ("drm/panel: panel-simple: Cache the EDID as long as we retain power")
+31e25395d8b7 ("drm/panel: panel-simple: Power the panel when reading the EDID")
+4318ea406e02 ("drm/panel: panel-simple: Remove extra call: drm_connector_update_edid_property()")
+e5e30dfcf3db ("drm: panel: simple: Defer unprepare delay till next prepare to shorten it")
+131f909ad55f ("drm: panel: simple: Fixup the struct panel_desc kernel doc")
+0ce8ddd8e06d ("drm/panel: add drm_connector argument to get_modes()")
+5dce87a91970 ("drm/drm_panel: no error when no callback")

@@ -1,0 +1,7 @@
+761893bd490b ("ubi: fastmap: Get wl PEB even ec beyonds the 'max' if free PEBs are run out")
+415e4723c432 ("ubi: fastmap: Remove unneeded break condition while filling pools")
+a2ea69dac674 ("ubi: fastmap: Wait until there are enough free PEBs before filling pools")
+8ff4e620ac93 ("ubi: fastmap: Use free pebs reserved for bad block handling")
+14072ee33d5a ("ubi: fastmap: Check wl_pool for free peb before wear leveling")
+d09e9a2bddba ("ubi: fastmap: Fix high cpu usage of ubi_bgt by making sure wl_pool not empty")
+3b185255bb2f ("ubi: fastmap: Don't produce the initial next anchor PEB when fastmap is disabled")

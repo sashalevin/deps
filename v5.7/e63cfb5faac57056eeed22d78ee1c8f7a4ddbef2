@@ -1,0 +1,8 @@
+e63cfb5faac5 ("iommu: Use dev_iommu_ops() for probe_finalize")
+77c38c8cf52e ("iommu: Check return of __iommu_attach_device()")
+cf193888bfbd ("iommu: Move new probe_device path to separate function")
+41df6dcc0a3f ("iommu: Keep a list of allocated groups in __iommu_probe_device()")
+6e1aa2049154 ("iommu: Move default domain allocation to iommu_probe_device()")
+a6a4c7e2c5b8 ("iommu: Add probe_device() and release_device() call-backs")
+4cbf38511a00 ("iommu: Add def_domain_type() callback in iommu_ops")
+ff2a08b39bce ("iommu: Move default domain allocation to separate function")

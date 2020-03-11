@@ -1,0 +1,7 @@
+980ef4d22a95 ("x86/ima: check EFI SetupMode too")
+399574c64eaf ("x86/ima: retry detecting secure boot mode")
+0914ade209c4 ("x86/ima: define arch_ima_get_secureboot")
+7b8589cc29e7 ("ima: on soft reboot, save the measurement list")
+d158847ae89a ("ima: maintain memory size needed for serializing the measurement list")
+dcfc56937b62 ("ima: permit duplicate measurement list entries")
+94c3aac567a9 ("ima: on soft reboot, restore the measurement list")

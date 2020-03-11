@@ -1,0 +1,2 @@
+46bc78c81b65 ("tty: tty_buffer: use struct_size() in tty_buffer_alloc()")
+6b9dbedbe349 ("tty: fix deadlock caused by calling printk() under tty_port->lock")

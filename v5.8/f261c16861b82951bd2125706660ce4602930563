@@ -1,0 +1,4 @@
+f261c16861b8 ("io_uring: comment on kfree(iovec) checks")
+252917c30f55 ("io_uring: follow **iovec idiom in io_import_iovec")
+62ef73165091 ("io_uring: remove setting REQ_F_MUST_PUNT in rw")
+bcf5a06304d6 ("io_uring: support true async buffered reads, if file provides it")

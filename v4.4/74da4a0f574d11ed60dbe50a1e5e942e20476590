@@ -1,0 +1,8 @@
+74da4a0f574d ("libceph, ceph: always advertise all supported features")
+005a07bf0a92 ("rbd: add 'client_addr' sysfs rbd device attribute")
+033268a5f012 ("libceph: rename ceph_client_id() -> ceph_client_gid()")
+d463a43d69f4 ("ceph: CEPH_FEATURE_MDSENC support")
+82dcabad750a ("libceph: revamp subs code, switch to SUBSCRIBE2 protocol")
+0f9af169a1db ("libceph: decouple hunting and subs management")
+02ac956c42c6 ("libceph: move debugfs initialization into __ceph_open_session()")
+7e01726a6853 ("libceph: remove outdated comment")

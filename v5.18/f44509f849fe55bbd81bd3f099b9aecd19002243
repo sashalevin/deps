@@ -1,0 +1,8 @@
+f44509f849fe ("KVM: x86: SVM: allow AVIC to co-exist with a nested guest running")
+0b349662184b ("KVM: x86: nSVM: implement nested vGIF")
+74fd41ed16fd ("KVM: x86: nSVM: support PAUSE filtering when L0 doesn't intercept PAUSE")
+d20c796ca370 ("KVM: x86: nSVM: implement nested LBR virtualization")
+1d5a1b5860ed ("KVM: x86: nSVM: correctly virtualize LBR msrs when L2 is running")
+ea91559b0054 ("KVM: x86: SVM: remove vgif_enabled()")
+db663af4a001 ("kvm: x86: SVM: use vmcb* instead of svm->vmcb where it makes sense")
+b9f3973ab3a8 ("KVM: x86: nSVM: implement nested VMLOAD/VMSAVE")

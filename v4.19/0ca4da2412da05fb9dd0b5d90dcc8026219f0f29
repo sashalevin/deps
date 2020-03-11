@@ -1,0 +1,4 @@
+0ca4da2412da ("perf: Make rb_alloc_aux() return an error immediately if nr_pages <= 0")
+d68e6799a5c8 ("perf: Cap allocation order at aux_watermark")
+26ae4f4406f8 ("perf/ring_buffer: Fix AUX software double buffering")
+5768402fd9c6 ("perf/ring_buffer: Use high order allocations for AUX buffers optimistically")

@@ -1,0 +1,4 @@
+a7031f145257 ("kernel/fork: stop playing lockless games for exe_file replacement")
+b452722e6ff3 ("exec: cleanup comments")
+fe69d560b5bd ("kernel/fork: always deny write access to current MM exe_file")
+35d7bdc86031 ("kernel/fork: factor out replacing the current MM exe_file")

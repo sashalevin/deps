@@ -1,0 +1,4 @@
+77292bb8ca69 ("crypto: scomp - remove memcpy if sg_nents is 1 and pages are lowmem")
+744e1885922a ("crypto: scomp - fix req->dst buffer overflow")
+71052dcf4be7 ("crypto: scompress - Use per-CPU struct instead multiple variables")
+6a4d1b18ef00 ("crypto: scompress - return proper error code for allocation failure")

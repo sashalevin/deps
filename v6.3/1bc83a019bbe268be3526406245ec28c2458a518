@@ -1,0 +1,8 @@
+1bc83a019bbe ("netfilter: nf_tables: discard table flag update with pending basechain deletion")
+1e1fb6f00f52 ("netfilter: nf_tables: reject table flag and netdev basechain updates")
+7eaf837a4eb5 ("netfilter: nf_tables: Fix a memory leak in nf_tables_updchain")
+c9bd26513b3a ("netfilter: nf_tables: disable toggling dormant table state more than once")
+42e344f01688 ("netfilter: nf_tables: Fix for deleting base chains with payload")
+7d937b107108 ("netfilter: nf_tables: support for deleting devices in an existing netdev chain")
+b9703ed44ffb ("netfilter: nf_tables: support for adding new devices to an existing netdev chain")
+28339b21a365 ("netfilter: nf_tables: do not send complete notification of deletions")

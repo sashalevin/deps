@@ -1,0 +1,5 @@
+ab22e2cbbccb ("SUNRPC: remove redundant pointer plainhdr")
+294ec5b87a8a ("sunrpc: convert to time64_t for expiry")
+c3be6577d82a ("SUNRPC: Use atomic(64)_t for seq_send(64)")
+21924765862a ("SUNRPC: use cmpxchg64() in gss_seq_send64_fetch_and_inc()")
+571ed1fd2390 ("SUNRPC: Replace krb5_seq_lock with a lockless scheme")

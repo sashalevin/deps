@@ -1,0 +1,6 @@
+34de8e6e0e1f ("bpftool: Fix NULL pointer dereference when pin {PROG, MAP, LINK} without FILE")
+75a1e792c335 ("tools: bpftool: Allow all prog/map handles for pinning objects")
+b3e78adcbf99 ("tools: bpftool: fix error message (prog -> object)")
+77380998d91d ("bpftool: add loadall command")
+882731e06c66 ("tools: bpftool: document restriction on '.' in names to pin in bpffs")
+b7d3826c2ed6 ("bpf: bpftool, add support for attaching programs to maps")

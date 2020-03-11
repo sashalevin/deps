@@ -1,0 +1,7 @@
+38124788350e ("Documentation: devres: add missing IIO helpers")
+25c02edfd41f ("iio: inkern: introduce devm_iio_map_array_register() short-hand function")
+e36db6a06937 ("iio: kfifo: add devm_iio_kfifo_buffer_setup() helper")
+608d98a2c4a0 ("iio: buffer: drop devm_iio_kfifo_free() API call")
+fc1f75a0347a ("iio: inkern: drop devm_iio_channel_release{_all} API calls")
+666e4de43d94 ("iio: core: drop devm_iio_triggered_buffer_cleanup() API call")
+89c16919a078 ("iio: Make possible to include driver.h first")

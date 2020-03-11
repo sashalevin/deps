@@ -1,0 +1,5 @@
+25091987c189 ("iio: adc: stm32-dfsdm-adc: make use of regmap_clear_bits(), regmap_set_bits()")
+a6096762e98b ("iio: adc: stm32-dfsdm: add support for scan mode")
+746485087371 ("iio: adc: stm32-dfsdm: move dma slave config to start routine")
+caf9c1e59809 ("iio: adc: stm32-dfsdm: move dma enable from start_conv() to start_dma()")
+6f2c4a59d9fc ("iio: adc: stm32-dfsdm: continuous mode depends on current mode")

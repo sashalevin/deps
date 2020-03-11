@@ -1,0 +1,6 @@
+9ed8ba5a6ea6 ("drm/bridge: it6505: switch to ->edid_read callback")
+11feaef69d0c ("drm/bridge: it6505: Add caching for EDID")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")

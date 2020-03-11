@@ -1,0 +1,7 @@
+7f1129d227ea ("io_uring: shuffle more fields into SQ ctx section")
+b52ecf8cb5b5 ("io_uring: move ctx->flags from SQ cacheline")
+c7af47cf0fab ("io_uring: keep SQ pointers in a single cacheline")
+d0acdee296d4 ("io_uring: don't bounce submit_state cachelines")
+ea5ab3b57983 ("io_uring: deduce cq_mask from cq_entries")
+b13a8918d395 ("io_uring: better locality for rsrc fields")
+b986af7e2df4 ("io_uring: shuffle rarely used ctx fields")

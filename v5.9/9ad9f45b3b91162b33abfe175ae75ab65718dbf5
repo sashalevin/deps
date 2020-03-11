@@ -1,0 +1,4 @@
+9ad9f45b3b91 ("iommu/vt-d: Move intel_iommu info from struct intel_svm to struct intel_svm_dev")
+eea4e29ab8be ("iommu/vt-d: Fix sid not set issue in intel_svm_bind_gpasid()")
+2a5054c6e7b1 ("iommu/vt-d: Change flags type to unsigned int in binding mm")
+c7b6bac9c72c ("drm, iommu: Change type of pasid to u32")

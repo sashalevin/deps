@@ -1,0 +1,5 @@
+90d2efe7bdbd ("rcu: Fix rcu_preempt_deferred_qs_irqrestore() strict QS reporting")
+cfeac3977ab4 ("rcu: Remove unused "cpu" parameter from rcu_report_qs_rdp()")
+aa40c138cc8f ("rcu: Report QS for outermost PREEMPT=n rcu_read_unlock() for strict GPs")
+3d29aaf1ef99 ("rcu: Provide optional RCU-reader exit delay for strict GPs")
+44bad5b3cca2 ("rcu: Do full report for .need_qs for strict GPs")

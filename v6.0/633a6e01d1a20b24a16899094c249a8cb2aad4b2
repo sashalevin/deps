@@ -1,0 +1,7 @@
+633a6e01d1a2 ("bpf, riscv: Implement PROBE_MEM32 pseudo instructions")
+48a8f78c50bd ("bpf, riscv: use prog pack allocator in the BPF JIT")
+3d06d8163f98 ("riscv, bpf: Support sign-extension load insns")
+c56fb2aab235 ("riscv, bpf: Fix inconsistent JIT image generation")
+49b5e77ae3e2 ("riscv, bpf: Add bpf trampoline support for RV64")
+596f2e6f9cf4 ("riscv, bpf: Add bpf_arch_text_poke support for RV64")
+b54b6003612a ("riscv, bpf: Emit fixed-length instructions for BPF_PSEUDO_FUNC")

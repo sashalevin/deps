@@ -1,0 +1,6 @@
+0bbb280d7b76 ("block: add bio_set_polled() helper")
+eae83ce10b47 ("block: wire up block device iopoll method")
+d34513d38448 ("block: for async O_DIRECT, mark us as polling if asked to")
+d1e36282b0bb ("block: add REQ_HIPRI and inherit it from IOCB_HIPRI")
+6533b4e40d8b ("iomap: use __bio_add_page in iomap_dio_zero")
+16382e17c0ff ("Merge branch 'work.iov_iter' of git://git.kernel.org/pub/scm/linux/kernel/git/viro/vfs")

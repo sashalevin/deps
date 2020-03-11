@@ -1,0 +1,6 @@
+868941b14441 ("fs: remove no_llseek")
+e7478158e137 ("fs: clear or set FMODE_LSEEK based on llseek function")
+a2ad63daa88b ("VFS: add FMODE_CAN_ODIRECT file flag")
+47e9624616c8 ("block: remove support for cryptoloop and the xor transfer")
+1dc1eed46f9f ("ovl: fix IOCB_DIRECT if underlying fs doesn't support direct IO")
+1c500ad70638 ("loop: reduce the loop_ctl_mutex scope")

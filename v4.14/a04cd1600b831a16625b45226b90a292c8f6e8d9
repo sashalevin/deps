@@ -1,0 +1,8 @@
+a04cd1600b83 ("mm: migrate: use thp_order instead of HPAGE_PMD_ORDER for new page allocation.")
+b4b382238ed2 ("mm/migrate: move migration helper from .h to .c")
+94723aafb9e7 ("mm: unclutter THP migration")
+666feb21a008 ("mm, migrate: remove reason argument from new_page_t")
+a49bd4d71637 ("mm, numa: rework do_pages_move")
+389c8178d090 ("hugetlb, mbind: fall back to default policy if vma is NULL")
+ebd637235890 ("hugetlb, mempolicy: fix the mbind hugetlb migration")
+40a899ed1648 ("mm: migrate: fix an incorrect call of prep_transhuge_page()")

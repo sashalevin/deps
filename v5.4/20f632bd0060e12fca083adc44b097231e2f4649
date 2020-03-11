@@ -1,0 +1,6 @@
+20f632bd0060 ("KVM: x86: Read and pass all CR0/CR4 role bits to shadow MMU helper")
+eb79cd00ce25 ("KVM: x86: Add more protection against undefined behavior in rsvd_bits()")
+5b51cb13160a ("KVM: SVM: Add support for CR4 write traps for an SEV-ES guest")
+f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")
+2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")
+c0623f5e5d21 ("Merge branch 'kvm-fixes' into 'next'")

@@ -1,0 +1,5 @@
+c5e2edeb01ae ("arm64: insn: Fix ldadd instruction encoding")
+34b8ab091f9e ("bpf, arm64: use more scalable stadd over ldxr / stxr loop in xadd")
+8968c67a82ab ("bpf, arm64: remove prefetch insn in xadd mapping")
+7005cade1bdb ("bpf, arm64: use separate register for state in stxr")
+85f68fe89832 ("bpf, arm64: implement jiting of BPF_XADD")

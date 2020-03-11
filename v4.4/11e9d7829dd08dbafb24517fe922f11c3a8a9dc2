@@ -1,0 +1,7 @@
+11e9d7829dd0 ("bonding: ratelimit failed speed/duplex update warning")
+3f3c278c94dd ("bonding: fix active-backup transition")
+b5bf0f5b16b9 ("bonding: correctly update link status during mii-commit phase")
+c4adfc822bf5 ("bonding: make speed, duplex setting consistent with link state")
+9856909c2abb ("net: bonding: use __ethtool_get_ksettings")
+266b495f11d6 ("bonding: don't use stale speed and duplex information")
+5d397061ca20 ("bonding: allow notifications for bond_set_slave_link_state")

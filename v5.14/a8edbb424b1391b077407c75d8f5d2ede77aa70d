@@ -1,0 +1,8 @@
+a8edbb424b13 ("io_uring/rsrc: enable multi-hugepage buffer coalescing")
+3d6106aee473 ("io_uring/rsrc: store folio shift and mask into imu")
+1943f96b3816 ("io_uring: unify io_pin_pages()")
+09fc75e0c035 ("io_uring: use vmap() for ring mapping")
+67d1189d1095 ("io_uring: Fix release of pinned pages when __io_uaddr_map fails")
+820d070feb66 ("io_uring: don't allow discontig pages for IORING_SETUP_NO_MMAP")
+d6fef34ee4d1 ("io_uring: fix off-by one bvec index")
+ffa059b262ba ("Merge tag 'for-6.7/io_uring-2023-10-30' of git://git.kernel.dk/linux")

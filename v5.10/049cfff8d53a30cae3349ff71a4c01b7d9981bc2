@@ -1,0 +1,5 @@
+049cfff8d53a ("drm/vc4: kms: Add missing drm_crtc_commit_put")
+8a11e84b8056 ("drm/vc4: fix vc4_atomic_commit_tail() logic")
+b99c2c95412c ("drm: Introduce a drm_crtc_commit_wait helper")
+9ec03d7f1ed3 ("drm/vc4: kms: Wait on previous FIFO users before a commit")
+d62a8ed7671e ("drm/vc4: Simplify a bit the global atomic_check")

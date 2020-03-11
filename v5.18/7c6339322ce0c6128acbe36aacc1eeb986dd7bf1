@@ -1,0 +1,7 @@
+7c6339322ce0 ("NFS: Fix O_DIRECT locking issues")
+954998b60caa ("NFS: Fix error handling for O_DIRECT write scheduling")
+70e9db69f927 ("NFS: Clean up O_DIRECT request allocation")
+ab75bff11407 ("NFS: Convert buffered reads to use folios")
+cbefa53cb1fe ("NFS: Convert the remaining pagelist helper functions to support folios")
+35c5db0ec49f ("NFS: Add basic functionality for tracking folios in struct nfs_page")
+0b768a9610c6 ("nfs: Leave pages in the pagecache if readpage failed")

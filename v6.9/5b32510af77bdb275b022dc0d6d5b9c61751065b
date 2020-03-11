@@ -1,0 +1,6 @@
+5b32510af77b ("arm64/mm: Add uffd write-protect support")
+55564814a838 ("arm64/mm: Move PTE_PRESENT_INVALID to overlay PTE_NG")
+f0f5863a0fb0 ("arm64/mm: Remove PTE_PROT_NONE bit")
+b28c74e25967 ("arm64/mm: generalize PMD_PRESENT_INVALID for all levels")
+1fcb7cea8a5f ("arm64: mm: Batch dsb and isb when populating pgtables")
+5c63db59c5f8 ("arm64: mm: Don't remap pgtables per-cont(pte|pmd) block")

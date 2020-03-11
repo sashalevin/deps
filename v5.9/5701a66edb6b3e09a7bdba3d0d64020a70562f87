@@ -1,0 +1,7 @@
+5701a66edb6b ("drm/i915: Redo "Remove i915_request.lock requirement for execution callbacks"")
+2e4c6c1a9db5 ("drm/i915: Remove i915_request.lock requirement for execution callbacks")
+e23005604b2f ("drm/i915/gt: Hold context/request reference while breadcrumbs are active")
+3f7dc1071665 ("drm/i915/gt: Move intel_breadcrumbs_arm_irq earlier")
+b3786b29379c ("drm/i915/gt: Distinguish the virtual breadcrumbs from the irq breadcrumbs")
+2854d866327a ("drm/i915/gt: Replace intel_engine_transfer_stale_breadcrumbs")
+c18636f76344 ("drm/i915: Remove requirement for holding i915_request.lock for breadcrumbs")

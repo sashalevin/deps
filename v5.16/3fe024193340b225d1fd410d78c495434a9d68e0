@@ -1,0 +1,7 @@
+3fe024193340 ("vdpa/mlx5: Correct default number of queues when MQ is on")
+acde3929492b ("vdpa/mlx5: Use consistent RQT size")
+ed0f849fc3a6 ("vdpa/mlx5: add validation for VIRTIO_NET_CTRL_MQ_VQ_PAIRS_SET command")
+b03fc43e7387 ("vdpa/mlx5: Fix tracking of current number of VQs")
+75560522eaef ("vdpa/mlx5: Support configuring max data virtqueue")
+e3137056e6de ("vdpa/mlx5: Fix config_attr_mask assignment")
+a7f46ba42485 ("vdpa/mlx5: Distribute RX virtqueues in RQT object")

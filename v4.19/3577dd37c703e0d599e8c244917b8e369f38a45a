@@ -1,0 +1,5 @@
+3577dd37c703 ("arm64/cpufeature: Add get_arm64_ftr_reg_nowarn()")
+eab2f9260746 ("arm64: cpufeature: Relax AArch32 system checks if EL1 is 64-bit only")
+1efcfe79d97d ("arm64: cpufeature: Factor out checking of AArch32 features")
+13dc4d836179 ("arm64: cpufeature: Remove redundant call to id_aa64pfr0_32bit_el0()")
+8e3747beff8c ("arm64: Introduce ID_ISAR6 CPU register")

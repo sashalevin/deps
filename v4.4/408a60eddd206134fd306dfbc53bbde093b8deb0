@@ -1,0 +1,4 @@
+408a60eddd20 ("mm/mmap.c: remove a never-triggered warning in __vma_adjust()")
+e86f15ee64d8 ("mm: vma_merge: fix vm_page_prot SMP race condition against rmap_walk")
+734537c9cb72 ("mm: fix use-after-free if memory allocation failed in vma_adjust()")
+37f9f5595c26 ("thp: run vma_adjust_trans_huge() outside i_mmap_rwsem")

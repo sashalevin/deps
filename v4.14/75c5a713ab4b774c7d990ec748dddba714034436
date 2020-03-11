@@ -1,0 +1,5 @@
+75c5a713ab4b ("efi/x86: Merge the setup_efi_pci32() and setup_efi_pci64() routines")
+90a2186b7df1 ("efi/x86: Clean up the eboot code")
+2c3625cb9fa2 ("efi/x86: Fold __setup_efi_pci32() and __setup_efi_pci64() into one function")
+cb0ba7935257 ("efi: Align efi_pci_io_protocol typedefs to type naming convention")
+0b3225ab9407 ("efi: Avoid potential crashes, fix the 'struct efi_pci_io_protocol_32' definition for mixed mode")

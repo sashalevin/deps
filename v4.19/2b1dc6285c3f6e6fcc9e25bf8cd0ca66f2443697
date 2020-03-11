@@ -1,0 +1,7 @@
+2b1dc6285c3f ("xfrm: pass struct net to xfrm_decode_session wrappers")
+6018a266279b ("ip_vti: fix potential slab-use-after-free in decode_session6")
+9fd41f1ba638 ("ip6_vti: fix slab-use-after-free in decode_session6")
+53223f2ed1ef ("xfrm: fix slab-use-after-free in decode_session6")
+885e8c68247c ("netfilter: nat: move nf_xfrm_me_harder to where it is used")
+b328ecc468f8 ("xfrm: Make the policy hold queue work with VTI.")
+9c5ed2f831c6 ("Merge branch 'master' of git://git.kernel.org/pub/scm/linux/kernel/git/klassert/ipsec")

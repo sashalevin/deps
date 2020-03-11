@@ -1,0 +1,6 @@
+b5ab3276eb69 ("f2fs: fix to avoid mmap vs set_compress_option case")
+a995627e6dd8 ("f2fs: allow to set compression for inlined file")
+912f0d6580e7 ("f2fs: do not set compression bit if kernel doesn't support")
+8ee236dcaa69 ("f2fs: fix to remove F2FS_COMPR_FL and tag F2FS_NOCOMP_FL at the same time")
+a8634ccf5d62 ("f2fs: allow compression of files without blocks")
+7165841d578e ("f2fs: fix to check inline_data during compressed inode conversion")

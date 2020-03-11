@@ -1,0 +1,6 @@
+b335e9d9944d ("vfs: fix vfs_clone_file_range() for overlayfs files")
+913b86e92e1f ("vfs: allow vfs_clone_file_range() across mount points")
+d79bdd52d8be ("vfs: wire up compat ioctl for CLONE/CLONE_RANGE")
+04b38d601239 ("vfs: pull btrfs clone API to vfs layer")
+3db11b2eecc0 ("btrfs: add .copy_file_range file operation")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

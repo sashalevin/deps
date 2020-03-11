@@ -1,0 +1,7 @@
+02fc40954030 ("cpufreq: qcom-hw: fix dereferencing freed memory 'data'")
+67fc209b527d ("cpufreq: qcom-hw: drop devm_xxx() calls from init/exit hooks")
+dcd1fd724c19 ("cpufreq: qcom-hw: Use of_device_get_match_data for offsets and row size")
+f17b3e44320b ("cpufreq: qcom-hw: Use devm_platform_ioremap_resource() to simplify code")
+bd74e286b354 ("cpufreq: qcom-hw: Make use of cpufreq driver_data for passing pdev")
+292072c38768 ("cpufreq: cached_resolved_idx can not be negative")
+51c843cf77bb ("cpufreq: qcom: Update the bandwidth levels on frequency change")

@@ -1,0 +1,7 @@
+67d2f8781b9f ("Bluetooth: hci_ldisc: Allow sleeping while proto locks are held.")
+dec2c92880cc ("Bluetooth: hci_ldisc: Use rwlocking to avoid closing proto races")
+2d6f1da168e1 ("Bluetooth: hci_ldisc: Add protocol check to hci_uart_tx_wakeup()")
+048e1bd3a27f ("Bluetooth: hci_ldisc: Add protocol check to hci_uart_dequeue()")
+ab00f89fdff6 ("Bluetooth: hci_ldisc: Add protocol check to hci_uart_send_frame()")
+84cb3df02aea ("Bluetooth: hci_ldisc: Fix null pointer derefence in case of early data")
+e6e981c74234 ("Bluetooth: hci_ldisc: Remove dead code")

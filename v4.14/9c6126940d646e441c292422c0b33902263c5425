@@ -1,0 +1,4 @@
+9c6126940d64 ("iio: imx7d_adc: Use devm_iio_device_register()")
+b846676066eb ("iio: imx7d_adc: Simplify imx7d_adc_remove() with imx7d_adc_suspend()")
+4fe86cdf927a ("iio: imx7d_adc: Simplify imx7d_adc_probe() with imx7d_adc_resume()")
+aa21a28e9050 ("iio: imx7d_adc: Add local struct device pointer in imx7d_adc_probe()")

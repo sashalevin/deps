@@ -1,0 +1,5 @@
+4e26ce423116 ("rcu/nocb: (De-)offload callbacks on offline CPUs only")
+7121dd915a26 ("rcu/nocb: Introduce nocb mutex")
+7be88a857eb8 ("rcu/nocb: Assert no callbacks while nocb kthread allocation fails")
+ff81428ede8a ("rcu/nocb: Move nocb field at the end of state struct")
+7aeba709a048 ("rcu/nocb: Introduce RCU_NOCB_LOCKDEP_WARN()")

@@ -1,0 +1,6 @@
+379c926d6334 ("powerpc/mm: move setting pte specific flags to pfn_pte")
+b12c07a4bb06 ("powerpc/mm: Reduce hugepd size for 8M hugepages on 8xx")
+06f525248701 ("powerpc/mm: Standardise pte_update() prototype between PPC32 and PPC64")
+1c1bf294882b ("powerpc/mm: Refactor pte_update() on book3s/32")
+2db99aeb63dd ("powerpc/mm: Refactor pte_update() on nohash/32")
+fadaac67c900 ("powerpc/mm: PTE_ATOMIC_UPDATES is only for 40x")

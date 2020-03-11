@@ -1,0 +1,5 @@
+f989d546a2d5 ("erspan: Add type I version 0 support.")
+2bdf700e5388 ("net: ip_gre: do not report erspan_ver for gre or gretap")
+feaf5c796b3f ("net: ip_gre: always reports o_key to userspace")
+cb73ee40b1b3 ("net: ip_gre: use erspan key field for tunnel lookup")
+20704bd1633d ("erspan: build the header with the right proto according to erspan_ver")

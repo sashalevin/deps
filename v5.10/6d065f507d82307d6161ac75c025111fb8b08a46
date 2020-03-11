@@ -1,0 +1,6 @@
+6d065f507d82 ("mm: /proc/pid/smaps_rollup: avoid skipping vma after getting mmap_lock again")
+250cb40f0afe ("task_mmu: convert to vma iterator")
+08ac85521cb2 ("mm: /proc/pid/smaps_rollup: fix maple tree search")
+c4c84f06285e ("fs/proc/task_mmu: stop using linked list and highest_vm_end")
+912efa17e512 ("mm: proc: Invalidate TLB after clearing soft-dirty page state")
+29a951dfb3c3 ("mm: fix clear_refs_write locking")

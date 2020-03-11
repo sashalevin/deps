@@ -1,0 +1,3 @@
+fe1f0714385f ("x86/resctrl: Fix task CLOSID/RMID update race")
+e0ad6dc8969f ("x86/resctrl: Use task_curr() instead of task_struct->on_cpu to prevent unnecessary IPI")
+ae28d1aae48a ("x86/resctrl: Use an IPI instead of task_work_add() to update PQR_ASSOC MSR")

@@ -1,0 +1,5 @@
+f895e3db65a4 ("drm/i915: Move psr unlock out from the pipe update critical section")
+2e08437160d1 ("drm/i915: Fix the async flip wm0/ddb optimization")
+c17897428e1d ("drm/i915: Move intel_plane_atomic_calc_changes() & co. out")
+c3639f3be480 ("drm/i915: Use wm0 only during async flips for DG2")
+20f6ac2d5e00 ("drm/i915: Introduce do_async_flip flag to intel_plane_state")

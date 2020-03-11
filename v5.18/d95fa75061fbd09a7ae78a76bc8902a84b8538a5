@@ -1,0 +1,6 @@
+d95fa75061fb ("net: dsa: if ds->setup is true, ds->devlink is always non-NULL")
+c698a5fbf7fd ("net: dsa: don't do devlink port setup early")
+d82acd85cc41 ("net: dsa: move port_setup/teardown to be called outside devlink port registered area")
+770375ff3311 ("net: dsa: rename dsa_port_link_{,un}register_of")
+da2c398e59d6 ("net: dsa: avoid dsa_port_link_{,un}register_of() calls with platform data")
+fe7324b93222 ("net: dsa: OF-ware slave_mii_bus")

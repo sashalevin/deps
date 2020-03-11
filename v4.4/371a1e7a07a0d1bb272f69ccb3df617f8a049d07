@@ -1,0 +1,5 @@
+371a1e7a07a0 ("s390/qeth: increase GSO max size for eligible L3 devices")
+0cbff6d45466 ("s390/qeth: build max size GSO skbs on L2 devices")
+243f750fc6f5 ("qeth: do not limit number of gso segments")
+d52aec97e5bc ("qeth: enable scatter/gather in layer 2 mode")
+8bad55f8cedb ("qeth: fill netdevice->gso_* attributes accurately")

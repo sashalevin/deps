@@ -1,0 +1,5 @@
+d9463201ec08 ("pinctrl: stm32: Replace custom code by gpiochip_node_count() call")
+97cfb6cd34f2 ("pinctrl: stm32: protect configuration registers with a hwspinlock")
+17cf082d6d0d ("pinctrl: stm32: check node status before new gpio bank registering")
+1dc9d289154b ("pinctrl: stm32: add possibility to use gpio-ranges to declare bank range")
+dca72e09e0cd ("pinctrl: stm32: fix bad location of gpiochip_lock_as_irq")

@@ -1,0 +1,3 @@
+1ccf164ec866 ("block: Use iov_iter_extract_pages() and page pinning in direct-io.c")
+e51bab4e2058 ("block: Replace BIO_NO_PAGE_REF with BIO_PAGE_REFFED with inverted logic")
+a450f49708ea ("iomap: Don't get an reference on ZERO_PAGE for direct I/O block zeroing")

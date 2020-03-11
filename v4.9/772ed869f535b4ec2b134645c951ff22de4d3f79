@@ -1,0 +1,7 @@
+772ed869f535 ("net: ena: fix surprise unplug NULL dereference kernel crash")
+dbeaf1e3c24f ("net: ena: remove legacy suspend suspend/resume support")
+82ef30f13be0 ("net: ena: add hardware hints capability to the driver")
+800c55cb76be ("net: ena: bug fix in lost tx packets detection mechanism")
+a77c1aafcc90 ("net: ena: fix rare uncompleted admin command false alarm")
+3f6159dbfc24 ("net/ena: fix potential access to freed memory during device reset")
+22b331c9e0a3 ("net/ena: fix NULL dereference when removing the driver after device reset failed")

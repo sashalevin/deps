@@ -1,0 +1,5 @@
+4b947b1c5a26 ("drm: Replace kzalloc with kcalloc")
+93f55972bc0f ("drm/crtc: only store the necessary data for set_config rollback")
+fffc5f59f2c6 ("drm/crtc: fix connector reference counting mismatch in drm_crtc_helper_set_config")
+255f0e7c418a ("drm/fb_helper: Fix references to dev->mode_config.num_connector")
+0955c1250e96 ("drm/crtc: take references to connectors used in a modeset. (v2)")

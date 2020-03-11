@@ -1,0 +1,4 @@
+afc23febd51c ("cifs: Add tracing for the cifs_tcon struct refcounting")
+dad80c6bff77 ("cifs: Fix reacquisition of volume cookie on still-live connection")
+062a7f0ff46e ("smb: client: guarantee refcounted children from parent session")
+24a9799aa8ef ("smb: client: fix UAF in smb2_reconnect_server()")

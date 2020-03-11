@@ -1,0 +1,7 @@
+4f74d15fe408 ("ext4: add inline encryption support")
+9cb20f94afcd ("fs/ext4: Make DAX mount option a tri-state")
+a8ab6d3885ef ("fs/ext4: Update ext4_should_use_dax()")
+fc626fe322f1 ("fs/ext4: Change EXT4_MOUNT_DAX to EXT4_MOUNT_DAX_ALWAYS")
+fd5fe2535642 ("ext4: remove unneeded check for error allocating bio_post_read_ctx")
+5500221ea1b7 ("ext4: bio_alloc with __GFP_DIRECT_RECLAIM never fails")
+31fb992ce675 ("fs/buffer.c: support fscrypt in block_read_full_page()")

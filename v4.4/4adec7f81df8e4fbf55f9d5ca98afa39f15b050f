@@ -1,0 +1,7 @@
+4adec7f81df8 ("rhashtable: avoid -Wrestrict warning on overlapping sprintf output")
+499ac3b60f65 ("test_rhashtable: add test case for rhltable with duplicate objects")
+7e936bd73483 ("test_rhashtable: don't allocate huge static array")
+e859afe1ee0c ("lib: test_rhashtable: fix for large entry counts")
+d662e037fc88 ("rhashtable-test: allow to retry even if -ENOMEM was returned")
+9e9089e5a2d7 ("rhashtable-test: retry insert operations")
+cd5b318daf4a ("rhashtable-test: add cond_resched() to thread test")

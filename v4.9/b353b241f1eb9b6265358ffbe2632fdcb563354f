@@ -1,0 +1,6 @@
+b353b241f1eb ("net: fec: Use a spinlock to guard `fep->ptp_clk_on`")
+6a4d7234ae9a ("net: fec: ptp: avoid register access when ipg clock is disabled")
+992bae7e429c ("net: fec: ptp: remove unused variable 'ns' in fec_time_keep()")
+a74d19ba7c41 ("net: fec: disable correct clk in the err path of fec_enet_clk_enable")
+4ad1ceec05e4 ("net: fec: Let fec_ptp have its own interrupt routine")
+e24ee2780a1d ("net: fec: return IRQ_HANDLED if fec_ptp_check_pps_event handled it")

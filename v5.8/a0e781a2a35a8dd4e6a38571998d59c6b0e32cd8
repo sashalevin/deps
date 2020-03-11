@@ -1,0 +1,5 @@
+a0e781a2a35a ("sparc: syscalls: use pattern rules to generate syscall headers")
+c5849b7c206b ("sparc: syscalls: switch to generic syscallshdr.sh")
+5ad4e94b46a6 ("sparc: syscalls: switch to generic syscalltbl.sh")
+29c5c3ac6331 ("arch: syscalls: remove $(srctree)/ prefix from syscall tables")
+865fa29f7dd1 ("arch: syscalls: add missing FORCE and fix 'targets' to make if_changed work")

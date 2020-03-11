@@ -1,0 +1,6 @@
+442b6e8e03e4 ("powerpc/64s: Rename slb_miss_realmode() to slb_miss_common()")
+b102063b47d5 ("powerpc/64s: Use BRANCH_TO_COMMON() for slb_miss_realmode")
+fe5482c04312 ("powerpc/64s: SLB miss already has CTR saved for relocatable kernel")
+1a6822d194c3 ("powerpc/64s: Use (start, size) rather than (start, end) for exception handlers")
+852e5da99d15 ("powerpc/64s: Tidy up after exception handler rework")
+f4329f2ecb14 ("powerpc/64s: Reduce exception alignment")

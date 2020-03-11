@@ -1,0 +1,4 @@
+3123ac779233 ("nbd: factor out a helper to get nbd_config without holding 'config_lock'")
+1b59860540a4 ("nbd: fold nbd config initialization into nbd_alloc_config()")
+d32e2bf83791 ("block: pass a gendisk to ->open")
+444aa2c58cb3 ("block: pass a gendisk on bdev_check_media_change")

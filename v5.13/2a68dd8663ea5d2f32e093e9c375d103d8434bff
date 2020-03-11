@@ -1,0 +1,5 @@
+2a68dd8663ea ("can: mcp251xfd: add support for internal PLL")
+e39ea1360ca7 ("can: mcp251xfd: mcp251xfd_chip_clock_init(): prepare for PLL support, wait for OSC ready")
+14193ea2bfee ("can: mcp251xfd: mcp251xfd_chip_timestamp_init(): factor out into separate function")
+1ba3690fa2c6 ("can: mcp251xfd: mcp251xfd_chip_sleep(): introduce function to bring chip into sleep mode")
+74f89cf17e44 ("can: mcp251xfd: mcp251xfd_probe(): try to get crystal clock rate from property")

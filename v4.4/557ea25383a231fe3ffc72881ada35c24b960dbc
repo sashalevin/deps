@@ -1,0 +1,7 @@
+557ea25383a2 ("kasan, slab: remove redundant kasan_slab_alloc hooks")
+0116523cfffa ("kasan, mm: change hooks signatures")
+1db0e0f9dd98 ("kasan: unify code between kasan_slab_free() and kasan_poison_kfree()")
+6860f6340c09 ("kasan: detect invalid frees for large mempool objects")
+ee3ce779b58c ("kasan: don't use __builtin_return_address(1)")
+47adccce3e8a ("kasan: detect invalid frees for large objects")
+de4d195308ad ("Merge branch 'core-rcu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

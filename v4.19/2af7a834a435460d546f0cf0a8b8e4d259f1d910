@@ -1,0 +1,4 @@
+2af7a834a435 ("vfio-ccw: Serialize FSM IDLE state with I/O completion")
+f4c9939433bd ("vfio-ccw: Don't call cp_free if we are processing a channel program")
+4e31d6aecfbb ("s390/cio: Set vfio-ccw FSM state before ioeventfd")
+50b7f1b7236b ("vfio: ccw: only free cp on final interrupt")

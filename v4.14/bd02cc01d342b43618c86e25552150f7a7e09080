@@ -1,0 +1,5 @@
+bd02cc01d342 ("mm/memory_hotplug: make sure the pfn is aligned to the order when onlining")
+b2c2ab208e4f ("mm/memory_hotplug: simplify online_pages_range()")
+5ecae6359e3a ("mm/memory_hotplug: drop PageReserved() check in online_pages_range()")
+a9cd410a3d29 ("mm/page_alloc.c: memory hotplug: free pages as higher order")
+4f098af514d2 ("hv_balloon: simplify hv_online_page()/hv_page_online_one()")

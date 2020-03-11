@@ -1,0 +1,7 @@
+c07e6719511e ("io_uring: hold uring_lock while completing failed polled io in io_wq_submit_work()")
+dad1b1242fd5 ("io_uring: always let io_iopoll_complete() complete polled io")
+e1e16097e265 ("io_uring: provide generic io_req_complete() helper")
+b63534c41e20 ("io_uring: re-issue block requests that failed because of resources")
+4503b7676a2e ("io_uring: catch -EIO from buffered issue request failure")
+9d8426a09195 ("io_uring: acquire 'mm' for task_work for SQPOLL")
+b961f8dc8976 ("Merge tag 'io_uring-5.8-2020-06-11' of git://git.kernel.dk/linux-block")

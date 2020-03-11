@@ -1,0 +1,4 @@
+eea96a3e2c90 ("net/tcp: don't peek at tail for io_uring zc")
+eb315a7d1396 ("tcp: support externally provided ubufs")
+f8d9d938514f ("tcp: take care of mixed splice()/sendmsg(MSG_ZEROCOPY) case")
+479f5547239d ("tcp: fix mem under-charging with zerocopy sendmsg()")

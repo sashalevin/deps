@@ -1,0 +1,4 @@
+c33ee15b3820 ("tun: free skb in early errors")
+9484dc74fcf0 ("tun: delete original tun_get() and rename __tun_get() to tun_get()")
+ac77cfd4258f ("tun: support receiving skb through msg_control")
+0f16bc1355ba ("driver: tun: Move tun check into the block of TUNSETIFF condition check")

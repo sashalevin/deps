@@ -1,0 +1,6 @@
+9fcf78cca198 ("apparmor: update domain transitions that are subsets of confinement at nnp")
+de62de59c278 ("apparmor: move task related defines and fns to task.X files")
+f175221af35b ("apparmor: rename tctx to ctx")
+d9087c49d438 ("apparmor: drop cred_ctx and reference the label directly")
+3b529a7600d8 ("apparmor: move task domain change info to task security")
+4d2f8ba3e3b7 ("apparmor: rename task_ctx to the more accurate cred_ctx")

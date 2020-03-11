@@ -1,0 +1,6 @@
+3a874488d2e9 ("scsi: lpfc: Fix rediscovery of tape device after LIP")
+0614568361b0 ("scsi: lpfc: Delay unregistering from transport until GIDFT or ADISC completes")
+243156c0108d ("scsi: lpfc: Fix crash when nvmet transport calls host_release")
+31051249f12e ("scsi: lpfc: Fix target reset failing")
+da09ae4864e1 ("scsi: lpfc: Fix error log messages being logged following SCSI task mgnt")
+07aaefdf75c5 ("scsi: lpfc: Fix crash when a fabric node is released prematurely")

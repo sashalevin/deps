@@ -1,0 +1,3 @@
+6ebfede8d57a ("cifs: Pass unbyteswapped eof value into SMB2_set_eof()")
+88010155f02b ("cifs: Fix FALLOC_FL_INSERT_RANGE by setting i_size after EOF moved")
+83d5518b124d ("cifs: Fix FALLOC_FL_ZERO_RANGE by setting i_size if EOF moved")

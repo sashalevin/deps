@@ -1,0 +1,5 @@
+168b84d5d2c0 ("MIPS: Fix access_ok() for the last byte of user space")
+04324f44cb69 ("MIPS: Remove get_fs/set_fs")
+08ee3a009f49 ("MIPS: uaccess: Added __get/__put_kernel_nofault")
+a1515ec7204e ("MIPS: Remove KVM_GUEST support")
+fd624c712dfc ("mips: KVM_GUEST makes no sense for 64bit builds...")

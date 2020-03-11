@@ -1,0 +1,5 @@
+6e6ec5848574 ("KVM: x86/mmu: Ensure MMU pages are available when allocating roots")
+748e52b9b736 ("KVM: x86/mmu: Allocate pae_root and lm_root pages in dedicated helper")
+ba0a194ffbfb ("KVM: x86/mmu: Allocate the lm_root before allocating PAE roots")
+b37233c911cb ("KVM: x86/mmu: Capture 'mmu' in a local variable when allocating roots")
+04d45551a1ee ("KVM: x86/mmu: Alloc page for PDPTEs when shadowing 32-bit NPT with 64-bit")

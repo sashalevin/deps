@@ -1,0 +1,3 @@
+405329fc9aee ("KVM: SVM: include CR3 in initial VMSA state for SEV-ES guests")
+3883bc9d28ed ("KVM: X86: Mark CR3 dirty when vcpu->arch.cr3 is changed")
+2a32a77cefa6 ("KVM: SVM: merge update_cr0_intercept into svm_set_cr0")

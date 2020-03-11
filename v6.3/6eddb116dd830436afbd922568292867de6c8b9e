@@ -1,0 +1,8 @@
+6eddb116dd83 ("sched/headers: Standardize the <linux/sched/vhost_task.h> header guard name")
+f9010dbdce91 ("fork, vhost: Use CLONE_THREAD to fix freezer/ps regression")
+6e890c5d5021 ("vhost: use vhost_tasks for worker threads")
+1a5f8090c6de ("vhost: move worker thread fields to new struct")
+e297cd54b3f8 ("vhost_task: Allow vhost layer to use copy_process")
+11f3f500ec8a ("fork: add kernel_clone_args flag to not dup/clone files")
+54e6842d0775 ("fork/vm: Move common PF_IO_WORKER behavior to new flag")
+c81cc5819faf ("kernel: Make io_thread and kthread bit fields")

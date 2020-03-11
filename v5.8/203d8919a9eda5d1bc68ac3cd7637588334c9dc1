@@ -1,0 +1,5 @@
+203d8919a9ed ("x86/asm: Merge load_gs_index()")
+3a24a60854d2 ("x86/32: Remove lazy GS macros")
+50b7b6f29de3 ("x86/process: setup io_threads more like normal user space threads")
+3fb0fdb3bbe7 ("x86/stackprotector/32: Make the canary into a regular percpu variable")
+c9a1ff316bc9 ("x86/stackprotector: Pre-initialize canary for secondary CPUs")

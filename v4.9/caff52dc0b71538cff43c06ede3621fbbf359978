@@ -1,0 +1,4 @@
+caff52dc0b71 ("powerpc/kvm: Add ifdefs around template code")
+0cb0837f9db1 ("powerpc/kvm: Move kvm_tmp into .text, shrink to 64K")
+298a32b13208 ("kmemleak: powerpc: skip scanning holes in the .bss section")
+906f2a51c941 ("mm: fix section name for .data..ro_after_init")

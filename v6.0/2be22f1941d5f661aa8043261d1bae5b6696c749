@@ -1,0 +1,7 @@
+2be22f1941d5 ("Bluetooth: hci_event: Fix parsing of CIS Established Event")
+0fe8c8d07134 ("Bluetooth: Split bt_iso_qos into dedicated structures")
+506d9b4099a0 ("Bluetooth: ISO: Fix possible circular locking dependency")
+37224a290853 ("Bluetooth: Use kzalloc instead of kmalloc/memset")
+d11ab690c300 ("Bluetooth: hci_conn: use HCI dst_type values also for BIS")
+7e7df2c10c92 ("Bluetooth: hci_conn: add missing hci_dev_put() in iso_listen_bis()")
+ed680f925aea ("Bluetooth: hci_event: Make sure ISO events don't affect non-ISO connections")

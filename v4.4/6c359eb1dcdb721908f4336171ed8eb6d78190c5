@@ -1,0 +1,5 @@
+6c359eb1dcdb ("MIPS: Allow auto-dection of ARCH_PFN_OFFSET & PHYS_OFFSET")
+67a3ba25aa95 ("MIPS: Fix incorrect mem=X@Y handling")
+73fbc1eba7ff ("MIPS: fix mem=X@Y commandline processing")
+d9b5b658210f ("MIPS: init: Ensure bootmem does not corrupt reserved memory")
+16a767ec6316 ("MIPS: Fix max_low_pfn with disabled highmem")

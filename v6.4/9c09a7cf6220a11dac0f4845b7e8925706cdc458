@@ -1,0 +1,6 @@
+9c09a7cf6220 ("fs: stop using get_super in fs_mark_dead")
+87efb39075be ("fs: add a method to shut down the file system")
+0718afd47f70 ("block: introduce holder ops")
+74e6464a987b ("block: turn bdev_lock into a mutex")
+ae5f855ead6b ("block: refactor bd_may_claim")
+0783b1a7cbd9 ("block: factor out a bd_end_claim helper from blkdev_put")

@@ -1,0 +1,4 @@
+59d6f72f6f9c ("rpmsg: qcom_smd: Fix returning 0 if irq_of_parse_and_map() fails")
+e69ee0cf655e ("rpmsg: smd: Fix a kobj leak in in qcom_smd_parse_edge()")
+ab460a2e72da ("rpmsg: qcom_smd: Access APCS through mailbox framework")
+be5acd246daa ("rpmsg: smd: use put_device() if device_register fail")

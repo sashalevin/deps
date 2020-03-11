@@ -1,0 +1,7 @@
+5aa57d9f2d53 ("af_unix: Don't return OOB skb in manage_oob().")
+a0264a9f51fe ("af_unix: Move spin_lock() in manage_oob().")
+beb2c5f19b6a ("af_unix: Rename unlinked_skb in manage_oob().")
+579770dd8985 ("af_unix: Remove single nest in manage_oob().")
+8594d9b85c07 ("af_unix: Don't call skb_get() for OOB skb.")
+638f32604385 ("af_unix: Disable MSG_OOB handling for sockets in sockmap/sockhash")
+193b9b200224 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

@@ -1,0 +1,4 @@
+c6dcd8050fb7 ("serial: apbuart: fix console prompt on qemu")
+d11cc8c3c4b6 ("tty: serial: use uart_port_tx_limited()")
+523f54ed3be7 ("tty: serial: unify TX space reads under altera_jtaguart_tx_space()")
+7ef26ab6feea ("tty: serial: extract serial_omap_put_char() from transmit_chars()")

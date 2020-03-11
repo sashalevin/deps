@@ -1,0 +1,5 @@
+3baca1a4d490 ("RISC-V: Add mvendorid, marchid, and mimpid to /proc/cpuinfo output")
+a9b202606c69 ("RISC-V: Improve /proc/cpuinfo output for ISA extensions")
+73c7c8f68e72 ("riscv: Use pgtable_l4_enabled to output mmu_type in cpuinfo")
+6bcff51539cc ("RISC-V: Add bitmap reprensenting ISA features common across CPUs")
+1edd28b7e85d ("RISC-V: Remove unsupported isa string info print")

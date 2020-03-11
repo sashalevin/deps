@@ -1,0 +1,8 @@
+c76c6c4ecbec ("ARM: 9294/2: vfp: Fix broken softirq handling with instrumentation enabled")
+3a2bdad0b466 ("ARM: 9293/1: vfp: Pass successful return address via register R3")
+dae904d96ad6 ("ARM: 9292/1: vfp: Pass thread_info pointer to vfp_support_entry")
+62b95a7b44d1 ("ARM: 9282/1: vfp: Manipulate task VFP state with softirqs disabled")
+3cce9d44321e ("ARM: 9044/1: vfp: use undef hook for VFP support detection")
+f77ac2e378be ("ARM: 9030/1: entry: omit FP emulation for UND exceptions taken in kernel mode")
+2cbd1cc3dcd3 ("ARM: 8991/1: use VFP assembler mnemonics if available")
+8a90a3228b6a ("arm: Unplug KVM from the build system")

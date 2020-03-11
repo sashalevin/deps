@@ -1,0 +1,6 @@
+711e8b0de0d6 ("arm64: scs: Use 'scs_sp' register alias for x18")
+51189c7a7ed1 ("arm64: scs: Store absolute SCS stack pointer value in thread_info")
+439dc2a11727 ("arm64: scs: Add shadow stacks for SDEI")
+5287569a790d ("arm64: Implement Shadow Call Stack")
+628d06a48f57 ("scs: Add page accounting for shadow call stack allocations")
+d08b9f0ca660 ("scs: Add support for Clang's Shadow Call Stack (SCS)")

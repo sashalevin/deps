@@ -1,0 +1,8 @@
+91308019ecb4 ("crypto: atmel-aes - properly set IV after {en,de}crypt")
+89a82ef87e01 ("crypto: atmel-authenc - add support to authenc(hmac(shaX), Y(aes)) modes")
+81d8750b2b59 ("crypto: atmel-sha - add support to hmac(shaX)")
+eec12f66b02c ("crypto: atmel-sha - add atmel_sha_cpu_start()")
+f07cebad63b2 ("crypto: atmel-sha - redefine SHA_FLAGS_SHA* flags to match SHA_MR_ALGO_SHA*")
+b5ce82a7b493 ("crypto: atmel-sha - make atmel_sha_done_task more generic")
+a29af939b24d ("crypto: atmel-sha - update request queue management to make it more generic")
+d52db5188a87 ("crypto: atmel-aes - add support to the XTS mode")

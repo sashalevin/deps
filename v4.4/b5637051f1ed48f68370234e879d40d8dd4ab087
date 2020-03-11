@@ -1,0 +1,4 @@
+b5637051f1ed ("drm/amdgpu: make amdgpu_mn_get wait for mmap_sem killable")
+b8ea37834675 ("drm/amdgpu: Fix race condition in amdgpu_mn_unregister")
+fa5b50003081 ("drm/amdgpu: Fix race condition in MMU notifier release")
+c41d271d751e ("drm/amdgpu: remove the userptr rmn->lock")

@@ -1,0 +1,7 @@
+2c402bd2e85b ("cxl/test: Skip cxl_setup_parent_dport() for emulated dports")
+117132edc690 ("cxl/test: Add support for qos_class checking")
+eb4663b07e13 ("cxl/acpi: Probe RCRB later during RCH downstream port creation")
+b777e9bec960 ("cxl/hdm: Emulate HDM decoder from DVSEC range registers")
+9de321e93c3b ("cxl/pci: Refactor cxl_hdm_decode_init()")
+59c3368b2e69 ("cxl/port: Export cxl_dvsec_rr_decode() to cxl_port")
+1acba6e9206c ("cxl/pci: Break out range register decoding from cxl_hdm_decode_init()")

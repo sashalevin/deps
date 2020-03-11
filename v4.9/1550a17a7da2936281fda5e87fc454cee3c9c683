@@ -1,0 +1,8 @@
+1550a17a7da2 ("ACPI: NFIT: Drop nfit_device_lock()")
+87a30e1f05d7 ("driver-core, libnvdimm: Let device subsystems add local lockdep coverage")
+ca6bf264f6d8 ("libnvdimm/bus: Fix wait_nvdimm_bus_probe_idle() ABBA deadlock")
+b70d31d054ee ("libnvdimm/bus: Stop holding nvdimm_bus_list_mutex over __nd_ioctl()")
+6de5d06e657a ("libnvdimm/bus: Prepare the nd_ioctl() path to be re-entrant")
+8aac0e233891 ("libnvdimm/bus: Prevent duplicate device_unregister() calls")
+159ef31e81ed ("device.h: reorganize struct device")
+5ea6718b1f1b ("Merge tag 'libnvdimm-for-5.1' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

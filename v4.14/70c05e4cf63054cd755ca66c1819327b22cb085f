@@ -1,0 +1,5 @@
+70c05e4cf630 ("xhci: fix runtime PM imbalance in USB2 resume")
+a231ec41e6f6 ("xhci: refactor U0 link state handling in get_port_status")
+3c2ddb449a91 ("xhci: cleanup code that sets portstatus and portchange bits")
+70e9b53dfedc ("xhci: move usb2 speficic bits to own function in get_port_status call")
+5f78a54f8d31 ("xhci: move usb3 speficic bits to own function in get_port_status call")

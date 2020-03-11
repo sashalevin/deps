@@ -1,0 +1,8 @@
+21733f5902be ("firmware: turris-mox-rwtm: Use container_of() instead of hwrng .priv member")
+16bdbae39428 ("hwrng: core - treat default_quality as a maximum and default to 1024")
+f07b3e87fe62 ("hwrng: npcm - Add NPCM8XX support")
+716a757c83ad ("hwrng: mpfs - add polarfire soc hwrng support")
+f0fb6953b39e ("hwrng: core - use per-rng quality value instead of global setting")
+077bb7a1baec ("hwrng: core - start and stop in-kernel rngd in separate function")
+a43bed8220f2 ("hwrng: core - credit entropy for low quality sources of randomness")
+38e9791a0209 ("hwrng: cn10k - Add random number generator support")

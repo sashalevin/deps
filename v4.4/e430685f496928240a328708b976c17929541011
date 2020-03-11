@@ -1,0 +1,7 @@
+e430685f4969 ("ARM: davinci: mityomapl138: use device properties for at24 eeprom")
+2f983f8c9417 ("ARM: davinci: mityomapl138: use nvmem notifiers")
+5e4ac9274b0b ("ARM: davinci: mityomapl138: don't read the MAC address from machine code")
+32feb9481ffd ("ARM: davinci: mityomapl138: use cell nvmem lookup for mac address")
+bec3c11bad0e ("misc: at24: replace memory_accessor with nvmem_device_read")
+57d155506dd5 ("eeprom: at24: extend driver to plug into the NVMEM framework")
+092462c2b522 ("misc: eeprom: use kobj_to_dev()")

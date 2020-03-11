@@ -1,0 +1,8 @@
+6035152d8eeb ("x86/mm/tlb: Open-code on_each_cpu_cond_mask() for tlb_is_not_lazy()")
+4c1ba3923e6c ("x86/mm/tlb: Unify flush_tlb_func_local() and flush_tlb_func_remote()")
+29def599b38b ("x86/tlb: Move flush_tlb_others() out of line")
+58430c5dba7b ("x86/tlb: Move __flush_tlb_one_kernel() out of line")
+127ac915c8e1 ("x86/tlb: Move __flush_tlb_one_user() out of line")
+cd30d26cf307 ("x86/tlb: Move __flush_tlb_global() out of line")
+2faf153bb734 ("x86/tlb: Move __flush_tlb() out of line")
+8c5cc19e9470 ("x86/tlb: Uninline __get_current_cr3_fast()")

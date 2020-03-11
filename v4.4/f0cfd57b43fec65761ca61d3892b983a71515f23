@@ -1,0 +1,8 @@
+f0cfd57b43fe ("crypto: rockchip - update IV buffer to contain the next IV")
+c1c214adcb56 ("crypto: rockchip - update new iv to device in multiple operations")
+5a7801f6634b ("crypto: rockchip - Don't dequeue the request when device is busy")
+9a42e4eed3fc ("crypto: rockchip - return the err code when unable dequeue the crypto request")
+641eacd15696 ("crypto: rockchip - move the crypto completion from interrupt context")
+bfd927ffa219 ("crypto: rockchip - add hash support for crypto engine in rk3288")
+ac7c8e6b6dc9 ("crypto: rockchip - fix possible deadlock")
+433cd2c617bf ("crypto: rockchip - add crypto driver for rk3288")

@@ -1,0 +1,6 @@
+30846df06f93 ("NFSv4: Don't request size+change attribute if they are delegated to us")
+29b59f941693 ("NFSv4: change nfs4_do_setattr to take an open_context instead of a nfs4_state.")
+8487c479e266 ("NFSv4: Allow retry of operations that used a returned delegation stateid")
+abf4e13cc1e1 ("NFSv4: Use the right stateid for delegations in setattr, read and write")
+a1d1c4f11adf ("nfs4: client: do not send empty SETATTR after OPEN_CREATE")
+48c9579a1afe ("Adding stateid information to tracepoints")

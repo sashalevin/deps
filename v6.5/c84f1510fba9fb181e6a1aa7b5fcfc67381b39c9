@@ -1,0 +1,5 @@
+c84f1510fba9 ("ext4: convert ac_buddy_page to ac_buddy_folio")
+ccedf35b5daa ("ext4: convert ac_bitmap_page to ac_bitmap_folio")
+5eea586b47f0 ("ext4: convert bd_buddy_page to bd_buddy_folio")
+99b150d84e49 ("ext4: convert bd_bitmap_page to bd_bitmap_folio")
+f2fec3e99a32 ("ext4: delete redundant calculations in ext4_mb_get_buddy_page_lock()")

@@ -1,0 +1,8 @@
+ca68b374d040 ("perf stat: Add struct perf_stat_aggr to perf_stat_evsel")
+429b8e84517b ("perf stat: Don't call perf_stat_evsel_id_init() repeatedly")
+66b76e30ee36 ("perf stat: Convert perf_stat_evsel.res_stats array")
+2ca0a3718da2 ("perf evsel: Derive CPUs and threads in alloc_counts")
+7d1e239e911f ("perf counts: Rename perf_evsel__*counts() to evsel__*counts()")
+5eb88f0476ab ("perf evsel: Rename perf_evsel__nr_cpus() to evsel__nr_cpus()")
+1af62ce61cd8 ("perf stat: Show percore counts in per CPU output")
+dd071024bf52 ("perf stat: Support --all-kernel/--all-user")

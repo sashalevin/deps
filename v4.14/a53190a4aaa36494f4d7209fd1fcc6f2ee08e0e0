@@ -1,0 +1,8 @@
+a53190a4aaa3 ("mm: mempolicy: handle vma with unmovable pages mapped correctly in mbind")
+d883544515aa ("mm: mempolicy: make the behavior consistent when MPOL_MF_MOVE* and MPOL_MF_STRICT were specified")
+a7f40cfe3b7a ("mm: mempolicy: make mbind() return -EIO when MPOL_MF_STRICT is specified")
+94723aafb9e7 ("mm: unclutter THP migration")
+666feb21a008 ("mm, migrate: remove reason argument from new_page_t")
+a49bd4d71637 ("mm, numa: rework do_pages_move")
+389c8178d090 ("hugetlb, mbind: fall back to default policy if vma is NULL")
+ebd637235890 ("hugetlb, mempolicy: fix the mbind hugetlb migration")

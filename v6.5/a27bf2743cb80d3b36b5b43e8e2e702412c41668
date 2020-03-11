@@ -1,0 +1,8 @@
+a27bf2743cb8 ("iommu: Add iommu_paging_domain_alloc() interface")
+8359cf39acba ("iommu: Add __iommu_group_domain_alloc()")
+1c68cbc64fe6 ("iommu: Add IOMMU_DOMAIN_PLATFORM")
+df31b298477e ("iommu: Add iommu_ops->identity_domain")
+23a1b46f15d5 ("iommufd/selftest: Make the mock iommu driver into a real driver")
+7a467e02b339 ("iommufd/selftest: Return the real idev id from selftest mock_domain")
+fa1ffdb9e293 ("iommufd/selftest: Test iommufd_device_replace()")
+addb665924f3 ("iommu: Introduce a new iommu_group_replace_domain() API")

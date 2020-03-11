@@ -1,0 +1,4 @@
+9983a5fc39bf ("xhci: rename EP_HALT_PENDING to EP_STOP_CMD_PENDING")
+505f581c48bc ("xhci: simplify if statement to make it more readable")
+d6169d04097f ("xhci: fix deadlock at host remove by running watchdog correctly")
+bcf42aa60c28 ("xhci: fix null pointer dereference in stop command timeout function")

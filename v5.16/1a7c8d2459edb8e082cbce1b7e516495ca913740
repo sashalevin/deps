@@ -1,0 +1,5 @@
+1a7c8d2459ed ("kallsyms: change sym_entry::percpu_absolute to bool type")
+1d48f8feb86e ("kallsyms: unify seq and start_pos fields of struct sym_entry")
+60443c88f3a8 ("kallsyms: Improve the performance of kallsyms_lookup_name()")
+71f8c15565d0 ("kallsyms: move declarations to internal header")
+aecf489f2ce5 ("kallsyms: Skip the name search for empty string")

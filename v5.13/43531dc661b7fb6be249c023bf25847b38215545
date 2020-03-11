@@ -1,0 +1,5 @@
+43531dc661b7 ("drm/vmwgfx: Refactor resource manager's hashtable to use linux/hashtable implementation.")
+2985c96485b7 ("drm/vmwgfx: Copy DRM hash-table code into driver")
+1cb48cf3b1da ("drm/vmwgfx: Use list_move_tail instead of list_del/list_add_tail in vmwgfx_cmdbuf_res.c")
+74231041d140 ("drm/vmwgfx: Fix some static checker warnings")
+5dbf2fc587cb ("drm/vmwgfx: Make console emulation depend on DRM_FBDEV_EMULATION")

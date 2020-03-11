@@ -1,0 +1,8 @@
+5b4a1a8b87fd ("i40iw: Reinitialize IEQ on MTU change")
+343d86bd45d2 ("i40iw: Account for IPv6 header when setting MSS")
+66f49f88aef8 ("i40iw: Move exception_lan_queue to VSI structure")
+f300ba2d1ef1 ("RDMA/i40iw: Remove MSS change support")
+d6f7bbcc2e41 ("i40iw: Reorganize structures to align with HW capabilities")
+6b0805c25657 ("i40iw: Assign MSS only when it is a new MTU")
+dfd9c43b3ce9 ("i40iw: Remove check on return from device_init_pestat()")
+0fc2dc58896f ("i40iw: Add Quality of Service support")

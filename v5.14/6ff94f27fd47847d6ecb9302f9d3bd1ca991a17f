@@ -1,0 +1,4 @@
+6ff94f27fd47 ("KVM: x86/mmu: Improve TLB flush comment in kvm_mmu_slot_remove_write_access()")
+21fa324654e4 ("KVM: x86/mmu: Extract zapping of rmaps for gfn range to separate helper")
+e8be2a5ba86c ("KVM: x86/mmu: Drop a redundant remote TLB flush in kvm_zap_gfn_range()")
+edb298c663fc ("KVM: x86/mmu: bump mmu notifier count in kvm_zap_gfn_range")

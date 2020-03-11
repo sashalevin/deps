@@ -1,0 +1,7 @@
+6b6fa7a5c86e ("scsi: core: fix dh and multipathing for SCSI hosts without request batching")
+f664a3cc17b7 ("scsi: kill off the legacy IO path")
+3a7ea2c483a5 ("scsi: provide mq_ops->busy() hook")
+d87161bea405 ("scsi: ufs: Disable blk-mq for now")
+d772a65d8a6c ("Revert "scsi: core: avoid host-wide host_busy counter for scsi_mq"")
+3fba68fa35a2 ("scsi: core: Update SCSI_MQ_DEFAULT help text to match default")
+72f02ba66bd8 ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

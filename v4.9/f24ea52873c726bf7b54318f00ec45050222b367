@@ -1,0 +1,8 @@
+f24ea52873c7 ("xfrm: remove tos indirection from afinfo_policy")
+143a4454daaf ("xfrm: do not call rcu_read_unlock when afinfo is NULL in xfrm_get_tos")
+37b103830ec3 ("xfrm: policy: make policy backend const")
+bdba9fe01e1b ("xfrm: policy: remove xfrm_policy_put_afinfo")
+a2817d8b279b ("xfrm: policy: remove family field")
+3d7d25a68ea5 ("xfrm: policy: remove garbage_collect callback")
+2b61997aa0c6 ("xfrm: policy: xfrm_policy_unregister_afinfo can return void")
+f5e2bb4f5b22 ("xfrm: policy: xfrm_get_tos cannot fail")

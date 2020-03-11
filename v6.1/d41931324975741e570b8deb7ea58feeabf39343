@@ -1,0 +1,7 @@
+d41931324975 ("KVM: x86: Do VMX/SVM support checks directly in vendor code")
+462689b37f08 ("KVM: VMX: Use current CPU's info to perform "disabled by BIOS?" checks")
+8d20bd638167 ("KVM: x86: Unify pr_fmt to use module name for all KVM modules")
+4f8396b96a9f ("KVM: x86: Move guts of kvm_arch_init() to standalone helper")
+451d39e80061 ("KVM: VMX: Move Hyper-V eVMCS initialization to helper")
+2916b70fc342 ("KVM: VMX: Reset eVMCS controls in VP assist page during hardware disabling")
+80edc49f6a75 ("KVM: VMX: Resurrect vmcs_conf sanitization for KVM-on-Hyper-V")

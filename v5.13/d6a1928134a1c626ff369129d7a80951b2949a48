@@ -1,0 +1,7 @@
+d6a1928134a1 ("riscv: Remove redundant restriction on memory size")
+f7ae02333d13 ("riscv: Move KASAN mapping next to the kernel mapping")
+db1503d355a7 ("riscv: Get rid of MAXPHYSMEM configs")
+54c5639d8f50 ("riscv: Fix asan-stack clang build")
+c09dc9e1cd3c ("riscv: Fix memory_limit for 64-bit kernel")
+c9811e379b21 ("riscv: Add mem kernel parameter support")
+f842f5ff6aaf ("riscv: Move setup_bootmem into paging_init")

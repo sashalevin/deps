@@ -1,0 +1,6 @@
+c12208668aef ("scsi: isci: Switch back to original libsas event notifiers")
+71dca5539fcf ("scsi: isci: Pass gfp_t flags in isci_port_bc_change_received()")
+5ce7902902ad ("scsi: isci: Pass gfp_t flags in isci_port_link_up()")
+885ab3b8926f ("scsi: isci: Pass gfp_t flags in isci_port_link_down()")
+121181f3f839 ("scsi: libsas: Remove notifier indirection")
+3f901c81dfad ("scsi: libsas: docs: Remove notify_ha_event()")

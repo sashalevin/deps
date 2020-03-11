@@ -1,0 +1,6 @@
+2b36209ca818 ("scsi: core: Revert "Call blk_mq_free_tag_set() earlier"")
+f323896fe6fa ("scsi: core: Call blk_mq_free_tag_set() earlier")
+16728aaba62e ("scsi: core: Make sure that hosts outlive targets")
+fe442604199e ("scsi: core: Make sure that targets outlive devices")
+f2b85040acec ("scsi: core: Put LLD module refcnt after SCSI device is released")
+3719f4ff047e ("scsi: core: Fix failure handling of scsi_add_host_with_dma()")

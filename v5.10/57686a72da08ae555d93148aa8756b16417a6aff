@@ -1,0 +1,8 @@
+57686a72da08 ("tools: Disable __packed attribute compiler warning due to -Werror=attributes")
+a91c98725465 ("perf tools: Add get_unaligned_leNN()")
+1314376d495f ("tools arm64: Import cputype.h")
+f96b4675839b ("x86/insn: Use get_unaligned() instead of memcpy()")
+5ba1071f7554 ("x86/insn, tools/x86: Fix undefined behavior due to potential unaligned accesses")
+dde994dd54fb ("perf report: Add tools/arch/x86/include/asm/amd-ibs.h")
+d30c7b820be5 ("x86/insn: Add a __ignore_sync_check__ marker")
+1d509f2a6ebc ("x86/insn: Support big endian cross-compiles")

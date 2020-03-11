@@ -1,0 +1,4 @@
+f4de7794de84 ("drm/i915: Unconditionally clear the pm/guc GT IIR upon acking")
+2e4a5b25886c ("drm/i915: Prune gen8_gt_irq_handler")
+f0fd96f546fb ("drm/i915: Track GT interrupt handling using the master iir")
+55ef72f24fae ("drm/i915: Remove spurious DRM_ERROR for cancelled interrupts")

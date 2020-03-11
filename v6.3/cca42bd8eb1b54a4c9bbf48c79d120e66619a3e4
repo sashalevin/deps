@@ -1,0 +1,6 @@
+cca42bd8eb1b ("rcutorture: Fix stuttering races and other issues")
+10af43671e8b ("torture: Move stutter_wait() timeouts to hrtimers")
+5d248bb39fe1 ("torture: Add lock_torture writer_fifo module parameter")
+f8619c300f49 ("locktorture: Add long_hold to adjust lock-hold delays")
+45bcf0bd8cbe ("locktorture: With nested locks, occasionally skip main lock")
+b63343207da2 ("locktorture: Add nested_[un]lock() hooks and nlocks parameter")

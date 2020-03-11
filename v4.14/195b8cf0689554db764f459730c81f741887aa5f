@@ -1,0 +1,5 @@
+195b8cf06895 ("proc: move "struct pde_opener" to kmem cache")
+e7a6e291e30a ("proc: faster open/close of files without ->release hook")
+2f8974243507 ("proc: do less stuff under ->pde_unload_lock")
+15b158b4e627 ("proc: spread likely/unlikely a bit")
+efb1a57d90ca ("fs/proc: use __ro_after_init")

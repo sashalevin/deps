@@ -1,0 +1,6 @@
+2d4a79ae3404 ("cpufreq: pcc-cpufreq: Fail initialization if driver cannot be registered")
+95d6c0857e54 ("cpufreq: intel_pstate: Register when ACPI PCCH is present")
+5e9323219410 ("intel_pstate: convert to use acpi_match_platform_list()")
+29327c84baeb ("intel_pstate: add __init/__initdata marker to some functions/variables")
+eed436095e62 ("intel_pstate: Fix incorrect placement of __initdata")
+5b20c944882c ("x86/cpufreq: Use Intel family name macros for the intel_pstate cpufreq driver")

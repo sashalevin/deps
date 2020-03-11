@@ -1,0 +1,8 @@
+42450f7a9086 ("btf: move pahole check in scripts/link-vmlinux.sh to lib/Kconfig.debug")
+b1a9a5e04767 ("kbuild: merge temporary vmlinux for BTF and kallsyms")
+c442db3f49f2 ("kbuild: remove PROVIDE() for kallsyms symbols")
+ddf41329839f ("kbuild: refactor variables in scripts/link-vmlinux.sh")
+3430f65d6130 ("kbuild: fix short log for AS in link-vmlinux.sh")
+04b8cb0945b4 ("kbuild: avoid unneeded kallsyms step 3")
+951bcae6c5a0 ("kallsyms: Avoid weak references for kallsyms symbols")
+e3a9ee963ad8 ("kbuild: Fix changing ELF file type for output of gen_btf for big endian")

@@ -1,0 +1,5 @@
+4103b93b07bc ("mm: make folio_mapcount() return 0 for small typed folios")
+05c5323b2a34 ("mm: track mapcount of large folios in single value")
+46d62de7ad12 ("mm/rmap: add fast-path for small folios when adding/removing/duplicating")
+b84fd2835c70 ("mm: make page_mapped() take a const argument")
+f238b8c33c67 ("arm64: mm: swap: support THP_SWAP on hardware with MTE")

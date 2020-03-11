@@ -1,0 +1,8 @@
+73afb518af4a ("eth: bnxt: bump the entry size in indir tables to u32")
+9c34c6c28c70 ("eth: bnxt: pad out the correct indirection table")
+b3d0083caf9a ("bnxt_en: Support RSS contexts in ethtool .{get|set}_rxfh()")
+77a614f7499e ("bnxt_en: Refactor bnxt_set_rxfh()")
+ecb342bb6098 ("bnxt_en: Refactor RSS indir alloc/set functions")
+fea41bd76634 ("bnxt_en: Introduce rss ctx structure, alloc/free functions")
+a4c11166a696 ("bnxt_en: Refactor VNIC alloc and cfg functions")
+1dcd70ba2437 ("bnxt_en: Add helper function bnxt_hwrm_vnic_rss_cfg_p5()")

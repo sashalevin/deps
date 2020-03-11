@@ -1,0 +1,5 @@
+52f476a323f9 ("libnvdimm/pmem: Bypass CONFIG_HARDENED_USERCOPY overhead")
+6dfdb2b6d877 ("pmem: Switch to copy_to_iter_mcsafe()")
+b3a9a0c36e1f ("dax: Introduce a ->copy_to_iter dax operation")
+976431b02c2e ("dax, dm: allow device-mapper to operate without dax support")
+98d82f48f198 ("dm log writes: add support for DAX")

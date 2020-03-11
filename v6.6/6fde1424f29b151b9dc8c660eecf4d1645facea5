@@ -1,0 +1,7 @@
+6fde1424f29b ("x86/resctrl: Allow resctrl_arch_rmid_read() to sleep")
+b30a55df60c3 ("x86/resctrl: Track the number of dirty RMID a CLOSID has")
+6791e0ea3071 ("x86/resctrl: Access per-rmid structures by index")
+40fc735b78f0 ("x86/resctrl: Track the closid with the rmid")
+311639e9512b ("x86/resctrl: Move RMID allocation out of mkdir_rdt_prepare()")
+b1de313979af ("x86/resctrl: Create helper for RMID allocation and mondata dir creation")
+3f7b07380d58 ("x86/resctrl: Free rmid_ptrs from resctrl_exit()")

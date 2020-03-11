@@ -1,0 +1,7 @@
+d745ca4f2c4a ("brcmfmac: pcie: fix oops on failure to resume and reprobe")
+8602e62441ab ("brcmfmac: pass bus to the __brcmf_err() in pcie.c")
+49fe9b59f0e9 ("brcmfmac: restore bus state when enter_D3 fails")
+d0630555650a ("brcmfmac: merge two remaining brcmf_err macros")
+087fa712a006 ("brcmfmac: switch to C function (__brcmf_err) for printing errors")
+9587a01a7ead ("brcmfmac: merge two brcmf_err macros into one")
+be4b092cab84 ("brcmfmac: add pcie host dongle interface rev6 support")

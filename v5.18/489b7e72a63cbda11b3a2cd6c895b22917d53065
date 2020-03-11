@@ -1,0 +1,5 @@
+489b7e72a63c ("fs/buffer: clean up block_commit_write")
+8c6cb3e3d57e ("buffer: convert __block_commit_write() to take a folio")
+fe181377a23c ("buffer: convert block_page_mkwrite() to use a folio")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")

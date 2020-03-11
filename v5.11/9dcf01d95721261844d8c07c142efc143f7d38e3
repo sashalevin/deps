@@ -1,0 +1,6 @@
+9dcf01d95721 ("vfio: centralize module refcount in subsystem layer")
+dc51ff91cf2d ("vfio/platform: fix module_put call in error flow")
+6df62c5b05f4 ("vfio: Make vfio_device_ops pass a 'struct vfio_device *' instead of 'void *'")
+0bfc6a4ea63c ("vfio: Split creation of a vfio_device into init and register ops")
+5e42c999445b ("vfio: Simplify the lifetime logic for vfio_device")
+e572bfb2b6a8 ("vfio: Remove extra put/gets around vfio_device->group")

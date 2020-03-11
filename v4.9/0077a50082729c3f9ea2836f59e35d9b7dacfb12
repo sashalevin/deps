@@ -1,0 +1,5 @@
+0077a5008272 ("rbd: resurrect setting of disk->private_data in rbd_init_disk()")
+195b1956b85b ("rbd: use blk_mq_alloc_disk and blk_cleanup_disk")
+3325322f773b ("rbd: set the 'device' link in sysfs")
+5769ed0cb12d ("rbd: fix error handling around rbd_init_disk()")
+8b679ec5257e ("rbd: move rbd_dev_destroy() call out of rbd_dev_image_release()")

@@ -1,0 +1,2 @@
+a6736a0addd6 ("af_unix: Read with MSG_PEEK loops if the first unread byte is OOB")
+9841991a446c ("af_unix: Update unix_sk(sk)->oob_skb under sk_receive_queue lock.")

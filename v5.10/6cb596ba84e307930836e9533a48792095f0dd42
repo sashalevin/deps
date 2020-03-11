@@ -1,0 +1,6 @@
+6cb596ba84e3 ("mt76: usb: introduce __mt76u_init utility routine")
+e0daf14d9f4e ("mt76: usb: add req_type to ___mt76u_wr signature")
+84bba93ac46e ("mt76: usb: add req_type to ___mt76u_rr signature")
+9daf27e62852 ("mt76: mt76u: use dedicated thread for status work")
+be83a7e20c57 ("mt76: mt76u: rely on woker APIs for rx work")
+5ee3e780cf26 ("wireless: mt76: convert tasklets to use new tasklet_setup() API")

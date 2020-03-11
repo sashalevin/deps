@@ -1,0 +1,4 @@
+79e137b15401 ("i2c: meson: keep peripheral clock enabled")
+e4d6bc380c9a ("i2c: meson: remove variable count from meson_i2c_xfer")
+09af1c2fa490 ("i2c: meson: set clock divider in probe instead of setting it for each transfer")
+a55cc70af61b ("i2c: meson: remove member irq from struct meson_i2c")

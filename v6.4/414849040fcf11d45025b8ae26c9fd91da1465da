@@ -1,0 +1,6 @@
+414849040fcf ("ksmbd: fix Null pointer dereferences in ksmbd_update_fstate()")
+5a7ee91d1154 ("ksmbd: fix race condition with fp")
+e2b76ab8b5c9 ("ksmbd: add support for read compound")
+e202a1e8634b ("ksmbd: no response from compound read")
+7b7d709ef7cf ("ksmbd: add missing compound request handing in some commands")
+81a94b27847f ("ksmbd: use kvzalloc instead of kvmalloc")

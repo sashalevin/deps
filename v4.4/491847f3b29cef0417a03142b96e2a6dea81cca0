@@ -1,0 +1,6 @@
+491847f3b29c ("tools/virtio: fix smp_mb on x86")
+450cbdd0125c ("locking/x86: Use LOCK ADD for smp_mb() instead of MFENCE")
+e37cee133c72 ("locking/x86: Drop a comment left over from X86_OOSTORE")
+bd922477d935 ("locking/x86: Add cc clobber for ADDL")
+481eaec37e91 ("tools/virtio: add ringtest utilities")
+1638fb72070f ("x86: define __smp_xxx")

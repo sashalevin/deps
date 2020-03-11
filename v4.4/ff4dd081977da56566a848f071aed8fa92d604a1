@@ -1,0 +1,4 @@
+ff4dd081977d ("configfs: stash the data we need into configfs_buffer at open time")
+3f6928c34770 ("configfs: Fix bool initialization/comparison")
+3dc3afadeb04 ("configfs: don't set buffer_needs_fill to zero if show() returns error")
+03607ace807b ("configfs: implement binary attributes")

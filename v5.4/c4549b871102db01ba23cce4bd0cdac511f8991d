@@ -1,0 +1,4 @@
+c4549b871102 ("zsmalloc: remove zspage isolation for migration")
+67f1c9cd0c56 ("zsmalloc: introduce some helper functions")
+afe8605ca454 ("mm/zsmalloc.c: close race window between zs_pool_dec_isolated() and zs_unregister_migration()")
+ac8f05da5174 ("mm/zsmalloc.c: fix the migrated zspage statistics.")

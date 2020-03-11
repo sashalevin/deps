@@ -1,0 +1,4 @@
+1300ab392718 ("iio: humidity: hts221: Move symbol exports into IIO_HTS221 namespace")
+2129f25de582 ("iio: humidity: hts221: Use EXPORT_SIMPLE_DEV_PM_OPS() to allow compiler to remove dead code.")
+92c3e93b7d2d ("iio: humidity: hts221: Make use of device properties")
+4d8d2f09ad9f ("iio: humidity: hts221: Use dev_get_platdata() to get platform_data")

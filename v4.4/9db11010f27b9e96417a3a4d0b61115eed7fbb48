@@ -1,0 +1,6 @@
+9db11010f27b ("thermal: imx: Calling imx_thermal_unregister_legacy_cooling() in .remove")
+4d753aa7b627 ("thermal: cpu_cooling: use cpufreq_policy to register cooling device")
+04bdbdf93ced ("thermal: cpu_cooling: replace cool_dev with cdev")
+1dea432a671a ("thermal: cpu_cooling: Name cpufreq cooling devices as cpufreq_cdev")
+289d72afddf8 ("thermal: cpu_cooling: Avoid accessing potentially freed structures")
+c97ad0fc4f07 ("Merge back cpufreq core changes for v4.12.")

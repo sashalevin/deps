@@ -1,0 +1,5 @@
+7974c0643ee3 ("KVM: x86: Add a struct to consolidate host values, e.g. EFER, XCR0, etc...")
+43fb862de8f6 ("KVM/VMX: Move VERW closer to VMentry for MDS mitigation")
+706a189dcf74 ("KVM/VMX: Use BT+JNC, i.e. EFLAGS.CF to select VMRESUME vs. VMLAUNCH")
+6613d82e617d ("x86/bugs: Use ALTERNATIVE() instead of mds_user_clear static key")
+f44075ecafb7 ("x86/nmi: Fix out-of-order NMI nesting checks & false positive warning")

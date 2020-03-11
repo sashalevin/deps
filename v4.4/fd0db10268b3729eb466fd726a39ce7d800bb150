@@ -1,0 +1,7 @@
+fd0db10268b3 ("perf trace: Move syscall table id <-> name routines to separate class")
+d1d438a3b1eb ("perf trace: Beautify pid_t arguments")
+c65f10701ac6 ("perf trace: Beautify set_tid_address, getpid, getppid return values")
+a3bca91f2fe5 ("perf trace: Beautify sched_setscheduler 'policy' argument")
+39878d492c04 ("perf trace: Pretty print getrandom() args")
+997bba8cf187 ("perf trace: Pretty print seccomp() args")
+ba5042353020 ("perf trace: Call bpf__apply_obj_config in 'perf trace'")

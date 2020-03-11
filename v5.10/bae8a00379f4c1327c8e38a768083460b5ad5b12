@@ -1,0 +1,7 @@
+bae8a00379f4 ("bnxt_en: Remove the read of BNXT_FW_RESET_INPROG_REG after firmware reset.")
+43a440c4007b ("bnxt_en: Improve the status_reliable flag in bp->fw_health.")
+dab62e7c2de7 ("bnxt_en: Implement faster recovery for firmware fatal error.")
+4f036b2e7598 ("bnxt_en: Improve firmware fatal error shutdown sequence.")
+d1cbd1659cac ("bnxt_en: Retry sending the first message to firmware if it is under reset.")
+b187e4bae0aa ("bnxt_en: handle CRASH_NO_MASTER during bnxt_open()")
+fe1b853572f1 ("bnxt_en: Define macros for the various health register states.")

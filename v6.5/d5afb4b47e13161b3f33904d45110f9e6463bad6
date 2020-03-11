@@ -1,0 +1,5 @@
+d5afb4b47e13 ("iommu/arm-smmu-v3: Fix soft lockup triggered by arm_smmu_mm_invalidate_range")
+1af5a8109904 ("mmu_notifiers: rename invalidate_range notifier")
+ec8832d007cb ("mmu_notifiers: don't invalidate secondary TLBs as part of mmu_notifier_invalidate_range_end()")
+6bbd42e2df8f ("mmu_notifiers: call invalidate_range() when invalidating TLBs")
+38b14e2e3de9 ("arm64/smmu: use TLBI ASID when invalidating entire range")

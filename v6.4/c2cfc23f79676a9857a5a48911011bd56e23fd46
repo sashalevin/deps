@@ -1,0 +1,3 @@
+c2cfc23f7967 ("x86/trampoline: Bypass compat mode in trampoline_start64() if not needed")
+33e20b07bec4 ("x86/realmode: Make stack lock work in trampoline_compat()")
+f6f1ae9128d2 ("x86/smpboot: Implement a bit spinlock to protect the realmode stack")

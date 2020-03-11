@@ -1,0 +1,3 @@
+7f06e3aa2e83 ("mm/mprotect: push mmu notifier to PUDs")
+670ddd8cdcbd ("mm/mprotect: delete pmd_none_or_clear_bad_unless_trans_huge()")
+26e1a0c3277d ("mm: use pmdp_get_lockless() without surplus barrier()")

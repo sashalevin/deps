@@ -1,0 +1,5 @@
+fc2d9cd33040 ("arm64: add pte_access_permitted_no_overlay()")
+332c151c710a ("arm64: mte: simplify swap tag restoration logic")
+c4c597f1b367 ("arm64: mte: Do not set PG_mte_tagged if tags were not initialized")
+d77e59a8fccd ("arm64: mte: Lock a page for MTE tag initialisation")
+e059853d14ca ("arm64: mte: Fix/clarify the PG_mte_tagged semantics")

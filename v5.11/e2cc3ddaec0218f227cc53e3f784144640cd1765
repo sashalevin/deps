@@ -1,0 +1,5 @@
+e2cc3ddaec02 ("memory: samsung: exynos5422-dmc: use scoped device node handling to simplify error paths")
+2af13f97fc67 ("memory: samsung: exynos5422-dmc: simplify dmc->dev usage")
+1332661e0930 ("memory: samsung: exynos5422-dmc: Fix refcount leak in of_get_dram_timings")
+56653827f0d7 ("memory: samsung: exynos5422-dmc: Avoid some over memory allocation")
+a8bb0e872bfb ("memory: samsung: exynos5422-dmc: Convert to use resource-managed OPP API")

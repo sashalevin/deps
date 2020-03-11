@@ -1,0 +1,6 @@
+ce6565282b3b ("x86/entry: Fixup objtool/ibt validation")
+47f33de4aafb ("x86/sev: Mark the code returning to user space as syscall gap")
+78a81d88f60b ("x86/sev-es: Introduce ip_within_syscall_gap() helper")
+afd30525a659 ("x86/xen: Drop USERGS_SYSRET64 paravirt call")
+53c9d9240944 ("x86/pv: Switch SWAPGS to ALTERNATIVE")
+da9803dfd395 ("Merge tag 'x86_seves_for_v5.10' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,3 @@
+0c54922384c1 ("serial: imx: simplify check that prevents starting PIO when DMA is in use")
+5aabd3b0077e ("serial: imx: Avoid post-PIO cleanup if TX DMA is started")
+514ab34dbad6 ("serial: imx: Prevent TX buffer PIO write when a DMA has been started")

@@ -1,0 +1,5 @@
+70e477d996c8 ("KVM: selftests: nVMX: Add enlightened MSR-Bitmap selftest")
+c9ecafaf0113 ("KVM: selftests: evmcs_test: Check that VMCS12 is alway properly synced to eVMCS after restore")
+32d1b3ab588c ("KVM: selftests: evmcs_test: Check that VMLAUNCH with bogus EVMPTR is causing #UD")
+6d05a965addb ("KVM: selftests: enlightened VMPTRLD with an incorrect GPA")
+41b0552aa693 ("KVM: selftests: test enlightened vmenter with wrong eVMCS version")

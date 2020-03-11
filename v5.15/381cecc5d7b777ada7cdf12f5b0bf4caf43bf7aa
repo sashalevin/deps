@@ -1,0 +1,3 @@
+381cecc5d7b7 ("KVM: Drop 'except' parameter from kvm_make_vcpus_request_mask()")
+ae0946cd3601 ("KVM: Optimize kvm_make_vcpus_request_mask() a bit")
+6470accc7ba9 ("KVM: x86: hyper-v: Avoid calling kvm_make_vcpus_request_mask() with vcpu_mask==NULL")

@@ -1,0 +1,4 @@
+9ccfc23a72b6 ("smb3: don't set rc when used and unneeded in query_info_compound")
+c9fc5ca454b3 ("cifs: set the CREATE_NOT_FILE when opening the directory in use_cached_dir()")
+8708b1076047 ("cifs: change smb2_query_info_compound to use a cached fid, if available")
+5e0c969e9ed2 ("cifs: convert the path to utf16 in smb2_query_info_compound")

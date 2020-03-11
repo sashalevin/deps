@@ -1,0 +1,6 @@
+7ff6edf4fef3 ("x86/microcode/AMD: Fix mixed steppings support")
+2355370cd941 ("x86/microcode/amd: Remove load_microcode_amd()'s bsp parameter")
+a61ac80ae52e ("x86/microcode: Kill refresh_fw")
+712f210a457d ("x86/microcode/AMD: Track patch allocation size explicitly")
+8c61eafd22d7 ("x86/microcode: Remove ->request_microcode_user()")
+7189b3c11903 ("x86/microcode: Check for offline CPUs before requesting new microcode")

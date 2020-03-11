@@ -1,0 +1,8 @@
+18d609daa546 ("selftest/vm: verify remap destination address in mremap_test")
+9c85a9bae267 ("selftest/vm: verify mmap addr in mremap_test")
+a9cc9c345655 ("selftest/mremap_test: avoid crash with static build")
+7df666253f26 ("kselftests: vm: add mremap tests")
+98097701cc0b ("selftests/vm/.gitignore: add mremap_dontunmap")
+0c28759ee3c9 ("selftests: add MREMAP_DONTUNMAP selftest")
+9e69fa46275b ("selftests/vm: add missed tests in run_vmtests")
+7549b3364201 ("selftests: vm: Build/Run 64bit tests only on 64bit arch")

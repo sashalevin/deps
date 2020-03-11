@@ -1,0 +1,7 @@
+19f1016ea960 ("pwm: stm32: Fix enable count for clk in .probe()")
+41fa8f57c0d2 ("pwm: stm32: Use hweight32 in stm32_pwm_detect_channels")
+632ae5d7eb34 ("pwm: stm32: Use regmap_clear_bits and regmap_set_bits where applicable")
+0c73201c5c09 ("pwm: stm32: Remove automatic output enable")
+53e38fe73f94 ("pwm: stm32: Add capture support")
+4eb67a209645 ("pwm: stm32: Protect common prescaler for all channels")
+3af0bdd1d027 ("pwm: stm32: Remove unused struct device")

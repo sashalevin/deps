@@ -1,0 +1,4 @@
+974f51e8633f ("dm: fix congested_fn for request-based device")
+47ace7e012b9 ("dm: fix potential for q->make_request_fn NULL pointer")
+24113d487843 ("dm: avoid indirect call in __dm_make_request")
+6a23e05c2fe3 ("dm: remove legacy request-based IO path")

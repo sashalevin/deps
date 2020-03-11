@@ -1,0 +1,8 @@
+22f667c97aad ("sched: Don't run cpu-online with balance_push() enabled")
+ae7927023243 ("sched: Optimize finish_lock_switch()")
+2558aacff858 ("sched/hotplug: Ensure only per-cpu kthreads run during hotplug")
+565790d28b1e ("sched: Fix balance_callback()")
+58877d347b58 ("sched: Better document ttwu()")
+dbfb089d360b ("sched: Fix loadavg accounting race")
+2ebb17717550 ("sched/core: Offload wakee task activation if it the wakee is descheduling")
+c6e7bd7afaeb ("sched/core: Optimize ttwu() spinning on p->on_cpu")

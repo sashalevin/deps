@@ -1,0 +1,4 @@
+6ded22c1bfe6 ("btrfs: reduce div64 calls by limiting the number of stripes of a chunk to u32")
+a97699d1d610 ("btrfs: replace map_lookup->stripe_len by BTRFS_STRIPE_LEN")
+1eb82ef87336 ("btrfs: remove the bdev argument to btrfs_rmap_block")
+f8a02dc6fd38 ("btrfs: remove struct btrfs_io_geometry")

@@ -1,0 +1,8 @@
+fdce765a1338 ("EDAC/amd64: Don't set up EDAC PCI control on Family 17h+")
+3e0fdec858d8 ("x86/mce/amd, edac: Remove report_gart_errors")
+71a84402b93e ("x86/MCE/AMD: Don't report L1 BTB MCA errors on some family 17h models")
+45d4b7b9cb88 ("x86/MCE: Add an MCE-record filtering function")
+9308fd407455 ("x86/MCE: Group AMD function prototypes in <asm/mce.h>")
+30aa3d26edb0 ("x86/MCE/AMD: Carve out the MC4_MISC thresholding quirk")
+c95b323dcd35 ("x86/MCE/AMD: Turn off MC4_MISC thresholding on all family 0x15 models")
+ac78bd72355d ("x86/mce: Add Hygon Dhyana support to the MCA infrastructure")

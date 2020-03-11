@@ -1,0 +1,4 @@
+e71aab9d6132 ("tty: serial: meson: apply ttyS devname instead of ttyAML for new SoCs")
+bcb5645f99ef ("tty: serial: meson: redesign the module to platform_driver")
+00a7fa836dbc ("tty: serial: meson: Add a 12MHz internal clock rate to calculate baud rate in order to meet the baud rate requirements of special BT modules")
+368ab68b18de ("tty: serial: meson: Use DIV_ROUND_CLOSEST to calculate baud rates")

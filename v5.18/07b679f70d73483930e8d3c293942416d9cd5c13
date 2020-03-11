@@ -1,0 +1,5 @@
+07b679f70d73 ("virtio-blk: support completion batching for the IRQ path")
+489e18f3d732 ("virtio-blk: set req->state to MQ_RQ_COMPLETE after polling I/O is finished")
+8d12ec102928 ("virtio-blk: Avoid use-after-free on suspend/resume")
+0e9911fa768f ("virtio-blk: support mq_ops->queue_rqs()")
+4e0400525691 ("virtio-blk: support polling I/O")

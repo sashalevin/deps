@@ -1,0 +1,8 @@
+d8a22f85609f ("nvme-multipath: fix deadlock due to head->lock")
+e164471dcf19 ("nvme: don't protect ns mutation with ns->head->lock")
+504db087aacc ("nvme-multipath: fix possible I/O hang when paths are updated")
+cc2278c413c3 ("nvme-multipath: relax ANA state check")
+886fabf69326 ("nvme: update node paths after adding new path")
+f333444708f8 ("nvme: take node locality into account when selecting a path")
+33b14f67a4e1 ("nvme: register ns_id attributes as default sysfs groups")
+fef912bf860e ("block: genhd: add 'groups' argument to device_add_disk")

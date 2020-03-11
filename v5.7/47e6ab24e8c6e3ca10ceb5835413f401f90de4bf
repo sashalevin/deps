@@ -1,0 +1,7 @@
+47e6ab24e8c6 ("tcp: Fix a data-race around sysctl_tcp_max_orphans.")
+19757cebf0c5 ("tcp: switch orphan_count to bare per-cpu counters")
+925bba24e68a ("tcp: Remove CMSG magic numbers for tcp_recvmsg().")
+2cd81161848d ("net-tcp: Introduce tcp_recvmsg_locked().")
+c96b6acc8f89 ("dccp: Fix possible memleak in dccp_init and dccp_fini")
+6761893eeaa3 ("inet_connection_sock: clear inet_num out of destroy helper")
+2f8a397d0a54 ("inet_connection_sock: factor out destroy helper.")

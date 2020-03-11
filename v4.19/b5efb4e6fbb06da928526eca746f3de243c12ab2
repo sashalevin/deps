@@ -1,0 +1,6 @@
+b5efb4e6fbb0 ("can: sja1000: Always restart the Tx queue after an overrun")
+717c6ec241b5 ("can: sja1000: Prevent overrun stalls with a soft reset on Renesas SoCs")
+af7647a0b4b5 ("can: sja1000: Prepare the use of a threaded handler")
+0838921bb409 ("can: sja1000: Add support for RZ/N1 SJA1000 CAN Controller")
+2d99bfbf3386 ("can: sja1000: Add Quirk for RZ/N1 SJA1000 CAN controller")
+decdcaeedce4 ("can: sja1000: sp_probe(): use platform_get_irq() to get the interrupt")

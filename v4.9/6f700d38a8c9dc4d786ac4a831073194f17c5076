@@ -1,0 +1,6 @@
+6f700d38a8c9 ("powerpc: Remove facility loadups on transactional {fp, vec, vsx} unavailable")
+eb5c3f1c8647 ("powerpc: Always save/restore checkpointed regs during treclaim/trecheckpoint")
+91381b9cb1c3 ("powerpc: Force reload for recheckpoint during tm {fp, vec, vsx} unavailable exception")
+a7771176b439 ("powerpc: Don't enable FP/Altivec if not checkpointed")
+6a303833b5e3 ("powerpc: Fix missing newline before {")
+f48e91e87e67 ("powerpc/tm: Fix FP and VMX register corruption")

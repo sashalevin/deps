@@ -1,0 +1,4 @@
+560a3915e3df ("mtd_blkdevs: remove blktrans_ref_mutex")
+89843828399e ("mtd_blkdevs: simplify blktrans_dev_get")
+799ae31c58ae ("mtd_blkdevs: don't hold del_mtd_blktrans_dev in blktrans_{open, release}")
+6966bb921def ("mtd_blkdevs: use blk_mq_alloc_disk")

@@ -1,0 +1,6 @@
+cb9c1cfc8692 ("usb: Kconfig: using select for USB_COMMON dependency")
+6406c3d22637 ("usb: Kconfig: let USB_ULPI_BUS depends on USB_COMMON")
+ad764c49f65a ("usb: Kconfig: move ulpi bus support out of host")
+a26a142275c6 ("usb: remove redundant dependency on USB_SUPPORT")
+b5a2a8ecb204 ("usbip: vudc: fix Kconfig dependencies")
+9360575c5837 ("usbip: vudc: Add vudc to Kconfig")

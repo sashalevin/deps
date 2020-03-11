@@ -1,0 +1,5 @@
+01cac82ae02b ("s390/atomic: mark all functions __always_inline")
+000174233b91 ("s390/atomic,cmpxchg: switch to use atomic-instrumented.h")
+d2b1f6d2d350 ("s390/cmpxchg: get rid of gcc atomic builtins")
+b23eb636d7f9 ("s390/atomic: get rid of gcc atomic builtins")
+c8a91c285d8c ("s390/atomic: move remaining inline assemblies to atomic_ops.h")

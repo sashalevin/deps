@@ -1,0 +1,4 @@
+bd3d2252f94d ("drm/i915: Rename obj->pin_display to obj->pin_global")
+f1fa4f442c82 ("drm/i915: Refactor testing obj->mm.pages")
+7393b7ee3a9c ("drm/i915/debugfs: include some gtt page size metrics")
+88c880bbdebe ("drm/i915: Lift has-pinned-pages assert to caller of ____i915_gem_object_get_pages")

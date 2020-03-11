@@ -1,0 +1,6 @@
+da019032819a ("sched: Enforce user requested affinity")
+713a2e21a513 ("sched: Introduce affinity_context")
+07ec77a1d4e8 ("sched: Allow task CPU affinity to be restricted on asymmetric systems")
+db3b02ae896e ("sched: Split the guts of sched_setaffinity() into a helper function")
+b90ca8badbd1 ("sched: Introduce task_struct::user_cpus_ptr to track requested affinity")
+234a503e670b ("sched: Reject CPU affinity changes based on task_cpu_possible_mask()")

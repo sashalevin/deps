@@ -1,0 +1,7 @@
+eacbb218fbba ("powerpc: Export tm_enable()/tm_disable/tm_abort() APIs")
+7672691a08c8 ("powerpc/powernv: Provide a way to force a core into SMT4 mode")
+eb5c3f1c8647 ("powerpc: Always save/restore checkpointed regs during treclaim/trecheckpoint")
+91381b9cb1c3 ("powerpc: Force reload for recheckpoint during tm {fp, vec, vsx} unavailable exception")
+a7771176b439 ("powerpc: Don't enable FP/Altivec if not checkpointed")
+54820530c5fa ("powerpc/powernv: Enable TM without suspend if possible")
+07fd1761e1cd ("powerpc/tm: Add commandline option to disable hardware transactional memory")

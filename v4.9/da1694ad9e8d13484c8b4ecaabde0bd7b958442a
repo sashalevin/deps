@@ -1,0 +1,8 @@
+da1694ad9e8d ("s390/mm,ptdump: hold cpa mutex while walking for kernel page table dump")
+36c2733c439c ("s390/mm,ptdump: hold memory hotplug lock while walking for kernel page table dump")
+9d719d39aab4 ("s390/mm,ptdump: convert to generic page table dumper")
+4bff8cb54502 ("s390: convert to GENERIC_VDSO")
+478237a59512 ("s390/vdso: fix vDSO clock_getres()")
+2b2a25845d53 ("s390/vdso: Use $(LD) instead of $(CC) to link vDSO")
+a7f7f6248d97 ("treewide: replace '---help---' in Kconfig files with 'help'")
+6f630784cc0d ("Merge tag 'clk-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/clk/linux")

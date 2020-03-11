@@ -1,0 +1,8 @@
+6dd0be1e2481 ("io_uring: replace list with array for compl batch")
+ba88ff112bdf ("io_uring: remove ctx from comp_state")
+258b29a93bfe ("io_uring: don't keep submit_state on stack")
+e342c807f556 ("io_uring: save atomic dec for inline executed reqs")
+9affd664f0e0 ("io_uring: don't flush CQEs deep down the stack")
+a38d68db6742 ("io_uring: help inlining of io_req_complete()")
+2d7e935809b7 ("io_uring: inline io_async_submit()")
+269bbe5fd4d2 ("io_uring: rename file related variables to rsrc")

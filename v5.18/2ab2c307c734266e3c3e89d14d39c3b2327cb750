@@ -1,0 +1,5 @@
+2ab2c307c734 ("KVM: selftests: Drop @mode from common vm_create() helper")
+ccc82ba6bea4 ("KVM: selftests: Always open VM file descriptors with O_RDWR")
+753dcf7a8686 ("kvm: selftests: Add KVM_CAP_MAX_VCPU_ID cap test")
+67a36a821312 ("selftests: KVM: Refactor psci_test to make it amenable to new tests")
+d135399a97cc ("selftests: KVM: Use KVM_SET_MP_STATE to power off vCPU in psci_test")

@@ -1,0 +1,7 @@
+c8d5ed67936f ("x86: Wire up TIF_NOTIFY_SIGNAL")
+8d71d2bf6efe ("x86: Reclaim TIF_IA32 and TIF_X32")
+ff170cd05953 ("x86/mm: Convert mmu context ia32_compat into a proper flags field")
+47058bb54b57 ("x86: remove address space overrides using set_fs()")
+999c83e8ffd9 ("x86: move PAGE_OFFSET, TASK_SIZE & friends to page_{32,64}_types.h")
+428e2976a5bf ("uaccess: remove segment_eq")
+7f218319caaa ("Merge branch 'next-integrity' of git://git.kernel.org/pub/scm/linux/kernel/git/zohar/linux-integrity")

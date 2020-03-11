@@ -1,0 +1,4 @@
+f06eae831f0c ("seccomp: hoist out filter resolving logic")
+66a733ea6b61 ("seccomp: fix the usage of get/put_seccomp_filter() in seccomp_get_filter()")
+0b5fa2290637 ("seccomp: Switch from atomic_t to recount_t")
+b25e67161c29 ("seccomp: dump core when using SECCOMP_RET_KILL")

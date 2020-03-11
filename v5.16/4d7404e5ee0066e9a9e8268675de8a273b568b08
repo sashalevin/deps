@@ -1,0 +1,8 @@
+4d7404e5ee00 ("KVM: x86/pmu: Disable vPMU support on hybrid CPUs (host PMUs)")
+6ef25aa0a961 ("KVM: x86/pmu: Restrict advanced features based on module enable_pmu")
+d7808f739162 ("KVM: x86/pmu: Update global enable_pmu when PMU is undetected")
+cf8e55fe50df ("KVM: x86/pmu: Expose CPUIDs feature bits PDCM, DS, DTES64")
+968635abd5f5 ("KVM: x86/pmu: Add kvm_pmu_cap to optimize perf_get_x86_pmu_capability")
+63f21f326fc9 ("KVM: x86/pmu: Move pmc_speculative_in_use() to arch/x86/kvm/pmu.h")
+bef6ecca46ac ("KVM: x86/pmu: Set MSR_IA32_MISC_ENABLE_EMON bit when vPMU is enabled")
+04144108a1ab ("Merge branch 'kvm-amd-pmu-fixes' into HEAD")

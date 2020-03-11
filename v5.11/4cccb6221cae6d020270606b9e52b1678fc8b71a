@@ -1,0 +1,7 @@
+4cccb6221cae ("fs/proc/task_mmu: move mmu notification mechanism inside mm lock")
+52526ca7fdb9 ("fs/proc/task_mmu: implement IOCTL to get and optionally clear info about PTEs")
+d61ea1cb0095 ("userfaultfd: UFFD_FEATURE_WP_ASYNC")
+8f5fd0e1a020 ("mm: handle some PMD faults under the VMA lock")
+f442ab50f5fb ("mm: userfaultfd: document and enable new UFFDIO_POISON feature")
+fc71884a5f59 ("mm: userfaultfd: add new UFFDIO_POISON ioctl")
+63773d2b593d ("Merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes.")

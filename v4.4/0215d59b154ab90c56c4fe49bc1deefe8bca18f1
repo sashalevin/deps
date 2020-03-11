@@ -1,0 +1,5 @@
+0215d59b154a ("tools lib: Reinstate strlcpy() header guard with __UCLIBC__")
+61a6445e463a ("tools lib: Guard the strlcpy() header with __GLIBC__")
+ce99091730c9 ("perf tools: Move strlcpy() from perf to tools/lib/string.c")
+7d85c434214e ("tools: Clone the kernel's strtobool function")
+4ddd32741da8 ("tools: Adopt memdup() from tools/perf, moving it to tools/lib/string.c")

@@ -1,0 +1,7 @@
+964290ff32d1 ("iavf: do not track VLAN 0 filters")
+968996c070ef ("iavf: Fix VLAN_V2 addition/rejection")
+2cf29e558948 ("iavf: Fix handling of vlan strip virtual channel messages")
+92fc50859872 ("iavf: Restrict maximum VLAN filters for VIRTCHNL_VF_OFFLOAD_VLAN_V2")
+ccd219d2ea13 ("iavf: Add support for VIRTCHNL_VF_OFFLOAD_VLAN_V2 hotpath")
+48ccc43ecf10 ("iavf: Add support VIRTCHNL_VF_OFFLOAD_VLAN_V2 during netdev config")
+209f2f9c7181 ("iavf: Add support for VIRTCHNL_VF_OFFLOAD_VLAN_V2 negotiation")

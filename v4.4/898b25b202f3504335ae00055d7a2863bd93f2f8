@@ -1,0 +1,7 @@
+898b25b202f3 ("KVM: PPC: Book3S HV: Simplify dynamic micro-threading code")
+a29ebeaf5575 ("KVM: PPC: Book3S HV: Invalidate TLB on radix guest vcpu movement")
+7c5b06cadf27 ("KVM: PPC: Book3S HV: Adapt TLB invalidations to work on POWER9")
+28d057c8970d ("KVM: PPC: Book3S HV: Use list_move_tail instead of list_del/list_add_tail")
+7b5f8272c792 ("KVM: PPC: Book3S HV: Change vcore element runnable_threads from linked-list to array")
+e64fb7e27288 ("KVM: PPC: Book3S HV: Move struct kvmppc_vcore from kvm_host.h to kvm_book3s.h")
+8577370fb0cb ("KVM: Use simple waitqueue for vcpu->wq")

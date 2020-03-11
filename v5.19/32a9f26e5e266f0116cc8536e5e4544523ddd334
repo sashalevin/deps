@@ -1,0 +1,7 @@
+32a9f26e5e26 ("rcu: Rename rcu_momentary_dyntick_idle() into rcu_momentary_eqs()")
+b93c5fe16e4a ("rcu: Remove unused function declaration rcu_eqs_special_set()")
+b5dce2002567 ("tracing/osnoise: Add preempt and/or irq disabled options")
+1603dda47714 ("tracing/osnoise: Add PANIC_ON_STOP option")
+30838fcd8107 ("tracing/osnoise: Add OSNOISE_WORKLOAD option")
+b179d48b6aab ("tracing/osnoise: Add osnoise/options file")
+6a694411977a ("rcu-tasks: Make rcu_note_context_switch() unconditionally call rcu_tasks_qs()")

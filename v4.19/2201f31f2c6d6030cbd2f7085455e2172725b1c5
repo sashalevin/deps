@@ -1,1 +1,3 @@
 2201f31f2c6d ("xtensa: use actual syscall number in do_syscall_trace_leave")
+3aee3e25deea ("xtensa: call do_syscall_trace_{enter,leave} selectively")
+6a986984b639 ("xtensa: use NO_SYSCALL instead of -1")

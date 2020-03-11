@@ -1,0 +1,4 @@
+17457784004c ("fs/proc/kcore: reinstate bounce buffer for KCORE_TEXT regions")
+46c0d6d0904a ("fs/proc/kcore: convert read_kcore() to read_kcore_iter()")
+2e1c0170771e ("fs/proc/kcore: avoid bounce buffer for ktext data")
+e025ab842ec3 ("mm: remove kern_addr_valid() completely")

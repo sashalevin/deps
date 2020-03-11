@@ -1,0 +1,5 @@
+8652d44f466a ("kexec: support purgatories with .text.hot sections")
+620f697cc27a ("kernel/kexec_file.c: remove unneeded variables in kexec_purgatory_setup_sechdrs")
+f1b1cca39650 ("kernel/kexec_file.c: remove unneeded for-loop in kexec_purgatory_setup_sechdrs")
+930457057abe ("kernel/kexec_file.c: split up __kexec_load_puragory")
+b799a09f639b ("kexec_file: make use of purgatory optional")

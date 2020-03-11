@@ -1,0 +1,8 @@
+c5dbb89fc2ac ("bpf: Expose bpf_get_socket_cookie to tracing programs")
+b60da4955f53 ("bpf: Only provide bpf_sock_from_file with CONFIG_NET")
+d05512618056 ("bpf: Add bpf_ktime_get_coarse_ns helper")
+3f6719c7b62f ("bpf: Add bpf_bprm_opts_set helper")
+8e4597c627fb ("bpf: Allow using bpf_sk_storage in FENTRY/FEXIT/RAW_TP")
+3ca1032ab7ab ("bpf: Implement get_current_task_btf and RET_PTR_TO_BTF_ID")
+4cf1bc1f1045 ("bpf: Implement task local storage")
+9e7a4d9831e8 ("bpf: Allow LSM programs to use bpf spin locks")

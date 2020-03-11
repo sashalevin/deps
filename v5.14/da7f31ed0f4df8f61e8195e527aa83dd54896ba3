@@ -1,0 +1,4 @@
+da7f31ed0f4d ("fs/proc/task_mmu: don't indicate PM_MMAP_EXCLUSIVE without PM_PRESENT")
+3f9f022e975d ("fs/proc/task_mmu: indicate PM_FILE for PMD-mapped file THP")
+24d7275ce279 ("fs/proc: task_mmu.c: don't read mapcount for migration entry")
+230100321518 ("mm/smaps: simplify shmem handling of pte holes")

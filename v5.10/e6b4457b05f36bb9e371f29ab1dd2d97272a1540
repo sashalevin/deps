@@ -1,0 +1,6 @@
+e6b4457b05f3 ("locking/mutex: Add MUTEX_WARN_ON")
+ad90880dc962 ("locking/mutex: Introduce __mutex_trylock_or_handoff()")
+048661a1f963 ("locking/mutex: Fix HANDOFF condition")
+ab4e4d9f79b2 ("locking/mutex: Use try_cmpxchg()")
+e2db7592be8e ("locking: Fix typos in comments")
+5de2055d31ea ("locking/ww_mutex: Simplify use_ww_ctx & ww_ctx handling")

@@ -1,0 +1,4 @@
+9558b51ab739 ("clk: imx: clk-pllv3: Use readl_relaxed_poll_timeout() for PLL lock wait")
+c684766308ab ("clk: imx: refine the powerdown bit of clk-pllv3")
+b3e76bdc0b21 ("clk: imx: clk-pllv3: fix incorrect handle of enet powerdown bit")
+585a60f24bf8 ("clk: imx: return correct frequency for Ethernet PLL")

@@ -1,0 +1,5 @@
+d6097b8d5d55 ("crypto: api - allow algs only in specific constructions in FIPS mode")
+fbb6cda44190 ("crypto: algapi - introduce the flag CRYPTO_ALG_ALLOCATES_MEMORY")
+2eb27c11937e ("crypto: algapi - add NEED_FALLBACK to INHERITED_FLAGS")
+7bcb2c99f8ed ("crypto: algapi - use common mechanism for inheriting flags")
+e72b48c5e7fe ("crypto: geniv - remove unneeded arguments from aead_geniv_alloc()")

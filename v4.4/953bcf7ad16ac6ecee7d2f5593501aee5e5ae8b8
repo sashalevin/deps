@@ -1,0 +1,7 @@
+953bcf7ad16a ("scsi: target: Document when CMD_T_STOP and CMD_T_COMPLETE are set")
+b1a2ecdad72e ("target: Inline transport_cmd_check_stop()")
+a5eb307f37d1 ("target: Stop execution if CMD_T_STOP has been set")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

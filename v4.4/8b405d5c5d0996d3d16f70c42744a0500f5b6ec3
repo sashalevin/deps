@@ -1,0 +1,8 @@
+8b405d5c5d09 ("locking/lockdep: Fix stacktrace mess")
+383a4bc88849 ("locking/lockdep: Make print_circular_bug() aware of crossrelease")
+b09be676e0ff ("locking/lockdep: Implement the 'crossrelease' feature")
+ce07a9415f26 ("locking/lockdep: Make check_prev_add() able to handle external stack_trace")
+70911fdc9576 ("locking/lockdep: Change the meaning of check_prev_add()'s return value")
+ae813308f463 ("locking/lockdep: Avoid creating redundant links")
+681fbec881de ("lockdep: Use consistent printing primitives")
+de4d195308ad ("Merge branch 'core-rcu-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

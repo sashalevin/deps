@@ -1,0 +1,8 @@
+1f4c3dce9112 ("l2tp: use get_next APIs for management requests and procfs/debugfs")
+aa92c1cec92b ("l2tp: add tunnel/session get_next helpers")
+d18d3f0a24fc ("l2tp: replace hlist with simple list for per-tunnel session list")
+8c6245af4fc5 ("l2tp: drop the now unused l2tp_tunnel_get_session")
+5f77c18ea556 ("l2tp: use IDR for all session lookups")
+2a3339f6c963 ("l2tp: store l2tpv2 sessions in per-net IDR")
+aa5e17e1f5ec ("l2tp: store l2tpv3 sessions in per-net IDR")
+c4d48a58f32c ("l2tp: convert l2tp_tunnel_list to idr")

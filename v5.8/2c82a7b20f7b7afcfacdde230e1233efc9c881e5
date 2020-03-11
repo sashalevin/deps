@@ -1,0 +1,6 @@
+2c82a7b20f7b ("HID: asus: make asus_kbd_init() generic, remove rog_nkey_led_init()")
+06ae5afce8cc ("HID: hid-asus: add const to read-only outgoing usb buffer")
+4ab3a086d10e ("HID: asus: use spinlock to safely schedule workers")
+315c537068a1 ("HID: asus: use spinlock to protect concurrent accesses")
+3fdcf7cdfc22 ("HID: asus: Remove check for same LED brightness on set")
+b92b80246e06 ("HID: asus: Add support for ASUS N-Key keyboard")

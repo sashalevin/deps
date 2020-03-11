@@ -1,0 +1,4 @@
+d2e85ca7a736 ("printk: Flush nbcon consoles first on panic")
+eacb04ff3c5b ("printk: Do not take console lock for console_flush_on_panic()")
+87f2e4b7d9e5 ("printk: console_flush_on_panic: use srcu console list iterator")
+d9a4af5690e2 ("printk: Convert console_drivers list to hlist")

@@ -1,0 +1,4 @@
+4b1c70aa8ed8 ("riscv/mm: Add XIP_FIXUP for phys_ram_base")
+805a3ebed59f ("riscv: mm: init: try best to remove #ifdef CONFIG_XIP_KERNEL usage")
+3274a6ef3b1b ("riscv: mm: init: remove _pt_ops and use pt_ops directly")
+f9ace4ede49b ("riscv: remove .text section size limitation for XIP")

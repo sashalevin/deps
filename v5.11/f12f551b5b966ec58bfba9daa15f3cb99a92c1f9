@@ -1,0 +1,4 @@
+f12f551b5b96 ("bnxt_en: Prevent TX timeout with a very small TX ring")
+e8d8c5d80f5e ("bnxt: make sure xmit_more + errors does not miss doorbells")
+3c603136c9f8 ("bnxt: don't lock the tx queue from napi poll")
+132e0b65dc2b ("bnxt_en: reverse order of TX disable and carrier off")

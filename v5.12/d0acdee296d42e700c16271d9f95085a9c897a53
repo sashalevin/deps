@@ -1,0 +1,6 @@
+d0acdee296d4 ("io_uring: don't bounce submit_state cachelines")
+dac7a0986493 ("io_uring: add helper flushing locked_free_list")
+dd78f49260dd ("io_uring: refactor io_flush_cached_reqs()")
+de9b4ccad750 ("io_uring: wrap io_kiocb reference count manipulation in helpers")
+8c3f9cd1603d ("io_uring: use better types for cflags")
+f41db2732d48 ("io_uring: add a helper failing not issued requests")

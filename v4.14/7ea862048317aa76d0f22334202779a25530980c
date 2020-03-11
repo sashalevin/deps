@@ -1,0 +1,8 @@
+7ea862048317 ("mac80211_hwsim: Use kstrndup() in place of kasprintf()")
+2f98abb17dd5 ("mac80211_hwsim: move HWSIM_ATTR_RADIO_NAME parsing last")
+3a2af7cccbba ("mac80211_hwsim: Fix possible Spectre-v1 for hwsim_world_regdom_custom")
+cb1a5bae5684 ("mac80211_hwsim: add permanent mac address option for new radios")
+0ddcff49b672 ("mac80211_hwsim: fix possible memory leak in hwsim_new_radio_nl()")
+6e3d6ca16319 ("mac80211_hwsim: add hwsim_tx_rate_flags to netlink attributes")
+c6509cc3b3e8 ("mac80211_hwsim: add hashtable with mac address keys for faster lookup")
+67bd52386125 ("mac80211_hwsim: Fix memory leak in hwsim_new_radio_nl()")

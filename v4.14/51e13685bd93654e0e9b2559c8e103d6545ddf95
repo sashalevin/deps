@@ -1,0 +1,6 @@
+51e13685bd93 ("rtnetlink: RCU-annotate both dimensions of rtnl_msg_handlers")
+87ccbb1f9436 ("rtnetlink: move type calculation out of loop")
+f707ef61e172 ("net: rtnl: return early from rtnl_unregister_all when protocol isn't registered")
+b0e9fe1ba7f8 ("rtnetlink: fix rtnl_link msghandler rcu annotations")
+e4202511480d ("rtnetlink: get reference on module before invoking handlers")
+addf9b90de22 ("net: rtnetlink: use rcu to free rtnl message handlers")

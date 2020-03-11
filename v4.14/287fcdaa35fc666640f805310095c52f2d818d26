@@ -1,0 +1,7 @@
+287fcdaa35fc ("spi: qup: Parse OPP table for DVFS support")
+597442ff4f62 ("spi: qup: switch to use modern name")
+0c331fd1dccf ("spi: qup: Request DMA before enabling clocks")
+b40af6183b68 ("spi: qup: support using GPIO as chip select line")
+70034320fdc5 ("spi: qup: add missing clk_disable_unprepare on error in spi_qup_resume()")
+136b5cd2e2f9 ("spi: qup: call spi_qup_pm_resume_runtime before suspending")
+194e1d4bc262 ("spi: qup: Use dma_request_chan() directly for channel request")

@@ -1,0 +1,7 @@
+8ab546bb30bd ("btrfs: disable allocation warnings for compression workspaces")
+eadd7deca0ad ("btrfs: zlib: zero-initialize zlib workspace")
+dc4a4bdb3f22 ("btrfs: add lzo workspace buffer length constants")
+741b23a970a7 ("btrfs: prevent copying too big compressed lzo segment")
+a6e66e6f8c1b ("btrfs: rework lzo_decompress_bio() to make it subpage compatible")
+1c3dc1731ed2 ("btrfs: rework btrfs_decompress_buf2page()")
+8c945d32e604 ("btrfs: compression: drop kmap/kunmap from lzo")

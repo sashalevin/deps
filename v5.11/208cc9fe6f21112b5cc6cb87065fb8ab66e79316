@@ -1,0 +1,7 @@
+208cc9fe6f21 ("scsi: mpt3sas: Fix incorrect 4GB boundary check")
+c569de899bb4 ("scsi: mpt3sas: Force reply post array allocations to be within same 4 GB region")
+2e4e8587327b ("scsi: mpt3sas: Force reply post buffer allocations to be within same 4 GB region")
+58501fd9375f ("scsi: mpt3sas: Force reply buffer allocations to be within same 4 GB region")
+970ac2bb70e7 ("scsi: mpt3sas: Force sense buffer allocations to be within same 4 GB region")
+7dd847dae1c4 ("scsi: mpt3sas: Force chain buffer allocations to be within same 4 GB region")
+d6adc251dd2f ("scsi: mpt3sas: Force PCIe scatterlist allocations to be within same 4 GB region")

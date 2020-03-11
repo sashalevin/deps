@@ -1,0 +1,4 @@
+7581495ac82d ("mm: kfence: fix false positives on big endian")
+1ba3cbf3ec3b ("mm: kfence: improve the performance of __kfence_alloc() and __kfence_free()")
+3c81b3bb0a33 ("kfence: enable check kfence canary on panic via boot param")
+737b6a10ac19 ("kfence: allow use of a deferrable timer")

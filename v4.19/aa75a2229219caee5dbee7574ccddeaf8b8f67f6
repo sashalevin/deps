@@ -1,0 +1,7 @@
+aa75a2229219 ("ALSA: seq: timer: Use guard() for locking")
+83e197a8414c ("ALSA: seq: Fix race of snd_seq_timer_open()")
+dc7497795e01 ("ALSA: seq: Fix concurrent access to queue current tick/time")
+60adcfde92fa ("ALSA: seq: Fix racy access for queue timer in proc read")
+6a34367e52ca ("ALSA: timer: Fix possible race at assigning a timer instance")
+33bbb8a0ecd1 ("ALSA: timer: Make snd_timer_close() returning void")
+66a8966aac12 ("Merge branch 'for-linus' into for-next")

@@ -1,0 +1,7 @@
+bcd51a3c679d ("hugetlb: lazy page table copies in fork()")
+c56d1b62cce8 ("mm/shmem: handle uffd-wp during fork()")
+b756a3b5e7ea ("mm: device exclusive memory access")
+9a5cc85c4074 ("mm/memory.c: allow different return codes for copy_nonpresent_pte()")
+6b49bf6ddbb0 ("mm: rename migrate_pgmap_owner")
+af5cdaf82238 ("mm: remove special swap entry functions")
+8f34f1eac382 ("mm/userfaultfd: fix uffd-wp special cases for fork()")

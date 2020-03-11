@@ -1,0 +1,5 @@
+5b4daa7f1256 ("net: enetc: pass bd_count as an argument to enetc_setup_cbdr")
+24be14e3260a ("net: enetc: squash enetc_alloc_cbdr and enetc_setup_cbdr")
+01121ab73924 ("net: enetc: save the DMA device for enetc_free_cbdr")
+176769d10f96 ("net: enetc: move the CBDR API to enetc_cbdr.c")
+3222b5b613db ("net: enetc: initialize RFS/RSS memories for unused ports too")

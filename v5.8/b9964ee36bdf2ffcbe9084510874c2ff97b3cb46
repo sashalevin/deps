@@ -1,0 +1,4 @@
+b9964ee36bdf ("KVM: x86: Make kvm_lapic_set_reg() a "private" xAPIC helper")
+a57a31684d7b ("KVM: x86: Treat x2APIC's ICR as a 64-bit register, not two 32-bit regs")
+5429478d038f ("KVM: x86: Add helpers to handle 64-bit APIC MSR read/writes")
+bd17f417c07d ("KVM: x86: WARN if KVM emulates an IPI without clearing the BUSY flag")

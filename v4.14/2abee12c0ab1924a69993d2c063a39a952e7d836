@@ -1,0 +1,5 @@
+2abee12c0ab1 ("ASoC: samsung: odroid: fix a double-free issue for cpu_dai")
+9b6d104a6b15 ("ASoC: samsung: odroid: fix an use-after-free issue for codec")
+d832d2b246c5 ("ASoC: samsung: odroid: Fix of_node refcount unbalance")
+bc3cf17b575a ("ASoC: samsung: odroid: Add support for secondary CPU DAI")
+4718840e76f7 ("ASoC: samsung: Use snd_soc_of_put_dai_link_codecs() in odroid.c")

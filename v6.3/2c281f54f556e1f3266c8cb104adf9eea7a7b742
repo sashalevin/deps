@@ -1,0 +1,4 @@
+2c281f54f556 ("mm/ksm: move disabling KSM from s390/gmap code to KSM code")
+24139c07f413 ("mm/ksm: unmerge and clear VM_MERGEABLE when setting PR_SET_MEMORY_MERGE=0")
+d7597f59d1d3 ("mm: add new api to enable ksm per process")
+ddc65971bb67 ("prctl: add PR_GET_AUXV to copy auxv to userspace")

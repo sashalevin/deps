@@ -1,0 +1,6 @@
+a9b8a985294d ("workqueue: Convert the pool::lock and wq_mayday_lock to raw_spinlock_t")
+d8bb65ab70f7 ("workqueue: Use rcuwait for wq_manager_wait")
+e66b39af00f4 ("workqueue: Fix pwq ref leak in rescuer_thread()")
+c29eb8538688 ("workqueue: more destroy_workqueue() fixes")
+def98c84b6cd ("workqueue: Fix spurious sanity check failures in destroy_workqueue()")
+23c970608a09 ("Merge branch 'for-5.2' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/wq")

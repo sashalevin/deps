@@ -1,0 +1,5 @@
+3da0272a4c7d ("mm/compaction: correctly return failure with bogus compound_order in strict mode")
+23baf831a32c ("mm, treewide: redefine MAX_ORDER sanely")
+61883d3c3241 ("iommu: fix MAX_ORDER usage in __iommu_dma_alloc_pages()")
+7a16d7c7619b ("mm/slub: fix MAX_ORDER usage in calculate_order()")
+75558ad31548 ("sparc/mm: fix MAX_ORDER usage in tsb_grow()")

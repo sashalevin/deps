@@ -1,0 +1,7 @@
+ecb010d44108 ("iio: imu: adis: Refactor adis_initial_startup")
+3f17ada8f38c ("iio: imu: adis: add unlocked __adis_initial_startup()")
+380b107bbf94 ("iio: adis: Introduce timeouts structure")
+cb5a07f1f15c ("iio: imu: adis: protect initial startup routine with state lock")
+6a4d6a7d6588 ("iio: imu: adis: create an unlocked version of adis_check_status()")
+6a9afcb198b4 ("iio: imu: adis: rename txrx_lock -> state_lock")
+6a39ab3b195c ("iio: imu: adis: check ret val for non-zero vs less-than-zero")

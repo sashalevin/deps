@@ -1,0 +1,6 @@
+a9f2b249adee ("pinctrl: ti: ti-iodelay: Fix some error handling paths")
+791a8bb202a8 ("pinctrl: ti: iodelay: Use scope based of_node_put() cleanups")
+9b401f4a7170 ("pinctrl: ti: ti-iodelay: fix possible memory leak when pinctrl_enable() fails")
+63bffc2d3a99 ("pinctrl: Use device_get_match_data()")
+93650550dff9 ("pinctrl: ti: ti-iodelay: Convert to platform remove callback returning void")
+88b3f108502b ("pinctrl: ti: ti-iodelay: Drop if block with always false condition")

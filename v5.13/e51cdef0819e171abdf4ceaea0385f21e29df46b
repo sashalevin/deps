@@ -1,0 +1,5 @@
+e51cdef0819e ("rtc: pcf8523: let the core handle the alarm resolution")
+c1325e730caf ("rtc: pcf8523: switch to RTC_FEATURE_UPDATE_INTERRUPT")
+91f3849d956d ("rtc: pcf8523: switch to regmap")
+7d7234a4fff3 ("rtc: pcf8523: avoid reading BLF in pcf8523_rtc_read_time")
+4aa90c036df6 ("rtc: pcf8523: rename register and bit defines")

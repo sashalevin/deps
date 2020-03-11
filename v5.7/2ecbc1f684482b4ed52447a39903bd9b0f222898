@@ -1,0 +1,5 @@
+2ecbc1f68448 ("Revert "bpfilter: Fix build error with CONFIG_BPFILTER_UMH"")
+1d273fcc2c29 ("bpfilter: Fix build error with CONFIG_BPFILTER_UMH")
+8a2cc0505cc4 ("bpfilter: use 'userprogs' syntax to build bpfilter_umh")
+9371f86ecb60 ("bpfilter: match bit size of bpfilter_umh to that of the kernel")
+30a772977173 ("kbuild: use -MMD instead of -MD to exclude system headers from dependency")

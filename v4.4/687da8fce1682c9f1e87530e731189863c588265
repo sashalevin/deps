@@ -1,0 +1,6 @@
+687da8fce168 ("powerpc/prom: Increase minimum RMA size to 512MB")
+76ffb5785047 ("powerpc/prom: Switch to using structs for ibm_architecture_vec")
+d03d1d65b557 ("powerpc/prom: Define structs for client architecture vectors")
+66443efa83dc ("powerpc/prom: Fix sub-processor option passed to ibm, client-architecture-support")
+2c2a63e301fd ("powerpc/pseries: Fix IBM_ARCH_VEC_NRCORES_OFFSET since POWER8NVL was added")
+7cc851039d64 ("powerpc/pseries: Add POWER8NVL support to ibm,client-architecture-support call")

@@ -1,0 +1,3 @@
+97451855cc3b ("serial: uartps: Remove unconditional wait inside set_termios")
+277375b864e8 ("serial: uartps: Add a timeout to the tx empty wait")
+107475685abf ("serial: uartps: Move the spinlock after the read of the tx empty")

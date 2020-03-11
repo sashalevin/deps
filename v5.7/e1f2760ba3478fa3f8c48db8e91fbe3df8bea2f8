@@ -1,0 +1,6 @@
+e1f2760ba347 ("null_blk: replace strncpy with strscpy")
+132226b301b5 ("null_blk: convert to blk_alloc_disk/blk_cleanup_disk")
+eebf34a85c8c ("null_blk: Move driver into its own directory")
+c62b37d96b6e ("block: move ->make_request_fn to struct block_device_operations")
+dcacbc1242c7 ("bcache: check and adjust logical block size for backing devices")
+ac7c5675fa45 ("blk-mq: allow blk_mq_make_request to consume the q_usage_counter reference")

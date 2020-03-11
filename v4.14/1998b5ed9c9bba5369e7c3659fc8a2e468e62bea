@@ -1,0 +1,5 @@
+1998b5ed9c9b ("l2tp: drop ->flags from struct pppol2tp_session")
+da9ca825ef79 ("l2tp: remove the .tunnel_sock field from struct pppol2tp_session")
+f98be6c6359e ("l2tp: initialise PPP sessions before registering them")
+ee40fb2e1eb5 ("l2tp: protect sock pointer of struct pppol2tp_session with RCU")
+3953ae7b218d ("l2tp: don't register sessions in l2tp_session_create()")

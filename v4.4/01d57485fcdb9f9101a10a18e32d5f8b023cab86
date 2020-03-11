@@ -1,0 +1,7 @@
+01d57485fcdb ("arm64: tlbflush: Ensure start/end of address range are aligned to stride")
+3d65b6bbc01e ("arm64: tlbi: Set MAX_TLBI_OPS to PTRS_PER_PTE")
+67a902ac598d ("arm64: tlbflush: Allow stride to be specified for __flush_tlb_range()")
+d8289d3a5854 ("arm64: tlb: Justify non-leaf invalidation in flush_tlb_range()")
+7f170499f734 ("arm64: tlbflush: avoid writing RES0 bits")
+9b0de864b5bc ("arm64: mm: Invalidate both kernel and user ASIDs when performing TLBI")
+db68f3e7594a ("arm64: tlbflush.h: add __tlbi() macro")

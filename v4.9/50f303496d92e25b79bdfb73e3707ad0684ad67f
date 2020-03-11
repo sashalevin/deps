@@ -1,0 +1,5 @@
+50f303496d92 ("igb: Enable SR-IOV after reinit")
+65f69851e44d ("igb: revert rtnl_lock() that causes deadlock")
+6faee3d4ee8b ("igb: Add lock to avoid data race")
+4827cc37796a ("igb/igbvf: Add VF MAC filter request capabilities")
+83c21335c876 ("igb: improve MAC filter handling")

@@ -1,0 +1,4 @@
+18cd029fd7f7 ("virtio: remove the original find_vqs() op")
+c502eb85c34e ("virtio: introduce virtio_queue_info struct and find_vqs_info() config op")
+959538c11a88 ("virtio: make virtio_find_single_vq() call virtio_find_vqs()")
+de1177e56005 ("virtio: make virtio_find_vqs() call virtio_find_vqs_ctx()")

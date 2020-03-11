@@ -1,0 +1,5 @@
+76aefad628aa ("mm/mprotect: fix soft-dirty check in can_change_pte_writable()")
+64fe24a3e05e ("mm/mprotect: try avoiding write faults for exclusive anonymous pages when changing protection")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+09f49dca570a ("mm: handle uninitialized numa nodes gracefully")
+e930d9997150 ("mm, memory_hotplug: make arch_alloc_nodedata independent on CONFIG_MEMORY_HOTPLUG")

@@ -1,0 +1,7 @@
+6e822c2c2919 ("net: udp: remove redundant initialization in udp_dump_one")
+5682d393b40e ("inet_diag: Refactor inet_sk_diag_fill(), dump(), and dump_one()")
+b37e88407c1d ("inet_diag: allow protocols to provide additional data")
+67db3e4bfbc9 ("tcp: no longer hold ehash lock while calling tcp_get_info()")
+ccbf3bfaee0e ("tcp: shortcut listeners in tcp_get_info()")
+432490f9d455 ("net: ip, diag -- Add diag interface for raw sockets")
+9652dc2eb9e4 ("tcp: relax listening_hash operations")

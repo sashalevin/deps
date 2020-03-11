@@ -1,0 +1,8 @@
+47a6959fa331 ("netfilter: allow to turn off xtables compat layer")
+d3d40f237480 ("Revert "netfilter: x_tables: Switch synchronization to RCU"")
+cc00bcaa5899 ("netfilter: x_tables: Switch synchronization to RCU")
+c34bc10d2535 ("netfilter: remove the compat argument to xt_copy_counters_from_user")
+fc66de8e16ec ("netfilter/ebtables: clean up compat {get, set}sockopt handling")
+f415e76fd723 ("netfilter/ip6_tables: clean up compat {get, set}sockopt handling")
+89c53c14e4d2 ("netfilter/ip_tables: clean up compat {get,set}sockopt handling")
+983094b4fc2d ("netfilter/arp_tables: clean up compat {get, set}sockopt handling")

@@ -1,0 +1,8 @@
+9bb6362652f3 ("debugobjects: Stop accessing objects after releasing hash bucket lock")
+63a759694eed ("debugobject: Prevent init race with static objects")
+aedcade6f4fa ("debugobjects: Allow debug_obj_descr to be const")
+d5f34153e526 ("debugobjects: Move printk out of db->lock critical sections")
+a7344a68a79a ("debugobjects: Less aggressive freeing of excess debug objects")
+d26bf5056fc0 ("debugobjects: Reduce number of pool_lock acquisitions in fill_pool()")
+634d61f45d6f ("debugobjects: Percpu pool lookahead freeing/allocation")
+d86998b17a01 ("debugobjects: Add percpu free pools")

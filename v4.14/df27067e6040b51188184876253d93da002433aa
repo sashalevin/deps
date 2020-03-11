@@ -1,0 +1,3 @@
+df27067e6040 ("pstore: Use ktime_get_real_fast_ns() instead of __getnstimeofday()")
+4c3711d7fb47 ("timekeeping: Provide NMI safe access to clock realtime")
+5df32107f609 ("timekeeping: Make fast accessors return 0 before timekeeping is initialized")

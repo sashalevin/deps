@@ -1,0 +1,7 @@
+935ace2fb5cc ("entry: Provide infrastructure for work before transitioning to guest mode")
+142781e108b1 ("entry: Provide generic syscall entry functionality")
+c57c80467f90 ("kvm: Add helper function for creating VM worker threads")
+2eb06c306a57 ("KVM: Fix spinlock taken warning during host resume")
+c011d23ba046 ("kvm: fix compilation on aarch64")
+cdd6ad3ac63d ("KVM: polling: add architecture backend to disable polling")
+6706dae90d85 ("virt/kvm: Replace spin_is_locked() with lockdep")

@@ -1,0 +1,4 @@
+e11c1a7eb302 ("perf/x86: Factor out x86_pmu_show_pmu_cap")
+c8e2fe13d1d1 ("x86/perf: Use RET0 as default for guest_get_msrs to handle "no PMU" case")
+32451614da2a ("perf/x86/intel: Support CPUID 10.ECX to disable fixed counters")
+abd562df94d1 ("x86/perf: Use static_call for x86_pmu.guest_get_msrs")

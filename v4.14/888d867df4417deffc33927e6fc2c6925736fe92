@@ -1,0 +1,5 @@
+888d867df441 ("tpm: cmd_ready command can be issued only after granting locality")
+b3e958ce4c58 ("tpm: Keep CLKRUN enabled throughout the duration of transmit_cmd()")
+c382babccba2 ("tpm_tis: Move ilb_base_addr to tpm_tis_data")
+cf151a9a44d5 ("tpm: reduce tpm polling delay in tpm_tis_core")
+87cdfdd19aef ("tpm: move wait_for_tpm_stat() to respective driver files")

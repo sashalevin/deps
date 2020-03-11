@@ -1,0 +1,8 @@
+ed0192bc644f ("s390/maccess: rework absolute lowcore accessors")
+9097fc793f74 ("s390/smp: cleanup control register update routines")
+dc2ab23b992c ("s390/smp: cleanup target CPU callback starting")
+9de209c7d584 ("s390/dump: fix os_info virtual vs physical address confusion")
+915fea04f932 ("s390/smp: enable DAT before CPU restart callback is called")
+97dd89e90136 ("s390/ctl_reg: add ctlreg5 and ctlreg15 unions")
+b55e692e6bcb ("s390: rename CALL_ON_STACK_NORETURN() to call_on_stack_noreturn()")
+0f541cc20129 ("s390/smp: use call_on_stack() macro")

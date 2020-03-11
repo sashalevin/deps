@@ -1,0 +1,8 @@
+926b83e5f9f0 ("phy: phy-mtk-tphy: print error log using child device")
+3fd6611242b9 ("phy: phy-mtk-tphy: use clock bulk to get clocks")
+aaac9a1bd370 ("phy: phy-mtk-tphy: Fix some resource leaks in mtk_phy_init()")
+12d0c0bed3f4 ("phy: phy-mtk-tphy: add a new reference clock")
+360f43448f49 ("phy: phy-mtk-tphy: remove unused u3phya_ref clock")
+657a9edec075 ("phy: phy-mtk-tphy: make the ref clock optional")
+b603c500d7a5 ("phy: phy-mtk-tphy: get optional clock by devm_clk_get_optional()")
+8833ebf4f853 ("phy: phy-mtk-tphy: add configurable parameters for slew rate calibrate")

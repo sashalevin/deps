@@ -1,0 +1,8 @@
+c4a0f7a6ab54 ("usb: dwc2: Skip clock gating on Samsung SoCs")
+50fb0c128b6e ("usb: dwc2: Add clock gating entering flow by system suspend")
+d37b939cf41f ("usb: dwc2: Update enter clock gating when port is suspended")
+cbe1e903e5ab ("usb: dwc2: Allow entering clock gating from USB_SUSPEND interrupt")
+113f86d0c302 ("usb: dwc2: Update partial power down entering by system suspend")
+22ff0c8e529e ("usb: dwc2: Add enter partial power down when port is suspended")
+139fae7a0838 ("usb: dwc2: Update port suspend/resume function definitions.")
+93f672804bf2 ("usb: dwc2: Prevent core suspend when port connection flag is 0")

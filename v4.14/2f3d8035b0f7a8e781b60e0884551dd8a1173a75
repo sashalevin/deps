@@ -1,0 +1,5 @@
+2f3d8035b0f7 ("spi: fsl: simplify error path in of_fsl_spi_probe()")
+63aa6a692595 ("spi: fsl: use platform_get_irq() instead of of_irq_to_resource()")
+3194d2533eff ("spi: fsl: don't map irq during probe")
+0f0581b24bd0 ("spi: fsl: Convert to use CS GPIO descriptors")
+69b921acae8a ("spi: spi-fsl-spi: support use of the SPISEL_BOOT signal on MPC8309")

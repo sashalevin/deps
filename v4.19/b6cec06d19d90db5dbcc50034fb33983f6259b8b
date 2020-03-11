@@ -1,0 +1,6 @@
+b6cec06d19d9 ("nvme-loop: remove extra variable in create ctrl")
+64d452b3560b ("nvme-loop: set ctrl state connecting after init")
+b780d7415aac ("nvme: Fix ctrl use-after-free during sysfs deletion")
+bd46a9063430 ("nvme-pci: Fix async probe remove race")
+3f2304f8c6d6 ("nvme-tcp: add NVMe over TCP host driver")
+d6a2b9535d1e ("nvme: Free ctrl device name on init failure")

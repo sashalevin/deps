@@ -1,0 +1,3 @@
+cd9f84f35c2e ("shrink_dentry_list(): no need to check that dentry refcount is marked dead")
+8f04da2adbdf ("fs/dcache: Avoid a try_lock loop in shrink_dentry_list()")
+3b3f09f48ba7 ("get rid of trylock loop in locking dentries on shrink list")

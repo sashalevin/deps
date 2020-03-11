@@ -1,0 +1,8 @@
+99d4850062a8 ("perf tool x86: Fix perf_env memory leak")
+0cd1ca4650c9 ("perf tool x86: Consolidate is_amd check into single function")
+f7b58cbdb3ff ("perf mem/c2c: Add load store event mappings for AMD")
+9ab95b0b15a0 ("perf record ibs: Warn about sampling period skew")
+151e7d75036b ("perf record: Support sample-read topdown metric group for hybrid platforms")
+e0e14cdff31d ("perf parse-events: Move slots event for the hybrid platform too")
+39d5f412da84 ("perf evsel: Fixes topdown events in a weak group for the hybrid platform")
+d98079c05b5a ("perf evlist: Keep topdown counters in weak group")

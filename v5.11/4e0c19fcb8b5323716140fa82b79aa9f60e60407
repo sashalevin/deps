@@ -1,0 +1,5 @@
+4e0c19fcb8b5 ("net: dsa: don't leak tagger-owned storage on switch driver unbind")
+39e222bfd7f3 ("net: dsa: unregister cross-chip notifier after ds->ops->teardown")
+deff710703d8 ("net: dsa: Allow default tag protocol to be overridden from DT")
+e0c755a45f6f ("net: dsa: don't assign an error value to tag_ops")
+357f203bb3b5 ("net: dsa: keep a copy of the tagging protocol in the DSA switch tree")

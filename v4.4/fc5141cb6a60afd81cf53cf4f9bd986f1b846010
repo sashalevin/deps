@@ -1,0 +1,7 @@
+fc5141cb6a60 ("net: gro: use vlan API instead of accessing directly")
+b1817524c028 ("net/core: use __vlan_hwaccel helpers")
+45a497f2d149 ("net/sched: act_vlan: Introduce TCA_VLAN_ACT_MODIFY vlan action")
+5026c9b1bafc ("net sched: vlan action fix late binding")
+ddf97ccdd7cb ("net_sched: add network namespace support for tc actions")
+1d4150c02c57 ("net_sched: prepare tcf_hashinfo_destroy() for netns support")
+ce87fc6ce3f9 ("gro: Make GRO aware of lightweight tunnels.")

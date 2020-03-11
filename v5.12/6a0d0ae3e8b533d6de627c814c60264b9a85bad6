@@ -1,0 +1,6 @@
+6a0d0ae3e8b5 ("scsi: scsi_debug: Fix sdebug_blk_mq_poll() in_use_bm bitmap use")
+3fd07aecb750 ("scsi: scsi_debug: Fix qc_lock use in sdebug_blk_mq_poll()")
+b05d4e481eff ("scsi: scsi_debug: Refine sdebug_blk_mq_poll()")
+6c2c7d6aa439 ("scsi: scsi_debug: Call scsi_done() directly")
+4a0c6f432d15 ("scsi: scsi_debug: Add new defer type for mq_poll")
+c4b57d89bad8 ("scsi: scsi_debug: mq_poll support")

@@ -1,0 +1,5 @@
+e644b2f498d2 ("tpm, tpm_tis: Enable interrupt test")
+15d7aa4e46eb ("tpm, tpm_tis: Claim locality before writing interrupt registers")
+ed9be0e6c892 ("tpm, tpm_tis: Do not skip reset of original interrupt vector")
+e630af7dfb45 ("tpm, tpm_tis: Extend locality handling to TPM2 in tpm_tis_gen_interrupt()")
+d53a6adfb553 ("tpm, tpm_tis: Decorate tpm_tis_gen_interrupt() with request_locality()")

@@ -1,0 +1,7 @@
+6971d2167282 ("tcp: move reqsk_alloc() to inet_connection_sock.c")
+adbe695a9765 ("tcp: move inet_reqsk_alloc() close to inet_reqsk_clone()")
+2c321f3f70bc ("mm: change inlined allocation helpers to account at the call site")
+7bd230a26648 ("mm/slab: enable slab allocation tagging for kmalloc and friends")
+956c0d619107 ("tcp: Clear req->syncookie in reqsk_alloc().")
+695751e31a63 ("bpf: tcp: Handle BPF SYN Cookie in cookie_v[46]_check().")
+95e752b5299f ("tcp: Move skb_steal_sock() to request_sock.h")

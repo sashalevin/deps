@@ -1,0 +1,8 @@
+5135e96a3dd2 ("net: dsa: don't allocate the slave_mii_bus using devres")
+8fd54a73b7cd ("net: dsa: call teardown method on probe failure")
+fb35c60cbacc ("net: dsa: use ports list to setup switches")
+4ba0ebbc6cde ("net: dsa: Fix off-by-one number of calls to devlink_port_unregister")
+0394a63acfe2 ("net: dsa: enable and disable all ports")
+955222ca5281 ("net: dsa: use a single switch statement for port setup")
+e70c7aad7a95 ("net: dsa: Add error path handling in dsa_tree_setup()")
+b2243b369c78 ("net: dsa: Call driver's setup callback after setting up its switchdev notifier")

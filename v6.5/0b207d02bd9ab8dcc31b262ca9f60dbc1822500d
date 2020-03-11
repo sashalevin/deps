@@ -1,0 +1,4 @@
+0b207d02bd9a ("rbd: take header_rwsem in rbd_dev_refresh() only when updating")
+c10311776f0a ("rbd: decouple parent info read-in from updating rbd_dev")
+510a7330c82a ("rbd: decouple header read-in from updating rbd_dev->header")
+0b035401c570 ("rbd: move rbd_dev_refresh() definition")

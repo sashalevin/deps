@@ -1,0 +1,7 @@
+4caa211522f4 ("pwm: xilinx: Prepare removing pwm_chip from driver data")
+9a2273a16157 ("pwm: xilinx: Convert to platform remove callback returning void")
+bc1ce713a084 ("pwm: Add support for Xilinx AXI Timer")
+a2bc9b21fd3f ("pwm: Remove ZTE ZX driver")
+71d4b833da7f ("pwm: Fix dependencies on HAS_IOMEM")
+269effd03f61 ("pwm: zx: Add missing cleanup in error path")
+bde048ebbd27 ("pwm: zx: Convert to devm_platform_ioremap_resource()")

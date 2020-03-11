@@ -1,0 +1,5 @@
+a421e3fe0e6a ("smb: client: use actual path when queryfs")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+fddc6ccc487e ("cifs: append path to open_enter trace event")
+de036dcaca65 ("cifs: Fix uninitialized memory reads for oparms.mode")
+d447e794a372 ("cifs: Fix uninitialized memory read in smb3_qfs_tcon()")

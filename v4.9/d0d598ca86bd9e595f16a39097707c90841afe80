@@ -1,0 +1,5 @@
+d0d598ca86bd ("net: remove sk_route_forced_caps")
+0a6b2a1dc2a2 ("tcp: switch to GSO being always on")
+c2a2efbbfcb3 ("net: remove bh disabling around percpu_counter accesses")
+9115e8cd2a0c ("net: reorganize struct sock for better data locality")
+86741ec25462 ("net: core: Add a UID field to struct sock.")

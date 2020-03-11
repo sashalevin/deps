@@ -1,0 +1,7 @@
+db5b2c5a90a1 ("x86/entry/compat: Clear RAX high bits on Xen PV SYSENTER")
+ffae641f5747 ("x86/entry/64/compat: Fix Xen PV SYSENTER frame setup")
+6dcc5627f6ae ("x86/asm: Change all ENTRY+ENDPROC to SYM_FUNC_*")
+26ba4e5738a5 ("x86/asm: Use SYM_INNER_LABEL instead of GLOBAL")
+e9b9d020c487 ("x86/asm: Annotate aliases")
+74d8b90a8890 ("x86/asm/crypto: Annotate local functions")
+ffedeeb780dc ("linkage: Introduce new macros for assembler symbols")

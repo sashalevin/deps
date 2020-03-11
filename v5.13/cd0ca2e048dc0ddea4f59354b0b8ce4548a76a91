@@ -1,0 +1,7 @@
+cd0ca2e048dc ("io_uring: inline struct io_comp_state")
+bb943b8265c8 ("io_uring: use inflight_entry instead of compl.list")
+7255834ed6ef ("io_uring: remove redundant args from cache_free")
+c34b025f2d21 ("io_uring: cache __io_free_req()'d requests")
+5182ed2e332e ("io_uring: refactor io_submit_flush_completions")
+2a2758f26df5 ("io_uring: refactor io_submit_flush_completions()")
+d0acdee296d4 ("io_uring: don't bounce submit_state cachelines")

@@ -1,0 +1,6 @@
+ceb6ba45dc80 ("sched/fair: Sync load_sum with load_avg after dequeue")
+8d5b9025f9b4 ("sched/fair: Introduce {en,de}queue_load_avg()")
+b5b3e35f4149 ("sched/fair: Rename {en,de}queue_entity_load_avg()")
+b382a531b9fe ("sched/fair: Move enqueue migrate handling")
+88c0616ee729 ("sched/fair: Change update_load_avg() arguments")
+c7b50216818e ("sched/fair: Remove se->load.weight from se->avg.load_sum")

@@ -1,0 +1,8 @@
+af467fad78f0 ("mmc: sdhci-of-at91: wait for calibration done before proceed")
+dbdea70f71d6 ("mmc: sdhci-of-at91: fix CALCR register being rewritten")
+727d836a375a ("mmc: sdhci-of-at91: add DT property to enable calibration on full reset")
+e2b372ebb9ce ("mmc: sdhci-of-at91: set clocks and presets after resume from deepest PM")
+c8a019e7e12e ("mmc: sdhci-of-at91: factor out clks and presets setting")
+7a1e3f143176 ("mmc: sdhci-of-at91: force card detect value for non removable devices")
+d0918764c17b ("mmc: sdhci-of-at91: fix MMC_DDR_52 timing selection")
+2ce0c7b65505 ("mmc: sdhci-of-at91: Support external regulators")

@@ -1,0 +1,5 @@
+65291dcfcf89 ("mm/secretmem: fix GUP-fast succeeding on secretmem folios")
+8f9ff2deb8b9 ("secretmem: convert page_is_secretmem() to folio_is_secretmem()")
+b0496fe4effd ("mm/gup: Convert gup_pte_range() to use a folio")
+79f9bc584314 ("mm/secretmem: fix NULL page->mapping dereference in page_is_secretmem()")
+1507f51255c9 ("mm: introduce memfd_secret system call to create "secret" memory areas")

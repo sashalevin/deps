@@ -1,0 +1,7 @@
+dd7a82b52cc1 ("habanalabs: fix handling of wait CS for interrupting signals")
+2bc61bc4f3ea ("habanalabs: keep a record of completed CS outcomes")
+b02220536cb6 ("habanalabs: wait again for multi-CS if no CS completed")
+db1a8dd916aa ("habanalabs: add support for dma-buf exporter")
+ea6eb91c09cd ("habanalabs: fix race condition in multi CS completion")
+f05d17b226db ("habanalabs: take timestamp on wait for interrupt")
+d62b9a6976cd ("habanalabs: add support for a long interrupt target value")

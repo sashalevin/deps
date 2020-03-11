@@ -1,0 +1,7 @@
+e6a08c6949cb ("serial: 8250: dw: Fix NULL pointer dereference")
+0946efc2255f ("serial: 8250_dw: Re-use temporary variable for of_node")
+b7639b0b15dd ("serial: 8250_dw: Limit dw8250_tx_wait_empty quirk to armada-38x devices")
+7d6e2143bed7 ("serial: 8250_dw: Switch to use acpi_dev_present()")
+914eaf935ec7 ("serial: 8250_dw: Allow TX FIFO to drain before writing to UART_LCR")
+6a171b299379 ("serial: 8250_dw: Allow hardware flow control to be used")
+0e0b989eb330 ("serial: 8250_dw: Add support for IrDA SIR mode")

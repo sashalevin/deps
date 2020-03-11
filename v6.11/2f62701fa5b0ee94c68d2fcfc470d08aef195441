@@ -1,0 +1,6 @@
+2f62701fa5b0 ("KVM: arm64: Refine PMU defines for number of counters")
+126d7d7cce5e ("arm64: perf/kvm: Use a common PMU cycle counter define")
+f9b11aa00708 ("KVM: arm64: pmu: Use generated define for PMSELR_EL0.SEL access")
+741ee5284551 ("KVM: arm64: pmu: Use arm_pmuv3.h register accessors")
+a4a6e2078d85 ("perf: arm_pmuv3: Prepare for more than 32 counters")
+bf5ffc8c80e0 ("perf: arm_pmu: Remove event index to counter remapping")

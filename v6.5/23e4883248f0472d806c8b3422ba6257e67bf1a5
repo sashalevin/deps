@@ -1,0 +1,4 @@
+23e4883248f0 ("mm: add page_rmappable_folio() wrapper")
+da6e7bf3a031 ("mm: convert prep_transhuge_page() to folio_prep_large_rmappable()")
+8dc4a8f1e038 ("mm: convert free_transhuge_folio() to folio_undo_large_rmappable()")
+dd6fa0b61814 ("mm: call free_huge_page() directly")

@@ -1,0 +1,5 @@
+341ac5ffc4bd ("libbpf: Support static initialization of BPF_MAP_TYPE_PROG_ARRAY")
+ad23b7238474 ("libbpf: Use Elf64-specific types explicitly for dealing with ELF")
+29a30ff50151 ("libbpf: Extract ELF processing state into separate struct")
+161ecd537948 ("libbpf: Properly ignore STT_SECTION symbols in legacy map definitions")
+c3e8c44a9063 ("libbpf: Ignore STT_SECTION symbols in 'maps' section")

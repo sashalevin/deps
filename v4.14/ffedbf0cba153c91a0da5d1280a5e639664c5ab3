@@ -1,0 +1,7 @@
+ffedbf0cba15 ("irqchip/gic-v3-its: Kill its->ite_size and use TYPER copy instead")
+56841070ccc8 ("irqchip/gic-v3-its: Fix ITT_entry_size accessor")
+147c8f376e55 ("irqchip/gic-v3-its: Move minimum LPI requirements to individual busses")
+4f2c7583e33e ("irqchip/gic-v3-its: Ensure nr_ites >= nr_lpis")
+debf6d02bb58 ("irqchip/gic-v3-its: Track per-ITS list number")
+9d111d49106b ("irqchip/gic: Make quirks matching conditional on init return value")
+fa1500191958 ("irqchip/gic-v3: Probe device ID space before quirks handling")

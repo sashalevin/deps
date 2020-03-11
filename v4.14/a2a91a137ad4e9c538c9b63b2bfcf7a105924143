@@ -1,0 +1,8 @@
+a2a91a137ad4 ("vhost_net: introduce get_tx_bufs()")
+272f35cba53d ("vhost_net: introduce vhost_exceeds_weight()")
+b0d0ea50e782 ("vhost_net: introduce helper to initialize tx iov iter")
+652e4f3e82a1 ("vhost_net: drop unnecessary parameter")
+027b17603b03 ("vhost_net: Avoid tx vring kicks during busyloop")
+db688c24eada ("vhost_net: use packet weight for rx handler, too")
+a2ac99905f1e ("vhost-net: set packet weight of tx polling to 2 * vq size")
+1e6f74536de0 ("vhost_net: do not stall on zerocopy depletion")

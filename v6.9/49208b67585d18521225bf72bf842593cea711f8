@@ -1,0 +1,6 @@
+49208b67585d ("kbuild: fix rebuild of generic syscall headers")
+fbb5c0606fa4 ("kbuild: add syscall table generation to scripts/Makefile.asm-headers")
+b70f12e962bc ("kbuild: verify asm-generic header list")
+b1992c3772e6 ("kbuild: use $(src) instead of $(srctree)/$(src) for source directory")
+9dcb47a616d5 ("kbuild: do not add $(srctree) or $(objtree) to header search paths")
+6552b72c3a4e ("dt-bindings: kbuild: Split targets out to separate rules")

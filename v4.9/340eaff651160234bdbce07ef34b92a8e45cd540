@@ -1,0 +1,8 @@
+340eaff65116 ("netfilter: nft_set_rbtree: Add missing expired checks")
+6f7c9caf017b ("netfilter: nft_set_rbtree: Introduce and use nft_rbtree_interval_start()")
+db3b665dd77b ("netfilter: nft_set_rbtree: bogus lookup/get on consecutive elements in named sets")
+3b18d5eba491 ("netfilter: nft_set_rbtree: allow loose matching of closing element in interval")
+82e20b44477f ("netfilter: nft_set_rbtree: fix parameter of __nft_rbtree_lookup()")
+ba0e4d9917b4 ("netfilter: nf_tables: get set elements via netlink")
+9b7e26aee7cf ("netfilter: nft_set_rbtree: use seqcount to avoid lock in most cases")
+52a623bd6189 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

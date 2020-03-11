@@ -1,0 +1,7 @@
+ff221a6d9ae8 ("tools/nolibc: i386: add stackprotector support")
+9735716830f2 ("tools/nolibc: tests: add test for -fstack-protector")
+52e423f5b93e ("tools/nolibc: export environ as a weak symbol on i386")
+7f8548589661 ("tools/nolibc: make compiler and assembler agree on the section around _start")
+0043e6f21dbe ("selftests/nolibc: add s390 support")
+18a5a09d90a7 ("nolibc: add support for s390")
+184177c3d6e0 ("tools/nolibc: restore mips branch ordering in the _start block")

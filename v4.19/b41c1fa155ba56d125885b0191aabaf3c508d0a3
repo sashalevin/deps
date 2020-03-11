@@ -1,0 +1,4 @@
+b41c1fa155ba ("USB: class: CDC-ACM: fix race between get_serial and set_serial")
+496960274153 ("USB: cdc-acm: fix TIOCGSERIAL implementation")
+633e2b2ded73 ("USB: cdc-acm: fix close_delay and closing_wait units in TIOCSSERIAL")
+99f75a1fcd86 ("cdc-acm: switch to ->[sg]et_serial()")

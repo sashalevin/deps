@@ -1,0 +1,5 @@
+b7823045ec1a ("perf pmu: Make id const and add missing free")
+efe98a7a3977 ("perf pmu: Use zfree() to reduce chances of use after free")
+eec1131091c8 ("perf pmu: Add perf_pmu__destroy() function")
+f8ad6018ce3c ("perf pmu: Remove duplication around EVENT_SOURCE_DEVICE_PATH")
+acef233b7ca7 ("perf pmu: Add #slots literal support for arm64")

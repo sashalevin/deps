@@ -1,0 +1,8 @@
+c249c5f64336 ("drm/i915: Handle cursor updating active_planes correctly, v2.")
+ef1a19146827 ("drm/i915: Extract intel_plane_{pin,unpin}_fb()")
+f7a02ad7d16b ("drm/i915: Only pin the fence for primary planes (and gen2/3)")
+85798ac9b35f ("drm/i915: Fail if we can't get a fence for gen2/3 tiled scanout")
+5935485f8eee ("drm/i915: Move the policy for placement of the GGTT vma into the caller")
+3bd4073524fa ("drm/i915: Consolidate get_fence with pin_fence")
+b4563f595ed4 ("drm/i915: Pin fence for iomap")
+9afafdbfbf5e ("Merge tag 'drm-intel-next-2017-09-07' of git://anongit.freedesktop.org/git/drm-intel into drm-next")

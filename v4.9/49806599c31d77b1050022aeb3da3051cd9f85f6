@@ -1,0 +1,8 @@
+49806599c31d ("iommu/arm-smmu-v3: Split arm_smmu_cmdq_issue_sync in half")
+37de98f8f1cf ("iommu/arm-smmu-v3: Use CMD_SYNC completion MSI")
+2f657add07a8 ("iommu/arm-smmu-v3: Specialise CMD_SYNC handling")
+f935448acf46 ("iommu/arm-smmu-v3: Add workaround for Cavium ThunderX2 erratum #126")
+e5b829de053d ("iommu/arm-smmu-v3: Add workaround for Cavium ThunderX2 erratum #74")
+403e8c7c5bca ("ACPI/IORT: Fixup SMMUv3 resource size for Cavium ThunderX2 SMMUv3 model")
+b847de4e5087 ("iommu/arm-smmu-v3: Increase CMDQ drain timeout value")
+ca78d3173cff ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

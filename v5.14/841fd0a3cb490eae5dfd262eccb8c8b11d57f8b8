@@ -1,0 +1,7 @@
+841fd0a3cb49 ("NFSD: Finish converting the NFSv3 GETACL result encoder")
+130e2054d4a6 ("SUNRPC: Change return value type of .pc_encode")
+fda494411485 ("SUNRPC: Replace the "__be32 *p" parameter to .pc_encode")
+c44b31c26379 ("SUNRPC: Change return value type of .pc_decode")
+16c663642c7e ("SUNRPC: Replace the "__be32 *p" parameter to .pc_decode")
+dae9a6cab800 ("NFSD: Have legacy NFSD WRITE decoders use xdr_stream_subsegment()")
+c35a810ce595 ("NFS: Remove unused callback void decoder")

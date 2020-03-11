@@ -1,0 +1,6 @@
+08c7f09356e4 ("RDMA/bnxt_re: Fix the page_size used during the MR creation")
+f6919d56388c ("RDMA/bnxt_re: Code refactor while populating user MRs")
+73c5265913b4 ("RDMA/bnxt_re: Fix sizeof mismatch for allocation of pbl_tbl.")
+6ef999f50021 ("RDMA/bnxt_re: Use rdma_umem_for_each_dma_block()")
+84e71b4d9bd8 ("RDMA/bnxt: Do not use ib_umem_page_count() or ib_umem_num_pages()")
+ebc24096c4c4 ("RDMA/umem: Add rdma_umem_for_each_dma_block()")

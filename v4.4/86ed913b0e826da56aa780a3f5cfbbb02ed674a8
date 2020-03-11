@@ -1,0 +1,7 @@
+86ed913b0e82 ("filesystem-dax: Do not request kaddr and pfn when not required")
+5e161e4066d3 ("dax: Factor out getting of pfn out of iomap")
+31a6f1a6e5a4 ("dax: Simplify arguments of dax_insert_mapping()")
+2f52074d3513 ("dax: initialize variable pfn before using it")
+91d25ba8a6b0 ("dax: use common 4k zero page for dax mmap reads")
+e30331ff05f6 ("dax: relocate some dax functions")
+1251704a631b ("Merge branch 'akpm' (patches from Andrew)")

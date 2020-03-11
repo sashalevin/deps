@@ -1,0 +1,6 @@
+b35e5548b411 ("KVM: x86/vPMU: Add lazy mechanism to release perf_event per vPMC")
+a6da0d77e98e ("KVM: x86/vPMU: Reuse perf_event to avoid unnecessary pmc_reprogram_counter")
+4be946728f65 ("KVM: x86/vPMU: Declare kvm_pmu->reprogram_pmi field using DECLARE_BITMAP")
+30cd8604323d ("KVM: x86: Add fixed counters to PMU filter")
+66bb8a065f5a ("KVM: x86: PMU Event Filter")
+dd53f6102c30 ("Merge tag 'kvmarm-for-v5.2' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

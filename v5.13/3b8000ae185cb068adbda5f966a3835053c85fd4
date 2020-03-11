@@ -1,0 +1,7 @@
+3b8000ae185c ("mm/vmalloc: huge vmalloc backing pages should be split rather than compound")
+4e5aa1f4c2b4 ("memcg: add per-memcg vmalloc stat")
+343ab8178f31 ("mm/vmalloc: use batched page requests in bulk-allocator")
+7490a2d24814 ("writeback: memcg: simplify cgroup_writeback_by_id")
+a850e932df65 ("mm: vmalloc: add cond_resched() in __vunmap()")
+12b9f873a5d0 ("mm/vmalloc: fallback to a single page allocator")
+5c1f4e690eec ("mm/vmalloc: switch to bulk allocator in __vmalloc_area_node()")

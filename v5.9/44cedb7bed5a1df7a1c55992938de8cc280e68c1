@@ -1,0 +1,7 @@
+44cedb7bed5a ("media: i2c: imx290: Make use of get_unaligned_le24(), put_unaligned_le24()")
+e611f3dac54c ("media: i2c: imx290: Simplify error handling when writing registers")
+454a86f33dd0 ("media: i2c: imx290: Correct register sizes")
+e70abe881463 ("media: i2c: imx290: Support variable-sized registers")
+b817888a0c50 ("media: i2c: imx290: Drop imx290_write_buffered_reg()")
+fbe0a89dc7e3 ("media: i2c: imx290: Print error code when I2C transfer fails")
+1804eba4eb61 ("media: imx290: mark read reg function as __always_unused")

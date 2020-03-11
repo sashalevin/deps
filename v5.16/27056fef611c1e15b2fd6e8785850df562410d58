@@ -1,0 +1,8 @@
+27056fef611c ("staging: vchiq: Factor out bulk transfer for VCHIQ_BULK_MODE_WAITING")
+3414994ba840 ("staging: vc04_services: Drop VCHIQ_SUCCESS usage")
+3ba317227aa4 ("staging: vc04_services: Replace vchiq_status return type to int")
+f23f8a05a13b ("staging: vchiq_arm: pass vchiq instance to 'vchiq_get_service_userdata'")
+14780bb17426 ("staging: vchiq_arm: pass vchiq instance to 'find_service_by_handle'")
+726e79f8a648 ("staging: vchiq_arm: pass vchiq instance to service callbacks")
+813fa44c7422 ("staging: vchiq_arm: get rid of global device structure")
+0cea730cac82 ("staging: vc04_services: Fix RCU dereference check")

@@ -1,0 +1,7 @@
+98d30c5812c3 ("md: raid1: don't use bio's vec table to manage resync pages")
+a7234234d0d6 ("md: raid1: simplify r1buf_pool_free()")
+c85ba149de4b ("md: raid1/raid10: don't handle failure of bio_add_page()")
+2e52d449bcec ("md/raid1: add failfast handling for reads.")
+be306c298980 ("md: define mddev flags, recovery flags and r1bio state bits using enums")
+7449f699b2fb ("raid1: handle read error also in readonly mode")
+513a4befae06 ("Merge branch 'for-4.9/block' of git://git.kernel.dk/linux-block")

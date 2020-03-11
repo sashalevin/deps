@@ -1,0 +1,8 @@
+5f643e460ab1 ("KVM: Clean up kvm_vm_ioctl_create_vcpu()")
+afb2acb2e3a3 ("KVM: Fix vcpu_array[0] races")
+c5b077549136 ("KVM: Convert the kvm->vcpus array to a xarray")
+27592ae8dbe4 ("KVM: Move wiping of the kvm->vcpus array to common code")
+99cdc6c18c2d ("RISC-V: Add initial skeletal KVM support")
+52ac8b358b0c ("KVM: Block memslot updates across range_start() and range_end()")
+2fdef3a2ae01 ("kvm: add PM-notifier")
+b10a038e84d1 ("KVM: mmu: Add slots_arch_lock for memslot arch fields")

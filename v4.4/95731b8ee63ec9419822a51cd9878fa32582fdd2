@@ -1,0 +1,6 @@
+95731b8ee63e ("ARM: 9059/1: cache-v7: get rid of mini-stack")
+f9e7a99fb6b8 ("ARM: 9058/1: cache-v7: refactor v7_invalidate_l1 to avoid clobbering r5/r6")
+8aeaf4a0d22c ("ARM: 8751/1: Add support for Cortex-R8 processor")
+8ff97fa31333 ("ARM: make the physical-relative calculation more obvious")
+d78114554939 ("ARM: 8512/1: proc-v7.S: Adjust stack address when XIP_KERNEL")
+b563d0645123 ("ARM: 8453/2: proc-v7.S: don't locate temporary stack space in .text section")

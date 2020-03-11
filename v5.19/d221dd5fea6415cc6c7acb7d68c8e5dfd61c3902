@@ -1,0 +1,5 @@
+d221dd5fea64 ("mm, vmscan: retry kswapd's priority loop with cache_trim_mode off on failure")
+f1e1a7be4718 ("mm/vmscan.c: refactor shrink_node()")
+d3629af59f41 ("mm/vmscan: make the annotations of refaults code at the right place")
+e9c2dbc8bf71 ("mm/vmscan: define macros for refaults in struct lruvec")
+73b73bac90d9 ("mm: vmpressure: don't count proactive reclaim in vmpressure")

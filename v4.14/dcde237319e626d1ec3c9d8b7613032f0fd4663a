@@ -1,0 +1,5 @@
+dcde237319e6 ("mm: Avoid creating virtual address aliases in brk()/mmap()/mremap()")
+057d3389108e ("mm: untag user pointers passed to memory syscalls")
+e1b832503e8f ("arm64: Define Documentation/arm64/tagged-address-abi.rst")
+050c17f239fd ("numa: change get_mempolicy() to use nr_node_ids instead of MAX_NUMNODES")
+a49bd4d71637 ("mm, numa: rework do_pages_move")

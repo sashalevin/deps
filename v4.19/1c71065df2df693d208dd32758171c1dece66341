@@ -1,0 +1,8 @@
+1c71065df2df ("scsi: NCR5380: Initialize buffer for MSG IN and STATUS transfers")
+ff1269cb3d97 ("scsi: NCR5380: Add SCp members to struct NCR5380_cmd")
+7b25bdb1c828 ("scsi: NCR5380: Fold SCSI message ABORT onto DID_ABORT")
+e7734ef14ead ("scsi: NCR5380: Remove context check")
+0b7a223552d4 ("scsi: NCR5380: Add disconnect_mask module parameter")
+d04fc41af247 ("scsi: NCR5380: Unconditionally clear ICR after do_abort()")
+350767f20be8 ("scsi: NCR5380: Call scsi_set_resid() on command completion")
+1f7563f743d7 ("Merge tag 'scsi-sg' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

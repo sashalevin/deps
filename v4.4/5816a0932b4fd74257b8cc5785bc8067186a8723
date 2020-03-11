@@ -1,0 +1,4 @@
+5816a0932b4f ("drbd: Change drbd_request_detach_interruptible's return type to int")
+33d32fa7120e ("drbd: fix potential deadlock when trying to detach during handshake")
+6434f404b43a ("drbd: fix refcount error during detach of an already failed disk")
+05a72772fcaa ("drbd: drbdsetup detach of an unresponsive local disk should not block IO "forever"")

@@ -1,0 +1,5 @@
+52334f4a573d ("rnbd-clt: don't free rsp in msg_open_conf for map scenario")
+9ddae3bab6d7 ("rnbd-clt: open code send_msg_open in rnbd_clt_map_device")
+9f455eeafde3 ("block/rnbd-clt: Replace {NO_WAIT,WAIT} with RTRS_PERMIT_{WAIT,NOWAIT}")
+d0a70ab10b9c ("block/rnbd-clt: Move add_disk(dev->gd) to rnbd_clt_setup_gen_disk")
+9aaf9a2aba0c ("block/rnbd-clt: Does not request pdu to rtrs-clt")

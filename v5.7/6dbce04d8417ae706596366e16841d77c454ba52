@@ -1,0 +1,5 @@
+6dbce04d8417 ("rcu: Allow rcu_irq_enter_check_tick() from NMI")
+aaf2bc50df1f ("rcu: Abstract out rcu_irq_enter_check_tick() from rcu_nmi_enter()")
+ff5c4f5cad33 ("rcu/tree: Mark the idle relevant functions noinstr")
+69ea03b56ed2 ("hardirq/nmi: Allow nested nmi_enter()")
+ac3caf827488 ("rcu: Add comments marking transitions between RCU watching and not")

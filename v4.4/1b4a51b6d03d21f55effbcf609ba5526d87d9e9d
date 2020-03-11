@@ -1,0 +1,7 @@
+1b4a51b6d03d ("io_uring: drain next sqe instead of shadowing")
+d3b35796b1e3 ("io_uring: break links for failed defer")
+94ae5e77a915 ("io_uring: fix sequencing issues with linked timeouts")
+ad8a48acc23c ("io_uring: make req->timeout be dynamically allocated")
+978db57e2c32 ("io_uring: make io_double_put_req() use normal completion path")
+0e0702dac26b ("io_uring: cleanup return values from the queueing functions")
+fb4b3d3fd0c7 ("Merge tag 'for-5.5/io_uring-20191121' of git://git.kernel.dk/linux-block")

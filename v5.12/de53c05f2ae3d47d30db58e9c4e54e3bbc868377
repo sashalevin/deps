@@ -1,0 +1,6 @@
+de53c05f2ae3 ("mm: add large_rmappable page flag")
+9c5ccf2db04b ("mm: remove HUGETLB_PAGE_DTOR")
+0f2f43fabb95 ("mm: remove free_compound_page() and the compound_page_dtors array")
+8dc4a8f1e038 ("mm: convert free_transhuge_folio() to folio_undo_large_rmappable()")
+dd6fa0b61814 ("mm: call free_huge_page() directly")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

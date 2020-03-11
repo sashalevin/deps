@@ -1,0 +1,8 @@
+81cd3891f021 ("IB/hfi1: Add support for 16B Management Packets")
+78d3633ba9c2 ("IB/hfi1: Remove blind constants from 16B update")
+6d6b8848c882 ("IB/hfi1: Optimize packet type comparison using 9B and bypass code paths")
+f150e2736f34 ("IB/hfi1: Compute BTH only for RDMA_WRITE_LAST/SEND_LAST packet")
+9636258f103b ("IB/hfi1: Remove dependence on qp->s_hdrwords")
+d67d6114ca23 ("IB/hfi1: Add RQ/SRQ information to QP stats")
+6d945a84c69d ("IB/hfi1: Remove set-but-not-used variables")
+ddebe9810cb0 ("IB/hfi1: Refactor assign_ctxt() IOCTL")

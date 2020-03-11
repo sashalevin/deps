@@ -1,0 +1,6 @@
+336bf30eb765 ("hugetlbfs: fix anon huge page migration race")
+1139d336fff4 ("mm/hugetlb.c: fix pages per hugetlb calculation")
+c0d0381ade79 ("hugetlbfs: use i_mmap_rwsem for more pmd sharing synchronization")
+188b04a7d938 ("hugetlb: remove unused hstate in hugetlb_fault_mutex_hash()")
+930668c34408 ("hugetlbfs: take read_lock on i_mmap for PMD sharing")
+552546366a30 ("hugetlbfs: hugetlb_fault_mutex_hash() cleanup")

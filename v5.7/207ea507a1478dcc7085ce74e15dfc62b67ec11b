@@ -1,0 +1,6 @@
+207ea507a147 ("drm/i915/dsi: fuse dsi_send_pkt_payld() and add_payld_to_queue()")
+3e2947cd8945 ("drm/i915/dsi: pass struct mipi_dsi_packet pointer, not the entire struct")
+5ebd50d3948e ("drm/i915/dsi: refine send MIPI DCS command sequence")
+43315f86a3a5 ("drm/i915/dsi: wait for header and payload credit available")
+26fb0d552dc8 ("drm/i915/dsi: Initiate frame request in cmd mode")
+dd10a80f8671 ("drm/i915/dsi: use struct drm_device based logging")

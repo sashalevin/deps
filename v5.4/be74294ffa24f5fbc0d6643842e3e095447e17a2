@@ -1,0 +1,5 @@
+be74294ffa24 ("net: get rid of lockdep_set_class_and_subclass()")
+845e0ebb4408 ("net: change addr_list_lock back to static key")
+1a33e10e4a95 ("net: partially revert dynamic lockdep key changes")
+53d374979ef1 ("net: avoid updating qdisc_xmit_lock_key in netdev_update_lockdep_key()")
+1f26c0d3d241 ("net: fix kernel-doc warning in <linux/netdevice.h>")

@@ -1,0 +1,5 @@
+7962ef13651a ("perf trace: Really free the evsel->priv area")
+9997d5dd177c ("perf trace: Use zfree() to reduce chances of use after free")
+3cb4d5e00e03 ("perf trace: Free syscall tp fields in evsel->priv")
+f2ebf8ffe7af ("perf trace: Free syscall->arg_fmt")
+6c7f0ab04707 ("perf trace: Free malloc'd trace fields on exit")

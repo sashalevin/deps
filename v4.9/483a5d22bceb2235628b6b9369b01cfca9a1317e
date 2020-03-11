@@ -1,0 +1,4 @@
+483a5d22bceb ("dt-bindings: i2c: Fix SMBus typo")
+331c34255293 ("i2c: do not enable fall back to Host Notify by default")
+4d5538f5882a ("i2c: use an IRQ to report Host Notify events, not alert")
+c912a25a5a12 ("i2c: i801: remove SMBNTFDDAT reads as they always seem to return 0")

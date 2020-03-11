@@ -1,0 +1,8 @@
+716cb1160819 ("KVM: PPC: Book3S: Improve KVM reference counting")
+edd03602d972 ("KVM: PPC: Book3S HV: Protect updates to spapr_tce_tables list")
+47c5310a8dbe ("KVM: PPC: Book3S: Fix race and leak in kvm_vm_ioctl_create_spapr_tce()")
+121f80ba68f1 ("KVM: PPC: VFIO: Add in-kernel acceleration for VFIO")
+da6f59e19233 ("KVM: PPC: Use preregistered memory API to access TCE list")
+503bfcbe1857 ("KVM: PPC: Pass kvm* to kvmppc_find_table()")
+3762d45aa71d ("KVM: PPC: Align the table size to system page size")
+93173b5bf284 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

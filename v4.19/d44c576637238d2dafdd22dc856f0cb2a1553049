@@ -1,0 +1,4 @@
+d44c57663723 ("quota: Remove BUG_ON in dquot_load_quota_sb()")
+7a64774add85 ("quota: use lockdep_assert_held_write in dquot_load_quota_sb")
+dc19432ae1c2 ("quota: Rename vfs_load_quota_inode() to dquot_load_quota_inode()")
+c7d3d28360fd ("quota: Factor out setup of quota inode")

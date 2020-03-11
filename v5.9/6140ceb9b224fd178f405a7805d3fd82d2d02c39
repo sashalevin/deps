@@ -1,0 +1,5 @@
+6140ceb9b224 ("jbd2: remove unneeded check of ret in jbd2_fc_get_buf")
+0ee66ddcf3c1 ("jbd2: don't touch buffer state until it is filled")
+c460e5edc85a ("jbd2: don't use state lock during commit path")
+ff780b91efe9 ("jbd2: add fast commit machinery")
+6866d7b3f2bb ("ext4 / jbd2: add fast commit initialization")

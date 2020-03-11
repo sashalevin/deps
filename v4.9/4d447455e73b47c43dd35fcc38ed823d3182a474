@@ -1,0 +1,2 @@
+4d447455e73b ("ARC: mm: do_page_fault fixes #1: relinquish mmap_sem if signal arrives while handle_mm_fault")
+d8d7d842e828 ("arch/arc/mm/fault.c: remove caller signal_pending_branch predictions")

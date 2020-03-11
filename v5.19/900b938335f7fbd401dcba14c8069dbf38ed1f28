@@ -1,0 +1,7 @@
+900b938335f7 ("watchdog: rzg2l_wdt: Remove comparison with zero")
+064319c3fac8 ("watchdog: rzg2l_wdt: Remove reset de-assert from probe")
+471e45a33302 ("watchdog: rzg2l_wdt: Check return status of pm_runtime_put()")
+f0ba0fcdd199 ("watchdog: rzg2l_wdt: Use pm_runtime_resume_and_get()")
+f769f97917c1 ("watchdog: rzg2l_wdt: Handle TYPE-B reset for RZ/V2M")
+6ba6f0f5910d ("watchdog: rzg2l_wdt: Issue a reset before we put the PM clocks")
+ec122fd94eeb ("watchdog: rzg2l_wdt: Add rzv2m support")

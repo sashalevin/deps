@@ -1,1 +1,8 @@
 6fa8f1afd337 ("IB/{core,uverbs}: Move ib_umem_xxx functions from ib_core to ib_uverbs")
+4785860e04bc ("RDMA/uverbs: Implement an ioctl that can call write and write_ex handlers")
+07f05f40d956 ("RDMA/uverbs: Use uverbs_attr_bundle to pass udata for ioctl()")
+0bd01f3d0907 ("RDMA/uverbs: Require all objects to have a driver destroy function")
+6829c1c2b371 ("RDMA/uverbs: Add helpers to mark uapi functions as unsupported")
+0cbf432db405 ("RDMA/uverbs: Use a linear list to describe the compiled-in uapi")
+dfb631a187b9 ("RDMA/mlx5: Do not generate the uabi specs unconditionally")
+59bfc59a6828 ("Merge branch 'for-rc' into rdma.git for-next")

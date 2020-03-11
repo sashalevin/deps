@@ -1,0 +1,6 @@
+3116d6091081 ("perf sched map: Add task-name option to filter the output map")
+231295a186b6 ("perf: sched map skips redundant lines with cpu filters")
+bd2cdf26b9ea ("perf sched: Move curr_pid and cpu_last_switched initialization to perf_sched__{lat|map|replay}()")
+5e895278697c ("perf sched: Move curr_thread initialization to perf_sched__map()")
+ef76a5af8197 ("perf sched: Fix memory leak in perf_sched__map()")
+c6907863519c ("perf sched: Move start_work_mutex and work_done_wait_mutex initialization to perf_sched__replay()")

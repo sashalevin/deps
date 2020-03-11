@@ -1,0 +1,6 @@
+7b72d661f1f2 ("io_uring: gate iowait schedule on having pending requests")
+8a796565cec3 ("io_uring: Use io_schedule* in cqring wait")
+d33a39e57768 ("io_uring: keep timeout in io_wait_queue")
+46ae7eef44f6 ("io_uring: optimise non-timeout waiting")
+846072f16eed ("io_uring: mimimise io_cqring_wait_schedule")
+3fcf19d592d5 ("io_uring: parse check_cq out of wq waiting")

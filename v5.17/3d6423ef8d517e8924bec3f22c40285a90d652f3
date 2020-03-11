@@ -1,0 +1,5 @@
+3d6423ef8d51 ("kunit: Fix again checksum tests on big endian CPUs")
+6f4c45cbcb00 ("kunit: Add tests for csum_ipv6_magic and ip_fast_csum")
+b38460bc463c ("kunit: Fix checksum tests on big endian CPUs")
+688eb8191b47 ("x86/csum: Improve performance of `csum_partial`")
+6692531df62d ("uml/x86: use x86 load_unaligned_zeropad()")

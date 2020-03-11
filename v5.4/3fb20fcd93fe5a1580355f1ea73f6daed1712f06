@@ -1,0 +1,8 @@
+3fb20fcd93fe ("scsi: ufs: Remove locking from around single register writes")
+9561f58442e4 ("scsi: ufs: mediatek: Support vops pre suspend to disable auto-hibern8")
+aba3b0757b6c ("scsi: ufs: ufs-mediatek: Change dbg select by check IP version")
+4c6cb9ed63df ("scsi: ufs: core: Remove usfhcd_is_*_pm() macros")
+b294ff3e3449 ("scsi: ufs: core: Enable power management for wlun")
+ce4f62f9dd8c ("scsi: ufs: core: Narrow down fast path in system suspend path")
+637822e63b79 ("scsi: ufs: core: Cancel rpm_dev_flush_recheck_work during system suspend")
+556666bce111 ("Merge branch '5.12/scsi-fixes' into 5.13/scsi-staging")

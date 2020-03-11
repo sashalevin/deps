@@ -1,0 +1,5 @@
+bdf3a5550152 ("mtd: nand: fsmc: use the mtd instance embedded in struct nand_chip")
+277af429fb40 ("mtd: nand: fsmc: create and use mtd_to_fsmc()")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")
+a61ae81a1907 ("mtd: nand: drop unnecessary partition parser data")

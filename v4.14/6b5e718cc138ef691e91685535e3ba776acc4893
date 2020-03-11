@@ -1,0 +1,7 @@
+6b5e718cc138 ("dm bufio: relax alignment constraint on slab cache")
+21bb13276768 ("dm bufio: remove code that merges slab caches")
+eeb67a0ba04d ("dm bufio: get rid of slab cache name allocations")
+590347e40003 ("dm bufio: avoid false-positive Wmaybe-uninitialized warning")
+0e696d385d4b ("dm bufio: eliminate unnecessary labels in dm_bufio_client_create()")
+46898e9a7ac9 ("dm bufio: check result of register_shrinker()")
+74d4108d9e68 ("dm bufio: fix integer overflow when limiting maximum cache size")

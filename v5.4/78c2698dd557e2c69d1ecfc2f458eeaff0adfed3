@@ -1,0 +1,7 @@
+78c2698dd557 ("ASoC: fsl: fsl_sai: Convert to platform remove callback returning void")
+2277e7e36b4b ("ASoC: fsl_sai: Don't use devm_regmap_init_mmio_clk")
+a57d4e8730c1 ("ASoC: fsl_sai: Set MCLK input or output direction")
+1dc658b13c1c ("ASoC: fsl_sai: Add fsl_sai_check_version function")
+c1e47e8919da ("ASoC: fsl_sai: Add -EPROBE_DEFER check for regmap init")
+d8d702e19e99 ("ASoC: fsl_sai: Refine regcache usage with pm runtime")
+d1520889782d ("ASoC: fsl_sai: Fix exiting path on probing failure")

@@ -1,0 +1,4 @@
+22db41226b67 ("bpf: Inline map creation logic in map_create() function")
+1d28635abcf1 ("bpf: Move unprivileged checks into map_create() and bpf_prog_load()")
+cd2a8079014a ("bpf: Remove btf_field_offs, use btf_record's fields instead")
+6b4a6ea2c62d ("bpf: enforce all maps having memory usage callback")

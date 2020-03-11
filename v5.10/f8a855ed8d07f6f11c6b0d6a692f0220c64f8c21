@@ -1,0 +1,7 @@
+f8a855ed8d07 ("of/fdt: Clean up early_init_dt_reserve_memory_arch()")
+972fa3a7c17c ("mm: kmemleak: alloc gray object for reserved region with direct map")
+18250b43f7b6 ("of: fdt: Remove early_init_dt_reserve_memory_arch() override capability")
+2892d8a00d23 ("of: Fix truncation of memory sizes on 32-bit platforms")
+a300dc865b77 ("of: fdt: Demote kernel-doc abuses and fix function naming")
+8a5a75e5e9e5 ("of/fdt: Make sure no-map does not remove already reserved regions")
+86588296acbf ("fdt: Properly handle "no-map" field in the memory region")

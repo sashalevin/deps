@@ -1,0 +1,7 @@
+bc44d7c4b2b1 ("btrfs: push btrfs_grab_fs_root into btrfs_get_fs_root")
+5168489a079a ("btrfs: hold a ref on the root in get_subvol_name_from_objectid")
+04734e844894 ("btrfs: hold a ref on the root in btrfs_ioctl_get_subvol_info")
+88234012beaa ("btrfs: hold a ref on the root in btrfs_search_path_in_tree")
+9326f76f4bc4 ("btrfs: hold a ref on the root in resolve_indirect_ref")
+3619c94f073e ("btrfs: open code btrfs_read_fs_root_no_name")
+315bf8ef914f ("btrfs: reset fs_root to NULL on error in open_ctree")

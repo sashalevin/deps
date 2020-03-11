@@ -1,0 +1,7 @@
+7c25c0d16ef3 ("io_uring: remove the need for relying on an io-wq fallback worker")
+3c1a2ead915c ("io_uring: move submit side state closer in the ring")
+258b29a93bfe ("io_uring: don't keep submit_state on stack")
+9936c7c2bc76 ("io_uring: deduplicate core cancellations sequence")
+eab30c4d20dc ("io_uring: deduplicate failing task_work_add")
+2d7e935809b7 ("io_uring: inline io_async_submit()")
+269bbe5fd4d2 ("io_uring: rename file related variables to rsrc")

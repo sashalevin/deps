@@ -1,0 +1,4 @@
+daf87e953527 ("btrfs: fix the memory leak caused in lzo_compress_pages()")
+d4088803f511 ("btrfs: subpage: make lzo_compress_pages() compatible")
+8c945d32e604 ("btrfs: compression: drop kmap/kunmap from lzo")
+b0ee5e1ec44a ("btrfs: drop from __GFP_HIGHMEM all allocations")

@@ -1,0 +1,7 @@
+53d514b97010 ("erofs: refactor read_inode calling convention")
+b1bbb9a637a3 ("erofs: use kmemdup_nul in erofs_fill_symlink")
+9ed50b8231e3 ("erofs: fix incorrect symlink detection in fast symlink")
+e080a26725fb ("erofs: allow large folios for compressed files")
+e09815446d69 ("erofs: mechanically convert erofs_read_metabuf() to offsets")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+a1bafc3109d7 ("erofs: support compressed inodes over fscache")

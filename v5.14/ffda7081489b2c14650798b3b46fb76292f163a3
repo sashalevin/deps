@@ -1,0 +1,6 @@
+ffda7081489b ("drm/amdgpu: once more fix the call oder in amdgpu_ttm_move() v2")
+94aeb4117343 ("drm/amdgpu: fix ftrace event amdgpu_bo_move always move on same heap")
+63af82cf5e36 ("drm/amdgpu: audit bo->resource usage")
+32f90e652519 ("drm/amdgpu: prevent memory wipe in suspend/shutdown stage")
+101ba90ff033 ("drm/amdgpu: fix use after free during BO move")
+3e640f1bb893 ("drm/amdgpu: user temporary GTT as bounce buffer")

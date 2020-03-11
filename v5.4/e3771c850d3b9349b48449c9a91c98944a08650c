@@ -1,0 +1,3 @@
+e3771c850d3b ("rcu: Implement rcu_segcblist_is_offloaded() config dependent")
+b5ea03709d12 ("rcu: Clear ->core_needs_qs at GP end or self-reported QS")
+ed93dfc6bc00 ("rcu: Confine ->core_needs_qs accesses to the corresponding CPU")

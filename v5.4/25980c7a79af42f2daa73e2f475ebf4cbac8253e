@@ -1,0 +1,6 @@
+25980c7a79af ("arch_topology, sched/core: Cleanup thermal pressure definition")
+14533a16c46d ("thermal/cpu-cooling, sched/core: Move the arch_set_thermal_pressure() API to generic scheduler code")
+8eab879c5463 ("arm/topology: Populate arch_scale_thermal_pressure() for ARM platforms")
+ae1677c0bbe2 ("arm64/topology: Populate arch_scale_thermal_pressure() for arm64 platforms")
+ad58cc5cc50c ("drivers/base/arch_topology: Add infrastructure to store and update instantaneous thermal pressure")
+36a0df85d2e8 ("sched/topology: Add callback to read per CPU thermal pressure")

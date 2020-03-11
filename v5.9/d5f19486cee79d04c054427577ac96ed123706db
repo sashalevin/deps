@@ -1,0 +1,5 @@
+d5f19486cee7 ("net: dsa: listen for SWITCHDEV_{FDB,DEL}_ADD_TO_DEVICE on foreign bridge neighbors")
+447d290a58bd ("net: dsa: move switchdev event implementation under the same switch/case statement")
+c4bb76a9a0ef ("net: dsa: don't use switchdev_notifier_fdb_info in dsa_switchdev_event_work")
+2fd186501b1c ("net: dsa: be louder when a non-legacy FDB operation fails")
+1dc0408cdf3c ("net: dsa: Call dsa_untag_bridge_pvid() from dsa_switch_rcv()")

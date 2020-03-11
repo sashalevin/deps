@@ -1,0 +1,6 @@
+acc641ab95b6 ("netfilter: rpfilter/fib: Populate flowic_l3mdev field")
+2a8a7c0eaa87 ("netfilter: nft_fib: Fix for rpath check with VRF devices")
+b575b24b8eee ("netfilter: Fix rpfilter dropping vrf packets by mistake")
+da786717e089 ("netfilter: ip6t_rpfilter: set F_IFACE for linklocal addresses")
+cede24d1b21d ("netfilter: ip6t_rpfilter: provide input interface for route lookup")
+47b7e7f82802 ("netfilter: don't set F_IFACE on ipv6 fib lookups")

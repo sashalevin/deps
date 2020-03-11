@@ -1,0 +1,6 @@
+470e900c8036 ("nvme: refactor nvme_alloc_request")
+38c0ddab7b93 ("nvme: refactor nvme_add_user_metadata")
+7f0563576439 ("nvme: Use blk_rq_map_user_io helper")
+c0a7ba77e81b ("nvme: split out metadata vs non metadata end_io uring_cmd completions")
+de671d6116b5 ("block: change request end_io handler to pass back a return value")
+585079b6e425 ("nvme: wire up async polling for io passthrough commands")

@@ -1,0 +1,5 @@
+ab9ddc87a905 ("SMB3: Add missing locks to protect deferred close file list")
+ca08d0eac020 ("cifs: Fix memory leak on the deferred close")
+e3fc065682eb ("cifs: Deferred close performance improvements")
+9e992755be8f ("cifs: Call close synchronously during unlink/rename/lease break.")
+41535701da33 ("cifs: Handle race conditions during rename")

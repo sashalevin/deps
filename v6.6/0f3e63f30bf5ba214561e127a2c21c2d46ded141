@@ -1,0 +1,8 @@
+0f3e63f30bf5 ("ufs; Convert ufs_commit_chunk() to take a folio")
+f4a20e53aba7 ("ufs: Convert ufs_make_empty() to use a folio")
+767bd0af25e5 ("ufs: Convert ufs_delete_entry() to work on a folio")
+597697c5adf8 ("ufs: Convert ufs_set_link() and ufss_dotdot() to take a folio")
+e95d2754458a ("ufs: Convert ufs_find_entry() to take a folio")
+5fe08b1d7e31 ("ufs: Convert ufs_get_page() to ufs_get_folio()")
+bf9883d57791 ("ufs: Convert ufs_get_page() to use a folio")
+d936d3820658 ("ufs: convert to new timestamp accessors")

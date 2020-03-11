@@ -1,0 +1,7 @@
+6e6d39830bc6 ("vdpa: conditionally read STATUS in config space")
+41a2ad927aa2 ("vDPA: conditionally read MTU and MAC in dev cfg space")
+9d97aa124cde ("vDPA: check virtio device features to detect MQ")
+c6dac2ecfa36 ("vDPA: only report driver features if FEATURES_OK is set")
+228565100def ("vDPA: allow userspace to query features of a vDPA device")
+90fea5a800c3 ("vdpa: device feature provisioning")
+79e0034cb348 ("vDPA: fix 'cast to restricted le16' warnings in vdpa.c")

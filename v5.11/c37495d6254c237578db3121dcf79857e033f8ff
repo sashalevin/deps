@@ -1,0 +1,6 @@
+c37495d6254c ("slab: add __alloc_size attributes for better bounds checking")
+72d67229f522 ("slab: clean up function prototypes")
+5bb1bb353cfe ("mm: Don't build mm_dump_obj() on CONFIG_PRINTK=n kernels")
+98f180837a89 ("mm: Make mem_dump_obj() handle vmalloc() memory")
+b70fa3b12fc8 ("mm: Make mem_dump_obj() handle NULL and zero-sized pointers")
+8e7f37f2aaa5 ("mm: Add mem_dump_obj() to print source of memory block")

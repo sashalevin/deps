@@ -1,0 +1,4 @@
+b19df649adcb ("m68k: mm: Fix flatmem memory model setup")
+4bfc848e0981 ("m68k/mm: enable use of generic memory_model.h for !DISCONTIGMEM")
+6b2ad8d76372 ("m68k/mm: make node data and node setup depend on CONFIG_DISCONTIGMEM")
+eb37bc3f85b6 ("m68k: Provide __phys_to_pfn() and __pfn_to_phys()")

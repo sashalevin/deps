@@ -1,0 +1,8 @@
+9f4c3f874a3a ("dm: convert wait loops to use autoremove_wake_function()")
+b48633f83f22 ("dm: rename task state function arguments")
+eaf9a7361f47 ("dm: set DMF_SUSPENDED* _before_ clearing DMF_NOFLUSH_SUSPENDING")
+91e968aa6015 ("dm mpath: use atomic_t for counting members of 'struct multipath'")
+518257b13276 ("dm mpath: switch to using bitops for state flags")
+be7d31cca886 ("dm mpath: switch from 'unsigned' to 'bool' for flags where appropriate")
+21136f89d76d ("dm mpath: remove repeat_count support from multipath core")
+7943bd6dd3e7 ("dm mpath: remove unnecessary casts in front of ti->private")

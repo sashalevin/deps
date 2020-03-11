@@ -1,0 +1,8 @@
+f0c508faea64 ("selftests/seccomp: check that a zombie leader doesn't affect others")
+3b96a9c522b2 ("selftests/seccomp: Add test for wait killable notifier")
+662340ef9218 ("selftests/seccomp: Ensure that notifications come in FIFO order")
+d250a3e4e5b4 ("selftests/seccomp: Test PTRACE_O_SUSPEND_SECCOMP without CAP_SYS_ADMIN")
+c97aedc52dce ("selftests/seccomp: Test SECCOMP_IOCTL_NOTIF_ADDFD")
+ad5682184a81 ("selftests/seccomp: Check for EPOLLHUP for user_notif")
+8b1bc88c3c67 ("selftests/seccomp: Rename XFAIL to SKIP")
+397a97946798 ("Merge tag 'linux-kselftest-5.7-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-kselftest")

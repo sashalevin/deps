@@ -1,0 +1,7 @@
+83d85bb06915 ("net: extract port range fields from fl_flow_key")
+8ffb055beae5 ("cls_flower: Fix the behavior using port ranges with hw-offload")
+3b336d6f4ec6 ("flow_dissector: skip the ICMP dissector for non ICMP packets")
+e0ace68af2ac ("net/sched: cls_flower: Add matching on conntrack info")
+82828b88f081 ("flow_dissector: add support for ingress ifindex dissection")
+8f2566225ae2 ("flow_offload: add flow_rule and flow_match structures and use them")
+2be09de7d6a0 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

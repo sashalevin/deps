@@ -1,0 +1,7 @@
+860a2e7fa4a1 ("proc: use initializer for clearing some buffers")
+c4c84f06285e ("fs/proc/task_mmu: stop using linked list and highest_vm_end")
+912efa17e512 ("mm: proc: Invalidate TLB after clearing soft-dirty page state")
+29a951dfb3c3 ("mm: fix clear_refs_write locking")
+4d45e75a9955 ("mm: remove the now-unnecessary mmget_still_valid() hack")
+ff9f47f6f00c ("mm: proc: smaps_rollup: do not stall write attempts on mmap_lock")
+03b4b1149308 ("mm: smaps*: extend smap_gather_stats to support specified beginning")

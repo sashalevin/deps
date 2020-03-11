@@ -1,0 +1,7 @@
+54927baf6c19 ("io_uring: reorder cqring_flush and wakeups")
+c98c81a4ac37 ("io_uring: merge conditional unlock flush helpers")
+ff12617728fa ("io_uring: inline __io_cq_unlock")
+55b6a69fed5d ("io_uring: fix acquire/release annotations")
+f432b76bcc93 ("io_uring: kill io_cq_unlock()")
+c66ae3ec38f9 ("io_uring: refactor __io_cq_unlock_post_flush()")
+6e7248adf8f7 ("io_uring: refactor io_cqring_wake()")

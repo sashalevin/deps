@@ -1,0 +1,8 @@
+71d9409e2093 ("KVM: VMX: Move caching of MSR_IA32_XSS to hardware_setup()")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")
+cf81a7e580ac ("KVM: vmx: remove save/restore of host BNDCGFS MSR")
+4fde8d57cfa8 ("KVM: vmx: unify adjacent #ifdefs")
+773e8a0425c9 ("x86/kvm: use Enlightened VMCS when running on Hyper-V")
+35060ed6a1ff ("x86/kvm/vmx: avoid expensive rdmsr for MSR_GS_BASE")
+42b933b59721 ("x86/kvm/vmx: read MSR_{FS,KERNEL_GS}_BASE from current->thread")
+80132f4c0cf9 ("Merge branch 'msr-bitmaps' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

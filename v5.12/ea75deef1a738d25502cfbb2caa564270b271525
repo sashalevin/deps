@@ -1,0 +1,7 @@
+ea75deef1a73 ("ASoC: cs42l42: Only report button state if there was a button interrupt")
+2003c44e28ac ("ASoC: cs42l42: Prevent NULL pointer deref in interrupt handler")
+12451814496a ("ASoC: cs42l42: Implement Manual Type detection as fallback")
+0e91438ff704 ("ASoC: cs42l42: Check jack status before reporting button events")
+c26a5289e865 ("ASoC: cs42l42: Add support for set_jack calls")
+2cdba9b045c7 ("ASoC: cs42l42: Use bclk from hw_params if set_sysclk was not called")
+c5b8ee0879bc ("ASoC: cs42l42: Report jack and button detection")

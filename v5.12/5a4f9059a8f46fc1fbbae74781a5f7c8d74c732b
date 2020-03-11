@@ -1,0 +1,5 @@
+5a4f9059a8f4 ("rcu/nocb: Remove halfway (de-)offloading handling from rcu_core()'s QS reporting")
+46103fe01b02 ("rcu: Remove never-set needwake assignment from rcu_report_qs_rdp()")
+b3bb02fe5a2b ("rcu/nocb: Make rcu_core() callbacks acceleration (de-)offloading safe")
+24ee940d8927 ("rcu/nocb: Make rcu_core() callbacks acceleration preempt-safe")
+3820b513a2e3 ("rcu/nocb: Detect unsafe checks for offloaded rdp")

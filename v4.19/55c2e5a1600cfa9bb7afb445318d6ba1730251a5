@@ -1,1 +1,8 @@
 55c2e5a1600c ("drm/amdgpu: stop removing BOs from the LRU v3")
+6e58ab7ac7fa ("drm/ttm: Make LRU removal optional v2")
+899fbde14646 ("drm/amdgpu: replace get_user_pages with HMM mirror helpers")
+07daa8a0784e ("drm/amdgpu: always reserve one more shared slot for pipelined BO moves")
+0aa7aa24cc11 ("drm/amdgpu: always reserve two slots for the VM")
+049aca4363d8 ("drm/amdgpu: fix using shared fence for exported BOs v2")
+a9f34c70fd16 ("drm/ttm: allow reserving more than one shared slot v3")
+9235dd441af4 ("Merge branch 'drm-next-4.21' of git://people.freedesktop.org/~agd5f/linux into drm-next")

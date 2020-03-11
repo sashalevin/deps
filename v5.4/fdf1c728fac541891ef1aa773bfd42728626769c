@@ -1,0 +1,7 @@
+fdf1c728fac5 ("samples/bpf: Fix compilation errors with cf-protection option")
+5a0ae9872d5c ("bpf, samples: Add -fno-asynchronous-unwind-tables to BPF Clang invocation")
+190d1c921ad0 ("samples/bpf: Set flag __SANE_USERSPACE_TYPES__ for MIPS to fix build warnings")
+10cb3d8706db ("samples/bpf: Use own flags but not HOSTCFLAGS")
+1d97c6c2511f ("samples/bpf: Base target programs rules on Makefile.target")
+54b7fbd4484b ("samples/bpf: Drop unnecessarily inclusion for bpf_load")
+0e865aedad57 ("samples/bpf: Use __LINUX_ARM_ARCH__ selector for arm")

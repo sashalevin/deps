@@ -1,0 +1,7 @@
+64961f1b8ca1 ("net: stmmac: move priv->phylink_config.mac_managed_pm")
+2b070cdd3afd ("net: stmmac: use "mdio_bus_data" local variable")
+1a37c1c19832 ("net: stmmac: clean up passing fwnode to phylink")
+e80af2acdef7 ("net: stmmac: convert plat->phylink_node to fwnode")
+8fbc10b995a5 ("net: stmmac: check fwnode for phy device before scanning for phy")
+fe2cfbc96803 ("net: stmmac: check if MAC needs to attach to a PHY")
+f151c147b3af ("net: stmmac: Enable mac_managed_pm phylink config")

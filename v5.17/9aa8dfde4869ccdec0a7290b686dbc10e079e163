@@ -1,0 +1,6 @@
+9aa8dfde4869 ("io_uring: fold evfd signalling under a slower path")
+9333f6b4628c ("io_uring: thin down io_commit_cqring()")
+66fc25ca6b7e ("io_uring: shuffle io_eventfd_signal() bits around")
+0f84747177b9 ("io_uring: remove extra barrier for non-sqpoll iopoll")
+c75312dd592b ("io_uring: avoid ring quiesce while registering async eventfd")
+77bc59b49817 ("io_uring: avoid ring quiesce while registering/unregistering eventfd")

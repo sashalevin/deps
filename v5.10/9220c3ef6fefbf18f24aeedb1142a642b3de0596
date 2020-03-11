@@ -1,0 +1,5 @@
+9220c3ef6fef ("samples/bpf: syscall_tp_user: Fix array out-of-bound access")
+0ee352fe0d28 ("samples/bpf: syscall_tp_user: Rename num_progs into nr_tests")
+5b0764b2d345 ("bpf: samples: Do not touch RLIMIT_MEMLOCK")
+c6497df0ddc3 ("samples: bpf: Refactor test_overhead program with libbpf")
+4fe6641526db ("samples: bpf: Refactor task_fd_query program with libbpf")

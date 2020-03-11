@@ -1,0 +1,8 @@
+21f569af9ab3 ("mwifiex: initiate card-specific work atomically")
+cc75c577806a ("mwifiex: get rid of global save_adapter and sdio_work")
+a7513a4fa919 ("mwifiex: get rid of __mwifiex_sdio_remove helper")
+c742e623e941 ("mwifiex: sdio card reset enhancement")
+3860e5e39532 ("mwifiex: move pcie_work and related variables inside card")
+41efaf5824e7 ("mwifiex: wait firmware dump complete during card remove process")
+74c8719b8ee0 ("mwifiex: sdio: fix use after free issue for save_adapter")
+66b9c182538e ("mwifiex: don't do unbalanced free()'ing in cleanup_if()")

@@ -1,0 +1,5 @@
+3c1cceeb3d28 ("irqchip/gic-v3-its: Only send VINVALL to a single ITS")
+2247e1bf7063 ("irqchip/gic-v3-its: Limit scope of VPE mapping to be per ITS")
+75fd951be846 ("irqchip/gic-v3-its: Make its_send_vmapp operate on a single ITS")
+40619a2ef69d ("irqchip/gic-v3-its: Make its_send_vinvall operate on a single ITS")
+72491643469a ("genirq/irqdomain: Update irq_domain_ops.activate() signature")

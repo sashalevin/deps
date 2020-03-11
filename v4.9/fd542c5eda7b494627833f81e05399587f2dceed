@@ -1,0 +1,6 @@
+fd542c5eda7b ("iio: core: Print error and fail iio_device_register() in case sample bits do not fit storage bits")
+ff3f7e049aef ("iio: buffer: extend short-hand use for 'indio_dev->buffer'")
+3862828a903d ("iio: buffer: Switch to bitmap_zalloc()")
+350f6c75f693 ("iio: buffer: Expose data available")
+78c9981f6132 ("iio:buffer: Stop exporting iio_update_demux")
+057ac1acdfc4 ("iio: Use kmalloc_array() in iio_scan_mask_set()")

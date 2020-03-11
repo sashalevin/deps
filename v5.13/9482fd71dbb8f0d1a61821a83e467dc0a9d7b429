@@ -1,0 +1,3 @@
+9482fd71dbb8 ("hrtimer: Use raw_cpu_ptr() in clock_was_set()")
+81d741d3460c ("hrtimer: Avoid unnecessary SMP function calls in clock_was_set()")
+e71a4153b7c2 ("hrtimer: Force clock_was_set() handling for the HIGHRES=n, NOHZ=y case")

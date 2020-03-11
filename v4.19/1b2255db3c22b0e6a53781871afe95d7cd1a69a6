@@ -1,0 +1,6 @@
+1b2255db3c22 ("Documentation: Add detailed explanation for 'N' taint flag")
+896dd323abbf ("docs: Revamp tainted-kernels.rst to make it more comprehensible")
+964c9dff0091 ("stackleak: Allow runtime disabling of kernel stack erasing")
+c8d126275a5f ("fs/proc: Show STACKLEAK metrics in the /proc file system")
+10e9ae9fabaf ("gcc-plugins: Add STACKLEAK plugin for tracking the kernel stack")
+afaef01c0015 ("x86/entry: Add STACKLEAK erasing the kernel stack at the end of syscalls")

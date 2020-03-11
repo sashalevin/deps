@@ -1,0 +1,8 @@
+cf1d59300ab2 ("KVM: selftests: Fill per-vCPU struct during "perf_test" VM creation")
+b91b637f4a59 ("KVM: selftests: Move per-VM GPA into perf_test_args")
+613d61182fff ("KVM: selftests: Capture per-vCPU GPA in perf_test_vcpu_args")
+b65e1051e489 ("KVM: selftests: Use shorthand local var to access struct perf_tests_args")
+69cdcfa6f321 ("KVM: selftests: Require GPA to be aligned when backed by hugepages")
+c071ff41e150 ("KVM: selftests: Expose align() helpers to tests")
+32bdc0198841 ("KVM: selftests: Move vcpu_args_set into perf_test_util")
+609e6202ea5f ("KVM: selftests: Support multiple slots in dirty_log_perf_test")

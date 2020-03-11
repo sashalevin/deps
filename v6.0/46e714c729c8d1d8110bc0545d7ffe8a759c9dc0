@@ -1,0 +1,6 @@
+46e714c729c8 ("arch/mm/fault: fix major fault accounting when retrying under per-VMA lock")
+648321fa0d97 ("riscv: mm: try VMA lock-based page fault handling first")
+e06f47a16573 ("s390/mm: try VMA lock-based page fault handling first")
+70d4cbc80c88 ("powerc/mm: try VMA lock-based page fault handling first")
+cd7f176aea5f ("arm64/mm: try VMA lock-based page fault handling first")
+0bff0aaea03e ("x86/mm: try VMA lock-based page fault handling first")

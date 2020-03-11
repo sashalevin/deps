@@ -1,0 +1,7 @@
+54baf56eaa40 ("clk: Don't parent clks until the parent is fully registered")
+018d4671b9bb ("clk: Unlink clock if failed to prepare or enable")
+1df4046a93e0 ("clk: Combine __clk_get() and __clk_create_clk()")
+365f7a89c881 ("clk: core: Potentially free connection id")
+bfc0cbfcad12 ("clk: Move __clk_{get,put}() into private clk.h API")
+0d4e3d005cb3 ("clk: Prepare to remove asm-generic/clkdev.h")
+9a34b45397e5 ("clk: Add support for runtime PM")

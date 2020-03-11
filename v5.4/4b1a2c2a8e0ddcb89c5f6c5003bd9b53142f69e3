@@ -1,0 +1,7 @@
+4b1a2c2a8e0d ("scsi: core: Add BLIST_NO_VPD_SIZE for some VDASD")
+c92a6b5d6335 ("scsi: core: Query VPD size before getting full page")
+af4edb1d50c6 ("scsi: core: sd: Add silence_suspend flag to suppress some PM messages")
+f591a2e0548d ("scsi: core: Add new flag BLIST_IGN_MEDIA_CHANGE")
+b0962c53bde9 ("scsi: core: avoid repetitive logging of device offline messages")
+d188b0675b21 ("scsi: core: Add sysfs attributes for VPD pages 0h and 89h")
+c74f80566217 ("scsi: core: allow auto suspend override by low-level driver")

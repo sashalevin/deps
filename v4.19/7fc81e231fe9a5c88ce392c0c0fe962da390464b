@@ -1,0 +1,8 @@
+7fc81e231fe9 ("pwm: omap-dmtimer: Make use of pwmchip_parent() accessor")
+6b28fb6f3ca3 ("pwm: omap-dmtimer: Implement .apply callback")
+e793eef8062f ("pwm: omap-dmtimer: Do not disable PWM before changing period/duty_cycle")
+867beb60d131 ("pwm: omap-dmtimer: Fix PWM enabling sequence")
+348fb6f7fb4c ("pwm: omap-dmtimer: Update description for PWM OMAP DM timer")
+54091b5f195b ("pwm: omap-dmtimer: Drop unused header file")
+02e6d546e3bd ("clocksource/drivers/timer-ti-dm: Enable autoreload in set_pwm")
+92fd86864ec4 ("clocksource/drivers/timer-ti-dm: Add support to get pwm current status")

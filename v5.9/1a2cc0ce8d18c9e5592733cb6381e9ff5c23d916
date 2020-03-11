@@ -1,0 +1,5 @@
+1a2cc0ce8d18 ("io_uring: further simplify do_read error parsing")
+57cd657b8272 ("io_uring: simplify do_read return parsing")
+9a173346bd9e ("io_uring: fix short read retries for non-reg files")
+a88fc400212f ("io_uring: set/clear IOCB_NOWAIT into io_read/write")
+e3bc8e9dad7f ("io_uring: unconditionally grab req->task")

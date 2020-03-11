@@ -1,0 +1,5 @@
+80f6abe0d39b ("irqdomain: Make __irq_domain_create() return an error code")
+24a4f4e48557 ("irqdomain: Convert __irq_domain_create() to use struct irq_domain_info")
+dbd56abffc6a ("irqdomain: Use a dedicated function to set the domain name")
+299d623f5c9a ("irqdomain: Introduce irq_domain_instantiate()")
+6ce3e98184b6 ("irqdomain: Fixed unbalanced fwnode get and put")

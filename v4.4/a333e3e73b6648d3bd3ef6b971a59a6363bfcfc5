@@ -1,0 +1,7 @@
+a333e3e73b66 ("mm: migration of hugetlbfs page skip memcg")
+74485cf2bc85 ("mm: migrate: consolidate mem_cgroup_migrate() calls")
+6a93ca8fde3c ("mm: migrate: do not touch page->mem_cgroup of live pages")
+81f8c3a461d1 ("mm: memcontrol: generalize locking for the page->mem_cgroup binding")
+d435edca9288 ("mm, page_owner: copy page owner info during migration")
+d281ee614518 ("rmap: add argument to charge compound page")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

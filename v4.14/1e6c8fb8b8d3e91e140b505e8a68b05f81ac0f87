@@ -1,0 +1,7 @@
+1e6c8fb8b8d3 ("thermal: move from strlcpy() with unused retval to strscpy()")
+d7203eedf4f6 ("thermal/core: Add critical and hot ops")
+514acd00f957 ("thermal: Make thermal_zone_device_is_enabled() available to core only")
+ac5d9ecc74d8 ("thermal: Add mode helpers")
+adc8749b150c ("thermal/drivers/core: Use put_device() if device_register() fails")
+409ef0bacacf ("thermal_hwmon: Sanitize attribute name passed to hwmon")
+e782bc169cd0 ("thermal: thermal_hwmon: Convert to hwmon_device_register_with_info()")

@@ -1,0 +1,6 @@
+3d060856adfc ("mm: initialize deferred pages with interrupts enabled")
+0e56acae4b4d ("mm: initialize MAX_ORDER_NR_PAGES at a time instead of doing larger sections")
+837566e7e08e ("mm: implement new zone specific memblock iterator")
+56ec43d8b027 ("mm: drop meminit_pfn_in_nid as it is redundant")
+fa004ab7365f ("mm, hotplug: move init_currently_empty_zone() under zone_span_lock protection")
+83af658898cb ("mm, sparse: drop pgdat_resize_lock in sparse_add/remove_one_section()")

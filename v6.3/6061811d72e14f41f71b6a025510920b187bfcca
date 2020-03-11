@@ -1,0 +1,7 @@
+6061811d72e1 ("drm/i915/dp: Limit SST link rate to <=8.1Gbps")
+72b2d2a6f178 ("drm/i915/dp: Factor out helpers to compute the link limits")
+6297ee90f682 ("drm/i915/display: configure SDP split for DP-MST")
+7ffa2f27cf0a ("drm/i915/dp: stop caching has_hdmi_sink in struct intel_dp")
+28da4f833608 ("drm/i915/dp: stop caching has_audio in struct intel_dp")
+3d35ddfb0713 ("drm/display/dp_mst: drop has_audio from struct drm_dp_mst_port")
+523156799441 ("drm/i915/display: Use sink_format instead of ycbcr420_output flag")

@@ -1,0 +1,5 @@
+f82ddf1923b9 ("blk-mq: introduce blk_mq_hw_queue_first_cpu() to figure out first cpu")
+476f8c98a9bc ("blk-mq: avoid to write intermediate result to hctx->next_cpu")
+a1c735fb7907 ("blk-mq: make sure that correct hctx->next_cpu is set")
+7bed45954b95 ("blk-mq: make sure hctx->next_cpu is set correctly")
+20e4d8139319 ("blk-mq: simplify queue mapping & schedule with each possisble CPU")

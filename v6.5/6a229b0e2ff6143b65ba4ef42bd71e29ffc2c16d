@@ -1,0 +1,6 @@
+6a229b0e2ff6 ("workqueue: Drop unnecessary kick_pool() in create_worker()")
+0219a3528d72 ("workqueue: Factor out need_more_worker() check and worker wake-up")
+873eaca6eaf8 ("workqueue: Factor out work to worker assignment and collision handling")
+797e8345cbb0 ("workqueue: Relocate worker and work management functions")
+fe089f87cccb ("workqueue: Not all work insertion needs to wake up a worker")
+c0ab017d43f4 ("workqueue: Cleanups around process_scheduled_works()")

@@ -1,0 +1,7 @@
+b131aed91009 ("selftests/bpf: Omit skeleton generation for multi-linked BPF object files")
+a0964f526df6 ("selftests/bpf: Add multi-file statically linked BPF object file test")
+14137f3c6218 ("selftests/bpf: Pass all BPF .o's through BPF static linker")
+cab62c37be05 ("selftests/bpf: Re-generate vmlinux.h and BPF skeletons if bpftool changed")
+d5ca590525cf ("selftests/bpf: Fix silent Makefile output")
+cc15a20d5f3a ("selftests/bpf: Add test for resolve_btfids")
+ca4db6389d61 ("selftests/bpf: Allow substituting custom vmlinux.h for selftests build")

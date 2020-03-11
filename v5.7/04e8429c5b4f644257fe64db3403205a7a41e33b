@@ -1,0 +1,7 @@
+04e8429c5b4f ("coresight: Fix all W=1 build warnings")
+810ac401db1f ("coresight: etm4x: Add complex configuration handlers to etmv4")
+22a550a306ad ("coresight: etm4x: Allow etm4x to be built as a module")
+97fe626ce64c ("coresight: etm3x: Allow etm3x to be built as a module")
+2d1a8bfb61ec ("coresight: etm4x: Fix etm4_count race by moving cpuhp callbacks to init")
+9b6a3f3633a5 ("coresight: etmv4: Fix CPU power management setup in probe() function")
+3f4943d422c5 ("coresight: etm4x: Fix use-after-free of per-cpu etm drvdata")

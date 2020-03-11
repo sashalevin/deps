@@ -1,0 +1,8 @@
+a87f901b5932 ("gpio: pca953x: Clean up pcal6534_check_register()")
+b1453d1eb93f ("gpio: pca953x: avoid logically dead code")
+13c5d4ce8060 ("gpio: pca953x: Add support for PCAL6534")
+b122624ab917 ("gpio: pca953x: Fix pca953x_gpio_set_pull_up_down()")
+b8c768ccdd83 ("gpio: pca953x: use the correct register address when regcache sync during init")
+2abc17a93867 ("gpio: pca953x: use the correct range when do regmap sync")
+43624eda86c9 ("gpio: pca953x: use the correct register address to do regcache sync")
+55a9968c7e13 ("gpio: pca953x: Improve bias setting")

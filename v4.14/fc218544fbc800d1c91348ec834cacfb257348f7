@@ -1,0 +1,3 @@
+fc218544fbc8 ("ceph: fix iov_iter issues in ceph_direct_read_write()")
+3a15b38fd2ef ("ceph: fix rsize/wsize capping in ceph_direct_read_write()")
+85784f939598 ("ceph: only dirty ITER_IOVEC pages for direct read")

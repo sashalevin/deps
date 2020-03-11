@@ -1,0 +1,3 @@
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")
+595e52284d24 ("io_uring/poll: don't enable lazy wake for POLLEXCLUSIVE")
+6ce4a93dbb5b ("io_uring/poll: use IOU_F_TWQ_LAZY_WAKE for wakeups")

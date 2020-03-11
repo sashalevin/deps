@@ -1,0 +1,8 @@
+d4059993674b ("ext4: convert to folio_create_empty_buffers")
+3060b6ef0560 ("ext4: Convert mext_page_mkuptodate() to take a folio")
+86b38c273cc6 ("ext4: Convert ext4_block_write_begin() to take a folio")
+0b5a254395dc ("ext4: Use a folio in ext4_da_write_begin()")
+9d3973de9a37 ("ext4: Convert __ext4_block_zero_page_range() to use a folio")
+4d934a5e6caa ("ext4: Convert ext4_write_begin() to use a folio")
+51e4e3153ebc ("fscrypt: support decrypting data from large folios")
+4fa512ce7051 ("fs/buffer.c: support fsverity in block_read_full_folio()")

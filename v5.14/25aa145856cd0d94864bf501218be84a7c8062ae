@@ -1,0 +1,4 @@
+25aa145856cd ("powerpc/time: add API for KVM to re-arm the host timer/decrementer")
+34bf08a2079f ("KVM: PPC: Book3S HV P9: Reduce mftb per guest entry/exit")
+4ebbd075bcde ("KVM: PPC: Book3S HV P9: Use host timer accounting to avoid decrementer read")
+5955c7469a73 ("KMV: PPC: Book3S HV P9: Use set_dec to set decrementer to host")

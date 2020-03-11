@@ -1,0 +1,5 @@
+aca18585db4f ("KVM: arm64: Program the timer traps with VHE layout in hVHE mode")
+c605ee245097 ("KVM: arm64: timers: Allow physical offset without CNTPOFF_EL2")
+2b4825a86940 ("KVM: arm64: timers: Use CNTPOFF_EL2 to offset the physical timer")
+47053904e182 ("KVM: arm64: timers: Convert per-vcpu virtual offset to a global value")
+fc6ee952cf00 ("KVM: arm64: Reduce overhead of trapped timer sysreg accesses")

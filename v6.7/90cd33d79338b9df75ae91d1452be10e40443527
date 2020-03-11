@@ -1,0 +1,5 @@
+90cd33d79338 ("erofs: convert z_erofs_read_fragment() to folios")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+0e25a788ea2c ("erofs: convert z_erofs_do_read_page() to folios")
+d9281660ff3f ("erofs: relaxed temporary buffers allocation on readahead")
+0ee3a0d59e00 ("erofs: enable sub-page compressed block support")

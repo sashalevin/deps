@@ -1,0 +1,8 @@
+52267fe8456a ("spi: use spi_valid_{tx,rx}buf() in stats function")
+6598b91b5ac3 ("spi: spi.c: Convert statistics to per-cpu u64_stats_t")
+043786303b17 ("spi: use sysfs_emit() for printing statistics and add trailing newline")
+000bee0ed70a ("spi: Create helper API to lookup ACPI info for spi device")
+44ea62813f0a ("spi: don't include ptp_clock_kernel.h in spi.h")
+da21fde0fdb3 ("spi: Make several public functions private to spi.c")
+fb51601bdf3a ("spi: Reorder functions to simplify the next commit")
+bdc7ca008e1f ("spi: Remove unused function spi_busnum_to_master()")

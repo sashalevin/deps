@@ -1,0 +1,6 @@
+c50a291d621a ("drm/gpuvm: Let drm_gpuvm_bo_put() report when the vm_bo object is destroyed")
+94bc2249f08e ("drm/gpuvm: add an abstraction for a VM / BO combination")
+809ef191ee60 ("drm/gpuvm: add drm_gpuvm_flags to drm_gpuvm")
+bbe8458037e7 ("drm/gpuvm: add common dma-resv per struct drm_gpuvm")
+b41e297abd23 ("drm/nouveau: make use of drm_gpuvm_range_valid()")
+546ca4d35dcc ("drm/gpuvm: convert WARN() to drm_WARN() variants")

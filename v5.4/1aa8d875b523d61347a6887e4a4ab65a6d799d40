@@ -1,0 +1,8 @@
+1aa8d875b523 ("blk-mq: move the !async handling out of __blk_mq_delay_run_hw_queue")
+cd735e11130d ("blk-mq: move the blk_mq_hctx_stopped check in __blk_mq_delay_run_hw_queue")
+3c8f9da41ed9 ("blk-mq: Don't disable preemption around __blk_mq_run_hw_queue().")
+fa94ba8a7b22 ("blk-mq: fix msec comment from micro to milli seconds")
+b9151e7bca82 ("blk-mq: Add blk_mq_delay_run_hw_queues() API call")
+105663f73e71 ("blk-mq: Document functions for sending request")
+626fb735a43d ("blk-mq: Make blk_mq_run_hw_queue() return void")
+27a46989a82c ("blk-mq: Inline status checkers")

@@ -1,0 +1,8 @@
+3a0f007b6979 ("md: add a new helper rdev_has_badblock()")
+2d32777d60de ("md/raid1: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")
+ffb1e7a03f96 ("md/raid1: prioritize adding disk to 'removed' mirror")
+05048cbccab7 ("raid5: fix missing io accounting in raid5_align_endio()")
+c687297b8845 ("md: also clone new io if io accounting is disabled")
+c567c86b90d4 ("md: move initialization and destruction of 'io_acct_set' to md.c")

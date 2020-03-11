@@ -1,0 +1,8 @@
+06a71a24bae5 ("arm64: KVM: unregister notifiers in hyp mode teardown path")
+5f5560b1c5f3 ("arm64: KVM: Register CPU notifiers when the kernel runs at HYP")
+1e947bad0b63 ("arm64: KVM: Skip HYP setup when already running in HYP")
+c7da6fa43cb1 ("arm/arm64: KVM: Detect vGIC presence at runtime")
+20475f784d29 ("arm64: KVM: Add support for 16-bit VMID")
+8420dcd37ef3 ("arm: KVM: Make kvm_arm.h friendly to assembly code")
+9d4dc688342a ("arm/arm64: KVM: Remove unreferenced S2_PGD_ORDER")
+910917bb7db0 ("arm64: KVM: Map the kernel RO section into HYP")

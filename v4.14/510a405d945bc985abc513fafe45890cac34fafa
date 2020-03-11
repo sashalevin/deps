@@ -1,0 +1,5 @@
+510a405d945b ("nvme: fix memory leak for power latency tolerance")
+a6a5149b10ec ("nvme: get rid of nvme_ctrl_list")
+d22524a4782a ("nvme: switch controller refcounting to use struct device")
+c6424a90da44 ("nvme: simplify nvme_open")
+9843f685ae36 ("nvme: use ida_simple_{get,remove} for the controller instance")

@@ -1,0 +1,5 @@
+9685e6e30d11 ("mm/mempolicy: refactor a read-once mechanism into a function for re-use")
+276aeee1c5fc ("mm/mempolicy: fix a race between offset_il_node and mpol_rebind_task")
+269fbe72cded ("mm/mempolicy: use unified 'nodes' for bind/interleave/prefer policies")
+7858d7bca7fb ("mm/mempolicy: don't handle MPOL_LOCAL like a fake MPOL_PREFERRED policy")
+b26e517a058b ("mm/mempolicy: cleanup nodemask intersection check for oom")

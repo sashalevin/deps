@@ -1,0 +1,6 @@
+454abb80e26a ("ALSA: hda: Properly setup HDMI stream")
+b23975e60a94 ("ALSA: hda/hdmi: Limit the maximal count of PCM devices to 8")
+2a2edfbbfee4 ("ALSA: hda/hdmi - implement mst_no_extra_pcms flag")
+4914da2fb0c8 ("ALSA: hda - Don't resume forcibly i915 HDMI/DP codec")
+b5a236c175b0 ("ALSA: hda - Enforces runtime_resume after S3 and S4 for each codec")
+98081ca62cba ("ALSA: hda - Record the current power state before suspend/resume calls")

@@ -1,0 +1,7 @@
+22e420e12739 ("x86/virt: KVM: Move VMXOFF helpers into KVM VMX")
+b6a6af0d19ce ("x86/virt: KVM: Open code cpu_has_vmx() in KVM VMX")
+119b5cb4ffd0 ("x86/reboot: KVM: Handle VMXOFF in KVM's reboot callback")
+5e408396c60c ("x86/reboot: Harden virtualization hooks for emergency reboot")
+b23c83ad2c63 ("x86/reboot: VMCLEAR active VMCSes before emergency reboot")
+26044aff37a5 ("x86/crash: Disable virt in core NMI crash handler to avoid double shootdown")
+c82a5c5c53c5 ("KVM: x86: Do compatibility checks when onlining CPU")

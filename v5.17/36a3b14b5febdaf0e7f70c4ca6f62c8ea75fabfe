@@ -1,0 +1,5 @@
+36a3b14b5feb ("vmscan: check folio_test_private(), not folio_get_private()")
+07f67a8dedc0 ("mm/vmscan: convert shrink_active_list() to use a folio")
+b3ac04132c4b ("mm/rmap: Turn page_referenced() into folio_referenced()")
+eed05e54d275 ("mm: Add DEFINE_PAGE_VMA_WALK and DEFINE_FOLIO_VMA_WALK")
+47d4f3eeef5f ("mm/thp: shrink_page_list() avoid splitting VM_LOCKED THP")

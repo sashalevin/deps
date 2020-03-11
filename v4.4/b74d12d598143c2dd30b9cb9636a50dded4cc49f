@@ -1,0 +1,8 @@
+b74d12d59814 ("perf tools: Add a "dso_size" sort order")
+d890a98c9217 ("perf tools: Add 'cgroup_id' sort order keyword")
+7768f8dada66 ("perf tools: Allow sorting by symbol size")
+a34bb6a08d60 ("perf tools: Add 'trace' sort key")
+60517d28fbd9 ("perf tools: Try to show pretty printed output for dynamic sort keys")
+c7c2a5e40f17 ("perf tools: Add dynamic sort key for tracepoint events")
+723928340c9d ("perf hist: Save raw_data/size for tracepoint events")
+fd36f3dd7933 ("perf hist: Pass struct sample to __hists__add_entry()")

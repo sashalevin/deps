@@ -1,0 +1,8 @@
+ad818080f69c ("crypto: caam - fix condition for the jump over key(s) command")
+8cea7b66b821 ("crypto: caam - refactor encryption descriptors generation")
+281669dfbabe ("crypto: caam - rewrite some generic inline append cmds")
+4cbe79ccb523 ("crypto: caam - improve key inlining")
+db57656b0072 ("crypto: caam - group algorithm related params")
+64c9295b2320 ("crypto: caam - move append_key_aead() into init_sh_desc_key_aead()")
+1b008eedb0af ("crypto: caam - remove unused command from aead givencrypt")
+d128af17876d ("crypto: caam - fix AEAD givenc descriptors")

@@ -1,0 +1,8 @@
+91b03fc6b50c ("drm/amdgpu: Check pmops for desired suspend state")
+9ca5b8a170d1 ("drm/amdgpu: add judgement for suspend/resume sequence")
+628c36d7b238 ("drm/amdgpu: update amdgpu device suspend/resume sequence for s0i3 support")
+4cd078dc654d ("drm/amdgpu: add s0i3 capacity check for s0i3 routine (v2)")
+de185019bcb9 ("drm/amdgpu: move pci handling out of pm ops")
+b97e9d47e549 ("drm/amdgpu: add additional boco checks to runtime suspend/resume (v2)")
+897483d8a0e0 ("drm/amdgpu: move gpu reset out of amdgpu_device_suspend")
+803cc26d5cb6 ("drm/amdgpu: move pci_save_state into suspend path")

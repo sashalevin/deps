@@ -1,0 +1,4 @@
+285e76fc049c ("serial: max310x: use regmap methods for SPI batch operations")
+b7382c73b2d7 ("tty: max310x: Don't pass stacked buffers to SPI")
+2b4bac48c108 ("serial: max310x: Use batched reads when reasonably safe")
+d584b65c0ddf ("serial: max310x: use a batch write op for UART transmit")

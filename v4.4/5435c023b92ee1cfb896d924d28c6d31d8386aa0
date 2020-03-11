@@ -1,0 +1,4 @@
+5435c023b92e ("blk-mq: Warn when attempting to run a hardware queue that is not mapped")
+5d1b25c1ecab ("blk-mq: Introduce blk_mq_hctx_stopped()")
+bc27c01b5c46 ("blk-mq: Do not invoke .queue_rq() for a stopped queue")
+0e87e58bf60e ("blk-mq: improve warning for running a queue on the wrong CPU")

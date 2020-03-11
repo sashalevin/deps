@@ -1,0 +1,8 @@
+3ffea7d8cd9e ("IB/{rdmavt, hfi1, qib}: Fix panic with post receive and SGE compression")
+14fe13fcd3af ("IB/rdmavt: Compress adjacent SGEs in rvt_lkey_ok()")
+aad9ff97ddd7 ("IB/rdmavt/hfi1/qib: Use the MGID and MLID for multicast addressing")
+44dcfa4b182d ("IB/rdmavt: Avoid reseting wqe send_flags in unreserve")
+2a1b7c8b8e9d ("IB/rdmavt: Add additional fields to post send trace")
+fcb29a6668a2 ("IB/rdmavt: Add trace of MR segs")
+cf4c2f8c9d04 ("IB/rdmavt: Fix trace hierarchy")
+99f80d2f5fb6 ("IB/hfi1: Optimize lkey validation structures")

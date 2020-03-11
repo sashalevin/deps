@@ -1,0 +1,5 @@
+febe162d4d91 ("sched: Simplify syscalls")
+f4dddf90d58d ("sched: Skip priority checks with SCHED_FLAG_KEEP_PARAMS")
+7ad721bf1071 ("sched: Don't report SCHED_FLAG_SUGOV in sched_getattr()")
+13685c4a08fc ("sched/uclamp: Add a new sysctl to control RT default boost value")
+d81ae8aac85c ("sched/uclamp: Fix initialization of struct uclamp_rq")

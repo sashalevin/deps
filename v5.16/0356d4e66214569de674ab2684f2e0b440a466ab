@@ -1,0 +1,4 @@
+0356d4e66214 ("rcu-tasks: Track blocked RCU Tasks Trace readers")
+3847b64570b1 ("rcu-tasks: Merge state into .b.need_qs and atomically update")
+65b629e70489 ("rcu-tasks: Inspect stalled task's trc state in locked state")
+f5dbc594b5ba ("rcu-tasks: Don't remove tasks with pending IPIs from holdout list")

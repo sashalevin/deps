@@ -1,0 +1,5 @@
+8038e09be5a3 ("drm/crc: Only open CRC on atomic drivers when the CRTC is active.")
+eb42ea6d0b8e ("drm/crc: Handle opening and closing crc better")
+e8fa5671183c ("drm: crc: Wait for a frame before returning from open()")
+1aa81be3af12 ("drm: Move locking into drm_debugfs_crtc_crc_add")
+9edbf1fa600a ("drm: Add API for capturing frame CRCs")

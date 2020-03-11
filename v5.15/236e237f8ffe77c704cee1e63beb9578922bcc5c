@@ -1,0 +1,7 @@
+236e237f8ffe ("bnxt_en: Add support for HWRM_FUNC_BACKING_STORE_CFG_V2 firmware calls")
+b098dc5a3357 ("bnxt_en: Add bnxt_setup_ctxm_pg_tbls() helper function")
+2ad67aea11f2 ("bnxt_en: Use the pg_info field in bnxt_ctx_mem_type struct")
+035c57615982 ("bnxt_en: Add page info to struct bnxt_ctx_mem_type")
+76087d997a84 ("bnxt_en: Restructure context memory data structures")
+aa8460bacf49 ("bnxt_en: The caller of bnxt_alloc_ctx_mem() should always free bp->ctx")
+228ea8c187d8 ("bnxt_en: implement devlink dev reload driver_reinit")

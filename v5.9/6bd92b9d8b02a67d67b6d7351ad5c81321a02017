@@ -1,0 +1,5 @@
+6bd92b9d8b02 ("KVM: arm64: Refactor kvm_arch_commit_memory_region()")
+509c594ca2dc ("KVM: arm64: Use "new" memslot instead of userspace memory region")
+fd6f17bade21 ("KVM: arm64: Remove the creation time's mapping of MMIO regions")
+c728fd4ce75e ("KVM: arm64: Use find_vma_intersection()")
+ada329e6b5b4 ("KVM: arm64: Do not flush memslot if FWB is supported")

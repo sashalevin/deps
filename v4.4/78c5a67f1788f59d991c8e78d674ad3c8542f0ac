@@ -1,0 +1,6 @@
+78c5a67f1788 ("rcu: Convert rcu_check_gp_kthread_starvation() to GP sequence number")
+96036c43066a ("rcu: Add last-CPU to GP-kthread starvation messages")
+86057b80ae31 ("rcu: Awaken grace-period kthread when stalled")
+6b50e119c440 ("rcutorture: Print symbolic name for ->gp_state")
+b1adb3e2736b ("rcutorture:  Dump stack when GP kthread stalls")
+a0e3a3aa2841 ("rcutorture: Flag nonexistent RCU GP kthread")

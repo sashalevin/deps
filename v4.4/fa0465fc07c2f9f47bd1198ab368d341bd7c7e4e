@@ -1,0 +1,7 @@
+fa0465fc07c2 ("arm64: assembler: Change order of macro arguments in phys_to_ttbr")
+f992b4dfd58b ("arm64: kpti: Add ->enable callback to remap swapper using nG mappings")
+3060e9f0d14b ("arm64: Add software workaround for Falkor erratum 1041")
+ec89ab50a03a ("arm64: Fix TTBR + PAN + 52-bit PA logic in cpu_do_switch_mm")
+6b88a32c7af6 ("arm64: kpti: Fix the interaction between ASID switching and software PAN")
+9dfe4828aa32 ("arm64: Re-order reserved_ttbr0 in linker script")
+1f911c3a1140 ("Merge branch 'for-next/52-bit-pa' into for-next/core")

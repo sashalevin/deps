@@ -1,0 +1,6 @@
+bdb70c424df1 ("serial: 8250: Create serial_lsr_in()")
+cb5a40e3143b ("serial: 8250: Export ICR access helpers for internal use")
+b54f7a922d33 ("serial: 8250: Handle UART without interrupt on TEMT")
+41a70b7f4734 ("serial: 8250: Deduplicate rs485 active_timer assignment")
+b86f86e8e7c5 ("serial: 8250: fix potential deadlock in rs485-mode")
+6e0a5de2136b ("serial: 8250: Use hrtimers for rs485 delays")

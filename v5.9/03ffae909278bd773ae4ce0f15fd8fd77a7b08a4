@@ -1,0 +1,7 @@
+03ffae909278 ("afs: Disable use of the fscache I/O routines")
+f86726a69dec ("afs: Fix afs_invalidatepage to adjust the dirty region")
+65dd2d6072d3 ("afs: Alter dirty range encoding in page->private")
+185f0c7073bd ("afs: Wrap page->private manipulations in inline functions")
+f792e3ac82fe ("afs: Fix where page->private is set during write")
+21db2cdc667f ("afs: Fix page leak on afs_write_begin() failure")
+fa04a40b169f ("afs: Fix to take ref on page when PG_private is set")

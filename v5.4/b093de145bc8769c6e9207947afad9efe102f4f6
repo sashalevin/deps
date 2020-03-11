@@ -1,0 +1,5 @@
+b093de145bc8 ("ALSA: au88x0: Fix the missing snd_card_free() call at probe error")
+e44b5b440609 ("ALSA: au88x0: Allocate resources with device-managed APIs")
+c2b0718f7836 ("ALSA: au88x0: Fix assignment in if condition")
+efb0ad25d370 ("ALSA: pci: Constify snd_device_ops definitions")
+662a7441316d ("ALSA: au88x0: Support PCM sync_stop")

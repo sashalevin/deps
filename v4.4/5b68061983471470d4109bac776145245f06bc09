@@ -1,0 +1,6 @@
+5b6806198347 ("serial: meson: Use platform_get_irq() to get the interrupt")
+021212f53352 ("serial: meson: remove redundant initialization of variable id")
+a26988e8fef4 ("tty: serial: meson: if no alias specified use an available id")
+1b1ecaa69c4f ("serial: meson: remove use of flag UPF_IOREMAP")
+ff3b9cad7d63 ("serial: meson: make use of uart_port member mapsize")
+1bc1f17b7f1c ("ARM: meson: serial: release region on port release")

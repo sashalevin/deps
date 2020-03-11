@@ -1,0 +1,5 @@
+cb241339b9d0 ("mm/shmem: fix chattr fsflags support in tmpfs")
+e408e695f5f1 ("mm/shmem: support FS_IOC_[SG]ETFLAGS in tmpfs")
+f7cd16a55837 ("tmpfs: support for file creation time")
+5e6e5a12a44c ("huge tmpfs: shmem_is_huge(vma, inode, index)")
+c852023e6fd4 ("huge tmpfs: move shmem_huge_enabled() upwards")

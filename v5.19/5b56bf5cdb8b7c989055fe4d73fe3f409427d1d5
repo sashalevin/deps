@@ -1,0 +1,7 @@
+5b56bf5cdb8b ("kernfs: Convert kernfs_name_locked() from strlcpy() to strscpy()")
+24b3e3dd9c9c ("kernfs: fix all kernel-doc warnings and multiple typos")
+3db48aca879d ("kernfs: Simply by replacing kernfs_deref_open_node() with of_on()")
+2fd26970cf66 ("Revert "kernfs: Change kernfs_notify_list to llist."")
+41448c614815 ("kernfs: Introduce interface to access global kernfs_open_file_mutex.")
+b8f35fa1188b ("kernfs: Change kernfs_notify_list to llist.")
+086c00c71fc8 ("kernfs: make ->attr.open RCU protected.")

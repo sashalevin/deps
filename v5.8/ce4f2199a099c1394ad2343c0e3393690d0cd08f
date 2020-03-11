@@ -1,0 +1,5 @@
+ce4f2199a099 ("dt-bindings: mmc: mmc-spi-slot: Change voltage-ranges to uint32-matrix")
+ffe18c0f7ced ("dt-bindings: mmc: convert mmc-spi-slot to yaml")
+6c857ccf4eed ("mmc: mmc_spi: Set up polling even if voltage-ranges is not present")
+6dab809bb5b1 ("mmc: core: Convert mmc_of_parse_voltage() to use device property API")
+a395acf0f6dc ("mmc: mmc_spi: Allow the driver to be built when CONFIG_HAS_DMA is unset")

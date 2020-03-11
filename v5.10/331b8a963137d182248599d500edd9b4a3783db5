@@ -1,0 +1,7 @@
+331b8a963137 ("memory: pl172: simplify releasing AMBA regions with devm")
+610395de8496 ("memory: pl172: simplify with devm_clk_get_enabled()")
+8f3cb397cbc1 ("memory: pl172: simplify with dev_err_probe()")
+3fd269e74f2f ("amba: Make the remove callback return void")
+5b495ac8fe03 ("vfio: platform: simplify device removal")
+de5d7adb8936 ("amba: Fix resource leak for drivers without .remove")
+45fe7befe0db ("coresight: remove broken __exit annotations")

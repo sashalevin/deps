@@ -1,0 +1,8 @@
+4064b9827063 ("mm: allow VM_FAULT_RETRY for multiple times")
+c270a7eedcf2 ("mm: introduce FAULT_FLAG_INTERRUPTIBLE")
+dde160724832 ("mm: introduce FAULT_FLAG_DEFAULT")
+b502f038f2ff ("arm64/mm: use helper fault_signal_pending()")
+24a62cf41f67 ("arc/mm: use helper fault_signal_pending()")
+39678191cd89 ("x86/mm: use helper fault_signal_pending()")
+24cecc377463 ("arm64: Revert support for execute-only user mappings")
+89b15332af7c ("mm: drop mmap_sem before calling balance_dirty_pages() in write fault")

@@ -1,0 +1,4 @@
+d31d4d6bb256 ("kcsan: Pass option tsan-instrument-read-before-write to Clang")
+75d75b7a4d54 ("kcsan: Support distinguishing volatile accesses")
+17168f5c1bef ("kcsan: Avoid inserting __tsan_func_entry/exit if possible")
+dfd402a4c4ba ("kcsan: Add Kernel Concurrency Sanitizer infrastructure")

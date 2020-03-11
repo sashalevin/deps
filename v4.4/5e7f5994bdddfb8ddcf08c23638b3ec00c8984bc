@@ -1,0 +1,4 @@
+5e7f5994bddd ("hwmon: (ntc_thermistor) Use devm_hwmon_device_register_with_groups")
+48001525c94b ("hwmon: (ntc_thermistor) Use dev instead of &pdev->dev where possible")
+640208567660 ("hwmon: (ntc_thermistor) Use devm_iio_channel_get")
+0e058bc3acc0 ("hwmon: convert ntc_thermistor to use devm_thermal_zone_of_sensor_register")

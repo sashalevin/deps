@@ -1,0 +1,8 @@
+acebb82fe9cd ("gpio: ws16c48: utilize for_each_set_clump8 macro")
+7a702691d0ce ("gpio: ws16c48: Mask read inputs for get_multiple")
+a8ff510dbc2a ("gpio: ws16c48: Implement get_multiple callback")
+a0a584f0e92a ("gpio: ws16c48: make use of raw_spinlock variants")
+99c8ac957e6b ("gpio: ws16c48: Add set_multiple callback function support")
+cc736607c86d ("gpio: ws16c48: Utilize the ISA bus driver")
+148ad68b3d0d ("gpio: ws16c48: Use devm_request_region")
+9c26df9b27b6 ("gpio: Add GPIO support for the WinSystems WS16C48")

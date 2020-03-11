@@ -1,0 +1,8 @@
+f091e93306e0 ("dma-mapping: Simplify arch_setup_dma_ops()")
+fece6530bf4b ("dma-mapping: Add helpers for dma_range_map bounds")
+91cfd679f9e8 ("ACPI/IORT: Handle memory address size limits as limits")
+ba503cf41c90 ("OF: Simplify DMA range calculations")
+0c3457926e7e ("OF: Retire dma-ranges mask workaround")
+cdbc723f2da1 ("acpi: Do not return struct iommu_ops from acpi_iommu_configure_id()")
+4720287c7bf7 ("iommu: Remove struct iommu_ops *iommu from arch_setup_dma_ops()")
+a2e7e59a9426 ("iommu: Avoid more races around device probe")

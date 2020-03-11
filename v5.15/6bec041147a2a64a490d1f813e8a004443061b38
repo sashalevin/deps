@@ -1,0 +1,7 @@
+6bec041147a2 ("mptcp: fix bogus receive window shrinkage with multiple subflows")
+38acb6260f60 ("mptcp: add more offered MIBs counter")
+f3589be0c420 ("mptcp: never shrink offered window")
+92be2f522777 ("mptcp: add mib for xmit window sharing")
+b713d0067574 ("mptcp: really share subflow snd_wnd")
+3ce0852c86b9 ("mptcp: enforce HoL-blocking estimation")
+f70cad1085d1 ("mptcp: stop relying on tcp_tx_skb_cache")

@@ -1,0 +1,4 @@
+baff4311c40d ("ethernet: ucc_geth: don't statically allocate eight ucc_geth_info")
+632e3f2d9922 ("ethernet: ucc_geth: factor out parsing of {rx,tx}-clock{,-name} properties")
+e925e0cd2a70 ("ethernet: ucc_geth: fix use-after-free in ucc_geth_remove()")
+0290bd291cc0 ("netdev: pass the stuck queue to the timeout handler")

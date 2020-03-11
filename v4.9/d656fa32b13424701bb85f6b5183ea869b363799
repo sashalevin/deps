@@ -1,0 +1,6 @@
+d656fa32b134 ("usb: core: message: remember to reset 'ret' to 0 when necessary")
+2e43f0fe379c ("usb: core: add a 'type' parameter to usb_get_status()")
+d9e1e1484ade ("usb: core: introduce a new usb_get_std_status() helper")
+3c377ef1000d ("usb: core: rename usb_get_status() 'type' argument to 'recip'")
+6f27f4f97ee8 ("usb: core: add Status Type definitions")
+245b2eecee2a ("usb: hub: Fix error loop seen after hub communication errors")

@@ -1,1 +1,5 @@
 41b80db22799 ("iommu/vt-d: Set context field after value initialized")
+7373a8cc3819 ("iommu/vt-d: Setup context and enable RID2PASID support")
+0bbeb01a4faf ("iommu/vt-d: Manage scalalble mode PASID tables")
+765b6a98c1de ("iommu/vt-d: Enumerate the scalable mode capability")
+3569dd07aaad ("iommu/vt-d: Handle domain agaw being less than iommu agaw")

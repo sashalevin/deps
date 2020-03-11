@@ -1,0 +1,8 @@
+04e5de03093f ("KVM: arm64: Reserve memory for host stage 2")
+f320bc742bc2 ("KVM: arm64: Prepare the creation of s1 mappings at EL2")
+d460df129268 ("KVM: arm64: Provide __flush_dcache_area at EL2")
+7a440cc78392 ("KVM: arm64: Enable access to sanitized CPU features at EL2")
+8e17c66249e9 ("KVM: arm64: Introduce a Hyp buddy page allocator")
+40d9e41e525c ("KVM: arm64: Stub CONFIG_DEBUG_LIST at Hyp")
+e75960408723 ("KVM: arm64: Introduce an early Hyp page allocator")
+7b4a7b5e6fef ("KVM: arm64: Link position-independent string routines into .hyp.text")

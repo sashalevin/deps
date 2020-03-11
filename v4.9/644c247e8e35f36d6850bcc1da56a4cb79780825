@@ -1,0 +1,6 @@
+644c247e8e35 ("crypto: atmel-{aes,sha,tdes} - Drop duplicate init of dma_slave_config.direction")
+9064ed92695b ("crypto: atmel-sha - add atmel_sha_wait_for_data_ready()")
+f07cebad63b2 ("crypto: atmel-sha - redefine SHA_FLAGS_SHA* flags to match SHA_MR_ALGO_SHA*")
+b5ce82a7b493 ("crypto: atmel-sha - make atmel_sha_done_task more generic")
+a29af939b24d ("crypto: atmel-sha - update request queue management to make it more generic")
+8340c7fd28d1 ("crypto: atmel-sha - create function to get an Atmel SHA device")

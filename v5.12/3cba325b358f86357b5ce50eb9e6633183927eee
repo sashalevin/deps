@@ -1,0 +1,5 @@
+3cba325b358f ("x86/syscalls: Switch to generic syscallhdr.sh")
+49f731f1972e ("x86/syscalls: Use __NR_syscalls instead of __NR_syscall_max")
+f63815eb1d90 ("x86/unistd: Define X32_NR_syscalls only for 64-bit kernel")
+6218d0f6b8de ("x86/syscalls: Switch to generic syscalltbl.sh")
+2e958a8a510d ("x86/entry/x32: Rename __x32_compat_sys_* to __x64_compat_sys_*")

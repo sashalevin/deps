@@ -1,0 +1,6 @@
+56887cffe946 ("block: Try to handle busy underlying device on discard")
+384d87ef2c95 ("block: Do not discard buffers under a mounted filesystem")
+3f1266f1f82d ("block: move block-related definitions out of fs.h")
+dd0dca223e09 ("block: simplify sb_is_blkdev_sb")
+764b23bd9af8 ("block: mark bd_finish_claiming static")
+b818f09e46f9 ("tty/sysrq: emergency_thaw_all does not depend on CONFIG_BLOCK")

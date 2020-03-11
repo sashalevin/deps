@@ -1,0 +1,6 @@
+9326e0f85bfa ("bpfilter: Allow to build bpfilter_umh as a module without static library")
+9f64fbdb7748 ("bpfilter: document build requirements for bpfilter_umh")
+8a2cc0505cc4 ("bpfilter: use 'userprogs' syntax to build bpfilter_umh")
+b1183b6dca3e ("bpfilter: check if $(CC) can link static libc in Kconfig")
+9371f86ecb60 ("bpfilter: match bit size of bpfilter_umh to that of the kernel")
+30a772977173 ("kbuild: use -MMD instead of -MD to exclude system headers from dependency")

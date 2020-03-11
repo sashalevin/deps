@@ -1,0 +1,5 @@
+fe1911aa443e ("KVM: nVMX: Use kvm_vcpu_map() to get/pin vmcs12's APIC-access page")
+c61ca2fcbcea ("KVM: nVMX: Move free_nested() below vmx_switch_vmcs()")
+5c911beff20a ("KVM: nVMX: Skip IBPB when switching between vmcs01 and vmcs02")
+ec0241f3bbe1 ("KVM: nVMX: Drop manual clearing of segment cache on nested VMCS switch")
+e5d03de5937e ("KVM: nVMX: Reset register cache (available and dirty masks) on VMCS switch")

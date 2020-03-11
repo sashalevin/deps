@@ -1,0 +1,5 @@
+97767500781f ("f2fs: add f2fs_gc exception handle in f2fs_ioc_gc_range")
+08ac9a3870f6 ("f2fs: fix to allow node segment for GC by ioctl path")
+67b0e42b768c ("f2fs: change segment to section in f2fs_ioc_gc_range")
+e3080b0120a1 ("f2fs: support subsectional garbage collection")
+d6c66cd19ef3 ("f2fs: fix count of seg_freed to make sec_freed correct")

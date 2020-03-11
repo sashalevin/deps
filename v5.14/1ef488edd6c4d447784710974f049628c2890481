@@ -1,0 +1,8 @@
+1ef488edd6c4 ("mm/mprotect: drop pgprot_t parameter from change_protection()")
+931298e103c2 ("mm/userfaultfd: rely on vma->vm_page_prot in uffd_wp_range()")
+eb309ec89953 ("mm/mprotect: factor out check whether manual PTE write upgrades are required")
+f369b07c8614 ("mm/uffd: reset write protection when unregister with wp-mode")
+64fe24a3e05e ("mm/mprotect: try avoiding write faults for exclusive anonymous pages when changing protection")
+5a90d5a103c2 ("mm/hugetlb: handle UFFDIO_WRITEPROTECT")
+4a18419f71cd ("mm/mprotect: use mmu_gather")
+a759a909d42d ("userfaultfd: change mmap_changing to atomic")

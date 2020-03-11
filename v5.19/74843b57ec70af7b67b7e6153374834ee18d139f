@@ -1,0 +1,7 @@
+74843b57ec70 ("bpf: Change btf_record_find enum parameter to field_mask")
+aa3496accc41 ("bpf: Refactor kptr_off_tab into btf_record")
+cc48755808c6 ("bpf: Add zero_map_value to zero map value with special fields")
+6df4ea1ff0ff ("bpf: Support kptrs in percpu arraymap")
+448325199f57 ("bpf: Add copy_map_value_long to copy to remote percpu memory")
+9fad7fe5b298 ("bpf: Fix resetting logic for unreferenced kptrs")
+87ac0d600943 ("bpf: fix potential 32-bit overflow when accessing ARRAY map element")

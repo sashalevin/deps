@@ -1,0 +1,7 @@
+b186f2c3d877 ("alpha: syscalls: switch to generic syscalltbl.sh")
+a8faab540f0a ("alpha: generate uapi header and syscall table header files")
+cabcebd33b8b ("alpha: add system call table generation support")
+b67bfd298f4c ("alpha: add __NR_syscalls along with NR_SYSCALLS")
+d8bf616be5f0 ("alpha: remove CONFIG_OSF4_COMPAT flag from syscall table")
+150fbd536f9e ("alpha: move __IGNORE* entries to non uapi header")
+060581c158a6 ("alpha: use alpha_ni_syscall only for syscall zero")

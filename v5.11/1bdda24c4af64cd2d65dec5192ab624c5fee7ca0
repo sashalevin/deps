@@ -1,0 +1,5 @@
+1bdda24c4af6 ("signal: Add an optional check for altstack size")
+58e106e725ee ("sched: Add task_work callback for paranoid L1D flush")
+7facdc426f86 ("[amd64] clean PRSTATUS_SIZE/SET_PR_FPVALID up properly")
+f2485a2dc9f0 ("elf_prstatus: collect the common part (everything before pr_reg) into a struct")
+8a00dd0012f3 ("binfmt_elf: partially sanitize PRSTATUS_SIZE and SET_PR_FPVALID")

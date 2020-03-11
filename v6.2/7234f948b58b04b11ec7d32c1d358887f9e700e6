@@ -1,0 +1,7 @@
+7234f948b58b ("drm/i915/bios: Indicate which VBT structures are based on EDID")
+6d2475823bc2 ("drm/i915/bios: switch to struct drm_edid and struct drm_edid_product_id")
+bb6f53d4f5be ("drm/i915/bios: Fixup h/vsync_end instead of h/vtotal")
+c36225a1e046 ("drm/i915/bios: convert intel_bios_init_panel() to drm_edid")
+25fa6b0f69ac ("drm/i915/edid: convert DP, HDMI and LVDS to drm_edid")
+3f9ffce5765d ("drm/i915: Do panel VBT init early if the VBT declares an explicit panel type")
+f70f8153e364 ("drm/i915: Introduce intel_panel_init_alloc()")

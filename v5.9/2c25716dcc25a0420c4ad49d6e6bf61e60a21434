@@ -1,0 +1,7 @@
+2c25716dcc25 ("btrfs: zlib: fix and simplify the inline extent decompression")
+3e09b5b2293f ("btrfs: constify input buffer parameter in compression code")
+d048b9c2a737 ("btrfs: use memzero_page() instead of open coded kmap pattern")
+3590ec58991b ("btrfs: use memcpy_[to|from]_page() and kmap_local_page()")
+8c7d9fe06f5b ("btrfs: send: avoid copying file data")
+a9b2e0de92cb ("btrfs: send: get rid of i_size logic in send_write()")
+cb4c9198302b ("btrfs: compression: move declarations to header")

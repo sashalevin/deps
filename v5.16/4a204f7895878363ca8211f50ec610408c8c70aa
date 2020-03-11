@@ -1,0 +1,8 @@
+4a204f789587 ("KVM: SVM: Allow AVIC support on system w/ physical APIC ID > 255")
+391503528257 ("KVM: x86: SVM: move avic definitions from AMD's spec to svm.h")
+935a7333958e ("KVM: SVM: Drop AVIC's intermediate avic_set_running() helper")
+782f64558de7 ("KVM: SVM: Skip AVIC and IRTE updates when loading blocking vCPU")
+af52f5aa5c1b ("KVM: SVM: Use kvm_vcpu_is_blocking() in AVIC load to handle preemption")
+e422b8896948 ("KVM: SVM: Remove unnecessary APICv/AVIC update in vCPU unblocking path")
+202470d536b2 ("KVM: SVM: Don't bother checking for "running" AVIC when kicking for IPIs")
+91b018950717 ("KVM: SVM: Ensure target pCPU is read once when signalling AVIC doorbell")

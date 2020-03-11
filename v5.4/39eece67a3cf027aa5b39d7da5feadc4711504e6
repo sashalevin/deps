@@ -1,0 +1,6 @@
+39eece67a3cf ("mtd: spi-nor: fix select_uniform_erase to skip 0 erase size")
+a0900d0195d2 ("mtd: spi-nor: Prepare core / manufacturer code split")
+e11e8473bcec ("mtd: spi-nor: remove mtk-quadspi driver")
+80f64cef4135 ("mtd: spi-nor: hisi-sfc: Try to provide some clarity on which SFC we are")
+453977875364 ("mtd: spi-nor: Introduce 'struct spi_nor_controller_ops'")
+1a21bdfeac05 ("mtd: spi-nor: hisi-sfc: Drop nor->erase NULL assignment")

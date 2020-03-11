@@ -1,0 +1,6 @@
+cb0f80039fb7 ("bitops: Add non-atomic bitops for pointers")
+8bd9cb51daac ("locking/atomics, asm-generic: Move some macros from <linux/bitops.h> to a new <linux/bits.h> file")
+5307e2ad69ab ("bitops: Introduce assign_bit()")
+c32ee3d9abd2 ("bitops: avoid integer overflow in GENMASK(_ULL)")
+9a8ac3ae682e ("dm mpath: cleanup QUEUE_IF_NO_PATH bit manipulation by introducing assign_bit()")
+ca5beb76c32a ("dm mpath: micro-optimize the hot path relative to MPATHF_QUEUE_IF_NO_PATH")

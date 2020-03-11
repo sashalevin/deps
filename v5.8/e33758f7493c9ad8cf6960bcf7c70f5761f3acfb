@@ -1,0 +1,5 @@
+e33758f7493c ("riscv, bpf: Unify 32-bit sign-extension to emit_sextw")
+694896ad3ca7 ("riscv, bpf: Support sign-extension mov insns")
+18a4d8c97b84 ("bpf, riscv: Use compressed instructions in the rv64 JIT")
+804ec72c68c8 ("bpf, riscv: Add encodings for compressed instructions")
+bfabff3cb0fe ("bpf, riscv: Modify JIT ctx to support compressed instructions")

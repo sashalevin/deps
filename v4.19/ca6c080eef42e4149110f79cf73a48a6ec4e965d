@@ -1,0 +1,5 @@
+ca6c080eef42 ("arch/parisc: Detect primary video device from device instance")
+cf41d18b72c8 ("arch/parisc: Implement fb_is_primary_device() under arch/parisc")
+1d0811b03eb3 ("parisc/stifb: Fix fb_is_primary_device() only available with CONFIG_FB_STI")
+cf936af790a3 ("parisc/stifb: Implement fb_is_primary_device()")
+7a22384df3de ("arch: parisc: Remove CONFIG_OPROFILE support")

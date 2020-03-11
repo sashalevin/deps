@@ -1,0 +1,6 @@
+090284610632 ("scsi: ncr5380: Shorten host info string by removing unused option macros")
+906e4a3c7e03 ("scsi: g_NCR5380: Use probe_irq_*() for IRQ probing")
+820682b1b34e ("scsi: ncr5380: Store IO ports and addresses in host private data")
+25894d1f98ae ("scsi: ncr5380: Improve hostdata struct member alignment and cache-ability")
+d4408dd7ecff ("scsi: ncr5380: Simplify register polling limit")
+b61bacbc2bf5 ("scsi: g_NCR5380: Merge g_NCR5380 and g_NCR5380_mmio drivers")

@@ -1,0 +1,8 @@
+885c77d528e1 ("tty: refactor TIOCSSERIAL handling")
+1b7bc6b10a7e ("tty: use pr_warn_ratelimited() for deprecated serial flags")
+a32418919dd5 ("tty: Use the preferred form for passing the size of a structure type")
+77654350306a ("take compat TIOC[SG]SERIAL treatment into tty_compat_ioctl()")
+930236a30897 ("complete ->[sg]et_serial() switchover")
+81732b26e059 ("usb-serial: begin switching to ->[sg]et_serial()")
+2f46a2c1d4eb ("tty_ioctl(): start taking TIOC[SG]SERIAL into separate methods")
+7d5cb45655f2 ("i2c compat ioctls: move to ->compat_ioctl()")

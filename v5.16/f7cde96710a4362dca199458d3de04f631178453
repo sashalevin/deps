@@ -1,0 +1,7 @@
+f7cde96710a4 ("exfat: remove i_size_write() from __exfat_truncate()")
+e981917b3fae ("exfat: remove argument 'size' from exfat_truncate()")
+4493895b2bdc ("exfat: remove duplicate write inode for truncating file")
+23e6e1c9b373 ("exfat: reuse __exfat_write_inode() to update directory entry")
+c71510b3fa27 ("exfat: remove argument 'sector' from exfat_get_dentry()")
+92fba084b79e ("exfat: fix i_blocks for files truncated over 4 GiB")
+7dee6f57d7f2 ("exfat: reuse exfat_inode_info variable instead of calling EXFAT_I()")

@@ -1,0 +1,8 @@
+f77bc3a82ce5 ("include/linux/dax.h: dax_iomap_fault() returns vm_fault_t")
+c0b246259792 ("dax: pass detailed error code from dax_iomap_fault()")
+a39e596baa07 ("xfs: support for synchronous DAX faults")
+b8a6176c214c ("ext4: Support for synchronous DAX faults")
+497f6926d880 ("ext4: Simplify error handling in ext4_dax_huge_fault()")
+71eab6dfd91e ("dax: Implement dax_finish_sync_fault()")
+9a0dd4225143 ("dax: Allow dax_iomap_fault() to return pfn")
+cec04e8c825e ("dax: Fix comment describing dax_iomap_fault()")

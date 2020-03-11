@@ -1,0 +1,7 @@
+ca2b221d89a8 ("nvmet: introduce new max queue size configuration entry")
+6d1555cc41c0 ("nvmet: add get_max_queue_size op for controllers")
+77d651a65569 ("nvmet: looks at the passthrough controller when initializing CAP")
+ba76af676cd0 ("nvmet: Add passthru enable/disable helpers")
+c1fef73f793b ("nvmet: add passthru code to process commands")
+7774e77ebedc ("nvmet: use xarray for ctrl ns storing")
+ea52ac1c6605 ("nvmet: add metadata/T10-PI support")

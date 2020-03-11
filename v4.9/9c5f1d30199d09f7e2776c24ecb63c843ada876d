@@ -1,0 +1,3 @@
+9c5f1d30199d ("dcache: move cond_resched() into the end of __dentry_kill()")
+8f04da2adbdf ("fs/dcache: Avoid a try_lock loop in shrink_dentry_list()")
+3b3f09f48ba7 ("get rid of trylock loop in locking dentries on shrink list")

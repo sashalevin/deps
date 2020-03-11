@@ -1,0 +1,5 @@
+68497092bde9 ("block: make queue stat accounting a reference")
+e11d80a849e0 ("blk-stat: make q->stats->lock irqsafe")
+6e25cb01ea20 ("kyber: implement improved heuristics")
+fa2a1f609e64 ("kyber: don't make domain token sbitmap larger than necessary")
+ed88660a5372 ("block: move call of scheduler's ->completed_request() hook")

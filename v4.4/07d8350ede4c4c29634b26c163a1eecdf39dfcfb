@@ -1,0 +1,8 @@
+07d8350ede4c ("genirq: Remove setup_irq() and remove_irq()")
+83ac4ca943af ("genirq: Pass desc to __irq_free instead of irq number")
+2827a418ca1b ("genirq: Check __free_irq() return value for NULL")
+3a90795e1e88 ("genirq: Move bus locking into __setup_irq()")
+25ce4be72411 ("genirq: Return the IRQ name from free_irq()")
+a7e60e55d73c ("genirq: Fix indentation in remove_irq()")
+be45beb2df69 ("genirq: Add runtime power management support for IRQ chips")
+9b5d585d148a ("genirq: Ensure IRQ descriptor is valid when setting-up the IRQ")

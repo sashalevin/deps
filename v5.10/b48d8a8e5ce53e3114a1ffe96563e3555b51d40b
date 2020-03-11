@@ -1,0 +1,5 @@
+b48d8a8e5ce5 ("mm: page_isolation: move has_unmovable_pages() to mm/page_isolation.c")
+859a85ddf90e ("mm: remove pfn_valid_within() and CONFIG_HOLES_IN_ZONE")
+39ddb991fc45 ("mm, page_alloc: avoid page_to_pfn() in move_freepages()")
+5e545df3292f ("arm: remove CONFIG_ARCH_HAS_HOLES_MEMORYMODEL")
+03e92a5e097d ("ia64: remove custom __early_pfn_to_nid()")

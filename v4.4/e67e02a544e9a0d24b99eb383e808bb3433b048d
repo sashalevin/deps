@@ -1,0 +1,8 @@
+e67e02a544e9 ("powerpc/pseries: Fix cpu hotplug crash with memoryless nodes")
+ea05ba7c559c ("powerpc/numa: Ensure nodes initialized for hotplug")
+a346137e9142 ("powerpc/numa: Use ibm,max-associativity-domains to discover possible nodes")
+cee5405da402 ("powerpc/hotplug: Improve responsiveness of hotplug change")
+17f444c0549f ("powerpc/vphn: Update CPU topology when VPHN enabled")
+d98389f37532 ("powerpc/pseries: Factor out common cpu hotplug code")
+183deeea5871 ("powerpc/pseries: Consolidate CPU hotplug code to hotplug-cpu.c")
+1f859adb9253 ("powerpc/pseries: Verify CPU doesn't exist before adding")

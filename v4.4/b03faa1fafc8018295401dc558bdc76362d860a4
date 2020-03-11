@@ -1,0 +1,8 @@
+b03faa1fafc8 ("net/smc: postpone release of clcsock")
+26d92e951fe0 ("smc: move unhash as early as possible in smc_release()")
+78abe3d0dfad ("net/smc: fix TCP fallback socket release")
+e1bbdd570474 ("net/smc: reduce sock_put() for fallback sockets")
+3b2dec2603d5 ("net/smc: restructure client and server code in af_smc")
+1401ea045b96 ("net/smc: handle all error codes from smc_conn_create()")
+44aa81ce953a ("net/smc: register new rmbs with the peer")
+a7b15ab887e5 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

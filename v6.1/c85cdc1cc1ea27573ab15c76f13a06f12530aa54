@@ -1,0 +1,5 @@
+c85cdc1cc1ea ("KVM: x86/pmu: Move handling PERF_GLOBAL_CTRL and friends to common x86")
+30dab5c0b65e ("KVM: x86/pmu: Reject userspace attempts to set reserved GLOBAL_STATUS bits")
+53550b89220b ("KVM: x86/pmu: Rename global_ovf_ctrl_mask to global_status_mask")
+8bca8c5ce40b ("KVM: VMX: Refactor intel_pmu_{g,}set_msr() to align with other helpers")
+68fb4757e867 ("KVM: x86/pmu: Defer reprogram_counter() to kvm_pmu_handle_event()")

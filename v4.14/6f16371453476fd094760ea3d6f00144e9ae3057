@@ -1,0 +1,6 @@
+6f1637145347 ("arm64: KVM: Handle PMCR_EL0.LC as RES1 on pure AArch64 systems")
+03fdfb269009 ("KVM: arm64: Don't write junk to sysregs on reset")
+20589c8cc47d ("arm/arm64: KVM: Don't panic on failure to properly reset system registers")
+8d404c4c2461 ("KVM: arm64: Rewrite system register accessors to read/write functions")
+52f6c4f02164 ("KVM: arm64: Change 32-bit handling of VM system registers")
+54ceb1bcf8d8 ("KVM: arm64: Move debug dirty flag calculation out of world switch")

@@ -1,0 +1,5 @@
+01474b70a779 ("crypto: ecdh - Initialize ctx->private_key in proper byte order")
+bd955a4e928f ("crypto: ecdh - Pass private key in proper byte order to check valid key")
+233e75059292 ("crypto: ecc - remove checks in crypto_ecdh_shared_secret() and ecc_make_pub_key()")
+dbad7b6969c1 ("crypto: ecc - update ecc_gen_privkey for FIPS 186-5")
+3877869d13a0 ("Merge branch 'ecc'")

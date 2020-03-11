@@ -1,0 +1,5 @@
+03e601f48b2d ("libbpf: Don't crash on object files with no symbol tables")
+0201c5758311 ("libbpf: Ensure ELF symbols table is found before further ELF processing")
+88a82120282b ("libbpf: Factor out common ELF operations and improve logging")
+029258d7b228 ("libbpf: Remove any use of reallocarray() in libbpf")
+28b93c64499a ("libbpf: Clean up and improve CO-RE reloc logging")

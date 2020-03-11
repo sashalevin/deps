@@ -1,0 +1,7 @@
+945ac78928fa ("drm/i915: Force planar YUV coordinates to be a multiple of 2, v2.")
+4e0b83a567e2 ("drm/i915: Extract per-platform plane->check() functions")
+fd6e3c6c21f4 ("drm/i915: Nuke plane->can_scale/min_downscale")
+ddd5713d6e56 ("drm/i915: Add .max_stride() plane hook")
+eb0f50441056 ("drm/i915: Don't pass plane to .check_plane()")
+9bace65934e7 ("drm/i915: Substitute intel_format_is_yuv() with format->is_yuv")
+f4366e44efeb ("Merge tag 'drm-misc-next-2018-06-21' of git://anongit.freedesktop.org/drm/drm-misc into drm-next")

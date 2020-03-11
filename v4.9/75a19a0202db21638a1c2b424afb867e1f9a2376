@@ -1,0 +1,7 @@
+75a19a0202db ("arm64: arch_timer: Ensure counter register reads occur with seqlock held")
+f2e600c149fd ("arm64: Implement arch_counter_get_cntpct to read the physical counter")
+d003d029cea8 ("arm64: arch_timer: Add HISILICON_ERRATUM_161010101 ACPI matching data")
+fa8d815fac96 ("arm64: arch_timer: Workaround for Cortex-A73 erratum 858921")
+bb42ca474010 ("clocksource/drivers/arm_arch_timer: Work around Hisilicon erratum 161010101")
+16d10ef29f25 ("clocksource/drivers/arm_arch_timer: Introduce generic errata handling infrastructure")
+5444ea6a7f46 ("clocksource/drivers/arm_arch_timer: Remove fsl-a008585 parameter")

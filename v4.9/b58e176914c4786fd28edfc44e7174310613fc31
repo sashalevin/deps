@@ -1,0 +1,4 @@
+b58e176914c4 ("block-mq: don't re-queue if we get a queue error")
+2253efc850c4 ("blk-mq: Move more code into blk_mq_direct_issue_request()")
+5d1b25c1ecab ("blk-mq: Introduce blk_mq_hctx_stopped()")
+bc27c01b5c46 ("blk-mq: Do not invoke .queue_rq() for a stopped queue")

@@ -1,0 +1,6 @@
+5341b93dea8c ("printk: wake waiters for safe and NMI contexts")
+1f5d783094cf ("printk: add missing memory barrier to wake_up_klogd()")
+2ba3673d7017 ("printk: use atomic updates for klogd work")
+8d909b2333f3 ("printk: syslog: close window between wait and read")
+b371cbb584d8 ("printk: convert @syslog_lock to mutex")
+93d102f094be ("printk: remove safe buffers")

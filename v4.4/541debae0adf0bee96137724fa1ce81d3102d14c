@@ -1,0 +1,5 @@
+541debae0adf ("clk: call the clock init() callback before any other ops callback")
+99652a469df1 ("clk: migrate the count of orphaned clocks at init")
+f8f8f1d04494 ("clk: Don't touch hardware when reparenting during registration")
+904e6ead02dc ("clk: migrate ref counts when orphans are reunited")
+0e8f6e499ebf ("clk: walk the orphan clock list more simply")

@@ -1,0 +1,7 @@
+72789a4a6a91 ("arm64/relocate_kernel: remove redundant code")
+dc374b477f92 ("arm64: use mov_q instead of literal ldr")
+e03e61c3173c ("arm64: kaslr: Set TCR_EL1.NFD1 when CONFIG_RANDOMIZE_BASE=y")
+3060e9f0d14b ("arm64: Add software workaround for Falkor erratum 1041")
+7655abb95386 ("arm64: mm: Move ASID from TTBR0 to TTBR1")
+5c9a882e940d ("irqchip/gic-v3-its: Workaround HiSilicon Hip07 redistributor addressing")
+558b01654d92 ("irqchip/gic-v3: Add workaround for Synquacer pre-ITS")

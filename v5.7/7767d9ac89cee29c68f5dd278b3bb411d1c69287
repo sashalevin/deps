@@ -1,0 +1,7 @@
+7767d9ac89ce ("powerpc/papr_scm: Fix build error due to wrong printf specifier")
+75b7c05ebf90 ("powerpc/papr_scm: Implement support for H_SCM_FLUSH hcall")
+19a551b254e6 ("powerpc/papr_scm: Make some symbols static")
+85343a8da2d9 ("powerpc/papr/scm: Add bad memory ranges to nvdimm bad ranges")
+dd3d9aa5589c ("powerpc/mm/book3s64/radix: Off-load TLB invalidations to host when !GTSE")
+f517f7925b7b ("ndctl/papr_scm,uapi: Add support for PAPR nvdimm specific methods")
+b791abf3201d ("powerpc/papr_scm: Fetch nvdimm health information from PHYP")

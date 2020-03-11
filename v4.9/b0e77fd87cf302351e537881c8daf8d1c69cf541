@@ -1,0 +1,8 @@
+b0e77fd87cf3 ("drm/msm/mdp5: Fix typo in encoder_enable path")
+b3a94705a036 ("drm/msm/mdp5: Create single encoder per interface (INTF)")
+df8a71d2b22f ("drm/msm/mdp5: Prepare for merging video and command encoders")
+9c9f6f8d472c ("drm/msm: Set encoder's mode of operation using a kms func")
+97e00119534b ("drm/msm: Construct only one encoder for DSI")
+0bb70b82c2f9 ("drm/msm/dsi: Set msm_dsi->encoders before initializing bridge")
+3bb80f249525 ("drm: bridge: Link encoder and bridge in core code")
+f03ee46be940 ("Backmerge tag 'v4.9-rc8' into drm-next")

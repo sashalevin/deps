@@ -1,0 +1,6 @@
+6a4d1b18ef00 ("crypto: scompress - return proper error code for allocation failure")
+8cd579d2794b ("crypto: scompress - use sgl_alloc() and sgl_free()")
+6a8487a1f29f ("crypto: scompress - defer allocation of scratch buffer to first use")
+3c0837726288 ("crypto: scompress - don't sleep with preemption disabled")
+1ab53a77b772 ("crypto: acomp - add driver-side scomp interface")
+2ebda74fd6c9 ("crypto: acomp - add asynchronous compression api")

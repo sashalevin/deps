@@ -1,0 +1,7 @@
+bf30162915f8 ("eth: bnxt: depend on core cleaning up RSS contexts")
+1a49a23c034b ("eth: bnxt: remove rss_ctx_bmap")
+b3d0083caf9a ("bnxt_en: Support RSS contexts in ethtool .{get|set}_rxfh()")
+77a614f7499e ("bnxt_en: Refactor bnxt_set_rxfh()")
+fea41bd76634 ("bnxt_en: Introduce rss ctx structure, alloc/free functions")
+a4c11166a696 ("bnxt_en: Refactor VNIC alloc and cfg functions")
+1dcd70ba2437 ("bnxt_en: Add helper function bnxt_hwrm_vnic_rss_cfg_p5()")

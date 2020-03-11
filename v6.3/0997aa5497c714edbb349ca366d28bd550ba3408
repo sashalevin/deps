@@ -1,0 +1,5 @@
+0997aa5497c7 ("io_uring/io-wq: do not allow pinning outside of cpuset")
+ebdfefc09c6d ("io_uring/sqpoll: fix io-wq affinity when IORING_SETUP_SQPOLL is used")
+eb47943f2238 ("io-wq: Drop struct io_wqe")
+dfd63baf892c ("io-wq: Move wq accounting to io_wq")
+da64d6db3bd3 ("io_uring: One wqe per wq")

@@ -1,0 +1,6 @@
+6e57236ed6e0 ("block: move bdev_mark_dead out of disk_check_media_change")
+560e20e4bf64 ("block: consolidate __invalidate_device and fsync_bdev")
+127a5093c79d ("block: drop the "busy inodes on changed media" log message")
+2527fd38772f ("dasd: also call __invalidate_device when setting the device offline")
+ab6860f62bfe ("block: simplify the disk_force_media_change interface")
+aca740cecbe5 ("fs: open block device after superblock creation")

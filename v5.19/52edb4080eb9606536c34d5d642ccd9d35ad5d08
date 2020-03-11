@@ -1,0 +1,6 @@
+52edb4080eb9 ("acl: move idmapping handling into posix_acl_xattr_set()")
+985a6d0b3c80 ("acl: return EOPNOTSUPP in posix_acl_fix_xattr_common()")
+abfcf55d8b07 ("acl: handle idmapped mounts for idmapped filesystems")
+1aa5fef575a8 ("ovl: handle idmappings in ovl_get_acl()")
+e933c15f7621 ("acl: port to vfs{g,u}id_t")
+0c5fd887d2bb ("acl: move idmapped mount fixup into vfs_{g,s}etxattr()")

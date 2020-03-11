@@ -1,0 +1,7 @@
+7d1b529f164d ("perf cpumap: Add internal nr and cpu accessors")
+237d41d4a2d7 ("perf cpumap: Add intersect function")
+da885a0e5e06 ("perf cpumap: Add reference count checking")
+d57fd4926ab8 ("perf cpumap: Remove initializations done in perf_cpu_map__alloc()")
+4121234a3288 ("libperf: Add perf_cpu_map__refcnt() interanl accessor to use in the maps test")
+b277851417e0 ("libperf: Add a perf_cpu_map__set_nr() available as an internal function for tools/perf to use")
+1f94479edb4d ("libperf: Make perf_cpu_map__alloc() available as an internal function for tools/perf to use")

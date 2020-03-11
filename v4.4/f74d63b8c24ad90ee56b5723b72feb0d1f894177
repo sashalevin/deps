@@ -1,0 +1,8 @@
+f74d63b8c24a ("regmap: destroy mutex (if used) in regmap_exit()")
+8253bb3f8255 ("regmap: potentially duplicate the name string stored in regmap")
+c9b41fcf272b ("regmap: allow to disable all locking mechanisms")
+e8419c40a5ad ("regmap: Clean up hwspinlock on regmap exit")
+267f3e4f18f1 ("regmap: Also protect hwspinlock in error handling path")
+8698b9364710 ("regmap: Add hardware spinlock support")
+ca747be22fa5 ("regmap: core: Introduce register stride order")
+afcc00b91f18 ("regmap: add 64-bit mode support")

@@ -1,0 +1,6 @@
+b15ee490e163 ("clk: divider: read-only divider can propagate rate change")
+e6d3cc7b1fac ("clk: divider: export clk_div_mask() helper")
+22833a9165a1 ("clk: divider: Make divider_round_rate take the parent clock")
+2cf9a57811bd ("clk: divider: Fix clk_divider_round_rate() to use clk_readl()")
+5fd9c05c846d ("clk: move the common clock's to_clk_*(_hw) macros to clk-provider.h")
+fab88ca788dc ("clk: divider: Cap table divider values to 'width' member")

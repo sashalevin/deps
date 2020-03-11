@@ -1,0 +1,8 @@
+0eae14a067c5 ("crypto: ccree - refactor AEAD IV in AAD handling")
+6429ccdd4f2d ("crypto: ccree - remove ancient TODO remarks")
+040187a0faa6 ("crypto: ccree - remove struct buff_mgr_handle")
+1a895f1d5bce ("crypto: ccree - use u32 for SRAM addresses")
+e431cc043817 ("crypto: ccree - defer larval_digest_addr init until needed")
+8962c6d2c2b8 ("crypto: ccree - dec auth tag size from cryptlen map")
+504e84abec7a ("crypto: ccree - only try to map auth tag if needed")
+ce0fc6db38de ("crypto: ccree - protect against empty or NULL scatterlists")

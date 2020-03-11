@@ -1,0 +1,6 @@
+1045f5f1ff07 ("ALSA: usb-audio: Avoid superfluous endpoint setup")
+9355b60e401d ("ALSA: usb-audio: Correct the return code from snd_usb_endpoint_set_params()")
+a74f8d0aa902 ("ALSA: usb-audio: Apply mutex around snd_usb_endpoint_set_params()")
+2be79d586454 ("ALSA: usb-audio: Split endpoint setups for hw_params and prepare (take#2)")
+0e85a22d01df ("ALSA: usb-audio: Configure sync endpoints before data")
+c11117b634f4 ("ALSA: usb-audio: Refcount multiple accesses on the single clock")

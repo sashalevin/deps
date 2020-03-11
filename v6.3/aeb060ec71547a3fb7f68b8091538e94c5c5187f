@@ -1,0 +1,4 @@
+aeb060ec7154 ("selinux: drop return at end of void function avc_insert()")
+539813e4184a ("selinux: stop returning node from avc_insert()")
+e67b79850fcc ("selinux: stop passing selinux_state pointers and their offspring")
+f62ca0b6e31d ("selinux: uninline unlikely parts of avc_has_perm_noaudit()")

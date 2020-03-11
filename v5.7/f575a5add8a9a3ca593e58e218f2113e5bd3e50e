@@ -1,0 +1,3 @@
+f575a5add8a9 ("zram: don't use highmem for the bounce buffer in zram_bvec_{read,write}")
+bd3d3203eb84 ("zram: use memcpy_from_bvec in zram_bvec_write")
+b3bd0a8a74ab ("zram: use memcpy_to_bvec in zram_bvec_read")

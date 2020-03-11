@@ -1,0 +1,3 @@
+52491a38b2c2 ("KVM: Initialize gfn_to_pfn_cache locks in dedicated helper")
+93984f19e7bc ("KVM: Fully serialize gfn=>pfn cache refresh via mutex")
+345b0fd6fe5f ("KVM: Drop unused @gpa param from gfn=>pfn cache's __release_gpc() helper")

@@ -1,0 +1,4 @@
+3616119da484 ("vfs: no mnt_want_write_file() in vfs_{copy,clone}_file_range()")
+04b38d601239 ("vfs: pull btrfs clone API to vfs layer")
+3db11b2eecc0 ("btrfs: add .copy_file_range file operation")
+29732938a628 ("vfs: add copy_file_range syscall and vfs helper")

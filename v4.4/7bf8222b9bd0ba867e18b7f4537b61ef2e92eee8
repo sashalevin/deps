@@ -1,0 +1,8 @@
+7bf8222b9bd0 ("irq/affinity: Fix CPU spread for unbalanced nodes")
+67c93c218dc5 ("genirq/affinity: Handle pre/post vectors in irq_create_affinity_masks()")
+212bd846223c ("genirq/affinity: Handle pre/post vectors in irq_calc_affinity_vectors()")
+44082fd6702f ("genirq/affinity: Remove old irq spread infrastructure")
+e75eafb9b039 ("genirq/msi: Switch to new irq spreading infrastructure")
+34c3d9819fda ("genirq/affinity: Provide smarter irq spreading infrastructure")
+28f4b04143c5 ("genirq/msi: Add cpumask allocation to alloc_msi_entry")
+4340393e5a50 ("Merge branch 'irq-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

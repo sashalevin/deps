@@ -1,0 +1,8 @@
+341adeec9ada ("net/smc: Forward wakeup to smc socket waitqueue after fallback")
+c0bf3d8a943b ("net/smc: Transitional solution for clcsock race issue")
+7a61432dc813 ("net/smc: Avoid warning of possible recursive locking")
+2153bd1e3d3d ("net/smc: Transfer remaining wait queue entries during fallback")
+e0e4b8fa5338 ("net/smc: Add SMC statistics support")
+099b990bd11a ("net/smc: Add support for obtaining system information")
+e8372d9d2145 ("net/smc: Introduce generic netlink interface for diagnostic purposes")
+8cf3f3e42374 ("net/smc: use helper smc_conn_abort() in listen processing")

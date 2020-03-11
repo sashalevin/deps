@@ -1,0 +1,4 @@
+345d52c184dc ("arm64/spinlock: fix a -Wunused-function warning")
+f5bfdc8e3947 ("locking/osq: Use optimized spinning loop for arm64")
+5aff60a191e5 ("locking/osq: Break out of spin-wait busy waiting loop for a preempted vCPU in osq_lock()")
+f2f09a4cee35 ("locking/core: Remove cpu_relax_lowlatency() users")

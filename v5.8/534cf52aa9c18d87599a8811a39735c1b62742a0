@@ -1,0 +1,3 @@
+534cf52aa9c1 ("sd: delay calling free_opal_dev")
+c76c46fa04c4 ("sd: call sd_zbc_release_disk before releasing the scsi_device reference")
+996e509bbc95 ("sd: use __register_blkdev to avoid a modprobe for an unregistered dev_t")

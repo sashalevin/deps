@@ -1,0 +1,5 @@
+6613d82e617d ("x86/bugs: Use ALTERNATIVE() instead of mds_user_clear static key")
+f44075ecafb7 ("x86/nmi: Fix out-of-order NMI nesting checks & false positive warning")
+f58d6fbcb7c8 ("x86/CPU/AMD: Fix the DIV(0) initial fix attempt")
+77245f1c3c64 ("x86/CPU/AMD: Do not leak quotient data after a division by 0")
+138bcddb86d8 ("Merge tag 'x86_bugs_srso' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

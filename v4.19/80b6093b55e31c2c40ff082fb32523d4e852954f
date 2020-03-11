@@ -1,0 +1,7 @@
+80b6093b55e3 ("kbuild: add -Wundef to KBUILD_CPPFLAGS for W=1 builds")
+6863f5643dd7 ("kbuild: allow Clang to find unused static inline functions for W=1 build")
+64a91907c896 ("kbuild: refactor scripts/Makefile.extrawarn")
+869ee58b8268 ("kbuild: Remove -Waggregate-return from scripts/Makefile.extrawarn")
+4c8dd95a723d ("kbuild: add some extra warning flags unconditionally")
+71391bdd2e9a ("include/linux/compiler_types.h: don't pollute userspace with macro definitions")
+9a12efc5e01a ("Merge tag 'kbuild-v4.20-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

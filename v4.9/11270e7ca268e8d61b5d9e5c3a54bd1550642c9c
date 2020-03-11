@@ -1,0 +1,8 @@
+11270e7ca268 ("xprtrdma: treat all calls not a bcall when bc_serv is NULL")
+41c8f70f5a3d ("xprtrdma: Harden backchannel call decoding")
+4b196dc6fee9 ("xprtrdma: Pre-mark remotely invalidated MRs")
+5c741d4f2215 ("SUNRPC: Add a helper function xdr_stream_decode_string_dup()")
+0ae060ca2bdf ("SUNRPC: Add generic helpers for xdr_stream encode/decode")
+3a72dc771cc3 ("xprtrdma: Relocate connection helper functions")
+a100fda1a2e1 ("xprtrdma: Refactor FRMR invalidation")
+8d38de65644d ("xprtrdma: Make FRWR send queue entry accounting more accurate")

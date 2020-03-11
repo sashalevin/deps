@@ -1,0 +1,5 @@
+21baa1c49888 ("PCI: dra7xx: Pass device-specific struct to internal functions")
+c7f8146b7c56 ("PCI: dra7xx: Add local struct device pointers")
+7e57fd1444bf ("PCI: designware: Move Root Complex setup code to dw_pcie_setup_rc()")
+dd193929d91e ("PCI: designware: Explain why we don't program ATU for some platforms")
+8ff0ef996ca0 ("PCI: host: Mark PCIe/PCI (MSI) IRQ cascade handlers as IRQF_NO_THREAD")

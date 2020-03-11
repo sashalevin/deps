@@ -1,1 +1,4 @@
 1f83391bd6fc ("bnxt_en: Fix possible crash in bnxt_hwrm_ring_free() under error conditions.")
+23aefdd76159 ("bnxt_en: Modify bnxt_ring_alloc_send_msg() to support 57500 chips.")
+2c61d2117ecb ("bnxt_en: Add helper functions to get firmware CP ring ID.")
+697197e5a173 ("bnxt_en: Re-structure doorbells.")

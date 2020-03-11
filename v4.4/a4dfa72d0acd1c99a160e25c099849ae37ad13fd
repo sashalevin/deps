@@ -1,0 +1,8 @@
+a4dfa72d0acd ("tipc: set default MTU for UDP media")
+3de81b758853 ("tipc: check minimum bearer MTU")
+1a90632da8c1 ("tipc: eliminate remnants of hungarian notation")
+38206d593906 ("tipc: narrow down interface towards struct tipc_link")
+5be9c086715c ("tipc: narrow down exposure of struct tipc_node")
+5405ff6e15f4 ("tipc: convert node lock to rwlock")
+2312bf61ae36 ("tipc: introduce per-link spinlock")
+1d7e1c2595bd ("tipc: reduce code dependency between binding table and node layer")

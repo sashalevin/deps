@@ -1,0 +1,8 @@
+6fb8f43cede0 ("kernel: treat PF_IO_WORKER like PF_KTHREAD for ptrace/signals")
+33da8e7c814f ("signal: Allow cifs and drbd to receive their terminating signals")
+247bc9470b1e ("cifs: fix rmmod regression in cifs.ko caused by force_sig changes")
+a692933a8769 ("signal: Always attempt to allocate siginfo for SIGSTOP")
+4ff4c31a6e85 ("signal: Remove SEND_SIG_FORCED")
+f149b3155744 ("signal: Never allocate siginfo for SIGKILL or SIGSTOP")
+035150540545 ("signal: Don't send siginfo to kthreads.")
+3597dfe01d12 ("signal: Always deliver the kernel's SIGKILL and SIGSTOP to a pid namespace init")

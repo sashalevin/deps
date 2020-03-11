@@ -1,0 +1,6 @@
+58ef47ef7db9 ("mm: hold the RCU read lock over calls to ->map_pages")
+9042599e81c2 ("mm: refactor do_fault_around()")
+0f0b6931ff0d ("mm: remove obsolete comment in do_fault_around()")
+f9ce0be71d1f ("mm: Cleanup faultaround and finish_fault() codepaths")
+f1dc1685f6ca ("mm/memory.c: fix spello of "function"")
+27a83a609b3b ("mm/filemap: fix filemap_map_pages for THP")

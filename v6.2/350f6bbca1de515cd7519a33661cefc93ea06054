@@ -1,0 +1,8 @@
+350f6bbca1de ("mm: allow per-VMA locks on file-backed VMAs")
+657b5146955e ("mm: lock_vma_under_rcu() must check vma->anon_vma under vma lock")
+7a7f09463534 ("tcp: Use per-vma locking for receive zerocopy")
+444eeb17437a ("mm: prevent userfaults to be handled under per-vma lock")
+2ac0af1b66e3 ("mm: fall back to mmap_lock if vma->anon_vma is not yet set")
+50ee32537206 ("mm: introduce lock_vma_under_rcu to be used from arch-specific code")
+5e31275cc997 ("mm: add per-VMA lock and helper functions to control it")
+438b6e12cd60 ("mm: move mmap_lock assert function definitions")

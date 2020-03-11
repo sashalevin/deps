@@ -1,0 +1,5 @@
+a1d97ccbb4d0 ("HID: logitech-dj: support sharing struct dj_receiver_dev between USB-interfaces")
+0ee755449157 ("HID: logitech-dj: rename dj_receiver_dev.hdev to dj_receiver_dev.hidpp")
+4fcad95a24bb ("HID: logitech-dj: do not schedule the dj report itself")
+82c0beb85854 ("HID: logitech-dj: remove USB dependency")
+43cd97af70c6 ("HID: logitech: Stop setting drvdata to NULL on probe failure and remove")

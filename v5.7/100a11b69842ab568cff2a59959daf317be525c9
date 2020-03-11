@@ -1,0 +1,8 @@
+100a11b69842 ("netfilter: nf_tables: use NLA_POLICY_MASK to test for valid flag options")
+a4878eeae390 ("netfilter: nf_tables: relax set/map validation checks")
+345023b0db31 ("netfilter: nftables: add nft_parse_register_store() and use it")
+4f16d25c68ec ("netfilter: nftables: add nft_parse_register_load() and use it")
+10fdd6d80e4c ("netfilter: nf_tables: Implement fast bitwise expression")
+5f48846daf33 ("netfilter: nf_tables: Enable fast nft_cmp for inverted matches")
+4566aa440008 ("netfilter: nft_nat: set flags from initialization path")
+0d7c83463fdf ("netfilter: nft_nat: return EOPNOTSUPP if type or flags are not supported")

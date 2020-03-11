@@ -1,0 +1,6 @@
+ed54124b8805 ("libbpf: support BPF token path setting through LIBBPF_BPF_TOKEN_PATH envvar")
+1d0dd6ea2e38 ("libbpf: wire up BPF token support at BPF object level")
+a75bb6a16518 ("libbpf: wire up token_fd into feature probing logic")
+ab8fc393b27c ("libbpf: move feature detection code into its own file")
+29c302a2e265 ("libbpf: further decouple feature checking logic from bpf_object")
+c6c5be3eee97 ("libbpf: split feature detectors definitions from cached results")

@@ -1,0 +1,7 @@
+3f27bb5f00dc ("tools headers: Follow the upstream UAPI header version 100% differ from the kernel")
+470de0f39e90 ("tools perf: Do not check spaces/blank lines when checking header file copy drift")
+aeafd623f866 ("perf tools: Move headers check into bash script")
+abb26210a395 ("perf tools: Force fixdep compilation at the start of the build")
+d58ac0bf8d1e ("perf build: Add clang and llvm compile and linking support")
+d4dfdf00d43e ("perf jvmti: Plug compilation into perf build")
+e0c4758278e2 ("perf bench mem: Ignore export.h related changes to mem{cpy,set}.S")

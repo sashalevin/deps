@@ -1,0 +1,5 @@
+e45e9e3998f0 ("KVM: X86: Fix tlb flush for tdp in kvm_invalidate_pcid()")
+21823fbda552 ("KVM: x86: Invalidate all PGDs for the current PCID on MOV CR3 w/ flush")
+c7313155bf11 ("KVM: x86: Always load PDPTRs on CR3 load for SVM w/o NPT and a PAE guest")
+f27ad38aac23 ("KVM: SVM: Add support for CR0 write traps for an SEV-ES guest")
+2985afbcdbb1 ("KVM: SVM: Add support for EFER write traps for an SEV-ES guest")

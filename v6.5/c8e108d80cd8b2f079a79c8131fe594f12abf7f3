@@ -1,0 +1,7 @@
+c8e108d80cd8 ("s390: port block device access to file")
+a8ab90ff47bf ("s390/dasd: Convert to bdev_open_by_path()")
+560e20e4bf64 ("block: consolidate __invalidate_device and fsync_bdev")
+127a5093c79d ("block: drop the "busy inodes on changed media" log message")
+2527fd38772f ("dasd: also call __invalidate_device when setting the device offline")
+ab6860f62bfe ("block: simplify the disk_force_media_change interface")
+aca740cecbe5 ("fs: open block device after superblock creation")

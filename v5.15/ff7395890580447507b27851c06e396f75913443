@@ -1,0 +1,8 @@
+ff7395890580 ("RDMA/rtrs-clt: Print request type for errors")
+caa84d95c78f ("RDMA/rtrs-clt: Rename rtrs_clt_sess to rtrs_clt_path")
+d9372794717f ("RDMA/rtrs: Rename rtrs_sess to rtrs_path")
+925cac635867 ("RDMA/rtrs-clt: Fix the initial value of min_latency")
+dea7bb3ad3e0 ("RDMA/rtrs: Do not allow sessname to contain special symbols / and .")
+6f5649afd398 ("RDMA/rtrs: Introduce destroy_cq helper")
+36332ded46b6 ("RDMA/rtrs: Replace duplicate check with is_pollqueue helper")
+4b6afe9bc955 ("RDMA/rtrs: Fix warning when use poll mode on client side.")

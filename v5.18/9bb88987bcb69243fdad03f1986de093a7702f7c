@@ -1,0 +1,4 @@
+9bb88987bcb6 ("ocfs2: Convert ocfs2_read_folio() to use a folio")
+bb9263fc1435 ("ocfs2: Convert ocfs2 to read_folio")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")

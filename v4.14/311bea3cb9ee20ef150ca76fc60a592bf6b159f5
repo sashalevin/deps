@@ -1,0 +1,6 @@
+311bea3cb9ee ("arm64: link with -z norelro for LLD or aarch64-elf")
+120dc60d0bdb ("arm64: get rid of TEXT_OFFSET")
+7c116db24d94 ("efi/libstub/arm64: Retain 2MB kernel Image alignment if !KASLR")
+751c263bb74f ("arm64: remove TEXT_OFFSET randomization")
+09587a09ada2 ("arm64: mm: use ARCH_HAS_DEBUG_WX instead of arch defined")
+533b220f7be4 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

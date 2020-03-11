@@ -1,0 +1,8 @@
+e02bc29b2cfa ("drm/sun4i: Unbind components before releasing DRM and memory")
+f5a9ed867c83 ("drm/sun4i: Fix component unbinding and component master deletion")
+4c2ae34f64c8 ("drm/sun4i: Replace drm_dev_unref with drm_dev_put")
+d79373bd4d7e ("drm/sun4i: Drop drm_vblank_cleanup")
+596afb6f0513 ("drm/sun4i: Grab reserved memory region")
+92b300c4e6f7 ("drm/sun4i: Check return value of drm_vblank_init")
+9d56defb44b1 ("drm/sun4i: Fix up error path cleanup for master bind function")
+92caf9bede54 ("drm/sun4i: Move drm_mode_config_cleanup call to main driver")

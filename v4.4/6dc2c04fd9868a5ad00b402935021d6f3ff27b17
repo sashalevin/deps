@@ -1,0 +1,7 @@
+6dc2c04fd986 ("PCI: layerscape: Use of_device_get_match_data() to simplify probe")
+15480f3ab7a8 ("PCI: layerscape: Fix drvdata usage before assignment")
+fefe6733e516 ("PCI: layerscape: Move struct pcie_port setup to probe function")
+7b0b11133cbf ("PCI: layerscape: Pass device-specific struct to internal functions")
+d41d2959593b ("PCI: layerscape: Remove redundant struct ls_pcie.dbi")
+c11125ebe746 ("PCI: layerscape: Add local struct device pointers")
+1195c103f6c9 ("PCI: layerscape: Fix MSG TLP drop setting")

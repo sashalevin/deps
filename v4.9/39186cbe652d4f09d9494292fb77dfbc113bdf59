@@ -1,0 +1,4 @@
+39186cbe652d ("mm,memory_hotplug: drop redundant hugepage_migration_supported check")
+eeb0efd071d8 ("mm,memory_hotplug: fix scan_movable_pages() for gigantic hugepages")
+464c7ffbcb16 ("mm/hugetlb: filter out hugetlb pages if HUGEPAGE migration is not supported.")
+0efadf48bca0 ("mm/hotplug: enable memory hotplug for non-lru movable pages")

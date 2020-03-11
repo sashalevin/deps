@@ -1,0 +1,7 @@
+875403a7b524 ("regmap: mmio: Remove unused 64-bit support code")
+400dceb6f8b5 ("regmap: mmio: Use swabXX_array() helpers")
+81c0386c1376 ("regmap: mmio: Support accelerared noinc operations")
+ada79bca3800 ("regmap: mmio: Remove mmio_relaxed member from context")
+d63aa09f7c53 ("regmap: Prefer unsigned int to bare use of unsigned")
+6e1e90ec0275 ("regmap: mmio: add config option to allow relaxed MMIO accesses")
+1c96a2f67cd9 ("regmap: split up regmap_config.use_single_rw")

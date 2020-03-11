@@ -1,0 +1,5 @@
+75d319c06e6a ("y2038: syscalls: change remaining timeval to __kernel_old_timeval")
+3876ced476c8 ("timex: change syscalls to use struct __kernel_timex")
+1a596398a3d7 ("sparc64: add custom adjtimex/clock_adjtime functions")
+4d5f007eedb7 ("time: make adjtime compat handling available for 32 bit")
+b12a9124eeb7 ("Merge tag 'y2038-for-4.21' of ssh://gitolite.kernel.org:/pub/scm/linux/kernel/git/arnd/playground")

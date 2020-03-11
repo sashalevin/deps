@@ -1,0 +1,5 @@
+ad39c08186f8 ("md: Don't register sync_thread for reshape directly")
+bc08041b32ab ("md: suspend array in md_start_sync() if array need reconfiguration")
+db5e653d7c9f ("md: delay choosing sync action to md_start_sync()")
+897c62a1cae6 ("md: factor out a helper to choose sync action from md_check_recovery()")
+ac619781967b ("md: use separate work_struct for md_start_sync()")

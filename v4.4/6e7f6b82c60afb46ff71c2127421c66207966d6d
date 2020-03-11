@@ -1,0 +1,5 @@
+6e7f6b82c60a ("tty: hvc: hvc_poll() fix read loop hang")
+ec97eaad1383 ("tty: hvc: hvc_poll() break hv read loop")
+97ef38b8210d ("tty: Replace TTY_THROTTLED bit tests with tty_throttled()")
+18900ca65a85 ("tty: Replace TTY_IO_ERROR bit tests with tty_io_error()")
+9db276f8f021 ("tty: Use termios c_*flag macros")

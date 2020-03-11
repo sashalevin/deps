@@ -1,0 +1,6 @@
+cf25f904ef75 ("x86/events/amd/iommu: Add IOMMU-specific hw_perf_event struct")
+1650dfd1a9bc ("x86/events, drivers/amd/iommu: Prepare for multiple IOMMUs support")
+f5863a00e73c ("x86/events/amd/iommu.c: Modify functions to query max banks and counters")
+6aad0c626905 ("x86/events/amd/iommu: Clean up bitwise operations")
+f9573e53f123 ("x86/events/amd/iommu: Declare pr_fmt() format")
+38e45d02ea9f ("iommu/amd: Fix boot warning when device 00:00.0 is not iommu covered")

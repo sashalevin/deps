@@ -1,0 +1,8 @@
+263a5646d885 ("i2c: core: Allow override timing properties with 0")
+b84dfe1af540 ("i2c: add support for filters optional properties")
+7b814d852af6 ("i2c: rcar: avoid race when unregistering slave client")
+4717be73c284 ("i2c: core: Parse SDA hold time from firmware")
+3b770017b03a ("i2c: rcar: handle RXDMA HW behaviour on Gen3")
+adbd77b589d0 ("i2c: rcar: skip DMA if buffer is not safe")
+63a761eef557 ("i2c: rcar: clarify PM handling with more comments")
+ae481cc13965 ("i2c: rcar: fix resume by always initializing registers before transfer")

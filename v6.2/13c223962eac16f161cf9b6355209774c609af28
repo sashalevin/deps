@@ -1,0 +1,7 @@
+13c223962eac ("io_uring/rsrc: zero node's rsrc data on alloc")
+ef8ae64ffa95 ("io_uring/rsrc: protect node refs with uring_lock")
+2ad4c6d08018 ("io_uring: don't put nodes under spinlocks")
+8e15c0e71b8a ("io_uring/rsrc: keep cached refs per node")
+b8fb5b4fdd67 ("io_uring/rsrc: use non-pcpu refcounts for nodes")
+4ff0b50de8ca ("io_uring/rsrc: fix rogue rsrc node grabbing")
+68a2cc1bba98 ("io_uring: refactor __io_req_complete_post")

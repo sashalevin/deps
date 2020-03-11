@@ -1,0 +1,6 @@
+edd4cab2d492 ("perf test: Fix maps use after put")
+fe693d951e3c ("perf maps: Add maps__refcnt() accessor to allow checking maps pointer")
+5ab6d715c32f ("perf maps: Add functions to access maps")
+ff583dc43dc8 ("perf maps: Remove rb_node from struct map")
+83720209961f ("perf map: Move map list node into symbol")
+ec9640f77d19 ("perf symbol: Sort names under write lock")

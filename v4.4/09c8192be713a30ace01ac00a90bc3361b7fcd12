@@ -1,0 +1,5 @@
+09c8192be713 ("mmc: sdhci-esdhc-imx: support eMMC DDR mode when running at 3.3V")
+f3f5cf3dfc3a ("mmc: sdhci-esdhc-imx: factor out hw related initialization into function")
+ca8cc0fe0e55 ("mmc: sdhci-esdhci-imx: disable DLL delay line settings explicitly")
+cc17e1294b8a ("mmc: sdhci-esdhc-imx: restore watermark level setting after resume")
+04143fbaeb57 ("mmc: sdhci-esdhc-imx: add esdhc specific suspend resume callback")

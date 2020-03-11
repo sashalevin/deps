@@ -1,0 +1,5 @@
+44d8ebf43639 ("dm thin metadata: use pool locking at end of dm_pool_metadata_close")
+873f258becca ("dm thin metadata: do not write metadata if no changes occurred")
+6a1b1ddc6a2c ("dm thin metadata: add wrappers for managing write locking of metadata")
+3ab918281668 ("dm thin metadata: try to avoid ever aborting transactions")
+a685557fbbc3 ("dm thin: handle running out of data space vs concurrent discard")

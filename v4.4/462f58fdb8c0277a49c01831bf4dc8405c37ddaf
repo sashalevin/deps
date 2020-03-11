@@ -1,0 +1,8 @@
+462f58fdb8c0 ("mmc: sdhci-of-arasan: Use appropriate type of division macro")
+3ea4666e8d42 ("mmc: sdhci-of-arasan: Properly set corecfg_baseclkfreq on rk3399")
+ca572f4636aa ("mmc: sdhci-of-arasan: Always power the PHY off/on when clock changes")
+a05c84651145 ("mmc: sdhci-of-arasan: implement enhanced strobe callback")
+802ac39a5566 ("mmc: sdhci-of-arasan: fix set_clock when a phy is supported")
+91aa366109e8 ("mmc: sdhci-of-arasan: add phy support for sdhci-of-arasan")
+278d09624eda ("mmc: sdhci-of-arasan: fix missing sdhci_pltfm_free for err handling")
+0c7fe32e847f ("mmc: sdhci-of-arasan: fix clk issue in sdhci_arasan_remove()")

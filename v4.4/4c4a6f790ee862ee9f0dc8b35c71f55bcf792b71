@@ -1,0 +1,7 @@
+4c4a6f790ee8 ("KVM: nVMX: track NMI blocking state separately for each VMCS")
+2c82878b0cb3 ("KVM: VMX: require virtual NMI support")
+47c0152e0f8b ("KVM: VMX: use vmcs_set/clear_bits for CPU-based execution controls")
+c5a6d5f7faad ("KVM: nVMX: Fix the NMI IDT-vectoring handling")
+64672c95ea4c ("kvm: vmx: hook preemption timer support")
+bc22512bb24c ("kvm: vmx: rename vmx_pre/post_block to pi_pre/post_block")
+2680d6da455b ("kvm: x86: Update tsc multiplier on change.")

@@ -1,0 +1,7 @@
+225a05043cd8 ("filemap: Remove lock_page_killable()")
+19672a9e4a75 ("mm: convert lock_page_or_retry() to folio_lock_or_retry()")
+9138e47ed425 ("mm/filemap: Add __folio_lock_or_retry()")
+6baa8d602e84 ("mm/filemap: Add folio_wait_locked()")
+ffdc8dabf20b ("mm/filemap: Add __folio_lock_async()")
+af7f29d9e1a7 ("mm/filemap: Add folio_lock_killable()")
+7c23c782d5d5 ("mm/filemap: Add folio_lock()")

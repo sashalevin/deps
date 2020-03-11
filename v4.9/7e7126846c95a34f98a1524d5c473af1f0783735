@@ -1,0 +1,5 @@
+7e7126846c95 ("kvm: nVMX: fix entry with pending interrupt if APICv is enabled")
+e6c67d8cf117 ("KVM: nVMX: Wake blocked vCPU in guest-mode if pending interrupt in virtual APICv")
+b5861e5cf2fc ("KVM: nVMX: Fix loss of pending IRQ/NMI before entering L2")
+7f7f1ba33cf2 ("KVM: x86: do not load vmcs12 pages while still in SMM")
+47f7dc4b845a ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

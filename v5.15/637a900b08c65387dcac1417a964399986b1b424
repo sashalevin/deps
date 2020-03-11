@@ -1,0 +1,7 @@
+637a900b08c6 ("mm/rmap: change the type of we_locked from int to bool")
+b3ac04132c4b ("mm/rmap: Turn page_referenced() into folio_referenced()")
+eed05e54d275 ("mm: Add DEFINE_PAGE_VMA_WALK and DEFINE_FOLIO_VMA_WALK")
+47d4f3eeef5f ("mm/thp: shrink_page_list() avoid splitting VM_LOCKED THP")
+a28397beb55b ("mm/damon: implement primitives for physical address space monitoring")
+46c3a0accdc4 ("mm/damon/vaddr: separate commonly usable functions")
+6dea8add4d28 ("mm/damon/vaddr: support DAMON-based Operation Schemes")

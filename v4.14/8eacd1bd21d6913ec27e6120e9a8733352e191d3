@@ -1,0 +1,6 @@
+8eacd1bd21d6 ("nvmet: avoid integer overflow in the discard code")
+9c891c139894 ("nvmet: check fileio lba range access boundaries")
+1b72b71facce ("nvmet: fix file discard return status")
+d5eff33ee6f8 ("nvmet: add simple file backed ns support")
+618cff4285dc ("nvmet: remove duplicate NULL initialization for req->ns")
+e454d122e228 ("nvmet: kill nvmet_inline_bio_init")

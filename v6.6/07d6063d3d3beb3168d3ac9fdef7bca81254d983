@@ -1,0 +1,4 @@
+07d6063d3d3b ("io_uring/kbuf: prune deferred locked cache when tearing down")
+b3a4dbc89d40 ("io_uring/kbuf: Use slab for struct io_buffer objects")
+f74c746e476b ("io_uring/kbuf: Allow the full buffer id space for provided buffers")
+ab69838e7c75 ("io_uring/kbuf: Fix check of BID wrapping in provided buffers")

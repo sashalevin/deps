@@ -1,0 +1,4 @@
+9a50ebbffa98 ("KVM: arm: vgic: Synchronize the whole guest on GIC{D,R}_I{S,C}ACTIVER read")
+1c32ca5dc6d0 ("KVM: arm: vgic: Fix limit condition when writing to GICD_I[CS]ACTIVER")
+3109741a8d77 ("KVM: arm/arm64: vgic: Use a single IO device per redistributor")
+107352a24900 ("arm/arm64: KVM: vgic: Force VM halt when changing the active state of GICv3 PPIs/SGIs")

@@ -1,0 +1,6 @@
+3c98c62f7a76 ("btrfs: drop get_extent from extent_page_data")
+deac642d7e0f ("btrfs: sink get_extent parameter to extent_write_full_page")
+916b929831a9 ("btrfs: sink get_extent parameter to extent_write_locked_range")
+433175992c17 ("btrfs: sink get_extent parameter to extent_writepages")
+18fdc67900c5 ("Btrfs: remove bio_flags which indicates a meta block of log-tree")
+6300463b14c1 ("Btrfs: make plug in writing meta blocks really work")

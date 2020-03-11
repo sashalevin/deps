@@ -1,0 +1,7 @@
+55c91fedd03d ("virtio-mmio: don't break lifecycle of vm_dev")
+da98b54d0298 ("virtio-mmio: Use to_virtio_mmio_device() to simply code")
+c64eb62cfce2 ("virtio-mmio: convert to devm_platform_ioremap_resource")
+c2e90800aef2 ("virtio_mmio: fix devm cleanup")
+25f32223bce5 ("virtio_mmio: add cleanup for virtio_mmio_remove")
+7eb781b1bbb7 ("virtio_mmio: add cleanup for virtio_mmio_probe")
+cecdbdc3771e ("virtio_mmio: Set dev.release() to avoid warning")

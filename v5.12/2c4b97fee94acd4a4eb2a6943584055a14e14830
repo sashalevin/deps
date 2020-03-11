@@ -1,0 +1,7 @@
+2c4b97fee94a ("firmware: arm_scmi: Add SCMI System Power Control driver")
+cdf157faaafe ("firmware: arm_scmi: Disable ftrace for Clang Thumb2 builds")
+e8419c24bace ("firmware: arm_scmi: Make SCMI transports configurable")
+ceac257db055 ("firmware: arm_scmi: Add optional transport_init/exit support")
+ab7766b72855 ("firmware: arm_scmi: Fix the build when CONFIG_MAILBOX is not selected")
+c05b07963e96 ("firmware: arm_scmi: Add SMCCC discovery dependency in Kconfig")
+48dc16e2e52c ("firmware: arm_scmi: Extend protocol registration interfaces")

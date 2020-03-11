@@ -1,0 +1,5 @@
+8d860bbeedef ("kvm: vmx: Basic APIC virtualization controls have three settings")
+a468f2dbf921 ("kvm: apic: Flush TLB after APIC mode/address change if VPIDs are in use")
+c2ba05ccfde2 ("KVM: X86: introduce invalidate_gpa argument to tlb flush")
+00647b44944a ("KVM: nVMX: Eliminate vmcs02 pool")
+8a1b43922d0d ("kvm: vmx: Reinstate support for CPUs without virtual NMI")

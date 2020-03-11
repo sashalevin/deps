@@ -1,0 +1,5 @@
+72046d0a077a ("KVM: SVM: Don't intercept IRET when injecting NMI and vNMI is enabled")
+772f254d4d56 ("KVM: SVM: add wrappers to enable/disable IRET interception")
+916b54a7688b ("KVM: x86: Move HF_NMI_MASK and HF_IRET_MASK into "struct vcpu_svm"")
+c760e86f27fe ("KVM: x86: Move HF_GIF_MASK into "struct vcpu_svm" as "guest_gif"")
+5f6015b26ba2 ("KVM: SVM: remove redundant ret variable")

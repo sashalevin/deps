@@ -1,0 +1,3 @@
+8f9dcc295666 ("mac80211: fix a memory leak where sta_info is not freed")
+7bc40aedf24d ("mac80211: free sta in sta_info_insert_finish() on errors")
+0c2e384267b8 ("mac80211: only alloc mem if a station doesn't exist yet")

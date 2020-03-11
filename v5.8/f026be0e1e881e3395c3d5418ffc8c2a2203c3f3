@@ -1,0 +1,8 @@
+f026be0e1e88 ("nvme: optimise io_uring passthrough completion")
+c0a7ba77e81b ("nvme: split out metadata vs non metadata end_io uring_cmd completions")
+de671d6116b5 ("block: change request end_io handler to pass back a return value")
+585079b6e425 ("nvme: wire up async polling for io passthrough commands")
+e2e530867245 ("blk-mq: remove the done argument to blk_execute_rq_nowait")
+32ac5a9b8bc5 ("blk-mq: avoid a mess of casts for blk_end_sync_rq")
+ae948fd6d029 ("blk-mq: remove __blk_execute_rq_nowait")
+5dc921868c50 ("Merge tag 'for-5.19/drivers-2022-05-22' of git://git.kernel.dk/linux-block")

@@ -1,0 +1,7 @@
+9a27de0c6ba1 ("net: ena: fix return value of ena_com_config_llq_info()")
+689b2bdaaa14 ("net: ena: add functions for handling Low Latency Queues in ena_com")
+0e575f8542d1 ("net: ena: minor performance improvement")
+37dff155dcf5 ("net: ena: fix incorrect usage of memory barriers")
+28abf4e9c920 ("net: ena: fix missing calls to READ_ONCE")
+6d2e1a8d5e25 ("net: ena: Eliminate duplicate barriers on weakly-ordered archs")
+8510e1a3d16c ("net: ena: add detection and recovery mechanism for handling missed/misrouted MSI-X")

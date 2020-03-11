@@ -1,0 +1,6 @@
+a55d1cbd1720 ("fs: switch f_iocb_flags and f_ra")
+1934b212615d ("file: reclaim 24 bytes from f_owner")
+0ef625bba6fb ("vfs: support statx(..., NULL, AT_EMPTY_PATH, ...)")
+dff60734fc76 ("vfs: retire user_path_at_empty and drop empty arg from getname_flags")
+969ce92da311 ("vfs: stop using user_path_at_empty in do_readlinkat")
+c62b758bae6a ("fcntl: add F_DUPFD_QUERY fcntl()")

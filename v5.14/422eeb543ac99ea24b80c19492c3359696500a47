@@ -1,0 +1,6 @@
+422eeb543ac9 ("KVM: Put mm immediately after async #PF worker completes remote gup()")
+3d75b8aa5c29 ("KVM: Always flush async #PF workqueue when vCPU is being destroyed")
+d92a5d1c6c75 ("KVM: Add helpers to wake/query blocking vCPU")
+510958e99721 ("KVM: Force PPC to define its own rcuwait object")
+6f390916c4fb ("KVM: s390: Ensure kvm_arch_no_poll() is read once when blocking vCPU")
+8ccba534a1a5 ("KVM: stats: Add halt polling related histogram stats")

@@ -1,0 +1,5 @@
+a53232cb3abe ("nvme-pci: remove nvme_queue from nvme_iod")
+253a0b76a12a ("nvme-pci: use ctrl sgl check helper")
+e51183be1fa9 ("nvme-pci: don't simple map sgl when sgls are disabled")
+af7fae857ea2 ("nvme-pci: allocate nvme_command within driver pdu")
+16686f3a6c3c ("nvme: move common call to nvme_cleanup_cmd to core layer")

@@ -1,0 +1,4 @@
+10c848c8b480 ("mm/smaps: fix shmem pte hole swap calculation")
+48131e03ca4e ("mm, proc: reduce cost of /proc/pid/smaps for unpopulated shmem mappings")
+6a15a37097c7 ("mm, proc: reduce cost of /proc/pid/smaps for shmem mappings")
+c261e7d94f0d ("mm, proc: account for shmem swap in /proc/pid/smaps")

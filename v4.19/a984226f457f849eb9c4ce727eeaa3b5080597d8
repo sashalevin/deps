@@ -1,0 +1,6 @@
+a984226f457f ("mm: memcontrol: remove the pgdata parameter of mem_cgroup_page_lruvec")
+d99fd5feb0ac ("mm/compaction: remove rcu_read_lock during page compaction")
+f9b1038ebcca ("mm/memcg: remove rcu locking for lock_page_lruvec function series")
+9a1ac2288cf1 ("mm/memcontrol:rewrite mem_cgroup_page_lruvec()")
+a4055888629b ("mm/memcg: warning on !memcg after readahead page charged")
+5b200f578960 ("Merge branch 'akpm' (patches from Andrew)")

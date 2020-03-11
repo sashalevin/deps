@@ -1,0 +1,7 @@
+e6b51532d527 ("ARM: 9316/1: hw_breakpoint: fix single-stepping when using bpf_overflow_handler")
+a506bd575629 ("ARM: 9064/1: hw_breakpoint: Do not directly check the event's overflow_handler hook")
+22c9e58299e5 ("ARM: 8997/2: hw_breakpoint: Handle inexact watchpoint addresses")
+eec13b42d41b ("ARM: 8986/1: hw_breakpoint: Don't invoke overflow handler on uaccess watchpoints")
+24ebec25fb27 ("arm64: hw_breakpoint: Don't invoke overflow handler on uaccess watchpoints")
+fdfeff0f9e3d ("arm64: hw_breakpoint: Handle inexact watchpoint addresses")
+b08fb180bb88 ("arm64: Allow hw watchpoint at varied offset from base address")

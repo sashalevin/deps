@@ -1,0 +1,7 @@
+e296c95eac65 ("wifi: cfg80211: fully move wiphy work to unbound workqueue")
+a3ee4dc84c4e ("wifi: cfg80211: add a work abstraction with special semantics")
+a993df0f9143 ("wifi: cfg80211: move wowlan disable under locks")
+358ae88881ad ("cfg80211: expose the rfkill device to the low level driver")
+6f779a66dc84 ("cfg80211: allow specifying a reason for hw_rfkill")
+a05829a7222e ("cfg80211: avoid holding the RTNL when calling the driver")
+2fe8ef106238 ("cfg80211: change netdev registration/unregistration semantics")

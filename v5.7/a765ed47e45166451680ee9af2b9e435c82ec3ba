@@ -1,0 +1,3 @@
+a765ed47e451 ("PCI: hv: Fix synchronization between channel callback and hv_compose_msi_msg()")
+de5ddb7d4434 ("PCI: hv: Use vmbus_requestor to generate transaction IDs for VMbus hardening")
+240ad77cb50d ("PCI: hv: Prepare hv_compose_msi_msg() for the VMBus-channel-interrupt-to-vCPU reassignment functionality")

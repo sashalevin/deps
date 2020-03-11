@@ -1,0 +1,5 @@
+98a26b69d8c3 ("KVM: x86: change TLB flush indicator to bool")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+3cc5ea94de5f ("KVM/MMU: Flush tlb directly in kvm_set_pte_rmapp()")
+0cf853c5e238 ("KVM/MMU: Move tlb flush in kvm_set_pte_rmapp() to kvm_mmu_notifier_change_pte()")
+748c0e312fce ("KVM: Make kvm_set_spte_hva() return int")

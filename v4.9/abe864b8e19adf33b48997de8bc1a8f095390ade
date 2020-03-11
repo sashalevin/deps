@@ -1,0 +1,7 @@
+abe864b8e19a ("modpost: use sym_get_data() to get module device_table data")
+75893572d453 ("modpost: remove get_next_text() and make {grab,release_}file static")
+ac5100f54329 ("modpost: add read_text_file() and get_line() helpers")
+afa0459daa7b ("modpost: add a helper to get data pointed by a symbol")
+54a7151b1496 ("kbuild: modversions: Fix relative CRC byte order interpretation")
+6124c04c1344 ("modpost: simplify sec_name()")
+56067812d5b0 ("kbuild: modversions: add infrastructure for emitting relative CRCs")

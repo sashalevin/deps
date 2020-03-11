@@ -1,0 +1,5 @@
+cc40daf91bdd ("bcache: fix crashes in duplicate cache device register")
+d9dc1702b297 ("bcache: register_bcache(): call blkdev_put() when cache_alloc() fails")
+c50d4d5dd367 ("bcache: Remove redundant parameter for cache_alloc()")
+9b299728ed77 ("bcache: cleaned up error handling around register_cache()")
+d7076f21629f ("bcache: allows use of register in udev to avoid "device_busy" error.")

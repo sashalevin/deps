@@ -1,0 +1,4 @@
+36d18b5664ef ("net: stmmac: start phylink instance before stmmac_hw_setup()")
+8e5debed3901 ("net: stmmac: Use rtnl_lock/unlock on netif_set_real_num_rx_queues() call")
+77b2898394e3 ("net: stmmac: Speed down the PHY if WoL to save energy")
+e8377e7a29ef ("net: stmmac: only call pmt() during suspend/resume if HW enables PMT")

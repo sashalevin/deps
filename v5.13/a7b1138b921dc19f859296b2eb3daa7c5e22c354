@@ -1,0 +1,5 @@
+a7b1138b921d ("firmware: arm_scmi: Make shmem support optional for transports")
+e8419c24bace ("firmware: arm_scmi: Make SCMI transports configurable")
+ceac257db055 ("firmware: arm_scmi: Add optional transport_init/exit support")
+ab7766b72855 ("firmware: arm_scmi: Fix the build when CONFIG_MAILBOX is not selected")
+c05b07963e96 ("firmware: arm_scmi: Add SMCCC discovery dependency in Kconfig")

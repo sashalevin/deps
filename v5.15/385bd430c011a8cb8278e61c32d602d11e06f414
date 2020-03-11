@@ -1,0 +1,5 @@
+385bd430c011 ("objtool: Mark __ubsan_handle_builtin_unreachable() as noreturn")
+d4e5268a08b2 ("x86,objtool: Mark cpu_startup_entry() __noreturn")
+105cd6859639 ("x86: Mark __invalid_creds() __noreturn")
+f9cdf7ca57ca ("x86: Mark stop_this_cpu() __noreturn")
+9af9dcf11bda ("x86/xen: Mark cpu_bringup_and_idle() as dead_end_function")

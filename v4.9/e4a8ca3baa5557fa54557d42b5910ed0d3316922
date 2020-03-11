@@ -1,0 +1,4 @@
+e4a8ca3baa55 ("/proc/module: fix building without kallsyms")
+516fb7f2e73d ("/proc/module: use the same logic as /proc/kallsyms for address exposure")
+c0f3ea158939 ("stop using '%pK' for /proc/kallsyms pointer values")
+7fd8329ba502 ("taint/module: Clean up global and module taint flags handling")

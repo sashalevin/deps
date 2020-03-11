@@ -1,0 +1,7 @@
+a84ad3242e53 ("mmc: sdhci: Drop redundant check in sdhci_ack_sdio_irq()")
+89f3c365f3e1 ("mmc: sdhci: Fix SDIO IRQ thread deadlock")
+c07a48c26519 ("mmc: sdhci: Remove finish_tasklet")
+19d2f695f4e8 ("mmc: sdhci: Call mmc_request_done() from IRQ handler if possible")
+2e72ab9b2f56 ("mmc: sdhci: Reorganize sdhci_finish_mrq() and __sdhci_finish_mrq()")
+af849c86109d ("mmc: sdhci: Handle auto-command errors")
+869f8a69bb3a ("mmc: sdhci: Rename SDHCI_ACMD12_ERR and SDHCI_INT_ACMD12ERR")

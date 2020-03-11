@@ -1,0 +1,6 @@
+6dbf5cea05a7 ("cpuidle: menu: Avoid taking spinlock for accessing QoS values")
+9908859acaa9 ("cpuidle/menu: add per CPU PM QoS resume latency consideration")
+e5f1b245870d ("cpuidle: governors: Remove remaining old module code")
+9c4b2867ed7c ("cpuidle: menu: Fix menu_select() for CPUIDLE_DRIVER_STATE_START == 0")
+a9ceb78bc75c ("cpuidle,menu: use interactivity_req to disable polling")
+7884084f3bcc ("cpuidle,x86: increase forced cut-off for polling to 20us")

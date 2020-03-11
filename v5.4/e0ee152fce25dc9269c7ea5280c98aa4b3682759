@@ -1,0 +1,8 @@
+e0ee152fce25 ("drm/i915: Unlock the shared hwsp_gtt object after pinning")
+3999a7087989 ("drm/i915: Rework intel_context pinning to do everything outside of pin_mutex")
+110f9efa858f ("drm/i915/gt: Only swap to a random sibling once upon creation")
+b7ccc7858a33 ("drm/i915/gt: Remove errant assertion in __intel_context_do_pin")
+2632f174a2e1 ("drm/i915/execlists: Avoid reusing the same logical CCID")
+b4892e440432 ("drm/i915: Make define for lrc state offset")
+23122a4d992b ("drm/i915/gt: Scrub execlists state on resume")
+2b703bbda271 ("Merge drm/drm-next into drm-intel-next-queued")

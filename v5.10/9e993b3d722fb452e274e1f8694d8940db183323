@@ -1,0 +1,8 @@
+9e993b3d722f ("ALSA: hda: codec: Reduce CONFIG_PM dependencies")
+bb682f7a91af ("ALSA: hda: Expose codec cleanup and power-save functions")
+17e0c4cbb748 ("ALSA: hda: Update and expose codec register procedures")
+7206998f578d ("ALSA: hda: Fix potential deadlock at codec unbinding")
+c0f1886de7e1 ("ALSA: hda: intel: Allow repeatedly probing on codec configuration errors")
+327b34f2a97d ("ALSA: hda: Nuke unused reboot_notify callback")
+95dc85dba05f ("ALSA: hda: conexant: Turn off EAPD at suspend, too")
+2b73649cee65 ("ALSA: hda: Balance runtime/system PM if direct-complete is disabled")

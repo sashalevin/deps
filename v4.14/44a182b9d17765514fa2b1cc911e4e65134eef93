@@ -1,0 +1,6 @@
+44a182b9d177 ("xhci: Fix use-after-free in xhci_free_virt_device")
+8c5a93ebf7ac ("xhci: xhci debugfs device nodes weren't removed after device plugged out")
+11ec7588a10d ("usb: xhci: Fix memory leak when xhci_disable_slot() returns error")
+cd3f1790b006 ("usb: xhci: Fix potential memory leak in xhci_disable_slot()")
+b64149ca016c ("usb: xhci: Disable slot even when virt-dev is null")
+02b6fdc2a153 ("usb: xhci: Add debugfs interface for xHCI driver")

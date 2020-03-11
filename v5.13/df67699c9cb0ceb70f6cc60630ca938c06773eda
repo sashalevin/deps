@@ -1,0 +1,8 @@
+df67699c9cb0 ("firmware/sysfb: Clear screen_info state after consuming it")
+bc824922b264 ("firmware: sysfb: Add sysfb_disable() helper function")
+0949ee75da6c ("firmware: sysfb: Make sysfb_create_simplefb() return a pdev pointer")
+202c08914ba5 ("firmware: sysfb: fix platform-device leak in error path")
+0589e8889dce ("drivers/firmware: Add missing platform_device_put() in sysfb_create_simplefb")
+8633ef82f101 ("drivers/firmware: consolidate EFI framebuffer setup for all arches")
+d391c5827107 ("drivers/firmware: move x86 Generic System Framebuffers support")
+11e8f5fd223b ("drm: Add simpledrm driver")

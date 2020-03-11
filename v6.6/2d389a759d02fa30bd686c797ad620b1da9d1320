@@ -1,0 +1,4 @@
+2d389a759d02 ("md/raid1: Clean up local variable 'b' from raid1_read_request()")
+2d32777d60de ("md/raid1: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")

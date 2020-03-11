@@ -1,0 +1,6 @@
+73f613908eb1 ("drm/bridge: analogix_dp: move platform and PHY power handling into runtime PM")
+dcbaaa239dd3 ("drm/bridge: analogix_dp: remove clk handling from analogix_dp_set_bridge")
+f37952339cc2 ("drm/bridge: analogix_dp: handle clock via runtime PM")
+2d192f4a3acc ("drm/bridge: analogix_dp: register AUX bus after enabling runtime PM")
+6d4618ad04e1 ("drm/bridge: analogix_dp: remove unused platform power_on_end callback")
+cc62d98bd56d ("Revert "drm: bridge: analogix/dp: add panel prepare/unprepare in suspend/resume time"")

@@ -1,1 +1,5 @@
 9b1640686470 ("scsi: lpfc: Fix use-after-free mailbox cmd completion")
+00292e0306dc ("scsi: lpfc: Fix discovery failure when PLOGI is defered")
+dea16bdae2f1 ("scsi: lpfc: Fix discovery failures during port failovers with lots of vports")
+3e1f0718921c ("scsi: lpfc: refactor mailbox structure context fields")
+d83ca3ea833d ("scsi: lpfc: Correct loss of fc4 type on remote port address change")

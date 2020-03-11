@@ -1,0 +1,4 @@
+3534e5a5ed29 ("dm thin: fix use-after-free crash in dm_sm_register_threshold_callback")
+6a1b1ddc6a2c ("dm thin metadata: add wrappers for managing write locking of metadata")
+3ab918281668 ("dm thin metadata: try to avoid ever aborting transactions")
+a685557fbbc3 ("dm thin: handle running out of data space vs concurrent discard")

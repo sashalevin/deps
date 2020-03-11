@@ -1,0 +1,6 @@
+fb2a836da451 ("btrfs: check-integrity: remove btrfsic_unmount() function")
+af32d3632e7d ("btrfs: check-integrity: remove btrfsic_mount() function")
+51cf580c2362 ("btrfs: check-integrity: remove btrfsic_check_bio() function")
+cd4efd210edf ("btrfs: rename __btrfs_map_block to btrfs_map_block")
+78a213a05df3 ("btrfs: optimize simple reads in btrfsic_map_block")
+29e70be261d9 ("btrfs: use SECTOR_SHIFT to convert physical offset to LBA")

@@ -1,0 +1,3 @@
+288bee28094e ("KVM: VMX: Fold Hyper-V EPTP checking into it's only caller")
+b68aa15cca56 ("KVM: VMX: Stash kvm_vmx in a local variable for Hyper-V paravirt TLB flush")
+a4038ef1aa63 ("KVM: VMX: Track common EPTP for Hyper-V's paravirt TLB flush")

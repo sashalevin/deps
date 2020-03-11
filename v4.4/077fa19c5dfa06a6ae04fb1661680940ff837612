@@ -1,0 +1,8 @@
+077fa19c5dfa ("PCI: Disable Relaxed Ordering Attributes for AMD A1100")
+87e09cdec4da ("PCI: Disable Relaxed Ordering for some Intel processors")
+a99b646afa8a ("PCI: Disable PCIe Relaxed Ordering if unsupported")
+4d071c323898 ("PCI/PM: Add needs_resume flag to avoid suspend complete optimization")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+60db3a4d8cc9 ("PCI: Enable PCIe Extended Tags if supported")
+443b40ba21aa ("x86/PCI: VMD: Add quirk for AER to ignore source ID")
+9d26d3a8f1b0 ("PCI: Put PCIe ports into D3 during suspend")

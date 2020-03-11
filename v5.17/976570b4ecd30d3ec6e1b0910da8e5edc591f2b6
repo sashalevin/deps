@@ -1,0 +1,5 @@
+976570b4ecd3 ("sbitmap: Advance the queue index before waking up a queue")
+4f8126bb2308 ("sbitmap: Use single per-bitmap counting to wake up queued tags")
+4acb83417cad ("sbitmap: fix batched wait_cnt accounting")
+48c033314f37 ("sbitmap: Avoid leaving waitqueue in invalid state in __sbq_wake_up()")
+040b83fcecfb ("sbitmap: fix possible io hung due to lost wakeup")

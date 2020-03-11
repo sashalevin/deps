@@ -1,0 +1,5 @@
+9788c950ed4a ("vt: keyboard, rename i to kb_func in vt_do_kdgkb_ioctl")
+82e61c3909db ("vt: keyboard, extend func_buf_lock to readers")
+6ca03f90527e ("vt: keyboard, simplify vt_kdgkbsent")
+f3af1b68fc96 ("tty: keyboard, do not speculate on func_table index")
+46ca3f735f34 ("tty/vt: fix write/write race in ioctl(KDSKBSENT) handler")

@@ -1,0 +1,8 @@
+a5f616483110 ("mm/ioremap: add slab availability checking in ioremap_prot")
+ab05eabfa18a ("mm: move lib/ioremap.c to mm/")
+80b0ca98f91d ("lib: provide a simple generic ioremap implementation")
+97c9801a15e5 ("asm-generic: don't provide ioremap for CONFIG_MMU")
+e97133959ad2 ("asm-generic: ioremap_uc should behave the same with and without MMU")
+196d9d8bb71d ("mm/memory: Move mmu_gather and TLB invalidation code into its own file")
+a6d60245d6d9 ("asm-generic/tlb: Track which levels of the page tables have been cleared")
+22a61c3c4f13 ("asm-generic/tlb: Track freeing of page-table directories in struct mmu_gather")

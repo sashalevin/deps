@@ -1,0 +1,8 @@
+2e41e3ca4729 ("PM: suspend: Fix pm_suspend_target_state handling for !CONFIG_PM")
+cb1f65c1e142 ("PM: s2idle: ACPI: Fix wakeup interrupts handling")
+2591e7b17c0d ("PM: sleep: wakeup: Use built-in RCU list checking")
+45dc1576e457 ("ACPI: PM: s2idle: Avoid rearming SCI for wakeup unnecessarily")
+56b991849009 ("PM: sleep: Simplify suspend-to-idle control flow")
+41275eb5c718 ("ACPI: PM: Set s2idle_wakeup earlier and clear it later")
+7edcbbf29006 ("ACPI: PM: Loop in full LPS0 mode only")
+f941d3e41da7 ("ACPI: EC / PM: Disable non-wakeup GPEs for suspend-to-idle")

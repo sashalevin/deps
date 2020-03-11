@@ -1,0 +1,6 @@
+6ad02b29b836 ("gpio: pch: Convert to use managed functions pcim_* and devm_*")
+09445a103eb4 ("gpio: pch: check the return value of irq_alloc_generic_chip()")
+f57f3e600383 ("gpio: pch: use resource management for irqs")
+510f48713711 ("gpio: pch: use gpiochip data pointer")
+a9f1a3e4c1c7 ("gpio: pch: fix non-DT build")
+1cfadea8f395 ("gpio: pch: allow use from device tree")

@@ -1,0 +1,7 @@
+c95ce3a23dcd ("topology: Fix up build warning in topology_is_visible()")
+aa63a74d4535 ("topology/sysfs: Hide PPIN on systems that do not support it.")
+bb9ec13d156e ("topology: use bin_attribute to break the size limitation of cpumap ABI")
+2e4c54dac7b3 ("topology: Create core_cpus and die_cpus sysfs attributes")
+b73ed8dc0597 ("topology: Create package_cpus sysfs attribute")
+3a1c779fb8f7 ("topology: Simplify cputopology.txt formatting and wording")
+295cc7eb314e ("x86/smpboot: Fix uncore_pci_remove() indexing bug when hot-removing a physical CPU")

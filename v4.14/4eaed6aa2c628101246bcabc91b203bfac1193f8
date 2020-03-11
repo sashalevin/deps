@@ -1,0 +1,6 @@
+4eaed6aa2c62 ("arm64/kvm: consistently handle host HCR_EL2 flags")
+35a84dec00a7 ("KVM: arm64: Move HCR_INT_OVERRIDE to default HCR_EL2 guest flag")
+cc33c4e20185 ("arm64/kvm: Prohibit guest LOR accesses")
+558daf693e0c ("KVM: arm64: Emulate RAS error registers and set HCR_EL2's TERR & TEA")
+07d79fe7c223 ("arm64/sve: KVM: Hide SVE from CPU features exposed to guests")
+93390c0a1b20 ("arm64: KVM: Hide unsupported AArch64 CPU features from guests")

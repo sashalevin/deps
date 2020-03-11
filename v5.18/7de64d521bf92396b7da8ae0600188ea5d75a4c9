@@ -1,0 +1,4 @@
+7de64d521bf9 ("fuse: break up fuse_open_common()")
+e26ee4efbc79 ("fuse: allocate ff->release_args only if release is needed")
+0c9d708953d0 ("fuse: factor out helper fuse_truncate_update_attr()")
+2fdbb8dd0155 ("fuse: fix deadlock between atomic O_TRUNC and page invalidation")

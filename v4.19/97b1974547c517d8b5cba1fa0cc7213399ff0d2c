@@ -1,0 +1,8 @@
+97b1974547c5 ("drivers: arch_topology: Refactor do-while loops")
+00e66e37af00 ("arch_topology: Warn that topology for nested clusters is not supported")
+dea8c0b40fb5 ("arch_topology: Add support for parsing sockets in /cpu-map")
+556c9678a7d4 ("arch_topology: Set cluster identifier in each core/thread from /cpu-map")
+26a2b73a7b15 ("arch_topology: Don't set cluster identifier as physical package identifier")
+f3c19481820c ("cpu-topology: Don't error on more than CONFIG_NR_CPUS CPUs in device tree")
+60c1b220d8bc ("cpu-topology: Move cpu topology code to common code.")
+bb1fbdd3c3fd ("sched/topology, drivers/base/arch_topology: Rebuild the sched_domain hierarchy when capacities change")

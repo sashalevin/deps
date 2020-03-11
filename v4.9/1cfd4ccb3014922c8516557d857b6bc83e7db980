@@ -1,0 +1,6 @@
+1cfd4ccb3014 ("x86/Xen: tidy xen-head.S")
+a5a18ae73bca ("xen/pvh: Indicate XENFEAT_linux_rsdp_unrestricted to Xen")
+daaa42f04178 ("x86/xen: Redefine XEN_ELFNOTE_INIT_P2M using PUD_SIZE * PTRS_PER_PUD")
+c504b2f10619 ("x86/xen: define startup_xen for XEN PV only")
+063334f30543 ("xen/x86: Remove PVH support")
+738662c35c49 ("xen/x86: Increase xen_e820_map to E820_X_MAX possible entries")

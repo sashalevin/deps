@@ -1,0 +1,8 @@
+7eb6ea414857 ("PCI: Fix pci_dev_str_match_path() alloc while atomic bug")
+45db33709ccc ("PCI: Allow specifying devices using a base bus and path of devfns")
+07d8d7e57c28 ("PCI: Make specifying PCI devices in kernel parameters reusable")
+e3adec72a3c5 ("PCI: Don't resize resources when realigning all devices in system")
+0dde1c08d1b9 ("PCI: Don't reassign resources that are already aligned")
+81a5e70e0de5 ("PCI: Factor pci_reassigndev_resource_alignment()")
+0a701aa63784 ("PCI: Add pcibios_default_alignment() for arch-specific alignment control")
+ea629d873f3e ("PCI: Ignore requested alignment for IOV BARs")

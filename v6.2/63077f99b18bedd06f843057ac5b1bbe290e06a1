@@ -1,0 +1,6 @@
+63077f99b18b ("soc: mediatek: mtk-svs: Drop supplementary svs per-bank pointer")
+904d2dc4e967 ("soc: mediatek: mtk-svs: Reduce memory footprint of struct svs_bank")
+fa095fe0ab35 ("soc: mediatek: svs: Add support for voltage bins")
+5061c47ebf6e ("soc: mediatek: mtk-svs: use common function to disable restore voltages")
+8bf305087629 ("soc: mediatek: mtk-svs: keep svs alive if CONFIG_DEBUG_FS not supported")
+a0674cd237fc ("soc: mediatek: mtk-svs: restore default voltages when svs_init02() fail")

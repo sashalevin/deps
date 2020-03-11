@@ -1,0 +1,5 @@
+4c2e7ce8b986 ("riscv: extable: use `ex` for `exception_table_entry`")
+ef127bca1129 ("riscv: extable: make fixup_exception() return bool")
+c07935cb3ccf ("riscv: bpf: move rv_bpf_fixup_exception signature to extable.h")
+bb1f85d6046f ("riscv: switch to relative exception tables")
+f8f2ad02ee43 ("riscv: consolidate __ex_table construction")

@@ -1,0 +1,8 @@
+10c47d560603 ("IB/rxe: Change rxe_rcv to return void")
+31f1bd14cbfe ("IB/rxe: remove unnecessary rxe in rxe_send")
+4d6f28591fe4 ("{net,IB}/{rxe,usnic}: Utilize generic mac to eui32 function")
+0bbb3b7496ea ("IB/rxe, IB/rdmavt: Use dma_virt_ops instead of duplicating it")
+99db9494035f ("IB/core: Remove ib_device.dma_device")
+97a9ea848016 ("IB/core: Initialize ib_device.dev.parent earlier")
+d43dbacfc063 ("IB/core: Change the type of an ib_dma_alloc_coherent() argument")
+839f5ac0d806 ("IB/rxe: Remove a pointless indirection layer")

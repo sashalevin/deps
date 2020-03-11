@@ -1,0 +1,5 @@
+fab7f259227b ("virtio-mmio: fix memory leak of vm_dev")
+c64eb62cfce2 ("virtio-mmio: convert to devm_platform_ioremap_resource")
+c2e90800aef2 ("virtio_mmio: fix devm cleanup")
+25f32223bce5 ("virtio_mmio: add cleanup for virtio_mmio_remove")
+7eb781b1bbb7 ("virtio_mmio: add cleanup for virtio_mmio_probe")

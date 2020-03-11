@@ -1,0 +1,4 @@
+6ac79ec5378b ("coredump: Stop setting signal->group_exit_task")
+2f824d4d197e ("signal: Remove SIGNAL_GROUP_COREDUMP")
+752dc9707567 ("signal: During coredumps set SIGNAL_GROUP_EXIT in zap_process")
+a0287db0f1d6 ("signal: Have prepare_signal detect coredumps using signal->core_state")

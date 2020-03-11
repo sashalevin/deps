@@ -1,0 +1,6 @@
+89340d0935c9 ("Revert "locking/pvqspinlock: Don't wait if vCPU is preempted"")
+75437bb304b2 ("locking/pvqspinlock: Don't wait if vCPU is preempted")
+cd0272fab785 ("locking/pvqspinlock: Queue node adaptive spinning")
+1c4941fd53af ("locking/pvqspinlock: Allow limited lock stealing")
+45e898b73562 ("locking/pvqspinlock: Collect slowpath lock statistics")
+b3e0b1b6d841 ("locking, sched: Introduce smp_cond_acquire() and use it")

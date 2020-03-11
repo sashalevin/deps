@@ -1,0 +1,6 @@
+ce833b2324ba ("KVM: VMX: Prepend "MAX_" to MSR array size defines")
+7d73710d9ca2 ("kvm: vmx: Stop wasting a page for guest_msrs")
+662f1d1d1931 ("KVM: nVMX: Add support for capturing highest observable L2 TSC")
+ef0fbcac3f2a ("kvm: vmx: Rename function find_msr() to vmx_find_msr_index()")
+7cfe0526fd37 ("kvm: vmx: Rename NR_AUTOLOAD_MSRS to NR_LOADSTORE_MSRS")
+365d3d55d601 ("kvm: nested: Introduce read_and_check_msr_entry()")

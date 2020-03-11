@@ -1,0 +1,8 @@
+32a0de886eb3 ("arch, mm: make kernel_page_present() always available")
+5d6ad668f316 ("arch, mm: restore dependency of __kernel_map_pages() on DEBUG_PAGEALLOC")
+2abf962a8d42 ("PM: hibernate: make direct map manipulations more explicit")
+77bc7fd607de ("mm: introduce debug_pagealloc_{map,unmap}_pages() helpers")
+4f5b0c178996 ("arm, arm64: move free_unused_memmap() to generic mm")
+5e545df3292f ("arm: remove CONFIG_ARCH_HAS_HOLES_MEMORYMODEL")
+59612b24f78a ("kbuild: Hoist '--orphan-handling' into Kconfig")
+746b25b1aa0f ("Merge tag 'kbuild-v5.10' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

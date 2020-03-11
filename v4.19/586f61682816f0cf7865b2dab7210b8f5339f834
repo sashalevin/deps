@@ -1,0 +1,7 @@
+586f61682816 ("dax: remove the pgmap sanity checks in generic_fsdax_supported")
+39b6389a7fdc ("dax: stop using bdevname")
+d4c5da5049ac ("dax: Fix stack overflow when mounting fsdax pmem device")
+eedfd73d401b ("drivers/dax: Expand lock scope to cover the use of addresses")
+231609785cbf ("dax: print error message by pr_info() in __generic_fsdax_supported()")
+7bf7eac8d648 ("dax: Arrange for dax_supported check to span multiple devices")
+ad428cdb525a ("dax: Check the end of the block-device capacity with dax_direct_access()")

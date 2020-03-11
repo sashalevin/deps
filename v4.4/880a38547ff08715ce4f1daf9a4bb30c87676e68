@@ -1,0 +1,5 @@
+880a38547ff0 ("userns: Make ucounts lock irq-safe")
+f6b2db1a3e8d ("userns: Make the count of user namespaces per user")
+b376c3e1b677 ("userns: Add a limit on the number of user namespaces")
+dbec28460a89 ("userns: Add per user namespace sysctls.")
+b032132c3c21 ("userns: Free user namespaces in process context")

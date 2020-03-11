@@ -1,0 +1,8 @@
+448373d9db1a ("usb: cdns3: fix NULL pointer dereference on no platform data")
+7cea9657756b ("usb: cdns3: add quirk for enable runtime pm by default")
+ed22764847e8 ("usb: cdns3: host: add .suspend_quirk for xhci-plat.c")
+b1234e3b3b26 ("usb: cdns3: add runtime PM support")
+85820de1b610 ("usb: cdns3: delete role_override")
+af58e1fca984 ("usb: cdns3: should not use the same dev_id for shared interrupt handler")
+5053691a7d62 ("usb: cdns3: include host-export,h for cdns3_host_init")
+7733f6c32e36 ("usb: cdns3: Add Cadence USB3 DRD Driver")

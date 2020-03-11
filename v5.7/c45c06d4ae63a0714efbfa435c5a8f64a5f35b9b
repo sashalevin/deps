@@ -1,0 +1,3 @@
+c45c06d4ae63 ("x86/resctrl: Factor rdtgroup lock for multi-file ops")
+758999246965 ("x86/resctrl: Add necessary kernfs_put() calls to prevent refcount leak")
+fd8d9db3559a ("x86/resctrl: Remove superfluous kernfs_get() calls to prevent refcount leak")

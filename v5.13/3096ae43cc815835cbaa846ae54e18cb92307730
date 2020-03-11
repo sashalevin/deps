@@ -1,0 +1,6 @@
+3096ae43cc81 ("drm/i915/dmabuf: Use scatterlist for_each_sg API")
+81aa3f8e26e0 ("drm/i915/dmabuf: dmabuf cleanup")
+28d52f99bbca ("drm/i915/dmabuf: fix sg_table handling in map_dma_buf")
+a035154da45d ("drm/i915/dmabuf: add paranoid flush-on-acquire")
+d7b2cb380b3a ("drm/i915/gem: Correct the locking and pin pattern for dma-buf (v8)")
+62445a97c5fa ("drm/i915: Fix i915_sg_page_sizes to record dma segments rather than physical pages")

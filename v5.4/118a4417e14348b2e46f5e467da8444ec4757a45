@@ -1,0 +1,5 @@
+118a4417e143 ("random: remove dead code left over from blocking pool")
+12faac30d157 ("random: convert to ENTROPY_BITS for better code readability")
+90ea1c6436d2 ("random: remove the blocking pool")
+30c08efec888 ("random: make /dev/random be almost like /dev/urandom")
+c6f1deb15878 ("random: Add a urandom_read_nowait() for random APIs that don't warn")

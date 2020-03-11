@@ -1,0 +1,7 @@
+9e116f5a6e95 ("ASoC: SOF: Remove redundant return statements")
+d9a724653475 ("ASoC: SOF: Add a helper for freeing PCM stream")
+47934e0fcbbe ("ASoC: SOF: call platform hw_free for paused streams during suspend")
+0dd71a3340b9 ("ASoC: SOF: pcm: invoke platform hw_free for STOP/SUSPEND triggers")
+96da174024b9 ("ASoC: SOF: handle paused streams during system suspend")
+b2ebcf42a48f ("ASoC: SOF: free widgets in sof_tear_down_pipelines() for static pipelines")
+d8a15e5fcae1 ("ASoC: SOF: pipelines: Harmonize all functions to use struct snd_sof_dev")

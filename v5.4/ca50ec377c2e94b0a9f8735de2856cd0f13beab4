@@ -1,0 +1,8 @@
+ca50ec377c2e ("vhost: Allow null msg.size on VHOST_IOTLB_INVALIDATE")
+95932ab2ea07 ("vhost: allow batching hint without size")
+e2ae38cf3d91 ("vhost: fix hung thread due to erroneous iotlb entries")
+0bbe30668d89 ("vhost: factor out IOTLB")
+792a4f2ed24f ("vhost: allow per device message handler")
+20c384f1ea1a ("vhost: refine vhost and vringh kconfig")
+8f6a7f96dc29 ("vhost, kcov: collect coverage from vhost_worker")
+21d549769e79 ("Isolate CAIF transport drivers into their own menu")

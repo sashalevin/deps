@@ -1,0 +1,6 @@
+4bce9f6ee8f8 ("get rid of separate multipage fault-in primitives")
+e23d4159b109 ("fix fault_in_multipages_...() on architectures with no-op access_ok()")
+d4690f1e1cda ("fix iov_iter_fault_in_readable()")
+b50a53715f09 ("drm/i915: Support for pread/pwrite from/to non shmem backed objects")
+4f1959ee33c0 ("drm/i915: Use insert_page for pwrite_fast")
+1d6da87a3241 ("Merge branch 'drm-next' of git://people.freedesktop.org/~airlied/linux")

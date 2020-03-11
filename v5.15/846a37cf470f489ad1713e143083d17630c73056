@@ -1,0 +1,7 @@
+846a37cf470f ("media: ov2740: Add support for external clock")
+1a140854bc8c ("media: ov2740: Add support for reset GPIO")
+55e941d06a76 ("media: i2c: ov2740: Drop system suspend and resume handlers")
+a55ae53c554e ("media: ov2740: Switch to use dev_err_probe()")
+1ba4b745a0e4 ("media: ov2740: Switch from __maybe_unused to pm_sleep_ptr() etc")
+54ade663d4bb ("media: ov2740: identify module after subdev initialisation")
+ada2c4f54d0a ("media: ov2740: support device probe in non-zero ACPI D state")

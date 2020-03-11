@@ -1,0 +1,4 @@
+ea5c7f1b9aa1 ("tick/broadcast: Program wakeup timer when entering idle if required")
+c94a8537df12 ("tick/broadcast: Prefer per-cpu oneshot wakeup timers to broadcast")
+e5007c288e79 ("tick/broadcast: Split __tick_broadcast_oneshot_control() into a helper")
+1b72d4323798 ("tick: Remove outgoing CPU from broadcast masks")

@@ -1,0 +1,6 @@
+94cb82f594ed ("batman-adv: Prevent duplicated softif_vlan entry")
+df28ca6bb328 ("batman-adv: Place kref_get for softif_vlan near use")
+9c3bf08189bd ("batman-adv: Rename batadv_softif_vlan *_free_ref function to *_put")
+6be4d30c1827 ("batman-adv: Convert batadv_softif_vlan to kref")
+e51f0397ded5 ("batman-adv: Fix names in kerneldoc of functions")
+f75a33aeed07 ("batman-adv: Delete an unnecessary check before the function call "batadv_softif_vlan_free_ref"")

@@ -1,0 +1,7 @@
+8fa507083388 ("mm/memory: Use exception ip to search exception tables")
+c2508ec5a58d ("mm: introduce new 'lock_mm_and_find_vma()' page fault helper")
+0bff0aaea03e ("x86/mm: try VMA lock-based page fault handling first")
+50ee32537206 ("mm: introduce lock_vma_under_rcu to be used from arch-specific code")
+5e31275cc997 ("mm: add per-VMA lock and helper functions to control it")
+438b6e12cd60 ("mm: move mmap_lock assert function definitions")
+0b6cc04f3db3 ("mm: introduce CONFIG_PER_VMA_LOCK")

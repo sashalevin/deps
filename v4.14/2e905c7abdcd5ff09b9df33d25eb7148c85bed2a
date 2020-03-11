@@ -1,0 +1,5 @@
+2e905c7abdcd ("x86/asm: Remove unused __constant_c_x_memset() macro and inlines")
+88ca66d8540c ("x86/asm: Remove dead __GNUC__ conditionals")
+4675ff05de2d ("kmemcheck: rip it out")
+75f296d93bce ("kmemcheck: stop using GFP_NOTRACK and SLAB_NOTRACK")
+f71b74bca637 ("irq/softirqs: Use lockdep to assert IRQs are disabled/enabled")

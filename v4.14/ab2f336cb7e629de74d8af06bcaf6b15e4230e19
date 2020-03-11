@@ -1,0 +1,5 @@
+ab2f336cb7e6 ("Bluetooth: hci_bcm: Make shutdown and device wake GPIO optional")
+3e81a4ca51a1 ("Bluetooth: hci_bcm: Mandate presence of shutdown and device wake GPIO")
+c0d3ce580b7c ("Bluetooth: hci_bcm: Store device pointer instead of platform_device pointer")
+4a56f891efce ("Bluetooth: hci_bcm: Move platform_get_irq call to bcm_probe")
+227630cccdbb ("Bluetooth: hci_bcm: Fix setting of irq trigger type")

@@ -1,0 +1,8 @@
+06b241f32c71 ("mm: __delete_from_page_cache show Bad page if mapped")
+e1534ae95004 ("mm: differentiate page_mapped() from page_mapcount() for compound pages")
+53f9263baba6 ("mm: rework mapcount accounting to enable 4k mapping of THPs")
+3ac808fdd2b8 ("mm, thp: remove compound_lock()")
+d281ee614518 ("rmap: add argument to charge compound page")
+1c290f642101 ("mm: sanitize page->mapping for tail pages")
+d8c1bdeb5d6b ("page-flags: trivial cleanup for PageTrans* helpers")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

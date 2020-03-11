@@ -1,0 +1,7 @@
+9d89ddfc6246 ("mei: hbm: introduce dma bit in the message header")
+a1c4d08b6b95 ("mei: add mei_msg_hdr_init wrapper.")
+8c8d964ce90f ("mei: move hbuf_depth from the mei device to the hw modules")
+9fc5f0f8ad28 ("mei: cleanup slots to data conversions")
+5151e2b578e9 ("mei: fix ssize_t to int assignment in read and write ops.")
+44c98df01851 ("mei: use correct type for counter variable in for loops")
+de8774371cdc ("mei: check for error returned from mei_hbuf_empty_slots()")

@@ -1,0 +1,6 @@
+d1d71b30e1f8 ("sched.h: Move (spin|rwlock)_needbreak() to spinlock.h")
+cfe43f478b79 ("preempt/dynamic: Introduce preemption model accessors")
+4c7485584d48 ("sched/preempt: Move PREEMPT_DYNAMIC logic later")
+9ed20bafc858 ("preempt/dynamic: Fix setup_preempt_mode() return value")
+a8b76910e465 ("preempt: Restore preemption model selection configs")
+c597bfddc9e9 ("sched: Provide Kconfig support for default dynamic preempt mode")

@@ -1,0 +1,4 @@
+d6c36cbc5e53 ("r8169: Use a raw_spinlock_t for the register locks.")
+59ee97c0c1a8 ("r8169: enable cfg9346 config register access in atomic context")
+6bc6c4e6893e ("r8169: use spinlock to protect access to registers Config2 and Config5")
+91c8643578a2 ("r8169: use spinlock to protect mac ocp register access")

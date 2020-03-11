@@ -1,0 +1,4 @@
+f14b02088fb8 ("hwrng: atmel - rename enable/disable functions to init/cleanup")
+a223ea9f89ab ("hwrng: atmel - disable trng on failure path")
+b516b88a7946 ("hwrng: atmel - use clk_disable_unprepare instead of clk_disable")
+a1fa98d8116f ("hwrng: atmel - disable TRNG during suspend")

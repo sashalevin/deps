@@ -1,0 +1,4 @@
+c3d59cfde9cc ("perf synthetic-events: Fix uninitialized 'kernel_thread' variable")
+c1b907953b2c ("perf tools: Skip PERF_RECORD_MMAP event synthesis for kernel threads")
+30626e084475 ("perf tools: Use /proc/<PID>/task/<TID>/status for PERF_RECORD_ event synthesis")
+04ed4ccb9c07 ("perf synthetic-events: save 4kb from 2 stack frames")

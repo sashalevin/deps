@@ -1,0 +1,8 @@
+d7670879c5c4 ("mm, slab: fix sign conversion problem in memcg_uncharge_slab()")
+9c315e4d7d8c ("mm: memcg/slab: cache page number in memcg_(un)charge_slab()")
+92d0510c3585 ("mm: kmem: switch to nr_pages in (__)memcg_kmem_charge_memcg()")
+f4b00eab5004 ("mm: kmem: rename memcg_kmem_(un)charge() into memcg_kmem_(un)charge_page()")
+50591183fa86 ("mm: kmem: cleanup memcg_kmem_uncharge_memcg() arguments")
+10eaec2f63b6 ("mm: kmem: cleanup (__)memcg_kmem_charge_memcg() arguments")
+867e5e1de14b ("mm: clean up and clarify lruvec lookup procedure")
+242c37b459ce ("include/linux/memcontrol.h: fix comments based on per-node memcg")

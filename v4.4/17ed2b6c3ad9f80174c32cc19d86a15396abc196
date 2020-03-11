@@ -1,0 +1,5 @@
+17ed2b6c3ad9 ("rcutorture: Update test scenarios based on new Kconfig dependencies")
+7d025948e498 ("torture: Enable DEBUG_OBJECTS_RCU_HEAD for Tiny RCU")
+ad4b594b5d71 ("torture: Run at least one test with CONFIG_DEBUG_OBJECTS_RCU_HEAD")
+cdfc7f1ab5ce ("torture: Add tests without slow grace period setup/cleanup")
+a54062c0d959 ("rcutorture: Add boot-time adjustment of leaf fanout")

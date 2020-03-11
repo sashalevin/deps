@@ -1,0 +1,4 @@
+a4b7a12c5594 ("x86/purgatory: Disable CFI")
+e16c2983fba0 ("x86/purgatory: Change compiler flags from -mcmodel=kernel to -mcmodel=large to fix kexec relocation errors")
+b059f801a937 ("x86/purgatory: Use CFLAGS_REMOVE rather than reset KBUILD_CFLAGS")
+e847f6aaf68f ("x86/purgatory: Avoid creating stray .<pid>.d files, remove -MD from KBUILD_CFLAGS")

@@ -1,0 +1,6 @@
+32437c2aea42 ("KVM: VMX: Process CR0.PG side effects after setting CR0 assets")
+470750b34255 ("KVM: nVMX: Do not clear CR3 load/store exiting bits if L1 wants 'em")
+c834fd7fc130 ("KVM: VMX: Fold ept_update_paging_mode_cr0() back into vmx_set_cr0()")
+ee5a5584cba3 ("KVM: VMX: Invert handling of CR0.WP for EPT without unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")

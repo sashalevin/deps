@@ -1,0 +1,8 @@
+d58a2df3d887 ("serial: 8250: Support rs485 bus termination GPIO")
+c150c0f362c1 ("serial: Allow uart_get_rs485_mode() to return errno")
+283e096ffb70 ("serial: 8250: Deduplicate ->rs485_config() callback")
+fe7f0fa43cef ("serial: 8250: Support rs485 devicetree properties")
+9be1064fe524 ("serial: ar933x_uart: add RS485 support")
+c6825c6395b7 ("serial: 8250_tegra: Create Tegra specific 8250 driver")
+a4424b90d366 ("tty/serial: Migrate 8250_omap to use has_sysrq")
+0c11b88883db ("tty: 8250_of: Use software emulated RS485 direction control")

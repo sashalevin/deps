@@ -1,0 +1,7 @@
+b6adc6d6d327 ("powerpc/build: move .data.rel.ro, .sdata2 to read-only")
+f21ba4499a15 ("powerpc/build: move got, toc, plt, branch_lt sections to read-only")
+1faa1235c1a0 ("powerpc/32/build: move got1/got2 sections out of text")
+0c32903197ce ("powerpc/64: Remove unused prom_init_toc symbols")
+a3ad84da0760 ("powerpc/toc: Future proof kernel toc")
+57dd3a7bdf31 ("powerpc: Don't bother about .data..Lubsan sections")
+3091f5fc5f1d ("powerpc: Mark .opd section read-only")

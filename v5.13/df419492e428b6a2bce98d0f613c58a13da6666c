@@ -1,0 +1,4 @@
+df419492e428 ("parisc: Handle kprobes breakpoints only in kernel context")
+9b046d0245ce ("parisc: Avoid using hardware single-step in kprobes")
+96fed8ac2bb6 ("kprobes: treewide: Remove trampoline_address from kretprobe_trampoline_handler()")
+a7fe2378454c ("ia64: kprobes: Fix to pass correct trampoline address to the handler")

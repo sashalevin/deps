@@ -1,0 +1,6 @@
+f90cc919f9e5 ("sched/balance: Skip unnecessary updates to idle load balancer's flags")
+19a1f5ec6999 ("sched: Fix smp_call_function_single_async() usage for ILB")
+90b5363acd47 ("sched: Clean up scheduler_ipi()")
+fd3eafda8f14 ("sched/core: Remove rq.hrtick_csd_pending")
+d5096aa65acd ("sched: Mark hrtimers to expire in hard interrupt context")
+80eb86576870 ("sched/fair: Clean up comment in nohz_idle_balance()")

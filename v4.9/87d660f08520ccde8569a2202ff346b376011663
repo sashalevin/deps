@@ -1,0 +1,7 @@
+87d660f08520 ("fixdep: remove unneeded code and comments about *.ver files")
+638e69cf2230 ("fixdep: do not ignore kconfig.h")
+14a596a7e6fd ("fixdep: remove stale references to uml-config.h")
+87b95a81357d ("fixdep: refactor parse_dep_file()")
+ccfe78873c22 ("fixdep: remove unneeded memcpy() in parse_dep_file()")
+4003fd80cba9 ("fixdep: factor out common code for reading files")
+01b5cbe7012f ("fixdep: use malloc() and read() to load dep_file to buffer")

@@ -1,0 +1,7 @@
+ede0c69ceb3f ("drm/vram-helper: Use drm_gem_ttm_dumb_map_offset()")
+46642a7d4d80 ("drm/vram-helper: don't use ttm bo->offset v4")
+be6ee102341b ("drm: remove _unlocked suffix in drm_gem_object_put_unlocked")
+eecd7fd8bf58 ("drm/gem: add _locked suffix to drm_gem_object_put")
+b5d250744ccc ("drm/gem: fold drm_gem_object_put_unlocked and __drm_gem_object_put()")
+1a9458aeb8eb ("drm: remove drm_driver::gem_free_object")
+5b4231fb62f0 ("drm/doc: drop struct_mutex references")

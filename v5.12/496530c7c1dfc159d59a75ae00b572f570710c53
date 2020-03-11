@@ -1,0 +1,6 @@
+496530c7c1df ("erofs: avoid debugging output for (de)compressed data")
+a0961f351d82 ("erofs: don't trigger WARN() when decompression fails")
+5b6e7e120e71 ("erofs: remove the fast path of per-CPU buffer decompression")
+598162d05080 ("erofs: support decompress big pcluster for lz4 backend")
+524887347fcb ("erofs: introduce multipage per-CPU buffers")
+5d50538fc567 ("erofs: support adjust lz4 history window size")

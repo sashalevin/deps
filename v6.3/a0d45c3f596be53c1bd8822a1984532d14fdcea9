@@ -1,0 +1,4 @@
+a0d45c3f596b ("io_uring/fdinfo: remove need for sqpoll lock for thread/pid retrieval")
+7644b1a1c9a7 ("io_uring/fdinfo: lock SQ thread while retrieving thread cpu/pid")
+3aaf22b62a92 ("io_uring/fdinfo: get rid of ref tryget")
+533ab73f5b5c ("io_uring: unlock sqd->lock before sq thread release CPU")

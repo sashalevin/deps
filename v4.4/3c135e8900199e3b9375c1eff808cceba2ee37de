@@ -1,0 +1,4 @@
+3c135e890019 ("usb: dwc2: pci: Fix an error code in probe")
+ecd29dabb2ba ("usb: dwc2: pci: Handle error cleanup in probe")
+fb50aacdcf12 ("usb: dwc2: pci: Move devm_kzalloc() before platform_device_add()")
+b10129de2ef4 ("usb: dwc2: pci: Replace kzalloc() with devm_kzalloc()")

@@ -1,0 +1,8 @@
+b5cfe6f7a6e1 ("drm/i915: Remove short-term pins from execbuf, v6.")
+6945c53bc712 ("drm/i915: Add locking to i915_gem_evict_vm(), v3.")
+e849f7e70860 ("drm/i915: Call i915_gem_evict_vm in vm_fault_gtt to prevent new ENOSPC errors, v2.")
+ce13c78fa93e ("drm/i915: Disable gpu relocations")
+93b713304188 ("drm/i915: Revert "drm/i915/gem: Asynchronous cmdparser"")
+b4b9731b02c3 ("drm/i915: Simplify userptr locking")
+cf3e3e86d779 ("drm/i915: Use ttm mmap handling for ttm bo's.")
+213d50927763 ("drm/i915/ttm: Introduce a TTM i915 gem object backend")

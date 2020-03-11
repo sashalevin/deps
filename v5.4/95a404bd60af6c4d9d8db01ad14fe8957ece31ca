@@ -1,0 +1,4 @@
+95a404bd60af ("ring-buffer: Do not attempt to read past "commit"")
+785888c544e0 ("ring-buffer: Have rb_iter_head_event() handle concurrent writer")
+28e3fc56a471 ("ring-buffer: Add page_stamp to iterator for synchronization")
+ead6ecfddea5 ("ring-buffer: Have ring_buffer_empty() not depend on tracing stopped")

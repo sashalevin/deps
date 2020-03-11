@@ -1,0 +1,7 @@
+f5e74e836097 ("powerpc/watchdog: introduce a NMI watchdog's factor")
+76521c4b0291 ("powerpc/watchdog: Avoid holding wd_smp_lock over printk and smp_send_nmi_ipi")
+858c93c31504 ("powerpc/watchdog: tighten non-atomic read-modify-write access")
+5dad4ba68a24 ("powerpc/watchdog: Fix missed watchdog reset due to memory ordering race")
+93d102f094be ("printk: remove safe buffers")
+6262e1b906a1 ("printk: Move EXPORT_SYMBOL() closer to vprintk definition")
+7f3d08b255d1 ("Merge tag 'printk-for-5.13' of git://git.kernel.org/pub/scm/linux/kernel/git/printk/linux")

@@ -1,0 +1,5 @@
+4aa2691dcbd3 ("KVM: x86: Factor out x86 instruction emulation with decoding")
+897861479c06 ("KVM: x86: Add helper functions for illegal GPA checking and page fault injection")
+6441fa6178f5 ("KVM: x86: avoid incorrect writes to host MSR_IA32_SPEC_CTRL")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")
+46f4f0aabc61 ("Merge branch 'kvm-tsx-ctrl' into HEAD")

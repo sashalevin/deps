@@ -1,0 +1,6 @@
+998f26f47e55 ("ALSA: control: Fix racy management of user ctl memory size account")
+66c6d1ef86ff ("ALSA: control: Add memory consumption limit to user controls")
+3103c08f968d ("ALSA: control: Consolidate helpers for adding and replacing ctl elements")
+e1a7bfe38079 ("ALSA: control: Fix race between adding and removing a user element")
+59aeaf3fef9d ("snd_ctl_elem_init_enum_names(): switch to vmemdup_user()")
+88a890375fa2 ("replace_user_tlv(): switch to vmemdup_user()")

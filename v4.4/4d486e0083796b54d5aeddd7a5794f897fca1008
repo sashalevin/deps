@@ -1,0 +1,6 @@
+4d486e008379 ("soc/fsl/qe: fix Oops on CPM1 (and likely CPM2)")
+713df30bd9a0 ("qe: Make cpm_muram_alloc_common static")
+1291e49e8937 ("QE/CPM: move muram management functions to qe_common")
+0e6e01ff694e ("CPM/QE: use genalloc to manage CPM/QE muram")
+b26981c8f743 ("genalloc:support allocating specific region")
+de2dd0eb30af ("genalloc:support memory-allocation with bytes-alignment to genalloc")

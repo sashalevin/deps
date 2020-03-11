@@ -1,0 +1,3 @@
+9bb9ef2b3e5d ("spi: bcm63xx-hsspi: fix missing clk_disable_unprepare() on error in bcm63xx_hsspi_resume")
+0fd85869c2a9 ("spi/bcm63xx-hsspi: keep pll clk enabled")
+0d7412ed1f5d ("spi/bcm63xx-hspi: Enable the clock before calling clk_get_rate().")

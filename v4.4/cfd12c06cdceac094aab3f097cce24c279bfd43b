@@ -1,0 +1,8 @@
+cfd12c06cdce ("net: dsa: check tx timestamp request in core driver")
+f0d4ba9eff75 ("net: dsa: hellcreek: Add support for hardware timestamping")
+ddd56dfe52c9 ("net: dsa: hellcreek: Add PTP clock support")
+e4b27ebc780f ("net: dsa: Add DSA driver for Hirschmann Hellcreek switches")
+e2f9a8fe73d3 ("net: mscc: ocelot: always pass skb clone to ocelot_port_add_txtstamp_skb")
+6565243c0677 ("net: mscc: ocelot: add locking for the port TX timestamp ID")
+9dda66acddcb ("net: mscc: ocelot: fix race condition with TX timestamping")
+bd0b33b24897 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

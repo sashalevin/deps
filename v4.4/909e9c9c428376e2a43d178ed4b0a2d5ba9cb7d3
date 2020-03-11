@@ -1,0 +1,6 @@
+909e9c9c4283 ("drm/nouveau/debugfs: Fix check of pm_runtime_get_sync failure")
+eaeb9010bb4b ("drm/nouveau/debugfs: Wake up GPU before doing any reclocking")
+6e9fc177399f ("drm/nouveau/debugfs: add copy of sysfs pstate interface ported to debugfs")
+b126a200e9db ("drm/nouveau/debugfs: we need a ctrl object for debugfs")
+56c101af401f ("drm/nouveau/debugfs: rename functions to indicate they are used inside drm")
+1b7ab1a1c380 ("drm/nouveau/debugfs: add infrastructure to add files with other fops than only read")

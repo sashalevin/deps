@@ -1,1 +1,3 @@
 9a75bd18a85b ("ipmi: avoid atomic_inc in exit function")
+913a89f009d9 ("ipmi: Don't initialize anything in the core until something uses it")
+445e2cbda928 ("ipmi: msghandler: Add and use pr_fmt and dev_fmt, remove PFX")

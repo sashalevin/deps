@@ -1,1 +1,5 @@
 4ab0f5ce5f45 ("staging: vchiq_arm: fix open/release cdev functions")
+187ac53e590c ("staging: vchiq_arm: rework probe and init functions")
+f27e47bc6b8b ("staging: vchiq: use completions instead of semaphores")
+46e4b9ec4fa4 ("staging: vchiq_arm: use list_for_each_entry when accessing bulk_waiter_list")
+ddd7536ad4d6 ("staging: vchiq_arm: rework close/remove_service IOCTLS")

@@ -1,0 +1,8 @@
+55fbb9a5d64e ("ublk: fix UBLK_CMD_DEL_DEV_ASYNC handling")
+13fe8e6825e4 ("ublk: add UBLK_CMD_DEL_DEV_ASYNC")
+3e9dce80dbf9 ("ublk: return -EINTR if breaking from waiting for existed users in DEL_DEV")
+b5bbc52fd012 ("ublk: add control command of UBLK_U_CMD_GET_FEATURES")
+2d786e66c966 ("block: ublk: switch to ioctl command encoding")
+0abe39dec065 ("block: ublk: improve handling device deletion")
+4093cb5a0634 ("ublk_drv: add mechanism for supporting unprivileged ublk device")
+bfbcef036396 ("ublk_drv: move ublk_get_device_from_id into ublk_ctrl_uring_cmd")

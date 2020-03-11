@@ -1,0 +1,7 @@
+c87cbc1f007c ("mm, hotplug: fix page online with DEBUG_PAGEALLOC compiled but not enabled")
+d63326928611 ("mm/hibernation: Make hibernation handle unmapped pages")
+d253ca0c3865 ("x86/mm/cpa: Add set_direct_map_*() functions")
+cd02cf1aceea ("mm/hotplug: fix an imbalance with DEBUG_PAGEALLOC")
+a9cd410a3d29 ("mm/page_alloc.c: memory hotplug: free pages as higher order")
+4117992df66a ("page_poison: play nicely with KASAN")
+f346b0becb1b ("Merge branch 'akpm' (patches from Andrew)")

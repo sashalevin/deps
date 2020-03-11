@@ -1,0 +1,7 @@
+61a7904b6ace ("gpio: aspeed: Convert aspeed_gpio.lock to raw_spinlock")
+3d64a5a742ac ("gpio: aspeed: Setup irqchip dynamically")
+5fbe5b5883f8 ("gpio: Initialize the irqchip valid_mask with a callback")
+74639d66e1ec ("gpio: tqmx86: Pass irqchip when adding gpiochip")
+8512ee319262 ("gpio: aspeed: Pass irqchip when adding gpiochip")
+568aeeeb69e6 ("platform/x86: intel_int0002_vgpio: Get rid of custom ICPU() macro")
+dbbdf54c7206 ("Merge tag 'platform-drivers-x86-v5.1-1' of git://git.infradead.org/linux-platform-drivers-x86")

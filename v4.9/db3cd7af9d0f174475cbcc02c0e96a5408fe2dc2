@@ -1,0 +1,7 @@
+db3cd7af9d0f ("hv_netvsc: Fix the channel limit in netvsc_set_rxfh()")
+b92b7d331203 ("netvsc: don't access netdev->num_rx_queues directly")
+ff4a44199012 ("netvsc: allow get/set of RSS indirection table")
+2b01888d1b45 ("netvsc: allow more flexible setting of number of channels")
+962f3fee83a4 ("netvsc: add ethtool ops to get/set RSS key")
+b448f4e89272 ("netvsc: report number of rx queues in ethtool")
+d0c2c9973ecd ("net: use core MTU range checking in virt drivers")

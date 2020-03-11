@@ -1,0 +1,4 @@
+d9c2ba65e651 ("can: isotp: isotp_sendmsg(): fix TX state detection and wait behavior")
+051737439eae ("can: isotp: fix race between isotp_sendsmg() and isotp_release()")
+4f027cba8216 ("can: isotp: split tx timer into transmission and timeout")
+823b2e42720f ("can: isotp: handle wait_event_interruptible() return values")

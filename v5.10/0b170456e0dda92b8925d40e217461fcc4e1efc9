@@ -1,0 +1,8 @@
+0b170456e0dd ("libbpf: Deprecate AF_XDP support")
+7e8bbe24cb8b ("libbpf: xsk: Move barriers from libbpf_util.h to xsk.h")
+2882c48bf8f2 ("libbpf: xsk: Remove linux/compiler.h header")
+a6aac408c561 ("libbpf: Fix arm64 build")
+291471dd1559 ("libbpf, xsk: Add libbpf_smp_store_release libbpf_smp_load_acquire")
+e459f49b4394 ("libbpf: Separate XDP program load with xsk socket creation")
+ba451366bf44 ("libbpf: Implement basic split BTF support")
+c81ed6d81e05 ("libbpf: Factor out common operations in BTF writing APIs")

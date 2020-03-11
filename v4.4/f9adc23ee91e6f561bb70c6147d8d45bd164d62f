@@ -1,0 +1,6 @@
+f9adc23ee91e ("futex: Cleanup generic SMP variant of arch_futex_atomic_op_inuser()")
+30d6e0a4190d ("futex: Remove duplicated code and fix undefined behaviour")
+5f16a046f8e1 ("arm64: futex: Fix undefined behaviour with FUTEX_OP_OPARG_SHIFT usage")
+4ac46db1aaf1 ("openrisc: add futex_atomic_* implementations")
+00b73d8d1b71 ("sh: add working futex atomic ops on userspace addresses for smp")
+99aed91a8dc6 ("parisc: Update futex.h to match generic implementation")

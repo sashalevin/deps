@@ -1,0 +1,8 @@
+ffed586b8c4f ("scsi: sd: Move sd_read_cpr() out of the q->limits_lock region")
+804e498e0496 ("sd: convert to the atomic queue limits API")
+9c1d339a1bf4 ("sd: cleanup zoned queue limits initialization")
+f1e8185fc12c ("sd: factor out a sd_discard_mode helper")
+9972b8ce0d4b ("sd: add a sd_disable_write_same helper")
+b0dadb86a90b ("sd: add a sd_disable_discard helper")
+a23634644afc ("block: take io_opt and io_min into account for max_sectors")
+a00d4bfce7c6 ("rbd: increase io_opt again")

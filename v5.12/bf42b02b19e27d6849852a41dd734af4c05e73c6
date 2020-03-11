@@ -1,0 +1,6 @@
+bf42b02b19e2 ("KVM: SEV: Do COPY_ENC_CONTEXT_FROM with both VMs locked")
+2b347a387811 ("KVM: SEV: initialize regions_list of a mirror VM")
+79b111427637 ("KVM: SEV: Disallow COPY_ENC_CONTEXT_FROM if target has created vCPUs")
+f43c887cb7cb ("KVM: SEV: Update svm_vm_copy_asid_from for SEV-ES")
+8899a5fc7da5 ("KVM: x86: Fix potential fput on a null source_kvm_file")
+54526d1fd593 ("KVM: x86: Support KVM VMs sharing SEV context")

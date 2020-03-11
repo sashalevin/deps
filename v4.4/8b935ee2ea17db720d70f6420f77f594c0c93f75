@@ -1,0 +1,7 @@
+8b935ee2ea17 ("cfg80211: add ability to check DA/SA in A-MSDU decapsulation")
+7f6990c830f3 ("cfg80211: let ieee80211_amsdu_to_8023s() take only header-less SKB")
+2b67f944f88c ("cfg80211: reuse existing page fragments in A-MSDU rx")
+2bf0ccc7095e ("cfg80211: fix faulty variable initialization in ieee80211_amsdu_to_8023s")
+230fd28a9154 ("cfg80211: add support for non-linear skbs in ieee80211_amsdu_to_8023s")
+2d1c304cb2d5 ("cfg80211: add function for 802.3 conversion with separate output buffer")
+88665f5a797a ("mac80211: move A-MSDU skb_linearize call to ieee80211_amsdu_to_8023s")

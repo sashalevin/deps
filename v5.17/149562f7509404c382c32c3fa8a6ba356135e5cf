@@ -1,0 +1,7 @@
+149562f75094 ("mm/hugetlb: add hugetlb_folio_subpool() helpers")
+b890ec2a2c2d ("hugetlb: Convert to migrate_folio")
+9c42fe4e30a9 ("mm: migrate: simplify the refcount validation when migrating hugetlb mapping")
+46de8b979492 ("fs: Convert __set_page_dirty_no_writeback to noop_dirty_folio")
+7e63df00cf5e ("mm: Convert swap_set_page_dirty() to swap_dirty_folio()")
+6f31a5a261db ("fs: Add aops->dirty_folio")
+5660a8630dab ("fs: Remove noop_invalidatepage()")

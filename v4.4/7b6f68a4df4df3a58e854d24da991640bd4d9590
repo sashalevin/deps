@@ -1,0 +1,8 @@
+7b6f68a4df4d ("ASoC: topology: free stream_name of dai_drv")
+52abe6cc1866 ("ASoC: topology: fix oops/use-after-free case with dai driver")
+2eda3cb108b6 ("ASoC: soc-core: avoid nested code on soc_remove_dai()")
+8f27c4abc2cd ("ASoC: topology: Only use valid names of PCM for the kernel DAI & DAI link")
+67d1c21e3730 ("ASoC: topology: Set CPU DAI name and enable DPCM by default for FE link")
+b84fff5afb16 ("ASoC: topology: Set the link ID when creating a FE DAI link")
+acfc7d46cddc ("ASoC: topology: Add FE DAI links dynamically")
+64527e8a3529 ("ASoC: topology: Add FE DAIs dynamically")

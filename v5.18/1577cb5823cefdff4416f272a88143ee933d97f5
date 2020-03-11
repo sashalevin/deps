@@ -1,0 +1,7 @@
+1577cb5823ce ("KVM: arm64: Handle stage-2 faults in parallel")
+5c359cca1faf ("KVM: arm64: Tear down unlinked stage-2 subtree after break-before-make")
+8e94e1252cc0 ("KVM: arm64: Add a helper to tear down unlinked stage-2 subtrees")
+2a611c7f87f2 ("KVM: arm64: Pass mm_ops through the visitor context")
+83844a2317ec ("KVM: arm64: Stash observed pte value in visitor context")
+dfc7a7769ab7 ("KVM: arm64: Combine visitor arguments into a context structure")
+d38ba8ccd9c2 ("KVM: arm64/mmu: count KVM s2 mmu usage in secondary pagetable stats")

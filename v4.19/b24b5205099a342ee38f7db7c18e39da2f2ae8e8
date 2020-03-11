@@ -1,0 +1,7 @@
+b24b5205099a ("arm64/sve: Make fpsimd_bind_task_to_cpu() static")
+6dcdefcde413 ("arm64/fpsimd: Don't disable softirq when touching FPSIMD/SVE state")
+54b8c7cbc57c ("arm64/fpsimd: Introduce fpsimd_save_and_flush_cpu_state() and use it")
+6fa9b41f6f15 ("arm64/fpsimd: Remove the prototype for sve_flush_cpu_state()")
+73433762fcae ("KVM: arm64/sve: System register context switch and access support")
+0495067420f3 ("arm64/sve: Enable SVE state tracking for non-task contexts")
+efbc20249fee ("arm64: fpsimd: Always set TIF_FOREIGN_FPSTATE on task state flush")

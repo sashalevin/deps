@@ -1,0 +1,8 @@
+3ef68d4f0c9e ("scsi: qla2xxx: Fix kernel crash when accessing port_speed sysfs file")
+fb9024b06469 ("scsi: qla2xxx: Do not log message when reading port speed via sysfs")
+4910b524ac9e ("scsi: qla2xxx: Add support for setting port speed")
+50b812755e97 ("scsi: qla2xxx: Fix DMA error when the DIF sg buffer crosses 4GB boundary")
+7855d2ba1172 ("scsi: qla2xxx: Add protection mask module parameters")
+0645cb8350cd ("scsi: qla2xxx: Add mode control for each physical port")
+8b4673ba3a1b ("scsi: qla2xxx: Add support for ZIO6 interrupt threshold")
+93eca6135183 ("scsi: qla2xxx: Defer chip reset until target mode is enabled")

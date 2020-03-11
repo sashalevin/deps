@@ -1,0 +1,8 @@
+0e279dcea0ec ("ALSA: pcm: Fix refcount_inc() on zero usage")
+f57f3df03a8e ("ALSA: pcm: More fine-grained PCM link locking")
+7df5a5f66b8f ("ALSA: pcm: Avoid confusing loop in snd_pcm_unlink()")
+a41c4cb913b5 ("ALSA: pcm: Make PCM linked list consistent while re-grouping")
+73365cb10b28 ("ALSA: pcm: Unify snd_pcm_group initialization")
+b888a5f713e4 ("ALSA: pcm: Fix starvation on down_write_nonblock()")
+9cd641ed31f5 ("ALSA: pcm: trace XRUN event at injection, too")
+10aa7cad37d3 ("ALSA: pcm: Hide local_irq_disable/enable() and local_irqsave/restore()")

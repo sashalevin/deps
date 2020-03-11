@@ -1,0 +1,4 @@
+09137e945437 ("drm/i915/gem: Unpin idle contexts from kswapd reclaim")
+b97f77baa845 ("drm/i915/gt: Check carefully for an idle engine in wait-for-idle")
+f153f6395a63 ("drm/i915/gt: Move the late flush_submission in retire to the end")
+e9037e7f9a16 ("drm/i915: Extend intel_wakeref to support delayed puts")

@@ -1,0 +1,6 @@
+6fe7d712d798 ("mm/shmem: remove unneeded assignments in shmem_get_folio_gfp()")
+b1d0ec3a9a25 ("mm/shmem: convert shmem_getpage_gfp to use a folio")
+72827e5c2bcb ("mm/shmem: convert shmem_alloc_and_acct_page to use a folio")
+b7dd44a12cf2 ("mm/shmem: convert shmem_add_to_page_cache to take a folio")
+dfe98499ef28 ("shmem: convert shmem_alloc_hugepage() to use vma_alloc_folio()")
+f56caedaf94f ("Merge branch 'akpm' (patches from Andrew)")

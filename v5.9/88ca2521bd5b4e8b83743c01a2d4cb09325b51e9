@@ -1,0 +1,5 @@
+88ca2521bd5b ("xen/events: Fix race in set_evtchn_to_irq")
+e99502f76271 ("xen/events: defer eoi in case of excessive number of events")
+7beb290caa2a ("xen/events: use a common cpu hotplug hook for event channels")
+54c9de89895e ("xen/events: add a new "late EOI" evtchn framework")
+073d0552ead5 ("xen/events: avoid removing an event channel while handling it")

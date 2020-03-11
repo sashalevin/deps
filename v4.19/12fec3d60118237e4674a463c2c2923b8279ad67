@@ -1,0 +1,5 @@
+12fec3d60118 ("kbuild: replace $(dot-target).tmp in filechk with $(tmp-target)")
+88fe89a47153 ("kbuild: remove *.tmp file when filechk fails")
+ad774086356d ("kbuild: change filechk to surround the given command with { }")
+3470d9eb6387 ("firmware: refactor firmware/Makefile")
+f3fd4a3f3a38 ("kbuild: remove redundant 'set -e' from filechk_offsets")

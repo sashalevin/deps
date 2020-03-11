@@ -1,0 +1,6 @@
+8a4b5784fac2 ("net: xfrm: don't double-hold dst when sk_policy in use.")
+a4c2fd7f7891 ("net: remove DST_NOCACHE flag")
+52df157f17e5 ("xfrm: take refcnt of dst when creating struct xfrm_dst bundle")
+0830106c5390 ("ipv4: take dst->__refcnt when caching dst in fib")
+efd857008142 ("route: Set lwtstate for local traffic and cached input dsts")
+11b3d9c5869b ("route: Set orig_output when redirecting to lwt on locally generated traffic")

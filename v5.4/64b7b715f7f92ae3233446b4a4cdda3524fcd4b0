@@ -1,0 +1,6 @@
+64b7b715f7f9 ("futex: Restructure futex_requeue()")
+59c7ecf1544e ("futex: Correct the number of requeued waiters for PI")
+4b39f99c222a ("futex: Remove {get,drop}_futex_key_refs()")
+222993395ed3 ("futex: Remove pointless mmgrap() + mmdrop()")
+8019ad13ef7f ("futex: Fix inode life-time issue")
+ba31c1a48538 ("futex: Move futex exit handling into futex code")

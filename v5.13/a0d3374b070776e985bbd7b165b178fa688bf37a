@@ -1,0 +1,5 @@
+a0d3374b0707 ("mm/swap: convert __read_swap_cache_async() to use a folio")
+0995d7e56814 ("mm/workingset: Convert workingset_refault() to take a folio")
+c5ce619a77ce ("mm/workingset: Convert workingset_activation to take a folio")
+b1baabd995ab ("mm/memcg: Add folio_lruvec()")
+a984226f457f ("mm: memcontrol: remove the pgdata parameter of mem_cgroup_page_lruvec")

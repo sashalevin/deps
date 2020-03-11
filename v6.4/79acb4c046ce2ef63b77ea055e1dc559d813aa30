@@ -1,0 +1,7 @@
+79acb4c046ce ("ASoC: cs35l41: drop SNDRV_PCM_RATE_KNOT")
+77bf613f0bf0 ("ASoC: cs35l41: Fix broken shared boost activation")
+4bb5870ab60a ("ASoC: cs35l41: Handle mdsync_up reg write errors")
+a9a3f54a23d8 ("ASoC: cs35l41: Handle mdsync_down reg write errors")
+a5adbfb60b02 ("ALSA: hda: cs35l41: Move Play and Pause into separate functions")
+f8264c759208 ("ALSA: cs35l41: Poll for Power Up/Down rather than waiting a fixed delay")
+fa3efcc36aac ("ALSA: cs35l41: Use mbox command to enable speaker output for external boost")

@@ -1,0 +1,7 @@
+7cc90a5cadb1 ("ASoC: rsnd: has .symmetric_rates if SSIs are sharing WS pin")
+429919890e22 ("ASoC: rsnd: add generic rsnd_flags_xxx() macro")
+b6e58fcacb3e ("ASoC: rsnd: call request_irq/free_irq once in MIX case")
+bf9b29c784b3 ("ASoC: rsnd: add rsnd_ssi_flags_has/add() macro")
+213691c7e873 ("ASoC: rsnd: call free_irq() both DMA/PIO mode")
+e0936c3471a8 ("ASoC: rsnd: avoid duplicate free_irq()")
+9bc3b4ff18d1 ("Merge branch 'fix/rcar' of git://git.kernel.org/pub/scm/linux/kernel/git/broonie/sound into asoc-rcar")

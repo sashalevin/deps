@@ -1,0 +1,7 @@
+bcdb6fd4f3e9 ("PCI: aardvark: Fix reporting Slot capabilities on emulated bridge")
+273ddd86d676 ("PCI: aardvark: Fix support for PME requester on emulated bridge")
+0fc75d874541 ("PCI: aardvark: Add support for PME interrupts")
+7122bcb33295 ("PCI: aardvark: Optimize writing PCI_EXP_RTCTL_PMEIE and PCI_EXP_RTSTA_PME on emulated bridge")
+735f5ae49e1b ("PCI: aardvark: Fix reading PCI_EXP_RTSTA_PME bit on emulated bridge")
+3ebfefa396eb ("PCI: aardvark: Add support for ERR interrupt on emulated bridge")
+4689c0916320 ("PCI: aardvark: Refactor unmasking summary MSI interrupt")

@@ -1,0 +1,4 @@
+737ad3776343 ("drm/bridge: dw-hdmi: Simplify clock handling")
+0647bf1556eb ("drm: bridge: dw-hdmi: Remove redundant null check before clk_disable_unprepare")
+2ae53e79f2de ("drm/bridge: dw-hdmi: Don't cleanup i2c adapter and ddc ptr in __dw_hdmi_probe() bailout path")
+7070fe7386c1 ("drm: dw-hdmi: use cec_notifier_conn_(un)register")

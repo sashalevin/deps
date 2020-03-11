@@ -1,0 +1,4 @@
+c361e5d4d07d ("x86/setup: Move trim_snb_memory() later in setup_arch() to fix boot hangs")
+4c674481dcf9 ("x86/setup: Merge several reservations of start of memory")
+a799c2bd29d1 ("x86/setup: Consolidate early memory reservations")
+e998879d4fb7 ("x86,swiotlb: Adjust SWIOTLB bounce buffer size for SEV guests")

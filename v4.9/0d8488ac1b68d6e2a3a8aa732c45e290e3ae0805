@@ -1,0 +1,8 @@
+0d8488ac1b68 ("arm64: use swiotlb_alloc and swiotlb_free")
+ad67f5a6545f ("arm64: replace ZONE_DMA with ZONE_DMA32")
+577dfe16b852 ("arm64/dma-mapping: Remove extraneous null-pointer checks")
+712c604dcdf8 ("mm: wire up GFP flag passing in dma_alloc_from_contiguous")
+e2f466e32f56 ("mm: cma_alloc: allow to specify GFP mask")
+ca96b6253410 ("mm: alloc_contig_range: allow to specify GFP mask")
+424f6c4818bb ("mm: alloc_contig: re-allow CMA to compact FS pages")
+9d2ffe5c6255 ("xtensa: enable HAVE_DMA_CONTIGUOUS")

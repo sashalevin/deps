@@ -1,0 +1,4 @@
+c1abe6f570af ("crypto: af_alg: Use extract_iter_to_sg() to create scatterlists")
+f9e7a5fa51fb ("crypto: af_alg: Pin pages rather than ref'ing if appropriate")
+dc5801f60b26 ("af_alg_make_sg(): switch to advancing variant of iov_iter_get_pages()")
+7551a074700a ("crypto: af_alg - use DIV_ROUND_UP helper macro for calculations")

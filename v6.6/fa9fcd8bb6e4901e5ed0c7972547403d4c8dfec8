@@ -1,0 +1,3 @@
+fa9fcd8bb6e4 ("mm/madvise: don't perform madvise VMA walk for MADV_POPULATE_(READ|WRITE)")
+631426ba1d45 ("mm/madvise: make MADV_POPULATE_(READ|WRITE) handle VM_FAULT_RETRY properly")
+0f20bba1688b ("mm/gup: explicitly define and check internal GUP flags, disallow FOLL_TOUCH")

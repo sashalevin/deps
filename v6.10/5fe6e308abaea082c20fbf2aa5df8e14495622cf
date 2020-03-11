@@ -1,0 +1,6 @@
+5fe6e308abae ("bpf: Fix use-after-free in bpf_uprobe_multi_link_attach()")
+3c83a9ad0295 ("uprobes: make uprobe_register() return struct uprobe *")
+e04332ebc8ac ("uprobes: kill uprobe_register_refctr()")
+db61e6a4eee5 ("selftests/bpf: fix uprobe.path leak in bpf_testmod")
+f42a58ffb8bb ("selftests/bpf: Add uretprobe syscall test for regs changes")
+3e8e25761a40 ("selftests/bpf: Add uretprobe syscall test for regs integrity")

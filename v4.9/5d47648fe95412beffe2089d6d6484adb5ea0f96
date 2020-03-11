@@ -1,0 +1,6 @@
+5d47648fe954 ("ceph: only choose one MDS who is in up:active state without laggy")
+74d6f03019f8 ("ceph: fix geting random mds from mdsmap")
+0cab9f33d9c3 ("ceph: remove redundant assignment")
+76201b6354bb ("ceph: allow connecting to mds whose rank >= mdsmap::m_max_mds")
+30c71233a1d4 ("ceph: clean up unsafe d_parent access in __choose_mds")
+e9e427f0a14f ("ceph: check availability of mds cluster on mount")

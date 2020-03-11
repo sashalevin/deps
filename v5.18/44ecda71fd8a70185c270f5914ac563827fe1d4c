@@ -1,0 +1,5 @@
+44ecda71fd8a ("arm64: errata: Workaround possible Cortex-A715 [ESR|FAR]_ELx corruption")
+1bdb0fbb2e27 ("arm64: errata: remove BF16 HWCAP due to incorrect result on Cortex-A510")
+e89d120c4b72 ("arm64: errata: add detection for AMEVCNTR01 incrementing incorrectly")
+44b3834b2eed ("arm64: errata: Remove AES hwcap for COMPAT tasks")
+39fdb65f52e9 ("arm64: errata: Add Cortex-A510 to the repeat tlbi list")

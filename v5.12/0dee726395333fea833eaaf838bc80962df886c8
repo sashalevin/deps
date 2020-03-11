@@ -1,0 +1,4 @@
+0dee72639533 ("drm/amd: flush any delayed gfxoff on suspend entry")
+4b31b92b143f ("drm/amdgpu: complete gfxoff allow signal during suspend without delay")
+d04287d062a4 ("drm/amdgpu: During s0ix don't wait to signal GFXOFF")
+90a9266269eb ("drm/amdgpu: Cancel delayed work when GFXOFF is disabled")

@@ -1,0 +1,8 @@
+5fd778915ad2 ("sched/sysctl: Remove unused sched_time_avg_ms sysctl")
+a9903f04e0a4 ("sched/sysctl: Fix attributes of some extern declarations")
+5ccba44ba118 ("sched/sysctl: Check user input value of sysctl_sched_time_avg")
+d1ccc66df8bf ("sched/core: Clean up comments")
+cb42c9a3ebbb ("sched/core: Add debugging code to catch missing update_rq_clock() calls")
+92509b732baf ("sched/core: Reset RQCF_ACT_SKIP before unpinning rq->lock")
+d8ac897137a2 ("sched/core: Add wrappers for lockdep_(un)pin_lock()")
+3c3fcb45d524 ("sched/fair: Kill the unused 'sched_shares_window_ns' tunable")

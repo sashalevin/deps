@@ -1,0 +1,4 @@
+f24adc65c556 ("KVM: arm64: Allow guest to set the OSLK bit")
+d42e26716d03 ("KVM: arm64: Stash OSLSR_EL1 in the cpu context")
+e2ffceaae508 ("KVM: arm64: Correctly treat writes to OSLSR_EL1 as undefined")
+f76f89e2f73d ("KVM: arm64: Refactor sys_regs.h,c for nVHE reuse")

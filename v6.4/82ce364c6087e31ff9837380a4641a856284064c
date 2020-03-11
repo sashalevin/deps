@@ -1,0 +1,7 @@
+82ce364c6087 ("bpf: replace register_is_const() with is_reg_const()")
+b74c2a842bba ("bpf: generalize is_branch_taken to handle all conditional jumps in one place")
+c697289efe4e ("bpf: move is_branch_taken() down")
+c31534267c18 ("bpf: generalize is_branch_taken() to work with two registers")
+c2a3ab094683 ("bpf: rename is_branch_taken reg arguments to prepare for the second one")
+42d31dd601fa ("bpf: Improve JEQ/JNE branch taken logic")
+51302c951c8f ("bpf: Teach verifier that trusted PTR_TO_BTF_ID pointers are non-NULL")

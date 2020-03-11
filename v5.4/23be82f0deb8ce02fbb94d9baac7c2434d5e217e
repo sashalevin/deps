@@ -1,0 +1,4 @@
+23be82f0deb8 ("s390/stacktrace: remove call_on_stack_noreturn()")
+b55e692e6bcb ("s390: rename CALL_ON_STACK_NORETURN() to call_on_stack_noreturn()")
+a9b660849ffa ("s390: add type checking to CALL_ON_STACK_NORETURN() macro")
+7bcaad1f9fac ("s390: avoid misusing CALL_ON_STACK for task stack setup")

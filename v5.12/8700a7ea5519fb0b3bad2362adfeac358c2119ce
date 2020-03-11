@@ -1,0 +1,5 @@
+8700a7ea5519 ("serial: 8250_omap: Drop pm_runtime_irq_safe()")
+398cecc24846 ("serial: 8250: omap: Fix imprecise external abort for omap_8250_pm()")
+1fe0e1fa3209 ("serial: 8250_omap: Handle optional overrun-throttle-ms property")
+b67e830d38fa ("serial: 8250: 8250_omap: Fix possible interrupt storm on K3 SoCs")
+75f4e830fa9c ("serial: do not restore interrupt state in sysrq helper")

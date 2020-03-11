@@ -1,0 +1,6 @@
+e9a2db5caf9f ("clk: qcom: smd-rpm: conditionally enable scaling before doing handover")
+caa2347d0224 ("clk: qcom: smd-rpm: Keep one rpm handle for all clocks")
+b26ab06d0969 ("clk: qcom: smd-rpm: Drop binary value handling for buffered clock")
+b406f5e92b3b ("clk: qcom: smd-rpm: Drop the use of struct rpm_cc")
+00a123e962f7 ("clk: qcom: smd-rpm: Drop MFD qcom-rpm reference")
+36354c32bd76 ("clk: qcom: smd-rpm: Add .recalc_rate hook for clk_smd_rpm_branch_ops")

@@ -1,0 +1,4 @@
+6654d28995d2 ("mm/rmap: cleanup partially-mapped handling in __folio_remove_rmap()")
+15c0536fb57f ("mm: rmap: abstract updating per-node and per-memcg stats")
+4f687281012e ("mm: do not update memcg stats for NR_{FILE/SHMEM}_PMDMAPPED")
+7491f3f34891 ("mm/rmap: do not add fully unmapped large folio to deferred split list")

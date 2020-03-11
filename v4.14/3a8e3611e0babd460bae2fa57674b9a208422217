@@ -1,0 +1,4 @@
+3a8e3611e0ba ("d_walk(): kill 'finish' callback")
+ff17fa561a04 ("d_invalidate(): unhash immediately")
+32785c0539b7 ("fs/dcache.c: add cond_resched() in shrink_dentry_list()")
+3b3f09f48ba7 ("get rid of trylock loop in locking dentries on shrink list")

@@ -1,0 +1,5 @@
+19d62f5eeaa0 ("ethtool: Fix and simplify ethtool_convert_link_mode_to_legacy_u32()")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")
+e6e12df625f2 ("net: mscc: ocelot: convert to phylink")
+46efe4efb9d1 ("net: dsa: felix: stop calling ocelot_port_{enable,disable}")
+c762b7fac1b2 ("net: mvneta: deny disabling autoneg for 802.3z modes")

@@ -1,0 +1,5 @@
+a21558618c5d ("mm/memory_hotplug: fix leftover use of struct page during hotplug")
+fc44f7f9231a ("mm/memory_hotplug: don't read nid from struct page during hotplug")
+9037a9934349 ("mm, memory_hotplug: split up register_one_node()")
+dc18d706a436 ("memory-hotplug: use dev_online for memhp_auto_online")
+31bc3858ea3e ("memory-hotplug: add automatic onlining policy for the newly added memory")

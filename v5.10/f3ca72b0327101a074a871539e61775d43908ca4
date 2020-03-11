@@ -1,0 +1,6 @@
+f3ca72b03271 ("wifi: ath11k: fix monitor vdev creation with firmware recovery")
+dddaa64d0af3 ("ath11k: add wait operation for tx management packets for flush from mac80211")
+a93789ae541c ("ath11k: Avoid NULL ptr access during mgmt tx cleanup")
+c0b0d2e87d91 ("ath11k: Increment pending_mgmt_tx count before tx send invoke")
+3c79cb4d63c0 ("ath11k: Assign free_vdev_map value before ieee80211_register_hw")
+f4d291b43f80 ("ath11k: Don't cast ath11k_skb_cb to ieee80211_tx_info.control")

@@ -1,0 +1,7 @@
+941a8e9b7a86 ("perf: riscv: Fix selecting counters in legacy mode")
+cc4c07c89aad ("drivers: perf: Implement perf event mmap support in the SBI backend")
+83c5e13b8cbb ("riscv: Prepare for user-space perf event mmap support")
+8929283a687b ("perf: RISC-V: Improve privilege mode filtering for perf")
+585e351ff359 ("perf: RISC-V: Define helper functions expose hpm counter width and count")
+5a5294fbe020 ("RISC-V: Re-enable counter access from userspace")
+1537bf26e212 ("perf: RISC-V: exclude invalid pmu counters from SBI calls")

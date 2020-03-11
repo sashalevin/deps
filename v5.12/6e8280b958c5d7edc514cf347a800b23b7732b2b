@@ -1,0 +1,8 @@
+6e8280b958c5 ("selftests/bpf: Fix memory leak caused by not destroying skeleton")
+1642a3945e22 ("selftests/bpf: Add struct argument tests with fentry/fexit programs.")
+0ef6740e9777 ("selftests/bpf: Add tests for kptr_ref refcounting")
+04accf794bb2 ("selftests/bpf: Add negative C tests for kptrs")
+2cbc469a6fc3 ("selftests/bpf: Add C tests for kptr")
+7edc3fcbf9a2 ("selftest/bpf: Add a test that reads various addresses.")
+025bd7c753aa ("selftests/bpf: Add test for bpf_get_branch_snapshot")
+a1c05c3b09e0 ("selftests/bpf: Test that module can't be unloaded with attached trampoline")

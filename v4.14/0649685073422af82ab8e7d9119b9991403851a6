@@ -1,0 +1,8 @@
+064968507342 ("s390/ipl: remove non-existing functions declaration")
+d485235b0054 ("s390: assume diag308 set always works")
+d08091ac9654 ("s390/ipl: rely on diag308 store to get ipl info")
+283abedb1bd6 ("s390/ipl: move ipl_flags to ipl.c")
+e9627da113db ("s390/ipl: get rid of ipl_ssid and ipl_devno")
+bdbfe18595ce ("s390/ipl: unite diag308 and scsi boot ipl blocks")
+c50ce358bd33 ("s390/ipl: avoid usage of __section(.data)")
+d60a540ac5f2 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

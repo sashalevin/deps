@@ -1,0 +1,7 @@
+664f570a9cee ("crypto: ccp - use kmem_cache_zalloc instead of kmem_cache_alloc/memset")
+58ea8abf4904 ("crypto: ccp - Register the CCP as a DMA resource")
+ea0375afa172 ("crypto: ccp - Add abstraction for device-specific calls")
+c7019c4d739e ("crypto: ccp - CCP versioning support")
+553d2374db0b ("crypto: ccp - Support for multiple CCPs")
+3f19ce205454 ("crypto: ccp - Remove check for x86 family and model")
+bdd75064d2b2 ("crypto: ccp - Use precalculated hash from headers")

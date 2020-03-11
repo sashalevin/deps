@@ -1,0 +1,6 @@
+3cd944590da9 ("asm/io: remove unnecessary xlate_dev_mem_ptr() and unxlate_dev_mem_ptr()")
+026246f114d9 ("arch/*/io.h: remove ioremap_uc in some architectures")
+4bfb53e7d317 ("mips: add <asm-generic/io.h> including")
+426b313f356a ("parisc: mm: convert to GENERIC_IOREMAP")
+b94692e84dcc ("sh: add <asm-generic/io.h> including")
+5bd2cc56667d ("hexagon: mm: convert to GENERIC_IOREMAP")

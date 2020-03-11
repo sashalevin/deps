@@ -1,0 +1,5 @@
+c74ce061f898 ("scsi: qla2xxx: Do not call fc_block_scsi_eh() during bus reset")
+7f4374e67b30 ("scsi: qla2xxx: Reject EH_{abort|device_reset|target_request}")
+585def9b2f47 ("scsi: qla2xxx: Move ABTS code behind qpair")
+6b0431d6fa20 ("scsi: qla2xxx: Fix out of order Termination and ABTS response")
+0691094ff3f2 ("scsi: qla2xxx: Add logic to detect ABTS hang and response completion")

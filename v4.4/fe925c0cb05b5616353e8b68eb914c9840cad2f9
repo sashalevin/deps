@@ -1,0 +1,4 @@
+fe925c0cb05b ("mm/page_alloc: simplify page_is_buddy() for better code readability")
+13ad59df67f1 ("mm, page_alloc: avoid page_to_pfn() when merging buddies")
+76741e776a37 ("mm, page_alloc: don't convert pfn to idx when merging")
+d9dddbf55667 ("mm/page_alloc: prevent merging between isolated and other pageblocks")

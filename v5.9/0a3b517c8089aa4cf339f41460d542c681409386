@@ -1,0 +1,8 @@
+0a3b517c8089 ("iio: imu: inv_mpu6050: fix interrupt status read for old buggy chips")
+5537f653d9be ("iio: imu: inv_mpu6050: add new interrupt handler for WoM events")
+0829edc43e0a ("iio: imu: inv_mpu6050: read the full fifo when processing data")
+111e1abd0045 ("iio: imu: inv_mpu6050: use the common inv_sensors timestamp module")
+54e03562bb96 ("iio: imu: mpu6050: Fix alignment for DMA safety")
+40b54cbebf16 ("iio: imu: mpu6050: Balance runtime pm + use pm_runtime_resume_and_get()")
+da83df66265b ("iio:imu:inv_mpu6050: Use regmap_noinc_read for fifo reads.")
+6b0cc5dce072 ("iio:imu:inv_mpu6050 Fix dma and ts alignment and data leak issues.")

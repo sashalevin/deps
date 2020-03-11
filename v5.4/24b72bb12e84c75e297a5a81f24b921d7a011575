@@ -1,0 +1,7 @@
+24b72bb12e84 ("efi: x86: Set the NX-compatibility flag in the PE header")
+a3326a0d878c ("efi/x86: Use symbolic constants in PE header instead of bare numbers")
+97aa276579b2 ("efi/x86: Add true mixed mode entry point into .compat section")
+832187f03994 ("efi/x86: Drop redundant .bss section")
+223e3ee56f77 ("efi/x86: add headroom to decompressor BSS to account for setup block")
+bc310baf2ba3 ("x86/boot/compressed: Relax sed symbol type regex for LLVM ld.lld")
+2c33c27fd603 ("x86/boot: Introduce kernel_info")

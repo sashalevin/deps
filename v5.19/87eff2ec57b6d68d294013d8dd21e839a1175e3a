@@ -1,0 +1,5 @@
+87eff2ec57b6 ("net: optimize napi_threaded_poll() vs RPS/RFS")
+a1aaee7f8f79 ("net: make napi_threaded_poll() aware of sd->defer_list")
+821eba962d95 ("net: optimize napi_schedule_rps()")
+c59647c0dc67 ("net: add softnet_data.in_net_rx_action")
+8fcb76b934da ("net: napi_schedule_rps() cleanup")

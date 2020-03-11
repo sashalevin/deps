@@ -1,0 +1,5 @@
+be0040144152 ("x86/fpu/signal: Change return code of check_xstate_in_sigframe() to boolean")
+1193f408cd51 ("x86/fpu/signal: Change return type of __fpu_restore_sig() to boolean")
+f3305be5feec ("x86/fpu/signal: Change return type of fpu__restore_sig() to boolean")
+4339d0c63c2d ("x86/fpu/signal: Clarify exception handling in restore_fpregs_from_user()")
+c6304556f3ae ("x86/fpu: Use EX_TYPE_FAULT_MCE_SAFE for exception fixups")

@@ -1,0 +1,6 @@
+6e9f05dc66f9 ("libnvdimm/pfn_dev: increase MAX_STRUCT_PAGE_SIZE")
+8f4b01fcded2 ("libnvdimm/namespace: Differentiate between probe mapping and runtime mapping")
+e96f0bf2ec92 ("libnvdimm/pfn_dev: Add a build check to make sure we notice when struct page size change")
+1c97afa71409 ("libnvdimm/pmem: Advance namespace seed for specific probe errors")
+a2d1c7a61db9 ("libnvdimm/region: Rewrite _probe_success() to _advance_seeds()")
+523634db145a ("Merge tag 'libnvdimm-fixes-5.3-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

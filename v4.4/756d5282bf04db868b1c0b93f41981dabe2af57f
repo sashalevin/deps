@@ -1,0 +1,6 @@
+756d5282bf04 ("rtc: s5m: Remove VLA usage")
+4a681243cc2d ("rtc: s5m: Move enum from rtc.h to rtc-s5m.c")
+8ae83b6f76fc ("rtc: s5m: Make register configuration per S2MPS device to remove exceptions")
+67a6025a77be ("rtc: s5m: Add separate field for storing auto-cleared mask in register config")
+a83a793ad433 ("rtc: s5m: Cleanup by removing useless 'rtc' prefix from fields")
+a65e5efa7c5f ("rtc: s5m.c: Add support for S2MPS15 RTC")

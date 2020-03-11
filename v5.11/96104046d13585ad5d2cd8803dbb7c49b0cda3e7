@@ -1,0 +1,5 @@
+96104046d135 ("OPP: Add _link_required_opps() to avoid code duplication")
+3466ea2cd6b6 ("OPP: Don't drop opp->np reference while it is still in use")
+7eba0c7641b0 ("opp: Allow lazy-linking of required-opps")
+597ff5431fd4 ("opp: Add dev_pm_opp_get_required_pstate()")
+cf65948d62c6 ("opp: Filter out OPPs based on availability of a required-OPP")

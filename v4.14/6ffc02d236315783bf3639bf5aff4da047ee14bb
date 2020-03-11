@@ -1,0 +1,7 @@
+6ffc02d23631 ("PCI: dwc: Add a 'num_lanes' field to struct dw_pcie")
+66de33f09fd9 ("PCI: dwc: Return directly when num-lanes is not found")
+2aadcb0cd391 ("PCI: dwc: Fix ATU identification for designware version >= 4.80")
+a9f4c2d2f99e ("PCI: dwc: Enable iATU unroll for endpoint too")
+6d6b05e3d533 ("PCI: dwc: Don't hard-code DBI/ATU offset")
+6e0832fa432e ("PCI: Collect all native drivers under drivers/pci/controller/")
+e52d38f4abf4 ("Merge branch 'lorenzo/pci/rockchip'")

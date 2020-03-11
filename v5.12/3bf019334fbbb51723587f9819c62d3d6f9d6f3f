@@ -1,0 +1,4 @@
+3bf019334fbb ("slab: Clean up SLOB vs kmalloc() definition")
+c37495d6254c ("slab: add __alloc_size attributes for better bounds checking")
+72d67229f522 ("slab: clean up function prototypes")
+5bb1bb353cfe ("mm: Don't build mm_dump_obj() on CONFIG_PRINTK=n kernels")

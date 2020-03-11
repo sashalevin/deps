@@ -1,0 +1,7 @@
+1bdb67e5aa2d ("x86/exceptions: Enable IST guard pages")
+019b17b3ffe4 ("x86/exceptions: Add structs for exception stacks")
+881a463cf21d ("x86/cpu_entry_area: Cleanup setup functions")
+ba2ba356b2c8 ("x86/cpu_entry_area: Move percpu_setup_debug_store() to __init section")
+bf904d2762ee ("x86/pti/64: Remove the SYSCALL64 entry trampoline")
+98f05b5138f0 ("x86/entry/64: Use the TSS sp2 slot for SYSCALL/SYSRET scratch space")
+5804b11034a2 ("Merge tag 'perf-core-for-mingo-4.19-20180815' of git://git.kernel.org/pub/scm/linux/kernel/git/acme/linux into perf/urgent")

@@ -1,0 +1,7 @@
+c4d7c51845af ("KVM: arm64: Fix race when enabling KVM_ARM_CAP_MTE")
+673638f434ee ("KVM: arm64: Expose KVM_ARM_CAP_MTE")
+e1f358b50464 ("KVM: arm64: Save/restore MTE registers")
+66e94d5cafd4 ("KVM: arm64: Prevent mixed-width VM creation")
+c8a4b35f5063 ("KVM: arm64: Force SCTLR_EL2.WXN when running nVHE")
+fe2c8d19189e ("KVM: arm64: Turn SCTLR_ELx_FLAGS into INIT_SCTLR_EL2_MMU_ON")
+3a514592b698 ("Merge remote-tracking branch 'origin/kvm-arm64/psci-relay' into kvmarm-master/next")

@@ -1,0 +1,6 @@
+cda3520497a5 ("staging: lustre: remove l_wait_event from ptlrpc_set_wait")
+c7621ba215b1 ("staging: lustre: use wait_event_idle_timeout in ptlrpcd()")
+eb7e1f3a3b05 ("staging: lustre: introduce and use l_wait_event_abortable()")
+672b63e55bde ("staging: lustre: discard cfs_time_seconds()")
+bcfa98a50763 ("staging: lustre: replace cfs_rand() with prandom_u32_max()")
+33ec9c5cae25 ("lustre: switch struct ksock_conn to iov_iter")

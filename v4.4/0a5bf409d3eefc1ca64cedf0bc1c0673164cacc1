@@ -1,0 +1,2 @@
+0a5bf409d3ee ("ptrace: clear TIF_SYSCALL_TRACE on ptrace detach")
+1333ab031504 ("ptrace: change __ptrace_unlink() to clear ->ptrace under ->siglock")

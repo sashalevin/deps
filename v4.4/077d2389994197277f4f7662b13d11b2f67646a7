@@ -1,0 +1,8 @@
+077d23899941 ("lightnvm: remove open/close statistics for gennvm")
+cca87bc9d359 ("lightnvm: do not assume sequential lun alloc.")
+6adb03de406e ("lightnvm: update closed list outside of intr context")
+ff0e498bfa18 ("lightnvm: manage open and closed blocks separately")
+91276162de94 ("lightnvm: refactor end_io functions for sync")
+069368e91879 ("lightnvm: move ppa erase logic to core")
+bdded1552085 ("lightnvm: fix incorrect nr_free_blocks stat")
+3cd485b1f8e2 ("lightnvm: fix bio submission issue")

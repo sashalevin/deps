@@ -1,0 +1,5 @@
+2273272823db ("riscv: Fix irq_work when SMP is disabled")
+298447928bb1 ("riscv: Support irq_work via self IPIs")
+5cf998ba8c7b ("RISC-V: self-contained IPI handling routine")
+2f3035da4019 ("riscv: prefix IRQ_ macro names with an RV_ namespace")
+a4c3733d32a7 ("riscv: abstract out CSR names for supervisor vs machine mode")

@@ -1,0 +1,7 @@
+ac687e6e8c26 ("kthread: Extract KTHREAD_IS_PER_CPU")
+cf380a4a96e2 ("kthread: Don't use to_live_kthread() in kthread_[un]park()")
+efb29fbfa50c ("kthread: Don't use to_live_kthread() in kthread_stop()")
+eff9662547f3 ("Revert "kthread: Pin the stack via try_get_task_stack()/put_task_stack() in to_live_kthread() function"")
+1da5c46fa965 ("kthread: Make struct kthread kmalloc'ed")
+a65d40961dc7 ("kthread/smpboot: do not park in kthread_create_on_cpu()")
+23196f2e5f5d ("kthread: Pin the stack via try_get_task_stack()/put_task_stack() in to_live_kthread() function")

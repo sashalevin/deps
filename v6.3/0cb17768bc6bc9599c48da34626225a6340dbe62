@@ -1,0 +1,7 @@
+0cb17768bc6b ("drm/msm/dpu: clean up SRC addresses when setting up SSPP for solid fill")
+74fd7fda0f1f ("drm/msm/dpu: use dpu_sw_pipe for dpu_hw_sspp callbacks")
+3cfcd1307af8 ("drm/msm/dpu: introduce struct dpu_sw_pipe")
+19e98654e7a4 ("drm/msm/dpu: drop dpu_plane_pipe function")
+7f38ec140d9c ("drm/msm/dpu: move pipe_hw to dpu_plane_state")
+64caf60dd9f7 ("drm/msm/dpu: move SSPP allocation to the RM")
+b187794e70d5 ("drm/msm/dpu: rename struct dpu_hw_pipe(_cfg) to dpu_hw_sspp(_cfg)")

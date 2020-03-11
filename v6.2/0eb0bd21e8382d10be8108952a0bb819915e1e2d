@@ -1,0 +1,5 @@
+0eb0bd21e838 ("LoongArch: Remove STACK_FRAME_NON_STANDARD(do_syscall)")
+a0f7085f6a63 ("LoongArch: Add RANDOMIZE_KSTACK_OFFSET support")
+6b79ecd084c9 ("LoongArch: Select HAVE_ARCH_SECCOMP to use the common SECCOMP menu")
+c718a0bad75c ("LoongArch: Fix some build warnings with W=1")
+c23e7f01cf62 ("LoongArch: Relay BCE exceptions to userland as SIGSEGV with si_code=SEGV_BNDERR")

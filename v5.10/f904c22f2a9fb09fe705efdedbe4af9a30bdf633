@@ -1,0 +1,7 @@
+f904c22f2a9f ("powerpc/uaccess: Split out __get_user_nocheck()")
+028e15616857 ("powerpc/uaccess: Remove __chk_user_ptr() in __get/put_user")
+ed0d9c66f97c ("powerpc/uaccess: Call might_fault() inconditionaly")
+8cdf748d557f ("powerpc/uaccess: Remove __get_user_allowed() and unsafe_op_wrap()")
+7d506ca97b66 ("powerpc/uaccess: Avoid might_fault() when user access is enabled")
+de4ffc653f37 ("powerpc/uaccess: Simplify unsafe_put_user() implementation")
+8524e2e76441 ("powerpc/uaccess: Perform barrier_nospec() in KUAP allowance helpers")

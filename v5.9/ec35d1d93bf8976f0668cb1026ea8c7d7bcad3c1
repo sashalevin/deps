@@ -1,0 +1,8 @@
+ec35d1d93bf8 ("x86/setup: Document that Windows reserves the first MiB")
+f1d4d47c5851 ("x86/setup: Always reserve the first 1M of RAM")
+c361e5d4d07d ("x86/setup: Move trim_snb_memory() later in setup_arch() to fix boot hangs")
+4c674481dcf9 ("x86/setup: Merge several reservations of start of memory")
+a799c2bd29d1 ("x86/setup: Consolidate early memory reservations")
+5c279c4cf206 ("Revert "x86/setup: don't remove E820_TYPE_RAM for pfn 0"")
+bde9cfa3afe4 ("x86/setup: don't remove E820_TYPE_RAM for pfn 0")
+e998879d4fb7 ("x86,swiotlb: Adjust SWIOTLB bounce buffer size for SEV guests")

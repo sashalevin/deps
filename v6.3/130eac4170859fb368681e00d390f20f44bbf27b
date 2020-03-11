@@ -1,0 +1,4 @@
+130eac417085 ("xhci: use pm_ptr() instead of #ifdef for CONFIG_PM conditionals")
+ed526ba2ecdf ("xhci: move PCI specific MSI/MSIX cleanup away from generic xhci functions")
+fabbd95cc47c ("xhci: Move functions to setup msi to xhci-pci")
+944e7deb4238 ("xhci: Avoid PCI MSI/MSIX interrupt reinitialization at resume")

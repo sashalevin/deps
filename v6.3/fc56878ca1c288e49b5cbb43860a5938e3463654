@@ -1,0 +1,5 @@
+fc56878ca1c2 ("netfilter: nf_reject: Fix build warning when CONFIG_BRIDGE_NETFILTER=n")
+9874808878d9 ("netfilter: bridge: replace physindev with physinif in nf_bridge_info")
+a54e72197037 ("netfilter: propagate net to nf_bridge_get_physindev")
+aeaa44075f8e ("netfilter: nf_queue: remove excess nf_bridge variable")
+b071af523579 ("neighbour: annotate lockless accesses to n->nud_state")

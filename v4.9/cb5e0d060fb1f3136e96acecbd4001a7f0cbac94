@@ -1,0 +1,5 @@
+cb5e0d060fb1 ("PCI: Protect restore with device lock to be consistent")
+52354b9d1f46 ("PCI: Remove __pci_dev_reset() and pci_dev_reset()")
+b014e96d1abb ("PCI: Protect pci_error_handlers->reset_notify() usage with device_lock()")
+a60a2b73ba69 ("PCI: Export pcie_flr()")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")

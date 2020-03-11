@@ -1,0 +1,7 @@
+4135cce7fd0a ("sctp: update frag_point when stream_interleave is set")
+8a9c58d28d0f ("sctp: add support for dscp and flowlabel per transport")
+25e7f2de9658 ("sctp: set the value of flowi6_oif to sk_bound_dev_if to make sctp_v6_get_dst to find the correct route entry.")
+7e0629776888 ("sctp: set new_asoc temp when processing dupcookie")
+3dbcc105d556 ("sctp: alloc stream info when initializing asoc")
+581947787eaf ("sctp: remove useless err from sctp_association_init")
+4e8f2fc1a55d ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

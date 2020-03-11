@@ -1,0 +1,5 @@
+3c69a5f22223 ("powerpc/perf: Fix the check for SIAR value")
+b1643084d164 ("powerpc/perf: Use stack siar instead of mfspr")
+60b7ed54a41b ("powerpc/perf: Fix crash in perf_instruction_pointer() when ppmu is not set")
+2ca13a4cc56c ("powerpc/perf: Use regs->nip when SIAR is zero")
+d9f7088dd6d8 ("powerpc/perf: Use the address from SIAR register to set cpumode flags")

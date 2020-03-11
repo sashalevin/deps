@@ -1,0 +1,8 @@
+20d4e80d255d ("apparmor: only get a label reference if the fast path check fails")
+bce4e7e9c45e ("apparmor: reduce rcu_read_lock scope for aa_file_perm mediation")
+56974a6fcfef ("apparmor: add base infastructure for socket mediation")
+3acfd5f54ca1 ("apparmor: audit unknown signal numbers")
+3dc6b1ce6861 ("apparmor: make signal label match work when matching stacked labels")
+98cf5bbff413 ("apparmor: fix logging of the existence test for signals")
+b5beb07ad32a ("apparmor: fix resource audit messages when auditing peer")
+b12cbb215862 ("apparmor: fix oops in audit_signal_cb hook")

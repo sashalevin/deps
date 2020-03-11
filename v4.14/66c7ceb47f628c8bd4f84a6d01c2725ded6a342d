@@ -1,0 +1,4 @@
+66c7ceb47f62 ("x86/irq/32: Handle irq stack allocation failure proper")
+451f743a64e1 ("x86/irq/32: Invoke irq_ctx_init() from init_IRQ()")
+a754fe2b76d1 ("x86/irq/32: Rename hard/softirq_stack to hard/softirq_stack_ptr")
+cd493a6deb8b ("x86/entry/32: Fix cpu_current_top_of_stack initialization at boot")

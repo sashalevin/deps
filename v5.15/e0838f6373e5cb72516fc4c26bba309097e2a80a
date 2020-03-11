@@ -1,0 +1,8 @@
+e0838f6373e5 ("arm64/sme: Save and restore streaming mode over EFI runtime calls")
+ddc806b5c475 ("arm64/sve: Explicitly load vector length when restoring SVE state")
+b5bc00ffddc0 ("arm64/sve: Put system wide vector length information into structs")
+0423eedcf4e1 ("arm64/sve: Use accessor functions for vector lengths in thread_struct")
+059613f546b6 ("arm64/sve: Rename find_supported_vector_length()")
+9f5848665788 ("arm64/sve: Make access to FFR optional")
+b53223e0a4d9 ("arm64/sve: Remove sve_load_from_fpsimd_state()")
+2d481bd3b636 ("arm64/fp: Reindent fpsimd_save()")

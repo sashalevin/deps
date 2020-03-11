@@ -1,0 +1,4 @@
+5244f5e2d801 ("PM: runtime: Defer suspending suppliers")
+e2f3cd831a28 ("driver core: Fix handling of runtime PM flags in device_link_add()")
+5db25c9eb893 ("driver core: Do not resume suppliers under device_links_write_lock()")
+f265df550a43 ("driver core: Avoid careless re-use of existing device links")

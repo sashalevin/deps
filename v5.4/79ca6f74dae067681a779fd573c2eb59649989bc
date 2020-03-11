@@ -1,0 +1,6 @@
+79ca6f74dae0 ("tpm: fix Atmel TPM crash caused by too frequent queries")
+9550f210492c ("tpm: Revert "tpm_tis: reserve chip for duration of tpm_tis_core_init"")
+21df4a8b6018 ("tpm_tis: reserve chip for duration of tpm_tis_core_init")
+74edff2d74c6 ("tpm: Move tpm_buf code to include/linux/")
+44abdb377b7c ("tpm: use GFP_KERNEL instead of GFP_HIGHMEM for tpm_buf")
+2e2ee5a2db06 ("tpm: Add a flag to indicate TPM power is managed by firmware")

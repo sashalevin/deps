@@ -1,0 +1,4 @@
+6d8175da1f44 ("drm/i915: Rely on TEST_SINK_START instead of tracking Sink CRC state on dev_priv.")
+7e38eeff6da2 ("drm/i915: Stop tracking last calculated Sink CRC.")
+c62978438294 ("drm/i915: Make Sink crc calculation waiting for counter to reset.")
+d72f9d919a60 ("drm/i915: Allow 1 vblank to let Sink CRC calculation to start or stop.")

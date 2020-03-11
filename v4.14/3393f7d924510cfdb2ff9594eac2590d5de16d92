@@ -1,0 +1,6 @@
+3393f7d92451 ("spi: bcm2835: only split transfers that exceed DLEN if DMA available")
+8b7bd10eb00d ("spi/spi-bcm2835: Split transfers that exceed DLEN")
+3bd7f6589f67 ("spi: bcm2835: Overcome sglist entry length limitation")
+acf0f8569599 ("spi: bcm2835: Document struct bcm2835_spi")
+e82b0b382845 ("spi: bcm2835: Fix race on DMA termination")
+dbc944115eed ("spi: bcm2835: Fix book-keeping of DMA termination")

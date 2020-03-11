@@ -1,0 +1,8 @@
+546dc20fedc5 ("drm/amdkfd: fix a potential ttm->sg memory leak")
+264fb4d332f5 ("drm/amdgpu: Add multi-GPU DMA mapping helpers")
+7141394edc05 ("drm/amdgpu: Simplify AQL queue mapping")
+4e94272f8a99 ("drm/amdgpu: Keep a bo-reference per-attachment")
+c780b2eedbd0 ("drm/amdgpu: Rename kfd_bo_va_list to kfd_mem_attachment")
+b40a6ab2cf92 ("drm/amdkfd: Use drm_priv to pass VM from KFD to amdgpu")
+f45e6b9d03ff ("drm/amdkfd: Remove legacy code not acquiring VMs")
+6ae2784114c0 ("drm/amdgpu: replace per_device_list by array")

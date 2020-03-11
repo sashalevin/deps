@@ -1,0 +1,8 @@
+594cac11ab6a ("RDMA/mlx5: Use query_special_contexts for mkeys")
+a419bfb76320 ("net/mlx5: Change define name for 0x100 lkey value")
+34a30d7635a8 ("net/mlx5: Lag, expose number of lag ports")
+af8c0e25f249 ("net/mlx5: Lag, add initial logic for shared FDB")
+e5dc370bd9d6 ("RDMA/mlx5: Set ODP caps only if device profile support ODP")
+ad50294d4d6b ("RDMA/mlx5: Create ODP EQ only when ODP MR is created")
+2019d70e919f ("IB/mlx5: Avoid calling query device for reading pkey table length")
+3ce60f443b14 ("IB/mlx5: Move mlx5_port_caps from mlx5_core_dev to mlx5_ib_dev")

@@ -1,0 +1,5 @@
+781c4d6f5f27 ("m68k/io: Switch mmu variant to <asm-generic/io.h>")
+de25cfcb6404 ("m68k: remove old ColdFire IO access support code")
+dfbc5cb39928 ("m68k: use io_no.h for MMU and non-MMU enabled ColdFire")
+d97cf70af097 ("m68k: use asm-generic/io.h for non-MMU io access functions")
+fedc33e36406 ("m68k: move *_relaxed macros into io_no.h and io_mm.h")

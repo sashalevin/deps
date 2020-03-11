@@ -1,0 +1,5 @@
+00898e8599a1 ("ipc: uninline functions")
+50ab44b1c5d1 ("ipc: Directly call the security hook in ipc_ops.associate")
+d8c6e8543294 ("msg/security: Pass kern_ipc_perm not msg_queue into the msg_queue security hooks")
+7191adff2a55 ("shm/security: Pass kern_ipc_perm not shmid_kernel into the shm security hooks")
+aefad9593ec5 ("sem/security: Pass kern_ipc_perm not sem_array into the sem security hooks")

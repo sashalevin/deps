@@ -1,0 +1,6 @@
+7cda0b9eb6eb ("serial: core: Simplify uart_get_rs485_mode()")
+163f080eb717 ("serial: core: Add option to output RS485 RX_DURING_TX state via GPIO")
+8bec874f84d8 ("serial: RS485 termination is supported if DT provides one")
+89c65d664832 ("serial: core: Simplify with dev_err_probe()")
+d58a2df3d887 ("serial: 8250: Support rs485 bus termination GPIO")
+c150c0f362c1 ("serial: Allow uart_get_rs485_mode() to return errno")

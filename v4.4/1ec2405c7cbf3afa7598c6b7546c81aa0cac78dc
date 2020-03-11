@@ -1,0 +1,8 @@
+1ec2405c7cbf ("kvm: ioapic: Refactor kvm_ioapic_update_eoi()")
+dfb9595429c6 ("KVM: x86: Rename kvm_apic_get_reg to kvm_lapic_get_reg")
+1e6e2755b635 ("KVM: x86: Misc LAPIC changes to expose helper functions")
+4d99ba898dd0 ("kvm: x86: Check dest_map->vector to match eoi signals for rtc")
+9e4aabe2bb34 ("kvm: x86: Convert ioapic->rtc_status.dest_map to a struct")
+f8543d6a977a ("KVM: APIC: remove unnecessary double checks on APIC existence")
+5c919412fe61 ("kvm/x86: Hyper-V synthetic interrupt controller")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

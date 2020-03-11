@@ -1,0 +1,8 @@
+b5d9a07ef773 ("arm64: sysreg: fix sparse warnings")
+1c312e84c2d7 ("arm64: move SCTLR_EL{1,2} assertions to <asm/sysreg.h>")
+f751daa4f9d3 ("arm64: Unconditionally enable IESB on exception entry/return for firmware-first")
+7a00d68ebe5f ("arm64: sysreg: Move to use definitions for all the SCTLR bits")
+d38338e396ee ("arm64: Remove a redundancy in sysreg.h")
+d68c1f7fd1b7 ("arm64: KVM: Preserve RES1 bits in SCTLR_EL2")
+d61c97a7773d ("arm64: move !VHE work to end of el2_setup")
+3ad47d055aa8 ("arm64: reduce el2_setup branching")

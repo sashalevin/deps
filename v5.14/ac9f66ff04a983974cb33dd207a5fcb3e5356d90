@@ -1,0 +1,8 @@
+ac9f66ff04a9 ("Fix coverity issue 'Uninitialized scalar variable"")
+3ad4b7c81a99 ("net: macb: Fix several edge cases in validate")
+4973056cceac ("net: convert users of bitmap_foo() to linkmode_foo()")
+14ad41c74f6b ("net: ethernet: use phylink_set_10g_modes()")
+9eb7b5e7cb50 ("net: dpaa2-mac: add support for more ethtool 10G link modes")
+e6e12df625f2 ("net: mscc: ocelot: convert to phylink")
+46efe4efb9d1 ("net: dsa: felix: stop calling ocelot_port_{enable,disable}")
+c762b7fac1b2 ("net: mvneta: deny disabling autoneg for 802.3z modes")

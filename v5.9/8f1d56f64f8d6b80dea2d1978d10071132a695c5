@@ -1,0 +1,5 @@
+8f1d56f64f8d ("x86/mm/tlb: Ignore f->new_tlb_gen when zero")
+aa44284960d5 ("x86/mm/tlb: Avoid reading mm_tlb_gen when possible")
+4ce94eabac16 ("x86/mm/tlb: Flush remote and local TLBs concurrently")
+6035152d8eeb ("x86/mm/tlb: Open-code on_each_cpu_cond_mask() for tlb_is_not_lazy()")
+4c1ba3923e6c ("x86/mm/tlb: Unify flush_tlb_func_local() and flush_tlb_func_remote()")

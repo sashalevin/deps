@@ -1,0 +1,6 @@
+b3bb97b8a49f ("Drivers: hv: balloon: Add logging for dynamic memory operations")
+b605c2d91358 ("Drivers: hv: balloon: Use available memory value in pressure report")
+eece30b9f004 ("Drivers: hv: balloon: replace ha_region_mutex with spinlock")
+a132c54cbcb8 ("Drivers: hv: balloon: don't wait for ol_waitevent when memhp_auto_online is enabled")
+cb7a5724c7e1 ("Drivers: hv: balloon: account for gaps in hot add regions")
+7cf3b79ec85e ("Drivers: hv: balloon: keep track of where ha_region starts")

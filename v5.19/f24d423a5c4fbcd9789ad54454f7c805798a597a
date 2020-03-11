@@ -1,0 +1,7 @@
+f24d423a5c4f ("mtd: spi-nor: spansion: Rework cypress_nor_quad_enable_volatile() for multi-chip device support")
+d628783c46d3 ("mtd: spi-nor: spansion: Make RD_ANY_REG_OP macro take number of dummy bytes")
+ca5a16db0100 ("mtd: spi-nor: spansion: Make CFRx reg fields generic")
+3f592a869f87 ("mtd: spi-nor: spansion: Consider reserved bits in CFR5 register")
+05ebc1ccb8af ("mtd: spi-nor: spansion: Replace hardcoded values for addr_nbytes/addr_mode_nbytes")
+b6b23833fc42 ("mtd: spi-nor: spansion: Add s25hl-t/s25hs-t IDs and fixups")
+a6b50aa12796 ("mtd: spi-nor: spansion: Add local function to discover page size")

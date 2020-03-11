@@ -1,0 +1,3 @@
+83690b82d228 ("af_unix: Use skb_queue_empty_lockless() in unix_release_sock().")
+e1d09c2c2f57 ("af_unix: Fix data races around sk->sk_shutdown.")
+cc04410af7de ("af_unix: annotate lockless accesses to sk->sk_err")

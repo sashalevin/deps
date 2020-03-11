@@ -1,0 +1,4 @@
+bfdf8b1d3868 ("drm/i915: Use ww locking in intel_renderstate.")
+b0a997ae5248 ("drm/i915: Emit await(batch) before MI_BB_START")
+50689771c8f0 ("drm/i915: Only close vma we open")
+93159e12353c ("drm/i915/gem: Avoid gem_context->mutex for simple vma lookup")

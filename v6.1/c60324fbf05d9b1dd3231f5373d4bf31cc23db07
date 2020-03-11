@@ -1,0 +1,7 @@
+c60324fbf05d ("lib/stackdepot: lower the indentation in stack_depot_init")
+df225c877d89 ("lib/stackdepot: annotate init and early init functions")
+735df3c3a349 ("lib/stackdepot: rename stack_depot_disable")
+1c0310add78e ("lib/stackdepot, mm: rename stack_depot_want_early_init")
+4a6b5314d6bd ("lib/stackdepot: use pr_fmt to define message format")
+993f57e0277b ("mm: use stack_depot_early_init for kmemleak")
+56a61617dd22 ("mm: use stack_depot for recording kmemleak's backtrace")

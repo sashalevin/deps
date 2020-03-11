@@ -1,0 +1,7 @@
+7a364bd5db1c ("KVM: arm/arm64: Avoid vcpu_load for other vcpu ioctls than KVM_RUN")
+9b062471e52a ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl")
+66b565622299 ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_guest_debug")
+e83dff5edf0c ("KVM: Move vcpu_load to arch-specific kvm_arch_vcpu_ioctl_set_mpstate")
+28bf28887976 ("KVM: x86: fix user triggerable warning in kvm_apic_accept_events()")
+00104b417149 ("KVM: MIPS: Drop partial KVM_NMI implementation")
+5a6da5f78431 ("MIPS: KVM: Return directly after a failed copy_from_user() in kvm_arch_vcpu_ioctl()")

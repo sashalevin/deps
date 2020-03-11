@@ -1,0 +1,4 @@
+40cd58dbf121 ("x86/kvm: Don't use PV TLB/yield when mwait is advertised")
+ec756e40e271 ("x86/kvm: Don't use pv tlb/ipi/sched_yield if on 1 vCPU")
+a262bca3aba0 ("KVM: Introduce pv check helpers")
+64b38bd1906b ("x86/kvm: do not setup pv tlb flush when not paravirtualized")

@@ -1,0 +1,5 @@
+31d02e7ab008 ("arm64: kaslr: support randomized module area with KASAN_VMALLOC")
+0fea6e9af889 ("kasan, arm64: expand CONFIG_KASAN checks")
+3b1a4a864087 ("kasan: group vmalloc code")
+f4693c2716b3 ("arm64: mm: extend linear region for 52-bit VA configurations")
+5f1f7f6c205a ("arm64: Reduce the number of header files pulled into vmlinux.lds.S")

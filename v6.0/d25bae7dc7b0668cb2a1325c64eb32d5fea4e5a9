@@ -1,0 +1,6 @@
+d25bae7dc7b0 ("virt/coco/sev-guest: Do some code style cleanups")
+0fdb6cc7c89c ("virt/coco/sev-guest: Carve out the request issuing logic into a helper")
+c5a338274bdb ("virt/coco/sev-guest: Remove the disable_vmpck label in handle_guest_request()")
+970ab823743f ("virt/coco/sev-guest: Simplify extended guest request handling")
+dd093fb08e8f ("virt/sev-guest: Return -EIO if certificate buffer is not large enough")
+47894e0fa6a5 ("virt/sev-guest: Prevent IV reuse in the SNP guest driver")

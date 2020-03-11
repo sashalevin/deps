@@ -1,0 +1,6 @@
+cd936507986e ("cifs: Remove cifs_aio_ctx")
+69c3c023af25 ("cifs: Implement netfslib hooks")
+edea94a69730 ("cifs: Add mempools for cifs_io_request and cifs_io_subrequest structs")
+ab58fbdeebc7 ("cifs: Use more fields from netfs_io_subrequest")
+a975a2f22cdc ("cifs: Replace cifs_writedata with a wrapper around netfs_io_subrequest")
+753b67eb630d ("cifs: Replace cifs_readdata with a wrapper around netfs_io_subrequest")

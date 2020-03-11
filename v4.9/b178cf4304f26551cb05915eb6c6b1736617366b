@@ -1,0 +1,7 @@
+b178cf4304f2 ("ceph: don't use CEPH_OSD_FLAG_ORDERSNAP")
+54ea0046b6fe ("libceph, rbd, ceph: WRITE | ONDISK -> WRITE")
+b18b9550e405 ("libceph: get rid of ack vs commit")
+55f2a04588c5 ("ceph: remove special ack vs commit behavior")
+bc81207ea9fc ("rbd: factor out __rbd_osd_req_create()")
+45ee2c1d6618 ("libceph: remove now unused finish_request() wrapper")
+c297eb42690b ("libceph: always signal completion when done")

@@ -1,0 +1,8 @@
+f6498b776d28 ("mm: zswap: add basic meminfo and vmstat coverage")
+39799b6409fe ("Documentation: filesystems: proc: update meminfo section")
+94bfe85bde18 ("mm/vmstat: add events for ksm cow")
+8d719afcb344 ("docs: proc.rst: meminfo: briefly describe gaps in memory accounting")
+575299ea18a8 ("x86/mm: track linear mapping split events")
+fc6697a89f56 ("mm/zswap: add the flag can_sleep_mapped")
+1ec3b5fe6eec ("mm/zswap: move to use crypto_acomp API for hardware acceleration")
+42a44704367c ("mm/zswap: fix passing zero to 'PTR_ERR' warning")

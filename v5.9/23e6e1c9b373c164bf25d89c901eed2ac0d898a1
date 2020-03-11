@@ -1,0 +1,4 @@
+23e6e1c9b373 ("exfat: reuse __exfat_write_inode() to update directory entry")
+c71510b3fa27 ("exfat: remove argument 'sector' from exfat_get_dentry()")
+1e5654de0f51 ("exfat: handle wrong stream entry size in exfat_readdir()")
+04cee52fb8bd ("exfat: remove 'rwoffset' in exfat_inode_info")

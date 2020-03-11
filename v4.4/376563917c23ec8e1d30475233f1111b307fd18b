@@ -1,0 +1,4 @@
+376563917c23 ("mtd: nand: denali: remove unused struct member totalblks, blksperchip")
+c9e025843242 ("mtd: nand: denali: remove detect_partition_feature()")
+442f201b93b5 ("mtd: nand: denali: use the mtd instance embedded in struct nand_chip")
+320092a05dab ("mtd: nand: denali: add missing nand_release() call in denali_remove()")

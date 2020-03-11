@@ -1,0 +1,4 @@
+2b885517110c ("block: bio_remaining_done() isn't unlikely")
+ba8c6967b739 ("block: cleanup bio_endio")
+38f8baae8905 ("block: factor out chained bio completion")
+af3e3a5259e3 ("block: don't unecessarily clobber bi_error for chained bios")

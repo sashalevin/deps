@@ -1,0 +1,6 @@
+c32aace0cf93 ("io_uring: fix drain alloc fail return code")
+76cc33d79175 ("io_uring: refactor io_req_defer()")
+b7e298d265f2 ("io_uring: merge defer_prep() and prep_async()")
+26f0505a9ce5 ("io_uring: rethink def->needs_async_data")
+6cb78689fa94 ("io_uring: untie alloc_async_data and needs_async_data")
+f41db2732d48 ("io_uring: add a helper failing not issued requests")

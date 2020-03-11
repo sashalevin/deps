@@ -1,0 +1,5 @@
+97c9801a15e5 ("asm-generic: don't provide ioremap for CONFIG_MMU")
+e97133959ad2 ("asm-generic: ioremap_uc should behave the same with and without MMU")
+bb912671e365 ("nds32: Fix the unknown type u8 issue.")
+4a64f68dbda6 ("nds32: Device specific operations")
+b3ada9d0ce8d ("asm-generic/io.h: move ioremap_nocache/ioremap_uc/ioremap_wc/ioremap_wt out of ifndef CONFIG_MMU")

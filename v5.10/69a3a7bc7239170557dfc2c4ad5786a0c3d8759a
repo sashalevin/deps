@@ -1,0 +1,5 @@
+69a3a7bc7239 ("scsi: lpfc: Fix memory overwrite during FC-GS I/O abort handling")
+4e670c8afd47 ("scsi: lpfc: Keep NDLP reference until after freeing the IOCB after ELS handling")
+4430f7fd09ec ("scsi: lpfc: Rework locations of ndlp reference taking")
+307e338097dc ("scsi: lpfc: Rework remote port ref counting and node freeing")
+8aaa7bcf07a2 ("scsi: lpfc: Add FDMI Vendor MIB support")

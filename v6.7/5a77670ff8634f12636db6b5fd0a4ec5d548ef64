@@ -1,0 +1,7 @@
+5a77670ff863 ("minixfs: Convert minix_find_entry() to take a folio")
+9cf2de3ddaeb ("minixfs: Convert dir_get_page() to dir_get_folio()")
+3d1bec293378 ("minixfs: Fix minixfs_rename with HIGHMEM")
+41e9a7faff51 ("minixfs: switch to kmap_local_page()")
+6628f69ee66a ("minixfs: Use dir_put_page() in minix_unlink() and minix_rename()")
+ee0d27c90777 ("minixfs: change the signature of dir_get_page()")
+4812509e916b ("minixfs: use offset_in_page()")

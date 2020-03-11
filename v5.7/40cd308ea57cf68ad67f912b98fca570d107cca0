@@ -1,0 +1,4 @@
+40cd308ea57c ("bpf: net: Change do_ipv6_setsockopt() to use the sockopt's lock_sock() and capable()")
+b84d2b73af40 ("net/ipv6: factor out a ipv6_set_opt_hdr helper")
+bb986a50421a ("seg6: fix seg6_validate_srh() to avoid slab-out-of-bounds")
+fcfa0b09d3f7 ("ipv6: take handling of group_source_req options into a helper")

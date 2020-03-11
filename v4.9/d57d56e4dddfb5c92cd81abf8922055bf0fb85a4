@@ -1,0 +1,6 @@
+d57d56e4dddf ("tty: serial: fsl_lpuart: use UARTMODIR register bits for lpuart32 platform")
+3957b9501a5a ("serial: fsl_lpuart: fix RS485 RTS polariy inverse issue")
+67b01837861c ("tty: serial: lpuart: Add RS485 support for 32-bit uart flavour")
+01d845352a81 ("serial: fsl_lpuart: Support common rs485 binding for RTS polarity")
+dde18d53d72d ("serial: fsl_lpuart: Use common rs485 device tree parsing function")
+68c338eaa0bf ("serial: fsl_lpuart: clear unsupported options in .rs485_config()")

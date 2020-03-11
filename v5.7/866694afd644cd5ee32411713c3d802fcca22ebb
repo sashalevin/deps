@@ -1,0 +1,5 @@
+866694afd644 ("IB/hfi1: Place struct mmu_rb_handler on cache line start")
+2bbac98d0930 ("RDMA/hfi1: Fix use-after-free bug for mm struct")
+ca5f72568e03 ("IB/hfi1: Use kzalloc() for mmu_rb_handler allocation")
+3d2a9d642512 ("IB/hfi1: Ensure correct mm is used at all times")
+84e3b19a27f8 ("IB/hfi1: Remove module parameter for KDETH qpns")

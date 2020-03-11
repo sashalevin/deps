@@ -1,0 +1,4 @@
+bc308d011ab8 ("libbpf: call dup2() syscall directly")
+dac645b950ea ("libbpf: use stable map placeholder FDs")
+5c742725045a ("libbpf: Move elf_find_func_offset* functions to elf object")
+4aadd2920b81 ("libbpf: Ensure FD >= 3 during bpf_map__reuse_fd()")

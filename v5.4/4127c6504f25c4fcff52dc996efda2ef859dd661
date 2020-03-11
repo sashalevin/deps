@@ -1,0 +1,7 @@
+4127c6504f25 ("mm: kmem: enable kernel memcg accounting from interrupt contexts")
+37d5985c003d ("mm: kmem: prepare remote memcg charging infra for interrupt contexts")
+279c3393e2c1 ("mm: kmem: move memcg_kmem_bypass() calls to get_mem/obj_cgroup_from_current()")
+b87d8cefe43c ("mm, memcg: rework remote charging API to support nesting")
+3e38e0aaca9e ("mm: memcg: charge memcg percpu memory to the parent cgroup")
+3c7be18ac9a0 ("mm: memcg/percpu: account percpu memory to memory cgroups")
+81e11336d97e ("Merge branch 'akpm' (patches from Andrew)")

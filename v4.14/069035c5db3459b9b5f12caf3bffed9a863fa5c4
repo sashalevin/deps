@@ -1,0 +1,4 @@
+069035c5db34 ("drm: Fix possible race conditions while unplugging DRM device")
+bee330f3d672 ("drm: Use srcu to protect drm_device.unplugged")
+02c9656b2f0d ("drm: Move debug macros out of drmP.h")
+9a96f55034e4 ("drm: introduce drm_dev_{get/put} functions")

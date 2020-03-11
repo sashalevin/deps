@@ -1,0 +1,6 @@
+52f9fcbc7b11 ("firewire: ohci: fix error path to detect initiated reset in TI TSB41BA3D phy")
+6d72fbc81634 ("firewire: ohci: use guard macro to serialize accesses to phy registers")
+f9a228364e5e ("firewire: ohci: use helper inline functions to serialize/deserialize self ID packet")
+a16931ac6d8e ("firewire: ohci: use helper functions for self ID sequence")
+e404cacfc5ed ("firewire: ohci: minor code refactoring for self ID logging")
+1162825c9c15 ("firewire: ohci: replace local macros with common inline functions for asynchronous packet header")

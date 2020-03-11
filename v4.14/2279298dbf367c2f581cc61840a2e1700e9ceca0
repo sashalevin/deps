@@ -1,0 +1,7 @@
+2279298dbf36 ("drm/i915/dp: Enable/Disable DSC in DP Sink")
+857c416e58dc ("drm/i915: Improve DP downstream HPD handling")
+33f083f002cb ("drm/i915: Split intel_disable_ddi() into DP vs. HDMI variants")
+5ea2355a100a ("drm/i915/mst: Use MST sideband message transactions for dpms control")
+5f88a9c61978 ("drm/i915: Constify states passed to enable/disable/etc. encoder hooks")
+d2419ffc10e4 ("drm/i915: Plumb crtc_state to PSR enable/disable")
+c5f93fcf2ee1 ("drm/i915: Disable infoframes when shutting down DDI HDMI")

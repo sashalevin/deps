@@ -1,0 +1,8 @@
+c6c3f7e73dab ("pwm: atmel-hlcdc: Don't use pwm consumer API")
+e25ac87d3f83 ("pwm: atmel-hlcdc: Fix clock imbalance related to suspend support")
+aecab554b6ff ("pwm: atmel-hlcdc: Use consistent variable naming")
+5fce94170ad8 ("pwm: atmel-hlcdc: Convert to platform remove callback returning void")
+632927511c3a ("pwm: atmel-hlcdc: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")
+965ebe39c953 ("pwm: atmel-hlcdc: Use pwmchip_add() instead of pwmchip_add_with_polarity()")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")

@@ -1,0 +1,6 @@
+db0936830a2f ("x86/acpi: Do not attempt to bring up secondary CPUs in the kexec case")
+66e48e491d1e ("cpu/hotplug, x86/acpi: Disable CPU offlining for ACPI MADT wakeup")
+1037e4c53e85 ("cpu/hotplug: Add support for declaring CPU offlining not supported")
+2b5e22afae07 ("x86/acpi: Extract ACPI MADT wakeup code into a separate file")
+ddefcfdeb5a2 ("cpu: Drop "extern" from function declarations in cpuhplock.h")
+195fb517ee25 ("cpu: Move CPU hotplug function declarations into their own header")

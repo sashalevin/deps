@@ -1,0 +1,6 @@
+699921d9e68f ("libceph: export zero_page")
+433b0a12953b ("libceph: use MSG_SENDPAGE_NOTLAST with ceph_tcp_sendpage()")
+3239eb5215eb ("libceph: use sock_no_sendpage() as a fallback in ceph_tcp_sendpage()")
+1f6b821aef78 ("libceph: drop last_piece logic from write_partial_message_data()")
+7e241f647dc7 ("libceph: fall back to sendmsg for slab pages")
+aa563d7bca6e ("iov_iter: Separate type from direction and use accessor functions")

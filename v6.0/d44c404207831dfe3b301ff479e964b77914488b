@@ -1,0 +1,6 @@
+d44c40420783 ("block: Fix dio_cleanup() to advance the head index")
+1ccf164ec866 ("block: Use iov_iter_extract_pages() and page pinning in direct-io.c")
+e51bab4e2058 ("block: Replace BIO_NO_PAGE_REF with BIO_PAGE_REFFED with inverted logic")
+a450f49708ea ("iomap: Don't get an reference on ZERO_PAGE for direct I/O block zeroing")
+7ee4ccf57484 ("block: set FOLL_PCI_P2PDMA in bio_map_user_iov()")
+e88811bc43b9 ("block: use on-stack page vec for <= UIO_FASTIOV")

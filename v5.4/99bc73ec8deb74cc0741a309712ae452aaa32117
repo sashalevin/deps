@@ -1,0 +1,7 @@
+99bc73ec8deb ("drm/i915/display/dpll_mgr: Make WARN* drm specific where drm_device ptr is available")
+b3a723867117 ("drm/i915/dpll_mgr: use intel_de_*() functions for register access")
+dd5279c71405 ("drm/i915: Fix PCH reference clock for FDI on HSW/BDW")
+2a86972f60fc ("drm/i915: Select DPLL's via mask")
+7d423af9bfb1 ("drm/i915: Implement a better i945gm vblank irq vs. C-states workaround")
+e87b9b05104f ("drm/i915/tgl: Add support for dkl pll write")
+1e225a2c7477 ("drm/i915/tgl: Add initial dkl pll support")

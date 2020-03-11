@@ -1,0 +1,6 @@
+f7f99100d8d9 ("mm: stop zeroing memory during allocation in vmemmap")
+b95046b0472f ("mm, sparse, page_ext: drop ugly N_HIGH_MEMORY branches for allocations")
+dcda9b04713c ("mm, tree wide: replace __GFP_REPEAT by __GFP_RETRY_MAYFAIL with more useful semantic")
+aaf14e40a33a ("mm, hugetlb: unclutter hugetlb allocation layers")
+4db9b2efe949 ("hugetlb, memory_hotplug: prefer to use reserved pages for migration")
+fe1b518075d8 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/sparc-next")

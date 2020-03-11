@@ -1,0 +1,7 @@
+6f09ffb1f4fa ("Squashfs: Update squashfs_readahead() to not use page->index")
+c9199de82bad ("squashfs: fix extending readahead beyond end of file")
+9ef8eb610452 ("squashfs: fix read regression introduced in readahead code")
+1f13dff09ffc ("squashfs: don't call kmalloc in decompressors")
+b09a7a036d20 ("squashfs: support reading fragments in readahead call")
+8fc78b6fe24c ("squashfs: implement readahead")
+f268eedddf35 ("squashfs: extend "page actor" to handle missing pages")

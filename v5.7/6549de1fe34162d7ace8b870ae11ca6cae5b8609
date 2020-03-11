@@ -1,0 +1,7 @@
+6549de1fe341 ("ring-buffer: Add a little more information and a WARN when time stamp going backwards is detected")
+5b7be9c709e1 ("ring-buffer: Add test to validate the time stamp deltas")
+58fbc3c63275 ("ring-buffer: Consolidate add_timestamp to remove some branches")
+10464b4aa605 ("ring-buffer: Add rb_time_t 64 bit operations for speeding up 32 bit")
+7c4b4a5164fb ("ring-buffer: Incorporate absolute timestamp into add_timestamp logic")
+a389d86f7fd0 ("ring-buffer: Have nested events still record running time stamp")
+097350d1c6e1 ("ring-buffer: Zero out time extend if it is nested and not absolute")

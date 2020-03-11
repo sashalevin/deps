@@ -1,0 +1,5 @@
+f71dd7dc2dc9 ("signal/ptrace: Add force_sig_ptrace_errno_trap and use it where needed")
+47355040d276 ("signal/powerpc: Remove unnecessary signal_code parameter of do_send_trap")
+382467358ac9 ("signal: Helpers for faults with specialized siginfo layouts")
+f8ec66014ffd ("signal: Add send_sig_fault and force_sig_fault")
+66e0f26315ce ("signal/arm64: Better isolate the COMPAT_TASK portion of ptrace_hbptriggered")

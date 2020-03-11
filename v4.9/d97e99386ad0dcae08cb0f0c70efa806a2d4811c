@@ -1,0 +1,7 @@
+d97e99386ad0 ("audit: add header protection to kernel/audit.h")
+ce423631ce1f ("audit: track the owner of the command mutex ourselves")
+b6c7c115c2ce ("audit: store the auditd PID as a pid struct instead of pid_t")
+45a0642b4d02 ("audit: kernel generated netlink traffic should have a portid of 0")
+a9d162087774 ("audit: combine audit_receive() and audit_receive_skb()")
+5b52330bbfe6 ("audit: fix auditd/kernel connection state tracking")
+dcdaa2f9480c ("Merge branch 'stable-4.10' of git://git.infradead.org/users/pcmoore/audit")

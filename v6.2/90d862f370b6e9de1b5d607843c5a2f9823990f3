@@ -1,0 +1,6 @@
+90d862f370b6 ("powerpc/bpf: use bpf_jit_binary_pack_[alloc|finalize|free]")
+de04e40600ae ("powerpc/bpf: rename powerpc64_jit_data to powerpc_jit_data")
+033ffaf0af1f ("powerpc/bpf: implement bpf_arch_text_invalidate for bpf_prog_pack")
+6efc1675acb8 ("powerpc/bpf: implement bpf_arch_text_copy")
+d3921cbb6cd6 ("powerpc/bpf: Only pad length-variable code at initial pass")
+85e031154c7c ("powerpc/bpf: Perform complete extra passes to update addresses")

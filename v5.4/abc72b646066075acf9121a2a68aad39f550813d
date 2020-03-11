@@ -1,0 +1,6 @@
+abc72b646066 ("remoteproc: coredump: Add minidump functionality")
+2c010cc378cd ("remoteproc: Move coredump functionality to a new file")
+418fd7877122 ("remoteproc: add rproc_coredump_set_elf_info")
+c0abe2ca3605 ("remoteproc: Traverse rproc_list under RCU read lock")
+8f4033507d85 ("remoteproc: Adapt coredump to generate correct elf type")
+73516a33588c ("remoteproc: Add elf helpers to access elf64 and elf32 fields")

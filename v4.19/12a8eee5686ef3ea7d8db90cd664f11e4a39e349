@@ -1,0 +1,4 @@
+12a8eee5686e ("KVM: Move x86 VMX's posted interrupt list_head to vcpu_vmx")
+e6eec09b7bc7 ("KVM: Drop unused kvm_vcpu.pre_pcpu field")
+d76fb40637fc ("KVM: VMX: Handle PI descriptor updates during vcpu_put/load")
+4f5a884fc212 ("Merge branch 'kvm-pi-raw-spinlock' into HEAD")

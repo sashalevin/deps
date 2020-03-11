@@ -1,0 +1,7 @@
+e184e8609f8c ("net: sfp: re-implement ignoring the hardware TX_FAULT signal")
+1974fd3bf0f0 ("net: sfp: change st_mutex locking")
+97a492050aa5 ("net: sfp: move sm_mutex into sfp_check_state()")
+a9fe964e7aae ("net: sfp: swap order of rtnl and st_mutex locks")
+d47e5a430dfd ("net: sfp: move rtnl lock to cover reading state")
+418c1214741c ("net: sfp: add helper to modify signal states")
+f94b9bed12e8 ("net: sfp: add A2h presence flag")

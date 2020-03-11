@@ -1,0 +1,6 @@
+50cc18fcd305 ("PCI/AER: Write AER Capability only when we control it")
+07b2fbb565e2 ("PCI/AER: Use "aer" variable for capability offset")
+af10cce7ad51 ("PCI/AER: Remove redundant dev->aer_cap checks")
+123f985aea0d ("PCI/AER: Remove redundant pci_is_pcie() checks")
+708b20003624 ("PCI/AER: Remove HEST/FIRMWARE_FIRST parsing for AER ownership")
+c100beb9ccfb ("PCI/AER: Use only _OSC to determine AER ownership")

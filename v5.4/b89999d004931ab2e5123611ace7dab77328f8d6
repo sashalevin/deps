@@ -1,0 +1,6 @@
+b89999d00493 ("fs/kernel_read_file: Split into separate include file")
+06e67b849ab9 ("fs/kernel_read_file: Remove FIRMWARE_EFI_EMBEDDED enum")
+c307459b9d1f ("fs/kernel_read_file: Remove FIRMWARE_PREALLOC_BUFFER enum")
+e4c2c0ff00ec ("firmware: Add new platform fallback mechanism and firmware_request_platform()")
+901cff7cb961 ("firmware_loader: load files from the mount namespace of init")
+85db1cde8253 ("firmware: Rename FW_OPT_NOFALLBACK to FW_OPT_NOFALLBACK_SYSFS")

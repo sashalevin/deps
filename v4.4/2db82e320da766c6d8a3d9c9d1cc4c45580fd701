@@ -1,0 +1,5 @@
+2db82e320da7 ("staging: iio: adc: ad7192: use driver private lock to protect hardware state changes")
+9d1548143faf ("staging: iio: ad7192: rename regulator 'reg' to 'avdd'")
+cb8bb16caf42 ("staging: iio: ad7192: add DVdd regulator")
+3925ff0fcba7 ("staging: iio: rework regulator handling")
+c834e1718aae ("staging: iio: set proper supply name to devm_regulator_get()")

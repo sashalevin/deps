@@ -1,0 +1,8 @@
+c6790dc22312 ("drm/i915: Wean off drm_pci_alloc/drm_pci_free")
+ef78f7b18726 ("drm/i915: Use drm_gem_object.resv")
+6501aa4e3a45 ("drm/i915: add in-kernel blitter client")
+3f43c8767ed7 ("drm/i915: Move GEM object busy checking to its own file")
+d45a1a533499 ("drm/i915: Move GEM object waiting to its own file")
+6951e5893b48 ("drm/i915: Move GEM object domain management from struct_mutex to local")
+37d63f8fdb49 ("drm/i915: Pull scatterlist utils out of i915_gem.h")
+10be98a77c55 ("drm/i915: Move more GEM objects under gem/")

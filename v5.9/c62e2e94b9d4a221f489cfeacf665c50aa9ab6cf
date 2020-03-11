@@ -1,0 +1,8 @@
+c62e2e94b9d4 ("KVM: SVM: Modify 64 bit intercept field to two 32 bit vectors")
+9780d51dc2af ("KVM: SVM: Modify intercept_exceptions to generic intercepts")
+30abaa88382c ("KVM: SVM: Change intercept_dr to generic intercepts")
+03bfeeb988a9 ("KVM: SVM: Change intercept_cr to generic intercepts")
+c45ad7229d13 ("KVM: SVM: Introduce vmcb_(set_intercept/clr_intercept/_is_intercept)")
+a90c1ed9f11d ("KVM: nSVM: Remove unused field")
+0dd16b5b0c9b ("KVM: nSVM: rename nested vmcb to vmcb12")
+bf3c0e5e7102 ("Merge branch 'x86-seves-for-paolo' of https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip into HEAD")

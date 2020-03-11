@@ -1,0 +1,3 @@
+337684a1746f ("fs: return EPERM on immutable inode")
+0bd23d09b874 ("vfs: Don't modify inodes with a uid or gid unknown to the vfs")
+a475acf01f79 ("fs: Refuse uid/gid changes which don't map into s_user_ns")

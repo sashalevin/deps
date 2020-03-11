@@ -1,0 +1,5 @@
+95246d1ec80b ("sched/pelt: Relax the sync of runnable_sum with runnable_avg")
+1c35b07e6d39 ("sched/fair: Ensure _sum and _avg values stay consistent")
+fcf6631f3736 ("sched/pelt: Ensure that *_sum is always synced with *_avg")
+87e867b4269f ("sched/pelt: Cleanup PELT divider")
+95d685935a2e ("sched/pelt: Sync util/runnable_sum with PELT window when propagating")

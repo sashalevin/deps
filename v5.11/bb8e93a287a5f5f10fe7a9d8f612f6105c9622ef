@@ -1,0 +1,5 @@
+bb8e93a287a5 ("arm64: entry: convert SError handlers to C")
+f7c706f0391d ("arm64: entry: unmask IRQ+FIQ after EL0 handling")
+4d6a38da8e79 ("arm64: entry: always set GIC_PRIO_PSR_I_SET during entry")
+f0098155d337 ("arm64: Always keep DAIF.[IF] in sync")
+9eb563cdabe1 ("arm64: entry: factor irq triage logic into macros")

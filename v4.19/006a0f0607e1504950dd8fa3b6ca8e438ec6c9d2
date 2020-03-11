@@ -1,0 +1,6 @@
+006a0f0607e1 ("KVM: x86: avoid out of bounds indices for fixed performance counters")
+e61ab2a320c3 ("KVM: x86/pmu: Fix UBSAN shift-out-of-bounds warning in intel_pmu_refresh()")
+66061740f1a4 ("KVM: x86: Protect pmu_intel.c from Spectre-v1/L1TF attacks")
+e1fba49cc1e9 ("kvm: vmx: Limit guest PMCs to those supported on the host")
+0e6f467ee28e ("KVM: x86/pmu: mask the result of rdpmc according to the width of the counters")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")

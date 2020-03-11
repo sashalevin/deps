@@ -1,0 +1,5 @@
+a7761fe48993 ("powerpc/8xx: rewrite set_context() in C")
+63e9e1c28fa6 ("powerpc/8xx: remove special handling of CPU6 errata in set_dec()")
+516d91893b54 ("powerpc/8xx: move setup_initial_memory_limit() into 8xx_mmu.c")
+a372acfac51e ("powerpc/8xx: Map linear kernel RAM with 8M pages")
+913a6b3d10d8 ("powerpc/8xx: Save r3 all the time in DTLB miss handler")

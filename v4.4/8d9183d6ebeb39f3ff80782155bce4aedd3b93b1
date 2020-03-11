@@ -1,0 +1,5 @@
+8d9183d6ebeb ("s390/qeth: use ip*_eth_mc_map helpers")
+bc3ab7058469 ("s390/qeth: fix thinko in IPv4 multicast address tracking")
+6bee4e26a39c ("s390/qeth: improve endianness handling")
+70deb01662b1 ("qeth: omit outbound queue 3 for unicast packets in Priority Queuing on HiperSockets")
+5f78e29ceebf ("qeth: optimize IP handling in rx_mode callback")

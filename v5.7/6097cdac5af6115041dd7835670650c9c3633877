@@ -1,0 +1,8 @@
+6097cdac5af6 ("drm/i915/pmu: Use local64_try_cmpxchg in i915_pmu_event_read")
+b00bccb3f0bb ("drm/i915/pmu: Handle PCI unbind")
+df3ab3cb7eae ("drm/i915: Provide the perf pmu.module")
+bf07f6ebffef ("drm/i915/pmu: Prefer drm_WARN_ON over WARN_ON")
+3b55cdeb8f1b ("drm/i915/pmu: Keep a reference to module while active")
+426d0073fb6d ("drm/i915/gt: Always enable busy-stats for execlists")
+cbfd3a0c5a55 ("drm/i915/selftests: Add request throughput measurement to perf")
+2386b492ded4 ("drm/i915: Prefer '%ps' for printing function symbol names")

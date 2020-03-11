@@ -1,0 +1,7 @@
+5febf6d6ae4d ("scsi: Replace zero-length array with flexible-array member")
+075c2b6bf654 ("scsi: use __u{8,16,32,64} instead of uint{8,16,32,64}_t in uapi headers")
+3a0a529971ec ("block, scsi: Make SCSI quiesce and resume work reliably")
+c9254f2ddb19 ("block: Add the QUEUE_FLAG_PREEMPT_ONLY request queue flag")
+055f6e18e08f ("block: Make q_usage_counter also track legacy requests")
+f421e1d9ade4 ("block: provide a direct_make_request helper")
+a0725ab0c753 ("Merge branch 'for-4.14/block' of git://git.kernel.dk/linux-block")

@@ -1,0 +1,3 @@
+944ee77dc6ec ("HID: hidraw: fix data race on device refcount")
+8590222e4b02 ("HID: hidraw: Replace hidraw device table mutex with a rwsem")
+cc7ed49a7f39 ("HID: hidraw: enforce minors_lock locking via lockdep")

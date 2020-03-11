@@ -1,0 +1,8 @@
+ffe843b18211 ("dmaengine: dw: Fix FIFO size for Intel Merrifield")
+199244d69458 ("dmaengine: dw: add support of iDMA 32-bit hardware")
+2d248812aa14 ("dmaengine: dw: introduce block2bytes() and bytes2block()")
+f4aa3183c36d ("dmaengine: dw: extract dwc_chan_pause() for future use")
+be242f4e2e55 ("dmaengine: dw: replace convert_burst() with one liner")
+08d62f58aa25 ("dmaengine: dw: register IRQ and DMA pool with instance ID")
+a46a7634017a ("dmaengine: dw: Fix data corruption in large device to memory transfers")
+bd2c6636cc59 ("dmaengine: DW DMAC: add multi-block property to device tree")

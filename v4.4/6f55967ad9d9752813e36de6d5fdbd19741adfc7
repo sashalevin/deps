@@ -1,0 +1,5 @@
+6f55967ad9d9 ("perf/x86/intel: Fix race in intel_pmu_disable_event()")
+4f08b6255adb ("perf/x86/intel: Support PEBS on fixed counters")
+ceb90d9e0248 ("perf/x86/intel: Fix PMU read for auto-reload")
+68f7082ffb05 ("perf/x86: Ensure perf_sched_cb_{inc,dec}() is only called from pmu::{add,del}()")
+09e61b4f7849 ("perf/x86/intel: Rework the large PEBS setup code")

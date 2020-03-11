@@ -1,0 +1,8 @@
+027d052a36e5 ("drm/msm: fix potential NULL dereference in cleanup")
+bd0b8e9f9c3c ("drm/msm: Drop submit bo_list")
+be40596bb5cf ("drm/msm: Consolidate submit bo state")
+030af2b05aee ("drm/msm: drop drm_gem_object_put_locked()")
+298287f6e79a ("drm/msm: Signal fences sooner")
+e25e92e08e32 ("drm/msm: devcoredump iommu fault support")
+2a574cc05d38 ("drm/msm: Improve the a6xx page fault handler")
+a5fc7aa901b6 ("drm/msm: replace MSM_BO_UNCACHED with MSM_BO_WC for internal objects")

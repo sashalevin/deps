@@ -1,0 +1,8 @@
+c8a67729b8a3 ("KVM: arm64: Remove pointless check for changed init target")
+a7a2c72ae014 ("KVM: arm64: Separate out feature sanitisation and initialisation")
+6b7982fefc1f ("KVM: arm64: Drop check_kvm_target_cpu() based percpu probe")
+bf249d9e362f ("KVM: arm64: Drop init_common_resources()")
+bfa79a805454 ("KVM: arm64: Elevate hypervisor mappings creation at EL2")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")
+9cc7758145fd ("KVM: arm64: Initialize kvm_nvhe_init_params early")

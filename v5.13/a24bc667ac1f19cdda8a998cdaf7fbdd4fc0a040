@@ -1,0 +1,6 @@
+a24bc667ac1f ("tty: move ldisc prototypes to tty_ldisc.h")
+f6f19595a7ef ("tty: return void from tty_unregister_ldisc")
+194752093311 ("tty: drop tty_ldisc_ops::refcount")
+f81ee8b8b842 ("tty: make tty_ldisc_ops a param in tty_unregister_ldisc")
+839e0f226d1c ("n_gsm: use goto-failpaths in gsm_init")
+fbadf70a8053 ("tty: set tty_ldisc_ops::num statically")

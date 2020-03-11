@@ -1,0 +1,5 @@
+e963b7a28b2b ("powerpc/vdso32: Fallback on getres syscall when clock is unknown")
+e33ffc956b08 ("powerpc/vdso32: implement clock_getres entirely")
+552263456215 ("powerpc: Fix vDSO clock_getres()")
+176ed98c8a76 ("y2038: vdso: powerpc: avoid timespec references")
+ddccf40fe82b ("y2038: vdso: change timeval to __kernel_old_timeval")

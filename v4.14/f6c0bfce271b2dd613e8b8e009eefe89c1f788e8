@@ -1,0 +1,7 @@
+f6c0bfce271b ("iommu/amd: Take domain->lock for complete attach/detach path")
+3a11905b69eb ("iommu/amd: Remove amd_iommu_devtable_lock")
+0b15e02f0cc4 ("iommu/amd: Wait for completion of IOTLB flush in attach_device")
+f1a066fcc972 ("iommu/amd: Remove redundant WARN_ON()")
+ea3fd04028cb ("iommu/amd: Prevent possible null pointer dereference and infinite loop")
+2cd1083d79a0 ("iommu/amd: Make amd_iommu_devtable_lock a spin_lock")
+2bc001808904 ("iommu/amd: Split domain id out of amd_iommu_devtable_lock")

@@ -1,0 +1,3 @@
+9f455eeafde3 ("block/rnbd-clt: Replace {NO_WAIT,WAIT} with RTRS_PERMIT_{WAIT,NOWAIT}")
+9aaf9a2aba0c ("block/rnbd-clt: Does not request pdu to rtrs-clt")
+47be77c2f804 ("block/rnbd-clt: send_msg_close if any error occurs after send_msg_open")

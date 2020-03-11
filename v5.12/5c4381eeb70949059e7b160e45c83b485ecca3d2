@@ -1,0 +1,5 @@
+5c4381eeb709 ("drm/panel: panel-simple: Get rid of hacky HPD chicken-and-egg code")
+3235b0f20a0a ("drm/panel: panel-simple: Use runtime pm to avoid excessive unprepare / prepare")
+87b497179f5c ("drm/panel-simple: Retry if we timeout waiting for HPD")
+6ec52621e77c ("drm/panel-simple: Don't wait longer for HPD than hpd_absent_delay")
+5e7222a3674e ("drm/panel-simple: Undo enable if HPD never asserts")

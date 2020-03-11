@@ -1,0 +1,6 @@
+b30289e7fa92 ("ASoC: SOF: Fix runtime pm usage counter balance after fw exception")
+3de975862f98 ("ASoC: SOF: debug: conditionally bump runtime_pm counter on exceptions")
+12b401f4de78 ("ASoC: SOF: Use sof_debug_check_flag() instead of sof_core_debug directly")
+f902b21adba9 ("ASoC: SOF: core: Add simple wrapper to check flags in sof_core_debug")
+5b59289bfdbe ("ASoC: SOF: core: Unregister machine driver before IPC and debugfs")
+1cfd7c2ee9f3 ("Merge series "ASoC: SOF: Improvements for debugging" from Peter Ujfalusi <peter.ujfalusi@linux.intel.com>:")

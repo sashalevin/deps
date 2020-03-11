@@ -1,0 +1,3 @@
+a2ebb5157582 ("mm/page_alloc: use write_seqlock_irqsave() instead write_seqlock() + local_irq_save().")
+1007843a9190 ("mm/page_alloc: fix potential deadlock on zonelist_update_seq seqlock")
+3d36424b3b58 ("mm/page_alloc: fix race condition between build_all_zonelists and page allocation")

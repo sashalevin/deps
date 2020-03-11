@@ -1,0 +1,5 @@
+fb353ff19d34 ("xfs: reserve quota inode transaction space only when needed")
+253f4911f297 ("xfs: better xfs_trans_alloc interface")
+273dda76f757 ("xfs: don't use ioends for direct write completions")
+187372a3b9fa ("direct-io: always call ->end_io if non-NULL")
+3b0fe4780580 ("xfs: Don't use reserved blocks for data blocks with DAX")

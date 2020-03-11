@@ -1,0 +1,5 @@
+5663d8f9bbe4 ("kvm: x86: fix WARN due to uninitialized guest FPU state")
+20b7035c66ba ("KVM: Let KVM_SET_SIGNAL_MASK work as advertised")
+2ce03d850b9a ("x86/fpu: Rename fpu__activate_curr() to fpu__initialize()")
+a10b6a16cdad ("x86/fpu: Make the fpu state change in fpu__clear() scheduler-atomic")
+c24a7be2110d ("Merge tag 'kvm-arm-for-v4.12' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

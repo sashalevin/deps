@@ -1,0 +1,6 @@
+8708b1076047 ("cifs: change smb2_query_info_compound to use a cached fid, if available")
+5e0c969e9ed2 ("cifs: convert the path to utf16 in smb2_query_info_compound")
+352d96f3acc6 ("cifs: multichannel: move channel selection above transport layer")
+5f68ea4aa98b ("cifs: multichannel: move channel selection in function")
+b2ca6c2c9edd ("cifs: move some variables off the stack in smb2_ioctl_query_info")
+a7d5c2946280 ("cifs: reduce stack use in smb2_compound_op")

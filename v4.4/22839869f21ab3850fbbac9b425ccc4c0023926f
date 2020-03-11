@@ -1,0 +1,6 @@
+22839869f21a ("signal: Introduce COMPAT_SIGMINSTKSZ for use in compat_sys_sigaltstack")
+bcfe8ad8ef55 ("do_sigaltstack(): lift copying to/from userland into callers")
+0318bc8a919d ("signals/sigaltstack: Report current flag bits in sigaltstack()")
+19fd2868e367 ("selftests/sigaltstack: Add new testcase for sigaltstack(SS_ONSTACK|SS_AUTODISARM)")
+2a7421383810 ("signals/sigaltstack: Implement SS_AUTODISARM flag")
+407bc16ad176 ("signals/sigaltstack: Prepare to add new SS_xxx flags")

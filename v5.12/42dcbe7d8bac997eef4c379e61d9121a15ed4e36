@@ -1,0 +1,7 @@
+42dcbe7d8bac ("KVM: x86: hyper-v: Avoid writing to TSC page without an active vCPU")
+45e6c2fac097 ("KVM: x86: extract KVM_GET_CLOCK/KVM_SET_CLOCK to separate functions")
+6b6fcd2804a2 ("kvm: x86: abstract locking around pvclock_update_vm_gtod_copy")
+94c245a245ff ("KVM: x86: Identify vCPU0 by its vcpu_idx instead of its vCPUs array entry")
+b4128000e2c9 ("KVM: x86: hyper-v: Prepare to check access to Hyper-V MSRs")
+7d62874f69d7 ("kvm: x86: implement KVM PM-notifier")
+da6d63a0062a ("KVM: X86: hyper-v: Task srcu lock when accessing kvm_memslots()")

@@ -1,0 +1,6 @@
+be3618d96510 ("net/sched: taprio: fix slab-out-of-bounds Read in taprio_dequeue_from_txq")
+2f530df76c8c ("net/sched: taprio: give higher priority to higher TCs in software dequeue mode")
+92f966674f6a ("net/sched: taprio: refactor one skb dequeue from TXQ to separate function")
+1638bbbe4ece ("net/sched: taprio: continue with other TXQs if one dequeue() failed")
+522d15ea831f ("net/sched: taprio: only pass gate mask per TXQ for igc, stmmac, tsnep, am65_cpsw")
+09c794c0a88d ("net/sched: taprio: pass mqprio queue configuration to ndo_setup_tc()")

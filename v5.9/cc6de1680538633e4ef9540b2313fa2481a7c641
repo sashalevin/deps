@@ -1,0 +1,4 @@
+cc6de1680538 ("memblock: use separate iterators for memory and reserved regions")
+9f3d5eaa3c60 ("memblock: implement for_each_reserved_mem_region() using __next_mem_region()")
+6e245ad4a17a ("memblock: reduce number of parameters in for_each_mem_range()")
+cd991db8ddc3 ("memblock: make for_each_memblock_type() iterator private")

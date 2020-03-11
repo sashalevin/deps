@@ -1,0 +1,5 @@
+2df4a5eb6c5a ("KVM: X86: Remove mmu parameter from load_pdptrs()")
+e63f315d74ee ("KVM: X86: Move CR0 pdptr_bits into header file as X86_CR0_PDPTR_BITS")
+a37ebdce168f ("KVM: VMX: Add and use X86_CR4_PDPTR_BITS when !enable_ept")
+5ec60aad547f ("KVM: VMX: Add and use X86_CR4_TLBFLUSH_BITS when !enable_ept")
+40e49c4f5fb0 ("KVM: SVM: Track dirtiness of PDPTRs even if NPT is disabled")

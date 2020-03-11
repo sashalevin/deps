@@ -1,0 +1,8 @@
+c2a6af5e08c2 ("iommu/amd: Remove unused GCR3 table parameters from struct protection_domain")
+fda5108ebafe ("iommu/amd: Introduce struct protection_domain.pd_mode")
+c7fc12354be0 ("iommu/amd/pgtbl_v2: Invalidate updated page ranges only")
+bbf85fe10faa ("iommu/amd: Refactor device iotlb invalidation code")
+4f0a60079923 ("iommu/amd: Refactor IOMMU tlb invalidation code")
+cf62924daf9f ("iommu/amd: Add support to invalidate multiple guest pages")
+a976da66e8e5 ("iommu/amd: Remove redundant passing of PDE bit")
+4bbdb725a36b ("Merge tag 'iommu-updates-v6.7' of git://git.kernel.org/pub/scm/linux/kernel/git/joro/iommu")

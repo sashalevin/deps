@@ -1,0 +1,7 @@
+078e4cf5dbed ("btrfs: use __bio_add_page for adding a single page in repair_one_sector")
+0d3acb25e70d ("btrfs: rename btrfs_bio::iter field")
+7609afac6775 ("btrfs: handle checksum validation and repair at the storage layer")
+1c2b3ee3b0ec ("btrfs: pre-load data checksum for reads in btrfs_submit_bio")
+7276aa7d3825 ("btrfs: save the bio iter for checksum validation in common code")
+4ae2edf12d49 ("btrfs: simplify parameters of btrfs_lookup_bio_sums")
+5fa356531e33 ("btrfs: remove the direct I/O read checksum lookup optimization")

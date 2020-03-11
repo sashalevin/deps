@@ -1,0 +1,5 @@
+56537faf8821 ("powerpc: fix unbalanced node refcount in check_kvm_guest()")
+95839225639b ("powerpc: Fix is_kvm_guest() / kvm_para_available()")
+a21d1becaa3f ("powerpc: Reintroduce is_kvm_guest() as a fast-path check")
+16520a858a99 ("powerpc: Rename is_kvm_guest() to check_kvm_guest()")
+92cc6bf01c7f ("powerpc: Refactor is_kvm_guest() declaration to new header")

@@ -1,0 +1,6 @@
+0dbc1b4ae07d ("vdpa/mlx5: Avoid using reslock in event_handler")
+cae15c2ed8e6 ("vdpa/mlx5: Implement susupend virtqueue callback")
+1892a3d425bf ("vdpa/mlx5: Add support for reading descriptor statistics")
+acde3929492b ("vdpa/mlx5: Use consistent RQT size")
+55ebf0d60e3c ("vdpa: mlx5: prevent cvq work from hogging CPU")
+ad6dc1daaf29 ("vdpa/mlx5: Avoid processing works if workqueue was destroyed")

@@ -1,0 +1,8 @@
+7b24dacf0840 ("NFS: Another inode revalidation improvement")
+6f9be83d0761 ("NFS: Use information about the change attribute to optimise updates")
+36a9346c2252 ("NFS: Don't set NFS_INO_REVAL_PAGECACHE in the inode cache validity")
+b6f80a2ebb97 ("NFS: Fix open coded versions of nfs_set_cache_invalid() in NFSv4")
+848fdd62399c ("NFS: Don't set NFS_INO_INVALID_XATTR if there is no xattr cache")
+16abd2a0c124 ("NFSv4.2: fix client's attribute cache management for copy_file_range")
+0f44da51aeef ("nfs: define and use the NFS_INO_INVALID_XATTR flag")
+1b523ca972ed ("nfs: modify update_changeattr to deal with regular files")

@@ -1,0 +1,4 @@
+88b72b31e15f ("proc: Consolidate task->comm formatting into proc_task_name()")
+d0f02231222b ("proc: replace seq_printf by seq_put_smth to speed up /proc/pid/status")
+68c3411ff4a4 ("proc: get rid of task lock/unlock pair to read umask for the "status" file")
+c643401218be ("proc, coredump: add CoreDumping flag to /proc/pid/status")

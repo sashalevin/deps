@@ -1,0 +1,8 @@
+b96ed2c97c79 ("virtio_net: move netdev_tx_reset_queue() call before RX napi enable")
+c8bd1f7f3e61 ("virtio_net: add support for Byte Queue Limits")
+c39add9b2423 ("virtio_net: Add TX stopped and wake counters")
+d888f04c09bb ("virtio-net: support queue stat")
+d806e1ff79e6 ("virtio_net: add the total stats field")
+d86769b9d23c ("virtio_net: device stats helpers support driver stats")
+941168f8b40e ("virtio_net: support device stats")
+de6df26ffced ("virtio_net: remove "_queue" from ethtool -S")

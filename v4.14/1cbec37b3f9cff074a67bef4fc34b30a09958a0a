@@ -1,0 +1,4 @@
+1cbec37b3f9c ("x86/entry/32: Fix ENDPROC of common_spurious")
+f8a8fe61fec8 ("x86/irq: Seperate unused system vectors from spurious entry again")
+336628128826 ("x86/idt: Simplify the idt_setup_apic_and_irq_gates()")
+7854f82293e9 ("x86/vector: Rename used_vectors to system_vectors")

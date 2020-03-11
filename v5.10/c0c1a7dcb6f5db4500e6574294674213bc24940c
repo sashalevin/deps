@@ -1,0 +1,8 @@
+c0c1a7dcb6f5 ("init: move the nfs/cifs/ram special cases out of name_to_dev_t")
+07d63cbb67cd ("init: handle ubi/mtd root mounting like all other root types")
+73231b58b1b4 ("init: don't remove the /dev/ prefix from error messages")
+c8643c72bc42 ("init: pass root_device_name explicitly")
+a6a41d39c2d9 ("init: refactor mount_root")
+e3102722ffe7 ("init: rename mount_block_root to mount_root_generic")
+f9259be6a9e7 ("init: allow mounting arbitrary non-blockdevice filesystems as root")
+c2637e80a09e ("init: refactor name_to_dev_t")

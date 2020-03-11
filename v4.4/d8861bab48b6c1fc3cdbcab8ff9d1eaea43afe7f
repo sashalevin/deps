@@ -1,0 +1,7 @@
+d8861bab48b6 ("gianfar: fix jumbo packets+napi+rx overrun crash")
+d903ec77118c ("gianfar: simplify FCS handling and fix memory leak")
+202a0a70e445 ("gianfar: prevent integer wrapping in the rx handler")
+6c389fc931bc ("gianfar: fix size of scatter-gathered frames")
+4c4a6b0e8fa2 ("net: ethernet: gianfar: use phydev from struct net_device")
+0d1bcdc74fb9 ("net: ethernet: gianfar: move to new ethtool api {get|set}_link_ksettings")
+3f8c0f7efb4f ("gianfar: use of_property_read_bool()")

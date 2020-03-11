@@ -1,0 +1,6 @@
+db01416b22d9 ("KVM: x86/mmu: Formalize TDP MMU's (unintended?) deferred TLB flush logic")
+e27bc0440ebd ("KVM: x86: Rename kvm_x86_ops pointers to align w/ preferred vendor names")
+fc4fad79fc3d ("KVM: VMX: Reject KVM_RUN if emulation is required with pending exception")
+c5063551bfca ("KVM: x86: Always set kvm_run->if_flag")
+40e5f9080472 ("KVM: nVMX: Abide to KVM_REQ_TLB_FLUSH_GUEST request on nested vmentry/vmexit")
+d7e0a795bf37 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

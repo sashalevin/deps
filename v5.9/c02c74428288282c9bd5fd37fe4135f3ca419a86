@@ -1,0 +1,6 @@
+c02c74428288 ("KVM: selftests: Use error codes to signal errors in PMU event filter test")
+a2d5d774919e ("KVM: selftests: Convert pmu_event_filter_test away from VCPU_ID")
+c41ef29cc1d4 ("selftests: kvm/x86: Verify the pmu event filter matches the correct event")
+20e416720e74 ("KVM: selftests: Verify disabling PMU virtualization via KVM_CAP_CONFIG_PMU")
+bef9a701f3eb ("selftests: kvm/x86: Add test for KVM_SET_PMU_EVENT_FILTER")
+3df2252436c0 ("selftests: kvm: add set_boot_cpu_id test")

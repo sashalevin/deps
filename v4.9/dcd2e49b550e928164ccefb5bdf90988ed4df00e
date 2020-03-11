@@ -1,0 +1,6 @@
+dcd2e49b550e ("usb: remove third argument of usb_maxpacket()")
+61ef1709ee60 ("usb: isp1760: remove redundant max_packet() macro")
+7f1697b1a5e8 ("usb: oxu210hp-hcd: remove redundant call to max_packet() macro")
+c2e898764245 ("usb: host: fotg210: fix the endpoint's transactional opportunities calculation")
+8437ab99a683 ("usb: host: ehci: remove unnecessary max_packet() macro")
+e3b89080f2c5 ("usb: host: ehci: make use of new usb_endpoint_maxp_mult()")

@@ -1,0 +1,8 @@
+3b7436cc9449 ("md: make sure desc_nr less than MD_SB_DISKS")
+228fc7d76db6 ("md: avoid invalid memory access for array sb->dev_roles")
+6a5cb53aaa4e ("md: no longer compare spare disk superblock events in super_load")
+33f2c35a54df ("md: add feature flag MD_FEATURE_RAID0_LAYOUT")
+c84a1372df92 ("md/raid0: avoid RAID0 data corruption due to layout confusion.")
+62f7b1989c02 ("md raid0/linear: Mark array as 'broken' and fail BIOs if a member is gone")
+9d4b45d6af44 ("md: don't report active array_state until after revalidate_disk() completes.")
+35bfc52187f6 ("md: allow metadata update while suspending.")

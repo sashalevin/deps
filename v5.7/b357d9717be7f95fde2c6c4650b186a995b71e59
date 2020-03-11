@@ -1,0 +1,8 @@
+b357d9717be7 ("ice: Only lock to update netdev dev_addr")
+3ba7f53f8bf1 ("ice: don't remove netdev->dev_addr from uc sync list")
+13ed5e8a9b9c ("ice: update dev_addr in ice_set_mac_address even if HW filter exists")
+757976ab16be ("ice: Fix check for removing/adding mac filters")
+1b8f15b64a00 ("ice: refactor filter functions")
+0fee35774d8f ("ice: Provide more meaningful error message")
+01b5e89aab49 ("ice: Add VF promiscuous support")
+a4e82a81f573 ("ice: Add support for tunnel offloads")

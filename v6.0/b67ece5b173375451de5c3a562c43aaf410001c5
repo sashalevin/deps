@@ -1,0 +1,5 @@
+b67ece5b1733 ("drm/xe: Call drmm_add_action_or_reset() early in xe_device_create()")
+38c04b47cec8 ("drm/xe: Use atomic instead of mutex for xe_device_mem_access_ongoing")
+3ea9f1f1f699 ("drm/xe/device: Prefer the drm-managed mutex_init")
+09a68b4a76e3 ("drm/xe: Convert memory device refcount to s32")
+dd08ebf6c352 ("drm/xe: Introduce a new DRM driver for Intel GPUs")

@@ -1,0 +1,8 @@
+e2b36d591720 ("powerpc/64: Don't trace code that runs with the soft irq mask unreconciled")
+9b81c0211c24 ("powerpc/64s: make PACA_IRQ_HARD_DIS track MSR[EE] closely")
+7b08729cb272 ("powerpc/64: Save stack pointer when we hard disable interrupts")
+e70d8f55268b ("powerpc/xmon: Add __printf annotation to xmon_printf()")
+6671683db854 ("powerpc/xmon: Specify the full format in DUMP() macro")
+6cc3f91bf69f ("powerpc/64s: Fix may_hard_irq_enable() for PMI soft masking")
+bdcb1aefc5b3 ("powerpc/64s: Improve RFI L1-D cache flush fallback")
+ebf0b6a8b1e4 ("Merge branch 'fixes' into next")

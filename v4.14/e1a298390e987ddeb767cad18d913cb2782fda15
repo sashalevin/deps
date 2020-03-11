@@ -1,0 +1,7 @@
+e1a298390e98 ("xhci: use xhci_td_cleanup() helper when giving back cancelled URBs")
+69eaf9e79fa7 ("xhci: move xhci_td_cleanup so it can be called by more functions")
+d8ac95001bea ("xhci: Add xhci_reset_halted_ep() helper function")
+d70f4231b81e ("xhci: adjust parameters passed to cleanup_halted_endpoint()")
+ab58f3bb6aaa ("xhci: Avoid parsing transfer events several times")
+df561f6688fe ("treewide: Use fallthrough pseudo-keyword")
+37711e5e2325 ("Merge tag 'nfs-for-5.9-1' of git://git.linux-nfs.org/projects/trondmy/linux-nfs")

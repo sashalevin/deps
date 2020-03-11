@@ -1,0 +1,8 @@
+bf9a95f9a648 ("powerpc: Free up four 64K PTE bits in 64K backed HPTE pages")
+9d2edb18486f ("powerpc: Free up four 64K PTE bits in 4K backed HPTE pages")
+59aa31fd6f96 ("powerpc: introduce pte_set_hidx() helper")
+6aa59f5162fc ("powerpc/mm: Move hash specific pte bits to be top bits of RPN")
+32789d382189 ("powerpc/mm: Define all PTE bits based on radix definitions.")
+f5bd0fdc0c74 ("powerpc/mm: Cleanup bits definition between hash and radix.")
+049d567af209 ("powerpc/mm: Introduce _PAGE_LARGE software pte bits")
+c05f69a3dc70 ("powerpc/64: get rid of MIN_HUGEPTE_SHIFT")

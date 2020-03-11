@@ -1,0 +1,4 @@
+23e89e8ee7be ("tcp: Don't drop SYN+ACK for simultaneous connect().")
+94062790aedb ("tcp: defer shutdown(SEND_SHUTDOWN) for TCP_SYN_RECV sockets")
+00d211a4ea6f ("bpf: tcp: Add bpf_skops_parse_hdr()")
+72be0fe6ba76 ("bpf: tcp: Add bpf_skops_established()")

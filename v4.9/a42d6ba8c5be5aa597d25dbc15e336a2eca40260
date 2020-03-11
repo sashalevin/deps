@@ -1,0 +1,7 @@
+a42d6ba8c5be ("powerpc/mm/book3s64/radix: Remove unused code.")
+047e6575aec7 ("powerpc/mm: Fixup tlbie vs mtpidr/mtlpidr ordering issue on POWER9")
+09ce98cacd51 ("powerpc/book3s64/radix: Rename CPU_FTR_P9_TLBIE_BUG feature flag")
+677733e296b5 ("powerpc/book3s64/mm: Don't do tlbie fixup for some hardware revisions")
+2275d7b5754a ("powerpc/64s/radix: introduce options to disable use of the tlbie instruction")
+99161de3a283 ("powerpc/64s/radix: tidy up TLB flushing code")
+9044adca782c ("Merge branch 'topic/ppc-kvm' into next")

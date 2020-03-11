@@ -1,0 +1,6 @@
+3ab33d6dc3e9 ("powerpc/smp: Optimize update_mask_by_l2")
+1f3a41810421 ("powerpc/smp: Stop passing mask to update_mask_by_l2")
+53516d4abacf ("powerpc/smp: Limit CPUs traversed to within a node.")
+f6606cfdfbcd ("powerpc/smp: Dont assume l2-cache to be superset of sibling")
+a05f0e5be4e8 ("powerpc/smp: Use nid as fallback for package_id")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")

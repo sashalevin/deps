@@ -1,0 +1,8 @@
+04a1b674d655 ("mlxsw: Remove unused port_type_set devlink op")
+706217c1ceb5 ("devlink: pass devlink_port to port_split / port_unsplit callbacks")
+49e83bbe8cc3 ("devlink: hold the instance lock in port_split / port_unsplit callbacks")
+162cca42920c ("eth: nfp: replace driver's "pf" lock with devlink instance lock")
+8a38f2cc968a ("eth: nfp: wrap locking assertions in helpers")
+8ae89cf454b0 ("mlxsw: core: Move basic trap group initialization from spectrum.c")
+74e0494d35ac ("mlxsw: core: Move basic_trap_groups_set() call out of EMAD init code")
+7aad5244f000 ("mlxsw: spectrum: Set basic trap groups from an array")

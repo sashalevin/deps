@@ -1,0 +1,5 @@
+765924e362d1 ("l2tp: don't close sessions in l2tp_tunnel_destruct()")
+f3c66d4e144a ("l2tp: prevent creation of sessions on terminated tunnels")
+9ee369a405c5 ("l2tp: initialise session's refcount before making it reachable")
+f00c854c965f ("net, l2tp: convert l2tp_session.ref_count from atomic_t to refcount_t")
+dbdbc73b4478 ("l2tp: fix duplicate session creation")

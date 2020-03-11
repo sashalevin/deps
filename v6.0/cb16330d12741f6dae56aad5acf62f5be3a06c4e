@@ -1,0 +1,7 @@
+cb16330d1274 ("fprobe: Pass return address to the handlers")
+2752741080f8 ("fprobe: add recursion detection in fprobe_exit_handler")
+39d954200bf6 ("fprobe: Skip exit_handler if entry_handler returns !0")
+7e7ef1bfe552 ("lib/test_fprobe: Add a test case for nr_maxactive")
+34cabf8fd18f ("lib/test_fprobe: Add private entry_data testcases")
+76d0de5729c0 ("fprobe: Pass entry_data to handlers")
+c09eb2e578eb ("bpf: Adjust kprobe_multi entry_ip for CONFIG_X86_KERNEL_IBT")

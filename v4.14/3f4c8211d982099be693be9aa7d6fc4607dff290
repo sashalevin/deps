@@ -1,0 +1,7 @@
+3f4c8211d982 ("x86/mm: Use mm_alloc() in poking_init()")
+4fc19708b165 ("x86/alternatives: Initialize temporary mm for patching")
+13585fa0668c ("fork: Provide a function for copying init_mm")
+e836673c9b49 ("x86/alternatives: Add text_poke_kgdb() to not assert the lock when debugging")
+0d02113b31b2 ("x86/mm: Fix a crash with kmemleak_scan()")
+9222f606506c ("x86/alternatives: Lockdep-enforce text_mutex in text_poke*()")
+958f338e96f8 ("Merge branch 'l1tf-final' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

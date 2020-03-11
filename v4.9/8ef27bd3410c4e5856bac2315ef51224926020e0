@@ -1,0 +1,8 @@
+8ef27bd3410c ("platform/x86: fujitsu-laptop: rename FUNC_RFKILL to FUNC_FLAGS")
+6942eabc140e ("platform/x86: fujitsu-laptop: replace "hotkey" with "laptop" in symbol names")
+9fc5cf6e14fc ("platform/x86: fujitsu-laptop: clearly denote backlight-related symbols")
+a28c7e93bf26 ("platform/x86: fujitsu-laptop: make hotkey handling functions more similar")
+29544f03e52b ("platform/x86: fujitsu-laptop: break up complex loop condition")
+2451d19d5d6a ("platform/x86: fujitsu-laptop: move keycode processing to separate functions")
+eb357cbaf701 ("platform/x86: fujitsu-laptop: decrease indentation in acpi_fujitsu_hotkey_notify()")
+a608a9d52fa4 ("platform/x86: fujitsu-laptop: use brightness_set_blocking for LED-setting callbacks")

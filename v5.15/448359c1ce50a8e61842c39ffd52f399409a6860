@@ -1,0 +1,8 @@
+448359c1ce50 ("drm/nouveau: replace drm_device* with nouveau_drm* as dev drvdata")
+961ae5f9807b ("drm/nouveau: handle pci/tegra drm_dev_{alloc, register} from common code")
+20d70de5823e ("drm/nouveau: move nouveau_drm_device_fini() above init()")
+aae4682e5d66 ("drm/fbdev-generic: Convert to fbdev-ttm")
+5f03a507b29e ("drm/nouveau: implement 1:1 scheduler - entity relationship")
+014f831abcb8 ("drm/nouveau: use GPUVM common infrastructure")
+0fa2db3bc749 ("drm/nouveau: Convert to platform remove callback returning void")
+3bf3e21c15d4 ("Merge drm/drm-next into drm-misc-next")

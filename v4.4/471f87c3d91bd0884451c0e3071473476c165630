@@ -1,0 +1,7 @@
+471f87c3d91b ("rcu: Make RCU CPU stall warnings use ->gp_seq")
+3caa973b7a26 ("rcu: Call touch_nmi_watchdog() while printing stall warnings")
+15fecf89e46a ("srcu: Abstract multi-tail callback list handling")
+630c7ed9ca06 ("rcu: Don't wake rcuc/X kthreads on NOCB CPUs")
+088e9d253d3a ("rcu: sysctl: Panic on RCU Stall")
+8c7c4829a81c ("rcu: Awaken grace-period kthread if too long since FQS")
+8bc6782fe20b ("Merge commit 'fixes.2015.02.23a' into core/rcu")

@@ -1,0 +1,5 @@
+1f52e67e5e7f ("khugepaged: recheck pmd after mmap_sem re-acquired")
+72695862529b ("mm, thp: make swapin readahead under down_read of mmap_sem")
+8a966ed746d6 ("mm: make swapin readahead to improve thp collapse rate")
+629d9d1cafbd ("mm: avoid uninitialized variable in tracepoint")
+7d2eba0557c1 ("mm: add tracepoint for scanning pages")

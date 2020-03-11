@@ -1,0 +1,6 @@
+5c86919455c1 ("smb: client: fix use-after-free in smb2_query_info_compound()")
+81ba10959970 ("smb: client: prevent new fids from being removed by laundromat")
+e95f3f744650 ("smb: client: make laundromat a delayed worker")
+2da338ff752a ("smb3: do not start laundromat thread when dir leases  disabled")
+238b351d0935 ("smb3: allow controlling length of time directory entries are cached with dir leases")
+d14de8067e3f ("cifs: Add a laundromat thread for cached directories")

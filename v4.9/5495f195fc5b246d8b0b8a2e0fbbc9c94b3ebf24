@@ -1,0 +1,5 @@
+5495f195fc5b ("btrfs: remove fs_info argument from update_dev_stat_item")
+9deae9689231 ("btrfs: Fix memory barriers usage with device stats counters")
+6bccf3ab1e1f ("btrfs: call functions that always use the same root with fs_info instead")
+5b4aacefb8fb ("btrfs: call functions that overwrite their root parameter with fs_info")
+62d1f9fe97dd ("btrfs: remove trivial helper btrfs_find_tree_block")

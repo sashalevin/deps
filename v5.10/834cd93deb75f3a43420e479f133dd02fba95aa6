@@ -1,0 +1,5 @@
+834cd93deb75 ("KVM: arm64: Use kvm_arch for stage 2 pgtable")
+7aef0cbcdcd0 ("KVM: arm64: Factor memory allocation out of pgtable.c")
+cc706a63894f ("KVM: arm64: Avoid free_page() in page-table allocator")
+694d071f8d85 ("KVM: arm64: Filter out the case of only changing permissions from stage-2 map path")
+8ed80051c8c3 ("KVM: arm64: Adjust partial code of hyp stage-1 map and guest stage-2 map")

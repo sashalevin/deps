@@ -1,0 +1,6 @@
+49b037acca8c ("sctp: use SCTP_FUTURE_ASSOC and add SCTP_CURRENT_ASSOC for SCTP_CONTEXT sockopt")
+f959fb442c35 ("sctp: add SCTP_DEFAULT_PRINFO into sctp sockopt")
+28aa4c26fce2 ("sctp: add SCTP_PR_SUPPORTED on sctp sockopt")
+d46e416c11c8 ("sctp: sctp should change socket state when shutdown is received")
+489ce5f441e4 ("sctp: consolidate local_bh_disable/enable + spin_lock/unlock to _bh variant")
+086c653f5862 ("sock: struct proto hash function may error")

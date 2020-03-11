@@ -1,0 +1,7 @@
+62c73bfea048 ("usb: dwc3: Fix race between dwc3_set_mode and __dwc3_set_mode")
+07903626d988 ("usb: dwc3: core: Do not perform GCTL_CORE_SOFTRESET during bootup")
+afbd04e66e5d ("usb: dwc3: core: Deprecate GCTL.CORESOFTRESET")
+f88359e1588b ("usb: dwc3: core: Do core softreset when switch mode")
+f580170f135a ("usb: dwc3: Add splitdisable quirk for Hisilicon Kirin Soc")
+dc336b19e82d ("usb: dwc3: core: do not queue work if dr_mode is not USB_DR_MODE_OTG")
+c2cd3452d5f8 ("usb: dwc3: support continuous runtime PM with dual role")

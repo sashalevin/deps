@@ -1,0 +1,4 @@
+9225d5169d11 ("gpio: expose pull-up/pull-down line flags to userspace")
+2c60e6b5c924 ("gpiolib: never report open-drain/source lines as 'input' to user-space")
+609aaf6a6029 ("gpiolib: don't allow OPEN_DRAIN & OPEN_SOURCE flags for input")
+418ee8e91fe7 ("gpiolib: only check line handle flags once")

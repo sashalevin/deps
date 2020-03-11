@@ -1,0 +1,4 @@
+65883b78bc9f ("powerpc: align address to page boundary in change_page_attr()")
+a4c182ecf335 ("powerpc/set_memory: Avoid spinlock recursion in change_page_attr()")
+9f7853d7609d ("powerpc/mm: Fix set_memory_*() against concurrent accesses")
+1f9ad21c3b38 ("powerpc/mm: Implement set_memory() routines")

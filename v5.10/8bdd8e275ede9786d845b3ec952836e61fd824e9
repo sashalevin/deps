@@ -1,0 +1,4 @@
+8bdd8e275ede ("bpf: Return -ENOTSUPP when attaching to non-kernel BTF")
+290248a5b7d8 ("bpf: Allow to specify kernel module BTFs when attaching BPF programs")
+22dc4a0f5ed1 ("bpf: Remove hard-coded btf_vmlinux assumption from BPF verifier")
+3ac1f01b43b6 ("bpf: Eliminate rlimit-based memory accounting for bpf progs")

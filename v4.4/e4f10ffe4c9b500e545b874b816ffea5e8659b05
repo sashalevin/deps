@@ -1,0 +1,5 @@
+e4f10ffe4c9b ("iommu: Make of_iommu_set/get_ops() DT agnostic")
+57f98d2f61e1 ("iommu: Introduce iommu_fwspec")
+b996444cf35e ("iommu/of: Handle iommu-map property for PCI")
+53c92d793395 ("iommu: of: enforce const-ness of struct iommu_ops")
+45bb966d3dc7 ("of: iommu: Increment DT node refcount in of_iommu_set_ops()")

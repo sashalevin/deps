@@ -1,0 +1,4 @@
+c8f3d144004d ("gpio: mxc: Only get the second IRQ when there is more than one IRQ")
+123ac0e5356c ("drivers: gpio: mxc: use devm_platform_ioremap_resource()")
+db5270acaae5 ("gpio: mxc: use devres for irq generic chip")
+cc9269f89643 ("gpio: gpio-mxc: Fix: higher 16 GPIOs usable as wake source")

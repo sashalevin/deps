@@ -1,0 +1,6 @@
+16038c4fffd8 ("mm: memory-failure: add unmap_poisoned_folio()")
+03468a0f5289 ("mm/memory-failure: convert hwpoison_user_mappings to take a folio")
+6e8cda4c2c87 ("mm: convert hugetlb_page_mapping_lock_write to folio")
+fed5348ee2b1 ("mm/memory-failure: convert shake_page() to shake_folio()")
+7a8817f2c96e ("mm: memory-failure: add PageOffline() check")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

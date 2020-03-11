@@ -1,0 +1,7 @@
+f917ccfbc1f7 ("drm/gma500: Do not set struct fb_info.apertures")
+7c99616e3fe7 ("drm: Remove drm_mode_config::fb_base")
+f2fa5a99ca81 ("drm/ast: Convert ast to SHMEM")
+d95dcfc4e3e7 ("drm/ast: Style cleanups in plane code")
+537a1db9c5cd ("drm/ast: Rename struct ast_cursor_plane to struct ast_plane")
+aa7c88650f70 ("drm/ast: Remove cursor double buffering")
+0432a5044bb3 ("drm/ast: Call drm_atomic_helper_check_plane_state() unconditionally")

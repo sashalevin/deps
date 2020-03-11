@@ -1,0 +1,4 @@
+b6247686b757 ("KVM: VMX: Drop caching of KVM's desired sec exec controls for vmcs01")
+432979b50342 ("KVM: VMX: Refresh list of user return MSRs after setting guest CPUID")
+fe6b6bc802b4 ("KVM: VMX: Enable bus lock VM exit")
+8e5332402164 ("KVM: VMX: Convert vcpu_vmx.exit_reason to a union")

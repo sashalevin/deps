@@ -1,0 +1,7 @@
+891f11596068 ("KVM: x86/mmu: Bypass __handle_changed_spte() when aging TDP MMU SPTEs")
+6141df067d04 ("KVM: x86/mmu: Drop unnecessary dirty log checks when aging TDP MMU SPTEs")
+7ee131e3a3c3 ("KVM: x86/mmu: Clear only A-bit (if enabled) when aging TDP MMU SPTEs")
+e73008705d0c ("KVM: x86/mmu: Remove "record_dirty_log" in __tdp_mmu_set_spte()")
+89c313f20c1e ("KVM: x86/mmu: Atomically clear SPTE dirty state in the clear-dirty-log flow")
+697c89bed94e ("KVM: x86/mmu: Consolidate Dirty vs. Writable clearing logic in TDP MMU")
+5982a5392663 ("KVM: x86/mmu: Use kvm_ad_enabled() to determine if TDP MMU SPTEs need wrprot")

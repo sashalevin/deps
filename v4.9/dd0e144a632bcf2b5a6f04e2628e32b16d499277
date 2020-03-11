@@ -1,0 +1,8 @@
+dd0e144a632b ("powerpc/mm: Fix WARN_ON with THP NUMA migration")
+26973fa5ac0e ("powerpc/mm: use pte helpers in generic code")
+c766ee72235d ("powerpc: handover page flags with a pgprot_t parameter")
+56f3c1413f5c ("powerpc/mm: properly set PAGE_KERNEL flags in ioremap()")
+86c391bd5f47 ("powerpc/32: Add ioremap_wt() and ioremap_coherent()")
+da7ad366b497 ("powerpc/mm/book3s: Update pmd_present to look at _PAGE_PRESENT bit")
+af60a4cf8736 ("powerpc/mm: Use pmd_lockptr instead of opencoding it")
+03f51d4efa22 ("Merge tag 'powerpc-4.16-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

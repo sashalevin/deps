@@ -1,0 +1,6 @@
+5c48a4ea3280 ("scsi: target: core: Move buffer clearing hack")
+ee48345e1cca ("scsi: target: core: Move core_alua_check_nonop_delay() call")
+750a1d93f905 ("scsi: target: core: Break up target_submit_cmd_map_sgls()")
+a78b713618c0 ("scsi: target: core: Rename transport_init_se_cmd()")
+bbb087679d5f ("scsi: target: core: Remove in_interrupt() check in transport_handle_cdb_direct()")
+513e29946ab2 ("scsi: target: core: Replace in_interrupt() usage in target_submit_cmd_map_sgls()")

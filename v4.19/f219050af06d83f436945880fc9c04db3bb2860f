@@ -1,0 +1,8 @@
+f219050af06d ("Input: libps2 - do not discard non-ack bytes when controlling LEDs")
+c4c7eac8ee78 ("Input: libps2 - introduce common interrupt handler")
+7d674f9150c3 ("Input: libps2 - fix aborting PS/2 commands")
+df9fe0e653c2 ("Input: libps2 - rework handling of command response")
+fc522f3bdf43 ("Input: libps2 - remove special handling of ACK for command byte")
+100e16959c3c ("Input: libps2 - attach ps2dev instances as serio port's drvdata")
+8f7b057abe28 ("Input: atkbd - expose function row physical map to userspace")
+aaca981e4588 ("Input: i8042 - signal wakeup from atkbd/psmouse")

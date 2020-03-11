@@ -1,0 +1,6 @@
+aa3b39f38c7a ("KVM: SVM: drop unnecessary code in svm_hv_vmcb_dirty_nested_enlightenments()")
+3fa5e8fd0a0e ("KVM: SVM: delay svm_vcpu_init_msrpm after svm->vmcb is initialized")
+c4327f15dfc7 ("KVM: SVM: hyper-v: Enlightened MSR-Bitmap support")
+1e0c7d40758b ("KVM: SVM: hyper-v: Remote TLB flush for SVM")
+fa13680f5668 ("KVM: SVM: Disable SEV/SEV-ES if NPT is disabled")
+4995a3685f1b ("KVM: SVM: Use a separate vmcb for the nested L2 guest")

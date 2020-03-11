@@ -1,0 +1,5 @@
+380f2c1ae9d4 ("riscv: convert alloc_{pmd, pte}_late() to use ptdescs")
+a7d270d71aca ("riscv: mm: init: Pass a pointer to virt_to_page()")
+5a7ac592c56c ("riscv: mm: Enable PMD split page table lock for RV64")
+c24a19674258 ("riscv: add support for hugepage migration")
+7f85b04b08ca ("riscv: Keep the riscv Kconfig selects sorted")

@@ -1,0 +1,6 @@
+73b42dc69be8 ("KVM: x86: Re-split x2APIC ICR into ICR+ICR2 for AMD (x2AVIC)")
+d33234342f8b ("KVM: x86: Move x2APIC ICR helper above kvm_apic_write_nodecode()")
+71bf395a276f ("KVM: x86: Enforce x2APIC's must-be-zero reserved ICR bits")
+4b7c3f6d04bd ("KVM: x86: Make x2APIC ID 100% readonly")
+c7d4c5f01961 ("KVM: x86: Drop unused check_apicv_inhibit_reasons() callback definition")
+5f18c642ff7e ("KVM: VMX: Move out vmx_x86_ops to 'main.c' to dispatch VMX and TDX")

@@ -1,0 +1,6 @@
+dca4d3b71c8a ("rtc: cmos: Eliminate forward declarations of some functions")
+375bbba09692 ("rtc: cmos: Call rtc_wake_setup() from cmos_do_probe()")
+508ccdfb86b2 ("rtc: cmos: Call cmos_wake_setup() from cmos_do_probe()")
+db4e955ae333 ("rtc: cmos: fix build on non-ACPI platforms")
+0782b66ed2fb ("rtc: cmos: Fix wake alarm breakage")
+4919d3eb2ec0 ("rtc: cmos: Fix event handler registration ordering issue")

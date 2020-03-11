@@ -1,0 +1,4 @@
+a984506c542e ("powerpc/mm: Don't report PUDs as memory leaks when using kmemleak")
+872a100a49c3 ("powerpc/mm/hash: Don't memset pgd table if not needed")
+fc5c2f4a55a2 ("powerpc/mm/hash64: Zero PGD pages on allocation")
+fae2211697c9 ("powerpc/mm: Fix crashes with 16G huge pages")

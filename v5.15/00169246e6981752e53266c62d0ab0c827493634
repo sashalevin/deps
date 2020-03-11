@@ -1,0 +1,6 @@
+00169246e698 ("io_uring: warning about unused-but-set parameter")
+fff4e40e3094 ("io_uring: delay req queueing into compl-batch list")
+a1cdbb4cb5f7 ("io_uring: comment why inline complete calls io_clean_op()")
+d9f9d2842c91 ("io_uring: reshuffle queue_sqe completion handling")
+6f33b0bc4ea4 ("io_uring: use slist for completion batching")
+c450178d9be9 ("io_uring: dedup CQE flushing non-empty checks")

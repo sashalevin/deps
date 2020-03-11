@@ -1,0 +1,8 @@
+30c3d3b70aba ("drm/amd: Disallow s0ix without BIOS support again")
+cf488dcd0ab7 ("drm/amd: Allow s0ix without BIOS support")
+61ebd2fe6f79 ("drm: amd: amdgpu: ACPI: Add comment about ACPI_FADT_LOW_POWER_S0")
+f588a1bbfce7 ("drm/amd: Warn users about potential s0ix problems")
+a47f6a5806da ("drm/amdgpu: Fix build with missing pm_suspend_target_state module export")
+8d70136e2dc7 ("drm/amdgpu: fix checking pmops when PM_SLEEP is not enabled")
+d0260f62eeeb ("drm/amdgpu: Rename amdgpu_acpi_is_s0ix_supported")
+91b03fc6b50c ("drm/amdgpu: Check pmops for desired suspend state")

@@ -1,0 +1,5 @@
+870388db2532 ("mm: memory_failure: move memory_failure_attr_group under MEMORY_FAILURE")
+d302c2398ba2 ("mm, hwpoison: when copy-on-write hits poison, take page offline")
+a873dfe1032a ("mm, hwpoison: try to recover from copy-on write faults")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")
+f36a5543a748 ("mm, hwpoison: fix page refcnt leaking in try_memory_failure_hugetlb()")

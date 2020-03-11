@@ -1,0 +1,4 @@
+47c32b2b7fcf ("spi: stm32-qspi: Fix pm_runtime management in stm32_qspi_transfer_one_message()")
+a557fca630cc ("spi: stm32_qspi: Add transfer_one_message() spi callback")
+c6cf1fafb65d ("spi: spi-stm32-qspi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")
+86d1c6bbae32 ("spi: stm32-qspi: add automatic poll status feature")

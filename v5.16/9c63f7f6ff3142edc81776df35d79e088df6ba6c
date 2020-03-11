@@ -1,0 +1,4 @@
+9c63f7f6ff31 ("sd: implement ->free_disk to simplify refcounting")
+534cf52aa9c1 ("sd: delay calling free_opal_dev")
+c76c46fa04c4 ("sd: call sd_zbc_release_disk before releasing the scsi_device reference")
+fad45c3007a1 ("sd: rename the scsi_disk.dev field")

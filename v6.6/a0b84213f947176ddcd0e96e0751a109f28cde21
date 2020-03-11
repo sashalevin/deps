@@ -1,0 +1,5 @@
+a0b84213f947 ("kunit: Fix NULL-dereference in kunit_init_suite() if suite->log is NULL")
+c72a870926c2 ("kunit: add ability to run tests after boot using debugfs")
+1557e89d3af5 ("kunit: debugfs: Handle errors from alloc_string_stream()")
+2e3c94aed51e ("kunit: Reset suite counter right before running tests")
+05e2006ce493 ("kunit: Use string_stream for test log")

@@ -1,0 +1,4 @@
+3306877aff07 ("ALSA: memalloc: don't pass bogus GFP_ flags to dma_alloc_*")
+a61c7d88d38c ("ALSA: memalloc: use __GFP_RETRY_MAYFAIL for DMA mem allocs")
+dd164fbfdc20 ("ALSA: memalloc: Drop special handling of GFP for CONTINUOUS allocation")
+a8d302a0b770 ("ALSA: memalloc: Revive x86-specific WC page allocations again")

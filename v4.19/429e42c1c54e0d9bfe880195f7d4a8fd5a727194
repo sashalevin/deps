@@ -1,0 +1,8 @@
+429e42c1c54e ("tcp: Set NULL to sk->sk_prot->h.hashinfo.")
+08eaef904031 ("tcp: Clean up some functions.")
+28044fc1d495 ("net: Add a bhash2 table hashed by port and address")
+d2c135619cb8 ("inet: add READ_ONCE(sk->sk_bound_dev_if) in inet_csk_bind_conflict()")
+cae3873c5b3a ("net: inet: Retire port only listening_hash")
+e8d0059000b2 ("net: inet: Open code inet_hash2 and inet_unhash2")
+8ea1eebb49a2 ("net: inet: Remove count from inet_listen_hashbucket")
+c8227d568ddf ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

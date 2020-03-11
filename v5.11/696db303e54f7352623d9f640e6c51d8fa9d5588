@@ -1,0 +1,5 @@
+696db303e54f ("KVM: x86: smm: number of GPRs in the SMRAM image depends on the image format")
+b443183a25ab ("KVM: x86: Reduce the number of emulator GPRs to '8' for 32-bit KVM")
+a5ba67b42f07 ("KVM: x86: Omit VCPU_REGS_RIP from emulator's _regs array")
+dfe21e6bc05a ("KVM: x86: Harden _regs accesses to guard against buggy input")
+61d9c412d041 ("KVM: x86: Grab regs_dirty in local 'unsigned long'")

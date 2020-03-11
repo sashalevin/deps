@@ -1,0 +1,7 @@
+ae634f932129 ("usb: mtu3: drop support vbus detection")
+3abf562723d2 ("usb: mtu3: remove wakelock")
+1ac91ac5d097 ("usb: mtu3: register a USB Role Switch for dual role mode")
+4aab6ad24a10 ("usb: mtu3: move vbus and mode debugfs interfaces into mtu3_debugfs.c")
+ae07809255d3 ("usb: mtu3: add debugfs interface files")
+4c5964b4c2cb ("usb: mtu3: fix transfer error of USB3 Gen2 isoc")
+03d8bfc13089 ("usb: mtu3: check return value of devm_extcon_register_notifier()")

@@ -1,0 +1,8 @@
+a16afcc58a8c ("perf cs-etm: Fix incorrect or missing decoder for raw trace")
+a4b6452af7f4 ("perf cs-etm: Don't duplicate FIELD_GET()")
+6bf86cada3eb ("perf cs-etm: Add fix for coresight trace for any range of CPUs")
+b6521ea2a033 ("perf cs-etm: Handle PERF_RECORD_AUX_OUTPUT_HW_ID packet")
+e5fa5b4110fe ("perf cs-etm: Update record event to use new Trace ID protocol")
+092772955568 ("perf cs-etm: Move mapping of Trace ID and cpu into helper function")
+a7fe9a443b60 ("perf cs_etm: Set the time field in the synthetic samples")
+326163c552c4 ("perf cs_etm: Keep separate symbols for ETMv4 and ETE parameters")

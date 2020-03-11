@@ -1,0 +1,4 @@
+4b7b492615cf ("af_unix: fix use-after-free in unix_stream_read_actor()")
+e82025c623e2 ("af_unix: Fix some data-races around unix_sk(sk)->oob_skb.")
+876c14ad014d ("af_unix: fix holding spinlock in oob handling")
+314001f0bf92 ("af_unix: Add OOB support")

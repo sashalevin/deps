@@ -1,0 +1,8 @@
+1da8347d8505 ("iommu/vt-d: Populate debugfs if IOMMUs are detected")
+ea09506c363e ("iommu/vt-d: Modify the format of intel DMAR tables dump")
+18f99c9b9dec ("iommu/vt-d: Add debugfs support to show context internals")
+a6d268c619d6 ("iommu/vt-d: Add debugfs support for Interrupt remapping")
+6825d3ea6cde ("iommu/vt-d: Add debugfs support to show register contents")
+ee2636b8670b ("iommu/vt-d: Enable base Intel IOMMU debugfs support")
+562831747f62 ("iommu/vt-d: Global PASID name space")
+ec154bf56b27 ("iommu/vt-d: Don't register bus-notifier under dmar_global_lock")

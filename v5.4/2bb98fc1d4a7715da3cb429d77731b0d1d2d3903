@@ -1,0 +1,6 @@
+2bb98fc1d4a7 ("drm/imx/dcss: have all init functions use devres")
+90393c9b5408 ("drm/imx/dcss: request memory region")
+60096f0a7760 ("drm/imx/dcss: Convert to platform remove callback returning void")
+89755ee1d593 ("drm/imx/dcss: Call drm_atomic_helper_shutdown() at shutdown time")
+c7cb175bb1ef ("drm/imx/dcss: Don't call dev_set_drvdata(..., NULL);")
+9021c317b770 ("drm/imx: Add initial support for DCSS on iMX8MQ")

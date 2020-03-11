@@ -1,0 +1,3 @@
+be3df3dd4c70 ("NFSv4: Don't allow a cached open with a revoked delegation")
+aa05c87f23ef ("NFSv4: nfs4_copy_delegation_stateid() must fail if the delegation is invalid")
+b3f9e7239074 ("NFSv4: Don't report revoked delegations as valid in nfs_have_delegation()")

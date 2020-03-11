@@ -1,0 +1,6 @@
+6ffe9923f235 ("arm64: errata: Pass --fix-cortex-a53-843419 to ld if workaround enabled")
+1e48ef7fcc37 ("arm64: add support for building vmlinux as a relocatable PIE binary")
+fd045f6cd98e ("arm64: add support for module PLTs")
+57f4959bad0a ("arm64: kernel: Add support for User Access Override")
+d5370f754875 ("arm64: prefetch: add alternative pattern for CPUs without a prefetcher")
+2a803c4db615 ("arm64: head.S: use memset to clear BSS")

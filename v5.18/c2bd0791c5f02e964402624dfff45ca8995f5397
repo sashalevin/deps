@@ -1,0 +1,5 @@
+c2bd0791c5f0 ("spi: stm32: qspi: Fix dual flash mode sanity test in stm32_qspi_setup()")
+c9448aa41ac7 ("spi: stm32-qspi: Refactor dual flash mode enable check in ->setup()")
+eea0e7d20d6d ("spi: stm32-qspi: Replace of_gpio_named_count() by gpiod_count()")
+a557fca630cc ("spi: stm32_qspi: Add transfer_one_message() spi callback")
+c6cf1fafb65d ("spi: spi-stm32-qspi: using pm_runtime_resume_and_get instead of pm_runtime_get_sync")

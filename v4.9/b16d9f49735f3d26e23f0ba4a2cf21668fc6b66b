@@ -1,0 +1,7 @@
+b16d9f49735f ("power: reset: gpio-poweroff: use sys-off handler API")
+13b4c6964665 ("power: reset: gpio-poweroff: use a struct to store the module variables")
+5a1c9565c07b ("power: reset: gpio-poweroff: add missing '\n' in dev_err()")
+76ee875c2f48 ("power: reset: gpio-poweroff: add ability to specific active and inactive delays")
+77142a611252 ("gpio-poweroff: Use gpiod_set_value_cansleep")
+d85b4f7b7fae ("power: reset: gpio-poweroff: Support for timeout from device property")
+88f598725f42 ("dt-bindings: power: reset: gpio-poweroff: Add 'timeout-ms' property")

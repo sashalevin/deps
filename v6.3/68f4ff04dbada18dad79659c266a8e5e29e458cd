@@ -1,0 +1,5 @@
+68f4ff04dbad ("sched, smp: Trace smp callback causing an IPI")
+08407b5f61c1 ("smp: Trace IPIs sent via arch_send_call_function_ipi_mask()")
+cc9cb0a71725 ("sched, smp: Trace IPIs sent via send_call_function_single_ipi()")
+1771257cb447 ("locking/csd_lock: Remove added data from CSD lock debugging")
+c52198601695 ("locking/csd_lock: Add Kconfig option for csd_debug default")

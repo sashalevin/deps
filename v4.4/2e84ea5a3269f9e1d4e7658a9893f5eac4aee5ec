@@ -1,0 +1,5 @@
+2e84ea5a3269 ("ACPI: EC: Eliminate in_interrupt() usage")
+53c5eaabaea9 ("ACPI / EC: Fix regression related to triggering source of EC event handling")
+e923e8e79e18 ("ACPI / EC: Fix an issue that SCI_EVT cannot be detected after event is enabled")
+750f628be68e ("ACPI / EC: Add EC_FLAGS_QUERY_ENABLED to reveal a hidden logic")
+0e1affe41bdd ("ACPI 2.0 / ECDT: Split EC_FLAGS_HANDLERS_INSTALLED")

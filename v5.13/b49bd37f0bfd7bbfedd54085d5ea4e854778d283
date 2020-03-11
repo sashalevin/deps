@@ -1,0 +1,5 @@
+b49bd37f0bfd ("virtio_net: Fix memory leak in virtnet_rx_mod_work")
+b9f7425239a0 ("virtio-net: convert rx mode setting to use workqueue")
+5a159128faff ("virtio-net: fix the race between refill work and close")
+50c0ada627f5 ("virtio-net: fix race between ndo_open() and virtio_device_ready()")
+c7114b1249fa ("drivers/net/virtio_net: Added basic RSS support.")

@@ -1,0 +1,6 @@
+81f2e8adc0fd ("rxrpc: Don't use sk->sk_receive_queue.lock to guard socket state changes")
+f859ab618759 ("rxrpc: Fix service endpoint expiry")
+2baec2c3f854 ("rxrpc: Support network namespacing")
+3e018daf045f ("rxrpc: Show a call's hard-ACK cursors in /proc/net/rxrpc_calls")
+b54a134a7de4 ("rxrpc: Fix handling of enums-to-string translation in tracing")
+444306129a92 ("rxrpc: abstract away knowledge of IDR internals")

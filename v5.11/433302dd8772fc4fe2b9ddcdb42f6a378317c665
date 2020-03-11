@@ -1,0 +1,6 @@
+433302dd8772 ("Input: omap4-keypad - switch to using pm_runtime_resume_and_get()")
+81022a170462 ("Input: omap4-keypad - fix pm_runtime_get_sync() error checking")
+29bf35e5ee80 ("Input: omap4-keypad - use PM runtime autosuspend")
+98b0c88d4bfb ("Input: omap4-keypad - move rest of key scanning to a separate function")
+905dbf1d39d7 ("Input: omap4-keypad - scan keys in two phases and simplify with bitmask")
+60dc45119465 ("Input: omap4-keypad - switch to use managed resources")

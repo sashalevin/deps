@@ -1,0 +1,4 @@
+f1b7b862bf79 ("cifs: smbd: Properly process errors on ib_post_send")
+d4e5160d1a0b ("cifs: smbd: Update receive credits before sending and deal with credits roll back on failure before sending")
+3ffbe78aff93 ("cifs: smbd: Check send queue size before posting a send")
+072a14ec6386 ("cifs: smbd: Merge code to track pending packets")

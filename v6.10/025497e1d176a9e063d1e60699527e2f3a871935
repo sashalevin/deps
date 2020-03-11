@@ -1,0 +1,5 @@
+025497e1d176 ("erofs: reject inodes with negative i_size")
+53d514b97010 ("erofs: refactor read_inode calling convention")
+b1bbb9a637a3 ("erofs: use kmemdup_nul in erofs_fill_symlink")
+9ed50b8231e3 ("erofs: fix incorrect symlink detection in fast symlink")
+e080a26725fb ("erofs: allow large folios for compressed files")

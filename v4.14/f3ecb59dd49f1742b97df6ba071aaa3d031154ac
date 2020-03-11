@@ -1,0 +1,7 @@
+f3ecb59dd49f ("kvm: x86: Fix reserved bits related calculation errors caused by MKTME")
+7b6f8a06e482 ("kvm: x86: Move kvm_set_mmio_spte_mask() from x86.c to mmu.c")
+daa07cbc9ae3 ("KVM: x86: fix L1TF's MMIO GFN calculation")
+7288bde1f9df ("x86: kvm: avoid unused variable warning")
+28a1f3ac1d0c ("kvm: x86: Set highest physical address bits in non-present/reserved SPTEs")
+dd60d217062f ("KVM: x86: Fix perf timer mode IP reporting")
+7bf14c28ee77 ("Merge branch 'x86/hyperv' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

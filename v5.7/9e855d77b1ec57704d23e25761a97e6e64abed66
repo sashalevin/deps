@@ -1,0 +1,8 @@
+9e855d77b1ec ("iio: st_sensors: core and lsm9ds0 switch to devm_regulator_bulk_get_enable()")
+b42baaa3e277 ("iio: st_lsm9ds0: Make use of the helper function dev_err_probe()")
+4dff75487695 ("iio: st_sensors: Make use of the helper function dev_err_probe()")
+5363c6c17b10 ("iio: st_sensors: remove st_sensors_power_disable() function")
+9f0b3e0cc0c8 ("iio: st_sensors: disable regulators after device unregistration")
+6731ca3999ff ("iio: st_sensors: Add lsm9ds0 IMU support")
+7db4f2cacbed ("iio: st_sensors: Call st_sensors_power_enable() from bus drivers")
+3f4a559bb57c ("iio: accel: st_sensors: add support for LIS2HH12")

@@ -1,0 +1,4 @@
+d0cf9b561ca9 ("powerpc/powernv/npu: Do a PID GPU TLB flush when invalidating a large address range")
+28a5933e8d36 ("powerpc/powernv/npu: Add lock to prevent race in concurrent context init/destroy")
+720c84046c26 ("powerpc/npu-dma.c: Fix crash after __mmu_notifier_register failure")
+2b74e2a9b39d ("powerpc/powernv/npu: Fix deadlock in mmio_invalidate()")

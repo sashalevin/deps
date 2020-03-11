@@ -1,0 +1,4 @@
+2e82f6c3bfd1 ("splice: simplify a conditional in copy_splice_read")
+0b24be4691c9 ("splice: don't call file_accessed in copy_splice_read")
+33b3b041543e ("splice: Add a func to do a splice from an O_DIRECT file without ITER_PIPE")
+07073eb01c5f ("splice: Add a func to do a splice from a buffered file without ITER_PIPE")

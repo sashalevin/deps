@@ -1,0 +1,8 @@
+943ed3cc0219 ("drm/i915: Split plane data_rate into data_rate+data_rate_y")
+7d4561722c3b ("drm/i915: Tweak plane ddb allocation tracking")
+cad3fab413ef ("drm/i915: Extract skl_crtc_calc_dbuf_bw()")
+63b81e606320 ("drm/i915: Introduce skl_plane_ddb_iter")
+8a84e7a176c0 ("drm/i915: Extract skl_ddb_entry_init()")
+d21b3be8e144 ("drm/i915: Drop pointless dev_priv argument")
+12d7d858e63d ("drm/i915: Use REG_BIT() & co. for universal plane bits")
+71b59439aa03 ("drm/i915: Sipmplify PLANE_STRIDE masking")

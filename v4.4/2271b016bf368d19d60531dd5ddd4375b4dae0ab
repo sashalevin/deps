@@ -1,0 +1,6 @@
+2271b016bf36 ("mm/compaction: make defer_compaction and compaction_deferred static")
+b527cfe5bc23 ("mm, compaction: extend pageblock_skip_persistent() to all compound pages")
+21dc7e023611 ("mm, compaction: persistently skip hugetlbfs pageblocks")
+cab1802b5f0d ("mm, compaction: abstract compaction feedback to helpers")
+fdd048e12c9a ("mm, compaction: skip blocks where isolation fails in async direct compaction")
+698b1b30642f ("mm, compaction: introduce kcompactd")

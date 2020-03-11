@@ -1,0 +1,6 @@
+d0505e9f7dce ("mm: hwpoison: don't drop slab caches for offlining non-LRU page")
+a21c184fe25e ("mm/hwpoison: fix some obsolete comments")
+fcc00621d88b ("mm/hwpoison: retry with shake_page() for unhandlable pages")
+0ed950d1f281 ("mm,hwpoison: make get_hwpoison_page() call get_any_page()")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")
+25182f05ffed ("mm,hwpoison: fix race with hugetlb page allocation")

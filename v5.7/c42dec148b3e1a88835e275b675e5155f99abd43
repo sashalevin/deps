@@ -1,0 +1,4 @@
+c42dec148b3e ("KVM: x86: VMX: synthesize invalid VM exit when emulating invalid guest state")
+a9ab13ff6e84 ("KVM: X86: Improve latency for single target IPI fastpath")
+873e1da16918 ("KVM: VMX: Optimize handling of VM-Entry failures in vmx_vcpu_run()")
+e64419d991ea ("KVM: x86: Move "flush guest's TLB" logic to separate kvm_x86_ops hook")

@@ -1,0 +1,7 @@
+2f7c1c1396b5 ("mm, slub: don't create kmalloc-rcl caches with CONFIG_SLUB_TINY")
+494c1dfe855e ("mm: memcg/slab: create a new set of kmalloc-cg-<n> caches")
+cb5d9fb38c34 ("mm, slab: make kmalloc_info[] contain all types of names")
+4e45f712d82c ("include/linux/slab.h: fix sparse warning in kmalloc_type()")
+f0d77874143d ("mm, slab: shorten kmalloc cache names for large sizes")
+1291523f2c1d ("mm, slab/slub: introduce kmalloc-reclaimable caches")
+cc252eae85e0 ("mm, slab: combine kmalloc_caches and kmalloc_dma_caches")

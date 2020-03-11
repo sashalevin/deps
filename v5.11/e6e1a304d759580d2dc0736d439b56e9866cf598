@@ -1,0 +1,5 @@
+e6e1a304d759 ("drm/i915: vma is always backed by an object.")
+0f4308d524e2 ("drm/i915: Untangle the vma pages_mutex")
+7d1c2618eac5 ("drm/i915: Take reservation lock around i915_vma_pin.")
+83472bb06063 ("drm/i915: Make ring submission compatible with obj->mm.lock removal, v2.")
+1eef0de18fc7 ("drm/i915: Ensure we hold the object mutex in pin correctly.")

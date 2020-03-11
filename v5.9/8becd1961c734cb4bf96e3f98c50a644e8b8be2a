@@ -1,0 +1,8 @@
+8becd1961c73 ("bnxt_en: Add tx_resets ring counter")
+a080b47a04c5 ("bnxt_en: Display the ring error counters under ethtool -S")
+4c70dbe3c008 ("bnxt_en: Save ring error counters across reset")
+d38c19b13b10 ("bnxt_en: Increment rx_resets counter in bnxt_disable_napi()")
+40bedf7cb2ac ("bnxt: count packets discarded because of netpoll")
+01cca6b9330a ("bnxt: disable napi before canceling DIM")
+8a27d4b9e54c ("bnxt_en: Add a software counter for RX ring reset.")
+8fbf58e17dce ("bnxt_en: Implement RX ring reset in response to buffer errors.")

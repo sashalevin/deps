@@ -1,0 +1,7 @@
+dbfe2953f63c ("x86/speculation: Apply IBPB more strictly to avoid cross-process data leak")
+18bf3c3ea8ec ("x86/speculation: Use Indirect Branch Prediction Barrier in context switch")
+5beda7d54eaf ("x86/mm/64: Fix vmapped stack syncing on very-large-memory 4-level systems")
+196bd485ee4f ("x86/asm: Use register variable to get stack pointer value")
+520a13c530ae ("x86/asm: Fix inline asm call constraints for GCC 4.4")
+f5caf621ee35 ("x86/asm: Fix inline asm call constraints for Clang")
+57e88b43b813 ("Merge branch 'x86-platform-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

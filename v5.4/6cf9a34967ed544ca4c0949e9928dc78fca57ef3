@@ -1,0 +1,5 @@
+6cf9a34967ed ("mm/z3fold: put z3fold page back into unbuddied list when reclaim or migration fails")
+dcf5aedb24f8 ("z3fold: stricter locking and more careful reclaim")
+fc5488651c7d ("z3fold: simplify freeing slots")
+d8f117abb380 ("z3fold: fix use-after-free when freeing handles")
+4a3ac9311dac ("mm/z3fold.c: add inter-page compaction")

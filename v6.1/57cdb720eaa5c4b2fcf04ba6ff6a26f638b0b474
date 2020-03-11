@@ -1,0 +1,4 @@
+57cdb720eaa5 ("iommu/amd: Do not flush IRTE when only updating isRun and destination fields")
+98aeb4ea5599 ("iommu/amd: Do not Invalidate IRT when IRTE caching is disabled")
+74a37817bd15 ("iommu/amd: Remove the unused struct amd_ir_data.ref")
+a42f0c7a4118 ("iommu/amd: Switch amd_iommu_update_ga() to use modify_irte_ga()")

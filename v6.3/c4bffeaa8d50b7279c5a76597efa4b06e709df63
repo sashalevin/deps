@@ -1,0 +1,5 @@
+c4bffeaa8d50 ("net: add struct kernel_hwtstamp_config and make net_hwtstamp_validate() use it")
+d5d5fd8f2552 ("net: move copy_from_user() out of net_hwtstamp_validate()")
+4ee58e1e5680 ("net: promote SIOCSHWTSTAMP and SIOCGHWTSTAMP ioctls to dedicated handlers")
+1193db2a55b6 ("net: simplify handling of dsa_ndo_eth_ioctl() return code")
+00d521b39307 ("net: don't abuse "default" case for unknown ioctl in dev_ifsioc()")

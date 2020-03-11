@@ -1,0 +1,3 @@
+1bbc75518503 ("firmware: arm_sdei: Remove while loop in sdei_event_register()")
+54f529a6806c ("firmware: arm_sdei: Use cpus_read_lock() to avoid races with cpuhp")
+6ded0b61cf63 ("firmware: arm_sdei: fix double-lock on hibernate with shared events")

@@ -1,0 +1,4 @@
+9c5274eec75b ("scsi: RDMA/srp: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+ad215aaea4f9 ("RDMA/srp: Make struct scsi_cmnd and struct srp_request adjacent")
+7ec2e27a3aff ("RDMA/srp: Fix a recently introduced memory leak")
+2b5715fc1738 ("RDMA/srp: Fix support for unpopulated and unbalanced NUMA nodes")

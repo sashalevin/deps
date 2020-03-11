@@ -1,0 +1,5 @@
+5f7cf82c1d73 ("scsi: bsg: Fix errno when scsi_bsg_register_queue() fails")
+ead09dd3aed5 ("scsi: bsg: Simplify device registration")
+78011042684d ("scsi: bsg: Move bsg_scsi_ops to drivers/scsi/")
+d52fe8f436a6 ("scsi: bsg: Decouple from scsi_cmd_ioctl()")
+beec64d0c974 ("scsi: bsg: Remove support for SCSI_IOCTL_SEND_COMMAND")

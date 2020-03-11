@@ -1,0 +1,8 @@
+87ad447a9d4f ("ovl: split out ovl_get_workpath() from ovl_fill_super()")
+6ee8acf0f72b ("ovl: split out ovl_get_upperpath() from ovl_fill_super()")
+85fdee1eef1a ("ovl: fix regression caused by exclusive upper/work dir protection")
+bc98a42c1f7d ("VFS: Convert sb->s_flags & MS_RDONLY to sb_rdonly(sb)")
+9412812ef548 ("ovl: document copying layers restrictions with inodes index")
+2cac0c00a6cd ("ovl: get exclusive ownership on upper/work dirs")
+7bcd74b98d7b ("ovl: check if all layers are on the same fs")
+e58bc927835a ("Merge branch 'overlayfs-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mszeredi/vfs")

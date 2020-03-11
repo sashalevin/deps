@@ -1,0 +1,8 @@
+7fe50ac83f43 ("net: dump more useful information in netdev_rx_csum_fault()")
+49f8e8329c3c ("net: move __skb_checksum_complete*() to skbuff.c")
+db4f1be3ca9b ("net: udp: fix handling of CHECKSUM_COMPLETE packets")
+9617813dba5b ("skbuff: add stub to help computing crc32c on SCTP packets")
+a6a599324355 ("iov_iter: don't revert iov buffer if csum error")
+327868212381 ("make skb_copy_datagram_msg() et.al. preserve ->msg_iter on error")
+c5c4e45c4b79 ("sctp: fix GSO for IPv6")
+ee58b57100ca ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

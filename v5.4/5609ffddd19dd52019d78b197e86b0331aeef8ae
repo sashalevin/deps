@@ -1,0 +1,7 @@
+5609ffddd19d ("powerpc/powernv/pci: Add pci_bus_to_pnvhb() helper")
+96e2006a9dbc ("powerpc/powernv/pci: Move tce size parsing to pci-ioda-tce.c")
+f39b8b10fcc5 ("powerpc/powernv/pci: Delete old iommu recursive iommu setup")
+946743d035bd ("powernv/pci: Move pnv_pci_dma_bus_setup() to pci-ioda.c")
+0a25d9c40161 ("powernv/pci: Fold pnv_pci_dma_dev_setup() into the pci-ioda.c version")
+965c94f309be ("powerpc/iov: Move VF pdev fixup into pcibios_fixup_iov()")
+3b5b9997b331 ("powerpc/powernv/iov: Ensure the pdn for VFs always contains a valid PE number")

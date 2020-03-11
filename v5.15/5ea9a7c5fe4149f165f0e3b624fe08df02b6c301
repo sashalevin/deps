@@ -1,0 +1,8 @@
+5ea9a7c5fe41 ("nfsd: don't take fi_lock in nfsd_break_deleg_cb()")
+826b67e6376c ("nfsd: don't hand out delegation on setuid files being opened for write")
+b95239ca4954 ("nfsd: make nfsd4_run_cb a bool return function")
+876c553cb410 ("NFSD: verify the opened dentry after setting a delegation")
+bbf936edd543 ("NFSD: drop fh argument from alloc_init_deleg")
+fb70bf124b05 ("NFSD: Instantiate a struct file when creating a regular NFSv4 file")
+f4d84c52643a ("NFSD: Clean up nfsd_open_verified()")
+254454a5aa4a ("NFSD: Refactor NFSv4 OPEN(CREATE)")

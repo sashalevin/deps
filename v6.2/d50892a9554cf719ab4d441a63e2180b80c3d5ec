@@ -1,0 +1,7 @@
+d50892a9554c ("drm/i915: switch from drm_debug_printer() to device specific drm_dbg_printer()")
+6a18ae51d265 ("drm/i915/display: Print display info inside driver display initialization")
+77316e755213 ("drm/i915/display: start high level display driver file")
+673515ba0249 ("drm/i915/opregion: Register display debugfs later, after initialization steps")
+e5e43d3363d7 ("drm/i915/display: Pass drm_i915_private as param to i915 funcs")
+cfc10489828a ("drm/i915/display: drop redundant display/ from #includes")
+efb2b57edf20 ("drm/i915: Move the DSB setup/cleaup into the color code")

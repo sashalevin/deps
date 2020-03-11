@@ -1,0 +1,8 @@
+3d82c565a7a2 ("kvm: vmx: add cpu into VMX preemption timer bug list")
+a821bab2d1ee ("KVM: VMX: Move VMX specific files to a "vmx" subdirectory")
+877ad952be3d ("KVM: vmx: Add tlb_remote_flush callback support")
+61ada7488ffd ("KVM: nVMX: Cache shadow vmcs12 on VMEntry and flush to memory on VMExit")
+392b2f25aa41 ("KVM: VMX: Create struct for VMCS header")
+8fcc4b5923af ("kvm: nVMX: Introduce KVM_CAP_NESTED_STATE")
+7f7f1ba33cf2 ("KVM: x86: do not load vmcs12 pages while still in SMM")
+d2ce98ca0a19 ("Merge tag 'v4.18-rc6' into HEAD")

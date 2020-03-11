@@ -1,0 +1,8 @@
+614049a8d904 ("mtd: nand: sunxi: add support for DMA assisted operations")
+c66811e6d350 ("mtd: nand: sunxi: switch to mtd_ooblayout_ops")
+828dec153044 ("mtd: nand: sunxi: make OOB retrieval optional")
+cc6822fb756b ("mtd: nand: sunxi: move some ECC related operations to their own functions")
+dd26a4584c37 ("mtd: nand: sunxi: disable clks on device removal")
+fe82ccefc992 ("mtd: nand: sunxi: implement ->read_subpage()")
+1c1bdd6f866e ("mtd: nand: sunxi: implement ->read_oob()/->write_oob()")
+4be4e03efc7f ("mtd: nand: sunxi: add randomizer support")

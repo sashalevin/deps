@@ -1,0 +1,6 @@
+c020fa695af6 ("SUNRPC: Convert server-side GSS upcall helpers to use xdr_stream")
+1cbfb921978f ("SUNRPC: Remove gss_read_verf()")
+4d51366deeb4 ("SUNRPC: Remove gss_read_common_verf()")
+20ebe927ede7 ("SUNRPC: Hoist common verifier decoding code into svcauth_gss_proc_init()")
+4ac5e7a6904b ("SUNRPC: Move the server-side GSS upcall to a noinline function")
+da522b5fe1a5 ("SUNRPC: Don't leak netobj memory when gss_read_proxy_verf() fails")

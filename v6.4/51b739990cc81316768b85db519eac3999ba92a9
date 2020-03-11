@@ -1,0 +1,7 @@
+51b739990cc8 ("rcu: Let dump_cpu_task() be used without preemption disabled")
+27d5749d0755 ("rcu: Extract synchronize_rcu_expedited_stall() from synchronize_rcu_expedited_wait()")
+5b404fdabacf ("rcu: Add RCU CPU stall notifier")
+243d5ab34446 ("rcu: Eliminate check_cpu_stall() duplicate code")
+401b0de3ae4f ("rcu-tasks: Stop rcu_tasks_invoke_cbs() from using never-onlined CPUs")
+15d44dfa4030 ("rcu: Make rcu_cpu_starting() rely on interrupts being disabled")
+9146eb25495e ("rcu: Mark additional concurrent load from ->cpu_no_qs.b.exp")

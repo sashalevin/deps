@@ -1,0 +1,8 @@
+e1fff5df6e04 ("NFSv4: nfs_set_open_stateid must not trigger state recovery for closed state")
+c9399f21c215 ("NFSv4: Fix OPEN / CLOSE race")
+8a64c4ef106d ("NFSv4.1: Even if the stateid is OK, we may need to recover the open modes")
+b134fc4a5333 ("NFSv4: Don't test open_stateid unless it is set")
+1393d9612ba0 ("NFSv4: Fix a race when updating an open_stateid")
+4586f6e28327 ("NFSv4.1: Add a helper function to deal with expired stateids")
+a8ce377a5db8 ("nfs: track whether server sets MAY_NOTIFY_LOCK flag")
+361cad3c8907 ("nfs: Fix race in __update_open_stateid()")

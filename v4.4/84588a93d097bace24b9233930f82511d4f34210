@@ -1,0 +1,6 @@
+84588a93d097 ("fuse: fix uninitialized flags in pipe_buffer")
+d82718e348fe ("fuse_dev_splice_read(): switch to add_to_pipe()")
+8924feff66f3 ("splice: lift pipe_lock out of splice_to_pipe()")
+db85a9eb2e36 ("splice: switch get_iovec_page_array() to iov_iter")
+e7c3c6462406 ("splice_to_pipe(): don't open-code wakeup_pipe_readers()")
+d6785d915214 ("splice: handle zero nr_pages in splice_to_pipe()")

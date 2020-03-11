@@ -1,0 +1,8 @@
+8b6af3b58caf ("clk: qcom: gdsc: Support 'synced_poweroff' genpd flag")
+d399723950c4 ("clk: qcom: gdsc: Fix the handling of PWRSTS_RET support")
+e73cb8527c59 ("clk: qcom: gdsc: add collapse-bit helper")
+9711759a87a0 ("clk: qcom: gdsc: Ensure regulator init state matches GDSC state")
+fda48bf5c86d ("clk: qcom: gdsc: Keep RETAIN_FF bit set if gdsc is already on")
+37416e554961 ("clk: qcom: gdsc: Handle GDSC regulator supplies")
+f02fba3aa8fe ("clk: qcom: gdsc: WARN when failing to toggle")
+7895861a963c ("clk: qcom: gdsc: Don't override existing gdsc pd functions")

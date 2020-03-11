@@ -1,0 +1,8 @@
+b2c9652eba6c ("target: Remove command flag CMD_T_DEV_ACTIVE")
+fd5e64def917 ("target: Remove command flag CMD_T_BUSY")
+dff0ca9ea7dc ("target: Fix ordered task target_setup_cmd_from_cdb exception hang")
+57dae19065bd ("target: Drop legacy se_cmd->task_stop_comp + REQUEST_STOP usage")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

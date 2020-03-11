@@ -1,0 +1,4 @@
+177bd2a9543f ("mips: Make pmd_pfn() available in all configurations")
+f69fa4c81b42 ("mips: fix HUGETLB function without THP enabled")
+e4e40e0263ea ("mm: switch to 'define pmd_write' instead of __HAVE_ARCH_PMD_WRITE")
+9ae34dbd8afd ("sparc64: Fix kernel panic due to erroneous #ifdef surrounding pmd_write()")

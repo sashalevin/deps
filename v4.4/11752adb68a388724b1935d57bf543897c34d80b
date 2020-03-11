@@ -1,0 +1,8 @@
+11752adb68a3 ("locking/pvqspinlock: Implement hybrid PV queued/unfair locks")
+34d54f3d6917 ("locking/pvqspinlock: Relax cmpxchg's to improve performance on some architectures")
+64a5e3cb3080 ("locking/qspinlock: Improve readability")
+eaff0e7003cc ("locking/pvqspinlock: Move lock stealing count tracking code into pv_queued_spin_steal_lock()")
+cd0272fab785 ("locking/pvqspinlock: Queue node adaptive spinning")
+1c4941fd53af ("locking/pvqspinlock: Allow limited lock stealing")
+45e898b73562 ("locking/pvqspinlock: Collect slowpath lock statistics")
+b3e0b1b6d841 ("locking, sched: Introduce smp_cond_acquire() and use it")

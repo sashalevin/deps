@@ -1,0 +1,5 @@
+7ded429152e8 ("cpuidle: powerpc: no memory barrier after break from idle")
+3fc5ee927ff4 ("cpuidle: powerpc: cpuidle set polling before enabling irqs")
+0baa91cb73e2 ("cpuidle: powernv: Avoid a branch in the core snooze_loop() loop")
+26eb48a9faf2 ("cpuidle: powernv: Don't continually set thread priority in snooze_loop()")
+79b578111feb ("cpuidle: powernv: Don't bounce between low and very low thread priority")

@@ -1,0 +1,8 @@
+27d13da8782a ("w1: omap-hdq: Simplify driver with PM runtime autosuspend")
+50fa2951bd74 ("w1: Organize driver source to natural/common order")
+8333eb153a9f ("w1: omap_hdq: Free resources on error path")
+a46b195ca0d8 ("w1: fix timeout_us parameter description")
+939fc832290d ("w1: add helper macro module_w1_family")
+098f9fb0c962 ("w1: remove need for ida and use PLATFORM_DEVID_AUTO")
+f704938c0ef1 ("w1: enable active pullup for DS2482 by default")
+7b46a105dbb7 ("omap_hdq: fix usecount handling")

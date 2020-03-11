@@ -1,0 +1,6 @@
+5c88ed798522 ("PCI: mvebu: Set PCI_BRIDGE_EMUL_NO_IO_FORWARD when IO is unsupported")
+d3f332b568dc ("PCI: pci-bridge-emul: Rename PCI_BRIDGE_EMUL_NO_PREFETCHABLE_BAR to PCI_BRIDGE_EMUL_NO_PREFMEM_FORWARD")
+e7a01876729c ("PCI: mvebu: Propagate errors when updating PCI_IO_BASE and PCI_MEM_BASE registers")
+2cf150216e5b ("PCI: mvebu: Do not modify PCI IO type bits in conf_write")
+e42b85583719 ("PCI: mvebu: Fix support for bus mastering and PCI_COMMAND on emulated bridge")
+5d18d702e5c9 ("PCI: mvebu: Check for errors from pci_bridge_emul_init() call")

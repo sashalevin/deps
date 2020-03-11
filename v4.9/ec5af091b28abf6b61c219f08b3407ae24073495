@@ -1,0 +1,7 @@
+ec5af091b28a ("mmc: slot-gpio: Allocate GPIO labels dynamically")
+60feca8f59a0 ("mmc: core: cd_label must be last entry of mmc_gpio struct")
+bfd694d5e21c ("mmc: core: Add tunable delay before detecting card after card is inserted")
+6186d06c519e ("mmc: parse new binding for eMMC fixed driver type")
+fb458864d9a7 ("mmc: core: add driver strength selection when selecting hs400es")
+73a47a9bb3e2 ("mmc: core: Use device_property_read instead of of_property_read")
+fb00f196fcce ("mmc: core: Extend mmc_of_parse() to check for mmc-ddr-3_3v")

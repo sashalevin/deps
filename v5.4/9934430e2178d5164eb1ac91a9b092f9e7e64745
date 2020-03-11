@@ -1,0 +1,5 @@
+9934430e2178 ("SMB3.1.1: Fix ids returned in POSIX query dir")
+3d519bd1269f ("cifs: plumb smb2 POSIX dir enumeration")
+af08f9e79c60 ("cifs: create a helper function to parse the query-directory response buffer")
+0a17799cc02f ("cifs: prepare SMB2_query_directory to be used with compounding")
+046aca3c25fd ("cifs: Optimize readdir on reparse points")

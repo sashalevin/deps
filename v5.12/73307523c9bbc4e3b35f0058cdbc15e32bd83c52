@@ -1,0 +1,6 @@
+73307523c9bb ("mm/cma: make MAX_CMA_AREAS = CONFIG_CMA_AREAS")
+229a08a4f4e4 ("ARM/dma-mapping: Remove CMA code when not built with CMA")
+43b02ba93b25 ("mm: replace CONFIG_FLAT_NODE_MEM_MAP with CONFIG_FLATMEM")
+a9ee6cf5c60e ("mm: replace CONFIG_NEED_MULTIPLE_NODES with CONFIG_NUMA")
+bb1c50d3967f ("mm: remove CONFIG_DISCONTIGMEM")
+ccbd6283a9b6 ("mm/sparse: fix check_usemap_section_nr warnings")

@@ -1,0 +1,3 @@
+c50061f0f1a9 ("ublk: rewrite ublk_ctrl_get_queue_affinity to not rely on hctx->cpumask")
+f2450f8a2c1e ("ublk_drv: fix build warning with -Wmaybe-uninitialized and one sparse warning")
+71f28f3136af ("ublk_drv: add io_uring based userspace block driver")

@@ -1,0 +1,4 @@
+3bffbe9e0b27 ("cifs: Fix chmod with modefromsid when an older ACE already exists.")
+5171317dfd9a ("cifs: update new ACE pointer after populate_new_aces.")
+bc3e9dd9d104 ("cifs: Change SIDs in ACEs while transferring file ownership.")
+f5065508897a ("cifs: Retain old ACEs when converting between mode bits and ACL.")

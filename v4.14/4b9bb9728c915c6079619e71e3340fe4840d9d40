@@ -1,0 +1,6 @@
+4b9bb9728c91 ("drm/i915: Only recover active engines")
+33df8a7697a0 ("drm/i915: Prevent lock-cycles between GPU waits and GPU resets")
+155ab8836caa ("drm/i915: Move object close under its own lock")
+c017cf6b1a5c ("drm/i915: Drop the deferred active reference")
+6951e5893b48 ("drm/i915: Move GEM object domain management from struct_mutex to local")
+10be98a77c55 ("drm/i915: Move more GEM objects under gem/")

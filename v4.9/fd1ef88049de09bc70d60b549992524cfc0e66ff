@@ -1,0 +1,8 @@
+fd1ef88049de ("nfsd: Fix a memory leak in an error handling path")
+6ee95d1c8991 ("nfsd: add support for upcall version 2")
+11a60d159259 ("nfsd: add a "GetVersion" upcall for nfsdcld")
+8a9f4f41248a ("nfsd: handle legacy client tracking records sent by nfsdcld")
+869216075b63 ("nfsd: re-order client tracking method selection")
+74725959c33c ("nfsd: un-deprecate nfsdcld")
+6b1891052a3f ("nfsd: make nfs4_client_reclaim use an xdr_netobj instead of a fixed char array")
+b493fd31c0b8 ("nfsd: fix a warning in __cld_pipe_upcall()")

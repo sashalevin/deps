@@ -1,0 +1,3 @@
+95246d1ec80b ("sched/pelt: Relax the sync of runnable_sum with runnable_avg")
+1c35b07e6d39 ("sched/fair: Ensure _sum and _avg values stay consistent")
+fcf6631f3736 ("sched/pelt: Ensure that *_sum is always synced with *_avg")

@@ -1,0 +1,6 @@
+8eaf71f77c92 ("net: Initialise net.core sysctl defaults in preinit_net().")
+05be80125944 ("net: Slim down setup_net().")
+930299491825 ("net: Call preinit_net() without pernet_ops_rwsem.")
+2b5afc1d5d5a ("net: Initialise net->passive once in preinit_net().")
+f5769faeec36 ("net: Namespace-ify sysctl_optmem_max")
+4944566706b2 ("net: increase optmem_max default value")

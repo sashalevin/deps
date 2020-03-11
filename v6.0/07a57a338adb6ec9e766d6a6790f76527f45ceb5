@@ -1,0 +1,7 @@
+07a57a338adb ("mm,swapops: update check in is_pfn_swap_entry for hwpoison entries")
+d027122d8363 ("mm/hwpoison: move definitions of num_poisoned_pages_* to memory-failure.c")
+e591ef7d96d6 ("mm,hwpoison,hugetlb,memory_hotplug: hotremove memory section with hwpoisoned hugepage")
+0d206b5d2e0d ("mm/swap: add swp_offset_pfn() to fetch PFN from swap entry")
+eba4d770efc8 ("mm/swap: comment all the ifdef in swapops.h")
+21c9e90ab9a4 ("mm, hwpoison: use num_poisoned_pages_sub() to decrease num_poisoned_pages")
+f36a5543a748 ("mm, hwpoison: fix page refcnt leaking in try_memory_failure_hugetlb()")

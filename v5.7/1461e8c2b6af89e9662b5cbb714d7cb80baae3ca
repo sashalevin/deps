@@ -1,0 +1,6 @@
+1461e8c2b6af ("memcg: unify force charging conditions")
+a4ebf1b6ca1e ("memcg: prohibit unconditional exceeding the limit of dying tasks")
+3d0cbb981693 ("memcg: enable memcg oom-kill for __GFP_NOFAIL")
+1378b37d03e8 ("memcg, oom: check memcg margin for parallel oom")
+d977aa939fca ("mm, memcg: unify reclaim retry limits with page allocator")
+b3ff92916af3 ("mm, memcg: reclaim more aggressively before high allocator throttling")

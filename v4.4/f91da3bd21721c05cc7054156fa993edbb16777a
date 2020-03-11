@@ -1,0 +1,4 @@
+f91da3bd2172 ("dmaengine: move .device_release missing log warning to debug level")
+8ad342a86359 ("dmaengine: Add reference counting to dma_device struct")
+686607106f1f ("dmaengine: Call module_put() after device_free_chan_resources()")
+9eeacd3a2f17 ("dmaengine: enable DMA_CTRL_REUSE")

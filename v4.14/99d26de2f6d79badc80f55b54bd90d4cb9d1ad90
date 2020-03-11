@@ -1,0 +1,6 @@
+99d26de2f6d7 ("writeback: make the laptop_mode prototypes available unconditionally")
+bca237a52ca0 ("block/laptop_mode: Convert timers to use timer_setup()")
+4e9b6f20828a ("block: Fix a race between blk_cleanup_queue() and timeout handling")
+0ab29fd0accf ("writeback: pass in '0' for nr_pages writeback in laptop mode")
+47410d88f665 ("writeback: remove 'range_cyclic' argument for wb_start_writeback()")
+d31cd9d326f2 ("writeback: switch wakeup_flusher_threads() to cyclic writeback")

@@ -1,0 +1,6 @@
+525f447f88b1 ("scsi: target: Fix incorrect use of cpumask_t")
+d72d827f2f26 ("scsi: target: Add iscsi/cpus_allowed_list in configfs")
+f55d0b40eccf ("scsi: target: iscsi: Free conn_ops when zalloc_cpumask_var failed")
+05a86e78ea98 ("scsi: iscsi: target: Fix conn_ops double free")
+f7c9564a7cfa ("target/iscsi: Convert timers to use timer_setup()")
+8a47aa9dc636 ("target/iscsi: Simplify timer manipulation code")

@@ -1,0 +1,6 @@
+15b0c79cfada ("mm: migrate_device: unify migrate folio for MIGRATE_SYNC_NO_COPY")
+6aaaef5b6fe3 ("mm: migrate_device: use a newfolio in __migrate_device_pages()")
+e18a9faf06c2 ("migrate: expand the use of folio in __migrate_device_pages()")
+df263d9a7dff ("mm/migrate_device: try to handle swapcache pages")
+241f68859656 ("mm/migrate_device.c: refactor migrate_vma and migrate_deivce_coherent_page()")
+16ce101db85d ("mm/memory.c: fix race when faulting a device private page")

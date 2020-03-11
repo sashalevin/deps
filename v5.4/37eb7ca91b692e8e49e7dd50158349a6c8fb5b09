@@ -1,0 +1,8 @@
+37eb7ca91b69 ("powerpc/32s: Allocate one 256k IBAT instead of two consecutives 128k IBATs")
+8b14e1dff067 ("powerpc: Remove support for PowerPC 601")
+ee36d867b2fe ("powerpc: Drop old comment about CONFIG_POWER")
+df4d4ef22446 ("powerpc/32s: Fix CONFIG_BOOK3S_601 uses")
+4b19f96a81bc ("powerpc/32s: Don't warn when mapping RO data ROX.")
+8961a2a5353c ("powerpc/ptdump: Standardise display of BAT flags")
+6b30830e2003 ("powerpc/ptdump: Display size of BATs")
+9eb425b2e04e ("powerpc/entry: Fix an #if which should be an #ifdef in entry_32.S")

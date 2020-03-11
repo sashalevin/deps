@@ -1,0 +1,5 @@
+7ab8b810757a ("mtd: spi-nor: sfdp: Add support for SCCR map for multi-chip device")
+5273cc6df984 ("mtd: spi-nor: core: Call spi_nor_post_sfdp_fixups() only when SFDP is defined")
+dacc8cfee493 ("mtd: spi-nor: core: Introduce the late_init() hook")
+981a8d60e01f ("mtd: spi-nor: Parse SFDP SCCR Map")
+fb27f198971a ("mtd: spi-nor: sfdp: parse xSPI Profile 1.0 table")

@@ -1,0 +1,5 @@
+2382a405c581 ("riscv, bpf: Use bpf_prog_pack for RV64 bpf trampoline")
+9f1e16fb1fc9 ("riscv, bpf: Fix out-of-bounds issue when preparing trampoline image")
+96d1b7c081c0 ("bpf: Add arch_bpf_trampoline_size()")
+82583daa2efc ("bpf: Add helpers for trampoline image management")
+7a3d9a159b17 ("bpf: Adjust argument names of arch_prepare_bpf_trampoline()")

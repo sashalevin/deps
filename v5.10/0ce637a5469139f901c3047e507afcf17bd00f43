@@ -1,0 +1,8 @@
+0ce637a54691 ("thermal/core: Use the thermal zone 'devdata' accessor in hwmon located drivers")
+c4f683731db3 ("hwmon: (scmi) Register explicitly with Thermal Framework")
+e5181331359d ("hwmon/drivers/core: Switch to new of thermal API")
+613ed3f67609 ("hwmon: pm_bus: core: Switch to new of thermal API")
+3aa74796cfd0 ("hwmon: (pmbus) Register with thermal for PSC_TEMPERATURE")
+1b5f517cca36 ("hwmon: Handle failure to register sensor with thermal zone correctly")
+a5f6c0f85a09 ("hwmon: Support set_trips() of thermal device ops")
+987bae41e94b ("hwmon: (scmi) port driver to the new scmi_sensor_proto_ops interface")

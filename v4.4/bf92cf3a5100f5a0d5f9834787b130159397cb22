@@ -1,0 +1,7 @@
+bf92cf3a5100 ("futex: Cleanup refcounting")
+734009e96d19 ("futex: Change locking rules")
+499f5aca2cdd ("futex: Cleanup variable names for futex_top_waiter()")
+89e9e66ba1b3 ("futex: Handle unlock_pi race gracefully")
+ecb38b78f698 ("futex: Document pi_state refcounting in requeue code")
+29e9ee5d48c3 ("futex: Rename free_pi_state() to put_pi_state()")
+fb75a4282d0d ("futex: Drop refcount if requeue_pi() acquired the rtmutex")

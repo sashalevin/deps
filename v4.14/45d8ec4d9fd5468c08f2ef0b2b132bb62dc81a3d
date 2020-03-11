@@ -1,0 +1,2 @@
+45d8ec4d9fd5 ("ext4: update i_disksize if direct write past ondisk size")
+73fdad00b208 ("ext4: protect i_disksize update by i_data_sem in direct write path")

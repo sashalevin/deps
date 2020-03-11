@@ -1,0 +1,7 @@
+e1980df36c5c ("iommu/amd: Remove PD_DMA_OPS_MASK")
+301441a09946 ("iommu/amd: Consolidate domain allocation/freeing")
+75b27745097d ("iommu/amd: Free page-table in protection_domain_free()")
+a71730e225be ("iommu/amd: Allocate page-table in protection_domain_init()")
+1226c3707446 ("iommu/amd: Let free_pagetable() not rely on domain->pt_root")
+eb791aa70b90 ("iommu/amd: Fix race in increase_address_space()/fetch_pte()")
+9b3a713feef8 ("Merge branches 'iommu/fixes', 'arm/qcom', 'arm/renesas', 'arm/rockchip', 'arm/mediatek', 'arm/tegra', 'arm/smmu', 'x86/amd', 'x86/vt-d', 'virtio' and 'core' into next")

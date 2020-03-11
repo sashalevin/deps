@@ -1,0 +1,5 @@
+39a4d779546a ("perf/x86/core: Pass "struct kvm_pmu *" to determine the guest values")
+c8e2fe13d1d1 ("x86/perf: Use RET0 as default for guest_get_msrs to handle "no PMU" case")
+abd562df94d1 ("x86/perf: Use static_call for x86_pmu.guest_get_msrs")
+7c9903c9bf71 ("x86/perf, static_call: Optimize x86_pmu methods")
+b2d6504761a5 ("perf/x86/lbr: Add interface to get LBR information")

@@ -1,0 +1,3 @@
+0891fb39ba67 ("xen/events: don't use chip_data for legacy IRQs")
+c330fb1ddc0a ("XEN uses irqdesc::irq_data_common::handler_data to store a per interrupt XEN data pointer which contains XEN specific information.")
+0102e4efda76 ("xen: Use evtchn_type_t as a type for event channels")

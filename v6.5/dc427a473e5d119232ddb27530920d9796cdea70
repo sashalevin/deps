@@ -1,0 +1,6 @@
+dc427a473e5d ("drm/amdkfd: Use partial migrations in GPU page faults")
+eb3c357bcb28 ("drm/amdkfd: Handle errors from svm validate and map")
+c99b16128082 ("drm/amdkfd: Remove svm range validated_once flag")
+df954b695cc5 ("drm/amdkfd: Separate dma unmap and free of dma address array operations")
+ebac9414a56a ("drm/amdkfd: retry after EBUSY is returned from hmm_ranges_get_pages")
+ab3400eb9459 ("drm/amdkfd: avoid unmap dma address when svm_ranges are split")

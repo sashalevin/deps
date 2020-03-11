@@ -1,0 +1,5 @@
+63817febd1f3 ("landlock: Use f_cred in security_file_open() hook")
+d7220364039f ("landlock: Allow FS topology changes for domains without such rule type")
+13fc6455fa19 ("landlock: Make ruleset's access masks more generic")
+b9f5ce27c8f8 ("landlock: Support file truncation")
+55e55920bbe3 ("landlock: Fix file reparenting without explicit LANDLOCK_ACCESS_FS_REFER")

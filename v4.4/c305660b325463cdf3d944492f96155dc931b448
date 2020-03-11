@@ -1,0 +1,8 @@
+c305660b3254 ("net: stmmac: build the dwmac-socfpga platform driver for Stratix10")
+bc8a2d9bcbf1 ("net: stmmac: socfpga: add additional ocp reset line for Stratix10")
+fb3bbdb85989 ("net: ethernet: Add TSE PCS support to dwmac-socfpga")
+2e280c188f06 ("stmmac: make platform drivers depend on their associated SoC")
+70cb136f7730 ("stmmac: dwmac-socfpga: keep a copy of stmmac_rst in driver priv data")
+3c201b5a84ed ("net: stmmac: socfpga: Remove re-registration of reset controller")
+734e00fa02ef ("net: stmmac: socfgpa: Ensure emac bit set in System Manger for PTP")
+43569814fa35 ("stmmac: socfpga: Provide dt node to config ptp clk source.")

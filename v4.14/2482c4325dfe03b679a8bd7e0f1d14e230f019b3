@@ -1,0 +1,6 @@
+2482c4325dfe ("f2fs: detect bug_on in f2fs_wait_discard_bios")
+9a997188ff7a ("f2fs: let fstrim issue discard commands in lower priority")
+cf5c759f927d ("f2fs: give up CP_TRIMMED_FLAG if it drops discards")
+78997b569f56 ("f2fs: split discard policy")
+ecc9aa00dbb1 ("f2fs: wrap discard policy")
+8412663d177d ("f2fs: support issuing/waiting discard in range")

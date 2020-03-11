@@ -1,0 +1,8 @@
+f4bd73b5a950 ("af_unix: Return errno instead of NULL in unix_create1().")
+94531cfcbe79 ("af_unix: Add unix_stream_proto for sockmap")
+0b8464459858 ("unix_bpf: Fix a potential deadlock in unix_dgram_bpf_recvmsg()")
+9825d866ce0d ("af_unix: Implement unix_dgram_bpf_recvmsg()")
+c63829182c37 ("af_unix: Implement ->psock_update_sk_prot()")
+c7272e15f0f1 ("af_unix: Add a dummy ->close() for sockmap")
+29df44fa52b7 ("af_unix: Implement ->read_sock() for sockmap")
+0365351524d7 ("net: Allow iterating sockmap and sockhash")

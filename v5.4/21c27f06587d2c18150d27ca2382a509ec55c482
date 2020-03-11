@@ -1,0 +1,7 @@
+21c27f06587d ("driver core: Fix SYNC_STATE_ONLY device link implementation")
+21eb93f432b1 ("driver core: Call sync_state() even if supplier has no consumers")
+26e77708fdc2 ("driver core: Allow device link operations inside sync_state()")
+05ef983e0d65 ("driver core: Add device link support for SYNC_STATE_ONLY flag")
+fc5a251d0fd7 ("driver core: Add sync_state driver/bus callback")
+e2ae9bcc4aaa ("driver core: Add support for linking devices during device addition")
+372a67c0c5ef ("driver core: Add fwnode_to_dev() to look up device from fwnode")

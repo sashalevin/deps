@@ -1,0 +1,8 @@
+a06ad3c0c752 ("mm/hwpoison: add in-use hugepage hwpoison filter judgement")
+91d005479e06 ("mm/hwpoison: mf_mutex for soft offline and unpoison")
+171936ddaf97 ("mm/memory-failure: use a mutex to avoid memory_failure() races")
+dad4e5b39086 ("mm: fix page reference leak in soft_offline_page()")
+2f7141600d67 ("mm,hwpoison: disable pcplists before grabbing a refcount")
+8295d535e2aa ("mm,hwpoison: refactor get_any_page")
+a8b2c2ce89d4 ("mm,hwpoison: take free pages off the buddy freelists")
+17e395b60f5b ("mm,hwpoison: drain pcplists before bailing out for non-buddy zero-refcount page")

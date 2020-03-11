@@ -1,0 +1,3 @@
+88bc1922c273 ("libceph: defer __complete_request() to a workqueue")
+26df726bcdfa ("libceph: move more code into __complete_request()")
+0d09c57d0846 ("libceph: no need to call flush_workqueue() before destruction")

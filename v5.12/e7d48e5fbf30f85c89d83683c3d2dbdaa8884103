@@ -1,0 +1,8 @@
+e7d48e5fbf30 ("net: enetc: add a mini driver for the Integrated Endpoint Register Block")
+4b47c0b81ffd ("net: enetc: don't initialize unused ports from a separate code path")
+5b4daa7f1256 ("net: enetc: pass bd_count as an argument to enetc_setup_cbdr")
+0bfde022b345 ("net: enetc: squash clear_cbdr and free_cbdr into teardown_cbdr")
+27f9025d4941 ("net: enetc: save the mode register address inside struct enetc_cbdr")
+24be14e3260a ("net: enetc: squash enetc_alloc_cbdr and enetc_setup_cbdr")
+01121ab73924 ("net: enetc: save the DMA device for enetc_free_cbdr")
+176769d10f96 ("net: enetc: move the CBDR API to enetc_cbdr.c")

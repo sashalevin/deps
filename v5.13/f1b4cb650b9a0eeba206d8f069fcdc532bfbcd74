@@ -1,0 +1,8 @@
+f1b4cb650b9a ("iov_iter: Derive user-backedness from the iterator type")
+581beb4fe37d ("iov_iter: Remove last_offset from iov_iter as it was for ITER_PIPE")
+245f09226893 ("mm: hwpoison: coredump: support recovery from dump_user_range()")
+747b1f65d39a ("iov_iter: overlay struct iovec and ubuf/len")
+95e49cf8373a ("iov_iter: add iter_iov_addr() and iter_iov_len() helpers")
+de4f5fed3f23 ("iov_iter: add iter_iovec() helper")
+0a2481cde24f ("block: ensure bio_alloc_map_data() deals with ITER_UBUF correctly")
+c1ef50030795 ("Merge tag 'for-6.3/iter-ubuf-2023-02-16' of git://git.kernel.dk/linux")

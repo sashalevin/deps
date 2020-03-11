@@ -1,0 +1,8 @@
+b2bc58d41fde ("net: bridge: vlan: check early for lack of BRENTRY flag in br_vlan_add_existing")
+169327d5850c ("net: bridge: Propagate extack to switchdev")
+9c86ce2c1ae3 ("net: bridge: Notify about bridge VLANs")
+dbd6dc752c8a ("net: bridge: Extract br_vlan_add_existing()")
+d66e4348969d ("net: bridge: Extract boilerplate around switchdev_port_obj_*()")
+928990631327 ("net: bridge: add notifications for the bridge dev on vlan change")
+f418af6343fb ("bridge: vlan: signal if anything changed on vlan add")
+e19b42a1a066 ("bridge: netlink: make setlink/dellink notifications more accurate")

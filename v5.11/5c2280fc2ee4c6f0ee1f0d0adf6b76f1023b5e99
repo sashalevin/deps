@@ -1,0 +1,6 @@
+5c2280fc2ee4 ("r8169: use mac-managed PHY PM")
+f658b90977d2 ("r8169: fix DMA being used after buffer free if WoL is enabled")
+7257c977c811 ("r8169: clean up rtl_pll_power_down/up functions")
+128735a1530e ("r8169: improve handling D3 PLL power-down")
+9224d97183d9 ("r8169: enable PLL power-down for chip versions 34, 35, 36, 42")
+acb58657c869 ("r8169: improve RTL8168g PHY suspend quirk")

@@ -1,1 +1,3 @@
 5c49ac3ac656 ("media: ov6650: Fix device node exposed without proper locking")
+c62b96050bee ("media: ov6650: Register with asynchronous subdevice framework")
+ccdd85d518d8 ("media: ov6650: Move v4l2_clk_get() to ov6650_video_probe() helper")

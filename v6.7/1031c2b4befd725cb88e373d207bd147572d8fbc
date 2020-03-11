@@ -1,0 +1,6 @@
+1031c2b4befd ("pwm: meson: Add generic compatible for meson8 to sm1")
+f2cea1dc2a98 ("pwm: meson: generalize 4 inputs clock on meson8 pwm type")
+28ecf9bd5ea2 ("pwm: meson: Make use of devm_pwmchip_alloc() function")
+e369035a9889 ("pwm: meson: Make use of pwmchip_parent() accessor")
+b647dcfde1b5 ("pwm: meson: Change prototype of a few helpers to prepare further changes")
+b41ccc3bc9da ("pwm: meson: Simplify using dev_err_probe()")

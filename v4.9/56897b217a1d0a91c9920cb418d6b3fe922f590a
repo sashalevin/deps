@@ -1,0 +1,5 @@
+56897b217a1d ("Bluetooth: hci_ldisc: Postpone HCI_UART_PROTO_READY bit set in hci_uart_set_proto()")
+32a7b4cbe93b ("Bluetooth: hci_ldisc: Initialize hci_dev before open()")
+d160b74da85a ("Bluetooth: hci_ldisc: Add missing clear HCI_UART_PROTO_READY")
+a225b8c70af9 ("Bluetooth: hci_ldisc: Ensure hu->hdev set to NULL before freeing hdev")
+cb926520e18e ("Bluetooth: hci_ldisc: Add missing return in hci_uart_init_work()")

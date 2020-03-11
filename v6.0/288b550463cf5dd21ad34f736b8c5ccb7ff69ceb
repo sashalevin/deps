@@ -1,0 +1,7 @@
+288b550463cf ("mfd: pm8008: Rework to match new DT binding")
+c251befb097e ("mfd: pm8008: Deassert reset on probe")
+6ad7f80b5325 ("mfd: pm8008: Fix regmap irq chip initialisation")
+c8bce48225ef ("mfd: qcom-pm8008: Remove workaround for a regmap-irq quirk")
+ba97b5a50562 ("mfd: qcom-pm8008: Use .get_irq_reg() for irq chip")
+fd0a2afa5ab2 ("mfd: qcom-pm8008: Convert irq chip to config regs")
+172a293707a5 ("mfd: qcom-pm8008: Fix swapped mask/unmask in irq chip")

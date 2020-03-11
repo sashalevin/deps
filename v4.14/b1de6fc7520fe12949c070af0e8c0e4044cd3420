@@ -1,0 +1,6 @@
+b1de6fc7520f ("xfs: fix log reservation overflows when allocating large rt extents")
+9bb54cb56ae8 ("xfs: clean up MIN/MAX")
+57af33e451b7 ("xfs: refactor inode chunk alloc/free tx reservation")
+f03c78f39710 ("xfs: include an allocfree res for inobt modifications")
+a606ebdb859e ("xfs: truncate transaction does not modify the inobt")
+a6f485908d52 ("xfs: include inobt buffers in ifree tx log reservation")

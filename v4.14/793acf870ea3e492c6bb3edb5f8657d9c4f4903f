@@ -1,0 +1,5 @@
+793acf870ea3 ("arm64: KVM: Describe data or unified caches as having 1 set and 1 way")
+f7f2b15c3d42 ("arm64: KVM: Expose sanitised cache type register to guest")
+e22fa39cd013 ("KVM: arm64: Remove non-existent AArch32 ICC_SGI1R encoding")
+005781be127f ("arm64: KVM: Move CPU ID reg trap setup off the world switch path")
+93390c0a1b20 ("arm64: KVM: Hide unsupported AArch64 CPU features from guests")

@@ -1,0 +1,5 @@
+a5aa5ce30059 ("smp: Inline on_each_cpu_cond() and on_each_cpu()")
+a32a4d8a815c ("smp: Run functions concurrently in smp_call_function_many_cond()")
+545b8c8df41f ("smp: Cleanup smp_call_function*()")
+35feb60474bf ("kernel/smp: Provide CSD lock timeout diagnostics")
+e48c15b796d4 ("smp: Add source and destination CPUs to __call_single_data")

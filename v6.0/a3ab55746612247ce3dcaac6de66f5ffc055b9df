@@ -1,0 +1,4 @@
+a3ab55746612 ("f2fs: flush inode if atomic file is aborted")
+4d8d45df2252 ("f2fs: correct i_size change for atomic writes")
+b4dac1203f39 ("f2fs: change to use atomic_t type form sbi.atomic_files")
+8ec071c363da ("f2fs: account swapfile inodes")

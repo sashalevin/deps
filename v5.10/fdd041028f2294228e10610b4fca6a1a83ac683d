@@ -1,0 +1,7 @@
+fdd041028f22 ("perf/x86/intel/uncore: Factor out topology_gidnid_map()")
+1692cf434ba1 ("perf/x86/intel/uncore: Fix NULL pointer dereference issue in upi_fill_topology()")
+f680b6e6062e ("perf/x86/intel/uncore: Enable UPI topology discovery for Icelake Server")
+c4aebdb3b5f5 ("perf/x86/intel/uncore: Get UPI NodeID and GroupID")
+4a0e3ff30980 ("perf/x86/intel/uncore: Fix a kernel WARNING triggered by maxcpus=1")
+9a7832ce3d92 ("perf/x86/intel/uncore: With > 8 nodes, get pci bus die id from NUMA info")
+ba9506be4e40 ("perf/x86/intel/uncore: Store the logical die id instead of the physical die id.")

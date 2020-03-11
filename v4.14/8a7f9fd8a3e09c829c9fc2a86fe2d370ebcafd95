@@ -1,0 +1,8 @@
+8a7f9fd8a3e0 ("mwifiex: don't disable hardirqs; just softirqs")
+ce2e942e32e8 ("mwifiex: dispatch/rotate from reorder table atomically")
+1aa48f088615 ("Revert "mwifiex: restructure rx_reorder_tbl_lock usage"")
+5188d5453bc9 ("mwifiex: restructure rx_reorder_tbl_lock usage")
+5631909364e1 ("mwifiex: replace rx_pkt_lock by rx_reorder_tbl_lock")
+317049204cd3 ("mwifiex: Use put_unaligned_le32")
+f0f7c2275fb9 ("mwifiex: minor cleanups w/ sta_list_spinlock in cfg80211.c")
+40351051d022 ("mwifiex: kill useless list_empty checks")

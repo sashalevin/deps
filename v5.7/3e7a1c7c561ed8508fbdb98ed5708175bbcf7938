@@ -1,0 +1,6 @@
+3e7a1c7c561e ("ip_tunnel: use ndo_siocdevprivate")
+98d7fc46388a ("ipv4/ipv6: switch to dev_get_tstats64")
+8f3feb242081 ("vti: switch to dev_get_tstats64")
+f60fe2df931d ("sit: impement ->ndo_tunnel_ctl")
+fd5d687b76b3 ("sit: refactor ipip6_tunnel_ioctl")
+607259a69531 ("net: add a new ndo_tunnel_ioctl method")

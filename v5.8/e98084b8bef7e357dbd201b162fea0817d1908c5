@@ -1,0 +1,8 @@
+e98084b8bef7 ("xfs: move xfs_clear_li_failed out of xfs_ail_delete_one()")
+aac855ab1a98 ("xfs: make inode IO completion buffer centric")
+b01d1461ae6d ("xfs: call xfs_buf_iodone directly")
+9fe5c77cbe3c ("xfs: mark log recovery buffers for completion")
+0c7e5afbea99 ("xfs: mark dquot buffers in cache")
+f593bf144c7d ("xfs: mark inode buffers in cache")
+1319ebefd6ed ("xfs: add an inode item lock")
+1dfde687a65f ("xfs: remove logged flag from inode log item")

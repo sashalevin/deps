@@ -1,0 +1,8 @@
+e320d9c2e900 ("gpio: xlp: Fix build errors from Netlogic XLP removal")
+ea708ac5bf41 ("gpio: xlp: Remove Netlogic XLP variants")
+c7e66e48c05a ("gpio: xlp: Pass irqchip when adding gpiochip")
+3883de0287d0 ("drivers: gpio: xlp: devm_platform_ioremap_resource()")
+0c695e38d94f ("gpio: xlp: Use of_device_get_match_data()")
+240d3d5b2a7a ("gpio: xlp: update GPIO_XLP dependency")
+529f75d8ca21 ("gpio: xlp: Update for ARCH_THUNDER2")
+31bd86d9834f ("gpio: xlp: use resource management for irqs")

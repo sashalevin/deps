@@ -1,0 +1,7 @@
+650b2e69ff6a ("md: clean up openers check in do_md_stop() and md_set_readonly()")
+61c90765e131 ("md: remove redundant check of 'mddev->sync_thread'")
+c9f7cb5b2bc9 ("md: don't leave 'MD_RECOVERY_FROZEN' in error path of md_set_readonly()")
+09f894affcf2 ("md: do not require mddev_lock() for all options in array_state_store()")
+f97a5528b21e ("md: introduce md_ro_state")
+d7a4783883d3 ("md: check for NULL ->meta_bdev before calling bdev_read_only")
+69f637c33560 ("Merge tag 'for-5.11/drivers-2020-12-14' of git://git.kernel.dk/linux-block")

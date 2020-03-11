@@ -1,0 +1,7 @@
+ccf20ccccea3 ("mtd: rawnand: atmel: add sam9x60 nand controller support")
+e2c19c506c87 ("mtd: rawnand: atmel: add generic name for EBICSA regmap")
+e6848511d061 ("mtd: rawnand: atmel: Use uintptr_t casts instead of unsigned int")
+f9ce2eddf176 ("mtd: nand: atmel: Add ->setup_data_interface() hooks")
+70106ddaf311 ("mtd: nand: Fix a couple error codes")
+f88fc122cc34 ("mtd: nand: Cleanup/rework the atmel_nand driver")
+b5169d35ed58 ("mtd: nand: atmel: return error code of nand_scan_ident/tail() on error")

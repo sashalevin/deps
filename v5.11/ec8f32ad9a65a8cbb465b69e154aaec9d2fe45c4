@@ -1,0 +1,8 @@
+ec8f32ad9a65 ("xfrm: Fix leak of dev tracker")
+abe2343d37c2 ("xfrm: Fix spelling mistake "oflload" -> "offload"")
+919e43fad516 ("xfrm: add an interface to offload policy")
+adb5c33e4d4c ("xfrm: add extack support to xfrm_dev_state_add")
+482db2f1dd21 ("xfrm: store and rely on direction to construct offload flags")
+87e0a94e60ea ("xfrm: rename xfrm_state_offload struct to allow reuse")
+7c76ecd9c99b ("xfrm: enforce validity of offload input flags")
+dd72fadf2186 ("xfrm: Fix xfrm offload fallback fail case")

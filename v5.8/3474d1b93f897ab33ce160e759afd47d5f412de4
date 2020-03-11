@@ -1,0 +1,7 @@
+3474d1b93f89 ("io_uring/io-wq: make io_wq_work flags atomic")
+91215f70ea85 ("io_uring/io-wq: avoid garbage value of 'match' in io_wq_enqueue()")
+8a565304927f ("io_uring/io-wq: Use set_bit() and test_bit() at worker->flags")
+521223d7c229 ("io_uring/cancel: don't default to setting req->work.cancel_seq")
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")
+595e52284d24 ("io_uring/poll: don't enable lazy wake for POLLEXCLUSIVE")
+4de520f1fcef ("Merge tag 'io_uring-futex-2023-10-30' of git://git.kernel.dk/linux")

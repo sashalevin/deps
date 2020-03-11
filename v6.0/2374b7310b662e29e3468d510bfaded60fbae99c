@@ -1,0 +1,8 @@
+2374b7310b66 ("KVM: x86/pmu: Use separate array for defining "PMU MSRs to save"")
+8911ce66697e ("KVM: x86/pmu: Cap kvm_pmu_cap.num_counters_gp at KVM's internal max")
+6a5cba7bed35 ("KVM: x86/pmu: Correct the mask used in a pmu event filter lookup")
+b7483387e374 ("KVM: x86: Move hardware setup/unsetup to init/exit")
+1935542a04cc ("KVM: x86: Do timer initialization after XCR0 configuration")
+556f3c9ad7c1 ("KVM: x86/pmu: Limit the maximum number of supported AMD GP counters")
+4f1fa2a1bbeb ("KVM: x86/pmu: Limit the maximum number of supported Intel GP counters")
+8631ef59b622 ("KVM: x86/pmu: Do not speculatively query Intel GP PMCs that don't exist yet")

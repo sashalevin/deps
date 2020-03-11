@@ -1,0 +1,7 @@
+392825e0c76c ("iommu/fsl_pamu: remove fsl_pamu_get_domain_attr")
+52dd3ca4176f ("iommu/pamu: Convert to probe/release_device() call-backs")
+5131e08cd0f8 ("iommu: Remove .domain_{get,set}_windows")
+701d8a624a2d ("iommu: Tidy up window attributes")
+3ff2dcc05894 ("iommu/pamu: Fix PAMU boot crash")
+68a17f0be6fe ("iommu/pamu: Add support for generic iommu-device")
+07eb6fdf4933 ("iommu/pamu: WARN when fsl_pamu_probe() is called more than once")

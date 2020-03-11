@@ -1,0 +1,7 @@
+d14ac691bb6f ("mmc: renesas_sdhi: populate SCC pointer at the proper place")
+510bfe58936f ("mmc: tmio: remove indirection of 'execute_tuning' callback")
+5b0739d76227 ("mmc: tmio: don't reset whole IP core when tuning fails")
+576146ea4ed9 ("mmc: tmio: factor out common parts of the reset routine")
+a8c83064e733 ("mmc: tmio: remove indirection of 'hw_reset' callback")
+34e3211e5492 ("Revert "mmc: tmio: fix reset operation"")
+6e7d4de10890 ("mmc: renesas_sdhi: move wrong 'hw_reset' to 'reset'")

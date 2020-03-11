@@ -1,0 +1,4 @@
+9e9be9840fad ("xfs: fix broken variable-sized allocation detection in xfs_rtallocate_extent_block")
+e99aa0401eb4 ("xfs: don't scan off the end of the rt volume in xfs_rtallocate_extent_block")
+cb59233e8237 ("xfs: don't return too-short extents from xfs_rtallocate_extent_block")
+c8e5a0bfe008 ("xfs: push the calls to xfs_rtallocate_range out to xfs_bmap_rtalloc")

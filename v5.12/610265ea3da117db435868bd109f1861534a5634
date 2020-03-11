@@ -1,0 +1,8 @@
+610265ea3da1 ("KVM: x86/mmu: Rename slot_handle_leaf to slot_handle_level_4k")
+269e9552d208 ("KVM: const-ify all relevant uses of struct kvm_memory_slot")
+31c656570065 ("KVM: x86/mmu: Fix uninitialized boolean variable flush")
+e2209710ccc5 ("KVM: x86/mmu: Skip rmap operations if rmaps not allocated")
+a255740876f0 ("KVM: x86/mmu: Add a field to control memslot rmap allocation")
+56dd1019c885 ("KVM: x86/mmu: Factor out allocating memslot rmap")
+3ad93562093d ("KVM: x86: Support write protecting only large pages")
+d90b15edbefb ("KVM: x86: Remove unused function declaration")

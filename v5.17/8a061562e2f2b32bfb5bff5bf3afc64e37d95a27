@@ -1,0 +1,7 @@
+8a061562e2f2 ("RISC-V: KVM: Add extensible CSR emulation framework")
+1222b55cee23 ("RISC-V: KVM: Add extensible system instruction emulation framework")
+b91f0e4cb8a3 ("RISC-V: KVM: Factor-out instruction emulation into separate sources")
+26708234eb12 ("RISC-V: KVM: Use G-stage name for hypervisor page table")
+2031f2876896 ("KVM: Add helpers to wrap vcpu->srcu_idx and yell if it's abused")
+fdd6f6ac2e48 ("KVM: RISC-V: Use kvm_vcpu.srcu_idx, drop RISC-V's unnecessary copy")
+c9d3b5bd2693 ("RISC-V: KVM: Add common kvm_riscv_vcpu_wfi() function")

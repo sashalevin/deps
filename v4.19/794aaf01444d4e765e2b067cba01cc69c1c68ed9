@@ -1,0 +1,4 @@
+794aaf01444d ("spi: Fix use-after-free with devm_spi_alloc_*")
+5e844cc37a5c ("spi: Introduce device-managed SPI controller allocation")
+84855678add8 ("spi: Fix controller unregister order")
+ebc37af5e0a1 ("spi: No need to assign dummy value in spi_unregister_controller()")

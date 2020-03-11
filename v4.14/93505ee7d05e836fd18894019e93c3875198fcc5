@@ -1,0 +1,7 @@
+93505ee7d05e ("dma-buf: fix busy wait for new shared fences")
+a590d0fdbaa5 ("dma-buf: Update reservation shared_count after adding the new fence")
+27836b641c1b ("dma-buf: remove shared fence staging in reservation object")
+7f43ef9f0d98 ("dma-buf: Move BUG_ON from _add_shared_fence to _add_shared_inplace")
+ca25fe5efe4a ("dma-buf: try to replace a signaled fence in reservation_object_add_shared_inplace")
+4d9c62e8ce69 ("dma-buf: keep only not signaled fence in reservation_object_add_shared_replace v3")
+39e16ba16c14 ("dma-buf: make reservation_object_copy_fences rcu save")

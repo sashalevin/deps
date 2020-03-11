@@ -1,0 +1,7 @@
+1b5d0ddcb34a ("drm/msm: Disallow submit with fence id 0")
+e4f020c6a05d ("drm/msm: Switch idr_lock to spinlock")
+05ba44b3704e ("drm/msm: Split out idr_lock")
+17154addc5c1 ("drm/msm: Add MSM_SUBMIT_FENCE_SN_IN")
+ca3ffcbeb0c8 ("drm/msm/gpu: Don't allow zero fence_id")
+ea0006d390a2 ("drm/msm: Fix wait_fence submitqueue leak")
+357285a2d1c0 ("drm/msm: Improve drm/sched point of no return rules")

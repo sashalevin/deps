@@ -1,0 +1,5 @@
+8032cad10302 ("selftests/bpf: Clean up user_ringbuf, cgrp_kfunc, kfunc_dynptr_param tests")
+caf713c338bd ("bpf: Disallow NULLable pointers for trusted kfuncs")
+7525daeefc8c ("selftests/bpf: Use __failure macro in task kfunc testsuite")
+79168a669d81 ("bpf: Fix missing var_off check for ARG_PTR_TO_DYNPTR")
+d6fefa1105da ("bpf: Fix state pruning for STACK_DYNPTR stack slots")

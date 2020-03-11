@@ -1,0 +1,4 @@
+ff7b11aa481f ("net: socket: set sock->sk to NULL after calling proto_ops::release()")
+6d8c50dcb029 ("socket: close race condition between sock_close() and sockfs_setattr()")
+86741ec25462 ("net: core: Add a UID field to struct sock.")
+297dbde19cf6 ("netprio_cgroup: limit the maximum css->id to USHRT_MAX")

@@ -1,0 +1,6 @@
+b8c8ba73c68b ("slub: Introduce CONFIG_SLUB_RCU_DEBUG")
+b3c34245756a ("kasan: catch invalid free before SLUB reinitializes the object")
+6c6c47b063b5 ("mm, slab: call kvfree_rcu_barrier() from kmem_cache_destroy()")
+9f9796b413d3 ("mm, slab: move memcg charging to post-alloc hook")
+21c690a349ba ("mm: introduce slabobj_ext to support slab object extensions")
+17cce771c5fc ("mm, slab: remove memcg_from_slab_obj()")

@@ -1,0 +1,6 @@
+2125afbed841 ("iommu/exynos: Abstract non-common registers on different variants")
+bc0d9af21f46 ("iommu/exynos: Reuse SysMMU constants for page size and order")
+32977242f80e ("iommu/exynos: Make driver independent of the system page size")
+d0272ea1839b ("iommu/exynos: Remove unneeded local variable initialization")
+d5bf739dc762 ("iommu/exynos: Use smarter TLB flush method for v5 SYSMMU")
+d2c302b6e8b1 ("iommu/exynos: Make use of iommu_device_register interface")

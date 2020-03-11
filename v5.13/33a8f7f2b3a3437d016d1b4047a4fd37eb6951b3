@@ -1,0 +1,7 @@
+33a8f7f2b3a3 ("pagemap,pmem: introduce ->memory_failure()")
+00cc790e0036 ("mm: factor helpers for memory_failure_dev_pagemap")
+f25cbb7a95a2 ("mm: add zone device coherent type memory support")
+034e5afad921 ("mm: re-allow pinning of zero pfns")
+1c563432588d ("mm: fix is_pinnable_page against a cma page")
+405ce051236c ("mm/hwpoison: fix race between hugetlb free/demotion and memory_failure_hugetlb()")
+9030fb0bb9d6 ("Merge tag 'folio-5.18c' of git://git.infradead.org/users/willy/pagecache")

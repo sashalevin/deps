@@ -1,0 +1,7 @@
+64b6d1d7a845 ("genirq: Get rid of global lock in irq_do_set_affinity()")
+c48c8b829d2b ("genirq: Take the proposed affinity at face value if force==true")
+33de0aa4bae9 ("genirq: Always limit the affinity to online CPUs")
+04d4e665a609 ("sched/isolation: Use single feature type while referring to housekeeping cpumask")
+c8fb9f22ae22 ("net: Decouple HK_FLAG_WQ and HK_FLAG_DOMAIN cpumask fetch")
+7b45b51e7780 ("workqueue: Decouple HK_FLAG_WQ and HK_FLAG_DOMAIN cpumask fetch")
+9d42ea0d6984 ("pci: Decouple HK_FLAG_WQ and HK_FLAG_DOMAIN cpumask fetch")

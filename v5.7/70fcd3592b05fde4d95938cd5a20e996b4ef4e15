@@ -1,0 +1,7 @@
+70fcd3592b05 ("iommu/amd: Add helper functions to update domain->pt_root")
+ad8694bac410 ("iommu/amd: Move AMD IOMMU driver into subdirectory")
+786dfe496e3b ("iommu/amd: Merge private header files")
+75b27745097d ("iommu/amd: Free page-table in protection_domain_free()")
+a71730e225be ("iommu/amd: Allocate page-table in protection_domain_init()")
+1226c3707446 ("iommu/amd: Let free_pagetable() not rely on domain->pt_root")
+fb1b6955bbf3 ("iommu/amd: Unexport get_dev_data()")

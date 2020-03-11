@@ -1,0 +1,6 @@
+e5550a1447bf ("io_uring: use io_is_uring_fops() consistently")
+ed29b0b4fd83 ("io_uring: move to separate directory")
+9cae36a094e7 ("io_uring: reinstate the inflight tracking")
+61c1b44a21d7 ("io_uring: fix deadlock on iowq file slot alloc")
+8c71fe750215 ("io_uring: ensure fput() called correspondingly when direct install fails")
+9836e93c0a7e ("Merge tag 'for-5.19/io_uring-passthrough-2022-05-22' of git://git.kernel.dk/linux-block")

@@ -1,0 +1,5 @@
+56f487f8c8fc ("pnfs: Add conditional encode/decode of LAYOUTGET within OPEN compound")
+dff25ddb4808 ("nfs: add support for the umask attribute")
+cf80516579ce ("NFSv4: Add encode/decode of the layoutreturn op in CLOSE")
+3ecefc929599 ("NFSv4: Don't request close-to-open attribute when holding a delegation")
+536585ccf95d ("NFSv4: Don't check file access when reclaiming state")

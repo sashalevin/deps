@@ -1,0 +1,5 @@
+430d57f53eb1 ("usb: core: stop USB enumeration if too many retries")
+f061f43d7418 ("usb: hub: port: add sysfs entry to switch port power")
+8c67d06f3fd9 ("usb: Link the ports to the connectors they are attached to")
+b8f1ba99cea5 ("usb: hub: make wait_for_connected() take an int instead of a pointer to int")
+f59f93cd1d72 ("usb: hub: avoid warm port reset during USB3 disconnect")

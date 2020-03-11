@@ -1,0 +1,5 @@
+8a4675ebbd30 ("fbdev: Remove FBINFO_FLAG_DEFAULT from framebuffer_alloc()'ed structs")
+2cb14c86137d ("fbdev/vga16fb: Do not use struct fb_info.apertures")
+678573b8eee2 ("fbdev/vesafb: Do not use struct fb_info.apertures")
+7191ec8015f3 ("fbdev/efifb: Do not use struct fb_info.apertures")
+82dcb90b651b ("fbdev/efifb: Add struct efifb_par for driver data")

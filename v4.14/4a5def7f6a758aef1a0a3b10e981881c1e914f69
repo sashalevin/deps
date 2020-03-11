@@ -1,0 +1,3 @@
+4a5def7f6a75 ("VSOCK: Don't set sk_state to TCP_CLOSE before testing it")
+afbea2cd253b ("VSOCK: Don't call vsock_stream_has_data in atomic context")
+3b4477d2dcf2 ("VSOCK: use TCP state constants for sk_state")

@@ -1,0 +1,4 @@
+f3bf26326f1c ("serial: 8250_port: unify check of em485 variable")
+b18a183eaac2 ("tty: serial: Use GFP_ATOMIC instead of GFP_KERNEL in serial8250_em485_init()")
+e490c9144cfa ("tty: Add software emulated RS485 support for 8250")
+a07a70bcb72e ("tty: Move serial8250_stop_rx() in front of serial8250_start_tx()")

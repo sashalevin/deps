@@ -1,0 +1,5 @@
+28d7d128aad5 ("dm-thin: use blkdev_issue_flush instead of open coding it")
+f06c03d1ded2 ("dm thin: change data device's flush_bio to be member of struct pool")
+a4a8d286586d ("dm thin: fix use-after-free in metadata_pre_commit_callback")
+694cfe7f31db ("dm thin: Flush data device before committing metadata")
+4ae280b4ee34 ("dm thin: fix bug where bio that overwrites thin block ignores FUA")

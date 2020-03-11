@@ -1,0 +1,2 @@
+2ba4493a8b19 ("KVM: nVMX: Explicitly check for valid guest state for !unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")

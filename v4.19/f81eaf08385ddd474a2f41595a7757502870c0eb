@@ -1,0 +1,6 @@
+f81eaf08385d ("scsi: sd: Fix off-by-one error in sd_read_block_characteristics()")
+7fb019c46eee ("scsi: sd: Switch to using scsi_device VPD pages")
+27ba3e8ff3ab ("scsi: sd: sd_zbc: Fix handling of host-aware ZBC disks")
+a3d8a2573687 ("scsi: sd_zbc: Improve zone revalidation")
+b9245385f73c ("scsi: sd_zbc: Don't limit max_zone_append sectors to max_hw_sectors")
+818dbde78e0f ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

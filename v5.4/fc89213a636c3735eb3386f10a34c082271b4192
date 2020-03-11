@@ -1,0 +1,6 @@
+fc89213a636c ("mm,migrate: fix establishing demotion target")
+ac16ec835314 ("mm: migrate: support multiple target nodes demotion")
+a6a0251c6fce ("mm/migrate: fix CPUHP state to update node demotion order")
+884a6e5d1f93 ("mm/migrate: update node demotion order on hotplug events")
+79c28a416722 ("mm/numa: automatically generate node migration order")
+34290e2c6419 ("mm/migrate: add stable check in migrate_vma_insert_page()")

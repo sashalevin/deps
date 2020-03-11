@@ -1,0 +1,4 @@
+acb13ea0baf8 ("asm-generic/bitops: Always inline all bit manipulation helpers")
+068df05363b7 ("bitops, kcsan: Partially revert instrumentation for non-atomic bitops")
+b159eeccb75a ("asm-generic/bitops: Use instrument_read_write() where appropriate")
+27f937cc810a ("asm-generic, kcsan: Add KCSAN instrumentation for bitops")

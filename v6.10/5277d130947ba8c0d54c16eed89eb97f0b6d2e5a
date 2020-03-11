@@ -1,0 +1,5 @@
+5277d130947b ("btf: require pahole 1.21+ for DEBUG_INFO_BTF with default DWARF version")
+42450f7a9086 ("btf: move pahole check in scripts/link-vmlinux.sh to lib/Kconfig.debug")
+b1a9a5e04767 ("kbuild: merge temporary vmlinux for BTF and kallsyms")
+c442db3f49f2 ("kbuild: remove PROVIDE() for kallsyms symbols")
+ddf41329839f ("kbuild: refactor variables in scripts/link-vmlinux.sh")

@@ -1,0 +1,6 @@
+3d1adf7ada35 ("rcu: Make rcu_blocking_is_gp() stop early-boot might_sleep()")
+258f887aba60 ("rcu: Disable run-time single-CPU grace-period optimization")
+70ae7b0ce033 ("rcu: Fix preemption mode check on synchronize_rcu[_expedited]()")
+354c3f0e22dc ("rcu: Fix a typo in rcu_blocking_is_gp() header comment")
+ed73860cecc3 ("rcu: Fix single-CPU check in rcu_blocking_is_gp()")
+9b1ce0acb5e6 ("rcu/tree: Remove CONFIG_PREMPT_RCU check in force_qs_rnp()")

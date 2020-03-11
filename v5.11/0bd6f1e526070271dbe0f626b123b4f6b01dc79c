@@ -1,0 +1,4 @@
+0bd6f1e52607 ("x86/sev: Add a helper for the PVALIDATE instruction")
+007faec014cb ("x86/sev: Expose sev_es_ghcb_hv_call() for use by HyperV")
+c688bd5dc94e ("x86/sev: Carve out HV call's return value verification")
+06f2ac3d4219 ("x86/sev: Return an error on a returned non-zero SW_EXITINFO1[31:0]")

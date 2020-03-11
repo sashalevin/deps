@@ -1,0 +1,7 @@
+97a79e502e25 ("selftests/bpf: Add cross-build support for urandom_read et al")
+7089f85a9eb9 ("selftests/bpf: Add tests for symbol versioning for uprobe")
+b14b01f281f7 ("selftests/bpf: Fix liburandom_read.so linker error")
+2514a31241e1 ("selftests/bpf: Fix vmtest static compilation error")
+61fc5e66f755 ("selftests/bpf: Use consistent build-id type for liburandom_read.so")
+08c79c9cd67f ("selftests/bpf: Don't force lld on non-x86 architectures")
+3e6fe5ce4d48 ("libbpf: Fix internal USDT address translation logic for shared libraries")

@@ -1,0 +1,8 @@
+75037120e62b ("arm64: Disable PAN on uaccess_enable()")
+4b65a5db3627 ("arm64: Introduce uaccess_{disable,enable} functionality based on TTBR0_EL1")
+f33bcf03e607 ("arm64: Factor out TTBR0_EL1 post-update workaround into a specific asm macro")
+bd38967d406f ("arm64: Factor out PAN enabling/disabling into separate uaccess_* macros")
+82e0191a1aa1 ("arm64: Support systems without FP/ASIMD")
+c02433dd6de3 ("arm64: split thread_info from task stack")
+a9ea0017ebe8 ("arm64: factor out current_stack_pointer")
+3fe12da4c7fa ("arm64: asm-offsets: remove unused definitions")

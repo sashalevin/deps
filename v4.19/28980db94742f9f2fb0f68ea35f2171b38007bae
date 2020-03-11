@@ -1,0 +1,6 @@
+28980db94742 ("EDAC/amd64: Shut up an -Werror,-Wsometimes-uninitialized clang false positive")
+f00eb5ff2f6f ("EDAC/amd64: Remove redundant assignment to variable ret in hw_info_get()")
+80355a3b2db9 ("EDAC/amd64: Gather hardware information early")
+38ddd4d15745 ("EDAC/amd64: Make struct amd64_family_type global")
+bdcee7747f5c ("EDAC/amd64: Support more than two Unified Memory Controllers")
+4d30d2bc3c23 ("EDAC/amd64: Use a macro for iterating over Unified Memory Controllers")

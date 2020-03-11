@@ -1,0 +1,6 @@
+c4367ac83805 ("scsi: Remove scsi device no_start_on_resume flag")
+99398d2070ab ("scsi: sd: Do not issue commands to suspended disks on shutdown")
+3cc2ffe5c16d ("scsi: sd: Differentiate system and runtime start/stop management")
+0a8589055936 ("ata,scsi: do not issue START STOP UNIT on resume")
+af4edb1d50c6 ("scsi: core: sd: Add silence_suspend flag to suppress some PM messages")
+fe91c4725aee ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

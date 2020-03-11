@@ -1,0 +1,8 @@
+31bf508be656 ("netfilter: nf_tables: Implement table adoption support")
+179d9ba5559a ("netfilter: nf_tables: fix table flag updates")
+0854db2aaef3 ("netfilter: nf_tables: use net_generic infra for transaction data")
+19c28b1374fb ("netfilter: add helper function to set up the nfnetlink header and use it")
+802b805162a1 ("netfilter: nftables: add helper function to set the base sequence number")
+c520292f29b8 ("audit: log nftables configuration change events once per table")
+cefa31a9d461 ("netfilter: nft_log: perform module load from nf_tables")
+0ce7cf4127f1 ("netfilter: nftables: update table flags from the commit phase")

@@ -1,0 +1,6 @@
+1cebf8f143c2 ("socket: fix struct ifreq size in compat ioctl")
+44c02a2c3dc5 ("dev_ioctl(): move copyin/copyout to callers")
+b1b0c2450672 ("lift handling of SIOCIW... out of dev_ioctl()")
+4cf808e7ac32 ("kill dev_ifname32()")
+f92d4fc95341 ("kill bond_ioctl()")
+36fd633ec98a ("net: separate SIOCGIFCONF handling from dev_ioctl()")

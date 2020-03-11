@@ -1,0 +1,8 @@
+559c7c75c326 ("KVM: SVM: Rename SEV implemenations to conform to kvm_x86_ops hooks")
+03d004cd0715 ("KVM: x86: Use more verbose names for mem encrypt kvm_x86_ops hooks")
+7ad02ef0da25 ("KVM: x86: Use static_call() for copy/move encryption context ioctls()")
+405329fc9aee ("KVM: SVM: include CR3 in initial VMSA state for SEV-ES guests")
+3883bc9d28ed ("KVM: X86: Mark CR3 dirty when vcpu->arch.cr3 is changed")
+b56639318bb2 ("KVM: SEV: Add support for SEV intra host migration")
+5b92b6ca92b6 ("KVM: SEV: Allow some commands for mirror VM")
+b8917b4ae44d ("Merge tag 'kvmarm-5.14' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

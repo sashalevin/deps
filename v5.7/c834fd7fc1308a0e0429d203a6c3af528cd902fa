@@ -1,0 +1,6 @@
+c834fd7fc130 ("KVM: VMX: Fold ept_update_paging_mode_cr0() back into vmx_set_cr0()")
+ee5a5584cba3 ("KVM: VMX: Invert handling of CR0.WP for EPT without unrestricted guest")
+bddd82d19e2e ("KVM: nVMX: KVM needs to unset "unrestricted guest" VM-execution control in vmcs02 if vmcs12 doesn't set it")
+a0c134347baf ("KVM: VMX: introduce vmx_need_pf_intercept")
+fa71e9527f6a ("KVM: VMX: Use KVM_POSSIBLE_CR*_GUEST_BITS to initialize guest/host masks")
+7c83d096aed0 ("KVM: x86: Mark CR4.TSD as being possibly owned by the guest")

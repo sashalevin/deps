@@ -1,0 +1,8 @@
+e5bcbd1de676 ("vdpa/mlx5: Clear and reinitialize software VQ data on reset")
+1835ed4a5d49 ("vdpa/mlx5: Initialize and reset device with one queue pair")
+1f5d6476f121 ("vdpa/mlx5: Clarify meaning thorough function rename")
+f756dd3e2a4c ("vdpa/mlx5: Use vq suspend/resume during .set_map")
+60c43b3f6b4e ("vdpa/mlx5: Mark vq state for modification in hw vq")
+9b23417825df ("vdpa/mlx5: Mark vq addrs for modification in hw vq")
+145096937b8a ("vdpa/mlx5: Introduce per vq and device resume")
+651cdaa9c028 ("vdpa/mlx5: Allow modifying multiple vq fields in one modify command")

@@ -1,0 +1,6 @@
+d9a46e6e7141 ("ARM: linker script: factor out unwinding table sections")
+47b4c77dc356 ("ARM: linker script: factor out stuff for the .text section")
+ab42fad00953 ("ARM: linker script: factor out stuff for the DISCARD section")
+2f181e0ba8db ("ARM: linker script: factor out some common definitions between XIP and non-XIP")
+c60890616535 ("ARM: probes: avoid adding kprobes to sensitive kernel-entry/exit code")
+88cac29f42b1 ("ARM: vmlinux*.lds.S: some decruftification")

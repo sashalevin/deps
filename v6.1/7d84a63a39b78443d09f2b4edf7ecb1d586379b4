@@ -1,0 +1,8 @@
+7d84a63a39b7 ("backlight: hx8357: Convert to agnostic GPIO API")
+796bf946c426 ("backlight: hx8357: Use of_property_present() for testing DT property presence")
+99d18d42c942 ("gpiolib: of: add a quirk for reset line polarity for Himax LCDs")
+e3186e36925f ("gpiolib: of: factor out code overriding gpio line polarity")
+fbbbcd177a27 ("gpiolib: of: add quirk for locating reset lines with legacy bindings")
+307c593ba5f9 ("gpiolib: of: tighten selection of gpio renaming quirks")
+b311c5cba779 ("gpiolib: of: consolidate simple renames into a single quirk")
+326c3753a635 ("gpiolib: of: add a quirk for legacy names in Mediatek mt2701-cs42448")

@@ -1,0 +1,8 @@
+aac65321ba69 ("mm/memory_hotplug: simplify page onlining")
+ca9a46f8a4f0 ("mm/memory_hotplug: online_pages cannot be 0 in online_pages()")
+bd02cc01d342 ("mm/memory_hotplug: make sure the pfn is aligned to the order when onlining")
+b2c2ab208e4f ("mm/memory_hotplug: simplify online_pages_range()")
+5ecae6359e3a ("mm/memory_hotplug: drop PageReserved() check in online_pages_range()")
+e900a918b098 ("mm: shuffle initial free memory to improve memory-side-cache utilization")
+a9cd410a3d29 ("mm/page_alloc.c: memory hotplug: free pages as higher order")
+381eab4a6ee8 ("mm/memory_hotplug: fix online/offline_pages called w.o. mem_hotplug_lock")

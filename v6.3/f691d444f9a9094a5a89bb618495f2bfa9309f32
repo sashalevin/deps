@@ -1,0 +1,8 @@
+f691d444f9a9 ("crypto: arm64/aes-ccm - Merge finalization into en/decrypt asm helpers")
+715052884929 ("crypto: arm64/aes-ccm - Merge encrypt and decrypt tail handling")
+565def1542ab ("crypto: arm64/aes-ccm - Cache round keys and unroll AES loops")
+948ffc66e595 ("crypto: arm64/aes-ccm - Reuse existing MAC update for AAD input")
+c131098d6d9c ("crypto: arm64/aes-ccm - Replace bytewise tail handling with NEON permute")
+97c4c10dafcd ("crypto: arm64/aes-ccm - Pass short inputs via stack buffer")
+88c6d50f649b ("crypto: arm64/aes-ccm - Keep NEON enabled during skcipher walk")
+f722002441a1 ("crypto: arm64/aes-ccm - Revert "Rewrite skcipher walker loop"")

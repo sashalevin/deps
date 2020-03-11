@@ -1,0 +1,7 @@
+e591fcf6b4e3 ("mmc: sdhci-pci-o2micro: Fix card detect by dealing with debouncing")
+7d44061704dd ("mmc: sdhci-pci-o2micro: Fix O2 Host data read/write DLL Lock phase shift issue")
+908fd50813c2 ("mmc: sdhci-pci-o2micro: Move functions in preparation to fix DLL lock phase shift issue")
+9674bab490d6 ("mmc: sdhci-pci-o2micro: Change O2 Host PLL and DLL register name")
+de23f0b75776 ("mmc: sdhci: sdhci-pci-o2micro: Check if controller supports 8-bit width")
+69d91ed1469b ("mmc: sdhci: Fix O2 Host PLL and card detect issue")
+328be8bed213 ("mmc: sdhci: Moving sdhci_o2 into sdhci-pci-o2micro.c")

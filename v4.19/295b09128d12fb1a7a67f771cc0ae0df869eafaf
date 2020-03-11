@@ -1,0 +1,5 @@
+295b09128d12 ("serial: 8250_dw: Use devm_add_action_or_reset()")
+a8afc193558a ("serial: 8250_dw: Use devm_clk_get_optional() to get the input clock")
+4d5675c3b10b ("serial: 8250_dw: switch to use 8250_dwlib library")
+62907e90cc7e ("serial: 8250_dw: use pointer to uart local variable")
+a8571fda4740 ("serial: 8250_dw: Use a unified new dev variable in remove")

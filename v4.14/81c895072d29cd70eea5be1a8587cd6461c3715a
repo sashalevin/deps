@@ -1,0 +1,7 @@
+81c895072d29 ("tun: fix vlan packet truncation")
+aff3d70a07ff ("tun: allow to attach ebpf socket filter")
+cd5681d7d890 ("tuntap: rename struct tun_steering_prog to struct tun_prog")
+124da8f6118b ("tuntap: fix possible deadlock when fail to register netdev")
+cc166427dcda ("tun: avoid unnecessary READ_ONCE in tun_net_xmit")
+96f84061620c ("tun: add eBPF based queue selection method")
+5bbcc0f595fa ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next")

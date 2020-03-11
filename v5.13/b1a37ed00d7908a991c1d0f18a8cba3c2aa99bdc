@@ -1,0 +1,7 @@
+b1a37ed00d79 ("HID: core: Provide new max_buffer_size attribute to over-ride the default")
+b79c1abae5e1 ("HID: core: split data fetching from processing in hid_input_field()")
+74acc277b652 ("HID: core: de-duplicate some code in hid_input_field()")
+1c1813a743fe ("HID: core: statically allocate read buffers")
+f65a0b1f3e79 ("HID: do not inline some hid_hw_ functions")
+9e3562080950 ("HID: add suspend/resume helpers")
+24e166f43e93 ("HID: core: Add hid_hw_may_wakeup() function")

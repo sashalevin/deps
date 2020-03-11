@@ -1,0 +1,8 @@
+fb2c1934f305 ("soc: mediatek: pwrap: fix compiler errors")
+25269cefb691 ("soc: mediatek: PMIC wrap: remove pwrap_is_mt8135() and pwrap_is_mt8173()")
+95b25c589158 ("soc: mediatek: PMIC wrap: move wdt_src into the pmic_wrapper_type struct")
+174f7b4ce15f ("soc: mediatek: PMIC wrap: SPI_WRITE needs a different bitmask for MT2701/7623")
+e5eef49bc34b ("soc: mediatek: PMIC wrap: WRAP_INT_EN needs a different bitmask for MT2701/7623")
+a397845338af ("soc: mediatek: PMIC wrap: add wrapper callbacks for init_reg_clock")
+9bebedb054f9 ("soc: mediatek: PMIC wrap: don't duplicate the wrapper data")
+a3bbfbb0bc6b ("soc: mediatek: PMIC wrap: clear the STAUPD_TRIG bit of WDT_SRC_EN")

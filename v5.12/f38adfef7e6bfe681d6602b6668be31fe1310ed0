@@ -1,0 +1,4 @@
+f38adfef7e6b ("mm/highmem: VM_BUG_ON() if offset + len > PAGE_SIZE")
+d9a42b53bdf7 ("mm: use kmap_local_page in memzero_page")
+8dad53a11f8d ("mm: call flush_dcache_page() in memcpy_to_page() and memzero_page()")
+28961998f858 ("iov_iter: lift memzero_page() to highmem.h")

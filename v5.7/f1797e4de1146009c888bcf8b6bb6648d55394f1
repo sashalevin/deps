@@ -1,0 +1,6 @@
+f1797e4de114 ("powerpc/modules: Don't WARN on first module allocation attempt")
+4fcc636615b1 ("powerpc/modules: Make module_alloc() Strict Module RWX aware")
+8abddd968a30 ("powerpc/64s/radix: Enable huge vmalloc mappings")
+2ec13df16704 ("powerpc/modules: Load modules closer to kernel text")
+7fbc22ce2993 ("powerpc: Use MODULES_VADDR if defined")
+7dec42ab57f2 ("powerpc/kasan: Refactor update of early shadow mappings")

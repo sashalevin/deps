@@ -1,0 +1,7 @@
+f006229135b7 ("can: kvaser_usb: hydra: help gcc-13 to figure out cmd_len")
+39d3df6b0ea8 ("can: kvaser_usb: Compare requested bittiming parameters with actual parameters in do_set_{,data}_bittiming")
+00e578617764 ("can: kvaser_usb: Add struct kvaser_usb_busparams")
+8d21f5927ae6 ("can: kvaser_usb_leaf: Fix improved state not being reported")
+b24cb2d169e0 ("can: kvaser_usb: kvaser_usb_leaf: Handle CMD_ERROR_EVENT")
+7ea56128dbf9 ("can: kvaser_usb: kvaser_usb_leaf: Rename {leaf,usbcan}_cmd_error_event to {leaf,usbcan}_cmd_can_error_event")
+35364f5b41a4 ("can: kvaser_usb: kvaser_usb_leaf: Get capabilities from device")

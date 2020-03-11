@@ -1,0 +1,7 @@
+2ea626306810 ("powerpc/topology: Get topology for shared processors at boot")
+6c0a8f6b5a45 ("powerpc/pseries: Fix CONFIG_NUMA=n build")
+82343484a2d4 ("powerpc/pseries: Fix build break for SPLPAR=n and CPU hotplug")
+17f444c0549f ("powerpc/vphn: Update CPU topology when VPHN enabled")
+d98389f37532 ("powerpc/pseries: Factor out common cpu hotplug code")
+183deeea5871 ("powerpc/pseries: Consolidate CPU hotplug code to hotplug-cpu.c")
+1f859adb9253 ("powerpc/pseries: Verify CPU doesn't exist before adding")

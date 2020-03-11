@@ -1,0 +1,8 @@
+cad1a780e065 ("scsi: libsas: Use scsi_cmd_to_rq() instead of scsi_cmnd.request")
+39795d6534c6 ("block: don't hold the queue_lock over blk_abort_request")
+436c15ab6596 ("mtip32xx: quiesce request queues to make sure no submissions are inflight")
+1671d522cdd9 ("block: rename blk_mq_freeze_queue_start()")
+5ed61d3f08d4 ("block: add a read barrier in blk_queue_enter()")
+302ad8cc0933 ("nvme: Complete all stuck requests")
+6bae363ee305 ("blk-mq: Export blk_mq_freeze_queue_wait")
+36869cb93d36 ("Merge branch 'for-4.10/block' of git://git.kernel.dk/linux-block")

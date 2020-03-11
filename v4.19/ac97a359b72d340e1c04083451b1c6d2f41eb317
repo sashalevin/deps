@@ -1,1 +1,5 @@
 ac97a359b72d ("net: ethernet: ti: cpsw: Fix inconsistent IS_ERR and PTR_ERR in cpsw_probe()")
+83a8471ba255 ("net: ethernet: ti: cpsw: refactor probe to group common hw initialization")
+d183a9428dc5 ("net: ethernet: ti: cpsw: use devm_alloc_etherdev_mqs()")
+c8fb566875b7 ("net: ethernet: ti: cpsw: use local var dev in probe")
+9763a891a596 ("net: ethernet: ti: cpsw: update cpsw_split_res() to accept cpsw_common")

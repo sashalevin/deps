@@ -1,0 +1,6 @@
+618baaf7881e ("scsi: target/iscsi: Convert comments about locking into runtime checks")
+d19c4643a52f ("target: Fix ALUA transition state race between multiple initiators")
+760bf578edf8 ("target: fix race during implicit transition work flushes")
+1ca4d4fa3bfc ("target: allow userspace to set state to transitioning")
+d7175373f274 ("target: fix ALUA transition timeout handling")
+207ee84133c0 ("target: Use system workqueue for ALUA transitions")

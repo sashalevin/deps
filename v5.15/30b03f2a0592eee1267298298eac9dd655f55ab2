@@ -1,0 +1,5 @@
+30b03f2a0592 ("udp: Fall back to software USO if IPv6 extension headers are present")
+89add40066f9 ("net: drop bad gso csum_start and offset in virtio_net_hdr")
+fc8b2a619469 ("net: more strict VIRTIO_NET_HDR_GSO_UDP_L4 validation")
+9840036786d9 ("gso: fix dodgy bit handling for GSO_UDP_L4")
+cf9acc90c80e ("net: virtio_net_hdr_to_skb: count transport header in UFO")

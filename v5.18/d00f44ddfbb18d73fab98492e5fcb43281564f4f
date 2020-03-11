@@ -1,0 +1,8 @@
+d00f44ddfbb1 ("drm/gma500: Split GTT init/resume/fini into GTT and GEM functions")
+6069fd815d28 ("drm/gma500: Cleanup GTT uninit and error handling")
+97bd66c46d8b ("drm/gma500: Move GTT resume logic out of psb_gtt_init()")
+60a78f9ea0e6 ("drm/gma500: Move GTT setup and restoration into helper funtions")
+e160b70ba160 ("drm/gma500: Remove struct psb_gtt.sem sempahore")
+14e92dd104cd ("drm/gma500: Move GTT locking into GTT helpers")
+16dad99de8f2 ("drm/gma500: Acquire reservation lock for GEM objects")
+de2d1822f948 ("drm/gma500: Remove struct psb_gem_object.npage")

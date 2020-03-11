@@ -1,0 +1,5 @@
+95a301eefa82 ("mm/vmalloc: do not output a spurious warning when huge vmalloc() fails")
+f349b15e183d ("mm: vmalloc: avoid warn_alloc noise caused by fatal signal")
+c3d77172dfc0 ("mm/vmalloc: eliminate an extra orig_gfp_mask")
+9376130c390a ("mm/vmalloc: add support for __GFP_NOFAIL")
+451769ebb7e7 ("mm/vmalloc: alloc GFP_NO{FS,IO} for vmalloc")

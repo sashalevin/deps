@@ -1,0 +1,8 @@
+e6e8df07268c ("cpufreq: Add NULL checks to show() and store() methods of cpufreq")
+9b3d9bb3e4de ("cpufreq: Fix a circular lock dependency problem")
+a92551e41d5a ("cpufreq: Use cpuhp_setup_state_nocalls_cpuslocked()")
+c4a3fa261b16 ("cpufreq: Bring CPUs up even if cpufreq_online() failed")
+27622b061eb4 ("cpufreq: Convert to hotplug state machine")
+3834abb4e644 ("cpufreq: simplified goto out in cpufreq_register_driver()")
+cd73e9b01f63 ("cpufreq: Simplify switch () in cpufreq_cpu_callback()")
+a5acbfbd70bc ("Merge branch 'pm-cpufreq-governor' into pm-cpufreq")

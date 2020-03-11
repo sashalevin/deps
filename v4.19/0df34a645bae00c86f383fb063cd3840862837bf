@@ -1,0 +1,4 @@
+0df34a645bae ("apparmor: add outofband transition and use it in xattr match")
+dae6029325a4 ("apparmor: add consistency check between state and dfa diff encode flags")
+c659696964a7 ("apparmor: add a valid state flags check")
+8c62ed27a12c ("apparmor: fix aa_xattrs_match() may sleep while holding a RCU lock")

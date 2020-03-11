@@ -1,0 +1,7 @@
+8074a79fad2e ("platform/x86: intel_pmc_core: Add option to set/clear LPM mode")
+952c15538e53 ("platform/x86: intel_pmc_core: Add requirements file to debugfs")
+29c2dd88ac9e ("platform/x86: intel_pmc_core: Show LPM residency in microseconds")
+005125bfd70e ("platform/x86: intel_pmc_core: Handle sub-states generically")
+7dc4dc563dd4 ("platform/x86: intel_pmc_core: Remove global struct pmc_dev")
+c9f86d6ca6b5 ("platform/x86: intel_pmc_core: Don't use global pmcdev in quirks")
+ee7abc105e2b ("platform/x86: intel_pmc_core: export platform global reset bits via etr3 sysfs file")

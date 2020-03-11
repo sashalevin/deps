@@ -1,0 +1,8 @@
+c7078972038a ("pwm-sun4i: Convert "next_period" to local variable")
+c7dcccaec2f7 ("pwm: sun4i: Use nsecs_to_jiffies to avoid a division")
+d3817a647059 ("pwm: sun4i: Remove redundant needs_delay")
+9f28e95b5286 ("pwm: sun4i: Add support to output source clock directly")
+fa4d81784681 ("pwm: sun4i: Always calculate params when applying new parameters")
+71523d1812ac ("pwm: Ensure pwm_apply_state() doesn't modify the state argument")
+8aae4b02e8a6 ("pwm: sprd: Add Spreadtrum PWM support")
+6e2bbb688aa6 ("Merge tag 'pwm/for-5.3-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/thierry.reding/linux-pwm")

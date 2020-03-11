@@ -1,0 +1,7 @@
+421f1ab48452 ("mm: Make large folios depend on THP")
+ed2145c474c9 ("fs: Rename AS_THP_SUPPORT and mapping_thp_support")
+ff36da69bc90 ("fs: Remove FS_THP_SUPPORT")
+a6435940b62f ("mount: attach mappings to mounts")
+6f4d2f9770cf ("fs: do not update nr_thps for mappings which support THPs")
+01c70267053d ("fs: add a filesystem flag for THPs")
+735e4ae5ba28 ("vfs: track per-sb writeback errors and report them to syncfs")

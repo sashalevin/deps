@@ -1,0 +1,6 @@
+ed9de4ed3987 ("fbdev: udlfb: Fix endpoint check")
+aaf7dbe07385 ("video: fbdev: udlfb: properly check endpoint type")
+0adcdbcb1796 ("video: fbdev: don't print error message on framebuffer_alloc() failure")
+5f0e6ce18e65 ("video: fbdev: intelfb: return -ENOMEM on framebuffer_alloc() failure")
+602ecfbc0456 ("video: fbdev: s3c-fb: return -ENOMEM on framebuffer_alloc() failure")
+68a958a915ca ("udlfb: handle unplug properly")

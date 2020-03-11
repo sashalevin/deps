@@ -1,0 +1,8 @@
+af9fe6d607c9 ("pid: Improve the comment about waiting in zap_pid_ns_processes")
+d300b610812f ("kernel: use kernel_wait4() instead of sys_wait4()")
+e8cfbc245e24 ("pid: remove pidhash")
+95846ecf9dac ("pid: replace pid bitmap implementation with IDR API")
+235586939d7f ("kmod: split out umh code into its own file")
+dd1c1f2f2028 ("pids: make task_tgid_nr_ns() safe")
+27e37d84e55f ("pid: kill pidhash_size in pidhash_init()")
+3a75ad1457d9 ("Merge tag 'modules-for-v4.13' of git://git.kernel.org/pub/scm/linux/kernel/git/jeyu/linux")

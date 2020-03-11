@@ -1,0 +1,6 @@
+10004f813152 ("Bluetooth: btmrvl: improve printk messages")
+24a3a32a99ca ("Bluetooth: btmrvl: *_err() and *_info() strings should end with newlines")
+c8ba804437d6 ("Bluetooth: btmrvl: remove unnecessary wakeup interrupt number sanity check")
+17e41ea6db92 ("Bluetooth: btmrvl: wake system up when receives a wake irq")
+ffb955dba61d ("btmrvl: use dt's irqflags for wakeup pin")
+fd1a88da81d6 ("btmrvl: set irq_bt to -1 when failed to parse it")

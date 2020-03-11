@@ -1,0 +1,6 @@
+773af69121ec ("io_uring: always reissue from task_work context")
+8c130827f417 ("io_uring: don't alter iopoll reissue fail ret code")
+7b29f92da377 ("io_uring: cache async and regular file state for fixed files")
+de9b4ccad750 ("io_uring: wrap io_kiocb reference count manipulation in helpers")
+8c3f9cd1603d ("io_uring: use better types for cflags")
+dafecf19e25f ("io_uring: further deduplicate file slot selection")

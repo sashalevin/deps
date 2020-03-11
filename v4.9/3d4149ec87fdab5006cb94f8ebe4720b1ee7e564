@@ -1,0 +1,8 @@
+3d4149ec87fd ("Input: gpio_keys_polled - use struct_size() in devm_kzalloc()")
+b4e66e7d1948 ("Input: keyboard - use local variables consistently")
+de901cc31d15 ("Input: mpr121 - switch to device tree probe")
+9723ddc8fe0d ("Input: mpr121 - set missing event capability")
+700a38b27eef ("Input: gpio_keys - switch to using generic device properties")
+5feeca3c1e39 ("Input: gpio_keys - add support for GPIO descriptors")
+0860913b02c2 ("Input: gpio_keys - fix leaking DT node references")
+0f78ba96bbcf ("Input: gpio_keys_polled - keep button data constant")

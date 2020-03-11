@@ -1,0 +1,7 @@
+4caf8758b60b ("arm64: Rename get_thread_info()")
+7faa313f05ca ("arm64: preempt: Fix big-endian when checking preempt count in assembly")
+24534b351182 ("arm64: assembler: add macros to conditionally yield the NEON under PREEMPT")
+0f468e221c3a ("arm64: assembler: add utility macros to push/pop stack frames")
+51369e398d0d ("arm64: Make USER_DS an inclusive limit")
+27a921e75711 ("arm64: mm: Fix and re-enable ARM64_SW_TTBR0_PAN")
+eef94a3d09aa ("arm64: move TASK_* definitions to <asm/processor.h>")

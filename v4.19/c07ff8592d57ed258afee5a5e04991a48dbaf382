@@ -1,0 +1,6 @@
+c07ff8592d57 ("netem: fix return value if duplicate enqueue fails")
+a7fa12d15855 ("net: netem: fix error path for corrupted GSO frames")
+159d2c7d8106 ("sch_netem: fix rcu splat in netem_enqueue()")
+3e14c383de34 ("net: netem: fix use after free and double free with packet corruption")
+177b8007463c ("net: netem: fix backlog accounting for corrupted GSO frames")
+5845f706388a ("net: netem: fix skb length BUG_ON in __skb_to_sgvec")

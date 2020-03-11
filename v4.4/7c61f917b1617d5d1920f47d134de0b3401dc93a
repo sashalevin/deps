@@ -1,0 +1,7 @@
+7c61f917b161 ("mm/mmap: rename __vma_unlink_common() to __vma_unlink()")
+9d81fbe09a56 ("mm/mmap.c: __vma_unlink_prev() is not necessary now")
+93b343ab2d2f ("mm/mmap.c: prev could be retrieved from vma->vm_prev")
+8f26e0b176f3 ("mm: vma_merge: correct false positive from __vma_unlink->validate_mm_rb")
+e86f15ee64d8 ("mm: vma_merge: fix vm_page_prot SMP race condition against rmap_walk")
+734537c9cb72 ("mm: fix use-after-free if memory allocation failed in vma_adjust()")
+37f9f5595c26 ("thp: run vma_adjust_trans_huge() outside i_mmap_rwsem")

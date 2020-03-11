@@ -1,0 +1,8 @@
+b054d4f9eb4b ("net: ipa: only enable GSI channel control IRQs when needed")
+3ca97ffd984c ("net: ipa: cache last-saved GSI IRQ enabled type")
+97eb94c8c790 ("net: ipa: disable all GSI interrupt types initially")
+f9b28804ab50 ("net: ipa: define GSI interrupt types with an enum")
+a054539db196 ("net: ipa: rename gsi->event_enable_bitmap")
+d387c761fa8c ("net: ipa: eliminate legacy arguments")
+e6580d0eb7f4 ("net: ipa: share field mask values for GSI interrupt type")
+8463488af4be ("net: ipa: standarize more GSI error messages")

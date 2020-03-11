@@ -1,0 +1,4 @@
+6319194ec57b ("Unify the primitives for file descriptor closing")
+f49fd6d3c070 ("file: let pick_file() tell caller it's done")
+9eac1904d336 ("io_uring: get rid of intermediate IORING_OP_CLOSE stage")
+53dec2ea74f2 ("fs: provide locked helper variant of close_fd_get_file()")

@@ -1,0 +1,6 @@
+1e17a6f8721c ("KVM: x86: Don't snapshot pending INIT/SIPI prior to checking nested events")
+1b7a1b78d660 ("KVM: x86: Rename and expose helper to detect if INIT/SIPI are allowed")
+55749769fe60 ("KVM: x86: Fix wall clock writes in Xen shared_info not to mark page dirty")
+1cfc9c4b9d46 ("KVM: x86/xen: Maintain valid mapping of Xen shared_info page")
+4e8436479ad3 ("KVM: x86/xen: Fix get_attr of KVM_XEN_ATTR_TYPE_SHARED_INFO")
+319afe68567b ("KVM: xen: do not use struct gfn_to_hva_cache")

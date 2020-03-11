@@ -1,0 +1,8 @@
+5591c0694d85 ("KVM: X86: Zap the invalid list after remote tlb flushing")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+235539b48a23 ("kvm: add stubs for arch specific debugfs support")
+50c9e6f3a69d ("KVM: MMU: coalesce more page zapping in mmu_sync_children")
+35a70510ee13 ("KVM: MMU: move TLB flush out of __kvm_sync_page")
+b8c67b7a086c ("KVM: MMU: introduce kvm_mmu_flush_or_zap")
+0a47cd85833e ("KVM: MMU: Fix ubsan warnings")
+21ebbedaddf2 ("KVM: page track: add the framework of guest page tracking")

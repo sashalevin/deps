@@ -1,0 +1,6 @@
+b556a462eb8d ("kasan: save free stack traces for slab mempools")
+cf0da2afe3dc ("kasan: clean up __kasan_mempool_poison_object")
+2e7c954c11af ("kasan: add return value for kasan_mempool_poison_object")
+1bb843048d00 ("kasan: document kasan_mempool_poison_object")
+9b94fe91099c ("kasan: move kasan_mempool_poison_object")
+280ec6ccb642 ("kasan: rename kasan_slab_free_mempool to kasan_mempool_poison_object")

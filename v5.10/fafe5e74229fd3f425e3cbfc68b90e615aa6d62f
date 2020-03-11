@@ -1,0 +1,7 @@
+fafe5e74229f ("x86/paravirt: Switch functions with custom code to ALTERNATIVE")
+ae755b5a4548 ("x86/paravirt: Switch iret pvops to ALTERNATIVE")
+33634e42e38b ("x86/paravirt: Remove no longer needed 32-bit pvops cruft")
+ab234a260b1f ("x86/pv: Rework arch_local_irq_restore() to not use popf")
+afd30525a659 ("x86/xen: Drop USERGS_SYSRET64 paravirt call")
+53c9d9240944 ("x86/pv: Switch SWAPGS to ALTERNATIVE")
+31d854603305 ("x86/head/64: Remove unused GET_CR2_INTO() macro")

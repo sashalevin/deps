@@ -1,0 +1,6 @@
+4b71e2416ec4 ("NFS: Convert kmap_atomic() to kmap_local_folio()")
+ec108d3cc766 ("NFS: Convert readdir page array functions to use a folio")
+61f02e0ab81e ("NFS: Convert the readdir array-of-pages into an array-of-folios")
+1683ed16ff1a ("fs/nfs: Replace kmap_atomic() with kmap_local_page() in dir.c")
+c77c738c37d0 ("nfs: Replace kmap() with kmap_local_page()")
+aa5dc8c46189 ("nfs: Convert to free_folio")

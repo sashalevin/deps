@@ -1,0 +1,5 @@
+5d3bb77e5fce ("erofs: support multi-page folios for erofs_bread()")
+958b9f85f8d9 ("erofs_buf: store address_space instead of inode")
+469ad583c129 ("erofs: switch erofs_bread() to passing offset instead of block number")
+8b00be163f7b ("erofs: simplify z_erofs_read_fragment()")
+fd73a4395d47 ("erofs: boost negative xattr lookup with bloom filter")

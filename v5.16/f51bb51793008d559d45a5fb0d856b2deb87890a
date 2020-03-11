@@ -1,0 +1,8 @@
+f51bb5179300 ("net/mlx5: DR, Remove num_of_entries byte_size from struct mlx5_dr_icm_chunk")
+5c4f9b6e91e8 ("net/mlx5: DR, Remove icm_addr from mlx5dr_icm_chunk to reduce memory")
+003f4f9acb05 ("net/mlx5: DR, Remove mr_addr rkey from struct mlx5dr_icm_chunk")
+e5b2bc30c211 ("net/mlx5: DR, Cache STE shadow memory")
+cc2295cd54e4 ("net/mlx5: DR, Improve steering for empty or RX/TX-only matchers")
+9222f0b27da2 ("net/mlx5: DR, Add support for dumping steering info")
+08fac109f7bb ("net/mlx5: DR, Rename list field in matcher struct to list_node")
+32e9bd585307 ("net/mlx5: DR, Remove unused struct member in matcher")

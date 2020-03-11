@@ -1,0 +1,4 @@
+292648ac5cf1 ("mm: gup: allow FOLL_PIN to scale in SMP")
+a4d63c3732f1 ("mm: do not rely on mm == current->mm in __get_user_pages_locked")
+008cfe4418b3 ("mm: Introduce mm_struct.has_pinned")
+f81cd178ecfd ("mm/gup: might_lock_read(mmap_sem) in get_user_pages_fast()")

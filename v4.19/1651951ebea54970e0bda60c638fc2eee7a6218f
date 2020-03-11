@@ -1,0 +1,6 @@
+1651951ebea5 ("dccp: Call inet6_destroy_sock() via sk->sk_destruct().")
+d38afeec26ed ("tcp/udp: Call inet6_destroy_sock() in IPv6 sk->sk_destruct().")
+21985f43376c ("udp: Call inet6_destroy_sock() in setsockopt(IPV6_ADDRFORM).")
+f48d2ccee1ba ("udp: Remove unused variable/function (exact_dif)")
+23b0269e58ae ("net: udp6: prefer listeners bound to an address")
+4cdeeee9252a ("net: udp: prefer listeners bound to an address")

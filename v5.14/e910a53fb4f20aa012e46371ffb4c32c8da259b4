@@ -1,0 +1,4 @@
+e910a53fb4f2 ("KVM: x86: nSVM: disallow userspace setting of MSR_AMD64_TSC_RATIO to non default value when tsc scaling disabled")
+5228eb96a487 ("KVM: x86: nSVM: implement nested TSC scaling")
+9ebe530b9f5d ("KVM: SVM: Move RESET emulation to svm_vcpu_reset()")
+73143035c214 ("KVM: SVM: AVIC: drop unsupported AVIC base relocation code")

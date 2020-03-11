@@ -1,0 +1,8 @@
+dc194184d0ce ("drm/i915: Drop error handling from dma_fence_work")
+d4fa4e70acdf ("drm/i915: Rework clflush to work correctly without obj->mm.lock.")
+cd0452aa2a0d ("drm/i915: Preallocate stashes for vma page-directories")
+b297bde16c0f ("drm/i915/gt: Optimise aliasing-ppgtt allocations")
+12b07256c223 ("drm/i915: Export ppgtt_bind_vma")
+dc6cd912c7cd ("drm/i915/gt: Restore both GGTT bindings on resume")
+0109a16ef391 ("drm/i915/gt: Clear LOCAL_BIND from shared GGTT on resume")
+bf0840cdb304 ("drm/i915/gt: Stop cross-polluting PIN_GLOBAL with PIN_USER with no-ppgtt")

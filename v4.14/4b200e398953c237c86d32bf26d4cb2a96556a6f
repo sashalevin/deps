@@ -1,0 +1,6 @@
+4b200e398953 ("mld: convert ip6_sf_list to RCU")
+a84d01647989 ("mld: fix memory leak in mld_del_delrec()")
+08d3ffcc0cfa ("multicast: do not restore deleted record source filter mode to new one")
+c7ea20c9da5b ("ipv6/mcast: init as INCLUDE when join SSM INCLUDE group")
+6e2059b53f98 ("ipv4/igmp: init group mode as INCLUDE when join source group")
+b9b312a7a451 ("ipv6: mcast: better catch silly mtu values")

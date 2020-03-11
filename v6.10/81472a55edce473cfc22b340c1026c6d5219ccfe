@@ -1,0 +1,4 @@
+81472a55edce ("phy: cadence-torrent: remove noop_ops phy operations")
+d4f24d14f311 ("phy: cadence-torrent: add already_configured to struct cdns_torrent_phy")
+8512b6873461 ("phy: cadence-torrent: register resets even if the phy is already configured")
+c2286092424b ("phy: cadence-torrent: extract calls to clk_get from cdns_torrent_clk")

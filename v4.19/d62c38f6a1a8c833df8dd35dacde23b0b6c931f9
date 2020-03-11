@@ -1,0 +1,6 @@
+d62c38f6a1a8 ("net/ipv4: factor out MCAST_MSFILTER setsockopt helpers")
+6a1015b0b4b1 ("ipv4: potential underflow in compat_ip_setsockopt()")
+2bbf8c1ead65 ("ipv4: take handling of group_source_req options into a helper")
+2e04172875c9 ("ipv4: do compat setsockopt for MCAST_MSFILTER directly")
+e986d4dabcb8 ("set_mcast_msfilter(): take the guts of setsockopt(MCAST_MSFILTER) into a helper")
+e9c375fb5ede ("compat_ip{,v6}_setsockopt(): enumerate MCAST_... options explicitly")

@@ -1,0 +1,4 @@
+2580d3f40022 ("xfrm: Fix RCU vs hash_resize_mutex lock inversion")
+bc8e0adff343 ("net: xfrm: Use sequence counter with associated spinlock")
+e88add19f681 ("net: xfrm: Localize sequence counter per network namespace")
+77cc278f7b20 ("xfrm: policy: Use sequence counters with associated lock")

@@ -1,0 +1,7 @@
+59ab844eed9c ("compat: remove some compat entry points")
+e130242dc351 ("mm: simplify compat numa syscalls")
+5b1b561ba73c ("mm: simplify compat_sys_move_pages")
+598b3cec831f ("fs: remove compat_sys_vmsplice")
+89cd35c58bc2 ("iov_iter: transparently handle compat iovecs in import_iovec")
+bfdc59701d6d ("iov_iter: refactor rw_copy_check_uvector and import_iovec")
+fb041b598997 ("iov_iter: move rw_copy_check_uvector() into lib/iov_iter.c")

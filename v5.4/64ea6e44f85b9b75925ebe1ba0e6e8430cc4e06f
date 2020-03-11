@@ -1,0 +1,7 @@
+64ea6e44f85b ("cpu/hotplug: Make target_store() a nop when target == state")
+33c3736ec888 ("cpu/hotplug: Hide cpu_up/down()")
+b99a26593b51 ("cpu/hotplug: Move bringup of secondary CPUs out of smp_init()")
+d720f9860439 ("cpu/hotplug: Provide bringup_hibernate_cpu()")
+0441a5597c5d ("cpu/hotplug: Create a new function to shutdown nonboot cpus")
+93ef1429e556 ("cpu/hotplug: Add new {add,remove}_cpu() functions")
+dc8d37ed304e ("cpu/SMT: Fix x86 link error without CONFIG_SYSFS")

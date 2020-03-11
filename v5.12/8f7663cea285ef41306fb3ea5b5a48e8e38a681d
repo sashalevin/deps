@@ -1,0 +1,3 @@
+8f7663cea285 ("KVM: selftests: evmcs_test: Test that KVM_STATE_NESTED_EVMCS is never lost")
+c9ecafaf0113 ("KVM: selftests: evmcs_test: Check that VMCS12 is alway properly synced to eVMCS after restore")
+32d1b3ab588c ("KVM: selftests: evmcs_test: Check that VMLAUNCH with bogus EVMPTR is causing #UD")

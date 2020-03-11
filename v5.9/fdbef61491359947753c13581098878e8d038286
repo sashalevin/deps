@@ -1,0 +1,4 @@
+fdbef6149135 ("mm/mremap: don't account pages in vma_to_resize()")
+73d5e0629919 ("mremap: check if it's possible to split original vma")
+ad8ee77ea9db ("mm/mremap: for MREMAP_DONTUNMAP check security_vm_enough_memory_mm()")
+51df7bcb6151 ("mm/mremap: account memory on do_munmap() failure")

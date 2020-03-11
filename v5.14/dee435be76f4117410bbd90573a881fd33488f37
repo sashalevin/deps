@@ -1,0 +1,8 @@
+dee435be76f4 ("arm64: proton-pack: Report Spectre-BHB vulnerabilities as part of Spectre-v2")
+ba2689234be9 ("arm64: entry: Add vectors that have the bhb mitigation sequences")
+aff65393fa14 ("arm64: entry: Add non-kpti __bp_harden_el1_vectors for mitigations")
+c47e4d04ba0f ("arm64: entry: Make the kpti trampoline's kpti sequence optional")
+13d7a08352a8 ("arm64: entry: Move trampoline macros out of ifdef'd section")
+ed50da776453 ("arm64: entry: Don't assume tramp_vectors is the start of the vectors")
+c091fb6ae059 ("arm64: entry: Move the trampoline data page before the text page")
+d739da1694a0 ("arm64: entry: Make the trampoline cleanup optional")

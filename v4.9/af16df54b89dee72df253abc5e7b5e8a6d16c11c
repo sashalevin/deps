@@ -1,0 +1,6 @@
+af16df54b89d ("ima: force signature verification when CONFIG_KEXEC_SIG is configured")
+fd7af71be542 ("kexec: do not verify the signature without the lockdown or mandatory signature")
+29d3c1c8dfe7 ("kexec: Allow kexec_file() with appropriate IMA policy when locked down")
+155bdd30af17 ("kexec_file: Restrict at runtime if the kernel is locked down")
+99d5cadfde2b ("kexec_file: split KEXEC_VERIFY_SIG into KEXEC_SIG and KEXEC_SIG_FORCE")
+7664cd6e3a0b ("Merge branch 'next-integrity' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")

@@ -1,0 +1,8 @@
+ef714f15027c ("um: remove force_flush_all from fork_handler")
+d5dbcfe7ee31 ("um: Declare fix_range_common as a static function")
+3271e27bba90 ("um: protect VMA iteration")
+cbd43755ad15 ("um: remove vma linked list walk")
+bfc58e2b98e9 ("um: remove process stub VMA")
+9f0b4807a44f ("um: rework userspace stubs to not hard-code stub location")
+84b2789d6115 ("um: separate child and parent errors in clone stub")
+47da29763ec9 ("um: mm: check more comprehensively for stub changes")

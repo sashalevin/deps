@@ -1,0 +1,5 @@
+4d12b7275386 ("SUNRPC: Further clean up svc_tcp_sendmsg()")
+987c7b1d094d ("SUNRPC: Remove redundant socket flags from svc_tcp_sendmsg()")
+e0a912e8ddba ("SUNRPC: Use TCP_CORK to optimise send performance on the server")
+bad4c6eb5eaa ("SUNRPC: Fix NFS READs that start at non-page-aligned offsets")
+4a85a6a3320b ("SUNRPC: Handle TCP socket sends with kernel_sendpage() again")

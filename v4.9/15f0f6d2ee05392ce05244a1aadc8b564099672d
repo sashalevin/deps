@@ -1,0 +1,6 @@
+15f0f6d2ee05 ("watchdog: of_xilinx_wdt: Remove unnecessary clock disable call in the remove path")
+4de0224c6fbe ("watchdog: of_xilinx_wdt: Use devm_clk_get_enabled() helper")
+48027d0d9a77 ("watchdog: of_xilinx_wdt: Skip printing pointer value")
+f185de2231ce ("watchdog: of_xilinx_wdt: Remove passing null pointer")
+801cdffe68f3 ("watchdog: of_xilinx_wdt: Convert to use device managed functions and other improvements")
+b6bc41645547 ("watchdog: of_xilinx_wdt: Add support for reading freq via CCF")

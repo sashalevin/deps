@@ -1,0 +1,6 @@
+046c0d659625 ("btrfs: convert try_release_extent_mapping() to take a folio")
+b8ae2bfa685f ("btrfs: convert try_release_extent_buffer() to take a folio")
+0145aa38cb39 ("btrfs: convert try_release_subpage_extent_buffer() to take a folio")
+d4aeb5f7a7e6 ("btrfs: convert get_next_extent_buffer() to take a folio")
+dfc9e3017aa7 ("btrfs: convert wait_subpage_spinlock() to only use a folio")
+2917f74102cf ("btrfs: constify pointer parameters where applicable")

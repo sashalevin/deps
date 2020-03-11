@@ -1,0 +1,7 @@
+5294afdbf45a ("KVM: arm64: Exclude FP ownership from kvm_vcpu_arch")
+51e09b5572d6 ("KVM: arm64: Exclude host_fpsimd_state pointer from kvm_vcpu_arch")
+6db55734ec40 ("KVM: arm64: Exclude host_debug_data from vcpu_arch")
+7af0d5e50006 ("KVM: arm64: Fix resetting SVE trap values on reset for hVHE")
+75c76ab5a641 ("KVM: arm64: Rework CPTR_EL2 programming for HVHE configuration")
+4c181e3d352e ("KVM: arm64: Document check for TIF_FOREIGN_FPSTATE")
+0d3b2b4d2364 ("Merge branch kvm-arm64/nv-prefix into kvmarm/next")

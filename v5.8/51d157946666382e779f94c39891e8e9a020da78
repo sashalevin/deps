@@ -1,0 +1,2 @@
+51d157946666 ("ring-buffer: Protect ring_buffer_reset() from reentrancy")
+b23d7a5f4a07 ("ring-buffer: speed up buffer resets by avoiding synchronize_rcu for each CPU")

@@ -1,0 +1,5 @@
+d78bd6cc6827 ("fbcon: Fix null-ptr-deref in soft_cursor")
+06a0df4d1b8b ("fbcon: remove now unusued 'softback_lines' cursor() argument")
+50145474f6ef ("fbcon: remove soft scrollback code")
+50233393f0cf ("fbcon: s/struct display/struct fbcon_display/")
+23cd78e28a7b ("fbcon: use kvmalloc() for scrollback buffer")

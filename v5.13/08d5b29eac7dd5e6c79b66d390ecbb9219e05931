@@ -1,0 +1,6 @@
+08d5b29eac7d ("mm: ptep_clear() page table helper")
+44966c4480f8 ("mm/debug_vm_pgtable: use struct pgtable_debug_args in PTE modifying tests")
+36b77d1e1592 ("mm/debug_vm_pgtable: use struct pgtable_debug_args in basic tests")
+3c9b84f044a9 ("mm/debug_vm_pgtable: introduce struct pgtable_debug_args")
+5fe77be6bf14 ("mm/debug_vm_pgtable: move {pmd/pud}_huge_tests out of CONFIG_TRANSPARENT_HUGEPAGE")
+65ac1a60a57e ("mm/debug_vm_pgtable: ensure THP availability via has_transparent_hugepage()")

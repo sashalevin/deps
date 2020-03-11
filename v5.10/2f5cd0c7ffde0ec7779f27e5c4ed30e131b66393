@@ -1,0 +1,4 @@
+2f5cd0c7ffde ("arm64: kgdb: Implement kgdb_roundup_cpus() to enable pseudo-NMI roundup")
+331a1b3a836c ("arm64: smp: Add arch support for backtrace using pseudo-NMI")
+2b2d0a7a96ab ("arm64: smp: Remove dedicated wakeup IPI")
+0edaee42eb8c ("arm64/smp: Drop the macro S(x,s)")

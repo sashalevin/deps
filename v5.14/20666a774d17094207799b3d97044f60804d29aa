@@ -1,0 +1,4 @@
+20666a774d17 ("pwm: pca9685: Make use of pwmchip_parent() accessor")
+da5a8c555c52 ("pwm: pca9685: Prepare removing pwm_chip from driver data")
+2e0e12967ea3 ("pwm: pca9685: Reset OFF/ON registers to POR value")
+f0e96e2e2cb2 ("pwm: pca9685: Don't check the return code of pwmchip_remove()")

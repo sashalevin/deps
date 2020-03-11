@@ -1,0 +1,4 @@
+17b3222e9437 ("net/mlx5: DR, Fix 'stack frame size exceeds limit' error in dr_rule")
+b9b81e1e9382 ("net/mlx5: DR, For short chains of STEs, avoid allocating ste_arr dynamically")
+cc2295cd54e4 ("net/mlx5: DR, Improve steering for empty or RX/TX-only matchers")
+08fac109f7bb ("net/mlx5: DR, Rename list field in matcher struct to list_node")

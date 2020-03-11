@@ -1,0 +1,8 @@
+9dadfc4a6145 ("KVM: x86: Add vendor name to kvm_x86_ops, use it for error messages")
+46a010dd6896 ("kVM SVM: Move SVM related files to own sub-directory")
+9c14ee21fcf7 ("KVM: SVM: Annotate svm_x86_ops as __initdata")
+e286ac0e38cb ("KVM: VMX: Annotate vmx_x86_ops as __initdata")
+afaf0b2f9b80 ("KVM: x86: Copy kvm_x86_ops by value to eliminate layer of indirection")
+69c6f69aa306 ("KVM: x86: Set kvm_x86_ops only after ->hardware_setup() completes")
+d008dfdb0e70 ("KVM: x86: Move init-only kvm_x86_ops to separate struct")
+cf39d3753906 ("Merge tag 'kvmarm-5.7' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

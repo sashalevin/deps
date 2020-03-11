@@ -1,0 +1,3 @@
+05c1b29038ac ("mqueue: fold mq_attr_ok() into mqueue_get_inode()")
+af4a5372e416 ("move dentry_open() calls up into do_mq_open()")
+eecec19d9e70 ("mqueue: switch to vfs_mkobj(), quit abusing ->d_fsdata")

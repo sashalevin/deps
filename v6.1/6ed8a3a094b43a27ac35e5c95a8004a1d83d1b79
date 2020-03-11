@@ -1,0 +1,6 @@
+6ed8a3a094b4 ("arm64: mm: Add 5 level paging support to fixmap and swapper handling")
+a6bbf5d4d9d1 ("arm64: mm: Add definitions to support 5 levels of paging")
+414c109bdf49 ("arm64: mm: always map fixmap at page granularity")
+b97547761b02 ("arm64: mm: move fixmap code to its own file")
+32f5b6995f79 ("arm64: add FIXADDR_TOT_{START,SIZE}")
+d3d10f0d370c ("arm64/mm: Drop idmap_pg_end[] declaration")

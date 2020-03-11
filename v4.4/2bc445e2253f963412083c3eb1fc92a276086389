@@ -1,0 +1,6 @@
+2bc445e2253f ("i2c: tegra: use atomic poll function during configuration")
+89120d66fce9 ("i2c: tegra: add separate function for config_load programing")
+685143a1598b ("i2c: tegra: use readl_poll_timeout after config_load reg programmed")
+1f50ad2c86cd ("i2c: tegra: Add runtime power-management support")
+21e9efd92bb5 ("i2c: tegra: disable clock before returning error")
+497fbe24987b ("i2c: tegra: enable multi master mode for tegra210")

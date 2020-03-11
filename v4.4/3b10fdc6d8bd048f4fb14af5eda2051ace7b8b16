@@ -1,0 +1,4 @@
+3b10fdc6d8bd ("ext4: fix forgetten xattr lock protection in ext4_expand_extra_isize")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+2e81a4eeedca ("ext4: avoid deadlock when expanding inode size")
+d0141191a202 ("ext4: fix xattr shifting when expanding inodes")

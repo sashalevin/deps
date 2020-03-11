@@ -1,0 +1,5 @@
+5a25bfd28c32 ("svcrdma: Limit RQ depth")
+b623589dbacb ("svcrdma: Eliminate RPCRDMA_SQ_DEPTH_MULT")
+98fc21d3bfd5 ("svcrdma: Clean up RPC-over-RDMA Reply header encoder")
+cbaf58032efc ("svcrdma: Another sendto chunk list parsing update")
+e4eb42cecc6d ("svcrdma: Remove BH-disabled spin locking in svc_rdma_send()")

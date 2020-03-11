@@ -1,0 +1,8 @@
+4ee1b4cac236 ("bootconfig: Cleanup dummy headers in tools/bootconfig")
+4f292c4886bf ("bootconfig: Replace u16 and u32 with uint16_t and uint32_t")
+160321b2602f ("tools/bootconfig: Print all error message in stderr")
+9b81c9bfff46 ("bootconfig: Remove unused debug function")
+f3668cde8562 ("bootconfig: Split parse-tree part from xbc_init")
+115d4d08aeb9 ("bootconfig: Rename xbc_destroy_all() to xbc_exit()")
+e306220cb7b7 ("bootconfig: Add xbc_get_info() for the node information")
+bdac5c2b243f ("bootconfig: Allocate xbc_data inside xbc_init()")

@@ -1,0 +1,4 @@
+b393e8b33efd ("percpu: READ_ONCE() now implies smp_read_barrier_depends()")
+b2302c7fdc65 ("percpu_ref: reorganize __percpu_ref_switch_to_atomic() and relocate percpu_ref_switch_to_atomic()")
+a2f5630cb737 ("percpu_ref: remove unnecessary RCU grace period for staggered atomic switching confirmation")
+ed8ebd1d5141 ("percpu, locking: Revert ("percpu: Replace smp_read_barrier_depends() with lockless_dereference()")")

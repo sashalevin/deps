@@ -1,0 +1,3 @@
+58d746c119df ("efi/libstub: Add $(CLANG_FLAGS) to x86 flags")
+003602ad5516 ("x86/*/Makefile: Use -fno-asynchronous-unwind-tables to suppress .eh_frame sections")
+9e2276fa6eb3 ("arch/x86/boot: Use prefix map to avoid embedded paths")

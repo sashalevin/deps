@@ -1,0 +1,5 @@
+98af39d52e33 ("mm/vmalloc: fix a comment")
+c00b6b961099 ("mm/vmalloc: introduce alloc_pages_bulk_array_mempolicy to accelerate memory allocation")
+343ab8178f31 ("mm/vmalloc: use batched page requests in bulk-allocator")
+12b9f873a5d0 ("mm/vmalloc: fallback to a single page allocator")
+5c1f4e690eec ("mm/vmalloc: switch to bulk allocator in __vmalloc_area_node()")

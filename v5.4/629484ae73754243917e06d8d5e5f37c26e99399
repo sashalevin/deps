@@ -1,0 +1,5 @@
+629484ae7375 ("mm: vmstat: add some comments on internal storage of byte items")
+be458311cdbb ("mm: memcg/slab: fix slab statistics in !SMP configuration")
+ea426c2a7de8 ("mm: memcg: prepare for byte-sized vmstat items")
+eedc4e5a142c ("mm: memcg: factor out memcg- and lruvec-level changes out of __mod_lruvec_state()")
+9d7ea9a297e6 ("mm/vmstat: add helpers to get vmstat item names for each enum type")

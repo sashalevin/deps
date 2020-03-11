@@ -1,0 +1,8 @@
+97bb9cdc3210 ("efi/x86: Avoid RWX mappings for all of DRAM")
+1379edd59673 ("x86/efi: Access EFI data as encrypted when SEV is active")
+18141e89a76c ("x86/efi: Add support for EFI_MEMORY_ATTRIBUTES_TABLE")
+bf29bddf0417 ("x86/efi: Always map the first physical page into the EFI pagetables")
+f6697df36bdf ("x86/efi: Prevent mixed mode boot corruption with CONFIG_VMAP_STACK=y")
+10f0d2f57705 ("efi: Implement generic support for the Memory Attributes table")
+6d0cc887d571 ("x86/efi: Map EFI_MEMORY_{XP,RO} memory region bits to EFI page tables")
+edc3b9129cec ("x86/mm/pat: Ensure cpa->pfn only contains page frame numbers")

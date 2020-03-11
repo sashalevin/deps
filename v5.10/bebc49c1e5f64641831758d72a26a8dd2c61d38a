@@ -1,0 +1,5 @@
+bebc49c1e5f6 ("pinctrl: qcom: Add egpio feature support")
+cf9d052aa600 ("pinctrl: qcom: Don't clear pending interrupts when enabling")
+a95881d6aa2c ("pinctrl: qcom: Properly clear "intr_ack_high" interrupts when unmasking")
+4079d35fa4fc ("pinctrl: qcom: No need to read-modify-write the interrupt status")
+a82e537807d5 ("pinctrl: qcom: Allow SoCs to specify a GPIO function that's not 0")

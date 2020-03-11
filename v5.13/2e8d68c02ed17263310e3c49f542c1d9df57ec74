@@ -1,0 +1,4 @@
+2e8d68c02ed1 ("pwm: fsl-ftm: Make use of devm_pwmchip_alloc() function")
+097779f1577d ("pwm: fsl-ftm: Prepare removing pwm_chip from driver data")
+5ba3eb4bb3b5 ("pwm: fsl-ftm: Simplify using devm_pwmchip_add()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")

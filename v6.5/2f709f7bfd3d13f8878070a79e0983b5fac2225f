@@ -1,0 +1,7 @@
+2f709f7bfd3d ("mm/treewide: replace pmd_large() with pmd_leaf()")
+368a0590d954 ("powerpc/book3s64/vmemmap: switch radix to use a different vmemmap handling function")
+27af67f35631 ("powerpc/book3s64/mm: enable transparent pud hugepage")
+104c49d5b6dc ("powerpc/mm/trace: convert trace event to trace event class")
+016fec91013c ("mm: move is_ioremap_addr() into new header file")
+ab1cd02083d0 ("mm/ioremap: consider IOREMAP space in generic ioremap")
+7613366a1902 ("mm/ioremap: define generic_ioremap_prot() and generic_iounmap()")

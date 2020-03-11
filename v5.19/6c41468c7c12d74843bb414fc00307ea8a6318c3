@@ -1,0 +1,7 @@
+6c41468c7c12 ("KVM: x86: Clear "has_error_code", not "error_code", for RM exception injection")
+d4963e319f1f ("KVM: x86: Make kvm_queued_exception a properly named, visible struct")
+6ad75c5c99f7 ("KVM: x86: Rename kvm_x86_ops.queue_exception to inject_exception")
+5623f751bd9c ("KVM: x86: Treat #DBs from the emulator as fault-like (code and DR7.GD=1)")
+8d178f460772 ("KVM: nVMX: Treat General Detect #DB (DR7.GD=1) as fault-like")
+eba9799b5a6e ("KVM: VMX: Drop bits 31:16 when shoving exception error code into VMCS")
+a61d7c5432ac ("KVM: x86: Trace re-injected exceptions")

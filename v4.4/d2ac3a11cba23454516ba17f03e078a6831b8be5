@@ -1,0 +1,8 @@
+d2ac3a11cba2 ("mips: clean up kernel-doc in mm/c-octeon.c")
+3315b6b336c8 ("MIPS: Delete unused flush_cache_sigtramp()")
+6d758bfc7b05 ("MIPS: c-r4k: Fix valid ASID optimisation")
+d374d93742f6 ("MIPS: c-r4k: Add r4k_on_each_cpu cache op type arg")
+8bd646e92bad ("MIPS: c-r4k: Avoid dcache flush for sigtramps")
+e523f289fe4d ("MIPS: c-r4k: Fix sigtramp SMP call to use kmap")
+37fbe8faa94f ("MIPS: Loongson-3: Set cache flush handlers to cache_noop")
+b2a3c5be4d6d ("MIPS: c-r4k: Sync icache when it fills from dcache")

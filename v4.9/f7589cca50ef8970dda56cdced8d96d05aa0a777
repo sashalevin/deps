@@ -1,0 +1,7 @@
+f7589cca50ef ("KVM: x86: cull apicv code when userspace irqchip is requested")
+f2d1da696f51 ("KVM: x86: no need to inititalize vcpu members to 0")
+26de7988499b ("KVM: x86: drop BUG_ON(vcpu->kvm)")
+b2a05feff274 ("KVM: Add struct kvm_vcpu pointer parameter to get_enable_apicv()")
+2e69f8656139 ("KVM: VMX: join functions that disable x2apic msr intercepts")
+40d8338d095e ("KVM: VMX: remove functions that enable msr intercepts")
+c63e45635bfa ("KVM: VMX: Better name x2apic msr bitmaps")

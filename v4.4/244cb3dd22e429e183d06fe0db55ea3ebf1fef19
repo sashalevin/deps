@@ -1,0 +1,7 @@
+244cb3dd22e4 ("drm/mxsfb: Use simple_display_pipe prepare_fb helper")
+989c48e6c2d1 ("drm/mxsfb: Do not use deprecated drm_driver.{enable|disable)_vblank")
+98f3eac5a133 ("drm/mxsfb: Use drm_gem_fb_create() and drm_gem_fb_prepare_fb()")
+572b7bc06b5b ("drm/mxsfb: Use gem_free_object_unlocked")
+967dd4841787 ("drm: remove drm_vblank_no_hw_counter assignment from driver code")
+c5a828148f30 ("drm: mxsfb: Make local symbol mxsfb_funcs static")
+e783fd0cdc74 ("Merge tag 'meson-drm-for-4.10' of github.com:superna9999/linux into drm-next")

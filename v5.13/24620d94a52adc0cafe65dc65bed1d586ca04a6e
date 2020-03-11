@@ -1,0 +1,6 @@
+24620d94a52a ("x86/aperfmperf: Put frequency invariance aperf/mperf data into a struct")
+55cb0b707493 ("x86/smp: Move APERF/MPERF code where it belongs")
+eb5616d4adee ("x86/ACPI: CPPC: Move init_freq_invariance_cppc() into x86 CPPC")
+666f6ecf35bc ("x86: Expose init_freq_invariance() to topology header")
+82d89369141b ("x86/ACPI: CPPC: Move AMD maximum frequency ratio setting function into x86 CPPC")
+85784470efa2 ("x86/smp: Remove unnecessary assignment to local var freq_scale")

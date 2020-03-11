@@ -1,0 +1,5 @@
+f3f26dae05e3 ("x86/kvm: Silence per-cpu pr_info noise about KVM clocks and steal time")
+0a269a008f83 ("x86/kvm: Fix pr_info() for async PF setup/teardown")
+5aefd786fba7 ("x86/kvm: Change print code to use pr_*() format")
+6bca69ada4bc ("x86/kvm: Sanitize kvm_async_pf_task_wait()")
+ef68017eb570 ("x86/kvm: Handle async page faults directly through do_page_fault()")

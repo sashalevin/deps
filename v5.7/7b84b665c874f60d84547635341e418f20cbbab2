@@ -1,0 +1,6 @@
+7b84b665c874 ("fs: Allow a NULL pos pointer to __kernel_read")
+4d03e3cc5982 ("fs: don't allow kernel reads and writes without iter ops")
+775802c0571f ("fs: remove __vfs_read")
+61a707c543e2 ("fs: add a __kernel_read helper")
+53ad86266bda ("fs: remove __vfs_write")
+81238b2cff14 ("fs: implement kernel_write using __kernel_write")

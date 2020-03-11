@@ -1,0 +1,7 @@
+3f9bce7a22a3 ("iio: imu: st_lsm6dsx: fix edge-trigger interrupts")
+a912ee4c9154 ("iio: imu: st_lsm6dsx: add sanity check for read_fifo pointer")
+615bd3785b5a ("iio: imu: st_lsm6dsx: use st_lsm6dsx_read_locked in st_lsm6dsx_report_motion_event")
+1aabad1fb5e9 ("iio: imu: st_lsm6dsx: add motion report function and call from interrupt")
+a3aa17d4badf ("iio: imu: st_lsm6dsx: always enter interrupt thread")
+b5969abfa8b8 ("iio: imu: st_lsm6dsx: add motion events")
+6ee6a368ac0a ("iio: imu: st_lsm6dsx: move interrupt thread to core")

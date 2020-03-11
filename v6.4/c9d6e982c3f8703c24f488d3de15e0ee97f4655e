@@ -1,0 +1,5 @@
+c9d6e982c3f8 ("mm: move vma locking out of vma_prepare and dup_anon_vma")
+ad9f006351c3 ("mm: always lock new vma before inserting into vma tree")
+6852c46c783d ("mm/mmap: move vma operations to mm_struct out of the critical section of file mapping lock")
+d8ab9f7b644a ("mm: lock VMA in dup_anon_vma() before setting ->anon_vma")
+1c7873e33645 ("mm: lock newly mapped VMA with corrected ordering")

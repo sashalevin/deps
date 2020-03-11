@@ -1,0 +1,6 @@
+58db72869a9f ("net/mlx5: Re-organize mlx5_cmd struct")
+63fbae0a74c3 ("net/mlx5: Prevent high-rate FW commands from populating all slots")
+7cb5eb937231 ("net/mlx5: Introduce and use opcode getter in command interface")
+870c2481174b ("net/mlx5: cmdif, Print info on any firmware cmd failure to tracepoint")
+2808b37b5928 ("net/mlx5: Allow async trigger completion execution on single CPU systems")
+e723f8662de7 ("net/mlx5: debugfs, Add num of in-use FW command interface slots")

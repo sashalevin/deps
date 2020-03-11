@@ -1,0 +1,7 @@
+fbaf8bf6cbc0 ("staging: vchiq_core: Simplify vchiq_bulk_transfer()")
+55e23aa95b10 ("staging: vc04_services: Drop vchiq_log_debug() in favour of dev_dbg")
+078666d7ee6d ("staging: vc04_services: Drop vchiq_log_trace() in favour of dev_dbg")
+085bb4131e0f ("staging: vc04_services: Drop vchiq_log_warning() in favour of dev_warn")
+e70f17ed997c ("staging: vc04_services: Drop vchiq_log_error() in favour of dev_err")
+149261d378d0 ("staging: vc04_services: Do not pass NULL to vchiq_log_error()")
+f9c428988303 ("staging: vc04_services: vchiq_core: Log through struct vchiq_instance")

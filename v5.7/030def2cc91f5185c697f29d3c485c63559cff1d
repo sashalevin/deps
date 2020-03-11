@@ -1,0 +1,8 @@
+030def2cc91f ("drm/i915: Store backpointer to GT in uncore")
+9a7fc952717e ("drm/i915: Skip error capture when wedged on init")
+498f02b657b7 ("drm/i915: split general MMIO setup from per-GT uncore init")
+c256af0d6c18 ("drm/i915/lmem: Fail driver init if LMEM training failed")
+2dfcc7f4e91f ("drm/i915: make local-memory probing a GT operation")
+8ff5446a7ca4 ("drm/i915: Remove references to struct drm_device.pdev")
+63de1da14799 ("drm/i915: Remove livelock from "do_idle_maps" vtd w/a")
+0ea8a56de21b ("Merge drm/drm-next into drm-intel-next-queued")

@@ -1,0 +1,4 @@
+90a3e375d324 ("mm/memory.c: fix potential pte_unmap_unlock pte error")
+42e4089c7890 ("x86/speculation/l1tf: Disallow non privileged high MMIO PROT_NONE mappings")
+be62a3204406 ("x86/mm: Limit mmap() of /dev/mem to valid physical addresses")
+1e0f25dbf246 ("x86/mm: Prevent non-MAP_FIXED mapping across DEFAULT_MAP_WINDOW border")

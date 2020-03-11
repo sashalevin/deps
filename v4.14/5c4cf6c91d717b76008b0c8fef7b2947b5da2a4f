@@ -1,0 +1,7 @@
+5c4cf6c91d71 ("btrfs: simplify exit paths in btrfs_init_new_device")
+55de480346cc ("btrfs: use free_device where opencoded")
+9f5316c17b08 ("Btrfs: free btrfs_device in place")
+3065ae5b8565 ("btrfs: add missing device::flush_bio puts")
+7132a262595a ("btrfs: error out if btrfs_attach_transaction() fails")
+d31c32f6745a ("btrfs: fix BUG_ON in btrfs_init_new_device()")
+0af2c4bf5a01 ("btrfs: undo writable superblocke when sprouting fails")

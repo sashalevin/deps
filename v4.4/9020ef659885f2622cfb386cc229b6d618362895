@@ -1,0 +1,6 @@
+9020ef659885 ("iio: trigger: Fix a scheduling whilst atomic issue seen on tsc2046")
+2c99f1a09da3 ("iio: trigger: clean up viio_trigger_alloc()")
+702a7b8e064a ("iio: trigger: helpers to determine own trigger")
+9083325f1197 ("iio:trigger: add resource managed (un)register")
+995438233579 ("iio: Fix error handling in iio_trigger_attach_poll_func")
+e21a294d1e35 ("iio: Add resource managed APIs devm_iio_channel_{get,release) in devres")

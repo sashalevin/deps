@@ -1,0 +1,8 @@
+6d33531bc023 ("x86/purgatory: Include header for warn() declaration")
+df6f2801f511 ("kernel/kexec_file.c: move purgatories sha256 to common code")
+60854a12d281 ("x86/boot: Declare error() as noreturn")
+40c50c1fecdf ("kexec, x86/purgatory: Unbreak it and clean it up")
+e98fe5127b9c ("x86/purgatory: Fix sparse warning, symbol not declared")
+72042a8c7b01 ("x86/purgatory: Make functions and variables static")
+0d97631392c2 ("powerpc: Add purgatory for kexec_file_load() implementation.")
+60fe3910bb02 ("kexec_file: Allow arch-specific memory walking for kexec_add_buffer")

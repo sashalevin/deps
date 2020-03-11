@@ -1,0 +1,7 @@
+b0305c1e0e27 ("KVM: x86/xen: Add KVM_XEN_INVALID_GPA and KVM_XEN_INVALID_GFN to uapi")
+8c82a0b3ba1a ("KVM: Store immutable gfn_to_pfn_cache properties")
+aba3caef5862 ("KVM: Shorten gfn_to_pfn_cache function names")
+5ec3289b31ab ("KVM: x86/xen: Compatibility fixes for shared runstate area")
+ecbcf030b456 ("KVM: Reject attempts to consume or refresh inactive gfn_to_pfn_cache")
+52491a38b2c2 ("KVM: Initialize gfn_to_pfn_cache locks in dedicated helper")
+e15f5e6fa6ca ("Merge branch 'kvm-5.20-early'")

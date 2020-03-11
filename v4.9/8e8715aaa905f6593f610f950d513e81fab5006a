@@ -1,0 +1,6 @@
+8e8715aaa905 ("rxrpc: Allow errors to be returned from rxrpc_queue_packet()")
+e833251ad813 ("rxrpc: Add notification of end-of-Tx phase")
+445783d0ec17 ("afs: Fix an off-by-one error in afs_send_pages()")
+2f5705a5c805 ("afs: Use a bvec rather than a kvec in afs_send_pages()")
+146d8fef9da1 ("rxrpc: Call state should be read with READ_ONCE() under some circumstances")
+8d70eeb84ab2 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

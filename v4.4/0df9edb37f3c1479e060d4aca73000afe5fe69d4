@@ -1,0 +1,8 @@
+0df9edb37f3c ("rtlwifi: Fix endian issue in ps.c")
+f0dcd57e0b41 ("rtlwifi: Remove dependence on special bit manipulation macros for common driver")
+8479580b5267 ("rtlwifi: Add TX report and disable key to force wait until report acked.")
+d5efe1535af0 ("rtlwifi: Move items out of rtl_pci_priv and rtl_usb_priv")
+6773386f977c ("rtlwifi: rtl8192c-common: Fix "BUG: KASAN:")
+2f7b4b895365 ("rtlwifi: rtl8821ae: Convert driver to use common hardware info routine")
+4713bd1c7407 ("rtlwifi: Add missing newlines to RT_TRACE calls")
+5345ea6a4bfb ("rtlwifi: fix error handling in *_read_adapter_info()")

@@ -1,0 +1,4 @@
+4f5022453acd ("nvme: wire up completion batching for the IRQ path")
+c234a6539206 ("nvme: add support for batched completion of polled IO")
+05fae499a944 ("nvme-pci: cleanup nvme_irq()")
+e9c78c23359f ("nvme-pci: remove the barriers in nvme_irq()")

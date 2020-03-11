@@ -1,0 +1,7 @@
+fb5451e5f72b ("arm64/mm: implement pte_batch_hint()")
+4602e5757bcc ("arm64/mm: wire up PTE_CONT for user mappings")
+5a00bfd6a52c ("arm64/mm: new ptep layer to manage contig bit")
+cbb0294fdd72 ("arm64/mm: convert ptep_clear() to ptep_get_and_clear()")
+659e19302791 ("arm64/mm: convert set_pte_at() to set_ptes(..., 1)")
+532736558e8e ("arm64/mm: convert READ_ONCE(*ptep) to ptep_get(ptep)")
+6e8f58870897 ("arm64/mm: make set_ptes() robust when OAs cross 48-bit boundary")

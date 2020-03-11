@@ -1,0 +1,6 @@
+c86b155da7d0 ("pwm: crc: Implement get_state() method")
+9fccec821904 ("pwm: crc: Implement apply() method to support the new atomic PWM API")
+6fdefe60898a ("pwm: crc: Enable/disable PWM output on enable/disable")
+6158231a8422 ("pwm: crc: Fix period changes not having any effect")
+a05af71f0dd3 ("pwm: crc: Fix off-by-one error in the clock-divider calculations")
+79e0899275e5 ("pwm: crc: Fix period / duty_cycle times being off by a factor of 256")

@@ -1,0 +1,7 @@
+4cd64e9d2c72 ("drm/i915: Lift runtime-pm acquire callbacks out of intel_wakeref.mutex")
+8d208a5eed48 ("drm/i915: use pointer to i915 instead of rpm in wakeref")
+1cacd6894d5f ("drm/i915/dgfx: Grab wakeref at i915_ttm_unmap_virtual")
+e66c8dcf997e ("drm/i915: Encapsulate lmem rpm stuff in intel_runtime_pm")
+6667d78a1123 ("drm/i915: Refactor ttm ghost obj detection")
+fb7818989976 ("drm/i915: Do not cleanup obj with NULL bo->resource")
+f569ae759472 ("drm/i915: Handle all GTs on driver (un)load paths")

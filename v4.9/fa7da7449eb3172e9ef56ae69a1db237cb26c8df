@@ -1,0 +1,8 @@
+fa7da7449eb3 ("power: supply: axp288_fuel_gauge: Add Minix Neo Z83-4 to the blacklist")
+6f3ed834717b ("power: supply: axp288_fuel_gauge: Sort the DMI blacklist alphabetically")
+9274c78305e1 ("power: supply: axp288_fuel_gauge: Add ACEPC T8 and T11 mini PCs to the blacklist")
+b60c75b6a502 ("power: supply: axp288_fuel_gauge: Do not register our psy on (some) HDMI sticks")
+1169735dc26c ("power: supply: axp288_fuel_gauge: Remove unnecessary irq?_en register writes")
+888f97435a85 ("power: supply: axp288_fuel_gauge: Drop platform_data dependency")
+eac53b3664f5 ("power: supply: axp288_charger: Drop platform_data dependency")
+d556f21cb0f8 ("power: supply: axp288_charger: Make charger_init_hw_regs propagate i2c errors")

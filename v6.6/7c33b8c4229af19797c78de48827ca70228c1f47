@@ -1,0 +1,6 @@
+7c33b8c4229a ("mm: remove use of folio list from folios_put()")
+99fbb6bfc16f ("mm: make folios_put() the basis of release_pages()")
+d7f861b9c43a ("mm/mmu_gather: add __tlb_remove_folio_pages()")
+da510964c095 ("mm/mmu_gather: define ENCODED_PAGE_FLAG_DELAY_RMAP")
+c30d6bc8d015 ("mm/mmu_gather: pass "delay_rmap" instead of encoded page to __tlb_remove_page_size()")
+c46265030b0f ("mm/memory: page_remove_rmap() -> folio_remove_rmap_pte()")

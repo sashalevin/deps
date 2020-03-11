@@ -1,0 +1,6 @@
+f4d1a8e01190 ("scsi: storvsc: Handle SRB status value 0x30")
+b8a5376c321b ("scsi: storvsc: Fix handling of srb_status and capacity change events")
+52e1b3b3daa9 ("scsi: storvsc: Correctly handle multiple flags in srb_status")
+fbca7a04dbd8 ("scsi: storvsc: Fix spelling mistake")
+d1b8b2391c24 ("scsi: storvsc: Fix scsi_cmd error assignments in storvsc_handle_error")
+436ad9413353 ("scsi: storvsc: Allow only one remove lun work item to be issued per lun")

@@ -1,0 +1,8 @@
+0c7752d5b1ac ("pidfd: prevent a kernel-doc warning")
+32fcb426ec00 ("pid: add pidfd_open()")
+3c1c456f9b96 ("syscalls: sort syscall prototypes in include/linux/syscalls.h")
+1bec510a9ebf ("kexec: move sys_kexec_load() prototype to syscalls.h")
+ab0d1e85bfd0 ("fs/quota: use COMPAT_SYSCALL_DEFINE for sys32_quotactl()")
+d53238cd51a8 ("kernel: open-code sys_rt_sigpending() in sys_sigpending()")
+e8cfbc245e24 ("pid: remove pidhash")
+95846ecf9dac ("pid: replace pid bitmap implementation with IDR API")

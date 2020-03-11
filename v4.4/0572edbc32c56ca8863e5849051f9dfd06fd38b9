@@ -1,0 +1,6 @@
+0572edbc32c5 ("scsi: mvumi: Use generic power management")
+bd7463cdbe1a ("scsi: mvumi: Drop PCI Wakeup calls from .resume")
+bddbd00cb076 ("scsi: mvumi: use dma_set_mask")
+ab8e7f4bdfea ("scsi: mvumi: switch to generic DMA API")
+4bd13a077172 ("scsi: mvumi: remove code handling zero scsi_sg_count(scmd) case")
+fddbeb80a904 ("scsi: mvumi: use __maybe_unused to hide pm functions")

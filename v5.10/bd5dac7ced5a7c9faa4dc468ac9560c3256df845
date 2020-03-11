@@ -1,0 +1,5 @@
+bd5dac7ced5a ("wifi: mt76: do not run mt76u_status_worker if the device is not running")
+e16ab3db87b3 ("mt76: usb: remove wake logic in mt76u_status_worker")
+9daf27e62852 ("mt76: mt76u: use dedicated thread for status work")
+be83a7e20c57 ("mt76: mt76u: rely on woker APIs for rx work")
+5ee3e780cf26 ("wireless: mt76: convert tasklets to use new tasklet_setup() API")

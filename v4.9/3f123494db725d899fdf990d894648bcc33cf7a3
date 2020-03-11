@@ -1,0 +1,8 @@
+3f123494db72 ("nvmet: make TCP sectype settable via configfs")
+87628e285100 ("nvmet: use type-name map for address treq")
+0445e1b5a2fe ("nvmet: don't override treq upon modification.")
+0d5ee2b2ab4f ("nvmet-rdma: support max(16KB, PAGE_SIZE) inline data")
+a5d18612295a ("nvmet: refactor configfs transport type handling")
+68c6e9cd2fa4 ("nvmet/rdma: Use sgl_alloc() and sgl_free()")
+670c2a3ad51d ("nvmet-rdma: use generic inet_pton_with_scope")
+885aa4015f70 ("nvme-fabrics: patch target code in prep for FC transport support")

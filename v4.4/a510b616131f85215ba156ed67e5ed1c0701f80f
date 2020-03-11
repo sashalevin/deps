@@ -1,0 +1,4 @@
+a510b616131f ("MIPS: Add support for ZSTD-compressed kernels")
+7bbaf27d9c83 ("zboot: fix stack protector in compressed boot phase")
+fb6cc4ac15c3 ("sh/boot: add static stack-protector to pre-kernel")
+e4c64e6f3dd3 ("MIPS: Zboot: Don't use $(LINUXINCLUDE) twice")

@@ -1,0 +1,6 @@
+59f3b138160d ("sunrpc: merge svc_rqst_alloc() into svc_prepare_thread()")
+9dcbc4e07087 ("sunrpc: don't take ->sv_lock when updating ->sv_nrthreads.")
+60749cbe3d8a ("sunrpc: change sp_nrthreads from atomic_t to unsigned int.")
+f2b27e1d7252 ("SUNRPC: make various functions static, or not exported.")
+5f71f3c32553 ("sunrpc: refactor pool_mode setting code")
+924f4fb003ba ("NFSD: convert write_threads to netlink command")

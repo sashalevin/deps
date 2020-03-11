@@ -1,0 +1,7 @@
+30579c8baa5b ("x86/sev: Do the C-bit verification only on the BSP")
+2f69a81ad687 ("x86/head_64: Store boot_params pointer in callee save register")
+469693d8f622 ("x86/head/64: Re-enable stack protection")
+bcce82908333 ("x86/sev: Detect/setup SEV/SME features earlier in boot")
+6198311093da ("x86/cc: Move arch/x86/{kernel/cc_platform.c => coco/core.c}")
+f154f290855b ("x86/mm/64: Flush global TLB on boot and AP bringup")
+aa5a461171f9 ("x86/sev: Add an x86 version of cc_platform_has()")

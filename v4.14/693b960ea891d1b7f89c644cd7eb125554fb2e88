@@ -1,0 +1,5 @@
+693b960ea891 ("dm cache: simplify get_per_bio_data() by removing data_size argument")
+9958f1d9a04e ("dm cache: remove all obsolete writethrough-specific code")
+2df3bae9a654 ("dm cache: submit writethrough writes in parallel to origin and cache")
+8e3c3827776f ("dm cache: pass cache structure to mode functions")
+d1260e2a3f85 ("dm cache: fix race condition in the writeback mode overwrite_bio optimisation")

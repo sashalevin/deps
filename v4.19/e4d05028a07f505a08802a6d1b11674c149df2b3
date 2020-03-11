@@ -1,0 +1,8 @@
+e4d05028a07f ("selftests/seccomp: Set NNP for TSYNC ESRCH flag test")
+51891498f2da ("seccomp: allow TSYNC and USER_NOTIF together")
+2aa8d8d04ca2 ("seccomp: fix SECCOMP_USER_NOTIF_FLAG_CONTINUE test")
+88282297fff0 ("selftests/seccomp: fix build on older kernels")
+7a0df7fbc145 ("seccomp: Make NEW_LISTENER and TSYNC flags exclusive")
+4ee0776760af ("selftests/seccomp: Prepare for exclusive seccomp flags")
+a811dc61559e ("seccomp: fix UAF in user-trap code")
+6a21cc50f0c7 ("seccomp: add a return code to trap to userspace")

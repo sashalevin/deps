@@ -1,0 +1,5 @@
+e6553e2f79b2 ("kmsan: expose KMSAN_WARN_ON()")
+1fdb3c7006d9 ("kmsan: introduce memset_no_sanitize_memory()")
+ec3e837d8fd9 ("kmsan: allow disabling KMSAN checks for the current task")
+6b1709d4b7fc ("kmsan: expose kmsan_get_metadata()")
+61849c89e70d ("kmsan: remove an x86-specific #include from kmsan.h")

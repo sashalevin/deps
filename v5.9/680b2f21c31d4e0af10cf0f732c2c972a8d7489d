@@ -1,0 +1,5 @@
+680b2f21c31d ("iio: magnetometer: ak8975: Sort ID and ACPI tables")
+4f9ea93afde1 ("iio: magnetometer: ak8975: Convert enum->pointer for data in the match tables")
+ea011add51bc ("iio:magn:ak8975: Suppress clang W=1 warning about pointer to enum conversion.")
+76e28aa97fa0 ("iio: magnetometer: ak8975: add AK09116 support")
+8e5a0426dddb ("iio:magn:ak8975: Drop of_match_ptr and ACPI_PTR protections.")

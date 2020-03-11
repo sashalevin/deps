@@ -1,0 +1,5 @@
+2ddd6bfe7bdb ("can: rx-offload: don't call kfree_skb() from IRQ context")
+6caf8a6d6586 ("can: rx-offload: can_rx_offload_queue_tail(): fix error handling, avoid skb mem leak")
+ca913f1ac024 ("can: rx-offload: can_rx_offload_queue_sorted(): fix error handling, avoid skb mem leak")
+55059f2b7f86 ("can: rx-offload: introduce can_rx_offload_get_echo_skb() and can_rx_offload_queue_sorted() functions")
+d254586c3453 ("can: rx-offload: Add support for HW fifo based irq offloading")

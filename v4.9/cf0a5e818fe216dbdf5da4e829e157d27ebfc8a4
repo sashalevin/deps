@@ -1,0 +1,4 @@
+cf0a5e818fe2 ("ext4: restructure ext4_expand_extra_isize")
+3b10fdc6d8bd ("ext4: fix forgetten xattr lock protection in ext4_expand_extra_isize")
+c755e251357a ("ext4: fix deadlock between inline_data and ext4_expand_extra_isize_ea()")
+88e0387769c4 ("ext4: allow inode expansion for nojournal file systems")

@@ -1,0 +1,8 @@
+036bff2800cb ("can: netlink: dump bitrate 0 if can_priv::bittiming.bitrate is -1U")
+1d7750760b70 ("can: bittiming: add CAN_KBPS, CAN_MBPS and CAN_MHZ macros")
+289ea9e4ae59 ("can: add new CAN FD bittiming parameters: Transmitter Delay Compensation (TDC)")
+0a042c6ec991 ("can: dev: move netlink related code into seperate file")
+18f2dbfd2232 ("can: dev: move skb related into seperate file")
+bdd2e413192d ("can: dev: move length related code into seperate file")
+5a9d5ecd69ed ("can: dev: move bittiming related code into seperate file")
+3e77f70e7345 ("can: dev: move driver related infrastructure into separate subdir")

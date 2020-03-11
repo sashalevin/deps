@@ -1,0 +1,6 @@
+8118b82eb756 ("mm/page_alloc.c: fix never set ALLOC_NOFRAGMENT flag")
+0a79cdad5eb2 ("mm: use alloc_flags to record if kswapd can wake")
+6bb154504f8b ("mm, page_alloc: spread allocations across zones before introducing fragmentation")
+5ecd9d403ad0 ("mm, page_alloc: wakeup kcompactd even if kswapd cannot free more memory")
+453f85d43fa9 ("mm: remove __GFP_COLD")
+85ccc8fa81af ("mm/page_alloc: make sure __rmqueue() etc are always inline")

@@ -1,0 +1,8 @@
+b2b1ddc45745 ("RDMA/rxe: Fix the error "trying to register non-static key in rxe_cleanup_task"")
+960ebe97e523 ("RDMA/rxe: Remove __rxe_do_task()")
+3946fc2a42b1 ("RDMA/rxe: Convert tasklet args to queue pairs")
+fc5059793441 ("RDMA/rxe: Replace pr_xxx by rxe_dbg_xxx in rxe_task.c")
+63a18baef265 ("RDMA/rxe: Rename task->state_lock to task->lock")
+dcef28528cce ("RDMA/rxe: Make rxe_do_task static")
+dccb23f6c312 ("RDMA/rxe: Split rxe_run_task() into two subroutines")
+de669ae8af49 ("RDMA/rxe: Removed unused name from rxe_task struct")

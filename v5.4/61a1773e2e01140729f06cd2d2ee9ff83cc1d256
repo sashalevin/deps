@@ -1,0 +1,4 @@
+61a1773e2e01 ("KVM: x86/mmu: Unexport MMU load/unload functions")
+afe8d7e611c4 ("KVM: x86/mmu: Move kvm_mmu_available_pages() into mmu.c")
+ba7888dde6af ("KVM: x86/mmu: Move definition of make_mmu_pages_available() up")
+736c291c9f36 ("KVM: x86: Use gpa_t for cr2/gpa to fix TDP support on 32-bit KVM")

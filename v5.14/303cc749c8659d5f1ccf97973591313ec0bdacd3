@@ -1,0 +1,8 @@
+303cc749c865 ("io_uring: check that data field is 0 in ringfd unregister")
+6fb53cf8ff2c ("io_uring: verify resv is 0 in ringfd register/unregister")
+e7a6c00dc77a ("io_uring: add support for registering ring file descriptors")
+2e480058ddc2 ("io-wq: provide a way to limit max number of workers")
+f552a27afe67 ("io_uring: remove files pointer in cancellation functions")
+a4aadd11ea49 ("io_uring: extract io_uring_files_cancel() in io_uring_task_cancel()")
+6294f3686b4d ("io_uring: clean up tctx_task_work()")
+2215bed9246d ("io_uring: remove unnecessary PF_EXITING check")

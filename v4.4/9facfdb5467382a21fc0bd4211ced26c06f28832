@@ -1,0 +1,5 @@
+9facfdb54673 ("netlabel_domainhash.c: Use built-in RCU list checking")
+8f18e675c333 ("netlabel: Add an address family to domain hash entries.")
+96a8f7f88d4e ("netlabel: Mark rcu pointers with __rcu.")
+8303394d811a ("netlabel: do not initialise statics to NULL")
+795f3512ca95 ("netlink: do not initialise statics to 0 or NULL")

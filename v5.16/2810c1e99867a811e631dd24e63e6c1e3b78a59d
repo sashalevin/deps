@@ -1,0 +1,7 @@
+2810c1e99867 ("kunit: Fix wild-memory-access bug in kunit_free_suite_set()")
+3d6e44623841 ("kunit: unify module and builtin suite definitions")
+c272612cb4a2 ("kunit: Taint the kernel when KUnit tests are run")
+1cdba21db2ca ("kunit: add ability to specify suite-level init and exit functions")
+cae56e1740f5 ("kunit: rename print_subtest_{start,end} for clarity (s/subtest/suite)")
+cdebea6968fa ("kunit: split resource API impl from test.c into new resource.c")
+953574390634 ("Documentation: KUnit: Rework writing page to focus on writing tests")

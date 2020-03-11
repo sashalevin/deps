@@ -1,0 +1,4 @@
+9b88f9fb0d2f ("ext4: Do not iput inode under running transaction")
+a9e26328adfa ("ext4: Move marking of handle as sync to ext4_add_nondir()")
+1e2e547a93a0 ("do d_instantiate/unlock_new_inode combinations safely")
+78e1060c9474 ("ext4: switch to fscrypt ->symlink() helper functions")

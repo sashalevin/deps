@@ -1,0 +1,6 @@
+dfab73eb2829 ("pwm: atmel-tcb: Prepare removing pwm_chip from driver data")
+319333b0c48e ("pwm: atmel-tcb: Don't check the return code of pwmchip_remove()")
+e9fdf122cf34 ("pwm: Simplify all drivers with explicit of_pwm_n_cells = 3")
+c77e99f434c2 ("pwm: atmel-tcb: Only free resources after pwm_chip_remove() returned")
+f9a8ee8c8bcd ("pwm: Always allocate PWM chip base ID dynamically")
+d21ba5d6217b ("pwm: rockchip: Eliminate potential race condition when probing")

@@ -1,0 +1,5 @@
+586a97d907ac ("i2c: tegra: Use clk-bulk helpers")
+76bc845a78c5 ("i2c: tegra: Runtime PM always available on Tegra")
+8ff727316a09 ("i2c: tegra: Remove i2c_dev.clk_divisor_non_hs_mode member")
+8548a75f3e8d ("i2c: tegra: Initialize div-clk rate unconditionally")
+e4fc2efbc310 ("i2c: tegra: Add missing pm_runtime_put()")

@@ -1,0 +1,8 @@
+0acc7239c20a ("KVM: arm64: Avoid vcpu->mutex v. kvm->lock inversion in CPU_ON")
+7b33a09d036f ("KVM: arm64: Add support for userspace to suspend a vCPU")
+3fdd04592d38 ("KVM: arm64: Return a value from check_vcpu_requests()")
+b171f9bbb130 ("KVM: arm64: Track vCPU power state using MP state values")
+1e5794295c5d ("KVM: arm64: Dedupe vCPU power off helpers")
+26bf74bd9f6f ("KVM: arm64: mixed-width check should be skipped for uninitialized vCPUs")
+06394531b425 ("KVM: arm64: Generalise VM features into a set of flags")
+7297a8bcc0ae ("Merge branch kvm-arm64/misc-5.18 into kvmarm-master/next")

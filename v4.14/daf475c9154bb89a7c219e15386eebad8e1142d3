@@ -1,0 +1,3 @@
+daf475c9154b ("btrfs: qgroup: Remove the unnecesaary spin lock for qgroup_rescan_running")
+d61acbbf54c6 ("btrfs: qgroup: ensure qgroup_rescan_running is only set when the worker is at least queued")
+5d23515be669 ("btrfs: Move qgroup rescan on quota enable to btrfs_quota_enable")

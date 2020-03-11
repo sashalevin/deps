@@ -1,0 +1,5 @@
+6addfcf27139 ("KVM: pfncache: simplify locking and make more self-contained")
+721f5b0dda78 ("KVM: pfncache: allow a cache to be activated with a fixed (userspace) HVA")
+406c10962a4c ("KVM: pfncache: include page offset in uhva and use it consistently")
+53e63e953e14 ("KVM: pfncache: stop open-coding offset_in_page()")
+58f5ee5fedd9 ("KVM: Drop @gpa from exported gfn=>pfn cache check() and refresh() helpers")

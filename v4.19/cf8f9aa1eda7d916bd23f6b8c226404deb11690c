@@ -1,1 +1,8 @@
 cf8f9aa1eda7 ("drm/i915/icl: whitelist PS_(DEPTH|INVOCATION)_COUNT")
+7b3d40631098 ("drm/i915: Add whitelist workarounds for ICL")
+ebd2de47a19f ("drm/i915: Support whitelist workarounds on all engines")
+0fc2273b9ab7 ("drm/i915/icl: Whitelist GEN9_SLICE_COMMON_ECO_CHICKEN1")
+11334c6aad95 ("drm/i915: Split engine setup/init into two phases")
+fa9f668141f4 ("drm/i915: Export intel_context_instance()")
+251d46b0875c ("drm/i915/gvt: Pin the per-engine GVT shadow contexts")
+b226c3491b28 ("Merge drm/drm-next into drm-intel-next-queued")

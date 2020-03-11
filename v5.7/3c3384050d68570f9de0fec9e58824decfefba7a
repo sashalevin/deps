@@ -1,0 +1,7 @@
+3c3384050d68 ("drm: Don't make DRM_PANEL_BRIDGE dependent on DRM_KMS_HELPERS")
+3755d35ee1d2 ("drm/panel: Select DRM_DP_HELPER for DRM_PANEL_EDP")
+74c06c282ae6 ("drm/panel: panel-simple: Allow panel-simple be a DP AUX endpoint device")
+ce517f18944e ("drm: bridge: Add Chipone ICN6211 MIPI-DSI to RGB bridge")
+a42e37db23b8 ("dt-bindings: display: bridge: Add Chipone ICN6211 bindings")
+f2e66f212a9d ("drm: panel: simple: add missing platform_driver_unregister() in panel_simple_init")
+e7f12054a1b9 ("drm/bridge: chrontel-ch7033: Add a new driver")

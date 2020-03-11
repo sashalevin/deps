@@ -1,0 +1,8 @@
+340e84573878 ("block: delay freeing the gendisk")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")
+a33df75c6328 ("block: use an xarray for disk->part_tbl")
+0470dd9d5f10 ("block: remove DISK_PITER_REVERSE")
+309dca309fc3 ("block: store a block_device pointer in struct bio")
+74cb8994b22a ("brd: remove the end of device check in brd_do_bvec")
+52f019d43c22 ("block: add a hard-readonly flag to struct gendisk")
+6f0d9689b670 ("block: remove the NULL bdev check in bdev_read_only")

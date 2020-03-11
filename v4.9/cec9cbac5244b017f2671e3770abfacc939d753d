@@ -1,0 +1,5 @@
+cec9cbac5244 ("scsi: zfcp: use fallthrough;")
+e05a10a05509 ("scsi: zfcp: expose fabric name as common fc_host sysfs attribute")
+3505144e5428 ("scsi: zfcp: silence -Wimplicit-fallthrough in zfcp_erp_lun_strategy()")
+394134fd9f99 ("scsi: zfcp: clarify that we don't need "link" test on failed open port")
+6f2ce1c6af37 ("scsi: zfcp: fix rport unblock race with LUN recovery")

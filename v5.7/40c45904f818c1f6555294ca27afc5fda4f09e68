@@ -1,0 +1,4 @@
+40c45904f818 ("x86/ptrace: Fix 32-bit PTRACE_SETREGS vs fsbase and gsbase")
+58edfd2e0a93 ("x86/fsgsbase/64: Enable FSGSBASE instructions in helper functions")
+b15378ca5081 ("x86/fsgsbase/64: Add intrinsics for FSGSBASE instructions")
+804eb64615a4 ("selftests/x86/pkeys: move selftests to arch-neutral directory")

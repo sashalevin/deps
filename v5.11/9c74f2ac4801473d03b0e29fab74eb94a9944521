@@ -1,0 +1,6 @@
+9c74f2ac4801 ("PM: domains: Move the next_wakeup variable into the struct gpd_timing_data")
+66d29d802ef3 ("PM: domains: Allocate gpd_timing_data dynamically based on governor")
+5937c3ce2122 ("PM: domains: Drop/restore performance state votes for devices at runtime PM")
+0eef091d2dc4 ("PM: domains: Split code in dev_pm_genpd_set_performance_state()")
+c79aa080fb0f ("PM: domains: use device's next wakeup to determine domain idle state")
+67e3242ee280 ("PM: domains: inform PM domain of a device's next wakeup")

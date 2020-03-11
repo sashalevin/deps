@@ -1,0 +1,8 @@
+c8064e5b4ada ("bpf: Let bpf_warn_invalid_xdp_action() report more info")
+2cbad989033b ("bpf: Do not WARN in bpf_warn_invalid_xdp_action()")
+ed5356b53f07 ("net: mana: Add XDP support")
+06059a1a9a4a ("octeontx2-pf: Add XDP support to netdev PF")
+af3826db74d1 ("octeontx2-pf: Use hardware register for CQE count")
+e1b5683ff62e ("net: mana: Move NAPI from EQ to CQ")
+2ea5eabaf04a ("bpf: devmap: Implement devmap prog execution for generic XDP")
+11941f8a8536 ("bpf: cpumap: Implement generic cpumap")

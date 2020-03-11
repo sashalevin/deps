@@ -1,0 +1,8 @@
+4a3f54d94d5c ("dm: remove BIOSET_NEED_RESCUER based dm_offload infrastructure")
+10999307c14e ("dm: introduce dm_remap_zone_report()")
+47e0fb461fca ("blk: make the bioset rescue_workqueue optional.")
+011067b05668 ("blk: replace bioset_create_nobvec() with a flags arg to bioset_create()")
+846785e6a572 ("dm: don't return errnos from ->map")
+9966afaf91b3 ("dm: fix REQ_RAHEAD handling")
+18a482f5245c ("dm mpath: don't return -EIO from dm_report_EIO")
+7b66f13207e6 ("Merge tag 'for-4.12/dm-post-merge-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/device-mapper/linux-dm")

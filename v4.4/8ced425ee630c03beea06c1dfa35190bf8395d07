@@ -1,0 +1,5 @@
+8ced425ee630 ("tun: use socket locks for sk_{attach,detatch}_filter")
+5a5abb1fa3b0 ("tun, bpf: fix suspicious RCU usage in tun_{attach, detach}_filter")
+538950a1b752 ("soreuseport: setsockopt SO_ATTACH_REUSEPORT_[CE]BPF")
+e32ea7e74727 ("soreuseport: fast reuseport UDP socket selection")
+ef456144da8e ("soreuseport: define reuseport groups")

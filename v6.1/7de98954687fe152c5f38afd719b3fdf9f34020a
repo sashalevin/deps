@@ -1,0 +1,6 @@
+7de98954687f ("block: Added folio-ized version of bio_add_hw_page()")
+fd363244e883 ("block: Add BIO_PAGE_PINNED and associated infrastructure")
+e51bab4e2058 ("block: Replace BIO_NO_PAGE_REF with BIO_PAGE_REFFED with inverted logic")
+a450f49708ea ("iomap: Don't get an reference on ZERO_PAGE for direct I/O block zeroing")
+7ee4ccf57484 ("block: set FOLL_PCI_P2PDMA in bio_map_user_iov()")
+80bd4a7aab4c ("blk-mq: move the srcu_struct used for quiescing to the tagset")

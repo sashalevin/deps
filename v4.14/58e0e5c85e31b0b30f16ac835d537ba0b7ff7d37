@@ -1,0 +1,7 @@
+58e0e5c85e31 ("kbuild: deb-pkg: add --source-option=-sP")
+000ec95fbe75 ("kbuild: pkg: rename scripts/package/Makefile to scripts/Makefile.package")
+117948ac744b ("kbuild: [bin]deb-pkg: add DPKG_FLAGS variable")
+dd5806ede3d7 ("kbuild: remove "rpm" target, which is alias of "rpm-pkg"")
+b41d920acff8 ("kbuild: deb-pkg: split generating packaging and build")
+ebaad7d36406 ("kbuild: rpm: prompt to use "rpm-pkg" if "rpm" target is used")
+bace64800bae ("builddeb: Pass the kernel:debarch substvar to dpkg-genchanges")

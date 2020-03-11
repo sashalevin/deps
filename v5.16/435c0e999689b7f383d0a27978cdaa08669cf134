@@ -1,0 +1,7 @@
+435c0e999689 ("blk-crypto: remove blk_crypto_insert_cloned_request()")
+9cd1e566676b ("blk-mq: release crypto keyslot before reporting I/O complete")
+3569788c0823 ("blk-crypto: move internal only declarations to blk-crypto-internal.h")
+5581a5ddfe8d ("block: add completion handler for fast path")
+0d7a29a2b5ea ("block: move blk_print_req_error to blk-mq.c")
+06c8c691e282 ("block: move request based cloning helpers to blk-mq.c")
+79478bf9ea9f ("block: move blk_rq_err_bytes to scsi")

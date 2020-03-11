@@ -1,0 +1,4 @@
+c86c120fde29 ("virtio_net: separate receive_buf")
+703eec1b2422 ("virtio_net: fixing XDP for fully checksummed packets handling")
+d12a26b74fb7 ("virtio_net: avoid data-races on dev->stats fields")
+dae64749db25 ("virtio_net: Introduce skb_vnet_common_hdr to avoid typecasting")

@@ -1,0 +1,6 @@
+5a8d0c46c9e0 ("fortify: move test_fortify.sh to lib/test_fortify/")
+4e9903b0861c ("fortify: refactor test_fortify Makefile to fix some build problems")
+84679f04ceaf ("fortify: fix warnings in fortify tests with KASAN")
+b1992c3772e6 ("kbuild: use $(src) instead of $(srctree)/$(src) for source directory")
+9dcb47a616d5 ("kbuild: do not add $(srctree) or $(objtree) to header search paths")
+6552b72c3a4e ("dt-bindings: kbuild: Split targets out to separate rules")

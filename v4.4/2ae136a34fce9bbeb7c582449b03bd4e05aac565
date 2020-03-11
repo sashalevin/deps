@@ -1,0 +1,5 @@
+2ae136a34fce ("gpio: omap: handle deferred probe with dev_err_probe() for gpiochip_add_data()")
+8193032821d6 ("gpio: omap: initialize gpioirq chip as part of gpiochip_add_data")
+7b1e5dc86c00 ("gpio: omap: drop dev field from gpio_bank structure")
+d99f7aec6e8b ("gpio: omap: use gpiochip data pointer")
+58383c78425e ("gpio: change member .dev to .parent")

@@ -1,0 +1,8 @@
+f3297f686db0 ("net: alx: switch to pci_alloc_irq_vectors")
+37187a016c37 ("alx: fix fallback to msi or legacy interrupts")
+f58e0f77471b ("alx: enable msi-x interrupts by default")
+e0eac2546090 ("alx: prepare interrupt functions for multiple queues")
+702e84185f47 ("alx: switch to per queue data structures")
+b0999223f224 ("alx: add ability to allocate and free alx_napi structures")
+bccffcf71544 ("alx: extend data structures for multi queue support")
+8c2a4c8efb0c ("alx: refactor descriptor allocation")

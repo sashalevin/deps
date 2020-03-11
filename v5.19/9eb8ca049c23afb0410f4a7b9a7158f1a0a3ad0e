@@ -1,0 +1,3 @@
+9eb8ca049c23 ("KVM: Obey kvm.halt_poll_ns in VMs not using KVM_CAP_HALT_POLL")
+175d5dc79dcb ("KVM: Avoid re-reading kvm->max_halt_poll_ns during halt-polling")
+97b6847ac10b ("KVM: Cap vcpu->halt_poll_ns before halting rather than after")

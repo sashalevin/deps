@@ -1,0 +1,4 @@
+631cfdd0520d ("mtd: spi-nand: Add continuous read support")
+79da17072e22 ("mtd: spi-nand: Isolate the MTD read logic in a helper")
+7bea60569277 ("mtd: add ECC error accounting for each read request")
+65394169bdae ("mtd: track maximum number of bitflips for each read request")

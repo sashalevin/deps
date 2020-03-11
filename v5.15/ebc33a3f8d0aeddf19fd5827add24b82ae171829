@@ -1,0 +1,6 @@
+ebc33a3f8d0a ("ice: improve updating ice_{t,r}x_ring::xsk_pool")
+9da75a511c55 ("ice: toggle netif_carrier when setting up XSK pool")
+d59227179949 ("ice: modify error handling when setting XSK pool in ndo_bpf")
+405d9999aa0b ("ice: replace synchronize_rcu with synchronize_net")
+adbf5a42341f ("ice: remove af_xdp_zc_qps bitmap")
+e3afe5dd3abe ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net")

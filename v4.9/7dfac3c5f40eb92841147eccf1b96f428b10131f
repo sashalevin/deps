@@ -1,0 +1,7 @@
+7dfac3c5f40e ("arm64: module: create module allocations without exec permissions")
+b2eed9b58811 ("arm64/kernel: kaslr: reduce module randomization range to 2 GB")
+f2b9ba871beb ("arm64/kernel: kaslr: reduce module randomization range to 4 GB")
+e71a4e1bebaf ("arm64: ftrace: add support for far branches to dynamic ftrace")
+0c2cf6d9487c ("arm64: Silence first allocation with CONFIG_ARM64_MODULE_PLTS=y")
+24af6c4e4e0f ("arm64: module: split core and init PLT sections")
+757b435aaabe ("efi: arm64: Add vmlinux debug link to the Image binary")

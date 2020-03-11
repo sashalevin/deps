@@ -1,0 +1,7 @@
+41cca0542d7c ("selftests/harness: Fix TEST_F()'s vfork handling")
+796a344fa431 ("selftests: kselftest_harness: use exit code to store skip")
+69fe8ec4f673 ("selftests: kselftest_harness: save full exit code in metadata")
+38c957f07038 ("selftests: kselftest_harness: generate test name once")
+a724707976b0 ("selftests: kselftest_harness: use KSFT_* exit codes")
+0710a1a73fb4 ("selftests/harness: Merge TEST_F_FORK() into TEST_F()")
+e74048650eaf ("selftests/landlock: Redefine TEST_F() as TEST_F_FORK()")

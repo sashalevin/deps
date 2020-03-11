@@ -1,0 +1,6 @@
+364ee29d1206 ("drm/i915: Pass crtc_state->dpll directly to ->find_dpll()")
+fade85ae2122 ("drm/i915: Remove PCH type checks from ironlake_crtc_compute_clock()")
+7ed9f894e55e ("drm/i915: Don't calculate a new clock in ILK+ code if it is already set")
+ceb41007b42b ("drm/i915: Remove checks for cloned config with LVDS in dpll code")
+a612c405563c ("drm/i915: Kill duplicated PNV .get_display_clock_speed() assignment")
+a65347ba6a4e ("drm/i915: add has_dsi_encoder to crtc state")

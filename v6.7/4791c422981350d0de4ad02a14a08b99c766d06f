@@ -1,0 +1,8 @@
+4791c4229813 ("ASoC: cs35l45: Use new snd_soc_component_get_kcontrol_locked() helper")
+eba2eb2495f4 ("ASoC: soc-card: Fix missing locking in snd_soc_card_get_kcontrol()")
+c14f09f010cc ("ASoC: cs35l56: Fix deadlock in ASP1 mixer register initialization")
+f6c967941c5d ("ASoC: cs35l56: Fix misuse of wm_adsp 'part' string for silicon revision")
+07f7d6e7a124 ("ASoC: cs35l56: Fix for initializing ASP1 mixer registers")
+07687cd0539f ("ASoC: cs35l56: Don't add the same register patch multiple times")
+cd38ccbecdac ("ASoC: cs35l56: cs35l56_component_remove() must clean up wm_adsp")
+ae861c466ee5 ("ASoC: cs35l56: cs35l56_component_remove() must clear cs35l56->component")

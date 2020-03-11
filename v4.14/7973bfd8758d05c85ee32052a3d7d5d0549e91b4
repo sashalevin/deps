@@ -1,0 +1,6 @@
+7973bfd8758d ("rtnetlink: remove check for IFLA_IF_NETNSID")
+79e1ad148c84 ("rtnetlink: use netnsid to query interface")
+070cbf5be777 ("rtnetlink: place link af dump into own helper")
+6621dd29eb9b ("dev: advertise the new nsid when the netns iface changes")
+b1e66b9a67d6 ("rtnetlink: add helpers to dump netnsid information")
+79110a0426d8 ("rtnetlink: add helper to put master and link ifindexes")

@@ -1,0 +1,6 @@
+c8576f3e612d ("io_uring: refactor req allocation")
+b5083dfa3667 ("io_uring: improve io_get_sqe")
+c1755c25a719 ("io_uring: Enable KASAN for request cache")
+b5d3ae202fbf ("io_uring: handle TIF_NOTIFY_RESUME when checking for task_work")
+140102ae9a9f ("io_uring: move defer tw task checks")
+f36ba6cf1ab6 ("io_uring: don't iterate cq wait fast path")

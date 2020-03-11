@@ -1,0 +1,5 @@
+0ff400135b2a ("btrfs: rename io_failure_record::bio_flags to compress_type")
+7f6ca7f21de2 ("btrfs: open code extent_set_compress_type helpers")
+2a5232a8cef2 ("btrfs: simplify handling of bio_ctrl::bio_flags")
+8cbc3001a326 ("btrfs: do not clean up repair bio if submit fails")
+f9f15de85d74 ("btrfs: do not double complete bio on errors during compressed reads")

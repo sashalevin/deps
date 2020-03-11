@@ -1,0 +1,8 @@
+ed024ca62a4a ("drm/nouveau: stop using TTM_MEMTYPE_FLAG_MAPPABLE")
+f5a9a9383f27 ("drm/ttm: remove TTM_MEMTYPE_FLAG_CMA")
+0b17fc08e396 ("drm/vmwgfx: don't use ttm bo->offset")
+b1a8ef952a25 ("drm/amdgpu: move ttm bo->offset to amdgpu_bo")
+9431042dbc8c ("drm/vmwgfx: Hook up the helpers to align buffer objects")
+b18234166709 ("drm: Add a drm_get_unmapped_area() helper")
+ef48d4b39e50 ("drm/amdgpu: stop using amdgpu_bo_gpu_offset in the VM backend")
+e205ceeb2537 ("Merge drm/drm-next into drm-intel-next-queued")

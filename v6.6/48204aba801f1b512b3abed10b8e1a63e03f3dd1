@@ -1,0 +1,6 @@
+48204aba801f ("x86/sme: Move early SME kernel encryption handling into .head.text")
+cd0d9d92c8bb ("x86/boot: Move mem_encrypt= parsing to the decompressor")
+1c811d403afd ("x86/sev: Fix position dependent variable references in startup code")
+29956748339a ("x86/Kconfig: Remove CONFIG_AMD_MEM_ENCRYPT_ACTIVE_BY_DEFAULT")
+e814b59e6c2b ("x86/sme: Fix memory encryption setting if enabled by default and not overridden")
+d55d5bc5d937 ("x86/boot: Rename conflicting 'boot_params' pointer to 'boot_params_ptr'")

@@ -1,0 +1,7 @@
+2615fd9a7c25 ("Bluetooth: hci_sync: Fix overwriting request callback")
+63298d6e752f ("Bluetooth: hci_core: Cancel request on command timeout")
+a13f316e90fd ("Bluetooth: hci_conn: Consolidate code for aborting connections")
+d883a4669a1d ("Bluetooth: hci_sync: Only allow hci_cmd_sync_queue if running")
+f41986358821 ("Bluetooth: Cancel sync command before suspend and power off")
+b62e72200eaa ("Bluetooth: Fix printing errors if LE Connection times out")
+19cf60bf63cb ("Bluetooth: hci_conn: Fix not cleaning up on LE Connection failure")

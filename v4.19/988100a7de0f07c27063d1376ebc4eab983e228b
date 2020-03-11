@@ -1,0 +1,7 @@
+988100a7de0f ("scsi: qedf: Retry qed->probe during recovery")
+c6e2f4bd794a ("scsi: qedf: Remove set but not checked variable 'tmp'")
+e82e6ff7779a ("scsi: qedf: Print message during bailout conditions")
+faea5719d373 ("scsi: qedf: Cleanup rrq_work after QEDF_CMD_OUTSTANDING is cleared")
+76dbf4ff068c ("scsi: qedf: Check for link state before processing LL2 packets and send fipvlan retries")
+69ef2c692510 ("scsi: qedf: Modify abort and tmf handler to handle edge condition and flush")
+5d5e55659b37 ("scsi: qedf: Modify flush routine to handle all I/Os and TMF")

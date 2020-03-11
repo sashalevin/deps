@@ -1,0 +1,6 @@
+17627157cda1 ("kernfs: handle null pointers while printing node name and path")
+ed1777de25e4 ("cgroup: add tracepoints for basic operations")
+3abb1d90f5d9 ("kernfs: make kernfs_path*() behave in the style of strlcpy()")
+0e0b2afdf644 ("kernfs: add dummy implementation of kernfs_path_from_node()")
+e99ed4de1731 ("kernfs_path_from_node_locked: don't overwrite nlen")
+5518f66b5a64 ("Merge branch 'for-4.6-ns' of git://git.kernel.org/pub/scm/linux/kernel/git/tj/cgroup")

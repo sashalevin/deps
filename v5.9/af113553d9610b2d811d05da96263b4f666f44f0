@@ -1,0 +1,6 @@
+af113553d961 ("PCI/AER: Add pcie_walk_rcec() to RCEC AER handling")
+507b460f8144 ("PCI/ERR: Add pcie_link_rcec() to associate RCiEPs")
+480ef7cb9fce ("PCI/ERR: Simplify by computing pci_pcie_type() once")
+5d69dcc9f839 ("PCI/ERR: Simplify by using pci_upstream_bridge()")
+90655631988f ("PCI/ERR: Cache RCEC EA Capability offset in pci_init_capabilities()")
+c9d659b60770 ("PCI/ERR: Bind RCEC devices to the Root Port driver")

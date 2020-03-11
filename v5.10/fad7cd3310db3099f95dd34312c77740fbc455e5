@@ -1,0 +1,5 @@
+fad7cd3310db ("nbd: add the check to prevent overflow in __nbd_ioctl()")
+dcbddf541f18 ("nbd: validate the block size in nbd_set_size")
+2dc691cc4ac2 ("nbd: refactor size updates")
+92f93c3a1bf9 ("nbd: move the task_recv check into nbd_size_update")
+ee4bf6486350 ("nbd: remove the call to set_blocksize")

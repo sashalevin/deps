@@ -1,0 +1,5 @@
+dc64cc12bcd1 ("binfmt_elf: replace IS_ERR() with IS_ERR_VALUE()")
+fe0f67660ee9 ("elf: Allow arch to tweak initial mmap prot flags")
+00e19ceec80b ("ELF: Add ELF program property parsing support")
+db751e309ff0 ("ELF: UAPI and Kconfig additions for ELF program properties")
+81696d5d544e ("fs/binfmt_elf.c: delete unused "interp_map_addr" argument")

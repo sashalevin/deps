@@ -1,0 +1,4 @@
+185445c7c137 ("s390/vdso: Use standard stack frame layout")
+d15e4314abec ("s390/vdso: filter out mno-pic-data-is-text-relative cflag")
+fd8589dce810 ("s390/vdso: Drop '-shared' from KBUILD_CFLAGS_64")
+7b737adc10d2 ("s390/vdso: remove -nostdlib compiler flag")

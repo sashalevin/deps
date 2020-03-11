@@ -1,0 +1,5 @@
+fdef24dfccb7 ("x86/hw_breakpoint: Prevent data breakpoints on user_pcid_flush_mask")
+f9fe0b89f054 ("x86/hw_breakpoint: Prevent data breakpoints on per_cpu cpu_tss_rw")
+97417cb9ad4e ("x86/hw_breakpoint: Prevent data breakpoints on direct GDT")
+d390e6de89d3 ("x86/hw_breakpoint: Add within_area() to check data breakpoints")
+24ae0c91cbc5 ("x86/hw_breakpoint: Prevent data breakpoints on cpu_entry_area")

@@ -1,0 +1,2 @@
+58be0106c530 ("random: fix soft lockup when trying to read from an uninitialized blocking pool")
+eb9d1bf079bb ("random: only read from /dev/random after its pool has received 128 bits")

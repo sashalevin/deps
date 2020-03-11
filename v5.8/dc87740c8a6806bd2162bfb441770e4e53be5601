@@ -1,0 +1,4 @@
+dc87740c8a68 ("rcu: Fix stall-warning deadlock due to non-release of rcu_node ->lock")
+a649d25dcc67 ("rcu: Add lockdep_assert_irqs_disabled() to rcu_sched_clock_irq() and callees")
+c583bcb8f5ed ("rcu: Don't invoke try_invoke_on_locked_down_task() with irqs disabled")
+fe63b723cc7c ("rcu: Add READ_ONCE() to rcu_do_batch() access to rcu_kick_kthreads")

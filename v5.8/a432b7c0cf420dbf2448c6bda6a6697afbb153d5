@@ -1,0 +1,7 @@
+a432b7c0cf42 ("locking/lockref/x86: Enable ARCH_USE_CMPXCHG_LOCKREF for X86_CMPXCHG64")
+0bff0aaea03e ("x86/mm: try VMA lock-based page fault handling first")
+dce44566192e ("mm/memtest: add ARCH_USE_MEMTEST")
+ec352711ceba ("x86/fault: Fold mm_fault_error() into do_user_addr_fault()")
+aa65ff6b18e0 ("powerpc/64s: Implement queued spinlocks and rwlocks")
+12d0b9d6c843 ("powerpc: Move spinlock implementation to simple_spinlock")
+20d444d06f97 ("powerpc/pseries: Move some PAPR paravirt functions to their own file")

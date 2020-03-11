@@ -1,0 +1,5 @@
+184434fcd617 ("spi: spi-imx: mx51_ecspi_prepare_message(): skip writing MX51_ECSPI_CONFIG register if unchanged")
+00b80ac93553 ("spi: imx: mx51-ecspi: Move some initialisation to prepare_message hook.")
+e697271c4e29 ("spi: imx: add a device specific prepare_message callback")
+5ba5a3730639 ("spi: imx: correct wml as the last sg length")
+987a2dfe3f04 ("spi: imx: move wml setting to later than setup_transfer")

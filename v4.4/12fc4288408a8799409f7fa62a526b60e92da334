@@ -1,0 +1,4 @@
+12fc4288408a ("arm64: ptrace: Fix missing return in hw breakpoint code")
+f3a900b34101 ("signal/arm64: Add and use arm64_force_sig_ptrace_errno_trap")
+009f608ab20a ("signal/arm64: Remove arm64_force_sig_info")
+b4d5557caa07 ("signal/arm64: Add and use arm64_force_sig_mceerr as appropriate")

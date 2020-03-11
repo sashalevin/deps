@@ -1,0 +1,8 @@
+eedeb787ebb5 ("freezer,umh: Fix call_usermode_helper_exec() vs SIGKILL")
+f5d39b020809 ("freezer,sched: Rewrite core freezer logic")
+9963e444f71e ("sched: Widen TAKS_state literals")
+f9fc8cad9728 ("sched: Add TASK_ANY for wait_task_inactive()")
+9204a97f7ae8 ("sched: Change wait_task_inactive()s match_state")
+1fbcaa923ce2 ("freezer,umh: Clean up freezer/initrd interaction")
+5950e5d574c6 ("freezer: Have {,un}lock_system_sleep() save/restore flags")
+0b9d46fc5ef7 ("sched: Rename task_running() to task_on_cpu()")

@@ -1,0 +1,3 @@
+67c3ca2c5cfe ("net: mscc: ocelot: use ocelot_xmit_get_vlan_info() also for FDMA and register injection")
+0bcf2e4aca6c ("net: dsa: tag_ocelot: call only the relevant portion of __skb_vlan_pop() on TX")
+eabb1494c9f2 ("net: dsa: tag_ocelot: do not rely on skb_mac_header() for VLAN xmit")

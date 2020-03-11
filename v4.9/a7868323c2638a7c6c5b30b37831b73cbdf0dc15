@@ -1,0 +1,5 @@
+a7868323c263 ("exec: Add a per bprm->file version of per_clear")
+a16b3357b2b8 ("exec: Allow load_misc_binary to call prepare_binprm unconditionally")
+112b7147592e ("exec: Convert security_bprm_set_creds into security_bprm_repopulate_creds")
+b8bff599261c ("exec: Factor security_bprm_creds_for_exec out of security_bprm_set_creds")
+d987ca1c6b7e ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/ebiederm/user-namespace")

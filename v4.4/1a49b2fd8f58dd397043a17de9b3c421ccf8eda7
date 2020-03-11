@@ -1,0 +1,8 @@
+1a49b2fd8f58 ("kbuild: strip whitespace in cmd_record_mcount findstring")
+e5d289100d3a ("kbuild: remove trailing semicolon from cmd_* passed to if_changed_rule")
+bbda5ec671d3 ("kbuild: simplify dependency generation for CONFIG_TRIM_UNUSED_KSYMS")
+ee3e46b7efd2 ("kbuild: refactor modversions build rules")
+392885ee82d3 ("kbuild: let fixdep directly write to .*.cmd files")
+7d0ea2524202 ("kbuild: use 'else ifeq' for checksrc to improve readability")
+00d78ab2ba75 ("kbuild: remove dead code in cmd_files calculation in top Makefile")
+1bc276775d93 ("Merge tag 'kbuild-v4.19-2' of git://git.kernel.org/pub/scm/linux/kernel/git/masahiroy/linux-kbuild")

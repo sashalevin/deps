@@ -1,0 +1,4 @@
+46d21ec06749 ("perf report: Append inlines to non-DWARF callchains")
+5f0fef8ac3e7 ("perf callchain: Use 'struct map_symbol' in 'struct callchain_cursor_node'")
+c1529738f5eb ("perf unwind: Use 'struct map_symbol' in 'struct unwind_entry'")
+d3a022cbdce6 ("perf tools: Add map_groups to 'struct addr_location'")

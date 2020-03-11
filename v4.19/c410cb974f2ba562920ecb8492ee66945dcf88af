@@ -1,0 +1,4 @@
+c410cb974f2b ("netfilter: conntrack: handle tcp challenge acks during connection reuse")
+be0502a3f2e9 ("netfilter: conntrack: tcp: only close if RST matches exact sequence")
+9976fc6e6edb ("netfilter: conntrack: remove the l4proto->new() function")
+93e66024b024 ("netfilter: conntrack: pass nf_hook_state to packet and error handlers")

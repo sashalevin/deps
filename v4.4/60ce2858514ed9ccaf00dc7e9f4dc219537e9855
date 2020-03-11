@@ -1,0 +1,6 @@
+60ce2858514e ("ARM: 8680/1: boot/compressed: fix inappropriate Thumb2 mnemonic for __nop")
+06a4b6d009a1 ("ARM: 8677/1: boot/compressed: fix decompressor header layout for v7-M")
+81a0bc39ea19 ("ARM: add UEFI stub support")
+da58fb6571bf ("ARM: wire up UEFI init and runtime support")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

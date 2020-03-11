@@ -1,0 +1,8 @@
+c496daeb8630 ("devlink: remove duplicate port notification")
+852e85a704c2 ("net: devlink: add unlocked variants of devling_trap*() functions")
+a44c4511ffb2 ("net: devlink: fix return statement in devlink_port_new_notify()")
+ced92571af24 ("net: devlink: fix a typo in function name devlink_port_new_notifiy()")
+7715023aa51f ("net: devlink: use helpers to work with devlink->lock mutex")
+f0680ef0f949 ("devlink: Hold the instance lock in port_new / port_del callbacks")
+2cb7b4890d6e ("devlink: expose instance locking and add locked port registering")
+4c897cfc46a5 ("devlink: Simplify devlink resources unregister call")

@@ -1,0 +1,5 @@
+470f4d613b51 ("mac80211: avoid ROC during hw restart")
+aaa016ccd5df ("mac80211: rewrite remain-on-channel logic")
+a2fcfccbad43 ("mac80211: move off-channel/mgmt-tx code to offchannel.c")
+e673a65952b4 ("mac80211: fix mgmt-tx abort cookie and leak")
+86c7ec9eb154 ("mac80211: properly free skb when r-o-c for TX fails")

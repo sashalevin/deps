@@ -1,0 +1,8 @@
+ade19f0d6a3a ("net/mlx5: Bridge, pass net device when linking vport to bridge")
+575baa92fd46 ("net/mlx5: Bridge, pop VLAN on egress table miss")
+a1a6e7217eac ("net/mlx5: Bridge, refactor eswitch instance usage")
+8343268ec3cf ("net/mlx5: Bridge, fix uninitialized variable usage")
+c358ea1741bc ("net/mlx5: Bridge, allow merged eswitch connectivity")
+bf3d56d8f55f ("net/mlx5: Bridge, extract FDB delete notification to function")
+3ee6233e61a1 ("net/mlx5: Bridge, identify port by vport_num+esw_owner_vhca_id pair")
+4de20e9a1225 ("net/mlx5: Bridge, release bridge in same function where it is taken")

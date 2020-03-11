@@ -1,0 +1,4 @@
+cb32c285cc10 ("cpumask: change return types to bool where appropriate")
+1dc01abad654 ("cpumask: Always inline helpers which use bit manipulation functions")
+6c8557bdb28d ("smp, cpumask: Use non-atomic cpumask_{set,clear}_cpu()")
+3fc5b3b6a80b ("smp: Avoid sending needless IPI in smp_call_function_many()")

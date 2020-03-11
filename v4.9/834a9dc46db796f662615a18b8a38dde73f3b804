@@ -1,0 +1,5 @@
+834a9dc46db7 ("i2c: Convert drivers to new .probe() callback")
+99ad11e06be8 ("i2c: dummy: Drop no-op remove function")
+a8335c64c5f0 ("i2c: add slave testunit driver")
+4d5538f5882a ("i2c: use an IRQ to report Host Notify events, not alert")
+c912a25a5a12 ("i2c: i801: remove SMBNTFDDAT reads as they always seem to return 0")

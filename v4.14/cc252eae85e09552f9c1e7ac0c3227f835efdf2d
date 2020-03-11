@@ -1,0 +1,6 @@
+cc252eae85e0 ("mm, slab: combine kmalloc_caches and kmalloc_dma_caches")
+36071a279b41 ("slab: make kmalloc_index() return "unsigned int"")
+1c99ba2918df ("mm/slab_common.c: mark kmalloc machinery as __ro_after_init")
+6c0c21adc742 ("usercopy: Mark kmalloc caches as usercopy caches")
+8eb8284b4129 ("usercopy: Prepare for usercopy whitelisting")
+d50112edde1d ("slab, slub, slob: add slab_flags_t")

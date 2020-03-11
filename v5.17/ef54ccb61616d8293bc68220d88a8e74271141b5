@@ -1,0 +1,5 @@
+ef54ccb61616 ("selinux: selinux_add_opt() callers free memory")
+70f4169ab421 ("selinux: parse contexts for mount options early")
+6bc1968c14e9 ("selinux: try to use preparsed sid before calling parse_sid()")
+b8b87fd954b4 ("selinux: Fix selinux_sb_mnt_opts_compat()")
+0266c25e7c28 ("selinux: access superblock_security_struct in LSM blob way")

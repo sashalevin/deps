@@ -1,0 +1,5 @@
+14c5678720bd ("power: reset: syscon-poweroff: Use devm_register_sys_off_handler(POWER_OFF)")
+ffa212831289 ("power: reset: syscon-poweroff: Move device data into a struct")
+2973706c4160 ("power: reset: syscon-poweroff: Convert to platform remove callback returning void")
+92bbb93aaaef ("power: reset: syscon-poweroff: get regmap from parent node")
+6f9c8a1338d9 ("power: reset: syscon-poweroff: simplify pdev->dev usage")

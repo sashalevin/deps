@@ -1,0 +1,5 @@
+1e9de1d2207d ("arm64/efi: Ignore EFI_MEMORY_XP attribute if RP and/or WP are set")
+1fd55a9a09b0 ("arm64/efi: Apply strict permissions to UEFI Runtime Services regions")
+f7d924894265 ("arm64/efi: refactor EFI init and runtime code for reuse by 32-bit ARM")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

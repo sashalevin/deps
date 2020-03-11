@@ -1,0 +1,8 @@
+10100ffd5f65 ("scsi: hpsa: Get rid of compat_alloc_user_space()")
+6f4e626fb0cc ("scsi: ata: Use unsigned int for cmd's type in ioctls in scsi_host_template")
+d6e32f530df9 ("scsi: cxlflash: Introduce host ioctl support")
+a834a36b57d9 ("scsi: cxlflash: Create character device to provide host management interface")
+0b09e7111899 ("scsi: cxlflash: Schedule asynchronous reset of the host")
+a96851d3372b ("scsi: cxlflash: Reset hardware queue context via specified register")
+539d890cecee ("scsi: cxlflash: Update cxlflash_afu_sync() to return errno")
+8d5e72dfdf0f ("Merge tag 'scsi-misc' of git://git.kernel.org/pub/scm/linux/kernel/git/jejb/scsi")

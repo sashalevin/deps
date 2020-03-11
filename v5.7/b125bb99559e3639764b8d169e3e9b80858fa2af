@@ -1,0 +1,6 @@
+b125bb99559e ("scsi: core: Support setting BLK_MQ_F_BLOCKING")
+c854bcdf5e18 ("scsi: core: Rework scsi_host_block()")
+bdb01301f3ea ("scsi: Add host and host template flag 'host_tagset'")
+f30785db7546 ("scsi: core: Add missing scsi_device_put() in scsi_host_block()")
+840e1b55bb75 ("scsi: core: Refactor scsi_mq_setup_tags function")
+f983622ae605 ("scsi: core: Avoid calling synchronize_rcu() for each device in scsi_host_block()")

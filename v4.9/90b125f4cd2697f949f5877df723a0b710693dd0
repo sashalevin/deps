@@ -1,0 +1,7 @@
+90b125f4cd26 ("hv_utils: return error if host timesysnc update is stale")
+0af3e137c144 ("clocksource/drivers/hyper-v: Untangle stimers and timesync from clocksources")
+ddc61bbc4501 ("clocksource/drivers/hyper-v: Reserve PAGE_SIZE space for tsc page")
+3e2d94535adb ("clocksource/drivers/hyperv: Enable TSC page clocksource on 32bit")
+bd00cd52d5be ("clocksource/drivers/hyperv: Add Hyper-V specific sched clock function")
+adb87ff4f96c ("clocksource/drivers/hyperv: Allocate Hyper-V TSC page statically")
+16c97650a56a ("Merge tag 'hyperv-next-signed' of git://git.kernel.org/pub/scm/linux/kernel/git/hyperv/linux")

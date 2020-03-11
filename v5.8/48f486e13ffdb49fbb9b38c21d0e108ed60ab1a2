@@ -1,0 +1,6 @@
+48f486e13ffd ("net: xfrm: fix memory leak in xfrm_user_policy()")
+96392ee5a13b ("xfrm/compat: Translate 32-bit user_policy from sockptr")
+5106f4a8acff ("xfrm/compat: Add 32=>64-bit messages translator")
+5461fc0c8d9f ("xfrm/compat: Add 64=>32-bit messages translator")
+c9e7c76d70fa ("xfrm: Provide API to register translator module")
+c6d1b26a8fd4 ("net/xfrm: switch xfrm_user_policy to sockptr_t")

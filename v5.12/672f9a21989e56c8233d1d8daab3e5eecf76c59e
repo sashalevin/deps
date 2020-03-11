@@ -1,0 +1,4 @@
+672f9a21989e ("net: enetc: recycle buffers for frames with RX errors")
+2fa423f5f0c6 ("net: enetc: consume the error RX buffer descriptors in a dedicated function")
+8580b3c3d786 ("net: enetc: remove forward-declarations of enetc_clean_{rx,tx}_ring")
+c027aa9201eb ("net: enetc: simplify callers of enetc_rxbd_next")

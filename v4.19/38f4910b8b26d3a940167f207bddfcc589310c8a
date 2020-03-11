@@ -1,0 +1,6 @@
+38f4910b8b26 ("cifs: cifs_md4 convert to SPDX identifier")
+42c21973fa3c ("cifs: create a MD4 module and switch cifs.ko to use it")
+71c028632461 ("cifs: fork arc4 and create a separate module for it for cifs and other users")
+3591bb83eee7 ("cifs: don't use 'pre:' for MODULE_SOFTDEP")
+9a394d120814 ("fs: cifs: move from the crypto cipher API to the new DES library interface")
+ae9b728c8dc0 ("Merge tag '4.3-rc-smb3-fixes' of git://git.samba.org/sfrench/cifs-2.6")

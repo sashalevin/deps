@@ -1,0 +1,5 @@
+238965b71b96 ("net/af_iucv: build proper skbs for HiperTransport")
+b2f543949acd ("net/af_iucv: fix skb handling on HiperTransport xmit error")
+2e56c26b3918 ("net/iucv: improve endianness handling")
+dc5367bcc556 ("net/af_iucv: don't use paged skbs for TX on HiperSockets")
+4e0ad3221691 ("Subject: [PATCH] af_iucv: enable control sends in case of SEND_SHUTDOWN")

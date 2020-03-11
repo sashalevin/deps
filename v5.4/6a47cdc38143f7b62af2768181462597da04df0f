@@ -1,0 +1,7 @@
+6a47cdc38143 ("Revert "vlan: move dev_put into vlan_dev_uninit"")
+d6ff94afd90b ("vlan: move dev_put into vlan_dev_uninit")
+37aa50c539bc ("vlan: introduce vlan_dev_free_egress_priority")
+19c9ebf6ed70 ("vlan: add net device refcount tracker")
+01d9cc2dea3f ("net: vlan: fix underflow for the real_dev refcnt")
+563bcbae3ba2 ("net: vlan: fix a UAF in vlan_dev_real_dev()")
+9bbd917e0bec ("vlan: fix memory leak in vlan_dev_set_egress_priority")

@@ -1,0 +1,6 @@
+d4e48e3dd450 ("module, bpf: Store BTF base pointer in struct module")
+00cc2c1cd34f ("module: move struct symsearch to module.c")
+71e4b309dc42 ("module: merge each_symbol_section into find_symbol")
+a7c38f2cd36b ("module: remove each_symbol_in_section")
+ec2a29593c83 ("module: harden ELF info handling")
+ebfac7b778fa ("module: Ignore _GLOBAL_OFFSET_TABLE_ when warning for undefined symbols")

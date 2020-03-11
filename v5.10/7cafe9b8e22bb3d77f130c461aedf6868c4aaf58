@@ -1,0 +1,8 @@
+7cafe9b8e22b ("KVM: nSVM: Check instead of asserting on nested TSC scaling support")
+938c8745bcf2 ("KVM: x86: Introduce "struct kvm_caps" to track misc caps/settings")
+ffbb61d09fc5 ("KVM: x86: Accept KVM_[GS]ET_TSC_KHZ as a VM ioctl.")
+880993138396 ("KVM: x86: SVM: fix tsc scaling when the host doesn't support it")
+bb2aa78e9a90 ("KVM: x86: SVM: move tsc ratio definitions to svm.h")
+6d8491910fcd ("KVM: x86: Introduce KVM_CAP_DISABLE_QUIRKS2")
+ba7bb663f554 ("KVM: x86: Provide per VM capability for disabling PMU virtualization")
+4dfc4ec2b7f5 ("Merge branch 'kvm-ppc-cap-210' into kvm-next-5.18")

@@ -1,0 +1,3 @@
+be41d814c6c7 ("kasan: fix lockdep report invalid wait context")
+07d067e4f2ce ("kasan: fix sleeping function called from invalid context on RT kernel")
+31fa985b4196 ("kasan: prevent cpu_quarantine corruption when CPU offline and cache shrink occur at same time")

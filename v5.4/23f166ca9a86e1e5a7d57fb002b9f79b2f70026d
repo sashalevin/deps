@@ -1,0 +1,8 @@
+23f166ca9a86 ("drm/vram-helper: stop using TTM_MEMTYPE_FLAG_MAPPABLE")
+6b5ce4a1fb84 ("drm/vram: Move VRAM memory manager to GEM VRAM implementation")
+f1acf41f9e32 ("drm/vram: switch to gem vma offset manager")
+9d6f4484e81c ("drm/ttm: turn ttm_bo_device.vma_manager into a pointer")
+9286766ba65b ("drm/vram: add vram-mm debugfs file")
+527f6d91f8bb ("drm/vram: use drm_gem_ttm_print_info")
+ff540b76f14a ("drm/ttm: add drm gem ttm helpers, starting with drm_gem_ttm_print_info()")
+f3309105b879 ("drm/vram: Add infrastructure for move_notify()")

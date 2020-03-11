@@ -1,0 +1,6 @@
+94f0b2d4a1d0 ("proc: only require mm_struct for writing")
+591a22c14d3f ("proc: Track /proc/$pid/attr/ opener mm_struct")
+bfb819ea20ce ("proc: Check /proc/$pid/attr/ writes against file opener")
+41089b6d3e44 ("proc: save 2 atomic ops on write to "/proc/*/attr/*"")
+b21507e27262 ("proc,security: move restriction on writing /proc/pid/attr nodes to proc")
+be0554c9bf9f ("selinux: clean up cred usage and simplify")

@@ -1,0 +1,5 @@
+85eef9a41d01 ("tls: adjust recv return with async crypto and failed copy to userspace")
+ec823bf3a479 ("tls: don't skip over different type records from the rx_list")
+fdfbaec5923d ("tls: stop recv() if initial process_rx_list gave us non-DATA")
+ac437a51ce66 ("net: tls: fix returned read length with async decrypt")
+4d42cd6bc2ac ("tls: rx: fix return value for async crypto")

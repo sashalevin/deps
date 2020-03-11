@@ -1,0 +1,5 @@
+28f28d453ffc ("KVM: x86: Use KVM_REQ_TLB_FLUSH_GUEST to handle INVPCID(ALL) emulation")
+f66c53b3b94f ("KVM: x86: Defer the MMU unload to the normal path on an global INVPCID")
+9715092f8d7e ("KVM: X86: Move handling of INVPCID types to x86")
+3f3393b3ce38 ("KVM: X86: Rename and move the function vmx_handle_memory_failure to x86.c")
+bf3c0e5e7102 ("Merge branch 'x86-seves-for-paolo' of https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip into HEAD")

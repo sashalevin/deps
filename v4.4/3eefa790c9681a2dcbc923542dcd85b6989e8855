@@ -1,0 +1,6 @@
+3eefa790c968 ("PCI: host: Mark PCIe/PCI (MSI) cascade ISR as IRQF_NO_THREAD")
+181ffd19cc98 ("x86/PCI: VMD: Move VMD driver to drivers/pci/host")
+53db86adc2c9 ("x86/PCI: VMD: Eliminate vmd_vector member from list type")
+75de9b4cd311 ("x86/PCI: VMD: Convert to use pci_alloc_irq_vectors() API")
+c68db5158905 ("x86/PCI: VMD: Allocate IRQ lists with correct MSI-X count")
+c8d0267efdb4 ("Merge tag 'pci-v4.8-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

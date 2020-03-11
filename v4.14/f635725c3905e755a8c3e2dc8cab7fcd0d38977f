@@ -1,0 +1,8 @@
+f635725c3905 ("zram: do not waste zram_table_entry flags bits")
+7e5292831b34 ("zram: refactor flags and writeback stuff")
+3c9959e02547 ("zram: fix lockdep warning of free block handling")
+c0265342bff4 ("zram: introduce zram memory tracking")
+d7eac6b6e183 ("zram: record accessed second")
+89e85bce4b02 ("zram: mark incompressible page as ZRAM_HUGE")
+c4d6c4cc7bfd ("zram: correct flag name of ZRAM_ACCESS")
+60f5921a9a4f ("zram: drop max_zpage_size and use zs_huge_class_size()")

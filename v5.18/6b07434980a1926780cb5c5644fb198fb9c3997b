@@ -1,0 +1,5 @@
+6b07434980a1 ("kasan: pass tagged pointers to kasan_save_alloc/free_info")
+f3647cbfe5a3 ("kasan: introduce kasan_get_alloc_track")
+ccf643e6dacf ("kasan: split save_alloc_info implementations")
+196894a6e202 ("kasan: move is_kmalloc check out of save_alloc_info")
+c249f9af85ee ("kasan: rename kasan_set_*_info to kasan_save_*_info")

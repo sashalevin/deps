@@ -1,0 +1,5 @@
+0fbcf5798234 ("loop: Only freeze block queue when needed.")
+40326d8a33d5 ("block/loop: allow request merge for directio mode")
+54bb0ade6627 ("block/loop: set hw_sectors")
+6c6b6f28b333 ("loop: set physical block size to PAGE_SIZE")
+fe2cb2905c3d ("loop: zero-fill bio on the submitting cpu")

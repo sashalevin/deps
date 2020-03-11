@@ -1,0 +1,7 @@
+b2b23ba03cb9 ("mempool: do not use ksize() for poisoning")
+bffe690708c8 ("kasan: open-code kasan_unpoison_slab")
+cebd0eb29acd ("kasan: rename (un)poison_shadow to (un)poison_range")
+d5750edf6da7 ("kasan: shadow declarations only for software modes")
+3b1a4a864087 ("kasan: group vmalloc code")
+544941d78831 ("mm/mempool: add 'else' to split mutually exclusive case")
+83c4e7a0363b ("KUnit: KASAN Integration")

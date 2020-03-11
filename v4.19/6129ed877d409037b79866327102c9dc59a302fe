@@ -1,0 +1,5 @@
+6129ed877d40 ("KVM: x86/mmu: Set mmio_value to '0' if reserved #PF can't be generated")
+e30a7d623dcc ("KVM: x86/mmu: Apply max PA check for MMIO sptes to 32-bit KVM")
+c50d8ae3a127 ("KVM: x86: create mmu/ subdirectory")
+f3ecb59dd49f ("kvm: x86: Fix reserved bits related calculation errors caused by MKTME")
+7b6f8a06e482 ("kvm: x86: Move kvm_set_mmio_spte_mask() from x86.c to mmu.c")

@@ -1,0 +1,2 @@
+d8a22f85609f ("nvme-multipath: fix deadlock due to head->lock")
+e164471dcf19 ("nvme: don't protect ns mutation with ns->head->lock")

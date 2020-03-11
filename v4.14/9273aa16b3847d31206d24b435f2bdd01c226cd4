@@ -1,0 +1,6 @@
+9273aa16b384 ("iio: adc: ina2xx: Actually align the loop with the conversion ready flag")
+8ea2a6386951 ("iio: adc: ina2xx: Use a monotonic clock for delay calculation")
+8bcf024f06f1 ("iio: adc: ina2xx: Do not udelay for several seconds")
+c68013f3a9a7 ("iio: adc: ina2xx: Remove unneeded dummy read to clear CNVR flag")
+d456d61f53ec ("iio: adc: ina2xx: Clarify size requirement for data buffer")
+17b3453f5c69 ("iio: adc: ina2xx: Remove bogus cast for data argument")

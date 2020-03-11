@@ -1,0 +1,5 @@
+d501f747ef5c ("KVM: x86/mmu: Lazily allocate memslot rmaps")
+e2209710ccc5 ("KVM: x86/mmu: Skip rmap operations if rmaps not allocated")
+a255740876f0 ("KVM: x86/mmu: Add a field to control memslot rmap allocation")
+56dd1019c885 ("KVM: x86/mmu: Factor out allocating memslot rmap")
+3ad93562093d ("KVM: x86: Support write protecting only large pages")

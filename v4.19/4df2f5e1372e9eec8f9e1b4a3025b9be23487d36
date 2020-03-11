@@ -1,0 +1,8 @@
+4df2f5e1372e ("spi: imx: add a check for speed_hz before calculating the clock")
+3f75720d0ebb ("spi: imx: drop useless member speed_hz from driver data struct")
+1d374703fb98 ("spi: imx: rename config callback and add useful parameters")
+30d6714223c4 ("spi: imx: style fixes")
+00b80ac93553 ("spi: imx: mx51-ecspi: Move some initialisation to prepare_message hook.")
+e697271c4e29 ("spi: imx: add a device specific prepare_message callback")
+5ba5a3730639 ("spi: imx: correct wml as the last sg length")
+987a2dfe3f04 ("spi: imx: move wml setting to later than setup_transfer")

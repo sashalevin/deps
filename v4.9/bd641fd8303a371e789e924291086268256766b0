@@ -1,0 +1,8 @@
+bd641fd8303a ("PCI: sysfs: Revert "rescan" file renames")
+4e2b79436e4f ("PCI: sysfs: Change DEVICE_ATTR() to DEVICE_ATTR_WO()")
+8bdfa145f582 ("PCI: sysfs: Define device attributes with DEVICE_ATTR*()")
+dc6b698a86fe ("PCI: sysfs: Ignore lockdep for remove attribute")
+5b0764cac9f1 ("PCI: Probe for device reset support during enumeration")
+7dfca15276fc ("PCI: Expose SR-IOV offset, stride, and VF device ID via sysfs")
+0e7df22401a3 ("PCI: Add sysfs sriov_drivers_autoprobe to control VF driver binding")
+702ed3be1b1b ("PCI: Create revision file in sysfs")

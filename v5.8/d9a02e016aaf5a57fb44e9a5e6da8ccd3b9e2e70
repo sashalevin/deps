@@ -1,0 +1,5 @@
+d9a02e016aaf ("dm crypt: avoid accessing uninitialized tasklet")
+d3703ef33129 ("dm crypt: use in_hardirq() instead of deprecated in_irq()")
+c87a95dc28b1 ("dm crypt: defer decryption to a tasklet if interrupts disabled")
+8e14f610159d ("dm crypt: do not call bio_endio() from the dm-crypt tasklet")
+39d42fa96ba1 ("dm crypt: add flags to optionally bypass kcryptd workqueues")

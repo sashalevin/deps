@@ -1,0 +1,5 @@
+1b2ca568ca23 ("crypto: arm64/crct10dif - remove dead code")
+6c1b0da13e52 ("crypto: arm64/crct10dif - preparatory refactor for 8x8 PMULL version")
+5b3da6517763 ("crypto: arm64/crct10dif-ce - yield NEON after every block of input")
+325f562d8f4a ("crypto: arm64/crct10dif - move literal data to .rodata section")
+6ef5737f3931 ("crypto: arm64/crct10dif - port x86 SSE implementation to arm64")

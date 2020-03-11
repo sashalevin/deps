@@ -1,0 +1,5 @@
+131a627751e3 ("mptcp: avoid unneeded mptcp_token_destroy() calls")
+cfdcfeed6449 ("mptcp: introduce 'sk' to replace 'sock->sk' in mptcp_listen()")
+54f1944ed6d2 ("mptcp: factor out mptcp_connect()")
+a42cf9d18278 ("mptcp: poll allow write call before actual connect")
+d98a82a6afc7 ("mptcp: handle defer connect in mptcp_sendmsg")

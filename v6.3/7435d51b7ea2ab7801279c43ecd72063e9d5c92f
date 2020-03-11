@@ -1,0 +1,8 @@
+7435d51b7ea2 ("smb: client: fix renaming of reparse points")
+3322960ce222 ("smb: client: extend smb2_compound_op() to accept more commands")
+f4e5ceb6c1a6 ("smb: client: reduce stack usage in smb2_set_ea()")
+5f71ebc41294 ("smb: client: parse reparse point flag in create response")
+c5f44a3d5477 ("smb: client: make smb2_compound_op() return resp buffer on success")
+8b4e285d8ce3 ("smb: client: move some params to cifs_open_info_data")
+d439b29057e2 ("smb: client: fix broken file attrs with nodfs mounts")
+33f736187d08 ("cifs: prevent use-after-free by freeing the cfile later")

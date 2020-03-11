@@ -1,0 +1,8 @@
+3b1f7a46977f ("powerpc/mm: Fix return type of pgd_val()")
+6b0e82791bd0 ("powerpc/e500: switch to 64 bits PGD on 85xx (32 bits)")
+58b6fed89ab0 ("powerpc: Make virt_to_pfn() a static inline")
+a5edf9815dd7 ("powerpc/64s: Enable KFENCE on book3s64")
+3e791d0f32b1 ("powerpc/64s: Remove unneeded #ifdef CONFIG_DEBUG_PAGEALLOC in hash_utils")
+5e8b2c4dd3a0 ("powerpc/64s: Add DEBUG_PAGEALLOC for radix")
+f4a0318f278d ("powerpc: add support for syscall stack randomization")
+1547db7d1f44 ("powerpc: Move system_call_exception() to syscall.c")

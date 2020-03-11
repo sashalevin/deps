@@ -1,0 +1,4 @@
+8387435bebac ("KVM: x86/pmu: Switch to new Intel CPU model defines")
+974850be0125 ("KVM: x86/pmu: Add PRIR++ and PDist support for SPR and later models")
+dcbb816a2842 ("KVM: x86/pmu: Clear "reprogram" bit if counter is disabled or disallowed")
+02791a5c362b ("KVM: x86/pmu: Use PERF_TYPE_RAW to merge reprogram_{gp,fixed}counter()")

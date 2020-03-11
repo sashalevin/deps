@@ -1,0 +1,8 @@
+7c3ca1838a78 ("erofs: restrict pcluster size limitations")
+1c076f1f4d7f ("erofs: get rid of z_erofs_map_blocks_iter_* tracepoints")
+9b32b063be10 ("erofs: ensure m_llen is reset to 0 if metadata is invalid")
+1c7f49a76773 ("erofs: tidy up EROFS on-disk naming")
+9ff471800b74 ("erofs: get rid of a useless DBG_BUGON")
+999f2f9a63f4 ("erofs: get rid of z_erofs_do_map_blocks() forward declaration")
+b780d3fc6107 ("erofs: simplify iloc()")
+c505feba4c0d ("erofs: validate the extent length for uncompressed pclusters")

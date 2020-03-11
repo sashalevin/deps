@@ -1,0 +1,6 @@
+5d2eb73aa0fd ("powerpc/pci: Add option for using pci_to_OF_bus_map")
+566356813082 ("powerpc/pci: Add config option for using all 256 PCI buses")
+7f102d619832 ("powerpc/pci: Disable filling pci-OF-bus-map for non-chrp/powermac")
+704544588735 ("powerpc/pci: Hide pci_create_OF_bus_map() for non-chrp code")
+0aa297e73bba ("powerpc/64: Move pci_device_from_OF_node() out of asm/pci-bridge.h")
+8cd6aacc6401 ("powerpc/pcidn: Make VF pci_dn management CONFIG_PCI_IOV specific")

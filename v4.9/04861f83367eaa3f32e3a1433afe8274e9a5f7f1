@@ -1,0 +1,6 @@
+04861f83367e ("usb: host: xhci: use slightly better list helpers")
+daa47f2132dc ("usb: xhci: use list_is_singular for cmd_list")
+6b02e97491c9 ("xhci: remove unnecessary check for pending timer")
+cb4d5ce588c5 ("xhci: Use delayed_work instead of timer for command timeout")
+a5a1b9514154 ("xhci: Handle command completion and timeout race")
+2b985467371a ("usb: xhci: fix possible wild pointer")

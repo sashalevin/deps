@@ -1,0 +1,8 @@
+848a9c106625 ("printk: relieve console_lock of list synchronization duties")
+1fd4224a6b64 ("console: introduce console_is_registered()")
+100bdef2c198 ("console: introduce wrappers to read/write console flags")
+4dc64682ad37 ("printk: introduce console_list_lock")
+a42427609368 ("printk: fix setting first seq for consoles")
+b80ea0e81b39 ("printk: move @seq initialization to helper")
+6c4afa79147e ("printk: Prepare for SRCU console list protection")
+d9a4af5690e2 ("printk: Convert console_drivers list to hlist")

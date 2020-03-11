@@ -1,0 +1,4 @@
+2b73649cee65 ("ALSA: hda: Balance runtime/system PM if direct-complete is disabled")
+215a22ed31a1 ("ALSA: hda: Refactor codec PM to use direct-complete optimization")
+8d6762af302d ("ALSA: hda: Always use jackpoll helper for jack update after resume")
+c4c8dd6ef807 ("ALSA: hda: Skip controller resume if not needed")

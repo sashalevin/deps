@@ -1,0 +1,7 @@
+eba755314fa7 ("riscv: vdso: Use generic union vdso_data_store")
+dffe11e280a4 ("riscv/vdso: Add support for time namespaces")
+8bb0ab3ae7a4 ("riscv/vdso: make arch_setup_additional_pages wait for mmap_sem for write killable")
+78a743cd82a3 ("riscv/vdso: Move vdso data page up front")
+bb4a23c994ae ("riscv/vdso: Refactor asm/vdso.h")
+a290f510a178 ("RISC-V: Fix VDSO build for !MMU")
+fde9c59aebaf ("riscv: explicitly use symbol offsets for VDSO")

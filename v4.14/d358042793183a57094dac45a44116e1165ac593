@@ -1,0 +1,6 @@
+d35804279318 ("powerpc/pmem: Add flush routines using new pmem store and sync instruction")
+1cfb725fb189 ("powerpc/64: flush_inval_dcache_range() becomes flush_dcache_range()")
+fb5924fddf9e ("powerpc/mm: Flush cache on memory hot(un)plug")
+31513207ce72 ("powerpc: Remove unused flush_dcache_phys_range()")
+6c44741d75a2 ("powerpc/lib: Implement UACCESS_FLUSHCACHE API")
+32ce3862af3c ("powerpc/lib: Implement PMEM API")

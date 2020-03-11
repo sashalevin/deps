@@ -1,0 +1,5 @@
+855ce7d2525c ("mm/hmm: cleanup special vma handling (VM_SPECIAL)")
+ff05c0c6bbe5 ("mm/hmm: use uint64_t for HMM pfn instead of defining hmm_pfn_t to ulong")
+86586a41b8fe ("mm/hmm: remove HMM_PFN_READ flag and ignore peculiar architecture")
+08232a4544cc ("mm/hmm: use struct for hmm_vma_fault(), hmm_vma_get_pfns() parameters")
+c719547f032d ("mm/hmm: hmm_pfns_bad() was accessing wrong struct")

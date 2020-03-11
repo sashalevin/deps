@@ -1,0 +1,6 @@
+58356767107a ("KVM: SVM: Allocate sd->save_area with __GFP_ZERO")
+b95c221cac16 ("KVM: SVM: Move SEV VMCB tracking allocation to sev.c")
+3b1902b87bf1 ("KVM: SVM: Zero out the VMCB array used to track SEV ASID association")
+85ca8be938c0 ("KVM: SVM: Set the encryption mask for the SVM host save area")
+add5e2f04541 ("KVM: SVM: Add support for the SEV-ES VMSA")
+2fcf4876ada8 ("KVM: nSVM: implement on demand allocation of the nested state")

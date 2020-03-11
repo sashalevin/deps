@@ -1,0 +1,6 @@
+494ea040bcb5 ("ublk: pass queue_limits to blk_mq_alloc_disk")
+27e32cd23fed ("block: pass a queue_limits argument to blk_mq_alloc_disk")
+9ac4dd8c47d5 ("block: pass a queue_limits argument to blk_mq_init_queue")
+ad751ba1f8d5 ("block: pass a queue_limits argument to blk_alloc_queue")
+d73e93b4dfab ("block: simplify disk_set_zoned")
+7437bb73f087 ("block: remove support for the host aware zone model")

@@ -1,0 +1,5 @@
+8a941124458f ("rtc: ab-b5ze-s3: switch to rtc_time64_to_tm/rtc_tm_to_time64")
+5d049837dd76 ("rtc: ab-b5ze-s3: remove unnecessary gotos")
+ac2467382240 ("rtc: ab-b5ze-s3: remove mutex")
+8bde032b2806 ("rtc: ab-b5ze-s3: fix possible race conditions")
+ce2e5a7613c6 ("rtc: ab-b5ze-s3: stop validating rtc_time in .read_time")

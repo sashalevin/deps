@@ -1,0 +1,7 @@
+c770abe52d81 ("mtd: spi-nor: move all micron-st specifics into micron-st.c")
+8b4195cd6dc3 ("mtd: spi-nor: move all xilinx specifics into xilinx.c")
+9fb4beb1b051 ("mtd: spi-nor: guard _page_size parameter in S3AN_INFO()")
+4cf1c7bdc55c ("mtd: spi-nor: allow a flash to define its own ready() function")
+b44aa9ac6bb4 ("mtd: spi-nor: slightly refactor the spi_nor_setup()")
+45acce2099c5 ("mtd: spi-nor: xilinx: unify function names")
+c9d5cdf4bf9c ("mtd: spi-nor: micron-st: unify function names")

@@ -1,0 +1,7 @@
+96a3be43261b ("PCI: designware-ep: Make dw_pcie_ep_reset_bar() handle 64-bit BARs properly")
+1cab826b30c6 ("PCI: designware-ep: Read-only registers need DBI_RO_WR_EN to be writable")
+099a95f3591a ("PCI: designware-ep: dw_pcie_ep_set_msi() should only set MMC bits")
+f8aed6ec624f ("PCI: dwc: designware: Add EP mode support")
+b50b2db266d8 ("PCI: dwc: all: Modify dbi accessors to take dbi_base as argument")
+a660083eb06c ("PCI: dwc: designware: Add new *ops* for CPU addr fixup")
+b2e6d3055d55 ("Merge branch 'pci/host-exynos' into next")

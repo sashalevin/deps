@@ -1,0 +1,7 @@
+448b8ec3bf11 ("drivers: virtio_mem: use pageblock size as the minimum virtio_mem size.")
+b3d40a2b6d10 ("mm: enforce pageblock_order < MAX_ORDER")
+e16faf26780f ("cma: factor out minimum alignment requirement")
+57c5a5b304b0 ("virtio-mem: prepare fake page onlining code for granularity smaller than MAX_ORDER - 1")
+6639032acc08 ("virtio-mem: prepare page onlining code for granularity smaller than MAX_ORDER - 1")
+658aafc8139c ("memblock: exclude MEMBLOCK_NOMAP regions from kmemleak")
+a7259df76702 ("memblock: make memblock_find_in_range method private")

@@ -1,0 +1,5 @@
+7834c5770284 ("drm/arm/malidp:- Use the newly introduced malidp_format_get_bpp() instead of relying on cpp for calculating framebuffer size")
+3dae1c0919d8 ("drm/arm/malidp: Implemented the size validation for AFBC framebuffers")
+9595809896d7 ("drm/arm/mali: Use drm_fbdev_generic_setup()")
+bdecd8354635 ("drm/arm/mali: Use drm_fb_cma_fbdev_init/fini()")
+783f7d9733ea ("drm/arm/mali: Use drm_gem_fb_create()")

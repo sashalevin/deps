@@ -1,0 +1,6 @@
+8f3f06dfd687 ("raid6: Add LoongArch SIMD syndrome calculation")
+7b3c70c43c13 ("raid6: test: only check for Altivec if building on powerpc hosts")
+633174a7046e ("lib/raid6/test/Makefile: Use $(pound) instead of \# for Make 4.3")
+0437de4fa09f ("lib/raid6: sort algos in rough performance order")
+aa9532d4899f ("lib/raid6: Build proper raid6test files on powerpc")
+751ba79cc552 ("lib/raid6/altivec: Add vpermxor implementation for raid6 Q syndrome")

@@ -1,0 +1,7 @@
+feb843a469fb ("kbuild: add $(CLANG_FLAGS) to KBUILD_CPPFLAGS")
+db1547c56886 ("kbuild: Turn a couple more of clang's unused option warnings into errors")
+0664684e1ebd ("kbuild: Add -Werror=ignored-optimization-argument to CLANG_FLAGS")
+6f5b41a2f5a6 ("Makefile: move initial clang flag handling into scripts/Makefile.clang")
+ba64beb17493 ("kbuild: check the minimum assembler version in Kconfig")
+eec08090bcc1 ("Makefile: Only specify '--prefix=' when building with clang + GNU as")
+c91d4e47e10e ("Makefile: Remove '--gcc-toolchain' flag")

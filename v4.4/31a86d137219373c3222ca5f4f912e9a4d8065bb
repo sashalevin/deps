@@ -1,0 +1,7 @@
+31a86d137219 ("net: ethtool: Initialize buffer when querying device channel settings")
+8bf368620486 ("ethtool: ensure channel counts are within bounds during SCHANNELS")
+d4ab4286276f ("ethtool: correctly ensure {GS}CHANNELS doesn't conflict with GS{RXFH}")
+e0ba1414f310 ("net: add netif_is_lag_port helper")
+7be61833042e ("net: add netif_is_lag_master helper")
+f7f019ee6d11 ("net: add netif_is_team_port helper")
+c981e4213e9d ("net: add netif_is_team_master helper")

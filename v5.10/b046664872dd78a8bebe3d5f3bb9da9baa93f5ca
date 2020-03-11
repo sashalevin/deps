@@ -1,0 +1,5 @@
+b046664872dd ("static_call: Move struct static_call_key definition to static_call_types.h")
+73f44fe19d35 ("static_call: Allow module use without exposing static_call_key")
+29fd01944b72 ("static_call: Provide DEFINE_STATIC_CALL_RET0()")
+3f2a8fc4b15d ("static_call/x86: Add __static_call_return0()")
+880cfed3a012 ("static_call: Pull some static_call declarations to the type headers")

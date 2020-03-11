@@ -1,0 +1,6 @@
+215eb9f96209 ("veth: Avoid NAPI scheduling on failed SKB forwarding")
+d3256efd8e8b ("veth: allow enabling NAPI even without XDP")
+edbea9220251 ("veth: Store queue_mapping independently of XDP prog presence")
+b02e5a0ebb17 ("xsk: Propagate napi_id to XDP socket Rx path")
+9cbc948b5a20 ("igb: add XDP support")
+f468f21b7af0 ("net: Take common prefetch code structure into a function")

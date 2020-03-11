@@ -1,0 +1,4 @@
+640511ae9246 ("MIPS: c-r4k: Exclude sibling CPUs in SMP calls")
+d374d93742f6 ("MIPS: c-r4k: Add r4k_on_each_cpu cache op type arg")
+e523f289fe4d ("MIPS: c-r4k: Fix sigtramp SMP call to use kmap")
+b2a3c5be4d6d ("MIPS: c-r4k: Sync icache when it fills from dcache")

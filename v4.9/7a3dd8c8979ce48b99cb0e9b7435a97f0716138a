@@ -1,0 +1,7 @@
+7a3dd8c8979c ("tls: async support causes out-of-bounds access in crypto APIs")
+94524d8fc965 ("net/tls: Add support for async decryption of tls records")
+0927f71dbcfb ("net/tls: Calculate nsg for zerocopy path without skb_cow_data.")
+0b243d004ea6 ("net/tls: Combined memory allocation for decryption request")
+2da19ed3e4a8 ("tls: Fix improper revert in zerocopy_from_iter")
+0a26cf3ff47d ("tls: Skip zerocopy path for ITER_KVEC")
+c4c5551df136 ("Merge ra.kernel.org:/pub/scm/linux/kernel/git/torvalds/linux")

@@ -1,0 +1,8 @@
+9cc409325ddd ("KVM: nVMX: Inject #GP, not #UD, if "generic" VMXON CR0/CR4 check fails")
+c7d855c2aff2 ("KVM: nVMX: Inject #UD if VMXON is attempted with incompatible CR0/CR4")
+c2fe3cd4604a ("KVM: x86: Move vendor CR4 validity check to dedicated kvm_x86_ops hook")
+a447e38a7fad ("KVM: VMX: Drop explicit 'nested' check from vmx_set_cr4()")
+d3a9e4146a6f ("KVM: VMX: Drop guest CPUID check for VMXE in vmx_set_cr4()")
+72f211ecaa80 ("KVM: x86: allow kvm_x86_ops.set_efer to return an error value")
+06e7852c0ffb ("KVM: SVM: Add vmcb_ prefix to mark_*() functions")
+c513f484c558 ("KVM: nSVM: leave guest mode when clearing EFER.SVME")

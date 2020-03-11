@@ -1,0 +1,7 @@
+5ac6293047cf ("EDAC/amd64: Check return value of amd_smn_read()")
+9c42edd571aa ("EDAC/amd64: Add support for AMD heterogeneous Family 19h Model 30h-3Fh")
+9a97a7f4d7b2 ("EDAC/amd64: Rework hw_info_{get,put}")
+ed623d55eef4 ("EDAC/amd64: Merge struct amd64_family_type into struct amd64_pvt")
+a2e59ab8e933 ("EDAC/amd64: Drop dbam_to_cs() for Family 17h and later")
+c0984666fde9 ("EDAC/amd64: Split get_csrow_nr_pages() into dct/umc functions")
+00e4feb8c047 ("EDAC/amd64: Rename debug_display_dimm_sizes()")

@@ -1,0 +1,7 @@
+5f5ea0e49168 ("nvme-fabrics: typo in nvmf_parse_key()")
+adf22c520b5e ("nvme-fabrics: parse options 'keyring' and 'tls_key'")
+be8e82caa685 ("nvme-tcp: enable TLS handshake upcall")
+942e21c042e6 ("nvme: move sysfs code to a dedicated sysfs.c file")
+ae8bd606e09b ("nvme-fabrics: prevent overriding of existing host")
+99c2dcc8ffc2 ("nvme-core: fix memory leak in dhchap_ctrl_secret")
+a836ca33c5b0 ("nvme-core: fix memory leak in dhchap_secret_store")

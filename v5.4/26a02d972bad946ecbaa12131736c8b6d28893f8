@@ -1,0 +1,6 @@
+26a02d972bad ("scsi: sd: Update DIX config every time sd_revalidate_disk() is called")
+1e029397d12f ("scsi: sd: Reorganize DIF/DIX code to avoid calling revalidate twice")
+1700714b1ff2 ("scsi: sd: sd_read_cpr() requires VPD pages")
+2a7a891f4c40 ("scsi: sd: Add error handling support for add_disk()")
+465f4edaecc6 ("scsi: sd: Clear sdkp->protection_type if disk is reformatted without PI")
+c74f80566217 ("scsi: core: allow auto suspend override by low-level driver")

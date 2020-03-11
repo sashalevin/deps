@@ -1,0 +1,6 @@
+9d1887ef3252 ("KVM: nVMX: sync vmcs02 segment regs prior to vmx_set_cr0")
+8665c3f97320 ("KVM: nVMX: initialize descriptor cache fields in prepare_vmcs02_full")
+74a497fae754 ("KVM: nVMX: track dirty state of non-shadowed VMCS fields")
+c9e9deae76b8 ("KVM: VMX: split list of shadowed VMCS field to a separate file")
+44900ba65e16 ("KVM: VMX: optimize shadow VMCS copying")
+c5d167b27e00 ("KVM: vmx: shadow more fields that are read/written on every vmexits")

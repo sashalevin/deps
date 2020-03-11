@@ -1,0 +1,5 @@
+263cf5780497 ("befs: Convert befs_symlink_read_folio() to use folio_end_read()")
+ac09d88b9fd2 ("befs: Convert befs_symlink_read_folio() to use a folio")
+a13fe6928ae2 ("befs: Convert befs to read_folio")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")

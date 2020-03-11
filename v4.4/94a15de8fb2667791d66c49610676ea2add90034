@@ -1,0 +1,7 @@
+94a15de8fb26 ("KVM: s390: don't use CPUSTAT_WAIT to detect if a VCPU is idle")
+5ebda31686af ("KVM: s390: step the VCPU timer while in enabled wait")
+db0758b29709 ("KVM: s390: step VCPU cpu timer during kvm_run ioctl")
+4287f247f6cf ("KVM: s390: abstract access to the VCPU cpu timer")
+01a745ac8b6c ("KVM: s390: store cpu id in vcpu->cpu when scheduled in")
+9abc2a08a7d6 ("KVM: s390: fix memory overwrites when vx is disabled")
+cbd88cd4c07f ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

@@ -1,0 +1,4 @@
+b05232d62442 ("pwm: samsung: Don't uses devm_*() functions in ->request()")
+e926b12c611c ("pwm: Clear chip_data in pwm_put()")
+c40c461e1944 ("pwm: pca9685: Fix GPIO-only operation")
+bccec89f0a35 ("pwm: pca9685: Allow any of the 16 PWMs to be used as a GPIO")

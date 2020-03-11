@@ -1,0 +1,4 @@
+dab285e4ec73 ("KVM: x86/mmu: Alloc TDP MMU roots while holding mmu_lock for read")
+f5238c2a60f1 ("KVM: x86/mmu: Check for usable TDP MMU root while holding mmu_lock for read")
+d746182337c2 ("KVM: x86/mmu: Skip invalid TDP MMU roots when write-protecting SPTEs")
+6577f1efdff4 ("KVM: x86/mmu: Allow passing '-1' for "all" as_id for TDP MMU iterators")

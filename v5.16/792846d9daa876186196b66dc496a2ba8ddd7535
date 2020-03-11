@@ -1,0 +1,7 @@
+792846d9daa8 ("ASoC: audio-graph-card2-custom-sample: add CPU/Codec = N:M sample")
+fd6f223639b8 ("ASoC: audio-graph-card2-custom-sample.dtsi: remove DT warning")
+ca27441efe69 ("ASoC: audio-graph-card2-custom-sample: add missing CPU:Codec = 1:N sample")
+2dc025aba7fb ("ASoC: audio-graph-card2-custom-sample.dtsi: add convert-rate for DPCM (MIXer)")
+d33083f94115 ("ASoC: audio-graph-card2-custom-sample.dtsi: add verbose explanation")
+c2ff7f15a4ef ("ASoC: audio-graph-card2.c: make Codec2Codec settings optional")
+817a62108dfa ("ASoC: audio-graph-card2.c: use of_property_read_u32() for rate")

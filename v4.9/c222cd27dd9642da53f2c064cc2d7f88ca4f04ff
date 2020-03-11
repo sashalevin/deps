@@ -1,0 +1,7 @@
+c222cd27dd96 ("net: stmmac: dwc-qos: Switch to use dev_err_probe() helper")
+a884915f4cef ("net: stmmac: dwc-qos: Change the dwc_eth_dwmac_data's .probe prototype")
+2b9b5e74507f ("net: stmmac: dwc-qos: use devm_platform_ioremap_resource() to simplify code")
+54ed6fd2e03f ("net: stmmac: Do not output error on deferred probe")
+e6ea2d16fc61 ("net: stmmac: dwc-qos: Add Tegra186 support")
+cee45b2edafa ("net: stmmac: dwc-qos: Split out ->probe() and ->remove()")
+d8256121a91a ("stmmac: adding new glue driver dwmac-dwc-qos-eth")

@@ -1,0 +1,8 @@
+ee69049e00c2 ("powerpc/dart: remove dead cleanup code in iommu_init_early_dart")
+2d9d6f6c9e8a ("powerpc: rename dma_direct_ to dma_nommu_")
+253fd51e2f53 ("powerpc/powernv/pci: Return failure for some uses of dma_set_mask()")
+8e3f1b1d8255 ("powerpc/powernv/pci: Enable 64-bit devices to access >4GB DMA space")
+a0f98629f199 ("powerpc/powernv/pci: Add helper to check if a PE has a single vendor")
+5657933dbb6e ("treewide: Move dma_ops from struct dev_archdata into struct device")
+5299709d0a87 ("treewide: Constify most dma_map_ops structures")
+f4000cd99750 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

@@ -1,0 +1,4 @@
+88e4f525002b ("mm/hugetlb: add missing VM_FAULT_SET_HINDEX in hugetlb_wp")
+bd722058e34d ("hugetlb: convert hugetlb_wp() to use struct vm_fault")
+7b6ec181de37 ("hugetlb: convert hugetlb_no_page() to use struct vm_fault")
+9b42fa16195f ("hugetlb: convert hugetlb_fault() to use struct vm_fault")

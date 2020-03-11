@@ -1,0 +1,7 @@
+2a4d2c4240c0 ("PCI: Make pci_wakeup_bus() & pci_bus_set_current_state() public")
+a99b646afa8a ("PCI: Disable PCIe Relaxed Ordering if unsupported")
+4d071c323898 ("PCI/PM: Add needs_resume flag to avoid suspend complete optimization")
+f65fd1aa4f98 ("PCI: Avoid FLR for Intel 82579 NICs")
+60db3a4d8cc9 ("PCI: Enable PCIe Extended Tags if supported")
+443b40ba21aa ("x86/PCI: VMD: Add quirk for AER to ignore source ID")
+9d26d3a8f1b0 ("PCI: Put PCIe ports into D3 during suspend")

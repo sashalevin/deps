@@ -1,0 +1,7 @@
+f59a98c82534 ("wifi: rtw89: fix HW scan timeout due to TSF sync issue")
+756b31203d48 ("wifi: rtw89: fix misbehavior of TX beacon in concurrent mode")
+7c8a55dd265b ("wifi: rtw89: add mac_gen pointer to access mac port registers")
+651298138e42 ("wifi: rtw89: consolidate registers of mac port to struct")
+68261ddbb2bc ("wifi: rtw89: fw: implement supported functions of download firmware for WiFi 7 chips")
+ae4dc23d139c ("wifi: rtw89: fw: generalize download firmware flow by mac_gen pointers")
+80e706a85cb5 ("wifi: rtw89: fw: move polling function of firmware path ready to an individual function")

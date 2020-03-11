@@ -1,0 +1,6 @@
+51e8a8cc2f2d ("x86: kvm: hide the unused 'cpu' variable")
+35060ed6a1ff ("x86/kvm/vmx: avoid expensive rdmsr for MSR_GS_BASE")
+42b933b59721 ("x86/kvm/vmx: read MSR_{FS,KERNEL_GS}_BASE from current->thread")
+e137a4d8f4dd ("x86/switch_to/64: Rewrite FS/GS switching yet again to fix AMD CPUs")
+69130ea1e6b9 ("KVM: VMX: remove duplicated declaration")
+93173b5bf284 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

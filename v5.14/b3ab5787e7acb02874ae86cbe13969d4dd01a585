@@ -1,0 +1,6 @@
+b3ab5787e7ac ("input: keypad: ep93xx: add DT support for Cirrus EP93xx")
+64bc273208cf ("Input: ep39xx-keypad - switch to DEFINE_SIMPLE_DEV_PM_OPS() and pm_sleep_ptr()")
+c4be5e5a113d ("Input: ep93xx_keypad - switch to using managed resources")
+ab317169673d ("Input: ep93xx_keypad - use dev_pm_set_wake_irq()")
+4ce73b052bdd ("Input: ep93xx_keypad - use BIT() and GENMASK() macros")
+03b47b3ad0a9 ("Input: ep93xx_keypad - annotate suspend/resume as __maybe_unused")

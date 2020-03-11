@@ -1,0 +1,5 @@
+df15d76dcaca ("iommu: Simplify the __iommu_group_remove_device() flow")
+5665d15d3cb7 ("iommu: Use iommu_group_ref_get/put() for dev->iommu_group")
+3006b15b364a ("iommu: Add for_each_group_device()")
+dba9ca9d41f5 ("iommu: Same critical region for device release and removal")
+293f2564f3dd ("iommu: Split iommu_group_remove_device() into helpers")

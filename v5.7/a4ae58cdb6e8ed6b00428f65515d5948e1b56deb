@@ -1,0 +1,5 @@
+a4ae58cdb6e8 ("tls: rx: only copy IV from the packet for TLS 1.2")
+9381fe8c849c ("net/tls: fix slab-out-of-bounds bug in decrypt_internal")
+5961060692f8 ("net/tls: Fix authentication failure in CCM mode")
+a6acbe623538 ("net/tls: add CHACHA20-POLY1305 specific behavior")
+6942a284fb3e ("net/tls: make inline helpers protocol-aware")

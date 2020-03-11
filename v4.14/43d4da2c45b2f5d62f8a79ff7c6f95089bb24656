@@ -1,0 +1,8 @@
+43d4da2c45b2 ("arm64/sve: ptrace and ELF coredump support")
+2e0f2478ea37 ("arm64/sve: Probe SVE capabilities and usable vector lengths")
+7582e22038a2 ("arm64/sve: Backend logic for setting the vector length")
+79ab047c75d6 ("arm64/sve: Support vector length resetting for new processes")
+bc0ee4760364 ("arm64/sve: Core task context handling")
+ddd25ad1fde8 ("arm64/sve: Kconfig update and conditional compilation support")
+1fc5dce78ad1 ("arm64/sve: Low-level SVE architectural state manipulation functions")
+94ef7ecbdf6f ("arm64: fpsimd: Correctly annotate exception helpers called from asm")

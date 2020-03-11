@@ -1,0 +1,5 @@
+baff59ccdc65 ("KVM: Pre-allocate cpumasks for kvm_make_all_cpus_request_except()")
+ae0946cd3601 ("KVM: Optimize kvm_make_vcpus_request_mask() a bit")
+0bbc2ca8515f ("KVM: KVM: Use cpumask_available() to check for NULL cpumask when kicking vCPUs")
+85b640450ddc ("KVM: Clean up benign vcpu->cpu data races when kicking vCPUs")
+e649b3f0188f ("KVM: x86: Fix APIC page invalidation race")

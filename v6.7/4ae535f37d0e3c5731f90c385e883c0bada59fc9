@@ -1,0 +1,7 @@
+4ae535f37d0e ("thermal: netlink: Drop thermal_notify_tz_trip_add/delete()")
+f52557edf064 ("thermal: netlink: Pass pointers to thermal_notify_tz_trip_up/down()")
+7e72fc41d424 ("thermal: netlink: Pass pointers to thermal_notify_tz_trip_change()")
+bdc22c8d52d7 ("thermal: trip: Send trip change notifications on all trip updates")
+be0a3600aa1e ("thermal: sysfs: Rework the handling of trip point updates")
+597302416472 ("thermal: trip: Drop a redundant check from thermal_zone_set_trip()")
+44844db91397 ("thermal: core: Add trip thresholds for trip crossing detection")

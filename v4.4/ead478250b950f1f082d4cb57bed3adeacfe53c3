@@ -1,0 +1,7 @@
+ead478250b95 ("clk: ti: generalize the init sequence of clk_hw_omap clocks")
+77b773aea5a8 ("clk: ti: move clk_hw_omap list handling under generic part of the driver")
+1ae79c46cf19 ("clk: ti: use automatic clock alias generation framework")
+21f0bf2d3dcc ("clk: ti: add support for automatic clock alias generation")
+45e21151a2bc ("clk: ti: Remove CLK_IS_ROOT")
+b6f5128459a4 ("clk: ti: dpll: convert DPLL support code to use clk_hw instead of clk ptrs")
+a0d54c3899aa ("clk: ti: omap3+: dpll: use non-locking version of clk_get_rate")

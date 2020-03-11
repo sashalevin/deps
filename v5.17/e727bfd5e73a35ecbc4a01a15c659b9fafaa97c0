@@ -1,0 +1,8 @@
+e727bfd5e73a ("mm: replace mmap with vma write lock assertions when operating on a vma")
+623a1ddfeb23 ("mm/hugetlb: take src_mm->write_protect_seq in copy_hugetlb_page_range()")
+0b90ddae1344 ("mm: Turn page_maybe_dma_pinned() into folio_maybe_dma_pinned()")
+3d11b225aeb1 ("mm: Add folio_pincount_ptr()")
+5232c63f46fd ("mm: Make compound_pincount always available")
+6315d8a23ce3 ("mm/gup: Remove hpage_pincount_sub()")
+78d9d6ced31a ("mm/gup: Remove hpage_pincount_add()")
+8ea2979c1444 ("mm/gup: Increment the page refcount before the pincount")

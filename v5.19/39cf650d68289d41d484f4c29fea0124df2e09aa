@@ -1,0 +1,4 @@
+39cf650d6828 ("scripts/faddr2line: Reduce number of readelf calls to three")
+180af1a5bdaf ("scripts/faddr2line: Don't filter out non-function symbols from readelf")
+2d77de1581bb ("scripts/faddr2line: Fix regression in name resolution on ppc64le")
+a41a2e2e34a9 ("scripts/faddr2line: Add CONFIG_DEBUG_INFO check")

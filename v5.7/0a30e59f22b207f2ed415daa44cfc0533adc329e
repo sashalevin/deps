@@ -1,0 +1,6 @@
+0a30e59f22b2 ("RDMA/bnxt_re: Add support for dmabuf pinned memory regions")
+6a7296c918eb ("RDMA/bnxt_re: Support multiple page sizes")
+f6919d56388c ("RDMA/bnxt_re: Code refactor while populating user MRs")
+73c5265913b4 ("RDMA/bnxt_re: Fix sizeof mismatch for allocation of pbl_tbl.")
+84e71b4d9bd8 ("RDMA/bnxt: Do not use ib_umem_page_count() or ib_umem_num_pages()")
+ebc24096c4c4 ("RDMA/umem: Add rdma_umem_for_each_dma_block()")

@@ -1,0 +1,7 @@
+db2e718a4798 ("capabilities: require CAP_SETFCAP to map uid 0")
+56f2e3b7d819 ("capabilities: add description for CAP_SETFCAP")
+6397fac4915a ("userns: bump idmap limits to 340")
+aa4bf44dc851 ("userns: use union in {g,u}idmap struct")
+dbec28460a89 ("userns: Add per user namespace sysctls.")
+b032132c3c21 ("userns: Free user namespaces in process context")
+70f6cbb6f9c9 ("kernel/*: switch to memdup_user_nul()")

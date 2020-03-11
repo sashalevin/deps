@@ -1,0 +1,7 @@
+29986cc8a66f ("drm: rcar-du: Link HDMI encoder with bridge")
+1d926114d8f4 ("drm: rcar-du: Remove i2c slave encoder interface for hdmi encoder")
+15b6412badfe ("drm: rcar-du: Rely on the default ->best_encoder() behavior")
+fee8abc3bcb1 ("drm: rcar-du: Add probe deferral debug messages")
+c1d4b38c9306 ("drm: rcar-du: Perform initialization/cleanup at probe/remove time")
+0a346629f530 ("drm/rcar: Nuke preclose hook")
+16c3719c17d3 ("drm: Constify drm_encoder_slave_funcs")

@@ -1,0 +1,4 @@
+e81e99bacc9f ("swiotlb: Support aligned swiotlb buffers")
+9b49bbc2c4df ("iommu/dma: Fold _swiotlb helpers into callers")
+ee9d4097cc14 ("iommu/dma: Skip extra sync during unmap w/swiotlb")
+06e620345d54 ("iommu/dma: Fix arch_sync_dma for map")

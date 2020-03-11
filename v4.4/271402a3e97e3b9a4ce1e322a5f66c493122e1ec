@@ -1,0 +1,7 @@
+271402a3e97e ("perf build: Add missing FEATURE_CHECK_LDFLAGS-libcrypto")
+5c4d7c82c0dc ("perf unwind: Do not put libunwind-{x86,aarch64} in FEATURE_TESTS_BASIC")
+1c3b28fd7ae8 ("perf coresight: Do not test for libopencsd by default")
+14541b1e7e72 ("perf build: Don't unconditionally link the libbfd feature test to -liberty and -lz")
+2a07d814747b ("tools build feature: Check if libaio is available")
+531b014e7a2f ("tools: bpf: make use of reallocarray")
+174e719439b8 ("Merge branch 'perf-urgent-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

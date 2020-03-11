@@ -1,0 +1,6 @@
+d0c7347dc78f ("mfd: mt6397: Trim probe function to support different chips more cleanly")
+eb00f70d774f ("mfd: mt6397: Use PLATFORM_DEVID_NONE macro instead of -1")
+11c4f2be58c2 ("mfd: mt6397: Fix probe after changing mt6397-core")
+708cb5cc3fde ("mfd: mt6397: Rename macros to something more readable")
+a177276aa098 ("mfd: mt6397: Do not call irq_domain_remove if PMIC unsupported")
+e695d3a0b3b3 ("mfd: mt6397: Create irq mappings in mfd core driver")

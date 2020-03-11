@@ -1,0 +1,7 @@
+e4f874858cc1 ("crypto: arm64/gcm - use inline helper to suppress indirect calls")
+17d0fb1febbc ("crypto: arm64/gcm - use variably sized key struct")
+94fe4501cd2a ("crypto: arm64/gcm - disentangle ghash and gcm setkey() routines")
+37b6aab68fae ("crypto: arm64/ghash - drop PMULL based shash")
+11031c0d7d6e ("crypto: arm64/gcm-ce - implement 4 way interleave")
+fe3b99b64909 ("crypto: arm64/ghash - switch to AES library")
+81ff5d2cba4f ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/herbert/crypto-2.6")

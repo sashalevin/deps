@@ -1,0 +1,7 @@
+9a07731702d9 ("s390: add KCSAN instrumentation to barriers and spinlocks")
+fbbd14073712 ("s390/barrier: factor out bcr_serialize()")
+cceb018377a1 ("s390/alternatives: make use of asm_inline")
+f554be42fd0f ("s390/spinlock: use cpu alternatives to enable niai instruction")
+686140a1a9c4 ("s390: introduce CPU alternatives")
+b96f7d881ad9 ("s390/spinlock: introduce spinlock wait queueing")
+8153380379ec ("s390/spinlock: use the cpu number +1 as spinlock value")

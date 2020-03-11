@@ -1,0 +1,8 @@
+8b36d07f1d63 ("sched/fair: Move is_core_idle() out of CONFIG_NUMA")
+cb29a5c19d2d ("sched/numa: Apply imbalance limitations consistently")
+e496132ebedd ("sched/fair: Adjust the allowed NUMA imbalance when SD_NUMA spans multiple LLCs")
+2cfb7a1b031b ("sched/fair: Improve consistency of allowed NUMA balance calculations")
+82762d2af31a ("sched/fair: Replace CFS internal cpu_util() with cpu_util_cfs()")
+1c6829cfd3d5 ("sched/numa: Fix is_core_idle()")
+a5418be9dffe ("sched/core: Rename schedutil_cpu_util() and allow rest of the kernel to use it")
+7d6a905f3dd6 ("sched/core: Move schedutil_cpu_util() to core.c")

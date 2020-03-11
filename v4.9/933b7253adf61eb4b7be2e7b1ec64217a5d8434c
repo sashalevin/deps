@@ -1,0 +1,8 @@
+933b7253adf6 ("s390/mm,hugetlb: don't use pte_val()/pXd_val() as lvalue")
+528a9539348a ("s390/mm: fix huge pte soft dirty copying")
+57d7f939e7bd ("s390: add no-execute support")
+ef280c859f4c ("s390: move sys_call_table and last_break from thread_info to thread_struct")
+90c53e658063 ("s390: move cputime accounting fields from thread_info to thread_struct")
+f8fc82b47149 ("s390: move system_call field from thread_info to thread_struct")
+d5c352cdd022 ("s390: move thread_info into task_struct")
+c360192bf4a8 ("s390/preempt: move preempt_count to the lowcore")

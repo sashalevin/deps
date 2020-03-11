@@ -1,0 +1,8 @@
+43bb9e000ea4 ("KVM: x86: Tweak name of MONITOR/MWAIT #UD quirk to make it #UD specific")
+2325d4dd7321 ("KVM: selftests: Add MONITOR/MWAIT quirk test")
+bfbcc81bb82c ("KVM: x86: Add a quirk for KVM's "MONITOR/MWAIT are NOPs!" behavior")
+157fc497b54f ("KVM: x86: Ignore benign host accesses to "unsupported" PEBS and BTS MSRs")
+f1a9761fbb00 ("KVM: x86: Allow userspace to opt out of hypercall patching")
+6d8491910fcd ("KVM: x86: Introduce KVM_CAP_DISABLE_QUIRKS2")
+ba7bb663f554 ("KVM: x86: Provide per VM capability for disabling PMU virtualization")
+4dfc4ec2b7f5 ("Merge branch 'kvm-ppc-cap-210' into kvm-next-5.18")

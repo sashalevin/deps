@@ -1,0 +1,6 @@
+12eb0f84a601 ("net/mlx5: Remove unused ctx variables")
+d59b73a66e5e ("net/mlx5: Avoid false positive lockdep warning by adding lock_class_key")
+3410fbcd47dc ("{net, RDMA}/mlx5: Fix override of log_max_qp by other device")
+5b74df80f301 ("net/mlx5: Delete device list leftover")
+241dc159391f ("net/mlx5: Notify on trap action by blocking event")
+3d347b1b19da ("net/mlx5: Add support for devlink traps in mlx5 core driver")

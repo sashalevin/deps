@@ -1,0 +1,7 @@
+77c70728db9f ("signal/powerpc: Simplify _exception_pkey by using force_sig_pkuerr")
+5d8fb8a58659 ("signal/powerpc: Specialize _exception_pkey for handling pkey exceptions")
+2c44ce285fdd ("signal/powerpc: Factor the common exception code into exception_common")
+8eb2ba25e3c8 ("signal/powerpc: Call _exception_pkey directly from bad_key_fault_exception")
+658b0f92bc70 ("powerpc/traps: Print unhandled signals in a separate function")
+3eb0f5193b49 ("signal: Ensure every siginfo we send has all bits initialized")
+23221d997b3d ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

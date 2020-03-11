@@ -1,0 +1,7 @@
+a748faea3bfd ("drm/i915: Fix ilk+ watermarks when disabling pipes")
+a1cccdcf330e ("drm/i915: Clean up casts to crtc_state in intel_atomic_commit_tail()")
+033b7a230cfa ("drm/i915: Handle pipe CRC around enabling/disabling pipe.")
+163e8aecd13e ("drm/i915: Also discard second CRC on gen8+ platforms.")
+4babc5e27cfd ("drm/i915: remove redundant variable hw_check")
+2179481363bd ("drm/i915: Eliminate crtc->state usage from intel_atomic_commit_tail and .crtc_update()")
+6e644626945c ("drm/i915: Beef up the IPS vs. CRC workaround")

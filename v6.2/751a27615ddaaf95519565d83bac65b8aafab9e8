@@ -1,0 +1,6 @@
+751a27615dda ("btrfs: do not BUG_ON() on tree mod log failures at btrfs_del_ptr()")
+016f9d0b7442 ("btrfs: rename del_ptr to btrfs_del_ptr and export it")
+190a83391bc4 ("btrfs: rename btrfs_clean_tree_block to btrfs_clear_buffer_dirty")
+c4e54a657116 ("btrfs: replace clearing extent buffer dirty bit with btrfs_clean_block")
+ed25dab3a0d1 ("btrfs: add trans argument to btrfs_clean_tree_block")
+d3fb66150c05 ("btrfs: always lock the block before calling btrfs_clean_tree_block")

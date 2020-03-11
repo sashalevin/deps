@@ -1,0 +1,6 @@
+375bb57292f4 ("function_graph: Handle tail calls for stack unwinding")
+7aa1eaef9f42 ("function_graph: Allow multiple users to attach to function graph")
+518d6804a865 ("function_graph: Add an array structure that will allow multiple callbacks")
+59e5f04e4184 ("fgraph: Use BUILD_BUG_ON() to make sure we have structures divisible by long")
+42675b723b48 ("function_graph: Convert ret_stack to a series of longs")
+a1be9ccc57f0 ("function_graph: Support recording and printing the return value of function")

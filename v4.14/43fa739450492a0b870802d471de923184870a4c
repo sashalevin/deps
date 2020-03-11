@@ -1,0 +1,6 @@
+43fa73945049 ("iio: core: Fix an error pointer vs NULL bug in devm_iio_device_alloc()")
+cf5724e91515 ("iio: core: simplify some devm functions")
+78289b4a58b5 ("iio: core: pass parent device as parameter during allocation")
+0d4b2184cfee ("iio: Use an early return in iio_device_alloc to simplify code.")
+66be392a48f9 ("iio: core: drop devm_iio_device_free() API call")
+63b19547cc3d ("iio: Use macro magic to avoid manual assign of driver_module")

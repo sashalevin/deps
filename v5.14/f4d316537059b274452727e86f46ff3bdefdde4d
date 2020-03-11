@@ -1,0 +1,4 @@
+f4d316537059 ("KVM: generalize "bugged" VM to "dead" VM")
+673692735fdc ("KVM: x86: Use KVM_BUG/KVM_BUG_ON to handle bugs that are fatal to the VM")
+7ee3e8c39d3a ("KVM: Export kvm_make_all_cpus_request() for use in marking VMs as bugged")
+0b8f11737cff ("KVM: Add infrastructure and macro to mark VM as bugged")

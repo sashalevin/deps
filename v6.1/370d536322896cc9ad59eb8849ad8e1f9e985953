@@ -1,0 +1,8 @@
+370d53632289 ("KVM: selftests: Extend {kvm,this}_pmu_has() to support fixed counters")
+ff76d7712510 ("KVM: selftests: Drop the "name" param from KVM_X86_PMU_FEATURE()")
+5228c02a4c54 ("KVM: selftests: Add PMU feature framework, use in PMU event filter test")
+4feb9d21a407 ("KVM: selftests: Convert vmx_pmu_caps_test to use X86_PROPERTY_*")
+5dc19f1c7dd3 ("KVM: selftests: Convert AMX test to use X86_PROPRETY_XXX")
+40854713e325 ("KVM: selftests: Add kvm_cpu_*() support for X86_PROPERTY_*")
+53a7dc0f215e ("KVM: selftests: Add X86_PROPERTY_* framework to retrieve CPUID values")
+3bd396353d18 ("KVM: selftests: Add X86_FEATURE_PAE and use it calc "fallback" MAXPHYADDR")

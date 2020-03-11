@@ -1,0 +1,6 @@
+8bad4606acc9 ("KVM: x86/mmu: Add sanity check that MMIO SPTE mask doesn't overlap gen")
+b09763da4dd8 ("KVM: x86/mmu: Add module param to disable MMIO caching (for testing)")
+44aaa0150bfd ("KVM: x86/mmu: Disable MMIO caching if MMIO value collides with L1TF")
+34c0f6f2695a ("KVM: mmu: Fix SPTE encoding of MMIO generation upper half")
+8a967d655e40 ("KVM: x86: replace static const variables with macros")
+5a9624affe7c ("KVM: mmu: extract spte.h and spte.c")

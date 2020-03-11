@@ -1,0 +1,8 @@
+1231363aec86 ("nvme-pci: mark Lexar NM760 as IGNORE_DEV_SUBNQN")
+80b2624094c8 ("nvme-pci: add NVME_QUIRK_BOGUS_NID for Lexar NM760")
+200dccd07df2 ("nvme-pci: add NVME_QUIRK_BOGUS_NID for Lexar NM610")
+d6c52fa3e955 ("nvme-pci: Crucial P2 has bogus namespace ids")
+6b961bce50e4 ("nvme-pci: avoid the deepest sleep state on ZHITAI TiPro7000 SSDs")
+3765fad50896 ("nvme-pci: add NVME_QUIRK_BOGUS_NID for ADATA XPG GAMMIX S50")
+a98a945b80f8 ("nvme-pci: disable namespace identifiers for the MAXIO MAP1002/1202")
+4bdf260362b3 ("nvme: add 48-bit DMA address quirk for Amazon NVMe controllers")

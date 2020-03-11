@@ -1,0 +1,8 @@
+6a3eb35e56b3 ("s390/mm: remove page table downgrade support")
+190f056fba23 ("s390/vdso: correct vdso mapping for compat tasks")
+814cedbc0b78 ("s390/mm: correct pgtable_bytes on page table downgrade")
+e12e4044aede ("s390/mm: fix mis-accounting of pgtable_bytes")
+d1befa65823e ("s390/vdso: avoid 64-bit vdso mapping for compat tasks")
+a9e00d8349c9 ("s390/mm: Add huge page gmap linking support")
+6a3762778d1b ("s390/mm: Add gmap pmd invalidation and clearing")
+d8312a3f6102 ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

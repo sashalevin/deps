@@ -1,0 +1,6 @@
+27356a063a85 ("xfs: use ->t_dfops in cancel cow blocks operation")
+8ad7c629b186 ("xfs: remove the ip argument to xfs_defer_finish")
+5eda43000064 ("xfs: mark speculative prealloc CoW fork extents unwritten")
+df5ab1b5a841 ("xfs: use new extent lookup helpers in xfs_reflink_cancel_cow_blocks")
+5d829300bee0 ("xfs: provide helper for counting extents from if_bytes")
+4dfce57db635 ("xfs: fix up xfs_swap_extent_forks inline extent handling")

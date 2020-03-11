@@ -1,0 +1,8 @@
+9c5f6908de03 ("copy_{from,to}_user(): move kasan checks and might_fault() out-of-line")
+d597580d3737 ("generic ...copy_..._user primitives")
+c1aad8dcc493 ("asm-generic: zero in __get_user(), not __get_user_fn()")
+af1d5b37d621 ("uaccess: drop duplicate includes from asm/uaccess.h")
+5e6039d8a307 ("uaccess: move VERIFY_{READ,WRITE} definitions to linux/uaccess.h")
+b5a882fcf146 ("s390: restore address space when returning to user space")
+606aa4aa0b2c ("s390: rename CIF_ASCE to CIF_ASCE_PRIMARY")
+ff47d8c05019 ("Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/s390/linux")

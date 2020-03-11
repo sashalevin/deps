@@ -1,0 +1,8 @@
+7919385b9fb3 ("arm64: head: tidy up the Image header definition")
+b50a3225cdff ("arm64/head: avoid symbol names pointing into first 64 KB of kernel image")
+a2d50c1c77aa ("arm64: efi: increase EFI PE/COFF header padding to 64 KB")
+120dc60d0bdb ("arm64: get rid of TEXT_OFFSET")
+7c116db24d94 ("efi/libstub/arm64: Retain 2MB kernel Image alignment if !KASLR")
+751c263bb74f ("arm64: remove TEXT_OFFSET randomization")
+09587a09ada2 ("arm64: mm: use ARCH_HAS_DEBUG_WX instead of arch defined")
+533b220f7be4 ("Merge tag 'arm64-upstream' of git://git.kernel.org/pub/scm/linux/kernel/git/arm64/linux")

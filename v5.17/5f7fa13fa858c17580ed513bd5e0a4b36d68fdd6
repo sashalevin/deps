@@ -1,0 +1,8 @@
+5f7fa13fa858 ("mm: add pageblock_align() macro")
+4f9bc69ac5ce ("mm: reuse pageblock_start/end_pfn() macro")
+6e263fff1de4 ("mm: page_isolation: enable arbitrary range page isolation.")
+b2c9e2fbba32 ("mm: make alloc_contig_range work at pageblock granularity")
+844fbae63e46 ("mm: page_isolation: check specified range for unmovable pages")
+b48d8a8e5ce5 ("mm: page_isolation: move has_unmovable_pages() to mm/page_isolation.c")
+b3d40a2b6d10 ("mm: enforce pageblock_order < MAX_ORDER")
+e16faf26780f ("cma: factor out minimum alignment requirement")

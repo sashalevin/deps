@@ -1,0 +1,4 @@
+437e88ab8f9e ("x86/build: Remove -pipe from KBUILD_CFLAGS")
+77b0bf55bc67 ("kbuild/Makefile: Prepare for using macros in inline assembly code to work around asm() related GCC inlining bugs")
+d6605b6bbee8 ("x86/build: Remove unnecessary preparation for purgatory")
+d26e94149276 ("kbuild: no gcc-plugins during cc-option tests")

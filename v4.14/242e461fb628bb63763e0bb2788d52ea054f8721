@@ -1,0 +1,8 @@
+242e461fb628 ("lightnvm: Remove redundant rq->__data_len initialization")
+1a94b2d48467 ("lightnvm: implement generic path for sync I/O")
+26532ee52b77 ("lightnvm: pblk: use rqd->end_io for completion")
+d340121eb770 ("lightnvm: pblk: simplify data validity check on GC")
+9f6cb13bb40b ("lightnvm: pblk: normalize ppa namings")
+b84ae4a8b883 ("lightnvm: pblk: simplify work_queue mempool")
+bd432417681a ("lightnvm: pblk: fix min size for page mempool")
+7d327a9ed6c4 ("lightnvm: pblk: use right flag for GC allocation")

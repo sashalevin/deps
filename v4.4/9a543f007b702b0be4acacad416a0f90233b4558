@@ -1,0 +1,5 @@
+9a543f007b70 ("mm: emit the "free" trace report before freeing memory in kmem_cache_free()")
+3544de8ee6e4 ("mm, tracing: record slab name for kmem_cache_free()")
+5f0d5a3ae7cf ("mm: Rename SLAB_DESTROY_BY_RCU to SLAB_TYPESAFE_BY_RCU")
+657dc2f97220 ("slab: remove synchronous rcu_barrier() call in memcg cache release path")
+52e01b84a244 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/pablo/nf-next")

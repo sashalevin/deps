@@ -1,0 +1,6 @@
+67b07bd4bec5 ("Btrfs: reuse cmp workspace in EXTENT_SAME ioctl")
+b67287682688 ("Btrfs: dedupe_file_range ioctl: remove 16MiB restriction")
+3973909d926c ("Btrfs: split btrfs_extent_same")
+b1517622f252 ("Btrfs: fix deadlock between dedup on same file and starting writeback")
+1a287cfea17c ("btrfs: remove unused parameters from btrfs_cmp_data")
+fc4badd9fe6a ("Btrfs: refactor btrfs_extent_same() slightly")

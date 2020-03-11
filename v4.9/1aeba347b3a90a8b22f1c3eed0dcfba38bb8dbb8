@@ -1,0 +1,8 @@
+1aeba347b3a9 ("MIPS: Hardcode cpu_has_mips* where target ISA allows")
+93e01942a6eb ("MIPS: Hardcode cpu_has_* where known at compile time due to ISA")
+800fb71281ca ("MIPS: perf: More robustly probe for the presence of per-tc counters")
+18ba210a29d0 ("MIPS: cpu-features.h: Replace __mips_isa_rev with MIPS_ISA_REV")
+8d1630f13754 ("MIPS: MIPS16e2: Identify ASE presence")
+e7bc8557428f ("MIPS: Add CPU shared FTLB feature detection")
+4e87580e6d14 ("MIPS: Add defs & probing of UFR")
+2654294bac83 ("MIPS: Unify perf counter register definitions")

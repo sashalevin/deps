@@ -1,0 +1,7 @@
+9c93c0b44be3 ("wifi: iwlwifi: mei: unify iwl_mei_set_power_limit() prototype")
+f26b11803120 ("wifi: iwlwifi: mei: return error from register when not built")
+22b68fc6d693 ("wifi: iwlwifi: mvm: fix RFKILL report when driver is going down")
+9cbd5a8abca9 ("wifi: iwlwifi: mei: fix compilation errors in rfkill()")
+d288067ede4b ("wifi: iwlwifi: mei: avoid blocking sap messages handling due to rtnl lock")
+95170a46b7dd ("wifi: iwlwifi: mei: don't send SAP commands if AMT is disabled")
+5aa7ce31bd84 ("wifi: iwlwifi: mei: make sure ownership confirmed message is sent")

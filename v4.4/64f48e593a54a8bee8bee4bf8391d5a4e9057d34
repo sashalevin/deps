@@ -1,0 +1,7 @@
+64f48e593a54 ("net: stmicro: replace kzalloc with devm_kzalloc")
+4613b279bee7 ("ethernet: stmicro: stmmac: add missing of_node_put after calling of_parse_phandle")
+4c3e962df044 ("stmmac: fix noderef.cocci warnings")
+afea03656add ("stmmac: rework DMA bus setting and introduce new platform AXI structure")
+495db27302a8 ("stmmac: share reset function between dwmac100 and dwmac1000")
+bf171f01afe3 ("stmmac: Correct documentation on stmmac clocks.")
+e34d65696d2e ("stmmac: create of compatible mdio bus for stmmac driver")

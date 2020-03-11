@@ -1,0 +1,4 @@
+9d6450330879 ("perf auxtrace: Remove auxtrace_mmap__read_snapshot_head()")
+1fc7e593e202 ("perf auxtrace: Drop legacy __sync functions")
+1ea3cb159e30 ("perf auxtrace: Use WRITE_ONCE() for updating aux_tail")
+bde1e7d93456 ("perf auxtrace: Change to use SMP memory barriers")

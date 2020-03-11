@@ -1,0 +1,7 @@
+2accfdb7eff6 ("profiling: attempt to remove per-cpu profile flip buffer")
+7c51f7bbf057 ("profiling: remove prof_cpu_mask")
+2873cd31a20c ("exit: Remove profile_handoff_task")
+2d4bcf886e42 ("exit: Remove profile_task_exit & profile_munmap")
+de77c3a5b95c ("exit: Move force_uaccess back into do_exit")
+05ea0424f0e2 ("exit: Move oops specific logic from do_exit into make_task_dead")
+0e25498f8cd4 ("exit: Add and use make_task_dead.")

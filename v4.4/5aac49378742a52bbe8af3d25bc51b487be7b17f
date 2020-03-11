@@ -1,0 +1,4 @@
+5aac49378742 ("Bluetooth: Remove unnecessary smp_mb__{before,after}_atomic")
+5da8e47d849d ("Bluetooth: hidp: fix possible might sleep error in hidp_session_thread")
+f06d977309d0 ("Bluetooth: cmtp: fix possible might sleep error in cmtp_session")
+25717382c1dd ("Bluetooth: bnep: fix possible might sleep error in bnep_session")

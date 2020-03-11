@@ -1,0 +1,8 @@
+d64934019f6c ("x86/efi: Use efi_exit_boot_services()")
+dadb57abc374 ("efi/libstub: Allocate headspace in efi_get_memory_map()")
+2ddbfc81eac8 ("efi: stub: add implementation of efi_random_alloc()")
+e4fbf4767440 ("efi: stub: implement efi_get_random_bytes() based on EFI_RNG_PROTOCOL")
+81a0bc39ea19 ("ARM: add UEFI stub support")
+da58fb6571bf ("ARM: wire up UEFI init and runtime support")
+e5bc22a42e4d ("arm64/efi: split off EFI init and runtime code for reuse by 32-bit ARM")
+4dffbfc48d65 ("arm64/efi: mark UEFI reserved regions as MEMBLOCK_NOMAP")

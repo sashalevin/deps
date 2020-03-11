@@ -1,0 +1,4 @@
+0bb0a5c12ecf ("tracing/timerlat: Fix duplicated kthread creation due to CPU online/offline")
+177e1cc2f412 ("tracing/osnoise: Use a cpumask to know what threads are kthreads")
+e88ed227f639 ("tracing/timerlat: Add user-space interface")
+4998e7fda149 ("tracing/osnoise: Switch from PF_NO_SETAFFINITY to migrate_disable")

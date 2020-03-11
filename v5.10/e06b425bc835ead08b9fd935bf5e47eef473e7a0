@@ -1,0 +1,4 @@
+e06b425bc835 ("nvme: catch -ENODEV from nvme_revalidate_zones again")
+602e57c9799c ("nvme: also mark passthrough-only namespaces ready in nvme_update_ns_info")
+a9e0e6bc728e ("nvme: let namespace probing continue for unsupported features")
+3089738868b6 ("nvme: add a nvme_ns_head_multipath helper")

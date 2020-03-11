@@ -1,0 +1,5 @@
+e5bfff8b10e4 ("migrate_pages: separate hugetlb folios migration")
+5b855937096a ("migrate_pages: organize stats with struct migrate_pages_stats")
+eaec4e639f11 ("migrate: convert migrate_pages() to use folios")
+49f51859221a ("migrate: convert unmap_and_move() to use folios")
+fd4a7ac32918 ("mm: migrate: try again if THP split is failed due to page refcnt")

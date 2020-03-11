@@ -1,0 +1,7 @@
+6071c4c2a319 ("drm/qxl: add drm_gem_plane_helper_prepare_fb")
+b4b27f08f9f9 ("drm/qxl: rework cursor plane")
+ab422b01e06e ("drm/qxl: move shadow handling to new qxl_prepare_shadow()")
+f7ed28e13f82 ("drm/qxl: rename qxl_bo_kmap -> qxl_bo_vmap_locked")
+4fff19ae4275 ("drm/qxl: use ttm bo priorities")
+76aefa4d274a ("drm/qxl: properly pin/unpin shadow")
+4ca77c513537 ("drm/qxl: release shadow on shutdown")

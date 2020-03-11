@@ -1,0 +1,8 @@
+b1a6f56b6506 ("net/tls: optimize judgement processes in tls_set_device_offload()")
+4a5cdc604b9c ("net/tls: Fix return values to avoid ENOTSUPP")
+d4ffb02dee2f ("net/tls: enable sk_msg redirect to tls socket egress")
+3544c98acd09 ("net/tls: narrow down the critical area of device_offload_lock")
+90962b4894f5 ("net/tls: don't jump to return")
+78b5dc3d68dc ("selftests/tls: test error codes around TLS ULP installation")
+cf32526c8842 ("selftests/tls: add a test for ULP but no keys")
+af144a983402 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

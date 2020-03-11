@@ -1,0 +1,5 @@
+691bd4340bef ("kvm: vmx: allow host to access guest MSR_IA32_BNDCFGS")
+4439af9f911a ("kvm: x86: Guest BNDCFGS requires guest MPX support")
+dfa169bbee00 ("Revert "KVM: x86: add pcommit support"")
+a87036add092 ("KVM: x86: disable MPX if host did not enable MPX XSAVE features")
+45bdbcfdf241 ("kvm: x86: Fix vmwrite to SECONDARY_VM_EXEC_CONTROL")

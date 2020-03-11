@@ -1,0 +1,4 @@
+742833249198 ("PCI: dwc: Skip PCIE_MSI_INTR0* programming if MSI is disabled")
+fd8a44bd5b76 ("PCI: dwc: Remove default MSI initialization for platform specific MSI chips")
+a348d015f0de ("PCI: dwc: Improve code readability and simplify mask/unmask operations")
+830920e065e9 ("PCI: dwc: Use interrupt masking instead of disabling")

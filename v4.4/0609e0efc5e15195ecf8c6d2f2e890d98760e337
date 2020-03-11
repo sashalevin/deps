@@ -1,0 +1,6 @@
+0609e0efc5e1 ("block: make part_in_flight() take an array of two ints")
+d62e26b3ffd2 ("block: pass in queue to inflight accounting")
+8d7c22ac0c03 ("libnvdimm: use generic iostat interfaces")
+c11f0c0b5bb9 ("block/mm: make bdev_ops->rw_page() take a bool for read/write")
+abf545484d31 ("mm/block: convert rw_page users to bio op use")
+f0c98ebc57c2 ("Merge tag 'libnvdimm-for-4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

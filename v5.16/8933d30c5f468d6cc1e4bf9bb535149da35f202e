@@ -1,0 +1,4 @@
+8933d30c5f46 ("pwm: lpc18xx: Fix period handling")
+9136a39e6cf6 ("pwm: lpc18xx-sct: Simplify driver by not using pwm_[gs]et_chip_data()")
+20d9de9c4d66 ("pwm: lpc18xx-sct: Reduce number of devm memory allocations")
+0401f24cd238 ("pwm: lpc18xx-sct: Initialize driver data and hardware before pwmchip_add()")

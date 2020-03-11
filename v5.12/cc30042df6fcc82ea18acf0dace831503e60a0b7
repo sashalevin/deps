@@ -1,0 +1,4 @@
+cc30042df6fc ("hugetlb, userfaultfd: fix reservation restore on userfaultfd error")
+c7b1850dfb41 ("hugetlb: don't pass page cache pages to restore_reserve_on_error")
+846be08578ed ("mm/hugetlb: expand restore_reserve_on_error functionality")
+f619147104c8 ("userfaultfd: add UFFDIO_CONTINUE ioctl")

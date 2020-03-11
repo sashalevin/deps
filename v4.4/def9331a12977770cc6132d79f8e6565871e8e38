@@ -1,0 +1,8 @@
+def9331a1297 ("x86/amd: don't set X86_BUG_SYSRET_SS_ATTRS when running under Xen")
+0808e80cb760 ("xen: set cpu capabilities from xen_start_kernel()")
+e1dab14cf68d ("x86/xen: split off enlighten_pv.c")
+98f2a47a0021 ("x86/xen: split off enlighten_hvm.c")
+481d66325dfc ("x86/xen: split off enlighten_pvh.c")
+52519f2af020 ("x86/xen: globalize have_vcpu_info_placement")
+0991d22d5e7f ("x86/xen: separate PV and HVM hypervisors")
+e5185a76a23b ("Merge branch 'x86/boot' into x86/mm, to avoid conflict")

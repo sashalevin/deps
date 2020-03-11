@@ -1,0 +1,8 @@
+795d82ed389b ("MIPS: Use memblock_add_node() in early_parse_mem() under CONFIG_NUMA")
+6d4e9a8efe3d ("driver core: lift dma_default_coherent into common code")
+14ac09a65e19 ("MIPS: refactor the runtime coherent vs noncoherent DMA indicators")
+3440caf5f28c ("MIPS/alchemy: factor out the DMA coherent setup")
+04e4783fccf4 ("MIPS/malta: simplify plat_setup_iocoherency")
+16fee29b0735 ("dma-mapping: remove the dma_direct_set_offset export")
+695cebe58dcf ("dma-mapping: move more functions to dma-map-ops.h")
+09a31a7e3723 ("Merge tag 'mips_5.10' of git://git.kernel.org/pub/scm/linux/kernel/git/mips/linux")

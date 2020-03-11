@@ -1,0 +1,7 @@
+42cd402b8fd4 ("rpmsg: Fix kfree() of static memory on setting driver_override")
+472f84eef700 ("rpmsg: Update rpmsg_chrdev_register_device function")
+617d32938d1b ("rpmsg: Move the rpmsg control device from rpmsg_char to rpmsg_ctrl")
+608edd96049b ("rpmsg: Create the rpmsg class in core instead of in rpmsg char")
+69265bc12b65 ("rpmsg: char: Export eptdev create and destroy functions")
+b7fb2dad571d ("rpmsg: char: Fix race between the release of rpmsg_ctrldev and cdev")
+c572724406e3 ("rpmsg: char: Add pr_fmt() to prefix messages")

@@ -1,0 +1,5 @@
+cf55a7acd1ed ("mmc: core: Avoid negative index with array access")
+4d0c8d0aef63 ("mmc: core: Use mrq.sbc in close-ended ffu")
+70b52f090805 ("mmc: block: Disable CMDQ on the ioctl path")
+a0d4c7eb71dd ("mmc: block: Add CMD13 polling for MMC IOCTLS with R1B response")
+3869468e0c48 ("mmc: block: Make card_busy_detect() a bit more generic")

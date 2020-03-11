@@ -1,0 +1,6 @@
+b05c1d14a177 ("iwlwifi: move get pnvm file name to a separate function")
+cdda18fbbefa ("iwlwifi: pnvm: move file loading code to a separate function")
+4a81598f0f39 ("iwlwifi: pnvm: set the PNVM again if it was already loaded")
+82a08d0cd7b5 ("iwlwifi: pnvm: don't try to load after failures")
+1c58bed4b7f7 ("iwlwifi: pnvm: don't skip everything when not reloading")
+34b9434cd0d4 ("iwlwifi: pcie: avoid potential PNVM leaks")

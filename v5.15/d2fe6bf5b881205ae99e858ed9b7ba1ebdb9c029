@@ -1,0 +1,4 @@
+d2fe6bf5b881 ("KVM: SVM: Update max number of vCPUs supported for x2AVIC mode")
+391503528257 ("KVM: x86: SVM: move avic definitions from AMD's spec to svm.h")
+202470d536b2 ("KVM: SVM: Don't bother checking for "running" AVIC when kicking for IPIs")
+91b018950717 ("KVM: SVM: Ensure target pCPU is read once when signalling AVIC doorbell")

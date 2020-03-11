@@ -1,0 +1,7 @@
+6560ec961a08 ("aoe: use blk_mq_alloc_disk and blk_cleanup_disk")
+c2e4cd57cfa1 ("block: lift setting the readahead size into the block layer")
+16ef51013931 ("md: update the optimal I/O size on reshape")
+9e82d35b95e5 ("aoe: set an optimal I/O size")
+5d4ce78b254c ("bcache: inherit the optimal I/O size")
+c13f0fbc4c19 ("nvme: don't call revalidate_disk from nvme_set_queue_dying")
+611bee526b4a ("block: replace bd_set_size with bd_set_nr_sectors")

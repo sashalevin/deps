@@ -1,0 +1,7 @@
+98af4d4df889 ("zram: register default groups with device_add_disk()")
+c0265342bff4 ("zram: introduce zram memory tracking")
+d7eac6b6e183 ("zram: record accessed second")
+89e85bce4b02 ("zram: mark incompressible page as ZRAM_HUGE")
+60f5921a9a4f ("zram: drop max_zpage_size and use zs_huge_class_size()")
+23c47d2ada9f ("bdi: introduce BDI_CAP_SYNCHRONOUS_IO")
+e447a0151f7c ("zram: set BDI_CAP_STABLE_WRITES once")

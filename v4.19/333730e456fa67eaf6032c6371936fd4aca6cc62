@@ -1,0 +1,8 @@
+333730e456fa ("ipmi: Limit the number of message a user may have outstanding")
+8e76741c3d8b ("ipmi: Add a limit on the number of users that may use IPMI")
+2033f6858970 ("ipmi: Free receive messages when in an oops")
+3b9a907223d7 ("ipmi: fix sleep-in-atomic in free_user at cleanup SRCU user->release_barrier")
+e1891cffd4c4 ("ipmi: Make the smi watcher be disabled immediately when not needed")
+c65ea9965950 ("ipmi: Fix how the lower layers are told to watch for messages")
+a1466ec5b671 ("ipmi: Fix SSIF flag requests")
+77f8269606bf ("ipmi: fix use-after-free of user->release_barrier.rda")

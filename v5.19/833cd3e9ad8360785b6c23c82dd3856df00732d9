@@ -1,0 +1,7 @@
+833cd3e9ad83 ("drm/fb-helper: Don't schedule_work() to flush frame buffer during panic()")
+b1be5ba29374 ("drm/fb-helper: Set damage-clip area in helper")
+93e81e38e197 ("drm/fb_helper: Minimize damage-helper overhead")
+983780918c75 ("drm/fb-helper: Perform all fbdev I/O with the same implementation")
+3add5f97734d ("drm/fb-helper: Call fb_sync in I/O functions")
+f231af498c29 ("drm/fb-helper: Disconnect damage worker from update logic")
+ae25885bdf59 ("drm/fb-helper: Fix out-of-bounds access")

@@ -1,0 +1,6 @@
+2ff906994b6c ("MIPS: VDSO: Use $(LD) instead of $(CC) to link VDSO")
+976c23af3ee5 ("mips: vdso: add build time check that no 'jalr t9' calls left")
+cdab7e2c73d5 ("mips: vdso: Fix flip/flop vdso building bug")
+24640f233b46 ("mips: Add support for generic vDSO")
+1e0221374e30 ("mips: vdso: drop unnecessary cc-ldoption")
+cc10ad25bbca ("Merge tag 'mips_4.20' of git://git.kernel.org/pub/scm/linux/kernel/git/mips/linux")

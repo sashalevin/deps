@@ -1,0 +1,3 @@
+e5fccaa1eb7f ("net: core: add READ_ONCE/WRITE_ONCE annotations for sk->sk_bound_dev_if")
+f5dd3d0c9638 ("net: introduce SO_BINDTOIFINDEX sockopt")
+6da5b0f027a8 ("net: ensure unbound datagram socket to be chosen when not in a VRF")

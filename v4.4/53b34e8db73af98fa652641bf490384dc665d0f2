@@ -1,0 +1,7 @@
+53b34e8db73a ("powerpc/xics: Add debug logging to the set_irq_affinity handlers")
+b664db8e3f97 ("powerpc/rtas: Implement reentrant rtas call")
+bd104e6db6f0 ("powerpc/pseries/svm: Use shared memory for LPPACA structures")
+e311a92da18c ("powerpc/pseries: Add and use LPPACA_SIZE constant")
+94675cceacae ("powerpc/pseries: Defer the logging of rtas error to irq work queue.")
+74e96bf44f43 ("powerpc/pseries: Avoid using the size greater than RTAS_ERROR_LOG_MAX.")
+f437c51748fa ("Merge branch 'topic/paca' into next")

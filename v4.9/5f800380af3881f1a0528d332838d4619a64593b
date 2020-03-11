@@ -1,0 +1,8 @@
+5f800380af38 ("tools include UAPI: Synchronize linux/fcntl.h with the kernel sources")
+e33ff03da160 ("tools headers uapi: Sync linux/fcntl.h to get the F_SEAL_FUTURE_WRITE addition")
+67ef28794d7e ("tools include uapi: Grab copies of stat.h and fcntl.h")
+aeafd623f866 ("perf tools: Move headers check into bash script")
+abb26210a395 ("perf tools: Force fixdep compilation at the start of the build")
+d58ac0bf8d1e ("perf build: Add clang and llvm compile and linking support")
+d4dfdf00d43e ("perf jvmti: Plug compilation into perf build")
+e0c4758278e2 ("perf bench mem: Ignore export.h related changes to mem{cpy,set}.S")

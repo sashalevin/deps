@@ -1,0 +1,5 @@
+fdf288bf726a ("KVM: VMX: call ept_sync_global() with enable_ept only")
+fe0e80befd4d ("KVM: VMX: drop vmm_exclusive module parameter")
+b80c76ec982c ("KVM: VMX: Add VMCS to CPU's loaded VMCSs before VMPTRLD")
+1c5ac21a0e9b ("perf/x86/intel/pt: Don't die on VMXON")
+a87036add092 ("KVM: x86: disable MPX if host did not enable MPX XSAVE features")

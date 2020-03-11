@@ -1,0 +1,8 @@
+260598f142c3 ("sched: Split up put_prev_task_balance()")
+c245910049d0 ("sched/core: Add clearing of ->dl_server in put_prev_task_balance()")
+539f65125d20 ("sched: Add core wide task selection and scheduling")
+8a311c740b53 ("sched: Basic tracking of matching tasks")
+9edeaea1bc45 ("sched: Core-wide rq->lock")
+d66f1b06b5b4 ("sched: Prepare for Core-wide rq->lock")
+5cb9eaa3d274 ("sched: Wrap rq::lock access")
+39d371b7c0c2 ("sched: Provide raw_spin_rq_*lock*() helpers")

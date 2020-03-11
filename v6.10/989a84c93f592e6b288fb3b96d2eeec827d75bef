@@ -1,0 +1,4 @@
+989a84c93f59 ("KVM: x86/mmu: Trigger unprotect logic only on write-protection page faults")
+4ececec19a09 ("KVM: x86/mmu: Replace PFERR_NESTED_GUEST_PAGE with a more descriptive helper")
+6e01b7601dfe ("KVM: x86: Implement kvm_arch_vcpu_pre_fault_memory()")
+f5e7f00cf195 ("KVM: x86/mmu: Account pf_{fixed,emulate,spurious} in callers of "do page fault"")

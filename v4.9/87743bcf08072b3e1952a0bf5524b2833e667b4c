@@ -1,0 +1,7 @@
+87743bcf0807 ("thermal/drivers/thermal_hwmon: Use hwmon_device_register_for_thermal()")
+c7fc403e40b0 ("thermal_hwmon: Add devres wrapper for thermal_add_hwmon_sysfs()")
+03334ba8b425 ("thermal: hwmon: inline helpers when CONFIG_THERMAL_HWMON is not set")
+f6b6b52ef7a5 ("thermal_hwmon: Pass the originating device down to hwmon_device_register_with_info")
+409ef0bacacf ("thermal_hwmon: Sanitize attribute name passed to hwmon")
+e782bc169cd0 ("thermal: thermal_hwmon: Convert to hwmon_device_register_with_info()")
+de6b0c1acc14 ("thermal: hwmon: use permission-specific DEVICE_ATTR variants")

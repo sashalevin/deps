@@ -1,0 +1,7 @@
+3a2df6323def ("riscv: Add task switch support for vector")
+03c3fcd9941a ("riscv: Introduce struct/helpers to save/restore per-task Vector state")
+7017858eb2d7 ("riscv: Introduce riscv_v_vsize to record size of Vector context")
+0a3381a01dcc ("riscv: Introduce Vector enable/disable helpers")
+dc6667a4e7e3 ("riscv: Extending cpufeature.c to detect V-extension")
+419d5d38ac5d ("riscv: Rename __switch_to_aux() -> fpu")
+816a69744102 ("riscv: cpufeature: Drop errata_list.h and other unused includes")

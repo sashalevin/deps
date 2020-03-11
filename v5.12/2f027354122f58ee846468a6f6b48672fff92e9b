@@ -1,0 +1,4 @@
+2f027354122f ("sched/core: Introduce sched_set_rq_on/offline() helper")
+cab3ecaed5cd ("sched/core: Fixed missing rq clock update before calling set_rq_offline()")
+5cb9eaa3d274 ("sched: Wrap rq::lock access")
+39d371b7c0c2 ("sched: Provide raw_spin_rq_*lock*() helpers")

@@ -1,0 +1,7 @@
+27113c59b6d0 ("bpf: Check the other end of slot_type for STACK_SPILL")
+cd17d38f8b28 ("bpf: Permits pointers on stack for helper calls")
+1d68f22b3d53 ("bpf: Handle spilled PTR_TO_BTF_ID properly when checking stack_boundary")
+f54c7898ed1c ("bpf: Fix precision tracking for unbounded scalars")
+9e15db66136a ("bpf: Implement accurate raw_tp context access via BTF")
+8580ac9404f6 ("bpf: Process in-kernel BTF")
+a23740ec43ba ("bpf: Track contents of read-only maps as scalars")

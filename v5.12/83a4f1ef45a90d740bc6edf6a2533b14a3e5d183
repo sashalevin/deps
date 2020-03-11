@@ -1,0 +1,7 @@
+83a4f1ef45a9 ("stackdepot: reserve 5 extra bits in depot_stack_handle_t")
+e94006608949 ("lib/stackdepot: always do filter_irq_stacks() in stack_depot_save()")
+0f68d45ef41a ("lib, stackdepot: add helper to print stack entries into buffer")
+505be48165fa ("lib, stackdepot: add helper to print stack entries")
+f39f21b3ddc7 ("stacktrace: move filter_irq_stacks() to kernel/stacktrace.c")
+7594b3477429 ("kasan: common: provide can_alloc in kasan_save_stack()")
+11ac25c62cd2 ("lib/stackdepot: introduce __stack_depot_save()")

@@ -1,0 +1,7 @@
+a520110e4a15 ("mm: split out a new pagewalk.h header from mm.h")
+ac46d4f3c432 ("mm/mmu_notifier: use structure for invalidate_range_start/end calls v2")
+eb66ae030829 ("mremap: properly flush TLB before releasing the page")
+dff11abe280b ("hugetlb: take PMD sharing into account when flushing tlb/caches")
+017b1660df89 ("mm: migration: fix migration of huge PMD shared pages")
+79cc81057eef ("mm, oom: fix missing tlb_finish_mmu() in __oom_reap_task_mm().")
+33e17876ea4e ("Merge branch 'akpm' (patches from Andrew)")

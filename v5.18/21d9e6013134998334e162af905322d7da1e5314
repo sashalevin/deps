@@ -1,0 +1,7 @@
+21d9e6013134 ("hwmon: pmbus: Implement generic bus access delay")
+07fb76273db8 ("hwmon: (pmbus) Introduce and use cached vout margins")
+8a85007c8386 ("hwmon: (pmbus) add a function to check the presence of a block register")
+d1baf7a3a317 ("hwmon: (pmbus) Check PEC support before reading other registers")
+28bf22ef93ec ("hwmon: (pmbus) Add get_voltage/set_voltage ops")
+f0a5c8397663 ("hwmon: (pmbus) Use _pmbus_read_byte_data with callback")
+5de3e13f7f6b ("hwmon: (pmbus) Introduce and use write_byte_data callback")

@@ -1,0 +1,5 @@
+76a0a3f9cc2f ("e1000e: fix force smbus during suspend flow")
+bfd546a552e1 ("e1000e: move force SMBUS near the end of enable_ulp function")
+861e8086029e ("e1000e: move force SMBUS from enable ulp function to avoid PHY loss issue")
+6dbdd4de0362 ("e1000e: Workaround for sporadic MDI error on Meteor Lake systems")
+662200e324da ("e1000e: Minor flow correction in e1000_shutdown function")

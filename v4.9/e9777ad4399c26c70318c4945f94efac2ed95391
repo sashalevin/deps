@@ -1,0 +1,8 @@
+e9777ad4399c ("IB/{hfi1, rdmavt}: Fix memory leak in hfi1_alloc_devdata() upon failure")
+473291b3ea0e ("IB/hfi1: Fix for early release of sdma context")
+1b311f8931cf ("IB/hfi1: Add tx_opcode_stats like the opcode_stats")
+6fab2a88f737 ("IB/hfi1: Remove unused hfi1_cpulist variables")
+76ae6222a4a3 ("IB/hfi1: Load fallback platform configuration per HFI device")
+5a52a7acf7e2 ("IB/hfi1: NULL pointer dereference when freeing rhashtable")
+fe4d924396a8 ("IB/hfi1: Add active channel and backplane support for integrated devices")
+6e768f0682e2 ("IB/hfi1: Optimize devdata cachelines")

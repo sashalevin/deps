@@ -1,0 +1,3 @@
+af51ec8c9213 ("iio: hid: trigger: Balance runtime pm + use pm_runtime_resume_and_get()")
+6f92253024d9 ("iio: hid-sensor-trigger: Fix sometimes not powering up the sensor after resume")
+ad7532cefd11 ("iio: hid-sensor-trigger: Don't touch sensors unless user space requests")

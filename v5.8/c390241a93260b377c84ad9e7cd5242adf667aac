@@ -1,0 +1,6 @@
+c390241a9326 ("perf/x86/amd/uncore: Add PerfMonV2 DF event format")
+847f3268bb64 ("perf/x86/amd/uncore: Use attr_update for format attributes")
+87a54a1fd525 ("perf/amd/uncore: Allow F19h user coreid, threadmask, and sliceid specification")
+8170f386f19c ("perf/amd/uncore: Allow F17h user threadmask and slicemask specification")
+06f2c24584f3 ("perf/amd/uncore: Prepare to scale for more attributes that vary per family")
+c8fe99d0701f ("perf/amd/uncore: Set all slices and threads to restore perf stat -a behaviour")

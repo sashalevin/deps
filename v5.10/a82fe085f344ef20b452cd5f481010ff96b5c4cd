@@ -1,0 +1,5 @@
+a82fe085f344 ("bpf: Fix kernel address leakage in atomic cmpxchg's r0 aux reg")
+5ffa25502b5a ("bpf: Add instructions for atomic_[cmp]xchg")
+5ca419f2864a ("bpf: Add BPF_FETCH field / create atomic_fetch_add instruction")
+91c960b00566 ("bpf: Rename BPF_XADD and prepare to encode other atomics in .imm")
+11c11d0751fc ("bpf: x86: Factor out emission of ModR/M for *(reg + off)")

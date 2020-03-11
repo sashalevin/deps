@@ -1,0 +1,5 @@
+57880a7966be ("perf: cs-etm: Allocate queues for all CPUs")
+b6aa0de9a53a ("perf cs-etm: Create decoders after both AUX and HW_ID search passes")
+a16afcc58a8c ("perf cs-etm: Fix incorrect or missing decoder for raw trace")
+a4b6452af7f4 ("perf cs-etm: Don't duplicate FIELD_GET()")
+5414b532611b ("perf cs-etm: Make PID format accessible from struct cs_etm_auxtrace")

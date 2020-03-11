@@ -1,0 +1,5 @@
+98ee00774525 ("netfilter: conntrack: fix bug in for_each_sctp_chunk")
+ae146d9b7658 ("sctp: remove the typedef sctp_sctphdr_t")
+8e05ba7f8484 ("netfilter: nf_nat_sctp: fix ICMP packet to be dropped accidently")
+85c727b59483 ("sctp: drop __packed from almost all SCTP structures")
+3189a290f98d ("netfilter: nat: skip checksum on offload SCTP packets")

@@ -1,0 +1,8 @@
+4f61563da075 ("brcmfmac: remove monitor interface when detaching")
+7b584396b7a7 ("brcmfmac: move brcmf_txcomplete to bcdc layer")
+20ec4f57498f ("brcmfmac: move brcmf_txflowblock to bcdc layer")
+f1ac3aa212af ("brcmfmac: always print error when PSM's watchdog fires")
+91b632803ee4 ("brcmfmac: Use net_device_stats from struct net_device")
+36401cb7ffae ("brcmfmac: be more verbose when PSM's watchdog fires")
+bfa7295e5b4d ("brcmfmac: drop brcmf_bus_detach and inline its code")
+b073ac1fcf42 ("brcmfmac: proto: add callback for queuing TX data")

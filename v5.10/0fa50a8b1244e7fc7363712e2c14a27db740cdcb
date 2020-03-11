@@ -1,0 +1,7 @@
+0fa50a8b1244 ("scsi: target: core: Remove target_submit_cmd_map_sgls()")
+750a1d93f905 ("scsi: target: core: Break up target_submit_cmd_map_sgls()")
+a78b713618c0 ("scsi: target: core: Rename transport_init_se_cmd()")
+513e29946ab2 ("scsi: target: core: Replace in_interrupt() usage in target_submit_cmd_map_sgls()")
+1526d9f10c61 ("scsi: target: Make state_list per CPU")
+8dd992fb67f3 ("scsi: target: Rename cmd.bad_sector to cmd.sense_info")
+b455233dcc40 ("scsi: target: Rename struct sense_info to sense_detail")

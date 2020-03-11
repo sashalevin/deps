@@ -1,0 +1,5 @@
+9da6ec7775d2 ("cifs: use a refcount to protect open/closing the cached file handle")
+a93864d93977 ("cifs: add lease tracking to the cached root fid")
+3d4ef9a15343 ("smb3: fix redundant opens on root")
+82fb82be0558 ("CIFS: refactor crypto shash/sdesc allocation&free")
+97f4b7276b82 ("CIFS: zero sensitive data when freeing")

@@ -1,0 +1,4 @@
+efd4149342db ("mm/smaps: don't access young/dirty bit if pte unpresent")
+24d7275ce279 ("fs/proc: task_mmu.c: don't read mapcount for migration entry")
+230100321518 ("mm/smaps: simplify shmem handling of pte holes")
+af5cdaf82238 ("mm: remove special swap entry functions")

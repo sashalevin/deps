@@ -1,0 +1,5 @@
+615451d8cb3f ("KVM: x86/xen: advertize the KVM_XEN_HVM_CONFIG_SHARED_INFO_HVA capability")
+6d7228352609 ("KVM x86/xen: add an override for PVCLOCK_TSC_STABLE_BIT")
+ee11ab6bb04e ("KVM: X86: Reduce size of kvm_vcpu_arch structure when CONFIG_KVM_XEN=n")
+f422f853af03 ("KVM: x86/xen: update Xen CPUID Leaf 4 (tsc info) sub-leaves, if present")
+48639df8a9e3 ("KVM: x86/cpuid: generalize kvm_update_kvm_cpuid_base() and also capture limit")

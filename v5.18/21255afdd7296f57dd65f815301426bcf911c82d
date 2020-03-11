@@ -1,0 +1,5 @@
+21255afdd729 ("xfs: do not allocate the entire delalloc extent in xfs_bmapi_write")
+2a9b99d45be0 ("xfs: pass the actual offset and len to allocate to xfs_bmapi_allocate")
+9d06960341ec ("xfs: don't open code XFS_FILBLKS_MIN in xfs_bmapi_write")
+95f0b95e2b68 ("xfs: Define max extent length based on on-disk format definition")
+3b0d9fd369ea ("xfs: Move extent count limits to xfs_format.h")

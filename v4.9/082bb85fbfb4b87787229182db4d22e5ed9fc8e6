@@ -1,0 +1,8 @@
+082bb85fbfb4 ("mmc: sunxi: Fix clock rate passed to sunxi_mmc_clk_set_phase")
+ff39e7f742fd ("mmc: sunxi: Support controllers that can use both old and new timings")
+26cb2be4c7c4 ("mmc: sunxi: Keep default timing phase settings for new timing mode")
+43c15e962c12 ("mmc: sunxi: Add more debug informations")
+16e821e3ba47 ("mmc: sunxi: Mask DATA0 when updating the clock")
+9a37e53e451e ("mmc: sunxi: Enable the new timings for the A64 MMC controllers")
+9479074e9376 ("mmc: sunxi: Gate the clock when rate is 0")
+39cc281fb79e ("mmc: sunxi: Fix clock frequency change sequence")

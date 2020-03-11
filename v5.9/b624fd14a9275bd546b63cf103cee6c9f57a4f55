@@ -1,0 +1,6 @@
+b624fd14a927 ("iio: use getter/setter functions")
+0d596bb2ad0d ("iio: core: rename 'dev' -> 'indio_dev' in iio_device_alloc()")
+32f171724e5c ("iio: core: rework iio device group creation")
+e64506bf69b6 ("iio: core-trigger: make iio_device_register_trigger_consumer() an int return")
+8dedcc3eee3a ("iio: core: centralize ioctl() calls to the main chardev")
+f2f45a53646f ("iio: event: use short-hand variable in iio_device_{un}register_eventset functions")

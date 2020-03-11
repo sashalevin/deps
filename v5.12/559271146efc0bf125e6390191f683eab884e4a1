@@ -1,0 +1,6 @@
+559271146efc ("mm/memcg: optimize user context object stock access")
+5387c90490f7 ("mm/memcg: improve refill_obj_stock() performance")
+68ac5b3c8db2 ("mm/memcg: cache vmstat data in percpu memcg_stock_pcp")
+fdbcb2a6d677 ("mm/memcg: move mod_objcg_state() to memcontrol.c")
+b4e0b68fbd9d ("mm: memcontrol: use obj_cgroup APIs to charge kmem pages")
+7ab345a89730 ("mm: memcontrol: change ug->dummy_page only if memcg changed")

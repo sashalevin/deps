@@ -1,0 +1,6 @@
+8a3fe76f8718 ("libbpf: Cross-join available_filter_functions and kallsyms for multi-kprobes")
+a1ac9fd6c650 ("libbpf: fallback to tracefs mount point if debugfs is not mounted")
+ddc6b04989eb ("libbpf: Add bpf_program__attach_kprobe_multi_opts function")
+697f104db8a6 ("libbpf: Support custom SEC() handlers")
+4fa5bcfe07f7 ("libbpf: Allow BPF program auto-attach handlers to bail out")
+d130e954a002 ("libbpf: Fix libbpf.map inheritance chain for LIBBPF_0.7.0")

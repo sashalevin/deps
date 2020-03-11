@@ -1,0 +1,7 @@
+0257be79fc4a ("mtd: spi-nor: expose internal parameters via debugfs")
+c0abb861c5d0 ("mtd: spi-nor: Introduce templates for SPI NOR operations")
+27ff0d34fb7e ("mtd: spi-nor: spansion: Rework spi_nor_cypress_octal_dtr_enable()")
+4629adaff7bc ("mtd: spi-nor: micron-st: Rework spi_nor_micron_octal_dtr_enable()")
+a007d81aa525 ("mtd: spi-nor: manufacturers: Use spi_nor_read_id() core method")
+86b6b55ffbbc ("mtd: spi-nor: core: Introduce method for RDID op")
+bffabd1c727d ("mtd: spi-nor: core: Use auto-detection only once")

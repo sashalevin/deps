@@ -1,0 +1,8 @@
+ddbed9c211eb ("mtd: nand: xway: extract read and write function")
+e7e1f7be3354 ("mtd: nand: xway: fix nand locking")
+44772fa5ec41 ("mtd: nand: xway: remove manual reset")
+f45eb7b52235 ("mtd: nand: xway: Avoid messing up with IO_ADDR_W in ->cmd_ctrl()")
+024366750c2e ("mtd: nand: xway: convert to normal platform driver")
+3d8cec2234ea ("mtd: nand: xway: add some more documentation")
+4bd4ebcc540c ("mtd: nand: make use of mtd_to_nand() in NAND drivers")
+1d8d8b5c852b ("mtd: nand: fix drivers abusing mtd->priv")

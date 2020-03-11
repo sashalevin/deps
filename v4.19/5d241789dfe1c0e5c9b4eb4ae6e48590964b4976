@@ -1,0 +1,7 @@
+5d241789dfe1 ("mm/memcg: fix obsolete function name in mem_cgroup_protection()")
+22f7496f0b90 ("mm, memcg: avoid stale protection values when cgroup is above protection")
+1bc63fb1272b ("mm, memcg: make scan aggression always exclude protection")
+9de7ca46ad26 ("mm, memcg: make memory.emin the baseline for utilisation determination")
+9783aa9917f8 ("mm, memcg: proportional memory.{low,min} reclaim")
+f0c867d9588d ("mm, oom: add oom victim's memcg to the oom context information")
+ef8444ea01d7 ("mm, oom: reorganize the oom report in dump_header")

@@ -1,0 +1,7 @@
+0a78cf7264d2 ("raw: Fix NULL deref in raw_get_next().")
+6579f5bacc2c ("raw: use net_hash_mix() in hash function")
+af185d8c7633 ("raw: complete rcu conversion")
+f289c02bf41b ("raw: Use helpers for the hlist_nulls variant.")
+5da39e31b1b0 ("raw: Fix mixed declarations error in raw_icmp_error().")
+0daf07e52709 ("raw: convert raw sockets to RCU")
+ba44f8182ec2 ("raw: use more conventional iterators")

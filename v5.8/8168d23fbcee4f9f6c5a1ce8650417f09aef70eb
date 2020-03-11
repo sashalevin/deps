@@ -1,0 +1,4 @@
+8168d23fbcee ("nvme: fix memory leak freeing command effects")
+1cf7a12e09aa ("nvme: use an xarray to lookup the Commands Supported and Effects log")
+ecbcdf0c8126 ("nvme: Use spin_lock_irq() when taking the ctrl->lock")
+be93e87e7802 ("nvme: support for multiple Command Sets Supported and Effects log pages")

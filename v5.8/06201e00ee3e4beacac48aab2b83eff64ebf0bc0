@@ -1,0 +1,5 @@
+06201e00ee3e ("s390/mm: Re-enable the shared zeropage for !PV and !skeys KVM guests")
+49b0638502da ("mm: enable page walking API to lock vmas during the walk")
+6c21e066f925 ("mm/mempolicy: Take VMA lock before replacing policy")
+5c7f3bf04a6c ("s390: allow pte_offset_map_lock() to fail")
+493804a6895d ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

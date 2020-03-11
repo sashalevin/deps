@@ -1,0 +1,8 @@
+9798b1724ba4 ("drm/i915/guc: Move GuC priority fields in context under guc_active")
+5b116c17e6ba ("drm/i915/guc: Drop pin count check trick between sched_disable and re-pin")
+0f7976506de6 ("drm/i915/guc: Rework and simplify locking")
+52d66c06fd94 ("drm/i915/guc: Move guc_blocked fence to struct guc_state")
+f16d5cb981a5 ("drm/i915/guc: Don't touch guc_state.sched_state without a lock")
+d2420c2ed8f1 ("drm/i915/selftests: Add initial GuC selftest for scrubbing lost G2H")
+669b949c1a44 ("drm/i915/guc: Fix outstanding G2H accounting")
+fc30a6764a54 ("drm/i915/guc: Fix blocked context accounting")

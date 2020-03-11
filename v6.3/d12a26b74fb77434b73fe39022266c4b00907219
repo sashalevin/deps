@@ -1,0 +1,3 @@
+d12a26b74fb7 ("virtio_net: avoid data-races on dev->stats fields")
+4cb00b13c064 ("virtio_net: virtnet_build_xdp_buff_mrg() auto release xdp shinfo")
+80f50f918c6e ("virtio_net: separate the logic of freeing the rest mergeable buf")

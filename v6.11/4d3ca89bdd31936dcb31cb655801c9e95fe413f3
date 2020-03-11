@@ -1,0 +1,5 @@
+4d3ca89bdd31 ("sched_ext: Refactor consume_remote_task()")
+0366017e0973 ("sched_ext: Use task_can_run_on_remote_rq() test in dispatch_to_local_dsq()")
+89909296a51e ("sched_ext: Don't use double locking to migrate tasks across CPUs")
+2c390dda9e03 ("sched_ext: Make task_can_run_on_remote_rq() use common task_allowed_on_cpu()")
+3cf78c5d01d6 ("sched_ext: Unpin and repin rq lock from balance_scx()")

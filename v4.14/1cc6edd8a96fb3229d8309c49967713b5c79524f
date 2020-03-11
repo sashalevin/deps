@@ -1,0 +1,8 @@
+1cc6edd8a96f ("usb: cdns3: host: disable BEI support")
+68ed3f3d8a05 ("usb: cdns3: host: add xhci_plat_priv quirk XHCI_SKIP_PHY_INIT")
+ed22764847e8 ("usb: cdns3: host: add .suspend_quirk for xhci-plat.c")
+b1234e3b3b26 ("usb: cdns3: add runtime PM support")
+85820de1b610 ("usb: cdns3: delete role_override")
+af58e1fca984 ("usb: cdns3: should not use the same dev_id for shared interrupt handler")
+5053691a7d62 ("usb: cdns3: include host-export,h for cdns3_host_init")
+7733f6c32e36 ("usb: cdns3: Add Cadence USB3 DRD Driver")

@@ -1,0 +1,7 @@
+20914ff6dd56 ("exfat: move exfat_entry_set_cache from heap to stack")
+a3ff29a95fde ("exfat: support dynamic allocate bh for exfat_entry_set_cache")
+c6e2f52e3051 ("exfat: speed up iterate/lookup by fixing start point of traversing cluster chain")
+188df41f212c ("exfat: eliminate dead code in exfat_find()")
+8b0c47177381 ("exfat: add error check when updating dir-entries")
+3db3c3fb840e ("exfat: write multiple sectors at once")
+2c7f8937ef91 ("exfat: remove EXFAT_SB_DIRTY flag")

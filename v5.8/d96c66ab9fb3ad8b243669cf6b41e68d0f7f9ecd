@@ -1,0 +1,8 @@
+d96c66ab9fb3 ("KVM: arm64: Rationalise KVM banner output")
+1f3ca7023fe6 ("KVM: arm64: print Hyp mode")
+87727ba2bb05 ("KVM: arm64: Ensure CPU PMU probes before pKVM host de-privilege")
+53bf620a2cdf ("KVM: arm64: Mark kvm_arm_init() and its unique descendants as __init")
+1dc0f02d5338 ("KVM: arm64: Do arm/arch initialization without bouncing through kvm_init()")
+78b3bf485d5c ("KVM: arm64: Unregister perf callbacks if hypervisor finalization fails")
+6baaeda87844 ("KVM: arm64: Free hypervisor allocations if vector slot init fails")
+cfa72993d133 ("Merge branch kvm-arm64/pkvm-vcpu-state into kvmarm-master/next")

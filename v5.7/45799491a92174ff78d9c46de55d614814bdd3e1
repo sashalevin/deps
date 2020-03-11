@@ -1,0 +1,5 @@
+45799491a921 ("kbuild: remove ARCH=sh64 support from top Makefile")
+f02aa48dde8b ("kconfig: use /boot/config-* etc. as DEFCONFIG_LIST only for native build")
+b75b0a819af9 ("kconfig: change defconfig_list option to environment variable")
+19b835a5db93 ("kconfig: qconf: fix incomplete type 'struct gstr' warning")
+8b59cd81dc5e ("kbuild: ensure full rebuild when the compiler is updated")

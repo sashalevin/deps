@@ -1,0 +1,6 @@
+8832fc1e5026 ("udf: Fix lock ordering in udf_evict_inode()")
+b9a861fd527a ("udf: Protect truncate and file type conversion with invalidate_lock")
+96eeaaaea592 ("udf: Simplify error handling in udf_file_write_iter()")
+2d532616c768 ("udf: Push i_data_sem locking into udf_extend_file()")
+6a3b37e0ea20 ("udf: Push i_data_sem locking into udf_expand_file_adinicb()")
+256fe4162f8b ("udf: Do not update file length for failed writes to inline files")

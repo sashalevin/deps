@@ -1,0 +1,6 @@
+d6bd6cf9feb8 ("xen/grant-table: remove multiple BUG_ON on gnttab_interface")
+83c69324f438 ("xen: add grant interface version dependent constants to gnttab_ops")
+56c9c700c439 ("xen: limit grant v2 interface to the v1 functionality")
+b988b8ff072a ("xen: re-introduce support for grant v2 interface")
+29d11cfd8698 ("xen/grant-table: log the lack of grants")
+86fc2136736d ("xen/grant-table: constify gnttab_ops structure")

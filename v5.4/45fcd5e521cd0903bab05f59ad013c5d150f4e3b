@@ -1,0 +1,5 @@
+45fcd5e521cd ("integrity: add new keyring handler for mok keys")
+726bd8965a5f ("integrity: Load certs from the EFI MOK config table")
+38a1f03aa240 ("integrity: Move import of MokListRT certs to a separate routine")
+3be54d558c75 ("efi: Only print errors about failing to get certs if EFI vars are found")
+ad723674d675 ("x86/efi: move common keyring handler functions to new file")

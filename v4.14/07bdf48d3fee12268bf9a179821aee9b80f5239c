@@ -1,0 +1,6 @@
+07bdf48d3fee ("clkdev: Remove never used devm_clk_release_clkdev()")
+5a7efdacb9dd ("clkdev: Hold clocks_mutex while iterating clocks list")
+3eee6c7d119c ("clkdev: add managed clkdev lookup registration")
+bfc0cbfcad12 ("clk: Move __clk_{get,put}() into private clk.h API")
+0d4e3d005cb3 ("clk: Prepare to remove asm-generic/clkdev.h")
+aa795c41d9cd ("clk: Add devm_of_clk_add_hw_provider()/del_provider() APIs")

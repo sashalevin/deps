@@ -1,0 +1,6 @@
+700e7a8d05ea ("kconfig: turn missing prompt for choice members into error")
+1d7c4f10baac ("kconfig: remove zconf_curname() and zconf_lineno()")
+52907c07c49b ("kconfig: replace current_pos with separate cur_{filename,lineno}")
+313c6cd3c2d5 ("kconfig: fix off-by-one in zconf_error()")
+93c432e8c974 ("kconfig: fix line number in recursive inclusion detection")
+12e3342fc7b0 ("kconfig: remove unneeded buffer allocation in zconf_initscan()")

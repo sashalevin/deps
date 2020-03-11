@@ -1,0 +1,7 @@
+0746096faca0 ("KVM: arm64: Get rid of REG_HIDDEN_USER visibility qualifier")
+989fce63b2cb ("KVM: arm64: Simplify handling of CNTKCTL_EL12")
+94f29ab2d801 ("KVM: arm64: Force guest's HCR_EL2.E2H RES1 when NV1 is not implemented")
+9b9cce60be85 ("KVM: arm64: nv: Add EL2_REG_VNCR()/EL2_REG_REDIR() sysreg helpers")
+4d4f52052ba8 ("KVM: arm64: nv: Drop EL12 register traps that are redirected to VNCR")
+3f7915ccc902 ("KVM: arm64: Handle AArch32 SPSR_{irq,abt,und,fiq} as RAZ/WI")
+c7d11a61c7f7 ("KVM: arm64: Do not let a L1 hypervisor access the *32_EL2 sysregs")

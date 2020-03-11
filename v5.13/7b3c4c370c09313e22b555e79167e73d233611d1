@@ -1,0 +1,7 @@
+7b3c4c370c09 ("regmap: Rework regmap_mdio_c45_{read|write} for new C45 API.")
+65aa371ea52a ("net: Convert more users of mdiobus_* to mdiodev_*")
+0df0240946b1 ("regmap: mdio: Reject invalid addresses")
+f083be9db060 ("regmap: mdio: Add clause-45 support")
+dff404deb849 ("regmap: mdio: Clean up invalid clause-22 addresses")
+e56360d6a119 ("regmap: mdio: Don't modify output if error happened")
+1f89d2fe1607 ("regmap: Add MDIO bus support")

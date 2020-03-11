@@ -1,0 +1,3 @@
+3ddb3fd8cdb0 ("signal, perf: Fix siginfo_t by avoiding u64 on 32-bit architectures")
+f2c3c32f4500 ("selftests/perf_events: Add kselftest for process-wide sigtrap handling")
+fb6cc127e0b6 ("signal: Introduce TRAP_PERF si_code and si_perf to siginfo")

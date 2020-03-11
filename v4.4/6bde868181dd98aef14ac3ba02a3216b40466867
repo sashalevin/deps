@@ -1,0 +1,7 @@
+6bde868181dd ("mmc: sdhci: Move busy signal handling into sdhci_finish_cmd()")
+d3940f274796 ("mmc: sdhci: Do not call implementations of mmc host ops directly")
+ded97e0b1650 ("mmc: sdhci: removed unneeded function wrappers")
+15e82076a0ed ("mmc: sdhci: Remove redundant runtime PM calls")
+48857d9b7865 ("mmc: sdhci: move sdhci_pre_dma_transfer()")
+96776200898c ("mmc: sdhci: move initialisation of command error member")
+2e4456f08fa8 ("mmc: sdhci: Fix strings broken across multiple lines")

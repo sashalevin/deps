@@ -1,0 +1,7 @@
+dbbe7eaf0e47 ("dev_printk: add new dev_err_probe() helpers")
+9e0cace7a625 ("driver core: Move dev_err_probe() to where it belogs")
+f43243c66e5e ("driver core: device.h: remove extern from function prototypes")
+a787e5400a1c ("driver core: add device probe log helper")
+af628aae8640 ("device.h: move dev_printk()-like functions to dev_printk.h")
+e0b73d7beb91 ("linux/device.h: use DYNAMIC_DEBUG_BRANCH in dev_dbg_ratelimited")
+79a4e91d1bb2 ("device.h: Add __cold to dev_<level> logging functions")

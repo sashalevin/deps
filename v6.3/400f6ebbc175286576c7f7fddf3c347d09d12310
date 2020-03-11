@@ -1,0 +1,3 @@
+400f6ebbc175 ("wifi: iwlwifi: pcie: don't synchronize IRQs from IRQ")
+37fb29bd1f90 ("wifi: iwlwifi: pcie: synchronize IRQs before NAPI")
+5af2bb3168db ("wifi: iwlwifi: call napi_synchronize() before freeing rx/tx queues")

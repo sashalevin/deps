@@ -1,0 +1,3 @@
+619f51da0979 ("KVM: LAPIC: Drop pending LAPIC timer injection when canceling the timer")
+e898da784aed ("KVM: LAPIC: Write 0 to TMICT should also cancel vmx-preemption timer")
+94be4b85d895 ("KVM: LAPIC: Also cancel preemption timer when disarm LAPIC timer")

@@ -1,0 +1,6 @@
+9e49a4ed072a ("RISC-V: Make __NR_riscv_flush_icache visible to userspace")
+921ebd8f2c08 ("RISC-V: Allow userspace to flush the instruction cache")
+28dfbe6ed483 ("RISC-V: Add VDSO entries for clock_get/gettimeofday/getcpu")
+b7e5a591502b ("RISC-V: Remove __vdso_cmpxchg{32,64} symbol versions")
+e2c0cdfba7f6 ("RISC-V: User-facing API")
+fab957c11efe ("RISC-V: Atomic and Locking Code")

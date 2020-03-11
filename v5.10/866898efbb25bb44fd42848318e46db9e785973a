@@ -1,0 +1,8 @@
+866898efbb25 ("bcache: remove heap-related macros and switch to generic min_heap")
+3a861560ccb3 ("bcache: fix variable length array abuse in btree_iter")
+e34820f98451 ("bcache: fixup lock c->root error")
+80db4e4707e7 ("bcache: remove incremental dirty sector counting for bch_sectors_dirty_init()")
+4dc34ae1b45f ("bcache: improve multithreaded bch_sectors_dirty_init()")
+622536443b67 ("bcache: improve multithreaded bch_btree_check()")
+887554ab9658 ("bcache: fixup multiple threads crash")
+71dda2a5625f ("bcache: consider the fragmentation when update the writeback rate")

@@ -1,0 +1,4 @@
+0339f62a9a77 ("mtd: Add WARN_ON_ONCE() to mtd_read() to check the return value")
+2431c4f5b46c ("mtd: Implement mtd_{read,write}() as wrappers around mtd_{read,write}_oob()")
+24ff12922278 ("mtd: Fallback to ->_read/write_oob() when ->_read/write() is missing")
+33f45c44d68b ("mtd: Do not allow MTD devices with inconsistent erase properties")

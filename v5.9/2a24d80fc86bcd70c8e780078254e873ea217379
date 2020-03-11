@@ -1,0 +1,5 @@
+2a24d80fc86b ("powerpc/asm: Remove UPD_CONSTR after GCC 4.9 removal")
+6563139d90ad ("powerpc: remove GCC version check for UPD_CONSTR")
+5cd29b1fd3e8 ("powerpc/uaccess: Use asm goto for get_user when compiler supports it")
+ff57698a9610 ("powerpc: Fix update form addressing in inline assembly")
+592bbe9c505d ("powerpc/uaccess: Don't use "m<>" constraint with GCC 4.9")

@@ -1,0 +1,5 @@
+4091770969bf ("spi: pxa2xx: Don't use "proxy" headers")
+2a45166938f1 ("spi: pxa2xx: Move contents of linux/spi/pxa2xx_spi.h to a local one")
+9907c475dcab ("spi: pxa2xx: Drop ACPI_PTR() and of_match_ptr()")
+e3f209e269d3 ("spi: pxa2xx: Make num_chipselect 8-bit in the struct pxa2xx_spi_controller")
+7fd54c205f10 ("spi: pxa2xx: Kill pxa2xx_set_spi_info()")

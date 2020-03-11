@@ -1,0 +1,6 @@
+36aa1e6779c3 ("lib/stacktrace, kasan, kmsan: rework extra_bits interface")
+15ef6a982f40 ("lib/stackdepot: put functions in logical order")
+f80be4571b19 ("kmsan: add KMSAN runtime core")
+83a4f1ef45a9 ("stackdepot: reserve 5 extra bits in depot_stack_handle_t")
+f9987921cb54 ("lib/stackdepot: replace CONFIG_STACK_HASH_ORDER with automatic sizing")
+a5f1783be29a ("lib/stackdepot: allow requesting early initialization dynamically")

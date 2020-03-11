@@ -1,0 +1,8 @@
+8a25fa17b6ed ("scsi: megaraid_sas: Fix goto labels in error handling")
+64ff64b90e62 ("scsi: megaraid_sas: enable intx only if msix request fails")
+72bff2d1d0c9 ("scsi: megaraid_sas: Bail out the driver load if ld_list_query fails")
+fdd84e2514b0 ("scsi: megaraid_sas: SAS3.5 Generic Megaraid Controllers Stream Detection and IO Coalescing")
+2493c67e518c ("scsi: megaraid_sas: 128 MSIX Support")
+45f4f2eb3da3 ("scsi: megaraid_sas: Add new pci device Ids for SAS3.5 Generic Megaraid Controllers")
+fad119b707f8 ("scsi: megaraid_sas: switch to pci_alloc_irq_vectors")
+d0fc91d67c59 ("scsi: megaraid_sas: Send SYNCHRONIZE_CACHE for VD to firmware")

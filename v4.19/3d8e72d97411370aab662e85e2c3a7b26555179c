@@ -1,0 +1,8 @@
+3d8e72d97411 ("coda: check for async upcall request using local state")
+a9fba24c6ac9 ("coda: add hinting support for partial file caching")
+5bb44810f47a ("coda: ftoc validity check integration")
+b6a18c60080f ("coda: bump module version")
+4dc48193d748 ("coda: get rid of CODA_ALLOC()")
+5e7c31dfe747 ("coda: change Coda's user api to use 64-bit time_t in timespec")
+6ced9aa7b56b ("coda: stop using 'struct timespec' in user API")
+7fa0a1da3dad ("coda: pass the host file in vma->vm_file on mmap")

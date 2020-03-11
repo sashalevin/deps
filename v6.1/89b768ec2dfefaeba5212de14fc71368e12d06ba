@@ -1,0 +1,8 @@
+89b768ec2dfe ("l2tp: use rcu list add/del when updating lists")
+24256415d186 ("l2tp: prevent possible tunnel refcount underflow")
+d587d825424b ("l2tp: make session IDR and tunnel session list coherent")
+2146b7dd354c ("l2tp: fix l2tp_session_register with colliding l2tpv3 IDs")
+d18d3f0a24fc ("l2tp: replace hlist with simple list for per-tunnel session list")
+2a3339f6c963 ("l2tp: store l2tpv2 sessions in per-net IDR")
+aa5e17e1f5ec ("l2tp: store l2tpv3 sessions in per-net IDR")
+c4d48a58f32c ("l2tp: convert l2tp_tunnel_list to idr")

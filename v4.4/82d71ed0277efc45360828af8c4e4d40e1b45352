@@ -1,0 +1,3 @@
+82d71ed0277e ("perf/x86/intel: Properly save/restore the PMU state in the NMI handler")
+cecf62352aee ("perf/x86/intel: Don't disable "intel_bts" around "intel" event batching")
+c3d266c8a983 ("perf/x86/intel: Fix PEBS warning by only restoring active PMU in pmi")

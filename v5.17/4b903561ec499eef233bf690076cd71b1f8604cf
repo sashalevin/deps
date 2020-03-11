@@ -1,0 +1,8 @@
+4b903561ec49 ("KVM: x86: Add Corrected Machine Check Interrupt (CMCI) emulation to lapic.")
+987f625e0799 ("KVM: x86: Add APIC_LVTx() macro.")
+1d8c681fb6ed ("KVM: x86: Fill apic_lvt_mask with enums / explicit entries.")
+951ceb94ede3 ("KVM: x86: Make APIC_VERSION capture only the magic 0x14UL.")
+3743c2f02517 ("KVM: x86: inhibit APICv/AVIC on changes to APIC ID or APIC base")
+a9603ae0e4ee ("KVM: x86: document AVIC/APICv inhibit reasons")
+c538dc792ff7 ("KVM: SVM: Do not activate AVIC for SEV-enabled guest")
+7491b7b2e1c5 ("KVM: x86: Make APICv inhibit reasons an enum and cleanup naming")

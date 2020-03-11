@@ -1,0 +1,8 @@
+22ed8d5a4652 ("selftests/bpf: Add tests for kfunc returning a memory pointer")
+fb66223a244f ("selftests/bpf: add test for accessing ctx from syscall program type")
+012ba1156e4a ("selftests/bpf: regroup and declare similar kfuncs selftests in an array")
+1f0752628e76 ("bpf: Allow calling bpf_prog_test kfuncs in tracing programs")
+a4703e318432 ("bpf: Switch to new kfunc flags infrastructure")
+792c0a345f0e ("selftests/bpf: Add test for strict BTF type check")
+05a945deefaa ("selftests/bpf: Add verifier tests for kptr")
+a1ef19599652 ("bpf: Teach verifier about kptr_get kfunc helpers")

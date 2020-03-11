@@ -1,0 +1,6 @@
+c3015eb6e25a ("drm/i915/dg2: wait for HuC load completion before running selftests")
+b1cef13e9353 ("drm/i915/selftest/gsc: Ensure GSC Proxy init completes before selftests")
+aee90e929d76 ("drm/i915/gsc: Fix intel_gsc_uc_fw_proxy_init_done with directed wakerefs")
+561055b810ca ("drm/i915/mtl/gsc: Add a gsc_info debugfs")
+a6c13a23e96b ("drm/i915/mtl/gsc: query the GSC FW for its compatibility version")
+56fafa569764 ("drm/i915/mtl/gsc: extract release and security versions from the gsc binary")

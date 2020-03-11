@@ -1,0 +1,5 @@
+14606001efb4 ("device-dax: compound devmap support")
+a0fb038e50d7 ("device-dax: factor out page mapping initialization")
+b9b5777f09be ("device-dax: use ALIGN() for determining pgoff")
+f5516ec5efb9 ("device-dax: make pgmap optional for instance creation")
+174ebece379b ("device-dax: move instance creation parameters to 'struct dev_dax_data'")

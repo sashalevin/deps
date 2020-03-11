@@ -1,0 +1,8 @@
+2ff8a35bd79e ("staging: iio: tsl2583: remove unnecessary chip status checks in suspend/resume")
+c908fb76b29b ("staging: iio: tsl2583: split out functionality of taos_chip_on()")
+babe444798eb ("staging: iio: tsl2583: remove redundant power off sequence in taos_chip_on()")
+6bd0cb2b594b ("staging: iio: tsl2583: removed unused code from device probing")
+6ba5dee90b24 ("staging: iio: tsl2583: i2c_smbus_write_byte() / i2c_smbus_read_byte() migration")
+b3d941550d9d ("staging: iio: tsl2583: convert to use iio_chan_spec and {read,write}_raw")
+84bc1704cbf4 ("staging: iio: tsl2583: check return values from taos_chip_{on,off}")
+9d5f36d2419e ("staging: iio: tsl2583: check for error code from i2c_smbus_read_byte()")

@@ -1,0 +1,6 @@
+413643f3a3e2 ("mempool: use new mempool KASAN hooks")
+280ec6ccb642 ("kasan: rename kasan_slab_free_mempool to kasan_mempool_poison_object")
+e1fe7ee885dc ("io_uring: Add KASAN support for alloc_caches")
+efba1a9e653e ("io_uring: Move from hlist to io_wq_work_node")
+fd30d1cdcc4f ("io_uring: fix poll/netmsg alloc caches")
+b2b23ba03cb9 ("mempool: do not use ksize() for poisoning")

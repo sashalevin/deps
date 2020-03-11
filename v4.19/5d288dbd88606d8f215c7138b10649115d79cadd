@@ -1,0 +1,7 @@
+5d288dbd8860 ("efi: Make rng_seed table handling local to efi.c")
+e55f31a59947 ("efi: x86: move efi_is_table_address() into arch/x86")
+582a32e70882 ("efi/arm: Revert "Defer persistent reservations until after paging_init()"")
+eff896288872 ("efi/arm: Defer persistent reservations until after paging_init()")
+a23d3bb05ccb ("efi: add API to reserve memory persistently across kexec reboot")
+b844470f2206 ("efi/arm: libstub: add a root memreserve config table")
+71e0940d52e1 ("efi: honour memory reservations passed via a linux specific config table")

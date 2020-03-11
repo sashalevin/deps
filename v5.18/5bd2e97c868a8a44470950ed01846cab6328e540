@@ -1,0 +1,4 @@
+5bd2e97c868a ("fork: Generalize PF_IO_WORKER handling")
+36cb0e1cda64 ("fork: Explicity test for idle tasks in copy_thread")
+c5febea0956f ("fork: Pass struct kernel_clone_args into copy_thread")
+343f4c49f243 ("kthread: Don't allocate kthread_struct for init and umh")

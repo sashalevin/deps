@@ -1,0 +1,8 @@
+29cdef8539c3 ("drm/i915/display: Implement Wa_16021440873")
+d37b3dac68e2 ("drm/i915/psr: Fix intel_psr2_sel_fetch_et_alignment usage")
+f3b899f0b4b1 ("drm/i915/psr: Calculate PIPE_SRCSZ_ERLY_TPT value")
+7f85883e4a7b ("drm/i915/psr: Calculate and configure CUR_POS_ERLY_TPT")
+86b26b6aeac7 ("drm/i915/psr: Carry su area in crtc_state")
+1bff93b8bc27 ("drm/i915/psr: Extend SU area to cover cursor fully if needed")
+a4f477e6ac17 ("drm/i915/psr: Add proper handling for disabling sel fetch for planes")
+b1f5279b5981 ("drm/i915/psr: Move plane sel fetch configuration into plane source files")

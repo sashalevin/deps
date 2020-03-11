@@ -1,0 +1,8 @@
+08cc5616798d ("xhci: Clean up ERST_PTR_MASK inversion")
+044818a6cd80 ("xhci: Set DESI bits in ERDP register correctly")
+15f3ef070933 ("xhci: Clear EHB bit only at end of interrupt handler")
+4bf398e15aa4 ("xhci: split allocate interrupter into separate alloacte and add parts")
+4feb07d0ada3 ("xhci: mem: Join string literals back")
+b17a57f89f69 ("xhci: Refactor interrupter code for initial multi interrupter support.")
+54f9927dfe22 ("xhci: remove xhci_test_trb_in_td_math early development check")
+8c1cbec9db1a ("xhci: fix event ring segment table related masks and variables in header")

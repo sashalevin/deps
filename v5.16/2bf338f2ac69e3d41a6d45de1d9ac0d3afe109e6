@@ -1,0 +1,6 @@
+2bf338f2ac69 ("habanalabs: make some MMU functions common")
+a1b838adb080 ("habanalabs: fix possible deadlock in cache invl failure")
+234caa52736b ("habanalabs: rename reset flags")
+6ccba9a3bca9 ("habanalabs: partly skip cache flush when in PMMU map flow")
+82e5169e8adf ("habanalabs: add enum mmu_op_flags")
+89d6decdb734 ("habanalabs: make last_mask an MMU property")

@@ -1,0 +1,8 @@
+7af5b901e847 ("ARM: 9358/2: Implement PAN for LPAE by TTBR0 page table walks disablement")
+de7f60f0b031 ("ARM: 9357/2: Reduce the number of #ifdef CONFIG_CPU_SW_DOMAIN_PAN")
+c16af1212479 ("ARM: 9328/1: mm: try VMA lock-based page fault handling first")
+8b35ca3e45e3 ("arm/mm: Convert to using lock_mm_and_find_vma()")
+f177b06ed7d5 ("ARM: 9127/1: mm: Cleanup access_error()")
+488cab12c371 ("ARM: 9129/1: mm: Kill task_struct argument for __do_page_fault()")
+caed89dab0ca ("ARM: 9128/1: mm: Refactor the __do_page_fault()")
+8ac6f5d7f84b ("ARM: 9113/1: uaccess: remove set_fs() implementation")

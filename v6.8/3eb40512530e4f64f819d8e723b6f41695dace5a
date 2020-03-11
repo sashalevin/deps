@@ -1,0 +1,7 @@
+3eb40512530e ("cifs: Improve creating native symlinks pointing to directory")
+5a4b09ecf8e8 ("smb: client: add support for WSL reparse points")
+fa792d8d235c ("smb: client: reduce number of parameters in smb2_compound_op()")
+c520ba7573a8 ("smb: client: move most of reparse point handling code to common file")
+eb90e8ecb2b5 ("smb: client: introduce reparse mount option")
+71f15c90e785 ("smb: client: retry compound request without reusing lease")
+2c7d399e551c ("smb: client: reuse file lease key in compound operations")

@@ -1,0 +1,4 @@
+aedbe0a1af58 ("drm/i915: Remove PIN_UPDATE for i915_vma_pin")
+50689771c8f0 ("drm/i915: Only close vma we open")
+e07c7606a00c ("drm/i915/selftests: Fix i915_address_space refcnt leak")
+93159e12353c ("drm/i915/gem: Avoid gem_context->mutex for simple vma lookup")

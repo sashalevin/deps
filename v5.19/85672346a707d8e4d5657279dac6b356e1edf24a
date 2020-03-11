@@ -1,0 +1,6 @@
+85672346a707 ("KVM: zero output of KVM_GET_VCPU_EVENTS before filling in the struct")
+d4963e319f1f ("KVM: x86: Make kvm_queued_exception a properly named, visible struct")
+5623f751bd9c ("KVM: x86: Treat #DBs from the emulator as fault-like (code and DR7.GD=1)")
+8d178f460772 ("KVM: nVMX: Treat General Detect #DB (DR7.GD=1) as fault-like")
+eba9799b5a6e ("KVM: VMX: Drop bits 31:16 when shoving exception error code into VMCS")
+ed2351174e38 ("KVM: x86: Extend KVM_{G,S}ET_VCPU_EVENTS to support pending triple fault")

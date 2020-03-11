@@ -1,0 +1,7 @@
+82583daa2efc ("bpf: Add helpers for trampoline image management")
+7a3d9a159b17 ("bpf: Adjust argument names of arch_prepare_bpf_trampoline()")
+5c04433daf9e ("bpf: Charge modmem for struct_ops trampoline")
+8ba651ed7fa1 ("bpf: Support default .validate() and .update() behavior for struct_ops links")
+108598c39eef ("bpf: Fix memleak due to fentry attach failure")
+90564f1e3dd6 ("bpf, arm64: Support struct arguments in the BPF trampoline")
+a46441192084 ("selftests/bpf: Update the aarch64 tests deny list")

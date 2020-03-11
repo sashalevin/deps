@@ -1,0 +1,8 @@
+d250a3e4e5b4 ("selftests/seccomp: Test PTRACE_O_SUSPEND_SECCOMP without CAP_SYS_ADMIN")
+c97aedc52dce ("selftests/seccomp: Test SECCOMP_IOCTL_NOTIF_ADDFD")
+ad5682184a81 ("selftests/seccomp: Check for EPOLLHUP for user_notif")
+860f0a7792a5 ("selftests: Fix seccomp to support relocatable build (O=objdir)")
+0eebfed2954f ("seccomp: test SECCOMP_USER_NOTIF_FLAG_CONTINUE")
+88282297fff0 ("selftests/seccomp: fix build on older kernels")
+5bbc73a841d7 ("selftests: seccomp: use LDLIBS instead of LDFLAGS")
+6a21cc50f0c7 ("seccomp: add a return code to trap to userspace")

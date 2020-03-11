@@ -1,0 +1,8 @@
+30f6cf96912b ("mac80211: fix throughput LED trigger")
+196900fd97e2 ("mac80211: set sk_pacing_shift for 802.3 txpath")
+958574cbcc3a ("mac80211: remove redundant assignment of variable result")
+261e411bb283 ("mac80211: add KCOV remote annotations to incoming frame processing")
+ae0451527642 ("mac80211: set info->control.hw_key for encap offload packets")
+aea6a3f03108 ("mac80211: skip encap offload for tx multicast/control packets")
+96ae9cd02c0f ("mac80211: check and refresh aggregation session in encap offload tx")
+5f8d69eaab19 ("mac80211: add missing queue/hash initialization to 802.3 xmit")

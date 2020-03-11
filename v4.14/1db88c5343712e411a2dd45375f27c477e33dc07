@@ -1,0 +1,7 @@
+1db88c534371 ("rxrpc: Fix -Wframe-larger-than= warnings from on-stack crypto")
+69d826fa5da3 ("rxrpc: Remove VLA usage of skcipher")
+8c2f826dc363 ("rxrpc: Don't put crypto buffers on the stack")
+a158bdd3247b ("rxrpc: Fix call timeouts")
+481241789477 ("rxrpc: Split the call params from the operation params")
+48ca24636d5a ("rxrpc: Don't set upgrade by default in sendmsg()")
+dcbefc30fbc2 ("rxrpc: Fix call expiry handling")

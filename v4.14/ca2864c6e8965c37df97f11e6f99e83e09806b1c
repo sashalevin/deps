@@ -1,0 +1,8 @@
+ca2864c6e896 ("binder: Add default binder devices through binderfs when configured")
+793c82329376 ("binder: fix CONFIG_ANDROID_BINDER_DEVICES")
+36975fc3e5f2 ("binderfs: rework binderfs_fill_super()")
+7e7ca7744a53 ("binderfs: fix error return code in binderfs_fill_super()")
+849d540ddfcd ("binderfs: implement "max" mount option")
+b6c770d7c9dc ("binderfs: make each binderfs mount a new instance")
+3ad20fe393b3 ("binder: implement binderfs")
+6b6642dadd68 ("android: binder: use kstrdup instead of open-coding it")

@@ -1,0 +1,6 @@
+d308077e5e4d ("cpu/hotplug: Initialise all cpuhp_cpu_state structs earlier")
+b7ba6d8dc356 ("cpu/hotplug: Remove the 'cpu' member of cpuhp_cpu_state")
+ebca71a8c96f ("cpu/hotplug: Add debug printks for hotplug callback failures")
+2ea46c6fc945 ("cpumask/hotplug: Fix cpu_dying() state tracking")
+453e41085183 ("cpu/hotplug: Add cpuhp_invoke_callback_range()")
+62f250694092 ("cpu/hotplug: CPUHP_BRINGUP_CPU failure exception")

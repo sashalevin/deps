@@ -1,0 +1,5 @@
+1f1626ac0428 ("drm/ttm: fix ttm pool initialization for no-dma-device drivers")
+b0a7ce53d494 ("drm/ttm: Schedule delayed_delete worker closer")
+4482d3c94d7f ("drm/ttm: add NUMA node id to the pool")
+9bff18d13473 ("drm/ttm: use per BO cleanup workers")
+cd3a8a596214 ("drm/ttm: remove ttm_bo_(un)lock_delayed_workqueue")

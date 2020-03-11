@@ -1,0 +1,6 @@
+151936bf51af ("samples: bpf: Replace attach_tracepoint() to attach() in xdp_redirect_cpu")
+8ac91df6de16 ("samples: bpf: Refactor xdp_monitor with libbpf")
+ce4dade7f12a ("samples/bpf: xdp_redirect_cpu: Load a eBPF program on cpumap")
+a4e76f1bda8e ("samples/bpf: xdp_redirect_cpu_user: Do not update bpf maps in option loop")
+0efdcefb00d7 ("samples, bpf: Refactor pointer error check with libbpf")
+6a0981542854 ("samples/bpf: xdp_redirect_cpu: Set MAX_CPUS according to NR_CPUS")

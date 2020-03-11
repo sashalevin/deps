@@ -1,0 +1,6 @@
+e2fb47d4eb5c ("mlx4: Move the bond work to the core driver")
+73d68002a02e ("mlx4: Replace the mlx4_interface.event callback with a notifier")
+7ba189ac52ac ("mlx4: Use 'void *' as the event param of mlx4_dispatch_event()")
+ef5617e34376 ("mlx4: Rename member mlx4_en_dev.nb to netdev_nb")
+71ab55a9af80 ("mlx4: Get rid of the mlx4_interface.get_dev callback")
+3986892646de ("net/mlx4: Remove many unnecessary NULL values")

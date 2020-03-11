@@ -1,0 +1,6 @@
+709d56512fe8 ("scsi: target: Simplify core_tmr_handle_tas_abort()")
+73d4e580ccc5 ("target: Fix kref->refcount underflow in transport_cmd_finish_abort")
+0f4a943168f3 ("target: Fix remote-port TMR ABORT + se_cmd fabric stop")
+ebde1ca5a908 ("target: Fix TAS handling for multi-session se_node_acls")
+a6d9bb1c9605 ("target: Fix LUN_RESET active TMR descriptor handling")
+febe562c20df ("target: Fix LUN_RESET active I/O handling for ACK_KREF")

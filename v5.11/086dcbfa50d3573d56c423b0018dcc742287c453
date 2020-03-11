@@ -1,0 +1,6 @@
+086dcbfa50d3 ("btrfs: insert items in batches when logging a directory when possible")
+eb10d85ee77f ("btrfs: factor out the copying loop of dir items from log_dir_items()")
+289cffcb0399 ("btrfs: remove no longer needed checks for NULL log context")
+64d6b281ba4d ("btrfs: remove unnecessary check_parent_dirs_for_sync()")
+3e6a86a193b0 ("btrfs: skip logging directories already logged when logging all parents")
+ab12313a9f56 ("btrfs: avoid logging new ancestor inodes when logging new inode")

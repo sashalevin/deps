@@ -1,0 +1,8 @@
+1a9f219157b2 ("mm/hotplug: treat CMA pages as unmovable")
+d381c54760dc ("mm: only report isolation failures when offlining memory")
+2932c8b05056 ("mm, memory_hotplug: be more verbose for memory offline failures")
+381eab4a6ee8 ("mm/memory_hotplug: fix online/offline_pages called w.o. mem_hotplug_lock")
+fb52bbaee598 ("mm: move is_pageblock_removable_nolock() to mm/memory_hotplug.c")
+15c30bc09085 ("mm, memory_hotplug: make has_unmovable_pages more robust")
+d0dc12e86b31 ("mm/memory_hotplug: optimize memory hotplug")
+3ff1b28caaff ("Merge tag 'libnvdimm-for-4.16' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

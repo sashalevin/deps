@@ -1,0 +1,7 @@
+9338c2233b97 ("iscsi_ibft: Fix finding the iBFT under Xen Dom 0")
+7fd1d00bf818 ("iscsi_ibft: fix warning in reserve_ibft_region()")
+342f43af70db ("iscsi_ibft: fix crash due to KASLR physical memory remapping")
+a799c2bd29d1 ("x86/setup: Consolidate early memory reservations")
+e998879d4fb7 ("x86,swiotlb: Adjust SWIOTLB bounce buffer size for SEV guests")
+6950e31b35fd ("x86/efi: Push EFI_MEMMAP check into leaf routines")
+cc9b499a1f71 ("Merge branch 'efi-core-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

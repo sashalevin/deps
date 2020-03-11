@@ -1,0 +1,5 @@
+3f32dc0f4601 ("IB/core: Drop WARN_ON() from ib_umem_find_best_pgsz()")
+a665aca89a41 ("RDMA/umem: Split ib_umem_num_pages() into ib_umem_num_dma_blocks()")
+ebc24096c4c4 ("RDMA/umem: Add rdma_umem_for_each_dma_block()")
+10c75ccb54e4 ("RDMA/umem: Prevent small pages from being returned by ib_umem_find_best_pgsz()")
+a40c20dabdf9 ("RDMA/umem: Fix ib_umem_find_best_pgsz() for mappings that cross a page boundary")

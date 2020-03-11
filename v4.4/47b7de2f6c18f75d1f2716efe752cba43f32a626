@@ -1,0 +1,5 @@
+47b7de2f6c18 ("mmc: dw_mmc: fix falling from idmac to PIO mode when dw_mci_reset occurs")
+4e7392b2ac6e ("mmc: dw_mmc: move dw_mci_reset forward to avoid declaration")
+b6d2d81c5c2d ("mmc: dw_mmc: improve the timeout polling code")
+3b2a067b98b4 ("mmc: dw_mmc: avoid race condition of cpu and IDMAC")
+ec0baaa6b339 ("mmc: dw_mmc: split out preparation of desc for IDMAC32 and IDMAC64")

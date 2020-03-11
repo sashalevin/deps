@@ -1,0 +1,4 @@
+f044a84e040b ("crypto: don't optimize keccakf()")
+ba916b6a0339 ("crypto: sha3-generic - Use __optimize to support old compilers")
+4767b9ad7d76 ("crypto: sha3-generic - deal with oversize stack frames")
+83dee2ce1ae7 ("crypto: sha3-generic - rewrite KECCAK transform to help the compiler optimize")

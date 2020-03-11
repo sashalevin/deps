@@ -1,0 +1,5 @@
+1479e3d3b755 ("powerpc/64s: Fix hash fault to use TRAP accessor")
+a4922f5442e7 ("powerpc/64s: move the hash fault handling logic to C")
+36f0114140ee ("powerpc/64s: move DABR match out of handle_page_fault")
+11f9c1d2fb49 ("powerpc/mm: Move hpte_insert_repeating() prototype")
+5f1888a07706 ("powerpc/fault: Perform exception fixup in do_page_fault()")

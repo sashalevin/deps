@@ -1,0 +1,7 @@
+d49fc69293f2 ("MIPS: Loongson{2ef,64}: Wrap -mno-branch-likely with cc-option")
+0bb87f051e42 ("mips compat: switch to compat_binfmt_elf.c")
+2fb33bec053b ("mips: don't bother with ELF_CORE_EFLAGS")
+056f280f3b63 ("mips compat: don't bother with ELF_ET_DYN_BASE")
+c3cd7564819a ("mips: kill unused definitions in binfmt_elf[on]32.c")
+6835501e789a ("mips binfmt_elf*32.c: use elfcore-compat.h")
+14cfba2e906f ("Merge remote-tracking branch 'mips/mips-fixes' into work.elf-compat")

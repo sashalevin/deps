@@ -1,0 +1,5 @@
+e29e9ed665ee ("powerpc/smp: Remove get_physical_package_id")
+c72e8da06250 ("powerpc/smp: Use IS_ENABLED() to avoid #ifdef")
+4b4d181d6351 ("powerpc/smp: Drop superfluous NULL check")
+a05f0e5be4e8 ("powerpc/smp: Use nid as fallback for package_id")
+425752c63b6f ("powerpc: Detect the presence of big-cores via "ibm, thread-groups"")

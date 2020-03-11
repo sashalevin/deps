@@ -1,0 +1,8 @@
+e6be8cd5d3cf ("bpf: Fix error checks against bpf_get_btf_vmlinux().")
+e3f87fdfed7b ("bpf: hold module refcnt in bpf_struct_ops map creation and prog verification.")
+fcc2c1fb0651 ("bpf: pass attached BTF to the bpf_struct_ops subsystem")
+689423db3bda ("bpf: lookup struct_ops types from a given module BTF.")
+47f4f657acd5 ("bpf: make struct_ops_map support btfs other than btf_vmlinux.")
+4c5763ed996a ("bpf, net: introduce bpf_struct_ops_desc.")
+95678395386d ("bpf: get type information with BTF_ID_LIST")
+3b1f89e747cd ("bpf: refactory struct_ops type initialization to a function.")

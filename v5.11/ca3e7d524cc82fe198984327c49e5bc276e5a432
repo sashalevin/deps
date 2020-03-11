@@ -1,0 +1,7 @@
+ca3e7d524cc8 ("iio: buffer: use sysfs_attr_init() on allocated attrs")
+15097c7a1adc ("iio: buffer: wrap all buffer attributes into iio_dev_attr")
+3e3d11b2e43b ("iio: add reference to iio buffer on iio_dev_attr")
+d9a625744ed0 ("iio: core: merge buffer/ & scan_elements/ attributes")
+e2b4d7aca9db ("iio: buffer: group attr count and attr alloc")
+32f171724e5c ("iio: core: rework iio device group creation")
+e64506bf69b6 ("iio: core-trigger: make iio_device_register_trigger_consumer() an int return")

@@ -1,0 +1,2 @@
+6b292a04c694 ("pci_irq_vector() can't be used in atomic context any longer. This conflicts with the usage of this function in nic_mbx_intr_handler().")
+ce211b172b1e ("net: thunderx: Switch to pci_alloc_irq_vectors")

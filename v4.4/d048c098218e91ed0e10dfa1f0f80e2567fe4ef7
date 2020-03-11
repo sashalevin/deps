@@ -1,0 +1,5 @@
+d048c098218e ("KVM: nVMX: fix msr bitmaps to prevent L2 from accessing L0 x2APIC")
+4f2777bc9797 ("kvm: x86: nVMX: maintain internal copy of current VMCS")
+3ce424e45411 ("kvm:vmx: more complete state update on APICv on/off")
+d62caabb41f3 ("kvm/x86: per-vcpu apicv deactivation support")
+6308630bd3db ("kvm/x86: split ioapic-handled and EOI exit bitmaps")

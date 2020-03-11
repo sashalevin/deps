@@ -1,0 +1,6 @@
+aebef63cf7ff ("x86: Remove vendor checks from prefer_mwait_c1_over_halt")
+8bcedb4ce047 ("x86: Handle idle=nomwait cmdline properly for x86_idle")
+67e87d43b794 ("x86: Convert some slow-path static_cpu_has() callers to boot_cpu_has()")
+aa5eee355b46 ("Documentation: admin-guide: PM: Add cpuidle document")
+a0e6e0831c51 ("x86/ldt: Unmap PTEs for the slot before freeing LDT pages")
+99792e0cea1e ("Merge branch 'x86-mm-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

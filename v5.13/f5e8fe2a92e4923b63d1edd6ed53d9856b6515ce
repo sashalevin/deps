@@ -1,0 +1,6 @@
+f5e8fe2a92e4 ("KVM: selftests: Create VM with adjusted number of guest pages for perf tests")
+b65e1051e489 ("KVM: selftests: Use shorthand local var to access struct perf_tests_args")
+69cdcfa6f321 ("KVM: selftests: Require GPA to be aligned when backed by hugepages")
+c071ff41e150 ("KVM: selftests: Expose align() helpers to tests")
+609e6202ea5f ("KVM: selftests: Support multiple slots in dirty_log_perf_test")
+c33e05d9b067 ("KVM: selftests: Introduce access_tracking_perf_test")

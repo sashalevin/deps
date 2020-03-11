@@ -1,0 +1,5 @@
+43c5dbe98a39 ("block: don't require stable pages for non-PI metadata")
+e8bc14d116ae ("block: remove the blk_flush_integrity call in blk_integrity_unregister")
+3df49967f6f1 ("block: flush the integrity workqueue in blk_integrity_unregister")
+783a40a1b3ac ("block: check if a profile is actually registered in blk_integrity_unregister")
+1cb039f3dc16 ("bdi: replace BDI_CAP_STABLE_WRITES with a queue and a sb flag")

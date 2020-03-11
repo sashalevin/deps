@@ -1,0 +1,7 @@
+e4ca13f7d075 ("9p/trans_fd: abort p9_read_work if req status changed")
+6d35190f3953 ("9p: Rename req to rreq in trans_fd")
+728356dedeff ("9p: Add refcount to p9_req_t")
+43cbcbee9938 ("9p: rename p9_free_req() function")
+523adb6cc10b ("9p: embed fcall in req to round down buffer allocs")
+996d5b4db4b1 ("9p: Use a slab for allocating requests")
+1f7a4c73a739 ("Merge tag '9p-for-4.19-2' of git://github.com/martinetd/linux")

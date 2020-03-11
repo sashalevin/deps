@@ -1,0 +1,6 @@
+bd4d67f8ae55 ("libbpf: fix some typos in libbpf")
+097d8002b754 ("libbpf: Wire through log_true_size for bpf_btf_load() API")
+94e55c0fdaf4 ("libbpf: Wire through log_true_size returned from kernel for BPF_PROG_LOAD")
+8ccabeef9133 ("libbpf: Improve syscall tracing support in bpf_tracing.h")
+3c59623d8294 ("libbpf: Add support for fetching up to 8 arguments in kprobes")
+813847a31447 ("libbpf: Streamline bpf_attr and perf_event_attr initialization")

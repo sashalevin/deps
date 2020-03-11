@@ -1,0 +1,4 @@
+5ef82fe7f6bc ("mm/swap: convert __put_compound_page() to __folio_put_large()")
+8d29c7036f5f ("mm/swap: convert __put_page() to __folio_put()")
+2f58e5de6627 ("mm/swap: convert put_pages_list to use folios")
+ab5e653ee810 ("mm/swap: convert release_pages to use a folio internally")

@@ -1,0 +1,4 @@
+f9b11229b79c ("serial: 8250: Fix PM usage_count for console handover")
+e0830dbf71f1 ("serial: core: fix console port-lock regression")
+fe88c6489264 ("serial: core: fix port-lock initialisation")
+f743061a85f5 ("serial: core: Initialise spin lock before use in uart_configure_port()")

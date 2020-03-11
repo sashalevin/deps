@@ -1,0 +1,7 @@
+a903122bc0ca ("drm/i915: Drop pointless 'crtc' argument from *_crtc_clock_get()")
+f70a68bc1d18 ("drm/i915: convert vlv_dpio_read()/write() from pipe to phy")
+9fda18c2c32a ("drm/i915: add vlv_pipe_to_phy() helper to replace DPIO_PHY()")
+9d6953335284 ("drm/i915: move *_crtc_clock_get() to intel_dpll.c")
+bc872e300b64 ("drm/i915/display: add I915 conditional build to intel_dpio_phy.h")
+b13604c0ff26 ("drm/i915/display: split out load detect to a separate file")
+76ec69272195 ("drm/i915: Flag purely internal commits to not clear crtc_state->inherited")

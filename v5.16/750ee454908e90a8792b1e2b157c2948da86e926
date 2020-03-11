@@ -1,0 +1,6 @@
+750ee454908e ("btrfs: fix assertion failure when logging directory key range item")
+88d2beec7e53 ("btrfs: avoid logging all directory changes during renames")
+d5f5bd546552 ("btrfs: pass the dentry to btrfs_log_new_name() instead of the inode")
+732d591a5d6c ("btrfs: stop copying old dir items when logging a directory")
+a450a4af7433 ("btrfs: don't log unnecessary boundary keys when logging directory")
+339d03542484 ("btrfs: only copy dir index keys when logging a directory")

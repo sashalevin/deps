@@ -1,0 +1,6 @@
+e7b9bfd18476 ("bpf: Add SO_TXREHASH setsockopt")
+6503b9f29a47 ("bpf: Add getter and setter for SO_REUSEPORT through bpf_{g,s}etsockopt")
+3218231dbb16 ("bpf: Extend bind v4/v6 selftests for mark/prio/bindtoifindex")
+bcd6f4a8beda ("bpf: Allow to retrieve sol_socket opts from sock_addr progs")
+a540c81a2bcb ("selftests/bpf: Extend bind{4,6} programs with a call to bpf_setsockopt")
+a999696c547f ("selftests/bpf: Rewrite test_sock_addr bind bpf into C")

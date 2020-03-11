@@ -1,0 +1,6 @@
+571fae6e290d ("loop: Rework lo_ioctl() __user argument casting")
+550df5fdacff ("loop: Push loop_ctl_mutex down to loop_set_status()")
+4a5ce9ba5877 ("loop: Push loop_ctl_mutex down to loop_get_status()")
+a13165441d58 ("loop: Push lo_ctl_mutex down into individual ioctls")
+310ca162d779 ("block/loop: Use global lock for ioctl() operation.")
+b1ab5fa309e6 ("block/loop: Don't grab "struct file" for vfs_getattr() operation.")

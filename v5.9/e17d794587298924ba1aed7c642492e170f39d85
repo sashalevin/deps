@@ -1,0 +1,4 @@
+e17d79458729 ("mt76: mt7615: significantly reduce interrupt load")
+6e4f584e2be6 ("mt76: mt7615: do not do any work in napi poll after calling napi_complete_done()")
+40fde8c48695 ("mt76: mt7615: only clear unmasked interrupts in irq tasklet")
+0825af2d3307 ("mt76: mt7615: reschedule runtime-pm receiving a tx interrupt")

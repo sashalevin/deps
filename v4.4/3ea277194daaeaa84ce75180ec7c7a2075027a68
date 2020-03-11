@@ -1,0 +1,5 @@
+3ea277194daa ("mm, mprotect: flush TLB if potentially racing with a parallel reclaim leaving stale TLB entries")
+3e32158767b0 ("mm/mprotect.c: don't touch single threaded PTEs which are on the right node")
+854e9ed09ded ("mm: support madvise(MADV_FREE)")
+d281ee614518 ("rmap: add argument to charge compound page")
+eca56ff906bd ("mm, shmem: add internal shmem resident memory accounting")

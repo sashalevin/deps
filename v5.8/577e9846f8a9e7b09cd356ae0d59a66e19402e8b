@@ -1,0 +1,7 @@
+577e9846f8a9 ("mm/munlock: update Documentation/vm/unevictable-lru.rst")
+cd62734ca60d ("mm/rmap: split try_to_munlock from try_to_unmap")
+732ed55823fc ("mm/thp: try_to_unmap() use TTU_SYNC for safe splitting")
+e0af87ff7afc ("mm/rmap: remove unneeded semicolon in page_not_mapped()")
+15b447361794 ("mm/lru: revise the comments of lru_lock")
+013339df116c ("mm/rmap: always do TTU_IGNORE_ACCESS")
+336bf30eb765 ("hugetlbfs: fix anon huge page migration race")

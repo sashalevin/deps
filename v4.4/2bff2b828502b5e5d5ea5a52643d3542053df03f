@@ -1,0 +1,7 @@
+2bff2b828502 ("perf kvm stat: Set 'trace_cycles' as default event for 'perf kvm record' in powerpc")
+124eb5f82bf9 ("perf kvm: Add arch neutral function to choose event for perf kvm record")
+5afbb37c68ab ("perf powerpc kvm-stat: Add missing evlist.h header")
+5691903a6f52 ("perf kvm stat: Replace kvm-stat.h includes with forward declarations")
+78e6c39b231a ("perf kvm/powerpc: Add support for HCALL reasons")
+066d3593e1b1 ("perf kvm/powerpc: Port perf kvm stat to powerpc")
+162607ea20fa ("perf kvm/{x86,s390}: Remove dependency on uapi/kvm_perf.h")

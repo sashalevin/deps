@@ -1,0 +1,6 @@
+9336a5f64b54 ("kexec: Move ELF fields to struct kimage")
+f31e3386a4e9 ("ima: Free IMA measurement buffer after kexec syscall")
+7b8589cc29e7 ("ima: on soft reboot, save the measurement list")
+d158847ae89a ("ima: maintain memory size needed for serializing the measurement list")
+dcfc56937b62 ("ima: permit duplicate measurement list entries")
+94c3aac567a9 ("ima: on soft reboot, restore the measurement list")

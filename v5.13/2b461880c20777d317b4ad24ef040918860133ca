@@ -1,0 +1,7 @@
+2b461880c207 ("powerpc: Fix all occurences of duplicate words")
+e012c499985c ("powerpc/watchdog: help remote CPUs to flush NMI printk output")
+1f01bf90765f ("powerpc/watchdog: read TB close to where it is used")
+76521c4b0291 ("powerpc/watchdog: Avoid holding wd_smp_lock over printk and smp_send_nmi_ipi")
+858c93c31504 ("powerpc/watchdog: tighten non-atomic read-modify-write access")
+5dad4ba68a24 ("powerpc/watchdog: Fix missed watchdog reset due to memory ordering race")
+93d102f094be ("printk: remove safe buffers")

@@ -1,0 +1,7 @@
+f8bb51043945 ("virtio_net: suppress cpu stall when free_unused_bufs")
+6e345f8c7cd0 ("virtio_net: split free_unused_bufs()")
+5050471d35d1 ("virtio_net: Differentiate sk_buff and xdp_frame on freeing")
+07b344f494dd ("virtio_net: Use xdp_return_frame to free xdp_frames on destroying vqs")
+534da5e85633 ("virtio_net: Don't call free_old_xmit_skbs for xdp_frames")
+8be4d9a492f8 ("virtio_net: Don't enable NAPI when interface is down")
+df133f3f9625 ("virtio_net: bulk free tx skbs")

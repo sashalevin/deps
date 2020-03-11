@@ -1,0 +1,7 @@
+d48300120627 ("dm thin metadata: Fix ABBA deadlock by resetting dm_bufio_client")
+cf2e309ebca7 ("mm: shrinkers: convert shrinker_rwsem to mutex")
+b3cabea3c915 ("mm: vmscan: hold write lock to reparent shrinker nr_deferred")
+caa05325c912 ("mm: vmscan: make memcg slab shrink lockless")
+f95bdb700bc6 ("mm: vmscan: make global slab shrink lockless")
+42c9db397048 ("mm: vmscan: add a map_nr_max field to shrinker_info")
+3822a7c40997 ("Merge tag 'mm-stable-2023-02-20-13-37' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

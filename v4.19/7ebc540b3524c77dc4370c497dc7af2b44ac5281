@@ -1,0 +1,5 @@
+7ebc540b3524 ("infiniband: Use user_backed_iter() to see if iterator is UBUF/IOVEC")
+da67ba07b4aa ("IB/qib: check for user backed iterator, not specific iterator type")
+23ecdcd0c070 ("IB/hfi1: check for user backed iterator, not specific iterator type")
+629e052d0c98 ("RDMA/hfi1: Prevent panic when SDMA is disabled")
+be8638344c70 ("IB/hfi1: Close window for pq and request coliding")

@@ -1,1 +1,3 @@
 4be297016cd3 ("net/lib80211: move TKIP handling to ARC4 library code")
+1ad0f1603a6b ("crypto: drop mask=CRYPTO_ALG_ASYNC from 'cipher' tfm allocations")
+b802a5d6f345 ("lib80211: don't use skcipher")

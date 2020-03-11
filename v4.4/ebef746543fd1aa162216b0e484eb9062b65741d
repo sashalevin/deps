@@ -1,0 +1,7 @@
+ebef746543fd ("arm64: smp: Treat unknown boot failures as being 'stuck in kernel'")
+bb9052744f4b ("arm64: Handle early CPU boot failures")
+fce6361fe9b0 ("arm64: Move cpu_die_early to smp.c")
+ee02a15919cf ("arm64: Introduce cpu_die_early")
+c4bc34d20273 ("arm64: Add a helper for parking CPUs in a loop")
+2bf31a4a05f5 ("arm64: avoid dynamic relocations in early boot code")
+2a803c4db615 ("arm64: head.S: use memset to clear BSS")

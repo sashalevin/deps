@@ -1,0 +1,6 @@
+6c26bd4384da ("mm/mmap: Fix error return in do_vmi_align_munmap()")
+606c812eb1d5 ("mm/mmap: Fix error path in do_vmi_align_munmap()")
+457f67be5910 ("mm: introduce vma detached flag")
+73046fd00b06 ("mm: write-lock VMAs before removing them from VMA tree")
+5e31275cc997 ("mm: add per-VMA lock and helper functions to control it")
+438b6e12cd60 ("mm: move mmap_lock assert function definitions")

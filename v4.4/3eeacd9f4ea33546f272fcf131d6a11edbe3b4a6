@@ -1,0 +1,5 @@
+3eeacd9f4ea3 ("powerpc/ptrace: Don't use sizeof(struct pt_regs) in ptrace code")
+a8a4b03ab95f ("powerpc: Hard wire PT_SOFTE value to 1 in ptrace & signals")
+19cbcbf75a0c ("powerpc/ptrace: Enable support for NT_PPC_CFPR")
+25847fb195ae ("powerpc/ptrace: Enable support for NT_PPC_CGPR")
+04fcadce0e5a ("powerpc/ptrace: Adapt gpr32_get, gpr32_set functions for transaction")

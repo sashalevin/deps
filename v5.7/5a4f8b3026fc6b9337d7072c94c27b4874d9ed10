@@ -1,0 +1,4 @@
+5a4f8b3026fc ("KVM: x86/pmu: Squash period for checkpointed events based on host HLE/RTM")
+e644896f5106 ("KVM: x86/pmu: Fix and isolate TSX-specific performance event logic")
+b8bfee85f130 ("KVM: x86/pmu: Don't truncate the PerfEvtSeln MSR when creating a perf event")
+7c174f305cbe ("KVM: x86/pmu: Refactoring find_arch_event() to pmc_perf_hw_id()")

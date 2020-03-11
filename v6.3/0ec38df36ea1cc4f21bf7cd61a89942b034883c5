@@ -1,0 +1,5 @@
+0ec38df36ea1 ("ice: do not re-enable miscellaneous interrupt until thread_fn completes")
+9a8648cce8d8 ("ice: trigger PFINT_OICR_TSYN_TX interrupt instead of polling")
+ae39eb42dd06 ("ice: introduce ICE_TX_TSTAMP_WORK enumeration")
+d578e618f192 ("ice: always return IRQ_WAKE_THREAD in ice_misc_intr()")
+6e8b2c88fc8c ("ice: handle extts in the miscellaneous interrupt thread")

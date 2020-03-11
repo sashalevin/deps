@@ -1,0 +1,5 @@
+65b0a469e9e6 ("fm10k: move fm10k_prepare_for_reset and fm10k_handle_reset")
+3ee7b3a3b9de ("fm10k: use a BITMAP for flags to avoid race conditions")
+0035ddf4399c ("fm10k: remove FM10K_FLAG_DEBUG_STATS")
+b5db29f08afc ("fm10k: report the receive timestamp in FM10K_CB(skb)->tstamp")
+2f3fc1e62003 ("fm10k: request reset when mbx->state changes")

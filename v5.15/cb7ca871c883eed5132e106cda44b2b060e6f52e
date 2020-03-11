@@ -1,0 +1,5 @@
+cb7ca871c883 ("tracing/osnoise: Skip running osnoise if all instances are off")
+4998e7fda149 ("tracing/osnoise: Switch from PF_NO_SETAFFINITY to migrate_disable")
+dd990352f01e ("tracing/osnoise: Make osnoise_main to sleep for microseconds")
+dae181349f1e ("tracing/osnoise: Support a list of trace_array *tr")
+15ca4bdb0327 ("tracing/osnoise: Split workload start from the tracer start")

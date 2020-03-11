@@ -1,0 +1,5 @@
+dbf107b2a7f3 ("fuse: Remove the buggy retranslation of pids in fuse_dev_do_read")
+5d6d3a301c4e ("fuse: allow server to run in different pid_ns")
+0b6e9ea041e6 ("fuse: Add support for pid namespaces")
+4e8c2eb54327 ("fuse: convert fuse_file.count from atomic_t to refcount_t")
+267d84449f52 ("fuse: cleanup fuse_file refcounting")

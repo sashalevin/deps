@@ -1,0 +1,6 @@
+9cb23f598c64 ("perf/ibs: Fix comment")
+dde994dd54fb ("perf report: Add tools/arch/x86/include/asm/amd-ibs.h")
+6a371bafe613 ("perf/x86/amd/ibs: Add bitfield definitions in new <asm/amd-ibs.h> header")
+8b0bed7d410f ("perf/x86/amd/ibs: Support 27-bit extended Op/cycle counter")
+680d69635005 ("perf/x86/amd/ibs: Don't include randomized bits in get_ibs_op_count()")
+bd5c6b81dd60 ("perf bench: Update the copies of x86's mem{cpy,set}_64.S")

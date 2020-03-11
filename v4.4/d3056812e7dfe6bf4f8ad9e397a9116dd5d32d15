@@ -1,0 +1,7 @@
+d3056812e7df ("genirq/affinity: Spread irq vectors among present CPUs as far as possible")
+1a2d0914e23a ("genirq/affinity: Allow irq spreading from a given starting point")
+b3e6aaa8d94d ("genirq/affinity: Move actual irq vector spreading into a helper function")
+47778f33dcba ("genirq/affinity: Rename *node_to_possible_cpumask as *node_to_cpumask")
+0211e12dd0a5 ("genirq/affinity: Don't return with empty affinity masks on error")
+84676c1f21e8 ("genirq/affinity: assign vectors to all possible CPUs")
+f263fbb8d608 ("Merge tag 'pci-v4.13-changes' of git://git.kernel.org/pub/scm/linux/kernel/git/helgaas/pci")

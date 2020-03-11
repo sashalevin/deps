@@ -1,0 +1,8 @@
+e44111ed20d8 ("rcu: Add ->rt_priority and ->gp_start to show_rcu_gp_kthreads() output")
+47fbb074536e ("rcu: Use data_race() for RCU CPU stall-warning prints")
+5648d6591230 ("rcu: Don't flag non-starting GPs before GP kthread is running")
+8ff37290d662 ("rcu: Add *_ONCE() for grace-period progress indicators")
+2906d2154cd6 ("rcu: Add WRITE_ONCE() to rcu_state ->gp_req_activity")
+130d9c331bc5 ("rcu/tree: Fix SCHED_FIFO params")
+1a763fd7c633 ("rcu/tree: Call setschedule() gp ktread to SCHED_FIFO outside of atomic region")
+6cdbc07a5adc ("Merge branches 'consolidate.2019.04.09a', 'doc.2019.03.26b', 'fixes.2019.03.26b', 'srcu.2019.03.26b', 'stall.2019.03.26b' and 'torture.2019.03.26b' into HEAD")

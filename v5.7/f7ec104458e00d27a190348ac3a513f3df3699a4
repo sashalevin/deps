@@ -1,0 +1,4 @@
+f7ec104458e0 ("mm/page_alloc: fix counting of managed_pages")
+470c61d70299 ("mm: page_alloc: refactor setup_per_zone_lowmem_reserve()")
+f63661566fad ("mm/page_alloc.c: clear out zone->lowmem_reserve[] if the zone is empty")
+86aaf255437a ("mm/page_alloc.c: only tune sysctl_lowmem_reserve_ratio value once when changing it")

@@ -1,0 +1,6 @@
+3f31e0d14d44 ("bpf: Add sockptr support for setsockopt")
+55db9c0e8534 ("net: remove compat_sys_{get,set}sockopt")
+4d295e546115 ("net: simplify cBPF setsockopt compat handling")
+d8a9b38f83ea ("net: streamline __sys_getsockopt")
+4a3672993f95 ("net: streamline __sys_setsockopt")
+83f0c10bc36f ("net: use mptcp setsockopt function for SOL_SOCKET on mptcp sockets")

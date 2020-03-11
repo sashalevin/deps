@@ -1,0 +1,3 @@
+f5194e34caba ("btrfs: lift uuid_mutex to callers of btrfs_open_devices")
+20c5bbc640cd ("btrfs: restore uuid_mutex in btrfs_open_devices")
+542c5908abfe ("btrfs: replace uuid_mutex by device_list_mutex in btrfs_open_devices")

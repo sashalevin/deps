@@ -1,0 +1,8 @@
+85c3222dddc6 ("selinux: Implement mptcp_add_subflow hook")
+3eb8eaf2ca3e ("security: implement sctp_assoc_established hook in selinux")
+c081d53f97a1 ("security: pass asoc to sctp_assoc_request and sctp_sk_clone")
+21c00a186fac ("net: sctp: Fix some typos")
+41dd9596d6b2 ("security: add const qualifier to struct sock in various places")
+a2af03188507 ("Smack: Set socket labels only once")
+36be81293dbe ("Smack: Consolidate uses of secmark into a function")
+fe5a90b8c149 ("selinux: netlabel: Remove unused inline function")

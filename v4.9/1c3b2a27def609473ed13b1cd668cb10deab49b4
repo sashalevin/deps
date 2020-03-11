@@ -1,0 +1,6 @@
+1c3b2a27def6 ("drm/nouveau/clk: Fix an incorrect NULL check on list iterator")
+1f7f3d91ad38 ("drm/nouveau/clk: Respect voltage limits in nvkm_cstate_prog")
+0d6f81003e9e ("drm/nouveau/clk: Fixup cstate selection")
+8d08c264d2b2 ("drm/nouveau/volt: Add temperature parameter to nvkm_volt_map")
+fa6c4d8e2c61 ("drm/nouveau/volt: Add min_id parameter to nvkm_volt_set_id")
+17d063dbdce3 ("drm/nouveau/clk: Don't create cstates with voltages higher than what the gpu can do")

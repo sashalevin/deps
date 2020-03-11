@@ -1,0 +1,4 @@
+84a44a812574 ("scsi: uas: Switch to using ->device_configure to configure queue limits")
+5b7dfbeff92a ("scsi: core: Add a dma_alignment field to the host and host template")
+afd53a3d8528 ("scsi: core: Initialize scsi midlayer limits before allocating the queue")
+4373d2ecca7f ("scsi: bsg: Pass queue_limits to bsg_setup_queue()")

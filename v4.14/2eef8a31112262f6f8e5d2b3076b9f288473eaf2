@@ -1,0 +1,7 @@
+2eef8a311122 ("NFS: Trace lookup revalidation failure")
+47397915ede0 ("NFS: Don't gratuitously clear the inode cache when lookup failed")
+82e7ca1334ab ("NFS: Don't revalidate the directory permissions on a lookup failure")
+406cd91533dc ("NFS: Refactor nfs_instantiate() for dentry referencing callers")
+5ceb9d7fdaaf ("NFS: Refactor nfs_lookup_revalidate()")
+b0c6108ecf64 ("nfs_instantiate(): prevent multiple aliases for directory inode")
+6aa7de059173 ("locking/atomics: COCCINELLE/treewide: Convert trivial ACCESS_ONCE() patterns to READ_ONCE()/WRITE_ONCE()")

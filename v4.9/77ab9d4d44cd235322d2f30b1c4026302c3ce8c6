@@ -1,0 +1,8 @@
+77ab9d4d44cd ("ACPI: video: Remove acpi_video_set_dmi_backlight_type()")
+6cb634d0dc85 ("ACPI: video: Remove code to unregister acpi_video backlight when a native backlight registers")
+3dbc80a3e4c5 ("ACPI: video: Make backlight class device registration a separate step (v2)")
+038a8191ae7a ("ACPI: video: Simplify acpi_video_unregister_backlight()")
+2600bfa3df99 ("ACPI: video: Add acpi_video_backlight_use_native() helper")
+5ad26161a371 ("ACPI: video: Fix acpi_video_handles_brightness_key_presses()")
+3a0cf7ab8df3 ("ACPI: video: Change how we determine if brightness key-presses are handled")
+e0e13705edd9 ("ACPI: video: Remove leftover ACPICA debug code")

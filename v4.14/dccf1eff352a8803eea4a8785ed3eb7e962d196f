@@ -1,0 +1,4 @@
+dccf1eff352a ("drm/amdgpu: give warning before sleep in kiq_r/wreg")
+a22144a58f78 ("drm/amdgpu: try again kiq access if not in IRQ(v4)")
+cdd9a8b8599b ("drm/amdgpu: use irq-safe lock for kiq->ring_lock")
+43ca8efa46d9 ("drm/amdgpu: busywait KIQ register accessing (v4)")

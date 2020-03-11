@@ -1,0 +1,8 @@
+7ba6b73db3db ("ACPI: scan: Move acpi_root to internal header")
+0ac2c0e4ff4b ("ACPI: Remove the macro PREFIX "ACPI: "")
+eb50aaf960e3 ("ACPI: scan: Use unique number for instance_no")
+e52d9d8c0864 ("ACPI: scan: Clean up printing messages")
+c1013ff7a547 ("ACPI: scan: Rearrange memory allocation in acpi_device_add()")
+a58015d638cd ("ACPI: scan: Harden acpi_device_add() against device ID overflows")
+6091b2631032 ("ACPI: scan: Call acpi_get_object_info() from acpi_add_single_object()")
+63347db0affa ("ACPI / scan: Use acpi_bus_get_status() to initialize ACPI_TYPE_DEVICE devs")

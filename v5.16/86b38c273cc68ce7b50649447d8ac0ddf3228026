@@ -1,0 +1,6 @@
+86b38c273cc6 ("ext4: Convert ext4_block_write_begin() to take a folio")
+0b5a254395dc ("ext4: Use a folio in ext4_da_write_begin()")
+4d934a5e6caa ("ext4: Convert ext4_write_begin() to use a folio")
+51e4e3153ebc ("fscrypt: support decrypting data from large folios")
+4fa512ce7051 ("fs/buffer.c: support fsverity in block_read_full_folio()")
+bc32a6330fb0 ("Merge tag 'ext4_for_linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tytso/ext4")

@@ -1,0 +1,7 @@
+5327f34bf8ee ("pwm: sun4i: Simplify with dev_err_probe()")
+cba8d3bfdc96 ("pwm: sun4i: Fix inconsistent IS_ERR and PTR_ERR")
+5b090b430d75 ("pwm: sun4i: Add an optional probe for bus clock")
+b8d74644f34a ("pwm: sun4i: Prefer "mod" clock to unnamed")
+a7fe985633f9 ("pwm: sun4i: Add an optional probe for reset line")
+df4f6e8c9f08 ("pwm: sunxi: Use of_device_get_match_data()")
+93e0dfb2c52f ("pwm: sun4i: Improve hardware read out")

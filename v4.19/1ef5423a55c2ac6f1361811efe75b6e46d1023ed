@@ -1,0 +1,7 @@
+1ef5423a55c2 ("x86/fpu: Handle FPU-related and clearcpuid command line arguments earlier")
+0a4bb5e5507a ("x86/fpu: Allow multiple bits in clearcpuid= parameter")
+7891bc0ab739 ("x86/fpu: Inline fpu__xstate_clear_all_cpu_caps()")
+9838e3bff0f9 ("x86/fpu: Make 'no387' and 'nofxsr' command line options useful")
+abd16d68d652 ("x86/fpu: Use a feature number instead of mask in two more helpers")
+07baeb04f37c ("x86/fpu: Make __raw_xsave_addr() use a feature number instead of mask")
+312a46615510 ("Merge branch 'x86-cleanups-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

@@ -1,0 +1,7 @@
+ffcfe25bb50f ("net: Add support for subordinate device traffic classes")
+d7be97756f8a ("net-sysfs: Drop support for XPS and traffic_class on single queue device")
+664088f8d681 ("net-sysfs: Fix memory leak in XPS configuration")
+184c449f91fe ("net: Add support for XPS with QoS via traffic classes")
+6234f87407cb ("net: Refactor removal of queues from XPS map and apply on num_tc changes")
+8d059b0f6f5b ("net: Add sysfs value to determine queue traffic class")
+9cf1f6a8c4cb ("net: Move functions for configuring traffic classes out of inline headers")

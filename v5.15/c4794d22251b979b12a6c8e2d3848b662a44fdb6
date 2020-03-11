@@ -1,0 +1,7 @@
+c4794d22251b ("ipv4: tunnels: use DEV_STATS_INC()")
+4eadb88244d1 ("ipmr: do not acquire mrt_lock while calling ip_mr_forward()")
+559260fd9d9a ("ipmr: do not acquire mrt_lock in ioctl(SIOCGETVIFCNT)")
+646679881a02 ("ipmr: ipmr_cache_report() changes")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")
+42120a864383 ("ipmr, ip6mr: add net device refcount tracker to struct vif_device")

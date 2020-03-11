@@ -1,0 +1,8 @@
+9b97bea90072 ("powerpc/vdso: Remove cvdso_call_time macro")
+550e6074c106 ("powerpc/vdso: Remove unused \tmp param in __get_datapage()")
+ab037dd87a2f ("powerpc/vdso: Switch VDSO to generic C implementation.")
+7fec9f5d4197 ("powerpc/vdso: Save and restore TOC pointer on PPC64")
+ce7d8056e38b ("powerpc/vdso: Prepare for switching VDSO to generic C implementation.")
+4c62285439f8 ("Revert "powerpc/build: vdso linker warning for orphan sections"")
+f2af201002a8 ("powerpc/build: vdso linker warning for orphan sections")
+793d74a8c78e ("powerpc/vdso64: Switch from __get_datapage() to get_datapage inline macro")

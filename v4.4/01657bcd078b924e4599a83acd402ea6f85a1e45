@@ -1,0 +1,8 @@
+01657bcd078b ("bnxt_en: Modify init sequence to support shared or non shared rings.")
+6e6c5a57fbe1 ("bnxt_en: Modify bnxt_get_max_rings() to support shared or non shared rings.")
+b6ab4b01f53b ("bnxt_en: Separate bnxt_{rx|tx}_ring_info structs from bnxt_napi struct.")
+9f5545905fbc ("bnxt_en: Refactor bnxt_dbg_dump_states().")
+b72d4a68c443 ("bnxt_en: Keep track of the ring group resource.")
+4a21b49b34c0 ("bnxt_en: Improve VF resource accounting.")
+92268c328a8d ("bnxt_en: Cleanup bnxt_hwrm_func_cfg().")
+edd0c2cc2b73 ("bnxt_en: Optimize ring alloc and ring free functions.")

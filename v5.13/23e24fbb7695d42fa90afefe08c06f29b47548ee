@@ -1,0 +1,5 @@
+23e24fbb7695 ("drm/amdgpu: parameterize ttm BO destroy callback")
+31c759bbe383 ("drm/amdgpu: switch kzalloc to kvzalloc in amdgpu_bo_create")
+6fdd6f4aa5c7 ("drm/amdgpu: add amdgpu_bo_vm bo type")
+3c609c8b1f2f ("drm/amdgpu: free the metadata buffer for sg type BOs as well")
+cd2454d6cd97 ("drm/amdgpu: cleanup amdgpu_bo_create()")

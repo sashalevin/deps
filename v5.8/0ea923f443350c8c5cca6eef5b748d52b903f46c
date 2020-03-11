@@ -1,0 +1,6 @@
+0ea923f44335 ("mtdchar: mark bits of ioctl handler noinline")
+095bb6e44eb1 ("mtdchar: add MEMREAD ioctl")
+6420ac0af95d ("mtdchar: prevent unbounded allocation in MEMWRITE ioctl")
+e3c1f1c92d6e ("mtd: add OTP (one-time-programmable) erase ioctl")
+1e97743fd180 ("mtd: require write permissions for locking and badblock ioctls")
+f7e6b19bc764 ("mtd: properly check all write ioctls for permissions")

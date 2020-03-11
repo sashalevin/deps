@@ -1,0 +1,7 @@
+ff8288ff475e ("fork: Rename bad_fork_cleanup_threadgroup_lock to bad_fork_cleanup_delayacct")
+6692c98c7df5 ("fork: Stop protecting back_fork_cleanup_cgroup_lock with CONFIG_NUMA")
+40966e316f86 ("kthread: Ensure struct kthread is present for all kthreads")
+bbda86e988d4 ("exit: Implement kthread_exit")
+0e25498f8cd4 ("exit: Add and use make_task_dead.")
+2e707106fac7 ("ARM: 9130/1: mm: Provide die_kernel_fault() helper")
+00b89fe0197f ("sched: Make the idle task quack like a per-CPU kthread")

@@ -1,0 +1,7 @@
+8a70c6b162e3 ("perf augmented_raw_syscalls: Fix up comment")
+c52a82f77963 ("perf augmented_raw_syscalls: Copy strings from all syscalls with 1st or 2nd string arg")
+c48ee107bb38 ("perf augmented_raw_syscalls: Copy 'access' arg as well")
+4aa792de0b13 ("Revert "perf augmented_syscalls: Drop 'write', 'poll' for testing without self pid filter"")
+77ecb64050ff ("perf augmented_syscalls: Drop 'write', 'poll' for testing without self pid filter")
+79ef68c7e1f6 ("perf augmented_syscalls: Start collecting pathnames in the BPF program")
+febf8a3712e4 ("perf examples bpf: Start augmenting raw_syscalls:sys_{start,exit}")

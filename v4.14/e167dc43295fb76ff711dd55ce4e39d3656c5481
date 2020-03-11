@@ -1,0 +1,7 @@
+e167dc43295f ("thermal: qoriq: Add local struct device pointer")
+4d82000af007 ("thermal: qoriq: Use devm_platform_ioremap_resource() instead of of_iomap()")
+11f0cdc8bd62 ("thermal: qoriq: Fix error path of calling qoriq_tmu_register_tmu_zone fail")
+51904045d4aa ("thermal: qoriq: Add clock operations")
+f86a7a847ca3 ("thermal: qoriq: Remove unnecessary DT node is NULL check")
+7797ff424818 ("thermal: qoriq: add multiple sensors support")
+0ef7791e2bfb ("Merge branch 'linus' of git://git.kernel.org/pub/scm/linux/kernel/git/evalenti/linux-soc-thermal")

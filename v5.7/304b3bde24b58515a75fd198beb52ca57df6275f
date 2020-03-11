@@ -1,0 +1,6 @@
+304b3bde24b5 ("iommu/vt-d: Remove caching mode check before device TLB flush")
+402e6688a7df ("iommu/vt-d: Remove intel_iommu::domains")
+bb7125739611 ("iommu/vt-d: Use bitmap_zalloc() when applicable")
+5e41c9989493 ("iommu/vt-d: Remove unnecessary oom message")
+3db9983e4327 ("iommu/vt-d: Move domain helper to header")
+327d5b2fee91 ("iommu/vt-d: Allow 32bit devices to uses DMA domain")

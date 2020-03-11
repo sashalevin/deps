@@ -1,0 +1,4 @@
+d823445b09a2 ("drm/i915/uncore: fix race around i915->params.mmio_debug")
+7afe2340641d ("drm/i915/uncore: split unclaimed_reg_debug() to header and footer")
+639e30ee3950 ("drm/i915: Only hook up uncore->debug for primary uncore")
+f16bfc1d5de0 ("drm/i915: Move locking and unclaimed check into mmio_debug_{suspend, resume}")

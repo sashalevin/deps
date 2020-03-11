@@ -1,0 +1,7 @@
+3499ba8198ca ("xen: Fix event channel callback via INTX/GSI")
+fd8aa9095a95 ("xen: optimize xenbus driver for multiple concurrent xenstore accesses")
+5584ea250ae4 ("xen: modify xenstore watch event interface")
+332f791dc98d ("xen: clean up xenbus internal headers")
+61033e089cde ("xen: remove stale xs_input_avail() from header")
+9a6161fe73bd ("xen: return xenstore command failures via response instead of rc")
+639b08810d6a ("xen: xenbus driver must not accept invalid transaction ids")

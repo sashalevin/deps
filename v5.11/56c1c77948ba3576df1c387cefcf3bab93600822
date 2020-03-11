@@ -1,0 +1,4 @@
+56c1c77948ba ("ipv6: add net device refcount tracker to struct ip6_tnl")
+48bb5697269a ("ip6_tunnel: sit: proper dev_{hold|put} in ndo_[un]init methods")
+40cb881b5aaa ("ip6_vti: proper dev_{hold|put} in ndo_[un]init methods")
+7f700334be9a ("ip6_gre: proper dev_{hold|put} in ndo_[un]init methods")

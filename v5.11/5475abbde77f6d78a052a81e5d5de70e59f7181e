@@ -1,0 +1,5 @@
+5475abbde77f ("x86/smpboot: Remove the CPU0 hotplug kludge")
+134a12827bc5 ("x86/smpboot: Avoid pointless delay calibration if TSC is synchronized")
+ce2612b6706b ("x86/smp: Factor out parts of native_smp_prepare_cpus()")
+fa26d0c778b4 ("ACPI: processor: Fix build when CONFIG_ACPI_PROCESSOR=m")
+8cdddd182bd7 ("ACPI: processor: Fix CPU0 wakeup in acpi_idle_play_dead()")

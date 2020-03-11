@@ -1,0 +1,4 @@
+25d862e183d4 ("irqchip/sifive-plic: Use dev_xyz() in-place of pr_xyz()")
+8ec99b033147 ("irqchip/sifive-plic: Convert PLIC driver into a platform driver")
+f99b926f6543 ("irqchip/sifive-plic: Fix syscore registration for multi-socket systems")
+e80f0b6a2cf3 ("irqchip/irq-sifive-plic: Add syscore callbacks for hibernation")

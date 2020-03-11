@@ -1,0 +1,6 @@
+d87cda509458 ("rcu: Move rcu_print_task_exp_stall() to tree_exp.h")
+3fc3d1709fc7 ("rcu: Move RCU CPU stall-warning code out of tree_plugin.h")
+10462d6f58fb ("rcu: Move RCU CPU stall-warning code out of update.c")
+3cd4ca47aa57 ("rcu: Consolidate PREEMPT and !PREEMPT synchronize_rcu_expedited()")
+142d106d5e62 ("rcu: Determine expedited-GP IPI handler at build time")
+b56ada120921 ("Merge branches 'doc.2018.08.30a', 'dynticks.2018.08.30b', 'srcu.2018.08.30b' and 'torture.2018.08.29a' into HEAD")

@@ -1,0 +1,8 @@
+8a0c810d94f0 ("serial: fsl_lpuart: add loopback support")
+fa3540735425 ("serial: fsl_lpuart: remove manual RTSCTS control from 8-bit LPUART")
+e60c2991f18b ("serial: fsl_lpuart: remove RTSCTS handling from get_mctrl()")
+2b30efe2e88a ("tty: serial: lpuart: Remove unnecessary code from set_mctrl")
+a6d7514b14a6 ("tty: serial: lpuart: add a more accurate baud rate calculation method")
+a0204f25e15c ("tty: serial: lpuart: refactor lpuart32_{read|write} prototype")
+0d6fce904452 ("tty: serial: lpuart: introduce lpuart_soc_data to represent SoC property")
+abf1e0a98083 ("tty: serial: fsl_lpuart: lock port on console write")

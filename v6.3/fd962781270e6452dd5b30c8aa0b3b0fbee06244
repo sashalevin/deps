@@ -1,0 +1,6 @@
+fd962781270e ("riscv: RISCV_NONSTANDARD_CACHE_OPS shouldn't depend on RISCV_DMA_NONCOHERENT")
+d34599bcd2e4 ("cache: Add L2 cache management for Andes AX45MP RISC-V core")
+b79f300c1fd4 ("riscv: mm: dma-noncoherent: nonstandard cache operations support")
+935730160738 ("riscv: dma-mapping: switch over to generic implementation")
+482069ebdc1d ("riscv: dma-mapping: skip invalidation before bidirectional DMA")
+eb746180132a ("riscv: dma-mapping: only invalidate after DMA, not flush")

@@ -1,0 +1,6 @@
+caf094b5a156 ("vfio/mlx5: Check whether VF is migratable")
+1047797e8ed4 ("vfio/mlx5: Report dirty pages from tracker")
+c1d050b0d169 ("vfio/mlx5: Create and destroy page tracker object")
+79c3cf279926 ("vfio/mlx5: Init QP based resources for dirty tracking")
+6e97eba8ad87 ("vfio: Split migration ops from main device ops")
+2b1c1906286f ("vfio/mlx5: Protect mlx5vf_disable_fds() upon close device")

@@ -1,0 +1,6 @@
+38fd3d6a956f ("xfs: split new inode creation into two pieces")
+a7b12718cb90 ("xfs: use xfs_trans_ichgtime to set times when allocating inode")
+ba4b39fe4c01 ("xfs: pack icreate initialization parameters into a separate structure")
+fcea5b35f362 ("xfs: hoist project id get/set functions to libxfs")
+b7c477be3969 ("xfs: hoist inode flag conversion functions to libxfs")
+acdddbe16804 ("xfs: hoist extent size helpers to libxfs")

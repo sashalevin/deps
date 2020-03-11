@@ -1,0 +1,8 @@
+262985fad1bd ("bridge: mcast: Use spin_lock() instead of spin_lock_bh()")
+4cdd0d10f31d ("net: bridge: multicast: check if should use vlan mcast ctx")
+74edfd483de8 ("net: bridge: multicast: add helper to get port mcast context from port group")
+7b54aaaf53cb ("net: bridge: multicast: add vlan state initialization and control")
+613d61dbef8e ("net: bridge: vlan: add global and per-port multicast context")
+adc47037a7d5 ("net: bridge: multicast: use multicast contexts instead of bridge or port")
+d3d065c0032b ("net: bridge: multicast: factor out bridge multicast context")
+9632233e7de8 ("net: bridge: multicast: factor out port multicast context")

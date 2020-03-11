@@ -1,0 +1,6 @@
+01b5d32a57fe ("raid5-cache: hold spinlock instead of mutex in r5c_journal_mode_show")
+a72cbf83b0cb ("md/r5cache: call mddev_lock/unlock() in r5c_journal_mode_show")
+2c7da14b90a0 ("md/r5cache: sysfs entry journal_mode")
+a39f7afde358 ("md/r5cache: write-out phase and reclaim support")
+1e6d690b9334 ("md/r5cache: caching phase of r5cache")
+2ded370373a4 ("md/r5cache: State machine for raid5-cache write back mode")

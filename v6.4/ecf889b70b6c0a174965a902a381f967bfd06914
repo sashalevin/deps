@@ -1,0 +1,7 @@
+ecf889b70b6c ("crypto: hash - move "ahash wrapping shash" functions to ahash.c")
+c2435e81a693 ("crypto: ahash - remove struct ahash_request_priv")
+345bfa3c10ce ("crypto: shash - remove support for nonzero alignmask")
+2e02c25ac934 ("crypto: shash - fold shash_digest_unaligned() into crypto_shash_digest()")
+313a4074d78f ("crypto: shash - optimize the default digest and finup")
+3908edf868c3 ("crypto: hash - Make crypto_ahash_alg helper available")
+c7535fb2ddf6 ("crypto: hash - Add statesize to crypto_ahash")

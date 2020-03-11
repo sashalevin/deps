@@ -1,0 +1,8 @@
+957fe62d7d15 ("drm: rcar-du: Fix DSI enable & disable sequence")
+155358310f01 ("drm: rcar-du: Add R-Car DSI driver")
+53ced169373a ("drm: rcar-du: Fix crash when using LVDS1 clock for CRTC")
+35a61fe9218a ("drm: Stop accessing encoder->bridge directly")
+fadf872d9d92 ("drm/bridge: Introduce drm_bridge_get_next_bridge()")
+ea099adfdf4b ("drm/bridge: Rename bridge helpers targeting a bridge chain")
+62afb4ad425a ("drm/connector: Allow max possible encoders to attach to a connector")
+a92462d6bf49 ("drm/connector: Share with non-atomic drivers the function to get the single encoder")

@@ -1,0 +1,5 @@
+780e1384687d ("scsi: target: tcmu: Fix use-after-free of se_cmd->priv")
+bc2d214af5db ("scsi: target: tcmu: Implement tmr_notify callback")
+ed212ca87897 ("scsi: target: tcmu: Fix and simplify timeout handling")
+c96849276211 ("scsi: target: tcmu: Do not queue aborted commands")
+a35129024e88 ("scsi: target: tcmu: Use priv pointer in se_cmd")

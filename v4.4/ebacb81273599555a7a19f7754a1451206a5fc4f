@@ -1,0 +1,4 @@
+ebacb8127359 ("fuse: fix use-after-free in fuse_direct_IO()")
+7879c4e58b7c ("fuse: improve aio directIO write performance for size extending writes")
+744742d692e3 ("fuse: Add reference counting for fuse_io_priv")
+7cabc61e01a0 ("fuse: do not use iocb after it may have been freed")

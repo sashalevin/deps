@@ -1,0 +1,7 @@
+887cf3d13934 ("sctp: Add missing annotation for sctp_err_finish()")
+dae399d7fdee ("sctp: hold transport instead of assoc when lookup assoc in rx path")
+1eed677933b8 ("sctp: fix the transport dead race check by using atomic_add_unless on refcnt")
+dd7445ad6be3 ("sctp: the temp asoc's transports should not be hashed/unhashed")
+65a5124a71e8 ("sctp: support to lookup with ep+paddr in transport rhashtable")
+4f0087812648 ("sctp: apply rhashtable api to send/recv path")
+d6c0256a60e6 ("sctp: add the rhashtable apis for sctp global transport hashtable")

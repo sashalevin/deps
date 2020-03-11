@@ -1,0 +1,7 @@
+74a335a07a17 ("tuntap: add sanity checks about msg_controllen in sendmsg")
+6f0271d92963 ("tun: Adjust on-stack tun_page initialization.")
+f9e06c45cb28 ("tuntap: free XDP dropped packets in a batch")
+0a0be13b8fe2 ("vhost_net: batch submitting XDP buffers to underlayer sockets")
+0efac27791ee ("tap: accept an array of XDP buffs through sendmsg()")
+043d222f93ab ("tuntap: accept an array of XDP buffs through sendmsg()")
+fe8dd45bb755 ("tun: switch to new type of msg_control")

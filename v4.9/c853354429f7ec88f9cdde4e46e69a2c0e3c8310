@@ -1,0 +1,8 @@
+c853354429f7 ("KVM: LAPIC: Fix lapic timer injection delay")
+a749e247f745 ("KVM: lapic: reorganize restart_apic_timer")
+35ee9e48b9df ("KVM: lapic: reorganize start_hv_timer")
+5acc1ca4fb15 ("KVM: X86: Fix preempt the preemption timer cancel")
+8003c9ae204e ("KVM: LAPIC: add APIC Timer periodic/oneshot mode VMX preemption timer support")
+7e810a38e6c7 ("KVM: LAPIC: rename start/cancel_hv_tscdeadline to start/cancel_hv_timer")
+498f81621916 ("KVM: LAPIC: introduce kvm_get_lapic_target_expiration_tsc()")
+7d7f7da2f1fc ("KVM: LAPIC: extract start_sw_period() to handle periodic/oneshot mode")

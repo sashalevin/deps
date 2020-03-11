@@ -1,0 +1,7 @@
+7e01ccb43d62 ("x86: mm: use ARCH_HAS_DEBUG_WX instead of arch defined")
+593309423cba ("x86/32: Remove CONFIG_DOUBLEFAULT")
+2ae27137b2db ("x86: mm: convert dump_pagetables to use walk_page_range")
+c5cfae12fdd5 ("x86: mm: convert ptdump_walk_pgd_level_debugfs() to take an mm_struct")
+e455248d5ee9 ("x86: mm+efi: convert ptdump_walk_pgd_level() to take a mm_struct")
+74d2aaa16f15 ("x86: mm: point to struct seq_file from struct pg_state")
+bd2463ac7d7e ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/netdev/net-next")

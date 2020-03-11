@@ -1,0 +1,4 @@
+27453b45e62d ("nvme-pci: limit maximum queue depth to 4095")
+7442ddcedc34 ("nvme-pci: Use u32 for nvme_dev.q_depth and nvme_queue.q_depth")
+61f3b8963097 ("nvme-pci: use unsigned for io queue depth")
+d4ec47f12053 ("nvme-pci: initialize tagset numa value to the value of the ctrl")

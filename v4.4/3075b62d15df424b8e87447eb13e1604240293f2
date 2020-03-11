@@ -1,0 +1,4 @@
+3075b62d15df ("pata: remove the at91 driver")
+989e0aac1a80 ("ata: pass queued command to ->sff_data_xfer method")
+70a19b7e406d ("pata_at91: Use PTR_ERR_OR_ZERO rather than if(IS_ERR(...)) + PTR_ERR")
+288e6eaa0687 ("gpio: Include linux/gpio.h instead of asm/gpio.h")

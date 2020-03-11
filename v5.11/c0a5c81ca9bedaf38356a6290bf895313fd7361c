@@ -1,0 +1,5 @@
+c0a5c81ca9be ("Kconfig.debug: drop GCC 5+ version check for DWARF5")
+2e98815794fb ("kbuild: dwarf: use AS_VERSION instead of test_dwarf5_support.sh")
+98cd6f521f10 ("Kconfig: allow explicit opt in to DWARF v5")
+a66049e2cf0e ("Kbuild: make DWARF version a choice")
+83272e6d4765 ("kbuild: Remove $(cc-option,-gdwarf-4) dependency from DEBUG_INFO_DWARF4")

@@ -1,0 +1,7 @@
+73781b3b81e7 ("block: remove disk_update_readahead")
+73e3715ed148 ("block: add special APIs for run-time disabling of discard and friends")
+1652b0bafeaa ("block: remove unused queue limits API")
+9972b8ce0d4b ("sd: add a sd_disable_write_same helper")
+b0dadb86a90b ("sd: add a sd_disable_discard helper")
+31ade7d4fdcf ("ubd: untagle discard vs write zeroes not support handling")
+5db755fbb1a0 ("ubd: refactor the interrupt handler")

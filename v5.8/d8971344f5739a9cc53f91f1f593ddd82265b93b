@@ -1,0 +1,4 @@
+d8971344f573 ("KVM: VMX: Truncate GPR value for DR and CR reads in !64-bit mode")
+996ff5429e98 ("KVM: x86: move kvm_inject_gp up from kvm_set_dr to callers")
+29d6ca41992a ("KVM: x86: reading DR cannot fail")
+f5f6145e41d3 ("KVM: x86: Move the check for upper 32 reserved bits of DR6 to separate function")

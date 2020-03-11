@@ -1,0 +1,5 @@
+e29a7a34c3cf ("drm/xe: Remove uninitialized end var from xe_gt_tlb_invalidation_range()")
+c4f18703629d ("drm/xe: Add xe_gt_tlb_invalidation_range and convert PT layer to use this")
+a9e483dda3ef ("drm/xe: Don't support execlists in xe_gt_tlb_invalidation layer")
+3121fed0c51b ("drm/xe: Cleanup some layering in GGTT")
+a43d5060086e ("drm/xe/vf: Assume fixed GSM size if VF")

@@ -1,0 +1,8 @@
+12bbaae7635a ("mm: create FOLIO_FLAG_FALSE and FOLIO_TYPE_OPS macros")
+f7bda0d85dd7 ("mm: add PAGE_TYPE_OP folio functions")
+1611f74a94ba ("mm: fix boolreturn.cocci warning")
+d389a4a81155 ("mm: Add folio flag manipulation functions")
+c275c5c6d50a ("kasan: disable freed user page poisoning with HW tags")
+013bb59dbb7c ("arm64: mte: handle tags zeroing at page allocation time")
+7a3b83537188 ("kasan: use separate (un)poison implementation for integrated init")
+92638b4e1b47 ("mm: arch: remove indirection level in alloc_zeroed_user_highpage_movable()")

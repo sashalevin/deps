@@ -1,0 +1,8 @@
+60b866420ba7 ("ovl: update documentation of inodes index feature")
+02bcd1577400 ("ovl: introduce the inodes index dir feature")
+01633fd25418 ("overlayfs: use uuid_t instead of uuid_be")
+85787090a21e ("fs: switch ->s_uuid to uuid_t")
+787d8c530af7 ("ima/policy: switch to use uuid_t")
+1dd771eb0b09 ("block: remove blk_part_pack_uuid")
+82b749b2c65e ("ovl: check on mount time if upper fs supports setting xattr")
+b948abf53a38 ("Merge branch 'overlayfs-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/mszeredi/vfs")

@@ -1,0 +1,5 @@
+040a82be54c0 ("netfs: Rearrange netfs_io_subrequest to put request pointer first")
+f18a378580a7 ("netfs: Finish off rename of netfs_read_request to netfs_io_request")
+6a19114b8e7f ("netfs: Rename netfs_read_*request to netfs_io_*request")
+5b19f1eba459 ("ceph: make ceph_netfs_issue_op() handle inlined data")
+a25cedb4313d ("ceph: switch netfs read ops to use rreq->inode instead of rreq->mapping->host")

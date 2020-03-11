@@ -1,0 +1,6 @@
+b620f63358cd ("mm: Add folio_put()")
+07d802699528 ("mm: devmap: refactor 1-based refcounting for ZONE_DEVICE pages")
+429589d647c1 ("mm: Cleanup __put_devmap_managed_page() vs ->page_free()")
+7ab0ad0e74f8 ("mm/hmm: fix ZONE_DEVICE anon page mapping reuse")
+7588adf8dff1 ("mm: clean up is_device_*_page() definitions")
+cc5dfd59e375 ("Merge branch 'hmm-devmem-cleanup.4' into rdma.git hmm")

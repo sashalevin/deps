@@ -1,0 +1,4 @@
+d197a253855d ("rtc: cmos: Fix non-ACPI undefined reference to `hpet_rtc_interrupt'")
+311ee9c151ad ("rtc: cmos: allow using ACPI for RTC alarm instead of HPET")
+8b5b7958fd1c ("rtc: cmos: use generic nvmem")
+53d29e0a3afe ("rtc: cmos: fix possible race condition")

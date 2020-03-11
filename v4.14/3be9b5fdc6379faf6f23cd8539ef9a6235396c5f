@@ -1,0 +1,7 @@
+3be9b5fdc637 ("hv_netvsc: Clean up extra parameter from rndis_filter_receive_data()")
+02400fcee254 ("hv_netvsc: use RCU to fix concurrent rx and queue changes")
+345ac08990b8 ("hv_netvsc: pass netvsc_device to receive callback")
+f61a9d62b27e ("hv_netvsc: track memory allocation failures in ethtool stats")
+b5eb819dcbcb ("hv_netvsc: hide warnings about uninitialized/missing rndis device")
+0cf737808ae7 ("hv_netvsc: netvsc_teardown_gpadl() split")
+09af87d18f6b ("hv_netvsc: report stop_queue and wake_queue")

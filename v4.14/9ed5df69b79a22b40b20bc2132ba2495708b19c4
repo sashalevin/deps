@@ -1,0 +1,7 @@
+9ed5df69b79a ("powerpc/kprobes: Use probe_address() to read instructions")
+6e5fd3a298e9 ("powerpc/kprobes: Don't call the ->break_handler() in powerpc kprobes code")
+c530e2f02ef8 ("powerpc/kprobes: Remove jprobe powerpc implementation")
+3368f5699a9b ("powerpc/jprobes: Validate break handler invocation as being due to a jprobe_return()")
+6baea433bc84 ("powerpc/jprobes: Disable preemption when triggered through ftrace")
+c179ea270100 ("powerpc/kprobes: Fix warnings from __this_cpu_read() on preempt kernels")
+bf3a91251735 ("powerpc/kprobes: Clean up jprobe detection in livepatch handler")

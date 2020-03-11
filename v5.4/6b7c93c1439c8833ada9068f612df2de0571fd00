@@ -1,0 +1,6 @@
+6b7c93c1439c ("wifi: cfg80211: keep bss_lock held when informing")
+0b7808818cb9 ("wifi: cfg80211: fix BSS refcounting bugs")
+a5199b5626cd ("cfg80211: hold bss_lock while updating nontrans_list")
+f9a5c358c8d2 ("cfg80211: Fix possible memory leak in function cfg80211_bss_update")
+010bfbe768f7 ("cfg80211: scan: drop entry from hidden_list on overflow")
+7bb106eb6891 ("cfg80211: remove support for adjacent channel compensation")

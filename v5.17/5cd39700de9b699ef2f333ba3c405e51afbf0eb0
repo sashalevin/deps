@@ -1,0 +1,8 @@
+5cd39700de9b ("Bluetooth: Make sure LE create conn cancel is sent when timeout")
+a86ddbffa6ed ("Bluetooth: Use bt_status to convert from errno")
+c9f73a2178c1 ("Bluetooth: hci_conn: Fix hci_connect_le_sync")
+9b3628d79b46 ("Bluetooth: hci_sync: Cleanup hci_conn if it cannot be aborted")
+c86cc5a3ec70 ("Bluetooth: hci_event: Fix checking for invalid handle on error status")
+9fa6b4cda3b4 ("Bluetooth: call hci_le_conn_failed with hdev lock in hci_le_conn_failed")
+d5ebaa7c5f6f ("Bluetooth: hci_event: Ignore multiple conn complete events")
+3afee2118132 ("Bluetooth: fix null ptr deref on hci_sync_conn_complete_evt")

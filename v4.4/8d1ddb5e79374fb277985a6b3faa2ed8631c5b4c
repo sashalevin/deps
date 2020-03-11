@@ -1,0 +1,5 @@
+8d1ddb5e7937 ("fcntl: Fix potential deadlock in send_sig{io, urg}()")
+9c2db007787e ("signal: Pass pid type into send_sigio_to_task & send_sigurg_to_task")
+019191342fec ("signal: Use PIDTYPE_TGID to clearly store where file signals will be sent")
+f73127356f34 ("fs/fcntl: return -ESRCH in f_setown when pid/pgid can't be found")
+393cc3f51135 ("fs/fcntl: f_setown, allow returning error")

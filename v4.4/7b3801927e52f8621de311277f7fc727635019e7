@@ -1,0 +1,5 @@
+7b3801927e52 ("xfrm: introduce xfrm_trans_queue_net")
+d16b46e4fd8b ("xfrm: Use __skb_queue_tail in xfrm_trans_queue")
+acf568ee859f ("xfrm: Reinject transport-mode packets through tasklet")
+960fdfdeb9e8 ("xfrm: input: constify xfrm_input_afinfo")
+1995876a06bc ("xfrm: Add a dummy network device for napi.")

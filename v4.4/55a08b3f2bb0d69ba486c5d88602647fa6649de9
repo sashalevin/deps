@@ -1,0 +1,6 @@
+55a08b3f2bb0 ("drm/i915: Use the plane state for cursor updates.")
+f28580214407 ("drm/i915: Make disable_cursor_plane similar to commit_cursor_plane.")
+edd62601dd6a ("drm/i915: Remove some visibility checks from intel_crtc_update_cursor.")
+663f3122d00c ("drm/i915: Drop the broken cursor base==0 special casing")
+1264859d648c ("drm/i915: Kill intel_crtc->cursor_bo")
+6285262259ca ("drm/i915: Only run commit when crtc is active, v2.")

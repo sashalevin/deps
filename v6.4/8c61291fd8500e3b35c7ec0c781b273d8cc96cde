@@ -1,0 +1,4 @@
+8c61291fd850 ("mm: fix incorrect vbq reference in purge_fragmented_block")
+77e50af07f14 ("mm/vmalloc: dont purge usable blocks unnecessarily")
+a09fad96ffb1 ("mm/vmalloc: prevent flushing dirty space over and over")
+ca5e46c3400b ("mm/vmalloc: avoid iterating over per CPU vmap blocks twice")

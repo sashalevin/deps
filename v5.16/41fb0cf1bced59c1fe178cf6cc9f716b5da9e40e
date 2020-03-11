@@ -1,0 +1,5 @@
+41fb0cf1bced ("net: dsa: hide dp->bridge_dev and dp->bridge_num in drivers behind helpers")
+65144067d360 ("net: dsa: mv88e6xxx: compute port vlan membership based on dp->bridge_dev comparison")
+0493fa7927af ("net: dsa: mv88e6xxx: iterate using dsa_switch_for_each_user_port in mv88e6xxx_port_check_hw_vlan")
+872bb81dfbc3 ("net: dsa: mt7530: iterate using dsa_switch_for_each_user_port in bridging ops")
+3f9bb0301d50 ("net: dsa: make dp->bridge_num one-based")

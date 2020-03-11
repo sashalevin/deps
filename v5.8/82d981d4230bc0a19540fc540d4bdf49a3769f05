@@ -1,0 +1,7 @@
+82d981d4230b ("block: don't include <linux/part_stat.h> in blk.h")
+ca5b304cabef ("block: don't include <linux/idr.h> in blk.h")
+a2ff7781cfe6 ("block: don't include <linux/blk-mq.h> in blk.h")
+7aa390ec2d9d ("Revert "block: Fix a lockdep complaint triggered by request queue flushing"")
+37f4a24c2469 ("blk-mq: centralise related handling into blk_mq_get_driver_tag")
+570e9b73b0af ("blk-mq: move blk_mq_get_driver_tag into blk-mq.c")
+36a3df5a4574 ("blk-mq: put driver tag when this request is completed")

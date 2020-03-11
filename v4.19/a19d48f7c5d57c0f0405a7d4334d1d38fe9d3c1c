@@ -1,0 +1,6 @@
+a19d48f7c5d5 ("pstore/platform: Add check for kstrdup")
+563ca40ddf40 ("pstore/platform: Switch pstore_info::name to const")
+cab12fd04938 ("pstore: Convert "psinfo" locking to mutex")
+c30b20cd96a7 ("pstore: Rename "pstore_lock" to "psinfo_lock"")
+e7c1c00cf3fa ("pstore: Drop useless try_module_get() for backend")
+ea84b580b955 ("pstore: Convert buf_lock to semaphore")

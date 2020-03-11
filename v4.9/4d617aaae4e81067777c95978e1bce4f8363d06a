@@ -1,0 +1,8 @@
+4d617aaae4e8 ("sparc: switch to ->regset_get()")
+b7e46c527d22 ("sparc64: get rid of odd callers of copy_regset_from_user()")
+98a7fbf391db ("sparc32: get rid of odd callers of copy_regset_from_user()")
+8f0329211b70 ("sparc64: get rid of odd callers of copy_regset_to_user()")
+87d805331a69 ("sparc32: get rid of odd callers of copy_regset_to_user()")
+030754c99538 ("sparc64: switch genregs32_get() to use of get_from_target()")
+cf51e129b968 ("sparc32: fix register window handling in genregs32_[gs]et()")
+142cd25293f6 ("sparc64: fix misuses of access_process_vm() in genregs32_[sg]et()")

@@ -1,0 +1,6 @@
+698cef173983 ("block: cover another queue enter recursion via BIO_QUEUE_ENTERED")
+f5fe1b51905d ("blk: Ensure users for current->bio_list can see the full list.")
+79bd99596b73 ("blk: improve order of bio handling in generic_make_request()")
+d67a5f4b5947 ("dm: flush queued bios when process blocks to avoid deadlock")
+1eff9d322a44 ("block: rename bio bi_rw to bi_opf")
+f0c98ebc57c2 ("Merge tag 'libnvdimm-for-4.8' of git://git.kernel.org/pub/scm/linux/kernel/git/nvdimm/nvdimm")

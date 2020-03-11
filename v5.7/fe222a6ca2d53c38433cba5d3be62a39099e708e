@@ -1,0 +1,8 @@
+fe222a6ca2d5 ("init: call time_init() before rand_initialize()")
+0ce20dd84089 ("mm: add Kernel Electric-Fence infrastructure")
+04013513cc84 ("mm, page_alloc: do not rely on the order of page_poison and init_on_alloc/free parameters")
+ab130f9108dc ("mm: rename page_order() to buddy_order()")
+257bea71582d ("mm/page_alloc: simplify __offline_isolated_pages()")
+06be6ff3d2ec ("mm,hwpoison: rework soft offline for free pages")
+fdd4fa1cd904 ("mm/page_alloc.c: fix early params garbage value accesses")
+aa218795cb5f ("mm: Allow to offline unmovable PageOffline() pages via MEM_GOING_OFFLINE")

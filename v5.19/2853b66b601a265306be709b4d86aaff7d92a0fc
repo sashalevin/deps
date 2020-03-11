@@ -1,0 +1,6 @@
+2853b66b601a ("mm: remove some calls to page_add_new_anon_rmap()")
+28965f0f8be6 ("userfaultfd: replace lru_cache functions with folio_add functions")
+82e66bf76173 ("uprobes: use new_folio in __replace_page()")
+5fcd079af9ed ("uprobes: use folios more widely in __replace_page()")
+d4f9565ae598 ("mm: convert do_swap_page()'s swapcache variable to a folio")
+63ad4add3823 ("mm: convert do_swap_page() to use a folio")
