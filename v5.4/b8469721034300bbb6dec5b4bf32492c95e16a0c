@@ -1,0 +1,5 @@
+b84697210343 ("xfrm: respect ip protocols rules criteria when performing dst lookups")
+e509996b1672 ("xfrm: extract dst lookup parameters into a struct")
+d46401052c2d ("xfrm6: check ip6_dst_idev() return value in xfrm6_get_saddr()")
+40867d74c374 ("net: Add l3mdev index to flow struct and avoid oif reset for port devices")
+af7888ad9edb ("ipv4: Refactor nhc evaluation in fib_table_lookup")

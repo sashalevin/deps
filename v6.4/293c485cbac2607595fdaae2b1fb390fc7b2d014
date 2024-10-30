@@ -1,0 +1,8 @@
+293c485cbac2 ("HID: i2c-hid: Delayed i2c resume wakeup for 0x0d42 Goodix touchpad")
+7d6f065de37c ("HID: i2c-hid: Use address probe to wake on resume")
+26dd6a5667f5 ("HID: i2c-hid: Skip SET_POWER SLEEP for Cirque touchpad on system suspend")
+7d7a252842ec ("HID: i2c-hid: Renumber I2C_HID_QUIRK_ defines")
+bd008acdac45 ("HID: i2c-hid: Remove I2C_HID_QUIRK_SET_PWR_WAKEUP_DEV quirk")
+d93d28477222 ("HID: i2c-hid: Make suspend and resume into helper functions")
+675cd877c952 ("HID: i2c-hid: Rearrange probe() to power things up later")
+a889ee12d53d ("HID: i2c-hid: Switch to SYSTEM_SLEEP_PM_OPS()")

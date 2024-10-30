@@ -1,0 +1,8 @@
+4c262801ea60 ("hv_netvsc: Fix VF namespace also in synthetic NIC NETDEV_REGISTER event")
+9cae43da9867 ("hv_netvsc: Register VF in netvsc_probe if NET_DEVICE_REGISTER missed")
+c807d6cd089d ("hv_netvsc: Mark VF as slave before exposing it to user-mode")
+365e1ececb29 ("hv_netvsc: Fix race between VF offering and VF association message from host")
+c60882a4566a ("hv_netvsc: use netif_is_bond_master() instead of open code")
+d0922bf79817 ("hv_netvsc: Add error handling while switching data path")
+34b06a2eee44 ("hv_netvsc: Process NETDEV_GOING_DOWN on VF hot remove")
+8b31f8c982b7 ("hv_netvsc: Wait for completion on request SWITCH_DATA_PATH")

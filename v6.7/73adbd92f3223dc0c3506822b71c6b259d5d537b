@@ -1,0 +1,6 @@
+73adbd92f322 ("LoongArch: KVM: Mark hrtimer to expire in hard interrupt context")
+8bc15d02d5fd ("LoongArch: KVM: Start SW timer only when vcpu is blocking")
+5b3d524993ff ("LoongArch: KVM: Fix timer emulation with oneshot mode")
+1ab9c6099495 ("LoongArch: KVM: Remove kvm_acquire_timer() before entering guest")
+0d2abe670296 ("LoongArch: KVM: Allow to access HW timer CSR registers always")
+161267320158 ("LoongArch: KVM: Remove SW timer switch when vcpu is halt polling")

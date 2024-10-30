@@ -1,0 +1,8 @@
+f10f59f91a62 ("btrfs: fix the delalloc range locking if sector size < page size")
+e4d80ebe50de ("btrfs: convert lock_delalloc_pages() to take a folio")
+c987f1e6d443 ("btrfs: convert find_lock_delalloc_range() to use a folio")
+dc6c745447c5 ("btrfs: convert writepage_delalloc() to take a folio")
+9b320229c03b ("btrfs: convert __extent_writepage() to be completely folio based")
+2917f74102cf ("btrfs: constify pointer parameters where applicable")
+d034cdb4cc8a ("btrfs: lock subpage ranges in one go for writepage_delalloc()")
+bca707e54276 ("btrfs: subpage: introduce helpers to handle subpage delalloc locking")
