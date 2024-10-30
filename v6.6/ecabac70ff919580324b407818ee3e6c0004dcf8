@@ -1,0 +1,6 @@
+ecabac70ff91 ("perf trace augmented_raw_syscalls: Add extra array index bounds checking to satisfy some BPF verifiers")
+a68fd6a6cdd3 ("perf trace: Collect augmented data using BPF")
+7f403067288f ("perf trace: Add trace__bpf_sys_enter_beauty_map() to prepare for fetching data in BPF")
+45a0c928e7aa ("perf trace: BTF-based enum pretty printing for syscall args")
+7a2fb5619cc1 ("perf trace: Fix iteration of syscall ids in syscalltbl->entries")
+29d16de26df1 ("perf augmented_raw_syscalls.bpf: Move 'struct timespec64' to vmlinux.h")
