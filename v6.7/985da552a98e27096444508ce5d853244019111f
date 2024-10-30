@@ -1,0 +1,4 @@
+985da552a98e ("fork: only invoke khugepaged, ksm hooks if no error")
+c2dc78b86e08 ("mm/ksm: fix ksm_zero_pages accounting")
+7edea4c6fdf2 ("mm/ksm: remove redundant code in ksm_fork")
+d24062914837 ("fork: use __mt_dup() to duplicate maple tree in dup_mmap()")

@@ -1,0 +1,3 @@
+58a039e679fe ("mm: split critical region in remap_file_pages() and invoke LSMs in between")
+ea7e2d5e49c0 ("mm: call the security_mmap_file() LSM hook in remap_file_pages()")
+592b5fad1677 ("mm: Re-introduce vm_flags to do_mmap()")

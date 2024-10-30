@@ -1,0 +1,5 @@
+3673167a3a07 ("Revert "selftests/mm: replace atomic_bool with pthread_barrier_t"")
+e61ef21e27e8 ("selftests/mm: replace atomic_bool with pthread_barrier_t")
+8c864371b2a1 ("selftests/mm: fix ARM related issue with fork after pthread_create")
+e8a422408ba9 ("selftests/mm: add uffd_test_case_ops to allow test case-specific operations")
+1c8d39fa7b63 ("selftests/mm: call uffd_test_ctx_clear at the end of the test")
