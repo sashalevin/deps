@@ -1,0 +1,7 @@
+15f73e601a9c ("mlxsw: pci: Sync Rx buffers for CPU")
+36437f469d7e ("mlxsw: pci: Use fragmented buffers")
+8f8cea8f3ddb ("mlxsw: pci: Store number of scatter/gather entries for maximum packet size")
+0f3cd437a1d8 ("mlxsw: pci: Optimize data buffer access")
+b5b60bb491b2 ("mlxsw: pci: Use page pool for Rx buffers allocation")
+5642c6a08693 ("mlxsw: pci: Initialize page pool per CQ")
+39fa294f580a ("mlxsw: pci: Split NAPI setup/teardown into two steps")
