@@ -1,0 +1,7 @@
+d0b98f6a17a5 ("bpf: disallow 40-bytes extra stack for bpf_fastcall patterns")
+8c2e043daada ("selftests/bpf: check if bpf_fastcall is recognized for kfuncs")
+adec67d372fe ("selftests/bpf: rename nocsr -> bpf_fastcall in selftests")
+ae010757a55b ("bpf: rename nocsr -> bpf_fastcall in verifier")
+d0ad1f8f8846 ("selftests/bpf: test no_caller_saved_registers spill/fill removal")
+91b7fbf3936f ("bpf, x86, riscv, arm: no_caller_saved_registers for bpf_get_smp_processor_id()")
+5b5f51bff1b6 ("bpf: no_caller_saved_registers attribute for helper calls")
