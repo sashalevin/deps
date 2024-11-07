@@ -1,0 +1,5 @@
+d4148aeab412 ("mm, mmap: limit THP alignment of anonymous mappings to PMD-aligned sizes")
+ed48e87c7df3 ("thp: add thp_get_unmapped_area_vmflags()")
+8a0fe564bb2e ("mm: use get_unmapped_area_vmflags()")
+529ce23a764f ("mm: switch mm->get_unmapped_area() to a flag")
+5def1e0f476d ("proc: refactor pde_get_unmapped_area as prep")

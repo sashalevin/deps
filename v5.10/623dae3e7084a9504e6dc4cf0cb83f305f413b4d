@@ -1,0 +1,4 @@
+623dae3e7084 ("usb: acpi: fix boot hang due to early incorrect 'tunneled' USB3 device links")
+f1bfb4a6fed6 ("usb: acpi: add device link between tunneled USB3 device and USB4 Host Interface")
+f3ac348e6e04 ("usb: usb-acpi: Set port connect type of not connectable ports correctly")
+bf5fb8ae8248 ("USB: ACPI: Replace usb_acpi_find_port() with acpi_find_child_by_adr()")

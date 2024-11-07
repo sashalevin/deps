@@ -1,0 +1,6 @@
+e6c24e2d05bb ("irqchip/gic-v4: Correctly deal with set_affinity on lazily-mapped VPEs")
+1442ee001198 ("irqchip/gic-v4: Don't allow a VMOVP on a dying VPE")
+166cba71818c ("irqchip/gic-v4.1: Plumb skeletal VSGI irqchip")
+29c647f3b5ae ("irqchip/gic-v4.1: Plumb skeletal VPE irqchip")
+64edfaa9a234 ("irqchip/gic-v4.1: Implement the v4.1 flavour of VMAPP")
+8e01d9a396e6 ("KVM: arm64: vgic-v4: Move the GICv4 residency flow to be driven by vcpu_load/put")

@@ -1,0 +1,6 @@
+c38a04ecb6ac ("kbuild: rust: avoid errors with old `rustc`s without LLVM patch version")
+af0121c2d303 ("kbuild: rust: add `CONFIG_RUSTC_LLVM_VERSION`")
+c42297438aee ("kbuild: rust: Define probing macros for rustc")
+6e74c6b5a42e ("kbuild: rust: add `CONFIG_RUSTC_VERSION`")
+54a11654de16 ("powerpc: remove checks for binutils older than 2.25")
+25ea739ea1d4 ("powerpc: Fail build if using recordmcount with binutils v2.37")

@@ -1,0 +1,8 @@
+d31638ff6c54 ("Squashfs: fix variable overflow in squashfs_readpage_block")
+7f73fcde4d93 ("Squashfs: Update squashfs_readpage_block() to not use page->index")
+12427de9439d ("Squashfs: fix variable overflow triggered by sysbot")
+1f13dff09ffc ("squashfs: don't call kmalloc in decompressors")
+8fc78b6fe24c ("squashfs: implement readahead")
+1bb1a07afad9 ("squashfs: don't use intermediate buffer if pages missing")
+f268eedddf35 ("squashfs: extend "page actor" to handle missing pages")
+124cfc154f6c ("squashfs: Convert squashfs to read_folio")

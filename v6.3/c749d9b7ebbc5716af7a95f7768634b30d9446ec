@@ -1,0 +1,4 @@
+c749d9b7ebbc ("iov_iter: fix copy_page_from_iter_atomic() if KMAP_LOCAL_FORCE_MAP")
+908a1ad89466 ("iov_iter: Handle compound highmem pages in copy_page_from_iter_atomic()")
+f7f9a0c8736d ("iov_iter: Map the page later in copy_page_from_iter_atomic()")
+245f09226893 ("mm: hwpoison: coredump: support recovery from dump_user_range()")

@@ -1,0 +1,8 @@
+a14968aea637 ("gpio: fix uninit-value in swnode_find_gpio")
+e42fce0ff996 ("gpiolib: swnode: Unify return code variable name")
+e7f9ff5dc90c ("gpiolib: add support for software nodes")
+8eb1f71e7acc ("gpiolib: consolidate GPIO lookups")
+b7452d670fde ("gpiolib: acpi: avoid leaking ACPI details into upper gpiolib layers")
+16ba046e86e9 ("gpiolib: acpi: teach acpi_find_gpio() to handle data-only nodes")
+2b6bce80ae70 ("gpiolib: acpi: change acpi_find_gpio() to accept firmware node")
+07445ae1c263 ("gpiolib: of: change of_find_gpio() to accept device node")

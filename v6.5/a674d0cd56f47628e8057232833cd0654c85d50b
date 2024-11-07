@@ -1,0 +1,7 @@
+a674d0cd56f4 ("dm-verity: don't crash if panic_on_corruption is not selected")
+e6a3531dd542 ("dm-verity: restart or panic on an I/O error")
+e41e52e59e51 ("dm-verity: move data hash mismatch handling into its own function")
+c375b2233388 ("dm-verity: Convert from tasklet to BH workqueue")
+9177f3c0dea6 ("dm-verity: recheck the hash after a failure")
+0a9bab391e33 ("dm-crypt, dm-verity: disable tasklets")
+28f07f2ab4b3 ("dm-verity: don't use blocking calls from tasklets")

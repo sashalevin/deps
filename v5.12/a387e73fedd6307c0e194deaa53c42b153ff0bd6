@@ -1,0 +1,6 @@
+a387e73fedd6 ("rpmsg: glink: Handle rejected intent request better")
+c05dfce0b89e ("rpmsg: glink: Wait for intent, not just request ack")
+0a7eee89e79e ("rpmsg: glink: Transition intent request signaling to wait queue")
+fb23b97346f9 ("rpmsg: glink: Cancel pending intent requests at removal")
+9c96bacf1af5 ("rpmsg: glink: Fail qcom_glink_tx() once remove has been initiated")
+b16a37e1846c ("rpmsg: glink: Send READ_NOTIFY command in FIFO full case")
