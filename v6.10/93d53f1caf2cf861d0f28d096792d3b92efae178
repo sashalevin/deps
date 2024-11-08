@@ -1,0 +1,4 @@
+93d53f1caf2c ("bcachefs: add check NULL return of bio_kmalloc in journal_read_bucket")
+ca959e328b22 ("bcachefs: fix possible null-ptr-deref in __bch2_ec_stripe_head_get()")
+fa85c473977c ("bcachefs: bch_stripe.disk_label")
+1b11c4d36548 ("bcachefs: stripe_to_mem()")
