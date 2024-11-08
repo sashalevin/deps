@@ -1,0 +1,6 @@
+0a77715db226 ("ksmbd: fix slab-use-after-free in ksmbd_smb2_session_create")
+53ff5cf89142 ("ksmbd: fix race condition between session lookup and expire")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abcc506a9a71 ("ksmbd: fix racy issue from smb2 close and logoff with multichannel")
+ea174a918939 ("ksmbd: destroy expired sessions")
+f5c779b7ddbd ("ksmbd: fix racy issue from session setup and logoff")
