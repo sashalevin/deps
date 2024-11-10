@@ -1,0 +1,4 @@
+8de3e97f3d3d ("i2c: designware: do not hold SCL low when I2C_DYNAMIC_TAR_UPDATE is not set")
+5d69d5a00f80 ("i2c: designware: fix controller is holding SCL low while ENABLE bit is disabled")
+2409205acd3c ("i2c: designware: fix __i2c_dw_disable() in case master is holding SCL low")
+1c7c5fca523e ("i2c: designware: Change from u32 to unsigned int for regmap_read() calls")
