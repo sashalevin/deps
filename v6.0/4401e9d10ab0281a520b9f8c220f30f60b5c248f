@@ -1,0 +1,5 @@
+4401e9d10ab0 ("mm/damon/core: avoid overflow in damon_feed_loop_next_input()")
+9294a037c015 ("mm/damon/core: implement goal-oriented feedback-driven quota auto-tuning")
+898810e5ca54 ("mm/damon/core: split out scheme quota adjustment logic into a new function")
+ab63f63f3885 ("mm/damon: use damon_sz_region() in appropriate place")
+f5a79d7c0c87 ("mm/damon: introduce struct damos_access_pattern")

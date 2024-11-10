@@ -1,0 +1,4 @@
+5baf8b037deb ("mm: refactor arch_calc_vm_flag_bits() and arm64 MTE handling")
+5d698966fa7b ("parisc: Allow mmap(MAP_STACK) memory to automatically expand upwards")
+d5aad4c2ca05 ("prctl: generalize PR_SET_MDWE support check to be per-arch")
+c4608d1bf7c6 ("mm: mmap: map MAP_STACK to VM_NOHUGEPAGE")

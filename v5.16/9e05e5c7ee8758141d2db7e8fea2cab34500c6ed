@@ -1,0 +1,6 @@
+9e05e5c7ee87 ("signal: restore the override_rlimit logic")
+de399236e240 ("ucounts: Split rlimit and ucount values and max values")
+0ac983f51203 ("ucounts: Fix systemd LimitNPROC with private users regression")
+0cbae9e24fa7 ("ucounts: Handle wrapping in is_ucounts_overlimit")
+c923a8e7edb0 ("ucounts: Move RLIMIT_NPROC handling after set_user")
+c16bdeb5a39f ("rlimit: Fix RLIMIT_NPROC enforcement failure caused by capability calls in set_user")

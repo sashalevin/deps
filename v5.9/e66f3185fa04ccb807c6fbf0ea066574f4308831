@@ -1,0 +1,7 @@
+e66f3185fa04 ("mm/thp: fix deferred split queue not partially_mapped")
+dafff3f4c850 ("mm: split underused THPs")
+b7b098cf00a2 ("mm: always initialise folio->_deferred_list")
+8897277acfef ("mm: support order-1 folios in the page cache")
+ec056cef76a5 ("mm/readahead: do not allow order-1 folio")
+23e4883248f0 ("mm: add page_rmappable_folio() wrapper")
+b96a3e9142fd ("Merge tag 'mm-stable-2023-08-28-18-26' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")
