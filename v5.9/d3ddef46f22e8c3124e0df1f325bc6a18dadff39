@@ -1,0 +1,5 @@
+d3ddef46f22e ("KVM: x86: Unconditionally set irr_pending when updating APICv state")
+97a71c444a14 ("KVM: x86: Purge "highest ISR" cache when updating APICv state")
+ce0a58f4756c ("KVM: x86: Move "apicv_active" into "struct kvm_lapic"")
+d39850f57d21 ("KVM: x86: Drop @vcpu parameter from kvm_x86_ops.hwapic_isr_update()")
+47e8eec83262 ("Merge tag 'kvmarm-5.19' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

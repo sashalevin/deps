@@ -1,0 +1,5 @@
+979956bc6811 ("KVM: selftests: Don't force -march=x86-64-v2 if it's unsupported")
+c2ee9f594da8 ("KVM: selftests: Fix build on on non-x86 architectures")
+0c12e6c8267f ("KVM: selftests: Ensure sysreg-defs.h is generated at the expected path")
+d7b9dc14031b ("KVM: selftests: Compile s390 tests with -march=z10")
+6a5db83adfd6 ("KVM: selftests: Rename UNAME_M to ARCH_DIR, fill explicitly for x86")
