@@ -1,0 +1,5 @@
+247d720b2c5d ("nommu: pass NULL argument to vma_iter_prealloc()")
+b5df09226450 ("mm: set up vma iterator for vma_iter_prealloc() calls")
+f72cf24a8686 ("mm: use vma_iter_clear_gfp() in nommu")
+da0892547b10 ("maple_tree: re-introduce entry to mas_preallocate() arguments")
+1279aa0656bb ("mm: make show_free_areas() static")
