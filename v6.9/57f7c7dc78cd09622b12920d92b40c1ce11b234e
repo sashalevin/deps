@@ -1,0 +1,5 @@
+57f7c7dc78cd ("drivers: perf: Fix wrong put_cpu() placement")
+2840dadf0dde ("drivers: perf: Fix smp_processor_id() use in preemptible code")
+a8625217a054 ("drivers/perf: riscv: Implement SBI PMU snapshot function")
+b994cdfcdf7b ("drivers/perf: riscv: Fix counter mask iteration for RV32")
+7dda24bacc05 ("drivers/perf: riscv: Read upper bits of a firmware counter")
