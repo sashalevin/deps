@@ -1,0 +1,6 @@
+a4a282daf1a1 ("mm/mremap: fix address wraparound in move_page_tables()")
+af8ca1c14906 ("mm/mremap: optimize the start addresses in move_page_tables()")
+3d0b95cd87b2 ("mm: hugetlb: considering PMD sharing when flushing cache/TLBs")
+13e4ad2ce8df ("hugetlbfs: flush before unlock on move_hugetlb_page_tables()")
+550a7d60bd5e ("mm, hugepages: add mremap() support for hugepage backed vma")
+73c54763482b ("mm/hugetlb: drop __unmap_hugepage_range definition from hugetlb.h")
