@@ -1,0 +1,4 @@
+8e15e12d37f2 ("io_statx_prep(): use getname_uflags()")
+dff60734fc76 ("vfs: retire user_path_at_empty and drop empty arg from getname_flags")
+969ce92da311 ("vfs: stop using user_path_at_empty in do_readlinkat")
+9013c51c630a ("vfs: mostly undo glibc turning 'fstat()' into 'fstatat(AT_EMPTY_PATH)'")
