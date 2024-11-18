@@ -1,0 +1,4 @@
+4d3727fd065b ("ecryptfs: Convert ecryptfs_write() to use a folio")
+807a11dab9dc ("ecryptfs: Convert ecryptfs_writepage() to ecryptfs_writepages()")
+c3c6833ea811 ("fs/ecryptfs: Use kmap_local_page() in ecryptfs_write()")
+025e65c3438e ("ecryptfs: Convert ecryptfs to read_folio")

@@ -1,0 +1,4 @@
+497eb79c3191 ("ecryptfs: Convert ecryptfs_copy_up_encrypted_with_header() to take a folio")
+064fe6b4752c ("ecryptfs: Use a folio throughout ecryptfs_read_folio()")
+6a09084cd4e6 ("ecryptfs: Use a folio in ecryptfs_write_begin()")
+e2393b8f3987 ("fs/ecryptfs: Use kmap_local_page() in copy_up_encrypted_with_header()")

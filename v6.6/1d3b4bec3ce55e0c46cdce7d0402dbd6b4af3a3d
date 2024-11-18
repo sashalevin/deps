@@ -1,0 +1,5 @@
+1d3b4bec3ce5 ("alloc_fdtable(): change calling conventions.")
+678379e1d4f7 ("close_range(): fix the logics in descriptor table trimming")
+c4aab26253cd ("fd_is_open(): move to fs/file.c")
+f60d374d2cc8 ("close_on_exec(): pass files_struct instead of fdtable")
+a88c955fcfb4 ("file: s/close_fd_get_file()/file_close_fd()/g")
