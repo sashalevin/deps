@@ -1,0 +1,5 @@
+e896474fe485 ("getname_maybe_null() - the third variant of pathname copy-in")
+0ef625bba6fb ("vfs: support statx(..., NULL, AT_EMPTY_PATH, ...)")
+27a2d0cb2f38 ("stat: use vfs_empty_path() helper")
+dff60734fc76 ("vfs: retire user_path_at_empty and drop empty arg from getname_flags")
+969ce92da311 ("vfs: stop using user_path_at_empty in do_readlinkat")

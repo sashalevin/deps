@@ -1,0 +1,6 @@
+0158005aaa3c ("replace do_getxattr() with saner helpers.")
+66d7ac6bdb07 ("replace do_setxattr() with saner helpers.")
+a10c4c5e01bd ("new helper: import_xattr_name()")
+537c76629d78 ("fs: rename struct xattr_ctx to kernel_xattr_ctx")
+a71874379ec8 ("xattr: switch to CLASS(fd)")
+b8cdd2530c7d ("io_[gs]etxattr_prep(): just use getname()")

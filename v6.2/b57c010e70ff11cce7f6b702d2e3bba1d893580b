@@ -1,0 +1,6 @@
+b57c010e70ff ("ufs: Convert ufs_change_blocknr() to take a folio")
+14bcb7bb6809 ("ufs: Pass a folio to ufs_new_fragments()")
+24a87a0adb2f ("ufs: Convert ufs_inode_getfrag() to take a folio")
+b6250a013d62 ("ufs: Convert ufs_extend_tail() to take a folio")
+d9036c488c6e ("ufs: Convert ufs_inode_getblock() to take a folio")
+c7e8812ce5cf ("ufs: convert ufs_change_blocknr() to use folios")

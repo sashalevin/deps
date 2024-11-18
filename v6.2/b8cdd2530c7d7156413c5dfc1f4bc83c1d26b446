@@ -1,0 +1,4 @@
+b8cdd2530c7d ("io_[gs]etxattr_prep(): just use getname()")
+dff60734fc76 ("vfs: retire user_path_at_empty and drop empty arg from getname_flags")
+969ce92da311 ("vfs: stop using user_path_at_empty in do_readlinkat")
+9013c51c630a ("vfs: mostly undo glibc turning 'fstat()' into 'fstatat(AT_EMPTY_PATH)'")
