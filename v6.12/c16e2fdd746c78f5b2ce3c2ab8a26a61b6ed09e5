@@ -1,0 +1,7 @@
+c16e2fdd746c ("uprobes: deny mremap(xol_vma)")
+c5356ab1db28 ("uprobes: pass utask to xol_get_insn_slot() and xol_free_insn_slot()")
+1cee988c1d21 ("uprobes: move the initialization of utask->xol_vaddr from pre_ssout() to xol_get_insn_slot()")
+6ffe8c7d871b ("uprobes: simplify xol_take_insn_slot() and its caller")
+430af825ba99 ("uprobes: kill the unnecessary put_uprobe/xol_free_insn_slot in uprobe_free_utask()")
+c7b4133c4844 ("uprobes: sanitiize xol_free_insn_slot()")
+b302d5a6fff5 ("uprobes: don't abuse get_utask() in pre_ssout() and prepare_uretprobe()")

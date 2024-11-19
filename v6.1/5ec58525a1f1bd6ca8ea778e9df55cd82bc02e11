@@ -1,0 +1,3 @@
+5ec58525a1f1 ("locking/mutex: Make mutex::wait_lock irq safe")
+894d1b3db41c ("locking/mutex: Remove wakeups from under mutex::wait_lock")
+d14f9e930b90 ("locking/rtmutex: Use rt_mutex specific scheduler helpers")

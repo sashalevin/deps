@@ -1,0 +1,5 @@
+26baa1f1c4bd ("sched: Add TIF_NEED_RESCHED_LAZY infrastructure")
+194600008d5c ("sched/timers: Explain why idle task schedules out on remote timer enqueue")
+e4df1511e1f4 ("cpuidle, sched: Remove instrumentation from TIF_{POLLING_NRFLAG,NEED_RESCHED}")
+c02d5546ea34 ("sched/core: Use try_cmpxchg in set_nr_{and_not,if}_polling")
+6ce895128b3b ("entry: Snapshot thread flags")

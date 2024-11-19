@@ -1,0 +1,4 @@
+9b99d65c0bb4 ("perf/x86/rapl: Move the pmu allocation out of CPU hotplug")
+8d72eba1cf8c ("perf/x86/rapl: Fix the energy-pkg event for AMD CPUs")
+626c5acf39ba ("perf/x86/rapl: Rename 'maxdie' to nr_rapl_pmu and 'dieid' to rapl_pmu_idx")
+dfbc411e0a5e ("perf/x86/rapl: Prefer struct_size() over open coded arithmetic")

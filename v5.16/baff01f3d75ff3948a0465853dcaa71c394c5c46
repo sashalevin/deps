@@ -1,0 +1,8 @@
+baff01f3d75f ("perf/x86: Refactor misc flag assignments")
+04782e63917d ("perf/core: Hoist perf_instruction_pointer() and perf_misc_flags()")
+1c3430516b07 ("perf: Add wrappers for invoking guest callbacks")
+b9f5621c9547 ("perf/core: Rework guest callbacks to prepare for static_call support")
+2934e3d09350 ("perf: Stop pretending that perf can handle multiple guest callbacks")
+f4b027c5c819 ("KVM: x86: Register Processor Trace interrupt hook iff PT enabled in guest")
+5c7df80e2ce4 ("KVM: x86: Register perf callbacks after calling vendor's hardware_setup()")
+ff083a2d972f ("perf: Protect perf_guest_cbs with RCU")

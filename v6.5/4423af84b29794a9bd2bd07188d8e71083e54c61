@@ -1,0 +1,5 @@
+4423af84b297 ("sched/fair: optimize the PLACE_LAG when se->vlag is zero")
+e8f331bcc270 ("sched/smp: Use lag to simplify cross-runqueue placement")
+86bfbb7ce4f6 ("sched/fair: Add lag based placement")
+e0c2ff903c32 ("sched/fair: Remove sched_feat(START_DEBIT)")
+af4cf40470c2 ("sched/fair: Add cfs_rq::avg_vruntime")

@@ -1,0 +1,6 @@
+5ec58525a1f1 ("locking/mutex: Make mutex::wait_lock irq safe")
+894d1b3db41c ("locking/mutex: Remove wakeups from under mutex::wait_lock")
+d14f9e930b90 ("locking/rtmutex: Use rt_mutex specific scheduler helpers")
+dc1f7893a70f ("locking/mutex: Make contention tracepoints more consistent wrt adaptive spinning")
+ee042be16cb4 ("locking: Apply contention tracepoints in the slow path")
+16edd9b511a1 ("locking: Add lock contention tracepoints")
