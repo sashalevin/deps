@@ -1,0 +1,6 @@
+84dd048cf895 ("crypto: x86/crc32c - eliminate jump table and excessive unrolling")
+eebcadfa21e6 ("crypto: x86/crc32c - access 32-bit arguments as 32-bit")
+84ebf9dbe652 ("crypto: x86/crc32c - simplify code for handling fewer than 200 bytes")
+54aa699e8094 ("arch/x86: Fix typos")
+473e3150e30a ("bpf, x86: allow function arguments up to 12 for TRACING")
+02a6dfa8ff43 ("bpf, x86: save/restore regs with BPF_DW size")

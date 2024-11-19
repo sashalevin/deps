@@ -1,0 +1,8 @@
+d11c8b87a362 ("hwrng: drivers - Switch back to struct platform_driver::remove()")
+a9a72140536f ("hwrng: mxc-rnga - Drop usage of platform_driver_probe()")
+9d7edaae7c1f ("hwrng: xgene - Convert to platform remove callback returning void")
+0791bdf56112 ("hwrng: mxc - Convert to platform remove callback returning void")
+0e44db95eecb ("hwrng: xgene - Improve error reporting for problems during .remove()")
+67fb1e295839 ("hwrng: xgene - Simplify using devm_clk_get_optional_enabled()")
+11f92a130879 ("hwrng: xgene - Simplify using dev_err_probe()")
+190873a0ea45 ("crypto: ingenic - Add hardware RNG for Ingenic JZ4780 and X1000")

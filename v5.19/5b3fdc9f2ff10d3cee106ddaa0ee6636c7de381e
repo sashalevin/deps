@@ -1,0 +1,6 @@
+5b3fdc9f2ff1 ("random: Do not include <linux/prandom.h> in <linux/random.h>")
+6bb20c152b6b ("random: do not include <asm/archrandom.h> from random.h")
+2c03e16f4499 ("random: remove early archrandom abstraction")
+d349ab99eec7 ("random: handle archrandom with multiple longs")
+0b9ba6135d7f ("um: seed rng using host OS rng")
+9592eef7c16e ("random: remove CONFIG_ARCH_RANDOM")

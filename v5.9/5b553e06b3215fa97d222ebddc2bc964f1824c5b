@@ -1,0 +1,7 @@
+5b553e06b321 ("crypto: virtio - Drop sign/verify operations")
+e01966e643c9 ("crypto: virtio - Less function calls in __virtio_crypto_akcipher_do_req() after error detection")
+a36bd0ad9fbf ("virtio-crypto: adjust dst_len at ops callback")
+59ca6c93387d ("virtio-crypto: implement RSA algorithm")
+24e19590628b ("virtio-crypto: introduce akcipher service")
+13d640a3e9a3 ("virtio_crypto: Introduce VIRTIO_CRYPTO_NOSPC")
+b1a5c9a620f2 ("crypto: virtio - don't use 'default m'")

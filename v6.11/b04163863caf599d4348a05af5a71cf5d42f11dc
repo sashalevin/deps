@@ -1,0 +1,6 @@
+b04163863caf ("crypto: ecdsa - Support P1363 signature decoding")
+d6793ff974e0 ("crypto: ecdsa - Move X9.62 signature decoding into template")
+3b0565c70350 ("crypto: ecdsa - Avoid signed integer overflow on signature decoding")
+ef132350a3c2 ("crypto: ecdsa - Migrate to sig_alg backend")
+65c4c93caaf1 ("crypto: sig - Introduce sig_alg backend")
+beea320112e5 ("crypto: ecdsa - Drop unused test vector elements")

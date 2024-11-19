@@ -1,0 +1,6 @@
+a1ba22921e71 ("crypto: drbg - Use str_true_false() and str_enabled_disabled() helpers")
+8ea5ee00beb9 ("crypto: drbg - reseed 'nopr' drbgs periodically from get_random_bytes()")
+074bcd4000e0 ("crypto: drbg - make reseeding from get_random_bytes() synchronous")
+262d83a4290c ("crypto: drbg - move dynamic ->reseed_threshold adjustments to __drbg_seed()")
+2bcd25443868 ("crypto: drbg - track whether DRBG was seeded with !rng_is_initialized()")
+ce8ce31b2c5c ("crypto: drbg - prepare for more fine-grained tracking of seeding state")

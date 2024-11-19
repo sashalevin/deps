@@ -1,0 +1,7 @@
+842285d4ce1c ("hwrng: stm32 - implement support for STM32MP25x platforms")
+771c7faa65fb ("hwrng: stm32 - cache device pointer in struct stm32_rng_private")
+f134d5dce9c1 ("hwrng: stm32 - use pm_runtime_resume_and_get()")
+c819d7b836c5 ("hwrng: stm32 - repair clock handling")
+da62ed5c019c ("hwrng: stm32 - put IP into RPM suspend on failure")
+31b57788a502 ("hwrng: stm32 - use logical OR in conditional")
+429fec81d122 ("hwrng: stm32 - add missing clk_disable_unprepare() in stm32_rng_init()")
