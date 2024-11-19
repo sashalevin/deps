@@ -1,0 +1,8 @@
+ca6dd1faa022 ("s390/cpcmd: Convert to use flag output macros")
+b378a9826143 ("s390: include linux/io.h instead of asm/io.h")
+51f513fd9659 ("s390/mm: do not include <asm-generic/io.h> directly")
+a64e45c2ea62 ("s390/cpum_sf: move functions from header file to source file")
+82d3edb50a11 ("s390/cpum_sf: add READ_ONCE() semantics to compare and swap loops")
+78c045c08a39 ("s390/appldata: remove power management callbacks")
+2f0e8aae26a2 ("s390/mm: rework memcpy_real() to avoid DAT-off mode")
+4df29d2b9024 ("s390/smp: rework absolute lowcore access")

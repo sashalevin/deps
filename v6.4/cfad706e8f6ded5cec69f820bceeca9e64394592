@@ -1,0 +1,7 @@
+cfad706e8f6d ("arm64/mm: Handle GCS data aborts")
+7f0ab6076307 ("arm64: handle PKEY/POE faults")
+eebb5181a02f ("arm64: mm: drop VM_FAULT_BADMAP/VM_FAULT_BADACCESS")
+faab3d0f250a ("arm64: mm: accelerate pagefault when VM_FAULT_BADACCESS")
+6ea02ee48979 ("arm64: mm: cleanup __do_page_fault()")
+24be4d0b46bb ("arch/arm64/mm/fault: Fix undeclared variable error in do_page_fault()")
+ae870a68b5d1 ("arm64/mm: Convert to using lock_mm_and_find_vma()")

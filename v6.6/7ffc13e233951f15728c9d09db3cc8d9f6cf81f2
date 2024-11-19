@@ -1,0 +1,4 @@
+7ffc13e23395 ("arm64: tlbflush: add __flush_tlb_range_limit_excess()")
+73301e464a72 ("arm64: tlb: Allow range operation for MAX_TLBI_RANGE_PAGES")
+d9d8dc2bd3fb ("arm64/mm: dplit __flush_tlb_range() to elide trailing DSB")
+ec1c3b9ff160 ("arm64: tlbflush: Rename MAX_TLBI_OPS")

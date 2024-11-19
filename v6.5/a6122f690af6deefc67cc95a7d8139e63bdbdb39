@@ -1,0 +1,8 @@
+a6122f690af6 ("s390/diag: Convert to use flag output macros")
+2c6c9ccc7643 ("s390/wti: Introduce infrastructure for warning track interrupt")
+ebe1cd530fb2 ("s390/ctlreg: rename ctl_reg.h to ctlreg.h")
+0c4d01f39529 ("s390/ctlreg: move control register code to separate file")
+e1b9c2749af0 ("s390/smp: ensure global control register contents are in sync")
+c28c07fe235c ("s390/mm: move pfault code to own C file")
+b9b4568843bb ("s390/kexec: make machine_kexec() depend on CONFIG_KEXEC_CORE")
+8cf57d7217c3 ("s390: add support for user-defined certificates")

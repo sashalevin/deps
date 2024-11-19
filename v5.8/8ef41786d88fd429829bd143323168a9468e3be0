@@ -1,0 +1,6 @@
+8ef41786d88f ("arm64/mm: Change pgattr_change_is_safe() arguments as pteval_t")
+004fc58f917c ("arm64/mm: Intercept pfn changes in set_pte_at()")
+34bfeea4a9e9 ("arm64: mte: Clear the tags when a page is mapped in user-space with PROT_MTE")
+637ec831ea4f ("arm64: mte: Handle synchronous and asynchronous tag check faults")
+3b714d24ef17 ("arm64: mte: CPU feature detection and initial sysreg configuration")
+18aa3bd58b14 ("Merge branch 'for-next/tlbi' into for-next/core")

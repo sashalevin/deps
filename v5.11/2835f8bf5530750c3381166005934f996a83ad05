@@ -1,0 +1,8 @@
+2835f8bf5530 ("s390/pageattr: Implement missing kernel_page_present()")
+0490d6d7ba0a ("s390/mm: enable ARCH_HAS_SET_DIRECT_MAP")
+17c51b1ba9c2 ("s390/mm: use BIT macro to generate SET_MEMORY bit masks")
+869a9dbc10d2 ("s390/mm,pageattr: don't use pte_val()/pXd_val() as lvalue")
+e41ba1115a35 ("s390: add support for KFENCE")
+b3e1a00c8fa4 ("s390/mm: implement set_memory_4k()")
+bae1cd368c45 ("s390/entry: add support for syscall stack randomization")
+56e62a737028 ("s390: convert to generic entry")

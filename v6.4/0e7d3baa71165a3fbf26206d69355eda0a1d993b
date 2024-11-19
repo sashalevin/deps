@@ -1,0 +1,7 @@
+0e7d3baa7116 ("s390/cmpxchg: Implement arch_xchg() with arch_try_cmpxchg()")
+0b6de9aec285 ("s390/cmpxchg: Provide arch_try_cmpxchg()")
+febe950dbfb4 ("arch: Remove cmpxchg_double")
+6d12c8d308e6 ("percpu: Wire up cmpxchg128")
+c5c0ba953b8c ("percpu: Add {raw,this}_cpu_try_cmpxchg()")
+8c8b096a23d1 ("instrumentation: Wire up cmpxchg128()")
+b23e139d0b66 ("arch: Introduce arch_{,try_}_cmpxchg128{,_local}()")

@@ -1,0 +1,7 @@
+5c6808d1a9dd ("x86/pvh: Avoid absolute symbol references in .head.text")
+bb12f48cd150 ("x86/pvh: Use correct size value in GDT descriptor")
+e8fbc0d9cab6 ("x86/pvh: Call C code via the kernel virtual mapping")
+47ffe0578aee ("x86/pvh: Add 64bit relocation page tables")
+b464b461d27d ("x86/pvh: Set phys_base when calling xen_prepare_pvh()")
+1db29f99edb0 ("x86/pvh: Make PVH entrypoint PIC for x86-64")
+82694854caa8 ("x86/xen/pvh: Annotate indirect branch as safe")

@@ -1,0 +1,7 @@
+bb12f48cd150 ("x86/pvh: Use correct size value in GDT descriptor")
+1db29f99edb0 ("x86/pvh: Make PVH entrypoint PIC for x86-64")
+82694854caa8 ("x86/xen/pvh: Annotate indirect branch as safe")
+1de5bdce0c3f ("xen/pvh: Annotate data appropriately")
+fcd474769815 ("xen/pvh: Move PVH entry code out of Xen specific tree")
+7deecbda3026 ("xen/pvh: increase early stack size")
+28c11b0f798c ("x86/xen: Move pv irq related functions under CONFIG_XEN_PV umbrella")

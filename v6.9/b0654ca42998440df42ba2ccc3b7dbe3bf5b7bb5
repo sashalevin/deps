@@ -1,0 +1,6 @@
+b0654ca42998 ("lsm: create new security_cred_getlsmprop LSM hook")
+37f670aacd48 ("lsm: use lsm_prop in security_current_getsecid")
+e4f682204408 ("audit: update shutdown LSM data")
+870b7fdc660b ("lsm: use lsm_prop in security_audit_rule_match")
+d19a9e25a722 ("selinux: fix style problems in security/selinux/include/audit.h")
+9a95c5bfbf02 ("ima: Avoid blocking in RCU read-side critical section")
