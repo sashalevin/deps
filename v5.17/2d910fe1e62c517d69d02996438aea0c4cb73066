@@ -1,0 +1,8 @@
+2d910fe1e62c ("ata: Switch back to struct platform_driver::remove()")
+99bce5182d8f ("ata: pata_gayle: Convert to platform remove callback returning void")
+47d4708dfa54 ("ata: pata_falcon: Convert to platform remove callback returning void")
+0b2771dd5257 ("ata: pata_gayle: Stop using module_platform_driver_probe()")
+36f10a914a7b ("ata: pata_falcon: Stop using module_platform_driver_probe()")
+a7eb54d44045 ("ata: libata: Make ata_platform_remove_one return void")
+33629d35090f ("ata: ahci: Add DWC AHCI SATA controller support")
+ec194bdbc5f9 ("ata: simplify the return expression of brcm_ahci_remove")

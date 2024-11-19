@@ -1,0 +1,5 @@
+7f212e997edb ("virtio_blk: reverse request order in virtio_queue_rqs")
+37fafe6b61e4 ("virtio-blk: Fix WARN_ON_ONCE in virtio_queue_rq()")
+8d12ec102928 ("virtio-blk: Avoid use-after-free on suspend/resume")
+0e9911fa768f ("virtio-blk: support mq_ops->queue_rqs()")
+4e0400525691 ("virtio-blk: support polling I/O")

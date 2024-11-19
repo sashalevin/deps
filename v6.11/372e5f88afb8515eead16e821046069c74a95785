@@ -1,0 +1,4 @@
+372e5f88afb8 ("btrfs: drop unused parameter inode from read_inline_extent()")
+dce9ef941205 ("btrfs: convert btrfs_get_extent() to take a folio")
+220e77c412d3 ("btrfs: convert read_inline_extent() to use a folio")
+752965824b6d ("btrfs: convert uncompress_inline() to take a folio")

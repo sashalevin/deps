@@ -1,0 +1,8 @@
+e410ffca5886 ("io_uring/rsrc: kill io_charge_rsrc_node()")
+c29006a2456b ("io_uring: remove io_req_put_rsrc_locked()")
+3f302388d458 ("io_uring/rsrc: improve code generation for fixed file assignment")
+17bc28374cd0 ("io_uring: have io_file_put() take an io_kiocb rather than the file")
+2fdd6fb5ff95 ("io_uring: don't batch task put on reqs free")
+3b7a612fd0db ("io_uring: inline io_dismantle_req()")
+6ec9afc7f4cb ("io_uring: remove io_free_req_tw")
+4bfb0c9af832 ("io_uring: add helpers to decode the fixed file file_ptr")

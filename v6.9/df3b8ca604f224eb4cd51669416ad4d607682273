@@ -1,0 +1,6 @@
+df3b8ca604f2 ("io_uring/cmd: let cmds to know about dying task")
+8e5b3b89ecaf ("io_uring: remove struct io_tw_state::locked")
+92219afb980e ("io_uring: force tw ctx locking")
+e1eef2e56cb0 ("io_uring/cmd: fix tw <-> issue_flags conversion")
+6edd953b6ec7 ("io_uring/cmd: kill one issue_flags to tw conversion")
+da12d9ab5889 ("io_uring/cmd: move io_uring_try_cancel_uring_cmd()")

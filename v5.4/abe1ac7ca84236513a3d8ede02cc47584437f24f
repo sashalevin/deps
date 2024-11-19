@@ -1,0 +1,8 @@
+abe1ac7ca842 ("jbd2: make b_frozen_data allocation always succeed")
+abe48a52250a ("jbd2: remove unused return info from jbd2_journal_write_metadata_buffer")
+cc102aa24638 ("jbd2: avoid memleak in jbd2_journal_write_metadata_buffer")
+464170647b56 ("jbd2: Make state lock a spinlock")
+2e710ff03fc4 ("jbd2: Don't call __bforget() unnecessarily")
+93108ebb848d ("jbd2: Move dropping of jh reference out of un/re-filing functions")
+d8ede917f5cd ("jbd2: Remove jbd_trylock_bh_state()")
+d84560f74d85 ("jbd2: Simplify journal_unmap_buffer()")

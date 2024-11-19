@@ -1,0 +1,5 @@
+b6b3eb19dd86 ("io_uring: move cancel hash tables to kvmalloc/kvfree")
+8abf47a8d61c ("io_uring/cancel: get rid of init_hash_table() helper")
+ba4366f57b11 ("io_uring/poll: get rid of per-hashtable bucket locks")
+085268829b07 ("io_uring/poll: get rid of unlocked cancel hash")
+829ab73e7bca ("io_uring/poll: remove 'ctx' argument from io_poll_req_delete()")

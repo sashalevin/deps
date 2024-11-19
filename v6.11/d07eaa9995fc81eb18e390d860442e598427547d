@@ -1,0 +1,8 @@
+d07eaa9995fc ("btrfs: use filemap_get_folio() helper")
+5fe191244955 ("btrfs: convert extent_range_clear_dirty_for_io() to use a folio")
+c86d3aac8146 ("btrfs: convert insert_inline_extent() to use a folio")
+b38ec94ab95b ("btrfs: convert btrfs_cleanup_ordered_extents() to use folios")
+c808c1dcb1b2 ("btrfs: convert add_ra_bio_pages() to use only folios")
+c1deaa143891 ("btrfs: convert extent_write_locked_range() to use folios")
+b8a6263eae0e ("btrfs: convert __extent_writepage_io() to take a folio")
+b35397d1d325 ("btrfs: convert submit_extent_page() to use a folio")

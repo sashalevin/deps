@@ -1,0 +1,4 @@
+2c50ec98fc6c ("block: remove redundant passthrough check in blk_mq_need_time_stamp()")
+8e6e83d77227 ("block: skip start/end time stamping for passthrough IO")
+dd6216bb16e8 ("blk-mq: make sure elevator callbacks aren't called for passthrough request")
+fdcab6cddef2 ("blk-mq: remove RQF_ELVPRIV")

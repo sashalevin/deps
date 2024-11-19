@@ -1,0 +1,4 @@
+826cc42adf44 ("brd: defer automatic disk creation until module initialization succeeds")
+00358933f66c ("brd: remove brd_devices_mutex mutex")
+e1528830bd4e ("block/brd: add error handling support for add_disk()")
+f7bf35862477 ("brd: reduce the brd_devices_mutex scope")

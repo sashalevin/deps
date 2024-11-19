@@ -1,0 +1,4 @@
+fd0a63bcda40 ("block: remove 'req->part' check for stats accounting")
+3f9b8fb46e5d ("Use bdev_is_paritition() instead of open-coding it")
+06965037ce94 ("block: open code __blk_account_io_done()")
+b81c14ca14b6 ("blk-mq: do not update io_ticks with passthrough requests")

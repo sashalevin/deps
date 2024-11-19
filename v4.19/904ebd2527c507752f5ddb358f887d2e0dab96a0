@@ -1,0 +1,4 @@
+904ebd2527c5 ("block: remove redundant explicit memory barrier from rq_qos waiter and waker")
+e972b08b91ef ("blk-rq-qos: fix crash on rq_qos_wait vs. rq_qos_wake_function race")
+ac38297f7038 ("rq-qos: use a mb for got_token")
+84f603246db9 ("block: add rq_qos_wait to rq_qos")

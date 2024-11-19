@@ -1,0 +1,8 @@
+5e52f71f858e ("nvme: use helpers to access io_uring cmd space")
+00fc2eeb15ac ("nvme: helper for uring-passthrough checks")
+456cba386e94 ("nvme: wire-up uring-cmd support for io-passthru on char-device.")
+bcad2565b5d6 ("nvme: refactor nvme_submit_user_cmd()")
+e559398f47e0 ("nvme: remove nvme_alloc_request and nvme_alloc_request_qid")
+89377bc1975c ("nvme: add vectored-io support for user-passthrough")
+ae5e6886b4f8 ("nvme: use return value from blk_execute_rq()")
+be42a33b9252 ("nvme: use blk_execute_rq() for passthrough commands")

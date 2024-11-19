@@ -1,0 +1,5 @@
+c91979006023 ("io_uring/rsrc: don't assign bvec twice in io_import_fixed()")
+3d6106aee473 ("io_uring/rsrc: store folio shift and mask into imu")
+a23800f08a60 ("io_uring/rsrc: fix incorrect assignment of iter->nr_segs in io_import_fixed")
+d6fef34ee4d1 ("io_uring: fix off-by one bvec index")
+04d9244c9420 ("io_uring/rsrc: Annotate struct io_mapped_ubuf with __counted_by")

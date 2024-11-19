@@ -1,0 +1,6 @@
+d419284c95d3 ("md/raid10: don't wait for Faulty rdev in wait_blocked_rdev()")
+3a0f007b6979 ("md: add a new helper rdev_has_badblock()")
+2d32777d60de ("md/raid1: remove rcu protection to access rdev from conf")
+a448af25becf ("md/raid10: remove rcu protection to access rdev from conf")
+c891f1fd90e6 ("md: remove flag RemoveSynchronized")
+3389d57f9753 ("md: factor out a helper rdev_removeable() from remove_and_add_spares()")

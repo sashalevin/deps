@@ -1,0 +1,6 @@
+aaa736b18623 ("io_uring: specify freeptr usage for SLAB_TYPESAFE_BY_RCU io_kiocb cache")
+a6711d1cd4e2 ("io_uring: port to struct kmem_cache_args")
+a6e959bd3d6b ("io_uring: Simplify the allocation of slab caches")
+b3a4dbc89d40 ("io_uring/kbuf: Use slab for struct io_buffer objects")
+f74c746e476b ("io_uring/kbuf: Allow the full buffer id space for provided buffers")
+ab69838e7c75 ("io_uring/kbuf: Fix check of BID wrapping in provided buffers")

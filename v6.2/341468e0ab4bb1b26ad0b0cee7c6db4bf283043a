@@ -1,0 +1,6 @@
+341468e0ab4b ("lib/iov_iter: fix bvec iterator setup")
+496a51b37143 ("lib/iov_iter.c: initialize bi.bi_idx before iterating over bvec")
+e4e535bff2bc ("iov_iter: don't require contiguous pages in iov_iter_extract_bvec_pages")
+f741bd7178c9 ("iov_iter: Fix iov_iter_extract_pages() with zero-sized entries")
+7d58fe731028 ("iov_iter: Add a function to extract a page list from an iterator")
+f62e52d1276b ("iov_iter: Define flags to qualify page extraction.")

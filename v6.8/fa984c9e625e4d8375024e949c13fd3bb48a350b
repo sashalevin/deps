@@ -1,0 +1,5 @@
+fa984c9e625e ("btrfs: remove unused page_to_inode and page_to_fs_info macros")
+b33d2e535f9b ("btrfs: add helpers to get fs_info from page/folio pointers")
+c8293894afa7 ("btrfs: add helpers to get inode from page/folio pointers")
+4e00422ee626 ("btrfs: replace sb::s_blocksize by fs_info::sectorsize")
+dfba9f477306 ("btrfs: add set_folio_extent_mapped() helper")

@@ -1,0 +1,8 @@
+3ec7cb11bb9e ("mmc: block: attach partitions fwnode if found in mmc-card")
+9c1aaec47527 ("mmc: block: Add error handling support for add_disk()")
+a94dcfce70d3 ("mmc: block: cleanup gendisk creation")
+29e6a5e01d0a ("mmc: block: let device_add_disk create disk attributes")
+607d968a5769 ("mmc: switch to blk_mq_alloc_disk")
+6f1d3247662a ("mmc: block: Fix error path in mmc_blk_probe()")
+ce999ed15e23 ("mmc: block: Simplify logging during probe about added partitions")
+1cb039f3dc16 ("bdi: replace BDI_CAP_STABLE_WRITES with a queue and a sb flag")

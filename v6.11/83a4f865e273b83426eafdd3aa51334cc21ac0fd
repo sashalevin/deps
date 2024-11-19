@@ -1,0 +1,6 @@
+83a4f865e273 ("io_uring/eventfd: abstract out ev_fd grab + release helpers")
+3ca5a3560414 ("io_uring/eventfd: move trigger check into a helper")
+60c5f15800f2 ("io_uring/eventfd: move actual signaling part into separate helper")
+3c90b80df5b5 ("io_uring/eventfd: check for the need to async notifier earlier")
+165126dc5e23 ("io_uring/eventfd: abstract out ev_fd put helper")
+0e0bcf07ec5b ("io_uring/eventfd: move refs to refcount_t")

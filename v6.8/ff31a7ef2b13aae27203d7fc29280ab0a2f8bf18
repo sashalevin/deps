@@ -1,0 +1,5 @@
+ff31a7ef2b13 ("md/raid1: don't wait for Faulty rdev in wait_blocked_rdev()")
+88ed59c4cc6c ("md/raid1: factor out helper to handle blocked rdev from raid1_write_request()")
+fcf3f7e2fc8a ("raid1: fix use-after-free for original bio in raid1_write_request()")
+28be4fd310d1 ("md: add a mddev_add_trace_msg helper")
+c396b90e5026 ("md: add a mddev_trace_remap helper")

@@ -1,0 +1,6 @@
+a90825898bec ("ext4: don't pass full mapping flags to ext4_es_insert_extent()")
+c543e2429640 ("ext4: update delalloc data reserve spcae in ext4_es_insert_extent()")
+f3baf33b9cae ("ext4: passing block allocation information to ext4_es_insert_extent()")
+fccd63267040 ("ext4: let __revise_pending() return newly inserted pendings")
+eba8c368c8cb ("ext4: don't set EXTENT_STATUS_DELAYED on allocated blocks")
+130078d020e0 ("ext4: factor out ext4_map_create_blocks() to allocate new blocks")

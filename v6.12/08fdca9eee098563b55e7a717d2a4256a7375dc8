@@ -1,0 +1,3 @@
+08fdca9eee09 ("btrfs: avoid superfluous calls to free_extent_map() in btrfs_encoded_read()")
+26efd44796c6 ("btrfs: change btrfs_encoded_read() so that reading of extent is done by caller")
+4bca7412b832 ("btrfs: remove pointless iocb::ki_pos addition in btrfs_encoded_read()")

@@ -1,0 +1,8 @@
+1d16c2761bcc ("btrfs: reduce extent tree lock contention when searching for inline backref")
+cc925b9646b4 ("btrfs: use a single variable for return value at lookup_inline_extent_backref()")
+182741d287fb ("btrfs: remove v0 extent handling")
+7f72f50547b7 ("btrfs: output extra debug info if we failed to find an inline backref")
+b831306b3b7d ("btrfs: print assertion failure report and stack trace from the same line")
+09c5ae30d007 ("btrfs: Mark btrfs_assertfail() __noreturn")
+071c44e42781 ("sched/idle: Mark arch_cpu_idle_dead() __noreturn")
+dfb0f170cadb ("sched/idle: Make sure weak version of arch_cpu_idle_dead() doesn't return")

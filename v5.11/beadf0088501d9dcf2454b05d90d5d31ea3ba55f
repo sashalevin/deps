@@ -1,0 +1,7 @@
+beadf0088501 ("nvme-pci: reverse request order in nvme_queue_rqs")
+6bfec7992ec7 ("nvme-pci: fix queue_rqs list splitting")
+d62cbcf62f2f ("nvme: add support for mq_ops->queue_rqs()")
+c234a6539206 ("nvme: add support for batched completion of polled IO")
+05fae499a944 ("nvme-pci: cleanup nvme_irq()")
+e9c78c23359f ("nvme-pci: remove the barriers in nvme_irq()")
+dda3248e7fc3 ("nvme: introduce a nvme_host_path_error helper")

@@ -1,0 +1,6 @@
+ad438d070a3b ("io_uring/net: don't store send address ptr")
+93db98f6f1d6 ("io_uring/net: split send and sendmsg prep helpers")
+51c967c6c9ea ("io_uring/net: move send zc fixed buffer import to issue path")
+1caa00d6b616 ("io_uring: remove 'issue_flags' argument for io_req_set_rsrc_node()")
+003f82b58c99 ("io_uring/rw: get rid of using req->imu")
+892d3e80e1b9 ("io_uring/uring_cmd: get rid of using req->imu")

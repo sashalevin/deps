@@ -1,0 +1,7 @@
+ba40f4c590f4 ("block: add support for defining read-only partitions")
+7f6be3765e11 ("block: pass a gendisk to bdev_add_partition")
+b5cfbd35ecca ("block: check disk exist before trying to add partition")
+a8698707a183 ("block: move bd_mutex to struct gendisk")
+210a6d756f20 ("block: move sync_blockdev from __blkdev_put to blkdev_put")
+362529d9280a ("block: split __blkdev_get")
+958229a7c55f ("block: add a flag to make put_disk on partially initalized disks safer")
