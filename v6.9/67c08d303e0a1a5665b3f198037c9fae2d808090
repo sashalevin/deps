@@ -1,0 +1,7 @@
+67c08d303e0a ("cpufreq/amd-pstate: Don't update CPPC request in amd_pstate_cpu_boost_update()")
+67d95303c847 ("cpufreq: amd-pstate: Fix uninitialized variable in amd_pstate_cpu_boost_update()")
+c8c68c38b56f ("cpufreq: amd-pstate: initialize core precision boost state")
+fc6e0837264a ("cpufreq: amd-pstate: Allow users to write 'default' EPP string")
+e4731baaf294 ("cpufreq: amd-pstate: Fix the inconsistency in max frequency units")
+3cbbe8871a2f ("cpufreq: amd-pstate: Remove amd_get_{min,max,nominal,lowest_nonlinear}_freq()")
+5547c0ebfc2e ("cpufreq: amd-pstate: Unify computation of {max,min,nominal,lowest_nonlinear}_freq")

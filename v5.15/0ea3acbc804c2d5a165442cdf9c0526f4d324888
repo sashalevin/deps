@@ -1,0 +1,6 @@
+0ea3acbc804c ("rcu/srcutiny: don't return before reenabling preemption")
+65b4a59557f6 ("srcu: Make Tiny SRCU explicitly disable preemption")
+5fe89191e43f ("srcu: Make Tiny SRCU use full-sized grace-period counters")
+de3f2671ae56 ("srcu: Make Tiny SRCU poll_state_synchronize_srcu() more precise")
+d66e4cf974a5 ("srcu: Add GP and maximum requested GP to Tiny SRCU rcutorture output")
+1f8da406a964 ("srcu: Prevent redundant __srcu_read_unlock() wakeup")

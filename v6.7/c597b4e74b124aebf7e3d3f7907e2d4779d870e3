@@ -1,0 +1,8 @@
+c597b4e74b12 ("thermal: core: Introduce thermal_cdev_update_nocheck()")
+84248e35d9b6 ("thermal: gov_bang_bang: Split bang_bang_control()")
+b9b6ee6fe258 ("thermal: gov_bang_bang: Call __thermal_cdev_update() directly")
+2c637af8a74d ("thermal: gov_bang_bang: Drop unnecessary cooling device target state checks")
+0ae204a66745 ("thermal: gov_bang_bang: Fold thermal_zone_trip_update() into its caller")
+4526c581098e ("thermal: gov_bang_bang: Clean up thermal_zone_trip_update()")
+530c932bdf75 ("thermal: gov_bang_bang: Use .trip_crossed() instead of .throttle()")
+54d94009cb6f ("thermal: gov_bang_bang: Fix possible cooling device state ping-pong")

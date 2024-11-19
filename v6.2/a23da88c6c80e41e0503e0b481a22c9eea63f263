@@ -1,0 +1,8 @@
+a23da88c6c80 ("rcu/kvfree: Fix data-race in __mod_timer / kvfree_call_rcu")
+2ca836b1da17 ("rcu/kvfree: Split ready for reclaim objects from a batch")
+4c33464ae85e ("rcu/kvfree: Carefully reset number of objects in krcp")
+cc37d52076a9 ("rcu/kvfree: Use a polled API to speedup a reclaim process")
+8fc5494ad5fa ("rcu/kvfree: Move need_offload_krc() out of krcp->lock")
+8c15a9e80865 ("rcu/kvfree: Move bulk/list reclaim to separate functions")
+27538e18b62f ("rcu/kvfree: Switch to a generic linked list API")
+04a522b7da3d ("rcu: Refactor kvfree_call_rcu() and high-level helpers")

@@ -1,0 +1,6 @@
+7f261203d7c2 ("ACPI: x86: Make UART skip quirks work on PCI UARTs without an UID")
+d8f20383a2fc ("ACPI: x86: Add PNP_UART1_SKIP quirk for Lenovo Blade2 tablets")
+7c86e17455de ("ACPI: x86: Move acpi_quirk_skip_serdev_enumeration() out of CONFIG_X86_ANDROID_TABLETS")
+596ca52a56da ("ACPI: TAD: Install SystemCMOS address space handler for ACPI000E")
+f91280f35895 ("ACPI: x86: Add ACPI_QUIRK_UART1_SKIP for Lenovo Yoga Book yb1-x90f/l")
+69d6b37695c1 ("ACPI: x86: Add skip i2c clients quirk for Nextbook Ares 8A")

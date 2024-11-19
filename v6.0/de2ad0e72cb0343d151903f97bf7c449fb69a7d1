@@ -1,0 +1,6 @@
+de2ad0e72cb0 ("rcutorture: Test start-poll primitives with interrupts disabled")
+43b39cafbaf6 ("rcutorture: Make rcutorture support srcu double call test")
+405d8e91f0a9 ("rcu/rcutorture: Use call_rcu_hurry() where needed")
+76ea364161e7 ("rcu: Add full-sized polling for start_poll()")
+3fdefca9b42c ("rcu: Add full-sized polling for get_state()")
+91a967fd6934 ("rcu: Add full-sized polling for get_completed*() and poll_state*()")
