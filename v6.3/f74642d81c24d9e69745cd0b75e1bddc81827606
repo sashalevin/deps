@@ -1,0 +1,7 @@
+f74642d81c24 ("x86/cpu: Remove redundant CONFIG_NUMA guard around numa_add_cpu()")
+35ce64922c82 ("x86/idle: Select idle routine only once")
+5f75916ec6ec ("x86/idle: Let prefer_mwait_c1_over_halt() return bool")
+f3d7eab7be87 ("x86/idle: Cleanup idle_setup()")
+0ab562875c01 ("x86/idle: Clean up idle selection")
+cb81deefb59d ("x86/idle: Sanitize X86_BUG_AMD_E400 handling")
+7c7077a72674 ("x86/cpu: Switch to arch_cpu_finalize_init()")

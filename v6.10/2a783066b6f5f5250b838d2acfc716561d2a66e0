@@ -1,0 +1,7 @@
+2a783066b6f5 ("x86/mm: Refactor __set_clr_pte_enc()")
+627dc671518b ("x86/sev: Extend the config-fs attestation support for an SVSM")
+20dfee959364 ("x86/sev: Take advantage of configfs visibility support in TSM")
+614dc0fb7632 ("sev-guest: configfs-tsm: Allow the privlevel_floor attribute to be updated")
+eb65f96cb332 ("virt: sev-guest: Choose the VMPCK key based on executing VMPL")
+34ff65901735 ("x86/sev: Use kernel provided SVSM Calling Areas")
+878e70dbd26e ("x86/sev: Check for the presence of an SVSM in the SNP secrets page")

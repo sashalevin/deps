@@ -1,0 +1,4 @@
+750fd23926f1 ("x86/mce: Add wrapper for struct mce to export vendor specific info")
+793aa4bf192d ("x86/mce: Use mce_prep_record() helpers for apei_smca_report_x86_error()")
+f9bbb8ad0c8b ("x86/mce: Define mce_prep_record() helpers for common and per-CPU fields")
+5ad21a249732 ("x86/mce: Rename mce_setup() to mce_prep_record()")

@@ -1,0 +1,5 @@
+f30470c190c2 ("x86/boot: Skip video memory access in the decompressor for SEV-ES/SNP")
+cd0d9d92c8bb ("x86/boot: Move mem_encrypt= parsing to the decompressor")
+1c811d403afd ("x86/sev: Fix position dependent variable references in startup code")
+29956748339a ("x86/Kconfig: Remove CONFIG_AMD_MEM_ENCRYPT_ACTIVE_BY_DEFAULT")
+e814b59e6c2b ("x86/sme: Fix memory encryption setting if enabled by default and not overridden")

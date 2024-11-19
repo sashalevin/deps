@@ -1,0 +1,8 @@
+ae596615d93d ("virt: sev-guest: Reduce the scope of SNP command mutex")
+627dc671518b ("x86/sev: Extend the config-fs attestation support for an SVSM")
+20dfee959364 ("x86/sev: Take advantage of configfs visibility support in TSM")
+614dc0fb7632 ("sev-guest: configfs-tsm: Allow the privlevel_floor attribute to be updated")
+34ff65901735 ("x86/sev: Use kernel provided SVSM Calling Areas")
+878e70dbd26e ("x86/sev: Check for the presence of an SVSM in the SNP secrets page")
+e2f4c8c319ab ("x86/sev: Make the VMPL0 checking more straight forward")
+88ed43d32beb ("x86/sev: Rename snp_init() in boot/compressed/sev.c")

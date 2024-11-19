@@ -1,0 +1,8 @@
+4ae47fa7e8f9 ("x86/virt: Move SEV-specific parsing into arch/x86/virt/svm")
+c14e4114582c ("x86/sev: Fix __reserved field in sev_config")
+99ef9f59847c ("x86/sev: Allow non-VMPL0 execution when an SVSM is present")
+627dc671518b ("x86/sev: Extend the config-fs attestation support for an SVSM")
+20dfee959364 ("x86/sev: Take advantage of configfs visibility support in TSM")
+614dc0fb7632 ("sev-guest: configfs-tsm: Allow the privlevel_floor attribute to be updated")
+34ff65901735 ("x86/sev: Use kernel provided SVSM Calling Areas")
+878e70dbd26e ("x86/sev: Check for the presence of an SVSM in the SNP secrets page")
