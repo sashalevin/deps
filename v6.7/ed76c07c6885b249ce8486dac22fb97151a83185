@@ -1,0 +1,5 @@
+ed76c07c6885 ("printk: Introduce FORCE_CON flag")
+70411bf8d22a ("printk: Add is_printk_legacy_deferred()")
+0e1d5731d3c1 ("printk: Check printk_deferred_enter()/_exit() usage")
+779dbc2e78d7 ("printk: Avoid non-panic CPUs writing to ringbuffer")
+0ab7cdd00491 ("printk: For @suppress_panic_printk check for other CPU in panic")

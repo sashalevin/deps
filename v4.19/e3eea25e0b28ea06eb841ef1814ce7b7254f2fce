@@ -1,0 +1,6 @@
+e3eea25e0b28 ("tty: sysrq: Use printk_force_console context on __handle_sysrq")
+23cbedf812ff ("tty/sysrq: constify the sysrq API")
+0f1c9688a194 ("tty/sysrq: alpha: export and use __sysrq_get_key_op()")
+c39ea0b9dd24 ("panic: avoid the extra noise dmesg")
+c3fee60908db ("sysrq: Remove duplicated sysrq message")
+075e1a0c50f5 ("sysrq: Restore original console_loglevel when sysrq disabled")

@@ -1,0 +1,3 @@
+c4c9cebe2fb9 ("cgroup/cpuset: Further optimize code if CONFIG_CPUSETS_V1 not set")
+a040c351283e ("cgroup/cpuset: Enforce at most one rebuild_sched_domains_locked() call per operation")
+bcd7012afd7b ("cgroup/cpuset: Revert "Allow suppression of sched domain rebuild in update_cpumasks_hier()"")
