@@ -1,0 +1,5 @@
+941584e2f3dd ("spi: stm32: fix missing device mode capability in stm32mp25")
+f6cd66231aa5 ("spi: stm32: add st,stm32mp25-spi compatible supporting STM32MP25 soc")
+6f98f25247b7 ("spi: stm32: use dma_get_slave_caps prior to configuring dma channel")
+a5c1fa1318ee ("spi: stm32: switch to use modern name")
+adde8a55daf6 ("spi: stm32: rename stm32f4_* to stm32fx_*")

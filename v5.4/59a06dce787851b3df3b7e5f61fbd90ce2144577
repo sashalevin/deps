@@ -1,0 +1,8 @@
+59a06dce7878 ("regulator: core: Use fsleep() to get best sleep mechanism")
+caa08dd8cdb8 ("regulator: core: Fix short description for _regulator_check_status_enabled()")
+062920d24647 ("regulator: core: Sleep (not delay) in set_voltage()")
+a38dce4cb1f1 ("regulator: core: Rename _regulator_enable_delay()")
+a8ce7bd89689 ("regulator: core: Fix off_on_delay handling")
+a5ccccb3ec0b ("regulator: core: Respect off_on_delay at startup")
+f7d7ad42a9dc ("regulator: Allow regulators to verify enabled during enable()")
+089b3f61ecfc ("regulator: core: Let boot-on regulators be powered off")

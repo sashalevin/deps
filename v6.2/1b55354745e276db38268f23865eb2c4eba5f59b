@@ -1,0 +1,6 @@
+1b55354745e2 ("regulator: Switch back to struct platform_driver::remove()")
+8d6fab52f3fd ("regulator: wm8350: Convert to platform remove callback returning void")
+03560ff08d28 ("regulator: arizona-ldo1: Convert to platform remove callback returning void")
+557de8d84ae4 ("regulator: arizona-ldo1: Use PROBE_FORCE_SYNCHRONOUS")
+d3b81d97d558 ("regulator: Set PROBE_PREFER_ASYNCHRONOUS for drivers between 4.19 and 5.4")
+259b93b21a9f ("regulator: Set PROBE_PREFER_ASYNCHRONOUS for drivers that existed in 4.14")

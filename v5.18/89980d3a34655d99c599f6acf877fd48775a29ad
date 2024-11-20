@@ -1,0 +1,8 @@
+89980d3a3465 ("spi: fix typo in the comment")
+1a3ccff3bc39 ("spi: rockchip: switch to use modern name")
+ee493fa5d91d ("spi: mpc5xxx-psc: Correct error check for devm_platform_get_and_ioremap_resource()")
+60a6c8257f41 ("spi: mpc5xxx-psc: Use platform resources instead of parsing DT properties")
+01602336524e ("spi: mpc5xxx-psc: Convert probe to use devres functions")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")
+145cfc3840e5 ("spi: mpc52xx-psc: Switch to using core message queue")
+d5d933f09ac3 ("spi: rockchip: fix missing error on unsupported SPI_CS_HIGH")

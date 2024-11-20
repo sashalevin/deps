@@ -1,0 +1,5 @@
+7b94af24a7a4 ("spi: imx: pass struct spi_transfer to prepare_transfer()")
+f7b878716455 ("spi: spi-imx: fix sparse warning: add identifier name to function definition")
+135cbd378eab ("spi: imx: mx51-ecspi: Reinstate low-speed CONFIGREG delay")
+4df2f5e1372e ("spi: imx: add a check for speed_hz before calculating the clock")
+bcd8e7761ec9 ("spi: imx: fallback to PIO if dma setup failure")

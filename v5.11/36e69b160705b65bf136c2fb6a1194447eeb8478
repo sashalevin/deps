@@ -1,0 +1,6 @@
+36e69b160705 ("driver core: Add device probe log helper dev_warn_probe()")
+2f3cfd2f4b7c ("driver core: Make dev_err_probe() silent for -ENOMEM")
+532888a59505 ("driver core: Better advertise dev_err_probe()")
+9e0cace7a625 ("driver core: Move dev_err_probe() to where it belogs")
+f43243c66e5e ("driver core: device.h: remove extern from function prototypes")
+7065f92255bb ("driver core: Clarify that dev_err_probe() is OK even w/out -EPROBE_DEFER")
