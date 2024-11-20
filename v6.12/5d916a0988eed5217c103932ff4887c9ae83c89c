@@ -1,0 +1,4 @@
+5d916a0988ee ("posix-timers: Add a refcount to struct k_itimer")
+c775ea28d4e2 ("signal: Allow POSIX timer signals to be dropped")
+68f99be287a5 ("signal: Confine POSIX_TIMERS properly")
+2e529e637cef ("posix-timers: Replace call_rcu() by kfree_rcu() for simple kmem_cache_free() callback")

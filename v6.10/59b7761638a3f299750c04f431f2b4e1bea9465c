@@ -1,0 +1,4 @@
+59b7761638a3 ("x86/vdso: Access timens vdso data without vvar.h")
+dd937454d905 ("x86/vdso: Use __arch_get_vdso_data() to access vdso data")
+33385150ac45 ("x86: vdso: Wire up getrandom() vDSO implementation")
+4ad10a5f5f78 ("random: introduce generic vDSO getrandom() implementation")

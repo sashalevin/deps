@@ -1,0 +1,5 @@
+6142be7ed7f3 ("powerpc: Split systemcfg struct definitions out from vdso")
+1184674d6ef9 ("powerpc: Split systemcfg data out of vdso data page")
+cc15ff327569 ("powerpc/mce: Avoid using irq_work_queue() in realmode")
+06e629c25daa ("powerpc/fadump: Fix inaccurate CPU state info in vmcore generated with panic")
+219572d2fc41 ("powerpc: handle kdump appropriately with crash_kexec_post_notifiers option")

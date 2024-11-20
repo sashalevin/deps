@@ -1,0 +1,8 @@
+908a1d775422 ("hrtimers: Introduce hrtimer_setup() to replace hrtimer_init()")
+fbf920f25531 ("hrtimers: Add missing hrtimer_init() trace points")
+5254cb87c042 ("hrtimer: Remove unused inline function debug_hrtimer_free()")
+1842f5a427f5 ("hrtimer: Determine hard/soft expiry mode for hrtimer sleepers on RT")
+01656464fce9 ("hrtimer: Provide hrtimer_sleeper_start_expires()")
+dbc1625fc9de ("hrtimer: Consolidate hrtimer_init() + hrtimer_init_sleeper() calls")
+b74494872555 ("hrtimer: Remove task argument from hrtimer_init_sleeper()")
+5ca584d935c3 ("futex: Consolidate duplicated timer setup code")

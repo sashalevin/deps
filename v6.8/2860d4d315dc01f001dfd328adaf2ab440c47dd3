@@ -1,0 +1,4 @@
+2860d4d315dc ("posix-timers: Drop signal if timer has been deleted or reprogrammed")
+c775ea28d4e2 ("signal: Allow POSIX timer signals to be dropped")
+68f99be287a5 ("signal: Confine POSIX_TIMERS properly")
+a2b80ce87a87 ("signal: Remove task argument from dequeue_signal()")

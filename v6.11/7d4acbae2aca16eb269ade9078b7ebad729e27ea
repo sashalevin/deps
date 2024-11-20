@@ -1,0 +1,7 @@
+7d4acbae2aca ("x86/vdso: Access vdso data without vvar.h")
+c3a190d42591 ("x86/vdso: Access rng vdso data without vvar.h")
+59b7761638a3 ("x86/vdso: Access timens vdso data without vvar.h")
+7821571be92f ("x86/vdso: Access rng data from kernel without vvar")
+dd937454d905 ("x86/vdso: Use __arch_get_vdso_data() to access vdso data")
+b757959f192d ("random: vDSO: add __arch_get_k_vdso_rng_data() helper for data page access")
+81c6896049b6 ("random: vDSO: don't use 64-bit atomics on 32-bit architectures")

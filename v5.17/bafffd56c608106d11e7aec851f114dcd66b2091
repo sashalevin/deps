@@ -1,0 +1,7 @@
+bafffd56c608 ("clocksource: Remove unused clocksource_change_rating")
+d0304569fb01 ("clocksource: Make watchdog and suspend-timing multiplication overflow safe")
+2ed08e4bc532 ("clocksource: Scale the watchdog read retries automatically")
+644649553508 ("clocksource: Skip watchdog check for large watchdog intervals")
+877a0e83c57f ("torture: Enable clocksource watchdog with "tsc=watchdog"")
+c37e85c135ce ("clocksource: Loosen clocksource watchdog constraints")
+fc153c1c58cb ("clocksource: Add a Kconfig option for WATCHDOG_MAX_SKEW")

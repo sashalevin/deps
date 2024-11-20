@@ -1,0 +1,5 @@
+322a90638768 ("irqchip/mips-gic: Multi-cluster support")
+496461050b74 ("irqchip/mips-gic: Replace open coded online CPU iterations")
+3d6a0e4197c0 ("irqchip/mips-gic: Use raw spinlock for gic_lock")
+8190cc572981 ("irqchip/mips-gic: Only register IPI domain when SMP is enabled")
+dd098a0e0319 ("irqchip/mips-gic: Get rid of the reliance on irq_cpu_online()")

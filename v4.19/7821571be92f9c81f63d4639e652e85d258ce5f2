@@ -1,0 +1,7 @@
+7821571be92f ("x86/vdso: Access rng data from kernel without vvar")
+b757959f192d ("random: vDSO: add __arch_get_k_vdso_rng_data() helper for data page access")
+81c6896049b6 ("random: vDSO: don't use 64-bit atomics on 32-bit architectures")
+33385150ac45 ("x86: vdso: Wire up getrandom() vDSO implementation")
+4ad10a5f5f78 ("random: introduce generic vDSO getrandom() implementation")
+b7bcffe75295 ("x86/vdso/kbuild: Group non-standard build attributes and primary object file rules together")
+f14df823a61e ("Merge branch 'x86/vdso' into x86/core, to resolve conflict and to prepare for dependent changes")

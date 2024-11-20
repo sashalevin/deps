@@ -1,0 +1,6 @@
+661cc28b523d ("debugobjects: Make debug_objects_enabled bool")
+55fb412ef7d0 ("debugobjects: Dont destroy kmem cache in init()")
+a0ae95040853 ("debugobjects: Delete a piece of redundant code")
+5b5baba62222 ("debugobjects: Annotate racy debug variables")
+63a759694eed ("debugobject: Prevent init race with static objects")
+eabb7f1ace53 ("lib/debugobjects: fix stat count and optimize debug_objects_mem_init")

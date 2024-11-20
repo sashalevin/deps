@@ -1,0 +1,5 @@
+4cf7bf2a2f1a ("posix-cpu-timers: Use dedicated flag for CPU timer nanosleep")
+bf635681c906 ("posix-cpu-timers: Cleanup the firing logic")
+15cbfb92efee ("posix-cpu-timers: Correctly update timer status in posix_cpu_timer_del()")
+1550dde8a537 ("posix-timers: Add proper state tracking")
+cd1e93aedab7 ("posix-timers: Rename k_itimer:: It_requeue_pending")

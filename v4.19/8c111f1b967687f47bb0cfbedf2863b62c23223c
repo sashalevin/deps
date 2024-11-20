@@ -1,0 +1,3 @@
+8c111f1b9676 ("timekeeping: Don't use seqcount loop in ktime_mono_to_any() on 64-bit systems")
+b99328a60a48 ("timekeeping/vsyscall: Prevent math overflow in BOOTTIME update")
+44f57d788e7d ("timekeeping: Provide a generic update_vsyscall() implementation")

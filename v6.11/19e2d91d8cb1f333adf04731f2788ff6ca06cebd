@@ -1,0 +1,6 @@
+19e2d91d8cb1 ("delay: Rework udelay and ndelay")
+f36eb1714108 ("timers: Update function descriptions of sleep/delay related functions")
+102f085d8460 ("timers: Rename usleep_idle_range() to usleep_range_idle()")
+da7bd0a9e0fc ("timers: Move *sleep*() and timeout functions into a separate file")
+4381b895f544 ("timers: Remove historical extra jiffie for timeout in msleep()")
+ed4fb6d7ef68 ("hrtimer: Use and report correct timerslack values for realtime tasks")

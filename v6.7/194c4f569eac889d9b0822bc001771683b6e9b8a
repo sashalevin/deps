@@ -1,0 +1,8 @@
+194c4f569eac ("irqchip/stm32mp-exti: Use of_property_present() for non-boolean properties")
+350755e2e548 ("irqchip/stm32-exti: Split MCU and MPU code")
+b20cf2dcbe8b ("irqchip/stm32-exti: Add CONFIG_STM32MP_EXTI")
+df41b65ceeca ("irqchip/stm32-exti: Mark events reserved with RIF configuration check")
+c00a4cb15a90 ("irqchip/stm32-exti: Skip secure events")
+06d7e914cada ("irqchip/stm32-exti: Convert driver to standard PM")
+77ec258ffa5c ("irqchip/stm32-exti: Map interrupts through interrupts-extended")
+935603e81999 ("irqchip/stm32-exti: Convert to platform_driver::remove_new() callback")

@@ -1,0 +1,4 @@
+49968cf18154 ("debugobjects: Reuse put_objects() on OOM")
+a2a702383e8b ("debugobjects: Dont free objects directly on CPU hotplug")
+eabb7f1ace53 ("lib/debugobjects: fix stat count and optimize debug_objects_mem_init")
+88451f2cd3ce ("debugobjects: Free per CPU pool after CPU unplug")
