@@ -1,0 +1,5 @@
+cd068d51594d ("mmc: core: Add SD card quirk for broken poweroff notification")
+469e5e471398 ("mmc: core: apply SD quirks earlier during probe")
+ed9009ad300c ("mmc: Add quirk MMC_QUIRK_BROKEN_CACHE_FLUSH for Micron eMMC Q2J54A")
+c467c8f08185 ("mmc: Add MMC_QUIRK_BROKEN_SD_CACHE for Kingston Canvas Go Plus from 11/2019")
+dbfbddcddceb ("mmc: core: disable TRIM on Micron MTFC4GACAJCN-1M")

@@ -1,0 +1,5 @@
+291220451c77 ("mmc: mtk-sd: Fix error handle of probe function")
+7a2fa8eed936 ("mmc: mtk-sd: use devm_mmc_alloc_host")
+19334c5369cd ("mmc: mtk-sd: Convert to platform remove callback returning void")
+0c4dc0f05489 ("mmc: mtk-sd: fix deferred probing")
+ffaea6ebfe9c ("mmc: mtk-sd: Use readl_poll_timeout instead of open-coded polling")

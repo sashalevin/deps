@@ -1,0 +1,7 @@
+fdb62922ae89 ("pwm: core: use device_match_name() instead of strcmp(dev_name(...")
+650af6c0833a ("pwm: Use guards for pwm_lock instead of explicity mutex_lock + mutex_unlock")
+c6837aa18016 ("pwm: Don't check pointer for being non-NULL after use")
+4c56b1434b81 ("pwm: Add a struct device to struct pwm_chip")
+ee37bf50749f ("pwm: Ensure a struct pwm has the same lifetime as its pwm_chip")
+e9cc807f87ff ("pwm: Move contents of sysfs.c into core.c")
+b40ac0e176bf ("pwm: Give some sysfs related variables and functions better names")

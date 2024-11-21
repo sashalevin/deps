@@ -1,0 +1,4 @@
+a22c9dc26d6f ("gpiolib: avoid format string weakness in workqueue interface")
+7b9b77a8bba9 ("gpiolib: add a per-gpio_device line state notification workqueue")
+be711caa87c5 ("gpio: add SRCU infrastructure to struct gpio_desc")
+e348544f7994 ("gpio: protect the list of GPIO devices with SRCU")

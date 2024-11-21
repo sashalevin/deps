@@ -1,0 +1,6 @@
+2707a028c9b9 ("gpio: mpc8xxx: use a helper variable to store the address of pdev->dev")
+e9482dc50ab2 ("gpio: mpc8xxx: Add wake on GPIO support")
+7a222f57d856 ("gpio: mpc8xxx: Convert to platform remove callback returning void")
+889a1b3f35db ("gpio: mpc8xxx: Use 'devm_gpiochip_add_data()' to simplify the code and avoid a leak")
+7d6588931ccd ("gpio: mpc8xxx: Fix a potential double iounmap call in 'mpc8xxx_probe()'")
+555bda42b0c1 ("gpio: mpc8xxx: Fix a resources leak in the error handling path of 'mpc8xxx_probe()'")

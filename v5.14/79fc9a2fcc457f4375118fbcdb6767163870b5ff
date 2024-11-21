@@ -1,0 +1,6 @@
+79fc9a2fcc45 ("gpio: aspeed: Create llops to handle hardware access")
+1bb5a99e1f3f ("gpio: aspeed: Add the flush write to ensure the write complete.")
+061df08f063a ("gpio: aspeed: Convert to immutable irq_chip")
+90d17632e71d ("gpio: aspeed: Always register the irqchip")
+61a7904b6ace ("gpio: aspeed: Convert aspeed_gpio.lock to raw_spinlock")
+dbd1c54fc820 ("gpio: Bulk conversion to generic_handle_domain_irq()")

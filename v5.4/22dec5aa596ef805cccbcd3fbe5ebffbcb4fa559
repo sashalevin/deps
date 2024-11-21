@@ -1,0 +1,7 @@
+22dec5aa596e ("gpio: aggregator: simplify aggr_parse() with scoped bitmap")
+95b39792c664 ("gpio: aggregator: Stop using ARCH_NR_GPIOS")
+ac505b6f5fa8 ("gpio: aggregator: Replace custom get_arg() with a generic next_arg()")
+deb631c40114 ("gpio: aggregator: Replace isrange() by using get_options()")
+ec75039d5550 ("gpio: aggregator: Use bitmap_parselist() for parsing GPIO offsets")
+2073ea3ab181 ("gpio: aggregator: Drop pre-initialization in get_arg()")
+828546e24280 ("gpio: Add GPIO Aggregator")

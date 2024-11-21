@@ -1,0 +1,6 @@
+0e8158b4a82e ("OPP: Rework _set_required_devs() to manage a single device per call")
+eb8333673e1e ("OPP: fix error code in dev_pm_opp_set_config()")
+925141432fa4 ("OPP: Don't set OPP recursively for a parent genpd")
+e37440e7e2c2 ("OPP: Call dev_pm_opp_set_opp() for required OPPs")
+6d366d0e5446 ("OPP: Use _set_opp_level() for single genpd case")
+073d3d2ca7d4 ("OPP: Level zero is valid")

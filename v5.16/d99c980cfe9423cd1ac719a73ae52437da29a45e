@@ -1,0 +1,4 @@
+d99c980cfe94 ("gpio: sysfs: use cleanup guards for gpiod_data::mutex")
+667630edb5ba ("gpiolib: sysfs: Simplify edge handling in the code")
+6b3c1791ae2f ("gpiolib: sysfs: Move kstrtox() calls outside of the mutex lock")
+e28747da771c ("gpiolib: sysfs: Move sysfs_emit() calls outside of the mutex lock")

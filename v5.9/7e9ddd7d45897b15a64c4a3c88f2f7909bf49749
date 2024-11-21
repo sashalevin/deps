@@ -1,0 +1,8 @@
+7e9ddd7d4589 ("mmc: mtk-sd: Implement Host Software Queue for eMMC and SD Card")
+f2764e1f795c ("mmc: mtk-sd: reduce CIT for better performance")
+527f36f5efa4 ("mmc: mediatek: add support for SDIO eint wakup IRQ")
+1e80709bdbfc ("mmc: cqhci: add support for inline encryption")
+ee49d0321f02 ("mmc: cqhci: initialize upper 64 bits of 128-bit task descriptors")
+0653300224a6 ("mmc: cqhci: rename cqhci.c to cqhci-core.c")
+0354ca6edd46 ("mmc: mediatek: fix race condition between msdc_request_timeout and irq")
+1208e75176ca ("Merge branch 'fixes' into next")

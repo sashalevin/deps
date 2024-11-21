@@ -1,0 +1,5 @@
+9b9c665aee04 ("mmc: core: Allow mmc erase to carry large addresses")
+489d144563f2 ("mmc: core: Fix ambiguous TRIM and DISCARD arg")
+f7b6fc327327 ("mmc: core: Support zeroout using TRIM for eMMC")
+8ae11edeb956 ("mmc: core: Move eMMC cache flushing to a new bus_ops callback")
+97fce126e279 ("mmc: block: Issue a cache flush only when it's enabled")

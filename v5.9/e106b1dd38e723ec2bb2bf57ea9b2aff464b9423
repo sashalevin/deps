@@ -1,0 +1,5 @@
+e106b1dd38e7 ("gpiolib: cdev: use !mem_is_zero() instead of memchr_inv(s, 0, n)")
+aad955842d1c ("gpiolib: cdev: support GPIO_V2_GET_LINEINFO_IOCTL and GPIO_V2_GET_LINEINFO_WATCH_IOCTL")
+3c0d9c635ae2 ("gpiolib: cdev: support GPIO_V2_GET_LINE_IOCTL and GPIO_V2_LINE_GET_VALUES_IOCTL")
+69e4e1368803 ("gpiolib: cdev: replace strncpy() with strscpy()")
+0dc11e3ad353 ("gpiolib: cdev: gpio_desc_to_lineinfo() should set info offset")

@@ -1,0 +1,8 @@
+fcc8b637c542 ("gpiolib: switch the line state notifier to atomic")
+7b9b77a8bba9 ("gpiolib: add a per-gpio_device line state notification workqueue")
+fa17f749ee5b ("gpiolib: unify two loops initializing GPIO descriptors")
+02f6b0e1ec7e ("gpiolib: cdev: Fix use after free in lineinfo_changed_notify")
+7765ffed533d ("gpiolib: use a single SRCU struct for all GPIO descriptors")
+a86d27693066 ("gpiolib: fix the speed of descriptor label setting with SRCU")
+8ae438f5ff16 ("gpiolib: Deduplicate cleanup for-loop in gpiochip_add_data_with_key()")
+e9c717bee8f1 ("Merge tag 'v6.8-rc7' into gpio/for-next")

@@ -1,0 +1,4 @@
+1396470c11d4 ("gpio: eic-sprd: use generic device_get_match_data()")
+7777fa924754 ("gpio: eic-sprd: use a helper variable for &pdev->dev")
+dbd31c71c5b2 ("gpio: eic-sprd: unregister from the irq notifier on remove()")
+b32415652a4d ("gpio: eic-sprd: use atomic notifiers to notify all chips about irqs")
