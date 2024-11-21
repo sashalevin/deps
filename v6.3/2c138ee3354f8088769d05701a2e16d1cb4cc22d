@@ -1,0 +1,7 @@
+2c138ee3354f ("reset: amlogic: move drivers to a dedicated directory")
+7af26f3c1164 ("reset: amlogic: convert driver to regmap")
+4f6a43ad2b05 ("reset: zynqmp: allow building under COMPILE_TEST")
+1b5adb40cd9b ("reset: meson: remove unneeded call to platform_set_drvdata()")
+cabf1ce35764 ("reset: meson: Use devm_platform_ioremap_resource()")
+69bfec7548f4 ("reset: Create subdirectory for StarFive drivers")
+c49a757a5a9e ("reset: starfive: Replace SOC_STARFIVE with ARCH_STARFIVE")

@@ -1,0 +1,8 @@
+ce44b96261a6 ("platform/x86: intel_scu_ipc: Simplify code with cleanup helpers")
+85e654c9f722 ("platform/x86: intel_scu_ipc: Fail IPC send if still busy")
+efce78584e58 ("platform/x86: intel_scu_ipc: Don't override scu in intel_scu_ipc_dev_simple_command()")
+7e18c89d6e37 ("platform/x86: intel_scu_ipc: Add managed function to register SCU IPC")
+f57fa18583f5 ("platform/x86: intel_scu_ipc: Introduce new SCU IPC API")
+dd8856493739 ("platform/x86: intel_scu_ipc: Move legacy SCU IPC API to a separate header")
+ea608f25fa09 ("platform/x86: intel_scu_ipc: Log more information if SCU IPC command fails")
+54b34aa0a729 ("platform/x86: intel_scu_ipc: Split out SCU IPC functionality from the SCU driver")

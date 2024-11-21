@@ -1,0 +1,7 @@
+c382429b587a ("platform/x86: wmi: Replace dev_to_wdev() with to_wmi_device()")
+7275bf3e0957 ("platform/x86: wmi: Add to_wmi_device() helper macro")
+7444f8347487 ("platform/x86: wmi: Fix refcounting of WMI devices in legacy functions")
+028e6e204ace ("platform/x86: wmi: Break possible infinite loop when parsing GUID")
+2a2b13ae50cf ("platform/x86: wmi: Allow retrieving the number of WMI object instances")
+d54bd4bc7b9a ("platform/x86: wmi: Mark GUID-based WMI interface as deprecated")
+b4cc979588ee ("platform/x86: wmi: Add kernel doc comments")

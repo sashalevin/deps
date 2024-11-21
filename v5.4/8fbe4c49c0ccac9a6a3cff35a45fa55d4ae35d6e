@@ -1,0 +1,7 @@
+8fbe4c49c0cc ("efi/memattr: Ignore table if the size is clearly bogus")
+a17e809ea573 ("efi: Move mem_attr_table out of struct efi")
+5d288dbd8860 ("efi: Make rng_seed table handling local to efi.c")
+fd506e0cf9fd ("efi: Move UGA and PROP table handling to x86 code")
+120540f230d5 ("efi/ia64: Move HCDP and MPS table handling into IA64 arch code")
+50d53c58dd77 ("efi: Drop handling of 'boot_info' configuration table")
+33b85447fa61 ("efi/x86: Drop two near identical versions of efi_runtime_init()")

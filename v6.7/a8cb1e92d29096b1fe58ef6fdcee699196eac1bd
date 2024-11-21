@@ -1,0 +1,5 @@
+a8cb1e92d290 ("hexagon: simplify asm/io.h for !HAS_IOPORT")
+fae41fe16cdd ("hexagon: Don't select GENERIC_IOMAP without HAS_IOPORT support")
+3cd944590da9 ("asm/io: remove unnecessary xlate_dev_mem_ptr() and unxlate_dev_mem_ptr()")
+026246f114d9 ("arch/*/io.h: remove ioremap_uc in some architectures")
+4bfb53e7d317 ("mips: add <asm-generic/io.h> including")

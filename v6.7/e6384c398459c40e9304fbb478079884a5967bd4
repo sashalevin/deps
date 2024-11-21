@@ -1,0 +1,5 @@
+e6384c398459 ("efi/libstub: Parse builtin command line after bootloader provided one")
+06d39d79cbd5 ("efi/libstub: Free correct pointer on failure")
+ade7ccba2d64 ("efi/libstub: remove unnecessary cmd_line_len from efi_convert_cmdline()")
+ae835a96d72c ("x86/efistub: Revert to heap allocated boot_params for PE entrypoint")
+fb318ca0a522 ("x86/efistub: Avoid returning EFI_SUCCESS on error")

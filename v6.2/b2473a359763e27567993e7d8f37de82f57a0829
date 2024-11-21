@@ -1,0 +1,8 @@
+b2473a359763 ("of/fdt: add dt_phys arg to early_init_dt_scan and early_init_dt_verify")
+40f18dbbb42c ("x86/of: Unconditionally call unflatten_and_copy_device_tree()")
+221a819aa3ca ("um: Unconditionally call unflatten_device_tree()")
+91361b5175d2 ("powerpc/pseries: Pass PLPKS password on kexec")
+9ee76bd5c7e3 ("powerpc/pseries: Add helper to get PLPKS password length")
+119da30d037d ("powerpc/pseries: Expose PLPKS config values, support additional fields")
+90b74e305d6b ("powerpc/pseries: Move plpks.h to include directory")
+fcf63d6b8ab9 ("powerpc/pseries: Fix alignment of PLPKS structures and buffers")

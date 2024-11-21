@@ -1,0 +1,4 @@
+332857fdac73 ("of: Allow overlay kunit tests to run CONFIG_OF_OVERLAY=n")
+6e0391e48cf9 ("of: Skip kunit tests when arm64+ACPI doesn't populate root node")
+5c9dd72d8385 ("of: Add a KUnit test for overlays and test managed APIs")
+6774e90f3146 ("of: Add test managed wrappers for of_overlay_apply()/of_node_put()")

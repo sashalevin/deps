@@ -1,0 +1,6 @@
+52cd1906ef6b ("HID: core: save one kmemdup during .probe()")
+8b7fd6a15f8c ("HID: bpf: move HID-BPF report descriptor fixup earlier")
+3593630c89d7 ("HID: constify hid_device::dev_rdesc")
+80cfb508f3fe ("HID: constify params and return value of fetch_item()")
+24ddd0d7de7a ("HID: constify hid_device::rdesc")
+a707f85d47ca ("HID: bpf: constify parameter rdesc of call_hid_bpf_rdesc_fixup()")
