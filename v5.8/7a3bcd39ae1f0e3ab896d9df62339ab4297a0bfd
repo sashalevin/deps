@@ -1,0 +1,6 @@
+7a3bcd39ae1f ("r8169: use helper r8169_mod_reg8_cond to simplify rtl_jumbo_config")
+01649011cc82 ("r8169: remove support for chip version RTL_GIGA_MAC_VER_27")
+6cf739131a15 ("r8169: fix jumbo packet handling on RTL8168e")
+5e00e16cb989 ("r8169: tweak max read request size for newer chips also in jumbo mtu mode")
+2007317e15cd ("r8169: align RTL8168e jumbo pcie read request size with vendor driver")
+beb401ec5006 ("r8169: deprecate support for RTL_GIGA_MAC_VER_27")

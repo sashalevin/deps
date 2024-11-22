@@ -1,0 +1,4 @@
+dc26097bdb86 ("Bluetooth: ISO: Use kref to track lifetime of iso_conn")
+246b435ad668 ("Bluetooth: ISO: Fix UAF on iso_sock_timeout")
+d356c924e7a3 ("Bluetooth: ISO: Handle PA sync when no BIGInfo reports are generated")
+311527e9dafd ("Bluetooth: ISO: Make iso_get_sock_listen generic")

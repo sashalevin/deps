@@ -1,0 +1,7 @@
+b71a576e452b ("net: vxlan: use kfree_skb_reason() in vxlan_xmit()")
+d209706f562e ("net: vxlan: make vxlan_set_mac() return drop reasons")
+289fd4e75219 ("net: vxlan: make vxlan_snoop() return drop reasons")
+4c06d9daf8e6 ("net: vxlan: add skb drop reasons to vxlan_rcv()")
+1cd4bc987abb ("vxlan: Fix regression when dropping packets due to invalid src addresses")
+f7789419137b ("vxlan: Pull inner IP header in vxlan_rcv().")
+6dee402daba4 ("vxlan: Fix racy device stats updates.")

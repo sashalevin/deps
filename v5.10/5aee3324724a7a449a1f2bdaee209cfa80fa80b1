@@ -1,0 +1,8 @@
+5aee3324724a ("enic: Save resource counts we read from HW")
+b67609c93153 ("enic: Create enic_wq/rq structures to bundle per wq/rq data")
+bde04d9876c0 ("enic: Report some per queue statistics in ethtool")
+77805ddb5755 ("enic: Report per queue statistics in netdev qstats")
+f3f915099496 ("enic: Collect per queue statistics")
+a59571ad6dfc ("enic: Use macro instead of static const variables for array sizes")
+bf7bb7b43097 ("enic: add ethtool get_channel support")
+643001b47adc ("ethernet:enic: Fix a use after free bug in enic_hard_start_xmit")

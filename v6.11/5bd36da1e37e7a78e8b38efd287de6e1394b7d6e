@@ -1,0 +1,4 @@
+5bd36da1e37e ("bpf: Support private stack for struct_ops progs")
+e00931c02568 ("bpf: Enable private stack for eligible subprogs")
+a76ab5731e32 ("bpf: Find eligible subprogs for private stack support")
+d6083f040d5d ("bpf: Prevent tailcall infinite loop caused by freplace")

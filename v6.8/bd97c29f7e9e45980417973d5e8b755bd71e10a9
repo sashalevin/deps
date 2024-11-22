@@ -1,0 +1,7 @@
+bd97c29f7e9e ("macsec: add some of the lower device's features when offloading")
+00d066a4d4ed ("netdev_features: convert NETIF_F_LLTX to dev->lltx")
+beb5a9bea823 ("netdevice: convert private flags > BIT(31) to bitfields")
+45160cebd6ac ("net: veth: Disable netpoll support")
+1d03d51e9d24 ("net: macsec: Leverage core stats allocator")
+6752fb18dc57 ("net: ip6_tunnel: Leverage core stats allocator")
+74293ea1c4db ("net: sysfs: Do not create sysfs for non BQL device")

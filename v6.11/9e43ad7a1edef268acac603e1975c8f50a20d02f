@@ -1,0 +1,5 @@
+9e43ad7a1ede ("net: ethtool: only allow set_rxnfc with rss + ring_cookie if driver opts in")
+ec6e57beaf8b ("ethtool: rss: don't report key if device doesn't support it")
+fb770fe7584f ("eth: remove .cap_rss_ctx_supported from updated drivers")
+ce056504e2e5 ("ethtool: make ethtool_ops::cap_rss_ctx_supported optional")
+f203fd85e666 ("eth: mvpp2: implement new RSS context API")

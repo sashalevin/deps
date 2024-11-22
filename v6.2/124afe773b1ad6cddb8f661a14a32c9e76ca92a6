@@ -1,0 +1,5 @@
+124afe773b1a ("net: sysctl: allow dump_cpumask to handle higher numbers of CPUs")
+a8cc8fa14541 ("net: sysctl: do not reserve an extra char in dump_cpumask temporary buffer")
+50bcfe8df7c7 ("net: make default_rps_mask a per netns attribute")
+605cfa1b1090 ("net: introduce default_rps_mask netns attribute")
+135746c61fa6 ("net-sysctl: factor out cpumask parsing helper")

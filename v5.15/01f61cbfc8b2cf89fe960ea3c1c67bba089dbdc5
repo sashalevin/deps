@@ -1,0 +1,4 @@
+01f61cbfc8b2 ("xfrm: Convert xfrm_bundle_create() to dscp_t.")
+766f532089af ("xfrm: Convert xfrm_get_tos() to dscp_t.")
+b261b2c6c18b ("xfrm: Unmask upper DSCP bits in xfrm_get_tos()")
+748b82c23e25 ("xfrm: Pass flowi_oif or l3mdev as oif to xfrm_dst_lookup")

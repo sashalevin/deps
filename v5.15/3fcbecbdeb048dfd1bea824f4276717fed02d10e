@@ -1,0 +1,5 @@
+3fcbecbdeb04 ("net: Add control functions for irq suspension")
+b4e8ae5c8c41 ("net: add napi_busy_loop_rcu()")
+13d381b440ed ("net: split off __napi_busy_poll from napi_busy_poll")
+c857946a4e26 ("net/core: Enable socket busy polling on -RT")
+20ab39d13e2e ("net/core: disable NET_RX_BUSY_POLL on PREEMPT_RT")

@@ -1,0 +1,6 @@
+cbf9f849a3e8 ("selftests/bpf: Add update_elem failure test for task storage uptr")
+51fff4083372 ("selftests/bpf: Test a uptr struct spanning across pages.")
+4579b4a4279e ("selftests/bpf: Some basic __uptr tests")
+0334b4d8822a ("selftests/bpf: Ensure no task storage failure for bpf_lsm.s prog due to deadlock detection")
+c540957a4d1d ("selftests/bpf: Test deadlock from recursive bpf_task_storage_[get|delete]")
+1f87dcf116ad ("selftests/bpf: Add non-BPF_LSM test for task local storage")

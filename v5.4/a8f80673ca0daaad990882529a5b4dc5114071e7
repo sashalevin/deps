@@ -1,0 +1,5 @@
+a8f80673ca0d ("compiler_types: Add noinline_for_tracing annotation")
+1f44328ea24c ("compiler_types.h, kasan: Use __SANITIZE_ADDRESS__ instead of CONFIG_KASAN to decide inlining")
+eb73876c7431 ("compiler.h: Move function attributes to compiler_types.h")
+e3b779d9ebe8 ("kcsan: Remove 'noinline' from __no_kcsan_or_inline")
+37d1a04b13a6 ("Rebase locking/kcsan to locking/urgent")

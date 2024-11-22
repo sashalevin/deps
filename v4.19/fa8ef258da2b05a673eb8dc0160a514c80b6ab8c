@@ -1,0 +1,8 @@
+fa8ef258da2b ("rtnetlink: Allocate linkinfo[] as struct rtnl_newlink_tbs.")
+63105e83987a ("rtnl: split __rtnl_newlink() into two functions")
+c92bf26ccebc ("rtnl: allocate more attr tables on the heap")
+c6f6f2444bdb ("rtnetlink: make sure to refresh master_dev/m_ops in __rtnl_newlink()")
+8c713dc93ca9 ("rtnetlink: add alloc() method to rtnl_link_ops")
+8cb081746c03 ("netlink: make validation more configurable for future strictness")
+6f455f5f4e9c ("netlink: add NLA_MIN_LEN")
+356d71e00d27 ("Merge git://git.kernel.org/pub/scm/linux/kernel/git/davem/net")

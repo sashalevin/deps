@@ -1,0 +1,8 @@
+0da0a75cf649 ("selftests/bpf: get rid of global vars in btf_skc_cls_ingress")
+0335dd6b5a4c ("selftests/bpf: add missing ns cleanups in btf_skc_cls_ingress")
+6414b3e5d5d4 ("selftests/bpf: factorize conn and syncookies tests in a single runner")
+443f216448ab ("selftests/bpf: Avoid pinning prog when attaching to tc ingress in btf_skc_cls_ingress")
+e42921c3c346 ("selftests/bpf: Deduplicate write_sysctl() to test_progs.c")
+c2fcbf81c332 ("bpf, selftests: Fix racing issue in btf_skc_cls_ingress test")
+025bd7c753aa ("selftests/bpf: Add test for bpf_get_branch_snapshot")
+a1c05c3b09e0 ("selftests/bpf: Test that module can't be unloaded with attached trampoline")

@@ -1,0 +1,7 @@
+e57dfaa4b0a7 ("xfrm: Convert struct xfrm_dst_lookup_params -> tos to dscp_t.")
+3021a2a3403d ("xfrm: Convert xfrm_dst_lookup() to dscp_t.")
+01f61cbfc8b2 ("xfrm: Convert xfrm_bundle_create() to dscp_t.")
+766f532089af ("xfrm: Convert xfrm_get_tos() to dscp_t.")
+e509996b1672 ("xfrm: extract dst lookup parameters into a struct")
+b261b2c6c18b ("xfrm: Unmask upper DSCP bits in xfrm_get_tos()")
+d46401052c2d ("xfrm6: check ip6_dst_idev() return value in xfrm6_get_saddr()")

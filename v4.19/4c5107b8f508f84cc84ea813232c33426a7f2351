@@ -1,0 +1,4 @@
+4c5107b8f508 ("net: marvell: mvmdio: use clk_get_optional")
+d934423ac26e ("drivers/net/ethernet/marvell/mvmdio.c: Fix non OF case")
+433a06d7d74e ("net: mvmdio: defer probe of orion-mdio if a clock is not ready")
+ea664b1bdc19 ("net: mvmdio: print warning when orion-mdio has too many clocks")

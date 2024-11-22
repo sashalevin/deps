@@ -1,0 +1,6 @@
+b7d2fc9ad7fe ("phonet: Don't hold RTNL for getaddr_dumpit().")
+8786e98dd0eb ("phonet: Don't hold RTNL for addr_doit().")
+68ed5c38b512 ("phonet: Pass net and ifindex to phonet_address_notify().")
+08a9572be368 ("phonet: Pass ifindex to fill_addr().")
+b5e837c86041 ("phonet: Handle error of rtnl_register_module().")
+58a4ff5d77b1 ("phonet: no longer hold RTNL in route_dumpit()")

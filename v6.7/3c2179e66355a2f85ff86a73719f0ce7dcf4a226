@@ -1,0 +1,6 @@
+3c2179e66355 ("bnxt_en: Add FW trace coredump segments to the coredump")
+bda2e63a508b ("bnxt_en: Add a new ethtool -W dump flag")
+a854a17097b9 ("bnxt_en: Add 2 parameters to bnxt_fill_coredump_seg_hdr()")
+9e7b880b92a7 ("bnxt_en: add support for retrieving crash dump using ethtool")
+c33626d83e93 ("bnxt_en: add support for storing crash dump into host memory")
+e50dc4c2206e ("bnxt_en: Free bp->ctx inside bnxt_free_ctx_mem()")

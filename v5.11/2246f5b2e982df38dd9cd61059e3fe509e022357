@@ -1,0 +1,4 @@
+2246f5b2e982 ("net: ucc_geth: use devm for kmemdup")
+ec7d6dd870d4 ("ethernet: ucc_geth: Use kmemdup() rather than kmalloc+memcpy")
+baff4311c40d ("ethernet: ucc_geth: don't statically allocate eight ucc_geth_info")
+632e3f2d9922 ("ethernet: ucc_geth: factor out parsing of {rx,tx}-clock{,-name} properties")

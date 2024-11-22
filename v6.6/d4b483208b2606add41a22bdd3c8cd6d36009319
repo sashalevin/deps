@@ -1,0 +1,3 @@
+d4b483208b26 ("ipv4: Use per-netns RTNL helpers in inet_rtm_newaddr().")
+abd0deff03d8 ("ipv4: Don't allocate ifa for 0.0.0.0 in inet_rtm_newaddr().")
+2d34429d14f9 ("ipv4: Factorise RTM_NEWADDR validation to inet_validate_rtm().")

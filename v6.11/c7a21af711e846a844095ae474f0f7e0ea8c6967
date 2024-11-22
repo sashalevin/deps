@@ -1,0 +1,5 @@
+c7a21af711e8 ("bnxt_en: optimize gettimex64")
+f0fe51a04386 ("bnxt_en: add unlocked version of bnxt_refclk_read")
+6c0828d00f07 ("bnxt_en: replace PTP spinlock with seqlock")
+bb2ef9b92bdf ("bnxt_en: cache only 24 bits of hw counter")
+4ab3e4983bcc ("bnxt_en: replace ptp_lock with irqsave variant")

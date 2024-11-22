@@ -1,0 +1,6 @@
+cc84d89ad8d4 ("stmmac: dwmac-intel-plat: remove redundant dwmac->data check in probe")
+5b366eae7193 ("stmmac: dwmac-intel-plat: fix call balance of tx_clk handling routines")
+b0377116decd ("net: ethernet: Use device_get_match_data()")
+2c9fc838067b ("net: stmmac: rename stmmac_pltfr_remove_no_dt to stmmac_pltfr_remove")
+d336a117b593 ("net: stmmac: dwmac-visconti: use devm_stmmac_probe_config_dt()")
+abea8fd5e801 ("net: stmmac: dwmac-intel-plat: use devm_stmmac_probe_config_dt()")

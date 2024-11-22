@@ -1,0 +1,6 @@
+1d10b2bed2d4 ("xsk: Wrap duplicated code to function")
+6ec7be9a2d2b ("xsk: Use pool->dma_pages to check for DMA")
+d769ccaf957f ("xsk: Fix unaligned descriptor validation")
+94033cd8e73b ("xsk: Optimize for aligned case")
+47e4075df300 ("xsk: Batched buffer allocation for the pool")
+2f99619820c2 ("xsk: Fix missing validation for skb and unaligned mode")

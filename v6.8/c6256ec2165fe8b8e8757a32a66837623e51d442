@@ -1,0 +1,5 @@
+c6256ec2165f ("Bluetooth: hci_qca: use devm_clk_get_optional_enabled_with_rate()")
+b8093157714f ("Bluetooth: hci_qca: unduplicate calls to hci_uart_register_device()")
+b80f4e3b8cb8 ("Bluetooth: hci_qca: schedule a devm action for disabling the clock")
+fb5e4713fc18 ("Bluetooth: qca: don't disable power management for QCA6390")
+9a15ce685706 ("Bluetooth: qca: use the power sequencer for QCA6390")

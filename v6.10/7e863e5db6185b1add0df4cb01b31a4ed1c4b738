@@ -1,0 +1,4 @@
+7e863e5db618 ("ipv4: Convert ip_route_input() to dscp_t.")
+913c83a610bb ("ipv4: Convert icmp_route_lookup() to dscp_t.")
+4805646c42e5 ("ipv4: icmp: Unmask upper DSCP bits in icmp_route_lookup()")
+1c6f50b37f71 ("ipv4: icmp: Pass full DS field to ip_route_input()")

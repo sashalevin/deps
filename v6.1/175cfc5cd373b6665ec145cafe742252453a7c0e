@@ -1,0 +1,4 @@
+175cfc5cd373 ("rtnetlink: Clean up rtnl_dellink().")
+9415d375d852 ("rtnetlink: Don't ignore IFLA_TARGET_NETNSID when ifname is specified in rtnl_dellink().")
+f3a63cce1b4f ("rtnetlink: Honour NLM_F_ECHO flag in rtnl_delete_link")
+1d997f101307 ("rtnetlink: pass netlink message header and portid to rtnl_configure_link()")

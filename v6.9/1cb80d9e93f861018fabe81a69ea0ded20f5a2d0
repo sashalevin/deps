@@ -1,0 +1,7 @@
+1cb80d9e93f8 ("bpf: Support __uptr type tag in BTF")
+7a851ecb1806 ("bpf: Search for kptrs in prog BTF structs")
+c5ef53420f46 ("bpf: Let callers of btf_parse_kptr() track life cycle of prog btf")
+64e8ee814819 ("bpf: look into the types of the fields of a struct type recursively.")
+994796c0256c ("bpf: create repeated fields for arrays.")
+a7db0d4f872a ("bpf: refactor btf_find_struct_field() and btf_find_datasec_var().")
+d56b63cf0c0f ("bpf: add support for bpf_wq user type")

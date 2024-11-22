@@ -1,0 +1,8 @@
+98ca3178ad79 ("wifi: wilc1000: Keep slot powered on during suspend/resume")
+5ad8897fd15a ("wifi: wilc1000: disable SDIO func IRQ before suspend")
+a814112e9545 ("wifi: wilc1000: move sdio suspend method next to resume and pm ops definition")
+25d086ba1964 ("wifi: wilc1000: do not keep sdio bus claimed during suspend/resume")
+301e44e973eb ("wifi: wilc1000: let host->chip suspend/resume notifications manage chip wake/sleep")
+39d0f1b0bf91 ("wifi: wilc1000: add 'isinit' flag for SDIO bus similar to SPI")
+c2dcb4766bcb ("wilc1000: handle read failure issue for clockless registers")
+5bb9de8bcb18 ("wilc1000: configure registers to handle chip wakeup sequence")

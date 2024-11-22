@@ -1,0 +1,8 @@
+a0b63c6457e1 ("rtnetlink: Call rtnl_link_get_net_capable() in do_setlink().")
+6e495fad88ef ("rtnetlink: Clean up rtnl_setlink().")
+cc47bcdf0d2e ("rtnetlink: Factorise do_setlink() path from __rtnl_newlink().")
+a5838cf9b2ee ("rtnetlink: Call validate_linkmsg() in do_setlink().")
+fa8ef258da2b ("rtnetlink: Allocate linkinfo[] as struct rtnl_newlink_tbs.")
+89da780aa4c7 ("rtnetlink: move validate_linkmsg out of do_setlink")
+65d6914e253f ("rtnetlink: add the missing IFLA_GRO_ tb check in validate_linkmsg")
+fef5b228dd38 ("rtnetlink: move IFLA_GSO_ tb check to validate_linkmsg")

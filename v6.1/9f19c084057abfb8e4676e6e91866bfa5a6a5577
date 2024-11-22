@@ -1,0 +1,6 @@
+9f19c084057a ("virtio_ring: introduce vring_need_unmap_buffer")
+b319940f83c2 ("virtio_ring: skip unmap for premapped")
+8daafe9ebbd2 ("virtio_ring: introduce virtqueue_set_dma_premapped()")
+610c708bf872 ("virtio_ring: check use_dma_api before unmap desc for indirect")
+4b6ec919b848 ("virtio_ring: Use const to annotate read-only pointer params")
+1adbd6b2fc0c ("virtio_ring: Avoid using inline for small functions")

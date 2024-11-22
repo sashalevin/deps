@@ -1,0 +1,7 @@
+880ebcbe0663 ("virtio_ring: remove API virtqueue_set_dma_premapped")
+9f19c084057a ("virtio_ring: introduce vring_need_unmap_buffer")
+111fc9f517cb ("virtio_net: disable premapped mode by default")
+dc4547fbba87 ("Revert "virtio_net: rx remove premapped failover code"")
+e9f3962441c0 ("virtio_net: xsk: rx: support fill with xsk buffer")
+19a5a7710ee1 ("virtio_net: xsk: support wakeup")
+09d2b3182c8e ("virtio_net: xsk: bind/unbind xsk for rx")

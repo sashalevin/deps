@@ -1,0 +1,4 @@
+7fea1a8cb4df ("rtnetlink: Move simple validation from __rtnl_newlink() to rtnl_newlink().")
+cc47bcdf0d2e ("rtnetlink: Factorise do_setlink() path from __rtnl_newlink().")
+a5838cf9b2ee ("rtnetlink: Call validate_linkmsg() in do_setlink().")
+fa8ef258da2b ("rtnetlink: Allocate linkinfo[] as struct rtnl_newlink_tbs.")

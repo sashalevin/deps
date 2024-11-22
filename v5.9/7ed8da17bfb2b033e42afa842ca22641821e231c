@@ -1,0 +1,7 @@
+7ed8da17bfb2 ("ipv4: Convert devinet_ioctl to per-netns RTNL.")
+876f0bf9d0d5 ("net: socket: simplify dev_ifconf handling")
+b0e99d03778b ("net: socket: remove register_gifconf")
+dd98d2895de6 ("ethtool: improve compat ioctl handling")
+d549699048b4 ("net/packet: fix packet receive on L3 devices without visible hard header")
+b79a80bd6dd8 ("net/packet: Fix a comment about mac_header")
+b4c5881446b3 ("net/packet: Fix a comment about hard_header_len and headroom allocation")

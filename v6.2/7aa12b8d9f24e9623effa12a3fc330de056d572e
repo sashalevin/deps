@@ -1,0 +1,7 @@
+7aa12b8d9f24 ("libbpf: define __uptr.")
+ed5285a1482f ("libbpf: Add __percpu_kptr macro definition")
+03b77e17aeb2 ("bpf: Rename __kptr_ref -> __kptr and __kptr -> __kptr_untrusted.")
+bdbda395845e ("bpf/docs: Document cpumask kfuncs in a new file")
+7b6abcfa15cd ("selftests/bpf: Add selftest suite for cpumask kfuncs")
+516f4d3397c9 ("bpf: Enable cpumasks to be queried and used as kptrs")
+59fe41b5255f ("selftests/bpf: Add verifier test exercising jit PROBE_MEM logic")

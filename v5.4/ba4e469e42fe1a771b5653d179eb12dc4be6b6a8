@@ -1,0 +1,7 @@
+ba4e469e42fe ("vsock: do not leave dangling sk pointer in vsock_create()")
+c0cfa2d8a788 ("vsock: add multi-transports support")
+55f3e149b690 ("vsock: move vsock_insert_unbound() in the vsock_create()")
+b9f2b0ffde0c ("vsock: handle buffer_size sockopts in the core")
+4c7246dc45e2 ("vsock/virtio: add transport parameter to the virtio_transport_reset_no_sock()")
+fe502c4a38d9 ("vsock: add 'transport' member in the struct vsock_sock")
+7ed78bc495fd ("vsock/vmci: remove unused VSOCK_DEFAULT_CONNECT_TIMEOUT")

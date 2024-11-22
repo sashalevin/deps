@@ -1,0 +1,6 @@
+487257786b71 ("ipv4: Convert RTM_NEWADDR to per-netns RTNL.")
+abd0deff03d8 ("ipv4: Don't allocate ifa for 0.0.0.0 in inet_rtm_newaddr().")
+2d34429d14f9 ("ipv4: Factorise RTM_NEWADDR validation to inet_validate_rtm().")
+465bac91f953 ("ipv4: Use rtnl_register_many().")
+5b4b62a169e1 ("rtnetlink: make the "split" NLM_DONE handling generic")
+32affa5578f0 ("fib: rules: no longer hold RTNL in fib_nl_dumprule()")

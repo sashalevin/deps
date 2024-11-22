@@ -1,0 +1,7 @@
+c30a3f54e661 ("net: mana: Add get_link and get_link_ksettings in ethtool")
+3410d0e14f9a ("net: mana: Implement get_ringparam/set_ringparam for mana")
+382d1741b5b2 ("net: mana: Add support for page sizes other than 4KB on ARM64")
+40a1d11fc670 ("net: mana: Enable MANA driver on ARM64 with 4K page size")
+c0de6ab920aa ("net: mana: Fix Rx DMA datasize and skb_over_panic")
+ac3899c62296 ("net: mana: Add gdma stats to ethtool output for mana")
+b1d13f7a3b53 ("net: mana: Add page pool for RX buffers")

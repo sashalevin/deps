@@ -1,0 +1,8 @@
+41bf58314b17 ("net: dsa: sja1105: use phylink_pcs internally")
+907476c66d73 ("net: dsa: sja1105: call PCS config/link_up via pcs_ops structure")
+0be9a1e43a07 ("net: dsa: sja1105: provide own phylink MAC operations")
+f44a90104ee5 ("net: dsa: Explicitly include correct DT includes")
+a3a47cfb88fc ("net: pcs: xpcs: update PCS driver to use neg_mode")
+af8de1e307bf ("net: pcs: Add 10GBASE-R mode for Synopsys Designware XPCS")
+bf9a17b04c85 ("net: dsa: sja1105: use xpcs_create_mdiodev()")
+9607eaadba68 ("net: dsa: sja1105: allow XPCS to handle mdiodev lifetime")

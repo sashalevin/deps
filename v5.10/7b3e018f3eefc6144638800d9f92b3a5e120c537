@@ -1,0 +1,7 @@
+7b3e018f3eef ("net: vxlan: make vxlan_remcsum() return drop reasons")
+a498c5953a9c ("vxlan_multicast: Move multicast helpers to a separate file")
+a9508d121a0e ("vxlan_core: make multicast helper take rip and ifindex explicitly")
+c63053e0cb5a ("vxlan_core: move some fdb helpers to non-static")
+76fc217d7fb1 ("vxlan_core: move common declarations to private header file")
+6765393614ea ("vxlan: move to its own directory")
+626d667b1960 ("vxlan: Use a per-namespace nexthop listener instead of a global one")

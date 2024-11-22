@@ -1,0 +1,8 @@
+d5ec8d91f82e ("rtnetlink: Remove __rtnl_link_unregister().")
+43c7ce69d28e ("rtnetlink: Protect struct rtnl_link_ops with SRCU.")
+0d3008d1a9ae ("rtnetlink: Move ops->validate to rtnl_newlink().")
+331fe31c50ef ("rtnetlink: Move rtnl_link_ops_get() and retry to rtnl_newlink().")
+7fea1a8cb4df ("rtnetlink: Move simple validation from __rtnl_newlink() to rtnl_newlink().")
+cc47bcdf0d2e ("rtnetlink: Factorise do_setlink() path from __rtnl_newlink().")
+a5838cf9b2ee ("rtnetlink: Call validate_linkmsg() in do_setlink().")
+fa8ef258da2b ("rtnetlink: Allocate linkinfo[] as struct rtnl_newlink_tbs.")

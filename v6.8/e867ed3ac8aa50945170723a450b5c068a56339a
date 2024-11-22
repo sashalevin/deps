@@ -1,0 +1,8 @@
+e867ed3ac8aa ("net: txgbe: remove GPIO interrupt controller")
+bd07a9817846 ("net: txgbe: remove separate irq request for MSI and INTx")
+1d3c6414950b ("net: txgbe: fix to control VLAN strip")
+68067f065ee7 ("net: wangxun: fix to change Rx features")
+0e71862a20d5 ("net: txgbe: fix to clear interrupt status after handling IRQ")
+b4a2496c17ed ("net: txgbe: fix GPIO interrupt blocking")
+aefd013624a1 ("net: txgbe: use irq_domain for interrupt controller")
+63aabc3ef196 ("net: txgbe: move interrupt codes to a separate file")

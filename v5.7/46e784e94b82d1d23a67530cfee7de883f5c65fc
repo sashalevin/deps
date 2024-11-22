@@ -1,0 +1,8 @@
+46e784e94b82 ("lib: packing: use GENMASK() for box_mask")
+28aec9ca29f0 ("lib: packing: duplicate pack() and unpack() implementations")
+7263f64e16d9 ("lib: packing: add pack() and unpack() wrappers over packing()")
+a636ba5e8682 ("lib: packing: adjust definitions and implementation for arbitrary buffer lengths")
+8b3e26677bc6 ("lib: packing: refuse operating on bit indices which exceed size of buffer")
+efb5b62d7271 ("lib: packing: remove MODULE_LICENSE in non-modules")
+1280d4b76f34 ("lib: packing: replace bit_reverse() with bitrev8()")
+7dea927f702d ("lib: packing: add documentation for pbuflen argument")

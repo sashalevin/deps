@@ -1,0 +1,5 @@
+4df5066f079c ("ipv4: Convert RTM_DELADDR to per-netns RTNL.")
+487257786b71 ("ipv4: Convert RTM_NEWADDR to per-netns RTNL.")
+abd0deff03d8 ("ipv4: Don't allocate ifa for 0.0.0.0 in inet_rtm_newaddr().")
+2d34429d14f9 ("ipv4: Factorise RTM_NEWADDR validation to inet_validate_rtm().")
+465bac91f953 ("ipv4: Use rtnl_register_many().")

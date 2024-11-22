@@ -1,0 +1,4 @@
+d209706f562e ("net: vxlan: make vxlan_set_mac() return drop reasons")
+4c06d9daf8e6 ("net: vxlan: add skb drop reasons to vxlan_rcv()")
+f7789419137b ("vxlan: Pull inner IP header in vxlan_rcv().")
+6dee402daba4 ("vxlan: Fix racy device stats updates.")

@@ -1,0 +1,8 @@
+581c8cbfa934 ("mptcp: annotate data-races around subflow->fully_established")
+3d041393ea8c ("mptcp: prevent MPC handshake on port-based signal endpoints")
+27069e7cb3d1 ("mptcp: disable active MPTCP in case of blackhole")
+6982826fe5e5 ("mptcp: fallback to TCP after SYN+MPC drops")
+d82809b6c5f2 ("mptcp: avoid duplicated SUB_CLOSED events")
+4dde0d72ccec ("mptcp: mib: count MPJ with backup flag")
+a32c6966b23d ("doc: mptcp: alphabetical order")
+ccf45c92d746 ("doc: mptcp: add missing 'available_schedulers' entry")

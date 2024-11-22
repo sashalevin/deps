@@ -1,0 +1,8 @@
+130fbea551c5 ("net: emaclite: Replace alloc_etherdev() with devm_alloc_etherdev()")
+709990df5ed0 ("net: emaclite: Use devm_platform_get_and_ioremap_resource() in xemaclite_of_probe()")
+2e0ec0afa902 ("net: ethernet: xilinx: Convert to platform remove callback returning void")
+b19ab4b38b06 ("ethernet: Fix error handling in xemaclite_of_probe")
+7801302b9a01 ("net: xilinx: emaclite: Use platform_get_irq() to get the interrupt")
+70c50265c46b ("net: axienet: stop interface during shutdown")
+8425c41d1ef7 ("net: ll_temac: Extend support to non-device-tree platforms")
+a63625d2a0e7 ("net: ll_temac: Fix and simplify error handling by using devres functions")

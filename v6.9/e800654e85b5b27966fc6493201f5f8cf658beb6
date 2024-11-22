@@ -1,0 +1,5 @@
+e800654e85b5 ("ice: Use ice_adapter for PTP shared data instead of auxdev")
+97ed20a01f5b ("ice: Add ice_get_ctrl_ptp() wrapper to simplify the code")
+1f374d57c393 ("ice: Introduce ice_get_base_incval() helper")
+d29a8134c782 ("ice: avoid the PTP hardware semaphore in gettimex64 path")
+0e2bddf9e5f9 ("ice: add ice_adapter for shared data across PFs on the same NIC")

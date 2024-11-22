@@ -1,0 +1,6 @@
+0c729f53b8c3 ("net: airoha: Simplify Tx napi logic")
+3affa310de52 ("net: airoha: Read completion queue data in airoha_qdma_tx_napi_poll()")
+1d304174106c ("net: airoha: Implement BQL support")
+3dc6e998d18b ("net: airoha: Update tx cpu dma ring idx at the end of xmit loop")
+245c7bc86b19 ("net: airoha: Move airoha_queues in airoha_qdma")
+16874d1cf381 ("net: airoha: Introduce airoha_qdma struct")

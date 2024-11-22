@@ -1,0 +1,4 @@
+ac48430368c1 ("r8169: don't take RTNL lock in rtl_task()")
+127532cd0f06 ("r8169: improve handling task scheduling")
+ce870af39558 ("r8169: reset bus if NIC isn't accessible after tx timeout")
+80c0576ef179 ("r8169: disable ASPM in case of tx timeout")
