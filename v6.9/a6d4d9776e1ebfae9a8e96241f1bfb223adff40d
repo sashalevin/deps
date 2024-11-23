@@ -1,0 +1,7 @@
+a6d4d9776e1e ("drm/i915: Plumb 'dsb' all way to the color commit hooks")
+84d2d0430f08 ("drm/i915/color: Extract intel_color_modeset()")
+42c8065d83fa ("drm/i915: Pass the whole atomic state to intel_color_prepare_commit()")
+5f128aa1052e ("drm/i915: Plumb the entire atomic state into intel_color_check()")
+3607b30836ae ("drm/i915: Handle joined pipes inside hsw_crtc_enable()")
+7a3f171c8f6a ("drm/i915: Extract glk_need_scaler_clock_gating_wa()")
+c922a47913f9 ("drm/i915: Clean up glk_pipe_scaler_clock_gating_wa()")

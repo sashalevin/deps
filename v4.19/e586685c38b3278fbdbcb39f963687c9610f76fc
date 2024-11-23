@@ -1,0 +1,7 @@
+e586685c38b3 ("i2c: qcom-geni: Keep comment why interrupts start disabled")
+e2c85d85a05f ("i2c: qcom-geni: Use IRQF_NO_AUTOEN flag in request_irq()")
+3b7d81f08a6a ("i2c: qcom-geni: Grow a dev pointer to simplify code")
+b2ca8800621b ("i2c: qcom-geni: Let firmware specify irq trigger flags")
+c9913ac42135 ("i2c: qcom-geni: Provide support for ACPI")
+c3c2889b8a2c ("i2c: qcom-geni: Signify successful driver probe")
+848bd3f3de9d ("i2c: qcom-geni: Fix runtime PM mismatch with child devices")

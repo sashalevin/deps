@@ -1,0 +1,4 @@
+319e53f15590 ("drm/panic: Fix uninitialized spinlock acquisition with CONFIG_DRM_PANIC=n")
+d27a14060f85 ("drm/panic: Move drm_panic_register prototype to drm_crtc_internal.h")
+7e33fc2ff675 ("drm/panic: Add missing static inline to drm_panic_is_enabled()")
+9f774c42a908 ("drm/panic: Add drm_panic_is_enabled()")

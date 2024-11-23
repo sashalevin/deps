@@ -1,0 +1,5 @@
+f93126f5d559 ("drm/sched: Re-group and rename the entity run-queue lock")
+d42a254633c7 ("drm/sched: Optimise drm_sched_entity_push_job")
+cbc8764e29c2 ("drm/sched: Always wake up correct scheduler in drm_sched_entity_push_job")
+4286cc2c9539 ("drm/sched: Add locking to drm_sched_entity_modify_sched")
+440d52b370b0 ("drm/sched: Fix dynamic job-flow control race")

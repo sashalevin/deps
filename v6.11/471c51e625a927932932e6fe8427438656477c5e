@@ -1,0 +1,6 @@
+471c51e625a9 ("drm/i915/pps: use display->platform.<platform> instead of IS_<PLATFORM>()")
+0f9f8b0fb186 ("drm/i915/pps: add vlv_ prefix to pps_pipe and active_pipe members")
+8a37cd4dc50e ("drm/i915/pps: convert intel_pps.[ch] to struct intel_display")
+631ef2e6adb0 ("drm/i915/pps: pass intel_dp to pps_name()")
+a9556637a233 ("drm/i915: move rawclk from runtime to display runtime info")
+c7085d08c7e5 ("drm/i915/pps: Disable DPLS_GATING around pps sequence")

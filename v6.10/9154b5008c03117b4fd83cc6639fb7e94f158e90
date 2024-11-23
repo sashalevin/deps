@@ -1,0 +1,8 @@
+9154b5008c03 ("xfs: factor out a xfs_growfs_rt_alloc_blocks helper")
+2a95ffc44b61 ("xfs: factor out rtbitmap/summary initialization helpers")
+266e78aec4b9 ("xfs: factor out a xfs_last_rt_bmblock helper")
+7996f10ce6cc ("xfs: factor out a xfs_growfs_rt_bmblock helper")
+3cb30d516229 ("xfs: make the RT rsum_cache mandatory")
+021d9c107e29 ("xfs: remove xfs_validate_rtextents")
+a24cae8fc1f1 ("xfs: reset rootdir extent size hint after growfsrt")
+16e1fbdce9c8 ("xfs: take m_growlock when running growfsrt")

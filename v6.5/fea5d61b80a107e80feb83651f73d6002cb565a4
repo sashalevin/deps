@@ -1,0 +1,8 @@
+fea5d61b80a1 ("drm/radeon: Use video aperture helpers")
+41d48e557e01 ("drm/radeon: Run DRM default client setup")
+a9ed2f052c5c ("drm/radeon: change drm_dev_alloc to devm_drm_dev_alloc")
+fb1b5e1dd53f ("drm/radeon: change rdev->ddev to rdev_to_drm(rdev)")
+a6e23bec8ed1 ("drm/radeon: add helper rdev_to_drm(rdev)")
+60a9472cf0a8 ("drm/radeon: change variable name "dev" to "ddev" for consistency")
+e747235ef3c2 ("drm/radeon: include drm/drm_edid.h only where needed")
+439590ace775 ("drm/edid: include drm_eld.h only where required")

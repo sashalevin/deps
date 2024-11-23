@@ -1,0 +1,8 @@
+90380119ef27 ("drm/i915/display: Fix Panel Replay vblank enable workaround")
+54ab6d160de3 ("drm/i915/display: Add own counter for Panel Replay vblank workaround")
+aa451abcffb5 ("drm/i915/display: Prevent DC6 while vblank is enabled for Panel Replay")
+f25ae90ff9c6 ("drm/i915: move de_irq_mask to display substruct")
+53e8de10f213 ("drm/i915: move vblank_enabled to display substruct")
+8219ab6d6f0d ("drm/i915: move max_dotclk_freq to display substruct")
+ded402c7a044 ("drm/i915: move skl_preferred_vco_freq to display substruct")
+00c3959d63ae ("drm/i915: Add bigjoiner force enable option to debugfs")

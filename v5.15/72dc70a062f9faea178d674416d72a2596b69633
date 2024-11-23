@@ -1,0 +1,7 @@
+72dc70a062f9 ("drm/etnaviv: Replace the '&pdev->dev' with 'dev'")
+f5cc0cbc2796 ("drm/etnaviv: Add a helper to get the first available GPU device node")
+a10a43eee858 ("drm/etnaviv: Add helper functions to create and destroy platform device")
+0a522394202f ("drm/etnaviv: Make use of the helper component_compare_of/dev_name")
+f5be833dc86f ("drm/etnaviv: use a 32 bit mask as coherent DMA mask")
+0ea057a9cb2b ("drm/etnaviv: fix dma configuration of the virtual device")
+3c7e0ccc946c ("drm/etnaviv: use PLATFORM_DEVID_NONE")

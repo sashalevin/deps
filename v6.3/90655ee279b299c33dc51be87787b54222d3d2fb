@@ -1,0 +1,7 @@
+90655ee279b2 ("erofs: simplify definition of the log functions")
+aa12a790d31b ("erofs: make erofs_{err,info}() support NULL sb parameter")
+428f27cc8d32 ("erofs: clean up redundant comment and adjust code alignment")
+ffa09b3bd024 ("erofs: DEFLATE compression support")
+a97a218b0886 ("erofs: move packed inode out of the compression part")
+cb9bce795143 ("erofs: initialize packed inode after root inode is assigned")
+3acea5fc3354 ("erofs: avoid hardcoded blocksize for subpage block support")

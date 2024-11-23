@@ -1,0 +1,4 @@
+7cfe1a45de8d ("i2c: cadence: Add atomic transfer support for controller version 1.4")
+ed866f41612a ("i2c: cadence: Split cdns_i2c_master_xfer for Atomic Mode")
+ae8ec9dd19b3 ("i2c: cadence: Relocate cdns_i2c_runtime_suspend and cdns_i2c_runtime_resume to facilitate atomic mode")
+747bdf912e22 ("i2c: cadence: Add system suspend and resume PM support")

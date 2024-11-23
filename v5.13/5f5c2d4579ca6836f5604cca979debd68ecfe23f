@@ -1,0 +1,6 @@
+5f5c2d4579ca ("i2c: imx: prevent rescheduling in non dma mode")
+b460b15b3cc2 ("i2c: imx: separate atomic, dma and non-dma use case")
+6692694aca86 ("i2c: imx: do not poll for bus busy in single master mode")
+d36678f7905c ("i2c: imx: Only DMA messages with I2C_M_DMA_SAFE flag set")
+f89bf95632b4 ("i2c: imx: Add timer for handling the stop condition")
+2f799b25dbaa ("i2c: imx: Fix some checkpatch warnings")

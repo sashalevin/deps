@@ -1,0 +1,7 @@
+1bc92a517bb4 ("accel/ivpu: Remove invalid warnings")
+3b434a3445ff ("accel/ivpu: Use threaded IRQ to handle JOB done messages")
+58cde80f45a2 ("accel/ivpu: Use dedicated work for job timeout detection")
+b3c10b71a61c ("accel/ivpu: Do not use cons->aborted for job_done_thread")
+12fbf8ac39b0 ("accel/ivpu: Do not use irqsave in ivpu_ipc_dispatch")
+043a2d5d71d8 ("accel/ivpu: Rename cons->rx_msg_lock")
+3bf3e21c15d4 ("Merge drm/drm-next into drm-misc-next")

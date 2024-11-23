@@ -1,0 +1,8 @@
+fdf5703b6110 ("xfs: constify the xfs_inode predicates")
+fcea5b35f362 ("xfs: hoist project id get/set functions to libxfs")
+b7c477be3969 ("xfs: hoist inode flag conversion functions to libxfs")
+d76e137057ae ("xfs: move inode copy-on-write predicates to xfs_inode.[ch]")
+6b700a5be9b3 ("xfs: hoist multi-fsb allocation unit detection to a helper")
+ee20808d848c ("xfs: create a new helper to return a file's allocation unit")
+00acb28d9674 ("xfs: declare xfs_file.c symbols in xfs_file.h")
+a4db266a705c ("xfs: move inode lease breaking functions to xfs_inode.c")

@@ -1,0 +1,8 @@
+fc5d96670eb2 ("drm/ttm: Move swapped objects off the manager's LRU list")
+10efe34dae79 ("drm/ttm: Use the LRU walker helper for swapping")
+da966b82bf3d ("drm/ttm: Provide a generic LRU walker helper")
+4c44f89c5dae ("drm/ttm, drm/amdgpu, drm/xe: Consider hitch moves within bulk sublist moves")
+8e9bf0fb10a7 ("drm/ttm: Use LRU hitches")
+9c62fb62c9f0 ("drm/ttm: Slightly clean up LRU list iteration")
+6be74ddd0609 ("drm/ttm: Allow TTM LRU list nodes of different types")
+5b259c0d1d3c ("drm/xe/vm: drop vm->destroy_work")

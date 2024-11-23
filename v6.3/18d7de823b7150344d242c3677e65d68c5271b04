@@ -1,0 +1,8 @@
+18d7de823b71 ("udmabuf: fix vmap_udmabuf error page set")
+1c0844c6184e ("udmabuf: change folios array from kmalloc to kvmalloc")
+c6a3194c05e7 ("udmabuf: pin the pages using memfd_pin_folios() API")
+5e72b2b41a21 ("udmabuf: convert udmabuf driver to use folios")
+0c8b91ef5100 ("udmabuf: add back support for mapping hugetlb pages")
+7d79cd784470 ("udmabuf: use vmf_insert_pfn and VM_PFNMAP for handling mmap")
+725553d202dd ("udmabuf: add CONFIG_MMU dependency")
+b7cb3821905b ("udmabuf: revert 'Add support for mapping hugepages (v4)'")

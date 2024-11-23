@@ -1,0 +1,5 @@
+9d86d080cfb3 ("drm/xe/devcoredump: Use drm_puts and already cached local variables")
+0417a5f84810 ("drm/xe: Always capture exec queues on snapshot")
+e5f661bb56d4 ("drm/xe/devcoredump: Print errno if VM snapshot was not captured")
+784b34100fc3 ("drm/xe: Add infrastructure for delayed LRC capture")
+47058633d9c5 ("drm/xe: Move lrc snapshot capturing to xe_lrc.c")

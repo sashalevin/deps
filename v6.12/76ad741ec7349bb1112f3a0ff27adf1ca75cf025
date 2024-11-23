@@ -1,0 +1,7 @@
+76ad741ec734 ("accel/ivpu: Make command queue ID allocated on XArray")
+ae7af7d8dc2a ("accel/ivpu: Use xa_alloc_cyclic() instead of custom function")
+94b2a2c0e7cb ("accel/ivpu: Remove copy engine support")
+08eb99ce911d ("accel/ivpu: Do not fail on cmdq if failed to allocate preemption buffers")
+c3b0ec0fe0c7 ("accel/ivpu: Make DB_ID and JOB_ID allocations incremental")
+436b67d6936b ("accel/ivpu: Add auto selection logic for job scheduler")
+990b1e3d1501 ("accel/ivpu: Limit FW version string length")

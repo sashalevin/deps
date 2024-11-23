@@ -1,0 +1,7 @@
+f9bcd59ac8bf ("drm/xe/sriov: Convert register access to use xe_mmio")
+13a48a0fa523 ("drm/xe/pf: Sanitize VF scratch registers on FLR")
+2bd87f0fc24a ("drm/xe/pf: Improve VF control")
+d69300abc2de ("drm/xe/pf: Drop GuC notifications for non-existing VF")
+45d30c828c61 ("drm/xe/vf: Track writes to inaccessible registers from VF")
+466a6c3855cf ("drm/xe: Kill regs/xe_sriov_regs.h")
+9dae9751c7b0 ("drm/xe: Fix register definition order in xe_regs.h")

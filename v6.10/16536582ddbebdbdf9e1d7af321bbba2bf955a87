@@ -1,0 +1,8 @@
+16536582ddbe ("drm/xe/queue: move xa_alloc to prevent UAF")
+fe4f5d4b6616 ("drm/xe: Clean up VM / exec queue file lock usage.")
+2149ded63079 ("drm/xe: Fix use after free when client stats are captured")
+3d0c4a62cc55 ("drm/xe: Move part of xe_file cleanup to a helper")
+0568a4086a6c ("drm/xe: Remove unwanted mutex locking")
+45bb564de0a6 ("drm/xe: Use run_ticks instead of runtime for client stats")
+188ced1e0ff8 ("drm/xe/client: Print runtime to fdinfo")
+6109f24f87d7 ("drm/xe: Add helper to accumulate exec queue runtime")

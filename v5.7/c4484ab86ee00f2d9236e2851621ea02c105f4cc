@@ -1,0 +1,6 @@
+c4484ab86ee0 ("dma-mapping: use trace_dma_alloc for dma_alloc* instead of using trace_dma_map")
+bb0e391975f8 ("dma-mapping: fix vmap and mmap of noncontiougs allocations")
+038eb433dc14 ("dma-mapping: add tracing for dma-mapping API calls")
+b5c58b2fdc42 ("dma-mapping: direct calls for dma-iommu")
+f69e342eec00 ("dma-mapping: call ->unmap_page and ->unmap_sg unconditionally")
+daa121128a2d ("Merge tag 'dma-mapping-6.10-2024-05-20' of git://git.infradead.org/users/hch/dma-mapping")

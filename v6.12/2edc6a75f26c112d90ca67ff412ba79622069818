@@ -1,0 +1,3 @@
+2edc6a75f26c ("drm/i915: switch intel_wakeref_t underlying type to struct ref_tracker *")
+61dabe8234cb ("drm/i915/gt: add a macro for mock gt wakeref special value and use it")
+3b8567486b5f ("drm/i915: use INTEL_WAKEREF_DEF instead of magic -1 for intel_wakeref_t")

@@ -1,0 +1,8 @@
+dadd28d4142f ("drm/client: Add client-lib module")
+1f828b4dd402 ("drm/client: Make client support optional")
+bf17766f1083 ("drm/client: Move suspend/resume into DRM client callbacks")
+df7e8b522a60 ("drm/client: Move client event handlers to drm_client_event.c")
+8058944f5226 ("drm/fbdev: Select fbdev I/O helpers from modules that require them")
+32acc286b297 ("drm/amdgpu: Run DRM default client setup")
+d07fdf922592 ("drm: Add client-agnostic setup helper")
+5d08c44e47b9 ("drm/fbdev: Add memory-agnostic fbdev client")

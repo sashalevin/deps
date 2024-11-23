@@ -1,0 +1,6 @@
+e3fc2fd77c63 ("sound: Switch back to struct platform_driver::remove()")
+755795cd3da0 ("OSS: dmasound/paula: Mark driver struct with __refdata to prevent section mismatch")
+bce36aa682da ("OSS: dmasound/paula: Convert to platform remove callback returning void")
+315a3d57c64c ("ALSA: Implement the new Virtual PCM Test Driver")
+0505c87c00e8 ("ALSA: mips/sgio2audio: Convert to platform remove callback returning void")
+b54a2377ec02 ("ALSA: mips/hal2: Convert to platform remove callback returning void")

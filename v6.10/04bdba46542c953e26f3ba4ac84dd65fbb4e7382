@@ -1,0 +1,8 @@
+04bdba46542c ("drm/amdgpu: Use drm_print_memory_stats helper from fdinfo")
+7181faaa4703 ("drm/amdgpu: nuke the VM PD/PT shadow handling")
+8fb0efb10184 ("drm/amdgpu: Reduce mem_type to domain double indirection")
+26e20235ce00 ("drm/amdgpu: Add amdgpu_bo_is_vm_bo helper")
+6cd2b872643b ("drm/amd/amdgpu: Check tbo resource pointer")
+6e4aa08fa9c6 ("drm/amdgpu: Fix amdgpu_device_reset_sriov retry logic")
+25c01191c255 ("drm/amdgpu: Add reset_context flag for host FLR")
+f4322b9f8ad5 ("drm/amdgpu: Fix two reset triggered in a row")

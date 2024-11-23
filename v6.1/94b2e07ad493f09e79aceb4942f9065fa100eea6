@@ -1,0 +1,5 @@
+94b2e07ad493 ("drm/amdgpu: update the handle ptr in prepare_suspend")
+47d827f9c77b ("drm/amdgpu: update the handle ptr in late_fini")
+db9988906535 ("drm/amd: Split up UVD suspend into prepare and suspend steps")
+cb11ca3233aa ("drm/amd: Add concept of running prepare_suspend() sequence for IP blocks")
+5095d5418193 ("drm/amd: Evict resources during PM ops prepare() callback")

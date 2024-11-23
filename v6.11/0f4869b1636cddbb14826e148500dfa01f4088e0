@@ -1,0 +1,6 @@
+0f4869b1636c ("drm/i915/display: convert I915_STATE_WARN() to struct intel_display")
+8a37cd4dc50e ("drm/i915/pps: convert intel_pps.[ch] to struct intel_display")
+631ef2e6adb0 ("drm/i915/pps: pass intel_dp to pps_name()")
+b34b43f9cb45 ("drm/i915/dp: convert g4x_dp.[ch] to struct intel_display")
+a9556637a233 ("drm/i915: move rawclk from runtime to display runtime info")
+c7085d08c7e5 ("drm/i915/pps: Disable DPLS_GATING around pps sequence")

@@ -1,0 +1,6 @@
+45c548642b56 ("drm/i915/dsb: Use DSB for plane/color management updates")
+a6d4d9776e1e ("drm/i915: Plumb 'dsb' all way to the color commit hooks")
+01389846f7d6 ("drm/i915: Plumb 'dsb' all way to the plane hooks")
+b0413571bc44 ("drm/i915/dsb: Generate the DSB buffer in commit_tail()")
+b7e247b3c927 ("drm/i915: Prepare clear color before wait_for_dependencies()")
+84d2d0430f08 ("drm/i915/color: Extract intel_color_modeset()")

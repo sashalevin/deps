@@ -1,0 +1,6 @@
+f96dbf7c321d ("drm/xe: Do not run GPU page fault handler on a closed VM")
+3d420e9fa848 ("drm/xe: Rework GPU page fault handling")
+bf69918b7199 ("drm/xe: Use xe_vma_ops to implement page fault rebinds")
+5f677a9b6537 ("drm/xe: Use xe_vma_ops to implement xe_vm_rebind")
+75192758d640 ("drm/xe: Add ops_execute function which returns a fence")
+77f2ef3f16f5 ("drm/xe: Lock all gpuva ops during VM bind IOCTL")

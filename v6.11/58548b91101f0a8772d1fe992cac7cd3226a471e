@@ -1,0 +1,7 @@
+58548b91101f ("drm/xe: Defer gt->mmio initialization until after multi-tile setup")
+6fb5d1a1d376 ("drm/xe: Adjust mmio code to pass VF substructure to SRIOV code")
+1877c88fa9b9 ("drm/xe: Add xe_tile backpointer to xe_mmio")
+fa599b8c95a7 ("drm/xe: Populate GT's mmio iomap from tile during init")
+d4aff99aefa2 ("drm/xe: Clarify size of MMIO region")
+34953ee349dd ("drm/xe: Create dedicated xe_mmio structure")
+a2b4da9501c1 ("drm/xe: Refactor mmio setup for multi-tile")

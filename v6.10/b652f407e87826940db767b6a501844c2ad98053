@@ -1,0 +1,8 @@
+b652f407e878 ("drm/i915/fb: remove intel_fb_obj()")
+17cd58a8f13c ("drm/i915/display: start a buffer object abstraction layer")
+9af06d094708 ("drm/i915/fb: hide the guts of intel_fb_obj()")
+208f53102a0b ("drm/i915/display: include xe_bo.h, gem_object_types etc. where needed")
+67f5728a8954 ("drm/i915: Constify 'fb' in during pinning")
+e5f827c5796f ("drm/i915: Extract intel_plane_needs_physical()")
+c22a814bc217 ("drm/i915: Drop 'uses_fence' parameter from intel_pin_fb_obj_dpt()")
+c8bafa0d9898 ("drm/i915: Align PLANE_SURF to 16k on ADL for async flips")
