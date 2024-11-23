@@ -1,0 +1,7 @@
+d71fa842d33c ("iommu/io-pgtable-arm: Fix stage-2 map/unmap for concatenated tables")
+4a77b12deb25 ("iommu/io-pgtable-arm: Implement arm_lpae_map_pages()")
+1fe27be5ffec ("iommu/io-pgtable-arm: Implement arm_lpae_unmap_pages()")
+41e1eb2546e9 ("iommu/io-pgtable-arm: Prepare PTE methods for handling multiple entries")
+f37eb48466d2 ("iommu/io-pgtable-arm: Remove unused 'level' parameter from iopte_type() macro")
+f12e0d22903e ("iommu: Defer the early return in arm_(v7s/lpae)_map")
+f34ce7a7018c ("iommu: Add gfp parameter to io_pgtable_ops->map()")

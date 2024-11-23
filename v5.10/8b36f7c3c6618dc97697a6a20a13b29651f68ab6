@@ -1,0 +1,8 @@
+8b36f7c3c661 ("RDMA/mlx5: Support OOO RX WQE consumption")
+1ab52ac1e9bc ("RDMA/mlx5: Set user priority for DCT")
+9ecf6ac17c32 ("RDMA/mlx5: Take qp type from mlx5_ib_qp")
+2614488d1f3c ("RDMA/mlx5: Allow creating all QPs even when non RDMA profile is used")
+f957d4d09a5f ("RDMA/mlx5: Enable querying AH for XRC QP types")
+808b2c925dd0 ("IB/mlx5: Fix fall-through warnings for Clang")
+26e990badde4 ("RDMA: Check attr_mask during modify_qp")
+b8e3130dd96b ("RDMA: Remove uverbs_ex_cmd_mask values that are linked to functions")

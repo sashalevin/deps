@@ -1,0 +1,6 @@
+02e224d096ef ("backlight: lcd: Remove struct fb_videomode from set_mode callback")
+43e1120deb37 ("backlight: lcd: Replace check_fb with controls_device")
+516f32514290 ("backlight: platform_lcd: Remove include statement for <linux/backlight.h>")
+d36870367c18 ("backlight: lcd: Rearrange code in fb_notifier_callback()")
+02bc4c447e29 ("backlight: platform_lcd: Constify lcd_ops")
+ee0c8e494cc3 ("backlight: corgi: Convert to use GPIO descriptors")

@@ -1,0 +1,8 @@
+128630e1dbec ("smb: cached directories can be more than root file handle")
+38c8a9a52082 ("smb: move client and server files to common directory fs/smb")
+abdb1742a312 ("cifs: get rid of mount options string parsing")
+9fd29a5bae6e ("cifs: use fs_context for automounts")
+ebe98f1447bb ("cifs: enable caching of directories for which a lease is held")
+30f8f37147bc ("cifs: store a pointer to a fid in the cfid structure instead of the struct")
+47fc2491e108 ("cifs: improve handlecaching")
+aea6794e664a ("cifs: Make tcon contain a wrapper structure cached_fids instead of cached_fid")

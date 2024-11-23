@@ -1,0 +1,6 @@
+7fd9aeb07f83 ("iommu: Reorganize kerneldoc parameter names")
+addb665924f3 ("iommu: Introduce a new iommu_group_replace_domain() API")
+dcf40ed3a20d ("iommu: Make __iommu_group_set_domain() handle error unwind")
+8f9930fa0161 ("iommu: Remove detach_dev callback")
+dd8a25c557e1 ("iommu: Remove deferred attach check from __iommu_detach_device()")
+6caeb33fa986 ("iommu: Add set_platform_dma_ops iommu ops")

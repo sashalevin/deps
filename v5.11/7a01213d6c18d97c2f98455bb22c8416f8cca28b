@@ -1,0 +1,8 @@
+7a01213d6c18 ("cxl/core/regs: Add rcd_pcie_cap initialization")
+dd2617ebd2a6 ("cxl/port: Use __free() to drop put_device() for cxl_port")
+98856b2ea306 ("cxl: Introduce put_cxl_root() helper")
+6ac07883dbb5 ("cxl/pci: Add RCH downstream port error logging")
+6c5f3aacb296 ("cxl/pci: Map RCH downstream AER registers for logging protocol errors")
+bf6c9fa846e2 ("cxl/pci: Update CXL error logging to use RAS register address")
+f05fd10d138d ("cxl/pci: Add RCH downstream port AER register discovery")
+0c0df63177e3 ("Merge branch 'for-6.5/cxl-rch-eh' into for-6.5/cxl")

@@ -1,0 +1,5 @@
+a33bf8d8ce7e ("iommu: Restore iommu_flush_iotlb_all()")
+69e5a17511f6 ("iommu: Remove useless flush from iommu_create_device_direct_mappings()")
+6e6c6d6bc6c9 ("iommu: Avoid unnecessary cache invalidations")
+aae4c8e27bd7 ("iommu: Rename iommu_tlb_* functions to iommu_iotlb_*")
+781ca2de89ba ("iommu: Add gfp parameter to iommu_ops::map")

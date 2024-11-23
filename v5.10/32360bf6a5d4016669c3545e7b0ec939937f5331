@@ -1,0 +1,8 @@
+32360bf6a5d4 ("leds: Introduce ordered workqueue for LEDs events instead of system_wq")
+43a707ae5840 ("leds: Make leds_class a static const structure")
+22720a87d0a9 ("leds: Fix oops about sleeping in led_trigger_blink()")
+fa15d8c69238 ("leds: Fix set_brightness_delayed() race")
+e298d8a38b23 ("leds: Change led_trigger_blink[_oneshot]() delay parameters to pass-by-value")
+1aaba11da9aa ("driver core: class: remove module * from class_create()")
+6e30a66433af ("driver core: class: remove struct module owner out of struct class")
+a93e884edf61 ("Merge tag 'driver-core-6.3-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/gregkh/driver-core")

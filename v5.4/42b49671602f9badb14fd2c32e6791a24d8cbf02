@@ -1,0 +1,6 @@
+42b49671602f ("leds: gpio: Switch to device_for_each_child_node_scoped()")
+045391a02bd9 ("leds: gpio: Set num_leds after allocation")
+e7431bd7899c ("leds: gpio: Add kernel log if devm_fwnode_gpiod_get() fails")
+54e657d604ae ("leds: gpio: Move temporary variable for struct device to gpio_led_probe()")
+cf1a1a6a7d81 ("leds: gpio: Use struct_size() in devm_kzalloc()")
+90a8e82d3ca8 ("leds: gpio: Fix uninitialized gpio label for fwnode based probe")

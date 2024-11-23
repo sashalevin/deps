@@ -1,0 +1,8 @@
+fd50651636fb ("iommu/io-pgtable-arm-v7s: Remove split on unmap behavior")
+b9bf41e249f8 ("iommu/io-pgtable-arm-v7s: Remove map/unmap")
+bfdd23137418 ("iommu/io-pgtable-arm-v7s: Add a quirk to allow pgtable PA up to 35bit")
+a8e5f04458c4 ("iommu/io-pgtable: Remove non-strict quirk")
+23c30bed9c3c ("iommu/io-pgtable-arm-v7s: Implement arm_v7s_map_pages()")
+f13eabcf9dfa ("iommu/io-pgtable-arm-v7s: Implement arm_v7s_unmap_pages()")
+1fe27be5ffec ("iommu/io-pgtable-arm: Implement arm_lpae_unmap_pages()")
+41e1eb2546e9 ("iommu/io-pgtable-arm: Prepare PTE methods for handling multiple entries")

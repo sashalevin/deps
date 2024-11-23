@@ -1,0 +1,7 @@
+26228256b796 ("backlight: lcd: Test against struct fb_info.lcd_dev")
+d36870367c18 ("backlight: lcd: Rearrange code in fb_notifier_callback()")
+e6c6fea5c314 ("backlight: Match backlight device against struct fb_info.bl_dev")
+f6d520783a08 ("fbdev: Clean up forward declarations in header file")
+0f115335cff5 ("fbdev: Do not include <linux/notifier.h> in header")
+183c81569dde ("fbdev: Do not include <linux/fs.h> in header")
+11b4eedfc87d ("fbdev: Do not include <linux/backlight.h> in header")

@@ -1,0 +1,6 @@
+e843aedbeb82 ("iommu/amd: Convert dev_data lock from spinlock to mutex")
+4b18ef8491b0 ("iommu/amd: Rearrange attach device code")
+d6b47dec3684 ("iommu/amd: Reduce domain lock scope in attach device path")
+d16041124de1 ("iommu/amd: xarray to track protection_domain->iommu list")
+743a4bae9fa1 ("iommu/amd: Remove protection_domain.dev_cnt variable")
+4402f2627d30 ("iommu/amd: Implement global identity domain")

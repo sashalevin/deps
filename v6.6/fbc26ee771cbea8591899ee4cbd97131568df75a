@@ -1,0 +1,6 @@
+fbc26ee771cb ("sysctl: make internal ctl_tables const")
+559d4c6a9d3b ("sysctl: avoid spurious permanent empty tables")
+a35dd3a786f5 ("sysctl: drop now unnecessary out-of-bounds check")
+4a7b29f65094 ("sysctl: move sysctl type to ctl_table_header")
+eb32d3adef46 ("sysctl: drop sysctl_is_perm_empty_ctl_table")
+315552310c7d ("sysctl: Fix out of bounds access for empty sysctl registers")
