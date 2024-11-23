@@ -1,0 +1,6 @@
+05d4532b60e3 ("memcg/hugetlb: add hugeTLB counters to memcg")
+f77f0c751478 ("mm,memcg: provide per-cgroup counters for NUMA balancing operations")
+727d50a7e072 ("mm/migrate: move common code to numa_migrate_check (was numa_migrate_prep)")
+ac59a1f0146f ("memory tiering: count PGPROMOTE_SUCCESS when mem tiering is enabled.")
+2a28713a67fd ("memory tiering: introduce folio_use_access_time() check")
+3eb2091c6534 ("memory tiering: read last_cpupid correctly in do_huge_pmd_numa_page()")

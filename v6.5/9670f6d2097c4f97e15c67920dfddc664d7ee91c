@@ -1,0 +1,7 @@
+9670f6d2097c ("powerpc64/bpf: Fold bpf_jit_emit_func_call_hlp() into bpf_jit_emit_func_call_rel()")
+61688a82e047 ("powerpc/bpf: enable kfunc call")
+2ecfe59cd7de ("powerpc/64/bpf: fix tail calls for PCREL addressing")
+90d862f370b6 ("powerpc/bpf: use bpf_jit_binary_pack_[alloc|finalize|free]")
+de04e40600ae ("powerpc/bpf: rename powerpc64_jit_data to powerpc_jit_data")
+033ffaf0af1f ("powerpc/bpf: implement bpf_arch_text_invalidate for bpf_prog_pack")
+6efc1675acb8 ("powerpc/bpf: implement bpf_arch_text_copy")

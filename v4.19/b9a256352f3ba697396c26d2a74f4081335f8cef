@@ -1,0 +1,8 @@
+b9a256352f3b ("mm: remove PageKsm()")
+c0bff412e67b ("mm: allow anon exclusive check over hugetlb tail pages")
+29cfe7556bfd ("mm: constify more page/folio tests")
+c36f9d3d2c3e ("mm: remove test_set_page_writeback()")
+9c5ccf2db04b ("mm: remove HUGETLB_PAGE_DTOR")
+8dc4a8f1e038 ("mm: convert free_transhuge_folio() to folio_undo_large_rmappable()")
+dd6fa0b61814 ("mm: call free_huge_page() directly")
+5994eabf3bbb ("merge mm-hotfixes-stable into mm-stable to pick up depended-upon changes")

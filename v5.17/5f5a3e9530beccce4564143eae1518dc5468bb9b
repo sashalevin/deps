@@ -1,0 +1,6 @@
+5f5a3e9530be ("mm/truncate: reset xa_has_values flag on each iteration")
+d3db2c042591 ("mm: optimize invalidation of shadow entries")
+61c663e020d2 ("mm/truncate: batch-clear shadow entries")
+9fb6beea79c6 ("filemap: find_get_entries() now updates start offset")
+3392ca121872 ("filemap: find_lock_entries() now updates start offset")
+b4545f46533b ("mm/truncate: Convert __invalidate_mapping_pages() to use a folio")

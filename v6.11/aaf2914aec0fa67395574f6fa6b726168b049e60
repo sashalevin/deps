@@ -1,0 +1,7 @@
+aaf2914aec0f ("mm: add per-order mTHP swpin counters")
+0c560dd86040 ("mm: swap: count successful large folio zswap stores in hugepage zswpout stats")
+15ff4d409e1a ("mm/memcontrol: add per-memcg pgpgin/pswpin counter")
+b54e1bfecc4b ("mm: fix PSWPIN counter for large folios swap-in")
+70e59a75283b ("mm: tidy up shmem mTHP controls and stats")
+246d3aa3e531 ("mm: cleanup count_mthp_stat() definition")
+98455eef8064 ("memcg: make PGPGIN and PGPGOUT v1 only")

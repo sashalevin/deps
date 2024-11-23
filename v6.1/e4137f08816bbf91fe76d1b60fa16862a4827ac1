@@ -1,0 +1,6 @@
+e4137f08816b ("mm, kasan, kmsan: instrument copy_from/to_kernel_nofault")
+a2f115470520 ("kasan: rust: Add KASAN smoke test via UAF")
+7005e7ec2885 ("kmsan: introduce test_unpoison_memory()")
+6204c9ab4a5a ("kmsan: add test_stackdepot_roundtrip")
+c8c7016f50c8 ("kasan: fail non-kasan KUnit tests on KASAN reports")
+7ce0ea19d50e ("kasan: switch kunit tests to console tracepoints")

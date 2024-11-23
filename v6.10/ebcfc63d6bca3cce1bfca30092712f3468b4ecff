@@ -1,0 +1,6 @@
+ebcfc63d6bca ("mm: abstract THP allocation")
+78fefd04c123 ("mm: memory: convert clear_huge_page() to folio_zero_user()")
+15bde4abab73 ("mm: extend rmap flags arguments for folio_add_new_anon_rmap")
+508758960b8d ("mm: swap: entirely map large folios found in swapcache")
+29f252cdc293 ("mm: introduce arch_do_swap_page_nr() which allows restore metadata for nr pages")
+15c0536fb57f ("mm: rmap: abstract updating per-node and per-memcg stats")

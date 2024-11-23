@@ -1,0 +1,5 @@
+7f24cbc9c4d4 ("mm/mmap: teach generic_get_unmapped_area{_topdown} to handle hugetlb mappings")
+df7e1286b1dc ("mm: care about shadow stack guard gap when getting an unmapped area")
+b80fa3cbb78c ("treewide: use initializer for struct vm_unmapped_area_info")
+6732c0e494ac ("ARC: mm: retire support for aliasing VIPT D$")
+3f86ed6ec0b3 ("Merge tag 'arc-6.6-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/vgupta/arc")

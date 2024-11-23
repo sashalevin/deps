@@ -1,0 +1,6 @@
+91d0ec834786 ("zsmalloc: replace kmap_atomic with kmap_local_page")
+afb2d666d025 ("zsmalloc: use copy_page for full page copy")
+85b325815b56 ("zsmalloc: fix a race with deferred_handles storing")
+9997bc017549 ("zsmalloc: implement writeback mechanism for zsmalloc")
+64f768c6b32e ("zsmalloc: add a LRU to zs_pool to keep track of zspages in LRU order")
+c0547d0b6a4b ("zsmalloc: consolidate zs_pool's migrate_lock and size_class's locks")

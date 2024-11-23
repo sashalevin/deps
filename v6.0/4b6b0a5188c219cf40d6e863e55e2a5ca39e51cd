@@ -1,0 +1,7 @@
+4b6b0a5188c2 ("mm/mremap: remove goto from mremap_to()")
+58f1069311db ("mm/mremap: cleanup vma_to_resize()")
+b0cc5e89caad ("mm/mlock: rename mlock_future_check() to mlock_future_ok()")
+3c54a298db4c ("mm/mmap: refactor mlock_future_check()")
+2e7ce7d354f2 ("mm/mmap: change do_brk_flags() to expand existing VMA and add do_brk_munmap()")
+524e00b36e8c ("mm: remove rb tree.")
+d4af56c5c7c6 ("mm: start tracking VMAs with maple tree")

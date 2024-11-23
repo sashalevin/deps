@@ -1,0 +1,5 @@
+06dbbb4d5f71 ("powerpc/mm/fault: Fix kfence page fault reporting")
+90cbac0e995d ("powerpc: Enable KFENCE for PPC32")
+bccc58986a2f ("powerpc/8xx: Always pin kernel text TLB")
+613df979da6c ("powerpc/8xx: DEBUG_PAGEALLOC doesn't require an ITLB miss exception handler")
+035b19a15a98 ("powerpc/32s: Always map kernel text and rodata with BATs")

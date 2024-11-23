@@ -1,0 +1,7 @@
+662df3e5c376 ("mm: madvise: implement lightweight guard page mechanism")
+021781b01275 ("mm/madvise: unrestrict process_madvise() for current process")
+e46bc2e7eb90 ("mseal: fix is_madv_discard()")
+8be7258aad44 ("mseal: add mseal syscall")
+8a0fe564bb2e ("mm: use get_unmapped_area_vmflags()")
+529ce23a764f ("mm: switch mm->get_unmapped_area() to a flag")
+5def1e0f476d ("proc: refactor pde_get_unmapped_area as prep")

@@ -1,0 +1,4 @@
+e26060d1fbd3 ("mm: swap: make some count_mthp_stat() call-sites be THP-agnostic.")
+15ff4d409e1a ("mm/memcontrol: add per-memcg pgpgin/pswpin counter")
+b54e1bfecc4b ("mm: fix PSWPIN counter for large folios swap-in")
+98455eef8064 ("memcg: make PGPGIN and PGPGOUT v1 only")

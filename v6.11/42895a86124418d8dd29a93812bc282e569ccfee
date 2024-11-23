@@ -1,0 +1,6 @@
+42895a861244 ("alloc_tag: introduce pgtag_ref_handle to abstract page tag references")
+ed265529d39a ("mm/codetag: fix arg in pgalloc_tag_copy alloc_tag_sub")
+e0a955bf7f61 ("mm/codetag: add pgalloc_tag_copy()")
+95599ef684d0 ("mm/codetag: fix pgalloc_tag_split()")
+cf54f310d0d3 ("mm/hugetlb: use __GFP_COMP for gigantic folios")
+c0f398c3b2cf ("mm/hugetlb_vmemmap: batch HVO work when demoting")

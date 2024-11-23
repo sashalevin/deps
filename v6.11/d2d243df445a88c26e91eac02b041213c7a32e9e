@@ -1,0 +1,4 @@
+d2d243df445a ("mm: shmem: fix khugepaged activation policy for shmem")
+e1e4cfd01a6e ("mm,tmpfs: consider end of file write in shmem_is_huge")
+6beeab870e70 ("mm: shmem: move shmem_huge_global_enabled() into shmem_allowable_huge_orders()")
+d58a2a581f13 ("mm: shmem: rename shmem_is_huge() to shmem_huge_global_enabled()")

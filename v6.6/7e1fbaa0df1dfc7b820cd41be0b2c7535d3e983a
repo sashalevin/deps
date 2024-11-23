@@ -1,0 +1,8 @@
+7e1fbaa0df1d ("mm/hugetlb: perform vmemmap optimization batchly for specific node allocation")
+6584a14a377d ("mm/hugetlb: drop node_alloc_noretry from alloc_fresh_hugetlb_folio")
+d67e32f26713 ("hugetlb: restructure pool allocations")
+d5b43e9683ec ("hugetlb: convert remove_pool_huge_page() to remove_pool_hugetlb_folio()")
+04bbfd844b99 ("hugetlb: remove a few calls to page_folio()")
+fde1c4ecf916 ("mm: hugetlb: skip initialization of gigantic tail struct pages if freed by HVO")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")
+d8f5f7e445f0 ("hugetlb: set hugetlb page flag before optimizing vmemmap")

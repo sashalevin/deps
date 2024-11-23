@@ -1,0 +1,4 @@
+f69c2e4dc684 ("mm/vmstat: defer the refresh_zone_stat_thresholds after all CPUs bringup")
+734c15700cdf ("mm: only re-generate demotion targets when a numa node changes its N_CPU state")
+ac16ec835314 ("mm: migrate: support multiple target nodes demotion")
+20f9ba4f9952 ("mm: migrate: make demotion knob depend on migration")

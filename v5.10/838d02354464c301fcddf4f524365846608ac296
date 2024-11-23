@@ -1,0 +1,3 @@
+838d02354464 ("mm: mremap: move_ptes() use pte_offset_map_rw_nolock()")
+a5be621ee292 ("mm/mremap: retry if either pte_offset_map_*lock() fails")
+c49dd3401802 ("mm: speedup mremap on 1GB or larger regions")

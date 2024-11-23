@@ -1,0 +1,7 @@
+9b5c87d47949 ("mm: mmap_lock: check trace_mmap_lock_$type_enabled() instead of regcount")
+7d6be67cfdd4 ("mm: mmap_lock: replace get_memcg_path_buf() with on-stack buffer")
+627ae8284f50 ("mm: mmap_lock: use DECLARE_EVENT_CLASS and DEFINE_EVENT_FN")
+f595e3411dcb ("mm: mmap_lock: remove redundant newline in TP_printk")
+e904c2ccf9b5 ("mm: mmap_lock: fix disabling preemption directly")
+d01079f3d0c0 ("mm/mmap_lock: remove dead code for !CONFIG_TRACING configurations")
+832b50725373 ("mm: mmap_lock: use local locks instead of disabling preemption")

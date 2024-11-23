@@ -1,0 +1,6 @@
+24f9cd195fbc ("mm: shmem: override mTHP shmem default with a kernel parameter")
+949042811117 ("mm: shmem: control THP support through the kernel command line")
+4a9a27fdf7bf ("mm: shmem: remove __shmem_huge_global_enabled()")
+e1e4cfd01a6e ("mm,tmpfs: consider end of file write in shmem_is_huge")
+6beeab870e70 ("mm: shmem: move shmem_huge_global_enabled() into shmem_allowable_huge_orders()")
+d58a2a581f13 ("mm: shmem: rename shmem_is_huge() to shmem_huge_global_enabled()")

@@ -1,0 +1,6 @@
+05b94cae1c47 ("powerpc/fadump: Move fadump_cma_init to setup_arch() after initmem_init()")
+adfaec30ffac ("powerpc/fadump: Refactor and prepare fadump_cma_init for late init")
+6cf06c17e94f ("powerpc/mm: Move CMA reservations after initmem_init()")
+2e341f56a16a ("powerpc/fadump: Fix sparse warnings")
+ef26b76d1af6 ("powerpc/hugetlb/cma: Allocate gigantic hugetlb pages using CMA")
+5f987caec521 ("powerpc/fadump: Fix build error with CONFIG_PRESERVE_FA_DUMP=y")

@@ -1,0 +1,6 @@
+d677ce521334 ("powerpc/vdso: Drop -mstack-protector-guard flags in 32-bit files with clang")
+a6b67eb09963 ("powerpc/vdso: Refactor CFLAGS for CVDSO build")
+a7e5eb53bf9b ("powerpc/vdso: Include CLANG_FLAGS explicitly in ldflags-y")
+05e05bfc92d1 ("powerpc/vdso: Remove an unsupported flag from vgettimeofday-32.o with clang")
+f0a42fbab447 ("powerpc/vdso: Improve linker flags")
+024734d13284 ("powerpc/vdso: Remove unused '-s' flag from ASFLAGS")

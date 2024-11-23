@@ -1,0 +1,5 @@
+1fa00a568d11 ("mm/cma: fix useless return in void function")
+60a60e32cf91 ("Revert "mm/cma.c: remove redundant cma_mutex lock"")
+a4efc174b382 ("mm/cma.c: remove redundant cma_mutex lock")
+3a5139f1c5bb ("cma: don't quit at first error when activating reserved areas")
+2184f9928ab5 ("mm/cma.c: switch to bitmap_zalloc() for cma bitmap allocation")

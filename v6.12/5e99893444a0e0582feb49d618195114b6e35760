@@ -1,0 +1,7 @@
+5e99893444a0 ("zram: remove UNDER_WB and simplify writeback")
+1a1d0f8992d5 ("zram: reshuffle zram_free_page() flags operations")
+b967fa1ba72b ("zram: do not mark idle slots that cannot be idle")
+330edc2bc059 ("zram: rework writeback target selection strategy")
+3f909a60cec1 ("zram: rework recompress target selection strategy")
+58652f2b6d21 ("zram: permit only one post-processing operation at a time")
+bf779fb9afb5 ("zram: introduce ZRAM_PP_SLOT flag")

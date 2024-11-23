@@ -1,0 +1,7 @@
+1198c9c689cf ("kbuild: Add generic hook for architectures to use before the final vmlinux link")
+ddf41329839f ("kbuild: refactor variables in scripts/link-vmlinux.sh")
+3430f65d6130 ("kbuild: fix short log for AS in link-vmlinux.sh")
+04b8cb0945b4 ("kbuild: avoid unneeded kallsyms step 3")
+a88d970c8bb5 ("lib: Add one-byte emulation function")
+5270316c9fec ("kbuild: Use -fmin-function-alignment when available")
+e3a9ee963ad8 ("kbuild: Fix changing ELF file type for output of gen_btf for big endian")

@@ -1,0 +1,4 @@
+cc92882ee218 ("mm: drop hugetlb_get_unmapped_area{_*} functions")
+7bd3f1e1a9ae ("mm: make hugetlb mappings go through mm_get_unmapped_area_vmflags")
+5959ffabbb67 ("arch/powerpc: teach book3s64 arch_get_unmapped_area{_topdown} to handle hugetlb mappings")
+25d4054cc974 ("mm: make arch_get_unmapped_area() take vm_flags by default")

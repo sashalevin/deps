@@ -1,0 +1,8 @@
+6e1fa555ec77 ("mm: zswap: modify zswap_stored_pages to be atomic_long_t")
+20a5532ffa53 ("mm: remove code to handle same filled pages")
+e31c38e03762 ("zswap: implement a second chance algorithm for dynamic zswap shrinker")
+b749cb0d61ca ("mm/zswap: fix a white space issue")
+8edc9c4e72fe ("mm/zswap: use only one pool in zswap")
+5a3f572a5928 ("mm: zswap: make same_filled functions folio-friendly")
+30a28baafc88 ("mm :zswap: use kmap_local_folio() in zswap_load()")
+5d19f5de673b ("mm: zswap: use sg_set_folio() in zswap_{compress/decompress}()")

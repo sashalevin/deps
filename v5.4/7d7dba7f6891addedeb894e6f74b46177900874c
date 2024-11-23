@@ -1,0 +1,8 @@
+7d7dba7f6891 ("arch/s390: teach arch_get_unmapped_area{_topdown} to handle hugetlb mappings")
+86f48f922ba7 ("s390/mmap: disable mmap alignment when randomize_va_space = 0")
+ca15ca406f66 ("mm: remove unneeded includes of <asm/pgalloc.h>")
+7e4773f73dcf ("powerpc/fsl_booke/32: Fix build with CONFIG_RANDOMIZE_BASE")
+65fddcfca8ad ("mm: reorder includes after introduction of linux/pgtable.h")
+ca5999fde0a1 ("mm: introduce include/linux/pgtable.h")
+e31cf2f4ca42 ("mm: don't include asm/pgtable.h if linux/mm.h is already included")
+7ae77150d94d ("Merge tag 'powerpc-5.8-1' of git://git.kernel.org/pub/scm/linux/kernel/git/powerpc/linux")

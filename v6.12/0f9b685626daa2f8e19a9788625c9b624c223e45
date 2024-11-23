@@ -1,0 +1,5 @@
+0f9b685626da ("alloc_tag: populate memory for module tags as needed")
+0db6f8d7820a ("alloc_tag: load module tags into separate contiguous memory")
+3e09c500bb5b ("alloc_tag: introduce shutdown_mem_profiling helper function")
+2e45474ab14f ("execmem: add support for cache of large ROX pages")
+0c133b1e78cd ("module: prepare to handle ROX allocations for text")

@@ -1,0 +1,7 @@
+cc5734481b3c ("book3s64/hash: Add hash_debug_pagealloc_add_slot() function")
+8b1085523fd2 ("book3s64/hash: Refactor kernel linear map related calls")
+47780e7eae78 ("book3s64/hash: Remove kfence support temporarily")
+353d7a84c214 ("powerpc/64s/radix/kfence: map __kfence_pool at page granularity")
+9cbacb834b4a ("powerpc: Don't ignore errors from set_memory_{n}p() in __kernel_map_pages()")
+3c8016e681c5 ("powerpc: Refactor __kernel_map_pages()")
+ede66cd22441 ("powerpc/64s: Fix CONFIG_NUMA=n build due to create_section_mapping()")
