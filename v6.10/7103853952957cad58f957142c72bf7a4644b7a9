@@ -1,0 +1,7 @@
+710385395295 ("KVM: x86/mmu: Add helper to "finish" handling a guest page fault")
+447c375c9104 ("KVM: x86/mmu: Add "mmu" prefix fault-in helpers to free up generic names")
+f32fb32820b1 ("KVM: x86: Add hook for determining max NPT mapping level")
+a90764f0e4ed ("KVM: guest_memfd: Add hook for invalidating memory")
+1f6c06b17751 ("KVM: guest_memfd: Add interface for populating gmem pages with user data")
+3bb2531e20bf ("KVM: guest_memfd: Add hook for initializing memory")
+70623723778a ("KVM: guest_memfd: pass error up from filemap_grab_folio")

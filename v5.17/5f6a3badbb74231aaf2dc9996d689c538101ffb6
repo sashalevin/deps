@@ -1,0 +1,6 @@
+5f6a3badbb74 ("KVM: x86/mmu: Mark page/folio accessed only when zapping leaf SPTEs")
+fcdffe97f80e ("KVM: x86/mmu: Don't do TLB flush when zappings SPTEs in invalid roots")
+0b7cc2547d53 ("KVM: x86/mmu: Remove "record_acc_track" in __tdp_mmu_set_spte()")
+e73008705d0c ("KVM: x86/mmu: Remove "record_dirty_log" in __tdp_mmu_set_spte()")
+ba3a6120a4e7 ("KVM: x86/mmu: Use atomic XCHG to write TDP MMU SPTEs with volatile bits")
+1b6043e8e584 ("KVM: x86/mmu: Zap roots in two passes to avoid inducing RCU stalls")

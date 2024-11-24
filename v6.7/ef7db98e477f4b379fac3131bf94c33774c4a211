@@ -1,0 +1,3 @@
+ef7db98e477f ("KVM: Use NULL for struct page pointer to indicate mremapped memory")
+5488499f9c64 ("KVM: Explicitly initialize all fields at the start of kvm_vcpu_map()")
+0b139b877b14 ("KVM: Remove pointless sanity check on @map param to kvm_vcpu_(un)map()")

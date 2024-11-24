@@ -1,0 +1,3 @@
+66bc627e7fee ("KVM: x86/mmu: Don't mark "struct page" accessed when zapping SPTEs")
+aa85986e7150 ("KVM: x86/mmu: Mark folio dirty when creating SPTE, not when zapping/modifying")
+2867eb782cf7 ("KVM: x86/mmu: Skip the "try unsync" path iff the old SPTE was a leaf SPTE")

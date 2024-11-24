@@ -1,0 +1,6 @@
+a5c870d0939b ("KVM: arm64: Drop useless struct s2_mmu in __kvm_at_s1e2()")
+e794049b9acb ("KVM: arm64: nv: Add basic emulation of AT S1E2{R,W}")
+477e89cabb14 ("KVM: arm64: nv: Add basic emulation of AT S1E{0,1}{R,W}")
+9f75b6d447d7 ("KVM: arm64: nv: Filter out unsupported features from ID regs")
+47f3a2fc765a ("KVM: arm64: nv: Support virtual EL2 exceptions")
+89b0e7de3451 ("KVM: arm64: nv: Introduce nested virtualization VCPU feature")

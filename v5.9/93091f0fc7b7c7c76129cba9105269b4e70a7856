@@ -1,0 +1,5 @@
+93091f0fc7b7 ("KVM: VMX: Use __kvm_faultin_page() to get APIC access page/pfn")
+cb444acb6979 ("KVM: VMX: Hold mmu_lock until page is released when updating APIC access page")
+8569992d64b8 ("KVM: Use gfn instead of hva for mmu_notifier_retry")
+c0db19232c1e ("KVM: Assert that mmu_invalidate_in_progress *never* goes negative")
+755e732dde23 ("Merge tag 'kvm-x86-vmx-6.6' of https://github.com/kvm-x86/linux into HEAD")

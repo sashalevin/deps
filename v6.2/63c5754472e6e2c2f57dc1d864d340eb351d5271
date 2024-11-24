@@ -1,0 +1,7 @@
+63c5754472e6 ("KVM: x86/mmu: Invert @can_unsync and renamed to @synchronizing")
+a98b889492a6 ("KVM: x86/mmu: Delete pgprintk() and all its usage")
+c3c6c9fc5d24 ("KVM: x86/mmu: Move the code out of FNAME(sync_page)'s loop body into mmu.c")
+8ef228c20cae ("KVM: x86/mmu: Set mmu->sync_page as NULL for direct paging")
+51dddf6c49b9 ("KVM: x86/mmu: Check mmu->sync_page pointer in kvm_sync_page_check()")
+90e444702a7c ("KVM: x86/mmu: Move the check in FNAME(sync_page) as kvm_sync_page_check()")
+753b43c9d1b7 ("KVM: x86/mmu: Use 64-bit address to invalidate to fix a subtle bug")

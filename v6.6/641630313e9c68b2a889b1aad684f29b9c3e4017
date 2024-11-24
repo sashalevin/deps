@@ -1,0 +1,7 @@
+641630313e9c ("arm64: sysreg: Migrate MDCR_EL2 definition to table")
+6d8fb3cbf7e0 ("KVM: arm64: Abstract set/clear of CPTR_EL2 bits behind helper")
+1de10b7d13a9 ("KVM: arm64: Get rid of vCPU-scoped feature bitmap")
+baa28a53ddbe ("KVM: arm64: Hoist PAuth checks into KVM_ARM_VCPU_INIT ioctl")
+be9c0c018389 ("KVM: arm64: Hoist SVE check into KVM_ARM_VCPU_INIT ioctl handler")
+9116db11feb5 ("KVM: arm64: Hoist PMUv3 check into KVM_ARM_VCPU_INIT ioctl handler")
+ef150908b6bd ("KVM: arm64: Add generic check for system-supported vCPU features")

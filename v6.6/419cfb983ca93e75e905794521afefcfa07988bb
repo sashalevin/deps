@@ -1,0 +1,3 @@
+419cfb983ca9 ("KVM: PPC: e500: Use __kvm_faultin_pfn() to handle page faults")
+84cf78dcd9d6 ("KVM: PPC: e500: Mark "struct page" pfn accessed before dropping mmu_lock")
+c9be85dabb37 ("KVM: PPC: e500: Mark "struct page" dirty in kvmppc_e500_shadow_map()")

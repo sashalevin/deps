@@ -1,0 +1,6 @@
+2ff072ba7ad2 ("KVM: Migrate kvm_vcpu_map() to kvm_follow_pfn()")
+ef7db98e477f ("KVM: Use NULL for struct page pointer to indicate mremapped memory")
+5488499f9c64 ("KVM: Explicitly initialize all fields at the start of kvm_vcpu_map()")
+0b139b877b14 ("KVM: Remove pointless sanity check on @map param to kvm_vcpu_(un)map()")
+28b85ae06f64 ("KVM: Drop bogus "pfn != 0" guard from kvm_release_pfn()")
+357a18ad230f ("KVM: Kill kvm_map_gfn() / kvm_unmap_gfn() and gfn_to_pfn_cache")

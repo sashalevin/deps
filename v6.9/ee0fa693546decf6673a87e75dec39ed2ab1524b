@@ -1,0 +1,3 @@
+ee0fa693546d ("KVM: PPC: Use kvm_vcpu_map() to map guest memory to patch dcbz instructions")
+17b7dbaf183e ("KVM: PPC: Remove extra get_page() to fix page refcount leak")
+037bc38b298c ("KVM: Drop KVM_ERR_PTR_BAD_PAGE and instead return NULL to indicate an error")

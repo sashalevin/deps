@@ -1,0 +1,3 @@
+1c7b627e9306 ("KVM: Add kvm_faultin_pfn() to specifically service guest page faults")
+6419bc52072b ("KVM: Rename gfn_to_page_many_atomic() to kvm_prefetch_pages()")
+661fa987e4b5 ("KVM: x86/mmu: Use gfn_to_page_many_atomic() when prefetching indirect PTEs")

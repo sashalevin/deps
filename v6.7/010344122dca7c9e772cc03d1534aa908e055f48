@@ -1,0 +1,6 @@
+010344122dca ("KVM: x86/mmu: Drop ignored return value from kvm_tdp_mmu_clear_dirty_slot()")
+b1a8d2b02b69 ("KVM: x86/mmu: Fix and clarify comments about clearing D-bit vs. write-protecting")
+feac19aa4c26 ("KVM: x86/mmu: Remove function comments above clear_dirty_{gfn_range,pt_masked}()")
+2673dfb591a3 ("KVM: x86/mmu: Write-protect L2 SPTEs in TDP MMU when clearing dirty status")
+484dd27c0602 ("KVM: x86/mmu: remove unnecessary "bool shared" argument from iterators")
+5f3c8c9187b6 ("KVM: x86/mmu: remove unnecessary "bool shared" argument from functions")

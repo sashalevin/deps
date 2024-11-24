@@ -1,0 +1,8 @@
+d87331890a38 ("KVM: selftests: Drop manual XCR0 configuration from AMX test")
+b213812d3f4c ("KVM: selftests: Move XGETBV and XSETBV helpers to common code")
+d01d4a4f7bd2 ("KVM: selftests: Move XSAVE and OSXSAVE CPUID checks into AMX's init_regs()")
+2ab3991b0b9b ("KVM: selftests: Assert that both XTILE{CFG,DATA} are XSAVE-enabled")
+7e1075f05078 ("KVM: selftests: Assert that XTILE is XSAVE-enabled")
+5de4a3765b7e ("KVM: selftests: Add a fully functional "struct xstate" for x86")
+5dc19f1c7dd3 ("KVM: selftests: Convert AMX test to use X86_PROPRETY_XXX")
+53a7dc0f215e ("KVM: selftests: Add X86_PROPERTY_* framework to retrieve CPUID values")

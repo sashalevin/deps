@@ -1,0 +1,4 @@
+cb0c272acebd ("KVM: arm64: Initialize the hypervisor's VM state at EL2")
+0546d4a925a6 ("KVM: arm64: Move pkvm_vcpu_init_traps() to init_pkvm_hyp_vcpu()")
+948e1a53c2e9 ("KVM: arm64: Simplify vgic-v3 hypercalls")
+fe49fd940e22 ("KVM: arm64: Move VTCR_EL2 into struct s2_mmu")

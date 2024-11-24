@@ -1,0 +1,8 @@
+c9b625625ba3 ("KVM: x86/mmu: Dedup logic for detecting TLB flushes on leaf SPTE changes")
+1a175082b190 ("KVM: x86/mmu: WARN and flush if resolving a TDP MMU fault clears MMU-writable")
+856cf4a60cff ("KVM: x86/mmu: Don't flush TLBs when clearing Dirty bit in shadow MMU")
+b7ed46b201a4 ("KVM: x86/mmu: Don't force flush if SPTE update clears Accessed bit")
+081976992f43 ("KVM: x86/mmu: Flush remote TLBs iff MMU-writable flag is cleared from RO SPTE")
+5f6a3badbb74 ("KVM: x86/mmu: Mark page/folio accessed only when zapping leaf SPTEs")
+aa85986e7150 ("KVM: x86/mmu: Mark folio dirty when creating SPTE, not when zapping/modifying")
+2867eb782cf7 ("KVM: x86/mmu: Skip the "try unsync" path iff the old SPTE was a leaf SPTE")

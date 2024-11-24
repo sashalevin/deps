@@ -1,0 +1,2 @@
+85e88b2bbaac ("KVM: Allow calling kvm_release_page_{clean,dirty}() on a NULL page pointer")
+037bc38b298c ("KVM: Drop KVM_ERR_PTR_BAD_PAGE and instead return NULL to indicate an error")

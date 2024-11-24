@@ -1,0 +1,3 @@
+7e8f1aa59d0b ("KVM: MIPS: Use kvm_faultin_pfn() to map pfns into the guest")
+13d66fddaaa4 ("KVM: MIPS: Mark "struct page" pfns accessed prior to dropping mmu_lock")
+d8f4cda748ea ("KVM: MIPS: Mark "struct page" pfns dirty only in "slow" page fault path")

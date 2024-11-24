@@ -1,0 +1,8 @@
+7fe28d7e68f9 ("KVM: arm64: vgic-its: Add a data length check in vgic_its_save_*")
+a23eaf9368aa ("KVM: arm64: Add helper vgic_write_guest_lock()")
+9cb1096f8590 ("KVM: arm64: Enable ring-based dirty memory tracking")
+7b33a09d036f ("KVM: arm64: Add support for userspace to suspend a vCPU")
+3fdd04592d38 ("KVM: arm64: Return a value from check_vcpu_requests()")
+b171f9bbb130 ("KVM: arm64: Track vCPU power state using MP state values")
+1e5794295c5d ("KVM: arm64: Dedupe vCPU power off helpers")
+7297a8bcc0ae ("Merge branch kvm-arm64/misc-5.18 into kvmarm-master/next")

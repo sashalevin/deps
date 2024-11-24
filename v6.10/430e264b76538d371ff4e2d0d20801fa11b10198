@@ -1,0 +1,6 @@
+430e264b7653 ("KVM: x86/mmu: Rename make_huge_page_split_spte() to make_small_spte()")
+13e2e4f62a4b ("KVM: x86/mmu: Recover TDP MMU huge page mappings in-place instead of zapping")
+35ef80eb29ab ("KVM: x86/mmu: Batch TLB flushes when zapping collapsible TDP MMU SPTEs")
+9fe17d2ada6e ("KVM: x86/mmu: Clean up make_huge_page_split_spte() definition and intro")
+964cea817196 ("KVM: x86/tdp_mmu: Rename REMOVED_SPTE to FROZEN_SPTE")
+8a4e2742a54e ("KVM: x86/tdp_mmu: Sprinkle __must_check")

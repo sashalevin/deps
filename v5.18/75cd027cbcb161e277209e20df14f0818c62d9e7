@@ -1,0 +1,8 @@
+75cd027cbcb1 ("KVM: arm64: selftests: Test ID_AA64PFR0.MPAM isn't completely ignored")
+dc9b5d7e0bd4 ("KVM: selftests: aarch64: Add writable test for ID_AA64PFR1_EL1")
+606af8293cd8 ("KVM: selftests: arm64: Test vCPU-scoped feature ID registers")
+07eabd8a528f ("KVM: selftests: arm64: Test that feature ID regs survive a reset")
+41ee9b33e94a ("KVM: selftests: arm64: Rename helper in set_id_regs to imply VM scope")
+54a9ea73527d ("KVM: arm64: selftests: Test for setting ID register from usersapce")
+60e7dade498e ("KVM: selftests: Add test for SMCCC filter")
+bf08515d39cb ("selftests: KVM: Rename psci_cpu_on_test to psci_test")

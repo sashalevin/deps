@@ -1,0 +1,6 @@
+0387d79e24d6 ("KVM: x86/mmu: Fold all of make_spte()'s writable handling into one if-else")
+cc7ed3358e41 ("KVM: x86/mmu: Always set SPTE's dirty bit if it's created as writable")
+aa85986e7150 ("KVM: x86/mmu: Mark folio dirty when creating SPTE, not when zapping/modifying")
+4e44ab0a7778 ("KVM: x86/mmu: Mark new SPTE as Accessed when synchronizing existing SPTE")
+63c5754472e6 ("KVM: x86/mmu: Invert @can_unsync and renamed to @synchronizing")
+2867eb782cf7 ("KVM: x86/mmu: Skip the "try unsync" path iff the old SPTE was a leaf SPTE")

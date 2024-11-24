@@ -1,0 +1,8 @@
+ee3a9a0643c5 ("KVM: arm64: Add a composite EL2 visibility helper")
+b3d29a823099 ("KVM: arm64: nv: Handle ZCR_EL2 traps")
+94f29ab2d801 ("KVM: arm64: Force guest's HCR_EL2.E2H RES1 when NV1 is not implemented")
+fedc612314ac ("KVM: arm64: nv: Handle virtual EL2 registers in vcpu_read/write_sys_reg()")
+d8bd48e3f0ee ("KVM: arm64: nv: Map VNCR-capable registers to a separate page")
+9b9cce60be85 ("KVM: arm64: nv: Add EL2_REG_VNCR()/EL2_REG_REDIR() sysreg helpers")
+111903d1f5b9 ("KVM: arm64: nv: Hoist vcpu_has_nv() into is_hyp_ctxt()")
+c7d11a61c7f7 ("KVM: arm64: Do not let a L1 hypervisor access the *32_EL2 sysregs")

@@ -1,0 +1,5 @@
+8be82d536a9f ("KVM: arm64: Add support for PSCI v1.2 and v1.3")
+7e484d2785e2 ("KVM: arm64: Return NOT_SUPPORTED to guest for unknown PSCI version")
+85fbe08e4da8 ("KVM: arm64: Factor out firmware register handling from psci.c")
+827c2ab33148 ("KVM: arm64: Actually prevent SMC64 SYSTEM_RESET2 from AArch32")
+1ebdbeb03efe ("Merge tag 'for-linus' of git://git.kernel.org/pub/scm/virt/kvm/kvm")

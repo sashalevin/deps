@@ -1,0 +1,5 @@
+1c932fc7620d ("KVM: x86: Add lockdep-guarded asserts on register cache usage")
+fc9465be8aad ("KVM: x86: Make vmx_get_exit_qual() and vmx_get_intr_info() noinstr-friendly")
+7de8e5b6b139 ("KVM: VMX: Use proper type-safe functions for vCPU => LBRs helpers")
+b663f0b5f3d6 ("KVM: VMX: Add helper to check if the guest PMU has PERF_GLOBAL_CTRL")
+98defd2e1780 ("KVM: x86/pmu: Ignore pmu->global_ctrl check if vPMU doesn't support global_ctrl")

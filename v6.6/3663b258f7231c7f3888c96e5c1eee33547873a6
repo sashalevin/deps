@@ -1,0 +1,6 @@
+3663b258f723 ("KVM: arm64: Refactor kvm_vcpu_enable_ptrauth() for hyp use")
+d2b2ecba8ddb ("KVM: arm64: nv: Forward FP/ASIMD traps to guest hypervisor")
+baa28a53ddbe ("KVM: arm64: Hoist PAuth checks into KVM_ARM_VCPU_INIT ioctl")
+be9c0c018389 ("KVM: arm64: Hoist SVE check into KVM_ARM_VCPU_INIT ioctl handler")
+9116db11feb5 ("KVM: arm64: Hoist PMUv3 check into KVM_ARM_VCPU_INIT ioctl handler")
+ef150908b6bd ("KVM: arm64: Add generic check for system-supported vCPU features")

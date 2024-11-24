@@ -1,0 +1,7 @@
+1fbee5b01a0f ("KVM: guest_memfd: Provide "struct page" as output from kvm_gmem_get_pfn()")
+b85524314a3d ("KVM: guest_memfd: delay kvm_gmem_prepare_folio() until the memory is passed to the guest")
+78c4293372fe ("KVM: guest_memfd: return locked folio from __kvm_gmem_get_pfn")
+7fbdda31b0a1 ("KVM: guest_memfd: do not go through struct page")
+d04c77d23122 ("KVM: guest_memfd: delay folio_mark_uptodate() until after successful preparation")
+d0d87226f535 ("KVM: guest_memfd: return folio from __kvm_gmem_get_pfn()")
+02b0d3b9d4dd ("Merge branch 'kvm-6.10-fixes' into HEAD")

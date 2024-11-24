@@ -1,0 +1,5 @@
+3e7f43188ee2 ("KVM: Protect vCPU's "last run PID" with rwlock, not RCU")
+76021e96d781 ("KVM: Protect vcpu->pid dereference via debugfs with RCU")
+14aa40a1d05e ("kvm: kvm_main: Remove unnecessary (void*) conversions")
+180418e2eb33 ("KVM: debugfs: Return retval of simple_attr_open() if it fails")
+e36de87d34a7 ("KVM: debugfs: expose pid of vcpu threads")

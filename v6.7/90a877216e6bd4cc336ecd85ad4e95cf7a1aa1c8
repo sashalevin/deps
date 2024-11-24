@@ -1,0 +1,5 @@
+90a877216e6b ("KVM: nVMX: fix canonical check of vmcs12 HOST_RIP")
+9245fd6b8531 ("KVM: x86: model canonical checks more precisely")
+16ccadefa295 ("KVM: x86: Route non-canonical checks in emulator through emulate_ops")
+b39bd520a60c ("KVM: x86: Untag addresses for LAM emulation where applicable")
+37a41847b770 ("KVM: x86: Introduce get_untagged_addr() in kvm_x86_ops and call it in emulator")

@@ -1,0 +1,7 @@
+8a34979030f6 ("KVM: arm64: nv: Apply EL2 event filtering when in hyp context")
+9d15f8290a22 ("KVM: arm64: Add helpers to determine if PMC counts at a given EL")
+ae8d3522e5b7 ("KVM: arm64: Add PMU event filter bits required if EL3 is implemented")
+bc512d6a9b92 ("KVM: arm64: Make PMEVTYPER<n>_EL0.NSH RES0 if EL2 isn't advertised")
+b1f778a223a2 ("KVM: arm64: pmu: Resync EL0 state on counter rotation")
+335ca49ff31f ("KVM: arm64: PMU: Avoid inappropriate use of host's PMUVer")
+cc744042d908 ("Merge tag 'kvmarm-6.5' of git://git.kernel.org/pub/scm/linux/kernel/git/kvmarm/kvmarm into HEAD")

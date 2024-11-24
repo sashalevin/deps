@@ -1,0 +1,8 @@
+081976992f43 ("KVM: x86/mmu: Flush remote TLBs iff MMU-writable flag is cleared from RO SPTE")
+54eb3ef56f36 ("KVM: x86/mmu: Move shadow-present check out of spte_has_volatile_bits()")
+706c9c55e5a3 ("KVM: x86/mmu: Don't treat fully writable SPTEs as volatile (modulo A/D)")
+02844ac1eb34 ("KVM: x86/mmu: Consolidate comments about {Host,MMU}-writable")
+1ca87e015d99 ("KVM: x86/mmu: Rename DEFAULT_SPTE_MMU_WRITEABLE to DEFAULT_SPTE_MMU_WRITABLE")
+006100212d7f ("KVM: x86/mmu: Move is_writable_pte() to spte.h")
+115111efd97c ("KVM: x86/mmu: Check SPTE writable invariants when setting leaf SPTEs")
+932859a4e0b9 ("KVM: x86/mmu: Move SPTE writable invariant checks to a helper function")

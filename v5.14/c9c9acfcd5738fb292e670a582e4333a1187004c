@@ -1,0 +1,6 @@
+c9c9acfcd573 ("KVM: x86: Move kvm_set_apic_base() implementation to lapic.c (from x86.c)")
+adfec1f4591c ("KVM: x86: Inline kvm_get_apic_mode() in lapic.h")
+d91060e342a6 ("KVM: x86: Get vcpu->arch.apic_base directly and drop kvm_get_apic_base()")
+0c2a04128f50 ("KVM: x86: remove unnecessary exports")
+f3d1436d4bf8 ("KVM: x86: Take srcu lock in post_kvm_run_save()")
+ad0577c37529 ("KVM: x86: Kill off __ex() and __kvm_handle_fault_on_reboot()")

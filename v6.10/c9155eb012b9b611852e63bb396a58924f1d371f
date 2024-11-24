@@ -1,0 +1,6 @@
+c9155eb012b9 ("KVM: x86: Unpack msr_data structure prior to calling kvm_apic_set_base()")
+7d1cb7cee94f ("KVM: x86: Rename APIC base setters to better capture their relationship")
+c9c9acfcd573 ("KVM: x86: Move kvm_set_apic_base() implementation to lapic.c (from x86.c)")
+adfec1f4591c ("KVM: x86: Inline kvm_get_apic_mode() in lapic.h")
+d91060e342a6 ("KVM: x86: Get vcpu->arch.apic_base directly and drop kvm_get_apic_base()")
+4ca077f26d88 ("KVM: x86: Remove some unused declarations")

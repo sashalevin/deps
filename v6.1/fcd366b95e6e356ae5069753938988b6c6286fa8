@@ -1,0 +1,6 @@
+fcd366b95e6e ("KVM: x86: Don't fault-in APIC access page during initial allocation")
+037bc38b298c ("KVM: Drop KVM_ERR_PTR_BAD_PAGE and instead return NULL to indicate an error")
+721f5b0dda78 ("KVM: pfncache: allow a cache to be activated with a fixed (userspace) HVA")
+406c10962a4c ("KVM: pfncache: include page offset in uhva and use it consistently")
+53e63e953e14 ("KVM: pfncache: stop open-coding offset_in_page()")
+c482f2cebe2d ("KVM: x86: Move APIC access page helper to common x86 code")

@@ -1,0 +1,5 @@
+6e44d2427b70 ("KVM: x86: Fix a comment inside __kvm_set_or_clear_apicv_inhibit()")
+ee49a8932971 ("KVM: x86: Move SVM's APICv sanity check to common x86")
+36222b117e36 ("KVM: x86: don't disable APICv memslot when inhibited")
+df63202fe52b ("KVM: x86: APICv: drop immediate APICv disablement on current vCPU")
+a01b45e9d34d ("KVM: x86: rename apic_access_page_done to apic_access_memslot_enabled")

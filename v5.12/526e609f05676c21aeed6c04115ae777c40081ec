@@ -1,0 +1,3 @@
+526e609f0567 ("KVM: x86/mmu: Process only valid TDP MMU roots when aging a gfn range")
+a151aceca1e4 ("KVM: x86/mmu: Drop RCU after processing each root in MMU notifier hooks")
+e1eed5847b09 ("KVM: x86/mmu: Allow yielding during MMU notifier unmap/zap, if possible")

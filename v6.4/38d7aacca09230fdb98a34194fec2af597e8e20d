@@ -1,0 +1,7 @@
+38d7aacca092 ("KVM: arm64: Get rid of userspace_irqchip_in_use")
+0546d4a925a6 ("KVM: arm64: Move pkvm_vcpu_init_traps() to init_pkvm_hyp_vcpu()")
+948e1a53c2e9 ("KVM: arm64: Simplify vgic-v3 hypercalls")
+733c758e509b ("KVM: arm64: Rephrase percpu enable/disable tracking in terms of hyp")
+c718ca0e9940 ("KVM: arm64: Fix hardware enable/disable flows for pKVM")
+b321c31c9b7b ("KVM: arm64: vgic-v4: Make the doorbell request robust w.r.t preemption")
+970dee09b230 ("KVM: arm64: Disable preemption in kvm_arch_hardware_enable()")

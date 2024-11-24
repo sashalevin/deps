@@ -1,0 +1,5 @@
+570d666c11af ("KVM: arm64: Use __gfn_to_page() when copying MTE tags to/from userspace")
+ae41d7dbaeb4 ("KVM: arm64: Release pfn, i.e. put page, if copying MTE tags hits ZONE_DEVICE")
+d77e59a8fccd ("arm64: mte: Lock a page for MTE tag initialisation")
+e059853d14ca ("arm64: mte: Fix/clarify the PG_mte_tagged semantics")
+a8e5e5146ad0 ("arm64: mte: Avoid setting PG_mte_tagged if no tags cleared or restored")

@@ -1,0 +1,6 @@
+c534b37b7584 ("KVM: x86: Add X86EMUL_F_MSR and X86EMUL_F_DT_LOAD to aid canonical checks")
+16ccadefa295 ("KVM: x86: Route non-canonical checks in emulator through emulate_ops")
+37a41847b770 ("KVM: x86: Introduce get_untagged_addr() in kvm_x86_ops and call it in emulator")
+538ac9a92d66 ("KVM: x86: Add X86EMUL_F_INVLPG and pass it in em_invlpg()")
+3963c52df422 ("KVM: x86: Add an emulation flag for implicit system access")
+7b0dd9430cf0 ("KVM: x86: Consolidate flags for __linearize()")
