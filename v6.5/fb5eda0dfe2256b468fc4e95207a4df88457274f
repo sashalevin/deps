@@ -1,0 +1,6 @@
+fb5eda0dfe22 ("mm/kasan: Don't store metadata inside kmalloc object when slub_debug_orig_size is on")
+59090e479ac7 ("mm, slub: avoid zeroing kmalloc redzone")
+8f828aa48812 ("mm/slub: avoid zeroing outside-object freepointer for single free")
+f6940e8adc64 ("kasan: clean up kasan_cache_create")
+a5989d4ed40c ("kasan: improve free meta storage in Generic KASAN")
+2d5524635b00 ("slub, kasan: improve interaction of KASAN and slub_debug poisoning")

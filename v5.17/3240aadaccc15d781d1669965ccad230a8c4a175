@@ -1,0 +1,6 @@
+3240aadaccc1 ("drm: replace strcpy() with strscpy()")
+60dc43d1190d ("drm/i915: Use struct vma_resource instead of struct vma_snapshot")
+2f6b90da9192 ("drm/i915: Use vma resources for async unbinding")
+ebf3c361f43b ("drm/i915: Don't pin the object pages during pending vma binds")
+39a2bd34c933 ("drm/i915: Use the vma resource as argument for gtt binding / unbinding")
+e1a4bbb6e837 ("drm/i915: Initial introduction of vma resources")

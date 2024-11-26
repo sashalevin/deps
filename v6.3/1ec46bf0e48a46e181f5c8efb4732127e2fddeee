@@ -1,0 +1,8 @@
+1ec46bf0e48a ("Input: matrix_keypad - remove duplicated include")
+584bf366f8fa ("Input: matrix_keypad - switch to gpiod API and generic device properties")
+5080f62adb12 ("Input: matrix_keypad - remove support for clustered interrupt")
+7d0f351da460 ("Input: matrix_keypad - switch to using managed resources")
+8cf4b3683a71 ("Input: matrix_keypad - consolidate handling of clustered interrupt")
+a96fb711c6be ("Input: matrix_keypad - avoid repeatedly converting GPIO to IRQ")
+af90388a598d ("Input: matrix_keypad - convert to platform remove callback returning void")
+12c7d0aeb3be ("Input: Use of_property_read_bool() for boolean properties")

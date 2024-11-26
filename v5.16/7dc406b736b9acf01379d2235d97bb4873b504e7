@@ -1,0 +1,7 @@
+7dc406b736b9 ("Input: i8042 - use guard notation when acquiring spinlock")
+c374a0cdab37 ("Input: i8042 - tease apart interrupt handler")
+3d765ae2dacc ("Input: i8042 - add forcenorestore quirk to leave controller untouched even on s3")
+a9f08ad7adb3 ("Input: move from strlcpy with unused retval to strscpy")
+69c00695723d ("Input: i8042 - add debug output for quirks")
+ff946268a081 ("Input: i8042 - merge quirk tables")
+95a9916c909f ("Input: i8042 - move __initconst to fix code styling warning")

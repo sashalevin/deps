@@ -1,0 +1,6 @@
+e01caa2b63c8 ("lib/scatterlist: use sg_phys() helper")
+0f097f08c9b3 ("lib/scatterlist: Fix to calculate the last_pg properly")
+e95d50d74b93 ("lib/scatterlist: Fix to merge contiguous pages into the last SG properly")
+1567b49d1a40 ("lib/scatterlist: add check when merging zone device pages")
+3e302dbc6774 ("lib/scatterlist: Fix wrong update of orig_nents")
+90e7a6de6278 ("lib/scatterlist: Provide a dedicated function to support table append")

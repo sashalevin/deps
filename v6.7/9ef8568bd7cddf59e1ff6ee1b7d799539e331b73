@@ -1,0 +1,4 @@
+9ef8568bd7cd ("mm/slub: Consider kfence case for get_orig_size()")
+59090e479ac7 ("mm, slub: avoid zeroing kmalloc redzone")
+8f828aa48812 ("mm/slub: avoid zeroing outside-object freepointer for single free")
+2d5524635b00 ("slub, kasan: improve interaction of KASAN and slub_debug poisoning")

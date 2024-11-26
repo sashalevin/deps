@@ -1,0 +1,7 @@
+bc8f5921cd69 ("ipc: fix memleak if msg_init_ns failed in create_ipc_ns")
+72d1e611082e ("ipc/msg: mitigate the lock contention with percpu counter")
+db7cfc380900 ("ipc: Free mq_sysctls if ipc namespace creation failed")
+1f5c135ee509 ("ipc: Store ipc sysctls in the ipc namespace")
+dc55e35f9e81 ("ipc: Store mqueue sysctls in the ipc namespace")
+0e9beb8a96f2 ("ipc/ipc_sysctl.c: remove fallback for !CONFIG_PROC_SYSCTL")
+5563cabdde7e ("ipc: check checkpoint_restore_ns_capable() to modify C/R proc files")

@@ -1,0 +1,4 @@
+4cc0473d7754 ("get rid of __get_task_comm()")
+d6986ce24fc0 ("kthread: dynamically allocate memory to store kthread's full name")
+503471ac36df ("fs/exec: replace strncpy with strscpy_pad in __get_task_comm")
+00b89fe0197f ("sched: Make the idle task quack like a per-CPU kthread")

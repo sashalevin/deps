@@ -1,0 +1,5 @@
+2e26a761619e ("Input: elan_i2c - switch to using cleanup functions")
+5f82c1e04721 ("Input: elan_i2c - do not leave interrupt disabled on suspend failure")
+1864a2006ee1 ("Input: mouse - use sysfs_emit[_at]() instead of scnprintf()")
+b39f288a8416 ("Input: elan_i2c_core - switch to DEFINE_SIMPLE_DEV_PM_OPS() and pm_sleep_ptr()")
+a6d4439af581 ("Input: elan_i2c - use PM subsystem to manage wake irq")
