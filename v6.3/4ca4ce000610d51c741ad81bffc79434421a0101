@@ -1,0 +1,4 @@
+4ca4ce000610 ("scsi: hisi_sas: Check usage count only when the runtime PM status is RPM_SUSPENDING")
+e01e2290f094 ("scsi: hisi_sas: Work around build failure in suspend function")
+e368d38cb952 ("scsi: hisi_sas: Exit suspend state when usage count is greater than 0")
+b711ef5e176b ("scsi: hisi_sas: Sync complete queue for poll queue")

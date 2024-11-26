@@ -1,0 +1,4 @@
+d35f7672715d ("scsi: lpfc: Call lpfc_sli4_queue_unset() in restart and rmmod paths")
+e891681b1d5d ("scsi: lpfc: Drop redundant pci_enable_pcie_error_reporting()")
+35ed9613d83f ("scsi: lpfc: Improve PCI EEH Error and Recovery Handling")
+c80b27cfd93b ("scsi: lpfc: Remove NVMe support if kernel has NVME_FC disabled")
