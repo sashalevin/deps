@@ -1,0 +1,8 @@
+b44ffa4c4f57 ("NFSD: Block DESTROY_CLIENTID only when there are ongoing async COPY operations")
+18224dc58d96 ("nfsd: remove nfsd4_prepare_cb_recall() declaration")
+8ea6e2c90bb0 ("NFSD: Make nfs4_put_copy() static")
+6b1891052a3f ("nfsd: make nfs4_client_reclaim use an xdr_netobj instead of a fixed char array")
+e0639dc5805a ("NFSD introduce async copy feature")
+885e2bf3ea51 ("NFSD OFFLOAD_CANCEL xdr")
+6308bc98e86e ("NFSD OFFLOAD_STATUS xdr")
+9eb190fca8f9 ("NFSD CB_OFFLOAD xdr")

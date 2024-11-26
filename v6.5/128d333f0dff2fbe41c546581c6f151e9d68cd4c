@@ -1,0 +1,8 @@
+128d333f0dff ("f2fs: introduce device aliasing file")
+d7409b05a64f ("f2fs: fix to cover read extent cache access with lock")
+29ed2b5dd521 ("f2fs: compress: don't allow unaligned truncation on released compress inode")
+c521a6ab4ad7 ("f2fs: fix to limit gc_pin_file_threshold")
+968c4f72b23c ("f2fs: remove unused GC_FAILURE_PIN")
+20faaf30e555 ("f2fs: fix to do sanity check on i_xattr_nid in sanity_check_inode()")
+394e7f4dbb32 ("f2fs: don't set FI_PREALLOCATED_ALL for partial write")
+958ccbbf1ce7 ("Revert "f2fs: fix to do sanity check on extent cache correctly"")

@@ -1,0 +1,6 @@
+ce89e742a4c1 ("svcrdma: fix miss destroy percpu_counter in svc_rdma_proc_init()")
+376bcd9b3763 ("sunrpc: simplify two-level sysctl registration for svcrdma_parm_table")
+1e7e55731628 ("svcrdma: Restore read and write stats")
+22df5a22462e ("svcrdma: Convert rdma_stat_sq_starve to a per-CPU counter")
+df971cd853c0 ("svcrdma: Convert rdma_stat_recv to a per-CPU counter")
+59a00257c66c ("svcrdma: Refactor svc_rdma_init() and svc_rdma_clean_up()")

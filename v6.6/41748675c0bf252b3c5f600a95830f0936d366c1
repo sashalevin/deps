@@ -1,0 +1,5 @@
+41748675c0bf ("virtiofs: use pages instead of pointer for kernel direct IO")
+738adade96b2 ("fuse: Fix missing FOLL_PIN for direct-io")
+7dc4e97a4f9a ("fuse: introduce FUSE_PASSTHROUGH capability")
+c4d361f66ac9 ("fuse: share lookup state between submount and its parent")
+c55e0a55b165 ("fuse: Rename DIRECT_IO_RELAX to DIRECT_IO_ALLOW_MMAP")

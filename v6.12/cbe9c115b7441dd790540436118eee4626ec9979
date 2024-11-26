@@ -1,0 +1,4 @@
+cbe9c115b744 ("fuse: convert writebacks to use folios")
+949d67ac2eff ("fuse: use the folio based vmstat helpers")
+6930b8dac19e ("fuse: convert fuse_writepage_need_send to take a folio")
+184b6eb3645a ("fuse: convert fuse_page_mkwrite to use folios")

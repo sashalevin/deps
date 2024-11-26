@@ -1,0 +1,7 @@
+4cc9b9f2bf4d ("nfsd: refine and rename NFSD_MAY_LOCK")
+bb4f07f2409c ("nfsd: Fix NFSD_MAY_BYPASS_GSS and NFSD_MAY_BYPASS_GSS_ON_ROOT")
+5e66d2d92a1c ("nfsd: factor out __fh_verify to allow NULL rqstp to be passed")
+b0d87dbd8bd3 ("NFSD: Refactor nfsd_setuser_and_check_port()")
+0a183f24a7ae ("NFSD: Handle @rqstp == NULL in check_nfsd_access()")
+9fd45c16f3e3 ("nfsd: Pass 'cred' instead of 'rqstp' to some functions.")
+c55aeef7766c ("nfsd: Don't pass all of rqst into rqst_exp_find()")
