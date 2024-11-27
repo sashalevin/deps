@@ -1,0 +1,5 @@
+b6512519496e ("fs: require inode_owner_or_capable for F_SET_RW_HINT")
+1505ba06e52e ("fs: Split fcntl_rw_hint()")
+ec16b147a55b ("fs: Fix rw_hint validation")
+7b12e49669c9 ("fs: remove fs.f_write_hint")
+e200327708e6 ("fs/fnctl: fix missing __user in fcntl_rw_hint()")

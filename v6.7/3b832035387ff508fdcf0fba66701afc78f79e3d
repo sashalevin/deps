@@ -1,0 +1,5 @@
+3b832035387f ("Revert "fs: don't block i_writecount during exec"")
+0d196e7589ce ("exec: don't WARN for racy path_noexec check")
+2a010c412853 ("fs: don't block i_writecount during exec")
+bdd8f62431eb ("exec: Add do_close_execat() helper")
+978ffcbf00d8 ("execve: open the executable file before doing anything else")
