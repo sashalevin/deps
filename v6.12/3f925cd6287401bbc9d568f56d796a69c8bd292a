@@ -1,0 +1,5 @@
+3f925cd62874 ("PCI/pwrctrl: Rename pwrctrl functions and structures")
+681725afb6b9 ("PCI/pwrctl: Remove pwrctl device without iterating over all children of pwrctl parent")
+b458ff7e8176 ("PCI/pwrctl: Ensure that pwrctl drivers are probed before PCI client drivers")
+278dd091e95d ("PCI/pwrctl: Create pwrctl device only if at least one power supply is present")
+7582fe07f4ca ("PCI/pwrctl: Use of_platform_device_create() to create pwrctl devices")

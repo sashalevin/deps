@@ -1,0 +1,8 @@
+a7137cbf6bd5 ("PCI: rockchip-ep: Handle PERST# signal in EP mode")
+bd6e61df4b2e ("PCI: rockchip-ep: Improve link training")
+00080d0887df ("PCI: rockship-ep: Implement the pci_epc_ops::stop_link() operation")
+091022f5f945 ("PCI: rockchip-ep: Refactor endpoint link training enable")
+8efda8aebeed ("PCI: rockchip-ep: Refactor rockchip_pcie_ep_probe() MSI-X hiding")
+945648019466 ("PCI: rockchip-ep: Refactor rockchip_pcie_ep_probe() memory allocations")
+840b7a5edf88 ("PCI: rockchip: Use GPIOD_OUT_LOW flag while requesting ep_gpio")
+c47f90be4c89 ("PCI: rockchip-host: Fix rockchip_pcie_host_init_port() PERST# handling")

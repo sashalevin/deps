@@ -1,0 +1,8 @@
+e3bdd2dd3f61 ("PCI: Add ALIGN_DOWN_IF_NONZERO() helper")
+783602c920e9 ("PCI: Use resource_set_{range,size}() helpers")
+dc4e6f21c3f8 ("PCI: Use resource names in PCI log messages")
+62008578b73f ("PCI: Fix printk field formatting")
+09cc90063240 ("PCI: Introduce pci_dev_for_each_resource()")
+7180c1d08639 ("PCI: Distribute available resources for root buses, too")
+9db0b9b6a142 ("PCI: Take other bus devices into account when distributing resources")
+08f0a15ee8ad ("PCI: Align extra resources for hotplug bridges properly")

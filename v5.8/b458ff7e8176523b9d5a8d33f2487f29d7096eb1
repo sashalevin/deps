@@ -1,0 +1,8 @@
+b458ff7e8176 ("PCI/pwrctl: Ensure that pwrctl drivers are probed before PCI client drivers")
+278dd091e95d ("PCI/pwrctl: Create pwrctl device only if at least one power supply is present")
+7582fe07f4ca ("PCI/pwrctl: Use of_platform_device_create() to create pwrctl devices")
+24777bac4af5 ("PCI: Check for the existence of 'dev.of_node' before calling of_platform_populate()")
+50b040ef3732 ("PCI/pwrctl: only call of_platform_populate() if CONFIG_OF is enabled")
+4565d2652a37 ("PCI/pwrctl: Add PCI power control core code")
+8fb18619d910 ("PCI/pwrctl: Create platform devices for child OF nodes of the port node")
+8f447694c23a ("Merge tag 'devicetree-for-6.6' of git://git.kernel.org/pub/scm/linux/kernel/git/robh/linux")

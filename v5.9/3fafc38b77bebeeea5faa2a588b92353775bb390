@@ -1,0 +1,7 @@
+3fafc38b77be ("PCI: dwc: ep: Use align addr function for dw_pcie_ep_raise_{msi,msix}_irq()")
+67057f48df79 ("PCI: dwc: Clean up dw_pcie_ep_raise_msi_irq() alignment")
+b5d1b4b46f85 ("PCI: dwc: Fix a 64bit bug in dw_pcie_ep_raise_msix_irq()")
+70fa02ca1446 ("PCI: dwc: Add dw_pcie_ep_{read,write}_dbi[2] helpers")
+641f79beeebc ("PCI: dwc: Rename .func_conf_select to .get_dbi_offset in struct dw_pcie_ep_ops")
+2217fffcd63f ("PCI: dwc: endpoint: Fix dw_pcie_ep_raise_msix_irq() alignment support")
+5897c174028a ("Merge branch 'pci/field-get'")

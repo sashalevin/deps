@@ -1,0 +1,8 @@
+de9a6c8d5dbf ("PCI/bwctrl: Add pcie_set_target_speed() to set PCIe Link Speed")
+665745f27487 ("PCI/bwctrl: Re-add BW notification portdrv as PCIe BW controller")
+3491f5096668 ("PCI: Abstract LBMS seen check into pcie_lbms_seen()")
+59100eb248c0 ("PCI: Use an error code with PCIe failed link retraining")
+712e49c96706 ("PCI: Correct error reporting with PCIe failed link retraining")
+f68dea13405c ("PCI: Revert to the original speed after PCIe failed link retraining")
+8037ac08c2bb ("PCI: Clear the LBMS bit after a link retrain")
+1abb47390350 ("Merge branch 'pci/enumeration'")

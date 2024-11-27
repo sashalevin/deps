@@ -1,0 +1,5 @@
+4a6afd60733c ("PCI: Make pcim_iounmap_region() a public function")
+d140f80f6035 ("PCI: Deprecate pcim_iomap_regions() in favor of pcim_iomap_region()")
+bbaff68bf4a4 ("PCI: Add managed partial-BAR request and map infrastructure")
+d5fe8207d878 ("PCI: Add devres helpers for iomap table")
+dee37e90b41f ("PCI: Add and use devres helper for bit masks")

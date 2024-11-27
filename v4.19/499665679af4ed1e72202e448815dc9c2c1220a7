@@ -1,0 +1,7 @@
+499665679af4 ("gpio: Replace deprecated PCI functions")
+dc537030647a ("gpio: merrifield: Utilise temporary variable for struct device")
+dd0ccef23649 ("gpio: merrifield: Use dev_err_probe()")
+fe066621c796 ("gpio: merrifield: Fix build err without CONFIG_ACPI")
+257f9053c020 ("ACPI / utils: Remove deprecated function since no user left")
+d00d2109c367 ("gpio: merrifield: Convert to use acpi_dev_get_first_match_dev()")
+817b4d64da03 ("ACPI / utils: Introduce acpi_dev_get_first_match_dev() helper")

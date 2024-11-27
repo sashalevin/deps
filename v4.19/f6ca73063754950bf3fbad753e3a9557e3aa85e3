@@ -1,0 +1,7 @@
+f6ca73063754 ("i3c: Document I3C_ADDR_SLOT_EXT_STATUS_MASK")
+2f552fa28059 ("i3c: master: Extend address status bit to 4 and add I3C_ADDR_SLOT_EXT_DESIRED")
+16aed0a6520b ("i3c: master: Replace hard code 2 with macro I3C_ADDR_SLOT_STATUS_BITS")
+f18f98110f2b ("i3c: fix incorrect address slot lookup on 64-bit")
+cc3a392d69b6 ("i3c: master: fix for SETDASA and DAA process")
+476c7e1d34f2 ("i3c: Fix a shift wrap bug in i3c_bus_set_addr_slot_status()")
+3a379bbcea0a ("i3c: Add core I3C infrastructure")
