@@ -1,0 +1,7 @@
+217fa3961a59 ("OPP: Remove unused declarations in header file")
+7eba0c7641b0 ("opp: Allow lazy-linking of required-opps")
+32439ac7535a ("opp: Defer acquiring the clk until OPPs are added")
+406e47652161 ("opp: Create _of_add_table_indexed() to reduce code duplication")
+597ff5431fd4 ("opp: Add dev_pm_opp_get_required_pstate()")
+d758eaf5f8cb ("opp: Staticize _add_opp_table()")
+cf65948d62c6 ("opp: Filter out OPPs based on availability of a required-OPP")

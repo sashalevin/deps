@@ -1,0 +1,6 @@
+a094ccfa5277 ("thermal: of: Use scoped memory and OF handling to simplify thermal_of_trips_init()")
+725f31f300e3 ("thermal/of: support thermal zones w/o trips subnode")
+662b52b761bf ("thermal: of: Fix OF node leak in thermal_of_zone_register()")
+afc954fd223d ("thermal: of: Fix OF node leak in thermal_of_trips_init() error path")
+698a1eb1f75e ("thermal: core: Store zone ops in struct thermal_zone_device")
+9b0a62758665 ("thermal: core: Store zone trips table in struct thermal_zone_device")
