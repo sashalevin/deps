@@ -1,0 +1,8 @@
+90f8f312db72 ("module: Factor out elf_validity_ehdr")
+f9231a996e22 ("module: add module_elf_check_arch for module-specific checks")
+cfc1d277891e ("module: Move all into module/")
+b1ae6dc41eaa ("module: add in-kernel support for decompressing")
+7fd982f394c4 ("module: change to print useful messages from elf_validity_check()")
+ec2a29593c83 ("module: harden ELF info handling")
+10ccd1abb808 ("module: avoid *goto*s in module_sig_check()")
+705e9195187d ("module: merge repetitive strings in module_sig_check()")
