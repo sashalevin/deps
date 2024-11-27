@@ -1,0 +1,5 @@
+a49c26f761d2 ("virtio: Make vring_new_virtqueue support packed vring")
+ba3e0c47c070 ("virtio_ring: introduce virtqueue_reset()")
+b319940f83c2 ("virtio_ring: skip unmap for premapped")
+8daafe9ebbd2 ("virtio_ring: introduce virtqueue_set_dma_premapped()")
+610c708bf872 ("virtio_ring: check use_dma_api before unmap desc for indirect")
