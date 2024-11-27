@@ -1,0 +1,6 @@
+240505b2d0ad ("perf tool_pmu: Factor tool events into their own PMU")
+22a4db3c3603 ("perf evsel: Add alternate_hw_config and use in evsel__match")
+f08cc258431d ("perf evsel: Add accessor for tool_event")
+925320737ae2 ("perf pmus: Fake PMU clean up")
+f76e3525acf3 ("perf parse-events: Pass cpu_list as a perf_cpu_map in __add_event()")
+8db5cabcf1b6 ("perf stat: Fork and launch 'perf record' when 'perf stat' needs to get retire latency value for a metric.")

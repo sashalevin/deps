@@ -1,0 +1,8 @@
+1f7393adf67d ("perf disasm: Define stubs for the LLVM and capstone disassemblers")
+4c1d8f054736 ("perf disasm: Introduce symbol__disassemble_objdump()")
+048856817888 ("perf annotate: LLVM-based disassembler")
+6eca7c5ac23e ("perf annotate: Split out read_symbol()")
+c3f8644c21df ("perf report: Support LLVM for addr2line()")
+c5d60de1813a ("perf annotate: Add support to use libcapstone in powerpc")
+0b971e6bf1c3 ("perf annotate: Add support to capture and parse raw instruction in powerpc using dso__data_read_offset utility")
+06dd4c5a561c ("perf annotate: Add disasm_line__parse() to parse raw instruction for powerpc")

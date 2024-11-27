@@ -1,0 +1,6 @@
+e880a70f8046 ("perf stat: Close cork_fd when create_perf_stat_counter() failed")
+ecc68ee216c6 ("perf stat: Separate bperf from bpf_profiler")
+c587e77e100f ("perf stat: Do not delay the workload with --delay")
+6657a099e185 ("perf record: Allow multiple recording time ranges")
+feff0b61ffd8 ("perf record: Change evlist->ctl_fd to use fdarray_flag__non_perf_event")
+6562c9acb43a ("perf record: Fix way of handling non-perf-event pollfds")

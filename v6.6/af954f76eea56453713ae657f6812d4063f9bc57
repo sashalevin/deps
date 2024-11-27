@@ -1,0 +1,7 @@
+af954f76eea5 ("perf tools: Check fallback error and order")
+3b193a57baf1 ("perf tools: Detect missing kernel features properly")
+90035d3cd876 ("tools/perf: Allow inherit + PERF_SAMPLE_READ when opening events")
+9fbb4b02302b ("perf tools: Add branch counter knob")
+e093a222d7cb ("perf evsel: Rename evsel__increase_rlimit to rlimit__increase_nofile")
+c4a852635edd ("perf data: Increase RLIMIT_NOFILE limit when open too many files in perf_data__create_dir()")
+d50ad02cb39a ("perf test: Add perf_event_attr test for record dummy event")

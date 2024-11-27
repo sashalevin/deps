@@ -1,0 +1,8 @@
+8c0d1202bad3 ("perf, riscv: Wire up perf trace support for RISC-V")
+0e7eb2366894 ("perf tools: Build x86 32-bit syscall table from arch/x86/entry/syscalls/syscall_32.tbl")
+da7b1b525e97 ("perf kvm/riscv: Port perf kvm stat to RISC-V")
+fca6af7be28b ("perf build: Remove unused CONFIG_PERF_REGS")
+49f3806d89e4 ("perf tools: Declare syscalltbl_*[] as const for all archs")
+2fa5ebe3bc4e ("tools/perf: Add basic support for LoongArch")
+9854e7ad35fe ("perf arm64: Simplify mksyscalltbl")
+335f70faa263 ("perf jitdump: Add riscv64 support")

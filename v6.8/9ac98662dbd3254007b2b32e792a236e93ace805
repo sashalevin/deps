@@ -1,0 +1,6 @@
+9ac98662dbd3 ("perf: event: Remove deadcode")
+d38461e977ba ("perf stat: Remove evlist__add_default_attrs use strings")
+03f2357017c3 ("perf stat: Add new field in stat_config to enable hardware aware grouping")
+20018398fca8 ("perf evsel: Rename get_states() to parse_task_states() and make it public")
+df8bc77e4a6b ("perf util: Add evsel__taskstate() to parse the task state info instead")
+2f29a74f1dff ("perf util: Add helpers to parse task state string from libtraceevent")

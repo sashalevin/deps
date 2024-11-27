@@ -1,0 +1,6 @@
+1a3d6a9723d4 ("perf tools: Fix compiler error in util/tool_pmu.c")
+069057239a67 ("perf tool_pmu: Move expr literals to tool_pmu")
+b8f1a1b0680c ("perf tool_pmu: Rename perf_tool_event__* to tool_pmu__*")
+0709a82c10bb ("perf tool_pmu: Rename enum perf_tool_event to tool_pmu_event")
+240505b2d0ad ("perf tool_pmu: Factor tool events into their own PMU")
+22a4db3c3603 ("perf evsel: Add alternate_hw_config and use in evsel__match")
