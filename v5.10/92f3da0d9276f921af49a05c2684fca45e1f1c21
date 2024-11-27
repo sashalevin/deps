@@ -1,0 +1,6 @@
+92f3da0d9276 ("ecryptfs: Convert ecryptfs to use the new mount API")
+56bd06c2640b ("ecryptfs: Factor out mount option validation")
+f700b7192701 ("fs: ecryptfs: replace deprecated strncpy with strscpy")
+9046625511ad ("ecryptfs: fix kernel panic with null dev_name")
+e24012062e3d ("ecryptfs: main: Demote a bunch of non-conformant kernel-doc headers")
+0f16ff0f545d ("ecryptfs: do not mount on top of idmapped mounts")
