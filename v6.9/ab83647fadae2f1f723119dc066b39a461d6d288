@@ -1,0 +1,7 @@
+ab83647fadae ("riscv: Add qspinlock support")
+22c33321e260 ("asm-generic: ticket-lock: Add separate ticket-lock.h")
+cbe82e140bb7 ("asm-generic: ticket-lock: Reuse arch_spinlock_t of qspinlock")
+46bcce503197 ("arch, mm: move definition of node_data to generic code")
+e20bac6544bc ("MIPS: loongson64: rename __node_data to node_data")
+ff96f5c6971c ("loongarch: avoid generating extra header files")
+372631bb62d3 ("LoongArch: KVM: Add hypercall instruction emulation")

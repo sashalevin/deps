@@ -1,0 +1,8 @@
+704f06eeff65 ("LoongArch: Allow to enable PREEMPT_LAZY")
+b7a2750ef268 ("LoongArch: Add ARCH_HAS_PTE_DEVMAP support")
+303be4b33562 ("LoongArch: mm: Add p?d_leaf() definitions")
+de0e30bee86d ("LoongArch: BPF: Enable bpf_probe_read{, str}() on LoongArch")
+ddc1729b07cc ("LoongArch: Let pmd_present() return true when splitting pmd")
+3f48f3d91c56 ("arch/loongarch: Add ARCH_HAS_NMI_SAFE_THIS_CPU_OPS Kconfig option")
+c78c43fe7d42 ("LoongArch: Use acpi_arch_dma_setup() and remove ARCH_HAS_PHYS_TO_DMA")
+bf2ee8d0c385 ("ACPI: scan: Support multiple DMA windows with different offsets")

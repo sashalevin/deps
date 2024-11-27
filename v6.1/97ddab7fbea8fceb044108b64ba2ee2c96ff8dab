@@ -1,0 +1,5 @@
+97ddab7fbea8 ("riscv: Implement xchg8/16() using Zabha")
+1d84afaf0252 ("riscv: Fix fully ordered LR/SC xchg[8|16]() implementations")
+a8ed2b7a2c13 ("riscv/cmpxchg: Implement xchg for variables of size 1 and 2")
+4bfa185fe3f0 ("riscv/cmpxchg: Deduplicate xchg() asm functions")
+068550631fbe ("locking/arch: Rename all internal __xchg() names to __arch_xchg()")

@@ -1,0 +1,6 @@
+368546ebe7e7 ("riscv: Call riscv_user_isa_enable() only on the boot hart")
+1b57747e978f ("riscv: Enable cbo.zero only when all harts support Zicboz")
+625034abd52a ("riscv: add ISA extensions validation callback")
+98a5700dfaec ("riscv: cpufeature: call match_isa_ext() for single-letter extensions")
+38a94c46660f ("riscv: smp: fail booting up smp if inconsistent vlen is detected")
+c6c901b7d983 ("Merge patch series "riscv: Extension parsing fixes"")
