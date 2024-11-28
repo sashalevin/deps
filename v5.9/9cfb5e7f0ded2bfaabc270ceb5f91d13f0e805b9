@@ -1,0 +1,7 @@
+9cfb5e7f0ded ("net: hsr: fix hsr_init_sk() vs network/transport headers.")
+48b491a5cc74 ("net: hsr: fix mac_len checks")
+2e9f60932a2c ("net: hsr: check skb can contain struct hsr_ethhdr in fill_frame_info")
+9d6803921a16 ("net: hsr: Reset MAC header for Tx path")
+dcf0cd1cc58b ("net: hsr: add offloading support")
+78be9217c401 ("net: hsr: generate supervision frame without HSR/PRP tag")
+6f1c0ea133a6 ("net: introduce a netdev feature for UDP GRO forwarding")

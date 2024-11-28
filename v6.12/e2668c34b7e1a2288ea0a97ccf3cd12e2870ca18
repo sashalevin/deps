@@ -1,0 +1,3 @@
+e2668c34b7e1 ("net: phy: fix phy_ethtool_set_eee() incorrectly enabling LPI")
+f26a29a038ee ("net: phy: ensure that genphy_c45_an_config_eee_aneg() sees new value of phydev->eee_cfg.eee_enabled")
+721aa69e708b ("net: phy: convert eee_broken_modes to a linkmode bitmap")

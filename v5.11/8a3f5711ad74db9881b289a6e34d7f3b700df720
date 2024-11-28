@@ -1,0 +1,5 @@
+8a3f5711ad74 ("exfat: reduce FAT chain traversal")
+6b151eb5df78 ("exfat: code cleanup for exfat_readdir()")
+20914ff6dd56 ("exfat: move exfat_entry_set_cache from heap to stack")
+a3ff29a95fde ("exfat: support dynamic allocate bh for exfat_entry_set_cache")
+c6e2f52e3051 ("exfat: speed up iterate/lookup by fixing start point of traversing cluster chain")

@@ -1,0 +1,8 @@
+5311598f7f32 ("bnxt_en: Reserve rings after PCIe AER recovery if NIC interface is down")
+fb1e6e562b37 ("bnxt_en: Fix AER recovery.")
+f75d9a0aa967 ("bnxt_en: Re-write PCI BARs after PCI fatal error.")
+df3875ec5503 ("bnxt_en: Fix PCI AER error recovery flow")
+6e2f83884c09 ("bnxt_en: Fix AER reset logic on 57500 chips.")
+bae361c54fb6 ("bnxt_en: Improve AER slot reset.")
+bdb3860236b3 ("bnxt_en: Do driver unregister cleanup in bnxt_init_one() failure path.")
+aa46dffff452 ("bnxt_en: Improve bnxt_ulp_stop()/bnxt_ulp_start() call sequence.")

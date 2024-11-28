@@ -1,0 +1,7 @@
+f1553c9894b4 ("ip6mr: fix tables suspicious RCU usage")
+d7c31cbde4bc ("net: ip6mr: add RTM_GETROUTE netlink op")
+b96ef16d2f83 ("ipmr: convert /proc handlers to rcu_read_lock()")
+6fa40a290219 ("ip6mr: switch ip6mr_get_route() to rcu_read_lock()")
+3493a5b730e5 ("ip6mr: ip6mr_cache_report() changes")
+ebc3197963fc ("ipmr: add rcu protection over (struct vif_device)->dev")
+0a24c43f54b2 ("ip6mr: do not get a device reference in pim6_rcv()")
