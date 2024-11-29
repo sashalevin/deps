@@ -1,0 +1,5 @@
+27035c23bad5 ("ARM: 9425/1: vfp: Use vfp_state_hold() in vfp_support_entry().")
+cdd87465adfd ("ARM: vfp: Use undef hook for handling VFP exceptions")
+6ee1e6772e1e ("ARM: kernel: Get rid of thread_info::used_cp[] array")
+4708fb041346 ("ARM: vfp: Reimplement VFP exception entry in C code")
+4a0548c6681c ("ARM: vfp: Remove workaround for Feroceon CPUs")

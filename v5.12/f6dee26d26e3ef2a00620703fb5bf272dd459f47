@@ -1,0 +1,8 @@
+f6dee26d26e3 ("sparc/build: Add SPARC target flags for compiling with clang")
+978fa00eb035 ("Documentation/llvm: Note s390 LLVM=1 support with LLVM 18.1.0 and newer")
+291810be4227 ("Documentation/llvm: Update Supported Arch table")
+231ad7f409f1 ("Makefile: infer --target from ARCH for CC=clang")
+6f5b41a2f5a6 ("Makefile: move initial clang flag handling into scripts/Makefile.clang")
+ba64beb17493 ("kbuild: check the minimum assembler version in Kconfig")
+eec08090bcc1 ("Makefile: Only specify '--prefix=' when building with clang + GNU as")
+c91d4e47e10e ("Makefile: Remove '--gcc-toolchain' flag")

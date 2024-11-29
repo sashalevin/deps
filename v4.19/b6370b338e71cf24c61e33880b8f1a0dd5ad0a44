@@ -1,0 +1,5 @@
+b6370b338e71 ("sparc/vdso: Add helper function for 64-bit right shift on 32-bit target")
+caf539cd1087 ("sparc: Fix VDSO build with older binutils.")
+3fe5d7e86128 ("sparc: Don't bother masking out TICK_PRIV_BIT in VDSO code.")
+794b88e04758 ("sparc: Inline VDSO gettime code aggressively.")
+2f6c9bf31a0b ("sparc: Improve VDSO instruction patching.")
