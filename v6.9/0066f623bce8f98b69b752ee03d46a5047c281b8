@@ -1,0 +1,7 @@
+0066f623bce8 ("ksmbd: use __GFP_RETRY_MAYFAIL")
+3abab905b14f ("ksmbd: Fix the missing xa_store error check")
+a77e0e02af1c ("ksmbd: add support for supplementary groups")
+9c383396362a ("ksmbd: Use struct_size() to improve smb_direct_rdma_xmit()")
+844436e045ac ("ksmbd: Unlock on in ksmbd_tcp_set_interfaces()")
+a018c1b636e7 ("ksmbd: override fsids for share path check")
+405ee4097c4b ("ksmbd: ignore trailing slashes in share paths")

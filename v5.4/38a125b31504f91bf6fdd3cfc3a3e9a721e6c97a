@@ -1,0 +1,4 @@
+38a125b31504 ("fs/nfs/io: make nfs_start_io_*() killable")
+a7db503401ee ("nfs: Provide a splice-read wrapper")
+64158668ac8b ("NFS: swap IO handling is slightly different for O_DIRECT IO")
+ce368536dd61 ("nfs: nfs_file_write() should check for writeback errors")

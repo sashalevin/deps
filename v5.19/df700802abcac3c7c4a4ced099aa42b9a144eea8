@@ -1,0 +1,8 @@
+df700802abca ("um: ubd: Initialize ubd's disk pointer in ubd_add")
+32621ad7a7ea ("ubd: remove the ubd_gendisk array")
+8b9ab6266204 ("block: remove blk_cleanup_disk")
+6f8191fdf41d ("block: simplify disk shutdown")
+0e3534022f26 ("block: stop setting the nomerges flags in blk_cleanup_queue")
+1f90307e5f0d ("block: remove QUEUE_FLAG_DEAD")
+e8b58ef09e84 ("mtip32xx: fix device removal")
+ec5263f422a3 ("mtip32xx: remove the device_status debugfs file")

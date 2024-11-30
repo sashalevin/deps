@@ -1,0 +1,5 @@
+9b0881858c74 ("um: Rename _PAGE_NEWPAGE to _PAGE_NEEDSYNC")
+2717c6b649e1 ("um: Abandon the _PAGE_NEWPROT bit")
+41ab5fe7471f ("um: Switch to 4 level page tables on 64 bit")
+ed236fe4daf7 ("um: Remove 3-level page table support on i386")
+669afa4e8715 ("um: Remove the redundant newpage check in update_pte_range")

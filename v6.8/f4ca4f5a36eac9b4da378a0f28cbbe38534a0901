@@ -1,0 +1,5 @@
+f4ca4f5a36ea ("cifs: Fix parsing reparse point with native symlink in SMB1 non-UNICODE session")
+723f4ef90452 ("cifs: Fix parsing native symlinks relative to the export")
+4b96024ef229 ("smb: client: handle lack of FSCTL_GET_REPARSE_POINT support")
+8bd25b61c5a5 ("smb: client: set correct d_type for reparse DFS/DFSR and mount point")
+c520ba7573a8 ("smb: client: move most of reparse point handling code to common file")

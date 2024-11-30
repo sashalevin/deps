@@ -1,0 +1,6 @@
+79a66e146556 ("nfs/localio: eliminate need for nfs_local_fsync_work forward declaration")
+894f5c5593cd ("nfs/localio: eliminate unnecessary kref in nfs_local_fsync_ctx")
+70ba381e1a43 ("nfs: add LOCALIO support")
+fa4983862e50 ("nfsd: add LOCALIO support")
+a61e147e6be6 ("nfs_common: prepare for the NFS client to use nfsd_file for LOCALIO")
+2a33a85be451 ("nfs_common: add NFS LOCALIO auxiliary protocol enablement")

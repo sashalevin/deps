@@ -1,0 +1,6 @@
+4db9ad82a6c8 ("sunrpc: clear XPRT_SOCK_UPD_TIMEOUT when reset transport")
+2790a624d430 ("SUNRPC: Replace internal use of SOCKWQ_ASYNC_NOSPACE")
+7496b59f588d ("SUNRPC: Fix socket waits for write buffer space")
+89f42494f92f ("SUNRPC: Don't call connect() more than once on a TCP socket")
+8db55a032ac7 ("SUNRPC: improve 'swap' handling: scheduling and PF_MEMALLOC")
+c487216bec83 ("SUNRPC/call_alloc: async tasks mustn't block waiting for memory")

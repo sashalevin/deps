@@ -1,0 +1,4 @@
+79d3e562cb47 ("ubifs: Reduce kfree() calls in ubifs_purge_xattrs()")
+c6fa76da34ae ("ubifs: Call iput(xino) only once in ubifs_purge_xattrs()")
+f4e3634a3b64 ("ubifs: Fix races between xattr_{set|get} and listxattr operations")
+f2aae745b82c ("ubifs: xattr: Fix some potential memory leaks while iterating entries")

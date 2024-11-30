@@ -1,0 +1,6 @@
+2f681ba4b352 ("um: move thread info into task")
+3f17fed21491 ("um: switch to regset API and depend on XSTATE")
+c6ce72005d1a ("um: remove auxiliary FP registers")
+5a6951273e0e ("um: always use the internal copy of the FP registers")
+865e3845eeaa ("um: Fix the return value of elf_core_copy_task_fpregs")
+cd05cbed42b7 ("um: Remove highmem leftovers")

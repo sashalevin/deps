@@ -1,0 +1,3 @@
+3fa640d035e5 ("smb: During unmount, ensure all cached dir instances drop their dentry")
+a9685b409a03 ("smb: prevent use-after-free due to open_cached_dir error paths")
+193cc89ea0ca ("cifs: fix potential null pointer use in destroy_workqueue in init_cifs error path")
