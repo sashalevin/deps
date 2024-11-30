@@ -1,0 +1,6 @@
+e5eab1aeae76 ("rtc: Switch back to struct platform_driver::remove()")
+47712bc29401 ("rtc: pxa: Mark driver struct with __refdata to prevent section mismatch warning")
+5621f28b0122 ("rtc: mv: Mark driver struct with __refdata to prevent section mismatch warning")
+5dbde0727a51 ("rtc: at91rm9200: Mark driver struct with __refdata to prevent section mismatch warning")
+1b733a9ebc3d ("rtc: Add rtc driver for the Loongson family chips")
+9fb23090658a ("rtc: Remove the Loongson-1 RTC driver")
