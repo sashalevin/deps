@@ -1,0 +1,7 @@
+bc69e9fffde4 ("iio: adc: ad7606: Add compatibility to fw_nodes")
+f3838e934dff ("iio: adc: ad7606: add support for AD7606C-{16,18} parts")
+94aab7a0f5c7 ("iio: adc: ad7606: rework available attributes for SW channels")
+bbd478f2cb0e ("iio: adc: ad7606: wrap channel ranges & scales into struct")
+e571c1902116 ("iio: adc: ad7606: move scale_setup as function pointer on chip-info")
+d2041446a716 ("iio: adc: ad7606: move 'val' pointer to ad7606_scan_direct()")
+300a90a6ba64 ("iio: adc: ad7606: add 'bits' parameter to channels macros")

@@ -1,0 +1,8 @@
+6ba3df714723 ("iio: chemical: bme680: optimize startup time")
+fe358e57afeb ("iio: chemical: bme680: Modify startup procedure")
+f2f2e7b1a452 ("iio: chemical: bme680: Add read buffers in read/write buffer union")
+43eca242b3c1 ("iio: chemical: bme680: Allocate IIO device before chip initialization")
+a4f765e72e67 ("iio: chemical: bme680: Use bulk reads for calibration data")
+5a387668972d ("iio: chemical: bme680: Remove duplicate register read")
+89ab0c338391 ("iio: chemical: bme680: Drop unnecessary casts and correct adc data types")
+dfbfb2283cb4 ("iio: chemical: bme680: Fix typo in define")

@@ -1,0 +1,7 @@
+72925dec8834 ("staging: vchiq_core: Return -EINTR in queue_message() on interrupt")
+36022f3ee8c2 ("staging: vchiq_core: Use killable wait completions for bulk transfers")
+d82caab7abf8 ("staging: vchiq_core: Drop vchiq_bulk_transfer()")
+22f3f2ef01ef ("staging: vchiq_core: Factor out bulk transfer for (no/)callback mode")
+206030f6a92b ("staging: vchiq_core: Factor out bulk transfer for blocking mode")
+fbaf8bf6cbc0 ("staging: vchiq_core: Simplify vchiq_bulk_transfer()")
+27056fef611c ("staging: vchiq: Factor out bulk transfer for VCHIQ_BULK_MODE_WAITING")

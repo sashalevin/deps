@@ -1,0 +1,7 @@
+26e7fc6a60bc ("iio: adc: ad7606: Drop spurious empty file.")
+94aab7a0f5c7 ("iio: adc: ad7606: rework available attributes for SW channels")
+bbd478f2cb0e ("iio: adc: ad7606: wrap channel ranges & scales into struct")
+e571c1902116 ("iio: adc: ad7606: move scale_setup as function pointer on chip-info")
+300a90a6ba64 ("iio: adc: ad7606: add 'bits' parameter to channels macros")
+2956979dbd0d ("iio: adc: ad7606: switch mutexes to guard")
+fd5b6c48ec33 ("iio: adc: ad7606: simplify using devm_regulator_get_enable()")

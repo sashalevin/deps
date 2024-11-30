@@ -1,0 +1,6 @@
+36b972d4b7ce ("usb: xhci: improve xhci_clear_command_ring()")
+3f970bd06c52 ("usb: xhci: introduce macro for ring segment list iteration")
+2e8dd2ded2a1 ("usb: xhci: utilize 'xhci_free_segments_for_ring()' for freeing segments")
+044818a6cd80 ("xhci: Set DESI bits in ERDP register correctly")
+15f3ef070933 ("xhci: Clear EHB bit only at end of interrupt handler")
+4bf398e15aa4 ("xhci: split allocate interrupter into separate alloacte and add parts")

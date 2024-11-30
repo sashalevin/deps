@@ -1,0 +1,6 @@
+b3d75e9ba013 ("nvmem: Correct some typos in comments")
+1e37bf84afac ("nvmem: brcm_nvram: store a copy of NVRAM content")
+cfadd0e7d922 ("nvmem: brcm_nvram: Use devm_platform_get_and_ioremap_resource()")
+73bcd133c910 ("nvmem: brcm_nvram: add .read_post_process() for MACs")
+b0576ade3aaf ("nvmem: brcm_nvram: Add check for kzalloc")
+a5be5ce0e254 ("firmware/nvram: bcm47xx: support init from IO memory")

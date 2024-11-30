@@ -1,0 +1,4 @@
+72406c8a7acb ("staging: vc04_services: Simplify block bulk transfer code paths")
+ec5d292db3bd ("staging: vchiq_arm: Do not retry bulk transfers on -EINTR")
+80f8ea98e43e ("staging: vchiq_core: Return -EINTR when bulk transfers are interrupted")
+36022f3ee8c2 ("staging: vchiq_core: Use killable wait completions for bulk transfers")

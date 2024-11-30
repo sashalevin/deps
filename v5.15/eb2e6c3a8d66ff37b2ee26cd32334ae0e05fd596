@@ -1,0 +1,6 @@
+eb2e6c3a8d66 ("sysfs: bin_attribute: add const read/write callback variants")
+699e7b85afb5 ("sysfs: treewide: constify attribute callback of bin_attribute::llseek()")
+24de09c16f97 ("PCI: Implement custom llseek for sysfs resource entries")
+0fedefd4c4e3 ("kernfs: sysfs: support custom llseek method for sysfs entries")
+5cf3bb0d3a2d ("sysfs: split out binary attribute handling from sysfs_add_file_mode_ns")
+eaf501e0d8af ("kernfs: remove the unused lockdep_key field in struct kernfs_ops")

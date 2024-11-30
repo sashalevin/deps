@@ -1,0 +1,6 @@
+6ff78df5b3d0 ("usb: Use (of|device)_property_present() for non-boolean properties")
+0f0101719138 ("usb: dwc3: Don't switch OTG -> peripheral if extcon is present")
+a102f07e4edf ("usb: dwc3: drd: Add support for usb-conn-gpio based usb-role-switch")
+51c236d5e1d1 ("usb: mtu3: skip getting extcon when use manual drd switch")
+cb4d9b52ec06 ("usb: dwc3: drd: Improve dwc3_get_extcon() style")
+c824c73a5e08 ("usb: dwc3: drd: Avoid error when extcon is missing")

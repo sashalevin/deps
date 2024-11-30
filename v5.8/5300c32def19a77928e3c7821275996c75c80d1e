@@ -1,0 +1,6 @@
+5300c32def19 ("staging: greybus: gpio: use gpiochip_get_data")
+3ff1180a39fb ("gpiolib: Remove data-less gpiochip_add() function")
+37d42ab39249 ("gpiolib: remove unnecessary extern specifiers from the driver header")
+f48198232d60 ("staging: greybus: Inline gpio_chip_to_gb_gpio_controller()")
+72b74b646bdd ("staging: greybus: gpio: Replace macro irq_data_to_gpio_chip with function")
+5f402bb17533 ("gpio: don't use same lockdep class for all devm_gpiochip_add_data users")

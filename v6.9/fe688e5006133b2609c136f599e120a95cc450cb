@@ -1,0 +1,7 @@
+fe688e500613 ("usb: xhci: refactor xhci_link_rings() to use source and destination rings")
+401406a4c709 ("usb: xhci: adjust xhci_alloc_segments_for_ring() arguments")
+e1b0fa863907 ("usb: xhci: remove option to change a default ring's TRB cycle bit")
+3f970bd06c52 ("usb: xhci: introduce macro for ring segment list iteration")
+bbdd82c752d6 ("usb: xhci: move all segment re-numbering to xhci_link_rings()")
+7476a2215c07 ("usb: xhci: move link chain bit quirk checks into one helper function.")
+db4460b6ecf0 ("usb: xhci: check if 'requested segments' exceeds ERST capacity")

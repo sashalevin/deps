@@ -1,0 +1,7 @@
+98ad03291560 ("usb: gadget: uvc: set req_length based on payload by nreqs instead of req_size")
+48dbe731171e ("usb: gadget: uvc: set req_size and n_requests based on the frame interval")
+6acba0345b68 ("usb:gadget:uvc Do not use worker thread to pump isoc usb requests")
+da324ffce34c ("usb: gadget: uvc: Fix use-after-free for inflight usb_requests")
+2079b60bda32 ("usb: gadget: uvc: move video disable logic to its own function")
+aeb686a98a9e ("usb: gadget: uvc: Allocate uvc_requests one at a time")
+991544dc579b ("usb: gadget: uvc: prevent use of disabled endpoint")
