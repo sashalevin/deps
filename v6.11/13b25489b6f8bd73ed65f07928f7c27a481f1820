@@ -1,0 +1,6 @@
+13b25489b6f8 ("kbuild: change working directory to external module directory with M=")
+d17113601909 ("kbuild: use 'output' variable to create the output directory")
+5ea172165400 ("kbuild: rename abs_objtree to abs_output")
+0afd73c5f5c6 ("kbuild: replace two $(abs_objtree) with $(CURDIR) in top Makefile")
+f1d87664b82a ("kbuild: cross-compile linux-headers package when possible")
+aaed5c7739be ("kbuild: slim down package for building external modules")

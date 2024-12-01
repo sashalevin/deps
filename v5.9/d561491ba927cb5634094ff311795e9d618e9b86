@@ -1,0 +1,4 @@
+d561491ba927 ("KVM: arm64: vgic-v3: Sanitise guest writes to GICR_INVLPIR")
+4645d11f4a55 ("KVM: arm64: vgic-v3: Implement MMIO-based LPI invalidation")
+28e9d4bce3be ("KVM: arm64: vgic-v3: Expose GICR_TYPER.Last for userspace")
+23bde34771f1 ("KVM: arm64: vgic-v3: Drop the reporting of GICR_TYPER.Last for userspace")

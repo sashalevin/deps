@@ -1,0 +1,6 @@
+e6064da6461f ("kbuild: rename .tmp_vmlinux.kallsyms0.syms to .tmp_vmlinux0.syms")
+dde60e7d103b ("kbuild: remove recent dependency on "truncate" program")
+1472464c6248 ("kbuild: avoid scripts/kallsyms parsing /dev/null")
+b1a9a5e04767 ("kbuild: merge temporary vmlinux for BTF and kallsyms")
+c442db3f49f2 ("kbuild: remove PROVIDE() for kallsyms symbols")
+ddf41329839f ("kbuild: refactor variables in scripts/link-vmlinux.sh")

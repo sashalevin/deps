@@ -1,0 +1,7 @@
+3b2c81d5feb2 ("KVM: arm64: vgic-its: Add stronger type-checking to the ITS entry sizes")
+7602ffd1d5e8 ("KVM: arm64: vgic-its: Clear ITE when DISCARD frees an ITE")
+e9649129d33d ("KVM: arm64: vgic-its: Clear DTE when MAPD unmaps a device")
+7fe28d7e68f9 ("KVM: arm64: vgic-its: Add a data length check in vgic_its_save_*")
+a23eaf9368aa ("KVM: arm64: Add helper vgic_write_guest_lock()")
+9cb1096f8590 ("KVM: arm64: Enable ring-based dirty memory tracking")
+5c0ad551e9aa ("Merge branch kvm-arm64/its-save-restore-fixes-5.19 into kvmarm-master/next")

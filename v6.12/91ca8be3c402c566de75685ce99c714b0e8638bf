@@ -1,0 +1,5 @@
+91ca8be3c402 ("kbuild: remove support for single %.symtypes build rule")
+c2386abf5561 ("kbuild: do not pass -r to genksyms when *.symref does not exist")
+214c0eea43b2 ("kbuild: add $(objtree)/ prefix to some in-kernel build artifacts")
+985d6cccb67c ("kbuild: check the presence of include/generated/rustc_cfg")
+ec873a4c551e ("kbuild: refactor the check for missing config files")

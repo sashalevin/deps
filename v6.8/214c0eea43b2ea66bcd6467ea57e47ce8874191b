@@ -1,0 +1,7 @@
+214c0eea43b2 ("kbuild: add $(objtree)/ prefix to some in-kernel build artifacts")
+985d6cccb67c ("kbuild: check the presence of include/generated/rustc_cfg")
+ec873a4c551e ("kbuild: refactor the check for missing config files")
+fdf94e4403ec ("kbuild: compile constant module information only once")
+46fb0b62ea29 ("kbuild,bpf: Add module-specific pahole flags for distilled base BTF")
+fcd1ed89a043 ("kbuild,bpf: Switch to using --btf_features for pahole v1.26 and later")
+aefb2f2e619b ("x86/bugs: Rename CONFIG_RETPOLINE            => CONFIG_MITIGATION_RETPOLINE")

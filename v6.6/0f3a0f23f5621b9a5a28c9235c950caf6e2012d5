@@ -1,0 +1,5 @@
+0f3a0f23f562 ("KVM: arm64: Mark set_sysreg_masks() as inline to avoid build failure")
+81ffcace31c2 ("KVM: arm64: nv: Add sanitising to EL2 configuration registers")
+888f08807022 ("KVM: arm64: nv: Add sanitising to VNCR-backed sysregs")
+3ed0b5123cd5 ("KVM: arm64: nv: Compute NV view of idregs as a one-off")
+5544750efd51 ("KVM: arm64: Build MPIDR to vcpu index cache at runtime")

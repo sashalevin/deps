@@ -1,0 +1,8 @@
+6b1fabce7313 ("kbuild: deb-pkg: add python3:native to build dependency")
+e2c318225ac1 ("kbuild: deb-pkg: add pkg.linux-upstream.nokernelheaders build profile")
+f1d87664b82a ("kbuild: cross-compile linux-headers package when possible")
+aaed5c7739be ("kbuild: slim down package for building external modules")
+f96beb84eff6 ("kbuild: deb-pkg: call more misc debhelper commands")
+1d7bae8f8c85 ("kbuild: deb-pkg: build binary-arch in parallel")
+caf400c8b68a ("kbuild: deb-pkg: make debian/rules quiet for 'make deb-pkg'")
+cc3df32c9f3a ("kbuild: deb-pkg: show verbose log for direct package builds")

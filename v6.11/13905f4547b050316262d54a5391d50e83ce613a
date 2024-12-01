@@ -1,0 +1,5 @@
+13905f4547b0 ("KVM: arm64: Use MDCR_EL2.HPME to evaluate overflow of hyp counters")
+54bbee190d42 ("KVM: arm64: Ignore PMCNTENSET_EL0 while checking for overflow status")
+9a1c58cfefb0 ("KVM: arm64: nv: Adjust range of accessible PMCs according to HPMN")
+a3034dab74fc ("KVM: arm64: Rename kvm_pmu_valid_counter_mask()")
+336afe0c832d ("KVM: arm64: nv: Describe trap behaviour of MDCR_EL2.HPMN")
