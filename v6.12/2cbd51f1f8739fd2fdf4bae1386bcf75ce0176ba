@@ -1,0 +1,3 @@
+2cbd51f1f873 ("block: Don't allow an atomic write be truncated in blkdev_write_iter()")
+c3be7ebbbce5 ("fs/block: Check for IOCB_DIRECT in generic_atomic_write_valid()")
+9a8dbdadae50 ("block/fs: Pass an iocb to generic_atomic_write_valid()")

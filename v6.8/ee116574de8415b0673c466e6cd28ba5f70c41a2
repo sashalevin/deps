@@ -1,0 +1,4 @@
+ee116574de84 ("io_uring/nop: ensure nop->fd is always initialized")
+a85f31052bce ("io_uring/nop: add support for testing registered files and buffers")
+deb1e496a835 ("io_uring: support to inject result for NOP")
+3d8f874bd620 ("io_uring: fail NOP if non-zero op flags is passed in")

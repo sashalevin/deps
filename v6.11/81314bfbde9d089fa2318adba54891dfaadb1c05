@@ -1,0 +1,4 @@
+81314bfbde9d ("block: req->bio is always set in the merge code")
+9f8d68283342 ("block: don't bother checking the data direction for merges")
+6975c1a486a4 ("block: remove the ioprio field from struct request")
+61952bb73486 ("block: remove the write_hint field from struct request")

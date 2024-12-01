@@ -1,0 +1,5 @@
+e924da7d6622 ("block: Drop granularity check in queue_limit_discard_alignment()")
+5c4b4a5c6f11 ("block: move {bdev,queue_limit}_discard_alignment out of line")
+4e1462ffe899 ("block: remove queue_discard_alignment")
+89098b075cb7 ("block: move bdev_alignment_offset and queue_limit_alignment_offset out of line")
+640f2a23911b ("block: use bdev_alignment_offset in disk_alignment_offset_show")

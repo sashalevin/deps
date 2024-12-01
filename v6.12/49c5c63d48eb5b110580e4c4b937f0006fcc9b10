@@ -1,0 +1,8 @@
+49c5c63d48eb ("io_uring: fix task_work cap overshooting")
+f46b9cdb22f7 ("io_uring: limit local tw done")
+40cfe553240b ("io_uring: add io_local_work_pending()")
+af0a2ffef0e6 ("io_uring: avoid normal tw intermediate fallback")
+f03baece0818 ("io_uring: move cancelations to be io_uring_task based")
+1e6e7602cc9f ("io_uring: kill io_llist_xchg")
+085268829b07 ("io_uring/poll: get rid of unlocked cancel hash")
+829ab73e7bca ("io_uring/poll: remove 'ctx' argument from io_poll_req_delete()")

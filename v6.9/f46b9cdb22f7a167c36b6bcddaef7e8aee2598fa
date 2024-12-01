@@ -1,0 +1,7 @@
+f46b9cdb22f7 ("io_uring: limit local tw done")
+40cfe553240b ("io_uring: add io_local_work_pending()")
+af0a2ffef0e6 ("io_uring: avoid normal tw intermediate fallback")
+1e6e7602cc9f ("io_uring: kill io_llist_xchg")
+04beb6e0e08c ("io_uring: check for presence of task_work rather than TIF_NOTIFY_SIGNAL")
+22537c9f7941 ("io_uring: use the right type for work_llist empty check")
+92219afb980e ("io_uring: force tw ctx locking")
