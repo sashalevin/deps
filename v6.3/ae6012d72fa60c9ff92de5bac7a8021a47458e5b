@@ -1,0 +1,4 @@
+ae6012d72fa6 ("x86/pkeys: Ensure updated PKRU value is XRSTOR'd")
+6a1853bdf178 ("x86/pkeys: Change caller of update_pkru_in_sigframe()")
+70044df250d0 ("x86/pkeys: Update PKRU to enable all pkeys before XSAVE")
+24cf2bc982ff ("x86/pkeys: Add PKRU as a parameter in signal handling functions")

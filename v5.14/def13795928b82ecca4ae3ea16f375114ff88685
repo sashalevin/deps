@@ -1,0 +1,3 @@
+def13795928b ("fs/proc/vmcore.c: fix warning when CONFIG_MMU=n")
+b8ee299855f0 ("fs/proc: fix compile warning about variable 'vmcore_mmap_ops'")
+e9f5d1017c50 ("proc/vmcore: fix vmcore_alloc_buf() kernel-doc comment")

@@ -1,0 +1,5 @@
+b3fce429a1e0 ("cacheinfo: Allocate memory during CPU hotplug if not done from the primary CPU")
+6539cffa9495 ("cacheinfo: Add arch specific early level initializer")
+ecaef469920f ("cacheinfo: Initialize variables in fetch_cache_info()")
+5944ce092b97 ("arch_topology: Build cacheinfo from primary CPU")
+c3719bd9eeb2 ("cacheinfo: Use RISC-V's init_cache_level() as generic OF implementation")
