@@ -1,0 +1,3 @@
+82f9cc094975 ("locking: rtmutex: Fix wake_q logic in task_blocks_on_rt_mutex")
+894d1b3db41c ("locking/mutex: Remove wakeups from under mutex::wait_lock")
+d14f9e930b90 ("locking/rtmutex: Use rt_mutex specific scheduler helpers")
