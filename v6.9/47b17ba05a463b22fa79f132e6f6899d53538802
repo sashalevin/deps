@@ -1,0 +1,5 @@
+47b17ba05a46 ("ALSA: hda: cs35l56: Remove calls to cs35l56_force_sync_asp1_registers_from_cache()")
+e42066df07c0 ("ASoC: cs35l56: Handle OTP read latency over SoundWire")
+5d7e328e20b3 ("ASoC: cs35l56: Revert support for dual-ownership of ASP registers")
+8af49868e51e ("ASoC: cs35l56: Disconnect ASP1 TX sources when ASP1 DAI is hooked up")
+d344873c4cbd ("ALSA: hda: cs35l56: Fix lifetime of cs_dsp instance")
