@@ -1,0 +1,2 @@
+be26ba96421a ("block: Fix potential deadlock while freezing queue and acquiring sysfs_lock")
+22465bbac53c ("blk-mq: move cpuhp callback registering out of q->sysfs_lock")
