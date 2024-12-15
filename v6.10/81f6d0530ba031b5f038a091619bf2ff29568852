@@ -1,0 +1,8 @@
+81f6d0530ba0 ("bpf: check changes_pkt_data property for extension programs")
+5bd36da1e37e ("bpf: Support private stack for struct_ops progs")
+e00931c02568 ("bpf: Enable private stack for eligible subprogs")
+a76ab5731e32 ("bpf: Find eligible subprogs for private stack support")
+d6083f040d5d ("bpf: Prevent tailcall infinite loop caused by freplace")
+ae010757a55b ("bpf: rename nocsr -> bpf_fastcall in verifier")
+91b7fbf3936f ("bpf, x86, riscv, arm: no_caller_saved_registers for bpf_get_smp_processor_id()")
+5b5f51bff1b6 ("bpf: no_caller_saved_registers attribute for helper calls")

@@ -1,0 +1,4 @@
+1a4607ffba35 ("bpf: consider that tail calls invalidate packet pointers")
+b238e187b4a2 ("bpf: refactor bpf_helper_changes_pkt_data to use helper number")
+7559a7a84ef8 ("selftests/bpf: Add testcase for updating attached freplace prog to prog_array map")
+b83b936f3e9a ("selftests/bpf: Add testcases for tailcall hierarchy fixing")
