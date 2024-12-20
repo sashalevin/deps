@@ -1,0 +1,7 @@
+8cd63406d081 ("trace/ring-buffer: Do not use TP_printk() formatting for boot mapped buffers")
+80a76994b2d8 ("tracing: Add "fields" option to show raw trace event fields")
+bfd5a5e82d22 ("tracing: Fix some checker warnings")
+9a6944fee68e ("tracing: Add a verifier to check string pointers for trace events")
+efbbdaa22bb7 ("tracing: Show real address for trace event arguments")
+8e99cf91b99b ("tracing: Do not allocate buffer in trace_find_next_entry() in atomic")
+ff895103a84a ("tracing: Save off entry when peeking at next entry")
