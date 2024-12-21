@@ -1,0 +1,6 @@
+919bfa9b2dbf ("cpufreq/amd-pstate: Detect preferred core support before driver registration")
+7fb463aac845 ("cpufreq/amd-pstate: Rename functions that enable CPPC")
+b427ac408475 ("cpufreq/amd-pstate: Remove the redundant amd_pstate_set_driver() call")
+162cfa4eba73 ("cpufreq/amd-pstate: Remove the switch case in amd_pstate_init()")
+6f241fa50a1a ("cpufreq/amd-pstate: Call amd_pstate_register() in amd_pstate_init()")
+1bfe6a54d2fd ("cpufreq/amd-pstate: Rename MSR and shared memory specific functions")
