@@ -1,0 +1,4 @@
+2c8507c63f54 ("btrfs: avoid monopolizing a core when activating a swap file")
+9a45022a0efa ("btrfs: allow swap activation to be interruptible")
+03018e5d8508 ("btrfs: fix swap file activation failure due to extents that used to be shared")
+0525064bb82e ("btrfs: fix race with memory mapped writes when activating swap file")

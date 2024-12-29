@@ -1,0 +1,7 @@
+31ad36a27129 ("objtool: Add bch2_trans_unlocked_error() to bcachefs noreturns")
+faf1dce85275 ("objtool: Add bcachefs noreturns")
+06697ca69bca ("objtool: Remove btrfs_assertfail() from the noreturn exceptions list")
+6245ce4ab670 ("objtool: Move noreturn function list to separate file")
+34245659debd ("objtool: Remove superfluous global_noreturns entries")
+fedb724c3db5 ("objtool: Detect missing __noreturn annotations")
+5e3992fe7274 ("objtool: Limit unreachable warnings to once per function")
