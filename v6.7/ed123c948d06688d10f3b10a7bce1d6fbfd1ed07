@@ -1,0 +1,5 @@
+ed123c948d06 ("io_uring/kbuf: use pre-committed buffer address for non-pollable file")
+c3f9109dbc9e ("io_uring/kbuf: flag request if buffer pool is empty after buffer pick")
+95041b93e90a ("io_uring: add io_file_can_poll() helper")
+521223d7c229 ("io_uring/cancel: don't default to setting req->work.cancel_seq")
+4bcb982cce74 ("io_uring: expand main struct io_kiocb flags to 64-bits")

@@ -1,0 +1,5 @@
+c6e60a0a68b7 ("io_uring/net: always initialize kmsg->msg.msg_inq upfront")
+c6f32c7d9e09 ("io_uring/net: get rid of ->prep_async() for receive side")
+790b68b32a67 ("io_uring/net: always setup an io_async_msghdr")
+4a3223f7bfda ("io_uring/net: switch io_recv() to using io_async_msghdr")
+54cdcca05abd ("io_uring/net: switch io_send() and io_send_zc() to using io_async_msghdr")

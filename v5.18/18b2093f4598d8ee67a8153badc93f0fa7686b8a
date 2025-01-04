@@ -1,0 +1,6 @@
+18b2093f4598 ("sched_ext: Fix invalid irq restore in scx_ops_bypass()")
+750a40d816de ("sched_ext: Synchronize bypass state changes with rq lock")
+753e2836d139 ("sched_ext: Unify regular and core-sched pick task paths")
+8b1451f2f723 ("sched_ext: Replace SCX_TASK_BAL_KEEP with SCX_RQ_BAL_KEEP")
+7c65ae81ea86 ("sched_ext: Don't call put_prev_task_scx() before picking the next task")
+d7b01aef9dbd ("Merge branch 'tip/sched/core' into for-6.12")

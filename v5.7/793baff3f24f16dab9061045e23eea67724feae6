@@ -1,0 +1,6 @@
+793baff3f24f ("sched_ext: Add __weak to fix the build errors")
+5cbb302880f5 ("sched_ext: Rename scx_bpf_dispatch[_vtime]_from_dsq*() -> scx_bpf_dsq_move[_vtime]*()")
+5209c03c8ed2 ("sched_ext: Rename scx_bpf_consume() to scx_bpf_dsq_move_to_local()")
+cc26abb1a19a ("sched_ext: Rename scx_bpf_dispatch[_vtime]() to scx_bpf_dsq_insert[_vtime]()")
+72b85bf6a7f6 ("sched_ext: scx_bpf_dispatch_from_dsq_set_*() are allowed from unlocked context")
+f07b806ad8eb ("Merge branch 'for-6.12-fixes' into for-6.13")

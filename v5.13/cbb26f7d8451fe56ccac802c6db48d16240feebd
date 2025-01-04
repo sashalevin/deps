@@ -1,0 +1,7 @@
+cbb26f7d8451 ("mptcp: fix TCP options overflow.")
+af7939f390de ("mptcp: drop port parameter of mptcp_pm_add_addr_signal")
+c233ef139070 ("mptcp: remove MPTCP_ADD_ADDR_IPV6 and MPTCP_ADD_ADDR_PORT")
+f462a446384d ("mptcp: build ADD_ADDR/echo-ADD_ADDR option according pm.add_signal")
+119c022096f5 ("mptcp: fix ADD_ADDR and RM_ADDR maybe flush addr_signal each other")
+18fc1a922e24 ("mptcp: make MPTCP_ADD_ADDR_SIGNAL and MPTCP_ADD_ADDR_ECHO separate")
+1f5e9e2f5fd5 ("mptcp: move drop_other_suboptions check under pm lock")

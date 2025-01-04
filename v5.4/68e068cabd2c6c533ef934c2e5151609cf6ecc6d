@@ -1,0 +1,3 @@
+68e068cabd2c ("net: reenable NETIF_F_IPV6_CSUM offload for BIG TCP packets")
+04c20a9356f2 ("net: skip offload for NETIF_F_IPV6_CSUM if ipv6 header contains extension")
+62fafcd63139 ("net: support ip generic csum processing in skb_csum_hwoffload_help")

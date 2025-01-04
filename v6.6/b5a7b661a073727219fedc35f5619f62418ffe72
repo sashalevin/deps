@@ -1,0 +1,5 @@
+b5a7b661a073 ("net: Fix netns for ip_tunnel_init_flow()")
+c2b639f9f3b7 ("ipv4: ip_tunnel: Unmask upper DSCP bits in ip_tunnel_xmit()")
+c34cfe72bb26 ("ipv4: ip_tunnel: Unmask upper DSCP bits in ip_md_tunnel_xmit()")
+e7191e517a03 ("ipv4: ip_tunnel: Unmask upper DSCP bits in ip_tunnel_bind_dev()")
+f694eee9e1c0 ("ip_tunnel: annotate data-races around t->parms.link")
