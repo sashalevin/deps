@@ -1,0 +1,3 @@
+34d7cf637c43 ("mm: don't try THP alignment for FS without get_unmapped_area")
+249608ee4713 ("mm: respect mmap hint address when aligning for THP")
+d4148aeab412 ("mm, mmap: limit THP alignment of anonymous mappings to PMD-aligned sizes")

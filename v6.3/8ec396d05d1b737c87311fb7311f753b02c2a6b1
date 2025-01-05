@@ -1,0 +1,6 @@
+8ec396d05d1b ("mm: reinstate ability to map write-sealed memfd mappings read-only")
+89c1905d9c14 ("mm/gup: introduce memfd_pin_folios() for pinning memfd folios")
+28464bbb2ddc ("mm: update memfd seal write check to include F_SEAL_WRITE")
+d7597f59d1d3 ("mm: add new api to enable ksm per process")
+f7b8f70ba44f ("memfd: pass argument of memfd_fcntl as int")
+ddc65971bb67 ("prctl: add PR_GET_AUXV to copy auxv to userspace")

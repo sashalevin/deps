@@ -1,0 +1,8 @@
+62e72d2cf702 ("mm, madvise: fix potential workingset node list_lru leaks")
+610ff817b981 ("khugepaged: remove hpage from collapse_file()")
+d5ab50b9412c ("khugepaged: convert alloc_charge_hpage to alloc_charge_folio")
+4746f5ce0fa5 ("khugepaged: inline hpage_collapse_alloc_folio()")
+b64e74e95aa6 ("mm: move mapping_set_update out of <linux/swap.h>")
+b54d60b18e85 ("mm/khugepaged: use a folio more in collapse_file()")
+b455f39d2289 ("mm/khugepaged: convert alloc_charge_hpage() to use folios")
+3ee0aa9f0675 ("mm: move some shrinker-related function declarations to mm/internal.h")

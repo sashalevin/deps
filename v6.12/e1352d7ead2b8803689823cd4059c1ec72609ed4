@@ -1,0 +1,6 @@
+e1352d7ead2b ("modpost: refactor do_vmbus_entry()")
+6d3b3dd26fd7 ("modpost: call module_alias_printf() from all do_*_entry() functions")
+c7c24d60151c ("modpost: pass (struct module *) to do_*_entry() functions")
+f4fdb17ca5a5 ("modpost: introduce module_alias_printf() helper")
+b7bca42d101d ("modpost: remove unnecessary check in do_acpi_entry()")
+0c3e091319e4 ("modpost: remove incorrect code in do_eisa_entry()")

@@ -1,0 +1,6 @@
+d0e6983a6d17 ("mm: shmem: fix incorrect index alignment for within_size policy")
+6beeab870e70 ("mm: shmem: move shmem_huge_global_enabled() into shmem_allowable_huge_orders()")
+d58a2a581f13 ("mm: shmem: rename shmem_is_huge() to shmem_huge_global_enabled()")
+b66b1b71d7ff ("mm: shmem: avoid allocating huge pages larger than MAX_PAGECACHE_ORDER for shmem")
+26c7d8413aaf ("mm: thp: support "THPeligible" semantics for mTHP with anonymous shmem")
+8ef6fd0e9ea8 ("Merge branch 'mm-hotfixes-stable' into mm-stable to pick up "mm: fix crashes from deferred split racing folio migration", needed by "mm: migrate: split folio_migrate_mapping()".")
