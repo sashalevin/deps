@@ -1,0 +1,4 @@
+548c6edbed92 ("dm-verity FEC: Avoid copying RS parity bytes twice.")
+6df90c02bae4 ("dm-verity FEC: Fix RS FEC repair for roots unaligned to block size (take 2)")
+d95e2c34a3ca ("dm verity: Fix IO priority lost when reading FEC and hash")
+7be05bdfb4ef ("dm verity: initialize fec io before freeing it")
