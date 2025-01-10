@@ -1,0 +1,4 @@
+111d36d62787 ("xfs: lock dquot buffer before detaching dquot from b_li_list")
+acc8f8628c37 ("xfs: attach dquot buffer to dquot log item buffer")
+ec88b41b932d ("xfs: clean up log item accesses in xfs_qm_dqflush{,_done}")
+a40fe30868ba ("xfs: separate dquot buffer reads from xfs_dqflush")
