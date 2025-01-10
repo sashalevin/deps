@@ -1,0 +1,4 @@
+cb358ff94154 ("ipvlan: Fix use-after-free in ipvlan_get_iflink().")
+750e51603395 ("net: avoid potential UAF in default_operstate()")
+8c55facecd7a ("net: linkwatch: only report IF_OPER_LOWERLAYERDOWN if iflink is actually down")
+eec517cdb481 ("net: Add IF_OPER_TESTING")

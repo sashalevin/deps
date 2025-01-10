@@ -1,0 +1,5 @@
+6259d2484d0c ("sctp: sysctl: plpmtud_probe_interval: avoid using current->nsproxy")
+d1e462a7a5f3 ("sctp: add probe_interval in sysctl and sock/asoc/transport")
+046c052b475e ("sctp: enable udp tunneling socks")
+e8a3001c2120 ("sctp: add encap_port for netns sock asoc and transport")
+965ae44412f8 ("sctp: create udp4 sock and add its encap_rcv")
