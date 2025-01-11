@@ -1,0 +1,5 @@
+68e449d849fd ("sched_ext: switch class when preempted by higher priority scheduler")
+f422316d7466 ("sched_ext: Remove switch_class_scx()")
+65aaf90569ff ("sched_ext: Relocate functions in kernel/sched/ext.c")
+72763ea3d45c ("sched_ext: Fix unsafe list iteration in process_ddsp_deferred_locals()")
+5b26f7b920f7 ("sched_ext: Allow SCX_DSQ_LOCAL_ON for direct dispatches")
