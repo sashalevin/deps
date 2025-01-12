@@ -1,0 +1,4 @@
+e96d8b80afd3 ("KVM: arm64: Only apply PMCR_EL0.P to the guest range of counters")
+9a1c58cfefb0 ("KVM: arm64: nv: Adjust range of accessible PMCs according to HPMN")
+a3034dab74fc ("KVM: arm64: Rename kvm_pmu_valid_counter_mask()")
+336afe0c832d ("KVM: arm64: nv: Describe trap behaviour of MDCR_EL2.HPMN")

@@ -1,0 +1,8 @@
+55f4db79c4d9 ("KVM: e500: perform hugepage check after looking up the PFN")
+03b755b2aa48 ("KVM: e500: map readonly host pages for read")
+f2104bf22f04 ("KVM: e500: track host-writability of pages")
+e97fbb43fb1b ("KVM: e500: use shadow TLB entry as witness for writability")
+87ecfdbc699c ("KVM: e500: always restore irqs")
+419cfb983ca9 ("KVM: PPC: e500: Use __kvm_faultin_pfn() to handle page faults")
+84cf78dcd9d6 ("KVM: PPC: e500: Mark "struct page" pfn accessed before dropping mmu_lock")
+c9be85dabb37 ("KVM: PPC: e500: Mark "struct page" dirty in kvmppc_e500_shadow_map()")
