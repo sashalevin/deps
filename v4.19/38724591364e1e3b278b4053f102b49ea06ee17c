@@ -1,0 +1,6 @@
+38724591364e ("iio: adc: rockchip_saradc: fix information leak in triggered buffer")
+bb690935df8d ("iio: adc: rockchip_saradc: do not use internal iio_dev lock")
+cabd6e9cf22d ("iio: adc: rockchip_saradc: add voltage notifier so get referenced voltage once at probe")
+4e130dc7b413 ("iio: adc: rockchip_saradc: Add support iio buffers")
+71eb7c855bd0 ("iio: adc: rockchip_saradc: better prefix for channel constant")
+d0389d4ed3c5 ("iio: adc: rockchip_saradc: move all of probe to devm-functions")
