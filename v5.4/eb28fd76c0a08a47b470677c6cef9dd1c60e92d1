@@ -1,0 +1,5 @@
+eb28fd76c0a0 ("gtp: Destroy device along with udp socket's netns dismantle.")
+46841c7053e6 ("gtp: Use for_each_netdev_rcu() in gtp_genl_dump_pdp().")
+6eedda01b2bf ("gtp: use exit_batch_rtnl() method")
+94dc550a5062 ("gtp: fix an use-after-free in ipv4_pdp_find()")
+94a6d9fb88df ("gtp: fix wrong condition in gtp_genl_dump_pdp()")

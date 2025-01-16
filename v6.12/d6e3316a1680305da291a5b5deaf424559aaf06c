@@ -1,0 +1,4 @@
+d6e3316a1680 ("net: pcs: xpcs: actively unset DW_VR_MII_DIG_CTRL1_2G5_EN for 1G SGMII")
+5c71729ab92c ("net: pcs: xpcs: fix DW_VR_MII_DIG_CTRL1_2G5_EN bit being set for 1G SGMII w/o inband")
+ce8d6081fcf4 ("net: pcs: xpcs: add _modify() accessors")
+f68189181061 ("net: pcs: xpcs: use FIELD_PREP() and FIELD_GET()")

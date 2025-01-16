@@ -1,0 +1,8 @@
+9e2bbab94b88 ("net/ncsi: fix locking in Get MAC Address handling")
+b8291cf3d118 ("net/ncsi: Add NC-SI 1.2 Get MC MAC Address command")
+c797ce168930 ("net/ncsi: Simplify Kconfig/dts control flow")
+790071347a0a ("net/ncsi: change from ndo_set_mac_address to dev_set_mac_address")
+74b449b98dcc ("net/ncsi: make one oem_gma function for all mfr id")
+205b95fe658d ("net/ncsi: add get MAC address command to get Intel i210 MAC address")
+163f5de509a8 ("net/ncsi: add dummy response handler for Intel boards")
+abd2fddc94a6 ("net/ncsi: add NCSI Intel OEM command to keep PHY up")

@@ -1,0 +1,5 @@
+1f691a1fc4be ("r8169: remove redundant hwmon support")
+1ffcc8d41306 ("r8169: add support for the temperature sensor being available from RTL8125B")
+cf2ffdea0839 ("r8169: revert 2ab19de62d67 ("r8169: remove ASPM restrictions now that ASPM is disabled during NAPI poll")")
+162d626f3013 ("r8169: fix ASPM-related problem for chip version 42 and 43")
+2ab19de62d67 ("r8169: remove ASPM restrictions now that ASPM is disabled during NAPI poll")
