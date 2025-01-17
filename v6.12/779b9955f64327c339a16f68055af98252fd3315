@@ -1,0 +1,6 @@
+779b9955f643 ("mm: zswap: move allocations during CPU init outside the lock")
+12dcb0ef5406 ("mm: zswap: properly synchronize freeing resources during CPU hotunplug")
+ed882add6ded ("mm: zswap: zswap_store_page() will initialize entry after adding to xarray.")
+b7c0ccdfbafd ("mm: zswap: support large folios in zswap_store()")
+6e1fa555ec77 ("mm: zswap: modify zswap_stored_pages to be atomic_long_t")
+3d0f560a367e ("mm: zswap: modify zswap_compress() to accept a page instead of a folio")
