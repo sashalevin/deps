@@ -1,0 +1,6 @@
+e2c68cea431d ("hwmon: (tmp513) Fix division of negative numbers")
+da1d0e6ba211 ("hwmon: (tmp513) Fix Current Register value interpretation")
+74d7e038fd07 ("hwmon: (tmp513) Fix interpretation of values of Shunt Voltage and Limit Registers")
+f07f9d2467f4 ("hwmon: (tmp513) Use SI constants from units.h")
+df989762bc4b ("hwmon: (tmp513) Simplify with dev_err_probe()")
+5d9ad4e0fa7c ("hwmon: (tmp513) Don't use "proxy" headers")
