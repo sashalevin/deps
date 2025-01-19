@@ -1,0 +1,4 @@
+9322d1915f9d ("irqchip: Plug a OF node reference leak in platform_irqchip_probe()")
+6caa5a2b78f5 ("irqchip: Fix refcount leak in platform_irqchip_probe")
+7828a3ef8646 ("irqchip: Fix probing deferal when using IRQCHIP_PLATFORM_DRIVER helpers")
+f8410e626569 ("irqchip: Add IRQCHIP_PLATFORM_DRIVER_BEGIN/END and IRQCHIP_MATCH helper macros")

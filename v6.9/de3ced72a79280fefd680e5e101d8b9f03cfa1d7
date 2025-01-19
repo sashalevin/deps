@@ -1,0 +1,8 @@
+de3ced72a792 ("timers/migration: Enforce group initialization visibility to tree walkers")
+b729cc1ec21a ("timers/migration: Fix another race between hotplug and idle entry/exit")
+835a9a67f54f ("timers/migration: Rename childmask by groupmask to make naming more obvious")
+d47be5898442 ("timers/migration: Read childmask and parent pointer in a single place")
+3ba111032bc1 ("timers/migration: Use a single struct for hierarchy walk data")
+92506741521f ("timers/migration: Improve tracing")
+10a0e6f3d3db ("timers/migration: Move hierarchy setup into cpuhotplug prepare callback")
+facd40aa5c46 ("timers/migration: Do not rely always on group->parent")
