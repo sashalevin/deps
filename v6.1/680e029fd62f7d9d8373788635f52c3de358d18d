@@ -1,0 +1,7 @@
+680e029fd62f ("proc/kcore: don't walk list on every read")
+4c91c07c93bb ("mm: vmalloc: convert vread() to vread_iter()")
+46c0d6d0904a ("fs/proc/kcore: convert read_kcore() to read_kcore_iter()")
+2e1c0170771e ("fs/proc/kcore: avoid bounce buffer for ktext data")
+30a7a9b17c4b ("mm/vmalloc: skip the uninitilized vmalloc areas")
+06c8994626d1 ("mm/vmalloc.c: allow vread() to read out vm_map_ram areas")
+e025ab842ec3 ("mm: remove kern_addr_valid() completely")

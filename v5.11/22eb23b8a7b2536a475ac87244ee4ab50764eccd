@@ -1,0 +1,7 @@
+22eb23b8a7b2 ("fs: remove useless lockdep assertion")
+e7c8dde36818 ("fs: simplify rwlock to spinlock")
+5dcbd85d3551 ("fs: lockless mntns rbtree lookup")
+1901c92497bd ("fs: keep an index of current mount namespaces")
+2eea9ce4310d ("mounts: keep list of mounts in an rbtree")
+124f75f864f3 ("clean overflow checks in count_mounts() a bit")
+d033cb6784c4 ("mount: make {lock,unlock}_mount_hash() static")

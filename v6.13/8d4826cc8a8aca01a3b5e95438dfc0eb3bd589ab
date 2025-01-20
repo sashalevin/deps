@@ -1,0 +1,7 @@
+8d4826cc8a8a ("vsnprintf: collapse the number format state into one single state")
+614d13462dae ("vsprintf: deal with format specifiers with a lookup table")
+312f48b2e27f ("vsprintf: deal with format flags with a simple lookup table")
+938df695e98d ("vsprintf: associate the format state with the format pointer")
+9e0e6d8a3268 ("vsprintf: fix calling convention for format_decode()")
+03d23941bf03 ("vsprintf: avoid nested switch statement on same variable")
+be503db4d0f2 ("vsprintf: simplify number handling")

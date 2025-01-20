@@ -1,0 +1,5 @@
+6ebb05b48e9c ("fhandle: pull CAP_DAC_READ_SEARCH check into may_decode_fh()")
+620c266f3949 ("fhandle: relax open_by_handle_at() permission checks")
+304e9c83e80d ("exportfs: add explicit flag to request non-decodeable file handles")
+b52878275ce5 ("exportfs: change connectable argument to bit flags")
+572c28f27a26 ("fanotify: WARN_ON against too large file handles")

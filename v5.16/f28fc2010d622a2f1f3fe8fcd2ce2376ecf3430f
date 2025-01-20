@@ -1,0 +1,6 @@
+f28fc2010d62 ("afs: Eliminate afs_read")
+31fc366aa7aa ("netfs: Drop the was_async arg from netfs_read_subreq_terminated()")
+360157829ee3 ("netfs: Drop the error arg from netfs_read_subreq_terminated()")
+4acb665cf4f3 ("netfs: Work around recursion by abandoning retry if nothing read")
+dc1a456dc187 ("cifs: Fix cifs readv callback merge resolution issue")
+35219bc5c71f ("Merge tag 'vfs-6.12.netfs' of git://git.kernel.org/pub/scm/linux/kernel/git/vfs/vfs")

@@ -1,0 +1,6 @@
+9b7da575f859 ("file: flush delayed work in delayed fput()")
+81132a39c152 ("fs: remove fget_many and fput_many interface")
+e386dfc56f83 ("fget: clarify and improve __fget_files() implementation")
+054aa8d439b9 ("fget: check that the fd still exists after getting a ref to it")
+f36c29432741 ("file: Replace fcheck_files with files_lookup_fd_rcu")
+120ce2b0cd52 ("file: Factor files_lookup_fd_locked out of fcheck_files")

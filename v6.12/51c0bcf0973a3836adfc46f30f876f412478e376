@@ -1,0 +1,8 @@
+51c0bcf0973a ("tree-wide: s/revert_creds_light()/revert_creds()/g")
+f905e00904cc ("tree-wide: s/revert_creds()/put_cred(revert_creds_light())/g")
+95c54bc81791 ("cred: return old creds from revert_creds_light()")
+c5b28fc161c5 ("ovl: Optimize override/revert creds")
+711747e204ea ("ovl: pass an explicit reference of creators creds to callers")
+fc5a1d2287bf ("ovl: use wrapper ovl_revert_creds()")
+49dffdfde462 ("cred: Add a light version of override/revert_creds()")
+48b50624aec4 ("backing-file: clean up the API")

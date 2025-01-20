@@ -1,0 +1,8 @@
+e61bfaad8fd8 ("netfs: Add functions to build/clean a buffer in a folio_queue")
+06fa229ceb36 ("netfs: Abstract out a rolling folio buffer implementation")
+aabcabf27460 ("netfs: Add a tracepoint to log the lifespan of folio_queue structs")
+eb1181594417 ("netfs: Use a folio_queue allocation and free functions")
+d3d3ec865680 ("netfs: Clean up some whitespace in trace header")
+796a4049640b ("netfs: In readahead, put the folio refs as soon extracted")
+f6023535b52f ("netfs: Fix a KMSAN uninit-value error in netfs_clear_buffer")
+a5f24c795513 ("Merge tag 'vfs-6.12-rc2.fixes' of git://git.kernel.org/pub/scm/linux/kernel/git/vfs/vfs")

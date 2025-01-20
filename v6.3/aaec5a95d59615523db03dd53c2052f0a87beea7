@@ -1,0 +1,3 @@
+aaec5a95d596 ("pipe_read: don't wake up the writer if the pipe is still full")
+85f273a6a1e4 ("fs/pipe: Convert to lockdep_cmp_fn")
+478dbf121767 ("fs/pipe: use spinlock in pipe_read() only if there is a watch_queue")

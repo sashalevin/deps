@@ -1,0 +1,7 @@
+3c49e529e1c6 ("afs: Add a tracepoint for afs_read_receive()")
+eddf51f2bb2c ("afs: Make {Y,}FS.FetchData an asynchronous operation")
+9750be93b2be ("afs: Fix cleanup of immediately failed async calls")
+f28fc2010d62 ("afs: Eliminate afs_read")
+31fc366aa7aa ("netfs: Drop the was_async arg from netfs_read_subreq_terminated()")
+360157829ee3 ("netfs: Drop the error arg from netfs_read_subreq_terminated()")
+4acb665cf4f3 ("netfs: Work around recursion by abandoning retry if nothing read")
