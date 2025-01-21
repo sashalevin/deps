@@ -1,0 +1,5 @@
+8f70caad82e9 ("powerpc/pseries/iommu: IOMMU incorrectly marks MMIO range in DDW")
+f431a8cde7f1 ("powerpc/iommu: Reimplement the iommu_table_group_ops for pSeries")
+b09c031d9433 ("powerpc/iommu: Move pSeries specific functions to pseries/iommu.c")
+ff5163bb7000 ("powerpc/pseries/iommu: Split Dynamic DMA Window to be used in Hybrid mode")
+d2d00e15808c ("powerpc: iommu: Bring back table group release_ownership() call")
