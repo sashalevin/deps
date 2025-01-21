@@ -1,0 +1,5 @@
+debe6965ac47 ("bcachefs: check for backpointers to invalid device")
+3d0b3b51c5ab ("bcachefs: Don't BUG_ON() when superblock feature wasn't set for compressed data")
+e1702b989151 ("bcachefs: Don't use a shared decompress workspace mempool")
+6a4ce7a92fcc ("bcachefs: compression workspaces should be indexed by opt, not type")
+ed13bb5726ee ("bcachefs: bch2_prt_csum_opt()")

@@ -1,0 +1,5 @@
+2cd85fea49d8 ("bcachefs: Don't recurse in check_discard_freespace_key")
+f9e0a9be70c8 ("bcachefs: Issue a transaction restart after commit in repair")
+c97118f1dc50 ("bcachefs: try_alloc_bucket() now uses bch2_check_discard_freespace_key()")
+731d06e138b0 ("bcachefs: rework bch2_bucket_alloc_freelist() freelist iteration")
+7d1918b0d86d ("bcachefs: bch2_btree_bit_mod_iter()")
