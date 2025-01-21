@@ -1,0 +1,8 @@
+ce9464081d51 ("io_uring/msg_ring: Drop custom destructor")
+a377132154ab ("io_uring/msg_ring: add support for sending a sync message")
+7cc2a6eadcd7 ("io_uring: add IORING_REGISTER_COPY_BUFFERS method")
+0b6d253e084a ("io_uring/register: provide helper to get io_ring_ctx from 'fd'")
+2b8e976b9842 ("io_uring: user registered clockid for wait timeouts")
+d29cb3726f03 ("io_uring: add absolute mode wait timeouts")
+d5cce407e4f5 ("io_uring/napi: postpone napi timeout adjustment")
+489b80060cf6 ("io_uring/napi: refactor __io_napi_busy_loop()")

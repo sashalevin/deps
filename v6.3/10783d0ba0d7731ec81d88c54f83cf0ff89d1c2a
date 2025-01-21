@@ -1,0 +1,5 @@
+10783d0ba0d7 ("fs, iov_iter: define meta io descriptor")
+747b1f65d39a ("iov_iter: overlay struct iovec and ubuf/len")
+95e49cf8373a ("iov_iter: add iter_iov_addr() and iter_iov_len() helpers")
+de4f5fed3f23 ("iov_iter: add iter_iovec() helper")
+0a2481cde24f ("block: ensure bio_alloc_map_data() deals with ITER_UBUF correctly")

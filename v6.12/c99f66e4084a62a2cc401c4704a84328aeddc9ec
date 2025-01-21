@@ -1,0 +1,6 @@
+c99f66e4084a ("block: fix queue freeze vs limits lock order in sysfs store methods")
+a16230649ce2 ("block: add a store_limit operations for sysfs entries")
+2a8f6153e1c2 ("block: pre-calculate max_zone_append_sectors")
+110234da18ab ("block: enable passthrough command statistics")
+d51c9cdfc214 ("block: return void from the queue_sysfs_entry load_module method")
+8933805623fa ("block: move iostat check into blk_acount_io_start()")

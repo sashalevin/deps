@@ -1,0 +1,7 @@
+cbac56e5237d ("blk-zoned: Document locking assumptions")
+7b295187287e ("block: Do not remove zone write plugs still in use")
+79ae35a4233d ("block: Unhash a zone write plug only if needed")
+dd291d77cc90 ("block: Introduce zone write plugging")
+ecfe43b11b02 ("block: Remember zone capacity when revalidating zones")
+a0508c36efa8 ("block: Introduce blk_zone_update_request_bio()")
+c0da26f950a3 ("block: Remove req_bio_endio()")

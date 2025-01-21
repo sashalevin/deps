@@ -1,0 +1,6 @@
+2a51c327d4a4 ("io_uring/rsrc: simplify the bvec iter count calculation")
+c91979006023 ("io_uring/rsrc: don't assign bvec twice in io_import_fixed()")
+8b0c6025a02d ("io_uring/rsrc: get rid of io_mapped_ubuf->folio_mask")
+bfc0aa7a512f ("io_uring/rsrc: add reference count to struct io_mapped_ubuf")
+a8edbb424b13 ("io_uring/rsrc: enable multi-hugepage buffer coalescing")
+3d6106aee473 ("io_uring/rsrc: store folio shift and mask into imu")

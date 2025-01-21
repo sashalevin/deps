@@ -1,0 +1,6 @@
+a90558b36cce ("io_uring/memmap: helper for pinning region pages")
+c4d0ac1c1567 ("io_uring/memmap: optimise single folio regions")
+226ae1b4d111 ("io_uring/memmap: reuse io_free_region for failure path")
+fc5f22a64649 ("io_uring/memmap: account memory before pinning")
+16375af32d0f ("io_uring/memmap: flag regions with user pages")
+a730d2047d4e ("io_uring/memmap: flag vmap'ed regions")

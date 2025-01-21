@@ -1,0 +1,4 @@
+ae074d07a0e5 ("loop: move updating lo_flags out of loop_set_status_from_info")
+b9684a71fca7 ("block, loop: support partitions without scanning")
+a0e286b6a5b6 ("loop: remove lo_refcount and avoid lo_mutex in ->open / ->release")
+98ded54a3383 ("loop: remove the racy bd_inode->i_mapping->nrpages asserts")

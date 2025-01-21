@@ -1,0 +1,6 @@
+8cae8e0afb2f ("s390/bitops: Switch to generic bitops")
+12010aa89f87 ("s390: implement arch_xor_unlock_is_negative_byte")
+d6ffe6067a54 ("provide arch_test_bit_acquire for architectures that define test_bit")
+0e862838f290 ("bitops: unify non-atomic bitops prototypes across architectures")
+21bb8af513d3 ("bitops: always define asm-generic non-atomic bitops")
+acb13ea0baf8 ("asm-generic/bitops: Always inline all bit manipulation helpers")

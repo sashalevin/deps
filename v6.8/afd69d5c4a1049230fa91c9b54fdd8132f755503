@@ -1,0 +1,8 @@
+afd69d5c4a10 ("loop: remove the use_dio field in struct loop_device")
+0cd719aa63de ("loop: don't freeze the queue in loop_update_dio")
+3a693110afd7 ("loop: allow loop_set_status to re-enable direct I/O")
+dc909525daec ("loop: open code the direct I/O flag update in loop_set_dio")
+09ccf5549d78 ("loop: only write back pagecache when starting to to use direct I/O")
+781fc49a0e5c ("loop: create a lo_can_use_dio helper")
+4155adb01e74 ("loop: update commands in loop_set_status still referring to transfers")
+667ea36378cf ("loop: don't set QUEUE_FLAG_NOMERGES")

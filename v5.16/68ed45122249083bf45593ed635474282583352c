@@ -1,0 +1,8 @@
+68ed45122249 ("block: remove blk_mq_init_bitmaps")
+bebe84ebeec4 ("blk-mq: remove blk-mq-tag.h")
+ee78ec1077d3 ("blk-mq: blk_mq_tag_busy is no need to return a value")
+180dccb0dba4 ("blk-mq: fix tag_get wait task can't be awakened")
+fc39f8d2d1c1 ("blk-mq: Delete busy_iter_fn")
+8ab30a331946 ("blk-mq: Drop busy_iter_fn blk_mq_hw_ctx argument")
+2aa7745bf6db ("block: don't include blk-mq-sched.h in blk.h")
+d9337a420aed ("block: don't include blk-mq headers in blk-core.c")

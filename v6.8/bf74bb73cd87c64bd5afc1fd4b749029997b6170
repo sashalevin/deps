@@ -1,0 +1,5 @@
+bf74bb73cd87 ("arm64/mm: Reduce PA space to 48 bits when LPA2 is not enabled")
+4abc783e4741 ("arm64: Add missing APTable and TCR_ELx.HPD masks")
+6ccc971ee2c6 ("KVM: arm64: nv: Add emulation for ERETAx instructions")
+db95ea787bd1 ("arm64: mm: Wire up TCR.DS bit to PTE shareability fields")
+60d043c10176 ("arm64: Avoid #define'ing PTE_MAYBE_NG to 0x0 for asm use")

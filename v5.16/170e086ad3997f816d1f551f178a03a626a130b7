@@ -1,0 +1,6 @@
+170e086ad399 ("nvme: fix bogus kzalloc() return check in nvme_init_effects_log()")
+d4a95adeabc6 ("nvme: Add error path for xa_store in nvme_init_effects")
+cc115cbe12d9 ("nvme: always initialize known command effects")
+85eee6341abb ("nvme: fix passthrough csi check")
+831ed60c2aca ("nvme: also return I/O command effects from nvme_command_effects")
+6f2d71524bcf ("nvme initialize core quirks before calling nvme_init_subsystem")

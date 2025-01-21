@@ -1,0 +1,4 @@
+09ccf5549d78 ("loop: only write back pagecache when starting to to use direct I/O")
+781fc49a0e5c ("loop: create a lo_can_use_dio helper")
+baa7d536077d ("loop: fix the the direct I/O support check when used on top of block devices")
+a2ad63daa88b ("VFS: add FMODE_CAN_ODIRECT file flag")

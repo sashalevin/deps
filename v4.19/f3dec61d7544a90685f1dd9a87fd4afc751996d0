@@ -1,0 +1,7 @@
+f3dec61d7544 ("nbd: fix queue freeze vs limits lock order")
+268283244c0f ("nbd: use the atomic queue limits API in nbd_set_size")
+242a49e5c878 ("nbd: freeze the queue for queue limits updates")
+7ea201f2cc1d ("nbd: don't clear discard_sectors in nbd_config_put")
+1e2ab2e8a98c ("nbd: use the default discard granularity")
+3f89ac587baa ("block/drivers: remove dead clear of random flag")
+3822a7c40997 ("Merge tag 'mm-stable-2023-02-20-13-37' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")
