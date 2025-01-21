@@ -1,0 +1,6 @@
+fbd7a5a0359b ("rust: sync: Add lock::Backend::assert_is_held()")
+daa03fe50ec3 ("rust: sync: Make Guard::new() public")
+f4c2c90bb7b4 ("rust: lock: add trylock method support for lock backend")
+d065cc76054d ("rust: mutex: fix __mutex_init() usage in case of PREEMPT_RT")
+e26fa546042a ("rust: kbuild: auto generate helper exports")
+876346536c1b ("rust: kbuild: split up helpers.c")

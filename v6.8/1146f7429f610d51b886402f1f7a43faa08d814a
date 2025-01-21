@@ -1,0 +1,5 @@
+1146f7429f61 ("Documentation/kernel-parameters: Fix a typo in kvm.enable_virt_at_load text")
+b4886fab6fb6 ("KVM: Add a module param to allow enabling virtualization when KVM is loaded")
+70c0194337d3 ("KVM: Rename symbols related to enabling virtualization hardware")
+9a798b1337af ("KVM: Register cpuhp and syscore callbacks when enabling hardware")
+44d174596260 ("KVM: Use dedicated mutex to protect kvm_usage_count to avoid deadlock")

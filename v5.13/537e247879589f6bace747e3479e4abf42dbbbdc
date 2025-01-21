@@ -1,0 +1,7 @@
+537e24787958 ("x86/topology: Remove x86_smt_flags and use cpu_smt_flags directly")
+8f2d6c41e5a6 ("x86/sched: Rewrite topology setup")
+044f0e27dec6 ("x86/sched: Add the SD_ASYM_PACKING flag to the die domain of hybrid processors")
+995998ebdebd ("x86/sched: Remove SD_ASYM_PACKING from the SMT domain flags")
+cabdc3a8475b ("sched,x86: Don't use cluster topology for x86 hybrid CPUs")
+66558b730f25 ("sched: Add cluster scheduler level for x86")
+9164d9493a79 ("x86/cpu: Add get_llc_id() helper function")

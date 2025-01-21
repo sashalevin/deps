@@ -1,0 +1,3 @@
+7d9da040575b ("psi: Fix race when task wakes up before psi_sched_switch() adjusts flags")
+1a6151017ee5 ("sched: psi: pass enqueue/dequeue flags to psi callbacks directly")
+7b3d61f6578a ("sched: Split out __schedule() deactivate task logic into a helper")

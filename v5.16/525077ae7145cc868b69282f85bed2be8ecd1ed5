@@ -1,0 +1,5 @@
+525077ae7145 ("x86/ioremap: Remove unused size parameter in remapping functions")
+095ac6fa1950 ("x86/ioremap: Simplify setup_data mapping variants")
+8d9ffb2fe65a ("x86/mm: Fix a kdump kernel failure on SME system when CONFIG_IMA_KEXEC=y")
+445c1470b6ef ("x86/boot: Add setup_indirect support in early_memremap_is_setup_data()")
+7228918b3461 ("x86/boot: Fix memremap of setup_indirect structures")

@@ -1,0 +1,4 @@
+2f2db347071a ("perf/x86/rapl: Remove the unused get_rapl_pmu_cpumask() function")
+8d72eba1cf8c ("perf/x86/rapl: Fix the energy-pkg event for AMD CPUs")
+626c5acf39ba ("perf/x86/rapl: Rename 'maxdie' to nr_rapl_pmu and 'dieid' to rapl_pmu_idx")
+dfbc411e0a5e ("perf/x86/rapl: Prefer struct_size() over open coded arithmetic")

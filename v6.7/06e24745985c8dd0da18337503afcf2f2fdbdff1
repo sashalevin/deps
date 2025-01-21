@@ -1,0 +1,8 @@
+06e24745985c ("objtool: Remove annotate_{,un}reachable()")
+c837de381098 ("unreachable: Unify")
+c5b1184decc8 ("compiler.h: specify correct attribute for .rodata..c_jump_table")
+f2f6a8e88717 ("init/Kconfig: remove CONFIG_GCC_ASM_GOTO_OUTPUT_WORKAROUND")
+cb8a2ef0848c ("LoongArch: Add ORC stack unwinder support")
+d5ab2bc36c6b ("objtool: Check local label in add_dead_ends()")
+5056c596c3d1 ("LoongArch/smp: Call rcutree_report_cpu_starting() at tlb_init()")
+90868ff9cade ("LoongArch: Enable initial Rust support")

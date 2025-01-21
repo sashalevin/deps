@@ -1,0 +1,6 @@
+8061b9f5e111 ("sched/debug: Change need_resched warnings to pr_err")
+c006fac556e4 ("sched: Warn on long periods of pending need_resched")
+0c2de3f054a5 ("sched,fair: Alternative sched_slice()")
+8a99b6833c88 ("sched: Move SCHED_DEBUG sysctl to debugfs")
+1d1c2509de44 ("sched: Remove sched_schedstats sysctl out from under SCHED_DEBUG")
+b7cc6ec744b3 ("sched/numa: Allow runtime enabling/disabling of NUMA balance without SCHED_DEBUG")

@@ -1,0 +1,8 @@
+02c56362a7d3 ("uprobes: Guard against kmemdup() failing in dup_return_instance()")
+2ff913ab3f47 ("uprobes: Simplify session consumer tracking")
+dd1a7567784e ("uprobes: SRCU-protect uretprobe lifetime (with timeout)")
+2bf8e5aceff8 ("uprobes: allow put_uprobe() from non-sleepable softirq context")
+4d756095d399 ("uprobe: Add support for session consumer")
+da09a9e0c3ea ("uprobe: Add data pointer to consumer handlers")
+b302d5a6fff5 ("uprobes: don't abuse get_utask() in pre_ssout() and prepare_uretprobe()")
+87195a1ee332 ("uprobes: switch to RCU Tasks Trace flavor for better performance")

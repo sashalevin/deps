@@ -1,0 +1,5 @@
+a76328d44c7a ("sched/fair: Remove CONFIG_CFS_BANDWIDTH=n definition of cfs_bandwidth_used()")
+e8f331bcc270 ("sched/smp: Use lag to simplify cross-runqueue placement")
+86bfbb7ce4f6 ("sched/fair: Add lag based placement")
+e0c2ff903c32 ("sched/fair: Remove sched_feat(START_DEBIT)")
+af4cf40470c2 ("sched/fair: Add cfs_rq::avg_vruntime")
