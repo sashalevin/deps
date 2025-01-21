@@ -1,0 +1,8 @@
+38cc6495cdec ("x86/sev: Prevent GUEST_TSC_FREQ MSR interception for Secure TSC enabled guests")
+0f0502b8865c ("x86/sev: Change TSC MSR behavior for Secure TSC enabled guests")
+8bca85cc1eb7 ("x86/sev: Cleanup vc_handle_msr()")
+1beb348d5c7f ("x86/sev: Provide SVSM discovery support")
+34ff65901735 ("x86/sev: Use kernel provided SVSM Calling Areas")
+878e70dbd26e ("x86/sev: Check for the presence of an SVSM in the SNP secrets page")
+e2f4c8c319ab ("x86/sev: Make the VMPL0 checking more straight forward")
+88ed43d32beb ("x86/sev: Rename snp_init() in boot/compressed/sev.c")

@@ -1,0 +1,6 @@
+73bbf3b0fbba ("x86/tsc: Init the TSC for Secure TSC guests")
+85b60ca9ad2c ("x86/sev: Add Secure TSC support for SNP guests")
+1e0b23b5d2d1 ("x86/sev: Relocate SNP guest messaging routines to common code")
+c5529418d050 ("x86/sev: Carve out and export SNP guest messaging init routines")
+864884a0c29c ("virt: sev-guest: Replace GFP_KERNEL_ACCOUNT with GFP_KERNEL")
+8234177d2027 ("virt: sev-guest: Remove is_vmpck_empty() helper")

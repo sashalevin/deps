@@ -1,0 +1,6 @@
+8ae3291f773b ("x86/sev: Add full support for a segmented RMP table")
+0f14af0d1d7d ("x86/sev: Treat the contiguous RMP table as a single RMP segment")
+ac517965a5a1 ("x86/sev: Map only the RMP table entries instead of the full RMP range")
+e2f3d40df82e ("x86/sev: Move the SNP probe routine out of the way")
+0cbc02584158 ("x86/sev: Add support for the RMPREAD instruction")
+3e43c60eb3e3 ("x86/sev: Prepare for using the RMPREAD instruction to access the RMP")

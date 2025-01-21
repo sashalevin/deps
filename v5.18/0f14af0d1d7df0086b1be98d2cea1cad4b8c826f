@@ -1,0 +1,8 @@
+0f14af0d1d7d ("x86/sev: Treat the contiguous RMP table as a single RMP segment")
+ac517965a5a1 ("x86/sev: Map only the RMP table entries instead of the full RMP range")
+e2f3d40df82e ("x86/sev: Move the SNP probe routine out of the way")
+3e43c60eb3e3 ("x86/sev: Prepare for using the RMPREAD instruction to access the RMP")
+0440feb09079 ("x86/sev: Do RMP memory coverage check after max_pfn has been set")
+400fea4b9651 ("x86/sev: Add callback to apply RMP table fixups for kexec")
+0ecaefb303de ("x86/CPU/AMD: Track SNP host status with cc_platform_*()")
+38b334fc767e ("Merge tag 'x86_sev_for_v6.9_rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")
