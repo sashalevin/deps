@@ -1,0 +1,8 @@
+1bb03ad383a7 ("rcu: Add lockdep_assert_irqs_disabled() to rcu_exp_need_qs()")
+ecc5e6b0d3c9 ("rcu: Add KCSAN exclusive-writer assertions for rdp->cpu_no_qs.b.exp")
+7a323371197b ("rcu: Make preemptible rcu_exp_handler() check idempotency")
+6ae4c30fee05 ("rcu: Replace open-coded rcu_exp_need_qs() from rcu_exp_handler() with call")
+e2bd168295e4 ("rcu: Move rcu_report_exp_rdp() setting of ->cpu_no_qs.b.exp under lock")
+d16e32f75f30 ("rcu: Make rcu_report_exp_cpu_mult() caller acquire lock")
+9621fbee44df ("rcu: Move expedited grace period (GP) work to RT kthread_worker")
+4d266c247d56 ("rcu/exp: Fix check for idle context in rcu_exp_handler")

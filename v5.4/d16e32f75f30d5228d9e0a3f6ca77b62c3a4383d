@@ -1,0 +1,5 @@
+d16e32f75f30 ("rcu: Make rcu_report_exp_cpu_mult() caller acquire lock")
+6120b72e25e1 ("rcu: Remove rcu_data.exp_deferred_qs and convert to rcu_data.cpu no_qs.b.exp")
+6e16b0f7bae3 ("rcu: Move rcu_data.cpu_no_qs.b.exp reset to rcu_export_exp_rdp()")
+c0f97f20e5d9 ("rcu: Move rcu_cpu_started per-CPU variable to rcu_data")
+0e247386d9ed ("Merge branches 'doc.2019.12.10a', 'exp.2019.12.09a', 'fixes.2020.01.24a', 'kfree_rcu.2020.01.24a', 'list.2020.01.10a', 'preempt.2020.01.24a' and 'torture.2019.12.09a' into HEAD")

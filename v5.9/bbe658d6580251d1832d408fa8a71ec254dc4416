@@ -1,0 +1,8 @@
+bbe658d65802 ("mm/slab: Move kvfree_rcu() into SLAB")
+c18bcd85cea7 ("rcu/kvfree: Adjust a shrinker name")
+ba5cac52d044 ("rcu/kvfree: Adjust names passed into trace functions")
+d824ed707ba2 ("rcu/kvfree: Move some functions under CONFIG_TINY_RCU")
+0f52b4db4f91 ("rcu/kvfree: Initialize kvfree_rcu() separately")
+a23da88c6c80 ("rcu/kvfree: Fix data-race in __mod_timer / kvfree_call_rcu")
+3c5d61ae919c ("rcu/kvfree: Refactor kvfree_rcu_queue_batch()")
+bdf56c7580d2 ("Merge tag 'slab-for-6.12' of git://git.kernel.org/pub/scm/linux/kernel/git/vbabka/slab")

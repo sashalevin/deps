@@ -1,0 +1,7 @@
+049dfe96baf9 ("rcu: Report callbacks enqueued on offline CPU blind spot")
+cf7066b97e27 ("rcu: Disable laziness if lazy-tracking says so")
+3cb278e73be5 ("rcu: Make call_rcu() lazy to save power")
+b8f7aca3f0e0 ("rcu: Fix missing nocb gp wake on rcu_barrier()")
+b50606f35f4b ("rcu: Fix late wakeup when flush of bypass cblist happens")
+910e12092eac ("rcu: Make synchronize_rcu() fast path update ->gp_seq counters")
+5f11bad6b722 ("rcu-tasks: Remove grace-period fast-path rcu-tasks helper")

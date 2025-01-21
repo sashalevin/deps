@@ -1,0 +1,3 @@
+d16e32f75f30 ("rcu: Make rcu_report_exp_cpu_mult() caller acquire lock")
+6120b72e25e1 ("rcu: Remove rcu_data.exp_deferred_qs and convert to rcu_data.cpu no_qs.b.exp")
+6e16b0f7bae3 ("rcu: Move rcu_data.cpu_no_qs.b.exp reset to rcu_export_exp_rdp()")
