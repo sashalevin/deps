@@ -1,0 +1,7 @@
+88555f703f78 ("drm/i915/display: add struct drm_device to struct intel_display conversion function")
+adceb416888d ("drm/i915/display: add intel_display_conversion.c to hide stuff better")
+6a2161a155f9 ("drm/i915: support struct device and pci_dev in to_intel_display()")
+cb2f92569a2b ("drm/i915/display: support struct intel_atomic_state in to_intel_display()")
+98ebb7cf94d2 ("drm/i915: add generic __to_intel_display()")
+8d7077f53e60 ("drm/i915/display: add generic to_intel_display() macro")
+439987f6f471 ("drm/xe: don't build debugfs files when CONFIG_DEBUG_FS=n")

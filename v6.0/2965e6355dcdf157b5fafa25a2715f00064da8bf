@@ -1,0 +1,5 @@
+2965e6355dcd ("drm/amd: Add Suspend/Hibernate notification callback support")
+ab66c832847f ("drm/amdgpu: trigger flr_work if reading pf2vf data failed")
+226db36032c6 ("drm/amd: Stop evicting resources on APUs in suspend")
+cb11ca3233aa ("drm/amd: Add concept of running prepare_suspend() sequence for IP blocks")
+5095d5418193 ("drm/amd: Evict resources during PM ops prepare() callback")

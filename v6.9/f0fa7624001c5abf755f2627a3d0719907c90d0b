@@ -1,0 +1,6 @@
+f0fa7624001c ("drm/i915/irq: emphasize display_irqs_enabled is only about VLV/CHV")
+1fbad9acb10c ("drm/i915/irq: hide display_irqs_enabled access")
+7ab8f42b8c4c ("drm/i915: add i9xx_display_irq_reset()")
+201008c44fd7 ("drm/i915: pass dev_priv explicitly to PORT_HOTPLUG_STAT")
+9aad73290686 ("drm/i915: move display_irqs_enabled to display substruct")
+53e8de10f213 ("drm/i915: move vblank_enabled to display substruct")

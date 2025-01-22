@@ -1,0 +1,5 @@
+3e10457f4fbb ("drm/i915/display: drop i915_drv.h include from intel_display_trace.h")
+dba8bed8b685 ("drm/i915/display: Fix out-of-bounds access in pipe-related tracepoints")
+a1cbdda8ec46 ("drm/i915/display: convert intel_atomic_plane.c to struct drm_gem_object")
+307fa415771f ("drm/i915/display: convert intel_display_trace.h to struct intel_display")
+138d2bda4eaf ("drm/i915/display: pass display to intel_crtc_for_pipe()")

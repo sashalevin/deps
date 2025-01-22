@@ -1,0 +1,8 @@
+5b68f2346dcf ("drm/i915/scaler: Clean up intel_atomic_setup_scalers() a bit")
+b5b4b5388302 ("drm/i915/scaler: Pass the whole atomic state into intel_atomic_setup_scalers()")
+e912069e61fa ("drm/i915/scaler: Remove redudant junk from skl_scaler.h")
+7488f64e89b0 ("drm/i915/scaler: s/intel_crtc/crtc/ etc.")
+1901e9a40af6 ("drm/i915: Remove ckey/format checks from skl_update_scaler_plane()")
+e81144106e21 ("drm/i915: Fix intel_atomic_setup_scalers() plane_state handling")
+8976b1824940 ("drm/i915: Relocate intel_atomic_setup_scalers()")
+8d4312e2b228 ("drm/i915/mtl: limit second scaler vertical scaling in ver >= 14")

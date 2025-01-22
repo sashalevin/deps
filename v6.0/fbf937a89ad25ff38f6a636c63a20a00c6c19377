@@ -1,0 +1,6 @@
+fbf937a89ad2 ("drm/msm/dsi: Add dsi phy support for SM6150")
+be4dacf4eee1 ("drm/msm/dsi: Reuse QCM2290 14nm DSI PHY configuration for SM6125")
+572e9fd6d14a ("drm/msm/dsi: Add phy configuration for QCM2290")
+d8810a669244 ("drm/msm/dsi: Take advantage of devm_regulator_bulk_get_const()")
+15cde7ea0778 ("drm/msm/dsi: Use the new regulator bulk feature to specify the load")
+0587e9aa0493 ("drm/msm/dsi: Don't set a load before disabling a regulator")

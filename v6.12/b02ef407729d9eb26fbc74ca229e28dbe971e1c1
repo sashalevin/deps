@@ -1,0 +1,6 @@
+b02ef407729d ("drm/amdgpu: add function to find all memory pages in one physical row")
+f44a30583bcf ("drm/amdgpu: add return value for convert_ras_err_addr")
+76723fbc5f86 ("drm/amdgpu: reduce memory usage for umc_lookup_bad_pages_in_a_row")
+4e7812e2372b ("drm/amdgpu: make convert_ras_err_addr visible outside UMC block")
+5c8baccc1e89 ("drm/amdgpu: remove redundant RAS error address coversion code")
+150f6c903069 ("drm/amdgpu: simplify RAS page retirement in one memory row")

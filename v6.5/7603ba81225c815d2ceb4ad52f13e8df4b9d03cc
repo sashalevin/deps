@@ -1,0 +1,8 @@
+7603ba81225c ("drm/i915/hdmi: add error handling in g4x_hdmi_init()")
+9543cc39db98 ("drm/i915/display: add I915 conditional build to g4x_hdmi.h")
+9856308c94ca ("drm/i915: Only populate aux_ch if really needed")
+d77721c118e7 ("drm/i915: Convert HSW/BDW to use port_mask for DDI probe")
+7b801dee5200 ("drm/i915: Init DDI outputs based on port_mask on skl+")
+39432640ca99 ("drm/i915: Beef up SDVO/HDMI port checks")
+679df6f19f1e ("drm/i915: Assert that the port being initialized is valid")
+7142ec2e9398 ("drm/i915: Remove bogus DDI-F from hsw/bdw output init")

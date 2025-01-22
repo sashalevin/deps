@@ -1,0 +1,6 @@
+089156e33d74 ("drm/i915/dmc_wl: Rename lnl_wl_range to powered_off_ranges")
+83329df1be0c ("drm/i915/dmc_wl: Extract intel_dmc_wl_reg_in_range()")
+1e15bc5bd766 ("drm/i915/dmc_wl: Use sentinel item for range tables")
+75f5405e7f68 ("drm/i915/dmc_wl: Use i915_mmio_reg_offset() instead of reg.reg")
+fe3b3ed7ff5e ("drm/i915/display: don't allow DMC wakelock on older hardware")
+765425f598c2 ("drm/i915/display: add support for DMC wakelocks")

@@ -1,0 +1,7 @@
+baad97ed29be ("drm/i915/display: Adjust Added Wake Time with PKG_C_LATENCY")
+9aa59753afb5 ("drm/i915/wm: Modify latency programmed into PKG_C_LATENCY")
+555a09d54e37 ("drm/i915/display: Refactor DPKGC code to call it from atomic_commit_tail")
+11c739218aa8 ("drm/i915/wm: Use intel_display structure in DPKGC code")
+d4e8379ba2aa ("drm/i915/wm: Refactor dpkgc value prepration")
+5105c803295e ("drm/i915/wm: Initialize max_latency variable to appropriate value")
+4da409ba6430 ("drm/i915/dpkgc: Add VRR condition for DPKGC Enablement")

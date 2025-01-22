@@ -1,0 +1,8 @@
+63b81a3a770f ("drm/i915/selftests: Implement frequency logging for energy reading validation")
+a36a47490d8e ("drm/i915/selftests: Only query RAPL for integrated power measurements")
+c43dd6b4144a ("drm/i915/selftests: Check power consumption at min/max frequencies")
+d4e3d455a12e ("drm/i915/selftests: Move gpu energy measurement into its own little lib")
+46495adc6ca7 ("drm/i915/selftests: Exercise basic RPS interrupt generation")
+032d992dcbef ("drm/i915/selftests: Measure the energy consumed while in RC6")
+13c5a577b342 ("drm/i915/gt: Select the deepest available parking mode for rc6")
+730eaeb52426 ("drm/i915/gt: Manual rc6 entry upon parking")
