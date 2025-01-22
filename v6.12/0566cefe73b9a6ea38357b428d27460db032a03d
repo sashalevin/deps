@@ -1,0 +1,5 @@
+0566cefe73b9 ("tracing/fprobe: Enable fprobe events with CONFIG_DYNAMIC_FTRACE_WITH_ARGS")
+46bc08238856 ("fprobe: Use ftrace_regs in fprobe entry handler")
+e4cf33ca4812 ("ftrace: Consolidate ftrace_regs accessor functions for archs using pt_regs")
+7888af4166d4 ("ftrace: Make ftrace_regs abstract from direct use")
+a370b72ec716 ("tracing: Add a comment about ftrace_regs definition")
