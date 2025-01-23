@@ -1,0 +1,8 @@
+b1089e0c8817 ("cpufreq/amd-pstate: Refactor amd_pstate_epp_reenable() and amd_pstate_epp_offline()")
+a6960e6b1b0e ("cpufreq/amd-pstate: Align offline flow of shared memory and MSR based systems")
+796ff50e127a ("cpufreq/amd-pstate: Call cppc_set_epp_perf in the reenable function")
+c9fdaba8369e ("cpufreq: amd-pstate: switch boot_cpu_has() to cpu_feature_enabled()")
+eb8b6c368202 ("cpufreq: amd-pstate: Add quirk for the pstate CPPC capabilities missing")
+5547c0ebfc2e ("cpufreq: amd-pstate: Unify computation of {max,min,nominal,lowest_nonlinear}_freq")
+e571a5e2068e ("cpufreq: amd-pstate: Update amd-pstate preferred core ranking dynamically")
+f3a052391822 ("cpufreq: amd-pstate: Enable amd-pstate preferred core support")

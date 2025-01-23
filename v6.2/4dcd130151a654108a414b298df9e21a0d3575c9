@@ -1,0 +1,8 @@
+4dcd130151a6 ("cpufreq/amd-pstate: Add trace event for EPP perf updates")
+b1089e0c8817 ("cpufreq/amd-pstate: Refactor amd_pstate_epp_reenable() and amd_pstate_epp_offline()")
+57a2b25e45cd ("cpufreq/amd-pstate: Move the invocation of amd_pstate_update_perf()")
+16c977f8177f ("cpufreq/amd-pstate: Convert the amd_pstate_get/set_epp() to static calls")
+a6960e6b1b0e ("cpufreq/amd-pstate: Align offline flow of shared memory and MSR based systems")
+796ff50e127a ("cpufreq/amd-pstate: Call cppc_set_epp_perf in the reenable function")
+1bfe6a54d2fd ("cpufreq/amd-pstate: Rename MSR and shared memory specific functions")
+9bcf30348f32 ("Merge tag 'amd-pstate-v6.12-2024-09-11' of ssh://gitolite.kernel.org/pub/scm/linux/kernel/git/superm1/linux")
