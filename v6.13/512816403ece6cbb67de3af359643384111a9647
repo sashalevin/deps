@@ -1,0 +1,4 @@
+512816403ece ("bpf: Allow bpf_for/bpf_repeat calls while holding a spinlock")
+c8e2ee1f3df0 ("bpf: Introduce support for bpf_local_irq_{save,restore}")
+769b0f1c8214 ("bpf: Refactor {acquire,release}_reference_state")
+1995edc5f908 ("bpf: Consolidate locks and reference state in verifier state")

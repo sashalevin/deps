@@ -1,0 +1,5 @@
+6e8ba494d87d ("kbuild/btf: Propagate CONFIG_WERROR to resolve_btfids")
+017dab341ee7 ("bpf: Check CONFIG_BPF option for resolve_btfids")
+c9a0f3b85e09 ("bpf: Resolve BTF IDs in vmlinux image")
+33a57ce0a54d ("bpf: Compile resolve_btfids tool at kernel compilation start")
+fa28dcb82a38 ("bpf: Introduce helper bpf_get_task_stack()")

@@ -1,0 +1,6 @@
+6d5e5e5d7ce1 ("libbpf: Extend linker API to support in-memory ELF files")
+b641712925bf ("libbpf: Pull file-opening logic up to top-level functions")
+e10500b69c3f ("libbpf: Fix segfault due to libelf functions not setting errno")
+4ce16ddd7105 ("libbpf: Stringify errno in log messages in the remaining code")
+74975e1303a3 ("libbpf: start v1.6 development cycle")
+0aed726cf6f9 ("libbpf: Support linking bpf objects of either endianness")

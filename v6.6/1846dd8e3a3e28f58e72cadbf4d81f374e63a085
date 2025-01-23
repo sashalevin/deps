@@ -1,0 +1,4 @@
+1846dd8e3a3e ("libbpf: Set MFD_NOEXEC_SEAL when creating memfd")
+ddb2ffdc474a ("libbpf: Define MFD_CLOEXEC if not available")
+9fa5e1a180aa ("libbpf: Call memfd_create() syscall directly")
+dac645b950ea ("libbpf: use stable map placeholder FDs")

@@ -1,0 +1,7 @@
+b641712925bf ("libbpf: Pull file-opening logic up to top-level functions")
+e10500b69c3f ("libbpf: Fix segfault due to libelf functions not setting errno")
+4ce16ddd7105 ("libbpf: Stringify errno in log messages in the remaining code")
+0aed726cf6f9 ("libbpf: Support linking bpf objects of either endianness")
+05f9cdd55d61 ("libbpf: Move feature detection code into its own file")
+d6dd1d49367a ("libbpf: Further decouple feature checking logic from bpf_object")
+ea4d587354eb ("libbpf: Split feature detectors definitions from cached results")
