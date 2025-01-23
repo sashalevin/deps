@@ -1,0 +1,5 @@
+2d20773aec14 ("mctp: no longer rely on net->dev_index_head[]")
+d51705614f66 ("mctp: Handle error of rtnl_register_module().")
+d4072058af4f ("mctp: Fix an error handling path in mctp_init()")
+8d783197f06d ("mctp: Fix warnings reported by clang-analyzer")
+dc121c008491 ("mctp: make __mctp_dev_get() take a refcount hold")

@@ -1,0 +1,8 @@
+2f1bb1e2cc00 ("dev: Remove devnet_rename_sem.")
+62e58ddb1465 ("net: add softirq safety to netdev_rename_lock")
+0840556e5a3a ("net: Protect dev->name by seqlock.")
+1c07dbb0cccf ("net: annotate data-races around dev->name_assign_type")
+dd891b5b106f ("net: do not send a MOVE event when netdev changes netns")
+311cca40661f ("net: fix ifname in netlink ntf during netns move")
+d0358c1a37db ("net: Remove unused declaration dev_restart()")
+bd039b5ea2a9 ("net/core: Allow live renaming when an interface is up")

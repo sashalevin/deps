@@ -1,0 +1,3 @@
+a239e0625097 ("net: Hold __rtnl_net_lock() in (un)?register_netdevice_notifier().")
+48b3a1379fc6 ("net: call call_netdevice_unregister_net_notifiers from unregister")
+afa0df599813 ("net: push loops and nb calls into helper functions")

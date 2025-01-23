@@ -1,0 +1,7 @@
+4d2ffc42f78c ("hwmon: (core) Avoid ifdef CONFIG_THERMAL in C source file")
+e5181331359d ("hwmon/drivers/core: Switch to new of thermal API")
+1b5f517cca36 ("hwmon: Handle failure to register sensor with thermal zone correctly")
+a5f6c0f85a09 ("hwmon: Support set_trips() of thermal device ops")
+1597b374af22 ("hwmon: Add notification support")
+44e3ad882bb2 ("hwmon: Reduce indentation level in __hwmon_device_register()")
+3bf8bdcf3bad ("hwmon: (core) Do not use device managed functions for memory allocations")

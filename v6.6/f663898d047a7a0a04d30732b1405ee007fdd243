@@ -1,0 +1,5 @@
+f663898d047a ("spi: atmel-quadspi: Factor out switching to Serial Memory Mode to function")
+5af42209a4d2 ("spi: atmel-quadspi: Add support for sama7g5 QSPI")
+c0a0203cf579 ("spi: atmel-quadspi: Create `atmel_qspi_ops` to support newer SoC families")
+162d9b5d2308 ("spi: atmel-quadspi: Fix wrong register value written to MR")
+329ca3eed4a9 ("spi: atmel-quadspi: Avoid overwriting delay register settings")

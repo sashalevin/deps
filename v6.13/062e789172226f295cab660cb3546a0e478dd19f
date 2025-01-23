@@ -1,0 +1,4 @@
+062e78917222 ("netdev-genl: remove rtnl_lock protection from NAPI ops")
+eeeec1d4c693 ("net: make netdev netlink ops hold netdev_lock()")
+2628f4958cd4 ("net: add helpers for lookup and walking netdevs under netdev_lock()")
+21520e74ba45 ("net: hide the definition of dev_get_by_napi_id()")

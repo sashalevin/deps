@@ -1,0 +1,3 @@
+2f1bb1e2cc00 ("dev: Remove devnet_rename_sem.")
+62e58ddb1465 ("net: add softirq safety to netdev_rename_lock")
+0840556e5a3a ("net: Protect dev->name by seqlock.")

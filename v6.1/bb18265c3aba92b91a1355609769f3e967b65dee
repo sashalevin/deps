@@ -1,0 +1,6 @@
+bb18265c3aba ("r8169: remove support for chip version 11")
+982300c115d2 ("r8169: remove detection of chip version 11 (early RTL8168b)")
+6994520a3328 ("r8169: disable interrupt source RxOverflow")
+eabb8a9be1e4 ("Revert "r8169: don't try to disable interrupts if NAPI is, scheduled already"")
+e31a9fedc7d8 ("Revert "r8169: disable ASPM during NAPI poll"")
+e1ed3e4d9111 ("r8169: disable ASPM during NAPI poll")

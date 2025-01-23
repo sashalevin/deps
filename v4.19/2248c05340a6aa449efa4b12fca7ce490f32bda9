@@ -1,0 +1,4 @@
+2248c05340a6 ("net: loopback: Hold rtnl_net_lock() in blackhole_netdev_init().")
+d62962b37ceb ("loopback: fix lockdep splat")
+4de83b88c66a ("loopback: create blackhole net device similar to loopack.")
+52bb6677d530 ("net: move definition of pcpu_lstats to header file")

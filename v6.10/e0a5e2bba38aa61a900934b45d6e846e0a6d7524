@@ -1,0 +1,7 @@
+e0a5e2bba38a ("net: pse-pd: Use power limit at driver side instead of current limit")
+675d0e3cacc3 ("net: pse-pd: Avoid setting max_uA in regulator constraints")
+cdc90f75387c ("pse-core: Conditionally set current limit during PI regulator registration")
+a87e699c9d33 ("net: pse-pd: pd692x0: Enhance with new current limit and voltage read callbacks")
+4a83abcef5f4 ("net: pse-pd: Add new power limit get and set c33 features")
+ae37dc574259 ("net: pse-pd: pd692x0: Expand ethtool status message")
+e46296002113 ("net: ethtool: pse-pd: Expand C33 PSE status with class, power and extended state")

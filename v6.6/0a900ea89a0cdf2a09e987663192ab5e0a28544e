@@ -1,0 +1,7 @@
+0a900ea89a0c ("net: stmmac: move priv->eee_enabled into stmmac_eee_init()")
+a3242177d9f2 ("net: stmmac: convert to use phy_eee_rx_clock_stop()")
+865ff410a071 ("net: stmmac: remove priv->tx_lpi_enabled")
+beb1e0148e6d ("net: stmmac: make EEE depend on phy->enable_tx_lpi")
+bba9f4765515 ("net: stmmac: use correct type for tx_lpi_timer")
+1991819debaa ("net: stmmac: move tx_lpi_timer tracking to phylib")
+0cb6daf549f9 ("net: stmmac: remove eee_enabled/eee_active in stmmac_ethtool_op_get_eee()")

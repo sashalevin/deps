@@ -1,0 +1,5 @@
+e22daca457d5 ("i2c: xiic: Add atomic transfer support")
+2ee409c6a12d ("i2c: xiic: Relocate xiic_i2c_runtime_suspend and xiic_i2c_runtime_resume to facilitate atomic mode")
+1d4a1adbed25 ("i2c: xiic: Try re-initialization on bus busy timeout")
+ee1691d0ae10 ("i2c: xiic: improve error message when transfer fails to start")
+d663d93bb47e ("i2c: xiic: xiic_xfer(): Fix runtime PM leak on error path")

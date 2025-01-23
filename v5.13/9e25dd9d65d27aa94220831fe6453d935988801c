@@ -1,0 +1,4 @@
+9e25dd9d65d2 ("xsk: allow attaching XSk pool via xdp_rxq_info_reg_mem_model()")
+e0ae713023a9 ("xdp: xdp_mem_allocator can be NULL in trace_mem_connect().")
+4a48ef70b93b ("xdp: Allow registering memory model without rxq reference")
+a78cae247681 ("xdp: Move the rxq_info.mem clearing to unreg_mem_model()")

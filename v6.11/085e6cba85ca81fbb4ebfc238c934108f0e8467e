@@ -1,0 +1,4 @@
+085e6cba85ca ("af_unix: Use consume_skb() in connect() and sendmsg().")
+d460b04bc452 ("af_unix: Clean up error paths in unix_stream_sendmsg().")
+e26ee0a736bd ("af_unix: Clean up error paths in unix_stream_connect().")
+34c899af6c1a ("af_unix: Set error only when needed in unix_stream_connect().")

@@ -1,0 +1,8 @@
+8a2b61e9e879 ("net: no longer assume RTNL is held in flush_all_backlogs()")
+372bbdd5bb3f ("net: Replace deprecated CPU-hotplug functions.")
+0cbe1e57a7b9 ("net: inline rollback_registered_many()")
+bcfe2f1a3818 ("net: move rollback_registered_many()")
+037e56bd965e ("net: inline rollback_registered()")
+2014beea7eb1 ("net: move net_set_todo inside rollback_registered()")
+766b0515d5be ("net: make sure devices go through netdev_wait_all_refs")
+2de79ee27fdb ("net: try to avoid unneeded backlog flush")

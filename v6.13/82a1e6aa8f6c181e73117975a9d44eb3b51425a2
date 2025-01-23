@@ -1,0 +1,5 @@
+82a1e6aa8f6c ("ipv6: Convert inet6_rtm_newaddr() to per-netns RTNL.")
+867b385251ea ("ipv6: Move lifetime validation to inet6_rtm_newaddr().")
+2f1ace4127fd ("ipv6: Set cfg.ifa_flags before device lookup in inet6_rtm_newaddr().")
+f7fce98a73df ("ipv6: Pass dev to inet6_addr_add().")
+832128cc4438 ("ipv6: Convert inet6_ioctl() to per-netns RTNL.")

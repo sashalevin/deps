@@ -1,0 +1,7 @@
+be226352e8dc ("vxlan: Handle stats using NETDEV_PCPU_STAT_DSTATS.")
+b22ea4ef4c34 ("vxlan: Add missing VNI filter counter update in arp_reduce().")
+6dee402daba4 ("vxlan: Fix racy device stats updates.")
+e28c5efc3139 ("vxlan: Do not alloc tstats manually")
+3c0930b491f8 ("vxlan: Use helper functions to update stats")
+d977e1c8e3a1 ("vxlan: Add support for nexthop ID metadata")
+0f83e69f44bf ("vxlan: Add MDB data path support")

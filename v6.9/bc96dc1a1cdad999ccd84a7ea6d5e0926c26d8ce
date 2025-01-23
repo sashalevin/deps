@@ -1,0 +1,5 @@
+bc96dc1a1cda ("hwmon: (lm75) separate probe into common and I2C parts")
+7a5c24da4b3c ("hwmon: (lm75) Remove superfluous 'client' member from private struct")
+2b64c6f652b0 ("hwmon: (lm75) simplify regulator handling")
+6da24a25f766 ("hwmon: (lm75) Hide register size differences in regmap access functions")
+5178911d5c13 ("hwmon: (lm75) Remove use of i2c_match_id()")

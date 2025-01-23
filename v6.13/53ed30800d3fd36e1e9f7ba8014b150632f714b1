@@ -1,0 +1,8 @@
+53ed30800d3f ("net: protect napi->irq with netdev_lock()")
+1bb86cf8f44b ("net: protect threaded status of NAPI with netdev_lock()")
+1b23cdbd2bbc ("net: protect netdev->napi_list with netdev_lock()")
+5112457f3d8e ("net: add netdev->up protected by netdev_lock()")
+5fda3f35349b ("net: make netdev_lock() protect netdev->reg_state")
+ebda2f0bbde5 ("net: add netdev_lock() / netdev_unlock() helpers")
+afc664987ab3 ("eth: iavf: extend the netdev_lock usage")
+d6c7b03497ee ("net: make sure we retain NAPI ordering on netdev->napi_list")

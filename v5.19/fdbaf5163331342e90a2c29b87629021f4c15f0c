@@ -1,0 +1,6 @@
+fdbaf5163331 ("netfilter: flowtable: add CLOSING state")
+d9d7b489416d ("netfilter: nft_flow_offload: clear tcp MAXACK flag before moving to slowpath")
+735795f68b37 ("netfilter: flowtable: GC pushes back packets to classic path")
+41f2c7c342d3 ("net/sched: act_ct: Fix promotion of offloaded unreplied tuple")
+6a9bad0069cf ("net/sched: act_ct: offload UDP NEW connections")
+0eb5acb16418 ("netfilter: flowtable: fixup UDP timeout depending on ct state")

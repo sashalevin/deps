@@ -1,0 +1,6 @@
+c77200c07491 ("bareudp: Handle stats using NETDEV_PCPU_STAT_DSTATS.")
+788d5d655bc9 ("bareudp: Use pcpu stats to update rx_dropped counter.")
+4963d2343af8 ("bareudp: Fix device stats updates.")
+6f355bbb5ca3 ("net: bareudp: Do not allocate stats in the driver")
+143a8526ab5f ("bareudp: Fix invalid read beyond skb's linear data")
+8fdfffd0b97a ("bareudp: use dev_sw_netstats_rx_add()")

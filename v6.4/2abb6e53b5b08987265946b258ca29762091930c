@@ -1,0 +1,7 @@
+2abb6e53b5b0 ("gpio: tqmx86: use cleanup guards for spinlock")
+0ccf314304ed ("gpio: tqmx86: consistently refer to IRQs by hwirq numbers")
+2a485c837877 ("gpio: tqmx86: add macros for interrupt configuration")
+90dd7de4ef7b ("gpio: tqmx86: fix broken IRQ_TYPE_EDGE_BOTH interrupt type")
+08af509efdf8 ("gpio: tqmx86: store IRQ trigger type and unmask status separately")
+9d6a811b522b ("gpio: tqmx86: introduce shadow register for GPIO output value")
+0a5e9306b812 ("gpio: tqmx86: remove unneeded call to platform_set_drvdata()")

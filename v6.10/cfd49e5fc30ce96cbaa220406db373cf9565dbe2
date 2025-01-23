@@ -1,0 +1,6 @@
+cfd49e5fc30c ("net: stmmac: use boolean for eee_enabled and eee_active")
+2914a5cd811a ("net: stmmac: remove priv->eee_tw_timer")
+865ff410a071 ("net: stmmac: remove priv->tx_lpi_enabled")
+bba9f4765515 ("net: stmmac: use correct type for tx_lpi_timer")
+1991819debaa ("net: stmmac: move tx_lpi_timer tracking to phylib")
+482b3c3ba757 ("net: stmmac: Drop TBI/RTBI PCS flags")

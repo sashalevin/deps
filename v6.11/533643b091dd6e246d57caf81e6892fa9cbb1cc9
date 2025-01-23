@@ -1,0 +1,6 @@
+533643b091dd ("af_unix: Set drop reason in manage_oob().")
+454d402481d4 ("net: dropreason: Gather SOCKET_ drop reasons.")
+a0264a9f51fe ("af_unix: Move spin_lock() in manage_oob().")
+beb2c5f19b6a ("af_unix: Rename unlinked_skb in manage_oob().")
+579770dd8985 ("af_unix: Remove single nest in manage_oob().")
+8594d9b85c07 ("af_unix: Don't call skb_get() for OOB skb.")

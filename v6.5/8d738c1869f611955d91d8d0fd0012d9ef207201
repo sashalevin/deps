@@ -1,0 +1,6 @@
+8d738c1869f6 ("netfilter: nf_tables: fix set size with rbtree backend")
+b253d87fd78b ("netfilter: nf_tables: cleanup documentation")
+7d259f021aaa ("netfilter: nft_set_rbtree: prefer sync gc to async worker")
+256001672153 ("netfilter: nf_tables: de-constify set commit ops function argument")
+4a9e12ea7e70 ("netfilter: nft_set_pipapo: call nft_trans_gc_queue_sync() in catchall GC")
+96b33300fba8 ("netfilter: nft_set_rbtree: use read spinlock to avoid datapath contention")
