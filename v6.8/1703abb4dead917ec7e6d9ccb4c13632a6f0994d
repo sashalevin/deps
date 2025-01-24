@@ -1,0 +1,5 @@
+1703abb4dead ("kprobes: Reduce preempt disable scope in check_kprobe_access_safe()")
+12af2b83d0b1 ("mm: introduce execmem_alloc() and execmem_free()")
+bc6b94d3ea06 ("module: make module_memory_{alloc,free} more self-contained")
+325f3fb551f8 ("kprobes: Fix possible use-after-free issue on kprobe registration")
+f7f18e30b468 ("powerpc/kprobes: Handle error returned by set_memory_rox()")

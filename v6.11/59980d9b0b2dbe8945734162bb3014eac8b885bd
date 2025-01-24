@@ -1,0 +1,4 @@
+59980d9b0b2d ("tracing: Switch trace_events.c code over to use guard()")
+4b8d63e5b61d ("tracing: Simplify event_enable_func() goto_reg logic")
+c949dfb97443 ("tracing: Simplify event_enable_func() goto out_free logic")
+cad1d5bd2cb9 ("tracing: Have event_enable_write() just return error on error")

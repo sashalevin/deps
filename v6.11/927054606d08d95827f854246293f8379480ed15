@@ -1,0 +1,4 @@
+927054606d08 ("tracing/kprobes: Simplify __trace_kprobe_create() by removing gotos")
+7dcc35207890 ("tracing: Use __free() for kprobe events to cleanup")
+30c8fd31c571 ("tracing/kprobes: Fix to free objects when failed to copy a symbol")
+73f35080477e ("tracing/probes: Fix MAX_TRACE_ARGS limit handling")

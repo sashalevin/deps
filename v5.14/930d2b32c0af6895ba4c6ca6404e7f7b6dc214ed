@@ -1,0 +1,6 @@
+930d2b32c0af ("tracing: Switch trace_osnoise.c code over to use guard() and __free()")
+829e0c9f0855 ("tracing/timerlat: Fix a race during cpuhp processing")
+dae181349f1e ("tracing/osnoise: Support a list of trace_array *tr")
+15ca4bdb0327 ("tracing/osnoise: Split workload start from the tracer start")
+66df27f19f7d ("tracing/osnoise: Do not follow tracing_cpumask")
+99c37d1a63ea ("tracing: Replace deprecated CPU-hotplug functions.")
