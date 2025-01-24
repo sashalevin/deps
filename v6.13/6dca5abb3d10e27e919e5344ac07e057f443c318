@@ -1,0 +1,6 @@
+6dca5abb3d10 ("xfs: remove the extra buffer reference in xfs_buf_submit")
+fac69ec8cd74 ("xfs: simplify buffer I/O submission")
+8db65d312b57 ("xfs: move in-memory buftarg handling out of _xfs_buf_ioapply")
+0195647abaac ("xfs: move write verification out of _xfs_buf_ioapply")
+05b5968f33a9 ("xfs: move xfs_buf_iowait out of (__)xfs_buf_submit")
+cbd6883ed866 ("xfs: fix a double completion for buffers on in-memory targets")
