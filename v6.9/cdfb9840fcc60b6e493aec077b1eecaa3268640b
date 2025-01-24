@@ -1,0 +1,8 @@
+cdfb9840fcc6 ("iommu/arm-smmu-v3: Remove domain_alloc_paging()")
+bb857c5c0150 ("iommu/arm-smmu-v3: Make domain_alloc_paging_flags() directly determine the S1/S2")
+48e7b8e284e5 ("iommu/arm-smmu-v3: Remove arm_smmu_domain_finalise() during attach")
+d814b70b9b90 ("iommu/arm-smmu-v3: Log better event records")
+43ca55f5555b ("iommu/arm-smmu-v3: Introduce struct arm_smmu_event")
+1e8be08d1c91 ("iommu/arm-smmu-v3: Support IOMMU_DOMAIN_NESTED")
+69d9b312f38a ("iommu/arm-smmu-v3: Support IOMMU_VIOMMU_ALLOC")
+4e6bd13aa33c ("Merge branch 'iommufd/arm-smmuv3-nested' of iommu/linux into iommufd for-next")

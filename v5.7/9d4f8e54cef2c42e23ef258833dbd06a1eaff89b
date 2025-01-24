@@ -1,0 +1,5 @@
+9d4f8e54cef2 ("rhashtable: Fix rhashtable_try_insert test")
+e1d3422c95f0 ("rhashtable: Fix potential deadlock by moving schedule_work outside lock")
+e47877c7aa82 ("rhashtable: Allow rhashtable to be used from irq-safe contexts")
+ce9b362bf6db ("rhashtable: Restore RCU marking on rhash_lock_head")
+1748f6a2cbc4 ("rhashtable: Fix unprotected RCU dereference in __rht_ptr")

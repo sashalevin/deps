@@ -1,0 +1,8 @@
+a3a860bc0fd6 ("tpm: Change to kvalloc() in eventlog/acpi.c")
+441b7152729f ("tpm: Use managed allocation for bios event log")
+3dcd15665aca ("tpm: acpi: Check eventlog signature before using it")
+48cff270b037 ("tpm: efi: Use local variable for calculating final log size")
+85467f63a05c ("tpm: Add support for event log pointer found in TPM2 ACPI table")
+166a2809d65b ("tpm: Don't duplicate events from the final event log in the TCG2 log")
+6b0326190205 ("efi: Attempt to get the TCG2 event log in the boot stub")
+fe7eb0230c3d ("tpm: Append the final event log to the TPM event log")
