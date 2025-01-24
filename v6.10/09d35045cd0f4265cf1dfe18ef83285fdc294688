@@ -1,0 +1,5 @@
+09d35045cd0f ("x86/sev: Avoid WARN()s and panic()s in early boot code")
+38918e0bb2c5 ("x86/sev: Move SEV compilation units")
+fcd042e86422 ("x86/sev: Perform PVALIDATE using the SVSM when not at VMPL0")
+34ff65901735 ("x86/sev: Use kernel provided SVSM Calling Areas")
+878e70dbd26e ("x86/sev: Check for the presence of an SVSM in the SNP secrets page")

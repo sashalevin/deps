@@ -1,0 +1,8 @@
+eeebbde57113 ("x86/kexec: Invoke copy of relocate_kernel() instead of the original")
+6a750b4c0099 ("x86/kexec: Copy control page into place in machine_kexec_prepare()")
+4b5bc2ec9a23 ("x86/kexec: Allocate PGD for x86_64 transition page tables separately")
+93c1800b3799 ("x86/kexec: Fix bug with call depth tracking")
+af22700390c2 ("x86/ibt,kexec: Disable CET on kexec")
+991625f3dd2c ("x86/ibt: Add IBT feature, MSR and #CP handling")
+32cb4d02fb02 ("x86/sme: Replace occurrences of sme_active() with cc_platform_has()")
+1423e2660cf1 ("Merge tag 'x86-fpu-2021-07-07' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/tip")

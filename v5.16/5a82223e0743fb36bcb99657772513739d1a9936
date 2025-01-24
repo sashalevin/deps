@@ -1,0 +1,7 @@
+5a82223e0743 ("x86/kexec: Mark relocate_kernel page as ROX instead of RWX")
+eeebbde57113 ("x86/kexec: Invoke copy of relocate_kernel() instead of the original")
+6a750b4c0099 ("x86/kexec: Copy control page into place in machine_kexec_prepare()")
+4b5bc2ec9a23 ("x86/kexec: Allocate PGD for x86_64 transition page tables separately")
+93c1800b3799 ("x86/kexec: Fix bug with call depth tracking")
+af22700390c2 ("x86/ibt,kexec: Disable CET on kexec")
+991625f3dd2c ("x86/ibt: Add IBT feature, MSR and #CP handling")

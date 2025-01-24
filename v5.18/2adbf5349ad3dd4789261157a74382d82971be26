@@ -1,0 +1,5 @@
+2adbf5349ad3 ("perf record: Fix segfault with --off-cpu when debuginfo is not enabled")
+167b266bf66c ("perf off_cpu: Fix a typo in BTF tracepoint name, it should be 'btf_trace_sched_switch'")
+b36888f71c85 ("perf record: Handle argument change in sched_switch")
+10742d0c0771 ("perf record: Implement basic filtering for off-cpu")
+edc41a1099c2 ("perf record: Enable off-cpu analysis with BPF")

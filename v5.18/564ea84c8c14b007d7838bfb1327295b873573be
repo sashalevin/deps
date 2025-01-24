@@ -1,0 +1,8 @@
+564ea84c8c14 ("x86/tdx: Dump attributes and TD_CTLS on boot")
+cd9ce8217345 ("x86/tdx: Disable unnecessary virtualization exceptions")
+7ae15e2f69ba ("x86/tdx: Enable CPU topology enumeration")
+f65aa0ad79fc ("x86/tdx: Dynamically disable SEPT violations from causing #VEs")
+b064043d9565 ("x86/tdx: Rename tdx_parse_tdinfo() to tdx_setup()")
+5081e8fadb80 ("x86/tdx: Introduce wrappers to read and write TD metadata")
+765a0542fdc7 ("x86/virt/tdx: Detect TDX during kernel boot")
+5e2cb28dd7e1 ("Merge tag 'tsm-for-6.7' of git://git.kernel.org/pub/scm/linux/kernel/git/djbw/linux")

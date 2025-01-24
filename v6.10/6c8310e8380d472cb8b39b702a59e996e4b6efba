@@ -1,0 +1,6 @@
+6c8310e8380d ("perf evsel: Allow evsel__newtp without libtraceevent")
+c46d634a03a3 ("perf evsel: Add/use accessor for tp_format")
+95586588868a ("perf trace: Filter enum arguments with enum names")
+607bbdb49ccb ("perf trace: Augment non-syscall tracepoints with enum arguments with BTF")
+45a0c928e7aa ("perf trace: BTF-based enum pretty printing for syscall args")
+92968dcc037f ("perf trace beauty: Always show param if show_zero is set")

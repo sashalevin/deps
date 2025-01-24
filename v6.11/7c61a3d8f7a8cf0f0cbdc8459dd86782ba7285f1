@@ -1,0 +1,7 @@
+7c61a3d8f7a8 ("x86/kexec: Use typedef for relocate_kernel_fn function prototype")
+b3adabae8a96 ("x86/kexec: Drop page_list argument from relocate_kernel()")
+8dbec5c77bc3 ("x86/kexec: Add data section to relocate_kernel")
+cb33ff9e063c ("x86/kexec: Move relocate_kernel to kernel .data section")
+eeebbde57113 ("x86/kexec: Invoke copy of relocate_kernel() instead of the original")
+6a750b4c0099 ("x86/kexec: Copy control page into place in machine_kexec_prepare()")
+4b5bc2ec9a23 ("x86/kexec: Allocate PGD for x86_64 transition page tables separately")

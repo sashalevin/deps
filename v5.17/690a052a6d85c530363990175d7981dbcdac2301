@@ -1,0 +1,8 @@
+690a052a6d85 ("perf ftrace latency: Add --max-latency option")
+08b875b6bf60 ("perf ftrace latency: Introduce --min-latency to narrow down into a latency range")
+e8536dd47a98 ("perf ftrace latency: Introduce --bucket-range to ask for linear bucketing")
+12115c6037ae ("perf ftrace latency: Pass ftrace pointer to histogram routines to pass more args")
+064d569e20e8 ("perf ftrace latency: Fix unit on histogram first entry when using --use-nsec")
+ac5a23b2f286 ("perf ftrace latency: Constify control data for BPF")
+feff08395b2c ("perf ftrace latency: Update documentation")
+84005bb61486 ("perf ftrace latency: Add -n/--use-nsec option")
