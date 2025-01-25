@@ -1,0 +1,7 @@
+b2868b55cfef ("KVM: nVMX: Drop manual vmcs01.GUEST_INTERRUPT_STATUS.RVI check at VM-Enter")
+4f09ebd0c8be ("KVM: nVMX: Check for pending INIT/SIPI after entering non-root mode")
+cda3960fbcc5 ("KVM: nVMX: Explicitly update vPPR on successful nested VM-Enter")
+4e2a0bc56ad1 ("KVM: VMX: Rename NMI_PENDING to NMI_WINDOW")
+9dadc2f918df ("KVM: VMX: Rename INTERRUPT_PENDING to INTERRUPT_WINDOW")
+4289d2728664 ("KVM: retpolines: x86: eliminate retpoline from vmx.c exit handlers")
+f399e60c45f6 ("KVM: x86: optimize more exit handlers in vmx.c")

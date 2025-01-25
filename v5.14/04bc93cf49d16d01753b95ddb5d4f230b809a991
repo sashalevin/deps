@@ -1,0 +1,6 @@
+04bc93cf49d1 ("KVM: nVMX: Defer SVI update to vmcs01 on EOI when L2 is active w/o VID")
+adfec1f4591c ("KVM: x86: Inline kvm_get_apic_mode() in lapic.h")
+d91060e342a6 ("KVM: x86: Get vcpu->arch.apic_base directly and drop kvm_get_apic_base()")
+0c2a04128f50 ("KVM: x86: remove unnecessary exports")
+7c69661e225c ("KVM: nVMX: Defer APICv updates while L2 is active until L1 is active")
+f3d1436d4bf8 ("KVM: x86: Take srcu lock in post_kvm_run_save()")

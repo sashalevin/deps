@@ -1,0 +1,7 @@
+3fc3f7185112 ("KVM: x86/mmu: Support GFN direct bits")
+e23186da667d ("KVM: x86/tdp_mmu: Take struct kvm in iter loops")
+3a4eb364a46d ("KVM: x86/mmu: Add an external pointer to struct kvm_mmu_page")
+13e2e4f62a4b ("KVM: x86/mmu: Recover TDP MMU huge page mappings in-place instead of zapping")
+35ef80eb29ab ("KVM: x86/mmu: Batch TLB flushes when zapping collapsible TDP MMU SPTEs")
+51192ebdd145 ("KVM: x86/mmu: Stop processing TDP MMU roots for test_age if young SPTE found")
+526e609f0567 ("KVM: x86/mmu: Process only valid TDP MMU roots when aging a gfn range")

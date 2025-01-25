@@ -1,0 +1,5 @@
+c829d2c35650 ("KVM: nVMX: Use vmcs01's controls shadow to check for IRQ/NMI windows at VM-Enter")
+b2868b55cfef ("KVM: nVMX: Drop manual vmcs01.GUEST_INTERRUPT_STATUS.RVI check at VM-Enter")
+4f09ebd0c8be ("KVM: nVMX: Check for pending INIT/SIPI after entering non-root mode")
+cda3960fbcc5 ("KVM: nVMX: Explicitly update vPPR on successful nested VM-Enter")
+a56953e9506c ("KVM: nVMX: Make an event request if INIT or SIPI is pending on VM-Enter")

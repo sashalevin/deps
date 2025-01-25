@@ -1,0 +1,2 @@
+01528db67f28 ("KVM: Drop hack that "manually" informs lockdep of kvm->lock vs. vcpu->mutex")
+6e2b2358b3ef ("KVM: Grab vcpu->mutex across installing the vCPU's fd and bumping online_vcpus")

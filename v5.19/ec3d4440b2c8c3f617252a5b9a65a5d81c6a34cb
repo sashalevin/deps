@@ -1,0 +1,5 @@
+ec3d4440b2c8 ("KVM: x86: Explicitly do runtime CPUID updates "after" initial setup")
+ccf31d6e6cc5 ("KVM: x86/mmu: Use KVM-governed feature framework to track "GBPAGES enabled"")
+42764413d195 ("KVM: x86: Add a framework for enabling KVM-governed x86 features")
+ee519b3a2ae3 ("KVM: x86: Reinstate kvm_vcpu_arch.guest_supported_xcr0")
+277ad7d58611 ("KVM: x86: Add dedicated helper to get CPUID entry with significant index")

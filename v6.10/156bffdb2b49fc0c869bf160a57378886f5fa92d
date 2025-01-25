@@ -1,0 +1,3 @@
+156bffdb2b49 ("KVM: Add a dedicated API for setting KVM-internal memslots")
+d131f0042f46 ("KVM: Assert slots_lock is held when setting memory regions")
+f81a6d12bf8b ("KVM: Open code kvm_set_memory_region() into its sole caller (ioctl() API)")

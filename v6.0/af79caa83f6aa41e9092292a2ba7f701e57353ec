@@ -1,0 +1,7 @@
+af79caa83f6a ("RISC-V: KVM: Add new exit statstics for redirected traps")
+2f15b5eaff79 ("RISC-V: KVM: Update firmware counters for various events")
+51c58956732b ("RISC-V: KVM: Redirect instruction access fault trap to guest")
+e325618349cd ("RISC-V: KVM: Redirect AMO load/store access fault traps to guest")
+19bff88e65b5 ("RISC-V: KVM: Redirect AMO load/store misaligned traps to guest")
+cdeb59bbf19f ("RISC-V: KVM: Redirect illegal instruction traps to guest")
+54ce3f7ff339 ("RISC-V: KVM: Record number of signal exits as a vCPU stat")

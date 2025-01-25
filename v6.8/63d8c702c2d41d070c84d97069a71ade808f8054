@@ -1,0 +1,7 @@
+63d8c702c2d4 ("KVM: x86: Clear PV_UNHALT for !HLT-exiting only when userspace sets CPUID")
+8c01290bda1a ("KVM: x86: Swap incoming guest CPUID into vCPU before massaging in KVM_SET_CPUID2")
+f21958e328a9 ("KVM: x86: Don't update PV features caches when enabling enforcement capability")
+01d1059d635a ("KVM: x86: Zero out PV features cache when the CPUID leaf is not present")
+ec3d4440b2c8 ("KVM: x86: Explicitly do runtime CPUID updates "after" initial setup")
+4736d85f0d18 ("KVM: x86: Use actual kvm_cpuid.base for clearing KVM_FEATURE_PV_UNHALT")
+92e82cf632e8 ("KVM: x86: Introduce __kvm_get_hypervisor_cpuid() helper")

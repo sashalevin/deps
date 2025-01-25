@@ -1,0 +1,4 @@
+4c20cd4cee92 ("KVM: x86: Avoid double RDPKRU when loading host/guest PKRU")
+056b9919a16a ("KVM: x86: Use cpu_feature_enabled() for PKU instead of #ifdef")
+607475cfa0f7 ("KVM: x86: Add helpers to query individual CR0/CR4 bits")
+74cdc836919b ("KVM: x86: Make use of kvm_read_cr*_bits() when testing bits")

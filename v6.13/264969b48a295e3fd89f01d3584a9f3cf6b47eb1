@@ -1,0 +1,5 @@
+264969b48a29 ("KVM: x86: Add a macro to precisely handle aliased 0x1.EDX CPUID features")
+6eac4d99a967 ("KVM: x86: Add a macro to init CPUID features that are 64-bit only")
+3cc359ca29ad ("KVM: x86: Rename kvm_cpu_cap_mask() to kvm_cpu_cap_init()")
+ccf93de484a3 ("KVM: x86: Unpack F() CPUID feature flag macros to one flag per line of code")
+4b027f5af907 ("KVM: x86: Limit use of F() and SF() to kvm_cpu_cap_{mask,init_kvm_defined}()")

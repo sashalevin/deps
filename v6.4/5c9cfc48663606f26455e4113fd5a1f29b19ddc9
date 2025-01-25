@@ -1,0 +1,4 @@
+5c9cfc486636 ("KVM: x86: Add emulation status for unhandleable exception vectoring")
+006829954096 ("KVM: SVM: Treat all "skip" emulation for SEV guests as outright failures")
+aeb904f6b9f1 ("KVM: x86: Refactor can_emulate_instruction() return to be more expressive")
+cb49631ad111 ("KVM: SVM: Don't inject #UD if KVM attempts to skip SEV guest insn")

@@ -1,0 +1,6 @@
+47ef3ef843c0 ("KVM: VMX: Handle event vectoring error in check_emulate_instruction()")
+11c98fa07a79 ("KVM: x86: Add function for vectoring error generation")
+d7f0a00e438d ("KVM: VMX: Report up-to-date exit qualification to userspace")
+aeb904f6b9f1 ("KVM: x86: Refactor can_emulate_instruction() return to be more expressive")
+cb49631ad111 ("KVM: SVM: Don't inject #UD if KVM attempts to skip SEV guest insn")
+2f4073e08f4c ("KVM: VMX: Enable Notify VM exit")

@@ -1,0 +1,8 @@
+2c5e168e5ce1 ("KVM: x86: Rename "governed features" helpers to use "guest_cpu_cap"")
+dc2b8b2b524a ("KVM: SVM: Emulate SYSENTER RIP/RSP behavior for all Intel compat vCPUs")
+7974c0643ee3 ("KVM: x86: Add a struct to consolidate host values, e.g. EFER, XCR0, etc...")
+fd706c9b1674 ("KVM: x86: Snapshot if a vCPU's vendor model is AMD vs. Intel compatible")
+43fb862de8f6 ("KVM/VMX: Move VERW closer to VMentry for MDS mitigation")
+706a189dcf74 ("KVM/VMX: Use BT+JNC, i.e. EFLAGS.CF to select VMRESUME vs. VMLAUNCH")
+6613d82e617d ("x86/bugs: Use ALTERNATIVE() instead of mds_user_clear static key")
+8ecb10bcbfa3 ("Merge tag 'kvm-x86-lam-6.8' of https://github.com/kvm-x86/linux into HEAD")
