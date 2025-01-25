@@ -1,0 +1,8 @@
+4e23c96b1fe1 ("efi/libstub: Use __free() helper for pool deallocations")
+e6384c398459 ("efi/libstub: Parse builtin command line after bootloader provided one")
+06d39d79cbd5 ("efi/libstub: Free correct pointer on failure")
+ade7ccba2d64 ("efi/libstub: remove unnecessary cmd_line_len from efi_convert_cmdline()")
+ae835a96d72c ("x86/efistub: Revert to heap allocated boot_params for PE entrypoint")
+fb318ca0a522 ("x86/efistub: Avoid returning EFI_SUCCESS on error")
+ac93cbfc2a2c ("efi/libstub: Measure into CC protocol if TCG2 protocol is absent")
+3e0b0f880e9e ("efi/libstub: Use TPM event typedefs from the TCG PC Client spec")
