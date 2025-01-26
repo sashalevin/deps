@@ -1,0 +1,5 @@
+112aba9a7934 ("PCI: dwc: Remove LTSSM state test in dw_pcie_suspend_noirq()")
+86a016e278b7 ("PCI: dwc: Always stop link in the dw_pcie_suspend_noirq")
+e1a4ec1a9520 ("PCI: dwc: Add generic MSG TLP support for sending PME_Turn_Off when system suspend")
+aa85ef61d841 ("PCI: dwc: Consolidate args of dw_pcie_prog_outbound_atu() into a structure")
+aea370b2aec9 ("PCI: dwc: Drop host prefix from struct dw_pcie_host_ops members")

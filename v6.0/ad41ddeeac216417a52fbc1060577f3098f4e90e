@@ -1,0 +1,8 @@
+ad41ddeeac21 ("PCI: Add TLP Prefix reading to pcie_read_tlp_log()")
+27d41818b696 ("PCI: Use unsigned int i in pcie_read_tlp_log()")
+dbfd51ba4cb3 ("PCI: Use same names in pcie_read_tlp_log() prototype and definition")
+ede5d5dbef6f ("PCI: Add defines for TLP Header/Prefix log sizes")
+a71c59269e51 ("PCI: Move TLP Log handling to its own file")
+013525583fdd ("PCI: Don't expose pcie_read_tlp_log() outside PCI subsystem")
+9d3faf229c06 ("PCI: Use align and resource helpers, and SZ_* in quirk_s3_64M()")
+c6c411a9489b ("Merge branch 'pci/dpc'")

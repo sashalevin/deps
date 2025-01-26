@@ -1,0 +1,5 @@
+129f6af747b2 ("PCI: dwc: ep: Add 'address' alignment to 'size' check in dw_pcie_prog_ep_inbound_atu()")
+33a6938e0c33 ("PCI: dwc: ep: Write BAR_MASK before iATU registers in pci_epc_set_bar()")
+9b10e877fc84 ("PCI: dwc: ep: Enforce DWC specific 64-bit BAR limitation")
+70fa02ca1446 ("PCI: dwc: Add dw_pcie_ep_{read,write}_dbi[2] helpers")
+641f79beeebc ("PCI: dwc: Rename .func_conf_select to .get_dbi_offset in struct dw_pcie_ep_ops")

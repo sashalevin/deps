@@ -1,0 +1,6 @@
+b6e5c46d8330 ("PCI/sysfs: Use __free() in reset_method_store()")
+10269d578133 ("PCI/sysfs: Move reset related sysfs code to correct file")
+2985b1844f3f ("PCI: Fix reset_method_store() memory leak")
+f6c739998378 ("PCI/sysfs: Demacrofy pci_dev_resource_resize_attr(n) functions")
+d1f9b39da4a5 ("PCI: Use FIELD_GET() to extract Link Width")
+91fa127794ac ("PCI: Expose PCIe Resizable BAR support via sysfs")

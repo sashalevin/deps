@@ -1,0 +1,8 @@
+6d9d6ab3a82a ("mtd: spinand: Introduce a way to avoid raw access")
+c6858779f1f5 ("mtd: spinand: Remove write_enable_op() in markbad()")
+ca229bdbef29 ("mtd: spinand: Add support for setting plane select bits")
+df12a75a2be9 ("mtd: spinand: core: Properly fill the OOB area.")
+3d1f08b032dc ("mtd: spinand: Use the external ECC engine logic")
+c8efe010283a ("mtd: spinand: Fill a default ECC provider/algorithm")
+945845b54c9c ("mtd: spinand: Instantiate a SPI-NAND on-die ECC engine")
+55a1a71a7f5d ("mtd: spinand: Move ECC related definitions earlier in the driver")

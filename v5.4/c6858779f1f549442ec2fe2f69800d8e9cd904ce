@@ -1,0 +1,3 @@
+c6858779f1f5 ("mtd: spinand: Remove write_enable_op() in markbad()")
+b645ad39d568 ("mtd: spinand: Do not erase the block before writing a bad block marker")
+2148937501ee ("mtd: spinand: Stop using spinand->oobbuf for buffering bad block markers")
