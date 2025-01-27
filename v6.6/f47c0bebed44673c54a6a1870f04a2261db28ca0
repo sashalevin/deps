@@ -1,0 +1,5 @@
+f47c0bebed44 ("module: sysfs: Simplify section attribute allocation")
+34f5ec0f8252 ("module: sysfs: Drop 'struct module_sect_attr'")
+4b2c11e4aaf7 ("module: sysfs: Drop member 'module_sect_attr::address'")
+d8959b947a8d ("module: sysfs: Drop member 'module_sect_attrs::nsections'")
+ce47f7cbbcad ("module: abort module loading when sysfs setup suffer errors")

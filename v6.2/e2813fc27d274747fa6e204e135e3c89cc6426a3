@@ -1,0 +1,5 @@
+e2813fc27d27 ("scsi: fnic: Replace shost_printk() with dev_info()/dev_err()")
+52f6e196e52e ("scsi: fnic: Add support for multiqueue (MQ) in fnic_main.c")
+8c2a6f815a18 ("scsi: fnic: Get copy workqueue count and interrupt mode from config")
+86b86a7d2fda ("scsi: fnic: Rename wq_copy to hw_copy_wq")
+ca008aeeb02c ("scsi: fnic: Add and use fnic number")
