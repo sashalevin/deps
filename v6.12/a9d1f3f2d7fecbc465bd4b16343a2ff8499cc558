@@ -1,0 +1,7 @@
+a9d1f3f2d7fe ("mm/vma: move stack expansion logic to mm/vma.c")
+7a5714991872 ("mm: abstract get_arg_page() stack expansion and mmap read lock")
+c7c643d98590 ("mm/vma: move unmapped_area() internals to mm/vma.c")
+7d344babac99 ("mm/vma: move brk() internals to mm/vma.c")
+ad2bc8812fc1 ("mm: remove unnecessary page_table_lock on stack expansion")
+52956b0d7fb9 ("mm: isolate mmap internal logic to mm/vma.c")
+c14f8046cd7c ("tools: testing: add additional vma_internal.h stubs")

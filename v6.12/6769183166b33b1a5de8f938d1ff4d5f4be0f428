@@ -1,0 +1,5 @@
+6769183166b3 ("mm/swap_cgroup: decouple swap cgroup recording and clearing")
+2b3a58b12134 ("mm/swap_cgroup: remove global swap cgroup lock")
+40733e7e0c26 ("mm/swap_cgroup: remove swap_cgroup_cmpxchg")
+146ca40193ff ("mm: swap_cgroup: get rid of __lookup_swap_cgroup()")
+8eb92ed254e5 ("mm: swap_cgroup: allocate swap_cgroup map using vcalloc()")

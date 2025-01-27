@@ -1,0 +1,7 @@
+8f65ac0b7577 ("mm/memfd: use strncpy_from_user() to read memfd name")
+f5dbcd90dacd ("mm/memfd: refactor and cleanup the logic in memfd_create()")
+fa00b8ef1803 ("mm: perform all memfd seal checks in a single place")
+8ec396d05d1b ("mm: reinstate ability to map write-sealed memfd mappings read-only")
+89c1905d9c14 ("mm/gup: introduce memfd_pin_folios() for pinning memfd folios")
+28464bbb2ddc ("mm: update memfd seal write check to include F_SEAL_WRITE")
+1717449b4417 ("memfd: drop warning for missing exec-related flags")

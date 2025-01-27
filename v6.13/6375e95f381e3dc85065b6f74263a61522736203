@@ -1,0 +1,6 @@
+6375e95f381e ("mm: pgtable: reclaim empty PTE page in madvise(MADV_DONTNEED)")
+2686d514c345 ("mm: make zap_pte_range() handle full within-PMD range")
+4059971c79fc ("mm: do_zap_pte_range: return any_skipped information to the caller")
+45fec1e59514 ("mm: skip over all consecutive none ptes in do_zap_pte_range()")
+117cdb05e32d ("mm: introduce do_zap_pte_range()")
+fabc0e8dac5b ("mm: introduce zap_nonpresent_ptes()")

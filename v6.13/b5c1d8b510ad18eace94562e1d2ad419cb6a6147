@@ -1,0 +1,4 @@
+b5c1d8b510ad ("mm/zsmalloc: add and use pfn/zpdesc seeking funcs")
+4610d35c14fc ("mm/zsmalloc: convert __zs_map_object/__zs_unmap_object to use zpdesc")
+c1b3bb73d55e ("mm/zsmalloc: use zpdesc in trylock_zspage()/lock_zspage()")
+f4e33d325fe6 ("mm/zsmalloc: add zpdesc memory descriptor for zswap.zpool")

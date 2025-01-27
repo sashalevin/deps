@@ -1,0 +1,7 @@
+a5cd78accfd3 ("zram: factor out ZRAM_SAME write")
+b4444a849f18 ("zram: remove entry element member")
+71268035f5d7 ("zram: free slot memory early during write")
+68d20eb60efb ("zram: Shrink zram_table_entry::flags.")
+9518e5bfaae1 ("zram: Replace bit spinlocks with a spinlock_t.")
+73829b713470 ("zram: use kmap_local_page()")
+a7a0350583ba ("zram: split memory-tracking and ac-time tracking")

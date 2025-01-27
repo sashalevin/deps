@@ -1,0 +1,5 @@
+d40797d6720e ("kasan: make kasan_record_aux_stack_noalloc() the default behaviour")
+73ab05aa46b0 ("sched/core: Disable page allocation in task_tick_mm_cid()")
+b8c8ba73c68b ("slub: Introduce CONFIG_SLUB_RCU_DEBUG")
+b3c34245756a ("kasan: catch invalid free before SLUB reinitializes the object")
+6c6c47b063b5 ("mm, slab: call kvfree_rcu_barrier() from kmem_cache_destroy()")

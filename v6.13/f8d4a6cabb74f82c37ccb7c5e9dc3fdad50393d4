@@ -1,0 +1,8 @@
+f8d4a6cabb74 ("mm: make mmap_region() internal")
+8ad946eb3df4 ("mm: add comments to do_mmap(), mmap_region() and vm_mmap()")
+df31155aff02 ("mm: assert mmap write lock held on do_mmap(), mmap_region()")
+bef5418d1f3d ("mm/vma: move __vm_munmap() to mm/vma.c")
+a9d1f3f2d7fe ("mm/vma: move stack expansion logic to mm/vma.c")
+7a5714991872 ("mm: abstract get_arg_page() stack expansion and mmap read lock")
+c7c643d98590 ("mm/vma: move unmapped_area() internals to mm/vma.c")
+7d344babac99 ("mm/vma: move brk() internals to mm/vma.c")

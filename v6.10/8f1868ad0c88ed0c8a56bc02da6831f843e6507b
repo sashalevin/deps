@@ -1,0 +1,4 @@
+8f1868ad0c88 ("mm/zsmalloc: convert obj_malloc() to use zpdesc")
+91d0ec834786 ("zsmalloc: replace kmap_atomic with kmap_local_page")
+d468f1b8cb8e ("mm/zsmalloc: move record_obj() into obj_malloc()")
+64bd0197ae0c ("mm/zsmalloc: change back to per-size_class lock")

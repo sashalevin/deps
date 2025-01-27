@@ -1,0 +1,5 @@
+495bba17cdf9 ("minmax.h: simplify the variants of clamp()")
+c3939872ee4a ("minmax.h: move all the clamp() definitions after the min/max() ones")
+a5743f32baec ("minmax.h: use BUILD_BUG_ON_MSG() for the lo < hi test in clamp()")
+b280bb27a9f7 ("minmax.h: reduce the #define expansion of min(), max() and clamp()")
+71ee9b16251e ("minmax.h: add whitespace around operators and after commas")

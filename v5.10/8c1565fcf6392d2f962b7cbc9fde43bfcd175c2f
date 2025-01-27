@@ -1,0 +1,5 @@
+8c1565fcf639 ("squashfs: pass a folio to squashfs_readpage_fragment()")
+608c2501675c ("squashfs: use a folio throughout squashfs_read_folio()")
+31e748e4b1df ("squashfs: Return the actual error from squashfs_read_folio()")
+124cfc154f6c ("squashfs: Convert squashfs to read_folio")
+9eec1d897139 ("squashfs: provide backing_dev_info in order to disable read-ahead")

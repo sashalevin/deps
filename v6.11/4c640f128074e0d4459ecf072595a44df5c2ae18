@@ -1,0 +1,4 @@
+4c640f128074 ("mm/hugetlb: rename isolate_hugetlb() to folio_isolate_hugetlb()")
+f1264e9531b0 ("mm: migrate: add isolate_folio_to_list()")
+7dff875c9436 ("mm/migrate: convert add_page_for_migration() from follow_page() to folio_walk")
+6c469957cd17 ("mm: hugetlb: remove left over comment about follow_huge_foo()")

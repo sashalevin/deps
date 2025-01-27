@@ -1,0 +1,6 @@
+30cef82bc6e8 ("mm/hugetlb: rename avoid_reserve to cow_from_owner")
+be8d7314b18e ("mm/hugetlb: stop using avoid_reserve flag in fork()")
+04f13d241b8b ("mm: replace free hugepage folios after migration")
+bd722058e34d ("hugetlb: convert hugetlb_wp() to use struct vm_fault")
+7b6ec181de37 ("hugetlb: convert hugetlb_no_page() to use struct vm_fault")
+9b42fa16195f ("hugetlb: convert hugetlb_fault() to use struct vm_fault")

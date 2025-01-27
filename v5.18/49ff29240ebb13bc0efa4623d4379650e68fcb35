@@ -1,0 +1,5 @@
+49ff29240ebb ("squashfs: make squashfs_cache_init() return ERR_PTR(-ENOMEM)")
+78188dd1d24b ("Squashfs: don't allocate fragment caches more than fragments")
+e994f5b677ee ("squashfs: cache partial compressed blocks")
+fb40fe04f9df ("squashfs: allows users to configure the number of decompression threads")
+80f784098ff4 ("squashfs: add the mount parameter theads=<single|multi|percpu>")

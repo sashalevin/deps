@@ -1,0 +1,4 @@
+395ea2ab4630 ("ocfs2: convert ocfs2_duplicate_clusters_by_page() to use a folio")
+8e4bfd136410 ("ocfs2: don't use write_one_page in ocfs2_duplicate_clusters_by_page")
+2c69e2057962 ("fs: Convert block_read_full_page() to block_read_full_folio()")
+7479c505b4ab ("fs: Convert iomap_readpage to iomap_read_folio")

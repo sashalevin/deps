@@ -1,0 +1,4 @@
+f5cc08737507 ("squashfs: don't allocate read_page cache if SQUASHFS_FILE_DIRECT configured")
+49ff29240ebb ("squashfs: make squashfs_cache_init() return ERR_PTR(-ENOMEM)")
+78188dd1d24b ("Squashfs: don't allocate fragment caches more than fragments")
+e994f5b677ee ("squashfs: cache partial compressed blocks")

@@ -1,0 +1,6 @@
+3f982b9b18c2 ("mm/hugetlb-cgroup: convert hugetlb_cgroup_css_offline() to work on folios")
+f074732d599e ("mm/hugetlb_cgroup: convert hugetlb_cgroup_from_page() to folios")
+a098c977722c ("mm/hugetlb_cgroup: convert __set_hugetlb_cgroup() to folios")
+c37213c5eaaf ("hugetlb_cgroup: use helper for_each_hstate and hstate_index")
+736a8ccce99c ("hugetlb_cgroup: remove unneeded return value")
+f47761999052 ("hugetlb: add hugetlb.*.numa_stat file")

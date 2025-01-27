@@ -1,0 +1,6 @@
+9a5e08652dc4 ("ocfs2: use an array of folios instead of an array of pages")
+7e119cff9d0a ("ocfs2: convert w_pages to w_folios")
+b4f3b496dc2f ("ocfs2: pass mmap_folio around instead of mmap_page")
+e981f18e6d32 ("ocfs2: use a folio in ocfs2_write_begin_inline()")
+5290687ae320 ("ocfs2: convert w_target_page to w_target_folio")
+3d9e356f0285 ("ocfs2: convert ocfs2_page_mkwrite() to use a folio")

@@ -1,0 +1,8 @@
+d40797d6720e ("kasan: make kasan_record_aux_stack_noalloc() the default behaviour")
+73ab05aa46b0 ("sched/core: Disable page allocation in task_tick_mm_cid()")
+b8c8ba73c68b ("slub: Introduce CONFIG_SLUB_RCU_DEBUG")
+b3c34245756a ("kasan: catch invalid free before SLUB reinitializes the object")
+6c6c47b063b5 ("mm, slab: call kvfree_rcu_barrier() from kmem_cache_destroy()")
+466e4d801cd4 ("task_work: Add TWA_NMI_CURRENT as an additional notify mode.")
+9f9796b413d3 ("mm, slab: move memcg charging to post-alloc hook")
+21c690a349ba ("mm: introduce slabobj_ext to support slab object extensions")

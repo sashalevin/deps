@@ -1,0 +1,6 @@
+146ca40193ff ("mm: swap_cgroup: get rid of __lookup_swap_cgroup()")
+8eb92ed254e5 ("mm: swap_cgroup: allocate swap_cgroup map using vcalloc()")
+c91bdc935899 ("mm: memcontrol: don't allocate cgroup swap arrays when memcg is disabled")
+3000f2e2fc85 ("mm: use vmalloc_array and vcalloc for array allocations")
+2d1c498072de ("mm: memcontrol: make swap tracking an integral part of memory control")
+eccb52e78809 ("mm: memcontrol: prepare swap controller setup for integration")

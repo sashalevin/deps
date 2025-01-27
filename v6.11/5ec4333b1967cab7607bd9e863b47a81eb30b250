@@ -1,0 +1,7 @@
+5ec4333b1967 ("mm/damon: remove DAMON debugfs interface")
+4d047d4f8ab4 ("mm/damon: remove DAMON debugfs interface kunit tests")
+73da523802ea ("mm/damon/tests/dbgfs-kunit: fix the header double inclusion guarding ifdef comment")
+f66ac836d4b9 ("mm/damon/tests: add .kunitconfig file for DAMON kunit tests")
+9bfbaa5e44c5 ("mm/damon: move kunit tests to tests/ subdirectory with _kunit suffix")
+61879eed1f18 ("mm/damon/dbgfs-test: skip dbgfs_set_init_regions() test if PADDR is not registered")
+8e34bac5a268 ("mm/damon/dbgfs-test: skip dbgfs_set_targets() test if PADDR is not registered")

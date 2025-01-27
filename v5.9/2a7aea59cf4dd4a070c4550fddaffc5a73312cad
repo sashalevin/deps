@@ -1,0 +1,7 @@
+2a7aea59cf4d ("squashfs: convert squashfs_readpage_block() to take a folio")
+608c2501675c ("squashfs: use a folio throughout squashfs_read_folio()")
+d31638ff6c54 ("Squashfs: fix variable overflow in squashfs_readpage_block")
+7f73fcde4d93 ("Squashfs: Update squashfs_readpage_block() to not use page->index")
+12427de9439d ("Squashfs: fix variable overflow triggered by sysbot")
+1f13dff09ffc ("squashfs: don't call kmalloc in decompressors")
+eb5699ba3155 ("Merge tag 'mm-nonmm-stable-2022-08-06-2' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

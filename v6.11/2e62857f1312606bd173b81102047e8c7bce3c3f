@@ -1,0 +1,8 @@
+2e62857f1312 ("nilfs2: revise the return value description style for consistency.")
+3f66cc261ccb ("nilfs2: use kthread_create and kthread_stop for the log writer thread")
+cfdfe9e17c41 ("nilfs2: remove sc_timer_task")
+0b9aad46c163 ("nilfs2: do not propagate ENOENT error from sufile during GC")
+caaab56609ce ("nilfs2: fix missing initial short descriptions of kernel-doc comments")
+60d8b01e55b2 ("nilfs2: improve kernel-doc comments for b-tree node helpers")
+79785f780127 ("nilfs2: add support for FS_IOC_SETFSLABEL")
+4b901256a7bf ("nilfs2: add support for FS_IOC_GETFSLABEL")

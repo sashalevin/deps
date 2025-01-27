@@ -1,0 +1,7 @@
+a52dcec56c5b ("mm/mglru: fix PTE-mapped large folios")
+4d5d14a01e2c ("mm/mglru: rework workingset protection")
+798c0330c2ca ("mm/mglru: rework aging feedback")
+cc8ec7be78ff ("mm/mglru: optimize deactivation")
+1bc542c6a0d1 ("mm/vmscan: wake up flushers conditionally to avoid cgroup OOM")
+f1001f3d3b68 ("mm/mglru: reset page lru tier bits when activating")
+2441774f2d28 ("mm: multi-gen LRU: walk_pte_range() use pte_offset_map_rw_nolock()")

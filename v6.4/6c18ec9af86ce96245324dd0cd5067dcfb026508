@@ -1,0 +1,5 @@
+6c18ec9af86c ("mm: khugepaged: recheck pmd state in retract_page_tables()")
+dbf8be8218e7 ("docs/mm: add VMA locks documentation")
+1d65b771bc08 ("mm/khugepaged: retract_page_tables() without mmap or vma lock")
+feda5c393a6c ("mm/pgtable: delete pmd_trans_unstable() and friends")
+26e1a0c3277d ("mm: use pmdp_get_lockless() without surplus barrier()")
