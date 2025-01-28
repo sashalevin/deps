@@ -1,0 +1,3 @@
+9fdbbdbbc92b ("dm-crypt: don't update io->sector after kcryptd_crypt_write_io_submit()")
+50c70240097c ("dm-crypt: don't modify the data when using authenticated encryption")
+8abec36d1274 ("dm crypt: do not wait for backlogged crypto request completion in softirq")

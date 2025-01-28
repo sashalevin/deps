@@ -1,0 +1,5 @@
+c40ca9ef7c5c ("drm: select DRM_KMS_HELPER from DRM_GEM_SHMEM_HELPER")
+8ce35bf0ef5a ("drm/fbdev: Select FB_CORE dependency for fbdev on DMA and TTM")
+efb113fc30e7 ("drm: rework FB_CORE dependency")
+8058944f5226 ("drm/fbdev: Select fbdev I/O helpers from modules that require them")
+67c40c9b2ec5 ("drm/fbdev-dma: Select FB_DEFERRED_IO")

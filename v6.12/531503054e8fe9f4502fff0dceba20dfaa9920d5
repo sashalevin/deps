@@ -1,0 +1,5 @@
+531503054e8f ("nfsd: fix handling of delegated change attr in CB_GETATTR")
+f6259e2e4f64 ("nfsd: have nfsd4_deleg_getattr_conflict pass back write deleg pointer")
+3a405432e7cd ("nfsd: drop the nfsd4_fattr_args "size" field")
+c757ca1a56ed ("nfsd: drop the ncf_cb_bmap field")
+f67eef8da0e8 ("nfsd: drop inode parameter from nfsd4_change_attribute()")

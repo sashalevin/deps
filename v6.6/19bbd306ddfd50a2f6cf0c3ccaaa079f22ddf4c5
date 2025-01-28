@@ -1,0 +1,7 @@
+19bbd306ddfd ("f2fs: Convert __read_io_type() to take a folio")
+f58d8645824b ("f2fs: Use a data folio in f2fs_submit_page_bio()")
+0765b3f989a7 ("f2fs: Use a folio more in f2fs_submit_page_bio()")
+e0821645dd2d ("f2fs: Convert f2fs_finish_read_bio() to use folios")
+87e2a15bc008 ("f2fs: Convert submit tracepoints to take a folio")
+30dac24e14b5 ("fs/writeback: convert wbc_account_cgroup_owner to take a folio")
+79952bdcbcea ("Merge tag 'f2fs-for-6.12-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs")
