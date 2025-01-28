@@ -1,0 +1,6 @@
+651dee03696e ("serial: sh-sci: Increment the runtime usage counter for the earlycon device")
+5f1017069933 ("serial: sh-sci: Clean sci_ports[0] after at earlycon exit")
+9f7dea875cc7 ("serial: sh-sci: Do not probe the serial port if its slot in sci_ports[] is in use")
+239f11209e5f ("serial: sh-sci: Move runtime PM enable to sci_probe_single()")
+71614e1c21cd ("Revert "serial: sh-sci: Initialize spinlock for uart console"")
+f38278e9b810 ("serial: sh-sci: Initialize spinlock for uart console")

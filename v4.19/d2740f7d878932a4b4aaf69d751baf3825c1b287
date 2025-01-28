@@ -1,0 +1,6 @@
+d2740f7d8789 ("tty: serial: extract uart_change_port() from uart_set_info()")
+4d0e56d571b8 ("tty: serial: get rid of exit label from uart_set_info()")
+6eabce6608d6 ("serial: core: check uartclk for zero to avoid divide by zero")
+dcd794c6ed63 ("serial: Convert uart_{,port_}startup() init_hw param to bool")
+5e722b217ad3 ("serial: core: fix suspicious security_locked_down() call")
+aefcf2f4b581 ("Merge branch 'next-lockdown' of git://git.kernel.org/pub/scm/linux/kernel/git/jmorris/linux-security")
