@@ -1,0 +1,6 @@
+0f3b1c40c652 ("fs/proc/vmcore: disallow vmcore modifications while the vmcore is open")
+2083dfe45e83 ("fs/proc/vmcore: replace vmcoredd_mutex by vmcore_mutex")
+cdbc69716ff3 ("fs/proc/vmcore: convert vmcore_cb_lock into vmcore_mutex")
+4a22fd20379c ("vmcore: convert __read_vmcore to use an iov_iter")
+5039b170369d ("proc/vmcore: fix possible deadlock on concurrent mmap and read")
+25bc5b0de91b ("proc/vmcore: don't fake reading zeroes on surprise vmcore_cb unregistration")

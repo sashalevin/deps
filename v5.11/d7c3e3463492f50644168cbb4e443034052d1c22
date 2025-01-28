@@ -1,0 +1,7 @@
+d7c3e3463492 ("iio: adc: rzg2l_adc: Enable runtime PM autosuspend support")
+89ee8174e8c8 ("iio: adc: rzg2l_adc: Simplify the runtime PM code")
+b010b1046730 ("iio: adc: rzg2l_adc: Use devres helpers to request pre-deasserted reset controls")
+a34dc289f89e ("iio: adc: rzg2l_adc: Convert dev_err() to dev_err_probe()")
+fa002b364981 ("iio: adc: rzg2l_adc: add missing clk_disable_unprepare() in rzg2l_adc_pm_runtime_resume()")
+9909a395e980 ("iio: adc: rzg2l_adc: Fix -EBUSY timeout error return")
+d484c21bacfa ("iio: adc: Add driver for Renesas RZ/G2L A/D converter")

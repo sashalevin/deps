@@ -1,0 +1,4 @@
+c6a8239a9edd ("virtio-mem: support CONFIG_PROC_VMCORE_DEVICE_RAM")
+7ad4d1f6e6ef ("fs/proc/vmcore: introduce PROC_VMCORE_DEVICE_RAM to detect device RAM ranges in 2nd kernel")
+cdbc69716ff3 ("fs/proc/vmcore: convert vmcore_cb_lock into vmcore_mutex")
+5039b170369d ("proc/vmcore: fix possible deadlock on concurrent mmap and read")

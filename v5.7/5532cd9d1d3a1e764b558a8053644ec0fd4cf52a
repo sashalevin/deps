@@ -1,0 +1,6 @@
+5532cd9d1d3a ("iio: gyro: Use aligned_s64 instead of open coding alignment.")
+b5ca2046c6d4 ("iio: gyro: mpu3050: Fix alignment and size issues with buffers.")
+06778d881f37 ("iio: gyro: bmg160: Fix buffer alignment in iio_push_to_buffers_with_timestamp()")
+10ab7cfd5522 ("iio:gyro:itg3200: Fix timestamp alignment and prevent data leak.")
+672555807f6f ("iio: gyro: adxrs290: Add triggered buffer support")
+2c8920fff145 ("iio: gyro: Add driver support for ADXRS290")

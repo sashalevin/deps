@@ -1,0 +1,7 @@
+6fdbc7b9aa20 ("nvmem: specify ->reg_read/reg_write() expected return values")
+f4cf4e5db331 ("Revert "nvmem: add new config option"")
+011e40a166fd ("nvmem: cell: drop global cell_post_process")
+345ec382cd4b ("nvmem: core: add per-cell post processing")
+fbd03d27776c ("nvmem: core: move struct nvmem_cell_info to nvmem-provider.h")
+5d8e6e6c10a3 ("nvmem: core: add an index parameter to the cell")
+dbc2f62061c6 ("nvmem: core: support passing DT node in cell info")
