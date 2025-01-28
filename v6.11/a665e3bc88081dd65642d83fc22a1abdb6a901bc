@@ -1,0 +1,6 @@
+a665e3bc8808 ("KVM: arm64: coresight: Give TRBE enabled state to KVM")
+cd9b10102ae3 ("KVM: arm64: Evaluate debug owner at vcpu_load()")
+d381e53384a6 ("KVM: arm64: Move host SME/SVE tracking flags to host data")
+38131c02a53f ("KVM: arm64: Track presence of SPE/TRBE in kvm_host_data instead of vCPU")
+2417218f2f23 ("KVM: arm64: Get rid of __kvm_get_mdcr_el2() and related warts")
+8ca19c40c47d ("KVM: arm64: Drop MDSCR_EL1_DEBUG_MASK")

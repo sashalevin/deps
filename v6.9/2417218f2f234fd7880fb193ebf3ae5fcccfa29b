@@ -1,0 +1,5 @@
+2417218f2f23 ("KVM: arm64: Get rid of __kvm_get_mdcr_el2() and related warts")
+8ca19c40c47d ("KVM: arm64: Drop MDSCR_EL1_DEBUG_MASK")
+948e1a53c2e9 ("KVM: arm64: Simplify vgic-v3 hypercalls")
+6db55734ec40 ("KVM: arm64: Exclude host_debug_data from vcpu_arch")
+87f842c6c654 ("KVM: arm64: Add accessor for per-CPU state")

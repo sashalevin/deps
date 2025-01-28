@@ -1,0 +1,4 @@
+e8440c1e2d23 ("Documentation: Update the behaviour of "kvm-arm.mode"")
+675cabc89900 ("arm64: Add ARM64_HAS_NESTED_VIRT cpufeature")
+b2a4d007c347 ("KVM: arm64: Ignore kvm-arm.mode if !is_hyp_mode_available()")
+cde5042adf11 ("KVM: arm64: Ignore 'kvm-arm.mode=protected' when using VHE")

@@ -1,0 +1,6 @@
+2fd5b4b0e7b4 ("KVM: arm64: Calculate cptr_el2 traps on activating traps")
+0401f7e76d70 ("KVM: arm64: Set protected VM traps based on its view of feature registers")
+9df9186f8df5 ("KVM: arm64: Fix RAS trapping in pKVM for protected VMs")
+1fea164ccf19 ("KVM: arm64: Move checking protected vcpu features to a separate function")
+f50758260bff ("KVM: arm64: Group setting traps for protected VMs by control register")
+2589dbd72797 ("KVM: arm64: Consolidate allowed and restricted VM feature checks")

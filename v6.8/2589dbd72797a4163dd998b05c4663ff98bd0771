@@ -1,0 +1,5 @@
+2589dbd72797 ("KVM: arm64: Consolidate allowed and restricted VM feature checks")
+cb0c272acebd ("KVM: arm64: Initialize the hypervisor's VM state at EL2")
+0546d4a925a6 ("KVM: arm64: Move pkvm_vcpu_init_traps() to init_pkvm_hyp_vcpu()")
+42b9fed388a5 ("KVM: arm64: Replace custom macros with fields from ID_AA64PFR0_EL1")
+948e1a53c2e9 ("KVM: arm64: Simplify vgic-v3 hypercalls")

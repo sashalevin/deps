@@ -1,0 +1,7 @@
+0bc9a9e85fcf ("KVM: arm64: Work around x1e's CNTVOFF_EL2 bogosity")
+164b5e20cdf6 ("KVM: arm64: nv: Handle CNTHCTL_EL2 specially")
+18fdb6348c48 ("arm64: irqchip/gic-v3: Select priorities at boot time")
+d447bf09a401 ("irqchip/gic-v3: Detect GICD_CTRL.DS and SCR_EL3.FIQ earlier")
+a6156e70316b ("irqchip/gic-v3: Make distributor priorities variables")
+e95c64a7fb71 ("irqchip/gic-common: Remove sync_access callback")
+fedc612314ac ("KVM: arm64: nv: Handle virtual EL2 registers in vcpu_read/write_sys_reg()")

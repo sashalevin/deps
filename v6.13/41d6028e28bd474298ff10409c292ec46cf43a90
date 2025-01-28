@@ -1,0 +1,8 @@
+41d6028e28bd ("KVM: arm64: Convert the SVE guest vcpu flag to a vm flag")
+c5c176359666 ("KVM: arm64: Remove PtrAuth guest vcpu flag")
+8f7df795b2da ("KVM: arm64: Refactor kvm_reset_cptr_el2()")
+a3163dca4817 ("KVM: arm64: Use KVM extension checks for allowed protected VM capabilities")
+27f5cf8ad522 ("KVM: arm64: Remove KVM_ARM_VCPU_POWER_OFF from protected VMs allowed features in pKVM")
+1fea164ccf19 ("KVM: arm64: Move checking protected vcpu features to a separate function")
+f50758260bff ("KVM: arm64: Group setting traps for protected VMs by control register")
+2589dbd72797 ("KVM: arm64: Consolidate allowed and restricted VM feature checks")

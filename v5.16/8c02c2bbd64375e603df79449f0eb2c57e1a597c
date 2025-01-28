@@ -1,0 +1,5 @@
+8c02c2bbd643 ("KVM: arm64: Avoid reading ID_AA64DFR0_EL1 for debug save/restore")
+38131c02a53f ("KVM: arm64: Track presence of SPE/TRBE in kvm_host_data instead of vCPU")
+2417218f2f23 ("KVM: arm64: Get rid of __kvm_get_mdcr_el2() and related warts")
+8ca19c40c47d ("KVM: arm64: Drop MDSCR_EL1_DEBUG_MASK")
+8540bd1b990b ("Merge branch kvm-arm64/pkvm-6.10 into kvmarm-master/next")

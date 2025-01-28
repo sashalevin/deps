@@ -1,0 +1,6 @@
+81403c8d04e1 ("KVM: arm64: Remove fixed_config.h header")
+3d7ff00700d1 ("KVM: arm64: Rework specifying restricted features for protected VMs")
+7ba5b8f80475 ("KVM: arm64: Initialize feature id registers for protected VMs")
+1fea164ccf19 ("KVM: arm64: Move checking protected vcpu features to a separate function")
+f50758260bff ("KVM: arm64: Group setting traps for protected VMs by control register")
+2589dbd72797 ("KVM: arm64: Consolidate allowed and restricted VM feature checks")
