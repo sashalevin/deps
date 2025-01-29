@@ -1,0 +1,6 @@
+857b0263f30e ("fuse: Allow to queue bg requests through io-uring")
+c2c9af9a0b13 ("fuse: Allow to queue fg requests through io-uring")
+4a9bfb9b6850 ("fuse: {io-uring} Handle teardown of ring entries")
+c090c8abae4b ("fuse: Add io-uring sqe commit and fetch support")
+24fe962c86f5 ("fuse: {io-uring} Handle SQEs - register commands")
+92270d076115 ("fuse: rename to fuse_dev_end_requests and make non-static")
