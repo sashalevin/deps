@@ -1,0 +1,7 @@
+ead11ac50ad4 ("nfs: fix incorrect error handling in LOCALIO")
+70ba381e1a43 ("nfs: add LOCALIO support")
+fa4983862e50 ("nfsd: add LOCALIO support")
+a61e147e6be6 ("nfs_common: prepare for the NFS client to use nfsd_file for LOCALIO")
+2a33a85be451 ("nfs_common: add NFS LOCALIO auxiliary protocol enablement")
+1fcb16674e37 ("nfs_common: factor out nfs4_errtbl and nfs4_stat_to_errno")
+4806ded4c14c ("nfs_common: factor out nfs_errtbl and nfs_stat_to_errno")

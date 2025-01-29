@@ -1,0 +1,4 @@
+0e4a19e2bd37 ("locking/csd-lock: make CSD lock debug tunables writable in /sys")
+94b3f0b5af2c ("smp,csd: Throw an error if a CSD lock is stuck for too long")
+3791a2237471 ("kernel/smp: Provide boot-time timeout for CSD lock diagnostics")
+545b8c8df41f ("smp: Cleanup smp_call_function*()")
