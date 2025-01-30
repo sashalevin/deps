@@ -1,0 +1,7 @@
+7e3270165a87 ("ext4 fast_commit: make use of name_snapshot primitives")
+faab35a0370f ("ext4: use handle to mark fc as ineligible in __track_dentry_update()")
+8805dbcb3e83 ("ext4: simplify fast-commit CRC calculation")
+48a6a66db82b ("ext4: fix off-by-one errors in fast-commit block filling")
+8415ce07ecf0 ("ext4: fix unaligned memory access in ext4_fc_reserve_space()")
+594bc43b4103 ("ext4: fix leaking uninitialized memory in fast-commit journal")
+0fbcb5251fc8 ("ext4: disable fast-commit of encrypted dir operations")
