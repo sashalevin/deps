@@ -1,0 +1,5 @@
+d8eebb11e933 ("s390/futex: Avoid KMSAN instrumention for user pointers")
+554f8842dcd9 ("s390/futex: Cleanup futex_atomic_cmpxchg_inatomic()")
+9e8f72f7730a ("s390/futex: Generate futex atomic op functions")
+26701574cee6 ("s390/futex: Fix FUTEX_OP_ANDN implementation")
+a262d3ad6a43 ("s390/futex: add missing EX_TABLE entry to __futex_atomic_op()")

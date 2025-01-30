@@ -1,0 +1,4 @@
+636d35aec55d ("s390/uaccess: Remove usage of the oac specifier")
+dc7ff4b8cb78 ("s390/uaccess: Replace EX_TABLE_UA_LOAD_MEM exception handling")
+67e959af254f ("s390/uaccess: Cleanup noinstr __put_user()/__get_user() inline assembly constraints")
+722926ecbcb3 ("s390/extable: Rename EX_TABLE_UA_STORE to EX_TABLE_UA_FAULT")

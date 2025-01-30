@@ -1,0 +1,6 @@
+c09f8d0ad673 ("s390/boot: Defer boot messages when earlyprintk is not enabled")
+816b5feaed13 ("s390/boot: Introduce ring buffer for boot messages")
+d538fdc49a7d ("s390/boot: Add support for boot messages loglevels")
+9291d572fe5b ("s390/boot: Add length modifiers to boot_printk()")
+dccac2b22b1c ("s390/boot: Add %% support to boot_printk()")
+912a0d352326 ("s390: Remove __bootdata annotations from declarations")
