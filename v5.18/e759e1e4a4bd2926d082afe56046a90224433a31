@@ -1,0 +1,7 @@
+e759e1e4a4bd ("net: revert RTNL changes in unregister_netdevice_many_notify()")
+83419b61d187 ("net: reduce RTNL hold duration in unregister_netdevice_many_notify() (part 2)")
+ae646f1a0bb9 ("net: reduce RTNL hold duration in unregister_netdevice_many_notify() (part 1)")
+cfa579f66656 ("net: no longer hold RTNL while calling flush_all_backlogs()")
+0734d7c3d93c ("net: expedite synchronize_net() for cleanup_net()")
+ffabe98cb576 ("net: make dev_unreg_count global")
+0b5c21bbc01e ("net: ensure net_todo_list is processed quickly")

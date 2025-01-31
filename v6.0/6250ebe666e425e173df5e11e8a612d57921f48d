@@ -1,0 +1,7 @@
+6250ebe666e4 ("i2c: Fix core-managed per-client debugfs handling")
+d06905d68610 ("i2c: add core-managed per-client directory in debugfs")
+03c835f498b5 ("i2c: Switch .probe() to not take an id parameter")
+ed5c2f5fd10d ("i2c: Make remove callback return void")
+6a8f359c3132 ("gpio: pca953x: Make platform teardown callback return void")
+22a234368918 ("leds: lm3601x: Improve error reporting for problems during .remove()")
+32f7eed0c763 ("leds: lm3601x: Don't use mutex after it was destroyed")
