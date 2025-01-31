@@ -1,0 +1,5 @@
+8c8492ca64e7 ("io_uring/net: don't retry connect operation on EPOLLERR")
+e2ea5a706913 ("io_uring/net: move connect to always using async data")
+f8f9ab2d9811 ("io_uring/net: ensure socket is marked connected on connect retry")
+e1fe7ee885dc ("io_uring: Add KASAN support for alloc_caches")
+efba1a9e653e ("io_uring: Move from hlist to io_wq_work_node")

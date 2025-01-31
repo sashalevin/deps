@@ -1,0 +1,5 @@
+86e62354eef1 ("io_uring/net: extract io_send_select_buffer()")
+641a6816795b ("Revert "io_uring: Require zeroed sqe->len on provided-buffers send"")
+566a424212d7 ("io_uring/net: use ITER_UBUF for single segment send maps")
+8fe8ac24adcd ("io_uring/net: don't pick multiple buffers for non-bundle send")
+70ed519ed59d ("io_uring/net: ensure expanded bundle send gets marked for cleanup")

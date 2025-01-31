@@ -1,0 +1,4 @@
+2815a56e4b72 ("x86/mm/tlb: Add tracepoint for TLB flush IPI to stale CPU")
+209954cbc7d0 ("x86/mm/tlb: Update mm_cpumask lazily")
+3b299b99556c ("x86/mm: Use IPIs to synchronize LAM enablement")
+3cfd6625a6cf ("x86/mm: clarify "prev" usage in switch_mm_irqs_off()")
