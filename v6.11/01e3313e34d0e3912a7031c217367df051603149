@@ -1,0 +1,5 @@
+01e3313e34d0 ("riscv: Add xtheadvector instruction definitions")
+377be47f90e4 ("riscv: vector: Use vlenb from DT for thead")
+cddd63869f92 ("riscv: Add thead and xtheadvector as a vendor extension")
+368546ebe7e7 ("riscv: Call riscv_user_isa_enable() only on the boot hart")
+1b57747e978f ("riscv: Enable cbo.zero only when all harts support Zicboz")

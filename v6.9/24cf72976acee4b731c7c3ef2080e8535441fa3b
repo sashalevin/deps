@@ -1,0 +1,8 @@
+24cf72976ace ("cifs: Remove unicode parameter from parse_reparse_point() function")
+f4ca4f5a36ea ("cifs: Fix parsing reparse point with native symlink in SMB1 non-UNICODE session")
+dd26bc067e44 ("cifs: Validate content of native symlink")
+723f4ef90452 ("cifs: Fix parsing native symlinks relative to the export")
+41d3f256c6a5 ("cifs: Add support for creating SFU symlinks")
+bb68327053a2 ("cifs: Put explicit zero byte into SFU block/char types")
+4b96024ef229 ("smb: client: handle lack of FSCTL_GET_REPARSE_POINT support")
+518549c120e6 ("cifs: fix creating sockets when using sfu mount options")

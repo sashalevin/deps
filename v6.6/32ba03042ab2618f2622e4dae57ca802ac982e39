@@ -1,0 +1,5 @@
+32ba03042ab2 ("cifs: Simplify reparse point check in cifs_query_path_info() function")
+65c49767dd4f ("cifs: Remove symlink member from cifs_open_info_data union")
+45e724022e27 ("smb: client: set correct file type from NFS reparse points")
+539aad7f14da ("smb: client: introduce ->parse_reparse_point()")
+ed3e0a149b58 ("smb: client: implement ->query_reparse_point() for SMB1")

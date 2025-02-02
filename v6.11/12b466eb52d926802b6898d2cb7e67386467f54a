@@ -1,0 +1,8 @@
+12b466eb52d9 ("cifs: Fix creating and resolving absolute NT-style symlinks")
+ad46faff1afc ("smb: client: fix DFS mount against old servers with NTLMSSP")
+723f4ef90452 ("cifs: Fix parsing native symlinks relative to the export")
+0812340811e4 ("smb: client: handle max length for SMB symlinks")
+db363b0a1d9e ("CIFS: New mount option for cifs.upcall namespace resolution")
+3eb40512530e ("cifs: Improve creating native symlinks pointing to directory")
+4f42a8b54b5c ("smb: client: fix DFS interlink failover")
+242d23efc987 ("smb: client: avoid unnecessary reconnects when refreshing referrals")

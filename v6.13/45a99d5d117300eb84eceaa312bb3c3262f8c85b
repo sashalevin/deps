@@ -1,0 +1,8 @@
+45a99d5d1173 ("cifs: Add support for creating native Windows sockets")
+660618dde2b4 ("cifs: Add mount option -o symlink= for choosing symlink create type")
+12b466eb52d9 ("cifs: Fix creating and resolving absolute NT-style symlinks")
+b6d002f0a345 ("cifs: Rename struct reparse_posix_data to reparse_nfs_data_buffer and move to common/smb2pdu.h")
+65ccccee4eb1 ("cifs: Remove struct reparse_posix_data from struct cifs_open_info_data")
+24cf72976ace ("cifs: Remove unicode parameter from parse_reparse_point() function")
+2948f0d4db40 ("cifs: Remove duplicate struct reparse_symlink_data and SYMLINK_FLAG_RELATIVE")
+ad46faff1afc ("smb: client: fix DFS mount against old servers with NTLMSSP")
