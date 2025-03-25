@@ -1,0 +1,3 @@
+01c9c123db76 ("net: Use rtnl_net_dev_lock() in register_netdevice_notifier_dev_net().")
+65161fb544aa ("net: Fix dev_net(dev) race in unregister_netdevice_notifier_dev_net().")
+7fb1073300a2 ("net: Hold rtnl_net_lock() in (un)?register_netdevice_notifier_dev_net().")

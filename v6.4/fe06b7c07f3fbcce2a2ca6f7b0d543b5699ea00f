@@ -1,0 +1,8 @@
+fe06b7c07f3f ("scsi: ufs: core: Set default runtime/system PM levels before ufshcd_hba_init()")
+3d4114a1d344 ("scsi: ufs: core: Ensure clk_gating.lock is used only after initialization")
+bb9850704c04 ("scsi: ufs: core: Honor runtime/system PM levels if set by host controller drivers")
+1aa992cbc272 ("scsi: ufs: Simplify alloc*_workqueue() invocation")
+b97c0741c7dc ("scsi: Expand all create*_workqueue() invocations")
+6bf999e0eb41 ("scsi: ufs: core: Add UFS RTC support")
+24befa92ed47 ("scsi: ufs: core: Add support for qTimestamp attribute")
+9a4327fd8864 ("scsi: ufs: core: Change the module parameter macro of use_mcq_mode")

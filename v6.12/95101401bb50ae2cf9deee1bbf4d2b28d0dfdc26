@@ -1,0 +1,7 @@
+95101401bb50 ("fsnotify: use accessor to set FMODE_NONOTIFY_*")
+0357ef03c94e ("fs: don't block write during exec on pre-content watched files")
+318652e07fa5 ("fsnotify: check if file is actually being watched for pre-content events on open")
+a94204f4d48e ("fsnotify: opt-in for permission events at file open time")
+ebe559609d78 ("fs: get rid of __FMODE_NONOTIFY kludge")
+3b832035387f ("Revert "fs: don't block i_writecount during exec"")
+1cda52f1b461 ("fsnotify, lsm: Decouple fsnotify from lsm")

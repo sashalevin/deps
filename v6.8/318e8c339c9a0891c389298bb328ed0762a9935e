@@ -1,0 +1,5 @@
+318e8c339c9a ("x86/cpu/kvm: SRSO: Fix possible missing IBPB on VM-Exit")
+c62fa117c32b ("x86/bugs: Do not use UNTRAIN_RET with IBPB on entry")
+0fad2878642e ("x86/bugs: Skip RSB fill at VMEXIT")
+a033eec9a06c ("x86/bugs: Rename CONFIG_CPU_SRSO             => CONFIG_MITIGATION_SRSO")
+ac61d43983a4 ("x86/bugs: Rename CONFIG_CPU_UNRET_ENTRY      => CONFIG_MITIGATION_UNRET_ENTRY")

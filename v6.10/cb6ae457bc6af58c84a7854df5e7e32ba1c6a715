@@ -1,0 +1,7 @@
+cb6ae457bc6a ("efivarfs: Defer PM notifier registration until .fill_super")
+b5d1e6ee761a ("efivarfs: add variable resync after hibernation")
+a58e954464db ("efivarfs: remove unused efivarfs_list")
+fddca52766e2 ("efivarfs: move variable lifetime management into the inodes")
+7e365c7e2cc5 ("efivarfs: make variable_is_present use dcache lookup")
+1aba87f92d47 ("efivarfs: add helper to convert from UC16 name and GUID to utf8 name")
+c57b6e1d8a5c ("efivarfs: remove unused efi_variable.Attributes and efivar_entry.kobj")

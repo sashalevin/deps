@@ -1,0 +1,6 @@
+50a53b60e141 ("perf/amd/ibs: Prevent leaking sensitive data to userspace")
+65a99264f5e5 ("perf/x86: Check data address for IBS software filter")
+d29e744c7167 ("perf/x86: Relax privilege filter restriction on AMD IBS")
+0f9e0d7928d8 ("perf/x86/amd: Reject branch stack for IBS events")
+7c2128235eff ("perf/amd: Prevent grouping of IBS events")
+2fad201fe38f ("perf/ibs: Fix interface via core pmu events")

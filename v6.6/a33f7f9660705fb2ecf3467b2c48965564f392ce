@@ -1,0 +1,6 @@
+a33f7f966070 ("amdkfd: properly free gang_ctx_bo when failed to init user queue")
+fb91065851cd ("drm/amdkfd: Refactor queue wptr_bo GART mapping")
+c86ad39140bb ("drm/amdkfd: amdkfd_free_gtt_mem clear the correct pointer")
+7f11a836e158 ("drm/amdkfd: Enforce queue BO's adev")
+1761d9a688ba ("amd/amdkfd: remove unused parameter")
+d581ceab26a1 ("drm/amdkfd: Free gang_ctx_bo and wptr_bo in pqm_uninit")

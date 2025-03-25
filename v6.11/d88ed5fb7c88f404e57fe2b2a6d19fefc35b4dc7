@@ -1,0 +1,6 @@
+d88ed5fb7c88 ("KVM: selftests: Ensure all vCPUs hit -EFAULT during initial RO stage")
+b6c304aec648 ("KVM: selftests: Verify KVM correctly handles mprotect(PROT_READ)")
+80b7859a3a43 ("KVM: selftests: Add a read-only mprotect() phase to mmu_stress_test")
+82b542e11848 ("KVM: selftests: Precisely limit the number of guest loops in mmu_stress_test")
+3a0422526404 ("KVM: selftests: Use vcpu_arch_put_guest() in mmu_stress_test")
+55e164df482a ("KVM: selftests: Only muck with SREGS on x86 in mmu_stress_test")

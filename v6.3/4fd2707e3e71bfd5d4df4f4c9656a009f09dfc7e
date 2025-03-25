@@ -1,0 +1,5 @@
+4fd2707e3e71 ("spi: atmel-quadspi: Fix warning in doc-comment")
+5af42209a4d2 ("spi: atmel-quadspi: Add support for sama7g5 QSPI")
+c0a0203cf579 ("spi: atmel-quadspi: Create `atmel_qspi_ops` to support newer SoC families")
+4d70dd0a2508 ("spi: atmel-quadspi: Convert to platform remove callback returning void")
+9448bc1dee65 ("spi: atmel-quadspi: Free resources even if runtime resume failed in .remove()")

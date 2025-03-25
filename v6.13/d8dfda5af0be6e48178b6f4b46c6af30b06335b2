@@ -1,0 +1,5 @@
+d8dfda5af0be ("KVM: s390: pv: fix race when making a page secure")
+43656f774a4b ("KVM: s390: move gmap_shadow_pgt_lookup() into kvm")
+3762e905ec2e ("KVM: s390: use __kvm_faultin_pfn()")
+5cbe24350b7d ("KVM: s390: move pv gmap functions into kvm")
+decff09adbeb ("KVM: s390: wrapper for KVM_BUG")

@@ -1,0 +1,5 @@
+c8a3e63ff9d7 ("procfs: fix a locking bug in a vmcore_add_device_dump() error path")
+0f3b1c40c652 ("fs/proc/vmcore: disallow vmcore modifications while the vmcore is open")
+2083dfe45e83 ("fs/proc/vmcore: replace vmcoredd_mutex by vmcore_mutex")
+cdbc69716ff3 ("fs/proc/vmcore: convert vmcore_cb_lock into vmcore_mutex")
+4a22fd20379c ("vmcore: convert __read_vmcore to use an iov_iter")

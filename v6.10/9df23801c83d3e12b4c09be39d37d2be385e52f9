@@ -1,0 +1,5 @@
+9df23801c83d ("smb311: failure to open files of length 1040 when mounting with SMB3.1.1 POSIX extensions")
+65c49767dd4f ("cifs: Remove symlink member from cifs_open_info_data union")
+25f6184e24b3 ("cifs: Remove intermediate object of failed create SFU call")
+41d3f256c6a5 ("cifs: Add support for creating SFU symlinks")
+bb68327053a2 ("cifs: Put explicit zero byte into SFU block/char types")

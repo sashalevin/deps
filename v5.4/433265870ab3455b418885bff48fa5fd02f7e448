@@ -1,0 +1,8 @@
+433265870ab3 ("KVM: SVM: Manually context switch DEBUGCTL if LBR virtualization is disabled")
+010fd37fddf6 ("KVM: LAPIC: Reduce world switch latency caused by timer_advance_ns")
+46a010dd6896 ("kVM SVM: Move SVM related files to own sub-directory")
+139a12cfe1a0 ("KVM: x86: Move IA32_XSS-swapping on VM-entry/VM-exit to common x86 code")
+9753d68865c5 ("KVM: VMX: Use wrmsr for switching between guest and host IA32_XSS on Intel")
+312a1c87798e ("KVM: SVM: Use wrmsr for switching between guest and host IA32_XSS on AMD")
+78958563d802 ("KVM: x86: Remove unneeded kvm_vcpu variable, guest_xcr0_loaded")
+c034f2aa8622 ("KVM: VMX: Fix conditions for guest IA32_XSS support")

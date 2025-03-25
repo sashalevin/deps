@@ -1,0 +1,6 @@
+b3fefbb30a16 ("nouveau/svm: fix missing folio unlock + put after make_device_exclusive_range()")
+8f187163eb89 ("nouveau/svm: implement atomic SVM access")
+f81c69a2a144 ("nouveau/svm: refactor nouveau_range_fault")
+b223555dc4ed ("nouveau/hmm: support mapping large sysmem pages")
+4725c6b82a48 ("nouveau: fix mapping 2MB sysmem pages")
+0cafc62e4daf ("nouveau/hmm: fault one page at a time")

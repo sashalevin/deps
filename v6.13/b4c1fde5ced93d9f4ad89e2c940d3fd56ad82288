@@ -1,0 +1,4 @@
+b4c1fde5ced9 ("ptp: vmclock: Remove goto-based cleanup logic")
+9a884c3800b2 ("ptp: vmclock: Clean up miscdev and ptp clock through devres")
+39e926c3a21b ("ptp: vmclock: Don't unregister misc device if it was not registered")
+f7d07cd4f77d ("ptp: vmclock: Set driver data before its usage")

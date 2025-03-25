@@ -1,0 +1,4 @@
+35e21de48e69 ("regulator: core: let dt properties override driver init_data")
+cd7a38c40b23 ("regulator: core: do not silently ignore provided init_data")
+d3c731564e09 ("regulator: plug of_node leak in regulator_register()'s error path")
+9177514ce349 ("regulator: fix memory leak on error path of regulator_register()")

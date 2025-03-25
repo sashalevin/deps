@@ -1,0 +1,7 @@
+3aa660c05924 ("ksmbd: prevent connection release during oplock break notification")
+bb39ed470654 ("ksmbd: fix use-after-free in ksmbd_free_work_struct")
+43fb7bce8866 ("ksmbd: fix broken transfers when exceeding max simultaneous operations")
+83c47d9e0ce7 ("ksmbd: count all requests in req_running counter")
+9a8c5d89d327 ("ksmbd: fix use-after-free in SMB request handling")
+0a77d947f599 ("ksmbd: check outstanding simultaneous SMB operations")
+ee426bfb9d09 ("ksmbd: add refcnt to ksmbd_conn struct")

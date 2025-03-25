@@ -1,0 +1,6 @@
+5c70eb5c593d ("net: better track kernel sockets lifetime")
+3f23f96528e8 ("sunrpc: fix one UAF issue caused by sunrpc kernel tcp socket")
+d0e35656d834 ("net/smc: refactoring initialization of smc sock")
+833bac7ec392 ("net/smc: Fix setsockopt and sysctl to specify same buffer size again")
+9744d2bf1976 ("smc: Fix use-after-free in tcp_write_timer_handler().")
+aff7bfed9097 ("net/smc: replace mutex rmbs_lock and sndbufs_lock with rw_semaphore")

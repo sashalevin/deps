@@ -1,0 +1,4 @@
+91cf42c63f2d ("spi: microchip-core: prevent RX overflows when transmit size > FIFO size")
+87232ea8a5ca ("spi: microchip-core: add support for word sizes of 1 to 32 bits")
+22fd98c107c7 ("spi: microchip-core: defer asserting chip select until just before write to TX FIFO")
+502a582b8dd8 ("spi: microchip-core: fix the issues in the isr")

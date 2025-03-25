@@ -1,0 +1,6 @@
+440c9d488705 ("vsock/test: Add test for SO_LINGER null ptr deref")
+4695f64e028d ("vsock/test: Add test for connect() retries")
+301a62dfb0d0 ("vsock/test: Add test for UAF due to socket unbinding")
+d127ac8b1d4d ("vsock/test: Add test for MSG_ZEROCOPY completion memory leak")
+ec50efee8cf8 ("vsock/test: Add test for sk_error_queue memory leak")
+f66ef469a72d ("vsock/test: Add test for accept_queue memory leak")

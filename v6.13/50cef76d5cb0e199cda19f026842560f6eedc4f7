@@ -1,0 +1,6 @@
+50cef76d5cb0 ("x86/microcode/AMD: Load only SHA256-checksummed patches")
+037e81fb9d2d ("x86/microcode/AMD: Add get_patch_level()")
+dc15675074dc ("x86/microcode/AMD: Merge early_apply_microcode() into its single callsite")
+3ef0740d10b0 ("x86/microcode/AMD: Remove unused save_microcode_in_initrd_amd() declarations")
+ead0db14c726 ("x86/microcode/AMD: Remove ret local var in early_apply_microcode()")
+78e0aadbd4c6 ("x86/microcode/AMD: Have __apply_microcode_amd() return bool")

@@ -1,0 +1,3 @@
+59f37036bb7a ("btrfs: fix use-after-free on inode when scanning root during em shrinking")
+102044384056 ("btrfs: make the extent map shrinker run asynchronously as a work queue job")
+ae1e766f623f ("btrfs: only run the extent map shrinker from kswapd tasks")

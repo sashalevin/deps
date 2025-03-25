@@ -1,0 +1,8 @@
+b9275eabe31e ("drm/i915/dp: Fix error handling during 128b/132b link training")
+f48eab290287 ("drm/i915/dp: Add link training debug and error printing helpers")
+f60500f31e99 ("drm/i915/display/dp: 128/132b LT requirement")
+99cfbed19d06 ("drm/i915/vrr: Relocate VRR enable/disable")
+ecaeecea9263 ("drm/i915/vrr: Tell intel_crtc_update_active_timings() about VRR explicitly")
+fa9e4fce52ec ("drm/i915/vrr: Make delayed vblank operational in VRR mode on adl/dg2")
+b25e07419fee ("drm/i915/vrr: Eliminate redundant function arguments")
+6a9856075563 ("drm/i915: Generalize planes_{enabling,disabling}()")

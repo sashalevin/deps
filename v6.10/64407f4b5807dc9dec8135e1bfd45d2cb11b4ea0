@@ -1,0 +1,4 @@
+64407f4b5807 ("gpiolib: Fix Oops in gpiod_direction_input_nonotify()")
+9d846b1aebbe ("gpiolib: check the return value of gpio_chip::get_direction()")
+07c61d4da43f ("gpiolib: notify user-space about in-kernel line state changes")
+dd26ffaa4d27 ("gpiolib: unduplicate chip guard in set_config path")

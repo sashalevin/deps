@@ -1,0 +1,4 @@
+889c57066cee ("block: make segment size limit workable for > 4K PAGE_SIZE")
+3d9a9e9a77c5 ("block: limit disk max sectors to (LLONG_MAX >> 9)")
+6783811569ae ("block: better split mq vs non-mq code in add_disk_fwnode")
+b35243a447b9 ("block: rework bio splitting")

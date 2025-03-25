@@ -1,0 +1,7 @@
+fc22b06fbd2a ("platform/x86: int3472: Use correct type for "polarity", call it gpio_flags")
+1bda29aef6e1 ("platform/x86: int3472: Use str_high_low()")
+d2b27d8eb879 ("platform/x86: int3472: Use GPIO_LOOKUP() macro")
+53c5f7f6e793 ("platform/x86: int3472: Stop using gpiod_toggle_active_low()")
+5cad12851b16 ("platform/x86: int3472: Add new skl_int3472_gpiod_get_from_temp_lookup() helper")
+23516fba866c ("platform/x86: int3472: Add new skl_int3472_fill_gpiod_lookup() helper")
+9c3255a8f394 ("Merge tag 'platform-drivers-x86-v6.5-1' of git://git.kernel.org/pub/scm/linux/kernel/git/pdx86/platform-drivers-x86")

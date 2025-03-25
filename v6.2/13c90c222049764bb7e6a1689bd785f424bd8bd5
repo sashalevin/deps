@@ -1,0 +1,8 @@
+13c90c222049 ("RDMA/hns: Fix invalid sq params not being blocked")
+6ec429d5887a ("RDMA/hns: Support userspace configuring congestion control algorithm with QP granularity")
+d20a7cf9f714 ("RDMA/hns: Fix mis-modifying default congestion control algorithm")
+efb9cbf66440 ("RDMA/hns: Fix unnecessary err return when using invalid congest control algorithm")
+27c5fd271d8b ("RDMA/hns: The UD mode can only be configured with DCQCN")
+faa63656fc36 ("RDMA/hns: Add new command to support query vf caps")
+1d91855304c2 ("RDMA/hns: Support cqe inline in user space")
+2bb185c68bf4 ("RDMA/hns: Add compatibility handling for only support userspace rq inline")

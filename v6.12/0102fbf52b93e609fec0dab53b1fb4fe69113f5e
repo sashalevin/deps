@@ -1,0 +1,4 @@
+0102fbf52b93 ("gpiolib: don't check the retval of get_direction() when registering a chip")
+96fa9ec477ff ("gpiolib: don't bail out if get_direction() fails in gpiochip_add_data()")
+9d846b1aebbe ("gpiolib: check the return value of gpio_chip::get_direction()")
+fa17f749ee5b ("gpiolib: unify two loops initializing GPIO descriptors")

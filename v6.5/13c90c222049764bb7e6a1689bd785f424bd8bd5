@@ -1,0 +1,5 @@
+13c90c222049 ("RDMA/hns: Fix invalid sq params not being blocked")
+6ec429d5887a ("RDMA/hns: Support userspace configuring congestion control algorithm with QP granularity")
+d20a7cf9f714 ("RDMA/hns: Fix mis-modifying default congestion control algorithm")
+efb9cbf66440 ("RDMA/hns: Fix unnecessary err return when using invalid congest control algorithm")
+27c5fd271d8b ("RDMA/hns: The UD mode can only be configured with DCQCN")

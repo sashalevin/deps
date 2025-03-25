@@ -1,0 +1,3 @@
+638ba5089324 ("netem: Update sch->q.qlen before qdisc_tree_reduce_backlog()")
+f8d4bc455047 ("net/sched: netem: account for backlog updates from child qdisc")
+3b3a2a9c6349 ("sch/netem: fix use after free in netem_dequeue")

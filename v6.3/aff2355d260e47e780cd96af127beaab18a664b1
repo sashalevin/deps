@@ -1,0 +1,4 @@
+aff2355d260e ("spi: pxa2xx: Fix regression when toggling chip select on LPSS devices")
+78b435c9044a ("spi: pxa2xx: Introduce __lpss_ssp_update_priv() helper")
+9e264f3f85a5 ("spi: Replace all spi->chip_select and spi->cs_gpiod references with function call")
+04725901d993 ("spi: mpc5xxx-psc: Remove unused platform_data")

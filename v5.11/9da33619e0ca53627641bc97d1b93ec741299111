@@ -1,0 +1,7 @@
+9da33619e0ca ("exfat: fix soft lockup in exfat_clear_bitmap")
+a5324b3a488d ("exfat: fix the infinite loop in __exfat_free_cluster()")
+64ba4b15e5c0 ("exfat: check if cluster num is valid")
+e21a28bbcc0c ("exfat: simplify is_valid_cluster()")
+23befe490ba8 ("exfat: improve write performance when dirsync enabled")
+77edfc6e5105 ("exfat: fix erroneous discard when clear cluster bit")
+f728760aa923 ("exfat: improve performance of exfat_free_cluster when using dirsync mount option")

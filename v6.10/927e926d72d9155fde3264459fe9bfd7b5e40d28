@@ -1,0 +1,5 @@
+927e926d72d9 ("userfaultfd: fix PTE unmapping stack-allocated PTE copies")
+37b338eed105 ("userfaultfd: do not block on locking a large folio with raised refcount")
+c50f8e6053b0 ("mm: fix kernel BUG when userfaultfd_move encounters swapcache")
+dd95d2782a25 ("mm: userfaultfd: recheck dst_pmd entry in move_pages_pte()")
+e9c74b543163 ("mm: userfaultfd: move_pages_pte() use pte_offset_map_rw_nolock()")

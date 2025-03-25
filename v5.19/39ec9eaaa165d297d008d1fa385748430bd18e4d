@@ -1,0 +1,7 @@
+39ec9eaaa165 ("coredump: Only sort VMAs when core_sort_vma sysctl is set")
+7d442a33bfe8 ("binfmt_elf: Dump smaller VMAs first in ELF cores")
+4bbf9c3b53e6 ("fs/coredump: Enable dynamic configuration of max file note size")
+9d5b94753566 ("fs: Remove the now superfluous sentinel elements from ctl_table array")
+456ae5fe9b44 ("fsverity: move sysctl registration out of signature.c")
+e77000ccc531 ("fsverity: simplify handling of errors during initcall")
+888d3c9f7f3a ("Merge tag 'sysctl-6.4-rc1' of git://git.kernel.org/pub/scm/linux/kernel/git/mcgrof/linux")

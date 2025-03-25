@@ -1,0 +1,8 @@
+99e6ea912340 ("spi: atmel-quadspi: remove references to runtime PM on error path")
+5af42209a4d2 ("spi: atmel-quadspi: Add support for sama7g5 QSPI")
+c0a0203cf579 ("spi: atmel-quadspi: Create `atmel_qspi_ops` to support newer SoC families")
+4d70dd0a2508 ("spi: atmel-quadspi: Convert to platform remove callback returning void")
+9448bc1dee65 ("spi: atmel-quadspi: Free resources even if runtime resume failed in .remove()")
+ccbc6554ed66 ("spi: atmel-quadspi: switch to use modern name")
+f732646d0ccd ("spi: atmel-quadspi: Add support for configuring CS timing")
+4a2f83b7f780 ("spi: atmel-quadspi: add runtime pm support")

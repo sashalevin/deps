@@ -1,0 +1,7 @@
+7277dd0a0ba4 ("m68k: sun3: add check for __pgd_alloc()")
+a9b3c355c2e6 ("asm-generic: pgalloc: provide generic __pgd_{alloc,free}")
+94771023712a ("ARM: mm: rename PGD helpers")
+3565522e15eb ("parisc: mm: ensure pagetable_pmd_[cd]tor are called")
+98a7e47faa3e ("asm-generic: pgalloc: provide generic p4d_{alloc_one,free}")
+5a32443f94d3 ("riscv: mm: skip pgtable level check in {pud,p4d}_alloc_one")
+c150b809f7de ("Merge tag 'riscv-for-linus-6.9-mw2' of git://git.kernel.org/pub/scm/linux/kernel/git/riscv/linux")

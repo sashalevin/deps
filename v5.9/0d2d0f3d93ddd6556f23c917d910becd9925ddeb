@@ -1,0 +1,4 @@
+0d2d0f3d93dd ("fs/pipe: remove buggy and unused 'helper' function")
+c3497fd009ef ("fix short copy handling in copy_mc_pipe_to_iter()")
+2a510a744beb ("clean up copy_mc_pipe_to_iter()")
+ec6347bb4339 ("x86, powerpc: Rename memcpy_mcsafe() to copy_mc_to_{user, kernel}()")

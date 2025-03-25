@@ -1,0 +1,5 @@
+0c67c37e1710 ("fuse: revert back to __readahead_folio() for readahead")
+51b025301824 ("fuse: convert reads to use folios")
+65fe891d9005 ("fuse: convert fuse_do_readpage to use folios")
+3eab9d7bc2f4 ("fuse: convert readahead to use folios")
+aaa32429da09 ("fuse: use fuse_range_is_writeback() instead of iterating pages")

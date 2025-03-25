@@ -1,0 +1,6 @@
+058313515d5a ("mm: shmem: fix potential data corruption during shmem swapin")
+1dd44c0af4fa ("mm: shmem: skip swapcache for swapin of synchronous swap device")
+12885cbe88dd ("mm: shmem: split large entry if the swapin folio is not large")
+40ff2d11bd58 ("mm: shmem: use swap_free_nr() to free shmem swap entries")
+054a9f7ccd0a ("shmem: move memcg charge out of shmem_add_to_page_cache()")
+b96a3e9142fd ("Merge tag 'mm-stable-2023-08-28-18-26' of git://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm")

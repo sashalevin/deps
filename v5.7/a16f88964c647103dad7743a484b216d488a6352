@@ -1,0 +1,4 @@
+a16f88964c64 ("nvmet-tcp: Fix a possible sporadic response drops in weakly ordered arch")
+25df1acd2d36 ("nvmet-tcp: fix inline data size comparison in nvmet_tcp_queue_response")
+bdaf13279192 ("nvmet-tcp: fix a segmentation fault during io parsing error")
+fda871c0ba5d ("nvmet-tcp: fix receive data digest calculation for multiple h2cdata PDUs")

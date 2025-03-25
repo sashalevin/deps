@@ -1,0 +1,8 @@
+7822dd4d6d4b ("igc: Fix HW RX timestamp when passed by ZC XDP")
+8416814fffa9 ("igc: Add XDP hints kfuncs for RX hash")
+73b7123de0cf ("igc: Add igc_xdp_buff wrapper for xdp_buff in driver")
+8c78c1e52b0b ("igc: add xdp frags support to ndo_xdp_xmit")
+d098538ed4e8 ("igc: Remove igc_set_spd_dplx method")
+f9e61d365baf ("igc: don't reserve excessive XDP_PACKET_HEADROOM on XSK Rx to skb")
+f51b5e2b5943 ("igc: enable XDP metadata in driver")
+4fa8fcd34401 ("igc: AF_XDP zero-copy metadata adjust breaks SKBs on XDP_PASS")

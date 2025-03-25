@@ -1,0 +1,7 @@
+459f059be702 ("KVM: arm64: Remove VHE host restore of CPACR_EL1.ZEN")
+d381e53384a6 ("KVM: arm64: Move host SME/SVE tracking flags to host data")
+38131c02a53f ("KVM: arm64: Track presence of SPE/TRBE in kvm_host_data instead of vCPU")
+2417218f2f23 ("KVM: arm64: Get rid of __kvm_get_mdcr_el2() and related warts")
+8ca19c40c47d ("KVM: arm64: Drop MDSCR_EL1_DEBUG_MASK")
+a69283ae1db8 ("KVM: arm64: Refactor CPACR trap bit setting/clearing to use ELx format")
+8540bd1b990b ("Merge branch kvm-arm64/pkvm-6.10 into kvmarm-master/next")

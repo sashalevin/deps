@@ -1,0 +1,4 @@
+916b7f42b3b3 ("kvm: retry nx_huge_page_recovery_thread creation")
+cb380909ae3b ("vhost: return task creation error instead of NULL")
+43fb96ae7855 ("KVM: x86/mmu: Ensure NX huge page recovery thread is alive before waking")
+931656b9e2ff ("kvm: defer huge page recovery vhost task to later")

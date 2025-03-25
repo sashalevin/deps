@@ -1,0 +1,5 @@
+37d1b5d8d588 ("KVM: s390: stop using page->index for non-shadow gmaps")
+03e6db16b808 ("s390/mm: Introduce region-third and segment table entry present bits")
+0a845e0f6348 ("mm/treewide: replace pud_large() with pud_leaf()")
+d794734c9bbf ("x86/mm/ident_map: Use gbpages only where full GB page should be mapped.")
+1954da4a2b62 ("s390/mm: add missing arch_set_page_dat() call to gmap allocations")

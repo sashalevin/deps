@@ -1,0 +1,4 @@
+65161fb544aa ("net: Fix dev_net(dev) race in unregister_netdevice_notifier_dev_net().")
+7fb1073300a2 ("net: Hold rtnl_net_lock() in (un)?register_netdevice_notifier_dev_net().")
+b20b8aec6ffc ("devlink: Fix netdev notifier chain corruption")
+3e52fba03a20 ("net: introduce a helper to move notifier block to different namespace")

@@ -1,0 +1,5 @@
+d810d4c27bf3 ("fs/pipe: do not open-code pipe head/tail logic in FIONREAD")
+aeb213cddeb5 ("fs/pipe.c: local vars have to match types of proper pipe_inode_info fields")
+c73be61cede5 ("pipe: Add general notification queue support")
+b580b93664f9 ("pipe: Add O_NOTIFICATION_PIPE")
+0858caa419e6 ("uapi: General notification queue definitions")

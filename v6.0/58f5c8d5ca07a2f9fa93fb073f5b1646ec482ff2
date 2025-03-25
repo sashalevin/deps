@@ -1,0 +1,7 @@
+58f5c8d5ca07 ("nvmet: fix a memory leak in controller identify")
+84909f7decbd ("nvmet: use kzalloc instead of ZERO_PAGE in nvme_execute_identify_ns_nvm()")
+64a51080eaba ("nvmet: implement id ns for nvm command set")
+145f0dbb8aac ("nvmet: cleanup nvmet_execute_identify()")
+97416f67d55f ("nvmet: fix Identify Active Namespace ID list handling")
+62904b3b333e ("nvmet: fix Identify Controller handling")
+8c098aa00118 ("nvmet: fix Identify Namespace handling")

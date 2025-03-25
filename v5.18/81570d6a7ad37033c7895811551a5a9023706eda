@@ -1,0 +1,4 @@
+81570d6a7ad3 ("gpiolib: protect gpio_chip with SRCU in array_info paths in multi get/set")
+4ea0c97776bf ("gpiolib: Check array_info for NULL only once in gpiod_get_array()")
+79736429c97f ("gpiolib: Replace open coded krealloc()")
+1cef8b501976 ("gpiolib: Get rid of redundant 'else'")

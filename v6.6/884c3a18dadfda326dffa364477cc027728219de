@@ -1,0 +1,7 @@
+884c3a18dadf ("bpf: verifier: Do not extract constant map keys for irrelevant maps")
+d2102f2f5d75 ("bpf: verifier: Support eliding map lookup nullness")
+8ea607330a39 ("bpf: Fix overloading of MEM_UNINIT's meaning")
+32556ce93bc4 ("bpf: Fix helper writes to read-only maps")
+45cbc7a5e004 ("bpf: add a get_helper_proto() utility function")
+786bf0e7e2ec ("bpf: improve error message for unsupported helper")
+0b5194072915 ("bpf: Factor out helper check_reg_const_str()")
